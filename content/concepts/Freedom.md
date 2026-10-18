@@ -29,6 +29,8 @@ Freedom — the capacity to act from one's own understanding rather than from ex
 
 [[E031 — Practise radical freedom]]
 
+[[The dizziness of freedom]]
+
 ## Sources
 - SEP Theories of Freedom: https://plato.stanford.edu/entries/freedom-variants/
 
