@@ -70,7 +70,7 @@
           var msg = (j && j.message) || '';
           var hint;
           if (r.status === 403 && /not accessible/i.test(msg)) {
-            hint = 'Your key can see this repository but is not allowed to write to it. Fix (no new key needed): on the GitHub token page, click your token → Permissions → Repository permissions → Contents → set to "Read and write" → Update. Then simply try saving again.';
+            hint = 'Your key can see this repository but is not allowed to write to it. Fix (no new key needed): on the GitHub token page, click your token → Permissions → + Add permissions → search "Contents" → tick it → set Read and write → Update. Then simply try saving again.';
           } else if (r.status === 401) {
             hint = 'GitHub did not recognize this key — copy it fresh from the GitHub token page and paste it again in ⚙ Settings.';
           } else {
@@ -416,7 +416,7 @@
       'Open <a href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener">this token page</a> (it opens in a new tab) and click through:<br>' +
       '• Name it anything (for example <i>wiki</i>)<br>' +
       '• <i>Repository access</i> → <i>Only select repositories</i> → choose <b>flourishing-compendium</b><br>' +
-      '• <i>Permissions</i> → <i>Repository permissions</i> → <b>Contents</b> → <b>Read and write</b><br>' +
+      '• Under <i>Permissions</i>, click <b>+ Add permissions</b>, type <b>Contents</b> in the search, tick it, and set it to <b>Read and write</b><br>' +
       '• <i>Generate token</i>, then copy the code it shows (it starts with <code>github_pat_</code>)</div></div>' +
       '<div class="fce-step"><span class="fce-stepn">2</span><div><b>Paste it below.</b> It stays in this browser and is only ever sent to GitHub to save your edits.</div></div>' +
       '<div class="fce-step"><input id="fceWelcomeToken" type="password" placeholder="github_pat_…" autocomplete="off"></div>' +
@@ -442,7 +442,7 @@
           ov.remove();
           toast('Connected — editing is now: Edit → write → Save');
         } else if (r.status === 403 || r.status === 404) {
-          statusEl.textContent = 'This key cannot see the repository\u2019s files. On its GitHub page: Repository access \u2192 Only select repositories \u2192 flourishing-compendium, and Permissions \u2192 Contents \u2192 Read and write.';
+          statusEl.textContent = 'This key cannot see the repository\u2019s files. On its GitHub page: Repository access \u2192 Only select repositories \u2192 flourishing-compendium, then Permissions \u2192 + Add permissions \u2192 search "Contents" \u2192 tick it \u2192 Read and write.';
         } else {
           statusEl.textContent = 'That key was not accepted (' + r.status + ') — please copy it again from GitHub.';
         }
@@ -492,7 +492,7 @@
         headers: { 'Authorization': 'Bearer ' + t, 'Accept': 'application/vnd.github+json' }
       }).then(function (r) {
         if (r.status === 401) { statusEl.textContent = 'This key was not accepted — copy it fresh from GitHub.'; return; }
-        if (r.status === 403 || r.status === 404) { statusEl.textContent = 'The key works, but cannot read this repository\u2019s files: on the token page set Repository access to this repo and Contents to Read and write.'; return; }
+        if (r.status === 403 || r.status === 404) { statusEl.textContent = 'The key works, but cannot see this repository\u2019s files: on the token page, + Add permissions → search "Contents" → tick it → Read and write.'; return; }
         if (!r.ok) { statusEl.textContent = 'Check failed (' + r.status + ')'; return; }
         statusEl.textContent = 'Key accepted, repository access OK \u2713 (saving also needs Contents = Read and write)';
       });
