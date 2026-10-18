@@ -96,7 +96,7 @@
   var ac = { items: [], sel: 0, span: null, start: -1 };
 
   function open(entry) {
-    if (!configured()) { settings(); return; }
+    if (!configured()) { welcome(); return; }
     var ov = modalOverlay();
     var path = mdPath(entry);
     api('GET', '/contents/' + encodeURIComponent(path).replace(/%2F/g, '/') + '?ref=' + gh().branch)
@@ -135,10 +135,11 @@
       '<div class="fce-ac" hidden></div>' +
       '</div>' +
       '<div class="fce-foot">' +
-      '<span class="fce-note">Ctrl/Cmd+S to save · drafts autosave to this browser until saved</span>' +
+      '<span class="fce-note">Ctrl/Cmd+S to save · your draft is kept in this browser until you save</span>' +
       '<span class="fce-status"></span>' +
       '<button class="fce-btn ghost" data-act="cancel">Close</button>' +
-      '<button class="fce-btn primary" data-act="save">Save to GitHub</button>' +
+      '<button class="fce-btn primary" data-act="save">Save</button>' +
+      '<button class="fce-btn ghost fce-mini" data-act="settings" title="Editor settings">⚙</button>' +
       '</div>' +
       '</div>';
 
@@ -282,8 +283,8 @@
         sha: sha,
         branch: gh().branch
       }).then(function () {
-        statusEl.textContent = 'Saved ✓ — the site rebuilds in about a minute';
-        toast('Saved to GitHub — the site will update itself shortly');
+        statusEl.textContent = 'Saved — your site updates itself in about a minute';
+        toast('Saved — your site will update itself in about a minute');
         try { localStorage.removeItem(draftKey); } catch (e) {}
         parts.body = body;
       }).catch(function (err) {
@@ -293,6 +294,8 @@
     }
 
     ov.querySelector('[data-act="save"]').addEventListener('click', doSave);
+    var sBtn = ov.querySelector('[data-act="settings"]');
+    if (sBtn) sBtn.addEventListener('click', settings);
     ov.querySelector('[data-act="cancel"]').addEventListener('click', function () {
       if (ta.value !== parts.body && !confirm('Close without saving? (a draft is kept in this browser)')) return;
       ov.remove();
@@ -311,7 +314,7 @@
 
   /* ═══════════════ ADD-ENTRY WIZARD ═══════════════ */
   function openNew() {
-    if (!configured()) { settings(); return; }
+    if (!configured()) { welcome(); return; }
     var ov = modalOverlay();
     ov.innerHTML =
       '<div class="fce-shell narrow">' +
@@ -386,6 +389,63 @@
     document.body.appendChild(ov);
   }
 
+  /* ═══════════════ WELCOME (one-time, plain-language setup) ═══════════════ */
+  function welcome() {
+    var ov = modalOverlay();
+    ov.innerHTML =
+      '<div class="fce-shell narrow fce-welcome">' +
+      '<div class="fce-head">' +
+      '<div class="fce-title">Make this wiki yours to edit</div>' +
+      '<div class="fce-sub">A one-time connection, about two minutes. After that, editing is simply: open a page → <b>Edit</b> → write → <b>Save</b>.</div>' +
+      '</div>' +
+      '<div class="fce-welcome-body">' +
+      '<div class="fce-step"><span class="fce-stepn">1</span><div><b>Get your key from GitHub.</b> ' +
+      'Open <a href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener">this token page</a> (it opens in a new tab) and click through:<br>' +
+      '• Name it anything (for example <i>wiki</i>)<br>' +
+      '• <i>Repository access</i> → <i>Only select repositories</i> → choose <b>flourishing-compendium</b><br>' +
+      '• <i>Permissions</i> → <i>Repository permissions</i> → <b>Contents</b> → <b>Read and write</b><br>' +
+      '• <i>Generate token</i>, then copy the code it shows (it starts with <code>github_pat_</code>)</div></div>' +
+      '<div class="fce-step"><span class="fce-stepn">2</span><div><b>Paste it below.</b> It stays in this browser and is only ever sent to GitHub to save your edits.</div></div>' +
+      '<div class="fce-step"><input id="fceWelcomeToken" type="password" placeholder="github_pat_…" autocomplete="off"></div>' +
+      '</div>' +
+      '<div class="fce-foot">' +
+      '<span class="fce-status"></span>' +
+      '<button class="fce-btn primary" data-act="done">Finish — start editing</button>' +
+      '</div>' +
+      '<div class="fce-alt">Prefer to skip this? You can also edit on <a href="https://github.com/Clemvillatte/flourishing-compendium/tree/main/content" target="_blank" rel="noopener">github.com</a>: open any file under <i>content/</i>, click the pencil, edit, commit. <a href="#" class="fce-adv">Advanced settings</a></div>' +
+      '</div>';
+
+    ov.querySelector('[data-act="done"]').addEventListener('click', function () {
+      var t = ov.querySelector('#fceWelcomeToken').value.trim();
+      var statusEl = ov.querySelector('.fce-status');
+      if (!t) { statusEl.textContent = 'Paste the token from step 1 first (or use the github.com way below).'; return; }
+      statusEl.textContent = 'Checking…';
+      fetch('https://api.github.com/repos/' + (cfg().repo || DEFAULTS.repo), {
+        headers: { 'Authorization': 'Bearer ' + t, 'Accept': 'application/vnd.github+json' }
+      }).then(function (r) {
+        if (r.ok) {
+          localStorage.setItem('fcgh_token', t);
+          if (!cfg().repo) saveCfg({ repo: DEFAULTS.repo, branch: 'main' });
+          ov.remove();
+          toast('Connected — editing is now: Edit → write → Save');
+        } else {
+          statusEl.textContent = 'That key was not accepted (' + r.status + ') — please copy it again from GitHub.';
+        }
+      });
+    });
+    ov.querySelector('.fce-adv').addEventListener('click', function (ev) {
+      ev.preventDefault();
+      ov.remove();
+      settings();
+    });
+    ov.querySelector('.fce-alt a[href*="github.com/Clem"]').addEventListener('click', function (ev) {
+      ov.remove();
+    });
+    document.body.appendChild(ov);
+    var inp = ov.querySelector('#fceWelcomeToken');
+    if (inp) inp.focus();
+  }
+
   /* ═══════════════ SETTINGS ═══════════════ */
   function settings() {
     var ov = modalOverlay();
@@ -444,30 +504,19 @@
     configured: configured
   };
 
-  /* ---------- nav buttons (injected once DOM is ready) ---------- */
-  function mountNav() {
-    var bar = document.querySelector('.vtab-bar, #tabs, nav');
-    if (!bar) bar = document.getElementById('tabGraph') && document.getElementById('tabGraph').parentNode;
-    if (!bar) return;
-    if (document.getElementById('fcAddBtn')) return;
-    var add = document.createElement('button');
-    add.id = 'fcAddBtn'; add.className = 'vtab'; add.type = 'button';
-    add.title = 'Add a new principle, concept, kernel, story or saying';
-    add.textContent = '+ Add';
-    add.addEventListener('click', openNew);
-    var gear = document.createElement('button');
-    gear.id = 'fcGearBtn'; gear.className = 'vtab'; gear.type = 'button';
-    gear.title = 'Editor settings (GitHub repo + token)';
-    gear.textContent = '⚙';
-    gear.addEventListener('click', settings);
-    var graph = document.getElementById('tabGraph');
-    if (graph && graph.parentNode === bar) {
-      bar.insertBefore(gear, graph.nextSibling);
-      bar.insertBefore(add, gear);
-    } else { bar.appendChild(add); bar.appendChild(gear); }
+  /* ---------- one discreet "+ New entry" link in the Library list header ---------- */
+  function mountLibraryButton() {
+    var bar = document.getElementById('filterBar');
+    if (!bar || document.getElementById('fcNewBtn')) return;
+    var b = document.createElement('button');
+    b.id = 'fcNewBtn'; b.type = 'button';
+    b.title = 'Write a new principle, concept, kernel, story or saying';
+    b.textContent = '+ New entry';
+    b.addEventListener('click', openNew);
+    bar.appendChild(b);
   }
-  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', mountNav);
-  else mountNav();
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', mountLibraryButton);
+  else mountLibraryButton();
 
   /* ---------- styles ---------- */
   var css = '' +
@@ -505,6 +554,7 @@
     '.fce-btn.primary:hover{background:#75591f}' +
     '.fce-btn.ghost{background:transparent;border-color:#cbb98f;color:#5d4b28}' +
     '.fce-btn.ghost:hover{background:#f0e7d2}' +
+    '.fce-mini{padding:9px 11px}' +
     '.fce-form{padding:8px 22px 4px;display:flex;flex-direction:column;gap:12px}' +
     '.fce-form label{display:flex;flex-direction:column;gap:4px;font-size:13px;font-weight:600;color:#5d4b28}' +
     '.fce-form input,.fce-form select,.fce-form textarea{border:1px solid #d9cbb0;border-radius:8px;padding:9px 11px;font-size:14px;background:#fffdf8;color:#2b2114;font-family:inherit}' +
@@ -513,6 +563,16 @@
     '.fce-toast{position:fixed;bottom:26px;left:50%;transform:translateX(-50%) translateY(20px);background:#3a2f1c;color:#f5ecd9;padding:12px 22px;border-radius:10px;font-size:14px;z-index:100002;opacity:0;transition:all .25s;box-shadow:0 8px 30px rgba(0,0,0,.4)}' +
     '.fce-toast.on{opacity:1;transform:translateX(-50%) translateY(0)}' +
     '.fce-toast.err{background:#5c2422}' +
+    '.fce-welcome .fce-step{display:flex;gap:14px;margin:16px 0;align-items:flex-start}' +
+    '.fce-stepn{flex:0 0 26px;height:26px;border-radius:50%;background:#8a6d2f;color:#fff;font-size:13px;display:flex;align-items:center;justify-content:center;font-weight:700}' +
+    '.fce-welcome .fce-step input{margin-top:2px;border:1px solid #d9cbb0;border-radius:8px;padding:10px 12px;font-size:14px;width:100%;background:#fffdf8}' +
+    '.fce-welcome-body{padding:4px 26px 10px}' +
+    '.fce-welcome .fce-step div{font-size:14.5px;line-height:1.65;color:#3d2f1a}' +
+    '.fce-welcome .fce-step a{color:#8a6d2f}' +
+    '.fce-alt{padding:12px 24px 16px;font-size:12.5px;color:#9a8a6f;border-top:1px solid #eee3cc}' +
+    '.fce-alt a{color:#8a6d2f}' +
+    '#fcNewBtn{background:none;border:1px solid #cbb98f;border-radius:8px;color:#8a6d2f;font-size:12px;padding:3px 10px;cursor:pointer;margin-left:10px;vertical-align:1px}' +
+    '#fcNewBtn:hover{background:#f3ead4}' +
     '@media (max-width:800px){.fce-main{flex-direction:column}.fce-preview{border-left:0;border-top:1px solid #e4d9c3}}';
   var st = document.createElement('style');
   st.textContent = css;

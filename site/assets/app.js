@@ -722,7 +722,7 @@ function wireEditPanel(e) {
   }
 
   btn.addEventListener('click', () => {
-    if (window.fcEditor2 && window.fcEditor2.configured()) { window.fcEditor2.open(e); return; }
+    if (window.fcEditor2) { window.fcEditor2.open(e); return; }
     panel.style.display === 'none' ? openPanel() : closePanel();
   });
 
