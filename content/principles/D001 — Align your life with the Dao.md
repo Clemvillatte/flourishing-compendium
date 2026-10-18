@@ -81,7 +81,7 @@ There is a way things actually unfold: an implicit order to nature, events, and 
 > "The Tao that can be trodden is not the enduring and unchanging Tao. The name that can be named is not the enduring and unchanging name."
 > — James Legge, trans., The Tao Teh King (Sacred Books of the East vol. 39, 1891).
 > Locator: Daodejing, ch. 1.
-> Open-access source: https://www.sacred-texts.com/tao/taote.htm
+> Open-access source: https://www.sacred-texts.com/tao/taote.html
 
 <!-- fc: reflections
 Where in your life are you fighting the grain — pushing against how things actually unfold instead of studying them first? What would moving with them change?
