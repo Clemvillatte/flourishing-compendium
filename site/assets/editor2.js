@@ -65,7 +65,20 @@
     }
     return fetch('https://api.github.com/repos/' + g.repo + path, opts).then(function (r) {
       if (r.ok) return r.json();
-      if (r.status === 401 || r.status === 403) throw { code: r.status, message: 'GitHub rejected the token — open ⚙ Settings and paste a valid token (Contents: Read & write).' };
+      if (r.status === 401 || r.status === 403) {
+        return r.json().catch(function () { return {}; }).then(function (j) {
+          var msg = (j && j.message) || '';
+          var hint;
+          if (r.status === 403 && /not accessible/i.test(msg)) {
+            hint = 'Your key can see this repository but is not allowed to write to it. Fix (no new key needed): on the GitHub token page, click your token → Permissions → Repository permissions → Contents → set to "Read and write" → Update. Then simply try saving again.';
+          } else if (r.status === 401) {
+            hint = 'GitHub did not recognize this key — copy it fresh from the GitHub token page and paste it again in ⚙ Settings.';
+          } else {
+            hint = 'GitHub refused the request: ' + msg;
+          }
+          throw { code: r.status, message: hint };
+        });
+      }
       if (r.status === 404) throw { code: 404, message: 'File or repo not found — check the repo name in ⚙ Settings.' };
       if (r.status === 409 || r.status === 422) throw { code: r.status, message: 'The file changed since it was loaded — close and reopen the entry to get the latest version, then re-apply your edit.' };
       return r.json().then(function (j) {
@@ -420,7 +433,7 @@
       var statusEl = ov.querySelector('.fce-status');
       if (!t) { statusEl.textContent = 'Paste the token from step 1 first (or use the github.com way below).'; return; }
       statusEl.textContent = 'Checking…';
-      fetch('https://api.github.com/repos/' + (cfg().repo || DEFAULTS.repo), {
+      fetch('https://api.github.com/repos/' + (cfg().repo || DEFAULTS.repo) + '/contents/content/_order.json', {
         headers: { 'Authorization': 'Bearer ' + t, 'Accept': 'application/vnd.github+json' }
       }).then(function (r) {
         if (r.ok) {
@@ -428,6 +441,8 @@
           if (!cfg().repo) saveCfg({ repo: DEFAULTS.repo, branch: 'main' });
           ov.remove();
           toast('Connected — editing is now: Edit → write → Save');
+        } else if (r.status === 403 || r.status === 404) {
+          statusEl.textContent = 'This key cannot see the repository\u2019s files. On its GitHub page: Repository access \u2192 Only select repositories \u2192 flourishing-compendium, and Permissions \u2192 Contents \u2192 Read and write.';
         } else {
           statusEl.textContent = 'That key was not accepted (' + r.status + ') — please copy it again from GitHub.';
         }
@@ -470,13 +485,16 @@
     ov.querySelector('[data-act="cancel"]').addEventListener('click', function () { ov.remove(); });
     var statusEl = ov.querySelector('.fce-status');
     ov.querySelector('[data-act="test"]').addEventListener('click', function () {
-      var t = ov.querySelector('#fceToken').value.trim();
+      var t = ov.querySelector('#fceToken').value.trim() || token();
       var repo = ov.querySelector('#fceRepo').value.trim();
-      fetch('https://api.github.com/repos/' + repo, {
-        headers: { 'Authorization': 'Bearer ' + (t || token()), 'Accept': 'application/vnd.github+json' }
+      statusEl.textContent = 'Checking…';
+      fetch('https://api.github.com/repos/' + repo + '/contents/content/_order.json', {
+        headers: { 'Authorization': 'Bearer ' + t, 'Accept': 'application/vnd.github+json' }
       }).then(function (r) {
-        if (r.ok) statusEl.textContent = 'Connection OK ✓';
-        else statusEl.textContent = 'Failed (' + r.status + ') — check repo name and token';
+        if (r.status === 401) { statusEl.textContent = 'This key was not accepted — copy it fresh from GitHub.'; return; }
+        if (r.status === 403 || r.status === 404) { statusEl.textContent = 'The key works, but cannot read this repository\u2019s files: on the token page set Repository access to this repo and Contents to Read and write.'; return; }
+        if (!r.ok) { statusEl.textContent = 'Check failed (' + r.status + ')'; return; }
+        statusEl.textContent = 'Key accepted, repository access OK \u2713 (saving also needs Contents = Read and write)';
       });
     });
     ov.querySelector('[data-act="save"]').addEventListener('click', function () {
