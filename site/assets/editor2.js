@@ -138,6 +138,7 @@
       '<button data-cmd="ol" title="Numbered list">1≡</button>' +
       '<button data-cmd="quote" title="Blockquote">❝</button>' +
       '<button data-cmd="wlink" title="Wiki link — link to another entry ([[...]])">[[…]]</button>' +
+      '<button data-cmd="connect" title="Connect this entry to another — search or pick a suggestion; the link shows in the graph">⇄ Connect</button>' +
       '<button data-cmd="link" title="Web link">🔗</button>' +
       '<span class="fce-sp"></span>' +
       '<button data-cmd="preview" title="Toggle preview">👁 Preview</button>' +
@@ -146,6 +147,13 @@
       '<textarea class="fce-ta" spellcheck="true"></textarea>' +
       '<div class="fce-preview"><div class="fce-preview-inner"></div></div>' +
       '<div class="fce-ac" hidden></div>' +
+      '<div class="fce-conn" hidden>' +
+      '<div class="fce-conn-box">' +
+      '<input class="fce-conn-q" type="text" placeholder="Connect to… type any part of a name (e.g. examined)">' +
+      '<div class="fce-conn-list"></div>' +
+      '<div class="fce-conn-hint">↑ ↓ to choose · Enter to connect · Esc to close</div>' +
+      '</div>' +
+      '</div>' +
       '</div>' +
       '<div class="fce-foot">' +
       '<span class="fce-note">Ctrl/Cmd+S to save · your draft is kept in this browser until you save</span>' +
@@ -160,6 +168,13 @@
     var preview = ov.querySelector('.fce-preview');
     var previewInner = ov.querySelector('.fce-preview-inner');
     ta.value = parts.body;
+
+    /* id/file lookup maps for the connect picker */
+    var mapById = new Map(), mapByFile = new Map();
+    (window.wikiData || []).forEach(function (e2) {
+      if (e2.id && !mapById.has(e2.id)) mapById.set(e2.id, e2);
+      if (e2.file && !mapByFile.has(e2.file)) mapByFile.set(e2.file, e2);
+    });
 
     /* draft autosave */
     var draftKey = 'fce-draft:' + entry.id;
@@ -195,6 +210,7 @@
           b.classList.toggle('active');
           return;
         }
+        if (cmd === 'connect') { openConnect(); return; }
         wrapSelection(cmd);
       });
     });
@@ -234,6 +250,51 @@
       }
     });
 
+    /* ---------- shared link helpers (autocomplete + connect picker) ---------- */
+    function linkTargetOf(e2) { return e2.file || e2.id; }
+    function searchEntries(q, limit, excludeId) {
+      q = String(q || '').trim().toLowerCase();
+      var out = [];
+      if (!q) return out;
+      var data = window.wikiData || [];
+      var scored = [];
+      for (var i = 0; i < data.length; i++) {
+        var e2 = data[i];
+        if (!e2 || e2.id === excludeId) continue;
+        var t = (e2.title || e2.id || '').toLowerCase();
+        var id2 = (e2.id || '').toLowerCase();
+        var sc = 0;
+        if (t === q) sc = 5;                       // exact title match
+        else if (t.indexOf(q) === 0) sc = 4;        // title starts with the query
+        else if (id2.indexOf(q) === 0) sc = 3;      // id starts with it
+        else if (t.split(/\s+/).some(function (w) { return w.indexOf(q) === 0; })) sc = 3; // a word of the title starts with it
+        else if (t.indexOf(q) >= 0) sc = 2;         // title contains it anywhere
+        else if (id2.indexOf(q) >= 0) sc = 1;       // id contains it anywhere
+        if (sc) scored.push([sc, e2]);
+      }
+      scored.sort(function (a, b) {
+        var ta2 = String(a[1].title || a[1].id || ''), tb = String(b[1].title || b[1].id || '');
+        return (b[0] - a[0]) || (ta2.length - tb.length) || ta2.localeCompare(tb);
+      });
+      for (var j = 0; j < limit && j < scored.length; j++) out.push(scored[j][1]);
+      return out;
+    }
+    function insertWikiLink(e2) {
+      var s = ta.selectionStart, epos = ta.selectionEnd, v = ta.value;
+      var before = v.slice(0, s), after = v.slice(epos);
+      var m = before.match(/\[\[([^\[\]|\n]*)$/);
+      if (m) {
+        before = before.slice(0, before.length - m[0].length);
+        if (after.slice(0, 2) === ']]') after = after.slice(2);
+      }
+      var mid = '[[' + linkTargetOf(e2) + ']]';
+      ta.value = before + mid + after;
+      var np = before.length + mid.length;
+      ta.focus();
+      ta.setSelectionRange(np, np);
+      ta.dispatchEvent(new Event('input'));
+    }
+
     /* [[ autocomplete ]] */
     var acEl = ov.querySelector('.fce-ac');
     function hideAC() { acEl.hidden = true; ac.items = []; ac.span = null; }
@@ -242,14 +303,7 @@
       var upto = ta.value.slice(0, pos);
       var m = upto.match(/\[\[([^\[\]|\n]*)$/);
       if (!m || m[1].length < 1) { hideAC(); return; }
-      var q = m[1].toLowerCase();
-      var matches = [];
-      var data = window.wikiData || [];
-      for (var i = 0; i < data.length && matches.length < 10; i++) {
-        var e2 = data[i];
-        var t = (e2.title || e2.id || '');
-        if (t.toLowerCase().indexOf(q) === 0 || e2.id.toLowerCase().indexOf(q) === 0) matches.push(e2);
-      }
+      var matches = searchEntries(m[1], 10, entry.id);
       if (!matches.length) { hideAC(); return; }
       ac.items = matches; ac.sel = 0; ac.start = pos - m[1].length;
       acEl.innerHTML = matches.map(function (e2, idx) {
@@ -271,18 +325,121 @@
     }
     function acceptAC() {
       var target = ac.items[ac.sel];
-      var after = ta.value.slice(ta.selectionStart);
-      var before = ta.value.slice(0, ac.start);
-      ta.value = before + target.id + ']]' + after;
-      var np = ac.start + target.id.length + 2;
-      ta.focus(); ta.setSelectionRange(np, np);
+      if (!target) { hideAC(); return; }
       hideAC();
-      ta.dispatchEvent(new Event('input'));
+      insertWikiLink(target);
     }
     acEl.addEventListener('mousedown', function (ev) {
       var it = ev.target.closest('.fce-ac-item');
       if (it) { ac.sel = +it.dataset.i; acceptAC(); }
     });
+
+    /* ---------- connect picker: search + suggested connections ---------- */
+    var connEl = ov.querySelector('.fce-conn');
+    var connQ = ov.querySelector('.fce-conn-q');
+    var connList = ov.querySelector('.fce-conn-list');
+    var conn = { items: [], sel: 0 };
+
+    var LINKABLE = { principle: 1, concept: 1, kernel: 1, story: 1, saying: 1 };
+    var STOP = { the: 1, a: 1, an: 1, of: 1, and: 1, or: 1, to: 1, in: 1, on: 1, for: 1, with: 1, as: 1, versus: 1, vs: 1 };
+    function tokensOf(text) {
+      return String(text || '').toLowerCase().split(/[^\u00e0-\u00ff0-9-]+/).filter(function (w) { return w.length > 2 && !STOP[w]; });
+    }
+    function linkedIdsNow() {
+      var out = new Set();
+      var re = /\[\[([^|\]]+)(?:\|[^\]]+)?\]\]/g, m;
+      while ((m = re.exec(ta.value)) !== null) {
+        var t = (m[1] || '').trim();
+        var e2 = mapById.get(t) || mapByFile.get(t);
+        if (e2) out.add(e2.id);
+      }
+      out.add(entry.id);
+      return out;
+    }
+    function suggestConnections() {
+      var linked = linkedIdsNow();
+      var myTags = new Set(entry.tags || []);
+      var myTok = new Set(tokensOf(entry.title + ' ' + ta.value.slice(0, 6000)));
+      // neighbour-of-neighbour: entries that my current connections link to
+      var nn = new Map();
+      var re = /\[\[([^|\]]+)(?:\|[^\]]+)?\]\]/g, m;
+      while ((m = re.exec(ta.value)) !== null) {
+        var src = mapById.get((m[1] || '').trim()) || mapByFile.get((m[1] || '').trim());
+        if (!src || !src.content) continue;
+        var re2 = /\[\[([^|\]]+)(?:\|[^\]]+)?\]\]/g, m2;
+        while ((m2 = re2.exec(src.content)) !== null) {
+          var t2 = (m2[1] || '').trim();
+          var c2 = mapById.get(t2) || mapByFile.get(t2);
+          if (c2 && LINKABLE[c2.type] && !linked.has(c2.id)) nn.set(c2.id, (nn.get(c2.id) || 0) + 1);
+        }
+      }
+      var scored = [];
+      var data = window.wikiData || [];
+      for (var j = 0; j < data.length; j++) {
+        var c = data[j];
+        if (!LINKABLE[c.type] || linked.has(c.id)) continue;
+        var sc = (nn.get(c.id) || 0) * 3;
+        var tags = c.tags || [];
+        for (var k = 0; k < tags.length; k++) if (myTags.has(tags[k])) sc += 2;
+        var ct = tokensOf(c.title);
+        for (var k2 = 0; k2 < ct.length; k2++) if (myTok.has(ct[k2])) sc += 1;
+        if (sc > 0) scored.push([sc, c]);
+      }
+      scored.sort(function (a, b) { return (b[0] - a[0]) || String(a[1].id).localeCompare(String(b[1].id)); });
+      return scored.slice(0, 8).map(function (x) { return x[1]; });
+    }
+    function renderConn(items, heading, emptyMsg) {
+      conn.items = items; conn.sel = 0;
+      if (!items.length) {
+        connList.innerHTML = '<div class="fce-conn-empty">' + escHtml(emptyMsg || 'Nothing matches — try fewer letters.') + '</div>';
+        return;
+      }
+      var h = heading ? '<div class="fce-conn-head">' + escHtml(heading) + '</div>' : '';
+      connList.innerHTML = h + items.map(function (e2, idx) {
+        return '<div class="fce-ac-item fce-conn-item' + (idx === 0 ? ' sel' : '') + '" data-i="' + idx + '">' +
+          '<span class="fce-ac-t">' + escHtml(e2.title || e2.id) + '</span>' +
+          '<span class="fce-ac-k">' + escHtml(e2.type) + '</span></div>';
+      }).join('');
+      connList.querySelectorAll('.fce-conn-item').forEach(function (el) {
+        el.addEventListener('mousedown', function (ev) { ev.preventDefault(); chooseConn(+el.dataset.i); });
+      });
+    }
+    function chooseConn(i) {
+      var t = conn.items[i];
+      if (!t) return;
+      insertWikiLink(t);
+      statusEl.textContent = 'Connected to ' + (t.title || t.id) + ' — Save to publish';
+      closeConnect();
+    }
+    function openConnect() {
+      connEl.hidden = false;
+      connQ.value = '';
+      renderConn(suggestConnections(), 'Suggested connections', 'No suggestions yet — write a little more, or type a name to search.');
+      connQ.focus();
+    }
+    function closeConnect() { connEl.hidden = true; conn.items = []; ta.focus(); }
+    connQ.addEventListener('input', function () {
+      if (!connQ.value.trim()) {
+        renderConn(suggestConnections(), 'Suggested connections', 'No suggestions yet — write a little more, or type a name to search.');
+        return;
+      }
+      renderConn(searchEntries(connQ.value, 12, entry.id), '');
+    });
+    connQ.addEventListener('keydown', function (ev) {
+      if (ev.key === 'ArrowDown' || ev.key === 'ArrowUp') {
+        ev.preventDefault();
+        if (!conn.items.length) return;
+        conn.sel = (conn.sel + (ev.key === 'ArrowDown' ? 1 : -1) + conn.items.length) % conn.items.length;
+        connList.querySelectorAll('.fce-conn-item').forEach(function (el, i2) { el.classList.toggle('sel', i2 === conn.sel); });
+        var selEl = connList.querySelector('.fce-conn-item.sel');
+        if (selEl && selEl.scrollIntoView) selEl.scrollIntoView({ block: 'nearest' });
+      } else if (ev.key === 'Enter') {
+        ev.preventDefault(); chooseConn(conn.sel);
+      } else if (ev.key === 'Escape') {
+        ev.preventDefault(); closeConnect();
+      }
+    });
+    connEl.addEventListener('mousedown', function (ev) { if (ev.target === connEl) closeConnect(); });
 
     /* save */
     var statusEl = ov.querySelector('.fce-status');
@@ -651,6 +808,13 @@
     '.fce-ac-item.sel,.fce-ac-item:hover{background:#f3ead4}' +
     '.fce-ac-t{font-size:13.5px}' +
     '.fce-ac-k{font-size:11px;color:#9a8a6f}' +
+    '.fce-conn{position:absolute;inset:0;z-index:100003;background:rgba(20,16,10,.35);display:flex;align-items:flex-start;justify-content:center;padding-top:56px}' +
+    '.fce-conn-box{background:#fffdf8;border:1px solid #cbb98f;border-radius:12px;box-shadow:0 16px 50px rgba(0,0,0,.35);width:min(560px,92%);overflow:hidden}' +
+    '.fce-conn-q{width:100%;box-sizing:border-box;border:0;border-bottom:1px solid #e4d9c3;padding:14px 16px;font-size:15px;outline:none;background:#fffdf8;color:#2b2114;font-family:Georgia,serif}' +
+    '.fce-conn-list{max-height:340px;overflow:auto}' +
+    '.fce-conn-head{padding:9px 12px 3px;font-size:11px;text-transform:uppercase;letter-spacing:.06em;color:#9a8a6f}' +
+    '.fce-conn-empty{padding:16px 14px;font-size:13px;color:#9a8a6f}' +
+    '.fce-conn-hint{padding:8px 14px;font-size:11.5px;color:#9a8a6f;border-top:1px solid #eee3cc}' +
     '.fce-foot{display:flex;align-items:center;gap:10px;padding:14px 20px;border-top:1px solid #e4d9c3}' +
     '.fce-note{flex:1;font-size:12px;color:#8a7a5f}' +
     '.fce-linkbtn{background:none;border:none;color:#8a6d2f;text-decoration:underline;cursor:pointer;font-size:12px;padding:0}' +
