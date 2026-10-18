@@ -1,0 +1,193 @@
+---
+schema: 0
+id: "R Reference — Book III Appendix C - Philosophy and Indigenous Knowledge References"
+type: "reference"
+title: "Book III Appendix C - Philosophy and Indigenous Knowledge References"
+file: "R Reference — Book III Appendix C - Philosophy and Indigenous Knowledge References"
+tags: ["relational-philosophies"]
+navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-GUID"], "alternatePaths": []}
+legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relational Philosophies", "chapter": "Appendices & Reference — R — Relational Philosophies", "parent": ""}
+---
+- Ubuntu — Mbiti, African Religions and Philosophy; Tutu, No Future Without Forgiveness; Ramose, African Philosophy Through Ubuntu
+- Communalism — Gyekye, Tradition and Modernity
+- Recognition — Hegel, Phenomenology of Spirit; Honneth, The Struggle for Recognition
+- Hospitality — Derrida, Of Hospitality; Levinas, Totality and Infinity
+- Compassion — Schopenhauer, On the Basis of Morality
+- Forgiveness — Arendt, The Human Condition; Derrida, On Cosmopolitanism and Forgiveness
+- Deliberative democracy — Habermas, Between Facts and Norms; Bohman, Public Deliberation
+- Historicity — Heidegger, Being and Time; Gadamer, Truth and Method
+- Collective responsibility — Young, Global Challenges; Sandel, Liberalism and the Limits of Justice
+- Veneration of elders — Confucius, The Analects
+- Generosity — Aristotle, Nicomachean Ethics IV.1
+- Harmony — Confucius, The Analects; Plato, Republic
+- Dignity — Kant, Groundwork of the Metaphysics of Morals
+- The Dreaming — Stanner, White Man Got No Dreaming
+- Cultural recognition — Taylor, Multiculturalism and the Politics of Recognition
+- Community — MacIntyre, After Virtue
+- Filial piety — Confucius, The Analects
+- Holism — Smuts, Holism and Evolution
+- Narrative repair — Lindemann Nelson, Damaged Identities, Narrative Repair
+- Self-determination — Berlin, Four Essays on Liberty
+- Recognition and inclusion — Honneth, The Struggle for Recognition
+- The Dreaming — Stanner, White Man Got No Dreaming
+- Cultural resilience — MacIntyre, After Virtue
+- Whanaungatanga — Durie, Whaiora; Mead, Tikanga Māori
+- Relational ontology — Ramose, African Philosophy Through Ubuntu
+- Hospitality — Derrida, Of Hospitality; Noddings, Caring
+- Ecological relationality — this volume, Section IX
+- Servant leadership — Greenleaf, Servant Leadership; Plato, Republic
+- Unity in diversity — Aristotle, Politics; Hegel, Philosophy of Right
+- Dignity — Kant, Groundwork of the Metaphysics of Morals
+- Recognition — Honneth, The Struggle for Recognition
+- The sacred — Otto, The Idea of the Holy; Durkheim, The Elementary Forms of Religious Life
+- Reciprocity — Gouldner, "The Norm of Reciprocity"
+- Justice as balance — Aristotle, Nicomachean Ethics V
+- Righteousness (yi) — Confucius, The Analects
+- Justice — Aristotle, Nicomachean Ethics V
+- Truthfulness — Aristotle, Nicomachean Ethics IV.7
+- Authenticity — Heidegger, Being and Time; Sartre, Existentialism Is a Humanism
+- Compassion — Schopenhauer, On the Basis of Morality; Nussbaum, Upheavals of Thought
+- Holism — Smuts, Holism and Evolution
+- Dialogue — Buber, I and Thou
+- Pneuma — Stoic tradition; Aristotle, On the Soul
+- Qi — Daoist tradition; Volume I
+- Family as primary community — Aristotle, Politics I.2
+- Relational self — Nedelsky, Law's Relations
+- Vā — Wendt, "Tatauing the Post-Colonial Body"; Tuhiwai Smith, Decolonizing Methodologies
+- The Between — Buber, I and Thou
+- Dialogue — Buber, I and Thou; Gadamer, Truth and Method
+- The sacred — Otto, The Idea of the Holy
+- Compassion — Schopenhauer, On the Basis of Morality
+- Love — Aristotle, Nicomachean Ethics VIII-IX; Nussbaum, Upheavals of Thought
+- Cosmopolitanism — Stoic tradition
+- Ren — Confucius, The Analects
+- Humanity — Aristotle, Nicomachean Ethics
+- Justice — Aristotle, Nicomachean Ethics V; Plato, Republic
+- Ritual propriety — Confucius, The Analects
+- Habit and virtue — Aristotle, Nicomachean Ethics II.1
+- Phronesis — Aristotle, Nicomachean Ethics VI
+- Trustworthiness — Aristotle, Nicomachean Ethics IV.3
+- Fidelity — Marcel, Being and Having
+- Correspondence theory of truth — Aristotle, Metaphysics IV.7
+- Language and reality — Wittgenstein, Tractatus Logico-Philosophicus
+- Role ethics — Confucius, The Analects; MacIntyre, After Virtue
+- Filial piety — Confucius, The Analects
+- Gratitude — Seneca, On Benefits; Aristotle, Nicomachean Ethics VIII.14
+- Natural virtue — Aristotle, Nicomachean Ethics VI.13; Mencius, The Mencius
+- Moral sentiments — Hume, A Treatise of Human Nature
+- Self-cultivation — Confucius, The Great Learning
+- Character development — Aristotle, Nicomachean Ethics II
+- Care of the self — Foucault, The History of Sexuality
+- The mean — Aristotle, Nicomachean Ethics II.6
+- Harmony in difference — Confucius, The Analects; Heraclitus, fragments
+- Rectification of the mind — Confucius, The Great Learning
+- Apatheia — Stoic tradition; Aristotle, Nicomachean Ethics II
+- The golden rule — Confucius, The Analects
+- The categorical imperative — Kant, Groundwork of the Metaphysics of Morals
+- Investigation of things — Confucius, The Great Learning
+- Empiricism — Locke, An Essay Concerning Human Understanding; Aristotle, Posterior Analytics
+- Care ethics — Noddings, Caring
+- The ethics of care — Held, The Ethics of Care
+- Different voice — Gilligan, In a Different Voice
+- Receptivity — Noddings, Caring
+- Openness to the other — Levinas, Totality and Infinity
+- Compassion — Schopenhauer, On the Basis of Morality
+- Care as practice — Tronto, Moral Boundaries
+- Practice and habit — Aristotle, Nicomachean Ethics II.1
+- Attentiveness — Weil, Waiting for God; Noddings, Caring
+- Responsibility — Levinas, Totality and Infinity; Aristotle, Nicomachean Ethics III.1
+- Competence — Aristotle, Nicomachean Ethics II
+- Responsiveness — Noddings, Caring; Levinas, Totality and Infinity
+- Dependency — Kittay, Love's Labor
+- Vulnerability — Fineman, "The Vulnerable Subject," Yale Journal of Law and Feminism
+- Care as political — Tronto, Caring Democracy
+- Justice and care — Held, The Ethics of Care
+- Care of the self — Foucault, The History of Sexuality; Seneca, On the Shortness of Life
+- Relational autonomy — Nedelsky, "Reconceiving Autonomy"; Mackenzie and Oshana, "Relational Autonomy"
+- Autonomy in relationship — Held, The Ethics of Care
+- Moral sentiments — Hume, A Treatise of Human Nature; Smith, The Theory of Moral Sentiments
+- Cosmopolitan care — Nussbaum, Frontiers of Justice; Held, The Ethics of Care
+- Care for the non-human — Puig de la Bellacasa, Matters of Care
+- Ecological ethics — Leopold, A Sand County Almanac
+- I-Thou — Buber, I and Thou
+- The face of the Other — Levinas, Totality and Infinity
+- The Between — Buber, I and Thou; Marcel, Being and Having
+- Availability — Marcel, Being and Having
+- Fidelity — Marcel, Being and Having
+- Hope — Marcel, The Mystery of Being
+- Problem vs. mystery — Marcel, The Mystery of Being
+- The lived body — Merleau-Ponty, Phenomenology of Perception
+- Embodiment — Marcel, Being and Having
+- Participation — Marcel, The Mystery of Being
+- Engagement — Aristotle, Nicomachean Ethics X.7-8
+- The Between — Buber, I and Thou
+- Dialogue — Gadamer, Truth and Method
+- Listening — Buber, I and Thou; Levinas, Totality and Infinity
+- Ethics as first philosophy — Levinas, Totality and Infinity
+- Substitution — Levinas, Otherwise Than Being
+- The trace — Levinas, Otherwise Than Being
+- The third — Levinas, Otherwise Than Being
+- The ethical demand — Løgstrup, The Ethical Demand
+- The categorical imperative — Kant, Groundwork of the Metaphysics of Morals
+- I-Thou and I-It — Buber, I and Thou
+- Instrumental reason — Horkheimer and Adorno, Dialectic of Enlightenment
+- The Between — Buber, I and Thou
+- The face — Levinas, Totality and Infinity
+- Recognition — Honneth, The Struggle for Recognition
+- Ubuntu — Tutu, No Future Without Forgiveness
+- Relational autonomy — Nedelsky, "Reconceiving Autonomy"; Mackenzie and Oshana, "Relational Autonomy"
+- Autonomy — Kant, Groundwork of the Metaphysics of Morals
+- Constitutive relationality — Sandel, Liberalism and the Limits of Justice
+- Narrative identity — MacIntyre, After Virtue; Taylor, Sources of the Self
+- Communitarianism — Sandel, Liberalism and the Limits of Justice; MacIntyre, After Virtue
+- Critique of the unencumbered self — Sandel, Democracy's Discontent
+- Recognition — Honneth, The Struggle for Recognition; Hegel, Phenomenology of Spirit
+- The politics of recognition — Taylor, Multiculturalism
+- Narrative identity — MacIntyre, After Virtue; Ricoeur, Oneself as Another
+- The self as story — Taylor, Sources of the Self
+- Situated freedom — Sartre, Being and Nothingness; Merleau-Ponty, Phenomenology of Perception
+- Thrownness — Heidegger, Being and Time
+- The common good — Aristotle, Politics; Sandel, Justice
+- Communitarianism — MacIntyre, After Virtue
+- Deliberative democracy — Habermas, Between Facts and Norms; Bohman, Public Deliberation
+- Civic republicanism — Sandel, Democracy's Discontent
+- Justice as fairness — Rawls, A Theory of Justice
+- Capabilities approach — Nussbaum, Women and Human Development; Sen, Development as Freedom
+- Capabilities approach — Sen, Development as Freedom; Nussbaum, Creating Capabilities
+- Positive freedom — Berlin, Four Essays on Liberty
+- The politics of recognition — Taylor, Multiculturalism; Kymlicka, Multicultural Citizenship
+- Intergenerational justice — Jonas, The Imperative of Responsibility
+- The veil of ignorance — Rawls, A Theory of Justice
+- Solidarity — Rorty, Contingency, Irony, and Solidarity; Scholz, Political Solidarity
+- Sorge — Heidegger, Being and Time
+- Structural injustice — Young, Responsibility for Justice
+- Collective responsibility — Young, Global Challenges
+- Digital ethics — Floridi, The Ethics of Information
+- Technology and the virtues — Vallor, Technology and the Virtues
+- Ecological self — Naess, Ecology, Community and Lifestyle
+- The land ethic — Leopold, A Sand County Almanac
+- Deep ecology — Naess, Ecology, Community and Lifestyle
+- Intrinsic value of nature — Paul Taylor, Respect for Nature
+- Ecological self — Naess, Ecology, Community and Lifestyle
+- The wider self — Whitehead, Process and Reality
+- Environmental justice — Schlosberg, Defining Environmental Justice
+- Capabilities and the environment — Nussbaum, Frontiers of Justice
+- Intergenerational responsibility — Jonas, The Imperative of Responsibility; Gardiner, A Perfect Moral Storm
+- Biophilia — Wilson, Biophilia
+- Nature and flourishing — Aristotle, Nicomachean Ethics; Whitehead, Process and Reality
+- Ecological mindfulness — Macy and Brown, Coming Back to Life
+- Mindfulness — Kabat-Zinn, Full Catastrophe Living
+- Ecological grief — Cunsolo and Landman, Mourning Nature
+- Solastalgia — Albrecht, Earth Emotions
+- Tragic optimism — Frankl, Man's Search for Meaning
+- Ecological citizenship — Dobson, Citizenship and the Environment
+- The common good — Aristotle, Politics
+- Humility — Aristotle, Nicomachean Ethics; Confucius, The Analects
+- Critique of mastery — Heidegger, "The Question Concerning Technology"; Merchant, The Death of Nature
+- Gratitude — Seneca, On Benefits; Aristotle, Nicomachean Ethics VIII.14
+- Ecological spirituality — Berry, The Great Work; Snyder, The Practice of the Wild
+- The sacred in nature — Stanner, White Man Got No Dreaming; Leopold, A Sand County Almanac
+- The more-than-human — Abram, The Spell of the Sensuous
+- Ecological self — Naess, Ecology, Community and Lifestyle; Plumwood, Feminism and the Mastery of Nature
+
+---

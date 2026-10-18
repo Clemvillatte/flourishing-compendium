@@ -1,0 +1,23 @@
+---
+schema: 0
+id: "K Reference — Appendix A - Saturation Checklist"
+type: "reference"
+title: "Appendix A - Saturation Checklist"
+file: "K Reference — Appendix A - Saturation Checklist"
+tags: ["kyoto-school-and-tibetan-buddhism"]
+navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-GUID"], "alternatePaths": []}
+legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-School and Tibetan Principles", "chapter": "Appendices & Reference — K — Kyoto-School and Tibetan Principles", "parent": ""}
+---
+Method, stated so the word "exhaustive" is bounded and auditable.
+
+Corpus: the Kyoto School's principal practical works (Nishida's Inquiry into the Good and late essays; Tanabe's Philosophy as Metanoetics; Nishitani's Religion and Nothingness; Abe's Zen and Western Thought; Hisamatsu's FAS essays), walked chapter by chapter for instruction-bearing passages; and the Tibetan lineages' practical curricula (Shantideva's Way of the Bodhisattva, especially chapters 5, 6, and 8; the Seven-Point Mind Training with its fifty-nine slogans, each slogan dispositioned; the lamrim structure as systematized by Tsongkhapa and taught by Patrul Rinpoche; the Mahamudra instruction lineages of Tilopa, Saraha, Gampopa, and Milarepa).
+
+Extraction method: each slogan of the Seven-Point Mind Training was reviewed and dispositioned: the load-bearing slogans were retained as principles (24-36), the near-duplicates merged (the four preliminaries as one principle; the alaya slogans merged into one), and the remainder noted as cross-references. Shantideva's chapters 5, 6, and 8 were read in structured passes with their instruction-bearing passages mapped, with the patience chapter's distinct arguments (the two-class analysis, the enemy-as-teacher, the conditions analysis, the cost analysis) each given its own principle; the remaining chapters contribute through the ethics and vigilance principles. The lamrim's stages were walked in order, with the devotional and rebirth-dependent stages excluded on the stated scope grounds and their practical cores retained (urgency, consequence, equanimity, kindness, vast motivation). The Kyoto School's works were walked for their practical instructions, with the technical logic (Nishida's place theory's formal apparatus, Tanabe's species logic's details) retained only where it carried practical weight.
+
+Deduplication pass performed: pure experience is taught once (principles 1-3) and cross-referenced in action-intuition (20); nihility's collapse is taught once (8-12) and cross-referenced in the metanoetics layer (65-66); the self-exchange is taught in its thought-form (46) and its breath-form (28, tonglen), each retained because the instructions differ; the dream-like quality of experience appears once in lojong (25) and once in the post-meditation instruction (27), retained as two because the tradition gives two trainings; patience's curriculum (37-41) and the six perfections' patience (57) are cross-referenced rather than duplicated; the Mahamudra layer's instructions (58-64) were checked against the series' Buddhist volume for overlap and retained only where the instruction is lineage-specific (Tilopa's six words, one taste, thought-nature).
+
+Deliberate exclusions, with reasons: rebirth, bardos, and liberation cosmology (per the series method); deity yoga, empowerments, and ritual liturgy (practical scope); the Pure Land devotional theology behind Tanabe's tariki (retained the practical structure, excluded the doctrine, and named the exclusion); the Kyoto School's technical logic beyond its practical yield; the Tibetan debate literature's scholastic apparatus; and the founding teachers' biographical hagiography beyond its instructional content.
+
+Limits, stated plainly: saturation is claimed as an editorial judgment within the declared corpus and practical scope, after slogan-by-slogan and chapter-by-chapter walks, a closing pass that merged near-duplicates, and a reverse-check of every entry against its cited passage. Where a slogan or verse was condensed, the condensation is named in the entry. The translations used are the standard English editions listed in Appendix D, and a future edition could strengthen the pass with collation against the Tibetan originals.
+
+Stopping rule: the sweeps were closed when further material produced only duplicates of retained principles, material excluded on the stated scope grounds, or doctrine without a distinct practical instruction.

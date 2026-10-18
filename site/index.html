@@ -1,0 +1,738 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<title>Flourishing Compendium — Desktop Wiki</title>
+<link rel="icon" type="image/png" sizes="64x64" href="assets/favicon-64.png">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
+<link rel="stylesheet" href="assets/style.css?v=20261018e">
+<script>window.__fcErrors=[];window.onerror=function(m,s,l,c){window.__fcErrors.push(m+" @ "+(s||"?").split("/").pop()+":"+l+":"+c);return false;};</script>
+<script id="fc-theme-early">(function(){try{var m=null;var t=m==="light"||m==="dark"?m:(window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.setAttribute("data-theme",t);}catch(e){}})();</script>
+</head>
+<body>
+<div id="app">
+  <header id="topbar">
+    <div class="brand">
+      <h1>The Flourishing <span class="fl">Compendium</span></h1>
+      <span class="stats" id="stats"></span>
+    </div>
+    <nav id="viewTabs" aria-label="Views">
+      <button id="tabRand" class="vtab" type="button">Randomiser</button>
+      <button id="tabWiki" class="vtab" type="button">Library</button>
+      <button id="tabGraph" class="vtab" type="button" title="Knowledge graph — principles, kernels and concepts linked together">Graph</button>
+      <button id="tabEdit" class="vtab" type="button">Editor</button>
+      <button id="tabAcademy" class="vtab" type="button" aria-label="Academy — Degrees, modules and curated media">Academy</button>
+    </nav>
+    <div id="hints" hidden>
+      <span><span class="kbd">⌘K</span> Search</span>
+      <span><span class="kbd">↑↓</span> Navigate</span>
+      <span><span class="kbd">↩</span> Open</span>
+      <span><span class="kbd">⌘⇧C</span> Copy</span>
+    </div>
+    <div class="spacer"></div>
+    <div class="topbar-utils">
+      <button id="essayExportBtn" type="button" title="Export essay outline (Ctrl/Cmd+Shift+S)">Essay <span id="essayCountBadge">0</span></button>
+      <button id="essayClearBtn" type="button" title="Clear the essay collection (reset to 0)" aria-label="Clear essay collection"><svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M18 6L6 18M6 6l12 12"/></svg></button>
+      <span class="tb-sep" aria-hidden="true"></span>
+      <button id="treeToggle" class="colToggle" type="button" title="Toggle Library tree (⌘\)" aria-label="Toggle library tree"><svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="7" height="16" rx="1.5"/><path d="M13 6h8M13 12h8M13 18h8"/></svg></button>
+      <button id="listToggle" class="colToggle" type="button" title="Toggle Search panel (⌘1)" aria-label="Toggle search panel"><svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.35-4.35"/></svg></button>
+      <span class="tb-sep" aria-hidden="true"></span>
+      <button id="helpBtn" type="button" title="Keyboard shortcuts" aria-label="Show keyboard shortcuts"><svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="9.5"/><path d="M9.5 9.3a2.6 2.6 0 1 1 3.4 2.5c-.8.3-.9 1-1 1.7"/><circle cx="12" cy="17" r="0.5" fill="currentColor"/></svg></button>
+      <button id="contentBackupBtn" type="button" title="Export / import your content edits (backup all browser-storage overrides)"><svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v11"/><path d="M8 10l4 4 4-4"/><path d="M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-2"/></svg><span>Backup</span></button>
+      <a id="substackBtn" href="https://clemvillatte.substack.com/publish/home" target="_blank" rel="noopener noreferrer" title="Clem Villatte — Substack" aria-label="Open Substack">
+        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADuUlEQVR4nMWXT2hcVRTGf9+ZNy+T2CoolNYKCm40y9SFLgu6dSG6EFrERQn+Ayup2EUpVMRNGoQg0rgQoghCEaG40a0iUuNCahcRJFhiQmmExiaZefPePS7evMnMZN6EdNr6PS5v3jvvnu+7555z7x3RAX/r4DhkcxgT4KOIOwMHXFvAAl6Z1Ozq1cLUpvA3D8xg4W10x2jLxDhuM5q9PtUWkJP7ybtK3ItM5/Xx9Sn55MFx4uzKXR95LxynUR2PiMIcIPye0gOIOJ2LgIn/gTyH81SEqFEW/SiGMz8NR/L+M5AmZdZahPdnd8DdsAcfGYo/uCEvHaKifuHPyWEzSan99t1QAupJyhiA+ouQv36gS0LxkAVYbwZC64XvMU/UYjPB/VWjYq33Pd9F+E5d7rmSSBH2+EQX+W46Or1JEP78FdzxsC2qR0AfL605i+OY2ulvd6EcjPobj6KsUarcenjbCA5JGIobyH2EARHsOwU4uDtZ0uTWhde6HOwFJsiSJl6BsjroXwWtHEjTjMYPX3O7gTDIk8/yhbafhPIccFGNIvYf+/A26XPUvziNPCu1R2UGASPViNrR40MJ8K/OoHSQgNIcgCQTo0PR5z4iL99qS6fAW7U7LDzkvsqS0Pq+vYcoj0AAt+H36XYkS4a6Iwfay25+kCx33Gxw6+I0APtenELVkZIP1W7uO5fj0ioYhOYfC9y8cJL6tUUA6j9f4oHJj4iffHrPvozWolPaOuBJnX+//IC1s8/TuLZIbCI2kaws8c+5F1j/9BTe2OzpNLgNFNC5CzYXL7P23nPc/GaWLM2IJWqWt1giywLr33/OjVNHSX7/cZt/FwERqLRGhPCkzsbF82xc+oQ0y4jNMMGIiUqrlypCcoJDc/Uvbpx7iX3PHmP/8bOtw7bKKFz+yuFNPF9vipOQA2lwNryCP3SYxsoSAHFFjJgw0SYvkHm+6zWCk4ZczMihx9DaMvcpI7KWlM6TkdgyzBfKwpM2U5orS8SWE9dMVJVnrvW0CKgKRk2MVvLcaK4skTbT8imQX44gTELlShEjKY+CCWIDJ3cm8lEXI1BPPTne3vFMIhIkKp5bA+46LrkTdML02epVojDTWa9yIYyxijFmRlUikjCEFZeru7UvUUFUJcYs9yEMdfjHBca05pcXt/+cvnpomsTecaQiD4q82J6y7XvvglJUTG/19vaR3DGf1vzf73ba884vP/yEx8wR7IgHRvG8RLocdfQofnYS9j09C5exhYVf5Dqh+eXFwvQfyA6uNpjt/C8AAAAASUVORK5CYII=" alt="" width="14" height="14">
+        <span>Substack</span>
+      </a>
+      <button id="themeBtn" type="button" title="Toggle theme (auto / light / dark)" aria-label="Toggle theme"><svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="5"/><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/></svg></button>
+    </div>
+  </header>
+  <div id="stage">
+  <div id="randView">
+    <div class="rand-wrap">
+      <header class="rand-head">
+        <h2>Principle Randomiser</h2>
+        <p id="randSub"></p>
+      </header>
+      <div class="rand-toolbar">
+        <div class="rand-filters">
+          <label class="rlabel">Book
+            <select id="bookSelect" aria-label="Choose a book"></select>
+          </label>
+          <label class="rlabel">Layer
+            <select id="layerSelect" aria-label="Choose a layer">
+              <option value="">All layers</option>
+            </select>
+          </label>
+        </div>
+        <div class="rand-tools">
+          <button class="rbtn" id="searchBtn" type="button" title="Search (/)">Search</button>
+          <button class="rbtn" id="savedBtn" type="button" title="Saved collection">★ <span id="savedCount">0</span></button>
+        </div>
+      </div>
+      <div class="rand-actions">
+        <button class="nav-btn" id="prevBtn" type="button" aria-label="Previous in session" title="Previous (←)">←</button>
+        <button class="draw-btn" id="drawBtn" type="button" title="Draw (Space / R)">Draw a principle</button>
+        <button class="nav-btn" id="nextBtn" type="button" aria-label="Next in session" title="Next (→)">→</button>
+        <button class="today-btn" id="todayBtn" type="button" title="The same principle for everyone on the same UTC day">Today’s principle</button>
+      </div>
+      <section class="rcard" id="card">
+        <div class="rcard-inner" id="cardInner"><!-- filled by JS --></div>
+      </section>
+      <footer class="rand-foot">
+        <span id="poolNote"></span>
+        <span class="rand-keys"><span class="kbd">Space</span> draw · <span class="kbd">←</span><span class="kbd">→</span> history · <span class="kbd">F</span> save · <span class="kbd">/</span> search</span>
+      </footer>
+    </div>
+    <dialog class="rsearch" id="searchDialog" aria-label="Search principles">
+      <div class="rsearch-box">
+        <input id="searchInput" type="search" placeholder="Search all principles by keyword…" autocomplete="off" spellcheck="false">
+        <div id="searchResults"></div>
+        <p class="rsearch-hint">Enter opens the first result · Esc closes</p>
+      </div>
+    </dialog>
+    <div class="sr-only" role="status" aria-live="polite" id="srStatus"></div>
+  </div>
+  <div id="wikiView">
+  <div id="cols">
+    <div class="col" id="treeCol">
+      <div id="treeHead">Library</div>
+      <div id="tree"></div>
+    </div>
+    <div class="col" id="listCol">
+      <div id="listHead">
+        <div id="searchWrap">
+          <span id="searchIcon">⌕</span>
+          <input id="search" type="text" placeholder="Search titles, content, tags…" spellcheck="false" autocomplete="off">
+          <button id="searchClear" title="Clear" aria-label="Clear search">✕</button>
+        </div>
+        <div id="filterBar">
+          <span id="listMeta"></span>
+          <span id="tagChip"><span id="tagChipLabel"></span><button id="tagClear" title="Clear tag filter" aria-label="Clear tag filter">✕</button></span>
+        </div>
+      </div>
+      <div id="list"></div>
+    </div>
+    <div class="col" id="readCol">
+      <div id="read"><div id="readInner"></div></div>
+    </div>
+  </div>
+  </div>
+  <!-- ═══ GRAPH VIEW ═══ -->
+  <div id="graphView">
+    <div class="graph-top">
+      <div class="graph-controls">
+        <label class="glabel">Scope
+          <select id="graphScope" aria-label="Choose what the graph shows"></select>
+        </label>
+        <div class="gtoggles" id="graphToggles"></div>
+        <input id="graphFind" type="search" placeholder="Find a node…" aria-label="Find a node in the graph" />
+        <button id="graphResetBtn" type="button" title="Re-run the layout">Re-layout</button>
+        <button id="graphPhysBtn" type="button" title="Layout settings — forces and node size" aria-label="Layout settings">
+          <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h10M18 7h2M4 17h2M10 17h10"/><circle cx="16" cy="7" r="2.4"/><circle cx="7" cy="17" r="2.4"/></svg>
+        </button>
+        <div class="gphys" id="graphPhys" hidden>
+          <div class="gphys-head">
+            <span>Layout settings</span>
+            <button type="button" id="gphysReset">Reset</button>
+            <button type="button" class="gd-close" id="gphysClose" aria-label="Close settings">✕</button>
+          </div>
+          <label class="gphys-row"><span class="gphys-name">Repulsion</span>
+            <input type="range" id="gphysRep" min="0.2" max="3" step="0.05" value="1" /><span class="gphys-val" id="gphysRepV">1.0×</span></label>
+          <label class="gphys-row"><span class="gphys-name">Attraction</span>
+            <input type="range" id="gphysSpring" min="0.2" max="3" step="0.05" value="1" /><span class="gphys-val" id="gphysSpringV">1.0×</span></label>
+          <label class="gphys-row"><span class="gphys-name">Link length</span>
+            <input type="range" id="gphysLink" min="0.5" max="2" step="0.05" value="1" /><span class="gphys-val" id="gphysLinkV">1.0×</span></label>
+          <label class="gphys-row"><span class="gphys-name">Node size</span>
+            <input type="range" id="gphysNode" min="0" max="2" step="0.05" value="1" /><span class="gphys-val" id="gphysNodeV">1.0×</span></label>
+          <label class="gphys-row"><span class="gphys-name">Connection emphasis</span>
+            <input type="range" id="gphysDeg" min="0" max="1" step="0.05" value="0" /><span class="gphys-val" id="gphysDegV">0%</span></label>
+          <label class="gphys-row"><span class="gphys-name">Centering</span>
+            <input type="range" id="gphysGrav" min="0.2" max="3" step="0.05" value="1" /><span class="gphys-val" id="gphysGravV">1.0×</span></label>
+          <label class="gphys-row gphys-check" title="ON: the selected node's neighbours gather on an inner belt, and each neighbour's own neighbours line up behind it in short radial tails — a second belt of asteroid chains. OFF: only the direct-neighbour belt is shown."><span class="gphys-name">Show N+2 (second belt)</span>
+            <input type="checkbox" id="gphysBelts" checked /></label>
+          <div class="gphys-note">Forces apply live while you slide — release to settle. Node size applies immediately. Connection emphasis: 0% = sizes proportional to connections; 100% = heavily-connected nodes dominate. Show N+2: with a node selected, its direct neighbours form an inner belt and the neighbours-of-neighbours form a second belt — each N+2 node tucked behind its own N+1 node, linked by a short dotted line. OFF: focus on the direct neighbours only. The view re-fits either way. Layout settings apply for this session.</div>
+        </div>
+      </div>
+    </div>
+    <div class="graph-canvas-wrap">
+      <canvas id="graphCanvas"></canvas>
+      <div class="graph-arranging" id="graphArranging" hidden>Arranging graph…</div>
+      <aside class="gdrawer" id="graphDrawer" hidden>
+        <div class="gdrawer-head">
+          <div class="gdrawer-kicker"><span class="gdot" id="gdDot"></span><span id="gdKind"></span>
+            <button class="gd-close" id="gdClose" type="button" aria-label="Close details">✕</button></div>
+          <h3 id="gdTitle"></h3>
+          <div class="gd-deg" id="gdDeg"></div>
+        </div>
+        <div class="gdrawer-body">
+          <div class="gd-content" id="gdContent"></div>
+          <div class="gd-conn-head">Connected to</div>
+          <div class="gd-conns" id="gdConns"></div>
+          <div class="gd-bridges" id="gdBridges" hidden></div>
+        </div>
+        <div class="gdrawer-foot">
+          <button id="gdOpenBtn" type="button">Open in Library</button>
+          <button id="gdCenterBtn" type="button">Center on node</button>
+        </div>
+      </aside>
+      <div class="graph-legend" id="graphLegend"></div>
+      <div class="graph-hint">Drag to pan · Scroll to zoom · Drag a node to move it · Click a node for details · Double-click to open</div>
+    </div>
+  </div>
+  <!-- ═══ ACADEMY VIEW ═══ -->
+  <div id="academyView">
+    <div class="acad-inner"><div class="acad-scroll" id="academyRoot"></div></div>
+  </div>
+  </div>
+</div>
+<div id="toast"></div>
+
+<div id="researchLaunchers">
+  <button class="rl-btn" title="Pollinations AI Chat — free, no account" aria-label="Pollinations AI Chat — free, no account"
+    style="background-image:url('data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20100%20100%22%3E%3Cpath%20d%3D%22M50%2015a23%2023%200%200%200-22.6%2019.1A18%2018%200%200%200%2030%2070h4a23%2023%200%200%200%2032%200h4a18%2018%200%200%200%202.6-35.9A23%2023%200%200%200%2050%2015z%22%20fill%3D%22%231a7f5a%22%2F%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2242%22%20r%3D%227%22%20fill%3D%22%23e8b830%22%2F%3E%3Ccircle%20cx%3D%2236%22%20cy%3D%2250%22%20r%3D%225.5%22%20fill%3D%22%23e8b830%22%2F%3E%3Ccircle%20cx%3D%2264%22%20cy%3D%2250%22%20r%3D%225.5%22%20fill%3D%22%23e8b830%22%2F%3E%3C%2Fsvg%3E')"
+    onclick="RL.openChat()"></button>
+  <button class="rl-btn" title="Perplexity (opens in a popup window)" aria-label="Perplexity (opens in a popup window)"
+    style="background-image:url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/Pgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDIwMDEwOTA0Ly9FTiIKICJodHRwOi8vd3d3LnczLm9yZy9UUi8yMDAxL1JFQy1TVkctMjAwMTA5MDQvRFREL3N2ZzEwLmR0ZCI+CjxzdmcgdmVyc2lvbj0iMS4wIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiB3aWR0aD0iMjcwLjAwMDAwMHB0IiBoZWlnaHQ9IjI3MC4wMDAwMDBwdCIgdmlld0JveD0iMCAwIDI3MC4wMDAwMDAgMjcwLjAwMDAwMCIKIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIG1lZXQiPgo8bWV0YWRhdGE+CkNyZWF0ZWQgYnkgcG90cmFjZSAxLjE0LCB3cml0dGVuIGJ5IFBldGVyIFNlbGluZ2VyIDIwMDEtMjAxNwo8L21ldGFkYXRhPgo8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjAwMDAwMCwyNzAuMDAwMDAwKSBzY2FsZSgwLjEwMDAwMCwtMC4xMDAwMDApIgpzdHJva2U9Im5vbmUiPgo8cGF0aCBmaWxsPSIjMDAwMDAwIiBkPSJNMTg1IDI2OTEgYy04NiAtMjEgLTE1OCAtOTMgLTE3NSAtMTc1IC03IC0zNSAtMTAgLTQxNSAtOCAtMTE5NiAzCi0xMjc2IC0yIC0xMTgwIDczIC0xMjUzIDIwIC0yMCA1NCAtNDIgNzQgLTQ5IDUzIC0xOSAyMzQ5IC0xOSAyNDAyIDAgMjAgNyA1NAoyOSA3NCA0OSA3NSA3MyA3MCAtMjMgNzMgMTI1MyAyIDgxNyAtMSAxMTYxIC05IDEyMDAgLTkgNDYgLTE5IDYzIC02NCAxMDYKLTQyIDQxIC02MyA1NCAtMTA0IDYzIC01OSAxMyAtMjI4NCAxNCAtMjMzNiAyeiBtNzg2IC01NDcgbDMxNCAtMjU1IDMgMjU1IDIKMjU2IDYwIDAgNjAgMCAyIC0yNTUgMyAtMjU2IDMxNSAyNTcgMzE1IDI1NyAzIC0yOTIgMiAtMjkxIDEzNSAwIDEzNSAwIDAKLTQ1MCAwIC00NTAgLTEzNSAwIC0xMzUgMCAtMiAtMjk2IC0zIC0yOTUgLTMxMiAyNzUgYy0xNzIgMTUyIC0zMTUgMjc2IC0zMTgKMjc2IC0zIDAgLTUgLTEzMyAtNSAtMjk1IGwwIC0yOTUgLTYwIDAgLTYwIDAgMCAyOTUgYzAgMTYyIC0yIDI5NSAtNSAyOTUgLTMKMCAtMTQ2IC0xMjQgLTMxOCAtMjc2IGwtMzEyIC0yNzYgLTMgMjk2IC0yIDI5NiAtMTM1IDAgLTEzNSAwIDAgNDUwIDAgNDUwCjEzNSAwIDEzNSAwIDAgMjkwIGMwIDE2MCAyIDI5MCA0IDI5MCAyIDAgMTQ1IC0xMTUgMzE3IC0yNTZ6Ii8+CjxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik05NzEgMjE0NCBsMzE0IC0yNTUgMyAyNTUgMgoyNTYgNjAgMCA2MCAwIDIgLTI1NSAzIC0yNTYgMzE1IDI1NyAzMTUgMjU3IDMgLTI5MiAyIC0yOTEgMTM1IDAgMTM1IDAgMAotNDUwIDAgLTQ1MCAtMTM1IDAgLTEzNSAwIC0yIC0yOTYgLTMgLTI5NSAtMzEyIDI3NSBjLTE3MiAxNTIgLTMxNSAyNzYgLTMxOAoyNzYgLTMgMCAtNSAtMTMzIC01IC0yOTUgbDAgLTI5NSAtNjAgMCAtNjAgMCAwIDI5NSBjMCAxNjIgLTIgMjk1IC01IDI5NSAtMwowIC0xNDYgLTEyNCAtMzE4IC0yNzYgbC0zMTIgLTI3NiAtMyAyOTYgLTIgMjk2IC0xMzUgMCAtMTM1IDAgMCA0NTAgMCA0NTAKMTM1IDAgMTM1IDAgMCAyOTAgYzAgMTYwIDIgMjkwIDQgMjkwIDIgMCAxNDUgLTExNSAzMTcgLTI1NnoiLz4KPHBhdGggZmlsbD0iIzAwMDAwMCIgZD0iTTc4MCAxOTgxIGwwIC0xNjEgMjE1IDAgMjE2IDAgLTIwMyAxNTEgYy0xMTIgODQgLTIwOSAxNTYgLTIxNSAxNjIKLTEwIDcgLTEzIC0yNCAtMTMgLTE1MnoiLz4KPHBhdGggZmlsbD0iIzAwMDAwMCIgZD0iTTE3MDYgMTk4MiBsLTIxMCAtMTU3IDIwOSAtMyBjMTE0IC0xIDIxMCAtMSAyMTIgMSAyIDIgMiA3NCAxIDE2MApsLTMgMTU2IC0yMDkgLTE1N3oiLz4KPHBhdGggZmlsbD0iIzAwMDAwMCIgZD0iTTUxMCAxMzcwIGwwIC0zMzAgNzAgMCA3MCAwIDAgODggMCA4OCAzOCAzNSBjMjAgMjAgMTQ2IDEyNyAyODAgMjM5CjEzMyAxMTEgMjQyIDIwNCAyNDIgMjA2IDAgMiAtMTU3IDQgLTM1MCA0IGwtMzUwIDAgMCAtMzMweiIvPgo8cGF0aCBmaWxsPSIjMDAwMDAwIiBkPSJNMTQ5MCAxNjk2IGMwIC0yIDEyNiAtMTAyIDI4MCAtMjIzIGwyODAgLTIxOCAwIC0xMDcgMCAtMTA4IDcwIDAgNzAKMCAwIDMzMCAwIDMzMCAtMzUwIDAgYy0xOTIgMCAtMzUwIC0yIC0zNTAgLTR6Ii8+CjxwYXRoIGZpbGw9IiMwMDAwMDAiIGQ9Ik0xMDI4IDEzOTIgbC0yNDcgLTIxNyAwIC0yODMgYy0xIC0yMzMgMSAtMjgyIDEyIC0yNzUgOCA0IDEyMiAxMDQKMjU1IDIyMiBsMjQyIDIxNCAwIDI3OCBjMCAxNTQgLTMgMjc5IC03IDI3OSAtNSAwIC0xMTkgLTk4IC0yNTUgLTIxOHoiLz4KPHBhdGggZmlsbD0iIzAwMDAwMCIgZD0iTTE0MTAgMTMzMiBsMCAtMjc5IDI0MiAtMjE0IGMxMzMgLTExOCAyNDcgLTIxOCAyNTUgLTIyMiAxMSAtNyAxMwo0MiAxMiAyNzUgbDAgMjgzIC0yNDUgMjE1IGMtMTM1IDExOCAtMjQ5IDIxNyAtMjU0IDIxOCAtNiAyIC0xMCAtMTAxIC0xMAotMjc2eiIvPgo8L2c+Cjwvc3ZnPgo=')"
+    onclick="RL.openPopup('https://www.perplexity.ai/')"></button>
+  <button class="rl-btn" title="Gemini (opens in a popup window)" aria-label="Gemini (opens in a popup window)"
+    style="background-image:url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTA4MCIgaGVpZ2h0PSIxMDgwIiB2aWV3Qm94PSIwIDAgMTA4MCAxMDgwIiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgo8cGF0aCBkPSJNNTE1LjA5IDcyNS44MjRMNDcyLjAwNiA4MjQuNTAzQzQ1NS40NDQgODYyLjQzNCA0MDIuOTU0IDg2Mi40MzQgMzg2LjM5MyA4MjQuNTAzTDM0My4zMDggNzI1LjgyNEMzMDQuOTY2IDYzOC4wMDYgMjM1Ljk1MyA1NjguMTA0IDE0OS44NjggNTI5Ljg5MkwzMS4yNzc5IDQ3Ny4yNTFDLTYuNDI2MDEgNDYwLjUxNSAtNi40MjU5NCA0MDUuNjY1IDMxLjI3NzkgMzg4LjkyOUwxNDYuMTY0IDMzNy45MzJDMjM0LjQ2MyAyOTguNzM3IDMwNC43MTQgMjI2LjI0NCAzNDIuNDAxIDEzNS40MzFMMzg2LjA0NCAzMC4yNjkzQzQwMi4yMzkgLTguNzU2MzcgNDU2LjE1OSAtOC43NTY0NiA0NzIuMzU1IDMwLjI2OTJMNTE1Ljk5OCAxMzUuNDMyQzU1My42ODUgMjI2LjI0NCA2MjMuOTM1IDI5OC43MzcgNzEyLjIzNCAzMzcuOTMyTDgyNy4xMjEgMzg4LjkyOUM4NjQuODI1IDQwNS42NjUgODY0LjgyNSA0NjAuNTE1IDgyNy4xMjEgNDc3LjI1MUw3MDguNTMgNTI5Ljg5MkM2MjIuNDQ2IDU2OC4xMDQgNTUzLjQzMyA2MzguMDA2IDUxNS4wOSA3MjUuODI0WiIgZmlsbD0idXJsKCNwYWludDBfcmFkaWFsXzI1MjVfNzc3KSIvPgo8cGF0aCBkPSJNOTE1LjQ4NSAxMDM2Ljk4TDkwMy4zNjcgMTA2NC43NUM4OTQuNDk5IDEwODUuMDggODY2LjM0OSAxMDg1LjA4IDg1Ny40ODEgMTA2NC43NUw4NDUuMzY0IDEwMzYuOThDODIzLjc2NSA5ODcuNDY1IDc4NC44NjIgOTQ4LjA0MiA3MzYuMzE4IDkyNi40NzVMNjk4Ljk4NyA5MDkuODg5QzY3OC44MDIgOTAwLjkyMSA2NzguODAyIDg3MS41NzggNjk4Ljk4NyA4NjIuNjFMNzM0LjIzMSA4NDYuOTUxQzc4NC4wMjMgODI0LjgyOSA4MjMuNjIzIDc4My45NDcgODQ0Ljg1MSA3MzIuNzVMODU3LjI5NCA3MDIuNzQxQzg2NS45NjYgNjgxLjgyNiA4OTQuODgyIDY4MS44MjYgOTAzLjU1NCA3MDIuNzQxTDkxNS45OTcgNzMyLjc1QzkzNy4yMjUgNzgzLjk0NyA5NzYuODI2IDgyNC44MjkgMTAyNi42MiA4NDYuOTUxTDEwNjEuODYgODYyLjYxQzEwODIuMDUgODcxLjU3OCAxMDgyLjA1IDkwMC45MjEgMTA2MS44NiA5MDkuODg5TDEwMjQuNTMgOTI2LjQ3NUM5NzUuOTg3IDk0OC4wNDIgOTM3LjA4MyA5ODcuNDY1IDkxNS40ODUgMTAzNi45OFoiIGZpbGw9InVybCgjcGFpbnQxX3JhZGlhbF8yNTI1Xzc3NykiLz4KPGRlZnM+CjxyYWRpYWxHcmFkaWVudCBpZD0icGFpbnQwX3JhZGlhbF8yNTI1Xzc3NyIgY3g9IjAiIGN5PSIwIiByPSIxIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgZ3JhZGllbnRUcmFuc2Zvcm09InRyYW5zbGF0ZSg2NzAuNDQ3IDQ3NC4wMDYpIHJvdGF0ZSg3OC44NTgpIHNjYWxlKDY2NS41IDY2NS44MjQpIj4KPHN0b3Agc3RvcC1jb2xvcj0iIzFCQTFFMyIvPgo8c3RvcCBvZmZzZXQ9IjAuMDAwMSIgc3RvcC1jb2xvcj0iIzFCQTFFMyIvPgo8c3RvcCBvZmZzZXQ9IjAuMzAwMjIxIiBzdG9wLWNvbG9yPSIjNTQ4OUQ2Ii8+CjxzdG9wIG9mZnNldD0iMC41NDU1MjQiIHN0b3AtY29sb3I9IiM5QjcyQ0IiLz4KPHN0b3Agb2Zmc2V0PSIwLjgyNTM3MiIgc3RvcC1jb2xvcj0iI0Q5NjU3MCIvPgo8c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiNGNDlDNDYiLz4KPC9yYWRpYWxHcmFkaWVudD4KPHJhZGlhbEdyYWRpZW50IGlkPSJwYWludDFfcmFkaWFsXzI1MjVfNzc3IiBjeD0iMCIgY3k9IjAiIHI9IjEiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIiBncmFkaWVudFRyYW5zZm9ybT0idHJhbnNsYXRlKDY3MC40NDcgNDc0LjAwNikgcm90YXRlKDc4Ljg1OCkgc2NhbGUoNjY1LjUgNjY1LjgyNCkiPgo8c3RvcCBzdG9wLWNvbG9yPSIjMUJBMUUzIi8+CjxzdG9wIG9mZnNldD0iMC4wMDAxIiBzdG9wLWNvbG9yPSIjMUJBMUUzIi8+CjxzdG9wIG9mZnNldD0iMC4zMDAyMjEiIHN0b3AtY29sb3I9IiM1NDg5RDYiLz4KPHN0b3Agb2Zmc2V0PSIwLjU0NTUyNCIgc3RvcC1jb2xvcj0iIzlCNzJDQiIvPgo8c3RvcCBvZmZzZXQ9IjAuODI1MzcyIiBzdG9wLWNvbG9yPSIjRDk2NTcwIi8+CjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iI0Y0OUM0NiIvPgo8L3JhZGlhbEdyYWRpZW50Pgo8L2RlZnM+Cjwvc3ZnPgo=')"
+    onclick="RL.openPopup('https://gemini.google.com/')"></button>
+  <button class="rl-btn" title="Claude (opens in a popup window)" aria-label="Claude (opens in a popup window)"
+    style="background-image:url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48ZyBzdHJva2U9IiNEOTc3NTciIHN0cm9rZS13aWR0aD0iNyIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBmaWxsPSJub25lIj48bGluZSB4MT0iNTAiIHkxPSI2IiB4Mj0iNTAiIHkyPSIzNCIvPjxsaW5lIHgxPSI2IiB5MT0iNTAiIHgyPSIzNCIgeTI9IjUwIi8+PGxpbmUgeDE9IjUwIiB5MT0iOTQiIHgyPSI1MCIgeTI9IjY2Ii8+PGxpbmUgeDE9Ijk0IiB5MT0iNTAiIHgyPSI2NiIgeTI9IjUwIi8+PGxpbmUgeDE9IjE0IiB5MT0iMTQiIHgyPSIzNCIgeTI9IjM0Ii8+PGxpbmUgeDE9Ijg2IiB5MT0iMTQiIHgyPSI2NiIgeTI9IjM0Ii8+PGxpbmUgeDE9IjE0IiB5MT0iODYiIHgyPSIzNCIgeTI9IjY2Ii8+PGxpbmUgeDE9Ijg2IiB5MT0iODYiIHgyPSI2NiIgeTI9IjY2Ii8+PC9nPjwvc3ZnPg==')"
+    onclick="RL.openPopup('https://claude.ai/')"></button>
+  <button class="rl-btn" title="Consensus (embedded)" aria-label="Consensus (embedded)"
+    style="background-image:url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS4zIDAgMjAwIDIwMCI+PHBhdGggZD0iTTE3MC43MTkgMjkuMzA5M0MxNTIuNjE4IDExLjIwMSAxMjcuNjA5IDAgOTkuOTg2OCAwQzU4LjIyNTIgMCAyMi40MzU5IDI1LjYwNTEgNy40NzIxNyA2MS45Njg5QzExLjk3OSA1OS42MjcxIDE3LjAxNTkgNTguMTU0MiAyMi40MzU4IDU4LjA4MDVDMzQuNzQxMiA1Ny45MDM4IDQ1LjQ5MjggNjQuNDEzNiA1MS41MjQgNzQuMTcxQzYwLjc4MDYgNTYuODQzNCA3OC45Njk4IDQ1LjAwMiA5OS45ODY4IDQ1LjAwMkMxMTUuMTc5IDQ1LjAwMiAxMjguOTQyIDUxLjE0MzYgMTM4Ljg5OCA2MS4wOTI0QzE0My4wNDQgNjUuMjIzNyAxNDguNzY2IDY3Ljc2NDEgMTU1LjA4NSA2Ny42NzU4QzE2Ny41MDggNjcuNDk5IDE3Ny40MzUgNTcuMjkyNSAxNzcuMjU4IDQ0Ljg2OTRDMTc3LjE3IDM4Ljc5NCAxNzQuNjg4IDMzLjMwMDYgMTcwLjcxOSAyOS4zMDkzWiIgZmlsbD0iIzNCQ0RBQSIvPjxwYXRoIGQ9Ik0xNzcuMjkgMTU0LjQ2OEMxNzcuMTEzIDE0Mi4wNDUgMTY2Ljg5OSAxMzIuMTE4IDE1NC40ODQgMTMyLjI5NUMxNDguMzg2IDEzMi4zODMgMTQyLjg5MiAxMzQuODg3IDEzOC44OTQgMTM4Ljg3OEMxMjguOTM4IDE0OC44NDIgMTE1LjE4MSAxNTQuOTk4IDk5Ljk4OTMgMTU0Ljk5OEM2OS42MTI1IDE1NC45OTggNDQuOTg3MSAxMzAuMzczIDQ0Ljk4NzEgOTkuOTk2MkM0NC45ODcxIDk4LjA5NjMgNDUuMDgyOSA5Ni4yMTgyIDQ1LjI3NDMgOTQuMzY5OEM0NS4zODQ4IDkzLjQxOTggNDUuNDIxNSA5Mi40NjI3IDQ1LjQxNDEgOTEuNDgzM0M0NS4yMzc0IDc5LjA2MDEgMzUuMDMwOSA2OS4xNDA0IDIyLjYwNzcgNjkuMzA5OEMxMS4wOTAzIDY5LjQ3MTggMS43MDEzNiA3OC4yODY4IDAuNTQ1MjAzIDg5LjQ3MjhDMC4xODQzNjQgOTIuOTI2NiAwIDk2LjQzOTEgMCA5OS45ODg2QzAgMTE4LjEyNiA0LjkwNDU1IDEzNS4wODYgMTMuMzQzOCAxNDkuNzU1TDQuNzg2ODIgMTgzLjc0QzQuNTU4NTMgMTg0LjYyNCA0LjQxMTQ1IDE4NS41MzcgNC40MzM1NCAxODYuNDk0QzQuNTg4MTggMTkyLjAxNyA5LjE5MDY5IDE5Ni4zNjIgMTQuNzEzNyAxOTYuMjA4QzE1LjU3NTMgMTk2LjE4NiAxNi4zOTI3IDE5Ni4wMTYgMTcuMTg4MSAxOTUuNzg4TDUwLjAzMTUgMTg2LjUyNEM2NC43NDQ5IDE5NS4wNDQgODEuNzg1MiAyMDAgMTAwLjAxMSAyMDBDMTI3LjYyNyAyMDAgMTUyLjYyOCAxODguODA3IDE3MC43MjkgMTcwLjcwNkMxNzQuODgyIDE2Ni41NiAxNzcuNDA4IDE2MC43ODcgMTc3LjMyIDE1NC40NjFMMTc3LjI5IDE1NC40NjhaIiBmaWxsPSIjMDY4RUYxIi8+PC9zdmc+Cg==')"
+    onclick="RL.toggle('consensus')"></button>
+  <button class="rl-btn" title="Find research papers (Semantic Scholar)" aria-label="Find research papers (Semantic Scholar)"
+    style="background-image:url('data:image/png;base64,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')"
+    onclick="RL.toggle('papers')"></button>
+</div>
+<aside id="rlDrawer" aria-label="Research tools drawer">
+  <div class="rl-head">
+    <div class="rl-head-txt">
+      <div id="rlTitle" class="rl-title">AI Chat</div>
+      <div id="rlSub" class="rl-sub"></div>
+    </div>
+    <div id="rlExt" class="rl-ext"></div>
+    <button class="rl-close" onclick="RL.close()" aria-label="Close panel">&#10005;</button>
+  </div>
+
+  <!-- AI chat panel -->
+  <div id="rlPanelChat" class="rl-panel" style="display:none">
+    <div class="rl-chat-toolbar">
+      <select id="rlModel" class="rl-select" title="AI model (from Pollinations.ai)">
+        <option value="openai-fast">openai-fast</option>
+      </select>
+      <button class="rl-mini" onclick="RL.newChat()" title="Start a new conversation">New chat</button>
+    </div>
+    <details id="rlPromptSettings" class="rl-prompt-settings">
+      <summary>System prompt <span id="rlPromptBadge">None</span></summary>
+      <div class="rl-prompt-body">
+        <label for="rlSystemPrompt">Your instructions to the AI (optional)</label>
+        <textarea id="rlSystemPrompt" rows="5" placeholder="Leave blank for no website-added system prompt, or write your own instructions here." oninput="RL.savePrompt()"></textarea>
+        <div class="rl-prompt-actions">
+          <button class="rl-mini" onclick="RL.clearPrompt()">Clear prompt</button>
+          <button class="rl-mini" onclick="RL.downloadPrompt()">Download backup</button>
+          <button class="rl-mini" onclick="document.getElementById('rlPromptFile').click()">Restore backup</button>
+          <input id="rlPromptFile" type="file" accept=".txt,text/plain" hidden onchange="RL.importPrompt(this)">
+        </div>
+        <div id="rlPromptStatus" class="rl-prompt-note" role="status" aria-live="polite">No custom system prompt.</div>
+        <p class="rl-prompt-note">Edits apply to your next message. Use New chat for a fresh conversation. Saved only in this browser for this website address, not synced across devices. Download a backup before clearing browser data or changing website address. Your prompt is sent to Pollinations with your messages; do not include secrets. The AI may not follow every instruction.</p>
+      </div>
+    </details>
+    <div id="rlMsgs" class="rl-msgs"></div>
+    <div class="rl-hint" id="rlSignHint">Free AI via Pollinations.ai — no account, no sign-up, no card. The chat cannot see your library content.</div>
+    <div class="rl-inputrow">
+      <textarea id="rlInput" class="rl-input" rows="2" placeholder="Ask anything&hellip;" onkeydown="if(event.key==='Enter'&&!event.shiftKey){event.preventDefault();RL.send();}"></textarea>
+      <button id="rlSend" class="rl-send" onclick="RL.send()" aria-label="Send">&#10148;</button>
+    </div>
+  </div>
+
+  <!-- Semantic Scholar panel -->
+  <div id="rlPanelPapers" class="rl-panel" style="display:none">
+    <div class="rl-paper-search" id="rlPaperSearchRow">
+      <input id="rlPaperQ" class="rl-input" type="text" placeholder="Search research papers&hellip;" onkeydown="if(event.key==='Enter'){RL.searchPapers();}">
+      <button class="rl-send" style="padding:6px 12px" onclick="RL.searchPapers()">Search</button>
+    </div>
+    <div id="rlPaperResults" class="rl-msgs rl-papers"><div class="rl-empty">Search 200+ million papers by keyword, e.g. <i>mindfulness randomized controlled trial</i> or <i>Daoist philosophy well-being</i>.</div></div>
+    <div id="rlPaperView" style="display:none; flex-direction:column; flex:1; min-height:0;">
+      <div class="rl-paper-head">
+        <button class="rl-mini" onclick="RL.backToResults()" title="Back to the results list">&#8592; Results</button>
+        <a id="rlPaperTabLink" class="rl-extlink" target="_blank" rel="noopener">Open in new tab &#8599;</a>
+        <button class="rl-mini" id="rlFullBtn" onclick="RL.toggleFull()" title="Expand the drawer to the full window">Full window &#10530;</button>
+      </div>
+      <div id="rlPaperReader" style="display:flex; flex-direction:column; flex:1; min-height:0; overflow-y:auto;"></div>
+      <div id="rlPdfWrap" style="display:none; flex-direction:column; flex:1; min-height:0;">
+        <div class="rl-paper-head" style="padding-top:0">
+          <button class="rl-mini" onclick="RL.backToPaper()" title="Back to the paper details">&#8592; Paper</button>
+          <a id="rlPdfTabLink" class="rl-extlink" target="_blank" rel="noopener">Open PDF in new tab &#8599;</a>
+        </div>
+        <iframe id="rlPaperFrame" class="rl-frame" src="about:blank" title="Paper PDF" referrerpolicy="no-referrer"></iframe>
+        <div class="rl-hint" style="padding:4px 12px 6px">If the preview fails, use “Open PDF in new tab”.</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Consensus panel -->
+  <div id="rlPanelConsensus" class="rl-panel" style="display:none">
+    <iframe id="rlConsensusFrame" class="rl-frame" src="about:blank" title="Consensus" referrerpolicy="no-referrer"></iframe>
+  </div>
+</aside>
+
+<div id="bootSplash" role="status" aria-live="polite">
+  <div class="bs-card">
+    <div class="bs-mark" aria-hidden="true"><img src="assets/print-200.png" alt="" width="64" height="64"></div>
+    <div class="bs-title">The Flourishing Compendium</div>
+    <div class="bs-bar" aria-hidden="true"><span></span></div>
+    <div class="bs-sub" id="bootSplashMsg">Opening the library…</div>
+  </div>
+</div>
+
+<script>window.FC_VER = '20261018e';</script>
+<script>window.FC_GH_REPO = 'Clemvillatte/flourishing-compendium';</script>
+<script src="assets/boot.js?v=20261018e"></script>
+<script src="assets/editor2.js?v=20261018e"></script>
+<script data-pplx-inline-edit>
+(function () {
+  if (window === window.top) return;
+
+  const allowedParentOrigins = ["https://www.perplexity.ai","https://perplexity.ai","https://testing.perplexity.ai","https://staging.perplexity.ai","https://*.preview.i.perplexity.ai","http://perplexity.localhost","http://localhost:1420","http://127.0.0.1:1420","http://localhost:3000","http://127.0.0.1:3000","http://localhost:5173","http://127.0.0.1:5173"];
+  const MAX_FONT_BYTES = 500 * 1024;
+  const MAX_TOTAL_FONT_BYTES = 2 * 1024 * 1024;
+  const DEFAULT_LINE_HEIGHT = 16;
+  let scrollForwarding = false;
+  let scrollRaf = 0;
+  let trustedTopOrigin = null;
+
+  // Allow entries like "https://*.preview.i.perplexity.ai" — the wildcard
+  // matches a single DNS label (no dots), so "https://*.foo" cannot stretch
+  // across multiple labels.
+  function matchesAllowedOrigin(origin) {
+    if (!origin) return false;
+    for (const entry of allowedParentOrigins) {
+      if (!entry.includes("*")) {
+        if (entry === origin) return true;
+        continue;
+      }
+      const pattern = new RegExp(
+        "^" +
+          entry.replace(/[.+?^${}()|[\]\\]/g, "\\$&").replace(/\*/g, "[^.]+") +
+          "$",
+      );
+      if (pattern.test(origin)) return true;
+    }
+    return false;
+  }
+
+  // Trust decision: when the sender is same-origin-visible (event.origin is a
+  // real origin like https://www.perplexity.ai) we trust event.origin directly.
+  // When event.origin is "null" (opaque broker srcdoc), we fall back to the
+  // broker's stamped `parentOrigin` to identify the top window. The fallback
+  // is claim-only — we rely on the browser's native `targetOrigin` enforcement
+  // on the response path (see postToTrustedTop) to ensure replies can't be
+  // delivered to anyone but the actual top window of that claimed origin.
+  function getTrustedParentOrigin(event) {
+    const forwardedParentOrigin =
+      typeof event.data.parentOrigin === "string" ? event.data.parentOrigin : null;
+    const parentOrigin = event.origin === "null" ? forwardedParentOrigin : event.origin;
+    return matchesAllowedOrigin(parentOrigin) ? parentOrigin : null;
+  }
+
+  // All responses go to window.top with targetOrigin = the allowlisted origin.
+  // An attacker that iframes us inside their own null-origin broker can claim
+  // any parentOrigin they like, but the browser will drop the reply whenever
+  // the real top's origin doesn't match — so the screenshot never leaves.
+  function postToTrustedTop(message) {
+    if (!trustedTopOrigin) return;
+    try {
+      window.top.postMessage(message, trustedTopOrigin);
+    } catch (_error) {}
+  }
+
+  const PICK_CAPABILITIES = ["pick"];
+  const PICK_CHAIN_LENGTH = 4;
+  const PICK_MAX_TEXT_CHARS = 120;
+  const PICK_MAX_HTML_CHARS = 300;
+
+  function truncate(value, maxChars) {
+    return value.length > maxChars ? value.slice(0, maxChars - 1) + "…" : value;
+  }
+
+  function isPickableElement(element) {
+    return (
+      element instanceof Element &&
+      element !== document.documentElement &&
+      element !== document.body
+    );
+  }
+
+  function resolvePickTarget(x, y) {
+    if (!Number.isFinite(x) || !Number.isFinite(y)) return null;
+    const element = document.elementFromPoint(x, y);
+    return isPickableElement(element) ? element.closest("svg") || element : null;
+  }
+
+  function pickLabel(element) {
+    if (element.id) return element.localName + "#" + element.id;
+    return [element.localName].concat(Array.from(element.classList).slice(0, 2)).join(".");
+  }
+
+  // Only attributes that help find the element in source. data-* values and URL
+  // query strings or fragments can carry tokens.
+  const PICK_ATTRIBUTES = new Set([
+    "id",
+    "class",
+    "name",
+    "type",
+    "role",
+    "alt",
+    "aria-label",
+    "href",
+    "src",
+  ]);
+
+  function pickAttributeValue(attribute) {
+    return attribute.name === "href" || attribute.name === "src"
+      ? attribute.value.split(/[?#]/)[0]
+      : attribute.value;
+  }
+
+  function describePickElement(element) {
+    const chain = [];
+    for (
+      let current = element;
+      isPickableElement(current) && chain.length < PICK_CHAIN_LENGTH;
+      current = current.parentElement
+    ) {
+      chain.unshift(current);
+    }
+    const attributes = Array.from(element.attributes)
+      .filter((attribute) => PICK_ATTRIBUTES.has(attribute.name))
+      .map((attribute) => ` ${attribute.name}="${pickAttributeValue(attribute).replace(/"/g, "&quot;")}"`)
+      .join("");
+    const text = (element.innerText || element.textContent || "").replace(/\s+/g, " ").trim();
+    return {
+      chain: chain.map(pickLabel),
+      html: truncate(`<${element.localName}${attributes}>`, PICK_MAX_HTML_CHARS),
+      text: text ? truncate(text, PICK_MAX_TEXT_CHARS) : undefined,
+    };
+  }
+
+  // Hover asks once per frame, and innerText on a large section forces layout,
+  // so only the rect is re-read while the pointer stays on the same element.
+  // Clicks ask for fresh details since the page may have changed the element.
+  let lastPick = null;
+
+  function describePickTarget(element, fresh) {
+    if (fresh || lastPick?.element !== element) {
+      lastPick = { element, details: describePickElement(element) };
+    }
+    const rect = element.getBoundingClientRect();
+    return {
+      rect: { x: rect.left, y: rect.top, width: rect.width, height: rect.height },
+      ...lastPick.details,
+    };
+  }
+
+  function inlineAll(original, clone) {
+    if (original.nodeType !== 1 || clone.nodeType !== 1) return;
+
+    try {
+      const computedStyle = getComputedStyle(original);
+      // cssText on a computed style is the serialized declaration in modern
+      // Chromium/Safari — a single read beats enumerating ~400 longhand
+      // properties. Firefox returns "" here, so we fall back on empty.
+      const serialized = computedStyle.cssText;
+      if (serialized) {
+        clone.style.cssText = serialized;
+      } else {
+        const parts = new Array(computedStyle.length);
+        for (let index = 0; index < computedStyle.length; index += 1) {
+          const property = computedStyle[index];
+          parts[index] = `${property}:${computedStyle.getPropertyValue(property)};`;
+        }
+        clone.style.cssText = parts.join("");
+      }
+    } catch (_error) {}
+
+    const originalChildren = original.children;
+    const clonedChildren = clone.children;
+    for (
+      let index = 0;
+      index < originalChildren.length && index < clonedChildren.length;
+      index += 1
+    ) {
+      inlineAll(originalChildren[index], clonedChildren[index]);
+    }
+  }
+
+  function extractFontUrl(srcValue) {
+    const matches = [
+      ...srcValue.matchAll(
+        /url\(["']?([^"')]+)["']?\)(?:\s*format\(["']?([^"')]+)["']?\))?/gi,
+      ),
+    ];
+    if (matches.length === 0) return null;
+    const woff2 = matches.find((m) => m[2] && m[2].toLowerCase().includes("woff2"));
+    if (woff2) return woff2[1];
+    const woff = matches.find((m) => m[2] && m[2].toLowerCase().includes("woff"));
+    if (woff) return woff[1];
+    return matches[0][1];
+  }
+
+  // Cache resolved font URL -> data URI across captures. Fonts on a page
+  // essentially never change, and a batch run emits multiple captures back to
+  // back — without this we'd refetch + re-base64 every time.
+  const fontDataUriCache = new Map();
+  const SRC_DECLARATION_RE = /src\s*:\s*[^;}]+/i;
+
+  async function fetchAsDataUri(url) {
+    if (fontDataUriCache.has(url)) return fontDataUriCache.get(url);
+    let dataUri = null;
+    try {
+      const response = await fetch(url, { mode: "cors", credentials: "omit" });
+      if (response.ok) {
+        const blob = await response.blob();
+        if (blob.size <= MAX_FONT_BYTES) {
+          dataUri = await new Promise((resolve) => {
+            const reader = new FileReader();
+            reader.onloadend = () =>
+              resolve(typeof reader.result === "string" ? reader.result : null);
+            reader.onerror = () => resolve(null);
+            reader.readAsDataURL(blob);
+          });
+        }
+      }
+    } catch (_error) {
+      dataUri = null;
+    }
+    fontDataUriCache.set(url, dataUri);
+    return dataUri;
+  }
+
+  function collectFontFaceRuleTexts() {
+    const rules = [];
+    for (const sheet of document.styleSheets) {
+      let cssRules;
+      try {
+        cssRules = sheet.cssRules;
+      } catch (_error) {
+        continue;
+      }
+      if (!cssRules) continue;
+      for (const rule of cssRules) {
+        const cssText = rule.cssText || "";
+        if (cssText.startsWith("@font-face")) rules.push(cssText);
+      }
+    }
+    return rules;
+  }
+
+  async function buildInlinedFontCss() {
+    const ruleTexts = collectFontFaceRuleTexts();
+    if (ruleTexts.length === 0) return null;
+
+    const resolved = ruleTexts.map((cssText) => {
+      if (!SRC_DECLARATION_RE.test(cssText)) return null;
+      const srcMatch = cssText.match(/src\s*:\s*([^;}]+)[;}]/i);
+      if (!srcMatch) return null;
+      const url = extractFontUrl(srcMatch[1]);
+      if (!url) return null;
+      try {
+        return { cssText, url: new URL(url, document.baseURI).href };
+      } catch (_error) {
+        return null;
+      }
+    });
+
+    const dataUris = await Promise.all(
+      resolved.map((entry) => (entry ? fetchAsDataUri(entry.url) : Promise.resolve(null))),
+    );
+
+    const inlined = [];
+    let totalBytes = 0;
+    for (let index = 0; index < resolved.length; index += 1) {
+      const entry = resolved[index];
+      const dataUri = dataUris[index];
+      if (!entry || !dataUri) continue;
+      const approxBytes = dataUri.length * 0.75;
+      if (totalBytes + approxBytes > MAX_TOTAL_FONT_BYTES) break;
+      totalBytes += approxBytes;
+      inlined.push(entry.cssText.replace(SRC_DECLARATION_RE, `src: url("${dataUri}")`));
+    }
+    return inlined.length > 0 ? inlined.join("\n") : null;
+  }
+
+  function stripExternal(clone) {
+    const images = clone.querySelectorAll("img");
+    for (let index = 0; index < images.length; index += 1) {
+      const src = images[index].getAttribute("src");
+      if (src && !src.startsWith("data:")) images[index].removeAttribute("src");
+    }
+
+    const elements = clone.querySelectorAll("*");
+    for (let index = 0; index < elements.length; index += 1) {
+      const style = elements[index].style.cssText;
+      if (style && style.includes("url(")) {
+        elements[index].style.cssText = style.replace(
+          /url\(["']?(?!data:)[^)"']*["']?\)/gi,
+          "none",
+        );
+      }
+    }
+  }
+
+  function emitScroll() {
+    scrollRaf = 0;
+    if (!scrollForwarding) return;
+    postToTrustedTop({
+      type: "INLINE_EDIT_SCROLL",
+      scrollX: window.scrollX,
+      scrollY: window.scrollY,
+      capabilities: PICK_CAPABILITIES,
+    });
+  }
+
+  window.addEventListener(
+    "scroll",
+    function () {
+      if (!scrollForwarding || scrollRaf) return;
+      scrollRaf = requestAnimationFrame(emitScroll);
+    },
+    { passive: true, capture: true },
+  );
+
+  async function handleCaptureRequest(event) {
+    const requestId = event.data.requestId;
+    const scrollX = window.scrollX;
+    const scrollY = window.scrollY;
+    const width = window.innerWidth;
+    const height = window.innerHeight;
+
+    function postResult(dataUrl) {
+      postToTrustedTop({
+        type: "INLINE_EDIT_SCREENSHOT_RESULT",
+        requestId,
+        dataUrl,
+        scrollX,
+        scrollY,
+      });
+    }
+
+    try {
+      // Wait for any pending web fonts to resolve so both inline metrics and
+      // the @font-face inlining below see the same loaded faces.
+      if (document.fonts && document.fonts.ready) {
+        try {
+          await document.fonts.ready;
+        } catch (_error) {}
+      }
+
+      const clone = document.documentElement.cloneNode(true);
+      inlineAll(document.documentElement, clone);
+
+      const removedNodes = clone.querySelectorAll("script,link[rel=\"stylesheet\"],style");
+      for (let index = 0; index < removedNodes.length; index += 1) {
+        removedNodes[index].remove();
+      }
+
+      stripExternal(clone);
+
+      // Re-embed web fonts as data-URI @font-face rules so the SVG rasterizer
+      // can resolve them — external font URLs aren't fetched during
+      // foreignObject rendering, which would otherwise force a fallback face
+      // and change text metrics.
+      const inlinedFontCss = await buildInlinedFontCss();
+      if (inlinedFontCss) {
+        const styleEl = document.createElement("style");
+        styleEl.textContent = inlinedFontCss;
+        const head = clone.querySelector("head");
+        if (head) head.appendChild(styleEl);
+        else clone.insertBefore(styleEl, clone.firstChild);
+      }
+
+      const html = new XMLSerializer().serializeToString(clone);
+      const svg =
+        `<svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="${height}">` +
+        '<foreignObject width="100%" height="100%">' +
+        `<div xmlns="http://www.w3.org/1999/xhtml" style="width:${width}px;height:${height}px;overflow:hidden">` +
+        `<div style="position:relative;left:-${scrollX}px;top:-${scrollY}px">` +
+        html +
+        "</div></div></foreignObject></svg>";
+      const svgUrl = `data:image/svg+xml;charset=utf-8,${encodeURIComponent(svg)}`;
+      const image = new Image();
+      image.onload = function () {
+        const canvas = document.createElement("canvas");
+        canvas.width = width;
+        canvas.height = height;
+        canvas.getContext("2d").drawImage(image, 0, 0);
+        postResult(canvas.toDataURL("image/png"));
+      };
+      image.onerror = function () {
+        postResult(null);
+      };
+      image.src = svgUrl;
+    } catch (_error) {
+      postResult(null);
+    }
+  }
+
+  window.addEventListener("message", function (event) {
+    if (!event.data) return;
+    // Only accept messages from the direct parent frame. Blocks sibling /
+    // unrelated-window postMessage senders that could otherwise reach us.
+    if (event.source !== window.parent) return;
+
+    const trustedParentOrigin = getTrustedParentOrigin(event);
+    if (!trustedParentOrigin) return;
+    trustedTopOrigin = trustedParentOrigin;
+
+    if (event.data.type === "INLINE_EDIT_PICK") {
+      const element = resolvePickTarget(event.data.x, event.data.y);
+      postToTrustedTop({
+        type: "INLINE_EDIT_PICK_RESULT",
+        seq: event.data.seq,
+        target: element ? describePickTarget(element, event.data.fresh === true) : null,
+      });
+      return;
+    }
+
+    if (event.data.type === "INLINE_EDIT_SCROLL_START") {
+      scrollForwarding = true;
+      emitScroll();
+      return;
+    }
+
+    if (event.data.type === "INLINE_EDIT_SCROLL_STOP") {
+      scrollForwarding = false;
+      if (scrollRaf) cancelAnimationFrame(scrollRaf);
+      scrollRaf = 0;
+      return;
+    }
+
+    if (event.data.type === "INLINE_EDIT_SCROLL_BY") {
+      const { deltaX, deltaY, deltaMode } = event.data;
+      if (!scrollForwarding || !Number.isFinite(deltaX) || !Number.isFinite(deltaY)) return;
+      if (deltaMode !== 0 && deltaMode !== 1 && deltaMode !== 2) return;
+      const lineHeight =
+        parseFloat(getComputedStyle(document.documentElement).lineHeight) || DEFAULT_LINE_HEIGHT;
+      const scaleX = deltaMode === 1 ? lineHeight : deltaMode === 2 ? window.innerWidth : 1;
+      const scaleY = deltaMode === 1 ? lineHeight : deltaMode === 2 ? window.innerHeight : 1;
+      // The selection overlay receives the wheel event instead of this iframe.
+      // Instant scrolling preserves trackpad deltas even on smooth-scroll sites.
+      window.scrollBy({ left: deltaX * scaleX, top: deltaY * scaleY, behavior: "instant" });
+      emitScroll();
+      return;
+    }
+
+    if (event.data.type !== "INLINE_EDIT_CAPTURE_REQUEST") return;
+
+    handleCaptureRequest(event);
+  });
+})();
+
+
+</script></body>
+</html>

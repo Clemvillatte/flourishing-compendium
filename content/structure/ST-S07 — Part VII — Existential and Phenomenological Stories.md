@@ -1,0 +1,60 @@
+---
+schema: 0
+id: "ST-S07 — Part VII — Existential and Phenomenological Stories"
+type: "layer"
+title: "Part VII — Existential and Phenomenological Stories"
+file: "ST-S07 — Part VII — Existential and Phenomenological Stories"
+tags: ["general", "topic/creativity"]
+navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "", "parent": ""}
+---
+## Sections
+
+- [[ST-S07.01 — VII.1 Phenomenological Method and Intentionality]]
+  - [[ST259 — Husserl and the Apple]]
+  - [[ST260 — Brentano's Direction]]
+  - [[ST261 — Nan-in Overflows the Cup]]
+  - [[ST262 — Georges Cares for Anne]]
+- [[ST-S07.02 — VII.2 The Lived Body (Leib) and Embodiment]]
+  - [[ST263 — The Phantom Hand]]
+  - [[ST264 — Bauby Blinks]]
+  - [[ST265 — Christy Brown's A]]
+- [[ST-S07.03 — VII.3 Being-in-the-World and Care]]
+  - [[ST266 — The Hammer Breaks]]
+  - [[ST267 — The Face of the Other]]
+  - [[ST268 — Lee Cannot Be Forgiven]]
+- [[ST-S07.04 — VII.4 Freedom, Bad Faith, and Authenticity]]
+  - [[ST269 — The Waiter's Dance]]
+  - [[ST270 — Kierkegaard's Abraham]]
+  - [[ST271 — The Wheelers' Paris]]
+- [[ST-S07.05 — VII.5 Finitude, Anxiety, and the Authentic Self]]
+  - [[ST272 — Being-toward-Death]]
+  - [[ST273 — The Dizziness of Freedom]]
+  - [[ST274 — Watanabe on the Swing]]
+  - [[ST275 — Ivan Ilyich's Fear]]
+  - [[ST276 — Alice Loses the Words]]
+- [[ST-S07.06 — VII.6 The Absurd, Revolt, and Meaning-Making]]
+  - [[ST277 — Sisyphus Is Happy]]
+  - [[ST278 — Dr. Rieux Fights the Plague]]
+  - [[ST279 — Frankl's Meaning]]
+  - [[ST280 — Pi's Two Stories]]
+- [[ST-S07.07 — VII.7 Intersubjectivity, Recognition, and Embodiment Revisited]]
+  - [[ST281 — The Struggle for Recognition]]
+  - [[ST282 — Fanon and the Look]]
+  - [[ST283 — Sartre's Keyhole]]
+  - [[ST284 — The Lunchbox That Never Meets]]
+- [[ST-S07.08 — VII.8 Hermeneutics, Narrative Identity, and the Interpretation of Self]]
+  - [[ST285 — Ricoeur's Threefold Mimesis]]
+  - [[ST286 — The Grand Inquisitor]]
+  - [[ST287 — Will Finishes the Story]]
+  - [[ST288 — Joel and Clementine Erase Each Other]]
+- [[ST-S07.09 — VII.9 Limit Situations, Communication, and Transcendence]]
+  - [[ST289 — Jaspers's Shipwreck]]
+  - [[ST290 — Job and the Whirlwind]]
+  - [[ST291 — The Tower of Babel]]
+  - [[ST292 — Louise Learns to Write]]
+- [[ST-S07.10 — VII.10 Nietzschean Self-Overcoming and Value Creation]]
+  - [[ST293 — The Three Metamorphoses]]
+  - [[ST294 — The Demon's Question]]
+  - [[ST295 — Prometheus Steals]]
+  - [[ST296 — Andrew's Final Solo]]

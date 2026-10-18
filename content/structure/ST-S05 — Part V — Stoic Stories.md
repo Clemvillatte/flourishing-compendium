@@ -1,0 +1,60 @@
+---
+schema: 0
+id: "ST-S05 — Part V — Stoic Stories"
+type: "layer"
+title: "Part V — Stoic Stories"
+file: "ST-S05 — Part V — Stoic Stories"
+tags: ["general", "topic/creativity"]
+navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "", "parent": ""}
+---
+## Sections
+
+- [[ST-S05.01 — V.1 First Principles — The Dichotomy of Control and Virtue]]
+  - [[ST188 — Epictetus and the Leg]]
+  - [[ST189 — The Stoic Archer]]
+  - [[ST190 — Marcus and the Plague]]
+  - [[ST191 — The Stolen Lamp]]
+  - [[ST192 — Abel's Question]]
+  - [[ST193 — Stockdale and the Epistle]]
+- [[ST-S05.02 — V.2 The Discipline of Desire]]
+  - [[ST194 — Seneca Writes to His Mother]]
+  - [[ST195 — Diogenes and the Sun]]
+  - [[ST196 — Cato Chooses the Republic]]
+  - [[ST197 — Chuck Noland Loses the Clock]]
+- [[ST-S05.03 — V.3 The Discipline of Action]]
+  - [[ST198 — The Gardener Tends]]
+  - [[ST199 — Marcus at the Front]]
+  - [[ST200 — Andy Dufresne Crawls]]
+- [[ST-S05.04 — V.4 The Discipline of Assent]]
+  - [[ST201 — Withholding Assent]]
+  - [[ST202 — The View from Above]]
+  - [[ST203 — Socrates as the Stoic Before the Stoics]]
+  - [[ST204 — Truman Tests the Water]]
+- [[ST-S05.05 — V.5 Emotions, Passions, and the Inner Citadel]]
+  - [[ST205 — Seneca on Anger]]
+  - [[ST206 — The Inner Citadel]]
+  - [[ST207 — The Sailors and the Storm]]
+  - [[ST208 — Rocky Goes the Distance]]
+- [[ST-S05.06 — V.6 Social, Cosmopolitan, and Duty]]
+  - [[ST209 — The Citizen of the World]]
+  - [[ST210 — Hierocles's Circles]]
+  - [[ST211 — Musonius Rufus on Daughters]]
+  - [[ST212 — Paul Rusesabagina Makes the Calls]]
+- [[ST-S05.07 — V.7 Time, Death, and Adversity]]
+  - [[ST213 — The Shortness of Life]]
+  - [[ST214 — Warren Schmidt Retires]]
+  - [[ST215 — Watanabe Finds the Playground]]
+  - [[ST216 — Aron Ralston Chooses]]
+- [[ST-S05.08 — V.8 Handling Specific Situations]]
+  - [[ST217 — The Morning Preparation]]
+  - [[ST218 — Seneca on Crowds]]
+  - [[ST219 — Coach Taylor's Mantra]]
+- [[ST-S05.09 — V.9 Philosophical Exercises]]
+  - [[ST220 — The Evening Review]]
+  - [[ST221 — The Premeditation of Evils]]
+  - [[ST222 — Phil Connors Practises]]
+- [[ST-S05.10 — V.10 Daily Practice and the Whole Life]]
+  - [[ST223 — The Slave Who Taught Emperors]]
+  - [[ST224 — The Book That Was Never for Publication]]
+  - [[ST225 — Thomas More Keeps Silence]]

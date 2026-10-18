@@ -1,0 +1,12 @@
+---
+schema: 0
+id: "Pride"
+type: "concept"
+title: "Pride"
+file: "Pride"
+navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-P"], "alternatePaths": []}
+legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter P", "parent": ""}
+---
+"Pride"
+
+## Cited in philosophy parallels

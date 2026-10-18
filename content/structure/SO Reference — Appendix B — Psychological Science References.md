@@ -1,0 +1,164 @@
+---
+schema: 0
+id: "SO Reference — Appendix B — Psychological Science References"
+type: "reference"
+title: "Appendix B — Psychological Science References"
+file: "SO Reference — Appendix B — Psychological Science References"
+tags: ["sociocultural-science"]
+navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-GUID"], "alternatePaths": []}
+legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SO — Sociocultural", "chapter": "Appendices & Reference — SO — Sociocultural", "parent": ""}
+---
+Verified hyperlinks (retrieved October 2026):
+
+- Berry, J. W. (1997). Immigration, acculturation, and adaptation. Applied Psychology: An International Review, 46(1), 5–34. https://doi.org/10.1111/j.1464-0597.1997.tb01087.x
+- Berry, J. W. (2005). Acculturation: Living successfully in two cultures. International Journal of Intercultural Relations, 29(6), 697–712. https://doi.org/10.1016/j.ijintrel.2005.07.013
+- Biglan, A., Flay, B. R., Embry, D. D., & Sandler, I. N. (2012). The critical role of nurturing environments for promoting human well-being. American Psychologist, 67(4), 257–271. https://doi.org/10.1037/a0026796
+- Bronfenbrenner, U. (1979). The Ecology of Human Development: Experiments by Nature and Design. Harvard University Press.
+- Bronfenbrenner, U. (Ed.) (2005). Making Human Beings Human: Bioecological Perspectives on Human Development. SAGE.
+- Chida, Y., Steptoe, A., & Powell, L. H. (2008). Religiosity/spirituality and mortality: A systematic quantitative review. Psychotherapy and Psychosomatics, 77(2), 81–90. https://doi.org/10.1159/000119251
+- Christakis, N. A., & Fowler, J. H. (2007). The spread of obesity in a large social network over 32 years. New England Journal of Medicine, 357(4), 370–379. https://doi.org/10.1056/NEJMsa066082
+- Christakis, N. A., & Fowler, J. H. (2008). The collective dynamics of smoking in a large social network. New England Journal of Medicine, 358(21), 2249–2258. https://doi.org/10.1056/NEJMsa0706154
+- Cohen, S., & Wills, T. A. (1985). Stress, social support, and the buffering hypothesis. Psychological Bulletin, 98(2), 310–357. https://doi.org/10.1037/0033-2909.98.2.310
+- Coviello, L., Sohn, Y., Kramer, A. D. I., et al. (2014). Detecting emotional contagion in massive social networks. PLoS ONE, 9(3), e90315. https://doi.org/10.1371/journal.pone.0090315
+- Crenshaw, K. (1989). Demarginalizing the intersection of race and sex. University of Chicago Legal Forum, 1989(1), 139–167.
+- Crocker, J., Luhtanen, R., Blaine, B., & Broadnax, S. (1994). Collective self-esteem and psychological well-being of White, Black, and Asian college students. Personality and Social Psychology Bulletin, 20(5), 503–513. https://doi.org/10.1177/0146167294205006
+- Diener, E. (2000). Subjective well-being: The science of happiness and a proposal for a national index. American Psychologist, 55(1), 34–43. https://doi.org/10.1037/0003-066X.55.1.34
+- Dressler, W. W., & Bindon, J. R. (2000). The health consequences of cultural consonance: Cultural dimensions of lifestyle, social support, and arterial blood pressure in an African American community. American Anthropologist, 102(2), 254–268. https://doi.org/10.1525/aa.2000.102.2.254
+- Du Bois, W. E. B. (1903). The Souls of Black Folk. A. C. McClurg.
+- Eisenbruch, M. (1991). From post-traumatic stress disorder to cultural bereavement: Diagnosis of Southeast Asian refugee health. Social Science & Medicine, 33(6), 673–680. https://doi.org/10.1016/0277-9536(91)90228-4
+- Gone, J. P. (2011). The Red Road to Wellness: Cultural Reclamation in a Native First Nations Community Treatment Center. In M. P. Kral et al. (Eds.), Psychology and Culture: Exploring Clinical Psychology with Diverse Populations.
+- Granovetter, M. (1973). The strength of weak ties. American Journal of Sociology, 78(6), 1360–1380. https://doi.org/10.1086/225469
+- Hall, G. C. N., Ibaraki, A. Y., Huang, E. R., Marti, C. N., & Stice, E. (2016). A meta-analysis of cultural adaptations of psychological interventions. Behavior Therapy, 47(6), 993–1014. https://doi.org/10.1016/j.beth.2016.09.005
+- Hall, S. (1990). Cultural identity and diaspora. In J. Rutherford (Ed.), Identity: Community, Culture, Difference. Lawrence & Wishart.
+- Haslam, S. A., Jetten, J., Postmes, T., & Haslam, C. (2009). Social identity, health and well-being: An emerging agenda. Applied Psychology, 58(1), 1–23. https://doi.org/10.1111/j.1464-0597.2008.00379.x
+- Henrich, J., Heine, S. J., & Norenzayan, A. (2010). The weirdest people in the world? Behavioral and Brain Sciences, 33(2–3), 61–83. https://doi.org/10.1017/S0140525X0999152X
+- Hickman, C., Marks, E., Piiko, P., et al. (2021). Climate anxiety in children and young people and their beliefs about government responses to climate change: A global survey. The Lancet Planetary Health, 5(12), e863–e873. https://doi.org/10.1016/S2542-5196(21)00278-3
+- Holt-Lunstad, J., Smith, T. B., & Layton, J. B. (2010). Social relationships and mortality risk: A meta-analytic review. PLoS Medicine, 7(7), e1000316. https://doi.org/10.1371/journal.pmed.1000316
+- Holt-Lunstad, J., Robles, T. F., & Sbarra, D. A. (2017). Advancing social connection as a public health priority in the United States. American Psychologist, 72(6), 517–531. https://doi.org/10.1037/amp0000103
+- Hook, J. N., Davis, D. E., Owen, J., Worthington, E. L., & Utsey, S. O. (2013). Cultural humility: Measuring openness to culturally diverse clients. Journal of Counseling Psychology, 60(3), 353–366. https://doi.org/10.1037/a0032595
+- Institute of Medicine (2009). Preventing Mental, Emotional, and Behavioral Disorders Among Young People: Progress and Possibilities. National Academies Press.
+- Inglehart, R., & Welzel, C. (2005). Modernization, Cultural Change, and Democracy. Cambridge University Press.
+- Kawachi, I., Kennedy, B. P., & Glass, R. (1999). Social capital and self-rated health: A contextual analysis. American Journal of Public Health, 89(8), 1187–1193. https://doi.org/10.2105/AJPH.89.8.1187
+- Kramer, A. D. I., Guillory, J. E., & Hancock, J. T. (2014). Experimental evidence of massive-scale emotional contagion through social networks. PNAS, 111(29), 8788–8790. https://doi.org/10.1073/pnas.1320043111
+- Kwiatkowski, M., & Zalewska, M. (2018). Questionnaire-based research on hedonic and eudaimonic well-being. In J. Rau et al. (Eds.), Current Topics in Public Health.
+- Major, B., Dovidio, J. F., & Link, B. G. (Eds.) (2018). The Oxford Handbook of Stigma, Discrimination, and Health. Oxford University Press.
+- Marmot, M. (2004). Status Syndrome: How Your Social Standing Directly Affects Your Health and Life Expectancy. Bloomsbury.
+- Marmot, M., & Wilkinson, R. (Eds.) (2006). Social Determinants of Health (2nd ed.). Oxford University Press.
+- Markus, H. R., & Kitayama, S. (1991). Culture and the self: Implications for cognition, emotion, and motivation. Psychological Review, 98(2), 224–253. https://doi.org/10.1037/0033-295X.98.2.224
+- McMillan, D. W., & Chavis, D. M. (1986). Sense of community: A definition and theory. Journal of Community Psychology, 14(1), 6–23. https://doi.org/10.1002/1520-6629(198601)14:1<6::AID-JCOP2290140103>3.0.CO;2-I
+- Meyer, I. H. (2003). Prejudice, social stress, and mental health in lesbian, gay, and bisexual populations: Conceptual issues and research evidence. Psychosomatic Medicine, 65(5), 671–683. https://doi.org/10.1097/01.PSY.0000035425.65429.39
+- OECD (2013). OECD Guidelines on Measuring Subjective Well-being. OECD Publishing. https://doi.org/10.1787/9789264191655-en
+- Ostrom, E. (1990). Governing the Commons: The Evolution of Institutions for Collective Action. Cambridge University Press.
+- Paradies, Y., Ben, J., Denson, N., et al. (2015). Racism as a determinant of health: A systematic review and meta-analysis. PLoS ONE, 10(9), e0138511. https://doi.org/10.1371/journal.pone.0138511
+- Pascoe, E. A., & Smart Richman, L. (2009). Perceived discrimination and health: A meta-analytic review. Psychological Bulletin, 135(4), 531–554. https://doi.org/10.1037/a0016059
+- Pettigrew, T. F., & Tropp, L. R. (2006). A meta-analytic test of intergroup contact theory. Journal of Personality and Social Psychology, 90(5), 751–783. https://doi.org/10.1037/0022-3514.90.5.751
+- Putnam, R. D. (2000). Bowling Alone: The Collapse and Revival of American Community. Simon & Schuster.
+- Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. American Psychologist, 55(1), 68–78. https://doi.org/10.1037/0003-066X.55.1.68
+- Saguy, T., Tausch, N., & Dovidio, J. F. (2011). Inter-group contact and social domination. In S. Demoulin et al. (Eds.), Intergroup Relations.
+- Sam, D. L., & Berry, J. W. (Eds.) (2010). Acculturation and Adaptation: A Review of the Literature. In The Cambridge Handbook of Acculturation Psychology. Cambridge University Press.
+- Sampson, R. J., Raudenbush, S. W., & Earls, F. (1997). Neighborhoods and violent crime: A multilevel study of collective efficacy. Science, 277(5328), 918–924. https://doi.org/10.1126/science.277.5328.918
+- Schwartz, S. H. (1990). Individualism-collectivism: Critique and proposed refinements. Journal of Cross-Cultural Psychology, 21(2), 139–157. https://doi.org/10.1177/0022022190212001
+- Schwartz, S. H. (1994). Beyond individualism/collectivism: New cultural dimensions of values. In U. Kim et al. (Eds.), Individualism and Collectivism. SAGE.
+- Steger, M. F. (2012). Making meaning in life. Psychological Inquiry, 23(4), 381–385. https://doi.org/10.1080/1047840X.2012.708787
+- Tajfel, H., & Turner, J. C. (1979). An integrative theory of intergroup conflict. In W. G. Austin & S. Worchel (Eds.), The Social Psychology of Intergroup Relations. Brooks/Cole.
+- Tervalon, M., & Murray-García, J. (1998). Cultural humility versus cultural competence. Academic Medicine, 73(2), 122–125.
+- Uchida, Y., Norasakkunkit, V., & Kitayama, S. (2004). Cultural constructions of happiness: Theory and empirical evidence. Journal of Happiness Studies, 5(3), 223–249. https://doi.org/10.1007/s10902-004-8785-9
+- VanderWeele, T. J., Li, S., Tsai, A. C., & Kawachi, I. (2016). Association between religious service attendance and lower suicide rates among US women. JAMA Psychiatry, 73(8), 845–851. https://doi.org/10.1001/jamapsychiatry.2016.1243
+- Verduyn, P., Ybarra, O., Résibois, M., et al. (2017). Do social network sites enhance or undermine subjective well-being? Social Issues and Policy Review, 11(1), 274–302. https://doi.org/10.1111/sipr.12031
+- Vygotsky, L. S. (1978). Mind in Society: The Development of Higher Psychological Processes. Harvard University Press.
+- Wahlbeck, K., Cresswell-Smith, J., Haaramo, P., et al. (2015). Interventions to reduce the stigma attached to mental illness. In V. Patel et al. (Eds.), The Lancet Commission on Global Mental Health.
+- Walton, G. M., & Cohen, G. L. (2011). A brief social-belonging intervention improves academic and health outcomes of minority students. Science, 331(6023), 1447–1451. https://doi.org/10.1126/science.1198364
+- Wilkinson, R. G., & Pickett, K. E. (2009). The Spirit Level: Why More Equal Societies Almost Always Do Better. Allen Lane.
+- World Health Organization (2010). Equity, Social Determinants and Public Health Programmes. WHO.
+- World Health Organization (2022). World Mental Health Report: Transforming Mental Health for All. WHO. https://www.who.int/publications/i/item/9789240049338
+
+Standard citations (no verified hyperlink at time of compilation):
+
+- Adler, N. E., & Stewart, J. (2010). Health disparities across the lifespan. Annual Review of Psychology, 61, 69–92.
+- Baumeister, R. F., & Leary, M. R. (1995). The need to belong. Psychological Bulletin, 117(3), 497–529.
+- Benet-Martínez, V., & Haritatos, J. (2005). Bicultural Identity Integration (BII): Theory and measurement. Journal of Cross-Cultural Psychology, 36(1), 101–124.
+- Benet-Martínez, V., Leu, J., Lee, F., & Morris, M. (2002). Negotiating biculturalism. Journal of Cross-Cultural Psychology, 33(5), 492–516.
+- Bourdieu, P. (1984). Distinction. Harvard University Press.
+- Bronfenbrenner, U., & Morris, P. A. (2006). The bioecological model of human development. In W. Damon & R. Lerner (Eds.), Handbook of Child Psychology (6th ed.).
+- Brown, S. L., Nesse, R. M., Vinokur, A. D., & Smith, D. M. (2003). Providing social support may be more beneficial than receiving it. Psychological Science, 14(4), 320–327.
+- Castro, F. G., Barrera, M., & Holleran Steiker, L. K. (2010). Issues and challenges in the design of culturally adapted evidence-based interventions. Annual Review of Clinical Psychology, 6, 213–239.
+- Christakis, N. A., & Fowler, J. H. (2008). The collective dynamics of smoking in a large social network. NEJM, 358(21), 2249–2258.
+- Clark, A. E., Flèche, S., Layard, R., Powdthavee, N., & Ward, G. (2018). The Origins of Happiness. Princeton University Press.
+- Cohen, S. (2004). Social relationships and health. American Psychologist, 59(8), 676–684.
+- Crichton, P., Carel, H., & Kidd, I. J. (2017). Epistemic injustice in psychiatry. BJPsych Bulletin, 41(2), 65–70.
+- Cruwys, T., Haslam, S. A., Dingle, G. A., et al. (2014). Depression and social identity. Journal of Affective Disorders, 152–154, 34–39.
+- Diener, E., & Suh, E. M. (Eds.) (2000). Culture and Subjective Well-Being. MIT Press.
+- Dressler, W. W., Balieiro, M. C., Ribeiro, R. P., & Santos, J. E. (2005). Cultural consonance and arterial blood pressure. Current Anthropology, 46(1), 115–122.
+- Dressler, W. W., Balieiro, M. C., & Santos, J. E. (2007). Cultural consonance and psychological well-being. Journal of Anthropological Research, 63(1), 61–83.
+- Dunbar, R. I. M. (2016). Do online social media cut through the constraints that limit the size of offline social networks? Royal Society Open Science, 3(1), 150292.
+- Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B. (2011). The impact of enhancing students' social and emotional learning. Child Development, 82(1), 405–432.
+- Fazel, M., Wheeler, J., & Danesh, J. (2005). Prevalence of serious mental disorder in 7000 refugees resettled in western countries. The Lancet, 365(9467), 1309–1314.
+- Fishkin, J. (2009). When the People Speak. Oxford University Press.
+- Fricker, M. (2007). Epistemic Injustice: Power and the Ethics of Knowing. Oxford University Press.
+- Frijters, P., & Krekel, D. (2021). A Handbook for Wellbeing Policy-Making. Oxford University Press.
+- Galinsky, A. D., Ku, G., & Wang, C. S. (2008). Perspective-takers behave more stereotypically. Journal of Personality and Social Psychology, 95(2), 404–419.
+- Goldman, A. I. (1999). Knowledge in a Social World. Oxford University Press.
+- Gurwitz, S. B., et al. (2023). Reducing WEIRD psychology: A cross-national study of psychology papers. PNAS, 120(42), e2213710120.
+- Hawkley, L. C., & Cacioppo, J. T. (2010). Loneliness matters. Social and Personality Psychology Compass, 4(11), 877–891.
+- Henrich, J., Heine, S. J., & Norenzayan, A. (2010). The weirdest people in the world? BBS, 33(2–3), 61–83.
+- Hill, P. C., & Pargament, K. I. (2003). Advances in the conceptualization and measurement of religion and spirituality. American Psychologist, 58(1), 64–74.
+- Hong, L., & Page, S. E. (2004). Groups of diverse problem solvers can outperform groups of high-ability problem solvers. PNAS, 101(46), 16385–16389.
+- Hong, Y.-y., Morris, M. W., Chiu, C.-y., & Benet-Martínez, V. (2000). Multicultural minds. American Psychologist, 55(7), 709–720.
+- Huynh, Q.-L., Devos, T., & Smaller, R. (2011). Bicultural identity integration. Journal of Cross-Cultural Psychology, 42(5), 843–868.
+- Inglehart, R., & Welzel, C. (2005). Modernization, Cultural Change, and Democracy. Cambridge University Press.
+- Jackson, R. J. (2003). The impact of the built environment on health. Annual Review of Public Health, 24, 397–423.
+- Janis, I. L. (1972). Victims of Groupthink. Houghton Mifflin.
+- Jetten, J., Haslam, C., & Haslam, S. A. (Eds.) (2012). The Social Cure. Psychology Press.
+- Kawachi, I., & Berkman, L. (2000). Social cohesion, social capital, and health. In L. Berkman & I. Kawachi (Eds.), Social Epidemiology. Oxford University Press.
+- Kirmayer, L. J. (2012). Rethinking cultural competence. Transcultural Psychiatry, 49(2), 149–164.
+- Kitayama, S., & Markus, H. R. (Eds.) (2000). The Heart of Culture. Stanford University Press.
+- Kitayama, S., Park, H., Sevincer, A. T., Karasawa, M., & Uskul, A. K. (2007). A cultural task analysis of implicit independence. Psychological Science, 18(4), 364–369.
+- Kitcher, P. (1990). The division of cognitive labor. Journal of Philosophy, 87(1), 5–22.
+- Koenig, H. G., King, D. E., & Carson, V. B. (2012). Handbook of Religion and Health (2nd ed.). Oxford University Press.
+- Kraus, M. W., Piff, P. K., Mendoza-Denton, R., Rheinschmidt, M. L., & Keltner, D. (2012). Social class, solipsism, and contextualism. JPSP, 102(2), 291–303.
+- Lareau, A. (2011). Unequal Childhoods (2nd ed.). University of California Press.
+- Lewis-Fernández, R., & Aggarwal, N. K. (2015). Culture and psychiatric diagnosis. In B. J. Sadock et al. (Eds.), Kaplan & Sadock's Comprehensive Textbook of Psychiatry (10th ed.).
+- Marks, A. K., Ejesi, K., McCullough, M. B., & García Coll, C. (2014). Developmental implications of the immigrant paradox. Human Development, 57(2–3), 73–93.
+- Martela, F., & Steger, M. F. (2016). The meaning of well-being and happiness. In D. Bhugra et al. (Eds.), Oxford Handbook of Positive Psychology.
+- McEwen, B. S. (1998). Protective and damaging effects of stress mediators. NEJM, 338(3), 171–179.
+- Medin, D. L., & Bang, M. (2014). Who's Asking? MIT Press.
+- Mesoudi, A. (2011). Cultural Evolution. University of Chicago Press.
+- Mullainathan, S., & Shafir, E. (2013). Scarcity. Times Books.
+- Nguyen, C. T. (2020). Echo chambers and epistemic bubbles. Episteme, 17(2), 141–161.
+- Norton, M. I., & Sommers, S. R. (2011). Whites see racism as a zero-sum game. Perspectives on Psychological Science, 6(3), 215–218.
+- Orben, A., & Przybylski, A. K. (2019). The association between adolescent well-being and digital technology use. Nature Human Behaviour, 3(2), 173–182.
+- Oyserman, D., Coon, H. M., & Kemmelmeier, M. (2002). Rethinking individualism and collectivism. Psychological Bulletin, 128(1), 3–73.
+- Patel, V., Weiss, H. A., Chowdhary, N., et al. (2010). Effectiveness of an intervention led by lay health counsellors for depressive and anxiety disorders in primary care in Goa, India (MANAS). The Lancet, 376(9758), 2086–2095.
+- Phinney, J. S., & Ong, A. D. (2007). Conceptualization and measurement of ethnic identity. Journal of Counseling Psychology, 54(2), 271–281.
+- Pinquart, M., & Sörensen, S. (2000). Influences of socioeconomic status, social network, and competence on subjective well-being in later life. Psychology and Aging, 15(2), 187–224.
+- Portes, A., & Zhou, M. (1993). The new second generation. Annals of the AAPSS, 530, 74–96.
+- Reynolds, B., & Lewis, J. (2017). Teams solve problems faster when they're more cognitively diverse. Harvard Business Review, March 30, 2017.
+- Rosa, H. (2013). Social Acceleration: A New Theory of Modernity. Columbia University Press.
+- Ross, N. (2014). Exploring concepts of health and disease. Social Science & Medicine.
+- Ryff, C. D., & Singer, B. H. (2008). Know thyself and become what you are. Journal of Happiness Studies, 9(1), 13–39.
+- Sandstrom, G. M., & Dunn, E. W. (2014). Social interactions and well-being. Journal of Psychology, 148(6), 673–694.
+- Sapolsky, R. M. (2005). The influence of social hierarchy on primate health. Science, 308(5722), 648–652.
+- Sidanius, J., & Pratto, F. (1999). Social Dominance. Cambridge University Press.
+- Sirin, S. R., Ryce, P., & Mir, M. (2013). Cultural values in families of Mexican origin. Journal of Cross-Cultural Psychology, 44(4), 603–624.
+- Surowiecki, J. (2005). The Wisdom of Crowds. Anchor.
+- Sunstein, C. R. (2002). The law of group polarization. Journal of Political Philosophy, 10(2), 175–195.
+- Sunstein, C. R., & Hastie, R. (2015). Wiser. Harvard Business Review Press.
+- Tajfel, H. (1981). Human Groups and Social Categories. Cambridge University Press.
+- Tetlock, P. E. (2005). Expert Political Judgment. Princeton University Press.
+- Thaler, R. H., & Sunstein, C. R. (2008). Nudge. Yale University Press.
+- Thapa, A., Cohen, J., Higgins-D'Alessandro, A., & Guffey, S. (2013). School climate research. Review of Educational Research, 83(2), 357–385.
+- Triandis, H. C. (1989). The self and social behavior in differing cultural contexts. Psychological Review, 96(3), 506–520.
+- Twenge, J. M., Joiner, T. E., Rogers, M. L., & Martin, G. N. (2018). Increases in depressive symptoms, suicide-related outcomes, and suicide rates among U.S. adolescents after 2010. Clinical Psychological Science, 6(1), 3–17.
+- Uchino, B. N. (2006). Social support and health. In R. A. R. MacDonald & L. R. Martin (Eds.), Encyclopedia of Health Psychology.
+- Valkenburg, P. M., van der Meulen, M., & Baumgartner, S. E. (2022). Social media use and its impact on adolescent mental health. Current Opinion in Psychology, 44, 58–68.
+- Vanden Abeele, M. M. P. (2021). Digital wellbeing. Cyberpsychology, 15(1).
+- van der Linden, S. (2022). Misinformation. Current Opinion in Psychology, 47, 238–244.
+- Veenhoven, R. (2010). World Database of Happiness. Erasmus University Rotterdam.
+- Vogel, E. A., Rose, J. P., Roberts, L. R., & Eckles, K. (2014). Social comparison, social media, and self-esteem. Psychology of Popular Media Culture, 3(4), 206–222.
+- Ward, C., Bochner, S., & Furnham, A. (2001). The Psychology of Culture Shock (2nd ed.). Routledge.
+- Wegner, D. M. (1987). Transactive memory. Journal of Personality and Social Psychology, 53(1), 153–158.
+- Whitbeck, L. B., Adams, G. W., Hoyt, D. R., & Chen, X. (2004). Conceptualizing and measuring historical trauma among American Indian people. Journal of Community Psychology, 32(3), 283–309.
+- Wilkinson, R. G., & Pickett, K. E. (2009). The Spirit Level. Allen Lane.
+- Wilson, R. S., Krueger, K. R., Arnold, S. E., et al. (2007). Loneliness and risk of Alzheimer disease. Archives of General Psychiatry, 64(2), 234–240.
+- Yehuda, R., Daskalakis, N. P., Bierer, L. M., et al. (2016). Holocaust exposure induced intergenerational effects on FKBP5 methylation. Biological Psychiatry, 80(5), 372–380.
+- Zimbardo, P. G. (2007). The Lucifer Effect. Random House.

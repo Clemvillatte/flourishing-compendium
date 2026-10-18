@@ -1,0 +1,231 @@
+---
+schema: 0
+id: "E Reference — Book IV Appendix C - Philosophy References"
+type: "reference"
+title: "Book IV Appendix C - Philosophy References"
+file: "E Reference — Book IV Appendix C - Philosophy References"
+tags: ["existentialism-and-phenomenology"]
+navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-GUID"], "alternatePaths": []}
+legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existentialism and Phenomenology", "chapter": "Appendices & Reference — E — Existentialism and Phenomenology", "parent": ""}
+---
+- Epoché — Husserl, Ideas I
+- Bracketing — Husserl, Cartesian Meditations
+- Suspension of the natural attitude — Husserl, The Crisis
+- Intentionality — Husserl, Logical Investigations V; Brentano, Psychology from an Empirical Standpoint
+- Consciousness as directedness — Sartre, Being and Nothingness, Introduction
+- The natural attitude — Husserl, Ideas I
+- Naive realism and its suspension — Husserl, Cartesian Meditations
+- The lifeworld — Husserl, The Crisis
+- Pre-theoretical experience — Heidegger, Being and Time; Merleau-Ponty, Phenomenology of Perception
+- Horizon — Husserl, Ideas I
+- Implicit and explicit — Husserl, Cartesian Meditations
+- Epoché as practice — Husserl, Ideas I
+- Suspension of judgement — Pyrrho; Sextus Empiricus, Outlines of Pyrrhonism
+- Eidos — Husserl, Ideas I
+- Essence and accident — Aristotle, Metaphysics
+- Retention and protention — Husserl, On the Phenomenology of Internal Time Consciousness
+- Temporality — Heidegger, Being and Time, §§65-66
+- Intersubjectivity — Husserl, Cartesian Meditations
+- Mitsein — Heidegger, Being and Time
+- The face of the Other — Levinas, Totality and Infinity
+- Constitution of meaning — Husserl, Ideas I
+- Meaning as constituted — Sartre, Being and Nothingness
+- To the things themselves — Husserl, Logical Investigations
+- Phenomenological description — Heidegger, Being and Time, §7; Merleau-Ponty, Phenomenology of Perception, Preface
+- The ongoing reduction — Husserl, The Crisis
+- Practice and habit — Aristotle, Nicomachean Ethics II.1
+- The lived body (Leib) — Merleau-Ponty, Phenomenology of Perception; Husserl, Ideas II
+- Embodiment — Marcel, Being and Having
+- The habit body — Merleau-Ponty, Phenomenology of Perception
+- Habit and virtue — Aristotle, Nicomachean Ethics II.1
+- Motor intentionality — Merleau-Ponty, Phenomenology of Perception
+- Being-in-the-world — Heidegger, Being and Time
+- The body-subject — Merleau-Ponty, Phenomenology of Perception
+- Being-in-the-world — Heidegger, Being and Time
+- Embodied perception — Merleau-Ponty, Phenomenology of Perception
+- Dasein's spatiality — Heidegger, Being and Time, §§22-24
+- Flesh (chair) — Merleau-Ponty, The Visible and the Invisible
+- Reversibility — Merleau-Ponty, "Eye and Mind"
+- The chiasm — Merleau-Ponty, The Visible and the Invisible
+- Intertwining — Merleau-Ponty, "Eye and Mind"
+- Embodiment as condition — Merleau-Ponty, Phenomenology of Perception
+- Dasein's embodiment — Heidegger, Being and Time
+- Being-in-the-world (In-der-Welt-sein) — Heidegger, Being and Time
+- Dasein — Heidegger, Being and Time
+- Thrownness (Geworfenheit) — Heidegger, Being and Time
+- Facticity — Sartre, Being and Nothingness
+- Care (Sorge) — Heidegger, Being and Time
+- Being-toward — Heidegger, Being and Time
+- Ready-to-hand (Zuhanden) — Heidegger, Being and Time
+- Present-at-hand (Vorhanden) — Heidegger, Being and Time
+- Dasein's spatiality — Heidegger, Being and Time
+- Spatiality of the lived body — Merleau-Ponty, Phenomenology of Perception
+- Being-with (Mitsein) — Heidegger, Being and Time
+- Intersubjectivity — Husserl, Cartesian Meditations; Merleau-Ponty, Phenomenology of Perception
+- The they (das Man) — Heidegger, Being and Time
+- Conformity and bad faith — Sartre, Being and Nothingness
+- Idle talk (Gerede) — Heidegger, Being and Time
+- Authentic discourse — Heidegger, Being and Time, §34
+- Curiosity (Neugier) — Heidegger, Being and Time
+- Dwelling — Heidegger, "Building Dwelling Thinking"
+- Dwelling (wohnen) — Heidegger, "Building Dwelling Thinking"
+- Being-at-home — Heidegger, Being and Time; Bachelard, The Poetics of Space
+- Radical freedom — Sartre, Being and Nothingness
+- Freedom as responsibility — Sartre, Existentialism Is a Humanism
+- Facticity and transcendence — Sartre, Being and Nothingness; de Beauvoir, The Ethics of Ambiguity
+- Situated freedom — Merleau-Ponty, Phenomenology of Perception
+- Bad faith (mauvaise foi) — Sartre, Being and Nothingness
+- Self-deception — Sartre, Being and Nothingness
+- Authenticity (Eigentlichkeit) — Heidegger, Being and Time
+- Authentic existence — Sartre, Being and Nothingness; Kierkegaard, Concluding Unscientific Postscript
+- The gaze (le regard) — Sartre, Being and Nothingness
+- The face of the Other — Levinas, Totality and Infinity
+- Shame as ontological — Sartre, Being and Nothingness
+- Being-for-others — Sartre, Being and Nothingness
+- The situation — Sartre, Being and Nothingness; de Beauvoir, The Ethics of Ambiguity
+- Situated freedom — Merleau-Ponty, Phenomenology of Perception
+- Project (projet) — Sartre, Being and Nothingness
+- Projection (Entwurf) — Heidegger, Being and Time
+- Choice of self — Sartre, Being and Nothingness
+- Self-making — Nietzsche, Thus Spoke Zarathustra
+- The originary choice — Sartre, Being and Nothingness
+- Fundamental stance — Jaspers, Psychology of Worldviews
+- Anguish (angoisse) — Sartre, Being and Nothingness
+- Anxiety (Angst) — Heidegger, Being and Time, §40
+- Commitment without certainty — Sartre, Existentialism Is a Humanism; de Beauvoir, The Ethics of Ambiguity
+- The leap of faith — Kierkegaard, Fear and Trembling
+- Being-toward-death (Sein-zum-Tode) — Heidegger, Being and Time
+- Finitude — Heidegger, Kant and the Problem of Metaphysics
+- Anxiety (Angst) — Heidegger, Being and Time; Kierkegaard, The Concept of Anxiety
+- The uncanny (das Unheimliche) — Heidegger, Being and Time
+- Conscience (Gewissen) — Heidegger, Being and Time
+- The call of conscience — Heidegger, Being and Time
+- Resoluteness (Entschlossenheit) — Heidegger, Being and Time
+- Decision — Jaspers, Philosophy, vol. 2
+- Historicity (Geschichtlichkeit) — Heidegger, Being and Time
+- Tradition and its critique — Gadamer, Truth and Method
+- The dizziness of freedom — Kierkegaard, The Concept of Anxiety
+- Angst — Heidegger, Being and Time, §40
+- Despair — Kierkegaard, The Sickness unto Death
+- The self that is not itself — Kierkegaard, The Sickness unto Death
+- The aesthetic — Kierkegaard, Either/Or
+- The ethical — Kierkegaard, Either/Or; Fear and Trembling
+- Repetition (Gjentagelse) — Kierkegaard, Repetition
+- Retrieval (Wiederholung) — Heidegger, Being and Time
+- The leap of faith — Kierkegaard, Fear and Trembling
+- Commitment without guarantees — Sartre, Existentialism Is a Humanism
+- The self as relation — Kierkegaard, The Sickness unto Death
+- Finitude as condition — Heidegger, Being and Time
+- Finitude and meaning — Jaspers, Philosophy
+- The absurd — Camus, The Myth of Sisyphus
+- The absurd condition — Camus, The Rebel
+- Revolt — Camus, The Myth of Sisyphus; The Rebel
+- Defiance — Camus, The Rebel
+- Sisyphus — Camus, The Myth of Sisyphus
+- The absurd hero — Camus, The Myth of Sisyphus
+- Measure (mesure) — Camus, The Rebel
+- The mean — Aristotle, Nicomachean Ethics II.6; Confucius, The Doctrine of the Mean
+- Solidarity — Camus, The Rebel
+- Sorge — Heidegger, Being and Time
+- Self-transcendence — Frankl, The Will to Meaning
+- The search for meaning — Frankl, Man's Search for Meaning
+- Tragic optimism — Frankl, Man's Search for Meaning; Wong, "Self-Transcendence"
+- Hope in tragedy — Camus, The Myth of Sisyphus; Marcel, The Mystery of Being
+- Creative values — Frankl, Man's Search for Meaning
+- Ergon — Aristotle, Nicomachean Ethics I.7
+- Experiential values — Frankl, Man's Search for Meaning
+- I-Thou — Buber, I and Thou
+- Attitudinal values — Frankl, Man's Search for Meaning
+- Amor fati — Nietzsche, The Gay Science §276
+- Noogenic neurosis — Frankl, The Will to Meaning
+- The frustration of the will to meaning — Frankl, The Unheard Cry for Meaning
+- The will to meaning — Frankl, The Will to Meaning
+- The search for meaning — Frankl, Man's Search for Meaning
+- The look (le regard) — Sartre, Being and Nothingness
+- The face of the Other — Levinas, Totality and Infinity
+- Being-for-others — Sartre, Being and Nothingness
+- The looking-glass self — Cooley, Human Nature and the Social Order
+- The body-for-others — Sartre, Being and Nothingness
+- The second sex — de Beauvoir, The Second Sex
+- The ethics of ambiguity — de Beauvoir, The Ethics of Ambiguity
+- Ambiguity — Merleau-Ponty, Phenomenology of Perception
+- Seriousness (le sérieux) — de Beauvoir, The Ethics of Ambiguity
+- Bad faith — Sartre, Being and Nothingness
+- Nihilism — de Beauvoir, The Ethics of Ambiguity; Nietzsche, Thus Spoke Zarathustra
+- Passive nihilism — Nietzsche, The Will to Power
+- The adventurer — de Beauvoir, The Ethics of Ambiguity
+- Freedom without content — Sartre, Being and Nothingness
+- The passionate man — de Beauvoir, The Ethics of Ambiguity
+- Obsessive attachment — Plato, Symposium; Augustine, Confessions
+- The free man — de Beauvoir, The Ethics of Ambiguity
+- Authentic existence — Heidegger, Being and Time; Sartre, Being and Nothingness
+- The interdependence of freedoms — de Beauvoir, The Ethics of Ambiguity
+- Recognition — Hegel, Phenomenology of Spirit; Honneth, The Struggle for Recognition
+- The liberation of others — de Beauvoir, The Ethics of Ambiguity
+- Solidarity — Camus, The Rebel; Rorty, Contingency, Irony, and Solidarity
+- Situated embodiment — de Beauvoir, The Second Sex
+- The lived body and social position — Merleau-Ponty, Phenomenology of Perception; Fanon, Black Skin, White Masks
+- The hermeneutic circle — Gadamer, Truth and Method; Heidegger, Being and Time
+- Interpretive understanding — Ricoeur, Interpretation Theory
+- Fusion of horizons — Gadamer, Truth and Method
+- Openness to the other — Levinas, Totality and Infinity
+- Prejudice (Vorurteil) — Gadamer, Truth and Method
+- Pre-understanding — Heidegger, Being and Time, §32
+- Historical consciousness — Gadamer, Truth and Method
+- Historicity — Heidegger, Being and Time
+- Narrative identity — Ricoeur, Oneself as Another
+- The narrative self — MacIntyre, After Virtue; Taylor, Sources of the Self
+- Emplotment (mise en intrigue) — Ricoeur, Time and Narrative
+- Narrative configuration — Ricoeur, Oneself as Another
+- The promise — Ricoeur, Oneself as Another
+- Fidelity — Marcel, Being and Having
+- Idem and ipse — Ricoeur, Oneself as Another
+- Sameness and selfhood — Ricoeur, Oneself as Another
+- Narrative repair — Lindemann Nelson, Damaged Identities, Narrative Repair
+- Reconfiguration of narrative — Ricoeur, Time and Narrative
+- Critical distance — Ricoeur, "The Task of Hermeneutics"
+- The hermeneutics of suspicion — Ricoeur, Freud and Philosophy
+- The hermeneutics of faith — Ricoeur, Freud and Philosophy
+- Trust — Luhmann, Trust and Power; Buber, I and Thou
+- Limit situations (Grenzsituationen) — Jaspers, Psychology of Worldviews; Philosophy
+- Boundary situations — Jaspers, Philosophy
+- Shipwreck (Scheitern) — Jaspers, Philosophy
+- Breakdown as breakthrough — Jaspers, Philosophy; Heidegger, Being and Time
+- Existential communication — Jaspers, Philosophy
+- I-Thou — Buber, I and Thou
+- The encompassing (das Umgreifende) — Jaspers, Philosophy
+- Transcendence — Jaspers, Philosophy
+- Existenz — Jaspers, Philosophy
+- Authentic existence — Heidegger, Being and Time; Kierkegaard, Concluding Unscientific Postscript
+- The Axial Age — Jaspers, The Origin and Goal of History
+- The transformation of consciousness — Jaspers, Philosophy
+- Transcendence — Jaspers, Philosophy
+- Mystery — Marcel, The Mystery of Being
+- Ciphers of transcendence — Jaspers, Philosophy
+- The sacred — Otto, The Idea of the Holy; Marcel, The Mystery of Being
+- The question of being (Seinsfrage) — Heidegger, Being and Time; Introduction to Metaphysics
+- The mystery of being — Jaspers, Philosophy; Marcel, The Mystery of Being
+- The ontological difference — Heidegger, Being and Time; Introduction to Metaphysics
+- Being and beings — Heidegger, Contributions to Philosophy
+- The enframing (Gestell) — Heidegger, "The Question Concerning Technology"
+- Instrumental reason — Horkheimer and Adorno, Dialectic of Enlightenment; Habermas, Theory of Communicative Action
+- Gelassenheit (releasement) — Heidegger, Discourse on Thinking
+- Letting-be — Heidegger, "The Question Concerning Technology"
+- Self-overcoming — Nietzsche, Thus Spoke Zarathustra
+- Will to power — Nietzsche, Beyond Good and Evil
+- The eternal recurrence — Nietzsche, The Gay Science; Thus Spoke Zarathustra
+- Amor fati — Nietzsche, The Gay Science §276
+- Amor fati — Nietzsche, The Gay Science
+- Affirmation — Nietzsche, Thus Spoke Zarathustra; Deleuze, Nietzsche and Philosophy
+- The revaluation of values — Nietzsche, On the Genealogy of Morals; Beyond Good and Evil
+- Genealogy — Nietzsche, On the Genealogy of Morals
+- Value creation — Nietzsche, The Gay Science; Thus Spoke Zarathustra
+- Self-legislation — Kant, Groundwork of the Metaphysics of Morals; Nietzsche, Beyond Good and Evil
+- The will to power — Nietzsche, Thus Spoke Zarathustra; Beyond Good and Evil
+- Eros — Plato, Symposium
+- The overman (Übermensch) — Nietzsche, Thus Spoke Zarathustra
+- Self-transcendence — Frankl, The Will to Meaning; Whitehead, Process and Reality
+- Life affirmation (Bejahung) — Nietzsche, The Gay Science; Twilight of the Idols
+- Amor fati — Nietzsche, The Gay Science §276
+
+---

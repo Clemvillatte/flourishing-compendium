@@ -1,0 +1,23 @@
+---
+schema: 0
+id: "Conformity"
+type: "concept"
+title: "Conformity"
+file: "Conformity"
+navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-C"], "alternatePaths": []}
+legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
+---
+majority pressure sways judgments even against perception (Asch, 1951).
+
+- Sartre, Being and Nothingness
+## Sources
+
+- Asch, 1951
+
+- Cialdini and Trost, 1998
+
+## Cited in psychology parallels
+
+- [[D109 — Be willing to differ from the crowd]]
+- [[E027 — Practise the they (das Man)]]
+## Cited in philosophy parallels

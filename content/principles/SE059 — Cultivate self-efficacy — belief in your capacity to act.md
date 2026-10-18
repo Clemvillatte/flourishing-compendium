@@ -1,0 +1,34 @@
+---
+schema: 0
+id: "SE059"
+type: "principle"
+title: "Cultivate self-efficacy: belief in your capacity to act"
+file: "SE059 — Cultivate self-efficacy — belief in your capacity to act"
+tags: ["self-and-identity", "topic/mind", "topic/identity", "topic/learning"]
+discipline: "Self and Identity"
+number: "59"
+navigation: {"track": "philosophy", "primaryPath": ["NAV-PHILOSOPHY", "NAV-PHIL-PP"], "alternatePaths": []}
+legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "chapter": "SE-S06 — LAYER VI — SELF-EXPANSION AND GROWTH", "parent": ""}
+---
+> **Principle 59** — Cultivate self-efficacy: belief in your capacity to act
+
+Self-efficacy — the belief that you can execute the actions needed to achieve goals — is a strong predictor of effort, persistence, and achievement. It is distinct from self-esteem (it is domain-specific) and is built through experience.
+
+**Plain words** Self-efficacy is the belief that your actions matter — that if you do the thing, the thing has a chance of working. It's not confidence, not self-esteem, not positivity. It's narrower and more useful: "I can execute this." And unlike confidence, it's built, not born.
+
+*For example:* Two equally talented people face the same hard project. The one who says "I've handled worse" starts on Monday. The one who says "I'm probably not the right person" starts never. Same skills. The belief is the difference between them.
+## Psychology parallels
+
+- **[[Self-efficacy|Self-efficacy theory (Bandura)]]**, belief in one's capacity to organise and execute actions (Bandura, 1977, 1997)
+- **Four sources of self-efficacy: mastery experiences, vicarious experience, social persuasion, physiological state** (Bandura, 1997)
+- **Self-efficacy predicts effort, persistence, and achievement**, higher self-efficacy is associated with better outcomes across domains (Bandura, 1997; Stajkovic & Luthans, 1998)
+
+## Philosophy parallels
+
+- **[[Will to power|The will to power as capacity]]** (Nietzsche, Beyond Good and Evil)
+- **[[The unity of the virtues|Virtue as built capacity]]** (Aristotle, Nicomachean Ethics II)
+- **[[Right effort|Right effort]]** (Buddhism, Eightfold Path)
+
+## Practice
+
+- Build self-efficacy through mastery experiences: set achievable goals, accomplish them, and build the evidence. Also use vicarious experience (see others like you succeed) and manage physiological state (interpret arousal as readiness).

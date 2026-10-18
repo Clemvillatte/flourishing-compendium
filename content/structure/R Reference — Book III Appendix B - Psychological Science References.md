@@ -1,0 +1,135 @@
+---
+schema: 0
+id: "R Reference — Book III Appendix B - Psychological Science References"
+type: "reference"
+title: "Book III Appendix B - Psychological Science References"
+file: "R Reference — Book III Appendix B - Psychological Science References"
+tags: ["relational-philosophies"]
+navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-GUID"], "alternatePaths": []}
+legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relational Philosophies", "chapter": "Appendices & Reference — R — Relational Philosophies", "parent": ""}
+---
+- Interdependent self-construal — Markus and Kitayama, 1991
+- Relational self — Sedikides et al., 2011
+- Social validation — Pratt, 2002
+- Recognition — Honneth, 1995
+- Prosocial behaviour and well-being — Dunn, Aknin, and Norton, 2014
+- Forgiveness and health — Worthington et al., 2007
+- Participatory decision-making — Bandura, 2001
+- Intergenerational narrative and identity — Fivush et al., 2011
+- Collective efficacy — Bandura, 2001
+- Wisdom and aging — Baltes and Staudinger, 2000
+- Nature connectedness and well-being — Mayer and Frantz, 2004
+- Cultural identity and well-being — Phinney, 1992
+- Social integration and health — Holt-Lunstad et al., 2010
+- Family systems theory — Bowen, 1978
+- Spirituality and well-being — Koenig, 2012
+- Biopsychosocial model — Engel, 1977
+- Holistic well-being — Ryff, 1989
+- Historical trauma — Brave Heart and DeBruyn, 1998
+- Post-traumatic growth — Tedeschi and Calhoun, 2004
+- Self-determination theory — Deci and Ryan, 2000
+- Psychological safety — Edmondson, 1999
+- Meaning-making and narrative identity — McAdams, 2008
+- Resilience and cultural identity — Ungar, 2008
+- Relatedness — Deci and Ryan, 2000
+- Environmental stewardship and well-being — Mayer and Frantz, 2004
+- Servant leadership — Greenleaf, 1977
+- Collective efficacy — Bandura, 2001
+- Self-dignity and self-worth — Honneth, 1995
+- Awe and the sacred — Keltner and Haidt, 2003
+- Reciprocity — Gouldner, 1960
+- Moral identity — Blasi, 1984
+- Authenticity — Kernis and Goldman, 2006
+- Compassionate love — Underwood, 2008
+- Holistic well-being — Ryff, 1989
+- Intergroup contact — Pettigrew, 1998
+- Vitality — Ryan and Frederick, 1997
+- Family systems therapy — Minuchin, 1974
+- Compassion and altruism — Goetz et al., 2010
+- Justice sensitivity — Schmitt et al., 2005
+- Ritual and well-being — Hobson et al., 2018
+- Wisdom — Baltes and Staudinger, 2000
+- Trust and relationship satisfaction — Rempel et al., 2001
+- Moral foundations theory — Haidt, 2012
+- Moral emotions — Tangney et al., 2007
+- Self-determined personality growth — Deci and Ryan, 2000
+- Personality change through volitional goal pursuit — Hudson and Fraley, 2015
+- The middle way and well-being — Denissen et al., 2018
+- Diversity and group performance — Page, 2007
+- Emotion regulation and cognitive clarity — Gross, 2015
+- Mindfulness — Kabat-Zinn, 1990
+- Perspective-taking — Galinsky et al., 2008
+- Empathic concern — Batson, 2011
+- Caregiving and well-being — Brown et al., 2003
+- Prosocial motivation — Grant, 2008
+- Empathic accuracy — Ickes, 1993
+- Empathy-altruism hypothesis — Batson, 2011
+- Mindful attention — Kabat-Zinn, 1990
+- Responsibility and agency — Bandura, 2001
+- Competence and self-efficacy — Bandura, 1977
+- Responsive parenting — Bernstein et al., 2014
+- Attachment and dependency — Mikulincer et al., 2005
+- Social determinants of health — Marmot, 2005
+- Self-compassion — Neff, 2003
+- Self-care and burnout prevention — Maslach and Leiter, 2016
+- Relatedness and autonomy — Deci and Ryan, 2000
+- Interdependent self-construal — Markus and Kitayama, 1991
+- Moral emotions — Tangney et al., 2007
+- Compassion for distant others — Batson, 2011
+- Nature connectedness and well-being — Mayer and Frantz, 2004
+- Relational self — Gergen, 2009
+- Mindful presence — Kabat-Zinn, 1990
+- Therapeutic presence — Geller and Greenberg, 2012
+- Commitment and relationship stability — Rusbult et al., 2001
+- Hope theory — Snyder, 2002
+- Meaning-making — McAdams, 2008
+- Existential meaning — Steger, 2009
+- Embodied cognition — Wilson, 2002
+- Engagement and flow — Csikszentmihalyi, 1990
+- Behavioural activation — Dimidjian et al., 2011
+- Shared reality theory — Hardin and Higgins, 1996
+- Active listening — Rogers, 1961
+- Therapeutic empathy — Elliott et al., 2011
+- Moral foundations — Haidt, 2012
+- Altruism — Batson, 2011
+- Theory of mind and its limits — Apperly, 2011
+- Justice reasoning — Kohlberg, 1981
+- Moral obligation and empathy — Batson, 2011
+- Instrumental vs. communal relationships — Clark and Mills, 1993
+- Social validation — Pratt, 2002
+- Acknowledgment and well-being — Verduyn et al., 2019
+- Self-determination theory — Deci and Ryan, 2000
+- Interdependent self-construal — Markus and Kitayama, 1991
+- Social identity theory — Tajfel and Turner, 1986
+- Cultural psychology — Markus and Kitayama, 1991
+- Self-esteem and social validation — Leary, 1999
+- Narrative identity — McAdams, 2008
+- Life story model — McAdams, 1993
+- Locus of control — Rotter, 1966
+- Prosocial motivation and collective well-being — Grant, 2008
+- Civic participation and well-being — Flavin and Keane, 2012
+- Relative deprivation and health — Marmot, 2005
+- Social justice and well-being — Wilkinson and Pickett, 2009
+- Self-determination theory — Deci and Ryan, 2000
+- Cultural identity and well-being — Phinney, 1992
+- Future time perspective — Zimbardo and Boyd, 1999
+- Collective action and well-being — Foster-Bey, 2008
+- Moral responsibility and collective action — Bandura, 2001
+- Digital well-being — Halfmann and Rieger, 2019
+- Nature connectedness and well-being — Mayer and Frantz, 2004
+- Ecological identity — Thomashow, 1995
+- Environmental justice and health — Brulle and Pellow, 2006
+- Future time perspective — Zimbardo and Boyd, 1999
+- Biophilia and well-being — Kahn, 1999
+- Mindfulness and pro-environmental behaviour — Amel et al., 2009
+- Ecological grief and climate anxiety — Cunsolo and Ellis, 2018
+- Hope theory — Snyder, 2002
+- Tragic optimism — Lebowitz et al., 2022
+- Environmental citizenship — Clayton and Opotow, 2003
+- Humility and intellectual humility — Leary et al., 2017
+- Gratitude and well-being — Emmons and McCullough, 2003
+- Spirituality and well-being — Koenig, 2012
+- Awe and nature — Piff et al., 2015
+- Nature connectedness and self-expansion — Mayer and Frantz, 2004
+
+---

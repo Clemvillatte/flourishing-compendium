@@ -1,0 +1,177 @@
+---
+schema: 0
+id: "E Reference — Book IV Appendix B - Psychological Science References"
+type: "reference"
+title: "Book IV Appendix B - Psychological Science References"
+file: "E Reference — Book IV Appendix B - Psychological Science References"
+tags: ["existentialism-and-phenomenology"]
+navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-GUID"], "alternatePaths": []}
+legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existentialism and Phenomenology", "chapter": "Appendices & Reference — E — Existentialism and Phenomenology", "parent": ""}
+---
+- Metacognitive awareness — Flavell, 1979
+- Mindfulness — Kabat-Zinn, 1990
+- Attention as selection — Posner and Petersen, 1990
+- Goal-directed attention — Corbetta and Shulman, 2002
+- Dual-process theory — Stanovich and West, 2000
+- System 1 and System 2 — Kahneman, 2011
+- Lived experience and phenomenological psychology — Giorgi, 2009
+- Predictive processing — Clark, 2013
+- Context effects in perception — Bar, 2004
+- Cognitive defusion — Hayes et al., 2006
+- Decentering — Bernstein et al., 2015
+- Categorical perception — Harnad, 1987
+- Mental time travel — Suddendorf and Corballis, 1997
+- Prospective memory — McDaniel and Einstein, 2007
+- Theory of mind — Premack and Woodruff, 1978
+- Shared reality — Hardin and Higgins, 1996
+- Constructivist approach to meaning — Kelly, 1955
+- Meaning-making — McAdams, 2008
+- Phenomenological psychology — Giorgi, 2009
+- Mindfulness as ongoing practice — Kabat-Zinn, 1990
+- Embodied cognition — Wilson, 2002
+- Body schema — Gallagher, 2005
+- Habits and automaticity — Wood and Neal, 2007
+- Body memory — Koch et al., 2013
+- Motor theories of perception — Liberman et al., 1967
+- Affordances — Gibson, 1979
+- Embodied self — Gallagher, 2005
+- Embodied cognition and perception — Wilson, 2002
+- Intermodal perception — Spelke, 1979
+- Body representation — Gallagher, 2005
+- Embedded cognition — Robbins and Aydede, 2009
+- Embodied cognition as foundational — Varela et al., 1991
+- Environmental psychology — Proshansky et al., 1970
+- Locus of control — Rotter, 1966
+- Acceptance — Hayes et al., 2006
+- Self-determination theory — Deci and Ryan, 2000
+- Goal pursuit and well-being — Brunstein et al., 1998
+- Flow and absorption — Csikszentmihalyi, 1990
+- Place attachment — Scannell and Gifford, 2010
+- Rootedness — Fullilove, 2004
+- Social embeddedness — Baumeister and Leary, 1995
+- Conformity — Asch, 1951
+- Social norms and behaviour — Cialdini et al., 1990
+- Mindless speech and automaticity — Langer, 1989
+- Information-seeking vs. depth — Kashdan et al., 2009
+- Mind wandering — Killingsworth and Gilbert, 2010
+- Locus of control — Rotter, 1966
+- Social anxiety — Schlenker and Leary, 1982
+- Self-conscious emotions — Tracy et al., 2007
+- Shame and self-consciousness — Tangney and Dearing, 2002
+- Psychological flexibility — Hayes et al., 2006
+- Goal pursuit and well-being — Brunstein et al., 1998
+- Meaning in life — Steger, 2009
+- Self-determined personality change — Hudson and Fraley, 2015
+- Core beliefs and schemas — Beck, 1976
+- Existential anxiety — Yalom, 1980
+- Tolerance of uncertainty — Carleton, 2012
+- Terror management theory — Greenberg et al., 1986
+- Death reflection — Cozzolino et al., 2004
+- Existential anxiety — Yalom, 1980
+- The uncanny — Freud, 1919
+- Conscience and moral self — Blasi, 1984
+- Moral emotions — Tangney et al., 2007
+- Self-determination — Deci and Ryan, 2000
+- Willpower and decision — Baumeister and Tierney, 2011
+- Autobiographical memory and identity — McAdams, 2008
+- Nostalgia and well-being — Routledge et al., 2008
+- Existential anxiety and meaning — Yalom, 1980
+- Depression and existential despair — Yalom, 1980
+- Self-discrepancy — Higgins, 1987
+- Stage theories of development — Erikson, 1963
+- Nostalgia as resource — Routledge et al., 2008
+- Tolerance of uncertainty — Carleton, 2012
+- Narrative identity — McAdams, 2008
+- Narrative self — McAdams, 2008
+- Mortality salience and meaning — Greenberg et al., 1986
+- Death acceptance — Wong, 2009
+- Existential meaning and meaninglessness — Yalom, 1980
+- Resilience and meaning-making — Tedeschi and Calhoun, 2004
+- Engagement and flow — Csikszentmihalyi, 1990
+- Meaning through struggle — Frankl, 1946
+- Social support and well-being — Cohen and Wills, 1985
+- Self-transcendence and well-being — Wong, 2016
+- Tragic optimism — Wong, 2016
+- Resilience and post-traumatic growth — Tedeschi and Calhoun, 2004
+- Flow and creative engagement — Csikszentmihalyi, 1990
+- Work as calling — Dik and Duffy, 2009
+- Love and well-being — Diener and Seligman, 2002
+- Compassionate love — Underwood, 2008
+- Acceptance and psychological flexibility — Hayes et al., 2006
+- Post-traumatic growth — Tedeschi and Calhoun, 2004
+- Existential therapy — Yalom, 1980
+- Meaning-centred therapy — Breitbart et al., 2010
+- Meaning in life and well-being — Steger, 2009
+- Social anxiety — Schlenker and Leary, 1982
+- Reflected self — Cooley, 1902
+- Body image and body consciousness — Cash and Pruzinsky, 2002
+- Integrative complexity — Tetlock, 1983
+- Dialectical thinking — Peng and Nisbett, 1999
+- Rigid identification and dogmatism — Altemeyer, 2002
+- Nihilism and well-being — Wong, 2016
+- Sensation seeking — Zuckerman, 1994
+- Novelty seeking without commitment — Cloninger, 1986
+- Obsessive passion — Vallerand et al., 2003
+- Addictive patterns — Griffiths, 2005
+- Psychological flexibility — Hayes et al., 2006
+- Self-determination — Deci and Ryan, 2000
+- Relational autonomy — Nedelsky, 1989
+- Prosocial motivation and well-being — Grant, 2008
+- Social construction of gender — Bem, 1993
+- Embodied social identity — Fanon, 1952
+- Cognitive schemas — Piaget, 1952
+- Perspective-taking — Galinsky et al., 2008
+- Intergroup contact and empathy — Pettigrew, 1998
+- Cognitive biases — Kahneman, 2011
+- Autobiographical memory and identity — McAdams, 2008
+- Narrative identity — McAdams, 2008
+- Life story model — McAdams, 1993
+- Meaning-making through narrative — Pennebaker et al., 1997
+- Commitment and relationship stability — Rusbult et al., 2001
+- Self-continuity and identity — Chandler et al., 2003
+- Narrative identity — McAdams, 2008
+- Narrative therapy — White and Epston, 1990
+- Post-traumatic growth and narrative — Neimeyer, 2001
+- Metacognition and self-reflection — Flavell, 1979
+- Implicit attitudes — Greenwald and Banaji, 1995
+- Unconscious processes — Kihlstrom, 1987
+- Trust and well-being — Mikulincer, 1998
+- Existential confrontation — Yalom, 1980
+- Post-traumatic growth — Tedeschi and Calhoun, 2004
+- Crisis and transformation — Caplan, 1964
+- Genuine dialogue and therapy — Rogers, 1961
+- The unconscious and the self — Jung, 1959
+- Authenticity — Kernis and Goldman, 2006
+- Cultural evolution and consciousness — Donald, 1991
+- Self-transcendence — Reed, 2008
+- Awe and the sacred — Keltner and Haidt, 2003
+- Spirituality and well-being — Koenig, 2012
+- Existential questioning and meaning — Yalom, 1980
+- Levels of analysis — Marr, 1982
+- Technology and well-being — Halfmann and Rieger, 2019
+- Acceptance and letting go — Hayes et al., 2006
+- Self-determined personality growth — Deci and Ryan, 2000
+- Self-actualisation — Maslow, 1968
+- Post-traumatic growth — Tedeschi and Calhoun, 2004
+- Life affirmation — Wong, 2016
+- Values-based living — Hayes et al., 2006
+- Acceptance and psychological flexibility — Hayes et al., 2006
+- Values clarification — Hayes et al., 2006
+- Value-based living — Wilson et al., 2010
+- Values clarification and self-determination — Deci and Ryan, 2000
+- Competence motivation — White, 1959
+- Mastery orientation — Ames, 1992
+- Self-efficacy — Bandura, 1977
+- Self-actualisation — Maslow, 1968
+- Post-conventional development — Kohlberg, 1981
+- Values clarification — Hayes et al., 2006
+- Value-based living — Wilson et al., 2010
+- Values clarification and self-determination — Deci and Ryan, 2000
+- Competence motivation — White, 1959
+- Mastery orientation — Ames, 1992
+- Self-efficacy — Bandura, 1977
+- Self-actualisation — Maslow, 1968
+- Post-conventional development — Kohlberg, 1981
+- Life satisfaction and subjective well-being — Diener et al., 1985
+
+---
