@@ -48,7 +48,7 @@ Let things, people, and yourself be what they are. Act from your own nature rath
 > "Man takes his law from the Earth; the Earth takes its law from Heaven; Heaven takes its law from the Tao. The law of the Tao is its being what it is."
 > — James Legge, trans., The Tao Teh King (Sacred Books of the East vol. 39, 1891).
 > Locator: Daodejing, ch. 25.
-> Open-access source: https://www.sacred-texts.com/tao/taote.htm
+> Open-access source: https://www.sacred-texts.com/tao/taote.htm[[D086 — Don't sell your nature for glory]]
 
 <!-- fc: reflections
 Which parts of your life are a performance — where you're being what a script demands rather than what you are? What would dropping the script cost you?
