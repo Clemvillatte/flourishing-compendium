@@ -1452,10 +1452,13 @@ function frame() {
     if (t >= 1) camAnim = null;
   }
   if (warmTicks > 0) {
-    // time-sliced: run as many ticks as fit in ~12ms so the tab never jankes,
-    // whatever the machine's speed
+    // time-sliced: run as many ticks as fit in the frame budget so the tab
+    // never janks, whatever the machine's speed. During the arranging phase
+    // nothing is interactive (dimmed nodes, no labels, only a spinner), so a
+    // generous 30ms budget is used — roughly 2.5x faster wall-clock arrange
+    // than the old 12ms cap with the identical final layout.
     const t0 = performance.now();
-    while (warmTicks > 0 && performance.now() - t0 < 12) { step(); warmTicks--; }
+    while (warmTicks > 0 && performance.now() - t0 < 30) { step(); warmTicks--; }
     needsRender = true;
     if (warmTicks === 0) {
       freezeSim();
@@ -2001,8 +2004,8 @@ function bindEvents() {
   brBtn.id = 'graphBridgeToggle';
   const brDot = document.createElement('span'); brDot.className = 'gdot gdot-bridge';
   brBtn.appendChild(brDot);
-  brBtn.appendChild(document.createTextNode('Shared-principle links · inferred'));
-  brBtn.title = 'Faint dashed links between concepts mentioned together in ≥2 principles. Derived from existing parallels — no layout or size impact.';
+  brBtn.appendChild(document.createTextNode('Mentioned-together links · inferred'));
+  brBtn.title = 'Faint dashed links between concepts cited together in at least 2 principles. These are suggestions of relatedness, not authored links.';
   brBtn.addEventListener('click', () => {
     bridgesOn = !bridgesOn;
     brBtn.classList.toggle('on', bridgesOn);
@@ -2011,7 +2014,10 @@ function bindEvents() {
     // kinds visible the toggle visibly does nothing, so say so instead of
     // leaving a dead switch
     if (bridgesOn && !kindOn.concept && !kindOn.theory) {
-      toast('Shared-principle links connect concepts — turn on Concepts or Theories to see them');
+      kindOn.concept = true;
+      const cb = togglesEl.querySelector('[data-kind="concept"]');
+      if (cb) cb.classList.add('on');
+      toast('Concepts turned on — the faint dashed links are the inferred "mentioned together" ones');
     }
     // the spread targets (bridge-partner attraction) depend on bridgesOn
     if (selected) setSpread(selected);

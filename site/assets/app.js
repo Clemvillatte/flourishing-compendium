@@ -629,7 +629,8 @@ function renderEntry(e) {
   if (!isNavNode)
     html += '<button id="copyBtn" title="Copy this entry">Copy ⌘⇧C</button>' +
       '<button id="essayAddBtn" title="Add this entry to your essay outline" aria-pressed="false">+ Add to essay</button>' +
-      '<button id="editToggleBtn" class="edit-toggle" title="Edit this entry’s markdown in your browser">Edit ✏️</button>';
+      '<button id="editToggleBtn" class="edit-toggle" title="Edit this entry’s markdown in your browser">Edit ✏️</button>' +
+      '<button id="readGraphBtn" class="edit-toggle" title="Show this entry and its connections in the Graph">Open in Graph →</button>';
   html += '</div></div>';
   // Notes panel now renders BEFORE the article content (per user feedback #1)
   if (!isNavNode) html += buildDraftPanel(e);
@@ -694,6 +695,10 @@ function renderEntry(e) {
 
 /* Wire up the Edit-content panel per entry. */
 function wireEditPanel(e) {
+  const rgb = readEl.querySelector('#readGraphBtn');
+  if (rgb) rgb.addEventListener('click', () => {
+    if (window.fcGraph && window.fcGraph.focus) window.fcGraph.focus(e.file || e.id);
+  });
   const btn = readEl.querySelector('#editToggleBtn');
   const panel = readEl.querySelector('.edit-panel');
   const saveBtn = readEl.querySelector('#editSaveBtn');

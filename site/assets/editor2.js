@@ -461,7 +461,10 @@
       t = t.e || t;
       insertWikiLink(t);
       statusEl.textContent = 'Connected to ' + (t.title || t.id) + ' — Save to publish';
-      closeConnect();
+      // stay open so several links can be added in a row
+      connQ.value = '';
+      renderConn(suggestConnections(), 'Suggested connections', 'No suggestions yet — write a little more, or type a name to search.');
+      connQ.focus();
     }
     function openConnect() {
       connEl.hidden = false; connEl.style.display = 'flex';
@@ -916,7 +919,8 @@
     ov.innerHTML =
       '<div class="fce-shell narrow" style="width:min(560px,96vw);height:auto">' +
       '<div class="fce-head"><div class="fce-title">Connect ' + escHtml(entry.title) + '</div>' +
-      '<div class="fce-sub">Pick the other entry — the link shows in the graph after the site rebuilds (~1 min)</div></div>' +
+      '<div class="fce-sub">Pick entries one after another — the dialog stays open. Links appear in the graph immediately.</div>' +
+      '<button class="fce-conn-done" type="button" title="Close">Done ✕</button></div>' +
       '<div class="fce-gconn">' +
       '<input class="fce-conn-q" type="text" placeholder="Connect to… type any part of a name (e.g. examined)">' +
       '<div class="fce-conn-list"></div>' +
@@ -952,6 +956,8 @@
         el.addEventListener('mousedown', function (ev) { ev.preventDefault(); choose(+el.dataset.i); });
       });
     }
+    var hintEl = ov.querySelector('.fce-conn-hint');
+    var hintBase = hintEl.textContent;
     function choose(i) {
       var t = conn.items[i];
       if (!t) return;
@@ -960,15 +966,25 @@
       q.disabled = true;
       list.innerHTML = '<div class="fce-conn-empty">Connecting to ' + escHtml(t.title || t.id) + '…</div>';
       commitConnect(entry, t).then(function (r) {
-        ov.remove();
-        if (r && r.already) toast('Already connected to ' + (t.title || t.id));
-        else toast('Connected to ' + (t.title || t.id) + ' — the graph updates after the rebuild (~1 min)');
+        q.disabled = false;
+        if (r && r.already) {
+          toast('Already connected to ' + (t.title || t.id));
+        } else {
+          toast('Connected to ' + (t.title || t.id));
+          hintEl.textContent = '\u2713 Connected to ' + (t.title || t.id) + ' \u00b7 keep going, or press Esc';
+        }
+        // stay open for the next connection: refresh suggestions (the new link
+        // is now in the entry content via the fc:edge live update, so it is excluded)
+        q.value = '';
+        render(computeSuggestions({ title: entry.title, tags: entry.tags, bodyText: entry.content, linkedIds: linkedSet() }), 'Suggested connections');
+        q.focus();
       }).catch(function (err) {
         q.disabled = false;
         list.innerHTML = '<div class="fce-conn-empty">' + escHtml(err.message || 'Connect failed') + '</div>';
         toast(err.message || 'Connect failed', false);
       });
     }
+    ov.querySelector('.fce-conn-done').addEventListener('click', function () { ov.remove(); });
     q.addEventListener('input', function () {
       if (!q.value.trim()) {
         render(computeSuggestions({ title: entry.title, tags: entry.tags, bodyText: entry.content, linkedIds: linkedSet() }), 'Suggested connections');
@@ -1182,6 +1198,8 @@
     '.fce-newsugg{background:#fffdf8;border:1px solid #e4d9c3;border-radius:10px;max-height:220px;overflow:auto;margin-top:4px}' +
     '.fce-gconn{padding:12px 22px 18px}' +
     '.fce-conn-x2{flex:none;padding:2px 8px;border-radius:5px;font-size:12px;color:#9a8a6f;cursor:pointer;user-select:none}' +
+    '.fce-conn-done{position:absolute;top:14px;right:14px;background:none;border:1px solid #d9cbb0;border-radius:8px;color:#5d4b28;font-size:12px;padding:5px 10px;cursor:pointer}' +
+    '.fce-conn-done:hover{background:#f0e7d2}' +
     '.fce-conn-x2:hover{background:#b04938;color:#fff}' +
     '.fce-conn-x2.arm{background:#b04938;color:#fff;font-weight:700}' +
     '.fce-foot{display:flex;align-items:center;gap:10px;padding:14px 20px;border-top:1px solid #e4d9c3}' +
