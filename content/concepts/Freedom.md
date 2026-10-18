@@ -21,6 +21,8 @@ Freedom — the capacity to act from one's own understanding rather than from ex
 
 [[Positive freedom]]
 
+[[Situated freedom]]
+
 ## Sources
 - SEP Theories of Freedom: https://plato.stanford.edu/entries/freedom-variants/
 
