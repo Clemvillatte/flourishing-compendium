@@ -1364,6 +1364,12 @@ body.graph-mode #randView, body.graph-mode #wikiView { display:none; }
   background:transparent; border:none; border-radius:7px; padding:5px 7px; cursor:pointer;
 }
 .gd-conn:hover { background:var(--sel); }
+.gd-conn-x {
+  flex:none; margin-left:2px; padding:1px 6px; border-radius:5px;
+  font-size:11px; line-height:1.5; color:var(--muted); cursor:pointer; user-select:none;
+}
+.gd-conn-x:hover { background:#b04938; color:#fff; }
+.gd-conn-x.arm { background:#b04938; color:#fff; font-weight:700; }
 .gd-conn .gdot { flex:none; }
 .gd-conn-t { flex:1; min-width:0; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
 .gd-conn-d { font-size:10.5px; color:var(--muted); flex:none; }

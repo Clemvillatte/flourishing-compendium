@@ -1615,7 +1615,8 @@ function openDrawer(n) {
     '<button class="gd-conn" type="button" data-id="' + escHtml(m.id) + '">' +
     '<span class="gdot" style="background:' + (c[m.kind] || c.text) + '"></span>' +
     '<span class="gd-conn-t">' + escHtml(m.e.title) + '</span>' +
-    '<span class="gd-conn-d">' + m.deg + '</span></button>').join('') +
+    '<span class="gd-conn-d">' + m.deg + '</span>' +
+    '<span class="gd-conn-x" data-x="' + escHtml(m.id) + '" title="Remove this connection">✕</span></button>').join('') +
     (nbs.length > 12 ? '<div class="gd-more">+ ' + (nbs.length - 12) + ' more connections</div>' : '');
   // inferred "mentioned together" section — concept/theory nodes only.
   // Derived from existing parallels; kept separate from the explicit
@@ -1835,6 +1836,10 @@ function bindEvents() {
     if (selected && window.fcWiki && window.fcWiki.open) window.fcWiki.open(selected.e.file);
   });
   $('gdCenterBtn').addEventListener('click', () => { if (selected && warmTicks === 0) centerOn(selected); });
+  const gdConnBtn = $('gdConnectBtn');
+  if (gdConnBtn) gdConnBtn.addEventListener('click', () => {
+    if (selected && window.fcEditor2 && window.fcEditor2.graphConnect) window.fcEditor2.graphConnect(selected.e);
+  });
   // navigate the graph from inside the drawer: connection rows and [[links]]
   drawer.addEventListener('click', ev => {
     const bp = ev.target.closest('.gd-bridge-p');
@@ -1842,6 +1847,35 @@ function bindEvents() {
       const n = G.nodeById.get(bp.dataset.id);
       if (n && n.visible) select(n);
       else if (n && window.fcWiki && window.fcWiki.open) window.fcWiki.open(n.e.file || n.e.id);
+      return;
+    }
+    const xbtn = ev.target.closest('.gd-conn-x');
+    if (xbtn) {
+      const now = Date.now();
+      if (xbtn.dataset.armed && now - +xbtn.dataset.armed < 3000) {
+        const other = G.nodeById.get(xbtn.dataset.x);
+        if (selected && other && window.fcEditor2 && window.fcEditor2.graphDisconnect) {
+          window.fcEditor2.graphDisconnect(selected.e, other.e, function (ok) {
+            if (ok) {
+              const row = xbtn.closest('.gd-conn');
+              if (row) row.remove();
+              selected.deg = Math.max(0, selected.deg - 1);
+              gd.deg.textContent = selected.deg + (selected.deg === 1 ? ' connection' : ' connections');
+            }
+          });
+        }
+      } else if (window.fcEditor2 && window.fcEditor2.configured && !window.fcEditor2.configured()) {
+        if (window.fcEditor2.welcome) window.fcEditor2.welcome();
+      } else {
+        xbtn.dataset.armed = String(now);
+        xbtn.classList.add('arm');
+        xbtn.textContent = '✓?';
+        setTimeout(function () {
+          xbtn.classList.remove('arm');
+          delete xbtn.dataset.armed;
+          xbtn.textContent = '✕';
+        }, 3000);
+      }
       return;
     }
     const conn = ev.target.closest('.gd-conn');

@@ -155,6 +155,76 @@
     return out;
   }
 
+  /* ---------- shared suggestion engine (editor + add wizard) ---------- */
+  var STOP = { the: 1, a: 1, an: 1, of: 1, and: 1, or: 1, to: 1, in: 1, on: 1, for: 1, with: 1, as: 1, versus: 1, vs: 1 };
+  function tokensOf(text) {
+    return String(text || '').toLowerCase().split(/[^a-z\u00e0-\u00ff0-9-]+/).filter(function (w) { return w.length > 2 && !STOP[w]; });
+  }
+  var __sugCache = { maps: null, n: -1 };
+  function suggestionMaps() {
+    var data = window.wikiData || [];
+    if (!__sugCache.maps || __sugCache.n !== data.length) {
+      var byId = new Map(), byFile = new Map();
+      for (var i = 0; i < data.length; i++) {
+        var e2 = data[i];
+        if (e2.id && !byId.has(e2.id)) byId.set(e2.id, e2);
+        if (e2.file && !byFile.has(e2.file)) byFile.set(e2.file, e2);
+      }
+      __sugCache = { maps: { byId: byId, byFile: byFile }, n: data.length };
+    }
+    return __sugCache.maps;
+  }
+  function incomingLinkers(id, file) { // entries whose content links TO this one (graph edges are undirected)
+    var maps = suggestionMaps();
+    var res = new Set();
+    var data = window.wikiData || [];
+    var re = /\[\[([^|\]]+)(?:\|[^\]]+)?\]\]/g, m;
+    for (var i = 0; i < data.length; i++) {
+      var e2 = data[i];
+      if (!e2.content || e2.content.indexOf('[[') < 0 || e2.id === id) continue;
+      re.lastIndex = 0;
+      while ((m = re.exec(e2.content)) !== null) {
+        var t = (m[1] || '').trim();
+        var tgt = maps.byId.get(t) || maps.byFile.get(t);
+        if (tgt && (tgt.id === id || (file && tgt.file === file))) { res.add(e2.id); break; }
+      }
+    }
+    return res;
+  }
+  function computeSuggestions(opts) {
+    // opts: { title, tags, bodyText, linkedIds:Set } — linkedIds already includes self + outgoing + incoming
+    var maps = suggestionMaps();
+    var linked = opts.linkedIds;
+    var myTags = new Set(opts.tags || []);
+    var myTok = new Set(tokensOf(opts.title + ' ' + String(opts.bodyText || '').slice(0, 6000)));
+    var nn = new Map(); // neighbour-of-neighbour: entries that my current links link to
+    var re = /\[\[([^|\]]+)(?:\|[^\]]+)?\]\]/g, m;
+    while ((m = re.exec(String(opts.bodyText || ''))) !== null) {
+      var src = maps.byId.get((m[1] || '').trim()) || maps.byFile.get((m[1] || '').trim());
+      if (!src || !src.content) continue;
+      var re2 = /\[\[([^|\]]+)(?:\|[^\]]+)?\]\]/g, m2;
+      while ((m2 = re2.exec(src.content)) !== null) {
+        var t2 = (m2[1] || '').trim();
+        var c2 = maps.byId.get(t2) || maps.byFile.get(t2);
+        if (c2 && LINKABLE[c2.type] && !linked.has(c2.id)) nn.set(c2.id, (nn.get(c2.id) || 0) + 1);
+      }
+    }
+    var scored = [];
+    var data = window.wikiData || [];
+    for (var j = 0; j < data.length; j++) {
+      var c = data[j];
+      if (!LINKABLE[c.type] || linked.has(c.id)) continue;
+      var sc = (nn.get(c.id) || 0) * 3;
+      var tags = c.tags || [];
+      for (var k = 0; k < tags.length; k++) if (myTags.has(tags[k])) sc += 2;
+      var ct = tokensOf(c.title);
+      for (var k2 = 0; k2 < ct.length; k2++) if (myTok.has(ct[k2])) sc += 1;
+      if (sc > 0) scored.push([sc, c]);
+    }
+    scored.sort(function (a, b) { return (b[0] - a[0]) || String(a[1].title || a[1].id).localeCompare(String(b[1].title || b[1].id)); });
+    return scored.slice(0, 8).map(function (x) { return x[1]; });
+  }
+
   function buildEditorUI(ov, entry, path, sha, parts) {
     var g = gh();
     ov.innerHTML =
@@ -201,13 +271,6 @@
     var preview = ov.querySelector('.fce-preview');
     var previewInner = ov.querySelector('.fce-preview-inner');
     ta.value = parts.body;
-
-    /* id/file lookup maps for the connect picker */
-    var mapById = new Map(), mapByFile = new Map();
-    (window.wikiData || []).forEach(function (e2) {
-      if (e2.id && !mapById.has(e2.id)) mapById.set(e2.id, e2);
-      if (e2.file && !mapByFile.has(e2.file)) mapByFile.set(e2.file, e2);
-    });
 
     /* draft autosave */
     var draftKey = 'fce-draft:' + entry.id;
@@ -345,52 +408,16 @@
     var connList = ov.querySelector('.fce-conn-list');
     var conn = { items: [], sel: 0 };
 
-    var STOP = { the: 1, a: 1, an: 1, of: 1, and: 1, or: 1, to: 1, in: 1, on: 1, for: 1, with: 1, as: 1, versus: 1, vs: 1 };
-    function tokensOf(text) {
-      return String(text || '').toLowerCase().split(/[^a-z\u00e0-\u00ff0-9-]+/).filter(function (w) { return w.length > 2 && !STOP[w]; });
-    }
-    function linkedIdsNow() {
-      var out = new Set();
+    function suggestConnections() {
+      var linked = new Set([entry.id]);
       var re = /\[\[([^|\]]+)(?:\|[^\]]+)?\]\]/g, m;
       while ((m = re.exec(ta.value)) !== null) {
         var t = (m[1] || '').trim();
-        var e2 = mapById.get(t) || mapByFile.get(t);
-        if (e2) out.add(e2.id);
+        var e2 = suggestionMaps().byId.get(t) || suggestionMaps().byFile.get(t);
+        if (e2) linked.add(e2.id);
       }
-      out.add(entry.id);
-      return out;
-    }
-    function suggestConnections() {
-      var linked = linkedIdsNow();
-      var myTags = new Set(entry.tags || []);
-      var myTok = new Set(tokensOf(entry.title + ' ' + ta.value.slice(0, 6000)));
-      // neighbour-of-neighbour: entries that my current connections link to
-      var nn = new Map();
-      var re = /\[\[([^|\]]+)(?:\|[^\]]+)?\]\]/g, m;
-      while ((m = re.exec(ta.value)) !== null) {
-        var src = mapById.get((m[1] || '').trim()) || mapByFile.get((m[1] || '').trim());
-        if (!src || !src.content) continue;
-        var re2 = /\[\[([^|\]]+)(?:\|[^\]]+)?\]\]/g, m2;
-        while ((m2 = re2.exec(src.content)) !== null) {
-          var t2 = (m2[1] || '').trim();
-          var c2 = mapById.get(t2) || mapByFile.get(t2);
-          if (c2 && LINKABLE[c2.type] && !linked.has(c2.id)) nn.set(c2.id, (nn.get(c2.id) || 0) + 1);
-        }
-      }
-      var scored = [];
-      var data = window.wikiData || [];
-      for (var j = 0; j < data.length; j++) {
-        var c = data[j];
-        if (!LINKABLE[c.type] || linked.has(c.id)) continue;
-        var sc = (nn.get(c.id) || 0) * 3;
-        var tags = c.tags || [];
-        for (var k = 0; k < tags.length; k++) if (myTags.has(tags[k])) sc += 2;
-        var ct = tokensOf(c.title);
-        for (var k2 = 0; k2 < ct.length; k2++) if (myTok.has(ct[k2])) sc += 1;
-        if (sc > 0) scored.push([sc, c]);
-      }
-      scored.sort(function (a, b) { return (b[0] - a[0]) || String(a[1].id).localeCompare(String(b[1].id)); });
-      return scored.slice(0, 8).map(function (x) { return x[1]; });
+      incomingLinkers(entry.id, entry.file).forEach(function (x) { linked.add(x); });
+      return computeSuggestions({ title: entry.title, tags: entry.tags, bodyText: ta.value, linkedIds: linked });
     }
     function renderConn(items, heading, emptyMsg) {
       conn.items = items; conn.sel = 0;
@@ -546,6 +573,8 @@
       '<label>Connect to other entries (optional — type a name; links show in the graph)' +
       '<input id="fceNewConn" placeholder="e.g. Examined" autocomplete="off">' +
       '<div class="fce-newconn-list" hidden></div></label>' +
+      '<label>Suggested connections (based on what you typed — click to add)' +
+      '<div class="fce-newsugg" id="fceNewSugg"><div class="fce-conn-empty">Write a title or some content and candidates will appear here.</div></div></label>' +
       '<label>Reflection questions (one per line, optional)' +
       '<textarea id="fceNewRefl" rows="3" placeholder="A question the reader should sit with…"></textarea></label>' +
       '</div>' +
@@ -559,6 +588,45 @@
     var nConn = ov.querySelector('#fceNewConn');
     var nList = ov.querySelector('.fce-newconn-list');
     var nBody = ov.querySelector('#fceNewBody');
+    var nSugg = ov.querySelector('#fceNewSugg');
+    function renderWizSugg() {
+      var title = ov.querySelector('#fceNewTitle').value.trim();
+      var tags = ov.querySelector('#fceNewTags').value.split(',').map(function (x) { return x.trim(); }).filter(Boolean);
+      var linked = new Set();
+      var re = /\[\[([^|\]]+)(?:\|[^\]]+)?\]\]/g, m;
+      while ((m = re.exec(nBody.value)) !== null) {
+        var t = (m[1] || '').trim();
+        var tgt = suggestionMaps().byId.get(t) || suggestionMaps().byFile.get(t);
+        if (tgt) linked.add(tgt.id);
+      }
+      var items = computeSuggestions({ title: title, tags: tags, bodyText: nBody.value, linkedIds: linked });
+      if (!items.length) {
+        nSugg.innerHTML = '<div class="fce-conn-empty">No candidates yet — keep writing, or search by name above.</div>';
+        return;
+      }
+      nSugg.innerHTML = items.map(function (e2, i) {
+        return '<div class="fce-ac-item fce-conn-item" data-i="' + i + '"><span class="fce-ac-t">' + escHtml(e2.title || e2.id) + '</span><span class="fce-ac-k">' + escHtml(e2.type) + '</span></div>';
+      }).join('');
+      nSugg.querySelectorAll('.fce-conn-item').forEach(function (el) {
+        el.addEventListener('mousedown', function (ev) {
+          ev.preventDefault();
+          var e2 = items[+el.dataset.i];
+          if (!e2) return;
+          if (nBody.value && !/\s$/.test(nBody.value)) nBody.value += ' ';
+          nBody.value += '[[' + linkTargetOf(e2) + ']]';
+          renderWizSugg();
+        });
+      });
+    }
+    var wizSuggTimer = null;
+    function scheduleWizSugg() {
+      clearTimeout(wizSuggTimer);
+      wizSuggTimer = setTimeout(renderWizSugg, 300);
+    }
+    ['#fceNewTitle', '#fceNewBody', '#fceNewTags'].forEach(function (sel) {
+      ov.querySelector(sel).addEventListener('input', scheduleWizSugg);
+    });
+    renderWizSugg();
     nConn.addEventListener('input', function () {
       var q = nConn.value.trim();
       if (!q) { nList.hidden = true; nList.innerHTML = ''; return; }
@@ -796,7 +864,10 @@
     open: open,
     openNew: openNew,
     settings: settings,
-    configured: configured
+    configured: configured,
+    welcome: welcome,
+    graphConnect: openConnectStandalone,
+    graphDisconnect: graphDisconnect
   };
 
   /* ---------- one discreet "+ New entry" link in the Library list header ---------- */
@@ -813,11 +884,158 @@
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', mountLibraryButton);
   else mountLibraryButton();
 
+  /* ═══════════════ GRAPH DRAWER: connect / disconnect (no editor needed) ═══════════════ */
+  function openConnectStandalone(entry) {
+    if (!configured()) { welcome(); return; }
+    var g = gh();
+    var ov = modalOverlay();
+    ov.innerHTML =
+      '<div class="fce-shell narrow" style="width:min(560px,96vw);height:auto">' +
+      '<div class="fce-head"><div class="fce-title">Connect ' + escHtml(entry.title) + '</div>' +
+      '<div class="fce-sub">Pick the other entry — the link shows in the graph after the site rebuilds (~1 min)</div></div>' +
+      '<div class="fce-gconn">' +
+      '<input class="fce-conn-q" type="text" placeholder="Connect to… type any part of a name (e.g. examined)">' +
+      '<div class="fce-conn-list"></div>' +
+      '<div class="fce-conn-hint">↑ ↓ to choose · Enter to connect · Esc to close</div>' +
+      '</div></div>';
+    var q = ov.querySelector('.fce-conn-q');
+    var list = ov.querySelector('.fce-conn-list');
+    var conn = { items: [], sel: 0 };
+    function linkedSet() {
+      var linked = new Set([entry.id]);
+      var re = /\[\[([^|\]]+)(?:\|[^\]]+)?\]\]/g, m;
+      while ((m = re.exec(String(entry.content || ''))) !== null) {
+        var e2 = suggestionMaps().byId.get((m[1] || '').trim()) || suggestionMaps().byFile.get((m[1] || '').trim());
+        if (e2) linked.add(e2.id);
+      }
+      incomingLinkers(entry.id, entry.file).forEach(function (x) { linked.add(x); });
+      return linked;
+    }
+    function render(items, heading) {
+      conn.items = items; conn.sel = 0;
+      if (!items.length) {
+        list.innerHTML = '<div class="fce-conn-empty">Nothing matches — try fewer letters.</div>';
+        return;
+      }
+      var h = heading ? '<div class="fce-conn-head">' + escHtml(heading) + '</div>' : '';
+      list.innerHTML = h + items.map(function (e2, idx) {
+        return '<div class="fce-ac-item fce-conn-item' + (idx === 0 ? ' sel' : '') + '" data-i="' + idx + '">' +
+          '<span class="fce-ac-t">' + escHtml(e2.title || e2.id) + '</span>' +
+          '<span class="fce-ac-k">' + escHtml(e2.type) + '</span></div>';
+      }).join('');
+      list.querySelectorAll('.fce-conn-item').forEach(function (el) {
+        el.addEventListener('mousedown', function (ev) { ev.preventDefault(); choose(+el.dataset.i); });
+      });
+    }
+    function choose(i) {
+      var t = conn.items[i];
+      if (!t) return;
+      var lt = linkTargetOf(t);
+      q.disabled = true;
+      list.innerHTML = '<div class="fce-conn-empty">Connecting to ' + escHtml(t.title || t.id) + '…</div>';
+      commitConnect(entry, t).then(function (r) {
+        ov.remove();
+        if (r && r.already) toast('Already connected to ' + (t.title || t.id));
+        else toast('Connected to ' + (t.title || t.id) + ' — the graph updates after the rebuild (~1 min)');
+      }).catch(function (err) {
+        q.disabled = false;
+        list.innerHTML = '<div class="fce-conn-empty">' + escHtml(err.message || 'Connect failed') + '</div>';
+        toast(err.message || 'Connect failed', false);
+      });
+    }
+    q.addEventListener('input', function () {
+      if (!q.value.trim()) {
+        render(computeSuggestions({ title: entry.title, tags: entry.tags, bodyText: entry.content, linkedIds: linkedSet() }), 'Suggested connections');
+        return;
+      }
+      render(searchEntries(q.value, 12, entry.id, true), '');
+    });
+    q.addEventListener('keydown', function (ev) {
+      if (ev.key === 'ArrowDown' || ev.key === 'ArrowUp') {
+        ev.preventDefault();
+        if (!conn.items.length) return;
+        conn.sel = (conn.sel + (ev.key === 'ArrowDown' ? 1 : -1) + conn.items.length) % conn.items.length;
+        list.querySelectorAll('.fce-conn-item').forEach(function (el, i2) { el.classList.toggle('sel', i2 === conn.sel); });
+      } else if (ev.key === 'Enter') {
+        ev.preventDefault(); choose(conn.sel);
+      } else if (ev.key === 'Escape') {
+        ev.preventDefault(); ov.remove();
+      }
+    });
+    render(computeSuggestions({ title: entry.title, tags: entry.tags, bodyText: entry.content, linkedIds: linkedSet() }), 'Suggested connections');
+    document.body.appendChild(ov);
+    q.focus();
+  }
+
+  /* insert a [[link]] into entry's file, before the Sources section when present */
+  function commitConnect(entry, target) {
+    var g = gh();
+    var path = mdPath(entry);
+    return api('GET', '/contents/' + encodeURIComponent(path).replace(/%2F/g, '/') + '?ref=' + g.branch)
+      .then(function (f) {
+        var text = unb64(f.content);
+        var parts = splitMd(text);
+        if (!parts) return Promise.reject(new Error('Could not parse the stored markdown'));
+        var lt = linkTargetOf(target);
+        if (parts.body.indexOf('[[' + lt) >= 0) return { already: true };
+        var body = parts.body;
+        var link = '[[' + lt + ']]';
+        var m = /^(##\s+Sources\b.*)$/m.exec(body);
+        if (m) {
+          body = body.slice(0, m.index).replace(/\s+$/, '') + '\n\n' + link + '\n\n' + body.slice(m.index);
+        } else {
+          if (body && !/\n$/.test(body)) body += '\n';
+          body += '\n' + link;
+        }
+        var newText = parts.fmText + body + (parts.refl !== null ? '\n\n<!-- fc: reflections\n' + parts.refl + '\n-->' : '');
+        return api('PUT', '/contents/' + encodeURIComponent(path).replace(/%2F/g, '/'), {
+          message: 'Connect ' + entry.id + ' ↔ ' + target.id,
+          content: b64(newText),
+          sha: f.sha,
+          branch: g.branch
+        }).then(function () { return { already: false }; });
+      });
+  }
+
+  /* remove every [[link]] between a and b, from whichever file(s) hold them */
+  function graphDisconnect(a, b, cb) {
+    if (!configured()) { welcome(); cb && cb(false); return; }
+    var g = gh();
+    var jobs = [[a, b], [b, a]].map(function (pair) {
+      var src = pair[0], tgt = pair[1];
+      var names = [tgt.file, tgt.id].filter(Boolean);
+      var path = mdPath(src);
+      return api('GET', '/contents/' + encodeURIComponent(path).replace(/%2F/g, '/') + '?ref=' + g.branch)
+        .then(function (f) {
+          var text = unb64(f.content);
+          var newText = text.replace(/\[\[([^|\]]+)(?:\|([^\]]+))?\]\]/g, function (mm, t, alias) {
+            t = String(t || '').trim();
+            if (names.indexOf(t) >= 0) return alias || tgt.title || t;
+            return mm;
+          });
+          if (newText === text) return false;
+          return api('PUT', '/contents/' + encodeURIComponent(path).replace(/%2F/g, '/'), {
+            message: 'Disconnect ' + a.id + ' — ' + b.id,
+            content: b64(newText),
+            sha: f.sha,
+            branch: g.branch
+          }).then(function () { return true; });
+        });
+    });
+    Promise.all(jobs).then(function (res) {
+      if (res.some(Boolean)) { toast('Disconnected — the graph updates after the rebuild (~1 min)'); cb && cb(true); }
+      else { toast('No link found between these entries', false); cb && cb(false); }
+    }).catch(function (err) {
+      toast(err.message || 'Disconnect failed', false);
+      cb && cb(false);
+    });
+  }
+
   /* ---------- styles ---------- */
   var css = '' +
     '.fce-overlay{position:fixed;inset:0;z-index:100000;background:rgba(20,16,10,.55);display:flex;align-items:center;justify-content:center;padding:24px}' +
     '.fce-shell{background:#faf6ee;color:#2b2114;border-radius:14px;box-shadow:0 24px 80px rgba(0,0,0,.45);width:min(1100px,96vw);height:min(86vh,900px);display:flex;flex-direction:column;overflow:hidden}' +
-    '.fce-shell.narrow{width:min(640px,96vw);height:auto}' +
+    '.fce-shell.narrow{width:min(640px,96vw);height:auto;max-height:min(94vh,900px);overflow:auto}' +
     '.fce-head{padding:18px 22px 10px}' +
     '.fce-title{font-family:Georgia,serif;font-size:21px;font-weight:700}' +
     '.fce-title .fce-id{font-size:13px;color:#9a8a6f;font-weight:400;margin-left:8px}' +
@@ -849,6 +1067,8 @@
     '.fce-conn-empty{padding:16px 14px;font-size:13px;color:#9a8a6f}' +
     '.fce-conn-hint{padding:8px 14px;font-size:11.5px;color:#9a8a6f;border-top:1px solid #eee3cc}' +
     '.fce-newconn-list{background:#fff;border:1px solid #cbb98f;border-radius:10px;max-height:220px;overflow:auto;margin-top:4px}' +
+    '.fce-newsugg{background:#fffdf8;border:1px solid #e4d9c3;border-radius:10px;max-height:220px;overflow:auto;margin-top:4px}' +
+    '.fce-gconn{padding:12px 22px 18px}' +
     '.fce-foot{display:flex;align-items:center;gap:10px;padding:14px 20px;border-top:1px solid #e4d9c3}' +
     '.fce-note{flex:1;font-size:12px;color:#8a7a5f}' +
     '.fce-linkbtn{background:none;border:none;color:#8a6d2f;text-decoration:underline;cursor:pointer;font-size:12px;padding:0}' +
