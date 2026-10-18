@@ -309,6 +309,41 @@
     ov.querySelector('[data-act="save"]').addEventListener('click', doSave);
     var sBtn = ov.querySelector('[data-act="settings"]');
     if (sBtn) sBtn.addEventListener('click', settings);
+
+    /* delete (content entries only, two-click confirmation) */
+    if (DELETABLE.indexOf(entry.type) !== -1) {
+      var delBtn = document.createElement('button');
+      delBtn.className = 'fce-del'; delBtn.type = 'button';
+      delBtn.textContent = 'Delete this entry';
+      var foot = ov.querySelector('.fce-foot');
+      foot.insertBefore(delBtn, foot.firstChild);
+      var armed = false, armTimer = null;
+      delBtn.addEventListener('click', function () {
+        if (!armed) {
+          armed = true;
+          delBtn.classList.add('arm');
+          delBtn.textContent = 'Really delete? Click again';
+          armTimer = setTimeout(function () {
+            armed = false;
+            delBtn.classList.remove('arm');
+            delBtn.textContent = 'Delete this entry';
+          }, 6000);
+          return;
+        }
+        clearTimeout(armTimer);
+        delBtn.disabled = true;
+        delBtn.textContent = 'Deleting\u2026';
+        delEntry(entry).then(function (ok) {
+          if (ok) { ov.remove(); }
+          else {
+            armed = false;
+            delBtn.disabled = false;
+            delBtn.classList.remove('arm');
+            delBtn.textContent = 'Delete this entry';
+          }
+        });
+      });
+    }
     ov.querySelector('[data-act="cancel"]').addEventListener('click', function () {
       if (ta.value !== parts.body && !confirm('Close without saving? (a draft is kept in this browser)')) return;
       ov.remove();
@@ -400,6 +435,59 @@
       });
     });
     document.body.appendChild(ov);
+  }
+
+  /* ═══════════════ DELETE ENTRY (atomic: file + order manifest in one commit) ═══════════════ */
+  var DELETABLE = ['principle', 'kernel', 'concept', 'story', 'saying'];
+  function delEntry(entry) {
+    var path = mdPath(entry);
+    var g = gh();
+    var ctx = {};
+    return Promise.resolve()
+      .then(function () { return api('GET', '/git/ref/heads/' + g.branch); })
+      .then(function (ref) {
+        ctx.headSha = ref.object.sha;
+        return api('GET', '/git/commits/' + ctx.headSha);
+      })
+      .then(function (c) {
+        ctx.baseTree = c.tree.sha;
+        return api('GET', '/contents/content/_order.json?ref=' + encodeURIComponent(g.branch));
+      })
+      .then(function (f) {
+        var manifest = JSON.parse(unb64(f.content));
+        ctx.manifest = manifest.filter(function (p) { return p !== path; });
+        var body = '[\n' + ctx.manifest.map(function (p) { return JSON.stringify(p); }).join(',\n') + '\n]';
+        return api('POST', '/git/blobs', { content: b64(body), encoding: 'base64' });
+      })
+      .then(function (b) {
+        ctx.blobSha = b.sha;
+        return api('POST', '/git/trees', {
+          base_tree: ctx.baseTree,
+          tree: [
+            { path: 'content/_order.json', mode: '100644', type: 'blob', sha: ctx.blobSha },
+            { path: path, mode: '100644', type: 'blob', sha: null }
+          ]
+        });
+      })
+      .then(function (t) {
+        ctx.treeSha = t.sha;
+        return api('POST', '/git/commits', {
+          message: 'Delete ' + entry.id + ' \u2014 ' + entry.title,
+          tree: ctx.treeSha,
+          parents: [ctx.headSha]
+        });
+      })
+      .then(function (c) {
+        return api('PATCH', '/git/refs/heads/' + g.branch, { sha: c.sha, force: false });
+      })
+      .then(function () {
+        toast('Deleted \u2014 the site updates itself in about a minute');
+        return true;
+      })
+      .catch(function (err) {
+        toast(err.message || 'Delete failed', false);
+        return false;
+      });
   }
 
   /* ═══════════════ WELCOME (one-time, plain-language setup) ═══════════════ */
@@ -591,6 +679,9 @@
     '.fce-alt a{color:#8a6d2f}' +
     '#fcNewBtn{background:none;border:1px solid #cbb98f;border-radius:8px;color:#8a6d2f;font-size:12px;padding:3px 10px;cursor:pointer;margin-left:10px;vertical-align:1px}' +
     '#fcNewBtn:hover{background:#f3ead4}' +
+    '.fce-del{background:none;border:none;color:#b04938;cursor:pointer;font-size:12.5px;text-decoration:underline;padding:4px 2px}' +
+    '.fce-del.arm{background:#b04938;color:#fff;border-radius:6px;text-decoration:none;padding:6px 10px}' +
+    '.fce-del:disabled{opacity:.5;cursor:default}' +
     '@media (max-width:800px){.fce-main{flex-direction:column}.fce-preview{border-left:0;border-top:1px solid #e4d9c3}}';
   var st = document.createElement('style');
   st.textContent = css;

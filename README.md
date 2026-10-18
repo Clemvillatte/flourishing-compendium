@@ -29,6 +29,9 @@ First-time setup: click **⚙** in the top bar and paste a GitHub token:
 ### 2. On github.com (simplest)
 Click any file under `content/` → the pencil icon → edit → Commit. Markdown only; the site renders it.
 
+## Deleting an entry
+Open the entry → **Edit ✏️** → at the bottom left of the editor there is a small **"Delete this entry"** link. Click it twice (the second click confirms). The entry's file is removed and the site rebuilds itself. Nothing is ever truly lost: GitHub keeps the full history, so a deleted entry can be restored from the repository's commit history if you ever change your mind.
+
 ## Adding a new entry
 Click **+ Add** in the top bar of the site, choose the type (concept, principle, kernel, story, saying), write, create. It becomes a new markdown file and appears after the rebuild.
 
