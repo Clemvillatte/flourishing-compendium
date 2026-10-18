@@ -1617,7 +1617,9 @@ function openDrawer(n) {
     '<span class="gd-conn-t">' + escHtml(m.e.title) + '</span>' +
     '<span class="gd-conn-d">' + m.deg + '</span>' +
     '<span class="gd-conn-x" data-x="' + escHtml(m.id) + '" title="Remove this connection">✕</span></button>').join('') +
-    (nbs.length > 12 ? '<div class="gd-more">+ ' + (nbs.length - 12) + ' more connections</div>' : '');
+    (nbs.length > 12
+      ? '<button class="gd-manage" type="button">Manage all ' + nbs.length + ' connections (add / remove)</button>'
+      : '');
   // inferred "mentioned together" section — concept/theory nodes only.
   // Derived from existing parallels; kept separate from the explicit
   // connections above (no degree, no layout impact).
@@ -1671,6 +1673,44 @@ function centerOn(n) {
   if (phys.belts && n.visible) { setSpread(n); fitToBelts(); }
   wake();
 }
+
+/* Live edge updates: when a connect/disconnect is committed (from the drawer,
+   the standalone dialog or the manage-all list), update the graph model in place
+   so the change is visible immediately — the site rebuild will confirm it. */
+function applyEdgeChange(aId, bId, removed) {
+  if (!G || !adj) return;
+  const na = G.nodeById.get(aId), nb = G.nodeById.get(bId);
+  if (!na || !nb) return;
+  if (removed) {
+    G.edges = G.edges.filter(([x, y]) => !((x === na && y === nb) || (x === nb && y === na)));
+    adj.set(na.id, (adj.get(na.id) || []).filter(n => n !== nb));
+    adj.set(nb.id, (adj.get(nb.id) || []).filter(n => n !== na));
+    na.deg = Math.max(0, na.deg - 1); nb.deg = Math.max(0, nb.deg - 1);
+    const strip = (e, other) => {
+      e.content = String(e.content || '').replace(/\[\[([^|\]]+)(?:\|([^\]]+))?\]\]/g, (mm, t, alias) => {
+        const tt = String(t || '').trim();
+        return (tt === other.e.file || tt === other.e.id) ? (alias || other.e.title || tt) : mm;
+      });
+    };
+    strip(na, nb); strip(nb, na);
+  } else {
+    if (!G.edges.some(([x, y]) => (x === na && y === nb) || (x === nb && y === na))) {
+      G.edges.push([na, nb]);
+      if (!adj.has(na.id)) adj.set(na.id, []);
+      if (!adj.has(nb.id)) adj.set(nb.id, []);
+      adj.get(na.id).push(nb); adj.get(nb.id).push(na);
+      na.deg++; nb.deg++;
+    }
+    na.e.content = (na.e.content || '') + ' [[' + (nb.e.file || nb.e.id) + ']]';
+  }
+  na.r = nodeRadius(na.deg); nb.r = nodeRadius(nb.deg);
+  if (selected && (selected === na || selected === nb)) openDrawer(selected);
+  wake();
+}
+window.addEventListener('fc:edge', ev => {
+  const d = (ev && ev.detail) || {};
+  if (d.a && d.b) applyEdgeChange(d.a, d.b, !!d.removed);
+});
 
 function bindEvents() {
   canvas.addEventListener('mousedown', ev => {
@@ -1849,20 +1889,19 @@ function bindEvents() {
       else if (n && window.fcWiki && window.fcWiki.open) window.fcWiki.open(n.e.file || n.e.id);
       return;
     }
+    const mg = ev.target.closest('.gd-manage');
+    if (mg && selected && window.fcEditor2 && window.fcEditor2.manageConnections) {
+      window.fcEditor2.manageConnections(selected.e, (adj.get(selected.id) || []).map(n => n.id));
+      return;
+    }
     const xbtn = ev.target.closest('.gd-conn-x');
     if (xbtn) {
       const now = Date.now();
       if (xbtn.dataset.armed && now - +xbtn.dataset.armed < 3000) {
+        const src = selected;                       // capture before the async call
         const other = G.nodeById.get(xbtn.dataset.x);
-        if (selected && other && window.fcEditor2 && window.fcEditor2.graphDisconnect) {
-          window.fcEditor2.graphDisconnect(selected.e, other.e, function (ok) {
-            if (ok) {
-              const row = xbtn.closest('.gd-conn');
-              if (row) row.remove();
-              selected.deg = Math.max(0, selected.deg - 1);
-              gd.deg.textContent = selected.deg + (selected.deg === 1 ? ' connection' : ' connections');
-            }
-          });
+        if (src && other && window.fcEditor2 && window.fcEditor2.graphDisconnect) {
+          window.fcEditor2.graphDisconnect(src.e, other.e, function () {});
         }
       } else if (window.fcEditor2 && window.fcEditor2.configured && !window.fcEditor2.configured()) {
         if (window.fcEditor2.welcome) window.fcEditor2.welcome();

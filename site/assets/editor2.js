@@ -156,7 +156,14 @@
   }
 
   /* ---------- shared suggestion engine (editor + add wizard) ---------- */
-  var STOP = { the: 1, a: 1, an: 1, of: 1, and: 1, or: 1, to: 1, in: 1, on: 1, for: 1, with: 1, as: 1, versus: 1, vs: 1 };
+  var STOP = { the: 1, a: 1, an: 1, of: 1, and: 1, or: 1, to: 1, in: 1, on: 1, for: 1, with: 1, as: 1, versus: 1, vs: 1,
+    not: 1, from: 1, do: 1, does: 1, can: 1, will: 1, just: 1, your: 1, you: 1, they: 1, them: 1, their: 1,
+    this: 1, that: 1, these: 1, those: 1, what: 1, when: 1, where: 1, how: 1, own: 1, same: 1, other: 1,
+    into: 1, over: 1, under: 1, again: 1, once: 1, here: 1, there: 1, all: 1, any: 1, both: 1, each: 1,
+    more: 1, most: 1, some: 1, such: 1, than: 1, then: 1, too: 1, very: 1, about: 1, against: 1, between: 1,
+    through: 1, during: 1, before: 1, after: 1, above: 1, below: 1, up: 1, down: 1, out: 1, off: 1, why: 1,
+    who: 1, its: 1, it: 1, is: 1, are: 1, was: 1, were: 1, be: 1, been: 1, being: 1, have: 1, has: 1, had: 1,
+    having: 1, no: 1, nor: 1, but: 1, if: 1, because: 1, until: 1, while: 1 };
   function tokensOf(text) {
     return String(text || '').toLowerCase().split(/[^a-z\u00e0-\u00ff0-9-]+/).filter(function (w) { return w.length > 2 && !STOP[w]; });
   }
@@ -193,11 +200,13 @@
   }
   function computeSuggestions(opts) {
     // opts: { title, tags, bodyText, linkedIds:Set } — linkedIds already includes self + outgoing + incoming
+    // Returns [{e, why}] — heuristic candidates with a human-readable reason.
     var maps = suggestionMaps();
     var linked = opts.linkedIds;
     var myTags = new Set(opts.tags || []);
     var myTok = new Set(tokensOf(opts.title + ' ' + String(opts.bodyText || '').slice(0, 6000)));
     var nn = new Map(); // neighbour-of-neighbour: entries that my current links link to
+    var nnVia = new Map(); // id -> the intermediate link's title (for the reason)
     var re = /\[\[([^|\]]+)(?:\|[^\]]+)?\]\]/g, m;
     while ((m = re.exec(String(opts.bodyText || ''))) !== null) {
       var src = maps.byId.get((m[1] || '').trim()) || maps.byFile.get((m[1] || '').trim());
@@ -206,7 +215,10 @@
       while ((m2 = re2.exec(src.content)) !== null) {
         var t2 = (m2[1] || '').trim();
         var c2 = maps.byId.get(t2) || maps.byFile.get(t2);
-        if (c2 && LINKABLE[c2.type] && !linked.has(c2.id)) nn.set(c2.id, (nn.get(c2.id) || 0) + 1);
+        if (c2 && LINKABLE[c2.type] && !linked.has(c2.id)) {
+          nn.set(c2.id, (nn.get(c2.id) || 0) + 1);
+          if (!nnVia.has(c2.id)) nnVia.set(c2.id, src.title || src.id);
+        }
       }
     }
     var scored = [];
@@ -214,15 +226,22 @@
     for (var j = 0; j < data.length; j++) {
       var c = data[j];
       if (!LINKABLE[c.type] || linked.has(c.id)) continue;
+      var why = null;
       var sc = (nn.get(c.id) || 0) * 3;
+      if (nn.get(c.id)) why = 'via ' + (nnVia.get(c.id) || 'your connections');
       var tags = c.tags || [];
-      for (var k = 0; k < tags.length; k++) if (myTags.has(tags[k])) sc += 2;
-      var ct = tokensOf(c.title);
-      for (var k2 = 0; k2 < ct.length; k2++) if (myTok.has(ct[k2])) sc += 1;
-      if (sc > 0) scored.push([sc, c]);
+      var sharedTags = [];
+      for (var k = 0; k < tags.length; k++) if (myTags.has(tags[k])) { sc += 2; sharedTags.push(tags[k]); }
+      if (!why && sharedTags.length) why = 'shared tag: ' + sharedTags[0];
+      var ct = new Set(tokensOf(c.title)); // dedupe: repeated title words count once
+      var overlap = [];
+      ct.forEach(function (w) { if (myTok.has(w)) overlap.push(w); });
+      sc += overlap.length;
+      if (!why && overlap.length) why = 'similar words: ' + overlap.slice(0, 2).join(', ');
+      if (sc > 0) scored.push([sc, c, why]);
     }
     scored.sort(function (a, b) { return (b[0] - a[0]) || String(a[1].title || a[1].id).localeCompare(String(b[1].title || b[1].id)); });
-    return scored.slice(0, 8).map(function (x) { return x[1]; });
+    return scored.slice(0, 8).map(function (x) { return { e: x[1], why: x[2] }; });
   }
 
   function buildEditorUI(ov, entry, path, sha, parts) {
@@ -426,10 +445,11 @@
         return;
       }
       var h = heading ? '<div class="fce-conn-head">' + escHtml(heading) + '</div>' : '';
-      connList.innerHTML = h + items.map(function (e2, idx) {
+      connList.innerHTML = h + items.map(function (it, idx) {
+        var e2 = it.e || it;
         return '<div class="fce-ac-item fce-conn-item' + (idx === 0 ? ' sel' : '') + '" data-i="' + idx + '">' +
           '<span class="fce-ac-t">' + escHtml(e2.title || e2.id) + '</span>' +
-          '<span class="fce-ac-k">' + escHtml(e2.type) + '</span></div>';
+          '<span class="fce-ac-k">' + escHtml(e2.type) + (it.why ? ' · ' + escHtml(it.why) : '') + '</span></div>';
       }).join('');
       connList.querySelectorAll('.fce-conn-item').forEach(function (el) {
         el.addEventListener('mousedown', function (ev) { ev.preventDefault(); chooseConn(+el.dataset.i); });
@@ -438,6 +458,7 @@
     function chooseConn(i) {
       var t = conn.items[i];
       if (!t) return;
+      t = t.e || t;
       insertWikiLink(t);
       statusEl.textContent = 'Connected to ' + (t.title || t.id) + ' — Save to publish';
       closeConnect();
@@ -604,14 +625,16 @@
         nSugg.innerHTML = '<div class="fce-conn-empty">No candidates yet — keep writing, or search by name above.</div>';
         return;
       }
-      nSugg.innerHTML = items.map(function (e2, i) {
-        return '<div class="fce-ac-item fce-conn-item" data-i="' + i + '"><span class="fce-ac-t">' + escHtml(e2.title || e2.id) + '</span><span class="fce-ac-k">' + escHtml(e2.type) + '</span></div>';
+      nSugg.innerHTML = items.map(function (it, i) {
+        var e2 = it.e || it;
+        return '<div class="fce-ac-item fce-conn-item" data-i="' + i + '"><span class="fce-ac-t">' + escHtml(e2.title || e2.id) + '</span><span class="fce-ac-k">' + escHtml(e2.type) + (it.why ? ' · ' + escHtml(it.why) : '') + '</span></div>';
       }).join('');
       nSugg.querySelectorAll('.fce-conn-item').forEach(function (el) {
         el.addEventListener('mousedown', function (ev) {
           ev.preventDefault();
           var e2 = items[+el.dataset.i];
           if (!e2) return;
+          e2 = e2.e || e2;
           if (nBody.value && !/\s$/.test(nBody.value)) nBody.value += ' ';
           nBody.value += '[[' + linkTargetOf(e2) + ']]';
           renderWizSugg();
@@ -867,7 +890,8 @@
     configured: configured,
     welcome: welcome,
     graphConnect: openConnectStandalone,
-    graphDisconnect: graphDisconnect
+    graphDisconnect: graphDisconnect,
+    manageConnections: manageConnections
   };
 
   /* ---------- one discreet "+ New entry" link in the Library list header ---------- */
@@ -918,10 +942,11 @@
         return;
       }
       var h = heading ? '<div class="fce-conn-head">' + escHtml(heading) + '</div>' : '';
-      list.innerHTML = h + items.map(function (e2, idx) {
+      list.innerHTML = h + items.map(function (it, idx) {
+        var e2 = it.e || it;
         return '<div class="fce-ac-item fce-conn-item' + (idx === 0 ? ' sel' : '') + '" data-i="' + idx + '">' +
           '<span class="fce-ac-t">' + escHtml(e2.title || e2.id) + '</span>' +
-          '<span class="fce-ac-k">' + escHtml(e2.type) + '</span></div>';
+          '<span class="fce-ac-k">' + escHtml(e2.type) + (it.why ? ' · ' + escHtml(it.why) : '') + '</span></div>';
       }).join('');
       list.querySelectorAll('.fce-conn-item').forEach(function (el) {
         el.addEventListener('mousedown', function (ev) { ev.preventDefault(); choose(+el.dataset.i); });
@@ -930,6 +955,7 @@
     function choose(i) {
       var t = conn.items[i];
       if (!t) return;
+      t = t.e || t;
       var lt = linkTargetOf(t);
       q.disabled = true;
       list.innerHTML = '<div class="fce-conn-empty">Connecting to ' + escHtml(t.title || t.id) + '…</div>';
@@ -993,42 +1019,119 @@
           content: b64(newText),
           sha: f.sha,
           branch: g.branch
-        }).then(function () { return { already: false }; });
+        }).then(function () {
+          window.dispatchEvent(new CustomEvent('fc:edge', { detail: { a: entry.id, b: target.id, removed: false } }));
+          return { already: false };
+        });
       });
   }
 
-  /* remove every [[link]] between a and b, from whichever file(s) hold them */
+  /* remove every [[link]] between a and b, from whichever file(s) hold them.
+     Sequential on purpose: a partial failure is reported honestly and can be retried. */
   function graphDisconnect(a, b, cb) {
     if (!configured()) { welcome(); cb && cb(false); return; }
     var g = gh();
-    var jobs = [[a, b], [b, a]].map(function (pair) {
+    var results = []; // 'changed' | 'absent' per file
+    var chain = Promise.resolve();
+    [[a, b], [b, a]].forEach(function (pair) {
       var src = pair[0], tgt = pair[1];
-      var names = [tgt.file, tgt.id].filter(Boolean);
-      var path = mdPath(src);
-      return api('GET', '/contents/' + encodeURIComponent(path).replace(/%2F/g, '/') + '?ref=' + g.branch)
-        .then(function (f) {
-          var text = unb64(f.content);
-          var newText = text.replace(/\[\[([^|\]]+)(?:\|([^\]]+))?\]\]/g, function (mm, t, alias) {
-            t = String(t || '').trim();
-            if (names.indexOf(t) >= 0) return alias || tgt.title || t;
-            return mm;
+      chain = chain.then(function () {
+        var names = [tgt.file, tgt.id].filter(Boolean);
+        var path = mdPath(src);
+        return api('GET', '/contents/' + encodeURIComponent(path).replace(/%2F/g, '/') + '?ref=' + g.branch)
+          .then(function (f) {
+            var text = unb64(f.content);
+            var newText = text.replace(/\[\[([^|\]]+)(?:\|([^\]]+))?\]\]/g, function (mm, t, alias) {
+              t = String(t || '').trim();
+              if (names.indexOf(t) >= 0) return alias || tgt.title || t;
+              return mm;
+            });
+            if (newText === text) { results.push('absent'); return; }
+            return api('PUT', '/contents/' + encodeURIComponent(path).replace(/%2F/g, '/'), {
+              message: 'Disconnect ' + a.id + ' — ' + b.id,
+              content: b64(newText),
+              sha: f.sha,
+              branch: g.branch
+            }).then(function () { results.push('changed'); });
           });
-          if (newText === text) return false;
-          return api('PUT', '/contents/' + encodeURIComponent(path).replace(/%2F/g, '/'), {
-            message: 'Disconnect ' + a.id + ' — ' + b.id,
-            content: b64(newText),
-            sha: f.sha,
-            branch: g.branch
-          }).then(function () { return true; });
-        });
+      });
     });
-    Promise.all(jobs).then(function (res) {
-      if (res.some(Boolean)) { toast('Disconnected — the graph updates after the rebuild (~1 min)'); cb && cb(true); }
-      else { toast('No link found between these entries', false); cb && cb(false); }
+    chain.then(function () {
+      if (results.indexOf('changed') < 0) { toast('No link found between these entries', false); cb && cb(false); return; }
+      window.dispatchEvent(new CustomEvent('fc:edge', { detail: { a: a.id, b: b.id, removed: true } }));
+      toast('Disconnected — removed from the graph');
+      cb && cb(true);
     }).catch(function (err) {
-      toast(err.message || 'Disconnect failed', false);
-      cb && cb(false);
+      if (results.indexOf('changed') >= 0) {
+        // one file cleaned, the other failed: the edge may still exist via the other side — retry to finish
+        toast('One file updated, the other failed — try again to complete', false);
+        cb && cb(true);
+      } else {
+        toast(err.message || 'Disconnect failed', false);
+        cb && cb(false);
+      }
     });
+  }
+
+  /* graph drawer: manage ALL connections (searchable) — the top-12 list only shows the first rows */
+  function manageConnections(entry, ids) {
+    if (!configured()) { welcome(); return; }
+    var maps = suggestionMaps();
+    var targets = (ids || []).map(function (id) { return maps.byId.get(id); }).filter(Boolean);
+    var ov = modalOverlay();
+    ov.innerHTML =
+      '<div class="fce-shell narrow" style="width:min(560px,96vw);height:auto">' +
+      '<div class="fce-head"><div class="fce-title">Connections of ' + escHtml(entry.title) + '</div>' +
+      '<div class="fce-sub">Removing a connection removes the [[link]] from the entry text — both entries are kept.</div></div>' +
+      '<div class="fce-gconn">' +
+      '<input class="fce-conn-q" type="text" placeholder="Filter by name…">' +
+      '<div class="fce-conn-list"></div>' +
+      '<div class="fce-conn-hint">Click ✕ once, then again to remove · Esc to close</div>' +
+      '</div></div>';
+    var q = ov.querySelector('.fce-conn-q');
+    var list = ov.querySelector('.fce-conn-list');
+    function render() {
+      var f = String(q.value || '').trim().toLowerCase();
+      var items = targets.filter(function (t) {
+        return !f || String(t.title || t.id).toLowerCase().indexOf(f) >= 0 || String(t.id || '').toLowerCase().indexOf(f) >= 0;
+      });
+      if (!items.length) { list.innerHTML = '<div class="fce-conn-empty">No matching connections.</div>'; return; }
+      list.innerHTML = items.map(function (t) {
+        var ix = targets.indexOf(t);
+        return '<div class="fce-ac-item fce-conn-item"><span class="fce-ac-t">' + escHtml(t.title || t.id) + '</span>' +
+          '<span class="fce-conn-x2" data-i="' + ix + '" title="Remove this connection">✕</span></div>';
+      }).join('');
+      list.querySelectorAll('.fce-conn-x2').forEach(function (el) {
+        el.addEventListener('click', function () {
+          var t = targets[+el.dataset.i];
+          if (!t) return;
+          if (el.dataset.armed && Date.now() - +el.dataset.armed < 3000) {
+            el.textContent = '…';
+            graphDisconnect(entry, t, function (ok) {
+              if (ok) {
+                targets = targets.filter(function (x) { return x !== t; });
+                render();
+              } else {
+                delete el.dataset.armed; el.classList.remove('arm'); el.textContent = '✕';
+              }
+            });
+          } else {
+            el.dataset.armed = String(Date.now());
+            el.classList.add('arm');
+            el.textContent = '✓?';
+            setTimeout(function () {
+              if (!el.dataset.armed) return;
+              delete el.dataset.armed; el.classList.remove('arm'); el.textContent = '✕';
+            }, 3000);
+          }
+        });
+      });
+    }
+    q.addEventListener('input', render);
+    q.addEventListener('keydown', function (ev) { if (ev.key === 'Escape') { ev.preventDefault(); ov.remove(); } });
+    render();
+    document.body.appendChild(ov);
+    q.focus();
   }
 
   /* ---------- styles ---------- */
@@ -1069,6 +1172,9 @@
     '.fce-newconn-list{background:#fff;border:1px solid #cbb98f;border-radius:10px;max-height:220px;overflow:auto;margin-top:4px}' +
     '.fce-newsugg{background:#fffdf8;border:1px solid #e4d9c3;border-radius:10px;max-height:220px;overflow:auto;margin-top:4px}' +
     '.fce-gconn{padding:12px 22px 18px}' +
+    '.fce-conn-x2{flex:none;padding:2px 8px;border-radius:5px;font-size:12px;color:#9a8a6f;cursor:pointer;user-select:none}' +
+    '.fce-conn-x2:hover{background:#b04938;color:#fff}' +
+    '.fce-conn-x2.arm{background:#b04938;color:#fff;font-weight:700}' +
     '.fce-foot{display:flex;align-items:center;gap:10px;padding:14px 20px;border-top:1px solid #e4d9c3}' +
     '.fce-note{flex:1;font-size:12px;color:#8a7a5f}' +
     '.fce-linkbtn{background:none;border:none;color:#8a6d2f;text-decoration:underline;cursor:pointer;font-size:12px;padding:0}' +
