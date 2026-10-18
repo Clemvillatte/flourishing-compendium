@@ -1063,9 +1063,10 @@
       cb && cb(true);
     }).catch(function (err) {
       if (results.indexOf('changed') >= 0) {
-        // one file cleaned, the other failed: the edge may still exist via the other side — retry to finish
+        // one file cleaned, the other failed: the edge may still exist via the other side — retry to finish.
+        // Report failure so the UI keeps the row/edge for a retry.
         toast('One file updated, the other failed — try again to complete', false);
-        cb && cb(true);
+        cb && cb(false);
       } else {
         toast(err.message || 'Disconnect failed', false);
         cb && cb(false);

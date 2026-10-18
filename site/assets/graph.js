@@ -1686,13 +1686,13 @@ function applyEdgeChange(aId, bId, removed) {
     adj.set(na.id, (adj.get(na.id) || []).filter(n => n !== nb));
     adj.set(nb.id, (adj.get(nb.id) || []).filter(n => n !== na));
     na.deg = Math.max(0, na.deg - 1); nb.deg = Math.max(0, nb.deg - 1);
-    const strip = (e, other) => {
-      e.content = String(e.content || '').replace(/\[\[([^|\]]+)(?:\|([^\]]+))?\]\]/g, (mm, t, alias) => {
+    const strip = (entry, otherEntry) => {
+      entry.content = String(entry.content || '').replace(/\[\[([^|\]]+)(?:\|([^\]]+))?\]\]/g, (mm, t, alias) => {
         const tt = String(t || '').trim();
-        return (tt === other.e.file || tt === other.e.id) ? (alias || other.e.title || tt) : mm;
+        return (tt === otherEntry.file || tt === otherEntry.id) ? (alias || otherEntry.title || tt) : mm;
       });
     };
-    strip(na, nb); strip(nb, na);
+    strip(na.e, nb.e); strip(nb.e, na.e);
   } else {
     if (!G.edges.some(([x, y]) => (x === na && y === nb) || (x === nb && y === na))) {
       G.edges.push([na, nb]);
