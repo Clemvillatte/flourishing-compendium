@@ -35,6 +35,8 @@ Freedom — the capacity to act from one's own understanding rather than from ex
 
 [[ST273 — The Dizziness of Freedom]]
 
+[[The interdependence of freedoms]]
+
 ## Sources
 - SEP Theories of Freedom: https://plato.stanford.edu/entries/freedom-variants/
 
