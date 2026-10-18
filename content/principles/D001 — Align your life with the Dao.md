@@ -16,7 +16,8 @@ There is a way things actually unfold: an implicit order to nature, events, and 
 
 (DDJ 1, 25.)
 
-**Plain words** Things have a grain to them — how your body actually wakes up, how projects really get done, how people genuinely change. Fighting that grain is how you exhaust yourself. Study it first, then move along it. It's not passivity; it's not wasting energy on friction.
+**Plain words** Things follow rules and patterns that we can't name or even perceive. All elements of the cosmos are determined and determining it. 
+We have no power over the way, but we can catch glimpses; we can allow the natural order to guide us, to unravel in front of us. 
 
 *For example:* You can't bully a sourdough starter into rising faster — you adjust temperature and timing, and the bread works with you.
 
