@@ -19,6 +19,8 @@ Freedom — the capacity to act from one's own understanding rather than from ex
 
 [[B198 — Freedom is now — nothing to wait for]]
 
+[[Positive freedom]]
+
 ## Sources
 - SEP Theories of Freedom: https://plato.stanford.edu/entries/freedom-variants/
 
