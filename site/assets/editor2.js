@@ -1003,7 +1003,15 @@
         var parts = splitMd(text);
         if (!parts) return Promise.reject(new Error('Could not parse the stored markdown'));
         var lt = linkTargetOf(target);
-        if (parts.body.indexOf('[[' + lt) >= 0) return { already: true };
+        // exact-target check: parse the links and resolve like the graph does —
+        // [[Topic extended]] must NOT block connecting to Topic.
+        var already = false;
+        var reC = /\[\[([^|\]]+)(?:\|[^\]]+)?\]\]/g, mc;
+        while ((mc = reC.exec(parts.body)) !== null) {
+          var tC = String(mc[1] || '').trim();
+          if (tC === lt || tC === target.id || tC === target.file) { already = true; break; }
+        }
+        if (already) return { already: true };
         var body = parts.body;
         var link = '[[' + lt + ']]';
         var m = /^(##\s+Sources\b.*)$/m.exec(body);
