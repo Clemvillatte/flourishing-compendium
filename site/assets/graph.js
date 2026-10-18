@@ -252,59 +252,6 @@ function buildGraph() {
   if (scopeSel) buildScopeOptions();
 }
 
-/* ---------- inferred shared-principle links (concepts/theories) ----------
-   Concepts and theories are linked to the principles that cite them, but not
-   to each other — the concept space has no paths of its own. These bridges
-   are DERIVED, not authored: two concepts mentioned together in the same
-   principle's parallels, in at least two different principles, are drawn as a
-   faint dashed edge (opt-in toggle) and listed in the drawer as "mentioned
-   together in N principles". They are kept COMPLETELY separate from
-   G.edges: they add no degree, no node size, no physics, no adjacency — the
-   established layout and emphasis are untouched. */
-let bridges = null;          // [{a, b, ps}] — node pair + supporting principle ids
-let bridgeByNode = null;     // id -> [{other, ps}]
-let bridgesOn = false;
-
-function computeBridges() {
-  const pairPs = new Map();          // 'id\u0001id' -> [principle ids]
-  const secRe = /## (?:Psychology|Philosophy) parallels\n([\s\S]*?)(?=\n## |$)/g;
-  const linkRe = /\[\[([^\]|]+)(?:\|[^\]]+)?\]\]/g;
-  for (const e of window.wikiData) {
-    if (e.type !== 'principle' || !e.content || e.content.indexOf('[[') < 0) continue;
-    const cited = new Set();
-    secRe.lastIndex = 0; let m;
-    while ((m = secRe.exec(e.content)) !== null) {
-      linkRe.lastIndex = 0; let mm;
-      while ((mm = linkRe.exec(m[1])) !== null) {
-        const t = (mm[1] || '').trim();
-        const ent = G.entryByFile.get(t) || (G.nodeById.get(t) || {}).e;
-        if (ent && ent.type === 'concept') cited.add(ent.id);   // concepts + theories (concept entries tagged 'theory')
-      }
-    }
-    if (cited.size < 2) continue;
-    const ids = [...cited].sort();
-    for (let i = 0; i < ids.length; i++)
-      for (let j = i + 1; j < ids.length; j++) {
-        const key = ids[i] + '\u0001' + ids[j];
-        if (!pairPs.has(key)) pairPs.set(key, []);
-        pairPs.get(key).push(e.id);
-      }
-  }
-  const explicit = new Set(G.edges.map(([a, b]) => (a.id < b.id ? a.id + '\u0001' + b.id : b.id + '\u0001' + a.id)));
-  bridges = []; bridgeByNode = new Map();
-  for (const [key, ps] of pairPs) {
-    if (ps.length < 2 || explicit.has(key)) continue;    // >=2 principles, and not already an explicit edge
-    const [ia, ib] = key.split('\u0001');
-    const a = G.nodeById.get(ia), b = G.nodeById.get(ib);
-    if (!a || !b) continue;
-    bridges.push({ a, b, ps });
-    if (!bridgeByNode.has(ia)) bridgeByNode.set(ia, []);
-    if (!bridgeByNode.has(ib)) bridgeByNode.set(ib, []);
-    bridgeByNode.get(ia).push({ other: b, ps });
-    bridgeByNode.get(ib).push({ other: a, ps });
-  }
-}
-
 /* ---------- scope ---------- */
 function groupTitleMap() {
   const m = new Map();
@@ -581,16 +528,6 @@ function setSpread(n) {
     }
     if (!spreadNb2Set.size) spreadNb2Set = null;
     spreadActive = true;
-    // inferred-bridge partners are NOT neighbours (no explicit edge), but they
-    // are the "mentioned together" nodes — pull them toward the selection
-    // instead of pushing them out with the rest of the context
-    if (bridgesOn && bridgeByNode) {
-      const brs = bridgeByNode.get(n.id);
-      if (brs && brs.length) {
-        spreadBrSet = new Set();
-        for (const br of brs) if (br.other.visible) spreadBrSet.add(br.other);
-      }
-    }
   }
   // NEIGHBOUR BELTS (phys.belts): instead of proportional pulls toward
   // overlapping bands (which let far-away neighbours settle inside the N+2
@@ -1155,25 +1092,6 @@ function render() {
     }
     ctx.stroke();
     ctx.globalAlpha = 1;
-    // inferred shared-principle bridges (opt-in), context only: dashed, faint,
-    // fully outside G.edges — no degree, no physics, no layout impact
-    if (bridgesOn && bridges) {
-      ctx.save();
-      ctx.setLineDash([4 / z, 5 / z]);
-      ctx.lineWidth = 0.8 / z;
-      ctx.strokeStyle = c.edge;
-      ctx.globalAlpha = focus ? 0.04 : 0.5;
-      ctx.beginPath();
-      for (const br of bridges) {
-        if (!br.a.visible || !br.b.visible) continue;
-        if (br.a === focus || br.b === focus) continue;   // focus bridges drawn below at full strength
-        if ((dispX(br.a) < vx0 && dispX(br.b) < vx0) || (dispX(br.a) > vx1 && dispX(br.b) > vx1)) continue;
-        if ((dispY(br.a) < vy0 && dispY(br.b) < vy0) || (dispY(br.a) > vy1 && dispY(br.b) > vy1)) continue;
-        ctx.moveTo(dispX(br.a), dispY(br.a)); ctx.lineTo(dispX(br.b), dispY(br.b));
-      }
-      ctx.stroke();
-      ctx.restore();
-    }
   }
   // FOCUS NEIGHBOURHOOD — always drawn (any zoom), on top of the background:
   // X→Y in clear orange, Y→Z (NODE+2) as yellow dotted lines
@@ -1213,21 +1131,6 @@ function render() {
       }
       ctx.stroke();
       ctx.setLineDash([]);
-    }
-    // focus bridges (inferred): gold dashed, same strength as before
-    if (bridgesOn && bridges) {
-      ctx.save();
-      ctx.setLineDash([4 / z, 5 / z]);
-      ctx.lineWidth = 0.8 / z;
-      ctx.strokeStyle = c.halo;
-      ctx.globalAlpha = 0.55;
-      ctx.beginPath();
-      for (const br of bridges) {
-        if (!br.a.visible || !br.b.visible) continue;
-        if (br.a === focus || br.b === focus) { ctx.moveTo(dispX(br.a), dispY(br.a)); ctx.lineTo(dispX(br.b), dispY(br.b)); }
-      }
-      ctx.stroke();
-      ctx.restore();
     }
     ctx.globalAlpha = 1;
   }
@@ -1623,33 +1526,6 @@ function openDrawer(n) {
     (nbs.length > 12
       ? '<button class="gd-manage" type="button">Manage all ' + nbs.length + ' connections (add / remove)</button>'
       : '');
-  // inferred "mentioned together" section — concept/theory nodes only.
-  // Derived from existing parallels; kept separate from the explicit
-  // connections above (no degree, no layout impact).
-  if (gd.bridges) {
-    let html = '';
-    if (n.kind === 'concept' || n.kind === 'theory') {
-      if (!bridges) computeBridges();
-      const rows = (bridgeByNode.get(n.id) || []).slice().sort((x, y) => y.ps.length - x.ps.length);
-      if (rows.length) {
-        html = '<div class="gd-bridge-head">Mentioned together · inferred</div>';
-        for (const r of rows.slice(0, 6)) {
-          html += '<div class="gd-bridge">' +
-            '<button class="gd-conn" type="button" data-id="' + escHtml(r.other.id) + '">' +
-            '<span class="gdot" style="background:' + (c[r.other.kind] || c.text) + '"></span>' +
-            '<span class="gd-conn-t">' + escHtml(r.other.e.title) + '</span>' +
-            '<span class="gd-conn-d">' + r.ps.length + ' principles</span></button>' +
-            '<div class="gd-bridge-ps">' + r.ps.slice(0, 4).map(pid => {
-              const pn = G.nodeById.get(pid);
-              return pn ? '<button class="gd-bridge-p" type="button" data-id="' + escHtml(pid) + '">' + escHtml(pn.e.title) + '</button>' : '';
-            }).join('<span class="gd-bridge-sep">·</span>') + (r.ps.length > 4 ? '<span class="gd-bridge-more">+' + (r.ps.length - 4) + ' more</span>' : '') + '</div></div>';
-        }
-        if (rows.length > 6) html += '<div class="gd-more">+ ' + (rows.length - 6) + ' more</div>';
-      }
-    }
-    gd.bridges.innerHTML = html;
-    gd.bridges.hidden = !html;
-  }
   gd.body.scrollTop = 0;
   drawer.hidden = false;
 }
@@ -1872,7 +1748,6 @@ function bindEvents() {
   // drawer wiring
   drawer = $('graphDrawer');
   gd.dot = $('gdDot'); gd.kind = $('gdKind'); gd.title = $('gdTitle'); gd.deg = $('gdDeg');
-  gd.bridges = $('gdBridges');
   gd.content = $('gdContent'); gd.conns = $('gdConns'); gd.body = drawer.querySelector('.gdrawer-body');
   $('gdClose').addEventListener('click', () => select(null));
   $('gdOpenBtn').addEventListener('click', () => {
@@ -1995,36 +1870,6 @@ function bindEvents() {
     });
     togglesEl.appendChild(b);
   }
-  // inferred shared-principle links (concepts/theories): off by default,
-  // persisted with the other graph settings. Derived from existing parallels
-  // — no layout, degree or size impact.
-  const brBtn = document.createElement('button');
-  brBtn.type = 'button';
-  brBtn.className = 'gtoggle gtoggle-bridge' + (bridgesOn ? ' on' : '');
-  brBtn.id = 'graphBridgeToggle';
-  const brDot = document.createElement('span'); brDot.className = 'gdot gdot-bridge';
-  brBtn.appendChild(brDot);
-  brBtn.appendChild(document.createTextNode('Mentioned-together links · inferred'));
-  brBtn.title = 'Faint dashed links between concepts cited together in at least 2 principles. These are suggestions of relatedness, not authored links.';
-  brBtn.addEventListener('click', () => {
-    bridgesOn = !bridgesOn;
-    brBtn.classList.toggle('on', bridgesOn);
-    if (bridgesOn && !bridges) computeBridges();
-    // the inferred links only connect concept/theory nodes — without those
-    // kinds visible the toggle visibly does nothing, so say so instead of
-    // leaving a dead switch
-    if (bridgesOn && !kindOn.concept && !kindOn.theory) {
-      kindOn.concept = true;
-      const cb = togglesEl.querySelector('[data-kind="concept"]');
-      if (cb) cb.classList.add('on');
-      toast('Concepts turned on — the faint dashed links are the inferred "mentioned together" ones');
-    }
-    // the spread targets (bridge-partner attraction) depend on bridgesOn
-    if (selected) setSpread(selected);
-    phys.bridgeOn = bridgesOn; savePhys();
-    needsRender = true; wake();
-  });
-  togglesEl.appendChild(brBtn);
   // layout-settings popover: sliders for the force model + node size
   const physBtn = $('graphPhysBtn'), physPanel = $('graphPhys');
   const PHYS_ROWS = [
@@ -2494,9 +2339,6 @@ window.fcGraph = {
       // existed — buildScopeOptions() inside buildGraph never saw scopeSel.
       if (scopeSel.options.length <= 1) buildScopeOptions();
       bindEvents();
-      // restore the inferred-bridges toggle from saved settings (phys loads
-      // before this module's state declarations)
-      if (phys.bridgeOn) { bridgesOn = true; if (!bridges) computeBridges(); }
       applyScope('all');
       seedPositions();
       inited = true;

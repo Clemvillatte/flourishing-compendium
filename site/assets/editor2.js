@@ -53,6 +53,9 @@
     var g = gh();
     var opts = {
       method: method,
+      cache: 'no-store',   // GitHub GETs are cacheable (~60s) — a second connect
+                           // within a minute must see the file it just wrote,
+                           // not a stale copy with the pre-write sha
       headers: {
         'Authorization': 'Bearer ' + token(),
         'Accept': 'application/vnd.github+json',
@@ -273,7 +276,8 @@
       '<div class="fce-conn-box">' +
       '<input class="fce-conn-q" type="text" placeholder="Connect to… type any part of a name (e.g. examined)">' +
       '<div class="fce-conn-list"></div>' +
-      '<div class="fce-conn-hint">↑ ↓ to choose · Enter to connect · Esc to close</div>' +
+      '<button class="fce-conn-batch" type="button" hidden></button>' +
+      '<div class="fce-conn-hint">↑ ↓ to choose · Space to check · Enter to connect · Esc to close</div>' +
       '</div>' +
       '</div>' +
       '</div>' +
@@ -438,6 +442,18 @@
       incomingLinkers(entry.id, entry.file).forEach(function (x) { linked.add(x); });
       return computeSuggestions({ title: entry.title, tags: entry.tags, bodyText: ta.value, linkedIds: linked });
     }
+    var checkedIds = new Set();
+    var batchBtn = ov.querySelector('.fce-conn-batch');
+    function updateBatch() {
+      if (!batchBtn) return;
+      batchBtn.hidden = checkedIds.size === 0;
+      batchBtn.textContent = 'Insert ' + checkedIds.size + ' checked link' + (checkedIds.size > 1 ? 's' : '');
+    }
+    function toggleCheck(id, el) {
+      if (checkedIds.has(id)) { checkedIds.delete(id); if (el) el.classList.remove('on'); }
+      else { checkedIds.add(id); if (el) el.classList.add('on'); }
+      updateBatch();
+    }
     function renderConn(items, heading, emptyMsg) {
       conn.items = items; conn.sel = 0;
       if (!items.length) {
@@ -448,12 +464,20 @@
       connList.innerHTML = h + items.map(function (it, idx) {
         var e2 = it.e || it;
         return '<div class="fce-ac-item fce-conn-item' + (idx === 0 ? ' sel' : '') + '" data-i="' + idx + '">' +
+          '<span class="fce-conn-chk' + (checkedIds.has(e2.id) ? ' on' : '') + '" data-chk="' + escHtml(e2.id) + '">✓</span>' +
           '<span class="fce-ac-t">' + escHtml(e2.title || e2.id) + '</span>' +
           '<span class="fce-ac-k">' + escHtml(e2.type) + (it.why ? ' · ' + escHtml(it.why) : '') + '</span></div>';
       }).join('');
-      connList.querySelectorAll('.fce-conn-item').forEach(function (el) {
-        el.addEventListener('mousedown', function (ev) { ev.preventDefault(); chooseConn(+el.dataset.i); });
+      connList.querySelectorAll('.fce-conn-chk').forEach(function (el) {
+        el.addEventListener('mousedown', function (ev) { ev.preventDefault(); ev.stopPropagation(); toggleCheck(el.dataset.chk, el); });
       });
+      connList.querySelectorAll('.fce-conn-item').forEach(function (el) {
+        el.addEventListener('mousedown', function (ev) {
+          if (ev.target.classList.contains('fce-conn-chk')) return;
+          ev.preventDefault(); chooseConn(+el.dataset.i);
+        });
+      });
+      updateBatch();
     }
     function chooseConn(i) {
       var t = conn.items[i];
@@ -462,6 +486,7 @@
       insertWikiLink(t);
       statusEl.textContent = 'Connected to ' + (t.title || t.id) + ' — Save to publish';
       // stay open so several links can be added in a row
+      checkedIds.delete(t.id);
       connQ.value = '';
       renderConn(suggestConnections(), 'Suggested connections', 'No suggestions yet — write a little more, or type a name to search.');
       connQ.focus();
@@ -490,9 +515,28 @@
         if (selEl && selEl.scrollIntoView) selEl.scrollIntoView({ block: 'nearest' });
       } else if (ev.key === 'Enter') {
         ev.preventDefault(); chooseConn(conn.sel);
+      } else if (ev.key === ' ') {
+        ev.preventDefault();
+        var it = conn.items[conn.sel];
+        if (!it) return;
+        var id2 = (it.e || it).id;
+        var rowEl = connList.querySelector('.fce-conn-item.sel .fce-conn-chk');
+        toggleCheck(id2, rowEl);
       } else if (ev.key === 'Escape') {
         ev.preventDefault(); closeConnect();
       }
+    });
+    if (batchBtn) batchBtn.addEventListener('click', function () {
+      var targets = conn.items
+        .map(function (it) { return it.e || it; })
+        .filter(function (e2) { return checkedIds.has(e2.id); });
+      if (!targets.length) return;
+      targets.forEach(function (t) { insertWikiLink(t); });
+      statusEl.textContent = 'Inserted ' + targets.length + ' link' + (targets.length > 1 ? 's' : '') + ' — Save to publish';
+      checkedIds.clear();
+      connQ.value = '';
+      renderConn(suggestConnections(), 'Suggested connections', 'No suggestions yet — write a little more, or type a name to search.');
+      connQ.focus();
     });
     connEl.addEventListener('mousedown', function (ev) { if (ev.target === connEl) closeConnect(); });
 
@@ -924,11 +968,23 @@
       '<div class="fce-gconn">' +
       '<input class="fce-conn-q" type="text" placeholder="Connect to… type any part of a name (e.g. examined)">' +
       '<div class="fce-conn-list"></div>' +
-      '<div class="fce-conn-hint">↑ ↓ to choose · Enter to connect · Esc to close</div>' +
+      '<button class="fce-conn-batch" type="button" hidden></button>' +
+      '<div class="fce-conn-hint">↑ ↓ to choose · Space to check · Enter to connect · Esc to close</div>' +
       '</div></div>';
     var q = ov.querySelector('.fce-conn-q');
     var list = ov.querySelector('.fce-conn-list');
     var conn = { items: [], sel: 0 };
+    var checkedIds = new Set();
+    var batchBtn = ov.querySelector('.fce-conn-batch');
+    function updateBatch() {
+      batchBtn.hidden = checkedIds.size === 0;
+      batchBtn.textContent = 'Connect ' + checkedIds.size + ' checked';
+    }
+    function toggleCheck(id, el) {
+      if (checkedIds.has(id)) { checkedIds.delete(id); if (el) el.classList.remove('on'); }
+      else { checkedIds.add(id); if (el) el.classList.add('on'); }
+      updateBatch();
+    }
     function linkedSet() {
       var linked = new Set([entry.id]);
       var re = /\[\[([^|\]]+)(?:\|[^\]]+)?\]\]/g, m;
@@ -949,12 +1005,20 @@
       list.innerHTML = h + items.map(function (it, idx) {
         var e2 = it.e || it;
         return '<div class="fce-ac-item fce-conn-item' + (idx === 0 ? ' sel' : '') + '" data-i="' + idx + '">' +
+          '<span class="fce-conn-chk' + (checkedIds.has(e2.id) ? ' on' : '') + '" data-chk="' + escHtml(e2.id) + '">✓</span>' +
           '<span class="fce-ac-t">' + escHtml(e2.title || e2.id) + '</span>' +
           '<span class="fce-ac-k">' + escHtml(e2.type) + (it.why ? ' · ' + escHtml(it.why) : '') + '</span></div>';
       }).join('');
-      list.querySelectorAll('.fce-conn-item').forEach(function (el) {
-        el.addEventListener('mousedown', function (ev) { ev.preventDefault(); choose(+el.dataset.i); });
+      list.querySelectorAll('.fce-conn-chk').forEach(function (el) {
+        el.addEventListener('mousedown', function (ev) { ev.preventDefault(); ev.stopPropagation(); toggleCheck(el.dataset.chk, el); });
       });
+      list.querySelectorAll('.fce-conn-item').forEach(function (el) {
+        el.addEventListener('mousedown', function (ev) {
+          if (ev.target.classList.contains('fce-conn-chk')) return;
+          ev.preventDefault(); choose(+el.dataset.i);
+        });
+      });
+      updateBatch();
     }
     var hintEl = ov.querySelector('.fce-conn-hint');
     var hintBase = hintEl.textContent;
@@ -975,6 +1039,7 @@
         }
         // stay open for the next connection: refresh suggestions (the new link
         // is now in the entry content via the fc:edge live update, so it is excluded)
+        checkedIds.delete(t.id);
         q.value = '';
         render(computeSuggestions({ title: entry.title, tags: entry.tags, bodyText: entry.content, linkedIds: linkedSet() }), 'Suggested connections');
         q.focus();
@@ -1000,9 +1065,52 @@
         list.querySelectorAll('.fce-conn-item').forEach(function (el, i2) { el.classList.toggle('sel', i2 === conn.sel); });
       } else if (ev.key === 'Enter') {
         ev.preventDefault(); choose(conn.sel);
+      } else if (ev.key === ' ') {
+        ev.preventDefault();
+        var it = conn.items[conn.sel];
+        if (!it) return;
+        var rowEl = list.querySelector('.fce-conn-item.sel .fce-conn-chk');
+        toggleCheck((it.e || it).id, rowEl);
       } else if (ev.key === 'Escape') {
         ev.preventDefault(); ov.remove();
       }
+    });
+    // connect every checked entry in one sequential run — a failure stops the
+    // run, reports honestly, and keeps the unchecked remainder checked for a retry
+    batchBtn.addEventListener('click', function () {
+      var targets = conn.items
+        .map(function (it) { return it.e || it; })
+        .filter(function (e2) { return checkedIds.has(e2.id); });
+      if (!targets.length) return;
+      q.disabled = true;
+      var done = 0, failed = null;
+      var run = function () {
+        if (done >= targets.length) {
+          q.disabled = false;
+          if (failed) {
+            toast('Stopped at ' + failed.title + ': ' + failed.err, false);
+          } else {
+            toast('Connected to ' + targets.length + ' entries');
+            hintEl.textContent = '\u2713 Connected to ' + targets.length + ' entries \u00b7 keep going, or press Esc';
+          }
+          checkedIds.clear();
+          q.value = '';
+          render(computeSuggestions({ title: entry.title, tags: entry.tags, bodyText: entry.content, linkedIds: linkedSet() }), 'Suggested connections');
+          q.focus();
+          return;
+        }
+        var t = targets[done];
+        list.innerHTML = '<div class="fce-conn-empty">Connecting to ' + escHtml(t.title || t.id) + ' \u00b7 ' + (done + 1) + ' of ' + targets.length + '\u2026</div>';
+        commitConnect(entry, t).then(function (r) {
+          if (r && r.already) toast('Already connected to ' + (t.title || t.id));
+          done++;
+          run();
+        }).catch(function (err) {
+          failed = { title: t.title || t.id, err: (err && err.message) || 'Connect failed' };
+          done = targets.length; // stop the run; the remaining targets stay checked
+        });
+      };
+      run();
     });
     render(computeSuggestions({ title: entry.title, tags: entry.tags, bodyText: entry.content, linkedIds: linkedSet() }), 'Suggested connections');
     document.body.appendChild(ov);
@@ -1199,6 +1307,10 @@
     '.fce-gconn{padding:12px 22px 18px}' +
     '.fce-conn-x2{flex:none;padding:2px 8px;border-radius:5px;font-size:12px;color:#9a8a6f;cursor:pointer;user-select:none}' +
     '.fce-conn-done{position:absolute;top:14px;right:14px;background:none;border:1px solid #d9cbb0;border-radius:8px;color:#5d4b28;font-size:12px;padding:5px 10px;cursor:pointer}' +
+    '.fce-conn-chk{flex:none;width:18px;height:18px;margin-right:8px;border:1.5px solid #c9b98f;border-radius:5px;background:#fff;cursor:pointer;display:inline-flex;align-items:center;justify-content:center;color:#fff;font-size:12px;line-height:1;user-select:none}' +
+    '.fce-conn-chk.on{background:#3f7a4e;border-color:#3f7a4e}' +
+    '.fce-conn-batch{display:block;width:100%;margin:8px 0 0;padding:9px 0;border-radius:9px;border:none;background:#3f7a4e;color:#fff;font-size:13px;font-weight:600;cursor:pointer}' +
+    '.fce-conn-batch:hover{background:#35693f}' +
     '.fce-conn-done:hover{background:#f0e7d2}' +
     '.fce-conn-x2:hover{background:#b04938;color:#fff}' +
     '.fce-conn-x2.arm{background:#b04938;color:#fff;font-weight:700}' +
