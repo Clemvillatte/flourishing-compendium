@@ -122,6 +122,39 @@
       .catch(function (err) { toast(err.message || String(err), false); });
   }
 
+  /* ---------- shared link helpers (autocomplete + connect picker + add wizard) ---------- */
+  var LINKABLE = { principle: 1, kernel: 1, concept: 1, story: 1, saying: 1, hub: 1, discipline: 1 }; // types the graph draws as nodes
+  function isLinkable(e2) { return !!(e2 && LINKABLE[e2.type]); }
+  function linkTargetOf(e2) { return e2.file || e2.id; }
+  function searchEntries(q, limit, excludeId, onlyLinkable) {
+    q = String(q || '').trim().toLowerCase();
+    var out = [];
+    if (!q) return out;
+    var data = window.wikiData || [];
+    var scored = [];
+    for (var i = 0; i < data.length; i++) {
+      var e2 = data[i];
+      if (!e2 || e2.id === excludeId) continue;
+      if (onlyLinkable && !isLinkable(e2)) continue;
+      var t = (e2.title || e2.id || '').toLowerCase();
+      var id2 = (e2.id || '').toLowerCase();
+      var sc = 0;
+      if (t === q) sc = 5;                       // exact title match
+      else if (t.indexOf(q) === 0) sc = 4;        // title starts with the query
+      else if (id2.indexOf(q) === 0) sc = 3;      // id starts with it
+      else if (t.split(/\s+/).some(function (w) { return w.indexOf(q) === 0; })) sc = 3; // a word of the title starts with it
+      else if (t.indexOf(q) >= 0) sc = 2;         // title contains it anywhere
+      else if (id2.indexOf(q) >= 0) sc = 1;       // id contains it anywhere
+      if (sc) scored.push([sc, e2]);
+    }
+    scored.sort(function (a, b) {
+      var ta2 = String(a[1].title || a[1].id || ''), tb = String(b[1].title || b[1].id || '');
+      return (b[0] - a[0]) || (ta2.length - tb.length) || ta2.localeCompare(tb);
+    });
+    for (var j = 0; j < limit && j < scored.length; j++) out.push(scored[j][1]);
+    return out;
+  }
+
   function buildEditorUI(ov, entry, path, sha, parts) {
     var g = gh();
     ov.innerHTML =
@@ -147,7 +180,7 @@
       '<textarea class="fce-ta" spellcheck="true"></textarea>' +
       '<div class="fce-preview"><div class="fce-preview-inner"></div></div>' +
       '<div class="fce-ac" hidden></div>' +
-      '<div class="fce-conn" hidden>' +
+      '<div class="fce-conn" hidden style="display:none">' +
       '<div class="fce-conn-box">' +
       '<input class="fce-conn-q" type="text" placeholder="Connect to… type any part of a name (e.g. examined)">' +
       '<div class="fce-conn-list"></div>' +
@@ -250,35 +283,7 @@
       }
     });
 
-    /* ---------- shared link helpers (autocomplete + connect picker) ---------- */
-    function linkTargetOf(e2) { return e2.file || e2.id; }
-    function searchEntries(q, limit, excludeId) {
-      q = String(q || '').trim().toLowerCase();
-      var out = [];
-      if (!q) return out;
-      var data = window.wikiData || [];
-      var scored = [];
-      for (var i = 0; i < data.length; i++) {
-        var e2 = data[i];
-        if (!e2 || e2.id === excludeId) continue;
-        var t = (e2.title || e2.id || '').toLowerCase();
-        var id2 = (e2.id || '').toLowerCase();
-        var sc = 0;
-        if (t === q) sc = 5;                       // exact title match
-        else if (t.indexOf(q) === 0) sc = 4;        // title starts with the query
-        else if (id2.indexOf(q) === 0) sc = 3;      // id starts with it
-        else if (t.split(/\s+/).some(function (w) { return w.indexOf(q) === 0; })) sc = 3; // a word of the title starts with it
-        else if (t.indexOf(q) >= 0) sc = 2;         // title contains it anywhere
-        else if (id2.indexOf(q) >= 0) sc = 1;       // id contains it anywhere
-        if (sc) scored.push([sc, e2]);
-      }
-      scored.sort(function (a, b) {
-        var ta2 = String(a[1].title || a[1].id || ''), tb = String(b[1].title || b[1].id || '');
-        return (b[0] - a[0]) || (ta2.length - tb.length) || ta2.localeCompare(tb);
-      });
-      for (var j = 0; j < limit && j < scored.length; j++) out.push(scored[j][1]);
-      return out;
-    }
+    /* ---------- link helpers (see top-level searchEntries / linkTargetOf) ---------- */
     function insertWikiLink(e2) {
       var s = ta.selectionStart, epos = ta.selectionEnd, v = ta.value;
       var before = v.slice(0, s), after = v.slice(epos);
@@ -340,10 +345,9 @@
     var connList = ov.querySelector('.fce-conn-list');
     var conn = { items: [], sel: 0 };
 
-    var LINKABLE = { principle: 1, concept: 1, kernel: 1, story: 1, saying: 1 };
     var STOP = { the: 1, a: 1, an: 1, of: 1, and: 1, or: 1, to: 1, in: 1, on: 1, for: 1, with: 1, as: 1, versus: 1, vs: 1 };
     function tokensOf(text) {
-      return String(text || '').toLowerCase().split(/[^\u00e0-\u00ff0-9-]+/).filter(function (w) { return w.length > 2 && !STOP[w]; });
+      return String(text || '').toLowerCase().split(/[^a-z\u00e0-\u00ff0-9-]+/).filter(function (w) { return w.length > 2 && !STOP[w]; });
     }
     function linkedIdsNow() {
       var out = new Set();
@@ -412,18 +416,18 @@
       closeConnect();
     }
     function openConnect() {
-      connEl.hidden = false;
+      connEl.hidden = false; connEl.style.display = 'flex';
       connQ.value = '';
       renderConn(suggestConnections(), 'Suggested connections', 'No suggestions yet — write a little more, or type a name to search.');
       connQ.focus();
     }
-    function closeConnect() { connEl.hidden = true; conn.items = []; ta.focus(); }
+    function closeConnect() { connEl.hidden = true; connEl.style.display = 'none'; conn.items = []; ta.focus(); }
     connQ.addEventListener('input', function () {
       if (!connQ.value.trim()) {
         renderConn(suggestConnections(), 'Suggested connections', 'No suggestions yet — write a little more, or type a name to search.');
         return;
       }
-      renderConn(searchEntries(connQ.value, 12, entry.id), '');
+      renderConn(searchEntries(connQ.value, 12, entry.id, true), '');
     });
     connQ.addEventListener('keydown', function (ev) {
       if (ev.key === 'ArrowDown' || ev.key === 'ArrowUp') {
@@ -452,7 +456,8 @@
         content: b64(newText),
         sha: sha,
         branch: gh().branch
-      }).then(function () {
+      }).then(function (j) {
+        if (j && j.content && j.content.sha) sha = j.content.sha;
         statusEl.textContent = 'Saved — your site updates itself in about a minute';
         toast('Saved — your site will update itself in about a minute');
         try { localStorage.removeItem(draftKey); } catch (e) {}
@@ -538,6 +543,9 @@
       '<label>Tags (comma-separated)<input id="fceNewTags" placeholder="e.g. rest, recovery"></label>' +
       '<label>Content (markdown — you can use [[wiki links]])' +
       '<textarea id="fceNewBody" rows="10" placeholder="Write the entry here…"></textarea></label>' +
+      '<label>Connect to other entries (optional — type a name; links show in the graph)' +
+      '<input id="fceNewConn" placeholder="e.g. Examined" autocomplete="off">' +
+      '<div class="fce-newconn-list" hidden></div></label>' +
       '<label>Reflection questions (one per line, optional)' +
       '<textarea id="fceNewRefl" rows="3" placeholder="A question the reader should sit with…"></textarea></label>' +
       '</div>' +
@@ -548,6 +556,30 @@
       '</div></div>';
 
     ov.querySelector('[data-act="cancel"]').addEventListener('click', function () { ov.remove(); });
+    var nConn = ov.querySelector('#fceNewConn');
+    var nList = ov.querySelector('.fce-newconn-list');
+    var nBody = ov.querySelector('#fceNewBody');
+    nConn.addEventListener('input', function () {
+      var q = nConn.value.trim();
+      if (!q) { nList.hidden = true; nList.innerHTML = ''; return; }
+      var items = searchEntries(q, 8, null, true);
+      nList.hidden = false;
+      nList.innerHTML = items.length ? items.map(function (e2, i) {
+        return '<div class="fce-ac-item" data-i="' + i + '"><span class="fce-ac-t">' + escHtml(e2.title || e2.id) + '</span><span class="fce-ac-k">' + escHtml(e2.type) + '</span></div>';
+      }).join('') : '<div class="fce-conn-empty">Nothing matches — try fewer letters.</div>';
+      nList.querySelectorAll('.fce-ac-item').forEach(function (el) {
+        el.addEventListener('mousedown', function (ev) {
+          ev.preventDefault();
+          var e2 = items[+el.dataset.i];
+          if (!e2) return;
+          if (nBody.value && !/\s$/.test(nBody.value)) nBody.value += ' ';
+          nBody.value += '[[' + linkTargetOf(e2) + ']]';
+          nConn.value = '';
+          nList.hidden = true;
+          nList.innerHTML = '';
+        });
+      });
+    });
     ov.querySelector('[data-act="create"]').addEventListener('click', function () {
       var type = ov.querySelector('#fceNewType').value;
       var title = ov.querySelector('#fceNewTitle').value.trim();
@@ -808,6 +840,7 @@
     '.fce-ac-item.sel,.fce-ac-item:hover{background:#f3ead4}' +
     '.fce-ac-t{font-size:13.5px}' +
     '.fce-ac-k{font-size:11px;color:#9a8a6f}' +
+    '.fce-conn[hidden]{display:none}' +
     '.fce-conn{position:absolute;inset:0;z-index:100003;background:rgba(20,16,10,.35);display:flex;align-items:flex-start;justify-content:center;padding-top:56px}' +
     '.fce-conn-box{background:#fffdf8;border:1px solid #cbb98f;border-radius:12px;box-shadow:0 16px 50px rgba(0,0,0,.35);width:min(560px,92%);overflow:hidden}' +
     '.fce-conn-q{width:100%;box-sizing:border-box;border:0;border-bottom:1px solid #e4d9c3;padding:14px 16px;font-size:15px;outline:none;background:#fffdf8;color:#2b2114;font-family:Georgia,serif}' +
@@ -815,6 +848,7 @@
     '.fce-conn-head{padding:9px 12px 3px;font-size:11px;text-transform:uppercase;letter-spacing:.06em;color:#9a8a6f}' +
     '.fce-conn-empty{padding:16px 14px;font-size:13px;color:#9a8a6f}' +
     '.fce-conn-hint{padding:8px 14px;font-size:11.5px;color:#9a8a6f;border-top:1px solid #eee3cc}' +
+    '.fce-newconn-list{background:#fff;border:1px solid #cbb98f;border-radius:10px;max-height:220px;overflow:auto;margin-top:4px}' +
     '.fce-foot{display:flex;align-items:center;gap:10px;padding:14px 20px;border-top:1px solid #e4d9c3}' +
     '.fce-note{flex:1;font-size:12px;color:#8a7a5f}' +
     '.fce-linkbtn{background:none;border:none;color:#8a6d2f;text-decoration:underline;cursor:pointer;font-size:12px;padding:0}' +
