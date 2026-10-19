@@ -19,7 +19,12 @@ mind, Premeditatio malorum). The concepts namespace must NOT contain:
 3. Hallucinated pages (no source defines the term): workers flag them under Category C
    with the evidence trail. The supervisor migrates their resolvable links to the real
    neighbouring concepts (e.g. "The rehearsal of virtue" -> Premeditatio malorum, which
-   already exists) and deletes the page.
+   already exists) and deletes the page. This is now SYSTEMATIC, not chance-based: the
+   full verification queue is `concept-verification-queue.md` (every concept page with
+   no citable source, ranked by suspicion). Many suspects are real concepts with garbled
+   titles (e.g. "Nudge theory Thaler" -> Nudge; "Collective effervescence theory Durkheim"
+   -> Collective effervescence) — the fix is renaming/modifying to the actual concept,
+   not deletion. Deletion is only for terms no source defines.
 4. Comparison pages: keep the comparison ONLY as relational exposition if the owner's
    essays need it; the required work is to create the granular concepts (e.g. Identified
    motivation, Introjected motivation) and link them from the comparison page and from
