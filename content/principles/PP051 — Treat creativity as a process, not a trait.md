@@ -12,13 +12,24 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 ---
 > **Principle 51** — Treat creativity as a process, not a trait
 
-Creativity is not a fixed personality trait. It is a process that can be cultivated: the generation of ideas that are both novel and useful. The process involves divergent thinking (generating many possibilities), convergent thinking (selecting and refining), and incubation (allowing unconscious processing to work). The trait view limits; the process view empowers.
+Creativity research defines its object as the generation of products or ideas that are both novel and appropriate (Hennessey and Amabile, 2010, p. 569). Whether that capacity is a fixed endowment is an empirical question, and the review's summary answer is direct:
+
+> "Although creativity in persons has some trait-like (stable) aspects, it is also a state subject to influence by the social environment." (Hennessey and Amabile, 2010, p. 590)
+
+The strongest evidence that creativity is a process comes from training. A meta-analysis of seventy studies found that carefully constructed creativity training programs typically result in gains in performance, with benefits generalizing across criteria, setting, and target population; the more successful programs employed realistic exercises focused on cognitive skills and heuristics for applying them (Hennessey and Amabile, 2010, p. 577).
+
+The process has named parts you can practise. Divergent thinking is spontaneous, free-flowing thinking with the goal of generating many different ideas in a short period; convergent thinking is more disciplined, narrowing possibilities to a workable solution (Hennessey and Amabile, 2010, pp. 574, 579). Kaufman and Beghetto's Four-C model adds the developmental frame: everyone starts at mini-c, the novel and personally meaningful interpretation of experiences, and the model reads as a trajectory through little-c and Pro-c rather than a fixed caste system (Kaufman and Beghetto, 2009, pp. 1-6).
 
 (Kaufman and Beghetto, 2009; Hennessey and Amabile, 2010.)
 
-**Plain words** Creativity is a process, not a fixed trait. It runs through generating many possibilities, selecting and refining, and stepping away to let things work in the background. Anyone can improve at it.
+**Plain words** People talk about creativity the way they talk about height: you were dealt a certain amount and that is that. The research says it behaves more like fitness. Some of it is stable, but how creative you are on a given day depends on your motivation, your environment and the skills you have actually practised. Generating options before judging them is a skill. So is stepping back and choosing. Both respond to training, which is what you would expect of a process and what you would not expect of a trait.
 
-*For example:* A team that generates twenty bad slogans quickly usually finds a good one; a team that polishes its first idea rarely does.
+*For example:* A writer stuck on a title lists twenty candidates before judging any of them, then steps away before choosing. That is the whole process in one move: divergent thinking, incubation, convergent thinking.
+
+## Sources
+
+- [Hennessey and Amabile, Creativity, Annual Review of Psychology 61 (2010), pp. 569-598](https://site.caes.uga.edu/sandlin/files/2023/10/Hennessey-Amabile-2010.pdf) — definition p. 569; training meta-analysis p. 577; divergent and convergent thinking pp. 574, 579; summary point p. 590
+- [Kaufman and Beghetto, Beyond Big and Little: The Four C Model of Creativity, Review of General Psychology 13 (2009), pp. 1-12](https://scispace.com/pdf/beyond-big-and-little-the-four-c-model-of-creativity-1ev858l3g5.pdf) — Four-C levels and developmental trajectory, pp. 1-6
 
 ## Stories
 
