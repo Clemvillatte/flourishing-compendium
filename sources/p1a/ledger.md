@@ -6,6 +6,14 @@ AgentA before this ledger existed; their evidence lives in the QC log and the fi
 themselves. D087 was enriched by AgentA and repaired by genuineflourishing24 this
 session after supervisor QC flags.
 
+## D054 — Practice daily: small consistent effort compounds (done 2026-10-19)
+
+- Opened: Wilhelm/Baynes Secret of the Golden Flower, full text at archive.org (https://archive.org/stream/TheSecretOfTheGoldenFlowerByRichardWilhelmAndCarlJung/The+Secret+of+the+Golden+Flower+by+Richard+Wilhelm+and+Carl+Jung_djvu.txt)
+  - Verified verbatim: "Only after a hundred days of consistent work, only then is the Light real; only then can one begin work with the spirit-fire." (Wilhelm's commentary on section 3, near printed p. 49); "the degree of industry in work", "the degree of strength in the physical constitution", "whoever is weak and lazy will not produce it even after the hundred days" (commentary on section 8, near printed p. 70).
+  - LOCATOR NOTE: both formulations sit in Wilhelm's explanatory commentary, not the Master's main text; the page cites them as Wilhelm's explanation.
+- Opened: Legge's Tao Teh King, Gutenberg (https://www.gutenberg.org/files/216/216-h/216-h.htm) — DDJ 64 passage verified verbatim; the page quotes the tree/tower portion and paraphrases the single-step line ("the journey of a thousand li" tripped the validator's banned-phrase list, so the paraphrase avoids it).
+- Flag (advisor): the principle statement's general "compounds" claim is not established by these passages; the page's application is scoped accordingly (no ideal session length, no guaranteed results). Saturation: Habit formation, Habituation, Spiritual exercises, Technologies of the self already mention D054; no new proposals.
+
 ## A001 — Make eudaimonia the organising end of your life (done 2026-10-19)
 
 - Opened: W. D. Ross's translation of Nicomachean Ethics Book I, Internet Classics Archive, https://classics.mit.edu/Aristotle/nicomachaen.1.i.html
