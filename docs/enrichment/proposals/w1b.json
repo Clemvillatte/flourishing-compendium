@@ -23,13 +23,14 @@
   "Prosocial spending",
   "The seasons of life",
   "Apatheia",
-  "Death reflection"
+  "Death reflection",
+  "Dual-process theory"
  ],
  "flagged": {
   "Perspective-getting": "seed cites 'Epley et al., 2007' for 'asking beats perspective-taking'; no such perspective-getting paper could be found (canonical: Epley et al. 2004 anchoring; Eyal, Steffel & Epley 2018 JPSP 114(4):547-571 'Perspective mistaking'). Original line kept, prose cites the verified papers."
  },
  "missing_concepts": [],
- "sources_checked": 51,
+ "sources_checked": 53,
  "inline": [],
  "reciprocal": [
   {
@@ -891,6 +892,41 @@
    "target": "content/concepts/Prosocial spending.md",
    "concept": "Death reflection",
    "why": "the intrinsic orientation it can induce"
+  },
+  {
+   "target": "content/concepts/Cognitive defusion.md",
+   "concept": "Dual-process theory",
+   "why": "decoupling from thought, the clinical cousin"
+  },
+  {
+   "target": "content/concepts/Metacognition.md",
+   "concept": "Dual-process theory",
+   "why": "thinking about the thinking, Type 2's mirror"
+  },
+  {
+   "target": "content/concepts/Cognitive reappraisal.md",
+   "concept": "Dual-process theory",
+   "why": "slow processing applied to emotion"
+  },
+  {
+   "target": "content/concepts/Load theory of attention.md",
+   "concept": "Dual-process theory",
+   "why": "the attentional resources Type 2 draws on"
+  },
+  {
+   "target": "content/concepts/Habit.md",
+   "concept": "Dual-process theory",
+   "why": "what Type 1 serves"
+  },
+  {
+   "target": "content/concepts/Flow.md",
+   "concept": "Dual-process theory",
+   "why": "absorbed processing outside the dichotomy"
+  },
+  {
+   "target": "content/concepts/Expressive suppression versus reappraisal.md",
+   "concept": "Dual-process theory",
+   "why": "the regulation choice between the systems"
   }
  ],
  "notes": "continues after lead applied the first proposals file (moved to applied/)"
