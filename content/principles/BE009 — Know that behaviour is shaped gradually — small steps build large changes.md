@@ -22,7 +22,7 @@ Read carefully, this is a comparison of goal structures, not of step sizes: near
 
 **Plain words** Choose the final behaviour, then reward the closest thing you already do, and tighten the standard a little at a time. The goal to set is the next approximation, not the finished performance.
 
-*For example:* Push-ups starting from the knees, a run starting at one minute. The plan is not to stay there, and the plan is what matters.
+*For example:* In the compendium's hypothetical example, a learner practises more often when two minutes of practice earns a reward. Once that response occurs reliably, the requirement becomes three minutes before the same reward is given.
 
 ## Sources
 
@@ -42,4 +42,4 @@ Read carefully, this is a comparison of goal structures, not of step sizes: near
 
 ## Practice
 
-- Shape behaviour: start with small, achievable steps and gradually increase. "Walk 5 minutes" → "walk 10 minutes" → "walk 30 minutes." Do not attempt large changes immediately.
+- The compendium's exercise: choose an achievable version of your target action and specify a reward for completing it. Record whether the action becomes more frequent. Raise the requirement gradually as the earlier version becomes reliable.
