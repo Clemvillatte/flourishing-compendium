@@ -12,9 +12,11 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 18** — Practice friendliness (philia)
 
-Friendliness in social life is the mean between obsequiousness (always pleasing) and quarrelsomeness (always opposing). The friendly person is pleasant in the right way, to the right people, at the right time. Not everyone deserves the same warmth, but no one deserves contempt.
+Aristotle describes friendliness as the middle disposition between obsequiousness and quarrelsomeness, and notes it has no special name of its own; it most closely resembles friendship without affection. The friendly person takes everything in the right way not from liking or disliking the other, but from natural amiability ([NE IV.6, Rackham, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=4)).
 
-(NE IV.6.)
+> Those on the contrary who object to everything and do not care in the least what pain they cause, are called Surly or Quarrelsome. Now it is clear that the dispositions described are blameworthy, and that the middle disposition between them is praiseworthy—that is, the tendency to acquiesce in the right things, and likewise to disapprove of the right things, in the right manner.
+>
+> — Nicomachean Ethics IV.6 ([Rackham, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=4))
 
 **Plain words** Between always agreeing and always arguing there's a middle: being pleasant in the right way, with the right people, at the right moment. Not everyone gets the same warmth, but nobody gets contempt. It's a skill of reading the room without losing yourself.
 
