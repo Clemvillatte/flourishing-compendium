@@ -12,14 +12,16 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 1** — Align your life with the Dao
 
-There is a way things actually unfold: an implicit order to nature, events, and your own nature. Stop fighting it; study it, trust it, and move with it rather than against it.
+Chapter 25 of the Daodejing runs the chain upward:
 
-(DDJ 1, 25.)
+> "Man takes his law from the Earth; the Earth takes its law from Heaven; Heaven takes its law from the Tao. The law of the Tao is its being what it is."
+> (DDJ 25, [Legge's translation](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
-**Plain words** Things follow rules and patterns that we can't name or even perceive. All elements of the cosmos are determined and determining it. 
-We have no power over the way, but we can catch glimpses; we can allow the natural order to guide us, to unravel in front of us. 
+Each level takes its law from the level above, and the Dao's law is simply what it is. The compendium's practical application of that chain: your plans run inside circumstances you did not set, so study how things actually unfold before acting on them. (DDJ 1, 25.)
 
-*For example:* You can't bully a sourdough starter into rising faster — you adjust temperature and timing, and the bread works with you.
+**Plain words** Look at what a situation is doing before you decide what to do with it. What does your plan assume about the time and energy actually available? Which conditions can you change, and which must the plan accommodate? Recognising a condition is not approving it; it means you build with it instead of over it. The Daoist version of the habit names the source: the way things run was not set by you.
+
+*For example:* Suppose you schedule a writing session and then notice it overlaps a meeting. The aligned move is to decide which commitment to move before relying on the timetable.
 
 ## Stories
 
