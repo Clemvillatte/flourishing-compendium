@@ -12,13 +12,26 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 3** — Relation is primary
 
-Nothing exists independently; everything exists in, with, and through its relations. Your life is a web of transactions, not a solitary substance: act at the joints of the web.
+Nagarjuna's equation is the root: whatever is dependently co-arisen is explained to be emptiness, and what is empty exists through its relations rather than by own-being ([MMK 24:18, Garfield](https://en.wikipedia.org/wiki/M%C5%ABlamadhyamakak%C4%81rik%C4%81)). Whitehead's process metaphysics carries the same point in the doctrine the compendium files under [[Prehension]].
+
+> Whatever is dependently co-arisen
+> That is explained to be emptiness.
+> That, being a dependent designation,
+> Is itself the middle way. (MMK 24:18, [Garfield](https://en.wikipedia.org/wiki/M%C5%ABlamadhyamakak%C4%81rik%C4%81))
+
+The practical direction the principle takes from it: if things are made of relations, the lever is the relation, not the thing. The example below is the case in point, and the direction generalises to your own web of transactions.
 
 (Nagarjuna, Mulamadhyamakakarika; Whitehead's prehension — Process and Reality, 1929.)
 
-**Plain words** Nothing exists independently — everything exists in, with, and through its relations. Your life is a web of transactions, not a solitary substance. Act at the joints of the web: change the connections and you change the thing.
+**Plain words**
+Think of the last person you called lazy or difficult. The noun is the mistake: there is no lazy substance, only a person-in-arrangements that produce laziness. Rearrange the arrangements, the task, the deadline, the person they sit next to, and see whether the noun still fits. Stop editing the thing; edit its relations.
 
-*For example:* The 'bad student' who thrives under one teacher — the student never changed; a relation did.
+**For example**
+The 'bad student' who thrives under one teacher — the student never changed; a relation did.
+
+## Sources
+
+- [Mulamadhyamakakarika 24:18, Garfield translation, as quoted in Wikipedia](https://en.wikipedia.org/wiki/M%C5%ABlamadhyamakak%C4%81rik%C4%81) — verse verified verbatim
 
 ## Stories
 

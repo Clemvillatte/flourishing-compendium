@@ -144,3 +144,12 @@ Advisor QC (2026-10-19): quotes verified (BQ1 ch. 22 sentence, BQ2 ch. 68 verse 
 - Inherited, NOT opened: Singer and Klimecki 2014, Maslach claims — flagged in the band state file.
 - Saturation: Empathic distress, Karuna, K168 cite B100; Burnout, Sympathy, I and Thou do not — three reciprocal proposals added.
 - Validator: ok, prose 188 words; protected fields untouched.
+
+## P003 — Relation is primary (done; no advisor QC per speed directive, item 17)
+
+- Opened: Wikipedia's Mulamadhyamakakarika article (https://en.wikipedia.org/wiki/M%C5%ABlamadhyamakak%C4%81rik%C4%81) — NEW SOURCE (Wikipedia; compendium precedent exists); source count incremented. Verified verbatim: MMK 24:18-19 in Garfield's translation ("Whatever is dependently co-arisen / That is explained to be emptiness. / That, being a dependent designation, / Is itself the middle way.").
+- Whitehead: kept as inherited locator only (Process and Reality 1929); no new specific claims about prehension made in the body beyond the locator; flagged.
+- P003 was on the plain-words replicate list; replicate Plain words replaced.
+- Inherited, NOT opened: Coan 2011, Markus and Kitayama 1991 claims — flagged in the band state file.
+- Saturation: all five linked concepts (Social baseline, Interdependence research, Dependent origination, Prehension, Interbeing) cite P003; no justified new proposals.
+- Validator: ok, prose 162 words; protected fields untouched.
