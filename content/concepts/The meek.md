@@ -13,6 +13,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 - **inherit the earth** — Gospel of Matthew
 
+## Related concepts
+
+- [[D011]] — the meek inherit the earth by the same softness D011 recommends
+
 ## Sources
 
 - Gospel of Matthew

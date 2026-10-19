@@ -10,6 +10,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 “Sympathy” — Adam Smith, The Theory of Moral Sentiments; Adam Smith, The Theory of Moral Sentiments, opening.
 
 - Scheler, The Nature of Sympathy
+## Related concepts
+
+- [[B100]] — sympathy slides into the pity this principle warns against
+
 ## Sources
 
 - Adam Smith, The Theory of Moral Sentiments

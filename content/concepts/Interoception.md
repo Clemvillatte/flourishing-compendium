@@ -14,8 +14,9 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 - Khalsa et al., 2018
 ## Related concepts
 
-- [[Body scan in MBSR (Kabat-Zinn)]] — the body scan trains interoception region by region
 
+- [[Body scan in MBSR (Kabat-Zinn)]] — the body scan trains interoception region by region
+- [[BI053]] — interoceptive awareness is the trained sensitivity this principle asks for
 ## Sources
 
 - Seth, 2013

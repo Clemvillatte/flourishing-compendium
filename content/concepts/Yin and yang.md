@@ -19,6 +19,10 @@ Yin and yang are not a dualism of opposing forces in the Western moral sense —
 
 The practical value of yin-yang thinking is diagnostic: it trains you to ask whether a problem is one of excess or deficiency, of over-activation or stagnation, and to seek dynamic balance rather than elimination of one side. The medical texts are explicit that yin should flow smoothly and yang should vivify steadily, and that they regulate themselves so as to maintain equilibrium ([Internet Encyclopedia of Philosophy](https://iep.utm.edu/yinyang/)). For flourishing, this suggests that rest and activity, solitude and connection, and effort and ease are not opponents but complements, each meaningless without the other — and that health, whether of a body, a relationship, or a working life, is a matter of balance that must be continually re-tuned, not a state that, once achieved, stays.
 
+## Related concepts
+
+- [[P089]] — the yin-yang rhythm of activity and receptivity is the pattern the principle rides
+
 ## Sources
 
 - [Internet Encyclopedia of Philosophy — Yin and Yang](https://iep.utm.edu/yinyang/)

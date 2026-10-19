@@ -35,8 +35,9 @@ The misunderstanding to avoid is that the mean is mediocrity or moderation-for-i
 
 ## Related concepts
 
-- [[Virtue]] — each virtue as a mean between two vices
 
+- [[Virtue]] — each virtue as a mean between two vices
+- [[B084]] — antidotes are used skillfully when they hit the right excess, as this principle times it
 ## Sources
 
 - Aristotle, Nicomachean Ethics II

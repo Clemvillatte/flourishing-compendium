@@ -14,6 +14,10 @@ chronic effort-reward imbalance (Siegrist, 1996).
 
 - the demand-resources imbalance (Maslach and Leiter, 2016)
 
+## Related concepts
+
+- [[B100]] — compassion that stays free of pity avoids the helper burnout this principle's trap produces
+
 ## Sources
 
 - Maslach and Leiter, 2016

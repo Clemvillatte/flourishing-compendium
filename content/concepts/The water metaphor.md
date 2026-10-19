@@ -13,6 +13,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 - **adapt to the vessel** — Daoism, Daodejing 8
 
+## Related concepts
+
+- [[D011]] — the water's overcoming the hard is the image D011 draws on for choosing the soft
+
 ## Sources
 
 - Daoism, Daodejing 8
