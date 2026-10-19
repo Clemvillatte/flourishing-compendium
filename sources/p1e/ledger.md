@@ -510,3 +510,10 @@ Advisor QC (2026-10-19): quotes verified (BQ1 ch. 22 sentence, BQ2 ch. 68 verse 
 ## Manifest reconciliation (2026-10-20, worker-p1e-4f2c9b1d)
 
 - Per advisor instruction, compared done IDs directly with the manifest: manifest has 70 principle IDs; done has 69 unique entries, no duplicates; 68 manifest items done; CO075 and CO079 remain. The off-manifest done entry is P157 (supervisor-requested repair earlier this session, recorded in its own ledger entry) — not a manifest error. The earlier transcript reading of "64 done plus 7 remaining" was a stale in-flight count (BI072, CO006, CO065, CO073, CO074 have since closed). No totals adjusted; set equality will hold at 70/70 when CO075 and CO079 finish.
+
+## CO075 — Recognise moral cognition (done 2026-10-20 by worker-p1e-4f2c9b1d, item 26)
+
+- Opened: Haidt 2001 "The emotional dog and its rational tail" via an actual fetch (Europe PMC REST, PMID 11699120). Verified verbatim: (1) "The author gives 4 reasons for considering the hypothesis that moral reasoning does not cause moral judgment; rather, moral reasoning is usually a post hoc construction, generated after a judgment has been reached. The model is an intuitionist model in that it states that moral judgment is generally the result of quick, automatic evaluations (intuitions)."; (2) "deemphasizes the private reasoning done by individuals and emphasizes instead the importance of social and cultural influences." Sources_checked +1 (47 -> 48).
+- Honest framing per QC standards: "usually" and "generally" qualifiers preserved; the model presented as a hypothesis, not a universal finding; compendium application labelled (the intuition-test and story-tactic advice are the compendium's). "Verdict rendered in half a second" timing claim (not in the opened abstract) removed from the example; em dashes removed.
+- Inherited, NOT opened: Haidt 2012, Graham et al. 2013, Greene et al. 2001, Greene 2013, Hume/Kant framing, Adam Smith, Buddhism parallels — flagged in state.
+- Validator: ok; protected fields untouched vs HEAD.

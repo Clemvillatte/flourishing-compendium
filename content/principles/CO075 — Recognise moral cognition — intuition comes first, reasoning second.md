@@ -12,11 +12,20 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 ---
 > **Principle 75** — Recognise moral cognition: intuition comes first, reasoning second
 
-Moral judgments are typically made quickly and intuitively, and reasoning is often post-hoc (a justification after the fact). This does not mean moral reasoning is useless; it means understanding its role is important.
+The social intuitionist model of moral judgment is Jonathan Haidt's alternative to rationalist models, and its abstract states the hypothesis plainly, verbatim:
 
-**Plain words** Moral judgments are made fast and intuitively; reasoning usually arrives afterwards as the press release. This doesn't make moral reasoning useless — it means knowing its real role: intuition votes first, reasoning can inform the next vote. Argue to update intuitions, not to win the current round.
+> "The author gives 4 reasons for considering the hypothesis that moral reasoning does not cause moral judgment; rather, moral reasoning is usually a post hoc construction, generated after a judgment has been reached. The model is an intuitionist model in that it states that moral judgment is generally the result of quick, automatic evaluations (intuitions)." (Haidt, 2001, Psychological Review 108(4), 814-834, [PubMed record](https://pubmed.ncbi.nlm.nih.gov/11699120/))
 
-*For example:* The instant recoil at the "unfair" proposal — verdict rendered in half a second — and the reasoning that follows, constructed to defend it. Knowing the order, you change tactics: stories and experiences to shift the intuition, arguments for the review board.
+The model is also social, verbatim: it "deemphasizes the private reasoning done by individuals and emphasizes instead the importance of social and cultural influences." Note the shape of the claim: reasoning is usually post-hoc, not always; and this is a hypothesis about moral judgment in general, not a finding that every judgment precedes every reason. Moral reasoning is not useless; understanding its usual role is the point.
+
+**Plain words** (the compendium's application) The finding says the verdict usually comes first and the reasons after. To reconsider your own judgment, test the intuition directly rather than auditing your arguments: would I accept this if it cost me something? To change someone else's, expect their reasons to be defences, and address the intuition with examples and stories rather than counter-arguments alone.
+
+*For example:* The instant recoil at an unfair proposal, and the reasoning that follows, constructed to defend it. Knowing the order changes the tactic: examples and stories to shift the intuition, arguments for the later review.
+
+## Sources
+
+- [Haidt, "The emotional dog and its rational tail" (2001), Psychological Review 108(4), 814-834](https://pubmed.ncbi.nlm.nih.gov/11699120/) — abstract quoted verbatim; social intuitionist model
+
 ## Psychology parallels
 
 - **[[Social intuitionist model (Haidt)|Social intuitionist model (Haidt)]]**, moral intuitions come first, reasoning is post-hoc justification (Haidt, 2001, 2012)
