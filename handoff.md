@@ -32,6 +32,9 @@
   local body uses the Library renderer; internal links browse inside the panel and source
   links open separately. Back/Escape closes preview first and preserves checked selections
   and drafts. Desktop side placement/narrow overlay tested; see CONNECTION-PREVIEW-QA.md.
+- DEPLOYMENT STARVATION FIX: Pages concurrency no longer cancels the running build for
+  each new worker commit. One current run can finish while only the newest pending run
+  waits. Repeated cancellations were preventing live UI updates during dense worker pushes.
 - LATEST CHECKPOINT: Pages deployment of fb661ad6 succeeded; live randomizer controls and
   current-source B053 checked. Private attached preview is for viewing; the existing editor's
   browser-storage features require the normal site rather than its restricted preview frame.

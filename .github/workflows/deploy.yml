@@ -12,7 +12,9 @@ permissions:
 
 concurrency:
   group: pages
-  cancel-in-progress: true
+  # Workers may push seconds apart. Let the current run finish; GitHub retains
+  # only the newest pending run, so active enrichment cannot starve deployment.
+  cancel-in-progress: false
 
 jobs:
   build:
