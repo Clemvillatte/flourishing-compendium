@@ -1,7 +1,7 @@
 {
  "baton": "maintenance",
- "agent": "genuineflourishing32",
- "clocked_in": "2026-10-19T12:20:20+00:00",
+ "agent": "supervisor-193794fd",
+ "clocked_in": "2026-10-19T12:48:02+00:00",
  "takeovers": [
   {
    "by": "genuineflourishing25",
@@ -26,6 +26,12 @@
    "at": "2026-10-19T12:00:04+00:00",
    "from": "genuineflourishing26",
    "reason": "stale (36 min)"
+  },
+  {
+   "by": "supervisor-193794fd",
+   "at": "2026-10-19T12:48:02+00:00",
+   "from": "genuineflourishing32",
+   "reason": "stale (28 min)"
   }
  ],
  "released": false
