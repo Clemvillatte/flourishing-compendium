@@ -8,12 +8,24 @@ tags: ["psych/cognition", "theory"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-COGNITION"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
-deploying different frameworks by context predicts mental health (Kashdan and Rottenberg, 2010).
 
-## Facets
+Cognitive flexibility is one of the three core executive functions, alongside inhibition and working memory (Miyake et al., 2000; Diamond, 2013). It is the capacity to switch perspectives, think "outside the box", and adapt to changed circumstances; Diamond's review calls it "the opposite of rigidity", notes that it is also called set shifting or mental flexibility, and links it closely to creativity. In the laboratory it is measured with task-switching and set-shifting paradigms, the oldest being the Wisconsin Card Sorting Task, a classic test of prefrontal cortex function.
 
-- **in aging**
-- **as a core executive function**
+### Built on the other two
+
+The capacity builds on its siblings: to change perspective, we need to "inhibit (or deactivate) our previous perspective and load into WM (or activate) a different perspective" (Diamond, 2013). Its aspects run from the interpersonal, "Let me see if I can see this from your point of view," to the practical: adjusting to changed demands or priorities, admitting you were wrong, and taking advantage of sudden opportunities.
+
+Task switching improves through childhood and declines during aging (Diamond, 2013). Older adults are almost as slow on repeat trials in a mixed block as on switch trials, and they tend to recruit executive functions reactively, responding to environmental demands, where young adults work proactively.
+
+### The broader construct
+
+Above the lab tasks sits psychological flexibility, defined by Kashdan and Rottenberg as the ability to "recognize and adapt to various situational demands; shift mindsets or behavioral repertoires when these strategies compromise personal or social functioning; maintain balance among important life domains; and be aware, open, and committed to behaviors that are congruent with deeply held values" (2010). Their review argues flexibility is a fundamental aspect of health and notes that in many forms of psychopathology "these flexibility processes are absent".
+
+### In the compendium
+
+The compendium ties the concept to its loosening of fixed essences. B010, "See emptiness — nothing has a fixed essence (shunyata)," teaches exactly this looseness of category-assignment, and B121's Heart Sutra line on form and emptiness does the same. P021, "Treat ideas as tools, not mirrors," and D016's distrust of names and labels apply it to concepts. D156, "Stay flexible — rigidity is death's companion," is the Daoist version, and CO045, "Cultivate cognitive flexibility — the capacity to switch between modes," carries the term directly. PP081's psychological flexibility is the ACT cousin.
+
+The bridge is worth an essay: a 2,500-year-old claim that things lack fixed essence meets a research programme finding that rigid essence-assignment marks distress while loosening categories aids adaptation (Kashdan and Rottenberg, 2010). The resonance is a comparison, not a claim of influence.
 
 ## Other formulations in this library
 
@@ -23,11 +35,26 @@ deploying different frameworks by context predicts mental health (Kashdan and Ro
 
 - loosened essences support adaptation (Kashdan and Rottenberg, 2010)
 
+## Related concepts
+
+- [[Executive function theory Miyake]] — the factor-analytic triad this concept completes
+- [[Attentional flexibility (set-shifting)]] — the lab-task side of the same capacity
+- [[Psychological flexibility]] — the broader health construct this feeds into
+- [[Working memory capacity limits]] — the resource that holds the new perspective
+- [[Shunyata]] — the Buddhist loosening of fixed essence this research echoes
+- [[Nonattachment]] — holding views lightly, the meditative cousin
+- [[Dialectical thinking]] — switching between contradictory frames
+- [[Cognitive reappraisal]] — generating alternative interpretations is perspective-shifting in action
+- [[Flexibility as virtue]] — the ethical framing of the same capacity
+- [[Goal adjustment capacity]] — disengaging and re-engaging flexibly predicts well-being
+
 ## Sources
 
-- Kashdan and Rottenberg, 2010
+- [Diamond, A., "Executive Functions" (2013, Annual Review of Psychology; PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4084861/) — definition, components, measurement tasks, aging
+- [Kashdan, T. B. and Rottenberg, J., "Psychological flexibility as a fundamental aspect of health" (2010, Clinical Psychology Review; PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2998793/) — the broader construct and its health links
+- [Kashdan and Rottenberg, 2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC2998793/) — original citation, hyperlinked
 - Miyake et al., 2000
-- Diamond, 2013
+- [Diamond, 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC4084861/) — original citation, hyperlinked
 
 ## Cited in psychology parallels
 

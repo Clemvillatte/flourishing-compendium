@@ -1,12 +1,34 @@
 {
  "batch": "w1c",
  "done": [
-  "Anger regulation research"
+  "Anger regulation research",
+  "Cognitive flexibility"
  ],
  "flagged": {},
  "missing_concepts": [],
+<<<<<<< HEAD
  "sources_checked": 15,
  "inline": [],
+=======
+ "sources_checked": 17,
+ "inline": [
+  {
+   "into": "SE034",
+   "concept": "Amor sui (right self-love)",
+   "phrase": "implies right self-love"
+  },
+  {
+   "into": "CO013",
+   "concept": "Cognitive flexibility",
+   "phrase": "acute stress reduces cognitive flexibility and working memory"
+  },
+  {
+   "into": "CO — Cognition",
+   "concept": "Cognitive flexibility",
+   "phrase": "Cognitive flexibility"
+  }
+ ],
+>>>>>>> ee904f9 (enrich: Cognitive flexibility (w1c))
  "reciprocal": [
   {
    "into": "Conatus",
@@ -37,6 +59,56 @@
    "into": "Anger examined early",
    "link": "Anger regulation research",
    "why": "the Stoic-style timing insight that matches early intervention"
+  },
+  {
+   "into": "Executive function theory Miyake",
+   "link": "Cognitive flexibility",
+   "why": "the shifting factor in the triad, made concrete"
+  },
+  {
+   "into": "Attentional flexibility (set-shifting)",
+   "link": "Cognitive flexibility",
+   "why": "the executive-function construct behind the lab tasks"
+  },
+  {
+   "into": "Psychological flexibility",
+   "link": "Cognitive flexibility",
+   "why": "the lab-measured capacity underneath the broader health construct"
+  },
+  {
+   "into": "Working memory capacity limits",
+   "link": "Cognitive flexibility",
+   "why": "flexibility loads its new perspectives into working memory"
+  },
+  {
+   "into": "Shunyata",
+   "link": "Cognitive flexibility",
+   "why": "the research echo of loosening fixed essences"
+  },
+  {
+   "into": "Nonattachment",
+   "link": "Cognitive flexibility",
+   "why": "holding views lightly, the meditative cousin"
+  },
+  {
+   "into": "Dialectical thinking",
+   "link": "Cognitive flexibility",
+   "why": "switching between contradictory frames draws on this capacity"
+  },
+  {
+   "into": "Cognitive reappraisal",
+   "link": "Cognitive flexibility",
+   "why": "generating alternative interpretations is perspective-shifting in action"
+  },
+  {
+   "into": "Flexibility as virtue",
+   "link": "Cognitive flexibility",
+   "why": "the ethical framing of the capacity the research measures"
+  },
+  {
+   "into": "Goal adjustment capacity",
+   "link": "Cognitive flexibility",
+   "why": "disengaging and re-engaging flexibly, applied to goals"
   }
  ],
  "notes": "First concept: Amor sui (right self-love). All 12 original links preserved. Facets section (vs self-contempt) folded into prose. Definition quote is Ethics IIIp55 scholium (verified against Gutenberg Elwes text); rational demand is IVp18 scholium. Related-clause support sources (SEP Rousseau/Nietzsche/Stoicism, Wikipedia self-compassion) listed in the page's Sources section. | deferred at this run (target band busy): 6 recip, 0 inline"
