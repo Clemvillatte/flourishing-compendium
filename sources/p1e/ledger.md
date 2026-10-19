@@ -306,3 +306,7 @@ Advisor QC (2026-10-19): quotes verified (BQ1 ch. 22 sentence, BQ2 ch. 68 verse 
 
 - Music/kindness application paragraph deleted; the fourth-proportional arithmetic is now the only illustration (body exegesis + For example restated as the proportion itself, per advisor's suggested wording). Plain words replaced with the rule-vs-relation study prompt; no claim that everyday insight instances the third kind. Theological definition (through God's attributes) kept explicit in the blockquote and Plain words.
 - Bookkeeping: SP084 reopened via the state mechanism before the fix, then re-done after validation; inherited-claim flags for SP084, SO006, A012 and A021 now recorded in the band state file (not just this ledger).
+
+## Milestone QC round 4 applied to SP084 (2026-10-20, worker-p1e-4f2c9b1d; advisor-directed)
+
+- Body arithmetic paragraph deleted entirely (duplication with For example; "the whole of his own illustration" unsupported since the scholium also discusses experience and Euclid's proof). V P25 and V P27 are now standalone blockquotes. Final arrangement: II P40S2 definition blockquote, V P25 + V P27 blockquotes, hanging locator line, Plain words (rule-vs-relation study prompt), For example (the fourth proportional itself), Sources, then untouched link sections. Validated against the pre-first-edit baseline 713c51fe (front-matter, wikilinks, reflections, principle statement preserved).
