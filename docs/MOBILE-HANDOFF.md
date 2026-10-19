@@ -42,3 +42,12 @@ The site (https://clemvillatte.github.io/flourishing-compendium/) works on deskt
 - graph.js drawer markup: .gdrawer-head (kicker + gdClose + gdTitle + gdDeg), .gdrawer-body, .gdrawer-foot (gdConnectBtn, gdOpenBtn, gdCenterBtn). Any new collapse toggle must not break gdClose.
 - body classes drive view visibility — mobile CSS should key off the same classes, plus a `body.fc-mobile` class or matchMedia inline.
 - Don't touch: research panel (extras.js, Pollinations — known hallucination issue, user aware), build.py, content/*.
+
+
+## Round 2 (user feedback fixes) — all deployed & QA-verified
+- Academy was unreachable FROM THE GRAPH view: the academy-local switchView hijack (app.js ~line 2712) removed rand/wiki body classes but not 'graph-mode', so both views stayed visible. Fixed (both academy and gallery branches now remove graph-mode).
+- Graph "can't touch anything / particle accelerator": the mobile .graph-top strip (absolute, full-width) had default pointer-events and swallowed touches near the top. Fixed: .graph-top pointer-events:none, .graph-controls auto (≤820px CSS).
+- Graph speed on phones: warmup ticks 900 on ≤820px (1600 on desktop) — arrange ~44% faster. Render loop was already optimized (needsRender gating, viewport culling, node sprites, DPR cap 2, low-zoom edge gating). Data payload is 2MB gzipped — the remaining cost is physics + 4.3k nodes; that's the honest limit without deeper work.
+- Randomiser minimal on phone: round gold star-icon draw button (SVG in #drawBtn, label hidden ≤820px), prev/next/today hidden, card eyebrow + pool position hidden, research rail hidden on mobile.
+- Library: Browse sheet now has #libSectionSelect — a dropdown of every section built from the tree (.trow elements), picking one clicks the tree row (works though the tree is hidden). listMeta and #fcNewBtn hidden on mobile. Sheet has bottom padding so the tab bar doesn't cover the last row.
+- QA pattern for Academy: use tab clicks (document.getElementById('tabAcademy').click()), NOT fcSwitchView — only the tab listener calls the academy hijack that renders.
