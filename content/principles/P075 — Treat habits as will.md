@@ -12,13 +12,15 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 75** — Treat habits as will
 
-In the main, will is the organized system of habits: what you will do is what your habits dispose you to do. Build the habit and you have built the will.
+Dewey's claim in Human Nature and Conduct is not that habits are useful tools for a will that exists separately. It is the reverse: habits constitute the self, and in any intelligible sense of the word will, they are will. They form our effective desires and furnish our working capacities; they rule our thoughts, determining which items are attended to and which are dismissed ([Dewey 1922, Part 1 §2, Mead Project](https://brocku.ca/MeadProject/Dewey/Dewey_1922/Dewey1922_03.html)). The general conscious choice — the resolution, the vow — is the vague part; the habit is the fundamental part.
 
-(Dewey, Human Nature and Conduct, 1922.)
+The consequence for practice is direct: if you want to change what someone will do, you change the objective conditions that enter into their habits, not just their stated intentions ([Dewey 1922, Part 1 §1, Mead Project](https://brocku.ca/MeadProject/Dewey/Dewey_1922/Dewey1922_02.html)). This applies to yourself. The resolution is not the will; the environment that makes the desired act the path of least resistance is the will.
 
-**Plain words** In the main, will is the organized system of habits — what you will do is what your habits dispose you to do. Build the habit and you have built the will. Hoping to be the kind of person who reads? Books by the bed. That's the whole spell.
+> "All habits are demands for certain kinds of activity; and they constitute the self. In any intelligible sense of the word will, they are will. They form our effective desires and they furnish us with our working capacities." (John Dewey, Human Nature and Conduct, 1922, Part 1 §2, [Mead Project](https://brocku.ca/MeadProject/Dewey/Dewey_1922/Dewey1922_03.html))
 
-*For example:* 'I will definitely exercise tomorrow' — a wish. Shoes by the door at the same hour daily for three weeks — a will. The second one exists.
+**Plain words** A resolution is a sentence you said to yourself once. A habit is what your body does on the twenty-third morning when no one is watching and you would rather not. Dewey's claim is that the second one is the actual will — the first is just a description you made in advance. If you want to be someone who reads, you do not need a stronger intention; you need books where you sit and a phone that is already somewhere else. The intention is the vague part. The habit is the fundamental part.
+
+*For example:* Two people both decide to run. One states the goal clearly and buys gear. The other puts the shoes by the door and the phone charger in another room. A month later, only one of them is still running. Same goal, different theory of where the will actually lives.
 
 ## Stories
 
