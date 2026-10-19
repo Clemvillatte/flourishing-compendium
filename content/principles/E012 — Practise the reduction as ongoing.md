@@ -16,7 +16,7 @@ Husserl's reduction turns inquiry towards how the world is experienced. Bracketi
 
 > "We do not give up the positing we effected" (Ideas I §31, trans. F. Kersten, p. 59, [UCL extracts](https://www.homepages.ucl.ac.uk/~uctysar/Husserl%20I-C%20lects%20-%20Ideas%20extracts.htm)).
 
-Husserl repeatedly caught himself returning to the natural attitude: simply accepting the world as given. Robert D. Walsh reads these returns as grounds for renewed practice, while acknowledging Husserl's demand for a change of attitude "once and for all" ([Walsh, pp. 212–214, 217](https://journals.ku.edu/auslegung/article/download/12981/12277/25612)).
+Husserl repeatedly caught himself returning to the natural attitude: simply accepting the world as given. Robert D. Walsh reads these returns as grounds for renewed practice, quoting Husserl's demand for a change of attitude "once and for all" ([Walsh, pp. 212–214, 217](https://journals.ku.edu/auslegung/article/download/12981/12277/25612)).
 
 (Husserl, 1954/1970, The Crisis, §§35-38, 71; Husserl, 1913/1982, Ideas I, §§31-33.)
 
