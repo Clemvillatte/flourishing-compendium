@@ -12,13 +12,20 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 66** — Be a friend to yourself first
 
-The foundation of friendship is the relationship one has with oneself. The good person is their own best friend: they are at one with themselves, approve of themselves, and take pleasure in their own company. A bad person is at war with themselves. Work on self-friendship as the condition of all other friendship.
+Aristotle's argument runs through the attributes of friendship. The good person "is of one mind with himself, and desires the same things with all his soul", and works out the good for the sake of "the rational part of him, which seems to be a man's self." The reverse holds: "he who is not good has no friendly feelings even for himself, as there is nothing lovable in him."
 
-(NE IX.4, IX.8.)
+> "All these characteristics are found in the highest degree in a man's relations to himself; for he is his own best friend: and so he must love himself better than anyone else." (Aristotle, Nicomachean Ethics IX.8, [Peters trans., Standard Ebooks](https://standardebooks.org/ebooks/aristotle/nicomachean-ethics/f-h-peters/text/book-9))
 
-**Plain words** Friendship starts with how you treat yourself. Aristotle says the good person is at peace with themselves and enjoys their own company. A person at war with themselves finds it hard to befriend anyone. Work on that first.
+The compendium applies the argument to the self-criticism habit: Aristotle's self-friendship is not self-esteem but inner agreement, the absence of a war between the parts.
 
-*For example:* Someone who can spend an evening alone without restlessness or self-criticism is usually easier company for others.
+**Plain words**
+The claim is structural, not a mood: friendship needs wishing-good, and the good person can wish themselves good without conflict, because the parts of them want the same things. A person at war with themselves cannot give friendship its first gift. The evening alone is the diagnostic: what the internal conversation sounds like when nobody is watching.
+
+*For example:* Suppose someone who can spend an evening alone without restlessness or self-criticism. As a modern application, the page's reading is that the internal conversation is the first friendship, and the evening is where you hear it.
+
+## Sources
+
+- [Aristotle, Nicomachean Ethics, Book IX (Peters translation, Standard Ebooks)](https://standardebooks.org/ebooks/aristotle/nicomachean-ethics/f-h-peters/text/book-9)
 
 ## Practice kernels
 

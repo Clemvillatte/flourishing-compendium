@@ -405,3 +405,10 @@ copied from the opened URL in this session.
   2011; committed-action section fetched verbatim). Seed locator cited the book;
   the opened source is the same authors' 2011 Behavior Therapy article. Validated
   vs HEAD (pre-item).
+
+## A066 — Be a friend to yourself first (Aristotle, NE IX)
+
+- Opened: https://standardebooks.org/ebooks/aristotle/nicomachean-ethics/f-h-peters/text/book-9
+  (Peters translation; IX.4 one-mind passage, bad-man passage, and IX.8 own-best-friend
+  sentence fetched verbatim). Seed locators NE IX.4/IX.8 both covered. Validated vs
+  HEAD (pre-item).
