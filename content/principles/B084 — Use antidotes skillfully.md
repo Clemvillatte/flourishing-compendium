@@ -12,13 +12,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 84** — Use antidotes skillfully
 
-Each mental pattern has its counter: greed meets contentment, anger meets patience, restlessness meets calm, doubt meets inquiry. Apply the right antidote like a physician, not a moralist.
+MN 20 is the manual of the practice: five ways to handle unskillful thoughts when they arise while attending to a theme, the first of which is to attend to a different theme, connected with what is skillful ([MN 20, Thanissaro](https://www.accesstoinsight.org/tipitaka/mn/mn.020.than.html)). The sutta's image is a craftsman's, not a judge's:
+
+> Just as a skilled carpenter or his apprentice would use a small peg to knock out, drive out, and pull out a large one; in the same way, if evil, unskillful thoughts — imbued with desire, aversion, or delusion — arise in a monk while he is referring to and attending to a particular theme, he should attend to another theme, apart from that one, connected with what is skillful. (MN 20, [Thanissaro](https://www.accesstoinsight.org/tipitaka/mn/mn.020.than.html))
+
+The tradition pairs each hindrance with its counter: greed meets contentment, anger meets patience, restlessness meets calm, doubt meets inquiry. The sutta's own methods escalate — attend to another theme, scrutinize the drawbacks, pay no mind, relax the thought-fabrication, and only then beat the mind down ([MN 20, Thanissaro](https://www.accesstoinsight.org/tipitaka/mn/mn.020.than.html)). The principle takes the craftsman's specificity: apply the counter that fits the condition, like a physician prescribing rather than a moralist judging.
 
 (MN 20; the five antidotes tradition.)
 
-**Plain words** Each mental pattern has its counter: greed meets contentment, anger meets patience, restlessness meets calm, doubt meets inquiry. Apply the right antidote like a physician, not a moralist — you're prescribing for a condition, not judging a patient.
+**Plain words**
+A restless afternoon is a condition, and conditions have counters; a moralist asks what is wrong with you, a physician asks what the condition needs. The counters are ordinary: restlessness gets a walk, anger gets a pause, craving gets a delay. Match the remedy to the state rather than judging the state.
 
-*For example:* The 4pm doom-scroll: it's not a character flaw, it's restlessness — prescribe the walk, not the guilt.
+**For example**
+The 4pm doom-scroll reads as restlessness, and restlessness has a counter: the walk. The guilt was never a treatment.
+
+## Sources
+
+- [Vitakkasanthana Sutta (MN 20), Thanissaro Bhikkhu translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.020.than.html) — carpenter simile verified verbatim
 
 ## Psychology parallels
 

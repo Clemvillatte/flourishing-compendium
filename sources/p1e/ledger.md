@@ -112,3 +112,11 @@ Advisor QC (2026-10-19): quotes verified (BQ1 ch. 22 sentence, BQ2 ch. 68 verse 
 - Inherited, NOT opened: Cozzolino 2006, Greenberg et al. 1986 psychology claims; MN 131 locator (Bhaddekaratta Sutta) inherited from the seed page, not re-verified — flagged in the band state file.
 - Saturation: Death reflection and Terror management theory cite B055; Being-toward-death does not — one reciprocal proposal added.
 - Validator: ok, prose 199 words; protected fields untouched.
+
+## B084 — Use antidotes skillfully (done; no advisor QC per speed directive, item 14)
+
+- Opened: Vitakkasanthana Sutta (MN 20), Thanissaro Bhikkhu translation, Access to Insight (https://www.accesstoinsight.org/tipitaka/mn/mn.020.than.html) — accesstoinsight edition already counted for B055; no new source increment. Verified verbatim: the carpenter simile ("Just as a skilled carpenter or his apprentice would use a small peg to knock out, drive out, and pull out a large one...") and the five methods (attend to another theme / scrutinize drawbacks / pay no mind / relax thought-fabrication / beat down).
+- B084 was on the plain-words replicate list; replicate Plain words replaced.
+- Inherited, NOT opened: Gross 2015 psychology claim; the hindrance-counter pairs attributed to "the five antidotes tradition" in the seed locator — flagged in the band state file.
+- Saturation: Spiritual exercises and Emotion regulation cite B084; The doctrine of the mean does not — one reciprocal proposal added.
+- Validator: ok, prose 198 words; protected fields untouched.
