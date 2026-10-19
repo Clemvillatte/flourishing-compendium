@@ -407,3 +407,10 @@ Advisor QC (2026-10-19): quotes verified (BQ1 ch. 22 sentence, BQ2 ch. 68 verse 
 ## AT064 QC closure (2026-10-20, worker-p1e-4f2c9b1d)
 
 - Applied the advisor's literal fix to the Sources entry (replication wording now matches the body's evidential limit). Validator: ok. Advisor conditional PASS confirmed on this exact correction; no other content changed this round. Marking done. Inherited parallels (Forster & Lavie 2008, Leroy 2009, Monsell 2003, Politics/Daodejing/Weil) remain flagged as unverified.
+
+## BE009 — Know that behaviour is shaped gradually (done 2026-10-20 by worker-p1e-4f2c9b1d, item 16)
+
+- Opened: Bandura and Schunk 1981 abstract via an actual fetch of the Digital Greensboro library record PDF (https://www.digitalgreensboro.org/record/8817?v=pdf). Verified verbatim: "Under proximal subgoals, children progressed rapidly in self-directed learning, achieved substantial mastery of mathematical operations, and developed a sense of personal efficacy and intrinsic interest in arithmetic activities that initially held little attraction for them. Distal goals had no demonstrable effects." Sources_checked +1 (34 -> 35).
+- Body framed as goal-structure comparison per QC standards (not step-size claims); compendium application labelled; limits sentence included. Plain words de-duplicated from body, em dashes removed; example em dash removed.
+- Inherited, NOT opened: Skinner 1953, Ferster & Skinner 1957, Beck 1976, Laozi/Daodejing 64, Gradual Training Sutta, Aristotle NE II parallels — flagged in state.
+- Validator: ok; protected fields untouched vs HEAD.
