@@ -12,13 +12,33 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 151** — Keep individuating: never settle into a final form
 
-Becoming an individual is a lifelong, never-completed process of differentiation and integration. Each stage solves problems and creates new ones — keep going.
+Simondon refuses to look for the person in the finished product. The principle of individuation:
+
+> "The true principle of individuation can neither be sought in what exists before the individuation occurs, nor in what remains after the individuation is accomplished" (Simondon, [Adkins translation](https://topologicalmedialab.net/xinwei/classes/readings/Simondon/Physico-BiologicalGenesisIndiv.pdf))
+
+What it is instead:
+
+> "The true principle of individuation is the genesis itself taking place, i.e. the system in becoming, as its energy self-actualizes." (Simondon)
+>
+> "The principle of individuation is an operation." (Simondon)
+
+And for the living being the operation runs on two axes:
+
+> "The principle of individuation of the living is always an operation, like the capture of technical Form, but this operation is of two dimensions, that of simultaneity, and that of succession, through an ontogenesis supported by memory and instinct." (Simondon)
+
+The succession dimension is the principle's ground: the living being's individuation has a time-axis, so no stage of it is the operation completed. The compendium's reading of "never settle into a final form" follows: an identity is a phase of the operation, not its outcome.
 
 (Simondon, L'individuation, 1958.)
 
-**Plain words** You're not climbing toward a final form; you're molting, repeatedly, on no announced schedule. Individuation is a lifelong, never-completed process — each stage solves problems and creates new ones.
+**Plain words**
+The molting picture is close: identities fit, then chafe, then get replaced, and the replacement is not a failure of the previous one but its completion. Simondon's ground is the succession dimension: for the living, what you are is what is still happening, not what has finished. The practical test: when an identity stops solving the problems it was built to solve, the operation is asking for the next stage, not for better maintenance of this one.
 
-*For example:* The identity you built at thirty to escape your twenties — it fits perfectly at thirty-five and starts chafing at forty. Not failure. The next stage, knocking.
+**For example**
+The identity you built at thirty to escape your twenties fits at thirty-five and starts chafing at forty. That chafing is not failure; on this account it is the succession dimension showing up as discomfort.
+
+## Sources
+
+- [Gilbert Simondon, L'individu et sa genèse physico-biologique (1964), trans. Taylor Adkins, "Physico-Biological Genesis of the Individual" (Topological Media Lab PDF)](https://topologicalmedialab.net/xinwei/classes/readings/Simondon/Physico-BiologicalGenesisIndiv.pdf) — all four quoted passages
 
 ## Psychology parallels
 
