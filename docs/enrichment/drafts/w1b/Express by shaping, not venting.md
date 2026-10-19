@@ -6,7 +6,11 @@ Expression requires a medium and work on it. Dewey's own line: "where there is n
 
 ### What the lab found
 
-One experimental comparison is instructive rather than decisive. In Bushman's study, 600 college students were angered by a supposed fellow participant's insulting feedback on their essay, then assigned to one of three conditions. Two groups hit a punching bag — one while thinking of the person who had angered them, one while thinking about becoming physically fit — and the control group sat quietly. When later given the chance to deliver noise blasts to the provoker, the rumination group was the angriest and most aggressive, and the control group the least: "Rumination increased rather than decreased anger and aggression. Doing nothing at all was more effective than venting anger. These results directly contradict catharsis theory" ([Bushman 2002, PSPB](https://faculty.washington.edu/jdb/345/345%20Articles/bushman(2002).pdf)). The experiment shows what venting did not do in one paradigm; it does not by itself establish the benefits of Deweyan shaping.
+One experimental comparison is instructive rather than decisive. In Bushman's study, 600 college students were angered by a supposed fellow participant's insulting feedback on their essay, then assigned to one of three conditions: hitting a punching bag while thinking of the person who had angered them, hitting it while thinking about becoming physically fit, or sitting quietly as a control ([Bushman 2002, PSPB](https://faculty.washington.edu/jdb/345/345%20Articles/bushman(2002).pdf)).
+
+When later given the chance to deliver noise blasts to the provoker, the rumination group was the angriest and most aggressive, and the control group the least: "Rumination increased rather than decreased anger and aggression. Doing nothing at all was more effective than venting anger. These results directly contradict catharsis theory" ([Bushman 2002](https://faculty.washington.edu/jdb/345/345%20Articles/bushman(2002).pdf)).
+
+The experiment shows what venting did not do in one paradigm; it does not by itself establish the benefits of Deweyan shaping.
 
 ### In the compendium
 
@@ -27,5 +31,6 @@ P113 carries the concept directly. The practices that shape rather than vent: K2
 
 - [SEP, "Dewey's Aesthetics" (Tom Leddy & Kalle Puolakka)](https://plato.stanford.edu/entries/dewey-aesthetics/)
 - [Brad J. Bushman, "Does Venting Anger Feed or Extinguish the Flame? Catharsis, Rumination, Distraction, Anger, and Aggressive Responding," PSPB 28(6), 2002, full text PDF](https://faculty.washington.edu/jdb/345/345%20Articles/bushman(2002).pdf)
+
 
 

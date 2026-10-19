@@ -54,7 +54,7 @@ Biophysiological · Psychological science
 [[BE048 — Learn to use the dive reflex — cold water for acute distress]]
 ## Cited in philosophy parallels
 
-**Vagal tone theory** — Porges — resting vagal tone is a physiological index of self-regulation and social engagement capacity.
+**Vagal tone theory** (Porges) — a related theory the compendium pairs with this one, proposing resting vagal tone as an index of self-regulation and social engagement capacity.
 - [[D143 — Breathe like a baby]]
 - [[D144 — Breathe from the heels]]
 - [[B038 — Practice mindfulness of breathing (anapanasati)]]
