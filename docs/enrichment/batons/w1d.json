@@ -1,13 +1,20 @@
 {
  "baton": "w1d",
  "agent": "Agent D (Computer)",
- "clocked_in": "2026-10-19T08:12:44+00:00",
+ "clocked_in": "2026-10-19T08:43:16+00:00",
  "takeovers": [
   {
    "by": "Agent D (Computer)",
    "at": "2026-10-19T07:59:37+00:00",
    "from": null,
    "reason": "free"
+  },
+  {
+   "by": "Agent D (Computer)",
+   "at": "2026-10-19T08:43:16+00:00",
+   "from": "Agent D (Computer)",
+   "reason": "stale (31 min)"
   }
- ]
+ ],
+ "released": false
 }
