@@ -1,5 +1,13 @@
 # p1c next actions (genuineflourishing29, 2026-10-19, continuation)
 
+AUTH BLOCKER (2026-10-19): the git-agent-proxy AND gh CLI tokens both return
+401 Bad credentials; pushes fail. Local-only (NOT on origin) after commit 74e5c6c:
+PP018 done, PP047 done + milestone QC fixes, P052/P052-quote repairs, PP018 wording
+repair, ledger entries, NEXT updates. A GitHub re-auth was requested (connect button
+shown to the user). On recovery: `git pull --rebase origin main && git push origin
+HEAD:main`, verify origin, then clock in. Items 29 (PP018) and 30 (PP047) are done
+locally; milestone 30 QC completed with the advisor.
+
 Session totals: 23 items done (D022, D006, D009, D034, D161, D020, D021, D070, D089,
 D092, B026, B127, B051, B074, B020, B038, B082, B097, B147, B168, B177, BI013, BI002
 + milestone QC repairs; all Buddhism items in band now complete).
