@@ -8,7 +8,8 @@
   "Care",
   "Gratitude",
   "Acceptance",
-  "Mindfulness"
+  "Mindfulness",
+  "Humility"
  ],
  "in_progress": null,
  "flagged": {
@@ -16,6 +17,6 @@
   "Care": "QC corrections applied 2026-10-19 (Noddings sourcing fixed, Heidegger ontological/ethical distinction added, seed-line sentence removed, limit question added)"
  },
  "missing_concepts": [],
- "sources_checked": 7,
- "updated": "2026-10-19T12:32:24+00:00"
+ "sources_checked": 8,
+ "updated": "2026-10-19T12:35:18+00:00"
 }

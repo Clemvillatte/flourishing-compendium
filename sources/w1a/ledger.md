@@ -15,3 +15,12 @@
   - Verified verbatim: "There is nothing particularly Buddhist about it. We are all mindful to one degree or another, moment by moment. It is an inherent human capacity."; MBSR 1979 UMass design passages ("not to teach Buddhism", "faithful in both spirit and substance to the universal dharma dimension"); satipatthana/anapanasati foundation passages; nonharming ethical framework.
   - The page's other seed citations (Kabat-Zinn 1990; Amel 2009; Lutz 2008; Neff 2003/2011; Baer 2006; Hofmann 2010; Zeidan 2010; Kabat-Zinn 1982; Kuyken 2016; Bowen 2011) were NOT opened this item; kept as inherited lines in Sources, unquoted.
 - Saturation: 2 phrase-safe inline proposals; Related list 8; R063/E001/R123 cited-in links preserved.
+
+## Humility (done 2026-10-19)
+
+- Opened: Michalec, Papanagnou, Raj, Lundgren, Watkins, Marsick, Ziring & Vaid, "Exploring the presence and roles of humility when experiencing situations of uncertainty", AEM Education and Training, 2025, PMC full text, https://pmc.ncbi.nlm.nih.gov/articles/PMC11745895/
+  - Verified verbatim (blockquote): Tangney 2000 key-elements passage (pp. 73-74), quoted verbatim inside this article; blockquote carries the "as quoted verbatim in Michalec et al. 2025" citation so provenance is transparent.
+  - The PMC article's own one-sentence definition of humility also matches the construct.
+  - NOT opened this item: Owens et al. 2013 (kept as inherited seed line, unquoted); Aquinas ST II-II q.161 (inherited); Tangney 2000 original article not directly opened, quote taken from the secondary with citation.
+- Saturation: 2 phrase-safe inline proposals (A015 "a humility that is accurate", A025 "and from humility"); Related list 6; all cited-in links preserved.
+- Agent note: last item before this agent's shutdown; page validated (prose 168 words); band handed off.
