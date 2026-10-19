@@ -20,19 +20,19 @@ And then the union, which is the principle's whole claim:
 
 > "The union of the hazardous and the stable, of the incomplete and the recurrent, is the condition of all experienced satisfaction as truly as of our predicaments and problems. While it is the source of ignorance, error and failure of expectation, it is the source of the delight which fulfillments bring." (Dewey, Experience and Nature, ch. II)
 
-Dewey continues the passage with the counterfactual: "if there were nothing in the way, if there were no deviations and resistances, fulfillment would be at once, and in so being would fulfill nothing". The page's Limits line already carries the scope: this is a framing of experienced things, not a metaphysical claim about ultimate reality. What the union passage adds is the reason the practice section holds: the same mixture that defeats expectations is what makes fulfillment felt at all.
+Dewey continues the passage with the counterfactual: "if there were nothing in the way, if there were no deviations and resistances, fulfillment would be at once, and in so being would fulfill nothing". The page's budgeting exercise is one application of holding both halves at the scale of a plan; Dewey's book itself is a work of empirical naturalism making claims about experience and nature at large, not a planning manual.
 
 (Dewey, Experience and Nature, 1925.)
 
 **Plain words**
-The budgeting error the principle names: saving as if nothing can change, or spending as if nothing can break, each one half of the world. The practice is holding both halves in one plan: the recurring paycheck and the industry that can turn. Ask of any plan what it assumes about change, and then ask what the other assumption would cost.
+The budgeting application: imagine a budget built around a regular income, and ask what changes if the income stops. The passages above say the mixture of hazardous and stable conditions both satisfactions and predicaments; the planning question is which half a given assumption leans on.
 
 **For example**
-The budget with a stable paycheck and a precarious industry: the person who saves like the job could vanish and lives like the sun will rise is planning with both halves. The one who assumes only one half gets surprised by the other.
+A household budget might treat rent as recurring and a freelance income as uncertain: ask of each line what would happen if its assumption flipped, and notice which lines have a fallback.
 
 ## Sources
 
-- [John Dewey, Experience and Nature (1925; full text, archive.org)](https://archive.org/stream/experienceandnat029343mbp/experienceandnat029343mbp_djvu.txt) — ch. II (all three quoted fragments; the archive text is OCR and carries the hyphenation artifacts noted in the ledger)
+- [John Dewey, Experience and Nature (1929 revised edition; full text, archive.org)](https://archive.org/stream/experienceandnat029343mbp/experienceandnat029343mbp_djvu.txt) — ch. II (all three quoted fragments)
 
 ## Psychology parallels
 

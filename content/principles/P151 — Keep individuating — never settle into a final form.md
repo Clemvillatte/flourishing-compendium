@@ -12,33 +12,25 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 151** — Keep individuating: never settle into a final form
 
-Simondon refuses to look for the person in the finished product. The principle of individuation:
+Simondon's account locates the principle of individuation in the formative operation rather than in its result, and its subject matter is individuation generally, not only persons:
 
 > "The true principle of individuation can neither be sought in what exists before the individuation occurs, nor in what remains after the individuation is accomplished" (Simondon, [Adkins translation](https://topologicalmedialab.net/xinwei/classes/readings/Simondon/Physico-BiologicalGenesisIndiv.pdf))
 
-What it is instead:
+> "The principle of individuation of the living is always an operation, like the capture of technical Form, but this operation is of two dimensions, that of simultaneity, and that of succession, through an ontogenesis supported by memory and instinct." (Simondon, "The Conditions of Individuation")
 
-> "The true principle of individuation is the genesis itself taking place, i.e. the system in becoming, as its energy self-actualizes." (Simondon)
->
-> "The principle of individuation is an operation." (Simondon)
-
-And for the living being the operation runs on two axes:
-
-> "The principle of individuation of the living is always an operation, like the capture of technical Form, but this operation is of two dimensions, that of simultaneity, and that of succession, through an ontogenesis supported by memory and instinct." (Simondon)
-
-The succession dimension is the principle's ground: the living being's individuation has a time-axis, so no stage of it is the operation completed. The compendium's reading of "never settle into a final form" follows: an identity is a phase of the operation, not its outcome.
+For the living being, the operation has a temporal dimension. The opened passages establish that much: individuation in living beings is an operation with a succession aspect, not only a completed outcome.
 
 (Simondon, L'individuation, 1958.)
 
 **Plain words**
-The molting picture is close: identities fit, then chafe, then get replaced, and the replacement is not a failure of the previous one but its completion. Simondon's ground is the succession dimension: for the living, what you are is what is still happening, not what has finished. The practical test: when an identity stops solving the problems it was built to solve, the operation is asking for the next stage, not for better maintenance of this one.
+A practical application of the temporal aspect: ask whether an established identity or role still fits changed circumstances. The passages above do not say how long individuation lasts or what discomfort signifies; they say the living being's individuation is an operation with succession in it.
 
 **For example**
-The identity you built at thirty to escape your twenties fits at thirty-five and starts chafing at forty. That chafing is not failure; on this account it is the succession dimension showing up as discomfort.
+Imagine someone whose role was built around circumstances that have since changed. The question the principle suggests is whether the role still fits, rather than assuming it must be kept or must be replaced.
 
 ## Sources
 
-- [Gilbert Simondon, L'individu et sa genèse physico-biologique (1964), trans. Taylor Adkins, "Physico-Biological Genesis of the Individual" (Topological Media Lab PDF)](https://topologicalmedialab.net/xinwei/classes/readings/Simondon/Physico-BiologicalGenesisIndiv.pdf) — all four quoted passages
+- [Gilbert Simondon, L'individu et sa genèse physico-biologique (1964), trans. Taylor Adkins, "Physico-Biological Genesis of the Individual" (Topological Media Lab PDF)](https://topologicalmedialab.net/xinwei/classes/readings/Simondon/Physico-BiologicalGenesisIndiv.pdf) — both blockquotes from the section "The Conditions of Individuation"
 
 ## Psychology parallels
 

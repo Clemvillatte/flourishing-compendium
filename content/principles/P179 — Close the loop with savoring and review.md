@@ -12,23 +12,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 179** — Close the loop with savoring and review
 
-Dewey's How We Think names the second half of experience and defines it:
+Dewey's How We Think defines reflective thought:
 
 > "Active, persistent, and careful consideration of any belief or supposed form of knowledge in the light of the grounds that support it, and the further conclusions to which it tends, constitutes reflective thought." (Dewey, How We Think, ch. 1, [1910 text](https://www.gutenberg.org/cache/epub/37423/pg37423.txt))
 
-His reason for giving it the whole book:
+And gives it the book's central place:
 
 > "This process is called reflective thought; it alone is truly educative in value, and it forms, accordingly, the principal subject of this volume." (Dewey, How We Think, ch. 1)
 
-On Dewey's account, the lived experience alone does not settle what it teaches: the value is added when the grounds and consequences are deliberately examined. The compendium's savoring half extends the same return-trip to the good, and the kernels below (K157 evening review, K240 weekly review) are the practice; the savoring evidence sits in the parallels (Bryant and Veroff, 2007).
+On Dewey's definition, the review the page's kernels train (K157 evening review, K240 weekly review) is consideration of this kind: grounds and consequences deliberately examined rather than left to memory. The savoring half is an application in the same spirit — examining a good experience's grounds and what it leads toward — and the savoring citation in the parallels (Bryant and Veroff, 2007) is inherited, not verified here.
 
 (Dewey, How We Think, 1910; savoring research.)
 
 **Plain words**
-An event ends twice: once when it stops happening, once when you stop looking at it. The looking-back is Dewey's examination of grounds and consequences, and it is where the event becomes usable rather than merely past. The evening review asks what happened, what supported it, and what it leads to. A good day left unexamined stays a pleasant memory; examined, it becomes instructions.
+Dewey's definition applied to a day: take a conclusion drawn from an event and ask what grounds support it and what further conclusions it tends toward. The review kernels below (K157, K240) are the practice schedule; the savoring half extends the same examination to the good.
 
 **For example**
-The vacation that gets properly looked at on the flight home, photos and stories and laughter, versus the one that evaporates on Monday. Same trip; one of them got the second half.
+A vacation reviewed on the flight home might mean asking what the best day rested on and what that suggests for the next one, rather than only re-running the photos.
 
 ## Sources
 

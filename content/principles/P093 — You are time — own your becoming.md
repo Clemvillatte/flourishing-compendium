@@ -16,19 +16,19 @@ Bergson's Creative Evolution states what duration is:
 
 > "Duration is the continuous progress of the past which gnaws into the future and which swells as it advances." (Bergson, Creative Evolution, ch. 1, [1911 translation](https://archive.org/stream/creativeevolutio029695mbp/creativeevolutio029695mbp_djvu.txt))
 
-The chapter's ground for that: were duration merely one instant replacing another, there would never be anything but the present, no prolonging of the past into the actual. And it states the consequence for the one who lasts:
+The chapter's ground for that: were duration merely one instant replacing another, there would never be anything but the present, no prolonging of the past into the actual. And for the conscious being:
 
-> "to exist is to change, to change is to mature, to mature is to go on creating oneself endlessly" (Bergson, Creative Evolution, ch. 1)
+> "for a conscious being, to exist is to change, to change is to mature, to mature is to go on creating oneself endlessly" (Bergson, Creative Evolution, ch. 1)
 
-The compendium's reading follows from those two passages: the lasting thing is the change itself, and "own your becoming" means accepting the account of yourself as continuous creation rather than fighting to hold a fixed one. The Time and Free Will citation in the locator is inherited and not quoted here.
+The passage scopes that line to conscious beings and then raises separately the wider question of existence in general. A practical application: carrying earlier experience into changed circumstances, rather than treating an earlier self as a place to return to. The Time and Free Will citation in the locator is inherited and not quoted here.
 
 (Bergson, Time and Free Will, 1889; Creative Evolution, 1907.)
 
 **Plain words**
-The river picture is right in one way and wrong in another: you are not a thing sitting in a river, and you are not the river pretending to sit still either; you are what the flowing amounts to. Practically, "getting back to who I was" is addressed to an account holder who does not stand still long enough to be gotten back to. The forward question is what the confluence so far is gathering toward.
+The passages say the past persists into the present rather than vanishing behind it, and that for a conscious being, existing involves ongoing change. The practical question is what you carry forward: an earlier self is available as experience to draw on, not as an address to return to.
 
 **For example**
-"Getting back to who I was": there is no back; there is only the next confluence. The river does not revisit its sources; it gathers them forward.
+Imagine someone who valued a role they can no longer hold. The question the principle suggests is what from that role carries into what they do next, rather than which version of themselves to get back to.
 
 ## Sources
 

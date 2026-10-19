@@ -174,22 +174,22 @@
   {
    "into": "A079 \u2014 Do not demonise pleasure",
    "link": "P179 \u2014 Close the loop with savoring and review",
-   "why": "thematic pair: A079 sets the attitude toward pleasure, P179 names the practice (savoring and review) that completes it; both cite the savoring research; no link either way (grep: 0)"
+   "why": "thematic pair read from both bodies: A079 (Aristotle) asks which pleasures are worth enjoying, P179 (Dewey) names the reflective practice that examines experience after the fact; both treat enjoyment as something to engage with thoughtfully"
   },
   {
    "into": "P179 \u2014 Close the loop with savoring and review",
    "link": "A079 \u2014 Do not demonise pleasure",
-   "why": "thematic pair: savoring appears in both pages' parallels; the attitude (A079) and the closing practice (P179) complement each other"
+   "why": "thematic pair: the Aristotelian question of which pleasures are worth enjoying and the Deweyan review practice that closes the loop on experience"
   },
   {
    "into": "D005 \u2014 Expect reversal \u2014 extremes turn into their opposites",
    "link": "P190 \u2014 Existence is both precarious and stable",
-   "why": "thematic pair: DDJ reversal and Dewey's hazardous/stable mixture are two framings of the world's changeableness; thematic only, no genealogy claimed; no link either way (grep: 0)"
+   "why": "thematic pair read from both bodies: DDJ 40 holds reversal as the Dao's course, P190 (Dewey) holds the hazardous and the stable as jointly conditioning experience; two framings of the world's changeableness, no genealogy claimed"
   },
   {
    "into": "P190 \u2014 Existence is both precarious and stable",
    "link": "D005 \u2014 Expect reversal \u2014 extremes turn into their opposites",
-   "why": "thematic pair: the Daoist and pragmatist versions of expecting the unstable; both inform planning under change"
+   "why": "thematic pair: expecting reversal (DDJ 40) and budgeting for both the hazardous and the stable (Dewey) inform planning under change"
   },
   {
    "into": "P093 \u2014 You are time \u2014 own your becoming",
@@ -202,5 +202,5 @@
    "why": "thematic pair: the thick present and the self-as-time are two framings of duration in the P-S06 layer"
   }
  ],
- "notes": "p1g proposals (genuineflourishing34), from D086 enrichment. Reciprocals only; both targets verified to lack the cross-link (grep: 0 mentions each way). D162 proposals added: D162<->D061 (same DDJ 64 root, verified 0 links each way). D041 proposals added: D041<->D021 (verified 0 links each way). D048 proposals added: D048<->B095, D048<->D071 (all verified 0 links each way). D035 proposals added: D035<->D034 (verified 0 links each way). D004 proposals added: D004<->A042, D004<->A004 (all verified 0 links each way). D013 proposals added: D013<->B048 (verified 0 links each way). D030 proposals added: D030<->D019 (verified 0 links each way). D099 proposals added: D099<->D055 (verified 0 links each way). D148 proposals added: D148<->D041 (verified 0 links each way). D148/D041 proposal whys narrowed to thematic (advisor, milestone QC round 3). BI009 proposals added: BI009<->D148 (verified 0 links each way). P055 proposals added: P055<->P092 (both p1g, verified 0 links each way). P027 proposals added: P027<->P028 (verified 0 links each way). P143 proposals added: P143<->BI009 (verified 0 links each way). P157 proposals added: P157<->S020 (verified 0 links each way). Milestone QC round 4 (advisor): all recent proposal whys narrowed to thematic comparisons; P027 record name fixed to file stem. sources_checked reconciled to 9 opened works. P179 proposals added: P179<->A079 (verified 0 links each way). P190 proposals added: P190<->D005 (verified 0 links each way). P092 proposals added: P092<->P093 (verified 0 links each way)."
+ "notes": "p1g proposals (genuineflourishing34), from D086 enrichment. Reciprocals only; both targets verified to lack the cross-link (grep: 0 mentions each way). D162 proposals added: D162<->D061 (same DDJ 64 root, verified 0 links each way). D041 proposals added: D041<->D021 (verified 0 links each way). D048 proposals added: D048<->B095, D048<->D071 (all verified 0 links each way). D035 proposals added: D035<->D034 (verified 0 links each way). D004 proposals added: D004<->A042, D004<->A004 (all verified 0 links each way). D013 proposals added: D013<->B048 (verified 0 links each way). D030 proposals added: D030<->D019 (verified 0 links each way). D099 proposals added: D099<->D055 (verified 0 links each way). D148 proposals added: D148<->D041 (verified 0 links each way). D148/D041 proposal whys narrowed to thematic (advisor, milestone QC round 3). BI009 proposals added: BI009<->D148 (verified 0 links each way). P055 proposals added: P055<->P092 (both p1g, verified 0 links each way). P027 proposals added: P027<->P028 (verified 0 links each way). P143 proposals added: P143<->BI009 (verified 0 links each way). P157 proposals added: P157<->S020 (verified 0 links each way). Milestone QC round 4 (advisor): all recent proposal whys narrowed to thematic comparisons; P027 record name fixed to file stem. sources_checked reconciled to 9 opened works. P179 proposals added: P179<->A079 (verified 0 links each way). P190 proposals added: P190<->D005 (verified 0 links each way). P092 proposals added: P092<->P093 (verified 0 links each way). Milestone QC round 5: P179<->A079 and P190<->D005 whys rewritten after reading both bodies (A079 is Aristotle-based, not savoring research). sources_checked reconciled to 13 opened works."
 }

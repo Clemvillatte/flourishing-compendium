@@ -29,10 +29,15 @@
   "P055": "milestone QC ACCEPTED (advisor round 4c). Inherited parallels citations remain unverified by me (recorded in the item ledgers).",
   "P143": "milestone QC ACCEPTED (advisor round 4c). Inherited parallels citations remain unverified by me (recorded in the item ledgers).",
   "P027": "milestone QC ACCEPTED (advisor round 4c). Inherited parallels citations remain unverified by me (recorded in the item ledgers).",
-  "P157": "milestone QC ACCEPTED (advisor round 4c). Inherited parallels citations remain unverified by me (recorded in the item ledgers)."
+  "P157": "milestone QC ACCEPTED (advisor round 4c). Inherited parallels citations remain unverified by me (recorded in the item ledgers).",
+  "P179": "milestone QC round 5 corrections applied (advisor); re-review pending; details in the item ledger",
+  "P190": "milestone QC round 5 corrections applied (advisor); re-review pending; details in the item ledger",
+  "P092": "milestone QC round 5 corrections applied (advisor); re-review pending; details in the item ledger",
+  "P093": "milestone QC round 5 corrections applied (advisor); re-review pending; details in the item ledger",
+  "P151": "milestone QC round 5 corrections applied (advisor); re-review pending; details in the item ledger"
  },
  "missing_concepts": [],
- "sources_checked": 9,
- "updated": "2026-10-19T12:53:24+00:00",
+ "sources_checked": 13,
+ "updated": "2026-10-19T12:57:57+00:00",
  "band_done": false
 }
