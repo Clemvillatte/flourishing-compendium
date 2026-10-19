@@ -24,10 +24,10 @@ defines it. Daoism, Buddhism and Pragmatism first.
 
 ## How to claim
 
-1. Find the first band below with status OPEN (bands are slices of `docs/enrichment/queue-concepts.json`, highest graph degree first).
+1. Pull, then find an OPEN, released, or stale PRINCIPLE band first. Check `python3 scripts/baton.py status`: a fresh unreleased baton overrides an outdated OPEN label. A stale baton is available after 20 minutes, even if the table still says claimed. If no principle band is available, request a reserve from the supervisor and do non-conflicting verification or concept work meanwhile.
 2. Edit this table: set status to `claimed`, put your agent name and the date. Commit and push (`scripts/enrich_save.sh "taskboard: claim band w1b"`).
 3. If the push is rejected after rebase, someone claimed first: pull, re-read the board, take the next OPEN band.
-4. When a band is finished: mark it done here, set `band_done: true` in your state file (`python3 scripts/enrich_state.py <band> finish`), push, then CLAIM THE NEXT OPEN BAND yourself (lowest first; there are bands for the whole queue, w1a-w1af, so there is always more work). Then continue with rule 3b.
+4. When a band is finished: mark it done here, set `band_done: true` in your state file (`python3 scripts/enrich_state.py <band> finish`), release its baton, push, then claim the next available PRINCIPLE band. Continue without waiting for owner approval. Concept manifests w1a-w1af exist even where the table omits their rows; check manifests and batons before claiming one.
 
 ## Bands
 
@@ -59,6 +59,19 @@ The owner's primary-source library is in `docs/PRIMARY-SOURCES.md`.
 | p1f | 311-370 | D074 to BI001 | p1f | claimed | genuineflourishing33 | 2026-10-19 |
 | p1g | 371-430 | BI009 to Y015 | p1g | claimed | genuineflourishing34 | 2026-10-19 |
 | p1h | 431-490 | Y026 to D096 | p1h | claimed | genuineflourishing35 | 2026-10-19 |
+| p1i | selected ranks 491-615 | D115 to B148 (30 priority items) | p1i | OPEN | unclaimed | 2026-10-19 |
+| p1j | selected ranks 616-695 | B153 to P189 (30 priority items) | p1j | OPEN | unclaimed | 2026-10-19 |
+| p1k | selected ranks 696-806 | P192 to B183 (30 priority items) | p1k | OPEN | unclaimed | 2026-10-19 |
+| p1l | selected ranks 840-901 | D032 to P082 (30 priority items) | p1l | OPEN | unclaimed | 2026-10-19 |
+| p1m | selected ranks 902-1036 | P090 to B152 (30 priority items) | p1m | OPEN | unclaimed | 2026-10-19 |
+
+Reserve bands p1i-p1m contain ONLY previously unassigned B/D/P numeric IDs (Buddhism,
+Daoism, and Pragmatist/process principles), in existing degree order. Their rank bounds
+are non-contiguous: `selected_ranks` and the manifest's IDs are authoritative. No existing
+band or queue was changed. Workers waiting for a principle slot may claim these now.
+Supervisor replenishment: `python3 scripts/enrich_manifest.py p1n --type principle --priority --count 30`
+refuses existing manifest overwrites and overlapping assignments. Keep several OPEN
+reserves, so nine workers can find separate work without waiting on one supervisor.
 
 Principle bands use the same state machine, batons, batch files and parallel rules as concept
 bands. Concept bands remain open below: workers should take PRINCIPLE bands first while the
@@ -85,8 +98,8 @@ principles queue is untouched.
     ~15 minutes, mid-concept included. Treat every minute of unsaved work as already
     lost. Never stop working to wait or clean up: the next item starts immediately; the
     baton clock-in (frequent) is what tells the board you are alive.
-12. **Takeover (dead-agent recovery).** A band whose state file shows `in_progress` stuck for more than 1 hour (check the `updated` timestamp) is considered abandoned — sessions can die in minutes, so a live agent pushes state at least every ~15 minutes: `git pull`, write `"takeover": {"by": "<agent>", "at": "<iso ts>"}` into that band's state file, push, then check BOTH `content/` and `docs/enrichment/drafts/<band>/` for a partial draft of the in-flight concept before restarting it.
-13. **Durable drafts, unpublished site text.** Research notes and partial prose for a concept go to `docs/enrichment/drafts/<band>/<Concept>.md` and get pushed (durable, but not built into the site). Only reviewed, validated text goes into `content/`. `enrich_validate.py` + advisor/senior QC gate the move from draft to `content/`. If a session dies mid-review, the draft is still on GitHub for the next agent to finish.
+12. **Takeover (dead-agent recovery).** The heartbeat is authoritative: 20 minutes without a clock-in makes a baton available, as OPERATIONS.md specifies. Do not wait an hour for an old `in_progress` marker. Pull, claim with `baton.py clock-in`, record takeover in the band state, push, then inspect BOTH `content/` and any historical `drafts/<band>/` before resuming the unfinished item. A stale timestamp permits takeover; it does not prove the previous runtime terminated. Never edit a fresh worker's files.
+13. **Speed directive takes precedence.** Write to the owned content file, validate, and push once per completed item; push mid-item by the 15-minute safety limit. Do not create a separate draft file for every item. Existing drafts remain recovery material; research notes may still be saved. Advisor QC is required on the first item and every fifth, plus genuine uncertainty. Preserve the evidence gate: a pushed WIP is recoverable work, not a claim of verified completion.
 
 ## Incident log (w1d agent)
 
@@ -100,6 +113,20 @@ principles queue is untouched.
 - 2026-10-19: Agent D (w1d) enriched `content/concepts/The eternal contribution.md` by mistake (it is in w1ae's manifest). Content file was reverted to seed in commit e088a9c; an unapproved, validated draft is preserved at `docs/enrichment/drafts/w1d/The eternal contribution.md` for the w1ae agent to reuse or discard. Its reciprocal proposals were removed from `proposals/w1d.json`.
 
 ## Supervisor notes
+
+- 2026-10-19 (supervisor-193794fd, resumed supervisor): advisor evidence QC REJECTS
+  BI012 and CO072 despite their `done` markers. p1d owner or takeover worker: repair
+  these BEFORE new pages, using `enrich_state.py reopen` one at a time. BI012 still
+  presents bodily mood as Epictetus's position, retains the unsupported thyroid/motivation
+  anecdote and clinical-priority advice, and describes stub concepts as developed
+  arguments. CO072 still generalizes moral habituation and retrospective musician
+  comparisons to cognitive endurance; the mindfulness RCT tests a different intervention.
+  Its social-media detraining story and muscle claim remain unsupported. Full repair
+  request and opened URLs: `OWNER-UPDATE-2026-10-19.md`, "Supervisor re-verification".
+  Validator success is not evidence acceptance. No live worker's content was edited.
+- 2026-10-19 (supervisor-193794fd): the old D133 `its/his grasp` request is structurally
+  resolved: current text says `his`. This local check does not re-verify the full quotation
+  or the chapter-64 source. Historical notes below are retained as history, not current status.
 
 - 2026-10-19 (genuineflourishing24, supervisor): E068 (p1d) was FAILING validation (prose 307 > 300) at the c714190 fix; RESOLVED by the p1d agent (b971d43/9dd23e7) — validator ok as of this supervisor pass. No action needed.
 - 2026-10-19 (genuineflourishing24, supervisor): D133 (p1d): the DDJ 29 blockquote reads "he who would hold it in its grasp loses it" where the Gutenberg Legge has "in his grasp" — p1d worker, please correct the one word (or re-verify against the silkqin page if you used a different Legge printing and cite it), and note that D133's chapter-64 fragment cites silkqin which the fetcher cannot open (robots). Also from the owner update: BI012 and CO072 corrections (OWNER-UPDATE-2026-10-19.md) remain your priorities before new pages.

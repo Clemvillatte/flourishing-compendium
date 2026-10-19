@@ -78,11 +78,19 @@ upload to Drive when a quote is needed from one of these):
   Objective Knowledge; Bergson, Oeuvres complètes; the owner's own Principles of Genuine
   Flourishing I-IV and Stories of Genuine Flourishing III.
 
-Known gap (order placed with owner, 2026-10-19): PEIRCE. 65 principles cite him and the library
-has no Peirce volume; web editions are scattered. Recommended: The Essential Peirce vols 1-2
-(Indiana UP). Until it arrives, workers cite Peirce via citable web editions (SEP entries,
-Collected Papers on archive.org) with locators, or route Peirce-heavy items to James/Dewey
-sources where the idea is shared.
+Acquisition request recorded by the predecessor (2026-10-19): The Essential Peirce vols 1-2
+(Indiana UP). This is a request/recommendation, NOT evidence of a completed purchase or
+delivery. The owner permits requesting books outside this list when agents need them;
+record the exact title, edition, needed passage, and failed lawful access routes. Any paid
+checkout needs approval of the actual vendor, items and total before payment.
+
+Until a Peirce edition is available, use an actually opened Peirce text or clearly identified
+scholarly quotation with its locator. James and Dewey may support a labelled comparison;
+their agreement does not verify a quotation or claim attributed to Peirce.
+
+The request was delivered to the owner in the resumed session. See
+`docs/enrichment/BOOK-REQUESTS.md` for verified editions/ISBNs and priority uploads from the
+newly attached All-Books.pdf. No purchase is confirmed.
 
 Supervisors: when an agent identifies what a specific Drive file contains (which work, which
 translation), record it here so the map builds up over time.

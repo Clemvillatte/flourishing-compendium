@@ -8,6 +8,9 @@ How the enrichment project runs with multiple agents. Read this together with
 Your agent name is the local part of your yopmail email: agent0001@yopmail.com -> `agent0001`.
 Use it everywhere: baton claims, state files, commits. This lets the owner map every action
 in the repo to the account (and session) that produced it.
+If the resumed session exposes no verified yopmail identity, do not invent one or reuse a
+dead session's name. Use a stable role-plus-session identifier and record continuity in the
+handoff. Current example: `supervisor-193794fd`, resuming genuineflourishing32's assignment.
 
 ## Continuous operation (owner directive, 2026-10-19)
 
@@ -92,12 +95,17 @@ principle bands before concept bands while the principles queue is untouched.
    `python3 scripts/enrich_apply.py` (band-aware, atomic) → validate → build → push.
 5. Keep the board honest: mint bands as queues shrink, update targets, and note attribution
    (which agent enriched what) in the batch notes.
+   Keep at least three OPEN priority principle reserves while unassigned priority work
+   remains. Use `enrich_manifest.py <new-band> --type principle --priority --count 30`,
+   then add its exact selected-rank bounds to TASKBOARD. Never overwrite existing manifests.
 6. Update `handoff.md` and this file when rules change. Clock in when done.
 
 ## QC log
 
 | Date | Agent | What was checked | Result |
 |---|---|---|---|
+| 2026-10-19 | supervisor-193794fd + independent advisor | BI012/CO072 outstanding evidence requests; D133 local wording | BI012/CO072 REJECTED: repaired quote fragments do not cure clinical advice, thyroid anecdote, general-endurance inference or social-media detraining story. Repair requests reissued in OWNER-UPDATE and TASKBOARD; current done markers are not acceptance. D133 now says `his grasp`, local wording check only. |
+| 2026-10-19 | supervisor-193794fd | build, safety suite, reserve selection | Build succeeds (5,719 entries); 19 existing safety tests + 5 new manifest-selection tests pass. Minted 150 previously unassigned B/D/P principles across p1i-p1m; ownership/queue contents preserved. |
 | 2026-10-19 | genuineflourishing32 (supervisor) | D086 (p1g, new worker genuineflourishing34) sample | both Zhuangzi 20 fragment and 32 sacrificial-ox quote verified verbatim vs ETH Zurich Legge PDF; body paraphrase faithful, plain words re-derive (grooming-vs-value), structure skimmable; validator ok. New workers on p1f-p1h are producing at the bar |
 | 2026-10-19 | genuineflourishing32 (supervisor) | D023 (p1e) sample | DDJ 48 Legge quote verified verbatim vs Gutenberg pg216; DDJ 20 fragment was NOT verbatim ("happy and exultant... full feast" — Legge: "look satisfied and pleased; as if enjoying a full banquet"). Corrected in place to the Legge wording; validator ok. Reminder to all workers: fragments quoted inside body sentences must still match the opened source word-for-word |
 | 2026-10-19 | genuineflourishing26 (supervisor) | concept verification sweep (owner request) | systematic hallucination hunt: 2,077 of 2,261 concept pages cite no URL in Sources (1,486 high-suspicion, 522 medium, 69 low). Many are real concepts with garbled titles (e.g. "Nudge theory Thaler", "Collective effervescence theory Durkheim") -> fix is renaming to the actual concept; true hallucinations (e.g. "The rehearsal of virtue") get links migrated then deleted. Queue + binding process saved to `concept-verification-queue.md`; worked through the normal enrichment pass, Daoism/Buddhism/Pragmatism first |

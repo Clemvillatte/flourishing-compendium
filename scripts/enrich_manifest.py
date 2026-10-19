@@ -1,18 +1,86 @@
 #!/usr/bin/env python3
-"""Freeze a band's concept list into a committed manifest, so band ownership survives
-queue regeneration (ranks shift as entries get enriched). Bands are defined by their
-manifest, not by live rank position.
-Usage: python3 scripts/enrich_manifest.py w1a 1 30   # ranks from the CURRENT committed queue
+"""Freeze collision-free bands without changing queues or existing ownership.
+
+Legacy: python3 scripts/enrich_manifest.py w1a 1 30
+Priority reserve: python3 scripts/enrich_manifest.py p1i --type principle --priority --count 30
+Priority means exact B/D/P numeric principle IDs, retaining degree order within that pool.
 """
-import sys, os, json, subprocess
-ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-q = json.load(open(os.path.join(ROOT, 'docs/enrichment/queue-concepts.json'), encoding='utf-8'))
-band, start, end = sys.argv[1], int(sys.argv[2]), int(sys.argv[3])
-head = subprocess.run(['git', 'rev-parse', '--short', 'HEAD'], cwd=ROOT, capture_output=True, text=True).stdout.strip()
-ids = [c['id'] for c in q[start-1:end]]
-path = os.path.join(ROOT, 'docs/enrichment/bands', f'{band}-manifest.json')
-os.makedirs(os.path.dirname(path), exist_ok=True)
-json.dump({"band": band, "source_queue_commit": head, "ranks": [start, end],
-           "concepts": ids}, open(path, 'w', encoding='utf-8'), indent=1)
-open(path, 'a', encoding='utf-8').write('\n')
-print(f'manifest written: {path} ({len(ids)} concepts, queue@{head})')
+import argparse
+import json
+from pathlib import Path
+import re
+import subprocess
+
+ROOT = Path(__file__).resolve().parent.parent
+
+
+def select(queue, manifests, kind, start=None, end=None, count=None, priority=False):
+    key = kind + 's'
+    assigned = {item for manifest in manifests for item in manifest.get(key, [])}
+    ranked = list(enumerate(queue, 1))
+    if count is not None:
+        ranked = [(rank, item) for rank, item in ranked if item['id'] not in assigned]
+        if priority:
+            ranked = [(rank, item) for rank, item in ranked
+                      if re.fullmatch(r'[BDP]\d+', item['id'])]
+        ranked = ranked[:count]
+        if len(ranked) != count:
+            raise ValueError(f'only {len(ranked)} eligible unassigned items; requested {count}')
+    else:
+        if start is None or end is None or not 1 <= start <= end <= len(queue):
+            raise ValueError('provide valid inclusive ranks, or --count')
+        ranked = ranked[start - 1:end]
+    ids = [item['id'] for _, item in ranked]
+    if len(ids) != len(set(ids)):
+        raise ValueError('duplicate IDs in selected queue records')
+    overlap = assigned.intersection(ids)
+    if overlap:
+        raise ValueError(f'already assigned: {sorted(overlap)}')
+    return ranked
+
+
+def main():
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument('band')
+    parser.add_argument('start', type=int, nargs='?')
+    parser.add_argument('end', type=int, nargs='?')
+    parser.add_argument('--type', choices=['concept', 'principle'], default='concept')
+    parser.add_argument('--count', type=int)
+    parser.add_argument('--priority', action='store_true')
+    args = parser.parse_args()
+    if not re.fullmatch(r'[a-z][a-z0-9]*', args.band):
+        parser.error('invalid band name')
+    if args.count is not None and (args.count < 1 or args.start is not None or args.end is not None):
+        parser.error('--count must be positive and cannot be combined with ranks')
+    if args.priority and (args.type != 'principle' or args.count is None):
+        parser.error('--priority requires --type principle and --count')
+    band_dir = ROOT / 'docs/enrichment/bands'
+    path = band_dir / f'{args.band}-manifest.json'
+    if path.exists():
+        parser.error(f'refusing to overwrite {path}')
+    queue_path = ROOT / f'docs/enrichment/queue-{args.type}s.json'
+    queue = json.loads(queue_path.read_text(encoding='utf-8'))
+    manifests = [json.loads(p.read_text(encoding='utf-8'))
+                 for p in band_dir.glob('*-manifest.json')]
+    try:
+        ranked = select(queue, manifests, args.type, args.start, args.end, args.count, args.priority)
+    except ValueError as ex:
+        parser.error(str(ex))
+    head = subprocess.run(['git', 'rev-parse', 'HEAD'], cwd=ROOT, capture_output=True,
+                          text=True, check=True).stdout.strip()
+    ranks = [rank for rank, _ in ranked]
+    manifest = {'band': args.band, 'source_queue': queue_path.name,
+                'source_queue_commit': head, 'ranks': [min(ranks), max(ranks)],
+                args.type + 's': [item['id'] for _, item in ranked]}
+    if args.count is not None:
+        manifest['selected_ranks'] = ranks
+        manifest['selection'] = 'unassigned B/D/P principles, degree order' if args.priority else 'unassigned, degree order'
+    band_dir.mkdir(parents=True, exist_ok=True)
+    with path.open('x', encoding='utf-8') as handle:
+        json.dump(manifest, handle, indent=1, ensure_ascii=False)
+        handle.write('\n')
+    print(f'manifest written: {path} ({len(ranked)} {args.type}s, queue@{head[:8]})')
+
+
+if __name__ == '__main__':
+    main()

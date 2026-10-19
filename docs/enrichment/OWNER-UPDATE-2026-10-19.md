@@ -91,3 +91,35 @@ Before publication or a done transition:
 
 Research should remain proportional. A few directly supporting sources are preferable to
 many loosely relevant citations; evidence quality takes precedence over throughput.
+
+## Supervisor re-verification (12:45 UTC, supervisor-193794fd)
+
+An independent advisor checked the current BI012 and CO072 versions against the opened
+sources below. Both remain unaccepted despite the band state listing them as done.
+The p1d owner or takeover worker must reopen and repair them one at a time before new work.
+
+- BI012: Carter's `in one word` correction is verified. Bode's abstract supports a modest
+  association between hypothyroidism and clinical depression, not a diagnosis, a causal
+  explanation of motivation, or a rule to address physiology before psychology. Remove
+  that priority advice and the thyroid-level anecdote; explain the association's limits.
+  Label any bodily-mood reading of Epictetus as a modern interpretation. Preserve existing
+  concept links, but do not say stub pages develop an argument. Source the opening assertion
+  or narrow it to what the opened evidence establishes; remove the unsourced biography
+  generalization. Retained psychology parallels have NOT been verified by this review.
+  Opened: https://classics.mit.edu/Epictetus/epicench.html and
+  https://pubmed.ncbi.nlm.nih.gov/34524390/
+- CO072: the Aristotle quote concerns moral virtue; applying it to cognition is an analogy.
+  Ericsson's retrospective violinist comparisons establish an association, not general
+  cognitive endurance. The two-week mindfulness RCT tested mindfulness, not a regimen of
+  effortful reading. Remove the social-media detraining story, the muscle claim, and any
+  claim that deliberate practice is an established general-endurance regimen. Label practical
+  illustrations as hypothetical, without invented efficacy or causal explanations.
+  The inference chain is NOT advisor-approved. Retained psychology parallels also need
+  evidence; Ericsson does not support the claim that difficult material improves capacity
+  generally. Opened: https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html ,
+  https://gwern.net/doc/psychology/1993-ericsson.pdf and
+  https://pubmed.ncbi.nlm.nih.gov/23538911/
+
+Review limits: the advisor used fetched extracts for Epictetus/Aristotle/Ericsson and the
+PubMed abstracts, not all cited full texts or inherited parallels. This is enough to reject
+the unsupported generalizations, not to certify every retained claim.

@@ -10,14 +10,44 @@
 
 ## Current state (2026-10-19)
 
-- SUPERVISOR CHANGE: genuineflourishing26 is dead (session cut off; owner relaunched as genuineflourishing32, who now holds supervisor + maintenance). LIVE WORKERS p1a-p1e: the speed directive (commit 19ad9d3, PROTOCOL-PRINCIPLES.md "Speed directive" section) landed at 11:39 UTC, after your sessions started — re-read it on your next pull. It is binding: advisor QC on first item + every 5th (not every item), no draft files, one commit per item, batched research, skip-ahead on pages already at the bar.
+- CURRENT SUPERVISOR: `supervisor-193794fd`, resuming the assignment of genuineflourishing32.
+  Supervisor takeover was pushed at 12:42 UTC after the predecessor's heartbeat became stale.
+  This session has no verified yopmail identity; the role/session label prevents false
+  attribution. Always run `baton.py status` against the remote before acting; do not infer
+  liveness from old prose or a completed pass.
+- PRIORITY RESERVES: p1i-p1m are OPEN, 30 previously unassigned B/D/P principles each.
+  Check TASKBOARD + batons and claim one; these selected-rank manifests are non-contiguous.
+  There is no need to leave workers waiting while priority work remains. Supervisor keeps
+  at least three OPEN reserve bands and mints more with `enrich_manifest.py --type principle
+  --priority --count 30`. Existing bands and queues were not reassigned.
+- REPAIRS FIRST: independent advisor rejects current BI012 and CO072. Their `done` markers
+  are not evidence acceptance. p1d owner/takeover worker must reopen and fix unsupported
+  clinical-priority advice, thyroid motivation anecdote, general-endurance inference and
+  social-media detraining story. See OWNER-UPDATE's "Supervisor re-verification" and TASKBOARD.
+  D133 now says `his grasp`; full quotation not independently re-certified in this session.
+- BOOK REQUEST DELIVERED: predecessor's request is The Essential Peirce volumes 1 and 2,
+  not a confirmed purchase. `docs/enrichment/BOOK-REQUESTS.md` records checked ISBNs and
+  asks for uploads of existing Ziporyn/Roth/Dewey/James holdings instead of duplicate buying.
+- NEXT SUPERVISOR ACTIONS: push shared-rule/reserve updates; pull and validate newly done
+  content against an explicit baseline, sample sources, track p1d repair acknowledgment,
+  then review protected pending proposals. Do not silently integrate unreviewed recovery.
+
+## Standing owner decisions
+
+- Speed directive (commit 19ad9d3): advisor QC on first item + every 5th (not every item),
+  no routine draft files, one commit per item, batched research, skip-ahead on pages already
+  at the bar. TASKBOARD's old one-hour takeover and per-item-draft rules have been reconciled
+  with the 20-minute baton threshold and this directive.
 - OWNER DECISION (2026-10-19): there is NO separate "full rewrite of already-good pages" track. The SKIP-AHEAD rule covers it — a page that already has a verbatim quote, non-replicate plain words and 40-300 prose words gets a light check only. Full effort goes to weak pages.
+
+## Historical checkpoints (not a live roster)
+
 - SUPERVISOR CHANGE (earlier): genuineflourishing25 is dead (owner-confirmed); genuineflourishing26
   took the supervisor baton at 2026-10-19 ~11:00 UTC. Standing work for all principles-band
   workers: fix Plain-words replicates from `docs/enrichment/plain-words-replicates.md`
   (417 severe) as part of each item, Daoism/Buddhism/Pragmatism first. genuineflourishing25
   also held p1b — that baton is stale, free for takeover.
-- LIVE SUPERVISOR: genuineflourishing25 resumed continuous monitoring at commit dc7b8ea.
+- HISTORICAL SUPERVISOR: genuineflourishing25 resumed continuous monitoring at commit dc7b8ea.
   Shared maintenance landed in 66e12ea: live concept/principle-band protection, legacy
   proposal support, no-write preflight, explicit validator baseline and protected-field
   checks, portable build root. Do not stop at a completed pass.
