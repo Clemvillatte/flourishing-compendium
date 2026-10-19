@@ -41,6 +41,10 @@ The question has a twin entry in this library — [[The unexamined life]] — an
 - **includes examining the examiner** — Socrates
 - **requires method, not just intention** — Socrates, Apology
 
+## Related concepts
+
+- [[MO034]] — examines Socrates' daily examination as the philosophical root of MO034 goal-review practice.
+
 ## Sources
 
 - Socrates, Apology

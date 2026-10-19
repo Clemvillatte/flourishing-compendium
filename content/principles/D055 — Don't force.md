@@ -86,3 +86,7 @@ Loosen first, act second. What's one thing in your life right now that needs loo
 %%
 Half the energy we spend pushing is spent pushing against ourselves. What's your current self-vs-self fight?
 -->
+
+## Related concepts
+
+- [[D099]] — the two faces of wu wei: D055 the abstention (don't force), D099 the positive letting (of themselves, DDJ 37)

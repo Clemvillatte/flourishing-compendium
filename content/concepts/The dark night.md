@@ -14,6 +14,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 - **requires action** — St John of the Cross
 - **of the soul** — St John of the Cross
 
+## Related concepts
+
+- [[MO066]] — examines St John of the Cross account of spiritual desolation as a parallel to MO066 clinical anhedonia.
+
 ## Sources
 
 - John of the Cross, Dark Night of the Soul

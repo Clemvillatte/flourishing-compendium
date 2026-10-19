@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “The witness” — Buddhism; Ramana Maharshi, Day by Day; modern Advaita.
 
+## Related concepts
+
+- [[CO066]] — offers a psychological parallel through name-based self-reflection.
+
 ## Sources
 
 - Buddhism

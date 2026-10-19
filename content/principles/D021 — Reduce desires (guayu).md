@@ -26,6 +26,10 @@ You can want something without making it your next project. Pick an optional pur
 
 *For example:* Suppose a phone has optional shopping alerts enabled. As a modern experiment, disable them for a week, then decide which you want to restore.
 
+## Related concepts
+
+- [[D041]] — the Qingjing Jing passage binds the pair: sending desires away (D021) is the cause, stillness of mind (D041) the effect
+
 ## Sources
 
 - [The Tao Teh King, trans. James Legge (Project Gutenberg)](https://www.gutenberg.org/ebooks/216) — ch. 19, 37

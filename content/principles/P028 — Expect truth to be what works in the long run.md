@@ -36,3 +36,7 @@ The investment strategy that shines for one quarter and dies in the decade. What
 %%
 Truth is the long-run verdict. What's your current short-run shine — and what does the long run actually say?
 -->
+
+## Related concepts
+
+- [[P027]] — narrow relationship read from both pages: P027 concerns forming a hypothesis worth testing, P028 concerns the long-run verdict of inquiry on ideas; together they cover guess and verdict

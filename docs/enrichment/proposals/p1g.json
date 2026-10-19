@@ -2,282 +2,188 @@
  "inline": [],
  "reciprocal": [
   {
-   "into": "D085 \u2014 Prefer humble freedom to gilded captivity",
-   "link": "D086 \u2014 Don't sell your nature for glory",
-   "why": "same Daoist refusal from two sides: the ox fed and robed for the temple is the image of gilded captivity; D085's body cites no D086"
+   "into": "D086 — Don't sell your nature for glory",
+   "link": "D085 — Prefer humble freedom to gilded captivity",
+   "why": "D085 emphasizes retaining freedom; D086 questions rewards offered at the recipient's expense"
   },
   {
-   "into": "D086 \u2014 Don't sell your nature for glory",
-   "link": "D085 \u2014 Prefer humble freedom to gilded captivity",
-   "why": "D085 emphasizes retaining freedom; D086 questions rewards offered at the recipient's expense; no reciprocal link either way (grep: 0)"
+   "into": "D061 — Act before things arise",
+   "link": "D162 — Attend to the not-yet-manifest",
+   "why": "companion Daoist principles from the same DDJ 64 root: D061 the act, D162 the attention that times it"
   },
   {
-   "into": "D061 \u2014 Act before things arise",
-   "link": "D162 \u2014 Attend to the not-yet-manifest",
-   "why": "companion Daoist principles from the same DDJ 64 root: D061 the act, D162 the attention that times it; no reciprocal link either way (grep: 0)"
-  },
-  {
-   "into": "D162 \u2014 Attend to the not-yet-manifest",
-   "link": "D061 \u2014 Act before things arise",
+   "into": "D162 — Attend to the not-yet-manifest",
+   "link": "D061 — Act before things arise",
    "why": "same root chapter (DDJ 64); D061 names the act, D162 names the noticing that precedes it"
   },
   {
-   "into": "D021 \u2014 Reduce desires (guayu)",
-   "link": "D041 \u2014 Practice purity and stillness (qingjing)",
-   "why": "the Qingjing Jing passage binds the pair: sending desires away (D021) is the cause, stillness of mind (D041) the effect; no reciprocal link either way (grep: 0)"
+   "into": "D041 — Practice purity and stillness (qingjing)",
+   "link": "D021 — Reduce desires (guayu)",
+   "why": "same scripture: the stillness arrives 'of itself' only after desires are sent away"
   },
   {
-   "into": "D041 \u2014 Practice purity and stillness (qingjing)",
-   "link": "D021 \u2014 Reduce desires (guayu)",
-   "why": "same scripture: the stillness arrives 'of itself' only after desires are sent away; D041's new body quotes that line"
-  },
-  {
-   "into": "B095 \u2014 Collect the mind (samadhi as gathering)",
-   "link": "D048 \u2014 Guard the One (shouyi)",
-   "why": "cross-tradition mirror: shouyi (hold fast to the One) and samadhi-as-gathering are the Daoist and Buddhist names for gathering scattered attention; the Focused-attention meditation concept page already cites both; no reciprocal link either way (grep: 0)"
-  },
-  {
-   "into": "D048 \u2014 Guard the One (shouyi)",
-   "link": "B095 \u2014 Collect the mind (samadhi as gathering)",
+   "into": "D048 — Guard the One (shouyi)",
+   "link": "B095 — Collect the mind (samadhi as gathering)",
    "why": "same practice named in the Buddhist register; D048's Neiye verse XIX (unify your awareness) is the same gesture as B095's gathering"
   },
   {
-   "into": "D071 \u2014 Practice undivided attention",
-   "link": "D048 \u2014 Guard the One (shouyi)",
-   "why": "companion principles on undivided attention; D048 names the guard, D071 the act; no link either way (grep: 0)"
-  },
-  {
-   "into": "D048 \u2014 Guard the One (shouyi)",
-   "link": "D071 \u2014 Practice undivided attention",
+   "into": "D048 — Guard the One (shouyi)",
+   "link": "D071 — Practice undivided attention",
    "why": "the attention pair within the compendium's own principles; both are operationalised by the same kernels (K100, K102)"
   },
   {
-   "into": "D034 \u2014 Simplify your ecosystem",
-   "link": "D035 \u2014 Live within your ecosystem's bounds",
-   "why": "both principles draw on DDJ 80's small-state image: D034 the simplifying, D035 the bound-keeping; no reciprocal link either way (grep: 0)"
-  },
-  {
-   "into": "D035 \u2014 Live within your ecosystem's bounds",
-   "link": "D034 \u2014 Simplify your ecosystem",
+   "into": "D035 — Live within your ecosystem's bounds",
+   "link": "D034 — Simplify your ecosystem",
    "why": "sister principles from the same chapter (DDJ 80); simplifying the system and living within its bounds are two readings of one image"
   },
   {
-   "into": "A042 \u2014 Recognise that virtue is a hexis, not a feeling",
-   "link": "D004 \u2014 Cultivate de \u2014 your embodied character-power",
-   "why": "cross-tradition mirror already documented at concept level (the De page lists A042): de and hexis are both built capacity rather than passing feeling; no principle-level link either way (grep: 0)"
+   "into": "A042 — Recognise that virtue is a hexis, not a feeling",
+   "link": "D004 — Cultivate de — your embodied character-power",
+   "why": "cross-tradition mirror: de and hexis are both built capacity rather than passing feeling"
   },
   {
-   "into": "D004 \u2014 Cultivate de \u2014 your embodied character-power",
-   "link": "A042 \u2014 Recognise that virtue is a hexis, not a feeling",
-   "why": "the Greek cousin the compendium's De exemplar already names; principle bodies are the Daoist and Aristotelian versions of one claim"
+   "into": "D004 — Cultivate de — your embodied character-power",
+   "link": "A042 — Recognise that virtue is a hexis, not a feeling",
+   "why": "the Greek cousin: principle bodies are the Daoist and Aristotelian versions of one claim"
   },
   {
-   "into": "A004 \u2014 Become virtuous by doing virtuous acts",
-   "link": "D004 \u2014 Cultivate de \u2014 your embodied character-power",
-   "why": "Aristotle's habituation and the Neiye's 'assist the inner power' are the same training logic; no link either way (grep: 0)"
+   "into": "D004 — Cultivate de — your embodied character-power",
+   "link": "A004 — Become virtuous by doing virtuous acts",
+   "why": "both principles argue character is grown by practice, from two traditions"
   },
   {
-   "into": "D004 \u2014 Cultivate de \u2014 your embodied character-power",
-   "link": "A004 \u2014 Become virtuous by doing virtuous acts",
-   "why": "both principles argue character is grown by practice, from two traditions; the De concept page already ties them"
+   "into": "B048 — Keep beginner's mind (shoshin)",
+   "link": "D013 — Keep the valley-mind — low, open, receptive",
+   "why": "cross-tradition pair: the valley-mind and shoshin are both receptive postures that trade status for information"
   },
   {
-   "into": "B048 \u2014 Keep beginner's mind (shoshin)",
-   "link": "D013 \u2014 Keep the valley-mind \u2014 low, open, receptive",
-   "why": "cross-tradition pair: the valley-mind and shoshin are both receptive postures that trade status for information; no link either way (grep: 0)"
-  },
-  {
-   "into": "D013 \u2014 Keep the valley-mind \u2014 low, open, receptive",
-   "link": "B048 \u2014 Keep beginner's mind (shoshin)",
+   "into": "D013 — Keep the valley-mind — low, open, receptive",
+   "link": "B048 — Keep beginner's mind (shoshin)",
    "why": "the Buddhist counterpart of the valley-mind; both ground the Intellectual humility concept page"
   },
   {
-   "into": "D019 \u2014 Know what is enough (zhizu)",
-   "link": "D030 \u2014 Contentment is the greatest wealth",
-   "why": "zhizu (knowing enough) is the DDJ 33 root of the contentment argument D030 draws from DDJ 44/46; the two are the limit and the asset; no link either way (grep: 0)"
-  },
-  {
-   "into": "D030 \u2014 Contentment is the greatest wealth",
-   "link": "D019 \u2014 Know what is enough (zhizu)",
+   "into": "D030 — Contentment is the greatest wealth",
+   "link": "D019 — Know what is enough (zhizu)",
    "why": "sister principles: knowing enough is how contentment-as-wealth is reached; both cite the hedonic-treadmill psychology"
   },
   {
-   "into": "D055 \u2014 Don't force",
-   "link": "D099 \u2014 Let things happen of themselves",
-   "why": "the two faces of wu wei: D055 the abstention (don't force), D099 the positive letting (of themselves, DDJ 37); no link either way (grep: 0)"
-  },
-  {
-   "into": "D099 \u2014 Let things happen of themselves",
-   "link": "D055 \u2014 Don't force",
+   "into": "D099 — Let things happen of themselves",
+   "link": "D055 — Don't force",
    "why": "wu wei pair from the same chapter family; letting happen is what not-forcing looks like from the world's side"
   },
   {
-   "into": "D041 \u2014 Practice purity and stillness (qingjing)",
-   "link": "D148 \u2014 Let stillness heal",
+   "into": "D041 — Practice purity and stillness (qingjing)",
+   "link": "D148 — Let stillness heal",
    "why": "sister principles in the stillness family (Qingjing Jing clearing vs Neiye tranquillity); thematic link only"
   },
   {
-   "into": "D148 \u2014 Let stillness heal",
-   "link": "D041 \u2014 Practice purity and stillness (qingjing)",
+   "into": "D148 — Let stillness heal",
+   "link": "D041 — Practice purity and stillness (qingjing)",
    "why": "thematic pair in the stillness family: D041 is the Qingjing Jing/DDJ teaching on clearing the mind, D148 the Neiye teaching on tranquillity and vitality; both are cultivation texts, neither establishes the other's effect"
   },
   {
-   "into": "D148 \u2014 Let stillness heal",
-   "link": "BI009 \u2014 Understand that interoception is the foundation of emotional awareness",
+   "into": "D148 — Let stillness heal",
+   "link": "BI009 — Understand that interoception is the foundation of emotional awareness",
    "why": "thematic pair: Daoist body cultivation and modern interoception both attend to internal bodily signals; thematic only, no historical identification claimed"
   },
   {
-   "into": "BI009 \u2014 Understand that interoception is the foundation of emotional awareness",
-   "link": "D148 \u2014 Let stillness heal",
+   "into": "BI009 — Understand that interoception is the foundation of emotional awareness",
+   "link": "D148 — Let stillness heal",
    "why": "thematic pair: the Yangsheng/Neiye attention to breath and body and the interoception construct; thematic only"
   },
   {
-   "into": "P092 \u2014 Live in a thick present",
-   "link": "P055 \u2014 Know your thought as a stream",
-   "why": "James's stream (always changing, sensibly continuous) is the ground the thick present is built from: a flowing present rather than bead-moments; no link either way (grep: 0)"
+   "into": "P092 — Live in a thick present",
+   "link": "P055 — Know your thought as a stream",
+   "why": "James's stream (always changing, sensibly continuous) is the ground the thick present is built from: a flowing present rather than bead-moments"
   },
   {
-   "into": "P055 \u2014 Know your thought as a stream",
-   "link": "P092 \u2014 Live in a thick present",
+   "into": "P055 — Know your thought as a stream",
+   "link": "P092 — Live in a thick present",
    "why": "the two Jamesian principles: knowing thought as a stream and living in the extended present it creates are one view of mind applied twice"
   },
   {
-   "into": "P028 \u2014 Expect truth to be what works in the long run",
-   "link": "P027 \u2014 Guess well \u2014 practice abduction",
-   "why": "narrow relationship read from both pages: P027 concerns forming a hypothesis worth testing, P028 concerns the long-run verdict of inquiry on ideas; together they cover guess and verdict"
+   "into": "P027 — Guess well — practice abduction",
+   "link": "P028 — Expect truth to be what works in the long run",
+   "why": "narrow relationship: P027's guess is the input, P028's long-run verdict is the eventual test's outcome"
   },
   {
-   "into": "P027 \u2014 Guess well \u2014 practice abduction",
-   "link": "P028 \u2014 Expect truth to be what works in the long run",
-   "why": "narrow relationship: P027's guess is the input, P028's long-run verdict is the eventual test's outcome; read from both pages' own texts"
-  },
-  {
-   "into": "BI009 \u2014 Understand that interoception is the foundation of emotional awareness",
-   "link": "P143 \u2014 Think with the whole body \u2014 the body is not a machine",
+   "into": "BI009 — Understand that interoception is the foundation of emotional awareness",
+   "link": "P143 — Think with the whole body — the body is not a machine",
    "why": "thematic pair: philosophical (Bergson) and empirical (interoception) framings of bodily attention; no validation claim"
   },
   {
-   "into": "P143 \u2014 Think with the whole body \u2014 the body is not a machine",
-   "link": "BI009 \u2014 Understand that interoception is the foundation of emotional awareness",
+   "into": "P143 — Think with the whole body — the body is not a machine",
+   "link": "BI009 — Understand that interoception is the foundation of emotional awareness",
    "why": "thematic pair: both treat bodily signals as informative; no empirical or historical identification claimed"
   },
   {
-   "into": "S020 \u2014 Remember that nothing can harm you except your own judgement",
-   "link": "P157 \u2014 Accept what cannot be changed while committing to what can",
+   "into": "S020 — Remember that nothing can harm you except your own judgement",
+   "link": "P157 — Accept what cannot be changed while committing to what can",
    "why": "thematic pair: both principles organize a struggle around a control distinction (Stoic what-is-up-to-us; ACT acceptance vs change), without claiming a genealogy"
   },
   {
-   "into": "P157 \u2014 Accept what cannot be changed while committing to what can",
-   "link": "S020 \u2014 Remember that nothing can harm you except your own judgement",
+   "into": "P157 — Accept what cannot be changed while committing to what can",
+   "link": "S020 — Remember that nothing can harm you except your own judgement",
    "why": "thematic pair: the Stoic and ACT versions of the control distinction; no genealogical claim made"
   },
   {
-   "into": "A079 \u2014 Do not demonise pleasure",
-   "link": "P179 \u2014 Close the loop with savoring and review",
-   "why": "thematic pair read from both bodies: A079 (Aristotle) asks which pleasures are worth enjoying, P179 (Dewey) names the reflective practice that examines experience after the fact; both treat enjoyment as something to engage with thoughtfully"
-  },
-  {
-   "into": "P179 \u2014 Close the loop with savoring and review",
-   "link": "A079 \u2014 Do not demonise pleasure",
+   "into": "P179 — Close the loop with savoring and review",
+   "link": "A079 — Do not demonise pleasure",
    "why": "thematic pair: the Aristotelian question of which pleasures are worth enjoying and the Deweyan review practice that closes the loop on experience"
   },
   {
-   "into": "D005 \u2014 Expect reversal \u2014 extremes turn into their opposites",
-   "link": "P190 \u2014 Existence is both precarious and stable",
-   "why": "thematic pair read from both bodies: DDJ 40 holds reversal as the Dao's course, P190 (Dewey) holds the hazardous and the stable as jointly conditioning experience; two framings of the world's changeableness, no genealogy claimed"
-  },
-  {
-   "into": "P190 \u2014 Existence is both precarious and stable",
-   "link": "D005 \u2014 Expect reversal \u2014 extremes turn into their opposites",
+   "into": "P190 — Existence is both precarious and stable",
+   "link": "D005 — Expect reversal — extremes turn into their opposites",
    "why": "thematic pair: expecting reversal (DDJ 40) and budgeting for both the hazardous and the stable (Dewey) inform planning under change"
   },
   {
-   "into": "P093 \u2014 You are time \u2014 own your becoming",
-   "link": "P092 \u2014 Live in a thick present",
-   "why": "thematic time pair: P092 holds the present's breadth (the specious present), P093 holds the self's spread across becoming; read from both pages' own texts; no link either way (grep: 0)"
+   "into": "P093 — You are time — own your becoming",
+   "link": "P092 — Live in a thick present",
+   "why": "thematic time pair: P092 holds the present's breadth (the specious present), P093 holds the self's spread across becoming"
   },
   {
-   "into": "P092 \u2014 Live in a thick present",
-   "link": "P093 \u2014 You are time \u2014 own your becoming",
+   "into": "P092 — Live in a thick present",
+   "link": "P093 — You are time — own your becoming",
    "why": "thematic pair: the thick present and the self-as-time are two framings of duration in the P-S06 layer"
   },
   {
-   "into": "P179 \u2014 Close the loop with savoring and review",
-   "link": "P172 \u2014 Design your days for the strands",
-   "why": "thematic pair in the applied layer: P172 designs the day for the strands (Dewey-adjacent scheduling of PERMA), P179 reviews what the days delivered (Dewey's reflective thought); design and audit halves of the same practice; no link either way (grep: 0)"
+   "into": "P179 — Close the loop with savoring and review",
+   "link": "P172 — Design your days for the strands",
+   "why": "thematic pair in the applied layer: P172 designs the day for the strands (Dewey-adjacent scheduling of PERMA), P179 reviews what the days delivered (Dewey's reflective thought); design and audit halves of the same practice"
   },
   {
-   "into": "P172 \u2014 Design your days for the strands",
-   "link": "P179 \u2014 Close the loop with savoring and review",
+   "into": "P172 — Design your days for the strands",
+   "link": "P179 — Close the loop with savoring and review",
    "why": "thematic pair: scheduling the strands and reviewing the week are the forward and backward halves of applied planning"
   },
   {
-   "into": "AF004 \u2014 Cultivate emotional granularity \u2014 name feelings precisely",
-   "link": "Y015 \u2014 Classify the mind's movements into five types",
-   "why": "thematic pair: both are naming-as-handling practices (the Yoga taxonomy names the mind-movement's type, emotional granularity names the feeling precisely); the page's affect-labeling parallel already gestures at the family; no link either way (grep: 0)"
+   "into": "Y015 — Classify the mind's movements into five types",
+   "link": "AF004 — Cultivate emotional granularity — name feelings precisely",
+   "why": "thematic pair: ancient fivefold classification and modern granularity research are two naming disciplines; an indirect parallel, not a validation of the taxonomy"
   },
   {
-   "into": "Y015 \u2014 Classify the mind's movements into five types",
-   "link": "AF004 \u2014 Cultivate emotional granularity \u2014 name feelings precisely",
-   "why": "thematic pair: ancient fivefold classification and modern granularity research are two naming disciplines; the page notes its affect-labeling parallel is indirect, not a validation of the taxonomy"
-  },
-  {
-   "into": "CO050 \u2014 Learn to question your thoughts \u2014 not every thought deserves belief",
-   "link": "K128 \u2014 Thought record",
+   "into": "CO050 — Learn to question your thoughts — not every thought deserves belief",
+   "link": "K128 — Thought record",
    "why": "K128 is the applied kernel of CO050's procedure: both ask for the situation, the automatic thought, and the evidence for and against it before a balanced alternative"
   },
   {
-   "into": "K128 \u2014 Thought record",
-   "link": "CO050 \u2014 Learn to question your thoughts \u2014 not every thought deserves belief",
-   "why": "CO050 carries the principle the thought-record kernel operationalises"
-  },
-  {
-   "into": "Yin and yang",
-   "link": "CO052 \u2014 Cultivate dialectical thinking \u2014 hold contradictions without forcing resolution",
-   "why": "uses co-arising opposites in Daodejing 2 to examine apparent contradictions.",
-   "notes": "Audit: CO052 cites the concept; the concept page has no CO052 mention (grep 0)."
-  },
-  {
-   "into": "The witness",
-   "link": "CO066 \u2014 Learn to take the third-person perspective \u2014 distanced self-talk improves reasoning",
-   "why": "offers a psychological parallel through name-based self-reflection.",
-   "notes": "Audit: CO066 cites the concept; the concept page has no CO066 mention (grep 0). Stub concept, thin content."
-  },
-  {
-   "into": "Self-determination",
-   "link": "E031 \u2014 Practise radical freedom",
-   "why": "presents Sartre's freedom-as-responsibility as a philosophical parallel to motivational autonomy.",
-   "notes": "Audit: E031 cites the concept; the concept page has no E031 mention (grep 0)."
-  },
-  {
-   "into": "Openness",
-   "link": "E080 \u2014 Practise the fusion of horizons",
-   "why": "examines Gadamer's account of understanding across different horizons.",
-   "notes": "Audit: E080 cites the concept; the concept page has no E080 mention (grep 0). Stub concept, thin content."
-  },
-  {
-   "into": "D015 \u2014 Treat opposites as co-creating",
-   "link": "CO052 \u2014 Cultivate dialectical thinking \u2014 hold contradictions without forcing resolution",
-   "why": "uses Daodejing 2 to examine apparent contradictions.",
-   "notes": "Audit: verified 0 links each way (grep 0 both directions). Same DDJ 2 Legge passage quoted on both pages."
-  },
-  {
-   "into": "CO052 \u2014 Cultivate dialectical thinking \u2014 hold contradictions without forcing resolution",
-   "link": "D015 \u2014 Treat opposites as co-creating",
+   "into": "CO052 — Cultivate dialectical thinking — hold contradictions without forcing resolution",
+   "link": "D015 — Treat opposites as co-creating",
    "why": "develops Daodejing 2's account of co-arising opposites.",
    "notes": "Audit: verified 0 links each way (grep 0 both directions)."
   },
   {
-   "into": "E009 \u2014 Practise intersubjectivity",
-   "link": "E026 \u2014 Practise being-with (Mitsein)",
+   "into": "E009 — Practise intersubjectivity",
+   "link": "E026 — Practise being-with (Mitsein)",
    "why": "examines the shared world through Heidegger's account of Being-with.",
    "notes": "Audit: E009 philosophy parallels already cite Mitsein; no direct principle-to-principle link (grep 0)."
   },
   {
-   "into": "E026 \u2014 Practise being-with (Mitsein)",
-   "link": "E009 \u2014 Practise intersubjectivity",
+   "into": "E026 — Practise being-with (Mitsein)",
+   "link": "E009 — Practise intersubjectivity",
    "why": "examines the shared world through Husserl's account of intersubjectivity.",
    "notes": "Audit: verified 0 direct principle-to-principle links (grep 0)."
+<<<<<<< HEAD
   },
   {
    "into": "The examined life",
@@ -308,7 +214,9 @@
    "link": "MO045 \u2014 Recognise procrastination as emotion regulation, not laziness",
    "why": "names the self-directed warmth that MO045's mood-repair account names as one response to the avoided feeling.",
    "notes": "Audit: MO045 cites the concept in Practice; the concept page has no MO045 mention (grep 0)."
+=======
+>>>>>>> 7333ba8f (supervisor: p1g proposal integration (22 reciprocals applied, 36 deferred to busy bands); audit-tail why clauses cleaned)
   }
  ],
- "notes": "p1g proposals (genuineflourishing34), from D086 enrichment. Reciprocals only; both targets verified to lack the cross-link (grep: 0 mentions each way). D162 proposals added: D162<->D061 (same DDJ 64 root, verified 0 links each way). D041 proposals added: D041<->D021 (verified 0 links each way). D048 proposals added: D048<->B095, D048<->D071 (all verified 0 links each way). D035 proposals added: D035<->D034 (verified 0 links each way). D004 proposals added: D004<->A042, D004<->A004 (all verified 0 links each way). D013 proposals added: D013<->B048 (verified 0 links each way). D030 proposals added: D030<->D019 (verified 0 links each way). D099 proposals added: D099<->D055 (verified 0 links each way). D148 proposals added: D148<->D041 (verified 0 links each way). D148/D041 proposal whys narrowed to thematic (advisor, milestone QC round 3). BI009 proposals added: BI009<->D148 (verified 0 links each way). P055 proposals added: P055<->P092 (both p1g, verified 0 links each way). P027 proposals added: P027<->P028 (verified 0 links each way). P143 proposals added: P143<->BI009 (verified 0 links each way). P157 proposals added: P157<->S020 (verified 0 links each way). Milestone QC round 4 (advisor): all recent proposal whys narrowed to thematic comparisons; P027 record name fixed to file stem. sources_checked reconciled to 9 opened works. P179 proposals added: P179<->A079 (verified 0 links each way). P190 proposals added: P190<->D005 (verified 0 links each way). P092 proposals added: P092<->P093 (verified 0 links each way). Milestone QC round 5: P179<->A079 and P190<->D005 whys rewritten after reading both bodies (A079 is Aristotle-based, not savoring research). sources_checked reconciled to 13 opened works. P172 proposals added: P172<->P179 (verified 0 links each way). Y015 proposals added: Y015<->AF004 (verified 0 links each way). QC round 10 (advisor): CO052/CO066/E026/E031/E080 corrections applied; 4 backlink-gap proposals recorded (Yin and yang, The witness, Self-determination, Openness) after saturation check found no CO052/CO066/E031/E080 mention on those concept pages. QC round 14 (advisor): connection-saturation discovery checks performed (enrich_find.py mention for each principle's core terms). D015<->CO052 and E009<->E026 proposals added (verified 0 links each way). Remaining [NEW] mention hits assessed as already connected via concept hubs (Dialectical thinking, Self-distancing, Fusion of horizons, Being-with (Mitsein)) \u2014 no additional proposal warranted."
+ "notes": "p1g proposals (genuineflourishing34), from D086 enrichment. Reciprocals only; both targets verified to lack the cross-link (grep: 0 mentions each way). D162 proposals added: D162<->D061 (same DDJ 64 root, verified 0 links each way). D041 proposals added: D041<->D021 (verified 0 links each way). D048 proposals added: D048<->B095, D048<->D071 (all verified 0 links each way). D035 proposals added: D035<->D034 (verified 0 links each way). D004 proposals added: D004<->A042, D004<->A004 (all verified 0 links each way). D013 proposals added: D013<->B048 (verified 0 links each way). D030 proposals added: D030<->D019 (verified 0 links each way). D099 proposals added: D099<->D055 (verified 0 links each way). D148 proposals added: D148<->D041 (verified 0 links each way). D148/D041 proposal whys narrowed to thematic (advisor, milestone QC round 3). BI009 proposals added: BI009<->D148 (verified 0 links each way). P055 proposals added: P055<->P092 (both p1g, verified 0 links each way). P027 proposals added: P027<->P028 (verified 0 links each way). P143 proposals added: P143<->BI009 (verified 0 links each way). P157 proposals added: P157<->S020 (verified 0 links each way). Milestone QC round 4 (advisor): all recent proposal whys narrowed to thematic comparisons; P027 record name fixed to file stem. sources_checked reconciled to 9 opened works. P179 proposals added: P179<->A079 (verified 0 links each way). P190 proposals added: P190<->D005 (verified 0 links each way). P092 proposals added: P092<->P093 (verified 0 links each way). Milestone QC round 5: P179<->A079 and P190<->D005 whys rewritten after reading both bodies (A079 is Aristotle-based, not savoring research). sources_checked reconciled to 13 opened works. P172 proposals added: P172<->P179 (verified 0 links each way). Y015 proposals added: Y015<->AF004 (verified 0 links each way). QC round 10 (advisor): CO052/CO066/E026/E031/E080 corrections applied; 4 backlink-gap proposals recorded (Yin and yang, The witness, Self-determination, Openness) after saturation check found no CO052/CO066/E031/E080 mention on those concept pages. QC round 14 (advisor): connection-saturation discovery checks performed (enrich_find.py mention for each principle's core terms). D015<->CO052 and E009<->E026 proposals added (verified 0 links each way). Remaining [NEW] mention hits assessed as already connected via concept hubs (Dialectical thinking, Self-distancing, Fusion of horizons, Being-with (Mitsein)) — no additional proposal warranted.\n2026-10-20 supervisor: audit-tail phrasing (grep counts, \"already cites/ties\", \"new body\") removed from why clauses before integration; it was internal verification commentary, not reader-facing prose. Substance unchanged. | deferred at this run (target band busy): 36 recip, 0 inline"
 }

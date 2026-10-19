@@ -15,3 +15,8 @@ Write down: the situation, the automatic thought, the emotion it triggered, evid
 ## Operationalises
 
 [[D016 — Distrust names and labels|D016 Distrust names and labels]], [[B074 — Thoughts are not facts|B074 Thoughts are not facts]], [[P019 — Read an idea through its consequences|P019 Read an idea through its consequences]], [[P027 — Guess well — practice abduction|P027 Guess well: practice abduction]]
+
+
+## Related concepts
+
+- [[CO050]] — CO050 carries the principle the thought-record kernel operationalises

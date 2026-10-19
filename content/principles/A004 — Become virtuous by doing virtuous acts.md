@@ -24,6 +24,10 @@ Book II.1 also gives the frame: "The Virtues then come to be in us neither by na
 
 *For example:* Imagine hesitating to raise a concern in a meeting. Ask why it needs saying, whether speaking up here would be courageous, and what doing it well would involve.
 
+## Related concepts
+
+- [[D004]] — Aristotle's habituation and the Neiye's 'assist the inner power' are the same training logic
+
 ## Sources
 
 - [Nicomachean Ethics Book II, trans. D. P. Chase, Project Gutenberg](https://www.gutenberg.org/files/8438/8438-h/8438-h.htm) — opened at A039, re-mined for this item; not recounted

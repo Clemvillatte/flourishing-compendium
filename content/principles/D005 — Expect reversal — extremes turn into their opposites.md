@@ -33,6 +33,10 @@ Suppose things are going well and you are considering taking on more. Ask what w
 *For example:*
 Suppose you are carrying tea across a room. Leave space below the rim instead of filling the cup to the top.
 
+## Related concepts
+
+- [[P190]] — thematic pair read from both bodies: DDJ 40 holds reversal as the Dao's course, P190 (Dewey) holds the hazardous and the stable as jointly conditioning experience; two framings of the world's changeableness, no genealogy claimed
+
 ## Sources
 
 - [Laozi, Tao Teh King (Daodejing), James Legge translation (1891), Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm) — chapters 9, 40 and 58 quoted verbatim

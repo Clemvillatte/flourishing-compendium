@@ -41,3 +41,8 @@ If hard and easy co-create each other, what does that predict about your next go
 %%
 Is this principle true or just a comfort? Test it against something specific you're resenting right now.
 -->
+
+
+## Related concepts
+
+- [[CO052]] — uses Daodejing 2 to examine apparent contradictions.

@@ -25,6 +25,10 @@ Ask what you want the next gain to provide. If you decide you already have enoug
 
 *For example:* Imagine a freelancer choosing three clients a week as a workable limit. When a fourth inquiry arrives, they can refer to that decision when deciding whether to accept more work.
 
+## Related concepts
+
+- [[D030]] — zhizu (knowing enough) is the DDJ 33 root of the contentment argument D030 draws from DDJ 44/46; the two are the limit and the asset
+
 ## Sources
 
 - [Laozi, Daodejing 44 and 46, Legge translation, Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm) — full chapter texts

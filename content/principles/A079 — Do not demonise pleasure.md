@@ -43,3 +43,7 @@ Many ascetic traditions treat pleasure as a hazard, while Aristotle treats it as
 %%
 How can pleasure in a suffering world be justified without callousness? What does enjoying life well owe to those who cannot?
 -->
+
+## Related concepts
+
+- [[P179]] — thematic pair read from both bodies: A079 (Aristotle) asks which pleasures are worth enjoying, P179 (Dewey) names the reflective practice that examines experience after the fact; both treat enjoyment as something to engage with thoughtfully

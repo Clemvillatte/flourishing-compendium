@@ -30,3 +30,7 @@ Being able to say "I feel resentful" rather than "I feel bad" is a distinct skil
 ## Practice
 
 - Build a fine-grained emotion vocabulary. When you notice "I feel bad," try to specify: irritated, disappointed, lonely, ashamed, tired, anxious, envious, bored.
+
+## Related concepts
+
+- [[Y015]] — thematic pair: both are naming-as-handling practices (the Yoga taxonomy names the mind-movement's type, emotional granularity names the feeling precisely)

@@ -44,8 +44,9 @@ autonomy and relatedness grow together (Deci and Ryan, 2000).
 
 ## Related concepts
 
-- [[ERG Theory]] — another needs theory without a ladder, for comparison
 
+- [[ERG Theory]] — another needs theory without a ladder, for comparison
+- [[E031]] — presents Sartre's freedom-as-responsibility as a philosophical parallel to motivational autonomy.
 ## Sources
 
 - Deci and Ryan, 2000

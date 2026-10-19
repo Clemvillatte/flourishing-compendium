@@ -42,6 +42,10 @@ The clinical cognate is [[Implementation intentions]] — effort pre-decided rat
 - **as arousing, not straining** — Buddhist eightfold path
 - **skillful approach to sleep** — Buddhism
 
+## Related concepts
+
+- [[MO066]] — names the Buddhist teaching on effort that MO066 pairs with behavioural activation when motivation is absent.
+
 ## Sources
 
 - Buddhism, Eightfold Path

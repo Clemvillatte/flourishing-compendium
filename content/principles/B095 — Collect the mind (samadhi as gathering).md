@@ -42,3 +42,8 @@ The difference between working with eleven tabs and working with one. What's you
 %%
 Gathering scattered attention builds a mind that can see clearly. What would gathering actually look like for your current most important task?
 -->
+
+
+## Related concepts
+
+- [[D048]] — cross-tradition mirror: shouyi (hold fast to the One) and samadhi-as-gathering are the Daoist and Buddhist names for gathering scattered attention

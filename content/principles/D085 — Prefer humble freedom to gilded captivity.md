@@ -30,6 +30,10 @@ The pheasant is chapter 3's shorter version of the same argument:
 
 *For example:* The corporate job with the title and the golden handcuffs versus the smaller role where you can look at yourself in the mirror — the pheasant knows.
 
+## Related concepts
+
+- [[D086]] — same Daoist refusal from two sides: the ox fed and robed for the temple is the image of gilded captivity
+
 ## Sources
 
 - [Zhuangzi ch. 17 (tr. Herbert A. Giles), via Wikiquote](https://en.wikiquote.org/wiki/Zhuangzi): the sacred tortoise
