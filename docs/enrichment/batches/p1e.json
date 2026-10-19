@@ -32,9 +32,10 @@
   "BI053": "psychology-parallels references partially verified: Craig 2009 abstract opened verbatim; Barrett et al. 2019, Khalsa et al. 2018, Tang et al. 2015 not opened; flagged for supervisor",
   "B055": "psychology-parallels claims (Cozzolino 2006; Greenberg et al. 1986) not verified against opened sources; MN 131 locator inherited, not re-verified; flagged for supervisor",
   "B084": "psychology-parallels claims (Gross 2015; adaptive flexibility research) not verified against opened sources; the five-antidotes tradition pairs inherited from the seed; flagged for supervisor",
-  "B099": "psychology-parallels claims (Klimecki et al. 2013; Singer and Klimecki 2014) and the Shantideva locator not verified against opened sources; flagged for supervisor"
+  "B099": "Reopened for QC: QC: Metta Sutta passage is goodwill, not karuna-mechanism evidence; applying advisor-approved source-bounded replacements"
  },
  "missing_concepts": [],
  "sources_checked": 5,
- "updated": "2026-10-19T12:23:58+00:00"
+ "updated": "2026-10-19T12:26:26+00:00",
+ "band_done": false
 }

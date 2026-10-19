@@ -128,3 +128,10 @@ Advisor QC (2026-10-19): quotes verified (BQ1 ch. 22 sentence, BQ2 ch. 68 verse 
 - Inherited, NOT opened: Klimecki et al. 2013, Singer and Klimecki 2014 claims; the Shantideva locator — flagged in the band state file.
 - Saturation: Empathic distress, Bodhicitta, Karuna cite B099; Compassion does not — one reciprocal proposal added.
 - Validator: ok after dash-budget fix; prose ~160 words; protected fields untouched.
+
+## QC repairs (advisor-directed after item-15 QC, same commit)
+
+- B099 REPAIRED: the Metta Sutta passage is goodwill evidence, not a karuna-mechanism source; the source-bounded replacement text applied (no mechanism or dependency claims from a goodwill passage; For example replaced with a hypothetical meal offer; Plain words replaced with a two-step offer of help). Compassion, Empathic distress, Bodhicitta, Karuna concept pages read; Compassion cites no B099 (reciprocal stands). Validator ok, prose 119.
+- BI053 REPAIRED: the blockquote's "Its" antecedent restored (full two-sentence abstract quote naming the AIC first); "foundation of emotional awareness" replaced with the abstract's actual claim (AIC re-representation tied to subjective feelings); the two-week heartbeat-training outcome claim removed (For example now a hypothetical count-and-compare procedure); "It is trainable" removed from the body (training claims remain only as flagged inherited parallels citations). Validator ok, prose 112.
+- B055 REPAIRED: "death is the fifth" was WRONG — the re-fetched sutta list (AN 5.57) shows death is the THIRD subject for recollection (1 aging, 2 illness, 3 death, 4 separation, 5 kamma); corrected. Funeral anecdote replaced with a hypothetical priority review. Validator ok, prose 219.
+- All three: no wikilink changes; protected fields untouched.

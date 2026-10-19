@@ -12,15 +12,15 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BI — Biophysi
 ---
 > **Principle 53** — Cultivate interoceptive awareness: notice internal signals
 
-Interoception — the perception of internal bodily signals (heart rate, breath, gut, muscle tone) — is the foundation of emotional awareness. Poor interoception is associated with alexithymia and poorer emotion regulation. It is trainable.
+Interoception is the perception of internal bodily signals (heart rate, breath, gut, muscle tone). Craig's review locates the re-representation of these signals in the anterior insular cortex and ties that re-representation to all subjective feelings ([Craig, 2009](https://pubmed.ncbi.nlm.nih.gov/19096369/)).
 
-> Its function in the re-representation of interoception offers one possible basis for its involvement in all subjective feelings. (Craig, 2009, [PubMed](https://pubmed.ncbi.nlm.nih.gov/19096369/))
+> The anterior insular cortex (AIC) is implicated in a wide range of conditions and behaviours, from bowel distension and orgasm, to cigarette craving and maternal love, to decision making and sudden insight. Its function in the re-representation of interoception offers one possible basis for its involvement in all subjective feelings. (Craig, 2009, [PubMed](https://pubmed.ncbi.nlm.nih.gov/19096369/))
 
 **Plain words**
-Interoception is trainable: you can learn to feel your own heart, breath, gut, tension more clearly. Better signal, better emotional awareness. The reps are just noticing, daily.
+Your body sends signals all day: heart rate, breath, gut, tension. Most of them go unread. Learning to read them is attention rather than therapy: notice the raw sensation before interpreting it, and the picture you act on gets more complete.
 
 **For example**
-The two-week practice of counting heartbeats without taking a pulse — accuracy improves, and with it, the early warning system for emotions. You can't steer what you can't feel.
+Sit for five minutes and count your heartbeats without taking your pulse; write down your count, then compare it with a measured count. The gap between the two is information about your current signal.
 
 ## Sources
 

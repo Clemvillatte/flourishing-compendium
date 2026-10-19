@@ -12,19 +12,19 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 99** — Respond to suffering with the wish to relieve it (karuna in action)
 
-The Karaṇīya Metta Sutta gives the emotional image behind the response: a mother's protectiveness, extended without limit. The sutta's direction is cultivation: a practice, not a mood ([Karaṇīya Metta Sutta, Sn 1.8, Thanissaro](https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.than.html)).
+The Karaṇīya Metta Sutta compares cultivating a limitless heart toward all beings with a mother protecting her only child ([Thanissaro, Sn 1.8](https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.than.html)).
 
 > As a mother would risk her life to protect her child, her only child, even so should one cultivate a limitless heart with regard to all beings. (Karaṇīya Metta Sutta, Sn 1.8, [Thanissaro](https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.than.html))
 
-Karuna is the suffering-facing half of that limitless heart: moved by pain, and moved to help. The boundary the principle keeps — feeling for rather than falling in — is a boundary the image already makes: the mother protects the child, which requires staying on her feet.
+As a practical application, extend that concern to someone who is suffering. Consider what help they would welcome and what you can realistically offer.
 
 (Karaṇīya Metta Sutta; Shantideva.)
 
 **Plain words**
-Sympathy hurts when it has no channel: you feel the pain and can do nothing with it. Compassion is the version with a channel: the feeling gets converted into some smallest useful act, even if the act is only staying present. The boundary is functional: drowning with someone saves no one; staying afloat is what lets you reach them.
+Before deciding what another person needs, give them time to explain what is wrong. Ask whether they would like you to listen or do something practical. Offer help you can carry out, and leave them room to decline it.
 
 **For example**
-The ER nurse: fully moved by the patient's fear, fully functional in her own body — that's the boundary, held.
+Imagine a friend caring for a sick relative. Ask whether bringing a meal tomorrow would help. If they accept, agree on a time and check whether there are dietary requirements.
 
 ## Sources
 

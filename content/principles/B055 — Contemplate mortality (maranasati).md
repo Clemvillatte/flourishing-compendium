@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 55** — Contemplate mortality (maranasati)
 
-The Upajjhatthana Sutta lists five facts to recollect often, and death is the fifth. The reason the sutta gives is therapeutic rather than morbid: beings are intoxicated with life, and that intoxication makes them conduct themselves badly in body, speech and mind; often reflecting on death either entirely abandons the intoxication or weakens it ([AN 5.57, Thanissaro](https://www.accesstoinsight.org/tipitaka/an/an05/an05.057.than.html)).
+The Upajjhatthana Sutta lists five facts to recollect often, and death is the third of them: aging, illness, death, separation from the dear, and ownership of one's actions ([AN 5.57, Thanissaro](https://www.accesstoinsight.org/tipitaka/an/an05/an05.057.than.html)). The reason the sutta gives is therapeutic rather than morbid: beings are intoxicated with life, and that intoxication makes them conduct themselves badly in body, speech and mind; often reflecting on death either entirely abandons the intoxication or weakens it ([AN 5.57, Thanissaro](https://www.accesstoinsight.org/tipitaka/an/an05/an05.057.than.html)).
 
 > "I am subject to death, have not gone beyond death." (Upajjhatthana Sutta, AN 5.57, [Thanissaro](https://www.accesstoinsight.org/tipitaka/an/an05/an05.057.than.html))
 
@@ -24,7 +24,7 @@ The sutta pairs death with separation: "I will grow different, separate from all
 Most days you act as if you had unlimited time, and the inbox behaves as if you did too. Death contemplation is the counter-habit: run the to-do list past the fact that the list has a last item. The point is that the petty items shrink when they stand next to the fact, and what matters gets easier to see.
 
 **For example**
-After the funeral, nobody spends the week arguing about the group chat — mortality briefly fixes the priority list.
+After attending a funeral, review your current priorities: name one standing argument you are carrying, and decide whether to keep carrying it.
 
 ## Sources
 
