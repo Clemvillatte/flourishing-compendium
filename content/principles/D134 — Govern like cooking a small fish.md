@@ -12,13 +12,15 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 134** — Govern like cooking a small fish
 
-A great state (or project, or family) is best handled with minimal interference: too much stirring and it falls apart.
+Chapter 60 of the Daodejing is one of the shortest chapters in the book, and the whole teaching is a single image. Legge: "Governing a great state is like cooking small fish. Let the kingdom be governed according to the Dao, and the manes of the departed will not manifest their spiritual energy" ([Daodejing 60, James Legge translation, Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt)). The image carries the entire argument: a small fish is delicate, and the impulse to keep prodding it is precisely what destroys it.
 
-(DDJ 60.)
+The chapter's second half extends the point with a claim about interference itself: it is not that the sage does nothing; it is that the not-doing is what allows the thing to do itself. "When the Dao prevails in the world, they send back their horses to draw carts... When the Dao is disregarded in the world, war-horses are bred in the suburbs" ([Daodejing 46, James Legge translation, Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt)). The same system, under two different kinds of handling, produces two different outcomes.
 
-**Plain words** A great state — or project, or family — is best handled like cooking a small fish: minimal stirring, or it falls apart. The instinct to keep prodding is exactly what breaks delicate things. Attention isn't the same as interference.
+> "Governing a great state is like cooking small fish." (Daodejing 60, James Legge translation, [Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 
-*For example:* The sourdough you keep checking and 'fixing' comes out dense; the one you leave alone comes out perfect — same flour.
+**Plain words** The sourdough you keep checking and fixing comes out dense; the one you leave alone comes out perfect, and the difference is not the flour. This is the pattern the principle is about — not that attention is bad, but that interference is not attention. A great project, team or family is delicate in the same way, and the instinct to keep prodding it is exactly what breaks it. You can care without touching.
+
+*For example:* Two managers run the same team. One checks in daily, adjusts constantly, and cannot understand why the team never develops its own judgement. The other sets the boundary once and stops touching it; the team develops, and the results arrive without the manager's hand on the wheel. Same team; only one of them is cooking a small fish.
 
 ## Psychology parallels
 
