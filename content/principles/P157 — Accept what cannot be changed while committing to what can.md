@@ -22,7 +22,7 @@ The two halves of the principle are the two halves of that definition: contactin
 
 ACT links willingness to experience difficult thoughts or feelings with action guided by chosen values. Its definition does not require those experiences to disappear before action can begin.
 
-(Hayes, Strosahl and Wilson, 2011.)
+(Hayes, Pistorello and Levin, 2012, The Counseling Psychologist 40(7), 976–1002.)
 
 **Plain words**
 The question the definition raises for a struggle: has removing a feeling become a prerequisite for acting? The ACT account separates the two, so a valued action can be attempted while the feeling is still there. Whether acting changes the feeling is not promised by the definition.
@@ -32,7 +32,7 @@ Imagine a phone call you have been avoiding because of anxiety about it. The exe
 
 ## Sources
 
-- [Hayes, "Acceptance and Commitment Therapy as a Unified Model of Behavior Change" (The Counseling Psychologist; APA CE PDF)](https://www.apa.org/education-career/ce/acceptance-commitment.pdf) — the psychological flexibility definition and the acceptance-as-counter-to-experiential-avoidance line
+- [Hayes, Pistorello and Levin, "Acceptance and Commitment Therapy as a Unified Model of Behavior Change", The Counseling Psychologist 40(7), 976–1002 (APA CE PDF)](https://www.apa.org/education-career/ce/acceptance-commitment.pdf) — the psychological flexibility definition and the acceptance-as-counter-to-experiential-avoidance line
 
 ## Stories
 
