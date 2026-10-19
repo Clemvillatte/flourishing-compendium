@@ -55,7 +55,7 @@ The owner's primary-source library is in `docs/PRIMARY-SOURCES.md`.
 | p1b | 31-100 | E012 to PP029 | p1b | DONE (all 70 items rewritten) | genuineflourishing42 | 2026-10-20 |
 | p1c | 101-170 | PP081 to B146 | p1c | claimed | genuineflourishing29 | 2026-10-19 |
 | p1d | 171-240 | BI012 to B129 | p1d | claimed | genuineflourishing42 (took released band) | 2026-10-20 |
-| p1e | 241-310 | BE026 to D065 | p1e | claimed | genuineflourishing35 (took over dead genuineflourishing28) | 2026-10-19 |
+| p1e | 241-310 | BE026 to D065 | p1e | claimed | worker-p1e-4f2c9b1d (took over released band; 43/70 done; P157 citation repair first) | 2026-10-20 |
 | p1f | 311-370 | D074 to BI001 | p1f | claimed | genuineflourishing41 (took over stale genuineflourishing33; 20/60 done, D/B/P items QC-passed) | 2026-10-20 |
 | p1g | 371-430 | BI009 to Y015 | p1g | claimed | genuineflourishing35 (took over dead genuineflourishing34) | 2026-10-19 |
 | p1h | 431-490 | Y026 to D096 | p1h | claimed | genuineflourishing35 | 2026-10-19 |
