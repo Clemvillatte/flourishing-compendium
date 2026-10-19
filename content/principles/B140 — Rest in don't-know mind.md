@@ -13,7 +13,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 
 > **Principle 140** — Rest in don't-know mind
 
-The compendium pairs two teachings under this title. One is the Xinxin Ming, the Chinese verse attributed to the third Zen patriarch, which treats the sorting of liked against disliked as the obstacle to seeing clearly. The other is the teaching of the Korean teacher Seung Sahn, whose phrase "only don't know" the principle's title carries. The compendium places these alongside one another; it does not claim they say the same thing.
+The Xinxin Ming, attributed to Sengcan, warns that preference can obstruct seeing clearly. Seung Sahn's instruction invites a practice of not knowing; the compendium brings the two teachings together without treating them as interchangeable ([Clarke translation, opening verses](https://terebess.hu/english/hsin.html); [Seung Sahn, The Compass of Zen excerpt](https://kwanumzen.org/teaching-blog/i-only-teach-dont-know)).
 
 > To set up what you like against what you dislike
 > is the disease of the mind.
@@ -24,16 +24,18 @@ The compendium pairs two teachings under this title. One is the Xinxin Ming, the
 >
 > — Seung Sahn, The Compass of Zen ([Kwan Um School of Zen](https://kwanumzen.org/teaching-blog/i-only-teach-dont-know))
 
-**Plain words** One way to use these teachings is to leave a first impression unfinished: notice your liking or dislike, then keep listening.
+### Plain words
 
-For example (imagined): someone meets a new colleague and notices they are already forming a judgment. They let the judgment stay provisional, and continue the conversation without having settled it.
+You can have reasons for a view and still leave room for correction. Before deciding that you understand someone, ask what you have actually heard and what you supplied yourself. This everyday application lets you use what you know while admitting what you have yet to learn.
 
-(Korean Seon: "don't know"; Xinxin Ming.)
+### For example
+
+Imagine a new colleague declining an invitation. Before deciding they dislike the team, ask whether another time would suit them. You need not invent a reassuring explanation either; their reason is still something to find out.
 
 ## Psychology parallels
 
-- **[[Intellectual humility|Intellectual humility]]** (Leary et al., 2017)
-- **[[Tolerance of uncertainty|Tolerance of uncertainty]]** (Dugas, 1998)
+- **[[Intellectual humility|Intellectual humility]]**: four studies associated recognition of fallibility with openness and attention to argument strength; they did not test Zen practice ([Leary et al., 2017, abstract](https://pubmed.ncbi.nlm.nih.gov/28903672/)).
+- **[[Tolerance of uncertainty|Tolerance of uncertainty]]**: intolerance distinguished 24 GAD patients from 20 controls in a preliminary model test, not a trial of don't-know practice ([Dugas et al., 1998, abstract](https://pubmed.ncbi.nlm.nih.gov/9613027/)).
 
 ## Philosophy parallels
 
