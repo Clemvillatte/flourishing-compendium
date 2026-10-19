@@ -12,13 +12,15 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 47** — Keep the great doubt alive
 
-Not corrosive doubt but productive not-knowing: let the question burn until the mind, stripped of easy answers, opens. Great doubt matures into direct seeing.
+Hakuin's famous formulation is not a single line but a tripod: a person who commits to the practice of Zen must be equipped with three essentials — a great root of faith, a great ball of doubt, and a great tenacity of purpose. "Lacking any one of them, he is like a tripod with only two legs" ([Hakuin, Selected Writings, Terebess](https://terebess.hu/zen/hakuin-works.html)). The doubt in question is not intellectual scepticism; it is the settled unease of being given a question that cannot be answered, and staying with it long enough for something to give way.
 
-(Hakuin; Gateless Gate.)
+Hakuin's key line is more compact than the tripod: "At the bottom of great doubt lies great awakening. If you doubt fully you will awaken fully" ([Hakuin, Selected Writings, Terebess](https://terebess.hu/zen/hakuin-works.html)). This is the point the principle carries: doubt is not an obstacle on the way to seeing; it is the mechanism by which the seeing is produced. The question that cannot be answered is the engine, not the problem.
 
-**Plain words** Not corrosive doubt but productive not-knowing — let the question burn until the mind, stripped of easy answers, opens. Great doubt matures into direct seeing. The certainty addicts get a comfortable life; the doubters occasionally get the truth.
+> "At the bottom of great doubt lies great awakening. If you doubt fully you will awaken fully." (Hakuin Ekaku, Selected Writings, [Terebess](https://terebess.hu/zen/hakuin-works.html))
 
-*For example:* The scientist's productive unease with their own best theory — the doubt isn't a problem, it's the engine of the discovery.
+**Plain words** Corrosive doubt says "this is probably worthless," and produces nothing. Great doubt says "I do not know the answer to this, and I am not going to accept a substitute," and produces the entire practice. The scientist's unease with their own best theory is not a flaw in the theory; it is the mechanism by which the next theory gets found. This is not licence to be perpetually sceptical — it is the instruction to hold one real question seriously, instead of collecting easy answers.
+
+*For example:* Two students both hit a wall in their practice. One concludes they are doing it wrong and looks for a better technique. The other sits with the question they cannot answer — what is this? — and stays with it past the discomfort. Only one of them is in the territory where the tripod stands.
 
 ## Stories
 

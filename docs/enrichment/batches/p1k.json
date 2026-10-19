@@ -10,11 +10,12 @@
   "B031",
   "B033",
   "B044",
-  "B045"
+  "B045",
+  "B047"
  ],
- "in_progress": "B047",
+ "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-19T13:41:39+00:00"
+ "updated": "2026-10-19T13:41:50+00:00"
 }
