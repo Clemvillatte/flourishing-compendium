@@ -1,7 +1,8 @@
 {
  "batch": "p1f",
  "done": [
-  "D074"
+  "D074",
+  "D088"
  ],
  "in_progress": null,
  "flagged": {
@@ -9,6 +10,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-19T12:15:48+00:00",
+ "updated": "2026-10-19T12:16:21+00:00",
  "band_done": false
 }

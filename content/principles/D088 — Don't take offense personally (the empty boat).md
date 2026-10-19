@@ -12,13 +12,16 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 88** — Don't take offense personally (the empty boat)
 
-If an empty boat drifts into yours, you don't scream at it. Most collisions in life are empty boats: people driven by their own currents, not aimed at you.
+If an empty boat drifts into yours, you don't scream at it. Zhuangzi tells the parable this way:
 
-(Zhuangzi 20.)
+> "If a man is crossing a river in a boat, and another empty vessel comes into collision with it, even though he be a man of a choleric temper, he will not be angry with it. If there be a person, however, in that boat, he will bawl out to him to haul out of the way."
+> (Zhuangzi 20, [Legge's translation](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
 
-**Plain words** Most collisions in life are empty boats — people driven by their own currents, not aimed at you. Taking it personally adds a second collision to the first.
+The damage is the same in both cases; the shout only starts when there is someone in the boat to blame. The choleric man's temper appears with the thought of an agent, not with the collision. Zhuangzi draws the lesson on the offended side: "If a man can empty himself of himself, during his time in the world, who can harm him?" (Zhuangzi 20, Legge.) The compendium's application: most collisions in life are empty boats, people driven by their own currents rather than aimed at you. (Zhuangzi 20.)
 
-*For example:* The driver who cut you off was probably late, distracted, and thinking about their kid — an empty boat, drifting.
+**Plain words** The bump was real; the aim was invented. Before you answer a slight, ask what evidence you actually have that it was aimed at you. If there is none, treat it as drift and spend your response on the damage rather than on the insult.
+
+*For example:* Suppose a driver cuts you off. You know the gap you now have to the car in front, and nothing about the other driver's mind. The empty-boat reading is to adjust your speed and drop the case against them.
 
 ## Stories
 
