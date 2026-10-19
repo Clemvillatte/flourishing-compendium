@@ -9,11 +9,12 @@
   "R005",
   "A001",
   "D054",
-  "S001"
+  "S001",
+  "S007"
  ],
- "in_progress": "S007",
+ "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
- "sources_checked": 4,
- "updated": "2026-10-19T10:29:27+00:00"
+ "sources_checked": 7,
+ "updated": "2026-10-19T10:33:56+00:00"
 }

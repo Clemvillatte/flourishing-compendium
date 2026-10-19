@@ -12,13 +12,16 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 129** — Accept what happens as the will of providence
 
-The Stoic accepts what occurs, not passively but as the unfolding of a rational order. What seems like misfortune may be a necessary part of the whole. This is not fatalism; it is the refusal to demand that the universe conform to your preferences. Practise saying "this too is nature."
+Marcus compares adversity to a physician's prescription. He argues that something disagreeable to an individual can contribute to the health of the universe:
 
-(Med. IV.10, V.8, VIII.50; Disc. I.12, I.17; Seneca, Letters 107, On Providence.)
+> "And so accept everything which happens, even if it seem disagreeable, because it leads to this, to the health of the universe and to the prosperity and felicity of Zeus (the universe)."
+> (Med. V.8, [George Long's translation](https://classics.mit.edu/Antoninus/meditations.5.five.html))
 
-**Plain words** The Stoic accepts what happens, not passively but as part of an unfolding order. What looks like misfortune may be a needed piece of the whole. It isn't fatalism. It's refusing to insist the universe match your preferences. Practise saying "this too is nature."
+His reason for acceptance is the belief that events belong to an ordered whole and serve its good. The compendium draws an everyday exercise from this account: acknowledge what has happened and consider how to respond.
 
-*For example:* A promotion falls through. After the sting, you ask what the world is now offering instead of arguing with the verdict.
+**Plain words** Marcus asks you to believe that a disappointment in your own life can serve the good of the universe as a whole. His advice depends on that belief about how the world is governed. The practical exercise is to recognise the event you now face and decide what to do next.
+
+*For example:* Suppose someone else receives the promotion you wanted. A person practising Marcus's view would try to accept the outcome as part of the larger order, then consider their next action.
 
 ## Stories
 
