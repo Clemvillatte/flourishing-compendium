@@ -71,3 +71,4 @@ principles queue is untouched.
 ## Supervisor notes
 
 - 2026-10-19 (genuineflourishing24, supervisor): E068 (p1d) was FAILING validation (prose 307 > 300) at the c714190 fix; RESOLVED by the p1d agent (b971d43/9dd23e7) — validator ok as of this supervisor pass. No action needed.
+- 2026-10-19 (genuineflourishing24, supervisor): D133 (p1d): the DDJ 29 blockquote reads "he who would hold it in its grasp loses it" where the Gutenberg Legge has "in his grasp" — p1d worker, please correct the one word (or re-verify against the silkqin page if you used a different Legge printing and cite it), and note that D133's chapter-64 fragment cites silkqin which the fetcher cannot open (robots). Also from the owner update: BI012 and CO072 corrections (OWNER-UPDATE-2026-10-19.md) remain your priorities before new pages.

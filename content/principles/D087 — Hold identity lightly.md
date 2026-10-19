@@ -12,19 +12,24 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 87** — Hold identity lightly
 
-Zhuangzi closes the second chapter with the butterfly dream: "Formerly, I, Zhuang Zhou, dreamt that I was a butterfly, a butterfly flying about, feeling that it was enjoying itself... Suddenly I awoke, and was myself again, the veritable Zhou. I did not know whether it had formerly been Zhou dreaming that he was a butterfly, or it was now a butterfly dreaming that it was Zhou. But between Zhou and a butterfly there must be a difference. This is a case of what is called the Transformation of Things" (Zhuangzi 2, [Legge's translation](https://www.silkqin.com/02qnpu/07sqmp/sq60zzmd.htm)). The point is not that nothing is real. Zhuangzi simply declines to certify which identity is the final one, and names the gap between them wuhua, the transformation of things: identity as a process of change rather than a fixed possession ([Interpreting the Butterfly Dream](https://www.tandfonline.com/doi/full/10.1080/09552360802673781)). Holding identity lightly is the practical corollary. Your self-story is equipment: use it, and do not mistake it for the hand.
+Zhuangzi closes the second chapter with the butterfly dream:
+
+> "Formerly, I, Zhuang Zhou, dreamt that I was a butterfly, a butterfly flying about, feeling that it was enjoying itself. I did not know that it was Zhou. Suddenly I awoke, and was myself again, the veritable Zhou. I did not know whether it had formerly been Zhou dreaming that he was a butterfly, or it was now a butterfly dreaming that it was Zhou. But between Zhou and a butterfly there must be a difference. This is a case of what is called the Transformation of Things."
+> (Zhuangzi 2, [Legge's translation](https://www.silkqin.com/02qnpu/07sqmp/sq60zzmd.htm); passage verified against the [Legge Zhuangzi edition, ETH Zurich](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
+
+The narrator says he does not know whether Zhou dreamed he was a butterfly or a butterfly is dreaming it is Zhou. He also says there must be a difference between them. The compendium takes this uncertainty as an invitation to reconsider a self-description before allowing it to determine a choice.
 
 **Plain words**
-You did not choose most of what you call yourself: the name, the nationality, the "I'm just not a math person." They were handed to you, and they work well enough as handles. The trouble starts when the handle starts using you: when "I'm a shy person" starts deciding which class you take, or "I'm not the kind who..." decides what you attempt. Holding identity lightly means treating each label as a costume you can notice wearing, and asking, now and then, whether the costume still fits what the day requires.
+Suppose you have said "I'm a shy person" for years, and the sentence has started deciding which class you take. The description may have begun as an accurate observation; somewhere it became a rule. Holding identity lightly means treating each label as a costume you can notice wearing, and asking whether the costume should decide this particular choice, or only describe how things have gone so far.
 
 **For example**
-*For example:* The 'I'm just not a math person' identity dissolves in a good course — the butterfly was never the whole story.
+*For example:* Suppose you have told yourself for years that you are not the sort of person who speaks in meetings. Treat that as the label's opinion, and decide whether to speak on the merits of the question.
 
 ## Sources
 
-- [Legge's translation of the butterfly dream, Zhuangzi ch. 2 (Qiwulun), with the Chinese](https://www.silkqin.com/02qnpu/07sqmp/sq60zzmd.htm) — verbatim text
-- ["Interpreting the Butterfly Dream," Interdisciplinary Studies of Literature](https://www.tandfonline.com/doi/full/10.1080/09552360802673781) — wuhua, the transformation of things
-- [Burton Watson's translation (PDF)](http://www.csun.edu/~vcoao0fk/Zhuangzi.pdf) — comparison translation
+- [Legge's translation of the butterfly dream, Zhuangzi ch. 2 (Qiwulun), with the Chinese](https://www.silkqin.com/02qnpu/07sqmp/sq60zzmd.htm) — the page's original citation; re-verified this session against the [Legge Zhuangzi edition, ETH Zurich](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) (the silkqin page itself was not re-openable)
+- ["Interpreting the Butterfly Dream," Interdisciplinary Studies of Literature](https://www.tandfonline.com/doi/full/10.1080/09552360802673781) — further reading; not used to support any claim (access blocked this session)
+- [Burton Watson's translation (PDF)](http://www.csun.edu/~vcoao0fk/Zhuangzi.pdf) — comparison translation (not opened this session)
 
 ## Stories
 
