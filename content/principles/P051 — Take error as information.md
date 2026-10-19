@@ -13,13 +13,13 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 
 > **Principle 51** — Take error as information
 
-In Peirce's picture, doubt and belief are two different mental states, and only one of them moves you. A belief lets you act; a doubt makes you uneasy and pushes you to settle it. That discomfort is not a defect; it is the thing that makes inquiry happen at all.
+Peirce separates two mental states in "The Fixation of Belief." Belief is calm and satisfying; doubt is uneasy and dissatisfied, and it is doubt that pushes you to settle something. That discomfort is not a defect in the system; it is the mechanism that starts inquiry.
 
-> The irritation of doubt causes a struggle to attain a state of belief. I shall term this struggle *inquiry*, though it must be admitted that this is sometimes not a very apt designation. (Peirce, "The Fixation of Belief," *Popular Science Monthly* 12, November 1877, p. 5)
+> The irritation of doubt causes a struggle to attain a state of belief. I shall term this struggle *inquiry*, though it must be admitted that this is sometimes not a very apt designation. (Peirce, "The Fixation of Belief," [Popular Science Monthly 12, 1877](https://www.peirce.org/writings/p107.html), section IV)
 
-A mistake, on this reading, is not a moral verdict on your character; it is the world telling you that a habit you relied on does not fit how things actually are. That is the useful part. The wasteful move is to treat the error as a wound to defend rather than as the very signal inquiry needs.
+An error, read in Peirce's terms, is the moment where a habit you relied on failed to match what the world actually did. The information it carries is exactly that mismatch: your expectation, the outcome, and the gap between them. That is the raw material any correction has to work from, and it is only available if the failure is examined rather than defended.
 
-**Plain words** Everyone wants to be right, so a mistake feels like a personal failure and the reflex is to hide it, explain it away, or blame someone. But the mistake is not a moral fact about you; it is a measurement of where your expectation met the world and lost. Read it as that, and it tells you something you could not have learned any other way.
+**Plain words** When something you expected to work does not, the reflex is to treat it as a personal blow and move on as fast as possible. Read the event differently and it becomes a record of where your assumption met reality and lost. A team that runs a blameless post-mortem treats a failed launch as that record; the same failure in a blame hunt produces nothing usable about the product.
 
 *For example:* A team that runs a blameless post-mortem on a failed launch treats the failure as a map of where their assumptions and reality diverged. A team that runs a blame hunt learns nothing except who to be careful around.
 

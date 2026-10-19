@@ -13,15 +13,15 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 
 > **Principle 34** — Know that every view is from somewhere
 
-Nietzsche's point in The Gay Science §354 is not that truth is useless, but that our organs of knowing never evolved to see the world plain. They evolved to help a vulnerable social animal survive, and what shows up in consciousness is already filtered, thinned, and flattened to what is communicable to the group.
+Nietzsche's conjecture in The Gay Science §354 is that our organs of knowing never evolved to see the world plain. On his account, consciousness developed under the pressure of needing to communicate with other members of a vulnerable species, so whatever reaches awareness has already been thinned and flattened into something shareable.
 
-> Indeed, we have not any organ at all for *knowing* or for "truth"; we "know" (or believe, or fancy) just as much as may be *of use* in the interest of the human herd, the species. (Nietzsche, The Gay Science, §354, Common translation, Gutenberg)
+> Indeed, we have not any organ at all for *knowing* or for "truth"; we "know" (or believe, or fancy) just as much as may be *of use* in the interest of the human herd, the species; and even what is here called "usefulness" is ultimately only a belief, a fancy, and perhaps precisely the most fatal stupidity by which we shall one day be ruined. (Nietzsche, The Gay Science, §354, Common translation, [Gutenberg](https://www.gutenberg.org/files/52881/52881-0.txt))
 
-The pragmatic move follows: if every view is shaped by the position and interest of the viewer, then the honest thing is not to pretend you have no position, but to state it and let other positions correct it. This is not relativism. It treats the *number of positions you have actually consulted* as the working test of objectivity, not the absence of position. Bernstein calls this beyond objectivism and relativism: you keep the discipline of truth-seeking while giving up the pretence that you can see from nowhere.
+What follows is narrower than relativism. If consciousness is built for communication rather than for unmediated contact with reality, then a claim about the world is always made from inside a particular position, with its own history and interests, and that position can be named. Naming it is not giving up on truth; it is stating one of the conditions under which the claim was made, which is what makes checking it possible.
 
-**Plain words** Every claim you make is made from somewhere: your education, your pay cheque, your injuries, your hopes. The person who says they have no angle is usually the one whose angle is invisible to them, which makes it harder to check, not easier. The fix is not to find a view with no angle; it is to bring more angles onto the same thing and see which conclusions survive all of them.
+**Plain words** A claim you make comes with a history: what you have read, who has paid you, what has hurt you. That background shapes what you are likely to notice and what you are likely to skip. You cannot remove it; you can bring it into the open, which is the only version of neutrality that has ever actually worked.
 
-*For example:* When a company publishes a study showing its own product is safe, the useful question is not whether the study is fake; it is who paid for it, what questions were excluded, and what an independent group with different incentives would have asked instead.
+*For example:* When a company publishes a study showing its own product is safe, the useful first question is not whether the study is fake. It is who funded it, which questions it left out, and what a group with different incentives would have asked.
 
 ## Psychology parallels
 

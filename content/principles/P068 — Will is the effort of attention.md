@@ -13,13 +13,13 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 
 > **Principle 68** — Will is the effort of attention
 
-James spent a chapter of The Principles of Psychology dismantling the idea that will is some separate faculty that pushes the body around. In his account, there is only one place where you can see volition actually happening: the effort of holding one thought in front of the mind while other thoughts pull at you.
+In the chapter on Will in The Principles of Psychology, James argues that what we call volition has only one component we can actually observe in ourselves: the act of keeping one thought in front of the mind while other thoughts compete to displace it.
 
-> The essential achievement of the will, in short, when it is most 'voluntary,' is to *attend* to a difficult object and hold it fast before the mind. (James, The Principles of Psychology, 1890, chapter on Will)
+> The essential achievement of the will, in short, when it is most 'voluntary,' is to ATTEND to a difficult object and hold it fast before the mind. (James, The Principles of Psychology, 1890, chapter XXVI, [Classics in the History of Psychology](https://www.yorku.ca/pclassic/James/Principles/prin26.htm))
 
-What makes this practical rather than merely academic is where it locates the work. If willing is attending, then the lever you actually control is not how much you want something; it is whether the object you have chosen stays in front of your mind. The wanting is already there. The question is whether it gets to hold the field against whatever else is drifting through.
+The significance is where this locates the work of willing. The wanting is usually already present; what varies between a resolved intention and a wish is whether the chosen object keeps its place in the field of thought against whatever else is pulling at attention. On James's account, once the idea is stably in possession of that field, the action tends to follow on its own, because the motor consequences are a psychological incident of the attending rather than a separate push.
 
-**Plain words** Everyone talks about willpower as if it were grit you either have or lack. James's finding is narrower and more useful: will is what you call the act of keeping your attention on a thing you have chosen while something else competes for it. The choice is not the hard part; the staying is. If you train the staying, you have trained the will.
+**Plain words** People talk as if willpower were a quantity of grit you either have or lack. James's account is narrower: willing is what you are doing in the moment when you keep your attention on something you have chosen while something else is competing for it. The wanting is not the hard part. What is hard is the staying, and that is the only part that feels like effort.
 
 *For example:* Reading with a phone buzzing on the desk is not a character test. The whole exercise is returning your eyes to the page each time the pull of the phone wins, and the book you finish was won that way, over and over.
 

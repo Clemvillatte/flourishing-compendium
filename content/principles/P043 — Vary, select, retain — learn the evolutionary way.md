@@ -13,15 +13,15 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 
 > **Principle 43** — Vary, select, retain: learn the evolutionary way
 
-Dewey, Peirce, and the evolutionary pragmatists all saw the same loop running through nature and through you: throw out variations, let consequences keep some and kill the rest, and hold on to what survives. What distinguishes this from a plan is that no one has to know in advance which variation will win; the world decides.
+Dewey's account of deliberation in Human Nature and Conduct gives the mechanism. When action is blocked and you have to choose, each competing habit and impulse takes a turn running in imagination; you watch what would happen if you followed it, and the one that survives the rehearsal becomes the one you act on. Learning is the same loop run with the world instead of imagination.
 
-> Upon this first, and in one sense this sole, rule of reason, that in order to learn you must desire to learn and in so desiring not be satisfied with what you already incline to think, there follows one corollary which itself deserves to be inscribed upon every wall of the city of philosophy: Do not block the way of inquiry. (Peirce, "The First Rule of Logic," in *The Essential Peirce*, vol. 2, p. 48)
+> Deliberation is an experiment in finding out what the various lines of possible action are really like. It is an experiment in making various combinations of selected elements of habits and impulses, to see what the resultant action would be like if it were entered upon. (Dewey, Human Nature and Conduct, part 3, "The Nature of Deliberation," [Standard Ebooks edition](https://standardebooks.org/ebooks/john-dewey/human-nature-and-conduct/text/chapter-3-3))
 
-Peirce's rule is the operating constraint on the vary-select-retain loop. You cannot select what wins if you never generate the variants; you cannot retain what works if you are already satisfied with what you have. The practical version is simple: aim to generate more options than you intend to keep, and let the actual consequences of trying them choose which ones survive.
+The three steps line up with Dewey's sequence. Vary: let more than one course actually run far enough to be judged. Select: watch what happens to each and let the consequence do the choosing. Retain: what survives gets written into a habit, which then becomes the starting point for the next round of variation. Peirce's contribution is the same constraint stated for inquiry as a whole: keep generating and testing rather than declaring any answer final, because the unpardonable move is the one that shuts the road of further advance toward the truth.
 
-**Plain words** Most people try to pick the best answer before trying anything. The evolutionary approach does the opposite: try several options, including some you do not expect to keep, then keep whichever one the results favour. The quality of your life is decided less by your best guess than by how many guesses you were willing to test and whether you let the results, not your preference, do the choosing.
+**Plain words** A plan is one guess made in advance. A trial is several guesses each given a real chance to fail. Suppose you are deciding between three morning routines; running each for two weeks gives you actual results to compare against each other, and the routine you keep is the one whose results you preferred, not the one you expected to like. That comparison, run on lived results instead of preference, is what the principle asks for.
 
-*For example:* Run three morning routines for a month each. Two will probably die. The one that survives is the one that survives, not the one you liked on paper; that is the point.
+*For example:* Trying three morning routines for a month each — two die, one survives. That's not indecision; that's selection pressure doing your homework.
 
 ## Psychology parallels
 
