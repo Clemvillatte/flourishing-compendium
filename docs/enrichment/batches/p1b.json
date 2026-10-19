@@ -12,7 +12,8 @@
   "D016",
   "B002",
   "A039",
-  "B065"
+  "B065",
+  "D057"
  ],
  "in_progress": null,
  "flagged": {
@@ -20,6 +21,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 22,
- "updated": "2026-10-19T12:09:12+00:00",
+ "updated": "2026-10-19T12:09:45+00:00",
  "band_done": false
 }
