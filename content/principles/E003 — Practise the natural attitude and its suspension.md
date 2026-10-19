@@ -12,13 +12,23 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 395** — Practise the natural attitude and its suspension
 
-Recognise that you normally live in the "natural attitude" — the unreflective acceptance that the world is simply there, as it appears. The phenomenological reduction does not deny the natural attitude but suspends it, making the world available as a phenomenon. Practise moving between the natural attitude (living in the world) and the phenomenological attitude (reflecting on how the world appears).
+In Husserl's account, ordinary experience takes the surrounding world as factually existing without needing an explicit judgment. Discovering that something was illusory leaves that general acceptance intact. (Ideas I, §§30-31.)
 
-(Husserl, 1913/1982, Ideas I, §§27-33; Husserl, 1954/1970, The Crisis, §§35-38.)
+> We put out of action the general positing which belongs to the essence of the natural attitude; we parenthesize everything which that positing encompasses with respect to being: thus the whole natural world which is continually "there for us", "on hand," and which will always remain there according to consciousness as an "actuality" even if we choose to parenthesize it. (Husserl, Ideas I §32, Kersten trans., [full text PDF](https://www.finophd.eu/wp-content/uploads/2018/01/Husserl-Ideas-First-Book.pdf))
 
-**Plain words** You normally live in the "natural attitude" — the unreflective acceptance that the world is simply there as it appears. The reduction doesn't deny that; it suspends it, making the world available as appearance. You can't live in the suspension — you just visit, and come back with the goods.
+The epoché is the move the principle asks to be practised: it suspends using the world's accepted existence without denying or doubting it (§32). Practise moving between the natural attitude (living in the world) and the phenomenological attitude (reflecting on how the world appears).
 
-*For example:* The traveller who returns from abroad and sees their own kitchen for one week with foreign eyes — everything strange, everything newly visible — before it fades back into furniture. The suspension is that week, on purpose.
+(Husserl, Ideas I, §§27-33.)
+
+**Plain words**
+Usually, you take the world's existence for granted while dealing with things. For this inquiry, you keep that belief without using it to settle the investigation. Attention turns to how the world is given in experience.
+
+*For example:* Imagine describing your experience of seeing a kettle. For the exercise, set aside judgments that the kettle exists or does not exist, and describe how it appears. The kettle need not seem strange for you to attempt this change of attitude.
+
+## Sources
+
+- [Husserl, Ideas Pertaining to a Pure Phenomenology, First Book, Kersten translation, full-text PDF (finophd.eu)](https://www.finophd.eu/wp-content/uploads/2018/01/Husserl-Ideas-First-Book.pdf) — §§27-33: natural attitude and epoché; §30 general positing; §32 bracketing passage
+
 ## Stories
 
 - [[ST021 — Glenn Gould Records the Goldbergs Twice|21. Glenn Gould Records the Goldbergs Twice]]
