@@ -14,11 +14,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 
 Emotions are not inner decorations; they are the felt sense of how the organism-environment transaction is going. Read them as data about the situation, not as commands or verdicts.
 
+James states the reversal in the Principles of Psychology:
+
+> "Our natural way of thinking about these coarser emotions is that the mental perception of some fact excites the mental affection called the emotion, and that this latter state of mind gives rise to the bodily expression. My theory, on the contrary, is that the bodily changes follow directly the perception of the exciting fact, and that our feeling of the same changes as they occur IS the emotion." (James, The Principles of Psychology, vol. II, ch. XXV, [Gutenberg](https://www.gutenberg.org/cache/epub/57634/pg57634.txt))
+
+The chapter's own examples run the sequence backwards: "we feel sorry because we cry, angry because we strike, afraid because we tremble". On this reading the feeling is a report on what the body is already doing about the situation, which is what reading it as data means.
+
 (Dewey, Experience and Nature, 1925; James, The Principles of Psychology, 1890.)
 
-**Plain words** Emotions are not inner decorations — they're the felt sense of how the organism-environment transaction is going. Read them as data about the situation, not as commands or verdicts. Anxiety is a smoke alarm: honor the signal, check for actual fire.
+**Plain words**
+An emotion arrives as news about a transaction, and the news is about the situation as much as about you. The alarm's job is to get you to check the kitchen, and the alarm is not the fire. Reading the feeling as information means asking what it is reporting before obeying it or suppressing it.
 
-*For example:* Dread every Sunday night — that's not a character flaw, that's instrumentation. It's reporting on the job, not on you. Listen to the instrument.
+**For example**
+Dread every Sunday night — that's not a character flaw, that's instrumentation. It's reporting on the job, not on you. Listen to the instrument.
+
+## Sources
+
+- [William James, The Principles of Psychology, vol. II (Project Gutenberg)](https://www.gutenberg.org/cache/epub/57634/pg57634.txt) — ch. XXV, the emotion theory
 
 ## Practice kernels
 
