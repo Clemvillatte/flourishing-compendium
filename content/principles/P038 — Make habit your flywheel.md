@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 38** — Make habit your flywheel
 
-Habit is the enormous flywheel of society and the conservator of energy: put the recurring parts of life on autopilot so that intelligence is free for the new.
+James's own image is the flywheel: "Habit is thus the enormous fly-wheel of society, its most precious conservative agent." A flywheel stores momentum; once spinning, it keeps the machine steady without fresh effort. And his practical instruction is exactly the principle's allocation of energy: "The more of the details of our daily life we can hand over to the effortless custody of automatism, the more our higher powers of mind will be set free for their own proper work." The compendium's application: put the recurring parts of life on autopilot, same breakfast, same route, same opening hour, not because those details matter but because they don't. Intelligence is expensive; habit is how you stop paying retail for the predictable.
 
 (James, The Principles of Psychology, 1890.)
 
