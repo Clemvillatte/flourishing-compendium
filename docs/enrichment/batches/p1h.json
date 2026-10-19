@@ -13,23 +13,23 @@
   "B027",
   "B048",
   "B057",
-  "Y026",
-  "B116",
-  "B081",
-  "B112",
-  "B140",
-  "B160"
+  "Y026"
  ],
- "in_progress": null,
+ "in_progress": "B160",
  "flagged": {
   "D007": "inherited psych claims (Peng/Nisbett, Spencer-Rodgers) not verified; preserved per protocol",
   "D014": "Reopened for QC: milestone QC round 3: evidence scoping repairs",
   "D056": "Reopened for QC: milestone QC round 3: evidence scoping repairs",
   "D061": "Reopened for QC: milestone QC round 3: evidence scoping repairs",
-  "B027": "Baer 2006 psychology-parallel correction applied per supervisor QC 2026-10-19 (facet validation, differential correlations, incremental symptom prediction, PubMed URL)"
+  "B027": "Baer 2006 psychology-parallel correction applied per supervisor QC 2026-10-19 (facet validation, differential correlations, incremental symptom prediction, PubMed URL)",
+  "B081": "Reopened for QC: Milestone QC: unsupported physiology/effort claims",
+  "B112": "Reopened for QC: Milestone QC: repayment conflict; unopened Thich Nhat Hanh",
+  "B116": "Reopened for QC: Milestone QC: universal sequence claims; MN 128 locator unused",
+  "B140": "Reopened for QC: Milestone QC: equivalence claim; 'no opinions' conflict",
+  "B160": "Reopened for QC: Milestone QC: ethics-test claim vs outcomes-test; Dhp 74 overreach"
  },
  "missing_concepts": [],
  "sources_checked": 9,
- "updated": "2026-10-19T14:45:26+00:00",
+ "updated": "2026-10-19T14:47:52+00:00",
  "band_done": false
 }
