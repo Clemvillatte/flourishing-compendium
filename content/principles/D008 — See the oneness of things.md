@@ -12,13 +12,24 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 8** — See the oneness of things
 
-From far enough up, all distinctions blur: self/other, gain/loss, success/failure are one fabric. Act from the whole, not from your fragment of it.
+The principle draws on three passages. Zhuangzi 2 states it outright in the middle of an argument about words and things. DDJ 39 says the ten thousand creatures were made by the One, and that heaven and earth became clear and tranquil by what they received from it ([Legge, DDJ 39](https://www.gutenberg.org/cache/epub/216/pg216.txt)). DDJ 10 asks for the same unity at the scale of a person: when the intelligent and animal souls are held together in one embrace, they can be kept from separating ([Legge, DDJ 10](https://www.gutenberg.org/cache/epub/216/pg216.txt)).
+
+> Heaven, Earth, and I were produced together, and all things and I are one. (Zhuangzi 2, [Legge](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
+
+From the whole's vantage, the boundaries that organise a fragment's decisions (self/other, gain/loss) are distinctions drawn inside something continuous. The example below is the practical reading: a move that looks like loss from the fragment's position can be neutral from the whole's.
 
 (DDJ 10, 39; Zhuangzi 2.)
 
-**Plain words** From far enough up, the walls between self and other, win and lose, success and failure blur into one fabric. That's not mysticism for its own sake — it's practical: acting from the whole instead of your little fragment of it changes what counts as a good move.
+**Plain words**
+Take any two sides of a fight and zoom out: the two departments quarrelling over budget are one company, and the win and the loss are one event seen twice. Zooming out does not change the facts; it changes what your move lands on. A move made from the bigger picture is a different move, because what it counts as good has changed.
 
-*For example:* The manager who helps a rival department succeed ends up benefiting from the company doing well — the 'loss' they took was an investment.
+**For example**
+The manager who helps a rival department succeed has made a move that loses from the department's seat and gains from the company's; the principle says the company's seat is the truer vantage.
+
+## Sources
+
+- [Zhuangzi, James Legge translation (1891), METIS English Classics, ETH Zurich](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — ch. 2 (PDF page 10)
+- [The Tao Teh King, James Legge translation, Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt) — chapters 10, 39
 
 ## Stories
 

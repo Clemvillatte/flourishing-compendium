@@ -45,3 +45,10 @@ Advisor QC (2026-10-19): quotes verified (BQ1 ch. 22 sentence, BQ2 ch. 68 verse 
 - Advisor QC (5th-item milestone): blockquote verified; approved replacements applied (P1, P2, Plain words, For example: overgeneralisations and universal claims removed). Old replicate Plain words replaced (D075 was on the replicate list); unsourced hiker example replaced.
 - Saturation: linked concepts read (Overconfidence effects, Dunning-Kruger effect, Socratic wisdom; Planning fallacy read earlier this session) — all cite D075. Core-term scan ("overconfidence"): plausible results are principles/concepts already linked or covered by the overconfidence family in psychology parallels; no justified new proposals.
 - Validator on final candidate: ok, prose ~150 words; no wikilink changes vs pre-item commit d16428f; protected fields untouched.
+
+## D008 — See the oneness of things (done; no advisor QC per speed directive, item 6 of session)
+
+- Opened: Zhuangzi ch. 2 (Legge, ETH Zurich PDF, direct pypdf extraction, PDF page 10) and DDJ 10, 39 (Legge, Gutenberg raw text). Both editions already counted; batch research. Verified verbatim: "Heaven, Earth, and I were produced together, and all things and I are one." (Zhuangzi 2); "In the highest antiquity, the ten thousand creatures were made by the One. Heaven received the One and became clear; earth received the One and became tranquil" (DDJ 39 paraphrased in body with citation); "When the intelligent and animal souls are held together in one embrace, they can be kept from separating." (DDJ 10).
+- Inherited, NOT opened/verified: Yaden et al. 2017 and Keltner & Haidt 2003 psychology-parallels claims — preserved per protocol, flagged in the band state file.
+- Saturation: linked concepts checked (Self-transcendent experiences, Deus sive natura, Non-dual awareness, Dao all cite D008; Awe does not) — one reciprocal proposal added (Awe -> D008).
+- Validator: ok, prose 228 words; no wikilink changes; protected fields untouched.

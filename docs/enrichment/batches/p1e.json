@@ -5,7 +5,8 @@
   "D068",
   "D069",
   "D073",
-  "D075"
+  "D075",
+  "D008"
  ],
  "in_progress": null,
  "flagged": {
@@ -13,9 +14,10 @@
   "D068": "inherited psychology-parallels claims (Gottman soft startup; assertiveness research 'aggression reliably loses long games') not verified against opened sources; flagged for supervisor",
   "D069": "inherited psychology-parallels claim (Rosenberg 2003 NVC 'defuses attack') not verified against an opened source; flagged for supervisor",
   "D073": "inherited psychology-parallels claims (Kahneman & Tversky 1979 planning fallacy wording; plan-then-adapt research summary) not verified against opened sources; flagged for supervisor",
-  "D075": "NEXT ITEM for the p1e successor: D075 (Daoist, on plain-words replicate list); then D008, D018, D023, D045, D065; established sources: Legge DDJ via Gutenberg cache/epub/216 (raw text verified), Legge Zhuangzi via ETH Zurich PDF (pypdf)"
+  "D075": "NEXT ITEM for the p1e successor: D075 (Daoist, on plain-words replicate list); then D008, D018, D023, D045, D065; established sources: Legge DDJ via Gutenberg cache/epub/216 (raw text verified), Legge Zhuangzi via ETH Zurich PDF (pypdf)",
+  "D008": "inherited psychology-parallels claims (Yaden et al. 2017 self-transcendent experiences; Keltner and Haidt 2003) not verified against opened sources; flagged for supervisor"
  },
  "missing_concepts": [],
  "sources_checked": 2,
- "updated": "2026-10-19T12:03:45+00:00"
+ "updated": "2026-10-19T12:04:08+00:00"
 }
