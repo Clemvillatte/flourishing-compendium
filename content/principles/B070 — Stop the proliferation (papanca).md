@@ -12,18 +12,24 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 70** — Stop the proliferation (papanca)
 
-The mind takes a spark and builds a bonfire: one remark becomes a story, a story becomes a grievance, a grievance becomes a world. Cut the proliferation at the first branch.
+MN 18 traces a sequence from contact and feeling through perception and thinking to a person being assailed by further perceptions and categories. Thanissaro translates papañca as objectification and notes that proliferation is another possible rendering (Madhupiṇḍika Sutta and translator's introduction, [text](https://accesstoinsight.org/tipitaka/mn/mn.018.than.html)).
 
-(Madhupindika Sutta, MN 18.)
+> "What one perceives, one thinks about. What one thinks about, one objectifies." (MN 18, Mahā Kaccāna's explanation, trans. Thanissaro Bhikkhu, [text](https://accesstoinsight.org/tipitaka/mn/mn.018.than.html))
 
-**Plain words** The mind takes a spark and builds a bonfire: one remark becomes a story, a story becomes a grievance, a grievance becomes a world. Cut the proliferation at the first branch — papanca is the mind's rumor mill, and you're the only editor.
+The discourse connects this process with attachment and conflict, including arguments and divisive speech. Thanissaro's introduction distinguishes its remedy from simply discarding all thought: examining how experience conditions skillful or unskillful qualities remains part of the practice (MN 18 and introduction, [text](https://accesstoinsight.org/tipitaka/mn/mn.018.than.html)).
 
-*For example:* A curt text becomes 'they're mad at me' becomes 'our friendship is over' — one remark, three hours of construction.
+### Plain words
+
+The compendium suggests separating what happened from what you have added to it. Ask which details you know and which are guesses, then decide whether further reflection is answering a question or repeating an accusation. You need not stop all thinking to investigate how a story is growing.
+
+### For example
+
+Imagine receiving a short reply and concluding that a friendship is ending. You know what the message says; the friend's intention remains uncertain. Check the interpretation before acting on it, perhaps by asking a question. The example does not establish that the worry will immediately disappear.
 
 ## Psychology parallels
 
-- **[[Rumination|Rumination]]**, repetitive negative thought predicts depression (Nolen-Hoeksema, 2000)
-- **Worry as verbal avoidance** (Borkovec, 1983)
+- **[[Rumination|Rumination]]**: a review distinguishes repetitive distress-focused thinking from more adaptive reflection and reports evidence linking it with depression; this does not make every sustained thought pathological ([Nolen-Hoeksema, Wisco and Lyubomirsky, 2008, abstract](https://journals.sagepub.com/doi/10.1111/j.1745-6924.2008.00088.x)).
+- **Worry as verbal avoidance**: Kircanski and colleagues discuss this as a theoretical account, tracing the worry definition to Borkovec et al. (1983) and avoidance theory to later work ([2015, manuscript p. 2](https://snaplab.stanford.edu/sites/g/files/sbiybj31146/files/media/file/rumination_and_worry_in_daily_life-examining_the_naturalistic_validity_of_theoretical_constructs_0.pdf)).
 
 ## Philosophy parallels
 
