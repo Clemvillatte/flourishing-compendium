@@ -314,3 +314,12 @@ copied from the opened URL in this session.
   The rewrite is grounded in MN 20 (opened for B074: strong-man simile fetched
   verbatim) and the Fukanzazengi arising-from-sitting sentence (verified in two
   translations). Original blockquote title preserved. Validated vs HEAD (pre-item).
+
+## BI002 — ANS two branches (Thayer et al. 2012; Lehrer & Gevirtz 2014)
+
+- Opened: https://pubmed.ncbi.nlm.nih.gov/22178086/ (Thayer et al. 2012 abstract
+  verbatim: vmPFC/amygdala sentence and "vertical integration" sentence) and
+  https://pubmed.ncbi.nlm.nih.gov/25101026/ (Lehrer & Gevirtz 2014 abstract verbatim:
+  baroreceptor mechanism sentence; the 6-bpm resonance claim is NOT in the abstract and
+  was not used). Unverified ## Practice advice removed (no wikilinks lost), per the
+  BI013 precedent. Validated vs HEAD (pre-item).
