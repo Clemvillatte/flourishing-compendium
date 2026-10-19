@@ -12,17 +12,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 115** — Take the difficult person as teacher
 
-Those who trigger you most are your most precise instructors: they show you exactly where your practice is untested.
+Śāntideva argues that a person who obstructs us can provide an occasion for practising forbearance. In his bodhisattva training, the enemy matters because patience must be developed in relation to actual difficulty (Bodhicaryāvatāra VI.102-111, trans. Crosby and Skilton, [excerpt](https://thebuddhistcentre.com/system/files/groups/files/bodhicaryavatara_-_chapter_on_patience.pdf)).
 
-(Shantideva 6; Dhammapada 277.)
+> "Therefore, since he helps me on the path to Awakening, I should long for an enemy like a treasure discovered in the home, acquired without effort." (Bodhicaryāvatāra VI.107, trans. Crosby and Skilton, [excerpt](https://thebuddhistcentre.com/system/files/groups/files/bodhicaryavatara_-_chapter_on_patience.pdf))
 
-**Plain words** Those who trigger you most are your most precise instructors — they show you exactly where your practice is untested. Not 'everything happens for a reason' — more like: the button they press was already installed; they just located it for you.
+This is a demanding religious argument about cultivation, not evidence that every upsetting encounter reveals an old wound. The compendium adopts a limited practical question from it: what response can I examine or change while still addressing the other person's conduct?
 
-*For example:* The colleague who makes you furious in every meeting — the fury is a map. Follow it home and you'll find the old wound doing the reacting.
+### Plain words
+
+Look at both what happened and how you responded. You might find something to learn about your expectations, habits or choices, without deciding that the mistreatment was your fault. For this compendium, practising patience does not require remaining in an unsafe situation or giving up a boundary.
+
+### For example
+
+Imagine a colleague repeatedly interrupting you. Ask them to let you finish, seek a clearer meeting structure, and notice whether your own reply becomes needlessly hostile. You can work on that reply while still insisting that the interruptions stop; no hidden wound needs to be assumed.
 
 ## Psychology parallels
 
-- **Interpersonal triggers as activated attachment material**, conflict reveals internal working models (Mikulincer and Shaver, 2007)
+- **Attachment and conflict**: a review describes attachment-related responses under particular romantic-relationship stressors; it does not establish that every workplace irritation reveals a childhood wound ([Simpson and Rholes, 2017, "Internal Stress" and conclusions](https://pmc.ncbi.nlm.nih.gov/articles/PMC4845754/)).
 
 ## Philosophy parallels
 
