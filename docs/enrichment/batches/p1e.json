@@ -44,7 +44,7 @@
   "SE002",
   "SE017"
  ],
- "in_progress": "SO006",
+ "in_progress": "SO034",
  "flagged": {
   "D011": "inherited psychology claim (Kashdan & Rottenberg 2010 'outperforms on nearly every outcome') not verified against an opened source; preserved per protocol, flagged for supervisor",
   "D068": "inherited psychology-parallels claims (Gottman soft startup; assertiveness research 'aggression reliably loses long games') not verified against opened sources; flagged for supervisor",
@@ -76,11 +76,12 @@
   "PP021": "statement claims that process orientation produces 'work that matters' and 'the best work' are not established by the opened sources (Ryan & Deci 2000; Freund et al. 2010); needs supervisor verification",
   "PP032": "statement's categorical 'only when the helping is autonomous' claim is stronger than the opened sources support (Weinstein & Ryan 2010 found autonomy predicted benefits; Dunn et al. 2008 tested spending, not autonomy as a boundary condition); needs supervisor verification",
   "S014": "statement's Meditations locators (IV.10, VIII.50) do not match the principle's content in Long's numbering (IV.10 is about reason and change of mind, VIII.50 is the fountain passage); the eternity-appointment passage verified at X.5 in Long's translation; Seneca On Providence not opened; needs supervisor verification",
-  "SE002": "Inherited For example claims 'the observer was never in danger' during panic - unverified; supervisor review"
+  "SE002": "Inherited For example claims 'the observer was never in danger' during panic - unverified; supervisor review",
+  "SO006": "Validator FAIL: protected statement contains 'not just the immediate social environment but' staging pattern; statement needs supervisor rewrite, body is sourced and done"
  },
  "missing_concepts": [],
  "sources_checked": 19,
- "updated": "2026-10-19T14:17:18+00:00",
+ "updated": "2026-10-19T14:18:05+00:00",
  "band_done": false,
  "takeover": {
   "by": "genuineflourishing35",
