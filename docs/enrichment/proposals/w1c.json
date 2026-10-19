@@ -10,11 +10,12 @@
   "Effortless action through long effort",
   "Embodied cognition",
   "Emotion regulation",
-  "Growth through practice"
+  "Growth through practice",
+  "Independent vs interdependent self-construal (Markus & Kitayama)"
  ],
  "flagged": {},
  "missing_concepts": [],
- "sources_checked": 34,
+ "sources_checked": 36,
  "inline": [],
  "reciprocal": [
   {
@@ -296,6 +297,36 @@
    "into": "Neuroplasticity",
    "link": "Growth through practice",
    "why": "the traditional claim that practice changes the practitioner"
+  },
+  {
+   "into": "The relational self",
+   "link": "Independent vs interdependent self-construal (Markus & Kitayama)",
+   "why": "the cross-cultural research programme behind the relational self"
+  },
+  {
+   "into": "Ubuntu",
+   "link": "Independent vs interdependent self-construal (Markus & Kitayama)",
+   "why": "the psychological theory that parallels this personhood"
+  },
+  {
+   "into": "Individualism collectivism theory Triandis",
+   "link": "Independent vs interdependent self-construal (Markus & Kitayama)",
+   "why": "the self-level companion of this values-level theory"
+  },
+  {
+   "into": "Face negotiation theory",
+   "link": "Independent vs interdependent self-construal (Markus & Kitayama)",
+   "why": "the self-construals that predict the conflict styles"
+  },
+  {
+   "into": "Bicultural identity integration",
+   "link": "Independent vs interdependent self-construal (Markus & Kitayama)",
+   "why": "the two construals that bicultural individuals hold together"
+  },
+  {
+   "into": "Acculturation theory Berry",
+   "link": "Independent vs interdependent self-construal (Markus & Kitayama)",
+   "why": "the self-construals that acculturation moves between"
   }
  ],
  "notes": "First concept: Amor sui (right self-love). All 12 original links preserved. Facets section (vs self-contempt) folded into prose. Definition quote is Ethics IIIp55 scholium (verified against Gutenberg Elwes text); rational demand is IVp18 scholium. Related-clause support sources (SEP Rousseau/Nietzsche/Stoicism, Wikipedia self-compassion) listed in the page's Sources section. | deferred at this run (target band busy): 6 recip, 0 inline | deferred at this run (target band busy): 21 recip, 0 inline"
