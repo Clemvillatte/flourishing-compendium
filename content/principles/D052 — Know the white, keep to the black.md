@@ -22,7 +22,7 @@ The stanza's shape carries the idea. Knowing the bright side and standing in it 
 
 **Plain words** Notice the two verbs in the stanza: knows, keeps. Knowing the bright side is assumed — you see your own competence clearly. The choice is where to stand, and standing in the shade is a decision you make on purpose. Concretely: you can answer the question, fix the bug, close the deal, and then not spend the rest of the week making sure everyone registered that it was you. The humility is a choice about where the competence lives. Pretending you lack it is a different, faker thing.
 
-*For example:* Imagine a code review where you already know the bug's cause. You can announce it, or ask the question that lets its author find it. Both close the bug; the second leaves a colleague who can find the next one.
+*For example:* Imagine a code review where you already know the bug's cause. You can announce it, or ask the question that lets its author find it.
 
 ## Sources
 

@@ -28,7 +28,7 @@ The same chapter names where rushing does its damage: "people in their conduct o
 
 (DDJ 24, 63, 64.)
 
-**Plain words** The chapters give three reasons to slow down. Tiptoes: a position held by stretching cannot hold. Light promises: what you assumed was easy will bill you later for the difference. The eve of success: ruin clusters at the end, when attention has already moved on to the next thing. The common thread is attention. A thing done at the pace at which it works is a thing you can still see while you do it; rushed, you see only the finish line.
+**Plain words** The chapters give three reasons to slow down. Tiptoes: a position held by stretching cannot hold. Light promises: what you assumed was easy will bill you later for the difference. The eve of success: the chapter says people are "constantly ruining" their affairs "when they are on the eve of success", and that careful endings would prevent it. Read together, a thing done at the pace at which it works is a thing you can still see while you do it.
 
 *For example:* Imagine skimming a contract to save twenty minutes and signing the bad clause. The twenty minutes come back as a dispute.
 
