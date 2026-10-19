@@ -34,6 +34,9 @@
   and drafts. Desktop side placement/narrow overlay tested; see CONNECTION-PREVIEW-QA.md.
   LIVE VERIFIED after push: deployed asset d26729d-preview1, delayed Cook Ding preview,
   checked selection and Back behavior all passed with no API writes or JavaScript errors.
+  COLOUR FIX: preview quote/code/highlight surfaces now use local light tokens, rather than
+  mixing light-panel text with the site's dark quote background. AF075 reproduced and
+  checked in both themes/mobile; outer site colours unchanged. Stylesheet version bumped.
 - DEPLOYMENT STARVATION FIX: Pages concurrency no longer cancels the running build for
   each new worker commit. One current run can finish while only the newest pending run
   waits. Repeated cancellations were preventing live UI updates during dense worker pushes.

@@ -45,3 +45,12 @@ checked entry and returned to the still-open picker. No API writes or page error
 
 Preview does not mutate content entries, connection records or drafts. Existing publishing
 functions were left unchanged; connection commits were deliberately not exercised.
+
+## Preview colour regression
+
+Owner screenshot exposed a dark quote box on the preview's light surface. Cause: quote
+background inherited the outer dark theme's `--panel2`, while text used the preview's dark
+foreground. Preview-local quote/code/highlight surface tokens now prevent that mix.
+Reproduced with AF075: quote background rgb(241,236,223), text rgb(43,33,20), with the outer
+dark-theme `--panel2` still #232218. Screenshot inspected; light/dark themes and 375px mobile
+checked with no page errors. The fix is scoped to `.fce-node-preview`.
