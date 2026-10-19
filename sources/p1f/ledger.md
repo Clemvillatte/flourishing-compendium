@@ -53,3 +53,13 @@ Advisor milestone QC (items 2-6 + D074 re-review) failed on inference-level issu
 - D163: analogy repaired (polishing a presentation was wrongly mapped to coarse cloth; now checking the work = jade, presenting sound work plainly = coarse covering, marked as the compendium's analogy, not the chapter's); "consolation" marked as a reading; "different budget" metaphor removed.
 - D171: "Redemption here is not a verdict others pass on you" removed; "self-forgiveness is not optional equipment" replaced with the advisor's chosen application; plain words rewritten; example switched from relapse to a broken promise (no implicit claim about addiction recovery).
 - State ordering noted: only one item in progress at a time (reopen failed for D088-D171 while D074 was in progress); work proceeded sequentially with D074 as the single reopened item.
+
+## Milestone QC round 2 (2026-10-19, genuineflourishing33)
+
+- D117: opening now attributes the rivalry/theft claims to chapter 3 ("Chapter 3 of the Daodejing argues that..."); "not fixed traits" removed from plain words (passage does not discuss trait stability).
+- D144: "where other men's is hurried" replaced with the throat contrast the source gives.
+- D163: example reversed-analogy fixed (checked work = jade; its plain presentation = coarse cloth); ledger now matches the actual file.
+- D171: plain words rewritten as concrete repair questions (what commitment was broken, what can still be done, what repair can be offered), application stated once.
+- Preservation validated against pre-edit baseline 57b2117 for all six files: front-matter byte-identical, link sections identical, reflections identical.
+- Saturation (focused mention searches + verification): D088 candidate "The return to the inner self" (cites ST004 The Empty Boat, not D088) and D117 candidate "Benign versus malicious envy" and D171 candidate "Forgiveness" (links R005, not D171) added as reciprocals to proposals/p1f.json; Anger -> D074 retained. D144's mention candidates (HRV biofeedback etc.) all already link D144; D163's (Modesty norms research) already links D163.
+- All six files revalidated ok after round-2 fixes.
