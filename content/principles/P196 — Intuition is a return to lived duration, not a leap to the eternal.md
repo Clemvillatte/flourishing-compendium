@@ -12,13 +12,22 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 196** — Intuition is a return to lived duration, not a leap to the eternal
 
-Bergson explicitly rejects the romantic-mystical version of intuition (Schelling, Schopenhauer): the idea that you transcend time and grasp the eternal. His version: intuition is a return to *lived duration* — the felt continuity of inner life before it is chopped up into concepts and words. It is "direct vision of the mind by the mind," knowledge as contact or coincidence, not representation.
+Bergson's intuition is a return to lived duration: the felt continuity of inner life before it is chopped up into concepts and words. His definition is sober:
+
+> "By intuition is meant the kind of intellectual sympathy by which one places oneself within an object in order to coincide with what is unique in it and consequently inexpressible." (Bergson, An Introduction to Metaphysics, trans. T. E. Hulme, 1912, [full text](https://dl1.cuni.cz/pluginfile.php/633796/mod_resource/content/1/348886101-Bergson-Henri-An-Introduction-to-Metaphysics-Putnam-1912-pdf.pdf))
+
+Of the inner life he writes: "Whilst I was experiencing them they were so solidly organized, so profoundly animated with a common life, that I could not have said where any one of them finished or where another commenced. In reality no one of them begins or ends, but all extend into each other." Analysis, by contrast, is "the operation which reduces the object to elements already known, that is, to elements common both to it and other objects," while "intuition, if intuition is possible, is a simple act."
 
 This is a methodological claim, not a clinical prescription. Bergson is not rejecting intelligence; he is correcting a specific imbalance.
 
-**Plain words** Bergson rejects the romantic-mystical version of intuition — the idea that you transcend time and grasp the eternal. His version: intuition is a return to lived duration, the felt continuity of inner life before it's chopped into concepts and words. Direct vision of the mind by the mind — knowledge as contact, not representation.
+**Plain words**
+The mode of knowing Bergson points at enters its object rather than circling it, and the closest everyday sample is the flow of a mood before it is narrated. The narration is the analysis; the felt flow is the duration. Offered as a description of a method, not a clinical prescription or a promise of results.
 
 *For example:* The moment you stop narrating your mood and simply feel it changing, blending, moving — that's intuition in Bergson's sense. Not a cosmic leap. A homecoming: stepping back into the stream from the bank where the words were standing.
+
+## Sources
+
+- [Henri Bergson, An Introduction to Metaphysics, trans. T. E. Hulme (Putnam, 1912; PDF)](https://dl1.cuni.cz/pluginfile.php/633796/mod_resource/content/1/348886101-Bergson-Henri-An-Introduction-to-Metaphysics-Putnam-1912-pdf.pdf)
 
 ## Philosophy parallels
 
