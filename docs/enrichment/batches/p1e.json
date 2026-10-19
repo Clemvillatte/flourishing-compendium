@@ -46,10 +46,10 @@
   "SO034",
   "P157",
   "SO006",
-  "SP084",
   "A012",
   "A021",
-  "A022"
+  "A022",
+  "SP084"
  ],
  "in_progress": null,
  "flagged": {
@@ -84,11 +84,14 @@
   "PP032": "statement's categorical 'only when the helping is autonomous' claim is stronger than the opened sources support (Weinstein & Ryan 2010 found autonomy predicted benefits; Dunn et al. 2008 tested spending, not autonomy as a boundary condition); needs supervisor verification",
   "S014": "statement's Meditations locators (IV.10, VIII.50) do not match the principle's content in Long's numbering (IV.10 is about reason and change of mind, VIII.50 is the fountain passage); the eternity-appointment passage verified at X.5 in Long's translation; Seneca On Providence not opened; needs supervisor verification",
   "SE002": "Inherited For example claims 'the observer was never in danger' during panic - unverified; supervisor review",
-  "SO006": "Validator FAIL: protected statement contains 'not just the immediate social environment but' staging pattern; statement needs supervisor rewrite, body is sourced and done"
+  "SO006": "inherited psychology parallels (IOM 2009, Wahlbeck 2015, WHO 2022, Wandersman/Florin 2003) and Dewey/Whitehead parallels not opened; preserved",
+  "SP084": "inherited psychology parallel (Klein naturalistic decision-making) not verified; preserved per protocol",
+  "A012": "inherited psychology parallels (Mischel, Duckworth, Bowen) and Epicurus/Dhammacakkappavattana parallels not opened; preserved",
+  "A021": "inherited psychology parallels (Tangney/Dearing, Haidt) and Woodruff reverence parallel not opened; preserved"
  },
  "missing_concepts": [],
  "sources_checked": 25,
- "updated": "2026-10-19T14:37:55+00:00",
+ "updated": "2026-10-19T14:39:40+00:00",
  "band_done": false,
  "takeover": {
   "by": "genuineflourishing35",
