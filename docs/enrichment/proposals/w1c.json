@@ -12,7 +12,7 @@
   {
    "into": "CO013",
    "concept": "Cognitive flexibility",
-   "phrase": "acute stress reduces cognitive flexibility and working memory"
+   "phrase": "cognitive flexibility"
   },
   {
    "into": "CO — Cognition",
@@ -39,7 +39,7 @@
   {
    "into": "Emotion regulation",
    "link": "Anger regulation research",
-   "why": "the parent construct this research branches from"
+   "why": "emotion regulation applied to the specific case of anger"
   },
   {
    "into": "Extended process model of emotion regulation",
@@ -64,7 +64,7 @@
   {
    "into": "Psychological flexibility",
    "link": "Cognitive flexibility",
-   "why": "the lab-measured capacity underneath the broader health construct"
+   "why": "the lab-measured cousin of this broader construct"
   },
   {
    "into": "Working memory capacity limits",
@@ -74,7 +74,7 @@
   {
    "into": "Shunyata",
    "link": "Cognitive flexibility",
-   "why": "the research echo of loosening fixed essences"
+   "why": "the executive-function construct that parallels loosening fixed essences"
   },
   {
    "into": "Nonattachment",
