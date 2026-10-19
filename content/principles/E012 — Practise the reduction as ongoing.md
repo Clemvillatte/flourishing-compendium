@@ -12,13 +12,21 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 404** — Practise the reduction as ongoing
 
-The phenomenological reduction is not a one-time event but an ongoing practice. You do not achieve it once and move on. You return to it again and again, each time deepening your attention to the structures of experience. Make the reduction a habit.
+Husserl's reduction turns inquiry towards how the world is experienced. Bracketing means setting aside reliance on a belief about what exists while describing that experience; it leaves the belief itself intact. He calls treating something as really there a "positing" ([Husserl, Ideas I §31, Kersten translation, UCL extracts](https://www.homepages.ucl.ac.uk/~uctysar/Husserl%20I-C%20lects%20-%20Ideas%20extracts.htm); [Beyer, §§5–6](https://plato.stanford.edu/archives/Win2023/entries/husserl/)).
+
+> "We do not give up the positing we effected" (Ideas I §31, trans. F. Kersten, p. 59, [UCL extracts](https://www.homepages.ucl.ac.uk/~uctysar/Husserl%20I-C%20lects%20-%20Ideas%20extracts.htm)).
+
+Husserl repeatedly caught himself returning to the natural attitude: simply accepting the world as given. Robert D. Walsh reads these returns as grounds for renewed practice, while acknowledging Husserl's demand for a change of attitude "once and for all" ([Walsh, pp. 212–214, 217](https://journals.ku.edu/auslegung/article/download/12981/12277/25612)).
 
 (Husserl, 1954/1970, The Crisis, §§35-38, 71; Husserl, 1913/1982, Ideas I, §§31-33.)
 
-**Plain words** The reduction is not a one-time achievement — you return to it again and again, each time deepening. Make it a habit, not a milestone. There's no "done" — there's only "again."
+### Plain words
 
-*For example:* The meditator who "did the course" in 2019 versus the one who still runs the three questions on their assumptions every Tuesday — the tradition is clear about which one has a practice.
+You begin by asking how something appears to you. While describing it, you may find yourself again relying on beliefs about what is really there. On Walsh's reading, continuing the reduction means noticing that shift and returning to the question about experience ([Walsh, pp. 212–214, 222](https://journals.ku.edu/auslegung/article/download/12981/12277/25612)).
+
+### For example
+
+Walsh discusses Husserl's warning that describing transcendental experience as a "stratum" imports spatial assumptions into the inquiry. Even the philosopher's explanatory language needed checking for the assumptions his method set aside ([Walsh, p. 212, discussing Crisis §51](https://journals.ku.edu/auslegung/article/download/12981/12277/25612)).
 ## Stories
 
 - [[ST202 — The View from Above|202. The View from Above]]
