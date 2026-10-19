@@ -39,7 +39,7 @@ The mechanism is plot. Narrative discourse "configures such heterogeneous concep
 - [[Narrative redemption sequences]] — the construct the sequences are coded within
 ## Sources
 
-- [SEP, "Paul Ricoeur" (Pellauer, Dauenhauer & Scott)](https://plato.stanford.edu/entries/ricoeur/)
+- [SEP, "Paul Ricoeur" (Pellauer, Dauenhauer & Davidson)](https://plato.stanford.edu/entries/ricoeur/)
 
 ## Cited in philosophy parallels
 

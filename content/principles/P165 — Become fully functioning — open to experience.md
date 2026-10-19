@@ -12,13 +12,19 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 165** — Become fully functioning: open to experience
 
-The healthy person is open to all experience, inner and outer, without defensiveness: evidence, feelings, and feedback get in. Practice lowering the guards.
+The principle is the first of the three marks Rogers names for the process he calls "the good life": an increasing openness to experience. Rogers defines it negatively first: openness is "the polar opposite of defensiveness". Defensiveness, in his mechanics, is distortion at the gate: experience gets translated or twisted "to fit pre-conceived self-structure", so the defended person meets a version of the world already edited to spare them. The open person is described by what gets through: fear, discouragement and pain arrive undistorted, and so do courage, tenderness and awe.
 
-(Rogers, On Becoming a Person, 1961.)
+> "If a person could be fully open to his experience, every stimulus - whether originating within the organism or in the environment - would be freely relayed through the nervous system without being distorted by any defensive mechanism." (Rogers, "The Good Life and the Fully Functioning Person", section "An Increasing Openness to Experience", in On Becoming a Person, 1961, [reproduced excerpt](https://www.panarchy.org/rogers/person.html))
 
-**Plain words** The defended self is a fortress that also starves — the walls keep the siege out and the supplies too. The healthy person is open to all experience, inner and outer, without defensiveness: practice lowering the guards.
+The account runs on a conditional: "If a person could be fully open to his experience", every stimulus would reach awareness undistorted, and such a person, in Rogers's phrasing, "would have access to all of the available data in the situation". The compendium's rule takes that account as a practice rather than a promise: lower the guards so that more of the evidence gets in.
 
-*For example:* The review that gets defended against line by line versus the one that gets heard with a wince — the second person has more data by Friday. The fortress is safe and blind.
+**Plain words** To practise this during criticism, notice your embarrassment or anger before deciding what the criticism means. Separate the feeling from the specific complaint. Ask what happened and whether anything needs changing. Examining a complaint carefully does not require agreeing with it.
+
+*For example:* Suppose a colleague found your explanation hard to follow. Ask which step lost them, then consider whether that step needs rewriting.
+
+## Sources
+
+- [Rogers, "The Good Life and the Fully Functioning Person" (1953), section "An Increasing Openness to Experience", in On Becoming a Person (1961), reproduced excerpt (Panarchy)](https://www.panarchy.org/rogers/person.html) — openness to experience passages; quotations verbatim; book page numbers not inspected
 
 ## Psychology parallels
 

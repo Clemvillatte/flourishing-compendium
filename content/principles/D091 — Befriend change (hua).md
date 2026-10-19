@@ -20,9 +20,9 @@ The chapter 6 argument for not litigating comes from Zi-lai, dying while his fri
 
 > "When we once understand that heaven and earth are a great melting-pot, and the Creator a great founder, where can we have to go to that shall not be right for us? We are born as from a quiet sleep, and we die to a calm awaking." (Zhuangzi 6, [Legge](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
 
-What the principle calls suffering is the protest, and the protest is the one part you can drop. The change itself just is; it was carrying you along before you noticed and will continue after.
+The principle's rule is about the protest, not a theory of all suffering: the transformation is not optional, and the principle names the freezing as what makes it hurt.
 
-**Plain words** Nothing you have is staying. The body you wake in, the friendship you lean on and the mood you start the day with are all mid-process, and the process does not consult you. The instinct is to grip: keep the friendship at its best year, the body at its best decade. The grip costs more than the change ever did, because the change was coming anyway and the grip adds a war to it. Ask of anything you are losing: what is this turning into, and can I meet that instead of defending what it was?
+**Plain words** Nothing you have is staying. The body you wake in, the friendship you lean on and the mood you start the day with are all mid-process, and the process does not consult you. The instinct is to grip: keep the friendship at its best year, the body at its best decade. The change was coming anyway, and the principle names the grip, not the change, as what makes it hurt. Ask of anything you are losing: what is this turning into, and can I meet that instead of defending what it was?
 
 *For example:* Mourning a friendship that seasons changed — people become parents, move, grow apart — instead of letting it become something new.
 
