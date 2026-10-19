@@ -19,9 +19,10 @@
   "B100",
   "P003",
   "P012",
-  "P015"
+  "P015",
+  "P089"
  ],
- "in_progress": "P089",
+ "in_progress": null,
  "flagged": {
   "D011": "inherited psychology claim (Kashdan & Rottenberg 2010 'outperforms on nearly every outcome') not verified against an opened source; preserved per protocol, flagged for supervisor",
   "D068": "inherited psychology-parallels claims (Gottman soft startup; assertiveness research 'aggression reliably loses long games') not verified against opened sources; flagged for supervisor",
@@ -40,10 +41,11 @@
   "B100": "psychology-parallels claims (Singer and Klimecki 2014; Maslach burnout) not verified against opened sources; the 'pity looks down' gloss is the compendium's modern rendering, the classical Visuddhimagga wording is grief-based-on-the-home-life; flagged for supervisor",
   "P003": "psychology-parallels claims (Coan 2011 social baseline; Markus and Kitayama 1991) and the Whitehead prehension locator not verified against opened sources; flagged for supervisor",
   "P012": "psychology-parallels claim (Hayes et al. 2020 functional analysis) not verified against opened sources; flagged for supervisor",
-  "P015": "psychology-parallels claims (Dweck 2006; Dweck and Leggett 1988) and the Experience and Nature 1925 locator not verified against opened sources; flagged for supervisor"
+  "P015": "psychology-parallels claims (Dweck 2006; Dweck and Leggett 1988) and the Experience and Nature 1925 locator not verified against opened sources; flagged for supervisor",
+  "P089": "psychology-parallels claim (Sonnentag and Fritz 2007) and the Bergson Time and Free Will locator not verified against opened sources; flagged for supervisor"
  },
  "missing_concepts": [],
  "sources_checked": 9,
- "updated": "2026-10-19T12:29:50+00:00",
+ "updated": "2026-10-19T12:30:23+00:00",
  "band_done": false
 }

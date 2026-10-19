@@ -171,3 +171,11 @@ Advisor QC (2026-10-19): quotes verified (BQ1 ch. 22 sentence, BQ2 ch. 68 verse 
 - Inherited, NOT opened: Dweck 2006, Dweck and Leggett 1988 claims; the Experience and Nature 1925 locator — flagged in the band state file.
 - Saturation: Growth mindset and Self-actualization (Maslow) cite P015; no "Growth" concept page exists; no justified new proposals.
 - Validator: ok, prose 204 words; protected fields untouched.
+
+## P089 — Ride the rhythm of activity and receptivity (done; pending item-20 milestone QC)
+
+- Opened: Dewey, Art as Experience (1934), Perigee 1980 reprint, full text via Internet Archive (https://archive.org/stream/deweyjohnartasanexperience/DEWEY%20John,%20Art%20as%20an%20Experience%22_djvu.txt) — NEW SOURCE (archive.org); source count incremented. Verified verbatim: "There are rhythmic beats of want and fulfillment, pulses of doing and being withheld from doing. All interactions that effect stability and order in the whirling flux of change are rhythms. There is ebb and flow, systole and diastole; ordered change." and "In short, art, in its form, unites the very same relation of doing and undergoing, outgoing and incoming energy, that makes an experience to be an experience."
+- P089 was on the plain-words replicate list; replicate Plain words replaced.
+- Inherited, NOT opened: Sonnentag and Fritz 2007 claim; the Bergson Time and Free Will 1889 locator — flagged in the band state file.
+- Saturation: Recovery experiences and Doing and undergoing cite P089; Yin and yang does not — one reciprocal proposal added.
+- Validator: ok, prose 181 words; protected fields untouched.
