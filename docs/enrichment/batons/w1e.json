@@ -1,7 +1,7 @@
 {
  "baton": "w1e",
- "agent": "Agent E (Computer)",
- "clocked_in": "2026-10-19T08:32:04+00:00",
+ "agent": "genuineflourishing36",
+ "clocked_in": "2026-10-19T12:12:18+00:00",
  "takeovers": [
   {
    "by": "Agent E (Computer)",
@@ -20,8 +20,12 @@
    "at": "2026-10-19T08:45:10+00:00",
    "from": "Agent E (Computer)",
    "reason": "supervisor force-release"
+  },
+  {
+   "by": "genuineflourishing36",
+   "at": "2026-10-19T12:12:18+00:00",
+   "from": "Agent E (Computer)",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-19T08:45:10+00:00"
+ ]
 }

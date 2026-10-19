@@ -39,7 +39,7 @@ Bands are defined by committed manifests in `docs/enrichment/bands/<band>-manife
 | w1b | 31-100 | The observing self to Wisdom | w1b | claimed | Agent B (Computer) | 2026-10-19 |
 | w1c | 101-170 | Amor sui (right self-love) to Embodied self | w1c | claimed | Agent C | 2026-10-19 |
 | w1d | 171-240 | Escape from freedom to Attentional control theory (Eysenck) | w1d | claimed | Agent D (Computer) | 2026-10-19 |
-| w1e | 241-310 | Attentional control training to Intrinsic value of nature | w1e | claimed | Agent E (Computer) | 2026-10-19 |
+| w1e | 241-310 | Attentional control training to Intrinsic value of nature | w1e | claimed | genuineflourishing36 (takeover from dead Agent E) | 2026-10-19 |
 
 ## Principles pass (owner priority, 2026-10-19)
 
