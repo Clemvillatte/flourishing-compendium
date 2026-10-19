@@ -258,3 +258,10 @@ Correction: the sources counter increment of 2 in the repair round was reverted 
 - Access limits: Common's 1910-era translation ("Superman" for Übermensch), not the Kaufmann (1961) named in the inherited locator; the inherited (1883/1961; 1882/1974, GS §335) locator line preserved untouched but NOT re-verified (Kaufmann and GS §335 not opened).
 - Fixes: plain words re-derived (direction-of-travel, rope/crossing image); "cape and superman imagery" line removed; the "not a biological type" framing grounded in the opened text via the bridge-not-goal quote rather than asserted; em dashes removed from editable prose; ## Sources section added. The old body's herd-values and unconditional-affirmation claims were not verifiable in the opened Prologue passages and were replaced by the bridge/over-going reading the text supports.
 - Saturation: linked concepts checked (The overman (Übermensch) and Self-transcendence both already cite E109); no new proposals.
+
+## E504 — Spare a person shame (2026-10-20, genuineflourishing41)
+
+- Opened via fetch workflow (1 source, already opened for E104 and reused per batched-research rule): Project Gutenberg full text of Nietzsche, The Joyful Wisdom ("La Gaya Scienza"), trans. Thomas Common, 1910 (https://www.gutenberg.org/files/52881/52881-0.txt). Verified verbatim at §§273-274: "Whom dost thou call Bad?—Him who always wants to put others to shame." and "What dost thou think most humane?—To spare a person shame." (em dashes inside the verbatim aphorisms preserved; source counter NOT incremented, no new source).
+- Access limits: Common's 1910 translation, not Kaufmann's; the inherited (Nietzsche, The Gay Science 274.) locator line preserved untouched.
+- Fixes: two standalone blockquotes with locators added; plain words re-derived ("nothing to fix and every reason to hide" replaces the unsupported "collateral damage that outlasts the lesson by years"); example de-dashed; ## Sources section added.
+- Saturation: linked philosophy-parallel concepts (Shame, Guilt motivates reparative behaviour, etc.) unchanged; no new proposals (the existing parallels list already carries the shame/guilt family).
