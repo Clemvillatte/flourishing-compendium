@@ -65,3 +65,18 @@ copied from the opened URL in this session.
 - Inherited-not-reverified: the psychology-parallels claim (Baird et al., 2012,
   default-mode network and incubation) is inherited link-section content, untouched,
   not reverified this session.
+
+## D034 — Simplify your ecosystem (DDJ 80)
+
+- Opened: https://www.gutenberg.org/cache/epub/216/pg216.txt (Legge, ebook #216),
+  chapter 80.
+- Verbatim blockquote: part 4 ("They should think their (coarse) food sweet...").
+- Para 1 paraphrases parts 1, 2 and 5 with "should have no occasion" phrasing preserved.
+- QC: advisor round 1 flagged "not a policy" as unsupported (the passage describes what
+  its speaker "would" arrange) and the size-limit/manageability thesis as unsupported;
+  both replaced with the advisor's scoped text. Old seed's "a huge one is unmanageable"
+  claim had no basis in ch. 80 and was not carried over. Validated vs pre-item baseline
+  042a46f.
+- Inherited-not-reverified: Duckworth et al. 2016 situation-selection claim and the
+  digital-minimalism/notification-reduction note in psychology parallels (untouched link
+  sections).
