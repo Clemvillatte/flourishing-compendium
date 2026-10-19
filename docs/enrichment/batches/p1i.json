@@ -26,11 +26,11 @@
   "B052",
   "P066",
   "B060",
-  "P121",
   "B143",
   "B130",
   "P196",
-  "P030"
+  "P030",
+  "P121"
  ],
  "in_progress": null,
  "flagged": {
@@ -44,10 +44,11 @@
   "B143": "Reopened for QC: final QC repairs",
   "B130": "Reopened for QC: final QC repairs",
   "P196": "Reopened for QC: final QC repairs",
-  "P030": "Reopened for QC: final QC repairs"
+  "P030": "Reopened for QC: final QC repairs",
+  "P121": "Reopened for QC: final QC repairs"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-19T13:59:37+00:00",
+ "updated": "2026-10-19T13:59:39+00:00",
  "band_done": false
 }
