@@ -34,3 +34,22 @@ the correction uses the successfully opened evidence already available.
 - Leave the inherited K318/K354 label mismatch untouched and flagged; it is not evidence-verified.
 - No additional source-count increment: this reuses previously opened sources.
 - Targeted advisor confirmation requested before treating the repair as fully signed off.
+
+## Independent verification (genuineflourishing27, 2026-10-19 ~11:30 UTC)
+
+Advisor QC requested the underlying sources be opened again in this session; all three were
+fetched and checked fresh:
+
+- UCL Kersten extracts: "We do not give up the positing we effected" appears verbatim at
+  (§31, p. 59), with the bracketing/parenthesizing passage confirming the belief stays intact.
+- Walsh PDF: p. 217 has "we practice the epoche and live it 'as a habitual attitude which we
+  resolve to take up once and for all' (C, III A, 40, p. 150) over and over again"; p. 212
+  discusses the "stratum" metaphor and the required "transformation of their sense" (Crisis
+  III A §51); pp. 222–223 support the slippage/renewal account.
+- Beyer SEP (Win2023) §§5–6 cover the epoché, bracketing of existence assumptions and
+  "positing" acts, supporting the retained citation.
+
+Preservation: `enrich_validate.py --base c2a3ee4` ok; wikilink sets identical; front matter
+unchanged. The absence of a reflections comment is inherited from the seed (original ends at
+the Epoché link). Advisor QC: corrected wording acceptable; all checks requested by the
+advisor completed. E012 marked done.
