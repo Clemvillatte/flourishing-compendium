@@ -55,7 +55,8 @@
   "A070",
   "A097",
   "A080",
-  "A106"
+  "A106",
+  "AT037"
  ],
  "in_progress": null,
  "flagged": {
@@ -98,11 +99,12 @@
   "A045": "inherited VI.9 locator, Schwartz/Gollwitzer parallels, Peirce/Dewey parallels not opened; preserved",
   "A070": "inherited Dunn/Deci-Ryan parallels, Mauss and Dana parallels not opened; preserved",
   "A080": "Reopened for QC: Milestone QC: temporal-completion and borrowed-pleasure claims removed; content fix already applied and accepted",
-  "A106": "inherited I.9/X.9/Politics VIII.1 locators, Dweck and Berkowitz parallels, Dewey parallels not opened; preserved"
+  "A106": "inherited I.9/X.9/Politics VIII.1 locators, Dweck and Berkowitz parallels, Dewey parallels not opened; preserved",
+  "AT037": "inherited Kaplan-Berman, Ohly, McMahan-Estes refs and Neiye/Sabbath/Delphic parallels not opened; preserved"
  },
  "missing_concepts": [],
  "sources_checked": 30,
- "updated": "2026-10-19T14:47:13+00:00",
+ "updated": "2026-10-19T14:48:07+00:00",
  "band_done": false,
  "takeover": {
   "by": "genuineflourishing35",

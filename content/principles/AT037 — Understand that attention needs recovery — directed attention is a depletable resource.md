@@ -12,11 +12,20 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AT — Attentio
 ---
 > **Principle 37** — Understand that attention needs recovery: directed attention is a depletable resource
 
-Just as physical effort requires recovery, directed attention requires recovery. Prolonged concentration depletes attentional capacity, and recovery is necessary to restore it. Without recovery, attention degrades further.
+The claim comes from Kaplan's attention restoration theory, stated in the 1995 paper's abstract:
 
-**Plain words** Focused attention is the one resource that modern work never schedules recovery for — and it's the one that depletes. Recovery isn't laziness; it's the other half of the work cycle. No athlete trains 16 hours; no mind should either.
+> "Directed attention plays an important role in human information processing; its fatigue, in turn, has far-reaching consequences. Attention Restoration Theory provides an analysis of the kinds of experiences that lead to recovery from such fatigue. Natural environments turn out to be particularly rich in the characteristics necessary for restorative experiences." (Kaplan, 1995, Journal of Environmental Psychology 15(3), 169-182, [ScienceDirect record](https://www.sciencedirect.com/science/article/abs/pii/0272494495900012))
+
+The physical-effort analogy is an analogy, but it is exact enough to plan by: prolonged concentration depletes attentional capacity, and recovery is what restores it. Without recovery, the fatigue has consequences beyond the task at hand. The page's psychology parallels carry the honest caveat that the evidence for nature specifically is mixed and effect sizes modest.
+
+**Plain words** Directed attention is what you spend to concentrate, and it runs down. Most work schedules treat it as infinite. Plan it the way a coach plans training: effort, then recovery, in cycles. A break that itself costs attention, like scrolling or another meeting, is not the recovery.
 
 *For example:* The office that brags about back-to-back meetings 9-to-5 has simply decided, without noticing, to run its people's attention into the ground and call it culture.
+
+## Sources
+
+- [Kaplan, "The restorative benefits of nature" (1995), ScienceDirect record](https://www.sciencedirect.com/science/article/abs/pii/0272494495900012) — abstract quoted verbatim; directed attention fatigue and restorative experiences
+
 ## Psychology parallels
 
 - **[[Directed attention fatigue|Directed attention fatigue and restoration]]**, effortful attention depletes and requires recovery (Kaplan, 1995; Kaplan & Berman, 2010)
