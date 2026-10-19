@@ -403,3 +403,7 @@ Advisor QC (2026-10-19): quotes verified (BQ1 ch. 22 sentence, BQ2 ch. 68 verse 
 
 - BE001: advisor PASS. Marking done. Acceptance covers the revised content; inherited parallels (Martell 2001, Dimidjian 2011, Aristotle, Sartre, Buddhism) remain flagged as unverified.
 - AT064: conditional PASS on one literal fix — Sources entry "direct replication finding no presence effect" to be replaced with "replication that did not detect a phone-presence effect" to match the body's evidential limit. Will apply, validate, record acceptance, then done.
+
+## AT064 QC closure (2026-10-20, worker-p1e-4f2c9b1d)
+
+- Applied the advisor's literal fix to the Sources entry (replication wording now matches the body's evidential limit). Validator: ok. Advisor conditional PASS confirmed on this exact correction; no other content changed this round. Marking done. Inherited parallels (Forster & Lavie 2008, Leroy 2009, Monsell 2003, Politics/Daodejing/Weil) remain flagged as unverified.
