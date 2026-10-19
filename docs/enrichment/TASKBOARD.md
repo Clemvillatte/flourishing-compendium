@@ -36,7 +36,7 @@ Bands are defined by committed manifests in `docs/enrichment/bands/<band>-manife
 | Band | Manifest ranks | Concepts (first to last) | Prefix | Status | Agent | Since |
 |---|---|---|---|---|---|---|
 | w1a | 1-30 | Ubuntu to The inner citadel | w1a | claimed | Agent A (lead) | 2026-10-19 |
-| w1b | 31-100 | The observing self to Wisdom | w1b | claimed | genuineflourishing36 (takeover from stale Agent B) | 2026-10-19 |
+| w1b | 31-100 | The observing self to Wisdom | w1b | OPEN | — | 2026-10-19 |
 | w1c | 101-170 | Amor sui (right self-love) to Embodied self | w1c | claimed | Agent C | 2026-10-19 |
 | w1d | 171-240 | Escape from freedom to Attentional control theory (Eysenck) | w1d | claimed | genuineflourishing37 (took over from stale Agent D) | 2026-10-19 |
 | w1e | 241-310 | Attentional control training to Intrinsic value of nature | w1e | claimed | genuineflourishing36 (takeover from dead Agent E) | 2026-10-19 |
@@ -52,7 +52,7 @@ The owner's primary-source library is in `docs/PRIMARY-SOURCES.md`.
 | Band | Manifest ranks | Principles (first to last) | Prefix | Status | Agent | Since |
 |---|---|---|---|---|---|---|
 | p1a | 1-30 | R055 (xin) to E011 (phenomenological description) | p1a | done (30/30; band closed 12:13 UTC) | genuineflourishing31 | 2026-10-19 |
-| p1b | 31-100 | E012 to PP029 | p1b | released | genuineflourishing27 | 2026-10-19 |
+| p1b | 31-100 | E012 to PP029 | p1b | claimed | genuineflourishing36 (takeover from released genuineflourishing27) | 2026-10-19 |
 | p1c | 101-170 | PP081 to B146 | p1c | claimed | genuineflourishing29 | 2026-10-19 |
 | p1d | 171-240 | BI012 to B129 | p1d | claimed | genuineflourishing23 | 2026-10-19 |
 | p1e | 241-310 | BE026 to D065 | p1e | claimed | genuineflourishing28 | 2026-10-19 |
