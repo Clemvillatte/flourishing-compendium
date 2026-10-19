@@ -12,13 +12,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 69** — Don't meet force with force
 
-The swimmer at the falls survives by diving under the waves and letting the whirlpool spit him out: never by fighting the current. When hit, absorb; never collide head-on.
+The source is the story of the cataract near the gorge of Lu in Zhuangzi 19. Confucius watches a cataract of 240 cubits whose turbulence no tortoise or fish can play in, then sees an old man swimming in it, who later comes out walking along singing with his hair dishevelled ([Legge, Zhuangzi 19](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)). Asked how he treads the water, the man describes going down and up with the whirl.
+
+> I enter and go down with the water in the very centre of its whirl, and come up again with it when it whirls the other way. I follow the way of the water, and do nothing contrary to it of myself - this is how I tread it. (Zhuangzi 19, [Legge](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
+
+The swimmer describes an ability developed from his earliest years, which became natural as he grew up; his account includes going down and up with the whirl ([Legge, Zhuangzi 19](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)). Read as an analogy for conflict, this suggests noticing the conditions and adjusting how you respond, without assuming that matching force is the only possible move.
 
 (Zhuangzi 19.)
 
-**Plain words** When hit, absorb; don't collide head-on. The swimmer at the falls survives by diving under the waves and letting the whirlpool spit him out — force against force is the amateur's move.
+**Plain words**
+Imagine someone loudly rejecting your proposal. Before replying in the same tone, ask which part they object to. You might change how you present the proposal while keeping its purpose, or correct a mistake they have identified. You can also refuse a demand without adopting the other person's aggression.
 
-*For example:* In a layoff, the person who spends energy fighting the decision loses the severance negotiation — the one who absorbs keeps their leverage.
+**For example**
+Imagine a client calling an invoice dishonest. Ask which charge they dispute. Correct any billing error you find and explain the remaining charges without returning the accusation.
+
+## Sources
+
+- [Zhuangzi, James Legge translation (1891), METIS English Classics, ETH Zurich](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — ch. 19, section 10 (the cataract of Lu), PDF page 95
 
 ## Psychology parallels
 
