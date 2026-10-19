@@ -12,13 +12,15 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 174** — Own little
 
-Simplicity: few possessions, fewer obligations, less to protect. The lighter the load, the freer the practice.
+The Dhammapada verse usually cited for this principle names the mechanism directly: health is the greatest gain, contentment the greatest wealth — and the one who is content has, by that fact, the most ([Dhammapada 204, Thanissaro Bhikkhu translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.14.than.html)). The claim is not that possessions are bad; it is that the accounting people use to measure wealth is incomplete, because the cost of each item is paid in something other than money.
 
-(Dhammapada 204; Thích Nhất Hạnh.)
+Every object you own owns a slice of your attention in return. A closet is a board meeting you attend daily. This is why the load is not simply the physical weight: it is the maintenance, the worry, the decisions, the insurance, the finding of the other cable. The lighter the load, the freer the practice — and the reason is mechanical, not aesthetic.
 
-**Plain words** Simplicity: few possessions, fewer obligations, less to protect. The lighter the load, the freer the practice. Every object you own owns a slice of your attention in return — the closet is a board meeting you attend daily.
+> "Health is the greatest gain, contentment the greatest wealth." (Dhammapada 204, Thanissaro Bhikkhu translation, [Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.14.than.html))
 
-*For example:* Moving apartments and realizing half the boxes weren't opened since the last move — the load was mostly weight, not wealth.
+**Plain words** Moving apartments reveals the actual inventory: half the boxes were not opened since the last move. The load was mostly weight, not wealth. This is the accounting error the principle is about — the objects were counted as assets and never audited for their attention cost. Owning little is not a moral position about materialism; it is the choice to keep the tax bill low enough that you can still think.
+
+*For example:* Two people have the same income. One has filled the apartment with things that each need a small decision, a small repair and a small worry; the evenings are spent managing the inventory. The other owns less, and the same evenings are spent on things that are not inventory. Same income; very different attention budgets.
 
 ## Psychology parallels
 
