@@ -16,9 +16,25 @@ Recognise that you are not a disembodied mind but an embodied being, situated in
 
 (Marcel, 1951a, Being and Having; Marcel, 1951b, The Mystery of Being.)
 
-**Plain words** You are not a mind carrying a body around — you're a body, situated in a world, in relationships. Incarnation: living as embodied, not piloting. Treat the body as the self, not the vehicle.
+### The definition and the gap
+
+Marcel's definition, as reported by a study of Être et Avoir:
+
+> "He writes that 'incarnation is the situation of a being who appears to be himself, as it were, bound to a body.' Incarnation is the central 'given' of the metaphysics which stands in opposition to the cogito." ([To Be or To Have the Body, HAL](https://shs.hal.science/halshs-04408180/document))
+
+The Mystery of Being works the point out on the body:
+
+> "My body is *my* body just in so far as I do *not* consider it in this detached fashion, do not put a gap between myself and it. To put this point in another way, my body is mine in so far as for me my body is not an object but, rather, I *am* my body." (Marcel, The Mystery of Being, quoted in [EBSCO research starter](https://www.ebsco.com/research-starters/literature-and-writing/mystery-being-gabriel-marcel))
+
+**Plain words** Marcel's target is the small word "have." You can have a car, and the relation is external: it runs fine without you. The body fails that test from every direction, since it is where your moods live, where attention is steered from, and the thing without which there is no you to do the having. His test for the gap is simple to run: notice when you inspect your body as an object to fix, and when you act from it as the one who is hungry, tired, or moved. The second relation is the default, and the first is an achievement of distancing that costs you something each time.
 
 *For example:* Someone who "thinks through" every decision in their head for years — then takes up dancing and discovers the body had opinions the whole time, and better ones.
+
+## Sources
+
+- [Marcel on incarnation, quoted in "To Be or To Have the Body" (HAL)](https://shs.hal.science/halshs-04408180/document): the definition from Être et Avoir
+- [Marcel, The Mystery of Being, quoted in an EBSCO research starter](https://www.ebsco.com/research-starters/literature-and-writing/mystery-being-gabriel-marcel): my body and the gap
+
 ## Stories
 
 - [[ST248 — Buber and the Tree|248. Buber and the Tree]]
