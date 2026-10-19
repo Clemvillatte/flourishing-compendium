@@ -12,13 +12,21 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 17** — Trust emergent order
 
-The Dao does nothing, yet nothing is left undone. Most of what matters: health, trust, growth, healing — organizes itself when not forced. Leave room for self-organization in your body, projects, and family.
+Laozi's opener for the whole theme is one line:
 
-(DDJ 37, 47, 57.)
+> "The Tao in its regular course does nothing (for the sake of doing it), and so there is nothing which it does not do." (Dao De Jing 37, [Legge's translation](https://www.sacred-texts.com/tao/taote.htm))
 
-**Plain words** Health, trust, growth, healing — most of what matters organizes itself when you stop forcing it. The Dao does nothing yet nothing is left undone. Leave room in your body, projects, and family for self-organization instead of micromanaging everything into place.
+That is a claim about systems with their own internal logic: healing, trust, learning, a team finding its rhythm. They run on dynamics of their own, and forcing them adds a second dynamic, the supervision itself, that competes with the first. Laozi makes the point with governance in chapter 57: "the more display there is of legislation, the more thieves and robbers there are," and the sage's remedy is subtraction: "I will do nothing (of purpose), and the people will be transformed of themselves" ([DDJ 57, Legge](https://www.sacred-texts.com/tao/taote.htm)). The laboratory version is the reward literature. Rewards are the legislation of behaviour, and across 128 experiments they backfired on exactly the motive they were meant to build: "engagement-contingent, completion-contingent, and performance-contingent rewards significantly undermined free-choice intrinsic motivation (d = -0.40, -0.36, and -0.28, respectively)" ([Deci, Koestner & Ryan 1999](https://pubmed.ncbi.nlm.nih.gov/10589297/)). What helped instead looked like attention without a grip: "Positive feedback enhanced both free-choice behavior (d = 0.33)" ([ibid.](https://pubmed.ncbi.nlm.nih.gov/10589297/)). The economics of the principle are tracked in [[Spontaneous order]] and [[The invisible hand]].
+
+**Plain words**
+Think of something that grew without you: a friendship, a garden, a child's curiosity, your own taste. Nobody managed it into being; it grew on its own internal logic. The Daoist bet is that more of your life is that kind of thing than you admit, and that your forcing is an extra ingredient the recipe never called for. Watch closely, feed where feeding helps, and leave the rest to run. The art is telling apart the things that need your push from the things your push is ruining.
 
 *For example:* A scab you keep checking and picking at heals slower than one you leave alone; the body knows what to do when you stop interfering.
+
+## Sources
+
+- [Laozi, Dao De Jing, chapters 37 and 57 (James Legge, 1891), Sacred Texts Archive](https://www.sacred-texts.com/tao/taote.htm) — verbatim quotes (Drive library file unmapped; web edition fallback)
+- [Deci, Koestner & Ryan, "A Meta-Analytic Review of Experiments Examining the Effects of Extrinsic Rewards on Intrinsic Motivation," Psychological Bulletin 125 (1999) (PubMed)](https://pubmed.ncbi.nlm.nih.gov/10589297/) — 128-study meta-analysis, reward undermining and feedback effects
 
 ## Psychology parallels
 

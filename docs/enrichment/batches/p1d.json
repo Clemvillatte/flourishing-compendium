@@ -2,11 +2,14 @@
  "batch": "p1d",
  "done": [
   "BI012",
-  "CO072"
+  "CO072",
+  "D017"
  ],
  "in_progress": null,
- "flagged": {},
+ "flagged": {
+  "D017": "Drive library files unmapped; used Legge 1891 web edition (Sacred Texts) as fallback"
+ },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-19T10:00:15+00:00"
+ "updated": "2026-10-19T10:01:24+00:00"
 }
