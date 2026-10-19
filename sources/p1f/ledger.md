@@ -187,3 +187,5 @@ Advisor milestone QC on B133, P091, P100, P163, P182, P183 required repairs; all
 - P182: James's own law now quoted verbatim ("strong feeling about one's self tends to arrest the free association of one's objective ideas and motor processes"; "fixed as if in a cramp on these feelings of his own situation"), both fetched and verified in the essay; pianist marked as illustration; disclaimer that releasing self-monitoring does not replace practice; recorded as a repair, not a qualifying skip-ahead.
 - P183: James's qualification preserved (significance for communicable and publicly recognizable purposes, not a verdict on private worth); recycler/composter contrast dropped (assumed private ideals from visible activity); plain words re-derived as an everyday application.
 - Saturation: linked concepts read (The Great Death, Durée, Redescription, Goal disengagement, Flow, The meaning of life); all six already cite their principles; no new proposals.
+
+Correction: the sources counter increment of 2 in the repair round was reverted (the round re-opened already-counted sources: Tricycle, Gutenberg 56852, Gutenberg 16287, PMC2223147, Standard Ebooks; no new sources).
