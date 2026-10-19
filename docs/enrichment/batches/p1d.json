@@ -1,11 +1,12 @@
 {
  "batch": "p1d",
  "done": [
-  "BI012"
+  "BI012",
+  "CO072"
  ],
  "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-19T09:59:12+00:00"
+ "updated": "2026-10-19T10:00:15+00:00"
 }

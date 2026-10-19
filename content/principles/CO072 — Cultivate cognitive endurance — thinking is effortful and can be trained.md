@@ -12,11 +12,22 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 ---
 > **Principle 72** — Cultivate cognitive endurance: thinking is effortful and can be trained
 
-Sustained, effortful thinking (reading difficult material, working through complex problems, holding multiple ideas in mind) is a capacity that can be built. It is not just intelligence; it is the willingness to stay with difficulty.
+Aristotle's model of excellence is training. The argument he reaches for is the stone:
 
-**Plain words** Sustained, effortful thinking — difficult material, complex problems, multiple ideas held at once — is a trainable capacity. Not just intelligence: it's the cognitive equivalent of stamina. Build it like mileage; it degrades with disuse.
+> "the stone which by nature moves downwards cannot be habituated to move upwards, not even if one tries to train it by throwing it up ten thousand times; nor can fire be habituated to move downwards, nor can anything else that by nature behaves in one way be trained to behave in another. Neither by nature, then, nor contrary to nature do the virtues arise in us; rather we are adapted by nature to receive them, and are made perfect by habit." (Aristotle, Nicomachean Ethics II.1, [Ross's translation](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html))
+
+The stone is the control group. Whatever behaves one way by nature cannot be trained into another, so whatever does respond to training was never fixed by nature in the first place. Sustained thinking, reading difficult material, working through a problem without surrender, holding several ideas at once, is on the trainable side of the line. The modern evidence is the same story with a violin. Ericsson's Berlin academy study found the gap already wide among the young: "At this age, the best young violinists had accumulated an average of 7,410 hr of practice, which is reliably different from 5,301 hr, the average number of hours accumulated by the good violinists" ([Ericsson, Krampe & Tesch-Römer 1993](https://gwern.net/doc/psychology/1993-ericsson.pdf)). And the practice that closed the gap was of a particular kind: "We claim that deliberate practice requires effort and is not inherently enjoyable" ([ibid.](https://gwern.net/doc/psychology/1993-ericsson.pdf)). The effort is the stimulus, which is what makes this an endurance question rather than a talent question. The compendium develops the how in [[Deliberate practice]].
+
+**Plain words**
+Thinking hard for a long stretch runs on talent and mileage. You cannot do much about the talent; the mileage is hours spent at the edge of what you can follow. Because the effort itself is the stimulus, a difficult page with the phone in another room counts for more than an hour of comfortable scrolling. Build it the way you build running: a little more each week than feels easy. Like mileage it fades when you stop, which is why the decade of feeds costs more than it seems to.
 
 *For example:* The person who "can't read books anymore" after a decade of feeds — and the month of gradual retraining: ten pages, then twenty, then an hour. The capacity wasn't lost; it was detrained. The attention is a muscle and the feed was the couch.
+
+## Sources
+
+- [Aristotle, Nicomachean Ethics II.1 (W.D. Ross translation), Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html) — verbatim quotes on habit and virtue
+- [Ericsson, Krampe & Tesch-Römer, "The Role of Deliberate Practice in the Acquisition of Expert Performance," Psychological Review 100 (1993) (PDF)](https://gwern.net/doc/psychology/1993-ericsson.pdf) — practice-hour comparison; effort requirement
+
 ## Psychology parallels
 
 - **Cognitive endurance / need for cognition**, people who enjoy effortful thinking show better reasoning and learning (Cacioppo & Petty, 1982)
