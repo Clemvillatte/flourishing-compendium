@@ -12,13 +12,15 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 98** — Extend goodwill to the difficult
 
-Widen the circle deliberately: from yourself to friends, strangers, enemies, all beings. The difficult person is where the practice becomes real.
+The Metta Sutta's instruction is not sentimental; it is structural. "Even as a mother protects with her life her child, her only child, so with a boundless heart should one cherish all living beings" ([Karaniya Metta Sutta, Sn 1.8, Thanissaro Bhikkhu translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.than.html)). The simile does not ask for warmth; it asks for a mother's concern, directed without limit. This is an enormous widening, and the tradition is honest about the fact that you cannot do it all at once.
 
-(Metta Sutta; Dhammapada 5.)
+The Metta Sutta then gives the directional instruction that makes it trainable: "Radiating kindness over the entire world — spreading upward to the skies, downward to the depths, outward and unbounded — freed from ill will and enmity" ([Karaniya Metta Sutta, Sn 1.8, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.than.html)). The practice is usually taught as a widening circle: yourself first, then someone easy to love, then someone neutral, then someone difficult. The difficult person is not the advanced elective; it is the actual test of whether the earlier steps were real.
 
-**Plain words** Widen the circle deliberately — from yourself to friends, strangers, enemies, all beings. The difficult person is where the practice becomes real. Anyone can wish well to the lovable; the training starts at the border.
+> "Even as a mother protects with her life her child, her only child, so with a boundless heart should one cherish all living beings." (Karaniya Metta Sutta, Sn 1.8, Thanissaro Bhikkhu translation, [Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.than.html))
 
-*For example:* Metta for the ex who hurt you — it takes months and tastes terrible at first, and changes everything downstream.
+**Plain words** Wishing well to people you already like is not a practice; it is just enjoying your friends. The training begins where the warmth runs out — the difficult person, the ex, the colleague whose voice you cannot stand. Metta for them does not mean approving of what they did. It means wishing, specifically and without flinching, that they be free from suffering — which is usually the last thing you want for them, and is the entire point.
+
+*For example:* Two people both try metta for someone who hurt them. One skips the difficult person and practises goodwill on people they already love; nothing changes. The other stays with the ex for months, wishes them well badly and inconsistently, and finds something downstream changes in how they hold the whole memory. Same technique; only one of them actually crossed the border.
 
 ## Stories
 
