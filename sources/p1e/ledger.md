@@ -324,3 +324,10 @@ Advisor QC (2026-10-19): quotes verified (BQ1 ch. 22 sentence, BQ2 ch. 68 verse 
 - Plain words de-replicated (old one re-quoted "worthy of great things" and the vanity/humility framing); replaced with the list-and-match calibration test. Body's unsourced "Aristotle distinguishes proper pride from vanity and from humility" replaced by the opened IV.3 two-failures passage.
 - Inherited, NOT opened: MM I.25 locator (kept as inherited citation), Tracy/Robins psychology parallels, NE IX.8 proper self-love parallel — flagged in state.
 - Validator: ok; protected fields untouched vs HEAD.
+
+## A045 — Deliberate well (done 2026-10-20 by worker-p1e-4f2c9b1d; no advisor QC per speed directive, item 7)
+
+- Opened: MIT Classics Ross NE Book III (same page as A012). Verified verbatim: "We deliberate not about ends but about means. For a doctor does not deliberate whether he shall heal... They assume the end and consider how and by what means it is to be attained."; "Now about eternal things no one deliberates, e.g. about the material universe or the incommensurability of the diagonal and the side of a square"; "all deliberation is investigation"; "e.g. if we need money and this cannot be got; but if a thing appears possible we try to do it". Sources_checked +1 (26 -> 27).
+- Plain words de-replicated (old one repeated "working out what's in your power", "right order", "reasonable time"); replaced with the end-first-then-routes procedure. Body's unsourced "Do not deliberate about what cannot be otherwise" grounded in the opened eternal-things passage.
+- Inherited, NOT opened: VI.9 locator, Schwartz and Gollwitzer psychology parallels, Peirce pragmatic maxim and Dewey means-end continuity parallels — flagged in state.
+- Validator: ok; protected fields untouched vs HEAD.
