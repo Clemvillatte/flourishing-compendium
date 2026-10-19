@@ -13,17 +13,17 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 
 > **Principle 100** — Practise reciprocity (antapodosis)
 
-Aristotle takes up the Pythagorean view that justice is simply reciprocal suffering, and rejects it as a general account. But he goes on to identify one place where reciprocity does hold: in the interchange of services, where proportionate return is what maintains association. The exchange is bound together only when the return matches the giving in proportion ([NE V.5, Rackham, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=5)).
+Aristotle takes up the Pythagorean view that justice is simply reciprocal suffering, and rejects it as a general account. But he goes on to identify one place where reciprocity does hold: in the interchange of services, where proportionate return is what maintains association. The exchange is bound together only when the return matches the giving in proportion ([NE V.5, Rackham, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=5)). He extends the point to the state, arguing that its very existence depends on proportionate reciprocity.
 
-> In the interchange of services Justice in the form of Reciprocity is the bond that maintains the association: reciprocity, that is, on the basis of proportion, not on the basis of equality. The very existence of the state depends on proportionate reciprocity.
+> But in the interchange of services Justice in the form of Reciprocity is the bond that maintains the association: reciprocity, that is, on the basis of proportion, not on the basis of equality.
 >
 > — Nicomachean Ethics V.5 ([Rackham, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=5))
 
-**Plain words** The compendium's application of this principle asks the reader to notice what the return is proportionate to. Aristotle's own framing is that a return is not the same amount of the same thing back; it is a return matched to what was given in proportion, and what maintains a relationship over time is the return actually happening.
+**Plain words** A return is not the same amount of the same thing back. It is a return matched to what was given, in proportion. Aristotle's claim is that this is what holds an association together, and he extends it to the state itself.
 
-For example (imagined): bringing a meal to the neighbour who helped you move is not a like-for-like exchange of moving services. It is a return matched to the help in a fitting way.
+For example (imagined): bringing a meal to the neighbour who helped you move is not a like-for-like exchange of moving services. As a contemporary analogy, it is a return matched to the help in a fitting way.
 
-(NE V.5, V.6; EE IV.4; MM I.33.)
+(NE V.5.)
 
 ## Stories
 
