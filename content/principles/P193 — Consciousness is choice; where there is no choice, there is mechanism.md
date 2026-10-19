@@ -20,9 +20,9 @@ Bergson's own statement of the principle:
 
 > "For consciousness corresponds exactly to the living being's power of choice; it is coextensive with the fringe of possible action that surrounds the real action: consciousness is synonymous with invention and with freedom." (Creative Evolution, ch. III, [Mitchell trans.](https://www.gutenberg.org/files/26163/26163-h/26163-h.htm))
 
-The mechanism side follows immediately: consciousness "lies dormant when life is condemned to automatism; it wakens as soon as the possibility of a choice is restored" (ch. III).
+The mechanism side is stated in the same chapter: consciousness "lies dormant when life is condemned to automatism; it wakens as soon as the possibility of a choice is restored" (ch. III).
 
-**Plain words** The dimmer here is real options, not effort. Drive the usual commute and the mind wanders, because the route holds no fork where your decision changes anything. Take the same road in a borrowed car, wrong side, new country, and every intersection is a decision; the mind is wide awake without trying harder. So the rule is diagnostic more than motivational: when you notice yourself dimmed, the first question is not how to focus but whether you left any real choice in this. If not, that is the thing to change.
+**Plain words** On Bergson's account, consciousness tracks choice rather than effort. The first week in a new job shows the shape of it: every task carries a decision, and the mind is fully engaged without trying harder. By the fifth year the day runs on procedure, and the same person calls it boring. If Bergson is right about the mechanism, the boredom is not a character flaw but a shortage of live options, which points at a different repair: put a fork somewhere in the day and see whether the attention follows it.
 
 *For example:* The commute driven on autopilot — consciousness dimmed to a pilot light. The same stretch of road in a borrowed car, wrong side of the road, in a new country: consciousness blazing. Choice is the dimmer switch.
 

@@ -22,9 +22,9 @@ The sutta's own claim is large and specific:
 
 > "This is the direct path for the purification of beings, for the overcoming of sorrow & lamentation, for the disappearance of pain & distress, for the attainment of the right method, & for the realization of Unbinding — in other words, the four frames of reference." (MN 10, [Thanissaro](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html))
 
-The practice itself is repetitive by design: the practitioner "remains focused on the body in & of itself — ardent, alert, & mindful — putting aside greed & distress with reference to the world", and the same formula recurs for feelings, mind states, and mental qualities. Mindfulness here is not a mood; it is the seeing that lets every other skill in the teaching operate on live data.
+The practice itself is repetitive by design: the framing formula, "ardent, alert, & mindful — putting aside greed & distress with reference to the world", is applied to all four frames, body, feelings, mind, and mental qualities, each taken "in & of itself". The instruction is less a mood than a job description for attention.
 
-**Plain words** Every other practice on this wiki assumes you can see what is actually happening. Not what you meant to do, not what you usually do: what is happening now, in the body, in the feeling tone, in the mind. That seeing is the tool, and it is trainable by repetition, the same formula run across four fields until noticing gets fast and cheap. The reason it powers everything else is mechanical rather than mystical: you cannot let go of a tension you have not noticed, or answer a question you have not heard.
+**Plain words** The sutta's instruction is to stay focused on four things: body, feelings, mind, and mental qualities, each "in & of itself", while setting aside "greed & distress with reference to the world". In ordinary terms: know what is happening, know which of the four places it belongs to, and keep the wants and worries about everything else out of the way while you look. "Ardent, alert, & mindful" names the three things to bring: effort, wakefulness, and memory of what you are doing.
 
 *For example:* Noticing you're clenching your jaw during the meeting — that tiny observation is the whole technology.
 

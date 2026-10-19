@@ -18,13 +18,13 @@ The four ennobling tasks: embrace life, let reactivity be, see reactivity stop, 
 
 ### The verbs in the sutta
 
-The prescriptive reading rests on the sutta's own grammar. Each truth arrives three times, identified, assigned, and reported done:
+The prescriptive reading rests on the sutta's own grammar. Each truth arrives three times, identified, assigned a duty, and reported done:
 
-> "Vision arose, insight arose, discernment arose, knowledge arose, illumination arose within me with regard to things never heard before: 'This noble truth of stress is to be comprehended.'... 'This noble truth of the origination of stress is to be abandoned'... 'This noble truth of the cessation of stress is to be directly experienced'... 'This noble truth of the way of practice leading to the cessation of stress is to be developed.'" (SN 56.11, [Thanissaro](https://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html))
+> "Vision arose, insight arose, discernment arose, knowledge arose, illumination arose within me with regard to things never heard before: 'This noble truth of stress is to be comprehended.'... 'This noble truth of the origination of stress is to be abandoned'... 'This noble truth of the cessation of stress is to be directly experienced'... 'This noble truth of the way of practice leading to the cessation of stress is to be developed'" (SN 56.11, [Thanissaro](https://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html))
 
-Nothing in the pattern asks for assent. The truths come with infinitives attached, and the awakened report is in the perfect tense: comprehended, abandoned, experienced, developed. Batchelor's "tasks, not beliefs" is that grammar made explicit.
+The sutta distinguishes recognising a truth, recognising its duty, and completing that duty: stress comprehended, origination abandoned, cessation directly experienced, path developed. The page's prescriptive reading (Batchelor's) treats those duties as the content of the teaching.
 
-**Plain words** A belief is something you can hold while doing nothing else. A task has a verb in it, and the verb is where the teaching lives. Notice what the sutta never asks: whether the statements are true. The questions are whether the stress has been comprehended, the origination abandoned, the cessation experienced, the path developed. Test any teaching you carry by the same standard: what would count as having done it? If nothing would, it is a belief wearing a practice's clothes.
+**Plain words** Pick a teaching you hold, say that resentment is optional. Held as a belief, you can agree with it for years and nothing in your life needs to change. Held as a task, it has a completion condition: the resentment present, noticed, worked with, and worked without. The test of which one you are holding is what would count as having done it. If nothing would, you are holding an opinion.
 
 *For example:* Reading ten books on swimming versus getting in the water — only one of them ever changes what your body can do.
 
