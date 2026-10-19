@@ -16,11 +16,12 @@
   "PEN Model",
   "Positivity effect",
   "Right livelihood",
-  "Sabbath"
+  "Sabbath",
+  "Social comparison"
  ],
  "flagged": {},
  "missing_concepts": [],
- "sources_checked": 47,
+ "sources_checked": 48,
  "inline": [],
  "reciprocal": [
   {
@@ -482,6 +483,31 @@
    "into": "Sleep hygiene (CBT-I)",
    "link": "Sabbath",
    "why": "the weekly rhythm the sleep clinic prescribes daily"
+  },
+  {
+   "into": "Envy",
+   "link": "Social comparison",
+   "why": "the comparison theory behind this emotion's mechanics"
+  },
+  {
+   "into": "Benign versus malicious envy",
+   "link": "Social comparison",
+   "why": "the upward comparison that splits envy's two forms"
+  },
+  {
+   "into": "Relative deprivation",
+   "link": "Social comparison",
+   "why": "the group-level extension of comparison research"
+  },
+  {
+   "into": "Contingent self-esteem",
+   "link": "Social comparison",
+   "why": "the comparison habit that contingency feeds"
+  },
+  {
+   "into": "Fragile vs secure high self-esteem (Kernis)",
+   "link": "Social comparison",
+   "why": "who is hurt or helped by upward comparison"
   }
  ],
  "notes": "First concept: Amor sui (right self-love). All 12 original links preserved. Facets section (vs self-contempt) folded into prose. Definition quote is Ethics IIIp55 scholium (verified against Gutenberg Elwes text); rational demand is IVp18 scholium. Related-clause support sources (SEP Rousseau/Nietzsche/Stoicism, Wikipedia self-compassion) listed in the page's Sources section. | deferred at this run (target band busy): 6 recip, 0 inline | deferred at this run (target band busy): 21 recip, 0 inline"
