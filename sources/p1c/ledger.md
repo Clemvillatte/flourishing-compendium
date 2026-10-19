@@ -426,3 +426,13 @@ copied from the opened URL in this session.
 - A066: source curly apostrophes restored; "evening alone" reframed as a proposed
   reflection exercise.
 - Milestone 35 approved by advisor after these repairs.
+
+## MO003 — Intrinsic vs extrinsic motivation (Ryan & Deci 2000; Deci et al. 1999)
+
+- Opened: https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf
+  (Ryan & Deci 2000; extrinsic/intrinsic definitions and locus-of-causality sentence
+  fetched verbatim) and https://pubmed.ncbi.nlm.nih.gov/10589297/ (Deci et al. 1999
+  abstract verbatim: undermining d-values and positive-feedback sentences). The
+  page's performance/persistence/well-being claims stay in the parallels section as
+  citations (Cerasoli 2014, Vansteenkiste 2006 not opened). Validated vs HEAD
+  (pre-item).
