@@ -2,11 +2,12 @@
  "batch": "w1c",
  "done": [
   "Anger regulation research",
-  "Cognitive flexibility"
+  "Cognitive flexibility",
+  "Context-dependent behaviour (Wood & Neal)"
  ],
  "flagged": {},
  "missing_concepts": [],
- "sources_checked": 17,
+ "sources_checked": 19,
  "inline": [
   {
    "into": "CO013",
@@ -99,6 +100,56 @@
    "into": "Goal adjustment capacity",
    "link": "Cognitive flexibility",
    "why": "disengaging and re-engaging flexibly, applied to goals"
+  },
+  {
+   "into": "Habit",
+   "link": "Context-dependent behaviour (Wood & Neal)",
+   "why": "the Wood-Neal model that redefined habit as context-cued responding"
+  },
+  {
+   "into": "Context-dependent repetition (Lally)",
+   "link": "Context-dependent behaviour (Wood & Neal)",
+   "why": "the theoretical model behind the formation-side evidence"
+  },
+  {
+   "into": "Implementation intentions",
+   "link": "Context-dependent behaviour (Wood & Neal)",
+   "why": "planning that exploits the same context-cue mechanism"
+  },
+  {
+   "into": "Situation selection",
+   "link": "Context-dependent behaviour (Wood & Neal)",
+   "why": "choosing contexts upstream, the regulation family cue-control belongs to"
+  },
+  {
+   "into": "Environmental design",
+   "link": "Context-dependent behaviour (Wood & Neal)",
+   "why": "the applied arm of the model's cue-control route"
+  },
+  {
+   "into": "Designing the environment for virtue",
+   "link": "Context-dependent behaviour (Wood & Neal)",
+   "why": "the Aristotelian version of controlling cues"
+  },
+  {
+   "into": "Ego depletion",
+   "link": "Context-dependent behaviour (Wood & Neal)",
+   "why": "the limited resource the model's inhibition route draws on"
+  },
+  {
+   "into": "Character as habits",
+   "link": "Context-dependent behaviour (Wood & Neal)",
+   "why": "the mechanism underneath character-as-habits claims"
+  },
+  {
+   "into": "Belief as habit",
+   "link": "Context-dependent behaviour (Wood & Neal)",
+   "why": "context-cued responding applied to belief and action"
+  },
+  {
+   "into": "Nudge theory Thaler",
+   "link": "Context-dependent behaviour (Wood & Neal)",
+   "why": "choice architecture as cue control at scale"
   }
  ],
  "notes": "First concept: Amor sui (right self-love). All 12 original links preserved. Facets section (vs self-contempt) folded into prose. Definition quote is Ethics IIIp55 scholium (verified against Gutenberg Elwes text); rational demand is IVp18 scholium. Related-clause support sources (SEP Rousseau/Nietzsche/Stoicism, Wikipedia self-compassion) listed in the page's Sources section. | deferred at this run (target band busy): 6 recip, 0 inline"
