@@ -25,7 +25,7 @@ The trained and untrained person get the same eight; the difference is the respo
 (AN 8.6; Lokavipatti Sutta.)
 
 **Plain words**
-The eight come as four pairs, each gain listed beside its loss: they arrive in the same weather system. The trained move in the sutta is the reflection, run on the wind while it blows: 'gain has arisen for me; it is inconstant, stressful, and subject to change.'
+When a wind arrives, the sutta's disciple runs a one-line check on it before reacting: "Gain has arisen for me. It is inconstant, stressful, & subject to change." Try that sentence on your next raise, and on the criticism that follows it. The check costs a breath and it is the whole difference the sutta marks between the trained and untrained response.
 
 **For example**
 The same month brings the promotion and the diagnosis — the winds were never negotiating with your plans.

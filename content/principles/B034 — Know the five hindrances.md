@@ -16,7 +16,7 @@ Sensory desire, ill will, sloth-and-torpor, restlessness-and-worry, and doubt: t
 
 MN 10 makes the hindrances the first category of mental qualities to watch, and gives a noticing formula rather than a suppression order:
 
-> "There is the case where, there being sensual desire present within, a monk discerns that 'There is sensual desire present within me.' Or, there being no sensual desire present within, he discerns that 'There is no sensual desire present within me.' He discerns how there is the arising of unarisen sensual desire. And he discerns how the abandoning of sensual desire once it has arisen. And he discerns how there is no future arising of sensual desire that has been abandoned. (The same formula is repeated for the remaining hindrances: ill will, sloth & drowsiness, restlessness & anxiety, and uncertainty.)" (MN 10, [Thanissaro](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html))
+> "There is the case where, there being sensual desire present within, a monk discerns that 'There is sensual desire present within me.' Or, there being no sensual desire present within, he discerns that 'There is no sensual desire present within me.' He discerns how there is the arising of unarisen sensual desire. And he discerns how there is the abandoning of sensual desire once it has arisen. And he discerns how there is no future arising of sensual desire that has been abandoned. (The same formula is repeated for the remaining hindrances: ill will, sloth & drowsiness, restlessness & anxiety, and uncertainty.)" (MN 10, [Thanissaro](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html))
 
 The hindrance is treated as an object of observation: note it present or absent, watch it arise, watch it be abandoned, watch for its return. That is why the sutta files them under mindfulness, as qualities to be watched.
 
@@ -33,8 +33,6 @@ The formula the sutta gives for each hindrance is a set of questions: is it pres
 - [MN 10 Satipatthana Sutta, trans. Thanissaro Bhikkhu (Access to Insight)](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html) — the five hindrances section
 
 ## Psychology parallels
-
-- **The hindrances map onto core clinical processes** — transdiagnostic therapy (Norton, 2017; McEvoy and Mahoney, 2012)
 
 ## Philosophy parallels
 

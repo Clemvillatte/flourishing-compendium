@@ -23,7 +23,7 @@ The doubt itself becomes the object watched: note it present, note it absent, wa
 (MN 10; SN 46.)
 
 **Plain words**
-The formula asks for doubt to be discerned like any other hindrance: present or absent, arising, abandoned. The practice continues while it is watched, which is what answers it. The sutta's answer to "does this work?" is the experiment: debate the thirty days if you like, and the data comes from the thirty days.
+The formula asks for doubt to be discerned like any other hindrance: present or absent, arising, abandoned. What the formula does not offer is an argument that settles the doubt; it offers a place to stand while you run the experiment yourself. An exercise, clearly labelled: for thirty days, practice as if the teaching worked, and see what you find.
 
 **For example**
 'Does meditation even work?' — the only experiment that answers it is the thirty days of doing it, not the thirty days of debating it.
