@@ -444,3 +444,11 @@ Advisor QC (2026-10-19): quotes verified (BQ1 ch. 22 sentence, BQ2 ch. 68 verse 
 - BE022: relationship example now explicitly hypothetical and conditional on fits-the-facts; "repeated approach is what the skill asks for" removed (implied automatic renewed contact after conflict).
 - BE036: "Fear present? Act. Motivation absent? Act" unconditional cadence removed; compendium exercise restricted to a chosen worthwhile action with manageable discomfort; body and Practice now state it is not a general command to override fear or fatigue; application labelled "its own and not a reading of Aristotle".
 - All five files validated against pre-session baselines: pass. BI060 remains in_progress until advisor acceptance.
+
+## QC round 2 outcome, item 20 (2026-10-20, worker-p1e-4f2c9b1d)
+
+- BI060: advisor PASS for revised content. Marking done. The broad mental-health parallel (yoga, tai chi and walking meditation reduce stress and improve well-being) is specifically flagged as NOT established by the opened Wang trial, beyond the general inherited-parallel flag.
+- BE022: advisor PASS for the conditional example correction.
+- BE036: advisor PASS for the restricted application and Practice corrections.
+- BE019: conditional PASS on exact changes (body scheduling-experiment sentence removed, workflow wording removed, BA link preserved via labelled suggestion sentence, plain words/example replaced with the advisor's text). Applying.
+- BE009: FAIL — source gap. Must open a shaping source from docs/PRIMARY-SOURCES.md before retaining the definition; remove ledger-note prose from the article; revise plain words. Reopening BE009.
