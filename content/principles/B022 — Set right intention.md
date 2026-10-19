@@ -12,13 +12,26 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 22** — Set right intention
 
-Orient your will toward three things: simplicity (letting go of the unnecessary), goodwill (wishing well), and harmlessness (refusing to add suffering). Let intention lead action.
+The Buddha's own definition is short. In the Magga-vibhanga Sutta (SN 45.8), after naming the eight parts of the path, he defines the second:
+
+> "And what is right resolve? Being resolved on renunciation, on freedom from ill will, on harmlessness: This is called right resolve."
+> — Thanissaro Bhikkhu, trans., SN 45.8
+
+### What the text says
+
+Thanissaro renders the Pali as "resolve"; other translators use "intention". The sutta lists the path as "right view, right resolve, right speech, right action", so resolve comes straight after view and before any speech or action.
+
+All three terms are stated as what you turn away from: renunciation, absence of ill will, absence of harm. "Simplicity", "goodwill" and "refusing to add suffering" are the compendium's positive renderings of them, not the sutta's words.
+
+### A modern echo
+
+[Sheldon and Elliot (1999)](https://pubmed.ncbi.nlm.nih.gov/10101878/) found that people pursuing goals consistent with their "developing interests and core values" put in more sustained effort and were more likely to reach those goals. That is about fit between goals and values, not about renunciation or harmlessness, so it is a loose parallel only.
 
 (SN 45.8.)
 
-**Plain words** Orient your will toward three things: simplicity (letting go of the unnecessary), goodwill (wishing well), and harmlessness (refusing to add suffering). Let intention lead action — the intention is the rudder; without it the boat just drifts with the mood.
+**Plain words** Intention is what you are aiming at before you act. SN 45.8 names three aims: let go, don't wish ill, don't harm. Set them first and they shape which words and actions you reach for next.
 
-*For example:* Before the difficult call, taking ten seconds to set an intention: 'may this end well for both of us' — the call runs on that rudder.
+*For example:* Imagine you have to tell a colleague that their report missed the mark. Before you pick up the phone you fix the aim: say what is true, and don't try to wound. That aim then decides how you phrase the first sentence.
 
 ## Stories
 
@@ -37,7 +50,7 @@ Orient your will toward three things: simplicity (letting go of the unnecessary)
 ## Psychology parallels
 
 - **[[Values clarification|Values clarification]] and committed action in ACT** (Hayes et al., 2011)
-- **[[Self-concordant goals|Self-concordant goals]]** (Sheldon and Elliot, 1999)
+- **[[Self-concordant goals|Self-concordant goals]]** (Sheldon and Elliot, 1999). [Abstract](https://pubmed.ncbi.nlm.nih.gov/10101878/)
 
 ## Philosophy parallels
 
