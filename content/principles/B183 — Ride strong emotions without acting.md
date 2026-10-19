@@ -12,13 +12,15 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 183** — Ride strong emotions without acting
 
-When a big emotion hits, neither venting nor suppressing: feel it fully in the body, let it peak, and act only when it has passed.
+Thich Nhat Hanh's teaching on anger is the clearest formulation of this principle, and it comes as an image rather than a rule. A mother cooking for her family in the kitchen, he says, sees the pot boiling over and does not throw the pot out the window; she simply turns down the flame. "The practice is not to suppress or to fight against the feeling, but to recognize the feeling and to take care of it" ([Nhat Hanh, The Heart of the Buddha's Teaching, Archive.org](https://archive.org/details/heartofbuddhaste0000nhat)). The emotion is not the problem; the acting-on-it is the problem.
 
-(Thích Nhất Hạnh, Handling Strong Emotions; MN 20.)
+The Buddha's simile in MN 20 for the meditator dealing with distracting, forceful thoughts is the same move applied to the mind: when a thought will not go away, you attend to the body and make the mind quiet, like a man walking fast who asks himself why he is walking fast, and then walks slowly ([MN 20, Thanissaro Bhikkhu translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.020.than.html)). The instruction is not to stop feeling; it is to stop the feeling from driving the vehicle.
 
-**Plain words** When a big emotion hits, neither venting nor suppressing — feel it fully in the body, let it peak, and act only when it has passed. The wave is survivable; the decisions made inside it usually aren't.
+> "The practice is not to suppress or to fight against the feeling, but to recognize the feeling and to take care of it." (Thich Nhat Hanh, The Heart of the Buddha's Teaching, [Archive.org](https://archive.org/details/heartofbuddhaste0000nhat))
 
-*For example:* The furious drive home rehearsing the resignation — parked outside, breathing, until the wave passed and the email stayed in drafts.
+**Plain words** The wave is survivable; the decisions made inside it usually are not. The furious drive home rehearsing the resignation is not itself the problem — the problem is sending the email while still at the peak. Feel the emotion fully in the body, let it peak, and act only when it has passed. This is not suppression, which stores the emotion for later with interest; it is the recognition that the emotion and the decision are two separate events, and merging them is how both get ruined.
+
+*For example:* Two people get the same infuriating email. One replies immediately while still shaking; the reply is sent and cannot be un-sent, and the relationship is damaged for years. The other parks outside the house, breathes, waits, and writes the same sharp points the next morning with a clear head. Same anger; only one of them still has the option to be effective.
 
 ## Psychology parallels
 
