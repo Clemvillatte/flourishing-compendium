@@ -23,7 +23,7 @@ The practice: both questions are legitimate; the principle refuses to let the ju
 (Gilligan, 1982, In a Different Voice; Noddings, 1984, Caring: A Feminine Approach to Ethics and Moral Education; Noddings, 2002, Starting at Home: Caring and Social Policy.)
 
 **Plain words**
-The justice question can be answered from the rules alone: same rule, same consequence. The care question cannot be answered without the person: what is going on with them, what would actually help, what they can receive. Both are real moral questions. The principle says the second one is primary in the moments when someone is in need in front of you.
+The care orientation adds questions about relationships, circumstances and needs: what is going on with this person, what would actually help, what they can receive. The answers depend on the particular relationship and situation, which is why Noddings rejected applying care from a rulebook. The principle says these questions are primary in the moments when someone is in need in front of you.
 
 *For example:*
 Two kids break the same rule. The rulebook says identical punishment; the carer asks what each kid was actually dealing with, and the responses differ.

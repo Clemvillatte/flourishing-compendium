@@ -12,13 +12,23 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 127** — Live according to nature
 
-Nature (physis) has a rational order. To live well is to live in accordance with that order: to accept what happens as part of the whole, to fulfil your role in the larger system, and to use reason as the faculty that distinguishes humans from other animals. Study what nature requires of you and align your life with it.
+Marcus Aurelius compresses the rule into a standing instruction:
+
+> "This thou must always bear in mind, what is the nature of the whole, and what is my nature, and how this is related to that, and what kind of a part it is of what kind of a whole; and that there is no one who hinders thee from always doing and saying the things which are according to the nature of which thou art a part." (Marcus Aurelius, [Meditations II.9, Long translation, Internet Classics Archive](https://classics.mit.edu/Antoninus/meditations.2.two.html))
+
+Marcus asks the reader to consider their own nature in relation to the larger whole. He then asserts that others cannot prevent them from speaking and acting in accordance with that nature. The passage connects reflection on one's place in the world with responsibility for one's conduct ([Meditations II.9](https://classics.mit.edu/Antoninus/meditations.2.two.html)).
 
 (Med. II.9, IV.10, VII.53; Seneca, Letters 41, 76; Disc. I.6.)
 
-**Plain words** Nature has a rational order, and to live well is to live in line with it: take what happens as part of the whole, fill your role, and use reason, the thing that's distinctive in humans. Study what nature asks of you and fit your life to that.
+**Plain words**
+Before reacting to a difficulty, ask what part you have in the situation and what that requires of you. Consider the other people involved as well as your preferences. Read as practical advice, the passage directs attention towards how you should speak and act, even when circumstances are unwelcome.
 
-*For example:* A doctor who accepts that bodies age and die can spend her energy on comfort, not on fighting what can't be fought.
+*For example:*
+Suppose a shared project changes after a setback. Reconsider what your responsibility now involves and identify something useful you can contribute. You can question the new plan while still deciding how to carry out your part.
+
+## Sources
+
+- [Marcus Aurelius, Meditations II.9, George Long translation, Internet Classics Archive](https://classics.mit.edu/Antoninus/meditations.2.two.html) — quoted verbatim
 
 ## Stories
 

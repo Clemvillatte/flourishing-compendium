@@ -21,7 +21,7 @@ The continuation makes the stakes explicit: do not allow the appearance to lead 
 (Disc. I.20, II.18, III.2-3, III.12; Ench. 1.)
 
 **Plain words**
-An impression is a proposal, not a finding. "They're angry with me" arrives with the force of a fact, but the force is part of the proposal. The trained move is small: delay the signature. You are not arguing the point yet, only refusing to sign unread. Most impressions survive the test; some do not, and those are the ones that were steering.
+An impression is a proposal, not a finding. "They're angry with me" arrives with the force of a fact, but the force is part of the proposal. The trained move is small: delay the signature. You are not arguing the point yet, only refusing to sign unread. The chapter's warning is specific about what happens if you skip the test: let the appearance draw its pictures of what will follow, and it will carry you off wherever it pleases.
 
 *For example:*
 A friend doesn't reply for two days and your mind says "they're angry with me." The practice is to say "that's what it looks like" before believing it.
