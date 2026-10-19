@@ -12,13 +12,24 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 67** — My world is what I attend to
 
-Interest creates attention and attention creates the world: each of us literally lives in a world carved by our interests. Choose your interests: you are choosing your world.
+The line is in James's chapter on attention. He is arguing against empiricists who treat the mind as clay on which "experience" falls.
 
-(James, The Principles of Psychology, 1890.)
+> "Millions of items of the outward order are present to my senses which never properly enter into my experience. Why? Because they have no interest for me. My experience is what I agree to attend to. Only those items which I notice shape my mind - without selective interest, experience is an utter chaos."
+> — William James, The Principles of Psychology (1890), vol. 1, ch. XI, "Attention," p. 402
 
-**Plain words** Interest creates attention and attention creates the world — each of us literally lives in a world carved by our interests. Choose your interests: you are choosing your world. The birdwatcher and the accountant walk through the same park and visit different planets.
+### What James adds
 
-*For example:* After you buy the teal car, the road is suddenly full of teal cars — they were always there. Your interest edited the world into visibility.
+Interest, he says, "alone gives accent and emphasis, light and shade, background and foreground - intelligible perspective, in a word." A few lines on he adds that interest "makes experience more than it is made by it." Attention itself he defines as "the taking possession by the mind, in clear and vivid form, of one out of what seem several simultaneously possible objects or trains of thought", and notes it "implies withdrawal from some things in order to deal effectively with others."
+
+### Scope
+
+The compendium's "creates the world" is stronger than James's wording. His claim is about experience: what enters it is shaped by interest. He does not say the outer world is made by attention. And "choose your interests" is the compendium's advice, not a line from this passage.
+
+(James, The Principles of Psychology, 1890, ch. XI, pp. 402-404.)
+
+**Plain words** Your senses take in far more than you notice. What you notice becomes your experience, and James says interest decides what that is. Two people can walk the same street and come away with different days. If that is right, where you let your attention go is partly up to you, which makes it worth steering on purpose.
+
+*For example:* Imagine two people on the same train carriage. One counts delays and complaints. The other notices who gave up a seat. Same carriage, different journeys.
 
 ## Stories
 
@@ -26,7 +37,7 @@ Interest creates attention and attention creates the world: each of us literally
 
 ## Psychology parallels
 
-- **[[Attentional bias research|Attentional bias research]]**, attention determines affect and behavior (MacLeod et al., 1995)
+- **[[Attentional bias research|Attentional bias research]]**, anxious people tend to show more biased attention toward threatening stimuli, though meta-analytic effects are generally modest ([Attentional Biases in Human Anxiety](https://pmc.ncbi.nlm.nih.gov/articles/PMC9756271/))
 - **[[Negativity bias|Negativity bias]]** (Rozin and Royzman, 2001)
 
 ## Philosophy parallels
