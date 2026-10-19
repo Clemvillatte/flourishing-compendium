@@ -12,13 +12,16 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 163** — Practice creative hopelessness: let go of what isn't working
 
-Face the facts about strategies that have failed — the control agenda, the waiting-for-perfection agenda — and let their failure free you for something new.
+Face the facts about strategies that have failed, the control agenda, the waiting-for-perfection agenda, and let their failure free you for something new. ACT gives the process its name and its shape:
 
-(Hayes, Strosahl and Wilson, 2011.)
+> "The 'hopelessness' achieved in creative hopelessness is experiential contact with the futility of experiential avoidance, a growing suspicion that one's own verbal rules may be part of the problem rather than the solution, a confusion about what to do next, but a sense that it will be different and counterintuitive."
+> (Kanter, Baruch and Gaynor, The Behavior Analyst, [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC2223147/))
 
-**Plain words** Creative hopelessness: the good despair that fires the old map and admits you need a new one. Face the facts about strategies that have failed — the control agenda, the waiting-for-perfection agenda — and let their failure free you.
+The client is guided there by Socratic questions the article lists: "What do you want?", "What have you tried?", "How has that worked?" The hopelessness is aimed at the strategy, not at the life; its creativity is the space that opens when the old category of solution is abandoned. (Hayes, Strosahl and Wilson, 2011.)
 
-*For example:* The tenth year of 'I'll organize my life once things calm down' — finally admitting: things never calm down. That admission is not despair. It's the first working day of the rest of the plan.
+**Plain words** The questions are simple: what do you want, what have you tried, how has that worked. Creative hopelessness is what happens when the honest answer to the third question is that it has not. The despair is aimed at the strategy, not at your life, and its point is to make trying something else possible.
+
+*For example:* Take the resolution "I'll organize my life once things calm down". Run it through the three questions, including how many years it has been running. The admission that things never calm down is the contact with futility; what you organize next is the new category.
 
 ## Practice kernels
 
