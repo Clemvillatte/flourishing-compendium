@@ -12,13 +12,22 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 78** — Wander free and easy (xiaoyao you)
 
-Build a life you can move through lightly: unburdened by convention, comparison, and hoarded identity. Freedom of spirit is the goal, not status.
+The principle takes its name from the first chapter of the Zhuangzi, whose title, xiaoyao you, Legge rendered "Enjoyment in Untroubled Ease" (Zhuangzi 1). The chapter closes with Huizi complaining that Zhuangzi's words are like a large useless ailantus tree that no builder looks at, and Zhuangzi answering with the wandering image that carries the principle.
 
-(Zhuangzi 1.)
+> There you might saunter idly by its side, or in the enjoyment of untroubled ease sleep beneath it. Neither bill nor axe would shorten its existence; there would be nothing to injure it. What is there in its uselessness to cause you distress? (Zhuangzi 1, Legge, [METIS English Classics edition](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
 
-**Plain words** Build a life you can move through lightly — unburdened by convention, comparison, and hoarded identity. Freedom of spirit is the goal, not status. Most heaviness is carried, not built-in: the opinions, the image, the audience in your head.
+Huizi judges both the tree and Zhuangzi's words by their usefulness. Zhuangzi answers by describing an enjoyment that the carpenter's judgment leaves out. In this exchange, the tree's failure to serve the builder protects the possibility of resting beneath it. (Zhuangzi 1, §7.)
 
-*For example:* The person who can laugh at their own fumbled toast moves through the room lightly; the one defending their image all night goes home exhausted.
+The compendium applies the exchange as a directive: build a life you can move through lightly, unburdened by convention, comparison and hoarded identity.
+
+**Plain words**
+When something seems useless, ask what job you expected it to do. A tree can fail the carpenter's test and still be a pleasant place to rest. You need not remake it to enjoy being there.
+
+*For example:* Take a walk with no fitness target and no errand attached. Nothing about the walk needs justifying for it to be worth taking.
+
+## Sources
+
+- [Zhuangzi, Inner Chapter 1, "Enjoyment in Untroubled Ease", Legge translation (1891), METIS English Classics edition, ETH Zurich](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — Huizi's ailantus-tree dialogue, chapter end
 
 ## Stories
 
