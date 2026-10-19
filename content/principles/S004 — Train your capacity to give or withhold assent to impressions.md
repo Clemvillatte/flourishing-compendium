@@ -12,13 +12,23 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 126** — Train your capacity to give or withhold assent to impressions
 
-Every experience presents itself as an impression (phantasia): an appearance of how things are. You have a moment of choice: to accept the impression as true or to withhold assent. The trained person pauses, examines, and then decides. The untrained person assents automatically. Practise the pause.
+Epictetus gives the exercise as a single instruction:
+
+> "But in the first place be not hurried away by the rapidity of the appearance, but say, 'Appearances, wait for me a little: let me see who you are, and what you are about: let me put you to the test.'" (Epictetus, [Discourses II.18](https://www.stoicsource.com/epictetus/discourses/2.18/))
+
+The continuation makes the stakes explicit: do not allow the appearance to lead you on and draw lively pictures of what will follow, for if you do, it will carry you off wherever it pleases; bring in some other beautiful and noble appearance and cast out the base one ([Disc. II.18](https://www.stoicsource.com/epictetus/discourses/2.18/)). The chapter frames the training as combat: this is the true athlete, the man who exercises himself against such appearances, contending for kingship, for freedom, for happiness, for freedom from perturbation ([Disc. II.18](https://www.stoicsource.com/epictetus/discourses/2.18/)).
 
 (Disc. I.20, II.18, III.2-3, III.12; Ench. 1.)
 
-**Plain words** Every experience arrives as an impression, an appearance of how things are. There's a gap between the appearance and your agreement to it. The trained person uses the gap: "You seem like an insult. Let me check." The untrained person agrees at once.
+**Plain words**
+An impression is a proposal, not a finding. "They're angry with me" arrives with the force of a fact, but the force is part of the proposal. The trained move is small: delay the signature. You are not arguing the point yet, only refusing to sign unread. Most impressions survive the test; some do not, and those are the ones that were steering.
 
-*For example:* A friend doesn't reply for two days and your mind says "they're angry with me." The practice is to say "that's what it looks like" before believing it.
+*For example:*
+A friend doesn't reply for two days and your mind says "they're angry with me." The practice is to say "that's what it looks like" before believing it.
+
+## Sources
+
+- [Epictetus, Discourses II.18, public-domain translation (George Long), StoicSource](https://www.stoicsource.com/epictetus/discourses/2.18/) — the "wait for me a little" instruction quoted verbatim with its continuation
 
 ## Practice kernels
 
