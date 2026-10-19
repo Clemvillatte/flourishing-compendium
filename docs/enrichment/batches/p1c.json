@@ -57,8 +57,8 @@
   "A067",
   "A071",
   "A072",
-  "A073",
   "AF025",
+  "A073",
   "AF035",
   "AT011",
   "AT071"
@@ -82,14 +82,14 @@
   "A067": "Reopened for QC: QC correction: milestone review round 2",
   "A071": "Reopened for QC: QC correction: milestone review round 2",
   "A072": "Reopened for QC: QC correction: chapter IX.10 attribution; milestone round 2",
-  "A073": "Reopened for QC: QC correction: milestone round 3",
+  "A073": "Reopened for QC: QC correction: round 3 focused check",
   "AF025": "Reopened for QC: QC correction: milestone round 3",
-  "AF035": "Reopened for QC: QC correction: milestone round 3",
-  "AT011": "Reopened for QC: QC correction: milestone round 3",
-  "AT071": "Reopened for QC: QC correction: milestone round 3"
+  "AF035": "Reopened for QC: QC correction: round 3 focused check",
+  "AT011": "Reopened for QC: QC correction: round 3 focused check",
+  "AT071": "Reopened for QC: QC correction: round 3 focused check"
  },
  "missing_concepts": [],
  "sources_checked": 18,
- "updated": "2026-10-19T14:01:51+00:00",
+ "updated": "2026-10-19T14:04:29+00:00",
  "band_done": false
 }

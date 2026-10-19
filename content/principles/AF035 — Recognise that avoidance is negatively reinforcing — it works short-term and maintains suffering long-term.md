@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 35** — Recognise that avoidance is negatively reinforcing: it works short-term and maintains suffering long-term
 
-Avoiding a feared situation can bring immediate relief, and that relief can reinforce the avoidance. Repeated avoidance may also remove opportunities to learn whether what was feared actually happens. Recognise the pattern when it appears.
+Repeatedly avoiding a feared situation to escape the anxiety it provokes can bring immediate relief, and that relief can reinforce the avoidance. Avoidance of reasonably safe situations may also remove opportunities to learn whether what was feared actually happens. Recognise the pattern when it appears.
 
 ### The mechanism
 
@@ -24,7 +24,7 @@ Temporary relief can reinforce avoidance; repeated avoidance may also remove opp
 
 ### What it blocks
 
-Exposure therapy is "repeated approach toward fear provoking stimuli" ([Craske et al. 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4114726/)), and avoidance, on that account, "can interfere with new learning by preventing any violation in expectancy" (Craske et al. 2014). The article makes the same point about safety signals, which differ from avoidance but work the same way: they "alleviate distress in the short term, but when they are no longer present, the fear returns" (Craske et al. 2014).
+Exposure therapy is "repeated approach toward fear provoking stimuli" ([Craske et al. 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4114726/)), and avoidance, on that account, "can interfere with new learning by preventing any violation in expectancy" (Craske et al. 2014). The article makes a similar point about safety signals, which differ from avoidance: they "alleviate distress in the short term, but when they are no longer present, the fear returns" (Craske et al. 2014).
 
 **Plain words** Avoidance often pays on the spot, in relief. The trade is the relief now for the unanswered question later: what would have happened if you had gone? The question stays closed as long as the avoidance keeps it closed. Noticing that trade is the skill.
 

@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AT — Attentio
 ---
 > **Principle 71** — Recognise depression's effect on attention: negative bias and rumination
 
-Depression biases attention toward negative self-referential information and away from positive. It also impairs concentration and increases rumination (attention caught in repetitive negative thinking). This is a symptom, not a choice.
+Depression is linked in the research to increased attention for negative stimuli and decreased attention for positive stimuli, and to rumination, a repetitive, passive focus on symptoms and their possible causes and consequences. These are symptoms, not choices.
 
 ### What rumination is
 
@@ -20,15 +20,15 @@ The clinical definition, via Nolen-Hoeksema's response styles theory:
 
 > "a way of responding to depressed mood that is characterized by repetitively and passively focusing on the symptoms of depression, and their possible causes and consequences" — as summarised in [Ehring 2021, World Psychiatry](https://pmc.ncbi.nlm.nih.gov/articles/PMC8429319/)
 
-The attentional bias is documented too: "there is evidence that people with depression show increased attention for negative stimuli and decreased attention for positive stimuli compared with non-depressed individuals" ([Disner et al. 2011](https://www.psychiatry.wisc.edu/courses/Nitschke/seminar/disner%20beck%202011%20nat%20rev%20neurosci.pdf)), and "a persistent sad mood is probably maintained in part by an attentional bias towards negative information in the environment" (Disner et al. 2011).
+The attentional bias is documented too: "Indeed, there is evidence that people with depression show increased attention for negative stimuli and decreased attention for positive stimuli compared with non-depressed individuals" ([Disner et al. 2011](https://www.psychiatry.wisc.edu/courses/Nitschke/seminar/disner%20beck%202011%20nat%20rev%20neurosci.pdf)), and "A persistent sad mood is probably maintained in part by an attentional bias towards negative information in the environment" (Disner et al. 2011).
 
 ### What rumination does
 
 The review evidence is a list of costs: "rumination exacerbates depression, enhances negative thinking, impairs problem solving, interferes with instrumental behavior, and erodes social support" ([Nolen-Hoeksema, Wisco & Lyubomirsky 2008](https://www.psychologicalscience.org/journals/perspectives/j.1745-6924.2008.00088.x/)).
 
-**Plain words** The replay feels like analysis: the same scene, the same question, no new result. The skill is noticing the loop itself, not judging the verdict. The verdict may even be partly right; the loop is still the loop.
+**Plain words** Ask whether another replay is yielding new information or a possible next step. Whether the underlying concern is accurate is a separate question.
 
-*For example:* Someone repeatedly replays "I failed" after an ordinary mistake, each pass arriving at the same conclusion, without any next step appearing. The process, not the verdict, is the symptom.
+*For example:* Someone with depression repeatedly replays "I failed" after an ordinary mistake, each pass arriving at the same conclusion, without any next step appearing.
 
 ## Sources
 
@@ -50,4 +50,4 @@ The review evidence is a list of costs: "rumination exacerbates depression, enha
 
 ## Practice
 
-- When depressed, recognise that your attention is biased and your concentration is impaired. This is a symptom, not a personal failing. 
+- When depressed, recognise that your attention may be biased toward negative information. This is a symptom, not a personal failing. 

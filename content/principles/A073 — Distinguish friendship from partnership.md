@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 73** — Distinguish friendship from partnership
 
-Not every partnership is a friendship in the fullest sense. You can work with someone, trade with someone, or cooperate with someone without being their friend. Aristotle calls these friendships of utility: real, but resting on benefit rather than on the friend. Friendship grounded in character requires mutual goodwill, shared values, and the wish for the other's good.
+Useful cooperation alone does not tell you what kind of relationship you have. Aristotle distinguishes friendship based on utility from friendship grounded in character. The former rests on the benefit received; the latter rests on appreciation of the friend's character.
 
 (NE VIII.3, VIII.6.)
 
