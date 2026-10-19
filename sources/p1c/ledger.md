@@ -342,3 +342,8 @@ copied from the opened URL in this session.
   lapse); "pair" paragraph replaced with the compendium-extension framing. Ledger
   entry for the Fukanzazengi source remains historical record for B177's earlier
   drafts only.
+
+## B177 correction note 4 (milestone QC final)
+
+- Removed "The drifting is assumed..." overstatement; Plain words replaced with the
+  advisor's lapse-as-cue text. Milestone 25 approved (P080 + B177).

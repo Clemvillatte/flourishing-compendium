@@ -12,14 +12,14 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 177** — Begin again: returning is the practice
 
-MN 20 teaches a monk to respond to thoughts imbued with desire, aversion or delusion by attending to another theme connected with what is skillful, and to examine the drawbacks of the thoughts if they persist. The drifting is assumed, and the method is the return.
+MN 20 teaches a monk to respond to thoughts imbued with desire, aversion or delusion by attending to another theme connected with what is skillful, and to examine the drawbacks of the thoughts if they persist.
 
 > "Just as a skilled carpenter or his apprentice would use a small peg to knock out, drive out, and pull out a large one; in the same way, if evil, unskillful thoughts — imbued with desire, aversion, or delusion — arise in a monk while he is referring to and attending to a particular theme, he should attend to another theme, apart from that one, connected with what is skillful." (MN 20, [Thanissaro, accesstoinsight](https://www.accesstoinsight.org/tipitaka/mn/mn.020.than.html))
 
 The compendium extends this redirection practice to restarting after a lapse. Sitting again after abandoning a meditation habit is a modern application, not an instruction established by the quoted passage.
 
 **Plain words**
-The drift is not the news; the return is. A practice measured in streaks treats every lapse as a broken thing to mourn. A practice measured in returns treats the lapse as the cue: the same move as yesterday, applied again. The steadying is the same motion whether it is the first time or the fourth.
+In this modern application, a lapse is a cue to choose the next sitting. You stopped practising; today you can sit again. Count that return without requiring a perfect streak.
 
 *For example:* Suppose a meditation habit abandoned for three weeks. As a modern application, the return is sitting once today, not renegotiating the whole habit.
 
