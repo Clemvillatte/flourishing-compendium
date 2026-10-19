@@ -83,7 +83,7 @@ def entry_from_md(text):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument('--src', default='/home/user/workspace/repo')
+    ap.add_argument('--src', default=os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
     ap.add_argument('--version', default=None)
     args = ap.parse_args()
 

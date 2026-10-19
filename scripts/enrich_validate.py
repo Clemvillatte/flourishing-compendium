@@ -3,13 +3,15 @@
 
   python3 scripts/enrich_validate.py                 # every modified content/*.md vs HEAD
   python3 scripts/enrich_validate.py "content/concepts/Ubuntu.md" ...
+  python3 scripts/enrich_validate.py --base <pre-enrichment-commit> <files> ...
 
 Hard errors (exit 1): front-matter changed; any original wikilink lost; any wikilink that
 does not resolve; prose < MIN_WORDS or > MAX_WORDS; no http(s) source URL in ## Sources;
 banned AI vocabulary; em-dash budget exceeded; 'not X but Y' staging; bold in prose.
+Also rejects changed principle statements, reflection blocks and original wikilink markup.
 Warnings: fewer than 3 Related-concepts lines; no '## Related concepts' section.
 """
-import sys, os, re, subprocess
+import sys, os, re, subprocess, collections, argparse
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from enrich_stats import load, graph, LINK, prose_words, parse, ROOT
 
@@ -21,8 +23,8 @@ BANNED = ['delve', 'tapestry', 'testament', 'pivotal', 'vibrant', 'showcase', 'u
 STAGING = [r'\bnot (just|only|merely|simply)\b[^.]{0,80}\bbut\b', r"\bit'?s not\b[^.]{0,60}\bit'?s\b", r'\bat its core\b',
            r'\bthe real (question|issue|point)\b', r"\bhere'?s the thing\b", r"\blet'?s (dive|explore|break)\b"]
 
-def git_show(path):
-    r = subprocess.run(['git', 'show', f'HEAD:{path}'], cwd=ROOT, capture_output=True, text=True)
+def git_show(path, base='HEAD'):
+    r = subprocess.run(['git', 'show', f'{base}:{path}'], cwd=ROOT, capture_output=True, text=True)
     return r.stdout if r.returncode == 0 else None
 
 def split(t):
@@ -42,15 +44,33 @@ def prose_text(body):
         out.append(s)
     return '\n'.join(out)
 
-def validate(path, byfile, byid):
+def protected_errors(body_old, body_new, typ):
+    errors = []
+    # Preserve complete markup, including aliases, and repeated occurrences.
+    markup = lambda body: collections.Counter(re.findall(r'\[\[[^\]]+\]\]', body))
+    if markup(body_old) - markup(body_new):
+        errors.append('original wikilink markup changed or removed')
+    reflections = lambda body: re.findall(r'<!--\s*fc:\s*reflections\b.*?-->', body, re.S)
+    if reflections(body_old) != reflections(body_new):
+        errors.append('reflections block changed')
+    if typ == 'principle':
+        statement = lambda body: next(
+            (line for line in body.splitlines() if line.startswith('>')), None)
+        if not statement(body_old) or statement(body_old) != statement(body_new):
+            errors.append('principle statement changed or missing')
+    return errors
+
+
+def validate(path, byfile, byid, base='HEAD'):
     errs, warns = [], []
     new = open(os.path.join(ROOT, path), encoding='utf-8').read()
-    old = git_show(path)
-    if old is None: return [f'{path}: no baseline in git HEAD'], []
+    old = git_show(path, base)
+    if old is None: return [f'{path}: no baseline in git {base}'], []
     fm_n, body_n = split(new); fm_o, body_o = split(old)
     if fm_n != fm_o: errs.append('front-matter changed')
     mtype = re.search(r'^type:\s*"?([^"\n]+)', fm_n, re.M)
     typ = mtype.group(1).strip() if mtype else None
+    errs.extend(protected_errors(body_o, body_n, typ))
     minw, maxw = (40, 300) if typ == 'principle' else (MIN_WORDS, MAX_WORDS)
     lo = {m.group(1).strip() for m in LINK.finditer(body_o)}
     ln = {m.group(1).strip() for m in LINK.finditer(body_n)}
@@ -84,13 +104,18 @@ def validate(path, byfile, byid):
 if __name__ == '__main__':
     E = load()
     byfile = {e['fm'].get('file'): i for i, e in E.items()}
-    paths = sys.argv[1:]
+    ap = argparse.ArgumentParser(description=__doc__)
+    ap.add_argument('--base', default='HEAD', help='committed comparison baseline (default HEAD)')
+    ap.add_argument('paths', nargs='*')
+    args = ap.parse_args()
+    paths = args.paths
     if not paths:
-        out = subprocess.run(['git', 'status', '--porcelain', 'content'], cwd=ROOT, capture_output=True, text=True).stdout
-        paths = [l[3:].strip().strip('"') for l in out.splitlines() if l[3:].strip().endswith('.md')]
+        out = subprocess.run(['git', 'diff', '--name-only', '-z', args.base, '--', 'content'],
+                             cwd=ROOT, capture_output=True, text=True, check=True).stdout
+        paths = [p for p in out.split('\0') if p.endswith('.md') and os.path.isfile(os.path.join(ROOT, p))]
     bad = 0
     for p in paths:
-        errs, warns = validate(p, byfile, E)
+        errs, warns = validate(p, byfile, E, args.base)
         status = 'FAIL' if errs else 'ok  '
         print(f'{status} {p}')
         for e in errs: print('     ERR ', e)
