@@ -26,9 +26,10 @@
   "CO008",
   "CO011",
   "CO039",
-  "E002"
+  "E002",
+  "E016"
  ],
- "in_progress": "E016",
+ "in_progress": null,
  "flagged": {
   "D011": "inherited psychology claim (Kashdan & Rottenberg 2010 'outperforms on nearly every outcome') not verified against an opened source; preserved per protocol, flagged for supervisor",
   "D068": "inherited psychology-parallels claims (Gottman soft startup; assertiveness research 'aggression reliably loses long games') not verified against opened sources; flagged for supervisor",
@@ -54,10 +55,11 @@
   "CO008": "psychology-parallels claims (Piaget 1954; Bruner 1966; Roediger and Karpicke 2006; Dunlosky et al. 2013) not verified against opened sources; the Kant A51/B75 passage verified; flagged for supervisor",
   "CO011": "psychology-parallels claims (Hayes et al. 2011; Gillanders et al. 2014; Masuda et al. 2004; Deacon et al. 2011) not verified against opened sources; flagged for supervisor",
   "CO039": "psychology-parallels claims (Weinstein 1980; Taylor and Brown 1988) not verified against opened sources; the comparative less-likely-than-others framing lives only in the parallels; flagged for supervisor",
-  "E002": "psychology-parallels claims (Posner and Petersen 1990; Corbetta and Shulman 2002) and the Husserl locators not verified against opened sources; the Brentano passage verified via Wikipedia's quotation; flagged for supervisor"
+  "E002": "psychology-parallels claims (Posner and Petersen 1990; Corbetta and Shulman 2002) and the Husserl locators not verified against opened sources; the Brentano passage verified via Wikipedia's quotation; flagged for supervisor",
+  "E016": "psychology-parallels claims (Gallagher 2005; Legrand 2006) and the Sartre Being and Nothingness locator not verified against opened sources; the Merleau-Ponty quotation verified via SEP; flagged for supervisor"
  },
  "missing_concepts": [],
- "sources_checked": 17,
- "updated": "2026-10-19T12:44:35+00:00",
+ "sources_checked": 18,
+ "updated": "2026-10-19T12:45:28+00:00",
  "band_done": false
 }

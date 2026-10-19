@@ -242,3 +242,12 @@ Advisor QC (2026-10-19): quotes verified (BQ1 ch. 22 sentence, BQ2 ch. 68 verse 
 - Inherited, NOT opened: Posner and Petersen 1990, Corbetta and Shulman 2002 claims — flagged in the band state file.
 - Saturation: Goal-directed attention and Intentionality cite E002; Attention does not — one reciprocal proposal added.
 - Validator: ok, prose 136 words; protected fields untouched.
+
+## E016 — Practise the body-subject (done; no advisor QC per speed directive, item 27)
+
+- Opened: SEP's Merleau-Ponty article (https://plato.stanford.edu/entries/merleau-ponty/) — NEW SOURCE (SEP); source count incremented. Verified verbatim: "One's own body is in the world just as the heart is in the organism." (SEP's quotation of PhP p. 245/209).
+- E016 was on the plain-words replicate list; replicate Plain words replaced; the outcome-flavoured tail ("The body-subject was the whole department") trimmed to an action framing.
+- The walking-thinker application is explicitly labelled an application, not a claim the simile makes.
+- Inherited, NOT opened: Gallagher 2005, Legrand 2006 claims; the Sartre Being and Nothingness locator — flagged in the band state file.
+- Saturation: Embodied self, The body-subject, Being-in-the-world all cite E016; no justified new proposals.
+- Validator: ok, prose 173 words; protected fields untouched.

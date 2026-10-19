@@ -12,13 +12,23 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 408** — Practise the body-subject
 
-Do not locate your subjectivity in your mind alone. You are a body-subject: your consciousness is embodied, your thinking is embodied, your perceiving is embodied. The body is not the prison of the mind but its condition of possibility. Live as a body-subject, not as a mind trapped in a body.
+Merleau-Ponty's image for the body-subject is printed in the Stanford Encyclopedia's article on him. The simile places the body inside the world the way an organ sits inside a living whole ([SEP, Merleau-Ponty](https://plato.stanford.edu/entries/merleau-ponty/)):
+
+> One's own body is in the world just as the heart is in the organism. (Merleau-Ponty, Phenomenology of Perception, p. 245/209, as quoted in [SEP](https://plato.stanford.edu/entries/merleau-ponty/))
+
+The application the page takes from it: the walking thinker below is not a quirk of the mind but a fact about the body-subject's setting, and the day can be scheduled around it. An application, not a claim the simile makes.
 
 (Merleau-Ponty, 1945/2012, Phenomenology of Perception, Introduction and Part I; Sartre, 1943/2003, Being and Nothingness, Part III.)
 
-**Plain words** Don't locate your subjectivity in your mind alone. You are a body-subject: consciousness embodied, thinking embodied, perceiving embodied. The body is not the prison of the mind but its condition of possibility. Live as a body-subject, not as a mind carrying meat.
+**Plain words**
+Your thinking happens somewhere, and the somewhere is not incidental: it happens in a body that is tired or rested, cramped or walking. When you plan your day, plan it around the body's condition rather than around the idea of a mind that floats above it. The question "when do you think best?" is a question about the body.
 
-*For example:* The person who "thinks best while walking" — and finally stops treating that as a quirk and starts treating it as architecture: the meetings that matter get scheduled around the walking. The body-subject was the whole department.
+**For example**
+The person who thinks best while walking can treat that as architecture rather than quirk: the meetings that matter get scheduled around the walking.
+
+## Sources
+
+- [Merleau-Ponty (SEP article), Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/merleau-ponty/) — the heart-in-the-organism quotation (PhP p. 245/209) verified verbatim
 ## Stories
 
 - [[ST263 — The Phantom Hand|263. The Phantom Hand]]
