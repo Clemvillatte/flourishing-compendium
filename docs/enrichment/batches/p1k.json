@@ -18,11 +18,12 @@
   "B107",
   "B118",
   "B120",
-  "B131"
+  "B131",
+  "B132"
  ],
- "in_progress": "B132",
+ "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-19T13:45:00+00:00"
+ "updated": "2026-10-19T13:45:10+00:00"
 }
