@@ -22,11 +22,12 @@
   "B132",
   "B134",
   "B145",
-  "B156"
+  "B156",
+  "B157"
  ],
- "in_progress": "B157",
+ "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-19T13:46:22+00:00"
+ "updated": "2026-10-19T13:46:33+00:00"
 }
