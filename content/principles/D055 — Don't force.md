@@ -12,13 +12,16 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 55** — Don't force
 
-Before pushing harder on anything, ask: what here is being forced, and what would it do without my grip? Loosen first, act second.
+Chapter 29 of the Daodejing states the cost outright:
 
-(DDJ 29, 64.)
+> "The kingdom is a spirit-like thing, and cannot be got by active doing. He who would so win it destroys it; he who would hold it in his grasp loses it."
+> (DDJ 29, [Legge's translation](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
-**Plain words** Half the energy we spend pushing is spent pushing against the natural shape of the thing. Before pushing harder, ask what would happen without your grip — loosen first, act second.
+The chapter ends with the sage's rule of conduct: he "puts away excessive effort, extravagance, and easy indulgence". Chapter 64 carries the same restraint into ordinary work: the sage "helps the natural development of all things, and does not dare to act (with an ulterior purpose of his own)" (DDJ 64, Legge). The compendium's practical reading: before adding force to a stuck effort, check what the thing would do without your grip, and loosen before you push. (DDJ 29, 64.)
 
-*For example:* Yanking a stuck zipper breaks it; easing the fabric and working it gently gets it open — the same force, aimed differently.
+**Plain words** When something is stuck, the reflex is more force: push harder, insist more, repeat louder. The Daodejing's claim is that on things with their own grain this works badly, that the doing itself is what spoils the result. The alternative is diagnostic: ask what the situation is made of, and what it would do if you let go for a moment. The answer decides the next move, which may still be a push, only aimed at the part that actually gives.
+
+*For example:* A stuck zipper will not open by main strength. Ease the fabric, work the slide gently, and the same force that would have broken it opens it.
 
 ## Stories
 
