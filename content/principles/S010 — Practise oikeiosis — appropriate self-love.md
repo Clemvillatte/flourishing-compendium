@@ -16,9 +16,27 @@ The Stoic doctrine of oikeiosis holds that every animal has a natural affinity f
 
 (Disc. I.19; Cicero, De Finibus III.16-18; Hierocles, fragments.)
 
-**Plain words** Every animal has an instinct for self-preservation. In humans it grows into self-knowledge and then concern for others. You don't have to kill self-interest. You extend it: start with caring for your own reason and virtue, then widen to family, community and all people.
+### What oikeiosis is
+
+Cicero's Cato states the Stoic starting point, the so-called cradle argument:
+
+> "It is the view of those whose system I adopt, that immediately upon birth (for that is the proper point to start from) a living creature feels an attachment for itself, and an impulse to preserve itself and to feel affection for its own constitution and for those things which tend to preserve that constitution; while on the other hand it conceives an antipathy to destruction and to those things which appear to threaten destruction." — Cicero, De Finibus III.16 (H. Rackham trans., [LacusCurtius](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cicero/de_Finibus/3*.html))
+
+His proof is infant behaviour: babies "desire things conducive to their health and reject things that are the opposite before they have ever felt pleasure or pain", so "it is love of self which supplies the primary impulse to action" (III.16).
+
+### How self-love widens
+
+Epictetus keeps the self-interest and turns it outward. Even Zeus does everything for his own sake, yet "he cannot achieve these works, or win these appellations, unless he proves himself useful to the common interest"; in general, "he can attain nothing of his own proper goods unless he contributes something to the common interest" (Disc. I.19, [Oldfather trans., owner's primary-source library](https://drive.google.com/file/d/1EDkL63FuSpabjbB7amxNodYocj_q_vaH/view)). On this telling, the widening circle is how a rational animal's own good is attained at all.
+
+**Plain words**
+A newborn reaches for what keeps it alive before it knows what pleasure is. That is the base the Stoics build on: you already care for yourself, and the caring is built to widen. Look after your own reason and health first; the widening depends on that base.
 
 *For example:* Looking after your own sleep and sanity so you can show up for your children isn't selfish. It's the first ring of the widening circle.
+
+## Sources
+
+- [Cicero, De Finibus, Book III (H. Rackham trans., LacusCurtius)](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cicero/de_Finibus/3*.html) — the cradle argument: self-attachment and preservation (III.16); [translator attribution](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cicero/de_Finibus/home.html)
+- [Epictetus, Discourses I.19 (W. A. Oldfather trans., 1925; owner's Delphi epub)](https://drive.google.com/file/d/1EDkL63FuSpabjbB7amxNodYocj_q_vaH/view) — self-love and the common interest
 
 ## Practice kernels
 
