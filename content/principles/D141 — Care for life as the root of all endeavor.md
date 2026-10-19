@@ -12,13 +12,22 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 141** — Care for life as the root of all endeavor
 
-Nourishing life ([[Yangsheng (cultivating vitality)|yangsheng]]) is the base practice: your vitality is the currency every other principle spends.
+The principle's source chapter is Zhuangzi 3, "Nourishing the Lord of Life" (Legge's title). Its opening sets the program: accordance with the Central Element of our nature is the way to preserve the body, maintain the life, nourish our parents, and complete our term of years (§1).
+
+> Excellent! I have heard the words of my cook, and learned from them the nourishment of (our) life. (Zhuangzi 3 §2, Legge, [METIS English Classics edition](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
+
+The cook says his knife has remained sharp through nineteen years of use. He follows the openings, slows his hand at a complicated joint, and wipes the knife clean before putting it away. Wen Hui takes this account as a lesson in nourishing life (§2). The principle's directive, nourishing life ([[Yangsheng (cultivating vitality)|yangsheng]]) as the base practice, is the compendium's application of that lesson.
 
 (Zhuangzi 3; yangsheng literature.)
 
-**Plain words** Nourishing life is the base practice — your vitality is the currency every other principle spends. You can't run alignment, patience, or compassion off an empty battery. Health isn't one priority among many; it's the table they sit at.
+**Plain words**
+You still have work to do. The question is how to do it while looking after yourself. Before adding another demand, consider what it would require and what room you want to leave for ordinary care.
 
-*For example:* The person who 'doesn't have time' for walks and buys that time back as afternoon crashes — vitality was the missing budget item.
+*For example:* Imagine planning a demanding project by scheduling sleep, meals and daily movement first, then fitting the work into what remains.
+
+## Sources
+
+- [Zhuangzi, Chapter 3, "Nourishing the Lord of Life", Legge translation (1891), METIS English Classics edition, ETH Zurich](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — §1 program; §2 the cook and ruler Wen Hui
 
 ## Stories
 
