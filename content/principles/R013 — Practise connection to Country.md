@@ -22,13 +22,11 @@ Deborah Rose's definition:
 
 > "Country is not a generalised or undifferentiated type of place, such as one might indicate with terms like 'spending a day in the country' or 'going up the country'. Rather, country is a living entity with a yesterday, today and tomorrow, with a consciousness, and a will toward life." (Deborah Rose, quoted on [ABC Education](https://www.abc.net.au/education/in-my-blood-it-runs-connections-to-country/13810318))
 
-The same page adds: "This connection has been the core of Aboriginal and Torres Strait Islander existence in Australia from the time of the Dreaming, and it continues to be integral in their lives today, influencing spiritual, physical, cultural, social and emotional wellbeing" (ABC Education).
-
 The SEWB framework's place for it:
 
 > "SEWB was defined by the National Strategic Framework for Aboriginal and Torres Strait Islander Peoples Mental Health and Social and Emotional Wellbeing 2004–2009 as a holistic connection to 'land, culture, spirituality, ancestry, family and community' (Social Health Reference Group 2004, p. 9)." (Dudgeon and colleagues, [timhwb.org.au PDF](https://timhwb.org.au/wp-content/uploads/2020/12/DudgeonGibson-Bray-2020_ReferenceWorkEntry_SocialAndEmotionalWell-BeingAb-3.pdf))
 
-**Plain words** In this frame, Country is a relative you owe things to, and wellbeing is modelled as connection rather than private state. The seven SEWB domains put land on the list beside body, mind, family, and community, which means being on Country counts as a health practice in the same sense as rest or kinship. The transferable move for someone whose land has other names: pick the places that hold your story, return to them, learn their history, and notice that the belonging runs both directions.
+**Plain words** In this frame, Country is a relative you owe things to, and wellbeing is modelled as connection rather than private state. The SEWB framework lists land among the connections that shape wellbeing for Aboriginal and Torres Strait Islander peoples. For someone outside the tradition, a practical application is learning how the relevant community understands and cares for the places you live on, guided by its custodians, rather than claiming that relationship for yourself.
 
 *For example:* The family that returns to the same river bend every season — the kids learn where the stories happened, and grow up with the place as a relative, not a backdrop.
 

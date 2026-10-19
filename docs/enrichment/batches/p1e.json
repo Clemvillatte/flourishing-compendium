@@ -36,7 +36,8 @@
   "PP032",
   "R007",
   "R013",
-  "R089"
+  "R089",
+  "PP021"
  ],
  "in_progress": null,
  "flagged": {
@@ -66,11 +67,13 @@
   "CO039": "psychology-parallels claims (Weinstein 1980; Taylor and Brown 1988) not verified against opened sources; the comparative less-likely-than-others framing lives only in the parallels; flagged for supervisor",
   "E002": "psychology-parallels claims (Posner and Petersen 1990; Corbetta and Shulman 2002) and the Husserl locators not verified against opened sources; the Brentano passage verified via Wikipedia's quotation; flagged for supervisor",
   "E016": "psychology-parallels claims (Gallagher 2005; Legrand 2006) and the Sartre Being and Nothingness locator not verified against opened sources; the Merleau-Ponty quotation verified via SEP; flagged for supervisor",
-  "PP001": "statement claim that eudaimonic well-being is the stronger predictor of long-term outcomes is not supported by the opened sources (Ryan & Deci 2001; Ryff 1989); needs supervisor verification"
+  "PP001": "statement claim that eudaimonic well-being is the stronger predictor of long-term outcomes is not supported by the opened sources (Ryan & Deci 2001; Ryff 1989); needs supervisor verification",
+  "PP021": "statement claims that process orientation produces 'work that matters' and 'the best work' are not established by the opened sources (Ryan & Deci 2000; Freund et al. 2010); needs supervisor verification",
+  "PP032": "statement's categorical 'only when the helping is autonomous' claim is stronger than the opened sources support (Weinstein & Ryan 2010 found autonomy predicted benefits; Dunn et al. 2008 tested spending, not autonomy as a boundary condition); needs supervisor verification"
  },
  "missing_concepts": [],
  "sources_checked": 19,
- "updated": "2026-10-19T14:05:57+00:00",
+ "updated": "2026-10-19T14:08:53+00:00",
  "band_done": false,
  "takeover": {
   "by": "genuineflourishing35",

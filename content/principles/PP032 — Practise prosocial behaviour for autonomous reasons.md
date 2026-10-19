@@ -16,21 +16,19 @@ Helping others produces well-being gains for the helper, but only when the helpi
 
 (Dunn et al., 2008; Weinstein and Ryan, 2010; Post, 2005.)
 
-### The evidence and its condition
+### Two studies, two findings
 
 Dunn and colleagues' prosocial spending finding:
 
 > "Finally, participants who were randomly assigned to spend money on others experienced greater happiness than those assigned to spend money on themselves." (Dunn, Aknin, and Norton, 2008, [PubMed](https://pubmed.ncbi.nlm.nih.gov/18356530/))
 
-The same abstract reports: "we found that spending more of one's income on others predicted greater happiness both cross-sectionally (in a nationally representative survey study) and longitudinally (in a field study of windfall spending)" (Dunn et al., 2008).
-
-Weinstein and Ryan state the condition:
+Weinstein and Ryan state their hypothesis and result:
 
 > "Self-determination theory posits that the degree to which a prosocial act is volitional or autonomous predicts its effect on well-being and that psychological need satisfaction mediates this relation." (Weinstein and Ryan, 2010, [University of Essex repository](https://repository.essex.ac.uk/1614/))
 
 Their four studies' conclusion: "Findings support the idea that autonomous motivation for helping yields benefits for both helper and recipient through greater need satisfaction" (Weinstein and Ryan, 2010).
 
-**Plain words** The helping effect has a hinge, and the hinge is choice. Spending on others tracked higher happiness in Dunn's survey, windfall, and experiment data, but Weinstein and Ryan's four studies found the benefit depends on whether the helping feels chosen, and coerced help did not show the same pattern. Practically, before signing up to help, check whether you would still say yes with the pressure removed, since the well-being return seems to travel with the autonomy rather than the act on its own.
+**Plain words** The two studies make separate points. Dunn and colleagues found prosocial spending predicted greater happiness across a survey, a windfall study, and an experiment; Weinstein and Ryan, in their four studies, found autonomous motivation for helping related to greater need satisfaction and well-being for helper and recipient. Before committing to help, it is worth checking whether you endorse the commitment, what support you can willingly offer, and what limits you need.
 
 *For example:* Volunteering at a food bank because you want to, versus because a manager requires it.
 

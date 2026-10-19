@@ -26,7 +26,7 @@ The Mystery of Being works the point out on the body:
 
 > "My body is *my* body just in so far as I do *not* consider it in this detached fashion, do not put a gap between myself and it. To put this point in another way, my body is mine in so far as for me my body is not an object but, rather, I *am* my body." (Marcel, The Mystery of Being, quoted in [EBSCO research starter](https://www.ebsco.com/research-starters/literature-and-writing/mystery-being-gabriel-marcel))
 
-**Plain words** Marcel's target is the small word "have." You can have a car, and the relation is external: it runs fine without you. The body fails that test from every direction, since it is where your moods live, where attention is steered from, and the thing without which there is no you to do the having. His test for the gap is simple to run: notice when you inspect your body as an object to fix, and when you act from it as the one who is hungry, tired, or moved. The second relation is the default, and the first is an achievement of distancing that costs you something each time.
+**Plain words** Marcel's target is the small word "have" when it is the only word used. The body can be treated as an object you possess, but on his account that description never exhausts it: it is also what you are. An exercise of my own construction: notice when you inspect your body as an object to fix, and when you act from it as the one who is hungry, tired, or moved.
 
 *For example:* Someone who "thinks through" every decision in their head for years — then takes up dancing and discovers the body had opinions the whole time, and better ones.
 

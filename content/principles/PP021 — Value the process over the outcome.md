@@ -22,13 +22,13 @@ Ryan and Deci's definition:
 
 > "Intrinsic motivation is defined as the doing of an activity for its inherent satisfactions rather than for some separable consequence. When intrinsically motivated a person is moved to act for the fun or challenge entailed rather than because of external prods, pressures, or rewards." (Ryan & Deci, 2000, [Contemporary Educational Psychology PDF](https://www.selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_IntExtDefs.pdf))
 
-The contrast: "Extrinsic motivation is a construct that pertains whenever an activity is done in order to attain some separable outcome" (Ryan & Deci, 2000).
+The contrast, stated in the same article: "Extrinsic motivation is a construct that pertains whenever an activity is done in order to attain some separable outcome" (Ryan & Deci, 2000).
 
 A study of process versus outcome focus in personal goals:
 
 > "For both age groups, process focus predicted positive goal-related development and affective well-being. In contrast, outcome focus was either not or negatively related to these outcomes." (Freund, Hennecke, and Riediger, 2010, [Max Planck repository](https://pure.mpg.de/rest/items/item_2099394_5/component/file_2099393/content))
 
-**Plain words** The two orientations differ in where the reward sits. Process engagement carries its satisfaction in the doing and renews daily; outcome engagement banks everything on a verdict that arrives once and often on someone else's terms. In the Freund study, participants who kept their attention on the steps rather than the scoreboard showed better goal development and affect, and you can run the same check on yourself during any session. [[Process versus outcome focus|Outcome focus]] still matters at moments of decision; the finding is that it travels poorly as a daily orientation.
+**Plain words** The two literatures draw different distinctions: one concerns why you pursue an activity, the other concerns what your attention is on while pursuing it. [[Process versus outcome focus|Outcome focus]] still matters at moments of decision. During a practice session, identify the action you can work on now and the result you hope it will serve; notice whether the activity itself interests you and whether your attention stays on carrying it out.
 
 *For example:* Writing every morning because you like it, whether or not the book sells.
 
