@@ -7,7 +7,7 @@ file: "The relational self"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The relational self is the idea that a person's self exists in and through their relationships: a person is partly constituted by bonds with parents, partners and communities rather than assembled first and connected later. In philosophy its touchstone is Martin Buber's I and Thou (1923); the Internet Encyclopedia of Philosophy renders its anthropology in the line that "the self is a part of reality only insofar as it is relational" ([IEP](https://iep.utm.edu/martin-buber/)). In psychology the same words name Susan Andersen and Serena Chen's theory of a self whose knowledge is organized around significant others ([Andersen and Chen 2002](https://pubmed.ncbi.nlm.nih.gov/12374322/)). Kenneth Gergen's Relational Being (2009) and Jennifer Nedelsky's Law's Relations (2011) give the idea a social-constructionist and a legal-theoretical form.
+The relational self is the idea that a person's self exists in and through their relationships: a person is partly constituted by bonds with parents, partners and communities rather than assembled first and connected later. In philosophy its touchstone is Martin Buber's I and Thou (1923); the Internet Encyclopedia of Philosophy renders its anthropology in the line that "the self is a part of reality only insofar as it is relational" ([IEP](https://iep.utm.edu/martin-buber/)). In psychology the words also name Susan Andersen and Serena Chen's theory of a self whose knowledge is organized around significant others ([Andersen and Chen 2002](https://pubmed.ncbi.nlm.nih.gov/12374322/)). Kenneth Gergen's Relational Being (2009) and Jennifer Nedelsky's Law's Relations (2011) give the idea a social-constructionist and a legal-theoretical form.
 
 ### Buber's between
 
@@ -17,13 +17,13 @@ Buber distinguishes two modes of existence: in the I-It relation, per the IEP's 
 
 Andersen and Chen's psychology develops a distinct account. Knowledge about the self is linked in memory with knowledge of significant others, and "each linkage embodies a self-other relationship." When a new person resembles a significant other, the representation activates in the phenomenon of transference, evoking the self one is in that relationship.
 
-The result is a repertoire of relational selves that function "in if-then terms," carrying patterns of affect, motivation and self-regulation. The self one is with a parent can differ from the self one is at work.
+The result is a repertoire of relational selves functioning "in if-then terms," carrying patterns of affect, motivation and self-regulation. The self one is with a parent can differ from the self one is at work.
 
 ### How far the relation goes
 
 Constantine Sedikides, Lowell Gaertner and Erin O'Mara compared the individual, relational and collective selves across imagined loss, threat and life goals in China and the United States. Their reported findings were a hierarchy: the individual self motivationally primary, the relational second and closest to it, the collective third ([Sedikides et al. 2011](https://ecommons.udayton.edu/cgi/viewcontent.cgi?article=1037&context=psy_fac_pub)). The hierarchy is motivational, in these tests; it does not settle Buber's ontological claim.
 
-Gergen argues the stronger case, that "the origin of all meaning lies within collaborative action (co-action)" ([Gergen 2011](https://www.tandfonline.com/doi/full/10.1080/10720537.2011.593453)). Nedelsky draws the consequence for autonomy: people "become autonomous with others," and the capacity is fostered or undermined by relationships and social structures ([Nedelsky 2011](https://books.google.com/books/about/Law_s_Relations.html?id=TbfD8mtW-LIC)).
+Gergen argues the stronger case: "the origin of all meaning lies within collaborative action (co-action)" ([Gergen 2011](https://www.tandfonline.com/doi/full/10.1080/10720537.2011.593453)). Nedelsky draws the consequence for autonomy: people "become autonomous with others," and the capacity is fostered or undermined by relationships and social structures ([Nedelsky 2011](https://books.google.com/books/about/Law_s_Relations.html?id=TbfD8mtW-LIC)).
 
 ### In the compendium
 
