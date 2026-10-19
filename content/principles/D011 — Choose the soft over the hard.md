@@ -12,20 +12,31 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 11** — Choose the soft over the hard
 
-Softness and flexibility overcome rigidity: water wears down stone, the yielding survive the storm. When in doubt, take the softer, more yielding option.
+The Daodejing makes the case from four angles. Chapter 36 gives the axiom in its plainest form: the soft overcomes the hard, and the weak the strong (DDJ 36, [Legge](https://www.gutenberg.org/cache/epub/216/pg216.txt)). Chapter 78 presents water as unsurpassed at attacking the hard and strong ([Legge, DDJ 78](https://www.gutenberg.org/cache/epub/216/pg216.txt)). Chapter 76 contrasts a supple newborn with a stiff corpse, then growing plants with dry, withered ones; it also pictures a strong tree inviting the feller ([Legge, DDJ 76](https://www.gutenberg.org/cache/epub/216/pg216.txt)).
+
+> Thus it is that firmness and strength are the concomitants of death; softness and weakness, the concomitants of life. (DDJ 76, [Legge](https://www.gutenberg.org/cache/epub/216/pg216.txt))
+
+> There is nothing in the world more soft and weak than water, and yet for attacking things that are firm and strong there is nothing that can take precedence of it;--for there is nothing (so effectual) for which it can be changed. (DDJ 78, [Legge](https://www.gutenberg.org/cache/epub/216/pg216.txt))
+
+Chapter 43 pictures what has no substantial existence entering where there is no crevice, then connects these images with the advantage of non-action, [[Wu wei]] ([Legge, DDJ 43](https://www.gutenberg.org/cache/epub/216/pg216.txt)). Chapter 78 also observes that everyone knows this lesson and no one manages to act on it ([Legge, DDJ 78](https://www.gutenberg.org/cache/epub/216/pg216.txt)). The principle is that knowledge carried into the choice: where force and yield are both open, the yield is the default, following the Dao's [[The water metaphor|water model]].
 
 (DDJ 36, 43, 76, 78.)
 
-**Plain words** Soft beats hard over any serious timescale: water wears down stone, reeds survive storms that snap oaks. Rigidity is brittle; flexibility absorbs. When you're in doubt between the forceful option and the yielding one, the yielding one usually ages better.
+**Plain words**
+Picture two people carrying a sofa down a narrow staircase. One locks their arms and fights the geometry; the other twists and yields to the shape of the turn. That is the principle's logic in miniature: the locked posture meets the stair edge-on, the twisting one finds the angle the stair allows. When a forceful option and a yielding option both look workable, the principle says take the bending one.
 
-*For example:* In an argument, the person who stays soft and curious outlasts the one who escalates — the escalator runs out of air.
+**For example**
+In a stalled argument, the soft move is to ask what the other person actually needs before restating your position, and to give ground where the ground costs you nothing.
+
+## Sources
+
+- [The Tao Teh King, James Legge translation, Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt) — chapters 36, 43, 76, 78
 
 ## Psychology parallels
 
 - **[[Psychological flexibility|Psychological flexibility]]**, the capacity to adapt behavior to context outperforms rigid control-based coping on nearly every outcome (Kashdan and Rottenberg, 2010)
 
 ## Philosophy parallels
-
 
 - **[[The bow drawn by opposing tensions|The bow drawn by opposing tensions]]** (Heraclitus, fragments)
 - **[[The meek|The meek inherit the earth]]** (Gospel of Matthew)
