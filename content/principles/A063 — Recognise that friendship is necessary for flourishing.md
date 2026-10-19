@@ -12,13 +12,16 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 63** — Recognise that friendship is necessary for flourishing
 
-No one would choose to live without friends, even if they had all other goods. Friendship is the context for virtue, the test of character, the solace in misfortune, and the joy in prosperity. Invest in friendships as a condition of your own flourishing.
+Aristotle argues that wealth and power do not remove the need for friends:
 
-(NE VIII.1.)
+> "For without friends no one would choose to live, though he had all other goods"
+> (NE VIII.1, [W. D. Ross's translation](https://classics.mit.edu/Aristotle/nicomachaen.8.viii.html))
 
-**Plain words** Nobody would choose to live without friends, even with every other good thing. Aristotle says friendship is where virtue gets practised and tested. Invest in friends as part of your own flourishing, not as an extra.
+He asks what prosperity is for without opportunities to benefit friends. In misfortune, he says, people regard friends as their refuge. Friendship helps the young avoid error and supports older people whose abilities are weakening. For people in their prime, friends encourage noble actions and help them think and act. (NE VIII.1.)
 
-*For example:* A person with a good job and a nice flat who hasn't had a real conversation in weeks is missing something no promotion supplies.
+**Plain words** Picture having every comfort you want. Who would you want to share it with? Whose troubles would you make time for? Aristotle's point includes the chance to care for other people. A practical response is to make room for friends in your plans, even when nothing is wrong and you need no help yourself.
+
+*For example:* Suppose a promotion would require moving away from close friends. Give those friendships a place in the decision alongside the salary.
 
 ## Stories
 
@@ -78,7 +81,8 @@ No one would choose to live without friends, even if they had all other goods. F
 ## Philosophy parallels
 
 - **[[I and Thou|I-Thou as the primary relation]]** (Buber, I and Thou)
-- **Ubuntu: I am because we are** (African relational philosophy)- **[[Philia|Philia]]** (Aristotelianism)
+- **[[Ubuntu|Ubuntu: I am because we are]]** (African relational philosophy)
+- **[[Philia|Philia]]** (Aristotelianism)
 
 
 <!-- fc: reflections
