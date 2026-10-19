@@ -357,3 +357,10 @@ copied from the opened URL in this session.
   problem-focused/emotion-focused matching rule is presented as hedged compendium
   application, not as a verified finding from these abstracts. Validated vs HEAD
   (pre-item).
+
+## P052 — Hold hypotheses, not positions (Peirce)
+
+- Opened: https://www.peirce.org/writings/p107.html (The Fixation of Belief, 1877;
+  doubt/inquiry passages fetched verbatim). The four-methods framing is paraphrased,
+  not quoted; the "hired guards" line is the compendium's voice. Validated vs HEAD
+  (pre-item).

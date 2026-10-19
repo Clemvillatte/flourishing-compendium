@@ -12,13 +12,20 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 52** — Hold hypotheses, not positions
 
-State your views as hypotheses open to test rather than positions to defend. The sentence "I might be wrong" is the beginning of intelligence.
+Peirce's essay describes what your own doubt is for. Doubt is "an uneasy and dissatisfied state from which we struggle to free ourselves and pass into the state of belief", and the struggle it causes has a name: "The irritation of doubt causes a struggle to attain a state of belief. I shall term this struggle inquiry." A position defended against doubt stops the inquiry before it runs; a hypothesis keeps the doubt available.
 
-(Peirce, "The Fixation of Belief," 1877.)
+> "With the doubt, therefore, the struggle begins, and with the cessation of doubt it ends. Hence, the sole object of inquiry is the settlement of opinion." (Peirce, The Fixation of Belief, [peirce.org](https://www.peirce.org/writings/p107.html))
 
-**Plain words** Positions invite sieges; hypotheses invite experiments. State your views as open to test — the sentence "I might be wrong" is the beginning of intelligence.
+The compendium applies the essay to meetings and plans: a view stated so that it can be tested keeps the doubt alive; a view stated as final buries it with the opinion already settled.
 
-*For example:* 'I think our users want faster checkout — let's test it' versus 'Users want speed, period.' Only one of those sentences can learn something.
+**Plain words**
+Peirce's picture: doubt is the itch, inquiry is the scratch, and belief is the calm after. The catch is that calm can be bought cheaply, by refusing to listen, or honestly, by testing. A hypothesis is a belief that has agreed to be disturbed; a position is a belief that has hired guards. The sentence "I might be wrong" is the beginning of intelligence.
+
+*For example:* Suppose "I think our users want faster checkout — let's test it" versus "Users want speed, period." As a modern application, Peirce's essay calls the first sentence an inquiry and the second an opinion with the doubt buried.
+
+## Sources
+
+- [C. S. Peirce, The Fixation of Belief (peirce.org)](https://www.peirce.org/writings/p107.html)
 
 ## Stories
 
