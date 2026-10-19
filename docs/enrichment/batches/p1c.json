@@ -18,12 +18,15 @@
   "D092",
   "B026",
   "B127",
-  "BI013",
-  "B051"
+  "B051",
+  "BI013"
  ],
  "in_progress": null,
- "flagged": {},
+ "flagged": {
+  "BI013": "Reopened for QC: QC round-1 corrections failed to land; reapplied and revalidated"
+ },
  "missing_concepts": [],
  "sources_checked": 17,
- "updated": "2026-10-19T11:54:29+00:00"
+ "updated": "2026-10-19T11:54:31+00:00",
+ "band_done": false
 }
