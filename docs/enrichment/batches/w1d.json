@@ -22,15 +22,16 @@
   "Mind in life",
   "Mindful attention",
   "Moral identity",
-  "Movement as life"
+  "Movement as life",
+  "Narcissism versus healthy self-regard"
  ],
- "in_progress": "Narcissism versus healthy self-regard",
+ "in_progress": null,
  "flagged": {
   "The eternal contribution": "compendium coinage, not a traditional term: page says so in its first sentence; written for the sense BE068 uses"
  },
  "missing_concepts": [],
- "sources_checked": 106,
- "updated": "2026-10-19T08:45:17+00:00",
+ "sources_checked": 112,
+ "updated": "2026-10-19T08:45:41+00:00",
  "qc_log": {
   "Escape from freedom": "approved after 4 advisor QC rounds: quotes verified against opened sources (panarchy ch. V excerpt, Wikipedia, IEP Totalitarianism 2.d, SEP Critical Theory 1.4); Simondon Individuation and The having mode removed from Related; cross-tradition links labelled comparisons; sources_checked: 4",
   "Eternal recurrence": "milestone advisor QC applied: practical-reading attribution qualified; AF069 described as the compendium's separate comparison; Panta rhei, Corsi e ricorsi and Three thousand realms claims externally verified; 'Thou art a God' capitalisation matches primary text",
@@ -53,7 +54,8 @@
   "Mind in life": "self-QC: Thompson's own Précis used for the thesis and argument, quoted verbatim; Wheeler's critique included; unverified author name removed from a citation anchor",
   "Mindful attention": "self-QC: Kabat-Zinn operational definition verbatim from his 2003 paper; Langer's definition verbatim from the Langerian literature; Ferrari 2019 effect sizes verbatim with publication-bias caveat; both seed facets (novel features, self-compassion) covered with their own evidence",
   "Moral identity": "self-QC: Blasi 1984 four-component model described from secondary expositions with verbatim quotes; self-consistency engine quoted (Blasi 1993, p. 99); standard model and centrality research included",
-  "Movement as life": "self-QC: Cook Ding quoted in Watson's translation; butterfly transformation-of-things line quoted from the parable commentary; flowing/fixed cognition distinction from SEP; Panta rhei marked as cross-tradition comparison"
+  "Movement as life": "self-QC: Cook Ding quoted in Watson's translation; butterfly transformation-of-things line quoted from the parable commentary; flowing/fixed cognition distinction from SEP; Panta rhei marked as cross-tradition comparison",
+  "Narcissism versus healthy self-regard": "self-QC: Kernis 2003 fragile/secure fourfold quoted verbatim from the target article and author copy; Paulhus and Williams 2002 intercorrelations and self-enhancement findings from the full text; Tracy's authentic/hubristic pride parallel marked as parallel not claim"
  },
  "incidents": [
   "2026-10-19: enriched content/concepts/The eternal contribution.md by mistake (not in w1d manifest; belongs to w1ae). Content file reverted to seed in this commit; validated draft preserved at docs/enrichment/drafts/w1d/The eternal contribution.md for the w1ae agent. Reciprocal proposals for it removed from proposals/w1d.json."
