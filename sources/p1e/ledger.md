@@ -317,3 +317,10 @@ Advisor QC (2026-10-19): quotes verified (BQ1 ch. 22 sentence, BQ2 ch. 68 verse 
 - A022: PASS after round 1 corrections (unsupported "emotional component of justice" removed, plain words de-replicated, example made hypothetical).
 - SP084: PASS after rounds 2-4 (application paragraph removed, arithmetic sole illustration, V P25/P27 standalone blockquotes, plain words study-prompt form; validated vs pre-edit baseline 713c51fe). Inherited parallels remain flagged, not certified.
 - Process note adopted for future items: QC-rejected items stay reopened (recoverable WIP pushed) until advisor acceptance, then done.
+
+## A025 — Practice proper pride (kaucha) (done 2026-10-20 by worker-p1e-4f2c9b1d; no advisor QC per speed directive, item 6)
+
+- Opened: MIT Classics Ross NE Book IV (same page as A021; https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html covers Book IV incl. ch. 3). Verified verbatim: "The man is thought to be proud who thinks himself worthy of great things, being worthy of them; for he who does so beyond his deserts is a fool, but no virtuous man is foolish or silly."; "The unduly humble man falls short both in comparison with his own merits and in comparison with the proud man's claims. The vain man goes to excess in comparison with his own merits"; "Pride, then, seems to be a sort of crown of the virtues; for it makes them greater, and it is not found without them." Sources_checked +1 (25 -> 26).
+- Plain words de-replicated (old one re-quoted "worthy of great things" and the vanity/humility framing); replaced with the list-and-match calibration test. Body's unsourced "Aristotle distinguishes proper pride from vanity and from humility" replaced by the opened IV.3 two-failures passage.
+- Inherited, NOT opened: MM I.25 locator (kept as inherited citation), Tracy/Robins psychology parallels, NE IX.8 proper self-love parallel — flagged in state.
+- Validator: ok; protected fields untouched vs HEAD.
