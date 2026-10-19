@@ -42,7 +42,8 @@
   "A066",
   "AF082",
   "MO003",
-  "R012"
+  "R012",
+  "S002"
  ],
  "in_progress": null,
  "flagged": {
@@ -54,6 +55,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 18,
- "updated": "2026-10-19T13:27:07+00:00",
+ "updated": "2026-10-19T13:28:20+00:00",
  "band_done": false
 }

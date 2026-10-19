@@ -16,9 +16,28 @@ Wealth, health, reputation, and pleasure are "preferred indifferents": they have
 
 (Ench. 1; Disc. II.19; Med. III.6, VI.13.)
 
-**Plain words** Money, health, reputation and pleasure are worth having, but they aren't good in the strict sense. Only the state of your own reasoning soul is. So organise life with virtue first, the preferred things second, and don't confuse the two when the second starts shouting.
+### What "good" means here
+
+The Stoics use "good" strictly: what benefits you unconditionally, whatever else happens. Tested that way, wealth, health, reputation and pleasure fail — each can be had by a bad person, used badly, or lost while you act well. Hence "preferred indifferents": worth having, never worth trading virtue for. Epictetus draws the line at the will: "OF things some are in our power, and others are not"; "not in our power are the body, property, reputation, offices" (Ench. 1).
+
+### The only thing that can injure you
+
+> "For nothing outside the sphere of the moral purpose can hamper or injure the moral purpose; it alone can hamper or injure itself." — Epictetus, Discourses II.19 (Long trans.)
+
+An illness takes your health; a cowardly choice takes your character, and only you can hand that over. That is why only vice is bad: it is the one injury that comes from inside.
+
+### The practical reading
+
+Health and money matter conditionally: they help a life already well-directed and magnify one that isn't. The discipline is keeping the ordering straight when a preferred indifferent starts demanding a bad act — that trade is always a loss: the only unconditional thing given up for a conditional one.
+
+**Plain words**
+"Good" is their technical term for what can only improve you: your own judgement and character. Money can improve your life or corrupt you; that conditionality is exactly why it isn't "good" in their sense. The practice: chase the preferred things, but the moment one can only be got by acting badly, call the trade what it is — a loss.
 
 *For example:* You can prefer the bigger flat. But if getting it means shading the truth with your landlord, the Stoic says you've swapped a good for an indifferent.
+
+## Sources
+
+- [Epictetus, Delphi Complete Works (owner's library) — Ench. 1; Disc. II.19](https://drive.google.com/file/d/1EDkL63FuSpabjbB7amxNodYocj_q_vaH/view?usp=drive_link)
 
 ## Stories
 
