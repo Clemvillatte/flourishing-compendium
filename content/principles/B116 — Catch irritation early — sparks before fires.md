@@ -10,15 +10,23 @@ number: "116"
 navigation: {"track": "philosophy", "primaryPath": ["NAV-PHILOSOPHY", "NAV-PHIL-BUD"], "alternatePaths": []}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist Principles", "chapter": "B-S05 — LAYER V — THE HEART — EMOTIONS AND IMMEASURABLES", "parent": ""}
 ---
+
 > **Principle 116** — Catch irritation early: sparks before fires
 
-Anger grows from a spark to a blaze in seconds; the practice is catching the spark — the first tightening, the first story — before it is a fire.
+The Dhammapada treats anger as something that can be checked while it is still moving. The verse does not ask the practitioner never to become angry; it treats the anger as something that can be halted, like a rolling vehicle, before it carries you anywhere. Related verses in the same section frame the same thought at the level of what anger does to the person who carries it, not just to others ([Kodhavagga, AccessToInsight](https://accesstoinsight.org/tipitaka/kn/dhp/dhp.17.budd.html)).
 
-(Dhammapada 3; MN 128.)
+> He who checks rising anger
+> as a charioteer checks a rolling chariot,
+> him I call a true charioteer.
+> Others only hold the reins.
+>
+> — Dhammapada 222 ([Buddharakkhita, AccessToInsight](https://accesstoinsight.org/tipitaka/kn/dhp/dhp.17.budd.html))
 
-**Plain words** Anger grows from a spark to a blaze in seconds — the practice is catching the spark: the first tightening, the first story, before it's a fire. Firefighters know it; so does anyone who's ever re-read a sent email.
+**Plain words** Anger arrives as a sensation before it becomes an argument. The compendium's title asks you to notice that first sensation — the tightening in the jaw, the sharpening of the mental rehearsal — and treat it as information, not as an instruction to act. The practice is the noticing itself. A person who has already begun rehearsing a reply is not yet too late, but the rehearsal is easier to stop than the speech.
 
-*For example:* The jaw tightening as the text arrives — ninety seconds of noticing it now, versus three days of fallout on Thursday.
+For example (imagined): a text message arrives that reads as a slight. Before composing a reply, the practitioner notices that the body has gone tight and that the mind has already rehearsed three versions of the rebuttal. The rehearsal is put aside. The reply is written later, or not written.
+
+(Dhammapada 3, 222; MN 128.)
 
 ## Psychology parallels
 
