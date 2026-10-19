@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 159** — Defuse: see thoughts as thoughts
 
-The ACT article names the problem and the move. The problem: "People begin to take their thoughts literally, without noticing the process of thinking itself." The move is defusion, and "the focus is on mindfully noticing thinking as it occurs." The technique this page is about is listed among the article's examples: "Clients can practice labeling the process of thinking (e.g., 'I am having the thought that I will never be successful'), and practice behaving in ways that directly contradict a thought."
+The ACT article names the problem and the move. The problem: "People begin to take their thoughts literally, without noticing the process of thinking itself." The move is defusion, and "the focus is on mindfully noticing thinking as it occurs." The technique this page is about is listed among the article's examples: clients practice labeling the process of thinking, for example by noting that they are having the thought that they will never be successful, and practice behaving in ways that directly contradict a thought.
 
 > "The goal is greater behavioral flexibility, not an immediate change in their frequency or form." (Hayes et al. 2011, [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3635495/))
 

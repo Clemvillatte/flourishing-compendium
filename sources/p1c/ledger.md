@@ -412,3 +412,17 @@ copied from the opened URL in this session.
   (Peters translation; IX.4 one-mind passage, bad-man passage, and IX.8 own-best-friend
   sentence fetched verbatim). Seed locators NE IX.4/IX.8 both covered. Validated vs
   HEAD (pre-item).
+
+## Milestone QC (item 35) — AF082 + published repairs (2026-10-19)
+
+- AF082 rewritten with three opened sources: Goldstein & Walker 2014 (PMC4286245;
+  body passage re-verified raw this session — the earlier "verbatim" quote had
+  dropped the figure references; now quoted as exact prefix/suffix fragments),
+  Dantzer et al. 2008 (PubMed 18073775, abstract verbatim) and Doan et al. 2015
+  (PMC4355564, verbatim then paraphrased per advisor). Medication claim removed
+  page-wide; Craig 2009 citation replaced with the opened Doan source; priority
+  prescriptions removed; advisor's observation example used.
+- P159: labeling example fully paraphrased (no altered quotation); final period added.
+- A066: source curly apostrophes restored; "evening alone" reframed as a proposed
+  reflection exercise.
+- Milestone 35 approved by advisor after these repairs.

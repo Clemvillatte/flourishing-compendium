@@ -12,16 +12,29 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 82** — Recognise affect's biophysiological interfaces: sleep, pain, and illness are not separate
 
-Sleep deprivation, chronic pain, illness, and medication all directly alter affect. These are not "just" physical; they are affective modulators. When you are sleep-deprived, in pain, or ill, your affect will be worse, and this is not a psychological problem.
+Sleep: the imaging review reports that "one night of sleep deprivation triggers a 60% amplification in reactivity of the amygdala in response to emotionally negative pictures, relative to a normal night of sleep", with reduced mPFC connectivity and "increased coupling with the fight/flight adrenergic-activating brainstem center of the locus coeruleus." The condition studied is a full night of deprivation, not an ordinary bad night.
 
-**Plain words** Sleep deprivation, chronic pain, illness, and medication directly alter affect — they're affective modulators, not "just" physical. Sleep-deprived, in pain, or ill, you are running a different emotional operating system. Fix the substrate before judging the output.
+> "In response to a peripheral infection, innate immune cells produce pro-inflammatory cytokines that act on the brain to cause sickness behaviour. When activation of the peripheral immune system continues unabated, such as during systemic infections, cancer or autoimmune diseases, the ensuing immune signalling to the brain can lead to an exacerbation of sickness and the development of symptoms of depression in vulnerable individuals." (Dantzer et al. 2008, [PubMed](https://pubmed.ncbi.nlm.nih.gov/18073775/))
 
-*For example:* The couple's worst fights map perfectly onto the worst-slept weeks — and the insight that reorganises the household: the 10 p.m. argument is never about the dishes; it's about the sleep debt. Treat the substrate, and the "character problems" thin out.
+Pain: the comorbidity review states that acute pain induces depressed mood, that chronic pain is known to cause depression, and that similar brain regions may be dysregulated in both conditions, including areas involved in emotional and reward processing. The compendium treats sleep, pain and illness as relevant context when reflecting on mood, without assuming that they fully explain it.
+
+**Plain words**
+Three findings, one shape: sleep loss measurably amplifies the amygdala's response to negative pictures; inflammation acting on the brain produces sickness behaviour and can develop into depressive symptoms in vulnerable individuals; pain and depression co-occur with overlapping brain regions. None of this says a body state explains a mood. It says the body's state is part of the context for a mood, not a verdict on it.
+
+*For example:* Suppose a couple notices more arguments after poor sleep. As a modern observation exercise, record sleep and disagreements without assuming that one fully explains the other.
+
+## Sources
+
+- [Goldstein & Walker 2014, The role of sleep in emotional brain function (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4286245/)
+- [Dantzer et al. 2008, From inflammation to sickness and depression (PubMed)](https://pubmed.ncbi.nlm.nih.gov/18073775/)
+- [Doan et al. 2015, Neuroplasticity underlying the comorbidity of pain and depression (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4355564/)
+- [Yoo et al. 2007, The human emotional brain without sleep (PubMed)](https://pubmed.ncbi.nlm.nih.gov/17956744/)
+
 ## Psychology parallels
 
 - **Sleep loss amplifies amygdala reactivity and impairs regulation**, a single night of sleep loss increases amygdala response to negative stimuli by ~60% (Yoo et al., 2007)
-- **Chronic pain alters affect and is associated with depression**, pain and affect share neural circuitry (Craig, 2009)
-- **Illness and medication alter affective baseline**, systemic illness, inflammation, and medication side effects all shift valence and arousal (Dantzer et al., 2008)
+- **Overlapping brain regions may be dysregulated in chronic pain and depression** ([Doan et al., 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC4355564/))
+- **Illness and inflammation are linked to depressive symptoms**, immune signalling to the brain can exacerbate sickness and produce symptoms of depression in vulnerable individuals (Dantzer et al., 2008)
 
 ## Philosophy parallels
 
