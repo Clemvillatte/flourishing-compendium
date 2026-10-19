@@ -21,5 +21,7 @@
    "from": "AgentA",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-19T10:03:45+00:00"
 }
