@@ -12,18 +12,18 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 403** — Practise phenomenological description
 
-The method's watchword comes from Husserl, "to the things themselves" (zu den Sachen selbst), and Heidegger gives it its working definition in Being and Time §7.
+The maxim "To the things themselves" is phenomenology's watchword, and Heidegger gives it a working definition in Being and Time §7.
 
-> Thus "phenomenology" means ἀποϕαίνεσΘαι τὲ ϕαινóμενα — to let that which shows itself be seen from itself in the very way in which it shows itself from itself. This is the formal meaning of that branch of research which calls itself "phenomenology". But here we are expressing nothing else than the maxim formulated above: 'To the things themselves!' (Heidegger, Being and Time §7C, Macquarrie & Robinson trans., [full-text reproduction](https://dhspriory.org/kenny/PhilTexts/Heidegger/BeingTime01.doc))
+> to let that which shows itself be seen from itself in the very way in which it shows itself from itself (Heidegger, Being and Time §7C, Macquarrie & Robinson trans., [full-text reproduction](https://dhspriory.org/kenny/PhilTexts/Heidegger/BeingTime01.doc))
 
-Description in this sense is a discipline: report what shows itself before explaining it. Explanations can be argued with; descriptions can be checked against what actually appeared. That is why the practice asks for description first, interpretation later.
+For Heidegger, what is to be seen is often not what shows itself at first: phenomena lie hidden, get covered up, or show themselves in disguise, which is why phenomenology is needed at all. The meaning of phenomenological description as a method lies in interpretation (§7C).
 
-(Husserl, 1900-1901/2001, Logical Investigations, "Prolegomena"; Heidegger, 1927/2008, Being and Time, §7.)
+(Heidegger, 1927/2008, Being and Time, §7.)
 
 **Plain words**
-When you argue, you build a theory about what happened and why. A description just reports what showed up: what was said, what you felt, what happened next. Theories can be wrong in a hundred ways; a careful description can only be accurate or sloppy. Start with the description, and the theorising has something to answer to.
+Before settling on a cause for what happened, describe the experience you are trying to explain. Include what drew your attention and how the situation appeared to you. Keep your report distinguishable from guesses about its causes.
 
-*For example:* In the argument, one person explains ("you always do this because of your mother") and the other describes ("I noticed I felt warm when the plans changed"). The explanation starts a fight about the past; the description gives both people something checkable to look at.
+*For example:* Imagine an argument after plans change. "I noticed warmth in my face" reports an experience; "you did that because of your mother" proposes a cause. For the exercise, separate the reported experience from the proposed explanation, without assuming either statement is automatically accurate.
 
 ## Sources
 

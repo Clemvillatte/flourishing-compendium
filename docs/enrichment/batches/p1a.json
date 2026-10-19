@@ -15,11 +15,12 @@
   "SO044",
   "P139",
   "D078",
-  "E003"
+  "E003",
+  "E011"
  ],
- "in_progress": "E011",
+ "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
- "sources_checked": 14,
- "updated": "2026-10-19T11:42:40+00:00"
+ "sources_checked": 15,
+ "updated": "2026-10-19T11:45:40+00:00"
 }
