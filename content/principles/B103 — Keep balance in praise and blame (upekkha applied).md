@@ -12,13 +12,15 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 103** — Keep balance in praise and blame (upekkha applied)
 
-Praise inflates and blame crushes only when your worth is outsourced to others' voices. Keep the inner measure steady through both.
+The eight worldly winds (lokadhamma) are the traditional frame for this principle: gain and loss, fame and disrepute, praise and blame, pleasure and pain. The Lokavipatti Sutta describes these as things that "keep spinning after the mind" — they follow every ordinary person, and cannot be avoided, only related to differently ([AN 8.6, Lokavipatti Sutta, Thanissaro Bhikkhu translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/an/an08/an08.006.than.html)).
 
-(Dhammapada 226; AN 8.6.)
+The Buddha's distinction in the same sutta is not that the wise feel nothing; it is that the wise do not organise their minds around the winds. A person who is touched by gain and loss without drinking them in, without obsessing over them, is described as one whose mind is not consumed — the events still happen; the attachment does not ([AN 8.6, Access to Insight](https://www.accesstoinsight.org/tipitaka/an/an08/an08.006.than.html)). This is the functional definition of upekkha applied: not indifference, but a steady inner measure that neither inflates with praise nor collapses with blame.
 
-**Plain words** Praise inflates and blame crushes only when your worth is outsourced to other people's voices. Keep the inner measure steady through both. The opinions are data about the speaker's weather, not readings on your actual altitude.
+> "Gain, loss, status, disgrace, blame, praise, pleasure, and pain: these are the eight worldly winds that keep spinning after the mind." (AN 8.6, Lokavipatti Sutta, paraphrased from Thanissaro Bhikkhu translation, [Access to Insight](https://www.accesstoinsight.org/tipitaka/an/an08/an08.006.than.html))
 
-*For example:* The performer who reads the one-star review and the five-star review with the same face — both fans, both strangers, both weather.
+**Plain words** Praise and blame are both weather reports from someone else's day. They tell you about the conditions at their location, not your actual altitude. The mistake is treating them as instruments — reading the five-star as data about the work and the one-star as data about you, or vice versa. Both are data about the reviewer. Keeping the inner measure steady does not mean not hearing them; it means not using them as the altimeter.
+
+*For example:* Two performers both read their reviews. One reads the one-star review as a wound and the five-star as a verdict, and the mood swings with whichever was read last. The other reads both with the same face — registering the information, not the temperature. Same reviews; one of them has a working week and a stable sense of the work.
 
 ## Practice kernels
 
