@@ -12,13 +12,27 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 53** — Balance alertness and ease
 
-In practice and in work, be neither drowsy nor tense: the ideal state is relaxed alertness: vividly present without gripping.
+The Secret of the Golden Flower names the two mistakes of the sitting: laziness and distraction, to be combated by quiet work carried on daily without interruption (Section 4, trans. Wilhelm/Baynes, [Internet Archive](https://archive.org/stream/TheSecretOfTheGoldenFlowerByRichardWilhelmAndCarlJung/The+Secret+of+the+Golden+Flower+by+Richard+Wilhelm+and+Carl+Jung_djvu.txt)). Laziness shows up as sleepiness in the sitting; distraction as the attention wandering off. The state asked for instead is quiet light:
+
+> "The Light of the eyes must shine quietly, and, for a long time, neither sleepiness nor distraction must set in." (Secret of the Golden Flower, Section 3, trans. Wilhelm/Baynes, [Internet Archive](https://archive.org/stream/TheSecretOfTheGoldenFlowerByRichardWilhelmAndCarlJung/The+Secret+of+the+Golden+Flower+by+Richard+Wilhelm+and+Carl+Jung_djvu.txt))
+
+A separate caution concerns excessive effort. The sitting is set up so that body and heart are comfortable and harmonious, and the effort is not forced:
+
+> "Care must be taken to see that everything can proceed in a comfortable, easy manner. Too much must not be demanded of the heart." (Secret of the Golden Flower, Section 5, trans. Wilhelm/Baynes, [Internet Archive](https://archive.org/stream/TheSecretOfTheGoldenFlowerByRichardWilhelmAndCarlJung/The+Secret+of+the+Golden+Flower+by+Richard+Wilhelm+and+Carl+Jung_djvu.txt))
 
 (Secret of the Golden Flower.)
 
-**Plain words** In practice and in work, be neither drowsy nor tense. The ideal state is relaxed alertness: vividly present without gripping. Tension narrows perception; sleepiness loses the thread. The sweet spot — loose and awake — is a trainable skill.
+### Plain words
 
-*For example:* Good drivers on a long highway: relaxed hands, soft shoulders, eyes moving — alert, not clenched. That's the state.
+A practical reading: stay attentive without making the sitting a contest of effort. Being comfortable still calls for noticing what your attention is doing. If you find that you have lost track, acknowledge the lapse and begin again gently, without demanding an immediate result.
+
+### For example
+
+Imagine following the breath during a sitting and realizing your attention has wandered. Notice the lapse and return to the practice. Treat this as another beginning, not a demand to achieve a special state.
+
+## Sources
+
+- [The Secret of the Golden Flower, trans. Wilhelm/Baynes, full text, Internet Archive](https://archive.org/stream/TheSecretOfTheGoldenFlowerByRichardWilhelmAndCarlJung/The+Secret+of+the+Golden+Flower+by+Richard+Wilhelm+and+Carl+Jung_djvu.txt) — sections 3-5
 
 ## Stories
 
