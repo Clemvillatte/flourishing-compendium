@@ -78,3 +78,23 @@ over w1d from stale Agent D).
   and me/I passages verified verbatim in the opened PDF.
 - Access failures this round: brocku.ca Mead section (Cloudflare); health.mil
   evidence brief (client error; cited from its search snippet, quote from snippet).
+
+## Session 3 (continuation)
+
+- SEP Common Good + Perseus Politics 1253a (Rackham) — The common good
+- SEP Process Philosophy (Seibt) + Open Horizons quoting Process and Reality
+  pp. 21-22 (Category of the Ultimate passage) — The many become one
+- SEP Husserl (Zahavi) — The natural attitude
+- Baumeister & Leary 1995 abstract via NCBI efetch (PMID 7777651) — The
+  need to belong
+- Wikipedia Logotherapy article quoting Frankl 2006 (three ways; last freedom)
+  and Frankl, The Will to Meaning (archive.org registration item) — The
+  search for meaning
+- Ānāpānasati Sutta MN 118 Thanissaro (accesstoinsight.org) + Legge DDJ 64
+  (gutenberg pg216.txt) — The smallest complete practice. LIMITATION: the
+  phrase "journey of a thousand li" is verbatim Legge but the validator bans
+  the phrase "journey of"; paraphrased around the quote, kept "commenced with
+  a single step" verbatim.
+- Mead 1934 PDF (ia601500.us.archive.org) re-opened; development-of-self
+  (MSS section 18) and indirect-experience passages verified verbatim —
+  The social self
