@@ -29,8 +29,8 @@ What the Buddhist instruction describes is a specific act of recognition — nam
 
 ## Psychology parallels
 
-- **[[Cognitive restructuring|Cognitive restructuring in CBT]]**, the evidence-checking procedure from the opened Beck Institute worksheet
-- **[[Cognitive distortions|Common cognitive distortions]]**, per the opened worksheet, identifying a cognitive distortion is an optional step in the procedure
+- **[[Cognitive restructuring|Cognitive restructuring in CBT]]**, the evidence-checking procedure of the thought record (Beck Institute)
+- **[[Cognitive distortions|Common cognitive distortions]]**, identifying a cognitive distortion is an optional step in the thought-record procedure
 
 ## Philosophy parallels
 

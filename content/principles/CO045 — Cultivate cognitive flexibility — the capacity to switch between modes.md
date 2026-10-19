@@ -29,7 +29,7 @@ The Daoist passage is included here as an editorial analogy, not as scientific s
 
 ## Psychology parallels
 
-- **[[Cognitive flexibility|Cognitive flexibility as a core executive function]]**, per the opened Diamond 2013 review; a Miyake et al. 2000 citation is inherited and was not opened by this session
+- **[[Cognitive flexibility|Cognitive flexibility as a core executive function]]** (Diamond, 2013)
 
 ## Philosophy parallels
 
