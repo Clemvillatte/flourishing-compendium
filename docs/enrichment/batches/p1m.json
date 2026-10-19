@@ -24,7 +24,7 @@
   "B095",
   "B102"
  ],
- "in_progress": null,
+ "in_progress": "B115",
  "flagged": {
   "B034": "Research-selection error: B034 is outside p1m and already complete in p1i. No B034 content or source-ledger edits were made; clear mistaken in_progress and continue with manifest B037."
  },
@@ -36,5 +36,5 @@
   }
  ],
  "sources_checked": 63,
- "updated": "2026-10-19T15:13:59+00:00"
+ "updated": "2026-10-19T15:14:18+00:00"
 }
