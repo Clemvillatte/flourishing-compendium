@@ -14,11 +14,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 
 Before acting, check the view: do I see conditionality, impermanence, and the ordinary costs of craving? Action from a wrong view is strong effort in the wrong direction.
 
+The Kaccayanagotta Sutta defines right view by what it is free of, and its test is concrete:
+
+> "But one such as this does not get involved with or cling to these attachments, clingings, fixations of awareness, biases, or obsessions; nor is he resolved on 'my self.' He has no uncertainty or doubt that just stress, when arising, is arising; stress, when passing away, is passing away. In this, his knowledge is independent of others. It's to this extent, Kaccayana, that there is right view." (SN 12.15, [Thanissaro](https://www.accesstoinsight.org/tipitaka/sn/sn12/sn12.015.than.html))
+
+The view to check before acting is exactly this: am I watching stress arise and pass, or am I holding a fixed thing and a fixed me it belongs to? The sutta puts the same check inside its formula for dependent co-arising: from the remainderless fading of ignorance comes the cessation of fabrications — the wrong view is the first link to go.
+
 (SN 12.15; Kaccayanagotta Sutta.)
 
-**Plain words** Before acting, check the view: do you see conditionality, impermanence, and the ordinary costs of craving? Action from a wrong view is strong effort in the wrong direction — the GPS matters more than the horsepower.
+**Plain words**
+The view is the map the effort reads from. The sutta's test: can you watch stress arise and pass without adding a story about "my self" deserving it or being it? If the map says happiness is a destination you buy, every extra hour of overtime just drives you further into the wrong neighborhood.
 
-*For example:* Grinding overtime to afford a house 'to finally be happy' — if the view of happiness is broken, the effort just arrives faster at the wrong address.
+**For example**
+Grinding overtime to afford a house 'to finally be happy' — if the view of happiness is broken, the effort just arrives faster at the wrong address.
+
+## Sources
+
+- [SN 12.15 Kaccayanagotta Sutta, trans. Thanissaro Bhikkhu (Access to Insight)](https://www.accesstoinsight.org/tipitaka/sn/sn12/sn12.015.than.html)
 
 ## Stories
 

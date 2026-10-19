@@ -14,11 +14,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 
 Every state of mind arises from conditions and dissolves when they change. When something disturbs you, look for the conditions: sleep, stimuli, history, company — before looking for someone to blame.
 
+The Kaccayanagotta Sutta locates the mind's habit in a polarity: it takes things as existing or not existing. The move it teaches is to see origination and cessation instead:
+
+> "By & large, Kaccayana, this world is supported by (takes as its object) a polarity, that of existence & non-existence. But when one sees the origination of the world as it actually is with right discernment, 'non-existence' with reference to the world does not occur to one. When one sees the cessation of the world as it actually is with right discernment, 'existence' with reference to the world does not occur to one." (SN 12.15, [Thanissaro](https://www.accesstoinsight.org/tipitaka/sn/sn12/sn12.015.than.html))
+
+States are neither things nor nothings: they are assembled, run while the conditions hold, and come apart when the conditions change. Looking for the conditions is what the principle asks before the blame.
+
 (SN 12; Batchelor's principle of conditionality.)
 
-**Plain words** Every state of mind arises from conditions and dissolves when they change. When something disturbs you, look for the conditions — sleep, stimuli, history, company — before looking for someone to blame. Most villains are actually circumstances wearing a person's clothes.
+**Plain words**
+Notice what a disturbance is made of before deciding who it is. The 9pm fight was built from a skipped dinner, four hours of sleep and a long week; the same person with a full night's rest would not have had it. States are assembled, which means they can be unassembled, and the assembly instructions are the first thing to look for.
 
-*For example:* The fight you had at 9pm after skipping dinner and four hours of sleep — was it really about the dishes, or was it the conditions?
+**For example**
+The fight you had at 9pm after skipping dinner and four hours of sleep — was it really about the dishes, or was it the conditions?
+
+## Sources
+
+- [SN 12.15 Kaccayanagotta Sutta, trans. Thanissaro Bhikkhu (Access to Insight)](https://www.accesstoinsight.org/tipitaka/sn/sn12/sn12.015.than.html)
 
 ## Stories
 
