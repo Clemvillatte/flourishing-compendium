@@ -12,13 +12,21 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 133** — Don't dominate: the world can't be controlled
 
-Whoever takes the world and acts on it, I see will not succeed: the world is a sacred vessel that cannot be forced. Manage less; influence more.
+Laozi's argument runs through a kingdom, and starts with a prediction:
 
-(DDJ 29.)
+> "The kingdom is a spirit-like thing, and cannot be got by active doing. He who would so win it destroys it; he who would hold it in its grasp loses it." (Dao De Jing 29, [Legge's translation](https://www.sacred-texts.com/tao/taote.htm))
 
-**Plain words** Whoever takes the world and acts on it will not succeed — the world is a sacred vessel that cannot be forced. Manage less; influence more. Control is a rental: you pay for it daily, and you never own it.
+The kingdom is the example; the mechanism travels. Whatever runs on another person's will, a family, a team, a friendship, a class, cannot be gripped into going your way, because the grip replaces their own motion with yours, and people under grip spend their energy managing the grip rather than doing the thing. The chapter closes with the sage's budget: "Hence the sage puts away excessive effort, extravagance, and easy indulgence" ([DDJ 29, Legge](https://www.sacred-texts.com/tao/taote.htm)). The modern dual-process evidence from parenting lands on the same line: "parental autonomy support was linked positively with child well-being, r = 0.30, 95% CI [0.26, 0.33], whereas parental psychological control was positively linked with child ill-being, r = 0.26, 95% CI [0.23, 0.28]" ([Bradshaw et al., American Psychologist 2025](https://pubmed.ncbi.nlm.nih.gov/39052356/)), with both patterns holding across regions and cultures. Influence travels through the other person's own will, and the compendium's account of that is [[Autonomy-supportive leadership]].
+
+**Plain words**
+You can hold people or you can move them, and the grip and the motion do not go together. When you push someone into doing what you want, watch what happens to the wanting: it is now yours rather than theirs, and the doing drags. The alternative is to spend your effort where it compounds: say what you see, make the choice easy to make, and leave the choosing theirs. You give up the satisfaction of forcing and keep the thing you were actually after, the result.
 
 *For example:* The parent who tries to control their adult child's choices gets compliance at best — the influence they wanted required letting go.
+
+## Sources
+
+- [Laozi, Dao De Jing 29 (James Legge, 1891), Sacred Texts Archive](https://www.sacred-texts.com/tao/taote.htm) — verbatim quotes
+- [Bradshaw et al., "Disentangling autonomy-supportive and psychologically controlling parenting: A meta-analysis of self-determination theory's dual process model across cultures," American Psychologist 80 (2025) (PubMed)](https://pubmed.ncbi.nlm.nih.gov/39052356/) — dual-process meta-analysis, k = 238
 
 ## Psychology parallels
 
