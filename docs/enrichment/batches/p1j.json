@@ -22,11 +22,12 @@
   "P062",
   "P070",
   "P075",
-  "P101"
+  "P101",
+  "P116"
  ],
- "in_progress": "P116",
+ "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-19T13:36:12+00:00"
+ "updated": "2026-10-19T13:36:25+00:00"
 }

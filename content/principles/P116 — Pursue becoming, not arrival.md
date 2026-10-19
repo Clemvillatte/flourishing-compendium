@@ -12,13 +12,15 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 116** — Pursue becoming, not arrival
 
-Self-actualization is not a summit reached but a direction of becoming: what a person can be, they must keep becoming. Never write your own final chapter.
+Maslow's core argument is that self-actualization is not a summit but a direction. He states it directly: "What a man can be, he must be" — the drive toward becoming what one is capable of is not optional or decorative; it is a need the same way food is a need ([Maslow, A Theory of Human Motivation, 1943, Archive.org](https://archive.org/stream/TheoryOfHumanMotivation/Maslow%20-%20A%20Theory%20of%20Human%20Motivation_djvu.txt)). And he is explicit that this cannot be an arrival: the actualized person is one for whom growth, not maintenance, is the ongoing task ([Toward a Psychology of Being, 1962, Internet Archive](https://archive.org/details/towardapsychology0000masl)).
 
-(Maslow, Toward a Psychology of Being, 1962; Rogers, On Becoming a Person, 1961.)
+Rogers takes the same point and gives it a name that carries the principle in its grammar: On Becoming a Person — not "On Having Become One." His formulation is that the good life is not a fixed state to be reached but a direction, a process ([Rogers 1961, ch. 5, Internet Archive](https://archive.org/details/onbecomingperson00carl)). The tense is the whole claim.
 
-**Plain words** The moment you print the business cards of your finished self, you start defending them instead of growing. Self-actualization is a direction of becoming, not a summit — never write your own final chapter.
+> "The good life is a process, not a state of being. It is a direction, not a destination." (Carl Rogers, On Becoming a Person, 1961, ch. 5, [Internet Archive](https://archive.org/details/onbecomingperson00carl))
 
-*For example:* The artist who declares 'I've found my style' — and the style promptly fossilizes. The ones who keep saying 'I'm onto something' stay onto something. Arrival is a creative death with good PR.
+**Plain words** Two people can be equally skilled and equally successful and still be doing two different things. One is defending a version of themselves they have already decided on; the other is still asking what they are capable of next. The difference is not ambition; it is tense. The moment you stop becoming and start having-become, the thing you are defending is a snapshot. Rogers's title is the instruction: the book is called On Becoming a Person, not On Having Become One.
+
+*For example:* An artist who says "I have found my style" has just drawn the boundary of what they will next try. The artist who says "I am onto something" has not. Same talent, same track record, different tense — and a decade later only one of them is still interesting to themselves.
 
 ## Psychology parallels
 
