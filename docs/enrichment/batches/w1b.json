@@ -1,9 +1,11 @@
 {
  "batch": "w1b",
- "done": [],
- "in_progress": "The observing self",
+ "done": [
+  "The observing self"
+ ],
+ "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-19T07:03:41+00:00"
+ "updated": "2026-10-19T07:14:05+00:00"
 }

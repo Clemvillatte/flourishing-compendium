@@ -1,0 +1,58 @@
+{
+ "batch": "w1b",
+ "done": [
+  "The observing self"
+ ],
+ "flagged": {},
+ "missing_concepts": [],
+ "sources_checked": 10,
+ "inline": [],
+ "reciprocal": [
+  {
+   "target": "content/concepts/Self-as-context.md",
+   "concept": "The observing self",
+   "why": "ACT's self-as-context is the therapeutic operationalisation of Deikman's observer"
+  },
+  {
+   "target": "content/concepts/Self-distancing.md",
+   "concept": "The observing self",
+   "why": "the self-distancing experiments measured the observer perspective's effects"
+  },
+  {
+   "target": "content/concepts/Stream of consciousness.md",
+   "concept": "The observing self",
+   "why": "James's stream is the medium in which the I knows the Me"
+  },
+  {
+   "target": "content/concepts/Metacognition.md",
+   "concept": "The observing self",
+   "why": "noticing one's own thinking is the wider skill the observer vantage rests on"
+  },
+  {
+   "target": "content/concepts/Meta-awareness.md",
+   "concept": "The observing self",
+   "why": "knowing what the mind is doing while it does it is the observer's register"
+  },
+  {
+   "target": "content/concepts/Narrative identity.md",
+   "concept": "The observing self",
+   "why": "the story of self is the content the observing self is contrasted with (P160)"
+  },
+  {
+   "target": "content/concepts/The witness.md",
+   "concept": "The observing self",
+   "why": "the Drig-Drisya-Viveka's Seer, consciousness that never becomes the seen, is the contemplative parallel"
+  },
+  {
+   "target": "content/concepts/Anatta.md",
+   "concept": "The observing self",
+   "why": "the Buddhist doctrine of no permanent soul-substance gives a different answer to the observer's status"
+  },
+  {
+   "target": "content/concepts/The inner citadel.md",
+   "concept": "The observing self",
+   "why": "Hadot's Stoic stronghold that external things cannot penetrate is the Greek-Roman parallel (S064)"
+  }
+ ],
+ "notes": "Advisor QC passed after two rounds (word count fixed to validator limit, lineage claims weakened, ACT framed as related not derivative, James paraphrased per source, three related-concept clauses verified against Britannica / Drig-Drisya-Viveka course text / Hadot commentary). Original citation line 'Deikman, 1963, 1982' retained; the 1963 date could not be confirmed on deikman.com's Experimental Meditation page (not stated there), noted here as a legacy citation caveat. No inline proposals: every plain-text 'observing self' mention found in the corpus was already wikilinked."
+}
