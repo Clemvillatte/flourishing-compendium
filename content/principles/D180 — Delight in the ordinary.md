@@ -12,13 +12,15 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 180** — Delight in the ordinary
 
-The highest joy is found in ordinary life simply lived: plain food, water for thirst, plain clothes for warmth. Ecstasy is cheap; contentment is rare.
+The Daodejing's chapter 80 is often read as nostalgia for a lost village, but its content is psychological rather than political. The people have boats and carriages but no occasion to ride in them; they have buff coats and sharp weapons but no occasion to use them (DDJ 80.2). The scarcity is not deprivation — it is the absence of need. The verse that carries the principle follows directly: they should think their coarse food sweet, their plain clothes beautiful, their poor dwellings places of rest, and their common simple ways sources of enjoyment (DDJ 80.4).
 
-(Zhuangzi 18; DDJ 80.)
+The Zhuangzi takes the same insight and sharpens it into a paradox. True pleasure, he says, consists in inaction — which the world calls great pain. "Perfect happiness is the absence of happiness; perfect renown is the absence of renown" (Zhuangzi 18, Giles translation, [Wikisource](https://en.wikisource.org/wiki/Chuang_Tz%C5%AD_(Giles)/Chapter_18)). The move is not resignation. It is a claim about where contentment is actually located: not in the escalation of intensity but in the removal of the chasing.
 
-**Plain words** The highest joy is found in ordinary life simply lived — plain food, water for thirst, plain clothes for warmth. Ecstasy is cheap; contentment is rare. The chase for peak experiences is how people end up missing the entire baseline.
+> "They should think their (coarse) food sweet; their (plain) clothes beautiful; their (poor) dwellings places of rest; and their common (simple) ways sources of enjoyment." (Daodejing 80.4, James Legge translation, [Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 
-*For example:* The vacationer who pays thousands chasing a sunset view — while the free one from their own balcony was better, and always had been.
+**Plain words** Two people eat the same meal. One is scanning for the next better restaurant before the plates are cleared; the other notices the food is actually good. The second one is not more virtuous — they have simply stopped treating the current moment as a waiting room for a better one. Contentment is not low ambition; it is the absence of the running commentary that keeps downgrading what you already have. Ecstasy is easy to buy and easy to lose. Noticing that the food is sweet is a skill, and it is the rarer one.
+
+*For example:* A traveller spends thousands to reach a famous lookout at sunset, surrounded by crowds, phones up, all recording. The same sunset lands on their own balcony three days later with no one watching, and lands harder. Nothing about the light changed. The balcony had been there the whole time.
 
 ## Psychology parallels
 
