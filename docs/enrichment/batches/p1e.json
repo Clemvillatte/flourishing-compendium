@@ -52,7 +52,8 @@
   "SP084",
   "A025",
   "A045",
-  "A070"
+  "A070",
+  "A080"
  ],
  "in_progress": null,
  "flagged": {
@@ -93,11 +94,12 @@
   "A021": "inherited psychology parallels (Tangney/Dearing, Haidt) and Woodruff reverence parallel not opened; preserved",
   "A025": "inherited MM I.25 locator, Tracy/Robins parallels and NE IX.8 parallel not opened; preserved",
   "A045": "inherited VI.9 locator, Schwartz/Gollwitzer parallels, Peirce/Dewey parallels not opened; preserved",
-  "A070": "inherited Dunn/Deci-Ryan parallels, Mauss and Dana parallels not opened; preserved"
+  "A070": "inherited Dunn/Deci-Ryan parallels, Mauss and Dana parallels not opened; preserved",
+  "A080": "inherited Deci-Ryan/Csikszentmihalyi/Vallerand parallels, Dewey consummatory and Flow parallels not opened; preserved"
  },
  "missing_concepts": [],
  "sources_checked": 25,
- "updated": "2026-10-19T14:42:51+00:00",
+ "updated": "2026-10-19T14:43:23+00:00",
  "band_done": false,
  "takeover": {
   "by": "genuineflourishing35",

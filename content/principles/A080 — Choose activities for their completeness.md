@@ -12,13 +12,27 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 80** — Choose activities for their completeness
 
-The best activities are those that are chosen for their own sake, not for what they produce. Pleasure in such activities is not a separate goal but the completion of the activity itself. Prefer activities that are worth doing for their own sake.
+The principle rests on two claims in Book X. First, a criterion for which activities are worth choosing for themselves:
+
+> "Those activities are desirable in themselves from which nothing is sought beyond the activity. And of this nature virtuous actions are thought to be; for to do noble and good deeds is a thing desirable for its own sake." (NE X.6, [Ross, MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html))
+
+Second, an account of where the pleasure in such activities comes from:
+
+> "Pleasure completes the activity not as the corresponding permanent state does, by its immanence, but as an end which supervenes as the bloom of youth does on those in the flower of their age." (NE X.4, [Ross, MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html))
+
+The bloom image is the whole point: pleasure is not a separate prize delivered after the activity, but the activity arriving at its own completion. This is why the amusements argument cuts both ways. Pleasant pastimes also seek nothing beyond themselves, yet Aristotle ranks them low, for "we are injured rather than benefited by them, since we are led to neglect our bodies and our property" (NE X.6). Completeness alone is not the whole test; the activity must also be worth completing.
+
+Prefer activities that are worth doing for their own sake; the pleasure in them is the completion of the activity itself.
 
 (NE X.3-4.)
 
-**Plain words** The best activities are chosen for their own sake, not for what they produce. The pleasure in them isn't a separate prize. It's the activity finished well. So lean toward things worth doing for themselves.
+**Plain words** Two tests. First, ask what the activity is for: if the answer is something else (money, fitness, an impression), the activity is a means, and its pleasure is borrowed. If there is no answer beyond the doing, it is complete in itself. Second, watch where the pleasure sits: in a complete activity it arrives as the thing rounds off, the way a good meal's satisfaction is the meal finished, not a dessert added after. Aristotle's warning still applies: an activity can be complete and still be a waste, like an amusement that eats the day.
 
 *For example:* Playing the piano badly on Sunday evening, just because you like it, counts. So does a walk with no step-tracker.
+
+## Sources
+
+- [Aristotle, Nicomachean Ethics X, Ross translation (MIT Classics)](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html) — X.4, pleasure completing the activity as the bloom of youth; X.6, activities desirable in themselves and the amusements caveat
 
 ## Stories
 
