@@ -2311,7 +2311,7 @@ function drawIndex() {
   return bag.pop();
 }
 function draw() {
-  if (pool.length === 0) { renderEmpty(); return; }
+  if (pool.length === 0) { current = null; savedMode = false; renderEmpty(); return; }
   const i = drawIndex();
   lastIdx = i;
   showEntry(pool[i][0], pool[i][1]);
@@ -2362,10 +2362,10 @@ function render() {
     pos.toLocaleString() + ' of ' + ofTotal.toLocaleString() + '</span>' +
     '<button class="fav-btn" id="favBtn" type="button" aria-pressed="false">\u2606 Save</button></div>');
   parts.push('</div>');
-  parts.push('<div class="principle-num">' + (entry.w ? resc(entry.w) : 'No. ' + entry.n) + '</div>');
+  parts.push('<div class="principle-num">' + (entry.wiki ? resc(kind) : entry.w ? resc(entry.w) : 'No. ' + entry.n) + '</div>');
   parts.push('<h2 class="principle-title">' + rmd(entry.t) + '</h2>');
-  parts.push('<div class="principle-text' + (entry.wiki ? ' art' : '') + '">' +
-    (entry.wiki ? window.fcWiki.renderMarkdown(window.fcReadingContent(entry.x)) : renderPrincipleBody(entry.x)) + '</div>');
+  parts.push('<div class="principle-text' + (entry.wiki || entry.fresh ? ' art' : '') + '">' +
+    (entry.wiki || entry.fresh ? window.fcWiki.renderMarkdown(window.fcReadingContent(entry.x)) : renderPrincipleBody(entry.x)) + '</div>');
 
   const tabs = [];
   if (entry.p && entry.p.length) tabs.push(['psych', 'Psychology', entry.p, false]);
@@ -2386,7 +2386,9 @@ function render() {
       const hidden = t[0] !== lastTab;
       parts.push('<div class="tab-panel" role="tabpanel" id="panel-' + t[0] + '" aria-labelledby="tab-' +
         t[0] + '"' + (hidden ? ' hidden' : '') + '>');
-      if (t[3]) parts.push(t[2].map(it => '<p class="practice-text">' + rmd(it) + '</p>').join(''));
+      if (entry.fresh) parts.push('<div class="art">' +
+        window.fcWiki.renderMarkdown(t[3] ? t[2].join('\n\n') : t[2].map(it => '- ' + it).join('\n')) + '</div>');
+      else if (t[3]) parts.push(t[2].map(it => '<p class="practice-text">' + rmd(it) + '</p>').join(''));
       else parts.push('<ul>' + t[2].map(it => '<li>' + rmd(it) + '</li>').join('') + '</ul>');
       parts.push('</div>');
     });
@@ -2406,7 +2408,7 @@ function render() {
       '<button class="graph-open-btn" id="openGraphBtn" type="button">Open in Graph →</button>' : '') +
     '</div>');
 
-  if (!entry.wiki && window.fcAuthoredHTML && !/\*\*Plain words/.test(entry.x)) parts.push(window.fcAuthoredHTML(entry.w, entry.x));
+  if (!entry.wiki && window.fcAuthoredHTML && !/^(?:#{1,6}\s+|\*\*)Plain words/im.test(entry.x)) parts.push(window.fcAuthoredHTML(entry.w, entry.x));
   parts.push(window.fcReflectionHTML(entry.w, entry.t, entry.x));
   const inner = $r('cardInner');
   inner.innerHTML = parts.join('');
@@ -2726,8 +2728,8 @@ function init() {
   /* wiki links anywhere in the randomiser view (eyebrow, card text, layers) */
   document.addEventListener('click', ev => {
     if (!document.body.classList.contains('rand-mode')) return;
-    const a = ev.target.closest('a.wlink[data-wiki]');
-    if (a) { ev.preventDefault(); window.fcWiki.open(a.dataset.wiki); }
+    const a = ev.target.closest('a.wlink[data-wiki], a.wl[data-file]');
+    if (a) { ev.preventDefault(); window.fcWiki.open(a.dataset.wiki || a.dataset.file); }
   });
 
   const dlg = $r('searchDialog');
@@ -2750,6 +2752,11 @@ function init() {
   document.addEventListener('keydown', ev => {
     if (!document.body.classList.contains('rand-mode')) return;
     const t = ev.target;
+    if (ev.key === 'Enter' && t.matches('a.wl[data-file]')) {
+      ev.preventDefault();
+      window.fcWiki.open(t.dataset.file);
+      return;
+    }
     const typing = t && (t.tagName === 'INPUT' || t.tagName === 'SELECT' || t.tagName === 'TEXTAREA' || t.isContentEditable || t.closest('#categorySelect'));
     if (typing) return;
     if ($r('searchDialog').open) {

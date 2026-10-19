@@ -12,6 +12,21 @@
          ((entry._navigation || {}).primaryPath || []).includes('NAV-SHARED-THEORY'))) return 'theory';
     return entry.type;
   }
+  function currentText(entry) {
+    if (!entry || !entry.content || !entry.content.trim()) return null;
+    const chunks = entry.content.split(/^##[ \t]+(.+?)[ \t]*\r?$/m);
+    const out = { x: chunks[0].trim(), p: [], f: [], r: [], fresh: true, t: entry.title };
+    const sections = { 'psychology parallels': 'p', 'philosophy parallels': 'f', practice: 'r' };
+    for (let i = 1; i < chunks.length; i += 2) {
+      const key = sections[chunks[i].toLowerCase()];
+      if (key) {
+        out[key] = chunks[i + 1].trim().split(/\n(?=- )|\n\s*\n/).map(s => s.replace(/^- /, '').trim()).filter(Boolean);
+      } else {
+        out.x += '\n\n## ' + chunks[i] + '\n\n' + chunks[i + 1].trim();
+      }
+    }
+    return out;
+  }
   function create(sourceBooks, wiki) {
     const byTarget = new Map();
     wiki.forEach(e => { byTarget.set(e.id, e); if (e.file) byTarget.set(e.file, e); });
@@ -24,7 +39,10 @@
     };
     books.forEach((b, bi) => b.e.forEach(e => {
       if (e.w) add(e.w, bi);
-      e.kind = kindOf(byTarget.get(e.w) || {}) || (/Kernels/.test(b.bookFile) ? 'kernel' : 'principle');
+      const current = byTarget.get(e.w);
+      const text = currentText(current);
+      if (text) Object.assign(e, text);
+      e.kind = kindOf(current || {}) || (/Kernels/.test(b.bookFile) ? 'kernel' : 'principle');
       e.categories = new Set([bi]);
     }));
     const links = e => [...(e.content || '').matchAll(/\[\[([^\]|]+)(?:\|[^\]]*)?\]\]/g)]
@@ -66,5 +84,5 @@
     if (selected.size !== totalCategories && ![...entry.categories].some(c => selected.has(c))) return false;
     return !layer || entry.c === layer;
   }
-  return { create, kindOf, matches, EXTRA_TYPES, LABELS };
+  return { create, kindOf, currentText, matches, EXTRA_TYPES, LABELS };
 });

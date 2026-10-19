@@ -22,6 +22,9 @@ graph, saved entries and history. No content rewrites or research claims added.
 - Mobile Filters button; 375px width; same page desktop → mobile → desktop; no overflow.
 - Themes: inspect new controls in light and dark; desktop short-height dropdown remains
   usable through its own scroll region.
+- Current source text: principle/kernel cards use current wiki markdown, not the stale
+  data-src randomizer prose; companion tabs remain intact and embedded Plain words is not
+  duplicated by the older authored fallback.
 
 ## Verification record
 

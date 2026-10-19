@@ -54,6 +54,19 @@ test('layer filter remains an additional intersection', () => {
 test('source book entries remain unmodified', () => {
   assert.equal(books[0].e[0].categories, undefined);
 });
+test('current markdown replaces stale bundled prose without dropping companion sections', () => {
+  const source = { title: 'Current title', content: 'Current body.\n\n### Plain words\nA distinct explanation.\n\n## Sources\n\n- [Text](https://example.com)\n\n## Psychology parallels\n\n- **[[A|Related A]]**: supported relation.\n- Second item.\n\n## Philosophy parallels\n\n- [[B]]\n\n## Practice\n\nTry this question.\n\nA second suggestion.' };
+  const current = model.currentText(source);
+  assert.equal(current.t, 'Current title');
+  assert.match(current.x, /Current body/);
+  assert.match(current.x, /### Plain words/);
+  assert.match(current.x, /## Sources/);
+  assert.equal(current.x.includes('## Psychology parallels'), false);
+  assert.deepEqual(current.p, ['**[[A|Related A]]**: supported relation.', 'Second item.']);
+  assert.deepEqual(current.f, ['[[B]]']);
+  assert.deepEqual(current.r, ['Try this question.', 'A second suggestion.']);
+  assert.equal(model.currentText({ content: '' }), null);
+});
 test('production source data preserves default total and has unique extra identities', () => {
   const root = path.resolve(__dirname, '../..');
   const read = name => JSON.parse(fs.readFileSync(path.join(root, 'data-src', name), 'utf8'));
