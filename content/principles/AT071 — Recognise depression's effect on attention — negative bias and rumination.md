@@ -14,9 +14,22 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AT — Attentio
 
 Depression biases attention toward negative self-referential information and away from positive. It also impairs concentration and increases rumination (attention caught in repetitive negative thinking). This is a symptom, not a choice.
 
-**Plain words** Depression dims the beam and aims it at everything wrong with you — rumination is attention stuck in a negative loop. It feels like honest self-assessment; it's the illness doing the assessing. When the mood lifts, the "truths" lift with it.
+### What rumination is
 
-*For example:* The depressed person who "sees themselves clearly" as a failure — then treatment works, and the clarity turns out to have been the symptom. The evidence didn't change. The filter did.
+The clinical definition, via Nolen-Hoeksema's response styles theory: "a way of responding to depressed mood that is characterized by repetitively and passively focusing on the symptoms of depression, and their possible causes and consequences" ([Ehring 2021, World Psychiatry](https://pmc.ncbi.nlm.nih.gov/articles/PMC8429319/)). Attention here is not merely sad; it is stuck, going over the same ground.
+
+### What it does
+
+The review evidence is a list of costs: "rumination exacerbates depression, enhances negative thinking, impairs problem solving, interferes with instrumental behavior, and erodes social support" ([Nolen-Hoeksema, Wisco & Lyubomirsky 2008](https://www.psychologicalscience.org/journals/perspectives/j.1745-6924.2008.00088.x/)). Each pass around the loop deepens the groove it runs in.
+
+**Plain words** Depression dims the beam and aims it at everything wrong with you: rumination is attention stuck in a negative loop. It feels like honest self-assessment; it is the illness doing the assessing. When the mood lifts, the "truths" lift with it.
+
+*For example:* The depressed person who "sees themselves clearly" as a failure, then finds that treatment works and the clarity was the symptom. The evidence did not change. The filter did.
+
+## Sources
+
+- [Thomas Ehring, "Thinking too much: rumination and psychopathology", World Psychiatry 20(3), 2021 (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8429319/) — the Nolen-Hoeksema definition of rumination
+- [Nolen-Hoeksema, Wisco & Lyubomirsky, "Rethinking Rumination", Perspectives on Psychological Science 3(5), 2008 (APS abstract)](https://www.psychologicalscience.org/journals/perspectives/j.1745-6924.2008.00088.x/) — rumination's documented costs
 ## Psychology parallels
 
 - **Depression and attentional bias**, depression biases attention toward negative and away from positive information (Disner et al., 2011; Joormann et al., 2007)
