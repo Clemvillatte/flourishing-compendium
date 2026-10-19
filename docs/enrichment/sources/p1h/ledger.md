@@ -60,3 +60,13 @@ staged by the save script).
 - Push outage: the git-agent-proxy token became invalid mid-session (diagnostic recorded); repair commits are local until auth returns; a recovery patch is shared as an interim deliverable.
 
 - Milestone QC outcome (round 4): substantive content approval GRANTED for all five bodies; no further rewrite. Completion remains blocked on publication (git auth outage) and was closed only after the round-4 clerical corrections above.
+
+## D046 — Practice fasting of the mind (xinzhai) (done 2026-10-19; no advisor QC per speed directive, item 6 of session)
+
+- Opened: same ETH Legge Zhuangzi PDF as D056 (no new source; the Yan Hui dialogue extracted in this session, PDF p. 18, Book IV section 2; rendered page image inspected for the two ambiguous renderings).
+- Verified verbatim: "All this only shows (in you) the mind of a teacher!"; "For months together we have no spirituous drink, nor do we taste the proscribed food or any strong-smelling vegetables"; "It is the fasting appropriate to sacrificing, but it is not the fasting of the mind."; the core passage "You will not wait for the hearing of your ears about it, but for the hearing of your mind. You will not wait even for the hearing of your mind, but for the hearing of the spirit. ... such freedom is the fasting of the mind."; "Look at that aperture (left in the wall); the empty apartment is filled with light through it."
+- Quote-fidelity notes: (a) the printed PDF splits "pre-occupation" across a line break with a hyphen (verified on the rendered page image, PDF p. 18); the quote joins it as one word, which is the correct rendering of the hyphenated word, and the extraction also contains the joined form later in the passage. (b) One draft mismatch ("the hearing of the mind" for "the hearing of your mind") was caught by the contiguous-substring check and fixed before the done push.
+- The principle statement's "qi" is noted in the body as Legge's "spirit" (translation note, not an interpretive claim).
+- Inherited, NOT opened/verified: psychology-parallels claims (Specular system Ryall et al. 2013; ESM Killingsworth & Gilbert 2010; Danner et al. 2010; Ben-Zur et al. 2004) — preserved per protocol, flagged for supervisor.
+- Saturation: Fasting (xinzhai), Pure knowing, Xin, Emotional attention, Penetration all already cite D046 (mention scan + prior band reads). No justified new proposals.
+- Validator on final: ok; protected fields untouched vs HEAD; exact-quotation check all OK.
