@@ -12,13 +12,19 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 74** — Don't fight angry
 
-A moment's rage can undo a decade of building. If you feel hot, the fight is already lost: cool down first, always.
+A moment's rage can undo a decade of building. Chapter 68 of the Daodejing describes the best fighter by what he lacks: no martial display, no resort to rage.
 
-(DDJ 68.)
+> "He who in (Tao's) wars has skill
+> Assumes no martial port;
+> He who fights with most good will
+> To rage makes no resort."
+> (DDJ 68, [Legge's translation](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
-**Plain words** If you feel hot, the fight is already lost — cool down first, always. Anger feels like power but functions as a leak: everything you've stored pours out through it.
+The verse runs down the whole ladder of contention: the victor keeps apart from those he has beaten, the most effective leader stays humble. Laozi is not counselling pacifism; the chapter is about how to contend well, and by that measure rage is bad technique. A hot fighter commits before he has assessed, and the fury soon becomes the thing defended. Cool down first. (DDJ 68.)
 
-*For example:* The text sent in ten seconds of fury, apologized for over ten months — everyone has one of these.
+**Plain words** Rage makes the fight about itself. Once you are hot, you stop solving the problem that started the exchange and start defending your anger, which is a worse position than the one you began with. The practice is mechanical rather than mystical: notice the heat, put the response on hold, come back when you can name the outcome you want. What you say cool, you can stand behind later.
+
+*For example:* The message written in ten seconds of fury and apologised for over ten months. If you feel hot while typing it, it is a draft, not a send.
 
 ## Stories
 
