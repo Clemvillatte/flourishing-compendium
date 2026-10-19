@@ -1,15 +1,19 @@
 {
  "baton": "w1e",
  "agent": "Agent E (Computer)",
- "clocked_in": "2026-10-19T08:02:28+00:00",
+ "clocked_in": "2026-10-19T08:05:12+00:00",
  "takeovers": [
   {
    "by": "Agent E (Computer)",
    "at": "2026-10-19T07:59:30+00:00",
    "from": null,
    "reason": "free"
+  },
+  {
+   "by": "Agent E (Computer)",
+   "at": "2026-10-19T08:05:12+00:00",
+   "from": "Agent E (Computer)",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-19T08:02:35+00:00"
+ ]
 }
