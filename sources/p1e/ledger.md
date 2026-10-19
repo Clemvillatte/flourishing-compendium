@@ -189,3 +189,12 @@ Advisor QC (2026-10-19): quotes verified (BQ1 ch. 22 sentence, BQ2 ch. 68 verse 
 - P015 REPAIRED: locator CORRECTED — the TOC of the Standard Ebooks edition shows "The Good of Activity" is Part IV (Conclusion), section I, not Part III; body, quote and Sources corrected to HNC IV.I. The ceilings-on-money/compounding-learning/"only asset" claims replaced with the learning question. Validator ok, prose 194.
 - Process note for future items: run milestone QC BEFORE marking done (items 25, 30, ...).
 - All five: preservation checks passed (front matter, reflections, principle statement, wikilink multiplicities).
+
+## P115 — Welcome peak experiences: don't chase them (done; no advisor QC per speed directive, item 21)
+
+- Opened: Wikipedia's Religions, Values, and Peak Experiences article (https://en.wikipedia.org/wiki/Religions,_Values,_and_Peak_Experiences) — NEW SOURCE (Wikipedia); source count incremented. Verified verbatim: "felt as a self-validating, self-justifying moment which carries its own intrinsic value with it." (Wikipedia's quotation of Maslow 1964.)
+- The body explicitly labels the don't-chase demand-warning as the compendium's reading, not Maslow's sentence; the Maslow quote itself carries only the intrinsic-value claim.
+- P115 was on the plain-words replicate list; replicate Plain words replaced.
+- Inherited, NOT opened: Yaden et al. 2017, Stellar et al. 2018 claims; the Toward a Psychology of Being 1962 locator — flagged in the band state file.
+- Saturation: Awe, Peak experiences, The will to believe all cite P115; no justified new proposals.
+- Validator: ok after dash-budget fix; prose 195 words; protected fields untouched.
