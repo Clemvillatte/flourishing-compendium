@@ -25,7 +25,7 @@ Verse 223 generalizes the move: "Overcome the angry by non-anger; overcome the w
 (Thích Nhất Hạnh; Dhammapada 133-134, 223.)
 
 **Plain words**
-When you speak with a sting, the listener answers the sting and the point gets lost in the reply. Say the same thing without it, and the listener meets the information instead of your mood. That is the whole craft: the same truth, delivered so it can be heard.
+When you speak with a sting, the listener answers the sting and the point gets lost in the reply. Say the same thing without it, and the listener can meet the information instead of your mood. That is the whole craft: the same truth, delivered so it can be heard.
 
 **For example**
 'Your code has a bug' versus 'want to look at something odd I found?' — same information, one of them gets a better codebase.

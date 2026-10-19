@@ -23,7 +23,7 @@ States are neither things nor nothings: they are assembled, run while the condit
 (SN 12; Batchelor's principle of conditionality.)
 
 **Plain words**
-Notice what a disturbance is made of before deciding who it is. The 9pm fight was built from a skipped dinner, four hours of sleep and a long week; the same person with a full night's rest would not have had it. States are assembled, which means they can be unassembled, and the assembly instructions are the first thing to look for.
+Notice what a disturbance is made of before deciding who it is. The 9pm fight's parts list included a skipped dinner, four hours of sleep and a long week. States are assembled from conditions, and the assembly is the first thing to look for when one needs to come apart.
 
 **For example**
 The fight you had at 9pm after skipping dinner and four hours of sleep — was it really about the dishes, or was it the conditions?

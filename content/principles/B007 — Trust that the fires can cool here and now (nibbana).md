@@ -25,10 +25,10 @@ The sutta runs its tasks on the truths directly: the cessation is "to be directl
 (SN 56.11, third task: see reactivity stop.)
 
 **Plain words**
-The sutta reports a moment when the release was "unprovoked": nothing was agitating it. The everyday version is testable: catch a craving mid-meal and watch what happens when you stop handing it food. The heat is fed, and feeding is an activity, which means it has an off switch.
+The sutta's third task is to test the cessation directly, and its report of the attainment is dated inside a life. The everyday illustration is smaller than the attainment: catching a craving mid-meal and letting it pass is a rehearsal of the relinquishment the third truth names. The full cooling it describes is remainderless; the rehearsal is where a person starts.
 
 **For example**
-The moment in an argument when you genuinely stop needing to win — the heat drops, and it's instant. That's the cooling.
+The moment in an argument when you genuinely stop needing to win — the heat drops. A small instance of the letting-go the sutta names.
 
 ## Sources
 

@@ -25,7 +25,7 @@ The trained and untrained person get the same eight; the difference is the respo
 (AN 8.6; Lokavipatti Sutta.)
 
 **Plain words**
-The winds pair off: every gain arrives with a loss waiting somewhere behind it, every round of praise with a blame. You get all eight whether or not you planned for them. The trained response is to name which wind is blowing while it blows — "this is gain, and it is subject to change" — because the naming is what keeps you from being the flag.
+The eight come as four pairs, each gain listed beside its loss: they arrive in the same weather system. The trained move in the sutta is the reflection, run on the wind while it blows: 'gain has arisen for me; it is inconstant, stressful, and subject to change.'
 
 **For example**
 The same month brings the promotion and the diagnosis — the winds were never negotiating with your plans.

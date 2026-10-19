@@ -18,12 +18,12 @@ The Kaccayanagotta Sutta defines right view by what it is free of, and its test 
 
 > "But one such as this does not get involved with or cling to these attachments, clingings, fixations of awareness, biases, or obsessions; nor is he resolved on 'my self.' He has no uncertainty or doubt that just stress, when arising, is arising; stress, when passing away, is passing away. In this, his knowledge is independent of others. It's to this extent, Kaccayana, that there is right view." (SN 12.15, [Thanissaro](https://www.accesstoinsight.org/tipitaka/sn/sn12/sn12.015.than.html))
 
-The view to check before acting is exactly this: am I watching stress arise and pass, or am I holding a fixed thing and a fixed me it belongs to? The sutta puts the same check inside its formula for dependent co-arising: from the remainderless fading of ignorance comes the cessation of fabrications — the wrong view is the first link to go.
+The view to check before acting is exactly this: am I watching stress arise and pass, or am I holding a fixed thing and a fixed me it belongs to? The sutta then runs the same seeing into its formula for dependent co-arising: "Now from the remainderless fading & cessation of that very ignorance comes the cessation of fabrications."
 
 (SN 12.15; Kaccayanagotta Sutta.)
 
 **Plain words**
-The view is the map the effort reads from. The sutta's test: can you watch stress arise and pass without adding a story about "my self" deserving it or being it? If the map says happiness is a destination you buy, every extra hour of overtime just drives you further into the wrong neighborhood.
+Ask of any plan: what does it assume about where happiness comes from? If the assumption is that a purchase ends the seeking, the plan can deliver the purchase and keep the seeking. The sutta's check is whether stress is being watched arising and passing without a "me" fastened to it, and it runs before the effort does.
 
 **For example**
 Grinding overtime to afford a house 'to finally be happy' — if the view of happiness is broken, the effort just arrives faster at the wrong address.
