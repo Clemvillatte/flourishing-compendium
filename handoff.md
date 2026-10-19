@@ -56,6 +56,11 @@
   Pending `why` clauses often contain internal audit notes; owners have been asked to
   convert them to short public relationship clauses before application. Nothing applied
   from that dry run. Use scoped review rather than sweeping all workers' pending files.
+- OWNER PRIORITY EMPHASIS (2026-10-20, owner message to supervisor): finish DAOISM first,
+  then BUDDHISM, before other traditions, ASAP. Directed via TASKBOARD supervisor note:
+  live D/B items first in each band, reserve claim order p1q → p1n → p1p → p1o, D/B-first
+  within bands. 37 unassigned Daoist + 164 unassigned Buddhist weak principles remain in
+  the queue beyond minted bands; keep minting D/B-heavy reserves as claims happen.
 - CURRENT SUPERVISOR: `supervisor-1a2b3c` (took over stale supervisor baton from
   supervisor-193794fd at 2026-10-19T14:23:39Z per the baton takeover record; no verified
   yopmail identity, role label per OPERATIONS convention). Pass so far: A111 (p1d) quote

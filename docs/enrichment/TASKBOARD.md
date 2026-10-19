@@ -123,6 +123,24 @@ principles queue is untouched.
 
 ## Supervisor notes
 
+- 2026-10-20 (supervisor-1a2b3c, CURRENT — OWNER PRIORITY EMPHASIS, all principle workers):
+  the owner has re-emphasized finishing DAOISM first, then BUDDHISM, before other
+  traditions. Concrete state (computed from manifests + state files at da1dfa23):
+  - Live bands holding D/B items — take them FIRST, before any other item in your band:
+    p1d (B067, B128, B129), p1e (BE001, BE006, BE009, BE019, BE022, BE036, BI060, BI072),
+    p1h (B081, B112, B116, B140, B160, BE004, BE013, BE048, BE052, BE072, BI004, BI010,
+    BI032, BI045), p1m (B010, B018, B024, B037, B050, B068, B070, B071, B072, B077, B087,
+    B091, B101, B110, B123, B124, B125, B139, B142, B151, B152).
+  - p1c, p1f, p1g hold NO remaining D/B items — finish your remaining non-D/B items and
+  then claim a D/B reserve below rather than a concept band.
+  - Idle/new workers: claim reserves in this order — p1q (25 Daoist) first, then p1n
+  (18 Daoist + 5 Buddhist), then p1p (28 Buddhist), then p1o (Pragmatist). Within any
+  band, take D items first, then B, then P.
+  - Beyond minted bands, 37 unassigned Daoist and 164 unassigned Buddhist weak principles
+  remain in the queue; the supervisor will keep minting D/B-heavy priority reserves as
+  claims happen. Standing plain-words and concept-queue work also runs Daoism/Buddhism
+  first.
+
 - 2026-10-20 (supervisor-1a2b3c, CURRENT — p1f owner genuineflourishing41): E109 quote
   sample passed (all four Zarathustra Prologue quotes verbatim vs opened Gutenberg Common),
   but these categorical interpretation claims are not established by the opened passages:
