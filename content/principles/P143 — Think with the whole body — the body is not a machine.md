@@ -20,19 +20,19 @@ The first chapter's summary of the body's role:
 
 > "My body, an object destined to move other objects, is, then, a center of action; it cannot give birth to a representation." (Bergson, Matter and Memory, ch. I)
 
-The Bergson passages establish a centre of action: the body receives impressions and returns movements, and on his account perception and memory are turned toward action. The [[The lived body|lived body]] tradition the page cites (Merleau-Ponty) develops its own account of bodily subjectivity, which this page does not quote; that connection is inherited from the page's citation line, not verified here.
+Bergson places the body between surrounding things that influence it and the movements through which it acts on them. How does this action-centred account compare with the [[The lived body|lived body]]?
 
 (Bergson, Matter and Memory, 1896; Merleau-Ponty — adjacent to the lineage.)
 
 **Plain words**
-Bergson's picture puts the body between the matter that influences it and the matter it acts on: a center of action rather than a representation-maker. On that account, the body's states belong to acting rather than standing in front of it.
+Bergson's picture puts the body between the matter that influences it and the matter it acts on: a center of action rather than a representation-maker. Imagine hearing a sound and turning towards it. Bergson places the body at the point where an incoming impression becomes an action.
 
 **For example**
 Compare walking while planning with attending to the walking. What, if anything, changes?
 
 ## Sources
 
-- [Henri Bergson, Matter and Memory (1911 English translation; PDF)](https://attachments.are.na/9493755/6d939210934bd84047a3b1f0efcf15ce.pdf?1605280154) — ch. 1 and ch. 3 (both blockquotes); Brock University's online edition is the same translation but is robots-blocked to automated fetching
+- [Henri Bergson, Matter and Memory (1911 English translation; PDF)](https://attachments.are.na/9493755/6d939210934bd84047a3b1f0efcf15ce.pdf?1605280154) — ch. I and ch. III (both blockquotes)
 
 ## Psychology parallels
 

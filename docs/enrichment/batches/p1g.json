@@ -20,14 +20,14 @@
  "in_progress": null,
  "flagged": {
   "D086": "Reopened for QC: QC round 2 fixes applied, acceptance pending (genuineflourishing34); inherited psychology-parallels claim (Kernis and Goldman 2006) not re-verified, recorded as inherited",
-  "BI009": "milestone QC round 4b corrections applied; re-review pending. round-4b plain-words fix (definition form, no temporal-sequence claim); quotes now carry §1. Background / §4. Discussion locators from the opened PDF",
-  "P055": "milestone QC round 4b corrections applied; re-review pending. round-4b fix (prescriptive 'can only be watched' removed; open reading exercise); validator ok vs pre-item baseline",
-  "P143": "milestone QC round 4b corrections applied; re-review pending. round-4b fix (pilot-rejection and machine contrast removed; Merleau-Ponty connection flagged as inherited, not verified; example now open comparison); quotes now carry ch. I / ch. III locators",
-  "P027": "milestone QC round 4b corrections applied; re-review pending. round-4b fixes (Frankfurt attribution, CP 5.172 standalone with editorial marker, parcel example); validated vs correct pre-item baseline ff28e00; record name fixed, resolver ok",
-  "P157": "milestone QC round 4b corrections applied; re-review pending. round-4b fixes (mechanism removed, prerequisite question, hypothetical phone-call example); quote locators added (Psychological flexibility / Experiential avoidance-acceptance sections)"
+  "BI009": "milestone QC ACCEPTED (advisor round 4c). Inherited parallels citations remain unverified by me (recorded in the item ledgers).",
+  "P055": "milestone QC ACCEPTED (advisor round 4c). Inherited parallels citations remain unverified by me (recorded in the item ledgers).",
+  "P143": "milestone QC ACCEPTED (advisor round 4c). Inherited parallels citations remain unverified by me (recorded in the item ledgers).",
+  "P027": "milestone QC ACCEPTED (advisor round 4c). Inherited parallels citations remain unverified by me (recorded in the item ledgers).",
+  "P157": "milestone QC ACCEPTED (advisor round 4c). Inherited parallels citations remain unverified by me (recorded in the item ledgers)."
  },
  "missing_concepts": [],
  "sources_checked": 9,
- "updated": "2026-10-19T12:47:53+00:00",
+ "updated": "2026-10-19T12:50:13+00:00",
  "band_done": false
 }

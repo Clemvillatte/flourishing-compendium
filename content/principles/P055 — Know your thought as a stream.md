@@ -28,7 +28,7 @@ Read a sentence slowly. Notice what happens to your experience of the earlier wo
 
 ## Sources
 
-- [William James, The Principles of Psychology, vol. 1 (1890; full text, archive.org)](https://archive.org/stream/theprinciplesofp01jameuoft/theprinciplesofp01jameuoft_djvu.txt) — ch. IX (blockquotes: the stream passage and the five characters)
+- [William James, The Principles of Psychology, vol. 1 (1890; full text, archive.org)](https://archive.org/stream/theprinciplesofp01jameuoft/theprinciplesofp01jameuoft_djvu.txt) — ch. IX: stream passage (blockquote) and five-character list (paraphrased in prose)
 
 ## Stories
 
