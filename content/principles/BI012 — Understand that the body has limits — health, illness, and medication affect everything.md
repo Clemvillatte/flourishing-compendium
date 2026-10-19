@@ -12,34 +12,45 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BI — Biophysi
 ---
 > **Principle 12** — Understand that the body has limits: health, illness, and medication affect everything
 
-The body is the machinery that mood, motivation and judgement run on. Epictetus opens the Enchiridion with a sorting exercise: what you control, and what you do not. The body lands in the second column:
+Before treating a difficult day as a failure of character, leave room for a bodily explanation. That is this compendium's practical proposal, not a diagnosis. Epictetus offers a distinction about control:
 
 > "Things not in our control are body, property, reputation, command, and, in one word, whatever are not our own actions." (Epictetus, Enchiridion 1, [Carter's translation](https://classics.mit.edu/Epictetus/epicench.html))
 
-That placement does the principle's work: reading a bodily mood as a moral failure means blaming yourself for something that was never in your column. The principle's list of what moves a mood — illness, pain, medication changes, hormonal shifts, ageing — is its own directive; the evidence here covers one item on the list: a meta-analysis of 25 studies covering 348,014 people found hypothyroidism associated with clinical depression at an odds ratio of 1.30, strongest for overt disease ([Bode et al., JAMA Psychiatry 2021](https://pubmed.ncbi.nlm.nih.gov/34524390/)). The compendium develops the body's limits over time in [[The seasons of illness]] and [[The seasons of the body]].
+He does not offer a theory of bodily mood. Applying his distinction to self-blame about illness is a modern interpretation.
 
-**Plain words**
-Your mood has a body. When it drops, the search usually starts in your biography: what did I do wrong, what should I fix about my life? Run it the other way too: how did you sleep, is an illness coming on, did a medication change, where is the hormonal cycle, what decade are you in? None of these settles the question by itself; together they are the first place to look before you indict your character.
+### What the evidence supports
 
-*For example:* The "motivation problem" that tracked exactly with the thyroid levels — the willpower was fine; the metabolism wasn't.
+A meta-analysis of 25 studies, with 348,014 participants, found hypothyroidism associated with clinical depression: odds ratio 1.30 (95% CI 1.08–1.57). The authors call the association modest and possibly restricted to overt disease and women; the sex analysis was post hoc. This is an association, not an explanation of any individual's symptoms ([Bode et al., 2021](https://pubmed.ncbi.nlm.nih.gov/34524390/)).
+
+The NHS lists fatigue, difficulty concentrating and low mood among possible symptoms of hypothyroidism, while warning that other conditions can cause them too. Its advice is to seek assessment, not diagnose yourself ([NHS](https://www.nhs.uk/conditions/underactive-thyroid-hypothyroidism/)).
+
+### Plain words
+
+If a friend said, "I'm exhausted; I must be lazy," would you accept the verdict without asking anything else? Offer yourself the same pause. A character judgement and a medical explanation are different kinds of claim; neither is settled by how bad the day feels.
+
+### For example
+
+Imagine noting persistent tiredness and low mood before a clinician's appointment. The notes describe what needs investigating; they do not name its cause.
+
+### Related ideas
+
+- [[The seasons of illness]] and [[The seasons of the body]]: related compendium entries, not medical evidence.
 
 ## Sources
 
 - [Epictetus, Enchiridion 1 (Elizabeth Carter's translation), Internet Classics Archive](https://classics.mit.edu/Epictetus/epicench.html) — verbatim quote
 - [Bode et al., "Association of Hypothyroidism and Clinical Depression," JAMA Psychiatry 2021 (PubMed)](https://pubmed.ncbi.nlm.nih.gov/34524390/) — meta-analysis of 25 studies, 348,014 participants
+- [NHS, "Underactive thyroid (hypothyroidism)"](https://www.nhs.uk/conditions/underactive-thyroid-hypothyroidism/) — symptoms overlap with other conditions; assessment advice
 
 ## Psychology parallels
 
-- **Chronic illness and depression**, chronic physical illness is associated with higher rates of depression (Barnett et al., 2012; Naylor et al., 2012)
-- **Medication side effects on mood**, many medications affect mood and cognition (Preston et al., 2017; Haddad & Anderson, 2002)
-- **Hormonal effects on mood**, thyroid, menstrual cycle, and menopause affect mood (Schmidt et al., 2015; Sundström-Poromaa, 2018)
+- **Thyroid function and depression**: Bode et al. (2021) report a modest association; this does not establish the cause of a person's low mood.
 
 ## Philosophy parallels
 
-- **Know thy limits** (Delphic maxim)
-- **[[Acceptance|Acceptance of the body]]** (Stoics, Epictetus)
-- **[[The seasons of life|The seasons of life]]** (Ecclesiastes)
+- **[[Acceptance|Acceptance of the body]]**: compare Epictetus's distinction about control.
+- **[[The seasons of life|The seasons of life]]**: a related compendium theme, not a source for medical claims.
 
 ## Practice
 
-- When you notice a mood or cognitive change, check the body: illness, pain, medication changes, hormonal shifts, ageing. Address the physiological substrate before treating the mood as purely psychological.
+- If symptoms make you suspect a thyroid problem, discuss them with a clinician; the NHS recommends assessment because symptoms can have other causes. No medical-first or psychological-first rule follows from the evidence above.
