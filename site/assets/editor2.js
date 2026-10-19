@@ -1104,7 +1104,7 @@
     var g = gh();
     var ov = modalOverlay();
     ov.innerHTML =
-      '<div class="fce-shell narrow" style="width:min(560px,96vw);height:auto">' +
+      '<div class="fce-shell narrow fce-connect-shell" style="width:min(560px,96vw);height:auto">' +
       '<div class="fce-head"><div class="fce-title">Connect ' + escHtml(entry.title) + '</div>' +
       '<div class="fce-sub">Pick entries one after another — the dialog stays open. Links appear in the graph immediately.</div>' +
       '<button class="fce-conn-done" type="button" title="Close">Done ✕</button></div>' +

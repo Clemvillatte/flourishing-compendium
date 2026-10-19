@@ -27,10 +27,11 @@
   after markdown enrichment. The model now overlays current wiki body/companion sections
   without editing content files; rich headings/quotes/links and current Plain words render.
   Nine model tests cover defaults, filtering, source immutability and section preservation.
-- OWNER UI PROPOSAL PENDING: suggested nodes in the graph connection picker should be
-  previewable before selecting a link. Recommended ~1-second hover plus an explicit
-  keyboard/touch Preview button and a scrollable panel that does not alter selections.
-  Feasibility answered; no connection-picker implementation has been made yet.
+- OWNER UI PREVIEW IMPLEMENTED: suggested nodes in graph/editor connection pickers now
+  preview after ~1s hover or immediately via a keyboard/touch Preview button. The full
+  local body uses the Library renderer; internal links browse inside the panel and source
+  links open separately. Back/Escape closes preview first and preserves checked selections
+  and drafts. Desktop side placement/narrow overlay tested; see CONNECTION-PREVIEW-QA.md.
 - LATEST CHECKPOINT: Pages deployment of fb661ad6 succeeded; live randomizer controls and
   current-source B053 checked. Private attached preview is for viewing; the existing editor's
   browser-storage features require the normal site rather than its restricted preview frame.
