@@ -334,3 +334,11 @@ copied from the opened URL in this session.
 - Opened: https://www.gutenberg.org/cache/epub/41386/pg41386.txt (Human Nature and
   Conduct, Gutenberg #41386; the ends-in-view passage and the targets sentence fetched
   verbatim from "The Nature of Aims"). Validated vs HEAD (pre-item).
+
+## B177 correction note 3 (milestone QC, 2026-10-19)
+
+- Per advisor: opening narrowed to what MN 20 establishes; Dogen sentence and its
+  source entry removed (the arising instruction does not establish restarting after a
+  lapse); "pair" paragraph replaced with the compendium-extension framing. Ledger
+  entry for the Fukanzazengi source remains historical record for B177's earlier
+  drafts only.

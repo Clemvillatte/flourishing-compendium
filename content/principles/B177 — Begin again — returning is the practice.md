@@ -12,11 +12,11 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 177** — Begin again: returning is the practice
 
-MN 20 is written as a loop: when unskillful thoughts arise while the monk attends to a theme, he is to attend to another theme; when they still arise, he scrutinizes the drawbacks. The drifting is assumed, and the method is the return. Dogen's zazen manual keeps the shape at the end of a sitting: "When you arise from sitting, move slowly and quietly, calmly and deliberately."
+MN 20 teaches a monk to respond to thoughts imbued with desire, aversion or delusion by attending to another theme connected with what is skillful, and to examine the drawbacks of the thoughts if they persist. The drifting is assumed, and the method is the return.
 
 > "Just as a skilled carpenter or his apprentice would use a small peg to knock out, drive out, and pull out a large one; in the same way, if evil, unskillful thoughts — imbued with desire, aversion, or delusion — arise in a monk while he is referring to and attending to a particular theme, he should attend to another theme, apart from that one, connected with what is skillful." (MN 20, [Thanissaro, accesstoinsight](https://www.accesstoinsight.org/tipitaka/mn/mn.020.than.html))
 
-The compendium applies the pair to the streak: the question after a lapse is not why you failed but what the return looks like, and both texts give it a shape.
+The compendium extends this redirection practice to restarting after a lapse. Sitting again after abandoning a meditation habit is a modern application, not an instruction established by the quoted passage.
 
 **Plain words**
 The drift is not the news; the return is. A practice measured in streaks treats every lapse as a broken thing to mourn. A practice measured in returns treats the lapse as the cue: the same move as yesterday, applied again. The steadying is the same motion whether it is the first time or the fourth.
@@ -26,7 +26,6 @@ The drift is not the news; the return is. A practice measured in streaks treats 
 ## Sources
 
 - [MN 20 (Vitakkasanthana Sutta), trans. Thanissaro Bhikkhu (accesstoinsight)](https://www.accesstoinsight.org/tipitaka/mn/mn.020.than.html)
-- [Dogen, Fukanzazengi (translations via Terebess Asia Online)](https://terebess.hu/zen/dogen/Fukanzazengi2.html)
 
 ## Stories
 
