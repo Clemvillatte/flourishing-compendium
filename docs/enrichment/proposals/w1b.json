@@ -7,13 +7,14 @@
   "Perspective-getting",
   "Ren",
   "Right concentration",
-  "Right mindfulness"
+  "Right mindfulness",
+  "Temperance"
  ],
  "flagged": {
   "Perspective-getting": "seed cites 'Epley et al., 2007' for 'asking beats perspective-taking'; no such perspective-getting paper could be found (canonical: Epley et al. 2004 anchoring; Eyal, Steffel & Epley 2018 JPSP 114(4):547-571 'Perspective mistaking'). Original line kept, prose cites the verified papers."
  },
  "missing_concepts": [],
- "sources_checked": 21,
+ "sources_checked": 23,
  "inline": [],
  "reciprocal": [
   {
@@ -295,6 +296,46 @@
    "target": "content/concepts/Beginner's mind.md",
    "concept": "Right mindfulness",
    "why": "the freshness of unproving attention"
+  },
+  {
+   "target": "content/concepts/Akrasia.md",
+   "concept": "Temperance",
+   "why": "the virtue whose failure akrasia names"
+  },
+  {
+   "target": "content/concepts/Virtue.md",
+   "concept": "Temperance",
+   "why": "one of the four cardinal excellences"
+  },
+  {
+   "target": "content/concepts/Desire.md",
+   "concept": "Temperance",
+   "why": "orders rather than deletes desire"
+  },
+  {
+   "target": "content/concepts/The dichotomy of control.md",
+   "concept": "Temperance",
+   "why": "the Stoic frame for appetite's governance"
+  },
+  {
+   "target": "content/concepts/Habituation.md",
+   "concept": "Temperance",
+   "why": "how the mean becomes second nature"
+  },
+  {
+   "target": "content/concepts/Habit.md",
+   "concept": "Temperance",
+   "why": "the mechanism of trained desire"
+  },
+  {
+   "target": "content/concepts/Ego depletion.md",
+   "concept": "Temperance",
+   "why": "the research program that questioned willpower as a muscle"
+  },
+  {
+   "target": "content/concepts/Wu wei.md",
+   "concept": "Temperance",
+   "why": "effortless ordering, the Daoist cousin of concord"
   }
  ],
  "notes": "continues after lead applied the first proposals file (moved to applied/)"
