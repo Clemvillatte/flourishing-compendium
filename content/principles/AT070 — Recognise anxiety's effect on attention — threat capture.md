@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AT — Attentio
 ---
 > **Principle 70** — Recognise anxiety's effect on attention: threat capture
 
-Anxiety biases attention toward threat-related stimuli. Anxious individuals attend preferentially to threatening information and have difficulty disengaging from it. This is a trainable bias, not a permanent condition.
+The evidence is meta-analytic: Bar-Haim and colleagues' review of 172 studies "examined the boundary conditions of threat-related attentional biases in anxiety," and found that "the results show that the bias is reliably demonstrated with different experimental paradigms and under a variety of experimental conditions, but that it is only an effect size of d = 0.45." Within the studies, "a significant threat-related bias was present in anxious participants but not in nonanxious participants." That is the principle in empirical dress: anxiety sets the attentional beam to threat, and the beam finds what it scans for. The compendium's practical point is the principle's own caveat: the bias is a setting, not a permanent condition, and the parallels below track the evidence that it can be trained and shifted.
 
 **Plain words** Anxiety is an attentional filter set to threat: the beam scans for danger and finds it, always, because that's what it's looking for. It's not insight — it's a setting. Knowing it's a setting is the beginning of questioning its reports.
 
