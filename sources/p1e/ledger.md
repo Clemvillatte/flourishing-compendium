@@ -30,3 +30,11 @@ Advisor QC (2026-10-19): quotes verified (BQ1 ch. 22 sentence, BQ2 ch. 68 verse 
 - Inherited, NOT opened/verified: Rosenberg 2003 NVC claim in psychology parallels — preserved per protocol, flagged in the band state file for the supervisor.
 - Saturation: linked concepts read (Nonviolent communication, De-escalation science, Nonviolent action, Satyagraha — all cite D069); kernels K216/K368/K395/K397 operationalise it. Core-term scan ("non-resistance"): Wu wei carries a non-resistance facet (Daodejing 64) already linked from AF013/AF039; D069's conflict family is covered by its existing parallels; no justified new proposals.
 - Validator on final candidate: ok, prose 204 words; no wikilink changes; protected fields untouched.
+
+## D073 — Don't over-plan: act from presence (done, advisor-approved)
+
+- Opened: Zhuangzi ch. 6 (Legge, ETH Zurich PDF, direct pypdf extraction, PDF page 28) and DDJ 15 (Legge, Gutenberg raw text, verified in this session). Both editions already counted for this band; no new source increment. Verified verbatim: "The True men of old did not reject (the views of) the few; they did not seek to accomplish (their ends) like heroes (before others); they did not lay plans to attain those ends." (Zhuangzi 6); "Who can (make) the muddy water (clear)? Let it be still, and it will gradually become clear." (DDJ 15).
+- Advisor QC (2026-10-19): blockquotes verified against direct extractions; approved replacement prose applied (P1 DDJ sentence, P2, Plain words, For example: the "stops helping once events begin"/"drop the script"/"plan's job ended" overclaims removed).
+- Inherited, NOT opened/verified: Kahneman & Tversky 1979 planning-fallacy wording and the plan-then-adapt research summary in psychology parallels — preserved per protocol, flagged in the band state file for the supervisor.
+- Saturation: Planning fallacy, Plan-then-adapt strategies outperform rigid plans, Transaction concept pages read in full (all cite D073); core-term scan ("planning") run: plausible results are principles/concepts already linked or unrelated; no justified new proposals.
+- Validator on final candidate: ok, prose 195 words; no wikilink changes vs pre-item commit 9c2b544; protected fields untouched.
