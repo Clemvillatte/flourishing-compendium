@@ -99,3 +99,9 @@ Advisor milestone QC (items 2-6 + D074 re-review) failed on inference-level issu
 - Opened via fetch workflow: AN 8.6 Lokavipatti Sutta (Thanissaro, accesstoinsight.org/tipitaka/an/an08/an08.006.than.html), full text. Verified verbatim: the eight-conditions sentence (quoted as blockquote); "inconstant, stressful, & subject to change"; "welcomes the arisen gain and rebels against the arisen loss"; the welcoming-and-rebelling release contrast.
 - Fixes: plain words replicate removed and re-derived around the sutta's instructed/uninstructed contrast; "boat that doesn't capsize" metaphor removed (not from the source); example made hypothetical; em dashes removed from body/example prose.
 - Saturation: B054 already cited by Equanimity, Acceptance, Ataraxia, Process model of emotion regulation Gross, Emotion regulation; no new proposals.
+
+## B069 — Don't shoot the second arrow (pain vs. suffering) (done 2026-10-19)
+
+- Opened via fetch workflow: SN 36.6 Sallatha Sutta (Thanissaro, accesstoinsight.org/tipitaka/sn/sn36/sn36.006.than.html), full text. Verified verbatim: the two-arrows simile (quoted as blockquote); "does not sorrow, grieve, or lament, does not beat his breast or become distraught"; "feels one pain: physical, but not mental".
+- Fixes: plain words replicate removed and re-derived (the second shot is added by the reaction); "suffering is the subscription you add" aphorism replaced with the sutta-grounded contrast; em dashes removed from body/plain words/example.
+- Saturation: B069 already cited by Chronic pain acceptance, Judgment adds the harm, Chronic pain research, Dukkha, The second arrow; no new proposals.
