@@ -12,11 +12,13 @@ Both concept and principle manifests are protected. Invalid coordination data fa
 Legacy target/concept reciprocal records are accepted without rewriting worker proposals.
 Preflight rejects malformed/unresolved proposals before any corpus or proposal writes.
 Only the supervisor runs this script, after pulling and checking live ownership.
+Use --proposal FILE.json (repeatable) to limit a run to reviewed proposal files.
+Use --dry-run to preview the same mutations without writing or archiving anything.
 
 Atomicity: content files are written FIRST; only after all writes succeed are proposal files
 archived to docs/enrichment/applied/. Deferred proposals stay in the proposals file.
 """
-import os, re, sys, glob, json, shutil, datetime
+import os, re, sys, glob, json, shutil, datetime, argparse
 import enrich_stats
 
 ROOT = enrich_stats.ROOT
@@ -127,7 +129,7 @@ def proposal_fields(record, kind, resolve):
     return resolve(target), resolve(linked)
 
 
-def main():
+def main(proposal_names=None, dry_run=False):
     E = enrich_stats.load()
     byfile = {e['fm'].get('file'): k for k, e in E.items() if e['fm'].get('file')}
     bypath = {e['path'].replace(os.sep, '/'): k for k, e in E.items()}
@@ -141,9 +143,22 @@ def main():
     try:
         id2band = band_of()
         states = band_states()
-        # Validate every file before modifying any file. Invalid records stay recoverable.
+        paths = sorted(glob.glob(os.path.join(PDIR, '*.json')))
+        if proposal_names is not None:
+            if not proposal_names:
+                raise ValueError('proposal selection must not be empty')
+            paths = []
+            for name in proposal_names:
+                if not isinstance(name, str) or os.path.basename(name) != name or not name.endswith('.json'):
+                    raise ValueError('select proposals by a basename ending in .json')
+                path = os.path.join(PDIR, name)
+                if os.path.islink(path) or not os.path.isfile(path):
+                    raise ValueError(f'proposal missing or not a regular file: {name}')
+                paths.append(path)
+            paths = sorted(set(paths))
+        # Validate all selected files before any write; unselected files are untouched.
         proposals = []
-        for pf in sorted(glob.glob(os.path.join(PDIR, '*.json'))):
+        for pf in paths:
             with open(pf, encoding='utf-8') as f:
                 P = json.load(f)
             if not isinstance(P, dict):
@@ -261,10 +276,13 @@ def main():
                 if end == -1:
                     print(f"SKIP (no front-matter) {e['path']}")
                     continue
-                tmp = fp + '.applytmp'
-                with open(tmp, 'w', encoding='utf-8') as f:
-                    f.write(cur[:end+5] + e['body'])
-                os.replace(tmp, fp)
+                if dry_run:
+                    print(f"would write: {e['path']}")
+                else:
+                    tmp = fp + '.applytmp'
+                    with open(tmp, 'w', encoding='utf-8') as f:
+                        f.write(cur[:end+5] + e['body'])
+                    os.replace(tmp, fp)
                 written.append(e['path'])
                 e['dirty'] = False
 
@@ -274,19 +292,29 @@ def main():
             P2['reciprocal'] = deferred_recip
             P2['inline'] = deferred_inline
             P2['notes'] = str(P.get('notes', '')) + f" | deferred at this run (target band busy): {len(deferred_recip)} recip, {len(deferred_inline)} inline"
-            with open(pf, 'w', encoding='utf-8') as f:
-                json.dump(P2, f, indent=1, ensure_ascii=False)
-                f.write('\n')
+            if not dry_run:
+                with open(pf, 'w', encoding='utf-8') as f:
+                    json.dump(P2, f, indent=1, ensure_ascii=False)
+                    f.write('\n')
         else:
-            os.makedirs(APPLIED, exist_ok=True)
-            shutil.move(pf, os.path.join(APPLIED, os.path.basename(pf)))
+            if not dry_run:
+                os.makedirs(APPLIED, exist_ok=True)
+                shutil.move(pf, os.path.join(APPLIED, os.path.basename(pf)))
             stats['archived'] += 1
 
-    print(f"applied: recip={stats['recip']} inline={stats['inline']} deferred={stats['deferred']} "
-          f"skipped={stats['skipped']} archived={stats['archived']} files_written={len(written)}")
+    action = 'dry-run, no writes' if dry_run else 'applied'
+    print(f"{action}: recip={stats['recip']} inline={stats['inline']} deferred={stats['deferred']} "
+          f"skipped={stats['skipped']} archived={stats['archived']} "
+          f"{'files_planned' if dry_run else 'files_written'}={len(written)}")
     if stats['deferred']:
         print("deferred proposals remain in docs/enrichment/proposals/ for the next run")
+    return 0
 
 
 if __name__ == '__main__':
-    sys.exit(main())
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument('--proposal', action='append', metavar='FILE.json',
+                        help='apply only this reviewed file; repeat for several')
+    parser.add_argument('--dry-run', action='store_true', help='preview without any writes')
+    args = parser.parse_args()
+    sys.exit(main(proposal_names=args.proposal, dry_run=args.dry_run))

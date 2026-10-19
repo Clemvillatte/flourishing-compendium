@@ -33,6 +33,12 @@
 - NAMESPACE DECISION: Character as habits should merge into Habit as an attributed James
   reading, not remain a second independently named concept. Migration is NOT yet performed;
   preserve links/material and respect live band ownership. See concept-namespace-audit.md.
+- INTEGRATION SAFETY: enrich_apply.py now supports repeatable `--proposal FILE.json` and
+  a truly no-write `--dry-run`, covered by 30 Python safety tests. Real p1f dry run planned
+  four changes and deferred one active target, without modifying content/proposals.
+  Pending `why` clauses often contain internal audit notes; owners have been asked to
+  convert them to short public relationship clauses before application. Nothing applied
+  from that dry run. Use scoped review rather than sweeping all workers' pending files.
 - CURRENT SUPERVISOR: `supervisor-193794fd`, resuming the assignment of genuineflourishing32.
   Supervisor takeover was pushed at 12:42 UTC after the predecessor's heartbeat became stale.
   This session has no verified yopmail identity; the role/session label prevents false

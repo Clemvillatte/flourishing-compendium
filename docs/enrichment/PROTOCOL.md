@@ -103,6 +103,10 @@ Then:
     "inline":     [ {"into": "AF021", "concept": "Ubuntu", "phrase": "Ubuntu: I am because we are"} ] }
   ```
   `reciprocal` = add this concept to another concept/kernel's Related list (use for every Related line you wrote). `inline` = an entry (usually a principle) names the concept in plain text but does not link it; give the EXACT phrase as it appears. Only propose inline links when the entry really means the concept (check the snippet); never for generic words ("care" in "take care").
+  The `why` clause is copied verbatim onto the public page. Write a short, reader-facing
+  explanation of the relationship, not a justification to the supervisor. Put audit notes
+  such as “stub page”, “cites no principle”, “rewritten body” and “opened source” in `notes`,
+  not `why`. An existing link is a navigation choice, not evidence for an outside fact.
 - do not invent concept pages as a side effect of enriching one page. Owner rule (2026-10-19):
   you MAY add a new concept page when, and only when, (a) it is relevant to the wiki goal — guiding
   people toward alleviating suffering, wisdom and genuine, adaptive flourishing — (b) no existing

@@ -59,6 +59,8 @@ Philosophy parallels) and the `<!-- fc: reflections -->` comment.
    instead). Fix every ERR.
 6. SATURATE: check `enrich_find.py mention` for the principle's core terms; propose
    cross-links in `docs/enrichment/proposals/<band>.json` (same schema as concepts).
+   `why` becomes public prose: use a short relationship clause. Keep “stub page”,
+   “cites no principle”, “rewritten body” and source-check audit notes in `notes`, not `why`.
 7. Mark done in your state file, run `scripts/enrich_save.sh`, clock in (`baton.py`).
 
 ## The model page

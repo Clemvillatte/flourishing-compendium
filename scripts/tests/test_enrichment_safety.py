@@ -108,14 +108,14 @@ class IntegrationSafety(unittest.TestCase):
         }
         return path, text, entries
 
-    def run_fixture(self, entries):
+    def run_fixture(self, entries, **options):
         with mock.patch.object(apply, 'ROOT', str(self.root)), \
              mock.patch.object(apply, 'PDIR', str(self.root / 'docs/enrichment/proposals')), \
              mock.patch.object(apply, 'APPLIED', str(self.root / 'docs/enrichment/applied')), \
              mock.patch.object(apply.enrich_stats, 'load', return_value=entries), \
              contextlib.redirect_stdout(io.StringIO()), \
              contextlib.redirect_stderr(io.StringIO()):
-            return apply.main()
+            return apply.main(**options)
 
     def test_invalid_preflight_writes_nothing(self):
         path, text, entries = self.fixture({'into': 'P1', 'link': 'missing', 'why': 'reason'})
@@ -142,6 +142,54 @@ class IntegrationSafety(unittest.TestCase):
         self.assertIn('[[C]]', path.read_text())
         self.assertTrue(path.read_text().startswith(text.split('\n---\n')[0] + '\n---\n'))
         self.assertTrue((self.root / 'docs/enrichment/applied/test.json').exists())
+
+    def test_dry_run_changes_no_content_or_proposals(self):
+        path, text, entries = self.fixture({'into': 'P1', 'link': 'C', 'why': 'reason'})
+        proposal = self.root / 'docs/enrichment/proposals/test.json'
+        before = proposal.read_bytes()
+        self.assertEqual(self.run_fixture(entries, dry_run=True), 0)
+        self.assertEqual(path.read_text(), text)
+        self.assertEqual(proposal.read_bytes(), before)
+        self.assertEqual(list((self.root / 'docs/enrichment/applied').iterdir()), [])
+        self.assertFalse(list(self.root.rglob('*.applytmp')))
+
+    def test_selection_does_not_read_or_archive_other_proposals(self):
+        path, text, entries = self.fixture({'into': 'P1', 'link': 'C', 'why': 'reason'})
+        other = self.root / 'docs/enrichment/proposals/unreviewed.json'
+        other.write_text('not valid JSON', encoding='utf-8')
+        self.assertEqual(self.run_fixture(entries, proposal_names=['test.json']), 0)
+        self.assertIn('[[C]]', path.read_text())
+        self.assertEqual(other.read_text(), 'not valid JSON')
+        self.assertTrue((self.root / 'docs/enrichment/applied/test.json').exists())
+
+    def test_invalid_selection_never_writes(self):
+        path, text, entries = self.fixture({'into': 'P1', 'link': 'C', 'why': 'reason'})
+        for selected in ([], ['../test.json'], ['missing.json']):
+            with self.subTest(selected=selected):
+                self.assertEqual(self.run_fixture(entries, proposal_names=selected), 1)
+                self.assertEqual(path.read_text(), text)
+
+    def test_symlink_selection_rejected(self):
+        path, text, entries = self.fixture({'into': 'P1', 'link': 'C', 'why': 'reason'})
+        folder = self.root / 'docs/enrichment/proposals'
+        (folder / 'alias.json').symlink_to(folder / 'test.json')
+        self.assertEqual(self.run_fixture(entries, proposal_names=['alias.json']), 1)
+        self.assertEqual(path.read_text(), text)
+
+    def test_all_selected_files_preflight_before_first_write(self):
+        path, text, entries = self.fixture({'into': 'P1', 'link': 'C', 'why': 'reason'})
+        other = self.root / 'docs/enrichment/proposals/invalid.json'
+        other.write_text('not valid JSON', encoding='utf-8')
+        self.assertEqual(self.run_fixture(entries,
+                         proposal_names=['test.json', 'invalid.json']), 1)
+        self.assertEqual(path.read_text(), text)
+        self.assertTrue((self.root / 'docs/enrichment/proposals/test.json').exists())
+
+    def test_repeated_selection_deduplicates(self):
+        path, text, entries = self.fixture({'into': 'P1', 'link': 'C', 'why': 'reason'})
+        self.assertEqual(self.run_fixture(entries,
+                         proposal_names=['test.json', 'test.json']), 0)
+        self.assertEqual(path.read_text().count('[[C]]'), 1)
 
 
 class PreservationSafety(unittest.TestCase):

@@ -92,7 +92,13 @@ principle bands before concept bands while the principles queue is untouched.
 3. Sample quality: pick 1-2 newly enriched pages, re-verify quotes against their cited URLs,
    and record the result in the QC log below. Use your advisor for this.
 4. Run integration when proposals are pending and the target bands are free:
-   `python3 scripts/enrich_apply.py` (band-aware, atomic) → validate → build → push.
+   `python3 scripts/enrich_apply.py --proposal <band>.json --dry-run`, inspect, then repeat
+   without `--dry-run` → validate → build → push. `--proposal` is repeatable; unselected
+   files are untouched. Dry runs never write, archive or trim proposals. Ownership guards
+   still apply. Without a scope, the script retains its legacy all-proposals behavior.
+   Review `why` first: it becomes public Related concepts prose. Pending files often contain
+   internal audit justifications (“stub”, “cites no principle”) that need reader-facing
+   revision by the owning worker. Do not bulk-publish those internal notes.
 5. Keep the board honest: mint bands as queues shrink, update targets, and note attribution
    (which agent enriched what) in the batch notes.
    Keep at least three OPEN priority principle reserves while unassigned priority work

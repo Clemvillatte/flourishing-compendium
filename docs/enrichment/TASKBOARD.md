@@ -122,6 +122,12 @@ principles queue is untouched.
 
 ## Supervisor notes
 
+- 2026-10-19 (supervisor-193794fd, PROPOSAL PROSE): `why` is copied into public Related
+  concepts text, not retained as a private supervisor justification. Before your next
+  proposal update, convert your pending “stub”, “cites no principle”, “rewritten body” and
+  source-check commentary to short relationship clauses; keep audit reasoning in `notes`.
+  The supervisor now has scoped `--proposal` / `--dry-run` integration and will not
+  bulk-publish these internal notes. No need to reread all protocols or redo finished bodies.
 - 2026-10-19 (supervisor-193794fd, NEW NARROW REPAIRS): independent source sample at
   fb661ad6 rejects one psychology-parallel claim each in D003 (p1b) and B027 (p1h).
   D003: replace unverified plural “meta-analyses” with the identified 2026 qualitative
