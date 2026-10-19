@@ -16,7 +16,7 @@ Attention can be narrowly focused (closed, concentrated) or broadly open (recept
 
 ### The research distinction
 
-Meditation research names the two modes with practice labels: "During FAM the practitioner is required to focus attention on a chosen object or event, such as breathing or a candle flame," whereas "During OMM the focus of the meditation becomes the monitoring of awareness itself" ([Lippelt, Hommel & Colzato 2014](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01083/full)). The review's summary sentence: "FAM induces a narrow attentional focus due to the highly concentrative nature of the meditation, whereas OMM induces a broader attentional focus by allowing and acknowledging any experiences that might arise during meditation" (Lippelt et al. 2014).
+Meditation research names the two modes with practice labels. "During FAM the practitioner is required to focus attention on a chosen object or event, such as breathing or a candle flame." "During OMM the focus of the meditation becomes the monitoring of awareness itself" ([Lippelt, Hommel & Colzato 2014](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01083/full)). The review's summary sentence: "FAM induces a narrow attentional focus due to the highly concentrative nature of the meditation, whereas OMM induces a broader attentional focus by allowing and acknowledging any experiences that might arise during meditation" (Lippelt et al. 2014).
 
 ### The Buddhist pairing
 
@@ -32,7 +32,7 @@ An analogy from a different tradition: the Daodejing's pairs produce each other,
 
 **Plain words** A camera has one lens and two habits: the tight shot that finds the detail, and the wide shot that finds the room. Attention is the same instrument. The skill is knowing which shot the moment calls for, and switching without pride.
 
-*For example:* The surgeon narrows for the incision, then broadens to check the room, the patient, the team. Wide open during the incision is how you miss things; narrowed all day is how you burn out.
+*For example:* Imagine revising an essay. You inspect one sentence closely, then reread the whole section to consider how that sentence fits.
 
 ## Sources
 

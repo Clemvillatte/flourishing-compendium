@@ -60,8 +60,8 @@
   "AF025",
   "A073",
   "AF035",
-  "AT011",
-  "AT071"
+  "AT071",
+  "AT011"
  ],
  "in_progress": null,
  "flagged": {
@@ -85,11 +85,11 @@
   "A073": "Reopened for QC: QC correction: round 3 focused check",
   "AF025": "Reopened for QC: QC correction: milestone round 3",
   "AF035": "Reopened for QC: QC correction: round 3 focused check",
-  "AT011": "Reopened for QC: QC correction: round 3 focused check",
+  "AT011": "Reopened for QC: QC correction: final focused check",
   "AT071": "Reopened for QC: QC correction: round 3 focused check"
  },
  "missing_concepts": [],
  "sources_checked": 18,
- "updated": "2026-10-19T14:04:29+00:00",
+ "updated": "2026-10-19T14:05:28+00:00",
  "band_done": false
 }
