@@ -12,13 +12,15 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 94** — Cultivate tranquility (passaddhi)
 
-Calm the body and mind deliberately: let the breath quiet, the muscles release, the thoughts slow. Tranquility is a factor of awakening, not laziness.
+Passaddhi, usually translated tranquility or calm, is one of the seven factors of awakening, and the Canon is explicit that it is bodily as well as mental. The standard formula describes it as the bodily tranquility and the mental tranquility that arise when the whole body and mind have been calmed — the Buddha is not talking about a mood but about an actual physiological state ([SN 46.53, Aggi Sutta, Thanissaro Bhikkhu translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/sn/sn46/sn46.053.than.html)).
 
-(SN 46; Dhammapada 373.)
+The fire simile from SN 46.53 places tranquility in its functional context: it is the tool for a restless mind, not a general virtue. When the mind is restless, the Buddha says, develop calm, concentration and equanimity, the way wet grass puts out a large fire ([SN 46.53, Access to Insight](https://www.accesstoinsight.org/tipitaka/sn/sn46/sn46.053.than.html)). Applied to a sluggish mind, the same qualities would smother what needed fuel. Tranquility is not a state to achieve permanently; it is a correct response to a specific condition.
 
-**Plain words** Calm the body and mind deliberately — let the breath quiet, the muscles release, the thoughts slow. Tranquility is a factor of awakening, not laziness. The nervous system has a brake pedal; most people have never once used it on purpose.
+> "When the mind is restless, that's the wrong time to develop analysis, persistence, and rapture... you should develop calm, concentration, and equanimity. Just as if a man, wanting to put out a large fire, would drench it with wet grass." (SN 46.53, Aggi Sutta, Thanissaro Bhikkhu translation, [Access to Insight](https://www.accesstoinsight.org/tipitaka/sn/sn46/sn46.053.than.html))
 
-*For example:* The ten long exhales before sleep that do more than the entire bedtime routine — the brake pedal, used deliberately.
+**Plain words** Your nervous system has a brake pedal, and the brake works on the body first — long exhale, dropped shoulders, unclenched jaw — with the mind following a few seconds later. Most people only use this brake by accident. The ten long exhales before sleep are not a wellness ritual; they are the pedal, applied deliberately, at the one moment of the day when the system actually needs it. The reason this feels like cheating is that it is cheaper than the entire sleep-optimization routine and works on the mechanism itself.
+
+*For example:* Two people cannot sleep. One tries to think their way to calm — reviewing tomorrow, then trying to stop reviewing tomorrow. The other takes ten slow exhales and lets the shoulders drop, without changing the content of a single thought. The second one is usually asleep before the first has finished arguing with itself.
 
 ## Psychology parallels
 
