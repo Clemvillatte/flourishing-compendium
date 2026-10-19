@@ -26,7 +26,7 @@ For example (imagined): a panicked caller and a friend who says, slowly, that th
 ## Psychology parallels
 
 - **[[Co-regulation of affect in relationships|Co-regulation of affect in relationships]]** (Butler & Gross, 2009; English & Eldreda, 2020)
-- **[[Social support|Social support as affect regulation]]** (Cohen & Wills, 1985)
+- **Social support as affect regulation** (Cohen & Wills, 1985)
 
 ## Philosophy parallels
 

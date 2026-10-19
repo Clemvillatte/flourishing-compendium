@@ -25,8 +25,8 @@ For example (imagined): a child is melting down over the wrong colour cup. One p
 
 ## Psychology parallels
 
-- **[[Validation and negative affect|Validation and negative affect]]** (Linehan, 1993; Fruzzetti & Iverson, 2004)
-- **[[Validation in therapy|Validation in therapy]]** (Linehan, 1993; Gottman & Levenson, 2000)
+- **Validation and negative affect** (Linehan, 1993; Fruzzetti & Iverson, 2004)
+- **Validation in therapy** (Linehan, 1993; Gottman & Levenson, 2000)
 
 ## Philosophy parallels
 
