@@ -50,7 +50,8 @@
   "B146",
   "A108",
   "AT050",
-  "E004"
+  "E004",
+  "MO054"
  ],
  "in_progress": null,
  "flagged": {
@@ -64,6 +65,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 18,
- "updated": "2026-10-19T13:41:01+00:00",
+ "updated": "2026-10-19T13:41:26+00:00",
  "band_done": false
 }
