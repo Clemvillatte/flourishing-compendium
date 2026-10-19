@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 252** — Practise the discipline of speech
 
-The Stoic is careful with speech: speaking truthfully, simply, kindly, and at the right time. Speech is an action, and like all actions, it can be virtuous or vicious. Practise the discipline of speech: think before you speak, say what is true and useful, and remain silent when speaking would not serve.
+Epictetus gives the discipline as a standing rule for company: "Be for the most part silent, or speak merely what is necessary, and in few words." Discourse is allowed when occasion calls for it, but he steers it away from blaming, praising, and comparing people — and if you land among strangers, "be silent." The rule reaches content, not just volume: "Never call yourself a philosopher, nor talk a great deal among the unlearned about theorems, but act conformably to them." At dinner, he says, "don't talk how persons ought to eat, but eat as you ought." And his image for the whole discipline is the sheep: "sheep don't throw up the grass to show the shepherds how much they have eaten; but, inwardly digesting their food, they outwardly produce wool and milk." The compendium's application: speech is an action like any other — true, useful, aimed, and only when needed. When speaking would not serve, silence is not the absence of an act; it is the act.
 
 (Med. III.5, IV.16, V.9, VI.8, XI.15; Disc. III.21; Ench. 24, 33, 35, 42, 45, 46; Seneca, Letters 75, 94, 108, 123.)
 
