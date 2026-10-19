@@ -15,13 +15,13 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 
 Aristotle's argument about equity runs against treating it as a separate virtue from justice. Equity is itself just, and superior to one sort of justice, but only because law by nature speaks in general terms and some cases fall outside the generality. The rectification is done as the lawgiver would have done it had the particular case been known ([NE V.10, Rackham, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=5)).
 
-> When therefore the law lays down a general rule, and thereafter a case arises which is an exception to the rule, it is then right, where the lawgiver's pronouncement because of its absoluteness is defective and erroneous, to rectify the defect by deciding as the lawgiver would himself decide if he were present on the occasion, and would have enacted if he had been cognizant of the case in question.
+> This is the essential nature of the equitable: it is a rectification of law where law is defective because of its generality.
 >
 > — Nicomachean Ethics V.10 ([Rackham, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=5))
 
-**Plain words** The compendium's application of this principle asks the reader to distinguish between applying a rule and doing what the rule was for. Aristotle's own framing is not that the rule is bad; it is that the case in front of you was not one the rule's generality could cover, and the correction is made in the rule's own spirit.
+**Plain words** Aristotle is not saying the rule is bad. He is saying the case in front of you was not one the rule's generality could cover, and the correction is made in the rule's own spirit, as the lawgiver would have decided it had they known the case.
 
-For example (imagined): a school dropping a penalty for a student who missed an exam during a family emergency is applying the rule as the rule's own purpose would have it applied in that case.
+For example (imagined): if a school's exam-absence penalty is aimed at avoidable absence, then a student who missed an exam during an unavoidable family emergency falls outside what the rule was for, and waiving the penalty may fit the exception Aristotle describes.
 
 (NE V.10.)
 

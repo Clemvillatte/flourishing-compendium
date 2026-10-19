@@ -24,7 +24,6 @@
   "A042",
   "A096",
   "A103",
-  "A104",
   "AF048",
   "AF061",
   "AF073",
@@ -32,7 +31,8 @@
   "A026",
   "A055",
   "A100",
-  "A044"
+  "A044",
+  "A104"
  ],
  "in_progress": null,
  "flagged": {
@@ -55,7 +55,7 @@
   "A096": "milestone QC: quotation fidelity and prose scope repairs",
   "A100": "Reopened for QC: repair: quote fidelity (But in prefix), scope relationships claim",
   "A103": "milestone QC: quotation fidelity and prose scope repairs",
-  "A104": "milestone QC: quotation fidelity and prose scope repairs",
+  "A104": "Reopened for QC: repair: use clean equitable quote avoiding Iawgiver OCR, make rule purpose explicit",
   "AF048": "milestone QC: quotation fidelity and prose scope repairs",
   "AF061": "milestone QC: quotation fidelity and prose scope repairs",
   "AF073": "milestone QC: quotation fidelity and prose scope repairs",
@@ -63,6 +63,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 9,
- "updated": "2026-10-19T15:03:18+00:00",
+ "updated": "2026-10-19T15:03:27+00:00",
  "band_done": false
 }
