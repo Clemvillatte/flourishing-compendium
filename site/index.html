@@ -74,7 +74,7 @@
       </div>
       <div class="rand-actions">
         <button class="nav-btn" id="prevBtn" type="button" aria-label="Previous in session" title="Previous (←)">←</button>
-        <button class="draw-btn" id="drawBtn" type="button" title="Draw (Space / R)">Draw a principle</button>
+        <button class="draw-btn" id="drawBtn" type="button" title="Draw (Space / R)"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 2l2.1 6.3L21 12l-6.9 2.7L12 21l-2.1-6.3L3 12l6.9-3.7z"/><circle cx="12" cy="12" r="1.6" fill="currentColor" stroke="none"/></svg><span class="draw-label">Draw a principle</span></button>
         <button class="nav-btn" id="nextBtn" type="button" aria-label="Next in session" title="Next (→)">→</button>
         <button class="today-btn" id="todayBtn" type="button" title="The same principle for everyone on the same UTC day">Today’s principle</button>
       </div>
@@ -103,6 +103,7 @@
     </div>
     <div class="col" id="listCol">
       <div id="listHead">
+        <select id="libSectionSelect" aria-label="Jump to a section"><option value="">Jump to section…</option></select>
         <div id="searchWrap">
           <span id="searchIcon">⌕</span>
           <input id="search" type="text" placeholder="Search titles, content, tags…" spellcheck="false" autocomplete="off">

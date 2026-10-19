@@ -1011,7 +1011,7 @@ function restart(fit) {
   alpha = 1;
   // 1600 ticks ≈ the point where alpha decays below 0.008 — the same total
   // settling the old endless loop reached, now bounded and then frozen
-  if (fit) { warmup(1600); fitAfterWarmup = true; }
+  if (fit) { warmup(window.matchMedia && window.matchMedia('(max-width:820px)').matches ? 900 : 1600); fitAfterWarmup = true; }
   dragged = null; panning = false;   // an in-progress drag cannot survive a re-layout
   liveMode = false; settleTicks = 0; // neither can live physics
   dragPhysics = false;

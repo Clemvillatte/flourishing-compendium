@@ -1148,7 +1148,8 @@ body.rl-fullwin #researchLaunchers { display:none; }
 .bs-sub.err { color:var(--verm); }
 
 /* mobile-only controls (hidden on desktop) */
-.rand-filters-btn, .lib-browse-btn, .graph-menu-btn { display:none; }
+.rand-filters-btn, .lib-browse-btn, .graph-menu-btn, #libSectionSelect { display:none; }
+.draw-btn svg { display:none; }
 
 /* ═══════════════ RESPONSIVE ═══════════════ */
 @media (max-width: 1220px) { #hints[hidden] { display:none; } }
@@ -1436,8 +1437,8 @@ body.graph-mode #randView, body.graph-mode #wikiView { display:none; }
   #topbar { flex-wrap:nowrap; padding:8px 12px; }
   #treeToggle, #listToggle { display:none; }
   #hints { display:none !important; }
-  /* keep the floating research rail above the bottom tab bar */
-  #researchLaunchers { bottom:calc(76px + env(safe-area-inset-bottom)) !important; }
+  /* the research rail (AI services) is not useful on a phone — hide it */
+  #researchLaunchers { display:none !important; }
 
   /* — Randomiser: minimal, filters behind a button — */
   .rand-filters-btn {
@@ -1446,6 +1447,18 @@ body.graph-mode #randView, body.graph-mode #wikiView { display:none; }
     color:var(--text); font:inherit; font-size:13px; padding:8px 14px; min-height:40px;
   }
   .rand-head { display:flex; flex-direction:row; align-items:center; flex-wrap:wrap; gap:10px; }
+  /* minimal drawing controls: one round icon button + save on the card */
+  .rand-actions { justify-content:center; gap:12px; }
+  .rand-actions .nav-btn, .rand-actions .today-btn { display:none; }
+  .draw-btn {
+    width:58px; height:58px; border-radius:50%; padding:0;
+    display:inline-flex; align-items:center; justify-content:center;
+  }
+  .draw-btn .draw-label { display:none; }
+  .draw-btn svg { display:block; }
+  .card-meta .eyebrow, .card-meta .counter { display:none; }
+  .card-meta .meta-right { margin-left:auto; }
+  .principle-num { font-size:12px; margin-bottom:2px; }
   .rand-head h2 { font-size:17px; margin:0; }
   .rand-head p { margin:0; }
   .rand-toolbar { display:none; }
@@ -1463,6 +1476,13 @@ body.graph-mode #randView, body.graph-mode #wikiView { display:none; }
     transform:translateX(-102%); transition:transform .25s ease;
   }
   body.lib-browse-open #listCol { transform:none; }
+  #libSectionSelect {
+    display:block; width:100%; margin:0 0 8px; padding:9px 10px; min-height:44px;
+    background:var(--panel2); color:var(--text); border:1px solid var(--line2); border-radius:9px;
+    font:inherit; font-size:14px;
+  }
+  #listMeta { display:none; }
+  #fcNewBtn { display:none; }
   .lib-browse-btn {
     display:inline-flex; align-items:center; gap:6px;
     position:fixed; left:12px; bottom:calc(76px + env(safe-area-inset-bottom)); z-index:180;
@@ -1485,7 +1505,8 @@ body.graph-mode #randView, body.graph-mode #wikiView { display:none; }
     font-size:19px; box-shadow:0 4px 14px rgba(0,0,0,.18);
   }
   #graphView { position:relative; }
-  .graph-top { position:absolute; top:62px; left:10px; right:10px; z-index:125; padding:0; border-bottom:none; background:none; }
+  .graph-top { position:absolute; top:62px; left:10px; right:10px; z-index:125; padding:0; border-bottom:none; background:none; pointer-events:none; }
+  .graph-controls { pointer-events:auto; }
   .graph-controls {
     display:none; flex-direction:column; gap:10px;
     background:var(--panel); border:1px solid var(--line2); border-radius:12px;

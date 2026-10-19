@@ -1504,7 +1504,26 @@ window.fcSwitchView = switchView;
   const lbb = document.getElementById('libBrowseBtn');
   if (lbb) lbb.addEventListener('click', function () {
     document.body.classList.toggle('lib-browse-open');
+    fillSectionSelect();
   });
+  // mobile: the Browse sheet gets a section dropdown built from the tree —
+  // picking an option navigates exactly like tapping that tree row
+  function fillSectionSelect() {
+    const sel = document.getElementById('libSectionSelect');
+    if (!sel || sel.options.length > 1) return;
+    const rows = document.querySelectorAll('#tree .trow');
+    rows.forEach(function (r) {
+      const o = document.createElement('option');
+      o.value = r.dataset.eid;
+      const depth = Math.max(0, Math.round((parseInt(r.style.paddingLeft, 10) || 7) - 7) / 14);
+      o.textContent = '\u00a0\u00a0'.repeat(depth) + (r.textContent || '').replace(/\s+/g, ' ').trim().slice(0, 60);
+      sel.appendChild(o);
+    });
+    sel.addEventListener('change', function () {
+      const row = document.querySelector('#tree .trow[data-eid="' + sel.value + '"]');
+      if (row) row.click();
+    });
+  }
 })();
 $('tabRand').addEventListener('click', () => switchView('rand'));
 $('tabWiki').addEventListener('click', () => switchView('wiki'));
@@ -2715,7 +2734,7 @@ function saveWatched(){ try { localStorage.setItem('acadWatched', JSON.stringify
 function switchView(v){
   // hijack for academy only when called with 'academy'
   if(v==='academy'){
-    document.body.classList.remove('rand-mode','wiki-mode');
+    document.body.classList.remove('rand-mode','wiki-mode','graph-mode');
     document.body.classList.add('academy-mode');
     $('tabRand').classList.remove('active');
     $('tabWiki').classList.remove('active');
@@ -2725,7 +2744,7 @@ function switchView(v){
   }
   // hijack for gallery only when called with 'gallery'
   if(v==='gallery'){
-    document.body.classList.remove('rand-mode','wiki-mode');
+    document.body.classList.remove('rand-mode','wiki-mode','graph-mode');
     document.body.classList.add('academy-mode'); // reuse academy-mode container
     $('tabRand').classList.remove('active');
     $('tabWiki').classList.remove('active');
