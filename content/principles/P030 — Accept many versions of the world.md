@@ -14,11 +14,18 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 
 There is no single world-description that is uniquely true; there are right versions: the physicist's, the painter's, the plumber's — each made for purposes. Move between versions fluently.
 
+Goodman's argument in Ways of Worldmaking, as this page renders it, is that worlds are made rather than found: the physicist's particles, the painter's canvas, and the plumber's pipe are versions, each right by standards internal to its purposes, none privileged as the world's one true description. What the principle draws from this is fluency: knowing which version is in play, and when to switch. A rightness-claim holds within a version; the practical skill is not mistaking the version for the whole.
+
 (Goodman, Ways of Worldmaking, 1978.)
 
-**Plain words** There's no single world-description that's uniquely true — there are right versions: the physicist's, the painter's, the plumber's, each made for purposes. Move between versions fluently. The plumber's account of the pipe beats the physicist's when the basement is flooding.
+**Plain words**
+A version is a description built for a purpose, and rightness is judged inside it: the plumber's account of the pipe beats the physicist's when the basement is flooding, and the reverse holds when the question is what the pipe is made of. The skill the principle points to is switching versions deliberately rather than defending one as if it were the only window. No version is the 'true' one; each is true to its task.
 
 *For example:* The same tree: lumber to the carpenter, home to the owl, carbon to the scientist. None is the 'true' tree; all are true trees.
+
+## Sources
+
+- Nelson Goodman, Ways of Worldmaking (Hackett, 1978) — print edition; no open web edition verified, so this page offers no verbatim quotation.
 
 ## Practice kernels
 

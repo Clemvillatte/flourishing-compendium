@@ -28,7 +28,9 @@
   "B060",
   "B143",
   "B130",
-  "P196"
+  "P196",
+  "P030",
+  "P121"
  ],
  "in_progress": null,
  "flagged": {
@@ -42,6 +44,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-19T13:55:17+00:00",
+ "updated": "2026-10-19T13:56:05+00:00",
  "band_done": false
 }
