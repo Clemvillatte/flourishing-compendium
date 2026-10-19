@@ -234,49 +234,49 @@
   {
    "into": "Yin and yang",
    "link": "CO052 \u2014 Cultivate dialectical thinking \u2014 hold contradictions without forcing resolution",
-   "why": "develops the Daodejing 2 account of co-arising opposites that CO052 carries into the cognitive framing.",
+   "why": "uses co-arising opposites in Daodejing 2 to examine apparent contradictions.",
    "notes": "Audit: CO052 cites the concept; the concept page has no CO052 mention (grep 0)."
   },
   {
    "into": "The witness",
    "link": "CO066 \u2014 Learn to take the third-person perspective \u2014 distanced self-talk improves reasoning",
-   "why": "names the observing stance in the contemplative traditions that CO066 treats as a cognitive technique.",
+   "why": "offers a psychological parallel through name-based self-reflection.",
    "notes": "Audit: CO066 cites the concept; the concept page has no CO066 mention (grep 0). Stub concept, thin content."
   },
   {
    "into": "Self-determination",
    "link": "E031 \u2014 Practise radical freedom",
-   "why": "grounds autonomy motivationally (Deci and Ryan 2000), complementing E031 existential account of freedom as responsibility.",
+   "why": "presents Sartre's freedom-as-responsibility as a philosophical parallel to motivational autonomy.",
    "notes": "Audit: E031 cites the concept; the concept page has no E031 mention (grep 0)."
   },
   {
    "into": "Openness",
    "link": "E080 \u2014 Practise the fusion of horizons",
-   "why": "names the Levinasian openness to the other that E080 pairs with Gadamer fusion of horizons.",
+   "why": "examines Gadamer's account of understanding across different horizons.",
    "notes": "Audit: E080 cites the concept; the concept page has no E080 mention (grep 0). Stub concept, thin content."
   },
   {
    "into": "D015 \u2014 Treat opposites as co-creating",
    "link": "CO052 \u2014 Cultivate dialectical thinking \u2014 hold contradictions without forcing resolution",
-   "why": "develops Daodejing 2 account of co-arising opposites.",
+   "why": "uses Daodejing 2 to examine apparent contradictions.",
    "notes": "Audit: verified 0 links each way (grep 0 both directions). Same DDJ 2 Legge passage quoted on both pages."
   },
   {
    "into": "CO052 \u2014 Cultivate dialectical thinking \u2014 hold contradictions without forcing resolution",
    "link": "D015 \u2014 Treat opposites as co-creating",
-   "why": "carries the Daoist axiom of co-arising opposites into the cognitive framing of holding contradiction.",
+   "why": "develops Daodejing 2's account of co-arising opposites.",
    "notes": "Audit: verified 0 links each way (grep 0 both directions)."
   },
   {
    "into": "E009 \u2014 Practise intersubjectivity",
    "link": "E026 \u2014 Practise being-with (Mitsein)",
-   "why": "examines the shared world through Husserl account of intersubjectivity, the phenomenological twin of E026 Mitsein.",
+   "why": "examines the shared world through Heidegger's account of Being-with.",
    "notes": "Audit: E009 philosophy parallels already cite Mitsein; no direct principle-to-principle link (grep 0)."
   },
   {
    "into": "E026 \u2014 Practise being-with (Mitsein)",
    "link": "E009 \u2014 Practise intersubjectivity",
-   "why": "grounds being-with in Heidegger structural account, complementing E009 Husserlian intersubjectivity.",
+   "why": "examines the shared world through Husserl's account of intersubjectivity.",
    "notes": "Audit: verified 0 direct principle-to-principle links (grep 0)."
   }
  ],
