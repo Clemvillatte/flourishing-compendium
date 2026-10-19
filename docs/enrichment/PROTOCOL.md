@@ -85,3 +85,8 @@ Then:
   "missing_concepts": [{"title": "Ethics of care", "seed": "Noddings 1984; Tronto 1993", "why": "..."}],
   "sources_checked": 34 }
 ```
+
+## 7. SAVE EARLY AND OFTEN (non-negotiable)
+Anything not pushed to GitHub is lost if the session or trial ends. After EVERY finished concept (and after writing the batch log / proposals) run:
+`scripts/enrich_save.sh "enrich: <concept> (<batch>)"` — it commits and pushes safely (file-locked, safe for parallel agents).
+Write the batch log incrementally (add each concept to `done` as you finish it), not only at the end.
