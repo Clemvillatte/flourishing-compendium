@@ -39,17 +39,21 @@
   "B170",
   "R002",
   "A010",
+  "D003",
   "AF036",
-  "AT070",
-  "B003"
+  "B003",
+  "AT070"
  ],
- "in_progress": "D003",
+ "in_progress": null,
  "flagged": {
   "E012": "Reopened for QC: Implement independent advisor attribution and locator corrections using previously opened Walsh passages",
-  "D003": "Reopened for QC: QC correction: item-25 advisor fixes (quote capitalization/punctuation, scoped analogy, plain words question, imagined-action example)"
+  "D003": "Reopened for QC: QC correction: item-25 advisor fixes (quote capitalization/punctuation, scoped analogy, plain words question, imagined-action example)",
+  "AF036": "Reopened for QC: QC correction: item-25 advisor fixes (full Veale quote continuation, attribution wording)",
+  "B003": "Reopened for QC: QC correction: item-25 advisor fixes (drop unverified Milindapanha paraphrase, scope process claim, fix example)",
+  "AT070": "Reopened for QC: QC correction: item-25 advisor fixes (trainability grounding, soften 'always')"
  },
  "missing_concepts": [],
  "sources_checked": 28,
- "updated": "2026-10-19T13:10:44+00:00",
+ "updated": "2026-10-19T13:11:19+00:00",
  "band_done": false
 }

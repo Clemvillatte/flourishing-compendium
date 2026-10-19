@@ -12,13 +12,13 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 3** — Act through wu wei: non-forcing
 
-The Daodejing's formula is not inaction but non-forcing. Chapter 37: "The Tao in its regular course does nothing (for the sake of doing it), and so there is nothing which it does not do." The sage works the same way: "Therefore the sage manages affairs without doing anything, and conveys his instructions without the use of speech." Chapter 48 describes it as a subtractive discipline: "He who devotes himself to the Tao (seeks) from day to day to diminish (his doing). He diminishes it and again diminishes it, till he arrives at doing nothing (on purpose). Having arrived at this point of non-action, there is nothing which he does not do." And chapter 63 names the manner directly: "(It is the way of the Tao) to act without (thinking of) acting; to conduct affairs without (feeling the) trouble of them." The compendium's reading: this is a skill, not a passivity, like a skilled hand that works with the material instead of against it. Forcing is effort still fighting the material; wu wei is what effort looks like once it stops.
+The Daodejing's formula is not inaction but non-forcing. Chapter 37 gives it in one line: "The Tao in its regular course does nothing (for the sake of doing it), and so there is nothing which it does not do." The sage is the human version of the same: "Therefore the sage manages affairs without doing anything, and conveys his instructions without the use of speech." Chapter 48 makes it a subtractive discipline: "He who devotes himself to learning (seeks) from day to day to increase (his knowledge); he who devotes himself to the Tao (seeks) from day to day to diminish (his doing). He diminishes it and again diminishes it, till he arrives at doing nothing (on purpose). Having arrived at this point of non-action, there is nothing which he does not do." Chapter 63 names the manner in passing: acting without thinking of acting, conducting affairs without feeling their trouble. As a practical analogy, consider a skilled hand working with its material rather than against it: forcing is effort still fighting the material, and wu wei is what effort looks like once it stops. The compendium's reading, offered as a reading: this is a skill, not a passivity.
 
 (DDJ 2, 37, 48, 63.)
 
-**Plain words** Wu wei doesn't mean doing nothing. It means doing things without shoving — no gripping, straining, or coercing. A skilled hand works with the material, not against it. When you feel yourself pushing hard against something, that's usually a sign you're doing wu wei backwards.
+**Plain words** Wu wei doesn't mean doing nothing. It means doing things without shoving — no gripping, straining, or coercing. When you feel yourself pushing hard against something, it's worth asking whether the pushing is needed, or whether it's just interference.
 
-*For example:* A good teacher doesn't drill facts into students; they set up conditions where curiosity does the pulling.
+*For example:* A teacher offers a problem and lets the students wrestle with it, instead of directing every step.
 
 ## Stories
 
