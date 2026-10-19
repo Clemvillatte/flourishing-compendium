@@ -11,9 +11,10 @@
   "P147",
   "P184",
   "B010",
-  "B018"
+  "B018",
+  "B024"
  ],
- "in_progress": "B024",
+ "in_progress": null,
  "flagged": {},
  "missing_concepts": [
   {
@@ -22,6 +23,6 @@
    "why": "Standalone concept file absent after exact-title and filename searches; Growth through practice exists and is not missing."
   }
  ],
- "sources_checked": 30,
- "updated": "2026-10-19T14:57:28+00:00"
+ "sources_checked": 32,
+ "updated": "2026-10-19T14:58:19+00:00"
 }
