@@ -12,13 +12,16 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 163** — Carry jade in coarse cloth
 
-The sage wears haircloth and carries jade in his bosom: real worth travels under plain cover. Stop packaging yourself.
+The sage wears haircloth and carries jade in his bosom: real worth travels under plain cover. Chapter 70 of the Daodejing gives the image at the end of a complaint about being misunderstood:
 
-(DDJ 70.)
+> "They who know me are few, and I am on that account (the more) to be prized. It is thus that the sage wears (a poor garb of) hair cloth, while he carries his (signet of) jade in his bosom."
+> (DDJ 70, [Legge's translation](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
-**Plain words** The sage wears haircloth and carries jade in his bosom — real worth travels under plain cover. Stop packaging yourself. The energy spent on presentation is energy not spent on substance, and people can taste the difference.
+The chapter opens by saying its words are very easy to know and very easy to practise, yet no one in the world manages either. The jade line is the consolation attached to that: being unrecognized outside does not change what is carried inside. The compendium's application: stop packaging yourself. (DDJ 70.)
 
-*For example:* The consultant in the plain jacket who quietly solves the problem — versus the deck-per-hour competitor with less underneath.
+**Plain words** The image splits worth from its wrapper. The haircloth is what people see first; the jade is what you actually carry. Packaging effort is spent on being seen correctly, and it is a different budget from the one spent on having something to see. Before improving the wrapper, check the jade is real.
+
+*For example:* Suppose you are choosing between polishing a presentation and checking the work behind it. The principle calls the second one the jade and the first one haircloth; it does not promise anyone will notice the difference.
 
 ## Stories
 
