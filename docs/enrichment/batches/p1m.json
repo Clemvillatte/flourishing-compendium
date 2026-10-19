@@ -14,9 +14,10 @@
   "B018",
   "B024",
   "B037",
-  "B050"
+  "B050",
+  "B068"
  ],
- "in_progress": "B068",
+ "in_progress": null,
  "flagged": {
   "B034": "Research-selection error: B034 is outside p1m and already complete in p1i. No B034 content or source-ledger edits were made; clear mistaken in_progress and continue with manifest B037."
  },
@@ -27,6 +28,6 @@
    "why": "Standalone concept file absent after exact-title and filename searches; Growth through practice exists and is not missing."
   }
  ],
- "sources_checked": 38,
- "updated": "2026-10-19T15:03:04+00:00"
+ "sources_checked": 40,
+ "updated": "2026-10-19T15:04:13+00:00"
 }
