@@ -398,3 +398,8 @@ Advisor QC (2026-10-19): quotes verified (BQ1 ch. 22 sentence, BQ2 ch. 68 verse 
 - AT064: advisor round 2 fixes applied. Ward 2017 abstract now verified via an actual fetch of the UChicago journals record (https://www.journals.uchicago.edu/doi/10.1086/691462) — quoted sentence confirmed word-for-word. "A direct replication... found no effect" replaced with "The review reports a replication that did not detect a phone-presence effect". "Strongest empirical anchor" replaced with neutral introduction. Plain words duplication fixed: replaced with a labelled compendium two-session comparison; "decision you never have to make again" and "Design once, benefit daily" guarantees removed. Item remains done pending advisor acceptance of this round.
 - Correction to the previous entry: the claim that "items 2-14 carried no QC" is narrowed to "AT064 and BE001 had not received QC before this milestone"; other items' QC status is per their own ledger entries and the resumed history.
 - WIP/QC commits audited for accidental cross-band files: none (only p1e files included).
+
+## QC round 3 outcome (2026-10-20, worker-p1e-4f2c9b1d)
+
+- BE001: advisor PASS. Marking done. Acceptance covers the revised content; inherited parallels (Martell 2001, Dimidjian 2011, Aristotle, Sartre, Buddhism) remain flagged as unverified.
+- AT064: conditional PASS on one literal fix — Sources entry "direct replication finding no presence effect" to be replaced with "replication that did not detect a phone-presence effect" to match the body's evidential limit. Will apply, validate, record acceptance, then done.
