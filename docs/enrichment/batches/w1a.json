@@ -1,11 +1,12 @@
 {
  "batch": "w1a",
  "done": [
-  "Ubuntu"
+  "Ubuntu",
+  "Freedom"
  ],
- "in_progress": "Freedom",
+ "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 5,
- "updated": "2026-10-19T07:00:08+00:00"
+ "updated": "2026-10-19T07:05:32+00:00"
 }

@@ -1,7 +1,8 @@
 {
  "batch": "w1a",
  "done": [
-  "Ubuntu"
+  "Ubuntu",
+  "Freedom"
  ],
  "flagged": {},
  "missing_concepts": [],
@@ -178,7 +179,17 @@
    "target": "content/concepts/The need to belong.md",
    "concept": "Ubuntu",
    "why": "ubuntu gives the belonging need a philosophical formulation"
+  },
+  {
+   "target": "content/concepts/Equanimity.md",
+   "concept": "Freedom",
+   "why": "equanimity is the fruit of freedom of judgment (Stoic face)"
+  },
+  {
+   "target": "content/concepts/Bad faith.md",
+   "concept": "Freedom",
+   "why": "bad faith is the refusal of freedom in Sartre's sense"
   }
  ],
- "notes": "Ubuntu v2 after advisor QC: citation fixed to SAJP 32(2); etymology claim removed; Tutu quote splice fixed; amnesty claim limited to Tutu's reading; debate wording neutralised; Mandela story framed as compendium illustration; tension question added; subheads + hyperlinked sources per owner request; related list 12 (added Relational autonomy, The need to belong). Rejected inline: ST228 (already externally linked), Relational ontology (mention sits inside a Ramose book title; thematic link deferred). Deferred: layers/books/reference pages (R-S01, R Reference, book R, ST, ST-S06) - structural pages, revisit later. Mention pass complete (--max 100)."
+ "notes": "Ubuntu v2 after advisor QC: citation fixed to SAJP 32(2); etymology claim removed; Tutu quote splice fixed; amnesty claim limited to Tutu's reading; debate wording neutralised; Mandela story framed as compendium illustration; tension question added; subheads + hyperlinked sources per owner request; related list 12 (added Relational autonomy, The need to belong). Rejected inline: ST228 (already externally linked), Relational ontology (mention sits inside a Ramose book title; thematic link deferred). Deferred: layers/books/reference pages (R-S01, R Reference, book R, ST, ST-S06) - structural pages, revisit later. Mention pass complete (--max 100). | Freedom: enriched from SEP liberty-positive-negative (Berlin two questions, MacCallum triad), IEP Spinoza (E1d7), IEP Epictetus, SEP Sartre/Merleau-Ponty, Fromm, Kierkegaard. Mention pass complete: plain-text 'freedom' occurrences in principles are mostly incidental uses, no inline proposals (recorded as deliberate). Related list: 8 family members (already mutual) + Equanimity + Bad faith (reciprocals queued). All 15 original links preserved."
 }
