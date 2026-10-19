@@ -14,11 +14,25 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 
 Choose words that build understanding rather than walls: even hard truths can be spoken in a way the listener can receive.
 
-(Thích Nhất Hạnh; Dhammapada 223.)
+The Dhammapada grounds the practice in what speech does to its hearer. Harsh speech hurts and invites retaliation, and the remedy it names is the removal of vindictiveness rather than the addition of sweetness:
 
-**Plain words** Choose words that build understanding rather than walls — even hard truths can be spoken in a way the listener can receive. The same medicine, in a capsule instead of a slap. Delivery isn't decoration; it's half the pharmacology.
+> "133. Speak not harshly to anyone, for those thus spoken to might retort. Indeed, angry speech hurts, and retaliation may overtake you.
+>
+> 134. If, like a broken gong, you silence yourself, you have approached Nibbana, for vindictiveness is no longer in you." (Dhammapada 133-134, [Buddharakkhita](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.10.budd.html))
 
-*For example:* 'Your code has a bug' versus 'want to look at something odd I found?' — same information, one of them gets a better codebase.
+Verse 223 generalizes the move: "Overcome the angry by non-anger; overcome the wicked by goodness; overcome the miser by generosity; overcome the liar by truth." Loving speech in this tradition is that answering-with-the-opposite, applied to the voice.
+
+(Thích Nhất Hạnh; Dhammapada 133-134, 223.)
+
+**Plain words**
+When you speak with a sting, the listener answers the sting and the point gets lost in the reply. Say the same thing without it, and the listener meets the information instead of your mood. That is the whole craft: the same truth, delivered so it can be heard.
+
+**For example**
+'Your code has a bug' versus 'want to look at something odd I found?' — same information, one of them gets a better codebase.
+
+## Sources
+
+- [Dhammapada, trans. Acharya Buddharakkhita (Access to Insight)](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.10.budd.html) — vv. 133-134; [ch. 17](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.17.budd.html) v. 223
 
 ## Stories
 
@@ -35,7 +49,8 @@ Choose words that build understanding rather than walls: even hard truths can be
 ## Philosophy parallels
 
 - **[[Nonviolent communication|Nonviolent communication]]** (Rosenberg, Nonviolent Communication)
-- **Loving speech as practice** (Hanh, The Art of Communicating)- **[[Metta (loving-kindness)|Metta]]** (Buddhism, Sn 1.8)
+- **Loving speech as practice** (Hanh, The Art of Communicating)
+- **[[Metta (loving-kindness)|Metta]]** (Buddhism, Sn 1.8)
 
 
 <!-- fc: reflections

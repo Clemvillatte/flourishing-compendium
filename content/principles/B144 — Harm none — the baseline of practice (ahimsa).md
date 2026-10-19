@@ -14,11 +14,25 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 
 Before any technique, any insight: reduce the harm your existence causes — to others, to yourself, to what lives.
 
-(Dhammapada 129-130; AN 10.176.)
+The Dhammapada's reasoning is substitution rather than rule. It asks you to notice what every living thing has in common — it trembles at violence, it holds its life dear — and to act from that:
 
-**Plain words** Before any technique, any insight — reduce the harm your existence causes: to others, to yourself, to what lives. Ahimsa is the floor, not the ceiling. Everything else in the practice is decoration on a floor you haven't poured yet.
+> "129. All tremble at violence; all fear death. Putting oneself in the place of another, one should not kill nor cause another to kill.
+>
+> 130. All tremble at violence; life is dear to all. Putting oneself in the place of another, one should not kill nor cause another to kill." (Dhammapada 129-130, [Buddharakkhita](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.10.budd.html))
 
-*For example:* The ruthless meditator: serene on the cushion, brutal to the staff — the ceiling is gorgeous; there's no floor.
+Verse 142 of the same chapter puts the practitioner's test plainly: even one well-attired is a holy man only if "poised, calm, controlled and established in the holy life, having set aside violence towards all beings". The non-harming comes first, and the rest of the training stands on it.
+
+(Dhammapada 129-130, 142; AN 10.176.)
+
+**Plain words**
+The verses argue from shared vulnerability: what you fear, everything that lives fears. That gives a portable test for an action: would you accept its receiving end? The training asks for that check before any technique or insight, because whatever else the practice adds stands on how you treat what is vulnerable.
+
+**For example**
+The ruthless meditator: serene on the cushion, brutal to the staff — the ceiling is gorgeous; there's no floor.
+
+## Sources
+
+- [Dhammapada, trans. Acharya Buddharakkhita (Access to Insight)](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.10.budd.html) — vv. 129-130, 142
 
 ## Stories
 
