@@ -7,35 +7,41 @@ file: "The relational self"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The relational self is the idea that a person's self exists in and through their relationships: who you are is partly constituted by bonds with parents, partners, friends and communities, not assembled first and connected later. In philosophy its touchstone is Martin Buber's I and Thou (1923), where the self "is a part of reality only insofar as it is relational" ([IEP](https://iep.utm.edu/martin-buber/)). In psychology it names Susan Andersen and Serena Chen's theory of a self whose knowledge is organized around significant others ([Andersen and Chen 2002](https://pubmed.ncbi.nlm.nih.gov/12374322/)). Kenneth Gergen's Relational Being (2009) and Jennifer Nedelsky's Law's Relations (2011) extend the same critique of the bounded, self-made individual into social theory and law.
+The relational self is the idea that a person's self exists in and through their relationships: a person is partly constituted by bonds with parents, partners, friends and communities rather than assembled first and connected later. In philosophy its touchstone is Martin Buber's I and Thou (1923); the Internet Encyclopedia of Philosophy renders its anthropology in the line that "the self is a part of reality only insofar as it is relational" ([IEP](https://iep.utm.edu/martin-buber/)). In psychology the same words name Susan Andersen and Serena Chen's theory of a self whose knowledge is organized around significant others ([Andersen and Chen 2002](https://pubmed.ncbi.nlm.nih.gov/12374322/)). Kenneth Gergen's Relational Being (2009) and Jennifer Nedelsky's Law's Relations (2011) give the idea a social-constructionist and a legal-theoretical form.
 
 ### Buber's between
 
-Buber distinguishes two modes of meeting. In the I-It relation the other is taken as "a classified and hence predictable and manipulable object"; in the I-Thou relation the other is known "without being subsumed under a universal" ([IEP](https://iep.utm.edu/martin-buber/)). In genuine encounter both participants exist "as polarities of relation, whose center lies in the between," and "man becomes whole not in relation to himself but only through a relation to another self."
+Buber distinguishes two modes of existence. In the I-It relation, in the IEP's paraphrase, the other is taken "as a classified and hence predictable and manipulable object"; in the I-Thou relation the other is known "without being subsumed under a universal" ([IEP](https://iep.utm.edu/martin-buber/)). In the I-Thou relation both participants exist "as polarities of relation, whose center lies in the between," and "man becomes whole not in relation to himself but only through a relation to another self."
 
-### The self you have with each person
+### The self one is with each person
 
-Psychology gives the idea a mechanism. In Andersen and Chen's theory, knowledge about the self is linked in memory with knowledge about significant others, and "each linkage embodies a self-other relationship." When a new person resembles a significant other, that representation activates in the social-cognitive phenomenon of transference and evokes the version of the self one is in that relationship. The result is a repertoire of relational selves that function "in if-then terms," carrying patterns of affect, motivation and self-regulation. The self with your mother and the self at work are different, and both are you.
+Andersen and Chen's psychology develops a distinct account. Knowledge about the self is linked in memory with knowledge about significant others, and "each linkage embodies a self-other relationship." When a new person resembles a significant other, that representation activates in the social-cognitive phenomenon of transference and evokes the version of the self one is in that relationship.
+
+The result is a repertoire of relational selves that function "in if-then terms," carrying patterns of affect, motivation and self-regulation. The self one is with a parent can differ from the self one is at work, and each is that person's self in that relationship.
 
 ### How far the relation goes
 
-Constantine Sedikides, Lowell Gaertner and Erin O'Mara compared the individual, relational and collective selves across imagined loss, threat and life goals in China and the United States. Their conclusion was a hierarchy: the individual self is motivationally primary, the relational self second and closest to it, the collective third ([Sedikides et al. 2011](https://ecommons.udayton.edu/cgi/viewcontent.cgi?article=1037&context=psy_fac_pub)). The evidence supports a real, emotionally loaded relational self without dissolving the person into it. Gergen goes further, holding that "the origin of all meaning lies within collaborative action (co-action)" ([Gergen 2011](https://www.tandfonline.com/doi/full/10.1080/10720537.2011.593453)); Nedelsky draws the consequence for autonomy, which she argues people develop with others, through parents, teachers and institutions, not in isolation from them ([Nedelsky 2011](https://books.google.com/books/about/Law_s_Relations.html?id=TbfD8mtW-LIC)).
+Constantine Sedikides, Lowell Gaertner and Erin O'Mara compared the individual, relational and collective selves across imagined loss, threat and life goals in China and the United States. Their reported findings were a hierarchy: the individual self motivationally primary, the relational second and closest to it, the collective third ([Sedikides et al. 2011](https://ecommons.udayton.edu/cgi/viewcontent.cgi?article=1037&context=psy_fac_pub)). The hierarchy is motivational, in these tests; it does not settle Buber's ontological claim.
+
+Gergen argues the stronger case, that "the origin of all meaning lies within collaborative action (co-action)" ([Gergen 2011](https://www.tandfonline.com/doi/full/10.1080/10720537.2011.593453)). Nedelsky draws the consequence for autonomy: people "become autonomous with others," with parents, teachers, employers and the state, and relationships and social structures can foster or undermine the capacity ([Nedelsky 2011](https://books.google.com/books/about/Law_s_Relations.html?id=TbfD8mtW-LIC)).
 
 ### In the compendium
 
-SE052 "Cultivate the relational self: self-in-connection is not weakness" carries the concept directly, noting that in many cultures a self defined through relationships is the norm. R082 and R099 give it Buber's ontological reading, with meaning located in the Between; R081 teaches I-Thou and E026 Heidegger's Mitsein. R001, R026 and R040 ground it in Ubuntu and Māori practice, and R130 extends it beyond the human. SE049 states the multiplicity that Andersen and Chen model. The story ST238 shows the repair at world scale: Moana's voyage restores goddess, tradition and community together.
+SE052 "Cultivate the relational self — self-in-connection is not weakness" carries the concept directly, noting that in many cultures a self defined through relationships is the norm. R082 and R099 give it Buber's ontological reading, with meaning located in the Between; R081 teaches I-Thou and E026 Heidegger's Mitsein.
+
+R001, R026 and R040 ground it in Ubuntu and Māori practice, and R130 extends it beyond the human. SE049 states the multiplicity that Andersen and Chen model. The compendium's story ST238 illustrates repair at world scale, with Moana's voyage restoring goddess, tradition and community together.
 
 ## Related concepts
 
-- [[I and Thou]] — Buber's mode of meeting from which the relational self is built
-- [[The Between]] — the shared space where Buber locates relation itself
-- [[Being-with (Mitsein)]] — Heidegger's name for existence as co-existence
-- [[Ubuntu]] — personhood constituted through others, the African formulation
-- [[Interdependent self-construal]] — the cultural-psychology version of self-in-relation
-- [[Attachment theory]] — early bonds as a raw material of relational selves
-- [[The social self]] — the different selves carried by different relationships
-- [[The observing self]] — the vantage that is not any of its relations
-- [[Co-regulation in relationships]] — affect itself shaped between people
+- [[I and Thou]] — Buber's dialogue, named in this page's seed as its source
+- [[The Between]] — Buber's name for the shared space of relation, which R099 treats as ontological
+- [[Being-with (Mitsein)]] — the Heideggerian parallel the compendium pairs via E026
+- [[Ubuntu]] — personhood constituted through others, the parallel R001 carries
+- [[Interdependent self-construal]] — the cultural-psychology parallel of a self defined through close relations
+- [[Attachment theory]] — early bonds as a parallel substrate of relational selves
+- [[The social self]] — different selves in different relationships, the SE049 parallel
+- [[The observing self]] — the counterpart vantage: awareness rather than relation
+- [[Co-regulation in relationships]] — affect as a between-people process, the parallel in emotion research
 
 ## Sources
 
