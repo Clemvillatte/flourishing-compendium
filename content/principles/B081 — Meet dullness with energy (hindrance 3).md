@@ -13,17 +13,19 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 
 > **Principle 81** — Meet dullness with energy (hindrance 3)
 
-MN 10 names sloth and drowsiness as one of the five hindrances the meditator is to notice; SN 46.53 gives the corresponding remedy for a sluggish mind. The sutta does not treat dullness as a fault to be suppressed. It treats it as a condition to be met with specific qualities, and it names them: analysis of qualities, persistence, rapture ([MN 10](https://accesstoinsight.org/tipitaka/mn/mn.010.than.html), [SN 46.53](https://www.accesstoinsight.org/tipitaka/sn/sn46/sn46.053.than.html)).
+MN 10 includes sloth and drowsiness among the hindrances a meditator examines; SN 46.53 recommends developing analysis of qualities, persistence and rapture when the mind is sluggish ([MN 10, "Mental Qualities"](https://accesstoinsight.org/tipitaka/mn/mn.010.than.html); [SN 46.53](https://www.accesstoinsight.org/tipitaka/sn/sn46/sn46.053.than.html)).
 
-> Now, on any occasion when the mind is sluggish, that is the right time to develop analysis of qualities as a factor for awakening, persistence as a factor for awakening, rapture as a factor for awakening. Why is that? The sluggish mind is easy to raise up by those mental qualities.
->
-> — Samyutta Nikaya 46.53, Aggi Sutta ([Thanissaro Bhikkhu, AccessToInsight](https://www.accesstoinsight.org/tipitaka/sn/sn46/sn46.053.than.html))
+> "The sluggish mind is easy to raise up by those mental qualities." (SN 46.53, referring to the three factors above, trans. Thanissaro Bhikkhu, [text](https://www.accesstoinsight.org/tipitaka/sn/sn46/sn46.053.than.html))
 
-**Plain words** The compendium's application of the sutta is to read dullness in meditation as a state that the practice itself gives a remedy for. The sutta's own comparison is a small fire: a sluggish mind is easy to raise up by the named qualities, the way a small fire is easy to grow by adding dry material. The practitioner's job is to notice the sluggishness, then to bring in those named qualities rather than only pushing harder at concentration.
+Its small-fire image explains the contrast: adding wet material will not make a weak fire blaze, whereas dry fuel and air can. For a restless mind, the discourse reverses the instruction and recommends calming factors (SN 46.53, [text](https://www.accesstoinsight.org/tipitaka/sn/sn46/sn46.053.than.html)).
 
-For example (imagined): a practitioner sitting to meditate notices heavy eyelids and drifting attention. They take up the sutta's instruction in its own terms: bringing analysis of qualities and persistence into the sitting, rather than treating the dullness itself as the target to attack.
+### Plain words
 
-(MN 10; SN 46.53.)
+Ask what is happening to your attention before automatically trying to become calmer. If it is fading, the compendium suggests bringing curiosity to the experience and renewing your intention to practise. This is a way to explore the instruction, not a requirement to override exhaustion or treat every kind of tiredness as a meditation problem.
+
+### For example
+
+Imagine beginning a sitting and repeatedly losing track of the task. Identify what you are trying to observe and take a fresh interest in one detail. If you are too tired to continue usefully, that is also relevant information; the example does not promise that effort substitutes for sleep.
 
 ## Practice kernels
 
@@ -33,8 +35,8 @@ For example (imagined): a practitioner sitting to meditate notices heavy eyelids
 - [[K199 — Energy matching|K199 Energy matching]]
 ## Psychology parallels
 
-- **[[Arousal regulation|Arousal regulation]]**, postural and environmental interventions for low energy (Yerkes-Dodson)
-- **Sleep debt effects** (Walker, 2017)
+- **[[Arousal regulation|Arousal regulation]]**: Yerkes and Dodson studied shock intensity and visual-discrimination learning in mice; their original experiment did not test posture or meditation ([1908, pp. 459-463](https://psychclassics.yorku.ca/Yerkes/Law/?source=post_page)).
+- **Sleep restriction**: a laboratory study found cumulative cognitive-performance deficits after repeated four- or six-hour sleep opportunities; it does not identify a meditation remedy ([Van Dongen et al., 2003, abstract](https://academic.oup.com/sleep/article/26/2/117/2709164)).
 
 ## Philosophy parallels
 
