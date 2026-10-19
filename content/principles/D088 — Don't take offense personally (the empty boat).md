@@ -17,11 +17,11 @@ If an empty boat drifts into yours, you don't scream at it. Zhuangzi tells the p
 > "If a man is crossing a river in a boat, and another empty vessel comes into collision with it, even though he be a man of a choleric temper, he will not be angry with it. If there be a person, however, in that boat, he will bawl out to him to haul out of the way."
 > (Zhuangzi 20, [Legge's translation](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
 
-The damage is the same in both cases; the shout only starts when there is someone in the boat to blame. The choleric man's temper appears with the thought of an agent, not with the collision. Zhuangzi draws the lesson on the offended side: "If a man can empty himself of himself, during his time in the world, who can harm him?" (Zhuangzi 20, Legge.) The compendium's application: most collisions in life are empty boats, people driven by their own currents rather than aimed at you. (Zhuangzi 20.)
+The shout only starts when there is someone in the boat to blame: the choleric man's temper appears with the thought of an agent, not with the collision. Zhuangzi closes on the offended side: "If a man can empty himself of himself, during his time in the world, who can harm him?" (Zhuangzi 20, Legge.) The compendium's application is a reading to try rather than a settled fact about frequency: treat the collision as an empty boat first, drifting on its own current rather than aimed at you, and see what changes. (Zhuangzi 20.)
 
-**Plain words** The bump was real; the aim was invented. Before you answer a slight, ask what evidence you actually have that it was aimed at you. If there is none, treat it as drift and spend your response on the damage rather than on the insult.
+**Plain words** Before answering a slight, separate what happened from what you suspect was intended. Ask what needs fixing and what you actually know about the other person's purpose. You can respond to the problem without first deciding that they meant to hurt you.
 
-*For example:* Suppose a driver cuts you off. You know the gap you now have to the car in front, and nothing about the other driver's mind. The empty-boat reading is to adjust your speed and drop the case against them.
+*For example:* Suppose a driver cuts you off. You know the gap you now have to the car in front, and nothing about the other driver's purpose. The empty-boat reading is to adjust your speed first and leave the question of their intention open.
 
 ## Stories
 

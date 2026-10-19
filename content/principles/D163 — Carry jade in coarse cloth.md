@@ -17,11 +17,11 @@ The sage wears haircloth and carries jade in his bosom: real worth travels under
 > "They who know me are few, and I am on that account (the more) to be prized. It is thus that the sage wears (a poor garb of) hair cloth, while he carries his (signet of) jade in his bosom."
 > (DDJ 70, [Legge's translation](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
-The chapter opens by saying its words are very easy to know and very easy to practise, yet no one in the world manages either. The jade line is the consolation attached to that: being unrecognized outside does not change what is carried inside. The compendium's application: stop packaging yourself. (DDJ 70.)
+The chapter opens by saying its words are very easy to know and very easy to practise, yet there is no one able to know and practise them. The jade line can be read as the consolation attached to that: being unrecognized outside does not change what is carried inside. The compendium's application: stop packaging yourself. (DDJ 70.)
 
-**Plain words** The image splits worth from its wrapper. The haircloth is what people see first; the jade is what you actually carry. Packaging effort is spent on being seen correctly, and it is a different budget from the one spent on having something to see. Before improving the wrapper, check the jade is real.
+**Plain words** The image splits worth from its covering. The haircloth is the plain covering people see; the jade is what is actually carried. On the compendium's analogy, checking the work is attending to the jade, and presenting sound work plainly is the coarse covering. The chapter does not say this about presentations; it is an application of the image, not a quotation of it.
 
-*For example:* Suppose you are choosing between polishing a presentation and checking the work behind it. The principle calls the second one the jade and the first one haircloth; it does not promise anyone will notice the difference.
+*For example:* Suppose you are choosing between polishing a presentation and checking the work behind it. The analogy calls the second one the jade and the first one haircloth; it does not promise anyone will notice the difference.
 
 ## Stories
 

@@ -17,11 +17,11 @@ The True Person breathes from the depths: a breath that reaches the heels, not a
 > "Their breathing came deep and silently. The breathing of the true man comes (even) from his heels, while men generally breathe (only) from their throats."
 > (Zhuangzi 6, [Legge's translation](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
 
-The lines that follow apply the gauge to argument: when men are defeated in argument, "their words come from their gullets as if they were vomiting. Where lusts and desires are deep, the springs of the Heavenly are shallow." The breath reads out what is running a person. The practice the compendium takes from this: lengthen and deepen the exhale; let breath slow the mind. (Zhuangzi 6.)
+The lines that follow apply the contrast to argument: when men are defeated in argument, "their words come from their gullets as if they were vomiting. Where lusts and desires are deep, the springs of the Heavenly are shallow." The chapter gives breath as part of its portrait of the true man, deep and silent where other men's is hurried. The compendium's modern application is a reflective pause rather than a physiological protocol: when you notice your own breath is hurried and high, pause for one slower exhale and notice what changes. (Zhuangzi 6.)
 
-**Plain words** Legge's true man is marked out by how he breathes: deep and silent, from the heels; other men, from the throat. The gauge runs both ways, so you can use it on yourself. Notice where your breath is coming from right now; a throat-breath is a reading, not a verdict. Lengthen the exhale and see what the mind does as the breath settles.
+**Plain words** Legge's true man is marked out by how he breathes: deep and silent, from the heels; other men, from the throat. The chapter uses the breath as part of a portrait, not as a diagnostic test you can run on yourself. A reflective use: notice where your breath is coming from right now, and treat what you notice as a prompt to pause, not as a verdict on your state.
 
-*For example:* Suppose you are about to give a difficult answer in a meeting. One slow exhale first. The pause costs a second and buys a breath that is not from the throat.
+*For example:* Suppose you are about to give a difficult answer in a meeting. Take one slower exhale first. The exercise is a pause, and the pause is the point; the chapter does not promise a particular effect from it.
 
 ## Stories
 

@@ -40,3 +40,16 @@ Item-level record of sources actually opened by genuineflourishing33 for band p1
 - Opened: Legge's Tao Teh King, Gutenberg (same URL as D074) — ch. 62 verified verbatim: verse "Bad men it guards, and doth their ill efface." (62.1); prose "Even men who are not good are not abandoned by it." (62.2); closing "it could be got by seeking for it, and the guilty could escape (from the stain of their guilt) by it" (62.4). All three quoted with locators; 62.3 (the Son of Heaven offering) read, not quoted.
 - Inherited unsupported claims removed: "You can't walk any path while carrying the boulder of self-contempt" and the relapsed-addict example presented as fact; example replaced with an explicit hypothetical.
 - Saturation: D171 already cited by Growth mindset, Grace, Buddha-nature, Dao, Behavior change wheel theory Michie; no new proposals.
+
+## Milestone QC repairs (2026-10-19, genuineflourishing33)
+
+Advisor milestone QC (items 2-6 + D074 re-review) failed on inference-level issues; all six items repaired and revalidated:
+
+- Workflow completed per advisor: search skill loaded; web searches for both Legge editions run; fetch_url re-verification of DDJ 3, DDJ 62 (Gutenberg) and the Zhuangzi ch. 20 empty-boat + ch. 6 breathing passages (ETH PDF). All quoted passages confirmed verbatim via the fetch workflow, not only the local downloads.
+- D074: inherited seed opener "A moment's rage can undo a decade of building" removed per evidence rule (inherited body prose is subject to it).
+- D088: "most collisions in life are empty boats" frequency claim and "damage is the same" claim removed; "aim was invented" replaced with intention-vs-uncertainty distinction; plain words rewritten per advisor. Backlink count corrected: D088 is cited by Hostile attribution bias, First impressions bias, Self-serving attribution bias, Judgment adds the harm (4 concept pages; earlier ledger said 5, Person-activity fit does not cite D088).
+- D117: causal claims attributed to the chapter's argument ("On Laozi's argument"); "wants" phrasing fixed to effects; example rewritten as a decision (monthly award) without the literal leaderboard claim.
+- D144: physiological inferences removed ("gauge runs both ways", "breath reads out what is running a person", "let breath slow the mind", one-second timing, guaranteed non-throat breath); exercise now framed as a modern reflective pause with no promised effect.
+- D163: analogy repaired (polishing a presentation was wrongly mapped to coarse cloth; now checking the work = jade, presenting sound work plainly = coarse covering, marked as the compendium's analogy, not the chapter's); "consolation" marked as a reading; "different budget" metaphor removed.
+- D171: "Redemption here is not a verdict others pass on you" removed; "self-forgiveness is not optional equipment" replaced with the advisor's chosen application; plain words rewritten; example switched from relapse to a broken promise (no implicit claim about addiction recovery).
+- State ordering noted: only one item in progress at a time (reopen failed for D088-D171 while D074 was in progress); work proceeded sequentially with D074 as the single reopened item.

@@ -17,11 +17,11 @@ Don't exalt the worthy or prize rare goods: ranking people creates rivalry, disp
 > "Not to value and employ men of superior ability is the way to keep the people from rivalry among themselves; not to prize articles which are difficult to procure is the way to keep them from becoming thieves; not to show them what is likely to excite their desires is the way to keep their minds from disorder."
 > (DDJ 3, [Legge's translation](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
-Each clause names a want that an institution can create or starve: rivalry, theft, restless desire. The chapter's advice is about the setup, not about lecturing the people caught in it. The compendium's application to families and teams: don't build podiums. (DDJ 3.)
+Each clause names an effect the chapter ties to public valuation: rivalry from exalting the worthy, theft from prizing rare goods, disordered desire from displaying what excites desire. The chapter's advice is about the setup, not about lecturing the people caught in it. The compendium's application to families and teams: don't build podiums. (DDJ 3.)
 
-**Plain words** Envy does not arrive on its own; it is manufactured by the arrangement. A ranking gives one person the top and everyone else a public position below them. Before you institute a spotlight or a prize, ask what the people who do not get it are now expected to feel about the ones who do. If the honest answer is rivalry, the podium is the problem.
+**Plain words** On Laozi's argument, rivalry and theft are not fixed traits; the arrangement does much of the manufacturing. A ranking gives one person the top and gives everyone else a public comparison. Before you institute a spotlight or a prize, ask what the people who do not get it are now expected to feel about the ones who do. If the honest answer is rivalry, the chapter would call the podium the problem.
 
-*For example:* An employee-of-the-month parking spot gives one person a spot and everyone else a leaderboard position. If you want to recognise someone, do it without publishing the ranking.
+*For example:* Suppose a team is considering a monthly award. Before introducing it, ask whether the recognition requires comparing colleagues. You could acknowledge a particular contribution without ranking the whole team.
 
 ## Stories
 

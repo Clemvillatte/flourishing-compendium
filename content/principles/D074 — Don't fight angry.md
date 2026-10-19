@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 74** — Don't fight angry
 
-A moment's rage can undo a decade of building. Daodejing 68 places restraint beside skill in fighting: the opening verse describes a fighter without martial display or resort to rage.
+Daodejing 68 places restraint beside skill in fighting: the opening verse describes a fighter without martial display or resort to rage.
 
 > "He who in (Tao's) wars has skill
 > Assumes no martial port;

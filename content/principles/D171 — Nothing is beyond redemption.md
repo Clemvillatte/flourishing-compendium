@@ -17,11 +17,11 @@ The Dao is the refuge of the imperfect: no one is so flawed that alignment is cl
 > "Bad men it guards, and doth their ill efface."
 > (DDJ 62, [Legge's translation](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
-The chapter's closing argument is that the ancients prized the Tao because "it could be got by seeking for it, and the guilty could escape (from the stain of their guilt) by it". Legge also renders the plainer prose line: "Even men who are not good are not abandoned by it." Redemption here is not a verdict others pass on you; it is a door that stays open by design. Extend this to yourself: self-forgiveness is not optional equipment. (DDJ 62.)
+The chapter's closing argument is that the ancients prized the Tao because "it could be got by seeking for it, and the guilty could escape (from the stain of their guilt) by it". Legge also renders the plainer prose line: "Even men who are not good are not abandoned by it." The chapter's refusal is about abandonment: no one is outside what the Tao covers. The compendium's chosen application is to oneself: after a mistake, ask what remains possible rather than passing a final judgment on the kind of person you are. (DDJ 62.)
 
-**Plain words** The chapter refuses a category of people who are too far gone. The Tao guards bad men, and the guilty can escape by it. Being guilty does not close the door, and neither does knowing you are guilty. The practice is to come back through it rather than stand outside sentencing yourself.
+**Plain words** The chapter refuses a category of people who are too far gone. The Tao guards bad men, and the guilty can escape by it. The practical use is to ask what remains possible after a mistake: identify a repair you can attempt instead of making a final judgment about the kind of person you are.
 
-*For example:* Suppose a person relapses after a long stretch clean. On this principle, the relapse does not move them into a category the Tao stopped covering; seeking starts again from where they are.
+*For example:* Suppose you break a promise you had kept for months. The chapter's picture is that the broken promise does not move you into a category the Tao stopped covering; the question becomes what repair is still possible.
 
 ## Stories
 
