@@ -12,13 +12,15 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 174** — Spend attention like money: it is your real budget
 
-Attention is the currency of life: what you attend to is what your life becomes. Budget it deliberately, guard it from waste, invest it in what compounds.
+James's formulation is the founding text of attention economics: "My experience is what I agree to attend to. Only those items which I notice shape my mind" ([James 1890, ch. XI, Gutenberg](https://www.gutenberg.org/ebooks/57628)). Millions of items are present to your senses at any moment and never enter your experience, because they have no interest for you. The world that reaches you is already the result of a selection you did not notice making.
 
-(James, The Principles of Psychology, 1890; Csikszentmihalyi, Flow, 1990.)
+This is the whole reason the principle is framed as a budget rather than a character trait. If experience were simply the world as it is, attention would not matter; you would just receive it. But because experience is the filtered version, whatever you spend your attention on is not a sample of your life; it is your life. Csikszentmihalyi's later work on flow is built on the same foundation; the quality of experience is the quality of what attention is invested in ([Csikszentmihalyi 1990, Flow](https://psycnet.apa.org/record/1990-98234-000)).
 
-**Plain words** Attention is the currency of life — what you attend to is what your life becomes. Budget it deliberately, guard it from waste, invest it in what compounds. You have roughly sixteen waking hours a day; check the statement and see where the money went.
+> "My experience is what I agree to attend to. Only those items which I notice shape my mind - without selective interest, experience is an utter chaos." (William James, The Principles of Psychology, 1890, ch. XI, [Gutenberg](https://www.gutenberg.org/ebooks/57628))
 
-*For example:* The phone audit: three hours on the feed, zero on the guitar — and 'no time to practice' was the complaint. The time existed. It was spent. Differently.
+**Plain words** You have about sixteen waking hours a day, and a very small number of things you can actually be present for. Every one of those slots you give to a feed is a slot not given to something you could later remember. This is not a moral complaint about phones; it is an accounting observation. Look at your screen-time report and your stated priorities side by side and one of them is lying.
+
+*For example:* A person complains for a year that they have no time to learn guitar. A screen-time audit shows three hours a day on a feed. The time existed. It was spent. The complaint was not about time; it was about where the time went without anyone deciding.
 
 ## Practice kernels
 
