@@ -4,8 +4,11 @@
   "D086"
  ],
  "in_progress": null,
- "flagged": {},
+ "flagged": {
+  "D086": "QC passed after fixes (advisor round 1: offer-of-office claim removed, fox quote standalone blockquote, plain words re-derived, hypothetical example). Inherited psychology-parallels claim (Kernis and Goldman 2006, authenticity/burnout) not re-verified by me; left untouched as protected link-section content"
+ },
  "missing_concepts": [],
- "sources_checked": 0,
- "updated": "2026-10-19T12:12:52+00:00"
+ "sources_checked": 1,
+ "updated": "2026-10-19T12:16:09+00:00",
+ "band_done": false
 }
