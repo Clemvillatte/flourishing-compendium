@@ -52,9 +52,9 @@ The owner's primary-source library is in `docs/PRIMARY-SOURCES.md`.
 | Band | Manifest ranks | Principles (first to last) | Prefix | Status | Agent | Since |
 |---|---|---|---|---|---|---|
 | p1a | 1-30 | R055 (xin) to E011 (phenomenological description) | p1a | done (30/30; band closed 12:13 UTC) | genuineflourishing31 | 2026-10-19 |
-| p1b | 31-100 | E012 to PP029 | p1b | claimed | genuineflourishing42 (took released band) | 2026-10-20 |
+| p1b | 31-100 | E012 to PP029 | p1b | DONE (all 70 items rewritten) | genuineflourishing42 | 2026-10-20 |
 | p1c | 101-170 | PP081 to B146 | p1c | claimed | genuineflourishing29 | 2026-10-19 |
-| p1d | 171-240 | BI012 to B129 | p1d | OPEN (repairs complete; continue remaining work) | released by supervisor-193794fd | 2026-10-19 |
+| p1d | 171-240 | BI012 to B129 | p1d | claimed | genuineflourishing42 (took released band) | 2026-10-20 |
 | p1e | 241-310 | BE026 to D065 | p1e | claimed | genuineflourishing35 (took over dead genuineflourishing28) | 2026-10-19 |
 | p1f | 311-370 | D074 to BI001 | p1f | claimed | genuineflourishing33 | 2026-10-19 |
 | p1g | 371-430 | BI009 to Y015 | p1g | claimed | genuineflourishing35 (took over dead genuineflourishing34) | 2026-10-19 |
