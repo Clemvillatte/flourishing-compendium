@@ -12,13 +12,15 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 70** — Make your nervous system your ally
 
-Keep the faculty of effort alive by practicing self-control in small unnecessary acts: a little extra cold, a little less comfort — so the will stays in training.
+James's habit chapter closes with a maxim that has been quoted for a century because it is unusually concrete: "Keep the faculty of effort alive in you by a little gratuitous exercise every day" ([James 1890, ch. IV, Gutenberg](https://www.gutenberg.org/files/55262/55262-h/55262-h.htm)). The word to notice is gratuitous. Not useful, not necessary, not efficient. The exercise does nothing for the task at hand; it keeps a capacity alive that would otherwise atrophy.
 
-(James, The Principles of Psychology, 1890 — the habit chapter.)
+James's argument runs through physiology, not moralism. If we often flinch from making an effort, the effort-making capacity will be gone before we know it; attention and effort are subject to the law of habit, which is a material law ([James 1890, ch. IV, Gutenberg](https://www.gutenberg.org/files/55262/55262-h/55262-h.htm)). The capacity is like a muscle that shrinks when unused, or like insurance that pays nothing on the day you buy it.
 
-**Plain words** The cold shower isn't for hygiene; it's for the keeping of an appointment with yourself. Practice small unnecessary acts of self-control — a little extra cold, a little less comfort — so the will stays in training.
+> "Keep the faculty of effort alive in you by a little gratuitous exercise every day. That is, be systematically ascetic or heroic in little unnecessary points, do every day or two something for no other reason than that you would rather not do it, so that when the hour of dire need draws nigh, it may find you not unnerved and untrained to stand the test." (William James, The Principles of Psychology, 1890, ch. IV, [Gutenberg](https://www.gutenberg.org/files/55262/55262-h/55262-h.htm))
 
-*For example:* Taking the stairs when the elevator's right there — pointless, tiny, and it keeps one promise you made to you. The will notices; the will keeps count.
+**Plain words** There is a version of you that gives up easily and a version that does not, and the difference is not character. It is training. The small unnecessary discomfort — the cold, the stairs, the message you do not want to send — is not about the discomfort itself. It is a deposit into a capacity that has no other way of being maintained. Skip it for a year and the day you actually need it, it will not be there. The practice does nothing today; it is the reason you are still capable of something on the day that counts.
+
+*For example:* Two colleagues both face the same hard conversation. One has spent years avoiding small discomforts — the escalator, the hard message, the extra two degrees of cold. The other has a small standing practice of doing one unnecessary hard thing a week. The conversation is equally hard for both. One of them has a nervous system that has been in training for it.
 
 ## Psychology parallels
 
