@@ -16,13 +16,11 @@ In his 1950 APA presidential address, Guilford called for more research on creat
 
 The address surveys the field's staged picture of the creative act, an account Guilford attributes to "the writings of those who have attempted to give a generalized picture of creative behavior": preparation, incubation, inspiration, then evaluation or verification. His own assessment of that picture follows, verbatim: "It is more dramatic than it is suggestive of testable hypotheses. It tells us almost nothing about the mental operations that actually occur."
 
-The principle's own terms come from Guilford's structure-of-intellect model, and a later Guilford report defines them, verbatim:
+A 1968 report co-authored by Guilford distinguishes divergent and convergent production:
 
 > "When the task is one that requires many alternative retained bits of information conforming to task specifications, the production of information is called divergent." (Hoepfner, Guilford and Bradley, 1968, [ERIC full text](https://files.eric.ed.gov/fulltext/ED030155.pdf))
 
 The same report defines the counterpart, verbatim: "While divergent production enters into the process of solving many problems, some problems, having uniquely correct or agreed-upon solutions, are not efficiently solved by a divergent strategy. The problem solver must converge directly upon the solution. The process of retrieving and perhaps synthesizing a correct solution in terms of task specification is called convergent production."
-
-The compendium's application, its own and not established by these sources: run generation and evaluation as separate passes and see whether that arrangement helps. The opened texts do not show that the two productions require incompatible mental states or must never overlap.
 
 **Plain words** The compendium's exercise: choose a problem and write several possible responses. Then compare them against a criterion you chose for the task. Try separate passes without assuming that generation and judgment must never overlap.
 
