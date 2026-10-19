@@ -34,9 +34,10 @@
   "PP044",
   "P052",
   "P158",
-  "PP018"
+  "PP018",
+  "PP047"
  ],
- "in_progress": "PP047",
+ "in_progress": null,
  "flagged": {
   "BI013": "Reopened for QC: QC round-1 corrections failed to land; reapplied and revalidated",
   "B020": "Reopened for QC: milestone QC: verse number corrected, inferences removed",
@@ -45,6 +46,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 17,
- "updated": "2026-10-19T12:13:58+00:00",
+ "updated": "2026-10-19T12:16:52+00:00",
  "band_done": false
 }
