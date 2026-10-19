@@ -33,7 +33,8 @@
   "Procedural justice",
   "Progressive muscle relaxation (Jacobson)",
   "Prosocial behaviour",
-  "Reflective practice"
+  "Reflective practice",
+  "Regulatory flexibility theory"
  ],
  "in_progress": null,
  "flagged": {
@@ -42,7 +43,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 131,
- "updated": "2026-10-19T12:23:33+00:00",
+ "updated": "2026-10-19T12:29:02+00:00",
  "qc_log": {
   "Escape from freedom": "approved after 4 advisor QC rounds: quotes verified against opened sources (panarchy ch. V excerpt, Wikipedia, IEP Totalitarianism 2.d, SEP Critical Theory 1.4); Simondon Individuation and The having mode removed from Related; cross-tradition links labelled comparisons; sources_checked: 4",
   "Eternal recurrence": "milestone advisor QC applied: practical-reading attribution qualified; AF069 described as the compendium's separate comparison; Panta rhei, Corsi e ricorsi and Three thousand realms claims externally verified; 'Thou art a God' capitalisation matches primary text",
@@ -62,7 +63,7 @@
   "Learning by doing": "self-QC: Democracy and Education ch. 11 passages quoted verbatim from open excerpts; 'mere activity' caveat included against the misreading; 'learn from reflecting on experience' hedged as slogan form",
   "Life story model": "self-QC: McAdams's own intellectual autobiography used for model structure quotes; redemption/contamination findings from the peer-reviewed summaries; American-culture caveat included in McAdams's own words",
   "Lifestyle pillars of mental health": "milestone advisor QC applied: citalopram comparison removed; dosages removed (newspaper sourcing); 'uncontrolled trials' design claim removed, outcome data described as press-reported cohorts; BA classification removed; mismatch framed as Ilardi's hypothesis",
-  "Mind in life": "self-QC: Thompson's own Pr\u00e9cis used for the thesis and argument, quoted verbatim; Wheeler's critique included; unverified author name removed from a citation anchor",
+  "Mind in life": "self-QC: Thompson's own Précis used for the thesis and argument, quoted verbatim; Wheeler's critique included; unverified author name removed from a citation anchor",
   "Mindful attention": "self-QC: Kabat-Zinn operational definition verbatim from his 2003 paper; Langer's definition verbatim from the Langerian literature; Ferrari 2019 effect sizes verbatim with publication-bias caveat; both seed facets (novel features, self-compassion) covered with their own evidence",
   "Moral identity": "milestone advisor QC applied: tika correctly attributed to Maori tikanga (was mislabeled Buddhist); SP009 correctly attributed to Spinoza (was mislabeled Nietzschean); Blasi/Damon joint introduction per the OUP chapter; quotes re-traced to the UBC exposition",
   "Movement as life": "self-QC: Cook Ding quoted in Watson's translation; butterfly transformation-of-things line quoted from the parable commentary; flowing/fixed cognition distinction from SEP; Panta rhei marked as cross-tradition comparison",

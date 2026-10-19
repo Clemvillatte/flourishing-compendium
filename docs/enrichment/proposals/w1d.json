@@ -149,6 +149,31 @@
    "into": "K192 — Double-loop learning",
    "link": "Reflective practice",
    "why": "Argyris and Schon's ladder reflective practice climbs"
+  },
+  {
+   "into": "Emotion regulation",
+   "link": "Regulatory flexibility theory",
+   "why": "the parent process flexibility theory describes"
+  },
+  {
+   "into": "Coping flexibility",
+   "link": "Regulatory flexibility theory",
+   "why": "the coping-side statement of the same idea"
+  },
+  {
+   "into": "Flexibility in coping",
+   "link": "Regulatory flexibility theory",
+   "why": "the alternative coping-side phrasing"
+  },
+  {
+   "into": "Psychological resilience theory Bonanno",
+   "link": "Regulatory flexibility theory",
+   "why": "the resilience framework this theory explains"
+  },
+  {
+   "into": "Expressive suppression versus reappraisal",
+   "link": "Regulatory flexibility theory",
+   "why": "the strategy pair whose uniform rankings the theory rejects"
   }
  ],
  "inline": [
@@ -161,6 +186,11 @@
    "into": "K287",
    "concept": "Procedural justice",
    "phrase": "procedural justice"
+  },
+  {
+   "into": "PP044",
+   "concept": "Regulatory flexibility theory",
+   "phrase": "regulatory flexibility"
   }
  ],
  "notes": " | deferred at this run (target band busy): 6 recip, 0 inline | deferred at this run (target band busy): 6 recip, 0 inline | deferred at this run (target band busy): 6 recip, 0 inline"
