@@ -13,20 +13,19 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 
 > **Principle 42** — Recognise that virtue is a hexis, not a feeling
 
-Aristotle's argument runs by elimination. A state of the soul is either an emotion, a capacity, or a disposition. He then rules out emotions (we are not praised or blamed for feeling them, only for being a certain way in respect of them) and capacities (we are not called good or bad merely by having the capacity for emotion). What remains is the disposition, the formed state of character ([NE II.5, Rackham, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=2)).
+Aristotle's argument runs by elimination. A state of the soul is either an emotion, a capacity, or a disposition. He then rules out emotions (we are not praised or blamed for feeling them, only for being a certain way in respect of them) and capacities (we are not called good or bad merely by having the capacity for emotion). What remains is the disposition, the formed state of character ([NE II.5, Rackham, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=2)). Earlier in the same book he had already said how such dispositions are formed: moral virtue is the product of habit, and virtue results from the repeated performance of just and temperate actions.
 
 > If then the virtues are neither emotions nor capacities, it remains that they are dispositions. Thus we have stated what virtue is generically.
 >
 > — Nicomachean Ethics II.5 ([Rackham, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=2))
 
-**Plain words** The compendium's application of this principle asks the reader to treat their good qualities as something that gets settled through repetition, not as something that shows up only on a good day. Aristotle's own framing runs against both the feeling and the mere capacity; what makes a person generous, on his account, is the disposition they have actually formed.
+**Plain words** A good quality is not a mood that shows up on a good day, and not merely the capacity to feel something. It is something formed, and Aristotle says it is formed through repeated action. His own bar for a virtuous act is higher than mere repetition: the agent must act with knowledge, choose the act for its own sake, and act from a fixed disposition.
 
-For example (imagined): tipping well only when you are in a good mood is not generosity. Doing it as a standing habit is.
+For example (imagined): tipping well only when in a good mood is not generosity, on this account. Neither is tipping automatically, without the act being chosen for its own sake. What counts is the act done knowingly and from the disposition it expresses.
 
-(NE II.5, II.6.)
+(NE II.1, II.4, II.5.)
 
 ## Psychology parallels
-
 - **Trait theory and personality stability** (Roberts et al., 2006)
 - **[[Habit formation|Habit formation and automaticity]]** (Lally et al., 2010; Wood and Neal, 2007)
 
