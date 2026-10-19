@@ -1,11 +1,12 @@
 {
  "batch": "w1b",
  "done": [
-  "The observing self"
+  "The observing self",
+  "The relational self"
  ],
  "flagged": {},
  "missing_concepts": [],
- "sources_checked": 10,
+ "sources_checked": 16,
  "inline": [],
  "reciprocal": [
   {
@@ -52,6 +53,51 @@
    "target": "content/concepts/The inner citadel.md",
    "concept": "The observing self",
    "why": "Hadot's Stoic stronghold that external things cannot penetrate is the Greek-Roman parallel (S064)"
+  },
+  {
+   "target": "content/concepts/I and Thou.md",
+   "concept": "The relational self",
+   "why": "Buber's I-Thou is the relational self's philosophical root"
+  },
+  {
+   "target": "content/concepts/The Between.md",
+   "concept": "The relational self",
+   "why": "Buber locates relation itself in the between"
+  },
+  {
+   "target": "content/concepts/Being-with (Mitsein).md",
+   "concept": "The relational self",
+   "why": "Heidegger's co-existence names the same structure (E026)"
+  },
+  {
+   "target": "content/concepts/Ubuntu.md",
+   "concept": "The relational self",
+   "why": "personhood constituted through others (R001)"
+  },
+  {
+   "target": "content/concepts/Interdependent self-construal.md",
+   "concept": "The relational self",
+   "why": "the cultural-psychology version of self-in-relation"
+  },
+  {
+   "target": "content/concepts/Attachment theory.md",
+   "concept": "The relational self",
+   "why": "early bonds supply the significant-other representations (SE047)"
+  },
+  {
+   "target": "content/concepts/The social self.md",
+   "concept": "The relational self",
+   "why": "the different selves carried by different relationships (SE049)"
+  },
+  {
+   "target": "content/concepts/The observing self.md",
+   "concept": "The relational self",
+   "why": "the observer vantage contrasts with the self constituted in relations"
+  },
+  {
+   "target": "content/concepts/Co-regulation in relationships.md",
+   "concept": "The relational self",
+   "why": "affect itself is shaped between people, not only within"
   }
  ],
  "notes": "Advisor QC passed after two rounds (word count fixed to validator limit, lineage claims weakened, ACT framed as related not derivative, James paraphrased per source, three related-concept clauses verified against Britannica / Drig-Drisya-Viveka course text / Hadot commentary). Original citation line 'Deikman, 1963, 1982' retained; the 1963 date could not be confirmed on deikman.com's Experimental Meditation page (not stated there), noted here as a legacy citation caveat. No inline proposals: every plain-text 'observing self' mention found in the corpus was already wikilinked."

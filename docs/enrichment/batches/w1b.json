@@ -1,11 +1,12 @@
 {
  "batch": "w1b",
  "done": [
-  "The observing self"
+  "The observing self",
+  "The relational self"
  ],
- "in_progress": "The relational self",
+ "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-19T07:14:12+00:00"
+ "updated": "2026-10-19T07:15:42+00:00"
 }
