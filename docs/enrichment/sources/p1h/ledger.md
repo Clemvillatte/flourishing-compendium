@@ -119,3 +119,13 @@ staged by the save script).
 - Linked-page reading count corrected: the enumeration showed 23 references to 21 unique concept targets, not 27 pages. The nine pages cut mid-read by the truncated commands (Interoceptive awareness, Epoché, Terror management, Death reflection, Implementation intentions, Nonviolent communication, Eightfold Path, Attention, Sati) have now been read in full.
 - p1e takeover timestamp in the state file replaced with the actual baton takeover record value (2026-10-19T12:53:46.962687+00:00).
 - Advisor substantive approval for the six revised bodies stands (E043 keeps its secondary-source attribution); no further prose rewrites.
+
+## B048 — Keep beginner's mind (shoshin) (done 2026-10-20; no advisor QC per speed directive, item 11 of session)
+
+- Opened: https://www.spiritualityandpractice.com/book-reviews/excerpts/view/13806 (book-excerpt page quoting Suzuki, Zen Mind, Beginner's Mind). New source this session.
+- Verified verbatim: "If your mind is empty, it is always ready for anything; it is open to everything. In the beginner's mind there are many possibilities; in the expert's mind there are few."; "In the beginner's mind there is no thought, 'I have attained something.' All self-centered thoughts limit our vast mind. When we have no thought of achievement, no thought of self, we are true beginners. Then we can really learn something. The beginner's mind is compassionate, it is boundless."
+- The seed's paraphrase ("In the beginner's mind are many possibilities; in the expert's, few") was not quoted as source wording; the book's actual line is quoted instead. Note: multiple sources print the line with "but" ("...there are many possibilities, but in the expert's mind there are few"); the opened excerpt page prints it without "but", and the body quotes the opened page.
+- Marker note: the start marker for B048 was run after the first content edit (recorded honestly; the done transition follows the validation).
+- Inherited, NOT opened/verified: psychology-parallels claims (Dweck 2006; McCrae and Costa 1997) — preserved per protocol, flagged for supervisor.
+- Saturation: Growth mindset, Openness, Socratic ignorance, The return to the things themselves already linked (concept pages read in full earlier this session). No justified new proposals.
+- Validator on final: ok; exact-quotation check all OK; protected fields untouched.
