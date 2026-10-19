@@ -14,11 +14,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 
 Fighting a mental state drives it underground and strengthens it. Observe it with the kindness you would offer a restless child.
 
+The Vitakkasanthana Sutta gives a ladder of responses to unskillful thoughts, and suppression is not one of them. The rungs run: attend to another theme connected with the skillful, scrutinize the drawbacks, pay no mind, relax the thought-fabrication. The scrutiny rung is an inspection rather than a punishment:
+
+> "If evil, unskillful thoughts — imbued with desire, aversion, or delusion — still arise in the monk while he is attending to this other theme, connected with what is skillful, he should scrutinize the drawbacks of those thoughts: 'Truly, these thoughts of mine are unskillful, these thoughts of mine are blameworthy, these thoughts of mine result in stress.'" (MN 20, [Thanissaro](https://www.accesstoinsight.org/tipitaka/mn/mn.020.than.html))
+
+The scrutiny is addressed to the thought's costs, in the monk's own words, and the next rungs stay with the thought until it subsides on its own.
+
 (MN 20.)
 
-**Plain words** Fighting a mental state drives it underground and strengthens it. Observe it with the kindness you would offer a restless child — suppression is a pressure cooker; kind observation is a slow release valve.
+**Plain words**
+The ladder never tells you to fight the thought; each rung changes your relation to it. When a thought keeps looping, try the rungs in order: give the mind another theme, ask what the loop is costing, withdraw the attention, relax the tension that is keeping it running. A rough application of the sutta's sequence, offered as an exercise rather than a promise.
 
-*For example:* Trying NOT to think of the pink elephant versus letting it stand there politely while you keep working — only one of these ever works.
+**For example**
+Trying NOT to think of the pink elephant versus letting it stand there politely while you keep working — the second is the one the sutta's ladder and the suppression research both point to.
+
+## Sources
+
+- [MN 20 Vitakkasanthana Sutta, trans. Thanissaro Bhikkhu (Access to Insight)](https://www.accesstoinsight.org/tipitaka/mn/mn.020.than.html) — the five methods
 
 ## Psychology parallels
 

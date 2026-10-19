@@ -14,11 +14,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 
 Some states don't need to be fought or fixed: only fully seen. Held in awareness without resistance, many dissolve on their own.
 
-(SN 35.245; the snake simile.)
+The Vitakkasanthana Sutta's ladder of responses to unskillful thoughts climbs toward exactly this. Its fourth rung is the relaxation of thought-fabrication:
 
-**Plain words** Some states don't need to be fought or fixed — only fully seen. Held in awareness without resistance, many dissolve on their own. The snake simile: you don't have to kill the snake, just stop feeding it and open the door.
+> "If evil, unskillful thoughts — imbued with desire, aversion or delusion — still arise in the monk while he is paying no mind and paying no attention to those thoughts, he should attend to the relaxing of thought-fabrication with regard to those thoughts. As he is attending to the relaxing of thought-fabrication with regard to those thoughts, those evil, unskillful thoughts are abandoned and subside." (MN 20, [Thanissaro](https://www.accesstoinsight.org/tipitaka/mn/mn.020.than.html))
 
-*For example:* The old resentment that finally dissolved not when you fought it, but when you looked at it long enough — in the light, it wasn't a snake.
+The simile the sutta attaches to this rung is a man slowing his own walking: "Just as the thought would occur to a man walking quickly, 'Why am I walking quickly? Why don't I walk slowly?' So he walks slowly." The attention moves to the pace of the thought itself, and the thought slows the way the walking slows. Nothing was pushed; the pace changed.
+
+(SN 35.245; the snake simile; MN 20.)
+
+**Plain words**
+The method is a change of attention rather than a fight. When a thought keeps running, attend to the tension that is keeping it running, the way you would notice you are walking quickly. Noticing the pace is what slows the walking, and the question costs less effort than the sprint.
+
+**For example**
+The old resentment that finally dissolved not when you fought it, but when you looked at it long enough — in the light, it wasn't a snake.
+
+## Sources
+
+- [MN 20 Vitakkasanthana Sutta, trans. Thanissaro Bhikkhu (Access to Insight)](https://www.accesstoinsight.org/tipitaka/mn/mn.020.than.html) — the five methods; the walking simile
 
 ## Practice kernels
 
