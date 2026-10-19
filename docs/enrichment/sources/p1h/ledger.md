@@ -140,6 +140,15 @@ staged by the save script).
 - Saturation: Y026 already cited by Attentional control theory, Attentional control training, Goal-directed attentional control, Progressive overload in attentional training, Right mindfulness, The effort of attention, To the things themselves, Two modes of attentional control, K043, P196. No justified new proposals.
 - Validator on final: ok; protected fields byte-identical vs baseline a5782bc5.
 
+## Session 2 (worker-p1h-8a3d7e29, 2026-10-20) — Y026, B027 QC correction, B081, B112, B116, B140, B160
+
+- Sources opened this session: 10 (Arnold Song Celestial Gutenberg 2388; holy-bhagavad-gita.org 6.26/6.27; PubMed 16443717 Baer 2006; dhammatalks.org AN 2:31-32; accesstoinsight dhp.01 (Dhp 3), dhp.05 (Dhp 74), dhp.17 (Dhp 222); wordsofthebuddha.org MN 128; accesstoinsight MN 10 (re-check), SN 46.53; Terebess Xinxin Ming; Kwan Um Seung Sahn page).
+- B027 (existing item, flagged): Baer 2006 psychology-parallel correction applied per supervisor QC; verified independently against the PubMed abstract for PMID 16443717.
+- Y026: done after 3 advisor QC rounds. Arnold 6.26 quote verbatim (double-hyphen preserved; semicolon after "governance"); 6.27 boundary cross-checked against holy-bhagavad-gita.org. Validated against pre-edit baseline a5782bc5.
+- B081/B112/B116/B140/B160: done after a withheld milestone QC round, then reopened and repaired per the advisor's blocking fixes (B081: MN 10 hindrance-list vs SN 46.53 remedy distinguished, unsupported physiology and effort claims removed; B112: AN 2:31-32 locator corrected from seed's AN 3.31-32, repayment-conflict plain-words removed, Thich Nhat Hanh attribution noted as unopened; B116: universal sequence claims removed, MN 128 locator removed from body; B140: equivalence claim removed, "not to have no opinions" contrast removed; B160: ethics-criteria test restored, Dhp 74 overreach removed).
+- Quote-fidelity: B116's Dhp 222 quote is now prose-format (matches the opened translation's paragraph format per advisor); all other quotes verbatim against opened pages.
+- Saturation: mention scans run for all items; no justified new proposals (all already cited by existing concept pages).
+
 ## B057 — Choose anchored or open awareness by need (done 2026-10-20; no advisor QC per speed directive, item 12 of session)
 
 - Opened: https://accesstoinsight.org/tipitaka/mn/mn.118.than.html (MN 118 Anapanasati Sutta, trans. Thanissaro Bhikkhu); page saved to /tmp/src-mn118.html for the saved-source quote check. New source this session.
