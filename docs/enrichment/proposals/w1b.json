@@ -5,13 +5,14 @@
   "Delight in the ordinary",
   "Forgiveness",
   "Perspective-getting",
-  "Ren"
+  "Ren",
+  "Right concentration"
  ],
  "flagged": {
   "Perspective-getting": "seed cites 'Epley et al., 2007' for 'asking beats perspective-taking'; no such perspective-getting paper could be found (canonical: Epley et al. 2004 anchoring; Eyal, Steffel & Epley 2018 JPSP 114(4):547-571 'Perspective mistaking'). Original line kept, prose cites the verified papers."
  },
  "missing_concepts": [],
- "sources_checked": 17,
+ "sources_checked": 19,
  "inline": [],
  "reciprocal": [
   {
@@ -203,6 +204,51 @@
    "target": "content/concepts/Role ethics.md",
    "concept": "Ren",
    "why": "the contemporary Confucian reading of ren through roles"
+  },
+  {
+   "target": "content/concepts/Samadhi.md",
+   "concept": "Right concentration",
+   "why": "the path factor is the Eightfold Path's form of samadhi"
+  },
+  {
+   "target": "content/concepts/Right mindfulness.md",
+   "concept": "Right concentration",
+   "why": "the sibling factor that watches what concentration steadies"
+  },
+  {
+   "target": "content/concepts/Right view.md",
+   "concept": "Right concentration",
+   "why": "the factor that keeps concentration aimed at liberation"
+  },
+  {
+   "target": "content/concepts/Right intention.md",
+   "concept": "Right concentration",
+   "why": "concentration's aim; without it, mere absorption"
+  },
+  {
+   "target": "content/concepts/Flow.md",
+   "concept": "Right concentration",
+   "why": "absorption in doing, the psychological cousin"
+  },
+  {
+   "target": "content/concepts/One-pointedness.md",
+   "concept": "Right concentration",
+   "why": "the mind's collectedness in a word"
+  },
+  {
+   "target": "content/concepts/Equanimity.md",
+   "concept": "Right concentration",
+   "why": "the fourth jhana's tone"
+  },
+  {
+   "target": "content/concepts/Wu wei.md",
+   "concept": "Right concentration",
+   "why": "tuned effort without forcing, the Daoist cousin"
+  },
+  {
+   "target": "content/concepts/Cognitive defusion.md",
+   "concept": "Right concentration",
+   "why": "watching thoughts without following them, the clinical cousin"
   }
  ],
  "notes": "continues after lead applied the first proposals file (moved to applied/)"
