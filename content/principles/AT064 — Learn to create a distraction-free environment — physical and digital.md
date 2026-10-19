@@ -12,15 +12,15 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AT — Attentio
 ---
 > **Principle 64** — Learn to create a distraction-free environment: physical and digital
 
-The strongest empirical anchor for the digital half of this principle is the "brain drain" finding of Ward, Duke, Gneezy and Bos. Their abstract, verbatim:
+One line of evidence for the digital half of this principle is the "brain drain" study of Ward, Duke, Gneezy and Bos. Their abstract, verbatim:
 
 > "Results from two experiments indicate that even when people are successful at maintaining sustained attention—as when avoiding the temptation to check their phones—the mere presence of these devices reduces available cognitive capacity. Moreover, these cognitive costs are highest for those highest in smartphone dependence." (Ward, Duke, Gneezy and Bos, 2017, Journal of the Association for Consumer Research 2(2), 140-154, [UChicago journals record](https://www.journals.uchicago.edu/doi/10.1086/691462))
 
-Later work has not settled the matter. A 2023 meta-analysis pooled the effect at g = -0.14 with a confidence interval just excluding zero, and its authors write: "The present meta-analysis essentially confirms the Brain Drain effect" (Böttger, Poschik and Zierer, 2023). A direct replication of Ward and colleagues' study, however, found no effect of the phone's mere presence. The effect is small and contested.
+Later work has not settled the matter. A 2023 meta-analysis pooled the effect at g = -0.14 with a confidence interval just excluding zero, and its authors write: "The present meta-analysis essentially confirms the Brain Drain effect" (Böttger, Poschik and Zierer, 2023). The review reports a replication that did not detect a phone-presence effect. The effect is small and contested.
 
 The physical half is the same design move at desk scale: one visible task, everything else in a drawer or another app, notifications off, a closed door.
 
-**Plain words** A distraction-free environment is built, not wished for: one visible task, everything else in a drawer or a different app, pings off, headphones on. Every removed distraction is a decision you never have to make again. Design once, benefit daily.
+**Plain words** (the compendium's suggestion) Run a two-session comparison. Count your interruptions in one normal session, change one part of the setup (phone in another room, tabs closed), and count again the next. Keep whichever setting wins.
 
 *For example:* The desk with just the laptop and a water bottle, nothing else in the visual field. That is decision minimalism rather than aesthetic minimalism.
 

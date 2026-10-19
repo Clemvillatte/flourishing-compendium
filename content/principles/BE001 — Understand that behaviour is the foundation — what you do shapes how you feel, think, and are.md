@@ -12,21 +12,21 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BE — Overt Be
 ---
 > **Principle 1** — Understand that behaviour is the foundation: what you do shapes how you feel, think, and are
 
-Behaviour is usually read as the output of inner states. It also works as a causal input. What you do changes how you feel, what you think, and who you become, and the treatment evidence for this is unusually direct.
+How much of cognitive therapy's effect comes from its behavioural part? Jacobson and colleagues' dismantling study of cognitive therapy for depression asked this directly.
 
-In Jacobson and colleagues' dismantling study of cognitive therapy for depression, 150 outpatients with major depression were randomly assigned to a treatment focused exclusively on the behavioural activation component, a treatment adding automatic-thought work, or the full cognitive therapy package. The abstract reports the result, verbatim:
+In that study, 150 outpatients with major depression were randomly assigned to a treatment focused exclusively on the behavioural activation component, a treatment adding automatic-thought work, or the full cognitive therapy package. The abstract reports the result, verbatim:
 
 > "Despite excellent adherence to treatment protocols by the therapists, a clear bias favoring CT, and the competent performance of CT, there was no evidence that the complete treatment produced better outcomes, at either the termination of acute treatment or the 6-month follow-up, than either component treatment." (Jacobson, Dobson, Truax, Addis, Koerner, Gollan, Gortner and Prince, 1996, Journal of Consulting and Clinical Psychology 64(2), 295-304, [PubMed record](https://pubmed.ncbi.nlm.nih.gov/8871414/))
 
-The same report states the second finding plainly: "both BA and AT treatments were just as effective as CT at altering negative thinking as well as dysfunctional attributional styles." Read carefully, these are absence-of-difference results. The complete treatment showed no detectable advantage, and the behavioural component matched the full package on the thinking measures. They do not show that action creates feeling or identity; they show action carried treatment weight without the cognitive machinery.
+The same report states the second finding plainly: "both BA and AT treatments were just as effective as CT at altering negative thinking as well as dysfunctional attributional styles." Read carefully, these are absence-of-difference results: the study detected no advantage for the full treatment. They do not show that action creates feeling or identity.
 
-**Plain words** The trial compared the full cognitive package with just the activity-scheduling part, and the full package was not detected to be better. That is the finding, and its limits matter. It licenses trying action when inner states are stuck. It does not promise the feeling will follow.
+**Plain words** (the compendium's exercise) Choose one manageable action you have been avoiding because motivation is missing. Decide when in the next few days you will try it. Try it and record what happens, without expecting mood or identity to change first.
 
-*For example:* a depressed patient who cannot yet question their thoughts can still be helped to schedule a walk and a phone call. In the Jacobson trial, some patients received exactly that much, and the study found no advantage for adding the cognitive work.
+*For example:* Suppose someone feels unable to question their own thinking. They might still be helped to schedule specific, manageable activities. The trial's result is why such a plan is a reasonable starting point rather than a concession.
 
 ## Sources
 
-- [Jacobson et al., "A component analysis of cognitive-behavioral treatment for depression" (1996), Journal of Consulting and Clinical Psychology 64(2), 295-304](https://pubmed.ncbi.nlm.nih.gov/8871414/) — abstract quoted verbatim; BA alone matched full cognitive therapy
+- [Jacobson et al., "A component analysis of cognitive-behavioral treatment for depression" (1996), Journal of Consulting and Clinical Psychology 64(2), 295-304](https://pubmed.ncbi.nlm.nih.gov/8871414/) — abstract quoted verbatim; no advantage detected for full CT over the BA component
 
 ## Psychology parallels
 
@@ -42,4 +42,4 @@ The same report states the second finding plainly: "both BA and AT treatments we
 
 ## Practice
 
-- Schedule action even when motivation is absent; in the Jacobson trial, behaviour-only treatment matched the full package on the outcome and thinking measures.
+- Schedule action even when motivation is absent; the Jacobson trial detected no advantage for the full treatment over the behavioural component.
