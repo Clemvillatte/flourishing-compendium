@@ -2,11 +2,12 @@
  "batch": "w1b",
  "done": [
   "Broaden-and-build",
-  "Delight in the ordinary"
+  "Delight in the ordinary",
+  "Forgiveness"
  ],
  "flagged": {},
  "missing_concepts": [],
- "sources_checked": 8,
+ "sources_checked": 11,
  "inline": [],
  "reciprocal": [
   {
@@ -93,6 +94,36 @@
    "target": "content/concepts/Sati.md",
    "concept": "Delight in the ordinary",
    "why": "presence that makes the ordinary appear"
+  },
+  {
+   "target": "content/concepts/Restorative justice.md",
+   "concept": "Forgiveness",
+   "why": "repair without revenge; the TRC is the shared case"
+  },
+  {
+   "target": "content/concepts/Reconciliation.md",
+   "concept": "Forgiveness",
+   "why": "released debt is what reconciliation requires (B163)"
+  },
+  {
+   "target": "content/concepts/Compassion.md",
+   "concept": "Forgiveness",
+   "why": "the empathic component forgiveness interventions train"
+  },
+  {
+   "target": "content/concepts/Justice.md",
+   "concept": "Forgiveness",
+   "why": "Arendt's punishment is forgiveness's alternative, not its opposite"
+  },
+  {
+   "target": "content/concepts/Guilt.md",
+   "concept": "Forgiveness",
+   "why": "the offender's side of the debt"
+  },
+  {
+   "target": "content/concepts/Shame.md",
+   "concept": "Forgiveness",
+   "why": "what blocks self-forgiveness (Griffin et al. 2015 line)"
   }
  ],
  "notes": "continues after lead applied the first proposals file (moved to applied/)"
