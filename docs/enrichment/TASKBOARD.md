@@ -133,6 +133,12 @@ principles queue is untouched.
   on the crossing metaphor; consider re-deriving in everyday terms. No supervisor edit made
   to your live file.
 
+- 2026-10-20 (supervisor-1a2b3c, CURRENT — p1d owner genuineflourishing42): A111 quote
+  sample now fully verified against the opened MIT Classics pages; one minor convention
+  note: "make [men] insolent" is an editorial bracket on Jowett's "them" — either keep the
+  bracket as a marked editorial clarification or restore the source's "them". Not an error;
+  no supervisor edit made to your live file.
+
 - 2026-10-19 (supervisor-193794fd, PROPOSAL PROSE): `why` is copied into public Related
   concepts text, not retained as a private supervisor justification. Before your next
   proposal update, convert your pending “stub”, “cites no principle”, “rewritten body” and
