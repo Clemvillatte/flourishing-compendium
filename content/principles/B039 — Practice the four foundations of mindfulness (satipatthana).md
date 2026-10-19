@@ -14,11 +14,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 
 Mindfulness of body, feeling tone, mind, and mental patterns: these four domains cover the whole field of experience. Establish them as a daily frame.
 
+The Satipatthana Sutta opens by claiming the four as "the direct path for the purification of beings, for the overcoming of sorrow & lamentation, for the disappearance of pain & distress", and gives the same formula for each domain:
+
+> "There is the case where a monk remains focused on the body in & of itself — ardent, alert, & mindful — putting aside greed & distress with reference to the world. He remains focused on feelings... mind... mental qualities in & of themselves — ardent, alert, & mindful — putting aside greed & distress with reference to the world." (MN 10, [Thanissaro](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html))
+
+The formula matters more than the list: each domain gets the same move — remain focused, ardent, alert and mindful. The domain changes; the move does not.
+
 (Satipatthana Sutta, MN 10.)
 
-**Plain words** Mindfulness of body, feeling tone, mind, and mental patterns — these four domains cover the whole field of experience. Establish them as a daily frame: what's happening in the body, what's the feeling, what's the mind-state, what's the pattern. Four questions, whole life.
+**Plain words**
+Four domains: the body, the feeling tone, the mind-state, and the patterns running through them. The practice is to visit each in turn and name what is there — what the body is doing, what the feeling is, what the mind's weather is, what pattern is running. Four questions, and between them they cover most of a life.
 
-*For example:* The 4pm slump run through the frame: body tired, feeling dull, mind foggy, pattern — third coffee won't help, a walk will.
+**For example**
+The 4pm slump run through the frame: body tired, feeling dull, mind foggy, pattern — third coffee won't help, a walk will.
+
+## Sources
+
+- [MN 10 Satipatthana Sutta, trans. Thanissaro Bhikkhu (Access to Insight)](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html) — the four frames of reference
 
 ## Psychology parallels
 

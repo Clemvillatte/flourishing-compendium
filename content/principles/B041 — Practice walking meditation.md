@@ -14,11 +14,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 
 Walk slowly, attending to each step, the lifting, moving, and placing of the foot. Movement becomes the object; the body and mind move together.
 
+MN 10 puts walking inside the first foundation of mindfulness, as one of the postures in which the body is simply known as it is:
+
+> "Furthermore, when walking, the monk discerns, 'I am walking.' When standing, he discerns, 'I am standing.' When sitting, he discerns, 'I am sitting.' When lying down, he discerns, 'I am lying down.' Or however his body is disposed, that is how he discerns it." (MN 10, [Thanissaro](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html))
+
+The sutta does not rank the breath above the step: the walking is a first-class object of the same mindfulness. Slowing the walk is what makes the steps available to attend to.
+
 (MN 10; Thích Nhất Hạnh.)
 
-**Plain words** Walk slowly, attending to each step — the lifting, moving, and placing of the foot. Movement becomes the object; body and mind move together. For people who can't sit still, this isn't the consolation prize — it's the full practice.
+**Plain words**
+The instruction is to know the walking while walking, which sounds trivial until you notice how often you arrive somewhere with no memory of the route. Slowing down makes each step something you can attend to: lifting, moving, placing. The meditation is the same one as sitting; the object is the foot.
 
-*For example:* The ten-minute slow walk between meetings that resets more than the coffee — each step an exhale.
+**For example**
+The ten-minute slow walk between meetings that resets more than the coffee — each step an exhale.
+
+## Sources
+
+- [MN 10 Satipatthana Sutta, trans. Thanissaro Bhikkhu (Access to Insight)](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html) — postures section
 
 ## Practice kernels
 

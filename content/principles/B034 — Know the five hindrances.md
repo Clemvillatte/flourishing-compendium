@@ -14,11 +14,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 
 Sensory desire, ill will, sloth-and-torpor, restlessness-and-worry, and doubt: these five are the classic obstacles to a [[Clarity of mind|clear mind]]. Learn to recognize each on contact: they are transdiagnostic patterns, not personal failings.
 
+MN 10 makes the hindrances the first category of mental qualities to watch, and gives a noticing formula rather than a suppression order:
+
+> "There is the case where, there being sensual desire present within, a monk discerns that 'There is sensual desire present within me.' Or, there being no sensual desire present within, he discerns that 'There is no sensual desire present within me.' He discerns how there is the arising of unarisen sensual desire. And he discerns how the abandoning of sensual desire once it has arisen. And he discerns how there is no future arising of sensual desire that has been abandoned. (The same formula is repeated for the remaining hindrances: ill will, sloth & drowsiness, restlessness & anxiety, and uncertainty.)" (MN 10, [Thanissaro](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html))
+
+The hindrance is treated as an object of observation: watch it arise, watch it be abandoned, watch for its return. That is why the tradition files them under mindfulness rather than under character flaws.
+
 (MN 10; SN 46.)
 
-**Plain words** Sensory desire, ill will, sloth-and-torpor, restlessness-and-worry, and doubt — the five classic obstacles to a clear mind. Learn to recognize each on contact: they're weather patterns, not personal failings. Naming the hindrance already halves it.
+**Plain words**
+The five are recognizable by feel: wanting, irritation, fog, jitter, and what's-the-point. The sutta's move is to note which one is present the way you would note the weather, and then watch it the way you would watch weather: arising, passing, maybe returning. Naming it does the first half of the work, because you have stopped being it long enough to see it.
 
-*For example:* 'Restlessness again' — recognizing the 3pm fog as the same fog as yesterday turns an enemy into a known commuter.
+**For example**
+'Restlessness again' — recognizing the 3pm fog as the same fog as yesterday turns an enemy into a known commuter.
+
+## Sources
+
+- [MN 10 Satipatthana Sutta, trans. Thanissaro Bhikkhu (Access to Insight)](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html) — the five hindrances section
 
 ## Psychology parallels
 

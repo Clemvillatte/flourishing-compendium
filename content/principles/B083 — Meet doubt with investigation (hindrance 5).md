@@ -14,11 +14,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 
 Skepticism that paralyzes is not wisdom; meet it by investigating: test the teaching in your own practice rather than ruminating about whether to practice.
 
+MN 10 names the fifth hindrance "uncertainty" and gives it the same treatment as the other four — a noticing formula, not an argument:
+
+> "There is the case where, there being sensual desire present within, a monk discerns that 'There is sensual desire present within me.' ... (The same formula is repeated for the remaining hindrances: ill will, sloth & drowsiness, restlessness & anxiety, and uncertainty.)" (MN 10, [Thanissaro](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html))
+
+The doubt itself becomes the object watched: note it present, note it absent, watch it arise, watch it be abandoned. The practice continues while the doubt is being watched, which is what answers it.
+
 (MN 10; SN 46.)
 
-**Plain words** Skepticism that paralyzes is not wisdom — meet doubt with investigation: test the teaching in your own practice rather than ruminating about whether to practice. Doubt is a door; rumination is the door spinning on its hinges going nowhere.
+**Plain words**
+The hindrance list calls it uncertainty and treats it like weather: watch it arise, watch it go, keep practicing meanwhile. The sutta's answer to "does this work?" is not an argument, it is the experiment. Debate the thirty days if you like; the data comes from the thirty days.
 
-*For example:* 'Does meditation even work?' — the only experiment that answers it is the thirty days of doing it, not the thirty days of debating it.
+**For example**
+'Does meditation even work?' — the only experiment that answers it is the thirty days of doing it, not the thirty days of debating it.
+
+## Sources
+
+- [MN 10 Satipatthana Sutta, trans. Thanissaro Bhikkhu (Access to Insight)](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html) — five hindrances section (uncertainty)
 
 ## Practice kernels
 

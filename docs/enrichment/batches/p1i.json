@@ -8,7 +8,8 @@
   "D166",
   "B144",
   "B148",
-  "B102"
+  "B102",
+  "B039"
  ],
  "in_progress": null,
  "flagged": {
@@ -19,6 +20,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-19T13:31:44+00:00",
+ "updated": "2026-10-19T13:32:47+00:00",
  "band_done": false
 }
