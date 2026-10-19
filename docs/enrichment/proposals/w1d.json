@@ -1,13 +1,45 @@
 {
  "reciprocal": [
-  {"into": "The approval trap", "link": "Escape from freedom", "why": "the trap is Fromm's esteem-driven route out of freedom"},
-  {"into": "Domination critique", "link": "Escape from freedom", "why": "domination is the assertive pole of Fromm's authoritarianism mechanism"},
-  {"into": "Conformity", "link": "Escape from freedom", "why": "automaton conformity is the majority's escape Fromm described"},
-  {"into": "Bad faith", "link": "Escape from freedom", "why": "the compendium pairs Sartre's individual dodge with Fromm's social flight (comparison)"},
-  {"into": "Radical freedom", "link": "Escape from freedom", "why": "Sartre's opposite pole, freedom as inescapable (comparison)"},
-  {"into": "The dizziness of freedom", "link": "Escape from freedom", "why": "Kierkegaard's anxiety of possibility is the feeling Fromm's escapees flee"},
-  {"into": "The need to belong", "link": "Escape from freedom", "why": "the escape mechanisms feed the need for secondary bonds"},
-  {"into": "Loneliness", "link": "Escape from freedom", "why": "the condition Fromm's three escape mechanisms relieve"}
+  {
+   "into": "The approval trap",
+   "link": "Escape from freedom",
+   "why": "the trap is Fromm's esteem-driven route out of freedom"
+  },
+  {
+   "into": "Domination critique",
+   "link": "Escape from freedom",
+   "why": "domination is the assertive pole of Fromm's authoritarianism mechanism"
+  },
+  {
+   "into": "Conformity",
+   "link": "Escape from freedom",
+   "why": "a comparison with Fromm's account of adopting a culturally prescribed personality"
+  },
+  {
+   "into": "Bad faith",
+   "link": "Escape from freedom",
+   "why": "the compendium pairs Sartre's individual dodge with Fromm's social flight (comparison)"
+  },
+  {
+   "into": "Radical freedom",
+   "link": "Escape from freedom",
+   "why": "Sartre's opposite pole, freedom as inescapable (comparison)"
+  },
+  {
+   "into": "The dizziness of freedom",
+   "link": "Escape from freedom",
+   "why": "the compendium sets Kierkegaard's anxiety of possibility beside Fromm's flight as a comparison"
+  },
+  {
+   "into": "The need to belong",
+   "link": "Escape from freedom",
+   "why": "Fromm's secondary bonds, in the authoritarianism mechanism, promise to satisfy this need"
+  },
+  {
+   "into": "Loneliness",
+   "link": "Escape from freedom",
+   "why": "the condition Fromm's three escape mechanisms relieve"
+  }
  ],
  "inline": []
 }

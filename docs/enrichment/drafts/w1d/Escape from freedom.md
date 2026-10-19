@@ -1,16 +1,16 @@
-“Escape from freedom” is Erich Fromm's name for a flight he diagnosed in Escape from Freedom (1941; in Britain a year later as The Fear of Freedom). Freed from the traditional bonds that gave them a place, many people find the isolation unbearable and give the independence back. Fromm split freedom into "freedom from" constraint and "freedom to" act from an integrated personality; the first without the second leaves people anxious and ready to surrender ([Wikipedia](https://en.wikipedia.org/wiki/Escape_from_Freedom)).
+“Escape from freedom” is Erich Fromm's name for a flight he diagnosed in Escape from Freedom (1941; in Britain a year later as The Fear of Freedom) ([Wikipedia](https://en.wikipedia.org/wiki/Escape_from_Freedom)). In his account, freed from the traditional bonds that gave them a place, many people find the isolation unbearable and give the independence back ([Wikipedia](https://en.wikipedia.org/wiki/Escape_from_Freedom)). Fromm split freedom into "freedom from" constraint and "freedom to" act from an integrated personality; the first without the second leaves people anxious and ready to surrender ([Wikipedia](https://en.wikipedia.org/wiki/Escape_from_Freedom)).
 
 ### Three ways out
 
-Authoritarianism, the first mechanism, gives up "the independence of one's own individual self" to "fuse one's self with somebody or something outside oneself in order to acquire the strength which the individual self is lacking" ([Fromm, ch. V](https://www.panarchy.org/fromm/escapefreedom.html)). He calls this a search for new "secondary bonds" to replace the lost "primary bonds," in strivings for submission and domination.
+Authoritarianism, the first mechanism, gives up "the independence of one's own individual self" to "fuse one's self with somebody or something outside oneself in order to acquire the strength which the individual self is lacking" ([Fromm, ch. V](https://www.panarchy.org/fromm/escapefreedom.html)). He calls this a search for new "secondary bonds" to replace the lost "primary bonds," in strivings for submission and domination ([Fromm, ch. V](https://www.panarchy.org/fromm/escapefreedom.html)).
 
-Destructiveness differs from sadism: it "aims not at active or passive symbiosis but at elimination of its object" ([Fromm, ch. V](https://www.panarchy.org/fromm/escapefreedom.html)). Fromm calls the destruction of the world "the last, almost desperate attempt to save myself from being crushed by it."
+Destructiveness differs from sadism: it "aims not at active or passive symbiosis but at elimination of its object" ([Fromm, ch. V](https://www.panarchy.org/fromm/escapefreedom.html)). Fromm calls the destruction of the world "the last, almost desperate attempt to save myself from being crushed by it" ([Fromm, ch. V](https://www.panarchy.org/fromm/escapefreedom.html)).
 
-Fromm describes automaton conformity as "the solution that the majority of normal individuals find in modern society": the individual "ceases to be himself" and adopts "the kind of personality offered to him by cultural patterns," becoming "exactly as all others are and as they expect him to be" ([Fromm, ch. V](https://www.panarchy.org/fromm/escapefreedom.html)). Fromm compared it to the protective colouring of animals; the price is "the loss of his self."
+Fromm describes automaton conformity as "the solution that the majority of normal individuals find in modern society": the individual "ceases to be himself" and adopts "the kind of personality offered to him by cultural patterns," becoming "exactly as all others are and as they expect him to be" ([Fromm, ch. V](https://www.panarchy.org/fromm/escapefreedom.html)). Fromm compared it to the protective colouring of animals; the price is "the loss of his self" ([Fromm, ch. V](https://www.panarchy.org/fromm/escapefreedom.html)).
 
 ### Where the loneliness comes from
 
-Fromm traced modern isolation to the growth of individualism after the Reformation: Protestantism and capitalism dissolved the fixed medieval order, leaving people free, alone and anxious about success without secured grace ([IEP](https://iep.utm.edu/totalita/)). In a 1936 essay for the Institute's Studies in Authority and the Family, he argued that the drives underlying the "authoritarian character" include "the pleasure of obedience, submission, and the surrender of one's personality" and "aggression against the defenseless and sympathy with the powerful" ([SEP](https://plato.stanford.edu/entries/critical-theory/)). The IEP reads the type in politics as "a slavish and nihilistic submission to authority" with a wish for authority over others, the character most easily seduced by fascism ([IEP](https://iep.utm.edu/totalita/)).
+Fromm traced modern isolation to the growth of individualism after the Reformation: Protestantism and capitalism dissolved the fixed medieval order, leaving people free, alone and anxious about success without secured grace ([IEP](https://iep.utm.edu/totalita/)). The drives behind the "authoritarian character," in his 1936 Institute essay, include "the pleasure of obedience, submission, and the surrender of one's personality" ([SEP](https://plato.stanford.edu/entries/critical-theory/)). The IEP reads the type in politics as "a slavish and nihilistic submission to authority" with a wish for authority over others, the character most easily seduced by fascism ([IEP](https://iep.utm.edu/totalita/)).
 
 ### The answer, and its limits
 
@@ -18,7 +18,7 @@ Fromm's response is positive freedom, the "freedom to" exercised in spontaneous 
 
 ### In the compendium
 
-S001 sorts what is up to you from what is not, and A001 gives freedom a direction in eudaimonia; SP019 and SP041 diagnose the escape through others' opinions, and D133 the escape through domination. K310 catches "I had to" as bad faith, E070 treats ambiguity as the condition of ethical life, and ST269 shows the waiter performing the flight.
+S001 sorts what is up to you from what is not, and A001 gives freedom a direction in eudaimonia; SP019 and SP041 diagnose the escape through others' opinions, and D133 the escape through domination. K310 catches "I had to" as bad faith, E070 treats ambiguity as the condition of ethical life, and ST269 gives the Sartrean comparison: the waiter performing bad faith.
 
 - [[D085 — Prefer humble freedom to gilded captivity]] — Zhuangzi's pheasant refuses the cage even when it is gilded
 - [[SP019 — Diagnose ambition and the hunger for esteem]] — esteem placed at the centre of identity runs the life by remote control
@@ -39,10 +39,10 @@ S001 sorts what is up to you from what is not, and A001 gives freedom a directio
 - [[Freedom]] — the capacity the flight abandons; Fromm splits it into freedom from and freedom to
 - [[The approval trap]] — the esteem-driven version of automaton conformity
 - [[Domination critique]] — domination as the assertive pole of Fromm's authoritarianism mechanism
-- [[Conformity]] — the majority's escape, which Fromm called automaton conformity
+- [[Conformity]] — the compendium's Asch-focused page provides a comparison with Fromm's account of adopting a culturally prescribed personality
 - [[Bad faith]] — the compendium pairs Sartre's individual dodge with Fromm's social flight as a comparison
 - [[Radical freedom]] — Sartre's opposite pole: freedom as inescapable (comparison)
-- [[The dizziness of freedom]] — Kierkegaard's anxiety of possibility, set beside the flight as a comparison
+- [[The dizziness of freedom]] — the compendium sets Kierkegaard's anxiety of possibility beside Fromm's flight as a comparison
 - [[The need to belong]] — the need that the new secondary bonds promise to satisfy
 - [[Loneliness]] — the condition all three escape mechanisms relieve
 
