@@ -12,13 +12,20 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 51** — Practice loving-kindness (metta)
 
-Silently wish well: for yourself, then for others, widening outward to all beings. Let the wishing itself soften the heart, regardless of the response.
+The Karaniya Metta Sutta gives the practice in two moves. First, the field: "Whatever beings there may be, weak or strong, without exception... seen & unseen, near & far... May all beings be happy at heart." Second, the intensity: "As a mother would risk her life to protect her child, her only child, even so should one cultivate a limitless heart with regard to all beings."
 
-(Metta Sutta; Karaniya Metta Sutta, Sn 1.8.)
+> "With good will for the entire cosmos, cultivate a limitless heart: Above, below, & all around, unobstructed, without enmity or hate." (Sn 1.8, [Thanissaro, accesstoinsight](https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.than.html))
 
-**Plain words** Silently wish well — for yourself, then for others, widening outward to all beings. Let the wishing itself soften the heart, regardless of the response. Metta isn't a feeling you wait for; it's an act that grows its own feeling.
+The compendium applies the sutta's universal scope by asking whom you leave out when wishing others well.
 
-*For example:* Silently wishing the rude driver safety and ease — absurdly, it works on you before it could ever reach them.
+**Plain words**
+The person who annoyed you is still included in "all beings." As a modern exercise, try wishing them safety and ease without requiring them to be agreeable first. The sutta asks for goodwill beyond your favourites; it makes no promise about how this exercise will immediately feel.
+
+*For example:* Suppose a driver cuts you off in traffic. As a modern application, the practice is silently wishing them safety and ease.
+
+## Sources
+
+- [Karaniya Metta Sutta (Sn 1.8), trans. Thanissaro Bhikkhu (accesstoinsight)](https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.than.html)
 
 ## Stories
 

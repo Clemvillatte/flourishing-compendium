@@ -225,3 +225,27 @@ copied from the opened URL in this session.
   parallels wikilinks (undirected graph); Yangsheng also cites BI013; no new proposals.
 - Inherited-not-reverified: Walker 2017, Alhola & Polo-Kantola 2007 and Yoo et al. 2007
   claims in the psychology-parallels link section (untouched).
+
+## B051 — Practice loving-kindness (metta) (Sn 1.8)
+
+- Opened: https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.than.html (Sn 1.8,
+  Thanissaro; verses fetched verbatim). Blockquote: "With good will for the entire
+  cosmos..." Inline: the beings-field verse and the mother-and-child verse.
+- QC: advisor round 1 flagged the Plain-words "recite words that don't feel true /
+  result / sitting is for the wisher" framing as unsupported interpretation; replaced
+  with the advisor's scoped text; example truncated per direction. Validated vs
+  pre-item baseline 40b397b.
+- Saturation: Metta (loving-kindness), Agape and Karuna edges already exist via the
+  philosophy-parallels wikilinks; no new proposals.
+- Inherited-not-reverified: Fredrickson et al. 2008 and Hofmann et al. 2011 claims in
+  the psychology-parallels link section (untouched).
+
+## BI013 correction note (2026-10-19, genuineflourishing29)
+
+- The earlier BI013 ledger entry wrongly stated the advisor round-1 corrections were
+  applied: the fix script crashed on a Practice-section assertion BEFORE its write, so
+  the corrected body never landed; only the Practice-section removal (a later script)
+  landed. The published file kept the non-verbatim blockquote and the
+  "turns up/turns down control" Plain words until this repair. Corrections now
+  re-applied to content/ and drafts/p1c/, validated vs 34aad55; BI013 reopened and
+  re-marked done after the state machine allowed it.
