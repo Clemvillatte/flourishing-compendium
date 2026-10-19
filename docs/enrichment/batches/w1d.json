@@ -2,18 +2,20 @@
  "batch": "w1d",
  "done": [
   "Escape from freedom",
-  "Eternal recurrence"
+  "Eternal recurrence",
+  "Evidence-based treatments (CBT, ACT, DBT, EMDR, medication) have robust evidence"
  ],
- "in_progress": "Stoic philosophy",
+ "in_progress": null,
  "flagged": {
   "The eternal contribution": "compendium coinage, not a traditional term: page says so in its first sentence; written for the sense BE068 uses"
  },
  "missing_concepts": [],
- "sources_checked": 8,
- "updated": "2026-10-19T07:31:26+00:00",
+ "sources_checked": 14,
+ "updated": "2026-10-19T07:33:54+00:00",
  "qc_log": {
   "Escape from freedom": "approved after 4 advisor QC rounds: quotes verified against opened sources (panarchy ch. V excerpt, Wikipedia, IEP Totalitarianism 2.d, SEP Critical Theory 1.4); Simondon Individuation and The having mode removed from Related; cross-tradition links labelled comparisons; sources_checked: 4",
-  "Eternal recurrence": "advisor QC round: Heidegger/Kaufmann claims removed (not in fetched SEP extraction); 'you' narration neutralised; Tiantai attribution fixed for Three thousand realms; compendium descriptions re-verified against E104, SP027, BE068, AF069, SE007, ST293 contexts"
+  "Eternal recurrence": "advisor QC round: Heidegger/Kaufmann claims removed (not in fetched SEP extraction); 'you' narration neutralised; Tiantai attribution fixed for Three thousand realms; compendium descriptions re-verified against E104, SP027, BE068, AF069, SE007, ST293 contexts",
+  "Evidence-based treatments (CBT, ACT, DBT, EMDR, medication) have robust evidence": "self-QC: quotes verbatim from opened sources (Hofmann PMC fetched; A-Tjak, Cristea, Bisson, Cipriani via search-result abstracts); caveats included per protocol; note: seed's 'Hofmann et al., 2010' is the online-first date, print 2012, full citation added"
  },
  "incidents": [
   "2026-10-19: enriched content/concepts/The eternal contribution.md by mistake (not in w1d manifest; belongs to w1ae). Content file reverted to seed in this commit; validated draft preserved at docs/enrichment/drafts/w1d/The eternal contribution.md for the w1ae agent. Reciprocal proposals for it removed from proposals/w1d.json."
