@@ -13,12 +13,12 @@
   "B006",
   "B053",
   "B069",
+  "P100",
+  "P182",
+  "P183",
   "B133",
   "P091",
-  "P100",
-  "P163",
-  "P182",
-  "P183"
+  "P163"
  ],
  "in_progress": null,
  "flagged": {
@@ -29,15 +29,15 @@
   "B054": "Reopened for QC: milestone QC: plain words repeat",
   "B069": "Reopened for QC: QC r2: plain words",
   "B122": "Reopened for QC: milestone QC: quote casing, lanes",
-  "B133": "Reopened for QC: milestone QC: unsupported definition",
-  "P091": "Reopened for QC: milestone QC: melody example",
+  "B133": "Reopened for QC: QC r3: collapse equation",
+  "P091": "Reopened for QC: QC r3: opener claim, example",
   "P100": "Reopened for QC: milestone QC: education context",
-  "P163": "Reopened for QC: milestone QC: experiential avoidance tie",
+  "P163": "Reopened for QC: QC r3: narrow opener, citation",
   "P182": "Reopened for QC: milestone QC: attribute law to James",
   "P183": "Reopened for QC: milestone QC: preserve qualification"
  },
  "missing_concepts": [],
  "sources_checked": 15,
- "updated": "2026-10-19T13:04:02+00:00",
+ "updated": "2026-10-19T13:06:53+00:00",
  "band_done": false
 }

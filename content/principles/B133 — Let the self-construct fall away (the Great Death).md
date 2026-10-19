@@ -12,16 +12,16 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 133** — Let the self-construct fall away (the Great Death)
 
-From time to time, let the whole story of me, past and future, roles and grievances, fall away and see what remains. The Zen tradition names the collapse and warns about the half that follows:
+From time to time, let the whole story of me, past and future, roles and grievances, fall away and see what remains. The Zen saying this page takes its name from concerns a different and larger matter, and it warns about the half that follows:
 
 > "It is easy to die the Great Death but difficult to regain one's life after that."
 > (Yamada Mumon Roshi discussing Hakuin, [Tricycle](https://tricycle.org/article/hakuin-ekaku-awakening/))
 
 The same discussion explains the warning: "returning eko, going back into the world to work for living beings after attaining realization, is a very arduous undertaking". Dying the Great Death is the easy half; the practice is the return. (Zen tradition; Hakuin's "Great Death.")
 
-**Plain words** The saying divides the work into a collapse and a return. In this telling the dying is the easy half; the hard half is regaining one's life, going back into the world to work for living beings. The exercise is to treat the return, with its errands and claims, as the practice.
+**Plain words** The saying divides its work into a collapse and a return. In this telling the dying is the easy half; the hard half is regaining one's life, going back into the world to work for living beings. An ordinary application of that shape: when something in you falls away, the exercise is the return, not the collapse.
 
-*For example:* After any experience of things falling away, notice the first ordinary demand that follows: a message to answer, an errand to run. Taking that demand up again is the return the saying calls arduous.
+*For example:* As an application of the shape: after an experience of things falling away, notice the first ordinary demand that follows, a message to answer, an errand to run. Taking it up is the return.
 
 ## Psychology parallels
 

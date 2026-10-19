@@ -12,16 +12,16 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 163** — Practice creative hopelessness: let go of what isn't working
 
-Face the facts about strategies that have failed, the control agenda, the waiting-for-perfection agenda, and let their failure free you for something new. ACT gives the process its name and its shape:
+Face the facts about the strategies you use to avoid unwanted thoughts and feelings, and let their failure free you for something new. ACT gives the process its name and its shape:
 
 > "The 'hopelessness' achieved in creative hopelessness is experiential contact with the futility of experiential avoidance, a growing suspicion that one's own verbal rules may be part of the problem rather than the solution, a confusion about what to do next, but a sense that it will be different and counterintuitive."
 > (Kanter, Baruch and Gaynor, The Behavior Analyst, [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC2223147/))
 
-The client is guided there by Socratic questions the article lists: "What do you want?", "What have you tried?", "How has that worked?" The article's target is experiential avoidance, the repeated attempt not to have the thoughts and feelings that show up; creative hopelessness is the discovery that this avoidance is what is not working. (Hayes, Strosahl and Wilson, 2011.)
+The client is guided there by Socratic questions the article lists: "What do you want?", "What have you tried?", "How has that worked?" The article's target is experiential avoidance, the repeated attempt not to have the thoughts and feelings that show up; creative hopelessness is the discovery that this avoidance is what is not working. (Kanter, Baruch and Gaynor, The Behavior Analyst.)
 
-**Plain words** The examination is experiential rather than logical: run a strategy and its history honestly and look at the pattern of results. The article's questions are the instrument; the target is the avoidance rule behind the strategy, not the person's worth. What changes is the suspicion that the rule is part of the problem.
+**Plain words** Pick one unwanted feeling you regularly try not to have, and the strategy you use to avoid it. Run the strategy's history honestly and look at the pattern of results: what the avoiding has produced so far. The article's questions are the instrument; the target is the avoidance rule behind the strategy, not the person's worth.
 
-*For example:* Suppose the strategy is to wait until life feels calm before organizing it, and suppose it has run for years. Examine the record of what the waiting has produced so far. The answer is whatever the record shows; the examination is the point.
+*For example:* Suppose the unwanted feeling is restlessness, and the strategy is to wait until life feels calm before organizing it, and suppose it has run for years. Examine the record of what the waiting has produced so far. The answer is whatever the record shows; the examination is the point.
 
 ## Practice kernels
 

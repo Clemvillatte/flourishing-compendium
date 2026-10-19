@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 91** — Distinguish lived time from clock time
 
-Clock time is a grid of identical instants; lived duration is qualitative: thick with meaning, stretching and compressing. Run your life by duration, not only by the clock. Bergson gives the contrast its sharpest line:
+Clock time is a grid of identical instants; lived duration is qualitative. Run your life by duration, not only by the clock. Bergson gives the contrast its sharpest line:
 
 > "When I follow with my eyes on the dial of a clock the movement of the hand which corresponds to the oscillations of the pendulum, I do not measure duration, as seems to be thought; I merely count simultaneities, which is very different."
 > (Bergson, Time and Free Will, [Pogson translation, Project Gutenberg](https://www.gutenberg.org/files/56852/56852-h/56852-h.htm))
@@ -21,7 +21,7 @@ His term for the other thing is pure duration: "the form which the succession of
 
 **Plain words** The clock can give you the positions of the notes; it cannot give you the phrase. To hear a melody as a melody is to hear the notes that have already sounded together with the note now playing, and that hearing is what Bergson calls duration. The clock's report is not wrong; it is a report of a different thing.
 
-*For example:* Listen to a short melody once while counting the notes, once while following the phrase. The count is the clock's report; the phrase is duration's. Both are honest, and they are different acts.
+*For example:* Take the passage's own demonstration: dwell too long on one note of a tune, and what tells you it is wrong is not the added length, which a clock could register, but the qualitative change caused in the whole of the musical phrase.
 
 ## Stories
 
