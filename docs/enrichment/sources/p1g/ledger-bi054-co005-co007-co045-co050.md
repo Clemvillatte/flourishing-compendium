@@ -29,14 +29,14 @@ Status: QC-pending. Advisor rounds 1-5 applied; awaiting acceptance.
 
 ## Linked-concept readings and backlink inspection
 
-Read without editing: Body scan in MBSR (Kabat-Zinn), Embodied cognition, Mindfulness, Yangsheng (cultivating vitality), The lived body, Virtue, The examined life, Growth through practice, Cognitive flexibility, Wu wei, The water metaphor, Flexibility as virtue, Cognitive restructuring, Cognitive distortions, Right view, Doubt as method.
+Read without editing (full bodies, not just backlink searches): Body scan in MBSR (Kabat-Zinn), Embodied cognition, Mindfulness, Yangsheng (cultivating vitality), The lived body, Virtue, The examined life, Growth through practice, Cognitive flexibility, Wu wei, The water metaphor, Flexibility as virtue, Cognitive restructuring, Cognitive distortions, Right view, Doubt as method.
 
-Backlink inspection (actual wikilinks in concept pages):
+Backlink inspection (actual wikilinks, not prose mentions):
 
 | Concept | Backlinks to my five principles |
 |---|---|
-| Body scan in MBSR (Kabat-Zinn) | (mentions BI054 in prose; not checked as wikilink) |
-| Embodied cognition | [[CO005]] in "In the compendium" |
+| Body scan in MBSR (Kabat-Zinn) | [[BI054]] (verified in file) |
+| Embodied cognition | [[CO005]] (verified in file, "In the compendium" section) |
 | Yangsheng (cultivating vitality) | [[BI054]], [[CO005]] |
 | The lived body | [[BI054]], [[CO005]] |
 | The examined life | [[CO007]], [[CO050]] |
@@ -50,7 +50,9 @@ Backlink inspection (actual wikilinks in concept pages):
 | Right view | [[CO050]] |
 | Doubt as method | [[CO050]] |
 | Mindfulness | no backlink to BI054 found |
-| Virtue | no backlink to CO007 found |
+| Virtue | no wikilink to CO007 found |
+
+Mindfulness and Virtue backlink gaps: recorded as gaps, no proposals added. Mindfulness's page does not link BI054 directly (it links Body scan in MBSR as related concept); Virtue's page does not link CO007 directly (it links Habituation and Character as habits). Adding these backlinks would require editing another band's concept pages, which is not permitted for a worker; the supervisor can add them if warranted.
 
 Candidate inspection (actual wikilinks, not prose mentions):
 
@@ -65,4 +67,4 @@ Candidate inspection (actual wikilinks, not prose mentions):
 - All five files validate ok with --base c2a3ee47.
 - Front-matter identical, principle statement identical, reflections block identical, no original wikilinks lost (verified against c2a3ee47).
 - Build succeeds (5719 entries).
-- Full narrative word counts (including Plain words and example, excluding blockquote lines and Markdown URL syntax), measured on the current revision: BI054 272, CO005 290, CO007 254, CO045 235, CO050 255. All within 40-300.
+- Full narrative word counts (including Plain words and example, excluding blockquote lines and Markdown URL syntax), measured on the current revision: BI054 272, CO005 290, CO007 254, CO045 235, CO050 255. All within 40-300. (BI054 word count excludes the blockquote lines and Markdown URL syntax.)
