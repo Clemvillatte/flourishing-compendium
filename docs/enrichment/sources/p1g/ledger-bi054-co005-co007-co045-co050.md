@@ -49,10 +49,12 @@ Backlink inspection (actual wikilinks, not prose mentions):
 | Cognitive distortions | [[CO050]] |
 | Right view | [[CO050]] |
 | Doubt as method | [[CO050]] |
-| Mindfulness | no backlink to BI054 found |
+| Mindfulness | no wikilink to BI054 found |
 | Virtue | no wikilink to CO007 found |
 
-Mindfulness and Virtue backlink gaps: recorded as gaps, no proposals added. Mindfulness's page does not link BI054 directly (it links Body scan in MBSR as related concept); Virtue's page does not link CO007 directly (it links Habituation and Character as habits). Adding these backlinks would require editing another band's concept pages, which is not permitted for a worker; the supervisor can add them if warranted.
+Wu wei (full body read): CO045 wikilink verified at "Cited in philosophy parallels" (line 283). The lived body (full body read): BI054 and CO005 wikilinks verified at "Cited in philosophy parallels" (lines 49 and 53). Body scan in MBSR (full body read): BI054 wikilink verified at "Cited in psychology parallels" (line 51). Embodied cognition (full body read): CO005 wikilink verified at "Cited in psychology parallels" (line 58).
+
+Mindfulness and Virtue backlink gaps: recorded as gaps, no proposals added. Mindfulness's page does not link BI054 directly (it links Body scan in MBSR as related concept); Virtue's page does not link CO007 directly (it links Habituation and Character as habits). Workers may propose cross-band links; they may not directly edit those targets. No proposal was added because the editorial case was not strong: Mindfulness already routes to the scan through Body scan in MBSR, and Virtue routes to the habituation claim through Habituation, so the existing two-step paths carry the relationship.
 
 Candidate inspection (actual wikilinks, not prose mentions):
 
