@@ -12,13 +12,22 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 59** — Do the difficult while it is easy
 
-Every hard thing is easy in its early stage. Attack problems at their smallest and the great becomes manageable.
+Daodejing 63 says it directly, and chapter 64 supplies the images.
 
-(DDJ 63.)
+> "(The master of it) anticipates things that are difficult while they are easy, and does things that would become great while they are small. All difficult things in the world are sure to arise from a previous state in which they were easy, and all great things from one in which they were small."
+> — James Legge, trans., The Tao Teh King, ch. 63.2
 
-**Plain words** Every hard thing is easy in its early stage. Have the awkward conversation now, check the weird symptom now, pay the small debt now — difficulty compounds too. The difference between hard and easy is mostly timing.
+### Early, and still careful
 
-*For example:* The cavity filled this month is twenty minutes; the root canal next year is an afternoon and a thousand dollars.
+Chapter 64 adds: "before a thing has given indications of its presence, it is easy to take measures against it; that which is brittle is easily broken; that which is very small is easily dispersed" (64.1). Then come the tree that "grew from the tiniest sprout" and the thousand-li trip that begins with one step (64.2).
+
+There is a counterweight in chapter 63.3: "he who is continually thinking things easy is sure to find them difficult. Therefore the sage sees difficulty even in what seems easy, and so never has any difficulties." Early action here is not casual action. The sage takes the easy stage seriously because it is the cheap one.
+
+(DDJ 63-64.)
+
+**Plain words** Problems are cheapest when they are small. The text's examples are things that are brittle or tiny: they come apart with little force. The same problem a year on is harder to shift, so the time to deal with it is while it is still easy, and without assuming it will stay easy.
+
+*For example:* Imagine a small crack you notice in a wall. Filling it today is a tube of filler and ten minutes. Leaving it means that a year from now you are asking what the damp has done.
 
 ## Stories
 
@@ -37,7 +46,7 @@ Every hard thing is easy in its early stage. Attack problems at their smallest a
 - [[K237 — See-the-small practice|K237 See-the-small practice]]
 ## Psychology parallels
 
-- **[[Implementation intentions|Implementation intentions]]**, specific if-then plans for early obstacles dramatically increase follow-through (Gollwitzer, 1999)
+- **[[Implementation intentions|Implementation intentions]]**, if-then plans linking an anticipated situation to a response further goal attainment (Gollwitzer, 1999). [Abstract](https://www.prospectivepsych.org/publications/implementation-intentions-strong-effects-simple-plans)
 - **[[Early intervention research|Early intervention research]]**
 
 ## Philosophy parallels

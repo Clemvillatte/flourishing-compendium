@@ -51,9 +51,10 @@
   "D156",
   "D090",
   "B119",
-  "B022"
+  "B022",
+  "D059"
  ],
- "in_progress": null,
+ "in_progress": "D114",
  "flagged": {
   "E012": "Reopened for QC: Implement independent advisor attribution and locator corrections using previously opened Walsh passages",
   "D003": "Reopened for QC: Supervisor QC: plural meta-analyses claim corrected",
@@ -63,10 +64,11 @@
   "E013": "Reopened for QC: QC correction: quote ends mid-sentence; invented quotation in example",
   "A065": "Reopened for QC: QC correction: wine quote drops source parenthesis",
   "SE066": "Reopened for QC: QC correction: outcomes not established by Vygotsky source",
-  "P038": "Reopened for QC: QC correction: inference and mechanical claim beyond James source"
+  "P038": "Reopened for QC: QC correction: inference and mechanical claim beyond James source",
+  "D114": "Reopened for QC: mis-marked done before start by operator error; rewriting now"
  },
  "missing_concepts": [],
  "sources_checked": 36,
- "updated": "2026-10-19T13:38:06+00:00",
+ "updated": "2026-10-19T13:38:49+00:00",
  "band_done": false
 }
