@@ -87,6 +87,8 @@ Then:
 ```
 
 ## 7. SAVE EARLY AND OFTEN (non-negotiable)
-Anything not pushed to GitHub is lost if the session or trial ends. After EVERY finished concept (and after writing the batch log / proposals) run:
-`scripts/enrich_save.sh "enrich: <concept> (<batch>)"` — it commits and pushes safely (file-locked, safe for parallel agents).
-Write the batch log incrementally (add each concept to `done` as you finish it), not only at the end.
+Anything not pushed to GitHub is lost if the session or trial ends. State transitions use
+`python3 scripts/enrich_state.py <band> start|done <Concept>` (see TASKBOARD.md rule 2).
+After EVERY state change, and at least every ~15 minutes of work (mid-concept WIP commits are
+recoverable), run: `scripts/enrich_save.sh "enrich: <concept> (<band>)"` — it commits, pushes,
+and verifies the remote head; it fails loudly if the push does not land.
