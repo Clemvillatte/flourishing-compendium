@@ -1,4 +1,4 @@
-# Draft: Buddhist emptiness of inherent nature — final (QC corrections applied, published)
+# Draft: Buddhist emptiness of inherent nature — final (QC + apostrophe-repair rounds applied, published)
 
 Sources opened (3 external):
 1. Westerhoff, "Nagarjuna," SEP (2010; substantive revision 2026-05-31) — emptiness is always emptiness of svabhāva; translations: "inherent existence", "intrinsic nature", "substance", "essence"; ontological + cognitive dimensions; three ontological understandings (essence, substance, absolute reality); fire-hot/water-wet essence example; Nāgārjuna does NOT target essence but svabhāva-as-substance (independent existence, basic furniture of the world); superimposition, cognitive default; realization vs intellectual understanding (soteriological); no master argument, step-by-step refutations; no ultimate truth, conventional truth remains; emptiness a corrective, not primordial reality ante rem.
@@ -9,7 +9,7 @@ Compendium principles read: K011 (ego's groundlessness as its nature, Nishitani)
 
 ## Page body (for content/concepts/Buddhist emptiness of inherent nature.md)
 
-Buddhist emptiness of inherent nature (śūnyatā) is the Madhyamaka claim that no phenomenon possesses svabhāva, a nature it has independently ([Westerhoff, SEP](https://plato.stanford.edu/entries/nagarjuna/)). It has been rendered as "inherent existence," "intrinsic nature," "substance" and "essence" ([Westerhoff, SEP](https://plato.stanford.edu/entries/nagarjuna/)). Nāgārjuna's summary verse reads: "Whatever is dependently co-arisen / That is explained to be emptiness. / That, being a dependent designation, / Is itself the middle way" (MMK 24.18, Garfield trans.) ([Garfield](https://kokyohenkel.weebly.com/uploads/1/2/7/4/127410773/nagarjuna_-_mulamadhyamakakarika_ch_24__garfield_.pdf)).
+Buddhist emptiness of inherent nature (śūnyatā) is the Madhyamaka claim that no phenomenon possesses svabhāva, a nature it has independently ([Westerhoff, SEP](https://plato.stanford.edu/entries/nagarjuna/)). Svabhāva is translated as "inherent existence," "intrinsic nature," "substance" and "essence" ([Westerhoff, SEP](https://plato.stanford.edu/entries/nagarjuna/)). Nāgārjuna's summary verse reads: "Whatever is dependently co-arisen / That is explained to be emptiness. / That, being a dependent designation, / Is itself the middle way" (MMK 24.18, Garfield trans.) ([Garfield](https://kokyohenkel.weebly.com/uploads/1/2/7/4/127410773/nagarjuna_-_mulamadhyamakakarika_ch_24__garfield_.pdf)).
 
 ### What svabhāva means
 
@@ -21,7 +21,7 @@ The opponent's worry is nihilism: "If all of this is empty, / Neither arising, n
 
 ### Emptiness itself empty
 
-On Westerhoff’s reading, emptiness is not a theory describing reality independently of human interests and conceptual resources; it corrects the mistaken attribution of svabhāva ([Westerhoff, SEP](https://plato.stanford.edu/entries/nagarjuna/)). The chapter gives the doctrine a two-truths frame: "The Buddha’s teaching of the Dharma / Is based on two truths: / A truth of worldly convention / And an ultimate truth," and that without conventional truth the ultimate's significance cannot be taught (MMK 24.10) ([Garfield](https://kokyohenkel.weebly.com/uploads/1/2/7/4/127410773/nagarjuna_-_mulamadhyamakakarika_ch_24__garfield_.pdf)). Arnold connects this with verse 18’s dependent designation: emptiness is not another independently existing foundation ([Arnold, IEP](https://iep.utm.edu/madhyamaka-buddhist-philosophy/)). Westerhoff notes that intellectual conviction does not make phenomena stop appearing to have svabhāva; that change is attributed to realisation ([Westerhoff, SEP](https://plato.stanford.edu/entries/nagarjuna/)).
+On Westerhoff’s reading, emptiness is not a theory describing reality independently of human interests and conceptual resources; it corrects the mistaken attribution of svabhāva ([Westerhoff, SEP](https://plato.stanford.edu/entries/nagarjuna/)). The chapter gives the doctrine a two-truths frame: "The Buddha’s teaching of the Dharma / Is based on two truths: / A truth of worldly convention / And an ultimate truth," and that without conventional truth the ultimate's significance cannot be taught (MMK 24.8, 24.10) ([Garfield](https://kokyohenkel.weebly.com/uploads/1/2/7/4/127410773/nagarjuna_-_mulamadhyamakakarika_ch_24__garfield_.pdf)). Arnold connects this with verse 18’s dependent designation: emptiness is not another independently existing foundation ([Arnold, IEP](https://iep.utm.edu/madhyamaka-buddhist-philosophy/)). Westerhoff notes that intellectual conviction does not make phenomena stop appearing to have svabhāva; that change is attributed to realisation ([Westerhoff, SEP](https://plato.stanford.edu/entries/nagarjuna/)).
 
 ### In the compendium
 
@@ -35,8 +35,8 @@ K011 "See the ego's groundlessness as its nature, not its failure" treats the co
 - [[Two truths]] — the conventional and ultimate truths of MMK 24.8-10
 - [[Impermanence]] — the arising and ceasing that chapter 24 ties to dependent origination
 - [[Dukkha]] — Arnold's reading of chapter 24: suffering can be caused to cease only if contingent
-- [[Interbeing]] — Hanh's term for interdependence, an adjacent concept offered without a lineage claim
-- [[Tathata, suchness]] — suchness, an adjacent term in the Buddhist vocabulary of emptiness
+- [[Interbeing]] — an editorial cross-reading: compare with dependent origination without assuming equivalence
+- [[Tathata, suchness]] — a further reading question: how does "suchness" differ from absence of inherent nature?
 
 ## Sources
 
