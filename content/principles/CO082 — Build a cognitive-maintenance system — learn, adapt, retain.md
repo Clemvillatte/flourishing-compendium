@@ -12,11 +12,30 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 ---
 > **Principle 82** — Build a cognitive-maintenance system: learn, adapt, retain
 
-Cognitive skills — reasoning, decision-making, debiasing, metacognition — are not one-time acquisitions; they are ongoing practices. They degrade without use, they need updating as circumstances change, and they need retention of what works.
+Three sources, from different periods, bear on the idea that thinking is something you keep doing, not something you finish learning.
 
-**Plain words** Cognitive skills — reasoning, decision-making, debiasing, metacognition — are ongoing practices, not one-time acquisitions. They degrade without use, need updating as circumstances change, and benefit from retention of what worked. Build the maintenance system: review, revise, keep.
+### Aristotle on habit
 
-*For example:* The person whose brilliant decision-making toolkit from 2015 runs unchanged — no audits, no updates, the biases quietly reinstalled — versus the one with the annual checkup: what worked, what drifted, what's new. The skills are living things; the maintenance is the life.
+In Nicomachean Ethics II.1 (Ross), skill and character come from repeated activity: "it is from playing the lyre that both good and bad lyre-players are produced", and, more generally, "states of character arise out of like activities." He is writing about virtue, not reasoning, but the structure is the same: capacities are made and kept by doing the relevant acts.
+
+### Spacing
+
+Cepeda and colleagues' meta-analysis covered 839 assessments of distributed practice across 317 experiments, and found that "the ISI producing maximal retention increased as retention interval increased": the longer you need to remember something, the longer the best gap between study sessions ([abstract](https://pubmed.ncbi.nlm.nih.gov/16719566/)). It is about verbal recall, not reasoning skills.
+
+### Demand and adult plasticity
+
+Lövdén and colleagues' framework says adult cognitive plasticity "is driven by a prolonged mismatch between functional organismic supplies and environmental demands" ([Lövdén et al., 2010](https://pure.mpg.de/rest/items/item_2099481_7/component/file_2099480/content)). A later paper summarises the framework as saying positive plastic change is driven by a mismatch "wherein cognitive demand exceeds available neural resources" ([PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7416041/)).
+
+### What the sources do not show
+
+None of these shows that reasoning, debiasing or metacognition "degrade without use", or that an annual audit helps. Those are the compendium's claims. The decision-journal practice below is one way to put the principle to use, but Tetlock (2005), Stern (2002), Ericsson et al. (1993) and the Socrates and Peirce parallels were not opened.
+
+(Aristotle, Nicomachean Ethics II.1; Cepeda et al., 2006; Lövdén et al., 2010.)
+
+**Plain words** Thinking skills are kept up by use and by occasional stretch. Aristotle says skills come from doing. The spacing research says reviews work best when spread out, with longer gaps for longer-lasting memory. And the adult-plasticity model says change comes when the task asks more than you can currently do. A review habit, such as a yearly look at what worked, is the compendium's way of making that routine.
+
+*For example:* Imagine you learned a decision checklist five years ago and never looked at it again. The sources above would not say it has decayed. They would say that, unreviewed, it has had no chance to be tested or updated, which is the gap the principle is pointing at.
+
 ## Psychology parallels
 
 - **Cognitive engagement maintains function**, sustained intellectual activity is associated with better cognitive ageing (Stern, 2002; Lövdén et al., 2010)
