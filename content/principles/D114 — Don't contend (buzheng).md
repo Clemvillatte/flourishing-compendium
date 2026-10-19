@@ -12,13 +12,29 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 114** — Don't contend (buzheng)
 
-The sage doesn't compete, so nothing under heaven can compete with him. Win by not entering races whose prize is ruin.
+Three chapters of the Daodejing use the same line about the sage and rivals. The Chinese term in the title, buzheng, means not striving or not contending.
+
+> "It is because he is thus free from striving that therefore no one in the world is able to strive with him."
+> — James Legge, trans., The Tao Teh King, ch. 22.2
+
+> "Because he does not strive, no one finds it possible to strive with him."
+> — Legge, ch. 66.3
+
+### How the text gets there
+
+Chapter 8 starts with water, which benefits "all things" by "occupying, without striving (to the contrary), the low place which all men dislike", and ends: "when (one with the highest excellence) does not wrangle (about his low position), no one finds fault with him" (8.1, 8.3).
+
+Chapter 66 gives the mechanism for a ruler. Rivers and seas receive the streams because of "their skill in being lower than they", and the sage "puts himself by his words below them". Chapter 22 ties it to humility: he is "free from self-display ... self-assertion ... self-boasting ... self-complacency".
+
+### A caution
+
+The title's "win by not entering races whose prize is ruin" is the compendium's reading. In the text, not striving is mostly a matter of posture, being low and unassertive, not a way to pick which contests to join. Read as a tactic, it risks becoming striving by another route.
 
 (DDJ 8, 22, 66.)
 
-**Plain words** Win by not entering races whose prize is ruin. Half of contention is showing up for contests that were rigged against your peace from the start.
+**Plain words** The text claims that if you are not pushing to be ahead, you give other people little to push against. Whether that works as a rule of thumb for modern work and life is the open question. The chapters themselves describe a ruler, not a worker or an entrepreneur.
 
-*For example:* The chef who refuses to join the neighboring restaurant's price war — they're in a different contest entirely, and it's called staying open.
+*For example:* Imagine a colleague who never claims credit in meetings. The text predicts few will bother to compete with them. Real workplaces may well behave otherwise, so treat this as the text's claim, not a result.
 
 ## Stories
 
@@ -37,7 +53,7 @@ The sage doesn't compete, so nothing under heaven can compete with him. Win by n
 - [[K220 — Democratic micro-practice|K220 Democratic micro-practice]]
 ## Psychology parallels
 
-- **[[Hypercompetitiveness|Hypercompetitiveness]]**, competitiveness contingent on self-worth predicts neuroticism and poor relationships (Ryckman et al., 1994)
+- **[[Hypercompetitiveness|Hypercompetitiveness]]**, in a sample of 160 university students, hypercompetitive attitudes went with higher narcissism and sensation seeking (Ryckman et al., 1994). [Abstract](https://pubmed.ncbi.nlm.nih.gov/8138889/)
 - **[[Cooperative game research|Cooperative game research]]** (Axelrod, 1984)
 
 ## Philosophy parallels
