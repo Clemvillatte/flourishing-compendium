@@ -12,11 +12,11 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 402** — Practise the constitution of meaning
 
-Recognise that meaning is not found in the world ready-made; it is constituted through the activity of consciousness. Your perceptions, memories, and interpretations are not passive receptions but active constitution. You are a meaning-maker. Take responsibility for the meanings you constitute.
+Husserl's term for what this principle describes is constitution. As he wrote in Ideas I, "the greatest and most important problems in phenomenology are related to the question of how objectivities of different kinds, from the prescientific to those of the highest scientific dignity, are constituted by consciousness." The constituting is done by consciousness — perceptions, memories, and interpretations are acts, not passive receptions. The tradition adds a caution: "the world cannot be reduced to or dissolved in consciousness, but nor can it be divorced from consciousness." You are not the author of reality, only of its sense for you. The compendium's application: the same announcement can be constituted as doom or as opening, and the one doing the constituting is you. That is where responsibility enters — not for the facts, but for the meanings they carry in your life, which are yours to make and to remake.
 
 (Husserl, 1913/1982, Ideas I, §§47-56; Husserl, 1929/1960, Cartesian Meditations, §§22-28, 38-41.)
 
-**Plain words** Meaning isn't found in the world ready-made — it's constituted through the activity of consciousness. Your perceptions, memories, and interpretations are not passive receptions; they're active constitution. You are a meaning-maker; take the responsibility that comes with the job.
+**Plain words** The world hands you events, not meanings. Two people hear the same news; one hears disaster, the other hears a chance. Neither is lying — each mind did some work on the raw material, and the work is what made the meaning. You can't stop doing this work, but you can notice you're doing it. When something feels like pure doom, ask: what did I add?
 
 *For example:* Two employees hear "the company is restructuring": one constitutes it as doom, one as the opening they've waited for. The announcement was the same; the meaning was manufactured — and the manufacturer is always on-site.
 ## Stories
