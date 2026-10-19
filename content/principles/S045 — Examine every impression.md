@@ -12,13 +12,29 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 167** — Examine every impression
 
-When something presents itself to your mind, do not immediately accept it. Ask: is this true? Is it complete? Is it within my control? The unexamined impression drives behaviour. The examined impression is a choice.
+Epictetus gives the practice as a short script. In Long's translation of the Encheiridion, chapter 1:
 
-(Disc. I.20, II.18, III.2-3, III.12; Ench. 1, 45.)
+> "Straightway then practise saying to every harsh appearance: You are an appearance, and in no manner what you appear to be. Then examine it by the rules which you possess, and by this first and chiefly, whether it relates to the things which are in our power or to things which are not in our power; and if it relates to anything which is not in our power, be ready to say that it does not concern you."
+> — Epictetus, Encheiridion 1 (Long trans.)
 
-**Plain words** When something presents itself to your mind, don't swallow it whole. Ask: is this true, is it complete, is it in my control? The unexamined impression drives behaviour. The examined one is a choice.
+### Slow the impression down
 
-*For example:* You read an alarming headline. Before sharing it, you ask what's missing.
+The Discourses chapter "How we should struggle against appearances" adds a pause before judging:
+
+> "But in the first place, be not hurried away by the rapidity of the appearance, but say, Appearances, wait for me a little; let me see who you are, and what you are about; let me put you to the test."
+> — Epictetus, Discourses (Long trans., selection; chapter listed in the principle as II.18)
+
+It warns against letting the impression "draw lively pictures of the things which will follow; for if you do, it will carry you off wherever it pleases." Chapter 45 of the Encheiridion applies the same discipline to judging other people: do not say a man "bathes badly" but that "he bathes quickly", because "before you shall have determined the opinion how do you know whether he is acting wrong?" Both are from the [Gutenberg selection](https://www.gutenberg.org/cache/epub/10661/pg10661.txt).
+
+### What the text asks
+
+The first question is about control. The questions "is it true?" and "is it complete?" are the compendium's wording. Epictetus's own tests here are whether the impression is what it appears to be and whether it concerns something in your power.
+
+(Epictetus, Encheiridion 1, 45; Discourses II.18.)
+
+**Plain words** A thought arrives looking like a fact. Epictetus says to stop and treat it as an appearance first. Check what it is claiming, and whether it is about something you can affect. If it is not, you do not have to act on it.
+
+*For example:* Imagine you read an alarming headline. Before sharing it, you say to it, "You are an appearance," and look for what the headline leaves out.
 
 ## Stories
 
