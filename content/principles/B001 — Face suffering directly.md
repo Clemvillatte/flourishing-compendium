@@ -12,13 +12,18 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 1** — Face suffering directly
 
-Suffering (dukkha) is not a taboo or a failure: it is the first thing to understand. Stop fleeing it, and study it: where it arises, what feeds it, what eases it.
+The first sermon lists suffering plainly (birth, aging, illness, death, separation from the pleasing, union with the displeasing, not getting what one wants; SN 56.11), and then gives suffering its task.
 
-(SN 56.11; Batchelor's first task: embrace life.)
+> "This noble truth of suffering is to be fully understood": thus, bhikkhus, in regard to things unheard before, there arose in me vision, knowledge, wisdom, true knowledge, and light. (SN 56.11, Bhikkhu Bodhi trans., [SuttaCentral](https://suttacentral.net/sn56.11/en/bodhi))
 
-**Plain words** Suffering isn't a taboo or a personal failure — it's the first thing to understand, not the first thing to flee. Stop running and study it: where it arises, what feeds it, what eases it. Most of what we call coping is just sprinting away from a teacher.
+SN 56.11 assigns different tasks to the four truths: suffering is to be fully understood, its origin abandoned, cessation realized, and the path developed. This principle takes up the first task. The principle's directive, stop fleeing and study where it arises, what feeds it, what eases it, is the compendium's application of that task: suffering (dukkha) is not a taboo or a failure, it is the first thing to understand.
 
-*For example:* The person who finally sits with the grief instead of drowning it in work — and discovers it had a shape, a schedule, and an end.
+(SN 56.11.)
+
+**Plain words**
+Pick a difficulty you are experiencing. Put into words what happened and what is painful about it. The aim of this exercise is to understand this particular experience more clearly.
+
+*For example:* Imagine missing someone on a quiet Sunday. As an exercise, describe what you miss and what you are feeling at that moment.
 
 ## Stories
 
@@ -64,7 +69,7 @@ Suffering (dukkha) is not a taboo or a failure: it is the first thing to underst
 
 ## Primary source (verbatim)
 
-> "Now this, bhikkhus, is the noble truth of suffering: birth is suffering, aging is suffering, illness is suffering, death is suffering; union with what is displeasing is suffering; separation from what is pleasing is suffering; not to get what one wants is suffering."
+> "Now this, bhikkhus, is the noble truth of suffering: birth is suffering, aging is suffering, illness is suffering, death is suffering; union with what is displeasing is suffering; separation from what is pleasing is suffering; not to get what one wants is suffering; in brief, the five aggregates subject to clinging are suffering."
 > — Bhikkhu Bodhi, trans., "Connected Discourses on the Truths" (SN 56.11).
 > Locator: SN 56.11 "Dhammacakkappavattana Sutta", SC 4.
 > Open-access source: https://suttacentral.net/sn56.11/en/bodhi

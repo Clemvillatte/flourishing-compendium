@@ -17,11 +17,12 @@
   "D078",
   "E003",
   "E011",
-  "D039"
+  "D039",
+  "B001"
  ],
  "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
- "sources_checked": 16,
- "updated": "2026-10-19T11:47:54+00:00"
+ "sources_checked": 17,
+ "updated": "2026-10-19T11:50:24+00:00"
 }

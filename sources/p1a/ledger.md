@@ -138,3 +138,13 @@ session after supervisor QC flags.
   - The old body's opening "The heavy is the root of the light; stillness is the lord of restlessness" was a paraphrase-translation not from an opened source; replaced by the actual Legge Gutenberg text.
   - Inherited flag (not modified; link sections are protected): the psychology parallel's "(Sonnentag and Fritz, 2007), during off-time predicts next-day engagement and long-term health" was NOT verified in an opened source this session; the "Psychological detachment" concept page also carries it without a URL.
 - Saturation: D039 cited by Recovery science and linked from practice kernels (K112, K198, K200, K203); no new reciprocals proposed.
+
+## B001 — Face suffering directly (done 2026-10-19)
+
+- Opened: SN 56.11 Dhammacakkappavattana Sutta, Bhikkhu Bodhi translation, SuttaCentral, https://suttacentral.net/sn56.11/en/bodhi
+  - Verified verbatim (body blockquote): "'This noble truth of suffering is to be fully understood': thus, bhikkhus, in regard to things unheard before, there arose in me vision, knowledge, wisdom, true knowledge, and light."
+  - Verified the four task assignments: suffering to be fully understood, origin abandoned, cessation realized, path developed (matches the wiki's own Four Noble Truths concept page).
+  - Corrected the page's existing "## Primary source (verbatim)" quote: it had silently ended with a full stop where the opened sentence continues "; in brief, the five aggregates subject to clinging are suffering." The final clause is now included (advisor QC round 1).
+  - Advisor QC round 1 rejected: "Hurt is information, and it has a location" (unsupported metaphor), "You cannot understand something you are still running from" (sweeping aphorism), the ten-minute sitting prescription, the assumption that a thought "feeds" grief, and the "makes no promise" closer. Plain words and example replaced with the advisor's restrained exercise framing.
+  - Citation change: the inherited "(Batchelor's first task: embrace life.)" was removed (not verified in an opened source; flagged, not silently kept).
+- Saturation: B001 cited by Dukkha and Four Noble Truths concept pages; no new reciprocals proposed.
