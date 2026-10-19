@@ -12,14 +12,14 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 143** — Do not desire externals as if they were permanent
 
-The Stoics sort the world into what depends on your own choices and what depends on others, and place wealth, status and health in the second group. Epictetus states the rule: "Man's good and man's evil lies in moral choice, and all other things are nothing to us" (Disc. I.25). Marcus Aurelius applies it to the extremes, life and death themselves, calling them "things which make us neither better nor worse. Therefore they are neither good nor evil" (Med. II.11). Good here means morally good: on this view nothing fortune controls can make a person better or worse.
+The Stoic distinction is between moral choice and external conditions such as wealth, status and health. Epictetus states the rule: "Man's good and man's evil lies in moral choice, and all other things are nothing to us" (Disc. I.25). Marcus Aurelius applies it to the extremes, life and death themselves, calling them "things which make us neither better nor worse. Therefore they are neither good nor evil" (Med. II.11). Good here means morally good: on this view nothing fortune controls can make a person better or worse.
 
 > "Your faithfulness is your own, your self-respect is your own; who, then, can take these things from you?" (Epictetus, Disc. I.25)
 
 The doctrine does not ask anyone to stop caring whether they are healthy. It asks them to treat fortune's materials as materials rather than goods. Epictetus's rule for their use: "Materials are indifferent, but the use which we make of them is not a matter of indifference" (Disc. II.5). Seneca closes the argument with lines he credits to Lucilius: "What Chance has made yours is not really yours" and "The good that could be given, can be removed" (Letters 8). (Disc. I.25, II.5; Med. II.11, IV.1, VI.14; Seneca, Letters 8, 71, 87.)
 
 **Plain words**
-Someone loses the job. The Stoic question is not whether that hurts; it is what part of the situation was hers. Keeping the job was never entirely in her hands; markets and managers decide that part. What she controls is what happens next: whether colleagues get an honest handover, whether the search starts with panic or with a plan. The principle says to put weight there, because externals are not goods that can be secured, only materials that can be used well or badly. Treating them as property feels safe only while nothing changes.
+After redundancy, someone can still want another job and worry about the bills. Keeping the old job was never wholly within her control. The Stoic task is to decide how to act during the loss: preparing an honest handover, making a job-search plan. She can value employment without assuming that any particular job will last.
 
 *For example:* A person whose confidence rests on her job title is shaken at redundancy. One whose confidence rests on how she treats people carries it to the next job.
 
