@@ -12,13 +12,26 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 66** — Watch states arise and pass
 
-Don't just feel anger: watch it arise, change, and dissolve. Whatever arises will pass; the watching outlasts the watched.
+The Satipatthana Sutta makes the mind something you can watch. In its section on the mind, the practitioner notes states as present or absent, aversion among them: "When the mind has aversion, he discerns that the mind has aversion. When the mind is without aversion, he discerns that the mind is without aversion" (MN 10, trans. Thanissaro, [Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html)). The same section then trains attention on the change itself:
+
+> "Or he remains focused on the phenomenon of origination with regard to the mind, on the phenomenon of passing away with regard to the mind, or on the phenomenon of origination & passing away with regard to the mind." (MN 10, trans. Thanissaro, [Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html))
+
+The verse the principle pairs with it gives the reason: "'All conditioned things are impermanent' — when one sees this with wisdom, one turns away from suffering" (Dhammapada 277, trans. Buddharakkhita, [Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.20.budd.html)). The states the sutta has you watch, aversion among them, are the things the verse calls impermanent, and the seeing is what loosens them.
 
 (MN 10; Dhammapada 277.)
 
-**Plain words** Don't just feel anger — watch it arise, change, and dissolve. Whatever arises will pass; the watching outlasts the watched. You are not required to be the weather. The sky position is available at all times.
+### Plain words
 
-*For example:* Sitting with the wave of anger instead of sending the text — ninety seconds later, the wave is a wave, not a verdict.
+You are angry, and the anger is supplying everything: the reading of what happened, the tone of the reply, the feeling that it cannot wait. The practice adds a second thing to the scene: the watching. You observe that the state had a start, that it shifts while you sit with it, and that it thins out. That is not an argument you have to accept; it is what you see when you look. What you do next can come from the watching rather than from the anger's first draft.
+
+### For example
+
+Sitting with the wave of anger instead of sending the text: if a message still needs sending, it gets written after the watching, and it is a different message from the one the anger was drafting.
+
+## Sources
+
+- [MN 10, Satipatthana Sutta, trans. Thanissaro Bhikkhu, Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html) — the mind section
+- [Dhammapada 277, trans. Acharya Buddharakkhita, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.20.budd.html)
 
 ## Stories
 
