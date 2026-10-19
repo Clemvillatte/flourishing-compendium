@@ -63,3 +63,9 @@ Advisor milestone QC (items 2-6 + D074 re-review) failed on inference-level issu
 - Preservation validated against pre-edit baseline 57b2117 for all six files: front-matter byte-identical, link sections identical, reflections identical.
 - Saturation (focused mention searches + verification): D088 candidate "The return to the inner self" (cites ST004 The Empty Boat, not D088) and D117 candidate "Benign versus malicious envy" and D171 candidate "Forgiveness" (links R005, not D171) added as reciprocals to proposals/p1f.json; Anger -> D074 retained. D144's mention candidates (HRV biofeedback etc.) all already link D144; D163's (Modesty norms research) already links D163.
 - All six files revalidated ok after round-2 fixes.
+
+## Milestone QC round 3 (2026-10-19, genuineflourishing33)
+
+- D117: first plain-words sentence deleted ("come largely from the arrangement" unsupported degree claim + confusion); plain words now begin with the ranking/comparison sentence.
+- D171: body's "chosen application" sentence removed (repetition with plain words); plain words now the concrete repair-question sequence per advisor.
+- Proposal target pages actually read (bodies, not just link checks): Anger (seed stub, no principle links, D074 justified), Benign versus malicious envy (seed stub citing van de Ven 2009, no D117), The return to the inner self (cites ST004 The Empty Boat in its principle list; no D088), Forgiveness (full page; covers self-forgiveness via the Shame link "what blocks self-forgiveness"; "In the compendium" lists R005/B163, no D171). All four reciprocals retained on read evidence.
