@@ -20,6 +20,10 @@ Its contemplative cousin is [[Right effort]], the Buddhist training that is expl
 
 the different trajectories of promotion and prevention goals (Higgins, 1997, the regulatory-focus framework).
 
+## Related concepts
+
+- [[Avoidance versus attentional engagement]] — the withdrawal cycle instantiates the avoidance side of the valence split
+
 ## Sources
 
 - Higgins, 1997, the regulatory-focus framework

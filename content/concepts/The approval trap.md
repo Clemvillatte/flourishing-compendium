@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “The approval trap” — Fromm, Escape from Freedom.
 
+## Related concepts
+
+- [[Escape from freedom]] — the trap is Fromm's esteem-driven route out of freedom
+
 ## Sources
 
 - Fromm, Escape from Freedom

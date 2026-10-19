@@ -12,6 +12,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 - Craig, 2009
 - Barrett et al., 2019
 - Khalsa et al., 2018
+## Related concepts
+
+- [[Body scan in MBSR (Kabat-Zinn)]] — the body scan trains interoception region by region
+
 ## Sources
 
 - Seth, 2013

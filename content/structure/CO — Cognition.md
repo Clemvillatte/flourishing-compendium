@@ -19,7 +19,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "", "chapter": "
 | Cognitive distortions (CBT) | Beck (1976, 2011); Burns (1980) |
 | Heuristics & biases | Tversky & Kahneman (1974); Gigerenzer (2007); Kahneman (2011) |
 | Dual-process theory | Kahneman (2011); Evans & Stanovich (2013) |
-| Cognitive flexibility | Diamond (2013); Monsell (2003) |
+| [[Cognitive flexibility|Cognitive flexibility]] | Diamond (2013); Monsell (2003) |
 | Metacognition | Flavell (1979); Dunlosky & Metcalfe (2009) |
 | Memory & reconsolidation | Schiller et al. (2010); Loftus & Palmer (1974) |
 | Rumination & reflection | Nolen-Hoeksema (2000); Treynor et al. (2003); Watkins (2008) |

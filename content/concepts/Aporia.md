@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Aporia” — Plato, Meno.
 
+## Related concepts
+
+- [[Docta ignorantia]] — the medieval doctrine that made the impasse itself a discipline
+
 ## Sources
 
 - Plato, Meno

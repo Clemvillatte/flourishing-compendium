@@ -27,6 +27,8 @@ Ubuntu anchors the relational R-principles: R001 "I am because we are" states th
 
 ## Related concepts
 
+
+
 - [[Ren]] — the Confucian counterpart: humaneness realised in relation to others (comparison, not influence)
 - [[I and Thou]] — Buber: personhood comes alive in genuine encounter
 - [[The relational self]] — the psychological version of the claim that selves are made in connection
@@ -39,7 +41,8 @@ Ubuntu anchors the relational R-principles: R001 "I am because we are" states th
 - [[Forgiveness]] — the Truth and Reconciliation Commission applied ubuntu through amnesty and restoration
 - [[The common good]] — consensus and collective responsibility are ubuntu's political face
 - [[Care]] — Noddings' relational ethics as a Western analogue of relation-grounded personhood
-
+- [[Distributed cognition / extended mind]] — the boundary-of-the-self question raised for personhood through relation
+- [[Family systems theory]] — personhood constituted in relation as a comparison from southern Africa
 ## Sources
 
 - [Wikipedia, Ubuntu philosophy](https://en.wikipedia.org/wiki/Ubuntu_philosophy) — original seed citation

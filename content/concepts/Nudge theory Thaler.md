@@ -14,3 +14,8 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY
 Overt Behavior · Psychological science
 [[SO056 — Design institutions for flourishing]]
 ## Cited in philosophy parallels
+
+
+## Related concepts
+
+- [[Context-dependent behaviour (Wood & Neal)]] — the context-cue mechanism that choice architecture manipulates

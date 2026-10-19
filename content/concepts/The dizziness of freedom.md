@@ -11,8 +11,9 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 ## Related concepts
 
-- [[Freedom]] — Kierkegaard: possibility itself as anxiety
 
+- [[Freedom]] — Kierkegaard: possibility itself as anxiety
+- [[Escape from freedom]] — the compendium sets Kierkegaard's anxiety of possibility beside Fromm's flight as a comparison
 ## Sources
 
 - Kierkegaard, The Concept of Anxiety

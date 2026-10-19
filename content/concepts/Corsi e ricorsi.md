@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Corsi e ricorsi” — Vico, The New Science.
 
+## Related concepts
+
+- [[Eternal recurrence]] — Vico's cycles of history as a comparison from another tradition
+
 ## Sources
 
 - Vico, The New Science

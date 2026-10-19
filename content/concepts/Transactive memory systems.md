@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 groups develop shared memory for who knows what (Wegner, 1987).
 
+## Related concepts
+
+- [[Distributed cognition / extended mind]] — the philosophical backing for memory distributed across people
+
 ## Sources
 
 - Wegner, 1987

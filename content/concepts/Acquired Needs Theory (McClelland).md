@@ -24,3 +24,7 @@ Affect · Psychological science
 [[PP071 — Practise retrieval, not just exposure]]
 [[MO022 — Recognise the role of curiosity and interest — intrinsic motivation's engine]]
 [[B158 — Everyone wants to be happy]]
+
+## Related concepts
+
+- [[ERG Theory]] — the fixed-categories alternative to learned needs

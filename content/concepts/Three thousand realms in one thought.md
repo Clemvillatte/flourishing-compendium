@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 (Zhiyi, Mohe Zhiguan (a phenomenological, not cosmological, reading)).
 
+## Related concepts
+
+- [[Eternal recurrence]] — Zhiyi's Tiantai image that one thought holds the three thousand realms, a comparison
+
 ## Sources
 
 - a phenomenological, not cosmological, reading

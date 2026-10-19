@@ -14,6 +14,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 - **read with love** — Nietzsche, The Gay Science 276, [[Amor fati|amor fati]]
 - **and the unity of flux** — Heraclitus, Fragments
 
+## Related concepts
+
+- [[Eternal recurrence]] — Heraclitus's flux as a Greek comparison for the recurring world
+
 ## Sources
 
 - Heraclitus, Fragments

@@ -11,8 +11,9 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 ## Related concepts
 
-- [[Freedom]] — Sartre's face: responsibility for what one makes of one's situation
 
+- [[Freedom]] — Sartre's face: responsibility for what one makes of one's situation
+- [[Escape from freedom]] — Sartre's opposite pole, freedom as inescapable (comparison)
 ## Sources
 
 - Sartre, Being and Nothingness

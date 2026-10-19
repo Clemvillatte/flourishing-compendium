@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 The tradition (Gilligan, Noddings, Tronto) that takes care — attentiveness, responsibility, competence, responsiveness — as the primary moral orientation rather than justice or rules. It resonates with Confucian relationality, [[Ubuntu|Ubuntu]], and Levinasian responsibility ([SEP Feminist Ethics](https://plato.stanford.edu/entries/feminist-ethics/)).
 
+## Related concepts
+
+- [[Care]] — the theory that grew from Noddings's analysis of care
+
 ## Sources
 - SEP Feminist Ethics: https://plato.stanford.edu/entries/feminist-ethics/
 

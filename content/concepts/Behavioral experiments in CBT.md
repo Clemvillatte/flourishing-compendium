@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 testing beliefs through action (Bennett-Levy et al., 2004).
 
+## Related concepts
+
+- [[Avoidance versus attentional engagement]] — testing beliefs through action instead of avoiding the test
+
 ## Sources
 
 - Bennett-Levy et al., 2004

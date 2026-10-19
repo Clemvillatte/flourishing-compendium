@@ -23,6 +23,7 @@ Care runs through the R-track's relational practices (R027 manaakitanga, R084 Le
 
 ## Related concepts
 
+
 - [[Ubuntu]] — relation-grounded personhood, the African and care-ethics analogues
 - [[Care ethics]] — the theory that grew from Noddings's analysis
 - [[Compassion]] — being moved by suffering: care's affective engine
@@ -31,7 +32,7 @@ Care runs through the R-track's relational practices (R027 manaakitanga, R084 Le
 - [[I and Thou]] — Buber: receiving the other as they are
 - [[Whanaungatanga]] — kinship belonging as an ethic of care
 - [[Altruism theory Batson empathy]] — the empathy-altruism hypothesis: care's motivational science
-
+- [[Attention]] — Noddings's engrossment is receptive attention: care's first act
 ## Sources
 
 - [IEP, Feminine and Feminist Ethics (care ethics section)](https://iep.utm.edu/care-ethics/) — Noddings's two parties and stages

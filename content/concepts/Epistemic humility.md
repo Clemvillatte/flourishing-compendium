@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Epistemic humility” — Leary et al., 2017.
 
+## Related concepts
+
+- [[Docta ignorantia]] — the premodern ancestor of humility about one's own knowledge
+
 ## Sources
 
 - Leary et al., 2017

@@ -21,3 +21,8 @@ Cognition · Psychological science
 [[CO081 — Recognise cognitive symptoms of clinical conditions — depression and anxiety affect thinking]]
 [[AT044 — Recognise the role of exercise in attention — movement restores and improves attention]]
 ## Cited in philosophy parallels
+
+
+## Related concepts
+
+- [[Cognitive flexibility]] — the shifting factor in the triad, made concrete

@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “The eternal contribution” — Nietzsche, eternal recurrence.
 
+## Related concepts
+
+- [[Eternal recurrence]] — the recurrence turned toward what a life leaves behind
+
 ## Sources
 
 - Nietzsche, eternal recurrence

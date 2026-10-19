@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Self-overcoming” — Nietzsche, Thus Spoke Zarathustra.
 
+## Related concepts
+
+- [[Eternal recurrence]] — the doctrine appears in Zarathustra alongside self-overcoming
+
 ## Sources
 
 - Nietzsche, Thus Spoke Zarathustra

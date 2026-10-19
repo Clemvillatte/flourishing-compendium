@@ -21,6 +21,10 @@ Kenosis is not self-hatred, abasement, or the annihilation of the person. Vincen
 As a psychological concept, kenosis is often compared to modern research on humility, self-transcendence, and the paradox that self-focus can impair performance and well-being, though this is an interpretive analogy rather than a genealogical claim. It supplies a mechanism for the Daoist and Buddhist convergence in this library: the claim that the ego's projects of self-aggrandisement are the obstacle, and that the good life requires a deliberate loosening of the grip. The practical form is not abasement but non-exploitation: not using what you have — status, skill, information — to dominate the situation. This is the ethical core shared with wu wei (non-forcing) and anatta (non-identification).
 As a psychological concept, kenosis is often compared to modern research on humility, self-transcendence, and the paradox that self-focus can impair performance and well-being, though this is an interpretive analogy rather than a genealogical claim. The Regent paper develops the leadership application directly: kenosis as "radical subordination" of the leader's skills, plans and abilities, holding back the leader's use of power, knowledge, expertise or resources so that others develop their own abilities. It supplies the mechanism for the convergence in this library with wu wei (non-forcing) and anatta (non-identification): in each case the obstacle is the ego's project of maintaining and aggrandising itself, and the remedy is a deliberate loosening of the grip.
 
+## Related concepts
+
+- [[Docta ignorantia]] — the unknowing that knows itself, in the Christian key
+
 ## Sources
 
 - [Wikipedia, Kenosis](https://en.wikipedia.org/wiki/Kenosis) — the Philippians 2:5–9 quotation, the five occurrences of kenóō, and the range of contested interpretations.

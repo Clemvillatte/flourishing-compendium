@@ -16,6 +16,10 @@ Research distinguishes emotional loneliness (absence of an intimate attachment) 
 
 Cross-traditionally, solitude is often reframed: contemplative traditions distinguish involuntary loneliness (dukkha, a form of suffering) from chosen solitude as a condition for reflection and depth. The examined response is neither denial nor surrender but honest acknowledgment of the signal, corrective action where possible, and equanimity where not.
 
+## Related concepts
+
+- [[Escape from freedom]] — the condition Fromm's three escape mechanisms relieve
+
 ## Sources
 - Cacioppo, J. T., & Cacioppo, S. — http://cyberpsychology.eu/view.php?cisoWeb=akce-cislo-39-clanek-2
 - Holt-Lunstad, J., Smith, T. B., & Layton, J. B. (2010). Social relationships and mortality risk: A meta-analytic review. PLoS Medicine, 7(7). — https://doi.org/10.1371/journal.pmed.1000316

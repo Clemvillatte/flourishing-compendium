@@ -27,6 +27,10 @@ Its Buddhist ancestor is [[Right effort]] — effort decided in advance of the m
 - if-then plans increase goal attainment (Gollwitzer, 1999; Gollwitzer & Sheeran, 2006)
 - specifying the when-and-how of intended actions dramatically increases follow-through (Gollwitzer, 1999)
 
+## Related concepts
+
+- [[Context-dependent behaviour (Wood & Neal)]] — the context-cue mechanism that planning exploits
+
 ## Sources
 
 - Gollwitzer, 1999

@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Vipassana (insight)” — Buddhist meditation.
 
+## Related concepts
+
+- [[Body scan in MBSR (Kabat-Zinn)]] — B043 lists the body scan among the kernels serving insight practice
+
 ## Sources
 
 - Buddhist meditation

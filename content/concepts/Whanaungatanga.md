@@ -11,8 +11,9 @@ Māori principle of kinship and belonging — the web of relationship through wh
 
 ## Related concepts
 
-- [[Ubuntu]] — Pacific counterpart: kinship belonging as relational identity
 
+- [[Ubuntu]] — Pacific counterpart: kinship belonging as relational identity
+- [[Care]] — kinship belonging as an ethic of care
 ## Sources
 - Wikipedia Whanaungatanga: https://en.wikipedia.org/wiki/Whanaungatanga
 

@@ -15,3 +15,8 @@ Cognition · Psychological science
 [[K018 — Take interpenetration literally]]
 [[R089 — Practise incarnation]]
 ## Cited in philosophy parallels
+
+
+## Related concepts
+
+- [[Distributed cognition / extended mind]] — the constitutive version of context-shaped cognition

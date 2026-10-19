@@ -19,7 +19,7 @@ Under threat or stress, thinking narrows (focus on the threat, reduce options). 
 *For example:* The person who makes all their big decisions in crisis mode — narrow, fast, options contracted — versus the one who schedules decisions for calm mornings when the full menu is visible. Same brain; different apertures. The aperture is the variable.
 ## Psychology parallels
 
-- **Stress narrows cognition**, acute stress reduces cognitive flexibility and working memory (Arnsten, 2009; Diamond, 2013)
+- **Stress narrows cognition**, acute stress reduces [[Cognitive flexibility|cognitive flexibility]] and working memory (Arnsten, 2009; Diamond, 2013)
 - **Positive affect broadens cognition**, positive emotions expand thought-action repertoires (Fredrickson, 2001; Fredrickson & Branigan, 2005)
 
 ## Philosophy parallels

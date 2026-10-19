@@ -42,6 +42,10 @@ autonomy and relatedness grow together (Deci and Ryan, 2000).
 - autonomy, competence, and relatedness are three basic needs (Deci & Ryan, 2000; Ryan & Deci, 2017)
 - three basic needs: autonomy, competence, relatedness (Deci & Ryan, 2000; Ryan & Deci, 2017)
 
+## Related concepts
+
+- [[ERG Theory]] — another needs theory without a ladder, for comparison
+
 ## Sources
 
 - Deci and Ryan, 2000

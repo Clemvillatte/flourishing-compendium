@@ -10,6 +10,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 the ability to shift between mental sets and adapt to new demands (Monsell, 2003; Diamond, 2013).
 
+## Related concepts
+
+- [[Cognitive flexibility]] — the executive-function construct behind the lab tasks
+
 ## Sources
 
 - Monsell, 2003

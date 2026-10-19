@@ -17,3 +17,8 @@ Sociocultural · Psychological science
 [[D107 — Trust your own nature]]
 [[SO013 — Treat cultural meaning as constructed, not given]]
 [[BE057 — Learn to use physical touch appropriately — touch is connection]]
+
+
+## Related concepts
+
+- [[ERG Theory]] — frustration-regression, for comparison with frustration's aggressive route

@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 mere smartphone presence reduces cognitive capacity (Ward et al., 2017).
 
+## Related concepts
+
+- [[Attention]] — Simon's scarcity of attention, commercialised
+
 ## Sources
 
 - Ward et al., 2017

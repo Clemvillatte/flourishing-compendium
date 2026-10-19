@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 building the affiliative soothing system (Gilbert, 2009).
 
+## Related concepts
+
+- [[Evidence-based treatments (CBT, ACT, DBT, EMDR, medication) have robust evidence]] — a further therapy approach the wiki covers
+
 ## Sources
 
 - Gilbert, 2009

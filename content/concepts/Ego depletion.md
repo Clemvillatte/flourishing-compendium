@@ -25,3 +25,7 @@ attention as the scarce resource.
 [[AT025 — Build concentration capacity through practice — attention is like a muscle]]
 [[CO066 — Learn to take the third-person perspective — distanced self-talk improves reasoning]]
 [[PP040 — Cultivate temperance]]
+
+## Related concepts
+
+- [[Context-dependent behaviour (Wood & Neal)]] — the model whose inhibition route invokes this resource account

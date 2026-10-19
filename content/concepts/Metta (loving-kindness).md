@@ -15,6 +15,7 @@ Metta's cross-tradition family is the universal-love traditions: Kierkegaard's a
 
 ## Related concepts
 
+
 - [[Agape]] — Kierkegaard: unconditional love
 - [[Karuna]] — compassion, its companion brahmavihara
 - [[Four immeasurables]] — the brahmavihara set
@@ -24,6 +25,7 @@ Metta's cross-tradition family is the universal-love traditions: Kierkegaard's a
 
 - Buddhist brahmaviharas
 - Buddhist tradition, Metta Sutta
+- [[Care]] — the Buddhist training of wishing well
 ## Sources
 
 - Buddha, Karaṇīya Metta Sutta (Sn 1.8)

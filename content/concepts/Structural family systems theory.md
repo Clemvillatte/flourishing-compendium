@@ -21,3 +21,8 @@ Clinical Psychodynamic · Psychological science
 [[A113 — Make your household a school of virtue]]
 [[S039 — Be a good family member]]
 ## Cited in philosophy parallels
+
+
+## Related concepts
+
+- [[Family systems theory]] — the Bowen-line parent concept for Minuchin's structural version

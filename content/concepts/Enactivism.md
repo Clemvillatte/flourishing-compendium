@@ -10,6 +10,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Enactivism” — Varela, Thompson and Rosch, The Embodied Mind.
 
+## Related concepts
+
+- [[Distributed cognition / extended mind]] — the thesis that tools and others can be constituents of cognition
+
 ## Sources
 
 - Varela, Thompson and Rosch, The Embodied Mind

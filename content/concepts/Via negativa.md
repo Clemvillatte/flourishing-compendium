@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Via negativa” — Pseudo-Dionysius, Mystical Theology; apophatic tradition.
 
+## Related concepts
+
+- [[Docta ignorantia]] — the coincidence of opposites as a limit of negation
+
 ## Sources
 
 - Pseudo-Dionysius, Mystical Theology

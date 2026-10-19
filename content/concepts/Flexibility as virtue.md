@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Flexibility as virtue” — Nietzsche, The Gay Science.
 
+## Related concepts
+
+- [[Cognitive flexibility]] — the executive-function account offered for comparison with flexibility as a virtue
+
 ## Sources
 
 - Nietzsche, The Gay Science

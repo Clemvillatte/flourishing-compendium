@@ -13,6 +13,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 - **and child outcomes** — Baumrind, 1991
 
+## Related concepts
+
+- [[Family systems theory]] — the parenting style the compendium pairs with the systems view
+
 ## Sources
 
 - Baumrind, 1991

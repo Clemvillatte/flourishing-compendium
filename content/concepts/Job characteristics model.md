@@ -17,3 +17,8 @@ Affect · Psychological science
 [[S130 — Practise the discipline of speech]]
 [[A001 — Make eudaimonia the organising end of your life]]
 [[E504 — Spare a person shame]]
+
+
+## Related concepts
+
+- [[ERG Theory]] — needs theory applied to work design

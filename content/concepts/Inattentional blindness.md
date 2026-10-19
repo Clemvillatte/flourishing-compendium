@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Inattentional blindness” — Simons and Chabris, 1999.
 
+## Related concepts
+
+- [[Attention]] — what unattended things are simply not seen
+
 ## Sources
 
 - Simons and Chabris, 1999

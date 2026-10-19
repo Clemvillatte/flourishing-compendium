@@ -11,8 +11,9 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 ## Related concepts
 
-- [[Freedom]] — the refusal of freedom in Sartre's sense
 
+- [[Freedom]] — the refusal of freedom in Sartre's sense
+- [[Escape from freedom]] — the compendium pairs Sartre's individual dodge with Fromm's social flight (comparison)
 ## Sources
 
 - Sartre, Being and Nothingness

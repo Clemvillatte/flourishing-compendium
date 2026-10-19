@@ -10,6 +10,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 “Nihilism” — Nietzsche, Thus Spoke Zarathustra; de Beauvoir, The Ethics of Ambiguity.
 
 - Wong, 2016
+## Related concepts
+
+- [[Eternal recurrence]] — early readers located the doctrine's function in Nietzsche's critique of nihilism (SEP)
+
 ## Sources
 
 - Nietzsche, Thus Spoke Zarathustra

@@ -14,6 +14,10 @@ noticing that even your framework is a mental event (Flavell, 1979).
 
 - monitoring and controlling one's own learning (Flavell, 1979)
 
+## Related concepts
+
+- [[Attention]] — attention watching itself
+
 ## Sources
 
 - Flavell, 1979

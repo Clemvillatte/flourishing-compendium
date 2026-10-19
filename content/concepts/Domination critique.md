@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Domination critique” — Fromm, Escape from Freedom.
 
+## Related concepts
+
+- [[Escape from freedom]] — domination is the assertive pole of Fromm's authoritarianism mechanism
+
 ## Sources
 
 - Fromm, Escape from Freedom

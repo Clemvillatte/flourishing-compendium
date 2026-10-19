@@ -30,4 +30,4 @@ Meditation — particularly open monitoring and non-directive meditation — all
 
 ## Practice
 
-- Alternate concentration practice (focused attention) with restorative practice (open monitoring, body scan, non-directive rest in awareness). Do not make all meditation effortful; include rest.
+- Alternate concentration practice (focused attention) with restorative practice (open monitoring, [[Body scan in MBSR (Kabat-Zinn)|body scan]], non-directive rest in awareness). Do not make all meditation effortful; include rest.

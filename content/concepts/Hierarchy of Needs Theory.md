@@ -17,3 +17,8 @@ Affect · Psychological science
 [[E103 — Practise self-overcoming (Selbstüberwindung)]]
 [[A001 — Make eudaimonia the organising end of your life]]
 [[P117 — Grow from being-values, not deficiency-needs]]
+
+
+## Related concepts
+
+- [[ERG Theory]] — Alderfer's reworking of this model into three simultaneous needs

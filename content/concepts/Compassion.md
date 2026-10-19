@@ -18,8 +18,9 @@ An example at its smallest: the two-step on any witnessed suffering — feel it 
 Its Buddhist original is [[Karuna]], its Confucian cousin [[Ren]], and its psychological near-neighbour [[Empathy]].
 ## Related concepts
 
-- [[Ubuntu]] — compassion listed among the marks of a person with ubuntu (Tutu)
 
+- [[Ubuntu]] — compassion listed among the marks of a person with ubuntu (Tutu)
+- [[Care]] — being moved by suffering: care's affective engine
 ## Sources
 
 - Goetz et al., 2010

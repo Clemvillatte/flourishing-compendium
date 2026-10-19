@@ -23,8 +23,9 @@ The Confucian cousin is [[Ren]] — relation, not the isolated individual, as th
 
 ## Related concepts
 
-- [[Ubuntu]] — personhood comes alive in encounter, per Buber
 
+- [[Ubuntu]] — personhood comes alive in encounter, per Buber
+- [[Care]] — receiving the other as they are, per Buber
 ## Sources
 
 - Buber, I and Thou

@@ -20,7 +20,7 @@ Interoception — the perception of internal bodily signals (heart rate, breath,
 ## Psychology parallels
 
 - **[[Interoception|Interoception and emotion (Craig, Barrett)]]**, interoceptive accuracy correlates with emotional awareness and regulation (Craig, 2009; Barrett et al., 2019)
-- **Body scan and mindfulness improve interoception**, systematic training improves accuracy (Khalsa et al., 2018; Tang et al., 2015)
+- **[[Body scan in MBSR (Kabat-Zinn)|Body scan]] and mindfulness improve interoception**, systematic training improves accuracy (Khalsa et al., 2018; Tang et al., 2015)
 
 ## Philosophy parallels
 

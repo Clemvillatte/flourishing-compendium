@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Life affirmation” — Wong, 2016.
 
+## Related concepts
+
+- [[Eternal recurrence]] — the recurrence is Nietzsche's test of whether one can affirm one's life
+
 ## Sources
 
 - Wong, 2016

@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 treating metacognitive beliefs ("worrying is useful") reduces anxiety and depression (Wells, 2009).
 
+## Related concepts
+
+- [[Evidence-based treatments (CBT, ACT, DBT, EMDR, medication) have robust evidence]] — a further CBT-family therapy in the compendium
+
 ## Sources
 
 - "worrying is useful"

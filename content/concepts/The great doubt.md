@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “The great doubt” — Zen tradition.
 
+## Related concepts
+
+- [[Docta ignorantia]] — the rest-in-not-knowing doctrine, for comparison with the Zen engine
+
 ## Sources
 
 - Zen tradition

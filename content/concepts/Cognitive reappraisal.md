@@ -24,8 +24,11 @@ Its social-cognitive sibling is [[Perspective-taking]] — reappraisal of the ev
 
 ## Related concepts
 
-- [[Anger regulation research]] — the research tradition that tested reappraisal against other strategies
 
+
+- [[Anger regulation research]] — the research tradition that tested reappraisal against other strategies
+- [[Cognitive flexibility]] — generating alternative interpretations is perspective-shifting in action
+- [[Evidence-based treatments (CBT, ACT, DBT, EMDR, medication) have robust evidence]] — the reappraisal skill taught inside CBT
 ## Sources
 
 - Gross, 1998

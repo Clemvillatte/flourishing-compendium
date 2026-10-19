@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Fu (return)” — Laozi, Daodejing 16.
 
+## Related concepts
+
+- [[Eternal recurrence]] — the Daoist pattern of return, set beside Nietzsche's recurrence as a comparison
+
 ## Sources
 
 - Laozi, Daodejing 16

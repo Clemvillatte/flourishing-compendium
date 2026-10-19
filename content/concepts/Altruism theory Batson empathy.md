@@ -15,3 +15,8 @@ Sociocultural · Psychological science
 [[R094 — Practise substitution]]
 [[R084 — Practise infinite responsibility]]
 ## Cited in philosophy parallels
+
+
+## Related concepts
+
+- [[Care]] — the empathy-altruism hypothesis: care's motivational science

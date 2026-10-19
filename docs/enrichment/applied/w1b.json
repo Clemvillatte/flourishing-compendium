@@ -1,150 +1,130 @@
 {
  "batch": "w1b",
  "done": [
-  "The observing self",
-  "The relational self",
-  "To the things themselves"
+  "Broaden-and-build",
+  "Delight in the ordinary",
+  "Forgiveness"
  ],
  "flagged": {},
  "missing_concepts": [],
- "sources_checked": 17,
+ "sources_checked": 11,
  "inline": [],
  "reciprocal": [
   {
-   "target": "content/concepts/Self-as-context.md",
-   "concept": "The observing self",
-   "why": "ACT's self-as-context is the therapeutic operationalisation of Deikman's observer"
+   "target": "content/concepts/Mudita (sympathetic joy).md",
+   "concept": "Broaden-and-build",
+   "why": "mudita is a broaden-type emotion: joy taken in others' joy"
   },
   {
-   "target": "content/concepts/Self-distancing.md",
-   "concept": "The observing self",
-   "why": "the self-distancing experiments measured the observer perspective's effects"
+   "target": "content/concepts/Gratitude.md",
+   "concept": "Broaden-and-build",
+   "why": "a savouring positive emotion in the same family"
   },
   {
-   "target": "content/concepts/Stream of consciousness.md",
-   "concept": "The observing self",
-   "why": "James's stream is the medium in which the I knows the Me"
+   "target": "content/concepts/Hope.md",
+   "concept": "Broaden-and-build",
+   "why": "the future-oriented member of the family"
   },
   {
-   "target": "content/concepts/Metacognition.md",
-   "concept": "The observing self",
-   "why": "noticing one's own thinking is the wider skill the observer vantage rests on"
+   "target": "content/concepts/Curiosity.md",
+   "concept": "Broaden-and-build",
+   "why": "the everyday face of interest's urge to explore"
   },
   {
-   "target": "content/concepts/Meta-awareness.md",
-   "concept": "The observing self",
-   "why": "knowing what the mind is doing while it does it is the observer's register"
+   "target": "content/concepts/Awe.md",
+   "concept": "Broaden-and-build",
+   "why": "a self-diminishing positive emotion"
   },
   {
-   "target": "content/concepts/Narrative identity.md",
-   "concept": "The observing self",
-   "why": "the story of self is the content the observing self is contrasted with (P160)"
+   "target": "content/concepts/Contentment in station.md",
+   "concept": "Broaden-and-build",
+   "why": "contentment as a place to rest, echoing the savour urge"
   },
   {
-   "target": "content/concepts/The witness.md",
-   "concept": "The observing self",
-   "why": "the Drig-Drisya-Viveka's Seer, consciousness that never becomes the seen, is the contemplative parallel"
+   "target": "content/concepts/Dispositional optimism.md",
+   "concept": "Broaden-and-build",
+   "why": "positive expectation as a durable reserve"
   },
   {
-   "target": "content/concepts/Anatta.md",
-   "concept": "The observing self",
-   "why": "the Buddhist doctrine of no permanent soul-substance gives a different answer to the observer's status"
+   "target": "content/concepts/Eudaimonia.md",
+   "concept": "Broaden-and-build",
+   "why": "the flourishing the built resources serve"
   },
   {
-   "target": "content/concepts/The inner citadel.md",
-   "concept": "The observing self",
-   "why": "Hadot's Stoic stronghold that external things cannot penetrate is the Greek-Roman parallel (S064)"
+   "target": "content/concepts/Broaden-and-build.md",
+   "concept": "Delight in the ordinary",
+   "why": "contentment's savour urge is delight in the ordinary"
   },
   {
-   "target": "content/concepts/I and Thou.md",
-   "concept": "The relational self",
-   "why": "Buber's I-Thou is the relational self's philosophical root"
-  },
-  {
-   "target": "content/concepts/The Between.md",
-   "concept": "The relational self",
-   "why": "Buber locates relation itself in the between"
-  },
-  {
-   "target": "content/concepts/Being-with (Mitsein).md",
-   "concept": "The relational self",
-   "why": "Heidegger's co-existence names the same structure (E026)"
-  },
-  {
-   "target": "content/concepts/Ubuntu.md",
-   "concept": "The relational self",
-   "why": "personhood constituted through others (R001)"
-  },
-  {
-   "target": "content/concepts/Interdependent self-construal.md",
-   "concept": "The relational self",
-   "why": "the cultural-psychology version of self-in-relation"
-  },
-  {
-   "target": "content/concepts/Attachment theory.md",
-   "concept": "The relational self",
-   "why": "early bonds supply the significant-other representations (SE047)"
-  },
-  {
-   "target": "content/concepts/The social self.md",
-   "concept": "The relational self",
-   "why": "the different selves carried by different relationships (SE049)"
-  },
-  {
-   "target": "content/concepts/The observing self.md",
-   "concept": "The relational self",
-   "why": "the observer vantage contrasts with the self constituted in relations"
-  },
-  {
-   "target": "content/concepts/Co-regulation in relationships.md",
-   "concept": "The relational self",
-   "why": "affect itself is shaped between people, not only within"
-  },
-  {
-   "target": "content/concepts/Epoché.md",
-   "concept": "To the things themselves",
-   "why": "the epoché clears the way for Husserl's return"
-  },
-  {
-   "target": "content/concepts/Intentionality.md",
-   "concept": "To the things themselves",
-   "why": "the maxim presupposes consciousness as always consciousness of something"
-  },
-  {
-   "target": "content/concepts/Phenomenology of the lifeworld.md",
-   "concept": "To the things themselves",
-   "why": "the return's destination in later Husserl"
-  },
-  {
-   "target": "content/concepts/Pure experience.md",
-   "concept": "To the things themselves",
-   "why": "James's parallel return to experience before the subject-object split"
-  },
-  {
-   "target": "content/concepts/Tathata, suchness.md",
-   "concept": "To the things themselves",
-   "why": "things as they are, the Buddhist counterpart (B124)"
-  },
-  {
-   "target": "content/concepts/Beginner's mind.md",
-   "concept": "To the things themselves",
-   "why": "the Zen posture of first encounter (B048)"
-  },
-  {
-   "target": "content/concepts/Pu (the uncarved block).md",
-   "concept": "To the things themselves",
-   "why": "the Daoist return to the unhewn (D010)"
+   "target": "content/concepts/Wu wei.md",
+   "concept": "Delight in the ordinary",
+   "why": "the ordinary's texture is non-forcing"
   },
   {
    "target": "content/concepts/Ziran (naturalness).md",
-   "concept": "To the things themselves",
-   "why": "things being what they are of themselves (D002)"
+   "concept": "Delight in the ordinary",
+   "why": "the ordinary is what is so of itself"
   },
   {
-   "target": "content/concepts/Aisthesis.md",
-   "concept": "To the things themselves",
-   "why": "trained perception as contact with the given (A050)"
+   "target": "content/concepts/Pu (the uncarved block).md",
+   "concept": "Delight in the ordinary",
+   "why": "the plain unhewn baseline (DDJ 80's knotted cords)"
+  },
+  {
+   "target": "content/concepts/Simplicity.md",
+   "concept": "Delight in the ordinary",
+   "why": "plainness chosen as a value"
+  },
+  {
+   "target": "content/concepts/Contentment in station.md",
+   "concept": "Delight in the ordinary",
+   "why": "resting where one already is (DDJ 80)"
+  },
+  {
+   "target": "content/concepts/Beginner's mind.md",
+   "concept": "Delight in the ordinary",
+   "why": "the freshness that keeps the ordinary visible"
+  },
+  {
+   "target": "content/concepts/Boredom.md",
+   "concept": "Delight in the ordinary",
+   "why": "the ordinary's shadow, to be befriended (B181)"
+  },
+  {
+   "target": "content/concepts/Sati.md",
+   "concept": "Delight in the ordinary",
+   "why": "presence that makes the ordinary appear"
+  },
+  {
+   "target": "content/concepts/Restorative justice.md",
+   "concept": "Forgiveness",
+   "why": "repair without revenge; the TRC is the shared case"
+  },
+  {
+   "target": "content/concepts/Reconciliation.md",
+   "concept": "Forgiveness",
+   "why": "released debt is what reconciliation requires (B163)"
+  },
+  {
+   "target": "content/concepts/Compassion.md",
+   "concept": "Forgiveness",
+   "why": "the empathic component forgiveness interventions train"
+  },
+  {
+   "target": "content/concepts/Justice.md",
+   "concept": "Forgiveness",
+   "why": "Arendt's punishment is forgiveness's alternative, not its opposite"
+  },
+  {
+   "target": "content/concepts/Guilt.md",
+   "concept": "Forgiveness",
+   "why": "the offender's side of the debt"
+  },
+  {
+   "target": "content/concepts/Shame.md",
+   "concept": "Forgiveness",
+   "why": "what blocks self-forgiveness (Griffin et al. 2015 line)"
   }
  ],
- "notes": "Advisor QC passed after two rounds (word count fixed to validator limit, lineage claims weakened, ACT framed as related not derivative, James paraphrased per source, three related-concept clauses verified against Britannica / Drig-Drisya-Viveka course text / Hadot commentary). Original citation line 'Deikman, 1963, 1982' retained; the 1963 date could not be confirmed on deikman.com's Experimental Meditation page (not stated there), noted here as a legacy citation caveat. No inline proposals: every plain-text 'observing self' mention found in the corpus was already wikilinked."
+ "notes": "continues after lead applied the first proposals file (moved to applied/)"
 }

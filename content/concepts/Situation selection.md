@@ -19,6 +19,10 @@ Its contemplative cognates are the Buddhist guarding of the sense doors ([[Right
 
 situational strategies — choosing environments rather than resisting temptations — may be especially effective in preventing undesirable action (Duckworth et al., 2016).
 
+## Related concepts
+
+- [[Context-dependent behaviour (Wood & Neal)]] — the context-cue mechanism that choosing contexts upstream works on
+
 ## Sources
 
 - Duckworth et al., 2016

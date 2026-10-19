@@ -22,6 +22,11 @@ The Buddhist ancestor is [[Right effort]] — the four efforts are action-first 
 - doing, not discussing, is the active ingredient against depression (Jacobson et al., 1996; Martell et al., 2001)
 - doing, not believing, is the active ingredient (Jacobson et al., 1996)
 
+## Related concepts
+
+
+- [[Evidence-based treatments (CBT, ACT, DBT, EMDR, medication) have robust evidence]] — the compendium's activation concept for depression
+- [[Avoidance versus attentional engagement]] — the withdrawal-maintains-depression finding is BA's core account
 ## Sources
 
 - Jacobson et al., 1996

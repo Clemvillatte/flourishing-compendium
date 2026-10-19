@@ -35,6 +35,10 @@ For flourishing, flow suggests: (1) design your activities so that perceived cha
 
 - 2025-2026 neuroimaging meta-analyses
 - 2025-2026 meta-analyses on flow and mindfulness
+## Related concepts
+
+- [[Attention]] — flow is attention at full absorption
+
 ## Sources
 
 - [Wikipedia — Flow (psychology)](https://en.wikipedia.org/wiki/Flow_(psychology))

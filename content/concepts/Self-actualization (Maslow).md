@@ -13,6 +13,10 @@ the full use and exploitation of talents, capacities, and potential (Maslow, 196
 
 - **becoming** — Maslow, Toward a Psychology of Being
 
+## Related concepts
+
+- [[ERG Theory]] — the theory that recast this need as the growth category
+
 ## Sources
 
 - Maslow, 1968, 1970

@@ -21,6 +21,10 @@ The ancient training is [[Yangsheng (cultivating vitality)]]; the current it rea
 - predicts emotion regulation (Mehling et al., 2009)
 - the body as the basis of the felt self (Seth, 2013; Mehling et al., 2009)
 
+## Related concepts
+
+- [[Body scan in MBSR (Kabat-Zinn)]] — the scan asks for attending to internal signals as information
+
 ## Sources
 
 - Mehling et al., 2009

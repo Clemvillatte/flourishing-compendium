@@ -24,6 +24,10 @@ expertise built through structured feedback (Ericsson et al., 1993).
 
 - expertise requires years, not months (Ericsson et al., 1993)
 
+## Related concepts
+
+- [[Attention]] — attention aimed at improvement
+
 ## Sources
 
 - Ericsson et al., 1993

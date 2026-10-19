@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Filial piety” — Confucius, The Analects.
 
+## Related concepts
+
+- [[Family systems theory]] — the Confucian family ethic as a comparison tradition
+
 ## Sources
 
 - Confucius, The Analects
