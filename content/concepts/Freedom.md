@@ -7,13 +7,13 @@ file: "Freedom"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-F"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter F", "parent": ""}
 ---
-Freedom is the capacity to act from one's own understanding rather than from external compulsion or internal passion. Almost every analysis of it lands on the same skeleton: an agent is free from certain constraints, to do or become certain things (MacCallum's triad, via [SEP, Positive and Negative Liberty](https://plato.stanford.edu/entries/liberty-positive-negative/)). Isaiah Berlin's "Two Concepts of Liberty" (1958) split the question in two. Negative liberty asks how far a person is left undisturbed by others; positive liberty asks who or what is in control of the person's choices (Berlin 1969, pp. 121-22, as framed in the [SEP entry](https://plato.stanford.edu/entries/liberty-positive-negative/)).
+Freedom is the capacity to act from one's own understanding rather than from external compulsion or internal passion. The word gathers several distinct questions: political liberty, autonomy, and liberation from craving or fear. One influential analysis gives almost every freedom claim the same skeleton: an agent is free from certain constraints, to do or become certain things (MacCallum's triad, via [SEP, Positive and Negative Liberty](https://plato.stanford.edu/entries/liberty-positive-negative/)). Isaiah Berlin's "Two Concepts of Liberty" (1958) made the first split canonical: negative liberty asks how far a person is left undisturbed by others; positive liberty asks who or what is in control of the person's choices (Berlin 1969, pp. 121-22, as framed in the [SEP entry](https://plato.stanford.edu/entries/liberty-positive-negative/)).
 
 ### The faces across traditions
 
-Each tradition in the wiki holds one face. The Stoics put freedom in judgment: between stimulus and response there is a space, and training widens it ([Epictetus](https://iep.utm.edu/epictetu/); the wiki's S056). Spinoza defines the free thing as one that "exists from the necessity of its nature alone, and is determined to act by itself alone" (Ethics I def. 7; [IEP](https://iep.utm.edu/spinoza-free-will-determinism/)): freedom and necessity coincide, and understanding what determines you is how you stop being merely acted upon. Sartre makes freedom inescapable: a person is never free from constraints, yet remains responsible for what they make of a situation (Being and Nothingness; [SEP on Sartre](https://plato.stanford.edu/entries/sartre/)). The Buddhist face is freedom from craving: release is available now, and the waiting mind is the only thing missing (Dhammapada 239-240; the wiki's B198).
+Each tradition in the wiki holds one face. The Stoics put freedom in judgment: what is up to us is opinion, impulse, desire and aversion, and these are "by nature free, unrestrained, unhindered" ([Epictetus, Enchiridion 1](https://classics.mit.edu/Epictetus/epicench.html)). For Spinoza, freedom does not mean uncaused choice: a thing is free when it acts from the necessity of its own nature rather than being determined from outside (Ethics I def. 7; [IEP](https://iep.utm.edu/spinoza-free-will-determinism/)). The Sartrean face, carried by the wiki's E031, is radical: a person is never free from constraints, yet remains responsible for what they make of a situation. The Buddhist face, carried by B198, is freedom from craving: release is available now, and the waiting mind is the only thing missing (Dhammapada 239-240, as B198 reads it).
 
-Berlin's warning hangs over the positive side of the ledger: the demand for self-mastery can slide into telling people what their real selves want. Erich Fromm saw the other side: modern freedom is isolating, and people flee it into authoritarianism and conformity ([Escape from Freedom](https://en.wikipedia.org/wiki/Escape_from_Freedom), 1941). Kierkegaard named the anxiety of possibility itself the dizziness of freedom ([The Concept of Anxiety](https://en.wikipedia.org/wiki/The_Concept_of_Anxiety)). The phenomenologists answered that freedom is never unencumbered: it is exercised from within a body, a history and a situation (Merleau-Ponty; [SEP](https://plato.stanford.edu/entries/merleau-ponty/)).
+Berlin's warning hangs over the positive side of the ledger: the demand for self-mastery can slide into telling people what their real selves want. Erich Fromm saw the other side: freedom from traditional bonds also isolates, and many people flee its burden into authoritarianism, conformity or destructiveness ([Escape from Freedom](https://en.wikipedia.org/wiki/Escape_from_Freedom), 1941). Kierkegaard named the anxiety of possibility itself: "anxiety is the dizziness of freedom," which "emerges when... freedom looks down into its own possibility" ([The Concept of Anxiety](https://en.wikipedia.org/wiki/The_Concept_of_Dread), 1844; the wiki's ST273 tells it). Situated-freedom accounts answer that freedom is never unencumbered: it is exercised from within a body, a history and a situation (the wiki's R106).
 
 ### In the compendium
 
@@ -36,20 +36,21 @@ Freedom is the hub the family pages break into faces, and the principle tracks c
 - [[The dizziness of freedom]] — Kierkegaard: possibility itself as anxiety
 - [[The Cynic's freedom]] — Diogenes: freedom through wanting little
 - [[The interdependence of freedoms]] — de Beauvoir: my freedom is bound up with yours
-- [[Will to power]] — Nietzsche: self-overcoming as the drive freedom serves
-- [[Equanimity]] — the Stoic and Buddhist fruit of freedom of judgment
+- [[Will to power]] — the Nietzschean counterpoint: power as growth rather than non-interference
+- [[Autonomy]] — the psychological sibling: self-governing action
+- [[Second-order desires]] — Frankfurt: freedom as wanting what you want to want
+- [[The capabilities approach]] — Sen: freedom as what people are actually able to do and be
 - [[Bad faith]] — Sartre: the refusal of freedom, the waiter's dance
+- [[Equanimity]] — the Stoic and Buddhist fruit of freedom of judgment
 
 ## Sources
 
 - [SEP, Theories of Freedom](https://plato.stanford.edu/entries/freedom-variants/) — original seed citation
 - [SEP, Positive and Negative Liberty](https://plato.stanford.edu/entries/liberty-positive-negative/) — Berlin's two questions (1969, pp. 121-22) and MacCallum's triadic analysis
-- [Isaiah Berlin, Two Concepts of Liberty (1958)](https://en.wikipedia.org/wiki/Two_Concepts_of_Liberty) — the lecture behind the distinction
+- [Epictetus, Enchiridion (Internet Classics Archive)](https://classics.mit.edu/Epictetus/epicench.html) — chapter 1: what is in our control
 - [IEP, Spinoza on Free Will and Freedom](https://iep.utm.edu/spinoza-free-will-determinism/) — Ethics I def. 7 and the activity reading of freedom
-- [IEP, Epictetus](https://iep.utm.edu/epictetu/) — Stoic freedom as judgment and prohairesis
-- [SEP, Jean-Paul Sartre](https://plato.stanford.edu/entries/sartre/) — radical freedom and bad faith
-- [SEP, Maurice Merleau-Ponty](https://plato.stanford.edu/entries/merleau-ponty/) — freedom as situated
-- [Wikipedia, Escape from Freedom](https://en.wikipedia.org/wiki/Escape_from_Freedom) — Fromm 1941
-- [Wikipedia, The Concept of Anxiety](https://en.wikipedia.org/wiki/The_Concept_of_Anxiety) — Kierkegaard's dizziness of freedom
+- [IEP, Epictetus](https://iep.utm.edu/epictetu/) — correct use of impressions as what is up to us
+- [Wikipedia, Escape from Freedom](https://en.wikipedia.org/wiki/Escape_from_Freedom) — Fromm 1941: the three escape mechanisms
+- [Wikipedia, The Concept of Anxiety](https://en.wikipedia.org/wiki/The_Concept_of_Dread) — Kierkegaard's dizziness of freedom
 
 ## Cited in philosophy parallels
