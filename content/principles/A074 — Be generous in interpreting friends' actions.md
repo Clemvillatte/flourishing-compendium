@@ -12,13 +12,25 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 74** — Be generous in interpreting friends' actions
 
-The good friend assumes the best about the other's motives. Do not be quick to take offense. Do not attribute malice where ignorance or fatigue may be the cause. Generosity of interpretation is itself a virtue of friendship.
+Aristotle does not state this principle in so many words. What the cited passages give is a stance toward a friend who has gone wrong, and it is more guarded than "assume the best." In NE IX.3 (Ross's translation) he asks whether a friendship should end "when the other party does not remain the same."
 
-(NE VIII.5, IX.3, IX.4; EE VII.2.)
+### Help before you break off
 
-**Plain words** A good friend assumes the best about your motives. Don't take offence quickly, and don't see malice where ignorance or tiredness would explain it. Reading a friend generously is itself part of friendship.
+Aristotle writes: "if one accepts another man as good, and he turns out badly and is seen to do so, must one still love him? Surely it is impossible, since not everything can be loved, but only what is good." But the friendship does not end at once: "Or is this not so in all cases, but only when one's friends are incurable in their wickedness? If they are capable of being reformed one should rather come to the assistance of their character or their property, inasmuch as this is better and more characteristic of friendship." ([MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.9.ix.html))
 
-*For example:* A friend who cancels twice might be exhausted, not careless. A message asking "you okay?" does more than a cold reply.
+### Remember the friendship
+
+Even after a break, "he should keep a remembrance of their former intimacy, and as we think we ought to oblige friends rather than strangers, so to those who have been our friends we ought to make some allowance for our former friendship, when the breach has not been due to excess of wickedness."
+
+### Where the text stops
+
+None of this is about reading motives. The compendium's advice to avoid taking offence and to look for ignorance or tiredness before malice is its own, and Aristotle sets a limit on charity that the principle leaves out: it does not apply to a friend who is incurably bad.
+
+(NE IX.3, 1165b.)
+
+**Plain words** Aristotle says to give a friend who has changed a chance: help them first, and if the friendship does end, do not treat them as a stranger. The compendium adds a habit of reading a friend's actions generously. Aristotle does not say this directly, and he allows that some friendships should end.
+
+*For example:* Imagine a friend who cancels twice. Asking "you okay?" before concluding they don't care fits the spirit of helping first. If it becomes a pattern with no change, Aristotle's limit applies.
 
 ## Practice kernels
 
