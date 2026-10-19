@@ -2,11 +2,12 @@
  "batch": "w1e",
  "done": [
   "Attentional control training and the role of repeated redirection",
-  "Body scan in MBSR (Kabat-Zinn)"
+  "Body scan in MBSR (Kabat-Zinn)",
+  "Avoidance versus attentional engagement"
  ],
- "in_progress": "Avoidance versus attentional engagement",
+ "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
- "sources_checked": 10,
- "updated": "2026-10-19T07:23:29+00:00"
+ "sources_checked": 14,
+ "updated": "2026-10-19T07:24:52+00:00"
 }
