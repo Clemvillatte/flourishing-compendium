@@ -10,13 +10,19 @@ number: "45"
 navigation: {"track": "philosophy", "primaryPath": ["NAV-PHILOSOPHY", "NAV-PHIL-PP"], "alternatePaths": []}
 legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognition", "chapter": "CO-S04 — LAYER IV — THINKING MODES — INTUITION, ANALYSIS, AND FLEXIBILITY", "parent": ""}
 ---
+
 > **Principle 45** — Cultivate cognitive flexibility: the capacity to switch between modes
 
-Cognitive flexibility is the ability to adapt thinking to changing demands, switch between tasks or perspectives, and update strategies when the environment changes. It is a core executive function and a strong predictor of well-being and resilience.
+In cognitive science, cognitive flexibility is one of three core executive functions, and it is the one that fails when someone cannot stop using an old rule in a new situation. The Daoist image for the same capacity is water, which takes the shape of whatever container it meets without losing anything of itself.
 
-**Plain words** Cognitive flexibility: the ability to adapt thinking to changing demands, switch perspectives, and update strategies when the environment shifts. A core executive function. Train it — the rigid mind, however smart, breaks against a moving world.
+> The highest excellence is like (that of) water. The excellence of water appears in its benefiting all things, and in its occupying, without striving (to the contrary), the low place which all men dislike. Hence (its way) is near to (that of) the Tao. (Laozi, Daodejing 8, Legge translation, [Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt))
+
+What the water image is doing is not recommending passivity. It is describing the difference between a strategy and a rigid identity: water still has a destination, it just does not insist on one specific route to get there. In the executive-function literature, the correlate is set-shifting — the ability to notice that the old rule has stopped paying and drop it.
+
+**Plain words** A rigid mind is one that keeps using the same rule after the rule has stopped working. Flexibility is noticing that the situation has changed and switching to a different approach without treating the switch as a personal defeat. It is not indecision; it is not being wrong on purpose; it is being quick to admit that the world has moved.
 
 *For example:* The strategist whose 2020 plan was excellent for 2019 — and the difference between the ones who re-planned in March and the ones who defended the dead plan. Same intelligence; different flexibility. The flexible ones kept the company.
+
 ## Psychology parallels
 
 - **[[Cognitive flexibility|Cognitive flexibility as a core executive function]]**, the ability to shift between mental sets and adapt to new rules (Miyake et al., 2000; Diamond, 2013)
