@@ -12,13 +12,22 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 128** — Remember that you are a citizen of the cosmos
 
-You belong to a larger community: the city of gods and humans. Act as a citizen of that city, not merely of your household or nation. The Stoic is a cosmopolitan: at home everywhere, obligated to all. Broaden your circle of concern beyond your immediate group.
+The Meditations argument the principle is built on:
+
+> "If reason is general, then is that reason also, which prescribeth what is to be done and what not, common unto all. If that, then law. If law, then are we fellow-citizens. If so, then are we partners in some one commonweal. If so, then the world is as it were a city." (Meditations IV.4, trans. George Long, [Project Gutenberg](https://www.gutenberg.org/files/2680/2680-h/2680-h.htm))
+
+Epictetus makes the duty explicit: "you are a citizen of the world, and a part of it, not one of the subservient (serving), but one of the principal (ruling) parts", and the citizen's character promises "to hold nothing as profitable to himself; to deliberate about nothing as if he were detached from the community" (Discourses, trans. George Long). His formula for what a human is gives the old body its phrase: "A part of a state, of that first which consists of gods and of men" (Discourses II.5, trans. Long).
 
 (Med. IV.4; Disc. I.9, II.10; Seneca, Letters 28, 44.)
 
 **Plain words** You belong to a bigger community, the city of gods and humans. Act as its citizen, not only your household's or your nation's. At home everywhere, owing something to everyone. Widen the circle of concern past the people close to you.
 
 *For example:* Giving a seat to a stranger and also taking an interest in what a distant war does to ordinary people are the same habit at two sizes.
+
+## Sources
+
+- [Meditations IV.4, trans. George Long, Project Gutenberg](https://www.gutenberg.org/files/2680/2680-h/2680-h.htm)
+- [Discourses of Epictetus (selection), trans. George Long, Project Gutenberg](https://www.gutenberg.org/files/10661/10661-h/10661-h.htm) — the citizen-of-the-world and gods-and-men passages
 
 ## Stories
 
