@@ -12,13 +12,14 @@
   "Beginner's mind",
   "Courage",
   "Creative evolution",
-  "Empathic understanding"
+  "Empathic understanding",
+  "Experience plus reflection"
  ],
  "flagged": {
   "Perspective-getting": "seed cites 'Epley et al., 2007' for 'asking beats perspective-taking'; no such perspective-getting paper could be found (canonical: Epley et al. 2004 anchoring; Eyal, Steffel & Epley 2018 JPSP 114(4):547-571 'Perspective mistaking'). Original line kept, prose cites the verified papers."
  },
  "missing_concepts": [],
- "sources_checked": 31,
+ "sources_checked": 33,
  "inline": [],
  "reciprocal": [
   {
@@ -495,6 +496,46 @@
    "target": "content/concepts/Acceptance.md",
    "concept": "Empathic understanding",
    "why": "letting another's world be as it is"
+  },
+  {
+   "target": "content/concepts/Experiential learning.md",
+   "concept": "Experience plus reflection",
+   "why": "the pedagogy built on this formula"
+  },
+  {
+   "target": "content/concepts/Deliberate practice.md",
+   "concept": "Experience plus reflection",
+   "why": "the loop made skilled"
+  },
+  {
+   "target": "content/concepts/Rumination.md",
+   "concept": "Experience plus reflection",
+   "why": "chewing without new input, the loop's maladaptive cousin"
+  },
+  {
+   "target": "content/concepts/Savoring.md",
+   "concept": "Experience plus reflection",
+   "why": "reflection turned toward the positive"
+  },
+  {
+   "target": "content/concepts/Meaning-making.md",
+   "concept": "Experience plus reflection",
+   "why": "the interpretive yield of a life reviewed"
+  },
+  {
+   "target": "content/concepts/Habit.md",
+   "concept": "Experience plus reflection",
+   "why": "what reflection consolidates"
+  },
+  {
+   "target": "content/concepts/Habituation.md",
+   "concept": "Experience plus reflection",
+   "why": "the training side of the same economy"
+  },
+  {
+   "target": "content/concepts/Growth mindset.md",
+   "concept": "Experience plus reflection",
+   "why": "the belief that experience is still open"
   }
  ],
  "notes": "continues after lead applied the first proposals file (moved to applied/)"
