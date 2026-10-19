@@ -2708,6 +2708,8 @@ function moduleById(id){ return window.fcAcademyData.modules[id]; }
 
 /* ---------- State (no persistent storage — sandbox) ---------- */
 const A = { view:'home', degree:null, module:null, filters:{q:'',topic:'',level:''}, completed:new Set() };
+try { A.completed = new Set(JSON.parse(localStorage.getItem('acadWatched') || '[]')); } catch (e) {}
+function saveWatched(){ try { localStorage.setItem('acadWatched', JSON.stringify([...A.completed])); } catch (e) {} }
 
 /* ---------- Navigation ---------- */
 function switchView(v){
@@ -3107,6 +3109,7 @@ function openEmbeddedPlayer(src, url){
     document.querySelectorAll('.acad-media-row[data-src-id="' + src.source_id + '"]').forEach(function(r){
       r.classList.toggle('watched', A.completed.has(src.source_id));
     });
+    saveWatched();
   };
   foot.appendChild(doneBtn);
   box.appendChild(foot);
