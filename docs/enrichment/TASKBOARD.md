@@ -58,7 +58,7 @@ The owner's primary-source library is in `docs/PRIMARY-SOURCES.md`.
 | p1e | 241-310 | BE026 to D065 | p1e | claimed | worker-p1e-4f2c9b1d (took over released band; 43/70 done; P157 citation repair first) | 2026-10-20 |
 | p1f | 311-370 | D074 to BI001 | p1f | claimed | genuineflourishing41 (took over stale genuineflourishing33; 20/60 done, D/B/P items QC-passed) | 2026-10-20 |
 | p1g | 371-430 | BI009 to Y015 | p1g | claimed | agent-p1l-worker-27c22a8e (takeover from stale genuineflourishing35; 23/60 done) | 2026-10-20 |
-| p1h | 431-490 | Y026 to D096 | p1h | claimed | genuineflourishing35 | 2026-10-19 |
+| p1h | 431-490 | Y026 to D096 | p1h | claimed | worker-p1h-8a3d7e29 (took over stale genuineflourishing35; 12/60 done) | 2026-10-20 |
 | p1i | selected ranks 491-615 | D115 to B148 (30 priority items) | p1i | claimed | genuineflourishing39 | 2026-10-19 |
 | p1j | selected ranks 616-695 | B153 to P189 (30 priority items) | p1j | done (30/30; band closed by genuineflourishing32) | genuineflourishing32 | 2026-10-19 |
 | p1k | selected ranks 696-806 | P192 to B183 (30 priority items) | p1k | done (30/30; band closed by genuineflourishing32) | genuineflourishing32 | 2026-10-19 |
