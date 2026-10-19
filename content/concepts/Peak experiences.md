@@ -39,6 +39,8 @@ The seed's second facet is Csikszentmihalyi's flow, the sibling construct. Flow 
 
 - **and flow** — Csikszentmihalyi, 1990
 
+[[B176 — Treat the present moment as the miracle]]
+
 ## Sources
 
 - Maslow, 1964
