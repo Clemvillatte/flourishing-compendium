@@ -1,0 +1,139 @@
+{
+ "batch": "w1a",
+ "done": [
+  "Ubuntu"
+ ],
+ "flagged": {},
+ "missing_concepts": [],
+ "sources_checked": 5,
+ "inline": [
+  {
+   "target": "content/principles/AF021 — Understand affective presence — your feelings influence others' feelings.md",
+   "concept": "Ubuntu",
+   "phrase": "Ubuntu: I am because we are"
+  },
+  {
+   "target": "content/principles/AF058 — Recognise loneliness — it is a signal, not a character flaw.md",
+   "concept": "Ubuntu",
+   "phrase": "Ubuntu: I am because we are"
+  },
+  {
+   "target": "content/principles/AF073 — Learn co-regulation — affect is regulated with others, not just within.md",
+   "concept": "Ubuntu",
+   "phrase": "Ubuntu: I am because we are"
+  },
+  {
+   "target": "content/principles/AT009 — Know that attention is social — it is influenced by and influences others.md",
+   "concept": "Ubuntu",
+   "phrase": "Ubuntu: I am because we are"
+  },
+  {
+   "target": "content/principles/BE053 — Lean on others in hard times — received support buffers stress.md",
+   "concept": "Ubuntu",
+   "phrase": "Ubuntu: mutual support"
+  },
+  {
+   "target": "content/principles/CO006 — Recognise that thinking is socially distributed — you think with others.md",
+   "concept": "Ubuntu",
+   "phrase": "Ubuntu: I am because we are"
+  },
+  {
+   "target": "content/principles/PP008 — Satisfy the need for relatedness.md",
+   "concept": "Ubuntu",
+   "phrase": "Ubuntu: I am because we are"
+  },
+  {
+   "target": "content/principles/R003 — Practise hospitality — open your table and your home.md",
+   "concept": "Ubuntu",
+   "phrase": "Ubuntu philosophy"
+  },
+  {
+   "target": "content/principles/R004 — Practise compassion — compassion is being moved to act.md",
+   "concept": "Ubuntu",
+   "phrase": "Ubuntu philosophy"
+  },
+  {
+   "target": "content/principles/R007 — Honour your ancestors — carry those who came before.md",
+   "concept": "Ubuntu",
+   "phrase": "Ubuntu philosophy"
+  },
+  {
+   "target": "content/principles/R009 — Respect elders — seek their counsel and defer to their judgment.md",
+   "concept": "Ubuntu",
+   "phrase": "Ubuntu philosophy"
+  },
+  {
+   "target": "content/principles/R011 — Practise harmony — seek peace and common ground.md",
+   "concept": "Ubuntu",
+   "phrase": "Ubuntu philosophy"
+  },
+  {
+   "target": "content/principles/R012 — Protect dignity — every person has inherent worth.md",
+   "concept": "Ubuntu",
+   "phrase": "Ubuntu philosophy"
+  },
+  {
+   "target": "content/concepts/Identity.md",
+   "concept": "Ubuntu",
+   "phrase": "Ubuntu"
+  },
+  {
+   "target": "content/concepts/Care ethics.md",
+   "concept": "Ubuntu",
+   "phrase": "Ubuntu"
+  }
+ ],
+ "reciprocal": [
+  {
+   "target": "content/concepts/Ren.md",
+   "concept": "Ubuntu",
+   "why": "the African cousin: personhood constituted through relation"
+  },
+  {
+   "target": "content/concepts/I and Thou.md",
+   "concept": "Ubuntu",
+   "why": "personhood comes alive in encounter, per Buber"
+  },
+  {
+   "target": "content/concepts/The relational self.md",
+   "concept": "Ubuntu",
+   "why": "personhood constituted in connection, the Nguni formulation"
+  },
+  {
+   "target": "content/concepts/Interbeing.md",
+   "concept": "Ubuntu",
+   "why": "interdependence extended from persons to all things"
+  },
+  {
+   "target": "content/concepts/Oikeiosis.md",
+   "concept": "Ubuntu",
+   "why": "Stoic widening of concern toward community, parallel movement"
+  },
+  {
+   "target": "content/concepts/Whanaungatanga.md",
+   "concept": "Ubuntu",
+   "why": "Pacific counterpart: kinship belonging as relational identity"
+  },
+  {
+   "target": "content/concepts/Compassion.md",
+   "concept": "Ubuntu",
+   "why": "compassion listed among the marks of a person with ubuntu (Tutu)"
+  },
+  {
+   "target": "content/concepts/Forgiveness.md",
+   "concept": "Ubuntu",
+   "why": "ubuntu grounded the TRC's restorative amnesty"
+  },
+  {
+   "target": "content/concepts/The common good.md",
+   "concept": "Ubuntu",
+   "why": "consensus and collective responsibility are ubuntu's political face"
+  },
+  {
+   "target": "content/concepts/Care.md",
+   "concept": "Ubuntu",
+   "why": "relation-grounded personhood, the African and care-ethics analogues"
+  }
+ ],
+ "notes": "Ubuntu enriched from Mbiti 1969, Tutu 1999, Metz 2011 (AHRLJ), Matolino & Kwindingwi 2013, SEP Federalism + Reconciliation; quotes verified; related list 10 neighbours; inline proposals for unlinked philosophy-parallels mentions."
+}

@@ -7,10 +7,36 @@ file: "Ubuntu"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-U"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter U", "parent": ""}
 ---
-Ubuntu is the southern African principle that "a person is a person through other persons" — personhood is constituted in relation, not prior to it. Its logic underwrites the R-principles on collective responsibility, consensus, and hospitality, and stands as the African counterpart to Confucian [[Ren]] and to [[I and Thou]] relation ([Wikipedia Ubuntu philosophy](https://en.wikipedia.org/wiki/Ubuntu_philosophy)).
+Ubuntu is the southern African term for humanness, built on the Nguni root for person, muntu. Its maxim, umuntu ngumuntu ngabantu, translates as "a person is a person through other persons": personhood is something people have with one another, in relation, and a human alone is incomplete. The Sotho-Tswana cognate is botho. John Mbiti gave the classic scholarly formulation in African Religions and Philosophy (1969): "Whatever happens to the individual happens to the whole group, and whatever happens to the whole group happens to the individual. The individual can only say: 'I am, because we are; and since we are, therefore I am'" (pp. 108-109).
+
+Desmond Tutu, chairing South Africa's Truth and Reconciliation Commission, made the idea world-famous. In No Future Without Forgiveness (1999) he glosses it: "My humanity is caught up, is inextricably bound up, in yours" (p. 31). The person with ubuntu is "generous, you are hospitable, you are friendly and caring and compassionate," and is "diminished when others are humiliated or diminished." The commission's amnesty process applied this: since perpetrator and victim belong to one bundle of life, justice aims at restoring relationship rather than retribution alone. The Constitutional Court drew on the same current in S v Makwanyane (1995), the judgment that abolished the death penalty, and has been quoted calling ubuntu "the underlying motif of the Bill of Rights" (Metz 2011: 534).
+
+Whether ubuntu can carry that public weight is a live philosophical fight. Thaddeus Metz reconstructs it as a dignity grounded in "the capacity for community, understood as the combination of identifying with others and exhibiting solidarity with them," and answers the three stock objections: vagueness, neglect of individual freedom, nostalgia for village life. Bernard Matolino and Wenceslaus Kwindingwi reply in "The End of Ubuntu" (2013) that elites who invoke the word narrow debate about how to live, and that its ideals belong to a pre-modern world that has gone. The exchange is essay material in itself: what a relational concept of the person does to autonomy, rights and the repair of suffering.
+
+In the compendium, ubuntu anchors the relational R-principles: R001 "I am because we are" states the constitutive claim; R006 consensus-seeking, R008 collective responsibility, R010 generosity and R005 forgiveness turn it into habits; the stories ST226 "Mandela Invites the Jailer" and ST227 "Tutu and the Truth Commission" show it worked out in history. Its closest cousins in the wiki are Confucian [[Ren]] and Buber's [[I and Thou]].
+
+## Related concepts
+
+- [[Ren]] — the Confucian cousin: humaneness realised in relation to others
+- [[I and Thou]] — Buber: personhood comes alive in genuine encounter
+- [[The relational self]] — the psychological version of the claim that selves are made in connection
+- [[Interbeing]] — Thich Nhat Hanh's name for interdependence extended to all things
+- [[Oikeiosis]] — the Stoic widening of concern from self outward to community
+- [[Whanaungatanga]] — Maori kinship belonging, a Pacific counterpart of relational identity
+- [[Compassion]] — Tutu's gloss lists compassion among the marks of a person with ubuntu
+- [[Forgiveness]] — the Truth and Reconciliation Commission applied ubuntu through amnesty and restoration
+- [[The common good]] — consensus and collective responsibility are ubuntu's political face
+- [[Care]] — Noddings' relational ethics as a Western analogue of relation-grounded personhood
 
 ## Sources
+
 - Wikipedia Ubuntu philosophy: https://en.wikipedia.org/wiki/Ubuntu_philosophy
+- John S. Mbiti, African Religions and Philosophy (Heinemann, 1969), pp. 108-109, quoted with context at https://scholar.sun.ac.za/server/api/core/bitstreams/2890e98d-77ab-4395-ac16-d4e294d1a8ac/content
+- Desmond Tutu, No Future Without Forgiveness (Rider, 1999), pp. 31, 34-35; extended excerpt at https://cepreaching.org/preaching-connections/reading/no-future-without-forgiveness-2/ and https://dirco1.azurewebsites.net/docs/speeches/2005/mbek1216.htm
+- Thaddeus Metz, "Ubuntu as a moral theory and human rights in South Africa," African Human Rights Law Journal 11(2) 2011, pp. 532-559: https://scielo.org.za/scielo.php?script=sci_arttext&pid=S1996-20962011000200011
+- Bernard Matolino and Wenceslaus Kwindingwi, "The End of Ubuntu," South African Journal of Philosophy 32(1) 2013, pp. 197-205; objections summarised in Metz's reply: https://philpapers.org/archive/metjtb.pdf
+- Stanford Encyclopedia of Philosophy, "Federalism" §2.1 (Nguni maxim, 1993 Interim Constitution epilogue): https://plato.stanford.edu/entries/federalism/
+- Stanford Encyclopedia of Philosophy, "Reconciliation" (Tutu 1999, Krog 2008; Matolino and Kwindingwi 2013 as critics): https://plato.stanford.edu/entries/reconciliation/
 
 ## Cited in philosophy parallels
 

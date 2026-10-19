@@ -1,9 +1,11 @@
 {
  "batch": "w1a",
- "done": [],
- "in_progress": "Ubuntu",
+ "done": [
+  "Ubuntu"
+ ],
+ "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
- "sources_checked": 0,
- "updated": "2026-10-19T06:49:11+00:00"
+ "sources_checked": 5,
+ "updated": "2026-10-19T06:53:09+00:00"
 }
