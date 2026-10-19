@@ -12,13 +12,20 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 34** — Simplify your ecosystem
 
-Shrink your life-system to human scale: fewer possessions, fewer feeds, fewer commitments, closer to hand. A small country with few needs is happy; a huge one is unmanageable.
+Chapter 80 of the Daodejing draws a little state with a small population and imagines ordering it so that even individuals with the abilities of ten or a hundred men have no employment. The state has boats and carriages, but the people should have no occasion to ride in them; buff coats and sharp weapons, but no occasion to don or use them. The people think their coarse food sweet and their plain clothes beautiful, and a neighbouring state within sight goes unvisited to the end of their lives. The passage depicts contentment with plain provisions alongside capacities people have no occasion to use.
 
-(DDJ 80.)
+> "They should think their (coarse) food sweet; their (plain) clothes beautiful; their (poor) dwellings places of rest; and their common (simple) ways sources of enjoyment." (Daodejing 80, [Legge](https://www.gutenberg.org/ebooks/216))
 
-**Plain words** Shrink the life-system to human scale: fewer possessions, fewer feeds, fewer commitments, all closer to hand. Every added moving part costs attention forever — the enormous version of a life is unmanageable; the small one is happy.
+The compendium applies this picture by asking which possessions and commitments you still want to maintain.
 
-*For example:* The wardrobe of fifteen items you actually wear beats the closet of 200 you manage; the small system runs itself.
+**Plain words**
+Look at something you keep but seldom use. Would you choose it again today? Try setting it aside without buying a replacement, and see whether you miss it. Apply the same question to one optional commitment before accepting another.
+
+*For example:* Suppose a closet of 200 items you manage and 15 you actually wear. As a modern application, try working from the 15 for a month and see whether the other 185 were doing anything for you.
+
+## Sources
+
+- [The Tao Teh King, trans. James Legge (Project Gutenberg)](https://www.gutenberg.org/ebooks/216) — ch. 80
 
 ## Stories
 

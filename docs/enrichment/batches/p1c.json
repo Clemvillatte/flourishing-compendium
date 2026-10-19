@@ -8,11 +8,12 @@
   "P065",
   "D022",
   "D006",
-  "D009"
+  "D009",
+  "D034"
  ],
- "in_progress": "D034",
+ "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
- "sources_checked": 5,
- "updated": "2026-10-19T11:33:53+00:00"
+ "sources_checked": 6,
+ "updated": "2026-10-19T11:35:22+00:00"
 }
