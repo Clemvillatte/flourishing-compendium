@@ -12,13 +12,23 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 17** — Practice gentleness (praotes)
 
-Gentleness is the mean between irascibility and spiritlessness regarding anger. The gentle person is angry at the right things, with the right people, in the right way, for the right duration. Anger is not eliminated; it is proportioned.
+Aristotle's formula for the mean about anger runs:
+
+> "The man who is angry at the right things and with the right people, and, further, as he ought, when he ought, and as long as he ought, is praised." (Aristotle, [Nicomachean Ethics IV.5, Ross translation, Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html))
+
+Aristotle criticises both inappropriate anger and a failure to object when anger is warranted. His good-tempered person avoids revenge and makes allowances. He also distinguishes anger that flares and soon subsides from resentment that persists. Quick recovery is a favourable feature of the former, though it does not make the initial reaction appropriate ([NE IV.5](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html)).
 
 (NE IV.5.)
 
-**Plain words** Anger isn't something to remove. Aristotle wants it proportioned: at the right things, with the right people, in the right way, for the right length of time. Someone who never gets angry at anything is missing something. So is someone who stays furious for a week.
+**Plain words**
+When something angers you, consider what happened, whom you are blaming and what response would fit. Having good reason to object leaves room to question how you respond. Afterwards, ask whether you can make allowances instead of seeking payback.
 
-*For example:* Raising your voice once when a contractor ignores a safety rule is gentleness in his sense. Sulking for days over a late reply isn't.
+*For example:*
+Suppose a colleague interrupts you. You might firmly ask to finish your point, then listen to their reply without turning the interruption into a personal attack.
+
+## Sources
+
+- [Aristotle, Nicomachean Ethics IV.5, W. D. Ross translation, Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html) — the good-temper chapter; the right-things formula quoted verbatim, the rest paraphrased with citations
 
 ## Practice kernels
 

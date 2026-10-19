@@ -19,12 +19,11 @@ The clinical pattern the principle names is documented in the BPD literature:
 The article adds that individuals diagnosed with BPD frequently experience significant difficulties in maintaining a stable self-concept, and that the main approach to managing BPD is psychotherapy, with long-term, consistent psychotherapy preferred ([Wikipedia](https://en.wikipedia.org/wiki/Borderline_personality_disorder)).
 
 **Plain words**
-Identity exploration tries on selves and keeps a running thread. Identity disturbance cannot sustain the thread: the values, beliefs and interests shift so much that no coherent story holds together long enough to act from. The principle's job is recognition: this pattern has a name, it appears in the clinical literature, and it responds to treatment, which is why the move is professional care rather than a stronger self-improvement push.
+The description concerns people diagnosed with BPD: uncertainty in personal values, beliefs, preferences and interests, and significant difficulty maintaining a stable self-concept. The article also notes that the main approach to managing BPD is psychotherapy. Read as advice, the principle points towards professional evaluation rather than towards a stronger self-improvement push.
 
 *For example:*
-The friend who is a different person every six months — new name for the self, new friend group, new core belief, the old one discarded — isn't flighty. Something is making a coherent story impossible to sustain. That deserves a professional, not a joke at brunch.
+Suppose someone's sense of self feels persistently fragmented to them, beyond ordinary exploration. The principle's advice is to seek professional evaluation rather than diagnose the pattern from the outside.
 
-## Psychology parallels not a joke at brunch.
 ## Psychology parallels
 
 - **Identity disturbance in BPD and complex trauma**, identity diffusion is a clinical symptom (APA, 2022; Kernberg, 1976)
