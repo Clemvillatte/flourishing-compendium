@@ -22,15 +22,15 @@ Chapter 32 gives the second image. A ruler sends Zhuangzi an invitation, and he 
 
 > "Have you seen, Sir, a sacrificial ox? It is robed with ornamental embroidery, and feasted on fresh grass and beans. But when it is led into the grand ancestral temple, though it wished to be (again) a solitary calf, would that be possible for it?" (Zhuangzi 32 §15, [Legge](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
 
-The robe and the grass and beans come first, the temple comes later, and the ox's wish to go back to being an ordinary calf arrives exactly when it can no longer be granted. That is the warning the story carries: a role that courts you for what you are may intend to consume what you are, and the price is collected only after the exit has closed. Read the feeding as part of the butchering, and decline while declining is still possible.
+The robe and the grass and beans come first, the temple comes later, and the ox's wish to go back to being an ordinary calf arrives exactly when it can no longer be granted. That is the warning the story carries: a role that courts you for what you are may intend to consume what you are. Applied to an attractive role, the story asks whether its rewards are worth the freedom it would take.
 
 (Zhuangzi 20, 32.)
 
 **Plain words**
-Before accepting an attractive role, find out what it would take from you: your evenings, your health, the parts of your life the job cannot see. Then ask whether you could still leave once those costs land. Name the commitments you would not sacrifice for the position while the offer is still an offer, because the refusal is only yours to give before the temple.
+Before accepting an attractive position, find out what it requires of you and whether you could leave if the costs became unacceptable. Decide which existing commitments you will protect. An offer can be generous and still ask more than you are willing to give.
 
 **For example**
-Imagine a promotion that requires weekend travel when you have promised those weekends to caring for a parent. The raise is real and the cost is real, and the decision is whether the role can have one without taking the other.
+Imagine a promotion with a higher salary that requires weekend travel, when you have committed those weekends to caring for a parent. Ask for different travel terms, or decline if that commitment cannot be protected.
 
 ## Sources
 
