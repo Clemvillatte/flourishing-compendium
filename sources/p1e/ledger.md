@@ -488,3 +488,10 @@ Advisor QC (2026-10-19): quotes verified (BQ1 ch. 22 sentence, BQ2 ch. 68 verse 
 - Honest framing per QC standards: the opened evidence supports perspective-manipulation effects on wise reasoning about one's own conflicts (and no age differences); the title's broader "trainable skill" claim explicitly limited to that sense, general training literature marked inherited. "Practises better after setbacks" (unsupported) and "got wiser by Thursday" removed; em dashes removed from plain words and example.
 - Inherited, NOT opened: Grossmann et al. 2013, Grossmann 2017, Aristotle NE VI, Seneca, Buddhist middle-way parallels — flagged in state.
 - Validator: ok; protected fields untouched vs HEAD.
+
+## CO073 — Learn to make decisions under uncertainty (done 2026-10-20 by worker-p1e-4f2c9b1d, item 24)
+
+- Opened: Gigerenzer and Gaissmaier 2011 "Heuristic Decision Making" via an actual fetch of the Annual Reviews record (https://www.annualreviews.org/content/journals/10.1146/annurev-psych-120709-145346). Verified verbatim: (1) "Heuristics are efficient cognitive processes, conscious or unconscious, that ignore part of the information."; (2) "This research indicates that (a) individuals and organizations often rely on simple heuristics in an adaptive way, and (b) ignoring part of the information can lead to more accurate judgments than weighting and adding all information, for instance for low predictability and small samples." (Note: PMID 21219160 in Europe PMC is a different paper; found the correct record via the Annual Reviews page.) Sources_checked +1 (43 -> 44).
+- Honest framing per QC standards: finding scoped to specific environments (low predictability, small samples), "licence for hasty deciding" guard added, compendium application labelled. Em dashes removed from plain words and example; body/plain-words duplication of the procedure list fixed.
+- Inherited, NOT opened: Todd & Gigerenzer 2012, Taleb 2012, Aristotle NE VI, Zhuangzi, Nietzsche parallels — flagged in state.
+- Validator: ok; protected fields untouched vs HEAD.

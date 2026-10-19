@@ -12,11 +12,20 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 ---
 > **Principle 73** — Learn to make decisions under uncertainty: you will never have complete information
 
-Most real decisions are made under uncertainty — you do not have all the facts, the future is unknowable, and the stakes are real. The goal is not to eliminate uncertainty but to make good decisions despite it.
+Most real decisions are made under uncertainty: incomplete facts, unknowable future, real stakes. Gigerenzer and Gaissmaier's review of heuristic decision making reframes what counts as good deciding there. They define heuristics, verbatim, as "efficient cognitive processes, conscious or unconscious, that ignore part of the information," and report the review's finding, verbatim:
 
-**Plain words** Most real decisions are made under uncertainty — incomplete facts, unknowable future, real stakes. The goal isn't eliminating uncertainty but making good decisions inside it: clarify values, gather the cheap information, decide, keep an exit. Stop waiting for certainty; it isn't coming.
+> "This research indicates that (a) individuals and organizations often rely on simple heuristics in an adaptive way, and (b) ignoring part of the information can lead to more accurate judgments than weighting and adding all information, for instance for low predictability and small samples." (Gigerenzer and Gaissmaier, 2011, Annual Review of Psychology 62, 451-482, [Annual Reviews record](https://www.annualreviews.org/content/journals/10.1146/annurev-psych-120709-145346))
 
-*For example:* The person who can't choose the city until "more information" — a category that never completes — versus the one who gets the decisive facts (costs, job, schools), decides, and books the exit ramp. Both faced the same uncertainty; only one of them moved.
+Read carefully, this is a claim about information use in specific environments, not a licence for hasty deciding. The goal is not to eliminate uncertainty but to make good decisions inside it. The compendium's application: clarify what matters, gather the cheap decisive facts, decide, and keep an exit.
+
+**Plain words** Under uncertainty, more information is not automatically better: in some of the reviewed environments, ignoring part of the information did better. Run the decision as a sequence: name what matters most, get only the facts that bear on it, set a deadline, and decide with the exit kept open. Waiting for certainty is a decision too, and usually the more expensive one.
+
+*For example:* The person who cannot choose the city until more information arrives, versus the one who gets the decisive facts (costs, job, schools), decides, and books the exit ramp. Both faced the same uncertainty; only one of them moved.
+
+## Sources
+
+- [Gigerenzer and Gaissmaier, "Heuristic Decision Making" (2011), Annual Review of Psychology 62, 451-482](https://www.annualreviews.org/content/journals/10.1146/annurev-psych-120709-145346) — abstract quoted verbatim; heuristics and uncertainty
+
 ## Psychology parallels
 
 - **[[Decision-making under uncertainty (Gigerenzer's fast-and-frugal heuristics)|Decision-making under uncertainty (Gigerenzer's fast-and-frugal heuristics)]]**, simple heuristics can outperform complex models in uncertain environments (Gigerenzer & Gaissmaier, 2011; Todd & Gigerenzer, 2012)
