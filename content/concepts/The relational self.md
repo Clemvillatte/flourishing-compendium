@@ -11,25 +11,25 @@ The relational self is the idea that a person's self exists in and through their
 
 ### Buber's between
 
-Buber distinguishes two modes of existence. In the I-It relation, in the IEP's paraphrase, the other is taken "as a classified and hence predictable and manipulable object"; in the I-Thou relation the other is known "without being subsumed under a universal" ([IEP](https://iep.utm.edu/martin-buber/)). In the I-Thou relation both participants exist "as polarities of relation, whose center lies in the between," and "man becomes whole not in relation to himself but only through a relation to another self."
+Buber distinguishes two modes of existence: in the I-It relation, per the IEP's paraphrase, the other is taken "as a classified and hence predictable and manipulable object"; in the I-Thou relation the other is known "without being subsumed under a universal" ([IEP](https://iep.utm.edu/martin-buber/)). In the I-Thou relation both participants exist "as polarities of relation, whose center lies in the between," and "man becomes whole not in relation to himself but only through a relation to another self."
 
 ### The self one is with each person
 
-Andersen and Chen's psychology develops a distinct account. Knowledge about the self is linked in memory with knowledge about significant others, and "each linkage embodies a self-other relationship." When a new person resembles a significant other, that representation activates in the social-cognitive phenomenon of transference and evokes the version of the self one is in that relationship.
+Andersen and Chen's psychology develops a distinct account. Knowledge about the self is linked in memory with knowledge about significant others, and "each linkage embodies a self-other relationship." When a new person resembles a significant other, the representation activates in the phenomenon of transference, evoking the self one is in that relationship.
 
-The result is a repertoire of relational selves that function "in if-then terms," carrying patterns of affect, motivation and self-regulation. The self one is with a parent can differ from the self one is at work, and each is that person's self in that relationship.
+The result is a repertoire of relational selves that function "in if-then terms," carrying patterns of affect, motivation and self-regulation. The self one is with a parent can differ from the self one is at work.
 
 ### How far the relation goes
 
 Constantine Sedikides, Lowell Gaertner and Erin O'Mara compared the individual, relational and collective selves across imagined loss, threat and life goals in China and the United States. Their reported findings were a hierarchy: the individual self motivationally primary, the relational second and closest to it, the collective third ([Sedikides et al. 2011](https://ecommons.udayton.edu/cgi/viewcontent.cgi?article=1037&context=psy_fac_pub)). The hierarchy is motivational, in these tests; it does not settle Buber's ontological claim.
 
-Gergen argues the stronger case, that "the origin of all meaning lies within collaborative action (co-action)" ([Gergen 2011](https://www.tandfonline.com/doi/full/10.1080/10720537.2011.593453)). Nedelsky draws the consequence for autonomy: people "become autonomous with others," with parents, teachers, employers and the state, and relationships and social structures can foster or undermine the capacity ([Nedelsky 2011](https://books.google.com/books/about/Law_s_Relations.html?id=TbfD8mtW-LIC)).
+Gergen argues the stronger case, that "the origin of all meaning lies within collaborative action (co-action)" ([Gergen 2011](https://www.tandfonline.com/doi/full/10.1080/10720537.2011.593453)). Nedelsky draws the consequence for autonomy: people "become autonomous with others," and the capacity is fostered or undermined by relationships and social structures ([Nedelsky 2011](https://books.google.com/books/about/Law_s_Relations.html?id=TbfD8mtW-LIC)).
 
 ### In the compendium
 
 SE052 "Cultivate the relational self — self-in-connection is not weakness" carries the concept directly, noting that in many cultures a self defined through relationships is the norm. R082 and R099 give it Buber's ontological reading, with meaning located in the Between; R081 teaches I-Thou and E026 Heidegger's Mitsein.
 
-R001, R026 and R040 ground it in Ubuntu and Māori practice, and R130 extends it beyond the human. SE049 states the multiplicity that Andersen and Chen model. The compendium's story ST238 illustrates repair at world scale, with Moana's voyage restoring goddess, tradition and community together.
+R001, R026 and R040 ground it in Ubuntu and Māori practice, and R130 extends it beyond the human. SE049 states the multiplicity that Andersen and Chen model. The compendium's story ST238 illustrates it at world scale: Moana's voyage restores goddess, tradition and community together.
 
 ## Related concepts
 
