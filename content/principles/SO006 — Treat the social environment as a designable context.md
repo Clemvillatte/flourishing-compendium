@@ -12,15 +12,15 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SO — Sociocul
 ---
 > **Principle 6** — Treat the social environment as a designable context
 
-Treat not just the immediate social environment but the broader sociocultural context — neighborhoods, institutions, policies, norms — as designable. This is the founding principle of social prevention: environments that nurture flourishing can be built, and environments that generate suffering can be modified. Adaptive flourishing is not only a personal practice but a collective project.
+The broader sociocultural context, from the immediate setting out through neighborhoods, institutions, policies and norms, can be treated as designable. The synthesis by Biglan, Flay, Embry and Sandler gives prevention science a working version of this claim: the conditions that shape behaviour are common across problems, and they can be modified. Adaptive flourishing is a collective project as much as a personal practice.
 
-**Plain words** The social environment isn't weather — it's architecture. Neighbourhoods, institutions, policies, norms: designed things, which means they can be redesigned. Environments that make people sick were built; environments that make people well can be.
+**Plain words** A setting shapes the people in it before any of them decides anything. The useful question is what the setting rewards, what it makes hard and what it lets happen. Those pressures came from decisions, and decisions can be revisited. Acting on this principle means naming one pressure in a setting you belong to and proposing a change that someone can actually make.
 
-*For example:* The intersection redesigned so nobody jaywalks anymore — nobody got more disciplined. The environment changed and the behaviour followed. Same physics works for schools and offices.
+*For example:* Suppose a school relies mostly on punishment for discipline. The review names a tested alternative: interventions that help schools "replace punitive discipline with promotion and reinforcement of prosocial behavior" (Biglan, Flay, Embry & Sandler, 2012, [PMC full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC3621015/)).
 
 ### Nurturing environments
 
-The founding document of this principle in prevention science is the synthesis by Biglan, Flay, Embry and Sandler. Their characterisation, verbatim:
+The clearest statement of this principle in prevention science is the synthesis by Biglan, Flay, Embry and Sandler. Their characterisation, verbatim:
 
 > "Environments that foster successful development and prevent the development of psychological and behavioral problems are usefully characterized as nurturing environments. First, these environments minimize biologically and psychologically toxic events. Second, they teach, promote, and richly reinforce prosocial behavior, including self-regulatory behaviors and all of the skills needed to become productive adult members of society. Third, they monitor and limit opportunities for problem behavior. Fourth, they foster psychological flexibility-the ability to be mindful of one's thoughts and feelings and to act in the service of one's values even when one's thoughts and feelings discourage taking valued action." (Biglan, Flay, Embry & Sandler, 2012, [PubMed](https://pubmed.ncbi.nlm.nih.gov/22583340/))
 
@@ -28,7 +28,7 @@ And the programme the article sets out:
 
 > "We review evidence to support this synthesis and describe the kind of public health movement that could increase the prevalence of nurturing environments and thereby contribute to the prevention of most mental, emotional, and behavioral disorders." (Biglan, Flay, Embry & Sandler, 2012, [PubMed](https://pubmed.ncbi.nlm.nih.gov/22583340/))
 
-The design implication is in the grammar of the four features: each is a property of a setting that can be installed or removed, which is exactly what the jaywalking intersection shows at street scale. The same review-and-rebuild move that turns a dangerous crossing into a safe one can be applied to a classroom's reinforcement patterns or a workplace's norms, and the article's argument is that doing this at public-health scale is how most mental, emotional and behavioural disorders get prevented.
+Biglan and colleagues propose that increasing the prevalence of nurturing environments could contribute to preventing most mental, emotional and behavioural disorders. The framework directs attention to conditions that interventions might change. The article's own wording about the next step is that more research and public health effort should go into "modifying these common environmental conditions" (Biglan, Flay, Embry & Sandler, 2012, [PMC full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC3621015/)).
 
 ## Psychology parallels
 
@@ -46,3 +46,4 @@ The design implication is in the grammar of the four features: each is a propert
 ## Sources
 
 - [Biglan, Flay, Embry & Sandler (2012), The critical role of nurturing environments for promoting human well-being, PubMed](https://pubmed.ncbi.nlm.nih.gov/22583340/): the four features of nurturing environments, abstract quoted verbatim
+- [Biglan, Flay, Embry & Sandler (2012), PMC full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC3621015/): "modifying these common environmental conditions"; "replace punitive discipline with promotion and reinforcement of prosocial behavior"
