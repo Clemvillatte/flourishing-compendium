@@ -13,15 +13,17 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 
 > **Principle 7** — Know that thinking is trainable: cognitive capacities can be built
 
-Aristotle's version of the claim is the oldest and still the most useful: you do not acquire a skill by having the potentiality and then acting; you acquire it by acting. That runs against the intuition that thinking is a fixed capacity, but it matches what expertise research actually finds.
+Aristotle makes a claim in the Nicomachean Ethics that runs against the intuition that reasoning is a fixed capacity: skills and virtues are acquired by exercising them, not by first possessing them.
 
-> But the virtues we get by first exercising them, as also happens in the case of the arts as well. For the things we have to learn before we can do them, we learn by doing them, e.g. men become builders by building and lyreplayers by playing the lyre; so too we become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts. (Aristotle, Nicomachean Ethics II.1, [MIT Classics](http://classics.mit.edu/Aristotle/nicomachaen.2.ii.html))
+> For the things we have to learn before we can do them, we learn by doing them, e.g. men become builders by building and lyreplayers by playing the lyre; so too we become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts. (Aristotle, Nicomachean Ethics II.1, [MIT Classics](http://classics.mit.edu/Aristotle/nicomachaen.2.ii.html))
 
-Modern research adds a qualification that matters: the training effect is specific. You do not get a general upgrade to reasoning by playing puzzle apps; you get better at the specific thing you practised, with limited transfer beyond it. The usable version of the principle is therefore narrow but real: the cognitive capacities you actually depend on — writing, arguing, planning, reading contracts, doing a tax return — can each be improved by doing them deliberately, with feedback, over time.
+Modern research on cognitive training adds a qualification that Aristotle does not address, and it matters. When people train on a specific cognitive task, the reviewed studies find that they improve at the trained task; evidence for transfer to different cognitive domains is limited (Melby-Lervåg & Hulme, 2013; Simons et al., 2016). Ericsson's expertise research points the same direction for skills: what improves performance is structured, feedback-rich practice of the actual activity, not general drills (Ericsson et al., 1993).
 
-**Plain words** A skill is not something you are born with and then express. It is something the repeated doing itself produces. The catch is that the gain stays close to what you practised; doing crosswords improves crosswords more than it improves your judgement at work. Pick the thinking you actually need and practise that.
+The usable version of the principle is therefore narrow but real. Cognitive capacities that depend on skill — writing, arguing, planning, reading a contract, doing a tax return — are improved by practising that specific activity with feedback, over time.
 
-*For example:* The person who "does brain training apps" for general IQ — and the one who practises the actual skill: doing taxes faster, reading contracts better. The second one's gains are real because the practice is specific. Train the muscle you use.
+**Plain words** Aristotle's contrast is between the senses, which you have before you use, and skills, which you acquire by using. A skill is something the repeated doing itself produces. What modern research adds is that the gain stays close to what you practised; training on puzzles improves puzzles, and evidence for improvement elsewhere is limited. Pick the thinking you actually need and practise that.
+
+*For example:* Imagine someone who wants to think better at work: instead of downloading a general puzzle app, they practise writing a short argument each day and have someone read it and say where it lost them. The gain is real because the practice is the actual activity, not a proxy for it.
 
 ## Psychology parallels
 
@@ -37,4 +39,4 @@ Modern research adds a qualification that matters: the training effect is specif
 
 ## Practice
 
-- Do not expect "brain training" games to make you smarter generally. Instead, train the specific cognitive skill you want (writing, reasoning, chess, mathematics) through deliberate practice with feedback.
+- Do not expect general "brain training" games to improve your thinking generally; the reviewed evidence finds limited far transfer. Instead, train the specific cognitive skill you want (writing, reasoning, chess, mathematics) through deliberate practice with feedback.

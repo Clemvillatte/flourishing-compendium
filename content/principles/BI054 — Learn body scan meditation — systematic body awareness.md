@@ -13,15 +13,15 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BI — Biophysi
 
 > **Principle 54** — Learn body scan meditation: systematic body awareness
 
-The Satipatthana Sutta is the root instruction here: attention is deliberately turned on the body, part by part, and what is found is simply noted rather than corrected. The canonical image for the practice is a sack of grain being poured out and named.
+The Satipatthana Sutta describes the monk sitting in the forest with mindfulness set to the front of the mind, and the first object named is the body. Whatever its relationship to the modern clinical procedure, the Buddhist instruction is clear about the mechanics: attention is placed on the body, and the attention itself is the practice, not the fixing of whatever is found.
 
-> In this way he remains focused internally on the body in & of itself, or externally on the body in & of itself, or both internally & externally on the body in & of itself. Or he remains focused on the phenomenon of origination with regard to the body, on the phenomenon of passing away with regard to the body, or on the phenomenon of origination & passing away with regard to the body. Or his mindfulness that 'There is a body' is maintained to the extent of knowledge & remembrance. And he remains independent, unsustained by (not clinging to) anything in the world. (Thanissaro Bhikkhu trans., [Satipatthana Sutta, MN 10](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html), §1)
+> "There is the case where a monk remains focused on the body in & of itself — ardent, alert, & mindful — putting aside greed & distress with reference to the world." (Thanissaro Bhikkhu trans., [Satipatthana Sutta, MN 10](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html))
 
-The body scan is the same instruction run against modern evidence on interoception. Attention is walked slowly through the body, and whatever is found — warmth, tension, numbness, nothing — is registered rather than acted on. The skill being trained is the noticing itself, which is what makes chronic tension and stress signals actually available for change instead of running silently in the background.
+A body scan in modern use is the same operation performed more systematically: attention is walked through parts of the body in turn, and the instruction is to notice what is there — warmth, tension, numbness, nothing — without judging or changing it. The research cited in the parallels section reports that this kind of practice is associated with improved interoception and reduced stress reactivity; the principle here is about the mechanics, not a blanket claim of efficacy.
 
-**Plain words** Most of what your body is doing right now is invisible to you. Tension in the jaw, a held breath, a clenched stomach; these run all day without being noticed. A body scan is nothing more than walking your attention through each part and asking what is actually there, without fixing anything. What turns up is information you would otherwise have missed.
+**Plain words** Most of what your body is doing right now you are not aware of. Tension in the jaw, a held breath, a clenched stomach; these run for hours without being noticed. A body scan is simply walking your attention through each part and asking what is actually there, without fixing anything. What turns up is information you would otherwise have missed.
 
-*For example:* The scan that finds the jaw you've been clenching since 9 a.m. — nobody told you it was tense. The attention is the intervention; the finding is the benefit.
+*For example:* Imagine sitting down at the end of a workday and walking attention slowly from the top of the head to the feet, pausing at each region to notice what is there. Suppose the scan turns up tension in the shoulders that has been there since morning; the finding itself, made visible by the attention, is the benefit the practice is aiming at.
 
 ## Psychology parallels
 
