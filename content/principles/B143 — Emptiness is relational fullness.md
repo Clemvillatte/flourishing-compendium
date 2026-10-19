@@ -12,23 +12,19 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 143** — Emptiness is relational fullness
 
-To be empty of self is to be full of relation: nothing is anything alone. The emptier the grasp, the richer the connection.
+Nāgārjuna answers the objection that emptiness would make change and Buddhist practice impossible. In chapter 24, dependence explains emptiness; chapter 15 defines the essence he disputes as unmade and independent of anything else ([MMK 24.1–7, 18–20](https://www.wisdomlib.org/buddhism/book/mulamadhyamaka-karika-english/d/doc79738.html); [15.1–2](https://www.wisdomlib.org/buddhism/book/mulamadhyamaka-karika-english/d/doc79729.html)).
 
-Nagarjuna's equation, in the chapter that answers the objection that emptiness would make everything impossible:
+> "Whatever is contingently related, that is explained as emptiness. That is contingently configured; it is the central path." (Nāgārjuna, MMK 24.18, [trans. Stephen Batchelor](https://www.wisdomlib.org/buddhism/book/mulamadhyamaka-karika-english/d/doc79738.html))
 
-> "Whatever is contingently related, that is explained as emptiness. That is contingently configured; it is the central path." (Nagarjuna, Mulamadhyamakakarika 24.18, [Batchelor trans.](https://www.wisdomlib.org/buddhism/book/mulamadhyamaka-karika-english/d/doc79738.html))
+The title's relational fullness is the compendium's rendering. Verse 24.19 extends emptiness to everything contingently emergent; it offers no guarantee that recognising dependence will end loneliness or make a relationship good ([MMK 24.19](https://www.wisdomlib.org/buddhism/book/mulamadhyamaka-karika-english/d/doc79738.html)).
 
-And its complement, the following verse: "Because there are no things at all, which are not contingently emergent, therefore, there are no things at all, which are not empty." The two verses pair emptiness with contingent emergence; what follows is this page's rendering, not the verses' own claim: to be empty of own-being and to arise in dependence are two descriptions of the same condition.
+### Plain words
 
-The same work separates emptiness from both extremes: "'Existence' is the grasping at permanence; 'non-existence' is the view of annihilation. Therefore, the wise do not dwell, in existence or non-existence." (MMK 15.10)
+Try asking what lets something exist or function as it does. Its reliance on other things need not make it worthless or imaginary. For this page's practical purpose, tracing those supports can be a way of questioning a description you had treated as complete.
 
-(Nagarjuna.)
+### For example
 
-**Plain words**
-An optional exercise, not a promise: pick something you treat as self-contained and list what it depends on; the list is what the principle points at. Whether loosening the grip on a fixed self changes what touches you is an outcome this page cannot certify.
-
-**For example**
-An imagined illustration, not a reported outcome: a couple stops being two fortresses negotiating; the walls come down, and perhaps the loneliness goes with them.
+Imagine two partners planning care for an elderly relative. They list the transport, money and other people's time their plan requires. This illustrates examining dependencies; it says nothing about whether the partners feel closer afterward.
 
 ## Sources
 
@@ -36,14 +32,15 @@ An imagined illustration, not a reported outcome: a couple stops being two fortr
 
 ## Psychology parallels
 
-- **[[Social baseline|Social baseline theory]]**, human brains regulate socially (Coan, 2011)
-- **[[Interdependent self-construal|Interdependent self-construal]]** (Markus and Kitayama, 1991)
+- **[[Social baseline|Social baseline theory]]**: a model of how trusted relationships may reduce risk and effort, not a demonstration of Buddhist emptiness ([Coan and Sbarra, 2015, abstract](https://pmc.ncbi.nlm.nih.gov/articles/PMC4375548/)).
+- **[[Interdependent self-construal|Interdependent self-construal]]**: a cultural framework describing selves through social context, with within-culture variation explicitly acknowledged ([Markus and Kitayama, 1991, pp. 224–225](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Motivation/Markus_Kitayama_1991_Culture_and_the_self.pdf)).
 
 ## Philosophy parallels
 
 - **[[Interbeing|Interbeing]]** (Hanh, Interbeing)
 - **[[Internal relations|Internal relations]]** (Whitehead, Process and Reality)
-- **[[Oneness of things|Oneness of things]]** (Zhuangzi 2)- **[[Shunyata|Shunyata]]** (Buddhism, MMK 24.18)
+- **[[Oneness of things|Oneness of things]]** (Zhuangzi 2)
+- **[[Shunyata|Shunyata]]** (Buddhism, MMK 24.18)
 
 
 <!-- fc: reflections
