@@ -15,6 +15,20 @@ edition (Perseus, MIT Classics, accesstoinsight, etc.) and note it in the batch 
 - Daoism (owner, 2026-10-19): https://drive.google.com/drive/folders/1YmCifTc27wbYfmgzZHuB5S1yxg4xYDGJ?usp=sharing
 - Buddhism (owner, 2026-10-19): https://drive.google.com/drive/folders/1g3ZBYHF5aIjBdOPFy79UgKy32YpLnFn5?usp=sharing
 
+## How to read Drive files (verified 2026-10-19)
+
+- **List a folder**: fetch_url on the folder link (it renders the JavaScript page) and ask
+  for the file list. For file IDs, fetch the same URL with `return_html: true` and extract
+  `data-id="..."` attributes from the raw HTML.
+- **Download any file**: `curl -sL "https://drive.google.com/uc?export=download&id=FILE_ID"
+  -o file` in bash (works for public share links; tested up to 86 MB). Files over ~100 MB may
+  show a virus-scan confirm page — fall back to `drive.usercontent.google.com/download?id=ID&confirm=t`.
+- **PDFs**: fetch_url can extract text directly from the `uc?export=download&id=FILE_ID` URL.
+- **EPUBs**: fetch_url cannot parse them. Read them in bash instead: download with curl, then
+  use python `zipfile` to open, read the `.opf` for title/author, and strip HTML tags from the
+  `.xhtml/.html` entries to get plain text. Verified working (Delphi Epictetus, below).
+- So: no need to filter the library to PDFs — DRM-free epubs are readable.
+
 ## Files
 
 - https://drive.google.com/file/d/1eU1GCTO4eubhW8PoC5U5ai88doTtTWSO/view?usp=drive_link
@@ -27,6 +41,18 @@ edition (Perseus, MIT Classics, accesstoinsight, etc.) and note it in the batch 
 - https://drive.google.com/file/d/1nWaXkpYBfpcAUt2I8LvrR_EyvOZTVwQT/view?usp=drive_link
 - https://drive.google.com/file/d/1NeWIgF_gasWYAThk7RhnN50VTnW1fY7m/view?usp=drive_link
 - https://drive.google.com/file/d/1yw7eBYt6rAIxdg5VZao7BdqAAGkUcueB/view?usp=drive_link
+- Epictetus — Delphi Complete Works of Epictetus (epub; Greek text + English translations;
+  use for E-band principles): https://drive.google.com/file/d/1EDkL63FuSpabjbB7amxNodYocj_q_vaH/view?usp=drive_link
+
+## Folder contents map (verified 2026-10-19)
+
+- Daoism folder: 4 PDFs — Livia Kohn, Chinese Healing Exercises (Daoyin); Livia Kohn (ed.),
+  Daoism Handbook; Livia Kohn, Sitting in Oblivion (Daoist meditation); Livia Kohn, Daoism:
+  A Contemporary Philosophical Investigation.
+- Buddhism folder: 7 PDFs — Laumakis, An Introduction to Buddhist Philosophy (Cambridge);
+  Segall, Buddhism and Human Flourishing; Conze, Buddhist Wisdom Books (Diamond + Heart
+  Sutra); Sheng Yen, Hoofprint of the Ox; Franck (ed.), The Buddha Eye (Kyoto School);
+  Thich Nhat Hanh, The Heart of the Buddha's Teaching; Davis, Zen Pathways.
 
 Supervisors: when an agent identifies what a specific Drive file contains (which work, which
 translation), record it here so the map builds up over time.
