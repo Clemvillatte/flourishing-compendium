@@ -177,3 +177,18 @@ copied from the opened URL in this session.
   happiness paradox already cite D092; no new proposals.
 - Inherited-not-reverified: Mauss et al. 2011 cultural-scope claim and Lyubomirsky 2011
   hedonic-adaptation claim in psychology parallels (untouched link sections).
+
+## B026 — Apply right effort: the four efforts (SN 45.8; Dhp 276)
+
+- Opened: https://www.accesstoinsight.org/tipitaka/sn/sn45/sn45.008.than.html (SN 45.8,
+  Thanissaro; right-effort formula fetched verbatim, all four parts) and
+  https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.20.than.html (Dhammapada 20, v. 276
+  fetched verbatim). Old seed locator said SN 49 (same formula family); the page now
+  cites the opened SN 45.8.
+- QC: advisor round 1 flagged a "sake of" insertion in the fourth effort (the source
+  drops it there), the chapter-closing claim, and the ethics-neutral "changing any
+  behaviour" framing; all fixed. Validated vs pre-item baseline 3606561.
+- Saturation: Right effort and Eightfold Path concepts already cite B026; no new
+  proposals.
+- Inherited-not-reverified: Duckworth et al. 2016 situational-strategies claim in
+  psychology parallels (untouched link section).

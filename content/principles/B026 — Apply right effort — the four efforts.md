@@ -12,13 +12,21 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 26** — Apply [[Right effort|right effort]]: the four efforts
 
-Prevent unwholesome states from arising; abandon those that have arisen; develop wholesome states not yet present; maintain those that have. This is the engine of change.
+Right effort, in the Pali Canon, is defined as four efforts. Two work on unskillful qualities, stopping them before they arise and abandoning them once they have; two work on skillful qualities, giving rise to them and then maintaining them to culmination. Each is defined the same way, as desire generated, persistence activated, intent upheld and exerted toward its target. Dhammapada 276 says: "It's for you to strive ardently. Tathagatas simply point out the way."
 
-(SN 49; Dhammapada 276.)
+> "There is the case where a monk generates desire, endeavors, activates persistence, upholds & exerts his intent for the sake of the non-arising of evil, unskillful qualities that have not yet arisen. He generates desire, endeavors, activates persistence, upholds & exerts his intent for the sake of the abandonment of evil, unskillful qualities that have arisen. He generates desire, endeavors, activates persistence, upholds & exerts his intent for the sake of the arising of skillful qualities that have not yet arisen. He generates desire, endeavors, activates persistence, upholds & exerts his intent for the maintenance, non-confusion, increase, plenitude, development, & culmination of skillful qualities that have arisen: This, monks, is called right effort." (SN 45.8, [Thanissaro, accesstoinsight](https://www.accesstoinsight.org/tipitaka/sn/sn45/sn45.008.than.html))
 
-**Plain words** Prevent unwholesome states from arising; abandon those that have arisen; develop wholesome states not yet present; maintain those that have. Four efforts — this is the engine of change. It's less about heroic willpower and more about diligent gardening in four directions.
+The compendium applies the four as a checklist for changing any behaviour: which direction does this situation need, prevention, abandonment, development or maintenance?
 
-*For example:* Not keeping the junk food in the house (prevention), taking the walk when restless (abandon), starting the gratitude practice (develop), protecting it (maintain).
+**Plain words**
+Choose the target of your effort first. Ask whether a mental quality is harmful or helpful, then whether it is already present. That gives you a specific job: prevent harm, let go of harm already present, encourage something helpful, or keep nurturing it.
+
+*For example:* Suppose junk food in the house and a gratitude practice that keeps lapsing. As a modern application, prevention is not keeping the junk food; for the restlessness, a walk is one thing to try; development is starting the practice, and maintenance could mean reserving a regular time for it.
+
+## Sources
+
+- [SN 45.8, trans. Thanissaro Bhikkhu (accesstoinsight)](https://www.accesstoinsight.org/tipitaka/sn/sn45/sn45.008.than.html) — the right-effort formula
+- [Dhammapada 276, trans. Thanissaro Bhikkhu (accesstoinsight)](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.20.than.html) — "It's for you to strive ardently"
 
 ## Practice kernels
 
