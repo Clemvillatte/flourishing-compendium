@@ -12,13 +12,28 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 69** — Seek concord (homonoia)
 
-Concord is political friendship: shared vision about what matters and how to live. It is not agreement on everything but agreement on the great ends. In families, teams, and communities, cultivate concord by making shared values explicit and working toward them together.
+Ross translates homonoia as "unanimity". In NE IX.6 Aristotle says what it is and what it is not:
 
-(NE IX.6.)
+> "Unanimity also seems to be a friendly relation. For this reason it is not identity of opinion; for that might occur even with people who do not know each other".
+> — Aristotle, Nicomachean Ethics IX.6 ([MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.9.ix.html))
 
-**Plain words** Concord is shared vision about what matters and how to live, not agreement on everything. In families, teams and communities, make the shared values explicit and work toward them together.
+### What it covers
 
-*For example:* A team that disagrees about tactics but all want customers to be well served has concord. One with no shared aim just has meetings.
+Aristotle notes that "we do say that a city is unanimous when men have the same opinion about what is to their interest, and choose the same actions, and do what they have resolved in common. It is about things to be done, therefore, that people are said to be unanimous, and, among these, about matters of consequence and in which it is possible for both or all parties to get what they want". People who agree about the heavenly bodies are not unanimous in this sense.
+
+### Political friendship
+
+"Unanimity seems, then, to be political friendship, as indeed it is commonly said to be; for it is concerned with things that are to our interest and have an influence on our life." It is found among good men, who "wish for what is just and what is advantageous, and these are the objects of their common endeavour as well." Bad men "cannot be unanimous except to a small extent", because each aims at more than his share.
+
+### Wording of the principle
+
+Aristotle speaks of cities and of good men. The extension to families and teams, and the advice to make shared values explicit, are the compendium's.
+
+(NE IX.6, 1167a-b.)
+
+**Plain words** Concord is not everybody thinking alike. It is people agreeing about what to do together on things that matter to all of them, and each getting what they want out of it. Aristotle's example is a city agreeing on who should rule.
+
+*For example:* Imagine a team that argues about tactics but agrees on what a good result for the customer looks like. A team where each member wants the same promotion is in the position Aristotle calls faction.
 
 ## Practice kernels
 
