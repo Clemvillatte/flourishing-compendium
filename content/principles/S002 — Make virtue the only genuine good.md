@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 124** — Make virtue the only genuine good
 
-For the Stoics, only virtue is genuinely good and only vice genuinely bad; everything else is indifferent, worth pursuing and never worth trading character for. Orient your life around that hierarchy: virtue first, the rest second.
+For the Stoics, only virtue is genuinely good and only vice genuinely bad; everything else is indifferent. Orient your life around that hierarchy: virtue first, the rest second.
 
 (Ench. 1; Disc. I.30, III.19; Med. III.6, VI.13.)
 
@@ -26,12 +26,8 @@ The line Epictetus draws is the will. "OF things some are in our power, and othe
 
 An illness takes your health; a cowardly choice takes your character, and only you can hand that over. Only vice is bad: the one injury that comes from inside.
 
-### The practical reading
-
-Health and money matter conditionally: they help a life already well-directed and magnify one that isn't. The discipline is keeping the ordering straight when a preferred indifferent starts demanding a bad act: that trade gives up the only unconditional thing for a conditional one.
-
 **Plain words**
-"Good" is their technical term for what can only improve you: your own judgement and character. Nothing outside the will injures it; only your use of things can. Health, money and reputation are worth pursuing and never worth trading character for: the moment getting one requires acting badly, you are trading the only good for an indifferent.
+"Good" is their technical term for what can only improve you: your own judgement and character. Nothing outside the will injures it; only your use of things can. Ask what you would have to do to get what you want. An attractive result does not excuse a dishonest choice.
 
 *For example:* You can prefer the bigger flat. But if getting it means shading the truth with your landlord, the Stoic says you've swapped a good for an indifferent.
 
