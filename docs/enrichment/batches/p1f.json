@@ -16,7 +16,8 @@
   "B133",
   "P091",
   "P100",
-  "P163"
+  "P163",
+  "P182"
  ],
  "in_progress": null,
  "flagged": {
@@ -29,7 +30,7 @@
   "B122": "Reopened for QC: milestone QC: quote casing, lanes"
  },
  "missing_concepts": [],
- "sources_checked": 14,
- "updated": "2026-10-19T12:57:51+00:00",
+ "sources_checked": 15,
+ "updated": "2026-10-19T12:58:39+00:00",
  "band_done": false
 }
