@@ -23,7 +23,7 @@ The sutta identifies the origin and its forms; it does not say suffering never i
 
 **Plain words** The second truth points at a cause rather than a verdict. Craving is identified as the origin of suffering, and it comes in three forms: for pleasures, for existence, for extermination. The practical question it suggests: when suffering shows up, which of the three cravings is doing the work in this case? Naming the form is the sutta's analysis turned toward a moment.
 
-*For example:* The traffic jam is forty minutes of sitting. The suffering the sutta points to is in the craving layer: the demand that it not be happening, which runs its own forty minutes.
+*For example:* Suppose traffic stops and you notice yourself wanting a pleasant distraction. Observe that desire while deciding what practical action, if any, is needed.
 
 ## Stories
 

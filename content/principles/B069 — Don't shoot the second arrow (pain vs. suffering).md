@@ -19,7 +19,7 @@ The sutta contrasts two people who feel the same painful feeling. The image it g
 
 The instructed disciple feels the same painful feeling, but "does not sorrow, grieve, or lament, does not beat his breast or become distraught", and so "feels one pain: physical, but not mental" (SN 36.6). The sutta presents this as a difference training makes, not as a verdict on anyone's distress. (Sallatha Sutta, SN 36.6.)
 
-**Plain words** Both people in the sutta get the same first arrow. The second one, in the sutta's picture, is the reaction: the sorrowing, the grieving, the lamenting. The training the sutta points to is in that second layer; it does not say the reaction is chosen in the moment it arrives.
+**Plain words** After an injury, you might notice both the physical ache and thoughts about what it means for your plans. Try noticing them separately. The passage distinguishes bodily pain from accompanying mental distress through its portrait of the trained disciple; it does not make distress a personal failure.
 
 *For example:* An injury hurts; that is the first arrow. The commentary that follows it, the replaying and the protest, is the layer the sutta marks as trainable.
 

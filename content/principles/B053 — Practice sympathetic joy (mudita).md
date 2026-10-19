@@ -19,7 +19,7 @@ Rejoice in others' happiness without envy: let their good fortune be your good f
 
 The formula has the same shape for goodwill, compassion and equanimity; what changes is the filling of the heart. Nyanaponika's guidance on the exercise: "In the meditative exercises, the selection of people to whom the thought of love, compassion or sympathetic joy is directed, proceeds from the easier to the more difficult." Life gains in joy "by sharing the happiness of others as if it were yours". The compendium's framing: the friend's promotion can be met as a wound or as a celebration; same news, two lives. (Brahmavihara tradition.)
 
-**Plain words** The formula is a practice: pervade direction after direction with a heart filled with sympathetic joy. The exercise selects its people from the easier to the more difficult: someone whose happiness costs you nothing to enjoy, then someone whose happiness stings.
+**Plain words** Think of someone whose good news you can enjoy without comparing it with your own prospects. Stay with what has gone well for that person. When you try the exercise with a colleague you compete with, notice whether comparison interrupts your goodwill.
 
 *For example:* The colleague gets the role you wanted. The practice is filling the heart with sympathetic joy toward them; whether that comes easily is the measurement.
 

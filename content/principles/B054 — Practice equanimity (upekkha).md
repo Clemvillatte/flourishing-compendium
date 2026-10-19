@@ -19,7 +19,7 @@ Cultivate an even-minded balance toward all experience: pleasure and pain, gain 
 
 The sutta's difference between the well-instructed and the uninstructed person is not which conditions arise; both get all eight. The instructed one reflects that each is "inconstant, stressful, & subject to change" and so abandons welcoming and rebelling. The uninstructed one "welcomes the arisen gain and rebels against the arisen loss", and stays bound. Equanimity is the trained response to the pair, not the absence of the pair. (Brahmavihara tradition; AN 8.6.)
 
-**Plain words** An everyday application, not the sutta's own: pick one small pair from an ordinary day, say a little praise and a little censure, and watch the pull toward welcoming one and bracing against the other. The watching is the exercise; the sutta does not promise the pulls stop.
+**Plain words** An everyday application, not the sutta's own: pick one small pair from an ordinary day, say a little praise and a little censure, and watch the pull toward welcoming one and bracing against the other. For this exercise, notice the reaction without assuming it will disappear that day.
 
 *For example:* A trader watching green and red days can welcome the green and rebel against the red, or watch both as inconstant. That illustration applies the sutta's distinction; it is not a claim the sutta makes about traders.
 
