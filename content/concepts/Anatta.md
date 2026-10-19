@@ -38,7 +38,7 @@ For flourishing, anatta reframes identity from a fixed possession to a set of ha
 - [[Wu (non-being)]] — the Daoist counterpart in non-essence
 - [[Fixed views of self]] — the Buddhist no-self as the deepest holding of the self lightly
 - [[Buddhist emptiness of inherent nature]] — Madhyamaka extends the analysis of persons' lack of independent self to phenomena generally
-- [[CO011]] — CO011's psychology parallels list anatta as non-identification with mental events
+- [[CO011]] — CO011's philosophy parallels list anatta as non-identification with mental events
 ## Sources
 
 - [Wikipedia, Ātman (Buddhism)](https://en.wikipedia.org/wiki/%C4%80tman_(Buddhism)) — textual and doctrinal detail, including the distinction between "not-self" and "no-self" and the later Tathāgatagarbha qualification.
