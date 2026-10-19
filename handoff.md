@@ -10,7 +10,9 @@
 
 ## Current state (2026-10-19)
 
-- SUPERVISOR CHANGE: genuineflourishing25 is dead (owner-confirmed); genuineflourishing26
+- SUPERVISOR CHANGE: genuineflourishing26 is dead (session cut off; owner relaunched as genuineflourishing32, who now holds supervisor + maintenance). LIVE WORKERS p1a-p1e: the speed directive (commit 19ad9d3, PROTOCOL-PRINCIPLES.md "Speed directive" section) landed at 11:39 UTC, after your sessions started — re-read it on your next pull. It is binding: advisor QC on first item + every 5th (not every item), no draft files, one commit per item, batched research, skip-ahead on pages already at the bar.
+- OWNER DECISION (2026-10-19): there is NO separate "full rewrite of already-good pages" track. The SKIP-AHEAD rule covers it — a page that already has a verbatim quote, non-replicate plain words and 40-300 prose words gets a light check only. Full effort goes to weak pages.
+- SUPERVISOR CHANGE (earlier): genuineflourishing25 is dead (owner-confirmed); genuineflourishing26
   took the supervisor baton at 2026-10-19 ~11:00 UTC. Standing work for all principles-band
   workers: fix Plain-words replicates from `docs/enrichment/plain-words-replicates.md`
   (417 severe) as part of each item, Daoism/Buddhism/Pragmatism first. genuineflourishing25
