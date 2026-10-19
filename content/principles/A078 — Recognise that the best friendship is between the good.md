@@ -12,13 +12,18 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 78** — Recognise that the best friendship is between the good
 
-True friendship requires both parties to be good. Only the good can wish the other's good for its own sake. Only the good are stable enough to sustain a friendship through fortune and time. If you want good friends, become a good person.
+The principle's source is Aristotle's account of the kinds of friendship in NE VIII: friendships of utility and pleasure are incidental, ending when the advantage or pleasure ends, while the friendship of the good is for the friend's own sake.
+
+> Perfect friendship is the friendship of men who are good, and alike in virtue; for these wish well alike to each other qua good, and they are good themselves. Now those who wish well to their friends for their sake are most truly friends; for they do this by reason of own nature and not incidentally; therefore their friendship lasts as long as they are good-and goodness is an enduring thing. (NE VIII.4, Ross trans., [MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.8.viii.html))
+
+Aristotle adds that such friendships are infrequent because such men are rare, and that they require time and familiarity: "men cannot know each other till they have 'eaten salt together'" (VIII.4). The principle's directive follows as an application: if you want good friends, become a good person.
 
 (NE VIII.3, VIII.4, IX.5; EE VII.2.)
 
-**Plain words** A friendship that lasts needs two good people. Only someone with decent character can wish you well for your own sake and stay steady through changing fortune. So if you want good friends, start by becoming someone worth being friends with.
+**Plain words**
+Aristotle sorts friendships by what they run on. Some run on usefulness: the colleague, the friend with the van. Some run on pleasure: the gym partner, the drinking friend. Both are real, and both end when the use or the fun ends. The third kind rests on who you both are, and lasts, as Aristotle says, as long as they are good.
 
-*For example:* You notice the friends who stayed through your messy year were the ones who were also straight with others. Like attracts like.
+*For example:* Think of the friendships that survived a bad year on your side, and check what they ran on. The ones that outlasted the usefulness are the kind he means.
 
 ## Stories
 

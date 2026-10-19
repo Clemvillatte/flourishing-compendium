@@ -191,3 +191,12 @@ session after supervisor QC flags.
   - Verified context: the monkey-keeper's morning-three/evening-four story and its reversal; the old plain words' "this isn't moral relativism" defense was a not-X pattern and a body replicate; repaired. The wing example retained (imagined perspectival illustration, no empirical claim).
   - Speed directive applies: no advisor QC this item (item 12; QC at items 1, 5, 10 done earlier, next at 15); no draft file; one commit per item.
 - Saturation: D080 linked from its parallels (Epoché, Perspectivism, tetralemma contexts); no new reciprocals proposed.
+
+## A078 — Recognise that the best friendship is between the good (done 2026-10-19)
+
+- Opened: Aristotle, Nicomachean Ethics, Book VIII, W.D. Ross translation, MIT Classics, https://classics.mit.edu/Aristotle/nicomachaen.8.viii.html
+  - Verified verbatim (blockquote, contiguous, NE VIII.4): "Perfect friendship is the friendship of men who are good, and alike in virtue; for these wish well alike to each other qua good, and they are good themselves. Now those who wish well to their friends for their sake are most truly friends; for they do this by reason of own nature and not incidentally; therefore their friendship lasts as long as they are good-and goodness is an enduring thing."
+  - Verified context: friendships of utility/pleasure are incidental; "those who are friends for the sake of utility part when the advantage is at an end"; such friendships infrequent, such men rare, require time and familiarity ("eaten salt together").
+  - The old plain words was a replicate of the body's sentences; repaired. The old example's "Like attracts like" generalization replaced with a check-your-own-friendships exercise with no outcome claim.
+  - Speed directive: no advisor QC this item (13; next milestone 15); no draft file; one commit.
+- Saturation: A078 already linked from its many Stories and the friendship concepts; no new reciprocals proposed.
