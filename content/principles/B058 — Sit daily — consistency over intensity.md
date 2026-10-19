@@ -12,11 +12,11 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 58** — Sit daily: consistency over intensity
 
-Brief, regular sittings outperform heroic binges: the mind trains the way a river cuts a gorge, by persistence.
+The Dhammapada gives the picture of the smith: "One by one, little by little, moment by moment, a wise man should remove his own impurities, as a smith removes his dross from silver." Not in one heroic purge; the impurities go the way they came, gradually. Shunryu Suzuki makes the same point about the practice itself: "If you lose the spirit of repetition it will become quite difficult," and "actual practice is repeating over and over again until you find out how to become bread." The compendium's image for the same truth: the mind trains the way a river cuts a gorge — not by force but by persistence. Brief, regular sittings are the river; the heroic binge is the flood, which rearranges some rocks and leaves the channel much as it was.
 
 (Dhammapada 239; Suzuki.)
 
-**Plain words** Brief, regular sittings outperform heroic binges — the mind trains the way a river cuts a gorge, by persistence. Five minutes daily for a year will do what three hours on New Year's Day never could. Consistency is the advanced practice.
+**Plain words** Show up small, show up daily. A short sitting every day beats a marathon one rarely — the daily river cuts the gorge; the rare flood just moves some rocks. Five minutes daily for a year will do what three hours on New Year's Day never could. Consistency is the advanced practice.
 
 *For example:* The person who meditates ten minutes every day versus the retreat-weekend warrior — by December, only one of them has a practice.
 
