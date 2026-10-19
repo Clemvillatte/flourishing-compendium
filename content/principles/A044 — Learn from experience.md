@@ -31,7 +31,7 @@ For example (imagined): a manager who has watched three projects fail at the pla
 
 ## Psychology parallels
 
-- **[[Experiential learning|Experiential learning cycle]]**, experience, reflection, conceptualisation, experimentation (Kolb, 1984)
+- **[[Experiential learning|Experiential learning cycle]]** (Kolb, 1984)
 - **[[Deliberate practice|Deliberate practice and expertise]]** (Ericsson et al., 1993)
 
 ## Philosophy parallels
