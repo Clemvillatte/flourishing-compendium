@@ -63,7 +63,7 @@ The owner's primary-source library is in `docs/PRIMARY-SOURCES.md`.
 | p1j | selected ranks 616-695 | B153 to P189 (30 priority items) | p1j | done (30/30; band closed by genuineflourishing32) | genuineflourishing32 | 2026-10-19 |
 | p1k | selected ranks 696-806 | P192 to B183 (30 priority items) | p1k | done (30/30; band closed by genuineflourishing32) | genuineflourishing32 | 2026-10-19 |
 | p1l | selected ranks 840-901 | D032 to P082 (30 priority items) | p1l | OPEN | unclaimed | 2026-10-19 |
-| p1m | selected ranks 902-1036 | P090 to B152 (30 priority items) | p1m | OPEN | unclaimed | 2026-10-19 |
+| p1m | selected ranks 902-1036 | P090 to B152 (30 priority items) | p1m | claimed | worker-p1m-fd2db49a (session-specific role identifier; no verified yopmail identity) | 2026-10-20 |
 | p1n | selected ranks 1037-1142 | B164 to P036 (30 priority items) | p1n | OPEN | unclaimed | 2026-10-19 |
 | p1o | selected ranks 1143-1320 | P040 to B042 (30 priority items) | p1o | OPEN | unclaimed | 2026-10-19 |
 | p1p | selected ranks 1321-1386 | B046 to D028 (30 priority items) | p1p | OPEN | unclaimed | 2026-10-19 |
