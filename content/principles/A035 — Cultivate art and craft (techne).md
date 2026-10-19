@@ -16,9 +16,22 @@ Techne is the capacity to make things well, guided by reason: the knowledge of h
 
 (NE VI.4; Metaphysics I.1.)
 
-**Plain words** Making things well takes more than a knack. Aristotle's techne means you understand why the method works. So make something with your hands and your head. What a maker knows can't be borrowed from anyone who hasn't made it.
+### What a techne is
+
+> "Art, therefore, as has been said, is a rational quality, concerned with making, that reasons truly." — Aristotle, Nicomachean Ethics VI.4, 1140a (Ross trans., [Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abekker+page%3D1140a))
+
+### Why the maker's knowledge cannot be borrowed
+
+The claim is epistemic, not aesthetic: you learn something by producing that you cannot learn by consuming. The baker who has failed ten loaves knows what the dough is doing; the reader of recipes knows what the words say.
+
+**Plain words**
+Making things well takes more than a knack; it takes the knack plus the reason underneath it. That is why the knowledge cannot be borrowed: the person who has only read about bread has the words, and the person who has baked has the feel for what the words are about. Start with something you can finish badly, and let the tenth attempt argue with the first.
 
 *For example:* Baking the same loaf ten times and changing one thing each time teaches you more about bread than reading ten recipes.
+
+## Sources
+
+- [Aristotle, Nicomachean Ethics VI.4 (W.D. Ross trans., Perseus Digital Library)](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abekker+page%3D1140a) — techne defined (1140a)
 
 ## Stories
 
