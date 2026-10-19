@@ -12,13 +12,22 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 80** — Dissolve rigid right and wrong (qiwu)
 
-Right and wrong depend on the viewer; from the Dao's vantage, "this" and "that" lose their walls. Hold positions lightly: certitude is the enemy of peace.
+The principle comes from Zhuangzi 2, "The Adjustment of Controversies" (Legge's title), and its emblem is the monkey-keeper.
+
+> His two proposals were substantially the same, but the result of the one was to make the creatures angry, and of the other to make them pleased. Therefore the sagely man brings together a dispute in its affirmations and denials, and rests in the equal fashioning of Heaven. Both sides of the question are admissible. (Zhuangzi 2 §6, Legge, [METIS English Classics edition](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
+
+The chapter's point is not that answers are unknowable; it is that framing can flip the felt answer while the substance stays fixed, as it did for the monkeys. The principle's application follows: hold positions lightly, because certitude is the enemy of peace.
 
 (Zhuangzi 2.)
 
-**Plain words** Right and wrong depend on the viewer. Hold your positions lightly — this isn't moral relativism; it's noticing that your angle is an angle. Certitude is the enemy of peace.
+**Plain words**
+Notice how much of a disagreement is about the order the acorns arrive in. The same offer, said differently, lands differently. Before defending a position, ask what the other side is seeing that you are not; the chapter's sage admits both sides and rests.
 
 *For example:* From the window seat, the left wing looks like it dips; from the aisle, it doesn't. Both passengers are arguing about the same wing.
+
+## Sources
+
+- [Zhuangzi, Chapter 2, "The Adjustment of Controversies", Legge translation (1891), METIS English Classics edition, ETH Zurich](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — the monkey-keeper story and the sage's resting place
 
 ## Psychology parallels
 

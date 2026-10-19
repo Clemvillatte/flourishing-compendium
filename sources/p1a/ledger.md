@@ -183,3 +183,11 @@ session after supervisor QC flags.
   - Advisor QC round 1 rejected: "compassion is the root of the other two" (hierarchy the chapter does not establish; even marked as compendium reading it was deleted), "the usual route to courage is hardness" (unsupported generalization), asserting the ci/gentleness Chinese lexical mapping from the English-only extract (replaced with "Legge calls the first 'gentleness'"), "practice kindness as a baseline, not your mood" (retained directive removed from plain words as a body replicate), the nurse example's "compassion doing endurance work" mechanism, and the newcomer example's staged second sentence. Plain words replaced with the advisor's firm-position framing; example trimmed to the single imagined sentence.
   - Pre-item commit recorded for preservation check: d9abbbbf9e98eef727f227b7e148d312f2b3b5bf; validator preservation guards pass; reflections block intact and untouched.
 - Saturation: D031 linked from Compassion concept page's principle family; no new reciprocals proposed.
+
+## D080 — Dissolve rigid right and wrong (qiwu) (done 2026-10-19)
+
+- Opened: Zhuangzi, ch. 2 "The Adjustment of Controversies", Legge translation (1891), METIS English Classics edition PDF, https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf (same opened PDF as D078/D141/D037; ch. 2 §6 extracted this item; source not double-counted)
+  - Verified verbatim (blockquote): "His two proposals were substantially the same, but the result of the one was to make the creatures angry, and of the other to make them pleased. Therefore the sagely man brings together a dispute in its affirmations and denials, and rests in the equal fashioning of Heaven. Both sides of the question are admissible."
+  - Verified context: the monkey-keeper's morning-three/evening-four story and its reversal; the old plain words' "this isn't moral relativism" defense was a not-X pattern and a body replicate; repaired. The wing example retained (imagined perspectival illustration, no empirical claim).
+  - Speed directive applies: no advisor QC this item (item 12; QC at items 1, 5, 10 done earlier, next at 15); no draft file; one commit per item.
+- Saturation: D080 linked from its parallels (Epoché, Perspectivism, tetralemma contexts); no new reciprocals proposed.

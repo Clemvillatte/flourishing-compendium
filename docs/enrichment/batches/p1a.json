@@ -22,11 +22,12 @@
   "D019",
   "D141",
   "D037",
-  "D031"
+  "D031",
+  "D080"
  ],
- "in_progress": "D080",
+ "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 17,
- "updated": "2026-10-19T12:01:41+00:00"
+ "updated": "2026-10-19T12:03:40+00:00"
 }
