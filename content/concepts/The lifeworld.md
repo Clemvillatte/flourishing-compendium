@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “The lifeworld” — Husserl, The Crisis; Husserl, The Crisis of European Sciences.
 
+## Related concepts
+
+- [[The natural attitude]] — the home the suspension returns to
+
 ## Sources
 
 - Husserl, The Crisis

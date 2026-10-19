@@ -16,3 +16,8 @@ Biophysiological · Psychological science
 [[BE004 — Understand that behaviour is learned — skills can be acquired]]
 [[P054 — Balance exploration and exploitation]]
 ## Cited in philosophy parallels
+
+
+## Related concepts
+
+- [[Reward prediction error (Schultz)]] — the algorithm whose error term dopamine matches

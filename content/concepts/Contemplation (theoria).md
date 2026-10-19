@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Contemplation (theoria)” — Aristotle, NE X.7-8.
 
+## Related concepts
+
+- [[The theoretical life]] — the activity that constitutes the life
+
 ## Sources
 
 - Aristotle, NE X.7-8

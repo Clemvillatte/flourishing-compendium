@@ -9,6 +9,11 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Koan practice” — Zen Buddhism, Mumonkan.
 
+## Related concepts
+
+
+- [[Showing versus saying]] — the Zen pointing device
+- [[The limits of language]] — the device for exhausting what the limit keeps out
 ## Sources
 
 - Zen Buddhism, Mumonkan

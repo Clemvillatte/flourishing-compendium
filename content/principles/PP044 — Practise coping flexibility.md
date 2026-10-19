@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 ---
 > **Principle 44** — Practise coping flexibility
 
-Two research programs converge on the same conclusion. Bonanno and Burton name the assumption they are attacking the "fallacy of uniform efficacy": that any one strategy is reliably beneficial or harmful. Their alternative, regulatory flexibility, has three components: "sensitivity to context, availability of a diverse repertoire of regulatory strategies, and responsiveness to feedback." Cheng and colleagues' meta-analysis of coping flexibility found a positive link with psychological adjustment.
+Two research programs converge on the same conclusion. Bonanno and Burton name the assumption they are attacking the "fallacy of uniform efficacy": that any one strategy is reliably beneficial or harmful. Their alternative, [[Regulatory flexibility theory|regulatory flexibility]], has three components: "sensitivity to context, availability of a diverse repertoire of regulatory strategies, and responsiveness to feedback." Cheng and colleagues' meta-analysis of coping flexibility found a positive link with psychological adjustment.
 
 > "The results of a random-effects model revealed a small to moderate overall mean effect size (r = .23, 95% CI [.19, .28], 80% CRI [-.02, .49], k = 329, N = 58,946)." (Cheng et al. 2014, [PubMed](https://pubmed.ncbi.nlm.nih.gov/25222637/))
 

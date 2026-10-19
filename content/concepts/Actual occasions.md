@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Actual occasions” — Whitehead, Process and Reality.
 
+## Related concepts
+
+- [[The many become one]] — the units the formula produces
+
 ## Sources
 
 - Whitehead, Process and Reality

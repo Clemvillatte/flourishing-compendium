@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Altruism” — Batson, 2011.
 
+## Related concepts
+
+- [[Prosocial behaviour]] — one motive among several behind prosocial acts
+
 ## Sources
 
 - Batson, 2011

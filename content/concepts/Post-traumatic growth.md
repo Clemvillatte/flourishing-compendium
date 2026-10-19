@@ -16,8 +16,9 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 ## Related concepts
 
-- [[Narrative redemption sequences]] — the growth the redeemed story reports
 
+- [[Narrative redemption sequences]] — the growth the redeemed story reports
+- [[The search for meaning]] — the growth the attitude-toward-suffering channel can produce
 ## Sources
 
 - Bonanno, 2004

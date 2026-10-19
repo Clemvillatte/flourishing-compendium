@@ -15,6 +15,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 - **at the trigger point**
 - **reliance on evidence**
 
+## Related concepts
+
+- [[Stress inoculation training]] — the second phase's core cognitive skill
+
 ## Sources
 
 - Beck, 1976

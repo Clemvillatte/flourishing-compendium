@@ -14,6 +14,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 - **research** — Greenberg et al., 1986
 - **and meaning** — Greenberg et al., 1986
 
+## Related concepts
+
+- [[Terror management]] — the experimental paradigm of the theory
+
 ## Sources
 
 - Greenberg et al., 1986

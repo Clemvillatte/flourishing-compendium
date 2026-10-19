@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Theoretical wisdom — the intellectual virtue that knows the necessary and eternal. Aristotle pairs it with [[Phronesis|practical wisdom]]; Spinoza's third kind of knowledge is its heir ([Wikipedia Sophia](https://en.wikipedia.org/wiki/Sophia)).
 
+## Related concepts
+
+- [[The theoretical life]] — the virtue the life exercises
+
 ## Sources
 - Wikipedia Sophia: https://en.wikipedia.org/wiki/Sophia
 

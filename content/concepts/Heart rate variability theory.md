@@ -27,6 +27,7 @@ Biophysiological · Psychological science
 
 ## Related concepts
 
+
 - [[Interoception]] — perceiving the internal signals HRV theory indexes
 - [[Self-regulation]] — the capacity the model indexes
 - [[Equanimity]] — the meditative analogue of autonomic balance
@@ -34,7 +35,7 @@ Biophysiological · Psychological science
 - [[Expressive suppression versus reappraisal]] — the emotion-regulation strategies studied alongside it
 - [[Wu wei]] — non-forcing, a Daoist pairing
 - [[Right concentration]] — the collected mind, a contemplative pairing
-
+- [[Slow-paced breathing]] — the signal slow breathing increases
 ## Sources
 
 - [Park & Thayer 2014, "From the heart to the mind: cardiac vagal tone modulates top-down and bottom-up visual perception and attention to emotional stimuli," Frontiers in Psychology](https://pmc.ncbi.nlm.nih.gov/articles/PMC4013470/)

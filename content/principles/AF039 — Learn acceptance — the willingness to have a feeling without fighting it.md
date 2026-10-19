@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 39** — Learn acceptance: the willingness to have a feeling without fighting it
 
-Acceptance is not approval or resignation. It is the willingness to experience a feeling fully without trying to change, avoid, or suppress it. Paradoxically, accepting a feeling often reduces its intensity and duration. Fighting a feeling amplifies it.
+[[Acceptance|Acceptance is not approval]] or resignation. It is the willingness to experience a feeling fully without trying to change, avoid, or suppress it. Paradoxically, accepting a feeling often reduces its intensity and duration. Fighting a feeling amplifies it.
 
 **Plain words** Acceptance: the willingness to have a feeling fully without changing, avoiding, or suppressing it — not approval, not resignation. Paradoxically, accepting a feeling often reduces its intensity: what you stop fighting stops fighting you.
 

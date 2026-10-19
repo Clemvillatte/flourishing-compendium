@@ -21,6 +21,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 - affect transfers between people (Hatfield et al., 1994)
 
+## Related concepts
+
+- [[Social contagion]] — the affect-only case
+
 ## Sources
 
 - Hatfield et al., 1994

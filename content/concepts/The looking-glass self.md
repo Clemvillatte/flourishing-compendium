@@ -10,6 +10,11 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “The looking-glass self” — Cooley, Human Nature and the Social Order.
 
+## Related concepts
+
+
+- [[Taking the role of the other]] — Cooley's neighboring account of the social self
+- [[The social self]] — Cooley's version of the same idea
 ## Sources
 
 - Cooley, Human Nature and the Social Order

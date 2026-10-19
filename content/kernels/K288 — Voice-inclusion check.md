@@ -15,3 +15,8 @@ Before finalising a decision that affects a group, ask: have all affected partie
 ## Operationalises
 
 [[A023 — Practice justice (dikaiosyne)|A023 Practice justice (dikaiosyne)]], [[A078 — Recognise that the best friendship is between the good|A078 Recognise that the best friendship is between the good]], [[S011 — Recognise the three topoi — the three disciplines|S011 Recognise the three topoi: the three disciplines]], [[R005 — Practise forgiveness|R005 Practise forgiveness]], [[R010 — Practise generosity|R010 Practise generosity]], [[R055 — Practise xin (trustworthinessintegrity)|R055 Practise xin (trustworthiness/integrity)]]
+
+
+## Related concepts
+
+- [[Procedural justice]] — voice is the component Tyler's research isolates

@@ -53,7 +53,7 @@ Honour is the proud person's main concern, but "he will also bear himself with m
 <!-- fc: reflections
 Do you judge your own worth too highly, too low, or by turns depending on the audience? Write about a moment where your estimate was shown to be wrong.
 %%
-Magnanimity requires thinking yourself worthy of great things and being so. How do you hold that against traditions that prize humility? Is there a humility that is accurate, not self-erasing?
+Magnanimity requires thinking yourself worthy of great things and being so. How do you hold that against traditions that prize humility? Is there [[Humility|a humility that is accurate]], not self-erasing?
 %%
 How does a person recover a fair sense of worth after humiliation or long mistreatment? What would Aristotle say the community owes them?
 -->

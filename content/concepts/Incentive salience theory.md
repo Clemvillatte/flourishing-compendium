@@ -17,3 +17,8 @@ Overt Behavior · Psychological science
 [[AF020 — Distinguish pleasure from satisfaction; they are different systems]]
 [[MO068 — Recognise addiction and motivation — wanting without liking]]
 [[MO006 — Understand that wanting and liking are different systems]]
+
+
+## Related concepts
+
+- [[Reward prediction error (Schultz)]] — the wanting system the error signal feeds

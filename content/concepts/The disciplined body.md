@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “The disciplined body” — Foucault; Foucault, Discipline and Punish.
 
+## Related concepts
+
+- [[Progressive muscle relaxation (Jacobson)]] — the tense-release drill is a body-discipline practice in the same family
+
 ## Sources
 
 - Foucault

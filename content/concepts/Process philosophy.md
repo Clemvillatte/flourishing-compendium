@@ -21,6 +21,10 @@ Process philosophy is not simply "everything changes." While process philosopher
 
 For flourishing, process philosophy suggests three interpretive shifts (these are interpretations of what follows from the metaphysics, not established empirical consequences): (1) treat your self as a process, not a fixed essence — you are a pattern of activities, habits, and relations, which means change is not a threat to identity but its medium; (2) treat problems as indeterminate situations to be transformed, following Dewey's account that meanings arise in interaction; (3) treat growth as the point of life rather than as preparation for a later "real" life.
 
+## Related concepts
+
+- [[The many become one]] — the tradition the formula anchors
+
 ## Sources
 
 - [Stanford Encyclopedia of Philosophy — Process Philosophy](https://plato.stanford.edu/entries/process-philosophy/)

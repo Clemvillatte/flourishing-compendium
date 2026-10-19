@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 pattern recognition in high-feedback domains (Kahneman and Klein, 2009).
 
+## Related concepts
+
+- [[Situation awareness in expert performance]] — the trust conditions for the perception
+
 ## Sources
 
 - Kahneman and Klein, 2009

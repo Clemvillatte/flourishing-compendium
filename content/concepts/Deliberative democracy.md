@@ -9,6 +9,11 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Deliberative democracy” — Bohman, Public Deliberation; Habermas, Between Facts and Norms.
 
+## Related concepts
+
+
+- [[Procedural justice]] — fair process is the procedure deliberation aims at
+- [[The common good]] — the process conception of the common good
 ## Sources
 
 - Bohman, Public Deliberation

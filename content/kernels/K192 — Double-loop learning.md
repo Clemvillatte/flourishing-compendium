@@ -15,3 +15,8 @@ When the same failure repeats, fix the assumption behind the action. Ask: "What 
 ## Operationalises
 
 [[D073 — Don't over-plan — act from presence|D073 Don't over-plan: act from presence]], [[D080 — Dissolve rigid right and wrong (qiwu)|D080 Dissolve rigid right and wrong (qiwu)]], [[B065 — Guard the mind at the source (mind precedes all)|B065 Guard the mind at the source (mind precedes all)]], [[P049 — Close the loop — single-loop and double-loop learning|P049 Close the loop: single-loop and double-loop learning]]
+
+
+## Related concepts
+
+- [[Reflective practice]] — Argyris and Schon's ladder reflective practice climbs

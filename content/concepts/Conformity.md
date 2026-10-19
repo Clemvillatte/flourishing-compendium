@@ -12,8 +12,9 @@ majority pressure sways judgments even against perception (Asch, 1951).
 - Sartre, Being and Nothingness
 ## Related concepts
 
-- [[Escape from freedom]] — a comparison with Fromm's account of adopting a culturally prescribed personality
 
+- [[Escape from freedom]] — a comparison with Fromm's account of adopting a culturally prescribed personality
+- [[Social contagion]] — the normative-pressure version
 ## Sources
 
 - Asch, 1951

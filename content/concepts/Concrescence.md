@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Concrescence” — Whitehead, Process and Reality.
 
+## Related concepts
+
+- [[The many become one]] — the growing-together the formula names
+
 ## Sources
 
 - Whitehead, Process and Reality

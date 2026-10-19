@@ -14,6 +14,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 - **and well-being** — Grant, 2008; Weinstein and Ryan, 2010
 - **and collective well-being** — Grant, 2008
 
+## Related concepts
+
+- [[Prosocial behaviour]] — the motive side of prosocial behaviour
+
 ## Sources
 
 - Grant, 2008

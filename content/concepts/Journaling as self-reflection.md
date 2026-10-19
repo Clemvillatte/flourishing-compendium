@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Journaling as self-reflection” — Smyth and Pennebaker, 2008.
 
+## Related concepts
+
+- [[Reflective practice]] — the written everyday form of reflective practice
+
 ## Sources
 
 - Smyth and Pennebaker, 2008

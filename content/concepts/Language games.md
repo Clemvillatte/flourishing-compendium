@@ -14,6 +14,11 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 - **and frameworks** — Wittgenstein, Philosophical Investigations
 - **and meaning as use** — Wittgenstein, Philosophical Investigations
 
+## Related concepts
+
+
+- [[Showing versus saying]] — the later Wittgenstein's replacement for the Tractatus picture
+- [[The limits of language]] — the later Wittgenstein's answer to where meaning lives
 ## Sources
 
 - Wittgenstein, Philosophical Investigations

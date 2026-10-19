@@ -9,6 +9,11 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 (Pseudo-Dionysius, Mystical Theology), the highest things elude speech.
 
+## Related concepts
+
+
+- [[Showing versus saying]] — the older tradition of unsaying
+- [[The limits of language]] — the tradition that reveres the far side of the limit
 ## Sources
 
 - Pseudo-Dionysius, Mystical Theology

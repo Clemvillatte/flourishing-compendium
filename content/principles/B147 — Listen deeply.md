@@ -23,6 +23,10 @@ When someone describes a hurt, try listening without preparing a rebuttal. Give 
 
 *For example:* Suppose a friend retells a story with the facts wrong. As a modern application, the practice is listening through it and raising the correction privately, later, calmly, if it still matters.
 
+## Related concepts
+
+- [[D118]] — Speaking rarely and listening deeply are two framings of the same speech economy
+
 ## Sources
 
 - [Thich Nhat Hanh, The Art of Communicating (book excerpt)](https://www.spiritualityandpractice.com/book-reviews/excerpts/view/25387)

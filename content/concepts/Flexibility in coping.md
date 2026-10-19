@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Flexibility in coping” — Bonanno and Burton, 2013.
 
+## Related concepts
+
+- [[Regulatory flexibility theory]] — the alternative coping-side phrasing
+
 ## Sources
 
 - Bonanno and Burton, 2013

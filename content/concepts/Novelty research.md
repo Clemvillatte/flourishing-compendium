@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Novelty research” — Zhang et al., 2018.
 
+## Related concepts
+
+- [[Reward prediction error (Schultz)]] — novelty acts on the same surprise channel
+
 ## Sources
 
 - Zhang et al., 2018

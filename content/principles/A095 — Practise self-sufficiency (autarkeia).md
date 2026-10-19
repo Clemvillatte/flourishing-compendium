@@ -22,7 +22,7 @@ The contemplative life is the most self-sufficient: it requires fewer external g
 
 ## Psychology parallels
 
-- **[[Nonattachment|Nonattachment research]]**, nonattachment predicts well-being beyond mindfulness (Sahdra et al., 2010)
+- **[[Nonattachment|Nonattachment research]]**, nonattachment predicts well-being [[Mindfulness|beyond mindfulness]] (Sahdra et al., 2010)
 - **[[Psychological flexibility|Psychological flexibility]]** (Kashdan and Rottenberg, 2010)
 
 ## Philosophy parallels

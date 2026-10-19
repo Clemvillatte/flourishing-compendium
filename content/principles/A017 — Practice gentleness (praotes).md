@@ -37,7 +37,7 @@ Suppose a colleague interrupts you. You might firmly ask to finish your point, t
 - [[K253 — The mean calibration|K253 The mean calibration]]
 ## Psychology parallels
 
-- **[[Anger regulation research|Anger regulation research]]**, [[Cognitive reappraisal|cognitive reappraisal]] and acceptance-based approaches outperform suppression (Gross, 2015)
+- **[[Anger regulation research|Anger regulation research]]**, [[Cognitive reappraisal|cognitive reappraisal]] and [[Acceptance|acceptance-based approaches]] outperform suppression (Gross, 2015)
 - **[[Anger management|Anger management interventions]]** (DiGiuseppe and Tafrate, 2007)
 
 ## Philosophy parallels

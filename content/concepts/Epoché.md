@@ -19,6 +19,11 @@ Its contemplative cognates are [[Sati]] (bare attention that withholds the gloss
 
 - Pyrrho
 - Pyrrho/Sextus Empiricus, Outlines of Pyrrhonism
+## Related concepts
+
+
+- [[Phenomenological psychology]] — the bracketing move the research method operationalizes
+- [[The natural attitude]] — the suspension procedure defined against this attitude
 ## Sources
 
 - Husserl, Ideas I

@@ -17,3 +17,8 @@ Affect · Psychological science
 [[D107 — Trust your own nature]]
 [[A023 — Practice justice (dikaiosyne)]]
 [[P127 — Treat democracy as a way of life, not a mechanism]]
+
+
+## Related concepts
+
+- [[Procedural justice]] — procedural fairness is one of its three components

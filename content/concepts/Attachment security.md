@@ -13,6 +13,10 @@ the evidence that secure bonds do not collapse under stress the way anxious bond
 
 - secure attachment balances closeness with autonomy (Mikulincer and Shaver, 2007)
 
+## Related concepts
+
+- [[The need to belong]] — the developmental substrate of the same motivation
+
 ## Sources
 
 - Mikulincer and Shaver, 2007

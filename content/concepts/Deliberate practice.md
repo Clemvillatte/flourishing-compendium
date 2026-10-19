@@ -28,9 +28,13 @@ expertise built through structured feedback (Ericsson et al., 1993).
 
 
 
+
+
 - [[Attention]] — attention aimed at improvement
 - [[Effortless action through long effort]] — the effortful training whose output is the effortless edge
 - [[Growth through practice]] — the contemplative ancestor of effortful training
+- [[Reflective practice]] — reflection supplies the feedback loop deliberate practice needs
+- [[Situation awareness in expert performance]] — how the tacit repertoire is built
 ## Sources
 
 - Ericsson et al., 1993

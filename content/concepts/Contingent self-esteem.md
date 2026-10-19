@@ -18,8 +18,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ## Related concepts
 
 
+
 - [[Amor sui (right self-love)]] — self-approval from reason, the Ethics' contrast to feedback-dependent self-regard
 - [[Social comparison]] — the comparison habit that contingency feeds
+- [[Terror management]] — the self-esteem form most exposed to the buffering logic
 ## Sources
 
 - Deci and Ryan, 1995

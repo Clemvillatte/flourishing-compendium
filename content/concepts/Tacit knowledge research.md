@@ -9,6 +9,11 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Tacit knowledge research” — Polanyi, The Tacit Dimension.
 
+## Related concepts
+
+
+- [[Showing versus saying]] — Polanyi's knowing-more-than-we-can-tell
+- [[The limits of language]] — Polanyi's account of what we know beyond what we can say
 ## Sources
 
 - Polanyi, The Tacit Dimension

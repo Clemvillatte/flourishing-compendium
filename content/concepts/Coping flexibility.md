@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Coping flexibility” — Cheng et al., 2014.
 
+## Related concepts
+
+- [[Regulatory flexibility theory]] — the coping-side statement of the same idea
+
 ## Sources
 
 - Cheng et al., 2014

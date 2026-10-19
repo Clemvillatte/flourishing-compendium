@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Pranayama” — Yoga tradition.
 
+## Related concepts
+
+- [[Slow-paced breathing]] — the tradition that first systematized paced breathing
+
 ## Sources
 
 - Yoga tradition

@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 a double inhale followed by an extended exhale rapidly reduces stress and improves mood (Balban et al., 2023; Spiegel et al., 2023).
 
+## Related concepts
+
+- [[Slow-paced breathing]] — the exhale-weighted unit of the same practice
+
 ## Sources
 
 - Balban et al., 2023

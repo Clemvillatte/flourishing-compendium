@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Beneficial solitude research” — Nguyen et al., 2018.
 
+## Related concepts
+
+- [[The capacity to be alone]] — the empirical study of what solitude does
+
 ## Sources
 
 - Nguyen et al., 2018

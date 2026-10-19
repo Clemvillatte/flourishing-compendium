@@ -19,4 +19,6 @@ Sociocultural · Psychological science
 
 ## Related concepts
 
+
 - [[Care]] — the empathy-altruism hypothesis: care's motivational science
+- [[Prosocial behaviour]] — the empathy-altruism account of prosocial triggers

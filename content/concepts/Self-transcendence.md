@@ -13,6 +13,10 @@ self-forgetting engagement predicts well-being (Yaden et al., 2021).
 
 - **well-being** — Koltko-Rivera, 2006; Vaillant, 2012; Wong, 2016
 
+## Related concepts
+
+- [[The search for meaning]] — what the search aims at, on Frankl's account
+
 ## Sources
 
 - Yaden et al., 2021

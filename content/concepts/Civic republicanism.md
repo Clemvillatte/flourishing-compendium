@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Civic republicanism” — Sandel, Democracy's Discontent.
 
+## Related concepts
+
+- [[The common good]] — the tradition that keeps the citizen at the center
+
 ## Sources
 
 - Sandel, Democracy's Discontent

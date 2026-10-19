@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 40** — Distinguish accepting a feeling from accepting a circumstance
 
-You can accept that you feel grief without accepting that the loss was acceptable. You can accept that you feel anger without accepting that the harm was acceptable. Conflating these is a common barrier to acceptance: people fear that accepting the feeling means approving of the situation.
+You can accept that you feel grief without accepting that the loss was acceptable. You can accept that you feel anger without accepting that the harm was acceptable. Conflating these is a common [[Acceptance|barrier to acceptance]]: people fear that accepting the feeling means approving of the situation.
 
 **Plain words** You can accept that you feel grief without accepting that the loss was acceptable; accept the anger without accepting the harm. Conflating the two is the common barrier. Two acceptances, two different departments — feelings get accepted, circumstances get judged.
 

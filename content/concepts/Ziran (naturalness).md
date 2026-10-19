@@ -21,6 +21,10 @@ Ziran as self-so is in contrast to other-so, denoting the idea that things are a
 
 Two habits follow. First, notice when an action is being forced by external command or social expectation rather than arising from one's own conditions — but be careful with Guo Xiang here, because his view is not anti-conformity: he holds that the roles required by Confucian propriety are not imposed upon a natural system that would otherwise be in chaos, but are instead the natural result of the system of spontaneous self-transformation ([Internet Encyclopedia of Philosophy](https://iep.utm.edu/guoxiang/)). Second, prefer simplicity and unpretence over contrivance; the Zhuangzi esteems the seemingly useless — gnarled trees and awkward gourds — precisely because their imperfections mean they will never be forced to act in an unnatural manner ([New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Ziran)).
 
+## Related concepts
+
+- [[The ten thousand things]] — what each of the ten thousand is allowed to be
+
 ## Sources
 
 

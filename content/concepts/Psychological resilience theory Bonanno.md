@@ -21,3 +21,10 @@ Affect · Psychological science
 [[A028 — Practice resilience in adversity]]
 [[AF013 — Train emotional recovery — the ability to return to baseline]]
 ## Cited in philosophy parallels
+
+
+## Related concepts
+
+
+- [[Regulatory flexibility theory]] — the resilience framework this theory explains
+- [[Stress inoculation training]] — the outcome the training aims at

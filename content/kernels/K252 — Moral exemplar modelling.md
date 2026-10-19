@@ -15,3 +15,8 @@ Identify two or three people, living or dead, real or fictional, whose character
 ## Operationalises
 
 [[A004 — Become virtuous by doing virtuous acts|A004 Become virtuous by doing virtuous acts]], [[A039 — Value experience over theory in practical matters|A039 Value experience over theory in practical matters]], [[S130 — Practise the discipline of speech|S130 Practise the discipline of speech]], [[R055 — Practise xin (trustworthinessintegrity)|R055 Practise xin (trustworthiness/integrity)]]
+
+
+## Related concepts
+
+- [[Social contagion]] — the contagion harnessed deliberately

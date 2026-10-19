@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Limits of introspection” — Nisbett and Wilson, 1977.
 
+## Related concepts
+
+- [[Phenomenological psychology]] — the reliability worry disciplined description answers
+
 ## Sources
 
 - Nisbett and Wilson, 1977

@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Phenomenology of the lifeworld” — Husserl, The Crisis.
 
+## Related concepts
+
+- [[Phenomenological psychology]] — the domain phenomenological psychology draws its descriptions from
+
 ## Sources
 
 - Husserl, The Crisis

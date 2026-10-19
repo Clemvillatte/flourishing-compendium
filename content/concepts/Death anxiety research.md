@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Death anxiety research” — Iverach et al., 2014.
 
+## Related concepts
+
+- [[Terror management]] — the neighboring measurement tradition
+
 ## Sources
 
 - Iverach et al., 2014

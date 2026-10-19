@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 anticipating and planning for lapses (Marlatt & Gordon, 1985).
 
+## Related concepts
+
+- [[Stress inoculation training]] — the follow-through machinery
+
 ## Sources
 
 - Marlatt & Gordon, 1985

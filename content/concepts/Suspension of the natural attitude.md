@@ -9,6 +9,11 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Suspension of the natural attitude” — Husserl, The Crisis.
 
+## Related concepts
+
+
+- [[Phenomenological psychology]] — the reduction as concept, the method's core discipline
+- [[The natural attitude]] — the reduction stated as a concept
 ## Sources
 
 - Husserl, The Crisis

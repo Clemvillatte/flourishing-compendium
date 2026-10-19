@@ -20,8 +20,9 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 ## Related concepts
 
-- [[Narrative identity]]
 
+- [[Narrative identity]]
+- [[The search for meaning]] — the research tradition that operationalized the search
 ## Sources
 
 - McAdams, 2008

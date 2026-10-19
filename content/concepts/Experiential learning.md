@@ -15,6 +15,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 - **cycle**
 - **and embodied expertise**
 
+## Related concepts
+
+- [[Reflective practice]] — reflection is the cycle's second half
+
 ## Sources
 
 - Kolb, 1984

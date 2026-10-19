@@ -37,3 +37,7 @@ Which of the four conditions, right time, objects, manner or measure, do you mos
 %%
 Telling someone a hard truth at the right time can heal, and at the wrong time can wound. What cues help you know when to speak?
 -->
+
+## Related concepts
+
+- [[D118]] — A048's reflections ask what cues tell you when to speak; D118 is the Daoist counterpart on speech timing (reticence, few words)

@@ -19,7 +19,7 @@ A feeling is something you experience, not something you are. The capacity to ob
 *For example:* The person mid-tantrum who suddenly says "hang on — there's a lot of anger here" — and the tantrum loses its author. The feeling didn't vanish; it got a witness. That's the whole move.
 ## Psychology parallels
 
-- **Decentering (reperceiving) is a mechanism of mindfulness**, the capacity to observe thoughts and feelings as transient mental events reduces their impact (Fresco et al., 2007)
+- **Decentering (reperceiving) is a [[Mindfulness|mechanism of mindfulness]]**, the capacity to observe thoughts and feelings as transient mental events reduces their impact (Fresco et al., 2007)
 - **Self-as-context (the observing self) is an ACT process**, distinguishing the self that observes from the content observed (Hayes et al., 2011)
 
 ## Philosophy parallels

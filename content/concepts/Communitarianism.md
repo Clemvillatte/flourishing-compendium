@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Communitarianism” — MacIntyre, After Virtue; Sandel, Liberalism and the Limits of Justice.
 
+## Related concepts
+
+- [[The common good]] — the contemporary philosophy of the communal conception
+
 ## Sources
 
 - MacIntyre, After Virtue

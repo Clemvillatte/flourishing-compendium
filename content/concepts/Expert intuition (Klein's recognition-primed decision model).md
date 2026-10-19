@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 experienced decision-makers in high-feedback domains make fast, accurate intuitive decisions (Klein, 1998; Kahneman & Klein, 2009).
 
+## Related concepts
+
+- [[Situation awareness in expert performance]] — the decision model that follows the awareness
+
 ## Sources
 
 - Klein, 1998

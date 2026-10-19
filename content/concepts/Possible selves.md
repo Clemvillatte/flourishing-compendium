@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 motivate change (Markus and Nurius, 1986).
 
+## Related concepts
+
+- [[Self as process]] — the future-directed contents of the shifting array
+
 ## Sources
 
 - Markus and Nurius, 1986

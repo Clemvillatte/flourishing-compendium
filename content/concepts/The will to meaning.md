@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “The will to meaning” — Frankl, Man's Search for Meaning; Frankl, The Will to Meaning.
 
+## Related concepts
+
+- [[The search for meaning]] — the drive stated as its own concept
+
 ## Sources
 
 - Frankl, Man's Search for Meaning
