@@ -60,13 +60,12 @@
   "BE006",
   "BE001",
   "AT064",
-  "BE009",
   "BE022",
   "BE036",
   "BI060",
   "BE019"
  ],
- "in_progress": null,
+ "in_progress": "BE009",
  "flagged": {
   "D011": "inherited psychology claim (Kashdan & Rottenberg 2010 'outperforms on nearly every outcome') not verified against an opened source; preserved per protocol, flagged for supervisor",
   "D068": "inherited psychology-parallels claims (Gottman soft startup; assertiveness research 'aggression reliably loses long games') not verified against opened sources; flagged for supervisor",
@@ -112,7 +111,7 @@
   "AT064": "Reopened for QC: QC round 3: conditional PASS, applying literal Sources-entry fix",
   "BE001": "Reopened for QC: QC rework round 2: advisor fixes applied, awaiting acceptance",
   "BE006": "inherited Hanley, Hayes, Vilardaga, Socrates/Nietzsche/Buddhism parallels not opened; preserved",
-  "BE009": "inherited Skinner, Ferster, Beck, Laozi, Buddhist, Aristotle parallels not opened; preserved",
+  "BE009": "Reopened for QC: QC round 2 FAIL: shaping source gap; opening source from PRIMARY-SOURCES.md",
   "BE019": "Reopened for QC: QC round 2 conditional PASS applied; recording acceptance",
   "BE022": "inherited Linehan 1993, Rizvi-Linehan 2005, Aristotle, Buddhist, Kant parallels not opened; preserved",
   "BE036": "inherited Linehan, Leyro, Hayes, Buddhist, Nietzsche parallels not opened; preserved",
@@ -120,7 +119,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 38,
- "updated": "2026-10-19T15:05:22+00:00",
+ "updated": "2026-10-19T15:05:24+00:00",
  "band_done": false,
  "takeover": {
   "by": "genuineflourishing35",
