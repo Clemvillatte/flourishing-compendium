@@ -12,21 +12,21 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 129** — Practice sympathetic understanding
 
-Addams's sympathetic understanding joins concern for others to learning how they actually live. Shared activities at Hull-House gave neighbours and residents opportunities to know one another, while mistakes exposed the residents' own assumptions ([Hamington, §2a and §2e](https://iep.utm.edu/addamsj/)). Mead describes a related social capacity: viewing oneself from other people's standpoints, so that their anticipated responses enter one's own conduct ([Mead, §18, pp. 138–141](https://brocku.ca/MeadProject/Mead/pubs2/mindself/Mead_1934_18.html)).
+Sympathetic understanding here concerns what Maurice Hamington calls Addams's "sympathetic knowledge": learning about others through shared activities and openness to having one's assumptions disturbed ([Hamington, §2a and §2e](https://iep.utm.edu/addamsj/)). Mead examines a related but different question, how a person comes to see themselves: other people's standpoints and anticipated responses enter their own conduct ([Mead, §18, pp. 138–141](https://brocku.ca/MeadProject/Mead/pubs2/mindself/Mead_1934_18.html)).
 
 > "We did not reckon, however, with the wide diversity in nationality and inherited tastes" ([Addams, Twenty Years at Hull-House, ch. VII](https://standardebooks.org/ebooks/jane-addams/twenty-years-at-hull-house/text/chapter-7)).
 
-Addams admits this after describing a public kitchen whose nutritious food failed to appeal widely. Her account gives sympathetic understanding a practical demand: revise an undertaking when the people it is meant to serve show that its design misses their lives ([Addams, ch. VII](https://standardebooks.org/ebooks/jane-addams/twenty-years-at-hull-house/text/chapter-7)).
+The public kitchen sold soups and stews to factories and a few households, but acceptance was slow. Addams recalls a neighbour who acknowledged the food's nutritional value while preferring "what she'd ruther". Understanding that preference required attending to the neighbour's enjoyment of eating alongside the residents' nutritional concerns ([Addams, ch. VII](https://standardebooks.org/ebooks/jane-addams/twenty-years-at-hull-house/text/chapter-7)).
 
 (Addams, Twenty Years at Hull-House, 1910; Mead, Mind, Self and Society, 1934.)
 
 ### Plain words
 
-Good intentions can leave you mistaken about what someone needs. Spend time with the person, hear what matters to them, and leave room to change your plan. In Addams's account, learning that neighbours wanted safer places to socialise mattered alongside the residents' concern for better food ([Addams, ch. VII](https://standardebooks.org/ebooks/jane-addams/twenty-years-at-hull-house/text/chapter-7)).
+Before treating someone's preference as foolish, learn what they find good about it. Facts about a meal's nutrients leave out what it is like to eat it; Addams's neighbour wanted food she enjoyed ([Addams, ch. VII](https://standardebooks.org/ebooks/jane-addams/twenty-years-at-hull-house/text/chapter-7)).
 
 ### For example
 
-Hull-House's coffeehouse became a place for club suppers and gatherings even though its early food programme met a mixed reception. Addams says the experience taught residents to adapt their undertakings as they discovered what the neighbourhood would accept ([Addams, ch. VII](https://standardebooks.org/ebooks/jane-addams/twenty-years-at-hull-house/text/chapter-7)).
+While appreciation of the kitchen's food came slowly, the social value of the coffeehouse and gymnasium was quickly apparent. Neighbours needed safer places for celebrations and gatherings, and clubs used the coffeehouse for suppers and reunions ([Addams, ch. VII](https://standardebooks.org/ebooks/jane-addams/twenty-years-at-hull-house/text/chapter-7)).
 
 ## Stories
 
