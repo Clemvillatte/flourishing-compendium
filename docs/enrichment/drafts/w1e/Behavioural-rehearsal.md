@@ -1,4 +1,4 @@
-# Draft: Behavioural rehearsal / role-play (DBT, social skills training) — band w1e, pre-QC
+# Draft: Behavioural rehearsal / role-play (DBT, social skills training) — final (QC blocking fixes applied, published)
 
 Sources opened (3 external):
 1. Cowperthwait, Wyatt, Fang & Neacsiu 2018, "Skills Training in DBT: Principles and Practicalities," Oxford Handbook of DBT, pp. 167-200 — behavioral rehearsal improves likelihood and accuracy of skill application (role-plays, real situations in group, imaginal rehearsal; Cope Ahead); Linehan 1993 cited for rehearsal/reinforcement/feedback-coaching; four skill sets; evidence: Linehan 2015 review of 15 RCTs of skills groups; Neacsiu et al. 2014 skills group > activities-based support group on emotion dysregulation and anxiety, skills use as mediator.
@@ -11,29 +11,28 @@ Compendium principles read: BE021 (rehearse before performing; hard conversation
 
 ## Page body (for content/concepts/Behavioural rehearsal role-play (DBT, social skills training).md)
 
-Behavioural rehearsal and role-play are practice formats in skills-based psychotherapies: the client performs a target behaviour in a simulated situation before doing it in real life. In dialectical behaviour therapy (DBT), behavioral rehearsal is one of the procedures used to improve the likelihood and accuracy of skill application, through role-plays, practice in real situations in the group, or imaginal rehearsal ([Cowperthwait et al. 2018](https://academic.oup.com/edited-volume/38169/chapter/333009837)). Behavioral skills training in the autism literature defines the same package: instructions, modeling, rehearsal and feedback, used by a trainer in a role-play or simulation ([Miltenberger et al. 2017](https://link.springer.com/content/pdf/10.1007/978-3-319-62995-7_19.pdf)).
+Behavioural rehearsal means practising a target response before performing it in real life. In dialectical behaviour therapy (DBT), this can involve role-play, practice within the group, or imagined practice, and is used to improve the likelihood and accuracy of skill application ([Cowperthwait et al. 2018](https://academic.oup.com/edited-volume/38169/chapter/333009837)). In behavioural skills training, rehearsal is one component alongside instruction, modelling and feedback, used by a trainer in a role-play or simulation ([Miltenberger et al. 2017](https://link.springer.com/content/pdf/10.1007/978-3-319-62995-7_19.pdf)).
 
 ### What rehearsal looks like
 
-Linehan's teaching notes for the interpersonal-effectiveness module list the formats. Rapid rehearsal has each group member briefly rehearse a particular skill, at least once for each skill ([Linehan 2015 teaching notes](https://www.guilford.com/add/linehan7_old/lin-p-all-teaching.pdf?t=1)). In role playing with a leader, one participant rehearses a situation with the trainer, usually when homework review suggests trying a different response right away ([Linehan 2015 teaching notes](https://www.guilford.com/add/linehan7_old/lin-p-all-teaching.pdf?t=1)). Participants also role-play with each other, taking turns playing the person asking or refusing and the other person, which the notes say shows what it feels like when someone uses the skills on you ([Linehan 2015 teaching notes](https://www.guilford.com/add/linehan7_old/lin-p-all-teaching.pdf?t=1)). If a participant will not role-play, the situation becomes a story in dialogue rehearsal, or a mental rehearsal of a skillful response in covert rehearsal ([Linehan 2015 teaching notes](https://www.guilford.com/add/linehan7_old/lin-p-all-teaching.pdf?t=1)). The notes add: "Do not sacrifice rehearsal in order to present more material" ([Linehan 2015 teaching notes](https://www.guilford.com/add/linehan7_old/lin-p-all-teaching.pdf?t=1)).
+Rapid rehearsal has each group member briefly rehearse a particular skill, at least once for each skill ([Linehan 2015 teaching notes](https://www.guilford.com/add/linehan7_old/lin-p-all-teaching.pdf?t=1)). In role playing with a leader, one participant rehearses a situation with the trainer, usually when homework review suggests trying a different response right away ([Linehan 2015 teaching notes](https://www.guilford.com/add/linehan7_old/lin-p-all-teaching.pdf?t=1)). Participants also role-play with each other, taking turns playing the person asking or refusing and the other person, which the notes say gives an idea of what it feels like when someone uses the skills with them ([Linehan 2015 teaching notes](https://www.guilford.com/add/linehan7_old/lin-p-all-teaching.pdf?t=1)).
+
+If a participant declines role-play, the situation becomes a story in dialogue rehearsal, and if that is declined too, a covert rehearsal: role-playing the situation mentally and imagining a skillful response ([Linehan 2015 teaching notes](https://www.guilford.com/add/linehan7_old/lin-p-all-teaching.pdf?t=1)). The notes add: "Do not sacrifice rehearsal in order to present more material" ([Linehan 2015 teaching notes](https://www.guilford.com/add/linehan7_old/lin-p-all-teaching.pdf?t=1)).
 
 ### Evidence and limits
 
-Evidence for the surrounding packages is stronger than for rehearsal as an isolated component. DBT teaches four skill sets: core mindfulness, interpersonal effectiveness, emotion regulation and distress tolerance ([Cowperthwait et al. 2018](https://academic.oup.com/edited-volume/38169/chapter/333009837)). Linehan's 2015 manual reviewed 15 randomized controlled trials of DBT skills training groups, describing reductions in emotion-related dysfunction including depression, anger and emotion dysregulation ([Cowperthwait et al. 2018](https://academic.oup.com/edited-volume/38169/chapter/333009837)). In one transdiagnostic trial, a DBT skills group alone outperformed an activities-based support group on emotion dysregulation and anxiety, with skills use mediating the changes ([Cowperthwait et al. 2018](https://academic.oup.com/edited-volume/38169/chapter/333009837)). These trials test whole skills packages; they do not isolate rehearsal from instruction, coaching and homework.
+DBT teaches four skill sets: core mindfulness, interpersonal effectiveness, emotion regulation and distress tolerance ([Cowperthwait et al. 2018](https://academic.oup.com/edited-volume/38169/chapter/333009837)). According to Cowperthwait and colleagues, Linehan's 2015 manual reviewed 15 randomized controlled trials of DBT skills training groups, describing reductions in emotion-related dysfunction including depression, anger and emotion dysregulation ([Cowperthwait et al. 2018](https://academic.oup.com/edited-volume/38169/chapter/333009837)). The same chapter reports one transdiagnostic trial in which a DBT skills group alone outperformed an activities-based support group on emotion dysregulation and anxiety, with skills use statistically mediating the changes ([Cowperthwait et al. 2018](https://academic.oup.com/edited-volume/38169/chapter/333009837)). These trials evaluate DBT skills-training packages; they do not isolate rehearsal's contribution from instruction, coaching and homework.
 
 ### In the compendium
 
-BE021 "Learn to use behavioural rehearsal: practise before performing" carries the practice: rehearse the hard conversation or the assertive no where nothing is on the line. BE004 "Understand that behaviour is learned: skills can be acquired" supplies the premise that deficits are learnable rather than fixed. The philosophical parallels offer cousins in format: deliberation as a run-through of courses of action, and the Stoic rehearsal of difficulties ahead.
+BE021 "Learn to use behavioural rehearsal: practise before performing" carries the practice: rehearse the hard conversation or the assertive no where nothing is on the line. BE004 "Understand that behaviour is learned: skills can be acquired" supplies the premise that deficits are learnable rather than fixed.
 
 ## Related concepts
 
-- [[Modeling]] — Bandura's observational learning, the demonstration half of the rehearsal package
-- [[Social learning theory (Bandura)]] — the theory behind modeling-and-rehearsal training
-- [[Shaping (Skinner)]] — the sibling procedure: successive approximations instead of whole-scene rehearsal
-- [[Behavioral experiments in CBT]] — testing beliefs through action, the cognitive-therapy cousin
-- [[Graded exposure systematic desensitisation (Wolpe)]] — approaching feared situations in graded steps, the anxiety-side format
-- [[Deliberation as rehearsal]] — Dewey's deliberation as a private run-through of courses of action
-- [[The rehearsal of virtue]] — the Stoic practice of preparing for difficulties in advance
+- [[Modeling]] — demonstrating a target behaviour before the learner rehearses it
+- [[Shaping (Skinner)]] — the sibling procedure, building responses by successive approximations
+- [[Behavioral experiments in CBT]] — testing predictions through action, a different practice format
+- [[Graded exposure systematic desensitisation (Wolpe)]] — approaching feared situations in graded steps, a different practice format
 - [[Behavior analysis]] — the parent tradition supplying the reinforcement logic
 
 ## Sources

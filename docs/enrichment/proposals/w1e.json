@@ -134,6 +134,31 @@
    "into": "Behavioral activation",
    "link": "Behavioural chaining (applied behaviour analysis)",
    "why": "AF036 connects both through action-focused treatment"
+  },
+  {
+   "into": "Modeling",
+   "link": "Behavioural rehearsal / role-play (DBT, social skills training)",
+   "why": "demonstrating a target behaviour before the learner rehearses it"
+  },
+  {
+   "into": "Shaping (Skinner)",
+   "link": "Behavioural rehearsal / role-play (DBT, social skills training)",
+   "why": "the sibling procedure, building responses by successive approximations"
+  },
+  {
+   "into": "Behavioral experiments in CBT",
+   "link": "Behavioural rehearsal / role-play (DBT, social skills training)",
+   "why": "testing predictions through action, a different practice format"
+  },
+  {
+   "into": "Graded exposure systematic desensitisation (Wolpe)",
+   "link": "Behavioural rehearsal / role-play (DBT, social skills training)",
+   "why": "approaching feared situations in graded steps, a different practice format"
+  },
+  {
+   "into": "Behavior analysis",
+   "link": "Behavioural rehearsal / role-play (DBT, social skills training)",
+   "why": "rehearsal is an applied procedure of this tradition"
   }
  ],
  "inline": [],

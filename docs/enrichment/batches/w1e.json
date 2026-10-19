@@ -5,11 +5,14 @@
   "Body scan in MBSR (Kabat-Zinn)",
   "Avoidance versus attentional engagement",
   "Behavior analysis",
-  "Behavioural chaining (applied behaviour analysis)"
+  "Behavioural chaining (applied behaviour analysis)",
+  "Behavioural rehearsal / role-play (DBT, social skills training)"
  ],
- "in_progress": "Behavioural rehearsal / role-play (DBT, social skills training)",
- "flagged": {},
+ "in_progress": null,
+ "flagged": {
+  "Behavioural rehearsal / role-play (DBT, social skills training)": "seed citation 'Kelly, 2004' could not be identified; kept as original seed line, not consulted"
+ },
  "missing_concepts": [],
- "sources_checked": 18,
- "updated": "2026-10-19T08:08:16+00:00"
+ "sources_checked": 21,
+ "updated": "2026-10-19T08:11:07+00:00"
 }
