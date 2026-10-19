@@ -338,3 +338,10 @@ Advisor QC (2026-10-19): quotes verified (BQ1 ch. 22 sentence, BQ2 ch. 68 verse 
 - Plain words de-replicated (old one repeated the benefactor-loves-more claim and the no-ledger line); replaced with an activity-in-the-work explanation and the lending-vs-giving test. Body's vague "invested something of themselves" grounded in the opened handiwork account.
 - Inherited, NOT opened: Dunn/Aknin/Norton and Deci/Ryan psychology parallels, Mauss gift relationship, Dana parallel — flagged in state.
 - Validator: ok; protected fields untouched vs HEAD.
+
+## A080 — Choose activities for their completeness (done 2026-10-20 by worker-p1e-4f2c9b1d; no advisor QC per speed directive, item 9)
+
+- Opened: MIT Classics Ross NE Book X (https://classics.mit.edu/Aristotle/nicomachaen.10.x.html) — NEW SOURCE; verified verbatim: "Those activities are desirable in themselves from which nothing is sought beyond the activity. And of this nature virtuous actions are thought to be; for to do noble and good deeds is a thing desirable for its own sake." (X.6); "Pleasure completes the activity not as the corresponding permanent state does, by its immanence, but as an end which supervenes as the bloom of youth does on those in the flower of their age." (X.4); "we are injured rather than benefited by them, since we are led to neglect our bodies and our property" (X.6, amusements caveat). Chapter numbers confirmed against the page's chapter markers. Sources_checked +1 (28 -> 29).
+- Plain words de-replicated (old one repeated "chosen for their own sake" and "not a separate prize"); replaced with the two tests (what-is-it-for; where-the-pleasure-sits) plus the amusements caveat carried into plain words.
+- Inherited, NOT opened: Deci/Ryan, Csikszentmihalyi and Vallerand psychology parallels, Dewey and Flow parallels — flagged in state.
+- Validator: ok; protected fields untouched vs HEAD.
