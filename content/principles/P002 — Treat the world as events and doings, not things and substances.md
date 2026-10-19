@@ -12,13 +12,21 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 2** — Treat the world as events and doings, not things and substances
 
-A "thing" is a slow event: a relatively stable pattern in process. See the happening beneath the object: the marriage, not the certificate; the health, not the body.
+Whitehead's ontology in one line:
 
-(Whitehead, Process and Reality, 1929.)
+> "how an actual entity becomes constitutes what that actual entity is." (Whitehead, Process and Reality [1985: 23], [quoted in the SEP entry](https://plato.stanford.edu/entries/whitehead/))
 
-**Plain words** A 'thing' is just a slow event — a relatively stable pattern in process. See the happening beneath the object: the marriage, not the certificate; the health, not the body. The certificate is paper; the marriage is what happens at breakfast.
+Process philosophy takes the fundamental units of the world to be happenings rather than stuff: "actual entities are drops of experience, complex and interdependent" ([P&R 1985: 18, quoted in SEP](https://plato.stanford.edu/entries/whitehead/)), and each is what its becoming makes it. A "thing," on this view, is a name for a pattern that recurs slowly enough to seem permanent: the marriage, not the certificate; the health, not the body; the house, not the deed. Whitehead's named target was the abstraction habit, "the error of mistaking the abstract for the concrete" ([Science and the Modern World, 1925, p. 51, quoted in SEP](https://plato.stanford.edu/entries/whitehead/)): treating the noun as the reality and the doings as incidental. The correction changes what you attend to. A certificate can be framed; a marriage has to be maintained. The compendium's psychology parallel is [[Dynamic systems theory]].
+
+**Plain words**
+A thing is a slow event. The chair is wood fibres holding a shape this year; the friendship is a history of Tuesdays; your health is what your days are doing lately. Naming the pattern is useful, but the pattern is the happenings, and if the happenings stop, the thing stops. That is why a marriage cannot be stored in a certificate: the paper is a snapshot, and the marriage is the exposure.
 
 *For example:* The house isn't the deed — it's the repairs, the dinners, the arguments resolved, twenty years of small doings holding a shape.
+
+## Sources
+
+- [Whitehead, Process and Reality (1929), verbatim quotes with page references in the Stanford Encyclopedia of Philosophy entry on Whitehead](https://plato.stanford.edu/entries/whitehead/) — "how an actual entity becomes"; "drops of experience"; "the many become one"
+- [Whitehead, Science and the Modern World (1925), p. 51, quoted in the SEP entry](https://plato.stanford.edu/entries/whitehead/) — "the error of mistaking the abstract for the concrete"
 
 ## Stories
 
