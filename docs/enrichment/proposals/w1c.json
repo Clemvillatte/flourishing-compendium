@@ -4,11 +4,12 @@
   "Anger regulation research",
   "Cognitive flexibility",
   "Context-dependent behaviour (Wood & Neal)",
-  "Distributed cognition / extended mind"
+  "Distributed cognition / extended mind",
+  "Docta ignorantia"
  ],
  "flagged": {},
  "missing_concepts": [],
- "sources_checked": 21,
+ "sources_checked": 24,
  "inline": [
   {
    "into": "CO013",
@@ -181,6 +182,41 @@
    "into": "Ubuntu",
    "link": "Distributed cognition / extended mind",
    "why": "the boundary-of-the-self question raised for personhood through relation"
+  },
+  {
+   "into": "Socratic ignorance",
+   "link": "Docta ignorantia",
+   "why": "the Renaissance Christian reception that named the state a form of knowledge"
+  },
+  {
+   "into": "Aporia",
+   "link": "Docta ignorantia",
+   "why": "the medieval doctrine that made the impasse itself a discipline"
+  },
+  {
+   "into": "Via negativa",
+   "link": "Docta ignorantia",
+   "why": "the coincidence of opposites as a limit of negation"
+  },
+  {
+   "into": "Kenosis",
+   "link": "Docta ignorantia",
+   "why": "the unknowing that knows itself, in the Christian key"
+  },
+  {
+   "into": "The great doubt",
+   "link": "Docta ignorantia",
+   "why": "the rest-in-not-knowing doctrine, for comparison with the Zen engine"
+  },
+  {
+   "into": "Beginner's mind",
+   "link": "Docta ignorantia",
+   "why": "not-already-knowing as a practice shape, for comparison"
+  },
+  {
+   "into": "Epistemic humility",
+   "link": "Docta ignorantia",
+   "why": "the premodern ancestor of humility about one's own knowledge"
   }
  ],
  "notes": "First concept: Amor sui (right self-love). All 12 original links preserved. Facets section (vs self-contempt) folded into prose. Definition quote is Ethics IIIp55 scholium (verified against Gutenberg Elwes text); rational demand is IVp18 scholium. Related-clause support sources (SEP Rousseau/Nietzsche/Stoicism, Wikipedia self-compassion) listed in the page's Sources section. | deferred at this run (target band busy): 6 recip, 0 inline"
