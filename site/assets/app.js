@@ -1359,6 +1359,10 @@ if (listEl) listEl.addEventListener('click', function () {
 
 function openFromList(e) {
   state.sel = e;
+  // keep the cursor in sync with what's open, so the ◀ ▶ buttons (and ↑/↓)
+  // step from THIS entry — not from wherever the cursor last was
+  const at = state.visible.findIndex(x => x.id === e.id);
+  if (at >= 0) state.cursor = at;
   renderEntry(e);
   markActive();
 }
