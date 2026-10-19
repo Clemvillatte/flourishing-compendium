@@ -12,13 +12,16 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 9** — Trust emptiness: space is what works
 
-The hub of the wheel, the hollow of the vessel, the doorway, the room: function lives in the empty. Create space — in your calendar, home, mind — instead of adding more.
+Chapter 11 of the Daodejing makes its argument with three objects: a wheel, a clay vessel, a room. In each case the use depends on the empty part: the space for the axle, the hollow that holds, the space within the walls. The chapter's conclusion: "what has a (positive) existence serves for profitable adaptation, and what has not that for (actual) usefulness." The solid parts are the supports; the working part is what they enclose.
 
-(DDJ 11.)
+> "The thirty spokes unite in the one nave; but it is on the empty space (for the axle), that the use of the wheel depends. Clay is fashioned into vessels; but it is on their empty hollowness, that their use depends. The door and windows are cut out (from the walls) to form an apartment; but it is on the empty space (within), that its use depends." (Daodejing 11, [Legge](https://www.gutenberg.org/ebooks/216))
 
-**Plain words** The hub of the wheel, the hollow of the cup, the doorway, the room: the useful part is the empty part. This is an argument for space — in your calendar, your home, your head. Stop adding and start leaving room for things to work.
+The compendium applies the image to a calendar, a home and a mind: a schedule with no gaps has no slot for what turns up, however well made its bookings.
 
-*For example:* The calendar booked wall-to-wall has no slot for the opportunity that shows up at 2pm; the one with gaps catches it.
+**Plain words**
+A cup holds water because it is mostly hole. A week works the same way: every booking fills space the rest of the day might have used. The empty part is where the use happens. If you want a week that can hold what turns up, keep some of it unfilled.
+
+*For example:* Suppose a calendar booked wall to wall. As a modern application, leave one afternoon a week unplanned and see what it catches.
 
 ## Stories
 
