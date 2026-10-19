@@ -14,7 +14,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 
 Before any technique, any insight: reduce the harm your existence causes — to others, to yourself, to what lives.
 
-The Dhammapada's reasoning is substitution rather than rule. It asks you to notice what every living thing has in common — it trembles at violence, it holds its life dear — and to act from that:
+The Dhammapada's reasoning is substitution rather than rule. It asks you to notice what every living thing has in common (it trembles at violence, it holds its life dear) and to act from that:
 
 > "129. All tremble at violence; all fear death. Putting oneself in the place of another, one should not kill nor cause another to kill.
 >
