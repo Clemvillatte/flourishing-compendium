@@ -12,11 +12,12 @@
   "Emotion regulation",
   "Growth through practice",
   "Independent vs interdependent self-construal (Markus & Kitayama)",
-  "Moral situation research"
+  "Moral situation research",
+  "PEN Model"
  ],
  "flagged": {},
  "missing_concepts": [],
- "sources_checked": 38,
+ "sources_checked": 41,
  "inline": [],
  "reciprocal": [
   {
@@ -363,6 +364,36 @@
    "into": "Character strengths (Peterson & Seligman)",
    "link": "Moral situation research",
    "why": "the situationist debate the strengths revival enters"
+  },
+  {
+   "into": "Cybernetic Big Five Theory",
+   "link": "PEN Model",
+   "why": "the three-factor biological model the Big Five absorbed"
+  },
+  {
+   "into": "Cloninger's Psychobiological Model of Temperament and Character",
+   "link": "PEN Model",
+   "why": "the Eysenck alternative in biologically based personality"
+  },
+  {
+   "into": "Temperament-environment fit",
+   "link": "PEN Model",
+   "why": "the superfactors that raise the fit question"
+  },
+  {
+   "into": "Arousal regulation",
+   "link": "PEN Model",
+   "why": "the model that made arousal the mechanism of temperament"
+  },
+  {
+   "into": "Arousal reinterpretation",
+   "link": "PEN Model",
+   "why": "the arousal systems this reinterpretation works on"
+  },
+  {
+   "into": "Trait Activation Theory",
+   "link": "PEN Model",
+   "why": "the trait dimensions that situations activate"
   }
  ],
  "notes": "First concept: Amor sui (right self-love). All 12 original links preserved. Facets section (vs self-contempt) folded into prose. Definition quote is Ethics IIIp55 scholium (verified against Gutenberg Elwes text); rational demand is IVp18 scholium. Related-clause support sources (SEP Rousseau/Nietzsche/Stoicism, Wikipedia self-compassion) listed in the page's Sources section. | deferred at this run (target band busy): 6 recip, 0 inline | deferred at this run (target band busy): 21 recip, 0 inline"

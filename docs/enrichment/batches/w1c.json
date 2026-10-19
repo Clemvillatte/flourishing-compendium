@@ -13,13 +13,15 @@
   "Emotion regulation",
   "Growth through practice",
   "Independent vs interdependent self-construal (Markus & Kitayama)",
-  "Moral situation research"
+  "Moral situation research",
+  "PEN Model"
  ],
- "in_progress": "PEN Model",
+ "in_progress": null,
  "flagged": {
-  "ERG Theory": "cited-in list (270+ Daoist principles) appears to be an auto-generated mapping; no principle text references ERG directly"
+  "ERG Theory": "cited-in list (270+ Daoist principles) appears to be an auto-generated mapping; no principle text references ERG directly",
+  "PEN Model": "cited-in list (614+ Daoist principles) appears to be an auto-generated mapping; no principle text references the PEN model directly"
  },
  "missing_concepts": [],
  "sources_checked": 19,
- "updated": "2026-10-19T08:08:04+00:00"
+ "updated": "2026-10-19T08:08:43+00:00"
 }
