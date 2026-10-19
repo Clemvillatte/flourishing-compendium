@@ -1,7 +1,6 @@
 {
  "batch": "p1d",
  "done": [
-  "CO072",
   "D017",
   "D095",
   "D133",
@@ -37,13 +36,14 @@
   "A017",
   "A043",
   "A049",
-  "A077"
+  "A077",
+  "BI012"
  ],
- "in_progress": "BI012",
+ "in_progress": "CO072",
  "flagged": {
   "D017": "QC note: inherited scab example kept per protocol; advisor calls it a medical claim needing a source; supervisor to arbitrate",
-  "BI012": "Supervisor repair written and structurally validated; independent evidence QC pending",
-  "CO072": "QC round 3: Mrazek 2013 RCT added as direct cognitive-training evidence; difficult-page efficacy claim removed; feeds example still flagged for supervisor",
+  "BI012": "Supervisor repair independently PASS: Carter exact; Bode association limits; NHS assessment advice; causal anecdote and medical-first rule removed (2026-10-19)",
+  "CO072": "Supervisor repair written and structurally validated; advisor review pending. Protected title still overstates opened evidence.",
   "D095": "QC round 3: plain words now faithful explanation + separate application; It=vital essence verified from opened excerpt",
   "D133": "QC round 5: grip-mechanism replaced with application question; example remains supervisor-flagged",
   "E014": "QC round 5: exclusive retraining claim removed; feeds example remains supervisor-flagged",
@@ -57,6 +57,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 26,
- "updated": "2026-10-19T12:50:40+00:00",
+ "updated": "2026-10-19T12:53:06+00:00",
  "band_done": false
 }

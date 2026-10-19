@@ -78,19 +78,34 @@ upload to Drive when a quote is needed from one of these):
   Objective Knowledge; Bergson, Oeuvres complètes; the owner's own Principles of Genuine
   Flourishing I-IV and Stories of Genuine Flourishing III.
 
-Acquisition request recorded by the predecessor (2026-10-19): The Essential Peirce vols 1-2
-(Indiana UP). This is a request/recommendation, NOT evidence of a completed purchase or
-delivery. The owner permits requesting books outside this list when agents need them;
-record the exact title, edition, needed passage, and failed lawful access routes. Any paid
+PEIRCE GAP CLOSED (owner upload, 2026-10-19): The Essential Peirce vols 1-2 are now available
+in the owner's [Peirce folder](https://drive.google.com/drive/folders/18bArwy3oHbqYrYisS2mNJUCGx7CC2Lvf?usp=sharing).
+The supervisor downloaded both files, checked title/copyright pages, and confirmed readable
+PDF text / EPUB XHTML. This verifies access and edition identity, not every chapter or quote.
+No purchase was made by the supervisor; do not buy duplicate copies.
+
+- Volume 1, 1867–1893, edited by Nathan Houser and Christian Kloesel; Indiana UP, 1992.
+  [Owner PDF](https://drive.google.com/uc?export=download&id=1L3jvBMstbqfeNxOVCmm-z1ZRB56qw7ko),
+  443 PDF pages. Printed locators differ from PDF page numbers: record both when useful.
+- Volume 2, 1893–1913, edited by the Peirce Edition Project; Indiana UP, 1998.
+  [Owner EPUB](https://drive.google.com/uc?export=download&id=1OCG38zO3_D2mbBIxT-rdfRyWkPPAJ8xF),
+  electronic ISBN 9780253007810. Cite essay/section and print-page anchors when present,
+  not device-dependent EPUB screen numbers.
+
+Public `fetch_url` can list this folder but its download crawler returned a robots error.
+The public download endpoints above worked with `curl -fL --max-time 60`; no login was
+needed in this session. Save outside the repository, extract PDF with `pdftotext`, and read
+EPUB with Python's standard-library `zipfile` and XML parser. Do not commit book binaries or
+full extracted books. If access later fails, record the failure rather than quote unseen text.
+
+Use an actually opened Peirce passage with its locator. James and Dewey may support a labelled
+comparison; their agreement does not verify a quotation or claim attributed to Peirce.
+The owner permits requesting books outside the catalogue when a real evidence gap requires
+them; record exact title, edition, needed passage and failed lawful access routes. Any paid
 checkout needs approval of the actual vendor, items and total before payment.
 
-Until a Peirce edition is available, use an actually opened Peirce text or clearly identified
-scholarly quotation with its locator. James and Dewey may support a labelled comparison;
-their agreement does not verify a quotation or claim attributed to Peirce.
-
-The request was delivered to the owner in the resumed session. See
-`docs/enrichment/BOOK-REQUESTS.md` for verified editions/ISBNs and priority uploads from the
-newly attached All-Books.pdf. No purchase is confirmed.
+See `docs/enrichment/BOOK-REQUESTS.md` for the fulfilled Peirce request and other priority
+uploads found in the newly attached All-Books.pdf.
 
 Supervisors: when an agent identifies what a specific Drive file contains (which work, which
 translation), record it here so the map builds up over time.

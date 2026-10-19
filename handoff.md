@@ -25,9 +25,11 @@
   clinical-priority advice, thyroid motivation anecdote, general-endurance inference and
   social-media detraining story. See OWNER-UPDATE's "Supervisor re-verification" and TASKBOARD.
   D133 now says `his grasp`; full quotation not independently re-certified in this session.
-- BOOK REQUEST DELIVERED: predecessor's request is The Essential Peirce volumes 1 and 2,
-  not a confirmed purchase. `docs/enrichment/BOOK-REQUESTS.md` records checked ISBNs and
-  asks for uploads of existing Ziporyn/Roth/Dewey/James holdings instead of duplicate buying.
+- PEIRCE REQUEST FULFILLED: the owner supplied The Essential Peirce volumes 1 and 2 in a
+  new Drive folder. Both downloaded successfully; title/copyright pages and extractable text
+  checked. See PRIMARY-SOURCES for public file URLs and reproducible access instructions.
+  No duplicate purchase is needed. `docs/enrichment/BOOK-REQUESTS.md` records the fulfilled
+  request and optional uploads of existing Ziporyn/Roth/Dewey/James holdings.
 - NEXT SUPERVISOR ACTIONS: push shared-rule/reserve updates; pull and validate newly done
   content against an explicit baseline, sample sources, track p1d repair acknowledgment,
   then review protected pending proposals. Do not silently integrate unreviewed recovery.
