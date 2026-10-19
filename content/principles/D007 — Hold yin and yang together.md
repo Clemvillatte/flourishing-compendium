@@ -12,13 +12,19 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 7** — Hold yin and yang together
 
-Reality runs on paired opposites that complete each other: active/receptive, day/night, effort/rest. Refuse one pole and you break the whole; honor both in yourself, your work, and your relationships.
+Daodejing 42 opens with a production chain: "The Tao produced One; One produced Two; Two produced Three; Three produced All things." It then describes what the things of that chain do:
 
-(DDJ 42.)
+> "All things leave behind them the Obscurity (out of which they have come), and go forward to embrace the Brightness (into which they have emerged), while they are harmonised by the Breath of Vacancy." (Daodejing 42, [Legge](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 
-**Plain words** Reality runs on paired opposites that need each other: effort and rest, giving and receiving, speaking and listening. Refuse one pole and you break the whole mechanism. The mistake isn't having tension in your life — it's trying to live on only one side of it.
+The chapter adds an observation about reversal: "So it is that some things are increased by being diminished, and others are diminished by being increased." (DDJ 42.) The compendium reads these lines together as a prompt about attention: when a choice runs on one side of a pair only, effort without rest, speaking without listening, the harmony line asks whether the other side has any place in the decision.
 
-*For example:* Athletes who train hard but refuse rest days get slower; the recovery is literally where the growth happens.
+**Plain words** If you usually take the speaking part, leave room for a reply. If you usually listen, ask for a turn to explain yourself. The principle is a habit of checking that both sides of a pair have a place, in whatever measure the situation calls for.
+
+*For example:* In a discussion about a shared budget, explain the expense you want to keep, then ask which expense matters most to the other person, and weigh both before deciding what to cut.
+
+## Sources
+
+- [The Tao Teh King, James Legge translation, Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt) — ch. 42
 
 ## Stories
 
