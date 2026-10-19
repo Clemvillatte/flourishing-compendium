@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 10** — See emptiness: nothing has a fixed essence (shunyata)
 
-Nāgārjuna links emptiness with dependent arising and dependent designation: things lack an independent nature that would make them what they are entirely from their own side. In Garfield's reading, this allows ordinary existence and functioning; emptiness does not mean that nothing exists (Mūlamadhyamakakārikā, XXIV.18-19, translation and commentary, pp. 304-308, [text](https://pages.uoregon.edu/munno/OregonCourses/REL4400002/nagarjuna_middleway24.pdf)).
+Nāgārjuna links emptiness with dependent arising and dependent designation: things lack an independent nature that would make them what they are entirely from their own side. In Garfield's reading, this allows ordinary existence and functioning; emptiness does not mean that nothing exists (Mūlamadhyamakakārikā, XXIV.18-19, translation and commentary, pp. 298, 304-308, [text](https://pages.uoregon.edu/munno/OregonCourses/REL4400002/nagarjuna_middleway24.pdf)).
 
 > "Whatever is dependently co-arisen / That is explained to be emptiness. / That, being a dependent designation, / Is itself the middle way." (Nāgārjuna, MMK XXIV.18, trans. Jay L. Garfield, p. 304; slashes mark verse breaks, [text](https://pages.uoregon.edu/munno/OregonCourses/REL4400002/nagarjuna_middleway24.pdf))
 

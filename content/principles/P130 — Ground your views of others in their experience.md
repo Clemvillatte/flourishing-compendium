@@ -16,7 +16,7 @@ Addams asks settlement residents to combine careful fact-gathering with sympathy
 
 > "They must be content to live quietly side by side with their neighbors, until they grow into a sense of relationship and mutual interests." (Addams, Twenty Years at Hull-House, [Oxford excerpt](https://learninglink.oup.com/access/content/schaller-3e-dashboard-resources/document-excerpt-from-jane-addams-twenty-years-at-hull-house-1910))
 
-Her account also requires residents to understand the neighbourhood's needs and provide information for legislation. Listening belongs to a continuing civic responsibility, rather than ending with an outsider's impression of a visit (Twenty Years at Hull-House, [Oxford excerpt](https://learninglink.oup.com/access/content/schaller-3e-dashboard-resources/document-excerpt-from-jane-addams-twenty-years-at-hull-house-1910)).
+Her account also requires residents to understand the neighbourhood's needs and provide information for legislation (Twenty Years at Hull-House, [Oxford excerpt](https://learninglink.oup.com/access/content/schaller-3e-dashboard-resources/document-excerpt-from-jane-addams-twenty-years-at-hull-house-1910)). The compendium reads this as making listening part of a continuing civic responsibility, beyond an outsider's impression of a visit.
 
 ### Plain words
 
@@ -32,7 +32,7 @@ Imagine a volunteer assuming that missed appointments show a lack of commitment.
 
 ## Psychology parallels
 
-- **[[Intergroup contact|Intergroup contact]]**: a meta-analysis of 515 studies found that contact typically reduces prejudice, with larger reductions under a supportive bundle of conditions; this does not guarantee a beneficial outcome from every encounter ([Pettigrew and Tropp, 2006, abstract](https://pubmed.ncbi.nlm.nih.gov/16737372/)).
+- **[[Intergroup contact|Intergroup contact]]**: a meta-analysis of 515 studies found that contact typically reduces prejudice, with larger reductions under Allport's optimal contact conditions, which work as an interrelated bundle; this does not guarantee a beneficial outcome from every encounter ([Pettigrew and Tropp, 2006, abstract, discussing Allport, 1954](https://pubmed.ncbi.nlm.nih.gov/16737372/)).
 
 ## Philosophy parallels
 
