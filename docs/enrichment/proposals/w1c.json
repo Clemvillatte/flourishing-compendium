@@ -7,11 +7,12 @@
   "Distributed cognition / extended mind",
   "Docta ignorantia",
   "ERG Theory",
-  "Effortless action through long effort"
+  "Effortless action through long effort",
+  "Embodied cognition"
  ],
  "flagged": {},
  "missing_concepts": [],
- "sources_checked": 28,
+ "sources_checked": 32,
  "inline": [],
  "reciprocal": [
   {
@@ -188,6 +189,36 @@
    "into": "Character as habits",
    "link": "Effortless action through long effort",
    "why": "second nature at the level of character, per Cook Ding"
+  },
+  {
+   "into": "Enactivism",
+   "link": "Embodied cognition",
+   "why": "the umbrella programme this strand belongs to"
+  },
+  {
+   "into": "Conceptual metaphor theory Lakoff Johnson",
+   "link": "Embodied cognition",
+   "why": "the research programme behind the metaphor theory"
+  },
+  {
+   "into": "Affordances",
+   "link": "Embodied cognition",
+   "why": "the programme that Gibson's affordances feed into"
+  },
+  {
+   "into": "Situated cognition theory",
+   "link": "Embodied cognition",
+   "why": "the sibling view; the body side of context-shaped cognition"
+  },
+  {
+   "into": "Distributed cognition / extended mind",
+   "link": "Embodied cognition",
+   "why": "the body-side version of the same anti-Cartesian programme"
+  },
+  {
+   "into": "Body scan in MBSR (Kabat-Zinn)",
+   "link": "Embodied cognition",
+   "why": "the research programme behind body-first attention practices"
   }
  ],
  "notes": "First concept: Amor sui (right self-love). All 12 original links preserved. Facets section (vs self-contempt) folded into prose. Definition quote is Ethics IIIp55 scholium (verified against Gutenberg Elwes text); rational demand is IVp18 scholium. Related-clause support sources (SEP Rousseau/Nietzsche/Stoicism, Wikipedia self-compassion) listed in the page's Sources section. | deferred at this run (target band busy): 6 recip, 0 inline | deferred at this run (target band busy): 21 recip, 0 inline"

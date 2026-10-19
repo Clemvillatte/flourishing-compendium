@@ -8,13 +8,14 @@
   "Distributed cognition / extended mind",
   "Docta ignorantia",
   "ERG Theory",
-  "Effortless action through long effort"
+  "Effortless action through long effort",
+  "Embodied cognition"
  ],
- "in_progress": "Embodied cognition",
+ "in_progress": null,
  "flagged": {
   "ERG Theory": "cited-in list (270+ Daoist principles) appears to be an auto-generated mapping; no principle text references ERG directly"
  },
  "missing_concepts": [],
  "sources_checked": 19,
- "updated": "2026-10-19T08:01:21+00:00"
+ "updated": "2026-10-19T08:02:47+00:00"
 }
