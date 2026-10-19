@@ -12,13 +12,16 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 53** — Practice sympathetic joy (mudita)
 
-Rejoice in others' happiness without envy: let their good fortune be your good fortune. This is the antidote to jealousy.
+Rejoice in others' happiness without envy: let their good fortune be your good fortune. The discourses give mudita as one of four immeasurable states, with a directional formula for its practice:
 
-(Brahmavihara tradition; Dhammapada.)
+> "Here, monks, a disciple dwells pervading one direction with his heart filled with sympathetic joy, likewise the second, the third and the fourth direction; so above, below and around; he dwells pervading the entire world everywhere and equally with his heart filled with sympathetic joy, abundant, grown great, measureless, free from enmity and free from distress."
+> (Basic passage on the Four Sublime States, [Nyanaponika Thera, Access to Insight](https://accesstoinsight.org/lib/authors/nyanaponika/wheel006.html))
 
-**Plain words** Rejoice in others' happiness without envy — let their good fortune be your good fortune. Mudita is the antidote to jealousy, and it's trainable. The friend's promotion can be a wound or a celebration; same news, two lives.
+The formula has the same shape for goodwill, compassion and equanimity; what changes is the filling of the heart. The practice aims attention at another's good fortune and takes the joy there instead of at the comparison. This is the antidote to jealousy. (Brahmavihara tradition; Dhammapada.)
 
-*For example:* Genuinely cheering when the colleague gets the role you wanted — the alternative was being poisoned at no charge to them.
+**Plain words** The formula is a practice, not a mood to wait for: pervade direction after direction with a heart filled with sympathetic joy. Start with one person whose happiness costs you nothing to enjoy, then a person whose happiness stings. The friend's promotion can be a wound or a celebration; same news, two lives.
+
+*For example:* The colleague gets the role you wanted. You can say congratulations and mean it; the envy version of the same moment poisons you, not them.
 
 ## Psychology parallels
 
