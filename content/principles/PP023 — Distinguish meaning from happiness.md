@@ -12,13 +12,25 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 ---
 > **Principle 23** — Distinguish meaning from happiness
 
-Meaning and happiness are correlated but distinct. Meaning often involves experiences that are not pleasant: sacrifice, struggle, confrontation with difficulty. Happiness, pursued as a primary goal, can undermine meaning. The practical implication is that a life oriented only toward positive affect may be shallow, while a life oriented toward meaning may involve difficult experiences that are nevertheless worth having.
+Baumeister, Vohs, Aaker and Garbinsky (2013) ran a series of online surveys over a month, with some 400 responses ([Stanford GSB summary](https://www.gsb.stanford.edu/insights/frank-flynn-what-makes-happy-vs-meaningful-life)), and asked what predicts happiness once meaning is held constant, and the reverse. [Their abstract](https://www.tandfonline.com/doi/abs/10.1080/17439760.2013.830764) opens: "Being happy and finding life meaningful overlap, but there are important differences."
 
-(Baumeister et al., 2013; King and Hicks, 2021.)
+### What differed
 
-**Plain words** Meaning and happiness overlap but differ. Meaning often involves things that aren't pleasant: sacrifice, struggle, hard truths. Chasing happiness directly can undermine meaning. A life aimed only at feeling good may be thin, while a life of meaning may carry real cost.
+- Needs and wants: "Satisfying one's needs and wants increased happiness but was largely irrelevant to meaningfulness."
+- Time: "Happiness was largely present oriented, whereas meaningfulness involves integrating past, present, and future."
+- Giving and taking: "Happiness was linked to being a taker rather than a giver, whereas meaningfulness went with being a giver rather than a taker."
+- Difficulty: "Higher levels of worry, stress, and anxiety were linked to higher meaningfulness but lower happiness."
+- Self: "Concerns with personal identity and expressing the self contributed to meaning but not happiness."
 
-*For example:* Caring for a dying parent isn't happy, but many people count it among the most meaningful things they've done.
+### Limits
+
+This is a correlational survey, so it shows which things travel with meaning and with happiness, not which cause which. The authors' own summary is that meaningful involvements "increase one's stress, worries, arguments, and anxiety, which reduce happiness". It does not show that pursuing happiness directly undermines meaning. That part of the principle is the compendium's claim, as is the contrast between a "shallow" and a worthwhile life.
+
+(Baumeister et al., 2013. King and Hicks, 2021, is cited by the principle but I have not opened it.)
+
+**Plain words** In this survey, the people whose lives felt meaningful were not always the ones whose lives felt good. Getting what you want made people happier but did little for meaning. Looking beyond the present, helping others, and taking on stressful, self-expressing projects went with meaning, sometimes at a cost to happiness.
+
+*For example:* Imagine caring for a parent in the last months of their life. It may be exhausting and sad. The study's pattern predicts it could still rank high on meaning, since it involves giving, and the past and future, and a part of your identity.
 
 ## Stories
 
