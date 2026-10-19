@@ -12,13 +12,23 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 106** — Recognise that virtue is taught through habituation
 
-Virtue is not innate; it is cultivated through education and habituation. Law and education shape character from the outside in. Support educational practices that cultivate virtue, not merely skills. In your own life, treat education as character formation, not information transfer.
+Aristotle's argument in Book II, verbatim:
+
+> "Neither by nature, then, nor contrary to nature do the virtues arise in us; rather we are adapted by nature to receive them, and are made perfect by habit." (NE II.1, [Ross, MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html))
+
+The mechanism is the one the crafts use: "For the things we have to learn before we can do them, we learn by doing them, e.g. men become builders by building and lyreplayers by playing the lyre; so too we become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts" (NE II.1). He immediately extends it to institutions: "legislators make the citizens good by forming habits in them, and this is the wish of every legislator, and those who do not effect it miss their mark" (NE II.1). Character is built the way skill is built, and law and education are the large-scale versions of the practice.
+
+In your own life, treat education as character formation rather than information transfer: choose practices, not only readings, and support teaching that makes students practise fairness rather than only hear about it.
 
 (NE I.9, II.1, X.9; Politics VIII.1.)
 
-**Plain words** Virtue isn't inborn. It's grown through education and habit. So treat education as shaping character, not just handing over information. Support teaching that builds good people, not only skilled ones.
+**Plain words** Nobody becomes patient by being told what patience is. Aristotle's claim is that virtue works like a craft: the doing comes first, and the disposition is what the doing leaves behind. So the test of an education is what the students repeatedly do, not what they can recite. If you want a trait, schedule the acts that require it.
 
 *For example:* A teacher who makes students practise fair debate, taking turns and admitting errors, is teaching more than the topic.
+
+## Sources
+
+- [Aristotle, Nicomachean Ethics II, Ross translation (MIT Classics)](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html) — II.1, virtue made perfect by habit, learning by doing, the legislator's habits
 
 ## Stories
 
