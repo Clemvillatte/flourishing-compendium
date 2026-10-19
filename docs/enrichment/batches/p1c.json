@@ -65,7 +65,8 @@
   "CO001",
   "CO081",
   "R060",
-  "R077"
+  "R077",
+  "A006"
  ],
  "in_progress": null,
  "flagged": {
@@ -94,6 +95,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 18,
- "updated": "2026-10-19T14:10:51+00:00",
+ "updated": "2026-10-19T14:11:46+00:00",
  "band_done": false
 }
