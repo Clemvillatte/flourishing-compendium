@@ -205,3 +205,23 @@ copied from the opened URL in this session.
 - Saturation: Cognitive defusion concept already cites B127 (twice); no new proposals.
 - Inherited-not-reverified: Hayes et al. 2011 defusion claim and the Wittgenstein
   Tractatus 6.54 note in the link sections (untouched).
+
+## BI013 — Prioritise sleep as the foundation of mental health
+
+- Opened: https://pmc.ncbi.nlm.nih.gov/articles/PMC4286245/ (Goldstein & Walker 2014,
+  Annu Rev Clin Psychol; the amygdala/60%/mPFC-connectivity sentences fetched verbatim)
+  and https://pubmed.ncbi.nlm.nih.gov/17162986/ (Morin et al. 2006, Sleep; abstract
+  fetched verbatim). Yoo et al. 2007 (Curr Biol, PMID 17956744) PubMed record also
+  opened (abstract not extractable); the 60% figure is reported via the Goldstein &
+  Walker review.
+- QC: advisor round 1 flagged (a) a non-verbatim blockquote (omitted "(Figure 1a&b)",
+  truncated second sentence) — replaced with the complete Morin sentence; (b)
+  over-interpretation of connectivity as "loss of control" — narrowed to the measured
+  finding; (c) unsupported priority rule in the example — replaced with the advisor's
+  observation-exercise text; (d) the unverified ## Practice advice (7-9 hours etc.) —
+  removed (no wikilinks lost; no opened guideline verified it). Validated vs pre-item
+  baseline 34aad55.
+- Saturation: Sabbath, Yangsheng and Care edges already exist via the philosophy
+  parallels wikilinks (undirected graph); Yangsheng also cites BI013; no new proposals.
+- Inherited-not-reverified: Walker 2017, Alhola & Polo-Kantola 2007 and Yoo et al. 2007
+  claims in the psychology-parallels link section (untouched).
