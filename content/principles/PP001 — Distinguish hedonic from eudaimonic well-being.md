@@ -16,9 +16,26 @@ Hedonic well-being is the presence of positive affect and the absence of negativ
 
 (Ryff, 1989; Deci and Ryan, 2000.)
 
-**Plain words** There are two broad ways of doing well. One is feeling good: pleasure, satisfaction, few bad moods. The other is a life with meaning, purpose and growth. They overlap, but they're not the same, and a life can be full of the first and thin on the second.
+### Two research programs
+
+Ryan and Deci's map of the field:
+
+> "Current research on well-being has been derived from two general perspectives: the hedonic approach, which focuses on happiness and defines well-being in terms of pleasure attainment and pain avoidance; and the eudaimonic approach, which focuses on meaning and self-realization and defines well-being in terms of the degree to which a person is fully functioning." (Ryan & Deci, 2001, [selfdeterminationtheory.org](https://selfdeterminationtheory.org/wp-content/uploads/2021/05/2001_RyanDeci_Happiness.pdf))
+
+The second view is the older one: "The first of these can be broadly labeled hedonism... and reflects the view that well-being consists of pleasure or happiness. The second view, both as ancient and as current as the hedonic view, is that well-being consists of more than just happiness. It lies instead in the actualization of human potentials. This view has been called eudaimonism (Waterman 1993), conveying the belief that well-being consists of fulfilling or realizing one's daimon or true nature" (Ryan & Deci, 2001).
+
+Ryff's measurement work found the gap in the data:
+
+> "Results revealed that positive relations with others, autonomy, purpose in life, and personal growth were not strongly tied to prior assessment indexes, thereby supporting the claim that key aspects of positive functioning have not been represented in the empirical arena." (Ryff, 1989, [Journal of Personality and Social Psychology PDF](https://thefpr.org/wp-content/uploads/Ryff1989_happiness.pdf))
+
+**Plain words** The two literatures answer different questions. Hedonic research asks how experience feels and counts pleasures against pains; eudaimonic research asks what a person is doing with their life and whether it adds up to functioning. A person can score well on one and poorly on the other, which is why the pleasant-but-empty life is a real empirical pattern rather than a moralist's invention. Ryff's finding that four of her six dimensions were untouched by the older scales is the measurable trace of that gap.
 
 *For example:* A well-paid job with great holidays can be pleasant for years, and still leave you wondering what any of it is for.
+
+## Sources
+
+- [Ryan & Deci, On Happiness and Human Potentials (2001), PDF](https://selfdeterminationtheory.org/wp-content/uploads/2021/05/2001_RyanDeci_Happiness.pdf): hedonic and eudaimonic approaches defined
+- [Ryff, Happiness Is Everything, or Is It? (1989), PDF](https://thefpr.org/wp-content/uploads/Ryff1989_happiness.pdf): six dimensions and prior assessment indexes
 
 ## Stories
 
