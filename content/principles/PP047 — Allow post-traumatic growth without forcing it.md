@@ -12,13 +12,20 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 ---
 > **Principle 47** — Allow post-traumatic growth without forcing it
 
-Post-traumatic growth, the experience of positive change following adversity, is real but not universal. It occurs in a significant minority of people who experience trauma. It is not something to be imposed on those who are suffering. The growth, when it occurs, is in the domains of relationships, life appreciation, personal strength, new possibilities, and spiritual change.
+Tedeschi's summary: "We ultimately coined the term 'post-traumatic growth' as a descriptor of these experiences." The research identified five domains where the changes are reported.
 
-(Tedeschi and Calhoun, 2004; Jayawickreme and Blackie, 2014.)
+> "In subsequent qualitative and quantitative research, we were able to identify five domains of post-traumatic growth: improved relationships with others, new possibilities for the life path, a greater appreciation for life, a greater sense of personal strength, and new perspectives on spiritual and existential issues." (Tedeschi 2023, [World Psychiatry](https://onlinelibrary.wiley.com/doi/full/10.1002/wps.21093))
 
-**Plain words** After trauma some people find real positive change: closer relationships, more appreciation of life, new strength. It's genuine, but it's not universal and it must never be forced on anyone. The point is to leave room for it, not to demand it.
+The compendium treats reported positive changes as possibilities, not obligations. Its practical stance is to leave room for growth without requiring a person to find benefits in suffering.
 
-*For example:* After a serious illness a person rebuilds their life around what they now know matters.
+**Plain words**
+Some people report positive changes after trauma. You do not have to find a benefit or turn suffering into a lesson. Leave room for change without requiring a silver lining.
+
+*For example:* Suppose a person rebuilding after a serious illness. As a modern application, the room-to-move version is asking whether their sense of what matters has changed, allowing "no" as an answer.
+
+## Sources
+
+- [Tedeschi 2023, The post-traumatic growth approach to psychological trauma (World Psychiatry, open access)](https://onlinelibrary.wiley.com/doi/full/10.1002/wps.21093)
 
 ## Stories
 

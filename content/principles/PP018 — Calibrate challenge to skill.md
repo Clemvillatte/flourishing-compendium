@@ -12,16 +12,16 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 ---
 > **Principle 18** — Calibrate challenge to skill
 
-Flow theory's central condition is a match: "Entering flow depends on establishing a balance between perceived action capacities and action opportunities."
+Flow theory's central condition is a match between perceived action capacities and action opportunities.
 
 > "The balance is fragile. If challenges exceed skills, one first becomes vigilant and then anxious; if skills exceed challenges, one first relaxes and eventually becomes bored." (Nakamura & Csikszentmihalyi, [Oxford Academic](https://academic.oup.com/edited-volume/34277/chapter/290616851))
 
 The compendium applies the fragility to growth: the two failure states are both information, and the adjustment between them is the practice.
 
 **Plain words**
-Boredom and anxiety are the two signals of the same misalignment. Boredom means the task is under-using you; anxiety means it is over-matching you. The move in both cases is the same kind: change the challenge or change the skill until the two are close. The match is fragile, so expect to keep making it.
+In the flow model, boredom and anxiety are the two signals of the same misalignment. Boredom means the task is under-using you; anxiety means it is over-matching you. The move in both cases, within the model, is the same kind: change the challenge or change the skill until the two are close. The match is fragile, so expect to keep making it.
 
-*For example:* Suppose a chess player who always beats weaker opponents. As a modern application, the theory's reading is that the boredom is diagnostic: the challenge no longer matches the skill, and the stronger club is the recalibration.
+*For example:* Suppose a chess player who always beats weaker opponents. As a modern application, the model's reading is that the boredom is diagnostic: the challenge no longer matches the skill, and the stronger club is the recalibration.
 
 ## Sources
 

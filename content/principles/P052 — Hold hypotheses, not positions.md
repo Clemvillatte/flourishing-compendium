@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 52** — Hold hypotheses, not positions
 
-Peirce's essay describes what your own doubt is for. Doubt is "an uneasy and dissatisfied state from which we struggle to free ourselves and pass into the state of belief", and the struggle it causes has a name: "The irritation of doubt causes a struggle to attain a state of belief. I shall term this struggle inquiry." A position defended against doubt stops the inquiry before it runs; a hypothesis keeps the doubt available.
+Peirce's essay describes what your own doubt is for. Doubt is "an uneasy and dissatisfied state from which we struggle to free ourselves and pass into the state of belief", and the struggle it causes is what Peirce terms inquiry, "though it must be admitted that this is sometimes not a very apt designation." A position defended against doubt stops the inquiry before it runs; a hypothesis keeps the doubt available.
 
 > "With the doubt, therefore, the struggle begins, and with the cessation of doubt it ends. Hence, the sole object of inquiry is the settlement of opinion." (Peirce, The Fixation of Belief, [peirce.org](https://www.peirce.org/writings/p107.html))
 
@@ -21,7 +21,7 @@ The compendium applies the essay to meetings and plans: a view stated so that it
 **Plain words**
 Peirce's picture: doubt is the itch, inquiry is the scratch, and belief is the calm after. The catch is that calm can be bought cheaply, by refusing to listen, or honestly, by testing. A hypothesis is a belief that has agreed to be disturbed; a position is a belief that has hired guards. The sentence "I might be wrong" is the beginning of intelligence.
 
-*For example:* Suppose "I think our users want faster checkout — let's test it" versus "Users want speed, period." As a modern application, Peirce's essay calls the first sentence an inquiry and the second an opinion with the doubt buried.
+*For example:* Suppose "I think our users want faster checkout — let's test it" versus "Users want speed, period." As a modern application, the distinction the page draws is that the first sentence is an inquiry and the second an opinion with the doubt buried.
 
 ## Sources
 
