@@ -12,13 +12,28 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 193** — Recognise that emotions are judgments
 
-The Stoic theory of emotions holds that passions are judgments: anger is the judgment that you have been wronged and revenge is appropriate; fear is the judgment that danger is imminent and overwhelming; desire is the judgment that something is good and necessary. Examine the judgment behind the emotion.
+The Stanford Encyclopedia of Philosophy sums up the Stoic account: "each passion can be described as an opinion or judgment or weak supposition", whose content includes "an ascription of value to an object that is present or in prospect" and "an assessment that a particular course of action is appropriate to perform in response". Of the four kinds, "distress, a present perceived bad; fear, a future perceived bad; appetite, a future perceived good; delight (or pleasure), a present perceived good" ([SEP, Stoicism, 4.7](https://plato.stanford.edu/entries/stoicism/)).
 
-(Seneca, De Ira I.3, II.1; Disc. I.25, III.2; Med. VII.16, VII.35; Stobaeus, Eclogae II.7.)
+### Seneca on anger
 
-**Plain words** In the Stoic view, passions are judgements. Anger is judging that you've been wronged and revenge is fitting. Fear is judging danger is imminent and overwhelming. Desire is judging something is good and necessary. Examine the judgement behind the feeling.
+Seneca puts the case for anger in On Anger, in Aubrey Stewart's translation:
 
-*For example:* Feeling jealous means you've judged that someone is taking what's yours. Ask whether it was ever yours.
+> "Our (the Stoics') opinion is, that anger can venture upon nothing by itself, without the approval of mind: for to conceive the idea of a wrong having been done, to long to avenge it, and to join the two propositions, that we ought not to have been injured and that it is our duty to avenge our injuries, cannot belong to a mere impulse which is excited without our consent."
+> — Seneca, De Ira II.1 ([Standard Ebooks](https://standardebooks.org/ebooks/seneca/dialogues/aubrey-stewart/text/on-anger))
+
+### Before the judgment
+
+The judgment comes second. "The first emotion is involuntary, and is, as it were, a preparation for a passion, and a threatening of one" (II.4). It differs from "an emotion which is brought into existence and brought to an end by a deliberate mental act". In II.3: "the first confusion of a man's mind when struck by what seems an injury is no more anger than the apparent injury itself."
+
+### Wording of the principle
+
+The pairing of anger with "wronged and revenge is appropriate" follows Seneca closely. The principle's versions for fear and desire are the compendium's paraphrase of the four-part scheme above.
+
+(Seneca, De Ira II.1, II.3, II.4; SEP, Stoicism 4.7.)
+
+**Plain words** On the Stoic account, an emotion is not just something that hits you. A feeling like anger includes a view: I have been wronged, and payback is right. That view is what you can examine. The first jolt is not yours to stop, but whether you agree with the story attached to it is.
+
+*For example:* Imagine you feel a pang of jealousy when a friend gets promoted. The Stoic question is what judgment sits inside it, perhaps that something that was yours has been taken. Then ask whether it was ever yours.
 
 ## Stories
 
