@@ -104,6 +104,26 @@
    "into": "Acts of kindness (Lyubomirsky)",
    "link": "Prosocial behaviour",
    "why": "kindness acts are the daily-activities variant of the same behaviour"
+  },
+  {
+   "into": "Experiential learning",
+   "link": "Reflective practice",
+   "why": "reflection is the cycle's second half"
+  },
+  {
+   "into": "Deliberate practice",
+   "link": "Reflective practice",
+   "why": "reflection supplies the feedback loop deliberate practice needs"
+  },
+  {
+   "into": "Journaling as self-reflection",
+   "link": "Reflective practice",
+   "why": "the written everyday form of reflective practice"
+  },
+  {
+   "into": "Learning by doing",
+   "link": "Reflective practice",
+   "why": "Schön's professional descendant of the reflection requirement"
   }
  ],
  "inline": [
