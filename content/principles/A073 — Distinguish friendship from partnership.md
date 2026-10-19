@@ -16,9 +16,26 @@ Not every partnership is a friendship. You can work with someone, trade with som
 
 (NE VIII.3, VIII.6.)
 
-**Plain words** Working, trading and cooperating with someone doesn't make them your friend. Friendship needs goodwill, shared values, and wishing the other well. Don't mistake useful cooperation for it, and don't ask it to carry what it can't.
+### What the partnership kind is
+
+Aristotle sorts friendships by what the friend is loved for, and the useful kind comes out badly:
+
+> "Thus friends whose affection is based on utility do not love each other in themselves, but in so far as some benefit accrues to them from each other." — Aristotle, NE VIII.3, 1156a (H. Rackham trans., [Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abekker+page%3D1156a))
+
+Such friendships "are based on an accident, since the friend is not loved for being what he is, but as affording some benefit or pleasure" (1156a). Hence "when the motive of the friendship has passed away, the friendship itself is dissolved, having existed merely as a means to that end" (1156a).
+
+### His blunter word for it
+
+In Book VIII.6 he says "the friendship of utility is a thing for sordid souls" ([1158a](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abekker+page%3D1158a)), and notes that rulers keep their friends in separate compartments: useful ones and pleasant ones, "but rarely any that are both at once" (1158a). The partnership has its place; it just is not the bond it can be mistaken for.
+
+**Plain words** Two people finish a project and the messages stop. Nobody was deceived; the bond was the work. Aristotle's test is what the friend is loved for: the useful friend is loved as affording benefit, the real friend for what he is. Ask which one you are reaching for when you call someone up.
 
 *For example:* A great colleague who disappears once the project ends was a partner, not a friend. That's fine, as long as you didn't expect more.
+
+## Sources
+
+- [Aristotle, Nicomachean Ethics VIII.3, 1156a (H. Rackham trans., Perseus)](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abekker+page%3D1156a) — three kinds of friendship; utility friends loved for benefit; dissolved when the motive passes
+- [Aristotle, Nicomachean Ethics VIII.6, 1158a (H. Rackham trans., Perseus)](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abekker+page%3D1158a) — utility friendship for sordid souls; rulers' separate compartments
 
 ## Practice kernels
 
