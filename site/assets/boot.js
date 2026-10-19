@@ -56,6 +56,7 @@
     loadDataset('randData', 'data/randData.json.gz' + VER),
     loadDataset('fcAuthored', 'data/fcAuthored.json.gz' + VER)
   ])
+    .then(function () { return loadScript('assets/randomizer-model.js' + VER); })
     .then(function () { return loadScript('assets/app.js' + VER); })
     .then(function () { return loadScript('assets/extras.js' + VER); })
     .then(function () { return loadScript('assets/graph.js' + VER); })

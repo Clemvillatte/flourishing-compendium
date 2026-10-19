@@ -58,9 +58,21 @@
       </header>
       <div class="rand-toolbar">
         <div class="rand-filters">
-          <label class="rlabel">Book
-            <select id="bookSelect" aria-label="Choose a book"></select>
-          </label>
+          <div class="rcategory">
+            <span class="rlabel" id="categoryLabel">Categories</span>
+            <details id="categorySelect">
+              <summary aria-labelledby="categoryLabel categorySummary"><span id="categorySummary">All categories</span><span aria-hidden="true">⌄</span></summary>
+              <div class="category-popover">
+                <div class="category-actions">
+                  <button id="categoryAll" type="button">Select All</button>
+                  <button id="categoryNone" type="button">Deselect All</button>
+                  <button id="categoryDone" type="button">Done</button>
+                </div>
+                <fieldset id="categoryOptions"><legend class="sr-only">Draw from categories</legend></fieldset>
+                <p class="category-help">Categories combine. Added types follow their linked principles; all categories also includes unlinked entries.</p>
+              </div>
+            </details>
+          </div>
           <label class="rlabel">Layer
             <select id="layerSelect" aria-label="Choose a layer">
               <option value="">All layers</option>
@@ -71,6 +83,13 @@
           <button class="rbtn" id="searchBtn" type="button" title="Search (/)">Search</button>
           <button class="rbtn" id="savedBtn" type="button" title="Saved collection">★ <span id="savedCount">0</span></button>
         </div>
+        <fieldset class="rand-types">
+          <legend>Also draw from</legend>
+          <label><input id="includeConcepts" type="checkbox" value="concept"> Concepts</label>
+          <label><input id="includeTheories" type="checkbox" value="theory"> Theories</label>
+          <label><input id="includeStories" type="checkbox" value="story"> Stories</label>
+          <label><input id="includeSayings" type="checkbox" value="saying"> Sayings</label>
+        </fieldset>
       </div>
       <div class="rand-actions">
         <button class="nav-btn" id="prevBtn" type="button" aria-label="Previous in session" title="Previous (←)">←</button>

@@ -1561,6 +1561,7 @@ function revealPath(e) {
   return path;
 }
 window.fcWiki = {
+  renderMarkdown: mdToHtml,
   open(target) {
     if (!target) return false;
     navPushCurrent();
@@ -2120,7 +2121,8 @@ function toggleCol(which) {
 /* RANDOMISER VIEW                                                   */
 (function () {
 'use strict';
-const RBOOKS = window.randData;
+const MODEL = window.FCRandomizer.create(window.randData, window.wikiData);
+const RBOOKS = MODEL.books;
 const $r = id => document.getElementById(id);
 const BIDX = new Map(); RBOOKS.forEach((b, bi) => BIDX.set(b.id, bi));
 const TOTAL = RBOOKS.reduce((a, b) => a + b.e.length, 0);
@@ -2206,6 +2208,7 @@ function bookShort(b) { return b.book.replace(/^Book [IVXLC]+ \u2014 /, ''); }
 
 /* ---------- state ---------- */
 let bookFilter = -1, layerFilter = '', pool = [], bag = [], lastIdx = -1;
+let selectedBooks = new Set(MODEL.categories.map(c => c.index)), enabledTypes = new Set();
 let sessionHist = [], histPos = -1, current = null, savedMode = false;
 let storageOk = true, lastTab = '';
 let favs = loadFavs();
@@ -2223,9 +2226,21 @@ function saveFavs() {
   try { FC_LS.setItem(FAV_KEY, JSON.stringify([...favs])); }
   catch (e) { storageOk = false; if (savedMode) render(); }
 }
-function favId(bi, ei) { return RBOOKS[bi].id + '-p' + RBOOKS[bi].e[ei].n; }
+function favId(bi, ei) {
+  const e = RBOOKS[bi].e[ei];
+  return e.wiki ? 'wiki:' + encodeURIComponent(e.w) : RBOOKS[bi].id + '-p' + e.n;
+}
 function resolveId(id) {
-  const m = /^(pack\d+-(?:b\d+|x))-p(\d+)$/.exec(id);
+  if (id.startsWith('wiki:')) {
+    let target;
+    try { target = decodeURIComponent(id.slice(5)); } catch (_) { return null; }
+    for (let bi = MODEL.categoryCount; bi < RBOOKS.length; bi++) {
+      const ei = RBOOKS[bi].e.findIndex(e => e.w === target);
+      if (ei >= 0) return [bi, ei];
+    }
+    return null;
+  }
+  const m = /^(.+)-p(\d+)$/.exec(id);
   if (!m) return null;
   const bi = BIDX.get(m[1]);
   if (bi === undefined) return null;
@@ -2248,9 +2263,6 @@ function toggleFav() {
 }
 function updateFavUI() {
   $r('savedCount').textContent = favs.size;
-  const sel = $r('bookSelect');
-  const opt = sel && sel.querySelector('option[value="-2"]');
-  if (opt) opt.textContent = '\u2605 Saved collection (' + favs.size + ')';
   if (bookFilter === -2) {
     buildPool();
     if (savedMode) renderSaved();
@@ -2263,20 +2275,23 @@ function updateFavUI() {
 /* ---------- pool & draw ---------- */
 function buildPool() {
   pool = [];
-  if (bookFilter === -2) {
-    RBOOKS.forEach((b, bi) => b.e.forEach((e, ei) => {
-      if (favs.has(b.id + '-p' + e.n)) pool.push([bi, ei]);
-    }));
-  } else {
-    RBOOKS.forEach((b, bi) => {
-      if (bookFilter === -1 || bi === bookFilter) {
-        b.e.forEach((e, ei) => { if (!layerFilter || e.c === layerFilter) pool.push([bi, ei]); });
-      }
-    });
-  }
+  RBOOKS.forEach((b, bi) => b.e.forEach((e, ei) => {
+    if (window.FCRandomizer.matches(e, selectedBooks, enabledTypes, MODEL.categoryCount, layerFilter) &&
+        (bookFilter !== -2 || favs.has(favId(bi, ei)))) pool.push([bi, ei]);
+  }));
   bag = []; lastIdx = -1;
   $r('poolNote').textContent = pool.length
-    ? pool.length.toLocaleString() + ' in the current pool \u00b7 no repeats until it cycles' : '';
+    ? pool.length.toLocaleString() + ' in the current pool' + (bookFilter === -2 ? ' · saved only' : '') + ' \u00b7 no repeats until it cycles'
+    : 'No entries in the current pool';
+  const mixed = enabledTypes.size > 0;
+  document.querySelector('.draw-label').textContent = mixed ? 'Draw an entry' : 'Draw a principle';
+  $r('drawBtn').setAttribute('aria-label', mixed ? 'Draw an entry' : 'Draw a principle');
+  $r('drawBtn').disabled = pool.length === 0;
+  $r('todayBtn').disabled = pool.length === 0;
+  $r('todayBtn').textContent = mixed ? "Today’s entry" : "Today’s principle";
+  $r('todayBtn').title = 'The same entry for this selection on the same UTC day';
+  $r('randSub').textContent = pool.length.toLocaleString() + ' eligible entries · ' +
+    selectedBooks.size + ' of ' + MODEL.categoryCount + ' categories';
 }
 function shuffle(arr) {
   for (let i = arr.length - 1; i > 0; i--) {
@@ -2317,9 +2332,10 @@ function navHistory(dir) {
   render();
 }
 function todaysPrinciple() {
+  if (!pool.length) return;
   const days = Math.floor(Date.now() / 86400000);
   const seed = Math.imul(days, 2654435761) >>> 0;
-  const [bi, ei] = FLAT[seed % TOTAL];
+  const [bi, ei] = pool[seed % pool.length];
   showEntry(bi, ei);
 }
 
@@ -2332,11 +2348,13 @@ function render() {
   const poolPos = pool.findIndex(([b, e]) => b === bi && e === ei);
   const pos = poolPos >= 0 ? poolPos + 1 : GPOS.get(bi + ':' + ei) + 1;
   const ofTotal = poolPos >= 0 ? pool.length : TOTAL;
-  const kind = /Kernels/.test(book.bookFile) ? 'Kernel' : 'Principle';
+  const kind = entry.kind.charAt(0).toUpperCase() + entry.kind.slice(1);
 
   const parts = [];
   parts.push('<div class="card-meta">');
-  parts.push('<div class="eyebrow"><a class="wlink" data-wiki="' + resc(book.volFile) + '">' +
+  if (entry.wiki) parts.push('<div class="eyebrow">' + resc(kind) +
+    (entry.categories.size ? ' · ' + resc([...entry.categories].map(i => MODEL.categories[i].label).join(' · ')) : ' · Shared library') + '</div>');
+  else parts.push('<div class="eyebrow"><a class="wlink" data-wiki="' + resc(book.volFile) + '">' +
     resc(book.vol) + '</a> \u00b7 <a class="wlink" data-wiki="' + resc(book.bookFile) + '">' +
     resc(book.book) + '</a>' +
     (entry.c ? '<br><span class="layername">' + resc(entry.c) + '</span>' : '') + '</div>');
@@ -2346,7 +2364,8 @@ function render() {
   parts.push('</div>');
   parts.push('<div class="principle-num">' + (entry.w ? resc(entry.w) : 'No. ' + entry.n) + '</div>');
   parts.push('<h2 class="principle-title">' + rmd(entry.t) + '</h2>');
-  parts.push('<div class="principle-text">' + renderPrincipleBody(entry.x) + '</div>');
+  parts.push('<div class="principle-text' + (entry.wiki ? ' art' : '') + '">' +
+    (entry.wiki ? window.fcWiki.renderMarkdown(window.fcReadingContent(entry.x)) : renderPrincipleBody(entry.x)) + '</div>');
 
   const tabs = [];
   if (entry.p && entry.p.length) tabs.push(['psych', 'Psychology', entry.p, false]);
@@ -2387,7 +2406,7 @@ function render() {
       '<button class="graph-open-btn" id="openGraphBtn" type="button">Open in Graph →</button>' : '') +
     '</div>');
 
-  if (window.fcAuthoredHTML && !/\*\*Plain words/.test(entry.x)) parts.push(window.fcAuthoredHTML(entry.w, entry.x));
+  if (!entry.wiki && window.fcAuthoredHTML && !/\*\*Plain words/.test(entry.x)) parts.push(window.fcAuthoredHTML(entry.w, entry.x));
   parts.push(window.fcReflectionHTML(entry.w, entry.t, entry.x));
   const inner = $r('cardInner');
   inner.innerHTML = parts.join('');
@@ -2437,9 +2456,9 @@ function activateTab(btn) {
 function renderEmpty() {
   const inner = $r('cardInner');
   if (bookFilter === -2) {
-    inner.innerHTML = '<p class="saved-empty">No saved principles yet. Tap the \u2606 Save button on a principle, or press F, to add it to your collection.</p>';
+    inner.innerHTML = '<p class="saved-empty">No saved entries match these filters. Save an entry, enable its content type, or broaden your category and layer selection.</p>';
   } else {
-    inner.innerHTML = '<p class="saved-empty">No principles match the current book and layer filters.</p>';
+    inner.innerHTML = '<p class="saved-empty">No entries match these filters. Select at least one category, choose All layers, or enable another content type.</p>';
   }
   $r('prevBtn').disabled = true;
   $r('nextBtn').disabled = true;
@@ -2461,7 +2480,7 @@ function renderSaved() {
     items.forEach(([bi, ei]) => {
       const b = RBOOKS[bi], e = b.e[ei];
       parts.push('<li class="saved-item" data-bi="' + bi + '" data-ei="' + ei + '" tabindex="0">');
-      parts.push('<button class="s-remove" data-id="' + b.id + '-p' + e.n + '" type="button" aria-label="Remove">\u2715</button>');
+      parts.push('<button class="s-remove" data-id="' + resc(favId(bi, ei)) + '" type="button" aria-label="Remove">\u2715</button>');
       parts.push('<div><div class="s-title">' + (e.w ? resc(e.w) + ' \u00b7 ' : '') + rmd(e.t) + '</div>');
       parts.push('<div class="s-meta">' + resc(volShort(b) + ' \u00b7 ' + bookShort(b)) +
         (e.c ? ' \u00b7 ' + resc(e.c) : '') + '</div></div>');
@@ -2489,9 +2508,10 @@ function renderSaved() {
   });
   const ds = $r('drawSavedBtn');
   if (ds) ds.addEventListener('click', () => {
-    const sel = $r('bookSelect');
-    sel.value = '-2';
-    sel.dispatchEvent(new Event('change', { bubbles: true }));
+    bookFilter = -2;
+    savedMode = false;
+    buildPool();
+    draw();
   });
   const em = $r('exportMdBtn'); if (em) em.addEventListener('click', () => exportFavs('md'));
   const ej = $r('exportJsonBtn'); if (ej) ej.addEventListener('click', () => exportFavs('json'));
@@ -2536,7 +2556,7 @@ function exportFavs(fmt) {
   let content, name, mime;
   if (fmt === 'json') {
     content = JSON.stringify(items.map(({ book, entry }) => ({
-      id: book.id + '-p' + entry.n, wikiId: entry.w || undefined,
+      id: entry.wiki ? 'wiki:' + encodeURIComponent(entry.w) : book.id + '-p' + entry.n, wikiId: entry.w || undefined,
       volume: book.vol, book: book.book, layer: entry.c, number: entry.n,
       title: entry.t, text: entry.x, psychology: entry.p, philosophy: entry.f, practice: entry.r
     })), null, 2);
@@ -2576,9 +2596,12 @@ function runSearch(q) {
   }
   if (!HAY) buildHay();
   const hits = [];
-  for (let i = 0; i < HAY.length && hits.length < 40; i++) if (HAY[i][0].includes(q)) hits.push(HAY[i]);
+  const eligible = new Set(pool.map(([bi, ei]) => bi + ':' + ei));
+  for (let i = 0; i < HAY.length && hits.length < 40; i++) {
+    if (eligible.has(HAY[i][1] + ':' + HAY[i][2]) && HAY[i][0].includes(q)) hits.push(HAY[i]);
+  }
   if (!hits.length) {
-    out.innerHTML = '<p class="search-empty">No principles match \u201C' + resc(q) + '\u201D.</p>';
+    out.innerHTML = '<p class="search-empty">No entries in the current selection match \u201C' + resc(q) + '\u201D.</p>';
     return;
   }
   out._first = hits[0];
@@ -2607,30 +2630,46 @@ function closeSearch() { $r('searchDialog').close(); }
 
 /* ---------- selects ---------- */
 function rebuildBookOptions() {
-  const sel = $r('bookSelect');
-  const opts = ['<option value="-1">All books (' + TOTAL.toLocaleString() + ')</option>'];
-  RBOOKS.forEach((b, i) => {
-    opts.push('<option value="' + i + '">' + resc(volShort(b) + ' \u00b7 ' + bookShort(b)) +
-      ' (' + b.e.length + ')</option>');
-  });
-  opts.push('<option value="-2">\u2605 Saved collection (' + favs.size + ')</option>');
-  sel.innerHTML = opts.join('');
+  let volume = '';
+  $r('categoryOptions').innerHTML = '<legend class="sr-only">Draw from categories</legend>' + MODEL.categories.map(c => {
+    let group = '';
+    if (c.volume !== volume) { volume = c.volume; group = '<div class="category-group">' + resc(volume) + '</div>'; }
+    return group + '<label class="category-option"><input type="checkbox" value="' + c.index +
+      '" checked><span>' + resc(c.label) + '</span><span class="category-count">' + c.count + '</span></label>';
+  }).join('');
+  updateCategorySummary();
+}
+function updateCategorySummary() {
+  const labels = MODEL.categories.filter(c => selectedBooks.has(c.index)).map(c => c.label);
+  $r('categorySummary').textContent = labels.length === MODEL.categoryCount ? 'All categories'
+    : labels.length === 0 ? 'No categories selected' : labels.length <= 2 ? labels.join(' + ') : labels.length + ' categories selected';
+}
+function filtersChanged() {
+  bookFilter = -1;
+  savedMode = false;
+  current = null;
+  sessionHist = []; histPos = -1;
+  updateCategorySummary();
+  rebuildLayerOptions();
+  buildPool();
+  draw();
 }
 function rebuildLayerOptions() {
   const sel = $r('layerSelect');
   const prev = layerFilter;
   const seen = new Map();
   RBOOKS.forEach((b, bi) => {
-    if (bookFilter === -1 || bookFilter === bi) {
-      b.e.forEach(e => seen.set(e.c, (seen.get(e.c) || 0) + 1));
-    }
+    b.e.forEach(e => {
+      if (e.c && window.FCRandomizer.matches(e, selectedBooks, enabledTypes, MODEL.categoryCount, ''))
+        seen.set(e.c, (seen.get(e.c) || 0) + 1);
+    });
   });
   const opts = ['<option value="">All layers</option>'];
   seen.forEach((count, c) => {
     opts.push('<option value="' + resc(c) + '">' + resc(c) + ' (' + count + ')</option>');
   });
   sel.innerHTML = opts.join('');
-  sel.disabled = bookFilter === -2;
+  sel.disabled = false;
   if (prev && seen.has(prev)) sel.value = prev;
   else { layerFilter = ''; sel.value = ''; }
 }
@@ -2640,19 +2679,42 @@ function init() {
   updateFavUI();
   rebuildBookOptions();
   rebuildLayerOptions();
-  $r('randSub').textContent = TOTAL.toLocaleString() + ' principles and practice kernels \u00b7 ' +
-    RBOOKS.length + ' books \u00b7 Volumes I, II, IV and V';
-
-  $r('bookSelect').addEventListener('change', ev => {
-    bookFilter = parseInt(ev.target.value, 10);
-    rebuildLayerOptions();
-    buildPool();
-    draw();
+  $r('categoryOptions').addEventListener('change', ev => {
+    if (!ev.target.matches('input[type="checkbox"]')) return;
+    const index = +ev.target.value;
+    if (ev.target.checked) selectedBooks.add(index); else selectedBooks.delete(index);
+    filtersChanged();
+  });
+  [['categoryAll', true], ['categoryNone', false]].forEach(([id, checked]) => {
+    $r(id).addEventListener('click', () => {
+      selectedBooks = checked ? new Set(MODEL.categories.map(c => c.index)) : new Set();
+      $r('categoryOptions').querySelectorAll('input').forEach(input => { input.checked = checked; });
+      filtersChanged();
+    });
+  });
+  $r('categoryDone').addEventListener('click', () => {
+    $r('categorySelect').open = false;
+    $r('categorySelect').querySelector('summary').focus();
+  });
+  document.querySelectorAll('.rand-types input').forEach(input => {
+    input.addEventListener('change', () => {
+      if (input.checked) enabledTypes.add(input.value); else enabledTypes.delete(input.value);
+      filtersChanged();
+    });
+  });
+  document.addEventListener('click', ev => {
+    if (!$r('categorySelect').contains(ev.target)) $r('categorySelect').open = false;
+  });
+  $r('categorySelect').addEventListener('keydown', ev => {
+    if (ev.key === 'Escape') {
+      ev.preventDefault(); ev.stopPropagation();
+      $r('categorySelect').open = false;
+      $r('categorySelect').querySelector('summary').focus();
+    }
   });
   $r('layerSelect').addEventListener('change', ev => {
     layerFilter = ev.target.value;
-    buildPool();
-    draw();
+    filtersChanged();
   });
   $r('drawBtn').addEventListener('click', draw);
   $r('prevBtn').addEventListener('click', () => navHistory(-1));
@@ -2688,7 +2750,7 @@ function init() {
   document.addEventListener('keydown', ev => {
     if (!document.body.classList.contains('rand-mode')) return;
     const t = ev.target;
-    const typing = t && (t.tagName === 'INPUT' || t.tagName === 'SELECT' || t.tagName === 'TEXTAREA' || t.isContentEditable);
+    const typing = t && (t.tagName === 'INPUT' || t.tagName === 'SELECT' || t.tagName === 'TEXTAREA' || t.isContentEditable || t.closest('#categorySelect'));
     if (typing) return;
     if ($r('searchDialog').open) {
       if (ev.key === 'Escape') closeSearch();

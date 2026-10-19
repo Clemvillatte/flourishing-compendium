@@ -26,6 +26,8 @@ jobs:
         run: python3 -m unittest discover -s scripts/tests -v
       - name: Build data files from markdown sources
         run: python3 scripts/build.py --src . --version "$(echo $GITHUB_SHA | cut -c1-7)"
+      - name: Randomizer filter regression tests
+        run: node --test scripts/tests/randomizer.test.cjs
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
