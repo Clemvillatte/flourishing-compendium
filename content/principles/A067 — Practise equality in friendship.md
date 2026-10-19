@@ -12,13 +12,29 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 67** — Practise equality in friendship
 
-True friendship requires a kind of equality: not necessarily in status or resources, but in goodwill, in mutual regard, in the willingness to give and receive. Friendships between unequals (parent and child, ruler and subject) can exist but must adjust the degree of affection to the distance. Seek mutuality in your closest friendships.
+True friendship requires a kind of equality: in goodwill, in mutual regard, in the willingness to give and receive, more than in status or resources. Friendships between unequals (parent and child, ruler and subject) can exist but must adjust the degree of affection to the distance. Seek mutuality in your closest friendships.
 
 (NE VIII.7, VIII.13.)
 
-**Plain words** Real friendship needs a kind of equality, not in status or money but in goodwill and in giving and receiving. Unequal friendships, like parent and child, can work if the affection fits the distance. Look for mutuality in your closest ones.
+### What Aristotle allows
+
+He names the unequal kinds directly:
+
+> "But there is a different kind of friendship, which involves superiority of one party over the other, for example, the friendship between father and son, and generally between an older person and a younger, and that between husband and wife, and between any ruler and the persons ruled." — Aristotle, NE VIII.7, 1158b (H. Rackham trans., [Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abekker+page%3D1158b))
+
+In these, affection is adjusted rather than matched: "the better of the two parties, for instance, or the more useful or otherwise superior as the case may be, should receive more affection than he bestows; since when the affection rendered is proportionate to desert, this produces equality in a sense between the parties, and equality is felt to be an essential element of friendship" (1158b).
+
+### Which equality counts
+
+Aristotle distinguishes friendship's equality from justice's: in friendship, equal quantity of affection comes first and proportion to desert second (1158b). That is why wide disparity dissolves it: when friends differ greatly in virtue or wealth, "they no longer remain nor indeed expect to remain friends" (1158b).
+
+**Plain words** Real friendship needs a kind of equality: in goodwill and in giving and receiving, more than in status or money. Unequal friendships, like parent and child, can work if the affection fits the distance. Look for mutuality in your closest ones.
 
 *For example:* A friendship where one person always listens and the other always talks has drifted from the real thing, whatever the title says.
+
+## Sources
+
+- [Aristotle, Nicomachean Ethics VIII.7, 1158b (H. Rackham trans., Perseus)](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abekker+page%3D1158b) — friendships of superiority; proportionate affection as friendship's equality
 
 ## Practice kernels
 
