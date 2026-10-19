@@ -10,6 +10,14 @@
 
 ## Current state (2026-10-19)
 
+- p1j NAME COLLISION (2026-10-19): two sessions are both using the agent name
+  "genuineflourishing32" and both worked p1j. Collision was found and merged: the parallel
+  session's items (D015, D042, D077, D097, D098, D137, D165, D180) and this session's
+  advisor-QC'd items (B153, B176, D010, D043, D042) all landed; D042 carries the QC version.
+  This session released p1j to the parallel session (it was mid-band, on P016) and took p1k.
+  RULE REMINDER for all agents: never assume the name in a baton file is you — run
+  `baton.py status` against origin before pushing, and use a name no other session uses.
+
 - RANDOMIZER CONTROLS: optional Concepts/Theories/Stories/Sayings default unchecked;
   categories are multi-select with Select All/Deselect All and OR combinations. Search,
   daily draw and saved-only draw honor the pool. Optional-type membership follows explicit

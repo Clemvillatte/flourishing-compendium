@@ -61,7 +61,7 @@ The owner's primary-source library is in `docs/PRIMARY-SOURCES.md`.
 | p1h | 431-490 | Y026 to D096 | p1h | claimed | genuineflourishing35 | 2026-10-19 |
 | p1i | selected ranks 491-615 | D115 to B148 (30 priority items) | p1i | claimed | genuineflourishing39 | 2026-10-19 |
 | p1j | selected ranks 616-695 | B153 to P189 (30 priority items) | p1j | claimed (4/30: B153, B176, D010, D043) | genuineflourishing32 | 2026-10-19 |
-| p1k | selected ranks 696-806 | P192 to B183 (30 priority items) | p1k | OPEN | unclaimed | 2026-10-19 |
+| p1k | selected ranks 696-806 | P192 to B183 (30 priority items) | p1k | claimed | genuineflourishing32 (collision session) | 2026-10-19 |
 | p1l | selected ranks 840-901 | D032 to P082 (30 priority items) | p1l | OPEN | unclaimed | 2026-10-19 |
 | p1m | selected ranks 902-1036 | P090 to B152 (30 priority items) | p1m | OPEN | unclaimed | 2026-10-19 |
 | p1n | selected ranks 1037-1142 | B164 to P036 (30 priority items) | p1n | OPEN | unclaimed | 2026-10-19 |
