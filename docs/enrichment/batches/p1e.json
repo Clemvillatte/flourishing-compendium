@@ -61,10 +61,10 @@
   "BE001",
   "AT064",
   "BE009",
-  "BE019",
   "BE022",
   "BE036",
-  "BI060"
+  "BI060",
+  "BE019"
  ],
  "in_progress": null,
  "flagged": {
@@ -113,14 +113,14 @@
   "BE001": "Reopened for QC: QC rework round 2: advisor fixes applied, awaiting acceptance",
   "BE006": "inherited Hanley, Hayes, Vilardaga, Socrates/Nietzsche/Buddhism parallels not opened; preserved",
   "BE009": "inherited Skinner, Ferster, Beck, Laozi, Buddhist, Aristotle parallels not opened; preserved",
-  "BE019": "inherited Lewinsohn 1976/1978, MacPhillamy 1976, Aristotle, Huizinga, mudita parallels not opened; preserved",
+  "BE019": "Reopened for QC: QC round 2 conditional PASS applied; recording acceptance",
   "BE022": "inherited Linehan 1993, Rizvi-Linehan 2005, Aristotle, Buddhist, Kant parallels not opened; preserved",
   "BE036": "inherited Linehan, Leyro, Hayes, Buddhist, Nietzsche parallels not opened; preserved",
   "BI060": "broad mental-health parallel (Cramer et al. 2013; Wang et al. 2010 as cited) NOT established by the opened Wang fibromyalgia trial; other inherited parallels (Nhat Hanh, Zhuangzi, yangsheng) not opened"
  },
  "missing_concepts": [],
  "sources_checked": 38,
- "updated": "2026-10-19T15:05:09+00:00",
+ "updated": "2026-10-19T15:05:22+00:00",
  "band_done": false,
  "takeover": {
   "by": "genuineflourishing35",
