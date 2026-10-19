@@ -1,9 +1,11 @@
 {
  "batch": "w1c",
- "done": [],
+ "done": [
+  "Anger regulation research"
+ ],
  "flagged": {},
  "missing_concepts": [],
- "sources_checked": 10,
+ "sources_checked": 15,
  "inline": [
   {
    "into": "SE034",
@@ -61,6 +63,66 @@
    "into": "Magnanimity",
    "link": "Amor sui (right self-love)",
    "why": "the honest sense of one's own worth that reason-based self-approval gives"
+  },
+  {
+   "into": "Anger",
+   "link": "Anger regulation research",
+   "why": "the evidence base for how to work with anger"
+  },
+  {
+   "into": "Cognitive reappraisal",
+   "link": "Anger regulation research",
+   "why": "the research tradition that tested reappraisal against other strategies"
+  },
+  {
+   "into": "Expressive suppression versus reappraisal",
+   "link": "Anger regulation research",
+   "why": "the field whose central comparison produced this page's evidence"
+  },
+  {
+   "into": "Anger reappraisal",
+   "link": "Anger regulation research",
+   "why": "reappraisal evidence applied to the specific case of anger"
+  },
+  {
+   "into": "Catharsis",
+   "link": "Anger regulation research",
+   "why": "the venting theory this research disconfirmed"
+  },
+  {
+   "into": "Anger management",
+   "link": "Anger regulation research",
+   "why": "the applied programmes this evidence underwrites"
+  },
+  {
+   "into": "Express by shaping, not venting",
+   "link": "Anger regulation research",
+   "why": "the empirical backing for the anti-catharsis stance"
+  },
+  {
+   "into": "Acceptance",
+   "link": "Anger regulation research",
+   "why": "acceptance-based strategies with meta-analytic support here"
+  },
+  {
+   "into": "Rumination",
+   "link": "Anger regulation research",
+   "why": "the ingredient that made venting backfire in Bushman's experiment"
+  },
+  {
+   "into": "Emotion regulation",
+   "link": "Anger regulation research",
+   "why": "the parent construct this research branches from"
+  },
+  {
+   "into": "Extended process model of emotion regulation",
+   "link": "Anger regulation research",
+   "why": "Gross's later model of how regulation is chosen and implemented"
+  },
+  {
+   "into": "Anger examined early",
+   "link": "Anger regulation research",
+   "why": "the Stoic-style timing insight that matches early intervention"
   }
  ],
  "notes": "First concept: Amor sui (right self-love). All 12 original links preserved. Facets section (vs self-contempt) folded into prose. Definition quote is Ethics IIIp55 scholium (verified against Gutenberg Elwes text); rational demand is IVp18 scholium. Related-clause support sources (SEP Rousseau/Nietzsche/Stoicism, Wikipedia self-compassion) listed in the page's Sources section."

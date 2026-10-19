@@ -1,11 +1,12 @@
 {
  "batch": "w1c",
  "done": [
-  "Amor sui (right self-love)"
+  "Amor sui (right self-love)",
+  "Anger regulation research"
  ],
- "in_progress": "Anger regulation research",
+ "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-19T07:14:45+00:00"
+ "updated": "2026-10-19T07:16:58+00:00"
 }
