@@ -139,3 +139,24 @@ copied from the opened URL in this session.
   seeds for the concept pass, not principle work).
 - Inherited-not-reverified: Vickers 2007 quiet-eye claim and the pre-performance-routine
   note in psychology parallels (untouched link sections).
+
+## D089 — Grief without destruction (Zhuangzi 18)
+
+- Opened: https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf
+  (Legge Zhuangzi, ETH Zurich edition; same edition as the supervisor-verified D087 QC).
+- Extracted verbatim: the Huizi/basin/singing setup ("When Zhuangzi's wife died, Huizi
+  went to condole with him, and, finding him squatted on the ground, drumming on the
+  basin, and singing...") and the transformation reply ("She had not yet been born to
+  life... from winter to summer.").
+- Evidence note: two PDF extractions both returned "going on to wall for her" in the
+  reply's closing sentence (the setup sentence in the same PDF reads "not to wail for
+  her"); because the character-level reading is uncertain, the blockquote ends before
+  that sentence and the Great Chamber ending is paraphrased in prose, unquoted.
+- QC: advisor round 1 flagged the Plain-words "verdict/not owed" framing as unsupported
+  by the passage; replaced with the advisor's scoped text; setup details verified in a
+  follow-up extraction before use. This was a plain-words-replicates repair (59%).
+  Validated vs pre-item baseline 5cbb520.
+- Saturation: Continuing bonds, Dual-process theory, The seasons of life and three other
+  concepts already cite D089; no new proposals.
+- Inherited-not-reverified: Stroebe & Schut dual-process model and Sandler et al. 2015
+  rumination/integration claims in psychology parallels (untouched link sections).

@@ -12,13 +12,18 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 89** — Grief without destruction
 
-Zhuangzi sang after his wife died: she had simply passed through the same transformations as the seasons. Feel loss fully; don't turn it into a verdict on life.
+In Book XVIII of the Zhuangzi, Zhuangzi's wife dies, and Hui Tzu finds him drumming on a basin and singing. Asked about it, Zhuangzi says he was affected when she first died, then reflected on the beginning of her being and what followed: a change brought breath, another the bodily form, another birth and life, and now another change has brought her death. She lies asleep in what he calls the Great Chamber, and he restrained himself from sobbing because he thought it would show he did not understand what was appointed.
 
-(Zhuangzi 18.)
+> "She had not yet been born to life; not only had she no life, but she had no bodily form; not only had she no bodily form, but she had no breath. During the intermingling of the waste and dark chaos, there ensued a change, and there was breath; another change, and there was the bodily form; another change, and there came birth and life. There is now a change again, and she is dead. The relation between these things is like the procession of the four seasons from spring to autumn, from winter to summer." (Zhuangzi 18, [Legge](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
 
-**Plain words** Zhuangzi sang after his wife died — she had passed through the same transformations as the seasons. Feel loss fully; don't turn it into a verdict on life. Grief that destroys you dishonors the thing you're grieving.
+**Plain words**
+Zhuangzi looks back beyond the death itself. In his account, changes brought his wife into life, and death belongs to that same sequence. This wider account explains why he restrained his lament. It sets no timetable for another person's grief.
 
-*For example:* The widow who plants the garden her husband loved, cries in it, and keeps it — grief that stays connected to life.
+*For example:* As a modern writing exercise, describe the passage first as an account of bereavement, then as an account of transformation. Identify which details support each reading, without assuming either description should change a mourner's feelings.
+
+## Sources
+
+- [Zhuangzi, trans. James Legge (ETH Zurich edition)](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — Book XVIII, the wife-death passage
 
 ## Stories
 
