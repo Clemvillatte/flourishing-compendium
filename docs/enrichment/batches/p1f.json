@@ -6,14 +6,15 @@
   "D144",
   "D163",
   "D171",
-  "D074"
+  "D074",
+  "B006"
  ],
- "in_progress": "B006",
+ "in_progress": null,
  "flagged": {
   "D074": "Reopened for QC: milestone QC: inference-level corrections"
  },
  "missing_concepts": [],
  "sources_checked": 2,
- "updated": "2026-10-19T12:40:16+00:00",
+ "updated": "2026-10-19T12:40:56+00:00",
  "band_done": false
 }

@@ -12,11 +12,11 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 6** — Craving is the engine of suffering (tanha)
 
-Suffering is not caused by pain but by the grasping, pushing, and demanding that pain, pleasure, and the world be otherwise. Work on the grasping, not on the world.
+Suffering is not caused by pain but by the grasping, pushing, and demanding that pain, pleasure, and the world be otherwise. The Dhammacakkappavattana Sutta names three forms of the craving it blames: craving for sensual pleasures, craving for existence, craving for extermination. Work on the grasping, not on the world.
 
-(SN 56.11, second task: let reactivity be.)
+(SN 56.11.)
 
-**Plain words** Suffering isn't caused by pain but by the grasping, pushing, and demanding that things be otherwise. Work on the grasping, not on the world. Pain is a fact; the demand that it shouldn't exist is the extra tax you add yourself.
+**Plain words** Notice the two layers: the thing that happened, and your demand about the thing. The first layer is not optional; the second one is built on top of it. Working on the grasping means examining the demand, not fixing the world first and feeling OK only afterward. Pain is a fact; the demand that it shouldn't exist is the extra tax you add yourself.
 
 *For example:* The traffic jam is forty minutes of sitting; the fury about the traffic jam is a separate, optional forty minutes.
 
