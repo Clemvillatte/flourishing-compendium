@@ -345,3 +345,10 @@ Advisor QC (2026-10-19): quotes verified (BQ1 ch. 22 sentence, BQ2 ch. 68 verse 
 - Plain words de-replicated (old one repeated "chosen for their own sake" and "not a separate prize"); replaced with the two tests (what-is-it-for; where-the-pleasure-sits) plus the amusements caveat carried into plain words.
 - Inherited, NOT opened: Deci/Ryan, Csikszentmihalyi and Vallerand psychology parallels, Dewey and Flow parallels — flagged in state.
 - Validator: ok; protected fields untouched vs HEAD.
+
+## Milestone QC verdicts round 2 (2026-10-20, worker-p1e-4f2c9b1d) and bookkeeping reconciliation
+
+- A097: PASS after advisor-directed rewrite (arithmetical-equality framing, judge's line quote kept, parties-as-equals paraphrase without quotation marks, compendium application labelled, anti-vengeance inferences and boundary example removed, plain words replaced with the describe-the-harm procedure). Validated vs pre-edit seed baseline.
+- A080: PASS after removing the temporal "rounds off"/"meal finished" reading and the unsupported "borrowed pleasure" claim; pleasure now placed inside the ongoing activity per the opened X.4 passage ("the pleasure will be involved in the activity"). Validated vs pre-edit baseline 85b27a0b. State reopened and re-done around the accepted fix.
+- SOURCES COUNTER RECONCILIATION: the `sources` command had been run once (+6, 19->25). The ledger entries for A025, A045, A070 and A080 claimed +1 each without running the command; A097 (MIT NE V) had no entry yet. Reconciled now with a single +5 increment (25->30), matching the ledger's per-item accounting (A025 NE IV reuse for IV.3, A045 NE III reuse for III.3, A070 NE IX new, A080 NE X new, A097 NE V new).
+- Inherited-parallel flags remain open; these passes do not certify those claims.
