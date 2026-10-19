@@ -10,15 +10,20 @@ number: "103"
 navigation: {"track": "philosophy", "primaryPath": ["NAV-PHILOSOPHY", "NAV-PHIL-ARIS"], "alternatePaths": []}
 legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristotelian Virtue Ethics and Practical Wisdom", "chapter": "A-S09 — Layer IX - Justice, Equity, and Law", "parent": ""}
 ---
+
 > **Principle 103** — Recognise that some actions are always wrong
 
-Aristotle holds that some acts are always wrong regardless of circumstances: murder, theft, adultery. These are wrong in themselves, not because of excess or deficiency. Know your unconditional commitments.
+Aristotle's doctrine of the mean is not a doctrine that everything has a defensible middle. He names acts that are bad in themselves, and says that with these there is no question of a right amount, right person, right time or right manner. The acts he names as examples are adultery, theft and murder ([NE II.6, Rackham, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=2)).
+
+> It is impossible therefore ever to go right in regard to them—one must always be wrong; nor does right or wrong in their case depend on the circumstances, for instance, whether one commits adultery with the right woman, at the right time, and in the right manner; the mere commission of any of them is wrong.
+>
+> — Nicomachean Ethics II.6 ([Rackham, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=2))
+
+**Plain words** The compendium's application of this principle asks the reader to identify, in advance, which of their own commitments are of this kind, not subject to weighing when the pressure arrives. Aristotle's own framing rules out the move where the act is kept and only its amount or context is adjusted; with these acts, the act itself is the fault.
+
+For example (imagined): a person who decides in advance never to falsify a record does not weigh it up when a boss leans on them.
 
 (NE II.6.)
-
-**Plain words** Aristotle says some acts are wrong whatever the circumstances, like murder and theft. They aren't wrong by being too much or too little. Know your own non-negotiables, and decide them before you're under pressure.
-
-*For example:* A person who decides in advance "I'll never falsify a record" doesn't weigh it up when a boss leans on them.
 
 ## Stories
 
