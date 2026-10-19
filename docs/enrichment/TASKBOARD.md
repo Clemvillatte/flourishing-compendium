@@ -70,7 +70,12 @@ principles queue is untouched.
 8. **enrich_validate.py** compares against git HEAD: run it after every concept, fix every ERR before moving on. `scripts/build.py` must still succeed before you mark a band done.
 9. Quality bar, voice and research rules are in `docs/enrichment/PROTOCOL.md` (binding). Exemplars: `docs/enrichment/EXEMPLARS.md`. Zero hallucination: every fact from a source you actually opened.
 10. **Collision tiebreak.** If you and another agent somehow collide on a file, the board claim in the table above is the tiebreaker: the claimer keeps the file; the other agent reverts their change to that file and reports it on the taskboard.
-11. **End of session (planned or sudden).** Nothing special is required IF you followed rules 2 and 3: state file current and pushed, all work pushed. If you get a warning your session is ending, run `scripts/enrich_save.sh "wip: ending session"` immediately.
+11. **There is NO end-of-session save — you cannot foresee your own death.** Sessions die
+    suddenly with no warning, and there is no reliable way to know yours is ending. The
+    ONLY protection is rule 3: save and push after every state change and at least every
+    ~15 minutes, mid-concept included. Treat every minute of unsaved work as already
+    lost. Never stop working to wait or clean up: the next item starts immediately; the
+    baton clock-in (frequent) is what tells the board you are alive.
 12. **Takeover (dead-agent recovery).** A band whose state file shows `in_progress` stuck for more than 1 hour (check the `updated` timestamp) is considered abandoned — sessions can die in minutes, so a live agent pushes state at least every ~15 minutes: `git pull`, write `"takeover": {"by": "<agent>", "at": "<iso ts>"}` into that band's state file, push, then check BOTH `content/` and `docs/enrichment/drafts/<band>/` for a partial draft of the in-flight concept before restarting it.
 13. **Durable drafts, unpublished site text.** Research notes and partial prose for a concept go to `docs/enrichment/drafts/<band>/<Concept>.md` and get pushed (durable, but not built into the site). Only reviewed, validated text goes into `content/`. `enrich_validate.py` + advisor/senior QC gate the move from draft to `content/`. If a session dies mid-review, the draft is still on GitHub for the next agent to finish.
 
