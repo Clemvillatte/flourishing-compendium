@@ -12,13 +12,21 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 ---
 > **Principle 31** — Address loneliness as a signal, not a failing
 
-Loneliness is the subjective experience that one's social needs are not met, distinct from objective social isolation. It is a signal, like thirst, that something is missing. Chronic loneliness predicts depression, cognitive decline, and mortality. The response is not to increase the quantity of contact but to improve the quality: depth, reciprocity, and mutual responsiveness.
+The belonging hypothesis, in the review's own closing words:
 
-(Cacioppo and Patrick, 2008; Holt-Lunstad et al., 2015.)
+> "Existing evidence supports the hypothesis that the need to belong is a powerful, fundamental, and extremely pervasive motivation." (Baumeister & Leary, "The Need to Belong," [PubMed](https://pubmed.ncbi.nlm.nih.gov/7777651/))
 
-**Plain words** Loneliness is the felt sense that your social needs aren't being met, which isn't the same as being alone. Like thirst, it's a signal. Chronic loneliness predicts depression, cognitive decline and early death. The answer isn't more contact but better quality of connection.
+If belonging is a need of that rank, loneliness is its sensor: the felt gap between the connection you need and the connection you have, which is why it is distinct from being alone. And the sensor is wired into health: "Across studies in which several possible confounds were statistically controlled for, the weighted average effect sizes were as follows: social isolation odds ratio (OR) = 1.29, loneliness OR = 1.26, and living alone OR = 1.32, corresponding to an average of 29%, 26%, and 32% increased likelihood of mortality, respectively" ([Holt-Lunstad et al. 2015](https://pubmed.ncbi.nlm.nih.gov/25910392/)). Notably, "We found no differences between measures of objective and subjective social isolation" ([ibid.](https://pubmed.ncbi.nlm.nih.gov/25910392/)): the felt kind counts as much as the counted kind. Hence the principle's framing: read loneliness as information rather than verdict, and answer it at the level it names, the quality of connection, depth, reciprocity, mutual responsiveness, rather than the quantity of contact. The compendium's account is [[The need to belong]].
+
+**Plain words**
+Loneliness is not a character flaw; it is a fuel gauge. The car is not broken when the light comes on. People misread the gauge two ways: "I'm unlikeable" (a verdict) or "fill the calendar" (a quantity fix). The signal says something narrower: your connections are thinner than your needs. One real conversation does more for the gauge than ten appointments. Answer it by going deeper, not wider.
 
 *For example:* Someone surrounded by colleagues feels alone until one of them really asks how she is.
+
+## Sources
+
+- [Baumeister & Leary, "The need to belong: desire for interpersonal attachments as a fundamental human motivation," Psychological Bulletin 117 (1995) (PubMed)](https://pubmed.ncbi.nlm.nih.gov/7777651/) — closing claim, verbatim
+- [Holt-Lunstad et al., "Loneliness and social isolation as risk factors for mortality: A meta-analytic review," Perspectives on Psychological Science 10 (2015) (PubMed)](https://pubmed.ncbi.nlm.nih.gov/25910392/) — effect sizes and objective/subjective findings, verbatim
 
 ## Stories
 
