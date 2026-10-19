@@ -12,13 +12,14 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 264** — Practise humanity toward others
 
-Treat every person as someone whose humanity must be recognised, affirmed, and enhanced. The Zulu proverb "umuntu ngumuntu ngabantu" means that a person becomes a person through other persons. Practise this by greeting people, acknowledging their presence, and never making them feel invisible.
+Tutu gives the formula in one line: "A person is a person through other persons." And its reach: "My humanity is caught up, is inextricably bound up, in yours." His full description: "A person with ubuntu is open and available to others, affirming of others, does not feel threatened that others are able and good, for he or she has a proper self-assurance that comes from knowing that he or she belongs in a greater whole and is diminished when others are humiliated or diminished, when others are tortured or oppressed, or treated as if they were less than who they are." The compendium's application: greeting people, acknowledging their presence, never making them feel invisible is one expression of that openness, among others.
 
 (Ubuntu philosophy; Desmond Tutu, No Future Without Forgiveness; Mbiti, African Religions and Philosophy.)
 
 **Plain words** A person becomes a person through other persons — so act like it. Greet people, acknowledge them, never let someone feel invisible in your presence. The smallest recognition — the nod, the name remembered — is the practice itself, not a warm-up for it.
 
-*For example:* The cleaner everyone else walks past, whom one colleague greets by name every morning — and ten years later it's that colleague everyone says "somehow made this building human."
+*For example:* The cleaner everyone else walks past — you learn their name, and you greet them.
+
 ## Stories
 
 - [[ST226 — Mandela Invites the Jailer|226. Mandela Invites the Jailer]]

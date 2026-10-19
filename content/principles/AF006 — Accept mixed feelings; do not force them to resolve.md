@@ -12,11 +12,12 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 6** — Accept mixed feelings; do not force them to resolve
 
-The question was once genuinely disputed: can people feel happy and sad at the same time? Larsen, McGraw, and Cacioppo tested it against real transitions — and "many participants surveyed immediately after watching the film Life Is Beautiful, moving out of their dormitories, or graduating from college felt both happy and sad." Their framework, the evaluative space model, "proposes that positive and negative affect are separable and that mixed feelings of happiness and sadness can co-occur." Ambivalence is not a failure to resolve; it is sometimes the accurate reading of a situation that really contains both. The compendium's practical reading: love and resentment toward the same person, pride and shame about the same achievement, relief and grief at the same transition are honest data. Forcing them into a single "true feeling" adds distress to what was only complexity.
+The question was once genuinely disputed: can people feel happy and sad at the same time? Larsen, McGraw, and Cacioppo tested it against real transitions — and "many participants surveyed immediately after watching the film Life Is Beautiful, moving out of their dormitories, or graduating from college felt both happy and sad." Their framework, the evaluative space model, "proposes that positive and negative affect are separable and that mixed feelings of happiness and sadness can co-occur." Ambivalence is not a failure to resolve; it is sometimes the accurate reading of a situation that really contains both. The compendium's practical reading: love and resentment toward the same person, pride and shame about the same achievement, relief and grief at the same transition are honest data. The compendium's exercise: notice both feelings, and let them both be there, without demanding a single verdict.
 
-**Plain words** People genuinely feel ambivalent: love and resentment toward the same person, pride and shame about the same achievement. Forcing ambivalence into a single verdict is where the trouble starts. Accept mixed feelings; they're the honest reading.
+**Plain words** People genuinely feel ambivalent: love and resentment toward the same person, pride and shame about the same achievement. You don't have to force the feelings into a single verdict; you can hold both.
 
-*For example:* The new parent who feels joy and grief for the old life simultaneously — and the month they stop demanding the feelings pick a side, the whole experience gets several degrees lighter. The ambivalence was never the problem; the demand for a verdict was.
+*For example:* The new parent who feels joy and grief for the old life simultaneously — the practice is letting both be there, without demanding they pick a side.
+
 ## Psychology parallels
 
 - **Mixed emotions are a distinct and measurable state**, not a failure to resolve (Larsen & McGraw, 2011; Miyamoto et al., 2017)
