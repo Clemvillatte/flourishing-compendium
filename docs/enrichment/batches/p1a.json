@@ -16,11 +16,12 @@
   "P139",
   "D078",
   "E003",
-  "E011"
+  "E011",
+  "D039"
  ],
- "in_progress": "D039",
+ "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
- "sources_checked": 15,
- "updated": "2026-10-19T11:45:46+00:00"
+ "sources_checked": 16,
+ "updated": "2026-10-19T11:47:54+00:00"
 }
