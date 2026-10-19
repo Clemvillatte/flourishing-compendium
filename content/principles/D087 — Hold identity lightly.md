@@ -12,13 +12,19 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 87** — Hold identity lightly
 
-Zhuangzi dreams he is a butterfly, wakes, and doesn't insist on which is real. Your self-story is one more dream: useful, not final.
+Zhuangzi closes the second chapter with the butterfly dream: "Formerly, I, Zhuang Zhou, dreamt that I was a butterfly, a butterfly flying about, feeling that it was enjoying itself... Suddenly I awoke, and was myself again, the veritable Zhou. I did not know whether it had formerly been Zhou dreaming that he was a butterfly, or it was now a butterfly dreaming that it was Zhou. But between Zhou and a butterfly there must be a difference. This is a case of what is called the Transformation of Things" (Zhuangzi 2, [Legge's translation](https://www.silkqin.com/02qnpu/07sqmp/sq60zzmd.htm)). The point is not that nothing is real. Zhuangzi simply declines to certify which identity is the final one, and names the gap between them wuhua, the transformation of things: identity as a process of change rather than a fixed possession ([Interpreting the Butterfly Dream](https://www.tandfonline.com/doi/full/10.1080/09552360802673781)). Holding identity lightly is the practical corollary. Your self-story is equipment: use it, and do not mistake it for the hand.
 
-(Zhuangzi 2.)
+**Plain words**
+You did not choose most of what you call yourself: the name, the nationality, the "I'm just not a math person." They were handed to you, and they work well enough as handles. The trouble starts when the handle starts using you: when "I'm a shy person" starts deciding which class you take, or "I'm not the kind who..." decides what you attempt. Holding identity lightly means treating each label as a costume you can notice wearing, and asking, now and then, whether the costume still fits what the day requires.
 
-**Plain words** Zhuangzi dreams he's a butterfly, wakes, and doesn't insist on which is real. Your self-story is one more dream — useful, not final. Hold your identity like a costume you're wearing well, not like skin.
-
+**For example**
 *For example:* The 'I'm just not a math person' identity dissolves in a good course — the butterfly was never the whole story.
+
+## Sources
+
+- [Legge's translation of the butterfly dream, Zhuangzi ch. 2 (Qiwulun), with the Chinese](https://www.silkqin.com/02qnpu/07sqmp/sq60zzmd.htm) — verbatim text
+- ["Interpreting the Butterfly Dream," Interdisciplinary Studies of Literature](https://www.tandfonline.com/doi/full/10.1080/09552360802673781) — wuhua, the transformation of things
+- [Burton Watson's translation (PDF)](http://www.csun.edu/~vcoao0fk/Zhuangzi.pdf) — comparison translation
 
 ## Stories
 
