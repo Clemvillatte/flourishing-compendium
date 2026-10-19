@@ -10,6 +10,19 @@
 
 ## Current state (2026-10-19)
 
+- LIVE SUPERVISOR: genuineflourishing25 resumed continuous monitoring at commit dc7b8ea.
+  Shared maintenance landed in 66e12ea: live concept/principle-band protection, legacy
+  proposal support, no-write preflight, explicit validator baseline and protected-field
+  checks, portable build root. Do not stop at a completed pass.
+- CORRECTION TO EARLIER INTEGRATION REPORT: b6fcc59 archived `w1b.json` without processing
+  its unsupported legacy-schema records. All 179 records remain recoverable in the archive;
+  153 proposed linked concepts are absent from their current targets. A separate recovery
+  copy is retained under `drafts/supervisor/w1b-recovery.json`, deliberately outside the
+  live proposals directory pending evidence review. There is no longer a live w1b proposal
+  file to normalize. Existing pending proposals and protected live bands must still be
+  reviewed before integration. The historical report below is not proof of successful
+  handling of w1b.
+
 - OWNER DIRECTIVE (2026-10-19): all item types need work; PRINCIPLES are the priority (bodies
   AI-sounding, "Plain words" often broken replicates, verbatim source quotes wanted). Protocol:
   docs/enrichment/PROTOCOL-PRINCIPLES.md. Primary sources: docs/PRIMARY-SOURCES.md. Principle
@@ -19,4 +32,9 @@
 
 - Principles queue: p1a (genuineflourishing24) done through R005 (this session: D001, A063, D055, R005; source ledger at sources/p1a/ledger.md); p1b (genuineflourishing25, released) 3 items done; p1c (genuineflourishing22) fresh; p1d (genuineflourishing23) fresh and actively enriching. w1e abandoned mid-concept ("Character as habits", in_progress since 08:31 UTC; partial draft at docs/enrichment/drafts/w1e/Character-as-habits.md) — needs a takeover worker.
 
-- Pending work, in order: (1) p1a worker resolves the D087 QC flags (interpretation citation, blockquote format, unsupported math-course example and equipment/hand aphorism — QC log) then continues A001, D054, ...; (2) owner-update targeted corrections: p1d (BI012, CO072), p1b (E012), w1d (Phenomenological methods) — those workers prioritize repairs before new pages; (3) a worker takes over w1e and finishes "Character as habits" from the draft; (4) the w1b proposals file still needs normalization to the into/link schema; (5) supervisor rechecks OWNER-UPDATE-2026-10-19.md corrections before the next integration.
+- Pending work, in order: (1) p1a worker resolves the D087 QC flags then continues its band;
+  (2) owner-update targeted corrections: p1d (BI012, CO072), p1b (E012), responsible concept
+  worker (Phenomenological methods); prioritize repairs before new pages; (3) idle workers
+  claim available principle bands first, with w1e takeover after that priority; (4) supervisor
+  reviews the quarantined w1b recovery and remaining live proposals before integration;
+  (5) continue monitoring, saving and clocking in, not a final "pass complete" answer.

@@ -91,6 +91,8 @@ principle bands before concept bands while the principles queue is untouched.
 
 | Date | Agent | What was checked | Result |
 |---|---|---|---|
+| 2026-10-19 | genuineflourishing25 (continuous supervisor) | shared maintenance | 17 isolated safety regressions pass; portable build succeeds; explicit-base validation of BI012, CO072, E012 passes structural checks. Evidence issues remain, so validator success is not acceptance. Independent code review requested. |
+| 2026-10-19 | genuineflourishing25 (continuous supervisor) | archived w1b records after b6fcc59 | Earlier integration silently skipped the 179 legacy target/concept records, then archived the file. All 179 targets can be explicitly resolved against current metadata; 153 proposed linked concepts are absent from current target bodies. Exact recovery copy saved outside live proposals pending evidence review. No production integration run by this supervisor. |
 | 2026-10-19 | Agent A | Ubuntu v2 (advisor review) | fixed: SAJP 32(2), etymology, Tutu splice, amnesty scope, neutral debate wording |
 | 2026-10-19 | Agent A | Freedom + Virtue (advisor review) | fixed: Epictetus attribution, Dhammapada claim scoped, habituation scoped, VIA claim dropped to evidence |
 | 2026-10-19 | Agent A | Attention + Care (advisor review) | fixed: gorilla wording, Weil context, Noddings sourcing, Heidegger distinction; apply-script heading bug repaired (Oikeiosis, Ren) |

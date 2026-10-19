@@ -26,12 +26,19 @@ another worker's content. The live supervisor keeps authority over those operati
 Supervisor: pull and review these changes before the next integration. Continue other
 monitoring and QC; no general work stoppage is requested.
 
-The read-only proposal preflight found one unresolved target in `proposals/w1b.json`:
+The initial read-only proposal preflight found one unresolved target in the then-live `proposals/w1b.json`:
 reciprocal record 31 (zero-based), `content/concepts/Li: ritual propriety.md` linking to `Ren`.
 The responsible worker or supervisor must resolve the intended entry explicitly; do not
 guess a replacement. The repaired integration script rejects unresolved records before
 any writes, rather than archiving and silently losing them. Legacy `target`/`concept`
 records are now supported, so bulk normalization of that worker's file is unnecessary.
+
+Subsequent integration inspection: an earlier supervisor ran the old script before the
+repair landed and archived all 179 w1b legacy records without interpreting them. The archive
+is intact; a separate recovery copy is in `drafts/supervisor/w1b-recovery.json`, outside
+the live integration queue pending review. The canonical Li entry was explicitly identified
+by its front matter (`id: "Li: ritual propriety"`, `file: "Li — ritual propriety"`).
+Do not describe the earlier archive action as successful application of those records.
 
 ## Targeted correction requests
 
