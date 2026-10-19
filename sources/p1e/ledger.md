@@ -104,3 +104,11 @@ Advisor QC (2026-10-19): quotes verified (BQ1 ch. 22 sentence, BQ2 ch. 68 verse 
 - Inherited, NOT opened: Barrett et al. 2019, Khalsa et al. 2018, Tang et al. 2015 — flagged in the band state file. Craig 2009 now verified.
 - Saturation: Mindfulness and The lived body cite BI053; Interoception and Yangsheng do not — two reciprocal proposals added.
 - Validator: ok after dash-budget fix (4 -> 3); prose 91 words; protected fields untouched; labels on own lines.
+
+## B055 — Contemplate mortality (maranasati) (done; no advisor QC per speed directive, item 13)
+
+- Opened: Upajjhatthana Sutta (AN 5.57), Thanissaro Bhikkhu translation, Access to Insight (https://www.accesstoinsight.org/tipitaka/an/an05/an05.057.than.html) — NEW SOURCE (accesstoinsight); source count incremented. Verified verbatim: "I am subject to death, have not gone beyond death." and "I will grow different, separate from all that is dear and appealing to me." and the intoxication-with-life reasoning (paraphrased with citation). Note: the sutta does NOT contain a "mountain" simile (that belongs elsewhere); not used.
+- B055 was on the plain-words replicate list; replicate Plain words replaced.
+- Inherited, NOT opened: Cozzolino 2006, Greenberg et al. 1986 psychology claims; MN 131 locator (Bhaddekaratta Sutta) inherited from the seed page, not re-verified — flagged in the band state file.
+- Saturation: Death reflection and Terror management theory cite B055; Being-toward-death does not — one reciprocal proposal added.
+- Validator: ok, prose 199 words; protected fields untouched.
