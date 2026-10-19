@@ -12,13 +12,16 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 100** — Treat the past as resource, not prison
 
-The facts of the past are fixed; their meaning and use are not. Re-narrate your past in ways that fuel growth: this is not denial but reconstruction.
+The facts of the past are fixed; their meaning and use are not. Re-narrate your past in ways that fuel growth: this is not denial but reconstruction. Dewey states the condition for the past to work as a resource:
 
-(Dewey, Experience and Nature, 1925; James, Psychology: Briefer Course.)
+> "The past is a great resource for the imagination; it adds a new dimension to life, but on condition that it be seen as the past *of* the present, and not as another and disconnected world."
+> (Dewey, Democracy and Education ch. VI, [Standard Ebooks](https://standardebooks.org/ebooks/john-dewey/democracy-and-education/text/chapter-6))
 
-**Plain words** The divorce can be the catastrophe or the curriculum; the facts don't care, and you're the one holding the pen. Re-narrate your past in ways that fuel growth — that's not denial, it's reconstruction.
+His warning in the same chapter is that making the records of the past the main material of life "cuts the vital connection of present and past, and tends to make the past a rival of the present and the present a more or less futile imitation of the past". The past as prison is that disconnection; the past as resource is the past of the present. (Dewey, Experience and Nature, 1925; James, Psychology: Briefer Course.)
 
-*For example:* The failed first business — in one telling, evidence you're not a founder; in another, the reason the second one works. Same facts. The narration is a tool choice.
+**Plain words** A fixed set of facts supports more than one telling. The divorce can be the catastrophe in one narration or the curriculum in another, and both narrations use the same facts. Dewey's condition marks the line between them: a telling that connects the past to what you are doing now is a resource; a telling that makes the past a rival of the present is the prison.
+
+*For example:* A failed first business: one telling says you are not a founder; another says it is the reason the second one works. Same facts. The narration is a tool choice.
 
 ## Practice kernels
 
