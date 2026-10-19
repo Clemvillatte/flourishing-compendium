@@ -214,3 +214,11 @@ Advisor QC (2026-10-19): quotes verified (BQ1 ch. 22 sentence, BQ2 ch. 68 verse 
 - Inherited, NOT opened: Piaget 1954, Bruner 1966, Roediger and Karpicke 2006, Dunlosky et al. 2013 claims — flagged in the band state file.
 - Saturation: Constructivist learning theory, Knowledge as construction, Learning by doing cite CO008; no "The testing effect / retrieval practice" concept page exists; no justified new proposals.
 - Validator: ok, prose 147 words; protected fields untouched.
+
+## CO011 — Recognise that thinking can be fused with its content (done; no advisor QC per speed directive, item 24)
+
+- Opened: Anattalakkhana Sutta (SN 22.59), Thanissaro Bhikkhu translation, Access to Insight (https://www.accesstoinsight.org/tipitaka/sn/sn22/sn22.059.than.html) — accesstoinsight edition already counted; no new increment. Verified verbatim: "Any consciousness whatsoever that is past, future, or present; internal or external; blatant or subtle; common or sublime; far or near: every consciousness is to be seen as it actually is with right discernment as: 'This is not mine. This is not my self. This is not what I am.'"
+- Plain words kept (genuine re-derivation); the outcome-asserting tail of the For example ("Only one of them performs") removed; labels reformatted.
+- Inherited, NOT opened: Hayes et al. 2011, Gillanders et al. 2014, Masuda et al. 2004, Deacon et al. 2011 claims — flagged in the band state file.
+- Saturation: Cognitive defusion and The observing self cite CO011; Anatta does not — one reciprocal proposal added.
+- Validator: ok, prose 174 words; protected fields untouched.
