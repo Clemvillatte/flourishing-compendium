@@ -12,13 +12,15 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 62** — Expect multiple selves: and coordinate them
 
-A person has as many social selves as there are others who recognize them; these selves can conflict. The task is not to find the one true self but to coordinate the many into a workable whole.
+James states the fact flatly in The Principles of Psychology: a man has as many social selves as there are individuals who recognize him and carry an image of him in their mind ([James 1890, ch. X, York Classics](https://psychclassics.yorku.ca/James/Principles/prin10.htm)). This is not a metaphor for inconsistency — it is the structure of being known. Each audience that carries an image of you is holding one of your selves, and wounding that image wounds you.
 
-(James, The Principles of Psychology, 1890.)
+James's key insight follows immediately: because audiences fall into classes, the practical version is that you have as many social selves as there are groups about whose opinion you care, and you generally show a different side to each. The example he reaches for is a youth who is demure before parents and teachers but swears and swaggers among his tough friends ([James 1890, ch. X](https://psychclassics.yorku.ca/James/Principles/prin10.htm)). The question is not whether this happens — it does — the question is whether the division is a discordant splitting or a harmonious division of labour.
 
-**Plain words** You're not a hypocrite; you're a committee. A person has as many social selves as there are people who recognize them — the task isn't finding the one true self but coordinating the many into a workable whole.
+> "Properly speaking, a man has as many social selves as there are individuals who recognize him and carry an image of him in their mind. To wound any one of these his images is to wound him... He generally shows a different side of himself to each of these different groups." (William James, The Principles of Psychology, 1890, ch. X, [York Classics](https://psychclassics.yorku.ca/James/Principles/prin10.htm))
 
-*For example:* Party-you, work-you, family-you — the goal isn't one monovoice. It's a committee that stops scheduling fights in the parking lot.
+**Plain words** You are not one person who occasionally acts out of character; you are several versions of yourself that different audiences pull to the surface. The work-you and the family-you are not the same person, and neither is fake. The danger is when one self needs to be hidden from another group — that is where the structure starts to cost you energy and sleep. The task is not to collapse them into one; it is to make sure they are not at war.
+
+*For example:* A manager who is warm at home and cold with direct reports is not a hypocrite — they have two audiences pulling different sides. But the version where direct reports can never be told about the home life, and the partner can never be told about work, is the one that starts to fracture. Coordination is not transparency; it is making sure no self requires another to be hidden.
 
 ## Psychology parallels
 
