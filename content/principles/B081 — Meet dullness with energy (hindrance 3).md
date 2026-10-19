@@ -13,15 +13,15 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 
 > **Principle 81** — Meet dullness with energy (hindrance 3)
 
-The sutta names sloth and drowsiness as one of the five hindrances to meditation, and identifies the right remedy by the state of the mind itself. When the mind is sluggish, the answer is not to suppress the dullness but to bring in the qualities that raise energy: analysis, persistence, rapture ([SN 46.53, Thanissaro Bhikkhu, AccessToInsight](https://www.accesstoinsight.org/tipitaka/sn/sn46/sn46.053.than.html)). The practitioner does not diagnose the dullness as a moral failure.
+MN 10 names sloth and drowsiness as one of the five hindrances the meditator is to notice; SN 46.53 gives the corresponding remedy for a sluggish mind. The sutta does not treat dullness as a fault to be suppressed. It treats it as a condition to be met with specific qualities, and it names them: analysis of qualities, persistence, rapture ([MN 10](https://accesstoinsight.org/tipitaka/mn/mn.010.than.html), [SN 46.53](https://www.accesstoinsight.org/tipitaka/sn/sn46/sn46.053.than.html)).
 
 > Now, on any occasion when the mind is sluggish, that is the right time to develop analysis of qualities as a factor for awakening, persistence as a factor for awakening, rapture as a factor for awakening. Why is that? The sluggish mind is easy to raise up by those mental qualities.
 >
 > — Samyutta Nikaya 46.53, Aggi Sutta ([Thanissaro Bhikkhu, AccessToInsight](https://www.accesstoinsight.org/tipitaka/sn/sn46/sn46.053.than.html))
 
-**Plain words** The compendium's practice-kernel guidance is to treat dullness as a signal about the state of the nervous system rather than as a character flaw. You can act on the state before acting on the meditation: straighten the posture, open the eyes, take a few standing breaths. The compendium's label for this is "meet dullness with energy." The sutta's own metaphor treats energy as something that can be raised by feeding the mind qualities it can use, like dry grass fed to a small fire that you want to grow.
+**Plain words** The compendium's application of the sutta is to read dullness in meditation as a state that the practice itself gives a remedy for. The sutta's own comparison is a small fire: a sluggish mind is easy to raise up by the named qualities, the way a small fire is easy to grow by adding dry material. The practitioner's job is to notice the sluggishness, then to bring in those named qualities rather than only pushing harder at concentration.
 
-For example (imagined): a practitioner sitting to meditate notices heavy eyelids and drifting thoughts. Instead of pushing harder at concentration, they straighten the spine, open the eyes to light, and take several upright breaths before returning to the breath practice.
+For example (imagined): a practitioner sitting to meditate notices heavy eyelids and drifting attention. They take up the sutta's instruction in its own terms: bringing analysis of qualities and persistence into the sitting, rather than treating the dullness itself as the target to attack.
 
 (MN 10; SN 46.53.)
 
