@@ -3,7 +3,8 @@
  "done": [
   "D074",
   "D088",
-  "D117"
+  "D117",
+  "D144"
  ],
  "in_progress": null,
  "flagged": {
@@ -11,6 +12,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 2,
- "updated": "2026-10-19T12:16:41+00:00",
+ "updated": "2026-10-19T12:17:03+00:00",
  "band_done": false
 }

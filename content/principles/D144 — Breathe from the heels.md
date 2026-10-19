@@ -12,13 +12,16 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 144** — Breathe from the heels
 
-The True Person breathes from the depths: a breath that reaches the heels, not a shallow chest-sip. Lengthen and deepen the exhale; let breath slow the mind.
+The True Person breathes from the depths: a breath that reaches the heels, not a shallow chest-sip. The picture comes from the Zhuangzi, where breathing marks the difference between the true man and everyone else:
 
-(Zhuangzi 6.)
+> "Their breathing came deep and silently. The breathing of the true man comes (even) from his heels, while men generally breathe (only) from their throats."
+> (Zhuangzi 6, [Legge's translation](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
 
-**Plain words** The True Person breathes from the depths — a breath that reaches the heels, not a shallow chest-sip. Lengthen and deepen the exhale; let breath slow the mind. Shallow breathing tells the body there's a tiger; deep breathing tells it the truth.
+The lines that follow apply the gauge to argument: when men are defeated in argument, "their words come from their gullets as if they were vomiting. Where lusts and desires are deep, the springs of the Heavenly are shallow." The breath reads out what is running a person. The practice the compendium takes from this: lengthen and deepen the exhale; let breath slow the mind. (Zhuangzi 6.)
 
-*For example:* Singers and divers know it instinctively — the low, full breath that says 'everything is fine' to every cell.
+**Plain words** Legge's true man is marked out by how he breathes: deep and silent, from the heels; other men, from the throat. The gauge runs both ways, so you can use it on yourself. Notice where your breath is coming from right now; a throat-breath is a reading, not a verdict. Lengthen the exhale and see what the mind does as the breath settles.
+
+*For example:* Suppose you are about to give a difficult answer in a meeting. One slow exhale first. The pause costs a second and buys a breath that is not from the throat.
 
 ## Stories
 
