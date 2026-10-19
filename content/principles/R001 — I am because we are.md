@@ -12,13 +12,22 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 263** — I am because we are
 
-Recognise that your identity, your humanity, and your flourishing are constituted through relationship with others. You cannot be fully human alone. Every encounter with another person is an encounter with your own humanity. Practise this by never treating another person as merely instrumental to your own ends.
+Tutu describes the idea the principle is named for:
+
+> "Ubuntu … means my humanity is caught up, is inextricably bound up, in theirs. We belong to a bundle of life. We say, 'a person is a person through other people'. It is not 'I think therefore I am'. It says rather: 'I am human because I belong'. I participate, I share." (Tutu, No Future Without Forgiveness, 2009 edn., pp. 34-35, quoted in [Banda & Mudzanire 2019](http://hts.org.za/index.php/hts/article/download/5468/13242))
+
+Mbiti gives the formula the title echoes: "I am, because we are; and since we are, therefore I am" (Mbiti, African Religions and Philosophy, 1990 edn., p. 106, quoted in the same article). Tutu draws the practical consequence: a person with ubuntu "is diminished when others are humiliated or diminished, when others are tortured or oppressed, or treated as if they were less than who they are".
 
 (Ubuntu philosophy; Desmond Tutu, No Future Without Forgiveness; John Mbiti, African Religions and Philosophy.)
 
-**Plain words** You are not a self who then has relationships — you're made of them. The Zulu line says a person is a person through other persons: your humanity is something built between you and others, encounter by encounter. So treat no one as a mere tool on your way to your ends; each one is part of what you are.
+**Plain words** You are not a self who first exists and then has relationships; you are made of them. The saying runs a person is a person through other persons: your humanity is something built between you and others, encounter by encounter. So treat no one as a mere tool on your way to your ends; each one is part of what you are.
 
-*For example:* The driver who stops treating the call-centre worker as an obstacle in the phone queue, and starts treating them as a person — and notices the whole day reorganises around that one switch.
+*For example:* Take the call-centre worker you are about to treat as an obstacle in the phone queue. Tutu's sentence is about them: your humanity, he says, is bound up in theirs. The check is the next thing you say.
+
+## Sources
+
+- [Banda & Mudzanire 2019, HTS Teologiese Studies (open access), quoting Tutu's No Future Without Forgiveness and Mbiti's African Religions and Philosophy](http://hts.org.za/index.php/hts/article/download/5468/13242)
+
 ## Stories
 
 - [[ST033 — Mandela's Twenty-Seven Years|33. Mandela's Twenty-Seven Years]]
