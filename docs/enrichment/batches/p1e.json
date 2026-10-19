@@ -50,7 +50,8 @@
   "A021",
   "A022",
   "SP084",
-  "A025"
+  "A025",
+  "A045"
  ],
  "in_progress": null,
  "flagged": {
@@ -89,11 +90,12 @@
   "SP084": "Reopened for QC: QC round 4: body arithmetic paragraph to be removed (duplication + unsupported 'whole of his own illustration'), V P25/P27 to standalone blockquotes",
   "A012": "inherited psychology parallels (Mischel, Duckworth, Bowen) and Epicurus/Dhammacakkappavattana parallels not opened; preserved",
   "A021": "inherited psychology parallels (Tangney/Dearing, Haidt) and Woodruff reverence parallel not opened; preserved",
-  "A025": "inherited MM I.25 locator, Tracy/Robins parallels and NE IX.8 parallel not opened; preserved"
+  "A025": "inherited MM I.25 locator, Tracy/Robins parallels and NE IX.8 parallel not opened; preserved",
+  "A045": "inherited VI.9 locator, Schwartz/Gollwitzer parallels, Peirce/Dewey parallels not opened; preserved"
  },
  "missing_concepts": [],
  "sources_checked": 25,
- "updated": "2026-10-19T14:41:46+00:00",
+ "updated": "2026-10-19T14:42:23+00:00",
  "band_done": false,
  "takeover": {
   "by": "genuineflourishing35",

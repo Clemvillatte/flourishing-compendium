@@ -12,13 +12,23 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 45** — Deliberate well
 
-Deliberation is not endless analysis. It is the process of working out what is in our power, what we can do, and what course of action leads to the good. Good deliberation considers the right things, in the right order, for the right amount of time, and reaches a conclusion. Do not deliberate about what cannot be otherwise.
+Aristotle draws the bounds of deliberation sharply, verbatim:
+
+> "We deliberate not about ends but about means. For a doctor does not deliberate whether he shall heal, nor an orator whether he shall persuade, nor a statesman whether he shall produce law and order, nor does any one else deliberate about his end. They assume the end and consider how and by what means it is to be attained." (NE III.3, [Ross, MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html))
+
+The subjects worth deliberating are the ones where our effort counts and the outcome is obscure. "Now about eternal things no one deliberates, e.g. about the material universe or the incommensurability of the diagonal and the side of a square" (NE III.3), and neither do we deliberate about what cannot be otherwise. Deliberation is a search rather than a rehearsal of grievances: "all deliberation is investigation," an analysis of means that runs backward from the goal, and if it hits an impossibility it stops, "e.g. if we need money and this cannot be got; but if a thing appears possible we try to do it" (NE III.3).
+
+Good deliberation therefore considers the right things, in the right order, for the right amount of time, and reaches a conclusion. Fix the end first, then search the means and check each against possibility.
 
 (NE III.2-3, VI.9.)
 
-**Plain words** Deliberation isn't endless analysis. It's working out what's in your power and which path leads somewhere good, in the right order and in reasonable time, and then concluding. Don't weigh things you can't change.
+**Plain words** Deliberation starts after you have settled what you want. The doctor does not ask whether to heal; she asks how. Your version: state the end in one sentence, list the routes to it, strike the ones you cannot actually take, and pick. Anything you are turning over that you cannot change is not deliberation, however long you spend on it.
 
 *For example:* Deciding how to respond to a delayed flight means looking at rebooking options, not rehearsing why the airline failed.
+
+## Sources
+
+- [Aristotle, Nicomachean Ethics III, Ross translation (MIT Classics)](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html) — III.3, deliberation about means not ends, eternal things excluded, the backward analysis of means
 
 ## Stories
 
