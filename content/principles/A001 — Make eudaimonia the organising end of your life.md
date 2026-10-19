@@ -12,13 +12,16 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 1** — Make eudaimonia the organising end of your life
 
-Eudaimonia is not a mood or a pleasure. It is a whole life lived well: activity of the soul [[Virtue|in accordance with virtue]], over a complete span. Choose your actions by asking what kind of human life they are helping you become capable of living.
+Aristotle defines the human good in Book I:
 
-(NE I.7, I.13.)
+> "human good turns out to be activity of soul in accordance with virtue, and if there are more than one virtue, in accordance with the best and most complete."
+> (NE I.7, [W. D. Ross's translation](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html))
 
-**Plain words** Eudaimonia isn't a good mood or a nice weekend. Aristotle means a whole life lived well, over decades. So when you're choosing, don't only ask what feels good now. Ask what kind of person, and what kind of life, this choice makes more possible.
+The function argument connects the human good with performing activities involving reason well, [[Virtue|in accordance with virtue]]. Aristotle adds that this must extend over "a complete life": one day or a short time cannot establish happiness (NE I.7). Book I.13 then turns to examining virtue in order to clarify happiness. The compendium applies this account by asking how particular choices contribute to living and acting well over time. (NE I.7, I.13.)
 
-*For example:* Taking the job with the better title but a commute that eats your evenings with your kids: the real question is what that trade does to the life you're building.
+**Plain words** On Aristotle's account, living well involves using your abilities well in what you actually do. One enjoyable day cannot show that you have lived well over time. When choosing, ask whether an option helps you exercise good judgment and fulfil your responsibilities across the life you are living.
+
+*For example:* Suppose a promotion would leave less time with your children. Consider how each option would affect the care you give them and the work you undertake, alongside the title and pay.
 
 ## Stories
 
@@ -73,7 +76,8 @@ Eudaimonia is not a mood or a pleasure. It is a whole life lived well: activity 
 ## Philosophy parallels
 
 - **The good life as process** (Rogers, On Becoming a Person)
-- **[[Flourishing as capability|Flourishing as capability]]** (Nussbaum, Creating Capabilities)- **[[Eudaimonia|Eudaimonia]]** (Aristotelianism)
+- **[[Flourishing as capability|Flourishing as capability]]** (Nussbaum, Creating Capabilities)
+- **[[Eudaimonia|Eudaimonia]]** (Aristotelianism)
 
 
 <!-- fc: reflections
