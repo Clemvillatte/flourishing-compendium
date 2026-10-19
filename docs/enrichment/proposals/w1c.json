@@ -15,11 +15,12 @@
   "Moral situation research",
   "PEN Model",
   "Positivity effect",
-  "Right livelihood"
+  "Right livelihood",
+  "Sabbath"
  ],
  "flagged": {},
  "missing_concepts": [],
- "sources_checked": 45,
+ "sources_checked": 47,
  "inline": [],
  "reciprocal": [
   {
@@ -451,6 +452,36 @@
    "into": "Calling orientation",
    "link": "Right livelihood",
    "why": "the ancient version of work-as-calling"
+  },
+  {
+   "into": "Psychological detachment",
+   "link": "Sabbath",
+   "why": "the institutionalized version of weekly detachment"
+  },
+  {
+   "into": "Recovery experiences",
+   "link": "Sabbath",
+   "why": "the ancient weekly container for the recovery taxonomy"
+  },
+  {
+   "into": "Effort-recovery cycles",
+   "link": "Sabbath",
+   "why": "the rhythm this institution set to seven days"
+  },
+  {
+   "into": "Attention restoration",
+   "link": "Sabbath",
+   "why": "the mandated rest that attention science later mapped"
+  },
+  {
+   "into": "Leisure",
+   "link": "Sabbath",
+   "why": "the sanctified ancestor of the leisure ideal"
+  },
+  {
+   "into": "Sleep hygiene (CBT-I)",
+   "link": "Sabbath",
+   "why": "the weekly rhythm the sleep clinic prescribes daily"
   }
  ],
  "notes": "First concept: Amor sui (right self-love). All 12 original links preserved. Facets section (vs self-contempt) folded into prose. Definition quote is Ethics IIIp55 scholium (verified against Gutenberg Elwes text); rational demand is IVp18 scholium. Related-clause support sources (SEP Rousseau/Nietzsche/Stoicism, Wikipedia self-compassion) listed in the page's Sources section. | deferred at this run (target band busy): 6 recip, 0 inline | deferred at this run (target band busy): 21 recip, 0 inline"
