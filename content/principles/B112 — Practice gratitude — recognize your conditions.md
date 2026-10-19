@@ -13,15 +13,15 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 
 > **Principle 112** — Practice gratitude: recognize your conditions
 
-The Kataññu Suttas frame gratitude as a mark of integrity, not a pleasant addition to it. The Buddha contrasts the person of integrity with the person of no integrity, and the distinguishing mark is whether they can register what someone has done for them ([AN 2:31-32, Thanissaro Bhikkhu](https://www.dhammatalks.org/suttas/AN/AN2_31.html)). The sutta goes on to name parents as the clearest case: the debt of care is real, and even extreme physical service does not discharge it.
+The Kataññu Suttas frame gratitude as a mark of integrity rather than as a pleasant addition to it. The Buddha contrasts the person of integrity with the person of no integrity; the distinguishing mark is whether they register what someone has done for them ([AN 2:31-32, Thanissaro Bhikkhu](https://www.dhammatalks.org/suttas/AN/AN2_31.html)). The sutta then names parents as the clearest case, and goes further: even extreme physical service does not discharge that debt, though establishing parents in conviction, virtue, generosity and discernment does begin to repay it.
 
 > A person of no integrity is ungrateful & unthankful. This ingratitude, this lack of thankfulness, is advocated by rude people. It is entirely on the level of people of no integrity. A person of integrity is grateful & thankful. This gratitude, this thankfulness, is advocated by civil people. It is entirely on the level of people of integrity.
 >
-> — Aṅguttara Nikāya 2:32, Kataññu Sutta ([Thanissaro Bhikkhu](https://www.dhammatalks.org/suttas/AN/AN2_31.html))
+> — Aṅguttara Nikāya 2:31-32, Kataññu Suttas ([Thanissaro Bhikkhu](https://www.dhammatalks.org/suttas/AN/AN2_31.html))
 
-**Plain words** Gratitude in this sutta is not a mood you wait to feel; it is a fact you register about how your life is held up. The body of the principle names what you actually depend on — food, safety, understanding, ability — and the practice is to notice that these arrive through other people's labor. The noticing is the practice. You do not have to solve the debt, only to see it.
+**Plain words** The compendium's application of this principle asks the reader to notice, in their own life, the particular people whose labor and care make things possible for them, and to consider what acknowledging or returning that care would actually involve. The sutta does not stop at the noticing; it treats the noticing as something that leads toward a response.
 
-For example (imagined): A person sits down to a meal and names, briefly, three of the people whose work brought it to the table. The meal is unchanged; the person's attention has changed.
+For example (imagined): a person sits down to a meal and names, briefly, three of the people whose work brought it to the table. The meal is unchanged; the person's attention has changed.
 
 (Katannuta Suttas, AN 2:31-32; Thích Nhất Hạnh.)
 

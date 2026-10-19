@@ -13,15 +13,15 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 
 > **Principle 160** — Question authority: even the Buddha's
 
-The Kalama Sutta gives the instruction in its own terms. The Buddha tells a group of laypeople that a claim is not to be accepted because the person saying it is a teacher; it is to be accepted when the listener has found for themselves that following it leads to welfare rather than harm. The point is not skepticism about the teacher's knowledge; it is that the practitioner has to run the check, since no one else can ([AN 3.65, Thanissaro Bhikkhu, AccessToInsight](https://www.accesstoinsight.org/tipitaka/an/an03/an03.065.than.html)).
+The Kalama Sutta gives the instruction in its own terms. The Buddha tells a group of laypeople not to accept a claim because the person saying it is a teacher, and gives the actual criteria for acceptance: whether the qualities the teaching encourages are skillful, blameless, praised by the wise, and lead to welfare and happiness when adopted and carried out ([AN 3.65, Thanissaro Bhikkhu, AccessToInsight](https://www.accesstoinsight.org/tipitaka/an/an03/an03.065.than.html)).
 
 > Now, Kalamas, don't go by reports, by legends, by traditions, by scripture, by logical conjecture, by inference, by analogies, by agreement through pondering views, by probability, or by the thought, 'This contemplative is our teacher.' When you know for yourselves that, 'These qualities are skillful; these qualities are blameless; these qualities are praised by the wise; these qualities, when adopted & carried out, lead to welfare & to happiness' — then you should enter & remain in them.
 >
 > — Aṅguttara Nikāya 3.65, Kalama Sutta ([Thanissaro Bhikkhu, AccessToInsight](https://www.accesstoinsight.org/tipitaka/an/an03/an03.065.than.html))
 
-**Plain words** The sutta's instruction is practical, not theoretical. You are not being asked to hold that nothing is true; you are being asked to notice whether the teaching, when you actually follow it, produces the results it claims to produce. The Dhammapada verse paired with this principle is a warning aimed in the other direction, at the teacher who wants followers rather than students; the test goes both ways. A teacher who is threatened by being checked is not doing the work the sutta asks of you.
+**Plain words** The compendium's application of this principle asks the reader to notice the criteria the sutta actually names, rather than relying on the source of a teaching. The check the sutta describes is about the qualities a teaching encourages in the person following it, and the effects of those qualities when carried out. The reader applies this in their own situations.
 
-For example (imagined): someone is taught a practice by a respected instructor and does not take it on authority; they try it over some weeks and note whether the practice, as followed, matches what the teacher said it would do.
+For example (imagined): someone is taught a practice by a respected instructor. They consider, for themselves, whether the qualities the practice encourages appear skillful and blameless in their own life, and whether following it appears to lead toward welfare rather than harm.
 
 (Kalama Sutta, AN 3.65; Dhammapada 74.)
 

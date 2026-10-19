@@ -13,10 +13,9 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 
 > **Principle 140** — Rest in don't-know mind
 
-The compendium labels this principle with a Korean Seon phrase, don't-know mind, and anchors it in the Xinxin Ming's warning about what happens when you make distinctions. The older Chinese verse treats discrimination as the obstacle, not the absence of knowledge; the mind that stops sorting things into liked and disliked can settle. The Korean teacher Seung Sahn later gave the same instruction in plainer speech.
+The compendium pairs two teachings under this title. One is the Xinxin Ming, the Chinese verse attributed to the third Zen patriarch, which treats the sorting of liked against disliked as the obstacle to seeing clearly. The other is the teaching of the Korean teacher Seung Sahn, whose phrase "only don't know" the principle's title carries. The compendium places these alongside one another; it does not claim they say the same thing.
 
-> To set up what you like against what you dislike
-> is the disease of the mind.
+> To set up what you like against what you dislike / is the disease of the mind.
 >
 > — Xinxin Ming (Sengcan, trans. Richard B. Clarke, [Terebess](https://terebess.hu/english/hsin.html))
 
@@ -24,9 +23,9 @@ The compendium labels this principle with a Korean Seon phrase, don't-know mind,
 >
 > — Seung Sahn, The Compass of Zen ([Kwan Um School of Zen](https://kwanumzen.org/teaching-blog/i-only-teach-dont-know))
 
-**Plain words** The instruction is not to have no opinions. It is to notice when you are about to turn a first impression into a settled verdict, and to hold the verdict lightly instead of closing on it. The Xinxin Ming calls the sorting itself the disease; you can test the claim by watching what happens to the mind's rest once you stop ranking the thing you are looking at. A person who enters a conversation already holding a conclusion hears only the parts that fit it.
+**Plain words** The compendium's application of this principle asks the reader to notice when they are about to turn a first impression into a settled verdict, and to hold the verdict lightly instead of closing on it. The Xinxin Ming names the sorting itself as the disease; what follows from that for the reader's own conduct is left to the reader to determine.
 
-For example (imagined): someone meets a new colleague and notices they are already forming a judgment about them. They let the judgment stay provisional, and continue the conversation without having settled it.
+For example (imagined): someone meets a new colleague and notices they are already forming a judgment. They let the judgment stay provisional, and continue the conversation without having settled it.
 
 (Korean Seon: "don't know"; Xinxin Ming.)
 
