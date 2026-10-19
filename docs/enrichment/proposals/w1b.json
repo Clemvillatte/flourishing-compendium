@@ -16,13 +16,14 @@
   "Experience plus reflection",
   "Express by shaping, not venting",
   "Heart rate variability theory",
-  "Identified versus introjected motivation"
+  "Identified versus introjected motivation",
+  "Locus of control"
  ],
  "flagged": {
   "Perspective-getting": "seed cites 'Epley et al., 2007' for 'asking beats perspective-taking'; no such perspective-getting paper could be found (canonical: Epley et al. 2004 anchoring; Eyal, Steffel & Epley 2018 JPSP 114(4):547-571 'Perspective mistaking'). Original line kept, prose cites the verified papers."
  },
  "missing_concepts": [],
- "sources_checked": 38,
+ "sources_checked": 40,
  "inline": [],
  "reciprocal": [
   {
@@ -649,6 +650,41 @@
    "target": "content/concepts/Growth mindset.md",
    "concept": "Identified versus introjected motivation",
    "why": "valuing the process, a friendly identified motive"
+  },
+  {
+   "target": "content/concepts/Self-efficacy.md",
+   "concept": "Locus of control",
+   "why": "the belief about capability, locus's Bandura sibling"
+  },
+  {
+   "target": "content/concepts/Identified versus introjected motivation.md",
+   "concept": "Locus of control",
+   "why": "introjection's external perceived locus"
+  },
+  {
+   "target": "content/concepts/The dichotomy of control.md",
+   "concept": "Locus of control",
+   "why": "the Stoic form of the same sorting"
+  },
+  {
+   "target": "content/concepts/Autonomy.md",
+   "concept": "Locus of control",
+   "why": "the need whose support shifts the locus"
+  },
+  {
+   "target": "content/concepts/Growth mindset.md",
+   "concept": "Locus of control",
+   "why": "believing outcomes track effort"
+  },
+  {
+   "target": "content/concepts/Control theory of self-regulation.md",
+   "concept": "Locus of control",
+   "why": "the feedback-loop framing of the same problem"
+  },
+  {
+   "target": "content/concepts/Wu wei.md",
+   "concept": "Locus of control",
+   "why": "acting where the leverage is"
   }
  ],
  "notes": "continues after lead applied the first proposals file (moved to applied/)"
