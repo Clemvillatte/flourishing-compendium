@@ -9,10 +9,11 @@
  "in_progress": null,
  "flagged": {
   "D017": "QC note: inherited scab example kept per protocol; advisor calls it a medical claim needing a source; supervisor to arbitrate",
-  "BI012": "QC note: inherited example line (thyroid/willpower vignette) kept per protocol 'keep faithful examples'; advisor prefers replacement; supervisor to arbitrate",
-  "CO072": "QC note: inherited feeds/retraining example kept per protocol; advisor wants cognitive-endurance training trial evidence; supervisor to arbitrate"
+  "BI012": "QC round 3: list narrowed to principle's own directive + thyroid evidence only; inherited example still flagged for supervisor",
+  "CO072": "QC round 3: Mrazek 2013 RCT added as direct cognitive-training evidence; difficult-page efficacy claim removed; feeds example still flagged for supervisor",
+  "D095": "QC round 3: plain words now faithful explanation + separate application; It=vital essence verified from opened excerpt"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-19T10:07:03+00:00"
+ "updated": "2026-10-19T10:09:54+00:00"
 }
