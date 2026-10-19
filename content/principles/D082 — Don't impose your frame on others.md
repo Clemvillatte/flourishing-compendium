@@ -12,13 +12,21 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 82** — Don't impose your frame on others
 
-You are not a fish, so you don't know what fish enjoy: and yet people enjoy being told what they enjoy. Offer your view; don't install it.
+The principle comes from the fish debate at the end of the Zhuangzi's "Autumn Floods". Zhuangzi, watching fish dart below the dam over the Hao, says they are enjoying themselves. Huizi asks how a man who is not a fish could know that. The question sounds like humility, but it works as a frame: it settles in advance who may say anything about whose experience. Zhuangzi turns the same move back on Huizi, and the debate ends without a verdict on the fish. What survives the exchange is the method: a claim about what someone else feels is made from a position, and the position can be questioned as easily as the claim.
 
-(Zhuangzi 17.)
+> "You are not a fish; how do you know what constitutes the enjoyment of fishes?" (Zhuangzi 17, [Legge](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
 
-**Plain words** You are not a fish, so you don't know what fish enjoy — and yet people enjoy being told what they enjoy. Offer your view; don't install it. Most advice-giving is projection in a costume, and everyone can tell.
+> "You are not I. How do you know that I do not know what constitutes the enjoyment of fishes?" (Zhuangzi 17, [Legge](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
+
+The principle takes the first half of the exchange as a warning and the second half as a demonstration. The warning: you are not the other person, so your reading of their inner life is a reading, not a report. The demonstration: the frame that says you cannot know is itself a claim about somebody, and it can be met with its own question. The practice sits between the two: offer the view, keep the question open, and let the other person's reply rather than your projection settle the matter.
+
+**Plain words** When you say what someone else feels or wants, look at the sentence's shape. It presents itself as a report on them; it is a report on you, saying what you would feel in their place. That can be worth saying, and it is always a guess. The habit to build is the pause between the guess and the announcement: ask them, or offer the guess as a guess and let them correct it. The correction is the only first-hand information you will get about their experience, and it arrives only where the guess was offered rather than installed.
 
 *For example:* Assuming your quiet colleague is miserable and needs 'bringing out of their shell' — maybe the shell is the happiness.
+
+## Sources
+
+- [Zhuangzi, ch. 17 "Autumn Floods", Legge translation (METIS English Classics)](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — the fish debate over the Hao; quotations verbatim
 
 ## Stories
 
