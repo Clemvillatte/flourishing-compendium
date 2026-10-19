@@ -16,9 +16,24 @@ Aristotle distinguishes two forms of self-love: the lower form (seeking external
 
 (NE IX.8.)
 
+### The two kinds
+
+Aristotle first takes the common reproach and names what it refers to: "Those then who make it a term of reproach call men lovers of self when they assign to themselves the larger share of money, honors, or bodily pleasures" ([NE IX.8, 1168b, Rackham trans.](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abekker+page%3D1168b)). Then he turns the word over:
+
+> "If a man were always bent on outdoing everybody else in acting justly or temperately or in displaying any other of the virtues, and in general were always trying to secure for himself moral nobility, no one will charge him with love of self nor find any fault with him. Yet as a matter of fact such a man might be held to be a lover of self in an exceptional degree. At all events he takes for himself the things that are noblest and most truly good." — Aristotle, NE IX.8, 1168b (H. Rackham trans., Perseus)
+
+### How far the higher kind goes
+
+It ends, on his account, in what looks like its opposite: "the virtuous man's conduct is often guided by the interests of his friends and of his country, and that he will if necessary lay down his life in their behalf... And this is doubtless the case with those who give their lives for others; thus they choose great nobility for themselves" ([1169a](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abekker+page%3D1169a)). Even the sacrifice is self-love of the higher kind: what the giver takes is nobility.
+
 **Plain words** There are two kinds of self-love. The low kind chases honours and pleasures for yourself. The higher kind wants nobility and virtue for yourself. Aristotle says the higher one is the root of friendship and virtue.
 
 *For example:* Wanting to be someone people can trust, even when it costs you a deal, is the higher kind. Wanting the deal at any price is the lower.
+
+## Sources
+
+- [Aristotle, Nicomachean Ethics IX.8, 1168b (H. Rackham trans., Perseus)](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abekker+page%3D1168b) — the reproach defined; the lover of moral nobility as the true self-lover
+- [Aristotle, Nicomachean Ethics IX.8, 1169a (H. Rackham trans., Perseus)](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abekker+page%3D1169a) — laying down life for friends and country as choosing nobility
 
 ## Practice kernels
 
