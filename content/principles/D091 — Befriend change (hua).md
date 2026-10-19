@@ -12,13 +12,24 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 91** — Befriend change (hua)
 
-Everything transforms without pause; trying to freeze any moment is the source of endless suffering. Flow with the transformation instead of litigating it.
+The principle runs on hua (化), transformation: the Zhuangzi's word for what is happening to everything, always. The dying man is "passing through his change"; the dreamer wakes as "the veritable Zhou"; the difference between Zhou and the butterfly is "a case of what is called the Transformation of Things" (Zhuangzi 2, 6). The Daodejing puts the same observation in the register of return: things flourish, then each returns to its root. Change is not an event that happens to the world; it is the world's normal operation. Suffering enters where a person treats one arrangement as final and litigates its passing.
 
-(Zhuangzi 2, 6; DDJ 16.)
+> "All things alike go through their processes of activity, and (then) we see them return (to their original state)." (DDJ 16, [Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
-**Plain words** The fight against change is the only fight you're guaranteed to lose, and you start it daily. Flow with the transformation instead of litigating it.
+The chapter 6 argument for not litigating comes from Zi-lai, dying while his friend keeps the family from wailing over him. A son follows wherever a parent sends him; "The Yin and Yang are more to a man than his parents are", so refusing the process is "obstinate and rebellious". The image that finishes the case is the foundry: metal that leaps from the pot demanding to be made into a famous sword is "uncanny", and so is a creature that refuses what it is being made into.
+
+> "When we once understand that heaven and earth are a great melting-pot, and the Creator a great founder, where can we have to go to that shall not be right for us? We are born as from a quiet sleep, and we die to a calm awaking." (Zhuangzi 6, [Legge](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
+
+What the principle calls suffering is the protest, and the protest is the one part you can drop. The change itself just is; it was carrying you along before you noticed and will continue after.
+
+**Plain words** Nothing you have is staying. The body you wake in, the friendship you lean on and the mood you start the day with are all mid-process, and the process does not consult you. The instinct is to grip: keep the friendship at its best year, the body at its best decade. The grip costs more than the change ever did, because the change was coming anyway and the grip adds a war to it. Ask of anything you are losing: what is this turning into, and can I meet that instead of defending what it was?
 
 *For example:* Mourning a friendship that seasons changed — people become parents, move, grow apart — instead of letting it become something new.
+
+## Sources
+
+- [Zhuangzi, ch. 2 and 6, Legge translation (METIS English Classics)](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — hua passages; quotations verbatim
+- [Daodejing, ch. 16, Legge translation (Project Gutenberg)](https://www.gutenberg.org/files/216/216-h/216-h.htm) — the return-to-root passage
 
 ## Stories
 
