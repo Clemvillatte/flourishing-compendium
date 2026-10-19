@@ -12,18 +12,24 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 117** — Don't hold the coal: anger returns to harm the holder
 
-Angry actions rebound: the one who lives by hostility is harmed by it first. Don't wait for the world to change before you release it.
+Dhammapada 3-5 connects brooding on injury with continuing hostility, and contrasts hostility with non-hostility as a way of stilling it. The teaching concerns how antagonism is sustained, not a measured law that an angry person is always harmed before anyone else (trans. Thanissaro Bhikkhu, [text](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.than.html)).
 
-(Dhammapada 5; Dhammapada 69.)
+> "Hostilities aren't stilled through hostility, regardless. Hostilities are stilled through non-hostility: this, an unending truth." (Dhammapada 5, trans. Thanissaro Bhikkhu; verse breaks rendered as sentences, [text](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.than.html))
 
-**Plain words** Angry actions rebound — the one who lives by hostility is harmed by it first. Don't wait for the world to change before you release it. Bitterness is a tax you pay daily on something you refuse to sell.
+In a different setting, Carlsmith and colleagues found that opportunities to punish a free rider could prolong rumination and negative feelings. Their laboratory studies do not establish that every form of justice-seeking makes a person worse off ([2008, abstract and Study 1](https://dtg.sites.fas.harvard.edu/CARLSMITH,%20WILSON,%20&%20GILBERT%20(2008).pdf)).
 
-*For example:* The feud's second year: the other person is out living their life; you're the one still paying storage on the grudge.
+### Plain words
+
+The compendium suggests asking what an angry action is meant to accomplish. Are you seeking protection, repair or accountability, or mainly hoping the other person will suffer? You can reconsider a retaliatory action without denying the injury, forgiving on demand or giving up a legitimate complaint.
+
+### For example
+
+Imagine drafting an email designed to humiliate someone who treated you unfairly. Before sending it, identify the specific conduct you want addressed and rewrite the request around that. The example offers a choice about your response; it does not assume the other person has moved on or that anger will immediately end.
 
 ## Psychology parallels
 
-- **Hostility and cardiovascular risk** (Williams)
-- **[[Revenge|Revenge]]**, makes avengers feel worse (Carlsmith et al., 2008)
+- **Hostility and cardiovascular risk**: a meta-analysis of prospective studies found associations with coronary outcomes and indications of publication bias; it does not prove a particular angry episode causes disease ([Chida and Steptoe, 2009, abstract](https://pubmed.ncbi.nlm.nih.gov/19281923/)).
+- **[[Revenge|Revenge]]**: three studies examined mood and rumination after punishment opportunities, with worse-than-expected affective consequences in those settings; they did not directly test forgiveness ([Carlsmith et al., 2008, abstract](https://dtg.sites.fas.harvard.edu/CARLSMITH,%20WILSON,%20&%20GILBERT%20(2008).pdf)).
 
 ## Philosophy parallels
 
