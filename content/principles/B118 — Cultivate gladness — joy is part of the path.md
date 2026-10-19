@@ -12,13 +12,15 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 118** — Cultivate gladness: joy is part of the path
 
-Practice is not grim: joy (piti), lightness, and delight are both supports and fruits of the path. Let yourself be glad.
+Piti, usually translated rapture or joy, is one of the seven factors of awakening, and this is the detail most practice advice leaves out: the list is not a set of austerities. The Buddha's functional instruction in SN 46.53 is explicit — when the mind is sluggish, you develop analysis, persistence and rapture, because rapture is what raises a mind that has gone flat, the way dry grass makes a small fire blaze ([SN 46.53, Aggi Sutta, Thanissaro Bhikkhu translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/sn/sn46/sn46.053.than.html)).
 
-(SN 46; Dhammapada 15.)
+This makes joy not a reward for progress but a mechanism of it. A practice that is grim is not more serious; it is running on the wrong factor for the state it is in. The Dhammapada's line on this is often read as simple encouragement, and is better read as diagnosis: the spiritually mature live with gladness, like a lake without craters ([Dhammapada 82, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html)).
 
-**Plain words** Practice is not grim — joy, lightness, and delight are both supports and fruits of the path. Let yourself be glad. The clenched, grim seeker is doing it wrong; the tradition is suspicious of anything that can't survive a laugh.
+> "When the mind is sluggish, that's the wrong time to develop calm, concentration, and equanimity. You should develop analysis, persistence, and rapture. Just as if a man, wanting to start a small fire, would use dry grass." (SN 46.53, Aggi Sutta, Thanissaro Bhikkhu translation, [Access to Insight](https://www.accesstoinsight.org/tipitaka/sn/sn46/sn46.053.than.html))
 
-*For example:* The meditation group that ends up giggling by minute ten — the lightness wasn't a failure of the practice; it was the practice.
+**Plain words** Most people assume seriousness is what makes a practice work, and then wonder why it keeps dying. Joy is not the dessert of the path; it is one of the seven factors — the specific one that a sluggish mind actually needs. A practice that cannot survive a laugh is not a deeper practice; it is a misdiagnosed one. Letting yourself be glad is not a lapse in discipline.
+
+*For example:* Two people both keep a daily practice. One treats any moment of lightness as a sign they are not doing it properly, and the practice becomes something they endure. The other lets the meditation group end up giggling by minute ten, and shows up again the next day. A year later only one of them is still practising.
 
 ## Psychology parallels
 
