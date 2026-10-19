@@ -14,7 +14,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 
 AN 1.49-52 calls the mind luminous while describing both defilement and freedom from defilement. The longer passages connect discerning this with the development of the mind (trans. Thanissaro Bhikkhu, [text](https://accesstoinsight.org/tipitaka/an/an01/an01.049.than)).
 
-> "Luminous, monks, is the mind. And it is freed from incoming defilements." (AN 1.49-52, trans. Thanissaro Bhikkhu, [text](https://accesstoinsight.org/tipitaka/an/an01/an01.049.than))
+> "Luminous, monks, is the mind. And it is freed from incoming defilements." (AN 1.50, trans. Thanissaro Bhikkhu, [text](https://accesstoinsight.org/tipitaka/an/an01/an01.049.than))
 
 Thanissaro's note describes disputed interpretations and offers a practical reading: greed, aversion and delusion need not be treated as necessary features of awareness, so one can work to abandon them. That is an interpretive account of cultivation, not proof of an unchanged clear self behind every mood (translator's note 1, [text](https://accesstoinsight.org/tipitaka/an/an01/an01.049.than)).
 

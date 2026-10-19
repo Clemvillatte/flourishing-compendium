@@ -29,7 +29,7 @@ Imagine seeing an advertisement for a shirt you had not planned to buy. Ask whet
 ## Psychology parallels
 
 - **Attentional bias in craving**: a review links substance-related attention and craving while cautioning that some measures reflect several processes; it does not establish the same mechanism for every shopping urge ([Field and Cox, 2008, abstract](https://pubmed.ncbi.nlm.nih.gov/18479844/)).
-- **Mindfulness and smoking**: an exploratory analysis associated practice with weaker craving-smoking coupling ([Elwafi et al., 2013, abstract](https://pmc.ncbi.nlm.nih.gov/articles/PMC3619004/)); a later review found no clear quit-rate benefit overall, with low- or very-low-certainty evidence ([Jackson et al., 2022, conclusions](https://pubmed.ncbi.nlm.nih.gov/35420700/)).
+- **Mindfulness and smoking**: an analysis limited to 33 mindfulness-group participants associated practice with weaker craving-smoking coupling ([Elwafi et al., 2013, abstract](https://pmc.ncbi.nlm.nih.gov/articles/PMC3619004/)); a later review found no clear quit-rate benefit overall, with low- or very-low-certainty evidence ([Jackson et al., 2022, conclusions](https://pubmed.ncbi.nlm.nih.gov/35420700/)).
 
 ## Philosophy parallels
 
