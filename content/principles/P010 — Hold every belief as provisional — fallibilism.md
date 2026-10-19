@@ -14,20 +14,20 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 
 Peirce named the position. His definition is in the Collected Papers:
 
-> "Fallibilism is the doctrine that our knowledge is never absolute but always swims, as it were, in a continuum of uncertainty and of indeterminacy."
+> "For fallibilism is the doctrine that our knowledge is never absolute but always swims, as it were, in a continuum of uncertainty and of indeterminacy."
 > — C. S. Peirce, Collected Papers 1.171
 
 ### What "The Fixation of Belief" adds
 
 The 1877 essay does not use the word, but it explains why holding beliefs loosely is hard. Doubt, Peirce says, "is an uneasy and dissatisfied state from which we struggle to free ourselves", while belief is "a calm and satisfactory state which we do not wish to avoid". We "cling tenaciously" to "believing just what we do believe."
 
-Peirce's cure is not private resolve. Of the person who simply holds to a belief, he writes: "The social impulse is against it. The man who adopts it will find that other men think differently from him", which "will shake his confidence in his belief." The corrective he proposes is a method in which beliefs are "determined by nothing human, but by some external permanency".
+Of the person who simply holds to a belief, he writes: "The social impulse is against it. The man who adopts it will find that other men think differently from him", which "will shake his confidence in his belief." The corrective he proposes is a method in which beliefs are "determined by nothing human, but by some external permanency".
 
 ### What the principle does not say
 
 Fallibilism here means no belief is exempt from correction. It does not mean doubting everything at once. Peirce separates real doubt from lip service: he describes some readers who, on seeing a belief was shaped by something outside the facts, "will experience a real doubt of it, so that it ceases to be a belief".
 
-(Peirce, CP 1.171; "The Fixation of Belief," 1877.)
+(Peirce, CP 1.171, as quoted in [Nubiola](https://www.unav.es/users/Articulo13.html); "The Fixation of Belief," 1877.)
 
 **Plain words** You are probably wrong about something you feel sure of today. Peirce observes that belief is the calm state and doubt the uneasy one, which is part of why we hold on. So the practice is to treat a belief as open to correction by evidence or by other people, without pretending to doubt things you have no reason to doubt.
 

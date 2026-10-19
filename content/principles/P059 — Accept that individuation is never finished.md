@@ -12,13 +12,13 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 59** — Accept that individuation is never finished
 
-Simondon's claim, in the introduction to his work on individuation, is that the individual is not the starting point but a phase. In the English translation in Parrhesia, he proposes to grasp "the individual" as "a relative reality, a certain phase of being that supposes a preindividual reality, and that, even after individuation, does not exist on its own, because individuation does not exhaust with one stroke the potentials of preindividual reality" ([Simondon, introduction to L'individuation, Parrhesia 7 translation](http://www.parrhesiajournal.org/parrhesia07/parrhesia07_simondon1.pdf)).
+Simondon's claim, in the introduction to his work on individuation, is that the individual is not the starting point but a phase. In the English translation in Parrhesia, he proposes to grasp "the individual" as "a relative reality, a certain phase of being that supposes a preindividual reality, and that, even after individuation, does not exist on its own, because individuation does not exhaust with one stroke the potentials of preindividual reality" ([Simondon, introduction to L'individuation, Parrhesia 7, translated by Gregory Flanders as "The Position of the Problem of Ontogenesis"](http://www.parrhesiajournal.org/parrhesia07/parrhesia07_simondon1.pdf)).
 
 ### Relation and what stays open
 
-In the same text, "an individuation is relative", and "a certain level of potential remains, and further individuations are still possible." Relations are not added afterwards: "The relation does not spring up from between two terms that would already be individuals; it is an aspect of the internal resonance of a system of individuation." He adds that individuation brings out "the pair individual-environment" along with the individual.
+In the same text, "[a]n individuation is relative", and "a certain level of potential remains, and further individuations are still possible." Relations are not added afterwards: "The relation does not spring up from between two terms that would already be individuals; it is an aspect of the internal resonance of a system of individuation, it is part of a system state." He adds that individuation brings out "the pair individual-environment" along with the individual.
 
-Commentators read the point for psychology this way: the subject "never reaches a stage of being a 'finished' individual", and "to be completed would be to stop existing" (the authors' reading of Simondon, in [Simondon, emotion, and individuation](https://repository.uel.ac.uk/download/9d318435991b428f036433e17864264157edec5db47e901505ca79b6b45d2f28/254482/Simondon,%20emotion,%20and%20individuation%20-%20The%20tensions%20of%20psychological%20life%20in%20digital%20worlds%20-%20Pre%20Proof.pdf)).
+Ian Tucker reads the point for psychology this way: the subject "never reaches a stage of being a 'finished' individual", and "to be completed would be to stop existing" ([Simondon, emotion, and individuation](https://repository.uel.ac.uk/download/9d318435991b428f036433e17864264157edec5db47e901505ca79b6b45d2f28/254482/Simondon,%20emotion,%20and%20individuation%20-%20The%20tensions%20of%20psychological%20life%20in%20digital%20worlds%20-%20Pre%20Proof.pdf)).
 
 ### What is the compendium's
 

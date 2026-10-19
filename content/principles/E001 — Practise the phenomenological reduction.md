@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 393** — Practise the phenomenological reduction
 
-This page relies on Dan Zahavi's account of Husserl in the Stanford Encyclopedia of Philosophy, quoted directly. The cited sections of Ideas I, the Cartesian Meditations and the Crisis have not been checked.
+This page relies on Dan Zahavi's account of Husserl in the Stanford Encyclopedia of Philosophy, quoted directly.
 
 ### The natural attitude
 
@@ -24,7 +24,7 @@ The [[Epoché|epoché]] works like this: "We keep it, in order to be able to inv
 
 ### What is left
 
-Husserl: "'The' world is not lost as a result of the epoché. The epoché is by no means a suspension of the being of the world and of every world-oriented judgment." Nor is it a turn inwards. The SEP entry says "we do not turn the gaze inwards in order to examine the happenings in a private interior sphere. Rather we look at how the world shows up to the subject."
+Husserl: "'The' world is not lost as a result of the epoché. The epoché is by no means a suspension of the being of the world and of every world-oriented judgment ..." Nor is it a turn inwards. The SEP entry says "we do not turn the gaze inwards in order to examine the happenings in a private interior sphere. Rather we look at how the world shows up to the subject."
 
 ### Scope
 

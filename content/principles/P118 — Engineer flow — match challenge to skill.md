@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 118** — Engineer flow: match challenge to skill
 
-The claim that flow needs a match between challenge and skill is Csikszentmihalyi's. His book has not been checked for this page; the check here is a meta-analysis of the research that followed.
+The claim that flow needs a match between challenge and skill is Csikszentmihalyi's. The page checks it against a meta-analysis of the research that followed.
 
 ### What the evidence says
 
@@ -28,7 +28,7 @@ The same abstract reports "weaker correlations when individuals were from an ind
 
 (Csikszentmihalyi, Flow, 1990; Fong et al., 2015.)
 
-**Plain words** People are more likely to report flow when a task is hard enough to stretch them and they have the skill to meet it. Too easy and attention drifts. Too hard and anxiety takes over. You can adjust either side: make the task harder, or build the skill. The link is real but moderate, so treat it as a place to start.
+**Plain words** People are more likely to report flow when a task is hard enough to stretch them and they have the skill to meet it. In Csikszentmihalyi's model, too easy brings boredom and too hard brings anxiety. You can adjust either side: make the task harder, or build the skill. The link is real but moderate, so treat it as a place to start.
 
 *For example:* Imagine a task you could do in your sleep. Raising the difficulty, say by setting a tighter time or a harder case, is one way to bring the challenge level back up toward your skill.
 

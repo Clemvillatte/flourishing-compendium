@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 114** — Don't contend (buzheng)
 
-Three chapters of the Daodejing use the same line about the sage and rivals. The Chinese term in the title, buzheng, means not striving or not contending.
+Chapters 22 and 66 of the Daodejing use almost the same line about the sage and rivals, and chapter 8 gives the image behind it. The Chinese term in the title, buzheng, means not striving or not contending.
 
 > "It is because he is thus free from striving that therefore no one in the world is able to strive with him."
 > — James Legge, trans., The Tao Teh King, ch. 22.2
@@ -28,11 +28,11 @@ Chapter 66 gives the mechanism for a ruler. Rivers and seas receive the streams 
 
 ### A caution
 
-The title's "win by not entering races whose prize is ruin" is the compendium's reading. In the text, not striving is mostly a matter of posture, being low and unassertive, not a way to pick which contests to join. Read as a tactic, it risks becoming striving by another route.
+The compendium's gloss, "win by not entering races whose prize is ruin", goes beyond the text. In the text, not striving is mostly a matter of posture, being low and unassertive, not a way to pick which contests to join. Read as a tactic, it risks becoming striving by another route.
 
 (DDJ 8, 22, 66.)
 
-**Plain words** The text claims that if you are not pushing to be ahead, you give other people little to push against. Whether that works as a rule of thumb for modern work and life is the open question. The chapters themselves describe a ruler, not a worker or an entrepreneur.
+**Plain words** The text claims that if you are not pushing to be ahead, you give other people little to push against. Whether that works as a rule of thumb for modern work and life is the open question. The chapters describe a sage, and in ch. 66 a ruler, not a worker or an entrepreneur.
 
 *For example:* Imagine a colleague who never claims credit in meetings. The text predicts few will bother to compete with them. Real workplaces may well behave otherwise, so treat this as the text's claim, not a result.
 

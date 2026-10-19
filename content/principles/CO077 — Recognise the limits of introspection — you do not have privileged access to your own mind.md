@@ -24,11 +24,11 @@ Johansson, Hall, Sikström and Olsson (2005) had people choose the more attracti
 
 ### Trusting your own report more than others'
 
-Pronin, Berger and Molouki's paper (the page's 2004 Pronin citation was not opened) found that people saw others as more conforming than themselves, because they weighed introspective evidence more heavily when judging themselves than when judging others ([abstract](https://jonahberger.com/wp-content/uploads/2013/02/Alone-in-a-Crowd-of-Sheep-1.pdf)). This is the introspection illusion.
+Pronin, Berger and Molouki's 2007 paper found that people saw others as more conforming than themselves, because they weighed introspective evidence more heavily when judging themselves than when judging others ([abstract](https://jonahberger.com/wp-content/uploads/2013/02/Alone-in-a-Crowd-of-Sheep-1.pdf)). This is the introspection illusion.
 
 ### What the sources do not show
 
-They do not show that introspection is useless; Nisbett and Wilson explicitly allow accurate reports. The Gazzaniga split-brain parallel and the Nietzsche, Freud and Schopenhauer pairings were not opened here.
+They do not show that introspection is useless; Nisbett and Wilson explicitly allow accurate reports. The Gazzaniga split-brain parallel and the Nietzsche, Freud and Schopenhauer pairings are not relied on.
 
 (Nisbett and Wilson, 1977; Johansson et al., 2005.)
 

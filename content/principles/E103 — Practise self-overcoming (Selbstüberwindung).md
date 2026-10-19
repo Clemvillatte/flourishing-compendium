@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 495** — Practise self-overcoming (Selbstüberwindung)
 
-The idea is Zarathustra's. In Thomas Common's translation, the chapter is titled "Self-Surpassing". Zarathustra says he heard three things from life itself. The second and third are about obedience and command:
+The idea is Zarathustra's. In Thomas Common's translation, the chapter is titled "Self-Surpassing". Zarathustra reports three things he heard while following living things, all about obedience and command. The second and third:
 
 > "Whatever cannot obey itself, is commanded. Such is the nature of living things. ... Yea, even when it commandeth itself, then also must it atone for its commanding. Of its own law must it become the judge and avenger and victim."
 > — Nietzsche, Thus Spake Zarathustra, "Self-Surpassing," trans. Thomas Common
@@ -25,7 +25,7 @@ Then life speaks:
 > (capitals in the translation)
 > — same chapter
 
-Life here is not a self-improvement project. Nietzsche ties the drive to will to power: "Wherever I found a living thing, there found I Will to Power." And surpassing includes values: "he who hath to be a creator in good and evil—verily, he hath first to be a destroyer, and break values in pieces."
+Nietzsche ties the drive to will to power: "Wherever I found a living thing, there found I Will to Power." And surpassing includes values: "he who hath to be a creator in good and evil—verily, he hath first to be a destroyer, and break values in pieces."
 
 ### What to be careful about
 

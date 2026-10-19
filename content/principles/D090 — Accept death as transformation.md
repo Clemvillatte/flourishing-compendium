@@ -15,7 +15,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 The Zhuangzi does not tell anyone to feel nothing about death. It asks whether the dread is aimed at the right thing.
 
 > "The True men of old knew nothing of the love of life or of the hatred of death. Entrance into life occasioned them no joy; the exit from it awakened no resistance."
-> — James Legge, trans., Zhuangzi, ch. 6 (Metis/ETH Zurich edition, p. 27)
+> — James Legge, trans., Zhuangzi, ch. 6 (Metis/ETH Zurich edition, p. 28)
 
 ### Why not hate it
 
@@ -34,7 +34,7 @@ The famous scene is in chapter 18. Zhuangzi's wife has died and he is found drum
 
 **Plain words** Most of us treat death as an error in the system. Zhuangzi treats it as one phase of the same process that made us, so the fear looks like a mistake about what is happening. That does not mean grief is wrong: he grieves first, then makes sense of it. The practical question is how you would spend a life you held as borrowed rather than owed.
 
-*For example:* In Zhuangzi 18, Huizi finds Zhuangzi singing beside his dead wife and calls it excessive. Zhuangzi's answer is the plain-words point above in action: he mourned, then worked out what the change meant.
+*For example:* Imagine someone whose grandmother has died at ninety. They cry at the funeral, and a month later they can talk about her whole life, from birth to its end, without it feeling like a betrayal. On Zhuangzi's account, that second state is understanding what was appointed, not a lack of love.
 
 ## Stories
 

@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 ---
 > **Principle 63** — Cultivate metacognition: thinking about your own thinking
 
-Flavell introduced the term in 1979 and gave it a structure. His model says that "the monitoring of a wide variety of cognitive enterprises occurs through the actions of and interactions among four classes of phenomena: (a) metacognitive knowledge, (b) metacognitive experiences, (c) goals (or tasks), and (d) actions (or strategies)" ([Flavell, 1979, American Psychologist 34](https://jwilson.coe.uga.edu/EMAT7050/Students/Wilson/Flavell%20(1979).pdf)).
+Flavell's 1979 paper gave the idea its first detailed structure. His model says that "the monitoring of a wide variety of cognitive enterprises occurs through the actions of and interactions among four classes of phenomena: (a) metacognitive knowledge, (b) metacognitive experiences, (c) goals (or tasks), and (d) actions (or strategies)" ([Flavell, 1979, American Psychologist 34](https://jwilson.coe.uga.edu/EMAT7050/Students/Wilson/Flavell%20(1979).pdf)).
 
 ### The founding observation
 
@@ -24,9 +24,9 @@ Metacognitive experiences are "any conscious cognitive or affective experiences 
 
 ### A caution from Flavell
 
-Monitoring can backfire. He names "the feckless obsessive, paralyzed by incessant critical evaluation of his own judgments and decisions", yet still holds there is "far too little ... cognitive monitoring in this world" (same chapter). Fleming and Dolan (2012) add that metacognitive accuracy "is dissociable from task performance and varies across individuals" ([abstract](https://ora.ox.ac.uk/objects/uuid:ae68a055-a477-4355-b444-915b47ba6938)). Being good at a task does not mean you are good at judging how well you did it.
+Monitoring can backfire. He names "the feckless obsessive, paralyzed by incessant critical evaluation of his own judgments and decisions", yet still holds there is "far too little ... cognitive monitoring in this world" (Flavell, 1979). Fleming and Dolan (2012) add that metacognitive accuracy "is dissociable from task performance and varies across individuals" ([abstract](https://ora.ox.ac.uk/objects/uuid:ae68a055-a477-4355-b444-915b47ba6938)). Being good at a task does not mean you are good at judging how well you did it.
 
-"Trainable" and "the OS above the OS" are the compendium's wording; the sources opened here do not show that metacognition can be trained.
+"Trainable" and "the OS above the OS" are the compendium's wording; these sources do not show that metacognition can be trained.
 
 (Flavell, 1979.)
 

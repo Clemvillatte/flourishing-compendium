@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 ---
 > **Principle 14** — Understand that thinking is fallible and that wisdom includes knowing this
 
-The oldest statement of the idea is Socrates' account of the oracle in Plato's Apology (21d), in Jowett's translation. After questioning a man with a reputation for wisdom, Socrates concludes:
+A classic statement of the idea is Socrates' account of the oracle in Plato's Apology (21d), in Jowett's translation. After questioning a man with a reputation for wisdom, Socrates concludes:
 
 > "Well, although I do not suppose that either of us knows anything really beautiful and good, I am better off than he is - for he knows nothing, and thinks that he knows. I neither know nor think that I know. In this latter particular, then, I seem to have slightly the advantage of him."
 > — Plato, Apology, trans. Benjamin Jowett
@@ -21,17 +21,17 @@ The oldest statement of the idea is Socrates' account of the oracle in Plato's A
 
 Moore and Healy (2008) separate three kinds of overconfidence: overestimating your actual performance, overplacing it relative to others, and holding beliefs with excessive precision. On difficult tasks people overestimate their performance but also believe they are worse than others; on easy tasks the reverse. "Overprecision appears to be more persistent than either of the other 2 types" ([abstract](https://pubmed.ncbi.nlm.nih.gov/18426301/)).
 
-Moore's later account of overprecision is close to the principle's point: it "results from neglect of all the ways in which one could be wrong" ([Moore, 2023](https://pubmed.ncbi.nlm.nih.gov/35511530/)). One experiment reduced the bias by "forcing participants to consider all possible outcomes of an event" ([Haran, Moore and Morewedge, 2010](https://pubmed.ncbi.nlm.nih.gov/28405257/)).
+Moore's later account of overprecision is close to the principle's point: it "results from neglect of all the ways in which one could be wrong" ([Moore, 2023](https://pubmed.ncbi.nlm.nih.gov/35511530/)). Three experiments reduced the bias by "forcing participants to consider all possible outcomes of an event" ([Haran, Moore and Morewedge, 2010](https://pubmed.ncbi.nlm.nih.gov/28405257/)).
 
 ### Limits
 
-Knowing that thinking is fallible is not a guarantee of better thinking, and the sources above do not show that intellectual humility makes careers or decisions better. The Leary et al. result on intellectual humility is covered under P010; the Deffler and Grossmann citations on this page were not opened. "Wisdom includes knowing this" is the compendium's framing of the Socratic point.
+Knowing that thinking is fallible is not a guarantee of better thinking, and the sources above do not show that intellectual humility makes careers or decisions better. The Leary et al. result on intellectual humility is covered under P010. "Wisdom includes knowing this" is the compendium's framing of the Socratic point.
 
 (Plato, Apology 21d; Moore and Healy, 2008.)
 
 **Plain words** Socrates' edge over the man he questioned was small: he did not think he knew what he did not. Research on overconfidence finds that people are often too sure of their answers, and one cause is not thinking of the ways they could be wrong. A habit that helps is asking, before you commit, what would show you that you were mistaken.
 
-*For example:* Imagine you are asked to give a range for how long a project will take. Before settling on one, list three ways it could take far longer. That is an informal cousin of what the experiment above did by making people consider every outcome. The study did not test this exact trick.
+*For example:* Imagine you are asked to give a range for how long a project will take. Before settling on one, list three ways it could take far longer. That is an informal cousin of what the experiments above did by making people consider every outcome. The study did not test this exact trick.
 
 ## Psychology parallels
 

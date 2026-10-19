@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 400** — Practise the structure of temporality
 
-This page relies on the Stanford Encyclopedia of Philosophy's account of Husserl's lectures on internal time-consciousness, quoted directly. The lectures themselves have not been checked.
+This page relies on the Stanford Encyclopedia of Philosophy's account of Husserl's lectures on internal time-consciousness, quoted directly. 
 
 ### The three-part structure
 
@@ -28,7 +28,7 @@ First, retention and protention "occur without our active or deliberate contribu
 
 (Husserl, On the Phenomenology of the Consciousness of Internal Time; Ideas I §81.)
 
-**Plain words** You never hear a single note on its own. Each one comes with the one just before it and a sense of what is coming. Husserl says this is how a tune, a sentence or a conversation can be experienced as a whole. You do not decide to do it, but you can notice it.
+**Plain words** You never hear a single note on its own. Each one comes with the one just before it and a sense of what is coming. Husserl's example is a tune; the same structure is what lets a sentence hang together. You do not decide to do it, but you can notice it.
 
 *For example:* Listen to a sentence being spoken. When the last word arrives you hear the whole sentence, not just that word, because the earlier words are still there as just-past. Notice that, and you are noticing retention.
 

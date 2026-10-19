@@ -12,11 +12,11 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 ---
 > **Principle 3** — Know that thinking has limited capacity: cognitive load is real
 
-Three lines of work, each from a different angle, support the claim that thinking has a limited capacity.
+Three lines of work support the claim that thinking has a limited capacity.
 
 ### Capacity
 
-Cowan's review of the evidence concludes that "a single, central capacity limit averaging about four chunks is implicated", and proposes "a capacity limit for the focus of attention" ([Cowan, 2001](https://pubmed.ncbi.nlm.nih.gov/11515286/)). He notes that Miller's older figure of about seven chunks "was meant more as a rough estimate and a rhetorical device than as a real capacity limit". Other researchers dispute how to explain the limit, so the number is better read as a range of three to five than as a fixed constant.
+Cowan's review of the evidence concludes that "a single, central capacity limit averaging about four chunks is implicated", and proposes "a capacity limit for the focus of attention" ([Cowan, 2001](https://pubmed.ncbi.nlm.nih.gov/11515286/)). He notes that Miller's older figure of about seven chunks "was meant more as a rough estimate and a rhetorical device than as a real capacity limit". Cowan notes that others had put the limit at three to five chunks, and his data support that smaller limit.
 
 ### Load and learning
 
@@ -28,13 +28,13 @@ Arnsten's review says the prefrontal cortex "is also the brain region that is mo
 
 ### What the sources do not show
 
-The principle lists "distraction" and "fatigue" too. None of the abstracts above addresses them. "Not a character flaw" and "manage the load, not the blame" are the compendium's advice, not findings. The ego-depletion parallel further down this page was not checked here and is not relied on.
+The principle lists "distraction" and "fatigue" too. None of the abstracts above addresses them. "Not a character flaw" and "manage the load, not the blame" are the compendium's advice, not findings. The ego-depletion parallel further down this page is not relied on.
 
 (Cowan, 2001; Sweller, 1988; Arnsten, 2009.)
 
-**Plain words** You can only hold a handful of things in mind at once, and the load goes up with a harder task, more to track, or acute stress. Under load, thinking gets worse in ways that have nothing to do with being a weaker thinker. The practical response is to cut the load first, by writing things down or removing distractions.
+**Plain words** You can only hold a handful of things in mind at once, and the load goes up with a harder task, more to track, or acute stress. Under load, anyone's thinking gets worse. The practical response is to cut the load first, by writing things down or removing distractions.
 
-*For example:* Imagine you are trying to follow a long email thread while also planning dinner and answering messages. If you then miss a detail, the capacity research suggests the limit was in the task setup, not in you.
+*For example:* Imagine you are trying to follow a long email thread while also planning dinner and answering messages. If you then miss a detail, the capacity research suggests the setup, not only you, may be the problem.
 
 ## Psychology parallels
 

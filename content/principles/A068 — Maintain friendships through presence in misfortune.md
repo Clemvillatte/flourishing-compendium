@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 68** — Maintain friendships through presence in misfortune
 
-Aristotle does not make adversity the test of friendship, and the text is more interesting than that. Two passages matter. The first is in Book VIII, at the start of his treatment of friendship:
+In the Nicomachean Ethics, Aristotle does not make adversity the test of friendship. The Eudemian Ethics, VII.2, comes closer: "misfortune shows those who are not really friends" ([Wikisource](https://en.wikisource.org/wiki/Eudemian_Ethics/Book_7)). Two Nicomachean passages matter. The first is in Book VIII, at the start of his treatment of friendship:
 
 > "And in poverty and in other misfortunes men think friends are the only refuge."
 > — Aristotle, Nicomachean Ethics VIII.1, trans. W. D. Ross
@@ -29,9 +29,9 @@ Aristotle also says we should "summon them to our bad fortunes with hesitation; 
 
 (Aristotle, Nicomachean Ethics VIII.1; IX.11. The principle's earlier locator, VIII.4, does not contain this material.)
 
-**Plain words** Aristotle's own claim is milder than "bad times show who your friends are". He says friends matter in good and bad fortune, matter more as help in bad, and that a good friend goes to someone in trouble without waiting to be asked. The compendium adds the harder demand, to stay when it is costly.
+**Plain words** In the Nicomachean Ethics his claim is milder than "bad times show who your friends are". He says friends matter in good and bad fortune, matter more as help in bad, and that a good friend goes to someone in trouble without waiting to be asked. The compendium adds the harder demand, to stay when it is costly.
 
-*For example:* Imagine a friend whose marriage has just ended and who does not want to talk. His advice is to go without being asked. His claim is that grief is lightened when friends sorrow with us, even if the mechanism is unclear.
+*For example:* Imagine a friend whose marriage has just ended and who does not want to talk. On Aristotle's advice you turn up with dinner on Thursday without texting first. His claim is that grief is lightened when friends sorrow with us, even if the mechanism is unclear.
 
 ## Practice kernels
 

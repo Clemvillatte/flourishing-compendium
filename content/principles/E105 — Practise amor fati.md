@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 497** — Practise amor fati
 
-Nietzsche uses the phrase twice, once as a private resolution and once as a formula.
+Two of the places Nietzsche uses the phrase show its range: a private resolution and a formula.
 
 > "I want more and more to perceive the necessary characters in things as the beautiful:—I shall thus be one of those who beautify things. Amor fati: let that henceforth be my love! I do not want to wage war with the ugly. I do not want to accuse, I do not want even to accuse the accusers."
 > — The Gay Science §276, "For the New Year" (trans. Thomas Common, 1910)
@@ -22,7 +22,7 @@ Nietzsche uses the phrase twice, once as a private resolution and once as a form
 
 ### Not providence
 
-The next section of The Gay Science, §277, argues against reading everything that happens as meant for your good. The belief in a personal Providence, he writes, brings us "in great danger of intellectual bondage", and he asks, "Is there a more dangerous temptation" than to believe in it. His conclusion is "we want to leave the Gods alone". So amor fati is not the optimistic view that all things turn out for the best. It is the willingness to love what is necessary without that assurance.
+The next section of The Gay Science, §277, argues against reading everything that happens as meant for your good. The belief in a personal Providence, he writes, brings us "in great danger of intellectual bondage", and he asks, "Is there a more dangerous temptation" than to believe in it. His conclusion is "we want to leave the Gods alone". Read next to §276, this suggests amor fati is not the optimistic view that all things turn out for the best. It is the willingness to love what is necessary without that assurance.
 
 ### What the compendium adds
 

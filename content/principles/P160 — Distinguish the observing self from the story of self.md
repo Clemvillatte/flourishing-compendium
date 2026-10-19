@@ -24,13 +24,13 @@ A metaphor attributed to Harris (2009, p. 175) in a [scale-validation paper](htt
 
 ### What it does and does not claim
 
-The review says self-as-context interventions "help clients see inner experiences as distinct from consciousness as such, and thus not necessarily a threat", which "undermines excessive rule control and increases psychological flexibility." That is a clinical claim about perspective. It is not a proof that there is a separate observer inside you, and the principle's "not a metaphysical claim" fits that. The compendium's "rest identity in the observing" goes further than the sources I opened.
+Hayes and colleagues' progress review of ACT (Hayes, Levin, Plumb-Vilardaga, Villatte and Pistorello) says self-as-context interventions "help clients see inner experiences as distinct from consciousness as such, and thus not necessarily a threat", which "undermines excessive rule control and increases psychological flexibility." That is a clinical claim about perspective. It is not a proof that there is a separate observer inside you, and the principle's "not a metaphysical claim" fits that. The compendium's "rest identity in the observing" goes further than these sources.
 
-(Hayes, Strosahl and Wilson, Acceptance and Commitment Therapy; Mead's "I" and "Me." Neither book was opened.)
+(Hayes, Strosahl and Wilson, Acceptance and Commitment Therapy; Mead's "I" and "Me.")
 
 **Plain words** You can describe yourself in sentences: "I'm the one who failed that", "I'm the anxious one". ACT calls that self-as-content. You can also notice that you are the one doing the describing. That second position is self-as-context, and the point is to be able to step into it when a story about yourself is gripping too hard.
 
-*For example:* Instead of "I'm a no good drunk", a health-behaviour paper suggests the wording "I am having the thought that I am a no good drunk" ([ACT for health behaviour change](https://pmc.ncbi.nlm.nih.gov/articles/PMC5769281/)). The thought is the same. Your relation to it is different.
+*For example:* Instead of "I'm a no good drunk", a health-behaviour paper suggests the wording "I am having the thought that I am a no good drunk" ([ACT for health behaviour change](https://pmc.ncbi.nlm.nih.gov/articles/PMC5769281/)). The thought stays; the person's relation to it changes.
 
 ## Stories
 

@@ -20,13 +20,13 @@ The best-known line comes from his account of the camps. Of the prisoners who co
 
 ### Why suffering can carry meaning
 
-In the logotherapy section he argues from the other direction: a life of creation and a life of enjoyment are not the only meaningful ones. There is also a life "which admits of but one possibility of high moral behavior: namely, in man's attitude to his existence, an existence restricted by external forces." And: "If there is a meaning in life at all, then there must be a meaning in suffering."
+Later in the camp account he argues from the other direction: a life of creation and a life of enjoyment are not the only meaningful ones. There is also a life "which admits of but one possibility of high moral behavior: namely, in man's attitude to his existence, an existence restricted by external forces." And: "If there is a meaning in life at all, then there must be a meaning in suffering."
 
 ### What it does not say
 
-The principle's "not avoidance, not masochism" matches how Frankl is usually summarised: meaning in suffering applies when it is unavoidable, and avoidable suffering should be removed ([Web Highlights summary](https://web-highlights.com/learning/books/mans-search-for-meaning)). That is a summary, not a quote from the book. The book is Frankl's own account and clinical experience, so this page does not show that attitude changes outcomes. Tedeschi and Calhoun (2004), cited below, were not opened.
+The principle's "not avoidance, not masochism" matches Frankl's own words in Part Two: "I only insist that meaning is possible even in spite of suffering - provided, certainly, that the suffering is unavoidable. If it were avoidable, however, the meaningful thing to do would be to remove its cause, be it psychological, biological or political. To suffer unnecessarily is masochistic rather than heroic." The book is Frankl's own account and clinical experience, so this page does not show that attitude changes outcomes.
 
-(Frankl, Man's Search for Meaning, Part One and Part Two. The principle's other cited works, The Will to Meaning and The Unheard Cry for Meaning, were not opened.)
+(Frankl, Man's Search for Meaning, Part One and Part Two.)
 
 **Plain words** Frankl's claim is that when you cannot change a situation, you can still choose how you stand in it. He lists this as the third of three ways to find meaning, after what you do and what you love or experience. He is not recommending suffering. He is saying that, where it cannot be avoided, the stance is where a person's freedom remains.
 

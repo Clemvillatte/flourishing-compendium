@@ -24,9 +24,9 @@ Butler, Lee and Gross (2007) found that suppression "was associated with increas
 
 ### What the sources do not show
 
-The sources describe group averages, so they do not license assumptions about an individual. The Wierzbicka (1999), Butler and Gross (2009) and Soto et al. (2011) citations on this page have not been checked. The Butler study described above is the 2007 paper with Lee. "Treating them as universal leads to misjudgement" is a reasonable inference, not a finding.
+The sources describe group averages, so they do not license assumptions about an individual. "Treating them as universal leads to misjudgement" is a reasonable inference, not a finding.
 
-**Plain words** Cultures differ in which feelings people want to have, and in what it means to show or hold back a feeling. Calm may be prized in one place and excitement in another. Holding back anger may damage a relationship in one setting and protect it in another, though not every study agrees. Before you judge a feeling or its display, ask what norm you are applying.
+**Plain words** Cultures differ in which feelings people want to have, and in what it means to show or hold back a feeling. Calm may be prized in one place and excitement in another. Holding back a feeling went with more hostility in one group and less in another, though not every study agrees. Before you judge a feeling or its display, ask what norm you are applying.
 
 *For example:* Imagine a father whose family reads his calm as coldness. If his culture treats quiet provision as care, then his family and he may be using different yardsticks for the same behaviour. This is a possibility the research makes plausible, not a documented case.
 

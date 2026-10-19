@@ -26,7 +26,7 @@ Baumeister, Vohs, Aaker and Garbinsky (2013) ran a series of online surveys over
 
 This is a correlational survey, so it shows which things travel with meaning and with happiness, not which cause which. The authors' own summary is that meaningful involvements "increase one's stress, worries, arguments, and anxiety, which reduce happiness". It does not show that pursuing happiness directly undermines meaning. That part of the principle is the compendium's claim, as is the contrast between a "shallow" and a worthwhile life.
 
-(Baumeister et al., 2013. King and Hicks, 2021, is cited by the principle but I have not opened it.)
+(Baumeister et al., 2013.)
 
 **Plain words** In this survey, the people whose lives felt meaningful were not always the ones whose lives felt good. Getting what you want made people happier but did little for meaning. Looking beyond the present, helping others, and taking on stressful, self-expressing projects went with meaning, sometimes at a cost to happiness.
 

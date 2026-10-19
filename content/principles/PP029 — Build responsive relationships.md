@@ -18,17 +18,17 @@ Reis and Clark's [chapter on responsiveness](https://academic.oup.com/edited-vol
 
 Research on perceived partner responsiveness measures three components: that the other person understands you, validates you, and cares for you. Ruan and colleagues describe it as the belief that a partner has been or will be "positively attentive to one's welfare", and note it "has been shown in many studies to predict relationship and personal well-being" ([Ruan et al., 2019](https://clarkrelationshiplab.yale.edu/sites/default/files/files/Ruan-Reis-Clark-Hirsch-Bink-2019.pdf)).
 
-Validation is not agreement. In the Reis and Shaver intimacy model it means appreciating and valuing a partner's point of view, which is different from understanding it. A review of felt understanding adds that understanding alone is "necessary but not sufficient" for trust, since a partner also needs the motivation to help ([Utrecht review](https://dspace.library.uu.nl/server/api/core/bitstreams/0a433297-590c-402c-a6be-dfdb7b204c2c/content)).
+In the Reis and Shaver intimacy model, validation means appreciating and valuing a partner's point of view, which is different from understanding it. A review of felt understanding, Reis, Lemay and Finkenauer's "Toward understanding understanding", adds that understanding alone is "necessary but not sufficient" for trust, since a partner also needs the motivation to help ([Utrecht review](https://dspace.library.uu.nl/server/api/core/bitstreams/0a433297-590c-402c-a6be-dfdb7b204c2c/content)).
 
 ### Evidence and limits
 
-Reis and Le (2023) argue the link between relationships and wellbeing reflects perceived partner responsiveness, and review evidence on development, relationship wellbeing, and emotional and physical health ([abstract](https://academic.oup.com/book/46095/chapter/404618236)). "Attachment security" and "advice is not responsiveness" are the compendium's wording; I did not find either in the pages I opened.
+Reis and Le (2023) argue the link between relationships and wellbeing reflects perceived partner responsiveness, and review evidence on development, relationship wellbeing, and emotional and physical health ([abstract](https://academic.oup.com/book/46095/chapter/404618236)). "Attachment security" and "advice is not responsiveness" are the compendium's wording.
 
 (Reis and Clark, 2013; Reis and Shaver, 1988, the latter known here only through the Utrecht review's description.)
 
-**Plain words** Responsiveness means a partner gets who you are, values it, and cares what happens to you. Feeling that from someone is linked, in this research, with better relationships and wellbeing. Agreeing with them is not required. Appreciating how they see things is.
+**Plain words** Responsiveness means a partner gets who you are, values it, and cares what happens to you. Feeling that from someone is linked, in this research, with better relationships and wellbeing. Appreciating how they see things is part of it, which is different from just noticing it.
 
-*For example:* A friend tells you they are worn out. Saying "that sounds exhausting" shows you understood and care. A quick fix tends to skip that step, though the research does not say fixes are always wrong.
+*For example:* A friend tells you they are worn out. Saying "that sounds exhausting" shows you understood and care. A quick fix can skip that step, though the research does not say fixes are always wrong.
 
 ## Stories
 
