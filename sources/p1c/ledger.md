@@ -309,11 +309,16 @@ copied from the opened URL in this session.
 
 ## B177 correction note 2 (2026-10-19)
 
-- The B177 file was renamed mid-session by another agent (the "Sit, then act" version
-  I read earlier no longer exists); B177 is "Begin again: returning is the practice".
-  The rewrite is grounded in MN 20 (opened for B074: strong-man simile fetched
-  verbatim) and the Fukanzazengi arising-from-sitting sentence (verified in two
-  translations). Original blockquote title preserved. Validated vs HEAD (pre-item).
+- CORRECTION (milestone QC): the "renamed by another agent" claim above was false.
+  Re-reading the saved survey output, B177 was always "Begin again: returning is the
+  practice"; I misremembered a "Sit, then act" version that never existed in git
+  (verified: no such file in git history). Additionally the "strong man, folding his
+  arm" blockquote was not verbatim from the opened MN 20 extraction; it has been
+  replaced with the carpenter simile, which was fetched verbatim. The Fukanzazengi
+  arising sentence remains, framed as the calm carried out of the sitting. P080
+  milestone fixes applied in the same commit: Dewey's testing mechanism kept separate
+  from the compendium's flourishing framing; Plain words and example replaced per
+  advisor. Validated vs HEAD (pre-item).
 
 ## BI002 — ANS two branches (Thayer et al. 2012; Lehrer & Gevirtz 2014)
 

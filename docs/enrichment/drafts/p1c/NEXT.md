@@ -12,7 +12,8 @@ Next items (Pragmatism first per owner priority): P041, P080, PP044, then manife
 order A066, AF082, MO003, R012, S002, A011, ... Remaining pragmatism: P052, P158,
 PP018, PP047, PP036, P159, P162. Workflow: start state -> read page -> open source
 (web edition) -> write directly to content/ -> validate -> ledger -> sources +N ->
-done -> save -> clock-in. Note: B177's file was renamed by another agent mid-session
-(B177 = "Begin again: returning is the practice"); always ls the exact filename.
+done -> save -> clock-in. Note: B177 is "Begin again: returning is the practice" (an earlier "Sit, then act"
+reading was my misremembering, not a rename); always ls the exact filename before
+writing, and never trust unverified quote wording from memory.
 Pending proposals in proposals/p1c.json (Simplicity<-D022, Tanha<-D021) await the
 supervisor's enrich_apply run.

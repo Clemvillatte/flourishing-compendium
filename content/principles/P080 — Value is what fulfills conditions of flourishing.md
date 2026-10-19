@@ -12,13 +12,20 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 80** — Value is what fulfills conditions of flourishing
 
-A value is not a mystical property: to value something is to judge it as furthering the life-process. Test values by whether they enrich experience over time.
+Dewey's Theory of Valuation treats valuing as something an inquiry can test. The book's operating sentence is that "the valuation of ends-in-view is tested by consequences that actually ensue." Here Dewey explains how observation can test desires and interests by comparing anticipated consequences with actual results.
 
-(Dewey, Theory of Valuation, 1939.)
+> "Observation of results obtained, of actual consequences in their agreement with and difference from ends anticipated or held in view, thus provides the conditions by which desires and interests (and hence valuations) are matured and tested." (Dewey, Theory of Valuation, [Internet Archive](https://archive.org/stream/theoryofvaluatio032168mbp/theoryofvaluatio032168mbp_djvu.txt))
 
-**Plain words** A value is not a mystical property — to value something is to judge it as furthering the life-process. Test values by whether they enrich experience over time. The heirloom you keep out of guilt fails the test yearly; the one that gets used passes nightly.
+The compendium applies the test to the heirloom and the slogan alike: the value question is not what is said about the thing but what the acting on it actually brings over time. The flourishing framing is the compendium's application and goes beyond the quoted passage.
 
-*For example:* 'Family comes first' — held up against five years of missed dinners, or a business built with the cousins. The test isn't the slogan; it's the enrichment ledger.
+**Plain words**
+If you expect a choice to improve your life, check what follows from making it. What happened as expected? What disappointed you? Those observations give you something to reconsider. The compendium applies this inquiry to flourishing; that application goes beyond the quoted passage.
+
+*For example:* Suppose you work late because you expect the extra income to improve family life. As a modern application, compare that expectation with the resulting income, time together and relationships, then reconsider the arrangement.
+
+## Sources
+
+- [John Dewey, Theory of Valuation (full text, Internet Archive)](https://archive.org/stream/theoryofvaluatio032168mbp/theoryofvaluatio032168mbp_djvu.txt)
 
 ## Practice kernels
 

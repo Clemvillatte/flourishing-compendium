@@ -12,9 +12,9 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 177** — Begin again: returning is the practice
 
-MN 20 gives the method for a mind that keeps wandering: when distracting thoughts arise, the monk applies the tools and steadies the mind again. The sutta is written as a loop, not a cure; the drifting is assumed, and the practice is the return. Dogen's zazen manual ends the same way, with the calm carried out of the sitting: "When you arise from sitting, move slowly and quietly, calmly and deliberately."
+MN 20 is written as a loop: when unskillful thoughts arise while the monk attends to a theme, he is to attend to another theme; when they still arise, he scrutinizes the drawbacks. The drifting is assumed, and the method is the return. Dogen's zazen manual keeps the shape at the end of a sitting: "When you arise from sitting, move slowly and quietly, calmly and deliberately."
 
-> "Just as a strong man, folding his arm or extending his arm, might fold or extend his arm; in the same way, the monk's mind is steadied internally, settled, unified, and concentrated." (MN 20, [Thanissaro, accesstoinsight](https://www.accesstoinsight.org/tipitaka/mn/mn.020.than.html))
+> "Just as a skilled carpenter or his apprentice would use a small peg to knock out, drive out, and pull out a large one; in the same way, if evil, unskillful thoughts — imbued with desire, aversion, or delusion — arise in a monk while he is referring to and attending to a particular theme, he should attend to another theme, apart from that one, connected with what is skillful." (MN 20, [Thanissaro, accesstoinsight](https://www.accesstoinsight.org/tipitaka/mn/mn.020.than.html))
 
 The compendium applies the pair to the streak: the question after a lapse is not why you failed but what the return looks like, and both texts give it a shape.
 
