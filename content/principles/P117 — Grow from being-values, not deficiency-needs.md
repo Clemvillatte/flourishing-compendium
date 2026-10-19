@@ -12,17 +12,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 117** — Grow from being-values, not deficiency-needs
 
-Beyond needs for safety and esteem lies a being-mode: valuing truth, beauty, justice, wholeness for their own sake. Let some of your goals be B-values: pursued though they never run out.
+Maslow distinguished meeting a lack from developing capacities and pursuing values through one's work. In his later account of B-values, truth, beauty, justice and wholeness help explain why a task matters beyond the security or recognition it offers (A Theory of Metamotivation, 1967, pp. 99-102, 108, [text](https://repo.lightningpath.org/readings/10-Eupsychia/a-theory-of-metamotivation-maslow.pdf)).
 
-(Maslow, Toward a Psychology of Being, 1962 — secularized.)
+> "We are thereby helped also to realize that basic needs and self-actualization do not contradict each other any more than do childhood and maturity." (Maslow, "Deficiency motivation and growth motivation," [excerpt](https://www.panarchy.org/maslow/being.1955.html))
 
-**Plain words** You can't complete beauty the way you complete a mortgage; that's the feature, not the bug. Beyond safety and esteem lies a being-mode — truth, beauty, justice pursued for their own sake — and they never run out.
+This is not an instruction to finish meeting every need before caring about anything else. Maslow explicitly rejected an all-or-nothing sequence; he also presented his later metamotivation account as hypotheses requiring verification, not settled knowledge (Toward a Psychology of Being, [excerpt](https://www.panarchy.org/maslow/being.1955.html); A Theory of Metamotivation, p. 119, [text](https://repo.lightningpath.org/readings/10-Eupsychia/a-theory-of-metamotivation-maslow.pdf)).
 
-*For example:* The engineer who takes on the impossible project for no extra pay — safety handled, esteem handled, and something else took the wheel. Truth and beauty don't invoice; they just get followed.
+### Plain words
+
+Ask what makes a goal worth pursuing besides the reward attached to it. You might care about making an account accurate, treating someone fairly, or learning a craft well. The compendium suggests leaving room for such purposes while taking your needs for rest, security and support seriously.
+
+### For example
+
+Imagine an engineer correcting an unnoticed error because others will rely on the calculation. They may also want fair pay and professional respect. The exercise is to identify what accuracy contributes to the decision, without pretending that caring about it removes those other needs.
 
 ## Psychology parallels
 
-- **[[Intrinsic versus extrinsic goals|Intrinsic versus extrinsic goals]]**, intrinsic goals predict well-being (Kasser and Ryan, 1996; Deci and Ryan, 2000)
+- **[[Intrinsic versus extrinsic goals|Intrinsic versus extrinsic goals]]**: studies summarised by Deci and Ryan associate greater relative emphasis on growth, relationships and community with better well-being; these aspirations are a comparison, not an established equivalent of Maslow's B-values ([Deci and Ryan, 2000, pp. 243-244](https://selfdeterminationtheory.org/SDT/documents/2000_DeciRyan_PIWhatWhy.pdf)).
 
 ## Philosophy parallels
 
