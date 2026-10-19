@@ -12,13 +12,25 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 378** — Practise ecological embeddedness
 
-Recognise that you are embedded in an ecological web of relationships — with other species, with ecosystems, with the biosphere. You are not separate from nature; you are part of it. Your wellbeing depends on the health of the ecological systems that sustain you. Act accordingly.
+Two texts carry the idea. Leopold's comes from his essay "The Land Ethic," the last chapter of A Sand County Almanac (1949). He begins from the premise that "the individual is a member of a community of interdependent parts" and says the land ethic "simply enlarges the boundaries of the community to include soils, waters, plants, and animals, or collectively: the land."
 
-(Leopold, 1949, A Sand County Almanac; Naess, 1973, "The Shallow and the Deep, Long-Range Ecology Movements," Inquiry, 16, 95-100.)
+> "In short, a land ethic changes the role of Homo sapiens from conqueror of the land-community to plain member and citizen of it. It implies respect for his fellow-members, and also respect for the community as such."
+> — Aldo Leopold, "The Land Ethic" ([University of Kentucky PDF](https://www.uky.edu/~rsand1/china2017/library/Leopold1.pdf))
 
-**Plain words** You're embedded in an ecological web — other species, ecosystems, the biosphere — and your wellbeing is downstream of theirs. Not "nature lover" as a hobby; a fact about what you are. Act like the member of the web you are.
+### Naess's version
 
-*For example:* The suburb that pays for the creek's restoration — not altruism, just hydrology: the wetlands take the flood so the streets don't have to.
+Naess states the philosophical claim in his 1973 summary. The deep ecology movement, he writes, rejects "the man-in-environment image in favour of the relational, total-field image. Organisms as knots in the biospherical net or field of intrinsic relations." An intrinsic relation is one that "belongs to the definitions or basic constitutions of A and B, so that without the relation, A and B are no longer the same things" ([Naess, Inquiry 16, pp. 95-100](https://is.cuni.cz/studium/predmety/index.php?do=download&did=169208&kod=AFS100716)).
+
+### What the texts do not say
+
+Neither text says that your wellbeing depends on ecological health. That is the compendium's addition. Leopold's argument is about what we owe the community. Naess's is about how organisms and environment are defined. Leopold also warns that the conqueror role "is eventually self-defeating", because the conqueror "knows neither" what makes the community work nor what is valuable in it.
+
+(Leopold, 1949, A Sand County Almanac; Naess, 1973.)
+
+**Plain words** Leopold asks you to think of yourself as a member of the land community, not its owner or conqueror. Naess goes further: take the relations away and the organism is no longer the same thing. The compendium adds that this bears on your own wellbeing, which is a separate claim.
+
+*For example:* Imagine a town that restores wetland above its streets. In Leopold's terms it has treated the wetland as part of the community, not just a resource. Whether that also protects the town from floods is a hydrology question to check locally.
+
 ## Stories
 
 - [[ST255 — The Green Fire Dies|255. The Green Fire Dies]]
