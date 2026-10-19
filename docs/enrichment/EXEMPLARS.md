@@ -2,6 +2,8 @@
 
 The owner picked these two as the standard. Full file bodies below (front-matter omitted). Notice: concrete primary-source anchors (chapter numbers), a plain definition first, the compendium's own principle IDs tied in, cross-tradition resonances, and then structured Related / Sources / Cited-in sections.
 
+Note (2026-10-19): for page structure, follow PROTOCOL.md section 2 as updated: short paragraphs, `###` subheadings between them, and hyperlinked sources. "Ubuntu" is the first page built to that structure; Dao and De below show the research and voice standard.
+
 ---
 ## EXEMPLAR: Dao
 ---

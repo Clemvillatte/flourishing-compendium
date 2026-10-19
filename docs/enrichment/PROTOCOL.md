@@ -22,8 +22,23 @@ Voice = `HUMANIZER-SKILL.md` (read it; its rules are binding). Facts = verified,
 6. VALIDATE (`enrich_validate.py`) and fix every ERR. Log in your batch file (section 6).
 
 ## 2. Page template (after unchanged front-matter)
+
+Skimmability rule (added 2026-10-19, owner request): the page must be scannable. Use short
+paragraphs (2-4 sentences) and `###` subheadings in sentence case between them. Never bold text
+in prose (validator ERR); subheadings carry the visual hierarchy instead.
+
 ```
-<2 to 4 paragraphs of prose, 180-380 words total>
+<opening paragraph: plain definition, original-language term, where it comes from (primary text + locator)>
+
+### <short sentence-case label for the idea's core or history>
+<1-2 short paragraphs>
+
+### <short label for the key debate, distinction or evidence>
+<1-2 short paragraphs, include the best objection or limit>
+
+### In the compendium
+<paragraph: which principle IDs carry the concept and what they do with it, plus cross-tradition
+parallels marked as comparisons, and how the stories illustrate it>
 
 ## Related concepts
 
@@ -32,9 +47,10 @@ Voice = `HUMANIZER-SKILL.md` (read it; its rules are binding). Facts = verified,
 
 ## Sources
 
-- Primary/secondary citation with locator (chapter, section, page, DOI/URL) 
-- ... every page you actually consulted, with its https URL
-- keep the original citation lines that were already there
+- [Author, Work (year), locator](https://...) — what this source supports
+- ... every page you actually consulted, as a markdown link; books without URLs link to where the
+  quote or claim is verifiable (publisher page, verified excerpt, scholarly PDF)
+- keep the original citation lines that were already there (hyperlink them too when they carry a URL)
 
 ## Cited in <whatever heading was there>
 

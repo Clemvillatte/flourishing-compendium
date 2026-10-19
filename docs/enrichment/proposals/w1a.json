@@ -81,6 +81,41 @@
    "target": "content/concepts/Care ethics.md",
    "concept": "Ubuntu",
    "phrase": "Ubuntu"
+  },
+  {
+   "target": "content/principles/S006 — Remember that you are a citizen of the cosmos.md",
+   "concept": "Ubuntu",
+   "phrase": "Ubuntu: I am because we are"
+  },
+  {
+   "target": "content/principles/S030 — Act for the common good.md",
+   "concept": "Ubuntu",
+   "phrase": "Ubuntu: I am because we are"
+  },
+  {
+   "target": "content/principles/SE026 — Recognise common humanity — your suffering is not unique or isolating.md",
+   "concept": "Ubuntu",
+   "phrase": "Ubuntu: I am because we are"
+  },
+  {
+   "target": "content/principles/SE034 — Recognise that self-relationship is the foundation of all relationships.md",
+   "concept": "Ubuntu",
+   "phrase": "Ubuntu: I am because we are"
+  },
+  {
+   "target": "content/principles/SO023 — Cultivate social connection as a primary good.md",
+   "concept": "Ubuntu",
+   "phrase": "Ubuntu — personhood through relationship"
+  },
+  {
+   "target": "content/principles/SO026 — Use community as a resource.md",
+   "concept": "Ubuntu",
+   "phrase": "Ubuntu — community as personhood"
+  },
+  {
+   "target": "content/principles/SO051 — Use group identity for social cure.md",
+   "concept": "Ubuntu",
+   "phrase": "Ubuntu — personhood through community"
   }
  ],
  "reciprocal": [
@@ -133,7 +168,17 @@
    "target": "content/concepts/Care.md",
    "concept": "Ubuntu",
    "why": "relation-grounded personhood, the African and care-ethics analogues"
+  },
+  {
+   "target": "content/concepts/Relational autonomy.md",
+   "concept": "Ubuntu",
+   "why": "ubuntu presses the relation side of the autonomy/relation tension"
+  },
+  {
+   "target": "content/concepts/The need to belong.md",
+   "concept": "Ubuntu",
+   "why": "ubuntu gives the belonging need a philosophical formulation"
   }
  ],
- "notes": "Ubuntu enriched from Mbiti 1969, Tutu 1999, Metz 2011 (AHRLJ), Matolino & Kwindingwi 2013, SEP Federalism + Reconciliation; quotes verified; related list 10 neighbours; inline proposals for unlinked philosophy-parallels mentions."
+ "notes": "Ubuntu v2 after advisor QC: citation fixed to SAJP 32(2); etymology claim removed; Tutu quote splice fixed; amnesty claim limited to Tutu's reading; debate wording neutralised; Mandela story framed as compendium illustration; tension question added; subheads + hyperlinked sources per owner request; related list 12 (added Relational autonomy, The need to belong). Rejected inline: ST228 (already externally linked), Relational ontology (mention sits inside a Ramose book title; thematic link deferred). Deferred: layers/books/reference pages (R-S01, R Reference, book R, ST, ST-S06) - structural pages, revisit later. Mention pass complete (--max 100)."
 }
