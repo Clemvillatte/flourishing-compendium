@@ -13,15 +13,15 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 
 > **Principle 472** — Practise the fusion of horizons
 
-Gadamer's account of understanding in Truth and Method rejects both of the moves people usually make when trying to grasp something foreign. You do not simply project yourself into the other position (empathy), and you do not measure it against your own standards (subordination). What happens instead he calls the fusion of horizons.
+Gadamer's account of understanding in Truth and Method distinguishes transposing ourselves into a situation from two other moves: empathy with another individual, and subordinating another person to our own standards.
 
-> Transposing ourselves consists neither in the empathy of one individual for another nor in subordinating another person to our own standards; rather, it always involves rising to a higher universality that overcomes not only our own particularity but also that of the other. […] In the process of understanding, a real fusing of horizons occurs. (Gadamer, Truth and Method, trans. Weinsheimer and Marshall, rev. ed., pp. 303-06, [excerpts PDF](https://www.pierre-legrand.com/gadamer-excerpts.pdf))
+> Transposing ourselves consists neither in the empathy of one individual for another nor in subordinating another person to our own standards; rather, it always involves rising to a higher universality that overcomes not only our own particularity but also that of the other. […] In the process of understanding, a real fusing of horizons occurs. (Gadamer, Truth and Method, trans. Weinsheimer and Marshall, rev. ed., as collected in [excerpts PDF](https://www.pierre-legrand.com/gadamer-excerpts.pdf), pp. 303-06 & 309-10)
 
-The "higher universality" is not a compromise or a midpoint. It is a position that could not have been occupied from either side alone, because it contains what each horizon was excluding from the other. What that means for practice is that understanding someone does not require abandoning your own view; it requires letting it be enlarged by something that did not fit in it.
+The "higher universality" Gadamer names is not a midpoint between two positions. It is a position that contains what each horizon was excluding from the other, which is why neither side could have occupied it alone. What that means for practice is that understanding someone does not require abandoning your own view; it requires letting it be enlarged by something that did not fit in it.
 
-**Plain words** Two people looking at the same thing from different places see different things, and both are right about what they see. The usual move is to argue about whose view is the correct one. Gadamer's alternative is that understanding happens when both views get widened enough to include what the other was seeing — not by meeting halfway, but by both ending up somewhere neither started.
+**Plain words** Two people looking at the same thing from different places describe what they see differently. The usual move is to argue about whose view is the correct one. Gadamer's alternative is that understanding happens when a view gets widened enough to include what the other was seeing — a widening that changes the view rather than picking a winner between the two.
 
-*For example:* Imagine an engineer and an artist arguing about a project's design. The argument ends not when one concedes, but when each can state the other's position well enough to be corrected by them. Nothing was surrendered; both horizons got bigger.
+*For example:* Imagine an engineer and an artist arguing about a project's design. The argument moves forward when each can state the other's position accurately enough to be corrected by them; that accurate statement is an early step in the widening Gadamer is describing.
 
 ## Stories
 

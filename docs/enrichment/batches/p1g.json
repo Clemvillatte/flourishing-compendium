@@ -28,12 +28,7 @@
   "CO005",
   "CO007",
   "CO045",
-  "CO050",
-  "CO052",
-  "CO066",
-  "E026",
-  "E031",
-  "E080"
+  "CO050"
  ],
  "in_progress": null,
  "flagged": {
@@ -43,11 +38,16 @@
   "P143": "milestone QC ACCEPTED (advisor round 4c). Inherited parallels citations remain unverified by me (recorded in the item ledgers).",
   "P027": "milestone QC ACCEPTED (advisor round 4c). Inherited parallels citations remain unverified by me (recorded in the item ledgers).",
   "P157": "milestone QC ACCEPTED (advisor round 4c). Inherited parallels citations remain unverified by me (recorded in the item ledgers).",
-  "P179": "milestone QC ACCEPTED for the rewritten bodies (advisor round 5c). Inherited parallels citations and locators remain unverified by me (Bryant and Veroff; Whitehead; Time and Free Will; the Simondon lifelong reading; McCracken/Vowles) — recorded in the item ledgers.",
-  "P190": "milestone QC ACCEPTED for the rewritten bodies (advisor round 5c). Inherited parallels citations and locators remain unverified by me (Bryant and Veroff; Whitehead; Time and Free Will; the Simondon lifelong reading; McCracken/Vowles) — recorded in the item ledgers.",
-  "P092": "milestone QC ACCEPTED for the rewritten bodies (advisor round 5c). Inherited parallels citations and locators remain unverified by me (Bryant and Veroff; Whitehead; Time and Free Will; the Simondon lifelong reading; McCracken/Vowles) — recorded in the item ledgers.",
-  "P093": "milestone QC ACCEPTED for the rewritten bodies (advisor round 5c). Inherited parallels citations and locators remain unverified by me (Bryant and Veroff; Whitehead; Time and Free Will; the Simondon lifelong reading; McCracken/Vowles) — recorded in the item ledgers.",
-  "P151": "milestone QC ACCEPTED for the rewritten bodies (advisor round 5c). Inherited parallels citations and locators remain unverified by me (Bryant and Veroff; Whitehead; Time and Free Will; the Simondon lifelong reading; McCracken/Vowles) — recorded in the item ledgers."
+  "P179": "milestone QC ACCEPTED for the rewritten bodies (advisor round 5c). Inherited parallels citations and locators remain unverified by me (Bryant and Veroff; Whitehead; Time and Free Will; the Simondon lifelong reading; McCracken/Vowles) \u2014 recorded in the item ledgers.",
+  "P190": "milestone QC ACCEPTED for the rewritten bodies (advisor round 5c). Inherited parallels citations and locators remain unverified by me (Bryant and Veroff; Whitehead; Time and Free Will; the Simondon lifelong reading; McCracken/Vowles) \u2014 recorded in the item ledgers.",
+  "P092": "milestone QC ACCEPTED for the rewritten bodies (advisor round 5c). Inherited parallels citations and locators remain unverified by me (Bryant and Veroff; Whitehead; Time and Free Will; the Simondon lifelong reading; McCracken/Vowles) \u2014 recorded in the item ledgers.",
+  "P093": "milestone QC ACCEPTED for the rewritten bodies (advisor round 5c). Inherited parallels citations and locators remain unverified by me (Bryant and Veroff; Whitehead; Time and Free Will; the Simondon lifelong reading; McCracken/Vowles) \u2014 recorded in the item ledgers.",
+  "P151": "milestone QC ACCEPTED for the rewritten bodies (advisor round 5c). Inherited parallels citations and locators remain unverified by me (Bryant and Veroff; Whitehead; Time and Free Will; the Simondon lifelong reading; McCracken/Vowles) \u2014 recorded in the item ledgers.",
+  "CO052": "QC-pending: advisor round 2 corrections applied; awaiting acceptance",
+  "CO066": "QC-pending: advisor round 2 corrections applied; awaiting acceptance",
+  "E026": "QC-pending: advisor round 2 corrections applied; awaiting acceptance",
+  "E031": "QC-pending: advisor round 2 corrections applied; awaiting acceptance",
+  "E080": "QC-pending: advisor round 2 corrections applied; awaiting acceptance"
  },
  "missing_concepts": [],
  "sources_checked": 15,
