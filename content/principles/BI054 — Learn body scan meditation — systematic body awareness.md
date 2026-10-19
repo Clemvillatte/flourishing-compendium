@@ -13,11 +13,11 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BI — Biophysi
 
 > **Principle 54** — Learn body scan meditation: systematic body awareness
 
-The Satipatthana Sutta describes the monk sitting in the forest with mindfulness set to the front of the mind, and the first object named is the body. Whatever its relationship to the modern clinical procedure, the Buddhist instruction is clear about the mechanics: attention is placed on the body, and the attention itself is the practice, not the fixing of whatever is found.
+The Satipatthana Sutta is the classical Buddhist text behind mindfulness of body. Its instruction is narrow: attention is placed on the body, and what is found there is noted rather than corrected.
 
 > "There is the case where a monk remains focused on the body in & of itself — ardent, alert, & mindful — putting aside greed & distress with reference to the world." (Thanissaro Bhikkhu trans., [Satipatthana Sutta, MN 10](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html))
 
-A body scan in modern use is the same operation performed more systematically: attention is walked through parts of the body in turn, and the instruction is to notice what is there — warmth, tension, numbness, nothing — without judging or changing it. The research cited in the parallels section reports that this kind of practice is associated with improved interoception and reduced stress reactivity; the principle here is about the mechanics, not a blanket claim of efficacy.
+The modern body scan is described in MBSR as a related procedure that uses the same object of attention — the body — walked through part by part, noticing sensations without judging or changing them (Kabat-Zinn, 1990). The studies cited in the parallels section examine the effects of this kind of practice; the principle here is about the mechanics of the procedure, and does not assert that efficacy follows.
 
 **Plain words** Most of what your body is doing right now you are not aware of. Tension in the jaw, a held breath, a clenched stomach; these run for hours without being noticed. A body scan is simply walking your attention through each part and asking what is actually there, without fixing anything. What turns up is information you would otherwise have missed.
 

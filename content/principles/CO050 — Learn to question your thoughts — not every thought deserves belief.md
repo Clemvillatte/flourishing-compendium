@@ -13,7 +13,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 
 > **Principle 50** — Learn to question your thoughts: not every thought deserves belief
 
-Cognitive restructuring in CBT is the procedure this principle describes: when a negative automatic thought arrives, it is treated as a hypothesis rather than a fact, and evidence for and against it is examined before the belief commits (Beck, 1976; Burns, 1980). The Buddhist passage quoted below is a related practice from a different tradition; it is not a historical precursor and is included here as a philosophical parallel.
+Cognitive restructuring in CBT is the procedure this principle describes: when a negative automatic thought arrives, it is treated as a hypothesis rather than a fact, and evidence for and against it is examined before the belief commits (Beck, 1976; Burns, 1980). The Buddhist passage quoted below is a related practice from a different tradition; no claim of historical influence is being made here.
 
 > "There is the case where, there being sensual desire present within, a monk discerns that 'There is sensual desire present within me.'" (Thanissaro Bhikkhu trans., [Satipatthana Sutta, MN 10](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html), five hindrances)
 
@@ -21,7 +21,7 @@ What the Buddhist instruction describes is a specific act of recognition — nam
 
 **Plain words** A negative thought arrives in the mind and the reflex is to treat it as a report on reality. The skill being trained is to ask, before believing: what is the evidence for this, what is the evidence against it, and is there another way of reading the same facts. The thought may still arrive; what changes is whether it is accepted on arrival.
 
-*For example:* Imagine someone who notices the thought "I always get this wrong" arriving after a mistake. Instead of accepting it, they ask what the evidence is: one error this week against several tasks that went fine. Reading the same facts differently, the thought changes from "I always get this wrong" to "I got this one wrong"; the first is an unsupported generalisation, the second is checkable and, in this case, false.
+*For example:* Imagine someone who notices the thought "I always get this wrong" arriving after a mistake. Instead of accepting it, they ask what the evidence is: one error this week against several tasks that went fine. Reading the same facts differently, the thought changes from "I always get this wrong" to "I got this one wrong"; the first is an unsupported generalisation, and the second is the one the evidence actually supports.
 
 ## Psychology parallels
 
