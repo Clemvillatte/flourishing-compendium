@@ -12,13 +12,26 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 460** — Practise being-for-others
 
-Recognise that your existence is not merely for-itself but for-others. You exist not only as you know yourself but as you appear to others, and this appearance is not a mere surface but a dimension of your being. Do not deny the being-for-others dimension; integrate it into your self-understanding.
+Sartre's analysis of the Look begins with shame, and the sentence has become the field's shorthand:
 
-(Sartre, 1943/2003, Being and Nothingness, Part III; de Beauvoir, 1947/2018, The Ethics of Ambiguity, Part II.)
+> "Shame is by nature recognition. I recognize that I am as the Other sees me." (Sartre, Being and Nothingness, [Barnes's translation](http://ahistoryofthepresentananthology.blogspot.com/2013/04/being-and-nothingness-by-jean-paul.html))
 
-**Plain words** You exist not only as you know yourself but as you appear to others — and that appearance isn't mere surface; it's a dimension of your being. Don't deny the being-for-others dimension; integrate it. You are, partly, what you are in others' eyes.
+His scene is a man absorbed at a keyhole; footsteps arrive, and he suddenly exists in a new dimension, as the object of a judgment he did not author and cannot fully access: "I am ashamed of myself as I appear to the Other" ([ibid.](http://ahistoryofthepresentananthology.blogspot.com/2013/04/being-and-nothingness-by-jean-paul.html)). The Look makes you a thing in someone else's world, and this objecthood is a real dimension of your being rather than a delusion to be overcome. Sartre's practical upshot is in the same passage: "Thus shame is shame of oneself before the Other; these two structures are inseparable. But at the same time I need the Other in order to realize fully all the structures of my being" ([ibid.](http://ahistoryofthepresentananthology.blogspot.com/2013/04/being-and-nothingness-by-jean-paul.html)). Denying the dimension is itself a project, and usually one built out of caring. Cooley's sociology gives the dimension its mechanics, the [[The looking-glass self|looking-glass self]]:
+
+> "A social self of this sort might be called the reflected or looking-glass self: / 'Each to each a looking-glass / Reflects the other that doth pass.'" (Cooley, Human Nature and the Social Order, ch. 5, [Mead Project edition](https://brocku.ca/MeadProject/Cooley/Cooley_1902/Cooley_1902f.html))
+
+Its three elements: "the imagination of our appearance to the other person; the imagination of his judgment of that appearance, and some sort of self-feeling, such as pride or mortification" ([ibid.](https://brocku.ca/MeadProject/Cooley/Cooley_1902/Cooley_1902f.html)). Cooley's correction to the mirror metaphor matters for practice: "The thing that moves us to pride or shame is not the mere mechanical reflection of ourselves, but an imputed sentiment, the imagined effect of this reflection upon another's mind" ([ibid.](https://brocku.ca/MeadProject/Cooley/Cooley_1902/Cooley_1902f.html)). The glass runs on imagined judgments; some of yours are real information, and some are your own voice wearing someone else's face. The practice is auditing which is which.
+
+**Plain words**
+You have an outside. Other people can see you, and what they see is a real part of you, not the whole of you and not just surface. You cannot delete the outside and you cannot fully control it; you can only own it. Most of what feels like their judgment is your guess about their mind, so the work is checking the guess against the person. The one who "doesn't care what anyone thinks" usually cares so much they have organized their life around never finding out.
 
 *For example:* The person who insists "I don't care what anyone thinks" — and orders their whole life around the avoidance of judgment, which is caring what anyone thinks with extra steps. The dimension is structural; the only question is whether it's owned.
+
+## Sources
+
+- [Sartre, Being and Nothingness (Hazel E. Barnes translation, 1956), Part III, The Look, excerpts](http://ahistoryofthepresentananthology.blogspot.com/2013/04/being-and-nothingness-by-jean-paul.html) — verbatim shame quotes
+- [Cooley, Human Nature and the Social Order (1902), ch. 5, The Mead Project, Brock University](https://brocku.ca/MeadProject/Cooley/Cooley_1902/Cooley_1902f.html) — looking-glass self passage, verbatim
+
 ## Stories
 
 - [[ST281 — The Struggle for Recognition|281. The Struggle for Recognition]]
