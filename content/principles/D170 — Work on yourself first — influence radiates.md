@@ -12,13 +12,15 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 170** — Work on yourself first: influence radiates
 
-Cultivate the self, and the family becomes genuine; the family, and the community; the community, and the state. Your best tool for changing others is your own alignment.
+Chapter 54 of the Daodejing is one of the book's most quoted structural passages, and it runs as an explicit chain. Legge: "He who cultivates the Tao in himself, his virtue is genuine. He who cultivates the Tao in his family, his virtue is overflowing... He who cultivates the Tao in the kingdom, his virtue is universal" ([Daodejing 54, James Legge translation, Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt)). The chain is not a metaphor about spreading kindness; it is a claim about the order of operations. The self is the first domino, and the family, the community, and the state are downstream of it.
 
-(DDJ 54.)
+The reason this is the actual mechanism is not spiritual; it is observational. People watch what you do with what you preach, and the alignment is the signal. A parent who lowers their own voice changes the temperature of the house in a way that no instruction can, because the instruction is competing with the behaviour and losing.
 
-**Plain words** Your best tool for changing others is your own alignment. Everyone's watching what you do with what you preach.
+> "He who cultivates the Tao in himself, his virtue is genuine. He who cultivates the Tao in his family, his virtue is overflowing." (Daodejing 54, James Legge translation, [Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 
-*For example:* The parent who wants a calmer house starts by lowering their own voice — and the house, slowly, calms.
+**Plain words** Your best tool for changing others is your own alignment. This is not a moral instruction about self-improvement; it is an observation about which mechanism actually moves people. The parent who wants a calmer house starts by lowering their own voice, and the house, slowly, calms — not because the children noticed the instruction, but because the environment changed.
+
+*For example:* Two managers both want a more respectful team. One institutes a policy and polices violations; the team complies outwardly and changes nothing. The other starts showing up on time, listening without interrupting, and giving credit; the team starts doing the same without being asked. Same goal; only one of them used the channel that actually carries the signal.
 
 ## Psychology parallels
 
