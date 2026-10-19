@@ -16,9 +16,21 @@ The four ennobling tasks: embrace life, let reactivity be, see reactivity stop, 
 
 (Batchelor, After Buddhism; SN 56.11 read as prescription.)
 
-**Plain words** Treat the truths as tasks, not beliefs. Embrace life, let reactivity be, see reactivity stop, actualize a path — a teaching is something to do, not something to affirm. The difference between a philosophy and a practice is whether it survives contact with a Tuesday.
+### The verbs in the sutta
+
+The prescriptive reading rests on the sutta's own grammar. Each truth arrives three times, identified, assigned, and reported done:
+
+> "Vision arose, insight arose, discernment arose, knowledge arose, illumination arose within me with regard to things never heard before: 'This noble truth of stress is to be comprehended.'... 'This noble truth of the origination of stress is to be abandoned'... 'This noble truth of the cessation of stress is to be directly experienced'... 'This noble truth of the way of practice leading to the cessation of stress is to be developed.'" (SN 56.11, [Thanissaro](https://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html))
+
+Nothing in the pattern asks for assent. The truths come with infinitives attached, and the awakened report is in the perfect tense: comprehended, abandoned, experienced, developed. Batchelor's "tasks, not beliefs" is that grammar made explicit.
+
+**Plain words** A belief is something you can hold while doing nothing else. A task has a verb in it, and the verb is where the teaching lives. Notice what the sutta never asks: whether the statements are true. The questions are whether the stress has been comprehended, the origination abandoned, the cessation experienced, the path developed. Test any teaching you carry by the same standard: what would count as having done it? If nothing would, it is a belief wearing a practice's clothes.
 
 *For example:* Reading ten books on swimming versus getting in the water — only one of them ever changes what your body can do.
+
+## Sources
+
+- [SN 56.11, Dhammacakkappavattana Sutta (Thanissaro), Access to Insight](https://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html) — the four duties: comprehended, abandoned, directly experienced, developed
 
 ## Psychology parallels
 
@@ -28,7 +40,8 @@ The four ennobling tasks: embrace life, let reactivity be, see reactivity stop, 
 ## Philosophy parallels
 
 - **[[Pragmatism|Pragmatism]]** (truth as what works in practice, James, Pragmatism)
-- **[[Spiritual exercises|Spiritual exercises]]** (Hadot, Philosophy as a Way of Life)- **[[Four Noble Truths|Four Noble Truths]]** (Buddhism, SN 56.11)
+- **[[Spiritual exercises|Spiritual exercises]]** (Hadot, Philosophy as a Way of Life)
+- **[[Four Noble Truths|Four Noble Truths]]** (Buddhism, SN 56.11)
 
 
 <!-- fc: reflections
