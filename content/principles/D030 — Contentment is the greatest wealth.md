@@ -12,13 +12,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 30** — Contentment is the greatest wealth
 
-There is no greater disaster than not knowing contentment, no greater sin than the desire for gain. Contentment averts disgrace; it is riches that cannot be taxed.
+Chapter 46 names the failure directly:
+
+> "There is no guilt greater than to sanction ambition; no calamity greater than to be discontented with one's lot; no fault greater than the wish to be getting. Therefore the sufficiency of contentment is an enduring and unchanging sufficiency." (Daodejing 46, [Legge](https://www.gutenberg.org/cache/epub/216/pg216.txt))
+
+Chapter 44 puts it as a choice of what to keep, in Legge's verse: fame or life, life or wealth, and the contented person "needs fear no shame". The compendium's reading of the two chapters: wanting has no fixed finish line, because the line is set by comparison with whoever is ahead; contentment draws its own line, and that line is reachable because you drew it. This is the wealth the principle means, an asset held in a currency no neighbour's raise can touch.
 
 (DDJ 44, 46.)
 
-**Plain words** There's no disaster like not knowing contentment, no sin like the itch for gain. Contentment is wealth that can't be taxed, taken, or outperformed by a neighbor. It's not lowering your sights — it's realizing the race has no finish line unless you draw one.
+**Plain words**
+Financial misery usually traces to the reference point rather than the money itself. Two people with the same salary can feel rich and behind respectively, because one is comparing against what they have and the other against what someone else has. The exercise: write down what enough looks like for you, in numbers and hours, and check purchases and jobs against that line rather than against other people's.
 
-*For example:* Two people with the same salary: one feels perpetually behind, one feels rich. The difference isn't income — it's the contentment line.
+**For example**
+Two people with the same salary, one perpetually behind and one rich in their own eyes: the difference is the line each is measuring against, and only one of the two lines can be reached.
+
+## Sources
+
+- [Tao Te Ching, trans. James Legge (Project Gutenberg)](https://www.gutenberg.org/cache/epub/216/pg216.txt) — ch. 46 §2 (blockquote), ch. 44 §3 (verse, quoted fragment)
 
 ## Stories
 
