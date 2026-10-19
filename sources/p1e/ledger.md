@@ -67,3 +67,10 @@ Advisor QC (2026-10-19): quotes verified (BQ1 ch. 22 sentence, BQ2 ch. 68 verse 
 - Inherited, NOT opened/verified: Shapiro et al. 2006 claim — flagged in the band state file.
 - Saturation: Decentering concept cites D023; no justified new proposals.
 - Validator: ok, prose 166 words; no wikilink changes; protected fields untouched.
+
+## D045 — Keep the empty cup (done; no advisor QC per speed directive, item 9)
+
+- Opened: DDJ 11, 71 (Legge, Gutenberg raw text) and Zhuangzi ch. 4 fasting-of-the-mind passage (Legge, ETH Zurich PDF, direct pypdf extraction, PDF page 18). All editions already counted; batch research. Verified verbatim: DDJ 11 spokes/vessel empty-space sentence; "But the spirit is free from all pre-occupation and so waits for (the appearance of) things." (Zhuangzi 4); DDJ 71 "To know that you have no knowledge is the best" (paraphrased with citation).
+- D045 was on the plain-words replicate list; replicate Plain words replaced.
+- Saturation: Cognitive defusion concept cites D045; no justified new proposals.
+- Validator: ok, prose 178 words; no wikilink changes; protected fields untouched.
