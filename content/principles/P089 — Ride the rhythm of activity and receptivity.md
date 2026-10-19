@@ -12,19 +12,19 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 89** — Ride the rhythm of activity and receptivity
 
-Dewey's account of experience is built on the pair: doing and undergoing, outgoing and incoming energy ([Dewey, Art as Experience, 1934](https://archive.org/stream/deweyjohnartasanexperience/DEWEY%20John,%20Art%20as%20an%20Experience%22_djvu.txt)). The rhythm he describes runs through all life:
+Dewey describes doing and undergoing in terms of outgoing and incoming energy ([Art as Experience](https://archive.org/stream/deweyjohnartasanexperience/DEWEY%20John,%20Art%20as%20an%20Experience%22_djvu.txt)).
 
-> There are rhythmic beats of want and fulfillment, pulses of doing and being withheld from doing. All interactions that effect stability and order in the whirling flux of change are rhythms. There is ebb and flow, systole and diastole; ordered change. (Dewey, Art as Experience, [full text](https://archive.org/stream/deweyjohnartasanexperience/DEWEY%20John,%20Art%20as%20an%20Experience%22_djvu.txt))
+> In short, art, in its form, unites the very same relation of doing and undergoing, outgoing and incoming energy, that makes an experience to be an experience. (Dewey, Art as Experience, [Internet Archive](https://archive.org/stream/deweyjohnartasanexperience/DEWEY%20John,%20Art%20as%20an%20Experience%22_djvu.txt))
 
-In short, art, in its form, unites the very same relation of doing and undergoing, outgoing and incoming energy, that makes an experience to be an experience ([Dewey 1934](https://archive.org/stream/deweyjohnartasanexperience/DEWEY%20John,%20Art%20as%20an%20Experience%22_djvu.txt)). The principle takes the physiological hint seriously: systole without diastole is not stronger pumping, it is failure. The receptive phases are half of intelligent action, not its absence.
+A practical application is to leave room during an activity to take in what has happened before deciding what to do next.
 
 (Dewey, Art as Experience, 1934; Bergson, Time and Free Will, 1889.)
 
 **Plain words**
-The calendar treats every hour as a working hour waiting to be filled; the body does not. Effort and recovery alternate in everything that lasts: the stride, the breath, the study session that ends with a walk. Treat the walk as part of the work, and schedule it like one; the alternative is calling it slacking and cutting it.
+Before pressing on, ask what you have noticed that your original plan did not account for. Does the plan still fit? Give that question some time before choosing your next step.
 
 **For example**
-The writer who walks after drafting — the walking is not slacking; it's where the next paragraph is being assembled. Receptivity is a work mode.
+After drafting a page, take a short walk. When you return, read the page before revising and note one passage you want to change.
 
 ## Sources
 

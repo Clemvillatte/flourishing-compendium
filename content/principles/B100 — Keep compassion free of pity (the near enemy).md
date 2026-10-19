@@ -12,19 +12,19 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 100** — Keep compassion free of pity (the near enemy)
 
-The distinction is Buddhaghosa's, in the Visuddhimagga: each divine abiding has a near enemy and a far enemy. Compassion's far enemy is cruelty; its near enemy is grief based on the home life, the worldly sadness that shares compassion's sight of failure without sharing its work ([Visuddhimagga IX.99, Ñāṇamoli](https://www.wisdomlib.org/buddhism/book/visuddhimagga-the-pah-of-purification/d/doc1085082.html)).
+The distinction is Buddhaghosa's, in the Visuddhimagga: each divine abiding has a near enemy and a far enemy. Compassion's far enemy is cruelty; its near enemy is grief based on the home life, since both share in seeing failure ([Visuddhimagga IX.99, Ñāṇamoli](https://www.wisdomlib.org/buddhism/book/visuddhimagga-the-pah-of-purification/d/doc1085082.html)).
 
 > Compassion has grief based on the home life as its near enemy, since both share in seeing failure. ... And cruelty, which is dissimilar to the similar grief, is its far enemy. (Visuddhimagga IX.99, [Ñāṇamoli](https://www.wisdomlib.org/buddhism/book/visuddhimagga-the-pah-of-purification/d/doc1085082.html))
 
-The compendium's gloss, pity looks down while compassion stands beside, is the modern rendering of the same alert: the counterfeit resembles the real thing closely enough to be mistaken for it. The pairs for the other abidings run the same way: greed for loving-kindness, worldly joy for gladness, the equanimity of unknowing for equanimity ([Visuddhimagga IX.98-101, Ñāṇamoli](https://www.wisdomlib.org/buddhism/book/visuddhimagga-the-pah-of-purification/d/doc1085082.html)).
+The page's practical concern is a separate application: help that looks down on the person helped is a counterfeit of compassion, close enough to be mistaken for it. The pairs for the other abidings: greed for loving-kindness, worldly joy for gladness, the equanimity of unknowing for equanimity ([Visuddhimagga IX.98-101, Ñāṇamoli](https://www.wisdomlib.org/buddhism/book/visuddhimagga-the-pah-of-purification/d/doc1085082.html)).
 
 (Brahmavihara commentarial tradition.)
 
 **Plain words**
-The tradition says each of the four has a counterfeit that passes for it at a distance. Compassion's counterfeit is the version that keeps the sufferer small and the helper comfortable: "poor thing", said from above. The test is position. Someone beside you can take part of the load; someone above you can only describe it.
+The tradition says each of the four has a counterfeit that passes for it at a distance. The counterfeit of compassion keeps the sufferer small and the helper comfortable: "poor thing", said from above. The test is position: whether you are beside the person or above them.
 
 **For example**
-"Poor thing" (pity, from above) versus "that's hard, I'm here" (compassion, beside) — the person on the receiving end feels the difference instantly.
+"Poor thing" (pity, from above) versus "that's hard, I'm here" (compassion, beside) — the words differ, and so does the position they put the person in.
 
 ## Sources
 

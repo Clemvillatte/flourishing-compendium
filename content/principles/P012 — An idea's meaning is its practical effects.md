@@ -16,15 +16,15 @@ The principle is Peirce's rule for the third grade of clearness, stated in his 1
 
 > Consider what effects, that might conceivably have practical bearings, we conceive the object of our conception to have. Then, our conception of these effects is the whole of our conception of the object. (Peirce, How to Make Our Ideas Clear, 1878, [peirce.org](https://www.peirce.org/writings/p119.html))
 
-Peirce grounds the maxim in his account of belief as the establishment of a habit: beliefs that issue in the same rule of action do not differ in any way that matters ([Peirce 1878, peirce.org](https://www.peirce.org/writings/p119.html)). A conception with no conceivable practical bearing has no content to check; the compendium's workability kernels run exactly this test.
+Peirce grounds the maxim in his account of belief as the establishment of a habit: beliefs that appease the same doubt by producing the same rule of action are not different beliefs ([Peirce 1878, peirce.org](https://www.peirce.org/writings/p119.html)). The maxim asks for conceivable practical bearings, which is a wider net than immediate behaviour: a belief may name differences you would act on only rarely, or under conditions you have not yet met.
 
 (Peirce, "How to Make Our Ideas Clear," 1878.)
 
 **Plain words**
-If believing something would change nothing you'd ever do, you don't have a belief — you have a decoration. Understanding a concept means knowing what difference its truth would make in practice.
+A belief is a habit, a rule of action; the maxim asks what conceivable differences its truth would make to practice. If you cannot name any, the belief has not been made clear yet. Understanding a concept means being able to say what would be different if it were true.
 
 **For example**
-'I have a good heart' — what would that make you do differently? Nothing? Then it's a mood, not a belief. The test bites.
+Take "I have a good heart". List the conceivable practical differences between its being true and its being false. A list you cannot fill in marks a phrase, not yet a belief.
 
 ## Sources
 
