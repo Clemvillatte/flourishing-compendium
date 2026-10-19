@@ -12,13 +12,19 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 111** — Do art as experience, not as object
 
-Art is not primarily artifacts in museums; it is the fully realized experience of making and perceiving. Make something regularly: cook, garden, write, play — for the experience itself.
+Dewey connects the appreciation of art with the experience of making it: both require attention to how parts develop into a whole. In his account, an experience acquires meaning when a person perceives the relationship between an action and what follows from it (Art as Experience, III, LW 10:50, 55, [text](https://www.uio.no/studier/emner/uv/uv/UV9406/dewey-john-(1987).-art-as-experience.pdf)).
 
-(Dewey, Art as Experience, 1934.)
+> "Without an act of recreation the object is not perceived as a work of art." (Dewey, Art as Experience, 1934, III, LW 10:60, [text](https://www.uio.no/studier/emner/uv/uv/UV9406/dewey-john-(1987).-art-as-experience.pdf))
 
-**Plain words** Art is not primarily artifacts in museums — it's the fully realized experience of making and perceiving. Make something regularly: cook, garden, write, play — for the experience itself. The object is the residue; the experience is the art.
+The viewer's experience need not duplicate the artist's; Dewey explicitly denies that literal identity. What matters is actively discovering relationships in the work rather than stopping at recognition of its subject (III, LW 10:59-60, [text](https://www.uio.no/studier/emner/uv/uv/UV9406/dewey-john-(1987).-art-as-experience.pdf)).
 
-*For example:* The Sunday bread that gets eaten within the hour — no photo, no market. The kneading, the smell, the sharing: that was the museum piece. It just didn't need walls.
+### Plain words
+
+When you make something, try noticing how each choice changes what you are working on. When you look or listen, stay long enough to follow a relationship: how a melody returns, or how one colour changes the appearance of another. The compendium's practical suggestion is to attend to the unfolding work as well as the finished result.
+
+### For example
+
+Imagine making bread on Sunday. Notice how the dough responds to your hands, adjust your kneading, and compare the baked loaf with what you intended. Ask which moments held your attention and which you rushed through; there is more to reflect on than whether the loaf looks impressive.
 
 ## Practice kernels
 
@@ -26,7 +32,7 @@ Art is not primarily artifacts in museums; it is the fully realized experience o
 - [[K110 — Savoring|K165 Savoring practice]]
 ## Psychology parallels
 
-- **[[Everyday creative activities|Everyday creative activities]]**, raise positive affect and flourishing (Conner et al., 2018)
+- **[[Everyday creative activities|Everyday creative activities]]**: a 13-day diary study of 658 young adults linked more creative activity than usual with higher next-day activated positive affect and flourishing; this was an observational association, not a randomised intervention ([Conner et al., 2018, abstract](https://www.tandfonline.com/doi/abs/10.1080/17439760.2016.1257049)).
 
 ## Philosophy parallels
 
