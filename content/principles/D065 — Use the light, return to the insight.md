@@ -12,13 +12,26 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 65** — Use the light, return to the insight
 
-Send awareness outward to act, but keep drawing it back to its source. Work in the world from a rested inner base.
+DDJ 52 frames it as a return: the Tao that originated all under the sky is the mother of all things; know the sons, then return to keep the mother ([Legge, DDJ 52](https://www.gutenberg.org/cache/epub/216/pg216.txt)). The chapter's closing verse gives the principle its wording.
+
+> Who uses well his light,
+> Reverting to its (source so) bright,
+> Will from his body ward all blight,
+> And hides the unchanging from men's sight. (DDJ 52, [Legge](https://www.gutenberg.org/cache/epub/216/pg216.txt))
+
+Chapter 52 pairs noticing small things with clear sight and guarding what is soft with strength ([Legge, DDJ 52](https://www.gutenberg.org/cache/epub/216/pg216.txt)). As a modern application, the image of returning can serve as a reminder to check what is directing your actions before continuing.
 
 (DDJ 52.)
 
-**Plain words** Reach out into the world, then draw back to base — the exhale matters as much as the reach. People who only reach become brittle; people who only return become hermits.
+**Plain words**
+When one demand follows another, ask what you are trying to accomplish before answering the next one. Does it still need your attention, or have you carried on out of habit? Returning means making that check and choosing your next action.
 
-*For example:* After hours of people-facing work, five minutes alone in the car isn't antisocial — it's the return that makes the next hours possible.
+**For example**
+Imagine leaving a demanding meeting with another task waiting. Pause to notice what from the meeting still occupies your attention, then decide how to begin the next task.
+
+## Sources
+
+- [The Tao Teh King, James Legge translation, Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt) — chapter 52
 
 ## Practice kernels
 

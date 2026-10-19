@@ -21,7 +21,7 @@ The images are about pace rather than effort: nothing in the list can be hurried
 (DDJ 64.)
 
 **Plain words**
-You cannot watch a kettle and make it boil. Bread, casts, crops, friendships, skills: each has a stage where nothing visible is happening and the thing is doing its work in the dark. Checking on it does not speed it up; opening it does set it back. The practice is keeping your hands off the process between its start and its finish.
+You cannot watch a kettle and make it boil. Some processes have a stage where nothing visible is happening and the thing is doing its work; checking on it does not speed it up, and some things, bread among them, are set back by an early look. The practical question is which kind of thing you are waiting on.
 
 **For example**
 Pulling bread out of the oven ten minutes early because you're hungry gets you dough, not dinner.

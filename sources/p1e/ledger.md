@@ -74,3 +74,17 @@ Advisor QC (2026-10-19): quotes verified (BQ1 ch. 22 sentence, BQ2 ch. 68 verse 
 - D045 was on the plain-words replicate list; replicate Plain words replaced.
 - Saturation: Cognitive defusion concept cites D045; no justified new proposals.
 - Validator: ok, prose 178 words; no wikilink changes; protected fields untouched.
+
+## D065 — Use the light, return to the insight (done, advisor-approved; item-10 milestone QC)
+
+- Opened: DDJ 52 (Legge, Gutenberg raw text, already counted; batch research). Verified verbatim: the closing verse "Who uses well his light, / Reverting to its (source so) bright, / Will from his body ward all blight, / And hides the unchanging from men's sight." and ch. 52.1 mother/sons framing (paraphrased with citation).
+- Advisor QC (item-10 milestone): verse verified; approved replacements applied (P2, Plain words, For example: the "light = awareness spent outward" interpretation, the brittle/hermits claim and the five-minute recovery guarantee removed as unsupported).
+- Inherited, NOT opened/verified: Nisbett & Wilson 1977 and Schooler et al. 2011 bibliographic references in psychology parallels — flagged in the band state file; the citations' accuracy as claims is not established.
+- Saturation: Meta-awareness and Limits of introspection read in full (both cite D065); core-term scan ("return") run: plausible results are Husserlian principles unrelated to D065; no justified new proposals.
+- Preservation: front matter, reflections, wikilink markup all byte-identical vs pre-item baseline 378b0cf; validator ok, prose 154 words.
+
+## Milestone repairs (advisor-directed, same commit)
+
+- D008 CORRECTION: the DDJ 39 sentence wrongly said the creatures were "made by the One"; the opened raw text (Legge ch. 39.1) actually reads "The things which from of old have got the One (the Tao) are-- / Heaven which by it is bright and pure; / Earth rendered thereby firm and sure;..." — body corrected to a faithful list paraphrase. The earlier D008 ledger line quoting "In the highest antiquity, the ten thousand creatures were made by the One" was a reconstruction, NOT verbatim evidence; that line is superseded by this entry. Lesson recorded: never write a verification line without the exact extracted text in hand.
+- D018 CORRECTION: Plain words narrowed per advisor — the universal "opening it does set it back" and the blanket "keep your hands off the process" instruction replaced; now scoped to "some things, bread among them, are set back by an early look" with the practical question of which kind of thing you are waiting on.
+- Both repairs: validator ok; front matter, reflections, wikilinks byte-identical vs baselines; prose counts D008 233, D018 162.
