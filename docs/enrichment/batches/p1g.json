@@ -24,7 +24,8 @@
   "P172",
   "Y015",
   "E009",
-  "BI054"
+  "BI054",
+  "CO005"
  ],
  "in_progress": null,
  "flagged": {
@@ -42,7 +43,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 15,
- "updated": "2026-10-19T14:34:26+00:00",
+ "updated": "2026-10-19T14:35:34+00:00",
  "band_done": false,
  "takeover": {
   "by": "genuineflourishing35",

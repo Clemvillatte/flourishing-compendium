@@ -10,13 +10,19 @@ number: "5"
 navigation: {"track": "philosophy", "primaryPath": ["NAV-PHILOSOPHY", "NAV-PHIL-PP"], "alternatePaths": []}
 legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognition", "chapter": "CO-S01 — LAYER I — FIRST PRINCIPLES — THE ARCHITECTURE OF THINKING", "parent": ""}
 ---
+
 > **Principle 5** — Understand that thinking is embodied: the body shapes the mind
 
-Cognition is not a disembodied computation; it is grounded in bodily states, sensorimotor experience, and physical context. Your posture, energy level, gut state, and hormonal profile all influence how you think. Abstract reasoning recruits bodily metaphors.
+Merleau-Ponty's formulation is the cleanest one-liner on the subject: the body is not a container that consciousness happens to occupy; it is the general medium through which any world shows up for you at all. What that means in practice is that your thinking is never running on pure reason alone; it is running on top of a specific posture, energy level, gut state, and history of physical movement.
 
-**Plain words** Thinking is embodied: your posture, energy level, gut state, and hormones shape how you think. Cognition isn't a disembodied computation. The mind runs on the body's current chemistry — read the hardware before trusting the output.
+> The body is our general medium for having a world. Sometimes it is restricted to the actions necessary for the conservation of life, and accordingly it posits around us a biological world; at other times, elaborating upon these primary actions and moving from their literal to a figurative meaning, it manifests through them a core of new significance: this is true of motor habits such as dancing. (Merleau-Ponty, Phenomenology of Perception, trans. Colin Smith, [archive.org PDF](https://ia601603.us.archive.org/13/items/a077413/Phenomenology+of+Perception.pdf))
+
+The practical implication is a diagnostic one. When your thinking is rigid, hopeless, or foggy, the first place to check is not your reasoning but your hardware: sleep, food, breath, posture, movement. None of these produce the content of a thought, but they set the conditions under which the thought is generated, and that changes the thought.
+
+**Plain words** People assume their conclusions come from reasoning. In fact the reasoning runs on top of a body that is tired, hungry, tense, or rested, and that state colours the conclusion before you get to check it. If a line of thinking is suddenly dark and hopeless, the first question is not "what is wrong with my life"; it is "when did I last eat, sleep, or move".
 
 *For example:* The "existential crisis" that arrives reliably at 4 p.m. on an empty stomach — and dissolves at 4:30 with food. The philosophy was running on the blood sugar. Some of your deepest thoughts are catering.
+
 ## Psychology parallels
 
 - **[[Embodied cognition|Embodied cognition]]**, abstract concepts are processed via sensorimotor systems; physical experience shapes conceptual thought (Barsalou, 2008; Lakoff & Johnson, 1999)
