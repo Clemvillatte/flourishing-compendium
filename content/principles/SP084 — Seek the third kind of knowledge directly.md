@@ -16,9 +16,11 @@ Spinoza sorts everything we know into three kinds. The first is opinion: percept
 
 > "Besides these two kinds of knowledge, there is, as I will hereafter show, a third kind of knowledge, which we will call intuition. This kind of knowledge proceeds from an adequate idea of the absolute essence of certain attributes of God to the adequate knowledge of the essence of things." (Ethics II, P40 scholium 2, [Elwes translation, Project Gutenberg](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm))
 
-Part V states what this knowledge is worth: "The highest endeavour of the mind, and the highest virtue is to understand things by the third kind of knowledge." (V, P25.) And what it delivers: "From this third kind of knowledge arises the highest possible mental acquiescence." (V, P27.)
+Part V connects this knowledge with virtue and mental acquiescence:
 
-Spinoza illustrates the difference with a piece of arithmetic, and it is the whole of his own illustration: given the numbers 1, 2 and 3, find the fourth proportional. A tradesman who learned the rule without proof multiplies and divides; someone who grasps the ratio simply sees that the fourth number is six, "because we infer the fourth number from an intuitive grasping of the ratio, which the first bears to the second." (II, P40 scholium 2.) Rule-follower and seer both arrive at six; the knowing is different.
+> "The highest endeavour of the mind, and the highest virtue is to understand things by the third kind of knowledge." (Ethics V, P25.)
+
+> "From this third kind of knowledge arises the highest possible mental acquiescence." (Ethics V, P27.)
 
 (Ethics V, P25-27; II, P40 scholium 2.)
 

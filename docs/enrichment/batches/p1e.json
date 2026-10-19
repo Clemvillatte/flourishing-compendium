@@ -85,13 +85,13 @@
   "S014": "statement's Meditations locators (IV.10, VIII.50) do not match the principle's content in Long's numbering (IV.10 is about reason and change of mind, VIII.50 is the fountain passage); the eternity-appointment passage verified at X.5 in Long's translation; Seneca On Providence not opened; needs supervisor verification",
   "SE002": "Inherited For example claims 'the observer was never in danger' during panic - unverified; supervisor review",
   "SO006": "inherited psychology parallels (IOM 2009, Wahlbeck 2015, WHO 2022, Wandersman/Florin 2003) and Dewey/Whitehead parallels not opened; preserved",
-  "SP084": "inherited psychology parallel (Klein naturalistic decision-making) not verified; preserved per protocol",
+  "SP084": "Reopened for QC: QC round 4: body arithmetic paragraph to be removed (duplication + unsupported 'whole of his own illustration'), V P25/P27 to standalone blockquotes",
   "A012": "inherited psychology parallels (Mischel, Duckworth, Bowen) and Epicurus/Dhammacakkappavattana parallels not opened; preserved",
   "A021": "inherited psychology parallels (Tangney/Dearing, Haidt) and Woodruff reverence parallel not opened; preserved"
  },
  "missing_concepts": [],
  "sources_checked": 25,
- "updated": "2026-10-19T14:39:40+00:00",
+ "updated": "2026-10-19T14:40:43+00:00",
  "band_done": false,
  "takeover": {
   "by": "genuineflourishing35",
