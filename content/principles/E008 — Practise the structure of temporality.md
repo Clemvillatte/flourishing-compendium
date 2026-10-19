@@ -12,13 +12,26 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 400** — Practise the structure of temporality
 
-Attend to the structure of your temporal experience. You do not experience time as a sequence of discrete now-points. You experience a present that retains the just-past and protends the about-to-come. The structure of retention and protention is the ground of all experience. Pay attention to how your experience stretches backward (retention) and forward (protention).
+This page relies on the Stanford Encyclopedia of Philosophy's account of Husserl's lectures on internal time-consciousness, quoted directly. The lectures themselves have not been checked.
 
-(Husserl, 1893-1917/1991, On the Phenomenology of the Consciousness of Internal Time; Husserl, 1913/1982, Ideas I, §81.)
+### The three-part structure
 
-**Plain words** You don't experience time as a sequence of discrete now-points — you experience a present that retains the just-past and reaches toward the about-to-come. Retention and protention: the structure of lived time. A melody only works because you hold the notes.
+The [SEP entry on Husserl](https://plato.stanford.edu/entries/husserl/) says he "employs three technical terms to describe the temporal structure of consciousness". There is a "primal impression" directed at "the strictly circumscribed now-phase of the object", which "never occurs in isolation". It is accompanied by a retention, which gives "a consciousness of the just-elapsed phase of the object", and by a protention, which "in a more-or-less indefinite way intends the phase of the object about to occur". The full structure of any ongoing experience is "primal impression-retention-protention".
 
-*For example:* Someone with the "short attention span" discovers the problem isn't attention but retention — they arrive at each moment fresh, holding nothing — and the melody of conversations, books, and projects only exists for those who keep the notes.
+### The melody
+
+The SEP entry on [phenomenological approaches to self-consciousness](https://plato.stanford.edu/entries/self-consciousness-phenomenological/) calls the melody "Husserl's favorite example". Hearing a tune, we do not get "a knife-edge presentation (primal impression) of one note, which is then completely washed away". Consciousness "retains the sense of the first note as just past", and the hearing is "enriched by an anticipation (protention) of the next note". The same entry points out that retention is not hearing the note a second time. It is "an intentional retaining of my just past experience of the melody as just past".
+
+### Two cautions
+
+First, retention and protention "occur without our active or deliberate contribution", and are distinct from episodic memory and future thinking, which "presuppose" them (SEP, Husserl). So the principle's practice of paying attention to this structure is a reflective exercise, not something we do on purpose in the moment. Second, retention is not memory in the ordinary sense, so "holding the notes" is a loose figure for it.
+
+(Husserl, On the Phenomenology of the Consciousness of Internal Time; Ideas I §81.)
+
+**Plain words** You never hear a single note on its own. Each one comes with the one just before it and a sense of what is coming. Husserl says this is how a tune, a sentence or a conversation can be experienced as a whole. You do not decide to do it, but you can notice it.
+
+*For example:* Listen to a sentence being spoken. When the last word arrives you hear the whole sentence, not just that word, because the earlier words are still there as just-past. Notice that, and you are noticing retention.
+
 ## Stories
 
 - [[ST123 — Louise Learns the Language|123. Louise Learns the Language]]
