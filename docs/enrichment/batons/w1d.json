@@ -1,7 +1,7 @@
 {
  "baton": "w1d",
- "agent": "genuineflourishing37",
- "clocked_in": "2026-10-19T13:01:56+00:00",
+ "agent": "genuineflourishing35",
+ "clocked_in": "2026-10-19T13:16:28.913930+00:00",
  "takeovers": [
   {
    "by": "Agent D (Computer)",
@@ -26,6 +26,12 @@
    "at": "2026-10-19T12:15:35+00:00",
    "from": "Agent D (Computer)",
    "reason": "stale (143 min)"
+  },
+  {
+   "by": "genuineflourishing35",
+   "at": "2026-10-19T13:16:28.913930+00:00",
+   "from": "genuineflourishing37",
+   "reason": "owner-confirmed death of genuineflourishing37; takeover per OPERATIONS.md"
   }
  ],
  "released": false
