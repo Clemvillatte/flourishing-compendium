@@ -2,11 +2,12 @@
  "batch": "w1b",
  "done": [
   "The observing self",
-  "The relational self"
+  "The relational self",
+  "To the things themselves"
  ],
  "flagged": {},
  "missing_concepts": [],
- "sources_checked": 16,
+ "sources_checked": 17,
  "inline": [],
  "reciprocal": [
   {
@@ -98,6 +99,51 @@
    "target": "content/concepts/Co-regulation in relationships.md",
    "concept": "The relational self",
    "why": "affect itself is shaped between people, not only within"
+  },
+  {
+   "target": "content/concepts/Epoché.md",
+   "concept": "To the things themselves",
+   "why": "the epoché clears the way for Husserl's return"
+  },
+  {
+   "target": "content/concepts/Intentionality.md",
+   "concept": "To the things themselves",
+   "why": "the maxim presupposes consciousness as always consciousness of something"
+  },
+  {
+   "target": "content/concepts/Phenomenology of the lifeworld.md",
+   "concept": "To the things themselves",
+   "why": "the return's destination in later Husserl"
+  },
+  {
+   "target": "content/concepts/Pure experience.md",
+   "concept": "To the things themselves",
+   "why": "James's parallel return to experience before the subject-object split"
+  },
+  {
+   "target": "content/concepts/Tathata, suchness.md",
+   "concept": "To the things themselves",
+   "why": "things as they are, the Buddhist counterpart (B124)"
+  },
+  {
+   "target": "content/concepts/Beginner's mind.md",
+   "concept": "To the things themselves",
+   "why": "the Zen posture of first encounter (B048)"
+  },
+  {
+   "target": "content/concepts/Pu (the uncarved block).md",
+   "concept": "To the things themselves",
+   "why": "the Daoist return to the unhewn (D010)"
+  },
+  {
+   "target": "content/concepts/Ziran (naturalness).md",
+   "concept": "To the things themselves",
+   "why": "things being what they are of themselves (D002)"
+  },
+  {
+   "target": "content/concepts/Aisthesis.md",
+   "concept": "To the things themselves",
+   "why": "trained perception as contact with the given (A050)"
   }
  ],
  "notes": "Advisor QC passed after two rounds (word count fixed to validator limit, lineage claims weakened, ACT framed as related not derivative, James paraphrased per source, three related-concept clauses verified against Britannica / Drig-Drisya-Viveka course text / Hadot commentary). Original citation line 'Deikman, 1963, 1982' retained; the 1963 date could not be confirmed on deikman.com's Experimental Meditation page (not stated there), noted here as a legacy citation caveat. No inline proposals: every plain-text 'observing self' mention found in the corpus was already wikilinked."
