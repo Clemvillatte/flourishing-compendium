@@ -12,13 +12,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 18** — Give things time
 
-Processes ripen at their own pace; a tower is built from a tiny mound, a giant tree from a sprout. Don't harvest early.
+Chapter 64 states it with three images of scale, each a thing that looks sudden but was gradual. The chapter pairs them with a warning about endings: those who are careful at the end as at the beginning do not ruin things near completion ([Legge, DDJ 64](https://www.gutenberg.org/cache/epub/216/pg216.txt)).
+
+> The tree which fills the arms grew from the tiniest sprout; the tower of nine storeys rose from a (small) heap of earth; the journey of a thousand li commenced with a single step. (DDJ 64, [Legge](https://www.gutenberg.org/cache/epub/216/pg216.txt))
+
+The images are about pace rather than effort: nothing in the list can be hurried by wanting it sooner. Ripening is the process doing its own work, and harvesting early interrupts the work rather than accelerating it.
 
 (DDJ 64.)
 
-**Plain words** Processes ripen at their own pace. A giant tree grows from a sprout; you can't harvest early without ruining the crop. Impatience doesn't speed things up — it just makes you miserable and sometimes breaks the thing.
+**Plain words**
+You cannot watch a kettle and make it boil. Bread, casts, crops, friendships, skills: each has a stage where nothing visible is happening and the thing is doing its work in the dark. Checking on it does not speed it up; opening it does set it back. The practice is keeping your hands off the process between its start and its finish.
 
-*For example:* Pulling bread out of the oven ten minutes early because you're hungry gets you dough, not dinner.
+**For example**
+Pulling bread out of the oven ten minutes early because you're hungry gets you dough, not dinner.
+
+## Sources
+
+- [The Tao Teh King, James Legge translation, Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt) — chapter 64
 
 ## Practice kernels
 

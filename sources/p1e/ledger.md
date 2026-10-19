@@ -52,3 +52,10 @@ Advisor QC (2026-10-19): quotes verified (BQ1 ch. 22 sentence, BQ2 ch. 68 verse 
 - Inherited, NOT opened/verified: Yaden et al. 2017 and Keltner & Haidt 2003 psychology-parallels claims — preserved per protocol, flagged in the band state file.
 - Saturation: linked concepts checked (Self-transcendent experiences, Deus sive natura, Non-dual awareness, Dao all cite D008; Awe does not) — one reciprocal proposal added (Awe -> D008).
 - Validator: ok, prose 228 words; no wikilink changes; protected fields untouched.
+
+## D018 — Give things time (done; no advisor QC per speed directive, item 7)
+
+- Opened: DDJ 64 (Legge, Gutenberg raw text, already counted; batch research). Verified verbatim: "The tree which fills the arms grew from the tiniest sprout; the tower of nine storeys rose from a (small) heap of earth; the journey of a thousand li commenced with a single step." and "If they were careful at the end, as (they should be) at the beginning, they would not so ruin them." (paraphrased with citation).
+- Inherited, NOT opened/verified: Amabile & Kramer 2011 psychology-parallels claim — flagged in the band state file.
+- Saturation: The progress principle concept cites D018; no justified new proposals.
+- Validator: ok, prose 165 words; no wikilink changes; protected fields untouched.
