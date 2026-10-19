@@ -12,13 +12,22 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 141** — Perceive by acting: perception is movement
 
-Seeing is not a passive receiving; it is an active skillful exploration — looking, touching, moving. When stuck mentally, move; perception will follow.
+The sensorimotor account of vision puts its thesis in two sentences:
 
-(Varela, Thompson and Rosch, The Embodied Mind, 1991; sensorimotor approaches.)
+> "We propose that seeing is a way of acting. It is a particular way of exploring the environment." (O'Regan & Noë, "A sensorimotor account of vision and visual consciousness," [PubMed](https://pubmed.ncbi.nlm.nih.gov/12239892/))
 
-**Plain words** Seeing is not a passive receiving — it's an active, skillful exploration: looking, touching, moving. When stuck mentally, move; perception will follow. The body in motion generates the seeing that the sitting mind was waiting for.
+The camera model of vision, light in, picture formed, is the intuition; the sensorimotor account replaces the picture with a skill. Seeing is what you do with your eyes, head, feet and hands, an exploration attuned to what changes when you move. The enactive school behind it states the wider thesis: "cognition is not the representation of a pre-given world by a pregiven mind but is rather the enactment of a world and a mind on the basis of a history of the variety of actions that a being in the world performs" (Varela, Thompson & Rosch, The Embodied Mind, [quoted in Thompson's essay](https://evanthompson.me/wp-content/uploads/2025/09/thompson-enaction-as-the-bringing-forth-of-worlds.pdf)). Hence the principle's practical edge: when stuck mentally, move. The walking evidence backs the edge: "Four experiments demonstrate that walking boosts creative ideation in real time and shortly after" ([Oppezzo & Schwartz 2014](https://aaalab.stanford.edu/assets/papers/2014/Give_your_ideas_some_legs.pdf)), and the authors' summary: "Walking opens up the free flow of ideas, and it is a simple and robust solution to the goals of increasing creativity and increasing physical activity" ([ibid.](https://aaalab.stanford.edu/assets/papers/2014/Give_your_ideas_some_legs.pdf)). The compendium's accounts are [[Sensorimotor accounts of perception]] and [[Perception as action]].
+
+**Plain words**
+Your eyes are not cameras; they are hands. You look the way you grope in the dark: moving, reaching, checking what changes. The same holds for thinking: the staring mind is the one doing nothing. When you are stuck, move: walk, sketch, rearrange the room. Moving re-asks the environment the question the sitting mind keeps misphrasing.
 
 *For example:* Stuck on the design, staring at the screen — then pacing to the kitchen and back, and the layout reorganizes itself mid-walk. That wasn't a break; that was perception, moving.
+
+## Sources
+
+- [O'Regan & Noë, "A sensorimotor account of vision and visual consciousness," Behavioral and Brain Sciences 24 (2001) (PubMed)](https://pubmed.ncbi.nlm.nih.gov/12239892/) — abstract quotes, verbatim
+- [Varela, Thompson & Rosch, The Embodied Mind (1991), quoted in Evan Thompson, "Enaction as the bringing forth of worlds" (PDF)](https://evanthompson.me/wp-content/uploads/2025/09/thompson-enaction-as-the-bringing-forth-of-worlds.pdf) — enactive-approach passage, verbatim
+- [Oppezzo & Schwartz, "Give Your Ideas Some Legs: The Positive Effect of Walking on Creative Thinking," Journal of Experimental Psychology: Learning, Memory, and Cognition 40 (2014) (PDF, Stanford AAA Lab)](https://aaalab.stanford.edu/assets/papers/2014/Give_your_ideas_some_legs.pdf) — walking and creative ideation quotes
 
 ## Stories
 
