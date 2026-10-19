@@ -16,9 +16,26 @@ Character is built through repetition. You become just by doing just acts, brave
 
 (NE II.1, II.4, II.5.)
 
-**Plain words** Character comes through repetition. You become just by doing just things, brave by doing brave things. Early attempts are awkward and deliberate, later ones become natural. Don't wait for the mood.
+### How character forms
+
+Aristotle's claim runs against the intuition that action follows character. His direction is the reverse: "moral or ethical virtue is the product of habit (ethos)", and "nature gives us the capacity to receive them, and this capacity is brought to maturity by habit" (NE II.1, 1103a, [H. Rackham trans., Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abekker+page%3D1103a)). The analogy is craft: "men become builders by building houses, harpers by playing on the harp" (1103a).
+
+> "It is by taking part in transactions with our fellow-men that some of us become just and others unjust; by acting in dangerous situations and forming a habit of fear or of confidence we become courageous or cowardly." — Aristotle, Nicomachean Ethics II.1, 1103b (H. Rackham trans., [Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abekker+page%3D1103b))
+
+In a word, "our moral dispositions are formed as a result of the corresponding activities" (1103b).
+
+### Why the order matters
+
+The disposition is not a prerequisite for the acts but their residue. The first acts are awkward and conscious; later ones become natural. Hence the practical instruction: act first, and the feeling follows rather than leads.
+
+**Plain words**
+The surprise in Aristotle is the direction of causation: you might think a just person does just acts, and he says the acts make the person. Treat any trait you want as a craft, since nobody learns the piano by feeling pianistic. Schedule the repetition, not the mood: do the act badly, then again, and let the ease arrive on its own.
 
 *For example:* A person trying to be more patient starts by pausing before every reply for a week. By week four it happens without effort.
+
+## Sources
+
+- [Aristotle, Nicomachean Ethics II.1 (H. Rackham trans., Perseus Digital Library)](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abekker+page%3D1103a) — virtue as product of habit; builders and harpers (1103a); transactions and dangerous situations; dispositions formed by activities (1103b)
 
 ## Psychology parallels
 
