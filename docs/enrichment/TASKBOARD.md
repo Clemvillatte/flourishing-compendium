@@ -55,7 +55,7 @@ The owner's primary-source library is in `docs/PRIMARY-SOURCES.md`.
 | p1b | 31-100 | E012 to PP029 | p1b | DONE (all 70 items rewritten) | genuineflourishing42 | 2026-10-20 |
 | p1c | 101-170 | PP081 to B146 | p1c | claimed | genuineflourishing29 | 2026-10-19 |
 | p1d | 171-240 | BI012 to B129 | p1d | released (63/70; predecessor recovery pushed) | genuineflourishing42; AT006 salvaged by worker-p1m-fd2db49a-recovery | 2026-10-20 |
-| p1e | 241-310 | BE026 to D065 | p1e | claimed | worker-p1e-4f2c9b1d (took over released band; 43/70 done; P157 citation repair first) | 2026-10-20 |
+| p1e | 241-310 | BE026 to D065 | p1e | done (70/70 manifest + off-manifest P157 repair; band closed 2026-10-20; QC at items 1,5,10,15,20,25; CO079 post-done QC fix applied) | worker-p1e-4f2c9b1d | 2026-10-20 |
 | p1f | 311-370 | D074 to BI001 | p1f | claimed | genuineflourishing41 (took over stale genuineflourishing33; 20/60 done, D/B/P items QC-passed) | 2026-10-20 |
 | p1g | 371-430 | BI009 to Y015 | p1g | claimed | agent-p1l-worker-27c22a8e (takeover from stale genuineflourishing35; 23/60 done) | 2026-10-20 |
 | p1h | 431-490 | Y026 to D096 | p1h | claimed | worker-p1h-8a3d7e29 (took over stale genuineflourishing35; 12/60 done) | 2026-10-20 |
@@ -122,6 +122,36 @@ principles queue is untouched.
 - 2026-10-19: Agent D (w1d) enriched `content/concepts/The eternal contribution.md` by mistake (it is in w1ae's manifest). Content file was reverted to seed in commit e088a9c; an unapproved, validated draft is preserved at `docs/enrichment/drafts/w1d/The eternal contribution.md` for the w1ae agent to reuse or discard. Its reciprocal proposals were removed from `proposals/w1d.json`.
 
 ## Supervisor notes
+
+- 2026-10-20 (supervisor-4f2c9b1d, CURRENT — p1g owner agent-p1l-worker-27c22a8e): MO045 quote
+  sample: both Sirois & Pychyl 2013 quotations verified verbatim against the opened White
+  Rose PDF, but the advisor rejected the surrounding prose (turns the authors' "has a great
+  deal to do with" into an exclusive explanation, plus intervention claims the evidence does
+  not establish). Repair MO045 with these exact edits: (1) opening paragraph → "Sirois and
+  Pychyl (2013) argue that short-term mood repair can help explain procrastination: avoiding
+  an aversive task can take priority over intended action." (2) paragraph after the blockquote
+  → "The review describes giving short-term mood repair priority 'over the longer-term pursuit
+  of intended actions'." and delete the categorical rejection of calendar/planning support.
+  (3) Plain words → "The compendium's exercise: when you delay a task, write down what you
+  intend to do and what you feel when you think about starting. Then choose one small action
+  you are willing to try while that feeling is present." (4) For example → "Imagine postponing
+  a tax return because thinking about it brings dread. Putting it off may bring temporary
+  relief while leaving the return unfinished." (5) Practice → "As a compendium exercise, ask:
+  'Is an uncomfortable feeling part of what I am avoiding?' Consider self-compassion, a
+  smaller first step, or practical planning as options." and delete "The task is not the
+  problem; the feeling is." Inherited unopened parallels (Pychyl 2013, Steel 2007/2006) stay
+  flagged, not silently accepted. No supervisor edit made to your live file.
+
+- 2026-10-20 (supervisor-4f2c9b1d, CURRENT — p1m owner worker-p1m-fd2db49a): B140 sample is
+  CONDITIONAL PASS: both primary quotations verified verbatim (Clarke Xinxin Ming via Terebess;
+  Seung Sahn via Kwan Um page), synthesis labelling adequate, example bounded. Two checks
+  remain yours: (1) the Leary et al. 2017 and Dugas et al. 1998 abstracts are cited with scope
+  limits but were not opened — open the cited records (PMIDs 28903672 and 9613027) and verify
+  titles, study counts, samples and findings, or reduce those parallel bullets to bare links.
+  (2) The Seung Sahn quotation is verified on the Kwan Um teaching page, but that page's title
+  is "I Don't Teach Buddhism Or Zen" — verify the *Compass of Zen* book attribution on the
+  page or replace both book attributions with the actual cited teaching-page title. No
+  supervisor edit made to your live file.
 
 - 2026-10-20 (supervisor-1a2b3c, CURRENT — OWNER PRIORITY EMPHASIS, all principle workers):
   the owner has re-emphasized finishing DAOISM first, then BUDDHISM, before other
