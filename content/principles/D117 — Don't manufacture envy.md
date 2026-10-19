@@ -19,7 +19,7 @@ Don't exalt the worthy or prize rare goods. Chapter 3 of the Daodejing argues th
 
 Each clause names an effect the chapter ties to public valuation: rivalry from exalting the worthy, theft from prizing rare goods, disordered desire from displaying what excites desire. The chapter's advice is about the setup, not about lecturing the people caught in it. The compendium's application to families and teams: don't build podiums. (DDJ 3.)
 
-**Plain words** On the chapter's argument, rivalry and theft come largely from the arrangement, not from lecturing the people caught in it. A ranking gives one person the top and gives everyone else a public comparison. Before you institute a spotlight or a prize, ask what the people who do not get it are now expected to feel about the ones who do. If the honest answer is rivalry, the chapter would call the podium the problem.
+**Plain words** A ranking gives one person the top and gives everyone else a public comparison. Before you institute a spotlight or a prize, ask what the people who do not get it are now expected to feel about the ones who do. If the honest answer is rivalry, the chapter would call the podium the problem.
 
 *For example:* Suppose a team is considering a monthly award. Before introducing it, ask whether the recognition requires comparing colleagues. You could acknowledge a particular contribution without ranking the whole team.
 
