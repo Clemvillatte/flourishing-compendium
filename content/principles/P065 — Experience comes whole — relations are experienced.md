@@ -12,13 +12,20 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 65** — Experience comes whole: relations are experienced
 
-Radical empiricism: the connections between things are as directly experienced as the things themselves. Trust the felt relations — the "and," the "with," the "between."
+James's radical empiricism starts from a rule about what counts as real:
 
-(James, Essays in Radical Empiricism, 1912.)
+> "For such a philosophy, the relations that connect experiences must themselves be experienced relations, and any kind of relation experienced must be accounted as 'real' as any thing else in the system." (James, A World of Pure Experience, 1904)
 
-**Plain words** The connections between things are as directly experienced as the things themselves — trust the felt relations: the 'and,' the 'with,' the 'between.' You don't infer the tension in a room; you walk into it. That perception is data.
+James criticizes ordinary empiricism for giving too little weight to experienced connections: ordinary empiricism "has always shown a tendency to do away with the connections of things, and to insist most on the disjunctions" (A World of Pure Experience, 1904). Words such as "with," "near" and "towards" designate kinds of relation; as James puts it, "Philosophy has always turned on grammatical particles. With, near, next, like, from, towards, against, because, for, through, my -- these words designate types of conjunctive relation arranged in a roughly ascending order of intimacy and inclusiveness" (A World of Pure Experience, 1904). His account includes experienced connections and separations alike. Treating these as part of experience still permits correction of how a particular experience is interpreted. (James, Essays in Radical Empiricism, 1912.)
 
-*For example:* Entering the kitchen after the argument — nobody says anything, and you experience the between directly. The relation is as real as the furniture.
+**Plain words**
+A description of a conversation can list the separate remarks and still leave out how one remark seems to answer another. James asks philosophy to account for those experienced connections too. Taking a connection seriously leaves room to question its interpretation. Feeling tension belongs in an account of the encounter; knowing why the other people are tense requires more evidence.
+
+*For example:* While listening to a tune, describe the felt movement between successive notes as well as the individual sounds. This is an illustration of including a connection in the description of an experience.
+
+## Sources
+
+- [James, W. (1904), A World of Pure Experience, Journal of Philosophy, Psychology, and Scientific Methods 1, 533-543, 561-570; reprinted in Essays in Radical Empiricism (1912), full text at Classics in the History of Psychology, York University](https://psychclassics.yorku.ca/James/experience.htm) — the radical empiricism rule; the grammatical particles; the critique of ordinary empiricism
 
 ## Psychology parallels
 
