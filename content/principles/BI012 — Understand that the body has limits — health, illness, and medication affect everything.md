@@ -14,7 +14,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BI — Biophysi
 
 The body is the machinery that mood, motivation and judgement run on. Epictetus opens the Enchiridion with a sorting exercise: what you control, and what you do not. The body lands in the second column:
 
-> "Things not in our control are body, property, reputation, command, and, in a word, whatever are not our own actions." (Epictetus, Enchiridion 1, [Carter's translation](https://classics.mit.edu/Epictetus/epicench.html))
+> "Things not in our control are body, property, reputation, command, and, in one word, whatever are not our own actions." (Epictetus, Enchiridion 1, [Carter's translation](https://classics.mit.edu/Epictetus/epicench.html))
 
 That placement does the principle's work: reading a bodily mood as a moral failure means blaming yourself for something that was never in your column. The principle's list of what moves a mood — illness, pain, medication changes, hormonal shifts, ageing — is its own directive; the evidence here covers one item on the list: a meta-analysis of 25 studies covering 348,014 people found hypothyroidism associated with clinical depression at an odds ratio of 1.30, strongest for overt disease ([Bode et al., JAMA Psychiatry 2021](https://pubmed.ncbi.nlm.nih.gov/34524390/)). The compendium develops the body's limits over time in [[The seasons of illness]] and [[The seasons of the body]].
 
