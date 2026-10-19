@@ -12,13 +12,26 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 328** — Practise care as a moral orientation
 
-Approach moral situations with a care orientation, not only a justice orientation. Care ethics, developed by Carol Gilligan and Nel Noddings, holds that moral life is fundamentally relational and that the primary moral question is not "what is just?" but "how should I respond to this person in need?"
+Gilligan traced the two orientations through two children's responses to the Heinz dilemma. Jake sees the dilemma as a math problem with people, with the right to life trumping the right to property; Amy, who disagrees that Heinz should steal the drug lest he go to prison and leave his wife in another predicament, sees it differently:
+
+> "She sees the dilemma as a narrative of relations over time, involving fractured relationships that must be mended through communication." (Gilligan's Amy, as described in the [IEP entry on care ethics](https://iep.utm.edu/care-ethics/))
+
+Gilligan's finding was that the care perspective is an alternative but equally legitimate form of moral reasoning, obscured by masculine liberal justice traditions, and a difference of theme rather than of gender ([IEP](https://iep.utm.edu/care-ethics/)). Noddings built the orientation into a theory: caring relationships are basic to human existence and consciousness, with two parties, the one-caring and the cared-for, and caring an act of engrossment in which the one-caring receives the cared-for on their own terms and displaces selfish motives to act on the cared-for's behalf ([IEP](https://iep.utm.edu/care-ethics/)). She rejected universal principles for prescribed action and judgment: care must always be contextually applied ([IEP](https://iep.utm.edu/care-ethics/)).
+
+The practice: both questions are legitimate; the principle refuses to let the justice question finish the conversation when someone is in need in front of you.
 
 (Gilligan, 1982, In a Different Voice; Noddings, 1984, Caring: A Feminine Approach to Ethics and Moral Education; Noddings, 2002, Starting at Home: Caring and Social Policy.)
 
-**Plain words** Care ethics flips the primary moral question from "what is just?" to "how should I respond to this person in need?" Moral life is relational first. Not abandoning justice — adding the question the rulebook can't ask.
+**Plain words**
+The justice question can be answered from the rules alone: same rule, same consequence. The care question cannot be answered without the person: what is going on with them, what would actually help, what they can receive. Both are real moral questions. The principle says the second one is primary in the moments when someone is in need in front of you.
 
-*For example:* Two kids break the same rule. The rulebook says identical punishment; the carer asks what each kid was actually dealing with — and justice is served by both, differently.
+*For example:*
+Two kids break the same rule. The rulebook says identical punishment; the carer asks what each kid was actually dealing with, and the responses differ.
+
+## Sources
+
+- [IEP entry on care ethics](https://iep.utm.edu/care-ethics/) — Gilligan's Jake and Amy passages and Noddings's account of the one-caring and the cared-for; Amy passage quoted verbatim, the rest paraphrased with citations
+
 ## Stories
 
 - [[ST239 — Ho'oponopono Sets It Right|239. Ho'oponopono Sets It Right]]
