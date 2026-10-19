@@ -1,13 +1,15 @@
 {
  "batch": "p1h",
  "done": [
-  "D007"
+  "D007",
+  "D014"
  ],
  "in_progress": null,
  "flagged": {
-  "D007": "inherited psych claims (Peng/Nisbett, Spencer-Rodgers) not verified; preserved per protocol"
+  "D007": "inherited psych claims (Peng/Nisbett, Spencer-Rodgers) not verified; preserved per protocol",
+  "D014": "inherited psych claims (Brown 2008; Piff et al. 2015) not verified; preserved per protocol"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-19T12:17:02+00:00"
+ "updated": "2026-10-19T12:17:45+00:00"
 }
