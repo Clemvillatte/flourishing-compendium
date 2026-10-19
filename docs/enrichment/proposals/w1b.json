@@ -1,0 +1,53 @@
+{
+ "batch": "w1b",
+ "done": [
+  "Broaden-and-build"
+ ],
+ "flagged": {},
+ "missing_concepts": [],
+ "sources_checked": 5,
+ "inline": [],
+ "reciprocal": [
+  {
+   "target": "content/concepts/Mudita (sympathetic joy).md",
+   "concept": "Broaden-and-build",
+   "why": "mudita is a broaden-type emotion: joy taken in others' joy"
+  },
+  {
+   "target": "content/concepts/Gratitude.md",
+   "concept": "Broaden-and-build",
+   "why": "a savouring positive emotion in the same family"
+  },
+  {
+   "target": "content/concepts/Hope.md",
+   "concept": "Broaden-and-build",
+   "why": "the future-oriented member of the family"
+  },
+  {
+   "target": "content/concepts/Curiosity.md",
+   "concept": "Broaden-and-build",
+   "why": "the everyday face of interest's urge to explore"
+  },
+  {
+   "target": "content/concepts/Awe.md",
+   "concept": "Broaden-and-build",
+   "why": "a self-diminishing positive emotion"
+  },
+  {
+   "target": "content/concepts/Contentment in station.md",
+   "concept": "Broaden-and-build",
+   "why": "contentment as a place to rest, echoing the savour urge"
+  },
+  {
+   "target": "content/concepts/Dispositional optimism.md",
+   "concept": "Broaden-and-build",
+   "why": "positive expectation as a durable reserve"
+  },
+  {
+   "target": "content/concepts/Eudaimonia.md",
+   "concept": "Broaden-and-build",
+   "why": "the flourishing the built resources serve"
+  }
+ ],
+ "notes": "continues after lead applied the first proposals file (moved to applied/)"
+}
