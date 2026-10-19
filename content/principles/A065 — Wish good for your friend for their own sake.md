@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 65** — Wish good for your friend for their own sake
 
-The defining mark of true friendship is that you wish the good of your friend for the friend's sake, not for what you get from it. This is what makes the friendship virtuous and lasting. Test your friendships by this criterion: do I want their good, or do I want what they give me?
+Aristotle's mark of the true friend is the direction of the wish: "men wish well to those whom they love, for their sake, not as a result of feeling but as a result of a state of character." His contrast is telling — you may wish things well for lifeless objects, but only for your own use: "it would surely be ridiculous to wish wine well; if one wishes anything for it, it is that it may keep, so that one may have it oneself; but to a friend we say we ought to wish what is good for his sake." Hence the definition: "those who wish well to their friends for their sake are most truly friends; for they do this by reason of own nature and not incidentally; therefore their friendship lasts as long as they are good-and goodness is an enduring thing." The compendium's application is the principle's own test: do I want their good, or do I want what they give me?
 
 (NE VIII.2, IX.4.)
 
