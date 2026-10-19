@@ -13,6 +13,7 @@ Usage:
   python3 scripts/baton.py clock-in supervisor AgentA
   python3 scripts/baton.py clock-in w1b AgentB          # worker baton named by band
   python3 scripts/baton.py release w1b AgentB
+  python3 scripts/baton.py force-release w1e AgentA   # supervisor: free a dead agent's baton without waiting
   python3 scripts/baton.py status
 """
 import sys, os, json, datetime, subprocess
@@ -84,6 +85,20 @@ def clock_in(baton, agent):
     return 1
 
 
+def force_release(baton, agent):
+    st = remote_read(baton)
+    if st is None:
+        print(f'{baton} baton is not held; nothing to release')
+        return 0
+    prev = st.get('agent')
+    st.setdefault('takeovers', []).append({"by": agent, "at": iso(), "from": prev, "reason": "supervisor force-release"})
+    st['released'] = True
+    st['released_at'] = iso()
+    local_write(baton, st)
+    print(f'FORCE-RELEASED {baton} (was held by {prev}). Supervisor action recorded. Now push.')
+    return 0
+
+
 def release(baton, agent):
     st = remote_read(baton)
     if st is None:
@@ -129,6 +144,8 @@ def main():
         return clock_in(args[1], args[2])
     if cmd == 'release' and len(args) >= 3:
         return release(args[1], args[2])
+    if cmd == 'force-release' and len(args) >= 3:
+        return force_release(args[1], args[2])
     if cmd == 'status':
         return status()
     print(__doc__)

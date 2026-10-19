@@ -1,13 +1,20 @@
 {
  "baton": "w1a",
  "agent": "AgentA",
- "clocked_in": "2026-10-19T08:05:59+00:00",
+ "clocked_in": "2026-10-19T08:44:49+00:00",
  "takeovers": [
   {
    "by": "AgentA",
    "at": "2026-10-19T08:00:23+00:00",
    "from": null,
    "reason": "free"
+  },
+  {
+   "by": "AgentA",
+   "at": "2026-10-19T08:44:49+00:00",
+   "from": "AgentA",
+   "reason": "stale (39 min)"
   }
- ]
+ ],
+ "released": false
 }

@@ -3,6 +3,12 @@
 How the enrichment project runs with multiple agents. Read this together with
 `docs/enrichment/TASKBOARD.md` (band claims, parallel rules) and `docs/ENRICHMENT-HANDOFF.md`.
 
+## Agent names (owner convention, 2026-10-19)
+
+Your agent name is the local part of your yopmail email: agent0001@yopmail.com -> `agent0001`.
+Use it everywhere: baton claims, state files, commits. This lets the owner map every action
+in the repo to the account (and session) that produced it.
+
 ## Batons
 
 There are two kinds of baton:
