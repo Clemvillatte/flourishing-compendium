@@ -11,9 +11,10 @@
   "D011": "inherited psychology claim (Kashdan & Rottenberg 2010 'outperforms on nearly every outcome') not verified against an opened source; preserved per protocol, flagged for supervisor",
   "D068": "inherited psychology-parallels claims (Gottman soft startup; assertiveness research 'aggression reliably loses long games') not verified against opened sources; flagged for supervisor",
   "D069": "inherited psychology-parallels claim (Rosenberg 2003 NVC 'defuses attack') not verified against an opened source; flagged for supervisor",
-  "D073": "inherited psychology-parallels claims (Kahneman & Tversky 1979 planning fallacy wording; plan-then-adapt research summary) not verified against opened sources; flagged for supervisor"
+  "D073": "inherited psychology-parallels claims (Kahneman & Tversky 1979 planning fallacy wording; plan-then-adapt research summary) not verified against opened sources; flagged for supervisor",
+  "D075": "NEXT ITEM for the p1e successor: D075 (Daoist, on plain-words replicate list); then D008, D018, D023, D045, D065; established sources: Legge DDJ via Gutenberg cache/epub/216 (raw text verified), Legge Zhuangzi via ETH Zurich PDF (pypdf)"
  },
  "missing_concepts": [],
  "sources_checked": 2,
- "updated": "2026-10-19T11:58:11+00:00"
+ "updated": "2026-10-19T11:58:23+00:00"
 }
