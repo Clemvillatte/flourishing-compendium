@@ -18,15 +18,17 @@ The edge is conditional. Reappraisal is less adaptive for stressors that can be 
 
 ### What the anger evidence says
 
-In [Bushman's experiment](https://faculty.washington.edu/jdb/345/345%20Articles/bushman(2002).pdf), 600 provoked students were assigned to three groups: hitting a punching bag while ruminating on the person who angered them, hitting it while thinking of fitness, and sitting still; the ruminating punchers ended up angrier and more aggressive than the students who sat quietly, and "doing nothing at all was more effective than venting anger", which the author read as a direct contradiction of catharsis theory (Bushman, 2002). A 2024 meta-analysis of 154 studies found that arousal-decreasing activities (deep breathing, mindfulness, meditation) decreased anger and aggression (g = -0.63), with effects stable across genders, ages and cultures, while arousal-increasing activities were ineffective overall (g = -0.02); the authors conclude the findings "do not support the ideas that venting anger or going for a run are effective anger management activities" ([Kjærvik and Bushman, 2024](https://pubmed.ncbi.nlm.nih.gov/38518585/)).
+In [Bushman's experiment](https://faculty.washington.edu/jdb/345/345%20Articles/bushman(2002).pdf), 600 provoked students were assigned to three groups: hitting a punching bag while ruminating on the person who angered them, hitting it while thinking of fitness, and sitting still. The ruminating punchers ended up angrier and more aggressive than the students who sat still, and "doing nothing at all was more effective than venting anger" (Bushman, 2002).
 
-Acceptance-based approaches belong to the general emotion-regulation literature rather than to anger specifically. The 2020 review describes acceptance as actively and consciously embracing inner emotions, thoughts and other private experiences without taking steps to change or escape them.
+A 2024 meta-analysis of 154 studies points the same way: arousal-decreasing activities (deep breathing, mindfulness, meditation) decreased anger and aggression (g = -0.63), with effects stable across genders, ages and cultures, while arousal-increasing activities were ineffective overall (g = -0.02); the authors conclude the findings "do not support the ideas that venting anger or going for a run are effective anger management activities" ([Kjærvik and Bushman, 2024](https://pubmed.ncbi.nlm.nih.gov/38518585/)).
+
+The cited review concerns general emotion regulation, not anger specifically: it describes acceptance as actively and consciously embracing inner emotions, thoughts and other private experiences without taking steps to change or escape them ([Wojnarowska et al., 2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC7057396/)).
 
 ### In the compendium
 
 The compendium's principles line up with the research's levers. B116, "Catch irritation early — sparks before fires," matches acting early; D150, "Balance the emotions to protect the body," and D095, "Moderate emotion — extremes injure vitality," match the arousal-reduction finding; B084, "Use antidotes skillfully," and SP001, "Understand rather than condemn," parallel cognitive change. P074, "Treat impulses as raw material, not enemies," is the acceptance stance in the compendium's voice. A115, "Understand anger (orge)," and A029, "Practice the right kind of anger," carry Aristotle's view that anger has a proper use, a question this literature does not settle.
 
-What the findings leave open is mechanism: does B116's advice to catch irritation early work through processes similar to arousal reduction? That is an essay comparison.
+B116 advises catching irritation early. Does that practice affect anger partly through arousal reduction?
 
 ## Other formulations in this library
 

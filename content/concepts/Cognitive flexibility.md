@@ -13,9 +13,9 @@ Cognitive flexibility is one of the three core executive functions, alongside in
 
 ### Built on the other two
 
-The capacity builds on its siblings: to change perspective, we need to "inhibit (or deactivate) our previous perspective and load into WM (or activate) a different perspective" (Diamond, 2013). Its aspects run from the interpersonal, "Let me see if I can see this from your point of view," to the practical: adjusting to changed demands or priorities, admitting you were wrong, and taking advantage of sudden opportunities.
+The capacity builds on its siblings: to change perspective, we need to "inhibit (or deactivate) our previous perspective and load into WM (or activate) a different perspective" ([Diamond, 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC4084861/)). Its aspects run from the interpersonal, "Let me see if I can see this from your point of view," to the practical: adjusting to changed demands or priorities, admitting you were wrong, and taking advantage of sudden opportunities.
 
-Task switching improves through childhood and declines during aging (Diamond, 2013). Older adults are almost as slow on repeat trials in a mixed block as on switch trials, and they tend to recruit executive functions reactively, responding to environmental demands, where young adults work proactively.
+Task switching improves through childhood and declines during aging ([Diamond, 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC4084861/)). Older adults are almost as slow on repeat trials in a mixed block as on switch trials, and they tend to recruit executive functions reactively, responding to environmental demands, where young adults work proactively.
 
 ### The broader construct
 
