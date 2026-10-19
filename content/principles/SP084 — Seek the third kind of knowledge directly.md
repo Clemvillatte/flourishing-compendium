@@ -20,13 +20,13 @@ Part V states what this knowledge is worth: "The highest endeavour of the mind, 
 
 Spinoza illustrates the difference with a piece of arithmetic. Given the numbers 1, 2 and 3, find the fourth proportional. A tradesman who learned the rule without proof multiplies and divides; someone who grasps the ratio simply sees that the fourth number is six, "because we infer the fourth number from an intuitive grasping of the ratio, which the first bears to the second." (II, P40 scholium 2.) Rule-follower and seer both arrive at six; the knowing is different.
 
-The practical translation does not require the ontology: this is direct, participatory knowing, the difference between reading about music and making it, between studying kindness and being moved by someone's need. In your most important domain, arrange for direct acquaintance rather than information alone: go, meet, do, touch the thing itself.
+The compendium applies this outside metaphysics, and the application is the compendium's, not a claim about what Spinoza had in mind: treat direct acquaintance as a kind of knowledge worth seeking on purpose. Reading about music differs from playing it; studying kindness differs from being moved by someone's need. In your most important domain, arrange for direct acquaintance rather than information alone: go, meet, do, touch the thing itself.
 
 (Ethics V, P25-27; II, P40 scholium 2.)
 
-**Plain words** Most of what you know about anything comes secondhand: rules you were taught, words you read, summaries other people made. Spinoza's claim is that there is another way to know, in which a thing is grasped in one view instead of assembled from pieces. You have met it: the moment a subject you memorised suddenly becomes one thing you see. His advice is to treat that kind of seeing as a goal in its own right, and to arrange your contact with what matters so that it can happen.
+**Plain words** Most of what you know about anything comes secondhand: rules you were taught, words you read, summaries other people made. The third kind, as Spinoza draws it, is knowledge that starts from an adequate idea and ends at the essence of a thing, seen whole. The nearest everyday approximation is the moment a memorised subject suddenly becomes one thing you see. The principle says to treat that kind of seeing as worth seeking on purpose, and to arrange your contact with what matters so that it can happen.
 
-*For example:* Take learning a piece of music. A student can name every note, explain the form, and grade recordings of it. Then one afternoon, playing it, the piece is suddenly there under the hands as one thing. The principle says to seek that direct grip on purpose, in whatever domain you care about most.
+*For example:* An everyday illustration of the contrast, though not Spinoza's own: a student can name every note in a piece, explain the form, and grade recordings of it. Then one afternoon, playing it, the piece is suddenly there under the hands as one thing. Spinoza's own illustration is the arithmetic above; the music case only shows the difference in feel between assembled knowledge and seen knowledge.
 
 ## Sources
 

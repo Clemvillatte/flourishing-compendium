@@ -48,7 +48,8 @@
   "SO006",
   "SP084",
   "A012",
-  "A021"
+  "A021",
+  "A022"
  ],
  "in_progress": null,
  "flagged": {
@@ -86,8 +87,8 @@
   "SO006": "Validator FAIL: protected statement contains 'not just the immediate social environment but' staging pattern; statement needs supervisor rewrite, body is sourced and done"
  },
  "missing_concepts": [],
- "sources_checked": 19,
- "updated": "2026-10-19T14:35:28+00:00",
+ "sources_checked": 25,
+ "updated": "2026-10-19T14:37:55+00:00",
  "band_done": false,
  "takeover": {
   "by": "genuineflourishing35",

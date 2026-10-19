@@ -12,13 +12,23 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 22** — Practice righteous indignation (nemesis)
 
-Righteous indignation is the mean between envy (pain at another's good fortune) and spite (pleasure at another's misfortune). The person with nemesis feels pain at undeserved good fortune and pleasure at deserved good fortune. It is the emotional component of justice. Feel indignation when the wrong people are honoured and the right people are overlooked.
+In NE II.7, Aristotle compares three responses to other people's fortunes:
 
-(NE II.7, IV.9.)
+> "Righteous indignation is a mean between envy and spite, and these states are concerned with the pain and pleasure that are felt at the fortunes of our neighbours; the man who is characterized by righteous indignation is pained at undeserved good fortune, the envious man, going beyond him, is pained at all good fortune, and the spiteful man falls so far short of being pained that he even rejoices." (NE II.7, [Ross, MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html))
 
-**Plain words** Righteous indignation sits between envy, which hurts at another's good luck, and spite, which enjoys another's bad luck. It's pain at undeserved fortune and pleasure at deserved. Think of it as justice felt in the body. Feel it when the wrong people get honoured and the right ones are overlooked.
+The comparison distinguishes being troubled by undeserved success from being troubled by another person's success generally. For the compendium's practical application, the question is what makes an advantage undeserved.
 
-*For example:* Being angry that a colleague who took credit got the promotion, while your quieter teammate who did the work got nothing, is indignation. Resenting the teammate's raise is envy.
+Feel indignation when the wrong people are honoured and the right ones are overlooked; the feeling is the emotional register of that question, not proof that your answer to it is correct.
+
+(NE II.7.)
+
+**Plain words** When someone's promotion bothers you, find out who did the work and what the decision rewarded. Would you make the same objection if another person, instead of you, had been passed over? Use that question to examine your reasons. It does not establish that your judgment of fairness is right.
+
+*For example:* Imagine a colleague receiving a promotion by falsely claiming credit for a teammate's work. Challenging that false attribution illustrates this principle's concern with undeserved advantage. The imagined case supplies the facts; a real dispute would require checking them.
+
+## Sources
+
+- [Aristotle, Nicomachean Ethics II, Ross translation (MIT Classics)](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html) — II.7, the table of means entry for righteous indignation
 
 ## Practice kernels
 
