@@ -12,25 +12,23 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 143** — Do not desire externals as if they were permanent
 
-The Stoics divide the world into what is up to you and what is not, and file wealth, status, health and relationships in the second group. Seneca compresses the doctrine into one line to Lucilius:
+The Stoics sort the world into what depends on your own choices and what depends on others, and place wealth, status and health in the second group. Epictetus states the rule: "Man's good and man's evil lies in moral choice, and all other things are nothing to us" (Disc. I.25). Marcus Aurelius applies it to the extremes, life and death themselves, calling them "things which make us neither better nor worse. Therefore they are neither good nor evil" (Med. II.11). Good here means morally good: on this view nothing fortune controls can make a person better or worse.
 
-> "What Chance has made yours is not really yours." (Seneca, Letters 8)
+> "Your faithfulness is your own, your self-respect is your own; who, then, can take these things from you?" (Epictetus, Disc. I.25)
 
-Marcus Aurelius runs the test through the extremes: "death certainly, and life, honour and dishonour, pain and pleasure, all these things equally happen to good men and bad ... Therefore they are neither good nor evil" (Med. II.11). If even life and death are not goods, security cannot be built on anything fortune controls.
-
-The doctrine does not forbid preferring health to sickness; it denies that such things are goods. Seneca concedes that "bodily goods are, to be sure, good for the body; but they are not absolutely good" (Letters 71), and concludes: "riches and health and similar conditions do none of these things; therefore, riches and health are not goods" (Letters 87). What fortune gives, fortune can take back: "The good that could be given, can be removed" (Letters 8). The anchor left standing is character: Marcus Aurelius's person who values the rational soul "regards nothing else except this" (Med. VI.14). (Disc. I.25, II.5; Med. II.11, IV.1, VI.14; Seneca, Letters 8, 71, 87.)
+The doctrine does not ask anyone to stop caring whether they are healthy. It asks them to treat fortune's materials as materials rather than goods. Epictetus's rule for their use: "Materials are indifferent, but the use which we make of them is not a matter of indifference" (Disc. II.5). Seneca closes the argument with lines he credits to Lucilius: "What Chance has made yours is not really yours" and "The good that could be given, can be removed" (Letters 8). (Disc. I.25, II.5; Med. II.11, IV.1, VI.14; Seneca, Letters 8, 71, 87.)
 
 **Plain words**
-List what a bad year could take from you: the job, the savings, the health, maybe a person. The Stoics ask where you would stand after all that, and their answer is: on judgment and character, the only parts of you that no diagnosis or market crash removes. The warning is against a specific mistake rather than against having things. The mistake is planning happiness around what can be repossessed. Someone who does that feels secure only while nothing moves. In practice: hold externals loosely, and spend real effort on how you handle what happens.
+Someone loses the job. The Stoic question is not whether that hurts; it is what part of the situation was hers. Keeping the job was never entirely in her hands; markets and managers decide that part. What she controls is what happens next: whether colleagues get an honest handover, whether the search starts with panic or with a plan. The principle says to put weight there, because externals are not goods that can be secured, only materials that can be used well or badly. Treating them as property feels safe only while nothing changes.
 
 *For example:* A person whose confidence rests on her job title is shaken at redundancy. One whose confidence rests on how she treats people carries it to the next job.
 
 ## Sources
 
-- [Seneca, Moral Letters to Lucilius 8, Gummere translation, Wikisource](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_8) — "What Chance has made yours is not really yours"; "The good that could be given, can be removed"
-- [Seneca, Moral Letters to Lucilius 71, Gummere translation, Wikisource](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_71) — bodily goods not absolutely good
-- [Seneca, Moral Letters to Lucilius 87, Gummere translation, Wikisource](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_87) — riches and health are not goods
-- [Marcus Aurelius, Meditations II.11, VI.14, George Long translation, Internet Classics Archive](https://classics.mit.edu/Antoninus/meditations.html) — the neither-good-nor-evil passage; the rational soul passage
+- [Epictetus, Discourses I.25, Oldfather translation, The Stoic Library](https://thestoiclibrary.com/discourses/1/25) — the moral-choice rule; the faithfulness passage
+- [Epictetus, Discourses II.5, Oldfather translation, The Stoic Library](https://thestoiclibrary.com/discourses/2/5) — materials indifferent, their use not
+- [Marcus Aurelius, Meditations II.11, George Long translation, Internet Classics Archive](https://classics.mit.edu/Antoninus/meditations.2.two.html) — the neither-good-nor-evil passage
+- [Seneca, Moral Letters to Lucilius 8, Gummere translation, Wikisource](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_8) — the Lucilius aphorisms as Seneca quotes them
 
 ## Stories
 
