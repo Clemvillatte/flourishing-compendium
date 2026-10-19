@@ -12,13 +12,20 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 70** — Let stillness precede mastery
 
-Woodcarver Qing fasts, stills his mind, forgets his own body and the court: then his work is described as spirit-like. Calibrate yourself before you create.
+In Book XIX of the Zhuangzi, the woodcarver Qing explains how he made a bell-stand for a ruler. He fasted to compose his mind: after three days, no thought of "congratulation, reward, rank, or emolument"; after five, no thought of "condemnation or commendation"; after seven, "I had forgotten all about myself - my four limbs and my whole person." Only then did he enter the forest and look at the natural forms of the trees.
 
-(Zhuangzi 19.)
+> "Then I went into the forest, and looked at the natural forms of the trees. When I saw one of a perfect form, then the figure of the bell-stand rose up to my view, and I applied my hand to the work. Had I not met with such a tree, I must have abandoned the object; but my Heaven-given faculty and the Heaven-given qualities of the wood were concentrated on it. So it was that my spirit was thus engaged in the production of the bell-stand." (Zhuangzi 19, [Legge](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
 
-**Plain words** Woodcarver Qing fasts, stills his mind, forgets the court — then his work is called spirit-like. Calibrate yourself before you create. The quality of what you make is set by the state you make it in, so prepare the state.
+The compendium applies the story as a question: what state would you have to be in for your best work, and what would prepare it?
 
-*For example:* Chefs who cook angry burn things — the kitchen proverb exists because the inner weather ends up on the plate.
+**Plain words**
+Before you start, ask how much of your attention is on the task and how much is on getting credit for it. Try setting the second concern aside long enough to look closely at what you are working with. Qing still needed a suitable tree; without one, he would have abandoned the task.
+
+*For example:* Suppose a cook starting dinner irritated. As a modern application, five minutes of sitting quietly before the knife work is a small version of Qing's fast.
+
+## Sources
+
+- [Zhuangzi, trans. James Legge (ETH Zurich edition)](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — Book XIX, the bell-stand passage
 
 ## Stories
 

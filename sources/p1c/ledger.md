@@ -125,3 +125,17 @@ copied from the opened URL in this session.
   cross-tradition paragraph cites no Daoist principle).
 - Inherited-not-reverified: Hofmann et al. 2012 desire-sampling claim and the
   craving/self-control note in psychology parallels (untouched link sections).
+
+## D070 — Let stillness precede mastery (Zhuangzi 19)
+
+- Opened: https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf
+  (Legge Zhuangzi, ETH Zurich edition; same edition as the supervisor-verified D087
+  QC). Bell-stand passage quoted verbatim (fasting sequence, forest, spirit engaged in
+  the production).
+- QC: advisor round 1 approved with one Plain-words revision (concern with rewards, not
+  rewards themselves; applied). Validated vs pre-item baseline 7252655.
+- Linked concepts read: Pre-performance routines and The quiet eye are seed pages that
+  already cite D070 in their Cited-in lists; no new proposals (they are weak concept
+  seeds for the concept pass, not principle work).
+- Inherited-not-reverified: Vickers 2007 quiet-eye claim and the pre-performance-routine
+  note in psychology parallels (untouched link sections).
