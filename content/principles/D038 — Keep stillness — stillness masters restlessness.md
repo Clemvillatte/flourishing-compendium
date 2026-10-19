@@ -12,13 +12,21 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 38** — Keep stillness: stillness masters restlessness
 
-Restlessness is the disease; stillness is the cure. When agitated, the first move is never to act — it is to become still.
+The chapter the title comes from states the relation directly:
+
+> "Gravity is the root of lightness; stillness, the ruler of movement." (Daodejing 26, trans. James Legge, [Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm))
+
+The muddy-water passage gives the working image: "Who can (make) the muddy water (clear)? Let it be still, and it will gradually become clear" (Daodejing 15, trans. Legge). Chapter 45 generalises: "Constant action overcomes cold; being still overcomes heat. Purity and stillness give the correct law to all under heaven." And chapter 57 gives the ruler's version: "I will do nothing (of purpose), and the people will be transformed of themselves; I will be fond of keeping still, and the people will of themselves become correct."
 
 (DDJ 15, 26, 37, 45, 57.)
 
-**Plain words** Restlessness is the disease and stillness is the cure. When agitated, the first move is never to act — it's to become still first. Acting from churn multiplies the churn; acting from stillness at least has a chance of being wise.
+**Plain words** Chapter 26 says the still rules the restless. The muddy-water picture is the practical one: a stirred mind is water you cannot see through, and the instruction is not to stir it more cleverly but to let it settle. So the first move in agitation is to stop adding motion.
 
-*For example:* The angry email drafted at midnight should not be sent at midnight; morning stillness edits better than willpower ever will.
+*For example:* Take the angry email drafted at midnight. The stillness instruction is procedural: let it sit until the water clears, then read it once before deciding what to send.
+
+## Sources
+
+- [Tao Teh King, trans. James Legge, Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm) — chapters 15, 26, 37, 45, 57 (opened at D016, re-mined for this item; not recounted)
 
 ## Stories
 
