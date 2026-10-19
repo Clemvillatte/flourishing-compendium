@@ -233,3 +233,12 @@ Advisor QC (2026-10-19): quotes verified (BQ1 ch. 22 sentence, BQ2 ch. 68 verse 
 - Process corrections recorded: (1) the Sharot pervasiveness quote was accurate but carried claims the definition did not; (2) the recurring failure pattern was adding explanatory mechanisms beyond opened passages — the repairs remove mechanisms and keep instructions/hypothetical exercises.
 - Preservation: all five checked against their TRUE pre-enrichment versions (parent of the first done commit), not already-enriched commits — front matter, reflections, principle statements, wikilink Counters all identical.
 - Four new source editions counted this round (academyofideas RVPE PDF, Wikipedia Constructivism, Wikipedia ACT, plus the Sharot author PDF already counted at CO039 start).
+
+## E002 — Practise intentionality (done; no advisor QC per speed directive, item 26)
+
+- Opened: Wikipedia's Intentionality article (https://en.wikipedia.org/wiki/Intentionality) — NEW SOURCE (Wikipedia); source count incremented. Verified verbatim: Brentano's intentional in-existence passage ("Every mental phenomenon includes something as object within itself... We could, therefore, define mental phenomena by saying that they are those phenomena which contain an object intentionally within themselves.") — Wikipedia's quotation of Brentano 1874.
+- The Husserl locators stay inherited and unverified; the body makes no new Husserl claims.
+- Plain words and For example kept (genuine re-derivations; E002 not on the replicate list); labels reformatted.
+- Inherited, NOT opened: Posner and Petersen 1990, Corbetta and Shulman 2002 claims — flagged in the band state file.
+- Saturation: Goal-directed attention and Intentionality cite E002; Attention does not — one reciprocal proposal added.
+- Validator: ok, prose 136 words; protected fields untouched.
