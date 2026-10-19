@@ -12,13 +12,25 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 81** — Recognize the relativity of perspectives
 
-The frog in the well cannot be told about the sea; the river god, reaching the ocean, stops boasting. Every view is a view from somewhere: including yours.
+In the Zhuangzi's seventeenth chapter, the river god walks east along his course till he reaches the North Sea. He looks out and cannot see where its waters begin, and sighs that the saying about one who has learned a hundred points of the Dao and thinks no one equals him was surely spoken of him ([Zhuangzi 17, Legge](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)).
+
+> "A frog in a well cannot be talked with about the sea - he is confined to the limits of his hole. An insect of the summer cannot be talked with about ice - it knows nothing beyond its own season. A scholar of limited views cannot be talked with about the Dao - he is bound by the teaching (which he has received)." (Zhuangzi 17, [Legge](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
+
+The sea god's reply turns the rebuke into an opening: Ruo says that recognising his own ignorance puts the river god on the way towards discussing great principles ([Zhuangzi 17, Legge](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)).
+
+Ruo then compares his own size with heaven and earth, describing himself as a small stone or tree on a great hill; he has never made much of himself because he compares his own form with heaven and earth ([Zhuangzi 17, Legge](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)). His answer widens the frame of comparison again.
 
 (Zhuangzi 17.)
 
-**Plain words** The frog in the well can't be told about the sea; the river god, reaching the ocean, stops boasting. Every view is a view from somewhere — including yours. Small ponds always feel like the whole sea until you see one.
+**Plain words**
+When you judge something as large, successful or obvious, ask what you are comparing it with. Which examples or experiences are missing? Try a different comparison before treating your judgement as the only reasonable one. Read as advice, the story asks you to leave room for what you have not encountered.
 
-*For example:* The best player on the small-town team arrives at the academy and discovers the ceiling was a floor — that's the ocean showing up.
+*For example:*
+Suppose everyone who has read your essay shares your training. Ask a reader outside that group which claims need explaining or defending.
+
+## Sources
+
+- [Zhuangzi, James Legge translation (1891), ETH Zurich METIS edition](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — chapter 17, frog and sea-god dialogue quoted verbatim
 
 ## Stories
 
