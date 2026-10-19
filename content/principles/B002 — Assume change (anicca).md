@@ -12,13 +12,22 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 2** — Assume change (anicca)
 
-Everything that arises will pass: moods, plans, bodies, relationships, this very thought. Build your life on flow, not on frozen things.
+The Dhammapada verse the principle cites states the mark:
+
+> "'All conditioned things are impermanent' — when one sees this with wisdom, one turns away from suffering." (Dhammapada 277, trans. Buddharakkhita, [Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.20.budd.html))
+
+SN 36.7 illustrates the teaching through a pleasant feeling. The monk considers its dependence on the body, described as impermanent, compounded and dependently arisen, and asks how the dependent feeling could be permanent ([Nyanaponika Thera's translation](https://ibc-elibrary.thanhsiang.org/files/accesstoinsight/html/tipitaka/sn/sn36/sn36.007.nypo.html)).
 
 (Dhammapada 277-279; SN 36.7.)
 
-**Plain words** Everything that arises will pass — moods, plans, bodies, relationships, this very thought. Build your life on flow, not on frozen things. The refusal of this fact is where most anxiety is manufactured: you're bracing for permanence in a world that runs on the opposite.
+**Plain words** You may want a pleasant feeling to stay because it is welcome now. The teaching asks you to consider what it depends on: a body that is itself changing. Leave room for that change when thinking about what you will feel next.
 
-*For example:* The panic of a bad week softens when you remember every previous bad week — they all ended, and most left something behind.
+*For example:* As an exercise, notice a pleasant feeling during a visit with a friend. Check again later and describe what you find, including whether the feeling is still present. You need not assign it a deadline.
+
+## Sources
+
+- [Dhammapada 277, trans. Acharya Buddharakkhita, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.20.budd.html)
+- [SN 36.7, Gelañña Sutta, trans. Nyanaponika Thera, IBC eLibrary](https://ibc-elibrary.thanhsiang.org/files/accesstoinsight/html/tipitaka/sn/sn36/sn36.007.nypo.html)
 
 ## Stories
 
