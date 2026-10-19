@@ -12,13 +12,28 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 192** — Begin the day with intention; end it with review
 
-Morning: set one intention for the day. Evening: review gently: what went well, where you drifted — without self-attack. Tomorrow begins tonight.
+The root text is the Buddha's instruction to Rahula in MN 61: reflect on an intended action before doing it, again while doing it, and once more after it is done, asking whether it leads to self-affliction, the affliction of others, or both ([MN 61, Thanissaro](https://www.accesstoinsight.org/tipitaka/mn/mn.061.than.html)).
+
+> "Thus, Rahula, you should train yourself: 'I will purify my bodily actions through repeated reflection. I will purify my verbal actions through repeated reflection. I will purify my mental actions through repeated reflection.'" (MN 61, [Thanissaro](https://www.accesstoinsight.org/tipitaka/mn/mn.061.than.html))
+
+Dhammapada 239 compares gradual ethical purification to a smith refining silver ([Dhp 239, Buddharakkhita](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.18.budd.html)).
+
+After harmful bodily or verbal conduct, MN 61 calls for disclosure to the Teacher or a knowledgeable companion and future restraint. For harmful mental conduct, it prescribes distress, shame and disgust with the action, followed by restraint. After harmless, skillful conduct, it instructs the practitioner to remain refreshed and joyful and continue training ([MN 61, Thanissaro](https://www.accesstoinsight.org/tipitaka/mn/mn.061.than.html)).
+
+A morning intention and evening review are one way to adapt this examination to daily life; MN 61 itself specifies reflection before, during and after individual actions ([MN 61, Thanissaro](https://www.accesstoinsight.org/tipitaka/mn/mn.061.than.html)).
 
 (MN 61; Dhammapada 239.)
 
-**Plain words** Morning: set one intention for the day. Evening: review gently — what went well, where you drifted — without self-attack. Tomorrow begins tonight. The bookends cost five minutes and hold the whole shelf together.
+**Plain words**
+Pick one behaviour to watch today. In the evening, recall a specific instance and ask what it did to you and the other people involved. If it caused harm, decide what to acknowledge and what to change next time. If it went well, recognise that too. This daily exercise adapts the sutta's examination of individual actions.
 
-*For example:* The one-line journal: 'today I want to listen more' — and at night: 'mostly did.' That's the entire technology.
+*For example:*
+Before a difficult conversation, set an intention to let the other person finish. That evening, review one moment when you did or did not interrupt, its effect, and what you will do next time.
+
+## Sources
+
+- [MN 61, Ambalatthika-rahulovada Sutta, Thanissaro Bhikkhu translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.061.than.html) — training formula quoted verbatim; before/during/after reflection paraphrased
+- [Dhammapada 239, Acharya Buddharakkhita translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.18.budd.html) — smith-and-dross verse paraphrased
 
 ## Practice kernels
 

@@ -22,9 +22,10 @@
   "D071",
   "D081",
   "D107",
-  "B166"
+  "B166",
+  "B192"
  ],
- "in_progress": "B192",
+ "in_progress": null,
  "flagged": {
   "D017": "QC note: inherited scab example kept per protocol; advisor calls it a medical claim needing a source; supervisor to arbitrate",
   "BI012": "QC round 3: list narrowed to principle's own directive + thyroid evidence only; inherited example still flagged for supervisor. Carter quotation corrected to 'in one word', verified against the opened MIT edition (genuineflourishing30). Other owner-requested corrections have not been reverified in this takeover",
@@ -41,6 +42,6 @@
   "D107": "inherited Nietzsche/Deleuze comparison block in Philosophy parallels (Colebrook 2002 source note, earlier agent) untouched and unverified in this takeover — supervisor to re-check if desired"
  },
  "missing_concepts": [],
- "sources_checked": 8,
- "updated": "2026-10-19T11:56:40+00:00"
+ "sources_checked": 10,
+ "updated": "2026-10-19T11:58:53+00:00"
 }
