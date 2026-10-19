@@ -7,14 +7,15 @@
   "R065",
   "B066",
   "D053",
-  "D050"
+  "D050",
+  "P001"
  ],
- "in_progress": "P001",
+ "in_progress": null,
  "flagged": {
   "E012": "Reopened for QC: Implement independent advisor attribution and locator corrections using previously opened Walsh passages"
  },
  "missing_concepts": [],
- "sources_checked": 15,
- "updated": "2026-10-19T11:46:48+00:00",
+ "sources_checked": 17,
+ "updated": "2026-10-19T11:52:29+00:00",
  "band_done": false
 }

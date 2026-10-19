@@ -12,13 +12,21 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 1** — Build your life on becoming, not being
 
-Reality is not a warehouse of finished things; it is a flowing of events. Stop asking what things are and start asking how they go. Plan for process, not for fixed states.
+The river fragment B12 brings sameness and change together:
+
+> "On those stepping into rivers staying the same other and other waters flow." (Heraclitus, DK B12, translation reproduced in [Daniel W. Graham's SEP entry](https://plato.stanford.edu/archives/fall2025/entries/heraclitus/))
+
+Graham discusses a reading on which some things stay the same only by changing. Separately, William James uses a stream metaphor to describe how consciousness appears to itself ([The Principles of Psychology, chapter IX](https://www.gutenberg.org/files/57628/57628-h/57628-h.htm)).
 
 (Heraclitus, fragments; Whitehead, Process and Reality, 1929.)
 
-**Plain words** Reality isn't a warehouse of finished things — it's a flowing of events. Stop asking what things are and start asking how they go. Plan for process, not for fixed states. The person who asks 'how is my marriage going?' does better than the one who asks 'what IS my marriage?'
+### Plain words
 
-*For example:* The career treated as a fixed title dies in a layoff; the career treated as a moving skill-set survives three of them.
+An unchanged name can hide changed circumstances. Calling someone a friend leaves questions about how you are treating each other today. Use the river image as a prompt to look at the ongoing relationship: what has changed, and what needs attention?
+
+### For example
+
+Imagine your friend's working hours change. Discuss a new time to meet, then check whether the arrangement works for both of you.
 
 ## Stories
 
@@ -53,6 +61,11 @@ Reality is not a warehouse of finished things; it is a flowing of events. Stop a
 > — William James, The Principles of Psychology, vol. I (Henry Holt, 1890).
 > Locator: Ch. IX "The Stream of Thought", p. 239.
 > Open-access source: https://www.gutenberg.org/files/57628/57628-h/57628-h.htm
+
+## Sources
+
+- [Heraclitus, Stanford Encyclopedia of Philosophy (Fall 2025), D. Graham](https://plato.stanford.edu/archives/fall2025/entries/heraclitus/) — DK B12 text and translation
+- [William James, The Principles of Psychology, Project Gutenberg](https://www.gutenberg.org/files/57628/57628-h/57628-h.htm) — chapter IX
 
 <!-- fc: reflections
 What in your life are you currently treating as a fixed thing rather than a flowing of events? What would asking "how is it becoming" actually reveal?
