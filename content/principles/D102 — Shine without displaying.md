@@ -12,13 +12,15 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 102** — Shine without displaying
 
-The self-displaying don't illuminate; the sage wears rough cloth with jade inside. Let the substance show through the plainness, never the reverse.
+Chapter 70 of the Daodejing is the source of this principle's most quoted image, and the image is more precise than the paraphrase usually suggests. Legge: "My words are very easy to know, and very easy to practise; but there is no one in the world who is able to know and able to practise them... The sage wears a coarse cloth and carries jade in his bosom" ([Daodejing 70, James Legge translation, Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt)). The point is not merely modesty; it is that the sage's value is not in the surface, and the sage does not put the value in the surface.
 
-(DDJ 24, 70.)
+Chapter 24 is the negative side of the same principle: those who display themselves do not shine. "He who displays himself does not appear bright; he who asserts his own views is not distinguished" ([Daodejing 24, James Legge translation, Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt)). The claim is not that modest people are nicer; it is that the display mechanism itself does not work — it produces the opposite of what the displayer wants.
 
-**Plain words** The self-displaying don't illuminate. The sage wears rough cloth with jade inside — substance showing through plainness, never the reverse. Let the work reveal you slowly; packaging yourself is a full-time job with terrible pay.
+> "The sage wears a coarse cloth and carries jade in his bosom." (Daodejing 70, James Legge translation, [Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 
-*For example:* The quietly excellent colleague doesn't need to say they're excellent at every meeting — the results arrive wearing their name tag.
+**Plain words** The quietly excellent colleague does not need to say they are excellent at every meeting — the results arrive wearing their name tag. This is not a moral instruction about being humble; it is an observation about which mechanism actually carries the information. Self-display produces the opposite of illumination: the more someone insists on their own brightness, the less anyone can see it. Packaging yourself is a full-time job with terrible pay.
+
+*For example:* Two colleagues have the same record of good work. One mentions it in every meeting; the team has learned to discount the mention. The other never mentions it; the work arrives and the reputation follows the work. Same record; only one of them is believed.
 
 ## Psychology parallels
 
