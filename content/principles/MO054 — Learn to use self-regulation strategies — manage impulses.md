@@ -16,19 +16,24 @@ Self-regulation — the capacity to control impulses and direct behaviour toward
 
 ### What the skill is
 
-The research definition is about responses, not feelings: "Self-control refers to the capacity for altering one's own responses, especially to bring them into line with standards such as ideals, values, morals, and social expectations, and to support the pursuit of long-term goals" ([Baumeister, Vohs & Tice 2007](https://public.websites.umich.edu/~prestos/Consumption/pdfs/BaumeisterVohsTice2007.pdf)). "Overcoming unwanted impulses" is one item on their list of what self-regulation covers, alongside controlling thoughts and managing emotions.
+The research definition is a matter of responses and standards:
+
+> "Self-control refers to the capacity for altering one's own responses, especially to bring them into line with standards such as ideals, values, morals, and social expectations, and to support the pursuit of long-term goals." — Baumeister, Vohs & Tice, "The Strength Model of Self-Control", Current Directions in Psychological Science 16(6), 2007 ([PDF](https://public.websites.umich.edu/~prestos/Consumption/pdfs/BaumeisterVohsTice2007.pdf))
+
+"Overcoming unwanted impulses" is one item on their list of what self-regulation covers, alongside controlling thoughts and managing emotions.
 
 ### Why strategies beat willpower
 
-The strategies in this principle share one idea: intervene early in the chain rather than late. Suppressing an urge already in motion is the expensive version; not meeting the temptation is the cheap one. The gap between urge and action is where the skill operates, and it widens with practice.
+Duckworth, Gendler and Gross organize self-control strategies by when they intervene in a developing impulse, and argue for acting early: "Because impulses tend to grow stronger over time, situational self-control strategies... may be especially effective in preventing undesirable action" ([Duckworth et al. 2016](https://www.psychologicalscience.org/journals/perspectives/1745691615623247/)). Choosing a seat away from the bar, leaving the phone at home: these cost little because the urge never gets strong.
 
-**Plain words** Self-regulation is trainable — the capacity to notice an impulse and choose. Not suppression; noticing. The gap between urge and action is where the whole skill lives, and the gap widens with practice. Every resisted cookie is a rep.
+**Plain words** Self-regulation is the skill of altering your own responses to line them up with what you value. The cheapest move is choosing the situation before the urge arrives; the dearest is fighting the urge head-on once it is strong. Both are choices, and both can be practised.
 
-*For example:* The urge to snap in the meeting, noticed, held for three seconds, and answered calmly — that three-second gap was the entire skill, and it grew the way muscles do.
+*For example:* The urge to snap in the meeting arrives; the skill is what happens next. A breath, a different reading of what the other person meant, or silence until the heat passes.
 
 ## Sources
 
 - [Baumeister, Vohs & Tice, "The Strength Model of Self-Control", Current Directions in Psychological Science 16(6), 2007 (PDF)](https://public.websites.umich.edu/~prestos/Consumption/pdfs/BaumeisterVohsTice2007.pdf) — the definition of self-control; the self-regulation demand list
+- [Duckworth, Gendler & Gross, "Situational Strategies for Self-Control", Perspectives on Psychological Science 11(1), 2016 (abstract)](https://www.psychologicalscience.org/journals/perspectives/1745691615623247/) — impulses grow stronger over time; early situational strategies
 ## Psychology parallels
 
 - **[[Self-regulation|Self-regulation strategies (Baumeister & Vohs)]]**, strategies include [[Situation selection|situation selection]], attentional deployment, cognitive change, response modulation (Baumeister & Vohs, 2004; Gross, 2015)

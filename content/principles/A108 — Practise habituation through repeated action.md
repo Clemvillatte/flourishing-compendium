@@ -31,7 +31,7 @@ The disposition is not a prerequisite for the acts but their residue. The first 
 **Plain words**
 The surprise in Aristotle is the direction of causation: you might think a just person does just acts, and he says the acts make the person. Treat any trait you want as a craft, since nobody learns the piano by feeling pianistic. Schedule the repetition, not the mood: do the act badly, then again, and let the ease arrive on its own.
 
-*For example:* A person trying to be more patient starts by pausing before every reply for a week. By week four it happens without effort.
+*For example:* A person trying to be more patient starts by pausing before every reply. The first pauses are clumsy and deliberate; with repetition, the pause stops needing to be planned.
 
 ## Sources
 

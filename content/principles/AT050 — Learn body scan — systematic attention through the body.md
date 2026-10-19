@@ -14,15 +14,15 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AT — Attentio
 
 The body scan is a systematic practice of moving attention through different parts of the body, noticing sensations without judgment. It trains attentional flexibility, body awareness, and the capacity to notice without reacting.
 
-### The lineage
+### Where the tour comes from
 
-The practice descends from the Satipatthana Sutta's contemplation of the body, which already specifies the systematic tour: the monk "reflects on this very body from the soles of the feet on up, from the crown of the head on down, surrounded by skin" ([MN 10, Thanissaro trans.](https://accesstoinsight.org/tipitaka/mn/mn.010.than.html)). The modern body scan keeps the route and drops the anatomical list.
+The Satipatthana Sutta's contemplation of the body already specifies the systematic tour: the monk "reflects on this very body from the soles of the feet on up, from the crown of the head on down, surrounded by skin" ([MN 10, Thanissaro trans.](https://accesstoinsight.org/tipitaka/mn/mn.010.than.html)). The modern body scan keeps the route and drops the anatomical list.
 
 ### What the tour trains
 
 The refrain of that sutta asks for focus that is "ardent, alert, & mindful" while "putting aside greed & distress with reference to the world" (MN 10). Those are the two skills the scan trains together: attention that holds, and a stance that neither grabs nor flinches. Every region is a new object, every shift a small act of redirecting.
 
-**Plain words** The body scan is a tour of your own body with attention as the flashlight — feet, legs, torso, arms, head — noticing whatever's there without fixing it. It teaches two skills at once: focus and friendliness toward what you find.
+**Plain words** The body scan is a tour of your own body with attention as the flashlight — feet, legs, torso, arms, head — noticing whatever's there without fixing it. It trains attention that holds, and a stance that neither grabs nor flinches at what it finds.
 
 *For example:* Lying down for twenty minutes, discovering the jaw you've been clenching since 9 a.m. Nobody told you it was tense. The scan found it because it finally looked.
 
