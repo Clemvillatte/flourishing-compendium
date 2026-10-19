@@ -25,10 +25,10 @@ Chapter 41 makes it a property of the highest virtue, which in Legge's verse ris
 (DDJ 28, 32, 41, 66.)
 
 **Plain words**
-A suggested practice: in your next group conversation, keep asking questions instead of topping other people's points, and notice what people tell you by the end of the evening. The low, open position is where confidences arrive; what it costs is looking like you are not winning, and noticing that cost is part of the practice.
+A suggested practice: in your next group conversation, keep asking questions instead of topping other people's points, and notice what people tell you by the end of the evening. The chapter's image is that the low position is where the inflow happens; what it may cost is looking like you are not winning, and noticing that cost is part of the practice.
 
 **For example**
-The best listener in the room is usually the one everyone eventually confides in: low and open, so everything flows to them.
+Watch who ends up hearing everyone's confidences by the end of an evening: often someone who spent it low and open, asking rather than topping.
 
 ## Sources
 

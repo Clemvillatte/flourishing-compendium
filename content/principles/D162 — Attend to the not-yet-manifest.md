@@ -21,7 +21,7 @@ The same chapter grounds the rule in how things grow: the tree that fills the ar
 (DDJ 64; Yinfu Jing.)
 
 **Plain words**
-Nothing happens when you notice early, which is why most people don't: the reward for heading off a problem is that no one ever sees the problem. The skill is acting on weak signals while the fix is still cheap and unglamorous, and staying watchful to the end, because the last stretch is where attention usually fails.
+Head off a problem early and the reward is that no one ever sees the problem. Notice for yourself whether that invisible reward makes early attention rare. The chapter's warning about the eve of success suggests watching the last stretch too, since the people it describes were careful at the beginning and not at the end.
 
 **For example**
 The awkward money talk with a friend while it is still awkward, instead of after it has become a friendship-ending amount.

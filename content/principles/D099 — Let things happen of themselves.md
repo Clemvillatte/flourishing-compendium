@@ -16,15 +16,20 @@ Chapter 37 of the Daodejing states the rule:
 
 > "The Tao in its regular course does nothing (for the sake of doing it), and so there is nothing which it does not do. If princes and kings were able to maintain it, all things would of themselves be transformed by them." (Daodejing 37, [Legge](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 
-The chapter ends, in Legge's verse, with the promise attached to the unforced state: "With no desire, at rest and still, / All things go right as of their will." The division of labour is the point: your part is maintaining the conditions, the world's part is the transforming, and it does that part "of themselves". Micromanagement is doing the world's part from your side, and it usually happens by neglecting your own.
+The chapter ends with the promise attached to the unforced state:
+
+> "With no desire, at rest and still,
+> All things go right as of their will." (Daodejing 37, [Legge](https://www.gutenberg.org/cache/epub/216/pg216.txt))
+
+Chapter 37 describes rulers maintaining the Dao while things transform of themselves. A personal application is to ask whether another intervention is needed, or whether an ongoing process can be allowed to proceed. The compendium's exercise for that question is the two columns below.
 
 (Liezi; DDJ 37.)
 
 **Plain words**
-Two lists. One column: things you control, the conditions you maintain, the seed you water, the application you send. Other column: things you influence, the harvest, the acceptance letter, how the project lands. The practice is refusing to work the second column with first-column effort: show up fully for the first, then let the second arrive however it arrives. Watching the second column is allowed; gripping it is the stress.
+The compendium's exercise: two columns. One column: things you control, the conditions you maintain, the seed you water, the application you send. Other column: things you influence, the harvest, the acceptance letter, how the project lands. Show up fully for the first column, then let the second arrive however it arrives.
 
 **For example**
-You can send the perfect application; you cannot send the acceptance letter. Water the seed and let the sky decide the rest.
+You can send the application; you cannot send the acceptance letter. Water the seed and let the sky decide the rest.
 
 ## Sources
 

@@ -30,10 +30,10 @@ The Daodejing asks the same holding-together as a question about what you can su
 (Neiye; DDJ 10, 22.)
 
 **Plain words**
-Guarding the One is a budget, not a mood. Attention spent in several places at once pays for every switch, and the item in front of you gets the leftovers. Put the body behind one thing, breath and posture and task together, and the distance you could not cover scattered starts to close. The test: if you cannot say what the One thing is right now, you are not guarding it.
+Guarding the One is a decision about what the One thing is right now. If you cannot name it, you are not guarding it. The Neiye's picture: when the four limbs are aligned and the breath tranquil, unify your awareness and concentrate the mind. Pick the one thing, put the body behind it, and notice whether the far-off starts seeming closer, which is the verse's own test.
 
 **For example**
-Seventeen open tabs and a half-written paragraph: the paragraph is slow because sixteen other tasks are taking a cut. Close them and notice what happens to the writing.
+Seventeen open tabs and a half-written paragraph: close them, sit with the one task, and notice what happens to the writing and to the urge to switch.
 
 ## Sources
 

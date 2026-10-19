@@ -16,15 +16,22 @@ Chapter 46 names the failure directly:
 
 > "There is no guilt greater than to sanction ambition; no calamity greater than to be discontented with one's lot; no fault greater than the wish to be getting. Therefore the sufficiency of contentment is an enduring and unchanging sufficiency." (Daodejing 46, [Legge](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 
-Chapter 44 puts it as a choice of what to keep, in Legge's verse: fame or life, life or wealth, and the contented person "needs fear no shame". The compendium's reading of the two chapters: wanting has no fixed finish line, because the line is set by comparison with whoever is ahead; contentment draws its own line, and that line is reachable because you drew it. This is the wealth the principle means, an asset held in a currency no neighbour's raise can touch.
+Chapter 44 asks, in Legge's verse, what one is prepared to sacrifice for fame and wealth:
+
+> "Who is content
+> Needs fear no shame.
+> Who knows to stop
+> Incurs no blame." (Daodejing 44, [Legge](https://www.gutenberg.org/cache/epub/216/pg216.txt))
+
+A practical reading of the two chapters is to decide what further acquisition is worth, including its cost to the life one already has. The chapter 46 line calls contentment's sufficiency "enduring and unchanging", which is the wealth the principle means: an asset held in a currency no neighbour's raise can touch.
 
 (DDJ 44, 46.)
 
 **Plain words**
-Financial misery usually traces to the reference point rather than the money itself. Two people with the same salary can feel rich and behind respectively, because one is comparing against what they have and the other against what someone else has. The exercise: write down what enough looks like for you, in numbers and hours, and check purchases and jobs against that line rather than against other people's.
+If every improvement becomes a new minimum, there is no point at which another purchase can wait. Decide what would meet the need at hand, then weigh further gains against what obtaining them would cost.
 
 **For example**
-Two people with the same salary, one perpetually behind and one rich in their own eyes: the difference is the line each is measuring against, and only one of the two lines can be reached.
+Imagine wanting to replace a working phone after a colleague buys a newer model. What would the replacement let you do, and is that worth its cost?
 
 ## Sources
 
