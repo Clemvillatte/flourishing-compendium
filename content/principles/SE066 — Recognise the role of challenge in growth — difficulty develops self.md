@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 66** — Recognise the role of challenge in growth: difficulty develops self
 
-Growth requires challenge. The self develops through facing and overcoming difficulties, not through comfort and ease. Deliberately seeking appropriate challenge is a self-development practice.
+Vygotsky gave the calibration a name: the zone of proximal development, "the distance between the actual developmental level as determined by independent problem solving and the level of potential development as determined through problem solving under adult guidance or in collaboration with more capable peers." What a learner cannot yet do alone but can do with help is precisely where development happens, and his formula generalizes the point: "the only 'good learning' is that which is in advance of development." The compendium's application is the principle's own practice: deliberately seek appropriate challenge, the task just beyond independent reach, hard but possible.
 
 **Plain words** You do not grow in your comfort zone; you grow just outside it, where it's hard but possible. Too little challenge and you atrophy. Too much and you break. The skill is calibrating: enough difficulty to develop you, not enough to flatten you.
 
