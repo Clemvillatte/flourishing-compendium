@@ -12,13 +12,13 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 82** — Don't impose your frame on others
 
-The principle comes from the fish debate at the end of the Zhuangzi's "Autumn Floods". Zhuangzi, watching fish dart below the dam over the Hao, says they are enjoying themselves. Huizi asks how a man who is not a fish could know that. The question sounds like humility, but it works as a frame: it settles in advance who may say anything about whose experience. Zhuangzi turns the same move back on Huizi, and the debate ends without a verdict on the fish. What survives the exchange is the method: a claim about what someone else feels is made from a position, and the position can be questioned as easily as the claim.
+Zhuangzi and Huizi watch fish from the dam over the Hao. Huizi asks how Zhuangzi can know their enjoyment without being a fish. Zhuangzi responds by questioning Huizi's knowledge of him, then closes by claiming that he knows the fishes' enjoyment over the Hao.
 
 > "You are not a fish; how do you know what constitutes the enjoyment of fishes?" (Zhuangzi 17, [Legge](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
 
 > "You are not I. How do you know that I do not know what constitutes the enjoyment of fishes?" (Zhuangzi 17, [Legge](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
 
-The compendium's practical reading takes Huizi's objection as the warning: you are not the other person, so your reading of their inner life is a reading rather than a report. Zhuangzi's rejoinder shows the objection cuts both ways: the frame that says you cannot know is itself a claim somebody is making about somebody, and it can be met with its own question. Zhuangzi then closes by claiming that he knows the fishes' enjoyment over the Hao, so the dialogue ends with the knowledge claim affirmed rather than refuted. The compendium's application is the listening practice: offer the view, keep the question open, and weigh their reply against your projection.
+The compendium's practical reading takes Huizi's objection as the warning: you are not the other person, so your reading of their inner life is a reading rather than a report. Zhuangzi's rejoinder shows the objection cuts both ways: the frame that says you cannot know is itself a claim somebody is making about somebody, and it can be met with its own question. The compendium's application is the listening practice: offer the view, keep the question open, and weigh their reply against your projection.
 
 **Plain words** Before telling someone what they feel, separate what you observed from your interpretation. Ask whether your reading fits, and be willing to revise it. Check whether you are assuming they share your preferences.
 

@@ -24,7 +24,7 @@ The compendium applies these passages as advice for responding to changes one ca
 
 **Plain words** When a friendship changes, name what you miss and ask what contact is possible now. Consider whether you want to stay in touch differently. Leave room for grief while deciding how to respond.
 
-*For example:* Mourning a friendship that seasons changed — people become parents, move, grow apart — instead of letting it become something new.
+*For example:* Suppose a friend can no longer meet weekly. You miss the old routine and ask whether a monthly call would suit you both.
 
 ## Sources
 
