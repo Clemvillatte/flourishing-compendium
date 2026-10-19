@@ -13,6 +13,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 - **interventions** — DiGiuseppe and Tafrate, 2007
 
+## Related concepts
+
+- [[Anger regulation research]] — the applied programmes this evidence underwrites
+
 ## Sources
 
 - DiGiuseppe and Tafrate, 2007

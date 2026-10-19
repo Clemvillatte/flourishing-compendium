@@ -24,6 +24,10 @@ Its calm siblings are [[Equanimity]] and the Daoist [[Wu wei]].
 - **and acceptance-based coping** — Hayes, Strosahl and Wilson, 2011
 - **as the end of repentance** — Nietzsche, Ecce Homo
 
+## Related concepts
+
+- [[Amor sui (right self-love)]] — self-love of one's own power of acting (cross-tradition comparison)
+
 ## Sources
 
 - Nietzsche, Ecce Homo

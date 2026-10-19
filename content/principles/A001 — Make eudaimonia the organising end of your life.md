@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 1** — Make eudaimonia the organising end of your life
 
-Eudaimonia is not a mood or a pleasure. It is a whole life lived well: activity of the soul in accordance with virtue, over a complete span. Choose your actions by asking what kind of human life they are helping you become capable of living.
+Eudaimonia is not a mood or a pleasure. It is a whole life lived well: activity of the soul [[Virtue|in accordance with virtue]], over a complete span. Choose your actions by asking what kind of human life they are helping you become capable of living.
 
 (NE I.7, I.13.)
 

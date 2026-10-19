@@ -23,7 +23,7 @@ Use group identity for social cure — the well-documented finding that strong, 
 
 ## Philosophy parallels
 
-- Aristotle — the political animal — Thinker: Aristotle — Reference: Nicomachean Ethics, I.7. Ubuntu — personhood through community — Thinker: Tutu — Reference: Tutu (1999).
+- Aristotle — the political animal — Thinker: Aristotle — Reference: Nicomachean Ethics, I.7. [[Ubuntu|Ubuntu — personhood through community]] — Thinker: Tutu — Reference: Tutu (1999).
 - **Other:**, **EEMM link:** The social cure is the sociocultural context supporting the biophysiological level through social identity.
 
 ## Practice

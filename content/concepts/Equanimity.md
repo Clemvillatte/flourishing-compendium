@@ -13,6 +13,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 - Desbordes et al., 2015
 - Desbordes et al., 2012
 - Stoics, Marcus Aurelius, Meditations
+## Related concepts
+
+- [[Freedom]] — the fruit of freedom of judgment (Stoic face)
+
 ## Sources
 
 - Desbordes et al., 2014

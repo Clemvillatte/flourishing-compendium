@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 3** — Make virtue your primary investment
 
-Virtue (arete) is not rule-following. It is a settled disposition (hexis) to choose the mean relative to us, as determined by reason. Invest in who you are becoming, not only in what you achieve. Character is the foundation; achievements are its expression.
+[[Virtue|Virtue (arete)]] is not rule-following. It is a settled disposition (hexis) to choose the mean relative to us, as determined by reason. Invest in who you are becoming, not only in what you achieve. Character is the foundation; achievements are its expression.
 
 (NE II.1, II.5.)
 

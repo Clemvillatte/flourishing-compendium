@@ -13,6 +13,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 - **as timing** — Aristotle, Nicomachean Ethics VI
 
+## Related concepts
+
+- [[Virtue]] — the intellectual virtue that finds the mean in particulars
+
 ## Sources
 
 - Aristotle, Nicomachean Ethics VI.5

@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Situated freedom” — Merleau-Ponty, Phenomenology of Perception; Sartre, Being and Nothingness.
 
+## Related concepts
+
+- [[Freedom]] — the phenomenologist's correction: freedom is always freedom somewhere
+
 ## Sources
 
 - Merleau-Ponty, Phenomenology of Perception

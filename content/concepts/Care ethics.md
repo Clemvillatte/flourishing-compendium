@@ -7,7 +7,7 @@ file: "Care ethics"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-C"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
-The tradition (Gilligan, Noddings, Tronto) that takes care — attentiveness, responsibility, competence, responsiveness — as the primary moral orientation rather than justice or rules. It resonates with Confucian relationality, Ubuntu, and Levinasian responsibility ([SEP Feminist Ethics](https://plato.stanford.edu/entries/feminist-ethics/)).
+The tradition (Gilligan, Noddings, Tronto) that takes care — attentiveness, responsibility, competence, responsiveness — as the primary moral orientation rather than justice or rules. It resonates with Confucian relationality, [[Ubuntu|Ubuntu]], and Levinasian responsibility ([SEP Feminist Ethics](https://plato.stanford.edu/entries/feminist-ethics/)).
 
 ## Sources
 - SEP Feminist Ethics: https://plato.stanford.edu/entries/feminist-ethics/

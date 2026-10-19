@@ -16,6 +16,10 @@ The distinction to hold: compassion is not pity (which looks down), not sympathy
 An example at its smallest: the two-step on any witnessed suffering — feel it fully for one breath, then one small act: the name spoken, the load carried, the water brought.
 
 Its Buddhist original is [[Karuna]], its Confucian cousin [[Ren]], and its psychological near-neighbour [[Empathy]].
+## Related concepts
+
+- [[Ubuntu]] — compassion listed among the marks of a person with ubuntu (Tutu)
+
 ## Sources
 
 - Goetz et al., 2010

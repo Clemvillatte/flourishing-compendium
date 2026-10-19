@@ -24,7 +24,7 @@ Social support involves both giving and receiving. Giving support (helping, list
 
 ## Philosophy parallels
 
-- **Ubuntu: mutual support** (African Philosophy)
+- **[[Ubuntu|Ubuntu: mutual support]]** (African Philosophy)
 - **[[Friendship|Friendship as mutual aid]]** (Aristotle, Nicomachean Ethics VIII)
 - **The gift and the receiving** (Mauss, The Gift)
 

@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Interbeing” — Hanh, Interbeing; Thích Nhất Hạnh, Interbeing.
 
+## Related concepts
+
+- [[Ubuntu]] — interdependence extended from persons to all things
+
 ## Sources
 
 - Hanh, Interbeing

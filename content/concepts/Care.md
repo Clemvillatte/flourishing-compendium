@@ -22,6 +22,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 - Foucault, The History of Sexuality vol. 2
 - Seneca, On the Shortness of Life
 - Foucault, The History of Sexuality vol. 3
+## Related concepts
+
+- [[Ubuntu]] — relation-grounded personhood, the African and care-ethics analogues
+
 ## Sources
 
 - Noddings, Caring

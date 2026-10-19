@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “The dizziness of freedom” — Kierkegaard, The Concept of Anxiety.
 
+## Related concepts
+
+- [[Freedom]] — Kierkegaard: possibility itself as anxiety
+
 ## Sources
 
 - Kierkegaard, The Concept of Anxiety

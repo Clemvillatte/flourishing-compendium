@@ -13,6 +13,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 - **versus amour-propre** — Rousseau, Discourse on the Origin of Inequality
 
+## Related concepts
+
+- [[Amor sui (right self-love)]] — the rational form of self-love Spinoza defends
+
 ## Sources
 
 - Rousseau, Discourse on the Origin of Inequality

@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 5** — Choose the mean, not the extreme
 
-Virtue finds the intermediate between excess and deficiency: courage between cowardice and recklessness, generosity between miserliness and prodigality. The mean is not a mathematical midpoint but what is appropriate to the situation, the person, and the purpose. Seek the fitting, not the average.
+[[Virtue|Virtue finds the intermediate]] between excess and deficiency: courage between cowardice and recklessness, generosity between miserliness and prodigality. The mean is not a mathematical midpoint but what is appropriate to the situation, the person, and the purpose. Seek the fitting, not the average.
 
 (NE II.2, II.6.)
 

@@ -20,6 +20,10 @@ past-focused repetitive thought predicts depression (Nolen-Hoeksema, 2000).
 - Nolen-Hoeksema, 1991
 - Pennebaker, 1997
 - Nolen-Hoeksema's rumination research
+## Related concepts
+
+- [[Anger regulation research]] — the ingredient that made venting backfire in Bushman's experiment
+
 ## Sources
 
 - Nolen-Hoeksema, 2000

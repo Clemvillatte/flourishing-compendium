@@ -10,6 +10,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 situations shape behavior more than traits predict (Ross and Nisbett, 1991).
 
 - Doris, Lack of Character
+## Related concepts
+
+- [[Virtue]] — the empirical challenge that situations trump traits
+
 ## Sources
 
 - Ross and Nisbett, 1991

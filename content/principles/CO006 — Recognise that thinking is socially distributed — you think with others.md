@@ -25,7 +25,7 @@ Cognition is not purely individual; it extends into tools, environments, and oth
 
 ## Philosophy parallels
 
-- **Ubuntu: I am because we are** (African Philosophy, Desmond Tutu)
+- **[[Ubuntu|Ubuntu: I am because we are]]** (African Philosophy, Desmond Tutu)
 - **[[Dialogic reason|Dialogic reason]]** (Buber, I and Thou; Habermas, Theory of Communicative Action)
 - **[[Distributed cognition / extended mind|The extended mind]]** (Clark & Chalmers, "The Extended Mind")
 

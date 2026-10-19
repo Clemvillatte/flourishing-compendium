@@ -14,7 +14,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 
 Maintain continuity with those who came before you. In many African traditions, the ancestors are not dead and gone but are active participants in the life of the community. Honour them by remembering their names, telling their stories, and living in a way that would make them proud.
 
-(Ubuntu philosophy; Mbiti, African Religions and Philosophy.)
+([[Ubuntu|Ubuntu philosophy]]; Mbiti, African Religions and Philosophy.)
 
 **Plain words** The ones who came before aren't finished — their names, stories, and standards are still active in the community's bloodstream. Keep the continuity: remember their names, tell their stories, and let "would they recognise themselves in how I'm living?" be a real question you ask.
 

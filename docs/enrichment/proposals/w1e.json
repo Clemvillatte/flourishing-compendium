@@ -1,11 +1,6 @@
 {
  "reciprocal": [
   {
-   "into": "Two modes of attentional control",
-   "link": "Attentional control training and the role of repeated redirection",
-   "why": "practising the return of attention works between intentional selection and stimulus-driven capture"
-  },
-  {
    "into": "Goal-directed attentional control",
    "link": "Attentional control training and the role of repeated redirection",
    "why": "each return to the chosen object is a goal-directed act of selection against capture"
@@ -19,12 +14,8 @@
    "into": "Body scan in MBSR (Kabat-Zinn)",
    "link": "Attentional control training and the role of repeated redirection",
    "why": "another practice of systematically redirecting attention, carried by the same principle AT050"
-  },
-  {
-   "into": "Abhyasa",
-   "link": "Attentional control training and the role of repeated redirection",
-   "why": "both describe effortful practice toward steadiness (Yoga Sutra 1.12-13), offered as comparison"
   }
  ],
- "inline": []
+ "inline": [],
+ "notes": " | deferred at this run (target band busy): 3 recip, 0 inline"
 }

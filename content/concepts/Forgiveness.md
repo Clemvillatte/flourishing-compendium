@@ -18,6 +18,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 - Griffin et al., 2015
 - Worthington, 2001, Five Steps to Forgiveness
 - Dunbar's gossip-cooperation findings as background
+## Related concepts
+
+- [[Ubuntu]] — ubuntu grounded the TRC's restorative amnesty
+
 ## Sources
 
 - Arendt, The Human Condition

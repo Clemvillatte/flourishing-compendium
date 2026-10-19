@@ -14,7 +14,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 
 Respond to the suffering of others with concrete action. Compassion is not merely feeling sorry for someone; it is being moved to act on their behalf. The Nguni word "ubuntu" is often translated as compassion, humanity, and fellowship together.
 
-(Ubuntu philosophy; Tutu, No Future Without Forgiveness.)
+([[Ubuntu|Ubuntu philosophy]]; Tutu, No Future Without Forgiveness.)
 
 **Plain words** Compassion isn't feeling sorry — it's being moved to do something. The suffering shows up; the practice is letting it reach your hands. Ubuntu itself names humanity, compassion, and fellowship in one breath, because they're one motion.
 

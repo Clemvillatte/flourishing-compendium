@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Express by shaping, not venting” — Dewey, Art as Experience.
 
+## Related concepts
+
+- [[Anger regulation research]] — the empirical backing for the anti-catharsis stance
+
 ## Sources
 
 - Dewey, Art as Experience

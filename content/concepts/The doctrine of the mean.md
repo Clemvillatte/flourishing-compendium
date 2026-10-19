@@ -33,6 +33,10 @@ The misunderstanding to avoid is that the mean is mediocrity or moderation-for-i
 - **between contraction and expansion** — Aristotle, Nicomachean Ethics II
 - **between independence and dependence** — Aristotle, Nicomachean Ethics
 
+## Related concepts
+
+- [[Virtue]] — each virtue as a mean between two vices
+
 ## Sources
 
 - Aristotle, Nicomachean Ethics II

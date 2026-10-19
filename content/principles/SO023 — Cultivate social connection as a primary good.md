@@ -23,7 +23,7 @@ Cultivate social connection as a primary good, not as an optional extra. The evi
 
 ## Philosophy parallels
 
-- Aristotle — friendship as a constituent of [[Eudaimonia|eudaimonia]] — Thinker: Aristotle — Reference: Nicomachean Ethics, VIII–IX. Ubuntu — personhood through relationship — Thinker: Tutu — Reference: Tutu (1999).
+- Aristotle — friendship as a constituent of [[Eudaimonia|eudaimonia]] — Thinker: Aristotle — Reference: Nicomachean Ethics, VIII–IX. [[Ubuntu|Ubuntu — personhood through relationship]] — Thinker: Tutu — Reference: Tutu (1999).
 - **Other:**, **EEMM link:** Social connection is the sociocultural context's most direct influence on the biophysiological level.
 
 ## Practice

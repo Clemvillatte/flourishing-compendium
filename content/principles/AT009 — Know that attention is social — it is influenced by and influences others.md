@@ -24,7 +24,7 @@ Attention is not purely individual. Others' gaze, interests, and focus influence
 
 ## Philosophy parallels
 
-- **Ubuntu: I am because we are** (African Philosophy, Desmond Tutu)
+- **[[Ubuntu|Ubuntu: I am because we are]]** (African Philosophy, Desmond Tutu)
 - **The crowd as attentional trap** (Kierkegaard, The Crowd is Untruth)
 - **[[Right association|Right association]]** (Buddhism, Sigalovada Sutta)
 

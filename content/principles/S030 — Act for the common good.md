@@ -27,7 +27,7 @@ The Stoic is not a solitary sage. Every action should serve the community. You a
 
 ## Philosophy parallels
 
-- **Ubuntu: I am because we are** (African relational philosophy)
+- **[[Ubuntu|Ubuntu: I am because we are]]** (African relational philosophy)
 - **Democracy as associated living** (Dewey, Democracy and Education)
 
 <!-- fc: reflections

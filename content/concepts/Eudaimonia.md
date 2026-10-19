@@ -22,3 +22,7 @@ Its great Greek rival is [[Ataraxia]] — tranquility as the goal rather than ac
 - [[A008 — Accept that flourishing takes a whole life]]
 - [[A010 — Recognise that fortune can overturn happiness]]
 - [[A026 — Practice patience with others' faults]]
+
+## Related concepts
+
+- [[Virtue]] — the flourishing virtue is the road to

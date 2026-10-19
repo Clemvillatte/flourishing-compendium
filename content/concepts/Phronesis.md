@@ -25,6 +25,10 @@ For habit and flourishing, phronesis names the skill the entire self-improvement
 
 - [Schwartz, 2022
 - Aristotle, NE VI
+## Related concepts
+
+- [[Virtue]] — Aristotle's name for the deliberative excellence virtue needs
+
 ## Sources
 
 - [Wikipedia, Phronesis](https://en.wikipedia.org/wiki/Phronesis) — the NE Book VI framework, the contrast with epistēmē and sophia, the young-geometers passage, and later uses including the Rhetoric, MacIntyre and the Aristotelian Phronesis Model.

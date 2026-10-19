@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 9** — Pursue kalokagathia: nobility-and-goodness as a unified ideal
 
-The kaloskagathos is the person in whom moral virtue (agathon) and nobility of character (kalon) are unified. It is not enough to do good; do it beautifully, with grace and proportion. The aesthetic and the ethical are not separate domains. Let the form of your action match its content.
+The kaloskagathos is the person in whom [[Virtue|moral virtue (agathon)]] and nobility of character (kalon) are unified. It is not enough to do good; do it beautifully, with grace and proportion. The aesthetic and the ethical are not separate domains. Let the form of your action match its content.
 
 (NE I.8, X.9; EE VIII.3; MM I.20.)
 

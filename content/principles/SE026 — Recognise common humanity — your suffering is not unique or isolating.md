@@ -24,7 +24,7 @@ A core component of [[Self-compassion|self-compassion]] is recognising that suff
 
 ## Philosophy parallels
 
-- **Ubuntu: I am because we are** (African Philosophy, Desmond Tutu)
+- **[[Ubuntu|Ubuntu: I am because we are]]** (African Philosophy, Desmond Tutu)
 - **[[The human condition|The human condition]]** (Hannah Arendt, The Human Condition)
 - **Nothing human is alien to me** (Terence, Heauton Timorumenos)
 

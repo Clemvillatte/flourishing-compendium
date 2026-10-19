@@ -22,6 +22,10 @@ Its social-cognitive sibling is [[Perspective-taking]] — reappraisal of the ev
 - changing the interpretation of a situation to change its emotional impact (Gross, 2015)
 - the most consistently effective emotion-regulation strategy (Gross, 1998; 2015)
 
+## Related concepts
+
+- [[Anger regulation research]] — the research tradition that tested reappraisal against other strategies
+
 ## Sources
 
 - Gross, 1998

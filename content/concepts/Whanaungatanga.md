@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Māori principle of kinship and belonging — the web of relationship through which identity is constituted. It grounds all the other ngā ([Wikipedia Whanaungatanga](https://en.wikipedia.org/wiki/Whanaungatanga)).
 
+## Related concepts
+
+- [[Ubuntu]] — Pacific counterpart: kinship belonging as relational identity
+
 ## Sources
 - Wikipedia Whanaungatanga: https://en.wikipedia.org/wiki/Whanaungatanga
 

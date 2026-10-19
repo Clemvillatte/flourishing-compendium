@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Catharsis” — Aristotle, Poetics.
 
+## Related concepts
+
+- [[Anger regulation research]] — the venting theory this research disconfirmed
+
 ## Sources
 
 - Aristotle, Poetics

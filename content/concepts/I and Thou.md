@@ -21,6 +21,10 @@ The Confucian cousin is [[Ren]] — relation, not the isolated individual, as th
 - **full presence** — Buber, I and Thou
 - **both autonomy and relation** — Buber, I and Thou
 
+## Related concepts
+
+- [[Ubuntu]] — personhood comes alive in encounter, per Buber
+
 ## Sources
 
 - Buber, I and Thou

@@ -32,7 +32,7 @@ Relatedness is the experience of connection, belonging, and care for and from ot
 ## Philosophy parallels
 
 - [[I and Thou|I and Thou]] (Buber, I and Thou)
-- Ubuntu: I am because we are (African relational philosophy)
+- [[Ubuntu|Ubuntu: I am because we are]] (African relational philosophy)
 
 <!-- fc: reflections
 Who makes you feel that you matter? Do they know it?

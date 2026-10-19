@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “The Cynic's freedom” — Diogenes of Sinope, in Diogenes Laertius, Lives.
 
+## Related concepts
+
+- [[Freedom]] — freedom through wanting little
+
 ## Sources
 
 - Diogenes of Sinope, in Diogenes Laertius, Lives

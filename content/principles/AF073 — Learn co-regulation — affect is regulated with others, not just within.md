@@ -24,7 +24,7 @@ Emotions are not purely intrapersonal; they are regulated in interaction. A calm
 
 ## Philosophy parallels
 
-- **Ubuntu: I am because we are** (African Philosophy, Desmond Tutu)
+- **[[Ubuntu|Ubuntu: I am because we are]]** (African Philosophy, Desmond Tutu)
 - **[[Aristotelian friendship|Aristotelian friendship as mutual flourishing]]** (Aristotle, Nicomachean Ethics IX)
 
 ## Practice

@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Expressive suppression versus reappraisal” — Gross and John, 2003.
 
+## Related concepts
+
+- [[Anger regulation research]] — the field whose central comparison produced this page's evidence
+
 ## Sources
 
 - Gross and John, 2003

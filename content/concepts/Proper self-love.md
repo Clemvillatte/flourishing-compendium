@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Proper self-love” — Aristotle, NE IX.8; Aristotle, Nicomachean Ethics IX.
 
+## Related concepts
+
+- [[Amor sui (right self-love)]] — Spinoza's parallel case that self-love can be noble
+
 ## Sources
 
 - Aristotle, NE IX.8

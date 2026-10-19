@@ -24,8 +24,8 @@ How you relate to yourself — with kindness or cruelty, acceptance or rejection
 
 ## Philosophy parallels
 
-- **Love thy neighbour as thyself (implies right self-love)** (Jewish/Christian tradition, Leviticus 19:18)
-- **Ubuntu: I am because we are** (African Philosophy)
+- **Love thy neighbour as thyself ([[Amor sui (right self-love)|implies right self-love]])** (Jewish/Christian tradition, Leviticus 19:18)
+- **[[Ubuntu|Ubuntu: I am because we are]]** (African Philosophy)
 - **[[The inner citadel|The inner citadel enables outer generosity]]** (Stoics, Marcus Aurelius, Meditations)
 
 ## Practice

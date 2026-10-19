@@ -14,7 +14,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 
 Value the wisdom that comes with age and experience. In African traditions, elders are not merely older people but are those who have accumulated wisdom through living. Respect them by listening to them, seeking their counsel, and deferring to their judgment in matters of communal importance.
 
-(Ubuntu philosophy; Mbiti, African Religions and Philosophy.)
+([[Ubuntu|Ubuntu philosophy]]; Mbiti, African Religions and Philosophy.)
 
 **Plain words** Age accumulates something worth borrowing: experience that can't be downloaded. Listen to elders, seek their counsel, and give their judgment real weight on matters that matter to the group. Respect here isn't deference to age; it's valuing the data.
 

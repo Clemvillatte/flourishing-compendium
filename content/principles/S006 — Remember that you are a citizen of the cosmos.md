@@ -47,7 +47,7 @@ You belong to a larger community: the city of gods and humans. Act as a citizen 
 
 ## Philosophy parallels
 
-- **Ubuntu: I am because we are** (African relational philosophy)
+- **[[Ubuntu|Ubuntu: I am because we are]]** (African relational philosophy)
 - **[[Cosmopolitanism|Cosmopolitanism]]** (Diogenes the Cynic; Kant, Perpetual Peace)- **[[The logos common to all|The logos common to all]]** (Stoicism)
 
 

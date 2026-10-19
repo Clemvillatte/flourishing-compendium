@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 stimulus-driven vs goal-directed attention (Corbetta & Shulman, 2002; Kastner & Ungerleider, 2000).
 
+## Related concepts
+
+- [[Attentional control training and the role of repeated redirection]] — practising the return of attention works between intentional selection and stimulus-driven capture
+
 ## Sources
 
 - Corbetta & Shulman, 2002

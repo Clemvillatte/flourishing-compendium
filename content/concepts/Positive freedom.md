@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Positive freedom” — Berlin, "Two Concepts of Liberty"; Berlin, "Two Concepts of Liberty," in Four Essays on Liberty.
 
+## Related concepts
+
+- [[Freedom]] — Berlin's second concept: self-mastery and its risks
+
 ## Sources
 
 - Berlin, "Two Concepts of Liberty"

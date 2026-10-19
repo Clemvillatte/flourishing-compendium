@@ -24,7 +24,7 @@ Your affect does not stay inside you. People you interact with catch your emotio
 
 ## Philosophy parallels
 
-- **Ubuntu: I am because we are** (African Philosophy, Desmond Tutu)
+- **[[Ubuntu|Ubuntu: I am because we are]]** (African Philosophy, Desmond Tutu)
 - **[[Ren|Ren (benevolence)]]** (Confucius, Analects)
 - **[[Aristotelian friendship|Aristotelian friendship]]** (Aristotle, Nicomachean Ethics IX)
 

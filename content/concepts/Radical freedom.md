@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Radical freedom” — Sartre, Being and Nothingness.
 
+## Related concepts
+
+- [[Freedom]] — Sartre's face: responsibility for what one makes of one's situation
+
 ## Sources
 
 - Sartre, Being and Nothingness

@@ -14,7 +14,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 
 Seek harmony in your relationships and in your community. Harmony is not the absence of conflict but the creative resolution of difference. It is achieved through dialogue, patience, and the willingness to see the other's point of view.
 
-(Ubuntu philosophy; Wiredu, "Social Philosophy in Postcolonial Africa.")
+([[Ubuntu|Ubuntu philosophy]]; Wiredu, "Social Philosophy in Postcolonial Africa.")
 
 **Plain words** Harmony isn't the absence of conflict — it's what conflict becomes when it's worked through with patience and genuine listening. Aim for the creative resolution, not the silent truce. A harmony bought with silence is a ceasefire, not a peace.
 

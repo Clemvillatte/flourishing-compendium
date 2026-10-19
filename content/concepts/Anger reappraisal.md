@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 changing the interpretation reduces anger and aggression (Bushman, 2002; Gross, 2015).
 
+## Related concepts
+
+- [[Anger regulation research]] — reappraisal evidence applied to the specific case of anger
+
 ## Sources
 
 - Bushman, 2002

@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 The feminist critique that autonomy is not independence but the capacity to act within constitutive relationships — care, recognition, and social conditions are its media, not its enemies ([SEP Feminist Ethics](https://plato.stanford.edu/entries/feminist-ethics/)).
 
+## Related concepts
+
+- [[Ubuntu]] — ubuntu presses the relation side of the autonomy/relation tension
+
 ## Sources
 - SEP Feminist Ethics: https://plato.stanford.edu/entries/feminist-ethics/
 

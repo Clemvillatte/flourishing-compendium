@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “The interdependence of freedoms” — de Beauvoir, The Ethics of Ambiguity.
 
+## Related concepts
+
+- [[Freedom]] — de Beauvoir: my freedom is bound up with yours
+
 ## Sources
 
 - de Beauvoir, The Ethics of Ambiguity

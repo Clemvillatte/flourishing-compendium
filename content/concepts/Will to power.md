@@ -14,6 +14,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 - **as self-overcoming** — Nietzsche, Beyond Good and Evil 13
 - **as organising principle** — Nietzsche, Beyond Good and Evil
 
+## Related concepts
+
+- [[Freedom]] — self-overcoming as the drive freedom serves
+
 ## Sources
 
 - Nietzsche, Beyond Good and Evil

@@ -10,3 +10,8 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 "Anger"
 
 ## Cited in philosophy parallels
+
+
+## Related concepts
+
+- [[Anger regulation research]] — the evidence base for how to work with anger

@@ -14,7 +14,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 
 Welcome the stranger, the visitor, and the one in need. In many African traditions, hospitality is not optional but a moral obligation. Open your home, share your food, and make space for the one who is outside.
 
-(Ubuntu philosophy; Mbiti, African Religions and Philosophy; Tutu, No Future Without Forgiveness.)
+([[Ubuntu|Ubuntu philosophy]]; Mbiti, African Religions and Philosophy; Tutu, No Future Without Forgiveness.)
 
 **Plain words** Welcome the stranger as an obligation, not a mood. Open the door, share the food, make space for whoever is outside — not because they've earned it, but because that's what a functioning human circle does. Hospitality is the community's immune system.
 

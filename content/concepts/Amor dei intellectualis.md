@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 The intellectual love of God — Spinoza's highest good: loving the one substance with the third kind of knowledge, a love that cannot become hate because it is directed at what is necessary. "Blessedness is virtue itself, not its reward" ([SEP Spinoza](https://plato.stanford.edu/entries/spinoza/)).
 
+## Related concepts
+
+- [[Amor sui (right self-love)]] — the Ethics' account of self-love grounded in power of acting
+
 ## Sources
 - SEP Spinoza: https://plato.stanford.edu/entries/spinoza/
 

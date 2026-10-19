@@ -18,6 +18,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 - Stoics, Epictetus
 - McCracken, 1998
 - Vowles et al., 2014
+## Related concepts
+
+- [[Anger regulation research]] — acceptance-based strategies with meta-analytic support here
+
 ## Sources
 
 - Hayes et al., 2006

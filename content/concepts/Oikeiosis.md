@@ -9,7 +9,11 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 The Stoic theory of natural affinity — an organism's first inclination toward self-preservation, which, through reason, expands outward to family, community, and finally the whole cosmos. It grounds Stoic [[Cosmopolitanism]] and is the seed of the [[Preferred indifferents|indifferents]] doctrine ([Wikipedia Oikeiôsis](https://en.wikipedia.org/wiki/Oikei%C3%B4sis)).
 
-## Sources
+## Related concepts
+
+- [[Ubuntu]] — Stoic widening of concern toward community, parallel movement
+- [[Amor sui (right self-love)]] — reason's demand to love what preserves one's own being
+Sources
 - Wikipedia Oikeiôsis: https://en.wikipedia.org/wiki/Oikei%C3%B4sis
 
-## Cited in philosophy parallels
+Cited in philosophy parallels

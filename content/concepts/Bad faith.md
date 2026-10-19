@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Bad faith” — Sartre, Being and Nothingness.
 
+## Related concepts
+
+- [[Freedom]] — the refusal of freedom in Sartre's sense
+
 ## Sources
 
 - Sartre, Being and Nothingness

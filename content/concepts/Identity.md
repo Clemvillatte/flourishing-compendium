@@ -7,7 +7,7 @@ file: "Identity"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-I"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter I", "parent": ""}
 ---
-Identity — the answer to "who am I": whether a fixed essence (ātman), a construction of aggregates (anattā), a narrative (Ricoeur), or a relation (Ubuntu). The graph's traditions offer every option.
+Identity — the answer to "who am I": whether a fixed essence (ātman), a construction of aggregates (anattā), a narrative (Ricoeur), or a relation ([[Ubuntu|Ubuntu]]). The graph's traditions offer every option.
 
 ## Sources
 - SEP Personal Identity: https://plato.stanford.edu/entries/identity-personal/

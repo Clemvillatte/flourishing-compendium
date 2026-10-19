@@ -14,7 +14,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 
 Treat every person as possessing inherent dignity that cannot be taken away. In Ubuntu thought, dignity is not earned or achieved; it is an inherent quality of being human. Act in ways that affirm the dignity of every person you encounter, regardless of their status, wealth, or circumstances.
 
-(Ubuntu philosophy; Tutu, No Future Without Forgiveness; Ramose, African Philosophy Through Ubuntu.)
+([[Ubuntu|Ubuntu philosophy]]; Tutu, No Future Without Forgiveness; Ramose, African Philosophy Through Ubuntu.)
 
 **Plain words** Dignity isn't a rank you earn or lose through status, wealth, or behaviour — it's built into being human, period. So the practice is to act, with everyone, as if that were true: the CEO, the detainee, the person who just failed you.
 

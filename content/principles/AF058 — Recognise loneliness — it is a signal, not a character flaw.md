@@ -24,7 +24,7 @@ Loneliness is the distress of perceived social disconnection. It is a signal, li
 
 ## Philosophy parallels
 
-- **Ubuntu: I am because we are** (African Philosophy, Desmond Tutu)
+- **[[Ubuntu|Ubuntu: I am because we are]]** (African Philosophy, Desmond Tutu)
 - **[[Aristotelian friendship|Aristotelian friendship]]** (Aristotle, Nicomachean Ethics VIII-IX)
 
 ## Practice

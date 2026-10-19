@@ -176,10 +176,20 @@ def main():
                 stats['inline'] += 1
 
         # write content FIRST (all dirty entries of this proposal file)
+        # the entry dict has no raw front-matter, so re-read each file and
+        # keep its front-matter block byte-for-byte; only the body is replaced.
         for k, e in E.items():
             if e.get('dirty'):
-                with open(os.path.join(ROOT, e['path']), 'w', encoding='utf-8') as f:
-                    f.write(e['raw_header'] + e['body'])
+                fp = os.path.join(ROOT, e['path'])
+                cur = open(fp, encoding='utf-8').read()
+                end = cur.find('\n---\n', 4)
+                if end == -1:
+                    print(f"SKIP (no front-matter) {e['path']}")
+                    continue
+                tmp = fp + '.applytmp'
+                with open(tmp, 'w', encoding='utf-8') as f:
+                    f.write(cur[:end+5] + e['body'])
+                os.replace(tmp, fp)
                 written.append(e['path'])
                 e['dirty'] = False
 

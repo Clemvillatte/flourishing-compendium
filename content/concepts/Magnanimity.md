@@ -10,6 +10,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 “Magnanimity” — Aristotle, NE IV.3.
 
 - Aristotle, Nicomachean Ethics IV
+## Related concepts
+
+- [[Amor sui (right self-love)]] — the honest sense of one's own worth that reason-based self-approval gives
+
 ## Sources
 
 - Aristotle, NE IV.3

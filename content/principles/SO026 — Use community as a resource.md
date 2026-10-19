@@ -23,7 +23,7 @@ Use community — the networks of people, institutions, and practices that surro
 
 ## Philosophy parallels
 
-- Aristotle — the polis as the context of [[Eudaimonia|eudaimonia]] — Thinker: Aristotle — Reference: Nicomachean Ethics, I.7. Ubuntu — community as personhood — Thinker: Tutu — Reference: Tutu (1999).
+- Aristotle — the polis as the context of [[Eudaimonia|eudaimonia]] — Thinker: Aristotle — Reference: Nicomachean Ethics, I.7. [[Ubuntu|Ubuntu — community as personhood]] — Thinker: Tutu — Reference: Tutu (1999).
 - **Other:**, **EEMM link:** Community is the sociocultural context's institutional form.
 
 ## Practice

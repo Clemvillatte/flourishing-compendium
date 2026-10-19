@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Habituation” — Aristotle, Nicomachean Ethics II.
 
+## Related concepts
+
+- [[Virtue]] — the acquisition route: become just by doing just acts
+
 ## Sources
 
 - Aristotle, Nicomachean Ethics II
