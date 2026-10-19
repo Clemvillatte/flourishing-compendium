@@ -65,4 +65,4 @@ Candidate inspection (actual wikilinks, not prose mentions):
 - All five files validate ok with --base c2a3ee47.
 - Front-matter identical, principle statement identical, reflections block identical, no original wikilinks lost (verified against c2a3ee47).
 - Build succeeds (5719 entries).
-- Full narrative word counts (including Plain words and example, excluding blockquote lines and Markdown URL syntax), measured on the current revision: BI054 247, CO005 290, CO007 262, CO045 235, CO050 253. All within 40-300.
+- Full narrative word counts (including Plain words and example, excluding blockquote lines and Markdown URL syntax), measured on the current revision: BI054 272, CO005 290, CO007 254, CO045 235, CO050 255. All within 40-300.
