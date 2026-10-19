@@ -17,11 +17,12 @@
   "Positivity effect",
   "Right livelihood",
   "Sabbath",
-  "Social comparison"
+  "Social comparison",
+  "Sunk cost effect"
  ],
  "flagged": {},
  "missing_concepts": [],
- "sources_checked": 48,
+ "sources_checked": 50,
  "inline": [],
  "reciprocal": [
   {
@@ -533,6 +534,36 @@
    "into": "Mirror neuron theory of empathy",
    "link": "Social learning theory (Bandura)",
    "why": "the Bandura account of imitation, for comparison with the neural story"
+  },
+  {
+   "into": "Escalation of commitment",
+   "link": "Sunk cost effect",
+   "why": "the individual bias behind organizational escalation"
+  },
+  {
+   "into": "Goal adjustment capacity",
+   "link": "Sunk cost effect",
+   "why": "the disposition the theater experiment measures the lack of"
+  },
+  {
+   "into": "Status quo bias",
+   "link": "Sunk cost effect",
+   "why": "the cousin bias that keeps past choices in place"
+  },
+  {
+   "into": "Endowment effect",
+   "link": "Sunk cost effect",
+   "why": "the valuation twin of unrecoverable investment"
+  },
+  {
+   "into": "Planning fallacy",
+   "link": "Sunk cost effect",
+   "why": "the forward bias that starts what sunk costs then trap"
+  },
+  {
+   "into": "Regret Theory",
+   "link": "Sunk cost effect",
+   "why": "the anticipated regret that drives throwing good money after bad"
   }
  ],
  "notes": "First concept: Amor sui (right self-love). All 12 original links preserved. Facets section (vs self-contempt) folded into prose. Definition quote is Ethics IIIp55 scholium (verified against Gutenberg Elwes text); rational demand is IVp18 scholium. Related-clause support sources (SEP Rousseau/Nietzsche/Stoicism, Wikipedia self-compassion) listed in the page's Sources section. | deferred at this run (target band busy): 6 recip, 0 inline | deferred at this run (target band busy): 21 recip, 0 inline"
