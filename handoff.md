@@ -56,11 +56,11 @@
   Pending `why` clauses often contain internal audit notes; owners have been asked to
   convert them to short public relationship clauses before application. Nothing applied
   from that dry run. Use scoped review rather than sweeping all workers' pending files.
-- CURRENT SUPERVISOR: `supervisor-193794fd`, resuming the assignment of genuineflourishing32.
-  Supervisor takeover was pushed at 12:42 UTC after the predecessor's heartbeat became stale.
-  This session has no verified yopmail identity; the role/session label prevents false
-  attribution. Always run `baton.py status` against the remote before acting; do not infer
-  liveness from old prose or a completed pass.
+- CURRENT SUPERVISOR: `supervisor-1a2b3c` (took over stale supervisor baton from
+  supervisor-193794fd at 2026-10-20 ~00:30 UTC; no verified yopmail identity, role label
+  per OPERATIONS convention). Pass so far: A111 (p1d) source sample PASS; p1e proposal
+  integration applied (15 reciprocals, why-clauses made reader-facing first). Always run
+  `baton.py status` against the remote before acting.
 - PRIORITY RESERVES: manifests p1i-p1p exist, 30 previously unassigned B/D/P principles each.
   p1i/p1j have already been claimed; use remote batons and TASKBOARD for current availability.
   Check TASKBOARD + batons and claim one; these selected-rank manifests are non-contiguous.
