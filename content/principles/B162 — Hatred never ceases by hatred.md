@@ -12,13 +12,15 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 162** — Hatred never ceases by hatred
 
-Only by non-hatred: by goodwill, meeting, and understanding — does hatred end. This is an eternal law, and a practical one.
+The Dhammapada verse is one of the most quoted lines in all of Buddhist literature, and it is worth reading slowly because it makes a claim, not an appeal. "Never here by enmity are those with enmity all stilled, in this world; by non-enmity they are stilled — this an eternal truth" ([Dhammapada 5, Thanissaro Bhikkhu translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.than.html)). The Buddha is not saying that non-hatred is more virtuous; he is saying that hatred, as a mechanism, does not stop hatred. It escalates it.
 
-(Dhammapada 5.)
+The verse is paired with the one that explains why: those who hold on to the thought "he abused me, he struck me, he overpowered me, he robbed me" keep their hatred alive ([Dhammapada 3-4, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.than.html)). The keeping-alive is done by rehearsal. Every retelling of the injury feeds the fire it claims to be responding to.
 
-**Plain words** Hatred never ceases by hatred — only by non-hatred, by goodwill, meeting, and understanding. An eternal law, and a practical one. Two fires don't put each other out; they merge into a bigger fire and split the bill.
+> "Never here by enmity are those with enmity all stilled, in this world; by non-enmity they are stilled — this an eternal truth." (Dhammapada 5, Thanissaro Bhikkhu translation, [Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.than.html))
 
-*For example:* The neighbor war that ends when one side brings a ladder — not capitulation, just a fire extinguisher made of decency.
+**Plain words** Two fires do not put each other out; they merge into a bigger fire and split the bill. This is not a moral instruction about being the better person; it is a mechanical observation about what retaliation actually does. The neighbour war that ends, ends because one side brings the ladder; not capitulation, just a fire extinguisher made of decency. If your current strategy for ending someone's hostility is your own hostility, the strategy has already failed.
+
+*For example:* Two neighbours run the same dispute — a fence, a noise, a boundary. One retaliates at every escalation and the war compounds over years. The other brings the ladder once, without announcement, and the conflict ends; not because the grievance was resolved, but because one side stopped feeding it.
 
 ## Psychology parallels
 
