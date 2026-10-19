@@ -153,3 +153,12 @@ Advisor QC (2026-10-19): quotes verified (BQ1 ch. 22 sentence, BQ2 ch. 68 verse 
 - Inherited, NOT opened: Coan 2011, Markus and Kitayama 1991 claims — flagged in the band state file.
 - Saturation: all five linked concepts (Social baseline, Interdependence research, Dependent origination, Prehension, Interbeing) cite P003; no justified new proposals.
 - Validator: ok, prose 162 words; protected fields untouched.
+
+## P012 — An idea's meaning is its practical effects (done; no advisor QC per speed directive, item 18)
+
+- Opened: Peirce, "How to Make Our Ideas Clear" (1878), Popular Science Monthly 12, peirce.org edition (https://www.peirce.org/writings/p119.html) — NEW SOURCE (peirce.org); source count incremented. Verified verbatim: the pragmatic maxim paragraph ("Consider what effects, that might conceivably have practical bearings, we conceive the object of our conception to have. Then, our conception of these effects is the whole of our conception of the object.") — this is the ORIGINAL 1878 PSM wording ("that might"), distinct from the Collected Papers wording ("which might") found in other editions; peirce.org carries the PSM text.
+- The belief-as-habit sentence in the body is a PARAPHRASE of the same opened paper (the paper's central doctrine), not a verbatim quote; no quotation marks used.
+- Plain words and For example kept (not replicates; P012 not on the replicate list); labels reformatted to own lines.
+- Inherited, NOT opened: Hayes et al. 2020 claim — flagged in the band state file.
+- Saturation: all four linked concepts (Functional analysis, The pragmatic maxim, Instrumentalism, Pragmatism) cite P012; no justified new proposals.
+- Validator: ok, prose 156 words; protected fields untouched.

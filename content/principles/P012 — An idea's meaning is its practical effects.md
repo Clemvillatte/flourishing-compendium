@@ -12,13 +12,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 12** — An idea's meaning is its practical effects
 
-To understand a concept, ask: what conceivable difference would its truth make in practice? Meaning is exhausted by practical bearings.
+The principle is Peirce's rule for the third grade of clearness, stated in his 1878 paper. The maxim is a test, not a theory: a conception is cashed out in the effects its truth would make conceivable.
+
+> Consider what effects, that might conceivably have practical bearings, we conceive the object of our conception to have. Then, our conception of these effects is the whole of our conception of the object. (Peirce, How to Make Our Ideas Clear, 1878, [peirce.org](https://www.peirce.org/writings/p119.html))
+
+Peirce grounds the maxim in his account of belief as the establishment of a habit: beliefs that issue in the same rule of action do not differ in any way that matters ([Peirce 1878, peirce.org](https://www.peirce.org/writings/p119.html)). A conception with no conceivable practical bearing has no content to check; the compendium's workability kernels run exactly this test.
 
 (Peirce, "How to Make Our Ideas Clear," 1878.)
 
-**Plain words** If believing something would change nothing you'd ever do, you don't have a belief — you have a decoration. Understanding a concept means knowing what difference its truth would make in practice.
+**Plain words**
+If believing something would change nothing you'd ever do, you don't have a belief — you have a decoration. Understanding a concept means knowing what difference its truth would make in practice.
 
-*For example:* 'I have a good heart' — what would that make you do differently? Nothing? Then it's a mood, not a belief. The test bites.
+**For example**
+'I have a good heart' — what would that make you do differently? Nothing? Then it's a mood, not a belief. The test bites.
+
+## Sources
+
+- [Peirce, How to Make Our Ideas Clear (1878), Popular Science Monthly 12, peirce.org](https://www.peirce.org/writings/p119.html) — the pragmatic maxim verified verbatim
 
 ## Practice kernels
 
