@@ -19,7 +19,6 @@
   "B116",
   "B140",
   "B160",
-  "A018",
   "A028",
   "A042",
   "A096",
@@ -32,7 +31,8 @@
   "A055",
   "A100",
   "A044",
-  "A104"
+  "A104",
+  "A018"
  ],
  "in_progress": null,
  "flagged": {
@@ -46,7 +46,7 @@
   "B116": "milestone QC: quotation fidelity and prose scope repairs",
   "B140": "milestone QC: quotation fidelity and prose scope repairs",
   "B160": "Reopened for QC: Milestone QC: ethics-test claim vs outcomes-test; Dhp 74 overreach",
-  "A018": "milestone QC: quotation fidelity and prose scope repairs",
+  "A018": "Reopened for QC: repair: remove Nobody gets contempt universal, fix natural amiability claim, replace invented dialogue",
   "A026": "Reopened for QC: repair: quote fidelity (first sentence), scope sorting application, remove unopened EE III.7 and MM II.7",
   "A028": "milestone QC: quotation fidelity and prose scope repairs",
   "A042": "milestone QC: quotation fidelity and prose scope repairs",
@@ -63,6 +63,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 9,
- "updated": "2026-10-19T15:03:27+00:00",
+ "updated": "2026-10-19T15:03:37+00:00",
  "band_done": false
 }
