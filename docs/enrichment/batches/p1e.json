@@ -63,9 +63,10 @@
   "BE022",
   "BE036",
   "BI060",
-  "BE019"
+  "BE019",
+  "BE009"
  ],
- "in_progress": "BE009",
+ "in_progress": null,
  "flagged": {
   "D011": "inherited psychology claim (Kashdan & Rottenberg 2010 'outperforms on nearly every outcome') not verified against an opened source; preserved per protocol, flagged for supervisor",
   "D068": "inherited psychology-parallels claims (Gottman soft startup; assertiveness research 'aggression reliably loses long games') not verified against opened sources; flagged for supervisor",
@@ -118,8 +119,8 @@
   "BI060": "broad mental-health parallel (Cramer et al. 2013; Wang et al. 2010 as cited) NOT established by the opened Wang fibromyalgia trial; other inherited parallels (Nhat Hanh, Zhuangzi, yangsheng) not opened"
  },
  "missing_concepts": [],
- "sources_checked": 39,
- "updated": "2026-10-19T15:10:20+00:00",
+ "sources_checked": 40,
+ "updated": "2026-10-19T15:11:56+00:00",
  "band_done": false,
  "takeover": {
   "by": "genuineflourishing35",
