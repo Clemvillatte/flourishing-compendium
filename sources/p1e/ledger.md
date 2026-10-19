@@ -310,3 +310,10 @@ Advisor QC (2026-10-19): quotes verified (BQ1 ch. 22 sentence, BQ2 ch. 68 verse 
 ## Milestone QC round 4 applied to SP084 (2026-10-20, worker-p1e-4f2c9b1d; advisor-directed)
 
 - Body arithmetic paragraph deleted entirely (duplication with For example; "the whole of his own illustration" unsupported since the scholium also discusses experience and Euclid's proof). V P25 and V P27 are now standalone blockquotes. Final arrangement: II P40S2 definition blockquote, V P25 + V P27 blockquotes, hanging locator line, Plain words (rule-vs-relation study prompt), For example (the fourth proportional itself), Sources, then untouched link sections. Validated against the pre-first-edit baseline 713c51fe (front-matter, wikilinks, reflections, principle statement preserved).
+
+## Advisor QC verdicts (2026-10-20, worker-p1e-4f2c9b1d)
+
+- SO006: FIX applied round 1 (founding-document framing, overclaiming final paragraph, weather/architecture plain words, invented jaywalking example) — content accepted after repair; inherited parallels remain flagged.
+- A022: PASS after round 1 corrections (unsupported "emotional component of justice" removed, plain words de-replicated, example made hypothetical).
+- SP084: PASS after rounds 2-4 (application paragraph removed, arithmetic sole illustration, V P25/P27 standalone blockquotes, plain words study-prompt form; validated vs pre-edit baseline 713c51fe). Inherited parallels remain flagged, not certified.
+- Process note adopted for future items: QC-rejected items stay reopened (recoverable WIP pushed) until advisor acceptance, then done.
