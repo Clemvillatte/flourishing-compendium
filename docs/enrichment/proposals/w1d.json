@@ -234,6 +234,31 @@
    "into": "Avoidance versus attentional engagement",
    "link": "Graded exposure / systematic desensitisation (Wolpe)",
    "why": "the maintaining factor the graded approach reverses"
+  },
+  {
+   "into": "Activity scheduling (BA)",
+   "link": "Graded task assignment (Beck, BA)",
+   "why": "the activation toolkit the assignment belongs to"
+  },
+  {
+   "into": "Behavioral activation",
+   "link": "Graded task assignment (Beck, BA)",
+   "why": "the parent treatment the technique serves"
+  },
+  {
+   "into": "Self-efficacy",
+   "link": "Graded task assignment (Beck, BA)",
+   "why": "the belief the proximal steps build, per Bandura and Schunk"
+  },
+  {
+   "into": "Habit formation",
+   "link": "Graded task assignment (Beck, BA)",
+   "why": "the gradual shaping the technique exploits"
+  },
+  {
+   "into": "Ends-in-view",
+   "link": "Graded task assignment (Beck, BA)",
+   "why": "Dewey's revisable goals as the frame for the graded steps"
   }
  ],
  "inline": [],

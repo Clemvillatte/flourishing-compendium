@@ -10,15 +10,16 @@
   "Fusion of horizons",
   "Future time perspective",
   "Goal adjustment capacity",
-  "Graded exposure / systematic desensitisation (Wolpe)"
+  "Graded exposure / systematic desensitisation (Wolpe)",
+  "Graded task assignment (Beck, BA)"
  ],
- "in_progress": "Graded task assignment (Beck, BA)",
+ "in_progress": null,
  "flagged": {
   "The eternal contribution": "compendium coinage, not a traditional term: page says so in its first sentence; written for the sense BE068 uses"
  },
  "missing_concepts": [],
- "sources_checked": 54,
- "updated": "2026-10-19T08:07:38+00:00",
+ "sources_checked": 59,
+ "updated": "2026-10-19T08:08:05+00:00",
  "qc_log": {
   "Escape from freedom": "approved after 4 advisor QC rounds: quotes verified against opened sources (panarchy ch. V excerpt, Wikipedia, IEP Totalitarianism 2.d, SEP Critical Theory 1.4); Simondon Individuation and The having mode removed from Related; cross-tradition links labelled comparisons; sources_checked: 4",
   "Eternal recurrence": "milestone advisor QC applied: practical-reading attribution qualified; AF069 described as the compendium's separate comparison; Panta rhei, Corsi e ricorsi and Three thousand realms claims externally verified; 'Thou art a God' capitalisation matches primary text",
@@ -29,7 +30,8 @@
   "Fusion of horizons": "self-QC: Truth and Method quotes verbatim from a published excerpt PDF with page numbers; SEP and IEP Gadamer entries opened via search; reader address fixed in compendium paragraph",
   "Future time perspective": "self-QC: Zimbardo and Boyd 1999 passages verbatim from review articles; 'prosocial work behaviours' hypothesis marked as the authors' reading rather than a finding; balanced time perspective caveat included",
   "Goal adjustment capacity": "self-QC: Wrosch et al. 2003 abstract and full text opened; definitions quoted from the Wrosch review; the disengagement/reengagement asymmetry and independence included; three-study design described accurately",
-  "Graded exposure / systematic desensitisation (Wolpe)": "self-QC: Wolpe principle quote verbatim from BJPsych Advances (with p. 71); Foa and McLean 2016 opened (PE components, five-year gains, IOM 2008); QOL follow-up limit included from the VA meta-analysis"
+  "Graded exposure / systematic desensitisation (Wolpe)": "self-QC: Wolpe principle quote verbatim from BJPsych Advances (with p. 71); Foa and McLean 2016 opened (PE components, five-year gains, IOM 2008); QOL follow-up limit included from the VA meta-analysis",
+  "Graded task assignment (Beck, BA)": "self-QC: Bandura and Schunk abstract quoted verbatim from the published record; Beck/Jacobson BA material from open treatment descriptions; 'distal goals had no demonstrable effects' finding included"
  },
  "incidents": [
   "2026-10-19: enriched content/concepts/The eternal contribution.md by mistake (not in w1d manifest; belongs to w1ae). Content file reverted to seed in this commit; validated draft preserved at docs/enrichment/drafts/w1d/The eternal contribution.md for the w1ae agent. Reciprocal proposals for it removed from proposals/w1d.json."
