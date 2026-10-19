@@ -12,13 +12,15 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 26** — Make inquiry communal
 
-Reality is what the community of inquiry converges on in the long run: think with others, submit your views to the discipline of public testing. Private truth is an unfinished draft.
+Peirce's 1877 essay "The Fixation of Belief" surveys four ways to fix a belief: tenacity, authority, the a priori method, and science. Each of the first three has some power, and each fails for a version of the same reason: it cannot correct itself. Tenacity keeps only what it already has; authority can be overturned only by a different authority; the a priori method depends on what "seems natural to reason," which drifts. Science alone puts the belief in front of something that does not care what you think ([The Fixation of Belief, Wikisource](https://en.wikisource.org/wiki/The_Fixation_of_Belief)).
 
-(Peirce, "The Fixation of Belief," 1877.)
+That is why the community of inquiry is not a social nicety bolted on to the scientific method — it is the method. Peirce's formulation is the hinge of the whole pragmatist tradition: "There are Real things, whose characters are entirely independent of our opinions about them... any man, if he have sufficient experience and he reason enough about it, will be led to the one True conclusion." The checking community is how you find out you got the reasoning wrong. Private truth has no way to be wrong, which is the problem.
 
-**Plain words** Private truth is an unfinished draft; the lone genius is a myth — the checking community is the mechanism. Think with others, submit your views to the discipline of public testing.
+> "There are Real things, whose characters are entirely independent of our opinions about them; those Reals affect our senses according to regular laws... and any man, if he have sufficient experience and he reason enough about it, will be led to the one True conclusion." (Charles Peirce, "The Fixation of Belief", 1877, [Wikisource](https://en.wikisource.org/wiki/The_Fixation_of_Belief))
 
-*For example:* The amateur scientist whose discovery only counts once others replicate it — annoying, and the entire reason it's knowledge instead of anecdote.
+**Plain words** The whole scientific method rests on one odd assumption: that something out there does not care what you think about it. That is the advantage. A belief that can only be confirmed by you is a guess wearing a lab coat. The checking community is what turns that guess into a claim someone else can also find. This is not a matter of being humble or sociable — it is that you, alone, cannot notice your own errors. You were the one who made them.
+
+*For example:* Two people believe a supplement improves their sleep. One keeps a private journal and feels confident. The other runs the same idea past three people, two of whom try it and do not feel the effect. The second person does not have to abandon the belief — they have located where the confidence is actually coming from. The first person has a feeling; the second has a question.
 
 ## Practice kernels
 
