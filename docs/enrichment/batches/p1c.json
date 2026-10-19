@@ -21,17 +21,21 @@
   "B051",
   "BI013",
   "B074",
+  "B097",
+  "B147",
   "B020",
   "B038",
-  "B082",
-  "B097"
+  "B082"
  ],
  "in_progress": null,
  "flagged": {
-  "BI013": "Reopened for QC: QC round-1 corrections failed to land; reapplied and revalidated"
+  "BI013": "Reopened for QC: QC round-1 corrections failed to land; reapplied and revalidated",
+  "B020": "Reopened for QC: milestone QC: verse number corrected, inferences removed",
+  "B038": "Reopened for QC: milestone QC: plain words narrowed to MN 118",
+  "B082": "Reopened for QC: milestone QC: unsupported prescriptions removed"
  },
  "missing_concepts": [],
  "sources_checked": 17,
- "updated": "2026-10-19T12:00:55+00:00",
+ "updated": "2026-10-19T12:03:14+00:00",
  "band_done": false
 }

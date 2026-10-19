@@ -19,7 +19,7 @@ The Anapanasati Sutta gives the practice in a posture and an instruction. The po
 The compendium applies the sutta's availability: the instruction needs no equipment beyond a body that is already breathing, and the sutta counts that as enough.
 
 **Plain words**
-The practice is noticing a thing your body already does. The breath is not made calm by the exercise; it is watched, long or short, exactly as it arrives. The sutta's monk goes somewhere quiet and sits, and the whole technology is attention aimed at the breath.
+The practice starts by recognising the breath as it is, long or short. The sutta's monk knows the breath before anything else is done with it, and the knowing is the practice.
 
 *For example:* Suppose an interview in ten minutes. As a modern application, three conscious breaths in the car are the sutta's instruction at its smallest: discern the breath as it is, without fixing it.
 

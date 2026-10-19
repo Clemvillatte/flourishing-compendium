@@ -287,3 +287,17 @@ copied from the opened URL in this session.
 - Opened: https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.12.than.html (Dhp 157
   fetched verbatim); Sn 1.8 reused from the B051 opening this session. Validated vs
   HEAD (pre-item).
+
+## Milestone QC repairs (item 20, 2026-10-19 genuineflourishing29)
+
+- B020: the "moderation in food" verse is Dhp 185, not 183 as the old seed said;
+  verified by fetching the numbered verses 183-185. Blockquote now the true v. 183
+  ("non-doing of any evil... cleansing of one's own mind"); v. 185 quoted inline.
+  Ordering ("conduct first") and interdependence inferences removed; DN 16 not opened.
+- B038: Plain words no longer says the breath "is not made calm" (MN 118 teaches
+  calming bodily fabrication); narrowed to recognising long and short breaths.
+- B082: body-first claim, long-exhale prescription and "stops buzzing" removed;
+  narrowed to the sutta's actual step (breathing with the calming intention).
+- B147: practice context scoped (the excerpt is from a beginning-anew reconciliation
+  practice); Plain words replaced with the advisor's text; start state was missed
+  before writing, now recorded.

@@ -12,13 +12,20 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 147** — Listen deeply
 
-Listen to understand, not to reply: give the speaker your whole body and silence: many people have never once been truly heard, and it heals.
+The excerpt comes from a practice of beginning anew in a relationship, and Thich Nhat Hanh's instruction for its listening part: "We listen to another's hurts and difficulties with the willingness to relieve the suffering of the other person, not to judge or argue. We listen with all our attention." Even untruths get listened through: "Even if we hear something that is not true, we continue to listen deeply so the other person can express his or her pain and release the tensions within."
 
-(Thích Nhất Hạnh, The Art of Communicating.)
+> "If we reply or correct that person, the practice will not bear fruit. We just listen. If we need to tell others that their perception was not correct, we can do that a few days later, privately and calmly." (Thich Nhat Hanh, The Art of Communicating, [excerpt](https://www.spiritualityandpractice.com/book-reviews/excerpts/view/25387))
 
-**Plain words** Listen to understand, not to reply — give the speaker your whole body and silence. Many people have never once been truly heard, and it heals. The rarest gift in a conversation is a person who isn't waiting for their turn.
+The compendium applies the instruction to the listener's half of the conversation: the purpose is set before the listening starts, and the purpose is the other person's relief.
 
-*For example:* The friend who said nothing for ten minutes and then asked one question — the best hour of your month.
+**Plain words**
+When someone describes a hurt, try listening without preparing a rebuttal. Give them room to explain what happened and how they experienced it. In this listening exercise, a correction can wait for a later, private conversation.
+
+*For example:* Suppose a friend retells a story with the facts wrong. As a modern application, the practice is listening through it and raising the correction privately, later, calmly, if it still matters.
+
+## Sources
+
+- [Thich Nhat Hanh, The Art of Communicating (book excerpt)](https://www.spiritualityandpractice.com/book-reviews/excerpts/view/25387)
 
 ## Stories
 
