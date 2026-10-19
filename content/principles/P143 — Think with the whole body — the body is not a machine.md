@@ -12,13 +12,27 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 143** — Think with the whole body: the body is not a machine
 
-The [[The lived body|lived body]] is not an object you pilot; it is your way of being in the world. Treat it as subject, not vehicle: listen to it, move it, rest it as a center of intelligence.
+Bergson's Matter and Memory argues the body into the middle of things rather than behind them:
+
+> "Situated between the matter which influences it and that on which it has influence, my body is a center of action, the place where the impressions received choose intelligently the path they will follow to transform themselves into movements accomplished." (Bergson, Matter and Memory, [1911 translation](https://attachments.are.na/9493755/6d939210934bd84047a3b1f0efcf15ce.pdf?1605280154))
+
+His sharper statement of what the body is not:
+
+> "My body, an object destined to move other objects, is, then, a center of action; it cannot give birth to a representation." (Bergson, Matter and Memory)
+
+On Bergson's account the body is not a device driven by a pilot; it is the juncture where impressions become movements, always turned toward action. The compendium's [[The lived body|lived body]] reading (Merleau-Ponty's body-as-subject is the adjacent lineage the page cites) treats that juncture as a seat of intelligence: fatigue, hesitation, ease and unease arrive as part of the thinking, not as noise from a machine room.
 
 (Bergson, Matter and Memory, 1896; Merleau-Ponty — adjacent to the lineage.)
 
-**Plain words** The lived body is not an object you pilot — it's your way of being in the world. Treat it as subject, not vehicle: listen to it, move it, rest it as a center of intelligence. The body isn't the car you drive to your life; it's closer to the life itself.
+**Plain words**
+A car can be driven while ignored; the principle's claim is that a body cannot. Its states are part of what you notice, what you can do and what you are willing to do, which makes them part of the thinking rather than the vehicle for it. The practical version: treat tiredness, hunger and ease as information arriving before words do, and check whether a decision changes once you rest, eat or walk first.
 
-*For example:* Hearing 'I have to carry my body around all day' versus the dancer, for whom the body IS the day — the vehicle metaphor is optional, and it's making you tired.
+**For example**
+Hearing "I have to carry my body around all day" versus the dancer, for whom the body is the day: the vehicle metaphor is one option among others, and it has a cost.
+
+## Sources
+
+- [Henri Bergson, Matter and Memory (1911 English translation; PDF)](https://attachments.are.na/9493755/6d939210934bd84047a3b1f0efcf15ce.pdf?1605280154) — ch. 1 and ch. 3 (both blockquotes); Brock University's online edition is the same translation but is robots-blocked to automated fetching
 
 ## Psychology parallels
 
