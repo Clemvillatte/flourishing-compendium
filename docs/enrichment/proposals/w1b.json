@@ -20,13 +20,14 @@
   "Locus of control",
   "Narrative identity",
   "Participate: do with, not to",
-  "Prosocial spending"
+  "Prosocial spending",
+  "The seasons of life"
  ],
  "flagged": {
   "Perspective-getting": "seed cites 'Epley et al., 2007' for 'asking beats perspective-taking'; no such perspective-getting paper could be found (canonical: Epley et al. 2004 anchoring; Eyal, Steffel & Epley 2018 JPSP 114(4):547-571 'Perspective mistaking'). Original line kept, prose cites the verified papers."
  },
  "missing_concepts": [],
- "sources_checked": 44,
+ "sources_checked": 46,
  "inline": [],
  "reciprocal": [
   {
@@ -788,6 +789,36 @@
    "target": "content/concepts/Broaden-and-build.md",
    "concept": "Prosocial spending",
    "why": "the positive affect that giving feeds"
+  },
+  {
+   "target": "content/concepts/Impermanence.md",
+   "concept": "The seasons of life",
+   "why": "the Buddhist ground of the seasons"
+  },
+  {
+   "target": "content/concepts/Death reflection.md",
+   "concept": "The seasons of life",
+   "why": "the season that measures the rest"
+  },
+  {
+   "target": "content/concepts/Narrative identity.md",
+   "concept": "The seasons of life",
+   "why": "the story that holds the seasons together"
+  },
+  {
+   "target": "content/concepts/Life story model.md",
+   "concept": "The seasons of life",
+   "why": "the research tradition on life chapters"
+  },
+  {
+   "target": "content/concepts/Meaning-making.md",
+   "concept": "The seasons of life",
+   "why": "the interpretive yield of each season"
+  },
+  {
+   "target": "content/concepts/Wisdom.md",
+   "concept": "The seasons of life",
+   "why": "the fruit the last seasons ripen"
   }
  ],
  "notes": "continues after lead applied the first proposals file (moved to applied/)"
