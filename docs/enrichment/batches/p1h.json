@@ -23,7 +23,6 @@
   "A044",
   "A018",
   "A028",
-  "AF061",
   "B140",
   "AF048",
   "A055",
@@ -34,7 +33,7 @@
   "AF075",
   "AF073"
  ],
- "in_progress": null,
+ "in_progress": "AF061",
  "flagged": {
   "D007": "inherited psych claims (Peng/Nisbett, Spencer-Rodgers) not verified; preserved per protocol",
   "D014": "Reopened for QC: milestone QC round 3: evidence scoping repairs",
@@ -57,12 +56,12 @@
   "A103": "Reopened for QC: repair: distinguish Aristotle's claim from reader's non-negotiables",
   "A104": "Reopened for QC: repair: Psychology parallels context-dominates claim",
   "AF048": "Reopened for QC: repair: Borkovec cognitive-avoidance bullet asserts unverified effects",
-  "AF061": "Reopened for QC: repair: example still diagnoses success through mood; replace with concrete example",
+  "AF061": "Reopened for QC: repair: Psychology parallels upward-spirals and categorical broaden-and-build claims",
   "AF073": "Reopened for QC: repair: Social support wikilink unresolved",
   "AF075": "Reopened for QC: repair: neutralized bullets created unresolved wikilinks"
  },
  "missing_concepts": [],
  "sources_checked": 9,
- "updated": "2026-10-19T15:14:46+00:00",
+ "updated": "2026-10-19T15:17:00+00:00",
  "band_done": false
 }
