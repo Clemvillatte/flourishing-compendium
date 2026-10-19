@@ -14,11 +14,25 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 
 Gain and loss, fame and disrepute, praise and blame, pleasure and pain: these winds blow constantly in every life. Expect them; they are weather, not verdicts.
 
+The Lokavipatti Sutta names the eight and what they do to an untrained mind:
+
+> "Monks, these eight worldly conditions spin after the world, and the world spins after these eight worldly conditions. Which eight? Gain, loss, status, disgrace, censure, praise, pleasure, & pain. These are the eight worldly conditions that spin after the world, and the world spins after these eight worldly conditions." (AN 8.6, [Thanissaro](https://accesstoinsight.org/tipitaka/an/an08/an08.006.than.html))
+
+The trained and untrained person get the same eight; the difference is the response. The untrained person "welcomes the arisen gain and rebels against the arisen loss. He welcomes the arisen status and rebels against the arisen disgrace. He welcomes the arisen praise and rebels against the arisen censure. He welcomes the arisen pleasure and rebels against the arisen pain", and the sutta says this welcoming-and-rebelling is what keeps him unreleased from birth, aging and death. The trained response is a reflection run on each condition as it arises:
+
+> "Now, gain arises for a well-instructed disciple of the noble ones. He reflects, 'Gain has arisen for me. It is inconstant, stressful, & subject to change.' He discerns it as it actually is." (AN 8.6, [Thanissaro](https://accesstoinsight.org/tipitaka/an/an08/an08.006.than.html))
+
 (AN 8.6; Lokavipatti Sutta.)
 
-**Plain words** Gain and loss, fame and disrepute, praise and blame, pleasure and pain — these winds blow constantly in every life. Expect them; they are weather, not verdicts. Dressing appropriately for all eight saves you four wardrobes of drama.
+**Plain words**
+The winds pair off: every gain arrives with a loss waiting somewhere behind it, every round of praise with a blame. You get all eight whether or not you planned for them. The trained response is to name which wind is blowing while it blows — "this is gain, and it is subject to change" — because the naming is what keeps you from being the flag.
 
-*For example:* The same month brings the promotion and the diagnosis — the winds were never negotiating with your plans.
+**For example**
+The same month brings the promotion and the diagnosis — the winds were never negotiating with your plans.
+
+## Sources
+
+- [AN 8.6 Lokavipatti Sutta, trans. Thanissaro Bhikkhu (Access to Insight)](https://accesstoinsight.org/tipitaka/an/an08/an08.006.than.html)
 
 ## Stories
 
