@@ -12,13 +12,21 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 97** — Practise corrective justice
 
-When a wrong is done, corrective justice restores balance: the wrongdoer returns what was taken or suffers a penalty proportionate to the harm. In your own life, when you wrong someone, make it right. When someone wrongs you, seek proportionate restoration, not vengeance.
+Corrective justice uses arithmetical equality to address an injury between two parties. Aristotle illustrates the judge's task with a divided line:
+
+> "Now the judge restores equality; it is as though there were a line divided into unequal parts, and he took away that by which the greater segment exceeds the half, and added it to the smaller segment." (NE V.4, [Ross, MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.5.v.html))
+
+For this purpose the law treats the parties as equals. Aristotle says it makes no difference whether a good person has defrauded a bad person or the reverse: the injury is the issue. This is an account of judicial correction; the everyday exercise below is the compendium's practical application.
 
 (NE V.4.)
 
-**Plain words** When you do wrong, put it right. When you're wronged, look for proportionate repair, not vengeance. Aristotle's corrective justice restores balance instead of adding more harm.
+**Plain words** Before deciding what someone owes, describe the harm without describing their personality. What was damaged or taken? What would address that loss? If you caused it, make a specific offer. If you suffered it, explain the repair you seek and why it fits the harm.
 
-*For example:* Paying for the window your ball broke and offering to help fix it is corrective justice. So is a firm but fair boundary after someone wrongs you.
+*For example:* Suppose your ball breaks a neighbour's window. Arranging and paying for its repair illustrates a response directed at the damage.
+
+## Sources
+
+- [Aristotle, Nicomachean Ethics V, Ross translation (MIT Classics)](https://classics.mit.edu/Aristotle/nicomachaen.5.v.html) — V.4, the judge restoring equality, the law looking only at the character of the injury
 
 ## Stories
 
