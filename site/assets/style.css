@@ -1524,6 +1524,11 @@ body.graph-mode #randView, body.graph-mode #wikiView { display:none; }
     max-height:70dvh; overflow:auto;
   }
   #graphView.controls-open .graph-controls { display:flex; }
+  /* Layout settings: on phones the absolute popover anchored to the control
+     bar renders off-screen (the bar is a full-width column panel) — inline it
+     into the menu instead, so the sliders AND the "Show N+2" checkbox are
+     reachable and scrollable like the rest of the menu */
+  .gphys { position:static; width:auto; top:auto; right:auto; box-shadow:none; border:1px solid var(--line); margin-top:2px; }
   #graphFind { width:100%; }
   .graph-legend, .graph-hint { display:none; }
   .gdrawer {

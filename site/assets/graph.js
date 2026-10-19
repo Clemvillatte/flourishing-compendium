@@ -24,11 +24,6 @@ let labelMinDeg = 14;         // always-on labels: the ~140 most connected nodes
    1 = the shipped default. Persisted per browser. */
 const PHYS_DEF = { rep: 1, spring: 1, linkLen: 1, nodeSize: 1, gravity: 1, degEmph: 0, belts: true, nb2: true };
 let phys = { ...PHYS_DEF };
-/* phones: N+2 OFF by default. The far belt was "unperceivable" on a phone
-   (fitting it zooms out until the whole graph is dots) and it doubles the
-   gathered population. The toggle stays available in the physics panel
-   (☰ menu). Desktop is unchanged. Applied at load only. */
-try { if (window.matchMedia('(max-width:920px)').matches) phys.nb2 = false; } catch (e) {}
 // QA hook: current layout/physics settings (read-only)
 window.__physDebug = () => ({ ...phys });
 /* preview build: layout settings are session-only (in-memory) */
@@ -1750,7 +1745,7 @@ function bindEvents() {
       else panning = true;
     } else if (ev.touches.length === 2) {
       dragged = null; panning = false;
-      if (dragPhysics) { liveStop(60); dragPhysics = false; }   // pinch takes over — settle the trail
+      if (dragPhysics) { if (!spreadSnap) liveStop(60); dragPhysics = false; }   // pinch takes over — settle the trail
       const [a, b] = ev.touches;
       pinch = { d: Math.hypot(a.clientX - b.clientX, a.clientY - b.clientY) };
     }
@@ -1776,10 +1771,15 @@ function bindEvents() {
       if (dragged) {
         const r = canvas.getBoundingClientRect();
         const p = toWorld(t.clientX - r.left, t.clientY - r.top);
-        if (!dragPhysics && moved >= 8) {   // threshold crossed → live physics
+        if (!dragPhysics && moved >= 12) {   // touch threshold 12px (finger jitter) — below it, still a tap
           foldOffset(dragged);
           dragPhysics = true;
-          liveStart();
+          // PHONES: no ecosystem physics on a node drag — the node moves alone.
+          // A jittery tap (8-20px drift) used to cross the old 8px threshold and
+          // set the WHOLE graph drifting (liveStart + 120-step settle + declutter),
+          // which the user experienced as "selecting makes all nodes move slowly".
+          // The node still follows the finger (base position); nothing else moves.
+          if (!spreadSnap) liveStart();
         }
         if (dragPhysics) { dragged.x = p.x; dragged.y = p.y; dragged.vx = dragged.vy = 0; }
         else { dragged.ox = p.x - dragged.x; dragged.oy = p.y - dragged.y; }
@@ -1792,11 +1792,13 @@ function bindEvents() {
   }, { passive: false });
   canvas.addEventListener('touchend', ev => {
     if (ev.touches.length === 0) {
-      const wasDrag = !!dragged && moved >= 8;
-      if (moved < 8 && dragged) { select(dragged); lastClickNode = dragged; lastClickT = Date.now(); }
-      else if (moved < 8 && panning) select(null);   // empty-canvas tap deselects — same as the mouse path
+      const wasDrag = !!dragged && moved >= 12;
+      if (moved < 12 && dragged) { select(dragged); lastClickNode = dragged; lastClickT = Date.now(); }
+      else if (moved < 12 && panning) select(null);   // empty-canvas tap deselects — same as the mouse path
       dragged = null; panning = false; lastMouse = null; pinch = null;
-      if (wasDrag && dragPhysics) liveStop(120);
+      // phone: physics never started on the drag — nothing to settle (liveStop
+      // would schedule a 120-step settle + declutter for a simulation that isn't running)
+      if (wasDrag && dragPhysics && !spreadSnap) liveStop(120);
       dragPhysics = false;
     }
     wake();
@@ -1806,7 +1808,7 @@ function bindEvents() {
   const endGesture = () => {
     if (dragged || panning || dragPhysics) {
       dragged = null; panning = false; lastMouse = null; pinch = null;
-      if (dragPhysics) { liveStop(120); dragPhysics = false; }
+      if (dragPhysics) { if (!spreadSnap) liveStop(120); dragPhysics = false; }
     }
     wake();
   };
@@ -2004,7 +2006,6 @@ function bindEvents() {
     }
     $('gphysReset').addEventListener('click', () => {
       phys = { ...PHYS_DEF };
-      if (spreadSnap) phys.nb2 = false;   // re-apply the phone default (N+2 off ≤920px)
       savePhys();
       for (const [key, inpId] of PHYS_ROWS) syncRow(key, inpId);
       syncBelts();
