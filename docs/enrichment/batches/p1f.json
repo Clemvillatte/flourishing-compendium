@@ -4,8 +4,11 @@
   "D074"
  ],
  "in_progress": null,
- "flagged": {},
+ "flagged": {
+  "D074": "inherited psychology parallels (Bushman 2002 catharsis; Gross 2015) not verified against opened sources; preserved per protocol, flagged for supervisor"
+ },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-19T12:12:51+00:00"
+ "updated": "2026-10-19T12:15:48+00:00",
+ "band_done": false
 }

@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 74** — Don't fight angry
 
-A moment's rage can undo a decade of building. Chapter 68 of the Daodejing describes the best fighter by what he lacks: no martial display, no resort to rage.
+A moment's rage can undo a decade of building. Daodejing 68 places restraint beside skill in fighting: the opening verse describes a fighter without martial display or resort to rage.
 
 > "He who in (Tao's) wars has skill
 > Assumes no martial port;
@@ -20,11 +20,11 @@ A moment's rage can undo a decade of building. Chapter 68 of the Daodejing descr
 > To rage makes no resort."
 > (DDJ 68, [Legge's translation](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
-The verse runs down the whole ladder of contention: the victor keeps apart from those he has beaten, the most effective leader stays humble. Laozi is not counselling pacifism; the chapter is about how to contend well, and by that measure rage is bad technique. A hot fighter commits before he has assessed, and the fury soon becomes the thing defended. Cool down first. (DDJ 68.)
+The verse also describes someone whose commands are fulfilled while he works humbly. A practical application for everyday disagreements is to decide what needs resolving before choosing how to reply. (DDJ 68.)
 
-**Plain words** Rage makes the fight about itself. Once you are hot, you stop solving the problem that started the exchange and start defending your anger, which is a worse position than the one you began with. The practice is mechanical rather than mystical: notice the heat, put the response on hold, come back when you can name the outcome you want. What you say cool, you can stand behind later.
+**Plain words** You may still need to challenge someone or say no. Try deciding what you want changed before choosing your words. If you cannot yet separate that request from the wish to punish the other person, leave the reply unsent and return to it later.
 
-*For example:* The message written in ten seconds of fury and apologised for over ten months. If you feel hot while typing it, it is a draft, not a send.
+*For example:* Suppose a colleague sends a sharp email about a missed deadline. Save your first response as a draft. When you reread it, keep the explanation of what happened and the proposed next step; remove the personal jab.
 
 ## Stories
 
