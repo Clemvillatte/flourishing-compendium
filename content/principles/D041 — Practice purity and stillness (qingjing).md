@@ -16,17 +16,21 @@ The Qingjing Jing gives the mechanism in four lines:
 
 > "Now the spirit of man loves Purity, but his mind disturbs it. The mind of man loves stillness, but his desires draw it away. If he could always send his desires away, his mind would of itself become still. Let his mind be made clean, and his spirit will of itself become pure." ([Legge, Classic of Purity](http://www.sacred-texts.com/tao/sbe40/sbe4019.htm))
 
-Two things in the passage do the work. The disturbance is a burden, and burdens can be set down: the mind already loves stillness, so nothing needs installing. And the causation runs one way; the scripture never says force the mind quiet, it says remove what drags. Its sequence ends where the principle ends: "He who has this absolute Purity enters gradually into the (inspiration of the) True Tâo." The Daodejing makes the same point on the world's side:
+The Qingjing Jing describes desire as what draws the mind away from its own stillness, and links sending the desires away with the mind stilling itself and the spirit clearing. The sequence ends with the promise the chapter is built on:
+
+> "He who has this absolute Purity enters gradually into the (inspiration of the) True Tâo." (Classic of Purity, [Legge](http://www.sacred-texts.com/tao/sbe40/sbe4019.htm))
+
+The Daodejing commends the same pair on the world's scale:
 
 > "Constant action overcomes cold; being still overcomes heat. Purity and stillness give the correct law to all under heaven." (Daodejing 45, [Legge](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 
 (Qingjing Jing; DDJ 45.)
 
 **Plain words**
-The mind is not against you. It is busy because something is pulling at it: a worry, a wanting, an unfinished conversation. The practice is to notice the pull and deal with the thing pulling, since forcing quiet does nothing about the pull. A stirred pond clears when the stirring stops; commanding the sediment does not.
+Notice one thing pulling at your attention, set it aside for the length of a sitting, and watch whether settling becomes easier. The scripture's claim is that the stillness is already there under the pull; whether that is so for you is something to observe, not assume.
 
 **For example**
-Sit down to write a difficult email with the phone face-up on the desk: the mind will not still, because the desire to check keeps tugging at it. Leave the phone in another room and watch what the mind does on its own.
+Before drafting a difficult email, leave the phone in another room. Notice whether this changes the urge to check it.
 
 ## Sources
 

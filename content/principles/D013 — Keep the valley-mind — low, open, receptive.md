@@ -25,7 +25,7 @@ Chapter 41 makes it a property of the highest virtue, which in Legge's verse ris
 (DDJ 28, 32, 41, 66.)
 
 **Plain words**
-Attention flows downhill. In any group, status contests push people to top each other's points, and every topping move costs them information. The person who stays low and keeps asking is the one people tell things first. The cost is looking like you are not winning, which is the real reason most people sit high.
+A suggested practice: in your next group conversation, keep asking questions instead of topping other people's points, and notice what people tell you by the end of the evening. The low, open position is where confidences arrive; what it costs is looking like you are not winning, and noticing that cost is part of the practice.
 
 **For example**
 The best listener in the room is usually the one everyone eventually confides in: low and open, so everything flows to them.

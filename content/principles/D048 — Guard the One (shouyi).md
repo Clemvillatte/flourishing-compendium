@@ -33,7 +33,7 @@ The Daodejing asks the same holding-together as a question about what you can su
 Guarding the One is a budget, not a mood. Attention spent in several places at once pays for every switch, and the item in front of you gets the leftovers. Put the body behind one thing, breath and posture and task together, and the distance you could not cover scattered starts to close. The test: if you cannot say what the One thing is right now, you are not guarding it.
 
 **For example**
-Seventeen open tabs and a half-written paragraph: the paragraph is slow because sixteen other tasks are taking a cut. Close them, and the work takes half the time.
+Seventeen open tabs and a half-written paragraph: the paragraph is slow because sixteen other tasks are taking a cut. Close them and notice what happens to the writing.
 
 ## Sources
 
