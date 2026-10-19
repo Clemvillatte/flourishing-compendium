@@ -16,9 +16,21 @@ Each day, return to your base: sleep, breath, nature, silence — and let things
 
 (DDJ 16.)
 
-**Plain words** Each day, return to your base — sleep, breath, nature, silence — and let things settle back into their natural order. This is maintenance of the deepest kind, done in small daily visits, not grand retreats.
+### The cycle the principle borrows
+
+Chapter 16 grounds the daily return in the cycle every living thing runs:
+
+> "All things alike go through their processes of activity, and (then) we see them return (to their original state)... This returning to their root is what we call the state of stillness" (DDJ 16, [Legge](https://www.gutenberg.org/cache/epub/216/pg216.txt))
+
+The chapter watches plants do it: growth, luxuriance, then the return to root when the season ends. The principle schedules the same move for a person, daily rather than seasonally, because a person's scatter is daily too.
+
+**Plain words** Every system that grew all day needs a contraction back to base, and the base is not a metaphor. Sleep, breath, silence and daylight are the actual inputs the machinery runs on. The instruction is daily because the drift is daily: attention scatters a little every hour, and a day with no return simply banks the scatter. Ten minutes of sitting is not a spiritual achievement but a maintenance interval, small, repeated, and the day is built on top of it.
 
 *For example:* Ten minutes of sitting with coffee before opening any screen — the day built on that base runs differently than the one started in traffic.
+
+## Sources
+
+- [The Tao Teh King, Legge trans., Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt) — chapter 16
 
 ## Practice kernels
 
