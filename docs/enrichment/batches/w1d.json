@@ -18,15 +18,16 @@
   "Judgment adds the harm",
   "Learning by doing",
   "Life story model",
-  "Lifestyle pillars of mental health"
+  "Lifestyle pillars of mental health",
+  "Mind in life"
  ],
- "in_progress": "Mind in life",
+ "in_progress": null,
  "flagged": {
   "The eternal contribution": "compendium coinage, not a traditional term: page says so in its first sentence; written for the sense BE068 uses"
  },
  "missing_concepts": [],
- "sources_checked": 86,
- "updated": "2026-10-19T08:43:15+00:00",
+ "sources_checked": 91,
+ "updated": "2026-10-19T08:43:39+00:00",
  "qc_log": {
   "Escape from freedom": "approved after 4 advisor QC rounds: quotes verified against opened sources (panarchy ch. V excerpt, Wikipedia, IEP Totalitarianism 2.d, SEP Critical Theory 1.4); Simondon Individuation and The having mode removed from Related; cross-tradition links labelled comparisons; sources_checked: 4",
   "Eternal recurrence": "milestone advisor QC applied: practical-reading attribution qualified; AF069 described as the compendium's separate comparison; Panta rhei, Corsi e ricorsi and Three thousand realms claims externally verified; 'Thou art a God' capitalisation matches primary text",
@@ -45,7 +46,8 @@
   "Judgment adds the harm": "self-QC: Enchiridion 5 quoted verbatim from the Perseus translation; Sallatha Sutta quoted verbatim from Thanissaro's translation; Buddhist parallel marked as comparison tradition; Ellis connection sourced to Robertson's commentary",
   "Learning by doing": "self-QC: Democracy and Education ch. 11 passages quoted verbatim from open excerpts; 'mere activity' caveat included against the misreading; 'learn from reflecting on experience' hedged as slogan form",
   "Life story model": "self-QC: McAdams's own intellectual autobiography used for model structure quotes; redemption/contamination findings from the peer-reviewed summaries; American-culture caveat included in McAdams's own words",
-  "Lifestyle pillars of mental health": "self-QC: TLC six elements with dosages from press reports and the Springer review; small uncontrolled trial evidence honestly weighed against the RCT literatures; original Behavioral activation piped link preserved"
+  "Lifestyle pillars of mental health": "self-QC: TLC six elements with dosages from press reports and the Springer review; small uncontrolled trial evidence honestly weighed against the RCT literatures; original Behavioral activation piped link preserved",
+  "Mind in life": "self-QC: Thompson's own Précis used for the thesis and argument, quoted verbatim; Wheeler's critique included; unverified author name removed from a citation anchor"
  },
  "incidents": [
   "2026-10-19: enriched content/concepts/The eternal contribution.md by mistake (not in w1d manifest; belongs to w1ae). Content file reverted to seed in this commit; validated draft preserved at docs/enrichment/drafts/w1d/The eternal contribution.md for the w1ae agent. Reciprocal proposals for it removed from proposals/w1d.json."
