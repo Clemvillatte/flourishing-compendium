@@ -382,3 +382,11 @@ copied from the opened URL in this session.
   seed's locators (Csikszentmihalyi 1990; the 2009 handbook chapter) are the same
   authors' works; this accessible online-edition chapter carries the passages.
   Validated vs HEAD (pre-item).
+
+## PP036 — Identify and use signature strengths (Seligman et al. 2005)
+
+- Opened: https://greatergood.berkeley.edu/images/uploads/Seligman-PosPsychProgress.pdf
+  (full text; six-virtues sentence, exercise description, and six-month outcome
+  sentence fetched verbatim). The seed's mechanism claim (authenticity/competence
+  needs) is presented as a guess, not a tested finding; Gander et al. 2013 and
+  Peterson & Seligman 2004 not opened. Validated vs HEAD (pre-item).

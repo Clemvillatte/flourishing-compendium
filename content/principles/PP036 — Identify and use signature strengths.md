@@ -12,13 +12,20 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 ---
 > **Principle 36** — Identify and use signature strengths
 
-The VIA Inventory of Character Strengths identifies 24 strengths organised under six virtues: wisdom, courage, humanity, justice, temperance, and transcendence. Using signature strengths in new ways produces modest but reliable increases in well-being. The mechanism is the alignment of action with deeply valued traits, which satisfies the needs for authenticity and competence.
+The VIA classification rests on six virtues the article says almost every culture endorses: "wisdom, courage, humanity, justice, temperance, and transcendence", with "24 strengths of character" under them. The exercise in the study's trial: participants took the inventory online, received their top five "signature" strengths, and were "asked to use one of these top strengths in a new and different way every day for one week."
 
-(Peterson and Seligman, 2004; Seligman et al., 2005; Gander et al., 2013.)
+> "Two of the exercises—using signature strengths in a new way and three good things—increased happiness and decreased depressive symptoms for six months." (Seligman et al. 2005, [Greater Good, Berkeley](https://greatergood.berkeley.edu/images/uploads/Seligman-PosPsychProgress.pdf))
 
-**Plain words** The VIA classification lists 24 strengths under six virtues: wisdom, courage, humanity, justice, temperance, transcendence. Using signature strengths in new ways gives modest, reliable well-being gains. It works because it lines action up with traits you deeply value.
+The compendium applies the exercise as-is: a one-week experiment, not a life philosophy.
 
-*For example:* Someone whose strength is curiosity builds a weekly habit of learning one new thing about a colleague.
+**Plain words**
+The recipe in the study is concrete: find your top five strengths from the inventory, then use one of them in a new way every day for a week. The measured result: happier and less depressed for six months, in this placebo-controlled trial. The mechanism is a guess; the exercise is the part you can run.
+
+*For example:* Suppose curiosity comes out in someone's top five. As a modern application, the study's exercise is one new use of it per day for a week, for example learning one new thing about a colleague.
+
+## Sources
+
+- [Seligman et al. 2005, Positive Psychology Progress (full text PDF, Greater Good Science Center)](https://greatergood.berkeley.edu/images/uploads/Seligman-PosPsychProgress.pdf)
 
 ## Stories
 
