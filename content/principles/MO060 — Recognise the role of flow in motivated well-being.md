@@ -10,13 +10,21 @@ number: "60"
 navigation: {"track": "philosophy", "primaryPath": ["NAV-PHILOSOPHY", "NAV-PHIL-PP"], "alternatePaths": []}
 legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivation", "chapter": "MO-S06 — LAYER VI — MOTIVATION AND WELL-BEING", "parent": ""}
 ---
+
 > **Principle 60** — Recognise the role of flow in motivated well-being
 
 Flow — full absorption in an activity with clear goals, immediate feedback, and challenge-skill balance — is one of the most optimal motivational states. It is intrinsically rewarding and is associated with high well-being.
 
+Zhuangzi's Cook Ding describes the state from the inside:
+
+> And now — now I go at it by spirit and don't look with my eyes. Perception and understanding have come to a stop and spirit moves where it wants. (Zhuangzi, ch. 3, "The Secret of Caring for Life," Cook Ding passage, [Columbia University Asia for Educators](https://afe.easia.columbia.edu/main_pop/ps//ps_china-zhuangzi-caring-for-life.htm))
+
+This is what full absorption looks like when it is described rather than measured. The eyes stop doing the work; the skill has moved somewhere behind them.
+
 **Plain words** Flow is motivated well-being at its purest — full absorption, clear goals, immediate feedback, challenge matched to skill. Time goes weird, self goes quiet. It's the reward that doesn't run out. Build its conditions.
 
 *For example:* The woodworker who looks up and it's dark — no willpower was consulted, no reward scheduled. The conditions did it. Flow is what motivation looks like when it's done working.
+
 ## Psychology parallels
 
 - **[[Flow|Flow (Csikszentmihalyi)]]**, optimal experience with full attentional absorption (Csikszentmihalyi, 1990; Nakamura & Csikszentmihalyi, 2014)

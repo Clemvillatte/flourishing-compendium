@@ -37,7 +37,8 @@
   "MO034",
   "MO045",
   "MO056",
-  "MO059"
+  "MO059",
+  "MO060"
  ],
  "in_progress": null,
  "flagged": {
@@ -55,7 +56,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 15,
- "updated": "2026-10-19T15:21:42+00:00",
+ "updated": "2026-10-19T15:22:15+00:00",
  "band_done": false,
  "takeover": {
   "by": "genuineflourishing35",
