@@ -5,11 +5,12 @@
   "B176",
   "D010",
   "D043",
-  "D015"
+  "D015",
+  "D042"
  ],
- "in_progress": "D042",
+ "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-19T13:28:56+00:00"
+ "updated": "2026-10-19T13:29:04+00:00"
 }

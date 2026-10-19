@@ -12,13 +12,15 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 42** — Guard the center
 
-Don't swing with every impulse, news cycle, or mood. The sage keeps to the middle: few words, steady state, excess held at arm's length.
+Guarding the center is not a mood you summon on demand; it is a structural position. Laozi's bellows holds its power precisely because it is emptied and refilled — it is not full of anything of its own, which is why it can keep moving without wearing out (DDJ 5.2). And his warning is unambiguous: much speech leads to swift exhaustion; the inner being is what you are told to guard and keep free (DDJ 5.2, closing lines).
 
-(DDJ 5, 29.)
+The excess rule comes from chapter 29: whatever you grab at — effort, extravagance, indulgence — the sage puts away, because the grab is what destabilizes you (DDJ 29.3). Chapter 5 and chapter 29 are the same instruction from two angles: hold the middle so nothing passing through owns you.
 
-**Plain words** Don't swing with every impulse, news cycle, or mood. The center isn't bland — it's the one position that doesn't get whipsawed by everything passing through.
+> "'Tis emptied, yet it loses not its power; 'Tis moved again, and sends forth air the more. Much speech to swift exhaustion lead we see; Your inner being guard, and keep it free." (Daodejing 5.2, James Legge translation, [Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 
-*For example:* During a market panic, the investors who do nothing usually beat the ones acting on every headline — the center held while the swings didn't.
+**Plain words** A bellows does not hold a store of air — it empties and fills, empties and fills, and that is exactly why it never runs out of push. Guarding the center works the same way: you are not trying to be calm forever, you are trying to be the empty thing that can be moved again without breaking. Most talk — yours, other people's, the news cycle's — spends the air you need to move. When you feel yourself running out, that is the chapter's cue: less speech, more empty, more ready.
+
+*For example:* Two colleagues take the same hostile email. One drafts a reply immediately and spends the rest of the day sharpening it; the other answers once, then drops the thread. By end of week the second one is still readable and useful; the first is visibly worn. Same provocation — different relation to the bellows.
 
 ## Practice kernels
 
