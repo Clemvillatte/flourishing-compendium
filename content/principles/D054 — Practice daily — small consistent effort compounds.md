@@ -12,13 +12,16 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 54** — Practice daily: small consistent effort compounds
 
-The hundred days of work: brief, regular, gentle practice beats heroic binges. Consistency is the method; intensity is not.
+The Secret of the Golden Flower describes a circulation-of-the-Light practice and sets a term for it. Wilhelm's explanation of the text reports the Master's repeated instruction:
 
-(Secret of the Golden Flower; DDJ 64.)
+> "Only after a hundred days of consistent work, only then is the Light real; only then can one begin work with the spirit-fire."
+> (Wilhelm's explanation of section 3, "Circulation of the Light and Protection of the Centre", p. 49, Wilhelm/Baynes edition, [archive.org](https://archive.org/stream/TheSecretOfTheGoldenFlowerByRichardWilhelmAndCarlJung/The+Secret+of+the+Golden+Flower+by+Richard+Wilhelm+and+Carl+Jung_djvu.txt))
 
-**Plain words** Brief, regular, gentle practice beats heroic binges. Consistency is the method; intensity is not. The hundred days of small work beat the one legendary weekend — and the habit itself becomes the reward, which is the point.
+The same explanation notes that the hundred days depends on "the degree of industry in work" and "the degree of strength in the physical constitution", and that "whoever is weak and lazy will not produce it even after the hundred days" (Wilhelm's explanation of section 8, p. 70). The Daodejing offers images of small beginnings: "The tree which fills the arms grew from the tiniest sprout; the tower of nine storeys rose from a (small) heap of earth" (DDJ 64, Legge), and the same chapter adds that a thousand-li journey begins with a single step. The compendium draws a practical suggestion from these passages: make room to return to a chosen practice over time. The passages do not determine an ideal session length or guarantee results after a hundred days. (Secret of the Golden Flower; DDJ 64.)
 
-*For example:* Ten minutes of stretching daily transforms a body in a year; the three-hour New Year's session transforms it for a week.
+**Plain words** Suppose you keep postponing practice until you have a free afternoon. Decide what you could practise in the time you actually have, and when you will return to it. If that arrangement is difficult to keep, reconsider the schedule before abandoning the practice.
+
+*For example:* Suppose you want to start meditating. Compare a ten-minute slot you can keep every morning with an hour-long Sunday session; the question is which one you would still keep in a bad week.
 
 ## Stories
 

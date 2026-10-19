@@ -7,11 +7,12 @@
   "A063",
   "D055",
   "R005",
-  "A001"
+  "A001",
+  "D054"
  ],
- "in_progress": "D054",
+ "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
- "sources_checked": 1,
- "updated": "2026-10-19T10:23:24+00:00"
+ "sources_checked": 3,
+ "updated": "2026-10-19T10:26:20+00:00"
 }
