@@ -27,7 +27,7 @@ The physical half is the same design move at desk scale: one visible task, every
 ## Sources
 
 - [Ward, Duke, Gneezy and Bos, "Brain Drain" (2017), Journal of the Association for Consumer Research 2(2), 140-154](https://www.journals.uchicago.edu/doi/10.1086/691462) — abstract quoted verbatim; smartphone presence and available cognitive capacity
-- ["Does the Brain Drain Effect Really Exist? A Meta-Analysis" (Böttger, Poschik and Zierer, 2023), PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10525686/) — pooled effect g = -0.14, CI -0.24 to -0.03; authors' conclusion quoted verbatim; also reports the Ruiz Pardo and Minda (2022) direct replication finding no presence effect
+- ["Does the Brain Drain Effect Really Exist? A Meta-Analysis" (Böttger, Poschik and Zierer, 2023), PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10525686/) — pooled effect g = -0.14, CI -0.24 to -0.03; authors' conclusion quoted verbatim; also reports a Ruiz Pardo and Minda (2022) replication that did not detect a phone-presence effect
 
 ## Psychology parallels
 
