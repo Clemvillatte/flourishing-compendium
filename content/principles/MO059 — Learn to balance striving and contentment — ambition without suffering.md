@@ -13,17 +13,17 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 
 > **Principle 59** — Learn to balance striving and contentment: ambition without suffering
 
-Striving (pursuing goals, improving) and contentment (being at peace with what is) are not opposites. The skill is holding both: pursuing goals without being defined by them. This is a foundation of motivated well-being.
+Striving (pursuing goals, improving) and contentment (being at peace with what is) are often treated as opposites. The claim here is that they can coexist: pursuing goals without being defined by them.
 
-The Daodejing names a version of this in chapter 48:
+The compendium places this beside a Daoist comparison. The Daodejing names a version of the coexistence in chapter 48:
 
 > He who devotes himself to learning (seeks) from day to day to increase (his knowledge); he who devotes himself to the Tao (seeks) from day to day to diminish (his doing). He diminishes it and again diminishes it, till he arrives at doing nothing (on purpose). Having arrived at this point of non-action, there is nothing which he does not do. (Laozi, Daodejing 48, Legge translation, [Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 
-The paradox is the useful part. The striving that diminishes its own forcing is not the absence of ambition; it is ambition that has stopped manufacturing its own suffering.
+The passage is a philosophical comparison, not a claim that ambition stops producing suffering. What it offers is an image of striving that diminishes its own forcing — the paradox that the non-action is described as the condition under which nothing is left undone.
 
-**Plain words** Striving and contentment aren't opposites to choose between — they're a rhythm. Strive like it matters, then rest like it's finished. The suffering comes from striving while telling yourself you shouldn't want anything. Do both, in turns.
+**Plain words** Striving and contentment are usually presented as a choice: either you want things, or you are at peace. The alternative is holding both at once — pursuing goals with energy while also being at peace with what is. The skill is not alternating between the two but having them together.
 
-*For example:* The ambitious week, the grateful Sunday — the person who has both isn't confused. They're cycling. The mistake is living permanently in either gear.
+*For example:* Imagine someone working hard on a project who is also, at the same time, at peace with the possibility that it does not succeed. They are not resting from ambition; they are ambitious and content in the same hour.
 
 ## Psychology parallels
 

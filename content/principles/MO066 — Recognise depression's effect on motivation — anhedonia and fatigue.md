@@ -15,15 +15,15 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 
 Depression produces a specific motivational pattern: anhedonia (loss of pleasure and interest), fatigue, and reduced motivation. This is a symptom, not a choice. It is treatable.
 
-The practice implication — do not wait for the feeling — is the same structure Aristotle named for virtue:
+The compendium places this beside a philosophical analogy. Aristotle's account of virtue — that the capacity is formed by the doing — has a structural resemblance to the behavioural activation approach:
 
 > For the things we have to learn before we can do them, we learn by doing them, e.g. men become builders by building and lyreplayers by playing the lyre; so too we become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts. (Aristotle, Nicomachean Ethics II.1, Ross translation, [MIT Classics](http://classics.mit.edu/Aristotle/nicomachaen.2.ii.html))
 
-The relevance to depression is direct: when nothing pays and nothing starts, the act still precedes the capacity. The feeling does not come first.
+This is an analogy, not clinical evidence. Aristotle is describing ethical habituation, not depression treatment. What the analogy offers is a structure: the act preceding the capacity, rather than the capacity preceding the act.
 
-**Plain words** Depression's motivational signature: anhedonia (nothing pays) and fatigue (nothing starts). The things that used to move you don't — that's the illness muting the reward system, not the truth about your life. Treatable, specifically.
+**Plain words** Depression's motivational pattern includes anhedonia (things that used to be rewarding stop feeling rewarding) and fatigue (things that used to be easy to start become hard to start). This is a symptom of an illness, not a verdict on your life. It is treatable.
 
-*For example:* "Nothing sounds good anymore" — the music, the food, the friends, all at once. That's not eight separate losses; it's one system turned down. And systems get turned back up.
+*For example:* Imagine someone who says "nothing sounds good anymore" — the music, the food, the friends, all at once. One description of this is a single symptom (anhedonia) affecting many things at once, rather than many separate losses.
 
 ## Psychology parallels
 
@@ -38,4 +38,4 @@ The relevance to depression is direct: when nothing pays and nothing starts, the
 
 ## Practice
 
-- When depressed, do not wait for motivation. Use behavioural activation: do small, valued activities even without motivation. Action generates motivation. Seek treatment.
+- When depressed, do not wait for motivation. Behavioural activation — doing small, valued activities even without motivation — is one evidence-supported approach. Seek treatment.

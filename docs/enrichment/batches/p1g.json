@@ -33,13 +33,7 @@
   "CO066",
   "E026",
   "E031",
-  "E080",
-  "MO034",
-  "MO045",
-  "MO056",
-  "MO059",
-  "MO060",
-  "MO066"
+  "E080"
  ],
  "in_progress": null,
  "flagged": {
@@ -49,11 +43,17 @@
   "P143": "milestone QC ACCEPTED (advisor round 4c). Inherited parallels citations remain unverified by me (recorded in the item ledgers).",
   "P027": "milestone QC ACCEPTED (advisor round 4c). Inherited parallels citations remain unverified by me (recorded in the item ledgers).",
   "P157": "milestone QC ACCEPTED (advisor round 4c). Inherited parallels citations remain unverified by me (recorded in the item ledgers).",
-  "P179": "milestone QC ACCEPTED for the rewritten bodies (advisor round 5c). Inherited parallels citations and locators remain unverified by me (Bryant and Veroff; Whitehead; Time and Free Will; the Simondon lifelong reading; McCracken/Vowles) — recorded in the item ledgers.",
-  "P190": "milestone QC ACCEPTED for the rewritten bodies (advisor round 5c). Inherited parallels citations and locators remain unverified by me (Bryant and Veroff; Whitehead; Time and Free Will; the Simondon lifelong reading; McCracken/Vowles) — recorded in the item ledgers.",
-  "P092": "milestone QC ACCEPTED for the rewritten bodies (advisor round 5c). Inherited parallels citations and locators remain unverified by me (Bryant and Veroff; Whitehead; Time and Free Will; the Simondon lifelong reading; McCracken/Vowles) — recorded in the item ledgers.",
-  "P093": "milestone QC ACCEPTED for the rewritten bodies (advisor round 5c). Inherited parallels citations and locators remain unverified by me (Bryant and Veroff; Whitehead; Time and Free Will; the Simondon lifelong reading; McCracken/Vowles) — recorded in the item ledgers.",
-  "P151": "milestone QC ACCEPTED for the rewritten bodies (advisor round 5c). Inherited parallels citations and locators remain unverified by me (Bryant and Veroff; Whitehead; Time and Free Will; the Simondon lifelong reading; McCracken/Vowles) — recorded in the item ledgers."
+  "P179": "milestone QC ACCEPTED for the rewritten bodies (advisor round 5c). Inherited parallels citations and locators remain unverified by me (Bryant and Veroff; Whitehead; Time and Free Will; the Simondon lifelong reading; McCracken/Vowles) \u2014 recorded in the item ledgers.",
+  "P190": "milestone QC ACCEPTED for the rewritten bodies (advisor round 5c). Inherited parallels citations and locators remain unverified by me (Bryant and Veroff; Whitehead; Time and Free Will; the Simondon lifelong reading; McCracken/Vowles) \u2014 recorded in the item ledgers.",
+  "P092": "milestone QC ACCEPTED for the rewritten bodies (advisor round 5c). Inherited parallels citations and locators remain unverified by me (Bryant and Veroff; Whitehead; Time and Free Will; the Simondon lifelong reading; McCracken/Vowles) \u2014 recorded in the item ledgers.",
+  "P093": "milestone QC ACCEPTED for the rewritten bodies (advisor round 5c). Inherited parallels citations and locators remain unverified by me (Bryant and Veroff; Whitehead; Time and Free Will; the Simondon lifelong reading; McCracken/Vowles) \u2014 recorded in the item ledgers.",
+  "P151": "milestone QC ACCEPTED for the rewritten bodies (advisor round 5c). Inherited parallels citations and locators remain unverified by me (Bryant and Veroff; Whitehead; Time and Free Will; the Simondon lifelong reading; McCracken/Vowles) \u2014 recorded in the item ledgers.",
+  "MO034": "QC-pending: advisor round 17 corrections needed (content support, checks incomplete, proposal clauses); ownership verified p1g ranks 371-376",
+  "MO045": "QC-pending: advisor round 17 corrections needed (content support, checks incomplete, proposal clauses); ownership verified p1g ranks 371-376",
+  "MO056": "QC-pending: advisor round 17 corrections needed (content support, checks incomplete, proposal clauses); ownership verified p1g ranks 371-376",
+  "MO059": "QC-pending: advisor round 17 corrections needed (content support, checks incomplete, proposal clauses); ownership verified p1g ranks 371-376",
+  "MO060": "QC-pending: advisor round 17 corrections needed (content support, checks incomplete, proposal clauses); ownership verified p1g ranks 371-376",
+  "MO066": "QC-pending: advisor round 17 corrections needed (content support, checks incomplete, proposal clauses); ownership verified p1g ranks 371-376"
  },
  "missing_concepts": [],
  "sources_checked": 15,

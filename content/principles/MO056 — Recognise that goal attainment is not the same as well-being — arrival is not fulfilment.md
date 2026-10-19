@@ -13,17 +13,15 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 
 > **Principle 56** — Recognise that goal attainment is not the same as well-being: arrival is not fulfilment
 
-Attaining a goal often produces less happiness than expected (affective forecasting error, hedonic adaptation). The pursuit, not the attainment, is where well-being lives. Do not defer life until the goal is achieved.
-
-Aristotle made the distinction directly:
+Psychology research on affective forecasting and hedonic adaptation suggests that attaining a goal often produces less happiness than expected. The compendium places this beside a philosophical distinction Aristotle draws directly:
 
 > But it makes, perhaps, no small difference whether we place the chief good in possession or in use, in state of mind or in activity. (Aristotle, Nicomachean Ethics I.8, Ross translation, [MIT Classics](http://classics.mit.edu/Aristotle/nicomachaen.1.i.html))
 
-The point is not that goals do not matter. It is that the good sits in the doing, not in the having-done. A goal attained and then only possessed is a thing you own; a goal pursued is a thing you are doing.
+The quotation is a philosophical comparison, not evidence for the forecasting claims. What Aristotle's distinction offers is a way of framing the question: whether the good sits in having the thing or in the doing.
 
-**Plain words** Arrival disappoints — the promotion, the medal, the move; the happiness bump is smaller and shorter than predicted. The mind adapts and starts hunting the next thing. Knowing this, spend less on arrival and more on the travel.
+**Plain words** One finding from psychology is that people tend to overestimate how much attaining a goal will improve their life, and that gains often fade toward a baseline. One way of framing this is Aristotle's question: is the good in the possession or in the use? Knowing the finding and the question, one response is to invest in the pursuit as well as the arrival.
 
-*For example:* "When I get this house, everything changes" — the house is lovely by month two, and normal by month six. The forecast was the problem. The arriving was never going to pay what the imagining promised.
+*For example:* Imagine someone who says "when I get this house, everything changes." The forecasting research suggests the happiness bump may be smaller and shorter than predicted. The house may be lovely; the prediction that it would change everything is the part the research questions.
 
 ## Psychology parallels
 

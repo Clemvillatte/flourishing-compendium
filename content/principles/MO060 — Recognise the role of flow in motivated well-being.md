@@ -13,17 +13,17 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 
 > **Principle 60** — Recognise the role of flow in motivated well-being
 
-Flow — full absorption in an activity with clear goals, immediate feedback, and challenge-skill balance — is one of the most optimal motivational states. It is intrinsically rewarding and is associated with high well-being.
+Flow — full absorption in an activity with clear goals, immediate feedback, and challenge-skill balance — is one of the most studied optimal motivational states. Csikszentmihalyi's research associates it with intrinsic reward and high well-being.
 
-Zhuangzi's Cook Ding describes the state from the inside:
+The compendium places this beside a Daoist comparison. Zhuangzi's Cook Ding describes absorbed skill from the inside:
 
 > And now — now I go at it by spirit and don't look with my eyes. Perception and understanding have come to a stop and spirit moves where it wants. (Zhuangzi, ch. 3, "The Secret of Caring for Life," Cook Ding passage, [Columbia University Asia for Educators](https://afe.easia.columbia.edu/main_pop/ps//ps_china-zhuangzi-caring-for-life.htm))
 
-This is what full absorption looks like when it is described rather than measured. The eyes stop doing the work; the skill has moved somewhere behind them.
+The passage is a philosophical comparison, not a claim about the measured psychological construct. What it offers is a description of what full absorption is like from the inside, written two millennia before the construct was measured.
 
-**Plain words** Flow is motivated well-being at its purest — full absorption, clear goals, immediate feedback, challenge matched to skill. Time goes weird, self goes quiet. It's the reward that doesn't run out. Build its conditions.
+**Plain words** Flow is the state where the activity takes all of your attention and there is none left over for watching yourself. The conditions Csikszentmihalyi identified — clear goals, immediate feedback, challenge matched to skill — are the ones that tend to produce it. Time and self-consciousness are the things that go quiet.
 
-*For example:* The woodworker who looks up and it's dark — no willpower was consulted, no reward scheduled. The conditions did it. Flow is what motivation looks like when it's done working.
+*For example:* Imagine someone carving or playing an instrument who loses track of the afternoon. Nothing about the state is guaranteed; the conditions are what can be arranged.
 
 ## Psychology parallels
 

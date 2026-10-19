@@ -13,21 +13,23 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 
 > **Principle 45** — Recognise procrastination as emotion regulation, not laziness
 
-Procrastination is not laziness or time management failure. It is emotion regulation: avoiding a task because it generates negative feelings (anxiety, boredom, frustration). Understanding this changes the intervention.
+Procrastination is often understood as laziness or a time-management failure. Sirois and Pychyl's review argues for a different account: that procrastination is, in significant part, a way of regulating emotion.
 
-Sirois and Pychyl's argument in the Social and Personality Psychology Compass review:
+> In this paper, we argue that as a form of self-regulation failure, procrastination has a great deal to do with short-term mood repair and emotion regulation. (Sirois & Pychyl, "Procrastination and the Priority of Short-Term Mood Regulation: Consequences for Future Self," Social and Personality Psychology Compass 7(2), 2013, Abstract, p. 115, [White Rose eprints PDF](https://eprints.whiterose.ac.uk/id/eprint/91793/1/Compass%20Paper%20revision%20FINAL.pdf))
 
-> In this paper, we argue that as a form of self-regulation failure, procrastination has a great deal to do with short-term mood repair and emotion regulation. (Sirois & Pychyl, "Procrastination and the Priority of Short-Term Mood Regulation: Consequences for Future Self," Social and Personality Psychology Compass 7(2), 2013, [White Rose eprints PDF](https://eprints.whiterose.ac.uk/id/eprint/91793/1/Compass%20Paper%20revision%20FINAL.pdf))
+The review's conclusion states the claim more fully:
 
-The review also states that the primacy of short-term mood repair "over the longer-term pursuit of intended actions" is the core of the failure. What this means practically is that the intervention is not a better calendar. It is a way of handling the feeling the task produces.
+> In this paper, we have argued that procrastination may be best understood as a form of self-regulation failure that involves the primacy of short-term mood repair and emotion regulation over the longer-term pursuit of intended actions. (Sirois & Pychyl, 2013, Conclusions and Future Directions, pp. 124-25, same PDF)
 
-**Plain words** Procrastination isn't laziness — it's mood management. The task feels awful, so you avoid the feeling, and the avoidance works... for ten minutes. It's an emotional manoeuvre, not a scheduling failure. Treat the feeling, not the calendar.
+The account is not offered as the sole explanation. The same review notes that susceptibility to goal-derailing temptations "may involve more than just trying to escape the unpleasant feelings associated with a task" (p. 126). What the mood-repair framing changes is the intervention: if the avoidance is managing a feeling, then only addressing the schedule leaves the feeling unaddressed.
 
-*For example:* "I'll do the tax return tomorrow" is really "I'll not feel the tax-return dread today" — a successful mood fix, a failed life fix. The dread was the actual task.
+**Plain words** One account of procrastination is that it is mood management. The task produces a feeling you would rather not have, so you avoid the task, and the avoidance relieves the feeling for a while. This is one account among others, and the review that advances it does not claim it is the whole story. What it does suggest is that a schedule alone will not address the part that is a feeling.
+
+*For example:* Imagine someone who says "I'll do the tax return tomorrow." One reading is that this is a scheduling decision. The mood-repair account suggests a different reading: that the dread the return produces is what is being avoided, and the deferral is how.
 
 ## Psychology parallels
 
-- **Procrastination as emotion regulation (Sirois & Pychyl)**, procrastination is short-term mood repair at the expense of long-term goals (Sirois & Pychyl, 2013; Pychyl, 2013)
+- **Procrastination as emotion regulation (Sirois & Pychyl)**, procrastination involves short-term mood repair (Sirois & Pychyl, 2013)
 - **[[Temporal motivation theory|Temporal motivation theory (Steel)]]**, procrastination is driven by preference for immediate comfort over delayed benefit (Steel, 2007; Steel & König, 2006)
 
 ## Philosophy parallels
@@ -38,4 +40,4 @@ The review also states that the primacy of short-term mood repair "over the long
 
 ## Practice
 
-- When procrastinating, ask: "what feeling am I avoiding?" The task is not the problem; the feeling is. Address the feeling ([[Self-compassion|self-compassion]], breaking the task down, starting tiny) rather than just pushing harder.
+- When procrastinating, one question worth asking is: "what feeling am I avoiding?" The mood-repair account suggests the feeling is part of what is being managed. Addressing the feeling ([[Self-compassion|self-compassion]], breaking the task down, starting tiny) is one approach among others.
