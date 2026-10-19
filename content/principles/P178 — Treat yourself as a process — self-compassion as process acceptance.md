@@ -12,13 +12,15 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 178** — Treat yourself as a process: self-compassion as process acceptance
 
-Accepting yourself is not endorsing a finished product; it is accepting a working process — with errors, revisions, and direction. Kindness to the process keeps it moving.
+Rogers's paradox is one of the strangest and most useful sentences in psychotherapy: "The curious paradox is that when I accept myself just as I am, then I can change" ([Rogers 1961, On Becoming a Person, ch. 6](https://archive.org/details/onbecomingperson00carl)). The paradox disappears the moment you treat the self as a process rather than a product. You do not accept the self the way you accept a finished painting; you accept it the way you accept a working garden — which still needs watering, and still has weeds, and still is the thing you are growing.
 
-(Rogers's paradox — "when I accept myself as I am, then I change"; Neff, 2003.)
+Neff's later research formalises the same move without the paradox: self-compassion has three components — self-kindness, common humanity, and mindfulness — and none of them require the self to be good, only to be honestly seen ([Neff 2003, PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3743650/)). Acceptance is not a verdict on the current state; it is the working condition the process needs to keep running.
 
-**Plain words** Accepting yourself is not endorsing a finished product — it's accepting a working process, with errors, revisions, and direction. Kindness to the process keeps it moving. Rogers's paradox: 'when I accept myself as I am, then I change.' Acceptance isn't the end of growth; it's the working conditions.
+> "The curious paradox is that when I accept myself just as I am, then I can change." (Carl Rogers, On Becoming a Person, 1961, ch. 6, [Internet Archive](https://archive.org/details/onbecomingperson00carl))
 
-*For example:* The dieter who stops the self-hatred loop and, oddly, starts eating better — the war was the stress-eating's main supplier. Acceptance of the process turned out to be step one of improving it. Both things, counterintuitively, at once.
+**Plain words** Self-hatred is often defended as motivation, and it is the opposite. The loop — beat yourself up, feel worse, seek relief in the exact behaviour you were beating yourself up for — runs on the punishment. Rogers's point is that you cannot improve something you will not look at honestly, and you cannot look at something honestly while you are busy hating it. Acceptance is not the end of growth; it is the room the growth happens in.
+
+*For example:* Two people both want to eat better. One runs on self-criticism and ends up stress-eating after every harsh inner comment. The other stops the war and just tracks what actually happens. A month later the second one is eating better; the first is still fighting the same fight. The war was not motivation; it was a cost, paid every day, with nothing to show for it.
 
 ## Psychology parallels
 
