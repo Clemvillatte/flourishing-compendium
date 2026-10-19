@@ -49,6 +49,8 @@ B116 advises catching irritation early. Does that practice affect anger partly t
 - [[Extended process model of emotion regulation]] — Gross's later three-stage model
 - [[Anger examined early]] — the Stoic-style timing insight that matches early intervention
 
+[[PP017 — Regulate negative emotion without suppressing it]]
+
 ## Sources
 
 - [Gross, J. J., "Emotion Regulation: Current Status and Future Prospects" (2015, Psychological Inquiry; PDF)](http://www.johnnietfeld.com/uploads/2/2/6/0/22606800/gross_2015.pdf) — the five strategy families; reappraisal versus suppression evidence; moderators
