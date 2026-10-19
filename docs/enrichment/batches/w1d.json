@@ -23,15 +23,16 @@
   "Mindful attention",
   "Moral identity",
   "Movement as life",
-  "Narcissism versus healthy self-regard"
+  "Narcissism versus healthy self-regard",
+  "Narrative redemption sequences"
  ],
- "in_progress": "Narrative redemption sequences",
+ "in_progress": null,
  "flagged": {
   "The eternal contribution": "compendium coinage, not a traditional term: page says so in its first sentence; written for the sense BE068 uses"
  },
  "missing_concepts": [],
- "sources_checked": 112,
- "updated": "2026-10-19T09:49:58+00:00",
+ "sources_checked": 116,
+ "updated": "2026-10-19T09:50:23+00:00",
  "qc_log": {
   "Escape from freedom": "approved after 4 advisor QC rounds: quotes verified against opened sources (panarchy ch. V excerpt, Wikipedia, IEP Totalitarianism 2.d, SEP Critical Theory 1.4); Simondon Individuation and The having mode removed from Related; cross-tradition links labelled comparisons; sources_checked: 4",
   "Eternal recurrence": "milestone advisor QC applied: practical-reading attribution qualified; AF069 described as the compendium's separate comparison; Panta rhei, Corsi e ricorsi and Three thousand realms claims externally verified; 'Thou art a God' capitalisation matches primary text",
@@ -55,7 +56,8 @@
   "Mindful attention": "self-QC: Kabat-Zinn operational definition verbatim from his 2003 paper; Langer's definition verbatim from the Langerian literature; Ferrari 2019 effect sizes verbatim with publication-bias caveat; both seed facets (novel features, self-compassion) covered with their own evidence",
   "Moral identity": "milestone advisor QC applied: tika correctly attributed to Maori tikanga (was mislabeled Buddhist); SP009 correctly attributed to Spinoza (was mislabeled Nietzschean); Blasi/Damon joint introduction per the OUP chapter; quotes re-traced to the UBC exposition",
   "Movement as life": "self-QC: Cook Ding quoted in Watson's translation; butterfly transformation-of-things line quoted from the parable commentary; flowing/fixed cognition distinction from SEP; Panta rhei marked as cross-tradition comparison",
-  "Narcissism versus healthy self-regard": "milestone advisor QC applied: discrepant- esteem finding scoped to one undergraduate sample; vulnerable/grandiose distinction added; Kernis low-narcissism caveat added; 'clearest case' removed; Related clauses moderated; Semantic Scholar URL completed; BI034 rationale removed"
+  "Narcissism versus healthy self-regard": "milestone advisor QC applied: discrepant- esteem finding scoped to one undergraduate sample; vulnerable/grandiose distinction added; Kernis low-narcissism caveat added; 'clearest case' removed; Related clauses moderated; Semantic Scholar URL completed; BI034 rationale removed",
+  "Narrative redemption sequences": "self-QC: McAdams et al. 2001 definitions verbatim from the handbook chapter; study design from the APA Monitor; correlational status and American-culture caveat both stated; tradition labels verified per milestone QC audit"
  },
  "incidents": [
   "2026-10-19: enriched content/concepts/The eternal contribution.md by mistake (not in w1d manifest; belongs to w1ae). Content file reverted to seed in this commit; validated draft preserved at docs/enrichment/drafts/w1d/The eternal contribution.md for the w1ae agent. Reciprocal proposals for it removed from proposals/w1d.json."
