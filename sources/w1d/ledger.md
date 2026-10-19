@@ -65,3 +65,16 @@ over w1d from stale Agent D).
   distinction.
 - Access failures: infed.org and three scholarly PDFs (Open University, Purdue,
   DRS digital library) blocked by Cloudflare or 404; not used.
+
+## QC round 2 (advisor, items 10-15 sample)
+
+- Showing versus saying: translation verified as Pears-McGuinness against the opened
+  text (proposition 7 wording); 6.41/6.42 quotes added after verbatim check; intent
+  gloss removed. Tractatus URL: https://archive.org/stream/tractatuslogicop05740gut/tloph10.txt
+- Slow-paced breathing: Balban framing limited to related evidence; review limitation
+  quoted; altered-capitalization quote fixed.
+- Taking the role of the other: contiguous play quote; direct PDF URL
+  https://ia601500.us.archive.org/5/items/mead-1934/mead%201934.pdf; generalized-other
+  and me/I passages verified verbatim in the opened PDF.
+- Access failures this round: brocku.ca Mead section (Cloudflare); health.mil
+  evidence brief (client error; cited from its search snippet, quote from snippet).

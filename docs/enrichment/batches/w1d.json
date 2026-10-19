@@ -47,7 +47,10 @@
  "in_progress": null,
  "flagged": {
   "The eternal contribution": "compendium coinage, not a traditional term: page says so in its first sentence; written for the sense BE068 uses",
-  "Phenomenological methods in psychology": "ESM genealogy corrected per OWNER-UPDATE: Conner et al. 2009 (PMC2773515) opened; ESM traced to 1977 Csikszentmihalyi/Larson/Prescott pager study and naturalistic-idiographic traditions; source silent on Husserl, so no Husserl link asserted"
+  "Phenomenological methods in psychology": "ESM genealogy corrected per OWNER-UPDATE: Conner et al. 2009 (PMC2773515) opened; ESM traced to 1977 Csikszentmihalyi/Larson/Prescott pager study and naturalistic-idiographic traditions; source silent on Husserl, so no Husserl link asserted",
+  "Showing versus saying": "QC repair: translation re-attributed to Pears-McGuinness (verified vs opened text incl. prop. 7); 'shortest in the book' and intent-gloss removed; 6.41/6.42 added verbatim; Daoist/Zen marked as comparisons. IS-IT-A-CONCEPT: the saying-showing distinction is defined in the opened primary text (Tractatus 4.1212), so kept as a concept, not a comparison page",
+  "Slow-paced breathing": "QC repair: one-month duration restored; no subgroup overstatement; '[t]he enhancement' capitalization fixed; Balban framed as related evidence not rate-mechanism confirmation; review limitation (young healthy participants) added; Pranayama priority claim removed",
+  "Taking the role of the other": "QC repair: 'He must know' capital restored; play quote made contiguous; direct PDF URL cited; generalized-other and me/I passages quoted verbatim from opened PDF; 'experimental descendant' softened to comparison"
  },
  "missing_concepts": [],
  "sources_checked": 131,
@@ -71,7 +74,7 @@
   "Learning by doing": "self-QC: Democracy and Education ch. 11 passages quoted verbatim from open excerpts; 'mere activity' caveat included against the misreading; 'learn from reflecting on experience' hedged as slogan form",
   "Life story model": "self-QC: McAdams's own intellectual autobiography used for model structure quotes; redemption/contamination findings from the peer-reviewed summaries; American-culture caveat included in McAdams's own words",
   "Lifestyle pillars of mental health": "milestone advisor QC applied: citalopram comparison removed; dosages removed (newspaper sourcing); 'uncontrolled trials' design claim removed, outcome data described as press-reported cohorts; BA classification removed; mismatch framed as Ilardi's hypothesis",
-  "Mind in life": "self-QC: Thompson's own Précis used for the thesis and argument, quoted verbatim; Wheeler's critique included; unverified author name removed from a citation anchor",
+  "Mind in life": "self-QC: Thompson's own Pr\u00e9cis used for the thesis and argument, quoted verbatim; Wheeler's critique included; unverified author name removed from a citation anchor",
   "Mindful attention": "self-QC: Kabat-Zinn operational definition verbatim from his 2003 paper; Langer's definition verbatim from the Langerian literature; Ferrari 2019 effect sizes verbatim with publication-bias caveat; both seed facets (novel features, self-compassion) covered with their own evidence",
   "Moral identity": "milestone advisor QC applied: tika correctly attributed to Maori tikanga (was mislabeled Buddhist); SP009 correctly attributed to Spinoza (was mislabeled Nietzschean); Blasi/Damon joint introduction per the OUP chapter; quotes re-traced to the UBC exposition",
   "Movement as life": "self-QC: Cook Ding quoted in Watson's translation; butterfly transformation-of-things line quoted from the parable commentary; flowing/fixed cognition distinction from SEP; Panta rhei marked as cross-tradition comparison",
