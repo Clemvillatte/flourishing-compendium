@@ -16,9 +16,23 @@ The sage accomplishes and doesn't dwell on it, acts and doesn't take the credit.
 
 (DDJ 2, 24, 77.)
 
-**Plain words** Accomplish and don't dwell on it; act and don't take the credit. Credit-hoarding is how good work turns bad — the moment it's about the trophy, the work serves the trophy. Let results speak; they're better at it than you are.
+### Three chapters, one rule
+
+Chapter 2 describes how the sage works through things:
+
+> "The work is accomplished, and there is no resting in it (as an achievement)." (DDJ 2, [Legge](https://www.gutenberg.org/cache/epub/216/pg216.txt))
+
+Chapter 24 names the failure: "he who vaunts himself does not find his merit acknowledged" (DDJ 24, Legge). Self-display cancels itself. Chapter 77 gives the summary:
+
+> "Therefore the (ruling) sage acts without claiming the results as his; he achieves his merit and does not rest (arrogantly) in it:--he does not wish to display his superiority." (DDJ 77, [Legge](https://www.gutenberg.org/cache/epub/216/pg216.txt))
+
+**Plain words** The claim and the work compete for the same attention. When you announce the result as yours, listeners now hold two things: the work, and your account of yourself. The second is the weaker item, and it drags the first. Letting results stand without your commentary keeps the work visible and your role quiet, which is where credit actually lives, since people remember who was useful.
 
 *For example:* The teammate who quietly fixed the bug gets pulled onto every important project after — the fix was the advertisement.
+
+## Sources
+
+- [The Tao Teh King, Legge trans., Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt): chapters 2, 24, 77
 
 ## Psychology parallels
 
