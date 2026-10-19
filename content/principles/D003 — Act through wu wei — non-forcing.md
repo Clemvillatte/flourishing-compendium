@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 3** — Act through wu wei: non-forcing
 
-Do things with minimal friction and coercion: no pushing, gripping, or straining. Not inaction — effortless, non-interfering action, like a skilled hand that works with the material instead of against it.
+The Daodejing's formula is not inaction but non-forcing. Chapter 37: "The Tao in its regular course does nothing (for the sake of doing it), and so there is nothing which it does not do." The sage works the same way: "Therefore the sage manages affairs without doing anything, and conveys his instructions without the use of speech." Chapter 48 describes it as a subtractive discipline: "He who devotes himself to the Tao (seeks) from day to day to diminish (his doing). He diminishes it and again diminishes it, till he arrives at doing nothing (on purpose). Having arrived at this point of non-action, there is nothing which he does not do." And chapter 63 names the manner directly: "(It is the way of the Tao) to act without (thinking of) acting; to conduct affairs without (feeling the) trouble of them." The compendium's reading: this is a skill, not a passivity, like a skilled hand that works with the material instead of against it. Forcing is effort still fighting the material; wu wei is what effort looks like once it stops.
 
 (DDJ 2, 37, 48, 63.)
 
