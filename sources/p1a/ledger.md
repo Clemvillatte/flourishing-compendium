@@ -165,3 +165,12 @@ session after supervisor QC flags.
   - Advisor QC round 1 rejected: "Cook Ding" name (not in the opened Legge text; changed to "the cook"), "a good cook ruins a knife in a year" (the text says changes, with injury/breakage as possible causes), the vitality-spending mechanism ("where you force, you spend it"), the knife-sharp aphorism closers, and the old example's afternoon-crash prediction. Body para2 replaced with the cook's specific account; plain words replaced with the advisor's practical framing; example kept as a proposed exercise without the order claim.
   - Validator caught a lost [[Yangsheng (cultivating vitality)]] wikilink in my first draft; restored, validator ok.
 - Saturation: D141 linked from Yangsheng (cultivating vitality) and The lived body concept contexts; no new reciprocals proposed.
+
+## D037 — Empty the heart-mind (xuxin) (done 2026-10-19)
+
+- Opened: Zhuangzi, ch. 4, the fasting-of-the-mind dialogue (Yan Hui and Zhongni), Legge translation (1891), METIS English Classics edition PDF, https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf (same opened PDF as D078/D141; ch. 4 §2 extracted this item; source not double-counted)
+  - Verified verbatim (blockquote): "But the spirit is free from all pre-occupation and so waits for (the appearance of) things. Where the (proper) course is, there is freedom from all pre-occupation; such freedom is the fasting of the mind."
+  - Verified context: sacrifice-fasting vs mind-fasting distinction; the empty-apartment image ("Look at that aperture (left in the wall); the empty apartment is filled with light through it").
+  - Advisor QC round 1 rejected: "regularly clearing them out restores the room's use" (causal cognitive benefit not established), "a mind full of plans cannot take in the thing in front of it" (too absolute), "the space is already rented" (repeats the body's metaphor), "see what turns up" (assumes successful clearing), and the phone-free-walk example's "often look obvious" outcome claim. All replaced with the advisor's listening-exercise framing.
+  - Citation change: the inherited "(DDJ 3; Zhuangzi 4.)" was narrowed to "(Zhuangzi 4.)" — DDJ 3 was not opened this item and the Legge ch. 3 usage is governance-oriented; noted rather than silently kept.
+- Saturation: D037 linked from its parallels sections (open monitoring etc.); no new reciprocals proposed.

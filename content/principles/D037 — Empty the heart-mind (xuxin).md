@@ -12,13 +12,22 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 37** — Empty the heart-mind (xuxin)
 
-The mind works like a room: cluttered, nothing fits. Regularly clear out opinions, grievances, and plans to restore capacity.
+In the Zhuangzi dialogue, Yan Hui asks whether abstaining from drink and certain foods counts as fasting. Zhongni distinguishes this from the fasting of the mind.
 
-(DDJ 3; Zhuangzi 4.)
+> But the spirit is free from all pre-occupation and so waits for (the appearance of) things. Where the (proper) course is, there is freedom from all pre-occupation; such freedom is the fasting of the mind. (Zhuangzi 4 §2, Legge, [METIS English Classics edition](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
 
-**Plain words** The mind works like a room: cluttered, nothing fits. Clear out the stale opinions, grievances, and plans regularly. An empty mind isn't vacant — it's usable space, which is exactly what a full one stops having.
+Later, Zhongni points to an opening through which light fills an empty apartment (§2). One practical reading is to leave room for an encounter before deciding what it must mean.
 
-*For example:* After a proper walk without your phone, problems that seemed tangled at the desk often look obvious — the room got cleared.
+(Zhuangzi 4.)
+
+**Plain words**
+Suppose you enter a conversation sure you know what the other person will say. For this exercise, leave that prediction unsettled while listening. Attend to their words, including anything you did not expect.
+
+*For example:* Imagine discussing a missed deadline with a colleague. Ask what happened and let them finish before preparing your reply.
+
+## Sources
+
+- [Zhuangzi, Chapter 4, the fasting of the mind dialogue (Yan Hui and Zhongni), Legge translation (1891), METIS English Classics edition, ETH Zurich](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — spirit free from pre-occupation; the empty apartment image
 
 ## Stories
 
