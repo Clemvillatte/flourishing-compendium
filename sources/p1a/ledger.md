@@ -230,3 +230,12 @@ session after supervisor QC flags.
   - The old plain words was a replicate of the body (same vary-what-changes-what-stays text); repaired. The old example's discovered invariant + "failing to schedule for" aphorism replaced with a conditional delivery framing. Ideas II citation kept as inherited locator (not opened).
   - Speed directive: no advisor QC this item (16; last milestone 15); one commit.
 - Saturation: E007 linked from its many Stories; no new reciprocals proposed.
+
+## P073 — See conduct as interaction (done 2026-10-19)
+
+- Opened: Dewey, Human Nature and Conduct (1922), Part I §1, full text at https://brocku.ca/MeadProject/Dewey/Dewey_1922/Dewey1922_02.html
+  - Verified verbatim (blockquote): "We cannot change habit directly: that notion is magic. But we can change it indirectly by modifying conditions, by an intelligent selecting and weighting of the objects which engage attention and which influence the fulfilment of desires."
+  - Verified inline fragments: "not private possessions of a person"; "working adaptations of personal capacities with environing forces"; "modified by change of either personal or social elements"; "We must work on the environment not merely on the hearts of men."
+  - The old plain words was a replicate of the body (same three-levers text and "private inner event" phrasing); repaired. The old example's "the environment lever is the cheap one" comparative replaced with the three-places framing; "buy the shoes first" advice removed.
+  - Speed directive: no advisor QC this item (17); one commit.
+- Saturation: P073 linked from its Stories and habit-environment kernels (K176, K177); no new reciprocals proposed.

@@ -12,13 +12,18 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 73** — See conduct as interaction
 
-Action is never a private inner event emitted into the world; it is an interaction between impulse, habit, and environment. To change behavior, change any or all of the three.
+Dewey's Human Nature and Conduct treats conduct as made of habit, impulse and environment, and its first section states why the environment is a working part of behavior.
+
+> We cannot change habit directly: that notion is magic. But we can change it indirectly by modifying conditions, by an intelligent selecting and weighting of the objects which engage attention and which influence the fulfilment of desires. (Dewey, Human Nature and Conduct, Part I §1, [full text](https://brocku.ca/MeadProject/Dewey/Dewey_1922/Dewey1922_02.html))
+
+The same section says the same thing from the other side: virtues and vices are "not private possessions of a person" but "working adaptations of personal capacities with environing forces," modifiable "by change of either personal or social elements" (Part I §1). The principle's directive, change impulse, habit or environment, is a summary of that position.
 
 (Dewey, Human Nature and Conduct, 1922.)
 
-**Plain words** Three levers — impulse, habit, environment — and everyone keeps pulling only the first one. Behavior is an interaction, never a private inner event emitted into the world; change any or all of the three.
+**Plain words**
+Your behavior is welded to your surroundings. Willpower works against everything already in place; the room, the schedule and the route home are the machinery the behavior runs on. Rearranging them is not cheating; it is the method Dewey is pointing at.
 
-*For example:* Wanting to jog (impulse) but owning no shoes and sleeping badly (environment) with a decade of couch habits — buy the shoes first. The environment lever is the cheap one.
+*For example:* The jogger who wants to run but owns no shoes and sleeps badly has three places to work: the wanting, the couch habit, the shoes and the sleep. Dewey's point is that the third is a legitimate place to start, not a confession of weak will.
 
 ## Stories
 
