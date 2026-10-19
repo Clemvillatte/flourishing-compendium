@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 negative events elicit stronger and faster reactions than positive events (Baumeister et al., 2001; Rozin & Royzman, 2001).
 
+## Related concepts
+
+- [[Positivity effect]] — the age trend that reverses this bias
+
 ## Sources
 
 - Rozin and Royzman, 2001

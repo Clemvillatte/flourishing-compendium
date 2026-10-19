@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 (Buddhist concept, empirically supported), the reaction to the pain is often worse than the pain (Hofmann et al., 2010).
 
+## Related concepts
+
+- [[Judgment adds the harm]] — the Buddhist teaching the Stoic doctrine parallels
+
 ## Sources
 
 - Buddhism, Sallatha Sutta

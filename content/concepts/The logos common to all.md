@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “The logos common to all” — Heraclitus, Fragments.
 
+## Related concepts
+
+- [[Brahman]] — a cross-tradition pairing offered for reflection, not a claimed influence
+
 ## Sources
 
 - Heraclitus, Fragments

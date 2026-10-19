@@ -16,39 +16,9 @@
    "why": "another practice of systematically redirecting attention, carried by the same principle AT050"
   },
   {
-   "into": "Bare attention in mindfulness practice",
-   "link": "Body scan in MBSR (Kabat-Zinn)",
-   "why": "the scan asks for bare attention to each body region before interpretation"
-  },
-  {
-   "into": "Anapanasati (mindfulness of breathing)",
-   "link": "Body scan in MBSR (Kabat-Zinn)",
-   "why": "the breath-anchored counterpart practice within mindfulness training"
-  },
-  {
    "into": "Attentional control training and the role of repeated redirection",
    "link": "Body scan in MBSR (Kabat-Zinn)",
    "why": "the scan is one long redirection exercise, moving attention region by region"
-  },
-  {
-   "into": "Chronic pain acceptance",
-   "link": "Body scan in MBSR (Kabat-Zinn)",
-   "why": "the 1982 program's patient population, studied in that literature for how stance toward pain predicts suffering"
-  },
-  {
-   "into": "Mindful attention",
-   "link": "Body scan in MBSR (Kabat-Zinn)",
-   "why": "the attentional stance the scan is meant to cultivate"
-  },
-  {
-   "into": "Rumination",
-   "link": "Avoidance versus attentional engagement",
-   "why": "BA examines whether rumination functions as avoidance"
-  },
-  {
-   "into": "Graded exposure systematic desensitisation (Wolpe)",
-   "link": "Avoidance versus attentional engagement",
-   "why": "approaching feared situations in graded steps is the anxiety-side counterpart"
   },
   {
    "into": "Differential Activation Hypothesis of depression",
@@ -61,59 +31,9 @@
    "why": "the operant tradition that explains the cycle's reinforcement logic"
   },
   {
-   "into": "Operant conditioning (Skinner)",
-   "link": "Behavior analysis",
-   "why": "the three-term contingency is the unit operant conditioning fills in"
-  },
-  {
-   "into": "Law of Effect",
-   "link": "Behavior analysis",
-   "why": "Thorndike's stamping-in of satisfied responses is the direct precursor of reinforcement"
-  },
-  {
-   "into": "Reinforcement schedules (Ferster & Skinner)",
-   "link": "Behavior analysis",
-   "why": "how reinforcement arranged over time affects behavior"
-  },
-  {
-   "into": "Behaviorism",
-   "link": "Behavior analysis",
-   "why": "behavior analysis is Skinner's research program within the broader school"
-  },
-  {
-   "into": "Functional analysis",
-   "link": "Behavior analysis",
-   "why": "the ABC of behavior is the tradition's applied tool"
-  },
-  {
-   "into": "Functional contextualism",
-   "link": "Behavior analysis",
-   "why": "P078 connects both through its contextual treatment of action"
-  },
-  {
-   "into": "Behavioral activation",
-   "link": "Behavior analysis",
-   "why": "BA applies the operant logic of avoidance and reinforcement to depression"
-  },
-  {
    "into": "Avoidance versus attentional engagement",
    "link": "Behavior analysis",
    "why": "the withdrawal cycle is explained by the operant logic this page defines"
-  },
-  {
-   "into": "Shaping (Skinner)",
-   "link": "Behavioural chaining (applied behaviour analysis)",
-   "why": "the neighbouring procedure: chaining links existing steps, shaping builds new responses"
-  },
-  {
-   "into": "Habit stacking",
-   "link": "Behavioural chaining (applied behaviour analysis)",
-   "why": "the everyday cousin of the chaining recipe (comparison, not lineage)"
-  },
-  {
-   "into": "Habit",
-   "link": "Behavioural chaining (applied behaviour analysis)",
-   "why": "BE024 describes everyday routines as habit chains"
   },
   {
    "into": "Habit maintenance",
@@ -126,184 +46,9 @@
    "why": "chaining is an applied procedure of this tradition"
   },
   {
-   "into": "Operant conditioning (Skinner)",
-   "link": "Behavioural chaining (applied behaviour analysis)",
-   "why": "each link relies on operant reinforcement"
-  },
-  {
-   "into": "Behavioral activation",
-   "link": "Behavioural chaining (applied behaviour analysis)",
-   "why": "AF036 connects both through action-focused treatment"
-  },
-  {
-   "into": "Modeling",
-   "link": "Behavioural rehearsal / role-play (DBT, social skills training)",
-   "why": "demonstrating a target behaviour before the learner rehearses it"
-  },
-  {
-   "into": "Shaping (Skinner)",
-   "link": "Behavioural rehearsal / role-play (DBT, social skills training)",
-   "why": "the sibling procedure, building responses by successive approximations"
-  },
-  {
-   "into": "Behavioral experiments in CBT",
-   "link": "Behavioural rehearsal / role-play (DBT, social skills training)",
-   "why": "testing predictions through action, a different practice format"
-  },
-  {
-   "into": "Graded exposure systematic desensitisation (Wolpe)",
-   "link": "Behavioural rehearsal / role-play (DBT, social skills training)",
-   "why": "approaching feared situations in graded steps, a different practice format"
-  },
-  {
    "into": "Behavior analysis",
    "link": "Behavioural rehearsal / role-play (DBT, social skills training)",
    "why": "rehearsal is an applied procedure of this tradition"
-  },
-  {
-   "into": "The ontological difference",
-   "link": "Being and beings",
-   "why": "the formal name for the distinction between Sein and das Seiende"
-  },
-  {
-   "into": "Dasein",
-   "link": "Being and beings",
-   "why": "the being whose understanding of Being makes the difference visible"
-  },
-  {
-   "into": "Being-in-the-world",
-   "link": "Being and beings",
-   "why": "the practical and social contexts within which Dasein understands beings"
-  },
-  {
-   "into": "Being-toward-death",
-   "link": "Being and beings",
-   "why": "death as the possibility that individualizes Dasein"
-  },
-  {
-   "into": "Being-for-others",
-   "link": "Being and beings",
-   "why": "Sartre's account of being-seen, which E036 takes up"
-  },
-  {
-   "into": "Prohairesis (deliberate choice)",
-   "link": "Boulesis (rational desire)",
-   "why": "wish is for ends; choice, deliberate desire, for means in our power (NE III.2)"
-  },
-  {
-   "into": "Akrasia",
-   "link": "Boulesis (rational desire)",
-   "why": "conflict between appetite and calculation, discussed in De Anima III.10"
-  },
-  {
-   "into": "Eudaimonia",
-   "link": "Boulesis (rational desire)",
-   "why": "wishing to be happy is the NE III.2 example; choosing the acts is not"
-  },
-  {
-   "into": "Arete",
-   "link": "Boulesis (rational desire)",
-   "why": "the good person's wish tracks the truth because character is the 'norm and measure' (NE III.4)"
-  },
-  {
-   "into": "Habituation",
-   "link": "Boulesis (rational desire)",
-   "why": "A007's route for training desire to follow reason"
-  },
-  {
-   "into": "Atman",
-   "link": "Brahman",
-   "why": "Advaita holds Atman identical with Brahman"
-  },
-  {
-   "into": "Maya (illusion)",
-   "link": "Brahman",
-   "why": "the power by which plurality appears on Brahman"
-  },
-  {
-   "into": "Avidya",
-   "link": "Brahman",
-   "why": "the ignorance that conceals the identity"
-  },
-  {
-   "into": "Moksha",
-   "link": "Brahman",
-   "why": "liberation as recognition that the self is Brahman"
-  },
-  {
-   "into": "Neti neti",
-   "link": "Brahman",
-   "why": "the negative language the Upaniṣads use for what Brahman is not"
-  },
-  {
-   "into": "Dao",
-   "link": "Brahman",
-   "why": "a cross-tradition pairing offered for reflection, not a claimed influence"
-  },
-  {
-   "into": "Deus sive natura",
-   "link": "Brahman",
-   "why": "a cross-tradition pairing offered for reflection, not a claimed influence"
-  },
-  {
-   "into": "The logos common to all",
-   "link": "Brahman",
-   "why": "a cross-tradition pairing offered for reflection, not a claimed influence"
-  },
-  {
-   "into": "Shunyata",
-   "link": "Buddhist emptiness of inherent nature",
-   "why": "the Sanskrit term's own page for the same Madhyamaka doctrine"
-  },
-  {
-   "into": "Anatta",
-   "link": "Buddhist emptiness of inherent nature",
-   "why": "Madhyamaka extends the analysis of persons' lack of independent self to phenomena generally"
-  },
-  {
-   "into": "Dependent origination",
-   "link": "Buddhist emptiness of inherent nature",
-   "why": "the co-arising MMK 24.18 identifies with emptiness"
-  },
-  {
-   "into": "Two truths",
-   "link": "Buddhist emptiness of inherent nature",
-   "why": "the conventional and ultimate truths of MMK 24.8-10"
-  },
-  {
-   "into": "Impermanence",
-   "link": "Buddhist emptiness of inherent nature",
-   "why": "the arising and ceasing that chapter 24 ties to dependent origination"
-  },
-  {
-   "into": "Dukkha",
-   "link": "Buddhist emptiness of inherent nature",
-   "why": "Arnold's reading of chapter 24: suffering can be caused to cease only if contingent"
-  },
-  {
-   "into": "Interbeing",
-   "link": "Buddhist emptiness of inherent nature",
-   "why": "an editorial cross-reading: compare with dependent origination without assuming equivalence"
-  },
-  {
-   "into": "Tathata, suchness",
-   "link": "Buddhist emptiness of inherent nature",
-   "why": "a further reading question: how does 'suchness' differ from absence of inherent nature?"
-  },
-  {
-   "into": "Solitude",
-   "link": "Capacity to be alone (Winnicott)",
-   "why": "chosen aloneness compared with Winnicott's account of contented aloneness"
-  },
-  {
-   "into": "Loneliness",
-   "link": "Capacity to be alone (Winnicott)",
-   "why": "distressing disconnection contrasted with the contented aloneness the paper describes"
-  },
-  {
-   "into": "Object relations theory",
-   "link": "Capacity to be alone (Winnicott)",
-   "why": "compare that page's account of internalised relationships with Winnicott's 'good internal object'"
   },
   {
    "into": "Avoidance versus attentional engagement",
@@ -311,34 +56,9 @@
    "why": "avoidance-driven withdrawal distinguished from contented aloneness"
   },
   {
-   "into": "The capacity to be alone",
-   "link": "Capacity to be alone (Winnicott)",
-   "why": "the sibling page carrying the same Winnicott citation"
-  },
-  {
-   "into": "Habit",
-   "link": "Character as habits",
-   "why": "the companion page for the phenomenon James examines"
-  },
-  {
-   "into": "Habit formation",
-   "link": "Character as habits",
-   "why": "compare that page's acquisition account with James's historical explanation"
-  },
-  {
    "into": "Habit maintenance",
    "link": "Character as habits",
    "why": "a companion question: how are established habits sustained?"
-  },
-  {
-   "into": "Habit stacking",
-   "link": "Character as habits",
-   "why": "compare its routine-anchoring recipe with James's advice to support resolutions"
-  },
-  {
-   "into": "Shaping (Skinner)",
-   "link": "Character as habits",
-   "why": "compare that page's account of successive approximations with James's practice maxims"
   },
   {
    "into": "Behavior analysis",
@@ -347,5 +67,5 @@
   }
  ],
  "inline": [],
- "notes": " | deferred at this run (target band busy): 12 recip, 0 inline"
+ "notes": " | deferred at this run (target band busy): 12 recip, 0 inline | deferred at this run (target band busy): 13 recip, 0 inline"
 }

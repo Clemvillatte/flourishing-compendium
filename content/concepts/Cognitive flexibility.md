@@ -39,6 +39,7 @@ The essay question: does the Buddhist training in seeing things as empty of fixe
 
 ## Related concepts
 
+
 - [[Executive function theory Miyake]] — the factor-analytic triad this concept completes
 - [[Attentional flexibility (set-shifting)]] — the lab-task side of the same capacity
 - [[Psychological flexibility]] — the clinical cousin spanning values and life domains
@@ -49,7 +50,7 @@ The essay question: does the Buddhist training in seeing things as empty of fixe
 - [[Cognitive reappraisal]] — generating alternative interpretations is perspective-shifting in action
 - [[Flexibility as virtue]] — the ethical framing of the same capacity
 - [[Goal adjustment capacity]] — disengaging and re-engaging flexibly predicts well-being
-
+- [[Implicit theories of intelligence]] — the capacity the two theories pull in opposite directions
 ## Sources
 
 - [Diamond, A., "Executive Functions" (2013, Annual Review of Psychology; PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4084861/) — definition, components, measurement tasks, aging

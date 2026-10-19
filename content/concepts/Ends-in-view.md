@@ -13,6 +13,13 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 - **planning** — Dewey, Human Nature and Conduct
 
+## Related concepts
+
+
+
+- [[Goal adjustment capacity]] — Dewey's revisable goals as the compendium's reengagement discipline
+- [[Graded task assignment (Beck, BA)]] — Dewey's revisable goals as the frame for the graded steps
+- [[Learning by doing]] — Dewey's account of the goals that guide the trying
 ## Sources
 
 - Dewey, Human Nature and Conduct

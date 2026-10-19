@@ -20,6 +20,10 @@ work as a source of meaning predicts well-being beyond income (Wrzesniewski et a
 
 - predicts well-being (Wrzesniewski et al., 1997)
 
+## Related concepts
+
+- [[Right livelihood]] — the ancient version of work-as-calling
+
 ## Sources
 
 - Wrzesniewski et al., 1997

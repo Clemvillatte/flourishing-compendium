@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 people prefer the current state even when alternatives are better (Samuelson & Zeckhauser, 1988).
 
+## Related concepts
+
+- [[Sunk cost effect]] — the cousin bias that keeps past choices in place
+
 ## Sources
 
 - Samuelson & Zeckhauser, 1988

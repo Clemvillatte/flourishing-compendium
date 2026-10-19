@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Avidyā is primordial ignorance — the misidentification of the Self with body, mind, and world that Vedānta names as the root knot binding us to [[Samsara]]. Its removal is [[Moksha]] ([Wikipedia Avidya](https://en.wikipedia.org/wiki/Avidya_(Buddhism))).
 
+## Related concepts
+
+- [[Brahman]] — the ignorance that conceals the identity
+
 ## Sources
 - Wikipedia Avidyā: https://en.wikipedia.org/wiki/Avidya_(Buddhism)
 

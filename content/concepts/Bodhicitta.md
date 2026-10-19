@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Bodhicitta” — Santideva, Bodhicaryavatara.
 
+## Related concepts
+
+- [[Four immeasurables]] — the Mahayana extension of the four
+
 ## Sources
 
 - Santideva, Bodhicaryavatara

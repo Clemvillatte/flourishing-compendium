@@ -11,8 +11,9 @@ Excellence (aretē) — the Greek concept of virtue as the excellent functioning
 
 ## Related concepts
 
-- [[Virtue]] — the Greek root of virtue: excellence of any thing at its work
 
+- [[Virtue]] — the Greek root of virtue: excellence of any thing at its work
+- [[Boulesis (rational desire)]] — the good person's wish tracks the truth because character is the 'norm and measure' (NE III.4)
 ## Sources
 - Wikipedia Arete: https://en.wikipedia.org/wiki/Arete
 

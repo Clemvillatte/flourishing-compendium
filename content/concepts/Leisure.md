@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Leisure” — Pieper, Leisure: The Basis of Culture.
 
+## Related concepts
+
+- [[Sabbath]] — the sanctified ancestor of the leisure ideal
+
 ## Sources
 
 - Pieper, Leisure: The Basis of Culture

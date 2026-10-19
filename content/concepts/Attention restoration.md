@@ -13,6 +13,11 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 - **from soft fascination** — Kaplan, 1995
 
+## Related concepts
+
+
+- [[Sabbath]] — the mandated rest that attention science later mapped
+- [[Peak experiences]] — soft fascination, the restful attention that invites peaks
 ## Sources
 
 - Kaplan, 1995

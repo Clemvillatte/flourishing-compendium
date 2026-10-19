@@ -10,6 +10,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 “Transcendence” — Jaspers, Philosophy.
 
 - Wilson, 2002
+## Related concepts
+
+- [[Peak experiences]] — the self-transcendence the peak delivers
+
 ## Sources
 
 - Jaspers, Philosophy

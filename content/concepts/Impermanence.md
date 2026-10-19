@@ -14,6 +14,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 - Buddhist psychology
 - Buddhism, Five Aggregates
 - Satipatthana Sutta
+## Related concepts
+
+- [[Buddhist emptiness of inherent nature]] — the arising and ceasing that chapter 24 ties to dependent origination
+
 ## Sources
 
 - Buddhism, Three Marks of Existence

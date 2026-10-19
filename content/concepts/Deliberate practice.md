@@ -26,8 +26,11 @@ expertise built through structured feedback (Ericsson et al., 1993).
 
 ## Related concepts
 
-- [[Attention]] — attention aimed at improvement
 
+
+- [[Attention]] — attention aimed at improvement
+- [[Effortless action through long effort]] — the effortful training whose output is the effortless edge
+- [[Growth through practice]] — the contemplative ancestor of effortful training
 ## Sources
 
 - Ericsson et al., 1993

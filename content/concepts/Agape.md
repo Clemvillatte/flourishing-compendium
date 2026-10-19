@@ -10,6 +10,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 “Agape” — Christian tradition; Christian tradition, New Testament; Kierkegaard, Works of Love.
 
 - Aquinas, Summa Theologiae
+## Related concepts
+
+- [[Four immeasurables]] — unconditional Christian love as a comparison tradition
+
 ## Sources
 
 - Christian tradition

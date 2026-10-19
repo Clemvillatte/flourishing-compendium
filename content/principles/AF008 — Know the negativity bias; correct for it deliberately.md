@@ -24,7 +24,7 @@ Bad is stronger than good: negative information is processed more thoroughly, we
 
 ## Philosophy parallels
 
-- **Cultivating gratitude as a counterweight** (Stoics, Seneca, Letters)
+- **[[Gratitude|Cultivating gratitude as a counterweight]]** (Stoics, Seneca, Letters)
 - **[[Reversal (fu)|Reversal (fu)]]** (Daoism, Daodejing 40)
 
 ## Practice

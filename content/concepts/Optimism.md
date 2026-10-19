@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Optimism” — Seligman, 1991.
 
+## Related concepts
+
+- [[Hope]] — the belief hope is not, per Marcel's distinction
+
 ## Sources
 
 - Seligman, 1991

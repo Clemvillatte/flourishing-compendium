@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Despair” — Kierkegaard, The Sickness unto Death.
 
+## Related concepts
+
+- [[Hope]] — what hope refuses, the opposite pole
+
 ## Sources
 
 - Kierkegaard, The Sickness unto Death

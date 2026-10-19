@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Solitude — chosen aloneness as a condition of self-recollection. The traditions balance it against community: the hermit and the sangha, the philosopher's walk and the polis.
 
+## Related concepts
+
+- [[Capacity to be alone (Winnicott)]] — chosen aloneness compared with Winnicott's account of contented aloneness
+
 ## Sources
 - Wikipedia Solitude: https://en.wikipedia.org/wiki/Solitude
 

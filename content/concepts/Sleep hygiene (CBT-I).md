@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 behavioural practices that support sleep (Morin et al., 2006; Stepanski & Perlis, 2000).
 
+## Related concepts
+
+- [[Sabbath]] — the weekly rhythm the sleep clinic prescribes daily
+
 ## Sources
 
 - Morin et al., 2006

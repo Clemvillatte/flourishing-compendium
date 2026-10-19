@@ -12,8 +12,11 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 ## Related concepts
 
-- [[Distributed cognition / extended mind]] — the thesis that tools and others can be constituents of cognition
 
+
+- [[Distributed cognition / extended mind]] — the thesis that tools and others can be constituents of cognition
+- [[Embodied cognition]] — the umbrella programme this strand belongs to
+- [[Mind in life]] — the research programme the book develops
 ## Sources
 
 - Varela, Thompson and Rosch, The Embodied Mind

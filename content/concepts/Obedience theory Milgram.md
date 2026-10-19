@@ -15,3 +15,8 @@ Sociocultural · Psychological science
 [[SO032 — Treat social influence as inevitable and manageable]]
 [[B160 — Question authority — even the Buddha's]]
 ## Cited in philosophy parallels
+
+
+## Related concepts
+
+- [[Moral situation research]] — the moral-choice literature that reads Milgram's evidence

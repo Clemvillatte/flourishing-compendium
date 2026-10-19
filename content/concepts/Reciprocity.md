@@ -11,6 +11,10 @@ unconditional first moves build cooperation (Cialdini, 2001).
 
 - Axelrod, 1984
 - Gilligan, In a Different Voice
+## Related concepts
+
+- [[Gratitude]] — the exchange structure gratitude sits in and can exceed
+
 ## Sources
 
 - Cialdini, 2001

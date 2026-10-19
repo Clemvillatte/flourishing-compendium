@@ -12,6 +12,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 - Bandura, 1997, modeling
 - the feedback literatures
 - the series' modeling kernels
+## Related concepts
+
+- [[Behavioural rehearsal / role-play (DBT, social skills training)]] — demonstrating a target behaviour before the learner rehearses it
+
 ## Sources
 
 - Bandura, 1977

@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Moral exemplarism” — Zagzebski, Exemplarist Moral Theory.
 
+## Related concepts
+
+- [[Social learning theory (Bandura)]] — the psychology behind learning from exemplars
+
 ## Sources
 
 - Zagzebski, Exemplarist Moral Theory

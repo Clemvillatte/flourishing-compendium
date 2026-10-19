@@ -17,3 +17,8 @@ Overt Behavior · Psychological science
 [[D011 — Choose the soft over the hard]]
 [[PP010 — Distinguish intrinsic from extrinsic aspirations]]
 [[SO044 — Treat the WEIRD critique as a standing corrective]]
+
+
+## Related concepts
+
+- [[Behavior analysis]] — Thorndike's stamping-in of satisfied responses is the direct precursor of reinforcement

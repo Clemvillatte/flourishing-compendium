@@ -13,6 +13,11 @@ planning specific activities at specific times increases engagement and improves
 
 - **in [[Behavioral activation|behavioral activation]]** — Dimidjian et al., 2011
 
+## Related concepts
+
+
+- [[Graded task assignment (Beck, BA)]] — the activation toolkit the assignment belongs to
+- [[Lifestyle pillars of mental health]] — the scheduling practice that delivers the lifestyle pillars
 ## Sources
 
 - Martell et al., 2001

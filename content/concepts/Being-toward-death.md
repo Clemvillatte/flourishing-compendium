@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Sein-zum-Tode: for Heidegger, Dasein is its possibilities, and death is the possibility that individualizes — no one can die for me. Owning finitude (rather than fleeing it in [[The they (das Man)|the they]]) frees resoluteness ([Wikipedia Being-toward-death](https://en.wikipedia.org/wiki/Being-toward-death)). Resonates with [[Memento mori]] and the Buddhist contemplation of mortality.
 
+## Related concepts
+
+- [[Being and beings]] — death as the possibility that individualizes Dasein
+
 ## Sources
 - Wikipedia Being-toward-death: https://en.wikipedia.org/wiki/Being-toward-death
 

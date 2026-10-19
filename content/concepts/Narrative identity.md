@@ -23,13 +23,16 @@ R105 and E083 carry the concept as practice, SE011 and SE042 are its structural 
 
 ## Related concepts
 
+
+
 - [[Life story model]] — the psychological research tradition on life stories
 - [[Fixed views of self]] — the frozen story, an in-compendium contrast
 - [[Narrative therapy]] — the therapeutic rewriting of the story
 - [[Meaning-making]] — the interpretive work stories do
 - [[The observing self]] — the teller distinct from the told
 - [[The relational self]] — identity co-authored with its witnesses
-
+- [[Moral identity]] — the story form moral identity often takes
+- [[Narrative redemption sequences]] — the construct the sequences are coded within
 ## Sources
 
 - [SEP, "Paul Ricoeur" (Pellauer, Dauenhauer & Scott)](https://plato.stanford.edu/entries/ricoeur/)

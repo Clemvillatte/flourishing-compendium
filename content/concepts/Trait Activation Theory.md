@@ -17,3 +17,8 @@ Self · Psychological science
 [[SE066 — Recognise the role of challenge in growth — difficulty develops self]]
 [[SE030 — Recognise and work with shame — shame is about the self, not the act]]
 [[E504 — Spare a person shame]]
+
+
+## Related concepts
+
+- [[PEN Model]] — the trait dimensions that situations activate

@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 (Sonnentag and Fritz, 2007), during off-time predicts next-day engagement and long-term health.
 
+## Related concepts
+
+- [[Sabbath]] — the institutionalized version of weekly detachment
+
 ## Sources
 
 - Sonnentag and Fritz, 2007

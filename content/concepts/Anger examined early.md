@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Anger examined early” — Seneca, On Anger.
 
+## Related concepts
+
+- [[Anger regulation research]] — the empirical study of how anger is regulated
+
 ## Sources
 
 - Seneca, On Anger

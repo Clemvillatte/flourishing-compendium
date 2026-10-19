@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Being-for-others” — Sartre, Being and Nothingness.
 
+## Related concepts
+
+- [[Being and beings]] — Sartre's account of being-seen, which E036 takes up
+
 ## Sources
 
 - Sartre, Being and Nothingness

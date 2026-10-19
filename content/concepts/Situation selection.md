@@ -21,8 +21,9 @@ situational strategies — choosing environments rather than resisting temptatio
 
 ## Related concepts
 
-- [[Context-dependent behaviour (Wood & Neal)]] — the context-cue mechanism that choosing contexts upstream works on
 
+- [[Context-dependent behaviour (Wood & Neal)]] — the context-cue mechanism that choosing contexts upstream works on
+- [[Emotion regulation]] — the earliest family in Gross's model
 ## Sources
 
 - Duckworth et al., 2016

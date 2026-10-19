@@ -9,6 +9,11 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Phenomenological psychology” — Colaizzi, 1978; Giorgi, 2009.
 
+## Related concepts
+
+
+- [[Mind in life]] — the psychology that takes lived experience seriously
+- [[Phenomenological methods in psychology]] — the tradition the methods operationalize
 ## Sources
 
 - Colaizzi, 1978

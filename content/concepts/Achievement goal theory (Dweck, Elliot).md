@@ -10,6 +10,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 mastery (learning) goals vs performance (proving) goals (Dweck, 1986; Elliot & Church, 1997).
 
+## Related concepts
+
+- [[Implicit theories of intelligence]] — the goal framework the implicit theories feed into
+
 ## Sources
 
 - learning

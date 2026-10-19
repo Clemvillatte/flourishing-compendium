@@ -30,6 +30,13 @@ automaticity emerges over a median of 66 days (Lally et al., 2010).
 - automaticity grows with repetition (Lally et al., 2010; Wood and Neal, 2007)
 - automaticity builds through repetition in consistent contexts (Lally et al., 2010)
 
+## Related concepts
+
+
+
+- [[Graded task assignment (Beck, BA)]] — the gradual shaping the technique exploits
+- [[Learning by doing]] — the stable outcomes of repeated doing and undergoing
+- [[Character as habits]] — compare that page's acquisition account with James's historical explanation
 ## Sources
 
 - Lally et al., 2010

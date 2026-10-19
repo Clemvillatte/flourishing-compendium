@@ -13,6 +13,10 @@ the philosophical base of ACT, where workability replaces literal truth as the c
 
 - **and ACT**
 
+## Related concepts
+
+- [[Behavior analysis]] — P078 connects both through its contextual treatment of action
+
 ## Sources
 
 - Hayes et al., 2011

@@ -9,6 +9,11 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 breath and body sensations serve as stable anchors for returning attention (Lutz et al., 2008; Tang et al., 2015).
 
+## Related concepts
+
+
+- [[Attention]] — the mechanics of training attention
+- [[Mindful attention]] — the meditative technique's anchor objects
 ## Sources
 
 - Lutz et al., 2008

@@ -10,6 +10,11 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 behaviour is shaped by its consequences (Skinner, 1953; Ferster & Skinner, 1957).
 
+## Related concepts
+
+
+- [[Behavior analysis]] — the three-term contingency is the unit operant conditioning fills in
+- [[Behavioural chaining (applied behaviour analysis)]] — each link relies on operant reinforcement
 ## Sources
 
 - Skinner, 1953

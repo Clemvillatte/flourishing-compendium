@@ -17,3 +17,8 @@ Biophysiological · Psychological science
 [[D069 — Don't meet force with force]]
 [[D050 — Keep a mirror-mind]]
 [[SO044 — Treat the WEIRD critique as a standing corrective]]
+
+
+## Related concepts
+
+- [[Social learning theory (Bandura)]] — the Bandura account of imitation, for comparison with the neural story

@@ -28,6 +28,7 @@ The concept anchors the attention track: AT054 trains attention through delibera
 ## Related concepts
 
 
+
 - [[Sati]] — the Buddhist factor of mindful remembering
 - [[Flow]] — absorption in what one is doing, for its own sake
 - [[Anapanasati (mindfulness of breathing)]] — the breath as a portable anchor of attention
@@ -38,6 +39,7 @@ The concept anchors the attention track: AT054 trains attention through delibera
 - [[The attention economy]] — Simon's scarcity, commercialised
 - [[Deliberate practice]] — attention aimed at improvement
 - [[Care]] — Weil and Noddings both make attention the substance of care
+- [[Mindful attention]] — the underlying capacity being trained
 ## Sources
 
 - [Wikipedia, Attention](https://en.wikipedia.org/wiki/Attention) — original seed citation; James's definition

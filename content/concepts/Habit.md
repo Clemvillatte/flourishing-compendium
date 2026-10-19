@@ -13,6 +13,15 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 - Dewey, Human Nature and Conduct
 - Aristotle, Nicomachean Ethics II.1
 - Wood and Neal, 2007
+## Related concepts
+
+
+
+
+- [[Context-dependent behaviour (Wood & Neal)]] — the Wood-Neal model that redefined habit as context-cued responding
+- [[Effortless action through long effort]] — automaticity with a Daoist reading: the several thousand oxen behind the sharp blade
+- [[Behavioural chaining (applied behaviour analysis)]] — BE024 describes everyday routines as habit chains
+- [[Character as habits]] — the companion page for the phenomenon James examines
 ## Sources
 
 - James, The Principles of Psychology, ch. IV

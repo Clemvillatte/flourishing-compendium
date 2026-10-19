@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Winnicott, 1958.
 
+## Related concepts
+
+- [[Capacity to be alone (Winnicott)]] — the sibling page carrying the same Winnicott citation
+
 ## Sources
 
 - Winnicott, 1958

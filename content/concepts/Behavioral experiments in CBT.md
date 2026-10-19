@@ -11,8 +11,9 @@ testing beliefs through action (Bennett-Levy et al., 2004).
 
 ## Related concepts
 
-- [[Avoidance versus attentional engagement]] — testing beliefs through action instead of avoiding the test
 
+- [[Avoidance versus attentional engagement]] — testing beliefs through action instead of avoiding the test
+- [[Behavioural rehearsal / role-play (DBT, social skills training)]] — testing predictions through action, a different practice format
 ## Sources
 
 - Bennett-Levy et al., 2004

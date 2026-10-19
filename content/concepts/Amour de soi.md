@@ -15,8 +15,9 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 ## Related concepts
 
-- [[Amor sui (right self-love)]] — the rational form of self-love Spinoza defends
 
+- [[Amor sui (right self-love)]] — the rational form of self-love Spinoza defends
+- [[Natural goodness of the unformed human]] — the natural self-love the doctrine rests on
 ## Sources
 
 - Rousseau, Discourse on the Origin of Inequality

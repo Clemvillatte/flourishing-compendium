@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Socratic ignorance” — Plato, Apology; Socrates, in Plato, Apology.
 
+## Related concepts
+
+- [[Docta ignorantia]] — the Renaissance Christian reception that named the state a form of knowledge
+
 ## Sources
 
 - Plato, Apology

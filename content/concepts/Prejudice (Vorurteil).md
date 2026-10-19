@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Prejudice (Vorurteil)” — Gadamer, Truth and Method.
 
+## Related concepts
+
+- [[Fusion of horizons]] — Gadamer's rehabilitation of prejudice as the condition the fusion presupposes
+
 ## Sources
 
 - Gadamer, Truth and Method

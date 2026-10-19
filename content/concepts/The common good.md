@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “The common good” — Aristotle, Politics; Sandel, Justice.
 
+## Related concepts
+
+- [[Ubuntu]] — consensus and collective responsibility are ubuntu's political face
+
 ## Sources
 
 - Aristotle, Politics

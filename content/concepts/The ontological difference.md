@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “The ontological difference” — Heidegger, Being and Time; Introduction to Metaphysics.
 
+## Related concepts
+
+- [[Being and beings]] — the formal name for the distinction between Sein and das Seiende
+
 ## Sources
 
 - Heidegger, Being and Time

@@ -13,6 +13,10 @@ systematic tense-release reduces arousal (Jacobson, 1938; Lehrer & Gevirtz, 2014
 
 - **and applied relaxation**
 
+## Related concepts
+
+- [[Graded exposure / systematic desensitisation (Wolpe)]] — the relaxation response Wolpe paired with the anxiety hierarchy
+
 ## Sources
 
 - Jacobson, 1938

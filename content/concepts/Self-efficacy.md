@@ -25,6 +25,17 @@ belief in one's capability predicts initiation and persistence (Bandura, 1977).
 
 - belief in one's capacity to act predicts outcomes (Bandura, 1977)
 
+## Related concepts
+
+
+
+
+
+- [[Social learning theory (Bandura)]] — the construct Bandura added when the theory went cognitive
+- [[Graded task assignment (Beck, BA)]] — the belief the proximal steps build, per Bandura and Schunk
+- [[Hope]] — the agency component's nearest neighbour in Snyder's theory
+- [[Implicit theories of intelligence]] — the control belief Dweck says the theories are really about
+- [[Learning by doing]] — the belief about agency that the doing builds
 ## Sources
 
 - Bandura, 1977

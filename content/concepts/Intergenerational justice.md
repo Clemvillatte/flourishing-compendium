@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Intergenerational justice” — Jonas, The Imperative of Responsibility.
 
+## Related concepts
+
+- [[Future time perspective]] — the long horizon as a matter of duty
+
 ## Sources
 
 - Jonas, The Imperative of Responsibility

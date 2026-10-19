@@ -16,6 +16,13 @@ The distinction to hold: awe is not delight or excitement — delight fits its o
 An example at its smallest: one unhurried look at the night sky, taken monthly, with no photograph — the accommodation is the point, and the phone's camera relieves it.
 
 Its contemplative cognates are [[Shunyata]] (vastness beyond categories) and the [[Dao]] it gestures at.
+## Related concepts
+
+
+
+- [[Gratitude]] — self-diminishing wonder, another benefit-focused emotion
+- [[Future time perspective]] — the present-expanding experience that widens temporal horizons
+- [[Peak experiences]] — the signature emotion of the peak
 ## Sources
 
 - Keltner and Haidt, 2003

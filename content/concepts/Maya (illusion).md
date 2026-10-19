@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Maya (illusion)” — Vedanta; Vedanta, Upanishads.
 
+## Related concepts
+
+- [[Brahman]] — the power by which plurality appears on Brahman
+
 ## Sources
 
 - Vedanta

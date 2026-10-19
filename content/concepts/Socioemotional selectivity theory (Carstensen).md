@@ -10,6 +10,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 older adults prioritise emotionally meaningful goals (Carstensen et al., 1999; Carstensen, 2006).
 
+## Related concepts
+
+- [[Positivity effect]] — the effect this theory predicts
+
 ## Sources
 
 - Carstensen et al., 1999

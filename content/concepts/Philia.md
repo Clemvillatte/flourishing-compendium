@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Aristotle's virtue of friendship — wishing the good of the other for their own sake, requiring shared activity and time. The best philia is between the virtuous; it is necessary for [[Eudaimonia]] ([IEP Aristotle's Ethics](https://iep.utm.edu/aris-eth/)).
 
+## Related concepts
+
+- [[A063]] — the principle that carries philia's necessity-for-flourishing claim; Philia's page cites no principle
+
 ## Sources
 - IEP Aristotle's Ethics: https://iep.utm.edu/aris-eth/
 

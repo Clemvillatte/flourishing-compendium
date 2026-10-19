@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 skilled perception of action possibilities in the environment (Gibson, 1979).
 
+## Related concepts
+
+- [[Embodied cognition]] — the programme that Gibson's affordances feed into
+
 ## Sources
 
 - Gibson, 1979

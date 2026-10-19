@@ -9,6 +9,11 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Second nature” — Aristotle, NE II.
 
+## Related concepts
+
+
+- [[Effortless action through long effort]] — the Cook Ding account of skill becoming second nature
+- [[Growth through practice]] — the Buddhist version of capacities becoming second nature
 ## Sources
 
 - Aristotle, NE II

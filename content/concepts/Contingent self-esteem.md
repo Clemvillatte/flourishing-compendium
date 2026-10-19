@@ -15,6 +15,11 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 - self-worth staked on external validation predicts fragility (Crocker, 2002)
 
+## Related concepts
+
+
+- [[Amor sui (right self-love)]] — self-approval from reason, the Ethics' contrast to feedback-dependent self-regard
+- [[Social comparison]] — the comparison habit that contingency feeds
 ## Sources
 
 - Deci and Ryan, 1995

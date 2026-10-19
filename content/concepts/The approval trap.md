@@ -11,8 +11,13 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 ## Related concepts
 
-- [[Escape from freedom]] — the trap is Fromm's esteem-driven route out of freedom
 
+
+
+- [[Escape from freedom]] — the trap is Fromm's esteem-driven route out of freedom
+- [[Fixed views of self]] — others' approval as the external contingency Crocker's scale measures
+- [[Narcissism versus healthy self-regard]] — the external contingency narcissism runs on
+- [[Natural goodness of the unformed human]] — amour-propre's modern form, esteem from others
 ## Sources
 
 - Fromm, Escape from Freedom

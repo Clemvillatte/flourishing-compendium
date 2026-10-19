@@ -15,8 +15,15 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 - Stoics, Marcus Aurelius, Meditations
 ## Related concepts
 
-- [[Freedom]] — the fruit of freedom of judgment (Stoic face)
 
+
+
+
+- [[Freedom]] — the fruit of freedom of judgment (Stoic face)
+- [[Emotion regulation]] — the process model's target state, in the contemplative key
+- [[Four immeasurables]] — upekkha is the fourth immeasurable
+- [[Judgment adds the harm]] — the trained stance that withholds the judgment
+- [[Mindful attention]] — the nonjudgmental stance the definition requires
 ## Sources
 
 - Desbordes et al., 2014

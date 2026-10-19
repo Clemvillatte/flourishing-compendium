@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “The search for meaning” — Frankl, Man's Search for Meaning.
 
+## Related concepts
+
+- [[Life story model]] — the existential project the life story serves
+
 ## Sources
 
 - Frankl, Man's Search for Meaning

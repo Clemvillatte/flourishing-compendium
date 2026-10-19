@@ -10,6 +10,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 anxiety impairs goal-directed attentional control and increases stimulus-driven attention (Eysenck et al., 2007; Eysenck & Derakshan, 2011).
 
+## Related concepts
+
+- [[Attention]] — how anxiety taxes attention
+
 ## Sources
 
 - Eysenck et al., 2007

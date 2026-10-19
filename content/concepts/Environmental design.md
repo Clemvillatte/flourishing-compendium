@@ -13,6 +13,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 - **over willpower** — Aristotle, Politics
 
+## Related concepts
+
+- [[Context-dependent behaviour (Wood & Neal)]] — the context-response model motivating changes to environmental cues
+
 ## Sources
 
 - Aristotle, Politics

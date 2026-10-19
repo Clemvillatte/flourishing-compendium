@@ -13,6 +13,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 - **research** — Haidt, 2003
 
+## Related concepts
+
+- [[Moral identity]] — the affective side of moral functioning
+
 ## Sources
 
 - Tangney et al., 2007

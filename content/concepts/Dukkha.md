@@ -15,12 +15,15 @@ Dukkha's cross-tradition family is the problem-statements of the wisdom traditio
 
 ## Related concepts
 
+
+
 - [[Four Noble Truths]] — dukkha as the first truth
 - [[Tanha]] — dukkha's named cause
 - [[Nirvana]] — dukkha's named cessation
 - [[Impermanence]] — why grasped experience disappoints
 - [[The second arrow]] — pain versus added suffering
-
+- [[Judgment adds the harm]] — the suffering the judgment adds to pain
+- [[Buddhist emptiness of inherent nature]] — Arnold's reading of chapter 24: suffering can be caused to cease only if contingent
 ## Sources
 
 - Buddha, Dhammacakkappavattana Sutta (SN 56.11)

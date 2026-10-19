@@ -15,12 +15,13 @@ The Dao is also the Chinese member of a family of concepts that name the self-or
 
 ## Related concepts
 
+
 - [[Wu wei]] — acting with, not against, the Dao
 - [[Ziran (naturalness)]] — the Dao's model is what is so of itself
 - [[Panta rhei]] — Heraclitus: everything flows
 - [[Flow]] — alignment as felt experience
 - [[Stream of consciousness]] — the flowing pattern of mind
-
+- [[Brahman]] — a cross-tradition pairing offered for reflection, not a claimed influence
 ## Sources
 
 - Laozi, Daodejing 1, 4, 25, 51

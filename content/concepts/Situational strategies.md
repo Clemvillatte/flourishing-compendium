@@ -13,6 +13,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 - **for self-control** — Duckworth et al., 2016
 
+## Related concepts
+
+- [[Moral situation research]] — the research base for situation-shaping strategies
+
 ## Sources
 
 - Duckworth et al., 2016

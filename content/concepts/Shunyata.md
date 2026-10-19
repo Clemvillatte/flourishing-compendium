@@ -26,12 +26,14 @@ For flourishing, shunyata functions as a [[Cognitive defusion|cognitive defusion
 ## Related concepts
 
 
+
 - [[Interbeing]] — Thich Nhat Hanh: emptiness as interdependence
 - [[Dependent origination]] — the causal form of emptiness
 - [[Wu (non-being)]] — the Daoist non-essence
 
 - Nagarjuna, MMK 15
 - [[Cognitive flexibility]] — the executive-function construct that parallels loosening fixed essences
+- [[Buddhist emptiness of inherent nature]] — the Sanskrit term's own page for the same Madhyamaka doctrine
 ## Sources
 
 - [Wikipedia, Nagarjuna](https://en.wikipedia.org/wiki/Nagarjuna) — definition, MMK chapter and verse references, and the samsara/nirvana identity at MMK 22.19–20.

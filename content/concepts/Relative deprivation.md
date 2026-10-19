@@ -14,6 +14,10 @@ unfavorable comparisons predict hostility and distress (Crosby, 1976).
 
 - **and health** — Marmot, 2005
 
+## Related concepts
+
+- [[Social comparison]] — the group-level extension of comparison research
+
 ## Sources
 
 - Crosby, 1976

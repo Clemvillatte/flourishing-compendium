@@ -40,12 +40,13 @@ The principles put the cosmology into practice. M002 expects the cosmos itself t
 
 ## Related concepts
 
+
 - [[Wu wei]] — the non-forcing action that movement requires
 - [[Flow]] — the psychological state the knack stories describe
 - [[Self as process]] — the self as ceaselessly transforming
 - [[Panta rhei]] — Heraclitus's flux, a comparison from the Greek side
 - [[Learning by doing]] — the skill-and-underdoing cycle the knack stories run on
-
+- [[Lifestyle pillars of mental health]] — the exercise pillar as a philosophy of living
 ## Cited in philosophy parallels
 
 - [[BI025 — Learn that aerobic exercise is particularly effective for mood]]

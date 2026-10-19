@@ -13,6 +13,10 @@ psychological detachment and relaxation predict performance (Sonnentag and Fritz
 
 - psychological detachment and mastery (Sonnentag and Fritz, 2007)
 
+## Related concepts
+
+- [[Sabbath]] — the ancient weekly container for the recovery taxonomy
+
 ## Sources
 
 - Sonnentag and Fritz, 2007

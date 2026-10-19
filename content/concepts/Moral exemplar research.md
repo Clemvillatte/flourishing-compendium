@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Moral exemplar research” — Walker and Frimer, 2007.
 
+## Related concepts
+
+- [[Social learning theory (Bandura)]] — the modeling mechanism behind exemplar research
+
 ## Sources
 
 - Walker and Frimer, 2007

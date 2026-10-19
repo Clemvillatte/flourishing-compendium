@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 well-being depends on oscillation between strain and recovery, not continuous output (Sonnentag and Fritz, 2007).
 
+## Related concepts
+
+- [[Sabbath]] — the rhythm this institution set to seven days
+
 ## Sources
 
 - Sonnentag and Fritz, 2007

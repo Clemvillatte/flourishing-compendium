@@ -22,6 +22,10 @@ Its contemplative cognates are [[Interoceptive awareness]] (the inside view made
 - **as instrument** — Merleau-Ponty
 - **and social position** — Fanon, Black Skin, White Masks; Merleau-Ponty, Phenomenology of Perception
 
+## Related concepts
+
+- [[Mind in life]] — the phenomenological side of the continuity
+
 ## Sources
 
 - Husserl, Ideas II

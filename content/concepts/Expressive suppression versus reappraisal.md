@@ -11,8 +11,9 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 ## Related concepts
 
-- [[Anger regulation research]] — the field whose central comparison produced this page's evidence
 
+- [[Anger regulation research]] — the field whose central comparison produced this page's evidence
+- [[Emotion regulation]] — the framework behind this comparison
 ## Sources
 
 - Gross and John, 2003

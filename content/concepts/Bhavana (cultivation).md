@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Bhavana (cultivation)” — Buddhism.
 
+## Related concepts
+
+- [[Growth through practice]] — the general theory of change this term carries
+
 ## Sources
 
 - Buddhism

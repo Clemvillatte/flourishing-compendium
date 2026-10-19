@@ -25,6 +25,10 @@ the capacity to adapt behavior to context outperforms rigid control-based coping
 
 - inflexibility is trans-diagnostically linked to psychopathology (Kashdan and Rottenberg, 2010)
 
+## Related concepts
+
+- [[Cognitive flexibility]] — the executive-function construct, offered as a comparison
+
 ## Sources
 
 - Kashdan and Rottenberg, 2010

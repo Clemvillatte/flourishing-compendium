@@ -10,6 +10,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 the account of love bonds as systems of felt security and its regulation (Bowlby, Attachment and Loss).
 
+## Related concepts
+
+- [[Family systems theory]] — the developmental account of the bonds the family system is built on
+
 ## Sources
 
 - Mikulincer and Shaver, 2007

@@ -14,6 +14,10 @@ processing speed and fluid intelligence decline from the 20s-30s; crystallised i
 
 - **and attention**
 
+## Related concepts
+
+- [[Positivity effect]] — the effect that ageing research must not confuse with decline
+
 ## Sources
 
 - Salthouse, 2004

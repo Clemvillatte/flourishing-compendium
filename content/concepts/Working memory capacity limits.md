@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 roughly 4±1 chunks of information can be actively maintained (Cowan, 2001; Baddeley, 2003).
 
+## Related concepts
+
+- [[Cognitive flexibility]] — flexibility loads its new perspectives into working memory
+
 ## Sources
 
 - Cowan, 2001

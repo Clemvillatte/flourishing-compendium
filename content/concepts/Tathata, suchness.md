@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Tathata, suchness” — Buddhist tradition, the Tathata-lakshana.
 
+## Related concepts
+
+- [[Buddhist emptiness of inherent nature]] — a further reading question: how does 'suchness' differ from absence of inherent nature?
+
 ## Sources
 
 - Buddhist tradition, the Tathata-lakshana

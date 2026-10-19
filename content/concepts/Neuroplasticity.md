@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 experience-dependent brain change across the lifespan (Draganski et al., 2004).
 
+## Related concepts
+
+- [[Growth through practice]] — the traditional claim that practice changes the practitioner
+
 ## Sources
 
 - Draganski et al., 2004

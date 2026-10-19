@@ -25,4 +25,8 @@ Its great Greek rival is [[Ataraxia]] — tranquility as the goal rather than ac
 
 ## Related concepts
 
+
+
 - [[Virtue]] — the flourishing virtue is the road to
+- [[Future time perspective]] — flourishing as the long game the orientation serves
+- [[Boulesis (rational desire)]] — wishing to be happy is the NE III.2 example; choosing the acts is not

@@ -9,6 +9,15 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 self-concept is dynamic and continually updated (Markus & Wurf, 1987; Oyserman et al., 2012).
 
+## Related concepts
+
+
+
+
+- [[Fixed views of self]] — the dynamic self-concept as the processual alternative to the fixed view
+- [[Life story model]] — the self as ongoing construction, the processual reading of the story
+- [[Movement as life]] — the self as ceaselessly transforming, Zhuangzi's wuhua
+- [[Narrative redemption sequences]] — the self as story-in-progress rather than verdict
 ## Sources
 
 - James, 1890

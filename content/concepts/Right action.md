@@ -10,3 +10,8 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 "Right action"
 
 ## Cited in philosophy parallels
+
+
+## Related concepts
+
+- [[Right livelihood]] — the path factor this concept sits beside in the virtue division

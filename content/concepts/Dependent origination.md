@@ -13,6 +13,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 - **as causality** — Nagarjuna, Mulamadhyamakakarika
 
+## Related concepts
+
+- [[Buddhist emptiness of inherent nature]] — the co-arising MMK 24.18 identifies with emptiness
+
 ## Sources
 
 - Buddhism, Nagarjuna, Mulamadhyamakakarika

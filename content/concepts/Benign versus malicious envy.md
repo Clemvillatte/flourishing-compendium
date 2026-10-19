@@ -10,6 +10,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Benign versus malicious envy” — van de Ven, Zeelenberg and Pieters, 2009.
 
+## Related concepts
+
+- [[Social comparison]] — the upward comparison that splits envy's two forms
+
 ## Sources
 
 - van de Ven, Zeelenberg and Pieters, 2009

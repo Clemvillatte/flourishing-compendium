@@ -11,8 +11,9 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 ## Related concepts
 
-- [[Ubuntu]] — interdependence extended from persons to all things
 
+- [[Ubuntu]] — interdependence extended from persons to all things
+- [[Buddhist emptiness of inherent nature]] — an editorial cross-reading: compare with dependent origination without assuming equivalence
 ## Sources
 
 - Hanh, Interbeing

@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 the operational component of attending to raw experience before interpretation (Bishop et al., 2004, the two-component definition).
 
+## Related concepts
+
+- [[Body scan in MBSR (Kabat-Zinn)]] — the scan asks for bare attention to each body region before interpretation
+
 ## Sources
 
 - Bishop et al., 2004, the two-component definition

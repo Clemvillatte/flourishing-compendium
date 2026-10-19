@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Mastery orientation” — Ames, 1992.
 
+## Related concepts
+
+- [[Implicit theories of intelligence]] — the response pattern the incremental theory predicts
+
 ## Sources
 
 - Ames, 1992

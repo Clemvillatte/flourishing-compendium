@@ -67,3 +67,7 @@ principles queue is untouched.
 ## Incident log (w1d agent)
 
 - 2026-10-19: Agent D (w1d) enriched `content/concepts/The eternal contribution.md` by mistake (it is in w1ae's manifest). Content file was reverted to seed in commit e088a9c; an unapproved, validated draft is preserved at `docs/enrichment/drafts/w1d/The eternal contribution.md` for the w1ae agent to reuse or discard. Its reciprocal proposals were removed from `proposals/w1d.json`.
+
+## Supervisor notes
+
+- 2026-10-19 (genuineflourishing24, supervisor): E068 (p1d) was FAILING validation (prose 307 > 300) at the c714190 fix; RESOLVED by the p1d agent (b971d43/9dd23e7) — validator ok as of this supervisor pass. No action needed.

@@ -46,13 +46,14 @@ The compendium treats the fixed view as a diagnosis with an antidote. P001 build
 
 ## Related concepts
 
+
 - [[Implicit theories of intelligence]] — Dweck's construct, the measured form of the fixed view
 - [[Growth mindset]] — the incremental alternative the compendium pairs it with
 - [[Self as process]] — the self-concept as dynamic and continually updated, the processual alternative
 - [[Narrative identity]] — the self as a story that can be revised
 - [[Anatta]] — the Buddhist no-self, the deepest version of holding the self lightly
 - [[The approval trap]] — others' approval as the external contingency Crocker's scale measures
-
+- [[Narrative redemption sequences]] — the frozen story, the diagnostic contrast
 ## Cited in psychology parallels
 
 - [[P001 — Build your life on becoming, not being]]

@@ -10,6 +10,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 authentic pride is achievement-based and stable; hubristic pride is self-aggrandising and defensive (Tracy & Robins, 2007).
 
+## Related concepts
+
+- [[Amor sui (right self-love)]] — Spinoza's distinction between reason-grounded self-approval and exaggerated self-estimation, as a comparison
+
 ## Sources
 
 - Tracy & Robins, 2007

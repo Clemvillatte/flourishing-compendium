@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 the ACT model in which openness to inner experience and committed action are trained as paired processes (Hayes, Strosahl and Wilson, 2011; a model comparison, not trial evidence for the sutra).
 
+## Related concepts
+
+- [[Emotion regulation]] — the ACT strategy family inside this taxonomy
+
 ## Sources
 
 - Hayes, Strosahl and Wilson, 2011

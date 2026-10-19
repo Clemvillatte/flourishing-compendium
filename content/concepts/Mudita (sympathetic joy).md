@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Mudita (sympathetic joy)” — Buddhism, Four Brahmaviharas; Buddhist tradition.
 
+## Related concepts
+
+- [[Gratitude]] — joy in another's good: gratitude's other-directed cousin
+
 ## Sources
 
 - Buddhism, Four Brahmaviharas

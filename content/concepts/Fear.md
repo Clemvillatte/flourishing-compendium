@@ -10,3 +10,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 "Fear"
 
 ## Cited in philosophy parallels
+
+
+## Related concepts
+
+
+- [[Graded exposure / systematic desensitisation (Wolpe)]] — the response being unlearned, step by step
+- [[Judgment adds the harm]] — the passion the judgment supplies

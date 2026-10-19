@@ -19,4 +19,6 @@ Cognition · Psychological science
 
 ## Related concepts
 
+
 - [[Distributed cognition / extended mind]] — the constitutive version of context-shaped cognition
+- [[Embodied cognition]] — the sibling view; the body side of context-shaped cognition

@@ -9,6 +9,11 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Anapanasati (mindfulness of breathing)” — Buddhism, Anapanasati Sutta.
 
+## Related concepts
+
+
+- [[Attention]] — the trained anchor of attention
+- [[Body scan in MBSR (Kabat-Zinn)]] — the breath-anchored counterpart practice within mindfulness training
 ## Sources
 
 - Buddhism, Anapanasati Sutta

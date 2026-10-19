@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 "Not this, not this" — the Upaniṣadic procedure of negation: the Self is found by subtracting every object and attribute from what you take yourself to be ([Wikipedia Neti neti](https://en.wikipedia.org/wiki/Neti_neti)).
 
+## Related concepts
+
+- [[Brahman]] — the negative language the Upaniṣads use for what Brahman is not
+
 ## Sources
 - Wikipedia Neti neti: https://en.wikipedia.org/wiki/Neti_neti
 

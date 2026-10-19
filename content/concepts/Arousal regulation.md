@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 postural and environmental interventions for low energy (Yerkes-Dodson).
 
+## Related concepts
+
+- [[PEN Model]] — the model that made arousal the mechanism of temperament
+
 ## Sources
 
 - Yerkes-Dodson

@@ -22,8 +22,15 @@ past-focused repetitive thought predicts depression (Nolen-Hoeksema, 2000).
 - Nolen-Hoeksema's rumination research
 ## Related concepts
 
-- [[Anger regulation research]] — the ingredient that made venting backfire in Bushman's experiment
 
+
+
+
+- [[Anger regulation research]] — the ingredient that made venting backfire in Bushman's experiment
+- [[Lifestyle pillars of mental health]] — the symptom the anti-ruminative pillar targets
+- [[Mindful attention]] — the pattern mindful attention interrupts
+- [[Phenomenological methods in psychology]] — the maladaptive wandering the sampling method measures
+- [[Avoidance versus attentional engagement]] — BA examines whether rumination functions as avoidance
 ## Sources
 
 - Nolen-Hoeksema, 2000

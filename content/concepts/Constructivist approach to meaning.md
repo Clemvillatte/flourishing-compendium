@@ -9,6 +9,11 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Constructivist approach to meaning” — Kelly, 1955; Neimeyer and Raskin, 2001.
 
+## Related concepts
+
+
+- [[Fusion of horizons]] — the constructivist frame for negotiated meaning
+- [[Learning by doing]] — the epistemology Dewey's pedagogy implies
 ## Sources
 
 - Kelly, 1955

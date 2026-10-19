@@ -20,8 +20,9 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 - Vowles et al., 2014
 ## Related concepts
 
-- [[Anger regulation research]] — acceptance-based strategies with meta-analytic support here
 
+- [[Anger regulation research]] — acceptance-based strategies with meta-analytic support here
+- [[Goal adjustment capacity]] — the stance that makes disengagement possible
 ## Sources
 
 - Hayes et al., 2006

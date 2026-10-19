@@ -50,12 +50,15 @@ The principles distribute the practice. R070 practises attentiveness and P097 tr
 
 ## Related concepts
 
+
+
 - [[Rumination]] — the pattern mindful attention interrupts
 - [[Anchors in focused attention meditation]] — the meditative technique's anchor objects
 - [[Flow]] — full engagement, the absorption cousin
 - [[Attention]] — the underlying capacity being trained
 - [[Equanimity]] — the nonjudgmental stance the definition requires
-
+- [[Phenomenological methods in psychology]] — the trained present-focus the mind-wandering finding favors
+- [[Body scan in MBSR (Kabat-Zinn)]] — the attentional stance the scan is meant to cultivate
 ## Cited in psychology parallels
 
 - [[R070 — Practise attentiveness]]

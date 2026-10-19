@@ -13,10 +13,11 @@ The psychological reading: beneath conditioning there is an original, uncut simp
 
 ## Related concepts
 
+
 - [[The examined life]] — the examined self is what remains when the carving is noticed
 - [[Ziran (naturalness)]] — the uncarved block acts naturally, of itself
 - [[Wu wei]] — non-forcing is how the uncarved block moves
-
+- [[Natural goodness of the unformed human]] — the Daoist unformed-good, a comparison tradition
 ## Sources
 
 - Laozi, Daodejing 15, 19, 28, 32, 37

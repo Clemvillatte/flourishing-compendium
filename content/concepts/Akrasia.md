@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Akrasia is acting against one's better judgment — "knowing the better and doing the worse." Aristotle treats it as curable, not invincible: it is a failure of habituation, not of reason as such ([IEP Aristotle's Ethics](https://iep.utm.edu/aris-eth/)). Socrates had denied its possibility; Aristotle's realism about it grounds his ethics of practice.
 
+## Related concepts
+
+- [[Boulesis (rational desire)]] — conflict between appetite and calculation, discussed in De Anima III.10
+
 ## Sources
 - IEP Aristotle's Ethics: https://iep.utm.edu/aris-eth/
 

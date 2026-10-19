@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Dasein” — Heidegger, Being and Time.
 
+## Related concepts
+
+- [[Being and beings]] — the being whose understanding of Being makes the difference visible
+
 ## Sources
 
 - Heidegger, Being and Time

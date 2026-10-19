@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Spontaneous right action” — Wang Yangming, Chuanxi Lu.
 
+## Related concepts
+
+- [[Right livelihood]] — the livelihood factor of the path this conduct belongs to
+
 ## Sources
 
 - Wang Yangming, Chuanxi Lu

@@ -16,6 +16,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 - **moderation research**
 - **delay of gratification**
 
+## Related concepts
+
+- [[Goal adjustment capacity]] — the parent process the two capacities belong to
+
 ## Sources
 
 - Gross, 2015

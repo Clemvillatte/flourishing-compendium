@@ -44,8 +44,9 @@ self-kindness versus harsh self-judgment predicts resilience (Neff, 2003; MacBet
 
 ## Related concepts
 
-- [[Amor sui (right self-love)]] — Spinoza's rational ground for kind self-regard
 
+- [[Amor sui (right self-love)]] — Spinoza's rational ground for kind self-regard
+- [[Four immeasurables]] — the modern clinical descendant of the set
 ## Sources
 
 - Neff, 2003

@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Being-in-the-world” — Heidegger, Being and Time.
 
+## Related concepts
+
+- [[Being and beings]] — the practical and social contexts within which Dasein understands beings
+
 ## Sources
 
 - Heidegger, Being and Time

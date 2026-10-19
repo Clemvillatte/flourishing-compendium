@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 people underestimate task duration and overestimate benefits (Buehler et al., 1994; Kahneman & Tversky, 1979).
 
+## Related concepts
+
+- [[Sunk cost effect]] — the forward bias that starts what sunk costs then trap
+
 ## Sources
 
 - Buehler et al., 1994

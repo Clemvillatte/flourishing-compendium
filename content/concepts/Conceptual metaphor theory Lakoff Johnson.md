@@ -14,3 +14,8 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY
 Cognition · Psychological science
 [[CO005 — Understand that thinking is embodied — the body shapes the mind]]
 ## Cited in philosophy parallels
+
+
+## Related concepts
+
+- [[Embodied cognition]] — the research programme behind the metaphor theory

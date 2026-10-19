@@ -14,6 +14,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 - R. H. Smith, 2000, Handbook of Social Comparison
 - Smith and Kim, 2007
 - van de Ven, Zeelenberg and Pieters, 2009
+## Related concepts
+
+- [[Social comparison]] — the comparison theory behind this emotion's mechanics
+
 ## Sources
 
 - La Rochefoucauld, Reflections

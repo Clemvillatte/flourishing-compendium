@@ -22,6 +22,10 @@ Naming a feeling requires first reading it — the bodily substrate is [[Interoc
 - reduces amygdala reactivity (Lieberman et al., 2007)
 - reduces amygdala response (Lieberman et al., 2007)
 
+## Related concepts
+
+- [[Emotion regulation]] — an attentional strategy within this taxonomy
+
 ## Sources
 
 - Lieberman et al., 2007

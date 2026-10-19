@@ -13,6 +13,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 - **of action** — Peirce, "How to Make Our Ideas Clear"
 
+## Related concepts
+
+- [[Context-dependent behaviour (Wood & Neal)]] — the research model of context-cued responding, as a comparison
+
 ## Sources
 
 - Peirce, "How to Make Our Ideas Clear"

@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 The ātman is the true Self — the unchanging witness-consciousness that Advaita Vedānta identifies as numerically identical with [[Brahman]] ([Śaṅkara, SEP](https://plato.stanford.edu/archives/spr2026/entries/shankara/)). What appears as an individual person (jīva) is the ātman seen through [[Maya (illusion)|māyā]]'s superimposition; realization ([[Moksha]]) is knowing "this Self is Brahman" ([IEP Advaita Vedanta](https://iep.utm.edu/advaita-vedanta/)). Cross-tradition: the Buddhist counter is [[Anatta]] (no-self); the Daoist resonance is the uncarved simplicity of [[Ziran (naturalness)]].
 
+## Related concepts
+
+- [[Brahman]] — Advaita holds Atman identical with Brahman
+
 ## Sources
 - Śaṅkara (SEP): https://plato.stanford.edu/archives/spr2026/entries/shankara/
 - Advaita Vedanta (IEP): https://iep.utm.edu/advaita-vedanta/

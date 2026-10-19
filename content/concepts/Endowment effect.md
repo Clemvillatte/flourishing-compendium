@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 ownership increases valuation (Kahneman et al., 1990; Thaler, 1980).
 
+## Related concepts
+
+- [[Sunk cost effect]] — the valuation twin of unrecoverable investment
+
 ## Sources
 
 - Kahneman et al., 1990

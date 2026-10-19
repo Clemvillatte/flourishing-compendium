@@ -17,6 +17,10 @@ a flexible, non-grasping relation to experience predicts well-being beyond mindf
 
 - ([Sahdra et al. review] (https://non-attachment.com/...)
 
+## Related concepts
+
+- [[Cognitive flexibility]] — the executive-function account of switching perspectives, as a comparison
+
 ## Sources
 
 - Sahdra et al., 2010

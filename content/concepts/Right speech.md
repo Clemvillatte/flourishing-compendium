@@ -21,6 +21,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 - **honest and direct** — Buddhism
 - **includes right notification** — Buddhism, Eightfold Path, adapted
 
+## Related concepts
+
+- [[Right livelihood]] — the neighboring factor in the virtue grouping
+
 ## Sources
 
 - Buddhism, Eightfold Path

@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Prohairesis (deliberate choice)” — Aristotle, Nicomachean Ethics III.
 
+## Related concepts
+
+- [[Boulesis (rational desire)]] — wish is for ends; choice, deliberate desire, for means in our power (NE III.2)
+
 ## Sources
 
 - Aristotle, Nicomachean Ethics III

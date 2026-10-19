@@ -17,3 +17,8 @@ Affect · Psychological science
 
 - [[P171 — Watch your explanatory style]]
 ## Cited in philosophy parallels
+
+
+## Related concepts
+
+- [[Hope]] — the trainable cousin from positive psychology

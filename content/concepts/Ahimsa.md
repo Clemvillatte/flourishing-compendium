@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Non-harm — the first yama (restraint) of yoga and the floor of Indic ethics. Gandhi made it the engine of political action; it grounds all the traditions' instructions on speech, diet, and conduct ([Wikipedia Ahimsa](https://en.wikipedia.org/wiki/Ahimsa)).
 
+## Related concepts
+
+- [[Four immeasurables]] — non-harm as the ethical base the four rest on
+
 ## Sources
 - Wikipedia Ahimsa: https://en.wikipedia.org/wiki/Ahimsa
 

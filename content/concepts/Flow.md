@@ -37,8 +37,17 @@ For flourishing, flow suggests: (1) design your activities so that perceived cha
 - 2025-2026 meta-analyses on flow and mindfulness
 ## Related concepts
 
-- [[Attention]] — flow is attention at full absorption
 
+
+
+
+
+- [[Attention]] — flow is attention at full absorption
+- [[Effortless action through long effort]] — the Daoist story that anticipates the flow state
+- [[Goal adjustment capacity]] — engagement in the new pursuit, the felt side of reengagement
+- [[Mindful attention]] — full engagement, the absorption cousin of mindful attention
+- [[Movement as life]] — the psychological state the Zhuangzi knack stories describe
+- [[Peak experiences]] — the repeatable sibling construct
 ## Sources
 
 - [Wikipedia — Flow (psychology)](https://en.wikipedia.org/wiki/Flow_(psychology))

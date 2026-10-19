@@ -14,3 +14,8 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY
 Sociocultural · Psychological science
 [[ST054 — Rembrandt Paints His Own Face]]
 ## Cited in philosophy parallels
+
+
+## Related concepts
+
+- [[Independent vs interdependent self-construal (Markus & Kitayama)]] — the self-construals that predict the conflict styles

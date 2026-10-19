@@ -13,6 +13,13 @@ complex behaviours are built by reinforcing successive approximations (Skinner, 
 
 - complex behaviours are built by reinforcing approximations (Skinner, 1953; Ferster & Skinner, 1957)
 
+## Related concepts
+
+
+
+- [[Behavioural chaining (applied behaviour analysis)]] — the neighbouring procedure: chaining links existing steps, shaping builds new responses
+- [[Behavioural rehearsal / role-play (DBT, social skills training)]] — the sibling procedure, building responses by successive approximations
+- [[Character as habits]] — compare that page's account of successive approximations with James's practice maxims
 ## Sources
 
 - Skinner, 1953

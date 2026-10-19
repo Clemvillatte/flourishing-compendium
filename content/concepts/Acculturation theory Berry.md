@@ -16,3 +16,8 @@ Sociocultural · Psychological science
 [[SO073 — Use acculturation strategies deliberately]]
 [[SO063 — Treat migration and acculturation as a designable process]]
 ## Cited in philosophy parallels
+
+
+## Related concepts
+
+- [[Independent vs interdependent self-construal (Markus & Kitayama)]] — the self-construals that acculturation moves between

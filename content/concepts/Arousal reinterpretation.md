@@ -10,6 +10,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 relabelling arousal as excitement rather than anxiety improves performance under stress (Brooks, 2014).
 
+## Related concepts
+
+- [[PEN Model]] — the arousal systems this reinterpretation works on
+
 ## Sources
 
 - Brooks, 2014

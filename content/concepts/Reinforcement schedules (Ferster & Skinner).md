@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 continuous vs intermittent reinforcement have different effects on acquisition and extinction (Ferster & Skinner, 1957; Skinner, 1953).
 
+## Related concepts
+
+- [[Behavior analysis]] — how reinforcement arranged over time affects behavior
+
 ## Sources
 
 - Ferster & Skinner, 1957

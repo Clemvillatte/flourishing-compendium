@@ -9,6 +9,15 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “The need to belong” — Baumeister and Leary, 1995.
 
+## Related concepts
+
+
+
+
+- [[Ubuntu]] — ubuntu gives the belonging need a philosophical formulation
+- [[Escape from freedom]] — Fromm's secondary bonds, in the authoritarianism mechanism, promise to satisfy this need
+- [[Family systems theory]] — the motivational ground the family system answers
+- [[Lifestyle pillars of mental health]] — the connection pillar's motivational base
 ## Sources
 
 - Baumeister and Leary, 1995

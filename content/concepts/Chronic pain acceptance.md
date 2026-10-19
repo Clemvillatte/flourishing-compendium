@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 pain acceptance predicts functioning beyond pain intensity (McCracken, 1998; Vowles et al., 2014).
 
+## Related concepts
+
+- [[Body scan in MBSR (Kabat-Zinn)]] — the 1982 program's patient population, studied in that literature for how stance toward pain predicts suffering
+
 ## Sources
 
 - McCracken, 1998

@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Taking the role of the other” — Mead, Mind, Self and Society.
 
+## Related concepts
+
+- [[Fusion of horizons]] — Mead's social version of entering another's perspective
+
 ## Sources
 
 - Mead, Mind, Self and Society

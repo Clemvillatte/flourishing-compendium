@@ -16,3 +16,8 @@ Clinical Psychodynamic · Psychological science
 [[ST248 — Buber and the Tree]]
 [[ST283 — Sartre's Keyhole]]
 ## Cited in philosophy parallels
+
+
+## Related concepts
+
+- [[Capacity to be alone (Winnicott)]] — compare that page's account of internalised relationships with Winnicott's 'good internal object'

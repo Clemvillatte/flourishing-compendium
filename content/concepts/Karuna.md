@@ -15,12 +15,13 @@ Karuna's cross-tradition family is the compassion-traditions: the Christian mise
 
 ## Related concepts
 
+
 - [[Metta (loving-kindness)]] — its companion brahmavihara
 - [[Compassion]] — the cross-tradition hub
 - [[The bodhisattva vow]] — karuna's Mahāyāna expansion
 - [[Engaged Buddhism]] — karuna in the world
 - [[Agape]] — the Christian unconditional love
-
+- [[Four immeasurables]] — karuna is the second of the four immeasurables
 ## Sources
 
 - Buddhist tradition, Four Brahmaviharas

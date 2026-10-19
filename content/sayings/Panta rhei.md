@@ -16,8 +16,9 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 ## Related concepts
 
-- [[Eternal recurrence]] — Heraclitus's flux as a Greek comparison for the recurring world
 
+- [[Eternal recurrence]] — Heraclitus's flux as a Greek comparison for the recurring world
+- [[Movement as life]] — Heraclitus's flux as a comparison from the Greek side
 ## Sources
 
 - Heraclitus, Fragments

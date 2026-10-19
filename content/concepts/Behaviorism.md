@@ -17,3 +17,8 @@ Overt Behavior · Psychological science
 [[B185 — Water the good seeds]]
 [[B029 — Follow the gradual training]]
 [[CO077 — Recognise the limits of introspection — you do not have privileged access to your own mind]]
+
+
+## Related concepts
+
+- [[Behavior analysis]] — behavior analysis is Skinner's research program within the broader school

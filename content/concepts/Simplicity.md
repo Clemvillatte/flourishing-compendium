@@ -16,6 +16,10 @@ The distinction to hold: simplicity is not minimalism-as-aesthetic (owning exact
 An example at its smallest: the one-in-one-out rule — nothing new enters the house unless its counterpart leaves, and each purchase answered with "what attention will this cost me?"
 
 Its aesthetic form is [[Wabi-sabi]], its method [[Via negativa]] (subtraction as the way), its Daoist root [[Wu wei]].
+## Related concepts
+
+- [[Natural and necessary]] — the life the necessary desires point to
+
 ## Sources
 
 - Daoism

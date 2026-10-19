@@ -17,3 +17,8 @@ Self · Psychological science
 [[SE066 — Recognise the role of challenge in growth — difficulty develops self]]
 [[S020 — Remember that nothing can harm you except your own judgement]]
 [[MO020 — Recognise mastery vs performance goals — learning vs proving]]
+
+
+## Related concepts
+
+- [[PEN Model]] — the Eysenck alternative in biologically based personality

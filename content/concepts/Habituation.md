@@ -11,8 +11,11 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 ## Related concepts
 
-- [[Virtue]] — the acquisition route: become just by doing just acts
 
+
+- [[Virtue]] — the acquisition route: become just by doing just acts
+- [[Graded exposure / systematic desensitisation (Wolpe)]] — the learning mechanism the counter-conditioning exploits
+- [[Boulesis (rational desire)]] — A007's route for training desire to follow reason
 ## Sources
 
 - Aristotle, Nicomachean Ethics II

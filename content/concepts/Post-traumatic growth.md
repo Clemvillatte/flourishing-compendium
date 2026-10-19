@@ -14,6 +14,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 - **narrative** — Neimeyer, 2001
 - **mortality awareness** — Tedeschi and Calhoun, 2004
 
+## Related concepts
+
+- [[Narrative redemption sequences]] — the growth the redeemed story reports
+
 ## Sources
 
 - Bonanno, 2004

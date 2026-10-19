@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Collective efficacy” — Bandura, 2000; Bandura, 2001.
 
+## Related concepts
+
+- [[Distributed cognition / extended mind]] — the thesis that groups can be cognitive systems
+
 ## Sources
 
 - Bandura, 2000

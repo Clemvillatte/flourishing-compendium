@@ -199,6 +199,13 @@ For habit formation, the entry point is: front-load the effort. Practise when it
 In habit change, non-forcing is the design principle behind environment-first interventions: change the context so the desired behaviour is the path of least resistance, rather than relying on willpower to override the context. In conflict, it is the de-escalation principle: force generates counterforce. In parenting and management, it is the difference between compliance (produced by pressure, disappears when the pressure does) and internalisation (produced by structure and example, persists). The Confucian reading of Shun's "doing nothing" is precisely this: position and example do the work that direct command cannot ([Wikipedia](https://en.wikipedia.org/wiki/Wu_wei)).
 The philosophical analysis matters because it identifies the structure of the problem any self-improvement system faces: you cannot directly will yourself to be spontaneous, trusting, or unselfconscious; you can only set up conditions in which those states emerge. This is why habits, rituals, and training work when direct exhortation fails, and why the Confucian ritual solution is functionally the same insight as modern automaticity research: design the structure so the state emerges.
 
+## Related concepts
+
+
+
+- [[Effortless action through long effort]] — the training-story side of effortless action: Cook Ding and the nineteen-year blade
+- [[Goal adjustment capacity]] — the Daoist non-forcing that knows when to stop
+- [[Movement as life]] — the non-forcing action that movement requires
 ## Sources
 
 - [Wikipedia, Wu wei](https://en.wikipedia.org/wiki/Wu_wei) — definition, Daodejing chapter references including the chapter 37 formula in Chan and Lau translations, Confucian uses, and Slingerland's dating of the idea.

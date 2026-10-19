@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 sunk-cost thinking keeps people past the sensible stopping point (Sleesman et al., 2012).
 
+## Related concepts
+
+- [[Sunk cost effect]] — the individual bias behind organizational escalation
+
 ## Sources
 
 - Sleesman et al., 2012

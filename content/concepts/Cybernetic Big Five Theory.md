@@ -17,3 +17,8 @@ Self · Psychological science
 [[D039 — Make rest the root of activity]]
 [[SO044 — Treat the WEIRD critique as a standing corrective]]
 [[SE066 — Recognise the role of challenge in growth — difficulty develops self]]
+
+
+## Related concepts
+
+- [[PEN Model]] — the three-factor biological model the Big Five absorbed

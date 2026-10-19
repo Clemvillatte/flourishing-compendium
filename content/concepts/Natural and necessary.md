@@ -42,12 +42,13 @@ X008 makes the classification a practice: classify every desire before feeding i
 
 ## Related concepts
 
+
 - [[Desire]] — the thing being classified
 - [[Ataraxia]] — the tranquillity the classification serves
 - [[Simplicity]] — the life the necessary desires point to
 - [[Hedonic adaptation]] — the modern finding behind unnecessary desires' treadmill
 - [[The having mode]] — Fromm's diagnosis of the empty desires, a comparison
-
+- [[Natural goodness of the unformed human]] — Epicurus's natural needs, the compendium's other nature-claim
 ## Cited in philosophy parallels
 
 - [[X008 — Classify every desire before feeding it]]

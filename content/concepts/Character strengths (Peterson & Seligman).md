@@ -14,6 +14,10 @@ identifying and using signature strengths raises well-being (Peterson & Seligman
 - **interventions**
 - **as trainable**
 
+## Related concepts
+
+- [[Moral situation research]] — the situationist debate the strengths revival enters
+
 ## Sources
 
 - Peterson & Seligman, 2004

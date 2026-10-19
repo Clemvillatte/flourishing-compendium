@@ -10,7 +10,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kern
 ---
 > **Kernel K315** — Freedom in constraint
 
-Identify a constraint in your life (a job, a health condition, a family obligation). Within that constraint, list three choices you still have. The exercise is the existentialist insistence that freedom is not the absence of constraint but the response to constraint. Research on psychological flexibility (Hayes) shows that accepting constraints while choosing valued action within them predicts well-being.
+Identify a constraint in your life (a job, a health condition, a family obligation). Within that constraint, list three choices you still have. The exercise is the existentialist insistence that freedom is not the absence of constraint but the response to constraint. Research on [[Psychological flexibility|psychological flexibility (Hayes)]] shows that accepting constraints while choosing valued action within them predicts well-being.
 
 ## Operationalises
 

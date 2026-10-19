@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Vocation as calling” — Weber, The Protestant Ethic and the Spirit of Capitalism.
 
+## Related concepts
+
+- [[Right livelihood]] — the Buddhist precept as work alignment, for comparison
+
 ## Sources
 
 - Weber, The Protestant Ethic and the Spirit of Capitalism

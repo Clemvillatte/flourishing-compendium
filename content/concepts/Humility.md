@@ -19,6 +19,10 @@ accurate self-assessment plus other-orientation predicts relationship and leader
 - Kenosis distinction
 - the series' Book II, principle 35
 - Tangney, 2000
+## Related concepts
+
+- [[Narcissism versus healthy self-regard]] — the virtue on the healthy side of the distinction
+
 ## Sources
 
 - Owens et al., 2013

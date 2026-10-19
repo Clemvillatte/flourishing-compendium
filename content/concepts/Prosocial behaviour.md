@@ -14,6 +14,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 - **research**
 - **and well-being** — Dunn, Aknin and Norton, 2008
 
+## Related concepts
+
+- [[Future time perspective]] — the behavioural outcome the Future orientation is read as promoting
+
 ## Sources
 
 - Dunn, Aknin and Norton, 2008

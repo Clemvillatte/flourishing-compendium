@@ -10,6 +10,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Bicultural identity integration” — Benet-Martínez and Haritatos, 2005; Huynh et al., 2011.
 
+## Related concepts
+
+- [[Independent vs interdependent self-construal (Markus & Kitayama)]] — the two construals that bicultural individuals hold together
+
 ## Sources
 
 - Benet-Martínez and Haritatos, 2005

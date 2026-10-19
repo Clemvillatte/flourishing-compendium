@@ -13,6 +13,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 - **loved** — Goethe, the Spinozist poems, West-oestlicher Divan
 
+## Related concepts
+
+- [[Brahman]] — a cross-tradition pairing offered for reflection, not a claimed influence
+
 ## Sources
 
 - Spinoza, Ethics I

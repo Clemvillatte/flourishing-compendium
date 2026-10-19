@@ -13,3 +13,8 @@ Research on person-environment fit applied to temperament — outcomes improve w
 
 - [[D107 — Trust your own nature]]
 ## Cited in philosophy parallels
+
+
+## Related concepts
+
+- [[PEN Model]] — the superfactors that raise the fit question

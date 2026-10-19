@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 The interpretive structure: we understand the whole through its parts and the parts through the whole. Understanding is not a leap out of this circle but entering it rightly (Heidegger, Gadamer) ([Wikipedia Hermeneutic circle](https://en.wikipedia.org/wiki/Hermeneutic_circle)).
 
+## Related concepts
+
+- [[Fusion of horizons]] — the circular structure of understanding the fusion works within
+
 ## Sources
 - Wikipedia Hermeneutic circle: https://en.wikipedia.org/wiki/Hermeneutic_circle
 

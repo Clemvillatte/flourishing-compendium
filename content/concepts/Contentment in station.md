@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Contentment in station” — Epictetus, the role-playing counsels of the Discourses.
 
+## Related concepts
+
+- [[Gratitude]] — Stoic satisfaction with what one has
+
 ## Sources
 
 - Epictetus, the role-playing counsels of the Discourses

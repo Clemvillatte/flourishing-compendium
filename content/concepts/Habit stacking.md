@@ -17,6 +17,11 @@ An example at its smallest: after the morning coffee, sit for two minutes ([[B05
 
 Its kin are [[Implementation intentions]] (the if-then cousin in goal-setting research) and the contemplative sequence-first logic of [[Gradual training]].
 
+## Related concepts
+
+
+- [[Behavioural chaining (applied behaviour analysis)]] — the everyday cousin of the chaining recipe (comparison, not lineage)
+- [[Character as habits]] — compare its routine-anchoring recipe with James's advice to support resolutions
 ## Sources
 
 - Fogg, 2019

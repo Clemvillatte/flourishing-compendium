@@ -21,6 +21,15 @@ An example at its smallest: the evening review asks for one moment worth keeping
 - attending to and appreciating present experience (Bryant and Veroff, 2007)
 - Fredrickson, 2001
 
+## Related concepts
+
+
+
+
+- [[Gratitude]] — attending to the good while it is here
+- [[Positivity effect]] — the present-oriented emotional goal behind the tilt
+- [[Future time perspective]] — the present-side counterpart the Future orientation neglects
+- [[Peak experiences]] — the deliberate savouring of the experiences that come
 ## Sources
 
 - Bryant and Veroff, 2007

@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 passion and perseverance for long-term goals predict achievement (Duckworth et al., 2007).
 
+## Related concepts
+
+- [[Goal adjustment capacity]] — the rival virtue, persistence held against letting go
+
 ## Sources
 
 - Duckworth et al., 2007

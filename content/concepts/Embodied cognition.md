@@ -27,13 +27,14 @@ The compendium's embodiment principles state the programme directly. CO005, "Und
 
 ## Related concepts
 
+
 - [[Enactivism]] — the strand that grounds cognition in sensorimotor activity
 - [[Conceptual metaphor theory Lakoff Johnson]] — the linguistic arm of Conceptualization
 - [[Affordances]] — Gibson's term for what the environment offers the moving body
 - [[Situated cognition theory]] — the context-first sibling
 - [[Distributed cognition / extended mind]] — the version that extends past the body into the world
 - [[Body scan in MBSR (Kabat-Zinn)]] — the contemplative practice built on body-first attention
-
+- [[Mind in life]] — the cognitive science the life-mind thesis joins
 ## Other formulations in this library
 
 - posture influences affect and confidence (Nair et al., 2015)

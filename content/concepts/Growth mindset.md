@@ -18,6 +18,13 @@ beliefs about malleability shape persistence and outcomes, with context-dependen
 
 - beliefs about malleability shape persistence (Dweck, 2006; effect sizes vary by context)
 
+## Related concepts
+
+
+
+- [[Growth through practice]] — the 2,500-year-old version of growth as trainable
+- [[Fixed views of self]] — the incremental alternative the fixed view is contrasted with
+- [[Implicit theories of intelligence]] — the popular form of the incremental theory the page measures
 ## Sources
 
 - Dweck, 2006

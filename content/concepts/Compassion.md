@@ -19,8 +19,10 @@ Its Buddhist original is [[Karuna]], its Confucian cousin [[Ren]], and its psych
 ## Related concepts
 
 
+
 - [[Ubuntu]] — compassion listed among the marks of a person with ubuntu (Tutu)
 - [[Care]] — being moved by suffering: care's affective engine
+- [[Four immeasurables]] — the general concept karuna instantiates as the second immeasurable
 ## Sources
 
 - Goetz et al., 2010

@@ -26,6 +26,7 @@ The compendium wires the concept to its habit and flow principles. A108, "Practi
 
 ## Related concepts
 
+
 - [[Wu wei]] — the parent concept this page concretizes
 - [[Flow]] — the psychology state the skill stories anticipate
 - [[Effortless attention]] — the attention-science cousin
@@ -33,7 +34,7 @@ The compendium wires the concept to its habit and flow principles. A108, "Practi
 - [[Second nature]] — what the long effort literally builds
 - [[Habit]] — automaticity as the mechanical cousin
 - [[Character as habits]] — second nature at the level of character
-
+- [[Growth through practice]] — the Buddhist version of the long-effort arc
 ## Sources
 
 - Zhuangzi, Inner Chapters (original citation, kept)

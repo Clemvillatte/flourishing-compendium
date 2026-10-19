@@ -33,6 +33,11 @@ The contemplative traditions named it first: [[Impermanence]] is the law of whic
 - **and novelty seeking** — Lyubomirsky, 2011
 - **applied to positive states**
 
+## Related concepts
+
+
+- [[Gratitude]] — the taking-for-granted that gratitude counters
+- [[Natural and necessary]] — the modern finding behind the unnecessary-desire treadmill
 ## Sources
 
 - Lyubomirsky, 2011

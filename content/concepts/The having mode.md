@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “The having mode” — Fromm, To Have or To Be?.
 
+## Related concepts
+
+- [[Natural and necessary]] — Fromm's diagnosis of the empty desires, a comparison
+
 ## Sources
 
 - Fromm, To Have or To Be?

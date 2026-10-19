@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 modeling is the primary channel of behavior transmission (Bandura, 1977).
 
+## Related concepts
+
+- [[Social learning theory (Bandura)]] — the theory that named and tested this mechanism
+
 ## Sources
 
 - Bandura, 1977

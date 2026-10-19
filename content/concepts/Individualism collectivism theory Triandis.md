@@ -14,3 +14,8 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY
 Sociocultural · Psychological science
 [[SO012 — Use cultural values as a lens, not a cage]]
 ## Cited in philosophy parallels
+
+
+## Related concepts
+
+- [[Independent vs interdependent self-construal (Markus & Kitayama)]] — the self-level companion of this values-level theory

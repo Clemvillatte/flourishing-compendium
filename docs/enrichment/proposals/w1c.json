@@ -26,74 +26,14 @@
  "inline": [],
  "reciprocal": [
   {
-   "into": "Conatus",
-   "link": "Amor sui (right self-love)",
-   "why": "the self-love reason demands of a being that strives to persevere"
-  },
-  {
-   "into": "Contingent self-esteem",
-   "link": "Amor sui (right self-love)",
-   "why": "self-approval from reason, the Ethics' contrast to feedback-dependent self-regard"
-  },
-  {
-   "into": "Authentic versus hubristic pride",
-   "link": "Amor sui (right self-love)",
-   "why": "Spinoza's distinction between reason-grounded self-approval and exaggerated self-estimation, as a comparison"
-  },
-  {
-   "into": "Emotion regulation",
-   "link": "Anger regulation research",
-   "why": "emotion regulation applied to the specific case of anger"
-  },
-  {
    "into": "Extended process model of emotion regulation",
    "link": "Anger regulation research",
    "why": "the strategy-comparison evidence relevant to this model"
   },
   {
-   "into": "Anger examined early",
-   "link": "Anger regulation research",
-   "why": "the empirical study of how anger is regulated"
-  },
-  {
-   "into": "Psychological flexibility",
-   "link": "Cognitive flexibility",
-   "why": "the executive-function construct, offered as a comparison"
-  },
-  {
-   "into": "Working memory capacity limits",
-   "link": "Cognitive flexibility",
-   "why": "flexibility loads its new perspectives into working memory"
-  },
-  {
-   "into": "Nonattachment",
-   "link": "Cognitive flexibility",
-   "why": "the executive-function account of switching perspectives, as a comparison"
-  },
-  {
-   "into": "Dialectical thinking",
-   "link": "Cognitive flexibility",
-   "why": "the capacity that switching between contradictory frames draws on"
-  },
-  {
-   "into": "Goal adjustment capacity",
-   "link": "Cognitive flexibility",
-   "why": "the executive-function construct related to flexible disengagement"
-  },
-  {
-   "into": "Habit",
-   "link": "Context-dependent behaviour (Wood & Neal)",
-   "why": "the Wood-Neal model that redefined habit as context-cued responding"
-  },
-  {
    "into": "Context-dependent repetition (Lally)",
    "link": "Context-dependent behaviour (Wood & Neal)",
    "why": "the theoretical model behind the formation-side evidence"
-  },
-  {
-   "into": "Environmental design",
-   "link": "Context-dependent behaviour (Wood & Neal)",
-   "why": "the context-response model motivating changes to environmental cues"
   },
   {
    "into": "Designing the environment for virtue",
@@ -106,94 +46,9 @@
    "why": "the mechanism underneath character-as-habits claims"
   },
   {
-   "into": "Belief as habit",
-   "link": "Context-dependent behaviour (Wood & Neal)",
-   "why": "the research model of context-cued responding, as a comparison"
-  },
-  {
-   "into": "Embodied cognition",
-   "link": "Distributed cognition / extended mind",
-   "why": "the sibling programme that extends cognition into the world"
-  },
-  {
-   "into": "Collective efficacy",
-   "link": "Distributed cognition / extended mind",
-   "why": "the thesis that groups can be cognitive systems"
-  },
-  {
-   "into": "Socratic ignorance",
-   "link": "Docta ignorantia",
-   "why": "the Renaissance Christian reception that named the state a form of knowledge"
-  },
-  {
-   "into": "Beginner's mind",
-   "link": "Docta ignorantia",
-   "why": "not-already-knowing as a practice shape, for comparison"
-  },
-  {
-   "into": "Epistemic humility",
-   "link": "Docta ignorantia",
-   "why": "the premodern ancestor of humility about one's own knowledge"
-  },
-  {
-   "into": "Hierarchy of Needs Theory",
-   "link": "ERG Theory",
-   "why": "Alderfer's reworking of this model into three simultaneous needs"
-  },
-  {
-   "into": "Self-actualization (Maslow)",
-   "link": "ERG Theory",
-   "why": "the theory that recast this need as the growth category"
-  },
-  {
-   "into": "Self-determination",
-   "link": "ERG Theory",
-   "why": "another needs theory without a ladder, for comparison"
-  },
-  {
-   "into": "Acquired Needs Theory (McClelland)",
-   "link": "ERG Theory",
-   "why": "the fixed-categories alternative to learned needs"
-  },
-  {
-   "into": "Frustration–aggression hypothesis",
-   "link": "ERG Theory",
-   "why": "frustration-regression, for comparison with frustration's aggressive route"
-  },
-  {
-   "into": "Job characteristics model",
-   "link": "ERG Theory",
-   "why": "needs theory applied to work design"
-  },
-  {
-   "into": "Wu wei",
-   "link": "Effortless action through long effort",
-   "why": "the training-story side of effortless action: Cook Ding and the nineteen-year blade"
-  },
-  {
-   "into": "Flow",
-   "link": "Effortless action through long effort",
-   "why": "the Daoist story that anticipates the flow state"
-  },
-  {
    "into": "Effortless attention",
    "link": "Effortless action through long effort",
    "why": "the Zhuangzian version of effortlessness in the attention literature"
-  },
-  {
-   "into": "Deliberate practice",
-   "link": "Effortless action through long effort",
-   "why": "the effortful training whose output is the effortless edge"
-  },
-  {
-   "into": "Second nature",
-   "link": "Effortless action through long effort",
-   "why": "the Cook Ding account of skill becoming second nature"
-  },
-  {
-   "into": "Habit",
-   "link": "Effortless action through long effort",
-   "why": "automaticity with a Daoist reading: the several thousand oxen behind the sharp blade"
   },
   {
    "into": "Character as habits",
@@ -201,64 +56,9 @@
    "why": "second nature at the level of character, per Cook Ding"
   },
   {
-   "into": "Enactivism",
-   "link": "Embodied cognition",
-   "why": "the umbrella programme this strand belongs to"
-  },
-  {
-   "into": "Conceptual metaphor theory Lakoff Johnson",
-   "link": "Embodied cognition",
-   "why": "the research programme behind the metaphor theory"
-  },
-  {
-   "into": "Affordances",
-   "link": "Embodied cognition",
-   "why": "the programme that Gibson's affordances feed into"
-  },
-  {
-   "into": "Situated cognition theory",
-   "link": "Embodied cognition",
-   "why": "the sibling view; the body side of context-shaped cognition"
-  },
-  {
-   "into": "Distributed cognition / extended mind",
-   "link": "Embodied cognition",
-   "why": "the body-side version of the same anti-Cartesian programme"
-  },
-  {
    "into": "Body scan in MBSR (Kabat-Zinn)",
    "link": "Embodied cognition",
    "why": "the research programme behind body-first attention practices"
-  },
-  {
-   "into": "Anger regulation research",
-   "link": "Emotion regulation",
-   "why": "the parent model that the anger-specific evidence tests"
-  },
-  {
-   "into": "Cognitive reappraisal",
-   "link": "Emotion regulation",
-   "why": "the process model that makes this strategy central"
-  },
-  {
-   "into": "Expressive suppression versus reappraisal",
-   "link": "Emotion regulation",
-   "why": "the framework behind this comparison"
-  },
-  {
-   "into": "Situation selection",
-   "link": "Emotion regulation",
-   "why": "the earliest family in Gross's model"
-  },
-  {
-   "into": "Affect labeling",
-   "link": "Emotion regulation",
-   "why": "an attentional strategy within this taxonomy"
-  },
-  {
-   "into": "Acceptance alongside values-based action",
-   "link": "Emotion regulation",
-   "why": "the ACT strategy family inside this taxonomy"
   },
   {
    "into": "Distress tolerance (DBT)",
@@ -266,99 +66,9 @@
    "why": "the clinical skills built on this model"
   },
   {
-   "into": "Equanimity",
-   "link": "Emotion regulation",
-   "why": "the process model's target state, in the contemplative key"
-  },
-  {
-   "into": "Bhavana (cultivation)",
-   "link": "Growth through practice",
-   "why": "the general theory of change this term carries"
-  },
-  {
-   "into": "Deliberate practice",
-   "link": "Growth through practice",
-   "why": "the contemplative ancestor of effortful training"
-  },
-  {
-   "into": "Second nature",
-   "link": "Growth through practice",
-   "why": "the Buddhist version of capacities becoming second nature"
-  },
-  {
-   "into": "Effortless action through long effort",
-   "link": "Growth through practice",
-   "why": "the Buddhist version of the long-effort arc"
-  },
-  {
-   "into": "Growth mindset",
-   "link": "Growth through practice",
-   "why": "the 2,500-year-old version of growth as trainable"
-  },
-  {
-   "into": "Learning by doing",
-   "link": "Growth through practice",
-   "why": "the contemplative counterpart to growth as activity"
-  },
-  {
-   "into": "Neuroplasticity",
-   "link": "Growth through practice",
-   "why": "the traditional claim that practice changes the practitioner"
-  },
-  {
-   "into": "The relational self",
-   "link": "Independent vs interdependent self-construal (Markus & Kitayama)",
-   "why": "the cross-cultural research programme behind the relational self"
-  },
-  {
-   "into": "Ubuntu",
-   "link": "Independent vs interdependent self-construal (Markus & Kitayama)",
-   "why": "the psychological theory that parallels this personhood"
-  },
-  {
-   "into": "Individualism collectivism theory Triandis",
-   "link": "Independent vs interdependent self-construal (Markus & Kitayama)",
-   "why": "the self-level companion of this values-level theory"
-  },
-  {
-   "into": "Face negotiation theory",
-   "link": "Independent vs interdependent self-construal (Markus & Kitayama)",
-   "why": "the self-construals that predict the conflict styles"
-  },
-  {
-   "into": "Bicultural identity integration",
-   "link": "Independent vs interdependent self-construal (Markus & Kitayama)",
-   "why": "the two construals that bicultural individuals hold together"
-  },
-  {
-   "into": "Acculturation theory Berry",
-   "link": "Independent vs interdependent self-construal (Markus & Kitayama)",
-   "why": "the self-construals that acculturation moves between"
-  },
-  {
-   "into": "Phronesis",
-   "link": "Moral situation research",
-   "why": "the experimental challenge that phronesis must answer"
-  },
-  {
-   "into": "Practical wisdom",
-   "link": "Moral situation research",
-   "why": "the situationist pressure on trait-based accounts of wisdom"
-  },
-  {
-   "into": "Obedience theory Milgram",
-   "link": "Moral situation research",
-   "why": "the moral-choice literature that reads Milgram's evidence"
-  },
-  {
    "into": "Designing the environment for virtue",
    "link": "Moral situation research",
    "why": "the research programme that motivates virtue design"
-  },
-  {
-   "into": "Situational strategies",
-   "link": "Moral situation research",
-   "why": "the research base for situation-shaping strategies"
   },
   {
    "into": "Character as habits",
@@ -366,205 +76,10 @@
    "why": "the situationist critique of character-as-habits"
   },
   {
-   "into": "Character strengths (Peterson & Seligman)",
-   "link": "Moral situation research",
-   "why": "the situationist debate the strengths revival enters"
-  },
-  {
-   "into": "Cybernetic Big Five Theory",
-   "link": "PEN Model",
-   "why": "the three-factor biological model the Big Five absorbed"
-  },
-  {
-   "into": "Cloninger's Psychobiological Model of Temperament and Character",
-   "link": "PEN Model",
-   "why": "the Eysenck alternative in biologically based personality"
-  },
-  {
-   "into": "Temperament-environment fit",
-   "link": "PEN Model",
-   "why": "the superfactors that raise the fit question"
-  },
-  {
-   "into": "Arousal regulation",
-   "link": "PEN Model",
-   "why": "the model that made arousal the mechanism of temperament"
-  },
-  {
-   "into": "Arousal reinterpretation",
-   "link": "PEN Model",
-   "why": "the arousal systems this reinterpretation works on"
-  },
-  {
-   "into": "Trait Activation Theory",
-   "link": "PEN Model",
-   "why": "the trait dimensions that situations activate"
-  },
-  {
-   "into": "Socioemotional selectivity theory (Carstensen)",
-   "link": "Positivity effect",
-   "why": "the effect this theory predicts"
-  },
-  {
-   "into": "Future time perspective",
-   "link": "Positivity effect",
-   "why": "the horizon shift that produces the positive tilt"
-  },
-  {
-   "into": "Negativity bias",
-   "link": "Positivity effect",
-   "why": "the age trend that reverses this bias"
-  },
-  {
-   "into": "Cognitive ageing",
-   "link": "Positivity effect",
-   "why": "the effect that ageing research must not confuse with decline"
-  },
-  {
-   "into": "Emotion regulation",
-   "link": "Positivity effect",
-   "why": "the attentional strategy that aging delivers by default"
-  },
-  {
-   "into": "Savoring",
-   "link": "Positivity effect",
-   "why": "the present-oriented emotional goal behind the tilt"
-  },
-  {
-   "into": "Right action",
-   "link": "Right livelihood",
-   "why": "the path factor this concept sits beside in the virtue division"
-  },
-  {
-   "into": "Right speech",
-   "link": "Right livelihood",
-   "why": "the neighboring factor in the virtue grouping"
-  },
-  {
-   "into": "Spontaneous right action",
-   "link": "Right livelihood",
-   "why": "the livelihood factor of the path this conduct belongs to"
-  },
-  {
-   "into": "Vocation as calling",
-   "link": "Right livelihood",
-   "why": "the Buddhist precept as work alignment, for comparison"
-  },
-  {
-   "into": "Calling orientation",
-   "link": "Right livelihood",
-   "why": "the ancient version of work-as-calling"
-  },
-  {
-   "into": "Psychological detachment",
-   "link": "Sabbath",
-   "why": "the institutionalized version of weekly detachment"
-  },
-  {
-   "into": "Recovery experiences",
-   "link": "Sabbath",
-   "why": "the ancient weekly container for the recovery taxonomy"
-  },
-  {
-   "into": "Effort-recovery cycles",
-   "link": "Sabbath",
-   "why": "the rhythm this institution set to seven days"
-  },
-  {
-   "into": "Attention restoration",
-   "link": "Sabbath",
-   "why": "the mandated rest that attention science later mapped"
-  },
-  {
-   "into": "Leisure",
-   "link": "Sabbath",
-   "why": "the sanctified ancestor of the leisure ideal"
-  },
-  {
-   "into": "Sleep hygiene (CBT-I)",
-   "link": "Sabbath",
-   "why": "the weekly rhythm the sleep clinic prescribes daily"
-  },
-  {
-   "into": "Envy",
-   "link": "Social comparison",
-   "why": "the comparison theory behind this emotion's mechanics"
-  },
-  {
-   "into": "Benign versus malicious envy",
-   "link": "Social comparison",
-   "why": "the upward comparison that splits envy's two forms"
-  },
-  {
-   "into": "Relative deprivation",
-   "link": "Social comparison",
-   "why": "the group-level extension of comparison research"
-  },
-  {
-   "into": "Contingent self-esteem",
-   "link": "Social comparison",
-   "why": "the comparison habit that contingency feeds"
-  },
-  {
    "into": "Fragile vs secure high self-esteem (Kernis)",
    "link": "Social comparison",
    "why": "who is hurt or helped by upward comparison"
-  },
-  {
-   "into": "Self-efficacy",
-   "link": "Social learning theory (Bandura)",
-   "why": "the construct Bandura added when the theory went cognitive"
-  },
-  {
-   "into": "Observational learning",
-   "link": "Social learning theory (Bandura)",
-   "why": "the theory that named and tested this mechanism"
-  },
-  {
-   "into": "Moral exemplar research",
-   "link": "Social learning theory (Bandura)",
-   "why": "the modeling mechanism behind exemplar research"
-  },
-  {
-   "into": "Moral exemplarism",
-   "link": "Social learning theory (Bandura)",
-   "why": "the psychology behind learning from exemplars"
-  },
-  {
-   "into": "Mirror neuron theory of empathy",
-   "link": "Social learning theory (Bandura)",
-   "why": "the Bandura account of imitation, for comparison with the neural story"
-  },
-  {
-   "into": "Escalation of commitment",
-   "link": "Sunk cost effect",
-   "why": "the individual bias behind organizational escalation"
-  },
-  {
-   "into": "Goal adjustment capacity",
-   "link": "Sunk cost effect",
-   "why": "the disposition the theater experiment measures the lack of"
-  },
-  {
-   "into": "Status quo bias",
-   "link": "Sunk cost effect",
-   "why": "the cousin bias that keeps past choices in place"
-  },
-  {
-   "into": "Endowment effect",
-   "link": "Sunk cost effect",
-   "why": "the valuation twin of unrecoverable investment"
-  },
-  {
-   "into": "Planning fallacy",
-   "link": "Sunk cost effect",
-   "why": "the forward bias that starts what sunk costs then trap"
-  },
-  {
-   "into": "Regret Theory",
-   "link": "Sunk cost effect",
-   "why": "the anticipated regret that drives throwing good money after bad"
   }
  ],
- "notes": "First concept: Amor sui (right self-love). All 12 original links preserved. Facets section (vs self-contempt) folded into prose. Definition quote is Ethics IIIp55 scholium (verified against Gutenberg Elwes text); rational demand is IVp18 scholium. Related-clause support sources (SEP Rousseau/Nietzsche/Stoicism, Wikipedia self-compassion) listed in the page's Sources section. | deferred at this run (target band busy): 6 recip, 0 inline | deferred at this run (target band busy): 21 recip, 0 inline"
+ "notes": "First concept: Amor sui (right self-love). All 12 original links preserved. Facets section (vs self-contempt) folded into prose. Definition quote is Ethics IIIp55 scholium (verified against Gutenberg Elwes text); rational demand is IVp18 scholium. Related-clause support sources (SEP Rousseau/Nietzsche/Stoicism, Wikipedia self-compassion) listed in the page's Sources section. | deferred at this run (target band busy): 6 recip, 0 inline | deferred at this run (target band busy): 21 recip, 0 inline | deferred at this run (target band busy): 11 recip, 0 inline"
 }

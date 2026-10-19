@@ -39,13 +39,14 @@ The compendium treats the principle as an epistemology of practice. P042 states 
 
 ## Related concepts
 
+
 - [[Ends-in-view]] — Dewey's account of the goals that guide the trying
 - [[Habit formation]] — the stable outcomes of repeated doing and undergoing
 - [[Reflective practice]] — Schön's professional descendant of the reflection requirement
 - [[Constructivist approach to meaning]] — the epistemology Dewey's pedagogy implies
 - [[Self-efficacy]] — the belief about agency that the doing builds
 - [[Graded task assignment (Beck, BA)]] — the clinical application of sequenced doing
-
+- [[Growth through practice]] — the contemplative counterpart to growth as activity
 ## Cited in philosophy parallels
 
 - [[P042 — Learn by doing]]

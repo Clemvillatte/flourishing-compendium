@@ -13,6 +13,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 - **and self-monitoring** — Schön, 1983
 
+## Related concepts
+
+- [[Learning by doing]] — the professional descendant of Dewey's reflection requirement
+
 ## Sources
 
 - Schön, 1983

@@ -42,6 +42,7 @@ The compendium scales the technique to self-help size. BE027 teaches graded expo
 
 ## Related concepts
 
+
 - [[Exposure therapy (Foa, Craske)]] — the modern clinical form of the same approach
 - [[Progressive muscle relaxation (Jacobson)]] — the relaxation response Wolpe paired with the hierarchy
 - [[Habituation]] — the learning mechanism the counter-conditioning exploits
@@ -49,7 +50,7 @@ The compendium scales the technique to self-help size. BE027 teaches graded expo
 - [[Fear]] — the response being unlearned
 - [[Avoidance versus attentional engagement]] — the maintaining factor the approach reverses
 - [[Evidence-based treatments (CBT, ACT, DBT, EMDR, medication) have robust evidence]] — the evidence frame the approach sits in
-
+- [[Behavioural rehearsal / role-play (DBT, social skills training)]] — approaching feared situations in graded steps, a different practice format
 ## Cited in psychology parallels
 
 - [[BE027 — Learn to use graded exposure — start small, build up]]

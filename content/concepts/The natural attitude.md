@@ -13,6 +13,13 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 - **and its bracketing** — Husserl, Ideas I
 
+## Related concepts
+
+
+
+- [[Fusion of horizons]] — the phenomenological horizon concept Gadamer borrowed
+- [[Mind in life]] — Husserl's starting point the book returns to
+- [[Phenomenological methods in psychology]] — the everyday attitude the methods suspend and study
 ## Sources
 
 - Husserl, Ideas I

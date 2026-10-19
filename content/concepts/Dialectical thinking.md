@@ -20,6 +20,10 @@ tolerance of contradiction predicts lower distress and better coping in East Asi
 
 - holding contradiction predicts lower distress (Peng and Nisbett, 1999)
 
+## Related concepts
+
+- [[Cognitive flexibility]] — the capacity that switching between contradictory frames draws on
+
 ## Sources
 
 - Peng and Nisbett, 1999

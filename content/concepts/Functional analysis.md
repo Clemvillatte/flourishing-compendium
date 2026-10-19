@@ -23,6 +23,10 @@ the ABC (antecedent-behavior-consequence) of behavior (Hayes et al., 2020).
 
 - behavior understood by its function, not its form (Hayes et al., 2020)
 
+## Related concepts
+
+- [[Behavior analysis]] — the ABC of behavior is the tradition's applied tool
+
 ## Sources
 
 - Hayes et al., 2020

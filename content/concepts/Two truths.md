@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Two truths” — Nagarjuna, MMK 24.
 
+## Related concepts
+
+- [[Buddhist emptiness of inherent nature]] — the conventional and ultimate truths of MMK 24.8-10
+
 ## Sources
 
 - Nagarjuna, MMK 24

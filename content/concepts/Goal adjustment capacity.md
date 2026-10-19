@@ -40,6 +40,8 @@ The compendium carries the construct as the psychological core of letting go. MO
 
 ## Related concepts
 
+
+
 - [[Acceptance]] — the stance that makes disengagement possible
 - [[Wu wei]] — the Daoist non-forcing that knows when to stop
 - [[Hope]] — the affective resource of reengagement
@@ -47,7 +49,8 @@ The compendium carries the construct as the psychological core of letting go. MO
 - [[Ends-in-view]] — Dewey's revisable goals, the compendium's reengagement discipline
 - [[Flow]] — engagement in the new pursuit, the felt side of reengagement
 - [[Self-regulation]] — the parent process the two capacities belong to
-
+- [[Cognitive flexibility]] — the executive-function construct related to flexible disengagement
+- [[Sunk cost effect]] — the disposition the theater experiment measures the lack of
 ## Cited in psychology parallels
 
 - [[D098 — Accept what destiny brings (li ming)]]

@@ -20,3 +20,8 @@ Cognition · Psychological science
 [[K008 — Expect the collapse of meaning; do not waste it]]
 [[CO014 — Understand that thinking is fallible and that wisdom includes knowing this]]
 [[S011 — Recognise the three topoi — the three disciplines]]
+
+
+## Related concepts
+
+- [[Sunk cost effect]] — the anticipated regret that drives throwing good money after bad

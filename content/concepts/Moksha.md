@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Liberation — in Vedānta, the direct knowledge that [[Atman]] is [[Brahman]]; in the broader Indic family, release from the cycle of rebirth. The Upaniṣads describe it as freedom here and now, not a place ([Wikipedia Moksha](https://en.wikipedia.org/wiki/Moksha)).
 
+## Related concepts
+
+- [[Brahman]] — liberation as recognition that the self is Brahman
+
 ## Sources
 - Wikipedia Moksha: https://en.wikipedia.org/wiki/Moksha
 
