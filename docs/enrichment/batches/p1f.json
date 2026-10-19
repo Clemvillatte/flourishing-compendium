@@ -7,7 +7,8 @@
   "D163",
   "D171",
   "D074",
-  "B006"
+  "B006",
+  "B043"
  ],
  "in_progress": null,
  "flagged": {
@@ -15,6 +16,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 2,
- "updated": "2026-10-19T12:40:56+00:00",
+ "updated": "2026-10-19T12:41:53+00:00",
  "band_done": false
 }
