@@ -10,15 +10,20 @@ number: "96"
 navigation: {"track": "philosophy", "primaryPath": ["NAV-PHILOSOPHY", "NAV-PHIL-ARIS"], "alternatePaths": []}
 legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristotelian Virtue Ethics and Practical Wisdom", "chapter": "A-S09 — Layer IX - Justice, Equity, and Law", "parent": ""}
 ---
+
 > **Principle 96** — Practise distributive justice
 
-Distributive justice concerns the proportional allocation of honour, money, and goods according to merit. In any group you lead or belong to, ask: is the distribution proportionate to contribution and need? Inequality is not inherently unjust, but disproportion is.
+Aristotle's account of distributive justice is a proportion between persons and shares. The just in distribution assigns shares so that the ratio between persons equals the ratio between shares; quarrels arise when equals receive unequal shares, or persons not equal receive equal shares. He notes that all agree distributions must be based on desert of some sort, while differing on what counts as desert ([NE V.3, Rackham, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=5)).
+
+> All are agreed that justice in distributions must be based on desert of some sort, although they do not all mean the same sort of desert; democrats make the criterion free birth; those of oligarchical sympathies wealth, or in other cases birth; upholders of aristocracy make it virtue.
+>
+> — Nicomachean Ethics V.3 ([Rackham, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=5))
+
+**Plain words** The compendium's application of this principle asks the reader, in any group they lead or belong to, to check whether the distribution of goods matches the claims people actually have. Aristotle's own formulation leaves the criterion of desert open to disagreement; what it rules out is distribution that ignores the ratio between persons and shares.
+
+For example (imagined): a manager who gives the biggest bonus to the person who carried the project, and explains why, is distributing according to a stated criterion of desert.
 
 (NE V.3; Politics III.9-13.)
-
-**Plain words** Distributive justice means sharing honour, money and goods in proportion to merit. In any group you lead or belong to, ask whether rewards match contribution and need. Inequality isn't automatically unjust. Disproportion is.
-
-*For example:* A manager who gives the biggest bonus to the person who carried the project, and explains why, is distributing fairly.
 
 ## Psychology parallels
 
