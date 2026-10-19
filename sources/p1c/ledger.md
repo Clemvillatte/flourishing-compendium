@@ -50,3 +50,18 @@ copied from the opened URL in this session.
   advisor's scoped sentence ("The compendium applies the image of return by asking where
   a plan allows for stopping and reconsideration."). Validator ok against pre-item
   baseline 6a2bc86.
+
+## D009 — Trust emptiness (DDJ 11)
+
+- Opened: https://www.gutenberg.org/cache/epub/216/pg216.txt (Legge, ebook #216),
+  chapter 11.
+- Verbatim passage used as blockquote: the three images (thirty spokes/nave, clay
+  vessels, door and windows/apartment) plus the conclusion quoted inline in para 1
+  ("what has a (positive) existence serves for profitable adaptation, and what has not
+  that for (actual) usefulness.").
+- Draft QC: advisor approved the draft (docs/enrichment/drafts/p1c/D009.md) before the
+  move to content/ (2026-10-19, genuineflourishing29); validated against pre-item
+  baseline 981e420.
+- Inherited-not-reverified: the psychology-parallels claim (Baird et al., 2012,
+  default-mode network and incubation) is inherited link-section content, untouched,
+  not reverified this session.
