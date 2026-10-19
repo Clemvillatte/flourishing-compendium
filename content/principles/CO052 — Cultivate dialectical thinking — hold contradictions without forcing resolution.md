@@ -15,7 +15,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 
 Daodejing chapter 2 presents a philosophical comparison that the compendium places next to cognitive research on dialecticism: opposites arise together, each giving the other its intelligibility. You cannot have the idea of the beautiful without the idea of the ugly.
 
-> So it is that existence and non-existence give birth the one to (the idea of) the other; that difficulty and ease produce the one (the idea of) the other; that length and shortness fashion out the one the figure of the other; that (the ideas of) height and lowness arise from the contrast of the one with the other. (Laozi, Daodejing 2, Legge translation, [Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt))
+> So it is that existence and non-existence give birth the one to (the idea of) the other; that difficulty and ease produce the one (the idea of) the other; that length and shortness fashion out the one the figure of the other; that (the ideas of) height and lowness arise from the contrast of the one with the other; that the musical notes and tones become harmonious through the relation of one with another; and that being before and behind give the idea of one following another. (Laozi, Daodejing 2, Legge translation, [Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 
 What follows is a stance toward apparent contradiction, not a claim that incompatible propositions are both true. A logical contradiction is a pair of statements that cannot both hold; a person can hold two true but differently-framed descriptions of one situation, each answering a different question. "This is the hardest thing I've ever done" and "I would choose it again" are compatible evaluations, not a contradiction; treating them as one that needs resolving is a category error.
 
@@ -25,9 +25,7 @@ What follows is a stance toward apparent contradiction, not a claim that incompa
 
 ## Psychology parallels
 
-- **Dialectical thinking predicts better coping and lower distress**, particularly in East Asian and bicultural contexts (Peng & Nisbett, 1999; Spencer-Rodgers et al., 2010)
-- **Dialectical behaviour therapy (DBT) uses dialectics as a core principle**, holding acceptance and change together (Linehan, 1993)
-- **Dialectical thinking is more common in East Asian cultures**, holistic cognition increases tolerance for contradiction (Nisbett et al., 2001)
+*(No empirical claims about dialectical thinking and coping, distress, or cultural differences are made on this page; the unsourced bullets (Peng & Nisbett 1999, Spencer-Rodgers 2010, Nisbett 2001, Linehan 1993) were removed.)*
 
 ## Philosophy parallels
 

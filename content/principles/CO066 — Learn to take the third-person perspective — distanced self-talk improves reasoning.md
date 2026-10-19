@@ -27,8 +27,7 @@ Seven studies addressed that question (total N = 585). The two proof-of-principl
 
 ## Psychology parallels
 
-- **[[Distanced self-talk (Kross)|Distanced self-talk (Kross)]]**, using one's own name or third-person pronouns reduces emotional reactivity and improves self-control (Kross et al., 2014; Moser et al., 2017)
-- **Third-person perspective increases wise reasoning**, distanced self-talk improves wise reasoning about personal challenges (Grossmann & Kross, 2014)
+- **[[Distanced self-talk (Kross)|Distanced self-talk (Kross)]]**, using one's own name or third-person pronouns reduces distress under stress (Kross et al., 2014)
 
 ## Philosophy parallels
 
@@ -38,4 +37,4 @@ Seven studies addressed that question (total N = 585). The two proof-of-principl
 
 ## Practice
 
-- When emotionally activated, describe the situation in the third person ("[Name] is feeling anxious about this meeting") or from a temporal distance ("how will this look in a year?"). This creates psychological distance and improves reasoning.
+- When emotionally activated, describe the situation in the third person ("[Name] is feeling anxious about this meeting"). The Kross studies found that this grammar is associated with less reported distress under stress.

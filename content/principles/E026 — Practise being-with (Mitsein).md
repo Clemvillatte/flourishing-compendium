@@ -19,7 +19,7 @@ Heidegger's claim in Being and Time §26 is that being-with is a structural feat
 
 The same passage includes indifference and alienation as modes of Being-with — he does not claim that being-with requires warmth or engagement, only that it is the background structure against which any encounter, including hostile or indifferent ones, makes sense. He also distinguishes the ontological claim from the factual claim: the point is not that other people are always nearby, but that a world already shaped as shared is what any experience of being alone or being together takes place in.
 
-**Plain words** The usual picture is that you exist first as a separate person, and then other people enter the scene. Heidegger reverses the priority in a structural sense: the "with" is built into what you are. You learn a language someone else spoke, use tools someone else built, and walk paths someone else cleared, before you ever meet them.
+**Plain words** The usual picture is that you exist first as a separate person, and then other people enter the scene. Heidegger reverses the priority in a structural sense: the "with" is built into what you are. You learn a language someone else spoke, use tools someone else built, and walk paths someone else cleared.
 
 *For example:* Imagine two drivers on the same motorway. One experiences every other car as something blocking a road that is otherwise his; the other experiences the traffic as many people going somewhere together. The road is the same road; these are two different ways of describing one shared situation.
 
@@ -31,4 +31,5 @@ The same passage includes indifference and alienation as modes of Being-with —
 ## Philosophy parallels
 
 - **[[Being-with (Mitsein)|Being-with (Mitsein)]]** (Heidegger, Being and Time)
-- **[[Intersubjectivity|Intersubjectivity]]** (Husserl, Cartesian Meditations; Merleau-Ponty, Phenomenology of Perception)- **[[Being-with (Mitsein)|Mitsein]]** (Existentialism & Phenomenology)
+- **[[Intersubjectivity|Intersubjectivity]]** (Husserl, Cartesian Meditations; Merleau-Ponty, Phenomenology of Perception)
+- **[[Being-with (Mitsein)|Mitsein]]** (Existentialism & Phenomenology)
