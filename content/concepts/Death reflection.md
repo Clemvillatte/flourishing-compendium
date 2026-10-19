@@ -15,21 +15,21 @@ The induction asks participants to imagine their own death in detail. In the sce
 
 ### What it does
 
-The findings: "mortality salience led highly extrinsic participants to manifest greed, whereas death reflection again generated intrinsic, unselfish behavior" ([Cozzolino, Staples, Meyers & Samboceti 2004, PSPB](https://journals.sagepub.com/doi/10.1177/0146167203260716)). On gratitude, "the death reflection induction showed the greatest increase in state gratitude, followed by the traditional mortality salience treatment and the controls," and the study's conclusion: "when one confronts their own death in a specific and vivid manner, their feelings of gratitude tend to increase" ([Frias et al. 2011](https://greatergood.berkeley.edu/images/uploads/Frias-DeathGratitude.pdf)). The claims are scoped to these studies; later replication attempts have not uniformly reproduced the greed effect.
+In the original studies, "mortality salience led highly extrinsic participants to manifest greed, whereas death reflection again generated intrinsic, unselfish behavior" ([Cozzolino, Staples, Meyers & Samboceti 2004, PSPB](https://journals.sagepub.com/doi/10.1177/0146167203260716)). On gratitude, "the death reflection induction showed the greatest increase in state gratitude, followed by the traditional mortality salience treatment and the controls," and the study's conclusion: "when one confronts their own death in a specific and vivid manner, their feelings of gratitude tend to increase" ([Frias et al. 2011](https://greatergood.berkeley.edu/images/uploads/Frias-DeathGratitude.pdf)). These claims are scoped to these studies.
 
 ### In the compendium
 
-K222's mortality reflection and K230's memento mori are the kernels. B055's maranasati is the Buddhist contemplation of death, S089, S102 and S104 the Stoic remembrances, E043's being-toward-death the Heideggerian version, M037's numbering of days the psalmist's arithmetic, and D090's death as transformation the Daoist frame. P106's letting mortality give shape is the design principle, and SP068's caution — think least of death; wisdom meditates on life — keeps the dose honest.
+K222's mortality reflection and K230's memento mori are the kernels. B055's maranasati is the Buddhist contemplation of death, a related but distinct practice; S089, S102 and S104 are the Stoic remembrances; E043's being-toward-death is the Heideggerian analysis; M037's numbering of days is the psalmist's arithmetic; and D090's death as transformation is the Daoist frame. P106's letting mortality give shape is the design principle, and SP068's caution — think least of death; wisdom meditates on life — provides a contrasting philosophical stance.
 
 ## Related concepts
 
 - [[The seasons of life]] — mortality inside the life cycle
-- [[Gratitude]] — the affect death reflection reliably lifts
-- [[Impermanence]] — the Buddhist ground of the same contemplation
+- [[Gratitude]] — the outcome examined in the Frias study
+- [[Impermanence]] — the Buddhist account of change, an in-compendium neighbour
 - [[Delight in the ordinary]] — what finitude makes visible
 - [[Meaning-making]] — the interpretive yield of facing death
 - [[Savoring]] — appreciation practice on the near side of death
-- [[Prosocial spending]] — the intrinsic orientation it can induce
+- [[Prosocial spending]] — giving and mortality, an in-compendium pairing
 
 ## Sources
 

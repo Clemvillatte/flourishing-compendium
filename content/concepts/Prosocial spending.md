@@ -7,7 +7,7 @@ file: "Prosocial spending"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-P"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter P", "parent": ""}
 ---
-Prosocial spending is the finding that money spent on others buys more happiness than money spent on oneself. The original paper's summary: "how people spend their money may be at least as important as how much money they earn," and "spending more of one's income on others predicted greater happiness both cross-sectionally... and longitudinally... Finally, participants who were randomly assigned to spend money on others experienced greater happiness than those assigned to spend money on themselves" ([Dunn, Aknin & Norton 2008, Science](https://sanlab.psych.ucla.edu/wp-content/uploads/sites/31/2016/03/Dunn2008Science.pdf)).
+Prosocial spending means spending money to benefit others. The headline finding from the original paper: "how people spend their money may be at least as important as how much money they earn," with evidence that "spending more of one's income on others predicted greater happiness both cross-sectionally... and longitudinally... Finally, participants who were randomly assigned to spend money on others experienced greater happiness than those assigned to spend money on themselves" ([Dunn, Aknin & Norton 2008, Science](https://sanlab.psych.ucla.edu/wp-content/uploads/sites/31/2016/03/Dunn2008Science.pdf)).
 
 ### The windfall experiment
 
@@ -15,7 +15,7 @@ The experiment: 46 participants rated their happiness in the morning, then recei
 
 ### Around the world
 
-The cross-cultural follow-up used Gallup World Poll data from 136 countries (N = 234,917): "The relationship between prosocial spending and SWB is positive in 120 out of 136 countries," and in a pooled estimate "donating to charity has a similar relationship to SWB as a doubling of household income" ([Aknin et al. 2013, JPSP](https://dash.harvard.edu/server/api/core/bitstreams/7312037c-f15f-6bd4-e053-0100007fdf3b/content)). Experiments in Canada, Uganda, India and South Africa showed the same pattern, leading to the authors' conclusion that "the present studies provide the first evidence for a possible psychological universal: human beings around the world experience emotional rewards from using their financial resources to benefit others" ([Aknin et al. 2013](https://dash.harvard.edu/server/api/core/bitstreams/7312037c-f15f-6bd4-e053-0100007fdf3b/content)). The authors themselves flag the limits: "firmly establishing the universality of a complex psychological phenomenon requires extensive research... The studies presented here provide a critical first step" ([Aknin et al. 2013](https://dash.harvard.edu/server/api/core/bitstreams/7312037c-f15f-6bd4-e053-0100007fdf3b/content)).
+The cross-cultural paper combines observational and experimental evidence. In Gallup World Poll survey data from 136 countries (N = 234,917), "The relationship between prosocial spending and SWB is positive in 120 out of 136 countries," and in a pooled estimate "donating to charity has a similar relationship to SWB as a doubling of household income" ([Aknin et al. 2013, JPSP](https://dash.harvard.edu/server/api/core/bitstreams/7312037c-f15f-6bd4-e053-0100007fdf3b/content)). The experiments differ in design. In recall experiments in Canada, Uganda and India, participants randomly assigned to write about a past purchase for someone else reported higher happiness than those writing about a purchase for themselves. In a lab study in Canada and South Africa, participants randomly assigned to buy a goody bag for a sick child reported higher positive affect than those buying for themselves, "even when this prosocial spending does not provide an opportunity to build or strengthen social ties" ([Aknin et al. 2013](https://dash.harvard.edu/server/api/core/bitstreams/7312037c-f15f-6bd4-e053-0100007fdf3b/content)). The authors' conclusion: "the present studies provide the first evidence for a possible psychological universal: human beings around the world experience emotional rewards from using their financial resources to benefit others," with their own caveat that "firmly establishing the universality of a complex psychological phenomenon requires extensive research... The studies presented here provide a critical first step" ([Aknin et al. 2013](https://dash.harvard.edu/server/api/core/bitstreams/7312037c-f15f-6bd4-e053-0100007fdf3b/content)).
 
 ### In the compendium
 
@@ -29,7 +29,7 @@ PP032 carries the practice with its autonomy caveat: prosocial behaviour for aut
 - [[Care]] — the relational ethic that receives the gift
 - [[Gratitude]] — the receiving side of the exchange
 - [[Empathy]] — knowing what the other would want
-- [[Broaden-and-build]] — the positive affect that giving feeds
+- [[Broaden-and-build]] — positive affect research, an in-compendium pairing
 
 ## Sources
 

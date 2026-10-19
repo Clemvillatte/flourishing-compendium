@@ -19,12 +19,12 @@ Epictetus gives the practice: "Men are disturbed not by things, but by the views
 
 ### In the compendium
 
-S071's emotions are judgments and S059's not being carried away by passion are the direct carries; AF001's affect as information rather than verdict is the clinical cousin; AF034's equanimity as a capacity is the modern translation of the ideal. The same ideal appears in other vocabularies: B007's fires cooling here and now, D041's purity and stillness (qingjing), R063's rectification of the mind (zhengxin), and B096's even-mindedness.
+S071's emotions are judgments and S059's not being carried away by passion are the direct carries; AF001's affect as information rather than verdict is the clinical cousin; AF034's equanimity as a capacity is a modern neighbour to set beside the ideal. The compendium sets other vocabularies beside it as well: B007's fires cooling here and now, D041's purity and stillness (qingjing), R063's rectification of the mind (zhengxin), and B096's even-mindedness.
 
 ## Related concepts
 
 - [[Equanimity]] — the steady affect apatheia leaves behind
-- [[Nirvana]] — the Buddhist cooling the tradition was compared to
+- [[Nirvana]] — the Buddhist cessation, an in-compendium neighbour
 - [[The dichotomy of control]] — the training ground of the discipline
 - [[Cognitive defusion]] — watching thoughts instead of obeying them, the clinical cousin
 - [[Premeditatio malorum]] — rehearsing what judgment will face
@@ -41,7 +41,7 @@ S071's emotions are judgments and S059's not being carried away by passion are t
 [[S061 — Recognise the three stages of anger]]
 [[S068 — Distinguish between healthy and unhealthy emotions]]
 [[S071 — Recognise that emotions are judgments]]
-- - - ## Cited in philosophy parallels
+## Cited in philosophy parallels
 
 - [[D041 — Practice purity and stillness (qingjing)]]
 - [[B007 — Trust that the fires can cool here and now (nibbana)]]

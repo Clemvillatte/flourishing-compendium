@@ -7,7 +7,7 @@ file: "Participate — do with, not to"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-P"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter P", "parent": ""}
 ---
-"Participate: do with, not to" is Dewey's rule for how one human being should enter another's activity. His example is the horse: "the horse does not really share in the social use to which his action is put. Some one else uses the horse to secure a result which is advantageous... He is not a partner in a shared activity" ([Democracy and Education, 1916](https://www.gutenberg.org/files/852/852-h/852-h.htm)). Doing to is using; doing with is partnering.
+"Participate: do with, not to" is the compendium's formulation of a Deweyan distinction: entering another's activity as a partner rather than using it as a means. Dewey's example is the horse: "the horse does not really share in the social use to which his action is put. Some one else uses the horse to secure a result which is advantageous... He is not a partner in a shared activity" ([Democracy and Education, 1916](https://www.gutenberg.org/files/852/852-h/852-h.htm)).
 
 ### The completing step
 
@@ -15,7 +15,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 ### Communication, not transmission
 
-The same structure governs speech. "Communication is a process of sharing experience till it becomes a common possession. It modifies the disposition of both the parties who partake in it" ([Democracy and Education](https://www.gutenberg.org/files/852/852-h/852-h.htm)). "To be a recipient of a communication is to have an enlarged and changed experience. One shares in what another has thought and felt" ([Democracy and Education](https://www.gutenberg.org/files/852/852-h/852-h.htm)). A message delivered is done to; a communication is done with.
+The same structure governs speech. "Communication is a process of sharing experience till it becomes a common possession. It modifies the disposition of both the parties who partake in it" ([Democracy and Education](https://www.gutenberg.org/files/852/852-h/852-h.htm)). "To be a recipient of a communication is to have an enlarged and changed experience. One shares in what another has thought and felt" ([Democracy and Education](https://www.gutenberg.org/files/852/852-h/852-h.htm)). Transmission alone stops short of this shared experience.
 
 ### Democracy's mode
 
@@ -27,7 +27,7 @@ P090 carries the concept directly, R090 practices participation, S044 acts as a 
 
 ## Related concepts
 
-- [[Dialogue]] — Buber's I-Thou meeting, the interpersonal method
+- [[Dialogue]] — the interpersonal meeting, an in-compendium pairing
 - [[The relational self]] — the self that participation forms
 - [[Participate in the world's becoming]] — the metaphysical sibling
 - [[Empathic understanding]] — knowing the other from inside the shared activity

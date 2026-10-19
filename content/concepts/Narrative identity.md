@@ -7,7 +7,7 @@ file: "Narrative identity"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-N"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter N", "parent": ""}
 ---
-Narrative identity is Paul Ricoeur's thesis that the self is constituted through narrative. At the end of Time and Narrative he "realized that what was said there pointed to the importance of the idea of a narrative identity": beyond the identity of characters in stories, "the larger claim that personal identity in every case can be considered in terms of a narrative identity: what story does a person tell about his or her life, or what story do others tell about it?" ([SEP, "Paul Ricoeur"](https://plato.stanford.edu/entries/ricoeur/)).
+Narrative identity is Paul Ricoeur's account of the self as told. At the end of Time and Narrative he "realized that what was said there pointed to the importance of the idea of a narrative identity": beyond the identity of characters in stories, "the larger claim that personal identity in every case can be considered in terms of a narrative identity: what story does a person tell about his or her life, or what story do others tell about it?" ([SEP, "Paul Ricoeur"](https://plato.stanford.edu/entries/ricoeur/)).
 
 ### The who question
 
@@ -15,16 +15,16 @@ Narrative identity is one of the ways of answering "the question 'who?'": Who sa
 
 ### Emplotment
 
-The mechanism is plot. Narrative discourse "configures such heterogeneous concepts into a discourse that locates actions in a time where one thing happens...because of something else in a followable story or history" ([SEP](https://plato.stanford.edu/entries/ricoeur/)). Through their plots, narratives are "a synthesis of heterogeneous concepts into a kind of discordant concordance which configures the episodes of the story into a told story" ([SEP](https://plato.stanford.edu/entries/ricoeur/)). A life becomes a self when its episodes are configured this way — and stays revisable because the configuration is a telling, not a fact.
+The mechanism is plot. Narrative discourse "configures such heterogeneous concepts into a discourse that locates actions in a time where one thing happens...because of something else in a followable story or history" ([SEP](https://plato.stanford.edu/entries/ricoeur/)). Through their plots, narratives are "a synthesis of heterogeneous concepts into a kind of discordant concordance which configures the episodes of the story into a told story" ([SEP](https://plato.stanford.edu/entries/ricoeur/)). The plot organizes a life's heterogeneous episodes into an intelligible account, revisable because it lives in the telling.
 
 ### In the compendium
 
-R105 and E083 carry the concept as practice, SE011 and SE042 are its structural and revision faces, and CO061 is the everyday recognition that your life story shapes who you are. The compendium pairs it with the Life story model for the research tradition, Fixed views of self for its pathology — a story told once and mistaken for a fact — and Narrative therapy for the repair.
+R105 and E083 carry the concept as practice, SE011 and SE042 are its structural and revision faces, and CO061 is the everyday recognition that a life story shapes who one is. The compendium pairs it with the Life story model for the research tradition, and sets beside it Fixed views of self as an in-compendium contrast and Narrative therapy as the therapeutic tradition that works on the story.
 
 ## Related concepts
 
 - [[Life story model]] — the psychological research tradition on life stories
-- [[Fixed views of self]] — narrative identity frozen, its pathology
+- [[Fixed views of self]] — the frozen story, an in-compendium contrast
 - [[Narrative therapy]] — the therapeutic rewriting of the story
 - [[Meaning-making]] — the interpretive work stories do
 - [[The observing self]] — the teller distinct from the told
@@ -33,8 +33,6 @@ R105 and E083 carry the concept as practice, SE011 and SE042 are its structural 
 ## Sources
 
 - [SEP, "Paul Ricoeur" (Pellauer, Dauenhauer & Scott)](https://plato.stanford.edu/entries/ricoeur/)
-
-
 
 ## Cited in philosophy parallels
 
