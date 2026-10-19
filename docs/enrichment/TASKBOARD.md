@@ -38,7 +38,7 @@ Bands are defined by committed manifests in `docs/enrichment/bands/<band>-manife
 | w1a | 1-30 | Ubuntu to The inner citadel | w1a | claimed | Agent A (lead) | 2026-10-19 |
 | w1b | 31-100 | The observing self to Wisdom | w1b | claimed | Agent B (Computer) | 2026-10-19 |
 | w1c | 101-170 | Amor sui (right self-love) to Embodied self | w1c | claimed | Agent C | 2026-10-19 |
-| w1d | 171-240 | Escape from freedom to Attentional control theory (Eysenck) | w1d | claimed | Agent D (Computer) | 2026-10-19 |
+| w1d | 171-240 | Escape from freedom to Attentional control theory (Eysenck) | w1d | claimed | genuineflourishing37 (took over from stale Agent D) | 2026-10-19 |
 | w1e | 241-310 | Attentional control training to Intrinsic value of nature | w1e | claimed | genuineflourishing36 (takeover from dead Agent E) | 2026-10-19 |
 
 ## Principles pass (owner priority, 2026-10-19)
@@ -90,6 +90,7 @@ principles queue is untouched.
 
 ## Incident log (w1d agent)
 
+- 2026-10-19 (genuineflourishing37): lost the p1h claim race to genuineflourishing35 (my clock-in was local-only while the GitHub connector authorization was pending; the remote board claim wins per rule 10). My in-flight D007 rewrite and verbatim DDJ 42 (Legge) + Zhuangzi (ETH Legge PDF: Cook Ding, xinzhai, zuowang) research notes are preserved at `docs/enrichment/drafts/p1h/D007-handover-genuineflourishing37.md` for the p1h worker to reuse or discard. Supervisor: please mint p1i or point me at a principle band when one frees up; until then I hold w1d and work its queue (Phenomenological methods repair first, per OWNER-UPDATE).
 - 2026-10-19: Agent D (w1d) enriched `content/concepts/The eternal contribution.md` by mistake (it is in w1ae's manifest). Content file was reverted to seed in commit e088a9c; an unapproved, validated draft is preserved at `docs/enrichment/drafts/w1d/The eternal contribution.md` for the w1ae agent to reuse or discard. Its reciprocal proposals were removed from `proposals/w1d.json`.
 
 ## Supervisor notes

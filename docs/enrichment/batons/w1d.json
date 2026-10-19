@@ -1,7 +1,7 @@
 {
  "baton": "w1d",
- "agent": "Agent D (Computer)",
- "clocked_in": "2026-10-19T09:52:20+00:00",
+ "agent": "genuineflourishing37",
+ "clocked_in": "2026-10-19T12:15:35+00:00",
  "takeovers": [
   {
    "by": "Agent D (Computer)",
@@ -20,6 +20,12 @@
    "at": "2026-10-19T09:49:58+00:00",
    "from": "Agent D (Computer)",
    "reason": "stale (62 min)"
+  },
+  {
+   "by": "genuineflourishing37",
+   "at": "2026-10-19T12:15:35+00:00",
+   "from": "Agent D (Computer)",
+   "reason": "stale (143 min)"
   }
  ],
  "released": false
