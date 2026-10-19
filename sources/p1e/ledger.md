@@ -288,3 +288,10 @@ Advisor QC (2026-10-19): quotes verified (BQ1 ch. 22 sentence, BQ2 ch. 68 verse 
 - Plain words was a partial replicate of the body (repeated "right amount/time/way" and the train-your-appetites line); replaced with a compulsion-side re-derivation and a crude skip-test. Body's "It is not asceticism. It is the capacity..." staging smoothed; asceticism contrast kept as a plain statement.
 - Inherited, NOT opened: Mischel/Duckworth and Bowen psychology parallels, Epicurus and Dhammacakkappavattana parallels — preserved, flagged for supervisor.
 - Validator: ok; protected fields untouched vs HEAD.
+
+## A021 — Practice shame (aidos) (done 2026-10-20 by worker-p1e-4f2c9b1d; no advisor QC per speed directive, item 4)
+
+- Opened: MIT Classics Ross translation, NE Book IV (https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html; page covers Book IV incl. ch. 9) — NEW SOURCE; verified verbatim: "Shame should not be described as a virtue; for it is more like a feeling than a state of character. It is defined, at any rate, as a kind of fear of dishonour..."; "We think young people should be prone to the feeling of shame because they live by feeling and therefore commit many errors, but are restrained by shame"; "since we think he should not do anything that need cause this sense"; "shame may be said to be conditionally a good thing; if a good man does such actions, he will feel disgraced". Sources_checked +1 (21 -> 22).
+- Body corrected to Aristotle's actual position: shame is for the learner (the young), the settled character does not need it; the old body's "The decent person feels shame at the right things" overstated the source and was replaced by the conditional-good reading. Plain words replicate replaced with an under-construction re-derivation.
+- Inherited, NOT opened: Tangney/Dearing and Haidt psychology parallels, Woodruff reverence parallel — preserved, flagged for supervisor.
+- Validator: ok; protected fields untouched vs HEAD.
