@@ -35,4 +35,4 @@ For example (imagined): a panicked caller and a friend who says, slowly, that th
 
 ## Practice
 
-- When you are emotionally activated, one thing that can help is a calm, attuned person. Do not treat needing co-regulation as a failure of self-regulation.
+- Consider asking a trusted person to listen while you work out what you are feeling.

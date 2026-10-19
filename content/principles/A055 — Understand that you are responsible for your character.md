@@ -19,7 +19,7 @@ Aristotle does not give a simple self-authorship slogan in NE III.5. He says we 
 >
 > — Nicomachean Ethics III.5 ([Rackham, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=3))
 
-**Plain words** Aristotle draws a line between what you control and what you have already built. Your actions are yours from beginning to end. Your character, once formed, is something whose growth you can only influence gradually, since each addition is imperceptible. The responsibility is that you were partly the cause of it. The freedom is that the building continues through what you do next.
+**Plain words** Your choices help form your character. Repeated acts can settle into dispositions that do not disappear simply because you wish them away. That gives you a reason to pay attention to the choices you keep repeating.
 
 For example (imagined): a person raised in a cynical household who starts keeping small promises as an adult is working on their own character through acts they still control.
 

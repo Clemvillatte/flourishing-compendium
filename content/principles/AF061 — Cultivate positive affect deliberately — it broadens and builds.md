@@ -19,9 +19,9 @@ Fredrickson proposes the broaden-and-build as a theory of what positive emotions
 >
 > — Fredrickson, 2001, American Psychologist 56(3) ([PubMed](https://pubmed.ncbi.nlm.nih.gov/11315248/))
 
-**Plain words** The theory treats positive affect as something with a function, not only a feeling. Broadening is posited to happen in the moment; building is posited to happen over time. The evidence the article reviews is preliminary, and the author names open questions that remain.
+**Plain words** The theory treats positive affect as something with a function, not only a feeling. It proposes that a good mood widens what you think you can do in the moment, and that using that wider range, over time, adds to what you have.
 
-For example (imagined): a team in a good week suddenly solves a problem that had been stuck for two months. The theory offers one way of reading what happened; the article's evidence is preliminary and does not establish that mood caused the solving, and other explanations are possible.
+For example (imagined): during a cheerful team meeting, colleagues sketch three possible approaches to a stalled project and agree to test one.
 
 ## Psychology parallels
 

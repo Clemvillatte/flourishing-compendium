@@ -23,16 +23,16 @@
   "A103",
   "A042",
   "AF048",
-  "AF073",
   "AF075",
-  "AF061",
   "B112",
   "B140",
   "B116",
   "A044",
   "A018",
   "A028",
-  "A055"
+  "A055",
+  "AF073",
+  "AF061"
  ],
  "in_progress": null,
  "flagged": {
@@ -51,18 +51,18 @@
   "A028": "Reopened for QC: repair: repeated more-qualified-than-slogan opener",
   "A042": "Reopened for QC: repair: habituation phrase to exact wording, verify II.1 passage",
   "A044": "Reopened for QC: repair: remove awkward fruit-of-that-is-time sentence",
-  "A055": "Reopened for QC: repair: repeated more-qualified-than-slogan opener",
+  "A055": "Reopened for QC: repair: Plain words implies sole authorship and gradual restriction",
   "A096": "Reopened for QC: repair: equally-justified claim exceeds source, remove unopened locators",
   "A100": "Reopened for QC: repair: quote fidelity (But in prefix), scope relationships claim",
   "A103": "Reopened for QC: repair: distinguish Aristotle's claim from reader's non-negotiables",
   "A104": "Reopened for QC: repair: use clean equitable quote avoiding Iawgiver OCR, make rule purpose explicit",
   "AF048": "Reopened for QC: repair: Psychology parallels overclaim core mechanism and maintains worry",
-  "AF061": "Reopened for QC: repair: theory-would-read diagnosis in example",
-  "AF073": "Reopened for QC: repair: Practice claims most effective regulation, not established by definition",
+  "AF061": "Reopened for QC: repair: example still diagnoses success through mood; replace with concrete example",
+  "AF073": "Reopened for QC: repair: Practice still asserts effectiveness not established by definition",
   "AF075": "Reopened for QC: repair: Psychology parallels categorical de-escalation claim"
  },
  "missing_concepts": [],
  "sources_checked": 9,
- "updated": "2026-10-19T15:09:21+00:00",
+ "updated": "2026-10-19T15:12:33+00:00",
  "band_done": false
 }
