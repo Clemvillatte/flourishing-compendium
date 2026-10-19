@@ -12,13 +12,21 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 65** — Guard the mind at the source (mind precedes all)
 
-All states are mind-made: guard the mind and the actions follow. The place to work is upstream: at the arising, not at the consequence.
+The Dhammapada opens with the claim the principle is built on:
+
+> "Mind precedes all mental states. Mind is their chief; they are all mind-wrought. If with an impure mind a person speaks or acts suffering follows him like the wheel that follows the foot of the ox." (Dhammapada 1, trans. Buddharakkhita, [Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html))
+
+Verse 2 runs the same structure in the other direction: with a pure mind, "happiness follows him like his never-departing shadow" (Dhammapada 2, trans. Buddharakkhita). Checking an intention before speaking is the compendium's practical exercise based on these verses.
 
 (Dhammapada 1.)
 
-**Plain words** All states are mind-made — guard the mind and the actions follow. The place to work is upstream, at the arising, not at the consequence. Every cleanup crew at the riverbank is proof someone worked too far downstream.
+**Plain words** Before speaking, ask what you want your words to do. Is there something you need to explain, or are you trying to hurt the other person? Take a moment to decide whether you want to act on that intention.
 
-*For example:* Catching the cynical thought before it becomes the sarcastic comment — upstream is one thought; downstream is an apology.
+*For example:* Imagine drafting a sarcastic reply. Leave it unsent while you ask what you want the remark to do, then choose how to respond.
+
+## Sources
+
+- [Dhammapada 1-2, trans. Acharya Buddharakkhita, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html)
 
 ## Stories
 
