@@ -1,7 +1,7 @@
 {
  "baton": "supervisor",
- "agent": "genuineflourishing25",
- "clocked_in": "2026-10-19T10:19:40+00:00",
+ "agent": "genuineflourishing26",
+ "clocked_in": "2026-10-19T10:55:15+00:00",
  "takeovers": [
   {
    "by": "AgentA",
@@ -32,6 +32,13 @@
    "at": "2026-10-19T10:16:37+00:00",
    "from": "genuineflourishing24",
    "reason": "released"
+  },
+  {
+   "by": "genuineflourishing26",
+   "at": "2026-10-19T10:55:15+00:00",
+   "from": "genuineflourishing25",
+   "reason": "stale (36 min)"
   }
- ]
+ ],
+ "released": false
 }

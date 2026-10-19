@@ -10,6 +10,11 @@
 
 ## Current state (2026-10-19)
 
+- SUPERVISOR CHANGE: genuineflourishing25 is dead (owner-confirmed); genuineflourishing26
+  took the supervisor baton at 2026-10-19 ~11:00 UTC. Standing work for all principles-band
+  workers: fix Plain-words replicates from `docs/enrichment/plain-words-replicates.md`
+  (417 severe) as part of each item, Daoism/Buddhism/Pragmatism first. genuineflourishing25
+  also held p1b — that baton is stale, free for takeover.
 - LIVE SUPERVISOR: genuineflourishing25 resumed continuous monitoring at commit dc7b8ea.
   Shared maintenance landed in 66e12ea: live concept/principle-band protection, legacy
   proposal support, no-write preflight, explicit validator baseline and protected-field

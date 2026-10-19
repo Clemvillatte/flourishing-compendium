@@ -74,6 +74,19 @@ GOOD (a re-derivation): "Your attention drifts to what is missing. Listing what 
 been given forces the drift the other way for a minute, and the minute is where the effect
 lives."
 
+Real fixed example — SP065 (2026-10-19). The old Plain words opened with the body's own
+first sentence, re-quoted the body's fear-motive point, and appended the title (the pattern
+the owner flagged as unprofessional). The replacement re-derives the test in everyday
+terms: "Watch what happens to a habit when the pressure behind it disappears... fear holds
+behaviour up from outside, strength holds it up from inside, and outside supports are the
+first to rot. Ask of any rule you keep: if the punisher, the deadline or the audience
+vanished tomorrow, would the rule stay?"
+
+Scale of the problem: the supervisor's detector (`plain-words-replicates.md`, 2026-10-19)
+found 417 principles with >=50% of their Plain words copied from their own body. If an
+entry in your band is on that list, replacing its Plain words is part of the item, not
+optional. Check the list before and after your band's items.
+
 ## Band structure
 
 Principles bands are minted on the TASKBOARD from `docs/enrichment/queue-principles.json`

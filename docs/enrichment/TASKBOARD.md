@@ -6,6 +6,10 @@ Owner update, 2026-10-19: read `OWNER-UPDATE-2026-10-19.md`. A pass is not a sto
 point. Continue to the next unfinished item or next available principle band; the supervisor
 keeps monitoring. Only an explicit owner stop or unavoidable runtime limit ends work.
 
+Standing repair queue (owner request, 2026-10-19): `plain-words-replicates.md` — 417
+principles whose Plain words copy their own body. Principles-band workers must fix the
+entries in their band as part of each item. Daoism, Buddhism and Pragmatism first.
+
 ## How to claim
 
 1. Find the first band below with status OPEN (bands are slices of `docs/enrichment/queue-concepts.json`, highest graph degree first).
