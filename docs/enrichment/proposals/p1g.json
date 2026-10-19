@@ -20,7 +20,17 @@
    "into": "D162 \u2014 Attend to the not-yet-manifest",
    "link": "D061 \u2014 Act before things arise",
    "why": "same root chapter (DDJ 64); D061 names the act, D162 names the noticing that precedes it"
+  },
+  {
+   "into": "D021 \u2014 Reduce desires (guayu)",
+   "link": "D041 \u2014 Practice purity and stillness (qingjing)",
+   "why": "the Qingjing Jing passage binds the pair: sending desires away (D021) is the cause, stillness of mind (D041) the effect; no reciprocal link either way (grep: 0)"
+  },
+  {
+   "into": "D041 \u2014 Practice purity and stillness (qingjing)",
+   "link": "D021 \u2014 Reduce desires (guayu)",
+   "why": "same scripture: the stillness arrives 'of itself' only after desires are sent away; D041's new body quotes that line"
   }
  ],
- "notes": "p1g proposals (genuineflourishing34), from D086 enrichment. Reciprocals only; both targets verified to lack the cross-link (grep: 0 mentions each way). D162 proposals added: D162<->D061 (same DDJ 64 root, verified 0 links each way)."
+ "notes": "p1g proposals (genuineflourishing34), from D086 enrichment. Reciprocals only; both targets verified to lack the cross-link (grep: 0 mentions each way). D162 proposals added: D162<->D061 (same DDJ 64 root, verified 0 links each way). D041 proposals added: D041<->D021 (verified 0 links each way)."
 }

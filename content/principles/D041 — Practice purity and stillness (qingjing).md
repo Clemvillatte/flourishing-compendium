@@ -12,13 +12,26 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 41** — Practice purity and stillness (qingjing)
 
-The spirit loves clarity; the mind loves quiet: desires drag both away. Send the desires away and the mind stills itself; this stillness gradually enters the true Dao.
+The Qingjing Jing gives the mechanism in four lines:
+
+> "Now the spirit of man loves Purity, but his mind disturbs it. The mind of man loves stillness, but his desires draw it away. If he could always send his desires away, his mind would of itself become still. Let his mind be made clean, and his spirit will of itself become pure." ([Legge, Classic of Purity](http://www.sacred-texts.com/tao/sbe40/sbe4019.htm))
+
+Two things in the passage do the work. The disturbance is a burden, and burdens can be set down: the mind already loves stillness, so nothing needs installing. And the causation runs one way; the scripture never says force the mind quiet, it says remove what drags. Its sequence ends where the principle ends: "He who has this absolute Purity enters gradually into the (inspiration of the) True Tâo." The Daodejing makes the same point on the world's side:
+
+> "Constant action overcomes cold; being still overcomes heat. Purity and stillness give the correct law to all under heaven." (Daodejing 45, [Legge](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 
 (Qingjing Jing; DDJ 45.)
 
-**Plain words** The spirit loves clarity and the mind loves quiet; desires drag both away. Send the desires away and the mind stills itself — it doesn't need to be forced calm, only unburdened. Stillness isn't achieved; it's uncovered.
+**Plain words**
+The mind is not against you. It is busy because something is pulling at it: a worry, a wanting, an unfinished conversation. The practice is to notice the pull and deal with the thing pulling, since forcing quiet does nothing about the pull. A stirred pond clears when the stirring stops; commanding the sediment does not.
 
-*For example:* The lake only mirrors the mountain when the wind stops — you don't polish the water, you wait for the weather.
+**For example**
+Sit down to write a difficult email with the phone face-up on the desk: the mind will not still, because the desire to check keeps tugging at it. Leave the phone in another room and watch what the mind does on its own.
+
+## Sources
+
+- [Khing Käng King (Classic of Purity), trans. James Legge, Sacred Books of the East vol. 40 (sacred-texts.com)](http://www.sacred-texts.com/tao/sbe40/sbe4019.htm)
+- [Tao Te Ching, trans. James Legge (Project Gutenberg)](https://www.gutenberg.org/cache/epub/216/pg216.txt) — ch. 45 §2
 
 ## Psychology parallels
 
