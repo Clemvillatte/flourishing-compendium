@@ -18,13 +18,14 @@
   "Heart rate variability theory",
   "Identified versus introjected motivation",
   "Locus of control",
-  "Narrative identity"
+  "Narrative identity",
+  "Participate: do with, not to"
  ],
  "flagged": {
   "Perspective-getting": "seed cites 'Epley et al., 2007' for 'asking beats perspective-taking'; no such perspective-getting paper could be found (canonical: Epley et al. 2004 anchoring; Eyal, Steffel & Epley 2018 JPSP 114(4):547-571 'Perspective mistaking'). Original line kept, prose cites the verified papers."
  },
  "missing_concepts": [],
- "sources_checked": 41,
+ "sources_checked": 42,
  "inline": [],
  "reciprocal": [
   {
@@ -716,6 +717,41 @@
    "target": "content/concepts/The relational self.md",
    "concept": "Narrative identity",
    "why": "identity co-authored with its witnesses"
+  },
+  {
+   "target": "content/concepts/Dialogue.md",
+   "concept": "Participate: do with, not to",
+   "why": "Buber's I-Thou meeting, the interpersonal method"
+  },
+  {
+   "target": "content/concepts/The relational self.md",
+   "concept": "Participate: do with, not to",
+   "why": "the self that participation forms"
+  },
+  {
+   "target": "content/concepts/Participate in the world's becoming.md",
+   "concept": "Participate: do with, not to",
+   "why": "the metaphysical sibling"
+  },
+  {
+   "target": "content/concepts/Empathic understanding.md",
+   "concept": "Participate: do with, not to",
+   "why": "knowing the other from inside the shared activity"
+  },
+  {
+   "target": "content/concepts/Deep listening.md",
+   "concept": "Participate: do with, not to",
+   "why": "receiving as sharing"
+  },
+  {
+   "target": "content/concepts/Ubuntu.md",
+   "concept": "Participate: do with, not to",
+   "why": "personhood through others"
+  },
+  {
+   "target": "content/concepts/Care.md",
+   "concept": "Participate: do with, not to",
+   "why": "the ethic that attends rather than administers"
   }
  ],
  "notes": "continues after lead applied the first proposals file (moved to applied/)"
