@@ -7,13 +7,14 @@
   "Behavior analysis",
   "Behavioural chaining (applied behaviour analysis)",
   "Behavioural rehearsal / role-play (DBT, social skills training)",
-  "Being and beings"
+  "Being and beings",
+  "Boulesis (rational desire)"
  ],
- "in_progress": "Boulesis (rational desire)",
+ "in_progress": null,
  "flagged": {
   "Behavioural rehearsal / role-play (DBT, social skills training)": "seed citation 'Kelly, 2004' could not be identified; kept as original seed line, not consulted"
  },
  "missing_concepts": [],
- "sources_checked": 24,
- "updated": "2026-10-19T08:14:05+00:00"
+ "sources_checked": 27,
+ "updated": "2026-10-19T08:17:51+00:00"
 }

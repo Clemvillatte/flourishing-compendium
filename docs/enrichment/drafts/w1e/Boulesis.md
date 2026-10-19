@@ -1,4 +1,4 @@
-# Draft: Boulesis (rational desire) — band w1e, pre-QC
+# Draft: Boulesis (rational desire) — final (QC quotation repairs applied, published)
 
 Sources opened (3 external):
 1. Aristotle, De Anima, trans. J. A. Smith (psychclassics.yorku.ca, Books II and III) — II.3: "appetite is the genus of which desire, passion, and wish are the species" (Smith renders orexis as appetite, epithumia as desire, thumos as passion, boulesis as wish); III.9: "wish is found in the calculative part and desire and passion in the irrational"; III.10: "mind is never found producing movement without appetite (for wish is a form of appetite; and when movement is produced according to calculation it is also according to wish), but appetite can originate movement contrary to calculation, for desire is a form of appetite"; "the object of appetite which originates movement... may be either the real or the apparent good".
@@ -17,11 +17,11 @@ Nicomachean Ethics III.2 separates wish from choice (prohairesis): choice cannot
 
 ### For the good or the apparent good
 
-Nicomachean Ethics III.4 asks whether wish is for the good or the apparent good, and resolves: "absolutely and in truth the good is the object of wish, but for each person the apparent good; that which is in truth an object of wish is an object of wish to the good man" ([NE III](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html)). The good man "judges each class of things rightly," being "as it were the norm and measure of them," and most error "is due to pleasure; for it appears a good when it is not" ([NE III](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html)). De Anima III.10 says the object that originates movement "may be either the real or the apparent good" ([De Anima III](https://psychclassics.yorku.ca/Aristotle/De-anima/de-anima3.htm)).
+Nicomachean Ethics III.4 asks whether wish is for the good or the apparent good, and resolves: "absolutely and in truth the good is the object of wish, but for each person the apparent good" ([NE III](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html)). In truth, what is wished for is wished for by the good man, who "judges each class of things rightly," being "as it were the norm and measure of them" ([NE III](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html)). The Ross translation adds: "In most things the error seems to be due to pleasure; for it appears a good when it is not" ([NE III](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html)). De Anima III.10 says the object that originates movement "may be either the real or the apparent good" ([De Anima III](https://psychclassics.yorku.ca/Aristotle/De-anima/de-anima3.htm)).
 
 ### How rational is it
 
-De Anima III.9 locates wish "in the calculative part and desire and passion in the irrational," and III.10 says mind never produces movement without appetite: "for wish is a form of appetite; and when movement is produced according to calculation it is also according to wish, but appetite can originate movement contrary to calculation" ([De Anima III](https://psychclassics.yorku.ca/Aristotle/De-anima/de-anima3.htm)). Pearson's study adds a nuance: Aristotle never explicitly claims boulesis is rational, though thumos and epithumia are explicitly non-rational (EN 3.1, 1111b1), and wish includes hopes and idle wishes without deliberative basis ([Lockwood, review of Pearson](https://bmcr.brynmawr.edu/2013/2013.09.24)).
+De Anima III.9 mentions that some would put wish in the calculative part and desire and passion in the irrational, while Aristotle argues against breaking up the desiring faculty into separate parts of the soul ([De Anima III](https://psychclassics.yorku.ca/Aristotle/De-anima/de-anima3.htm)). Book III.10 then says that movement according to calculation also involves wish, while appetite can produce movement contrary to calculation, since wish is a form of desire ([De Anima III](https://psychclassics.yorku.ca/Aristotle/De-anima/de-anima3.htm)). The Lockwood review identifies a difficulty with treating wish as invariably deliberative: it includes hopes and idle wishes that appear to lack a deliberative basis ([Lockwood, review of Pearson](https://bmcr.brynmawr.edu/2013/2013.09.24)).
 
 ### In the compendium
 
@@ -30,9 +30,9 @@ A007 "Let reason (logos) guide desire (orexis)" carries the pairing: desire trai
 ## Related concepts
 
 - [[Prohairesis (deliberate choice)]] — wish is for ends; choice, deliberate desire, for means in our power
-- [[Akrasia]] — appetite moving against calculation, the failure wish is meant to forestall
-- [[Phronesis]] — the practical wisdom that perceives which ends are worth wishing for
-- [[Eudaimonia]] — the end the good person's wish tracks
+- [[Akrasia]] — conflict between appetite and calculation, discussed in De Anima III.10
+- [[Eudaimonia]] — wishing to be happy is the NE III.2 example; choosing the acts is not
+- [[Arete]] — the good person's wish tracks the truth because character is the "norm and measure" (NE III.4)
 - [[Habituation]] — A007's route for training desire to follow reason
 
 ## Sources
