@@ -6,11 +6,12 @@
   "P113",
   "P117",
   "P105",
-  "P123"
+  "P123",
+  "P130"
  ],
- "in_progress": "P130",
+ "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
- "sources_checked": 17,
- "updated": "2026-10-19T14:49:34+00:00"
+ "sources_checked": 19,
+ "updated": "2026-10-19T14:51:32+00:00"
 }
