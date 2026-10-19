@@ -12,9 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 2** — Practice ziran: naturalness
 
-Let things, people, and yourself be what they are. Act from your own nature rather than from scripts, fronts, and borrowed standards. What is natural is self-so; what is forced is already failing.
-
-(DDJ 25; Liezi.)
+The Daodejing grounds this principle in a chain of models: "Man takes his law from the Earth; the Earth takes its law from Heaven; Heaven takes its law from the Tao. The law of the Tao is its being what it is." The last step is the principle in one line — the Dao does not imitate anything; it is simply itself. Ziran, usually rendered naturalness or spontaneity, names what is so of itself: a thing acting from its own nature rather than by external compulsion (see [[Ziran (naturalness)]]). The compendium's application to a life: let things, people, and yourself be what they are, and act from your own nature rather than from scripts, fronts, and borrowed standards. The cost of ignoring this is practical, not moral: "The kingdom is a spirit-like thing, and cannot be got by active doing. He who would so win it destroys it; he who would hold it in his grasp loses it." What is forced has to be held up; what is self-so holds itself.(DDJ 25; Liezi.)
 
 **Plain words** Stop performing a version of yourself. Ziran means letting things be what they are — including you. When you act from your own nature instead of borrowed scripts, things stop feeling like effort, because they fit. Forcing a persona is exhausting precisely because it's not natural.
 
