@@ -23,7 +23,7 @@ The Kataññu Suttas frame gratitude as a mark of integrity rather than as a ple
 
 For example (imagined): a person sits down to a meal and names, briefly, three of the people whose work brought it to the table. The meal is unchanged; the person's attention has changed.
 
-(Katannuta Suttas, AN 2:31-32; Thích Nhất Hạnh.)
+(Katannuta Suttas, AN 2:31-32.)
 
 ## Psychology parallels
 
