@@ -45,6 +45,8 @@ The seed's second facet is Csikszentmihalyi's flow, the sibling construct. Flow 
 
 [[D092 — Don't chase happiness directly]]
 
+[[K179 — Deliberate practice]]
+
 ## Sources
 
 - Maslow, 1964
