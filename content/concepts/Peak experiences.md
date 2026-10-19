@@ -11,17 +11,19 @@ Peak experiences are Abraham Maslow's term for moments of highest happiness and 
 
 ### What they are like
 
-The reported emotions are "wonder, awe, reverence, humility, surrender, and even worship before the greatness of the experience," and the world is perceived in what Maslow called B-values: "truth, goodness, beauty, wholeness, aliveness, uniqueness, perfection, completion, justice, simplicity, richness, effortlessness, playfulness, and self-sufficiency" ([Wikipedia, Peak experience](https://en.wikipedia.org/wiki/Peak_experience)). The cognition is total: "in the cognition that comes in peak-experiences, characteristically the percept is exclusively and fully attended to... there is tremendous concentration of a kind which does not normally occur" ([Maslow, appendix material quoted at Sefaria](https://www.sefaria.org/sheets/150236)). The types run from Being-love and parental experiences to nature and aesthetic moments, creative moments, insights, and athletic fulfillment ([BU review of Toward a Psychology of Being](https://people.bu.edu/wwildman/relexp/reviews/review_maslow01.htm)).
+The reported emotions are "wonder, awe, reverence, humility, surrender, and even worship before the greatness of the experience," and the world is perceived in what Maslow called B-values: "truth, goodness, beauty, wholeness, aliveness, uniqueness, perfection, completion, justice, simplicity, richness, effortlessness, playfulness, and self-sufficiency" ([Wikipedia, Peak experience](https://en.wikipedia.org/wiki/Peak_experience)).
+
+> "in the cognition that comes in peak-experiences, characteristically the percept is exclusively and fully attended to... there is tremendous concentration of a kind which does not normally occur" ([Maslow, appendix material quoted at Sefaria](https://www.sefaria.org/sheets/150236))
+
+The cognition is total. The types run from Being-love and parental experiences to nature and aesthetic moments, creative moments, insights, and athletic fulfillment ([BU review of Toward a Psychology of Being](https://people.bu.edu/wwildman/relexp/reviews/review_maslow01.htm)).
 
 The book's religious thesis is that peak experience is the natural core of religion: "the very beginning, the intrinsic core, the essence, the universal nucleus of every known high religion has been the private, lonely, personal illumination, revelation, or ecstasy of some acutely sensitive prophet or seer" (Maslow 1964:19, [quoted in the Maslow scholarship](https://dialnet.unirioja.es/descarga/articulo/5216195.pdf)), and "all or almost all people have or can have peak-experiences" ([Maslow 1964, chap. 3](http://oaks.nvg.org/maslow-rvl.html)).
 
 ### And flow
 
-The seed's second facet is Csikszentmihalyi's flow, the sibling construct: both involve total absorption and loss of self-consciousness, but flow is common, activity-anchored and repeatable, while peak experiences are rare, awe-toned and come unbidden. P115's principle holds the difference as a rule: welcome peak experiences, do not chase them.
+The seed's second facet is Csikszentmihalyi's flow, the sibling construct. Flow processes and peak experiences share several key characteristics — intense concentration, centering of attention on a limited stimulus field, altered time sense, self-forgetfulness, needing no goals or rewards external to itself — but there are essential differences: while peak experience denotes a high level of stimulation or euphoria, flow is not associated with an increased level of stimulation ([Wikipedia, Peak experience](https://en.wikipedia.org/wiki/Peak_experience)). P115's principle holds the practical rule: welcome peak experiences, do not chase them.
 
 ### In the compendium
-
-E097 practises transcendence and P110 makes life artistic by seeking experience; K228's awe practice and K107's soft fascination train the perceptual mode the peak runs on; K205's nature exposure and SP089's peace-that-understanding-brings supply the occasions; P118 engineers flow, the repeatable sibling; P107 treats education as growth, the self-actualization frame; and Y081 holds powers and peak experiences lightly, the compendium's own caveat.
 
 - [[E097 — Practise transcendence]] — transcendence as practice
 - [[P110 — Make life artistic — seek an experience.]] — the artistic occasion

@@ -30,6 +30,13 @@ Read `OWNER-UPDATE-2026-10-19.md` for the current correction requests and mainte
 - Check this directive after every pull and before choosing the next item. Short progress
   messages are checkpoints, not requests for permission to keep working.
 
+## Token efficiency (owner directive, 2026-10-19)
+
+The project runs on Free Trial accounts. Tokens are spent only on meaningful work: reading
+sources, writing pages, validating, saving. Follow the Token-efficient superskill in every
+session: no filler narration, no redundant re-reads or searches, no verbose status updates.
+Cheap first (local scripts, one search), expensive only when it changes the result.
+
 ## Batons
 
 There are two kinds of baton:
@@ -91,6 +98,7 @@ principle bands before concept bands while the principles queue is untouched.
 
 | Date | Agent | What was checked | Result |
 |---|---|---|---|
+| 2026-10-19 | genuineflourishing26 (maintenance) | skimmability + graph-mode links (owner request) | graph drawer now renders external `[text](url)` links as hyperlinks and `>` blockquotes as gold callouts (graph.js + style.css, cache-ver bumped to 20261019v); `.art h4` subheadings enlarged to 16px with gold dash marker (were smaller than body text); PROTOCOL/PROTOCOL-PRINCIPLES updated: verbatim quotes as standalone blockquotes, "In the compendium" as bulleted list, owner rule allowing new concept pages when relevant to the goal and not already represented, owner priority (Daoism/Buddhism/Pragmatism first), token-efficiency directive. Peak experiences reworked as exemplar: B-cognition quote now standalone blockquote, dense compendium paragraph replaced by the ID list, unsupported flow comparison ("flow is common/repeatable, peaks rare/unbidden") corrected to what [Wikipedia, Peak experience](https://en.wikipedia.org/wiki/Peak_experience) actually says (shared characteristics; difference = stimulation level); validator ok, build ok |
 | 2026-10-19 | genuineflourishing25 (continuous supervisor) | shared maintenance | 17 isolated safety regressions pass; portable build succeeds; explicit-base validation of BI012, CO072, E012 passes structural checks. Evidence issues remain, so validator success is not acceptance. Independent code review requested. |
 | 2026-10-19 | genuineflourishing25 (continuous supervisor) | archived w1b records after b6fcc59 | Earlier integration silently skipped the 179 legacy target/concept records, then archived the file. All 179 targets can be explicitly resolved against current metadata; 153 proposed linked concepts are absent from current target bodies. Exact recovery copy saved outside live proposals pending evidence review. No production integration run by this supervisor. |
 | 2026-10-19 | Agent A | Ubuntu v2 (advisor review) | fixed: SAJP 32(2), etymology, Tutu splice, amnesty scope, neutral debate wording |

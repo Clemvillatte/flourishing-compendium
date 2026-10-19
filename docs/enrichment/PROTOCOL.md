@@ -25,7 +25,9 @@ Voice = `HUMANIZER-SKILL.md` (read it; its rules are binding). Facts = verified,
 
 Skimmability rule (added 2026-10-19, owner request): the page must be scannable. Use short
 paragraphs (2-4 sentences) and `###` subheadings in sentence case between them. Never bold text
-in prose (validator ERR); subheadings carry the visual hierarchy instead.
+in prose (validator ERR); subheadings carry the visual hierarchy. Standalone verbatim source
+quotes go on their own blockquote line (`> "..."` followed by the source link) — the site renders
+them as a gold callout, and the validator excludes quote lines from the prose word count.
 
 ```
 <opening paragraph: plain definition, original-language term, where it comes from (primary text + locator)>
@@ -37,8 +39,9 @@ in prose (validator ERR); subheadings carry the visual hierarchy instead.
 <1-2 short paragraphs, include the best objection or limit>
 
 ### In the compendium
-<paragraph: which principle IDs carry the concept and what they do with it, plus cross-tradition
-parallels marked as comparisons, and how the stories illustrate it>
+<bulleted list, NOT a dense paragraph: one line per principle, `[[P### — Title]]` followed by a
+short clause on what the principle does with the concept; one line per cross-tradition parallel
+(comparisons marked as comparisons); optional line on how the stories illustrate it>
 
 ## Related concepts
 
@@ -84,7 +87,15 @@ Then:
     "inline":     [ {"into": "AF021", "concept": "Ubuntu", "phrase": "Ubuntu: I am because we are"} ] }
   ```
   `reciprocal` = add this concept to another concept/kernel's Related list (use for every Related line you wrote). `inline` = an entry (usually a principle) names the concept in plain text but does not link it; give the EXACT phrase as it appears. Only propose inline links when the entry really means the concept (check the snippet); never for generic words ("care" in "take care").
-- do not invent concept pages. If an important neighbour is missing, list it under `missing_concepts` in your batch log with a one-line definition seed + source so the owner/next agent can create it.
+- do not invent concept pages as a side effect of enriching one page. Owner rule (2026-10-19):
+  you MAY add a new concept page when, and only when, (a) it is relevant to the wiki goal — guiding
+  people toward alleviating suffering, wisdom and genuine, adaptive flourishing — (b) no existing
+  concept already represents it (check with `title`/`resolve` searches, plus `mention` for unlinked
+  uses), and (c) you have a real source for a one-line seed. In that case: create
+  `content/concepts/<Name>.md` with the standard front-matter (copy the pattern from an existing
+  concept in the same domain; `id`, `file` and `type` correct), seed body, validate, then enrich it
+  fully per this protocol in the same session if time allows. Log it in the batch file under
+  `new_concepts` with the source. If it cannot be created in-session, fall back to `missing_concepts`.
 
 ## 5. Absolute rules
 1. No invented facts, quotes, citations, dates, page numbers or effect sizes. If a claim is not confirmed in a source you opened, delete it or weaken it to what the source supports. Quotation marks only for text you saw verbatim.

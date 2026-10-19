@@ -6,6 +6,19 @@ weird replicates of the principle instead of explanations — and a VERBATIM SOU
 real plus. This protocol governs the principles pass. The concept pass
 (`docs/enrichment/PROTOCOL.md`) stays in force for concepts.
 
+Owner priority (2026-10-19): Daoism, Buddhism and Pragmatism first, to state-of-the-art
+excellence, then the rest. When you choose items within your band, prefer principles from
+those three traditions; when bands are minted, they are minted from those traditions first.
+
+Skimmability (2026-10-19): same rule as concepts — short paragraphs (2-4 sentences),
+`###` sentence-case subheadings between them where the body allows, no bold in prose, and
+verbatim quotes as standalone blockquote lines (already the format for principle quotes).
+
+Token efficiency (2026-10-19): this wiki is built on Free Trial accounts. Spend tokens only on
+meaningful work — reading sources, writing, validating. No filler narration in your notes,
+no re-reading files you already have, no redundant searches. Follow the Token-efficient
+superskill.
+
 ## What a principle page is
 
 Front-matter, then: the blockquote principle statement, the body (explanation, plain words,

@@ -1707,6 +1707,7 @@ function gdMarkdown(src) {
   const inline = s => escHtml(s)
     .replace(/\[\[([^\]|]+)\|([^\]]+)\]\]/g, '<a class="gdl-link" data-t="$1">$2</a>')
     .replace(/\[\[([^\]]+)\]\]/g, '<a class="gdl-link" data-t="$1">$1</a>')
+    .replace(/\[([^\]]+)\]\((https?:[^)\s]+)\)/g, '<a class="gd-ext" href="$2" target="_blank" rel="noopener">$1</a>')
     .replace(/\*\*([^*]+)\*\*/g, '<b>$1</b>')
     .replace(/(^|[\s(>"'])\*([^*\n]+)\*(?=[\s.,!?;:)"]|$)/g, '$1<i>$2</i>');
   let txt = String(src || '');
@@ -1721,6 +1722,8 @@ function gdMarkdown(src) {
     if (m) { flush(); out += '<h' + m[1].length + '>' + inline(m[2]) + '</h' + m[1].length + '>'; continue; }
     m = ln.match(/^\s*[-*+]\s+(.*)$/);
     if (m) { flush(); out += '<div class="gd-li">• ' + inline(m[1]) + '</div>'; continue; }
+    m = ln.match(/^>\s?(.*)$/);
+    if (m) { flush(); out += '<div class="gd-quote">' + inline(m[1]) + '</div>'; continue; }
     if (/^```/.test(ln)) { flush(); continue; }   // skip code fences in preview
     para.push(ln);
   }
