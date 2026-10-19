@@ -19,13 +19,14 @@
   "Identified versus introjected motivation",
   "Locus of control",
   "Narrative identity",
-  "Participate: do with, not to"
+  "Participate: do with, not to",
+  "Prosocial spending"
  ],
  "flagged": {
   "Perspective-getting": "seed cites 'Epley et al., 2007' for 'asking beats perspective-taking'; no such perspective-getting paper could be found (canonical: Epley et al. 2004 anchoring; Eyal, Steffel & Epley 2018 JPSP 114(4):547-571 'Perspective mistaking'). Original line kept, prose cites the verified papers."
  },
  "missing_concepts": [],
- "sources_checked": 42,
+ "sources_checked": 44,
  "inline": [],
  "reciprocal": [
   {
@@ -752,6 +753,41 @@
    "target": "content/concepts/Care.md",
    "concept": "Participate: do with, not to",
    "why": "the ethic that attends rather than administers"
+  },
+  {
+   "target": "content/concepts/Generosity.md",
+   "concept": "Prosocial spending",
+   "why": "the virtue this spending expresses"
+  },
+  {
+   "target": "content/concepts/Altruism.md",
+   "concept": "Prosocial spending",
+   "why": "the motive family behind it"
+  },
+  {
+   "target": "content/concepts/Compassion.md",
+   "concept": "Prosocial spending",
+   "why": "the suffering-directed form"
+  },
+  {
+   "target": "content/concepts/Care.md",
+   "concept": "Prosocial spending",
+   "why": "the relational ethic that receives the gift"
+  },
+  {
+   "target": "content/concepts/Gratitude.md",
+   "concept": "Prosocial spending",
+   "why": "the receiving side of the exchange"
+  },
+  {
+   "target": "content/concepts/Empathy.md",
+   "concept": "Prosocial spending",
+   "why": "knowing what the other would want"
+  },
+  {
+   "target": "content/concepts/Broaden-and-build.md",
+   "concept": "Prosocial spending",
+   "why": "the positive affect that giving feeds"
   }
  ],
  "notes": "continues after lead applied the first proposals file (moved to applied/)"
