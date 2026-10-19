@@ -261,3 +261,10 @@ copied from the opened URL in this session.
   B074 also rewritten with the advisor's round-1 fixes (Bernstein et al. 2015 opened
   via PubMed 26385999 for the decentering grounding; MN 20 kept as the practice text;
   exact inner-sentence blockquote).
+
+## B020 — Train ethics, concentration, and wisdom together (Dhp 183)
+
+- Opened: https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.14.than.html (Dhp 20?
+  no — Buddhavagga, Dhp 183 fetched verbatim). DN 16 from the old seed locator was not
+  opened; the threefold-training interdependence is presented as the compendium's
+  reading of the verse, not as DN 16's claim. Validated vs HEAD (pre-item).

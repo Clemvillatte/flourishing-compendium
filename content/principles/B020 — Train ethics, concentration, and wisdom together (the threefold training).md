@@ -12,13 +12,20 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 20** — Train ethics, concentration, and wisdom together (the threefold training)
 
-Sila, samadhi, pañña support and protect one another: a messy life scatters the mind; an untrained mind cannot see clearly; clear seeing without ethics cuts crooked. Keep all three in view.
+Dhammapada 183 packs the training into one verse: conduct, body and mind arrive as a single teaching, with the conduct items first and the "commitment to the heightened mind" after them.
 
-(DN 16; Dhammapada 183.)
+> "Not disparaging, not injuring, restraint in line with the Patimokkha, moderation in food, dwelling in seclusion, commitment to the heightened mind: this is the teaching of the Awakened." (Dhammapada 183, [Thanissaro, accesstoinsight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.14.than.html))
 
-**Plain words** Ethics, concentration, and wisdom support and protect one another: a messy life scatters the mind; an untrained mind can't see clearly; clear seeing without ethics cuts crooked. Keep all three in view — they're a three-legged stool, not a menu.
+The compendium reads the verse as an argument for keeping the trainings together: how you act, how steady the mind is, and how clearly you see are one package in it, not three electives.
 
-*For example:* The meditation practice that keeps getting wrecked by late nights and unpaid bills — the concentration leg can't hold while the ethics leg wobbles.
+**Plain words**
+The three parts of the training are usually listed separately: how you act, how steady your mind is, how clearly you see. The verse refuses the separation; the person eating moderately and living quietly is already doing mind work. Ask of any self-improvement plan which of the three it trains, and whether it needs the other two to hold.
+
+*For example:* Suppose a meditation practice keeps getting wrecked by late nights and unpaid bills. As a modern application, the verse's order is the answer: the conduct items come first, the heightened mind after them.
+
+## Sources
+
+- [Dhammapada 183, trans. Thanissaro Bhikkhu (accesstoinsight)](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.14.than.html)
 
 ## Stories
 
