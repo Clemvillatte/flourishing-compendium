@@ -12,13 +12,15 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 158** — Everyone wants to be happy
 
-Every person you meet is moved by the same wish to be well and free of suffering: the cruel and the kind alike. Start from the common ground.
+The Dhammapada verses most often cited for this principle run as a pair: "All tremble at violence; all fear death. Putting oneself in the place of another, one should not kill nor cause another to kill" ([Dhammapada 129-130, Buddharakkhita translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.10.budd.html)). The instruction to put yourself in the place of another is not presented as advanced compassion; it is presented as the obvious reading of a shared condition — everyone trembles, everyone fears.
 
-(Dhammapada; Metta Sutta.)
+The Metta Sutta makes the same move with an instruction rather than a claim: cherish all living beings the way a mother cherishes her only child ([Karaniya Metta Sutta, Sn 1.8, Thanissaro Bhikkhu translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.than.html)). The bar is not warm feeling; it is recognition that the person in front of you is running the same operating system — wanting to be well, wanting the pain to stop — even when the surface behaviour is hostile.
 
-**Plain words** Every person you meet is moved by the same wish to be well and free of suffering — the cruel and the kind alike. Start from the common ground. Behind every hostile face is a frightened animal that never learned another language.
+> "All tremble at violence; all fear death. Putting oneself in the place of another, one should not kill nor cause another to kill." (Dhammapada 129-130, Buddharakkhita translation, [Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.10.budd.html))
 
-*For example:* The customer screaming at the barista — underneath the volume is a person whose day is collapsing. Same wish as yours: 'let this stop hurting.'
+**Plain words** The customer screaming at the barista is not a different species from you. Underneath the volume is a person whose day is collapsing, running the same wish you run when your day collapses: let this stop hurting. This is not a demand to like them or to accept the behaviour; it is a recognition that the cruelty is a language, not a nature. Start from the shared ground and the intervention changes; you stop trying to win against them and start trying to lower the temperature.
+
+*For example:* Two people deal with the same hostile customer. One treats the hostility as the fact and matches it; the interaction escalates. The other hears the wish underneath the volume and responds to that; the interaction ends. Same customer; only one of them is going to have a calm afternoon.
 
 ## Psychology parallels
 
