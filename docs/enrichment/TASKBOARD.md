@@ -62,7 +62,7 @@ The owner's primary-source library is in `docs/PRIMARY-SOURCES.md`.
 | p1i | selected ranks 491-615 | D115 to B148 (30 priority items) | p1i | claimed | genuineflourishing39 | 2026-10-19 |
 | p1j | selected ranks 616-695 | B153 to P189 (30 priority items) | p1j | done (30/30; band closed by genuineflourishing32) | genuineflourishing32 | 2026-10-19 |
 | p1k | selected ranks 696-806 | P192 to B183 (30 priority items) | p1k | done (30/30; band closed by genuineflourishing32) | genuineflourishing32 | 2026-10-19 |
-| p1l | selected ranks 840-901 | D032 to P082 (30 priority items) | p1l | claimed | agent-p1l-worker-27c22a8e (takeover from stale genuineflourishing32; 28/30 done) | 2026-10-20 |
+| p1l | selected ranks 840-901 | D032 to P082 (30 priority items) | p1l | done (30/30; band closed by agent-p1l-worker-27c22a8e) | agent-p1l-worker-27c22a8e | 2026-10-20 |
 | p1m | selected ranks 902-1036 | P090 to B152 (30 priority items) | p1m | claimed | worker-p1m-fd2db49a (session-specific role identifier; no verified yopmail identity) | 2026-10-20 |
 | p1n | selected ranks 1037-1142 | B164 to P036 (30 priority items) | p1n | OPEN | unclaimed | 2026-10-19 |
 | p1o | selected ranks 1143-1320 | P040 to B042 (30 priority items) | p1o | OPEN | unclaimed | 2026-10-19 |
