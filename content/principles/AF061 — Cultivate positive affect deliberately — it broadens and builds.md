@@ -10,13 +10,19 @@ number: "61"
 navigation: {"track": "philosophy", "primaryPath": ["NAV-PHILOSOPHY", "NAV-PHIL-PP"], "alternatePaths": []}
 legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect", "chapter": "AF-S06 — LAYER VI — POSITIVE AFFECT & AFFILIATIVE FEELING", "parent": ""}
 ---
+
 > **Principle 61** — Cultivate positive affect deliberately: it broadens and builds
 
-Positive affect is not just pleasant; it broadens attention and cognition, builds physical, cognitive, and social resources, and creates upward spirals. This is the broaden-and-build theory, one of the most influential in affect science.
+Fredrickson's theory names two effects of positive emotions. In the short term they broaden the momentary thought-action repertoire; over time this serves to build enduring personal resources. The abstract presents this as a theory about what positive emotions do, not just how they feel ([Fredrickson, 2001, PubMed 11315248](https://pubmed.ncbi.nlm.nih.gov/11315248/)).
 
-**Plain words** Positive affect isn't just pleasant — it broadens attention and cognition, builds physical, cognitive, and social resources, and creates upward spirals. The broaden-and-build theory: positive affect is investment, not indulgence. Cultivate it deliberately.
+> The broaden-and-build theory posits that experiences of positive emotions broaden people's momentary thought-action repertoires, which in turn serves to build their enduring personal resources, ranging from physical and intellectual resources to social and psychological resources.
+>
+> — Fredrickson, 2001, American Psychologist 56(3) ([PubMed](https://pubmed.ncbi.nlm.nih.gov/11315248/))
 
-*For example:* The team in a good week that suddenly solves the problem that was stuck for two months — the broadened cognition is visible in the meeting. The good mood wasn't the reward for solving it; it was the cause of solving it.
+**Plain words** The compendium's application of this principle asks the reader to treat positive affect as something with a function, not only a feeling. The theory's own claim is that the broadening happens in the moment and the building happens over time. The compendium's practice directive follows from this: seek experiences that elicit positive affect because of what they expand, not for the pleasantness alone.
+
+For example (imagined): a team in a good week suddenly solves a problem that had been stuck for two months. The broadened repertoire is visible in the meeting; the good mood was not the reward for solving it.
+
 ## Psychology parallels
 
 - **[[Broaden-and-build|Broaden-and-build theory]]**, positive emotions broaden thought-action repertoires and build enduring resources (Fredrickson, 2001, 2013)

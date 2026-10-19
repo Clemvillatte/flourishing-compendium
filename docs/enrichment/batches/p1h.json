@@ -29,9 +29,10 @@
   "A100",
   "A103",
   "A104",
-  "AF048"
+  "AF048",
+  "AF061"
  ],
- "in_progress": "AF061",
+ "in_progress": null,
  "flagged": {
   "D007": "inherited psych claims (Peng/Nisbett, Spencer-Rodgers) not verified; preserved per protocol",
   "D014": "Reopened for QC: milestone QC round 3: evidence scoping repairs",
@@ -46,6 +47,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 9,
- "updated": "2026-10-19T14:55:16+00:00",
+ "updated": "2026-10-19T14:55:40+00:00",
  "band_done": false
 }
