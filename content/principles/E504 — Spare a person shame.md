@@ -12,13 +12,25 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 504** — Spare a person shame
 
-What do you think most humane? To spare a person shame. When you must correct someone — a student, a colleague, a child, a friend — the humane act is not to withhold the truth but to deliver it in a way that does not make them feel globally bad about themselves. Shame targets the whole self; correction can target the act.
+The Gay Science gives the principle as a pair of adjacent aphorisms, verbatim:
+
+> "Whom dost thou call Bad?—Him who always wants to put others to shame." (Nietzsche, 1882/1910, The Gay Science §273, trans. Thomas Common.)
+
+> "What dost thou think most humane?—To spare a person shame." (Nietzsche, 1882/1910, The Gay Science §274, trans. Thomas Common.)
+
+The pair works as a rule for correction. Shame aims at the whole person, and the aphorism's word for someone who habitually puts others to shame is bad. Correction that targets the act leaves the person intact: "The report has three errors" is a fact about a document; "you're so careless" is a verdict on a self. The humane act is truth delivered without the global humiliation.
 
 (Nietzsche, The Gay Science 274.)
 
-**Plain words** When you correct someone, aim at the deed, not the whole person. "The report has three errors" leaves a person intact; "you're so careless" does collateral damage that outlasts the lesson by years. Truth delivered without global shame is the humane version.
+**Plain words**
+When you correct someone, aim at the deed, not the whole person. A mistake can be pointed at and fixed; a verdict on someone's self gives them nothing to fix and every reason to hide. The humane version of correction is the one the person can act on without wanting to disappear.
 
-*For example:* The supervisor who closes the door and says "this section let us down, let's fix it together" — the junior corrects the work and keeps the spine they'll need to do better work.
+**For example**
+A supervisor closes the door and says "this section let us down; let's fix it together." The junior corrects the work and keeps the standing they need to do better work.
+## Sources
+
+- [Nietzsche, The Joyful Wisdom ("La Gaya Scienza"), trans. Thomas Common, 1910 (Project Gutenberg)](https://www.gutenberg.org/files/52881/52881-0.txt) — §§273-274
+
 ## Psychology parallels
 
 - **Shame vs guilt (Tangney)**, guilt targets behaviour and motivates repair; shame targets the self and motivates hiding (conceptual parallel; Tangney and Dearing, 2002)
