@@ -12,11 +12,19 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 69** — Recognise identity disturbances: when self is fragmented
 
-Identity disturbance — a fragmented, unstable, or incoherent sense of self — is a clinical symptom associated with borderline personality disorder, complex trauma, and other conditions. It is not ordinary identity exploration; it is a specific clinical pattern.
+The clinical pattern the principle names is documented in the BPD literature:
 
-**Plain words** Some people live with a self that won't hold together — shifting values, unstable sense of who they are, relationships that burn down and rebuild. This isn't a character flaw; it's a pattern that deserves clinical care, not tough love. Fragmentation is a symptom, not a choice.
+> "This identity disturbance manifests as uncertainty in personal values, beliefs, preferences, and interests." (Wikipedia, [Borderline personality disorder](https://en.wikipedia.org/wiki/Borderline_personality_disorder))
 
-*For example:* The friend who is a different person every six months — new name for the self, new friend group, new core belief, the old one discarded — isn't flighty. Something is making a coherent story impossible to sustain. That deserves a professional, not a joke at brunch.
+The article adds that individuals diagnosed with BPD frequently experience significant difficulties in maintaining a stable self-concept, and that the main approach to managing BPD is psychotherapy, with long-term, consistent psychotherapy preferred ([Wikipedia](https://en.wikipedia.org/wiki/Borderline_personality_disorder)).
+
+**Plain words**
+Identity exploration tries on selves and keeps a running thread. Identity disturbance cannot sustain the thread: the values, beliefs and interests shift so much that no coherent story holds together long enough to act from. The principle's job is recognition: this pattern has a name, it appears in the clinical literature, and it responds to treatment, which is why the move is professional care rather than a stronger self-improvement push.
+
+*For example:*
+The friend who is a different person every six months — new name for the self, new friend group, new core belief, the old one discarded — isn't flighty. Something is making a coherent story impossible to sustain. That deserves a professional, not a joke at brunch.
+
+## Psychology parallels not a joke at brunch.
 ## Psychology parallels
 
 - **Identity disturbance in BPD and complex trauma**, identity diffusion is a clinical symptom (APA, 2022; Kernberg, 1976)
@@ -27,6 +35,10 @@ Identity disturbance — a fragmented, unstable, or incoherent sense of self —
 - **[[The fractured self|The fractured self]]** (Laing, The Divided Self)
 - **Dissociation and self** (Janet, Psychological Automatism)
 - **Know thy limits** (Delphic maxim)
+
+## Sources
+
+- [Wikipedia, Borderline personality disorder](https://en.wikipedia.org/wiki/Borderline_personality_disorder) — identity-disturbance description quoted verbatim; self-concept and psychotherapy sentences cited
 
 ## Practice
 
