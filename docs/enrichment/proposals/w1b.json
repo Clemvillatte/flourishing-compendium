@@ -4,13 +4,14 @@
   "Broaden-and-build",
   "Delight in the ordinary",
   "Forgiveness",
-  "Perspective-getting"
+  "Perspective-getting",
+  "Ren"
  ],
  "flagged": {
   "Perspective-getting": "seed cites 'Epley et al., 2007' for 'asking beats perspective-taking'; no such perspective-getting paper could be found (canonical: Epley et al. 2004 anchoring; Eyal, Steffel & Epley 2018 JPSP 114(4):547-571 'Perspective mistaking'). Original line kept, prose cites the verified papers."
  },
  "missing_concepts": [],
- "sources_checked": 13,
+ "sources_checked": 17,
  "inline": [],
  "reciprocal": [
   {
@@ -167,6 +168,41 @@
    "target": "content/concepts/Compassion.md",
    "concept": "Perspective-getting",
    "why": "the concern that makes accuracy about others matter"
+  },
+  {
+   "target": "content/concepts/Li: ritual propriety.md",
+   "concept": "Ren",
+   "why": "li is ren's training ground (Analects 12.1)"
+  },
+  {
+   "target": "content/concepts/Shu.md",
+   "concept": "Ren",
+   "why": "shu is the one-word reciprocity method Confucius pairs with ren (15.24)"
+  },
+  {
+   "target": "content/concepts/Filial piety.md",
+   "concept": "Ren",
+   "why": "filial piety is ren's first expression"
+  },
+  {
+   "target": "content/concepts/Care.md",
+   "concept": "Ren",
+   "why": "care ethics reads relation the way ren does"
+  },
+  {
+   "target": "content/concepts/The golden rule.md",
+   "concept": "Ren",
+   "why": "shu is the negative form of the golden rule"
+  },
+  {
+   "target": "content/concepts/Arete.md",
+   "concept": "Ren",
+   "why": "both are excellences of character grown through practice"
+  },
+  {
+   "target": "content/concepts/Role ethics.md",
+   "concept": "Ren",
+   "why": "the contemporary Confucian reading of ren through roles"
   }
  ],
  "notes": "continues after lead applied the first proposals file (moved to applied/)"
