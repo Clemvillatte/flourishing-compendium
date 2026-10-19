@@ -221,3 +221,12 @@ session after supervisor QC flags.
     - A078: blockquote locator changed from "NE VIII.4" to "NE VIII" (the MIT page is a whole-book file; the chapter within VIII was not verifiable from the opened text); "friendships that ran on usefulness" roles framing replaced with why-people-value-each-other; example's persistence-does-not-prove-virtue reading replaced.
     - A091: explanation narrowed to what the passages state; teacher example marked as proposed application; business/leisure quote given its (Politics VII) locator; NE X.8 now verified via the MIT book-X page (nicomachaen.10.x.html): "in a secondary degree the life in accordance with the other kind of virtue is happy" — the earlier fetch failure was a URL-pattern issue, now resolved.
 - Saturation: A037 linked from Phronesis and Deinotes concept contexts; no new reciprocals proposed.
+
+## E007 — Practise eidetic seeing (done 2026-10-19)
+
+- Opened: Husserl, Ideas I (Kersten translation full-text PDF, https://www.finophd.eu/wp-content/uploads/2018/01/Husserl-Ideas-First-Book.pdf), same opened PDF as E003; §§3-4 and §70 extracted this item; source not double-counted
+  - Verified verbatim (blockquote, §3): "The essence (Eidos) is a new sort of object. Just as the datum of individual or experiencing intuition is an individual object, so the datum of eidetic intuition is a pure essence."
+  - Verified §70 (paraphrased with locator): free phantasies have primacy for eidetic findings; the geometer reshapes figures at will in phantasy, running through continuously modified possible shapings, accessing essential possibilities.
+  - The old plain words was a replicate of the body (same vary-what-changes-what-stays text); repaired. The old example's discovered invariant + "failing to schedule for" aphorism replaced with a conditional delivery framing. Ideas II citation kept as inherited locator (not opened).
+  - Speed directive: no advisor QC this item (16; last milestone 15); one commit.
+- Saturation: E007 linked from its many Stories; no new reciprocals proposed.

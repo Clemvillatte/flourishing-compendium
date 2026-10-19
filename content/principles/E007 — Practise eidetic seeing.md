@@ -12,13 +12,19 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 399** — Practise eidetic seeing
 
-Seek the essential structures of experience. Eidetic seeing (Wesensschau) is the practice of grasping what is essential — what could not be otherwise — in a given phenomenon. Vary the phenomenon in your imagination: what changes? What remains invariant? The invariant is the eidos, the essence.
+Eidetic seeing is Husserl's name for grasping an essence. Ideas I defines what gets seen:
+
+> The essence (Eidos) is a new sort of object. Just as the datum of individual or experiencing intuition is an individual object, so the datum of eidetic intuition is a pure essence. (Husserl, Ideas I §3, Kersten trans., [full-text PDF](https://www.finophd.eu/wp-content/uploads/2018/01/Husserl-Ideas-First-Book.pdf))
+
+The method comes in §70: essences are seized by varying examples in free phantasy, as the geometer reshapes figures at will and runs through continuously modified possible shapings. What stays invariant through the variations is the essence. The principle's directive, vary the phenomenon in imagination and watch for the invariant, restates that method.
 
 (Husserl, 1913/1982, Ideas I, §§3-4, 70-71; Husserl, 1952/1989, Ideas II.)
 
-**Plain words** Eidetic seeing: grasp what's essential — what could not be otherwise — by varying the phenomenon in imagination. What changes? What stays invariant through every variation? The invariant is the essence. Not mystical; a disciplined what-if.
+**Plain words**
+Take something you think you know, like a good conversation. Imagine it going differently: louder, slower, with a stranger, on a walk. Some features fall away without the thing collapsing; those were decoration. The features you cannot remove without the conversation ceasing to be good are the essence. The exercise tests what matters by deletion.
 
-*For example:* Someone varies their idea of "a good conversation" across twenty imaginary versions — cafes, walks, arguments, silences — and finds the invariant: neither party is performing. That's the essence they'd been failing to schedule for.
+*For example:* Vary "a good conversation" across twenty imaginary versions (cafes, walks, arguments, silences) and watch for what stays. If the invariant is that neither party is performing, the exercise has delivered an essence.
+
 ## Stories
 
 - [[ST002 — The Butterfly Dream|2. The Butterfly Dream]]
