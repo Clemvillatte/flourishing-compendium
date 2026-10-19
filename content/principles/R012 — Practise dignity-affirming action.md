@@ -16,9 +16,27 @@ Treat every person as possessing inherent dignity that cannot be taken away. In 
 
 ([[Ubuntu|Ubuntu philosophy]]; Tutu, No Future Without Forgiveness; Ramose, African Philosophy Through Ubuntu.)
 
-**Plain words** Dignity isn't a rank you earn or lose through status, wealth, or behaviour — it's built into being human, period. So the practice is to act, with everyone, as if that were true: the CEO, the detainee, the person who just failed you.
+### Dignity is given, not earned
 
-*For example:* The nurse who gives the same unhurried, respectful care to the aggressive drunk at 4 a.m. as to the grateful elder at noon — and both notice, and both straighten up a little.
+Ubuntu puts dignity inside personhood itself: nothing to qualify for. Tutu renders the idea: "It is to say, 'My humanity is caught up, is inextricably bound up, in yours.' We belong in a bundle of life. We say, 'A person is a person through other persons.'" ([No Future Without Forgiveness](https://ia902902.us.archive.org/8/items/no-future-without-forgiveness-desmond-tutu/No%20Future%20Without%20Forgiveness%20(Desmond%20Tutu)%20.pdf)). Because your humanity runs through other people's, writing anyone off writes off part of yourself.
+
+### What affirming looks like
+
+Tutu's test is behavioural, not sentimental. The person with ubuntu "is diminished when others are humiliated or diminished, when others are tortured or oppressed, or treated as if they were less than who they are." Humiliation is not a private harm to its target; it diminishes the community, including the one inflicting it.
+
+### Why the dignity is unconditional
+
+Tutu is categorical about what "endowed human beings, every single human being without exception, with worth, infinite worth": it "is not this or that biological or any other extrinsic attribute." No bank statement, diagnosis or charge sheet measures it.
+
+**Plain words**
+Dignity here is not a verdict you deliver after weighing someone's status or behaviour; it is the floor every person stands on for being a person. Catch the moments where you quietly downgrade someone — the cold caller, the slow cashier, the relative who keeps failing — and give them the patience you would give someone whose opinion of you matters. Treating a person as less than they are does not just shrink them; it shrinks the shared humanity you live from.
+
+*For example:* The nurse who gives the same unhurried, respectful care to the aggressive drunk at 4 a.m. as to the grateful elder at noon.
+
+## Sources
+
+- [Desmond Tutu, No Future Without Forgiveness — full scan (Archive.org)](https://ia902902.us.archive.org/8/items/no-future-without-forgiveness-desmond-tutu/No%20Future%20Without%20Forgiveness%20(Desmond%20Tutu)%20.pdf) — the ubuntu passage; "infinite worth" passage
+
 ## Stories
 
 - [[ST234 — Te Whiti and the Ploughmen|234. Te Whiti and the Ploughmen]]
@@ -44,4 +62,3 @@ Treat every person as possessing inherent dignity that cannot be taken away. In 
 
 - **[[Dignity|Dignity]]** (Kant, Groundwork of the Metaphysics of Morals)
 - **[[Recognition|Recognition]]** (Honneth, The Struggle for Recognition)
-

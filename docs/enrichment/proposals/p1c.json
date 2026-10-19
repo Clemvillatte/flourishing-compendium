@@ -2,6 +2,11 @@
  "inline": [],
  "reciprocal": [
   {
+   "into": "Ubuntu",
+   "link": "R012 — Practise dignity-affirming action",
+   "why": "the Ubuntu concept page's dignity discussion (Metz's reconstruction, Tutu as anchor figure) cites no principle; R012 is the wiki's Ubuntu dignity principle and now carries verbatim Tutu from No Future Without Forgiveness, the book the concept page leans on"
+  },
+  {
    "into": "Simplicity",
    "link": "D022 — Subtract, don't add",
    "why": "the Simplicity page names subtraction as its method (Via negativa) and Wu wei as its Daoist root, but cites no Daoist principle; D022 (DDJ 48, subtract before adding) is the principle behind that strand, and its psychology parallels (choice overload) are the same argument"
