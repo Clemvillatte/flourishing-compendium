@@ -198,3 +198,11 @@ Advisor QC (2026-10-19): quotes verified (BQ1 ch. 22 sentence, BQ2 ch. 68 verse 
 - Inherited, NOT opened: Yaden et al. 2017, Stellar et al. 2018 claims; the Toward a Psychology of Being 1962 locator — flagged in the band state file.
 - Saturation: Awe, Peak experiences, The will to believe all cite P115; no justified new proposals.
 - Validator: ok after dash-budget fix; prose 195 words; protected fields untouched.
+
+## P140 — Treat mind and life as continuous (done; no advisor QC per speed directive, item 22)
+
+- Opened: Thompson's own Precis of Mind in Life (Journal of Consciousness Studies author proof, https://evanthompson.me/wp-content/uploads/2012/11/thompson_precis_jcs_author_proof.pdf) — NEW SOURCE (author's site); source count incremented. Verified verbatim: "The theme of this book is the deep continuity of life and mind. Where there is life there is mind, and mind in its most articulated forms belongs to life. Life and mind share a core set of formal or organizational properties, and the formal or organizational properties distinctive of mind are an enriched version of those fundamental to life."
+- The book itself was not opened; the thesis paragraph is verified from the author's own published precis — flagged in the band state file.
+- P140 was on the plain-words replicate list; replicate Plain words replaced; the outcome-asserting For example ("one nine-hour night and the crisis dissolves") replaced with a physical-audit action.
+- Saturation: Mind-life continuity and Organism-environment transaction cite P140; no justified new proposals.
+- Validator: ok, prose 173 words; protected fields untouched.

@@ -12,13 +12,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 140** — Treat mind and life as continuous
 
-Mind is not an add-on to life; it is life's way of regulating itself: the same self-maintaining, sense-making organization. Care for the life (sleep, food, movement) and you care for the mind.
+The principle is Thompson's thesis, stated in his own précis of Mind in Life. The continuity claim is organizational rather than metaphorical: the same self-maintaining, sense-making pattern that keeps a cell alive is, in enriched form, the pattern of mind ([Thompson, Mind in Life, 2007](https://evanthompson.me/wp-content/uploads/2012/11/thompson_precis_jcs_author_proof.pdf)).
+
+> The theme of this book is the deep continuity of life and mind. Where there is life there is mind, and mind in its most articulated forms belongs to life. Life and mind share a core set of formal or organizational properties, and the formal or organizational properties distinctive of mind are an enriched version of those fundamental to life. (Thompson, Mind in Life, précis)
+
+The practical reading the principle takes from it: if mind is the life's regulation in an enriched register, the regulation runs through the body's condition. The therapy hour and the sleep debt are not separate budgets.
 
 (Thompson, Mind in Life, 2007.)
 
-**Plain words** Mind is not an add-on to life — it's life's way of regulating itself. Care for the life (sleep, food, movement) and you care for the mind. The therapy hour can't outrun the sleep debt; nobody's mind outperforms their body's actual condition.
+**Plain words**
+The mind is not software running on body hardware; it is what the body's self-maintenance looks like when it gets elaborate enough to plan. Feed, rest and move the organism, and you have fed, rested and moved the mind that depends on it. When the mind feels broken, one of the first questions is whether the organism is simply tired.
 
-*For example:* The week of short sleep masquerading as a spiritual crisis — one nine-hour night and the crisis dissolves. The mind was fine; the life was tired. Fix the life.
+**For example**
+When a week of short sleep starts to feel like an existential crisis, run the physical audit before the philosophical one: hours slept, meals eaten, movement had.
+
+## Sources
+
+- [Thompson, Précis of Mind in Life (Journal of Consciousness Studies), author proof PDF](https://evanthompson.me/wp-content/uploads/2012/11/thompson_precis_jcs_author_proof.pdf) — thesis paragraph verified verbatim
 
 ## Stories
 

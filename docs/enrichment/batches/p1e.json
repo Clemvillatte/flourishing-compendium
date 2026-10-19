@@ -21,9 +21,10 @@
   "P012",
   "P015",
   "P089",
-  "P115"
+  "P115",
+  "P140"
  ],
- "in_progress": "P140",
+ "in_progress": null,
  "flagged": {
   "D011": "inherited psychology claim (Kashdan & Rottenberg 2010 'outperforms on nearly every outcome') not verified against an opened source; preserved per protocol, flagged for supervisor",
   "D068": "inherited psychology-parallels claims (Gottman soft startup; assertiveness research 'aggression reliably loses long games') not verified against opened sources; flagged for supervisor",
@@ -44,10 +45,11 @@
   "P012": "psychology-parallels claim (Hayes et al. 2020 functional analysis) not verified against opened sources; flagged for supervisor",
   "P015": "psychology-parallels claims (Dweck 2006; Dweck and Leggett 1988) and the Experience and Nature 1925 locator not verified against opened sources; flagged for supervisor",
   "P089": "psychology-parallels claim (Sonnentag and Fritz 2007) and the Bergson Time and Free Will locator not verified against opened sources; flagged for supervisor",
-  "P115": "psychology-parallels claims (Yaden et al. 2017; Stellar et al. 2018) and the Toward a Psychology of Being 1962 locator not verified against opened sources; the 'don't chase' demand-warning is labelled as the compendium's reading, not Maslow's sentence; flagged for supervisor"
+  "P115": "psychology-parallels claims (Yaden et al. 2017; Stellar et al. 2018) and the Toward a Psychology of Being 1962 locator not verified against opened sources; the 'don't chase' demand-warning is labelled as the compendium's reading, not Maslow's sentence; flagged for supervisor",
+  "P140": "the Mind in Life book itself not opened; the thesis paragraph verified from Thompson's own published precis (JCS author proof on his site); flagged for supervisor"
  },
  "missing_concepts": [],
- "sources_checked": 10,
- "updated": "2026-10-19T12:38:04+00:00",
+ "sources_checked": 11,
+ "updated": "2026-10-19T12:38:26+00:00",
  "band_done": false
 }
