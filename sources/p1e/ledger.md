@@ -414,3 +414,10 @@ Advisor QC (2026-10-19): quotes verified (BQ1 ch. 22 sentence, BQ2 ch. 68 verse 
 - Body framed as goal-structure comparison per QC standards (not step-size claims); compendium application labelled; limits sentence included. Plain words de-duplicated from body, em dashes removed; example em dash removed.
 - Inherited, NOT opened: Skinner 1953, Ferster & Skinner 1957, Beck 1976, Laozi/Daodejing 64, Gradual Training Sutta, Aristotle NE II parallels — flagged in state.
 - Validator: ok; protected fields untouched vs HEAD.
+
+## BE019 — Learn to schedule pleasurable activities (done 2026-10-20 by worker-p1e-4f2c9b1d, item 17)
+
+- Opened: Lewinsohn and Libet 1972 abstract via an actual fetch of the Semantic Scholar record (https://www.semanticscholar.org/paper/0d0afd89ee8715489df5584a1be0f3c8886ab18e; PubMed lists no abstract for PMID 5033370). Verified verbatim: "A significant association between mood and pleasant activities was found. There were large individual differences in regard to the magnitude of the correlation between mood and activity, but differences between groups failed to attain statistical significance." PsycNET full-text PDF attempted and blocked (recorded). Sources_checked +1 (35 -> 36).
+- Honest framing per QC standards: the 1972 study is correlational (mood-activity association, groups did not differ significantly), NOT an intervention trial; the scheduling-reduces-depression claim explicitly marked as inherited from later work. "It is antidepressant" overclaim removed from Practice. Plain words and example de-em-dashed; [[Behavioral activation]] link preserved in body.
+- Inherited, NOT opened: Lewinsohn et al. 1976, Lewinsohn & Amor 1978, MacPhillamy & Lewinsohn 1976, Aristotle NE X, Huizinga, Buddhist mudita parallels — flagged in state.
+- Validator: ok; protected fields untouched vs HEAD.

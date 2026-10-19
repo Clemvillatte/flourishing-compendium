@@ -12,11 +12,20 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BE — Overt Be
 ---
 > **Principle 19** — Learn to schedule pleasurable activities: enjoyment-driven behaviour
 
-Pleasurable activities — behaviours that are inherently enjoyable (hobbies, social, art, music) — are a specific type of [[Behavioral activation|behavioural activation]]. They provide positive affect and counter anhedonia.
+Pleasurable activities — hobbies, friends, music, art — are the raw material of one of behavioural psychology's oldest observations. In Lewinsohn and Libet's study, three groups (depressed patients, psychiatric controls, and normal controls) rated their moods and counted their pleasant activities daily for 30 days. The abstract reports, verbatim:
 
-**Plain words** Schedule pleasure on purpose — hobbies, friends, music, art. Not as a reward for productivity, but as a behaviour that keeps the whole machine running. Spontaneous fun is rare in a scheduled life; put fun on the schedule.
+> "A significant association between mood and pleasant activities was found. There were large individual differences in regard to the magnitude of the correlation between mood and activity, but differences between groups failed to attain statistical significance." (Lewinsohn and Libet, 1972, Journal of Abnormal Psychology 79(3), 291-295, [Semantic Scholar record](https://www.semanticscholar.org/paper/0d0afd89ee8715489df5584a1be0f3c8886ab18e))
 
-*For example:* The person who waits to "feel like" a hobby and never does — versus the one who plays football every Tuesday. Tuesday doesn't care about your mood. That's why it works.
+Note what this is and is not: an association between mood and pleasant activity in daily records, with large individual differences, and no significant difference between the groups. It is not a trial of scheduling as a treatment. The intervention claim, that scheduling pleasant activities reduces depression, a core move of [[Behavioral activation|behavioural activation]], comes from later work flagged below as inherited. The compendium's application stands on the association plus ordinary observation: pleasure that is never scheduled tends not to occur.
+
+**Plain words** In a scheduled life, spontaneous fun mostly loses to the calendar. Put the hobby on the same footing as the dentist: a fixed weekly slot. Whether you feel like it at the time is not the question; the slot is.
+
+*For example:* The person who waits to feel like a hobby rarely does; the one who plays football every Tuesday goes. Tuesday does not care about your mood, which is why it works.
+
+## Sources
+
+- [Lewinsohn and Libet, "Pleasant events, activity schedules, and depressions" (1972), Journal of Abnormal Psychology 79(3), 291-295](https://www.semanticscholar.org/paper/0d0afd89ee8715489df5584a1be0f3c8886ab18e) — abstract quoted verbatim; mood and pleasant-activity association
+
 ## Psychology parallels
 
 - **[[Pleasant activities scheduling (Lewinsohn)|Pleasant activities scheduling (Lewinsohn)]]**, scheduling pleasant activities reduces depression (Lewinsohn et al., 1976; Lewinsohn & Amor, 1978)
@@ -30,4 +39,4 @@ Pleasurable activities — behaviours that are inherently enjoyable (hobbies, so
 
 ## Practice
 
-- Schedule pleasurable activities: identify what you genuinely enjoy (hobbies, art, music, nature, social) and schedule them. Do not neglect pleasure; it is antidepressant.
+- Schedule pleasurable activities: identify what you genuinely enjoy (hobbies, art, music, nature, social) and give it a fixed weekly slot.
