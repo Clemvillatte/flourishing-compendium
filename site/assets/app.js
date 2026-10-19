@@ -1516,7 +1516,11 @@ window.fcSwitchView = switchView;
       const o = document.createElement('option');
       o.value = r.dataset.eid;
       const depth = Math.max(0, Math.round((parseInt(r.style.paddingLeft, 10) || 7) - 7) / 14);
-      o.textContent = '\u00a0\u00a0'.repeat(depth) + (r.textContent || '').replace(/\s+/g, ' ').trim().slice(0, 60);
+      o.textContent = '\u00a0\u00a0'.repeat(depth) + String(r.textContent || '')
+        .replace(/\s+/g, ' ').trim()
+        .replace(/[\u00b7\u25b8\u25b8\u203a]+$/g, '').trim()      // trailing caret/·
+        .replace(/\s*\d+\s*$/, '').trim()                           // trailing count
+        .slice(0, 60);
       sel.appendChild(o);
     });
     sel.addEventListener('change', function () {
