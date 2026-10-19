@@ -17,7 +17,7 @@
   "PP011",
   "PP031"
  ],
- "in_progress": null,
+ "in_progress": "PP051",
  "flagged": {
   "D017": "QC note: inherited scab example kept per protocol; advisor calls it a medical claim needing a source; supervisor to arbitrate",
   "BI012": "QC round 3: list narrowed to principle's own directive + thyroid evidence only; inherited example still flagged for supervisor",
@@ -33,5 +33,5 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-19T10:26:31+00:00"
+ "updated": "2026-10-19T11:26:27+00:00"
 }
