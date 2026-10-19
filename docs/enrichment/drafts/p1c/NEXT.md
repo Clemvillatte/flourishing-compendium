@@ -1,6 +1,6 @@
 # p1c next actions (genuineflourishing29, 2026-10-19, continuation)
 
-AUTH BLOCKER (2026-10-19): the git-agent-proxy AND gh CLI tokens both return
+RESOLVED then RECURRED (2026-10-19 ~23:30): the 11:20 PM re-auth token expired again (gh api user = 401 Bad credentials); the git-agent-proxy AND gh CLI tokens both return
 401 Bad credentials; pushes fail. Local-only (NOT on origin) after commit 74e5c6c:
 PP018 done, PP047 done + milestone QC fixes, P052/P052-quote repairs, PP018 wording
 repair, ledger entries, NEXT updates. A GitHub re-auth was requested (connect button
