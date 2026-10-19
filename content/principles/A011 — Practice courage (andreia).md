@@ -18,22 +18,22 @@ Courage is the mean between cowardice (too much fear) and recklessness (too litt
 
 ### The virtue, defined
 
-The fear is not abolished; it is correctly sized. "We have already seen that Courage is the observance of the mean in respect of fear and confidence" ([NE III.6, 1115a, Ross trans., Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abekker+page%3D1115a)). Aristotle's battlefield case:
+The fear is not abolished; it is correctly sized. "We have already seen that Courage is the observance of the mean in respect of fear and confidence" ([NE III.6, 1115a, H. Rackham trans., Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abekker+page%3D1115a)). Aristotle's battlefield case:
 
-> "The courageous man, therefore, in the proper sense of the term, will be he who fearlessly confronts a noble death, or some sudden peril that threatens death; and the perils of war answer this description most fully." — Aristotle, Nicomachean Ethics III.6, 1115a (Ross trans.)
+> "The courageous man, therefore, in the proper sense of the term, will be he who fearlessly confronts a noble death, or some sudden peril that threatens death; and the perils of war answer this description most fully." — Aristotle, Nicomachean Ethics III.6, 1115a (H. Rackham trans.)
 
 ### What the trade-off is
 
 The brave act trades something valued (comfort, safety, standing) for a purpose judged nobler. The coward over-prices safety, the rash person under-prices it; both are mis-measuring the same ledger. And the virtue grows by repetition: small honest acts first, larger ones later, the capacity following the practice.
 
 **Plain words**
-Courage here is not the absence of fear; it is fear doing its job without running the show. Every brave act is a trade: comfort for honesty, safety for someone else, an easy silence for a hard sentence. The practice is to catch yourself pricing the trade dishonestly, inflating the risk to excuse the retreat, and make the price honest before deciding.
+Courage here is not the absence of fear; it is fear doing its job without running the show. It helps to think of every brave act as a trade: comfort for honesty, safety for someone else, an easy silence for a hard sentence. The practice is to catch yourself pricing the trade dishonestly, inflating the risk to excuse the retreat, and make the price honest before deciding.
 
-*For example:* Saying "that number is wrong" in the meeting, with the fear present and the voice steady.
+*For example:* Aristotle's strict case is the soldier facing a noble death. A modern application: saying "that number is wrong" in the meeting, with the fear present and the voice steady.
 
 ## Sources
 
-- [Aristotle, Nicomachean Ethics III.6-9 (W.D. Ross trans., Perseus Digital Library)](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abekker+page%3D1115a) — courage as the mean in fear and confidence (1115a); the brave man and noble death (1115a)
+- [Aristotle, Nicomachean Ethics III.6-9 (H. Rackham trans., Perseus Digital Library)](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abekker+page%3D1115a) — courage as the mean in fear and confidence (1115a); the brave man and noble death (1115a)
 
 ## Stories
 

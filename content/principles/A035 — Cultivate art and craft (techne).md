@@ -12,26 +12,26 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 35** — Cultivate art and craft (techne)
 
-Techne is the capacity to make things well, guided by reason: the knowledge of how to produce. It goes past knack into understanding of the principles of production. Make things. Craft something with your hands and your mind. The maker's knowledge is irreplaceable.
+Techne is the capacity to make things well, guided by reason: the knowledge of how to produce. It goes past knack into understanding of the principles of production. Make things. Craft something with your hands and your mind.
 
 (NE VI.4; Metaphysics I.1.)
 
 ### What a techne is
 
-> "Art, therefore, as has been said, is a rational quality, concerned with making, that reasons truly." — Aristotle, Nicomachean Ethics VI.4, 1140a (Ross trans., [Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abekker+page%3D1140a))
+> "Art, therefore, as has been said, is a rational quality, concerned with making, that reasons truly." — Aristotle, Nicomachean Ethics VI.4, 1140a (H. Rackham trans., [Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abekker+page%3D1140a))
 
-### Why the maker's knowledge cannot be borrowed
+### What the reasoning buys you
 
-The claim is epistemic rather than aesthetic: you learn something by producing that you cannot learn by consuming. The baker who has failed ten loaves knows what the dough is doing; the reader of recipes knows what the words say.
+The definition turns on reasoning: the maker knows why the method works, so the method can be varied, repaired and taught. The craftsperson and the recipe-follower can produce the same loaf; only one of them can say why it failed when it fails.
 
 **Plain words**
-Making things well takes more than a knack; it takes the knack plus the reason underneath it. That is why the knowledge cannot be borrowed: the person who has only read about bread has the words, and the person who has baked has the feel for what the words are about. Start with something you can finish badly, and let the tenth attempt argue with the first.
+The real test of a techne is the failed attempt, not the successful one. A knack leaves you stuck when the thing comes out wrong; an understanding of why the method works lets you name the probable cause and change one thing for a reason. Practise by making things that can fail, and by fixing them.
 
 *For example:* Baking the same loaf ten times and changing one thing each time teaches you more about bread than reading ten recipes.
 
 ## Sources
 
-- [Aristotle, Nicomachean Ethics VI.4 (W.D. Ross trans., Perseus Digital Library)](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abekker+page%3D1140a) — techne defined (1140a)
+- [Aristotle, Nicomachean Ethics VI.4 (H. Rackham trans., Perseus Digital Library)](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abekker+page%3D1140a) — techne defined (1140a)
 
 ## Stories
 
