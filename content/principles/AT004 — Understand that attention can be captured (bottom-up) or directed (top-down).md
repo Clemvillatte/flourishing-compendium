@@ -12,11 +12,20 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AT — Attentio
 ---
 > **Principle 4** — Understand that attention can be captured (bottom-up) or directed (top-down)
 
-There are two modes of attentional control. Bottom-up (stimulus-driven) attention is captured by salient, novel, or threatening stimuli automatically. Top-down (goal-directed) attention is deliberately directed toward goals and tasks. The interplay between these determines what you notice and what you ignore.
+Corbetta and Shulman reviewed brain evidence for "partially segregated networks of brain areas that carry out different attentional functions." One system "is involved in preparing and applying goal-directed (top-down) selection for stimuli and responses." The other "is specialized for the detection of behaviourally relevant stimuli, particularly when they are salient or unexpected." They describe this second system as working "as a 'circuit breaker' for the dorsal system, directing attention to salient events." Finally, "both attentional systems interact during normal vision" ([Corbetta and Shulman, 2002](https://pubmed.ncbi.nlm.nih.gov/11994752/)).
 
-**Plain words** Two engines drive your attention: the world can grab it (a bang, a ping, a bright colour) or you can aim it (a chosen task). Both are useful, but modern life is engineered to exploit the first. The skill is owning more of the aiming.
+### A challenge to the two-way split
 
-*For example:* The phone buzzes mid-sentence and your eyes go before you decide anything — that's the grab. Deciding to put the phone in another room is you taking the wheel back.
+A 2012 paper argued that the dichotomy is incomplete. Awh, Belopolsky and Theeuwes write that "equally salient stimuli associated with reward can capture attention, even when this contradicts current selection goals". They propose a framework "in which past selection history is integrated with current goals and physical salience to shape an integrated priority map" ([Awh et al., 2012](https://pmc.ncbi.nlm.nih.gov/articles/PMC3426354/)). Past experience, in other words, can steer attention without being either a current goal or physical salience.
+
+### Scope
+
+The sources describe brain systems and lab findings about vision. They do not address phones, advertising or the claim that modern life exploits the first system. That is the compendium's reading.
+
+**Plain words** Attention can be pulled by something salient or sudden, or it can be pointed at something you have chosen. Brain research describes two networks for this, and they work together. More recent work adds that past experience, such as what has paid off before, also shapes where attention goes.
+
+*For example:* Imagine the phone buzzing mid-sentence and your eyes go to it before you decide anything. That is the grab. Putting the phone in another room beforehand is the aiming.
+
 ## Psychology parallels
 
 - **[[Two modes of attentional control|Two modes of attentional control]]**, stimulus-driven vs goal-directed attention (Corbetta & Shulman, 2002; Kastner & Ungerleider, 2000)
