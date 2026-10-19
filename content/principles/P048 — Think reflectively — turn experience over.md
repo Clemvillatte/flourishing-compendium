@@ -12,13 +12,15 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 48** — Think reflectively: turn experience over
 
-Reflective thinking is the active, persistent, careful reconsideration of what we believe and do in light of its grounds and consequences. Schedule reflection; experience alone is not a teacher.
+Dewey opens How We Think with Columbus — not for the discovery, but for the method. Columbus did not accept the current theory unhesitatingly, doubted what habit said was certain, and kept thinking until he had evidence for both his confidence and his disbelief ([Dewey 1910, Gutenberg](https://www.gutenberg.org/files/37423/37423-h/37423-h.htm)). That is the shape Dewey wants to isolate. Even a wrong conclusion reached this way is a different kind of belief, because it was reached by a different method.
 
-(Dewey, How We Think, 1910.)
+The definition follows immediately, and it is one of the most quoted sentences in educational philosophy. Reflective thought is not just thinking again; it is "active, persistent, and careful consideration of any belief or supposed form of knowledge in the light of the grounds that support it, and the further conclusions to which it tends" ([Dewey 1910, Gutenberg](https://www.gutenberg.org/files/37423/37423-h/37423-h.htm)). Experience is raw material. Reflection is what turns it into something you can use.
 
-**Plain words** Experience alone is not a teacher. The unexamined year repeats; the examined one compounds — schedule reflection, the active reconsideration of what you believe and do.
+> "Active, persistent, and careful consideration of any belief or supposed form of knowledge in the light of the grounds that support it, and the further conclusions to which it tends, constitutes reflective thought." (John Dewey, How We Think, 1910, [Gutenberg](https://www.gutenberg.org/files/37423/37423-h/37423-h.htm))
 
-*For example:* Fifteen minutes every Friday asking 'what did this week actually teach me?' — fifty small lessons a year. The unreflected version of you keeps paying for the same lesson.
+**Plain words** Having a hard week and having a hard week you learned from are two different events, and the difference is not the week. The unexamined version of you repeats the same mistake because nothing forced the lesson into words. The examined version compounds — the same mistake, named once, does not need to happen twice. This is not about being reflective by temperament; it is a schedule. Turn the experience over on purpose.
+
+*For example:* Two people go through the same bad month at work. One complains about it and moves on. The other spends fifteen minutes on the last Friday writing down what actually went wrong and what they would do differently. A year later the second person has fifty small corrections applied; the first has had the same month twelve times.
 
 ## Psychology parallels
 
