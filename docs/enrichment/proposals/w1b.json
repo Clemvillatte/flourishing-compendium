@@ -21,13 +21,14 @@
   "Narrative identity",
   "Participate: do with, not to",
   "Prosocial spending",
-  "The seasons of life"
+  "The seasons of life",
+  "Apatheia"
  ],
  "flagged": {
   "Perspective-getting": "seed cites 'Epley et al., 2007' for 'asking beats perspective-taking'; no such perspective-getting paper could be found (canonical: Epley et al. 2004 anchoring; Eyal, Steffel & Epley 2018 JPSP 114(4):547-571 'Perspective mistaking'). Original line kept, prose cites the verified papers."
  },
  "missing_concepts": [],
- "sources_checked": 46,
+ "sources_checked": 48,
  "inline": [],
  "reciprocal": [
   {
@@ -819,6 +820,41 @@
    "target": "content/concepts/Wisdom.md",
    "concept": "The seasons of life",
    "why": "the fruit the last seasons ripen"
+  },
+  {
+   "target": "content/concepts/Equanimity.md",
+   "concept": "Apatheia",
+   "why": "the steady affect apatheia leaves behind"
+  },
+  {
+   "target": "content/concepts/Nirvana.md",
+   "concept": "Apatheia",
+   "why": "the Buddhist cooling the tradition was compared to"
+  },
+  {
+   "target": "content/concepts/The dichotomy of control.md",
+   "concept": "Apatheia",
+   "why": "the training ground of the discipline"
+  },
+  {
+   "target": "content/concepts/Cognitive defusion.md",
+   "concept": "Apatheia",
+   "why": "watching thoughts instead of obeying them, the clinical cousin"
+  },
+  {
+   "target": "content/concepts/Premeditatio malorum.md",
+   "concept": "Apatheia",
+   "why": "rehearsing what judgment will face"
+  },
+  {
+   "target": "content/concepts/Temperance.md",
+   "concept": "Apatheia",
+   "why": "the cardinal virtue that orders appetite"
+  },
+  {
+   "target": "content/concepts/Wu wei.md",
+   "concept": "Apatheia",
+   "why": "non-forcing, the Daoist cousin of non-struggling"
   }
  ],
  "notes": "continues after lead applied the first proposals file (moved to applied/)"
