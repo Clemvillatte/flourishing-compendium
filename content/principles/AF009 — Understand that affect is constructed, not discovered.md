@@ -33,4 +33,4 @@ Barrett's theory of constructed emotion can be put in one of her sentences: "An 
 
 ## Practice
 
-- When you notice a feeling, remember you have latitude in what concept you apply. The same arousal can be "panic" or "readiness." Choose deliberately.
+- When you notice a feeling, attend to the bodily sensations and the context around them before describing the experience.
