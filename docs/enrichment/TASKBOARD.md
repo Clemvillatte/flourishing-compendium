@@ -11,15 +11,15 @@ Any agent starting on this repository: read `docs/ENRICHMENT-HANDOFF.md` first, 
 
 ## Bands
 
-| Band | Scope (queue ranks) | Concepts (first to last) | Prefix | Status | Agent | Since |
+Bands are defined by committed manifests in `docs/enrichment/bands/<band>-manifest.json` (frozen concept lists, tied to the queue commit they came from). Regenerating the weak-concept queue does NOT change band ownership. The lead mints new band manifests as queues shrink, and can mint bands for other entry types later. The table shows the manifest's rank range and boundary concepts for orientation only.
+
+| Band | Manifest ranks | Concepts (first to last) | Prefix | Status | Agent | Since |
 |---|---|---|---|---|---|---|
 | w1a | 1-30 | Ubuntu to The inner citadel | w1a | claimed | Agent A (lead) | 2026-10-19 |
 | w1b | 31-100 | The observing self to Wisdom | w1b | OPEN | | |
 | w1c | 101-170 | Amor sui (right self-love) to Embodied self | w1c | OPEN | | |
 | w1d | 171-240 | Escape from freedom to Attentional control theory (Eysenck) | w1d | OPEN | | |
 | w1e | 241-310 | Attentional control training to Intrinsic value of nature | w1e | OPEN | | |
-
-The lead (w1a agent) adds more bands as queues shrink, and can mint bands for other entry types (principles pass, sayings, stories) later.
 
 ## Rules for parallel agents (read before editing anything)
 
@@ -37,3 +37,5 @@ The lead (w1a agent) adds more bands as queues shrink, and can mint bands for ot
 9. Quality bar, voice and research rules are in `docs/enrichment/PROTOCOL.md` (binding). Exemplars: `docs/enrichment/EXEMPLARS.md`. Zero hallucination: every fact from a source you actually opened.
 10. **Collision tiebreak.** If you and another agent somehow collide on a file, the board claim in the table above is the tiebreaker: the claimer keeps the file; the other agent reverts their change to that file and reports it on the taskboard.
 11. **End of session (planned or sudden).** Nothing special is required IF you followed rules 2 and 3: state file current and pushed, all work pushed. If you get a warning your session is ending, run `scripts/enrich_save.sh "wip: ending session"` immediately.
+12. **Takeover (dead-agent recovery).** A band with `in_progress` stuck for more than 6 hours (check the state file's `updated` timestamp) is considered abandoned: `git pull`, write `"takeover": {"by": "<agent>", "at": "<iso ts>"}` into that band's state file, push, then check BOTH `content/` and `docs/enrichment/drafts/<band>/` for a partial draft of the in-flight concept before restarting it.
+13. **Durable drafts, unpublished site text.** Research notes and partial prose for a concept go to `docs/enrichment/drafts/<band>/<Concept>.md` and get pushed (durable, but not built into the site). Only reviewed, validated text goes into `content/`. `enrich_validate.py` + advisor/senior QC gate the move from draft to `content/`. If a session dies mid-review, the draft is still on GitHub for the next agent to finish.
