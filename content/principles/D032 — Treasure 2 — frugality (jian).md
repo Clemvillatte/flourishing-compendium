@@ -16,9 +16,21 @@ Frugality gives breadth: moderation with your money, energy, time, and words mak
 
 (DDJ 59, 67.)
 
-**Plain words** Frugality gives breadth. Moderation with money, energy, time, and words makes you impossible to exhaust and leaves you with something to give. Waste isn't just spending too much — it's living so close to your limits that you have no margin left.
+### The second treasure
+
+Chapter 67 names the treasures and what each purchases:
+
+> "But I have three precious things which I prize and hold fast. The first is gentleness; the second is economy; and the third is shrinking from taking precedence of others... With that gentleness I can be bold; with that economy I can be liberal; shrinking from taking precedence of others, I can become a vessel of the highest honour." (DDJ 67, [Legge](https://www.gutenberg.org/cache/epub/216/pg216.txt))
+
+The paradox is the point: economy is what makes liberality possible. Chapter 59 works out the mechanism: "For regulating the human (in our constitution) and rendering the (proper) service to the heavenly, there is nothing like moderation. It is only by this moderation that there is effected an early return (to man's normal state)" (DDJ 59, Legge). The return compounds, "the repeated accumulation of the attributes (of the Tao)", and its image is a plant whose "roots are deep and its flower stalks firm".
+
+**Plain words** The treasure is not thrift for its own sake. In Legge's wording the second treasure is "economy", and what it buys is to be "liberal": the person who spends less of everything can give more of anything. Margin is the mechanism. Every resource you do not run to its limit is capacity that can be lent when something breaks. Run your money, calendar and energy at full stretch and you are generous only on paper; keep slack and generosity becomes affordable.
 
 *For example:* The freelancer who keeps expenses low can say no to a nightmare client; the one leveraged to the hilt can't afford to.
+
+## Sources
+
+- [The Tao Teh King, Legge trans., Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt) — chapters 59, 67
 
 ## Psychology parallels
 
@@ -26,7 +38,6 @@ Frugality gives breadth: moderation with your money, energy, time, and words mak
 - **[[Frugality|Frugality]]** (Lastovicka et al., 1999), a stable disposition linked to lower debt and higher life satisfaction
 
 ## Philosophy parallels
-
 
 - **[[Voluntary discomfort|Voluntary discomfort]]** (Seneca, Letters)
 - **[[Frugal plenty|Frugal plenty]]** (Epicurus, Letter to Menoeceus)
