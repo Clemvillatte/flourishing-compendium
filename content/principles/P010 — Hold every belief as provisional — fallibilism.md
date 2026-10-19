@@ -12,13 +12,26 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 10** — Hold every belief as provisional: fallibilism
 
-No belief is beyond correction; error is the permanent possibility of every mind. Trade certainty for the power to revise.
+Peirce named the position. His definition is in the Collected Papers:
 
-(Peirce, "The Fixation of Belief," 1877.)
+> "Fallibilism is the doctrine that our knowledge is never absolute but always swims, as it were, in a continuum of uncertainty and of indeterminacy."
+> — C. S. Peirce, Collected Papers 1.171
 
-**Plain words** You will be wrong about something you're certain of right now — that's not an insult, it's arithmetic. Fallibilism is simply planning for that: holding every belief loose enough to be corrected. It's not weakness; it's the maintenance contract on your worldview.
+### What "The Fixation of Belief" adds
 
-*For example:* The doctor who says 'based on what we know now' — and orders the test anyway. That hedging is the whole mechanism of good medicine.
+The 1877 essay does not use the word, but it explains why holding beliefs loosely is hard. Doubt, Peirce says, "is an uneasy and dissatisfied state from which we struggle to free ourselves", while belief is "a calm and satisfactory state which we do not wish to avoid". We "cling tenaciously" to "believing just what we do believe."
+
+Peirce's cure is not private resolve. Of the person who simply holds to a belief, he writes: "The social impulse is against it. The man who adopts it will find that other men think differently from him", which "will shake his confidence in his belief." The corrective he proposes is a method in which beliefs are "determined by nothing human, but by some external permanency".
+
+### What the principle does not say
+
+Fallibilism here means no belief is exempt from correction. It does not mean doubting everything at once. Peirce separates real doubt from lip service: he describes some readers who, on seeing a belief was shaped by something outside the facts, "will experience a real doubt of it, so that it ceases to be a belief".
+
+(Peirce, CP 1.171; "The Fixation of Belief," 1877.)
+
+**Plain words** You are probably wrong about something you feel sure of today. Peirce observes that belief is the calm state and doubt the uneasy one, which is part of why we hold on. So the practice is to treat a belief as open to correction by evidence or by other people, without pretending to doubt things you have no reason to doubt.
+
+*For example:* Imagine you have always believed a colleague dislikes you. A new colleague who knows them says otherwise. Peirce's route is to let that outside view count, not to defend the old belief because it is yours.
 
 ## Stories
 
@@ -34,7 +47,7 @@ No belief is beyond correction; error is the permanent possibility of every mind
 - [[K239 — Calibration tracking|K239 Calibration tracking]]
 ## Psychology parallels
 
-- **[[Intellectual humility|Intellectual humility]]**, predicts better learning and relationships (Leary et al., 2017)
+- **[[Intellectual humility|Intellectual humility]]**, is the degree to which people recognise their beliefs might be wrong, and was linked to openness, curiosity and low dogmatism in four studies (Leary et al., 2017). [Abstract](https://dukespace.lib.duke.edu/items/1c8163dc-6138-4f57-a841-b8b2c36a4617)
 - **[[Confirmation bias|Confirmation bias as the default]]** (Nickerson, 1998)
 
 ## Philosophy parallels
