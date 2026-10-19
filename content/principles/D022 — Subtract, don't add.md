@@ -12,10 +12,6 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 22** — Subtract, don't add
 
-Remove a bad habit, a possession, an obligation before adding a new one.
-
-(DDJ 48.)
-
 Chapter 48 of the Daodejing sets two students side by side. The student of learning works "from day to day to increase (his knowledge)"; the student of the Tao works "from day to day to diminish (his doing)". What the second takes away is his own doing, and the chapter follows the subtraction to its end: having arrived at non-action, "there is nothing which he does not do". Even getting the world, it says, happens "by giving himself no trouble (with that end)".
 
 Read as the compendium reads it, the chapter gives a rule of thumb for desire: before adding a tool, a rule or a commitment, ask whether something already in the week can come out. What the chapter itself recommends diminishing is doing and trouble.
