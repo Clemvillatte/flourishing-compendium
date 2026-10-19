@@ -14,7 +14,8 @@
   "BI009",
   "P055",
   "P027",
-  "P143"
+  "P143",
+  "P157"
  ],
  "in_progress": null,
  "flagged": {
@@ -22,6 +23,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 1,
- "updated": "2026-10-19T12:40:03+00:00",
+ "updated": "2026-10-19T12:40:49+00:00",
  "band_done": false
 }
