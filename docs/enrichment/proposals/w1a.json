@@ -2,194 +2,300 @@
  "batch": "w1a",
  "done": [
   "Ubuntu",
-  "Freedom"
+  "Freedom",
+  "Virtue"
  ],
  "flagged": {},
  "missing_concepts": [],
- "sources_checked": 5,
+ "sources_checked": 12,
+ "reciprocal": [
+  {
+   "into": "Ren",
+   "link": "Ubuntu",
+   "why": "the African cousin: personhood constituted through relation"
+  },
+  {
+   "into": "I and Thou",
+   "link": "Ubuntu",
+   "why": "personhood comes alive in encounter, per Buber"
+  },
+  {
+   "into": "The relational self",
+   "link": "Ubuntu",
+   "why": "personhood constituted in connection, the Nguni formulation"
+  },
+  {
+   "into": "Relational autonomy",
+   "link": "Ubuntu",
+   "why": "ubuntu presses the relation side of the autonomy/relation tension"
+  },
+  {
+   "into": "The need to belong",
+   "link": "Ubuntu",
+   "why": "ubuntu gives the belonging need a philosophical formulation"
+  },
+  {
+   "into": "Interbeing",
+   "link": "Ubuntu",
+   "why": "interdependence extended from persons to all things"
+  },
+  {
+   "into": "Oikeiosis",
+   "link": "Ubuntu",
+   "why": "Stoic widening of concern toward community, parallel movement"
+  },
+  {
+   "into": "Whanaungatanga",
+   "link": "Ubuntu",
+   "why": "Pacific counterpart: kinship belonging as relational identity"
+  },
+  {
+   "into": "Compassion",
+   "link": "Ubuntu",
+   "why": "compassion listed among the marks of a person with ubuntu (Tutu)"
+  },
+  {
+   "into": "Forgiveness",
+   "link": "Ubuntu",
+   "why": "ubuntu grounded the TRC's restorative amnesty"
+  },
+  {
+   "into": "The common good",
+   "link": "Ubuntu",
+   "why": "consensus and collective responsibility are ubuntu's political face"
+  },
+  {
+   "into": "Care",
+   "link": "Ubuntu",
+   "why": "relation-grounded personhood, the African and care-ethics analogues"
+  },
+  {
+   "into": "Radical freedom",
+   "link": "Freedom",
+   "why": "Sartre's face: responsibility for what one makes of one's situation"
+  },
+  {
+   "into": "Situated freedom",
+   "link": "Freedom",
+   "why": "the phenomenologist's correction: freedom is always freedom somewhere"
+  },
+  {
+   "into": "Positive freedom",
+   "link": "Freedom",
+   "why": "Berlin's second concept: self-mastery and its risks"
+  },
+  {
+   "into": "Escape from freedom",
+   "link": "Freedom",
+   "why": "Fromm's diagnosis: why people flee freedom into conformity"
+  },
+  {
+   "into": "The dizziness of freedom",
+   "link": "Freedom",
+   "why": "Kierkegaard: possibility itself as anxiety"
+  },
+  {
+   "into": "The Cynic's freedom",
+   "link": "Freedom",
+   "why": "freedom through wanting little"
+  },
+  {
+   "into": "The interdependence of freedoms",
+   "link": "Freedom",
+   "why": "de Beauvoir: my freedom is bound up with yours"
+  },
+  {
+   "into": "Will to power",
+   "link": "Freedom",
+   "why": "self-overcoming as the drive freedom serves"
+  },
+  {
+   "into": "Equanimity",
+   "link": "Freedom",
+   "why": "the fruit of freedom of judgment (Stoic face)"
+  },
+  {
+   "into": "Bad faith",
+   "link": "Freedom",
+   "why": "the refusal of freedom in Sartre's sense"
+  },
+  {
+   "into": "Arete",
+   "link": "Virtue",
+   "why": "the Greek root of virtue: excellence of any thing at its work"
+  },
+  {
+   "into": "Habituation",
+   "link": "Virtue",
+   "why": "the acquisition route: become just by doing just acts"
+  },
+  {
+   "into": "Ren",
+   "link": "Virtue",
+   "why": "the Confucian counterpart: humaneness grown in relation"
+  },
+  {
+   "into": "Practical wisdom",
+   "link": "Virtue",
+   "why": "the intellectual virtue that finds the mean in particulars"
+  },
+  {
+   "into": "Phronesis",
+   "link": "Virtue",
+   "why": "Aristotle's name for the deliberative excellence virtue needs"
+  },
+  {
+   "into": "The doctrine of the mean",
+   "link": "Virtue",
+   "why": "each virtue as a mean between two vices"
+  },
+  {
+   "into": "Character as habits",
+   "link": "Virtue",
+   "why": "the psychological reading of stable dispositions"
+  },
+  {
+   "into": "Situationism",
+   "link": "Virtue",
+   "why": "the empirical challenge that situations trump traits"
+  },
+  {
+   "into": "Eudaimonia",
+   "link": "Virtue",
+   "why": "the flourishing virtue is the road to"
+  }
+ ],
  "inline": [
   {
-   "target": "content/principles/AF021 — Understand affective presence — your feelings influence others' feelings.md",
+   "into": "AF021",
    "concept": "Ubuntu",
    "phrase": "Ubuntu: I am because we are"
   },
   {
-   "target": "content/principles/AF058 — Recognise loneliness — it is a signal, not a character flaw.md",
+   "into": "AF058",
    "concept": "Ubuntu",
    "phrase": "Ubuntu: I am because we are"
   },
   {
-   "target": "content/principles/AF073 — Learn co-regulation — affect is regulated with others, not just within.md",
+   "into": "AF073",
    "concept": "Ubuntu",
    "phrase": "Ubuntu: I am because we are"
   },
   {
-   "target": "content/principles/AT009 — Know that attention is social — it is influenced by and influences others.md",
+   "into": "AT009",
    "concept": "Ubuntu",
    "phrase": "Ubuntu: I am because we are"
   },
   {
-   "target": "content/principles/BE053 — Lean on others in hard times — received support buffers stress.md",
+   "into": "BE053",
    "concept": "Ubuntu",
    "phrase": "Ubuntu: mutual support"
   },
   {
-   "target": "content/principles/CO006 — Recognise that thinking is socially distributed — you think with others.md",
+   "into": "CO006",
    "concept": "Ubuntu",
    "phrase": "Ubuntu: I am because we are"
   },
   {
-   "target": "content/principles/PP008 — Satisfy the need for relatedness.md",
+   "into": "PP008",
    "concept": "Ubuntu",
    "phrase": "Ubuntu: I am because we are"
   },
   {
-   "target": "content/principles/R003 — Practise hospitality — open your table and your home.md",
+   "into": "R003",
    "concept": "Ubuntu",
    "phrase": "Ubuntu philosophy"
   },
   {
-   "target": "content/principles/R004 — Practise compassion — compassion is being moved to act.md",
+   "into": "R004",
    "concept": "Ubuntu",
    "phrase": "Ubuntu philosophy"
   },
   {
-   "target": "content/principles/R007 — Honour your ancestors — carry those who came before.md",
+   "into": "R007",
    "concept": "Ubuntu",
    "phrase": "Ubuntu philosophy"
   },
   {
-   "target": "content/principles/R009 — Respect elders — seek their counsel and defer to their judgment.md",
+   "into": "R009",
    "concept": "Ubuntu",
    "phrase": "Ubuntu philosophy"
   },
   {
-   "target": "content/principles/R011 — Practise harmony — seek peace and common ground.md",
+   "into": "R011",
    "concept": "Ubuntu",
    "phrase": "Ubuntu philosophy"
   },
   {
-   "target": "content/principles/R012 — Protect dignity — every person has inherent worth.md",
+   "into": "R012",
    "concept": "Ubuntu",
    "phrase": "Ubuntu philosophy"
   },
   {
-   "target": "content/concepts/Identity.md",
+   "into": "Identity",
    "concept": "Ubuntu",
    "phrase": "Ubuntu"
   },
   {
-   "target": "content/concepts/Care ethics.md",
+   "into": "Care ethics",
    "concept": "Ubuntu",
    "phrase": "Ubuntu"
   },
   {
-   "target": "content/principles/S006 — Remember that you are a citizen of the cosmos.md",
+   "into": "S006",
    "concept": "Ubuntu",
    "phrase": "Ubuntu: I am because we are"
   },
   {
-   "target": "content/principles/S030 — Act for the common good.md",
+   "into": "S030",
    "concept": "Ubuntu",
    "phrase": "Ubuntu: I am because we are"
   },
   {
-   "target": "content/principles/SE026 — Recognise common humanity — your suffering is not unique or isolating.md",
+   "into": "SE026",
    "concept": "Ubuntu",
    "phrase": "Ubuntu: I am because we are"
   },
   {
-   "target": "content/principles/SE034 — Recognise that self-relationship is the foundation of all relationships.md",
+   "into": "SE034",
    "concept": "Ubuntu",
    "phrase": "Ubuntu: I am because we are"
   },
   {
-   "target": "content/principles/SO023 — Cultivate social connection as a primary good.md",
+   "into": "SO023",
    "concept": "Ubuntu",
    "phrase": "Ubuntu — personhood through relationship"
   },
   {
-   "target": "content/principles/SO026 — Use community as a resource.md",
+   "into": "SO026",
    "concept": "Ubuntu",
    "phrase": "Ubuntu — community as personhood"
   },
   {
-   "target": "content/principles/SO051 — Use group identity for social cure.md",
+   "into": "SO051",
    "concept": "Ubuntu",
    "phrase": "Ubuntu — personhood through community"
+  },
+  {
+   "into": "A001",
+   "concept": "Virtue",
+   "phrase": "in accordance with virtue"
+  },
+  {
+   "into": "A003",
+   "concept": "Virtue",
+   "phrase": "Virtue (arete)"
+  },
+  {
+   "into": "A005",
+   "concept": "Virtue",
+   "phrase": "Virtue finds the intermediate"
+  },
+  {
+   "into": "A009",
+   "concept": "Virtue",
+   "phrase": "moral virtue (agathon)"
   }
  ],
- "reciprocal": [
-  {
-   "target": "content/concepts/Ren.md",
-   "concept": "Ubuntu",
-   "why": "the African cousin: personhood constituted through relation"
-  },
-  {
-   "target": "content/concepts/I and Thou.md",
-   "concept": "Ubuntu",
-   "why": "personhood comes alive in encounter, per Buber"
-  },
-  {
-   "target": "content/concepts/The relational self.md",
-   "concept": "Ubuntu",
-   "why": "personhood constituted in connection, the Nguni formulation"
-  },
-  {
-   "target": "content/concepts/Interbeing.md",
-   "concept": "Ubuntu",
-   "why": "interdependence extended from persons to all things"
-  },
-  {
-   "target": "content/concepts/Oikeiosis.md",
-   "concept": "Ubuntu",
-   "why": "Stoic widening of concern toward community, parallel movement"
-  },
-  {
-   "target": "content/concepts/Whanaungatanga.md",
-   "concept": "Ubuntu",
-   "why": "Pacific counterpart: kinship belonging as relational identity"
-  },
-  {
-   "target": "content/concepts/Compassion.md",
-   "concept": "Ubuntu",
-   "why": "compassion listed among the marks of a person with ubuntu (Tutu)"
-  },
-  {
-   "target": "content/concepts/Forgiveness.md",
-   "concept": "Ubuntu",
-   "why": "ubuntu grounded the TRC's restorative amnesty"
-  },
-  {
-   "target": "content/concepts/The common good.md",
-   "concept": "Ubuntu",
-   "why": "consensus and collective responsibility are ubuntu's political face"
-  },
-  {
-   "target": "content/concepts/Care.md",
-   "concept": "Ubuntu",
-   "why": "relation-grounded personhood, the African and care-ethics analogues"
-  },
-  {
-   "target": "content/concepts/Relational autonomy.md",
-   "concept": "Ubuntu",
-   "why": "ubuntu presses the relation side of the autonomy/relation tension"
-  },
-  {
-   "target": "content/concepts/The need to belong.md",
-   "concept": "Ubuntu",
-   "why": "ubuntu gives the belonging need a philosophical formulation"
-  },
-  {
-   "target": "content/concepts/Equanimity.md",
-   "concept": "Freedom",
-   "why": "equanimity is the fruit of freedom of judgment (Stoic face)"
-  },
-  {
-   "target": "content/concepts/Bad faith.md",
-   "concept": "Freedom",
-   "why": "bad faith is the refusal of freedom in Sartre's sense"
-  }
- ],
- "notes": "Ubuntu v2 after advisor QC: citation fixed to SAJP 32(2); etymology claim removed; Tutu quote splice fixed; amnesty claim limited to Tutu's reading; debate wording neutralised; Mandela story framed as compendium illustration; tension question added; subheads + hyperlinked sources per owner request; related list 12 (added Relational autonomy, The need to belong). Rejected inline: ST228 (already externally linked), Relational ontology (mention sits inside a Ramose book title; thematic link deferred). Deferred: layers/books/reference pages (R-S01, R Reference, book R, ST, ST-S06) - structural pages, revisit later. Mention pass complete (--max 100). | Freedom: enriched from SEP liberty-positive-negative (Berlin two questions, MacCallum triad), IEP Spinoza (E1d7), IEP Epictetus, SEP Sartre/Merleau-Ponty, Fromm, Kierkegaard. Mention pass complete: plain-text 'freedom' occurrences in principles are mostly incidental uses, no inline proposals (recorded as deliberate). Related list: 8 family members (already mutual) + Equanimity + Bad faith (reciprocals queued). All 15 original links preserved."
+ "notes": "Schema fixed 2026-10-19 to match enrich_apply.py (into/link/concept keys, entry ids). Ubuntu: 22 inline (mention pass complete, --max 100), 12 reciprocals. Rejected inline: ST228 (already externally linked), Relational ontology (mention sits inside a Ramose book title). Deferred: layers/books/reference pages. Freedom: mention pass complete; plain-text 'freedom' occurrences are mostly incidental, no inline proposals (deliberate). 10 reciprocals. Virtue: 4 curated inline proposals with exact phrases (bare 'virtue' is a substring of 'virtuous' and would mangle text); A-track principles use virtue genuinely but need phrase-safe matches. 9 reciprocals. All 15 Ubuntu + 15 Freedom original links preserved."
 }
