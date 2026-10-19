@@ -35,6 +35,7 @@ K011 "See the ego's groundlessness as its nature, not its failure" treats the co
 - [[Interbeing]] — Hanh's engaged idiom for dependent co-arising
 - [[Tathata, suchness]] — how things are once svabhāva is no longer superimposed
 - [[Impermanence]] — the change that dependence entails
+- [[Dukkha]] — the suffering that MMK 24.20 argues can cease only if contingent
 
 ## Sources
 
