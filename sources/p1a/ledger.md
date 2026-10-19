@@ -6,6 +6,14 @@ AgentA before this ledger existed; their evidence lives in the QC log and the fi
 themselves. D087 was enriched by AgentA and repaired by genuineflourishing24 this
 session after supervisor QC flags.
 
+## A001 — Make eudaimonia the organising end of your life (done 2026-10-19)
+
+- Opened: W. D. Ross's translation of Nicomachean Ethics Book I, Internet Classics Archive, https://classics.mit.edu/Aristotle/nicomachaen.1.i.html
+  - Verified verbatim, I.7: "human good turns out to be activity of soul in accordance with virtue, and if there are more than one virtue, in accordance with the best and most complete." and "But we must add 'in a complete life.' For one swallow does not make a summer, nor does one day; and so too one day, or a short time, does not make a man blessed and happy." (this Ross edition reads "summer")
+  - Verified verbatim, I.13: "Since happiness is an activity of soul in accordance with perfect virtue, we must consider the nature of virtue."
+  - Body blockquote is the I.7 definition sentence; the I.13 sentence and the swallow passage are quoted inline with locators.
+- Limitations: the paraphrase of the function argument (performing activities involving reason well) stays within what the I.7 passage states. Saturation: Eudaimonia and Flourishing as capability already link A001; Eudaimonic well-being and Self-determination resolve to existing entries; no new proposals (none justified).
+
 ## D087 — Hold identity lightly (repaired 2026-10-19)
 
 - Opened: Legge Zhuangzi edition PDF, ETH Zurich, https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf
