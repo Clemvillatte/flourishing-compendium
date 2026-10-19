@@ -19,7 +19,6 @@
   "B116",
   "B140",
   "B160",
-  "A096",
   "A103",
   "AF048",
   "AF061",
@@ -32,7 +31,8 @@
   "A104",
   "A018",
   "A028",
-  "A042"
+  "A042",
+  "A096"
  ],
  "in_progress": null,
  "flagged": {
@@ -52,7 +52,7 @@
   "A042": "Reopened for QC: repair: habituation claim needs support, tipping example equates automation with virtue",
   "A044": "Reopened for QC: repair: OCR artefact in quote, remove unsupported universals",
   "A055": "Reopened for QC: repair: quote fidelity, preserve Aristotle's partial-cause qualification",
-  "A096": "milestone QC: quotation fidelity and prose scope repairs",
+  "A096": "Reopened for QC: repair: equally-justified claim exceeds source, remove unopened locators",
   "A100": "Reopened for QC: repair: quote fidelity (But in prefix), scope relationships claim",
   "A103": "milestone QC: quotation fidelity and prose scope repairs",
   "A104": "Reopened for QC: repair: use clean equitable quote avoiding Iawgiver OCR, make rule purpose explicit",
@@ -63,6 +63,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 9,
- "updated": "2026-10-19T15:04:01+00:00",
+ "updated": "2026-10-19T15:04:13+00:00",
  "band_done": false
 }

@@ -13,20 +13,19 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 
 > **Principle 96** — Practise distributive justice
 
-Aristotle's account of distributive justice is a proportion between persons and shares. The just in distribution assigns shares so that the ratio between persons equals the ratio between shares; quarrels arise when equals receive unequal shares, or persons not equal receive equal shares. He notes that all agree distributions must be based on desert of some sort, while differing on what counts as desert ([NE V.3, Rackham, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=5)).
+Aristotle's account of distributive justice is a proportion between persons and shares. The just in distribution assigns shares so that the ratio between persons equals the ratio between shares; quarrels arise when equals receive unequal shares, or persons not equal receive equal shares. He reports that all agree distributions must be based on desert of some sort, while differing on what counts as desert ([NE V.3, Rackham, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=5)). He does not settle which criterion is the right one here.
 
 > All are agreed that justice in distributions must be based on desert of some sort, although they do not all mean the same sort of desert; democrats make the criterion free birth; those of oligarchical sympathies wealth, or in other cases birth; upholders of aristocracy make it virtue.
 >
 > — Nicomachean Ethics V.3 ([Rackham, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=5))
 
-**Plain words** The compendium's application of this principle asks the reader, in any group they lead or belong to, to check whether the distribution of goods matches the claims people actually have. Aristotle's own formulation leaves the criterion of desert open to disagreement; what it rules out is distribution that ignores the ratio between persons and shares.
+**Plain words** In any group you lead or belong to, check whether the distribution of goods matches the claims people actually have. Aristotle reports that people disagree about what counts as desert, and does not resolve it here. What his proportion rules out is distribution that ignores the ratio between persons and shares.
 
-For example (imagined): a manager who gives the biggest bonus to the person who carried the project, and explains why, is distributing according to a stated criterion of desert.
+For example (imagined): a manager who gives the biggest bonus to the person who carried the project, and explains why, illustrates distributing according to one stated criterion of desert. Whether that criterion is the right one is a further question.
 
-(NE V.3; Politics III.9-13.)
+(NE V.3.)
 
 ## Psychology parallels
-
 - **[[Equity theory|Equity theory]]**, perceived fairness of distribution predicts satisfaction (Adams, 1965)
 - **[[Social comparison|Social comparison and relative deprivation]]** (Festinger, 1954; Runciman, 1966)
 
