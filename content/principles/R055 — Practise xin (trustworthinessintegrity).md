@@ -10,15 +10,24 @@ number: "317"
 navigation: {"track": "philosophy", "primaryPath": ["NAV-PHILOSOPHY", "NAV-PHIL-REL"], "alternatePaths": []}
 legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relational Philosophies", "chapter": "R-S05 — Section V - Confucian Relational Ethics (15 Principles)", "parent": ""}
 ---
-> **Principle 317** — Practise xin (trustworthiness/integrity)
+> **Practise xin (信) — trustworthiness/integrity.**
 
-Be reliable in your word and faithful in your commitments. Xin is the virtue of being trustworthy, of making your words and actions align. Without xin, no social relationship can endure.
+Xin is trustworthiness: the alignment of word and deed that lets other people build on you. Zengzi made it a daily self-audit: "whether, in intercourse with friends, I may have been not sincere" (Analects 1.4, [Legge](https://ctext.org/analects/xue-er)). The Master pairs it with zhong, doing one's utmost for others: "Hold faithfulness and sincerity as first principles" (Analects 1.8, [Legge](https://ctext.org/analects/xue-er)). The warning cuts the other way too: "Fine words and an insinuating appearance are seldom associated with true virtue" (Analects 1.3, [Legge](https://ctext.org/analects/xue-er)). Xin is the substance behind the words, not their polish. The principle sits in the Confucian Relational track because ren runs on it: the relational fabric of the Five Relations (R016) holds only where each strand can be trusted.
 
-(Confucius, The Analects 1.3, 1.4, 1.8; Mencius, The Mencius 4A12.)
+Mencius traces the genealogy of being trusted: "There is a way of being trusted by one's friends: if one do not serve his parents so as to make them pleased, he will not be trusted by his friends... Therefore, sincerity is the way of Heaven. To think how to be sincere is the way of man" (Mencius 4A12, [Legge](https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_2/The_Works_of_Mencius/chapter07)). Trust is not a reputation bolted on; it grows out of sincerity with the people who know you best.
 
-**Plain words** Xin is trustworthiness: words and actions aligned, commitments kept. Without it, no relationship — business, friendship, or family — can survive. Be someone whose word is boringly reliable.
+**Plain words**
+Trust is what lets people act on your word without checking it, the way a carpenter relies on a level. Break it once and every future commitment of yours gets quietly priced at a discount. The compendium's kernel (K243) names what it protects: others' wellbeing in their hands. Mencius is blunt about where the repair starts: with your parents and with yourself.
 
-*For example:* The tradesman who says "Tuesday, 9 a.m." and is there Tuesday, 9 a.m., for eleven years — and charges accordingly, because that reputation is the business.
+**For example**
+Do not say you will call someone back if you have no intention. A Confucian worker who says he will finish the beam tomorrow finishes the beam tomorrow, because his reputation with the tradesman is the same fabric as his virtue itself.
+
+## Sources
+
+- [Legge's Analects, Book 1 (Xue Er), Chinese Text Project](https://ctext.org/analects/xue-er) — 1.3, 1.4, 1.8
+- [Legge's Mencius, Li Lou I (chapter 7 of the Works), Wikisource](https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_2/The_Works_of_Mencius/chapter07) — 4A12, the trust chain
+- [Legge quotes, Wikiquote](https://en.wikiquote.org/wiki/James_Legge) — "Hold faithfulness and sincerity as first principles"
+
 ## Stories
 
 - [[ST013 — Ted Lasso Bakes Biscuits|13. Ted Lasso Bakes Biscuits]]

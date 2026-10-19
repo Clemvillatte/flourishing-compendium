@@ -46,6 +46,13 @@ Philosophy parallels) and the `<!-- fc: reflections -->` comment.
    cross-links in `docs/enrichment/proposals/<band>.json` (same schema as concepts).
 7. Mark done in your state file, run `scripts/enrich_save.sh`, clock in (`baton.py`).
 
+## The model page
+
+R055 (Practise xin) is the exemplar of the finished standard: verbatim Legge quotes with
+locators and source links, an explanation that argues rather than repeats, a Plain words
+section that re-derives the idea, and the link sections untouched. Read it before your first
+principle: `content/principles/R055 — Practise xin (trustworthinessintegrity).md`.
+
 ## Quality bar for Plain words (examples)
 
 BAD (a replicate): "Practise gratitude — it recalibrates attention" -> "Gratitude
