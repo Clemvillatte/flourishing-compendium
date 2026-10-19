@@ -28,11 +28,12 @@
   "P150",
   "P174",
   "P178",
-  "P181"
+  "P181",
+  "P187"
  ],
- "in_progress": "P187",
+ "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-19T13:38:02+00:00"
+ "updated": "2026-10-19T13:38:10+00:00"
 }
