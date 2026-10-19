@@ -12,13 +12,27 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 36** — Treasure your life and health as the vessel of everything
 
-Your body is the cart that carries all your projects. Love it as the world's trust: ruin the vessel and every cargo is lost.
+The principle runs through two Daodejing chapters. Chapter 44 sets the comparison in verse:
+
+> "Or fame or life, / Which do you hold more dear? / Or life or wealth, / To which would you adhere? / Keep life and lose those other things; / Keep them and lose your life:--which brings / Sorrow and pain more near?" (DDJ 44, Legge trans., [Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt))
+
+The same chapter closes the account:
+
+> "Who is content / Needs fear no shame. / Who knows to stop / Incurs no blame. / From danger free / Long live shall he." (DDJ 44)
+
+### The body is what calamity needs
+
+Chapter 13 names the stake. "What makes me liable to great calamity is my having the body (which I call myself); if I had not the body, what great calamity could come to me?" The body is the thing that makes any project, and any loss, possible. The chapter then makes its care the test of larger trust: "he who would administer the kingdom, honouring it as he honours his own person, may be employed to govern it, and he who would administer it with the love which he bears to his own person may be entrusted with it".
 
 (DDJ 13, 44; Neiye.)
 
-**Plain words** Your body is the cart that carries every project you'll ever have. Ruin the vessel and every cargo is lost — there is no version of the plan where the body is optional. Care for it as the world's trust, not as an accessory.
+**Plain words** Every plan you have runs on a body that can tire, sicken and break. Chapter 44's question is blunt: fame or life, wealth or life; if you keep the first and lose the second, you have kept nothing. Look at your current commitments and find the ones that quietly assume the body is optional: the unbounded sprint, the sleep debt with no repayment date. Those are the trades the chapter says end in sorrow and pain. Care here maintains the only instrument that carries everything else.
 
-*For example:* The founder who sleeps properly outperforms the one 'crushing it' on four hours — the second one is borrowing at brutal interest.
+*For example:* Take the calendar test. If next month's plan only works on six hours of sleep a night, the plan is betting the cargo on the cart.
+
+## Sources
+
+- [The Tao Teh King, Legge trans., Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt) — chapters 13, 44
 
 ## Practice kernels
 
@@ -26,7 +40,7 @@ Your body is the cart that carries all your projects. Love it as the world's tru
 
 ## Psychology parallels
 
-- **[[Lifestyle psychiatry|Lifestyle psychiatry]]**, exercise, sleep, and diet have meta-analytic support as first-line mental-health interventions (Firth et al., 2019)
+- **[[Lifestyle psychiatry|Lifestyle psychiatry]]** (Firth et al., 2019)
 
 ## Philosophy parallels
 
