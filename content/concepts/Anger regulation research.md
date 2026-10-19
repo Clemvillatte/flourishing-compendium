@@ -97,6 +97,8 @@ B116 advises catching irritation early. Does that practice affect anger partly t
 
 [[Apatheia]]
 
+[[Righteous anger vs wrath]]
+
 ## Sources
 
 - [Gross, J. J., "Emotion Regulation: Current Status and Future Prospects" (2015, Psychological Inquiry; PDF)](http://www.johnnietfeld.com/uploads/2/2/6/0/22606800/gross_2015.pdf) — the five strategy families; reappraisal versus suppression evidence; moderators
