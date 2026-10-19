@@ -17,11 +17,11 @@ Gadamer's account of understanding in Truth and Method distinguishes transposing
 
 > Transposing ourselves consists neither in the empathy of one individual for another nor in subordinating another person to our own standards; rather, it always involves rising to a higher universality that overcomes not only our own particularity but also that of the other. […] In the process of understanding, a real fusing of horizons occurs. (Gadamer, Truth and Method, trans. Weinsheimer and Marshall, rev. ed., as collected in [excerpts PDF](https://www.pierre-legrand.com/gadamer-excerpts.pdf), pp. 303-06 & 309-10)
 
-The "higher universality" Gadamer names is not a midpoint between two positions. It is a widened view that neither position alone could have occupied. The passage says the tension between the two horizons is dissolved by the fusion; it does not say either original view survives unchanged. What that means for practice is that the task is not to choose between two views but to let both be widened by something that did not fit in either.
+Gadamer describes understanding as overcoming both our own particularity and that of the other. For practice, this invites approaching an unfamiliar account willing to let your understanding change.
 
-**Plain words** Two people looking at the same thing from different places describe what they see differently. The usual move is to argue about whose view is the correct one. Gadamer's alternative is that understanding happens when a view gets widened enough to include what the other was seeing — a widening that changes the view rather than picking a winner between the two.
+**Plain words** Two people looking at the same thing from different places describe what they see differently. The usual move is to argue about whose view is the correct one. Gadamer's alternative is that understanding happens when the view changes through the encounter, rather than when one view wins the argument.
 
-*For example:* Imagine an engineer and an artist arguing about a project's design. The argument moves forward when each can state the other's position accurately enough to be corrected by them; that accurate statement is an early step in the widening Gadamer is describing.
+*For example:* Imagine an engineer and an artist arguing about a project's design. The argument moves forward when each can state the other's position accurately enough to be corrected by them; that accurate statement is an early step in the change Gadamer is describing.
 
 ## Stories
 
