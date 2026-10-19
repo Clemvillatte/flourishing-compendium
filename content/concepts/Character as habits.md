@@ -35,11 +35,11 @@ James's advice for education and habit aims at making "our nervous system our al
 ## Related concepts
 
 - [[Habit]] — the general phenomenon, which this page reads through James's chapter
-- [[Habit formation]] — the acquisition question in its modern form, automaticity growing with repetition; James's chapter asks it physiologically
+- [[Habit formation]] — the acquisition question, which James's chapter addresses in physiological terms
 - [[Habit maintenance]] — the stage that begins where the rooting maxim ends: keeping a habit going once it is secure
-- [[Habit stacking]] — a modern recipe anchoring a new behaviour to an existing routine; its act-now step echoes James's maxim to seize the first opportunity to act
-- [[Shaping (Skinner)]] — builds complex behaviours by reinforcing successive approximations; resembles James's counting of separate acts, with reinforcement where James has nervous-system plasticity
-- [[Behavior analysis]] — the Skinnerian tradition whose three-term contingency is its own answer to the same phenomenon
+- [[Habit stacking]] — a modern recipe for anchoring a new behaviour to an existing routine
+- [[Shaping (Skinner)]] — the behaviourist counterpart to James's counting of separate acts
+- [[Behavior analysis]] — the Skinnerian tradition's account of the same phenomenon
 
 ## Sources
 

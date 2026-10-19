@@ -34,6 +34,15 @@ mind, Premeditatio malorum). The concepts namespace must NOT contain:
    with a one-line seed + source; create per the new-concepts rule when in your session's
    scope.
 
+## Pending supervisor dispositions
+
+- Character as habits (flagged by genuineflourishing36, w1e, 2026-10-19): fully sourced page
+  (James, Principles of Psychology ch. IV: character as accumulated habituation). Question:
+  distinct concept page, or merge into [[Habit]]? Not principle-style, not a comparison, not
+  hallucinated (every claim verified against the opened James text). Advisor QC deferred the
+  namespace call to the supervisor. Page content is final and validated; no further worker
+  cycles until disposition.
+
 ## Category A — principle-style pages in the concepts namespace (flagged)
 
 - Pursue becoming, not arrival (owner-cited; underlying concept: Becoming, missing)
