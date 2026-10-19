@@ -14,19 +14,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 
 There is no single world-description that is uniquely true; there are right versions: the physicist's, the painter's, the plumber's — each made for purposes. Move between versions fluently.
 
-What the principle draws from Goodman's title idea is offered as this page's application, not as a report of his argument: the open copies of Ways of Worldmaking were not consultable from here, so no passage has been opened and none is quoted. The application is a practical move: a disagreement can sometimes be dissolved by asking which version each speaker is running, before asking who is right.
+A passage from the book, quoted with page references in the scholarly literature:
+
+> "That right versions and actual worlds are many does not obliterate the distinction between right and wrong versions, does not recognize merely possible worlds answering to wrong versions, and does not imply that all right alternatives are equally good for every or indeed for any purpose." (Goodman, Ways of Worldmaking, 1978, pp. 20–21, [as quoted in Vervoort et al. 2015](https://people.cs.vt.edu/~aislingk/papers/vervoort_Futures15.pdf))
+
+What the principle draws from the passage is a practical move, offered as this page's application: a disagreement can sometimes be dissolved by asking which version each speaker is running, before asking who is right. The exercise below is that move.
 
 (Goodman, Ways of Worldmaking, 1978.)
 
 **Plain words**
-When two accounts of the same situation conflict, one first move is to ask whether they are versions answering different questions; only if they answer the same question do they contradict. An optional exercise: before resolving a disagreement, name the version you are speaking from, and ask for the other person's. What that exercise yields is up to the situation; nothing here promises it dissolves the disagreement.
+A version is a description built for a purpose; the practical question is right for what. An optional exercise: before resolving a disagreement, name the version you are speaking from, and ask for the other person's. What that exercise yields is up to the situation; nothing here promises it dissolves the disagreement.
 
 **For example**
 The same tree: lumber to the carpenter, home to the owl, carbon to the scientist. None is the 'true' tree; all are true trees.
 
 ## Sources
 
-- Nelson Goodman, Ways of Worldmaking (Hackett, 1978) — print edition; no open web edition verified, so this page offers no verbatim quotation.
+- [Nelson Goodman, Ways of Worldmaking, pp. 20–21, as quoted in Vervoort et al., "Scenarios and the art of worldmaking" (Futures, 2015)](https://people.cs.vt.edu/~aislingk/papers/vervoort_Futures15.pdf) — print edition of the book (Hackett, 1978); no open web edition verified, so the passage is quoted via the opened scholarly article.
 
 ## Practice kernels
 
