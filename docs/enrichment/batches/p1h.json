@@ -4,16 +4,18 @@
   "D007",
   "D014",
   "D056",
-  "D061"
+  "D061",
+  "D096"
  ],
  "in_progress": null,
  "flagged": {
   "D007": "inherited psych claims (Peng/Nisbett, Spencer-Rodgers) not verified; preserved per protocol",
-  "D014": "inherited psych claims (Brown 2008; Piff et al. 2015) not verified; preserved per protocol",
-  "D056": "inherited psych claims (Gibson 1979; Miller/Rollnick 2013) not verified; preserved per protocol",
-  "D061": "inherited psych claims (Meichenbaum; early-intervention) not verified; preserved per protocol"
+  "D014": "Reopened for QC: milestone QC round 3: evidence scoping repairs",
+  "D056": "Reopened for QC: milestone QC round 3: evidence scoping repairs",
+  "D061": "Reopened for QC: milestone QC round 3: evidence scoping repairs"
  },
  "missing_concepts": [],
  "sources_checked": 2,
- "updated": "2026-10-19T12:23:43+00:00"
+ "updated": "2026-10-19T12:30:06+00:00",
+ "band_done": false
 }

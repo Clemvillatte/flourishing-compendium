@@ -16,13 +16,13 @@ The source story is Cook Ding, the ruler Wen Hui's cook (Zhuangzi 3). Asked how 
 
 > "Observing the natural lines, (my knife) slips through the great crevices and slides through the great cavities, taking advantage of the facilities thus presented. My art avoids the membranous ligatures, and much more the great bones." (Zhuangzi 3, trans. James Legge, [ETH Zurich](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
 
-The cook contrasts his blade with the ones that wear out: "A good cook changes his knife every year; (it may have been injured) in cutting - an ordinary cook changes his every month - (it may have been) broken." Cutting bone costs the tool. The grain also has hard places: "whenever I come to a complicated joint, and see that there will be some difficulty, I proceed anxiously and with caution, not allowing my eyes to wander from the place, and moving my hand slowly." The seam is worked, not just found.
+The cook contrasts his blade with the ones that wear out: the good cook's knife lasts a year, the ordinary cook's a month. The grain also has hard places: "whenever I come to a complicated joint, and see that there will be some difficulty, I proceed anxiously and with caution, not allowing my eyes to wander from the place, and moving my hand slowly." The seam is worked, not just found.
 
 (Zhuangzi 3.)
 
-**Plain words** The cook's knife stays sharp because it goes where the ox already separates, the crevices and cavities, and avoids the ligaments and the bones. His method has a second part that is easy to miss: at a complicated joint he does not push through; he slows down, watches, and moves the knife slightly. Faced with a stuck piece of work, the story's question is which of the two you are looking at: a place that already opens, or a place that needs the slow, careful cut.
+**Plain words** Take a stalled piece of work with two people in it. First find the part both of you already agree on, and make the next step there; then, when you reach the genuinely disputed part, slow down and look before you push. The cook's two moves are just those: slide through where it opens, and go careful at the joint.
 
-*For example:* Before a difficult conversation, write down what the other person already wants, and open there. The pitch you prepared is the bone; their want is the joint.
+*For example:* Before a difficult conversation, write down what the other person already wants, and open there.
 
 ## Sources
 
