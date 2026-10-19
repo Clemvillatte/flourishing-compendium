@@ -15,9 +15,13 @@
   "D017": "QC note: inherited scab example kept per protocol; advisor calls it a medical claim needing a source; supervisor to arbitrate",
   "BI012": "QC round 3: list narrowed to principle's own directive + thyroid evidence only; inherited example still flagged for supervisor",
   "CO072": "QC round 3: Mrazek 2013 RCT added as direct cognitive-training evidence; difficult-page efficacy claim removed; feeds example still flagged for supervisor",
-  "D095": "QC round 3: plain words now faithful explanation + separate application; It=vital essence verified from opened excerpt"
+  "D095": "QC round 3: plain words now faithful explanation + separate application; It=vital essence verified from opened excerpt",
+  "D133": "QC round 4: DDJ 'in his grasp' typo fixed; grip-mechanism reframed as application; guarantee sentence replaced",
+  "E014": "QC round 4: M-P quote shortened to opening sentence; cane/typist examples removed (not in opened passage); Lally described as model-estimated",
+  "E068": "QC round 4: keyhole scene sourced to opened Porto review; frequency claims softened",
+  "K006": "QC round 4: watched-not-repressed attributed to principle statement; situation selection framed as one option"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-19T10:13:28+00:00"
+ "updated": "2026-10-19T10:16:59+00:00"
 }
