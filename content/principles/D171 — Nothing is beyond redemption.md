@@ -12,13 +12,16 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 171** — Nothing is beyond redemption
 
-The Dao is the refuge of the imperfect: no one is so flawed that alignment is closed to them. Extend this to yourself: self-forgiveness is not optional equipment.
+The Dao is the refuge of the imperfect: no one is so flawed that alignment is closed to them. Chapter 62 of the Daodejing says the Tao holds the most honoured place of all things, and then says what it does there:
 
-(DDJ 62.)
+> "Bad men it guards, and doth their ill efface."
+> (DDJ 62, [Legge's translation](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
-**Plain words** The Dao is the refuge of the imperfect — no one is so flawed that alignment is closed to them. Extend this to yourself: self-forgiveness is not optional equipment. You can't walk any path while carrying the boulder of self-contempt.
+The chapter's closing argument is that the ancients prized the Tao because "it could be got by seeking for it, and the guilty could escape (from the stain of their guilt) by it". Legge also renders the plainer prose line: "Even men who are not good are not abandoned by it." Redemption here is not a verdict others pass on you; it is a door that stays open by design. Extend this to yourself: self-forgiveness is not optional equipment. (DDJ 62.)
 
-*For example:* The relapsed addict who returns to the program — the door that stays open is the whole design of the door.
+**Plain words** The chapter refuses a category of people who are too far gone. The Tao guards bad men, and the guilty can escape by it. Being guilty does not close the door, and neither does knowing you are guilty. The practice is to come back through it rather than stand outside sentencing yourself.
+
+*For example:* Suppose a person relapses after a long stretch clean. On this principle, the relapse does not move them into a category the Tao stopped covering; seeking starts again from where they are.
 
 ## Stories
 

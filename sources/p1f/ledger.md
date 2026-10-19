@@ -34,3 +34,9 @@ Item-level record of sources actually opened by genuineflourishing33 for band p1
 - Opened: Legge's Tao Teh King, Gutenberg (same URL as D074) — ch. 70.3 verified verbatim: "They who know me are few, and I am on that account (the more) to be prized. It is thus that the sage wears (a poor garb of) hair cloth, while he carries his (signet of) jade in his bosom." Ch. 70.1-2 read and paraphrased ("My words are very easy to know... no one in the world who is able to know and able to practise them"); not quoted.
 - Inherited unsupported claims removed: "energy spent on presentation is energy not spent on substance, people can taste the difference" and the consultant-vs-deck example presented as fact; example replaced with an explicit hypothetical that the principle is not a pitch strategy.
 - Saturation: D163 already cited by Modesty norms research, Externals as indifferents; no new proposals.
+
+## D171 — Nothing is beyond redemption (done 2026-10-19)
+
+- Opened: Legge's Tao Teh King, Gutenberg (same URL as D074) — ch. 62 verified verbatim: verse "Bad men it guards, and doth their ill efface." (62.1); prose "Even men who are not good are not abandoned by it." (62.2); closing "it could be got by seeking for it, and the guilty could escape (from the stain of their guilt) by it" (62.4). All three quoted with locators; 62.3 (the Son of Heaven offering) read, not quoted.
+- Inherited unsupported claims removed: "You can't walk any path while carrying the boulder of self-contempt" and the relapsed-addict example presented as fact; example replaced with an explicit hypothetical.
+- Saturation: D171 already cited by Growth mindset, Grace, Buddha-nature, Dao, Behavior change wheel theory Michie; no new proposals.
