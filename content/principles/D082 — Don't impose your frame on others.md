@@ -18,11 +18,11 @@ The principle comes from the fish debate at the end of the Zhuangzi's "Autumn Fl
 
 > "You are not I. How do you know that I do not know what constitutes the enjoyment of fishes?" (Zhuangzi 17, [Legge](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
 
-The compendium's practical reading takes Huizi's objection as the warning: you are not the other person, so your reading of their inner life is a reading rather than a report. Zhuangzi's rejoinder shows the objection cuts both ways: the frame that says you cannot know is itself a claim somebody is making about somebody, and it can be met with its own question. The exchange never settles who knows what; the practice sits between the two: offer the view, keep the question open, and weigh their reply against your projection.
+The compendium's practical reading takes Huizi's objection as the warning: you are not the other person, so your reading of their inner life is a reading rather than a report. Zhuangzi's rejoinder shows the objection cuts both ways: the frame that says you cannot know is itself a claim somebody is making about somebody, and it can be met with its own question. Zhuangzi then closes by claiming that he knows the fishes' enjoyment over the Hao, so the dialogue ends with the knowledge claim affirmed rather than refuted. The compendium's application is the listening practice: offer the view, keep the question open, and weigh their reply against your projection.
 
-**Plain words** When you say what someone else feels or wants, look at the sentence's shape. It presents itself as a report on them; it is a report on you, saying what you would feel in their place. That can be worth saying, and it is always a guess. The habit to build is the pause between the guess and the announcement: ask them, or offer the guess as a guess and let them correct it.
+**Plain words** Before telling someone what they feel, separate what you observed from your interpretation. Ask whether your reading fits, and be willing to revise it. Check whether you are assuming they share your preferences.
 
-*For example:* Assuming your quiet colleague is miserable and needs 'bringing out of their shell' — maybe the shell is the happiness.
+*For example:* Assuming your quiet colleague is miserable and needs bringing out of their shell — maybe the shell is the happiness.
 
 ## Sources
 

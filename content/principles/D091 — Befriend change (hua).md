@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 91** — Befriend change (hua)
 
-The principle runs on hua (化), transformation: the Zhuangzi's word for what is happening to everything, always. The dying man is "passing through his change"; the dreamer wakes as "the veritable Zhou"; the difference between Zhou and the butterfly is "a case of what is called the Transformation of Things" (Zhuangzi 2, 6). The Daodejing puts the same observation in the register of return: things flourish, then each returns to its root. Change is not an event that happens to the world; it is the world's normal operation. Suffering enters where a person treats one arrangement as final and litigates its passing.
+The principle runs on hua (化), transformation: the Zhuangzi's word for what is happening to everything, always. The dying man is "passing through his change"; the dreamer wakes as "the veritable Zhou"; the difference between Zhou and the butterfly is "a case of what is called the Transformation of Things" (Zhuangzi 2, 6). The Daodejing puts the same observation in the register of return: things flourish, then each returns to its root. Change is not an event that happens to the world; it is the world's normal operation.
 
 > "All things alike go through their processes of activity, and (then) we see them return (to their original state)." (DDJ 16, [Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
@@ -20,9 +20,9 @@ The chapter 6 argument for not litigating comes from Zi-lai, dying while his fri
 
 > "When we once understand that heaven and earth are a great melting-pot, and the Creator a great founder, where can we have to go to that shall not be right for us? We are born as from a quiet sleep, and we die to a calm awaking." (Zhuangzi 6, [Legge](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
 
-The principle's rule is about the protest, not a theory of all suffering: the transformation is not optional, and the principle names the freezing as what makes it hurt.
+The compendium applies these passages as advice for responding to changes one cannot prevent.
 
-**Plain words** Nothing you have is staying. The body you wake in, the friendship you lean on and the mood you start the day with are all mid-process, and the process does not consult you. The instinct is to grip: keep the friendship at its best year, the body at its best decade. The change was coming anyway, and the principle names the grip, not the change, as what makes it hurt. Ask of anything you are losing: what is this turning into, and can I meet that instead of defending what it was?
+**Plain words** When a friendship changes, name what you miss and ask what contact is possible now. Consider whether you want to stay in touch differently. Leave room for grief while deciding how to respond.
 
 *For example:* Mourning a friendship that seasons changed — people become parents, move, grow apart — instead of letting it become something new.
 
