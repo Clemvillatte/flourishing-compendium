@@ -7,11 +7,38 @@ file: "The smallest complete practice"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-“The smallest complete practice” — Buddhist tradition.
+The smallest complete practice is the idea that a practice can be scaled down until it fits inside a single act, without losing what makes it a practice. The compendium's formulation names two: one conscious breath and one kind act. Both halves have classical ground. The breath is the oldest unit of Buddhist meditation: the Ānāpānasati Sutta instructs a monk to sit "holding his body erect, and setting mindfulness to the fore. Always mindful, he breathes in; mindful he breathes out," and to discern simply, "Breathing in long, he discerns, 'I am breathing in long'" ([Ānāpānasati Sutta MN 118, Thanissaro translation, AccessToInsight](https://accesstoinsight.org/tipitaka/mn/mn.118.than.html)). One breath, fully known, is not a fragment of the practice; it is the practice in miniature.
+
+### The Daoist arithmetic
+
+The same logic of small complete units runs through the Dao De Jing, in Legge's translation: "The tree which fills the arms grew from the tiniest sprout; the tower of nine storeys rose from a (small) heap of earth; the journey of a thousand li commenced with a single step" ([Laozi, Dao De Jing 64, Legge translation](https://www.gutenberg.org/cache/epub/216/pg216.txt)). The step is not less than the journey for being small; it is the journey in its only available form. Chapter 63 states the rule for practice in Legge's rendering: "He who acts (with an ulterior purpose) does harm... The sage does not act (so), and therefore does no harm" — the logic the compendium's D059, do the difficult while it is easy, carries forward ([Dao De Jing 63-64, Legge](https://www.gutenberg.org/cache/epub/216/pg216.txt)).
+
+### Why complete matters
+
+The sutta's claim for the practice is stated in its benefit sentence: "Mindfulness of in-&-out breathing, when developed & pursued, is of great fruit, of great benefit" ([MN 118, AccessToInsight](https://accesstoinsight.org/tipitaka/mn/mn.118.than.html)). The unit is small but not partial: attention to the body, mindfulness, and the calming of what the breath touches are all inside one breath. The same holds for one kind act: it requires no equipment, no sequence, no prerequisites, and it is the whole of the practice of kindness at the scale of a moment. A practice that cannot be performed small, on a bad day, in a bad week, is a practice that fails exactly when it is needed; the smallest complete practice is the design fix.
+
+### In the compendium
+
+- [[B190 — The breath is always available]] — why the breath is the chosen unit
+- [[B038 — Practice mindfulness of breathing (anapanasati)]] — the method behind the unit
+- [[D059 — Do the difficult while it is easy]] — the Daoist arithmetic of small steps
+- [[S134 — Build a daily structure]] — where the smallest practice lives inside a day
+
+## Related concepts
+
+- [[Anapanasati (mindfulness of breathing)]] — the full method the single breath scales
+- [[Wu wei]] — the non-forcing that small practice preserves
+- [[Beginner's mind]] — the attitude a small practice keeps fresh
+- [[Habit formation]] — how repetition turns the small unit into structure
 
 ## Sources
 
 - Buddhist tradition
+
+- [Ānāpānasati Sutta MN 118, Thanissaro translation, AccessToInsight](https://accesstoinsight.org/tipitaka/mn/mn.118.than.html) — the sitting instruction, the first-tetrad breathing instructions, the benefit sentence (opened)
+- [Laozi, Dao De Jing, Legge translation, Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt) — chapter 64 on the single step and the tiniest sprout (opened)
+
+## Cited in philosophy parallels
 
 [[B190 — The breath is always available]]
 [[R002 — Practise humanity toward others]]
