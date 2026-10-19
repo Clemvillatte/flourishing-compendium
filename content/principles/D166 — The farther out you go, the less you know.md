@@ -14,11 +14,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 
 Don't exhaust yourself gathering external data: know the world by knowing yourself; the sage knows without going out the door.
 
+Chapter 47 states the claim in full:
+
+> "Without going outside his door, one understands (all that takes place) under the sky; without looking out from his window, one sees the Tao of Heaven. The farther that one goes out (from himself), the less he knows." (DDJ 47 §1, [Legge](https://www.gutenberg.org/cache/epub/216/pg216.txt))
+
+The same chapter adds that the sages got their knowledge without travelling and gave things their right names without seeing them. The point is not that travel teaches nothing; it is that the patterns you keep collecting at a distance are the ones already running through your own reactions and decisions, and those can be examined without a ticket.
+
 (DDJ 47.)
 
-**Plain words** The farther out you go, the less you know. Don't exhaust yourself gathering external data — know the world by knowing yourself; the sage knows without going out the door. The pattern-recognition machine you already own is you; feed it you.
+**Plain words**
+Another city, another course, another feed: the chapter's claim is that the missing piece is usually not out there. Before researching how to get something, try naming what you actually want; the answer tends to change the search.
 
-*For example:* The traveler who's been everywhere and knows themselves nowhere — versus the person who went deep in one place and understood all places.
+**For example**
+The traveler who's been everywhere and knows themselves nowhere — versus the person who went deep in one place and understood all places.
+
+## Sources
+
+- [The Tao Teh King, trans. James Legge (Project Gutenberg)](https://www.gutenberg.org/cache/epub/216/pg216.txt) — ch. 47 §1-2
 
 ## Psychology parallels
 

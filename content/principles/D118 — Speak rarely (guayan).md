@@ -14,11 +14,27 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 
 Nature itself hardly talks: a violent wind doesn't last a morning, a downpour doesn't last a day. Say less; let force of quiet do the work.
 
+The Daodejing draws the image from the weather, and makes the comparison explicit:
+
+> "A violent wind does not last for a whole morning; a sudden rain does not last for the whole day. To whom is it that these (two) things are owing? To Heaven and Earth. If Heaven and Earth cannot make such (spasmodic) actings last long, how much less can man!" (DDJ 23 §1, [Legge](https://www.gutenberg.org/cache/epub/216/pg216.txt))
+
+Speech at full volume is the same kind of acting: it spends the speaker instead of storing anything. Chapter 5 gives the budget rule in verse:
+
+> "Much speech to swift exhaustion lead we see; Your inner being guard, and keep it free." (DDJ 5 §2, [Legge](https://www.gutenberg.org/cache/epub/216/pg216.txt))
+
+The counsel is economy rather than silence. Chapter 17's earliest rulers appeared irresolute, showing by their reticence the importance they set on their words, and their work was done while the people said it had happened of itself.
+
 (DDJ 5, 17, 23.)
 
-**Plain words** A violent wind doesn't last a morning. Say less, and let the force of quiet do the work — the loudest person in the room is rarely the one being listened to most carefully.
+**Plain words**
+A violent wind cannot last the morning because it is spending, not storing. Talking works the same way: volume spends the speaker and the listener both. One sentence placed at the right moment does more than an hour of pressure, and unlike the hour, it can be repeated tomorrow.
 
-*For example:* The grandparent who says one sentence at the exact right moment — the whole family quotes it for decades.
+**For example**
+The grandparent who says one sentence at the exact right moment — the whole family quotes it for decades.
+
+## Sources
+
+- [The Tao Teh King, trans. James Legge (Project Gutenberg)](https://www.gutenberg.org/cache/epub/216/pg216.txt) — ch. 5 §2, ch. 17 §2, ch. 23 §1
 
 ## Stories
 

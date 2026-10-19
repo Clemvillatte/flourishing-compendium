@@ -14,11 +14,27 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 
 The body is the house of vitality: when posture is aligned, the inner power has a place to reside. Sit, stand, and walk as though it matters: it does.
 
+The Neiye states the sequence outright: alignment first, stillness second, and the settled state that follows is what makes the body a lodging for the vital essence:
+
+> "When you can be properly aligned and can be still - Then, you can be settled. With a settled heart/mind in your center, Your ears and eyes are acute and clear, Your four limbs are hard and strong, You are able to become a dwelling for essence." (Neiye, [Study of Inner Cultivation](https://www.gutenberg.org/cache/epub/38585/pg38585.txt))
+
+A later verse gives the order of operations in practice:
+
+> "Once the four limbs are properly aligned, Once blood and Qi are still : Unify your intent, consolidate[R] your heart/mind; And the ears and eyes will be restrained Even though what is remote seems near." (Neiye, [Study of Inner Cultivation](https://www.gutenberg.org/cache/epub/38585/pg38585.txt))
+
+The order matters: posture is the first thing adjusted, and the mind-work is layered on top of a body already squared away.
+
 (Neiye.)
 
-**Plain words** Sit, stand, and walk as though it matters — the alignment is the antenna. Slouching is a signal your mind reads.
+**Plain words**
+The verse puts posture first: settle the body and the mind has a stable place to land; leave the body crooked and busy, and the mind inherits the crookedness. The adjustment costs nothing and can happen mid-task.
 
-*For example:* The five-minute posture reset before a hard conversation — the body's 'ready' position changes what the voice does.
+**For example**
+The five-minute posture reset before a hard conversation — the body's 'ready' position changes what the voice does.
+
+## Sources
+
+- [Study of Inner Cultivation (Neiye), Project Gutenberg](https://www.gutenberg.org/cache/epub/38585/pg38585.txt) — the "properly aligned and still" verse; the "four limbs are properly aligned" verse
 
 ## Psychology parallels
 

@@ -14,11 +14,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 
 Requite resentment with kindness: the only response that ends the cycle instead of feeding it.
 
+Chapter 63 of the Daodejing sets the maxim inside its list of the Tao's ways of handling things:
+
+> "(It is the way of the Tao) to act without (thinking of) acting; to conduct affairs without (feeling the) trouble of them; to taste without discerning any flavour; to consider what is small as great, and a few as many; and to recompense injury with kindness." (DDJ 63 §1, [Legge](https://www.gutenberg.org/cache/epub/216/pg216.txt))
+
+The chapter's second movement explains the timing: the master of the Tao anticipates things that are difficult while they are easy, and does things that would become great while they are small. An injury answered with injury is a small thing being allowed to grow; kindness at the point of injury is the difficult thing handled while it is still easy.
+
 (DDJ 63.)
 
-**Plain words** Requite resentment with kindness — the only response that ends the cycle instead of feeding it. Retaliation is a subscription service: you pay monthly, forever. Someone has to cancel it, and the other person has shown no interest in canceling.
+**Plain words**
+Retaliation is a subscription service: you pay monthly, forever, and the other person has shown no interest in canceling. Someone has to end it, which is not fair, but fairness is not one of the options on offer. Kindness is not pretending the injury did not happen; it is refusing the schedule of repayments.
 
-*For example:* The neighbor feud that ends when one side brings over the mail they could have kept — the war ends at the doorstep.
+**For example**
+The neighbor feud that ends when one side brings over the mail they could have kept — the war ends at the doorstep.
+
+## Sources
+
+- [The Tao Teh King, trans. James Legge (Project Gutenberg)](https://www.gutenberg.org/cache/epub/216/pg216.txt) — ch. 63 §1-2
 
 ## Psychology parallels
 
