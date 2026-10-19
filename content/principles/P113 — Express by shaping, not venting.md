@@ -29,7 +29,7 @@ Imagine writing about someone you miss. Begin with a particular memory, then rev
 ## Psychology parallels
 
 - **[[Affect labeling|Affect labeling]]**: choosing emotion words for faces reduced amygdala responses relative to comparison tasks in a 30-person fMRI study; this did not test artistic shaping or clinical recovery ([Lieberman et al., 2007](https://teams.semel.ucla.edu/sites/default/files/publications/May%202007%20-%20Putting%20Feelings%20Into%20Words.pdf)).
-- **[[Expressive writing|Expressive writing]]**: a meta-analysis of 146 randomised disclosure studies found a small average benefit, with variable effects and unresolved mechanisms; it does not establish artistic revision as the cause ([Frattaroli, 2006, pp. 823, 846-850](https://bpb-us-e2.wpmucdn.com/faculty.sites.uci.edu/dist/c/602/files/2019/08/Frattaroli-psych-bulletin-2006.pdf)).
+- **[[Expressive writing|Expressive writing]]**: a meta-analysis of 146 randomised disclosure studies found a small average benefit, with variable effects and unresolved mechanisms; it does not establish artistic revision as the cause ([Frattaroli, 2006, pp. 823, 851, 858-860](https://bpb-us-e2.wpmucdn.com/faculty.sites.uci.edu/dist/c/602/files/2019/08/Frattaroli-psych-bulletin-2006.pdf)).
 
 ## Philosophy parallels
 

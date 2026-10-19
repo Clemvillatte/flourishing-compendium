@@ -28,7 +28,7 @@ Imagine an engineer correcting an unnoticed error because others will rely on th
 
 ## Psychology parallels
 
-- **[[Intrinsic versus extrinsic goals|Intrinsic versus extrinsic goals]]**: studies summarised by Deci and Ryan associate greater relative emphasis on growth, relationships and community with better well-being; these aspirations are a comparison, not an established equivalent of Maslow's B-values ([Deci and Ryan, 2000, pp. 243-244](https://selfdeterminationtheory.org/SDT/documents/2000_DeciRyan_PIWhatWhy.pdf)).
+- **[[Intrinsic versus extrinsic goals|Intrinsic versus extrinsic goals]]**: studies summarised by Deci and Ryan associate greater relative emphasis on growth, relationships and community with better well-being; these aspirations are a comparison, not an established equivalent of Maslow's B-values ([Deci and Ryan, 2000, pp. 244-245](https://selfdeterminationtheory.org/SDT/documents/2000_DeciRyan_PIWhatWhy.pdf)).
 
 ## Philosophy parallels
 

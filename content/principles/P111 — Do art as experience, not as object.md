@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 111** — Do art as experience, not as object
 
-Dewey connects the appreciation of art with the experience of making it: both require attention to how parts develop into a whole. In his account, an experience acquires meaning when a person perceives the relationship between an action and what follows from it (Art as Experience, III, LW 10:50, 55, [text](https://www.uio.no/studier/emner/uv/uv/UV9406/dewey-john-(1987).-art-as-experience.pdf)).
+Dewey connects the appreciation of art with the experience of making it: both require attention to how parts develop into a whole. In his account, an experience acquires meaning when a person perceives the relationship between an action and what follows from it (Art as Experience, III, LW 10:50, 55, 60, [text](https://www.uio.no/studier/emner/uv/uv/UV9406/dewey-john-(1987).-art-as-experience.pdf)).
 
 > "Without an act of recreation the object is not perceived as a work of art." (Dewey, Art as Experience, 1934, III, LW 10:60, [text](https://www.uio.no/studier/emner/uv/uv/UV9406/dewey-john-(1987).-art-as-experience.pdf))
 

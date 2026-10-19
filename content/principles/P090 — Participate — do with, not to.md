@@ -28,7 +28,7 @@ Consider a parent preparing dinner with a child: offer a manageable choice of di
 
 ## Psychology parallels
 
-- **[[Self-determination|Self-determination]]**: autonomy and relatedness are compatible needs, although unsupportive conditions can put them in conflict ([Deci and Ryan, 2000, pp. 241-242, 252](https://selfdeterminationtheory.org/SDT/documents/2000_DeciRyan_PIWhatWhy.pdf)).
+- **[[Self-determination|Self-determination]]**: autonomy and relatedness are compatible needs, although unsupportive conditions can put them in conflict ([Deci and Ryan, 2000, pp. 242, 253](https://selfdeterminationtheory.org/SDT/documents/2000_DeciRyan_PIWhatWhy.pdf)).
 - **[[Cooperative learning|Cooperative learning]]**: a review reports achievement and relationship benefits from cooperative learning, but stresses that putting students into groups does not ensure cooperation ([Johnson and Johnson, 2014, pp. 843-846](https://www.redalyc.org/pdf/167/16731690008.pdf)).
 
 ## Philosophy parallels
