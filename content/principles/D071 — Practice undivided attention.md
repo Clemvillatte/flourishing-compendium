@@ -12,13 +12,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 71** — Practice undivided attention
 
-The cicada catcher catches everything because his mind is like a frozen stone: no Heaven-and-Earth, no limbs, only the cicadas. One thing at a time, totally.
+In the Zhuangzi, a hunchback catches cicadas as if picking them up with his hand, and explains the training to Confucius. The catcher describes five or six months practising with two pellets until none fell. With three, he missed one cicada in ten; with five, he caught them as if gathering them ([Zhuangzi 19, Legge](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)).
+
+> "My body is to me no more than the stump of a broken trunk, and my shoulder no more than the branch of a rotten tree. Great as heaven and earth are, and multitudinous as things are, I take no notice of them, but only of the wings of my cicadas; neither turning nor inclining to one side." (Zhuangzi 19, [Legge](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
+
+Confucius draws the lesson for his disciples: where the will is not diverted from its object, the spirit is concentrated; this might have been spoken of the hunchback gentleman ([Zhuangzi 19, Legge](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)). The scene presents concentration as part of an acquired skill: the catcher describes repeated practice and bodily steadiness, while Confucius stresses keeping the will with its object.
 
 (Zhuangzi 19.)
 
-**Plain words** The cicada catcher catches everything because his mind is a frozen stone: no Heaven-and-Earth, no limbs, only the cicadas. One thing at a time, totally. Attention that's divided isn't half as good — it's usually not even working.
+**Plain words**
+You can be busy with a task while repeatedly turning to something else. Read as advice, the story asks you to give one activity a clear boundary: choose what you are working on and leave unrelated demands for later. The catcher's months of practice also caution against expecting expert concentration on the first attempt.
 
-*For example:* Try typing an email while someone talks to you — both come out worse, and one usually has to be redone.
+*For example:*
+Suppose you are revising an essay paragraph. Leave an unrelated notification unopened until you have finished that paragraph.
+
+## Sources
+
+- [Zhuangzi, James Legge translation (1891), ETH Zurich METIS edition](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — hunchback cicada-catcher dialogue, chapter 19, quoted verbatim
 
 ## Stories
 
