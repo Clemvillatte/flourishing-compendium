@@ -12,13 +12,27 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 327** — Practise the extension of knowledge (zhizhi)
 
-Extend your knowledge through the investigation of things. Knowledge is not merely book-learning but the practical understanding that comes from engaging with the world. Extend your knowledge by observing, reflecting, and testing your understanding against reality.
+The Great Learning places extended knowledge within a sequence of self-cultivation. Investigation of things precedes completed knowledge, which precedes sincerity of thought. The sequence continues through rectifying the heart and cultivating the person to regulating the family and governing the state ([Legge](https://ctext.org/liji/da-xue)).
+
+> "Such extension of knowledge lay in the investigation of things. Things being investigated, knowledge became complete." (The Great Learning, passage beginning "The ancients who wished...", trans. [Legge](https://ctext.org/liji/da-xue))
+
+Separately, Confucius asks Zigong whether he thinks Confucius learns and remembers many things. Confucius rejects that description: "I seek a unity all pervading" (Analects 15.3, [Legge](https://ctext.org/analects/wei-ling-gong)).
 
 (The Great Learning; Confucius, The Analects 15.3.)
 
-**Plain words** Zhizhi, extension of knowledge: learn by engaging the world — observe, reflect, test against reality. Not book-learning alone, and not vibes: understanding that survives contact with things as they are.
+### Plain words
 
-*For example:* The gardener who reads everything, then actually runs the small experiment — two beds, one method each — and lets the harvest, not the forum, settle the argument.
+A practical reading starts with a question: have you understood the matter you are acting on? If you want to deal honestly with someone, examine the assumptions behind your decision before relying on your good intentions.
+
+### For example
+
+Imagine two colleagues dividing credit for a project. Applying the principle, they check the original agreement and the work records before arguing for their shares.
+
+## Sources
+
+- [The Great Learning, Legge translation, Chinese Text Project](https://ctext.org/liji/da-xue) — the zhizhi passage
+- [The Analects, Wei Ling Gong, Legge translation, Chinese Text Project](https://ctext.org/analects/wei-ling-gong) — 15.3
+
 ## Practice kernels
 
 - [[K251 — Signature strengths in new ways|K251 Signature strengths in new ways]]
