@@ -200,3 +200,12 @@ session after supervisor QC flags.
   - The old plain words was a replicate of the body's sentences; repaired. The old example's "Like attracts like" generalization replaced with a check-your-own-friendships exercise with no outcome claim.
   - Speed directive: no advisor QC this item (13; next milestone 15); no draft file; one commit.
 - Saturation: A078 already linked from its many Stories and the friendship concepts; no new reciprocals proposed.
+
+## A091 — Integrate contemplation and action (done 2026-10-19)
+
+- Opened: Aristotle, Politics, Book VII, Jowett translation, MIT Classics, https://classics.mit.edu/Aristotle/politics.7.seven.html
+  - Verified verbatim (blockquote, contiguous): "Not that a life of action must necessarily have relation to others, as some persons think, nor are those ideas only to be regarded as practical which are pursued for the sake of practical results, but much more the thoughts and contemplations which are independent and complete in themselves; since virtuous activity, and therefore a certain kind of action, is an end, and even in the case of external actions the directing mind is most truly said to act."
+  - Verified inline: "Courage and endurance are required for business and philosophy for leisure, temperance and justice for both." Also verified context: the statesman-vs-freeman question; "happiness is activity"; "the active life will be the best... for individuals"; citizens ruling and being ruled in turn; "he who would learn to command well must... first of all learn to obey."
+  - Access note: NE X.8 at MIT Classics (nicomachaen.10.viii.html) returned a client error; the NE X.8 locator is kept as inherited and unquoted. The blockquote is from Politics VII.3, which the principle's citation line already carried.
+  - Speed directive: no advisor QC this item (14; next milestone 15); no draft file; one commit.
+- Saturation: A091 linked from its Stories and parallels; no new reciprocals proposed.
