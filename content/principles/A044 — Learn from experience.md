@@ -13,15 +13,15 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 
 > **Principle 44** — Learn from experience
 
-Aristotle's account of prudence treats particular facts as its object, and notes where those facts come from: experience. He uses the young as the test case. A young person can be expert in geometry and mathematics, since those are abstract, but not prudent, since prudence requires knowledge of particular facts and those come only with years ([NE VI.8, Rackham, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6)).
+Aristotle's account of prudence treats particular facts as its object, and notes where those facts come from: experience. He uses the young as the test case. A young person can be expert in geometry and mathematics, since those are abstract, but not prudent, since prudence requires knowledge of particular facts and those come only with years ([NE VI.8, Rackham, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6)). He goes on to give the reason: Prudence includes a knowledge of particular facts, and this is derived from experience. The fruit of that is time.
 
-> A further proof of what has been said is, that although the young may be experts in geometry and mathematics and similar branches of knowledge, we do not consider that a young man can have Prudence. The reason is that Prudence includes a knowledge of particular facts, and this is derived from experience, which a young man does not possess; for experience is the fruit of years.
+> A further proof of what has been said is, that although the young may be experts in geometry and mathematics and similar branches of knowledge, we do not consider that a young man can have Prudence.
 >
 > — Nicomachean Ethics VI.8 ([Rackham, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6))
 
-**Plain words** The compendium's application of this principle asks the reader to treat their own experience as the source of practical judgement, and to notice what it actually delivers. Aristotle's own contrast is between abstract subjects that can be mastered young and particular facts that only accumulate over time. He does not claim experience automatically produces judgement; he claims it is the only material judgement has to work with.
+**Plain words** Aristotle's contrast is between abstract subjects that can be mastered young and particular facts that only accumulate over time. Experience does not automatically produce judgement. What it supplies is the particular knowledge that practical judgement draws on.
 
-For example (imagined): someone who has run three failed projects often sees the fourth go wrong at the planning stage. A first-time manager cannot.
+For example (imagined): a manager who has watched three projects fail at the planning stage recognises the pattern when it starts in the fourth.
 
 (NE VI.8.)
 
