@@ -7,32 +7,39 @@ file: "Character as habits"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-C"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
-James's chapter "Habit" in The Principles of Psychology (1890) connects repeated conduct with the formation of character ([James 1890](https://psychclassics.yorku.ca/James/Principles/prin4.htm)). The chapter gives mechanism and moral together: habits are laid down by a plastic nervous system, and character is what the laying-down accumulates to.
+James's chapter "Habit" in The Principles of Psychology (1890) ties repeated conduct to the formation of character ([James 1890](https://psychclassics.yorku.ca/James/Principles/prin4.htm)). The chapter runs on two tracks: a physiological account of how habits form, and a moral argument about what the forming adds up to.
 
 ### The mechanism
 
-James explains habit through plasticity, which he defines as the possession of a structure weak enough to yield to an influence, but strong enough not to yield all at once; his first proposition is that the phenomena of habit in living beings are due to the plasticity of the organic materials of which their bodies are composed ([James 1890](https://psychclassics.yorku.ca/James/Principles/prin4.htm)). He borrows Carpenter's summary: "our nervous system grows to the modes in which it has been exercised" ([James 1890](https://psychclassics.yorku.ca/James/Principles/prin4.htm)). On his account habit simplifies the movements required to achieve a given result, makes them more accurate and diminishes fatigue ([James 1890](https://psychclassics.yorku.ca/James/Principles/prin4.htm)). The same fact at social scale: "Habit is thus the enormous fly-wheel of society, its most precious conservative agent" ([James 1890](https://psychclassics.yorku.ca/James/Principles/prin4.htm)).
+Habit rests on plasticity, which James defines as "the possession of a structure weak enough to yield to an influence, but strong enough not to yield all at once" ([James 1890](https://psychclassics.yorku.ca/James/Principles/prin4.htm)). His first proposition is that "the phenomena of habit in living beings are due to the plasticity of the organic materials of which their bodies are composed" ([James 1890](https://psychclassics.yorku.ca/James/Principles/prin4.htm)). He borrows Carpenter's summary of the fact: "our nervous system grows to the modes in which it has been exercised" ([James 1890](https://psychclassics.yorku.ca/James/Principles/prin4.htm)). The payoff is efficiency: habit "simplifies the movements required to achieve a given result, makes them more accurate and diminishes fatigue" ([James 1890](https://psychclassics.yorku.ca/James/Principles/prin4.htm)). James presses the point socially:
+
+> "Habit is thus the enormous fly-wheel of society, its most precious conservative agent." ([James 1890](https://psychclassics.yorku.ca/James/Principles/prin4.htm))
 
 ### The moral
 
-James presents repeated acts as morally cumulative. "We are spinning our own fates, good or evil, and never to be undone. Every smallest stroke of virtue or of vice leaves its never so little scar" ([James 1890](https://psychclassics.yorku.ca/James/Principles/prin4.htm)). The same counting runs upward: "As we become permanent drunkards by so many separate drinks, so we become saints in the moral, and authorities and experts in the practical and scientific spheres, by so many separate acts and hours of work" ([James 1890](https://psychclassics.yorku.ca/James/Principles/prin4.htm)).
+Repeated acts accumulate, and James counts the accumulation in both directions:
+
+> "We are spinning our own fates, good or evil, and never to be undone. Every smallest stroke of virtue or of vice leaves its never so little scar." ([James 1890](https://psychclassics.yorku.ca/James/Principles/prin4.htm))
+
+> "As we become permanent drunkards by so many separate drinks, so we become saints in the moral, and authorities and experts in the practical and scientific spheres, by so many separate acts and hours of work." ([James 1890](https://psychclassics.yorku.ca/James/Principles/prin4.htm))
 
 ### The maxims
 
-James's recommendations for education centre on making "our nervous system our ally instead of our enemy," which means making "automatic and habitual, as early as possible, as many useful actions as we can" ([James 1890](https://psychclassics.yorku.ca/James/Principles/prin4.htm)). His maxims: "Never suffer an exception to occur till the new habit is securely rooted in your life"; "Seize the very first possible opportunity to act on every resolution you make"; and, to keep the will itself in training, "Keep the faculty of effort alive in you by a little gratuitous exercise every day" ([James 1890](https://psychclassics.yorku.ca/James/Principles/prin4.htm)). The alternative he describes is misery: nothing habitual but indecision ([James 1890](https://psychclassics.yorku.ca/James/Principles/prin4.htm)).
+The advice aims at making "our nervous system our ally instead of our enemy", which means making "automatic and habitual, as early as possible, as many useful actions as we can" ([James 1890](https://psychclassics.yorku.ca/James/Principles/prin4.htm)). Once a habit is in training: "Never suffer an exception to occur till the new habit is securely rooted in your life", and "Seize the very first possible opportunity to act on every resolution you make" ([James 1890](https://psychclassics.yorku.ca/James/Principles/prin4.htm)). Will itself needs exercise: "Keep the faculty of effort alive in you by a little gratuitous exercise every day" ([James 1890](https://psychclassics.yorku.ca/James/Principles/prin4.htm)). The person who skips all this is the one James describes as "in whom nothing is habitual but indecision" ([James 1890](https://psychclassics.yorku.ca/James/Principles/prin4.htm)).
 
 ### In the compendium
 
-P056 "Your character is your habits" gives the compendium's practical instruction to choose one's repetitions and cites The Principles of Psychology. P075 "Treat habits as will" separately presents will as an organised system of habits, citing Dewey's Human Nature and Conduct.
+- [[P056 — Your character is your habits]] — the compendium's instruction to choose your repetitions, citing this chapter
+- [[P075 — Treat habits as will]] — will as an organised system of habits, citing Dewey's Human Nature and Conduct
 
 ## Related concepts
 
-- [[Habit]] — the companion page for the phenomenon James examines
-- [[Habit formation]] — compare that page's acquisition account with James's historical explanation
-- [[Habit maintenance]] — a companion question: how are established habits sustained?
-- [[Habit stacking]] — compare its routine-anchoring recipe with James's advice to support resolutions
-- [[Shaping (Skinner)]] — compare that page's account of successive approximations with James's practice maxims
-- [[Behavior analysis]] — contrast James's habit account with that page's three-term contingency
+- [[Habit]] — the general phenomenon, which this page reads through James's chapter
+- [[Habit formation]] — acquisition as current psychology studies it; James's account is a historical ancestor
+- [[Habit maintenance]] — how established habits are sustained, where the no-exceptions maxim does its work
+- [[Habit stacking]] — anchors a new routine to an existing one; a modern recipe in the spirit of James's advice to act at once
+- [[Shaping (Skinner)]] — builds repertoires by successive approximations, as James's repeated acts build character
+- [[Behavior analysis]] — explains habit through the three-term contingency rather than nervous-system plasticity
 
 ## Sources
 
