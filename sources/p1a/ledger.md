@@ -148,3 +148,11 @@ session after supervisor QC flags.
   - Advisor QC round 1 rejected: "Hurt is information, and it has a location" (unsupported metaphor), "You cannot understand something you are still running from" (sweeping aphorism), the ten-minute sitting prescription, the assumption that a thought "feeds" grief, and the "makes no promise" closer. Plain words and example replaced with the advisor's restrained exercise framing.
   - Citation change: the inherited "(Batchelor's first task: embrace life.)" was removed (not verified in an opened source; flagged, not silently kept).
 - Saturation: B001 cited by Dukkha and Four Noble Truths concept pages; no new reciprocals proposed.
+
+## D019 — Know what is enough (zhizu) (done 2026-10-19)
+
+- Opened: Laozi, Daodejing 44 and 46, Legge translation, Project Gutenberg, https://www.gutenberg.org/files/216/216-h/216-h.htm (same opened edition as D039; chapters 44 and 46 fetched and verified this item; source not double-counted)
+  - Verified verbatim (blockquote, ch. 46): "There is no guilt greater than to sanction ambition; no calamity greater than to be discontented with one's lot; no fault greater than the wish to be getting. Therefore the sufficiency of contentment is an enduring and unchanging sufficiency."
+  - Verified verbatim (inline, ch. 44, verse form): "Who is content / Needs fear no shame. / Who knows to stop / Incurs no blame."
+  - Advisor QC round 1 rejected: the zhizu lexical gloss in the body (romanization/gloss not verifiable in the English edition; title's "(zhizu)" is protected and unchanged), "the wish to be getting has nothing to stop at until a line is drawn" (mechanism the chapters do not establish), "enough borrows its size from whatever you just reached" (unsupported psychological mechanism + aphorism), the old example's promised superiority and endlessly-growing target, and "chapter 46 names the failure the principle works on" (page-construction narration). All removed/replaced with the advisor's grounded exercise framing; the three-clients example made explicitly imagined.
+- Saturation: D019 linked from Sufficiency (DDJ 44) and Aspiration index concept contexts; no new reciprocals proposed.

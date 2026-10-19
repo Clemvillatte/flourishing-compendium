@@ -12,13 +12,22 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 19** — Know what is enough (zhizu)
 
-Define sufficiency in advance: money, food, achievement, attention. Without a felt line for "enough," no amount ever is.
+The Daodejing connects contentment and knowing when to stop with freedom from shame and blame: "Who is content / Needs fear no shame. / Who knows to stop / Incurs no blame." (DDJ 44.)
+
+> There is no guilt greater than to sanction ambition; no calamity greater than to be discontented with one's lot; no fault greater than the wish to be getting. Therefore the sufficiency of contentment is an enduring and unchanging sufficiency. (Daodejing 46, Legge trans., [Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm))
+
+As a practical exercise, choose what would count as sufficient before taking on further commitments. The principle's directive to define sufficiency in advance (money, food, achievement, attention) frames that choice.
 
 (DDJ 44, 46.)
 
-**Plain words** Know what enough is before you start. If you never draw the line for 'enough money, enough achievement, enough attention,' then no amount ever is — the goalpost moves with you. Define sufficiency in advance and you're free; skip it and you're on a treadmill.
+**Plain words**
+Ask what you want the next gain to provide. If you decide you already have enough for that purpose, you can stop. The fact that more is available need not decide the matter for you.
 
-*For example:* Deciding 'a comfortable week is three clients' before the year starts beats chasing a number that keeps growing every time you hit it.
+*For example:* Imagine a freelancer choosing three clients a week as a workable limit. When a fourth inquiry arrives, they can refer to that decision when deciding whether to accept more work.
+
+## Sources
+
+- [Laozi, Daodejing 44 and 46, Legge translation, Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm) — full chapter texts
 
 ## Stories
 
