@@ -12,13 +12,28 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 15** — Practice magnanimity (megalopsychia)
 
-Magnanimity is the mean between vanity and smallness of soul. The magnanimous person thinks themselves worthy of great things and is worthy of them. They are not crushed by fortune nor puffed up by it. Cultivate a sense of your own worth that is neither inflated nor deflated.
+Ross translates megalopsychia as "pride", and the proud person as the one Aristotle describes in NE IV.3:
 
-(NE IV.3.)
+> "Now the man is thought to be proud who thinks himself worthy of great things, being worthy of them; for he who does so beyond his deserts is a fool, but no virtuous man is foolish or silly."
+> — Aristotle, Nicomachean Ethics IV.3 ([MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html))
 
-**Plain words** The magnanimous person knows they're capable of great things and is right about it. They're not flattened by bad luck or puffed up by good luck. So the aim is an honest sense of your own worth, neither too big nor too small.
+### Two ways to miss
 
-*For example:* A designer who knows she's good enough to apply for the top studio, and who doesn't fall apart when she's rejected, has a steady sense of her worth.
+"He who thinks himself worthy of great things, being unworthy of them, is vain", while the man who thinks himself worthy of less than he deserves is "unduly humble". So "the proud man, then, is an extreme in respect of the greatness of his claims, but a mean in respect of the rightness of them", because his claims match his merits while the others' go to excess or fall short.
+
+### Fortune and honour
+
+Honour is the proud person's main concern, but "he will also bear himself with moderation towards wealth and power and all good or evil fortune, whatever may befall him, and will be neither over-joyed by good fortune nor over-pained by evil." Aristotle also sets a high bar: "it is hard to be truly proud; for it is impossible without nobility and goodness of character." He calls pride "a sort of crown of the virtues".
+
+### Wording of the principle
+
+"Smallness of soul" is the compendium's term for the deficiency, which Ross calls being "unduly humble". The advice to cultivate a sense of your own worth is the compendium's.
+
+(NE IV.3, 1123b-1124a.)
+
+**Plain words** Aristotle's proud person claims great things and deserves them. Vanity claims more than it deserves, and false humility claims less. The test is accuracy. That also steadies the person against luck, good or bad.
+
+*For example:* Imagine a designer whose work is strong enough for a top studio. She applies, and if she is rejected she does not decide she was never any good.
 
 ## Practice kernels
 
