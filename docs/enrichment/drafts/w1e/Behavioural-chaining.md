@@ -1,4 +1,4 @@
-# Draft: Behavioural chaining (applied behaviour analysis) — band w1e, pre-QC
+# Draft: Behavioural chaining (applied behaviour analysis) — final (QC narrowing edits applied, published)
 
 Sources opened (2 external):
 1. Slocum & Tiger 2011, JABA 44(4):793-805 (PMC3251282) — response chaining = task analysis breaking a task into component parts, each taught to mastery via prompting and differential reinforcement; forward/backward/total-task definitions; 4 children, 3/6/9/18-step motor sequences; neither procedure consistently more efficient (16 comparisons: forward fewer trials in 8, backward in 6, no diff 2); 3 of 4 no preference; Hur & Osborne 1993 corsage 18-step similar trials; Weiss 1978 forward faster; Walls et al. 1981 no difference; conclusion: neither differentially efficient nor preferred; brief tasks did not predict longer tasks.
@@ -10,30 +10,28 @@ Compendium principles read: BE024 (habit chain, each behaviour cues the next, se
 
 ## Page body (for content/concepts/Behavioural chaining (applied behaviour analysis).md)
 
-Behavioural chaining is the applied-behavior-analysis procedure for teaching multi-step skills. A task analysis breaks the task into component steps, and the steps are taught in sequence with prompting and differential reinforcement until the learner performs the whole chain independently ([Slocum & Tiger 2011](https://pmc.ncbi.nlm.nih.gov/articles/PMC3251282/)). The logic is the behavior chain itself: the outcome of one step serves as a reinforcer for the previous step and as the signal for the next, ending in a terminal reinforcer, clean teeth in the tooth-brushing example ([Wikipedia, "Chaining"](https://en.wikipedia.org/wiki/Chaining)).
+Behavioural chaining is a procedure used in applied behaviour analysis for teaching multi-step skills. A task analysis breaks the task into component steps, and the steps are taught in sequence with prompting and differential reinforcement until the learner performs the whole chain independently ([Slocum & Tiger 2011](https://pmc.ncbi.nlm.nih.gov/articles/PMC3251282/)). A behaviour chain is an ordered sequence in which the result of one action provides a cue for the next ([Wikipedia, "Chaining"](https://en.wikipedia.org/wiki/Chaining)).
 
 ### Three ways to build the chain
 
-Forward chaining teaches the first step to mastery, then adds each later step; all previously taught steps plus the current one must be completed correctly for reinforcement ([Slocum & Tiger 2011](https://pmc.ncbi.nlm.nih.gov/articles/PMC3251282/)). Backward chaining teaches the last step first, so reinforcement arrives at its natural location, the end of the task ([Slocum & Tiger 2011](https://pmc.ncbi.nlm.nih.gov/articles/PMC3251282/)). Total-task presentation targets every step from the start, with prompts provided wherever needed ([Slocum & Tiger 2011](https://pmc.ncbi.nlm.nih.gov/articles/PMC3251282/)). Backward chaining is described as preferred for learners with severe delays because the learner receives the chain's outcome immediately on completing the final step ([Wikipedia, "Chaining"](https://en.wikipedia.org/wiki/Chaining)).
-
+Forward chaining teaches the first step to mastery, then adds each later step; all previously taught steps plus the current one must be completed correctly for reinforcement ([Slocum & Tiger 2011](https://pmc.ncbi.nlm.nih.gov/articles/PMC3251282/)). Backward chaining teaches the last step first, so reinforcement arrives at its natural location, the end of the task ([Slocum & Tiger 2011](https://pmc.ncbi.nlm.nih.gov/articles/PMC3251282/)). Total-task presentation targets every step from the start, with prompts provided wherever needed ([Slocum & Tiger 2011](https://pmc.ncbi.nlm.nih.gov/articles/PMC3251282/)). 
 ### Evidence and limits
 
-The evidence base is mostly single-case and small-sample. In Slocum and Tiger's comparison, four children acquired the target sequences under both forward and backward chaining, but neither procedure was consistently more efficient across 16 comparisons, and three of the four children showed no preference between them ([Slocum & Tiger 2011](https://pmc.ncbi.nlm.nih.gov/articles/PMC3251282/)). Earlier comparisons had likewise found no consistent advantage: Hur and Osborne's corsage-making study taught an 18-step task to both groups in a similar number of trials ([Slocum & Tiger 2011](https://pmc.ncbi.nlm.nih.gov/articles/PMC3251282/)). The authors' conclusion is cautious: the procedures are neither differentially efficient nor differentially preferred, and performance on brief tasks did not predict performance on longer ones ([Slocum & Tiger 2011](https://pmc.ncbi.nlm.nih.gov/articles/PMC3251282/)).
+In Slocum and Tiger's comparison, four children acquired experimentally taught motor sequences under both forward and backward chaining, but neither procedure was consistently more efficient across 16 comparisons, and three of the four children showed no preference between them ([Slocum & Tiger 2011](https://pmc.ncbi.nlm.nih.gov/articles/PMC3251282/)). Slocum and Tiger report that Hur and Osborne's corsage-making study taught an 18-step task to both groups in a similar number of trials ([Slocum & Tiger 2011](https://pmc.ncbi.nlm.nih.gov/articles/PMC3251282/)). In this small motor-sequence study, neither procedure was consistently faster, and performance on shorter sequences did not reliably predict performance on longer ones ([Slocum & Tiger 2011](https://pmc.ncbi.nlm.nih.gov/articles/PMC3251282/)).
 
 ### In the compendium
 
-BE024 "Learn to use chaining: link behaviours into sequences" is the compendium's version, with its habit-chain reading: each behaviour becomes the cue for the next, and sequences reduce the decision count to one. AF036 "Learn to regulate through action: affect follows behaviour" shares the underlying bet that action changes affect. BE078 "Build behavioural maintenance" adds the retention problem: chains survive only with ongoing practice and adaptation. The habit-formation research cited elsewhere in the compendium measures what chaining builds in ordinary life, automaticity developing along an asymptotic curve.
+BE024 "Learn to use chaining: link behaviours into sequences" is the compendium's version, with its habit-chain reading: each behaviour becomes the cue for the next, and sequences reduce the decision count to one. AF036 "Learn to regulate through action: affect follows behaviour" shares the underlying bet that action changes affect. BE078 "Build behavioural maintenance: ongoing practice and adaptation" extends the discussion from acquisition to continued practice and adaptation.
 
 ## Related concepts
 
-- [[Shaping (Skinner)]] — the sibling procedure for behaviours not yet in the repertoire
-- [[Habit stacking]] — the popular descendant: anchoring a new behaviour to an existing routine
-- [[Habit formation]] — the automaticity curve that chained practice rides
-- [[Habit]] — the everyday object a finished chain becomes
-- [[Habit maintenance]] — the retention problem after acquisition
+- [[Shaping (Skinner)]] — the neighbouring procedure, building new responses by successive approximations
+- [[Habit stacking]] — the everyday cousin of the chaining recipe (a comparison, not a lineage claim)
+- [[Habit]] — BE024 describes everyday routines as habit chains
+- [[Habit maintenance]] — BE078 extends chaining from acquisition to maintenance
 - [[Behavior analysis]] — the parent tradition defining task analysis and reinforcement
 - [[Operant conditioning (Skinner)]] — the learning process each link relies on
-- [[Behavioral activation]] — scheduling routines for depression, the clinical cousin
+- [[Behavioral activation]] — AF036's action-focused comparison
 
 ## Sources
 
