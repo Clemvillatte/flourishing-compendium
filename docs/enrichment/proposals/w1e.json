@@ -14,8 +14,58 @@
    "into": "Body scan in MBSR (Kabat-Zinn)",
    "link": "Attentional control training and the role of repeated redirection",
    "why": "another practice of systematically redirecting attention, carried by the same principle AT050"
+  },
+  {
+   "into": "Interoception",
+   "link": "Body scan in MBSR (Kabat-Zinn)",
+   "why": "the body scan is MBSR's main practice for training interoception region by region"
+  },
+  {
+   "into": "Interoceptive awareness",
+   "link": "Body scan in MBSR (Kabat-Zinn)",
+   "why": "noticing internal signals as information is the scan's most consistent reported outcome"
+  },
+  {
+   "into": "Bare attention in mindfulness practice",
+   "link": "Body scan in MBSR (Kabat-Zinn)",
+   "why": "the scan asks for bare attention to each body region before interpretation"
+  },
+  {
+   "into": "Anapanasati (mindfulness of breathing)",
+   "link": "Body scan in MBSR (Kabat-Zinn)",
+   "why": "the breath-anchored counterpart practice within mindfulness training"
+  },
+  {
+   "into": "Attentional control training and the role of repeated redirection",
+   "link": "Body scan in MBSR (Kabat-Zinn)",
+   "why": "the scan is one long redirection exercise, moving attention region by region"
+  },
+  {
+   "into": "Vipassana (insight)",
+   "link": "Body scan in MBSR (Kabat-Zinn)",
+   "why": "the systematic survey of sensation resembles vipassana practice (comparison, not lineage)"
+  },
+  {
+   "into": "Chronic pain acceptance",
+   "link": "Body scan in MBSR (Kabat-Zinn)",
+   "why": "chronic pain was the clinical setting where the scan was first tested (Kabat-Zinn 1982)"
+  },
+  {
+   "into": "Mindful attention",
+   "link": "Body scan in MBSR (Kabat-Zinn)",
+   "why": "Kabat-Zinn's own term for the attentional stance the scan trains"
   }
  ],
- "inline": [],
- "notes": " | deferred at this run (target band busy): 3 recip, 0 inline"
+ "inline": [
+  {
+   "into": "AT043",
+   "concept": "Body scan in MBSR (Kabat-Zinn)",
+   "phrase": "body scan"
+  },
+  {
+   "into": "BI009",
+   "concept": "Body scan in MBSR (Kabat-Zinn)",
+   "phrase": "Body scan"
+  }
+ ]
 }

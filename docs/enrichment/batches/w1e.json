@@ -1,11 +1,12 @@
 {
  "batch": "w1e",
  "done": [
-  "Attentional control training and the role of repeated redirection"
+  "Attentional control training and the role of repeated redirection",
+  "Body scan in MBSR (Kabat-Zinn)"
  ],
- "in_progress": "Body scan in MBSR (Kabat-Zinn)",
+ "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
- "sources_checked": 5,
- "updated": "2026-10-19T07:17:10+00:00"
+ "sources_checked": 10,
+ "updated": "2026-10-19T07:19:18+00:00"
 }
