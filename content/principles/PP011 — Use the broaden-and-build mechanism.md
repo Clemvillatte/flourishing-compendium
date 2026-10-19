@@ -12,13 +12,21 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 ---
 > **Principle 11** — Use the broaden-and-build mechanism
 
-Positive emotions broaden attention, cognition, and the repertoire of available actions. Over time, this broadening builds durable resources: social bonds, skills, resilience. The effect is modest and context-dependent, but the mechanism is well-supported. The practical implication is not to maximise positive emotion but to recognise that moments of joy, interest, and contentment are not just pleasant; they are functional.
+The theory in Fredrickson's own sentence:
 
-(Fredrickson, 2001; Fredrickson et al., 2008.)
+> "The broaden-and-build theory posits that experiences of positive emotions broaden people's momentary thought-action repertoires, which in turn serves to build their enduring personal resources, ranging from physical and intellectual resources to social and psychological resources." (Fredrickson, "The role of positive emotions in positive psychology," [PubMed](https://pubmed.ncbi.nlm.nih.gov/11315248/))
 
-**Plain words** Positive emotions widen attention and the range of things you might do. Over time that builds lasting resources: friendships, skills, resilience. The effect is modest and depends on context, but the mechanism is well supported. The aim isn't to maximise positive feeling but to recognise and use it when it comes.
+The build side has a field test: "Results showed that this meditation practice produced increases over time in daily experiences of positive emotions, which, in turn, produced increases in a wide range of personal resources (e.g., increased mindfulness, purpose in life, social support, decreased illness symptoms). In turn, these increments in personal resources predicted increased life satisfaction and reduced depressive symptoms" ([Fredrickson et al. 2008](https://pubmed.ncbi.nlm.nih.gov/18954193/)). The effect is modest and context-dependent, but the mechanism is well-supported. The practical implication is the functional framing: moments of joy, interest, and contentment are not just pleasant; they are the widening moments from which resources get built. The compendium's account is [[Broaden-and-build]].
+
+**Plain words**
+A good mood is not a reward; it is a doorway. When you feel good, you see more options: the new recipe, the neighbour, the detour. Nothing was added to the world except your range. The build part is the long game: the recipe becomes a skill, the neighbour becomes a friend, and one day you have resources that a bad month cannot take away. You do not need to chase good feelings; you need to walk through them when they open the door.
 
 *For example:* When you're in a good mood you try the new recipe and chat with a neighbour, and a month later you have a new friend.
+
+## Sources
+
+- [Fredrickson, "The role of positive emotions in positive psychology: The broaden-and-build theory of positive emotions," American Psychologist 56 (2001) (PubMed)](https://pubmed.ncbi.nlm.nih.gov/11315248/) — theory statement, verbatim
+- [Fredrickson et al., "Open hearts build lives: positive emotions, induced through loving-kindness meditation, build consequential personal resources," Journal of Personality and Social Psychology 95 (2008) (PubMed)](https://pubmed.ncbi.nlm.nih.gov/18954193/) — field experiment findings, verbatim
 
 ## Stories
 
