@@ -18,6 +18,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 - **post-traumatic growth**
 - **creative response to mortality**
 
+## Related concepts
+
+- [[Narrative identity]] — the interpretive work stories do is the process behind narrative identity
+
 ## Sources
 
 - McAdams, 2008

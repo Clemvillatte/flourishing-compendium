@@ -35,6 +35,7 @@ R001, R026 and R040 ground it in Ubuntu and Māori practice, and R130 extends it
 
 
 
+
 - [[I and Thou]] — Buber's dialogue, named in this page's seed as its source
 - [[The Between]] — Buber's name for the shared space of relation, which R099 treats as ontological
 - [[Being-with (Mitsein)]] — the Heideggerian parallel the compendium pairs via E026
@@ -46,6 +47,7 @@ R001, R026 and R040 ground it in Ubuntu and Māori practice, and R130 extends it
 - [[Co-regulation in relationships]] — affect as a between-people process, the parallel in emotion research
 - [[Care]] — the self care presupposes: made in relation
 - [[Independent vs interdependent self-construal (Markus & Kitayama)]] — the cross-cultural research programme behind the relational self
+- [[Narrative identity]] — both are non-substantial accounts of self: told with others, told as a story
 ## Sources
 
 - [Internet Encyclopedia of Philosophy, "Martin Buber (1878-1965)"](https://iep.utm.edu/martin-buber/) — the I-Thou/I-It distinction, the between, the relational self

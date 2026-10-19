@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Cross-cultural variations in conceptions of happiness” — Joshanloo, 2014.
 
+## Related concepts
+
+- [[SO044]] — SO044's WEIRD critique is the standing methodological caution for this page's cross-cultural topic
+
 ## Sources
 
 - Joshanloo, 2014
