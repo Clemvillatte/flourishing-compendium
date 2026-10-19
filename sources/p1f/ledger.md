@@ -93,3 +93,9 @@ Advisor milestone QC (items 2-6 + D074 re-review) failed on inference-level issu
 - Opened via fetch workflow: The Four Sublime States, Nyanaponika Thera, accesstoinsight.org/lib/authors/nyanaponika/wheel006.html — the "Basic Passage" section III verified verbatim and quoted as the blockquote. Also opened SN 46.54 (Thanissaro, accesstoinsight.org/tipitaka/sn/sn46/sn46.054.than.html, full text): the mudita directional formula is elided in that printing; used only to confirm the four-state context, not quoted.
 - Fixes: plain words replicate removed and re-derived around the directional formula as a practice; "it's trainable" unsupported claim removed; example rewritten without em dash ("poisoned at no charge to them" oddity removed).
 - Saturation: B053 already cited by Savoring, Mudita (sympathetic joy), Capitalization; no new proposals.
+
+## B054 — Practice equanimity (upekkha) (done 2026-10-19)
+
+- Opened via fetch workflow: AN 8.6 Lokavipatti Sutta (Thanissaro, accesstoinsight.org/tipitaka/an/an08/an08.006.than.html), full text. Verified verbatim: the eight-conditions sentence (quoted as blockquote); "inconstant, stressful, & subject to change"; "welcomes the arisen gain and rebels against the arisen loss"; the welcoming-and-rebelling release contrast.
+- Fixes: plain words replicate removed and re-derived around the sutta's instructed/uninstructed contrast; "boat that doesn't capsize" metaphor removed (not from the source); example made hypothetical; em dashes removed from body/example prose.
+- Saturation: B054 already cited by Equanimity, Acceptance, Ataraxia, Process model of emotion regulation Gross, Emotion regulation; no new proposals.
