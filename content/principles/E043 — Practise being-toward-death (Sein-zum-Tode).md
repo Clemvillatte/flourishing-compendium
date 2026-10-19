@@ -12,13 +12,22 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 435** — Practise being-toward-death (Sein-zum-Tode)
 
-Recognise that your existence is fundamentally being-toward-death. Death is not an event that will happen to you at the end; it is a structural feature of your existence now. The awareness of your finitude is not morbid but clarifying: it reveals what matters, what is essential, what must not be postponed.
+Heidegger's term names a structural feature of existence, not an event to wait for. On the account the Wikipedia article gives of Being and Time §§46-53, one's death is not an empirical event, and it is characterized as "ownmost potentiality-for-being, non-relational, and not to be out-stripped": ownmost because no one can die in your place, non-relational because the death of others cannot substitute for understanding your own. The line the tradition carries from the Macquarrie translation is:
+
+> "as soon as man comes to life, he is at once old enough to die." (Being and Time, §50, Macquarrie translation, as quoted in [Wikipedia, Heideggerian terminology](https://en.wikipedia.org/wiki/Heideggerian_terminology))
+
+The everyday way of talking conceals this: "One dies" is interpreted as a fact, and comes to mean "nobody dies". The freeing side runs the other way: authentic being-toward-death calls Dasein's individual self out of its "they-self" and frees it to re-evaluate life from the standpoint of finitude.
 
 (Heidegger, 1927/2008, Being and Time, §§46-53; Heidegger, 1929/1995, "What Is Metaphysics?")
 
-**Plain words** Being-toward-death: death isn't an event at the end; it's a structural feature of your existence now. Finitude is not morbid but clarifying — it reveals what matters by removing the fiction of infinite time. Use the deadline; it's the only honest editor you have.
+**Plain words** The everyday voice says "one dies", which means nobody in particular. The practice is to put your own name in that sentence and see what changes. It is not brooding; it is arithmetic: the number of summers is finite, and counting them is what turns "someday" into a date. The test is whether a decision you have deferred for years still looks defensible when you count the remaining chances to make it.
 
-*For example:* Someone's five-year "someday" list survives every audit — until they multiply it by the realistic number of summers left. The math does what the motivation industry couldn't: three of the ten somedays get booked on Tuesday.
+*For example:* Multiply your someday list by the realistic number of summers left. Three of the ten somedays get booked on Tuesday.
+
+## Sources
+
+- [Wikipedia, Heideggerian terminology, Being-toward-death section](https://en.wikipedia.org/wiki/Heideggerian_terminology) — quotes the Macquarrie translation of Being and Time
+
 ## Stories
 
 - [[ST272 — Being-toward-Death|272. Being-toward-Death]]

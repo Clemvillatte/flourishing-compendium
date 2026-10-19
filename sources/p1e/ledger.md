@@ -251,3 +251,15 @@ Advisor QC (2026-10-19): quotes verified (BQ1 ch. 22 sentence, BQ2 ch. 68 verse 
 - Inherited, NOT opened: Gallagher 2005, Legrand 2006 claims; the Sartre Being and Nothingness locator — flagged in the band state file.
 - Saturation: Embodied self, The body-subject, Being-in-the-world all cite E016; no justified new proposals.
 - Validator: ok, prose 173 words; protected fields untouched.
+
+## Takeover note (genuineflourishing35, 2026-10-19, owner-confirmed death of genuineflourishing28)
+
+- Owner reported genuineflourishing28 dead mid-session. CO011 was verified complete and pushed BEFORE death (c7e70b0 done commit + 2afcf42 repair pass covering CO011); state file consistent. The dangling item was E043: state showed in_progress, but no partial draft existed in content/ or drafts/p1e/ (only the state marker). p1e baton taken over with an owner-confirmed-death record.
+
+## E043 — Practise being-toward-death (Sein-zum-Tode) (done 2026-10-19 by genuineflourishing35; no advisor QC per speed directive, takeover item)
+
+- Opened: https://en.wikipedia.org/wiki/Heideggerian_terminology (the Being-toward-death article redirects there; fetched via curl, HTML parsed in-session). The page quotes the Macquarrie translation of Being and Time.
+- Verified verbatim: "as soon as man comes to life, he is at once old enough to die."; "ownmost potentiality-for-being, non-relational, and not to be out-stripped"; "One dies"; "nobody dies"; "one's death is not an empirical event" (unquoted paraphrase of the page's sentence). Body scoped to what this page supports; the seed locator line (Being and Time §§46-53; "What Is Metaphysics?") kept as inherited citation, not opened this session.
+- Inherited, NOT opened/verified: psychology-parallels claims (Greenberg et al. 1986; Pyszczynski et al. 1999; Cozzolino et al. 2004 terror management / death reflection) — preserved per protocol, flagged for supervisor.
+- Saturation: Being-toward-death concept, Being and beings, B055, D087, D090 already link/cite; ST272-276 stories already linked. No justified new proposals.
+- Validator on final: ok; protected fields untouched vs HEAD; exact-quotation check all OK against the opened page.
