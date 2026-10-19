@@ -39,7 +39,7 @@ None of these shows that reasoning, debiasing or metacognition "degrade without 
 ## Psychology parallels
 
 - **Cognitive engagement maintains function**, sustained intellectual activity is associated with better cognitive ageing (Stern, 2002; Lövdén et al., 2010)
-- **Spaced repetition and deliberate practice maintain skills**, skills decay without use; deliberate practice maintains and improves them (Ericsson et al., 1993; Cepeda et al., 2006)
+- **Spaced review supports retention** (Cepeda et al., 2006); deliberate practice is the related idea (Ericsson et al., 1993)
 - **Calibration and feedback improve judgment over time**, tracking decisions and outcomes improves calibration (Tetlock, 2005)
 
 ## Philosophy parallels

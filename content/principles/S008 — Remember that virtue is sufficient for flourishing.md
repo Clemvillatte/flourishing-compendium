@@ -12,13 +12,21 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 130** — Remember that virtue is sufficient for flourishing
 
-The Stoic holds that virtue alone is necessary and sufficient for [[Eudaimonia|eudaimonia]]. External goods, health, and success are not required. This is a radical claim and a difficult practice. It does not mean ignoring the body or the community; it means not making flourishing dependent on what you cannot control.
+The claim that virtue is enough for [[Eudaimonia|eudaimonia]] is old and was stated outright. Diogenes Laertius, in Hicks's translation, reports that the Stoics "hold that it is in itself sufficient to ensure well-being", naming Zeno, Chrysippus and Hecato (VII.127). Hecato's argument follows: "if magnanimity by itself alone can raise us far above everything, and if magnanimity is but a part of virtue, then too virtue as a whole will be sufficient in itself for well-being" (VII.128) ([LacusCurtius](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diogenes_Laertius/Lives_of_the_Eminent_Philosophers/7/Zeno*.html)).
 
-(Disc. I.25, II.19, IV.1; Med. VII.44, IX.6.)
+### Not every Stoic agreed
 
-**Plain words** For the Stoics, virtue is necessary and sufficient for flourishing. That's a radical claim. It doesn't mean ignoring your body or your community. It means not making your well-being depend on what you can't control.
+The same passage adds that "Panaetius, however, and Posidonius deny that virtue is self-sufficing: on the contrary, health is necessary, and some means of living and strength." So the claim was disputed inside the school.
 
-*For example:* A person who loses her savings and her health but stays honest and kind can, on this view, still be doing life well.
+### Why the Stoics could say it
+
+Health, wealth and the rest are classed as indifferent, "things which neither benefit nor harm a man", and it is "possible to be happy without having these" (VII.102, 104). Epictetus draws the practical line: "Of things some are in our power, and others are not." Not in our power are "the body, property, reputation, offices", and the things not in our power are "weak, slavish, subject to restraint" (Encheiridion 1, Long's translation, via [Project Gutenberg](https://www.gutenberg.org/cache/epub/10661/pg10661.txt)).
+
+(Diogenes Laertius VII.102-104, 127-128; Epictetus, Encheiridion 1.)
+
+**Plain words** The Stoics claimed that being a good person is all that a good life requires. Money, health and reputation can be worth preferring, but they are not what makes a life go well, and losing them does not ruin it. That does not mean ignoring your body or your community. It means not letting your sense of how your life is going hang on what you cannot control.
+
+*For example:* Imagine someone who loses her savings and her health but stays honest and kind. On the Stoic view she can still be living well. Panaetius and Posidonius, who held that health is necessary, would likely have disagreed.
 
 ## Practice kernels
 
