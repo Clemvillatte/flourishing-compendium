@@ -12,13 +12,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 155** — Make workability your everyday criterion
 
-In the moment of choice, ask of any thought or rule: "does acting on this move my life forward in ways I value?": not "is this the final truth?" Workability is truth-for-use.
+Workability needs a purpose: working towards what? In Acceptance and Commitment Therapy (ACT), chosen values supply that direction; a response is assessed by what it helps a person do ([Hayes, 2006, “Philosophical roots”](https://contextualscience.org/book/export/html/839)). The underlying scientific philosophy, functional contextualism, evaluates analyses by their capacity to predict and influence events ([Hayes, 2008, pp. 287–288](https://contextualscience.org/files/Hayes,2008.pdf)).
+
+James's pragmatism also asks what difference an idea makes in experience, but his account of truth includes verification and consistency with other truths ([James, Pragmatism, lectures II and VI](https://www.gutenberg.org/files/5116/5116-h/5116-h.htm)).
+
+> "What difference would it practically make to anyone if this notion rather than that notion were true?" ([James, lecture II](https://www.gutenberg.org/files/5116/5116-h/5116-h.htm)).
+
+Hayes explicitly calls workability a truth criterion, applied relative to chosen values. James's account ties truth to verification and fit with other truths; his question about practical consequences does not license ignoring those constraints ([Hayes, 2006](https://contextualscience.org/book/export/html/839); [Hayes, 2008, p. 288](https://contextualscience.org/files/Hayes,2008.pdf); [James, lecture VI](https://www.gutenberg.org/files/5116/5116-h/5116-h.htm)).
 
 (Hayes, A Liberated Mind, 2019; James, Pragmatism, 1907.)
 
-**Plain words** In the moment of choice, ask of any thought or rule: 'does acting on this move my life forward in ways I value?' — not 'is this the final truth?' Workability is truth-for-use. The philosophy seminar can wait; the crossroads is now.
+### Plain words
 
-*For example:* Choosing a morning routine by usefulness instead of by ideology — the meditation evangelist and the cold-workout prophet both lose to the boring question: does it work, for you, this quarter?
+Ask what following a thought leads you to do, and whether that action serves something you care about. In ACT, the standard is your chosen direction, so immediate comfort alone cannot settle whether a response works by that standard ([Hayes, 2006](https://contextualscience.org/book/export/html/839)).
+
+### For example
+
+Suppose you value being a reliable friend but think you need to feel cheerful before replying to a message. Try a brief, honest reply while feeling low. Check that it went out the same day and whether that response fits what reliability means to you. This hypothetical example tests a rule against a chosen value.
 
 ## Stories
 
