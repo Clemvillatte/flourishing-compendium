@@ -12,13 +12,22 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 39** — Value experience over theory in practical matters
 
-In matters of practice, experience often outranks theory. The experienced person may not be able to articulate principles but can judge correctly in particular cases. Do not dismiss the practical wisdom of those who lack formal knowledge.
+The Nicomachean Ethics ties practical wisdom to knowledge of particulars, and allows that this knowledge can outrun formal learning:
+
+> "it is necessary that one should know also the particular details... for which reason sometimes men who have not much knowledge are more practical than others who have; among others, they who derive all they know from actual experience." (Nicomachean Ethics VI, trans. D. P. Chase, [Project Gutenberg](https://www.gutenberg.org/files/8438/8438-h/8438-h.htm))
+
+Aristotle's example is medical: a man who knows that light meats are wholesome "but not what kinds of meat are light" will not produce health, while the one who knows "that the flesh of birds is light and wholesome" has a better chance of doing so (Nicomachean Ethics VI, trans. Chase). The Metaphysics states the practical corollary directly: "we see the experienced compassing their objects more effectually than those who possess a theory without the experience" (Metaphysics I.1, trans. John H. M'Mahon, [Internet Archive](https://archive.org/stream/metaphysicsaris00arisgoog/metaphysicsaris00arisgoog_djvu.txt)). The same chapter notes the limit: the experienced "know that a thing is so, but they do not know wherefore it is so." That is the reason this principle is scoped to practical matters, and does not claim that experience is the deeper knowledge.
 
 (NE VI.8, VI.11; Metaphysics I.1.)
 
 **Plain words** In practice, the person who's done it often beats the person who's read about it. They may not be able to state the rules, but they get the case right. So don't dismiss people just because they lack the vocabulary or the degree.
 
 *For example:* A veteran bus driver knows which stop gets rowdy on Fridays and how to prevent it. No manual says so.
+
+## Sources
+
+- [Nicomachean Ethics Book VI, trans. D. P. Chase, Project Gutenberg](https://www.gutenberg.org/files/8438/8438-h/8438-h.htm) — the practical-wisdom and light-meats passages
+- [Metaphysics Book I.1, trans. John H. M'Mahon, Internet Archive](https://archive.org/stream/metaphysicsaris00arisgoog/metaphysicsaris00arisgoog_djvu.txt)
 
 ## Stories
 
