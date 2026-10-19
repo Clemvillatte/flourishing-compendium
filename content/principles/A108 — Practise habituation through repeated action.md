@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 108** — Practise habituation through repeated action
 
-Character is built through repetition. You become just by doing just acts, brave by doing brave acts. The first acts are awkward and conscious; later they become natural and effortless. Do not wait for the right feeling; act first, and the disposition follows.
+Aristotle links character to repeated conduct. Just acts help form justice; repeated conduct can also form unjust dispositions. What you practise matters.
 
 (NE II.1, II.4, II.5.)
 
@@ -24,9 +24,9 @@ Aristotle's claim runs against the intuition that action follows character. His 
 
 In a word, "our moral dispositions are formed as a result of the corresponding activities" (1103b).
 
-### Why the order matters
+### What to repeat
 
-The disposition is not a prerequisite for the acts but their residue. The first acts are awkward and conscious. Hence the practical instruction: do the act, and keep doing it; the disposition is what the repetition leaves behind.
+The practical question is which conduct you repeat. To practise justice, return to just actions; repetition of unjust conduct forms a different disposition.
 
 **Plain words**
 The surprise in Aristotle is the direction of causation: you might think a just person does just acts, and he says the acts make the person. Nobody learns the piano by feeling pianistic; you learn it at the piano. Schedule the repetition, not the mood: do the act, then do it again.

@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 ---
 > **Principle 54** — Learn to use self-regulation strategies: manage impulses
 
-Self-regulation, the capacity to control impulses and direct behaviour toward goals, is a trainable skill. Strategies include: removing temptation, reappraisal, implementation intentions, and self-monitoring.
+Self-control involves altering responses to bring them into line with standards and long-term goals. Choosing or changing a situation is one available strategy.
 
 ### What the skill is
 

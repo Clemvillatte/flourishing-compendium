@@ -12,11 +12,11 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AT — Attentio
 ---
 > **Principle 50** — Learn body scan: systematic attention through the body
 
-The body scan is a systematic practice of moving attention through different parts of the body, noticing sensations without judgment. It trains attentional flexibility, body awareness, and the capacity to notice without reacting.
+The body scan is a systematic practice of moving attention through different parts of the body, noticing sensations without judgment. Move attention from one region to another, noticing sensations and returning when attention wanders.
 
 ### A related Buddhist practice
 
-MN 10 describes a contemplation of the body: the monk "reflects on this very body from the soles of the feet on up, from the crown of the head on down, surrounded by skin" ([MN 10, Thanissaro trans.](https://accesstoinsight.org/tipitaka/mn/mn.010.than.html)). The surrounding passage reviews the body's constituents, part by part, in the simile of a sack of grain poured out and examined. The modern body scan is a related practice: same territory, the living body, toured with attention region by region.
+MN 10 describes a contemplation of the body: the monk "reflects on this very body from the soles of the feet on up, from the crown of the head on down, surrounded by skin" ([MN 10, Thanissaro trans.](https://accesstoinsight.org/tipitaka/mn/mn.010.than.html)). The surrounding passage reviews the body's constituents, part by part, in the simile of a sack of grain poured out and examined. For the modern exercise described here, the territory is the same: the living body, toured with attention region by region.
 
 ### What the instructions ask
 
@@ -28,7 +28,7 @@ The refrain of that sutta asks for focus that is "ardent, alert, & mindful" whil
 
 ## Sources
 
-- [MN 10 Satipatthana Sutta (Thanissaro Bhikkhu trans., Access to Insight)](https://accesstoinsight.org/tipitaka/mn/mn.010.than.html) — the body tour from soles to crown; the ardent-alert-mindful refrain
+- [MN 10 Satipatthana Sutta (Thanissaro Bhikkhu trans., Access to Insight)](https://accesstoinsight.org/tipitaka/mn/mn.010.than.html) — the body-constituents contemplation; the ardent-alert-mindful refrain
 ## Psychology parallels
 
 - **Body scan improves interoception and attention**, systematic scanning improves body awareness and attentional control (Khalsa et al., 2018; Tang et al., 2015)

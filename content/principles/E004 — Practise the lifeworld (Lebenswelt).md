@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 396** — Practise the lifeworld (Lebenswelt)
 
-Attend to the lifeworld — the pre-theoretical, pre-scientific world of lived experience that is the ground of all science and philosophy. The lifeworld is not the world as described by physics but the world as you live it: familiar, meaningful, shared. Do not let the abstractions of science or theory replace the richness of your lived world.
+Attend to the lifeworld, the pre-theoretical, pre-scientific world of lived experience that is the ground of all science and philosophy. The lifeworld is not the world as described by physics but the world as you live it: familiar, meaningful, shared. Do not let the abstractions of science or theory replace the richness of your lived world.
 
 (Husserl, 1954/1970, The Crisis, §§34, 36-38, 53; Husserl, 1936, "The Origin of Geometry," in The Crisis, Appendix III.)
 
@@ -27,7 +27,7 @@ The Crisis's argument is foundational rather than anti-science: scientific ideal
 **Plain words**
 The strange move here is noticing that the world you actually live in was there before any description of it. Nobody experiences temperature, chairs or strangers the way physics does; they arrive as a warm evening, a seat, someone to greet. The practice is to catch the moments when a description (a number, a diagnosis, a profile) quietly replaces the thing described, and to ask again what the lived version is.
 
-*For example:* The weather app says 22 degrees — but the lifeworld says: this is the first warm evening of spring, the light is long, and everyone on the street is walking slower. The lifeworld is where your life is actually lived.
+*For example:* The weather app says 22 degrees, but the lifeworld says: this is the first warm evening of spring, the light is long, and everyone on the street is walking slower. The lifeworld is where your life is actually lived.
 
 ## Sources
 

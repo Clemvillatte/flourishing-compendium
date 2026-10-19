@@ -47,11 +47,11 @@
   "A035",
   "A076",
   "S002",
+  "B146",
   "E004",
   "MO054",
   "A108",
-  "AT050",
-  "B146"
+  "AT050"
  ],
  "in_progress": null,
  "flagged": {
@@ -62,13 +62,14 @@
   "R012": "Reopened for QC: QC round 4: opening paragraph narrowed to located evidence",
   "S002": "Reopened for QC: Milestone QC round 3: opening 'worth pursuing' scoping error; drop unverified 'preferred indifferent' classification",
   "A076": "Reopened for QC: Milestone QC round 2: shorten proportionality quote to standalone blockquote",
-  "MO054": "Reopened for QC: QC correction: milestone review",
-  "A108": "Reopened for QC: QC correction: milestone review",
-  "AT050": "Reopened for QC: QC correction: milestone review",
-  "B146": "Reopened for QC: QC correction: milestone review"
+  "MO054": "Reopened for QC: QC correction: advisor consistency round",
+  "A108": "Reopened for QC: QC correction: advisor consistency round",
+  "AT050": "Reopened for QC: QC correction: advisor consistency round",
+  "B146": "Reopened for QC: QC correction: milestone review",
+  "E004": "Reopened for QC: QC correction: advisor consistency round"
  },
  "missing_concepts": [],
  "sources_checked": 18,
- "updated": "2026-10-19T13:44:17+00:00",
+ "updated": "2026-10-19T13:49:12+00:00",
  "band_done": false
 }
