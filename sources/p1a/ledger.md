@@ -6,6 +6,14 @@ AgentA before this ledger existed; their evidence lives in the QC log and the fi
 themselves. D087 was enriched by AgentA and repaired by genuineflourishing24 this
 session after supervisor QC flags.
 
+## S001 — Distinguish what is up to you from what is not (done 2026-10-19)
+
+- Opened: Elizabeth Carter's translation of the Enchiridion, Internet Classics Archive (https://classics.mit.edu/Epictetus/epicench.html)
+  - Verified verbatim, ch. 1: the opening classification ("Some things are in our control and others not..."), including "in a word" (first sentence) and "in one word" (second sentence) as printed; ch. 5: "Men are disturbed, not by things, but by the principles and notions which they form concerning things."
+  - Body blockquote is the ch. 1 classification; the ch. 5 and ch. 1 examination material is paraphrased with chapter locators (advisor round 2 trimmed the inline quotes).
+- NOT opened (inherited, unverified): the Discourses (I.1, I.22) — the seed locator is preserved but the body rests only on the opened Enchiridion chapters.
+- Saturation: all five linked entries read (Locus of control, Acceptance, The function argument, Serene acceptance of necessity, The dichotomy of control); four already link S001. One proposal added: Acceptance (seed page, cites no principle) -> S001 reciprocal.
+
 ## D054 — Practice daily: small consistent effort compounds (done 2026-10-19)
 
 - Opened: Wilhelm/Baynes Secret of the Golden Flower, full text at archive.org (https://archive.org/stream/TheSecretOfTheGoldenFlowerByRichardWilhelmAndCarlJung/The+Secret+of+the+Golden+Flower+by+Richard+Wilhelm+and+Carl+Jung_djvu.txt)
