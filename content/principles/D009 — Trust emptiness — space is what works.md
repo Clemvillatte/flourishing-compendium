@@ -23,6 +23,10 @@ A cup holds water because it is mostly hole. A week works the same way: every bo
 
 *For example:* Suppose a calendar booked wall to wall. As a modern application, leave one afternoon a week unplanned and see what it catches.
 
+## Sources
+
+- [The Tao Teh King, trans. James Legge (Project Gutenberg)](https://www.gutenberg.org/ebooks/216) — ch. 11
+
 ## Stories
 
 - [[ST003 — The Useless Tree|3. The Useless Tree]]
