@@ -12,19 +12,19 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 140** — Treat mind and life as continuous
 
-The principle is Thompson's thesis, stated in his own précis of Mind in Life. The continuity claim is organizational rather than metaphorical: the same self-maintaining, sense-making pattern that keeps a cell alive is, in enriched form, the pattern of mind ([Thompson, Mind in Life, 2007](https://evanthompson.me/wp-content/uploads/2012/11/thompson_precis_jcs_author_proof.pdf)).
+Thompson's précis of Mind in Life states the thesis: [BQ below]. The continuity is organizational: life and mind share formal properties, with mind's an enriched version of life's ([Thompson, Mind in Life, 2007](https://evanthompson.me/wp-content/uploads/2012/11/thompson_precis_jcs_author_proof.pdf)).
 
 > The theme of this book is the deep continuity of life and mind. Where there is life there is mind, and mind in its most articulated forms belongs to life. Life and mind share a core set of formal or organizational properties, and the formal or organizational properties distinctive of mind are an enriched version of those fundamental to life. (Thompson, Mind in Life, précis)
 
-The practical reading the principle takes from it: if mind is the life's regulation in an enriched register, the regulation runs through the body's condition. The therapy hour and the sleep debt are not separate budgets.
+As ordinary advice, separate from the thesis: caring for sleep, food and movement is a standard part of caring for a mind that depends on a body. The thesis itself establishes the continuity claim; the body-care suggestion is practical, and not derived from the thesis.
 
 (Thompson, Mind in Life, 2007.)
 
 **Plain words**
-The mind is not software running on body hardware; it is what the body's self-maintenance looks like when it gets elaborate enough to plan. Feed, rest and move the organism, and you have fed, rested and moved the mind that depends on it. When the mind feels broken, one of the first questions is whether the organism is simply tired.
+The book's claim is about structure: the organization that keeps a living thing going and the organization of a mind share a pattern. Separately, as ordinary practice: sleep, food and movement are worth attending to when the mind feels off, because the mind runs on the body's condition.
 
 **For example**
-When a week of short sleep starts to feel like an existential crisis, run the physical audit before the philosophical one: hours slept, meals eaten, movement had.
+If a week feels mentally foggy, one ordinary step is to check the physical basics first: hours slept, meals eaten, movement had.
 
 ## Sources
 

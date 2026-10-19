@@ -12,11 +12,21 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 ---
 > **Principle 39** — Recognise optimism bias: you underestimate your personal risk
 
-You believe you are less likely than others to experience negative events (illness, divorce, accident) and more likely to experience positive ones. This is functional (optimism supports mental health) but leads to underpreparedness for real risks.
+Sharot's review describes overly favourable expectations about future events, including underestimating the chances of divorce, car accidents, or cancer ([Sharot, 2011](https://affectivebrain.com/wp-content/uploads/2014/09/Sharot-T.-2011-The-Optimism-Bias.-Current-Biology.pdf)).
 
-**Plain words** Optimism bias: you believe you're less likely than others to suffer negative events and more likely to enjoy positive ones. Functional — optimism supports mental health — but costly when it deletes insurance, check-ups, and contingency plans. Keep the optimism; buy the insurance anyway.
+> The optimism bias is defined as the difference between a person's expectation and the outcome that follows. If expectations are better than reality, the bias is optimistic; if reality is better than expected, the bias is pessimistic. (Sharot, "The Optimism Bias," [author's PDF](https://affectivebrain.com/wp-content/uploads/2014/09/Sharot-T.-2011-The-Optimism-Bias.-Current-Biology.pdf))
 
-*For example:* The founder whose plan has no failure branch ("that won't happen to us") — and the difference between the optimism that fuels the attempt (good) and the optimism that deletes the contingency fund (expensive). Believe you'll win; budget like you might not.
+The principle's response is preparation: for a decision that matters, compare the expectation with the evidence, and decide what preparation would be proportionate if the outcome is unfavourable.
+
+**Plain words**
+For a decision that matters, write down what you expect and what evidence you used. Then consider an unfavourable outcome and decide what preparation would be proportionate.
+
+**For example**
+Before launching a venture, estimate the costs of a delayed launch. Record what you would change if sales fell below your forecast.
+
+## Sources
+
+- [Sharot, The Optimism Bias, Current Biology 2011, author's PDF](https://affectivebrain.com/wp-content/uploads/2014/09/Sharot-T.-2011-The-Optimism-Bias.-Current-Biology.pdf) — definition passage verified verbatim
 ## Psychology parallels
 
 - **[[Optimism bias / unrealistic optimism|Optimism bias / unrealistic optimism]]**, people underestimate their personal risk relative to others (Weinstein, 1980; Sharot, 2011)

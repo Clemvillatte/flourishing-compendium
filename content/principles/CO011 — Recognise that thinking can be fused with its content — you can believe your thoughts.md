@@ -12,11 +12,11 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 ---
 > **Principle 11** — Recognise that thinking can be fused with its content: you can believe your thoughts
 
-The Buddhist root of defusion is the Anattalakkhana Sutta's instruction to see consciousness as it actually is: not mine, not my self, not what I am ([SN 22.59, Thanissaro](https://www.accesstoinsight.org/tipitaka/sn/sn22/sn22.059.than.html)). The ACT skill runs the same move in clinical language: fusion treats the thought as the world; defusion sees it as an event.
+In ACT's terms, as the Wikipedia article defines them: cognitive fusion is the immersion in thoughts and feelings, being unable to distance oneself from them; cognitive defusion is learning methods to reduce the tendency to reify thoughts, images, emotions, and memories ([Wikipedia, Acceptance and commitment therapy](https://en.wikipedia.org/wiki/Acceptance_and_commitment_therapy)).
 
-> Any consciousness whatsoever that is past, future, or present; internal or external; blatant or subtle; common or sublime; far or near: every consciousness is to be seen as it actually is with right discernment as: "This is not mine. This is not my self. This is not what I am." (Anattalakkhana Sutta, SN 22.59, [Thanissaro](https://www.accesstoinsight.org/tipitaka/sn/sn22/sn22.059.than.html))
+> Cognitive defusion: Learning methods to reduce the tendency to reify thoughts, images, emotions, and memories. ... cognitive fusion is the immersion in thoughts and feelings, being unable to distance oneself from them. (Wikipedia, Acceptance and commitment therapy)
 
-The distinction the page keeps is between the thought's content and your relationship to it: "I'll fail" and "I'm having the thought that I'll fail" describe the same content from two positions. The sutta's version of the second position is the discernment above.
+On the philosophy side, the principle's comparison is the Anattalakkana Sutta's instruction to see consciousness as it actually is: not mine, not my self, not what I am ([SN 22.59, Thanissaro](https://www.accesstoinsight.org/tipitaka/sn/sn22/sn22.059.than.html)). A philosophical parallel; not a claim about ACT's origins or mechanism.
 
 **Plain words**
 Cognitive fusion: being so caught in a thought that you treat it as reality rather than a mental event. Defusion: seeing thoughts as thoughts — mental events passing through. "I'm having the thought that I'll fail" is a different room than "I'll fail."
@@ -26,7 +26,8 @@ The performer who believes the thought "I'll choke" is a prophecy — versus the
 
 ## Sources
 
-- [Anattalakkhana Sutta (SN 22.59), Thanissaro Bhikkhu translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/sn/sn22/sn22.059.than.html) — the not-self passage verified verbatim
+- [Acceptance and commitment therapy, Wikipedia](https://en.wikipedia.org/wiki/Acceptance_and_commitment_therapy) — fusion/defusion definitions verified verbatim
+- [Anattalakkhana Sutta (SN 22.59), Thanissaro Bhikkhu translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/sn/sn22/sn22.059.than.html) — the not-self passage verified verbatim (philosophy parallel)
 ## Psychology parallels
 
 - **[[Cognitive defusion|Cognitive defusion in ACT]]**, stepping back from thoughts and seeing them as mental events reduces their behavioural impact (Hayes et al., 2011; Gillanders et al., 2014)

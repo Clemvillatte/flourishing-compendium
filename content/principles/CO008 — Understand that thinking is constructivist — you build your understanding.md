@@ -12,11 +12,11 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 ---
 > **Principle 8** — Understand that thinking is constructivist: you build your understanding
 
-The constructivist claim has a philosophical root in Kant: knowledge arises only from the united operation of the sensuous and the understanding, each contributing its element ([Kant, CPR, A51/B75](https://www.gutenberg.org/cache/epub/4280/pg4280.txt)).
+The learning-science claim is stated in the constructivism article: learners do not passively acquire knowledge through direct instruction; they construct their understanding through experiences and social interaction, integrating new information with their existing knowledge ([Wikipedia, Constructivism](https://en.wikipedia.org/wiki/Constructivism_(philosophy_of_education))).
 
-> Thoughts without content are void; intuitions without conceptions, blind. ... In no other way than from the united operation of both, can knowledge arise. (Kant, Critique of Pure Reason, [Meiklejohn translation](https://www.gutenberg.org/cache/epub/4280/pg4280.txt))
+> Constructivism is a theory that suggests that learners do not passively acquire knowledge through direct instruction. Instead, they construct their understanding through experiences and social interaction, integrating new information with their existing knowledge. (Wikipedia, Constructivism (philosophy of education))
 
-The psychological version runs the same point at the scale of learning: the new information arrives into an existing structure, and what gets learned is the interaction between the two. Teaching therefore has to address the structure, which is what the example below shows.
+On the philosophy side, the principle's parallel is Kant's: knowledge arises only from the united operation of the sensuous and the understanding ([Kant, CPR, A51/B75](https://www.gutenberg.org/cache/epub/4280/pg4280.txt)).
 
 (Kant, Critique of Pure Reason, 1781.)
 
@@ -24,11 +24,12 @@ The psychological version runs the same point at the scale of learning: the new 
 Knowledge isn't absorbed; it's constructed — new information is interpreted through existing schemas. Learning isn't pouring in; it's rebuilding. Which means teaching someone requires knowing what they already built.
 
 **For example**
-The person who "explains" investing to a friend by delivering facts — and the friend's existing schema ("the market is a casino") quietly digests the facts into the same old conclusion. Nothing transferred, because the construction was never addressed.
+Suppose you explain investing to a friend whose existing schema is "the market is a casino". Afterwards, ask them to explain the idea back in their own words; what you hear is what their schema made of it, which is the thing further teaching has to address.
 
 ## Sources
 
-- [Kant, Critique of Pure Reason (Meiklejohn translation), Project Gutenberg](https://www.gutenberg.org/cache/epub/4280/pg4280.txt) — A51/B75 passage verified verbatim
+- [Constructivism (philosophy of education), Wikipedia](https://en.wikipedia.org/wiki/Constructivism_(philosophy_of_education)) — constructivist-learning sentences verified verbatim
+- [Kant, Critique of Pure Reason (Meiklejohn translation), Project Gutenberg](https://www.gutenberg.org/cache/epub/4280/pg4280.txt) — A51/B75 passage verified verbatim (philosophy parallel)
 ## Psychology parallels
 
 - **[[Constructivist learning theory|Constructivist theory]]**, learners build understanding rather than receive it; prior knowledge shapes new learning (Piaget, 1954; Bruner, 1966)

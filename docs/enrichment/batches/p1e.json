@@ -24,9 +24,10 @@
   "P115",
   "P140",
   "CO008",
-  "CO011"
+  "CO011",
+  "CO039"
  ],
- "in_progress": "CO039",
+ "in_progress": null,
  "flagged": {
   "D011": "inherited psychology claim (Kashdan & Rottenberg 2010 'outperforms on nearly every outcome') not verified against an opened source; preserved per protocol, flagged for supervisor",
   "D068": "inherited psychology-parallels claims (Gottman soft startup; assertiveness research 'aggression reliably loses long games') not verified against opened sources; flagged for supervisor",
@@ -50,10 +51,11 @@
   "P115": "psychology-parallels claims (Yaden et al. 2017; Stellar et al. 2018) and the Toward a Psychology of Being 1962 locator not verified against opened sources; the 'don't chase' demand-warning is labelled as the compendium's reading, not Maslow's sentence; flagged for supervisor",
   "P140": "the Mind in Life book itself not opened; the thesis paragraph verified from Thompson's own published precis (JCS author proof on his site); flagged for supervisor",
   "CO008": "psychology-parallels claims (Piaget 1954; Bruner 1966; Roediger and Karpicke 2006; Dunlosky et al. 2013) not verified against opened sources; the Kant A51/B75 passage verified; flagged for supervisor",
-  "CO011": "psychology-parallels claims (Hayes et al. 2011; Gillanders et al. 2014; Masuda et al. 2004; Deacon et al. 2011) not verified against opened sources; flagged for supervisor"
+  "CO011": "psychology-parallels claims (Hayes et al. 2011; Gillanders et al. 2014; Masuda et al. 2004; Deacon et al. 2011) not verified against opened sources; flagged for supervisor",
+  "CO039": "psychology-parallels claims (Weinstein 1980; Taylor and Brown 1988) not verified against opened sources; the comparative less-likely-than-others framing lives only in the parallels; flagged for supervisor"
  },
  "missing_concepts": [],
- "sources_checked": 12,
- "updated": "2026-10-19T12:39:44+00:00",
+ "sources_checked": 16,
+ "updated": "2026-10-19T12:43:53+00:00",
  "band_done": false
 }
