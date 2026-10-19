@@ -12,13 +12,26 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 16** — Distrust names and labels
 
-The Dao that can be named is not the Dao. Labels ("success," "failure," "loser," "depression") are maps, not territory; hold them loosely and look at the actual thing.
+The opening chapter supplies the textual basis for this principle:
+
+> "The Tao that can be trodden is not the enduring and unchanging Tao. The name that can be named is not the enduring and unchanging name." (Daodejing 1, trans. Legge, [Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm))
+
+In Legge's chapter 32, the unchanging Tao is nameless, while naming is associated with its proceeding to action. These passages concern naming the Tao; applying their warning to everyday labels is a further interpretation ([Legge, chapter 32](https://www.gutenberg.org/files/216/216-h/216-h.htm)). Zhuangzi II §10 separately criticizes argumentative words as failing to reach their point ([Legge's Zhuangzi](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)).
 
 (DDJ 1, 32; Zhuangzi 2.)
 
-**Plain words** Labels are maps, not territory. 'Success,' 'failure,' 'depression,' 'loser' — the word is not the thing. The moment you mistake the label for reality you stop being able to see what's actually in front of you. Hold names loosely.
+### Plain words
 
-*For example:* Calling yourself 'a procrastinator' feels true but blocks you from noticing you actually start fine in the mornings — the label hides the pattern.
+Apply the warning by asking what a label leaves out. When using a word about yourself or another person, describe the particular occasions it refers to and look for exceptions. Use those observations to decide whether the word fits or needs qualifying.
+
+### For example
+
+Imagine you call yourself a procrastinator but begin some tasks promptly in the morning. Describe both the delays and the prompt starts before deciding how well the label fits.
+
+## Sources
+
+- [The Tao Teh King, trans. James Legge, Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm) — chapters 1, 32
+- [Zhuangzi, trans. James Legge (The Texts of Taoism, Sacred Books of the East 39), ETH Zurich PDF](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — Book II, section 10
 
 ## Stories
 
