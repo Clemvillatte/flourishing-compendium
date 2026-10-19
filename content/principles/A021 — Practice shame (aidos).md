@@ -12,13 +12,23 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 21** — Practice shame (aidos)
 
-Shame is not a full virtue in Aristotle's system but a quasi-virtue: the felt sense of what is disgraceful. The decent person feels shame at the right things. It is not the same as guilt (which is about action) but about reputation and honour. The person who feels no shame lacks a necessary brake on behaviour. Cultivate appropriate shame: know what would disgrace you, and let that knowledge guide you.
+Aristotle refuses shame a place among the virtues, verbatim:
+
+> "Shame should not be described as a virtue; for it is more like a feeling than a state of character. It is defined, at any rate, as a kind of fear of dishonour, and produces an effect similar to that produced by fear of danger; for people who feel disgraced blush, and those who fear death turn pale." (NE IV.9, [Ross, MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html))
+
+Its job is to restrain the learner. "We think young people should be prone to the feeling of shame because they live by feeling and therefore commit many errors, but are restrained by shame" (NE IV.9); an older person who still needs that brake has not finished training, "since we think he should not do anything that need cause this sense" (NE IV.9). Shame is conditional equipment: "shame may be said to be conditionally a good thing; if a good man does such actions, he will feel disgraced" (NE IV.9), but the settled character does not do such actions in the first place.
+
+The practical reading keeps the brake: know what would disgrace you, and let the flush arrive early enough to matter. A person who feels no shame at anything has lost the brake before the character is finished. Shame is closer to reputation and honour than to guilt, which addresses a single action rather than the person.
 
 (NE IV.9.)
 
-**Plain words** Shame in Aristotle's sense is the felt sense of what would disgrace you, closer to reputation than to guilt. It's a brake. A person who feels no shame at anything has lost it. So know what would disgrace you, and let that guide you without crushing you.
+**Plain words** Shame is the heat in your face when you are caught, or about to be caught, doing something below your own standard. Aristotle's claim is narrower than the principle title suggests: this heat is for people whose character is still under construction, and it restrains them while they practise. The mature version of you is meant to need it less, because the disgraceful act stops occurring to them as an option. Meanwhile the flush is information: it fired because some part of you already knew better.
 
 *For example:* Feeling a flush of embarrassment before you pad an expense report is useful. It's the brake working, and you can listen to it.
+
+## Sources
+
+- [Aristotle, Nicomachean Ethics IV, Ross translation (MIT Classics)](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html) — IV.9, shame as quasi-virtue, a kind of fear of dishonour, fitting for the young
 
 ## Practice kernels
 
