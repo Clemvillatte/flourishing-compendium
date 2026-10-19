@@ -13,7 +13,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 
 > **Principle 116** — Catch irritation early: sparks before fires
 
-The Dhammapada treats anger as something that can be checked while it is still moving. The verse does not ask the practitioner never to become angry; it treats the anger as something that can be halted, like a rolling vehicle, before it carries you anywhere. The section on anger goes on to treat non-anger as the means of overcoming anger, and to note that those who do comprehend that everyone dies settle their conflicts ([Kodhavagga, AccessToInsight](https://accesstoinsight.org/tipitaka/kn/dhp/dhp.17.budd.html)).
+The Dhammapada treats anger as something that can be checked while it is still moving. The verse does not ask the practitioner never to become angry; it treats the anger as something that can be halted, like a rolling vehicle, before it carries you anywhere. The section on anger goes on to treat non-anger as the means of overcoming anger ([Kodhavagga, AccessToInsight](https://accesstoinsight.org/tipitaka/kn/dhp/dhp.17.budd.html)).
 
 > He who checks rising anger as a charioteer checks a rolling chariot, him I call a true charioteer. Others only hold the reins.
 >

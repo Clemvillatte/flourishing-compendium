@@ -15,7 +15,6 @@
   "B057",
   "Y026",
   "B081",
-  "B116",
   "B140",
   "B160",
   "A026",
@@ -32,7 +31,8 @@
   "AF061",
   "AF073",
   "AF075",
-  "B112"
+  "B112",
+  "B116"
  ],
  "in_progress": null,
  "flagged": {
@@ -43,7 +43,7 @@
   "B027": "Baer 2006 psychology-parallel correction applied per supervisor QC 2026-10-19 (facet validation, differential correlations, incremental symptom prediction, PubMed URL)",
   "B081": "Reopened for QC: Milestone QC: unsupported physiology/effort claims",
   "B112": "Reopened for QC: repair: remove unopened Thich Nhat Hanh citation",
-  "B116": "milestone QC: quotation fidelity and prose scope repairs",
+  "B116": "Reopened for QC: repair: mortality/conflict claim not in cited excerpt",
   "B140": "milestone QC: quotation fidelity and prose scope repairs",
   "B160": "Reopened for QC: Milestone QC: ethics-test claim vs outcomes-test; Dhp 74 overreach",
   "A018": "Reopened for QC: repair: remove Nobody gets contempt universal, fix natural amiability claim, replace invented dialogue",
@@ -63,6 +63,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 9,
- "updated": "2026-10-19T15:05:15+00:00",
+ "updated": "2026-10-19T15:05:42+00:00",
  "band_done": false
 }
