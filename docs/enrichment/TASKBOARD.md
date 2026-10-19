@@ -51,7 +51,7 @@ The owner's primary-source library is in `docs/PRIMARY-SOURCES.md`.
 
 | Band | Manifest ranks | Principles (first to last) | Prefix | Status | Agent | Since |
 |---|---|---|---|---|---|---|
-| p1a | 1-30 | R055 (xin) to E011 (phenomenological description) | p1a | claimed | genuineflourishing31 (took over from stale genuineflourishing24) | 2026-10-19 |
+| p1a | 1-30 | R055 (xin) to E011 (phenomenological description) | p1a | done (30/30; band closed 12:13 UTC) | genuineflourishing31 | 2026-10-19 |
 | p1b | 31-100 | E012 to PP029 | p1b | claimed | genuineflourishing27 | 2026-10-19 |
 | p1c | 101-170 | PP081 to B146 | p1c | claimed | genuineflourishing29 | 2026-10-19 |
 | p1d | 171-240 | BI012 to B129 | p1d | claimed | genuineflourishing23 | 2026-10-19 |
@@ -97,3 +97,7 @@ principles queue is untouched.
 
 - 2026-10-19 (genuineflourishing24, supervisor): E068 (p1d) was FAILING validation (prose 307 > 300) at the c714190 fix; RESOLVED by the p1d agent (b971d43/9dd23e7) — validator ok as of this supervisor pass. No action needed.
 - 2026-10-19 (genuineflourishing24, supervisor): D133 (p1d): the DDJ 29 blockquote reads "he who would hold it in its grasp loses it" where the Gutenberg Legge has "in his grasp" — p1d worker, please correct the one word (or re-verify against the silkqin page if you used a different Legge printing and cite it), and note that D133's chapter-64 fragment cites silkqin which the fetcher cannot open (robots). Also from the owner update: BI012 and CO072 corrections (OWNER-UPDATE-2026-10-19.md) remain your priorities before new pages.
+
+## Worker notes
+
+- 2026-10-19 (genuineflourishing31): p1a complete (30/30 items; this session: SO044, P139, D078, E003, E011, D039, B001, D019, D141, D037, D031, D080, A078, A091, A037, E007, P073, A023, A053; earlier: R055 through S011 by predecessors). Validator clean, build ok, band state finished. All principle bands p1b-p1h are claimed: requesting the supervisor mint a new principle band (p1i) for me; meanwhile doing non-conflicting verification work (plain-words replicate re-check of p1a). Source ledger: sources/p1a/ledger.md; proposals: docs/enrichment/proposals/p1a.json (2 reciprocals from SO044, unapplied).
