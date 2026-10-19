@@ -58,10 +58,9 @@
   "A106",
   "AT037",
   "AT064",
-  "BE001",
   "BE006"
  ],
- "in_progress": null,
+ "in_progress": "BE001",
  "flagged": {
   "D011": "inherited psychology claim (Kashdan & Rottenberg 2010 'outperforms on nearly every outcome') not verified against an opened source; preserved per protocol, flagged for supervisor",
   "D068": "inherited psychology-parallels claims (Gottman soft startup; assertiveness research 'aggression reliably loses long games') not verified against opened sources; flagged for supervisor",
@@ -105,12 +104,12 @@
   "A106": "inherited I.9/X.9/Politics VIII.1 locators, Dweck and Berkowitz parallels, Dewey parallels not opened; preserved",
   "AT037": "inherited Kaplan-Berman, Ohly, McMahan-Estes refs and Neiye/Sabbath/Delphic parallels not opened; preserved",
   "AT064": "inherited Forster-Lavie, Leroy, Monsell refs and Politics/Daodejing/Weil parallels not opened; preserved",
-  "BE001": "inherited Martell/Dimidjian/Sartre/Buddhism parallels not opened; preserved",
+  "BE001": "Reopened for QC: QC rework round 2: advisor fixes applied, awaiting acceptance",
   "BE006": "inherited Hanley, Hayes, Vilardaga, Socrates/Nietzsche/Buddhism parallels not opened; preserved"
  },
  "missing_concepts": [],
  "sources_checked": 34,
- "updated": "2026-10-19T14:55:25+00:00",
+ "updated": "2026-10-19T14:55:40+00:00",
  "band_done": false,
  "takeover": {
   "by": "genuineflourishing35",
