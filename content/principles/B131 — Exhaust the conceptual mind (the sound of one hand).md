@@ -12,13 +12,15 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 131** — Exhaust the conceptual mind (the sound of one hand)
 
-The koan cannot be answered by more concepts; the conceptual mind exhausts itself, and what remains is direct. Let thinking exhaust itself rather than stopping it by force.
+Hakuin's famous koan, the sound of one hand, is deliberately structured so that it cannot be answered. Hakuin introduced it to replace the Mu koan for some students, and the reason is usually given as its resistance to conceptual handling — you cannot think your way to the sound of one hand, and the attempt to do so is the actual mechanism ([Hakuin, Orategama and koan curriculum, Terebess](https://terebess.hu/zen/Hakuin.pdf)). The koan is not a riddle with a hidden answer; it is a device that runs the conceptual mind until it gives out.
 
-(Hakuin, Orategama; Gateless Gate.)
+The exhaustion is the method, not the failure. A student who holds "what is the sound of one hand?" for months produces progressively worse answers — first clever, then repetitive, then desperate — and the tradition treats this trajectory as the practice working. What remains when the concepts are used up is not blankness; it is a different kind of seeing, the one the koan was designed to produce.
 
-**Plain words** The koan cannot be answered by more concepts — the conceptual mind exhausts itself, and what remains is direct. Let thinking exhaust itself rather than stopping it by force. You can't wrestle the mind quiet; you can let it run out of road.
+> "At the bottom of great doubt lies great awakening. If you doubt fully you will awaken fully." (Hakuin Ekaku, Selected Writings, [Terebess](https://terebess.hu/zen/hakuin-works.html))
 
-*For example:* Holding 'what is the sound of one hand?' for months — the answers get worse and worse until the questioning itself becomes the seeing.
+**Plain words** You cannot force the mind to be quiet; trying to is itself a thought, repeated. What you can do is give the mind a question it cannot solve and let it work on the problem until it runs out of road. The koan is engineered for exactly this: no clever answer will hold, no amount of analysis will close it, and the eventual giving-out is not defeat. This is why the practice is described as exhaustion rather than discipline.
+
+*For example:* Two people try to still their thinking during meditation. One suppresses each thought as it appears, which produces more thoughts about suppressing. The other holds an unanswerable question and lets the mind chase it. After months, only one of them is quieter; the other has just become very good at arguing with themselves.
 
 ## Psychology parallels
 
