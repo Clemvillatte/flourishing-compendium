@@ -12,17 +12,33 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 58** — Don't rush
 
-Racing and skipping spoil outcomes; haste wastes energy and forces errors. Do things at the pace at which they actually work.
+Three Daodejing chapters carry the principle. Chapter 24 opens with the image:
+
+> "He who stands on his tiptoes does not stand firm; he who stretches his legs does not walk (easily)." (DDJ 24, Legge trans., [Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt))
+
+Chapter 63 warns against assuming ease in advance:
+
+> "He who lightly promises is sure to keep but little faith; he who is continually thinking things easy is sure to find them difficult. Therefore the sage sees difficulty even in what seems easy, and so never has any difficulties." (DDJ 63)
+
+Chapter 64 gives the scale of real processes:
+
+> "The tree which fills the arms grew from the tiniest sprout; the tower of nine storeys rose from a (small) heap of earth; the journey of a thousand li commenced with a single step." (DDJ 64)
+
+The same chapter names where rushing does its damage: "people in their conduct of affairs are constantly ruining them when they are on the eve of success. If they were careful at the end, as (they should be) at the beginning, they would not so ruin them".
 
 (DDJ 24, 63, 64.)
 
-**Plain words** Haste manufactures errors. Most things have a natural rate, and fighting it costs double — do things at the pace at which they actually work.
+**Plain words** The chapters give three reasons to slow down. Tiptoes: a position held by stretching cannot hold. Light promises: what you assumed was easy will bill you later for the difference. The eve of success: ruin clusters at the end, when attention has already moved on to the next thing. The common thread is attention. A thing done at the pace at which it works is a thing you can still see while you do it; rushed, you see only the finish line.
 
-*For example:* Reading the contract fast to 'save time' and signing the bad clause — the re-read you skipped becomes a lawsuit.
+*For example:* Imagine skimming a contract to save twenty minutes and signing the bad clause. The twenty minutes come back as a dispute.
+
+## Sources
+
+- [The Tao Teh King, Legge trans., Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt) — chapters 24, 63, 64
 
 ## Psychology parallels
 
-- **[[Patience|Patience]]** (Schnitker and Emmons, 2007), a character strength predicting well-being and achievement
+- **[[Patience|Patience]]** (Schnitker and Emmons, 2007)
 - **Time pressure degrades judgment quality**
 
 ## Philosophy parallels
