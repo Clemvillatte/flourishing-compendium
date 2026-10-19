@@ -13,15 +13,15 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 
 > **Principle 55** — Understand that you are responsible for your character
 
-Aristotle's argument in NE III.5 runs from choice to character. Where we are free to act we are also free to refrain, so virtue and vice alike depend on us. He then gives the mechanism: men become careless by living carelessly, and acquire a particular quality by constantly acting in a particular way ([NE III.5, Rackham, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=3)). He notes the limit honestly: once a person has become unjust it is no longer open to them simply to stop being unjust by wishing, any more than a sick man can get well by wishing.
+Aristotle's argument in NE III.5 is more qualified than a slogan about self-authorship. He says we are "in a sense ourselves partly the cause" of our dispositions, and that both virtue and vice are voluntary. The mechanism he gives is repetition: a person becomes careless by living carelessly, and acquires a particular quality by constantly acting in a particular way ([NE III.5, Rackham, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=3)). He also marks the limit: once someone has become unjust, they cannot stop being unjust merely by wishing, any more than a sick man can get well by wishing.
 
-> Men are themselves responsible for having become careless through living carelessly, as they are for being unjust or profligate if they do wrong or pass their time in drinking and dissipation. They acquire a particular quality by constantly acting in a particular way. ... Only an utterly senseless person can fail to know that our characters are the result of our conduct.
+> They acquire a particular quality by constantly acting in a particular way.
 >
 > — Nicomachean Ethics III.5 ([Rackham, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=3))
 
-**Plain words** The compendium's application of this principle asks the reader to notice the asymmetry Aristotle names: the acts that build a character are in a person's control, while the resulting state is not directly changeable by a wish. The burden is that a character is something you built. The freedom is that the building happens through particular acts you can still do.
+**Plain words** Aristotle draws a line between what you control and what you have already built. Your actions are yours from beginning to end. Your character, once formed, is something you can only influence at its edges. The responsibility is that you built it through what you did. The freedom is that the building continues through what you do next.
 
-For example (imagined): a person raised in a cynical household who starts keeping small promises as an adult is changing their own character, one act at a time.
+For example (imagined): a person raised in a cynical household who starts keeping small promises as an adult is working on their own character through acts they still control.
 
 (NE III.5.)
 

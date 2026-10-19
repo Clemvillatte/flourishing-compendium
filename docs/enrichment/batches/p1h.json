@@ -23,7 +23,6 @@
   "A028",
   "A042",
   "A044",
-  "A055",
   "A096",
   "A100",
   "A103",
@@ -32,7 +31,8 @@
   "AF061",
   "AF073",
   "AF075",
-  "A026"
+  "A026",
+  "A055"
  ],
  "in_progress": null,
  "flagged": {
@@ -51,7 +51,7 @@
   "A028": "milestone QC: quotation fidelity and prose scope repairs",
   "A042": "milestone QC: quotation fidelity and prose scope repairs",
   "A044": "milestone QC: quotation fidelity and prose scope repairs",
-  "A055": "milestone QC: quotation fidelity and prose scope repairs",
+  "A055": "Reopened for QC: repair: quote fidelity, preserve Aristotle's partial-cause qualification",
   "A096": "milestone QC: quotation fidelity and prose scope repairs",
   "A100": "milestone QC: quotation fidelity and prose scope repairs",
   "A103": "milestone QC: quotation fidelity and prose scope repairs",
@@ -63,6 +63,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 9,
- "updated": "2026-10-19T15:02:35+00:00",
+ "updated": "2026-10-19T15:02:53+00:00",
  "band_done": false
 }
