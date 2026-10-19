@@ -24,6 +24,13 @@ let labelMinDeg = 14;         // always-on labels: the ~140 most connected nodes
    1 = the shipped default. Persisted per browser. */
 const PHYS_DEF = { rep: 1, spring: 1, linkLen: 1, nodeSize: 1, gravity: 1, degEmph: 0, belts: true, nb2: true };
 let phys = { ...PHYS_DEF };
+/* phones: N+2 OFF by default. The far belt was "unperceivable" on a phone
+   (fitting it zooms out until the whole graph is dots) and it doubles the
+   gathered population. The toggle stays available in the physics panel
+   (☰ menu). Desktop is unchanged. Applied at load only. */
+try { if (window.matchMedia('(max-width:920px)').matches) phys.nb2 = false; } catch (e) {}
+// QA hook: current layout/physics settings (read-only)
+window.__physDebug = () => ({ ...phys });
 /* preview build: layout settings are session-only (in-memory) */
 function savePhys() { /* preview build: nothing to persist */ }
 /* Node radius from degree. phys.degEmph (0–1) bends the curve: at 0 the size
@@ -513,10 +520,18 @@ const SPREAD_MINR = 850;      // target clearance radius around the selection
    big reorganisation the user doesn't want there. Belts still gather; the
    rest of the graph simply stays put. */
 let spreadNoRoom = false;
+/* phones: NO easing at all. Animating hundreds of belt nodes (plus the
+   render each easing frame) is exactly the "chaotic reorganisation" lag the
+   user reported on mobile — selecting, deselecting or switching a node now
+   SNAPS the belts straight to their final arrangement in a single frame and
+   the render loop stops immediately (nothing is animating). Desktop keeps
+   the smooth glide. */
+let spreadSnap = false;
 try {
   const _mq = window.matchMedia('(max-width:920px)');
   spreadNoRoom = _mq.matches;
-  if (_mq.addEventListener) _mq.addEventListener('change', ev => { spreadNoRoom = ev.matches; });
+  spreadSnap = _mq.matches;
+  if (_mq.addEventListener) _mq.addEventListener('change', ev => { spreadNoRoom = ev.matches; spreadSnap = ev.matches; });
 } catch (e) {}
 function setSpread(n) {
   spreadCenter = n || null;
@@ -800,7 +815,8 @@ function applySpread(dt) {
   const c = spreadCenter;
   // belt geometry computed once per pass — the rings follow live node sizes
   const geo = (c && phys.belts && spreadSlots) ? beltGeometry(c) : null;
-  const k = 1 - Math.exp(-5 * dt);   // smooth, non-overshooting approach
+  // phones snap in ONE pass (k=1: offset = target immediately); desktop eases
+  const k = spreadSnap ? 1 : 1 - Math.exp(-5 * dt);   // smooth, non-overshooting approach
   for (const n of G.nodes) {
     if (!n.visible) {
       if (n.ox || n.oy) { n.ox = 0; n.oy = 0; spreadDirty = true; }
@@ -911,7 +927,7 @@ function applySpread(dt) {
     if (Math.abs(ex) < 0.5 && Math.abs(ey) < 0.5) {
       if (n.ox !== tx || n.oy !== ty) { n.ox = tx; n.oy = ty; spreadDirty = true; }   // settle exactly
     }
-    else { n.ox += ex * k; n.oy += ey * k; spreadDirty = true; spreadAnimating = true; }
+    else { n.ox += ex * k; n.oy += ey * k; spreadDirty = true; if (!spreadSnap) spreadAnimating = true; }
   }
   if (!spreadAnimating && !spreadCenter) spreadActive = false;   // gathered back — done
 }
@@ -1410,6 +1426,10 @@ function frame() {
     frame.lastSpreadT = now;
     applySpread(dt);
     separateDisplayed();   // keep the DISPLAYED circles separated while the belts ease
+    // snap frame (phone): no easing frames follow, so give the separation a
+    // few extra passes up front to reach the same overlap-free rest desktop
+    // converges to over many frames
+    if (spreadSnap && spreadDirty) { separateDisplayed(); separateDisplayed(); separateDisplayed(); }
     if (spreadDirty) needsRender = true;   // includes the final snap — must render
   } else {
     frame.lastSpreadT = performance.now();
