@@ -14,9 +14,9 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 
 Research on cognitive ageing is specific about the shape of the curve. Adult age differences are "documented on a wide variety of cognitive variables", but the reasons "are still poorly understood". What the evidence does show is that "age-related declines in measures of cognitive functioning (a) are relatively large, (b) begin in early adulthood, (c) are evident in several different types of cognitive abilities, and (d) are not always accompanied by increases in between-person variability" (Salthouse, 2004).
 
-The rise side of the curve is just as specific. Across 48,537 online participants plus normative test data, "results reveal considerable heterogeneity in when cognitive abilities peak: Some abilities peak and begin to decline around high school graduation; some abilities plateau in early adulthood, beginning to decline in subjects' 30s; and still others do not peak until subjects reach their 40s or later" (Hartshorne & Germine, 2015). Different abilities move on different schedules, so at any given age you hold a mix of declining and still-rising capacities.
+The rise side of the curve is just as specific. Across 48,537 online participants plus normative test data, "results reveal considerable heterogeneity in when cognitive abilities peak: Some abilities peak and begin to decline around high school graduation; some abilities plateau in early adulthood, beginning to decline in subjects' 30s; and still others do not peak until subjects reach their 40s or later" (Hartshorne & Germine, 2015). Different abilities move on different schedules.
 
-The compendium's application, and its own: design your cognitive life around the mix you actually hold at this stage. Search-heavy work leans on external systems that do not age with you; recognition, vocabulary, and accumulated knowledge keep rising and carry more of the load.
+The compendium's application, and its own: take stock of which of your abilities sit on the early-declining side of the opened record and which sit on the still-rising side, and design around that stock. Offloading search-heavy work to external systems that do not age with you is one such design; what counts as search-heavy for you is something to observe rather than assume.
 
 **Plain words** Two facts drive the design. First, per Salthouse (2004), decline in some abilities is large, starts in early adulthood, and shows up across ability types. Second, per Hartshorne and Germine (2015), abilities peak at different ages — some right out of high school, others not until the 40s or later. To apply: inventory the split. Offload the declining side to tools and checklists; build the schedule around the rising side. Recheck the inventory every few years, because the mix shifts.
 
@@ -25,7 +25,7 @@ The compendium's application, and its own: design your cognitive life around the
 ## Sources
 
 - Salthouse, T. A. (2004). [What and when of cognitive aging](https://www.psychologicalscience.org/journals/current-directions/j.0963-7214.2004.00293.x/). Current Directions in Psychological Science, 13(4), 140-144. Abstract fetched and quoted verbatim.
-- Hartshorne, J. K., & Germine, L. T. (2015). [When does cognitive functioning peak?](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0128428) Psychological Science, 26(4), 433-443. Abstract retrieved via Europe PMC REST (PMID 25770099) and quoted verbatim.
+- Hartshorne, J. K., & Germine, L. T. (2015). [When does cognitive functioning peak? The asynchronous rise and fall of different cognitive abilities across the life span](https://europepmc.org/article/MED/25770099). Psychological Science, 26(4), 433-443. Abstract retrieved via Europe PMC REST (PMID 25770099) and quoted verbatim.
 ## Psychology parallels
 
 - **[[Cognitive ageing|Cognitive ageing]]**, processing speed and fluid intelligence decline from the 20s-30s; crystallised intelligence and vocabulary continue to improve into the 60s-70s (Salthouse, 2004; Hartshorne & Germine, 2015)

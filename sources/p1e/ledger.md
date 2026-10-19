@@ -524,3 +524,7 @@ Advisor QC (2026-10-19): quotes verified (BQ1 ch. 22 sentence, BQ2 ch. 68 verse 
 - Honest framing: body claims kept at what the two fetched abstracts verify. The parallel bullet's "improve into the 60s-70s" specificity is NOT verifiable from the opened abstracts (HG 2015 abstract stops at "40s or later"); flagged specifically. Compendium application labelled.
 - Inherited, NOT opened: Stern 2002; Lövdén et al. 2010; Carstensen et al. 2003; Reed & Carstensen 2012; Ecclesiastes; Talleyrand; Marcus Aurelius parallels — flagged in state.
 - Validator: ok; protected fields untouched vs HEAD.
+
+## CO079 QC correction (2026-10-20, supervisor QC sample)
+
+- Advisor QC caught: (1) Sources entry linked the PLoS URL for doi 10.1371/journal.pone.0128428, which is a DIFFERENT article (established during research when the fetch returned the wrong paper); replaced with the actual opened record, Europe PMC PMID 25770099. (2) Body claims "recognition, vocabulary, and accumulated knowledge keep rising" and "at any given age you hold a mix" exceeded the opened abstracts; removed — body now stops at the heterogeneity finding and the application is framed as taking stock rather than asserting which named abilities rise. (3) Inherited For example "wins every time on pattern recognition" and Practice "growth in wisdom, knowledge, and vocabulary" are the compendium's inherited illustration, NOT established by the opened abstracts; recorded here as unresolved, preserved per protocol. Reopened with reason, fixed, revalidated, re-done.
