@@ -12,13 +12,13 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 182** — Unclamp your machinery: self-preoccupation inhibits performance
 
-Strong feeling about oneself (worry, self-consciousness, the need to succeed) arrests the free association of ideas and motor processes. The mind cramps on its own situation and stops flowing. The remedy is not more effort but less ego-monitoring: make your resolutions in advance, then in the execution dismiss care about the outcome and let your mind run free.
+James states the law in the essay: "strong feeling about one's self tends to arrest the free association of one's objective ideas and motor processes". The mind, in his description, is "fixed as if in a cramp on these feelings of his own situation". The remedy is not more effort but less self-monitoring: make your resolutions in advance, then in the execution dismiss care about the outcome and let your mind run free.
 
 (James, "The Gospel of Relaxation," 1899.)
 
 **Plain words** James's instruction has two halves. Decide in advance, with full care; then, during execution, dismiss care about the outcome. The cramp comes from watching yourself perform while performing. Planning is where self-regard belongs; the running of the machinery is not.
 
-*For example:* A pianist may play flawlessly alone and fall apart with an audience: same fingers, same piece, plus a spectator installed inside the head. The essay's remedy is to evict the spectator for the duration, not to practice the notes harder.
+*For example:* As an illustration of the essay's law: a pianist might play flawlessly alone and fall apart with an audience, same fingers and same piece, plus a spectator installed inside the head. The essay's remedy is to evict the spectator for the duration; it is not a claim that releasing self-monitoring replaces practice.
 
 ## Psychology parallels
 

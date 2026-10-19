@@ -17,11 +17,11 @@ Face the facts about strategies that have failed, the control agenda, the waitin
 > "The 'hopelessness' achieved in creative hopelessness is experiential contact with the futility of experiential avoidance, a growing suspicion that one's own verbal rules may be part of the problem rather than the solution, a confusion about what to do next, but a sense that it will be different and counterintuitive."
 > (Kanter, Baruch and Gaynor, The Behavior Analyst, [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC2223147/))
 
-The client is guided there by Socratic questions the article lists: "What do you want?", "What have you tried?", "How has that worked?" The hopelessness is aimed at the strategy, not at the life; its creativity is the space that opens when the old category of solution is abandoned. (Hayes, Strosahl and Wilson, 2011.)
+The client is guided there by Socratic questions the article lists: "What do you want?", "What have you tried?", "How has that worked?" The article's target is experiential avoidance, the repeated attempt not to have the thoughts and feelings that show up; creative hopelessness is the discovery that this avoidance is what is not working. (Hayes, Strosahl and Wilson, 2011.)
 
-**Plain words** The questions are simple: what do you want, what have you tried, how has that worked. Creative hopelessness is what happens when the honest answer to the third question is that it has not. The despair is aimed at the strategy, not at your life, and its point is to make trying something else possible.
+**Plain words** The examination is experiential rather than logical: run a strategy and its history honestly and look at the pattern of results. The article's questions are the instrument; the target is the avoidance rule behind the strategy, not the person's worth. What changes is the suspicion that the rule is part of the problem.
 
-*For example:* Take the resolution "I'll organize my life once things calm down". Run it through the three questions, including how many years it has been running. The admission that things never calm down is the contact with futility; what you organize next is the new category.
+*For example:* Suppose the strategy is to wait until life feels calm before organizing it, and suppose it has run for years. Examine the record of what the waiting has produced so far. The answer is whatever the record shows; the examination is the point.
 
 ## Practice kernels
 

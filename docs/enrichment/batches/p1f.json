@@ -28,10 +28,16 @@
   "B053": "Reopened for QC: QC r2: plain words",
   "B054": "Reopened for QC: milestone QC: plain words repeat",
   "B069": "Reopened for QC: QC r2: plain words",
-  "B122": "Reopened for QC: milestone QC: quote casing, lanes"
+  "B122": "Reopened for QC: milestone QC: quote casing, lanes",
+  "B133": "Reopened for QC: milestone QC: unsupported definition",
+  "P091": "Reopened for QC: milestone QC: melody example",
+  "P100": "Reopened for QC: milestone QC: education context",
+  "P163": "Reopened for QC: milestone QC: experiential avoidance tie",
+  "P182": "Reopened for QC: milestone QC: attribute law to James",
+  "P183": "Reopened for QC: milestone QC: preserve qualification"
  },
  "missing_concepts": [],
- "sources_checked": 15,
- "updated": "2026-10-19T12:59:07+00:00",
+ "sources_checked": 17,
+ "updated": "2026-10-19T13:03:47+00:00",
  "band_done": false
 }

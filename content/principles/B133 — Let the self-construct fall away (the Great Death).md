@@ -12,16 +12,16 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 133** — Let the self-construct fall away (the Great Death)
 
-From time to time, let the whole story of "me": past, future, roles, grievances, fall away and see what remains. What remains is what never needed defending. The Zen tradition gives the collapse a name and a warning:
+From time to time, let the whole story of me, past and future, roles and grievances, fall away and see what remains. The Zen tradition names the collapse and warns about the half that follows:
 
 > "It is easy to die the Great Death but difficult to regain one's life after that."
-> (Yamada Mumon Roshi on Hakuin, [Tricycle](https://tricycle.org/article/hakuin-ekaku-awakening/))
+> (Yamada Mumon Roshi discussing Hakuin, [Tricycle](https://tricycle.org/article/hakuin-ekaku-awakening/))
 
-The saying appears in the story of Hakuin's teacher Shoju throwing him out of the room; the warning's weight is on the return. The compendium's reading: the Great Death is the self-construct falling away, and the hard half is coming back to the world and its claims. (Zen tradition; Hakuin's "Great Death.")
+The same discussion explains the warning: "returning eko, going back into the world to work for living beings after attaining realization, is a very arduous undertaking". Dying the Great Death is the easy half; the practice is the return. (Zen tradition; Hakuin's "Great Death.")
 
-**Plain words** The story of me is a story: past, future, roles, grievances. The exercise is to let it stop for a moment and notice what is still there when it stops. The tradition's warning is about after: coming back to ordinary life with its claims and errands is the hard part. The point is not to stay collapsed.
+**Plain words** The saying divides the work into a collapse and a return. In this telling the dying is the easy half; the hard half is regaining one's life, going back into the world to work for living beings. The exercise is to treat the return, with its errands and claims, as the practice.
 
-*For example:* Suppose a flood takes a house and everything in it. What remains is not nothing; the exercise is noticing that the person who remains was never identical to the inventory.
+*For example:* After any experience of things falling away, notice the first ordinary demand that follows: a message to answer, an errand to run. Taking that demand up again is the return the saying calls arduous.
 
 ## Psychology parallels
 

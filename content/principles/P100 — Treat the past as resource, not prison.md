@@ -12,16 +12,16 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 100** — Treat the past as resource, not prison
 
-The facts of the past are fixed; their meaning and use are not. Re-narrate your past in ways that fuel growth: this is not denial but reconstruction. Dewey states the condition for the past to work as a resource:
+The facts of the past are fixed; their meaning and use are not. The use Dewey describes is not a retelling of the past but a use of it: the present sets a problem, and the past is searched for suggestion. Dewey states the condition for the past to work as a resource:
 
 > "The past is a great resource for the imagination; it adds a new dimension to life, but on condition that it be seen as the past *of* the present, and not as another and disconnected world."
 > (Dewey, Democracy and Education ch. VI, [Standard Ebooks](https://standardebooks.org/ebooks/john-dewey/democracy-and-education/text/chapter-6))
 
-His warning in the same chapter is that making the records of the past the main material of life "cuts the vital connection of present and past, and tends to make the past a rival of the present and the present a more or less futile imitation of the past". The past as prison is that disconnection; the past as resource is the past of the present. (Dewey, Experience and Nature, 1925; James, Psychology: Briefer Course.)
+His warning in the same chapter concerns education: making the records of the past the main material of education "cuts the vital connection of present and past, and tends to make the past a rival of the present and the present a more or less futile imitation of the past". His rule of use runs the other way: "The present, in short, generates the problems which lead us to search the past for suggestion, and which supplies meaning to what we find when we search." (Dewey, Democracy and Education, ch. VI, 1916.)
 
-**Plain words** A fixed set of facts supports more than one telling. The divorce can be the catastrophe in one narration or the curriculum in another, and both narrations use the same facts. Dewey's condition marks the line between them: a telling that connects the past to what you are doing now is a resource; a telling that makes the past a rival of the present is the prison.
+**Plain words** The chapter's rule of use: the present sets the problems, and the past is searched for suggestion. An everyday application: name something you are trying to do now, identify what a previous attempt taught you, and state one change you will make in the current attempt. That is the past as the past of the present.
 
-*For example:* A failed first business: one telling says you are not a founder; another says it is the reason the second one works. Same facts. The narration is a tool choice.
+*For example:* Suppose a previous attempt at a project failed for reasons you can now name. Name one of them, and state one change for the current attempt. The facts of the failure stay fixed; their use is set by the present problem.
 
 ## Practice kernels
 
