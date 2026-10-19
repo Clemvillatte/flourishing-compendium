@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 405** — Practise the lived body (Leib)
 
-Recognise the distinction between your body as a physical object (Körper) and your body as you live it (Leib). The lived body is not a thing you have but the subject you are. It is the medium through which you perceive, act, and exist. Do not treat your body as a mere instrument. Live it as the ground of your being.
+The distinction this principle turns on is Merleau-Ponty's: the body you are is not one more object in the world. In the Stanford Encyclopedia's exposition, "the body itself is experienced in ways that distinguish it in kind from all other things" — always present in your own perceptual field, doubled back on itself when one hand feels the other, given its own movement from inside. Its relation to space is not a container's: the body relates to space as an "I can" rather than an "I think," and it lives or inhabits space rather than sitting in it. And the perceiver is not a pilot behind controls: "the agent of perception is the pre-reflective and anonymous subjectivity of the body." The compendium's application is the principle's own instruction: do not treat the body as a mere instrument you have; live it as the ground of your being.
 
 (Merleau-Ponty, 1945/2012, Phenomenology of Perception, Parts I and II; Husserl, 1952/1989, Ideas II, §§35-62.)
 
