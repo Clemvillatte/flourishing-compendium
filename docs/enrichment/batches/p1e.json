@@ -46,7 +46,8 @@
   "SO034",
   "P157",
   "SO006",
-  "SP084"
+  "SP084",
+  "A012"
  ],
  "in_progress": null,
  "flagged": {
@@ -85,7 +86,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 19,
- "updated": "2026-10-19T14:33:44+00:00",
+ "updated": "2026-10-19T14:34:52+00:00",
  "band_done": false,
  "takeover": {
   "by": "genuineflourishing35",

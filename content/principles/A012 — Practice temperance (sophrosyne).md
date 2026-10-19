@@ -12,13 +12,23 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 12** — Practice temperance (sophrosyne)
 
-Temperance is the mean between insensibility and intemperance regarding bodily pleasures: food, drink, sex. It is not asceticism. It is the capacity to enjoy pleasures in the right way, at the right time, in the right amount. Train your appetites rather than letting them train you.
+Temperance concerns the bodily pleasures, the ones shared with the other animals: food, drink, sex, touch and taste. Aristotle's definition, verbatim:
+
+> "We have said that temperance is a mean with regard to pleasures (for it is less, and not in the same way, concerned with pains)." (NE III.10, [Ross, MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html))
+
+The deficiency side barely exists in practice: "for such insensibility is not human" (NE III.11), since even animals distinguish foods and enjoy some over others. The real rival is self-indulgence, being led by appetite to choose pleasant things at the cost of everything else. The temperate person is the one whose wanting has the same shape as their judgment. As Aristotle closes the account, "the appetitive element in a temperate man should harmonize with the rational principle; for the noble is the mark at which both aim" (NE III.12), so that he craves what he ought, as he ought and when he ought.
+
+Temperance is therefore a trained capacity to enjoy pleasures in the right way, at the right time, in the right amount. Asceticism, which treats the pleasures themselves as the enemy, is a different disposition. Train your appetites rather than letting them train you.
 
 (NE III.10-12.)
 
-**Plain words** Temperance isn't giving up pleasure. Aristotle means enjoying it well: the right amount, at the right time, in the right way. The point is that you train your appetites instead of letting them train you. Someone who can enjoy dinner without it running the evening has it.
+**Plain words** A temperate person still enjoys dinner, wine and the rest. What they have lost is the compulsion side: the evening is no longer arranged around getting the next one. A crude test: skip a habitual pleasure for a day and see whether the day is still a good day. If skipping it ruins the day, the appetite has a vote it should not have.
 
 *For example:* Having two squares of dark chocolate and actually tasting them, rather than finishing the bar while scrolling, is a small piece of temperance.
+
+## Sources
+
+- [Aristotle, Nicomachean Ethics III, Ross translation (MIT Classics)](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html) — III.10 definition of the mean, III.11 insensibility passage, III.12 harmony of appetite and reason
 
 ## Stories
 
