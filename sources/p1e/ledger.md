@@ -474,3 +474,10 @@ Advisor QC (2026-10-19): quotes verified (BQ1 ch. 22 sentence, BQ2 ch. 68 verse 
 - Body grounded in the two-sided allostasis/allostatic-load framing plus the named maintenance behaviours; compendium application (adaptation cycle) labelled. "The maintenance IS the achievement; there's no 'done'" drama and "The adaptation is the health" claim removed; em dashes removed from plain words and example.
 - Inherited, NOT opened: Sapolsky 2004, Lövdén et al. 2010, Stern 2002, Socrates/Apology, Neiye, Ecclesiastes parallels — flagged in state.
 - Validator: ok; protected fields untouched vs HEAD.
+
+## CO006 — Recognise that thinking is socially distributed (done 2026-10-20 by worker-p1e-4f2c9b1d, item 22)
+
+- Opened: Clark and Chalmers, "The Extended Mind" (1998) via an actual fetch of the author-hosted text (https://consc.net/papers/extended.html). Verified verbatim: (1) "Where does the mind stop and the rest of the world begin?"; (2) "For Otto, his notebook plays the role usually played by a biological memory."; (3) "this sort of coupled process counts equally well as a cognitive process, whether or not it is wholly in the head."; (4) "If so, the mind extends into the world." Sources_checked +1 (41 -> 42).
+- Application to other people explicitly labelled as the compendium's, not the authors' (the Otto case concerns a notebook); transactive memory named as inherited. "The network is the processor" metaphor and "complete mind" overclaim removed; em dashes removed from plain words and example.
+- Inherited, NOT opened: Hutchins 1995, Wegner 1987, Mercier & Sperber 2017, Ubuntu, Buber, Habermas parallels — flagged in state.
+- Validator: ok; protected fields untouched vs HEAD.

@@ -12,11 +12,20 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 ---
 > **Principle 6** — Recognise that thinking is socially distributed: you think with others
 
-Cognition is not purely individual; it extends into tools, environments, and other people. Transactive memory (who knows what), collaborative reasoning, and shared mental models are all parts of the cognitive system. Thinking alone is a subset of thinking.
+Cognition is not purely individual; it extends into tools, environments, and other people. The clearest formulation of the extended part of this claim is Clark and Chalmers' thought experiment. They open by asking, verbatim: "Where does the mind stop and the rest of the world begin?" Their answer is worked out through Otto, who suffers from Alzheimer's disease and carries a notebook everywhere. Verbatim:
 
-**Plain words** Cognition extends into tools, environments, and other people — transactive memory (who knows what), shared mental models, collaborative reasoning. You think with others whether you know it or not. Design your thinking network on purpose.
+> "For Otto, his notebook plays the role usually played by a biological memory." (Clark and Chalmers, 1998, "The Extended Mind", [author-hosted text](https://consc.net/papers/extended.html))
 
-*For example:* The couple where one always remembers the passwords and the other the social calendar — neither could pass a memory test alone, and together they run a complete mind. The same is true of every team you're on; the network is the processor.
+Their thesis, verbatim: "this sort of coupled process counts equally well as a cognitive process, whether or not it is wholly in the head." And their conclusion about belief: "If so, the mind extends into the world." The philosophical claim concerns external features driving cognitive processes. The compendium's application to other people follows the same structure but is the compendium's, not theirs: the partner who remembers the passwords is part of the system you think with, and the term for the division of knowledge in a group, transactive memory, is inherited below.
+
+**Plain words** Ask the Otto question of your own life: what do you keep outside your head, and does it play the role of memory? The same question applies to people: who holds which knowledge, and is that division deliberate? You think with others whether you notice or not; noticing lets you arrange it.
+
+*For example:* The couple where one always remembers the passwords and the other the social calendar: neither could pass a memory test alone, and together they run a complete memory system. The same division shows up in every team.
+
+## Sources
+
+- [Clark and Chalmers, "The Extended Mind" (1998), author-hosted text](https://consc.net/papers/extended.html) — opening question, Otto's notebook, and thesis quoted verbatim
+
 ## Psychology parallels
 
 - **[[Distributed cognition / extended mind|Distributed cognition / extended mind]]**, cognitive processes extend into the environment and other agents (Hutchins, 1995; Clark & Chalmers, 1998)
