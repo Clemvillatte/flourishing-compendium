@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 35** — Cultivate art and craft (techne)
 
-Techne is the capacity to make things well, guided by reason: the knowledge of how to produce. It is not merely skill but understanding of the principles of production. Make things. Craft something with your hands and your mind. The maker's knowledge is irreplaceable.
+Techne is the capacity to make things well, guided by reason: the knowledge of how to produce. It goes past knack into understanding of the principles of production. Make things. Craft something with your hands and your mind. The maker's knowledge is irreplaceable.
 
 (NE VI.4; Metaphysics I.1.)
 
@@ -22,7 +22,7 @@ Techne is the capacity to make things well, guided by reason: the knowledge of h
 
 ### Why the maker's knowledge cannot be borrowed
 
-The claim is epistemic, not aesthetic: you learn something by producing that you cannot learn by consuming. The baker who has failed ten loaves knows what the dough is doing; the reader of recipes knows what the words say.
+The claim is epistemic rather than aesthetic: you learn something by producing that you cannot learn by consuming. The baker who has failed ten loaves knows what the dough is doing; the reader of recipes knows what the words say.
 
 **Plain words**
 Making things well takes more than a knack; it takes the knack plus the reason underneath it. That is why the knowledge cannot be borrowed: the person who has only read about bread has the words, and the person who has baked has the feel for what the words are about. Start with something you can finish badly, and let the tenth attempt argue with the first.
