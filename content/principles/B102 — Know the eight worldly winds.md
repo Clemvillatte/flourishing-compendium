@@ -12,23 +12,19 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 102** — Know the eight worldly winds
 
-Gain and loss, fame and disrepute, praise and blame, pleasure and pain: these winds blow constantly in every life. Expect them; they are weather, not verdicts.
+AN 8.6 names gain and loss, status and disgrace, censure and praise, pleasure and pain. It distinguishes experiencing these conditions from becoming consumed by welcoming or resisting them (Lokavipatti Sutta, trans. Thanissaro Bhikkhu, [text](https://accesstoinsight.org/tipitaka/an/an08/an08.006.than.html)).
 
-The Lokavipatti Sutta names the eight and what they do to an untrained mind:
+> "Gain has arisen for me. It is inconstant, stressful, & subject to change." (The instructed disciple's reflection in AN 8.6, trans. Thanissaro Bhikkhu, [text](https://accesstoinsight.org/tipitaka/an/an08/an08.006.than.html))
 
-> "Monks, these eight worldly conditions spin after the world, and the world spins after these eight worldly conditions. Which eight? Gain, loss, status, disgrace, censure, praise, pleasure, & pain. These are the eight worldly conditions that spin after the world, and the world spins after these eight worldly conditions." (AN 8.6, [Thanissaro](https://accesstoinsight.org/tipitaka/an/an08/an08.006.than.html))
+The same reflection is extended to the other conditions, and the discourse connects freedom from welcoming and rebelling with its larger aim of release from suffering. It does not reduce that aim to a guaranteed change after one breath (AN 8.6, [text](https://accesstoinsight.org/tipitaka/an/an08/an08.006.than.html)).
 
-The trained and untrained person get the same eight; the difference is the response. The untrained person "welcomes the arisen gain and rebels against the arisen loss. He welcomes the arisen status and rebels against the arisen disgrace. He welcomes the arisen praise and rebels against the arisen censure. He welcomes the arisen pleasure and rebels against the arisen pain", and the sutta says this welcoming-and-rebelling is what keeps him unreleased from birth, aging and death. The trained response is a reflection run on each condition as it arises:
+### Plain words
 
-> "Now, gain arises for a well-instructed disciple of the noble ones. He reflects, 'Gain has arisen for me. It is inconstant, stressful, & subject to change.' He discerns it as it actually is." (AN 8.6, [Thanissaro](https://accesstoinsight.org/tipitaka/an/an08/an08.006.than.html))
+The compendium suggests noticing when a particular success or setback has become your whole account of yourself. Name what happened and ask what response it calls for. Allowing that circumstances can change does not require dismissing a loss, ignoring criticism or expecting distress to disappear quickly.
 
-(AN 8.6; Lokavipatti Sutta.)
+### For example
 
-**Plain words**
-When a wind arrives, the sutta's disciple runs a one-line check on it before reacting: "Gain has arisen for me. It is inconstant, stressful, & subject to change." Try that sentence on your next raise, and on the criticism that follows it. The check costs a breath and it is the whole difference the sutta marks between the trained and untrained response.
-
-**For example**
-The same month brings the promotion and the diagnosis — the winds were never negotiating with your plans.
+Imagine receiving praise for one report and criticism of the next. Examine what each response tells you about the work, rather than making either a final assessment of your worth. There may be a correction to make or an achievement to enjoy; neither requires predicting how you must feel tomorrow.
 
 ## Sources
 
@@ -44,8 +40,8 @@ The same month brings the promotion and the diagnosis — the winds were never n
 - [[K167 — Equanimity under the eight worldly winds|K167 Equanimity under the eight worldly winds]]
 ## Psychology parallels
 
-- **[[Hedonic adaptation|Hedonic adaptation]]**, gains and losses both fade (Lucas, 2007)
-- **[[Affective forecasting|Affective forecasting errors]]** (Wilson and Gilbert, 2003)
+- **[[Hedonic adaptation|Hedonic adaptation]]**: Lucas reviews evidence that adaptation varies and that some major events have lasting effects on well-being; return to baseline is not inevitable ([2007, abstract](https://www.psychologicalscience.org/journals/current-directions/j.1467-8721.2007.00479.x/)).
+- **[[Affective forecasting|Affective forecasting errors]]**: Wilson and Gilbert distinguish predictions of emotional valence, type, intensity and duration, including errors in estimating future impact; this does not imply that every loss is brief ([2003, pp. 346-350](https://dtg.sites.fas.harvard.edu/Wilson%20&%20Gilbert%20(Advances).pdf)).
 
 ## Philosophy parallels
 
