@@ -80,3 +80,18 @@ copied from the opened URL in this session.
 - Inherited-not-reverified: Duckworth et al. 2016 situation-selection claim and the
   digital-minimalism/notification-reduction note in psychology parallels (untouched link
   sections).
+
+## D161 — See the small (DDJ 52, 63)
+
+- Opened: https://www.gutenberg.org/cache/epub/216/pg216.txt (Legge, ebook #216),
+  chapters 52 and 63.
+- Blockquote: ch. 63.2 verbatim ("All difficult things in the world... greatest
+  things."). Ch. 52.4 paraphrased after QC ("The perception of what is small is (the
+  secret of) clear-sightedness;" — semicolon in source).
+- QC: advisor round 1 flagged the dog-limp example (no basis for limp-to-surgery
+  progression) and the ch. 52 quote punctuation; replaced with the advisor's term-clarity
+  hypothetical and a paraphrase. Validated vs pre-item baseline d1f8674.
+- Inherited-not-reverified: Fredrickson 2013 micro-moments claim and the
+  early-warning-signal-detection note in psychology parallels (untouched link sections).
+- Saturation: Petites perceptions and Micro-moments of connection already cite D161; no
+  new proposals.
