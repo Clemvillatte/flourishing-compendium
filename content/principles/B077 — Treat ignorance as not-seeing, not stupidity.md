@@ -12,17 +12,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 77** — Treat ignorance as not-seeing, not stupidity
 
-Delusion (avijja) is simply failure to see how things work: and it responds to looking, not to self-criticism. Where you suffer, assume something is not being seen.
+SN 12.2 defines avijjā through not knowing suffering, its arising, its cessation and the path to cessation. It places ignorance at the start of its dependent-arising sequence, giving the term a specific role within the teaching (trans. Thanissaro Bhikkhu, [text](https://www.accesstoinsight.org/tipitaka/sn/sn12/sn12.002.than.html)).
 
-(SN 12; Dhammapada 153-154.)
+> "Not knowing stress, not knowing the origination of stress, not knowing the cessation of stress, not knowing the way of practice leading to the cessation of stress: This is called ignorance." (SN 12.2, trans. Thanissaro Bhikkhu, [text](https://www.accesstoinsight.org/tipitaka/sn/sn12/sn12.002.than.html))
 
-**Plain words** Delusion is simply failure to see how things work — and it responds to looking, not to self-criticism. Where you suffer, assume something is not being seen. Ignorance is a lighting problem, not a character problem.
+The definition does not rank people by intelligence or credentials. Calling ignorance not-seeing is the compendium's practical gloss; the discourse itself specifies what is not known, rather than attributing every instance of suffering to a person's failure to look (SN 12.2, [text](https://www.accesstoinsight.org/tipitaka/sn/sn12/sn12.002.than.html)).
 
-*For example:* The same fight every month about money — it's not a moral failure, it's an unexamined pattern begging for a flashlight.
+### Plain words
+
+Ask what your explanation leaves unexamined. You may understand a description yet still need to investigate how it applies in a particular situation. The compendium suggests combining inquiry with relevant information, without turning a difficulty in understanding into a judgment about someone's intelligence or worth.
+
+### For example
+
+Imagine confidently explaining why a disagreement happened. Write down which details you observed and which motives you inferred, then ask the other person for their account. Revising the explanation would identify something you had missed; it would not establish that all your knowledge was worthless.
 
 ## Psychology parallels
 
-- **[[Bias blind spot|Bias blind spot and the introspection illusion]]** (Pronin, 2002; Nisbett and Wilson, 1977)
+- **[[Bias blind spot|Bias blind spot and the introspection illusion]]**: three studies found people rated bias as more evident in others than themselves ([Pronin, Lin and Ross, 2002, abstract](https://collaborate.princeton.edu/en/publications/the-bias-blind-spot-perceptions-of-bias-in-self-versus-others/)); a separate review proposed limits on reporting higher-order mental processes, while allowing some accurate reports ([Nisbett and Wilson, 1977, pp. 231-233](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Social_Cognition/Nisbett_Wilson_1977_Telling_more_than_we_can_know.pdf)).
 
 ## Philosophy parallels
 
