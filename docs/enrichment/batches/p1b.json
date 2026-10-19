@@ -47,7 +47,9 @@
   "A065",
   "SE066",
   "P038",
-  "D003"
+  "D003",
+  "D156",
+  "D090"
  ],
  "in_progress": null,
  "flagged": {
@@ -62,7 +64,7 @@
   "P038": "Reopened for QC: QC correction: inference and mechanical claim beyond James source"
  },
  "missing_concepts": [],
- "sources_checked": 28,
- "updated": "2026-10-19T13:35:19+00:00",
+ "sources_checked": 31,
+ "updated": "2026-10-19T13:36:46+00:00",
  "band_done": false
 }

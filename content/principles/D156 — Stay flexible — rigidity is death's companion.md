@@ -12,17 +12,33 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 156** — Stay flexible: rigidity is death's companion
 
-At birth we are soft and yielding; at death, stiff and rigid. Whatever is rigid and hard is the companion of death; whatever is soft and yielding, of life. Keep body, opinions, and plans supple.
+Laozi starts chapter 76 from something anyone can check on a body or a garden, and only then draws the conclusion.
+
+> "Man at his birth is supple and weak; at his death, firm and strong. (So it is with) all things. Trees and plants, in their early growth, are soft and brittle; at their death, dry and withered."
+> — James Legge, trans., The Tao Teh King, ch. 76.1
+
+### The inference
+
+The verdict follows in the next line:
+
+> "Thus it is that firmness and strength are the concomitants of death; softness and weakness, the concomitants of life."
+> — Legge, ch. 76.2
+
+The principle's phrase "death's companion" is a paraphrase of Legge's "concomitants of death". The chapter then applies the point to power: the army that relies on its strength does not win, and the strong tree "will fill the out-stretched arms, (and thereby invites the feller)" (76.3).
+
+### Reading it for a life
+
+The text speaks of bodies, plants, armies and trees. Extending it to opinions and plans is the compendium's reading, and it is a fair one: those too can set hard long before anything forces them to.
 
 (DDJ 76.)
 
-**Plain words** Whatever is rigid is the companion of death; whatever is soft, of life. Keep body, opinions, and plans supple — flexibility isn't weakness, it's the signature of being alive.
+**Plain words** Push on something alive and it gives a little, then comes back. Push on something dead and it either holds or snaps. Laozi's bet is that the same test works on the rest of what you carry around: a plan, an opinion, a way of doing things. The stiff ones feel safe, but stiffness means the thing has stopped taking in new information.
 
-*For example:* The company that adapted survived the disruption; the one with the rigid playbook is now a case study in the same book.
+*For example:* Imagine a plan you made in January that March has overtaken. The supple move is to rewrite it. The rigid move is to defend it, because changing it feels like admitting you were wrong.
 
 ## Psychology parallels
 
-- **[[Psychological flexibility|Psychological flexibility]]**, inflexibility is trans-diagnostically linked to psychopathology (Kashdan and Rottenberg, 2010)
+- **[[Psychological flexibility|Psychological flexibility]]**, Kashdan and Rottenberg (2010) review evidence that flexibility processes "are absent" in many forms of psychopathology. [Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC2998793/)
 - **[[Cognitive flexibility|Cognitive flexibility in aging]]**
 
 ## Philosophy parallels

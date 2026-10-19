@@ -12,13 +12,29 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 90** — Accept death as transformation
 
-We shrink from death as children dread the dark; yet life and death are one strand, and the True Person greets both without flinching. Mortality is not a malfunction.
+The Zhuangzi does not tell anyone to feel nothing about death. It asks whether the dread is aimed at the right thing.
+
+> "The True men of old knew nothing of the love of life or of the hatred of death. Entrance into life occasioned them no joy; the exit from it awakened no resistance."
+> — James Legge, trans., Zhuangzi, ch. 6 (Metis/ETH Zurich edition, p. 27)
+
+### Why not hate it
+
+Chapter 2 turns the question around:
+
+> "How do I know that the love of life is not a delusion? and that the dislike of death is not like a young person's losing his way, and not knowing that he is (really) going home?"
+> — Legge, Zhuangzi, ch. 2
+
+Chapter 22 gives the argument its form: "Life is the follower of death, and death is the predecessor of life", so "why should I account (either of) them an evil?" The Daodejing adds a warning from the other side. Some people, it says, move toward "the land (or place) of death" because of "their excessive endeavours to perpetuate life" (DDJ 50.3).
+
+### Zhuangzi at the basin
+
+The famous scene is in chapter 18. Zhuangzi's wife has died and he is found drumming on a basin and singing. He admits he was affected at first, then reflects on how she came to be and on the change that has now come, "like the procession of the four seasons". If he sobbed, he says, "I should think that I did not understand what was appointed (for all)." In the same chapter a man with a tumour says, "Life is a borrowed thing."
 
 (Zhuangzi 6, 18, 22; DDJ 50.)
 
-**Plain words** We shrink from death as children dread the dark — yet life and death are one strand, and the true person greets both without flinching. Mortality is not a malfunction; it's the shape of the loan. Making peace with it changes how the days get spent.
+**Plain words** Most of us treat death as an error in the system. Zhuangzi treats it as one phase of the same process that made us, so the fear looks like a mistake about what is happening. That does not mean grief is wrong: he grieves first, then makes sense of it. The practical question is how you would spend a life you held as borrowed rather than owed.
 
-*For example:* The diagnosis that ends procrastination forever — people who've made peace with finiteness stop scrolling and start calling their friends.
+*For example:* In Zhuangzi 18, Huizi finds Zhuangzi singing beside his dead wife and calls it excessive. Zhuangzi's answer is the plain-words point above in action: he mourned, then worked out what the change meant.
 
 ## Stories
 
