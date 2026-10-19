@@ -12,13 +12,13 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 49** — Keep inner space: the empty room fills with light
 
-Don't furnish your mind wall to wall. An empty chamber generates its own brightness; keep a daily reserve of unfilled time.
+When Yan Hui asks for the method, Zhongni (Confucius, as Zhuangzi depicts him) tells him it is "the fasting of the mind": listening with the spirit, which "is free from all preoccupation and so waits for (the appearance of) things." Then comes the image: "Look at that aperture (left in the wall); the empty apartment is filled with light through it. Felicitous influences rest (in the mind thus emblemed), as in their proper resting place." Legge's comparison carries the principle: a mind free from preoccupation is like the empty apartment receiving light. The passage is careful about what this is — it distinguishes "(the body) seated and (the mind) galloping abroad," so the emptiness it means is mental, not just a gap in a diary. The compendium's exercise, in that spirit: don't furnish your mind wall to wall. Keep a daily reserve of unfilled time and let it stay unfilled — not as a waiting room for the next task, but as practice in being unoccupied.
 
 (Zhuangzi 4.)
 
-**Plain words** Keep a daily reserve of unfilled time. Empty time is where processing, insight, and recovery happen — schedule it like it matters, because it does.
+**Plain words** Don't fill every hour, or every corner of your head. Zhuangzi's picture is an empty room that lets in light. A packed day is a furnished room — nothing else can arrive. Keep some time unfilled on purpose, and leave it that way.
 
-*For example:* Shower thoughts exist because the shower is one of the last unfurnished rooms — that's why the good ideas live there.
+*For example:* You leave Sunday morning unplanned — no errands, no meetups. It stays empty, and you don't quietly fill it with your phone.
 
 ## Stories
 
