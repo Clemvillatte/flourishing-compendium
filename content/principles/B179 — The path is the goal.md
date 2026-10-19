@@ -12,13 +12,15 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 179** — The path is the goal
 
-There is no arrival other than the walking: each step is the destination. Live the question, walk the path: don't defer life to the end of it.
+Thich Nhat Hanh's version of this teaching is the most concrete. In The Miracle of Mindfulness he gives the example of the tea ceremony: the cup is not a vehicle for getting to the tea; the tea is the tea ([Nhat Hanh, The Miracle of Mindfulness, Archive.org](https://archive.org/details/miracleofmindful00thich)). More famously, he describes washing the dishes as the point — "to wash the dishes is to wash the dishes," and the point of the washing is not to get them clean so you can drink tea. This is not a paradox; it is a description of where the living actually happens.
 
-(Dogen; Thích Nhất Hạnh, The Miracle of Mindfulness.)
+The Buddhist formulation of the principle — usually attributed to the Dogen tradition as shusho-itto, practice and realization are one — makes the same claim structurally: the path is not a means to the goal; the path is the goal, already, in each step ([Dogen, Bendowa, Maitri Retreats](https://www.maitri-retreats.com/post/practice-and-realization-are-one)). The couple saving "real life" for retirement is doing the same thing the student does who waits for the enlightenment to arrive before considering themselves on the path.
 
-**Plain words** There is no arrival other than the walking — each step is the destination. Live the question, walk the path; don't defer life to the end of it. The finish line is a nice place to visit; it's a terrible place to live.
+> "To wash the dishes is to wash the dishes. There are two ways to wash the dishes. The first is to wash the dishes in order to have clean dishes. The second is to wash the dishes in order to wash the dishes." (Thich Nhat Hanh, The Miracle of Mindfulness, [Archive.org](https://archive.org/details/miracleofmindful00thich))
 
-*For example:* The couple saving 'real life' for retirement — versus the one picnicking badly on a Tuesday. Only one of them is going somewhere.
+**Plain words** The finish line is a nice place to visit and a terrible place to live. Most people defer life to the end of a project that, once finished, produces the next project — and the deferral is the actual mistake, not the project. Walking the path is not what you do to get to the destination; walking the path is the only thing that is actually happening, and the destination is a story you are telling yourself about a version of the walking you have not done yet.
+
+*For example:* Two couples both have the same long-term plan. One saves "real life" for retirement and lives in a waiting room for thirty years. The other picnics badly on a Tuesday — same plan, same savings, same future — and is going somewhere. Only one of them is on the path; the other is waiting for it to start.
 
 ## Psychology parallels
 
