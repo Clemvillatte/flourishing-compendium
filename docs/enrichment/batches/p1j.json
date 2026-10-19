@@ -14,11 +14,12 @@
   "D165",
   "D180",
   "P016",
-  "P026"
+  "P026",
+  "P039"
  ],
- "in_progress": "P039",
+ "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-19T13:33:22+00:00"
+ "updated": "2026-10-19T13:33:29+00:00"
 }
