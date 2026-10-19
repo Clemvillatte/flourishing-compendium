@@ -429,7 +429,7 @@
   {
    "target": "content/concepts/Emergence.md",
    "concept": "Creative evolution",
-   "why": "the new arising from the old, the scientific face of creation"
+   "why": "the new arising from the old, a paired scientific concept"
   },
   {
    "target": "content/concepts/Creative advance.md",
@@ -474,7 +474,7 @@
   {
    "target": "content/concepts/Sympathy.md",
    "concept": "Empathic understanding",
-   "why": "feeling for, the companion that keeps the as if"
+   "why": "feeling for the other, the compendium's paired concept"
   },
   {
    "target": "content/concepts/Deep listening.md",
@@ -494,7 +494,7 @@
   {
    "target": "content/concepts/Compassion.md",
    "concept": "Empathic understanding",
-   "why": "empathy that has taken responsibility for the other"
+   "why": "concern for the other's welfare, a paired concept"
   },
   {
    "target": "content/concepts/Acceptance.md",
@@ -504,7 +504,7 @@
   {
    "target": "content/concepts/Experiential learning.md",
    "concept": "Experience plus reflection",
-   "why": "the pedagogy built on this formula"
+   "why": "the pedagogy the compendium pairs with it"
   },
   {
    "target": "content/concepts/Deliberate practice.md",
@@ -529,17 +529,17 @@
   {
    "target": "content/concepts/Habit.md",
    "concept": "Experience plus reflection",
-   "why": "what reflection consolidates"
+   "why": "Dewey's other great concept, paired here"
   },
   {
    "target": "content/concepts/Habituation.md",
    "concept": "Experience plus reflection",
-   "why": "the training side of the same economy"
+   "why": "how dispositions are trained, a paired concept"
   },
   {
    "target": "content/concepts/Growth mindset.md",
    "concept": "Experience plus reflection",
-   "why": "the belief that experience is still open"
+   "why": "the belief that capacities are not yet finished"
   },
   {
    "target": "content/concepts/Expression as construction.md",
@@ -564,7 +564,7 @@
   {
    "target": "content/concepts/Anger.md",
    "concept": "Express by shaping, not venting",
-   "why": "the emotion most often vented and least often shaped"
+   "why": "the emotion studied in the venting experiment"
   },
   {
    "target": "content/concepts/The dignity of self-expression.md",
@@ -589,7 +589,7 @@
   {
    "target": "content/concepts/Self-regulation.md",
    "concept": "Heart rate variability theory",
-   "why": "the capacity the theory measures"
+   "why": "the capacity the model indexes"
   },
   {
    "target": "content/concepts/Equanimity.md",
@@ -604,17 +604,7 @@
   {
    "target": "content/concepts/Expressive suppression versus reappraisal.md",
    "concept": "Heart rate variability theory",
-   "why": "the emotion-regulation strategies HRV tracks"
-  },
-  {
-   "target": "content/concepts/Wu wei.md",
-   "concept": "Heart rate variability theory",
-   "why": "regulation without forcing, the Daoist cousin"
-  },
-  {
-   "target": "content/concepts/Right concentration.md",
-   "concept": "Heart rate variability theory",
-   "why": "the collected mind, a contemplative cousin"
+   "why": "the emotion-regulation strategies studied alongside it"
   },
   {
    "target": "content/concepts/Self-determination.md",
@@ -629,27 +619,17 @@
   {
    "target": "content/concepts/Autonomy.md",
    "concept": "Identified versus introjected motivation",
-   "why": "the need whose support moves motives along the continuum"
+   "why": "the need whose support facilitates internalization"
   },
   {
    "target": "content/concepts/Locus of control.md",
    "concept": "Identified versus introjected motivation",
-   "why": "the perceived source of causality, introjection's tell"
+   "why": "Rotter's cousin construct: expectancies about outcomes rather than reasons for action"
   },
   {
    "target": "content/concepts/Flow.md",
    "concept": "Identified versus introjected motivation",
    "why": "engagement when the motive has disappeared into the activity"
-  },
-  {
-   "target": "content/concepts/Habit.md",
-   "concept": "Identified versus introjected motivation",
-   "why": "the settled form a regulation can take once owned"
-  },
-  {
-   "target": "content/concepts/Growth mindset.md",
-   "concept": "Identified versus introjected motivation",
-   "why": "valuing the process, a friendly identified motive"
   },
   {
    "target": "content/concepts/Self-efficacy.md",
@@ -659,7 +639,7 @@
   {
    "target": "content/concepts/Identified versus introjected motivation.md",
    "concept": "Locus of control",
-   "why": "introjection's external perceived locus"
+   "why": "the SDT cousin construct about reasons for acting"
   },
   {
    "target": "content/concepts/The dichotomy of control.md",
@@ -667,14 +647,9 @@
    "why": "the Stoic form of the same sorting"
   },
   {
-   "target": "content/concepts/Autonomy.md",
-   "concept": "Locus of control",
-   "why": "the need whose support shifts the locus"
-  },
-  {
    "target": "content/concepts/Growth mindset.md",
    "concept": "Locus of control",
-   "why": "believing outcomes track effort"
+   "why": "the belief that abilities grow with effort"
   },
   {
    "target": "content/concepts/Control theory of self-regulation.md",
@@ -685,6 +660,31 @@
    "target": "content/concepts/Wu wei.md",
    "concept": "Locus of control",
    "why": "acting where the leverage is"
+  },
+  {
+   "target": "content/concepts/Wu wei.md",
+   "concept": "Heart rate variability theory",
+   "why": "non-forcing, a Daoist pairing"
+  },
+  {
+   "target": "content/concepts/Right concentration.md",
+   "concept": "Heart rate variability theory",
+   "why": "the collected mind, a contemplative pairing"
+  },
+  {
+   "target": "content/concepts/Habit.md",
+   "concept": "Identified versus introjected motivation",
+   "why": "the compendium's companion concept on settled action"
+  },
+  {
+   "target": "content/concepts/Growth mindset.md",
+   "concept": "Identified versus introjected motivation",
+   "why": "the compendium's companion concept on ability beliefs"
+  },
+  {
+   "target": "content/concepts/Autonomy.md",
+   "concept": "Locus of control",
+   "why": "SDT's basic need, the compendium's companion construct"
   }
  ],
  "notes": "continues after lead applied the first proposals file (moved to applied/)"

@@ -11,7 +11,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 ### The tremendous push
 
-The engine is the élan vital, the vital impulse. The book's most famous image: "All the living hold together, and all yield to the same tremendous push. The animal takes its stand on the plant, man bestrides animality, and the whole of humanity, in space and in time, is one immense army galloping beside and before and behind each of us in an overwhelming charge able to beat down every resistance and clear the most formidable obstacles, perhaps even death" ([Creative Evolution, Mitchell translation](https://archive.org/stream/creativeevolutio00berguoft/creativeevolutio00berguoft_djvu.txt)). The impulse is not a blueprint at the end of the process: if life has a telos, the encyclopedia's account notes, Bergson places it at the origin, not the end ([SEP](https://plato.stanford.edu/entries/bergson/)).
+The engine is the élan vital, the vital impulse. One image runs through the book: "All the living hold together, and all yield to the same tremendous push. The animal takes its stand on the plant, man bestrides animality, and the whole of humanity, in space and in time, is one immense army galloping beside and before and behind each of us in an overwhelming charge able to beat down every resistance and clear the most formidable obstacles, perhaps even death" ([Creative Evolution, Mitchell translation](https://archive.org/stream/creativeevolutio00berguoft/creativeevolutio00berguoft_djvu.txt)). The impulse is not a blueprint at the end of the process: if life has a telos, the encyclopedia's account notes, Bergson places it at the origin, not the end ([SEP](https://plato.stanford.edu/entries/bergson/)).
 
 ### Duration means invention
 
@@ -19,11 +19,11 @@ The metaphysical root is duration. "The more we study the nature of time, the mo
 
 ### In the compendium
 
-P095's expecting genuine novelty and P006's creativity as the ultimate principle are direct translations of the book's central claim. P043's vary, select, retain is the evolutionary method made practical, CO002's two modes of thinking pairs the intuition-intellect contrast with fast and slow cognition, and P094's intuition principle keeps his method alive. The book made Bergson the intellectual celebrity of the 1910s, drew a Church condemnation in 1914, and preceded the Nobel Prize in Literature in 1928 ([SEP](https://plato.stanford.edu/entries/bergson/)).
+P095's expecting genuine novelty and P006's creativity as the ultimate principle are the compendium's translations of the book's central claim. P043's vary, select, retain is a practical method the compendium pairs with evolution's logic, CO002's two modes of thinking is a pairing with Bergson's intuition-intellect contrast — his philosophical distinction, not an anticipation of psychological fast and slow processing — and P094's intuition principle is the compendium's homage to his method. The book made Bergson the intellectual celebrity of the 1910s, and its ideas still structure the compendium's process philosophy pairing, Creative advance ([SEP](https://plato.stanford.edu/entries/bergson/)).
 
 ## Related concepts
 
-- [[Emergence]] — the new arising from the old, the scientific face of creation
+- [[Emergence]] — the new arising from the old, a scientific concept the compendium pairs with creation
 - [[Creative advance]] — Whitehead's process philosophy, the compendium's cousin account
 - [[Flow]] — absorption in making, creativity's everyday face
 - [[Curiosity]] — exploration, the forward-leaning posture of the élan
@@ -35,6 +35,7 @@ P095's expecting genuine novelty and P006's creativity as the ultimate principle
 
 - [Henri Bergson, Creative Evolution (1911), Arthur Mitchell translation, Internet Archive full text](https://archive.org/stream/creativeevolutio00berguoft/creativeevolutio00berguoft_djvu.txt)
 - [SEP, "Henri Bergson"](https://plato.stanford.edu/entries/bergson/)
+
 
 [[CO002 — Recognise the two systems (or modes) of thinking — fast intuition and slow analysis]]
 [[P086 — Channel the creative impulse]]
