@@ -8,11 +8,18 @@
   "P105",
   "P123",
   "P130",
-  "P147"
+  "P147",
+  "P184"
  ],
- "in_progress": "P184",
+ "in_progress": null,
  "flagged": {},
- "missing_concepts": [],
- "sources_checked": 22,
- "updated": "2026-10-19T14:52:47+00:00"
+ "missing_concepts": [
+  {
+   "title": "Deny yourself, take up the daily practice",
+   "seed": "Growth through practice",
+   "why": ""
+  }
+ ],
+ "sources_checked": 26,
+ "updated": "2026-10-19T14:53:47+00:00"
 }

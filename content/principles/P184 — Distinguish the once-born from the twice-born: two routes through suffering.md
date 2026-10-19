@@ -12,18 +12,24 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 184** — Distinguish the once-born from the twice-born: two routes through suffering
 
-There are two routes to peace. The once-born, constitutionally healthy-minded, live in a one-storied world where the good is attended to and evil is not dwelt on. The twice-born must pass through a divided self before they reach a deeper stability: the world is double-storied, natural good is insufficient, and peace comes after a kind of collapse and reorganization. James is explicit that most people are mixtures and that neither route is superior. Do not impose the once-born's route on someone in the second.
+James contrasts religious confidence that begins with life's goodness with peace sought through confronting suffering and inner conflict. He calls the extremes once-born and twice-born, while describing actual people as intermediate varieties and mixtures (The Varieties of Religious Experience, 1902, VIII, [text](https://ccel.org/ccel/james/varieties.ix.html)).
 
-(James, The Varieties of Religious Experience, 1902.)
+> "No two of us have identical difficulties, nor should we be expected to work out identical solutions." (James, The Varieties of Religious Experience, XX, [text](https://ccel.org/ccel/james/varieties/varieties.xvii.html))
 
-**Plain words** The once-born live in a one-storied world where evil is not dwelt on; the twice-born must pass through a divided self before they reach a deeper stability — collapse, then reorganization. Most people need both routes at different seasons.
+James does make a judgment: he calls the twice-born outlook wider and more complete, while allowing each temperament its route to religious peace (XX, note 324, [text](https://ccel.org/ccel/james/varieties/varieties.xvii.html)). The compendium's refusal to rank people's worth by their suffering is a practical stance, not a quotation of that judgment.
 
-*For example:* 'Just think positive!' — helpful for the once-born, cruel to someone mid-collapse-and-reorganization. The twice-born person's peace comes AFTER the fall, and the cheerleading just delays it. Ask which house you're in before handing out maps.
+### Plain words
+
+Ask what someone is experiencing before recommending the approach that helped you. The compendium uses James's contrast as a prompt for listening, without treating it as a diagnosis or requiring anyone to suffer before they can develop.
+
+### For example
+
+Imagine a friend saying that familiar reassurances no longer help. Ask what has become difficult and what support they want, rather than assigning them a type. The conversation need not produce a story of growth or a prediction about recovery.
 
 ## Psychology parallels
 
-- **Temperament and positive affectivity**, baseline affect is partly heritable (conceptual parallel; Tellegen et al., 1988)
-- **Post-traumatic growth**, distress can precede reorganization (conceptual parallel; Tedeschi and Calhoun, 2004)
+- **Temperament**: a twin study estimated genetic contributions to personality differences; it did not test James's religious types ([Tellegen et al., 1988, abstract](https://pubmed.ncbi.nlm.nih.gov/3397862/)).
+- **Post-traumatic growth**: Tedeschi and Calhoun propose an account of positive changes through struggling with crises, a comparison rather than evidence for James's typology ([2004, abstract](https://www.tandfonline.com/doi/abs/10.1207/s15327965pli1501_01)).
 
 ## Philosophy parallels
 
