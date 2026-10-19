@@ -6,7 +6,7 @@ title: "Life is freedom inserting itself into necessity"
 file: "P192 — Life is freedom inserting itself into necessity"
 tags: ["pragmatism", "topic/agency", "topic/meaning", "bergson"]
 discipline: "Pragmatism"
-number: "192"
+number: 192
 navigation: {"track": "philosophy", "primaryPath": ["NAV-PHILOSOPHY", "NAV-PHIL-PRAG"], "alternatePaths": []}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist and Process Principles", "chapter": "P-S09 — LAYER IX — EMBODIMENT, NATURE, AND WORLD-PARTICIPATION", "parent": ""}
 ---
