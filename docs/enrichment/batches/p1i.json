@@ -26,11 +26,11 @@
   "B052",
   "B060",
   "B130",
-  "P196",
   "P030",
   "P121",
   "P066",
-  "B143"
+  "B143",
+  "P196"
  ],
  "in_progress": null,
  "flagged": {
@@ -43,7 +43,7 @@
   "B060": "Reopened for QC: milestone-25 QC repairs: removed invented psychology/overclaims, fixed locators, re-derived plain words",
   "B143": "Reopened for QC: final QC round 2",
   "B130": "Reopened for QC: final QC repairs",
-  "P196": "Reopened for QC: final QC repairs",
+  "P196": "Reopened for QC: final QC round 2",
   "P030": "Reopened for QC: final QC repairs",
   "P121": "Reopened for QC: final QC repairs"
  },
