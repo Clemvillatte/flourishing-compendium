@@ -12,13 +12,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 162** — Attend to the not-yet-manifest
 
-Handle things while they are still nothing, order them before disorder arises. All mastery is early attention.
+Chapter 64 of the Daodejing opens with four things that are easy: what is at rest is easily held, what has not yet given indications of its presence is easily forestalled, what is brittle is easily broken, what is very small is easily dispersed. The advantage sits entirely on the side of acting early, and the chapter states the rule outright:
+
+> "Action should be taken before a thing has made its appearance; order should be secured before disorder has begun." (Daodejing 64, [Legge](https://www.gutenberg.org/cache/epub/216/pg216.txt))
+
+The same chapter grounds the rule in how things grow: the tree that fills the arms grew from the tiniest sprout, the tower of nine storeys from a small heap of earth, a walk of a thousand li from a single step. By the time a problem is visible it has already been compounding. The chapter adds a warning at the other end: people are constantly ruining their affairs on the eve of success, because they were careful at the beginning and not at the end. Attention to the not-yet-manifest covers both gaps, the one before the problem appears and the one before the finish.
 
 (DDJ 64; Yinfu Jing.)
 
-**Plain words** Handle things while they are still nothing; order them before disorder arises. All mastery is early attention — the whole skill is noticing the smoke before the fire gets a vote. Firefighters are heroes; smoke-noticers are invisible.
+**Plain words**
+Nothing happens when you notice early, which is why most people don't: the reward for heading off a problem is that no one ever sees the problem. The skill is acting on weak signals while the fix is still cheap and unglamorous, and staying watchful to the end, because the last stretch is where attention usually fails.
 
-*For example:* The awkward money talk with a friend while it's still awkward — instead of after it's a friendship-ending amount.
+**For example**
+The awkward money talk with a friend while it is still awkward, instead of after it has become a friendship-ending amount.
+
+## Sources
+
+- [Tao Te Ching, trans. James Legge (Project Gutenberg)](https://www.gutenberg.org/cache/epub/216/pg216.txt) — ch. 64 (all four quoted fragments: ease of the small and unformed, tree/tower/journey, care at the end)
 
 ## Stories
 
