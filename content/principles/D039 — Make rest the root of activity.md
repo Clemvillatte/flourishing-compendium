@@ -12,13 +12,22 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 39** — Make rest the root of activity
 
-The heavy is the root of the light; stillness is the lord of restlessness. Rest seriously: don't run your life on fumes and call it momentum.
+Chapter 26 of the Daodejing gives the principle its terms.
+
+> Gravity is the root of lightness; stillness, the ruler of movement. Therefore a wise prince, marching the whole day, does not go far from his baggage waggons. Although he may have brilliant prospects to look at, he quietly remains (in his proper place), indifferent to them. (Daodejing 26, Legge trans., [Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm))
+
+The prince travels all day while staying near his baggage waggons. The closing warning concerns a ruler who acts lightly and loses his root of gravity (DDJ 26). As a practical application to rest, use the image to plan pauses alongside demanding commitments.
 
 (DDJ 26.)
 
-**Plain words** Rest isn't the absence of work; it's what makes work sustainable. Take it seriously — don't run your life on fumes and call it momentum.
+**Plain words**
+A calendar filled entirely with work leaves rest dependent on a cancellation. Put breaks into the plan when you put the work in, instead of hoping space will appear later.
 
-*For example:* The musician who rests before the concert plays better than the one who rehearsed until their hands shook — recovery is part of the performance.
+*For example:* Imagine a musician planning a demanding rehearsal week. Reserve an evening without rehearsals before adding extra sessions.
+
+## Sources
+
+- [Laozi, Daodejing 26, Legge translation, Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm) — full chapter text
 
 ## Practice kernels
 
