@@ -7,7 +7,8 @@
   "D073",
   "D075",
   "D008",
-  "D018"
+  "D018",
+  "D023"
  ],
  "in_progress": null,
  "flagged": {
@@ -17,9 +18,10 @@
   "D073": "inherited psychology-parallels claims (Kahneman & Tversky 1979 planning fallacy wording; plan-then-adapt research summary) not verified against opened sources; flagged for supervisor",
   "D075": "NEXT ITEM for the p1e successor: D075 (Daoist, on plain-words replicate list); then D008, D018, D023, D045, D065; established sources: Legge DDJ via Gutenberg cache/epub/216 (raw text verified), Legge Zhuangzi via ETH Zurich PDF (pypdf)",
   "D008": "inherited psychology-parallels claims (Yaden et al. 2017 self-transcendent experiences; Keltner and Haidt 2003) not verified against opened sources; flagged for supervisor",
-  "D018": "inherited psychology-parallels claims (Amabile and Kramer 2011 progress principle; developmental timing) not verified against opened sources; flagged for supervisor"
+  "D018": "inherited psychology-parallels claims (Amabile and Kramer 2011 progress principle; developmental timing) not verified against opened sources; flagged for supervisor",
+  "D023": "inherited psychology-parallels claim (Shapiro et al. 2006 reperceiving) not verified against an opened source; flagged for supervisor"
  },
  "missing_concepts": [],
  "sources_checked": 2,
- "updated": "2026-10-19T12:04:24+00:00"
+ "updated": "2026-10-19T12:04:47+00:00"
 }

@@ -59,3 +59,11 @@ Advisor QC (2026-10-19): quotes verified (BQ1 ch. 22 sentence, BQ2 ch. 68 verse 
 - Inherited, NOT opened/verified: Amabile & Kramer 2011 psychology-parallels claim — flagged in the band state file.
 - Saturation: The progress principle concept cites D018; no justified new proposals.
 - Validator: ok, prose 165 words; no wikilink changes; protected fields untouched.
+
+## D023 — Unlearn daily (done; no advisor QC per speed directive, item 8)
+
+- Opened: DDJ 20, 48 (Legge, Gutenberg raw text, already counted; batch research). Verified verbatim: "He who devotes himself to learning (seeks) from day to day to increase (his knowledge); he who devotes himself to the Tao (seeks) from day to day to diminish (his doing)." (DDJ 48, blockquote); "The many men are so happy and exultant, as if enjoying a full feast, or going up to a terrace in spring." (DDJ 20, inline fragment).
+- D023 was on the plain-words replicate list; replicate Plain words replaced (old version copied the body's own sentences).
+- Inherited, NOT opened/verified: Shapiro et al. 2006 claim — flagged in the band state file.
+- Saturation: Decentering concept cites D023; no justified new proposals.
+- Validator: ok, prose 166 words; no wikilink changes; protected fields untouched.
