@@ -111,23 +111,27 @@ def main():
                 continue
             m = re.search(r'^##\s*Related concepts\s*$', e['body'], re.M)
             if m:
-                sec = e['body'][m.end():]
-                block = re.split(r'^##\s', sec, flags=re.M)
-                target = block[0]
+                # boundary-preserving slice: only the section content is touched,
+                # everything from the next '## ' heading to EOF stays byte-identical
+                sec_start = m.end()
+                nxt = re.search(r'^##\s', e['body'][sec_start:], re.M)
+                if nxt:
+                    target = e['body'][sec_start:sec_start + nxt.start()]
+                    suffix = e['body'][sec_start + nxt.start():]
+                else:
+                    target = e['body'][sec_start:]
+                    suffix = ""
+                if f"[[{link}]]" in target:
+                    stats['skipped'] += 1
+                    continue
                 newtarget = target.rstrip('\n')
-                if not target.strip():
-                    newtarget = "\n"
-                if newtarget and not newtarget.startswith("\n"):
+                if newtarget:
                     newtarget = "\n" + newtarget
-                if f"[[{link}]]" not in target:
-                    if newtarget.strip() and not newtarget.endswith("\n"):
-                        newtarget += "\n"
-                    if newtarget == "\n":
-                        newtarget = f"\n- [[{link}]] — {why}\n"
-                    else:
-                        newtarget += f"- [[{link}]] — {why}\n"
-                    e['body'] = e['body'][:m.end()] + newtarget + "".join(block[1:])
-                    stats['recip'] += 1
+                    newtarget += f"\n- [[{link}]] — {why}\n"
+                else:
+                    newtarget = f"\n- [[{link}]] — {why}\n"
+                e['body'] = e['body'][:sec_start] + newtarget + suffix
+                stats['recip'] += 1
             else:
                 ms = re.search(r'^##\s*Sources\s*$', e['body'], re.M)
                 if not ms:

@@ -11,15 +11,15 @@ Care is the practice of responding to need: attention, feeling and action bent t
 
 ### Noddings's phenomenology
 
-The one-caring is first of all attentive. Noddings calls this engrossment, an "open, nonselective receptivity to the cared-for," and pairs it with motivational displacement: "my motive energy flows toward the other," toward the other's needs and projects rather than my own ([Noddings, Caring](https://www.uvm.edu/~rgriffin/NoddingsCaring.pdf)). The relation is completed in the other: the cared-for receives and responds in some detectable way, and only then is there a caring relation. She distinguishes natural caring (I want to care, as in loving a friend) from ethical caring (I must care, summoned by the other's need), and caring-for, the face-to-face encounter, from caring-about, concern for those at a distance.
+The one-caring is first of all attentive. Noddings calls this engrossment, an "open, nonselective receptivity to the cared-for" (Noddings 2005, p. 15, as [quoted in care-ethics scholarship](https://pmc.ncbi.nlm.nih.gov/articles/PMC10425473/)), and pairs it with motivational displacement: "my motive energy begins to flow toward the needs and wants of the cared-for" ([Noddings, "Caring and Education"](https://www.uvm.edu/~rgriffin/NoddingsCaring.pdf)). In her account the relation is completed in the other: the cared-for receives and responds in some detectable way, and only then is there a caring relation. She distinguishes natural caring (I want to care, as in loving a friend) from ethical caring (I must care, summoned by the other's need), and caring-for, the face-to-face encounter, from caring-about, concern for those at a distance.
 
 ### Care as the being of the human
 
-Heidegger gave the word an ontological job. Sorge (care) is the being of Dasein: ahead of itself, already in a world, alongside things and people (Being and Time §41, [in translation](http://www.beyng.com/pages/en/BeingandTimeMR/BeingandTimeMR.228.html)). In this structure, care for things (Besorgen) and solicitude for people (Fürsorge) are modes of a basic way of being, not feelings added to it, and the meaning of care, he argues, is temporality. The compendium's seed line for the page is that formula: the human being has the origin of its being in care.
+Heidegger gave the word an ontological job. Sorge (care) is the being of Dasein: ahead of itself, already in a world, alongside things and people (Being and Time §41; ["care is the being-mode of Dasein"](https://philopedia.org/terms/sorge/)). In this structure, care for things (Besorgen) and solicitude for people (Fürsorge) are modes of a basic way of being, not feelings added to it, and the meaning of care, he argues, is temporality. The ontological sense is not the ethical one: Heidegger's care describes the structure of existence, and is not equivalent to Noddings's caring relation or a recommendation to behave benevolently.
 
 ### In the compendium
 
-Care runs through the R-track's relational practices (R027 manaakitanga, R084 Levinasian infinite responsibility) and through friendship and loving-kindness (A065 wishing the friend's good for the friend's own sake, B097 wishing well starting with yourself). Ubuntu and care ethics meet in the wiki's insistence that responding to need is a relation, not a transaction.
+Care runs through the R-track's relational practices (R027 manaakitanga, R084 Levinasian infinite responsibility) and through friendship and loving-kindness (A065 wishing the friend's good for the friend's own sake, B097 wishing well starting with yourself). Ubuntu and care ethics meet in the wiki's insistence that responding to need is a relation, not a transaction. The open question the page leaves the essayist: what should count as care when someone cannot acknowledge it, or when the need is distant?
 
 ## Related concepts
 
@@ -35,8 +35,10 @@ Care runs through the R-track's relational practices (R027 manaakitanga, R084 Le
 ## Sources
 
 - [IEP, Feminine and Feminist Ethics (care ethics section)](https://iep.utm.edu/care-ethics/) — Noddings's two parties and stages
-- [Nel Noddings, Caring (1984)](https://www.uvm.edu/~rgriffin/NoddingsCaring.pdf) — engrossment and motivational displacement in her own words
-- [Heidegger, Being and Time, Division I chapter 6 (§§39-44)](http://www.beyng.com/pages/en/BeingandTimeMR/BeingandTimeMR.228.html) — care as the being of Dasein
+- [Nel Noddings, "Caring and Education"](https://www.uvm.edu/~rgriffin/NoddingsCaring.pdf) — engrossment and motivational displacement in her own words
+- [Care-ethics scholarship quoting Noddings 2005, p. 15](https://pmc.ncbi.nlm.nih.gov/articles/PMC10425473/) — "open, nonselective receptivity to the cared-for"
+- [Sorge, in Philopedia](https://philopedia.org/terms/sorge/) — "care is the being-mode of Dasein," Being and Time §41
+- [Peter N. Miller, "Heidegger on Care"](https://exhibitions.bgc.bard.edu/cam/files/2022/03/Peter-N.-Miller_Heidegger-on-Care.pdf) — §41 analysis and the Besorgen/Fürsorge structure
 - Carried from the seed: Noddings, Caring; Heidegger, Being and Time; Tronto, Caring Democracy; Puig de la Bellacasa, Matters of Care; Buber, I and Thou; Levinas, Totality and Infinity; Aristotle, Nicomachean Ethics; Marcus Aurelius, Meditations; Montaigne, Essays; Foucault, The History of Sexuality; Seneca, On the Shortness of Life
 
 ## Cited in philosophy parallels
