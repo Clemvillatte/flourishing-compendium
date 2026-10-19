@@ -26,9 +26,9 @@ In these, affection is adjusted rather than matched: "the better of the two part
 
 ### Which equality counts
 
-Aristotle distinguishes friendship's equality from justice's: in friendship, equal quantity of affection comes first and proportion to desert second (1158b). That is why wide disparity dissolves it: when friends differ greatly in virtue or wealth, "they no longer remain nor indeed expect to remain friends" (1158b).
+Aristotle distinguishes friendship's equality from justice's: in friendship, he treats "equal in quantity" as the primary sense of equality and "proportionate to desert" as a secondary sense (1158b). That is why wide disparity dissolves it: when friends differ greatly in virtue or wealth, "they no longer remain nor indeed expect to remain friends" (1158b).
 
-**Plain words** Real friendship needs a kind of equality: in goodwill and in giving and receiving, more than in status or money. Unequal friendships, like parent and child, can work if the affection fits the distance. Look for mutuality in your closest ones.
+**Plain words** Take the friendship where one side always listens and the other always talks. Nothing on paper says unequal; the balance of affection does. Aristotle's rule for parents and children: the affection can be unequal, so long as each side gives what fits the other's claim. The daily question is whether the give and take still lands.
 
 *For example:* A friendship where one person always listens and the other always talks has drifted from the real thing, whatever the title says.
 

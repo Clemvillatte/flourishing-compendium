@@ -71,10 +71,15 @@
   "A108": "Reopened for QC: QC correction: advisor consistency round",
   "AT050": "Reopened for QC: QC correction: advisor consistency round",
   "B146": "Reopened for QC: QC correction: milestone review",
-  "E004": "Reopened for QC: QC correction: advisor consistency round"
+  "E004": "Reopened for QC: QC correction: advisor consistency round",
+  "S010": "Reopened for QC: QC correction: milestone review round 2",
+  "A038": "Reopened for QC: QC correction: milestone review round 2",
+  "A067": "Reopened for QC: QC correction: milestone review round 2",
+  "A071": "Reopened for QC: QC correction: milestone review round 2",
+  "A072": "Reopened for QC: QC correction: chapter IX.10 attribution; milestone round 2"
  },
  "missing_concepts": [],
  "sources_checked": 18,
- "updated": "2026-10-19T13:52:07+00:00",
+ "updated": "2026-10-19T13:55:28+00:00",
  "band_done": false
 }

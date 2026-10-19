@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 71** — Recognise that self-love is the foundation
 
-Aristotle distinguishes two forms of self-love: the lower form (seeking external goods, honours, pleasures for oneself) and the higher form (seeking nobility, virtue, and the good for oneself). The higher self-love is the foundation of all friendship and virtue.
+Aristotle distinguishes two forms of self-love: the lower (seeking money, honours and pleasures for oneself) and the higher (seeking moral nobility for oneself). Even self-sacrifice can belong to the higher kind: what the giver takes is nobility.
 
 (NE IX.8.)
 
@@ -20,13 +20,13 @@ Aristotle distinguishes two forms of self-love: the lower form (seeking external
 
 Aristotle first takes the common reproach and names what it refers to: "Those then who make it a term of reproach call men lovers of self when they assign to themselves the larger share of money, honors, or bodily pleasures" ([NE IX.8, 1168b, Rackham trans.](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abekker+page%3D1168b)). Then he turns the word over:
 
-> "If a man were always bent on outdoing everybody else in acting justly or temperately or in displaying any other of the virtues, and in general were always trying to secure for himself moral nobility, no one will charge him with love of self nor find any fault with him. Yet as a matter of fact such a man might be held to be a lover of self in an exceptional degree. At all events he takes for himself the things that are noblest and most truly good." — Aristotle, NE IX.8, 1168b (H. Rackham trans., Perseus)
+> "For if a man were always bent on outdoing everybody else in acting justly or temperately or in displaying any other of the virtues, and in general were always trying to secure for himself moral nobility, no one will charge him with love of self nor find any fault with him. Yet as a matter of fact such a man might be held to be a lover of self in an exceptional degree. At all events he takes for himself the things that are noblest and most truly good." — Aristotle, NE IX.8, 1168b (H. Rackham trans., Perseus)
 
 ### How far the higher kind goes
 
 It ends, on his account, in what looks like its opposite: "the virtuous man's conduct is often guided by the interests of his friends and of his country, and that he will if necessary lay down his life in their behalf... And this is doubtless the case with those who give their lives for others; thus they choose great nobility for themselves" ([1169a](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abekker+page%3D1169a)). Even the sacrifice is self-love of the higher kind: what the giver takes is nobility.
 
-**Plain words** There are two kinds of self-love. The low kind chases honours and pleasures for yourself. The higher kind wants nobility and virtue for yourself. Aristotle says the higher one is the root of friendship and virtue.
+**Plain words** Loving yourself well and looking out for number one sound like the same thing. Aristotle splits them: taking the larger share of money, honours and pleasure is the bad kind; taking for yourself the noblest things is the good kind. The test question is which share you are reaching for.
 
 *For example:* Wanting to be someone people can trust, even when it costs you a deal, is the higher kind. Wanting the deal at any price is the lower.
 

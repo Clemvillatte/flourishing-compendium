@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 132** — Practise oikeiosis: appropriate self-love
 
-The Stoic doctrine of oikeiosis holds that every animal has a natural affinity for its own preservation and well-being. In humans, this extends from self-preservation to self-knowledge to concern for others. You do not need to suppress self-interest; you need to extend it. Begin with care for your own reason and virtue, then extend it to family, community, and all humanity.
+The Stoic doctrine of oikeiosis holds that every animal has a natural affinity for its own preservation and well-being. In humans, care for self and the common good are bound together: on the Stoic telling, a person attains nothing of his own good without contributing to the common interest. Look after your own reason and virtue; that is the base, not an exception to it.
 
 (Disc. I.19; Cicero, De Finibus III.16-18; Hierocles, fragments.)
 
@@ -26,12 +26,11 @@ His proof is infant behaviour: babies "desire things conducive to their health a
 
 ### How self-love widens
 
-Epictetus keeps the self-interest and turns it outward. Even Zeus does everything for his own sake, yet "he cannot achieve these works, or win these appellations, unless he proves himself useful to the common interest"; in general, "he can attain nothing of his own proper goods unless he contributes something to the common interest" (Disc. I.19, [Oldfather trans., owner's primary-source library](https://drive.google.com/file/d/1EDkL63FuSpabjbB7amxNodYocj_q_vaH/view)). On this telling, the widening circle is how a rational animal's own good is attained at all.
+Epictetus keeps the self-interest and turns it outward. Even Zeus does everything for his own sake, yet "he cannot achieve these works, or win these appellations, unless he proves himself useful to the common interest" (Disc. I.19, [Oldfather trans., owner's primary-source library](https://drive.google.com/file/d/1EDkL63FuSpabjbB7amxNodYocj_q_vaH/view)). And Epictetus says Zeus has constituted rational human nature so that a person "can attain nothing of his own proper goods unless he contributes something to the common interest" (Disc. I.19). On this telling, the widening circle is how a rational animal's own good is attained at all.
 
-**Plain words**
-A newborn reaches for what keeps it alive before it knows what pleasure is. That is the base the Stoics build on: you already care for yourself, and the caring is built to widen. Look after your own reason and health first; the widening depends on that base.
+**Plain words** The Stoics argue from the cradle: a newborn, they say, reaches for what keeps it alive before it ever feels pleasure, so self-care is built in. Their second move is the one to keep: a person's own good and the common good arrive together. Looking after your own reason and health is the base, not an escape from the shared project.
 
-*For example:* Looking after your own sleep and sanity so you can show up for your children isn't selfish. It's the first ring of the widening circle.
+*For example:* Looking after your own sleep and sanity so you can show up for your children is the Stoic base, not selfishness.
 
 ## Sources
 

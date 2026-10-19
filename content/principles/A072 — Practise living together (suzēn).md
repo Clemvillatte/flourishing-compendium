@@ -14,23 +14,25 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 
 Friendship is shared life rather than affection alone. Friends live together, share activities, eat together, talk together, work together. The deepest friendship is the one that becomes a shared form of life. Invest in shared activity, more than in shared feeling.
 
-(NE VIII.5, IX.12.)
+(NE VIII.5, IX.10.)
 
 ### What friendship's activity is
 
-The definition is blunt: "to live together is the chief mark of friendship" ([NE IX.12, 1171a, Rackham trans.](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abekker+page%3D1171a)). And Aristotle gives the practical reason shared activity comes first: "it is impossible for men to spend their time together unless they give each other pleasure, or have common tastes" ([NE VIII.5, 1157b](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abekker+page%3D1157b)).
+> "...to live together is the chief mark of friendship, but it is quite clear that it is not possible to live with and to share oneself among a large number of people." — Aristotle, NE IX.10, 1171a (H. Rackham trans., [Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abekker+page%3D1171a))
+
+And Aristotle notes what time together runs on: "it is impossible for men to spend their time together unless they give each other pleasure, or have common tastes" ([NE VIII.5, 1157b](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abekker+page%3D1157b)).
 
 ### Why the circle stays small
 
-Aristotle caps the quantity without sentimentality: "it is quite clear that it is not possible to live with and to share oneself among a large number of people", so "it is a good rule not to seek to have as many friends as possible, but only as many as are enough to form a circle of associates", since "warm friendship is only possible with a few" (IX.12, 1171a). The Sunday cooking, done badly, is the point: living together is the activity friendship is, and it does not scale.
+Aristotle caps the quantity without sentimentality: "Perhaps therefore it is a good rule not to seek to have as many friends as possible, but only as many as are enough to form a circle of associates", since "warm friendship is only possible with a few" (IX.10, 1171a). The Sunday cooking, done badly, is the point: living together is the chief mark, and warm friendship is possible with only a few.
 
-**Plain words** Friendship isn't only affection. It's a shared life: eating, talking, working together. The deepest kind becomes a way of living. So put time into doing things together rather than only feeling warmly about each other.
+**Plain words** Affection is the cheap part; anyone can feel warmly from a distance. The suzēn test is calendars: who do you actually eat, talk and work with, week to week? That small circle is the friendship; the feelings ride on it.
 
 *For example:* Friends who cook together every Sunday, even badly, build more than friends who text "we should catch up" for years.
 
 ## Sources
 
-- [Aristotle, Nicomachean Ethics IX.12, 1171a (H. Rackham trans., Perseus)](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abekker+page%3D1171a) — living together as the chief mark of friendship; the small circle
+- [Aristotle, Nicomachean Ethics IX.10, 1171a (H. Rackham trans., Perseus)](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abekker+page%3D1171a) — living together as the chief mark of friendship; the small circle
 - [Aristotle, Nicomachean Ethics VIII.5, 1157b (H. Rackham trans., Perseus)](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abekker+page%3D1157b) — common tastes as the bond of comradeship
 
 ## Practice kernels
