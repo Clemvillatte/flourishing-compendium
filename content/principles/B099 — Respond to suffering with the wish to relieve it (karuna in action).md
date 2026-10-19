@@ -12,13 +12,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 99** — Respond to suffering with the wish to relieve it (karuna in action)
 
-Compassion is not drowning in another's pain: it is being moved by it and moved to help. Keep the boundary between feeling for and falling in.
+The Karaṇīya Metta Sutta gives the emotional image behind the response: a mother's protectiveness, extended without limit. The sutta's direction is cultivation: a practice, not a mood ([Karaṇīya Metta Sutta, Sn 1.8, Thanissaro](https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.than.html)).
+
+> As a mother would risk her life to protect her child, her only child, even so should one cultivate a limitless heart with regard to all beings. (Karaṇīya Metta Sutta, Sn 1.8, [Thanissaro](https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.than.html))
+
+Karuna is the suffering-facing half of that limitless heart: moved by pain, and moved to help. The boundary the principle keeps — feeling for rather than falling in — is a boundary the image already makes: the mother protects the child, which requires staying on her feet.
 
 (Karaṇīya Metta Sutta; Shantideva.)
 
-**Plain words** Compassion is not drowning in another's pain — it is being moved by it and moved to help. Keep the boundary between feeling for and falling in. The lifeguard who swims out is calm; the one who panics becomes the second victim.
+**Plain words**
+Sympathy hurts when it has no channel: you feel the pain and can do nothing with it. Compassion is the version with a channel: the feeling gets converted into some smallest useful act, even if the act is only staying present. The boundary is functional: drowning with someone saves no one; staying afloat is what lets you reach them.
 
-*For example:* The ER nurse: fully moved by the patient's fear, fully functional in her own body — that's the boundary, held.
+**For example**
+The ER nurse: fully moved by the patient's fear, fully functional in her own body — that's the boundary, held.
+
+## Sources
+
+- [Karaṇīya Metta Sutta (Sn 1.8), Thanissaro Bhikkhu translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.than.html) — mother simile verified verbatim
 
 ## Stories
 

@@ -120,3 +120,11 @@ Advisor QC (2026-10-19): quotes verified (BQ1 ch. 22 sentence, BQ2 ch. 68 verse 
 - Inherited, NOT opened: Gross 2015 psychology claim; the hindrance-counter pairs attributed to "the five antidotes tradition" in the seed locator — flagged in the band state file.
 - Saturation: Spiritual exercises and Emotion regulation cite B084; The doctrine of the mean does not — one reciprocal proposal added.
 - Validator: ok, prose 198 words; protected fields untouched.
+
+## B099 — Respond to suffering with the wish to relieve it (karuna in action) (done; no advisor QC per speed directive, item 15)
+
+- Opened: Karaṇīya Metta Sutta (Sn 1.8), Thanissaro Bhikkhu translation, Access to Insight (https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.than.html) — accesstoinsight edition already counted; no new increment. Verified verbatim: "As a mother would risk her life to protect her child, her only child, even so should one cultivate a limitless heart with regard to all beings." Note: the older khp.09 URL 404s; snp.1.08 is the working page.
+- B099 was on the plain-words replicate list; replicate Plain words replaced.
+- Inherited, NOT opened: Klimecki et al. 2013, Singer and Klimecki 2014 claims; the Shantideva locator — flagged in the band state file.
+- Saturation: Empathic distress, Bodhicitta, Karuna cite B099; Compassion does not — one reciprocal proposal added.
+- Validator: ok after dash-budget fix; prose ~160 words; protected fields untouched.
