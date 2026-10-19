@@ -129,3 +129,14 @@ staged by the save script).
 - Inherited, NOT opened/verified: psychology-parallels claims (Dweck 2006; McCrae and Costa 1997) — preserved per protocol, flagged for supervisor.
 - Saturation: Growth mindset, Openness, Socratic ignorance, The return to the things themselves already linked (concept pages read in full earlier this session). No justified new proposals.
 - Validator on final: ok; exact-quotation check all OK; protected fields untouched.
+
+## B057 — Choose anchored or open awareness by need (done 2026-10-20; no advisor QC per speed directive, item 12 of session)
+
+- Opened: https://accesstoinsight.org/tipitaka/mn/mn.118.than.html (MN 118 Anapanasati Sutta, trans. Thanissaro Bhikkhu); page saved to /tmp/src-mn118.html for the saved-source quote check. New source this session.
+- Verified verbatim (contiguous): the wilderness/tree/empty-building opening through "setting mindfulness to the fore."; "Always mindful, he breathes in; mindful he breathes out."; "sensitive to the entire body"; "on inconstancy", "on dispassion", "on cessation", "on relinquishment"; "This is how mindfulness of in-&-out breathing is developed & pursued so as to be of great fruit, of great benefit."
+- Quote-fidelity note: the page has a footnote marker between "to the fore." and "Always mindful"; the opening passage is quoted as two contiguous fragments split at the marker (per the E043 precedent).
+- The anchored-or-open reading is scoped in the body as the compendium's application of the sutta's two-part structure (early steps anchor, later steps widen); the sutta does not itself instruct choosing by state.
+- Seed locator note: "Dogen" was an inherited unopened locator and is removed from the locator line (now "(MN 118.)"); recorded here.
+- Inherited, NOT opened/verified: psychology-parallels claim (Lutz et al. 2008 focused-attention vs open-monitoring) — preserved per protocol, flagged for supervisor. ST019/K101/K112 links preserved.
+- Saturation: Sati, Open-monitoring meditation, Attention pages already read in full this session and already link the relevant items. No justified new proposals.
+- Validator on final: ok; exact-quotation check all OK vs the saved page; protected fields untouched.
