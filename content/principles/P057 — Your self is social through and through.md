@@ -12,13 +12,21 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 57** — Your self is social through and through
 
-The self emerges from social process: you become a self by taking the role of others toward yourself. There is no private, pre-social self to protect: only a social achievement to keep growing.
+Mead's core claim, in his own words:
 
-(Mead, Mind, Self and Society, 1934.)
+> "The self is something which has a development; it is not initially there, at birth, but arises in the process of social experience and activity, that is, develops in the given individual as a result of his relations to that process as a whole and to other individuals within that process." (Mead, Mind, Self and Society, §18, [Mead Project edition](https://brocku.ca/MeadProject/Mead/pubs2/mindself/Mead_1934_18.html))
 
-**Plain words** The self emerges from social process — you become a self by taking the role of others toward yourself. There's no private, pre-social self to protect: only a social achievement to keep growing. Even your inner critic speaks a borrowed voice.
+The mechanism is role-taking. "The individual experiences himself as such, not directly, but only indirectly, from the particular standpoints of other individual members of the same social group, or from the generalized standpoint of the social group as a whole to which he belongs" ([§18, ibid.](https://brocku.ca/MeadProject/Mead/pubs2/mindself/Mead_1934_18.html)). You see yourself through others' eyes first: "he becomes an object to himself only by taking the attitudes of other individuals toward himself within a social environment or context of experience and behavior in which both he and they are involved" ([ibid.](https://brocku.ca/MeadProject/Mead/pubs2/mindself/Mead_1934_18.html)). Hence the child playing doctor and patient: the game is the workshop where borrowed viewpoints get organized into a "me." The psychology reaches the same conclusion cross-culturally: "People in different cultures have strikingly different construals of the self, of others, and of the interdependence of the 2. These construals can influence, and in many cases determine, the very nature of individual experience, including cognition, emotion, and motivation" ([Markus & Kitayama 1991](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Influence_Compliance/Markus_Kitayama_1991_Culture_and_the_self.pdf)). If the self is social through and through, the through-and-through reaches down to what feels like basic experience; the compendium's account is [[The social self]].
+
+**Plain words**
+You did not build yourself in private. The voice you argue with in your head uses other people's words; the standards you fail by came off someone's face. That is not a defect, it is how the equipment works. The self is a social achievement, which also makes it a social maintenance problem: the company you keep is the material the self is made from, and new viewpoints can still be added.
 
 *For example:* The child talking to herself while playing both doctor and patient — rehearsing the looking-glass. That's not cute; that's self-construction, live.
+
+## Sources
+
+- [Mead, Mind, Self and Society (1934), §18, The Mead Project, Brock University](https://brocku.ca/MeadProject/Mead/pubs2/mindself/Mead_1934_18.html) — verbatim quotes on self-development and role-taking
+- [Markus & Kitayama, "Culture and the Self: Implications for Cognition, Emotion, and Motivation," Psychological Review 98 (1991) (PDF, MIT)](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Influence_Compliance/Markus_Kitayama_1991_Culture_and_the_self.pdf) — opening claim, verbatim
 
 ## Practice kernels
 
