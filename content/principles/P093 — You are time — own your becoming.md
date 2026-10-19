@@ -12,13 +12,27 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 93** — You are time: own your becoming
 
-Duration is not something you are in; it is something you are — a continuous melting of states into one another. Don't fight your temporality; live from it.
+Bergson's Creative Evolution states what duration is:
+
+> "Duration is the continuous progress of the past which gnaws into the future and which swells as it advances." (Bergson, Creative Evolution, ch. 1, [1911 translation](https://archive.org/stream/creativeevolutio029695mbp/creativeevolutio029695mbp_djvu.txt))
+
+The chapter's ground for that: were duration merely one instant replacing another, there would never be anything but the present, no prolonging of the past into the actual. And it states the consequence for the one who lasts:
+
+> "to exist is to change, to change is to mature, to mature is to go on creating oneself endlessly" (Bergson, Creative Evolution, ch. 1)
+
+The compendium's reading follows from those two passages: the lasting thing is the change itself, and "own your becoming" means accepting the account of yourself as continuous creation rather than fighting to hold a fixed one. The Time and Free Will citation in the locator is inherited and not quoted here.
 
 (Bergson, Time and Free Will, 1889; Creative Evolution, 1907.)
 
-**Plain words** Duration is not something you're in; it's something you are — a continuous melting of states into one another. Don't fight your temporality; live from it. You're not a thing sitting in a river; you're the river pretending, badly, to sit still.
+**Plain words**
+The river picture is right in one way and wrong in another: you are not a thing sitting in a river, and you are not the river pretending to sit still either; you are what the flowing amounts to. Practically, "getting back to who I was" is addressed to an account holder who does not stand still long enough to be gotten back to. The forward question is what the confluence so far is gathering toward.
 
-*For example:* 'Getting back to who I was' — there is no back; there's only the next confluence. The river doesn't revisit its sources; it gathers them forward.
+**For example**
+"Getting back to who I was": there is no back; there is only the next confluence. The river does not revisit its sources; it gathers them forward.
+
+## Sources
+
+- [Henri Bergson, Creative Evolution (1911 English translation; full text, archive.org)](https://archive.org/stream/creativeevolutio029695mbp/creativeevolutio029695mbp_djvu.txt) — ch. 1 (both blockquotes; p. 7 for the duration passage)
 
 ## Stories
 
