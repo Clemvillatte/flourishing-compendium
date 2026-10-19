@@ -20,7 +20,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 ## Related concepts
 
-- [[Narrative identity]] — the interpretive work stories do is the process behind narrative identity
+- [[Narrative identity]]
 
 ## Sources
 

@@ -15,7 +15,7 @@ changing the story changes the experience (White & Epston, 1990).
 
 ## Related concepts
 
-- [[Narrative identity]] — the therapeutic rewriting works on the Ricoeurian story-self
+- [[Narrative identity]]
 
 ## Sources
 
