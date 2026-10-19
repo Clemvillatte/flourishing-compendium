@@ -14,11 +14,11 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 
 The ACT formulation behind this principle defines its target:
 
-> "Psychological flexibility can be defined as contacting the present moment as a conscious human being, fully and without defense, as it is and not as what it says it is, and persisting or changing in behavior in the service of chosen values." (Hayes, [ACT as a Unified Model of Behavior Change](https://www.apa.org/education-career/ce/acceptance-commitment.pdf))
+> "Psychological flexibility can be defined as contacting the present moment as a conscious human being, fully and without defense, as it is and not as what it says it is, and persisting or changing in behavior in the service of chosen values." (Hayes, "Psychological flexibility" section, [ACT as a Unified Model of Behavior Change](https://www.apa.org/education-career/ce/acceptance-commitment.pdf))
 
 The two halves of the principle are the two halves of that definition: contacting what is, without defense, is the acceptance; persisting or changing in the service of chosen values is the commitment. The paper is explicit that acceptance is the counter to experiential avoidance:
 
-> "In ACT the counter to experiential avoidance is acceptance—the active and aware embrace of private experiences without unnecessary attempts to change their frequency or form." (Hayes)
+> "In ACT the counter to experiential avoidance is acceptance—the active and aware embrace of private experiences without unnecessary attempts to change their frequency or form." (Hayes, "Experiential avoidance/acceptance" section)
 
 ACT links willingness to experience difficult thoughts or feelings with action guided by chosen values. Its definition does not require those experiences to disappear before action can begin.
 

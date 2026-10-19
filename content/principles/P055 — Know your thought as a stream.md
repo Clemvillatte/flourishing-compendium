@@ -21,10 +21,10 @@ The chapter's five characters of thought carry the principle's adjectives in Jam
 (James, The Principles of Psychology, 1890.)
 
 **Plain words**
-The old picture was beads on a string, one thought then the next; James's picture is water. The practical difference is in how you can attend: beads can be inspected one at a time, while a stream can only be watched as it goes. Whether watching it changes anything about the thoughts is something to notice, not assume.
+The old picture was beads on a string, one thought then the next; James's picture is water. James's description supports thought as personal, changing and continuous. Whether watching it changes anything about the thoughts is something to notice, not assume.
 
 **For example**
-Notice the experience of reading this sentence: the words arriving one after another, none of them holding still to be examined while the next one comes.
+Read a sentence slowly. Notice what happens to your experience of the earlier words as you reach the later ones. Try pausing or rereading.
 
 ## Sources
 

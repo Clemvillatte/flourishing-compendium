@@ -14,21 +14,21 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 
 Bergson's Matter and Memory argues the body into the middle of things rather than behind them:
 
-> "Situated between the matter which influences it and that on which it has influence, my body is a center of action, the place where the impressions received choose intelligently the path they will follow to transform themselves into movements accomplished." (Bergson, Matter and Memory, [1911 translation](https://attachments.are.na/9493755/6d939210934bd84047a3b1f0efcf15ce.pdf?1605280154))
+> "Situated between the matter which influences it and that on which it has influence, my body is a center of action, the place where the impressions received choose intelligently the path they will follow to transform themselves into movements accomplished." (Bergson, Matter and Memory, ch. III, [1911 translation](https://attachments.are.na/9493755/6d939210934bd84047a3b1f0efcf15ce.pdf?1605280154))
 
-His sharper statement of what the body is not:
+The first chapter's summary of the body's role:
 
-> "My body, an object destined to move other objects, is, then, a center of action; it cannot give birth to a representation." (Bergson, Matter and Memory)
+> "My body, an object destined to move other objects, is, then, a center of action; it cannot give birth to a representation." (Bergson, Matter and Memory, ch. I)
 
-On Bergson's account the body is not a device driven by a pilot; it is the juncture where impressions become movements, always turned toward action. The [[The lived body|lived body]] tradition the page cites (Merleau-Ponty) develops its own account of bodily subjectivity, which this page does not quote.
+The Bergson passages establish a centre of action: the body receives impressions and returns movements, and on his account perception and memory are turned toward action. The [[The lived body|lived body]] tradition the page cites (Merleau-Ponty) develops its own account of bodily subjectivity, which this page does not quote; that connection is inherited from the page's citation line, not verified here.
 
 (Bergson, Matter and Memory, 1896; Merleau-Ponty — adjacent to the lineage.)
 
 **Plain words**
-Bergson's picture puts the body between the matter that influences it and the matter it acts on: a center of action rather than a machine that represents. A practical consequence of that picture is to treat the body's states as part of acting rather than as interference with it. What the practice section does with that is its own question.
+Bergson's picture puts the body between the matter that influences it and the matter it acts on: a center of action rather than a representation-maker. On that account, the body's states belong to acting rather than standing in front of it.
 
 **For example**
-Notice the difference between walking somewhere while planning and walking the same route with attention on the walking: the route is the same, and the bodily experience of it is not.
+Compare walking while planning with attending to the walking. What, if anything, changes?
 
 ## Sources
 
