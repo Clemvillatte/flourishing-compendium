@@ -32,6 +32,8 @@
   local body uses the Library renderer; internal links browse inside the panel and source
   links open separately. Back/Escape closes preview first and preserves checked selections
   and drafts. Desktop side placement/narrow overlay tested; see CONNECTION-PREVIEW-QA.md.
+  LIVE VERIFIED after push: deployed asset d26729d-preview1, delayed Cook Ding preview,
+  checked selection and Back behavior all passed with no API writes or JavaScript errors.
 - DEPLOYMENT STARVATION FIX: Pages concurrency no longer cancels the running build for
   each new worker commit. One current run can finish while only the newest pending run
   waits. Repeated cancellations were preventing live UI updates during dense worker pushes.

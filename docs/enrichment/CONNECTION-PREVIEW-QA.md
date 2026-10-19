@@ -39,5 +39,9 @@ uses the same paper surface as the existing connection dialog.
   than the viewport, and the zero-checked batch button respects its hidden state.
 - JavaScript syntax, all 30 existing Python safety tests and nine randomizer tests pass.
 
-No content entries, connection records, selection logic or publishing APIs were changed.
-GitHub connection commits were deliberately not exercised: preview must remain read-only.
+Production verification passed on the live GitHub Pages site: deployed editor asset
+`editor2.js?v=d26729d-preview1` opened the delayed Cook Ding story preview, retained a
+checked entry and returned to the still-open picker. No API writes or page errors occurred.
+
+Preview does not mutate content entries, connection records or drafts. Existing publishing
+functions were left unchanged; connection commits were deliberately not exercised.
