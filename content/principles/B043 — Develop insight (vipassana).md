@@ -14,16 +14,16 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 
 Once the mind is steady, look directly into the nature of experience: its impermanence, its unsatisfactoriness, its ownerlessness. See things as they actually are. The Dhammapada compresses the insight into three lines to be seen rather than agreed to:
 
-> ""All conditioned things are impermanent" — when one sees this with wisdom, one turns away from suffering. This is the path to purification.
+> "All conditioned things are impermanent" — when one sees this with wisdom, one turns away from suffering. This is the path to purification.
 > "All conditioned things are unsatisfactory" — when one sees this with wisdom, one turns away from suffering. This is the path to purification.
-> "All things are not-self" — when one sees this with wisdom, one turns away from suffering. This is the path to purification."
+> "All things are not-self" — when one sees this with wisdom, one turns away from suffering. This is the path to purification.
 > (Dhammapada 277-279, [Buddharakkhita, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.20.budd.html))
 
-MN 10 supplies the method: keep attention on body, feelings, mind and mind-qualities until the seeing is direct. Thanissaro's translation calls this "the direct path for the purification of beings" and names the practice "the four frames of reference" (MN 10). (MN 10; Dhammapada 277-279.)
+MN 10 supplies the method. Thanissaro's translation calls it "the direct path for the purification of beings" and names the practice "the four frames of reference" (MN 10, [Thanissaro, Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html)). (MN 10; Dhammapada 277-279.)
 
-**Plain words** Insight here is not adopting a set of beliefs; it is what becomes visible when the mind is steady enough to watch experience closely. Watch one craving from start to finish without feeding it, and you see the three lines in a single case: it is temporary, it does not satisfy, it is not yours to command. The verse's condition is "when one sees this with wisdom"; seeing, not agreeing.
+**Plain words** Insight here is not adopting a set of beliefs; the verses describe a seeing, with wisdom, of lines about conditioned things. The practice is to watch experience and notice what changes: what arises, what passes, what does not stay put. The verse's condition is "when one sees this with wisdom"; seeing, not agreeing.
 
-*For example:* Watch a single craving from start to finish without feeding it. It swells, peaks, and dies on its own; watching that happen is what the verse means by seeing with wisdom.
+*For example:* Watch one craving without feeding it, and observe what changes. The verses ask for seeing with wisdom; what you notice is the practice.
 
 ## Practice kernels
 

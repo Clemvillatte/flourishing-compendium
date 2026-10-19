@@ -17,11 +17,11 @@ Rejoice in others' happiness without envy: let their good fortune be your good f
 > "Here, monks, a disciple dwells pervading one direction with his heart filled with sympathetic joy, likewise the second, the third and the fourth direction; so above, below and around; he dwells pervading the entire world everywhere and equally with his heart filled with sympathetic joy, abundant, grown great, measureless, free from enmity and free from distress."
 > (Basic passage on the Four Sublime States, [Nyanaponika Thera, Access to Insight](https://accesstoinsight.org/lib/authors/nyanaponika/wheel006.html))
 
-The formula has the same shape for goodwill, compassion and equanimity; what changes is the filling of the heart. The practice aims attention at another's good fortune and takes the joy there instead of at the comparison. This is the antidote to jealousy. (Brahmavihara tradition; Dhammapada.)
+The formula has the same shape for goodwill, compassion and equanimity; what changes is the filling of the heart. Nyanaponika's guidance on the exercise: "In the meditative exercises, the selection of people to whom the thought of love, compassion or sympathetic joy is directed, proceeds from the easier to the more difficult." Life gains in joy "by sharing the happiness of others as if it were yours". The compendium's framing: the friend's promotion can be met as a wound or as a celebration; same news, two lives. (Brahmavihara tradition.)
 
-**Plain words** The formula is a practice, not a mood to wait for: pervade direction after direction with a heart filled with sympathetic joy. Start with one person whose happiness costs you nothing to enjoy, then a person whose happiness stings. The friend's promotion can be a wound or a celebration; same news, two lives.
+**Plain words** The formula is a practice: pervade direction after direction with a heart filled with sympathetic joy. The exercise selects its people from the easier to the more difficult: someone whose happiness costs you nothing to enjoy, then someone whose happiness stings.
 
-*For example:* The colleague gets the role you wanted. You can say congratulations and mean it; the envy version of the same moment poisons you, not them.
+*For example:* The colleague gets the role you wanted. The practice is filling the heart with sympathetic joy toward them; whether that comes easily is the measurement.
 
 ## Psychology parallels
 

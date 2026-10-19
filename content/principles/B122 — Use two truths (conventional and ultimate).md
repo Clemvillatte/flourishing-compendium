@@ -20,11 +20,19 @@ Conventionally, the self and the world work as usual; ultimately, nothing has in
 > And an ultimate truth."
 > (MMK 24.8, [Garfield, Fundamental Wisdom of the Middle Way](https://pages.uoregon.edu/munno/OregonCourses/REL4400002/nagarjuna_middleway24.pdf))
 
-The verses that follow make the registers interdependent: "Without a foundation in the conventional truth, the significance of the ultimate cannot be taught. Without understanding the significance of the ultimate, Liberation is not achieved." (MMK 24.10, Garfield.) Neither register is an untruth; the compendium's reading: use the conventional to catch the bus and pay at the checkout, use the ultimate to keep analysis honest, and do not run either register in the other's lane. (Nagarjuna, MMK 24.8-10.)
+The verses that follow make the registers interdependent:
 
-**Plain words** Two registers, one world. At the checkout, money works; that is a truth of worldly convention, and it is a truth, not a lie. Under analysis, the same money holds no independent essence; that is the ultimate truth, and it does not cancel the checkout. The practice is knowing which question you are being asked: whether it works is a conventional question; what it is, finally, is an ultimate one.
+> "Without a foundation in the conventional truth,
+> The significance of the ultimate cannot be taught.
+> Without understanding the significance of the ultimate,
+> Liberation is not achieved."
+> (MMK 24.10, [Garfield, Fundamental Wisdom of the Middle Way](https://pages.uoregon.edu/munno/OregonCourses/REL4400002/nagarjuna_middleway24.pdf))
 
-*For example:* Money is real at the checkout and empty under analysis; both true, both useful, in their respective lanes.
+Garfield's commentary on the chapter reads the relation this way: understanding the ultimate nature of things just is understanding that their conventional nature is merely conventional, and explaining emptiness must use words and concepts, which are themselves conventional. Neither register is an untruth; each needs the other. (Nagarjuna, MMK 24.8-10.)
+
+**Plain words** Two registers, one world. At the checkout, money works; that is a truth of worldly convention, and it is a truth. Under analysis, the same money holds no independent essence; that is the ultimate truth, and it does not cancel the checkout. The two registers need each other: the ultimate is taught in conventional language, and understanding the ultimate is seeing the conventional as merely conventional.
+
+*For example:* Money is real at the checkout and empty under analysis; both true, and neither cancels the other.
 
 ## Practice kernels
 

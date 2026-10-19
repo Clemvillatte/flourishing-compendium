@@ -12,13 +12,18 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 6** — Craving is the engine of suffering (tanha)
 
-Suffering is not caused by pain but by the grasping, pushing, and demanding that pain, pleasure, and the world be otherwise. The Dhammacakkappavattana Sutta names three forms of the craving it blames: craving for sensual pleasures, craving for existence, craving for extermination. Work on the grasping, not on the world.
+SN 56.11 names craving as the origin of suffering and gives its three forms:
 
-(SN 56.11.)
+> "Now this, bhikkhus, is the noble truth of the origin of suffering: it is this craving which leads to renewed existence, accompanied by delight and lust, seeking delight here and there; that is, craving for sensual pleasures, craving for existence, craving for extermination."
+> — Bhikkhu Bodhi, trans., "Connected Discourses on the Truths" (SN 56.11).
+> Locator: SN 56.11 "Dhammacakkappavattana Sutta", SC 5.
+> Open-access source: https://suttacentral.net/sn56.11/en/bodhi
 
-**Plain words** Notice the two layers: the thing that happened, and your demand about the thing. The first layer is not optional; the second one is built on top of it. Working on the grasping means examining the demand, not fixing the world first and feeling OK only afterward. Pain is a fact; the demand that it shouldn't exist is the extra tax you add yourself.
+The sutta identifies the origin and its forms; it does not say suffering never involves pain or circumstance. The compendium's reading of the second truth: suffering has an engine, and the engine is the demanding layer of experience, the seeking of delight here and there. (SN 56.11.)
 
-*For example:* The traffic jam is forty minutes of sitting; the fury about the traffic jam is a separate, optional forty minutes.
+**Plain words** The second truth points at a cause rather than a verdict. Craving is identified as the origin of suffering, and it comes in three forms: for pleasures, for existence, for extermination. The practical question it suggests: when suffering shows up, which of the three cravings is doing the work in this case? Naming the form is the sutta's analysis turned toward a moment.
+
+*For example:* The traffic jam is forty minutes of sitting. The suffering the sutta points to is in the craving layer: the demand that it not be happening, which runs its own forty minutes.
 
 ## Stories
 
@@ -38,10 +43,7 @@ Suffering is not caused by pain but by the grasping, pushing, and demanding that
 
 ## Primary source (verbatim)
 
-> "Now this, bhikkhus, is the noble truth of the origin of suffering: it is this craving which leads to renewed existence, accompanied by delight and lust, seeking delight here and there; that is, craving for sensual pleasures, craving for existence, craving for extermination."
-> — Bhikkhu Bodhi, trans., "Connected Discourses on the Truths" (SN 56.11).
-> Locator: SN 56.11 "Dhammacakkappavattana Sutta", SC 5.
-> Open-access source: https://suttacentral.net/sn56.11/en/bodhi
+See the blockquote above: Bhikkhu Bodhi, trans., SN 56.11, open-access source https://suttacentral.net/sn56.11/en/bodhi
 
 <!-- fc: reflections
 Where is the pain currently fine but the grasping — the fury, the demanding it be otherwise — actually doing the damage?
