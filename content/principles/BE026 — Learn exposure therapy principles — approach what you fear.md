@@ -12,11 +12,19 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BE — Overt Be
 ---
 > **Principle 26** — Learn exposure therapy principles: approach what you fear
 
-Exposure therapy involves systematically approaching feared situations, objects, or sensations while preventing avoidance. This allows new learning (that the feared outcome does not occur) that competes with the fear memory.
+Exposure therapy involves systematically approaching feared situations, objects, or sensations while preventing avoidance. This allows new learning (that the feared outcome does not occur) that competes with the fear memory ([Craske et al., 2014](https://pubmed.ncbi.nlm.nih.gov/24864005/)).
 
-**Plain words** Exposure means practising contact with feared but safe situations in planned, manageable steps. The aim is to learn a different response to fear and uncertainty, not to make anxiety disappear during every exercise. For phobias or trauma-related symptoms, plan this work with a qualified clinician.
+> Exposure therapy is an effective approach for treating anxiety disorders, although a substantial number of individuals fail to benefit or experience a return of fear after treatment. (Craske et al., 2014, [PubMed](https://pubmed.ncbi.nlm.nih.gov/24864005/))
 
-*For example:* With a therapist, someone afraid of lifts agrees on a manageable practice step and reviews what happened afterward. Anxiety going down is not the sole measure of progress.
+**Plain words**
+Exposure means practising contact with feared but safe situations in planned, manageable steps. The aim is to learn a different response to fear and uncertainty, not to make anxiety disappear during every exercise. For phobias or trauma-related symptoms, plan this work with a qualified clinician.
+
+**For example**
+With a therapist, someone afraid of lifts agrees on a manageable practice step and reviews what happened afterward. Anxiety going down is not the sole measure of progress.
+
+## Sources
+
+- [Craske, Treanor, Conway, Zbozinek & Vervliet (2014), Maximizing exposure therapy: an inhibitory learning approach, PubMed](https://pubmed.ncbi.nlm.nih.gov/24864005/) — abstract verified verbatim
 ## Psychology parallels
 
 - **[[Exposure therapy (Foa, Craske)|Exposure therapy (Foa, Craske)]]**, systematic approach to feared cues is associated with reduced fear (Foa et al., 2007; Craske et al., 2014)
