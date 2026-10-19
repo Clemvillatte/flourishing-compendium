@@ -91,6 +91,8 @@ B116 advises catching irritation early. Does that practice affect anger partly t
 
 [[B056 — Note lightly (noting)]]
 
+[[K029 — Take the three poisons as practice material]]
+
 ## Sources
 
 - [Gross, J. J., "Emotion Regulation: Current Status and Future Prospects" (2015, Psychological Inquiry; PDF)](http://www.johnnietfeld.com/uploads/2/2/6/0/22606800/gross_2015.pdf) — the five strategy families; reappraisal versus suppression evidence; moderators
