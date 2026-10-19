@@ -12,13 +12,21 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 61** — Act before things arise
 
-Regulate things before disorder exists; the tree too big to embrace grew from a tiny sprout. Prevention is the cheapest action there is.
+Daodejing 64 opens with the case for early action:
+
+> "Action should be taken before a thing has made its appearance; order should be secured before disorder has begun." (Daodejing 64, [Legge](https://www.gutenberg.org/cache/epub/216/pg216.txt))
+
+The reasoning comes just before it: "That which is at rest is easily kept hold of; before a thing has given indications of its presence, it is easy to take measures against it." The chapter's images run the same direction: "The tree which fills the arms grew from the tiniest sprout; the tower of nine storeys rose from a (small) heap of earth", and a journey of a thousand li began with a single step. It also names the failure mode at the other end: "people in their conduct of affairs are constantly ruining them when they are on the eve of success. If they were careful at the end, as (they should be) at the beginning, they would not so ruin them."
 
 (DDJ 64.)
 
-**Plain words** Regulate things before disorder exists — the tree too big to embrace grew from a tiny sprout. Prevention is the cheapest action available, and the only one that gets no credit because nothing visibly happens. That's the trade: invisible wins.
+**Plain words** Problems are cheap when they are small and quiet, expensive when they are big and loud. Acting early means acting on things that do not look like problems yet, which feels silly and gets no credit. The person who fixes the roof in dry weather looks like they are wasting a sunny afternoon, right up until the rain.
 
-*For example:* The ten minutes spent backing up files tonight versus the weekend spent weeping over a dead drive in six months.
+*For example:* The ten minutes spent backing up files tonight, against the weekend lost to a dead drive six months from now.
+
+## Sources
+
+- [The Tao Teh King, James Legge translation, Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt) — ch. 64
 
 ## Practice kernels
 
