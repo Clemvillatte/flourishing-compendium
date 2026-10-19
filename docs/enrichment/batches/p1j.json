@@ -7,11 +7,12 @@
   "D043",
   "D015",
   "D042",
-  "D077"
+  "D077",
+  "D097"
  ],
- "in_progress": "D097",
+ "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-19T13:29:32+00:00"
+ "updated": "2026-10-19T13:29:43+00:00"
 }
