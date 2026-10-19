@@ -12,13 +12,21 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 177** — Begin again: returning is the practice
 
-You will drift, forget, and get lost — thousands of times. The practice is not never drifting; it's returning. Every return is a fresh start.
+MN 20 gives the method for a mind that keeps wandering: when distracting thoughts arise, the monk applies the tools and steadies the mind again. The sutta is written as a loop, not a cure; the drifting is assumed, and the practice is the return. Dogen's zazen manual ends the same way, with the calm carried out of the sitting: "When you arise from sitting, move slowly and quietly, calmly and deliberately."
 
-(MN 20; Dogen.)
+> "Just as a strong man, folding his arm or extending his arm, might fold or extend his arm; in the same way, the monk's mind is steadied internally, settled, unified, and concentrated." (MN 20, [Thanissaro, accesstoinsight](https://www.accesstoinsight.org/tipitaka/mn/mn.020.than.html))
 
-**Plain words** You will drift, forget, and get lost — thousands of times. The practice is not never drifting; it's returning. Every return is a fresh start. The streak philosophy is a scam; the return philosophy is the whole path.
+The compendium applies the pair to the streak: the question after a lapse is not why you failed but what the return looks like, and both texts give it a shape.
 
-*For example:* The meditator who 'failed' for three weeks and sat down again on day twenty-two — that sitting was the practice. All of it.
+**Plain words**
+The drift is not the news; the return is. A practice measured in streaks treats every lapse as a broken thing to mourn. A practice measured in returns treats the lapse as the cue: the same move as yesterday, applied again. The steadying is the same motion whether it is the first time or the fourth.
+
+*For example:* Suppose a meditation habit abandoned for three weeks. As a modern application, the return is sitting once today, not renegotiating the whole habit.
+
+## Sources
+
+- [MN 20 (Vitakkasanthana Sutta), trans. Thanissaro Bhikkhu (accesstoinsight)](https://www.accesstoinsight.org/tipitaka/mn/mn.020.than.html)
+- [Dogen, Fukanzazengi (translations via Terebess Asia Online)](https://terebess.hu/zen/dogen/Fukanzazengi2.html)
 
 ## Stories
 

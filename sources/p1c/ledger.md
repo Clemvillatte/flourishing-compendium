@@ -306,3 +306,11 @@ copied from the opened URL in this session.
 
 - Opened: https://www.abuddhistlibrary.com/Buddhism/G%20-%20TNH/TNH/From%20The%20Miracle%20of%20Mindfulness/Teaching.htm
   (book excerpt; the dishes passage fetched verbatim). Validated vs HEAD (pre-item).
+
+## B177 correction note 2 (2026-10-19)
+
+- The B177 file was renamed mid-session by another agent (the "Sit, then act" version
+  I read earlier no longer exists); B177 is "Begin again: returning is the practice".
+  The rewrite is grounded in MN 20 (opened for B074: strong-man simile fetched
+  verbatim) and the Fukanzazengi arising-from-sitting sentence (verified in two
+  translations). Original blockquote title preserved. Validated vs HEAD (pre-item).
