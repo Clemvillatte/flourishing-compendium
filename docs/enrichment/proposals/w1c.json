@@ -1,0 +1,67 @@
+{
+ "batch": "w1c",
+ "done": [],
+ "flagged": {},
+ "missing_concepts": [],
+ "sources_checked": 6,
+ "inline": [
+  {
+   "target": "content/principles/SE034 — Recognise that self-relationship is the foundation of all relationships.md",
+   "concept": "Amor sui (right self-love)",
+   "phrase": "implies right self-love"
+  }
+ ],
+ "reciprocal": [
+  {
+   "target": "content/concepts/Self-compassion.md",
+   "concept": "Amor sui (right self-love)",
+   "why": "Spinoza's rational ground for kind self-regard"
+  },
+  {
+   "target": "content/concepts/Proper self-love.md",
+   "concept": "Amor sui (right self-love)",
+   "why": "Spinoza's parallel case that self-love can be noble"
+  },
+  {
+   "target": "content/concepts/Amour de soi.md",
+   "concept": "Amor sui (right self-love)",
+   "why": "Spinoza's term for nourishing rather than comparative self-love"
+  },
+  {
+   "target": "content/concepts/Oikeiosis.md",
+   "concept": "Amor sui (right self-love)",
+   "why": "reason's demand to love what preserves one's own being"
+  },
+  {
+   "target": "content/concepts/Conatus.md",
+   "concept": "Amor sui (right self-love)",
+   "why": "the self-love reason demands of a being that strives to persevere"
+  },
+  {
+   "target": "content/concepts/Amor dei intellectualis.md",
+   "concept": "Amor sui (right self-love)",
+   "why": "the Ethics' account of self-love grounded in power of acting"
+  },
+  {
+   "target": "content/concepts/Amor fati.md",
+   "concept": "Amor sui (right self-love)",
+   "why": "Spinoza's self-love of one's power of acting, an earlier answer to the same need"
+  },
+  {
+   "target": "content/concepts/Contingent self-esteem.md",
+   "concept": "Amor sui (right self-love)",
+   "why": "self-approval from reason, the Ethics' contrast to feedback-dependent self-regard"
+  },
+  {
+   "target": "content/concepts/Authentic versus hubristic pride.md",
+   "concept": "Amor sui (right self-love)",
+   "why": "pride as false opinion of superiority, the older formulation of this split"
+  },
+  {
+   "target": "content/concepts/Magnanimity.md",
+   "concept": "Amor sui (right self-love)",
+   "why": "the honest sense of one's own worth that reason-based self-approval gives"
+  }
+ ],
+ "notes": "First concept: Amor sui (right self-love). All 12 original links preserved. Facets section (vs self-contempt) folded into prose. Definition quote is Ethics IIIp55 scholium (checked against text); rational demand is IVp18 scholium."
+}
