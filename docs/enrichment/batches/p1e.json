@@ -26,7 +26,7 @@
   "CO008",
   "CO011"
  ],
- "in_progress": null,
+ "in_progress": "CO039",
  "flagged": {
   "D011": "inherited psychology claim (Kashdan & Rottenberg 2010 'outperforms on nearly every outcome') not verified against an opened source; preserved per protocol, flagged for supervisor",
   "D068": "inherited psychology-parallels claims (Gottman soft startup; assertiveness research 'aggression reliably loses long games') not verified against opened sources; flagged for supervisor",
@@ -54,6 +54,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 12,
- "updated": "2026-10-19T12:39:34+00:00",
+ "updated": "2026-10-19T12:39:44+00:00",
  "band_done": false
 }
