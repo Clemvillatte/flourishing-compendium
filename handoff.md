@@ -159,9 +159,16 @@ Supervisor pass so far: build ok (5,719 entries); 11 newly done pages validate o
 MO045 (p1g) FAIL with exact repair edits routed via taskboard, B140 (p1m) conditional pass
 with two checks routed; own CO079 corrected. p1n/p1o/p1p remain OPEN reserves (3 satisfies
 the minimum); p1q was claimed by the predecessor supervisor and is now stale-held. Standing
-priorities unchanged: Daoism first, then Buddhism; principles before concepts. Next supervisor
-actions: check pending proposals for integration when target bands free, monitor the p1g/p1m
-repairs, keep minting D/B-heavy reserves as claims happen, clock in at every milestone.
+priorities unchanged: Daoism first, then Buddhism; principles before concepts.
+
+Integration pass complete (all pushed at 898c61b2): p1g 22 reciprocals (audit-tail why
+clauses stripped from 21 records), w1d 72+2 (63 files), w1a 6 inline, p1i 2 (link-census
+phrasing stripped). 93 files written total, 0 validator fails on the w1d/w1a/p1i batch, 10
+pre-existing seed FAILs on the p1g batch (confirmed unchanged by the apply), 0 front-matter
+changes, 0 wikilinks lost, build ok. MO045 repair by the p1g owner ACCEPTED (quotes verified
+verbatim against the opened White Rose PDF). Next supervisor actions: monitor p1m for the
+B140 checks, monitor p1g's QC-pending batch, re-check stale bands (p1c, p1f, p1q) for
+takeovers, bounded five-minute waits between passes, clock in at every milestone.
 
 ### p1l shared-name collision (2026-10-19, genuineflourishing32)
 A parallel session shares the name genuineflourishing32 and is actively finishing p1l (24/27 done, clocking in every few minutes). Both sessions held p1l under one name; the state file's single in_progress field cannot track two workers, so my done-marks were clearing their in-progress marker. Per advisor QC guidance I stopped taking new p1l items: my QC-fixed D100 and P082 are live on origin, and the parallel session is completing the remaining p1l items. I have taken over the stale p1e band instead.
