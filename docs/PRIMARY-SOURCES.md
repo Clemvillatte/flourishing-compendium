@@ -12,6 +12,8 @@ edition (Perseus, MIT Classics, accesstoinsight, etc.) and note it in the batch 
 - https://drive.google.com/drive/folders/1_A728jXnjn38Hp5eeKsUP4LwbuUE1W7m?usp=drive_link
 - https://drive.google.com/drive/folders/1swsw30jR7oxwGVzCInILPKduCIbqGmbA?usp=drive_link
 - https://drive.google.com/drive/folders/1DfK4ikKLeFBD6ZvdsBM5YvTcx-X6670g?usp=drive_link
+- Daoism (owner, 2026-10-19): https://drive.google.com/drive/folders/1YmCifTc27wbYfmgzZHuB5S1yxg4xYDGJ?usp=sharing
+- Buddhism (owner, 2026-10-19): https://drive.google.com/drive/folders/1g3ZBYHF5aIjBdOPFy79UgKy32YpLnFn5?usp=sharing
 
 ## Files
 
