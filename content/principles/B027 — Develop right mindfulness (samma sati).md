@@ -12,13 +12,21 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 27** — Develop right mindfulness (samma sati)
 
-Beyond bare attention, right mindfulness means remembering the whole frame: the body, feeling tone, mind, and patterns — so that reactivity is caught before it hardens.
+MN 10, the Satipatthana Sutta, is the source. The Buddha introduces the practice as the path itself:
 
-(MN 10; MN 118.)
+> "This is the direct path for the purification of beings, for the overcoming of sorrow & lamentation, for the disappearance of pain & distress, for the attainment of the right method, & for the realization of Unbinding — in other words, the four frames of reference." (MN 10, trans. Thanissaro Bhikkhu, [AccessToInsight](https://accesstoinsight.org/tipitaka/mn/mn.010.than.html))
 
-**Plain words** Beyond bare attention, right mindfulness means remembering the whole frame — body, feeling tone, mind, patterns — so reactivity is caught before it hardens. It's not just noticing; it's noticing in context, with the map in hand.
+The four frames are body, feelings, mind and mental qualities, and each is held with the same repeated formula: "There is the case where a monk remains focused on the body in & of itself — ardent, alert, & mindful — putting aside greed & distress with reference to the world." The same formula carries over to feelings, mind and mental qualities. The breathing section gives the tone: "Always mindful, he breathes in; mindful he breathes out."
 
-*For example:* Catching the irritation at your partner AND remembering you skipped lunch — the feeling is noticed, the frame explains it.
+(MN 10.)
+
+**Plain words** As a small application of the breathing instruction, pause during a tense conversation and attend to a few breaths before choosing your response. Keep observing what is happening without immediately deciding why you feel that way.
+
+*For example:* In the pause, notice whether the breath is long or short, as the sutta's monk does: "Breathing in long, he discerns, 'I am breathing in long'; or breathing out long, he discerns, 'I am breathing out long.'"
+
+## Sources
+
+- [MN 10 Satipatthana Sutta, trans. Thanissaro Bhikkhu, AccessToInsight](https://accesstoinsight.org/tipitaka/mn/mn.010.than.html)
 
 ## Psychology parallels
 

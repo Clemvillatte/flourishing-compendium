@@ -20,13 +20,13 @@ The Dhammapada opens with the same claim about the mind:
 
 > "Mind precedes all mental states. Mind is their chief; they are all mind-wrought. If with an impure mind a person speaks or acts suffering follows him like the wheel that follows the foot of the ox." (Dhammapada 1, trans. Acharya Buddharakkhita, [AccessToInsight](https://accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html))
 
-Verse 2 pairs it: with a pure mind, "happiness follows him like his never-departing shadow." The compendium's chain from intention to character is a reading of what repeated intentions do over time; the sutta's own terms are body, speech and intellect, the three doors through which intending becomes doing.
+Verse 2 pairs it: with a pure mind, "happiness follows him like his never-departing shadow." The two sources together make the principle's distinction: the Dhammapada's mind-first verses name where actions come from, and the Nibbedhika Sutta's definition names what karma is, intending itself, which can go out by way of body, speech or intellect.
 
 (Dhammapada 1-2; AN 6.63.)
 
-**Plain words** In this definition, karma is not a cosmic ledger; it is what you do on purpose. Whatever you intend goes out through one of the sutta's three doors, body, speech or mind, and what goes out is the act you actually performed. Watch the moment of intending, because that is where the difference between two identical-looking actions lives.
+**Plain words** The question the definition puts to any action is simply: what purpose are you acting with? Two actions can look the same from outside and be different acts on this definition, because the intending differs.
 
-*For example:* Helping a colleague to be seen helping, versus helping so they succeed: the visible action is the same, and the intending is not. The sutta counts the intending.
+*For example:* Helping a colleague to be seen helping, versus helping so they succeed: the visible action is the same, and the intending is not.
 
 ## Sources
 

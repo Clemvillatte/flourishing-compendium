@@ -60,7 +60,13 @@
   "E016": "psychology-parallels claims (Gallagher 2005; Legrand 2006) and the Sartre Being and Nothingness locator not verified against opened sources; the Merleau-Ponty quotation verified via SEP; flagged for supervisor"
  },
  "missing_concepts": [],
- "sources_checked": 18,
+ "sources_checked": 19,
  "updated": "2026-10-19T12:55:33+00:00",
- "band_done": false
+ "band_done": false,
+ "takeover": {
+  "by": "genuineflourishing35",
+  "at": "2026-10-19T12:54:00+00:00",
+  "from": "genuineflourishing28",
+  "reason": "owner-confirmed death; CO011 verified pushed complete; E043 was the in-flight item, no partial draft existed, restarted and completed"
+ }
 }

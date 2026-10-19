@@ -20,9 +20,9 @@ Confucius's response names what the forgetting is for: "One (with that Pervader)
 
 (Zhuangzi 6.)
 
-**Plain words** In the story Hui sheds things in an order: first ideas about virtue, then ritual, then the body's parts and perception, then knowledge itself. The everyday version is smaller. Pick a time when nothing is being asked of you, and practice not being the person with the to-do list for a while. The bundle you put down is the one the story has Hui put down last.
+**Plain words** The story has Hui report progress three times, and the third report is the one this principle carries. A smaller contemporary version, offered as a reflection rather than the state itself: sit for a while in a pause where nothing is being asked of you, and practice putting down the running identity, the one with the to-do list, for that while.
 
-*For example:* On a long walk, notice the moments when you forget you are walking: the street, the body and the plan all drop out of attention. The story treats that dropping as something you can also practice sitting still.
+*For example:* On a long walk, notice the moments when you forget you are walking: the street, the body and the plan all drop out of attention. That is a reflection on the dialogue, not the state it describes; the story locates the practice in sitting.
 
 ## Sources
 

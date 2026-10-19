@@ -263,3 +263,7 @@ Advisor QC (2026-10-19): quotes verified (BQ1 ch. 22 sentence, BQ2 ch. 68 verse 
 - Inherited, NOT opened/verified: psychology-parallels claims (Greenberg et al. 1986; Pyszczynski et al. 1999; Cozzolino et al. 2004 terror management / death reflection) — preserved per protocol, flagged for supervisor.
 - Saturation: Being-toward-death concept, Being and beings, B055, D087, D090 already link/cite; ST272-276 stories already linked. No justified new proposals.
 - Validator on final: ok; protected fields untouched vs HEAD; exact-quotation check all OK against the opened page.
+
+## Milestone QC round 5 corrections applied to E043 (genuineflourishing35, 2026-10-20)
+
+- The MN/§50/Macquarrie attribution for the "as soon as man comes to life" quote was my inference from the article's citation "Heidegger 1962, H. 255"; corrected to attribute only what the opened article states. The paraphrased orientation sentence now unquoted (citation marker mid-sentence in the article HTML). "What Is Metaphysics?" seed locator removed from the body (not opened). Summers claim replaced with explicitly hypothetical applications. p1e sources_checked incremented by 1 for E043's opened Wikipedia page (18 -> 19).

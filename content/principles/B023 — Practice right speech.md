@@ -16,13 +16,13 @@ The canonical criteria are in MN 58, where the Buddha explains to Prince Abhaya 
 
 > "In the case of words that the Tathagata knows to be factual, true, beneficial, and endearing & agreeable to others, he has a sense of the proper time for saying them. Why is that? Because the Tathagata has sympathy for living beings." (MN 58, trans. Thanissaro Bhikkhu, [AccessToInsight](https://accesstoinsight.org/tipitaka/mn/mn.058.than.html))
 
-The six cases reduce to a small rule: only words that are factual, true and beneficial get said, whether or not they are endearing, and always with a sense of the proper time; everything else, including the flattering and the true-but-useless, stays unsaid. The Dhammapada adds the non-harsh response: "Overcome the angry by non-anger; overcome the wicked by goodness; overcome the miser by generosity; overcome the liar by truth." (Dhammapada 223, trans. Acharya Buddharakkhita, [AccessToInsight](https://accesstoinsight.org/tipitaka/kn/dhp/dhp.17.budd.html))
+The six cases reduce to a small rule: only words that are factual, true and beneficial get said, and always with a sense of the proper time; everything else stays unsaid. The Dhammapada adds the non-harsh response: "Overcome the angry by non-anger; overcome the wicked by goodness; overcome the miser by generosity; overcome the liar by truth." (Dhammapada 223, trans. Acharya Buddharakkhita, [AccessToInsight](https://accesstoinsight.org/tipitaka/kn/dhp/dhp.17.budd.html))
 
 (Dhammapada 10, 223; MN 58.)
 
-**Plain words** The sutta's test is stricter than the everyday question of whether something is true: of its six kinds of sentence, only two are ever worth saying, and both need the right moment. Run the sentence through the cases before it leaves you: factual, beneficial, endearing, and is now the time. The four rejected kinds are not just lies; true-but-useless stays unsaid too, and so does flattering.
+**Plain words** The sutta's gates that decide are truth, benefit and timing; pleasantness is treated separately, and it cuts both ways. Agreeable words still go unsaid if they are untrue or useless, and disagreeable words still get said, at the right time, if they are true and beneficial. Before speaking, run the three gates: is it true, is it beneficial, and is now the time.
 
-*For example:* The sarcastic comment that was true and timely, but neither beneficial nor endearing: on the sutta's six cases it falls in a do-not-say category, whatever its truth.
+*For example:* The true, beneficial, unflattering comment to a colleague: the sutta says it gets said, with a sense of the proper time; the endearing-but-useless compliment stays unsaid.
 
 ## Sources
 
