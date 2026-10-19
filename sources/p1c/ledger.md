@@ -323,3 +323,9 @@ copied from the opened URL in this session.
   baroreceptor mechanism sentence; the 6-bpm resonance claim is NOT in the abstract and
   was not used). Unverified ## Practice advice removed (no wikilinks lost), per the
   BI013 precedent. Validated vs HEAD (pre-item).
+
+## P041 — Set ends-in-view, and revise them (Dewey)
+
+- Opened: https://www.gutenberg.org/cache/epub/41386/pg41386.txt (Human Nature and
+  Conduct, Gutenberg #41386; the ends-in-view passage and the targets sentence fetched
+  verbatim from "The Nature of Aims"). Validated vs HEAD (pre-item).
