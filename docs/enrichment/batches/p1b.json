@@ -45,7 +45,7 @@
   "AT070",
   "E013"
  ],
- "in_progress": null,
+ "in_progress": "P038",
  "flagged": {
   "E012": "Reopened for QC: Implement independent advisor attribution and locator corrections using previously opened Walsh passages",
   "D003": "Reopened for QC: QC correction: item-25 advisor fixes (quote capitalization/punctuation, scoped analogy, plain words question, imagined-action example)",
@@ -55,6 +55,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 28,
- "updated": "2026-10-19T13:12:15+00:00",
+ "updated": "2026-10-19T13:12:22+00:00",
  "band_done": false
 }
