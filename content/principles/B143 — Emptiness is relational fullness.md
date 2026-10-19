@@ -28,7 +28,7 @@ The same work separates emptiness from both extremes: "'Existence' is the graspi
 An optional exercise, not a promise: pick something you treat as self-contained and list what it depends on; the list is what the principle points at. Whether loosening the grip on a fixed self changes what touches you is an outcome this page cannot certify.
 
 **For example**
-The couple that stops being two fortresses negotiating — the walls come down and, strangely, so does the loneliness.
+An imagined illustration, not a reported outcome: a couple stops being two fortresses negotiating; the walls come down, and perhaps the loneliness goes with them.
 
 ## Sources
 
