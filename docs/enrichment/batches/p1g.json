@@ -23,7 +23,12 @@
   "P151",
   "P172",
   "Y015",
-  "E009"
+  "E009",
+  "BI054",
+  "CO005",
+  "CO007",
+  "CO045",
+  "CO050"
  ],
  "in_progress": null,
  "flagged": {
@@ -37,12 +42,7 @@
   "P190": "milestone QC ACCEPTED for the rewritten bodies (advisor round 5c). Inherited parallels citations and locators remain unverified by me (Bryant and Veroff; Whitehead; Time and Free Will; the Simondon lifelong reading; McCracken/Vowles) \u2014 recorded in the item ledgers.",
   "P092": "milestone QC ACCEPTED for the rewritten bodies (advisor round 5c). Inherited parallels citations and locators remain unverified by me (Bryant and Veroff; Whitehead; Time and Free Will; the Simondon lifelong reading; McCracken/Vowles) \u2014 recorded in the item ledgers.",
   "P093": "milestone QC ACCEPTED for the rewritten bodies (advisor round 5c). Inherited parallels citations and locators remain unverified by me (Bryant and Veroff; Whitehead; Time and Free Will; the Simondon lifelong reading; McCracken/Vowles) \u2014 recorded in the item ledgers.",
-  "P151": "milestone QC ACCEPTED for the rewritten bodies (advisor round 5c). Inherited parallels citations and locators remain unverified by me (Bryant and Veroff; Whitehead; Time and Free Will; the Simondon lifelong reading; McCracken/Vowles) \u2014 recorded in the item ledgers.",
-  "BI054": "QC-pending: advisor review not yet accepted; awaiting source acceptance",
-  "CO005": "QC-pending: advisor review not yet accepted; awaiting source acceptance",
-  "CO007": "QC-pending: advisor review not yet accepted; awaiting source acceptance",
-  "CO045": "QC-pending: advisor review not yet accepted; awaiting source acceptance",
-  "CO050": "QC-pending: advisor review not yet accepted; awaiting source acceptance"
+  "P151": "milestone QC ACCEPTED for the rewritten bodies (advisor round 5c). Inherited parallels citations and locators remain unverified by me (Bryant and Veroff; Whitehead; Time and Free Will; the Simondon lifelong reading; McCracken/Vowles) \u2014 recorded in the item ledgers."
  },
  "missing_concepts": [],
  "sources_checked": 15,

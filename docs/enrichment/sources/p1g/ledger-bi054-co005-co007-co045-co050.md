@@ -1,7 +1,7 @@
 # p1g QC source ledger — BI054 / CO005 / CO007 / CO045 / CO050
 
 Agent: agent-p1l-worker-27c22a8e (p1g worker). Date: 2026-10-20.
-Status: QC-pending. Advisor rounds 1-5 applied; awaiting acceptance.
+Status: ACCEPTED (2026-10-20, advisor QC). All five items marked done and QC-pending flags cleared. Unrelated p1g flags preserved (D086, BI009, P055, P143, P027, P157, P179, P190, P092, P093, P151). Outstanding p1l supervisor referral remains in handoff.md.
 
 ## Claim-to-opened-passage ledger
 
