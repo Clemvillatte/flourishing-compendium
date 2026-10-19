@@ -14,14 +14,15 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 
 There is no single world-description that is uniquely true; there are right versions: the physicist's, the painter's, the plumber's — each made for purposes. Move between versions fluently.
 
-Goodman's argument in Ways of Worldmaking, as this page renders it, is that worlds are made rather than found: the physicist's particles, the painter's canvas, and the plumber's pipe are versions, each right by standards internal to its purposes, none privileged as the world's one true description. What the principle draws from this is fluency: knowing which version is in play, and when to switch. A rightness-claim holds within a version; the practical skill is not mistaking the version for the whole.
+What the principle draws from Goodman's title idea is offered as this page's application, not as a report of his argument: the open copies of Ways of Worldmaking were not consultable from here, so no passage has been opened and none is quoted. The application is a practical move: a disagreement can sometimes be dissolved by asking which version each speaker is running, before asking who is right.
 
 (Goodman, Ways of Worldmaking, 1978.)
 
 **Plain words**
-A version is a description built for a purpose, and rightness is judged inside it: the plumber's account of the pipe beats the physicist's when the basement is flooding, and the reverse holds when the question is what the pipe is made of. The skill the principle points to is switching versions deliberately rather than defending one as if it were the only window. No version is the 'true' one; each is true to its task.
+When two accounts of the same situation conflict, one first move is to ask whether they are versions answering different questions; only if they answer the same question do they contradict. An optional exercise: before resolving a disagreement, name the version you are speaking from, and ask for the other person's. What that exercise yields is up to the situation; nothing here promises it dissolves the disagreement.
 
-*For example:* The same tree: lumber to the carpenter, home to the owl, carbon to the scientist. None is the 'true' tree; all are true trees.
+**For example**
+The same tree: lumber to the carpenter, home to the owl, carbon to the scientist. None is the 'true' tree; all are true trees.
 
 ## Sources
 

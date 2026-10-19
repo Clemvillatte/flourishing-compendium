@@ -18,14 +18,14 @@ Nagarjuna's equation, in the chapter that answers the objection that emptiness w
 
 > "Whatever is contingently related, that is explained as emptiness. That is contingently configured; it is the central path." (Nagarjuna, Mulamadhyamakakarika 24.18, [Batchelor trans.](https://www.wisdomlib.org/buddhism/book/mulamadhyamaka-karika-english/d/doc79738.html))
 
-And its complement, the following verse: "Because there are no things at all, which are not contingently emergent, therefore, there are no things at all, which are not empty." The equation runs both directions: to exist only in relation is to be empty of own-being, and whatever is empty of own-being exists only in relation.
+And its complement, the following verse: "Because there are no things at all, which are not contingently emergent, therefore, there are no things at all, which are not empty." The two verses pair emptiness with contingent emergence; what follows is this page's rendering, not the verses' own claim: to be empty of own-being and to arise in dependence are two descriptions of the same condition.
 
-The same work rules out the other reading of emptiness, the void: an essence would have to be "not contrived and not dependent on anything else" (MMK 15.2), and nothing ordinary qualifies.
+The same work separates emptiness from both extremes: "'Existence' is the grasping at permanence; 'non-existence' is the view of annihilation. Therefore, the wise do not dwell, in existence or non-existence." (MMK 15.10)
 
-(Nagarjuna; Thích Nhất Hạnh, Interbeing.)
+(Nagarjuna.)
 
 **Plain words**
-The aphorism sounds like a paradox and works like a fact. Emptiness here is not a void but an absence of separate existence: a thing that exists only through its relations is fully constituted by them. One consequence, stated as this page's application: loosening the grip on a fixed self is what lets things actually touch you.
+An optional exercise, not a promise: pick something you treat as self-contained and list what it depends on; the list is what the principle points at. Whether loosening the grip on a fixed self changes what touches you is an outcome this page cannot certify.
 
 **For example**
 The couple that stops being two fortresses negotiating — the walls come down and, strangely, so does the loneliness.

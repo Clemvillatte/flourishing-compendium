@@ -23,10 +23,10 @@ The same chapter reports a nine-year student of the gradual school telling Huine
 (Platform Sutra; Zen subitism.)
 
 **Plain words**
-The sutra puts the difference in the student, not the teaching: one Dharma, different speeds. So the two models are not rivals but descriptions of one path at different tempos, and the daily practice is not the alternative to sudden seeing; it is what a moment of re-seeing usually lands in. Whether a single re-seeing reorganizes the whole field for any given person is not something anyone can promise in advance.
+The chapter locates the sudden/gradual difference in the disciples' dispositions; the Dharma itself admits one school. What that licenses here is agnosticism about timing: no one can say in advance which model will describe a given person's path, so the page proposes holding both rather than choosing between them. Stated as this page's application rather than a report of how awakening works.
 
 **For example**
-Years of therapy, and then one sentence from a stranger in a grocery store — both were the path; only one was the strike.
+An everyday analogy for abrupt understanding, not a report of awakening: years of therapy, and then one sentence from a stranger in a grocery store — both were the path; only one was the strike.
 
 ## Sources
 

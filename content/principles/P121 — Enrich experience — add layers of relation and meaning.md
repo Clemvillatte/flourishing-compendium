@@ -14,14 +14,15 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 
 The difference between thin and rich experience is integration: connections felt, meanings seen, history and future present. Enrich your experiences by connecting them — to others, to your past, to your projects.
 
-Dewey's account in Art as Experience, as this page renders it, is that experience becomes complete when doing and undergoing connect: the effort and its consequence felt as one process rather than a scatter of moments. Enrichment is what happens when the parts of an experience are integrated with each other and with the rest of a life. This page's application: connecting an experience is what makes it count, while collecting experiences without connecting them leaves them thin.
+What the principle asks for is offered as this page's application, not as a report of Dewey's argument: the open copies of Art as Experience are lending-restricted and the owner's print library is not reachable from here, so no passage has been opened and none is quoted. The application is the practice itself: connecting an experience to others, to your past, and to your projects, as something a person does rather than something that happens to them.
 
 (Dewey, Art as Experience, 1934.)
 
 **Plain words**
-A thin experience is a sequence of events; a rich one is the same events linked: to the person you were with, to what came before, to what it is for. The instruction here is to connect rather than collect: an experience grows denser when its relations are noticed than when it is merely accumulated. Stated as this page's application rather than a formula Dewey gives.
+A concrete exercise rather than a formula: after something you would call a good experience, write three links, one to a person, one to something earlier in your life, one to something it is for. The links are what the principle points at; whether they are felt as richness is for the person doing it to notice.
 
-*For example:* The same song — background noise while cleaning, versus the one that was playing during the road trip. Connected experience is denser. Same sound waves, different life.
+**For example**
+The same song — background noise while cleaning, versus the one that was playing during the road trip. Connected experience is denser. Same sound waves, different life.
 
 ## Sources
 
