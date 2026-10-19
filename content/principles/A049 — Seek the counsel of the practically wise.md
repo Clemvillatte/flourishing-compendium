@@ -12,13 +12,23 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 49** — Seek the counsel of the practically wise
 
-When uncertain, ask someone whose judgment you trust. Phronesis is partly social: the wise person recognises other wise persons and learns from them. Do not rely solely on your own deliberation; test it against the deliberation of those whose lives you admire.
+Aristotle's rule for whose word to take:
+
+> "Hence we ought to attend to the undemonstrated sayings and opinions of experienced and older people or of people of practical wisdom not less than to demonstrations; for because experience has given them an eye they see aright." (Aristotle, [Nicomachean Ethics VI.11, Ross translation](https://ia600704.us.archive.org/26/items/aristotle-entire-collected-writings/Aristotle/Nicomachean%20Ethics%20%5Btrans.%20Ross%20%26%20Brown%5D/Aristotle%20-%20Nicomachean%20Ethics%20(Oxford%2C%202009).pdf))
+
+The chapter on happiness and friends supplies the other half: the good man will need people to do well by, and it is nobler to do well by friends than by strangers, so the man who is to be happy will need virtuous friends ([NE IX.9](https://ia600704.us.archive.org/26/items/aristotle-entire-collected-writings/Aristotle/Nicomachean%20Ethics%20%5Btrans.%20Ross%20%26%20Brown%5D/Aristotle%20-%20Nicomachean%20Ethics%20(Oxford%2C%202009).pdf)). Living together, in the human case, means sharing in discussion and thought, not feeding in the same place ([NE IX.9](https://ia600704.us.archive.org/26/items/aristotle-entire-collected-writings/Aristotle/Nicomachean%20Ethics%20%5Btrans.%20Ross%20%26%20Brown%5D/Aristotle%20-%20Nicomachean%20Ethics%20(Oxford%2C%202009).pdf)).
 
 (NE VI.5, VI.11; NE IX.1-3.)
 
-**Plain words** When you're stuck, ask someone whose judgement you trust. Practical wisdom is partly social: wise people recognise each other and learn from each other. Test your own reasoning against the reasoning of people whose lives you admire.
+**Plain words**
+The demonstration has a rival authority: the undemonstrated saying of someone whose experience has given them an eye. Counsel-seeking is how you borrow the eye. The reason to pick the friend deliberately, rather than the nearest person, is in the friendship chapter: the happy man will need virtuous friends, and their company is where discussion and thought get shared.
 
-*For example:* Before taking a risky job, you talk it through with a friend who has changed careers twice and is honest with you about it.
+*For example:*
+Before a big decision (career change, moving), you ask two people whose lives you admire and one who will simply agree with you. You weight them accordingly.
+
+## Sources
+
+- [Aristotle, Nicomachean Ethics, W. D. Ross translation (Oxford 2009 edition), Internet Archive](https://ia600704.us.archive.org/26/items/aristotle-entire-collected-writings/Aristotle/Nicomachean%20Ethics%20%5Btrans.%20Ross%20%26%20Brown%5D/Aristotle%20-%20Nicomachean%20Ethics%20(Oxford%2C%202009).pdf) — Book VI chapter 11 (quoted verbatim) and Book IX chapter 9 (cited); the same edition opened for A043
 
 ## Stories
 
