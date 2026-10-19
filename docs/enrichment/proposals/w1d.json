@@ -204,6 +204,36 @@
    "into": "Self-regulation",
    "link": "Goal adjustment capacity",
    "why": "the parent process the two capacities belong to"
+  },
+  {
+   "into": "Exposure therapy (Foa, Craske)",
+   "link": "Graded exposure / systematic desensitisation (Wolpe)",
+   "why": "the modern clinical form of Wolpe's graded approach"
+  },
+  {
+   "into": "Progressive muscle relaxation (Jacobson)",
+   "link": "Graded exposure / systematic desensitisation (Wolpe)",
+   "why": "the relaxation response Wolpe paired with the anxiety hierarchy"
+  },
+  {
+   "into": "Habituation",
+   "link": "Graded exposure / systematic desensitisation (Wolpe)",
+   "why": "the learning mechanism the counter-conditioning exploits"
+  },
+  {
+   "into": "Courage",
+   "link": "Graded exposure / systematic desensitisation (Wolpe)",
+   "why": "the virtue the graded approach builds"
+  },
+  {
+   "into": "Fear",
+   "link": "Graded exposure / systematic desensitisation (Wolpe)",
+   "why": "the response being unlearned, step by step"
+  },
+  {
+   "into": "Avoidance versus attentional engagement",
+   "link": "Graded exposure / systematic desensitisation (Wolpe)",
+   "why": "the maintaining factor the graded approach reverses"
   }
  ],
  "inline": [],
