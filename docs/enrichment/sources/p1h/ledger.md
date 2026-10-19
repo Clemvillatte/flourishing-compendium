@@ -130,6 +130,16 @@ staged by the save script).
 - Saturation: Growth mindset, Openness, Socratic ignorance, The return to the things themselves already linked (concept pages read in full earlier this session). No justified new proposals.
 - Validator on final: ok; exact-quotation check all OK; protected fields untouched.
 
+## Y026 — Bring the mind back, without drama (done 2026-10-20; advisor QC rounds 1-3 applied, milestone approval round 3)
+
+- Opened: https://www.gutenberg.org/files/2388/2388-h/2388-h.htm (Edwin Arnold, The Song Celestial, Gutenberg #2388), Chapter VI. New source this session.
+- Verified verbatim: "But, as often as the heart / Breaks--wild and wavering--from control, so oft / Let him re-curb it, let him rein it back / To the soul's governance;" (6.26 in Arnold's rendering). Quote deliberately ends before "for perfect bliss / Grows only in the bosom tranquillised," which is Arnold's rendering of verse 6.27 (cross-checked via https://www.holy-bhagavad-gita.org/chapter/6/verse/26/ and .../verse/27/).
+- Advisor QC (rounds 1-3): all unsupported attributions of "tone"/"reprimand" to the source removed; invented quotes removed; the "return as repetition" and "fifty returns" readings removed or re-labeled as a practical interpretation; double-hyphen "--" preserved exactly; semicolon after "governance" added to match source; validation against pre-edit baseline a5782bc5 confirmed front-matter, principle statement, and both protected wikilink markups unchanged.
+- Linked concept pages read in full (Attentional control training and the role of repeated redirection; Right effort): both already support the inherited attributions (Posner & Petersen 1990 cited via the concept's own sources; Right effort well-attested).
+- B027 Baer 2006 psychology-parallel correction (supervisor QC 2026-10-19): applied and independently verified against the PubMed abstract for PMID 16443717 (fetched this session).
+- Saturation: Y026 already cited by Attentional control theory, Attentional control training, Goal-directed attentional control, Progressive overload in attentional training, Right mindfulness, The effort of attention, To the things themselves, Two modes of attentional control, K043, P196. No justified new proposals.
+- Validator on final: ok; protected fields byte-identical vs baseline a5782bc5.
+
 ## B057 — Choose anchored or open awareness by need (done 2026-10-20; no advisor QC per speed directive, item 12 of session)
 
 - Opened: https://accesstoinsight.org/tipitaka/mn/mn.118.than.html (MN 118 Anapanasati Sutta, trans. Thanissaro Bhikkhu); page saved to /tmp/src-mn118.html for the saved-source quote check. New source this session.
