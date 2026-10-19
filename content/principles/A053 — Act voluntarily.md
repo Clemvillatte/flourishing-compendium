@@ -12,13 +12,18 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 53** — Act voluntarily
 
-A voluntary action is one where the agent knows what they are doing, chooses it, and does it from an internal origin. Virtue and vice are voluntary. You are the origin of your character, shaped through your choices. Own your actions as your own.
+The principle's definition is NE III.1's:
+
+> Since that which is done under compulsion or by reason of ignorance is involuntary, the voluntary would seem to be that of which the moving principle is in the agent himself, he being aware of the particular circumstances of the action. (NE III.1, Ross trans., [MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html))
+
+The chapter adds nuance the principle keeps: actions done from fear (jettisoning cargo in a storm) are mixed, "more like voluntary actions," because the moving principle is in the man and in his power to do or not to do (III.1). And the voluntariness of character follows: "Therefore virtue also is in our own power, and so too vice" (III.5). The directive to own your actions as your own summarizes that chain.
 
 (NE III.1.)
 
-**Plain words** An action is voluntary when you know what you're doing, choose it, and it starts in you. Aristotle says virtue and vice are voluntary in this sense. You're the origin of your character. So own what you do as yours.
+**Plain words**
+Aristotle's test has two parts: did the action start in you, and did you know the circumstances? Most "I had no choice" moments fail the first part, not the second. The harder claim is that character works the same way: built from choices, which makes it yours too.
 
-*For example:* Telling yourself "I had no choice" about a snappy reply you sent knowingly, at your desk, with time to think, isn't quite true.
+*For example:* Telling yourself "I had no choice" about a snappy reply you sent knowingly, at your desk, with time to think, fails Aristotle's first test: the reply started in you.
 
 ## Stories
 

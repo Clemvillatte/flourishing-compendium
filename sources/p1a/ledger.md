@@ -248,3 +248,12 @@ session after supervisor QC flags.
   - The old plain words was a replicate of the body (same two-faces and three-questions text); repaired. The group-project example retained, tightened and mapped to the two branches.
   - Speed directive: no advisor QC this item (18); one commit.
 - Saturation: A023 linked from its fairness kernels (K287, K291, K297); no new reciprocals proposed.
+
+## A053 — Act voluntarily (done 2026-10-19)
+
+- Opened: Aristotle, Nicomachean Ethics, Book III (page carrying III.1 and III.5 material), Ross translation, MIT Classics, https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html
+  - Verified verbatim (blockquote): "Since that which is done under compulsion or by reason of ignorance is involuntary, the voluntary would seem to be that of which the moving principle is in the agent himself, he being aware of the particular circumstances of the action."
+  - Verified inline: "more like voluntary actions"; "the principle that moves the instrumental parts of the body in such actions is in him"; "Therefore virtue also is in our own power, and so too vice" (III.5); mixed-action cargo-in-storm case.
+  - The old plain words was a replicate of the body (same definition + "own what you do as yours"); repaired. The old example's "isn't quite true" replaced with the explicit first-test framing.
+  - Speed directive: no advisor QC this item (19; next milestone 20); one commit.
+- Saturation: A053 linked from its Stories (Medea, Odysseus, akrasia contexts); no new reciprocals proposed.
