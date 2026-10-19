@@ -67,8 +67,9 @@ The owner's primary-source library is in `docs/PRIMARY-SOURCES.md`.
 | p1n | selected ranks 1037-1142 | B164 to P036 (30 priority items) | p1n | OPEN | unclaimed | 2026-10-19 |
 | p1o | selected ranks 1143-1320 | P040 to B042 (30 priority items) | p1o | OPEN | unclaimed | 2026-10-19 |
 | p1p | selected ranks 1321-1386 | B046 to D028 (30 priority items) | p1p | OPEN | unclaimed | 2026-10-19 |
+| p1q | selected ranks 1387-1411 + 1469-1473 | D033 to P020 (30 priority items) | p1q | OPEN | unclaimed | 2026-10-20 |
 
-Reserve manifests p1i-p1p contain ONLY previously unassigned B/D/P numeric IDs (Buddhism,
+Reserve manifests p1i-p1q contain ONLY previously unassigned B/D/P numeric IDs (Buddhism,
 Daoism, and Pragmatist/process principles), in existing degree order. Their rank bounds
 are non-contiguous: `selected_ranks` and the manifest's IDs are authoritative. No existing
 band or queue was changed. Workers waiting for a principle slot may claim these now.
