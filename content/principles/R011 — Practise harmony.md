@@ -12,13 +12,28 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 273** — Practise harmony
 
-Seek harmony in your relationships and in your community. Harmony is not the absence of conflict but the creative resolution of difference. It is achieved through dialogue, patience, and the willingness to see the other's point of view.
+Two traditions the principle draws on say something close to this, and both are specific about what harmony is not.
 
-([[Ubuntu|Ubuntu philosophy]]; Wiredu, "Social Philosophy in Postcolonial Africa.")
+### Wiredu on reconciliation
 
-**Plain words** Harmony isn't the absence of conflict — it's what conflict becomes when it's worked through with patience and genuine listening. Aim for the creative resolution, not the silent truce. A harmony bought with silence is a ceasefire, not a peace.
+Kwasi Wiredu, writing on consensus in traditional Ashanti politics, says that when a dispute was resolved, "the point of it was seen in the attainment of reconciliation rather than the mere abstention from further recriminations or collisions." He defines reconciliation as "a restoration of goodwill through a reappraisal of the significance of the initial bones of contention" ([Wiredu, "Democracy and Consensus in African Traditional Politics," polylog edition](https://them.polylog.org/2/fwk-en.htm)). It "does not necessarily involve a complete identity of moral or cognitive opinions": it is enough "that all parties are able to feel that adequate account has been taken of their points of view".
 
-*For example:* The two departments who've argued for a year — and finally sit down, each genuinely restating the other's case, and design a process neither had imagined alone.
+He also holds that "consensus usually presupposes an original position of diversity", so harmony starts from difference.
+
+### Confucius on harmony and sameness
+
+Analects 13.23 puts the same contrast in a line. In Legge's translation: "The superior man is affable, but not adulatory; the mean man is adulatory, but not affable" ([ctext](https://ctext.org/analects/zi-lu)). The Chinese is 君子和而不同，小人同而不和, which sets harmony (和) against sameness (同).
+
+### Where the compendium goes further
+
+Wiredu's account is about political consensus. Applying it to personal relationships and communities is the compendium's extension. "Patience" and "willingness to see the other's point of view" are not Wiredu's words, although his test that parties feel "adequate account has been taken of their points of view" is close.
+
+([[Ubuntu|Ubuntu philosophy]]; Wiredu, "Democracy and Consensus in African Traditional Politics"; Analects 13.23.)
+
+**Plain words** A truce where one side goes quiet is not harmony. Wiredu's test is whether people leave feeling their view was actually taken into account, even if they still disagree. Confucius says the same from the other side: someone who only agrees with you is not harmonious, just the same.
+
+*For example:* Imagine two departments that disagree about a budget. A quiet truce would be one side giving in. Wiredu's version would be both sides leaving the meeting able to say that their concerns were heard and counted in the plan.
+
 ## Stories
 
 - [[ST134 — Ingold's Lines|134. Ingold's Lines]]
