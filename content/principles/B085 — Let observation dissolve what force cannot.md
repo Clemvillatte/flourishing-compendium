@@ -20,7 +20,7 @@ The Vitakkasanthana Sutta's ladder of responses to unskillful thoughts climbs to
 
 The simile the sutta attaches to this rung is a man slowing his own walking: "Just as the thought would occur to a man walking quickly, 'Why am I walking quickly? Why don't I walk slowly?' So he walks slowly." The attention moves to the pace of the thought itself; the slowing in the image is something the walker does, in answer to his own question.
 
-The ladder's fifth and final rung is forceful — "with his teeth clenched and his tongue pressed against the roof of his mouth — he should beat down, constrain, and crush his mind with his awareness" — but the sutta places that rung after this one.
+The ladder's fifth and final rung is forceful — the monk is told to "beat down, constrain, and crush his mind with his awareness" — but the sutta places that rung after this one.
 
 (MN 20.)
 
