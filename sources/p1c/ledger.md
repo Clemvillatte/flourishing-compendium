@@ -390,3 +390,11 @@ copied from the opened URL in this session.
   sentence fetched verbatim). The seed's mechanism claim (authenticity/competence
   needs) is presented as a guess, not a tested finding; Gander et al. 2013 and
   Peterson & Seligman 2004 not opened. Validated vs HEAD (pre-item).
+
+## P159 — Defuse: see thoughts as thoughts (Hayes et al. 2011)
+
+- Reused the opened https://pmc.ncbi.nlm.nih.gov/articles/PMC3635495/ (Hayes et al.
+  2011; defusion section fetched verbatim: literal-believability sentence, "having
+  the thought that" example, goal sentence). Seed locator cited the Hayes/Strosahl/
+  Wilson 2011 book; the opened source is the same authors' 2011 Behavior Therapy
+  article. Validated vs HEAD (pre-item).

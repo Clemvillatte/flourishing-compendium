@@ -12,13 +12,20 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 159** — Defuse: see thoughts as thoughts
 
-A thought is an event in your stream, not a command or a fact: watch "I can't do this" arise like a bubble, and act on your values anyway.
+The ACT article names the problem and the move. The problem: "People begin to take their thoughts literally, without noticing the process of thinking itself." The move is defusion, and "the focus is on mindfully noticing thinking as it occurs." The technique this page is about is listed among the article's examples: "Clients can practice labeling the process of thinking (e.g., 'I am having the thought that I will never be successful'), and practice behaving in ways that directly contradict a thought."
 
-(Hayes, Strosahl and Wilson, 2011.)
+> "The goal is greater behavioral flexibility, not an immediate change in their frequency or form." (Hayes et al. 2011, [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3635495/))
 
-**Plain words** The thought shows up, you say "having the thought that...", and the thought loses its badge. A thought is an event in your stream, not a command or a fact — watch "I can't do this" arise like a bubble, and act on your values anyway.
+The compendium applies the goal sentence to the panic thought: the exercise is not to stop "I can't do this" but to present while thinking it.
 
-*For example:* The presentation panic thought — 'I can't do this' — observed like a weather system: 'there's the can't-do-it thought again.' Still nervous. Still presenting. The thought just stopped being the boss.
+**Plain words**
+The technique is a labeling move: the thought shows up, and you say "having the thought that..." — the sentence keeps the thought from being mistaken for a command. The article is explicit that the aim is not fewer thoughts or nicer thoughts; the aim is flexibility. You can still be nervous and still present.
+
+*For example:* Suppose the presentation panic thought "I can't do this". As a modern application, the defusion version is "there's the can't-do-it thought again" and continuing to present, nervous and all.
+
+## Sources
+
+- [Hayes et al. 2011, ACT and Contextual Behavioral Science (Behavior Therapy, PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3635495/)
 
 ## Stories
 
