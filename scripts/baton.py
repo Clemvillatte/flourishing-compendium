@@ -101,7 +101,7 @@ def release(baton, agent):
 
 def status():
     subprocess.run(['git', 'fetch', '-q', 'origin'], cwd=ROOT)
-    r = subprocess.run(['git', 'ls-tree', '--name-only', 'origin/main', BATDIR],
+    r = subprocess.run(['git', 'ls-tree', '-r', '--name-only', 'origin/main', BATDIR],
                        cwd=ROOT, capture_output=True, text=True)
     names = [os.path.splitext(os.path.basename(n))[0] for n in r.stdout.splitlines() if n.endswith('.json')]
     if not names:

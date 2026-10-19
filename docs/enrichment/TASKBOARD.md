@@ -1,6 +1,6 @@
 # Enrichment task board
 
-Any agent starting on this repository: read `docs/ENRICHMENT-HANDOFF.md` first, then claim work here.
+Any agent starting on this repository: read `docs/ENRICHMENT-HANDOFF.md` first, then take a baton (see `docs/enrichment/OPERATIONS.md`), then claim work here.
 
 ## How to claim
 

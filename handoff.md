@@ -1,5 +1,6 @@
 # Handoff (start here)
 
+- FIRST read `docs/enrichment/OPERATIONS.md` and take a baton: `python3 scripts/baton.py status`, then claim the supervisor baton if free/stale, else a worker baton.
 - Content-enrichment programme: read `docs/ENRICHMENT-HANDOFF.md`, then claim a band on `docs/enrichment/TASKBOARD.md`.
 - Site/mobile work: see `docs/MOBILE-HANDOFF.md`.
 - This file stays at the root and stays current; the detailed status lives in the two docs above.

@@ -11,7 +11,7 @@ serendipity and material for essays on Genuine Flourishing, alleviation of suffe
 (`docs/enrichment/HUMANIZER-SKILL.md`). ZERO hallucination: every fact verified in a consulted source. Keep this handoff current at every milestone.
 
 ## How to resume (5 steps)
-0. `git pull`; claim a band on `docs/enrichment/TASKBOARD.md` (parallel-agent rules are there; the lead is the w1a agent). Then read `docs/enrichment/PROTOCOL.md` (the per-concept workflow, template, rules) and `EXEMPLARS.md`.
+0. `git pull`; read `docs/enrichment/OPERATIONS.md` and take a baton (`scripts/baton.py status` -> clock-in; supervisor if free/stale, else worker for your band). Then read `docs/enrichment/PROTOCOL.md` (the per-concept workflow, template, rules) and `EXEMPLARS.md`.
 1. `python3 scripts/enrich_stats.py --show 60` lists weak concepts by degree; skip anything already done (check your batch file and `docs/enrichment/progress.json`).
 2. Enrich concepts one at a time, in degree order within your band; save after each (see PROTOCOL.md §7).
 3. After each wave: `python3 scripts/enrich_validate.py` (must be all ok) -> the LEAD ONLY runs `python3 scripts/enrich_apply.py` (applies cross-link proposals; it edits other bands' files) -> validate again -> `python3 scripts/build.py` (must succeed) -> lead merges batch logs into `progress.json` -> update the STATUS table below -> commit -> push.
