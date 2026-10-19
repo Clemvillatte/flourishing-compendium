@@ -12,13 +12,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 100** — Keep compassion free of pity (the near enemy)
 
-Pity looks down from above; compassion stands beside. Watch for the near enemies: pity for compassion, sentimentality for love, indifference for equanimity.
+The distinction is Buddhaghosa's, in the Visuddhimagga: each divine abiding has a near enemy and a far enemy. Compassion's far enemy is cruelty; its near enemy is grief based on the home life, the worldly sadness that shares compassion's sight of failure without sharing its work ([Visuddhimagga IX.99, Ñāṇamoli](https://www.wisdomlib.org/buddhism/book/visuddhimagga-the-pah-of-purification/d/doc1085082.html)).
+
+> Compassion has grief based on the home life as its near enemy, since both share in seeing failure. ... And cruelty, which is dissimilar to the similar grief, is its far enemy. (Visuddhimagga IX.99, [Ñāṇamoli](https://www.wisdomlib.org/buddhism/book/visuddhimagga-the-pah-of-purification/d/doc1085082.html))
+
+The compendium's gloss, pity looks down while compassion stands beside, is the modern rendering of the same alert: the counterfeit resembles the real thing closely enough to be mistaken for it. The pairs for the other abidings run the same way: greed for loving-kindness, worldly joy for gladness, the equanimity of unknowing for equanimity ([Visuddhimagga IX.98-101, Ñāṇamoli](https://www.wisdomlib.org/buddhism/book/visuddhimagga-the-pah-of-purification/d/doc1085082.html)).
 
 (Brahmavihara commentarial tradition.)
 
-**Plain words** Pity looks down from above; compassion stands beside. Watch for the near enemies — pity for compassion, sentimentality for love, indifference for equanimity. Each virtue has a cheap knockoff that looks identical from a distance.
+**Plain words**
+The tradition says each of the four has a counterfeit that passes for it at a distance. Compassion's counterfeit is the version that keeps the sufferer small and the helper comfortable: "poor thing", said from above. The test is position. Someone beside you can take part of the load; someone above you can only describe it.
 
-*For example:* 'Poor thing' (pity, from above) versus 'that's hard, I'm here' (compassion, beside) — the person on the receiving end feels the difference instantly.
+**For example**
+"Poor thing" (pity, from above) versus "that's hard, I'm here" (compassion, beside) — the person on the receiving end feels the difference instantly.
+
+## Sources
+
+- [Visuddhimagga (The Path of Purification), Ñāṇamoli translation, Wisdom Library](https://www.wisdomlib.org/buddhism/book/visuddhimagga-the-pah-of-purification/d/doc1085082.html) — IX.98-101, near and far enemies verified verbatim
 
 ## Stories
 

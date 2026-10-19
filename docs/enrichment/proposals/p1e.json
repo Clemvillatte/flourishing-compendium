@@ -45,7 +45,22 @@
    "into": "Compassion",
    "link": "B099 — Respond to suffering with the wish to relieve it (karuna in action)",
    "why": "B099's psychology and philosophy parallels both link Compassion; the concept page cites no B099"
+  },
+  {
+   "into": "Burnout",
+   "link": "B100 — Keep compassion free of pity (the near enemy)",
+   "why": "B100's psychology parallels link Burnout in helpers; the concept page cites no B100"
+  },
+  {
+   "into": "Sympathy",
+   "link": "B100 — Keep compassion free of pity (the near enemy)",
+   "why": "B100's philosophy parallels link Sympathy; the concept page cites no B100"
+  },
+  {
+   "into": "I and Thou",
+   "link": "B100 — Keep compassion free of pity (the near enemy)",
+   "why": "B100's philosophy parallels link the I-Thou versus I-It; the concept page cites no B100"
   }
  ],
- "notes": "p1e proposals (genuineflourishing28). All concepts are already linked from the principles' side; reciprocals only. D011: Wu wei, The water metaphor, The meek. D008: Awe. BI053: Interoception, Yangsheng. B055: Being-toward-death. B084: The doctrine of the mean. B099: Compassion."
+ "notes": "p1e proposals (genuineflourishing28). All concepts are already linked from the principles' side; reciprocals only. D011: Wu wei, The water metaphor, The meek. D008: Awe. BI053: Interoception, Yangsheng. B055: Being-toward-death. B084: The doctrine of the mean. B099: Compassion. B100: Burnout, Sympathy, I and Thou."
 }

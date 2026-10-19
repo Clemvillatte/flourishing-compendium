@@ -135,3 +135,12 @@ Advisor QC (2026-10-19): quotes verified (BQ1 ch. 22 sentence, BQ2 ch. 68 verse 
 - BI053 REPAIRED: the blockquote's "Its" antecedent restored (full two-sentence abstract quote naming the AIC first); "foundation of emotional awareness" replaced with the abstract's actual claim (AIC re-representation tied to subjective feelings); the two-week heartbeat-training outcome claim removed (For example now a hypothetical count-and-compare procedure); "It is trainable" removed from the body (training claims remain only as flagged inherited parallels citations). Validator ok, prose 112.
 - B055 REPAIRED: "death is the fifth" was WRONG — the re-fetched sutta list (AN 5.57) shows death is the THIRD subject for recollection (1 aging, 2 illness, 3 death, 4 separation, 5 kamma); corrected. Funeral anecdote replaced with a hypothetical priority review. Validator ok, prose 219.
 - All three: no wikilink changes; protected fields untouched.
+
+## B100 — Keep compassion free of pity (the near enemy) (done; no advisor QC per speed directive, item 16)
+
+- Opened: Visuddhimagga (The Path of Purification), Ñāṇamoli translation, Wisdom Library (https://www.wisdomlib.org/buddhism/book/visuddhimagga-the-pah-of-purification/d/doc1085082.html) — NEW SOURCE (wisdomlib); source count incremented. Verified verbatim: "Compassion has grief based on the home life as its near enemy, since both share in seeing failure. ... And cruelty, which is dissimilar to the similar grief, is its far enemy." (IX.99) and the full IX.98-101 near/far enemy set (loving-kindness/greed/ill will; gladness/worldly joy/aversion; equanimity/unknowing/greed+resentment).
+- NOTE: the compendium's "pity" gloss is the modern rendering; the classical near enemy of compassion is grief based on the home life. Body now presents the classical wording in the quote and labels the pity gloss as the compendium's modern rendering.
+- B100 was on the plain-words replicate list; replicate Plain words replaced.
+- Inherited, NOT opened: Singer and Klimecki 2014, Maslach claims — flagged in the band state file.
+- Saturation: Empathic distress, Karuna, K168 cite B100; Burnout, Sympathy, I and Thou do not — three reciprocal proposals added.
+- Validator: ok, prose 188 words; protected fields untouched.

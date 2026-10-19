@@ -15,9 +15,10 @@
   "BI053",
   "B055",
   "B084",
-  "B099"
+  "B099",
+  "B100"
  ],
- "in_progress": "B100",
+ "in_progress": null,
  "flagged": {
   "D011": "inherited psychology claim (Kashdan & Rottenberg 2010 'outperforms on nearly every outcome') not verified against an opened source; preserved per protocol, flagged for supervisor",
   "D068": "inherited psychology-parallels claims (Gottman soft startup; assertiveness research 'aggression reliably loses long games') not verified against opened sources; flagged for supervisor",
@@ -32,10 +33,11 @@
   "BI053": "psychology-parallels references partially verified: Craig 2009 abstract opened verbatim; Barrett et al. 2019, Khalsa et al. 2018, Tang et al. 2015 not opened; flagged for supervisor",
   "B055": "psychology-parallels claims (Cozzolino 2006; Greenberg et al. 1986) not verified against opened sources; MN 131 locator inherited, not re-verified; flagged for supervisor",
   "B084": "psychology-parallels claims (Gross 2015; adaptive flexibility research) not verified against opened sources; the five-antidotes tradition pairs inherited from the seed; flagged for supervisor",
-  "B099": "Reopened for QC: QC: Metta Sutta passage is goodwill, not karuna-mechanism evidence; applying advisor-approved source-bounded replacements"
+  "B099": "Reopened for QC: QC: Metta Sutta passage is goodwill, not karuna-mechanism evidence; applying advisor-approved source-bounded replacements",
+  "B100": "psychology-parallels claims (Singer and Klimecki 2014; Maslach burnout) not verified against opened sources; the 'pity looks down' gloss is the compendium's modern rendering, the classical Visuddhimagga wording is grief-based-on-the-home-life; flagged for supervisor"
  },
  "missing_concepts": [],
- "sources_checked": 5,
- "updated": "2026-10-19T12:27:18+00:00",
+ "sources_checked": 6,
+ "updated": "2026-10-19T12:28:00+00:00",
  "band_done": false
 }
