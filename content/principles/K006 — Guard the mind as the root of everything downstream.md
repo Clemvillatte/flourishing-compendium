@@ -12,13 +12,21 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 6** — Guard the mind as the root of everything downstream
 
-The vigilance chapter's image: everything that matters (speech, action, career, relationships) is downstream of the mind's state, as the harvest is downstream of the water. A guarded mind is not a repressed mind; it is a watched one, whose states are known as they arise. Practically, treat input curation (media, company, environments) as mind-protection rather than as a lifestyle preference.
+Shantideva opens the vigilance chapter with the root claim:
 
-(Shantideva, Bodhicharyavatara, ch. 5; Tsongkhapa's lamrim, the opening reflections.)
+> "Those who wish to keep a rule of life / Must guard their minds in perfect self-possession. / Without this guard upon the mind, / No discipline can ever be maintained." (Shantideva, Bodhicharyavatara 5.1, [Padmakara Translation Group, chapter text](https://nalandaolywa.org/docs/Shantideva-Ch5.pdf))
 
-**Plain words** Speech, work, relationships: they're all downstream of the state of your mind, like a harvest from water. Guarding the mind isn't clamping down on it. It means watching it, so you know your states as they arise. That includes what you let in: the media, the company, the places.
+The next verses set the stakes with an elephant: the untethered "elephant of mind" brings worse calamities than any worldly beast, while a mind "tethered all around" by "mindfulness' rope" ends the fears and hands over the virtues ([5.2-3, ibid.](https://nalandaolywa.org/docs/Shantideva-Ch5.pdf)). Guarding is watching rather than repressing: knowing your states as they arise, which is why what you let reach the mind belongs to the practice. The modern parallel is precise. In Gross's process model, situation selection is the first of five points at which emotion can be regulated: "Situation selection refers to approaching or avoiding certain people, places, or things so as to regulate emotion" ([Gross 2002](https://www.psychiatry.wisc.edu/courses/Nitschke/seminar/gross_2002_psychophys.pdf)), and "the first four of these are antecedent focused, the fifth is response focused" ([ibid.](https://www.psychiatry.wisc.edu/courses/Nitschke/seminar/gross_2002_psychophys.pdf)). Choosing inputs acts early in the generative process; the compendium's account is [[Situation selection]].
+
+**Plain words**
+Everything you say and do flows out of the state your mind is in, the way a harvest comes from water. If the water is garbage, no technique downstream fixes it. So the first move is choosing what you expose the mind to: which feeds, which rooms, which people, which hour of the day the news arrives. It feels like taste; it is protection. And guarding the mind means watching it, not gagging it; you can only choose inputs you notice.
 
 *For example:* Noticing that every time you read certain news before bed you wake up irritable, and quietly stopping. Not suppressing anything, just choosing the water.
+
+## Sources
+
+- [Shantideva, Bodhicharyavatara, ch. 5 (Padmakara Translation Group), Nalanda Institute chapter text](https://nalandaolywa.org/docs/Shantideva-Ch5.pdf) — verses 1-3, verbatim
+- [Gross, "Emotion regulation: Affective, cognitive, and social consequences," Psychophysiology 39 (2002) (PDF, UW-Madison)](https://www.psychiatry.wisc.edu/courses/Nitschke/seminar/gross_2002_psychophys.pdf) — situation selection definition; five points of regulation
 
 ## Psychology parallels
 
