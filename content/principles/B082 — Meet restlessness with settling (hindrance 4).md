@@ -12,13 +12,20 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 82** — Meet restlessness with settling (hindrance 4)
 
-When worry and agitation spin the mind, settle the body: lengthen the exhale, ground in the feet, let the breath slow the mind.
+The breath instruction in the Anapanasati Sutta includes a step aimed at the agitated body: the monk trains himself to breathe "calming bodily fabrication."
 
-(MN 10; SN 46.)
+> "He trains himself, 'I will breathe in calming bodily fabrication.' He trains himself, 'I will breathe out calming bodily fabrication.'" (MN 118, [Thanissaro, accesstoinsight](https://www.accesstoinsight.org/tipitaka/mn/mn.118.than.html))
 
-**Plain words** When worry and agitation spin the mind, settle the body: lengthen the exhale, ground in the feet, let the breath slow the mind. Restlessness lives in the body first; you can't argue a spinning mind into stillness, but you can breathe it there.
+The compendium applies that step to restlessness: the settling the sutta teaches is done with the breath, on the body, rather than by arguing with the spinning mind.
 
-*For example:* The pre-presentation jitters: long exhale, feet on floor, shoulders down — the body settles, and the mind follows it home.
+**Plain words**
+Restlessness shows up as a body first: shallow breath, lifted shoulders, a leg that will not stop. The sutta's move is to work where the agitation actually lives. Breathe out long, let the shoulders drop, and the mind has one less thing to be wound up about.
+
+*For example:* Suppose pre-presentation jitters. As a modern application, the sutta's step is the long exhale, feet on the floor, shoulders down, repeated until the body stops buzzing.
+
+## Sources
+
+- [MN 118 (Anapanasati Sutta), trans. Thanissaro Bhikkhu (accesstoinsight)](https://www.accesstoinsight.org/tipitaka/mn/mn.118.than.html)
 
 ## Stories
 

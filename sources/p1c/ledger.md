@@ -274,3 +274,10 @@ copied from the opened URL in this session.
 - Opened: https://www.accesstoinsight.org/tipitaka/mn/mn.118.than.html (MN 118,
   Thanissaro; posture formula and breathing-instructions fetched verbatim). Validated vs
   HEAD (pre-item). Same opening pre-mined for B082 (calming-bodily-fabrication sentence).
+
+## B082 — Meet restlessness with settling (MN 118)
+
+- Reused the MN 118 opening (same session): "calming bodily fabrication" sentences
+  fetched verbatim. MN 10 and SN 46 from the old seed locator were not opened; the
+  hindrance framing is the compendium's, the breath-settling is the sutta's. Validated
+  vs HEAD (pre-item).
