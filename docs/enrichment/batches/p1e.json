@@ -33,7 +33,8 @@
   "E070",
   "PP001",
   "PP009",
-  "PP032"
+  "PP032",
+  "R007"
  ],
  "in_progress": null,
  "flagged": {
@@ -67,7 +68,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 19,
- "updated": "2026-10-19T14:04:03+00:00",
+ "updated": "2026-10-19T14:04:39+00:00",
  "band_done": false,
  "takeover": {
   "by": "genuineflourishing35",
