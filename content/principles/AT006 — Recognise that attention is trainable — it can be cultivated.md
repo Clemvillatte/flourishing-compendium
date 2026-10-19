@@ -12,14 +12,29 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AT — Attentio
 ---
 > **Principle 6** — Recognise that attention is trainable: it can be cultivated
 
-Attention is not a fixed capacity. It can be improved through deliberate practice, meditation, and environmental design. The effects are measurable in both behaviour and brain structure.
+Prakash and colleagues reviewed 57 studies of changes in alerting, orienting and executive attention after mindfulness training ([2020, abstract](https://pmc.ncbi.nlm.nih.gov/articles/PMC8011594/)). They found the strongest support for conflict monitoring, weak support for orienting, and a mixed picture for alerting ([Summary and Final Thoughts](https://pmc.ncbi.nlm.nih.gov/articles/PMC8011594/)).
 
-**Plain words** Attention is trainable — not a fixed quota you were issued at birth. Like fitness, it responds to practice and declines with neglect. Nobody expects to get fit by wishing; attention is the same deal.
+> "Although many non-randomized and retreat studies provide promising evidence of gains in both alerting and conflict monitoring following mindfulness training, evidence from randomized controlled trials, especially those involving active control comparison groups, is more mixed." ([Prakash et al., 2020, abstract](https://pmc.ncbi.nlm.nih.gov/articles/PMC8011594/))
 
-*For example:* The person who "can't sit still for five minutes" and, eight weeks of practice later, notices they read a whole chapter without reaching for the phone. Same brain, trained.
+### A promising tool, with limits
+
+The authors call mindfulness a promising tool, but also report evidence against some enhancement claims ([Summary and Final Thoughts](https://pmc.ncbi.nlm.nih.gov/articles/PMC8011594/)). They ask for "inclusion of active comparison groups and explicit attention to the reduction of demand characteristics are needed to disentangle the effects of placebo from treatment" ([abstract](https://pmc.ncbi.nlm.nih.gov/articles/PMC8011594/)).
+
+### Scope
+
+The blanket claim "all improve it" in the Practice section below is stronger than this review supports ([Prakash et al., 2020, Summary and Final Thoughts](https://pmc.ncbi.nlm.nih.gov/articles/PMC8011594/)). Environmental design is the compendium's practical addition, not a finding of this mindfulness review.
+
+### Plain words
+
+Ask which part of attention a practice is meant to train and what would count as improvement. In this review, evidence was more mixed in randomised trials, particularly those with active comparison groups ([abstract](https://pmc.ncbi.nlm.nih.gov/articles/PMC8011594/)).
+
+### For example
+
+Imagine practising meditation, then checking whether reading a chapter involves fewer unplanned phone checks. That is a possible way to observe your habits; this review does not establish that mindfulness causes improvement on that everyday task.
+
 ## Psychology parallels
 
-- **Meditation training improves attention**, both focused attention and open monitoring meditation improve sustained attention, selective attention, and executive control (Tang et al., 2015; Goleman & Davidson, 2017)
+- **Mindfulness training and attention**: strongest support for conflict monitoring, weak support for orienting, and mixed evidence for alerting ([Prakash et al., 2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC8011594/)).
 - **Attention training produces measurable brain changes**, long-term meditation is associated with changes in attention-related brain networks (Lazar et al., 2005; Fox et al., 2014)
 - **Note: some specific claims about meditation's attentional benefits have been challenged**, effects are real but sometimes smaller than popular accounts suggest (Van Dam et al., 2018)
 
