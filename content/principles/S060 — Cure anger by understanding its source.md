@@ -16,9 +16,26 @@ Seneca's De Ira is a therapeutic manual. Anger arises from the judgement that yo
 
 (Seneca, De Ira I.1, II.1-4, III.1; Med. I.9, II.1, IV.3, IX.4.)
 
-**Plain words** Seneca's On Anger is a therapy manual. Anger comes from judging that you've been wronged and revenge is fitting. Both judgements can be examined. The cure isn't suppression but understanding: see the event, see your judgement, and let it go.
+### The definition and the remedy
+
+Seneca's opening diagnosis:
+
+> "Some of the wisest of men have in consequence of this called anger a short madness: for it is equally devoid of self control, regardless of decorum, forgetful of kinship, obstinately engrossed in whatever it begins to do, deaf to reason and advice, excited by trifling causes, awkward at perceiving what is true and just, and very like a falling rock which breaks itself to pieces upon the very thing which it crushes." (Seneca, Of Anger I.1, tr. Aubrey Stewart, [Wikisource](https://en.wikisource.org/wiki/Of_Anger/Book_I))
+
+The definition the treatise works with: "Aristotle's definition differs little from mine: for he declares anger to be a desire to repay suffering" (Seneca, Of Anger I.2). The contrast that drives the therapy: "Reason gives each side time to plead; moreover, she herself demands adjournment, that she may have sufficient scope for the discovery of the truth; whereas anger is in a hurry: reason wishes to give a just decision; anger wishes its decision to be thought just" (Seneca, Of Anger I).
+
+The remedy he prescribes:
+
+> "The greatest remedy for anger is delay: beg anger to grant you this at the first, not in order that it may pardon the offence, but that it may form a right judgment about it: if it delays, it will come to an end. Do not attempt to quell it all at once, for its first impulses are fierce; by plucking away its parts we shall remove the whole." (Seneca, Of Anger II.29, tr. Aubrey Stewart, [Wikisource](https://en.wikisource.org/wiki/Of_Anger/Book_II))
+
+**Plain words** The treatise treats anger as built on two judgements: that you were wronged, and that payback fits. Both are checkable, and checking is the cure Seneca prescribes: his delay is not a cooling-off trick but a request for time to judge, on the model of a court that hears both sides. When the colleague's remark lands, the practical sequence is to ask what was meant before deciding what was meant to hurt, since the anger usually rests on the accusation, and the accusation is the part you can verify.
 
 *For example:* Furious at a colleague's remark, you ask "was it meant that way?" and the heat drops.
+
+## Sources
+
+- [Seneca, Of Anger Book I (tr. Aubrey Stewart), Wikisource](https://en.wikisource.org/wiki/Of_Anger/Book_I): anger as short madness, definitions, reason versus anger
+- [Seneca, Of Anger Book II (tr. Aubrey Stewart), Wikisource](https://en.wikisource.org/wiki/Of_Anger/Book_II): the remedy of delay
 
 ## Stories
 
