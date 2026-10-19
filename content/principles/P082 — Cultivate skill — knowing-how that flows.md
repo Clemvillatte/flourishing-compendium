@@ -24,11 +24,15 @@ Cook Ding explains why his blade lasts nineteen years:
 
 The method behind the edge: "I deal with it in a spirit-like manner, and do not look at it with my eyes. The use of my senses is discarded, and my spirit acts as it wills. Observing the natural lines, (my knife) slips through the great crevices and slides through the great cavities" (Zhuangzi 3, tr. James Legge).
 
-Dewey lands the same point about habit from the psychological side:
+The passage also records where the attention goes when the work gets hard:
+
+> "Nevertheless, whenever I come to a complicated joint, and see that there will be some difficulty, I proceed anxiously and with caution, not allowing my eyes to wander from the place, and moving my hand slowly." (Zhuangzi 3, tr. James Legge, [tianmu.org](https://tianmu.org/good-work-library/daoist/zhuangzi/inner-chapters/zhuangzi-nourishing-the-lord-of-life))
+
+Dewey offers a related account of habit from the psychological side:
 
 > "For it is a commonplace that the more suavely efficient a habit the more unconsciously it operates. Only a hitch in its workings occasions emotion and provokes thought." (Dewey, Human Nature and Conduct, [Project Gutenberg](https://www.gutenberg.org/cache/epub/41386/pg41386.txt))
 
-**Plain words** The cook's skill lives in the knife's path, not in a plan he recites. Nineteen years of oxen taught his hand where the joints give, so the blade has nothing to force and nothing to blunt against. Dewey's version is the same observation in modern dress: the smoother the habit, the less awareness it needs, and thought shows up only when something jams. Skill feels effortless from the inside because the deliberation was paid in advance, during the training.
+**Plain words** Practice a movement until you can carry it out reliably, then learn to notice when the usual movement no longer fits. Cook Ding's difficult joint calls for closer attention and a slower hand. In your own work, carry out familiar steps fluently and pause when an unfamiliar condition changes what the task requires.
 
 *For example:* The veteran barista during the morning rush — no decisions, no strain, just the pour. That's years of joints, followed. Grace is accumulated.
 

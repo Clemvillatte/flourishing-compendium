@@ -22,13 +22,17 @@ Chapter 71 names the symptom:
 
 > "To know and yet (think) we do not know is the highest (attainment); not to know (and yet think) we do know is a disease." (DDJ 71, [Legge](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 
-The chapter continues: "It is simply by being pained at (the thought of) having this disease that we are preserved from it. The sage has not the disease. He knows the pain that would be inseparable from it, and therefore he does not have it" (DDJ 71, Legge). The disease is treatable only while you can still feel it.
+The chapter continues:
 
-Zhuangzi's butterfly widens the gap to the frame of life itself:
+> "It is simply by being pained at (the thought of) having this disease that we are preserved from it. The sage has not the disease. He knows the pain that would be inseparable from it, and therefore he does not have it." (DDJ 71, [Legge](https://www.gutenberg.org/cache/epub/216/pg216.txt))
+
+Concern about the disease, including in one who does not yet have it, is the safeguard the chapter describes.
+
+Zhuangzi's butterfly leaves a question open:
 
 > "Now I do not know whether it was then I dreamt I was a butterfly, or whether I am now a butterfly dreaming I am a man." (Zhuangzi 2, tr. James Legge, via [Wikiquote](https://en.wikiquote.org/wiki/Zhuangzi))
 
-**Plain words** Both texts put the trouble in confidence rather than in ignorance. Laozi treats the confident "I know" as the symptom: once the claim is made, the searching stops, and the searching was the healthy part. Zhuangzi widens the gap, since from inside a life you cannot fully check which layer of it is the waking one, and his butterfly story leaves the question open on purpose. Saying "I don't know" is the working position of a mind still in contact with the situation. It keeps the inquiry alive, which is why the doctor who says "let's find out" is the safer one.
+**Plain words** Before settling an answer, separate what you have checked from what you are assuming. Name any missing information and how you could investigate it. You can make a provisional decision while remaining willing to revise it when new evidence arrives. The trouble Laozi names is believing you know what you have not verified, and the safeguard is staying bothered by that gap.
 
 *For example:* The doctor who says 'I don't know, let's find out' is safer than the one with the instant answer — curiosity is the treatment.
 
