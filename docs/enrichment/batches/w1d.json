@@ -15,15 +15,16 @@
   "Guilt motivates reparative behaviour",
   "Hope",
   "Implicit theories of intelligence",
-  "Judgment adds the harm"
+  "Judgment adds the harm",
+  "Learning by doing"
  ],
- "in_progress": "Learning by doing",
+ "in_progress": null,
  "flagged": {
   "The eternal contribution": "compendium coinage, not a traditional term: page says so in its first sentence; written for the sense BE068 uses"
  },
  "missing_concepts": [],
- "sources_checked": 74,
- "updated": "2026-10-19T08:11:17+00:00",
+ "sources_checked": 77,
+ "updated": "2026-10-19T08:11:39+00:00",
  "qc_log": {
   "Escape from freedom": "approved after 4 advisor QC rounds: quotes verified against opened sources (panarchy ch. V excerpt, Wikipedia, IEP Totalitarianism 2.d, SEP Critical Theory 1.4); Simondon Individuation and The having mode removed from Related; cross-tradition links labelled comparisons; sources_checked: 4",
   "Eternal recurrence": "milestone advisor QC applied: practical-reading attribution qualified; AF069 described as the compendium's separate comparison; Panta rhei, Corsi e ricorsi and Three thousand realms claims externally verified; 'Thou art a God' capitalisation matches primary text",
@@ -39,7 +40,8 @@
   "Guilt motivates reparative behaviour": "self-QC: Tangney et al. 2007 p. 351 quote verbatim via PhilArchive; guilt/shame action tendencies from PMC reviews; context-dependence critique included; A118 link macron incident: seed link used precomposed e-macron matching the principle file, an intermediate commit (96b9fe3) briefly broke it, fixed in the follow-up commit",
   "Hope": "self-QC: Snyder 1991/2002 definitions verbatim from OUP chapter and target-article abstract; Bloch quotes verbatim from the Marxists Archive introduction; Marcel quote attributed to the compendium's R087 rather than mis-sourced to SEP; staging-pattern quote trimmed",
   "Implicit theories of intelligence": "self-QC: Dweck and Leggett 1988 model described from the full text; 2011 chapter quotes verbatim (control-not-stability, scale items); meta-analytic evidence with mixed entity findings included; Burgoyne failed-premises test cross-referenced via the sibling page",
-  "Judgment adds the harm": "self-QC: Enchiridion 5 quoted verbatim from the Perseus translation; Sallatha Sutta quoted verbatim from Thanissaro's translation; Buddhist parallel marked as comparison tradition; Ellis connection sourced to Robertson's commentary"
+  "Judgment adds the harm": "self-QC: Enchiridion 5 quoted verbatim from the Perseus translation; Sallatha Sutta quoted verbatim from Thanissaro's translation; Buddhist parallel marked as comparison tradition; Ellis connection sourced to Robertson's commentary",
+  "Learning by doing": "self-QC: Democracy and Education ch. 11 passages quoted verbatim from open excerpts; 'mere activity' caveat included against the misreading; 'learn from reflecting on experience' hedged as slogan form"
  },
  "incidents": [
   "2026-10-19: enriched content/concepts/The eternal contribution.md by mistake (not in w1d manifest; belongs to w1ae). Content file reverted to seed in this commit; validated draft preserved at docs/enrichment/drafts/w1d/The eternal contribution.md for the w1ae agent. Reciprocal proposals for it removed from proposals/w1d.json."
