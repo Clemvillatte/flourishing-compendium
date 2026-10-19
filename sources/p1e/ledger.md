@@ -206,3 +206,11 @@ Advisor QC (2026-10-19): quotes verified (BQ1 ch. 22 sentence, BQ2 ch. 68 verse 
 - P140 was on the plain-words replicate list; replicate Plain words replaced; the outcome-asserting For example ("one nine-hour night and the crisis dissolves") replaced with a physical-audit action.
 - Saturation: Mind-life continuity and Organism-environment transaction cite P140; no justified new proposals.
 - Validator: ok, prose 173 words; protected fields untouched.
+
+## CO008 — Understand that thinking is constructivist (done; no advisor QC per speed directive, item 23)
+
+- Opened: Kant, Critique of Pure Reason (Meiklejohn translation), Project Gutenberg (https://www.gutenberg.org/cache/epub/4280/pg4280.txt) — NEW SOURCE (Gutenberg CPR); source count incremented. Verified verbatim: "Thoughts without content are void; intuitions without conceptions, blind." and "In no other way than from the united operation of both, can knowledge arise." NOTE: this translation reads "void/conceptions", not the Kemp Smith "empty/concepts" wording; the Gutenberg text's own wording used.
+- Plain words and For example kept (genuine re-derivations, not on the replicate list); labels reformatted to own lines; locator line added.
+- Inherited, NOT opened: Piaget 1954, Bruner 1966, Roediger and Karpicke 2006, Dunlosky et al. 2013 claims — flagged in the band state file.
+- Saturation: Constructivist learning theory, Knowledge as construction, Learning by doing cite CO008; no "The testing effect / retrieval practice" concept page exists; no justified new proposals.
+- Validator: ok, prose 147 words; protected fields untouched.
