@@ -162,3 +162,12 @@ Advisor QC (2026-10-19): quotes verified (BQ1 ch. 22 sentence, BQ2 ch. 68 verse 
 - Inherited, NOT opened: Hayes et al. 2020 claim — flagged in the band state file.
 - Saturation: all four linked concepts (Functional analysis, The pragmatic maxim, Instrumentalism, Pragmatism) cite P012; no justified new proposals.
 - Validator: ok, prose 156 words; protected fields untouched.
+
+## P015 — Make growth your criterion of value (done; no advisor QC per speed directive, item 19)
+
+- Opened: Dewey, Human Nature and Conduct (1922), Part III ch. 1 (The Good of Activity, I), Standard Ebooks edition (https://standardebooks.org/ebooks/john-dewey/human-nature-and-conduct/text/chapter-4-1) — NEW SOURCE (standardebooks); source count incremented. Verified verbatim: "The good, satisfaction, "end," of growth of present action in shades and scope of meaning is the only good within our control, and the only one, accordingly, for which responsibility exists." plus the surrounding sentences ("morality is a continuing process not a fixed achievement. Morals means growth of conduct in meaning..." and "morals is education... growing and growth are the same fact").
+- Note: the often-quoted "growth itself is the only moral end" (MW 12:181) is NOT in this chapter per my extraction; the compendium's body now uses only what the opened chapter says. The phrase "Growth as the ethical ideal" in the philosophy parallels is the concept's own label, unchanged.
+- P015 was on the plain-words replicate list; replicate Plain words replaced; outcome-predicting For example ("usually right within two years") replaced with a two-column action test.
+- Inherited, NOT opened: Dweck 2006, Dweck and Leggett 1988 claims; the Experience and Nature 1925 locator — flagged in the band state file.
+- Saturation: Growth mindset and Self-actualization (Maslow) cite P015; no "Growth" concept page exists; no justified new proposals.
+- Validator: ok, prose 204 words; protected fields untouched.
