@@ -14,11 +14,27 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 
 The path is not a leap but a sequence: give, then keep precepts, then tame the mind, then see clearly. Start where you are and proceed in order.
 
-(Gradual training: MN 27, MN 39.)
+The Gaṇaka-Moggallāna Sutta opens with an accountant's observation: every craft he knows trains gradually, staircase by staircase:
 
-**Plain words** The path is not a leap but a sequence: give, then keep precepts, then tame the mind, then see clearly. Start where you are and proceed in order — skipping steps is how people end up in advanced practices their life can't support yet.
+> "Master Gotama, in this Palace of Migāra's Mother there can be seen gradual training, gradual practice, and gradual progress, that is, down to the last step of the staircase. ... Among these brahmins too, there can be seen gradual training, gradual practice, and gradual progress, that is, in study. Among archers too, there can be seen gradual training…that is, in archery. And also among accountants like us, who earn our living by accountancy, there can be seen gradual training…that is, in computation." (MN 107, [full translation](https://suttas.neocities.org/mn/mn_e_107); footnote omitted)
 
-*For example:* Trying advanced meditation on top of a chaotic life is like calculus before arithmetic — generosity and basic order are the arithmetic.
+The Buddha answers that his discipline has the same shape:
+
+> "It is possible, brahmin, to describe gradual training, gradual practice, and gradual progress in this Dhamma and Discipline. Just as, brahmin, when a clever horse-trainer obtains a fine thoroughbred colt, he first makes him get used to wearing the bit, and afterwards trains him further, so when the Tathāgata obtains a person to be tamed he first disciplines him thus: 'Come, bhikkhu, be virtuous, restrained with the restraint of the Pātimokkha, be perfect in conduct and resort, and seeing fear in the slightest fault, train by undertaking the training precepts.'" (MN 107, [full translation](https://suttas.neocities.org/mn/mn_e_107); footnotes omitted)
+
+The instructions then step through guarding the sense doors and onward, each stage added once the previous one is in place.
+
+(Gradual training: MN 27, MN 39, MN 107.)
+
+**Plain words**
+The accountant's point is that nobody teaches multiplication before counting. The training assumes the same: giving before precepts, order before concentration, calm before insight, each step load-bearing for the next. When practice stalls, the simile's question is not why is this taking so long, but which earlier step is missing.
+
+**For example**
+Trying advanced meditation on top of a chaotic life is like calculus before arithmetic — generosity and basic order are the arithmetic.
+
+## Sources
+
+- [MN 107 Gaṇakamoggallāna Sutta (full translation, suttas.neocities.org)](https://suttas.neocities.org/mn/mn_e_107) — opening simile; horse-trainer passage
 
 ## Psychology parallels
 
