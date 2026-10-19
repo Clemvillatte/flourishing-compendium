@@ -13,10 +13,10 @@ Ren (仁, humaneness) is Confucius's cardinal virtue — the humane disposition 
 
 - [[Ubuntu]] — the African cousin: personhood constituted through relation
 - [[Virtue]] — the Confucian counterpart: humaneness grown in relation
-Sources
+## Sources
 - IEP Confucius: https://iep.utm.edu/confucius/
 
-Cited in philosophy parallels
+## Cited in philosophy parallels
 
 - [[R051 — Practise ren (humanitybenevolence)]]
 - [[AF021 — Understand affective presence — your feelings influence others' feelings]]

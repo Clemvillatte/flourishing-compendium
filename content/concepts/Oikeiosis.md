@@ -13,7 +13,7 @@ The Stoic theory of natural affinity — an organism's first inclination toward 
 
 - [[Ubuntu]] — Stoic widening of concern toward community, parallel movement
 - [[Amor sui (right self-love)]] — reason's demand to love what preserves one's own being
-Sources
+## Sources
 - Wikipedia Oikeiôsis: https://en.wikipedia.org/wiki/Oikei%C3%B4sis
 
-Cited in philosophy parallels
+## Cited in philosophy parallels
