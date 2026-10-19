@@ -8,9 +8,11 @@
  ],
  "in_progress": null,
  "flagged": {
-  "D017": "Drive library files unmapped; used Legge 1891 web edition (Sacred Texts) as fallback"
+  "D017": "QC note: inherited scab example kept per protocol; advisor calls it a medical claim needing a source; supervisor to arbitrate",
+  "BI012": "QC note: inherited example line (thyroid/willpower vignette) kept per protocol 'keep faithful examples'; advisor prefers replacement; supervisor to arbitrate",
+  "CO072": "QC note: inherited feeds/retraining example kept per protocol; advisor wants cognitive-endurance training trial evidence; supervisor to arbitrate"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-19T10:02:56+00:00"
+ "updated": "2026-10-19T10:07:03+00:00"
 }
