@@ -33,7 +33,7 @@ For example (imagined): if a school's exam-absence penalty is aimed at avoidable
 - [[ST178 — Walter McMillian's Case|178. Walter McMillian's Case]]
 ## Psychology parallels
 
-- **[[Moral situation research|Moral situation research]]**, context dominates in real moral choice (Doris, Lack of Character)
+- **[[Moral situation research|Moral situation research]]** (Doris, Lack of Character)
 - **[[Contextual intelligence|Contextual intelligence]]** (Sternberg, 2019)
 
 ## Philosophy parallels

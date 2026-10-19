@@ -32,8 +32,8 @@ For example (imagined): a person raised in a cynical household who starts keepin
 - [[ST163 — Daniel Plainview Drinks the Milkshake|163. Daniel Plainview Drinks the Milkshake]]
 ## Psychology parallels
 
-- **[[Growth mindset|Growth mindset]]**, the belief that abilities are developable predicts persistence and achievement (Dweck, 2006)
-- **[[Narrative identity|Narrative identity]]**, authorship of one's life story predicts well-being (McAdams, 2013)
+- **[[Growth mindset|Growth mindset]]** (Dweck, 2006)
+- **[[Narrative identity|Narrative identity]]** (McAdams, 2013)
 
 ## Philosophy parallels
 

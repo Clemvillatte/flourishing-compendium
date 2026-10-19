@@ -27,7 +27,7 @@ For example (imagined): a person sits down to a meal and names, briefly, three o
 
 ## Psychology parallels
 
-- **[[Gratitude|Gratitude interventions]]**, reliably raise well-being (Emmons and McCullough, 2003)
+- **[[Gratitude|Gratitude interventions]]** (Emmons and McCullough, 2003)
 
 ## Philosophy parallels
 

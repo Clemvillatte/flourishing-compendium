@@ -27,7 +27,7 @@ For example (imagined): a text message arrives that reads as a slight. The reade
 
 ## Psychology parallels
 
-- **[[Emotion regulation|Emotion-regulation timing]]**, regulation works best early in the process; antecedent-focused beats response-focused strategies (Gross, 1998; 2015)
+- **[[Emotion regulation|Emotion-regulation timing]]** (Gross, 1998; 2015)
 
 ## Philosophy parallels
 

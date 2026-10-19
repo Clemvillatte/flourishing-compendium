@@ -26,7 +26,7 @@ For example (imagined): a manager who gives the biggest bonus to the person who 
 (NE V.3.)
 
 ## Psychology parallels
-- **[[Equity theory|Equity theory]]**, perceived fairness of distribution predicts satisfaction (Adams, 1965)
+- **[[Equity theory|Equity theory]]** (Adams, 1965)
 - **[[Social comparison|Social comparison and relative deprivation]]** (Festinger, 1954; Runciman, 1966)
 
 ## Philosophy parallels

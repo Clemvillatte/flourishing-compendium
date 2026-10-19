@@ -26,7 +26,7 @@ For example (imagined): a person notices they check the tracking, the forecast, 
 ## Psychology parallels
 
 - **Intolerance of uncertainty is a process variable in one model of GAD**, difficulty tolerating uncertainty named as a component of the Dugas model (Dugas et al., 1998; Carleton, 2016)
-- **Worry as cognitive avoidance**, worry is a verbal-linguistic activity that suppresses imagery and the physiological arousal of fear, negatively reinforcing the worry (Borkovec et al., 1983)
+- **Worry as cognitive avoidance** (Borkovec et al., 1983)
 
 ## Philosophy parallels
 

@@ -25,8 +25,8 @@ For example (imagined): a panicked caller and a friend who says, slowly, that th
 
 ## Psychology parallels
 
-- **[[Co-regulation of affect in relationships|Co-regulation of affect in relationships]]**, partners and close others regulate each other's affect through attunement, responsiveness, and synchronisation (Butler & Gross, 2009; English & Eldreda, 2020)
-- **Social support as affect regulation**, perceived support reduces affective reactivity to stressors (Cohen & Wills, 1985)
+- **[[Co-regulation of affect in relationships|Co-regulation of affect in relationships]]** (Butler & Gross, 2009; English & Eldreda, 2020)
+- **[[Social support|Social support as affect regulation]]** (Cohen & Wills, 1985)
 
 ## Philosophy parallels
 
