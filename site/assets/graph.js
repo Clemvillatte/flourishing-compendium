@@ -751,6 +751,9 @@ function hash01(s) {
    Sets module flags: spreadDirty (an offset changed — a render is needed, even
    for the final snap) and spreadAnimating (more easing is still due). */
 let spreadDirty = false, spreadAnimating = false;
+let spreadJumped = false;   // phone snap: applySpread actually moved offsets THIS pass
+let snapState = null;       // phone snap: {c,x,y,slots} of the last applied snap (invalidation key)
+let sepCalls = 0;           // QA: how many separation passes have run (exposed via __graphDebug)
 let nb2Hidden = null;   // set by render when N+2 is toggled OFF — shared with hit()
 /* Displayed-coordinate separation for the spread state. The belt/spread
    easing moves nodes via ox/oy offsets on top of a FROZEN base layout, so
@@ -764,8 +767,16 @@ let nb2Hidden = null;   // set by render when N+2 is toggled OFF — shared with
    ring geometry is preserved everywhere else. */
 function separateDisplayed() {
   if (!G) return;
+  sepCalls++;
   const vis = G.nodes.filter(n => n.visible);
   if (vis.length < 2) return;
+  // phone snap mode: nodes OUTSIDE the selection's neighbourhood are immovable
+  // ("the rest of the graph stays put") — overlaps are resolved by moving the
+  // gathered belt members only; two context nodes that already overlapped in
+  // the frozen base layout are left exactly as they were
+  const inSpread = n => n === spreadCenter || (spreadNbSet && spreadNbSet.has(n)) ||
+    (spreadNb2Set && spreadNb2Set.has(n)) || (spreadBrSet && spreadBrSet.has(n));
+  const phone = spreadSnap;   // phones: context–context overlaps in the frozen base layout are left alone (also with no selection — the deselect pass must not nudge them)
   let maxR = 2;
   for (const n of vis) if (n.r > maxR) maxR = n.r;
   const CELL = Math.max(48, maxR * 2 + 8);
@@ -796,6 +807,17 @@ function separateDisplayed() {
           const push = (min - d) * STRENGTH;
           if (n === dragged) { m.ox += ux * push; m.oy += uy * push; }
           else if (m === dragged) { n.ox -= ux * push; n.oy -= uy * push; }
+          else if (phone) {
+            const fn = inSpread(n), fm = inSpread(m);
+            if (!fn && !fm) continue;                       // context–context: not ours to fix
+            else if (fn && !fm) { n.ox -= ux * push; n.oy -= uy * push; }   // context is immovable
+            else if (fm && !fn) { m.ox += ux * push; m.oy += uy * push; }
+            else {
+              const wn = m.r / (n.r + m.r), wm = n.r / (n.r + m.r);
+              n.ox -= ux * push * wn; n.oy -= uy * push * wn;
+              m.ox += ux * push * wm; m.oy += uy * push * wm;
+            }
+          }
           else {
             const wn = m.r / (n.r + m.r), wm = n.r / (n.r + m.r);
             n.ox -= ux * push * wn; n.oy -= uy * push * wn;
@@ -812,7 +834,21 @@ function applySpread(dt) {
   if (!G) return;
   spreadDirty = false;
   spreadAnimating = false;
+  spreadJumped = false;
   const c = spreadCenter;
+  // PHONES: the spread is a STATIC view-layer state. Once snapped, re-running
+  // this pass would reset the separation fixes (k=1 reapplies the exact belt
+  // targets, wiping the overlap-resolution nudges), which re-triggers the
+  // extra separation passes on EVERY frame the loop is awake (panning,
+  // camera glide) — an endless apply→separate→reset loop. So skip entirely
+  // until the snap is actually invalidated: a new selection or toggle (new
+  // spreadSlots from setSpread), the center being dragged (base x/y moves),
+  // or a slot rebuild (size sliders / kind toggles all go through setSpread).
+  if (spreadSnap && c && c.visible && snapState && snapState.c === c &&
+      snapState.x === c.x && snapState.y === c.y && snapState.slots === spreadSlots) {
+    spreadJumped = false;
+    return;
+  }
   // belt geometry computed once per pass — the rings follow live node sizes
   const geo = (c && phys.belts && spreadSlots) ? beltGeometry(c) : null;
   // phones snap in ONE pass (k=1: offset = target immediately); desktop eases
@@ -858,10 +894,12 @@ function applySpread(dt) {
             tx = c.x + Math.cos(ang) * rad - n.x;
             ty = c.y + Math.sin(ang) * rad - n.y;
           }
-        } else {
+        } else if (!spreadNoRoom) {
           // context: eased fully beyond the outer belt — pushed out to the
           // clearance radius exactly (never left smeared inside the Z belt),
-          // but never pulled inward either
+          // but never pulled inward either. PHONES: skipped entirely — context
+          // nodes never move at all (spreadNoRoom); the belts gather around
+          // whatever is there. Desktop keeps the clearance push.
           const target = Math.max(d, geo.ctxR + hash01('x' + n.id) * 90);
           if (d > 1) {
             tx = dx / d * (target - d);
@@ -925,11 +963,14 @@ function applySpread(dt) {
     }
     const ex = tx - n.ox, ey = ty - n.oy;
     if (Math.abs(ex) < 0.5 && Math.abs(ey) < 0.5) {
-      if (n.ox !== tx || n.oy !== ty) { n.ox = tx; n.oy = ty; spreadDirty = true; }   // settle exactly
+      if (n.ox !== tx || n.oy !== ty) { n.ox = tx; n.oy = ty; spreadDirty = true; spreadJumped = true; }   // settle exactly
     }
-    else { n.ox += ex * k; n.oy += ey * k; spreadDirty = true; if (!spreadSnap) spreadAnimating = true; }
+    else { n.ox += ex * k; n.oy += ey * k; spreadDirty = true; spreadJumped = true; if (!spreadSnap) spreadAnimating = true; }
   }
   if (!spreadAnimating && !spreadCenter) spreadActive = false;   // gathered back — done
+  // record the applied snap (phone): later passes early-return until this key changes
+  if (spreadSnap && c && c.visible) snapState = { c, x: c.x, y: c.y, slots: spreadSlots };
+  else if (!c) snapState = null;
 }
 /* displayed (base + spread offset) coordinates — the only positions the user sees */
 function dispX(n) { return n.x + n.ox; }
@@ -1428,8 +1469,11 @@ function frame() {
     separateDisplayed();   // keep the DISPLAYED circles separated while the belts ease
     // snap frame (phone): no easing frames follow, so give the separation a
     // few extra passes up front to reach the same overlap-free rest desktop
-    // converges to over many frames
-    if (spreadSnap && spreadDirty) { separateDisplayed(); separateDisplayed(); separateDisplayed(); }
+    // converges to over many frames. Gated on spreadJumped (offsets actually
+    // jumped this pass), NOT spreadDirty — separation itself sets spreadDirty,
+    // and gating on it would run 12 iterations on EVERY frame while panning
+    // with a selection active
+    if (spreadSnap && spreadJumped) { separateDisplayed(); separateDisplayed(); separateDisplayed(); spreadJumped = false; }
     if (spreadDirty) needsRender = true;   // includes the final snap — must render
   } else {
     frame.lastSpreadT = performance.now();
@@ -1569,6 +1613,12 @@ function select(n) {
   // from it (a presentation-layer offset — the frozen layout itself never
   // moves). Deselecting eases everything back together.
   setSpread(n);
+  // PHONES: a tap-select also glides the camera to fit the belts — on a 390px
+  // viewport a belt centred on the tapped node is routinely half off-screen,
+  // and "show its connections" is the whole point of selecting. Desktop keeps
+  // the no-auto-travel behaviour (big viewport; the drawer's Center button
+  // fits on demand).
+  if (spreadSnap && n && phys.belts && spreadSlots) fitToBelts();
   // no automatic camera travel on plain clicks — the target stays under the
   // cursor, which makes click/dbl-click predictable (search and the
   // "Center on node" button go through centerOn, which fits the belts)
@@ -1744,6 +1794,7 @@ function bindEvents() {
     if (ev.touches.length === 0) {
       const wasDrag = !!dragged && moved >= 8;
       if (moved < 8 && dragged) { select(dragged); lastClickNode = dragged; lastClickT = Date.now(); }
+      else if (moved < 8 && panning) select(null);   // empty-canvas tap deselects — same as the mouse path
       dragged = null; panning = false; lastMouse = null; pinch = null;
       if (wasDrag && dragPhysics) liveStop(120);
       dragPhysics = false;
@@ -1953,6 +2004,7 @@ function bindEvents() {
     }
     $('gphysReset').addEventListener('click', () => {
       phys = { ...PHYS_DEF };
+      if (spreadSnap) phys.nb2 = false;   // re-apply the phone default (N+2 off ≤920px)
       savePhys();
       for (const [key, inpId] of PHYS_ROWS) syncRow(key, inpId);
       syncBelts();
@@ -2361,6 +2413,7 @@ window.__graphDebug = (id) => {
     settleTicks,
     running,
     vis: vis.length,
+    sepCalls,
     spread: spreadCenter ? (() => {
       let md = Infinity;
       for (const n of vis) {
