@@ -3,11 +3,12 @@
  "done": [
   "Ubuntu",
   "Freedom",
-  "Virtue"
+  "Virtue",
+  "Attention"
  ],
- "in_progress": "Attention",
+ "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 5,
- "updated": "2026-10-19T07:20:17+00:00"
+ "updated": "2026-10-19T07:21:30+00:00"
 }
