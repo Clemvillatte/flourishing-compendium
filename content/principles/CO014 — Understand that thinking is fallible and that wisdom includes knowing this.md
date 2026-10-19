@@ -12,15 +12,31 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 ---
 > **Principle 14** — Understand that thinking is fallible and that wisdom includes knowing this
 
-The most important cognitive capacity may be the simplest: recognising that your thinking can be wrong. Intellectual humility — the awareness that your beliefs, interpretations, and reasoning may be mistaken — is a foundation of wisdom and good decision-making.
+The oldest statement of the idea is Socrates' account of the oracle in Plato's Apology (21d), in Jowett's translation. After questioning a man with a reputation for wisdom, Socrates concludes:
 
-**Plain words** The most important cognitive capacity may be the simplest: recognising that your thinking can be wrong. Intellectual humility — the awareness that your beliefs and reasoning may be flawed — predicts better learning and better decisions. Wisdom starts here.
+> "Well, although I do not suppose that either of us knows anything really beautiful and good, I am better off than he is - for he knows nothing, and thinks that he knows. I neither know nor think that I know. In this latter particular, then, I seem to have slightly the advantage of him."
+> — Plato, Apology, trans. Benjamin Jowett
 
-*For example:* The expert who says "I might be missing something — show me" — and the one who can't — and the way their careers diverge over twenty years. The humility wasn't weakness; it was the upgrade loop that the other one closed.
+### The psychology
+
+Moore and Healy (2008) separate three kinds of overconfidence: overestimating your actual performance, overplacing it relative to others, and holding beliefs with excessive precision. On difficult tasks people overestimate their performance but also believe they are worse than others; on easy tasks the reverse. "Overprecision appears to be more persistent than either of the other 2 types" ([abstract](https://pubmed.ncbi.nlm.nih.gov/18426301/)).
+
+Moore's later account of overprecision is close to the principle's point: it "results from neglect of all the ways in which one could be wrong" ([Moore, 2023](https://pubmed.ncbi.nlm.nih.gov/35511530/)). One experiment reduced the bias by "forcing participants to consider all possible outcomes of an event" ([Haran, Moore and Morewedge, 2010](https://pubmed.ncbi.nlm.nih.gov/28405257/)).
+
+### Limits
+
+Knowing that thinking is fallible is not a guarantee of better thinking, and the sources above do not show that intellectual humility makes careers or decisions better. The Leary et al. result on intellectual humility is covered under P010; the Deffler and Grossmann citations on this page were not opened. "Wisdom includes knowing this" is the compendium's framing of the Socratic point.
+
+(Plato, Apology 21d; Moore and Healy, 2008.)
+
+**Plain words** Socrates' edge over the man he questioned was small: he did not think he knew what he did not. Research on overconfidence finds that people are often too sure of their answers, and one cause is not thinking of the ways they could be wrong. A habit that helps is asking, before you commit, what would show you that you were mistaken.
+
+*For example:* Imagine you are asked to give a range for how long a project will take. Before settling on one, list three ways it could take far longer. That is an informal cousin of what the experiment above did by making people consider every outcome. The study did not test this exact trick.
+
 ## Psychology parallels
 
-- **Intellectual humility predicts better reasoning and learning**, people who acknowledge their fallibility update beliefs more accurately and learn better (Leary et al., 2017; Deffler et al., 2016)
-- **Overconfidence is a robust bias**, people are systematically more confident in their judgments than is warranted (Moore & Healy, 2008)
+- **Intellectual humility**, the degree to which people recognise their beliefs might be wrong, was linked to openness, curiosity and low dogmatism in four studies (Leary et al., 2017). [Abstract](https://dukespace.lib.duke.edu/items/1c8163dc-6138-4f57-a841-b8b2c36a4617)
+- **Overconfidence** comes in three forms, and overprecision is the most persistent (Moore & Healy, 2008). [Abstract](https://pubmed.ncbi.nlm.nih.gov/18426301/)
 - **[[Wise reasoning|Wise reasoning (Grossmann) includes intellectual humility]]**, recognising the limits of one's knowledge and the influence of context (Grossmann et al., 2013; Grossmann, 2017)
 
 ## Philosophy parallels
