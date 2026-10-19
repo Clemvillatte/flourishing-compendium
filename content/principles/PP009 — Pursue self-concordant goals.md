@@ -22,13 +22,13 @@ Sheldon and Elliot's abstract states the dual role:
 
 > "The self-concordance of goals (i.e., their consistency with the person's developing interests and core values) plays a dual role in the model. First, those pursuing self-concordant goals put more sustained effort into achieving those goals and thus are more likely to attain them. Second, those who attain self-concordant goals reap greater well-being benefits from their attainment." (Sheldon & Elliot, 1999, [PubMed](https://pubmed.ncbi.nlm.nih.gov/10101878/))
 
-The mechanism named: "Attainment-to-well-being effects are mediated by need satisfaction, i.e., daily activity-based experiences of autonomy, competence, and relatedness that accumulate during the period of striving" (Sheldon & Elliot, 1999).
+The mechanism named: "Attainment-to-well-being effects are mediated by need satisfaction, i.e., daily activity-based experiences of autonomy, competence, and relatedness that accumulate during the period of striving" (Sheldon & Elliot, 1999). The model was fitted to three longitudinal data sets.
 
-The 2010 experiment tested it prospectively:
+A later experiment studied a related question, whether pursuing need-targeted goals produces lasting gains:
 
-> "Participants were randomly assigned to set goals either to improve their life circumstances (comparison condition) or to increase their feelings of autonomy, competence, or relatedness in life (treatment conditions). We hypothesized that sustained gains in happiness would be observed only in the three treatment conditions, and that even these gains would last only when there was continuing goal engagement." (Sheldon et al., 2010, [Motivation and Emotion](https://link.springer.com/article/10.1007/s11031-009-9153-1))
+> "Participants were randomly assigned to set goals either to improve their life circumstances (comparison condition) or to increase their feelings of autonomy, competence, or relatedness in life (treatment conditions). We hypothesized that sustained gains in happiness would be observed only in the three treatment conditions, and that even these gains would last only when there was continuing goal engagement. Results supported these predictions and the sustainable happiness model on which they were based." (Sheldon et al., 2010, [Motivation and Emotion](https://link.springer.com/article/10.1007/s11031-009-9153-1))
 
-**Plain words** The source of a goal changes what the goal can do for you. A goal you actually endorse keeps generating effort, because no inner argument is being re-lost every morning; a borrowed goal has to be re-decided daily and often loses. When an endorsed goal is reached, the getting-there itself fed autonomy, competence, and relatedness, so the reward is banked in the process. The 2010 study adds the sober half: gains fade when engagement stops, so the fit between goal and person matters more than any single victory.
+**Plain words** Take one goal you are pursuing and ask why: what would you still endorse if no one were watching? Reasons that feel endorsed tend to sustain effort differently from reasons that feel pressured. Then check what the pursuit itself is like day to day, since the model links well-being to experiences of autonomy, competence, and relatedness during the striving. An autonomously endorsed goal can still be tedious or difficult; the endorsement concerns the reason, not the comfort.
 
 *For example:* Training for a marathon because you love running goes better than doing it to impress a former colleague.
 

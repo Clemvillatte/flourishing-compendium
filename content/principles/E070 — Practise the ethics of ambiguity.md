@@ -24,18 +24,18 @@ De Beauvoir states the program directly:
 
 The split she starts from is old: "Man knows and thinks this tragic ambivalence which the animal and the plant merely undergo... 'Rational animal,' 'thinking reed,' he escapes from his natural condition without, however, freeing himself from it. He is still a part of this world of which he is a consciousness" (de Beauvoir, The Ethics of Ambiguity, Part I).
 
-Merleau-Ponty gives the same verdict on the perceiving body:
+Merleau-Ponty offers a related account of consciousness and existence:
 
-> "This ambiguity is not an imperfection of consciousness or of existence, it is their very definition." (Merleau-Ponty, Phenomenology of Perception, quoted in [a philarchive study](https://philarchive.org/archive/AJVPPO))
+> "This ambiguity is not an imperfection of consciousness or of existence, it is their very definition." (Merleau-Ponty, Phenomenology of Perception, quoted in ["Ponty's Phenomenology of Perception", philarchive](https://philarchive.org/archive/AJVPPO))
 
-**Plain words** Ambiguity here is a diagnosis rather than a mood. You are the one looking and the thing looked at; the chooser and the creature shaped by biology and history. Both descriptions are accurate, and neither can be made the whole story. De Beauvoir's ethical move is to stop treating this as an embarrassment to resolve before living, and to treat it as the material ethics works with: failure and struggle are built-in conditions. The parent example shows the cost of demanding the either/or, since the demand for resolution is what hurts, while the both-ness was merely the fact.
+**Plain words** Ambiguity here is a diagnosis rather than a mood. You are the one looking and the thing looked at; the chooser and the creature shaped by biology and history. Both descriptions are accurate, and neither can be made the whole story. De Beauvoir's ethical move is to treat this as the material ethics works with rather than an embarrassment to resolve first. In a difficult choice you can name the constraints, the options still open, and the effects on others, and act on that without first dissolving the tension.
 
 *For example:* The new parent who is both self and not-self, free and bound, individual and half of a dyad — the suffering spikes when they demand the ambiguity resolve ("I should be either devoted or independent"). The both-ness is the fact; the resolution is the fantasy.
 
 ## Sources
 
 - [de Beauvoir, The Ethics of Ambiguity (1947), Part I, marxists.org](https://www.marxists.org/reference/subject/ethics/de-beauvoir/ambiguity/ch01.htm): assuming fundamental ambiguity
-- [Merleau-Ponty, Phenomenology of Perception, quoted in a philarchive study](https://philarchive.org/archive/AJVPPO): ambiguity as definition
+- [Merleau-Ponty, Phenomenology of Perception, quoted in "Ponty's Phenomenology of Perception" (philarchive)](https://philarchive.org/archive/AJVPPO): ambiguity as definition
 
 ## Stories
 

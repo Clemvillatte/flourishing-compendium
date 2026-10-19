@@ -61,11 +61,12 @@
   "CO011": "psychology-parallels claims (Hayes et al. 2011; Gillanders et al. 2014; Masuda et al. 2004; Deacon et al. 2011) not verified against opened sources; flagged for supervisor",
   "CO039": "psychology-parallels claims (Weinstein 1980; Taylor and Brown 1988) not verified against opened sources; the comparative less-likely-than-others framing lives only in the parallels; flagged for supervisor",
   "E002": "psychology-parallels claims (Posner and Petersen 1990; Corbetta and Shulman 2002) and the Husserl locators not verified against opened sources; the Brentano passage verified via Wikipedia's quotation; flagged for supervisor",
-  "E016": "psychology-parallels claims (Gallagher 2005; Legrand 2006) and the Sartre Being and Nothingness locator not verified against opened sources; the Merleau-Ponty quotation verified via SEP; flagged for supervisor"
+  "E016": "psychology-parallels claims (Gallagher 2005; Legrand 2006) and the Sartre Being and Nothingness locator not verified against opened sources; the Merleau-Ponty quotation verified via SEP; flagged for supervisor",
+  "PP001": "statement claim that eudaimonic well-being is the stronger predictor of long-term outcomes is not supported by the opened sources (Ryan & Deci 2001; Ryff 1989); needs supervisor verification"
  },
  "missing_concepts": [],
  "sources_checked": 19,
- "updated": "2026-10-19T13:59:01+00:00",
+ "updated": "2026-10-19T14:02:17+00:00",
  "band_done": false,
  "takeover": {
   "by": "genuineflourishing35",
