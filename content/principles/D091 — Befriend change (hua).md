@@ -38,6 +38,8 @@ The compendium applies these passages as advice for responding to changes one ca
 
 [[D097 — Don't fear what you can't act on]]
 
+[[D090 — Accept death as transformation]]
+
 ## Sources
 
 - [Zhuangzi, ch. 2 and 6, Legge translation (METIS English Classics)](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — hua passages; quotations verbatim
