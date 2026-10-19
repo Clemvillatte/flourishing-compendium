@@ -16,9 +16,21 @@ The giant tree was a two-sprout seedling; the tower rose from a handful of earth
 
 (DDJ 63, 64.)
 
-**Plain words** Everything impressive was once unimpressive — the tree was a two-sprout seedling, the tower a handful of earth. The gap between your sprout and the tree is just seasons, not talent. Start now, small.
+### The tree and the step
+
+Chapter 64's images are the principle's own:
+
+> "The tree which fills the arms grew from the tiniest sprout; the tower of nine storeys rose from a (small) heap of earth; the journey of a thousand li commenced with a single step." (DDJ 64, [Legge](https://www.gutenberg.org/cache/epub/216/pg216.txt))
+
+Chapter 63 adds the timing: the sage "anticipates things that are difficult while they are easy, and does things that would become great while they are small" (DDJ 63, Legge). The work is cheapest when it is smallest, which is exactly the part people skip.
+
+**Plain words** The small version of a hard thing is not a lesser version of it; it is the same thing at the only moment it is cheap. A tree's first sprout is the only time the tree can be pulled out with two fingers; by the time it is impressive, the same removal needs a crew and a machine. "Start now, small" is not motivational, it is scheduling: every big thing you will ever have starts out costing minutes, and waiting only moves the price up. Ask of any postponed ambition what its two-minute version looks like.
 
 *For example:* Every long marriage started with one nervous first date; the tree is just the sprout that kept going.
+
+## Sources
+
+- [The Tao Teh King, Legge trans., Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt) — chapters 63, 64
 
 ## Practice kernels
 
