@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 6** — Accept mixed feelings; do not force them to resolve
 
-People often experience genuinely ambivalent affect — love and resentment toward the same person, pride and shame about the same achievement, relief and grief at the same transition. Forcing ambivalence into a single "true feeling" is a common source of confusion and distress. Tolerance for mixed affect predicts better outcomes in transitions and grief.
+The question was once genuinely disputed: can people feel happy and sad at the same time? Larsen, McGraw, and Cacioppo tested it against real transitions — and "many participants surveyed immediately after watching the film Life Is Beautiful, moving out of their dormitories, or graduating from college felt both happy and sad." Their framework, the evaluative space model, "proposes that positive and negative affect are separable and that mixed feelings of happiness and sadness can co-occur." Ambivalence is not a failure to resolve; it is sometimes the accurate reading of a situation that really contains both. The compendium's practical reading: love and resentment toward the same person, pride and shame about the same achievement, relief and grief at the same transition are honest data. Forcing them into a single "true feeling" adds distress to what was only complexity.
 
 **Plain words** People genuinely feel ambivalent: love and resentment toward the same person, pride and shame about the same achievement. Forcing ambivalence into a single verdict is where the trouble starts. Accept mixed feelings; they're the honest reading.
 
