@@ -20,15 +20,15 @@ His sharper statement of what the body is not:
 
 > "My body, an object destined to move other objects, is, then, a center of action; it cannot give birth to a representation." (Bergson, Matter and Memory)
 
-On Bergson's account the body is not a device driven by a pilot; it is the juncture where impressions become movements, always turned toward action. The compendium's [[The lived body|lived body]] reading (Merleau-Ponty's body-as-subject is the adjacent lineage the page cites) treats that juncture as a seat of intelligence: fatigue, hesitation, ease and unease arrive as part of the thinking, not as noise from a machine room.
+On Bergson's account the body is not a device driven by a pilot; it is the juncture where impressions become movements, always turned toward action. The [[The lived body|lived body]] tradition the page cites (Merleau-Ponty) develops its own account of bodily subjectivity, which this page does not quote.
 
 (Bergson, Matter and Memory, 1896; Merleau-Ponty — adjacent to the lineage.)
 
 **Plain words**
-A car can be driven while ignored; the principle's claim is that a body cannot. Its states are part of what you notice, what you can do and what you are willing to do, which makes them part of the thinking rather than the vehicle for it. The practical version: treat tiredness, hunger and ease as information arriving before words do, and check whether a decision changes once you rest, eat or walk first.
+Bergson's picture puts the body between the matter that influences it and the matter it acts on: a center of action rather than a machine that represents. A practical consequence of that picture is to treat the body's states as part of acting rather than as interference with it. What the practice section does with that is its own question.
 
 **For example**
-Hearing "I have to carry my body around all day" versus the dancer, for whom the body is the day: the vehicle metaphor is one option among others, and it has a cost.
+Notice the difference between walking somewhere while planning and walking the same route with attention on the walking: the route is the same, and the bodily experience of it is not.
 
 ## Sources
 

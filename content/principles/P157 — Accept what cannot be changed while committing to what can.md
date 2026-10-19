@@ -20,15 +20,15 @@ The two halves of the principle are the two halves of that definition: contactin
 
 > "In ACT the counter to experiential avoidance is acceptance—the active and aware embrace of private experiences without unnecessary attempts to change their frequency or form." (Hayes)
 
-On this account the struggle against a private event is itself behavior, and the acceptance route banks what the struggle was spending for the valued action beside it.
+ACT links willingness to experience difficult thoughts or feelings with action guided by chosen values. Its definition does not require those experiences to disappear before action can begin.
 
 (Hayes, Strosahl and Wilson, 2011.)
 
 **Plain words**
-The test of a struggle is what it buys. Some pain cannot be reduced, only carried, and the fight against carrying it is a second job on top of the first. Acceptance, in the ACT sense, is not approval: it is dropping the fight while keeping the event, which frees the hands for what the fight was blocking. The commitment half is where the freed capacity goes.
+The question the definition raises for a struggle: has removing a feeling become a prerequisite for acting? The ACT account separates the two, so a valued action can be attempted while the feeling is still there. Whether acting changes the feeling is not promised by the definition.
 
 **For example**
-The chronic pain patient who stops the war with the pain: the pain remains, and the planting of the garden changes. Acceptance was not defeat; it was a transfer of troops.
+Imagine a phone call you have been avoiding because of anxiety about it. The exercise is to make the valued call while the anxiety remains, without waiting for it to pass first.
 
 ## Sources
 

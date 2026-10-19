@@ -16,15 +16,15 @@ James's chapter IX names the phenomenon and rejects the bead picture in the same
 
 > "Consciousness, then, does not appear to itself chopped up in bits. Such words as 'chain' or 'train' do not describe it fitly as it presents itself in the first instance. It is nothing jointed; it flows. A 'river' or a 'stream' are the metaphors by which it is most naturally described. In talking of it hereafter, let us call it the stream of thought, of consciousness, or of subjective life." (James, The Principles of Psychology, ch. IX, [1890 text](https://archive.org/stream/theprinciplesofp01jameuoft/theprinciplesofp01jameuoft_djvu.txt))
 
-The chapter's five characters of thought carry the principle's adjectives in James's own list: every thought tends to be part of a personal consciousness, thought within each personal consciousness is always changing, and it is sensibly continuous. The compendium's reading, that the flow is the self rather than a thing behind it, is a reading of those characters: on James's account the personal and the continuous belong to the flow itself.
+The chapter's five characters of thought carry the principle's adjectives in James's own list: every thought tends to be part of a personal consciousness, thought within each personal consciousness is always changing, and it is sensibly continuous. The opened passage supports that description of thought as personal, changing and continuous; it does not by itself settle what the self is.
 
 (James, The Principles of Psychology, 1890.)
 
 **Plain words**
-Try to catch the exact moment a thought begins, and note what you find: no bead, just arrival. The old picture was beads on a string, one thought then the next; James's picture is water. A thought you are having is already moving, and by the time you name it, it is the previous one. Notice for yourself whether watching the stream changes what you do with the thoughts.
+The old picture was beads on a string, one thought then the next; James's picture is water. The practical difference is in how you can attend: beads can be inspected one at a time, while a stream can only be watched as it goes. Whether watching it changes anything about the thoughts is something to notice, not assume.
 
 **For example**
-Try to catch the exact moment a thought begins: there is no bead to find, just water. That failure of catching is the insight.
+Notice the experience of reading this sentence: the words arriving one after another, none of them holding still to be examined while the next one comes.
 
 ## Sources
 

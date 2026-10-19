@@ -16,17 +16,17 @@ Interoception is the term for perceiving the body's internal states:
 
 > "Interoception refers to the perception of a wide range of physical states beyond emotions, including heart rate, respiratory effort, temperature, fatigue, hunger, thirst, satiety, muscle ache, pain and itch" ([Brewer, Cook and Bird, 2016](https://openaccess.city.ac.uk/id/eprint/16737/1/Alexithymia:%20a%20general%20deficit%20of%20interoception.pdf))
 
-A study of alexithymia (difficulty identifying and describing one's own emotions) links the two halves of this principle. Its participants who struggled with emotions also confused them with other bodily states:
+A paper on alexithymia (difficulty identifying and describing one's own emotions) links the two halves of this principle. Its authors discuss how those with alexithymia confuse emotional states with other bodily states:
 
 > "Those with alexithymia therefore not only struggle to recognize their own emotions (affective interoception) but also confuse these states with non-affective interoceptive states, such as hunger, tiredness and arousal." ([Brewer, Cook and Bird, 2016](https://openaccess.city.ac.uk/id/eprint/16737/1/Alexithymia:%20a%20general%20deficit%20of%20interoception.pdf))
 
-The authors' reading of the pattern is the principle's evidence base: "Alexithymia may, therefore, be characterized better by a general failure of interoception, rather than one of affective interoception alone." The trainable half is carried by the practice section below and the training citations in the parallels (Khalsa et al., 2018; Tang et al., 2015).
+The authors' reading of the pattern is the principle's evidence base: "Alexithymia may, therefore, be characterized better by a general failure of interoception, rather than one of affective interoception alone."
 
 **Plain words**
-Before an emotion has a name, it has an address: jaw, chest, gut, breath. The practice is noticing the bodily event as raw sensation before deciding what it means. The study above suggests that confusing these signals goes along with difficulty identifying feelings; noticing them earlier is the trainable skill the practice section describes.
+Before an emotion has a name, it has an address: jaw, chest, gut, breath. The practice is noticing the bodily event as raw sensation before deciding what it means. The authors of the study above suggest that confusing these signals goes along with difficulty identifying feelings.
 
 **For example**
-The person who "suddenly" explodes: the anger had been announcing itself in the chest and jaw for an hour. The body signalled first; the question is whether anyone was listening.
+Sit still for two minutes and notice sensations in the chest, jaw or gut, without assuming what they mean about your emotional state. Notice what you find.
 
 ## Sources
 

@@ -16,15 +16,19 @@ Peirce's 1903 schema for abduction, as the Stanford Encyclopedia presents it:
 
 > "The surprising fact, C, is observed. But if A were true, C would be a matter of course. Hence, there is reason to suspect that A is true." (Peirce, CP 5.189; [SEP, Peirce on Abduction](https://plato.stanford.edu/archives/fall2026/entries/abduction/peirce.html))
 
-The three lines are the grammar of a good guess: surprise, an explanation that would make the surprise ordinary, and a suspicion worth testing rather than believing. Peirce's own account of what the operation adds: "abduction is the process of forming explanatory hypotheses. It is the only logical operation which introduces any new idea" (CP 5.172). The conclusion is a candidate rather than a verdict: on the reading the SEP article gives Peirce, the hypothesis is adopted as worthy of further investigation, not as true or confirmed.
+Peirce's own account of what the operation adds, as presented by the SEP article:
+
+> "[a]bduction is the process of forming explanatory hypotheses. It is the only logical operation which introduces any new idea" (CP 5.172; [SEP, Peirce on Abduction](https://plato.stanford.edu/archives/fall2026/entries/abduction/peirce.html))
+
+The schema's conclusion is a suspicion rather than a belief. On the interpretation the SEP article attributes to Harry Frankfurt, the hypothesis is adopted as a worthy candidate for further investigation, not as true or confirmed.
 
 (Peirce, Collected Papers; "Abduction" essays.)
 
 **Plain words**
-Surprise is the signal. When something you expected to be ordinary turns out not to be, the job is to find the story in which it would have been ordinary. That story is the guess. It has not earned belief yet; it has earned a test. The discipline is generating several such stories before settling on the cheapest one to check.
+Surprise is the signal. When something you expected to be ordinary turns out not to be, the job is to find the story in which it would have been ordinary. That story is the guess, and the schema says only that there is reason to suspect it: the guess has not earned belief yet. The compendium's exercise on top of the schema: generate several such stories, then pick one to check.
 
 **For example**
-The car won't start when it rains, fine when dry: the mechanic's guess is a cracked distributor cap. One guess, one cheap part, problem solved.
+Imagine a parcel missing from the expected entrance. Perhaps it was delivered to another entrance. That would explain its absence here; checking the other entrance tests the guess.
 
 ## Sources
 
