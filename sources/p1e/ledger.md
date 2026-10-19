@@ -421,3 +421,10 @@ Advisor QC (2026-10-19): quotes verified (BQ1 ch. 22 sentence, BQ2 ch. 68 verse 
 - Honest framing per QC standards: the 1972 study is correlational (mood-activity association, groups did not differ significantly), NOT an intervention trial; the scheduling-reduces-depression claim explicitly marked as inherited from later work. "It is antidepressant" overclaim removed from Practice. Plain words and example de-em-dashed; [[Behavioral activation]] link preserved in body.
 - Inherited, NOT opened: Lewinsohn et al. 1976, Lewinsohn & Amor 1978, MacPhillamy & Lewinsohn 1976, Aristotle NE X, Huizinga, Buddhist mudita parallels — flagged in state.
 - Validator: ok; protected fields untouched vs HEAD.
+
+## BE022 — Learn to use opposite action (done 2026-10-20 by worker-p1e-4f2c9b1d, item 18)
+
+- Opened: Linehan DBT Skills Training Manual 2nd ed. reproducible teaching notes via an actual fetch of the Guilford PDF (https://www.guilford.com/add/linehan7_old/lin-p-3teaching.pdf?t=1). Verified verbatim: (1) "Opposite action is changing your emotions by acting opposite to your emotional urge to do something."; (2) "When emotions do not fit the facts, and knowing the facts does not change your emotion, then acting opposite to your emotions—all the way, repeatedly—will change your emotional reactions."; (3) "When you do opposite action, do it all the way. This means opposite posture, facial expression, thinking, what you say, and how you say it. 'Halfway' opposite action does not work." Also verified the child-running-into-traffic example (fear fitting the facts should be experienced, not suppressed). Sources_checked +1 (36 -> 37).
+- Key correction: the original principle stated the skill unconditionally ("do the opposite of what the emotion urges"); the manual makes it conditional on the emotion not fitting the facts. Body, plain words, and practice now carry the fits-the-facts check. "The action rewrote the scene" drama removed from example.
+- Inherited, NOT opened: Linehan 1993, Rizvi & Linehan 2005, Aristotle NE II, Buddhism, Kant parallels — flagged in state.
+- Validator: ok; protected fields untouched vs HEAD.
