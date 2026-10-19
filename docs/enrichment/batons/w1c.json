@@ -1,0 +1,13 @@
+{
+ "baton": "w1c",
+ "agent": "Agent C",
+ "clocked_in": "2026-10-19T07:59:51+00:00",
+ "takeovers": [
+  {
+   "by": "Agent C",
+   "at": "2026-10-19T07:59:51+00:00",
+   "from": null,
+   "reason": "free"
+  }
+ ]
+}
