@@ -12,13 +12,25 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 14** — Practice magnificence (megaloprepeia)
 
-Magnificence is generosity at scale: spending large sums fittingly on public goods, not for display but for the good it does. If you have resources, use them for things that last and that serve others. The test is not the amount but the fittingness.
+Aristotle names the virtue in the chapter after liberality and gives its test:
+
+> "The magnificent man is like an artist; for he can see what is fitting and spend large sums tastefully." (Aristotle, [Nicomachean Ethics IV.2, Ross translation, Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html))
+
+The expenditures are large and fitting, and the fittingness is judged against both the result and the producer: the result should be worthy of the expense and the expense worthy of the result, suiting both the result and the means of the one who spends ([NE IV.2](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html)). Magnificence is an attribute of expenditures of the kind that are honourable: votive offerings, buildings and sacrifices, or equipping a chorus or a trireme and entertaining the city ([NE IV.2](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html)). The magnificent man spends not on himself but on public objects, and by preference on works that are lasting, for these are the most beautiful ([NE IV.2](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html)).
+
+The failure mode is not overspending as such. The vulgar man exceeds by spending beyond what is right, giving a club dinner on the scale of a wedding banquet, and does so to show off his wealth rather than for honour's sake ([NE IV.2](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html)).
 
 (NE IV.2.)
 
-**Plain words** Magnificence is generosity at a large scale: spending big on something public that lasts. Aristotle says the test isn't the number, it's whether the spending fits and serves others, not your image. If you have resources, ask what they could build for more than just you.
+**Plain words**
+The virtue is spending big on the right thing. The test has two sides: the result must be worth the money, and the money must suit the spender's means. Note what the test does not contain: audience applause. The vulgar spender performs largeness; the magnificent one builds something that lasts, and the building is the point. Even a house, Aristotle notes, is a sort of public ornament.
 
-*For example:* A successful baker who pays for a community oven in the local park is doing it. A name on a stadium for ego's sake isn't.
+*For example:*
+A successful baker who pays for a community oven in the local park is doing it. A name on a stadium for ego's sake isn't.
+
+## Sources
+
+- [Aristotle, Nicomachean Ethics IV.2, W. D. Ross translation, Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html) — magnificence chapter; the artist sentence quoted verbatim, the rest paraphrased with citations
 
 ## Stories
 
