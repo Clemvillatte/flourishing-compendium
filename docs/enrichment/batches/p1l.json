@@ -2,11 +2,12 @@
  "batch": "p1l",
  "done": [
   "D032",
-  "D040"
+  "D040",
+  "D044"
  ],
  "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-19T13:42:38+00:00"
+ "updated": "2026-10-19T13:43:11+00:00"
 }

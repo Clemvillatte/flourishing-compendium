@@ -16,9 +16,21 @@ Who can wait, muddy, until the water clears? Don't decide, judge, or speak from 
 
 (DDJ 15; Neiye.)
 
-**Plain words** When stirred up, don't decide, judge, or speak — sit muddy and let the water clear by itself. The muddy state always passes; the decisions made inside it are the ones you regret. Clarity isn't produced, it's waited for.
+### The question the chapter asks
+
+Chapter 15 describes the old masters, "dull like muddy water", and then asks the operative question:
+
+> "Who can (make) the muddy water (clear)? Let it be still, and it will gradually become clear. Who can secure the condition of rest? Let movement go on, and the condition of rest will gradually arise." (DDJ 15, [Legge](https://www.gutenberg.org/cache/epub/216/pg216.txt))
+
+Note the direction of both answers: stillness produces clarity, movement produces rest. Neither works the way you feel like working when stirred up, which is to act harder.
+
+**Plain words** The water is the mind after provocation: kicked up, opaque, and every opinion formed inside it is formed blind. Nothing you add clears it. The clarifying agent is time plus stillness, which is why the instruction is hardest exactly when you feel most like acting. A working rule: when a decision feels both urgent and hot, the heat is itself the reason to wait. The state passes on its own; what you control is whether anything irreversible happens before it does.
 
 *For example:* The resignation letter written mid-fury is the classic casualty of muddy water — sleep on it and the letter usually stays in the drawer.
+
+## Sources
+
+- [The Tao Teh King, Legge trans., Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt) — chapter 15
 
 ## Stories
 
