@@ -15,7 +15,8 @@
   "P055",
   "P027",
   "P143",
-  "P157"
+  "P157",
+  "P179"
  ],
  "in_progress": null,
  "flagged": {
@@ -28,6 +29,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 9,
- "updated": "2026-10-19T12:50:13+00:00",
+ "updated": "2026-10-19T12:50:43+00:00",
  "band_done": false
 }
