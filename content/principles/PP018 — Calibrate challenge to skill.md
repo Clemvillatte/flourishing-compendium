@@ -12,13 +12,20 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 ---
 > **Principle 18** — Calibrate challenge to skill
 
-Flow, the state of deep absorption in an activity, occurs when the challenge of the task matches the skill of the performer. Too little challenge produces boredom; too much produces anxiety. The calibration is dynamic: as skill grows, challenge must grow. The principle applies to work, sport, art, relationships, and any domain where sustained engagement matters.
+Flow theory's central condition is a match: "Entering flow depends on establishing a balance between perceived action capacities and action opportunities."
 
-(Csikszentmihalyi, 1990; Nakamura and Csikszentmihalyi, 2009.)
+> "The balance is fragile. If challenges exceed skills, one first becomes vigilant and then anxious; if skills exceed challenges, one first relaxes and eventually becomes bored." (Nakamura & Csikszentmihalyi, [Oxford Academic](https://academic.oup.com/edited-volume/34277/chapter/290616851))
 
-**Plain words** Flow, deep absorption, happens when a task's challenge matches your skill. Too little gives boredom, too much anxiety. The match shifts as you improve, so the challenge has to grow too. It applies to work, sport, art and relationships.
+The compendium applies the fragility to growth: the two failure states are both information, and the adjustment between them is the practice.
 
-*For example:* A chess player who always beats weaker opponents gets bored. One who joins a stronger club finds themselves absorbed again.
+**Plain words**
+Boredom and anxiety are the two signals of the same misalignment. Boredom means the task is under-using you; anxiety means it is over-matching you. The move in both cases is the same kind: change the challenge or change the skill until the two are close. The match is fragile, so expect to keep making it.
+
+*For example:* Suppose a chess player who always beats weaker opponents. As a modern application, the theory's reading is that the boredom is diagnostic: the challenge no longer matches the skill, and the stronger club is the recalibration.
+
+## Sources
+
+- [Nakamura & Csikszentmihalyi, The Experience of Flow: Theory and Research (Oxford Academic)](https://academic.oup.com/edited-volume/34277/chapter/290616851)
 
 ## Stories
 

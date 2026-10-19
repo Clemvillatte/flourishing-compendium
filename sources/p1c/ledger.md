@@ -373,3 +373,12 @@ copied from the opened URL in this session.
   Hayes/Strosahl/Wilson 2011 book; the opened source is this 2011 Behavior Therapy
   article by the ACT authors, which carries the same definition. Validated vs HEAD
   (pre-item).
+
+## PP018 — Calibrate challenge to skill (Nakamura & Csikszentmihalyi)
+
+- Opened: https://academic.oup.com/edited-volume/34277/chapter/290616851 (Nakamura &
+  Csikszentmihalyi, "The Experience of Flow: Theory and Research", Oxford Academic;
+  both balance sentences fetched verbatim from the accessible chapter text). The
+  seed's locators (Csikszentmihalyi 1990; the 2009 handbook chapter) are the same
+  authors' works; this accessible online-edition chapter carries the passages.
+  Validated vs HEAD (pre-item).
