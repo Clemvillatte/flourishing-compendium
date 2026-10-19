@@ -36,7 +36,7 @@ Backlink inspection (actual wikilinks, not prose mentions):
 | Concept | Backlinks to my five principles |
 |---|---|
 | Body scan in MBSR (Kabat-Zinn) | [[BI054]] (verified in file) |
-| Embodied cognition | [[CO005]] (verified in file, "In the compendium" section) |
+| Embodied cognition | [[CO005]] in "Cited in psychology parallels"; "In the compendium" mentions CO005 as plain text |
 | Yangsheng (cultivating vitality) | [[BI054]], [[CO005]] |
 | The lived body | [[BI054]], [[CO005]] |
 | The examined life | [[CO007]], [[CO050]] |
