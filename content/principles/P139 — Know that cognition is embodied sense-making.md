@@ -12,13 +12,21 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 139** — Know that cognition is embodied sense-making
 
-Thinking is not symbol manipulation in a detached head; it is the activity of a living body making sense of its world. Ground your practices in the body: posture, movement, breath are part of cognition.
+The principle's source text is The Embodied Mind, where Francisco Varela, Evan Thompson and Eleanor Rosch set out what "embodied" adds to a theory of mind (Varela, Thompson & Rosch, The Embodied Mind, ch. "Enaction: Embodied Cognition").
 
-(Varela, Thompson and Rosch, The Embodied Mind, 1991.)
+> The term embodied highlights two points: first, that cognition depends upon the kinds of experience that come from having a body with various sensorimotor capacities, and second, that these individual sensorimotor capacities are themselves embedded in a more encompassing biological, psychological, and cultural context. (Varela, Thompson & Rosch, The Embodied Mind, ch. "Enaction: Embodied Cognition", [publisher's chapter abstract](https://academic.oup.com/mit-press-scholarship-online/book/15075/chapter-abstract/169493399))
 
-**Plain words** Thinking is not symbol manipulation in a detached head — it's the activity of a living body making sense of its world. Ground your practices in the body: posture, movement, breath are part of cognition. The slumped thinker thinks slumped thoughts.
+In the authors' enactive account, perception guides action, and recurring patterns of sensing and acting give rise to cognitive structures ([publisher's chapter abstract](https://academic.oup.com/mit-press-scholarship-online/book/15075/chapter-abstract/169493399)).
 
-*For example:* The hard problem solved during a walk, not at the desk — every time, and still every time you forget. The body was part of the thinking. Next time, walk first.
+**Plain words**
+Imagine learning an unfamiliar movement. You attempt it, notice what happens and adjust your next attempt. The authors ask us to include that ongoing exchange between sensing and acting when explaining cognition. When the principle says thinking is embodied, it means that exchange is part of what thinking is.
+
+*For example:* In Experiment 1 of the Oppezzo and Schwartz walking studies, walking increased creativity scores for 81% of participants on an alternative-uses task, while increasing scores for only 23% on a convergent-thinking task; a later experiment found that walking outside produced the most novel and highest quality analogies (Oppezzo & Schwartz 2014, [abstract](https://pubmed.ncbi.nlm.nih.gov/24749966/)). The result shows bodily activity shaping cognitive performance on those tasks; it does not by itself establish the enactive theory.
+
+## Sources
+
+- [Varela, Thompson & Rosch, The Embodied Mind, chapter "Enaction: Embodied Cognition", publisher's chapter abstract, Oxford University Press](https://academic.oup.com/mit-press-scholarship-online/book/15075/chapter-abstract/169493399) — definition of "embodied"; enaction
+- [Oppezzo & Schwartz, "Give your ideas some legs: the positive effect of walking on creative thinking", JEP:LMC 40(4), 2014, PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/24749966/) — Experiment 1 GAU/CRA results; outdoor analogy experiment
 
 ## Stories
 

@@ -12,11 +12,12 @@
   "S001",
   "S007",
   "S011",
-  "SO044"
+  "SO044",
+  "P139"
  ],
- "in_progress": "P139",
+ "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
- "sources_checked": 10,
- "updated": "2026-10-19T11:31:30+00:00"
+ "sources_checked": 12,
+ "updated": "2026-10-19T11:35:57+00:00"
 }
