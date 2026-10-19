@@ -12,13 +12,16 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 91** — Distinguish lived time from clock time
 
-Clock time is a grid of identical instants; lived duration is qualitative: thick with meaning, stretching and compressing. Run your life by duration, not only by the clock.
+Clock time is a grid of identical instants; lived duration is qualitative: thick with meaning, stretching and compressing. Run your life by duration, not only by the clock. Bergson gives the contrast its sharpest line:
 
-(Bergson, Time and Free Will, 1889.)
+> "When I follow with my eyes on the dial of a clock the movement of the hand which corresponds to the oscillations of the pendulum, I do not measure duration, as seems to be thought; I merely count simultaneities, which is very different."
+> (Bergson, Time and Free Will, [Pogson translation, Project Gutenberg](https://www.gutenberg.org/files/56852/56852-h/56852-h.htm))
 
-**Plain words** The afternoon with a good friend and the afternoon in the waiting room are not the same length — the clock is lying to one of them. Lived duration is thick with meaning, stretching and compressing; run your life by it, not only by the grid.
+His term for the other thing is pure duration: "the form which the succession of our conscious states assumes when our ego lets itself live, when it refrains from separating its present state from its former states" (Bergson, Time and Free Will). The clock counts; duration interpenetrates. (Bergson, Time and Free Will, 1889.)
 
-*For example:* 'Where did the evening go?' — nowhere; it stretched. The same six clock-hours at the dentist's office last a fiscal quarter. Duration is the honest ledger.
+**Plain words** The clock counts positions; you live a passage. The afternoon with a friend and the afternoon in the waiting room each occupy three clock-hours, and they are not the same three hours: one is interpenetrated, one is counted out. Bergson's point is not that one measure is wrong, but that they measure different things, and the clock cannot tell you which afternoon was worth living.
+
+*For example:* Ask where the evening went: the clock says six hours; the memory says it stretched. Ask the same question about six hours in a waiting room: the clock says the same six; the memory says more. Both reports are honest, and they measure different things.
 
 ## Stories
 
