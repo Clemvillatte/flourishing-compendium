@@ -1,9 +1,11 @@
 {
  "batch": "p1q",
- "done": [],
- "in_progress": "D033",
+ "done": [
+  "D033"
+ ],
+ "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-19T14:45:50+00:00"
+ "updated": "2026-10-19T14:48:41+00:00"
 }

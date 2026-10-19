@@ -12,17 +12,37 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 33** — Treasure 3: not daring to be first
 
-Daring to stay behind the crowd is what lets you lead and last. Let others rush to be first; you'll arrive by not burning out.
+The third treasure is named in Daodejing 67. Legge translates the naming:
 
-(DDJ 7, 67.)
+> "But I have three precious things which I prize and hold fast. The first is gentleness; the second is economy; and the third is shrinking from taking precedence of others." (Daodejing 67, Legge trans., [Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 
-**Plain words** Everyone trampling each other to be first is exactly why arriving by not burning out is a strategy, not a character flaw. The front of the race is expensive; the front of the season is cheap. Let them rush.
+Chapter 67 connects reluctance to take precedence with honour, then warns against abandoning the three treasures:
 
-*For example:* The second mover watching the pioneer make every expensive mistake — then shipping the fixed version — is a business classic for a reason.
+> "shrinking from taking precedence of others, I can become a vessel of the highest honour. Now-a-days they give up gentleness and are all for being bold; economy, and are all for being liberal; the hindmost place, and seek only to be foremost;--(of all which the end is) death." (Daodejing 67)
+
+### What the chapters say holding back does
+
+Chapter 7 connects putting oneself last with having no personal and private ends:
+
+> "the sage puts his own person last, and yet it is found in the foremost place; he treats his person as if it were foreign to him, and yet that person is preserved. Is it not because he has no personal and private ends, that therefore such ends are realised?" (DDJ 7 §2, Legge.)
+
+Chapter 66 describes a ruler whose position people do not experience as a burden or injury:
+
+> "though he has his place above them, men do not feel his weight, nor though he has his place before them, do they feel it an injury to them" (DDJ 66 §2, Legge.)
+
+(DDJ 7, 66, 67.)
+
+**Plain words** Suppose you want the first turn because being first feels important. Ask what the people around you need before claiming it. You can speak, lead and take responsibility without insisting on precedence. A practical reading of these chapters is to give other people room while remaining willing to do the work.
+
+*For example:* Imagine chairing a meeting. Invite the quieter participants to speak before presenting your proposal, then summarize their concerns. You remain responsible for the meeting; you have given others a hearing before advancing your own position.
+
+## Sources
+
+- [The Tao Teh King, Legge trans., Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt) — chapters 7, 66, 67
 
 ## Psychology parallels
 
-- **[[Hypercompetitiveness|Hypercompetitiveness]]**, competitiveness as self-worth contingency predicts poorer mental health (Ryckman et al., 1994)
+- **[[Hypercompetitiveness|Hypercompetitiveness]]** (Ryckman et al., 1994)
 - **[[Humility|Humility research]]** (Tangney, 2000)
 
 ## Philosophy parallels
