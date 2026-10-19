@@ -8,11 +8,12 @@
   "Docta ignorantia",
   "ERG Theory",
   "Effortless action through long effort",
-  "Embodied cognition"
+  "Embodied cognition",
+  "Emotion regulation"
  ],
  "flagged": {},
  "missing_concepts": [],
- "sources_checked": 32,
+ "sources_checked": 33,
  "inline": [],
  "reciprocal": [
   {
@@ -219,6 +220,46 @@
    "into": "Body scan in MBSR (Kabat-Zinn)",
    "link": "Embodied cognition",
    "why": "the research programme behind body-first attention practices"
+  },
+  {
+   "into": "Anger regulation research",
+   "link": "Emotion regulation",
+   "why": "the parent model that the anger-specific evidence tests"
+  },
+  {
+   "into": "Cognitive reappraisal",
+   "link": "Emotion regulation",
+   "why": "the process model that makes this strategy central"
+  },
+  {
+   "into": "Expressive suppression versus reappraisal",
+   "link": "Emotion regulation",
+   "why": "the framework behind this comparison"
+  },
+  {
+   "into": "Situation selection",
+   "link": "Emotion regulation",
+   "why": "the earliest family in Gross's model"
+  },
+  {
+   "into": "Affect labeling",
+   "link": "Emotion regulation",
+   "why": "an attentional strategy within this taxonomy"
+  },
+  {
+   "into": "Acceptance alongside values-based action",
+   "link": "Emotion regulation",
+   "why": "the ACT strategy family inside this taxonomy"
+  },
+  {
+   "into": "Distress tolerance (DBT)",
+   "link": "Emotion regulation",
+   "why": "the clinical skills built on this model"
+  },
+  {
+   "into": "Equanimity",
+   "link": "Emotion regulation",
+   "why": "the process model's target state, in the contemplative key"
   }
  ],
  "notes": "First concept: Amor sui (right self-love). All 12 original links preserved. Facets section (vs self-contempt) folded into prose. Definition quote is Ethics IIIp55 scholium (verified against Gutenberg Elwes text); rational demand is IVp18 scholium. Related-clause support sources (SEP Rousseau/Nietzsche/Stoicism, Wikipedia self-compassion) listed in the page's Sources section. | deferred at this run (target band busy): 6 recip, 0 inline | deferred at this run (target band busy): 21 recip, 0 inline"
