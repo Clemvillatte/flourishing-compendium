@@ -347,3 +347,13 @@ copied from the opened URL in this session.
 
 - Removed "The drifting is assumed..." overstatement; Plain words replaced with the
   advisor's lapse-as-cue text. Milestone 25 approved (P080 + B177).
+
+## PP044 — Practise coping flexibility (Cheng et al. 2014; Bonanno & Burton 2013)
+
+- Opened: https://pubmed.ncbi.nlm.nih.gov/25222637/ (Cheng et al. 2014 abstract
+  verbatim: effect-size sentence and conceptualization sentence) and
+  https://pubmed.ncbi.nlm.nih.gov/26173226/ (Bonanno & Burton 2013 abstract verbatim:
+  "fallacy of uniform efficacy" and three-components sentences). The seed's
+  problem-focused/emotion-focused matching rule is presented as hedged compendium
+  application, not as a verified finding from these abstracts. Validated vs HEAD
+  (pre-item).

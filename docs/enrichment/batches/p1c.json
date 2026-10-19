@@ -30,7 +30,8 @@
   "B177",
   "BI002",
   "P041",
-  "P080"
+  "P080",
+  "PP044"
  ],
  "in_progress": null,
  "flagged": {
@@ -41,6 +42,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 17,
- "updated": "2026-10-19T12:09:16+00:00",
+ "updated": "2026-10-19T12:11:49+00:00",
  "band_done": false
 }

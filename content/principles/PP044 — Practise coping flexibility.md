@@ -12,13 +12,21 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 ---
 > **Principle 44** — Practise coping flexibility
 
-The capacity to adjust coping strategies to the demands of the situation, rather than relying on a single strategy for all situations, predicts resilience. Problem-focused coping works for changeable stressors; emotion-focused coping works for unchangeable ones. The skill is not having the right strategy but matching the strategy to the situation.
+Two research programs converge on the same conclusion. Bonanno and Burton name the assumption they are attacking the "fallacy of uniform efficacy": that any one strategy is reliably beneficial or harmful. Their alternative, regulatory flexibility, has three components: "sensitivity to context, availability of a diverse repertoire of regulatory strategies, and responsiveness to feedback." Cheng and colleagues' meta-analysis of coping flexibility found a positive link with psychological adjustment.
 
-(Cheng et al., 2014; Bonanno and Burton, 2013.)
+> "The results of a random-effects model revealed a small to moderate overall mean effect size (r = .23, 95% CI [.19, .28], 80% CRI [-.02, .49], k = 329, N = 58,946)." (Cheng et al. 2014, [PubMed](https://pubmed.ncbi.nlm.nih.gov/25222637/))
 
-**Plain words** Coping well isn't having one good strategy. It's matching the strategy to the situation. Changeable problems call for action. Unchangeable ones call for adjusting how you feel about them. Rigidity in either direction costs you.
+The compendium applies the matching claim carefully: the evidence supports an association between flexible, well-fitted coping and adjustment, and the components are context-reading, repertoire and feedback, not one right strategy.
 
-*For example:* When a colleague is unhappy with you, you talk it through. When your mother is dying, you let yourself grieve.
+**Plain words**
+The research is against one-size answers: a strategy that suits a fixable problem may be wrong for an unfixable one. The skill the papers point at has three parts: read the situation, have more than one move, and notice the feedback. The meta-analytic link is real but moderate; flexibility predicts adjustment, it does not guarantee it.
+
+*For example:* Suppose a colleague is unhappy with you and a parent is dying in the same month. As a modern application, the flexibility question is which situation calls for action and which for feeling, and the answer differs for the two.
+
+## Sources
+
+- [Cheng et al. 2014, Coping flexibility: a meta-analytic review (PubMed)](https://pubmed.ncbi.nlm.nih.gov/25222637/)
+- [Bonanno & Burton 2013, Regulatory flexibility (PubMed)](https://pubmed.ncbi.nlm.nih.gov/26173226/)
 
 ## Stories
 
