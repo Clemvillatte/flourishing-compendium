@@ -23,6 +23,13 @@ let hover = null, selected = null, dragged = null;
    are skipped. Capped so a long browsing session can't grow it unbounded. */
 const SEL_HIST_MAX = 60;
 let selHistory = [];
+/* forward stack: filled when the user steps BACK; cleared as soon as a fresh
+   node is selected by any other route (a new branch makes the old future stale) */
+let selFuture = [];
+function futureUsable() {
+  if (!G || !G.nodeById) return false;
+  return selFuture.some(id => { const n = G.nodeById.get(id); return n && n.visible && n !== selected; });
+}
 function historyUsable() {
   if (!G || !G.nodeById) return false;
   return selHistory.some(id => { const n = G.nodeById.get(id); return n && n.visible && n !== selected; });
@@ -32,6 +39,10 @@ function updateBackBtns() {
   const b1 = document.getElementById('graphBackBtn'), b2 = document.getElementById('graphBackBtnM');
   if (b1) b1.disabled = !ok;
   if (b2) b2.disabled = !ok;
+  const okF = futureUsable();
+  const f1 = document.getElementById('graphFwdBtn'), f2 = document.getElementById('graphFwdBtnM');
+  if (f1) f1.disabled = !okF;
+  if (f2) f2.disabled = !okF;
 }
 /* random "show me something" button: pick uniformly from the nodes visible
    under the CURRENT scope + kind filters, then reveal + select it exactly like
@@ -45,11 +56,14 @@ function openRandomNode() {
   centerOn(n);
   select(n);
 }
-function goBackSelection() {
+/* shared stepper for ← / →: pop usable nodes from `from`, push the node being
+   left onto `to`, and re-select without recording (so the stacks stay in sync) */
+function stepSelection(from, to) {
   if (!G || !G.nodeById) return;
-  while (selHistory.length) {
-    const n = G.nodeById.get(selHistory.pop());
+  while (from.length) {
+    const n = G.nodeById.get(from.pop());
     if (!n || !n.visible || n === selected) continue;   // stale or duplicate — keep popping
+    if (selected) to.push(selected.id);
     // if the node is off-screen, glide to it (desktop: camera travel; phones:
     // the belt fit inside centerOn, or a plain glide when belts are off) —
     // camera-RELATIVE screen position decides, not world position
@@ -62,6 +76,8 @@ function goBackSelection() {
   }
   updateBackBtns();   // the whole stack was stale — refresh the disabled state
 }
+function goBackSelection() { stepSelection(selHistory, selFuture); }
+function goForwardSelection() { stepSelection(selFuture, selHistory); }
 let panning = false, moved = 0;
 let lastMouse = null;
 let lastClickNode = null, lastClickT = 0;   // dblclick fallback: the node may ease away between the two clicks
@@ -1376,6 +1392,7 @@ function drawLabels(dpr, w, h, z, c) {
     return false;
   }
   const toScreen = n => ({ x: (dispX(n) - cam.x) * z + w / 2, y: (dispY(n) - cam.y) * z + h / 2 });
+  labelRects = [];   // hit-testing map of the pills painted this pass (phones)
   // PHONES: labels are the reading surface on a 390px viewport — they get a
   // subtle backing pill, are truncated to what fits before the screen edge
   // (instead of being skipped outright), and while the belts are being read
@@ -1430,6 +1447,7 @@ function drawLabels(dpr, w, h, z, c) {
       ctx.fillStyle = c.bg; ctx.globalAlpha = 0.72;
       ctx.fillRect(r.x0 - 2, r.y0 - 1, tw + 6, 15);
       ctx.globalAlpha = 1;
+      labelRects.push({ n, x0: r.x0 - 2, y0: r.y0 - 3, x1: r.x0 + tw + 4, y1: r.y0 + 16 });
     }
     ctx.fillStyle = c.text;
     ctx.globalAlpha = 0.9;
@@ -1516,6 +1534,7 @@ function drawLabels(dpr, w, h, z, c) {
     ctx.fillStyle = c.bg; ctx.globalAlpha = 0.92;
     ctx.fillRect(q.r.x0 - 2, q.r.y0 - 1, q.tw + 8, 15);
     ctx.globalAlpha = 1;
+    labelRects.push({ n: q.n, x0: q.r.x0 - 2, y0: q.r.y0 - 3, x1: q.r.x0 + q.tw + 6, y1: q.r.y0 + 16 });
     ctx.fillStyle = c.text;
     ctx.fillText(q.title, q.r.x0 + 2, q.y);
   }
@@ -1620,6 +1639,21 @@ function toWorld(sx, sy) {
   const w = canvas.clientWidth, h = canvas.clientHeight;
   return { x: (sx - w / 2) / cam.zoom + cam.x, y: (sy - h / 2) / cam.zoom + cam.y };
 }
+/* PHONES: screen rectangles of the label pills drawn in the LAST frame, in
+   paint order (last = on top). A pill is painted OVER node dots, so a finger
+   on a label's text must select THAT label's node — not the unrelated dot
+   that happens to sit underneath the pill (the "it selects nodes I didn't
+   touch" bug). Rebuilt on every drawLabels pass. */
+let labelRects = [];
+function tappable(n) {
+  if (!n.visible) return false;
+  if (nb2Hidden && nb2Hidden.has(n)) return false;   // N+2 OFF: second hop not clickable
+  // PHONES, while a node is selected: only the selection's neighbourhood
+  // (N+1 / N+2 / bridge partners) is clickable
+  if (spreadSnap && selected && spreadNbSet && n !== selected && !spreadNbSet.has(n) &&
+      !(spreadNb2Set && spreadNb2Set.has(n)) && !(spreadBrSet && spreadBrSet.has(n))) return false;
+  return true;
+}
 function hit(sx, sy) {
   if (warmTicks > 0) return null;   // no hit-testing on nodes that are still being arranged
   // PHONES, while a node is selected: only the selection's neighbourhood
@@ -1627,7 +1661,13 @@ function hit(sx, sy) {
   // node is a PAN — on a dense phone screen every touch used to grab a node
   // and made navigating impossible. Tapping empty space deselects, and with
   // the selection gone everything is clickable again.
-  const phoneLocked = spreadSnap && selected && spreadNbSet;
+  // Label pills first (phones): what the finger SEES on top wins.
+  if (spreadSnap && labelRects.length) {
+    for (let i = labelRects.length - 1; i >= 0; i--) {
+      const r = labelRects[i];
+      if (sx >= r.x0 && sx <= r.x1 && sy >= r.y0 && sy <= r.y1 && tappable(r.n)) return r.n;
+    }
+  }
   const p = toWorld(sx, sy);
   // Two-step pick, so a small node sitting on a big one stays clickable:
   // 1. among nodes whose disk CONTAINS the point, the SMALLEST wins
@@ -1636,10 +1676,7 @@ function hit(sx, sy) {
   let inside = null, insideR = 1e9, insideD = 1e9, insideId = '';
   let near = null, nd = 1e9;
   for (const n of G.nodes) {
-    if (!n.visible) continue;
-    if (nb2Hidden && nb2Hidden.has(n)) continue;   // N+2 OFF: second hop not clickable
-    if (phoneLocked && n !== selected && !spreadNbSet.has(n) &&
-        !(spreadNb2Set && spreadNb2Set.has(n)) && !(spreadBrSet && spreadBrSet.has(n))) continue;
+    if (!tappable(n)) continue;
     const dx = dispX(n) - p.x, dy = dispY(n) - p.y;
     const d = dx * dx + dy * dy;
     if (d < n.r * n.r) {
@@ -1735,6 +1772,7 @@ function openDrawer(n) {
 
 function select(n, opts) {
   const record = !opts || opts.recordHistory !== false;
+  if (record && n && n !== selected) selFuture.length = 0;   // new branch — the old "forward" is stale
   if (record && selected && selected !== n) {
     selHistory.push(selected.id);
     if (selHistory.length > SEL_HIST_MAX) selHistory.splice(0, selHistory.length - SEL_HIST_MAX);
@@ -1804,7 +1842,16 @@ window.addEventListener('fc:edge', ev => {
 });
 
 function bindEvents() {
+  /* After a tap, mobile browsers replay it as mousemove/mousedown/mouseup/click
+     at the same screen point. On phones the tap has ALREADY snapped the belts
+     into place under the finger, so the replayed press hit-tests a DIFFERENT
+     node and selected it — "it selects nodes I haven't touched". touchend now
+     cancels the replay, and mouse events arriving right after any touch are
+     ignored as a second line of defence. */
+  let lastTouchT = 0;
+  const touchEcho = () => Date.now() - lastTouchT < 900;
   canvas.addEventListener('mousedown', ev => {
+    if (touchEcho()) return;
     const r = canvas.getBoundingClientRect();
     const n = hit(ev.clientX - r.left, ev.clientY - r.top);
     lastMouse = { x: ev.clientX, y: ev.clientY };
@@ -1835,6 +1882,7 @@ function bindEvents() {
     wake();
   });
   window.addEventListener('mouseup', () => {
+    if (touchEcho()) return;
     const wasDrag = !!dragged && moved >= 5;   // a real drag (not a click) → settle
     if (moved < 5) {
       if (dragged) { select(dragged); lastClickNode = dragged; lastClickT = Date.now(); }
@@ -1846,6 +1894,7 @@ function bindEvents() {
     wake();
   });
   canvas.addEventListener('mousemove', ev => {
+    if (touchEcho()) return;
     const r = canvas.getBoundingClientRect();
     hover = hit(ev.clientX - r.left, ev.clientY - r.top);
     canvas.style.cursor = hover ? 'pointer' : (panning ? 'grabbing' : 'grab');
@@ -1853,6 +1902,7 @@ function bindEvents() {
   });
   canvas.addEventListener('mouseleave', () => { hover = null; wake(); });
   canvas.addEventListener('dblclick', ev => {
+    if (touchEcho()) return;
     const r = canvas.getBoundingClientRect();
     let n = hit(ev.clientX - r.left, ev.clientY - r.top);
     if (!n && Date.now() - lastClickT < 600) n = lastClickNode;   // the clicked node may have eased away (spread) between the two clicks
@@ -1872,6 +1922,7 @@ function bindEvents() {
   // touch
   let pinch = null;
   canvas.addEventListener('touchstart', ev => {
+    lastTouchT = Date.now();
     if (ev.touches.length === 1) {
       const r = canvas.getBoundingClientRect();
       const n = hit(ev.touches[0].clientX - r.left, ev.touches[0].clientY - r.top);
@@ -1888,6 +1939,7 @@ function bindEvents() {
     wake();
   }, { passive: true });
   canvas.addEventListener('touchmove', ev => {
+    lastTouchT = Date.now();
     ev.preventDefault();
     if (ev.touches.length === 2 && pinch) {
       const [a, b] = ev.touches;
@@ -1927,6 +1979,8 @@ function bindEvents() {
     wake();
   }, { passive: false });
   canvas.addEventListener('touchend', ev => {
+    lastTouchT = Date.now();
+    if (ev.cancelable) ev.preventDefault();   // cancel the replayed mouse events (see touchEcho)
     if (ev.touches.length === 0) {
       const wasDrag = !!dragged && moved >= 12;
       if (moved < 12 && dragged) { select(dragged); lastClickNode = dragged; lastClickT = Date.now(); }
@@ -1984,6 +2038,9 @@ function bindEvents() {
   const backBtn = document.getElementById('graphBackBtn'), backBtnM = document.getElementById('graphBackBtnM');
   if (backBtn) backBtn.addEventListener('click', goBackSelection);
   if (backBtnM) backBtnM.addEventListener('click', goBackSelection);
+  const fwdBtn = document.getElementById('graphFwdBtn'), fwdBtnM = document.getElementById('graphFwdBtnM');
+  if (fwdBtn) fwdBtn.addEventListener('click', goForwardSelection);
+  if (fwdBtnM) fwdBtnM.addEventListener('click', goForwardSelection);
   const randBtn = document.getElementById('graphRandomBtn'), randBtnM = document.getElementById('graphRandomBtnM');
   if (randBtn) randBtn.addEventListener('click', openRandomNode);
   if (randBtnM) randBtnM.addEventListener('click', openRandomNode);
@@ -2540,6 +2597,18 @@ window.__qaFinishWarmup = () => {
 // QA-only hook: select a node by id (or deselect with null) — drives the real
 // select() path so automated QA exercises the same code as a click/tap.
 window.__qaSelect = (id) => { select(id ? G.nodeById.get(id) : null); };
+
+// QA hook: selection + history stacks + screen position of a node (canvas CSS px)
+window.__qaState = (id) => {
+  const o = { sel: selected ? selected.id : null, back: selHistory.slice(), fwd: selFuture.slice(),
+    backDisabled: (document.getElementById('graphBackBtnM') || {}).disabled, fwdDisabled: (document.getElementById('graphFwdBtnM') || {}).disabled,
+    zoom: cam.zoom, labelRects: labelRects.length, warmTicks, running };
+  if (id && G) { const n = G.nodeById.get(id); if (n) { const w = canvas.clientWidth, h = canvas.clientHeight;
+    const r = canvas.getBoundingClientRect();
+    o.node = { x: (dispX(n) - cam.x) * cam.zoom + w / 2 + r.left, y: (dispY(n) - cam.y) * cam.zoom + h / 2 + r.top, r: n.r * cam.zoom }; } }
+  return o;
+};
+window.__qaLabels = () => labelRects.map(r => ({ id: r.n.id, x0: r.x0, y0: r.y0, x1: r.x1, y1: r.y1, ox: canvas.getBoundingClientRect().left, oy: canvas.getBoundingClientRect().top }));
 
 // small debug/introspection hook (positions + camera) — used for QA
 window.__graphDebug = (id) => {

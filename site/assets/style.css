@@ -1154,7 +1154,7 @@ body.rl-fullwin #researchLaunchers { display:none; }
 .read-step:hover { border-color:var(--gold); }
 
 /* mobile-only controls (hidden on desktop) */
-.rand-filters-btn, .lib-browse-btn, .graph-menu-btn, .graph-back-btn, .graph-rand-btn, #libSectionSelect { display:none; }
+.rand-filters-btn, .lib-browse-btn, .graph-menu-btn, .graph-back-btn, .graph-fwd-btn, .graph-rand-btn, #libSectionSelect { display:none; }
 .draw-btn svg { display:none; }
 
 /* ═══════════════ RESPONSIVE ═══════════════ */
@@ -1280,6 +1280,15 @@ body.graph-mode #randView, body.graph-mode #wikiView { display:none; }
   color:var(--muted); background:var(--panel2); border:1px solid var(--line2); border-radius:8px;
   cursor:pointer;
 }
+#graphBackBtn, #graphFwdBtn {
+  display:inline-flex; align-items:center; justify-content:center;
+  width:28px; height:28px; padding:0;
+  color:var(--muted); background:var(--panel2); border:1px solid var(--line2); border-radius:8px;
+  cursor:pointer;
+}
+#graphFwdBtn:hover:not(:disabled) { color:var(--text); border-color:var(--gold); }
+#graphFwdBtn:disabled { opacity:.35; cursor:default; }
+#graphFwdBtn:focus-visible { outline:2px solid var(--gold); outline-offset:1px; }
 #graphBackBtn:hover:not(:disabled) { color:var(--text); border-color:var(--gold); }
 #graphBackBtn:disabled { opacity:.35; cursor:default; }
 #graphBackBtn:focus-visible { outline:2px solid var(--gold); outline-offset:1px; }
@@ -1536,7 +1545,7 @@ body.graph-mode #randView, body.graph-mode #wikiView { display:none; }
     font-size:19px; box-shadow:0 4px 14px rgba(0,0,0,.18);
   }
   /* back-to-previous-node + random-node: beside ☰ on phones */
-  #graphBackBtn, #graphRandomBtn { display:none; }
+  #graphBackBtn, #graphFwdBtn, #graphRandomBtn { display:none; }
   .graph-back-btn {
     display:flex; align-items:center; justify-content:center;
     position:absolute; top:10px; left:62px; z-index:130;
@@ -1544,11 +1553,12 @@ body.graph-mode #randView, body.graph-mode #wikiView { display:none; }
     background:var(--panel); border:1px solid var(--line2); color:var(--text);
     box-shadow:0 4px 14px rgba(0,0,0,.18); cursor:pointer;
   }
+  .graph-fwd-btn { left:114px; }
   .graph-back-btn:disabled { opacity:.35; }
   .graph-back-btn:not(:disabled):active { background:var(--panel2); }
   .graph-rand-btn {
     display:flex; align-items:center; justify-content:center;
-    position:absolute; top:10px; left:114px; z-index:130;
+    position:absolute; top:10px; left:166px; z-index:130;
     width:44px; height:44px; border-radius:12px;
     background:var(--panel); border:1px solid var(--line2); color:var(--text);
     box-shadow:0 4px 14px rgba(0,0,0,.18); cursor:pointer;
