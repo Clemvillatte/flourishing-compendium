@@ -12,13 +12,30 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 96** — Don't let the outer displace the inner
 
-When the senses rule, the inner power is driven out; when the inner rules, the senses fall in line. Re-order from the inside out.
+Daodejing 12 describes colours, music, flavours, the chase and sought-after rare objects as disturbing perception, mind or conduct. In Legge's verse:
 
-(Neiye; DDJ 12.)
+> "Colour's five hues from th' eyes their sight will take;
+> Music's five notes the ears as deaf can make;
+> The flavours five deprive the mouth of taste;
+> The chariot course, and the wild hunting waste
+> Make mad the mind; and objects rare and strange,
+> Sought for, men's conduct will to evil change." (Daodejing 12, [Legge](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 
-**Plain words** Run the order the other way: decide from the inside, let the world's inputs follow. When the phone decides your morning, the outer has displaced the inner — and the outside-in approach is called being pushed around.
+The chapter closes with the sage's preference:
 
-*For example:* Deciding your morning before the notifications decide it — the day runs on your order, not the world's.
+> "Therefore the sage seeks to satisfy (the craving of) the belly, and not the (insatiable longing of the) eyes. He puts from him the latter, and prefers to seek the former." (Daodejing 12, [Legge](https://www.gutenberg.org/cache/epub/216/pg216.txt))
+
+Applied to present-day choices, this contrast invites a question about attention: what would meet the need at hand, and what else am I continuing to pursue?
+
+(DDJ 12.)
+
+**Plain words** Before reaching for another item, ask what you came for and whether you now have enough for that purpose. You may still choose to continue, with a reason you can name.
+
+*For example:* If you open your phone to check tomorrow's weather, check it and close the app. Decide separately whether you want to read the news.
+
+## Sources
+
+- [The Tao Teh King, James Legge translation, Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt) — ch. 12
 
 ## Practice kernels
 

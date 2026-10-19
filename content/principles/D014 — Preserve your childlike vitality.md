@@ -20,7 +20,7 @@ The harmony is the point: to know it, the chapter says, is to know the unchangin
 
 (DDJ 10, 28, 55.)
 
-**Plain words** A baby can cry all day without going hoarse, the chapter says, because nothing in it is fighting itself. Vitality here is a harmony between the parts of you, not a fuel tank. Forcing output past what the body has, the mind burning the breath, looks strong while it makes you old; the chapter calls that contrary to the Tao. Wonder, play and absorption are what the harmony looks like when it is working.
+**Plain words** The chapter describes an infant crying all day without losing its voice, and calls that harmony. Its warning is about force: strength that comes from making the vital breath burn is called false, and things that have become strong are said to become old, "which may be said to be contrary to the Tao." The question it leaves you with: what in your life is being run by force that the chapter would call false strength?
 
 *For example:* Give one hour this week to something with no outcome attached: a walk with no destination, a game, building something useless. Watch what your attention does when nothing is being collected from it.
 

@@ -20,7 +20,7 @@ The cook contrasts his blade with the ones that wear out: "A good cook changes h
 
 (Zhuangzi 3.)
 
-**Plain words** Woodworkers read the grain before they cut; sawing across it splinters. The story's version: every situation has crevices, where things already separate, and bones, where they do not. The skill is telling the two apart before applying force. If your effort keeps meeting resistance, the story's diagnosis is that you are cutting bone. The move is to stop and look for the line where the joint already opens.
+**Plain words** The cook's knife stays sharp because it goes where the ox already separates, the crevices and cavities, and avoids the ligaments and the bones. His method has a second part that is easy to miss: at a complicated joint he does not push through; he slows down, watches, and moves the knife slightly. Faced with a stuck piece of work, the story's question is which of the two you are looking at: a place that already opens, or a place that needs the slow, careful cut.
 
 *For example:* Before a difficult conversation, write down what the other person already wants, and open there. The pitch you prepared is the bone; their want is the joint.
 

@@ -3,7 +3,8 @@
  "done": [
   "D007",
   "D014",
-  "D056"
+  "D056",
+  "D061"
  ],
  "in_progress": null,
  "flagged": {
@@ -13,6 +14,6 @@
   "D061": "inherited psych claims (Meichenbaum; early-intervention) not verified; preserved per protocol"
  },
  "missing_concepts": [],
- "sources_checked": 0,
- "updated": "2026-10-19T12:19:12+00:00"
+ "sources_checked": 2,
+ "updated": "2026-10-19T12:23:43+00:00"
 }
