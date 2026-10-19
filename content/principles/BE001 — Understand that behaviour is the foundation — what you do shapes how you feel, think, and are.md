@@ -18,11 +18,11 @@ In Jacobson and colleagues' dismantling study of cognitive therapy for depressio
 
 > "Despite excellent adherence to treatment protocols by the therapists, a clear bias favoring CT, and the competent performance of CT, there was no evidence that the complete treatment produced better outcomes, at either the termination of acute treatment or the 6-month follow-up, than either component treatment." (Jacobson, Dobson, Truax, Addis, Koerner, Gollan, Gortner and Prince, 1996, Journal of Consulting and Clinical Psychology 64(2), 295-304, [PubMed record](https://pubmed.ncbi.nlm.nih.gov/8871414/))
 
-The same study found that the behavioural component alone altered negative thinking and dysfunctional attributional styles as well as the full package did. What patients did changed what they thought. Depression lifted without any prior repair of inner states; activity scheduling carried the work.
+The same report states the second finding plainly: "both BA and AT treatments were just as effective as CT at altering negative thinking as well as dysfunctional attributional styles." Read carefully, these are absence-of-difference results. The complete treatment showed no detectable advantage, and the behavioural component matched the full package on the thinking measures. They do not show that action creates feeling or identity; they show action carried treatment weight without the cognitive machinery.
 
-**Plain words** You can wait to feel like a runner and then run, or run and let the feeling get dragged along behind. The lever works from the outside in: behaviour is the cheapest input to mood and identity there is. The Jacobson result is the clinical version of that: activity alone moved the thinking.
+**Plain words** The trial compared the full cognitive package with just the activity-scheduling part, and the full package was not detected to be better. That is the finding, and its limits matter. It licenses trying action when inner states are stuck. It does not promise the feeling will follow.
 
-*For example:* The person who "isn't a morning person" who starts walking at 7 a.m. anyway: three weeks in, the body starts waking at 6:50 without an alarm. The behaviour taught the identity.
+*For example:* a depressed patient who cannot yet question their thoughts can still be helped to schedule a walk and a phone call. In the Jacobson trial, some patients received exactly that much, and the study found no advantage for adding the cognitive work.
 
 ## Sources
 
@@ -42,4 +42,4 @@ The same study found that the behavioural component alone altered negative think
 
 ## Practice
 
-- Do not wait to feel motivated to act. Act first; the feeling follows.
+- Schedule action even when motivation is absent; in the Jacobson trial, behaviour-only treatment matched the full package on the outcome and thinking measures.

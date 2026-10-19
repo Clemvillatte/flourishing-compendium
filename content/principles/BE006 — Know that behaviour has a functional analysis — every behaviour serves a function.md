@@ -12,19 +12,19 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BE — Overt Be
 ---
 > **Principle 6** — Know that behaviour has a functional analysis: every behaviour serves a function
 
-Every behaviour, even the ones you would like to delete, is doing a job: avoidance soothes, procrastination protects, complaining bonds. The applied-behaviour-analysis tradition turns that observation into a method, and its founding statement defines what an analysis of behaviour is, verbatim:
+Before deciding why a behaviour persists, ask what evidence would support the explanation. Baer, Wolf and Risley describe what counts as an analysis of behaviour:
 
-> "The analysis of a behavior, as the term is used here, requires a believable demonstration of the events that can be responsible for the occurrence or non-occurrence of that behavior." (Baer, Wolf and Risley, 1968, Journal of Applied Behavior Analysis 1(1), 91-97, [article PDF](http://www.behaviorpedia.com/wp-content/uploads/2013/01/Baer-Wolf-Risley.pdf))
+> "The analysis of a behavior, as the term is used here, requires a believable demonstration of the events that can be responsible for the occurrence or non-occurrence of that behavior." (Baer, Wolf and Risley, 1968, Journal of Applied Behavior Analysis 1(1), 91-97, pp. 93-94, [article PDF](http://www.behaviorpedia.com/wp-content/uploads/2013/01/Baer-Wolf-Risley.pdf))
 
-Applied to your own conduct, that means treating a behaviour as data rather than as a character flaw: what reliably comes before it, what reliably follows it, what it gets you and what it gets you out of. Understanding the function of a behaviour is the key to changing it, because change then becomes a hiring decision rather than a war.
+Their discussion concerns demonstrating the events responsible for behaviour, including experimental control. The compendium's self-observation exercise below is a practical adaptation of that concern. It gathers evidence, but it does not establish what maintains a particular behaviour.
 
-**Plain words** Look at a behaviour you dislike and ask three questions: what happens right before it, what does it get me, and what does it get me out of? That is the whole of functional analysis. You cannot fire a behaviour without knowing what it is being paid to do, and once you know the job you can hire a replacement.
+**Plain words** Choose one recurring action you want to change. On several occasions, record what happened immediately before it and afterwards. Include occasions when it did not happen. Use the notes to propose an explanation, then ask what evidence would count against it. Keep that explanation provisional.
 
-*For example:* The doom-scroller at 10 p.m. is not undisciplined; they are tired and buying comfort. The fix that works is not shame but a better job for the 10 p.m. self to do.
+*For example:* Suppose scrolling repeatedly begins when a difficult email needs answering. Delaying the reply is one possible explanation to investigate. You could try drafting its first sentence and record whether you still turn to your phone. Do not assume that scrolling alone establishes fatigue or a need for comfort.
 
 ## Sources
 
-- [Baer, Wolf and Risley, "Some current dimensions of applied behavior analysis" (1968), Journal of Applied Behavior Analysis 1(1), 91-97](http://www.behaviorpedia.com/wp-content/uploads/2013/01/Baer-Wolf-Risley.pdf) — full text (OCR) quoted verbatim; definition of behavioral analysis
+- [Baer, Wolf and Risley, "Some current dimensions of applied behavior analysis" (1968), Journal of Applied Behavior Analysis 1(1), 91-97](http://www.behaviorpedia.com/wp-content/uploads/2013/01/Baer-Wolf-Risley.pdf) — full text (OCR) quoted verbatim, pp. 93-94; definition of behavioral analysis
 
 ## Psychology parallels
 
@@ -39,4 +39,4 @@ Applied to your own conduct, that means treating a behaviour as data rather than
 
 ## Practice
 
-- When you notice a behaviour you want to change, ask: "what function does this serve?" (What does it give me? What does it avoid?) Understanding the function allows you to find a replacement behaviour that serves the same function.
+- When you notice a behaviour you want to change, ask: "what function does this serve?" (What does it give me? What does it avoid?) If you try a replacement behaviour, record what changes rather than assuming it will work.

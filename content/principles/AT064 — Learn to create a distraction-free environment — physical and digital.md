@@ -16,7 +16,7 @@ The strongest empirical anchor for the digital half of this principle is the "br
 
 > "Results from two experiments indicate that even when people are successful at maintaining sustained attention—as when avoiding the temptation to check their phones—the mere presence of these devices reduces available cognitive capacity. Moreover, these cognitive costs are highest for those highest in smartphone dependence." (Ward, Duke, Gneezy and Bos, 2017, Journal of the Association for Consumer Research 2(2), 140-154, [UChicago journals record](https://www.journals.uchicago.edu/doi/10.1086/691462))
 
-Later work has not settled the matter: a meta-analysis pooled the effect near zero with intervals crossing zero, and registered replications of this specific study have failed. The practical design advice is cheap either way. If the effect is real, the phone in another room helps; if it is not, the other room costs nothing.
+Later work has not settled the matter. A 2023 meta-analysis pooled the effect at g = -0.14 with a confidence interval just excluding zero, and its authors write: "The present meta-analysis essentially confirms the Brain Drain effect" (Böttger, Poschik and Zierer, 2023). A direct replication of Ward and colleagues' study, however, found no effect of the phone's mere presence. The effect is small and contested.
 
 The physical half is the same design move at desk scale: one visible task, everything else in a drawer or another app, notifications off, a closed door.
 
@@ -27,7 +27,7 @@ The physical half is the same design move at desk scale: one visible task, every
 ## Sources
 
 - [Ward, Duke, Gneezy and Bos, "Brain Drain" (2017), Journal of the Association for Consumer Research 2(2), 140-154](https://www.journals.uchicago.edu/doi/10.1086/691462) — abstract quoted verbatim; smartphone presence and available cognitive capacity
-- ["Does the Brain Drain Effect Really Exist? A Meta-Analysis" (2023), PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10525686/) — pooled effects near zero with intervals crossing zero; cited for the replication caveat
+- ["Does the Brain Drain Effect Really Exist? A Meta-Analysis" (Böttger, Poschik and Zierer, 2023), PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10525686/) — pooled effect g = -0.14, CI -0.24 to -0.03; authors' conclusion quoted verbatim; also reports the Ruiz Pardo and Minda (2022) direct replication finding no presence effect
 
 ## Psychology parallels
 
