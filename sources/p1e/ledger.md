@@ -359,3 +359,10 @@ Advisor QC (2026-10-19): quotes verified (BQ1 ch. 22 sentence, BQ2 ch. 68 verse 
 - Plain words de-replicated (old one repeated "virtue isn't inborn" and "education as shaping character"); replaced with the craft reading and the schedule-the-acts instruction. Body's unsourced claims grounded in the opened II.1 passages.
 - Inherited, NOT opened: I.9/X.9 and Politics VIII.1 locators, Dweck/Leggett and Berkowitz/Bier parallels, Dewey parallels — flagged in state.
 - Validator: ok; protected fields untouched vs HEAD.
+
+## AT037 — Understand that attention needs recovery (done 2026-10-20 by worker-p1e-4f2c9b1d; no advisor QC per speed directive, item 12)
+
+- Opened: Kaplan 1995 abstract via the search engine's verbatim rendering of the ScienceDirect record (https://www.sciencedirect.com/science/article/abs/pii/0272494495900012). Direct fetch of ScienceDirect blocked (robots); Semantic Scholar API record has the abstract elided by the publisher; the search result returned the full abstract text, which the blockquote follows word-for-word. Verified verbatim: "Directed attention plays an important role in human information processing; its fatigue, in turn, has far-reaching consequences. Attention Restoration Theory provides an analysis of the kinds of experiences that lead to recovery from such fatigue. Natural environments turn out to be particularly rich in the characteristics necessary for restorative experiences." Sources_checked +1 (31 -> 32).
+- Plain words de-replicated (old one repeated the recovery-depletion claim with an em dash and the "isn't laziness" staging); replaced with the coach-plans-training procedure and the not-all-breaks-count caveat. Physical-effort analogy explicitly labelled as an analogy. The ART mixed-evidence caveat already in the psychology parallels is referenced in the body rather than hidden.
+- Inherited, NOT opened: Kaplan & Berman 2010, Ohly et al. 2016, McMahan & Estes 2015, Neiye/Sabbath/Delphic parallels — flagged in state.
+- Validator: ok; protected fields untouched vs HEAD.
