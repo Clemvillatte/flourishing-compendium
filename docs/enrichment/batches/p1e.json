@@ -49,9 +49,10 @@
   "A012",
   "A021",
   "A022",
-  "SP084"
+  "SP084",
+  "A025"
  ],
- "in_progress": "A025",
+ "in_progress": null,
  "flagged": {
   "D011": "inherited psychology claim (Kashdan & Rottenberg 2010 'outperforms on nearly every outcome') not verified against an opened source; preserved per protocol, flagged for supervisor",
   "D068": "inherited psychology-parallels claims (Gottman soft startup; assertiveness research 'aggression reliably loses long games') not verified against opened sources; flagged for supervisor",
@@ -87,11 +88,12 @@
   "SO006": "inherited psychology parallels (IOM 2009, Wahlbeck 2015, WHO 2022, Wandersman/Florin 2003) and Dewey/Whitehead parallels not opened; preserved",
   "SP084": "Reopened for QC: QC round 4: body arithmetic paragraph to be removed (duplication + unsupported 'whole of his own illustration'), V P25/P27 to standalone blockquotes",
   "A012": "inherited psychology parallels (Mischel, Duckworth, Bowen) and Epicurus/Dhammacakkappavattana parallels not opened; preserved",
-  "A021": "inherited psychology parallels (Tangney/Dearing, Haidt) and Woodruff reverence parallel not opened; preserved"
+  "A021": "inherited psychology parallels (Tangney/Dearing, Haidt) and Woodruff reverence parallel not opened; preserved",
+  "A025": "inherited MM I.25 locator, Tracy/Robins parallels and NE IX.8 parallel not opened; preserved"
  },
  "missing_concepts": [],
  "sources_checked": 25,
- "updated": "2026-10-19T14:41:28+00:00",
+ "updated": "2026-10-19T14:41:46+00:00",
  "band_done": false,
  "takeover": {
   "by": "genuineflourishing35",

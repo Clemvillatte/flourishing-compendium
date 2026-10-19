@@ -12,13 +12,23 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 25** — Practice proper pride (kaucha)
 
-Pride is the crown of the virtues: the awareness that you are worthy of great things. Aristotle distinguishes proper pride from vanity and from humility. The proud person is truthful about their worth. False humility is not virtue but a failure to acknowledge what you have earned.
+Pride for Aristotle is greatness of soul, and his definition runs, verbatim:
+
+> "The man is thought to be proud who thinks himself worthy of great things, being worthy of them; for he who does so beyond his deserts is a fool, but no virtuous man is foolish or silly." (NE IV.3, [Ross, MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html))
+
+The mean is calibrated against two failures. "The unduly humble man falls short both in comparison with his own merits and in comparison with the proud man's claims. The vain man goes to excess in comparison with his own merits" (NE IV.3). The vain overclaim, the unduly humble underclaim, and the proud person is simply accurate. Aristotle also gives the virtue a gathering role: "Pride, then, seems to be a sort of crown of the virtues; for it makes them greater, and it is not found without them." (NE IV.3)
+
+The practical bar is truthfulness about worth: claim what you have earned, no more and no less. On this account false modesty is not humility but the unduly-humble failure, underclaiming against your own merits.
 
 (NE IV.3; MM I.25.)
 
-**Plain words** Proper pride is knowing you're worthy of great things and saying so truthfully. Aristotle puts it between vanity and false humility. Playing small isn't a virtue, it's failing to acknowledge what you've actually earned.
+**Plain words** Pride here means being accurate about your own worth and willing to say it out loud. The calibration test: list what you actually built, led, carried or fixed, and make a claim that matches the list. Vanity claims more than the list supports; false modesty claims less. Neither is a virtue; accuracy is.
 
 *For example:* Telling an interviewer "I rebuilt that system from scratch" when you did is proper pride. Mumbling "oh, I just helped a bit" isn't.
+
+## Sources
+
+- [Aristotle, Nicomachean Ethics IV, Ross translation (MIT Classics)](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html) — IV.3, the definition of the proud man, the two failures, pride as crown of the virtues
 
 ## Practice kernels
 
