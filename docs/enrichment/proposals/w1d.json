@@ -119,6 +119,36 @@
    "into": "Metacognitive therapy (Wells)",
    "link": "Evidence-based treatments (CBT, ACT, DBT, EMDR, medication) have robust evidence",
    "why": "a further CBT-family therapy in the compendium"
+  },
+  {
+   "into": "Structural family systems theory",
+   "link": "Family systems theory",
+   "why": "the Bowen-line parent concept for Minuchin's structural version"
+  },
+  {
+   "into": "Attachment theory",
+   "link": "Family systems theory",
+   "why": "the developmental account of the bonds the family system is built on"
+  },
+  {
+   "into": "Authoritative parenting",
+   "link": "Family systems theory",
+   "why": "the parenting style the compendium pairs with the systems view"
+  },
+  {
+   "into": "Filial piety",
+   "link": "Family systems theory",
+   "why": "the Confucian family ethic as a comparison tradition"
+  },
+  {
+   "into": "Ubuntu",
+   "link": "Family systems theory",
+   "why": "personhood constituted in relation as a comparison from southern Africa"
+  },
+  {
+   "into": "The need to belong",
+   "link": "Family systems theory",
+   "why": "the motivational ground the family system answers"
   }
  ],
  "inline": []
