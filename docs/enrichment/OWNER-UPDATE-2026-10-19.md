@@ -92,11 +92,26 @@ Before publication or a done transition:
 Research should remain proportional. A few directly supporting sources are preferable to
 many loosely relevant citations; evidence quality takes precedence over throughput.
 
-## Supervisor re-verification (12:45 UTC, supervisor-193794fd)
+## Current repair outcome (supervisor-193794fd)
 
-An independent advisor checked the current BI012 and CO072 versions against the opened
-sources below. Both remain unaccepted despite the band state listing them as done.
-The p1d owner or takeover worker must reopen and repair them one at a time before new work.
+The supervisor took the stale p1d baton, reopened and repaired BI012 and CO072, and obtained
+independent advisor PASS on each revised file after opening the cited evidence again.
+Both pass structural validation against fa00df5; all metadata and original wikilink markup
+are conserved. The thyroid/motivation anecdote, clinical-priority rule, feeds/detraining
+story and general-endurance efficacy claims are gone. Unopened inherited empirical parallels
+were removed rather than silently certified. Practical suggestions are clearly normative
+or hypothetical. Source ledgers: `sources/p1d/BI012-supervisor-repair.md` and
+`sources/p1d/CO072-supervisor-repair.md`.
+
+Remaining limitation: CO072's protected title and old deliberate-practice link label overstate
+the opened evidence, so the body explicitly qualifies them. Clean renaming requires a metadata
+or conservation exception. Other pre-existing p1d flags remain for separate review.
+
+## Historical supervisor rejection (12:45 UTC, supervisor-193794fd)
+
+An independent advisor checked the then-current BI012 and CO072 versions against the opened
+sources below. Both were unaccepted despite the band state listing them as done.
+The rejection below was the basis for the repairs now completed above.
 
 - BI012: Carter's `in one word` correction is verified. Bode's abstract supports a modest
   association between hypothyroidism and clinical depression, not a diagnosis, a causal

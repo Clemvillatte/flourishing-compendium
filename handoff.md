@@ -20,19 +20,27 @@
   There is no need to leave workers waiting while priority work remains. Supervisor keeps
   at least three OPEN reserve bands and mints more with `enrich_manifest.py --type principle
   --priority --count 30`. Existing bands and queues were not reassigned.
-- REPAIRS FIRST: independent advisor rejects current BI012 and CO072. Their `done` markers
-  are not evidence acceptance. p1d owner/takeover worker must reopen and fix unsupported
-  clinical-priority advice, thyroid motivation anecdote, general-endurance inference and
-  social-media detraining story. See OWNER-UPDATE's "Supervisor re-verification" and TASKBOARD.
+- EVIDENCE REPAIRS COMPLETED: the supervisor claimed stale p1d, reopened BI012 and CO072,
+  repaired them, validated both against fa00df5, and obtained independent advisor PASS
+  on each revised file. Removed clinical-priority advice, the thyroid motivation anecdote,
+  general-endurance inference and social-media detraining story. All original wikilink
+  markup and metadata preserved. CO072's inherited title/overstrong link label remain
+  explicitly qualified; clean renaming needs a metadata exception. p1d is released for
+  continued work; remaining older flags in its state are NOT cleared by these two passes.
   D133 now says `his grasp`; full quotation not independently re-certified in this session.
 - PEIRCE REQUEST FULFILLED: the owner supplied The Essential Peirce volumes 1 and 2 in a
   new Drive folder. Both downloaded successfully; title/copyright pages and extractable text
   checked. See PRIMARY-SOURCES for public file URLs and reproducible access instructions.
   No duplicate purchase is needed. `docs/enrichment/BOOK-REQUESTS.md` records the fulfilled
   request and optional uploads of existing Ziporyn/Roth/Dewey/James holdings.
-- NEXT SUPERVISOR ACTIONS: push shared-rule/reserve updates; pull and validate newly done
-  content against an explicit baseline, sample sources, track p1d repair acknowledgment,
-  then review protected pending proposals. Do not silently integrate unreviewed recovery.
+- NEXT SUPERVISOR ACTIONS: pull and validate newly done content against an explicit
+  baseline, source-sample current rewrites, then review protected pending proposals.
+  The previous pass structurally validated all 25 changed content files at that checkpoint
+  against d529ebe; that was not blanket source certification. B053's two Nyanaponika
+  quotations were checked against the opened source. P157's quoted ACT definitions match
+  the APA PDF, but its hanging 2011 citation differs from the 2012 article's author list;
+  request a narrow citation cleanup from live p1e, not a rewrite.
+  Do not silently integrate unreviewed recovery or clear inherited flags wholesale.
 
 ## Standing owner decisions
 

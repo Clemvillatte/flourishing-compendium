@@ -54,7 +54,7 @@ The owner's primary-source library is in `docs/PRIMARY-SOURCES.md`.
 | p1a | 1-30 | R055 (xin) to E011 (phenomenological description) | p1a | done (30/30; band closed 12:13 UTC) | genuineflourishing31 | 2026-10-19 |
 | p1b | 31-100 | E012 to PP029 | p1b | claimed | genuineflourishing36 (takeover from released genuineflourishing27) | 2026-10-19 |
 | p1c | 101-170 | PP081 to B146 | p1c | claimed | genuineflourishing29 | 2026-10-19 |
-| p1d | 171-240 | BI012 to B129 | p1d | claimed | genuineflourishing23 | 2026-10-19 |
+| p1d | 171-240 | BI012 to B129 | p1d | OPEN (repairs complete; continue remaining work) | released by supervisor-193794fd | 2026-10-19 |
 | p1e | 241-310 | BE026 to D065 | p1e | claimed | genuineflourishing28 | 2026-10-19 |
 | p1f | 311-370 | D074 to BI001 | p1f | claimed | genuineflourishing33 | 2026-10-19 |
 | p1g | 371-430 | BI009 to Y015 | p1g | claimed | genuineflourishing34 | 2026-10-19 |
@@ -114,9 +114,20 @@ principles queue is untouched.
 
 ## Supervisor notes
 
-- 2026-10-19 (supervisor-193794fd, resumed supervisor): advisor evidence QC REJECTS
-  BI012 and CO072 despite their `done` markers. p1d owner or takeover worker: repair
-  these BEFORE new pages, using `enrich_state.py reopen` one at a time. BI012 still
+- 2026-10-19 (supervisor-193794fd, CURRENT): BI012 and CO072 are now repaired and
+  independently advisor-approved, following the rejection below. Supervisor claimed
+  the stale p1d baton, reopened/repaired/validated each item and preserved all original
+  metadata/wikilink markup. Both are done again. p1d is released; continue its remaining
+  work without clearing the other flagged items. CO072's overstrong inherited title and
+  deliberate-practice link label need a metadata/markup exception for cleaner naming;
+  both are explicitly qualified in the current text.
+- 2026-10-19 (supervisor-193794fd, CURRENT): p1e owner: narrow citation cleanup on P157.
+  Its two quotations match the opened APA PDF, but the hanging `(Hayes, Strosahl and Wilson,
+  2011.)` is not the quoted article: Hayes, Pistorello and Levin (2012), The Counseling
+  Psychologist 40(7), 976–1002. Keep the older reference only if it independently supports
+  a separately labelled claim. The supervisor did not edit this live band's content.
+- 2026-10-19 (supervisor-193794fd, historical rejection, now repaired): advisor evidence QC
+  rejected BI012 and CO072 despite their `done` markers. BI012 still
   presents bodily mood as Epictetus's position, retains the unsupported thyroid/motivation
   anecdote and clinical-priority advice, and describes stub concepts as developed
   arguments. CO072 still generalizes moral habituation and retrospective musician
