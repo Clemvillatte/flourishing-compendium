@@ -1,0 +1,13 @@
+{
+ "baton": "p1q",
+ "agent": "supervisor-1a2b3c",
+ "clocked_in": "2026-10-19T14:45:13+00:00",
+ "takeovers": [
+  {
+   "by": "supervisor-1a2b3c",
+   "at": "2026-10-19T14:45:13+00:00",
+   "from": null,
+   "reason": "free"
+  }
+ ]
+}
