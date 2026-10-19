@@ -52,7 +52,8 @@
   "MO054",
   "A108",
   "AT050",
-  "S010"
+  "S010",
+  "A038"
  ],
  "in_progress": null,
  "flagged": {
@@ -71,6 +72,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 18,
- "updated": "2026-10-19T13:50:23+00:00",
+ "updated": "2026-10-19T13:50:53+00:00",
  "band_done": false
 }

@@ -12,13 +12,26 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 38** — Cultivate practical judgment (gnome)
 
-Gnome is the capacity to reach correct judgments in particular cases, especially where general rules do not apply. It is related to synesis but concerns not only understanding what follows from what, but what is fitting and equitable. Practise the art of equitable judgment.
+Gnome is the capacity to reach correct judgments in particular cases, especially where general rules do not apply. It is related to synesis, and goes past understanding what follows from what to what is fitting and equitable. Practise the art of equitable judgment.
 
 (NE VI.11.)
+
+### What gnome is
+
+Rackham renders gnome as "Consideration," and Aristotle defines it as "the faculty of judging correctly what is equitable" ([NE VI.11, 1143a, Rackham trans.](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abekker+page%3D1143a)). It sits with synesis and nous among the faculties that "deal with ultimate and particular things" (1143a): the last, concrete particulars of a situation, past the point where general rules reach.
+
+### Why experience is the teacher
+
+Aristotle notes that these faculties come with age and use: "the unproved assertions and opinions of experienced and elderly people, or of prudent men, are as much deserving of attention as those which they support by proof; for experience has given them an eye for things, and so they see correctly" ([1143b](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abekker+page%3D1143b)). Gnome is built by cases; the teacher's extension, granted against policy, is the sort of case that builds it.
 
 **Plain words** Gnome is judging a particular case fairly, especially when the rules don't quite fit. It goes past "what follows from what" to "what's decent here?" You build it by weighing real situations, one at a time, and asking what fairness asks.
 
 *For example:* A teacher gives an extension to a student whose parent was in hospital, though the policy says no. She can explain why it's fair to the rest of the class.
+
+## Sources
+
+- [Aristotle, Nicomachean Ethics VI.11, 1143a (H. Rackham trans., Perseus)](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abekker+page%3D1143a) — gnome as judging correctly what is equitable; ultimates and particulars
+- [Aristotle, Nicomachean Ethics VI.11, 1143b (H. Rackham trans., Perseus)](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abekker+page%3D1143b) — experience gives elders an eye for things
 
 ## Stories
 
