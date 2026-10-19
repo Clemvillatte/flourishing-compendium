@@ -14,9 +14,17 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BI — Biophysi
 
 Interoception — the perception of internal bodily signals (heart rate, breath, gut, muscle tone) — is the foundation of emotional awareness. Poor interoception is associated with alexithymia and poorer emotion regulation. It is trainable.
 
-**Plain words** Interoception is trainable — you can learn to feel your own heart, breath, gut, tension more clearly. Better signal, better emotional awareness. The reps are just noticing, daily.
+> Its function in the re-representation of interoception offers one possible basis for its involvement in all subjective feelings. (Craig, 2009, [PubMed](https://pubmed.ncbi.nlm.nih.gov/19096369/))
 
-*For example:* The two-week practice of counting heartbeats without taking a pulse — accuracy improves, and with it, the early warning system for emotions. You can't steer what you can't feel.
+**Plain words**
+Interoception is trainable: you can learn to feel your own heart, breath, gut, tension more clearly. Better signal, better emotional awareness. The reps are just noticing, daily.
+
+**For example**
+The two-week practice of counting heartbeats without taking a pulse — accuracy improves, and with it, the early warning system for emotions. You can't steer what you can't feel.
+
+## Sources
+
+- [Craig, A. D. (2009), How do you feel--now? The anterior insula and human awareness, PubMed](https://pubmed.ncbi.nlm.nih.gov/19096369/) — abstract verified verbatim
 ## Psychology parallels
 
 - **[[Interoception|Interoception and emotion (Craig, Barrett)]]**, interoceptive accuracy correlates with emotional awareness and regulation (Craig, 2009; Barrett et al., 2019)

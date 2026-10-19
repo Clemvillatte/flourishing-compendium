@@ -96,3 +96,11 @@ Advisor QC (2026-10-19): quotes verified (BQ1 ch. 22 sentence, BQ2 ch. 68 verse 
 - Inherited, NOT opened: Foa et al. 2007 and Craske et al. 2008 references in psychology parallels — flagged in the band state file. Craske et al. 2014 now verified.
 - Saturation: all five linked concepts (Exposure therapy (Foa, Craske), Inhibitory learning model (Craske), Courage, Facing the monster, Amor fati) cite BE026; no justified new proposals.
 - Validator: ok, prose 107 words; protected fields untouched; label format fixed (Plain words / For example on own lines).
+
+## BI053 — Cultivate interoceptive awareness (done; no advisor QC per speed directive, item 12)
+
+- Opened: PubMed page for Craig, A. D. (2009), "How do you feel--now? The anterior insula and human awareness", Nat Rev Neurosci 10(1):59-70, PMID 19096369 — abstract verified verbatim. NEW SOURCE (PubMed); source count incremented.
+- Verified verbatim: "Its function in the re-representation of interoception offers one possible basis for its involvement in all subjective feelings." (blockquote).
+- Inherited, NOT opened: Barrett et al. 2019, Khalsa et al. 2018, Tang et al. 2015 — flagged in the band state file. Craig 2009 now verified.
+- Saturation: Mindfulness and The lived body cite BI053; Interoception and Yangsheng do not — two reciprocal proposals added.
+- Validator: ok after dash-budget fix (4 -> 3); prose 91 words; protected fields untouched; labels on own lines.
