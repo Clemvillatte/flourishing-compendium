@@ -428,3 +428,10 @@ Advisor QC (2026-10-19): quotes verified (BQ1 ch. 22 sentence, BQ2 ch. 68 verse 
 - Key correction: the original principle stated the skill unconditionally ("do the opposite of what the emotion urges"); the manual makes it conditional on the emotion not fitting the facts. Body, plain words, and practice now carry the fits-the-facts check. "The action rewrote the scene" drama removed from example.
 - Inherited, NOT opened: Linehan 1993, Rizvi & Linehan 2005, Aristotle NE II, Buddhism, Kant parallels — flagged in state.
 - Validator: ok; protected fields untouched vs HEAD.
+
+## BE036 — Learn to build tolerance for discomfort (done 2026-10-20 by worker-p1e-4f2c9b1d, item 19)
+
+- Opened: Aristotle NE Book III (Ross translation, MIT Classics, https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html) — local copy /tmp/ne3-iii.html from earlier in session; quote re-verified against it this item. Verified verbatim: "Though courage is concerned with feelings of confidence and of fear, it is not concerned with both alike, but more with the things that inspire fear; for he who is undisturbed in face of these and bears himself as he should towards these is more truly brave than the man who does so towards the things that inspire confidence." (III.9, 1117a). Sources_checked +1 (37 -> 38).
+- Body now grounds the principle in the courage passage; compendium application (extending beyond fear to fatigue/shame/discomfort) explicitly labelled as the compendium's. "Passenger, not the driver" metaphor removed from plain words; example and plain-words em dashes removed.
+- Inherited, NOT opened: Linehan 1993, Leyro et al. 2010, Hayes et al. 2011, Buddhism, Nietzsche parallels — flagged in state. (Hayes ACT PDF was opened in a previous session for P157 but not re-opened for this item's claims.)
+- Validator: ok; protected fields untouched vs HEAD.
