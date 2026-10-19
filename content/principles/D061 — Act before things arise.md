@@ -16,7 +16,7 @@ Daodejing 64 opens with the case for early action:
 
 > "Action should be taken before a thing has made its appearance; order should be secured before disorder has begun." (Daodejing 64, [Legge](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 
-The reasoning comes just before it: "That which is at rest is easily kept hold of; before a thing has given indications of its presence, it is easy to take measures against it." The chapter's images run the same direction: "The tree which fills the arms grew from the tiniest sprout; the tower of nine storeys rose from a (small) heap of earth", and a journey of a thousand li began with a single step. It also names the failure mode at the other end: "people in their conduct of affairs are constantly ruining them when they are on the eve of success. If they were careful at the end, as (they should be) at the beginning, they would not so ruin them."
+The reasoning comes just before it: "That which is at rest is easily kept hold of; before a thing has given indications of its presence, it is easy to take measures against it." The chapter's images run the same direction: "The tree which fills the arms grew from the tiniest sprout; the tower of nine storeys rose from a (small) heap of earth", and a road of a thousand li began under the walker's feet with a single step. It also names the failure mode at the other end: "people in their conduct of affairs are constantly ruining them when they are on the eve of success. If they were careful at the end, as (they should be) at the beginning, they would not so ruin them."
 
 (DDJ 64.)
 
