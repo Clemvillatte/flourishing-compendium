@@ -6,13 +6,14 @@
   "Forgiveness",
   "Perspective-getting",
   "Ren",
-  "Right concentration"
+  "Right concentration",
+  "Right mindfulness"
  ],
  "flagged": {
   "Perspective-getting": "seed cites 'Epley et al., 2007' for 'asking beats perspective-taking'; no such perspective-getting paper could be found (canonical: Epley et al. 2004 anchoring; Eyal, Steffel & Epley 2018 JPSP 114(4):547-571 'Perspective mistaking'). Original line kept, prose cites the verified papers."
  },
  "missing_concepts": [],
- "sources_checked": 19,
+ "sources_checked": 21,
  "inline": [],
  "reciprocal": [
   {
@@ -249,6 +250,51 @@
    "target": "content/concepts/Cognitive defusion.md",
    "concept": "Right concentration",
    "why": "watching thoughts without following them, the clinical cousin"
+  },
+  {
+   "target": "content/concepts/Sati.md",
+   "concept": "Right mindfulness",
+   "why": "the path-factor face of sati"
+  },
+  {
+   "target": "content/concepts/Right concentration.md",
+   "concept": "Right mindfulness",
+   "why": "the sibling factor that keeps concentration honest"
+  },
+  {
+   "target": "content/concepts/Right view.md",
+   "concept": "Right mindfulness",
+   "why": "gives mindfulness something true to observe"
+  },
+  {
+   "target": "content/concepts/Mindfulness.md",
+   "concept": "Right mindfulness",
+   "why": "the secular practice built from this teaching"
+  },
+  {
+   "target": "content/concepts/Meta-awareness.md",
+   "concept": "Right mindfulness",
+   "why": "the observing half of sati"
+  },
+  {
+   "target": "content/concepts/Decentering.md",
+   "concept": "Right mindfulness",
+   "why": "watching thoughts as events, the measured mechanism"
+  },
+  {
+   "target": "content/concepts/Cognitive defusion.md",
+   "concept": "Right mindfulness",
+   "why": "unhooking from thought content"
+  },
+  {
+   "target": "content/concepts/Acceptance.md",
+   "concept": "Right mindfulness",
+   "why": "the refrain's warmth: letting experience be"
+  },
+  {
+   "target": "content/concepts/Beginner's mind.md",
+   "concept": "Right mindfulness",
+   "why": "the freshness of unproving attention"
   }
  ],
  "notes": "continues after lead applied the first proposals file (moved to applied/)"
