@@ -4,11 +4,12 @@
   "Ubuntu",
   "Freedom",
   "Virtue",
-  "Attention"
+  "Attention",
+  "Care"
  ],
- "in_progress": "Care",
+ "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 5,
- "updated": "2026-10-19T07:21:39+00:00"
+ "updated": "2026-10-19T07:22:32+00:00"
 }

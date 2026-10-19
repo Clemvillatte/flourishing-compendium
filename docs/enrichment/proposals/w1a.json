@@ -4,7 +4,8 @@
   "Ubuntu",
   "Freedom",
   "Virtue",
-  "Attention"
+  "Attention",
+  "Care"
  ],
  "flagged": {},
  "missing_concepts": [],
@@ -69,8 +70,43 @@
    "into": "Deliberate practice",
    "link": "Attention",
    "why": "attention aimed at improvement"
+  },
+  {
+   "into": "Care ethics",
+   "link": "Care",
+   "why": "the theory that grew from Noddings's analysis of care"
+  },
+  {
+   "into": "Compassion",
+   "link": "Care",
+   "why": "being moved by suffering: care's affective engine"
+  },
+  {
+   "into": "Metta (loving-kindness)",
+   "link": "Care",
+   "why": "the Buddhist training of wishing well"
+  },
+  {
+   "into": "The relational self",
+   "link": "Care",
+   "why": "the self care presupposes: made in relation"
+  },
+  {
+   "into": "I and Thou",
+   "link": "Care",
+   "why": "receiving the other as they are, per Buber"
+  },
+  {
+   "into": "Whanaungatanga",
+   "link": "Care",
+   "why": "kinship belonging as an ethic of care"
+  },
+  {
+   "into": "Altruism theory Batson empathy",
+   "link": "Care",
+   "why": "the empathy-altruism hypothesis: care's motivational science"
   }
  ],
  "inline": [],
- "notes": "Schema fixed 2026-10-19 to match enrich_apply.py (into/link/concept keys, entry ids). Ubuntu: 22 inline (mention pass complete, --max 100), 12 reciprocals. Rejected inline: ST228 (already externally linked), Relational ontology (mention sits inside a Ramose book title). Deferred: layers/books/reference pages. Freedom: mention pass complete; plain-text 'freedom' occurrences are mostly incidental, no inline proposals (deliberate). 10 reciprocals. Virtue: 4 curated inline proposals with exact phrases (bare 'virtue' is a substring of 'virtuous' and would mangle text); A-track principles use virtue genuinely but need phrase-safe matches. 9 reciprocals. All 15 Ubuntu + 15 Freedom original links preserved. | deferred at this run (target band busy): 4 recip, 0 inline | Attention: James ch.11 definition + 'my experience is what I agree to attend to', Weil Bousquet letter 1942, Simon 1971 pp.40-41, Simons & Chabris 1999 (pubmed) all verified. Mention pass: plain-text 'attention' in principles is overwhelmingly incidental/technical use, no inline proposals (deliberate). Related list 9; Sati already mutual. All 15 Cited-in links preserved (restructured into a practice list under 'In the compendium')."
+ "notes": "Schema fixed 2026-10-19 to match enrich_apply.py (into/link/concept keys, entry ids). Ubuntu: 22 inline (mention pass complete, --max 100), 12 reciprocals. Rejected inline: ST228 (already externally linked), Relational ontology (mention sits inside a Ramose book title). Deferred: layers/books/reference pages. Freedom: mention pass complete; plain-text 'freedom' occurrences are mostly incidental, no inline proposals (deliberate). 10 reciprocals. Virtue: 4 curated inline proposals with exact phrases (bare 'virtue' is a substring of 'virtuous' and would mangle text); A-track principles use virtue genuinely but need phrase-safe matches. 9 reciprocals. All 15 Ubuntu + 15 Freedom original links preserved. | deferred at this run (target band busy): 4 recip, 0 inline | Attention: James ch.11 definition + 'my experience is what I agree to attend to', Weil Bousquet letter 1942, Simon 1971 pp.40-41, Simons & Chabris 1999 (pubmed) all verified. Mention pass: plain-text 'attention' in principles is overwhelmingly incidental/technical use, no inline proposals (deliberate). Related list 9; Sati already mutual. All 15 Cited-in links preserved (restructured into a practice list under 'In the compendium'). | Care: Noddings engrossment/motivational displacement (UVM PDF in her own words), Heidegger Sorge §41 (beyng translation), IEP care ethics all verified. Mention pass: plain-text 'care' is mostly incidental (careful, self-care, caretaker), no inline proposals (deliberate). Related list 8; Ubuntu already mutual. Seed reading list carried into Sources."
 }
