@@ -12,15 +12,28 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 47** — Understand fear's function: it prepares you for threat
 
-Fear is not a malfunction; it is a rapid threat-detection and mobilisation system. The problem is not fear itself but fear that is (a) disproportionate to the actual threat, (b) activated by cues that are not actually threatening, or (c) maintained by avoidance.
+LeDoux's 2012 paper proposes a "re-conceptualization of key phenomena" in emotion, centred on "survival circuits". He writes that "threat detection involves processing of innate and learned threats by the nervous system via transmission of information about the threat through sensory systems to specialized defense circuits." When a survival circuit is active, "specific kinds of responses rise in priority, other activities are inhibited, the brain and body are aroused, attention is focused on relevant environmental and internal stimuli, motivational systems are engaged, learning occurs and memories are formed" ([LeDoux, 2012](https://pmc.ncbi.nlm.nih.gov/articles/PMC3625946/)).
 
-**Plain words** Fear is not a malfunction — it's a rapid threat-detection and mobilisation system. The problems are fear that's disproportionate, fear triggered by harmless cues, or fear that won't discharge. Respect the system; debug the calibration.
+### Circuit and feeling
 
-*For example:* The startle at the loud noise — healthy, done in a second — versus the flinch at every email chime, the heart that never stands down. Same system, one calibrated and one stuck. The stuck one needs retraining, not criticism.
+LeDoux separates the circuit from the felt fear: "Survival circuits are not posited to have any direct relation (causal role) in feelings." Their "function is to negotiate behavioral interactions in situations in which challenges and opportunities exist, not to create feelings." In his proposal, the feeling arises when consciousness "detects that a survival circuit is active" and "appraises and labels this state."
+
+### When it goes wrong
+
+Craske and colleagues describe what happens to learned fear. In the inhibitory learning model, "the original CS-US association learned during fear conditioning is not erased during extinction, but rather is left intact as new, secondary inhibitory learning about the CS-US develops." Exposure therapy is "an effective approach for treating anxiety disorders, although a substantial number of individuals fail to benefit or experience a return of fear after treatment" ([Craske et al., 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4114726/)).
+
+### Scope
+
+The three failure modes (disproportionate, triggered by harmless cues, maintained by avoidance) are the compendium's classification. These sources support the function of fear and the persistence of learned fear, not that list.
+
+**Plain words** Fear is the body's threat-detection and readiness system, not a fault. It becomes a problem when it is learned wrongly or gets stuck. Because the old fear learning is not erased, change comes from new learning on top of it, which can slip back.
+
+*For example:* Imagine a startle at a loud noise, which is over in seconds. Compare it with a flinch at every email chime and a heart that never settles. In the second, fear may be linked to a cue that no longer needs it.
+
 ## Psychology parallels
 
 - **Fear conditioning and extinction**, fear responses are learned and can be unlearned through extinction learning (Craske et al., 2014)
-- **Exposure therapy is the gold standard for fear-based disorders**, systematic exposure to feared cues with prevention of avoidance reduces fear over time (Foa et al., 2007)
+- **Exposure therapy works for many but not all with anxiety disorders** (Craske et al., 2014)
 
 ## Philosophy parallels
 
