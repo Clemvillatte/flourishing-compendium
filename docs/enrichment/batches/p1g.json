@@ -5,7 +5,8 @@
   "D162",
   "D041",
   "D048",
-  "D035"
+  "D035",
+  "D004"
  ],
  "in_progress": null,
  "flagged": {
@@ -13,6 +14,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 1,
- "updated": "2026-10-19T12:22:41+00:00",
+ "updated": "2026-10-19T12:23:48+00:00",
  "band_done": false
 }

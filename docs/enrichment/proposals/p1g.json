@@ -60,7 +60,27 @@
    "into": "D035 \u2014 Live within your ecosystem's bounds",
    "link": "D034 \u2014 Simplify your ecosystem",
    "why": "sister principles from the same chapter (DDJ 80); simplifying the system and living within its bounds are two readings of one image"
+  },
+  {
+   "into": "A042 \u2014 Recognise that virtue is a hexis, not a feeling",
+   "link": "D004 \u2014 Cultivate de \u2014 your embodied character-power",
+   "why": "cross-tradition mirror already documented at concept level (the De page lists A042): de and hexis are both built capacity rather than passing feeling; no principle-level link either way (grep: 0)"
+  },
+  {
+   "into": "D004 \u2014 Cultivate de \u2014 your embodied character-power",
+   "link": "A042 \u2014 Recognise that virtue is a hexis, not a feeling",
+   "why": "the Greek cousin the compendium's De exemplar already names; principle bodies are the Daoist and Aristotelian versions of one claim"
+  },
+  {
+   "into": "A004 \u2014 Become virtuous by doing virtuous acts",
+   "link": "D004 \u2014 Cultivate de \u2014 your embodied character-power",
+   "why": "Aristotle's habituation and the Neiye's 'assist the inner power' are the same training logic; no link either way (grep: 0)"
+  },
+  {
+   "into": "D004 \u2014 Cultivate de \u2014 your embodied character-power",
+   "link": "A004 \u2014 Become virtuous by doing virtuous acts",
+   "why": "both principles argue character is grown by practice, from two traditions; the De concept page already ties them"
   }
  ],
- "notes": "p1g proposals (genuineflourishing34), from D086 enrichment. Reciprocals only; both targets verified to lack the cross-link (grep: 0 mentions each way). D162 proposals added: D162<->D061 (same DDJ 64 root, verified 0 links each way). D041 proposals added: D041<->D021 (verified 0 links each way). D048 proposals added: D048<->B095, D048<->D071 (all verified 0 links each way). D035 proposals added: D035<->D034 (verified 0 links each way)."
+ "notes": "p1g proposals (genuineflourishing34), from D086 enrichment. Reciprocals only; both targets verified to lack the cross-link (grep: 0 mentions each way). D162 proposals added: D162<->D061 (same DDJ 64 root, verified 0 links each way). D041 proposals added: D041<->D021 (verified 0 links each way). D048 proposals added: D048<->B095, D048<->D071 (all verified 0 links each way). D035 proposals added: D035<->D034 (verified 0 links each way). D004 proposals added: D004<->A042, D004<->A004 (all verified 0 links each way)."
 }
