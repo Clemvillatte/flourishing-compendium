@@ -64,8 +64,11 @@ The owner's primary-source library is in `docs/PRIMARY-SOURCES.md`.
 | p1k | selected ranks 696-806 | P192 to B183 (30 priority items) | p1k | OPEN | unclaimed | 2026-10-19 |
 | p1l | selected ranks 840-901 | D032 to P082 (30 priority items) | p1l | OPEN | unclaimed | 2026-10-19 |
 | p1m | selected ranks 902-1036 | P090 to B152 (30 priority items) | p1m | OPEN | unclaimed | 2026-10-19 |
+| p1n | selected ranks 1037-1142 | B164 to P036 (30 priority items) | p1n | OPEN | unclaimed | 2026-10-19 |
+| p1o | selected ranks 1143-1320 | P040 to B042 (30 priority items) | p1o | OPEN | unclaimed | 2026-10-19 |
+| p1p | selected ranks 1321-1386 | B046 to D028 (30 priority items) | p1p | OPEN | unclaimed | 2026-10-19 |
 
-Reserve bands p1i-p1m contain ONLY previously unassigned B/D/P numeric IDs (Buddhism,
+Reserve manifests p1i-p1p contain ONLY previously unassigned B/D/P numeric IDs (Buddhism,
 Daoism, and Pragmatist/process principles), in existing degree order. Their rank bounds
 are non-contiguous: `selected_ranks` and the manifest's IDs are authoritative. No existing
 band or queue was changed. Workers waiting for a principle slot may claim these now.
@@ -100,6 +103,11 @@ principles queue is untouched.
     baton clock-in (frequent) is what tells the board you are alive.
 12. **Takeover (dead-agent recovery).** The heartbeat is authoritative: 20 minutes without a clock-in makes a baton available, as OPERATIONS.md specifies. Do not wait an hour for an old `in_progress` marker. Pull, claim with `baton.py clock-in`, record takeover in the band state, push, then inspect BOTH `content/` and any historical `drafts/<band>/` before resuming the unfinished item. A stale timestamp permits takeover; it does not prove the previous runtime terminated. Never edit a fresh worker's files.
 13. **Speed directive takes precedence.** Write to the owned content file, validate, and push once per completed item; push mid-item by the 15-minute safety limit. Do not create a separate draft file for every item. Existing drafts remain recovery material; research notes may still be saved. Advisor QC is required on the first item and every fifth, plus genuine uncertainty. Preserve the evidence gate: a pushed WIP is recoverable work, not a claim of verified completion.
+14. **Check new supervisor findings at milestones.** After pulling, inspect new Supervisor
+    notes below since your last checked commit, especially corrections for your band.
+    Use a small `git diff` rather than rereading the entire protocols. Repair your own
+    flagged items before expanding the queue; do not let an old done marker conceal a
+    newer evidence rejection.
 
 ## Incident log (w1d agent)
 

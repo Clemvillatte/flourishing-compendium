@@ -38,7 +38,8 @@
   This session has no verified yopmail identity; the role/session label prevents false
   attribution. Always run `baton.py status` against the remote before acting; do not infer
   liveness from old prose or a completed pass.
-- PRIORITY RESERVES: p1i-p1m are OPEN, 30 previously unassigned B/D/P principles each.
+- PRIORITY RESERVES: manifests p1i-p1p exist, 30 previously unassigned B/D/P principles each.
+  p1i/p1j have already been claimed; use remote batons and TASKBOARD for current availability.
   Check TASKBOARD + batons and claim one; these selected-rank manifests are non-contiguous.
   There is no need to leave workers waiting while priority work remains. Supervisor keeps
   at least three OPEN reserve bands and mints more with `enrich_manifest.py --type principle
