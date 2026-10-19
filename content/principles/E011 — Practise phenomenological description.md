@@ -12,13 +12,23 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 403** — Practise phenomenological description
 
-Describe your experience as it is given, before theorising about it. Do not explain, interpret, or reduce. Describe. Let the phenomenon show itself from itself. This is the principle of the "to the things themselves" (zu den Sachen selbst).
+The method's watchword comes from Husserl, "to the things themselves" (zu den Sachen selbst), and Heidegger gives it its working definition in Being and Time §7.
+
+> Thus "phenomenology" means ἀποϕαίνεσΘαι τὲ ϕαινóμενα — to let that which shows itself be seen from itself in the very way in which it shows itself from itself. This is the formal meaning of that branch of research which calls itself "phenomenology". But here we are expressing nothing else than the maxim formulated above: 'To the things themselves!' (Heidegger, Being and Time §7C, Macquarrie & Robinson trans., [full-text reproduction](https://dhspriory.org/kenny/PhilTexts/Heidegger/BeingTime01.doc))
+
+Description in this sense is a discipline: report what shows itself before explaining it. Explanations can be argued with; descriptions can be checked against what actually appeared. That is why the practice asks for description first, interpretation later.
 
 (Husserl, 1900-1901/2001, Logical Investigations, "Prolegomena"; Heidegger, 1927/2008, Being and Time, §7.)
 
-**Plain words** Describe your experience as it's given, before theorising about it. Don't explain, interpret, or reduce — describe. Let the phenomenon show itself from itself. "To the things themselves."
+**Plain words**
+When you argue, you build a theory about what happened and why. A description just reports what showed up: what was said, what you felt, what happened next. Theories can be wrong in a hundred ways; a careful description can only be accurate or sloppy. Start with the description, and the theorising has something to answer to.
 
-*For example:* In the argument, one person explains ("you always do this because your mother—") and the other describes ("I noticed I felt warm when the plans changed") — only one of those sentences can be checked against reality. The phenomenologist bets on description.
+*For example:* In the argument, one person explains ("you always do this because of your mother") and the other describes ("I noticed I felt warm when the plans changed"). The explanation starts a fight about the past; the description gives both people something checkable to look at.
+
+## Sources
+
+- [Heidegger, Being and Time (1927), Macquarrie & Robinson translation, §7C, full-text reproduction, Dominican House of Studies](https://dhspriory.org/kenny/PhilTexts/Heidegger/BeingTime01.doc) — the definition of phenomenology and the "To the things themselves" maxim
+
 ## Stories
 
 - [[ST031 — Zhuangzi Drums on a Basin|31. Zhuangzi Drums on a Basin]]
