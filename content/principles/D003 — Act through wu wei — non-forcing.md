@@ -33,7 +33,7 @@ The Daodejing's formula is not inaction but non-forcing. Chapter 37 gives it in 
 ## Psychology parallels
 
 - **[[Flow|Flow]]**, autotelic absorption with challenge-skill balance (Csikszentmihalyi, 1990)
-- **[[Flow|Flow neuroimaging]]** (2025-2026 reviews), meta-analyses link flow to down-regulation of default-mode-network regions and reduced self-referential processing
+- **[[Flow|Flow neuroimaging]]** (Barnett & Vasiu, 2026 systematic review of nine studies), some flow studies report reduced activity in core default-mode-network regions, interpreted as reduced self-referential processing; samples were small and the tasks short and artificial. [Review](https://www.frontiersin.org/journals/behavioral-neuroscience/articles/10.3389/fnbeh.2025.1690499/full)
 - **[[Effortless attention|Effortless attention]]** (Bruya, 2010)
 
 ## Philosophy parallels
