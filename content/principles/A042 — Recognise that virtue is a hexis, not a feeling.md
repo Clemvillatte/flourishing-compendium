@@ -10,15 +10,20 @@ number: "42"
 navigation: {"track": "philosophy", "primaryPath": ["NAV-PHILOSOPHY", "NAV-PHIL-ARIS"], "alternatePaths": []}
 legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristotelian Virtue Ethics and Practical Wisdom", "chapter": "A-S03 — Layer III - Intellectual Virtues", "parent": ""}
 ---
+
 > **Principle 42** — Recognise that virtue is a hexis, not a feeling
 
-Virtue is a settled disposition (hexis), not a temporary state (pathos). You are not generous because you feel generous once; you are generous because generosity has become part of who you are. Invest in building dispositions, not in chasing feelings.
+Aristotle's argument runs by elimination. A state of the soul is either an emotion, a capacity, or a disposition. He then rules out emotions (we are not praised or blamed for feeling them, only for being a certain way in respect of them) and capacities (we are not called good or bad merely by having the capacity for emotion). What remains is the disposition, the formed state of character ([NE II.5, Rackham, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=2)).
+
+> If then the virtues are neither emotions nor capacities, it remains that they are dispositions. Thus we have stated what virtue is generically.
+>
+> — Nicomachean Ethics II.5 ([Rackham, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=2))
+
+**Plain words** The compendium's application of this principle asks the reader to treat their good qualities as something that gets settled through repetition, not as something that shows up only on a good day. Aristotle's own framing runs against both the feeling and the mere capacity; what makes a person generous, on his account, is the disposition they have actually formed.
+
+For example (imagined): tipping well only when you are in a good mood is not generosity. Doing it as a standing habit is.
 
 (NE II.5, II.6.)
-
-**Plain words** Virtue is a settled disposition, not a mood. Being generous once, on a good day, doesn't make you generous. Being generous even when it's inconvenient does. So build dispositions through repetition, instead of chasing the feeling.
-
-*For example:* Tipping well only when you're in a good mood isn't generosity. Doing it as a standing habit is.
 
 ## Psychology parallels
 
@@ -26,7 +31,6 @@ Virtue is a settled disposition (hexis), not a temporary state (pathos). You are
 - **[[Habit formation|Habit formation and automaticity]]** (Lally et al., 2010; Wood and Neal, 2007)
 
 ## Philosophy parallels
-
 
 - **[[The unity of the virtues|Virtue as second nature]]** (Aristotle, NE II.1)
 - **[[Belief as habit|Belief as habit of action]]** (Peirce, "How to Make Our Ideas Clear")
