@@ -13,15 +13,16 @@
   "Graded exposure / systematic desensitisation (Wolpe)",
   "Graded task assignment (Beck, BA)",
   "Guilt motivates reparative behaviour",
-  "Hope"
+  "Hope",
+  "Implicit theories of intelligence"
  ],
- "in_progress": "Implicit theories of intelligence",
+ "in_progress": null,
  "flagged": {
   "The eternal contribution": "compendium coinage, not a traditional term: page says so in its first sentence; written for the sense BE068 uses"
  },
  "missing_concepts": [],
- "sources_checked": 68,
- "updated": "2026-10-19T08:10:21+00:00",
+ "sources_checked": 71,
+ "updated": "2026-10-19T08:10:45+00:00",
  "qc_log": {
   "Escape from freedom": "approved after 4 advisor QC rounds: quotes verified against opened sources (panarchy ch. V excerpt, Wikipedia, IEP Totalitarianism 2.d, SEP Critical Theory 1.4); Simondon Individuation and The having mode removed from Related; cross-tradition links labelled comparisons; sources_checked: 4",
   "Eternal recurrence": "milestone advisor QC applied: practical-reading attribution qualified; AF069 described as the compendium's separate comparison; Panta rhei, Corsi e ricorsi and Three thousand realms claims externally verified; 'Thou art a God' capitalisation matches primary text",
@@ -35,7 +36,8 @@
   "Graded exposure / systematic desensitisation (Wolpe)": "self-QC: Wolpe principle quote verbatim from BJPsych Advances (with p. 71); Foa and McLean 2016 opened (PE components, five-year gains, IOM 2008); QOL follow-up limit included from the VA meta-analysis",
   "Graded task assignment (Beck, BA)": "self-QC: Bandura and Schunk abstract quoted verbatim from the published record; Beck/Jacobson BA material from open treatment descriptions; 'distal goals had no demonstrable effects' finding included",
   "Guilt motivates reparative behaviour": "self-QC: Tangney et al. 2007 p. 351 quote verbatim via PhilArchive; guilt/shame action tendencies from PMC reviews; context-dependence critique included; A118 link macron incident: seed link used precomposed e-macron matching the principle file, an intermediate commit (96b9fe3) briefly broke it, fixed in the follow-up commit",
-  "Hope": "self-QC: Snyder 1991/2002 definitions verbatim from OUP chapter and target-article abstract; Bloch quotes verbatim from the Marxists Archive introduction; Marcel quote attributed to the compendium's R087 rather than mis-sourced to SEP; staging-pattern quote trimmed"
+  "Hope": "self-QC: Snyder 1991/2002 definitions verbatim from OUP chapter and target-article abstract; Bloch quotes verbatim from the Marxists Archive introduction; Marcel quote attributed to the compendium's R087 rather than mis-sourced to SEP; staging-pattern quote trimmed",
+  "Implicit theories of intelligence": "self-QC: Dweck and Leggett 1988 model described from the full text; 2011 chapter quotes verbatim (control-not-stability, scale items); meta-analytic evidence with mixed entity findings included; Burgoyne failed-premises test cross-referenced via the sibling page"
  },
  "incidents": [
   "2026-10-19: enriched content/concepts/The eternal contribution.md by mistake (not in w1d manifest; belongs to w1ae). Content file reverted to seed in this commit; validated draft preserved at docs/enrichment/drafts/w1d/The eternal contribution.md for the w1ae agent. Reciprocal proposals for it removed from proposals/w1d.json."

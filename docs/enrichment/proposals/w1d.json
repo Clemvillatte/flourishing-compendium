@@ -279,6 +279,31 @@
    "into": "Self-efficacy",
    "link": "Hope",
    "why": "the agency component's nearest neighbour in Snyder's theory"
+  },
+  {
+   "into": "Growth mindset",
+   "link": "Implicit theories of intelligence",
+   "why": "the popular form of the incremental theory the page measures"
+  },
+  {
+   "into": "Achievement goal theory (Dweck, Elliot)",
+   "link": "Implicit theories of intelligence",
+   "why": "the goal framework the implicit theories feed into"
+  },
+  {
+   "into": "Mastery orientation",
+   "link": "Implicit theories of intelligence",
+   "why": "the response pattern the incremental theory predicts"
+  },
+  {
+   "into": "Cognitive flexibility",
+   "link": "Implicit theories of intelligence",
+   "why": "the capacity the two theories pull in opposite directions"
+  },
+  {
+   "into": "Self-efficacy",
+   "link": "Implicit theories of intelligence",
+   "why": "the control belief Dweck says the theories are really about"
   }
  ],
  "inline": [],
