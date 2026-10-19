@@ -4,11 +4,12 @@
   "P090",
   "P111",
   "P113",
-  "P117"
+  "P117",
+  "P105"
  ],
- "in_progress": "P105",
+ "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
- "sources_checked": 12,
- "updated": "2026-10-19T14:43:06+00:00"
+ "sources_checked": 15,
+ "updated": "2026-10-19T14:44:48+00:00"
 }

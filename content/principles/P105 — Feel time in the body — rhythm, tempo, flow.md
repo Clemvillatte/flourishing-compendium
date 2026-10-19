@@ -12,18 +12,24 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 105** — Feel time in the body: rhythm, tempo, flow
 
-Lived time is bodily: tempo of movement, rhythm of breath, duration of a walk. Regulate your state through tempo — slow down or energize by changing rhythm.
+Dewey describes experience as a movement between acting and receiving the consequences of action. Pauses matter because they let a phase register before the next begins; constant acceleration can prevent the parts from acquiring distinctness (Art as Experience, III, LW 10:43, 62, [text](https://www.uio.no/studier/emner/uv/uv/UV9406/dewey-john-(1987).-art-as-experience.pdf)).
 
-(Bergson, Time and Free Will, 1889; Dewey, Art as Experience, 1934.)
+> "Experiencing like breathing is a rhythm of intakings and outgivings." (Dewey, Art as Experience, 1934, III, LW 10:62, [text](https://www.uio.no/studier/emner/uv/uv/UV9406/dewey-john-(1987).-art-as-experience.pdf))
 
-**Plain words** Lived time is bodily — tempo of movement, rhythm of breath, duration of a walk. Regulate your state through tempo: slow down or energize by changing rhythm. You can't think your way out of panic, but you can walk your way out.
+His point is about the relation between successive phases, not an instruction to perform every task slowly. The compendium applies this account by inviting attention to how bodily pace fits the activity underway (III, LW 10:43, 62, [text](https://www.uio.no/studier/emner/uv/uv/UV9406/dewey-john-(1987).-art-as-experience.pdf)).
 
-*For example:* The anxious spiral interrupted by deliberately slowing to half-speed — dishes washed at snail pace, breath following the hands. Ten minutes later: different nervous system.
+### Plain words
+
+Notice whether you are hurrying, holding still, or moving without taking in what is happening. Try changing one part of the activity: leave a pause before replying, stop after a paragraph, or adjust your walking pace. Ask what lets you follow the task more clearly, rather than assuming that slower is always better.
+
+### For example
+
+Imagine rehearsing a short talk. After the first attempt, listen to a recording and mark where you ran sentences together. Try it again with pauses at those points, then compare how the two versions sound. The exercise makes tempo something you can examine and adjust.
 
 ## Psychology parallels
 
-- **Slow breathing and vagal tone** (Balban et al., 2023)
-- **Music tempo and arousal**, rhythmic tempo entrains physiological state (Bernatzky et al., 2004)
+- **Structured breathing**: a one-month randomised study found greater improvement in positive mood and reduction in respiratory rate with breathwork, particularly cyclic sighing, than with mindfulness meditation; this does not test the rehearsal exercise above ([Balban et al., 2023, abstract](https://pubmed.ncbi.nlm.nih.gov/36630953/)).
+- **Music tempo and arousal**: an editorial describes tempo-related breathing and cardiovascular changes in a study of music listening, while discussing uncertainty about the mechanism ([Larsen and Galletly, 2006, "Entrainment of respiration"](https://pmc.ncbi.nlm.nih.gov/articles/PMC1860853/)).
 
 ## Philosophy parallels
 
