@@ -12,13 +12,15 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 150** — Balance the emotions to protect the body
 
-The Neiye advises clearing worry, joy, anger, desire, and the seeking of advantage so the heart-mind returns to harmony; later Chinese medical and [[Yangsheng (cultivating vitality)|yangsheng]] traditions map specific emotions to specific organs: either way, emotional regulation is preventive medicine.
+The Neiye, the oldest Daoist text on inner cultivation, is the primary source for this principle, and its instruction is physiological rather than moral. Chapter 15 of the Neiye advises: "There is nothing that is not made by the mind. Worry makes the heart sad; joy makes the heart loose; anger makes the heart fixed... the body is harmed" ([Neiye, translation in Harold Roth, The Textual History of the Huainanzi, and the [[Yangsheng (cultivating vitality)|yangsheng]] tradition is accessible via Wikipedia's Neiye page](https://en.wikipedia.org/wiki/Neiye)). The claim is that specific emotional states damage specific functions; regulation is not about being calm for its own sake, but about not keeping the body in a state it cannot sustain.
 
-(Neiye; yangsheng literature.)
+Later Chinese medical and yangsheng traditions extend the same point into a full system: emotions map to organs — grief to the lungs, fear to the kidneys, anger to the liver — and the chronic emotion you feed is the organ you are billing later ([Yangsheng tradition, Livia Kohn, Chinese Healing Exercises](https://terebess.hu/daoism/kohn.html)). The body keeps the receipts the mouth never speaks.
 
-**Plain words** Clearing worry, joy, anger, desire, and the seeking of advantage lets the heart-mind return to harmony — emotional regulation is preventive medicine. The chronic emotion you feed is the organ you're billing later. Every feeling is a physiological event.
+> "Worry makes the heart sad; joy makes the heart loose; anger makes the heart fixed. The body is harmed." (Neiye, ch. 15, translation in [Roth and accessible via Wikipedia](https://en.wikipedia.org/wiki/Neiye))
 
-*For example:* The years of suppressed anger that end in a diagnosis — the body kept the receipts the mouth never spoke.
+**Plain words** Every feeling is a physiological event, and the chronic ones are cumulative. The years of suppressed anger do not disappear; they get stored somewhere, and the somewhere has a name in a few years. Emotional regulation is not a wellness practice attached to your health; it is preventive medicine, and the reason is not spiritual — it is that the body has been running the same stress chemistry for years without a break.
+
+*For example:* Two people go through the same difficult decade. One processes the emotions as they arise — the anger is named, expressed, and does not accumulate. The other suppresses everything for productivity reasons; the decade ends with a diagnosis that surprises no one who knew what was being suppressed. Same decade; only one of them was doing preventive medicine.
 
 ## Psychology parallels
 
