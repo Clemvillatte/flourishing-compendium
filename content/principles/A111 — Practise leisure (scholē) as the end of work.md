@@ -12,13 +12,26 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 111** — Practise leisure (scholē) as the end of work
 
-Aristotle argues that leisure is the end of work, not the reverse. We work in order to have leisure; we do not have leisure in order to work. Leisure is not idleness but the free activity of the soul for its own sake: contemplation, friendship, play. Do not confuse leisure with consumption.
+Aristotle states the ordering in two places. In the Politics, VII.14, in Jowett's translation:
 
-(Politics VII.14-15; NE X.7; MM I.34.)
+> "The whole of life is further divided into two parts, business and leisure, war and peace ... there must be war for the sake of peace, business for the sake of leisure, things useful and necessary for the sake of things honorable."
+> — Aristotle, Politics VII ([MIT Classics](https://classics.mit.edu/Aristotle/politics.7.seven.html))
 
-**Plain words** We work in order to have leisure, not the other way round. Leisure isn't idleness. It's free activity for its own sake: thinking, friendship, play. Don't mistake it for consumption.
+In the Nicomachean Ethics X.7 (Ross): "happiness is thought to depend on leisure; for we are busy that we may have leisure, and make war that we may live in peace." ([MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html))
 
-*For example:* Spending Saturday cooking with friends and talking is leisure. Spending it clicking through shopping apps is something else.
+### Leisure is not amusement
+
+In X.6 amusement is relaxation for the sake of work: "to amuse oneself in order that one may exert oneself, as Anacharsis puts it, seems right; for amusement is a sort of relaxation, and we need relaxation because we cannot work continuously. Relaxation, then, is not an end". So Aristotle separates leisure from rest and fun. Leisure is where the best activity goes, which for him is contemplation, "loved for its own sake".
+
+### Leisure takes character
+
+The Politics adds that "the enjoyment of good fortune and the leisure which comes with peace tend to make [men] insolent", and that "it is peculiarly disgraceful not to be able to use them in time of leisure". It also assumes that others do the necessary work: citizens must not be husbandmen, "since leisure is necessary both for the development of virtue and the performance of political duties". The compendium's list of "friendship, play" and its warning about consumption are its own readings.
+
+(Politics VII.14-15; NE X.6-7.)
+
+**Plain words** For Aristotle, work and business are for the sake of leisure, not the reverse. Leisure is not rest or entertainment. It is time for activity worth doing for its own sake, and using it well takes character.
+
+*For example:* Imagine spending a Saturday cooking with friends and talking. That fits the spirit of the idea. Clicking through shopping apps for the same hours does not.
 
 ## Stories
 
