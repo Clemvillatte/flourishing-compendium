@@ -120,7 +120,17 @@
    "into": "D148 \u2014 Let stillness heal",
    "link": "D041 \u2014 Practice purity and stillness (qingjing)",
    "why": "thematic pair in the stillness family: D041 is the Qingjing Jing/DDJ teaching on clearing the mind, D148 the Neiye teaching on tranquillity and vitality; both are cultivation texts, neither establishes the other's effect"
+  },
+  {
+   "into": "D148 \u2014 Let stillness heal",
+   "link": "BI009 \u2014 Understand that interoception is the foundation of emotional awareness",
+   "why": "the Neiye's align-the-body/notice-the-breath instructions (D148's source) are an early description of the internal-signal attention that BI009 names interoception; no link either way (grep: 0)"
+  },
+  {
+   "into": "BI009 \u2014 Understand that interoception is the foundation of emotional awareness",
+   "link": "D148 \u2014 Let stillness heal",
+   "why": "the Yangsheng (body cultivation) tradition BI009 already cites in its parallels is D148's home territory; the two principles name the same bodily attention in Daoist and modern terms"
   }
  ],
- "notes": "p1g proposals (genuineflourishing34), from D086 enrichment. Reciprocals only; both targets verified to lack the cross-link (grep: 0 mentions each way). D162 proposals added: D162<->D061 (same DDJ 64 root, verified 0 links each way). D041 proposals added: D041<->D021 (verified 0 links each way). D048 proposals added: D048<->B095, D048<->D071 (all verified 0 links each way). D035 proposals added: D035<->D034 (verified 0 links each way). D004 proposals added: D004<->A042, D004<->A004 (all verified 0 links each way). D013 proposals added: D013<->B048 (verified 0 links each way). D030 proposals added: D030<->D019 (verified 0 links each way). D099 proposals added: D099<->D055 (verified 0 links each way). D148 proposals added: D148<->D041 (verified 0 links each way). D148/D041 proposal whys narrowed to thematic (advisor, milestone QC round 3)."
+ "notes": "p1g proposals (genuineflourishing34), from D086 enrichment. Reciprocals only; both targets verified to lack the cross-link (grep: 0 mentions each way). D162 proposals added: D162<->D061 (same DDJ 64 root, verified 0 links each way). D041 proposals added: D041<->D021 (verified 0 links each way). D048 proposals added: D048<->B095, D048<->D071 (all verified 0 links each way). D035 proposals added: D035<->D034 (verified 0 links each way). D004 proposals added: D004<->A042, D004<->A004 (all verified 0 links each way). D013 proposals added: D013<->B048 (verified 0 links each way). D030 proposals added: D030<->D019 (verified 0 links each way). D099 proposals added: D099<->D055 (verified 0 links each way). D148 proposals added: D148<->D041 (verified 0 links each way). D148/D041 proposal whys narrowed to thematic (advisor, milestone QC round 3). BI009 proposals added: BI009<->D148 (verified 0 links each way)."
 }

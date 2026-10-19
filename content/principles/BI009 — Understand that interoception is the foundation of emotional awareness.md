@@ -12,11 +12,25 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BI — Biophysi
 ---
 > **Principle 9** — Understand that interoception is the foundation of emotional awareness
 
-Interoception — the perception of internal bodily signals (heart rate, breath, gut, muscle tone) — is the foundation of emotional awareness. Poor interoception is associated with alexithymia and poorer emotion regulation. It is trainable.
+Interoception is the term for perceiving the body's internal states:
 
-**Plain words** Interoception — reading your own internal signals (heart, breath, gut, tension) — is the foundation of emotional awareness. People who can't feel the body can't feel the early warning of an emotion. The body is where emotions announce themselves.
+> "Interoception refers to the perception of a wide range of physical states beyond emotions, including heart rate, respiratory effort, temperature, fatigue, hunger, thirst, satiety, muscle ache, pain and itch" ([Brewer, Cook and Bird, 2016](https://openaccess.city.ac.uk/id/eprint/16737/1/Alexithymia:%20a%20general%20deficit%20of%20interoception.pdf))
 
-*For example:* The person who "suddenly" explodes — the anger had been announcing itself in the chest and jaw for an hour. The body knew first. It always does; the question is whether anyone's listening.
+A study of alexithymia (difficulty identifying and describing one's own emotions) links the two halves of this principle. Its participants who struggled with emotions also confused them with other bodily states:
+
+> "Those with alexithymia therefore not only struggle to recognize their own emotions (affective interoception) but also confuse these states with non-affective interoceptive states, such as hunger, tiredness and arousal." ([Brewer, Cook and Bird, 2016](https://openaccess.city.ac.uk/id/eprint/16737/1/Alexithymia:%20a%20general%20deficit%20of%20interoception.pdf))
+
+The authors' reading of the pattern is the principle's evidence base: "Alexithymia may, therefore, be characterized better by a general failure of interoception, rather than one of affective interoception alone." The trainable half is carried by the practice section below and the training citations in the parallels (Khalsa et al., 2018; Tang et al., 2015).
+
+**Plain words**
+Before an emotion has a name, it has an address: jaw, chest, gut, breath. The practice is noticing the bodily event as raw sensation before deciding what it means. The study above suggests that confusing these signals goes along with difficulty identifying feelings; noticing them earlier is the trainable skill the practice section describes.
+
+**For example**
+The person who "suddenly" explodes: the anger had been announcing itself in the chest and jaw for an hour. The body signalled first; the question is whether anyone was listening.
+
+## Sources
+
+- [Brewer, Cook and Bird (2016), "Alexithymia: a general deficit of interoception", Royal Society Open Science (open-access PDF, City Research Online)](https://openaccess.city.ac.uk/id/eprint/16737/1/Alexithymia:%20a%20general%20deficit%20of%20interoception.pdf)
 ## Psychology parallels
 
 - **[[Interoception|Interoception and emotion (Craig, Barrett)]]**, interoceptive accuracy correlates with emotional awareness and regulation (Craig, 2009; Barrett et al., 2019)
