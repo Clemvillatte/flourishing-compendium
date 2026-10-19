@@ -1,4 +1,4 @@
-"Identified versus introjected motivation" is self-determination theory's distinction between two ways of carrying a rule inside. On the theory's continuum, extrinsically motivated behaviors "cover the continuum between amotivation and intrinsic motivation, varying in the extent to which their regulation is autonomous" ([Ryan & Deci 2000, American Psychologist](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf)). Introjected regulation "involves taking in a regulation but not fully accepting it as one's own. It is a relatively controlled form of regulation in which behaviors are performed to avoid guilt or anxiety or to attain ego enhancements such as pride. Put differently, introjection represents regulation by contingent self-esteem" ([Ryan & Deci 2000](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf)).
+"Identified versus introjected motivation" is self-determination theory's distinction between two ways of carrying a rule inside. On the [[Self-determination|self-determination]] continuum, extrinsically motivated behaviors "cover the continuum between amotivation and intrinsic motivation, varying in the extent to which their regulation is autonomous" ([Ryan & Deci 2000, American Psychologist](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf)). Introjected regulation "involves taking in a regulation but not fully accepting it as one's own. It is a relatively controlled form of regulation in which behaviors are performed to avoid guilt or anxiety or to attain ego enhancements such as pride. Put differently, introjection represents regulation by contingent self-esteem" ([Ryan & Deci 2000](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf)).
 
 ### Identification
 
@@ -25,4 +25,5 @@ MO011 carries the distinction directly as autonomous versus controlled motivatio
 ## Sources
 
 - [Ryan & Deci 2000, "Self-Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and Well-Being," American Psychologist 55(1), full text PDF](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf)
+
 
