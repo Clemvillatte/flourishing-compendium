@@ -9,7 +9,8 @@
   "B144",
   "B148",
   "B102",
-  "B039"
+  "B039",
+  "B041"
  ],
  "in_progress": null,
  "flagged": {
@@ -20,6 +21,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-19T13:32:47+00:00",
+ "updated": "2026-10-19T13:32:49+00:00",
  "band_done": false
 }
