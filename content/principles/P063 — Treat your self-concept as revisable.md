@@ -12,13 +12,28 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 63** — Treat your self-concept as revisable
 
-The story you tell about who you are is a working hypothesis, not a contract. Rewrite it when experience outruns the script.
+Rogers puts the revision mechanism at the center of his account of the person:
+
+> "One way of expressing the fluidity which is present in such existential living is to say that the self and personality emerge from experience rather than experience being translated or twisted to fit pre-conceived self-structure." (Rogers, [On Becoming a Person (1961), from "The Good Life and the Fully Functioning Person" (1953)](https://www.panarchy.org/rogers/person.html))
+
+Rogers describes openness to experience as part of his account of the good life. In this passage, a person's understanding of themselves can develop through experience, instead of requiring each experience to fit an existing self-description ([Rogers passages](https://www.panarchy.org/rogers/person.html)).
+
+James offers a separate descriptive account. The bodily feelings, emotional tendencies and abilities included in the empirical self change over a lifetime, while memories of the same past connect earlier and later selves ([The Principles of Psychology (1890), ch. X](https://psychclassics.yorku.ca/James/Principles/prin10.htm)).
+
+One practical application is to reconsider a familiar self-description when it no longer accounts for what you experience.
 
 (Rogers, On Becoming a Person, 1961; James, The Principles of Psychology, 1890.)
 
-**Plain words** Your autobiography is a draft, and you hold the pen — the past is fixed, the telling is yours. Rewrite the self-story when experience outruns the script.
+**Plain words**
+Take a familiar description of yourself and compare it with recent events. Which experiences fit it, and which do you have to explain away? Ask where the description still helps and where it needs qualifying. You can include newer experiences without throwing out everything you previously understood about yourself.
 
-*For example:* 'I'm the responsible one' — until the year you backpacked Asia and were, objectively, the spontaneous one. The story updates; the person just lived.
+*For example:*
+Suppose you think, "I never ask for help", but you have sought advice on several recent projects. Ask when you do ask and when you hesitate, then revise the description to include both.
+
+## Sources
+
+- [Rogers, On Becoming a Person (1961), passages hosted at Panarchy](https://www.panarchy.org/rogers/person.html) — "The Good Life and the Fully Functioning Person" (1953), existential-living passage quoted verbatim
+- [James, The Principles of Psychology (1890), chapter X, Classics in the History of Psychology (York University)](https://psychclassics.yorku.ca/James/Principles/prin10.htm) — social selves and mutations of the self passages
 
 ## Stories
 
