@@ -189,3 +189,12 @@ Advisor milestone QC on B133, P091, P100, P163, P182, P183 required repairs; all
 - Saturation: linked concepts read (The Great Death, Durée, Redescription, Goal disengagement, Flow, The meaning of life); all six already cite their principles; no new proposals.
 
 Correction: the sources counter increment of 2 in the repair round was reverted (the round re-opened already-counted sources: Tricycle, Gutenberg 56852, Gutenberg 16287, PMC2223147, Standard Ebooks; no new sources).
+
+## Pragmatism milestone QC round 3 (2026-10-20, genuineflourishing33)
+
+- B133: equation of the narrative-collapse exercise with the Great Death removed throughout the editable body; the body now says the saying concerns a different and larger matter; plain words and example marked as an ordinary application of the shape (collapse/return), not the event the saying describes.
+- P091: "thick with meaning, stretching and compressing" removed from the opener; example replaced with the passage's own demonstration (dwelling too long on one note; the qualitative change in the whole phrase, verified verbatim against the opened source).
+- P163: opener narrowed to strategies for avoiding unwanted thoughts and feelings; "experiential rather than logical" opposition removed; locator changed from the unopened Hayes manual to the consulted Kanter-Baruch-Gaynor article; plain words made a concrete examination (pick an unwanted feeling and its avoidance strategy, run the record).
+- P100, P182, P183: no further rewrite required per advisor.
+- Checks: link sections compared against baseline 94f9775 for all six files (identical); full bodies of the linked concepts read (The Great Death, Durée, Redescription, Goal disengagement, Flow, The meaning of life); all six already cite their principles; no new proposals; all six files validated ok after final corrections.
+- Procedural note, recorded honestly: during the repair rounds the state transitions were recorded in the local state file but the transcript does not show a save between each reopen/start and its edit, or after each repaired item, as the save discipline prescribes; saves were batched per round instead. The earlier original Buddhism pass had the same gap, already recorded. Save discipline restored from this point on.
