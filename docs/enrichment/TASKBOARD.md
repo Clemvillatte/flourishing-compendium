@@ -18,7 +18,7 @@ Bands are defined by committed manifests in `docs/enrichment/bands/<band>-manife
 | w1a | 1-30 | Ubuntu to The inner citadel | w1a | claimed | Agent A (lead) | 2026-10-19 |
 | w1b | 31-100 | The observing self to Wisdom | w1b | claimed | Agent B (Computer) | 2026-10-19 |
 | w1c | 101-170 | Amor sui (right self-love) to Embodied self | w1c | claimed | Agent C | 2026-10-19 |
-| w1d | 171-240 | Escape from freedom to Attentional control theory (Eysenck) | w1d | OPEN | | |
+| w1d | 171-240 | Escape from freedom to Attentional control theory (Eysenck) | w1d | claimed | Agent D (Computer) | 2026-10-19 |
 | w1e | 241-310 | Attentional control training to Intrinsic value of nature | w1e | OPEN | | |
 
 ## Rules for parallel agents (read before editing anything)
