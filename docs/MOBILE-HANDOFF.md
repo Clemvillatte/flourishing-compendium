@@ -53,7 +53,8 @@ The site (https://clemvillatte.github.io/flourishing-compendium/) works on deskt
 - QA pattern for Academy: use tab clicks (document.getElementById('tabAcademy').click()), NOT fcSwitchView — only the tab listener calls the academy hijack that renders.
 
 
-## Round 3 (in progress — user feedback)
+## Round 3 (DONE — deployed & QA-verified)
+All four items below are DONE. Additionally: the phone breakpoint was raised 820px → 920px (iPhone landscape is 844px wide and was falling back to the desktop header); openFromList now syncs state.cursor (the ◀ ▶ buttons and ↑/↓ keys previously needed TWO presses after opening an entry — first press landed on the current entry).
 1. Header mobile: hide #helpBtn, #essayExportBtn, #essayClearBtn, #substackBtn, #contentBackupBtn in the ≤820px CSS block (they overflow off-screen, especially in landscape). Keep theme toggle.
 2. Library: prev/next arrows in the read view — add stepEntry(d) helper in app.js (same logic as the ArrowUp/Down keyboard handler at ~line 1462: clamp state.cursor, openFromList, scrollIntoView), buttons #readPrev/#readNext rendered in renderEntry's entryMeta, plus a position indicator.
 3. Remove the "Your notes (this entry)" draft panel: buildDraftPanel(e) call at app.js ~line 636 and wireDraftPanel() at ~677 (the panel is obsolete now that Edit exists; the draft data/draftGet/draftSet functions can stay dormant).
