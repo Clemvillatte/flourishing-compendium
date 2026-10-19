@@ -12,17 +12,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 18** — Verify in your own experience (the Kalama spirit)
 
-Don't adopt teachings on authority, tradition, or charisma: test them against your own experience, here and now.
+The Kālāmas ask how to judge teachers who praise their own doctrines while disparaging one another. The discourse advises examining qualities and their consequences, including whether they are blameless and praised by the wise (AN 3.65, trans. Thanissaro Bhikkhu, [text](https://www.accesstoinsight.org/tipitaka/an/an03/an03.065.than.html)).
 
-(Kalama Sutta, AN 3.65.)
+> "When you know for yourselves that, 'These qualities are skillful; these qualities are blameless; these qualities are praised by the wise; these qualities, when adopted & carried out, lead to welfare & to happiness' — then you should enter & remain in them." (AN 3.65, trans. Thanissaro Bhikkhu, [text](https://www.accesstoinsight.org/tipitaka/an/an03/an03.065.than.html))
 
-**Plain words** Don't adopt teachings on authority, tradition, or charisma — test them against your own experience, here and now. The Kalama spirit: you're allowed to run the experiment on yourself. Anyone who forbids the test is selling something.
+The discussion tests greed, aversion and delusion through the harmful actions they encourage. Thanissaro's introductory note warns that the teaching is more demanding than following one's private preferences; the advice of wise people helps check one's assessment (AN 3.65 and translator's note, [text](https://www.accesstoinsight.org/tipitaka/an/an03/an03.065.than.html)).
 
-*For example:* Try the breathing technique for a week and check your own evenings — your data outranks the guru's promise.
+### Plain words
+
+Ask what following a teaching leads you to do and whom it affects. Consider your observations alongside the judgment of people whose understanding you have reason to trust. The compendium takes this as a discipline of inquiry, not permission to count every comfortable feeling as confirmation.
+
+### For example
+
+Imagine a teacher advising you to cut off anyone who questions the group. Before complying, examine the consequences, seek independent counsel, and ask whether the instruction encourages harm. Your initial relief or the teacher's confidence need not settle the question.
 
 ## Psychology parallels
 
-- **[[Actively open-minded thinking|Actively open-minded thinking]]**, updating beliefs against evidence (Baron, 1985; Tetlock, 2005)
+- **[[Actively open-minded thinking|Actively open-minded thinking]]**: its measures include willingness to consider contrary evidence, but the authors report that AOT scores do not predict avoidance of myside thinking; this is a limited comparison with the discourse ([Stanovich and Toplak, 2023, abstract](https://www.keithstanovich.com/Site/Research_on_Reasoning_files/Stanovich_Toplak_2023.pdf)).
 
 ## Philosophy parallels
 
