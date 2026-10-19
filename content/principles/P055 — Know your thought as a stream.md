@@ -12,13 +12,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 55** — Know your thought as a stream
 
-Consciousness is not a chain of beads but a flowing stream: always continuous, always personal, always in change. Don't expect a fixed self behind the flow; the flow is the self.
+James's chapter IX names the phenomenon and rejects the bead picture in the same breath:
+
+> "Consciousness, then, does not appear to itself chopped up in bits. Such words as 'chain' or 'train' do not describe it fitly as it presents itself in the first instance. It is nothing jointed; it flows. A 'river' or a 'stream' are the metaphors by which it is most naturally described. In talking of it hereafter, let us call it the stream of thought, of consciousness, or of subjective life." (James, The Principles of Psychology, ch. IX, [1890 text](https://archive.org/stream/theprinciplesofp01jameuoft/theprinciplesofp01jameuoft_djvu.txt))
+
+The chapter's five characters of thought carry the principle's adjectives in James's own list: every thought tends to be part of a personal consciousness, thought within each personal consciousness is always changing, and it is sensibly continuous. The compendium's reading, that the flow is the self rather than a thing behind it, is a reading of those characters: on James's account the personal and the continuous belong to the flow itself.
 
 (James, The Principles of Psychology, 1890.)
 
-**Plain words** Consciousness is not a chain of beads but a flowing stream — always continuous, always personal, always in change. Don't expect a fixed self behind the flow; the flow is the self. You're not the riverbed; you're the water.
+**Plain words**
+Try to catch the exact moment a thought begins, and note what you find: no bead, just arrival. The old picture was beads on a string, one thought then the next; James's picture is water. A thought you are having is already moving, and by the time you name it, it is the previous one. Notice for yourself whether watching the stream changes what you do with the thoughts.
 
-*For example:* Try to catch the exact moment a thought begins — you can't. There's no bead to find, just water. That failure of catching IS the insight.
+**For example**
+Try to catch the exact moment a thought begins: there is no bead to find, just water. That failure of catching is the insight.
+
+## Sources
+
+- [William James, The Principles of Psychology, vol. 1 (1890; full text, archive.org)](https://archive.org/stream/theprinciplesofp01jameuoft/theprinciplesofp01jameuoft_djvu.txt) — ch. IX (blockquotes: the stream passage and the five characters)
 
 ## Stories
 
