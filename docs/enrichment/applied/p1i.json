@@ -1,0 +1,16 @@
+{
+ "inline": [],
+ "reciprocal": [
+  {
+   "into": "A048 — Act in the right way, at the right time, toward the right objects, in the right manner",
+   "link": "D118 — Speak rarely (guayan)",
+   "why": "A048's reflections ask what cues tell you when to speak; D118 is the Daoist counterpart on speech timing (reticence, few words)"
+  },
+  {
+   "into": "B147 — Listen deeply",
+   "link": "D118 — Speak rarely (guayan)",
+   "why": "Speaking rarely and listening deeply are two framings of the same speech economy"
+  }
+ ],
+ "notes": "2026-10-20 supervisor: removed link-census phrasing from why clauses before integration."
+}
