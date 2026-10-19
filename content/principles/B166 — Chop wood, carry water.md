@@ -12,13 +12,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 166** — Chop wood, carry water
 
-Enlightenment is in the ordinary tasks: draw water, carry wood, wash, cook, clean: with full presence. The miraculous is the mundane, attended.
+In the account reproduced by Terebess, Shitou asks Pang about his daily activities. Pang initially says he cannot open his mouth about them; when Shitou asks again, he answers:
+
+> "How wondrous, how miraculous – chopping wood and carrying water." (Layman Pang, [Encounter Dialogues and Verses of Layman Pangyun, compiled by Satyavayu](https://terebess.hu/zen/pang.html))
+
+Pang's verse on the same subject describes his daily activity as nothing unusual, just spontaneous harmony, neither grasping nor rejecting, and names fetching water and carrying firewood as his supernatural powers and miraculous activity ([Layman Pang, Encounter Dialogues and Verses of Layman Pangyun, compiled by Satyavayu](https://terebess.hu/zen/pang.html)). Read as a practical interpretation, the exchange suggests treating the chores themselves as the site of practice rather than as preliminaries to it.
 
 (Layman Pang; Zen tradition.)
 
-**Plain words** Enlightenment is in the ordinary tasks — draw water, carry wood, wash, cook, clean — with full presence. The miraculous is the mundane, attended. Everyone waits for the special moment and misses the eighty ordinary ones per day.
+**Plain words**
+You may be waiting for a retreat or a quiet hour before taking practice seriously. Pang's verse includes fetching water and carrying firewood too. One practical application is to do a necessary chore without treating it as wasted time before the important part of your day. The verse gives no promise that the chore will become restful.
 
-*For example:* The dishes, done with full attention, are somehow restful; the same dishes done while resenting them are exhausting. Same water.
+*For example:*
+Suppose you have dishes to wash before sitting down to meditate. Try including the washing in that period of practice, rather than treating practice as something that can begin only when the sink is empty.
+
+## Sources
+
+- [Layman Pang (Pang Yun), Encounter Dialogues and Verses of Layman Pangyun, compiled by Satyavayu, Touching Earth Sangha (via Terebess Zen archive)](https://terebess.hu/zen/pang.html) — Shitou exchange quoted verbatim; daily-activity verse paraphrased; page also carries van Schaik and Whitfield translations of the verse
 
 ## Stories
 
