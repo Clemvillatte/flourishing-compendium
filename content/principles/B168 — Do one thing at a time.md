@@ -12,13 +12,20 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 168** — Do one thing at a time
 
-Single-task: when you eat, eat; when you walk, walk; when you talk, be in the talk. Fragmented attention is a fragmented life.
+Thich Nhat Hanh's example is the sink: "While washing the dishes one should only be washing the dishes, which means that while washing the dishes one should be completely aware of the fact that one is washing the dishes." He offers two ways to do the job: "The first is to wash the dishes in order to have clean dishes and the second is to wash the dishes in order to wash the dishes."
 
-(Thích Nhất Hạnh, The Miracle of Mindfulness.)
+> "There's no way I can be tossed around mindlessly like a bottle slapped here and there on the waves." (Thich Nhat Hanh, The Miracle of Mindfulness, [excerpt](https://www.abuddhistlibrary.com/Buddhism/G%20-%20TNH/TNH/From%20The%20Miracle%20of%20Mindfulness/Teaching.htm))
 
-**Plain words** Single-task: when you eat, eat; when you walk, walk; when you talk, be in the talk. Fragmented attention is a fragmented life. The tabs are not just in your browser; they're in your nervous system.
+The compendium applies the example to attention split across tasks: one thing done with the whole attention is the instruction, whatever the thing is.
 
-*For example:* The person who 'saves time' by combining three tasks, then redoes all three — the fragmentation was the time cost.
+**Plain words**
+The instruction is literal: when you wash up, the washing is the event. The failure mode the passage names is being tossed around mindlessly. Pick one task and give it the whole attention for ten minutes, then notice where the mind went.
+
+*For example:* Suppose a person who "saves time" by combining three tasks. As a modern application, the passage's test is whether any of the three got the whole attention.
+
+## Sources
+
+- [Thich Nhat Hanh, The Miracle of Mindfulness (excerpt)](https://www.abuddhistlibrary.com/Buddhism/G%20-%20TNH/TNH/From%20The%20Miracle%20of%20Mindfulness/Teaching.htm)
 
 ## Stories
 

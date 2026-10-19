@@ -301,3 +301,8 @@ copied from the opened URL in this session.
 - B147: practice context scoped (the excerpt is from a beginning-anew reconciliation
   practice); Plain words replaced with the advisor's text; start state was missed
   before writing, now recorded.
+
+## B168 — Do one thing at a time (TNH, Miracle of Mindfulness)
+
+- Opened: https://www.abuddhistlibrary.com/Buddhism/G%20-%20TNH/TNH/From%20The%20Miracle%20of%20Mindfulness/Teaching.htm
+  (book excerpt; the dishes passage fetched verbatim). Validated vs HEAD (pre-item).
