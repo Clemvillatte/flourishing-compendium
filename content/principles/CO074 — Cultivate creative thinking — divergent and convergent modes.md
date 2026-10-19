@@ -12,11 +12,22 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 ---
 > **Principle 74** — Cultivate creative thinking: divergent and convergent modes
 
-Creativity involves two distinct modes: divergent thinking (generating many possibilities) and convergent thinking (selecting and refining). Both are needed, and they require different mental states. Creativity is trainable.
+The modern study of creativity begins with Guilford's 1950 presidential address to the American Psychological Association, which opened by naming the field's neglect bluntly, verbatim: "The neglect of this subject by psychologists is appalling." His evidence, also verbatim: "Of approximately 121,000 titles listed in the past 23 years, only 186 were indexed as definitely bearing on the subject of creativity." (Guilford, 1950, American Psychologist 5(9), 444-454, [article PDF](https://creativityinmusiced.weebly.com/uploads/2/3/8/5/23859476/guilford-1950-creativity.pdf))
 
-**Plain words** Creativity runs on two modes: divergent (generate many possibilities — playful, loose, uncritical) and convergent (select and refine — critical, sharp). They require different mental states and they sabotage each other. Separate them in time: generate Tuesday, edit Wednesday.
+The address also records the field's staged picture of the creative act, verbatim:
 
-*For example:* The writer who generates and edits in the same sitting — every idea shot on sight by the internal critic — versus the one who writes the ugly full draft before allowing a single judgement. The separation isn't a quirk; it's the mechanism.
+> "There is considerable agreement that the complete creative act involves four important steps. According to this picture, the creator begins with a period of preparation, devoted to an inspection of his problem and a collection of information or material. There follows a period of incubation during which there seems to be little progress in the direction of fulfillment. But, we are told, there is activity, only it is mostly unconscious. There eventually comes the big moment of inspiration, with a final, or semi-final, solution, often accompanied by strong emotion. There usually follows a period of evaluation or verification, in which the creator tests the solution or examines the product for its fitness or value." (from the same address)
+
+The principle's own terms, divergent and convergent thinking, come from Guilford's later structure-of-intellect model and are inherited here. What the 1950 address itself supplies is the staging: preparation, incubation, inspiration, then evaluation. The compendium's application follows the staging: generate and evaluate as separate acts in time.
+
+**Plain words** The four steps are preparation, incubation, inspiration, and evaluation, and they do not sit comfortably in the same hour: generating wants loose and uncritical, evaluating wants sharp and critical. Separate them in time: generate Tuesday, edit Wednesday.
+
+*For example:* The writer who generates and edits in the same sitting, every idea shot on sight by the internal critic, versus the one who writes the ugly full draft before allowing a single judgement. The separation is the staging the address describes, run at desk scale.
+
+## Sources
+
+- [Guilford, "Creativity" (1950), American Psychologist 5(9), 444-454](https://creativityinmusiced.weebly.com/uploads/2/3/8/5/23859476/guilford-1950-creativity.pdf) — address quoted verbatim; neglect of creativity research and the four-step creative act
+
 ## Psychology parallels
 
 - **[[Divergent and convergent thinking|Divergent and convergent thinking]]**, creativity involves both generation and selection (Guilford, 1950; Runco, 2004)
