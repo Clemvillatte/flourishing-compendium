@@ -43,6 +43,8 @@ The seed's second facet is Csikszentmihalyi's flow, the sibling construct. Flow 
 
 [[ST125 — Maslow and the Peak Experiences]]
 
+[[D092 — Don't chase happiness directly]]
+
 ## Sources
 
 - Maslow, 1964
