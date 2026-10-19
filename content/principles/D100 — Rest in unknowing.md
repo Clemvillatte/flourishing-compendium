@@ -12,15 +12,30 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 100** — Rest in unknowing
 
-Chapter 71 of the Daodejing is one of the shortest and sharpest chapters in the book, and it turns on a diagnosis rather than a moral instruction. Legge's translation: "To know that you do not know is best; to think you know when you do not know is a disease. It is by being pained at the idea of having this disease that we are preserved from it" ([Daodejing 71, James Legge translation, Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt)). The last line is the surprise — the cure for false knowing is not humility; it is being pained by the disease. The person who is bothered by their own certainty is the one who can be saved from it.
+To know that you do not know is best; to not know but think you know is a sickness. Say "I don't know" freely: it's the healthiest sentence available.
 
-The chapter's second half is the sage's side of the same condition: the sage does not have this disease because he is pained by it, and this is how he is free of it ([Daodejing 71, Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt)). This is why "I don't know" is not a confession of failure; it is the sentence that keeps the inquiry alive.
+(DDJ 71; Zhuangzi 2.)
 
-> "To know that you do not know is best; to think you know when you do not know is a disease." (Daodejing 71, James Legge translation, [Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt))
+### Two texts on knowing
 
-**Plain words** False certainty is worse than ignorance because it stops looking. The doctor with the instant wrong answer is more dangerous than the doctor who says "I don't know, let's find out," because the first one has already closed the case. This is the healthiest sentence available, and the reason it feels expensive is that it costs you the comfort of having finished. The pain of not knowing is not the problem; it is the mechanism by which you are preserved from pretending.
+Chapter 71 names the symptom:
 
-*For example:* Two experts are asked the same hard question. One gives the confident wrong answer and the case is closed on it. The other says "I don't know, let me look," and the correct answer arrives an hour later. Same expertise; only one of them is still curious, and only one of them solved the problem.
+> "To know and yet (think) we do not know is the highest (attainment); not to know (and yet think) we do know is a disease." (DDJ 71, [Legge](https://www.gutenberg.org/cache/epub/216/pg216.txt))
+
+The chapter continues: "It is simply by being pained at (the thought of) having this disease that we are preserved from it. The sage has not the disease. He knows the pain that would be inseparable from it, and therefore he does not have it" (DDJ 71, Legge). The disease is treatable only while you can still feel it.
+
+Zhuangzi's butterfly widens the gap to the frame of life itself:
+
+> "Now I do not know whether it was then I dreamt I was a butterfly, or whether I am now a butterfly dreaming I am a man." (Zhuangzi 2, tr. James Legge, via [Wikiquote](https://en.wikiquote.org/wiki/Zhuangzi))
+
+**Plain words** Both texts put the trouble in confidence rather than in ignorance. Laozi treats the confident "I know" as the symptom: once the claim is made, the searching stops, and the searching was the healthy part. Zhuangzi widens the gap, since from inside a life you cannot fully check which layer of it is the waking one, and his butterfly story leaves the question open on purpose. Saying "I don't know" is the working position of a mind still in contact with the situation. It keeps the inquiry alive, which is why the doctor who says "let's find out" is the safer one.
+
+*For example:* The doctor who says 'I don't know, let's find out' is safer than the one with the instant answer — curiosity is the treatment.
+
+## Sources
+
+- [The Tao Teh King, Legge trans., Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt): chapter 71
+- [Zhuangzi ch. 2 (tr. James Legge), via Wikiquote](https://en.wikiquote.org/wiki/Zhuangzi): the butterfly dream
 
 ## Psychology parallels
 
