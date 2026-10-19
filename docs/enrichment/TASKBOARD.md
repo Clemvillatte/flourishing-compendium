@@ -51,7 +51,7 @@ The owner's primary-source library is in `docs/PRIMARY-SOURCES.md`.
 
 | Band | Manifest ranks | Principles (first to last) | Prefix | Status | Agent | Since |
 |---|---|---|---|---|---|---|
-| p1a | 1-30 | R055 (xin) to E011 (phenomenological description) | p1a | claimed | genuineflourishing24 | 2026-10-19 |
+| p1a | 1-30 | R055 (xin) to E011 (phenomenological description) | p1a | claimed | genuineflourishing31 (took over from stale genuineflourishing24) | 2026-10-19 |
 | p1b | 31-100 | E012 to PP029 | p1b | claimed | genuineflourishing27 | 2026-10-19 |
 | p1c | 101-170 | PP081 to B146 | p1c | claimed | genuineflourishing29 | 2026-10-19 |
 | p1d | 171-240 | BI012 to B129 | p1d | claimed | genuineflourishing23 | 2026-10-19 |
