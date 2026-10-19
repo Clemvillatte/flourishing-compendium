@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 40** — Know the body (body contemplation)
 
-Sit, stand, walk, or lie down with awareness of the body: posture, breath, sensations, the body as a changing field rather than a fixed possession.
+The Satipatthana Sutta makes the body the first anchor of mindfulness, and it starts with the ordinary: "Furthermore, when walking, the monk discerns, 'I am walking.' When standing, he discerns, 'I am standing.' When sitting, he discerns, 'I am sitting.' When lying down, he discerns, 'I am lying down.' Or however his body is disposed, that is how he discerns it." The breath gets the same plain attention: "Breathing in long, he discerns, 'I am breathing in long'; or breathing out long, he discerns, 'I am breathing out long.'" And the sutta adds a less comfortable exercise, reviewing the body as parts: "just as if a sack with openings at both ends were full of various kinds of grain," a monk "reflects on this very body from the soles of the feet on up, from the crown of the head on down, surrounded by skin and full of various kinds of unclean things." The compendium's reading of the sequence: the body is the most available object of awareness there is, always reporting, and the training teaches seeing it as the principle says — a changing field rather than a fixed possession.
 
 (MN 10; Kayagatasati Sutta.)
 
