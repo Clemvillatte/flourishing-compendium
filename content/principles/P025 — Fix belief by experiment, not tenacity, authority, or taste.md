@@ -12,13 +12,15 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 25** — Fix belief by experiment, not tenacity, authority, or taste
 
-There are four ways to settle belief: cling stubbornly, defer to authority, follow what feels agreeable, or test against experience. Only the last is self-correcting. Choose the method of experience.
+Peirce's essay "The Fixation of Belief" is the primary source, and its structure is the whole argument. Peirce surveys four methods of settling belief: the method of tenacity (cling to what you already believe), the method of authority (defer to an institution), the a priori method (follow what feels agreeable to reason), and the method of science (test against experience) ([Peirce, The Fixation of Belief, 1877, Wikisource](https://en.wikisource.org/wiki/The_Fixation_of_Belief)).
 
-(Peirce, "The Fixation of Belief," 1877.)
+The key line of the essay is the one that explains why only the last method works: "There are Real things, whose characters are entirely independent of our opinions about them" ([Peirce, Wikisource](https://en.wikisource.org/wiki/The_Fixation_of_Belief)). This is the fact the first three methods cannot use. They are all, in different ways, ways of settling belief without reference to anything outside the belief — which is why none of them can discover they are wrong.
 
-**Plain words** Only the last of the four methods is self-correcting — the others all feel cheaper and cost more. You can settle belief by clinging stubbornly, deferring to authority, or following what feels agreeable, or by testing against experience. Take the last one.
+> "There are Real things, whose characters are entirely independent of our opinions about them... and any man, if he have sufficient experience and he reason enough about it, will be led to the one True conclusion." (Charles Peirce, The Fixation of Belief, 1877, [Wikisource](https://en.wikisource.org/wiki/The_Fixation_of_Belief))
 
-*For example:* The diet chosen by stubbornness, by an influencer, by vibes, or by tracking two weeks of actual energy levels. Only one of these can discover it's wrong.
+**Plain words** Only the last of the four methods is self-correcting; the others all feel cheaper and cost more. You can settle a belief by clinging stubbornly, by deferring to an authority, by following what feels agreeable — or by testing against experience. The first three cannot discover they are wrong, because they have no contact with anything outside the belief. The fourth can, and that is the entire argument for it.
+
+*For example:* A diet can be chosen by stubbornness, by an influencer, by vibes, or by tracking two weeks of actual energy levels. Only one of these can discover it is wrong. The first three will still feel correct when they fail, because nothing in the method checks.
 
 ## Psychology parallels
 
