@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 274** — Practise dignity-affirming action
 
-Treat every person as possessing inherent dignity that cannot be taken away. On Tutu's account, dignity is not earned or achieved; it is an inherent quality of being human. Act in ways that affirm the dignity of every person you encounter, regardless of their status, wealth, or circumstances.
+Treat every person as possessing inherent dignity that cannot be taken away. For Tutu, affirming other people is part of ubuntu: our own humanity is bound up with theirs. Act in ways that affirm the dignity of every person you encounter, regardless of their status, wealth, or circumstances.
 
 ([[Ubuntu|Ubuntu philosophy]]; Tutu, No Future Without Forgiveness.)
 
@@ -28,12 +28,8 @@ Because your humanity runs through other people's, writing anyone off writes off
 
 Tutu's test is behavioural, not sentimental. The person with ubuntu "is diminished when others are humiliated or diminished, when others are tortured or oppressed, or treated as if they were less than who they are" (ch. 2). Humiliation is not a private harm to its target; it diminishes the community, including the one inflicting it.
 
-### Why the worth survives everything
-
-Nothing a person gains or loses is what the worth rests on. In Tutu's account, what endows "human beings, every single human being without exception" with "worth, infinite worth" is intrinsic to being a person, not an attribute that status, conduct or misfortune can add or remove. No bank statement, diagnosis or charge sheet measures it.
-
 **Plain words**
-The practice shows up in how you correct, refuse and disagree. Address what someone did without treating them as beneath respectful attention: the drunk at 4 a.m. gets the same unhurried care as the elder at noon. Humiliation can damage a person; it cannot remove the worth they arrive with. Tutu's test runs both ways — you are diminished when you treat someone as less than they are.
+The practice shows up in how you correct, refuse and disagree. Address what someone did without treating them as beneath respectful attention: the drunk at 4 a.m. gets the same unhurried care as the elder at noon. Tutu's test runs both ways — you are diminished when you treat someone as less than they are.
 
 *For example:* The manager who rejects the request in one sentence, says exactly what would change the answer, and thanks the person for raising it — conduct addressed, without belittling the person.
 
