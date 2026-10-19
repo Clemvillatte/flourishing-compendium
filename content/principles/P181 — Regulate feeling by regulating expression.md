@@ -12,13 +12,15 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 181** — Regulate feeling by regulating expression
 
-Action seems to follow feeling, but really action and feeling go together; and by regulating the action, which is under the more direct control of the will, we can indirectly regulate the feeling, which is not. To feel brave, act as if brave; to feel kindly, smile and speak warmly. This is not a guarantee that the feeling will always change, but it is the most direct lever you have.
+James's most-quoted paragraph on emotion is not a metaphor: "Action seems to follow feeling, but really action and feeling go together; and by regulating the action, which is under the more direct control of the will, we can indirectly regulate the feeling, which is not" ([James, "The Gospel of Relaxation", 1899, Gutenberg](https://www.gutenberg.org/files/7442/7442-h/7442-h.htm)). The whole argument turns on one word — indirect. You cannot command a feeling to change; feelings do not take instruction. You can, on most days, command a posture, a sentence, a hand extended.
 
-(James, "The Gospel of Relaxation," 1899.)
+The practical consequence is that "act confident" is not a cliché; it is the correct direction of causality for the parts you control. The feeling is not manufactured by pretending; it is caught by the action, the way a slow walk makes the walk actually slow.
 
-**Plain words** Action and feeling go together — and by regulating the action, which is under the more direct control of the will, we can indirectly regulate the feeling, which is not. To feel brave, act as if brave; to feel kindly, smile and speak warmly. Not a guarantee, but the most direct lever you have.
+> "Action seems to follow feeling, but really action and feeling go together; and by regulating the action, which is under the more direct control of the will, we can indirectly regulate the feeling, which is not." (William James, "The Gospel of Relaxation", 1899, [Gutenberg](https://www.gutenberg.org/files/7442/7442-h/7442-h.htm))
 
-*For example:* The shy attendee told to 'just be confident' — useless advice to the feeling. Useful version: walk in, introduce yourself to one person, ask two questions. The action runs; the feeling catches the bus.
+**Plain words** You cannot argue yourself out of a mood, because the mood is not listening. But you can almost always change what your body is doing — stand up, slow the breathing, say the first sentence out loud. The feeling may or may not follow, and that is the honest limit of the principle. What you can rely on is the direction of the lever: the action is the part you actually control, and the feeling is the part that sometimes catches up.
+
+*For example:* Two people are both dreading a difficult phone call. One waits for the courage to arrive; it does not, and the call is not made. The other dials the number with the same dread, and speaks the first sentence while still dreading it. The courage never arrived; the call got made anyway. That is the whole mechanism: the action was never waiting on the feeling.
 
 ## Psychology parallels
 
