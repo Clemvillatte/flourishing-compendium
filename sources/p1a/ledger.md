@@ -239,3 +239,12 @@ session after supervisor QC flags.
   - The old plain words was a replicate of the body (same three-levers text and "private inner event" phrasing); repaired. The old example's "the environment lever is the cheap one" comparative replaced with the three-places framing; "buy the shoes first" advice removed.
   - Speed directive: no advisor QC this item (17); one commit.
 - Saturation: P073 linked from its Stories and habit-environment kernels (K176, K177); no new reciprocals proposed.
+
+## A023 — Practice justice (dikaiosyne) (done 2026-10-19)
+
+- Opened: Aristotle, Nicomachean Ethics, Book V, Ross translation, MIT Classics, https://classics.mit.edu/Aristotle/nicomachaen.5.v.html
+  - Verified verbatim (blockquote, contiguous): "This form of justice, then, is complete virtue, but not absolutely, but in relation to our neighbour. And therefore justice is often thought to be the greatest of virtues, and 'neither evening nor morning star' is so wonderful; and proverbially 'in justice is every virtue comprehended'."
+  - Verified inline fragments: "the unjust is what violates the proportion"; "tries to equalize by means of the penalty, taking away from the gain of the assailant"; distributive/rectificatory branch definitions; "Justice in this sense, then, is not part of virtue but virtue entire."
+  - The old plain words was a replicate of the body (same two-faces and three-questions text); repaired. The group-project example retained, tightened and mapped to the two branches.
+  - Speed directive: no advisor QC this item (18); one commit.
+- Saturation: A023 linked from its fairness kernels (K287, K291, K297); no new reciprocals proposed.

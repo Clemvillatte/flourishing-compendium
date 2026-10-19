@@ -12,13 +12,18 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 23** — Practice justice (dikaiosyne)
 
-Justice is not one virtue among others but the whole of virtue in relation to others. It has two forms: distributive (proportional allocation of goods and honours) and corrective (restoring balance after a wrong). In your dealings, ask: is this proportionate? Is this fair? Is this what is owed?
+The principle's definition of justice comes from NE V: Aristotle distinguishes justice as complete virtue toward others from the particular kinds, distributive and corrective.
+
+> This form of justice, then, is complete virtue, but not absolutely, but in relation to our neighbour. And therefore justice is often thought to be the greatest of virtues, and 'neither evening nor morning star' is so wonderful; and proverbially 'in justice is every virtue comprehended'. (NE V, Ross trans., [MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.5.v.html))
+
+The particular justice has two branches. Distributions of honour, money or the other divisible goods follow proportion, "and the unjust is what violates the proportion"; transactions between man and man are corrected by equality, where the judge "tries to equalize by means of the penalty, taking away from the gain of the assailant" (NE V). The principle's three questions (proportionate? fair? owed?) summarize those two branches.
 
 (NE V.1-5.)
 
-**Plain words** Justice, for Aristotle, is virtue as it shows up with other people. It has two faces: handing out goods in proportion, and putting things right after a wrong. In daily dealings, ask what's fair, what's owed, and whether the thing is proportionate.
+**Plain words**
+Aristotle splits fairness into two jobs. The first is dividing something up: pay, credit, places, honours. The fair division tracks proportion, not sameness. The second is repairing a transaction: if someone took more than their share or caused a loss, you even it out, whatever the two people's characters. Two different questions: what is proportional, and what is owed.
 
-*For example:* Splitting a group project's credit by who did what, and offering to redo a section you botched, covers both sides of it.
+*For example:* Splitting a group project's credit by who did what is the first job; offering to redo a section you botched is the second.
 
 ## Practice kernels
 
