@@ -12,13 +12,20 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 161** — See the small
 
-Seeing the small is insight; the sage sees the sprout, the tremor, the early signal: and adjusts years early.
+Daodejing 52.4 connects perceiving what is small with clear-sightedness. Chapter 63 gives the reasoning behind acting on it: the master "anticipates things that are difficult while they are easy, and does things that would become great while they are small."
 
-(DDJ 52, 63.)
+> "All difficult things in the world are sure to arise from a previous state in which they were easy, and all great things from one in which they were small. Therefore the sage, while he never does what is great, is able on that account to accomplish the greatest things." (Daodejing 63, [Legge](https://www.gutenberg.org/ebooks/216))
 
-**Plain words** Seeing the small is insight — the sage sees the sprout, the tremor, the early signal, and adjusts years early. Small signals are the only affordable ones: by the time a problem is big, tuition has gone up dramatically.
+The compendium applies the chapter as a question: which thing in your life is currently small and easy to deal with, that you expect to be large and difficult later?
 
-*For example:* The slight limp the dog develops on Tuesday — the vet visit this week versus the surgery next month.
+**Plain words**
+The chapter's picture is that big troubles start small. The practice is noticing the small version: the twinge, the first skipped payment, the sentence in a conversation you passed over. Dealing with a thing while it is small is a smaller job, and the chapter's advice is to look there first.
+
+*For example:* Suppose an outline uses the same term in two different senses. As a modern application, clarify the term before expanding the outline into a full essay.
+
+## Sources
+
+- [The Tao Teh King, trans. James Legge (Project Gutenberg)](https://www.gutenberg.org/ebooks/216) — ch. 52, 63
 
 ## Stories
 
