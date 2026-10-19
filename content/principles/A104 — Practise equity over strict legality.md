@@ -10,15 +10,20 @@ number: "104"
 navigation: {"track": "philosophy", "primaryPath": ["NAV-PHILOSOPHY", "NAV-PHIL-ARIS"], "alternatePaths": []}
 legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristotelian Virtue Ethics and Practical Wisdom", "chapter": "A-S09 — Layer IX - Justice, Equity, and Law", "parent": ""}
 ---
+
 > **Principle 104** — Practise equity over strict legality
 
-Equity (epieikeia) is the virtue that corrects the rigidity of law. Sometimes strict application of a rule produces injustice because the particular case was not foreseen by the legislator. The equitable person knows when to bend the rule for the sake of justice itself.
+Aristotle's argument about equity runs against treating it as a separate virtue from justice. Equity is itself just, and superior to one sort of justice, but only because law by nature speaks in general terms and some cases fall outside the generality. The rectification is done as the lawgiver would have done it had the particular case been known ([NE V.10, Rackham, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=5)).
+
+> When therefore the law lays down a general rule, and thereafter a case arises which is an exception to the rule, it is then right, where the lawgiver's pronouncement because of its absoluteness is defective and erroneous, to rectify the defect by deciding as the lawgiver would himself decide if he were present on the occasion, and would have enacted if he had been cognizant of the case in question.
+>
+> — Nicomachean Ethics V.10 ([Rackham, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=5))
+
+**Plain words** The compendium's application of this principle asks the reader to distinguish between applying a rule and doing what the rule was for. Aristotle's own framing is not that the rule is bad; it is that the case in front of you was not one the rule's generality could cover, and the correction is made in the rule's own spirit.
+
+For example (imagined): a school dropping a penalty for a student who missed an exam during a family emergency is applying the rule as the rule's own purpose would have it applied in that case.
 
 (NE V.10.)
-
-**Plain words** Equity corrects the stiffness of law. Sometimes applying a rule rigidly causes injustice because nobody foresaw this case. The equitable person knows when to bend it for justice's sake.
-
-*For example:* A school dropping a penalty for a student who missed an exam during a family emergency is being equitable.
 
 ## Stories
 
