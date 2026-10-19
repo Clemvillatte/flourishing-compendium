@@ -14,11 +14,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 
 Earn your living without causing harm: avoid trades in weapons, poisons, intoxicants, and exploitation. Align work with your deepest values.
 
+The Vanijja Sutta lists the trades a lay follower should not engage in:
+
+> "Monks, a lay follower should not engage in five types of business. Which five? Business in weapons, business in human beings, business in meat, business in intoxicants, and business in poison. 'These are the five types of business that a lay follower should not engage in.'" (AN 5.177, [Thanissaro](https://www.accesstoinsight.org/tipitaka/an/an05/an05.177.than.html))
+
+The list is addressed to householders, which is the part the principle inherits: the training asks people with jobs, not only monastics, to keep the trade clear of the harm.
+
 (AN 5.177; Dhammapada 124.)
 
-**Plain words** Earn your living without causing harm — avoid trades in weapons, poisons, intoxicants, and exploitation. Align work with your deepest values, because you spend most of your waking life there. A paycheck that requires your values to clock out is expensive.
+**Plain words**
+The sutta's test is concrete: name what the work moves and who it costs. The ancient list is weapons, human beings, meat, intoxicants, poison; the modern question has the same shape. You spend most of your waking life at the work, and the frame makes the paycheck one input to the arithmetic rather than the whole of it.
 
-*For example:* The marketer who turns down the tobacco account and sleeps better — the salary was partly paid in self-respect.
+**For example**
+The marketer who turns down the tobacco account and sleeps better — the salary was partly paid in self-respect.
+
+## Sources
+
+- [AN 5.177 Vanijja Sutta, trans. Thanissaro Bhikkhu (Access to Insight)](https://www.accesstoinsight.org/tipitaka/an/an05/an05.177.than.html)
 
 ## Psychology parallels
 
