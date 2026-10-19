@@ -234,42 +234,50 @@
   {
    "into": "Yin and yang",
    "link": "CO052 \u2014 Cultivate dialectical thinking \u2014 hold contradictions without forcing resolution",
-   "why": "backlink gap: CO052 cites Yin-yang complementarity (DDJ 2) but the concept page has no CO052 reference; verified by grep"
+   "why": "develops the Daodejing 2 account of co-arising opposites that CO052 carries into the cognitive framing.",
+   "notes": "Audit: CO052 cites the concept; the concept page has no CO052 mention (grep 0)."
   },
   {
    "into": "The witness",
    "link": "CO066 \u2014 Learn to take the third-person perspective \u2014 distanced self-talk improves reasoning",
-   "why": "backlink gap: CO066 cites the witness (sakshi) but the concept page has no CO066 reference; verified by grep"
+   "why": "names the observing stance in the contemplative traditions that CO066 treats as a cognitive technique.",
+   "notes": "Audit: CO066 cites the concept; the concept page has no CO066 mention (grep 0). Stub concept, thin content."
   },
   {
    "into": "Self-determination",
    "link": "E031 \u2014 Practise radical freedom",
-   "why": "backlink gap: E031 cites self-determination but the concept page has no E031 reference; verified by grep"
+   "why": "grounds autonomy motivationally (Deci and Ryan 2000), complementing E031 existential account of freedom as responsibility.",
+   "notes": "Audit: E031 cites the concept; the concept page has no E031 mention (grep 0)."
   },
   {
    "into": "Openness",
    "link": "E080 \u2014 Practise the fusion of horizons",
-   "why": "backlink gap: E080 (fusion of horizons) cites Openness as a philosophy parallel; the concept page's 'Cited in philosophy parallels' section is empty and has no E080 reference; the concept page itself cites Levinas (Totality and Infinity) as its philosophy anchor, so the backlink would go from the Levinas/philosophy-parallel side"
+   "why": "names the Levinasian openness to the other that E080 pairs with Gadamer fusion of horizons.",
+   "notes": "Audit: E080 cites the concept; the concept page has no E080 mention (grep 0). Stub concept, thin content."
   },
   {
    "into": "D015 \u2014 Treat opposites as co-creating",
    "link": "CO052 \u2014 Cultivate dialectical thinking \u2014 hold contradictions without forcing resolution",
-   "why": "same DDJ 2 source text in two disciplinary framings: D015 carries the Daoist axiom (opposites co-create), CO052 the cognitive framing of the same chapter; both quote the Legge DDJ 2 passage; no cross-link either way (grep: 0)"
+   "why": "develops Daodejing 2 account of co-arising opposites.",
+   "notes": "Audit: verified 0 links each way (grep 0 both directions). Same DDJ 2 Legge passage quoted on both pages."
   },
   {
    "into": "CO052 \u2014 Cultivate dialectical thinking \u2014 hold contradictions without forcing resolution",
    "link": "D015 \u2014 Treat opposites as co-creating",
-   "why": "the Daoist twin of the same DDJ 2 chapter: D015 states the axiom, CO052 states the cognitive-skill reading of it"
+   "why": "carries the Daoist axiom of co-arising opposites into the cognitive framing of holding contradiction.",
+   "notes": "Audit: verified 0 links each way (grep 0 both directions)."
   },
   {
    "into": "E009 \u2014 Practise intersubjectivity",
    "link": "E026 \u2014 Practise being-with (Mitsein)",
-   "why": "companion phenomenology principles: E009 is Husserl's intersubjectivity (Fifth Meditation), E026 is Heidegger's Mitsein (BT \u00a726); E009's philosophy parallels already cite Mitsein; no direct principle-to-principle link either way (grep: 0)"
+   "why": "examines the shared world through Husserl account of intersubjectivity, the phenomenological twin of E026 Mitsein.",
+   "notes": "Audit: E009 philosophy parallels already cite Mitsein; no direct principle-to-principle link (grep 0)."
   },
   {
    "into": "E026 \u2014 Practise being-with (Mitsein)",
    "link": "E009 \u2014 Practise intersubjectivity",
-   "why": "the Husserlian companion principle: both describe the shared world, E009 from the transcendental-egological side, E026 from the being-in-the-world side"
+   "why": "grounds being-with in Heidegger structural account, complementing E009 Husserlian intersubjectivity.",
+   "notes": "Audit: verified 0 direct principle-to-principle links (grep 0)."
   }
  ],
  "notes": "p1g proposals (genuineflourishing34), from D086 enrichment. Reciprocals only; both targets verified to lack the cross-link (grep: 0 mentions each way). D162 proposals added: D162<->D061 (same DDJ 64 root, verified 0 links each way). D041 proposals added: D041<->D021 (verified 0 links each way). D048 proposals added: D048<->B095, D048<->D071 (all verified 0 links each way). D035 proposals added: D035<->D034 (verified 0 links each way). D004 proposals added: D004<->A042, D004<->A004 (all verified 0 links each way). D013 proposals added: D013<->B048 (verified 0 links each way). D030 proposals added: D030<->D019 (verified 0 links each way). D099 proposals added: D099<->D055 (verified 0 links each way). D148 proposals added: D148<->D041 (verified 0 links each way). D148/D041 proposal whys narrowed to thematic (advisor, milestone QC round 3). BI009 proposals added: BI009<->D148 (verified 0 links each way). P055 proposals added: P055<->P092 (both p1g, verified 0 links each way). P027 proposals added: P027<->P028 (verified 0 links each way). P143 proposals added: P143<->BI009 (verified 0 links each way). P157 proposals added: P157<->S020 (verified 0 links each way). Milestone QC round 4 (advisor): all recent proposal whys narrowed to thematic comparisons; P027 record name fixed to file stem. sources_checked reconciled to 9 opened works. P179 proposals added: P179<->A079 (verified 0 links each way). P190 proposals added: P190<->D005 (verified 0 links each way). P092 proposals added: P092<->P093 (verified 0 links each way). Milestone QC round 5: P179<->A079 and P190<->D005 whys rewritten after reading both bodies (A079 is Aristotle-based, not savoring research). sources_checked reconciled to 13 opened works. P172 proposals added: P172<->P179 (verified 0 links each way). Y015 proposals added: Y015<->AF004 (verified 0 links each way). QC round 10 (advisor): CO052/CO066/E026/E031/E080 corrections applied; 4 backlink-gap proposals recorded (Yin and yang, The witness, Self-determination, Openness) after saturation check found no CO052/CO066/E031/E080 mention on those concept pages. QC round 14 (advisor): connection-saturation discovery checks performed (enrich_find.py mention for each principle's core terms). D015<->CO052 and E009<->E026 proposals added (verified 0 links each way). Remaining [NEW] mention hits assessed as already connected via concept hubs (Dialectical thinking, Self-distancing, Fusion of horizons, Being-with (Mitsein)) \u2014 no additional proposal warranted."

@@ -15,11 +15,11 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 
 The Kross et al. (2014) paper opens with the question the research was built to answer.
 
-> Does the language people use to refer to the self during introspection influence how they think, feel, and behave under social stress? (Kross et al., "Self-Talk as a Regulatory Mechanism: How You Do It Matters," Journal of Personality and Social Psychology 106(2), 2014, [author-site PDF](https://sites.lsa.umich.edu/emotion-selfcontrol-psych/wp-content/uploads/sites/1322/2024/07/KrossJ_Pers_Soc_Psychol2014Self-talk_as_a_regulatory_mechanism_How_you_do_it_matters.pdf))
+> Does the language people use to refer to the self during introspection influence how they think, feel, and behave under social stress? (Kross et al., "Self-Talk as a Regulatory Mechanism: How You Do It Matters," Journal of Personality and Social Psychology 106(2), 2014, Abstract, p. 304, [author-site PDF](https://sites.lsa.umich.edu/emotion-selfcontrol-psych/wp-content/uploads/sites/1322/2024/07/KrossJ_Pers_Soc_Psychol2014Self-talk_as_a_regulatory_mechanism_How_you_do_it_matters.pdf))
 
 Seven studies examined these questions (total N = 585). Studies 1a and 1b found enhanced self-distancing when participants used non-first-person pronouns and their own names rather than first-person pronouns during introspection. In Studies 2 and 3, the non-first-person group performed better according to objective raters and displayed less distress. The Study 6 meta-analysis detected no moderation by trait social anxiety.
 
-> Together, these findings demonstrate that small shifts in the language people use to refer to the self during introspection consequentially influence their ability to regulate their thoughts, feelings, and behavior under social stress, even for vulnerable individuals. (Kross et al., 2014, same PDF)
+> Together, these findings demonstrate that small shifts in the language people use to refer to the self during introspection consequentially influence their ability to regulate their thoughts, feelings, and behavior under social stress, even for vulnerable individuals. (Kross et al., 2014, Abstract, p. 304, same PDF)
 
 **Plain words** The technique is one word of grammar. Instead of asking "why am I anxious about this," ask "why is [your name] anxious about this." The paper found this shift is associated with better rated performance and less distress under social stress.
 
