@@ -59,7 +59,8 @@
   "P067",
   "A068",
   "E105",
-  "E103"
+  "E103",
+  "PP010"
  ],
  "in_progress": null,
  "flagged": {
@@ -75,7 +76,7 @@
   "D114": "Reopened for QC: mis-marked done before start by operator error; rewriting now"
  },
  "missing_concepts": [],
- "sources_checked": 54,
- "updated": "2026-10-19T13:43:03+00:00",
+ "sources_checked": 57,
+ "updated": "2026-10-19T13:43:40+00:00",
  "band_done": false
 }

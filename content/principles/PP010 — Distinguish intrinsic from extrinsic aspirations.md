@@ -12,13 +12,25 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 ---
 > **Principle 10** — Distinguish intrinsic from extrinsic aspirations
 
-Intrinsic aspirations (growth, connection, contribution) predict well-being. Extrinsic aspirations (wealth, fame, image) predict lower well-being and higher distress. The distinction is not that money or recognition are harmful but that when they become the primary organising goals, they undermine the satisfaction of basic psychological needs.
+Kasser and Ryan (1996) measured how central different life goals were to people, and how that related to wellbeing. Their [abstract](https://journals.sagepub.com/doi/10.1177/0146167296223006) reports that in adults, "the relative importance and efficacy of extrinsic aspirations for financial success, an appealing appearance, and social recognition were associated with lower vitality and self-actualization and more physical symptoms."
+
+### The two sets of goals
+
+The intrinsic set in that paper is "self-acceptance, affiliation, community feeling, and physical health", and it was "associated with higher well-being and less distress". A second study with college students replicated the pattern and added narcissism and daily affect. The principle's "growth, connection, contribution" is a looser summary of this list.
+
+### Does reaching them help?
+
+Niemiec, Ryan and Deci (2009) followed a post-college sample for a year. Reaching intrinsic aspirations went with better psychological health, and that link ran through [satisfaction of the basic needs](https://acuresearchbank.acu.edu.au/items/56434984-2e2a-4bf2-b375-50dfe4868d17) for autonomy, competence and relatedness. Reaching extrinsic aspirations did not improve psychological health, and "related positively to indicators of ill-being". Both sets of goals were more likely to be reached when they were held as important.
+
+### Limits
+
+These are associations from observational studies, not proof that wealth or recognition cause distress. Niemiec and colleagues describe extrinsic goals as those "typically pursued as a means to some separable outcome" and "not directly linked to satisfaction of the basic psychological needs", which is a claim about the goals' relation to needs, not about money as such. Whether extrinsic goals "crowd out" needs, as the principle suggests, is a proposed mechanism; the 2009 mediation test was reported for the intrinsic aspirations.
 
 (Kasser and Ryan, 1996; Niemiec et al., 2009.)
 
-**Plain words** Aspirations toward growth, connection and contribution predict well-being. Aspirations toward wealth, fame and image predict lower well-being and more distress. Money and recognition aren't evil, but when they organise your whole life they crowd out what actually feeds you.
+**Plain words** People whose main goals are money, looks and recognition tend to report lower wellbeing than those whose main goals are close relationships, community, self-acceptance and health. Getting the money-and-image goals did not help the people in the 2009 study. None of this says wealth is bad. The question the research asks is which goals sit at the centre.
 
-*For example:* A founder who started a company to help farmers becomes so focused on valuation that the original aim disappears.
+*For example:* Imagine someone who starts a company to help farmers. Two years in, every decision is about valuation, and the farmers rarely come up. In the studies' terms, the centre of their goals has moved.
 
 ## Stories
 
