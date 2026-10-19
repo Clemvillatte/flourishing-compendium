@@ -12,13 +12,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 92** — Live in a thick present
 
-The present is not a knife-edge between past and future; it is a specious present: a short duration that holds a beginning and an end. Widen your present: attend to what is unfolding now, not to a hypothetical instant.
+James's chapter on the perception of time argues that the present has breadth:
+
+> "In short, the practically cognized present is no knife-edge, but a saddle-back, with a certain breadth of its own on which we sit perched, and from which we look in two directions into time. The unit of composition of our perception of time is a duration, with a bow and a stern, as it were — a rearward- and a forward-looking end." (James, The Principles of Psychology, [1890 text](https://archive.org/stream/theprinciplesofp01jameuoft/theprinciplesofp01jameuoft_djvu.txt))
+
+That saddle-back is what the page's concept link calls the specious present: the short duration that is the only present actually had. The page's melody example is the compendium's illustration of it, and the Bergson story below (ST120) carries the same case in his terms. The Whitehead citation in the locator (the concrescence of the present) is the process-philosophy descendant the parallels section carries; this page does not quote it.
 
 (James, The Principles of Psychology, 1890; Whitehead, Process and Reality, 1929.)
 
-**Plain words** The present is not a knife-edge between past and future — it's a specious present: a short duration that holds a beginning and an end. Widen your present: attend to what's unfolding now, not to a hypothetical instant. The moment you can actually live in is bigger than the moment you're told you have.
+**Plain words**
+The instant you are told to live in does not exist at the scale you live at. Your hearing holds a phrase, your step holds a rhythm, your attention holds a sentence from start to end. That holding-range is the present you actually have, and the practice is spending attention on what is unfolding across it rather than hunting the point between.
 
-*For example:* Hearing a melody — you don't hear one instant of a note; you hear the phrase, the tension, the resolve. Your present is that whole phrase. Live there.
+**For example**
+Hearing a melody: you do not hear one instant of a note, you hear the phrase, the tension, the resolve. Your present is that whole phrase. Live there.
+
+## Sources
+
+- [William James, The Principles of Psychology, vol. 1 (1890; full text, archive.org)](https://archive.org/stream/theprinciplesofp01jameuoft/theprinciplesofp01jameuoft_djvu.txt) — ch. on the perception of time (the saddle-back/specious-present passage)
 
 ## Stories
 
