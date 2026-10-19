@@ -13,7 +13,7 @@
   "B010",
   "B018"
  ],
- "in_progress": null,
+ "in_progress": "B024",
  "flagged": {},
  "missing_concepts": [
   {
@@ -23,5 +23,5 @@
   }
  ],
  "sources_checked": 30,
- "updated": "2026-10-19T14:57:15+00:00"
+ "updated": "2026-10-19T14:57:28+00:00"
 }
