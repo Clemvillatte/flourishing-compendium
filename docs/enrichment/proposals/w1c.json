@@ -6,17 +6,8 @@
  ],
  "flagged": {},
  "missing_concepts": [],
-<<<<<<< HEAD
- "sources_checked": 15,
- "inline": [],
-=======
  "sources_checked": 17,
  "inline": [
-  {
-   "into": "SE034",
-   "concept": "Amor sui (right self-love)",
-   "phrase": "implies right self-love"
-  },
   {
    "into": "CO013",
    "concept": "Cognitive flexibility",
@@ -28,7 +19,6 @@
    "phrase": "Cognitive flexibility"
   }
  ],
->>>>>>> ee904f9 (enrich: Cognitive flexibility (w1c))
  "reciprocal": [
   {
    "into": "Conatus",
