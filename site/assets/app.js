@@ -3020,6 +3020,9 @@ function renderModuleCard(mod,num){
 /* ---------- Media row ---------- */
 function renderMediaRow(src,level){
   const row = el('div','acad-media-row'); row.tabIndex=0; row.setAttribute('role','button'); row.setAttribute('aria-label','Open media: ' + (src.title||''));
+  if (src.source_id) { row.dataset.srcId = src.source_id; }
+  const isWatched = !!(src.source_id && A.completed.has(src.source_id));
+  if (isWatched) row.classList.add('watched');
   const lv = el('span',`acad-media-level${(level||'').toLowerCase()==='mastery'?' mastery':''}${(level||'').toLowerCase()==='advanced'?' advanced':''}`, level||'');
   row.appendChild(lv);
   const info = el('div','acad-media-info');
@@ -3027,6 +3030,7 @@ function renderMediaRow(src,level){
   info.appendChild(el('div','acad-media-host',[src.presenter,src.host].filter(Boolean).join(' · ')||''));
   row.appendChild(info);
   if(src.duration){ row.appendChild(el('span','acad-media-duration',src.duration)); }
+  if (isWatched) row.appendChild(el('span','acad-watched-badge','✓ Watched'));
   row.onclick = (e)=>{ e.stopPropagation(); openSource(src); };
   row.onkeydown = (e)=>{
     if(e.key==='Enter' || e.key===' '){
@@ -3099,6 +3103,10 @@ function openEmbeddedPlayer(src, url){
     if(A.completed.has(src.source_id)) A.completed.delete(src.source_id);
     else A.completed.add(src.source_id);
     doneBtn.textContent = A.completed.has(src.source_id)?'✓ Watched':'Mark as watched';
+    // reflect the change on the media rows in the list behind the player
+    document.querySelectorAll('.acad-media-row[data-src-id="' + src.source_id + '"]').forEach(function(r){
+      r.classList.toggle('watched', A.completed.has(src.source_id));
+    });
   };
   foot.appendChild(doneBtn);
   box.appendChild(foot);
