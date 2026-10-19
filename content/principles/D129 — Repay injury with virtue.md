@@ -12,21 +12,21 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 129** — Repay injury with virtue
 
-Requite resentment with kindness: the only response that ends the cycle instead of feeding it.
+Requite resentment with kindness.
 
 Chapter 63 of the Daodejing sets the maxim inside its list of the Tao's ways of handling things:
 
 > "(It is the way of the Tao) to act without (thinking of) acting; to conduct affairs without (feeling the) trouble of them; to taste without discerning any flavour; to consider what is small as great, and a few as many; and to recompense injury with kindness." (DDJ 63 §1, [Legge](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 
-The chapter's second movement explains the timing: the master of the Tao anticipates things that are difficult while they are easy, and does things that would become great while they are small. An injury answered with injury is a small thing being allowed to grow; kindness at the point of injury is the difficult thing handled while it is still easy.
+The chapter's second movement explains its timing: the master of the Tao anticipates things that are difficult while they are easy, and does things that would become great while they are small. Read this way, the maxim asks for the difficult thing while it is still small; what the other person does next remains theirs.
 
 (DDJ 63.)
 
 **Plain words**
-Retaliation is a subscription service: you pay monthly, forever, and the other person has shown no interest in canceling. Someone has to end it, which is not fair, but fairness is not one of the options on offer. Kindness is not pretending the injury did not happen; it is refusing the schedule of repayments.
+In an ordinary disagreement, try meeting the immediate practical need without adding another insult. Retaliation keeps a schedule of repayments running; whether the other person ever cancels it is a separate question, and refusing to add the insult is one way to stop paying.
 
 **For example**
-The neighbor feud that ends when one side brings over the mail they could have kept — the war ends at the doorstep.
+A neighbor feud in which one side brings over the mail that could have been kept, instead of keeping it.
 
 ## Sources
 

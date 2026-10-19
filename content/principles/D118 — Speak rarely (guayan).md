@@ -18,19 +18,19 @@ The Daodejing draws the image from the weather, and makes the comparison explici
 
 > "A violent wind does not last for a whole morning; a sudden rain does not last for the whole day. To whom is it that these (two) things are owing? To Heaven and Earth. If Heaven and Earth cannot make such (spasmodic) actings last long, how much less can man!" (DDJ 23 §1, [Legge](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 
-Speech at full volume is the same kind of acting: it spends the speaker instead of storing anything. Chapter 5 gives the budget rule in verse:
+Chapter 5 gives its rule in verse:
 
 > "Much speech to swift exhaustion lead we see; Your inner being guard, and keep it free." (DDJ 5 §2, [Legge](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 
-The counsel is economy rather than silence. Chapter 17's earliest rulers appeared irresolute, showing by their reticence the importance they set on their words, and their work was done while the people said it had happened of itself.
+Chapter 17's earliest rulers appeared irresolute, showing by their reticence the importance they set on their words; their work was done and the people said it had happened of itself. The chapters present the practice as how those rulers worked, and leave the outcomes with the people.
 
 (DDJ 5, 17, 23.)
 
 **Plain words**
-A violent wind cannot last the morning because it is spending, not storing. Talking works the same way: volume spends the speaker and the listener both. One sentence placed at the right moment does more than an hour of pressure, and unlike the hour, it can be repeated tomorrow.
+When your words did not land, the reflex is to add more of them. Before repeating yourself, decide what the other person actually needs to understand; say that, and leave room for a response. You can speak again if something remains unclear.
 
 **For example**
-The grandparent who says one sentence at the exact right moment — the whole family quotes it for decades.
+Picture the grandparent who says one sentence at the right moment and is quoted by the family for decades.
 
 ## Sources
 
@@ -45,7 +45,7 @@ The grandparent who says one sentence at the exact right moment — the whole fa
 - [[ST043 — Rogers Sings to the Senator|43. Rogers Sings to the Senator]]
 ## Psychology parallels
 
-- **[[Conversational research|Conversational research]]**, quality of conversation, not quantity, predicts well-being (Mehl et al., 2010)
+- **[[Conversational research|Conversational research]]**, well-being relates to less small talk and more substantive conversation (Mehl et al., 2010)
 - **[[Silence in negotiation research|Silence in negotiation research]]**
 
 ## Philosophy parallels

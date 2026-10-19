@@ -2,14 +2,17 @@
  "batch": "p1i",
  "done": [
   "D115",
-  "D118",
   "D129",
   "D142",
-  "D166"
+  "D166",
+  "D118"
  ],
  "in_progress": null,
- "flagged": {},
+ "flagged": {
+  "D118": "Reopened for QC: milestone QC"
+ },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-19T13:25:24+00:00"
+ "updated": "2026-10-19T13:29:22+00:00",
+ "band_done": false
 }
