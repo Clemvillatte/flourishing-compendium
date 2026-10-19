@@ -12,13 +12,21 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 129** — Practice sympathetic understanding
 
-To understand another position, get inside the experience that makes it reasonable: knowledge about is not knowledge of. With strangers and opponents, seek the experience behind the view.
+Addams's sympathetic understanding joins concern for others to learning how they actually live. Shared activities at Hull-House gave neighbours and residents opportunities to know one another, while mistakes exposed the residents' own assumptions ([Hamington, §2a and §2e](https://iep.utm.edu/addamsj/)). Mead describes a related social capacity: viewing oneself from other people's standpoints, so that their anticipated responses enter one's own conduct ([Mead, §18, pp. 138–141](https://brocku.ca/MeadProject/Mead/pubs2/mindself/Mead_1934_18.html)).
+
+> "We did not reckon, however, with the wide diversity in nationality and inherited tastes" ([Addams, Twenty Years at Hull-House, ch. VII](https://standardebooks.org/ebooks/jane-addams/twenty-years-at-hull-house/text/chapter-7)).
+
+Addams admits this after describing a public kitchen whose nutritious food failed to appeal widely. Her account gives sympathetic understanding a practical demand: revise an undertaking when the people it is meant to serve show that its design misses their lives ([Addams, ch. VII](https://standardebooks.org/ebooks/jane-addams/twenty-years-at-hull-house/text/chapter-7)).
 
 (Addams, Twenty Years at Hull-House, 1910; Mead, Mind, Self and Society, 1934.)
 
-**Plain words** The belief that looks insane from outside usually has a street address inside a life. Get inside the experience that makes another position reasonable — knowledge about is not knowledge of.
+### Plain words
 
-*For example:* The anti-vax neighbor who watched a family member's hospital nightmare — you don't have to agree, but now the belief has an origin story instead of a diagnosis.
+Good intentions can leave you mistaken about what someone needs. Spend time with the person, hear what matters to them, and leave room to change your plan. In Addams's account, learning that neighbours wanted safer places to socialise mattered alongside the residents' concern for better food ([Addams, ch. VII](https://standardebooks.org/ebooks/jane-addams/twenty-years-at-hull-house/text/chapter-7)).
+
+### For example
+
+Hull-House's coffeehouse became a place for club suppers and gatherings even though its early food programme met a mixed reception. Addams says the experience taught residents to adapt their undertakings as they discovered what the neighbourhood would accept ([Addams, ch. VII](https://standardebooks.org/ebooks/jane-addams/twenty-years-at-hull-house/text/chapter-7)).
 
 ## Stories
 
