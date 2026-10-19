@@ -9,7 +9,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
 
-Cognitive flexibility is one of the three core executive functions, alongside inhibition and working memory (Miyake et al., 2000; Diamond, 2013). It is the capacity to switch perspectives, think "outside the box", and adapt to changed circumstances; Diamond's review calls it "the opposite of rigidity", notes that it is also called set shifting or mental flexibility, and links it closely to creativity. In the laboratory it is measured with task-switching and set-shifting paradigms, including the Wisconsin Card Sorting Task, "a classic test of prefrontal cortex function".
+Cognitive flexibility is one of the three core executive functions, alongside inhibition and working memory (Miyake et al., 2000; [Diamond, 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC4084861/)). It is the capacity to switch perspectives, think "outside the box", and adapt to changed circumstances; Diamond's review calls it "the opposite of rigidity", notes that it is also called set shifting or mental flexibility, and links it closely to creativity. In the laboratory it is measured with task-switching and set-shifting paradigms, including the Wisconsin Card Sorting Task, "a classic test of prefrontal cortex function".
 
 ### Built on the other two
 
@@ -19,7 +19,7 @@ Task switching improves through childhood and declines during aging (Diamond, 20
 
 ### The broader construct
 
-A related but broader construct is [psychological flexibility](https://pmc.ncbi.nlm.nih.gov/articles/PMC2998793/), defined by Kashdan and Rottenberg as the ability to "recognize and adapt to various situational demands; shift mindsets or behavioral repertoires when these strategies compromise personal or social functioning; maintain balance among important life domains; and be aware, open, and committed to behaviors that are congruent with deeply held values" (2010). Their review argues it is a fundamental aspect of health and notes that in many forms of psychopathology "these flexibility processes are absent". The lab construct covers one corner of this ground: switching perspectives and categories, not the values and life domains the broader construct spans.
+A related construct is [psychological flexibility](https://pmc.ncbi.nlm.nih.gov/articles/PMC2998793/), defined by Kashdan and Rottenberg as the ability to "recognize and adapt to various situational demands; shift mindsets or behavioral repertoires when these strategies compromise personal or social functioning; maintain balance among important life domains; and be aware, open, and committed to behaviors that are congruent with deeply held values" (2010). Their review argues it is a fundamental aspect of health and notes that in many forms of psychopathology "these flexibility processes are absent".
 
 ### In the compendium
 
@@ -41,7 +41,7 @@ The essay question: does the Buddhist training in seeing things as empty of fixe
 
 - [[Executive function theory Miyake]] — the factor-analytic triad this concept completes
 - [[Attentional flexibility (set-shifting)]] — the lab-task side of the same capacity
-- [[Psychological flexibility]] — the broader health construct this feeds into
+- [[Psychological flexibility]] — the clinical cousin spanning values and life domains
 - [[Working memory capacity limits]] — the resource that holds the new perspective
 - [[Shunyata]] — the Buddhist loosening of fixed essence this research echoes
 - [[Nonattachment]] — holding views lightly, the meditative cousin

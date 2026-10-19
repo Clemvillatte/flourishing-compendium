@@ -44,12 +44,12 @@
   {
    "into": "Extended process model of emotion regulation",
    "link": "Anger regulation research",
-   "why": "Gross's later model of how regulation is chosen and implemented"
+   "why": "the strategy-comparison evidence relevant to this model"
   },
   {
    "into": "Anger examined early",
    "link": "Anger regulation research",
-   "why": "the Stoic-style timing insight that matches early intervention"
+   "why": "the empirical study of how anger is regulated"
   },
   {
    "into": "Executive function theory Miyake",
@@ -64,7 +64,7 @@
   {
    "into": "Psychological flexibility",
    "link": "Cognitive flexibility",
-   "why": "the lab-measured cousin of this broader construct"
+   "why": "the executive-function construct, offered as a comparison"
   },
   {
    "into": "Working memory capacity limits",
@@ -79,12 +79,12 @@
   {
    "into": "Nonattachment",
    "link": "Cognitive flexibility",
-   "why": "holding views lightly, the meditative cousin"
+   "why": "the executive-function account of switching perspectives, as a comparison"
   },
   {
    "into": "Dialectical thinking",
    "link": "Cognitive flexibility",
-   "why": "switching between contradictory frames draws on this capacity"
+   "why": "the capacity that switching between contradictory frames draws on"
   },
   {
    "into": "Cognitive reappraisal",
@@ -94,12 +94,12 @@
   {
    "into": "Flexibility as virtue",
    "link": "Cognitive flexibility",
-   "why": "the ethical framing of the capacity the research measures"
+   "why": "the executive-function account offered for comparison with flexibility as a virtue"
   },
   {
    "into": "Goal adjustment capacity",
    "link": "Cognitive flexibility",
-   "why": "disengaging and re-engaging flexibly, applied to goals"
+   "why": "the executive-function construct related to flexible disengagement"
   },
   {
    "into": "Habit",
@@ -114,12 +114,12 @@
   {
    "into": "Implementation intentions",
    "link": "Context-dependent behaviour (Wood & Neal)",
-   "why": "planning that exploits the same context-cue mechanism"
+   "why": "the context-cue mechanism that planning exploits"
   },
   {
    "into": "Situation selection",
    "link": "Context-dependent behaviour (Wood & Neal)",
-   "why": "choosing contexts upstream, the regulation family cue-control belongs to"
+   "why": "the context-cue mechanism that choosing contexts upstream works on"
   },
   {
    "into": "Environmental design",
@@ -129,12 +129,12 @@
   {
    "into": "Designing the environment for virtue",
    "link": "Context-dependent behaviour (Wood & Neal)",
-   "why": "the Aristotelian version of controlling cues"
+   "why": "the research model behind controlling cues, for comparison with the Aristotelian version"
   },
   {
    "into": "Ego depletion",
    "link": "Context-dependent behaviour (Wood & Neal)",
-   "why": "the limited resource the model's inhibition route draws on"
+   "why": "the model whose inhibition route invokes this resource account"
   },
   {
    "into": "Character as habits",
@@ -144,12 +144,12 @@
   {
    "into": "Belief as habit",
    "link": "Context-dependent behaviour (Wood & Neal)",
-   "why": "context-cued responding applied to belief and action"
+   "why": "the research model of context-cued responding, as a comparison"
   },
   {
    "into": "Nudge theory Thaler",
    "link": "Context-dependent behaviour (Wood & Neal)",
-   "why": "choice architecture as cue control at scale"
+   "why": "the context-cue mechanism that choice architecture manipulates"
   }
  ],
  "notes": "First concept: Amor sui (right self-love). All 12 original links preserved. Facets section (vs self-contempt) folded into prose. Definition quote is Ethics IIIp55 scholium (verified against Gutenberg Elwes text); rational demand is IVp18 scholium. Related-clause support sources (SEP Rousseau/Nietzsche/Stoicism, Wikipedia self-compassion) listed in the page's Sources section. | deferred at this run (target band busy): 6 recip, 0 inline"

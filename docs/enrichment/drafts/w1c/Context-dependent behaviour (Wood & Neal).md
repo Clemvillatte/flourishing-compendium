@@ -8,7 +8,9 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC",
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
 
-Context-dependent behaviour is the finding at the centre of Wendy Wood and David Neal's 2007 model of habits. Their definition: "Habits are learned dispositions to repeat past responses. They are triggered by features of the context that have covaried frequently with past performance, including performance locations, preceding actions in a sequence, and particular people." [Gardner's later review](https://pubmed.ncbi.nlm.nih.gov/25207647/) reframes the same idea at the process level: habit is "a process by which a stimulus generates an impulse to act as a result of a learned stimulus-response association" (Gardner, 2015). The impulse, Gardner adds, "need not generate behaviour": it can compete or combine with impulses and inhibitions from other sources, including conscious decision-making.
+Context-dependent behaviour is the finding at the centre of Wendy Wood and David Neal's [2007 model of habits](https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/wood.neal_.2007psychrev_a_new_look_at_habits_and_the_interface_between_habits_and_goals.pdf). Their definition: "Habits are learned dispositions to repeat past responses. They are triggered by features of the context that have covaried frequently with past performance, including performance locations, preceding actions in a sequence, and particular people."
+
+[Gardner's later review](https://pubmed.ncbi.nlm.nih.gov/25207647/) reframes the same idea at the process level: habit is "a process by which a stimulus generates an impulse to act as a result of a learned stimulus-response association" (Gardner, 2015). The impulse, Gardner adds, "need not generate behaviour": it can compete or combine with impulses and inhibitions from other sources, including conscious decision-making.
 
 ### How the cuing works
 
@@ -32,7 +34,7 @@ A108, "Practise habituation through repeated action," is Aristotle's version of 
 - [[Situation selection]] — the emotion-regulation family cue-control belongs to
 - [[Environmental design]] — the applied arm of controlling cues
 - [[Designing the environment for virtue]] — the compendium's Aristotelian version of cue control
-- [[Ego depletion]] — the limited resource effortful inhibition draws on
+- [[Ego depletion]] — the resource account invoked in Wood and Neal's 2007 discussion of inhibition
 - [[Character as habits]] — the character-level reading of the same mechanism
 - [[Belief as habit]] — beliefs as settled dispositions, the Peirce-James cousin
 - [[Nudge theory Thaler]] — choice architecture as cue control at scale
