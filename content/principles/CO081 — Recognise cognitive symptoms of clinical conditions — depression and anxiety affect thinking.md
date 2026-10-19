@@ -12,11 +12,33 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 ---
 > **Principle 81** — Recognise cognitive symptoms of clinical conditions: depression and anxiety affect thinking
 
-Depression and anxiety are not just emotional states; they are cognitive states. Depression produces negative biases in attention, memory, and interpretation. Anxiety produces threat biases and catastrophising. These are symptoms, not truths.
+Depression and anxiety are emotional states with cognitive signatures. In depression, attention is biased toward the negative. In anxiety, attention is biased toward threat, and ambiguous information is more readily appraised as dangerous. These are documented features of the states, worth weighing before treating any single dark thought as a verdict.
 
-**Plain words** Depression and anxiety are cognitive states, not just emotional ones. Depression biases attention, memory, and interpretation toward the negative; anxiety biases them toward threat. The thoughts aren't independent evidence — they're symptoms. Treat the state; the thoughts follow.
+### The depression side
 
-*For example:* The person in the depressive episode who takes every dark thought as testimony ("the evidence is overwhelming that I've failed") — and the reframe that unlocks treatment: the lens itself is tinted. The thoughts are real experiences AND unreliable witnesses while the state runs.
+Depression comes with a documented attentional signature:
+
+> "Indeed, there is evidence that people with depression show increased attention for negative stimuli and decreased attention for positive stimuli compared with non-depressed individuals." — Disner, Beevers, Haigh & Beck, "Neural mechanisms of the cognitive model of depression" ([2011](https://www.psychiatry.wisc.edu/courses/Nitschke/seminar/disner%20beck%202011%20nat%20rev%20neurosci.pdf))
+
+The same review notes that "a persistent sad mood is probably maintained in part by an attentional bias towards negative information in the environment" (Disner et al. 2011).
+
+### The anxiety side
+
+Anxiety has its own signature, documented across many studies: "A wealth of research demonstrates that anxious individuals display an attentional bias towards threatening sources of information, and this effect is less consistent or typically not observed in non-anxious individuals" ([Cisler & Koster 2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC2814889/)). A meta-analysis of 172 studies found the bias with "an aggregate effect size of d = .45" (Bar-Haim et al. 2007, cited in Cisler & Koster 2010). Threat also reaches appraisal: highly anxious people "have the tendency to appraise mild and ambiguously threatening information as highly threatening and will attend to this information" (Cisler & Koster 2010).
+
+### State and verdict
+
+The bias is a feature of the state. It does not settle whether any particular thought is accurate; it tells you which way the search is pointed.
+
+**Plain words** In anxiety, questions read as dangers; in depression, answers read as failures. The move is the same in both: before treating a thought as a fact, ask what state you are in today.
+
+*For example:* Someone with social anxiety reads a friend's short reply as anger. The same reply, on a calm day, reads as a friend in a hurry. The message did not change; the search did.
+
+## Sources
+
+- [Disner, Beevers, Haigh & Beck, "Neural mechanisms of the cognitive model of depression", Nature Reviews Neuroscience 12, 2011 (PDF)](https://www.psychiatry.wisc.edu/courses/Nitschke/seminar/disner%20beck%202011%20nat%20rev%20neurosci.pdf) — depression attentional bias toward negative stimuli
+- [Cisler & Koster, "Mechanisms of attentional biases towards threat in the anxiety disorders", Clinical Psychology Review 30(2), 2010 (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2814889/) — anxious individuals' threat bias; appraisal of ambiguous information; Bar-Haim 2007 effect size
+
 ## Psychology parallels
 
 - **[[Cognitive biases|Cognitive biases in depression]]**, negative interpretation bias, overgeneral memory, and impaired executive function (Disner et al., 2011; Gotlib & Joormann, 2010)
@@ -30,4 +52,4 @@ Depression and anxiety are not just emotional states; they are cognitive states.
 
 ## Practice
 
-- When depressed or anxious, recognise that your thinking is biased, not accurate. Negative thoughts and interpretations are symptoms. Do not treat them as truths about the world.
+- When depressed or anxious, recognise that your thinking may be biased. Negative thoughts and interpretations are symptoms. Do not treat them as truths about the world.
