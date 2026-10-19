@@ -12,16 +12,16 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 267** — Practise forgiveness
 
-Ubuntu supplies the reason forgiveness is a practice rather than a mood. In Tutu's gloss of the idea, harmony and community are the goods, and "anger, resentment, lust for revenge" are corrosive of them, so:
+Tutu connects forgiveness to ubuntu's concern for social harmony and describes resentment and revenge as corrosive of that shared good ([Center for Excellence in Preaching excerpt](https://cepreaching.org/preaching-connections/reading/no-future-without-forgiveness-2/)):
 
 > "To forgive is not just to be altruistic. It is the best form of self-interest."
-> (Tutu, No Future Without Forgiveness, p. 31, [verified excerpt](https://cepreaching.org/preaching-connections/reading/no-future-without-forgiveness-2/))
+> (Tutu, No Future Without Forgiveness, p. 31, as reproduced in the [Center for Excellence in Preaching excerpt](https://cepreaching.org/preaching-connections/reading/no-future-without-forgiveness-2/))
 
-The Truth and Reconciliation Commission he chaired applied this at the scale of a nation: amnesty from prosecution for politically motivated abuses "in return for their full and truthful testimony", under a justice "concerned not so much with punishment as with correcting imbalances, restoring broken relationships" (TRC Final Report, Vol. 1, Ch. 1, para. 36). The compendium's practical reading: forgiveness releases the debt the other person owes you so the relationship can be worked on again, and the release is done for the holder's sake as much as anyone else's. (Tutu, No Future Without Forgiveness; Ubuntu philosophy.)
+The South African Truth and Reconciliation Commission offered amnesty from prosecution for politically motivated human rights abuses in return for full and truthful testimony ([Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/reconciliation/)). The same account quotes Tutu describing restorative justice in terms of correcting imbalances and restoring broken relationships (TRC Final Report, Vol. 1, Ch. 1, para. 36, quoted in the [Stanford Encyclopedia](https://plato.stanford.edu/entries/reconciliation/)). (Tutu, No Future Without Forgiveness; Ubuntu philosophy.)
 
-**Plain words** Resentment works like a debt you keep in your own name: they owe, you collect, and the collection runs on your hours. Forgiveness does not settle the account as if nothing happened; it closes the books so you stop spending your days on it. The wrong stays a fact. Who keeps paying for it is the choice.
+**Plain words** Imagine someone has hurt you and you are planning how to get even. The practical exercise here is to reconsider that aim. You could give up a planned act of retaliation while keeping a record of what happened and taking time to decide whether you want further contact.
 
-*For example:* Someone finally puts down a twenty-year grudge against a sibling. The wrong stays on the record, the monthly rehearsal of it stops, and the two families can share a Christmas again.
+*For example:* Suppose you decide to forgive a sibling after a quarrel. You abandon a message intended to humiliate them and leave the question of future visits undecided.
 ## Stories
 
 - [[ST041 — Shackleton Keeps the Whole Crew Alive|41. Shackleton Keeps the Whole Crew Alive]]
