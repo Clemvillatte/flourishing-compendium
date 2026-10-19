@@ -3,78 +3,93 @@
  "reciprocal": [
   {
    "into": "Wu wei",
-   "link": "D011 — Choose the soft over the hard",
-   "why": "D011's rewritten body links Wu wei as the wider practice; the Wu wei concept page cites no D011"
+   "link": "D011 \u2014 Choose the soft over the hard",
+   "why": "the soft-over-hard choice is one application of this wider effortless-action practice",
+   "_audit_why": "D011's rewritten body links Wu wei as the wider practice; the Wu wei concept page cites no D011"
   },
   {
    "into": "The water metaphor",
-   "link": "D011 — Choose the soft over the hard",
-   "why": "D011's rewritten body links the water model (DDJ 78 quote); the concept page cites no D011"
+   "link": "D011 \u2014 Choose the soft over the hard",
+   "why": "the water's overcoming the hard is the image D011 draws on for choosing the soft",
+   "_audit_why": "D011's rewritten body links the water model (DDJ 78 quote); the concept page cites no D011"
   },
   {
    "into": "The meek",
-   "link": "D011 — Choose the soft over the hard",
-   "why": "D011's philosophy parallels already link The meek; the concept page cites no D011"
+   "link": "D011 \u2014 Choose the soft over the hard",
+   "why": "the meek inherit the earth by the same softness D011 recommends",
+   "_audit_why": "D011's philosophy parallels already link The meek; the concept page cites no D011"
   },
   {
    "into": "Awe",
-   "link": "D008 — See the oneness of things",
-   "why": "D008's psychology parallels link Awe research; the Awe concept page cites no D008"
+   "link": "D008 \u2014 See the oneness of things",
+   "why": "seeing things as one belongs to the same nondual stance as awe",
+   "_audit_why": "D008's psychology parallels link Awe research; the Awe concept page cites no D008"
   },
   {
    "into": "Interoception",
-   "link": "BI053 — Cultivate interoceptive awareness — notice internal signals",
-   "why": "BI053's psychology parallels link Interoception; the concept page cites no BI053"
+   "link": "BI053 \u2014 Cultivate interoceptive awareness \u2014 notice internal signals",
+   "why": "interoceptive awareness is the trained sensitivity this principle asks for",
+   "_audit_why": "BI053's psychology parallels link Interoception; the concept page cites no BI053"
   },
   {
    "into": "Yangsheng (cultivating vitality)",
-   "link": "BI053 — Cultivate interoceptive awareness — notice internal signals",
-   "why": "BI053's philosophy parallels link Yangsheng; the concept page cites no BI053"
+   "link": "BI053 \u2014 Cultivate interoceptive awareness \u2014 notice internal signals",
+   "why": "yangsheng's vitality care rests on noticing inner signals, which this principle trains",
+   "_audit_why": "BI053's philosophy parallels link Yangsheng; the concept page cites no BI053"
   },
   {
    "into": "Being-toward-death",
-   "link": "B055 — Contemplate mortality (maranasati)",
-   "why": "B055's philosophy parallels link Being-toward-death; the concept page cites no B055"
+   "link": "B055 \u2014 Contemplate mortality (maranasati)",
+   "why": "contemplating mortality is a Buddhist practice of dwelling on what the principle names",
+   "_audit_why": "B055's philosophy parallels link Being-toward-death; the concept page cites no B055"
   },
   {
    "into": "The doctrine of the mean",
-   "link": "B084 — Use antidotes skillfully",
-   "why": "B084's philosophy parallels link The doctrine of the mean; the concept page cites no B084"
+   "link": "B084 \u2014 Use antidotes skillfully",
+   "why": "antidotes are used skillfully when they hit the right excess, as this principle times it",
+   "_audit_why": "B084's philosophy parallels link The doctrine of the mean; the concept page cites no B084"
   },
   {
    "into": "Compassion",
-   "link": "B099 — Respond to suffering with the wish to relieve it (karuna in action)",
-   "why": "B099's psychology and philosophy parallels both link Compassion; the concept page cites no B099"
+   "link": "B099 \u2014 Respond to suffering with the wish to relieve it (karuna in action)",
+   "why": "compassion in action is what responding to suffering with the wish to relieve it means",
+   "_audit_why": "B099's psychology and philosophy parallels both link Compassion; the concept page cites no B099"
   },
   {
    "into": "Burnout",
-   "link": "B100 — Keep compassion free of pity (the near enemy)",
-   "why": "B100's psychology parallels link Burnout in helpers; the concept page cites no B100"
+   "link": "B100 \u2014 Keep compassion free of pity (the near enemy)",
+   "why": "compassion that stays free of pity avoids the helper burnout this principle's trap produces",
+   "_audit_why": "B100's psychology parallels link Burnout in helpers; the concept page cites no B100"
   },
   {
    "into": "Sympathy",
-   "link": "B100 — Keep compassion free of pity (the near enemy)",
-   "why": "B100's philosophy parallels link Sympathy; the concept page cites no B100"
+   "link": "B100 \u2014 Keep compassion free of pity (the near enemy)",
+   "why": "sympathy slides into the pity this principle warns against",
+   "_audit_why": "B100's philosophy parallels link Sympathy; the concept page cites no B100"
   },
   {
    "into": "I and Thou",
-   "link": "B100 — Keep compassion free of pity (the near enemy)",
-   "why": "B100's philosophy parallels link the I-Thou versus I-It; the concept page cites no B100"
+   "link": "B100 \u2014 Keep compassion free of pity (the near enemy)",
+   "why": "the I-Thou meeting is pity-free relation, the alternative the principle points to",
+   "_audit_why": "B100's philosophy parallels link the I-Thou versus I-It; the concept page cites no B100"
   },
   {
    "into": "Yin and yang",
-   "link": "P089 — Ride the rhythm of activity and receptivity",
-   "why": "P089's philosophy parallels link the yin-yang rhythm; the concept page cites no P089"
+   "link": "P089 \u2014 Ride the rhythm of activity and receptivity",
+   "why": "the yin-yang rhythm of activity and receptivity is the pattern the principle rides",
+   "_audit_why": "P089's philosophy parallels link the yin-yang rhythm; the concept page cites no P089"
   },
   {
    "into": "Anatta",
-   "link": "CO011 — Recognise that thinking can be fused with its content — you can believe your thoughts",
-   "why": "CO011's philosophy parallels link Anatta (non-identification with mental events); the concept page cites no CO011"
+   "link": "CO011 \u2014 Recognise that thinking can be fused with its content \u2014 you can believe your thoughts",
+   "why": "anatta's non-identification with mental events underlies recognizing thought-fusion",
+   "_audit_why": "CO011's philosophy parallels link Anatta (non-identification with mental events); the concept page cites no CO011"
   },
   {
    "into": "Attention",
-   "link": "E002 — Practise intentionality",
-   "why": "E002's psychology parallels link Attention as selection; the concept page cites no E002"
+   "link": "E002 \u2014 Practise intentionality",
+   "why": "attention as selection is what intentionality trains",
+   "_audit_why": "E002's psychology parallels link Attention as selection; the concept page cites no E002"
   }
  ],
  "notes": "p1e proposals (genuineflourishing28). All concepts are already linked from the principles' side; reciprocals only. D011: Wu wei, The water metaphor, The meek. D008: Awe. BI053: Interoception, Yangsheng. B055: Being-toward-death. B084: The doctrine of the mean. B099: Compassion. B100: Burnout, Sympathy, I and Thou. P089: Yin and yang. CO011: Anatta. E002: Attention."
