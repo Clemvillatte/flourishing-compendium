@@ -24,7 +24,7 @@ Its Buddhist original is [[Karuna]], its Confucian cousin [[Ren]], and its psych
 - [[Ubuntu]] — compassion listed among the marks of a person with ubuntu (Tutu)
 - [[Care]] — being moved by suffering: care's affective engine
 - [[Four immeasurables]] — the general concept karuna instantiates as the second immeasurable
-- [[B099]] — compassion in action is what responding to suffering with the wish to relieve it means
+- [[B099]] — B099's parallels cite compassion training research (Klimecki et al., 2013) for its karuna practice
 ## Sources
 
 - Goetz et al., 2010

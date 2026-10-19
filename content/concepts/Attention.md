@@ -41,7 +41,7 @@ The concept anchors the attention track: AT054 trains attention through delibera
 - [[Deliberate practice]] — attention aimed at improvement
 - [[Care]] — Weil and Noddings both make attention the substance of care
 - [[Mindful attention]] — the underlying capacity being trained
-- [[E002]] — attention as selection is what intentionality trains
+- [[E002]] — E002's parallels cite attention-as-selection research (Posner and Petersen, 1990)
 ## Sources
 
 - [Wikipedia, Attention](https://en.wikipedia.org/wiki/Attention) — original seed citation; James's definition

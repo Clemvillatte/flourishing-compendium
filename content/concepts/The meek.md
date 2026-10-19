@@ -15,7 +15,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 ## Related concepts
 
-- [[D011]] — the meek inherit the earth by the same softness D011 recommends
+- [[D011]] — D011's philosophy parallels pair this Gospel saying with the soft-over-hard choice
 
 ## Sources
 

@@ -16,7 +16,7 @@ chronic effort-reward imbalance (Siegrist, 1996).
 
 ## Related concepts
 
-- [[B100]] — compassion that stays free of pity avoids the helper burnout this principle's trap produces
+- [[B100]] — B100's parallels list helper burnout (Maslach) beside its pity warning
 
 ## Sources
 

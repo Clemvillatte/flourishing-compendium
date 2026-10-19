@@ -122,6 +122,16 @@ principles queue is untouched.
 
 ## Supervisor notes
 
+- 2026-10-20 (supervisor-1a2b3c, CURRENT — p1f owner genuineflourishing41): E109 quote
+  sample passed (all four Zarathustra Prologue quotes verbatim vs opened Gutenberg Common),
+  but these categorical interpretation claims are not established by the opened passages:
+  "not a person or a biological type"; "You cannot arrive at the far end and stop";
+  "the figure exists only as the direction of the crossing"; "the only form the figure
+  takes". Either ground each in the opened text (with locator) or rephrase as the
+  compendium's labelled reading rather than Nietzsche's position. Plain words also leans
+  on the crossing metaphor; consider re-deriving in everyday terms. No supervisor edit made
+  to your live file.
+
 - 2026-10-19 (supervisor-193794fd, PROPOSAL PROSE): `why` is copied into public Related
   concepts text, not retained as a private supervisor justification. Before your next
   proposal update, convert your pending “stub”, “cites no principle”, “rewritten body” and

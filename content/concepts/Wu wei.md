@@ -207,7 +207,7 @@ The philosophical analysis matters because it identifies the structure of the pr
 - [[Effortless action through long effort]] — the training-story side of effortless action: Cook Ding and the nineteen-year blade
 - [[Goal adjustment capacity]] — the Daoist non-forcing that knows when to stop
 - [[Movement as life]] — the non-forcing action that movement requires
-- [[D011]] — the soft-over-hard choice is one application of this wider effortless-action practice
+- [[D011]] — D011 connects its soft-over-hard choice to this practice via Daodejing 43's non-action
 ## Sources
 
 - [Wikipedia, Wu wei](https://en.wikipedia.org/wiki/Wu_wei) — definition, Daodejing chapter references including the chapter 37 formula in Chan and Lau translations, Confucian uses, and Slingerland's dating of the idea.

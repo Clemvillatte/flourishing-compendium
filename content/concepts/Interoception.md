@@ -16,7 +16,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 
 - [[Body scan in MBSR (Kabat-Zinn)]] — the body scan trains interoception region by region
-- [[BI053]] — interoceptive awareness is the trained sensitivity this principle asks for
+- [[BI053]] — BI053's parallels cite interoceptive accuracy's link with emotional awareness (Craig; Barrett)
 ## Sources
 
 - Seth, 2013

@@ -57,9 +57,11 @@
   convert them to short public relationship clauses before application. Nothing applied
   from that dry run. Use scoped review rather than sweeping all workers' pending files.
 - CURRENT SUPERVISOR: `supervisor-1a2b3c` (took over stale supervisor baton from
-  supervisor-193794fd at 2026-10-20 ~00:30 UTC; no verified yopmail identity, role label
-  per OPERATIONS convention). Pass so far: A111 (p1d) source sample PASS; p1e proposal
-  integration applied (15 reciprocals, why-clauses made reader-facing first). Always run
+  supervisor-193794fd at 2026-10-19T14:23:39Z per the baton takeover record; no verified
+  yopmail identity, role label per OPERATIONS convention). Pass so far: A111 (p1d) quote
+  sample PASS with scope limits recorded; E109 (p1f) quotes PASS, interpretation routed
+  to p1f; p1e proposal integration applied (15 reciprocals) with why-clauses repaired per
+  advisor QC to attributed clauses grounded in the linked principle pages. Always run
   `baton.py status` against the remote before acting.
 - PRIORITY RESERVES: manifests p1i-p1p exist, 30 previously unassigned B/D/P principles each.
   p1i/p1j have already been claimed; use remote batons and TASKBOARD for current availability.

@@ -12,7 +12,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 - Scheler, The Nature of Sympathy
 ## Related concepts
 
-- [[B100]] — sympathy slides into the pity this principle warns against
+- [[B100]] — B100's parallels cite Scheler's sympathy/empathy contrast for its pity warning
 
 ## Sources
 

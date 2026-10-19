@@ -15,7 +15,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 ## Related concepts
 
-- [[D011]] — the water's overcoming the hard is the image D011 draws on for choosing the soft
+- [[D011]] — D011 quotes Daodejing 78's water-overcomes-the-hard passage as its case for the soft
 
 ## Sources
 

@@ -22,7 +22,7 @@ Its modern cognate is [[Interoceptive awareness]] — the same body-listening wi
 
 ## Related concepts
 
-- [[BI053]] — yangsheng's vitality care rests on noticing inner signals, which this principle trains
+- [[BI053]] — BI053's parallels list this body-cultivation tradition (Neiye) beside its noticing practice
 
 ## Sources
 

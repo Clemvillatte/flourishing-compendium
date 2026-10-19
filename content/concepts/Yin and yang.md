@@ -21,7 +21,7 @@ The practical value of yin-yang thinking is diagnostic: it trains you to ask whe
 
 ## Related concepts
 
-- [[P089]] — the yin-yang rhythm of activity and receptivity is the pattern the principle rides
+- [[P089]] — P089 cites this rhythm (Daodejing 42) for balancing activity and receptivity
 
 ## Sources
 
