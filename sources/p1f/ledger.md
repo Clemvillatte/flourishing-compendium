@@ -75,3 +75,9 @@ Advisor milestone QC (items 2-6 + D074 re-review) failed on inference-level issu
 - Advisor verdict: the six principle revisions PASS.
 - Proposal corrections applied: Forgiveness->D171 dropped (page concerns interpersonal forgiveness; Arendt section explicitly denies self-forgiveness; the Shame-link label does not establish self-forgiveness coverage). The return to the inner self->D088 justification narrowed to what was actually read (bare ST004 story link in a stub; contextual cross-link). Anger->D074 and Benign versus malicious envy->D117 retained as editorial proposals for supervisor review, stubs noted as not developing arguments.
 - Milestone QC status: PASSED (after 3 rounds). Next: Buddhism items in band p1f (B006, B043, B053, B054, B069, B122, B133, BE020, BI001).
+
+## B006 — Craving is the engine of suffering (tanha) (done 2026-10-19, light check per skip-ahead)
+
+- Page already met the bar (verbatim Bodhi quote with suttacentral URL); light check only. Opened https://suttacentral.net/sn56.11/en/bodhi via fetch workflow: the "Primary source (verbatim)" quote confirmed verbatim ("Now this, bhikkhus, is the noble truth of the origin of suffering: it is this craving which leads to renewed existence, accompanied by delight and lust, seeking delight here and there; that is, craving for sensual pleasures, craving for existence, craving for extermination.").
+- Fixes: unverified inherited locator gloss "(second task: let reactivity be)" removed (no opened source for that framing); plain words replicate first sentence replaced with a two-layers re-derivation; one grounded sentence added to the body (the sutta's three craving forms, from the verified quote) to meet the 40-word floor.
+- Saturation: B006 already cited by Tanha, The craving-to-addiction model, Delight in the ordinary, Desire experience-sampling, Four Noble Truths (and more); no new proposals.
