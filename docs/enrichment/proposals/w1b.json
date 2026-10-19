@@ -17,13 +17,14 @@
   "Express by shaping, not venting",
   "Heart rate variability theory",
   "Identified versus introjected motivation",
-  "Locus of control"
+  "Locus of control",
+  "Narrative identity"
  ],
  "flagged": {
   "Perspective-getting": "seed cites 'Epley et al., 2007' for 'asking beats perspective-taking'; no such perspective-getting paper could be found (canonical: Epley et al. 2004 anchoring; Eyal, Steffel & Epley 2018 JPSP 114(4):547-571 'Perspective mistaking'). Original line kept, prose cites the verified papers."
  },
  "missing_concepts": [],
- "sources_checked": 40,
+ "sources_checked": 41,
  "inline": [],
  "reciprocal": [
   {
@@ -685,6 +686,36 @@
    "target": "content/concepts/Autonomy.md",
    "concept": "Locus of control",
    "why": "SDT's basic need, the compendium's companion construct"
+  },
+  {
+   "target": "content/concepts/Life story model.md",
+   "concept": "Narrative identity",
+   "why": "the psychological research tradition on life stories"
+  },
+  {
+   "target": "content/concepts/Fixed views of self.md",
+   "concept": "Narrative identity",
+   "why": "narrative identity frozen, its pathology"
+  },
+  {
+   "target": "content/concepts/Narrative therapy.md",
+   "concept": "Narrative identity",
+   "why": "the therapeutic rewriting of the story"
+  },
+  {
+   "target": "content/concepts/Meaning-making.md",
+   "concept": "Narrative identity",
+   "why": "the interpretive work stories do"
+  },
+  {
+   "target": "content/concepts/The observing self.md",
+   "concept": "Narrative identity",
+   "why": "the teller distinct from the told"
+  },
+  {
+   "target": "content/concepts/The relational self.md",
+   "concept": "Narrative identity",
+   "why": "identity co-authored with its witnesses"
   }
  ],
  "notes": "continues after lead applied the first proposals file (moved to applied/)"
