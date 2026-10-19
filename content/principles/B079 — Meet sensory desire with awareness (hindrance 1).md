@@ -12,18 +12,24 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 79** — Meet sensory desire with awareness (hindrance 1)
 
-When the pull toward pleasant sights, sounds, and experiences arises, meet it with steady attention: see the pull, the promise, and the eventual dissatisfaction. Desire seen clearly loses its glamour.
+In MN 10, sensual desire is one of the five hindrances to be examined. The practitioner recognises its presence or absence and investigates its arising, abandonment and prevention (Satipaṭṭhāna Sutta, "Mental Qualities," section 1, trans. Thanissaro Bhikkhu, [text](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html)).
 
-(MN 10; SN 46.)
+> "He discerns how there is the arising of unarisen sensual desire." (MN 10, trans. Thanissaro Bhikkhu, [text](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html))
 
-**Plain words** When the pull toward pleasant sights, sounds, and experiences arises, meet it with steady attention — see the pull, the promise, and the eventual dissatisfaction. Desire seen clearly loses its glamour; the ad only works in the dark.
+This is a structured practice of understanding conditions, not simply waiting for every desire to lose its appeal. The discourse asks how a hindrance is abandoned; it does not say that each act of watching automatically weakens it (MN 10, [text](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html)).
 
-*For example:* Watching the shopping urge fully — the promise, the purchase, the Tuesday when it's just a shirt — the loop weakens each time you watch.
+### Plain words
+
+The compendium suggests asking what is drawing you toward something and what seems to strengthen that pull. Notice the expectation as well as the object: what do you hope having it will change? These questions give you something to investigate without requiring the desire to disappear before you make a decision.
+
+### For example
+
+Imagine seeing an advertisement for a shirt you had not planned to buy. Ask whether you want the garment, the imagined occasion for wearing it, or the relief of buying something. Compare that expectation with your budget and needs; the exercise does not guarantee that the urge will fade.
 
 ## Psychology parallels
 
-- **Attentional bias in craving** (Field and Cox, 2008)
-- **Cue reactivity and mindfulness-based interventions** (Brewer, 2013)
+- **Attentional bias in craving**: a review links substance-related attention and craving while cautioning that some measures reflect several processes; it does not establish the same mechanism for every shopping urge ([Field and Cox, 2008, abstract](https://pubmed.ncbi.nlm.nih.gov/18479844/)).
+- **Mindfulness and smoking**: an exploratory analysis associated practice with weaker craving-smoking coupling ([Elwafi et al., 2013, abstract](https://pmc.ncbi.nlm.nih.gov/articles/PMC3619004/)); a later review found no clear quit-rate benefit overall, with low- or very-low-certainty evidence ([Jackson et al., 2022, conclusions](https://pubmed.ncbi.nlm.nih.gov/35420700/)).
 
 ## Philosophy parallels
 
