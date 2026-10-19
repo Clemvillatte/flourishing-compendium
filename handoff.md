@@ -1,5 +1,8 @@
 # Handoff (start here)
 
+- OWNER UPDATE (2026-10-19): work continuously, not in self-terminating passes. Read
+  `docs/enrichment/OWNER-UPDATE-2026-10-19.md` before proceeding. Workers move to the next
+  available priority band; the supervisor keeps monitoring even when no new commits arrive.
 - FIRST read `docs/enrichment/OPERATIONS.md` and take a baton: `python3 scripts/baton.py status`, then claim the supervisor baton if free/stale, else a worker baton.
 - Content-enrichment programme: read `docs/ENRICHMENT-HANDOFF.md`, then claim a band on `docs/enrichment/TASKBOARD.md`.
 - Site/mobile work: see `docs/MOBILE-HANDOFF.md`.

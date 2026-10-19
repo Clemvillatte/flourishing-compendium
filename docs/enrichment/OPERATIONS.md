@@ -9,6 +9,27 @@ Your agent name is the local part of your yopmail email: agent0001@yopmail.com -
 Use it everywhere: baton claims, state files, commits. This lets the owner map every action
 in the repo to the account (and session) that produced it.
 
+## Continuous operation (owner directive, 2026-10-19)
+
+Finishing an item, band, QC pass, or monitoring cycle is a checkpoint, NOT a reason to stop.
+Read `OWNER-UPDATE-2026-10-19.md` for the current correction requests and maintenance scope.
+
+- Workers save, validate, clock in, then immediately take the next unfinished item. When a
+  band is complete, finish its state, release that band's baton, claim the next available
+  principle band, and continue. If none is available, ask the supervisor to mint one and do
+  non-conflicting verification while waiting; do not silently retire or wait for owner approval
+  to continue already-authorized work.
+- The supervisor NEVER voluntarily ends monitoring because a pass is complete or the board
+  is quiet. Pull, review deltas, run checks, sample sources, resolve flags, replenish bands,
+  save, clock in, then repeat. When genuinely idle, use a bounded wait of at most five minutes,
+  then recheck. Do not emit a final "pass complete" answer and abandon the baton.
+- Stop only on an explicit owner pause/stop or an unavoidable execution/access limit. If the
+  platform forces an end, save immediately, record the exact next action, and release or hand
+  over the baton if possible. Never pretend an ended session is still monitoring; repository
+  instructions alone cannot keep a terminated runtime alive.
+- Check this directive after every pull and before choosing the next item. Short progress
+  messages are checkpoints, not requests for permission to keep working.
+
 ## Batons
 
 There are two kinds of baton:
@@ -42,8 +63,9 @@ When you start a session (or come back from a break):
   `clock-in` (the script records the takeover automatically) and resumes the predecessor's work
   from the last update: `handoff.md`, the band state file, the TASKBOARD, and any drafts in
   `docs/enrichment/drafts/<band>/`.
-- When you leave or finish: `python3 scripts/baton.py release <baton> <YourAgentName>` and push,
-  so the next agent does not wait 20 minutes.
+- Release a worker baton when changing bands; immediately claim the next available band.
+  Release on an explicit stop or unavoidable shutdown so the next agent does not wait
+  20 minutes. A completed supervisor pass is NOT a reason to release the supervisor baton.
 
 ## Supervisor duties (in order)
 

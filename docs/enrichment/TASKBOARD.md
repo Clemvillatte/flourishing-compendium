@@ -2,6 +2,10 @@
 
 Any agent starting on this repository: read `docs/ENRICHMENT-HANDOFF.md` first, then take a baton (see `docs/enrichment/OPERATIONS.md`), then claim work here.
 
+Owner update, 2026-10-19: read `OWNER-UPDATE-2026-10-19.md`. A pass is not a stopping
+point. Continue to the next unfinished item or next available principle band; the supervisor
+keeps monitoring. Only an explicit owner stop or unavoidable runtime limit ends work.
+
 ## How to claim
 
 1. Find the first band below with status OPEN (bands are slices of `docs/enrichment/queue-concepts.json`, highest graph degree first).
