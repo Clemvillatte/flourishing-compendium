@@ -63,11 +63,12 @@
   "Showing versus saying": "QC repair: translation re-attributed to Pears-McGuinness (verified vs opened text incl. prop. 7); 'shortest in the book' and intent-gloss removed; 6.41/6.42 added verbatim; Daoist/Zen marked as comparisons. IS-IT-A-CONCEPT: the saying-showing distinction is defined in the opened primary text (Tractatus 4.1212), so kept as a concept, not a comparison page",
   "Slow-paced breathing": "QC repair: one-month duration restored; no subgroup overstatement; '[t]he enhancement' capitalization fixed; Balban framed as related evidence not rate-mechanism confirmation; review limitation (young healthy participants) added; Pranayama priority claim removed",
   "Taking the role of the other": "QC repair: 'He must know' capital restored; play quote made contiguous; direct PDF URL cited; generalized-other and me/I passages quoted verbatim from opened PDF; 'experimental descendant' softened to comparison",
-  "The capacity to be alone": "DUPLICATE for supervisor review: 'Capacity to be alone (Winnicott)' (rich, NOT in w1d manifest) and 'The capacity to be alone' (this band) both carry the Winnicott 1958 citation; merge/rename decision per concept-namespace-audit rules"
+  "The capacity to be alone": "DUPLICATE for supervisor review: 'Capacity to be alone (Winnicott)' (rich, NOT in w1d manifest) and 'The capacity to be alone' (this band) both carry the Winnicott 1958 citation; merge/rename decision per concept-namespace-audit rules",
+  "The smallest complete practice": "IS-IT-A-CONCEPT check for supervisor: the term is the compendium's own formulation (S140 names one conscious breath and one kind act), not a term defined in an opened classical source; the breath half is grounded in MN 118 and the step half in DDJ 64, but the pairing itself is compendium-internal. Classification decision (concept page vs principle support page) belongs to the supervisor per concept-namespace-audit rules."
  },
  "missing_concepts": [],
  "sources_checked": 131,
- "updated": "2026-10-19T12:55:32+00:00",
+ "updated": "2026-10-19T13:01:54+00:00",
  "qc_log": {
   "Escape from freedom": "approved after 4 advisor QC rounds: quotes verified against opened sources (panarchy ch. V excerpt, Wikipedia, IEP Totalitarianism 2.d, SEP Critical Theory 1.4); Simondon Individuation and The having mode removed from Related; cross-tradition links labelled comparisons; sources_checked: 4",
   "Eternal recurrence": "milestone advisor QC applied: practical-reading attribution qualified; AF069 described as the compendium's separate comparison; Panta rhei, Corsi e ricorsi and Three thousand realms claims externally verified; 'Thou art a God' capitalisation matches primary text",

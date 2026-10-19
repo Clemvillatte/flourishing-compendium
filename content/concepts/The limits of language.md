@@ -13,22 +13,22 @@ The limits of language is the Tractatus idea that there is a boundary to what ca
 
 The book's own one-line self-summary is the preface's other famous sentence: "what can be said at all can be said clearly, and what we cannot talk about we must pass over in silence" ([Tractatus preface](https://archive.org/stream/tractatuslogicop05740gut/tloph10.txt)). The same thought closes the book as proposition 7, and the preface also states the diagnosis the whole book is meant to answer: "the reason why these problems are posed is that the logic of our language is misunderstood" ([Tractatus preface](https://archive.org/stream/tractatuslogicop05740gut/tloph10.txt)). Philosophical confusion, on this diagnosis, is not deep error but language misread, and the limit-drawing is meant as a cure, not a restriction imposed from outside.
 
-The book's final move restricts its own claim to what can be said. Its propositions are "elucidatory" and meant to be recognized as senseless once used, "He must so to speak throw away the ladder, after he has climbed up on it" (6.54) ([Tractatus](https://archive.org/stream/tractatuslogicop05740gut/tloph10.txt)). The limits of language are where saying stops and showing, and silence, take over; the companion page on that distinction carries the rest.
+The book ends by disclaiming its own statements. Proposition 6.54 says its propositions are elucidatory, and that once they have been used, "He must so to speak throw away the ladder, after he has climbed up on it" ([Tractatus 6.54](https://archive.org/stream/tractatuslogicop05740gut/tloph10.txt)). The reader is not left holding a doctrine; the sentences point past themselves to what can only be shown, and the companion page on that distinction carries the rest.
 
 ### In the compendium
 
 - [[B172 — Value silence]] — the practice of what the limit implies
-- [[B129 — Point directly at experience]] — the Zen method for what lies past the limit
+- [[B129 — Point directly at experience]] — a Zen practice aimed at what lies past words, as a comparison
 - [[CO078 — Understand the role of language in thinking — words shape thought]] — the constructive side: within the limit, language does the thinking
 - [[ST291 — The Tower of Babel]] — the compendium's story of language's reach and its failure
 
 ## Related concepts
 
 - [[Showing versus saying]] — what can only be displayed, the other side of the limit
-- [[Language games]] — the later Wittgenstein's answer to where meaning lives instead
-- [[Apophatic theology]] — the tradition that reveres the far side of the limit
-- [[Koan practice]] — the device for exhausting what the limit keeps out
-- [[Tacit knowledge research]] — Polanyi's account of what we know beyond what we can say
+- [[Language games]] — Wittgenstein's later account of meaning
+- [[Apophatic theology]] — a tradition with a related reverence for the unsayable
+- [[Koan practice]] — a Zen device with a related aim
+- [[Tacit knowledge research]] — Polanyi's account of what we know beyond what we can say, a comparison
 
 ## Sources
 

@@ -98,3 +98,27 @@ over w1d from stale Agent D).
 - Mead 1934 PDF (ia601500.us.archive.org) re-opened; development-of-self
   (MSS section 18) and indirect-experience passages verified verbatim —
   The social self
+
+## QC round 3 (advisor, items 16-25 sample)
+
+- Fixes applied and validated: The common good (removed "oldest argument"
+  framing; fuller Politics 1253a perception quote added; distributive gloss
+  reworded), The limits of language (ladder passage description cautious;
+  comparisons labelled), The many become one (actual-occasion framing; shrug
+  comparison removed; Unity of opposites proposal deferred), The natural
+  attitude (epoché vs reduction separated; lifeworld progression reworded),
+  The need to belong (five-criteria claim removed; "Lack" capitalization
+  fixed; SDT/attachment glosses marked comparisons; crowd claim reworded),
+  The search for meaning (camps framing reworded to the article's claim;
+  stimulus-response sentence removed; tertiary-source citation phrasing
+  "as quoted in"), The smallest complete practice (chapter 63 → 64.3 fix;
+  "practice in miniature" removed; kind-act half marked compendium-internal),
+  The social self (second person removed; Part III sec. 18 locators added;
+  solitude/fiction claims removed), The ten thousand things (wanwu linguistic
+  claim removed; sage passage added; pipes/qiwu inference reworded as the
+  compendium's reading), The theoretical life (X.8 1178a9 secondary-degree
+  passage opened and quoted; A091 marked compendium reading).
+- The smallest complete practice flagged to the supervisor for IS-IT-A-
+  CONCEPT classification.
+- Perseus Politics 1253a re-opened for verification; Perseus NE 1178a
+  (X.8) opened this round.

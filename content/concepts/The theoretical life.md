@@ -15,7 +15,7 @@ Rackham's rendering of the verdict: "And that happiness consists in contemplatio
 
 ### Higher than the human level
 
-The passage that made the chapter famous follows, and Aristotle does not soften it: "Such a life as this however will be higher than the human level: not in virtue of his humanity will a man achieve it, but in virtue of something within him that is divine" ([NE X.7 1177b26, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abekker+page%3D1177b)). Against those who say a man should have man's thoughts, he answers: "we ought so far as possible to achieve immortality, and do all that man may to live in accordance with the highest thing in him" ([NE X.7 1177b33, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abekker+page%3D1177b)). The book then adds the practical caveat the compendium keeps: this life is not the only happy one, and the political life of practical virtue is happy in a secondary degree. A091's rule, integrate contemplation and action, is the compendium's settlement of that tension.
+The passage that made the chapter famous follows, and Aristotle does not soften it: "Such a life as this however will be higher than the human level: not in virtue of his humanity will a man achieve it, but in virtue of something within him that is divine" ([NE X.7 1177b26, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abekker+page%3D1177b)). Against those who say a man should have man's thoughts, he answers: "we ought so far as possible to achieve immortality, and do all that man may to live in accordance with the highest thing in him" ([NE X.7 1177b33, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abekker+page%3D1177b)). The book then adds the caveat that keeps the chapter practical: "The life of moral virtue, on the other hand, is happy only in a secondary degree. For the moral activities are purely human" ([NE X.8 1178a9, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abekker+page%3D1178a)). The theoretical life is highest, not exclusive; the compendium's A091, integrate contemplation and action, is its own reading of that tension.
 
 ### In the compendium
 
@@ -34,7 +34,7 @@ The passage that made the chapter famous follows, and Aristotle does not soften 
 
 - Aristotle, NE X.7-8
 
-- [Aristotle, Nicomachean Ethics X.7-8, Rackham translation, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abekker+page%3D1177a) — the perfect-happiness and contemplation passages verbatim (opened; 1177b page also opened)
+- [Aristotle, Nicomachean Ethics X.7-8, Rackham translation, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abekker+page%3D1177a) — the perfect-happiness and contemplation passages verbatim (opened; 1177b and 1178a pages also opened)
 
 ## Cited in philosophy parallels
 
