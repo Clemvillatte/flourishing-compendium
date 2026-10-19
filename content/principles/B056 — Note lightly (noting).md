@@ -12,13 +12,22 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 56** — Note lightly (noting)
 
-Label experience as it arises: "thinking," "feeling," "planning" — just enough to notice without getting carried off. The label is a finger pointing, not the thing.
+The Mahasi instructions give the practice:
+
+> "We must make ourselves aware of these mental phenomena by observing them and noting thus: 'Seeing, seeing', 'hearing, hearing', 'smelling, smelling', 'tasting, tasting', 'touching, touching', or 'thinking, thinking'." (Mahasi Sayadaw, Practical Vipassana Exercises, [IBC eLibrary](https://ibc-elibrary.thanhsiang.org/files/ebook/Meditation/mahasit1.pdf))
+
+The noting is mental, not spoken: "The rising should be noted mentally as 'rising', and the falling as 'falling'... Note it mentally, not verbally." A wandering mind "must also be noted by mentally saying, 'wandering, wandering'", after which the meditator returns to the primary object. The Sayadaw is explicit that the word itself is secondary: "In vipassanā meditation, what you name or say doesn't matter. What really matters is to know or perceive." The Saṃyutta passage the principle pairs with the tradition shows the pattern: a monk knows "Now a pleasant feeling has arisen in me" (SN 36.7, trans. Nyanaponika Thera, opened at B002).
 
 (Mahasi tradition; SN 36.)
 
-**Plain words** Label experience as it arises — 'thinking,' 'feeling,' 'planning' — just enough to notice without getting carried off. The label is a finger pointing, not the thing. Light touch: you're tagging the fish, not wrestling it.
+**Plain words** The instruction is to put a plain word on what is happening while it happens: "thinking", "worrying", "hearing". The word is not the point; the Sayadaw says knowing is the point. One word, at the moment, and back to what you were doing.
 
-*For example:* 'Worrying, worrying' — the simple act of naming the loop breaks its spell more often than arguing with it ever did.
+*For example:* Imagine the worry loop starting up. Note it as "worrying, worrying" once or twice, as the instructions have it, and return to the primary object. The pattern is note and return.
+
+## Sources
+
+- [Mahasi Sayadaw, Practical Vipassana Exercises, IBC eLibrary](https://ibc-elibrary.thanhsiang.org/files/ebook/Meditation/mahasit1.pdf)
+- SN 36.7, trans. Nyanaponika Thera, IBC eLibrary — opened at B002 this session, re-mined; not recounted
 
 ## Stories
 
