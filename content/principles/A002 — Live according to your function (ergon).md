@@ -12,13 +12,28 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 2** — Live according to your function (ergon)
 
-Aristotle's function argument: the good of a thing is found in its distinctive activity. The human function is rational activity. Flourishing is not a bonus added to life; it is the excellent performance of what humans characteristically do. Orient your life around the question: what is the distinctively human work I am here to do well?
+Aristotle asks what the good life for a human being is, and starts from things that have a job. In W. D. Ross's translation:
 
-(NE I.7.)
+> "For just as for a flute-player, a sculptor, or an artist, and, in general, for all things that have a function or activity, the good and the 'well' is thought to reside in the function, so would it seem to be for man, if he has a function."
+> — Aristotle, Nicomachean Ethics I.7 ([MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html))
 
-**Plain words** Aristotle's thought is that a thing is good when it does what it's distinctively for. A knife cuts well. People, he says, reason and act on that reasoning. So flourishing isn't an add-on to life, it's doing that human work well. What's yours?
+### Finding the human function
 
-*For example:* A nurse who's skilled at the paperwork but gets her energy from sitting with frightened patients might ask whether her best work is the part nobody tracks.
+He rules out nutrition and growth, which are shared with plants, and perception, which is shared with horses and oxen. "There remains, then, an active life of the element that has a rational principle." The function is an activity: "life in the sense of activity is what we mean."
+
+### The conclusion
+
+By analogy, "the function of a lyre-player is to play the lyre, and that of a good lyre-player is to do so well". On this model the function of a good man is "the good and noble performance" of rational activity, so "human good turns out to be activity of soul in accordance with virtue", and "in a complete life", since "one swallow does not make a summer, nor does one day".
+
+### Reading it
+
+Aristotle calls this "an outline of the good", to be filled in later. The question "what is the distinctively human work I am here to do well?" is the compendium's way of putting it to a reader.
+
+(NE I.7, 1097b-1098a.)
+
+**Plain words** Aristotle's idea is that a thing is good when it does its own work well, as a good flute-player plays well. For people, the work is living by reason. So flourishing is not an extra on top of life, it is doing that work well, over a whole life.
+
+*For example:* Imagine a nurse who is quick at the paperwork but gets her energy from sitting with frightened patients. The principle's question is whether her best work is the part nobody tracks.
 
 ## Stories
 
