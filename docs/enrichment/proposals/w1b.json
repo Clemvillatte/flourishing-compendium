@@ -10,13 +10,14 @@
   "Right mindfulness",
   "Temperance",
   "Beginner's mind",
-  "Courage"
+  "Courage",
+  "Creative evolution"
  ],
  "flagged": {
   "Perspective-getting": "seed cites 'Epley et al., 2007' for 'asking beats perspective-taking'; no such perspective-getting paper could be found (canonical: Epley et al. 2004 anchoring; Eyal, Steffel & Epley 2018 JPSP 114(4):547-571 'Perspective mistaking'). Original line kept, prose cites the verified papers."
  },
  "missing_concepts": [],
- "sources_checked": 27,
+ "sources_checked": 29,
  "inline": [],
  "reciprocal": [
   {
@@ -418,6 +419,41 @@
    "target": "content/concepts/Shame.md",
    "concept": "Courage",
    "why": "the citizen-soldier's motive, courage's nearest counterfeit"
+  },
+  {
+   "target": "content/concepts/Emergence.md",
+   "concept": "Creative evolution",
+   "why": "the new arising from the old, the scientific face of creation"
+  },
+  {
+   "target": "content/concepts/Creative advance.md",
+   "concept": "Creative evolution",
+   "why": "Whitehead's process philosophy, the compendium's cousin account"
+  },
+  {
+   "target": "content/concepts/Flow.md",
+   "concept": "Creative evolution",
+   "why": "absorption in making, creativity's everyday face"
+  },
+  {
+   "target": "content/concepts/Curiosity.md",
+   "concept": "Creative evolution",
+   "why": "exploration, the forward-leaning posture of the élan"
+  },
+  {
+   "target": "content/concepts/Growth mindset.md",
+   "concept": "Creative evolution",
+   "why": "the belief that capacities are not yet finished"
+  },
+  {
+   "target": "content/concepts/Art completes what nature begins.md",
+   "concept": "Creative evolution",
+   "why": "the aesthetic completion of life's creative movement"
+  },
+  {
+   "target": "content/concepts/Broaden-and-build.md",
+   "concept": "Creative evolution",
+   "why": "positive emotion widening the field of possible action"
   }
  ],
  "notes": "continues after lead applied the first proposals file (moved to applied/)"
