@@ -12,13 +12,16 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 133** — Let the self-construct fall away (the Great Death)
 
-From time to time, let the whole story of "me": past, future, roles, grievances — fall away and see what remains. What remains is what never needed defending.
+From time to time, let the whole story of "me": past, future, roles, grievances, fall away and see what remains. What remains is what never needed defending. The Zen tradition gives the collapse a name and a warning:
 
-(Zen tradition; Hakuin's "Great Death.")
+> "It is easy to die the Great Death but difficult to regain one's life after that."
+> (Yamada Mumon Roshi on Hakuin, [Tricycle](https://tricycle.org/article/hakuin-ekaku-awakening/))
 
-**Plain words** From time to time, let the whole story of 'me' — past, future, roles, grievances — fall away and see what remains. What remains is what never needed defending. The 'Great Death' is dramatic only to the part of you that was fictional.
+The saying appears in the story of Hakuin's teacher Shoju throwing him out of the room; the warning's weight is on the return. The compendium's reading: the Great Death is the self-construct falling away, and the hard half is coming back to the world and its claims. (Zen tradition; Hakuin's "Great Death.")
 
-*For example:* Losing everything in the flood and finding out you're still someone — the story drowned; the storyteller swam.
+**Plain words** The story of me is a story: past, future, roles, grievances. The exercise is to let it stop for a moment and notice what is still there when it stops. The tradition's warning is about after: coming back to ordinary life with its claims and errands is the hard part. The point is not to stay collapsed.
+
+*For example:* Suppose a flood takes a house and everything in it. What remains is not nothing; the exercise is noticing that the person who remains was never identical to the inventory.
 
 ## Psychology parallels
 
