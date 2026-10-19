@@ -12,13 +12,27 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 13** — Keep the valley-mind: low, open, receptive
 
-The valley receives everything and refuses nothing; being low is why it stays full. Stay a little below things: receptive, humble, able to absorb without breaking.
+The image is hydraulic: water goes down, gathers, and everything drains toward the lowest point. Chapter 66 states the law:
+
+> "That whereby the rivers and seas are able to receive the homage and tribute of all the valley streams, is their skill in being lower than they;--it is thus that they are the kings of them all." (Daodejing 66, [Legge](https://www.gutenberg.org/cache/epub/216/pg216.txt))
+
+The chapter applies it to people in the next breath:
+
+> "So it is that the sage (ruler), wishing to be above men, puts himself by his words below them, and, wishing to be before them, places his person behind them." (Daodejing 66, [Legge](https://www.gutenberg.org/cache/epub/216/pg216.txt))
+
+Chapter 41 makes it a property of the highest virtue, which in Legge's verse rises from the vale. The low position is where the inflow happens. The valley stays full because everything above it drains into it, and the person who takes the low position in a conversation, asking and absorbing instead of defending, ends up holding what everyone else poured out.
 
 (DDJ 28, 32, 41, 66.)
 
-**Plain words** The valley receives everything and refuses nothing; it stays full precisely because it sits low. Keep yourself a little below things — receptive, humble, able to absorb without breaking. People who position themselves above everything get small and dry.
+**Plain words**
+Attention flows downhill. In any group, status contests push people to top each other's points, and every topping move costs them information. The person who stays low and keeps asking is the one people tell things first. The cost is looking like you are not winning, which is the real reason most people sit high.
 
-*For example:* The best listener in the room is usually the one everyone eventually confides in — they're low and open, so everything flows to them.
+**For example**
+The best listener in the room is usually the one everyone eventually confides in: low and open, so everything flows to them.
+
+## Sources
+
+- [Tao Te Ching, trans. James Legge (Project Gutenberg)](https://www.gutenberg.org/cache/epub/216/pg216.txt) — ch. 66 (both blockquotes), ch. 41 (vale verse, paraphrased); the page's Primary source section quote verified verbatim against this opened text
 
 ## Stories
 
