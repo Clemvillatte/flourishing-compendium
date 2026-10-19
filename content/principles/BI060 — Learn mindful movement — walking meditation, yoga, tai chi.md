@@ -12,11 +12,20 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BI — Biophysi
 ---
 > **Principle 60** — Learn mindful movement: walking meditation, yoga, tai chi
 
-Mindful movement combines physical movement with meditative attention. Walking meditation, yoga, tai chi, and qigong are practices that integrate body, breath, and mind.
+Mindful movement combines physical movement with meditative attention: walking meditation, yoga, tai chi, qigong. The strongest trial evidence in this family comes from Wang and colleagues' randomized trial of tai chi in fibromyalgia. Sixty-six patients were assigned to classic Yang-style tai chi or to wellness education and stretching, twice weekly for twelve weeks. The abstract reports, verbatim:
 
-**Plain words** Mindful movement — walking meditation, yoga, tai chi — combines motion with attention, and the combination does more than either alone. The body moving with the mind aboard. Not fitness; presence, embodied.
+> "Of the 66 randomly assigned patients, the 33 in the tai chi group had clinically important improvements in the FIQ total score and quality of life." (Wang, Schmid, Rones, Kalish, Yinh, Goldenberg, Lee and McAlindon, 2010, New England Journal of Medicine 363(8), 743-754, [NEJM full text](https://www.nejm.org/doi/full/10.1056/NEJMoa0912611))
 
-*For example:* The slow walk where each footstep is noticed — the same path as the podcast walk, a different practice entirely. One trains the legs; the other trains the attention that rides them.
+The authors' own conclusion is cautious, verbatim: "Tai chi may be a useful treatment for fibromyalgia and merits long-term study in larger study populations." That is a trial in one pain condition, not a demonstration that mindful movement generally outdoes ordinary exercise. The compendium's wider claims for the family rest on practice experience and are flagged below as inherited.
+
+**Plain words** Mindful movement is motion with attention aboard: the walk where each footstep is noticed, the slow sequence where the breath sets the pace. It is trained attention carried on a moving body, and the trial evidence, where it exists, is specific to the condition studied.
+
+*For example:* The slow walk where each footstep is noticed: the same path as the podcast walk, a different practice entirely. One trains the legs; the other trains the attention that rides them.
+
+## Sources
+
+- [Wang et al., "A Randomized Trial of Tai Chi for Fibromyalgia" (2010), New England Journal of Medicine 363(8), 743-754](https://www.nejm.org/doi/full/10.1056/NEJMoa0912611) — abstract results and conclusions quoted verbatim; tai chi vs wellness education in fibromyalgia
+
 ## Psychology parallels
 
 - **Mindful movement and mental health**, yoga, tai chi, and walking meditation reduce stress and improve well-being (Cramer et al., 2013; Wang et al., 2010)
