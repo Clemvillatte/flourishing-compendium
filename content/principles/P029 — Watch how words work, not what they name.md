@@ -12,13 +12,25 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 29** — Watch how words work, not what they name
 
-The meaning of a word is its use in life: words are moves in games, not labels on essences. When a conversation jams, check the use, not the "real definition."
+The Philosophical Investigations makes the point in a carefully hedged sentence:
+
+> "For a large class of cases—though not for all—in which we employ the word "meaning" it can be defined thus: the meaning of a word is its use in the language." (Philosophical Investigations §43, [Anscombe translation, Internet Archive](https://ia800704.us.archive.org/30/items/OurFaith/Ludwig.Wittgenstein.-.Philosophical.Investigations.pdf))
+
+Section 43 limits this explanation to a large class of cases. In §23, Wittgenstein places language within activities such as ordering, reporting and praying. Section 116 asks philosophers to check their abstract uses of words against familiar situations in which those words are used ([Philosophical Investigations §§23, 43, 116](https://ia800704.us.archive.org/30/items/OurFaith/Ludwig.Wittgenstein.-.Philosophical.Investigations.pdf)).
+
+One practical application is to examine what speakers are trying to accomplish before arguing over a definition.
 
 (Later Wittgenstein, Philosophical Investigations, 1953.)
 
-**Plain words** The meaning of a word is its use in life — words are moves in games, not labels on essences. When a conversation jams, check the use, not the 'real definition.' Half of all arguments are two people using one word for two jobs.
+**Plain words**
+When a discussion stalls, ask each speaker for a specific example. What does each person want someone to do, and when would they judge it appropriate? Compare those cases before arguing about a definition. This exercise leaves open whether the disagreement concerns the word or the conduct itself.
 
-*For example:* 'We need to be more professional' — she means punctual, he means formal dress. The argument dissolves the moment the uses are compared.
+*For example:*
+Suppose one colleague uses "professional" to mean arriving on time, while another means wearing formal clothes. Ask each to identify the behaviour they want changed, then discuss which requests are justified.
+
+## Sources
+
+- [Wittgenstein, Philosophical Investigations (1953), G. E. M. Anscombe translation, hosted at the Internet Archive](https://ia800704.us.archive.org/30/items/OurFaith/Ludwig.Wittgenstein.-.Philosophical.Investigations.pdf) — §43 quoted verbatim; §§23 and 116 paraphrased with citations
 
 ## Stories
 
