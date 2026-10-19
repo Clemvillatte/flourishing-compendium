@@ -12,13 +12,15 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 138** — Take responsibility for the social conditions of growth
 
-Individuals grow in conditions that others make: family, school, workplace, polity. You are part of others' conditions: take that seriously in every role.
+Dewey's account of growth in Democracy and Education refuses to locate it inside the individual. "Society continues to exist by transmission, by communication; it may fairly be said to exist in transmission, in communication" ([Dewey 1916, Gutenberg](https://www.gutenberg.org/cache/epub/852/pg852.txt)). Growth is not a private project that happens to take place near other people; the others are part of the mechanism. School, family and workplace are not the setting of growth; they are the material it is made of.
 
-(Dewey, Human Nature and Conduct, 1922; Addams, Twenty Years at Hull-House, 1910.)
+Addams's Twenty Years at Hull-House is the ground-level version of the same claim: every attempt the settlement made to improve its neighbours' lives failed until the neighbours were in the room, and the settlement was itself changed by what it learned ([Addams 1910, Gutenberg](https://www.gutenberg.org/ebooks/2396)). You cannot design someone else's growth from outside; you can only be a condition inside it.
 
-**Plain words** Individuals grow in conditions that others make — family, school, workplace, polity. You are part of others' conditions: take that seriously in every role. The teacher, the boss, the landlord: each is somebody's weather.
+> "The individual has a very good time in society, if he can get into it... But to have a good time is not the same thing as to grow; and the conditions of growth are not identical with those of individual pleasure." (John Dewey, Democracy and Education, 1916, [Gutenberg](https://www.gutenberg.org/cache/epub/852/pg852.txt))
 
-*For example:* The manager who realizes her moods set the team's temperature — she's not having a private bad day anymore. She's the environment. That realization changes the job.
+**Plain words** Every time you manage, teach, parent or host, you are not just a person having a day; you are the weather someone else is developing inside. The manager who comes in short-tempered has not had a bad morning, she has changed the temperature of ten other people's work. This is not a guilt trip; it is an accurate job description. Once you see yourself as a condition rather than a character, the same day produces different behaviour; you start managing the room, not just your mood.
+
+*For example:* Two managers both have a hard week. One lets the frustration show and treats it as personal; the team absorbs the mood and lowers their voice. The other takes five minutes before the meeting, names the week out loud, and asks the team what they need; the same difficulty is now shared information rather than ambient weather. Same difficulty; one of them was the environment.
 
 ## Psychology parallels
 
