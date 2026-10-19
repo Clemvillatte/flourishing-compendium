@@ -61,7 +61,8 @@
   "BE001",
   "AT064",
   "BE009",
-  "BE019"
+  "BE019",
+  "BE022"
  ],
  "in_progress": null,
  "flagged": {
@@ -110,11 +111,12 @@
   "BE001": "Reopened for QC: QC rework round 2: advisor fixes applied, awaiting acceptance",
   "BE006": "inherited Hanley, Hayes, Vilardaga, Socrates/Nietzsche/Buddhism parallels not opened; preserved",
   "BE009": "inherited Skinner, Ferster, Beck, Laozi, Buddhist, Aristotle parallels not opened; preserved",
-  "BE019": "inherited Lewinsohn 1976/1978, MacPhillamy 1976, Aristotle, Huizinga, mudita parallels not opened; preserved"
+  "BE019": "inherited Lewinsohn 1976/1978, MacPhillamy 1976, Aristotle, Huizinga, mudita parallels not opened; preserved",
+  "BE022": "inherited Linehan 1993, Rizvi-Linehan 2005, Aristotle, Buddhist, Kant parallels not opened; preserved"
  },
  "missing_concepts": [],
- "sources_checked": 36,
- "updated": "2026-10-19T14:58:41+00:00",
+ "sources_checked": 37,
+ "updated": "2026-10-19T14:59:11+00:00",
  "band_done": false,
  "takeover": {
   "by": "genuineflourishing35",
