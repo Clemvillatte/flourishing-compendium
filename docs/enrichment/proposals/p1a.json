@@ -1,0 +1,11 @@
+{
+ "inline": [],
+ "reciprocal": [
+  {
+   "into": "Acceptance",
+   "link": "S001 — Distinguish what is up to you from what is not",
+   "why": "the Stoic principle that parallels ACT acceptance; the seed page cites no principle"
+  }
+ ],
+ "notes": "p1a proposals (recreated after the b6fcc59 integration archived the previous file): Acceptance -> S001 reciprocal (S001). Earlier proposals (De -> Dao inline, Philia -> A063 reciprocal) were applied/archived by the b6fcc59 integration run."
+}
