@@ -40,11 +40,14 @@ def main():
         print(__doc__)
         return 1
     band = args[0]
-    if band in ('show',) and len(args) == 1:
-        path, st = load('w1a')
+    if 'show' in args:
+        found = False
         for b in sorted(os.listdir(BANDS)):
             if b.endswith('.json'):
                 print(b, '->', json.dumps(json.load(open(os.path.join(BANDS, b))), ensure_ascii=False)[:400])
+                found = True
+        if not found:
+            print('no state files yet')
         return 0
     cmd = args[1] if len(args) > 1 else ''
     path, st = load(band)
