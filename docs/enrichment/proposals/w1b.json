@@ -22,13 +22,14 @@
   "Participate: do with, not to",
   "Prosocial spending",
   "The seasons of life",
-  "Apatheia"
+  "Apatheia",
+  "Death reflection"
  ],
  "flagged": {
   "Perspective-getting": "seed cites 'Epley et al., 2007' for 'asking beats perspective-taking'; no such perspective-getting paper could be found (canonical: Epley et al. 2004 anchoring; Eyal, Steffel & Epley 2018 JPSP 114(4):547-571 'Perspective mistaking'). Original line kept, prose cites the verified papers."
  },
  "missing_concepts": [],
- "sources_checked": 48,
+ "sources_checked": 51,
  "inline": [],
  "reciprocal": [
   {
@@ -855,6 +856,41 @@
    "target": "content/concepts/Wu wei.md",
    "concept": "Apatheia",
    "why": "non-forcing, the Daoist cousin of non-struggling"
+  },
+  {
+   "target": "content/concepts/The seasons of life.md",
+   "concept": "Death reflection",
+   "why": "mortality inside the life cycle"
+  },
+  {
+   "target": "content/concepts/Gratitude.md",
+   "concept": "Death reflection",
+   "why": "the affect death reflection reliably lifts"
+  },
+  {
+   "target": "content/concepts/Impermanence.md",
+   "concept": "Death reflection",
+   "why": "the Buddhist ground of the same contemplation"
+  },
+  {
+   "target": "content/concepts/Delight in the ordinary.md",
+   "concept": "Death reflection",
+   "why": "what finitude makes visible"
+  },
+  {
+   "target": "content/concepts/Meaning-making.md",
+   "concept": "Death reflection",
+   "why": "the interpretive yield of facing death"
+  },
+  {
+   "target": "content/concepts/Savoring.md",
+   "concept": "Death reflection",
+   "why": "appreciation practice on the near side of death"
+  },
+  {
+   "target": "content/concepts/Prosocial spending.md",
+   "concept": "Death reflection",
+   "why": "the intrinsic orientation it can induce"
   }
  ],
  "notes": "continues after lead applied the first proposals file (moved to applied/)"
