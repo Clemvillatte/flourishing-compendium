@@ -14,7 +14,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 
 Tutu describes the idea the principle is named for:
 
-> "Ubuntu … means my humanity is caught up, is inextricably bound up, in theirs. We belong to a bundle of life. We say, 'a person is a person through other people'. It is not 'I think therefore I am'. It says rather: 'I am human because I belong'. I participate, I share." (Tutu, No Future Without Forgiveness, 2009 edn., pp. 34-35, quoted in [Banda & Mudzanire 2019](http://hts.org.za/index.php/hts/article/download/5468/13242))
+> "Ubuntu … means my humanity is caught up, is inextricably bound up, in theirs. We belong in a bundle of life. We say, 'a person is a person through other people'. It is not 'I think therefore I am'. It says rather: 'I am human because I belong'. I participate, I share." (Tutu, No Future Without Forgiveness, 2009 edn., pp. 34-35, quoted in [Banda & Mudzanire 2019](http://hts.org.za/index.php/hts/article/download/5468/13242))
 
 Mbiti gives the formula the title echoes: "I am, because we are; and since we are, therefore I am" (Mbiti, African Religions and Philosophy, 1990 edn., p. 106, quoted in the same article). Tutu draws the practical consequence: a person with ubuntu "is diminished when others are humiliated or diminished, when others are tortured or oppressed, or treated as if they were less than who they are".
 

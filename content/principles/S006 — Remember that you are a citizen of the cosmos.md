@@ -14,7 +14,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 
 The Meditations argument the principle is built on:
 
-> "If reason is general, then is that reason also, which prescribeth what is to be done and what not, common unto all. If that, then law. If law, then are we fellow-citizens. If so, then are we partners in some one commonweal. If so, then the world is as it were a city." (Meditations IV.4, trans. George Long, [Project Gutenberg](https://www.gutenberg.org/files/2680/2680-h/2680-h.htm))
+> "If reason is general, then is that reason also, which prescribeth what is to be done and what not, common unto all. If that, then law. If law, then are we fellow-citizens. If so, then are we partners in some one commonweal. If so, then the world is as it were a city." (Meditations IV.4, trans. Meric Casaubon, 1634, [Project Gutenberg](https://www.gutenberg.org/files/2680/2680-h/2680-h.htm))
 
 Epictetus makes the duty explicit: "you are a citizen of the world, and a part of it, not one of the subservient (serving), but one of the principal (ruling) parts", and the citizen's character promises "to hold nothing as profitable to himself; to deliberate about nothing as if he were detached from the community" (Discourses, trans. George Long). His formula for what a human is gives the old body its phrase: "A part of a state, of that first which consists of gods and of men" (Discourses II.5, trans. Long).
 
@@ -26,7 +26,7 @@ Epictetus makes the duty explicit: "you are a citizen of the world, and a part o
 
 ## Sources
 
-- [Meditations IV.4, trans. George Long, Project Gutenberg](https://www.gutenberg.org/files/2680/2680-h/2680-h.htm)
+- [Meditations IV.4, trans. Meric Casaubon (1634), Project Gutenberg](https://www.gutenberg.org/files/2680/2680-h/2680-h.htm) — translator verified on the edition's notes page (the text is Casaubon's 1634 translation; George Long's 1862 version is listed only as a related credit)
 - [Discourses of Epictetus (selection), trans. George Long, Project Gutenberg](https://www.gutenberg.org/files/10661/10661-h/10661-h.htm) — the citizen-of-the-world and gods-and-men passages
 
 ## Stories

@@ -16,13 +16,13 @@ The Zhuangzi story the principle draws on is Cook Ding, the ruler's cook:
 
 > "When I first began to cut up an ox, I saw nothing but the (entire) carcase. After three years I ceased to see it as a whole. Now I deal with it in a spirit-like manner, and do not look at it with my eyes. The use of my senses is discarded, and my spirit acts as it wills." (Zhuangzi 3, trans. James Legge, [ETH Zurich](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
 
-The cook describes stages: first the whole carcass, then three years of cutting, then work that no longer passes through the eyes. The knife tells the same story: after nineteen years and several thousand oxen its edge is as if newly whetted, because "there are the interstices of the joints, and the edge of the knife has no (appreciable) thickness; when that which is so thin enters where the interstice is, how easily it moves along!" (Zhuangzi 3, trans. Legge). The absorption this principle names is the state the cook describes, and the story presents it as the result of three years of cutting, not as a shortcut to be aimed at directly.
+The knife passage carries the story's account of long practice: after nineteen years and several thousand oxen its edge is as if newly whetted, because "there are the interstices of the joints, and the edge of the knife has no (appreciable) thickness; when that which is so thin enters where the interstice is, how easily it moves along!" (Zhuangzi 3, trans. Legge). The absorption this principle names is the state the cook describes as his present practice; the story presents it alongside nineteen years of the knife's use, not as a shortcut to be aimed at directly.
 
 (Zhuangzi 3.)
 
 **Plain words** Get so absorbed in the doing that the watcher disappears. Watching yourself work is the tax; flow is the refund.
 
-*For example:* The potter whose hands move before thought does — no inner commentator, just clay. That's the doorway.
+*For example:* A potter whose hands move before thought does, no inner commentator, just clay.
 
 ## Sources
 

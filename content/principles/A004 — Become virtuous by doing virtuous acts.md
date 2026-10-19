@@ -12,13 +12,21 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 4** — Become virtuous by doing virtuous acts
 
-You do not become brave by reading about bravery. You become brave by doing brave things. The disposition is built from the outside in: act first, and the character follows. Start with the action; the feeling and the identity come later.
+Aristotle's statement of the principle, from Book II of the Ethics:
+
+> "men come to be builders, for instance, by building; harp-players, by playing on the harp: exactly so, by doing just actions we come to be just; by doing the actions of self-mastery we come to be perfected in self-mastery; and by doing brave actions brave." (Nicomachean Ethics II.1, trans. D. P. Chase, [Project Gutenberg](https://www.gutenberg.org/files/8438/8438-h/8438-h.htm))
+
+Book II.1 also gives the frame: "The Virtues then come to be in us neither by nature, nor in despite of nature" (trans. Chase); we are furnished by nature with the capacity to receive them and are perfected in them through custom. Aristotle compares acquiring virtues with learning a craft through practising its activities. Book II.4 adds the conditions: an act counts as virtuous only if the doer knows what he is doing, chooses it deliberately and for its own sake, and acts from a settled character; "he is not in possession of the virtues who merely does these facts, but he who also so does them as the just and self-mastering do them." (II.4, trans. Chase)
 
 (NE II.1, II.4.)
 
-**Plain words** Reading about courage won't make you courageous. You get there by doing brave things, badly at first. Aristotle puts the order plainly: act first, and the disposition builds. Waiting until you feel brave or feel like a generous person is waiting for the wrong thing.
+**Plain words** Reading about courage is different from practising it. Consider why you would act and whether you choose the action for its own sake. Aristotle also asks whether the choice comes from a settled character. Use the occasion to examine your reasons.
 
-*For example:* You become someone who speaks up in meetings by speaking up once, shakily, in a small one, not by rehearsing confidence in the mirror.
+*For example:* Imagine hesitating to raise a concern in a meeting. Ask why it needs saying, whether speaking up here would be courageous, and what doing it well would involve.
+
+## Sources
+
+- [Nicomachean Ethics Book II, trans. D. P. Chase, Project Gutenberg](https://www.gutenberg.org/files/8438/8438-h/8438-h.htm) — opened at A039, re-mined for this item; not recounted
 
 ## Stories
 

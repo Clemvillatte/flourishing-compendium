@@ -16,13 +16,13 @@ Dewey's Quest for Certainty states the test the principle works by:
 
 > "The test of ideas, of thinking generally, is found in the consequences of the acts to which the ideas lead, that is in the new arrangements of things which are brought into existence." (Dewey, The Quest for Certainty, 1929, [Internet Archive](https://archive.org/stream/questforcertaint032529mbp/questforcertaint032529mbp_djvu.txt))
 
-On Dewey's account, ideas are "anticipatory plans and designs", statements "not of what is or has been but of acts to be performed", and knowing is "a mode of practical action". James's essay supplies the permission to act where evidence cannot decide in advance: "we have the right to believe at our own risk any hypothesis that is live enough to tempt our will" (James, The Will to Believe, 1896, [Project Gutenberg](https://www.gutenberg.org/files/26659/26659-h/26659-h.htm)). His caution frames the experiment's design: "Scepticism, then, is not avoidance of option; it is option of a certain particular kind of risk."
+On Dewey's account, ideas are "anticipatory plans and designs", statements "not of what is or has been but of acts to be performed", and knowing is "a mode of practical action". James's essay gives the permission for a narrower case: a genuine option, one that is living, forced and momentous, where evidence cannot decide in advance. For that case he grants "the right to believe at our own risk any hypothesis that is live enough to tempt our will" (James, The Will to Believe, 1896, [Project Gutenberg](https://www.gutenberg.org/files/26659/26659-h/26659-h.htm)). He adds his own caution: "Scepticism, then, is not avoidance of option; it is option of a certain particular kind of risk."
 
 (Dewey, The Quest for Certainty, 1929; James, The Will to Believe, 1896.)
 
 **Plain words** Dewey's rule is that an idea is a plan, and the plan is tested by what happens when you act on it. James adds that when you cannot know in advance, acting is still a decision, and so is refusing to act. Between the two: make your next step small enough to watch, and look at what comes back.
 
-*For example:* Take the waking time question. A month at six and a month at eight are two plans with observable results; either result settles something, which is what Dewey's test is for.
+*For example:* Take the waking time question. A month at six and a month at eight are two plans with observable results; the comparison is what Dewey's test runs on.
 
 ## Sources
 
