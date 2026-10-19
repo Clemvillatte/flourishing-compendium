@@ -15,6 +15,41 @@ let alpha = 0;                // physics heat
 let cam = { x: 0, y: 0, zoom: 0.3 };
 let camAnim = null;           // {fromX..} camera glide
 let hover = null, selected = null, dragged = null;
+/* selection back-navigation: every DISTINCT selection transition records the
+   node being LEFT (including deselection — the #1 accidental case: an empty
+   tap closes the drawer, and back must restore it). Back-navigation itself
+   doesn't record, so the stack only grows forward. Ids are resolved through
+   the CURRENT graph at pop time — stale entries (scope change, deleted node)
+   are skipped. Capped so a long browsing session can't grow it unbounded. */
+const SEL_HIST_MAX = 60;
+let selHistory = [];
+function historyUsable() {
+  if (!G || !G.nodeById) return false;
+  return selHistory.some(id => { const n = G.nodeById.get(id); return n && n.visible && n !== selected; });
+}
+function updateBackBtns() {
+  const ok = historyUsable();
+  const b1 = document.getElementById('graphBackBtn'), b2 = document.getElementById('graphBackBtnM');
+  if (b1) b1.disabled = !ok;
+  if (b2) b2.disabled = !ok;
+}
+function goBackSelection() {
+  if (!G || !G.nodeById) return;
+  while (selHistory.length) {
+    const n = G.nodeById.get(selHistory.pop());
+    if (!n || !n.visible || n === selected) continue;   // stale or duplicate — keep popping
+    // if the node is off-screen, glide to it (desktop: camera travel; phones:
+    // the belt fit inside centerOn, or a plain glide when belts are off) —
+    // camera-RELATIVE screen position decides, not world position
+    const w = canvas.clientWidth, h = canvas.clientHeight;
+    const sx = (dispX(n) - cam.x) * cam.zoom, sy = (dispY(n) - cam.y) * cam.zoom;
+    const offscreen = Math.abs(sx) > w / 2 - 30 || Math.abs(sy) > h / 2 - 30;
+    if (offscreen) centerOn(n);
+    select(n, { recordHistory: false });
+    return;
+  }
+  updateBackBtns();   // the whole stack was stale — refresh the disabled state
+}
 let panning = false, moved = 0;
 let lastMouse = null;
 let lastClickNode = null, lastClickT = 0;   // dblclick fallback: the node may ease away between the two clicks
@@ -316,6 +351,7 @@ function applyToggles() {
   for (const n of G.nodes) n.toggledOff = !kindOn[n.kind];
   for (const n of G.nodes) n.visible = !n.hidden && !n.toggledOff;
   needsRender = true;
+  updateBackBtns();   // history entries may have gone stale (hidden nodes are skipped by back-nav)
 }
 
 /* ---------- layout ---------- */
@@ -533,6 +569,10 @@ function setSpread(n) {
   spreadNbSet = null;
   spreadBrSet = null;
   spreadNb2Set = null;
+  // separation adjustments are per-SPREAD: a new selection (or deselect)
+  // rebuilds every target, so the accumulated nudges must not leak into the
+  // fresh geometry — clear them on the whole graph (cheap, runs on select)
+  if (G) for (const v of G.nodes) { v.sepAx = 0; v.sepAy = 0; }
   if (n && adj) {
     spreadNbSet = new Set([n]);
     for (const m of (adj.get(n.id) || [])) spreadNbSet.add(m);
@@ -749,6 +789,10 @@ let spreadDirty = false, spreadAnimating = false;
 let spreadJumped = false;   // phone snap: applySpread actually moved offsets THIS pass
 let snapState = null;       // phone snap: {c,x,y,slots} of the last applied snap (invalidation key)
 let sepCalls = 0;           // QA: how many separation passes have run (exposed via __graphDebug)
+let sepMoved = false;       // did the LAST separation pass move anything? (loop-stopping condition)
+let sepMaxPush = 0;         // QA: largest single push in the last pass
+let spreadMaxErr = 0;        // QA: largest remaining offset error in the last applySpread pass
+let profSpreadMs = 0, profSepMs = 0, profRenderMs = 0, profFrames = 0;   // QA: per-frame cost of applySpread / separation / render
 let nb2Hidden = null;   // set by render when N+2 is toggled OFF — shared with hit()
 /* Displayed-coordinate separation for the spread state. The belt/spread
    easing moves nodes via ox/oy offsets on top of a FROZEN base layout, so
@@ -777,20 +821,26 @@ function separateDisplayed() {
   const CELL = Math.max(48, maxR * 2 + 8);
   const ITER = 3, STRENGTH = 0.5, PAD = 3;
   let movedAny = false;
+  sepMaxPush = 0;
+  // integer grid keys: far cheaper than string concat + string hashing for the
+  // 9-cell lookups (this pass is the hottest code on the frame loop — see
+  // __graphDebug().prof). Safe while |cell coords| stay under 4096.
+  const gkey = (gx, gy) => (gx + 4096) * 8192 + (gy + 4096);
+  vis.forEach((n, i) => { n._i = i; });   // stable pair ordering without string compares
   for (let it = 0; it < ITER; it++) {
     const grid = new Map();
     for (const n of vis) {
-      const k = Math.floor(dispX(n) / CELL) + ',' + Math.floor(dispY(n) / CELL);
+      const k = gkey(Math.floor(dispX(n) / CELL), Math.floor(dispY(n) / CELL));
       let a = grid.get(k); if (!a) { a = []; grid.set(k, a); } a.push(n);
     }
     let moved = false;
     for (const n of vis) {
       const gx = Math.floor(dispX(n) / CELL), gy = Math.floor(dispY(n) / CELL);
       for (let ox = -1; ox <= 1; ox++) for (let oy = -1; oy <= 1; oy++) {
-        const a = grid.get((gx + ox) + ',' + (gy + oy));
+        const a = grid.get(gkey(gx + ox, gy + oy));
         if (!a) continue;
         for (const m of a) {
-          if (m === n || String(m.id) <= String(n.id)) continue;   // each pair once
+          if (m === n || m._i < n._i) continue;   // each pair once
           let dx = dispX(m) - dispX(n), dy = dispY(m) - dispY(n);
           let d = Math.hypot(dx, dy);
           const min = n.r + m.r + PAD;
@@ -800,8 +850,9 @@ function separateDisplayed() {
           if (d > 0.01) { ux = dx / d; uy = dy / d; }
           else { const ang = hash01(n.id) * 6.2832; ux = Math.cos(ang); uy = Math.sin(ang); d = 0.01; }
           const push = (min - d) * STRENGTH;
-          if (n === dragged) { m.ox += ux * push; m.oy += uy * push; }
-          else if (m === dragged) { n.ox -= ux * push; n.oy -= uy * push; }
+          if (push > sepMaxPush) sepMaxPush = push;
+          if (n === dragged) { m.ox += ux * push; m.oy += uy * push; if (!phone) { m.sepAx = (m.sepAx || 0) + ux * push; m.sepAy = (m.sepAy || 0) + uy * push; } }
+          else if (m === dragged) { n.ox -= ux * push; n.oy -= uy * push; if (!phone) { n.sepAx = (n.sepAx || 0) - ux * push; n.sepAy = (n.sepAy || 0) - uy * push; } }
           else if (phone) {
             const fn = inSpread(n), fm = inSpread(m);
             if (!fn && !fm) continue;                       // context–context: not ours to fix
@@ -817,6 +868,12 @@ function separateDisplayed() {
             const wn = m.r / (n.r + m.r), wm = n.r / (n.r + m.r);
             n.ox -= ux * push * wn; n.oy -= uy * push * wn;
             m.ox += ux * push * wm; m.oy += uy * push * wm;
+            // desktop: the nudge is a TARGET adjustment too (see applySpread) —
+            // phones don't ease, their fixes are already permanent via the snap
+            if (!phone) {
+              n.sepAx = (n.sepAx || 0) - ux * push * wn; n.sepAy = (n.sepAy || 0) - uy * push * wn;
+              m.sepAx = (m.sepAx || 0) + ux * push * wm; m.sepAy = (m.sepAy || 0) + uy * push * wm;
+            }
           }
         }
       }
@@ -824,12 +881,18 @@ function separateDisplayed() {
     if (!moved) break;
   }
   if (movedAny) spreadDirty = true;   // a render is needed
+  // loop-stopping condition with a tolerance: pair distances converge toward
+  // their minimum asymptotically (each pass closes half the overlap) but never
+  // reach it exactly, so "any movement" would keep the frame loop alive
+  // forever. Sub-half-pixel pushes are invisible — treat them as settled.
+  sepMoved = sepMaxPush > 0.5;
 }
 function applySpread(dt) {
   if (!G) return;
   spreadDirty = false;
   spreadAnimating = false;
   spreadJumped = false;
+  spreadMaxErr = 0;
   const c = spreadCenter;
   // PHONES: the spread is a STATIC view-layer state. Once snapped, re-running
   // this pass would reset the separation fixes (k=1 reapplies the exact belt
@@ -956,7 +1019,16 @@ function applySpread(dt) {
         tx = ux * push; ty = uy * push;
       }
     }
+    // separation adjustments (desktop): the overlap pass nudges targets along
+    // with offsets, so its fixes are PERMANENT — without this the easing keeps
+    // re-pulling nodes onto their original (overlapping) belt targets and the
+    // two passes fight forever, which kept the render loop awake endlessly
+    // after every selection (the main source of desktop lag)
+    tx += n.sepAx || 0;
+    ty += n.sepAy || 0;
     const ex = tx - n.ox, ey = ty - n.oy;
+    const er = Math.max(Math.abs(ex), Math.abs(ey));
+    if (er > spreadMaxErr) spreadMaxErr = er;
     if (Math.abs(ex) < 0.5 && Math.abs(ey) < 0.5) {
       if (n.ox !== tx || n.oy !== ty) { n.ox = tx; n.oy = ty; spreadDirty = true; spreadJumped = true; }   // settle exactly
     }
@@ -990,10 +1062,12 @@ function declutter() {
   for (const n of vis) if (n.r > maxR) maxR = n.r;
   const CELL = Math.max(48, maxR * 2 + 8);
   const ITER = 60, STRENGTH = 0.6, PAD = 3;
+  const gkey = (gx, gy) => (gx + 4096) * 8192 + (gy + 4096);   // integer grid keys (see separateDisplayed)
+  vis.forEach((n, i) => { n._i = i; });
   for (let it = 0; it < ITER; it++) {
     const grid = new Map();
     for (const n of vis) {
-      const k = Math.floor(n.x / CELL) + ',' + Math.floor(n.y / CELL);
+      const k = gkey(Math.floor(n.x / CELL), Math.floor(n.y / CELL));
       let a = grid.get(k); if (!a) { a = []; grid.set(k, a); }
       a.push(n);
     }
@@ -1001,10 +1075,10 @@ function declutter() {
     for (const n of vis) {
       const gx = Math.floor(n.x / CELL), gy = Math.floor(n.y / CELL);
       for (let ox = -1; ox <= 1; ox++) for (let oy = -1; oy <= 1; oy++) {
-        const a = grid.get((gx + ox) + ',' + (gy + oy));
+        const a = grid.get(gkey(gx + ox, gy + oy));
         if (!a) continue;
         for (const m of a) {
-          if (m === n || String(m.id) <= String(n.id)) continue;   // each pair once
+          if (m === n || m._i < n._i) continue;   // each pair once
           const dx = m.x - n.x, dy = m.y - n.y;
           let d = Math.hypot(dx, dy);
           const min = n.r + m.r + PAD;
@@ -1480,11 +1554,13 @@ function frame() {
   }
   // spread easing runs AFTER the physics step so offsets target the geometry
   // that is actually being rendered this frame
-  if (warmTicks === 0 && (spreadCenter !== null || spreadActive)) {
+  if (warmTicks === 0 && (spreadCenter !== null || spreadActive || sepMoved)) {
     const now = performance.now();
     const dt = Math.min(0.05, (now - (frame.lastSpreadT || now)) / 1000);
     frame.lastSpreadT = now;
+    const __t0 = performance.now();
     applySpread(dt);
+    const __t0b = performance.now();
     separateDisplayed();   // keep the DISPLAYED circles separated while the belts ease
     // snap frame (phone): no easing frames follow, so give the separation a
     // few extra passes up front to reach the same overlap-free rest desktop
@@ -1494,23 +1570,27 @@ function frame() {
     // with a selection active
     if (spreadSnap && spreadJumped) { separateDisplayed(); separateDisplayed(); separateDisplayed(); spreadJumped = false; }
     if (spreadDirty) needsRender = true;   // includes the final snap — must render
+    profSpreadMs += __t0b - __t0;
+    profSepMs += performance.now() - __t0b;
   } else {
     frame.lastSpreadT = performance.now();
   }
-  if (needsRender) { render(); needsRender = false; }
+  if (needsRender) { const __t1 = performance.now(); render(); profRenderMs += performance.now() - __t1; needsRender = false; profFrames++; }
   // idle: the graph is frozen and static (no pulse animation), so the loop
   // stops entirely; interaction handlers call wake() to restart it.
   // NOTE: re-read camAnim here — centerOn() may have been called by the warmup
   // reveal (pendingFocus) AFTER the stale `animatingCam` was computed above;
   // using the stale flag would stop the loop and never play the camera move.
-  if (warmTicks > 0 || liveMode || settleTicks > 0 || camAnim != null || spreadAnimating) {
+  if (warmTicks > 0 || liveMode || settleTicks > 0 || camAnim != null || spreadAnimating || sepMoved) {
     requestAnimationFrame(frame);
   } else {
     running = false;
   }
 }
+let wakeCount = 0;
 function wake() {
   needsRender = true;
+  wakeCount++;
   if (!running) { running = true; requestAnimationFrame(frame); }
 }
 
@@ -1632,7 +1712,12 @@ function openDrawer(n) {
   drawer.hidden = false;
 }
 
-function select(n) {
+function select(n, opts) {
+  const record = !opts || opts.recordHistory !== false;
+  if (record && selected && selected !== n) {
+    selHistory.push(selected.id);
+    if (selHistory.length > SEL_HIST_MAX) selHistory.splice(0, selHistory.length - SEL_HIST_MAX);
+  }
   selected = n;
   if (n) openDrawer(n);
   else if (drawer) drawer.hidden = true;
@@ -1650,6 +1735,7 @@ function select(n) {
   // cursor, which makes click/dbl-click predictable (search and the
   // "Center on node" button go through centerOn, which fits the belts)
   wake();
+  updateBackBtns();
 }
 function centerOn(n) {
   // target the node's BASE position: the focused node becomes the spread centre,
@@ -1877,6 +1963,9 @@ function bindEvents() {
   });
   // mobile: graph controls hide behind the ☰ button
   const menuBtn = document.getElementById('graphMenuBtn');
+  const backBtn = document.getElementById('graphBackBtn'), backBtnM = document.getElementById('graphBackBtnM');
+  if (backBtn) backBtn.addEventListener('click', goBackSelection);
+  if (backBtnM) backBtnM.addEventListener('click', goBackSelection);
   if (menuBtn) menuBtn.addEventListener('click', function () {
     const gv = document.getElementById('graphView');
     if (gv) gv.classList.toggle('controls-open');
@@ -2427,6 +2516,10 @@ window.__qaFinishWarmup = () => {
   return { ms: Math.round(performance.now() - t0), vis: G ? G.nodes.filter(n => n.visible).length : 0 };
 };
 
+// QA-only hook: select a node by id (or deselect with null) — drives the real
+// select() path so automated QA exercises the same code as a click/tap.
+window.__qaSelect = (id) => { select(id ? G.nodeById.get(id) : null); };
+
 // small debug/introspection hook (positions + camera) — used for QA
 window.__graphDebug = (id) => {
   if (!G) return null;
@@ -2447,6 +2540,11 @@ window.__graphDebug = (id) => {
     running,
     vis: vis.length,
     sepCalls,
+    sepMaxPush: +sepMaxPush.toFixed(2),
+    spreadMaxErr: +spreadMaxErr.toFixed(1),
+    camAnimActive: camAnim != null,
+    wakeCount,
+    prof: { spreadMs: +profSpreadMs.toFixed(1), sepMs: +profSepMs.toFixed(1), renderMs: +profRenderMs.toFixed(1), frames: profFrames },
     spread: spreadCenter ? (() => {
       let md = Infinity;
       for (const n of vis) {

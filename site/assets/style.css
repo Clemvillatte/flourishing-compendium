@@ -1154,7 +1154,7 @@ body.rl-fullwin #researchLaunchers { display:none; }
 .read-step:hover { border-color:var(--gold); }
 
 /* mobile-only controls (hidden on desktop) */
-.rand-filters-btn, .lib-browse-btn, .graph-menu-btn, #libSectionSelect { display:none; }
+.rand-filters-btn, .lib-browse-btn, .graph-menu-btn, .graph-back-btn, #libSectionSelect { display:none; }
 .draw-btn svg { display:none; }
 
 /* ═══════════════ RESPONSIVE ═══════════════ */
@@ -1272,6 +1272,17 @@ body.graph-mode #randView, body.graph-mode #wikiView { display:none; }
   cursor:pointer; position:relative;
 }
 #graphPhysBtn:hover { color:var(--text); border-color:var(--gold); }
+
+/* back-to-previous-node button (desktop: control bar, beside Layout settings) */
+#graphBackBtn {
+  display:inline-flex; align-items:center; justify-content:center;
+  width:28px; height:28px; padding:0;
+  color:var(--muted); background:var(--panel2); border:1px solid var(--line2); border-radius:8px;
+  cursor:pointer;
+}
+#graphBackBtn:hover:not(:disabled) { color:var(--text); border-color:var(--gold); }
+#graphBackBtn:disabled { opacity:.35; cursor:default; }
+#graphBackBtn:focus-visible { outline:2px solid var(--gold); outline-offset:1px; }
 
 /* layout-settings popover */
 .gphys {
@@ -1514,6 +1525,17 @@ body.graph-mode #randView, body.graph-mode #wikiView { display:none; }
     background:var(--panel); border:1px solid var(--line2); color:var(--text);
     font-size:19px; box-shadow:0 4px 14px rgba(0,0,0,.18);
   }
+  /* back-to-previous-node: beside ☰ on phones */
+  #graphBackBtn { display:none; }
+  .graph-back-btn {
+    display:flex; align-items:center; justify-content:center;
+    position:absolute; top:10px; left:62px; z-index:130;
+    width:44px; height:44px; border-radius:12px;
+    background:var(--panel); border:1px solid var(--line2); color:var(--text);
+    box-shadow:0 4px 14px rgba(0,0,0,.18); cursor:pointer;
+  }
+  .graph-back-btn:disabled { opacity:.35; }
+  .graph-back-btn:not(:disabled):active { background:var(--panel2); }
   #graphView { position:relative; }
   .graph-top { position:absolute; top:62px; left:10px; right:10px; z-index:125; padding:0; border-bottom:none; background:none; pointer-events:none; }
   .graph-controls { pointer-events:auto; }
