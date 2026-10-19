@@ -33,7 +33,7 @@ For example (imagined): a person who decides in advance never to falsify a recor
 - [[ST178 — Walter McMillian's Case|178. Walter McMillian's Case]]
 ## Psychology parallels
 
-- **[[Moral foundations|Moral foundations theory]]**, sanctity/degradation and harm/care as moral universals (Haidt, 2012)
+- **[[Moral foundations|Moral foundations theory]]** (Haidt, 2012)
 - **[[Moral universals research|Moral universals research]]** (Curry, Mullins and Whitehouse, 2019)
 
 ## Philosophy parallels
