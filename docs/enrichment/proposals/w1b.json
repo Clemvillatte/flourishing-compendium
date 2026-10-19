@@ -14,13 +14,14 @@
   "Creative evolution",
   "Empathic understanding",
   "Experience plus reflection",
-  "Express by shaping, not venting"
+  "Express by shaping, not venting",
+  "Heart rate variability theory"
  ],
  "flagged": {
   "Perspective-getting": "seed cites 'Epley et al., 2007' for 'asking beats perspective-taking'; no such perspective-getting paper could be found (canonical: Epley et al. 2004 anchoring; Eyal, Steffel & Epley 2018 JPSP 114(4):547-571 'Perspective mistaking'). Original line kept, prose cites the verified papers."
  },
  "missing_concepts": [],
- "sources_checked": 35,
+ "sources_checked": 37,
  "inline": [],
  "reciprocal": [
   {
@@ -577,6 +578,41 @@
    "target": "content/concepts/Art completes what nature begins.md",
    "concept": "Express by shaping, not venting",
    "why": "expression's completion of impulsion"
+  },
+  {
+   "target": "content/concepts/Interoception.md",
+   "concept": "Heart rate variability theory",
+   "why": "perceiving the internal signals HRV theory indexes"
+  },
+  {
+   "target": "content/concepts/Self-regulation.md",
+   "concept": "Heart rate variability theory",
+   "why": "the capacity the theory measures"
+  },
+  {
+   "target": "content/concepts/Equanimity.md",
+   "concept": "Heart rate variability theory",
+   "why": "the meditative analogue of autonomic balance"
+  },
+  {
+   "target": "content/concepts/Control theory of self-regulation.md",
+   "concept": "Heart rate variability theory",
+   "why": "the engineering framing of the same loops"
+  },
+  {
+   "target": "content/concepts/Expressive suppression versus reappraisal.md",
+   "concept": "Heart rate variability theory",
+   "why": "the emotion-regulation strategies HRV tracks"
+  },
+  {
+   "target": "content/concepts/Wu wei.md",
+   "concept": "Heart rate variability theory",
+   "why": "regulation without forcing, the Daoist cousin"
+  },
+  {
+   "target": "content/concepts/Right concentration.md",
+   "concept": "Heart rate variability theory",
+   "why": "the collected mind, a contemplative cousin"
   }
  ],
  "notes": "continues after lead applied the first proposals file (moved to applied/)"
