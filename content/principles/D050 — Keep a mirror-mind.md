@@ -12,13 +12,25 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 50** — Keep a mirror-mind
 
-The sage's mind is a mirror: it greets and sees off things without holding or hoarding, responds without welcoming or anticipating, wins without being damaged.
+The image is from the Zhuangzi's seventh book, section 6, in Legge's translation:
+
+> "When the perfect man employs his mind, it is a mirror. It conducts nothing and anticipates nothing; it responds to (what is before it), but does not retain it. Thus he is able to deal successfully with all things, and injures none." (Zhuangzi VII §6, "The Normal Course for Rulers and Kings", trans. Legge, [ETH Zurich PDF](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
+
+The passage joins responsiveness with neither anticipation nor retention. Its concluding sentence presents successful engagement as the result of this whole way of using the mind.
 
 (Zhuangzi 7.)
 
-**Plain words** The sage's mind is a mirror: it shows what arrives, exactly as it is, and stays unscratched by it. Mirrors don't cling — they greet and see off without holding, respond without anticipating, win without damage.
+### Plain words
 
-*For example:* A great host enjoys the party and isn't wrecked by it — everything passed through the mirror; nothing got kept.
+A practical reading: notice when you have prepared an answer before hearing the other person. Set that answer aside long enough to listen, then decide what the present situation calls for. Use the mirror image to examine how you respond.
+
+### For example
+
+Imagine a guest says the room is too noisy. Hear the complaint before defending the party, then decide whether to suggest somewhere quieter.
+
+## Sources
+
+- [Zhuangzi, trans. James Legge (The Texts of Taoism, Sacred Books of the East 39), ETH Zurich PDF](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — Book VII, section 6
 
 ## Stories
 
