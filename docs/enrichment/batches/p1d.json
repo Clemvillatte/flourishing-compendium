@@ -26,9 +26,12 @@
   "D133": "QC round 5: grip-mechanism replaced with application question; example remains supervisor-flagged",
   "E014": "QC round 5: exclusive retraining claim removed; feeds example remains supervisor-flagged",
   "E068": "QC round 4: keyhole scene sourced to opened Porto review; frequency claims softened",
-  "K006": "QC round 5: cost comparison removed; watched-not-repressed presented as application; example remains supervisor-flagged"
+  "K006": "QC round 5: cost comparison removed; watched-not-repressed presented as application; example remains supervisor-flagged",
+  "PP031": "QC final: Holt-Lunstad quotes now sourced to opened BYU full text; quality-vs-quantity prescription replaced with abstract's own wording",
+  "PP011": "QC final: loving-kindness named; 'mechanism well-supported' hedge removed per advisor; owner hedge noted for supervisor",
+  "P164": "QC final: invented evidential history removed; Rogers presented as proposed definition"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-19T10:22:40+00:00"
+ "updated": "2026-10-19T10:26:31+00:00"
 }
