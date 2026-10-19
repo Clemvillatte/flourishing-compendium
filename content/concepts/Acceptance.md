@@ -21,8 +21,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ## Related concepts
 
 
+
 - [[Anger regulation research]] — acceptance-based strategies with meta-analytic support here
 - [[Goal adjustment capacity]] — the stance that makes disengagement possible
+- [[S001]] — the Stoic principle that parallels ACT acceptance; the seed page cites no principle
 ## Sources
 
 - Hayes et al., 2006

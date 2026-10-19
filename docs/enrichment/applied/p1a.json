@@ -1,18 +1,16 @@
 {
- "inline": [
-  {
-   "into": "De",
-   "concept": "Dao",
-   "phrase": "aligned with the Dao",
-   "why": "De's opening line explains de as the power of a thing aligned with the Dao, but the page never links [[Dao]]"
-  }
- ],
+ "inline": [],
  "reciprocal": [
   {
-   "into": "Philia",
-   "link": "A063 — Recognise that friendship is necessary for flourishing",
-   "why": "the principle that carries philia's necessity-for-flourishing claim; Philia's page cites no principle"
+   "into": "Acceptance",
+   "link": "S001 — Distinguish what is up to you from what is not",
+   "why": "the Stoic principle that parallels ACT acceptance; the seed page cites no principle"
+  },
+  {
+   "into": "The three disciplines",
+   "link": "S011 — Recognise the three topoi — the three disciplines",
+   "why": "the principle that carries Epictetus's three disciplines; the seed page cites no principle"
   }
  ],
- "notes": "p1a proposals: De -> Dao inline (D001); Philia -> A063 reciprocal (A063). Saturation checks bounded to pages actually inspected."
+ "notes": "p1a proposals (recreated after the b6fcc59 integration archived the previous file): Acceptance -> S001 reciprocal (S001). Earlier proposals (De -> Dao inline, Philia -> A063 reciprocal) were applied/archived by the b6fcc59 integration run."
 }
