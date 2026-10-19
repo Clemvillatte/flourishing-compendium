@@ -25,7 +25,7 @@ For example (imagined): a child is melting down over the wrong colour cup. One p
 
 ## Psychology parallels
 
-- **Validation reduces negative affect and escalation**, in couples and families, validation de-escalates conflict; invalidation escalates it (Linehan, 1993; Fruzzetti & Iverson, 2004)
+- **Validation and negative affect**, theory and research associate validation with reductions in negative emotions and invalidation with escalation (Linehan, 1993; Fruzzetti & Iverson, 2004)
 - **Validation is a core mechanism in DBT and couples therapy** (Linehan, 1993; Gottman & Levenson, 2000)
 
 ## Philosophy parallels

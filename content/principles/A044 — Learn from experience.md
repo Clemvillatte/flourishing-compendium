@@ -13,7 +13,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 
 > **Principle 44** — Learn from experience
 
-Aristotle's account of prudence treats particular facts as its object, and notes where those facts come from: experience. He uses the young as the test case. A young person can be expert in geometry and mathematics, since those are abstract, but not prudent, since prudence requires knowledge of particular facts and those come only with years ([NE VI.8, Rackham, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6)). He goes on to give the reason: Prudence includes a knowledge of particular facts, and this is derived from experience. The fruit of that is time.
+Aristotle's account of prudence treats particular facts as its object, and notes where those facts come from: experience. He uses the young as the test case. A young person can be expert in geometry and mathematics, since those are abstract, but not prudent, since prudence requires knowledge of particular facts and those come only with years ([NE VI.8, Rackham, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6)). He goes on to give the reason: Prudence includes a knowledge of particular facts, and this is derived from experience, for experience is the fruit of years.
 
 > A further proof of what has been said is, that although the young may be experts in geometry and mathematics and similar branches of knowledge, we do not consider that a young man can have Prudence.
 >

@@ -13,7 +13,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 
 > **Principle 42** — Recognise that virtue is a hexis, not a feeling
 
-Aristotle's argument runs by elimination. A state of the soul is either an emotion, a capacity, or a disposition. He then rules out emotions (we are not praised or blamed for feeling them, only for being a certain way in respect of them) and capacities (we are not called good or bad merely by having the capacity for emotion). What remains is the disposition, the formed state of character ([NE II.5, Rackham, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=2)). Earlier in the same book he had already said how such dispositions are formed: moral virtue is the product of habit, and virtue results from the repeated performance of just and temperate actions.
+Aristotle's argument runs by elimination. A state of the soul is either an emotion, a capacity, or a disposition. He then rules out emotions (we are not praised or blamed for feeling them, only for being a certain way in respect of them) and capacities (we are not called good or bad merely by having the capacity for emotion). What remains is the disposition, the formed state of character ([NE II.5, Rackham, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=2)). Earlier in the same book he had already said how such dispositions are formed: moral or ethical virtue is the product of habit, and virtue results from the repeated performance of just and temperate actions.
 
 > If then the virtues are neither emotions nor capacities, it remains that they are dispositions. Thus we have stated what virtue is generically.
 >

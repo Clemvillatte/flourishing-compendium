@@ -20,7 +20,7 @@ Aristotle describes friendliness as the middle disposition between obsequiousnes
 
 **Plain words** Between always agreeing and always arguing there's a middle: being pleasant in the right way, with the right people, at the right moment. It's a skill of reading the room without losing yourself.
 
-*For example (imagined):* a colleague who offers to show you why they see a matter differently is friendly. The one who nods at everything and the one who contradicts everything both aren't.
+For example (imagined): a colleague who offers to show you why they see a matter differently is friendly. The one who nods at everything and the one who contradicts everything both aren't.
 
 ## Stories
 

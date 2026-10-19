@@ -13,13 +13,13 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 
 > **Principle 55** — Understand that you are responsible for your character
 
-Aristotle's argument in NE III.5 is more qualified than a slogan about self-authorship. He says we are "in a sense ourselves partly the cause" of our dispositions, and that both virtue and vice are voluntary. The mechanism he gives is repetition: a person becomes careless by living carelessly, and acquires a particular quality by constantly acting in a particular way ([NE III.5, Rackham, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=3)). He also marks the limit: once someone has become unjust, they cannot stop being unjust merely by wishing, any more than a sick man can get well by wishing.
+Aristotle does not give a simple self-authorship slogan in NE III.5. He says we are "in a sense ourselves partly the cause" of our dispositions, and that both virtue and vice are voluntary. The mechanism he gives is repetition: a person becomes careless by living carelessly, and acquires a particular quality by constantly acting in a particular way ([NE III.5, Rackham, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=3)). He also marks the limit: once someone has become unjust, they cannot stop being unjust merely by wishing, any more than a sick man can get well by wishing.
 
 > They acquire a particular quality by constantly acting in a particular way.
 >
 > — Nicomachean Ethics III.5 ([Rackham, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=3))
 
-**Plain words** Aristotle draws a line between what you control and what you have already built. Your actions are yours from beginning to end. Your character, once formed, is something you can only influence at its edges. The responsibility is that you built it through what you did. The freedom is that the building continues through what you do next.
+**Plain words** Aristotle draws a line between what you control and what you have already built. Your actions are yours from beginning to end. Your character, once formed, is something whose growth you can only influence gradually, since each addition is imperceptible. The responsibility is that you were partly the cause of it. The freedom is that the building continues through what you do next.
 
 For example (imagined): a person raised in a cynical household who starts keeping small promises as an adult is working on their own character through acts they still control.
 

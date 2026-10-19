@@ -35,4 +35,4 @@ For example (imagined): a panicked caller and a friend who says, slowly, that th
 
 ## Practice
 
-- When you are emotionally activated, sometimes the most effective regulation is a calm, attuned person. Do not treat needing co-regulation as a failure of self-regulation.
+- When you are emotionally activated, one thing that can help is a calm, attuned person. Do not treat needing co-regulation as a failure of self-regulation.

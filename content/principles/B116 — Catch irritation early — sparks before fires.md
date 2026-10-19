@@ -23,7 +23,7 @@ The Dhammapada treats anger as something that can be checked while it is still m
 
 For example (imagined): a text message arrives that reads as a slight. The reader notices an angry reply forming and decides not to send it immediately. The reply is written later, or not written.
 
-(Dhammapada 3, 222.)
+(Dhammapada 17, 222-223.)
 
 ## Psychology parallels
 

@@ -19,7 +19,7 @@ The Kataññu Suttas frame gratitude as a mark of integrity rather than as a ple
 >
 > — Aṅguttara Nikāya 2:31-32, Kataññu Suttas ([Thanissaro Bhikkhu](https://www.dhammatalks.org/suttas/AN/AN2_31.html))
 
-**Plain words** The sutta asks for noticing, not only feeling. It names the people whose labor and care make things possible, and treats the noticing as something that leads toward a response rather than stopping at it.
+**Plain words** The sutta names gratitude and thankfulness as qualities of integrity, and then names two people a person cannot easily repay: their mother and father. It describes what parents do — care for and nourish, and introduce to the world — and says even a hundred years of tending them would not repay it. What follows from that for the reader's own life is left to the reader.
 
 For example (imagined): a person sits down to a meal and names, briefly, three of the people whose work brought it to the table. The meal is unchanged; the person's attention has changed.
 
