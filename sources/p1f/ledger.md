@@ -87,3 +87,9 @@ Advisor milestone QC (items 2-6 + D074 re-review) failed on inference-level issu
 - Opened via fetch workflow: Dhammapada 20 (Buddharakkhita, accesstoinsight.org/tipitaka/kn/dhp/dhp.20.budd.html) — verses 277-279 verified verbatim; quoted in full as the blockquote (em dashes inside the verses are the source's own punctuation, preserved verbatim). MN 10 (Thanissaro, accesstoinsight.org/tipitaka/mn/mn.010.than.html) — "the direct path for the purification of beings" and "the four frames of reference" verified verbatim; suttacentral MN 10 fetch failed (JS required), accesstoinsight edition used instead and noted.
 - Fixes: plain words replicate removed and re-derived (seeing vs agreeing); example's "the observation IS the insight, no belief needed" rewritten without em dashes or caps emphasis; "water stops moving" metaphor removed (unsupported).
 - Saturation: B043 already cited by Vipassana (insight), Phenomenological seeing, Body scan in MBSR, Phenomenological methods in psychology, Sub specie aeternitatis; no new proposals.
+
+## B053 — Practice sympathetic joy (mudita) (done 2026-10-19)
+
+- Opened via fetch workflow: The Four Sublime States, Nyanaponika Thera, accesstoinsight.org/lib/authors/nyanaponika/wheel006.html — the "Basic Passage" section III verified verbatim and quoted as the blockquote. Also opened SN 46.54 (Thanissaro, accesstoinsight.org/tipitaka/sn/sn46/sn46.054.than.html, full text): the mudita directional formula is elided in that printing; used only to confirm the four-state context, not quoted.
+- Fixes: plain words replicate removed and re-derived around the directional formula as a practice; "it's trainable" unsupported claim removed; example rewritten without em dash ("poisoned at no charge to them" oddity removed).
+- Saturation: B053 already cited by Savoring, Mudita (sympathetic joy), Capitalization; no new proposals.
