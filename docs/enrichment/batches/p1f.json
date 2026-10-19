@@ -20,9 +20,10 @@
   "P091",
   "P163",
   "BE020",
-  "BI001"
+  "BI001",
+  "E055"
  ],
- "in_progress": "E055",
+ "in_progress": null,
  "flagged": {
   "D074": "Reopened for QC: milestone QC: inference-level corrections",
   "B006": "Reopened for QC: QC r2: traffic example",
@@ -39,7 +40,7 @@
   "P183": "Reopened for QC: milestone QC: preserve qualification"
  },
  "missing_concepts": [],
- "sources_checked": 18,
- "updated": "2026-10-19T14:00:00+00:00",
+ "sources_checked": 19,
+ "updated": "2026-10-19T14:11:35+00:00",
  "band_done": false
 }
