@@ -50,10 +50,10 @@
   "B020": "Reopened for QC: milestone QC: verse number corrected, inferences removed",
   "B038": "Reopened for QC: milestone QC: plain words narrowed to MN 118",
   "B082": "Reopened for QC: milestone QC: unsupported prescriptions removed",
-  "R012": "Reopened for QC: First-item QC: attribution, source locator and quote presentation"
+  "R012": "Reopened for QC: QC round 2: scope intro to Tutu, remove unverified Ramose, drop unlocated theological paragraph"
  },
  "missing_concepts": [],
  "sources_checked": 18,
- "updated": "2026-10-19T13:23:47+00:00",
+ "updated": "2026-10-19T13:24:56+00:00",
  "band_done": false
 }
