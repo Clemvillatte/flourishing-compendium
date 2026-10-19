@@ -12,13 +12,21 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 164** — Judge your life as a direction, not a destination
 
-Rogers's summary of the whole lineage: the good life is a process, a direction, not a state of being. Ask "am I moving" before "have I arrived."
+Rogers's summary of the lineage, from thousands of therapy hours:
 
-(Rogers, On Becoming a Person, 1961.)
+> "The good life is a process, not a state of being. It is a direction, not a destination." (Rogers, On Becoming a Person, 1961, p. 186, [Counselling Tutor reference page](https://counsellingtutor.com/carl-rogers-quotes/))
 
-**Plain words** The good life is a process, a direction, not a state of being. Ask 'am I moving' before 'have I arrived.' Rogers's summary of the whole lineage — the process is the point, and the question about the point is a direction question.
+The sentence does audit work. If the good life is a state, the audit question is "have I arrived?", and every bad month reads as evidence of exile. If it is a direction, the audit question is "am I moving?", and the same bad month can read as transit. Rogers built the claim from what clients actually did when they improved: they did not converge on a fixed condition; they kept changing, and he called the good life the changing itself. The measurement tradition agrees structurally. Ryff's dimensions of psychological well-being include "Purpose in Life (a sense of meaning, goals, and directions in life), and Personal Growth (experiencing personal growth and development)" ([van Dierendonck 2023](https://onlinelibrary.wiley.com/doi/full/10.1111/aphw.12398)): two of the six are direction words. The compendium's account is [[Eudaimonic well-being]].
+
+**Plain words**
+Two questions you can ask about your life: "have I arrived?" and "am I moving?" They sort the same facts differently. Arrived-questions make a rough year a verdict; moving-questions make it weather on a road. Rogers's rule says take the second question seriously, because the good life is not a place you get to keep; it is a way you get to keep going.
 
 *For example:* The two people at the same low point: one stalled, one moving — the direction question sorts them in a way the snapshot never could. Am I moving? That's the only audit that matters.
+
+## Sources
+
+- [Rogers, On Becoming a Person (1961), p. 186, quoted with citation at Counselling Tutor](https://counsellingtutor.com/carl-rogers-quotes/) — verbatim quote
+- [van Dierendonck, "Interventions to enhance eudaemonic psychological well-being: A meta-analytic review with Ryff's Scales of Psychological Well-being," Applied Psychology: Health and Well-Being (2023), Wiley full text](https://onlinelibrary.wiley.com/doi/full/10.1111/aphw.12398) — Ryff's six dimensions, verbatim
 
 ## Stories
 
