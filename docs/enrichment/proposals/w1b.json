@@ -13,13 +13,14 @@
   "Courage",
   "Creative evolution",
   "Empathic understanding",
-  "Experience plus reflection"
+  "Experience plus reflection",
+  "Express by shaping, not venting"
  ],
  "flagged": {
   "Perspective-getting": "seed cites 'Epley et al., 2007' for 'asking beats perspective-taking'; no such perspective-getting paper could be found (canonical: Epley et al. 2004 anchoring; Eyal, Steffel & Epley 2018 JPSP 114(4):547-571 'Perspective mistaking'). Original line kept, prose cites the verified papers."
  },
  "missing_concepts": [],
- "sources_checked": 33,
+ "sources_checked": 35,
  "inline": [],
  "reciprocal": [
   {
@@ -536,6 +537,46 @@
    "target": "content/concepts/Growth mindset.md",
    "concept": "Experience plus reflection",
    "why": "the belief that experience is still open"
+  },
+  {
+   "target": "content/concepts/Expression as construction.md",
+   "concept": "Express by shaping, not venting",
+   "why": "the sibling Deweyan concept"
+  },
+  {
+   "target": "content/concepts/Expressive writing.md",
+   "concept": "Express by shaping, not venting",
+   "why": "the shaping of experience into words"
+  },
+  {
+   "target": "content/concepts/Expressive suppression versus reappraisal.md",
+   "concept": "Express by shaping, not venting",
+   "why": "the regulation decision that precedes expression"
+  },
+  {
+   "target": "content/concepts/Anger regulation research.md",
+   "concept": "Express by shaping, not venting",
+   "why": "the empirical backing for the anti-catharsis stance"
+  },
+  {
+   "target": "content/concepts/Anger.md",
+   "concept": "Express by shaping, not venting",
+   "why": "the emotion most often vented and least often shaped"
+  },
+  {
+   "target": "content/concepts/The dignity of self-expression.md",
+   "concept": "Express by shaping, not venting",
+   "why": "the person that appears in what is shaped"
+  },
+  {
+   "target": "content/concepts/Rumination.md",
+   "concept": "Express by shaping, not venting",
+   "why": "chewing the same material without shaping it"
+  },
+  {
+   "target": "content/concepts/Art completes what nature begins.md",
+   "concept": "Express by shaping, not venting",
+   "why": "expression's completion of impulsion"
   }
  ],
  "notes": "continues after lead applied the first proposals file (moved to applied/)"
