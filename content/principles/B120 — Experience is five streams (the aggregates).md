@@ -12,13 +12,15 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 120** — Experience is five streams (the aggregates)
 
-Everything you experience is composed of form, feeling, perception, formations, and consciousness: five streams with no one standing apart from them.
+The Buddha's analysis in the Anattalakkhana Sutta runs the same test across each of the five aggregates: form, feeling, perception, formations, consciousness. The test is the same question each time. "Is form constant or inconstant?" Inconstant. "And is that which is inconstant easeful or stressful?" Stressful. "And is it fitting to regard what is inconstant, stressful, subject to change as: 'This is mine. This is my self. This is what I am'?" No ([SN 22.59, Anattalakkhana Sutta, Thanissaro Bhikkhu translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/sn/sn22/sn22.059.than.html)).
 
-(SN 22; MN 109.)
+The conclusion covers all five streams with the same formula: any form whatsoever, past future or present, internal or external, blatant or subtle, is to be seen with right discernment as "this is not mine, this is not my self, this is not what I am" ([SN 22.59, Access to Insight](https://www.accesstoinsight.org/tipitaka/sn/sn22/sn22.059.than.html)). The teaching is not that experience does not happen; it is that no one of the five streams is the owner.
 
-**Plain words** Everything you experience is composed of form, feeling, perception, formations, and consciousness — five streams with no one standing apart from them. The orchestra plays; the conductor you keep looking for is a position, not a person.
+> "Any form whatsoever that is past, future, or present; internal or external; blatant or subtle; common or sublime; far or near: every form is to be seen as it actually is with right discernment as: 'This is not mine. This is not my self. This is not what I am.'" (SN 22.59, Anattalakkhana Sutta, Thanissaro Bhikkhu translation, [Access to Insight](https://www.accesstoinsight.org/tipitaka/sn/sn22/sn22.059.than.html))
 
-*For example:* A sunset decomposed: light (form), pleasure (feeling), 'sunset' (perception), the longing it carries (formation), the noticing (consciousness). Five streams, no viewer.
+**Plain words** A sunset is not one thing you are watching; it is five things happening at once — the light, the pleasure, the label "sunset," the wanting it to last, and the noticing of all four. The move the Buddha makes is not to deny the sunset; it is to ask, of each of the five, whether it could be the one who is watching. None of them is stable enough for the job. The conductor you keep looking for is a position in the score, not a person.
+
+*For example:* Two people watch the same sunset. One experiences it as a self having an experience, and spends the next hour protecting the mood. The other notices the five streams — light, pleasure, label, wanting, noticing — arising and passing, and the mood protects itself. Same sunset; one of them is holding it with an open hand.
 
 ## Stories
 
