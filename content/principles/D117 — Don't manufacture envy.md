@@ -12,13 +12,16 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 117** — Don't manufacture envy
 
-Don't exalt the worthy or prize rare goods: ranking people creates rivalry, displaying prizes creates theft. In families and teams, don't build podiums.
+Don't exalt the worthy or prize rare goods: ranking people creates rivalry, displaying prizes creates theft. Chapter 3 of the Daodejing states the rule as advice to a ruler:
 
-(DDJ 3.)
+> "Not to value and employ men of superior ability is the way to keep the people from rivalry among themselves; not to prize articles which are difficult to procure is the way to keep them from becoming thieves; not to show them what is likely to excite their desires is the way to keep their minds from disorder."
+> (DDJ 3, [Legge's translation](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
-**Plain words** Ranking people creates rivalry; displaying prizes creates theft. In families and teams, don't build podiums — the podium is where the politics starts.
+Each clause names a want that an institution can create or starve: rivalry, theft, restless desire. The chapter's advice is about the setup, not about lecturing the people caught in it. The compendium's application to families and teams: don't build podiums. (DDJ 3.)
 
-*For example:* The 'Employee of the Month' parking spot that turns colleagues into competitors — one spotlight, twenty resentments.
+**Plain words** Envy does not arrive on its own; it is manufactured by the arrangement. A ranking gives one person the top and everyone else a public position below them. Before you institute a spotlight or a prize, ask what the people who do not get it are now expected to feel about the ones who do. If the honest answer is rivalry, the podium is the problem.
+
+*For example:* An employee-of-the-month parking spot gives one person a spot and everyone else a leaderboard position. If you want to recognise someone, do it without publishing the ranking.
 
 ## Stories
 
