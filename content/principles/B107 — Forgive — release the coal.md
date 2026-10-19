@@ -12,13 +12,15 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 107** — Forgive: release the coal
 
-Holding a grievance is carrying a hot coal and waiting to throw it: you are the one burned. Forgive — release the debt, not the boundary.
+The Buddhist frame for forgiveness is not that the wrong was not wrong. The Dhammapada's most direct line on the mechanism is this: "He abused me, he struck me, he overpowered me, he robbed me. Those who harbor such thoughts do not still their hatred... Not by hatred are hatreds ever quelled here; by non-hatred are they quelled. This is an eternal law" ([Dhammapada 3-5, Buddharakkhita translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html)). The line is not sentimental; it is a mechanical claim about how hatreds actually end, and the observation that the mechanism does not work the way people expect.
 
-(Dhammapada 3-5; AN 10.176.)
+The hot-coal metaphor is the common English rendering of this insight, and it carries the same point: you are carrying the coal while you wait for the right moment to throw it, and the burning is happening to your hand. Forgiveness, on this account, is not a moral favour to the offender; it is the act of putting the coal down because you are the one being burned by holding it.
 
-**Plain words** Holding a grievance is carrying a hot coal and waiting to throw it — you are the one burned. Forgive: release the debt, not the boundary. Forgiveness doesn't require a second victimhood; it requires you to stop volunteering for the first.
+> "Not by hatred are hatreds ever quelled here; by non-hatred are they quelled. This is an eternal law." (Dhammapada 5, Buddharakkhita translation, [Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html))
 
-*For example:* Dropping the grudge against the old friend — not because they earned it, but because your hand was on fire.
+**Plain words** Resentment feels like a weapon, and it is a weapon pointed at you. The grudge against the old friend is not hurting the friend; it is running in your head, costing you sleep and attention, while the friend is largely unaware. Forgiveness is not saying what happened was okay — the boundary stays. It is the decision to stop paying the daily cost of holding the coal while the person you are waiting to throw it at has moved on.
+
+*For example:* Two people are both wronged by the same friend. One keeps the grievance warm, revisits it, and turns down every social event where the friend might be. The other drops the grudge without announcing it, keeps the boundary, and stops organizing their week around a person they no longer trust. Same injury; one of them is still paying for it five years later.
 
 ## Psychology parallels
 
