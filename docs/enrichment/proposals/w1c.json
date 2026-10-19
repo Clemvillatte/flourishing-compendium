@@ -3,11 +3,12 @@
  "done": [
   "Anger regulation research",
   "Cognitive flexibility",
-  "Context-dependent behaviour (Wood & Neal)"
+  "Context-dependent behaviour (Wood & Neal)",
+  "Distributed cognition / extended mind"
  ],
  "flagged": {},
  "missing_concepts": [],
- "sources_checked": 19,
+ "sources_checked": 21,
  "inline": [
   {
    "into": "CO013",
@@ -150,6 +151,36 @@
    "into": "Nudge theory Thaler",
    "link": "Context-dependent behaviour (Wood & Neal)",
    "why": "the context-cue mechanism that choice architecture manipulates"
+  },
+  {
+   "into": "Embodied cognition",
+   "link": "Distributed cognition / extended mind",
+   "why": "the sibling programme that extends cognition into the world"
+  },
+  {
+   "into": "Enactivism",
+   "link": "Distributed cognition / extended mind",
+   "why": "the thesis that tools and others can be constituents of cognition"
+  },
+  {
+   "into": "Situated cognition theory",
+   "link": "Distributed cognition / extended mind",
+   "why": "the constitutive version of context-shaped cognition"
+  },
+  {
+   "into": "Transactive memory systems",
+   "link": "Distributed cognition / extended mind",
+   "why": "the philosophical backing for memory distributed across people"
+  },
+  {
+   "into": "Collective efficacy",
+   "link": "Distributed cognition / extended mind",
+   "why": "the thesis that groups can be cognitive systems"
+  },
+  {
+   "into": "Ubuntu",
+   "link": "Distributed cognition / extended mind",
+   "why": "the boundary-of-the-self question raised for personhood through relation"
   }
  ],
  "notes": "First concept: Amor sui (right self-love). All 12 original links preserved. Facets section (vs self-contempt) folded into prose. Definition quote is Ethics IIIp55 scholium (verified against Gutenberg Elwes text); rational demand is IVp18 scholium. Related-clause support sources (SEP Rousseau/Nietzsche/Stoicism, Wikipedia self-compassion) listed in the page's Sources section. | deferred at this run (target band busy): 6 recip, 0 inline"
