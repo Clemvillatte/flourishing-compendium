@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 22** — Subtract, don't add
 
-In learning and living, loss beats gain: remove a bad habit, a possession, an obligation before adding a new one.
+Remove a bad habit, a possession, an obligation before adding a new one.
 
 (DDJ 48.)
 
@@ -25,7 +25,7 @@ Read as the compendium reads it, the chapter gives a rule of thumb for desire: b
 **Plain words**
 Adding a solution gives you one more thing to run. When something isn't working, ask the opposite question first: what here could stop? The subscription you forgot you had, the obligation nobody would miss. Try removing one and watch what changes before you add anything.
 
-*For example:* Suppose a cluttered week. The reflex fix is a productivity app; the chapter's fix would be to delete two recurring meetings first and see what the week looks like without them.
+*For example:* Suppose a weekly meeting that repeats updates everyone has already read. As a modern application, try cancelling one occurrence and check whether anyone misses information they need, before adding another scheduling tool.
 
 ## Sources
 
