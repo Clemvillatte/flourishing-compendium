@@ -11,11 +11,11 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 ### The strange phrase
 
-Plato calls the ordinary expression for it a riddle: "the phrase 'master of himself' is an absurdity... for he who is master of himself would also be subject to himself" ([Republic IV.430e](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0168%3Abook%3D4%3Asection%3D430e)). The riddle is left standing; what the passage offers instead is the vocabulary of order, continence, concord and harmony ([Republic IV.430e](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0168%3Abook%3D4%3Asection%3D430e)).
+Plato questions the expression "master of himself," since its master would also be "subject to himself" ([Republic IV.430e](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0168%3Abook%3D4%3Asection%3D430e)). In the same passage, he describes temperance through order, continence, concord and harmony ([Republic IV.430e](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0168%3Abook%3D4%3Asection%3D430e)).
 
 ### What it is about
 
-Aristotle narrows the terrain: temperance "must be concerned with bodily pleasures, but not all even of these," specifically "touch and taste," the pleasures "that the other animals share in." The temperate person desires moderately "the things that, being pleasant, make for health or for good condition"; the self-indulgent person "craves for all pleasant things...at the cost of everything else," and is pained by the craving itself — "it seems absurd to be pained for the sake of pleasure" ([Nicomachean Ethics III.10-12](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html)).
+Aristotle narrows the terrain: temperance "must be concerned with bodily pleasures, but not all even of these," specifically "touch and taste," the pleasures "that the other animals share in" ([Nicomachean Ethics III.10-12](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html)). The temperate person desires moderately "the things that, being pleasant, make for health or for good condition"; the self-indulgent person "craves for all pleasant things...at the cost of everything else," and is pained by the craving itself — "it seems absurd to be pained for the sake of pleasure" ([Nicomachean Ethics III.10-12](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html)).
 
 ### In the compendium
 
