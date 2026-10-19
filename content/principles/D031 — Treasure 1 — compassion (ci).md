@@ -12,13 +12,22 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 31** — Treasure 1: compassion (ci)
 
-Compassion gives you courage to be for others; it is the first of the three treasures and the root of the other two. Practice kindness as your baseline, not your mood.
+The principle takes its place from Daodejing 67, where Laozi names his three treasures; Legge calls the first "gentleness".
+
+> But I have three precious things which I prize and hold fast. The first is gentleness; the second is economy; and the third is shrinking from taking precedence of others. With that gentleness I can be bold; with that economy I can be liberal; shrinking from taking precedence of others, I can become a vessel of the highest honour. (Daodejing 67, Legge trans., [Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm))
+
+The chapter connects gentleness with boldness, then warns against giving up gentleness while pursuing boldness (§3). Its warning concerns separating the conduct one wants from the treasure that supports it.
 
 (DDJ 67.)
 
-**Plain words** Compassion is the first of the three treasures and the root of the other two. It gives you courage — real kindness takes spine. Practice it as your baseline rather than your mood, and note that it's for you too, not just others.
+**Plain words**
+You may need to take a firm position with someone. Consider what you need to say and how to say it while continuing to treat them considerately. The practice is to carry that consideration into the disagreement.
 
-*For example:* The nurse on hour ten of a shift who's still gentle with a frightened patient — that's compassion doing endurance work.
+*For example:* Imagine greeting a frightened newcomer to your meeting before checking your notes.
+
+## Sources
+
+- [Laozi, Daodejing 67, Legge translation, Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm) — the three treasures, full chapter text
 
 ## Stories
 
