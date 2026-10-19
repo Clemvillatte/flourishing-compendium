@@ -4,12 +4,12 @@
   "D086",
   "D162"
  ],
- "in_progress": null,
+ "in_progress": "D041",
  "flagged": {
   "D086": "Reopened for QC: QC round 2 fixes applied, acceptance pending (genuineflourishing34); inherited psychology-parallels claim (Kernis and Goldman 2006) not re-verified, recorded as inherited"
  },
  "missing_concepts": [],
  "sources_checked": 1,
- "updated": "2026-10-19T12:20:07+00:00",
+ "updated": "2026-10-19T12:20:10+00:00",
  "band_done": false
 }
