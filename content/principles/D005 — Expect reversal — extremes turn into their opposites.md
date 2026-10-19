@@ -19,11 +19,11 @@ Chapter 40 of the Daodejing gives the rule as a property of the Dao itself:
 > And weakness marks the course
 > Of Tao's mighty deeds." (Daodejing 40, [Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
-Chapter 58 applies it to human categories: "Misery!—happiness is to be found by its side! Happiness!—misery lurks beneath it! Who knows what either will come to in the end?" Even correction, the text warns, "shall by a turn become distortion, and the good in it shall by a turn become evil" ([DDJ 58, Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm)).
+Chapter 58 applies the rule to human categories: happiness and misery sit side by side, and neither can be counted on to stay what it is; even correction, the text warns, can by a turn become distortion, with the good in it becoming evil ([DDJ 58, Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm)).
 
-Chapter 9 supplies the images. "It is better to leave a vessel unfilled, than to attempt to carry it when it is full. If you keep feeling a point that has been sharpened, the point cannot long preserve its sharpness. When gold and jade fill the hall, their possessor cannot keep them safe. When wealth and honours lead to arrogancy, this brings its evil on itself." ([DDJ 9, Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm))
+Chapter 9 supplies the images: a vessel better left unfilled than carried full; a sharpened point that loses its sharpness if it is kept feeling; gold and jade filling the hall, which their possessor cannot keep safe; wealth and honours leading to arrogancy, which brings its evil on itself ([DDJ 9, Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm)).
 
-The practical reading: treat reversal as a default expectation rather than a surprise. Where you find a maximum, look for the opposite forming. Chapter 9 ends with the sage's move: "When the work is done, and one's name is becoming distinguished, to withdraw into obscurity is the way of Heaven" ([DDJ 9, Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm)).
+The practical reading: treat reversal as a default expectation rather than a surprise. Where you find a maximum, look for the opposite forming. Chapter 9 ends with the sage's move: when the work is done and one's name is becoming distinguished, to withdraw into obscurity is the way of Heaven ([DDJ 9, Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm)).
 
 (DDJ 9, 40, 58.)
 
