@@ -57,7 +57,7 @@ The owner's primary-source library is in `docs/PRIMARY-SOURCES.md`.
 | p1d | 171-240 | BI012 to B129 | p1d | OPEN (repairs complete; continue remaining work) | released by supervisor-193794fd | 2026-10-19 |
 | p1e | 241-310 | BE026 to D065 | p1e | claimed | genuineflourishing35 (took over dead genuineflourishing28) | 2026-10-19 |
 | p1f | 311-370 | D074 to BI001 | p1f | claimed | genuineflourishing33 | 2026-10-19 |
-| p1g | 371-430 | BI009 to Y015 | p1g | claimed | genuineflourishing34 | 2026-10-19 |
+| p1g | 371-430 | BI009 to Y015 | p1g | claimed | genuineflourishing35 (took over dead genuineflourishing34) | 2026-10-19 |
 | p1h | 431-490 | Y026 to D096 | p1h | claimed | genuineflourishing35 | 2026-10-19 |
 | p1i | selected ranks 491-615 | D115 to B148 (30 priority items) | p1i | OPEN | unclaimed | 2026-10-19 |
 | p1j | selected ranks 616-695 | B153 to P189 (30 priority items) | p1j | OPEN | unclaimed | 2026-10-19 |
