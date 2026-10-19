@@ -12,13 +12,26 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 97** — Wish well, starting with yourself
 
-Loving-kindness begins at home: silently wish yourself safety, ease, and freedom: not as self-indulgence, but because you cannot offer what you do not have.
+Dhammapada 157 makes the self-care move explicit: "If you hold yourself dear / then guard, guard yourself well." The wise person stays awake "nursing himself." The Metta Sutta's wish, "May all beings be happy at heart", includes the one doing the wishing.
 
-(Metta Sutta; Dhammapada 157.)
+> "If you hold yourself dear
+> then guard, guard yourself well.
+> The wise person would stay awake
+> nursing himself
+> in any of the three watches of the night,
+> the three stages of life." (Dhammapada 157, [Thanissaro, accesstoinsight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.12.than.html))
 
-**Plain words** Loving-kindness begins at home — silently wish yourself safety, ease, and freedom. Not as self-indulgence, but because you cannot offer what you do not have. The emergency briefing is right: secure your own mask first.
+The compendium applies the verse as a question: who is guarding the guard?
 
-*For example:* The caretaker who finally takes the rest day without guilt — the well they were drawing from had hit the bottom.
+**Plain words**
+The verse's logic is unglamorous: if you matter to the people who depend on you, then your rest and your ease are their business too. Guarding yourself well sits in the same breath as holding yourself dear. The rest day is part of the guarding.
+
+*For example:* Suppose a caretaker who never takes the rest day. As a modern application, the verse's question to them is who guards the guard, and the rest day is one answer.
+
+## Sources
+
+- [Dhammapada 157, trans. Thanissaro Bhikkhu (accesstoinsight)](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.12.than.html)
+- [Karaniya Metta Sutta (Sn 1.8), trans. Thanissaro Bhikkhu (accesstoinsight)](https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.than.html)
 
 ## Stories
 

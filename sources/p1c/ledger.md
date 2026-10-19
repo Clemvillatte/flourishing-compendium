@@ -281,3 +281,9 @@ copied from the opened URL in this session.
   fetched verbatim. MN 10 and SN 46 from the old seed locator were not opened; the
   hindrance framing is the compendium's, the breath-settling is the sutta's. Validated
   vs HEAD (pre-item).
+
+## B097 — Wish well, starting with yourself (Dhp 157; Sn 1.8)
+
+- Opened: https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.12.than.html (Dhp 157
+  fetched verbatim); Sn 1.8 reused from the B051 opening this session. Validated vs
+  HEAD (pre-item).
