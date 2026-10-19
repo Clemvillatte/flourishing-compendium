@@ -14,11 +14,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 
 When you encounter suffering: yours or another's — meet it with the wish to relieve it. Don't look away; don't drown in it.
 
+The Karaniya Metta Sutta gives the stance in its mother simile:
+
+> "As a mother would risk her life to protect her child, her only child, even so should one cultivate a limitless heart with regard to all beings. With good will for the entire cosmos, cultivate a limitless heart: Above, below, & all around, unobstructed, without enmity or hate." (Karaniya Metta Sutta, Sn 1.8, [Thanissaro](https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.than.html))
+
+The same sutta puts the suffering of others inside the wish: "Let no one deceive another or despise anyone anywhere, or through anger or irritation wish for another to suffer." The mother simile gives the temperature: engaged with the danger, without enmity toward it.
+
 (Metta Sutta; Karaniya Metta Sutta.)
 
-**Plain words** When you encounter suffering — yours or another's — meet it with the wish to relieve it. Don't look away; don't drown in it. Compassion is [[The middle path|the middle path]] between numbness and fusion: warm hands, dry feet.
+**Plain words**
+Two failure modes bookend compassion: looking away, and carrying the suffering as if it were yours. The sutta's mother does neither; she is fully engaged with her child without hating the danger. Compassion here is [[The middle path|the middle path]] between those failures. One practical version: when you meet someone's suffering, ask what would actually help, and include yourself in the arithmetic, because helpers who drown help no one. Warm hands, dry feet.
 
-*For example:* The friend who sits with you in the hospital and doesn't flood you with solutions or flee the room — just stays, useful and calm.
+**For example**
+The friend who sits with you in the hospital and doesn't flood you with solutions or flee the room — just stays, useful and calm.
+
+## Sources
+
+- [Karaniya Metta Sutta (Sn 1.8), trans. Thanissaro Bhikkhu (Access to Insight)](https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.than.html)
 
 ## Psychology parallels
 
