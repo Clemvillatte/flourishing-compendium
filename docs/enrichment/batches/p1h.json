@@ -19,10 +19,11 @@
   "D007": "inherited psych claims (Peng/Nisbett, Spencer-Rodgers) not verified; preserved per protocol",
   "D014": "Reopened for QC: milestone QC round 3: evidence scoping repairs",
   "D056": "Reopened for QC: milestone QC round 3: evidence scoping repairs",
-  "D061": "Reopened for QC: milestone QC round 3: evidence scoping repairs"
+  "D061": "Reopened for QC: milestone QC round 3: evidence scoping repairs",
+  "B027": "Baer 2006 psychology-parallel correction applied per supervisor QC 2026-10-19 (facet validation, differential correlations, incremental symptom prediction, PubMed URL)"
  },
  "missing_concepts": [],
  "sources_checked": 9,
- "updated": "2026-10-19T14:35:22+00:00",
+ "updated": "2026-10-19T14:37:39+00:00",
  "band_done": false
 }

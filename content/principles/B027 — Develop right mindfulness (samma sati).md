@@ -30,7 +30,7 @@ The four frames are body, feelings, mind and mental qualities, and each is held 
 
 ## Psychology parallels
 
-- **[[Dispositional mindfulness|Dispositional mindfulness]]**, predicts well-being and emotion regulation (Baer et al., 2006)
+- **[[Dispositional mindfulness|Dispositional mindfulness]]**, self-reported facets show differential correlations with other constructs and incremental prediction of psychological symptoms (Baer et al., 2006; [abstract](https://pubmed.ncbi.nlm.nih.gov/16443717/))
 
 ## Philosophy parallels
 
