@@ -26,11 +26,11 @@
   "B052",
   "P066",
   "B060",
-  "B130",
   "P196",
   "P030",
   "P121",
-  "B143"
+  "B143",
+  "B130"
  ],
  "in_progress": null,
  "flagged": {
@@ -41,10 +41,11 @@
   "B052": "Reopened for QC: milestone-25 QC repairs: removed invented psychology/overclaims, fixed locators, re-derived plain words",
   "P066": "Reopened for QC: milestone-25 QC repairs: removed invented psychology/overclaims, fixed locators, re-derived plain words",
   "B060": "Reopened for QC: milestone-25 QC repairs: removed invented psychology/overclaims, fixed locators, re-derived plain words",
-  "B143": "Reopened for QC: final QC repairs"
+  "B143": "Reopened for QC: final QC repairs",
+  "B130": "Reopened for QC: final QC repairs"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-19T13:59:32+00:00",
+ "updated": "2026-10-19T13:59:34+00:00",
  "band_done": false
 }
