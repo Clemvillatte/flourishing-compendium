@@ -12,13 +12,26 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 54** — Choose deliberately (prohairesis)
 
-Choice is not desire, not impulse, not opinion. It is deliberate desire for something within our power. It is the point where reason and desire meet and produce action. Your choices are what make you who you are. Take them seriously.
+Aristotle separates choice (prohairesis) from the things it is often confused with. In NE III.2, in Ross's translation:
 
-(NE III.2-4, VI.2-4.)
+> "Choice, then, seems to be voluntary, but not the same thing as the voluntary; the latter extends more widely. For both children and the lower animals share in voluntary action, but not in choice, and acts done on the spur of the moment we describe as voluntary, but not as chosen."
+> — Aristotle, Nicomachean Ethics III.2 ([MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html))
 
-**Plain words** Choice isn't impulse or opinion. It's reasoned desire for something you can actually do, the point where thinking and wanting produce action. Your choices make you who you are, so don't treat them lightly.
+He rules out appetite, anger, wish and "a kind of opinion". One test: "the incontinent man acts with appetite, but not with choice; while the continent man on the contrary acts with choice, but not with appetite."
 
-*For example:* Choosing to apologise first, after thinking it through, is different from blurting it out or wishing you could. It shapes you.
+### Deliberate desire
+
+III.3 gives the definition the principle paraphrases: "The object of choice being one of the things in our own power which is desired after deliberation, choice will be deliberate desire of things in our own power; for when we have decided as a result of deliberation, we desire in accordance with our deliberation."
+
+### Reason and desire together
+
+In VI.2: "The origin of action-its efficient, not its final cause-is choice, and that of choice is desire and reasoning with a view to an end. This is why choice cannot exist either without reason and intellect or without a moral state". And: "choice is either desiderative reason or ratiocinative desire, and such an origin of action is a man." The last clause is the nearest Aristotle comes to "your choices make you who you are". III.2 supports it differently: choice "discriminate[s] characters better than actions do".
+
+(NE III.2-3, VI.2.)
+
+**Plain words** For Aristotle, a choice is more than an impulse or a passing opinion. It is a considered desire for something you can do, where thinking and wanting meet and produce action. That is why choices say so much about a person.
+
+*For example:* Imagine apologising first after thinking it over. That is a choice. Blurting it out, or only wishing you had, is not.
 
 ## Stories
 
