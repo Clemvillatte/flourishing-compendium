@@ -12,18 +12,24 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 87** — Trust the luminous mind: defilements are visitors
 
-The mind's basic nature is luminous; greed, hatred, and delusion are visitors, not tenants. They pass; the clarity remains.
+AN 1.49-52 calls the mind luminous while describing both defilement and freedom from defilement. The longer passages connect discerning this with the development of the mind (trans. Thanissaro Bhikkhu, [text](https://accesstoinsight.org/tipitaka/an/an01/an01.049.than)).
 
-(AN 1.49-52.)
+> "Luminous, monks, is the mind. And it is freed from incoming defilements." (AN 1.49-52, trans. Thanissaro Bhikkhu, [text](https://accesstoinsight.org/tipitaka/an/an01/an01.049.than))
 
-**Plain words** The mind's basic nature is luminous; greed, hatred, and delusion are visitors, not tenants. They pass; the clarity remains. Weathering your weather long enough teaches you the sky was never the storm.
+Thanissaro's note describes disputed interpretations and offers a practical reading: greed, aversion and delusion need not be treated as necessary features of awareness, so one can work to abandon them. That is an interpretive account of cultivation, not proof of an unchanged clear self behind every mood (translator's note 1, [text](https://accesstoinsight.org/tipitaka/an/an01/an01.049.than)).
 
-*For example:* After the worst mood of the year passes — the mind that notices it passing is the same clear one that was there before it.
+### Plain words
+
+The compendium suggests avoiding the conclusion that an angry or confused state tells you everything you can ever become. Ask what you can do about the state and its consequences now. You can take responsibility for an action without deciding that the feeling behind it is your permanent identity.
+
+### For example
+
+Imagine recognising that you spoke harshly during an argument. Acknowledge the harm, consider what encouraged the reaction, and decide how to respond differently. The possibility of working on the pattern does not excuse the words or promise that the next difficult mood will simply pass on its own.
 
 ## Psychology parallels
 
-- **The broaden-and-build and undo effects**, positive affect restores baseline (Fredrickson, 2001)
-- **[[Resilience|Resilience research]]** (Bonanno)
+- **The broaden-and-build and undo effects**: Fredrickson reports faster cardiovascular recovery after induced anxiety under positive-emotion film conditions, not a universal restoration of emotional baseline ([2001, "Positive Emotions Undo Lingering Negative Emotions"](https://pmc.ncbi.nlm.nih.gov/articles/PMC3122271/)).
+- **[[Resilience|Resilience research]]**: Bonanno distinguishes maintaining functioning after adversity from a recovery trajectory; this is not evidence for an unchanging luminous mind ([2004, abstract](https://pubmed.ncbi.nlm.nih.gov/14736317/?otool=icznmelib)).
 
 ## Philosophy parallels
 
