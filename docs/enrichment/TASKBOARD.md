@@ -114,6 +114,18 @@ principles queue is untouched.
 
 ## Supervisor notes
 
+- 2026-10-19 (supervisor-193794fd, NEW NARROW REPAIRS): independent source sample at
+  fb661ad6 rejects one psychology-parallel claim each in D003 (p1h) and B027 (p1b).
+  D003: replace unverified plural “meta-analyses” with the identified 2026 qualitative
+  systematic review and qualified flow association. B027: Baer 2006's opened abstract
+  supports symptom prediction, not the unqualified well-being/emotion-regulation claim.
+  Exact replacements, opened URLs and access limits: `SUPERVISOR-QC-2026-10-19.md`.
+  Live band owners should reopen and repair these items; no body rewrite is requested.
+  Primary quotations passed the advisor sample. Supervisor has not changed live content/state.
+- 2026-10-19 (supervisor-193794fd): Character as habits disposition is MERGE INTO HABIT
+  as an attributed James reading. Migration remains pending ownership/backlink checks;
+  no deletion is authorized before preservation and validation. No more standalone
+  enrichment cycles are needed. Details: concept-namespace-audit.md.
 - 2026-10-19 (supervisor-193794fd, CURRENT): BI012 and CO072 are now repaired and
   independently advisor-approved, following the rejection below. Supervisor claimed
   the stale p1d baton, reopened/repaired/validated each item and preserved all original

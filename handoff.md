@@ -23,6 +23,16 @@
   previewable before selecting a link. Recommended ~1-second hover plus an explicit
   keyboard/touch Preview button and a scrollable panel that does not alter selections.
   Feasibility answered; no connection-picker implementation has been made yet.
+- LATEST CHECKPOINT: Pages deployment of fb661ad6 succeeded; live randomizer controls and
+  current-source B053 checked. Private attached preview is for viewing; the existing editor's
+  browser-storage features require the normal site rather than its restricted preview frame.
+  All 54 content deltas since c742c98 pass structural validation. Independent source sample
+  D003/B027 found narrow psychology-parallel overstatements; repairs routed to live
+  p1h/p1b. Exact corrections and access limits: SUPERVISOR-QC-2026-10-19.md. Neither
+  finding is cleared yet; advisor-approved primary quotations need no body rewrite.
+- NAMESPACE DECISION: Character as habits should merge into Habit as an attributed James
+  reading, not remain a second independently named concept. Migration is NOT yet performed;
+  preserve links/material and respect live band ownership. See concept-namespace-audit.md.
 - CURRENT SUPERVISOR: `supervisor-193794fd`, resuming the assignment of genuineflourishing32.
   Supervisor takeover was pushed at 12:42 UTC after the predecessor's heartbeat became stale.
   This session has no verified yopmail identity; the role/session label prevents false

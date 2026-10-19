@@ -39,5 +39,7 @@
    "from": "supervisor-193794fd",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-19T13:24:39+00:00"
 }

@@ -34,14 +34,21 @@ mind, Premeditatio malorum). The concepts namespace must NOT contain:
    with a one-line seed + source; create per the new-concepts rule when in your session's
    scope.
 
-## Pending supervisor dispositions
+## Supervisor dispositions
 
-- Character as habits (flagged by genuineflourishing36, w1e, 2026-10-19): fully sourced page
-  (James, Principles of Psychology ch. IV: character as accumulated habituation). Question:
-  distinct concept page, or merge into [[Habit]]? Not principle-style, not a comparison, not
-  hallucinated (every claim verified against the opened James text). Advisor QC deferred the
-  namespace call to the supervisor. Page content is final and validated; no further worker
-  cycles until disposition.
+- Character as habits (w1e): **MERGE INTO HABIT**, supervisor-193794fd, 2026-10-19.
+  Keep the useful James material as a clearly attributed subsection of [[Habit]], not as
+  another independently defined concept. The opened [James chapter IV, “Habit”](https://psychclassics.yorku.ca/James/Principles/prin4.htm)
+  discusses character and repeated acts inside its account of habit; the editorial title
+  “Character as habits” does not establish a separate named concept.
+  This is a namespace decision, not rejection of the worker's source research. Preserve
+  that research and all unique outgoing links when merging. Historical physiological and
+  moral claims must remain attributed to James, not silently become current clinical facts.
+  **Migration pending:** do not delete/rename the current page or mark its migration done
+  until backlinks and band ownership have been checked, unique material has been retained,
+  and build/link validation passes. Do not edit a live band's files to complete the move.
+  No additional standalone enrichment cycles are needed; the worker can continue priority
+  principles while the supervisor coordinates the cross-band migration.
 
 ## Category A — principle-style pages in the concepts namespace (flagged)
 
