@@ -68,9 +68,10 @@
   "BI072",
   "CO006",
   "CO065",
-  "CO073"
+  "CO073",
+  "CO074"
  ],
- "in_progress": "CO074",
+ "in_progress": null,
  "flagged": {
   "D011": "inherited psychology claim (Kashdan & Rottenberg 2010 'outperforms on nearly every outcome') not verified against an opened source; preserved per protocol, flagged for supervisor",
   "D068": "inherited psychology-parallels claims (Gottman soft startup; assertiveness research 'aggression reliably loses long games') not verified against opened sources; flagged for supervisor",
@@ -124,11 +125,12 @@
   "BI072": "inherited Sapolsky, Lövdén, Stern, Socrates, Neiye, Ecclesiastes parallels not opened; preserved",
   "CO006": "inherited Hutchins, Wegner, Mercier-Sperber, Ubuntu, Buber, Habermas parallels not opened; preserved",
   "CO065": "inherited Grossmann 2013/2017, Aristotle, Seneca, Buddhist parallels not opened; preserved",
-  "CO073": "inherited Todd-Gigerenzer 2012, Taleb 2012, Aristotle, Zhuangzi, Nietzsche parallels not opened; preserved"
+  "CO073": "inherited Todd-Gigerenzer 2012, Taleb 2012, Aristotle, Zhuangzi, Nietzsche parallels not opened; preserved",
+  "CO074": "inherited citation mismatch: psychology parallels cite Guilford 1950 for the divergent/convergent distinction, but Guilford 1950 discusses and criticizes a four-stage account and does not verify the generation-and-selection attribution; Runco 2004 abstract checked, no relevant definitions; supervisor review needed for the inherited formulation against the opened Hoepfner-Guilford-Bradley 1968 report"
  },
  "missing_concepts": [],
  "sources_checked": 47,
- "updated": "2026-10-19T15:16:40+00:00",
+ "updated": "2026-10-19T15:18:57+00:00",
  "band_done": false,
  "takeover": {
   "by": "genuineflourishing35",
