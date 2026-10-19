@@ -26,7 +26,8 @@
   "B020",
   "B038",
   "B082",
-  "B168"
+  "B168",
+  "B177"
  ],
  "in_progress": null,
  "flagged": {
@@ -37,6 +38,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 17,
- "updated": "2026-10-19T12:03:46+00:00",
+ "updated": "2026-10-19T12:04:40+00:00",
  "band_done": false
 }
