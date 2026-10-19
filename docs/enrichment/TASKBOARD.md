@@ -10,6 +10,12 @@ Standing repair queue (owner request, 2026-10-19): `plain-words-replicates.md` �
 principles whose Plain words copy their own body. Principles-band workers must fix the
 entries in their band as part of each item. Daoism, Buddhism and Pragmatism first.
 
+Concept namespace audit (owner request, 2026-10-19): `concept-namespace-audit.md` — the
+concepts namespace contains principles ("Pursue becoming, not arrival"), comparisons
+("Identified versus introjected motivation"), and at least one hallucinated page
+("The rehearsal of virtue"). Concept workers must apply the IS-IT-A-CONCEPT check
+(PROTOCOL.md §1 step 0) and flag/fix per the audit's process rules.
+
 ## How to claim
 
 1. Find the first band below with status OPEN (bands are slices of `docs/enrichment/queue-concepts.json`, highest graph degree first).

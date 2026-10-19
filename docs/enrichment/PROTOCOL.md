@@ -14,6 +14,15 @@ Voice = `HUMANIZER-SKILL.md` (read it; its rules are binding). Facts = verified,
 | Validate your edits | `python3 scripts/enrich_validate.py` (all modified) or pass paths |
 
 ## 1. Per-concept workflow
+0. IS IT A CONCEPT? A concept is an individual object with a clearly defined meaning and
+   context: a named thing a tradition or science actually defines (standard: The having
+   mode, Beginner's mind, Premeditatio malorum). It is NOT a principle (imperative or
+   normative claim, e.g. "Pursue becoming, not arrival"), NOT a comparison ("X versus Y"
+   — create the granular components instead), and NOT an invented term no source defines.
+   If the page you took is one of these, or you find one while working, flag it in
+   `concept-namespace-audit.md` (do not enrich it as a concept) and follow its process
+   rules. Verify in an opened source that the term is defined before writing a concept
+   page; zero hallucination applies to the concept's existence itself.
 1. READ the file in `content/concepts/<id>.md`. The one-line seed (e.g. "Care" — Noddings, Caring) names the tradition/source. Keep the front-matter byte-for-byte.
 2. READ how the compendium uses it: the entries under "Cited in ..." (titles + `context`), and the facet headings. The page must say what the compendium's principles do with the concept (cite their IDs and titles accurately).
 3. RESEARCH with `search_web`, `fetch_url`, `search_academic`. Prefer: Stanford Encyclopedia of Philosophy, IEP, Britannica, primary texts (chapter/section), review articles/meta-analyses (PubMed, journals), university presses. Verify: definition, origin (who, when, which work), key distinctions, main criticisms or limits, empirical status for psychology claims (including failed replications / small effects when they exist).
