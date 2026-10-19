@@ -12,13 +12,20 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 38** — Practice mindfulness of breathing (anapanasati)
 
-Know the breath as it enters and leaves; let attention ride the breath without controlling it. The breath is always available, portable, and calming.
+The Anapanasati Sutta gives the practice in a posture and an instruction. The posture: a monk "having gone to the wilderness, to the shade of a tree, or to an empty building, sits down folding his legs crosswise, holding his body erect, and setting mindfulness to the fore." The instruction: know the breath as it is, long or short, without controlling it.
 
-(Anapanasati Sutta, MN 118.)
+> "Breathing in long, he discerns, 'I am breathing in long'; or breathing out long, he discerns, 'I am breathing out long.' Or breathing in short, he discerns, 'I am breathing in short'; or breathing out short, he discerns, 'I am breathing out short.'" (MN 118, [Thanissaro, accesstoinsight](https://www.accesstoinsight.org/tipitaka/mn/mn.118.than.html))
 
-**Plain words** Know the breath as it enters and leaves; let attention ride the breath without controlling it. The breath is always available, portable, and calming — the one anchor that ships with the body. No app, no cushion, no retreat required.
+The compendium applies the sutta's availability: the instruction needs no equipment beyond a body that is already breathing, and the sutta counts that as enough.
 
-*For example:* Three conscious breaths in the car before walking into the interview — the oldest technology, still winning.
+**Plain words**
+The practice is noticing a thing your body already does. The breath is not made calm by the exercise; it is watched, long or short, exactly as it arrives. The sutta's monk goes somewhere quiet and sits, and the whole technology is attention aimed at the breath.
+
+*For example:* Suppose an interview in ten minutes. As a modern application, three conscious breaths in the car are the sutta's instruction at its smallest: discern the breath as it is, without fixing it.
+
+## Sources
+
+- [MN 118 (Anapanasati Sutta), trans. Thanissaro Bhikkhu (accesstoinsight)](https://www.accesstoinsight.org/tipitaka/mn/mn.118.than.html)
 
 ## Stories
 

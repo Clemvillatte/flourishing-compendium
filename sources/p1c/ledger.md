@@ -268,3 +268,9 @@ copied from the opened URL in this session.
   no — Buddhavagga, Dhp 183 fetched verbatim). DN 16 from the old seed locator was not
   opened; the threefold-training interdependence is presented as the compendium's
   reading of the verse, not as DN 16's claim. Validated vs HEAD (pre-item).
+
+## B038 — Practice mindfulness of breathing (MN 118)
+
+- Opened: https://www.accesstoinsight.org/tipitaka/mn/mn.118.than.html (MN 118,
+  Thanissaro; posture formula and breathing-instructions fetched verbatim). Validated vs
+  HEAD (pre-item). Same opening pre-mined for B082 (calming-bodily-fabrication sentence).
