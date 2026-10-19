@@ -27,7 +27,7 @@ The instructions then step through guarding the sense doors and onward, each sta
 (Gradual training: MN 27, MN 39, MN 107.)
 
 **Plain words**
-The accountant's point is that nobody teaches multiplication before counting. The training assumes the same: giving before precepts, order before concentration, calm before insight, each step load-bearing for the next. When practice stalls, the simile's question is not why is this taking so long, but which earlier step is missing.
+MN 107's staircase is built step by step: virtue first, then the further instructions, each added once the previous one holds. One application, clearly labelled: if a practice keeps stalling, review the earlier steps in the sutta's order before concluding the method is at fault.
 
 **For example**
 Trying advanced meditation on top of a chaotic life is like calculus before arithmetic — generosity and basic order are the arithmetic.

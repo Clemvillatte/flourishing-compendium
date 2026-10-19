@@ -20,15 +20,15 @@ The Dhammapada's image is a water pot filled drop by drop, applied in both direc
 >
 > 122. Think not lightly of good, saying, 'It will not come to me.' Drop by drop is the water pot filled. Likewise, the wise man, gathering it little by little, fills himself with good." (Dhammapada 121-122, [Buddharakkhita](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.09.budd.html))
 
-The verse's claim is modest: not that a single act makes you, but that the pot fills either way, and the filler is repeated small additions. The choice sits at the level of the drops.
+The verse's claim is modest: the pot fills either way, and the filler is repeated small additions. The choice sits at the level of the drops.
 
 (Dhammapada 121-122; SN 12.)
 
 **Plain words**
-The verse's unit is the drop, not the pot: nobody fills a water pot in one motion, and nobody becomes a worrier in one evening. Each repetition is one drop into whichever pot, and the verse's warning is that the smallness of the drop is what makes it easy to dismiss. Track the drops for a week before deciding the pot does not matter.
+A rough everyday version: each evening you either send the snippy reply or sleep on it, and the choice feels weightless because it is one email. The verse's claim is that the weight is in the count. One reply is nothing; the thousandth reply is a person.
 
 **For example**
-The nightly wind-down scroll — a thousand small votes for a restless brain, counted by morning.
+The nightly wind-down scroll, read in the verse's terms: a thousand drops into one pot.
 
 ## Sources
 

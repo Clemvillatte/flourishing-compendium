@@ -18,15 +18,17 @@ The Vitakkasanthana Sutta's ladder of responses to unskillful thoughts climbs to
 
 > "If evil, unskillful thoughts — imbued with desire, aversion or delusion — still arise in the monk while he is paying no mind and paying no attention to those thoughts, he should attend to the relaxing of thought-fabrication with regard to those thoughts. As he is attending to the relaxing of thought-fabrication with regard to those thoughts, those evil, unskillful thoughts are abandoned and subside." (MN 20, [Thanissaro](https://www.accesstoinsight.org/tipitaka/mn/mn.020.than.html))
 
-The simile the sutta attaches to this rung is a man slowing his own walking: "Just as the thought would occur to a man walking quickly, 'Why am I walking quickly? Why don't I walk slowly?' So he walks slowly." The attention moves to the pace of the thought itself, and the thought slows the way the walking slows. Nothing was pushed; the pace changed.
+The simile the sutta attaches to this rung is a man slowing his own walking: "Just as the thought would occur to a man walking quickly, 'Why am I walking quickly? Why don't I walk slowly?' So he walks slowly." The attention moves to the pace of the thought itself; the slowing in the image is something the walker does, in answer to his own question.
 
-(SN 35.245; the snake simile; MN 20.)
+The ladder's fifth and final rung is forceful — "with his teeth clenched and his tongue pressed against the roof of his mouth — he should beat down, constrain, and crush his mind with his awareness" — but the sutta places that rung after this one.
+
+(MN 20.)
 
 **Plain words**
-The method is a change of attention rather than a fight. When a thought keeps running, attend to the tension that is keeping it running, the way you would notice you are walking quickly. Noticing the pace is what slows the walking, and the question costs less effort than the sprint.
+The fourth method is a deliberate act: attend to the tension that fabricates the thought, and relax it. The sutta reports the abandoning as coming while the monk attends to that relaxing, and it keeps this rung ahead of the forceful one. An application, clearly labelled: when a loop keeps running, locate where it is being held tense and let that tension go.
 
 **For example**
-The old resentment that finally dissolved not when you fought it, but when you looked at it long enough — in the light, it wasn't a snake.
+The old resentment you stopped fighting and started examining — what it turned out to be was smaller than it looked in the dark.
 
 ## Sources
 

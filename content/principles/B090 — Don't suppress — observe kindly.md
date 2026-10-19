@@ -14,7 +14,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 
 Fighting a mental state drives it underground and strengthens it. Observe it with the kindness you would offer a restless child.
 
-The Vitakkasanthana Sutta gives a ladder of responses to unskillful thoughts, and suppression is not one of them. The rungs run: attend to another theme connected with the skillful, scrutinize the drawbacks, pay no mind, relax the thought-fabrication. The scrutiny rung is an inspection rather than a punishment:
+The Vitakkasanthana Sutta gives a ladder of five responses to unskillful thoughts, ordered gentle to forceful: attend to another theme connected with the skillful, scrutinize the drawbacks, pay no mind, relax the thought-fabrication, and as the last rung, beat down and crush the mind with awareness. The principle lives in the ordering: the forceful rung exists, but the sutta reaches it fifth. The scrutiny rung is an inspection rather than a punishment:
 
 > "If evil, unskillful thoughts — imbued with desire, aversion, or delusion — still arise in the monk while he is attending to this other theme, connected with what is skillful, he should scrutinize the drawbacks of those thoughts: 'Truly, these thoughts of mine are unskillful, these thoughts of mine are blameworthy, these thoughts of mine result in stress.'" (MN 20, [Thanissaro](https://www.accesstoinsight.org/tipitaka/mn/mn.020.than.html))
 
@@ -23,7 +23,7 @@ The scrutiny is addressed to the thought's costs, in the monk's own words, and t
 (MN 20.)
 
 **Plain words**
-The ladder never tells you to fight the thought; each rung changes your relation to it. When a thought keeps looping, try the rungs in order: give the mind another theme, ask what the loop is costing, withdraw the attention, relax the tension that is keeping it running. A rough application of the sutta's sequence, offered as an exercise rather than a promise.
+Four of the five rungs work with the thought; the fifth fights it, and the sutta puts that one last. When a thought keeps looping, try the rungs in order: give the mind another theme, ask what the loop is costing, withdraw the attention, relax the tension that is keeping it running. A rough application of the sutta's sequence, offered as an exercise rather than a promise.
 
 **For example**
 Trying NOT to think of the pink elephant versus letting it stand there politely while you keep working — the second is the one the sutta's ladder and the suppression research both point to.
