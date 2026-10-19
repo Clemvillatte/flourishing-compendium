@@ -8,13 +8,17 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC",
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
 
-Context-dependent behaviour is the finding at the centre of Wendy Wood and David Neal's 2007 model of habits, the research behind this page's seed line about environmental cues. Their definition: "Habits are learned dispositions to repeat past responses. They are triggered by features of the context that have covaried frequently with past performance, including performance locations, preceding actions in a sequence, and particular people." Gardner's later review reframes the same idea at the process level: habit is "a process by which a stimulus generates an impulse to act as a result of a learned stimulus-response association" (Gardner, 2015).
+Context-dependent behaviour is the finding at the centre of Wendy Wood and David Neal's [2007 model of habits](https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/wood.neal_.2007psychrev_a_new_look_at_habits_and_the_interface_between_habits_and_goals.pdf). Their definition: "Habits are learned dispositions to repeat past responses. They are triggered by features of the context that have covaried frequently with past performance, including performance locations, preceding actions in a sequence, and particular people."
+
+[Gardner's later review](https://pubmed.ncbi.nlm.nih.gov/25207647/) reframes the same idea at the process level: habit is "a process by which a stimulus generates an impulse to act as a result of a learned stimulus-response association" (Gardner, 2015). The impulse, Gardner adds, "need not generate behaviour": it can compete or combine with impulses and inhibitions from other sources, including conscious decision-making.
 
 ### How the cuing works
 
 The context is broad: physical locations, other people, and preceding actions in a sequence can all serve as cues. The associations accrue slowly, in procedural memory, and "do not shift appreciably with current goal states or infrequent counterhabitual responses" (Wood and Neal, 2007). Habits are typically "the residue of past goal pursuit": acquired while pursuing goals, then performed without a mediating goal.
 
-That persistence is the practical sting. Habits resist persuasion, so "interventions to maximize habit change provide people with concrete tools for controlling habit cuing" rather than appeals to motivation (Wood and Neal, 2007). The model offers two control routes. Effortful inhibition fires after the cue, draws on a limited regulatory resource, and alone tends not to produce lasting change. Altering cue exposure works upstream: disabling a notification, or exploiting naturally occurring context changes such as moving house or changing job, which Verplanken and Wood proposed as windows for habit change interventions.
+That persistence is the practical sting. Habits resist persuasion: "interventions to maximize habit change provide people with concrete tools for controlling habit cuing" rather than appeals to motivation (Wood and Neal, 2007).
+
+The model offers two control routes. Effortful inhibition fires after the cue and is described in the model as drawing on a limited regulatory resource; the authors judge strategies built on inhibition alone unlikely to achieve long-term change. Altering cue exposure works upstream: disabling a notification, or exploiting naturally occurring context changes such as moving house or changing job, which Verplanken and Wood proposed as windows for habit change interventions.
 
 ### In the compendium
 
@@ -30,7 +34,7 @@ A108, "Practise habituation through repeated action," is Aristotle's version of 
 - [[Situation selection]] — the emotion-regulation family cue-control belongs to
 - [[Environmental design]] — the applied arm of controlling cues
 - [[Designing the environment for virtue]] — the compendium's Aristotelian version of cue control
-- [[Ego depletion]] — the limited resource effortful inhibition draws on
+- [[Ego depletion]] — the resource account invoked in Wood and Neal's 2007 discussion of inhibition
 - [[Character as habits]] — the character-level reading of the same mechanism
 - [[Belief as habit]] — beliefs as settled dispositions, the Peirce-James cousin
 - [[Nudge theory Thaler]] — choice architecture as cue control at scale

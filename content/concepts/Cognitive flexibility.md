@@ -9,7 +9,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
 
-Cognitive flexibility is one of the three core executive functions, alongside inhibition and working memory (Miyake et al., 2000; Diamond, 2013). It is the capacity to switch perspectives, think "outside the box", and adapt to changed circumstances; Diamond's review calls it "the opposite of rigidity", notes that it is also called set shifting or mental flexibility, and links it closely to creativity. In the laboratory it is measured with task-switching and set-shifting paradigms, the oldest being the Wisconsin Card Sorting Task, a classic test of prefrontal cortex function.
+Cognitive flexibility is one of the three core executive functions, alongside inhibition and working memory (Miyake et al., 2000; [Diamond, 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC4084861/)). It is the capacity to switch perspectives, think "outside the box", and adapt to changed circumstances; Diamond's review calls it "the opposite of rigidity", notes that it is also called set shifting or mental flexibility, and links it closely to creativity. In the laboratory it is measured with task-switching and set-shifting paradigms, including the Wisconsin Card Sorting Task, "a classic test of prefrontal cortex function".
 
 ### Built on the other two
 
@@ -19,13 +19,15 @@ Task switching improves through childhood and declines during aging (Diamond, 20
 
 ### The broader construct
 
-Above the lab tasks sits psychological flexibility, defined by Kashdan and Rottenberg as the ability to "recognize and adapt to various situational demands; shift mindsets or behavioral repertoires when these strategies compromise personal or social functioning; maintain balance among important life domains; and be aware, open, and committed to behaviors that are congruent with deeply held values" (2010). Their review argues flexibility is a fundamental aspect of health and notes that in many forms of psychopathology "these flexibility processes are absent".
+A related construct is [psychological flexibility](https://pmc.ncbi.nlm.nih.gov/articles/PMC2998793/), defined by Kashdan and Rottenberg as the ability to "recognize and adapt to various situational demands; shift mindsets or behavioral repertoires when these strategies compromise personal or social functioning; maintain balance among important life domains; and be aware, open, and committed to behaviors that are congruent with deeply held values" (2010). Their review argues it is a fundamental aspect of health and notes that in many forms of psychopathology "these flexibility processes are absent".
 
 ### In the compendium
 
-The compendium ties the concept to its loosening of fixed essences. B010, "See emptiness — nothing has a fixed essence (shunyata)," teaches exactly this looseness of category-assignment, and B121's Heart Sutra line on form and emptiness does the same. P021, "Treat ideas as tools, not mirrors," and D016's distrust of names and labels apply it to concepts. D156, "Stay flexible — rigidity is death's companion," is the Daoist version, and CO045, "Cultivate cognitive flexibility — the capacity to switch between modes," carries the term directly. PP081's psychological flexibility is the ACT cousin.
+The compendium ties the concept to its loosening of fixed essences. B010, "See emptiness — nothing has a fixed essence (shunyata)," teaches exactly this looseness of category-assignment, and B121's Heart Sutra line on form and emptiness does the same.
 
-The bridge is worth an essay: a 2,500-year-old claim that things lack fixed essence meets a research programme finding that rigid essence-assignment marks distress while loosening categories aids adaptation (Kashdan and Rottenberg, 2010). The resonance is a comparison, not a claim of influence.
+P021, "Treat ideas as tools, not mirrors," and D016's distrust of names and labels apply it to concepts. D156, "Stay flexible — rigidity is death's companion," is the Daoist version, and CO045, "Cultivate cognitive flexibility — the capacity to switch between modes," carries the term directly. PP081's psychological flexibility is the ACT cousin.
+
+The essay question: does the Buddhist training in seeing things as empty of fixed essence exercise the same capacity the lab measures as set-shifting? The connection is a question, not a finding.
 
 ## Other formulations in this library
 
@@ -39,7 +41,7 @@ The bridge is worth an essay: a 2,500-year-old claim that things lack fixed esse
 
 - [[Executive function theory Miyake]] — the factor-analytic triad this concept completes
 - [[Attentional flexibility (set-shifting)]] — the lab-task side of the same capacity
-- [[Psychological flexibility]] — the broader health construct this feeds into
+- [[Psychological flexibility]] — the clinical cousin spanning values and life domains
 - [[Working memory capacity limits]] — the resource that holds the new perspective
 - [[Shunyata]] — the Buddhist loosening of fixed essence this research echoes
 - [[Nonattachment]] — holding views lightly, the meditative cousin
