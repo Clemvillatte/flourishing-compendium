@@ -33,7 +33,9 @@ Philosophy parallels) and the `<!-- fc: reflections -->` comment.
 3. VERIFY against the primary source. The owner's library is in `docs/PRIMARY-SOURCES.md`
    (Google Drive links); fall back to a citable web edition (Perseus, MIT Classics,
    accesstoinsight, SEP/IEP) when needed. ZERO hallucination: every quote must be copied from
-   a source you actually opened, with its locator (book, chapter, Bekker/section/page).
+   a source you actually opened, with its locator (book, chapter, Bekker/section/page). Any
+   words inside quotation marks — including short fragments quoted mid-sentence — must match
+   the opened source word-for-word; if you paraphrase, do not use quotation marks.
 4. REWRITE the body, keeping:
    - the front-matter and the blockquote principle statement untouched;
    - ALL existing links and the reflections comment untouched;
