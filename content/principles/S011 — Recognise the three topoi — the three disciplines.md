@@ -12,13 +12,16 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 133** — Recognise the three topoi: the three disciplines
 
-Epictetus organises Stoic practice into three disciplines: the discipline of desire (what to want and avoid), the discipline of action (how to behave), and the discipline of assent (how to judge). These three correspond to the three parts of philosophy: physics, ethics, and logic. Know which discipline you are practising at any given moment.
+Epictetus writes:
 
-(Disc. III.2; Ench. 1-3.)
+> "There are three things in which a man ought to exercise himself who would be wise and good."
+> (Disc. III.2, [Internet Classics Archive text](https://classics.mit.edu/Epictetus/discourses.3.three.html))
 
-**Plain words** Epictetus sorts practice into three: desire, action, judgement. What to want and avoid, how to behave, how to assess impressions. Know which one you're working on at any moment. They correspond to the three parts of Stoic philosophy.
+The first area concerns desire and aversion. The second concerns doing what one ought, in an orderly and reasoned way. The third concerns avoiding deception and rash judgement when giving assent. Epictetus gives priority to the affects, which he links to frustrated desire and encountering what one wants to avoid. As a practical exercise, use these areas as questions to bring to the same situation. (Disc. III.2.)
 
-*For example:* Feeling jealous? That's desire. Unsure what to do about a late colleague? Action. Convinced they did it out of spite? Judgement.
+**Plain words** Wanting an apology leaves other questions unanswered: how should you speak to the person, and have you understood what happened? The three disciplines ask you to examine what you want, consider an appropriate action, and check what you are accepting as true. You may need all three questions.
+
+*For example:* Suppose a colleague arrives late. Examine what you expected from them, decide how to handle the delay, and check the evidence before concluding that they intended an insult.
 
 ## Stories
 
@@ -68,7 +71,8 @@ Epictetus organises Stoic practice into three disciplines: the discipline of des
 ## Philosophy parallels
 
 - **[[The unity of the virtues|The unity of the virtues]]** (Plato, Protagoras)
-- **[[The three trainings|The three trainings]]** (Buddhist tradition: sila, samadhi, prajna)- **[[The three disciplines|The three disciplines]]** (Stoicism)
+- **[[The three trainings|The three trainings]]** (Buddhist tradition: sila, samadhi, prajna)
+- **[[The three disciplines|The three disciplines]]** (Stoicism)
 
 
 <!-- fc: reflections

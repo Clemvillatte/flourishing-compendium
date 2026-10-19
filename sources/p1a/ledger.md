@@ -6,6 +6,13 @@ AgentA before this ledger existed; their evidence lives in the QC log and the fi
 themselves. D087 was enriched by AgentA and repaired by genuineflourishing24 this
 session after supervisor QC flags.
 
+## S011 — Recognise the three topoi: the three disciplines (done 2026-10-19)
+
+- Opened: Discourses Book 3, Internet Classics Archive (https://classics.mit.edu/Epictetus/discourses.3.three.html) — verified verbatim the III.2 opening ("There are three things in which a man ought to exercise himself who would be wise and good.") and the affects-priority sentence. The page credits no translator; the citation says "Internet Classics Archive text" rather than inferring Long.
+- Opened: IEP entry on Epictetus (https://iep.utm.edu/epictetu/) — checked the inherited claim that the disciplines correspond to physics/ethics/logic: the IEP does not state the correspondence. The correspondence is NOT presented as verified support in the body; recorded here as inherited and not established by the consulted passages (not called false either).
+- NOT opened/unused inherited references: Ench. 1-3 (the Enchiridion was opened for S001 but not used for this item's claims) — recorded here, not presented as verified support; the seed locator was replaced by the reviewed body citing Disc. III.2.
+- Saturation: "The three disciplines" concept page (seed, 88 words) cites no principle — reciprocal proposal added (The three disciplines -> S011). Self-regulation, Psychological flexibility, The unity of the virtues, The three trainings read; the latter three already link S011; Self-regulation links no principle but the connection (Carver/Scheier self-regulation vs Epictetan disciplines) is not established by opened passages, so no proposal.
+
 ## S007 — Accept what happens as the will of providence (done 2026-10-19)
 
 - Opened: George Long's translation of the Meditations, Internet Classics Archive — Book 4 (https://classics.mit.edu/Antoninus/meditations.4.four.html), Book 5 (https://classics.mit.edu/Antoninus/meditations.5.five.html), Book 8 (https://classics.mit.edu/Antoninus/meditations.8.eight.html).
