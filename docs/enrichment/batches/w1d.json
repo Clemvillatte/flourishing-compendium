@@ -2,15 +2,19 @@
  "batch": "w1d",
  "done": [
   "Escape from freedom",
-  "Eternal recurrence"
+  "Eternal recurrence",
+  "The eternal contribution"
  ],
- "in_progress": "The eternal contribution",
- "flagged": {},
+ "in_progress": null,
+ "flagged": {
+  "The eternal contribution": "compendium coinage, not a traditional term: page says so in its first sentence; written for the sense BE068 uses"
+ },
  "missing_concepts": [],
- "sources_checked": 6,
- "updated": "2026-10-19T07:27:28+00:00",
+ "sources_checked": 8,
+ "updated": "2026-10-19T07:31:19+00:00",
  "qc_log": {
   "Escape from freedom": "approved after 4 advisor QC rounds: quotes verified against opened sources (panarchy ch. V excerpt, Wikipedia, IEP Totalitarianism 2.d, SEP Critical Theory 1.4); Simondon Individuation and The having mode removed from Related; cross-tradition links labelled comparisons; sources_checked: 4",
-  "Eternal recurrence": "advisor QC round: Heidegger/Kaufmann claims removed (not in fetched SEP extraction); 'you' narration neutralised; Tiantai attribution fixed for Three thousand realms; compendium descriptions re-verified against E104, SP027, BE068, AF069, SE007, ST293 contexts"
+  "Eternal recurrence": "advisor QC round: Heidegger/Kaufmann claims removed (not in fetched SEP extraction); 'you' narration neutralised; Tiantai attribution fixed for Three thousand realms; compendium descriptions re-verified against E104, SP027, BE068, AF069, SE007, ST293 contexts",
+  "The eternal contribution": "self-QC per protocol (advisor QC reserved for milestones): all quotes verbatim from opened sources (GS 341 text, SEP 6.3, Wikipedia Erikson); interpretation marked as compendium use"
  }
 }
