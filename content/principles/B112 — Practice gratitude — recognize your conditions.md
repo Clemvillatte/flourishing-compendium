@@ -19,7 +19,7 @@ The Kataññu Suttas frame gratitude as a mark of integrity rather than as a ple
 >
 > — Aṅguttara Nikāya 2:31-32, Kataññu Suttas ([Thanissaro Bhikkhu](https://www.dhammatalks.org/suttas/AN/AN2_31.html))
 
-**Plain words** The compendium's application of this principle asks the reader to notice, in their own life, the particular people whose labor and care make things possible for them, and to consider what acknowledging or returning that care would actually involve. The sutta does not stop at the noticing; it treats the noticing as something that leads toward a response.
+**Plain words** The sutta asks for noticing, not only feeling. It names the people whose labor and care make things possible, and treats the noticing as something that leads toward a response rather than stopping at it.
 
 For example (imagined): a person sits down to a meal and names, briefly, three of the people whose work brought it to the table. The meal is unchanged; the person's attention has changed.
 

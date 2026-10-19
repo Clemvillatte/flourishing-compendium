@@ -24,7 +24,7 @@ The compendium pairs two teachings under this title. One is the Xinxin Ming, the
 >
 > — Seung Sahn, The Compass of Zen ([Kwan Um School of Zen](https://kwanumzen.org/teaching-blog/i-only-teach-dont-know))
 
-**Plain words** The compendium's application of this principle asks the reader to notice when they are about to turn a first impression into a settled verdict, and to hold the verdict lightly instead of closing on it. The Xinxin Ming names the sorting itself as the disease; what follows from that for the reader's own conduct is left to the reader to determine.
+**Plain words** The Xinxin Ming names the sorting of liked against disliked as the disease, not a feeling to be managed. What follows from that for the reader's own conduct is left to the reader to determine.
 
 For example (imagined): someone meets a new colleague and notices they are already forming a judgment. They let the judgment stay provisional, and continue the conversation without having settled it.
 

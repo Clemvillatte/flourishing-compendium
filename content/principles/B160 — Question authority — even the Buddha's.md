@@ -19,7 +19,7 @@ The Kalama Sutta gives the instruction in its own terms. The Buddha tells a grou
 >
 > — Aṅguttara Nikāya 3.65, Kalama Sutta ([Thanissaro Bhikkhu, AccessToInsight](https://www.accesstoinsight.org/tipitaka/an/an03/an03.065.than.html))
 
-**Plain words** The compendium's application of this principle asks the reader to notice the criteria the sutta actually names, rather than relying on the source of a teaching. The check the sutta describes is about the qualities a teaching encourages in the person following it, and the effects of those qualities when carried out. The reader applies this in their own situations.
+**Plain words** The check the sutta describes is about the qualities a teaching encourages in the person following it, and the effects of those qualities when carried out. It is not about the source of the teaching.
 
 For example (imagined): someone is taught a practice by a respected instructor. They consider, for themselves, whether the qualities the practice encourages appear skillful and blameless in their own life, and whether following it appears to lead toward welfare rather than harm.
 
