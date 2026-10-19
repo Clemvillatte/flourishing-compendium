@@ -14,16 +14,16 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 
 When you encounter suffering: yours or another's — meet it with the wish to relieve it. Don't look away; don't drown in it.
 
-The Karaniya Metta Sutta gives the stance in its mother simile:
+A note on the citation: the compendium's source is the Karaniya Metta Sutta, a passage on good will (metta); its lines are applied here to compassion (karuna), the wish that suffering be relieved. The sutta's container for the wish:
 
 > "As a mother would risk her life to protect her child, her only child, even so should one cultivate a limitless heart with regard to all beings. With good will for the entire cosmos, cultivate a limitless heart: Above, below, & all around, unobstructed, without enmity or hate." (Karaniya Metta Sutta, Sn 1.8, [Thanissaro](https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.than.html))
 
-The same sutta puts the suffering of others inside the wish: "Let no one deceive another or despise anyone anywhere, or through anger or irritation wish for another to suffer." The mother simile gives the temperature: engaged with the danger, without enmity toward it.
+The same sutta puts the suffering of others inside the wish: "Let no one deceive another or despise anyone anywhere, or through anger or irritation wish for another to suffer."
 
 (Metta Sutta; Karaniya Metta Sutta.)
 
 **Plain words**
-Two failure modes bookend compassion: looking away, and carrying the suffering as if it were yours. The sutta's mother does neither; she is fully engaged with her child without hating the danger. Compassion here is [[The middle path|the middle path]] between those failures. One practical version: when you meet someone's suffering, ask what would actually help, and include yourself in the arithmetic, because helpers who drown help no one. Warm hands, dry feet.
+One concrete version, offered as this page's application rather than the sutta's own instruction: when you meet someone's suffering, ask what assistance they want, offer something feasible, and consider what you have capacity to give. Two common failures are looking away and taking on more than you can carry, and this page treats compassion as [[The middle path|the middle path]] between them.
 
 **For example**
 The friend who sits with you in the hospital and doesn't flood you with solutions or flee the room — just stays, useful and calm.

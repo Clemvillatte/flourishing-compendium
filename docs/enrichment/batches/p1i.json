@@ -32,10 +32,13 @@
   "D118": "Reopened for QC: milestone QC",
   "D129": "Reopened for QC: milestone QC",
   "D142": "Reopened for QC: milestone QC",
-  "D166": "Reopened for QC: milestone QC"
+  "D166": "Reopened for QC: milestone QC",
+  "B052": "Reopened for QC: milestone-25 QC repairs: removed invented psychology/overclaims, fixed locators, re-derived plain words",
+  "P066": "Reopened for QC: milestone-25 QC repairs: removed invented psychology/overclaims, fixed locators, re-derived plain words",
+  "B060": "Reopened for QC: milestone-25 QC repairs: removed invented psychology/overclaims, fixed locators, re-derived plain words"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-19T13:46:09+00:00",
+ "updated": "2026-10-19T13:49:05+00:00",
  "band_done": false
 }

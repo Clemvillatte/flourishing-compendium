@@ -14,23 +14,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 
 Before experience is sorted into "subject" and "object" or "thought" and "thing," there is just experience: one flowing stuff. Return to that pre-dual layer regularly.
 
-James's definition, in Essays in Radical Empiricism:
+James's definition, opening the essay "The Thing and its Relations":
 
 > "'Pure experience' is the name which I gave to the immediate flux of life which furnishes the material to our later reflection with its conceptual categories. Only new-born babes, or men in semi-coma from sleep, drugs, illnesses, or blows, may be assumed to have an experience pure in the literal sense of a that which is not yet any definite what, tho' ready to be all sorts of whats; full both of oneness and of manyness, but in respects that don't appear; changing throughout, yet so confusedly that its phases interpenetrate and no points, either of distinction or of identity, can be caught." (James, Essays in Radical Empiricism, [Gutenberg](https://www.gutenberg.org/files/32547/32547-h/32547-h.htm))
 
-The subject/object split, on James's account, is retrospective work: "The instant field of the present is at all times what I call the 'pure' experience. It is only virtually or potentially either object or subject as yet. For the time being, it is plain, unqualified actuality, or existence, a simple that." The doubling of a moment into a state of mind and a reality intended by it happens in retrospection.
+The subject/object split, on James's account, is retrospective work: "The instant field of the present is at all times what I call the 'pure' experience. It is only virtually or potentially either object or subject as yet. For the time being, it is plain, unqualified actuality, or existence, a simple that." The doubling of a moment into a state of mind and a reality intended by it happens in retrospection. This page's application, rather than a claim James makes: noticing a moment before it is sorted is an attentional exercise, not the attainment of experience "pure in the literal sense," which James reserves for the limit cases in the passage above.
 
 (James, Essays in Radical Empiricism, 1912.)
 
 **Plain words**
-The sorting of a moment into what I thought and what happened is a second act; the moment itself arrives unsorted. The instruction to return to the pre-split layer is a return to what is already there before the filing starts. A practical handle: catch any moment before you name it, the light on the desk, the sound arriving, and stay a beat with it before the labels land.
+The sorting of a moment into what I thought and what happened is a second act; the moment itself arrives unsorted. The instruction to return to the pre-split layer is a return to what is already there before the filing starts, an exercise rather than a claim about what experience ultimately is. A practical handle: catch any moment before you name it, the light on the desk, the sound arriving, and stay a beat with it before the labels land.
 
 **For example**
-Totally absorbed in the swim — no swimmer, no water, just swimming. Then the mind files it into 'me' and 'pool.' The swimming was first.
+You can spend an hour absorbed in swimming, and only afterward does the mind file it into 'me' and 'pool.' The filing comes later; the swimming was there first.
 
 ## Sources
 
-- [William James, Essays in Radical Empiricism (Project Gutenberg)](https://www.gutenberg.org/files/32547/32547-h/32547-h.htm) — "A World of Pure Experience"; "The Thing and Its Relations"
+- [William James, Essays in Radical Empiricism (Project Gutenberg)](https://www.gutenberg.org/files/32547/32547-h/32547-h.htm) — "Does 'Consciousness' Exist?"; "The Thing and Its Relations"
 
 ## Practice kernels
 

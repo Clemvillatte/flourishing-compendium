@@ -18,12 +18,12 @@ The Genjokoan names the trap in two lines:
 
 > "When one first seeks the Dharma, one strays far from the boundary of the Dharma. When the Dharma is correctly transmitted to the self, one is immediately an original person." (Dogen, Genjokoan, [Okumura trans.](https://tricycle.org/article/dogen-genjokoan/))
 
-The same fascicle extends the caution to the fish and the bird: they move without first surveying the whole, and "if there are fish that would swim or birds that would fly only after investigating the entire ocean or sky, they would find neither path nor place." The seeking mind, turned on practice, audits progress toward something that is not somewhere else.
+The same fascicle extends the caution to the fish and the bird: they move without first surveying the whole, and "if there are fish that would swim or birds that would fly only after investigating the entire ocean or sky, they would find neither path nor place." Read as this page's application: the seeking mind, turned on practice, can become an audit of progress toward something that is not somewhere else.
 
-(Dogen, Genjokoan; Suzuki.)
+(Dogen, Genjokoan.)
 
 **Plain words**
-A gaining idea treats awakening as an object to acquire, which puts it inside the machinery of wanting, the very machinery the practice points past. The grasping mind can turn even peace into a commodity to acquire, which is the problem wearing a solution's uniform. Dogen's fish does not first survey the ocean; it swims. Sit the same way: practice as the thing itself, not the audit of progress toward it.
+A gaining idea treats awakening as an object to acquire, and the grasping mind can turn even peace into a commodity to acquire, which is the problem wearing a solution's uniform. One practical version, this page's application rather than Dogen's own phrasing: when you notice yourself checking progress during a sitting, return to the practice itself without giving that sitting a score.
 
 **For example**
 Meditating to 'achieve calm' and getting tense about progress — the measurement was the agitation.
