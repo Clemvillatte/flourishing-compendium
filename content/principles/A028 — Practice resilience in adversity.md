@@ -13,17 +13,17 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 
 > **Principle 28** — Practice resilience in adversity
 
-Aristotle's argument is about whether happiness depends on fortune. He concludes that it does not, since the activities in conformity with virtue are more lasting than fortune's favours. He then describes what this looks like in a person under misfortune: nobility shining through when severe reverses are borne patiently, not from insensibility but from greatness of soul ([NE I.10, Rackham, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=1)).
+Aristotle's argument in I.10 is more qualified than a slogan about fortune-proof happiness. He acknowledges that great and frequent reverses can crush and mar bliss, both by the pain they cause and by the hindrance they offer to activity. What he holds onto is that the person of virtue will not become miserable, because their life is determined by their activities, and they will bear all kinds of fortune in a seemly way, acting in the noblest manner the circumstances allow ([NE I.10, Rackham, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=1)). He marks the limit himself: such a person will not be supremely blessed if they encounter the misfortunes of a Priam.
 
 > Yet nevertheless even in adversity nobility shines through, when a man endures repeated and severe misfortune with patience, not owing to insensibility but from generosity and greatness of soul.
 >
 > — Nicomachean Ethics I.10 ([Rackham, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=1))
 
-**Plain words** The compendium's application of this principle asks the reader to notice that Aristotle's resilience is not insensibility. He distinguishes bearing misfortune patiently from not feeling it. What holds the person up, in his account, is the activity of virtue itself, which fortune does not control the same way it controls events.
+**Plain words** Aristotle's resilience is not insensibility. He distinguishes bearing misfortune patiently from not feeling it. Fortune can still hurt and hinder, but it does not reach the part of a life that is made of virtuous activity.
 
-For example (imagined): someone who has spent years keeping promises in small things is more likely to keep one when keeping it costs them dearly.
+For example (imagined): one person who has spent years keeping promises in small things keeps one, later, at a cost they did not expect to pay.
 
-(NE I.10, I.11; EE VII.14.)
+(NE I.10.)
 
 ## Stories
 
