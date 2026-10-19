@@ -25,7 +25,7 @@
   "B166",
   "B192"
  ],
- "in_progress": null,
+ "in_progress": "P029",
  "flagged": {
   "D017": "QC note: inherited scab example kept per protocol; advisor calls it a medical claim needing a source; supervisor to arbitrate",
   "BI012": "QC round 3: list narrowed to principle's own directive + thyroid evidence only; inherited example still flagged for supervisor. Carter quotation corrected to 'in one word', verified against the opened MIT edition (genuineflourishing30). Other owner-requested corrections have not been reverified in this takeover",
@@ -43,5 +43,5 @@
  },
  "missing_concepts": [],
  "sources_checked": 10,
- "updated": "2026-10-19T11:58:53+00:00"
+ "updated": "2026-10-19T11:58:57+00:00"
 }
