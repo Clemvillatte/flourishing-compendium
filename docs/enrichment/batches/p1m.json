@@ -15,7 +15,9 @@
   "B024"
  ],
  "in_progress": "B034",
- "flagged": {},
+ "flagged": {
+  "B034": "Research-selection error: B034 is outside p1m and already complete in p1i. No B034 content or source-ledger edits were made; clear mistaken in_progress and continue with manifest B037."
+ },
  "missing_concepts": [
   {
    "title": "Deny yourself, take up the daily practice",
@@ -24,5 +26,5 @@
   }
  ],
  "sources_checked": 32,
- "updated": "2026-10-19T14:58:36+00:00"
+ "updated": "2026-10-19T15:00:26+00:00"
 }
