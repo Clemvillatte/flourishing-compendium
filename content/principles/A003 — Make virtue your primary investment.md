@@ -12,13 +12,28 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 3** — Make virtue your primary investment
 
-[[Virtue|Virtue (arete)]] is not rule-following. It is a settled disposition (hexis) to choose the mean relative to us, as determined by reason. Invest in who you are becoming, not only in what you achieve. Character is the foundation; achievements are its expression.
+Aristotle starts Book II by saying where virtue comes from. In Ross's translation:
 
-(NE II.1, II.5.)
+> "Neither by nature, then, nor contrary to nature do the virtues arise in us; rather we are adapted by nature to receive them, and are made perfect by habit."
+> — Aristotle, Nicomachean Ethics II.1 ([MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html))
 
-**Plain words** Rules tell you what to do in a given moment. Virtue is a settled habit of choosing well, so you don't have to look it up. Aristotle says to put your effort there. Results come and go; character is the thing that produces them.
+### Habit forms character
 
-*For example:* Someone who is honest because it's who they are doesn't agonise over whether to admit the billing error. They just call and fix it.
+"We become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts." And: "states of character arise out of like activities", and "It makes no small difference, then, whether we form habits of one kind or of another from our very youth; it makes a very great difference, or rather all the difference."
+
+### A state, not a feeling
+
+In II.5 he argues that [[Virtue|Virtue (arete)]] is not a passion, because "we feel anger and fear without choice, but the virtues are modes of choice or involve choice." It is a "state of character." In II.6 he adds what kind: "a state of character concerned with choice, lying in a mean, i.e. the mean relative to us, this being determined by a rational principle, and by that principle by which the man of practical wisdom would determine it." The same chapter says virtue "makes a man good and ... makes him do his own work well".
+
+### Wording of the principle
+
+"Not rule-following" and "invest in who you are becoming" are the compendium's phrasing. Aristotle's own point is that character is formed by repeated action and judged by choice.
+
+(NE II.1, II.5, II.6.)
+
+**Plain words** Virtue, for Aristotle, is a settled habit of choosing well, built by acting well over and over. It is not a feeling and not a lookup table of rules. The practical upshot is to put effort into the habits that make up who you are.
+
+*For example:* Imagine someone who is honest as a matter of habit. When they notice a billing error in their favour, they call and fix it without a long debate.
 
 ## Practice kernels
 
