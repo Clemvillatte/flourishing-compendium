@@ -12,16 +12,16 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 55** — Don't force
 
-Chapter 29 of the Daodejing states the cost outright:
+Chapter 29 of the Daodejing concerns an attempt to gain possession of the kingdom:
 
 > "The kingdom is a spirit-like thing, and cannot be got by active doing. He who would so win it destroys it; he who would hold it in his grasp loses it."
 > (DDJ 29, [Legge's translation](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
-The chapter ends with the sage's rule of conduct: he "puts away excessive effort, extravagance, and easy indulgence". Chapter 64 carries the same restraint into ordinary work: the sage "helps the natural development of all things, and does not dare to act (with an ulterior purpose of his own)" (DDJ 64, Legge). The compendium's practical reading: before adding force to a stuck effort, check what the thing would do without your grip, and loosen before you push. (DDJ 29, 64.)
+Chapter 64 describes the sage as someone who "helps the natural development of all things, and does not dare to act (with an ulterior purpose of his own)" (DDJ 64). The compendium applies this caution to everyday action: before increasing your effort, examine what your intervention is doing and whether to change your approach. (DDJ 29, 64.)
 
-**Plain words** When something is stuck, the reflex is more force: push harder, insist more, repeat louder. The Daodejing's claim is that on things with their own grain this works badly, that the doing itself is what spoils the result. The alternative is diagnostic: ask what the situation is made of, and what it would do if you let go for a moment. The answer decides the next move, which may still be a push, only aimed at the part that actually gives.
+**Plain words** Separate the result you want from the way you are trying to get it. Does your current approach help? Is there something you need to understand before doing more? You might pause or offer a different kind of help. These passages leave room for helping something develop; they do not establish that every effort is a mistake.
 
-*For example:* A stuck zipper will not open by main strength. Ease the fabric, work the slide gently, and the same force that would have broken it opens it.
+*For example:* Suppose a colleague says they need time to think about a proposal. Agree when to return to it and stop asking for an immediate answer.
 
 ## Stories
 
