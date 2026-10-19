@@ -249,3 +249,15 @@ copied from the opened URL in this session.
   "turns up/turns down control" Plain words until this repair. Corrections now
   re-applied to content/ and drafts/p1c/, validated vs 34aad55; BI013 reopened and
   re-marked done after the state machine allowed it.
+
+## BI013 correction note 2 (2026-10-19, genuineflourishing29)
+
+- The previous correction note was itself premature: the reopen command failed
+  ("another item is in progress: B051") and the && chain skipped the edit script, so
+  the body corrections again did not land; the state reopen->done pair ran anyway and
+  marked a repair that had not happened. This session the corrections were applied in
+  a standalone script, verified by grep before pushing (old neuroscience blockquote
+  and "turns up/turns down" Plain words gone; complete Morin sentence present).
+  B074 also rewritten with the advisor's round-1 fixes (Bernstein et al. 2015 opened
+  via PubMed 26385999 for the decentering grounding; MN 20 kept as the practice text;
+  exact inner-sentence blockquote).

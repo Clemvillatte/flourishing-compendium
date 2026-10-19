@@ -12,13 +12,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 74** — Thoughts are not facts
 
-A thought is an event in the mind, not a report on the world. Watch thoughts arise like clouds and pass: you are the sky, not the weather.
+The Vitakkasanthana Sutta treats distracting thoughts as workable events. When "evil, unskillful thoughts — imbued with desire, aversion, or delusion — arise in a monk while he is referring to and attending to a particular theme", the monk is given tools: attend to another theme, scrutinize the drawbacks, relax the thought-fabrication, and as a last resort "beat down, constrain, and crush his mind with his awareness."
 
-(MN 20; decentering in MBCT.)
+> "Truly, these thoughts of mine are unskillful, these thoughts of mine are blameworthy, these thoughts of mine result in stress." (MN 20, [Thanissaro, accesstoinsight](https://www.accesstoinsight.org/tipitaka/mn/mn.020.than.html))
 
-**Plain words** A thought is an event in the mind, not a report on the world. Watch thoughts arise like clouds and pass — you are the sky, not the weather. Decentering: the thought of being worthless is a thing that's happening, not a fact that's true.
+The modern name for the shift is decentering. Bernstein and colleagues define it as "the capacity to shift experiential perspective-from within one's subjective experience onto that experience", and model it as three processes: "meta-awareness, disidentification from internal experience, and reduced reactivity to thought content." From within the experience, a thought is lived; from onto it, the thought is something seen.
 
-*For example:* 'I always mess this up' — held as a cloud, it drifts; held as a fact, it organizes your whole week.
+The compendium applies both texts to the ruling thought: notice it as an event, then work it as the sutta's monk worked his, by scrutiny or by changing the theme.
+
+**Plain words**
+The shift has a feel: you were the thought, and then you are the one watching it. The thought has not changed; your position on it has. The sutta's monk scrutinizes his thoughts' drawbacks before obeying them, which is the same move.
+
+*For example:* Suppose the thought "I always mess this up" arrives after a mistake. As a modern application, the practice is naming it as an event and watching whether it passes, before treating it as a verdict on the week.
+
+## Sources
+
+- [MN 20 (Vitakkasanthana Sutta), trans. Thanissaro Bhikkhu (accesstoinsight)](https://www.accesstoinsight.org/tipitaka/mn/mn.020.than.html)
+- [Bernstein et al. 2015, Decentering and Related Constructs (PubMed)](https://pubmed.ncbi.nlm.nih.gov/26385999/)
 
 ## Psychology parallels
 

@@ -12,18 +12,18 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BI — Biophysi
 ---
 > **Principle 13** — Prioritise sleep as the foundation of mental health
 
-One night of sleep loss changes the emotional brain. A review of the imaging evidence reports a roughly 60% larger amygdala response to negative pictures after a sleepless night, with reduced functional connectivity to the medial prefrontal cortex, the region that exerts top-down control of the amygdala.
+One night of sleep loss shows up in the emotional brain. A review of the imaging evidence describes greater amygdala responses to negative pictures and reduced amygdala-mPFC functional connectivity in a sleep-deprivation study, reporting the difference as a 60% amplification relative to a normal night of sleep.
 
-> "Assessed using functional MRI (fMRI), one night of sleep deprivation triggers a 60% amplification in reactivity of the amygdala in response to emotionally negative pictures, relative to a normal night of sleep (Yoo et al 2007). Moreover, this increase in amygdala reactivity is paired with a reduction in functional connectivity with regions of the mPFC that exert top-down regulatory control of the amygdala." (Goldstein & Walker, Annual Review of Clinical Psychology, 2014, [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4286245/))
+> "Psychological and behavioral therapies produced reliable changes in several sleep parameters of individuals with either primary insomnia or insomnia associated with medical and psychiatric disorders." (Morin et al. 2006, Sleep, [PubMed](https://pubmed.ncbi.nlm.nih.gov/17162986/))
 
-Insomnia treatment also has evidence. The Morin et al. review found that "psychological and behavioral therapies produced reliable changes in several sleep parameters", with improvements "well sustained over time" and reduced psychological symptoms and distress.
+Insomnia treatment also has evidence. The same review found sleep improvements "well sustained over time" and reduced psychological symptoms and distress, with limited evidence for other morbidity changes.
 
 The compendium applies the findings as a question: when mood and thinking are bad, what have the nights been?
 
 **Plain words**
-A sleepless night measurably turns up the brain's threat response and turns down control of it. When your week goes emotionally wrong, check the nights before blaming your character. The remedy is not vague either: sleep therapies, including cognitive-behavior therapy for insomnia, are among the treatments the review literature gives empirically-supported status.
+Sleep belongs among the questions you ask about a difficult week. These findings do not establish that poor sleep explains every emotional difficulty. The treatment evidence concerns particular therapies for insomnia.
 
-*For example:* Suppose a run of bad nights followed by a bad week of mood. As a modern application, try protecting the next two nights before changing anything else about the week, and see what the mood does.
+*For example:* Suppose several poor nights coincide with a difficult week. As a practical observation exercise, record sleep and daytime mood without assuming that one explains everything else.
 
 ## Sources
 
