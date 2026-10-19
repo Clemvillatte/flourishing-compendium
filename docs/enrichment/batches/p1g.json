@@ -20,7 +20,8 @@
   "P190",
   "P092",
   "P093",
-  "P151"
+  "P151",
+  "P172"
  ],
  "in_progress": null,
  "flagged": {
@@ -38,6 +39,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 13,
- "updated": "2026-10-19T13:02:35+00:00",
+ "updated": "2026-10-19T13:03:16+00:00",
  "band_done": false
 }

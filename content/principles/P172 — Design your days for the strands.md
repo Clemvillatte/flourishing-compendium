@@ -12,13 +12,27 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 172** — Design your days for the strands
 
-Positive emotion, engagement, relationships, meaning, accomplishment do not happen by default: schedule for them. A day can be audited against the five strands.
+Seligman's well-being theory names the five strands and claims they can be worked on:
+
+> "There is a growing literature on positive interventions that suggests that what I am going to define in a moment as the positive side of life—PERMA: positive emotion, engagement, relationships, meaning, and accomplishment—is actually buildable." (Seligman, [Tanner Lecture, "Flourish", 2010](https://tannerlectures.org/wp-content/uploads/2024/07/Seligman_10.pdf))
+
+The five, in his listing:
+
+> "Rather, there are five different elements of well-being. First and second are positive emotion and engagement, as in Authentic Happiness theory. The third is positive relationships. I have come to believe that people are motivated to seek out and maintain positive relationships even when it brings none of the other elements. The fourth element is meaning, belonging to and serving something that you think is bigger than you are. And the fifth is accomplishment." (Seligman)
+
+The audit practice follows from the strands being distinct: since each is named and separately measurable, a day can be checked against them one by one, and what the audit finds can be scheduled.
 
 (Seligman, Flourish, 2011.)
 
-**Plain words** The unscheduled good life is a rumor; the scheduled one is a calendar. The five strands don't happen by default — audit your day against them and put them on it.
+**Plain words**
+The design half rests on one word in Seligman's claim: buildable. If the strands respond to what is scheduled, then a week's calendar is not a neutral record of priorities but their approximate ranking. The audit question for each strand: did anything in the last seven days carry it, and is anything in the next seven scheduled to?
 
-*For example:* The week audited: zero meaningful conversations — not a character flaw, a scheduling failure. One recurring Thursday call booked, and the meaning strand is back on the loom.
+**For example**
+A week with no meaningful conversations is not evidence about character; it is evidence about the calendar. Booking one recurring Thursday call is the design change that follows.
+
+## Sources
+
+- [Martin Seligman, "Flourish: Positive Psychology and Positive Interventions" (Tanner Lecture, University of Michigan, October 7, 2010; PDF)](https://tannerlectures.org/wp-content/uploads/2024/07/Seligman_10.pdf) — both blockquotes verbatim; the lecture is the basis of the book the page's locator cites
 
 ## Practice kernels
 
