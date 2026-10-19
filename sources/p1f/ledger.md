@@ -105,3 +105,9 @@ Advisor milestone QC (items 2-6 + D074 re-review) failed on inference-level issu
 - Opened via fetch workflow: SN 36.6 Sallatha Sutta (Thanissaro, accesstoinsight.org/tipitaka/sn/sn36/sn36.006.than.html), full text. Verified verbatim: the two-arrows simile (quoted as blockquote); "does not sorrow, grieve, or lament, does not beat his breast or become distraught"; "feels one pain: physical, but not mental".
 - Fixes: plain words replicate removed and re-derived (the second shot is added by the reaction); "suffering is the subscription you add" aphorism replaced with the sutta-grounded contrast; em dashes removed from body/plain words/example.
 - Saturation: B069 already cited by Chronic pain acceptance, Judgment adds the harm, Chronic pain research, Dukkha, The second arrow; no new proposals.
+
+## B122 — Use two truths (conventional and ultimate) (done 2026-10-19)
+
+- Opened via fetch workflow: Garfield's translation of MMK ch. 24 (University of Oregon PDF, pages.uoregon.edu/munno/OregonCourses/REL4400002/nagarjuna_middleway24.pdf, full text read). Verified verbatim: 24.8 (quoted as blockquote) and 24.10 ("Without a foundation in the conventional truth, the significance of the ultimate cannot be taught. Without understanding the significance of the ultimate, Liberation is not achieved.") quoted inline with locator. 24.9 read, not quoted.
+- Fixes: plain words replicate removed and re-derived (which question is being asked); example em dash removed; "bus/grieve the bus" aphorism folded into the compendium's reading paragraph with the checkout line.
+- Saturation: B122 already cited by Levels of analysis, Shunyata, Independent vs interdependent self-construal, Phenomenal and noumenal, Construal-level theory; no new proposals.
