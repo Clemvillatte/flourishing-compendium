@@ -25,8 +25,8 @@ For example (imagined): during a cheerful team meeting, colleagues sketch three 
 
 ## Psychology parallels
 
-- **[[Broaden-and-build|Broaden-and-build theory]]**, positive emotions broaden thought-action repertoires and build enduring resources (Fredrickson, 2001, 2013)
-- **[[Broaden-and-build|Upward spirals]]**, positive affect and broadened coping reciprocally reinforce each other over time (Fredrickson & Joiner, 2002)
+- **[[Broaden-and-build|Broaden-and-build theory]]** (Fredrickson, 2001, 2013)
+- **[[Broaden-and-build|Upward spirals]]** (Fredrickson & Joiner, 2002)
 
 ## Philosophy parallels
 
