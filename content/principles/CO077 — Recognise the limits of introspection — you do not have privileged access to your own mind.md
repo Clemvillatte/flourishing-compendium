@@ -12,11 +12,30 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 ---
 > **Principle 77** — Recognise the limits of introspection: you do not have privileged access to your own mind
 
-Introspection — looking inward to understand your own mental processes — is less reliable than it feels. You often do not know why you did something, and your explanations can be confabulated. This does not make introspection useless; it makes it fallible.
+Nisbett and Wilson's 1977 review is the standard source. Its abstract says the evidence "suggests that there may be little or no direct introspective access to higher order cognitive processes". When people try to report on how a stimulus produced a response, the authors propose, "they do not do so on the basis of any true introspection. Instead, their reports are based on a priori, implicit causal theories, or judgments about the extent to which a particular stimulus is a plausible cause of a given response" ([abstract](https://elibrary.unn.edu.ng/library/international-journals/W2164558494/); text at the [CSULB-hosted PDF](https://home.csulb.edu/~cwallis/382/readings/482/nisbett%20saying%20more.pdf)).
 
-**Plain words** Introspection is less reliable than it feels — you often don't know why you did something, and your explanations are confabulated after the fact. You don't have privileged access to your own processing. Trust behaviour and data over your inner press release.
+### Not a blanket rule
 
-*For example:* The person who "knows exactly why they chose the job" — the reasons recited fluently — versus the choice's actual correlation with the salary and the commute. The explanation is written by the PR department, after the decision, from the press release.
+The same abstract adds that people "will sometimes be able to report accurately": when influential stimuli are "salient and are plausible causes of the responses they produce". Accuracy fails when they are not. So the principle is about reports on causes, not about every mental report.
+
+### Choice blindness
+
+Johansson, Hall, Sikström and Olsson (2005) had people choose the more attractive of two faces, then covertly swapped the result. Participants "failed to notice conspicuous mismatches between their intended choice and the outcome they were presented with, while nevertheless offering introspectively derived reasons for why they chose the way they did" ([abstract](https://pubmed.ncbi.nlm.nih.gov/16210542/)). A Scientific American report on the work says participants realised the swap only 26 percent of the time ([Scientific American](https://www.scientificamerican.com/article/when-free-choice-is-an-illusion/)).
+
+### Trusting your own report more than others'
+
+Pronin, Berger and Molouki's paper (the page's 2004 Pronin citation was not opened) found that people saw others as more conforming than themselves, because they weighed introspective evidence more heavily when judging themselves than when judging others ([abstract](https://jonahberger.com/wp-content/uploads/2013/02/Alone-in-a-Crowd-of-Sheep-1.pdf)). This is the introspection illusion.
+
+### What the sources do not show
+
+They do not show that introspection is useless; Nisbett and Wilson explicitly allow accurate reports. The Gazzaniga split-brain parallel and the Nietzsche, Freud and Schopenhauer pairings were not opened here.
+
+(Nisbett and Wilson, 1977; Johansson et al., 2005.)
+
+**Plain words** When you explain why you did something, you are often reconstructing a likely reason, not reading it off. Experiments show people giving fluent reasons for choices they did not make. That does not make your self-reports worthless, but it is a reason to treat them as a hypothesis and check them against what you actually did.
+
+*For example:* In the face-choice study, people handed the face they had not picked still gave reasons for picking it. Your own reason for taking a job may be sound. The research says it is worth checking it against outside evidence.
+
 ## Psychology parallels
 
 - **[[Limits of introspection|Limits of introspection (Nisbett & Wilson)]]**, people often confabulate reasons for their behaviour (Nisbett & Wilson, 1977)
