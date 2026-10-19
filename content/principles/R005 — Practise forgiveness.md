@@ -12,13 +12,16 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 267** — Practise forgiveness
 
-Do not hold onto resentment. Forgiveness is not forgetting or excusing; it is releasing the debt that another person owes you so that relationship can be restored. Desmond Tutu's work on the Truth and Reconciliation Commission showed that forgiveness is both personal and political.
+Ubuntu supplies the reason forgiveness is a practice rather than a mood. In Tutu's gloss of the idea, harmony and community are the goods, and "anger, resentment, lust for revenge" are corrosive of them, so:
 
-(Tutu, No Future Without Forgiveness; Ubuntu philosophy.)
+> "To forgive is not just to be altruistic. It is the best form of self-interest."
+> (Tutu, No Future Without Forgiveness, p. 31, [verified excerpt](https://cepreaching.org/preaching-connections/reading/no-future-without-forgiveness-2/))
 
-**Plain words** Forgiveness releases the debt, not the memory. It's not saying it didn't happen or didn't matter; it's deciding to stop running the collection agency in your own head, so relationship becomes possible again. Tutu showed it works at the scale of a nation, not just a kitchen table.
+The Truth and Reconciliation Commission he chaired applied this at the scale of a nation: amnesty from prosecution for politically motivated abuses "in return for their full and truthful testimony", under a justice "concerned not so much with punishment as with correcting imbalances, restoring broken relationships" (TRC Final Report, Vol. 1, Ch. 1, para. 36). The compendium's practical reading: forgiveness releases the debt the other person owes you so the relationship can be worked on again, and the release is done for the holder's sake as much as anyone else's. (Tutu, No Future Without Forgiveness; Ubuntu philosophy.)
 
-*For example:* Someone who finally puts down a twenty-year grudge against a sibling — the wrong stays on the record, the monthly rehearsal of it stops, and two families get a Christmas back.
+**Plain words** Resentment works like a debt you keep in your own name: they owe, you collect, and the collection runs on your hours. Forgiveness does not settle the account as if nothing happened; it closes the books so you stop spending your days on it. The wrong stays a fact. Who keeps paying for it is the choice.
+
+*For example:* Someone finally puts down a twenty-year grudge against a sibling. The wrong stays on the record, the monthly rehearsal of it stops, and the two families can share a Christmas again.
 ## Stories
 
 - [[ST041 — Shackleton Keeps the Whole Crew Alive|41. Shackleton Keeps the Whole Crew Alive]]
