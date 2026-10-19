@@ -6,11 +6,14 @@
   "Cognitive flexibility",
   "Context-dependent behaviour (Wood & Neal)",
   "Distributed cognition / extended mind",
-  "Docta ignorantia"
+  "Docta ignorantia",
+  "ERG Theory"
  ],
- "in_progress": "ERG Theory",
- "flagged": {},
+ "in_progress": null,
+ "flagged": {
+  "ERG Theory": "cited-in list (270+ Daoist principles) appears to be an auto-generated mapping; no principle text references ERG directly"
+ },
  "missing_concepts": [],
  "sources_checked": 19,
- "updated": "2026-10-19T07:37:12+00:00"
+ "updated": "2026-10-19T07:38:11+00:00"
 }
