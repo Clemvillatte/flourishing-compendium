@@ -19,7 +19,6 @@
   "B116",
   "B140",
   "B160",
-  "AF061",
   "AF073",
   "AF075",
   "A026",
@@ -32,7 +31,8 @@
   "A042",
   "A096",
   "A103",
-  "AF048"
+  "AF048",
+  "AF061"
  ],
  "in_progress": null,
  "flagged": {
@@ -57,12 +57,12 @@
   "A103": "Reopened for QC: repair: distinguish Aristotle's claim from reader's non-negotiables",
   "A104": "Reopened for QC: repair: use clean equitable quote avoiding Iawgiver OCR, make rule purpose explicit",
   "AF048": "Reopened for QC: repair: fix causal claims, helped distinguish, qualify title, verify treatment claims",
-  "AF061": "milestone QC: quotation fidelity and prose scope repairs",
+  "AF061": "Reopened for QC: repair: present as theory with preliminary evidence, remove causal diagnosis, verify retraction claim",
   "AF073": "milestone QC: quotation fidelity and prose scope repairs",
   "AF075": "milestone QC: quotation fidelity and prose scope repairs"
  },
  "missing_concepts": [],
  "sources_checked": 9,
- "updated": "2026-10-19T15:04:32+00:00",
+ "updated": "2026-10-19T15:04:48+00:00",
  "band_done": false
 }
