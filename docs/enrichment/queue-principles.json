@@ -1,1151 +1,304 @@
 [
 {
-"id": "R055",
-"title": "Practise xin (trustworthiness/integrity)",
-"path": "content/principles/R055 — Practise xin (trustworthinessintegrity).md",
-"degree": 73,
-"prose_words": 41
-},
-{
-"id": "D087",
-"title": "Hold identity lightly",
-"path": "content/principles/D087 — Hold identity lightly.md",
-"degree": 60,
-"prose_words": 25
-},
-{
 "id": "D001",
 "title": "Align your life with the Dao",
 "path": "content/principles/D001 — Align your life with the Dao.md",
 "degree": 59,
-"prose_words": 62
+"prose_words": 56
 },
 {
 "id": "A063",
 "title": "Recognise that friendship is necessary for flourishing",
 "path": "content/principles/A063 — Recognise that friendship is necessary for flourishing.md",
 "degree": 58,
-"prose_words": 46
+"prose_words": 65
 },
 {
 "id": "D055",
 "title": "Don't force",
 "path": "content/principles/D055 — Don't force.md",
 "degree": 58,
-"prose_words": 26
+"prose_words": 71
 },
 {
 "id": "R005",
 "title": "Practise forgiveness",
 "path": "content/principles/R005 — Practise forgiveness.md",
 "degree": 58,
-"prose_words": 51
+"prose_words": 92
 },
 {
 "id": "A001",
 "title": "Make eudaimonia the organising end of your life",
 "path": "content/principles/A001 — Make eudaimonia the organising end of your life.md",
 "degree": 56,
-"prose_words": 45
-},
-{
-"id": "D054",
-"title": "Practice daily: small consistent effort compounds",
-"path": "content/principles/D054 — Practice daily — small consistent effort compounds.md",
-"degree": 52,
-"prose_words": 26
+"prose_words": 76
 },
 {
 "id": "S001",
 "title": "Distinguish what is up to you from what is not",
 "path": "content/principles/S001 — Distinguish what is up to you from what is not.md",
 "degree": 52,
-"prose_words": 53
+"prose_words": 77
 },
 {
 "id": "S007",
 "title": "Accept what happens as the will of providence",
 "path": "content/principles/S007 — Accept what happens as the will of providence.md",
 "degree": 52,
-"prose_words": 62
+"prose_words": 59
 },
 {
 "id": "S011",
 "title": "Recognise the three topoi: the three disciplines",
 "path": "content/principles/S011 — Recognise the three topoi — the three disciplines.md",
 "degree": 51,
-"prose_words": 58
-},
-{
-"id": "SO044",
-"title": "Treat the WEIRD critique as a standing corrective",
-"path": "content/principles/SO044 — Treat the WEIRD critique as a standing corrective.md",
-"degree": 49,
-"prose_words": 56
-},
-{
-"id": "A078",
-"title": "Recognise that the best friendship is between the good",
-"path": "content/principles/A078 — Recognise that the best friendship is between the good.md",
-"degree": 46,
-"prose_words": 49
-},
-{
-"id": "B001",
-"title": "Face suffering directly",
-"path": "content/principles/B001 — Face suffering directly.md",
-"degree": 42,
-"prose_words": 38
+"prose_words": 69
 },
 {
 "id": "D019",
 "title": "Know what is enough (zhizu)",
 "path": "content/principles/D019 — Know what is enough (zhizu).md",
 "degree": 40,
-"prose_words": 21
+"prose_words": 102
 },
 {
-"id": "A091",
-"title": "Integrate contemplation and action",
-"path": "content/principles/A091 — Integrate contemplation and action.md",
+"id": "D080",
+"title": "Dissolve rigid right and wrong (qiwu)",
+"path": "content/principles/D080 — Dissolve rigid right and wrong (qiwu).md",
 "degree": 36,
-"prose_words": 44
-},
-{
-"id": "D141",
-"title": "Care for life as the root of all endeavor",
-"path": "content/principles/D141 — Care for life as the root of all endeavor.md",
-"degree": 36,
-"prose_words": 22
+"prose_words": 114
 },
 {
 "id": "A037",
 "title": "Distinguish cleverness (deinotes) from practical wisdom",
 "path": "content/principles/A037 — Distinguish cleverness (deinotes) from practical wisdom.md",
 "degree": 35,
-"prose_words": 38
+"prose_words": 78
 },
 {
 "id": "D037",
 "title": "Empty the heart-mind (xuxin)",
 "path": "content/principles/D037 — Empty the heart-mind (xuxin).md",
 "degree": 35,
-"prose_words": 23
-},
-{
-"id": "E007",
-"title": "Practise eidetic seeing",
-"path": "content/principles/E007 — Practise eidetic seeing.md",
-"degree": 35,
-"prose_words": 56
-},
-{
-"id": "P073",
-"title": "See conduct as interaction",
-"path": "content/principles/P073 — See conduct as interaction.md",
-"degree": 35,
-"prose_words": 36
+"prose_words": 91
 },
 {
 "id": "D031",
 "title": "Treasure 1: compassion (ci)",
 "path": "content/principles/D031 — Treasure 1 — compassion (ci).md",
 "degree": 34,
-"prose_words": 33
-},
-{
-"id": "D080",
-"title": "Dissolve rigid right and wrong (qiwu)",
-"path": "content/principles/D080 — Dissolve rigid right and wrong (qiwu).md",
-"degree": 34,
-"prose_words": 28
-},
-{
-"id": "A023",
-"title": "Practice justice (dikaiosyne)",
-"path": "content/principles/A023 — Practice justice (dikaiosyne).md",
-"degree": 32,
-"prose_words": 51
-},
-{
-"id": "D078",
-"title": "Wander free and easy (xiaoyao you)",
-"path": "content/principles/D078 — Wander free and easy (xiaoyao you).md",
-"degree": 32,
-"prose_words": 25
+"prose_words": 88
 },
 {
 "id": "E003",
 "title": "Practise the natural attitude and its suspension",
 "path": "content/principles/E003 — Practise the natural attitude and its suspension.md",
 "degree": 32,
-"prose_words": 71
+"prose_words": 114
 },
 {
 "id": "D039",
 "title": "Make rest the root of activity",
 "path": "content/principles/D039 — Make rest the root of activity.md",
 "degree": 31,
-"prose_words": 28
+"prose_words": 85
 },
 {
 "id": "P139",
 "title": "Know that cognition is embodied sense-making",
 "path": "content/principles/P139 — Know that cognition is embodied sense-making.md",
 "degree": 31,
-"prose_words": 43
-},
-{
-"id": "A053",
-"title": "Act voluntarily",
-"path": "content/principles/A053 — Act voluntarily.md",
-"degree": 30,
-"prose_words": 46
+"prose_words": 109
 },
 {
 "id": "E011",
 "title": "Practise phenomenological description",
 "path": "content/principles/E011 — Practise phenomenological description.md",
 "degree": 30,
-"prose_words": 50
-},
-{
-"id": "E012",
-"title": "Practise the reduction as ongoing",
-"path": "content/principles/E012 — Practise the reduction as ongoing.md",
-"degree": 30,
-"prose_words": 54
-},
-{
-"id": "P129",
-"title": "Practice sympathetic understanding",
-"path": "content/principles/P129 — Practice sympathetic understanding.md",
-"degree": 30,
-"prose_words": 40
-},
-{
-"id": "P155",
-"title": "Make workability your everyday criterion",
-"path": "content/principles/P155 — Make workability your everyday criterion.md",
-"degree": 30,
-"prose_words": 40
-},
-{
-"id": "R065",
-"title": "Practise the extension of knowledge (zhizhi)",
-"path": "content/principles/R065 — Practise the extension of knowledge (zhizhi).md",
-"degree": 30,
-"prose_words": 43
-},
-{
-"id": "B066",
-"title": "Watch states arise and pass",
-"path": "content/principles/B066 — Watch states arise and pass.md",
-"degree": 29,
-"prose_words": 23
-},
-{
-"id": "D053",
-"title": "Balance alertness and ease",
-"path": "content/principles/D053 — Balance alertness and ease.md",
-"degree": 29,
-"prose_words": 25
+"prose_words": 110
 },
 {
 "id": "D050",
 "title": "Keep a mirror-mind",
 "path": "content/principles/D050 — Keep a mirror-mind.md",
 "degree": 28,
-"prose_words": 27
+"prose_words": 104
 },
 {
 "id": "P001",
 "title": "Build your life on becoming, not being",
 "path": "content/principles/P001 — Build your life on becoming, not being.md",
 "degree": 28,
-"prose_words": 39
-},
-{
-"id": "D016",
-"title": "Distrust names and labels",
-"path": "content/principles/D016 — Distrust names and labels.md",
-"degree": 27,
-"prose_words": 33
+"prose_words": 113
 },
 {
 "id": "B002",
 "title": "Assume change (anicca)",
 "path": "content/principles/B002 — Assume change (anicca).md",
 "degree": 26,
-"prose_words": 25
+"prose_words": 49
 },
 {
-"id": "A039",
-"title": "Value experience over theory in practical matters",
-"path": "content/principles/A039 — Value experience over theory in practical matters.md",
+"id": "D057",
+"title": "Enter flow",
+"path": "content/principles/D057 — Enter flow.md",
+"degree": 26,
+"prose_words": 112
+},
+{
+"id": "B056",
+"title": "Note lightly (noting)",
+"path": "content/principles/B056 — Note lightly (noting).md",
 "degree": 25,
-"prose_words": 42
+"prose_words": 114
 },
 {
 "id": "B065",
 "title": "Guard the mind at the source (mind precedes all)",
 "path": "content/principles/B065 — Guard the mind at the source (mind precedes all).md",
 "degree": 25,
-"prose_words": 26
-},
-{
-"id": "D057",
-"title": "Enter flow",
-"path": "content/principles/D057 — Enter flow.md",
-"degree": 25,
-"prose_words": 33
-},
-{
-"id": "P037",
-"title": "Live experimentally",
-"path": "content/principles/P037 — Live experimentally.md",
-"degree": 25,
-"prose_words": 39
+"prose_words": 52
 },
 {
 "id": "R001",
 "title": "I am because we are",
 "path": "content/principles/R001 — I am because we are.md",
 "degree": 25,
-"prose_words": 61
+"prose_words": 90
 },
 {
 "id": "S006",
 "title": "Remember that you are a citizen of the cosmos",
 "path": "content/principles/S006 — Remember that you are a citizen of the cosmos.md",
 "degree": 25,
-"prose_words": 55
-},
-{
-"id": "A004",
-"title": "Become virtuous by doing virtuous acts",
-"path": "content/principles/A004 — Become virtuous by doing virtuous acts.md",
-"degree": 24,
-"prose_words": 44
-},
-{
-"id": "B056",
-"title": "Note lightly (noting)",
-"path": "content/principles/B056 — Note lightly (noting).md",
-"degree": 24,
-"prose_words": 30
+"prose_words": 107
 },
 {
 "id": "D038",
 "title": "Keep stillness: stillness masters restlessness",
 "path": "content/principles/D038 — Keep stillness — stillness masters restlessness.md",
 "degree": 24,
-"prose_words": 29
-},
-{
-"id": "D082",
-"title": "Don't impose your frame on others",
-"path": "content/principles/D082 — Don't impose your frame on others.md",
-"degree": 24,
-"prose_words": 29
-},
-{
-"id": "D091",
-"title": "Befriend change (hua)",
-"path": "content/principles/D091 — Befriend change (hua).md",
-"degree": 24,
-"prose_words": 28
-},
-{
-"id": "P165",
-"title": "Become fully functioning: open to experience",
-"path": "content/principles/P165 — Become fully functioning — open to experience.md",
-"degree": 24,
-"prose_words": 29
-},
-{
-"id": "R010",
-"title": "Practise generosity",
-"path": "content/principles/R010 — Practise generosity.md",
-"degree": 24,
-"prose_words": 52
-},
-{
-"id": "S003",
-"title": "Recognise that you are disturbed not by things but by your judgements about them",
-"path": "content/principles/S003 — Recognise that you are disturbed not by things but by your judgements about them.md",
-"degree": 24,
-"prose_words": 49
-},
-{
-"id": "A064",
-"title": "Know the three kinds of friendship",
-"path": "content/principles/A064 — Know the three kinds of friendship.md",
-"degree": 23,
-"prose_words": 56
-},
-{
-"id": "D002",
-"title": "Practice ziran: naturalness",
-"path": "content/principles/D002 — Practice ziran — naturalness.md",
-"degree": 23,
-"prose_words": 36
-},
-{
-"id": "D049",
-"title": "Keep inner space: the empty room fills with light",
-"path": "content/principles/D049 — Keep inner space — the empty room fills with light.md",
-"degree": 23,
-"prose_words": 23
-},
-{
-"id": "E010",
-"title": "Practise the constitution of meaning",
-"path": "content/principles/E010 — Practise the constitution of meaning.md",
-"degree": 23,
-"prose_words": 52
-},
-{
-"id": "P049",
-"title": "Close the loop: single-loop and double-loop learning",
-"path": "content/principles/P049 — Close the loop — single-loop and double-loop learning.md",
-"degree": 23,
-"prose_words": 36
-},
-{
-"id": "S130",
-"title": "Practise the discipline of speech",
-"path": "content/principles/S130 — Practise the discipline of speech.md",
-"degree": 23,
-"prose_words": 73
-},
-{
-"id": "SO001",
-"title": "Flourish socially",
-"path": "content/principles/SO001 — Flourish socially.md",
-"degree": 23,
-"prose_words": 78
-},
-{
-"id": "A005",
-"title": "Choose the mean, not the extreme",
-"path": "content/principles/A005 — Choose the mean, not the extreme.md",
-"degree": 22,
-"prose_words": 43
-},
-{
-"id": "AF006",
-"title": "Accept mixed feelings; do not force them to resolve",
-"path": "content/principles/AF006 — Accept mixed feelings; do not force them to resolve.md",
-"degree": 22,
-"prose_words": 54
-},
-{
-"id": "B040",
-"title": "Know the body (body contemplation)",
-"path": "content/principles/B040 — Know the body (body contemplation).md",
-"degree": 22,
-"prose_words": 29
+"prose_words": 102
 },
 {
 "id": "B058",
 "title": "Sit daily: consistency over intensity",
 "path": "content/principles/B058 — Sit daily — consistency over intensity.md",
 "degree": 22,
-"prose_words": 21
-},
-{
-"id": "B170",
-"title": "Wash the dishes to wash the dishes",
-"path": "content/principles/B170 — Wash the dishes to wash the dishes.md",
-"degree": 22,
-"prose_words": 31
-},
-{
-"id": "R002",
-"title": "Practise humanity toward others",
-"path": "content/principles/R002 — Practise humanity toward others.md",
-"degree": 22,
-"prose_words": 56
-},
-{
-"id": "A010",
-"title": "Recognise that fortune can overturn happiness",
-"path": "content/principles/A010 — Recognise that fortune can overturn happiness.md",
-"degree": 21,
-"prose_words": 56
-},
-{
-"id": "AF036",
-"title": "Learn to regulate through action: affect follows behaviour",
-"path": "content/principles/AF036 — Learn to regulate through action — affect follows behaviour.md",
-"degree": 21,
-"prose_words": 35
-},
-{
-"id": "AT070",
-"title": "Recognise anxiety's effect on attention: threat capture",
-"path": "content/principles/AT070 — Recognise anxiety's effect on attention — threat capture.md",
-"degree": 21,
-"prose_words": 28
-},
-{
-"id": "B003",
-"title": "Hold the self lightly (anatta)",
-"path": "content/principles/B003 — Hold the self lightly (anatta).md",
-"degree": 21,
-"prose_words": 38
-},
-{
-"id": "D003",
-"title": "Act through wu wei: non-forcing",
-"path": "content/principles/D003 — Act through wu wei — non-forcing.md",
-"degree": 21,
-"prose_words": 36
-},
-{
-"id": "E013",
-"title": "Practise the lived body (Leib)",
-"path": "content/principles/E013 — Practise the lived body (Leib).md",
-"degree": 21,
-"prose_words": 75
+"prose_words": 118
 },
 {
 "id": "P038",
 "title": "Make habit your flywheel",
 "path": "content/principles/P038 — Make habit your flywheel.md",
 "degree": 21,
-"prose_words": 34
+"prose_words": 103
 },
 {
 "id": "SE066",
 "title": "Recognise the role of challenge in growth: difficulty develops self",
 "path": "content/principles/SE066 — Recognise the role of challenge in growth — difficulty develops self.md",
 "degree": 21,
-"prose_words": 24
-},
-{
-"id": "A065",
-"title": "Wish good for your friend for their own sake",
-"path": "content/principles/A065 — Wish good for your friend for their own sake.md",
-"degree": 20,
-"prose_words": 57
-},
-{
-"id": "AF009",
-"title": "Understand that affect is constructed, not discovered",
-"path": "content/principles/AF009 — Understand that affect is constructed, not discovered.md",
-"degree": 20,
-"prose_words": 56
+"prose_words": 109
 },
 {
 "id": "D156",
 "title": "Stay flexible: rigidity is death's companion",
 "path": "content/principles/D156 — Stay flexible — rigidity is death's companion.md",
 "degree": 20,
-"prose_words": 37
+"prose_words": 112
 },
 {
-"id": "E008",
-"title": "Practise the structure of temporality",
-"path": "content/principles/E008 — Practise the structure of temporality.md",
-"degree": 20,
-"prose_words": 71
-},
-{
-"id": "P059",
-"title": "Accept that individuation is never finished",
-"path": "content/principles/P059 — Accept that individuation is never finished.md",
-"degree": 20,
-"prose_words": 38
-},
-{
-"id": "P067",
-"title": "My world is what I attend to",
-"path": "content/principles/P067 — My world is what I attend to.md",
-"degree": 20,
-"prose_words": 34
-},
-{
-"id": "P118",
-"title": "Engineer flow: match challenge to skill",
-"path": "content/principles/P118 — Engineer flow — match challenge to skill.md",
-"degree": 20,
-"prose_words": 29
-},
-{
-"id": "R011",
-"title": "Practise harmony",
-"path": "content/principles/R011 — Practise harmony.md",
-"degree": 20,
-"prose_words": 45
-},
-{
-"id": "A068",
-"title": "Maintain friendships through presence in misfortune",
-"path": "content/principles/A068 — Maintain friendships through presence in misfortune.md",
-"degree": 19,
-"prose_words": 41
-},
-{
-"id": "AF083",
-"title": "Recognise affect's sociocultural interfaces: culture shapes what you feel and how",
-"path": "content/principles/AF083 — Recognise affect's sociocultural interfaces — culture shapes what you feel and how.md",
-"degree": 19,
-"prose_words": 35
-},
-{
-"id": "B022",
-"title": "Set right intention",
-"path": "content/principles/B022 — Set right intention.md",
-"degree": 19,
-"prose_words": 27
-},
-{
-"id": "B119",
-"title": "The self is a chariot: parts without an essence",
-"path": "content/principles/B119 — The self is a chariot — parts without an essence.md",
-"degree": 19,
-"prose_words": 32
-},
-{
-"id": "D090",
-"title": "Accept death as transformation",
-"path": "content/principles/D090 — Accept death as transformation.md",
-"degree": 19,
-"prose_words": 35
-},
-{
-"id": "E105",
-"title": "Practise amor fati",
-"path": "content/principles/E105 — Practise amor fati.md",
-"degree": 19,
-"prose_words": 63
-},
-{
-"id": "P010",
-"title": "Hold every belief as provisional: fallibilism",
-"path": "content/principles/P010 — Hold every belief as provisional — fallibilism.md",
-"degree": 19,
-"prose_words": 26
-},
-{
-"id": "CO003",
-"title": "Know that thinking has limited capacity: cognitive load is real",
-"path": "content/principles/CO003 — Know that thinking has limited capacity — cognitive load is real.md",
-"degree": 18,
-"prose_words": 31
-},
-{
-"id": "D059",
-"title": "Do the difficult while it is easy",
-"path": "content/principles/D059 — Do the difficult while it is easy.md",
-"degree": 18,
-"prose_words": 21
-},
-{
-"id": "D114",
-"title": "Don't contend (buzheng)",
-"path": "content/principles/D114 — Don't contend (buzheng).md",
-"degree": 18,
-"prose_words": 25
-},
-{
-"id": "E064",
-"title": "Practise meaning through the attitude toward suffering",
-"path": "content/principles/E064 — Practise meaning through the attitude toward suffering.md",
-"degree": 18,
-"prose_words": 71
-},
-{
-"id": "E103",
-"title": "Practise self-overcoming (Selbstüberwindung)",
-"path": "content/principles/E103 — Practise self-overcoming (Selbstüberwindung).md",
-"degree": 18,
-"prose_words": 71
-},
-{
-"id": "P019",
-"title": "Read an idea through its consequences",
-"path": "content/principles/P019 — Read an idea through its consequences.md",
-"degree": 18,
-"prose_words": 43
-},
-{
-"id": "P160",
-"title": "Distinguish the observing self from the story of self",
-"path": "content/principles/P160 — Distinguish the observing self from the story of self.md",
-"degree": 18,
-"prose_words": 36
-},
-{
-"id": "PP010",
-"title": "Distinguish intrinsic from extrinsic aspirations",
-"path": "content/principles/PP010 — Distinguish intrinsic from extrinsic aspirations.md",
-"degree": 18,
-"prose_words": 53
-},
-{
-"id": "PP023",
-"title": "Distinguish meaning from happiness",
-"path": "content/principles/PP023 — Distinguish meaning from happiness.md",
-"degree": 18,
-"prose_words": 67
-},
-{
-"id": "PP029",
-"title": "Build responsive relationships",
-"path": "content/principles/PP029 — Build responsive relationships.md",
-"degree": 18,
-"prose_words": 51
-},
-{
-"id": "PP081",
-"title": "Cultivate psychological flexibility",
-"path": "content/principles/PP081 — Cultivate psychological flexibility.md",
-"degree": 18,
-"prose_words": 71
-},
-{
-"id": "S021",
-"title": "Do not desire externals as if they were permanent",
-"path": "content/principles/S021 — Do not desire externals as if they were permanent.md",
-"degree": 18,
-"prose_words": 44
-},
-{
-"id": "SE007",
-"title": "Understand that the self has temporal depth: past, present, and future selves",
-"path": "content/principles/SE007 — Understand that the self has temporal depth — past, present, and future selves.md",
-"degree": 18,
-"prose_words": 41
-},
-{
-"id": "A029",
-"title": "Practice the right kind of anger",
-"path": "content/principles/A029 — Practice the right kind of anger.md",
+"id": "K008",
+"title": "Expect the collapse of meaning; do not waste it",
+"path": "content/principles/K008 — Expect the collapse of meaning; do not waste it.md",
 "degree": 17,
-"prose_words": 50
+"prose_words": 112
 },
 {
-"id": "A066",
-"title": "Be a friend to yourself first",
-"path": "content/principles/A066 — Be a friend to yourself first.md",
-"degree": 17,
-"prose_words": 56
-},
-{
-"id": "AF082",
-"title": "Recognise affect's biophysiological interfaces: sleep, pain, and illness are not separate",
-"path": "content/principles/AF082 — Recognise affect's biophysiological interfaces — sleep, pain, and illness are not separate.md",
-"degree": 17,
-"prose_words": 40
-},
-{
-"id": "B026",
-"title": "Apply right effort: the four efforts",
-"path": "content/principles/B026 — Apply right effort — the four efforts.md",
-"degree": 17,
-"prose_words": 30
-},
-{
-"id": "B127",
-"title": "Dismantle the raft when you've crossed",
-"path": "content/principles/B127 — Dismantle the raft when you've crossed.md",
-"degree": 17,
-"prose_words": 21
-},
-{
-"id": "BI013",
-"title": "Prioritise sleep as the foundation of mental health",
-"path": "content/principles/BI013 — Prioritise sleep as the foundation of mental health.md",
-"degree": 17,
-"prose_words": 35
-},
-{
-"id": "D022",
-"title": "Subtract, don't add",
-"path": "content/principles/D022 — Subtract, don't add.md",
-"degree": 17,
-"prose_words": 22
-},
-{
-"id": "MO003",
-"title": "Recognise the difference between intrinsic and extrinsic motivation: quality matters",
-"path": "content/principles/MO003 — Recognise the difference between intrinsic and extrinsic motivation — quality matters.md",
-"degree": 17,
-"prose_words": 50
-},
-{
-"id": "P041",
-"title": "Set ends-in-view, and revise them",
-"path": "content/principles/P041 — Set ends-in-view, and revise them.md",
-"degree": 17,
-"prose_words": 36
-},
-{
-"id": "P080",
-"title": "Value is what fulfills conditions of flourishing",
-"path": "content/principles/P080 — Value is what fulfills conditions of flourishing.md",
-"degree": 17,
-"prose_words": 32
-},
-{
-"id": "PP044",
-"title": "Practise coping flexibility",
-"path": "content/principles/PP044 — Practise coping flexibility.md",
-"degree": 17,
-"prose_words": 59
-},
-{
-"id": "R012",
-"title": "Practise dignity-affirming action",
-"path": "content/principles/R012 — Practise dignity-affirming action.md",
-"degree": 17,
-"prose_words": 59
-},
-{
-"id": "S002",
-"title": "Make virtue the only genuine good",
-"path": "content/principles/S002 — Make virtue the only genuine good.md",
-"degree": 17,
-"prose_words": 63
-},
-{
-"id": "A011",
-"title": "Practice courage (andreia)",
-"path": "content/principles/A011 — Practice courage (andreia).md",
+"id": "AF025",
+"title": "Learn the full regulation toolkit: it is larger than \"calm down.\"",
+"path": "content/principles/AF025 — Learn the full regulation toolkit — it is larger than calm down..md",
 "degree": 16,
-"prose_words": 54
+"prose_words": 109
 },
 {
-"id": "A035",
-"title": "Cultivate art and craft (techne)",
-"path": "content/principles/A035 — Cultivate art and craft (techne).md",
+"id": "B038",
+"title": "Practice mindfulness of breathing (anapanasati)",
+"path": "content/principles/B038 — Practice mindfulness of breathing (anapanasati).md",
 "degree": 16,
-"prose_words": 48
+"prose_words": 119
 },
 {
-"id": "A076",
-"title": "Practise friendship across difference",
-"path": "content/principles/A076 — Practise friendship across difference.md",
+"id": "K001",
+"title": "Return to experience before the labels",
+"path": "content/principles/K001 — Return to experience before the labels.md",
 "degree": 16,
-"prose_words": 49
-},
-{
-"id": "A108",
-"title": "Practise habituation through repeated action",
-"path": "content/principles/A108 — Practise habituation through repeated action.md",
-"degree": 16,
-"prose_words": 47
-},
-{
-"id": "AT050",
-"title": "Learn body scan: systematic attention through the body",
-"path": "content/principles/AT050 — Learn body scan — systematic attention through the body.md",
-"degree": 16,
-"prose_words": 33
-},
-{
-"id": "B051",
-"title": "Practice loving-kindness (metta)",
-"path": "content/principles/B051 — Practice loving-kindness (metta).md",
-"degree": 16,
-"prose_words": 31
-},
-{
-"id": "B074",
-"title": "Thoughts are not facts",
-"path": "content/principles/B074 — Thoughts are not facts.md",
-"degree": 16,
-"prose_words": 33
-},
-{
-"id": "D006",
-"title": "Move by return (fu): everything renews in cycles",
-"path": "content/principles/D006 — Move by return (fu) — everything renews in cycles.md",
-"degree": 16,
-"prose_words": 32
-},
-{
-"id": "D009",
-"title": "Trust emptiness: space is what works",
-"path": "content/principles/D009 — Trust emptiness — space is what works.md",
-"degree": 16,
-"prose_words": 34
-},
-{
-"id": "D034",
-"title": "Simplify your ecosystem",
-"path": "content/principles/D034 — Simplify your ecosystem.md",
-"degree": 16,
-"prose_words": 30
-},
-{
-"id": "D161",
-"title": "See the small",
-"path": "content/principles/D161 — See the small.md",
-"degree": 16,
-"prose_words": 22
-},
-{
-"id": "E004",
-"title": "Practise the lifeworld (Lebenswelt)",
-"path": "content/principles/E004 — Practise the lifeworld (Lebenswelt).md",
-"degree": 16,
-"prose_words": 75
-},
-{
-"id": "MO054",
-"title": "Learn to use self-regulation strategies: manage impulses",
-"path": "content/principles/MO054 — Learn to use self-regulation strategies — manage impulses.md",
-"degree": 16,
-"prose_words": 26
-},
-{
-"id": "P052",
-"title": "Hold hypotheses, not positions",
-"path": "content/principles/P052 — Hold hypotheses, not positions.md",
-"degree": 16,
-"prose_words": 30
-},
-{
-"id": "P158",
-"title": "Choose values as directions, not destinations",
-"path": "content/principles/P158 — Choose values as directions, not destinations.md",
-"degree": 16,
-"prose_words": 34
+"prose_words": 107
 },
 {
 "id": "PP018",
 "title": "Calibrate challenge to skill",
 "path": "content/principles/PP018 — Calibrate challenge to skill.md",
 "degree": 16,
-"prose_words": 62
+"prose_words": 98
 },
 {
 "id": "PP047",
 "title": "Allow post-traumatic growth without forcing it",
 "path": "content/principles/PP047 — Allow post-traumatic growth without forcing it.md",
 "degree": 16,
-"prose_words": 65
+"prose_words": 83
 },
 {
-"id": "S010",
-"title": "Practise oikeiosis: appropriate self-love",
-"path": "content/principles/S010 — Practise oikeiosis — appropriate self-love.md",
-"degree": 16,
-"prose_words": 69
-},
-{
-"id": "A038",
-"title": "Cultivate practical judgment (gnome)",
-"path": "content/principles/A038 — Cultivate practical judgment (gnome).md",
+"id": "A089",
+"title": "Practise contemplation (theoria)",
+"path": "content/principles/A089 — Practise contemplation (theoria).md",
 "degree": 15,
-"prose_words": 46
-},
-{
-"id": "A067",
-"title": "Practise equality in friendship",
-"path": "content/principles/A067 — Practise equality in friendship.md",
-"degree": 15,
-"prose_words": 56
-},
-{
-"id": "A071",
-"title": "Recognise that self-love is the foundation",
-"path": "content/principles/A071 — Recognise that self-love is the foundation.md",
-"degree": 15,
-"prose_words": 41
-},
-{
-"id": "A072",
-"title": "Practise living together (suzēn)",
-"path": "content/principles/A072 — Practise living together (suzēn).md",
-"degree": 15,
-"prose_words": 43
-},
-{
-"id": "A073",
-"title": "Distinguish friendship from partnership",
-"path": "content/principles/A073 — Distinguish friendship from partnership.md",
-"degree": 15,
-"prose_words": 48
-},
-{
-"id": "AF025",
-"title": "Learn the full regulation toolkit: it is larger than \"calm down.\"",
-"path": "content/principles/AF025 — Learn the full regulation toolkit — it is larger than calm down..md",
-"degree": 15,
-"prose_words": 44
-},
-{
-"id": "AF035",
-"title": "Recognise that avoidance is negatively reinforcing: it works short-term and maintains suffering long-term",
-"path": "content/principles/AF035 — Recognise that avoidance is negatively reinforcing — it works short-term and maintains suffering long-term.md",
-"degree": 15,
-"prose_words": 37
-},
-{
-"id": "AT011",
-"title": "Recognise that attention can be open or closed: both are needed",
-"path": "content/principles/AT011 — Recognise that attention can be open or closed — both are needed.md",
-"degree": 15,
-"prose_words": 41
-},
-{
-"id": "AT071",
-"title": "Recognise depression's effect on attention: negative bias and rumination",
-"path": "content/principles/AT071 — Recognise depression's effect on attention — negative bias and rumination.md",
-"degree": 15,
-"prose_words": 31
+"prose_words": 53
 },
 {
 "id": "B020",
 "title": "Train ethics, concentration, and wisdom together (the threefold training)",
 "path": "content/principles/B020 — Train ethics, concentration, and wisdom together (the threefold training).md",
 "degree": 15,
-"prose_words": 35
-},
-{
-"id": "B038",
-"title": "Practice mindfulness of breathing (anapanasati)",
-"path": "content/principles/B038 — Practice mindfulness of breathing (anapanasati).md",
-"degree": 15,
-"prose_words": 28
+"prose_words": 116
 },
 {
 "id": "B082",
 "title": "Meet restlessness with settling (hindrance 4)",
 "path": "content/principles/B082 — Meet restlessness with settling (hindrance 4).md",
 "degree": 15,
-"prose_words": 27
+"prose_words": 95
 },
 {
 "id": "B097",
 "title": "Wish well, starting with yourself",
 "path": "content/principles/B097 — Wish well, starting with yourself.md",
 "degree": 15,
-"prose_words": 28
-},
-{
-"id": "B147",
-"title": "Listen deeply",
-"path": "content/principles/B147 — Listen deeply.md",
-"degree": 15,
-"prose_words": 32
-},
-{
-"id": "B168",
-"title": "Do one thing at a time",
-"path": "content/principles/B168 — Do one thing at a time.md",
-"degree": 15,
-"prose_words": 29
+"prose_words": 100
 },
 {
 "id": "B177",
 "title": "Begin again: returning is the practice",
 "path": "content/principles/B177 — Begin again — returning is the practice.md",
 "degree": 15,
-"prose_words": 28
-},
-{
-"id": "BI002",
-"title": "Recognise that the autonomic nervous system has two branches: arousal and restoration",
-"path": "content/principles/BI002 — Recognise that the autonomic nervous system has two branches — arousal and restoration.md",
-"degree": 15,
-"prose_words": 39
-},
-{
-"id": "CO001",
-"title": "Understand that cognition is predictive, not passive",
-"path": "content/principles/CO001 — Understand that cognition is predictive, not passive.md",
-"degree": 15,
-"prose_words": 61
-},
-{
-"id": "CO081",
-"title": "Recognise cognitive symptoms of clinical conditions: depression and anxiety affect thinking",
-"path": "content/principles/CO081 — Recognise cognitive symptoms of clinical conditions — depression and anxiety affect thinking.md",
-"degree": 15,
-"prose_words": 32
-},
-{
-"id": "D020",
-"title": "Know where to stop (chizhi)",
-"path": "content/principles/D020 — Know where to stop (chizhi).md",
-"degree": 15,
-"prose_words": 29
+"prose_words": 96
 },
 {
 "id": "D021",
 "title": "Reduce desires (guayu)",
 "path": "content/principles/D021 — Reduce desires (guayu).md",
 "degree": 15,
-"prose_words": 20
-},
-{
-"id": "D070",
-"title": "Let stillness precede mastery",
-"path": "content/principles/D070 — Let stillness precede mastery.md",
-"degree": 15,
-"prose_words": 27
-},
-{
-"id": "D089",
-"title": "Grief without destruction",
-"path": "content/principles/D089 — Grief without destruction.md",
-"degree": 15,
-"prose_words": 30
-},
-{
-"id": "D092",
-"title": "Don't chase happiness directly",
-"path": "content/principles/D092 — Don't chase happiness directly.md",
-"degree": 15,
-"prose_words": 35
-},
-{
-"id": "P159",
-"title": "Defuse: see thoughts as thoughts",
-"path": "content/principles/P159 — Defuse — see thoughts as thoughts.md",
-"degree": 15,
-"prose_words": 34
-},
-{
-"id": "P162",
-"title": "Take committed action: behavior is where values become real",
-"path": "content/principles/P162 — Take committed action — behavior is where values become real.md",
-"degree": 15,
-"prose_words": 30
-},
-{
-"id": "PP036",
-"title": "Identify and use signature strengths",
-"path": "content/principles/PP036 — Identify and use signature strengths.md",
-"degree": 15,
-"prose_words": 64
-},
-{
-"id": "R060",
-"title": "Practise self-cultivation (xiushen)",
-"path": "content/principles/R060 — Practise self-cultivation (xiushen).md",
-"degree": 15,
-"prose_words": 91
-},
-{
-"id": "R077",
-"title": "Practise relational autonomy",
-"path": "content/principles/R077 — Practise relational autonomy.md",
-"degree": 15,
-"prose_words": 62
+"prose_words": 100
 },
 {
 "id": "A006",
 "title": "Expect flourishing to require external goods",
 "path": "content/principles/A006 — Expect flourishing to require external goods.md",
 "degree": 14,
-"prose_words": 55
+"prose_words": 108
 },
 {
 "id": "A036",
@@ -1162,13 +315,6 @@
 "prose_words": 46
 },
 {
-"id": "A089",
-"title": "Practise contemplation (theoria)",
-"path": "content/principles/A089 — Practise contemplation (theoria).md",
-"degree": 14,
-"prose_words": 53
-},
-{
 "id": "AF010",
 "title": "Recognise that affect has temporal structure: intensity, duration, variability, recovery",
 "path": "content/principles/AF010 — Recognise that affect has temporal structure — intensity, duration, variability, recovery.md",
@@ -1183,321 +329,6 @@
 "prose_words": 34
 },
 {
-"id": "B146",
-"title": "Test speech before it leaves",
-"path": "content/principles/B146 — Test speech before it leaves.md",
-"degree": 14,
-"prose_words": 29
-},
-{
-"id": "BI012",
-"title": "Understand that the body has limits: health, illness, and medication affect everything",
-"path": "content/principles/BI012 — Understand that the body has limits — health, illness, and medication affect everything.md",
-"degree": 14,
-"prose_words": 31
-},
-{
-"id": "CO072",
-"title": "Cultivate cognitive endurance: thinking is effortful and can be trained",
-"path": "content/principles/CO072 — Cultivate cognitive endurance — thinking is effortful and can be trained.md",
-"degree": 14,
-"prose_words": 35
-},
-{
-"id": "D017",
-"title": "Trust emergent order",
-"path": "content/principles/D017 — Trust emergent order.md",
-"degree": 14,
-"prose_words": 37
-},
-{
-"id": "D095",
-"title": "Moderate emotion: extremes injure vitality",
-"path": "content/principles/D095 — Moderate emotion — extremes injure vitality.md",
-"degree": 14,
-"prose_words": 26
-},
-{
-"id": "D133",
-"title": "Don't dominate: the world can't be controlled",
-"path": "content/principles/D133 — Don't dominate — the world can't be controlled.md",
-"degree": 14,
-"prose_words": 29
-},
-{
-"id": "E014",
-"title": "Practise the habit body",
-"path": "content/principles/E014 — Practise the habit body.md",
-"degree": 14,
-"prose_words": 68
-},
-{
-"id": "E068",
-"title": "Practise being-for-others",
-"path": "content/principles/E068 — Practise being-for-others.md",
-"degree": 14,
-"prose_words": 65
-},
-{
-"id": "K006",
-"title": "Guard the mind as the root of everything downstream",
-"path": "content/principles/K006 — Guard the mind as the root of everything downstream.md",
-"degree": 14,
-"prose_words": 69
-},
-{
-"id": "P002",
-"title": "Treat the world as events and doings, not things and substances",
-"path": "content/principles/P002 — Treat the world as events and doings, not things and substances.md",
-"degree": 14,
-"prose_words": 33
-},
-{
-"id": "P057",
-"title": "Your self is social through and through",
-"path": "content/principles/P057 — Your self is social through and through.md",
-"degree": 14,
-"prose_words": 39
-},
-{
-"id": "P107",
-"title": "Treat education as growth, not preparation",
-"path": "content/principles/P107 — Treat education as growth, not preparation.md",
-"degree": 14,
-"prose_words": 30
-},
-{
-"id": "P141",
-"title": "Perceive by acting: perception is movement",
-"path": "content/principles/P141 — Perceive by acting — perception is movement.md",
-"degree": 14,
-"prose_words": 33
-},
-{
-"id": "P164",
-"title": "Judge your life as a direction, not a destination",
-"path": "content/principles/P164 — Judge your life as a direction, not a destination.md",
-"degree": 14,
-"prose_words": 33
-},
-{
-"id": "PP011",
-"title": "Use the broaden-and-build mechanism",
-"path": "content/principles/PP011 — Use the broaden-and-build mechanism.md",
-"degree": 14,
-"prose_words": 65
-},
-{
-"id": "PP031",
-"title": "Address loneliness as a signal, not a failing",
-"path": "content/principles/PP031 — Address loneliness as a signal, not a failing.md",
-"degree": 14,
-"prose_words": 63
-},
-{
-"id": "PP051",
-"title": "Treat creativity as a process, not a trait",
-"path": "content/principles/PP051 — Treat creativity as a process, not a trait.md",
-"degree": 14,
-"prose_words": 61
-},
-{
-"id": "R003",
-"title": "Practise hospitality",
-"path": "content/principles/R003 — Practise hospitality.md",
-"degree": 14,
-"prose_words": 48
-},
-{
-"id": "R008",
-"title": "Practise collective responsibility",
-"path": "content/principles/R008 — Practise collective responsibility.md",
-"degree": 14,
-"prose_words": 49
-},
-{
-"id": "R066",
-"title": "Practise care as a moral orientation",
-"path": "content/principles/R066 — Practise care as a moral orientation.md",
-"degree": 14,
-"prose_words": 75
-},
-{
-"id": "S004",
-"title": "Train your capacity to give or withhold assent to impressions",
-"path": "content/principles/S004 — Train your capacity to give or withhold assent to impressions.md",
-"degree": 14,
-"prose_words": 53
-},
-{
-"id": "S005",
-"title": "Live according to nature",
-"path": "content/principles/S005 — Live according to nature.md",
-"degree": 14,
-"prose_words": 69
-},
-{
-"id": "S044",
-"title": "Act as a member of the whole",
-"path": "content/principles/S044 — Act as a member of the whole.md",
-"degree": 14,
-"prose_words": 66
-},
-{
-"id": "S048",
-"title": "Withhold assent when the impression is uncertain",
-"path": "content/principles/S048 — Withhold assent when the impression is uncertain.md",
-"degree": 14,
-"prose_words": 55
-},
-{
-"id": "SE069",
-"title": "Recognise identity disturbances: when self is fragmented",
-"path": "content/principles/SE069 — Recognise identity disturbances — when self is fragmented.md",
-"degree": 14,
-"prose_words": 38
-},
-{
-"id": "A014",
-"title": "Practice magnificence (megaloprepeia)",
-"path": "content/principles/A014 — Practice magnificence (megaloprepeia).md",
-"degree": 13,
-"prose_words": 46
-},
-{
-"id": "A017",
-"title": "Practice gentleness (praotes)",
-"path": "content/principles/A017 — Practice gentleness (praotes).md",
-"degree": 13,
-"prose_words": 40
-},
-{
-"id": "A043",
-"title": "Develop phronesis: practical wisdom",
-"path": "content/principles/A043 — Develop phronesis — practical wisdom.md",
-"degree": 13,
-"prose_words": 59
-},
-{
-"id": "A049",
-"title": "Seek the counsel of the practically wise",
-"path": "content/principles/A049 — Seek the counsel of the practically wise.md",
-"degree": 13,
-"prose_words": 47
-},
-{
-"id": "A077",
-"title": "Honour friendship in prosperity as well as adversity",
-"path": "content/principles/A077 — Honour friendship in prosperity as well as adversity.md",
-"degree": 13,
-"prose_words": 54
-},
-{
-"id": "B166",
-"title": "Chop wood, carry water",
-"path": "content/principles/B166 — Chop wood, carry water.md",
-"degree": 13,
-"prose_words": 26
-},
-{
-"id": "B192",
-"title": "Begin the day with intention; end it with review",
-"path": "content/principles/B192 — Begin the day with intention; end it with review.md",
-"degree": 13,
-"prose_words": 26
-},
-{
-"id": "CO014",
-"title": "Understand that thinking is fallible and that wisdom includes knowing this",
-"path": "content/principles/CO014 — Understand that thinking is fallible and that wisdom includes knowing this.md",
-"degree": 13,
-"prose_words": 39
-},
-{
-"id": "CO063",
-"title": "Cultivate metacognition: thinking about your own thinking",
-"path": "content/principles/CO063 — Cultivate metacognition — thinking about your own thinking.md",
-"degree": 13,
-"prose_words": 38
-},
-{
-"id": "CO077",
-"title": "Recognise the limits of introspection: you do not have privileged access to your own mind",
-"path": "content/principles/CO077 — Recognise the limits of introspection — you do not have privileged access to your own mind.md",
-"degree": 13,
-"prose_words": 42
-},
-{
-"id": "CO082",
-"title": "Build a cognitive-maintenance system: learn, adapt, retain",
-"path": "content/principles/CO082 — Build a cognitive-maintenance system — learn, adapt, retain.md",
-"degree": 13,
-"prose_words": 33
-},
-{
-"id": "D005",
-"title": "Expect reversal: extremes turn into their opposites",
-"path": "content/principles/D005 — Expect reversal — extremes turn into their opposites.md",
-"degree": 13,
-"prose_words": 35
-},
-{
-"id": "D012",
-"title": "Model yourself on water",
-"path": "content/principles/D012 — Model yourself on water.md",
-"degree": 13,
-"prose_words": 28
-},
-{
-"id": "D071",
-"title": "Practice undivided attention",
-"path": "content/principles/D071 — Practice undivided attention.md",
-"degree": 13,
-"prose_words": 28
-},
-{
-"id": "D081",
-"title": "Recognize the relativity of perspectives",
-"path": "content/principles/D081 — Recognize the relativity of perspectives.md",
-"degree": 13,
-"prose_words": 30
-},
-{
-"id": "D107",
-"title": "Trust your own nature",
-"path": "content/principles/D107 — Trust your own nature.md",
-"degree": 13,
-"prose_words": 27
-},
-{
-"id": "E001",
-"title": "Practise the phenomenological reduction",
-"path": "content/principles/E001 — Practise the phenomenological reduction.md",
-"degree": 13,
-"prose_words": 72
-},
-{
-"id": "P029",
-"title": "Watch how words work, not what they name",
-"path": "content/principles/P029 — Watch how words work, not what they name.md",
-"degree": 13,
-"prose_words": 35
-},
-{
-"id": "P063",
-"title": "Treat your self-concept as revisable",
-"path": "content/principles/P063 — Treat your self-concept as revisable.md",
-"degree": 13,
-"prose_words": 34
-},
-{
-"id": "R116",
-"title": "Practise ecological embeddedness",
-"path": "content/principles/R116 — Practise ecological embeddedness.md",
-"degree": 13,
-"prose_words": 65
-},
-{
 "id": "R117",
 "title": "Practise the land ethic",
 "path": "content/principles/R117 — Practise the land ethic.md",
@@ -1505,137 +336,18 @@
 "prose_words": 56
 },
 {
-"id": "S008",
-"title": "Remember that virtue is sufficient for flourishing",
-"path": "content/principles/S008 — Remember that virtue is sufficient for flourishing.md",
+"id": "S014",
+"title": "Want what actually happens",
+"path": "content/principles/S014 — Want what actually happens.md",
 "degree": 13,
-"prose_words": 57
+"prose_words": 107
 },
 {
-"id": "S045",
-"title": "Examine every impression",
-"path": "content/principles/S045 — Examine every impression.md",
+"id": "S060",
+"title": "Cure anger by understanding its source",
+"path": "content/principles/S060 — Cure anger by understanding its source.md",
 "degree": 13,
-"prose_words": 43
-},
-{
-"id": "S071",
-"title": "Recognise that emotions are judgments",
-"path": "content/principles/S071 — Recognise that emotions are judgments.md",
-"degree": 13,
-"prose_words": 63
-},
-{
-"id": "SE054",
-"title": "Recognise self and culture: your self is culturally shaped",
-"path": "content/principles/SE054 — Recognise self and culture — your self is culturally shaped.md",
-"degree": 13,
-"prose_words": 48
-},
-{
-"id": "SO004",
-"title": "Treat culture as both a resource and a constraint",
-"path": "content/principles/SO004 — Treat culture as both a resource and a constraint.md",
-"degree": 13,
-"prose_words": 76
-},
-{
-"id": "A002",
-"title": "Live according to your function (ergon)",
-"path": "content/principles/A002 — Live according to your function (ergon).md",
-"degree": 12,
-"prose_words": 58
-},
-{
-"id": "A003",
-"title": "Make virtue your primary investment",
-"path": "content/principles/A003 — Make virtue your primary investment.md",
-"degree": 12,
-"prose_words": 44
-},
-{
-"id": "A015",
-"title": "Practice magnanimity (megalopsychia)",
-"path": "content/principles/A015 — Practice magnanimity (megalopsychia).md",
-"degree": 12,
-"prose_words": 50
-},
-{
-"id": "A016",
-"title": "Practice proper ambition (philotimia)",
-"path": "content/principles/A016 — Practice proper ambition (philotimia).md",
-"degree": 12,
-"prose_words": 44
-},
-{
-"id": "A054",
-"title": "Choose deliberately (prohairesis)",
-"path": "content/principles/A054 — Choose deliberately (prohairesis).md",
-"degree": 12,
-"prose_words": 44
-},
-{
-"id": "A069",
-"title": "Seek concord (homonoia)",
-"path": "content/principles/A069 — Seek concord (homonoia).md",
-"degree": 12,
-"prose_words": 44
-},
-{
-"id": "A074",
-"title": "Be generous in interpreting friends' actions",
-"path": "content/principles/A074 — Be generous in interpreting friends' actions.md",
-"degree": 12,
-"prose_words": 44
-},
-{
-"id": "A111",
-"title": "Practise leisure (scholē) as the end of work",
-"path": "content/principles/A111 — Practise leisure (scholē) as the end of work.md",
-"degree": 12,
-"prose_words": 58
-},
-{
-"id": "AF005",
-"title": "Learn to read your own body: interoception",
-"path": "content/principles/AF005 — Learn to read your own body — interoception.md",
-"degree": 12,
-"prose_words": 38
-},
-{
-"id": "AF007",
-"title": "Recognise affective forecasting errors; expect hedonic adaptation",
-"path": "content/principles/AF007 — Recognise affective forecasting errors; expect hedonic adaptation.md",
-"degree": 12,
-"prose_words": 54
-},
-{
-"id": "AF012",
-"title": "Recognise that affect is socially and culturally shaped; do not universalise it",
-"path": "content/principles/AF012 — Recognise that affect is socially and culturally shaped; do not universalise it.md",
-"degree": 12,
-"prose_words": 53
-},
-{
-"id": "AF047",
-"title": "Understand fear's function: it prepares you for threat",
-"path": "content/principles/AF047 — Understand fear's function — it prepares you for threat.md",
-"degree": 12,
-"prose_words": 43
-},
-{
-"id": "AT004",
-"title": "Understand that attention can be captured (bottom-up) or directed (top-down)",
-"path": "content/principles/AT004 — Understand that attention can be captured (bottom-up) or directed (top-down).md",
-"degree": 12,
-"prose_words": 41
-},
-{
-"id": "AT006",
-"title": "Recognise that attention is trainable: it can be cultivated",
-"path": "content/principles/AT006 — Recognise that attention is trainable — it can be cultivated.md",
-"degree": 12,
-"prose_words": 27
+"prose_words": 86
 },
 {
 "id": "AT020",
@@ -1684,441 +396,196 @@
 "title": "Learn exposure therapy principles: approach what you fear",
 "path": "content/principles/BE026 — Learn exposure therapy principles — approach what you fear.md",
 "degree": 12,
-"prose_words": 30
+"prose_words": 107
 },
 {
 "id": "BI053",
 "title": "Cultivate interoceptive awareness: notice internal signals",
 "path": "content/principles/BI053 — Cultivate interoceptive awareness — notice internal signals.md",
 "degree": 12,
-"prose_words": 34
-},
-{
-"id": "CO008",
-"title": "Understand that thinking is constructivist: you build your understanding",
-"path": "content/principles/CO008 — Understand that thinking is constructivist — you build your understanding.md",
-"degree": 12,
-"prose_words": 31
-},
-{
-"id": "CO011",
-"title": "Recognise that thinking can be fused with its content: you can believe your thoughts",
-"path": "content/principles/CO011 — Recognise that thinking can be fused with its content — you can believe your thoughts.md",
-"degree": 12,
-"prose_words": 54
+"prose_words": 112
 },
 {
 "id": "CO039",
 "title": "Recognise optimism bias: you underestimate your personal risk",
 "path": "content/principles/CO039 — Recognise optimism bias — you underestimate your personal risk.md",
 "degree": 12,
-"prose_words": 36
-},
-{
-"id": "D011",
-"title": "Choose the soft over the hard",
-"path": "content/principles/D011 — Choose the soft over the hard.md",
-"degree": 12,
-"prose_words": 28
-},
-{
-"id": "D068",
-"title": "Yield in conflict to remain whole",
-"path": "content/principles/D068 — Yield in conflict to remain whole.md",
-"degree": 12,
-"prose_words": 26
-},
-{
-"id": "D069",
-"title": "Don't meet force with force",
-"path": "content/principles/D069 — Don't meet force with force.md",
-"degree": 12,
-"prose_words": 31
-},
-{
-"id": "D073",
-"title": "Don't over-plan: act from presence",
-"path": "content/principles/D073 — Don't over-plan — act from presence.md",
-"degree": 12,
-"prose_words": 23
+"prose_words": 98
 },
 {
 "id": "D075",
 "title": "Don't underestimate challenges",
 "path": "content/principles/D075 — Don't underestimate challenges.md",
 "degree": 12,
-"prose_words": 26
-},
-{
-"id": "E002",
-"title": "Practise intentionality",
-"path": "content/principles/E002 — Practise intentionality.md",
-"degree": 12,
-"prose_words": 67
-},
-{
-"id": "E016",
-"title": "Practise the body-subject",
-"path": "content/principles/E016 — Practise the body-subject.md",
-"degree": 12,
-"prose_words": 67
-},
-{
-"id": "E043",
-"title": "Practise being-toward-death (Sein-zum-Tode)",
-"path": "content/principles/E043 — Practise being-toward-death (Sein-zum-Tode).md",
-"degree": 12,
-"prose_words": 62
+"prose_words": 102
 },
 {
 "id": "E053",
 "title": "Practise the self as relation",
 "path": "content/principles/E053 — Practise the self as relation.md",
 "degree": 12,
-"prose_words": 60
-},
-{
-"id": "E070",
-"title": "Practise the ethics of ambiguity",
-"path": "content/principles/E070 — Practise the ethics of ambiguity.md",
-"degree": 12,
-"prose_words": 64
-},
-{
-"id": "P003",
-"title": "Relation is primary",
-"path": "content/principles/P003 — Relation is primary.md",
-"degree": 12,
-"prose_words": 38
-},
-{
-"id": "P012",
-"title": "An idea's meaning is its practical effects",
-"path": "content/principles/P012 — An idea's meaning is its practical effects.md",
-"degree": 12,
-"prose_words": 28
-},
-{
-"id": "P015",
-"title": "Make growth your criterion of value",
-"path": "content/principles/P015 — Make growth your criterion of value.md",
-"degree": 12,
-"prose_words": 42
+"prose_words": 86
 },
 {
 "id": "P089",
 "title": "Ride the rhythm of activity and receptivity",
 "path": "content/principles/P089 — Ride the rhythm of activity and receptivity.md",
 "degree": 12,
-"prose_words": 38
-},
-{
-"id": "P115",
-"title": "Welcome peak experiences: don't chase them",
-"path": "content/principles/P115 — Welcome peak experiences — don't chase them.md",
-"degree": 12,
-"prose_words": 45
-},
-{
-"id": "P140",
-"title": "Treat mind and life as continuous",
-"path": "content/principles/P140 — Treat mind and life as continuous.md",
-"degree": 12,
-"prose_words": 37
+"prose_words": 103
 },
 {
 "id": "PP001",
 "title": "Distinguish hedonic from eudaimonic well-being",
 "path": "content/principles/PP001 — Distinguish hedonic from eudaimonic well-being.md",
 "degree": 12,
-"prose_words": 75
+"prose_words": 104
 },
 {
-"id": "PP009",
-"title": "Pursue self-concordant goals",
-"path": "content/principles/PP009 — Pursue self-concordant goals.md",
+"id": "PP017",
+"title": "Regulate negative emotion without suppressing it",
+"path": "content/principles/PP017 — Regulate negative emotion without suppressing it.md",
 "degree": 12,
-"prose_words": 62
-},
-{
-"id": "PP021",
-"title": "Value the process over the outcome",
-"path": "content/principles/PP021 — Value the process over the outcome.md",
-"degree": 12,
-"prose_words": 76
+"prose_words": 71
 },
 {
 "id": "PP032",
 "title": "Practise prosocial behaviour for autonomous reasons",
 "path": "content/principles/PP032 — Practise prosocial behaviour for autonomous reasons.md",
 "degree": 12,
-"prose_words": 66
+"prose_words": 108
 },
 {
 "id": "R007",
 "title": "Honour the ancestors",
 "path": "content/principles/R007 — Honour the ancestors.md",
 "degree": 12,
-"prose_words": 54
+"prose_words": 73
 },
 {
 "id": "R013",
 "title": "Practise connection to Country",
 "path": "content/principles/R013 — Practise connection to Country.md",
 "degree": 12,
-"prose_words": 68
+"prose_words": 77
 },
 {
 "id": "R089",
 "title": "Practise incarnation",
 "path": "content/principles/R089 — Practise incarnation.md",
 "degree": 12,
-"prose_words": 64
+"prose_words": 86
 },
 {
-"id": "S014",
-"title": "Want what actually happens",
-"path": "content/principles/S014 — Want what actually happens.md",
+"id": "S051",
+"title": "Recognise that your judgements are the source of your distress",
+"path": "content/principles/S051 — Recognise that your judgements are the source of your distress.md",
 "degree": 12,
-"prose_words": 63
-},
-{
-"id": "S060",
-"title": "Cure anger by understanding its source",
-"path": "content/principles/S060 — Cure anger by understanding its source.md",
-"degree": 12,
-"prose_words": 63
+"prose_words": 53
 },
 {
 "id": "S094",
 "title": "Accept pain as part of nature",
 "path": "content/principles/S094 — Accept pain as part of nature.md",
 "degree": 12,
-"prose_words": 62
+"prose_words": 90
 },
 {
 "id": "SE002",
 "title": "Recognise the observing self: you are not only the contents of awareness",
 "path": "content/principles/SE002 — Recognise the observing self — you are not only the contents of awareness.md",
 "degree": 12,
-"prose_words": 43
-},
-{
-"id": "SE017",
-"title": "Recognise and manage the inner critic: harsh self-talk is not motivation",
-"path": "content/principles/SE017 — Recognise and manage the inner critic — harsh self-talk is not motivation.md",
-"degree": 12,
-"prose_words": 36
-},
-{
-"id": "SO006",
-"title": "Treat the social environment as a designable context",
-"path": "content/principles/SO006 — Treat the social environment as a designable context.md",
-"degree": 12,
-"prose_words": 55
-},
-{
-"id": "SO034",
-"title": "Treat knowledge as social",
-"path": "content/principles/SO034 — Treat knowledge as social.md",
-"degree": 12,
-"prose_words": 50
+"prose_words": 115
 },
 {
 "id": "SP084",
 "title": "Seek the third kind of knowledge directly",
 "path": "content/principles/SP084 — Seek the third kind of knowledge directly.md",
 "degree": 12,
-"prose_words": 90
-},
-{
-"id": "A012",
-"title": "Practice temperance (sophrosyne)",
-"path": "content/principles/A012 — Practice temperance (sophrosyne).md",
-"degree": 11,
-"prose_words": 48
-},
-{
-"id": "A021",
-"title": "Practice shame (aidos)",
-"path": "content/principles/A021 — Practice shame (aidos).md",
-"degree": 11,
-"prose_words": 72
+"prose_words": 71
 },
 {
 "id": "A022",
 "title": "Practice righteous indignation (nemesis)",
 "path": "content/principles/A022 — Practice righteous indignation (nemesis).md",
 "degree": 11,
-"prose_words": 58
-},
-{
-"id": "A025",
-"title": "Practice proper pride (kaucha)",
-"path": "content/principles/A025 — Practice proper pride (kaucha).md",
-"degree": 11,
-"prose_words": 51
-},
-{
-"id": "A045",
-"title": "Deliberate well",
-"path": "content/principles/A045 — Deliberate well.md",
-"degree": 11,
-"prose_words": 61
-},
-{
-"id": "A070",
-"title": "Understand the asymmetry of benefaction",
-"path": "content/principles/A070 — Understand the asymmetry of benefaction.md",
-"degree": 11,
-"prose_words": 47
-},
-{
-"id": "A080",
-"title": "Choose activities for their completeness",
-"path": "content/principles/A080 — Choose activities for their completeness.md",
-"degree": 11,
-"prose_words": 45
+"prose_words": 74
 },
 {
 "id": "A097",
 "title": "Practise corrective justice",
 "path": "content/principles/A097 — Practise corrective justice.md",
 "degree": 11,
-"prose_words": 45
-},
-{
-"id": "A106",
-"title": "Recognise that virtue is taught through habituation",
-"path": "content/principles/A106 — Recognise that virtue is taught through habituation.md",
-"degree": 11,
-"prose_words": 47
+"prose_words": 72
 },
 {
 "id": "AT037",
 "title": "Understand that attention needs recovery: directed attention is a depletable resource",
 "path": "content/principles/AT037 — Understand that attention needs recovery — directed attention is a depletable resource.md",
 "degree": 11,
-"prose_words": 27
+"prose_words": 70
 },
 {
 "id": "AT064",
 "title": "Learn to create a distraction-free environment: physical and digital",
 "path": "content/principles/AT064 — Learn to create a distraction-free environment — physical and digital.md",
 "degree": 11,
-"prose_words": 30
+"prose_words": 112
 },
 {
-"id": "B055",
-"title": "Contemplate mortality (maranasati)",
-"path": "content/principles/B055 — Contemplate mortality (maranasati).md",
+"id": "B054",
+"title": "Practice equanimity (upekkha)",
+"path": "content/principles/B054 — Practice equanimity (upekkha).md",
 "degree": 11,
-"prose_words": 33
-},
-{
-"id": "B084",
-"title": "Use antidotes skillfully",
-"path": "content/principles/B084 — Use antidotes skillfully.md",
-"degree": 11,
-"prose_words": 34
+"prose_words": 104
 },
 {
 "id": "B099",
 "title": "Respond to suffering with the wish to relieve it (karuna in action)",
 "path": "content/principles/B099 — Respond to suffering with the wish to relieve it (karuna in action).md",
 "degree": 11,
-"prose_words": 30
-},
-{
-"id": "B100",
-"title": "Keep compassion free of pity (the near enemy)",
-"path": "content/principles/B100 — Keep compassion free of pity (the near enemy).md",
-"degree": 11,
-"prose_words": 25
+"prose_words": 119
 },
 {
 "id": "BE001",
 "title": "Understand that behaviour is the foundation: what you do shapes how you feel, think, and are",
 "path": "content/principles/BE001 — Understand that behaviour is the foundation — what you do shapes how you feel, think, and are.md",
 "degree": 11,
-"prose_words": 52
+"prose_words": 116
 },
 {
 "id": "BE006",
 "title": "Know that behaviour has a functional analysis: every behaviour serves a function",
 "path": "content/principles/BE006 — Know that behaviour has a functional analysis — every behaviour serves a function.md",
 "degree": 11,
-"prose_words": 30
-},
-{
-"id": "BE009",
-"title": "Know that behaviour is shaped gradually: small steps build large changes",
-"path": "content/principles/BE009 — Know that behaviour is shaped gradually — small steps build large changes.md",
-"degree": 11,
-"prose_words": 26
+"prose_words": 62
 },
 {
 "id": "BE019",
 "title": "Learn to schedule pleasurable activities: enjoyment-driven behaviour",
 "path": "content/principles/BE019 — Learn to schedule pleasurable activities — enjoyment-driven behaviour.md",
 "degree": 11,
-"prose_words": 27
-},
-{
-"id": "BE022",
-"title": "Learn to use opposite action: do the opposite of what the emotion urges",
-"path": "content/principles/BE022 — Learn to use opposite action — do the opposite of what the emotion urges.md",
-"degree": 11,
-"prose_words": 34
+"prose_words": 106
 },
 {
 "id": "BE036",
 "title": "Learn to build tolerance for discomfort: approach despite discomfort",
 "path": "content/principles/BE036 — Learn to build tolerance for discomfort — approach despite discomfort.md",
 "degree": 11,
-"prose_words": 35
-},
-{
-"id": "BI060",
-"title": "Learn mindful movement: walking meditation, yoga, tai chi",
-"path": "content/principles/BI060 — Learn mindful movement — walking meditation, yoga, tai chi.md",
-"degree": 11,
-"prose_words": 23
+"prose_words": 108
 },
 {
 "id": "BI072",
 "title": "Build biophysiological maintenance: ongoing care and adaptation",
 "path": "content/principles/BI072 — Build biophysiological maintenance — ongoing care and adaptation.md",
 "degree": 11,
-"prose_words": 24
-},
-{
-"id": "CO006",
-"title": "Recognise that thinking is socially distributed: you think with others",
-"path": "content/principles/CO006 — Recognise that thinking is socially distributed — you think with others.md",
-"degree": 11,
-"prose_words": 38
-},
-{
-"id": "CO065",
-"title": "Cultivate wise reasoning: wisdom is a trainable skill, not a fixed trait",
-"path": "content/principles/CO065 — Cultivate wise reasoning — wisdom is a trainable skill, not a fixed trait.md",
-"degree": 11,
-"prose_words": 38
+"prose_words": 119
 },
 {
 "id": "CO073",
 "title": "Learn to make decisions under uncertainty: you will never have complete information",
 "path": "content/principles/CO073 — Learn to make decisions under uncertainty — you will never have complete information.md",
 "degree": 11,
-"prose_words": 38
-},
-{
-"id": "CO074",
-"title": "Cultivate creative thinking: divergent and convergent modes",
-"path": "content/principles/CO074 — Cultivate creative thinking — divergent and convergent modes.md",
-"degree": 11,
-"prose_words": 28
+"prose_words": 99
 },
 {
 "id": "CO075",
@@ -2135,116 +602,39 @@
 "prose_words": 32
 },
 {
-"id": "D008",
-"title": "See the oneness of things",
-"path": "content/principles/D008 — See the oneness of things.md",
-"degree": 11,
-"prose_words": 28
-},
-{
-"id": "D018",
-"title": "Give things time",
-"path": "content/principles/D018 — Give things time.md",
-"degree": 11,
-"prose_words": 25
-},
-{
-"id": "D023",
-"title": "Unlearn daily",
-"path": "content/principles/D023 — Unlearn daily.md",
-"degree": 11,
-"prose_words": 29
-},
-{
-"id": "D045",
-"title": "Keep the empty cup",
-"path": "content/principles/D045 — Keep the empty cup.md",
-"degree": 11,
-"prose_words": 25
-},
-{
-"id": "D065",
-"title": "Use the light, return to the insight",
-"path": "content/principles/D065 — Use the light, return to the insight.md",
-"degree": 11,
-"prose_words": 24
-},
-{
 "id": "D074",
 "title": "Don't fight angry",
 "path": "content/principles/D074 — Don't fight angry.md",
 "degree": 11,
-"prose_words": 24
+"prose_words": 53
 },
 {
 "id": "D088",
 "title": "Don't take offense personally (the empty boat)",
 "path": "content/principles/D088 — Don't take offense personally (the empty boat).md",
 "degree": 11,
-"prose_words": 31
+"prose_words": 112
 },
 {
 "id": "D117",
 "title": "Don't manufacture envy",
 "path": "content/principles/D117 — Don't manufacture envy.md",
 "degree": 11,
-"prose_words": 25
-},
-{
-"id": "D144",
-"title": "Breathe from the heels",
-"path": "content/principles/D144 — Breathe from the heels.md",
-"degree": 11,
-"prose_words": 29
+"prose_words": 99
 },
 {
 "id": "D163",
 "title": "Carry jade in coarse cloth",
 "path": "content/principles/D163 — Carry jade in coarse cloth.md",
 "degree": 11,
-"prose_words": 21
+"prose_words": 91
 },
 {
 "id": "D171",
 "title": "Nothing is beyond redemption",
 "path": "content/principles/D171 — Nothing is beyond redemption.md",
 "degree": 11,
-"prose_words": 30
-},
-{
-"id": "E055",
-"title": "Practise the recognition of the absurd",
-"path": "content/principles/E055 — Practise the recognition of the absurd.md",
-"degree": 11,
-"prose_words": 54
-},
-{
-"id": "E065",
-"title": "Practise noogenic neurosis awareness",
-"path": "content/principles/E065 — Practise noogenic neurosis awareness.md",
-"degree": 11,
-"prose_words": 68
-},
-{
-"id": "E104",
-"title": "Practise the eternal recurrence",
-"path": "content/principles/E104 — Practise the eternal recurrence.md",
-"degree": 11,
-"prose_words": 70
-},
-{
-"id": "E109",
-"title": "Practise the overman (Übermensch)",
-"path": "content/principles/E109 — Practise the overman (Übermensch).md",
-"degree": 11,
-"prose_words": 72
-},
-{
-"id": "E504",
-"title": "Spare a person shame",
-"path": "content/principles/E504 — Spare a person shame.md",
-"degree": 11,
-"prose_words": 67
+"prose_words": 109
 },
 {
 "id": "K015",
@@ -2268,46 +658,25 @@
 "prose_words": 37
 },
 {
-"id": "P091",
-"title": "Distinguish lived time from clock time",
-"path": "content/principles/P091 — Distinguish lived time from clock time.md",
-"degree": 11,
-"prose_words": 34
-},
-{
-"id": "P100",
-"title": "Treat the past as resource, not prison",
-"path": "content/principles/P100 — Treat the past as resource, not prison.md",
-"degree": 11,
-"prose_words": 36
-},
-{
 "id": "P163",
 "title": "Practice creative hopelessness: let go of what isn't working",
 "path": "content/principles/P163 — Practice creative hopelessness — let go of what isn't working.md",
 "degree": 11,
-"prose_words": 30
+"prose_words": 94
 },
 {
 "id": "P182",
 "title": "Unclamp your machinery: self-preoccupation inhibits performance",
 "path": "content/principles/P182 — Unclamp your machinery: self-preoccupation inhibits performance.md",
 "degree": 11,
-"prose_words": 66
+"prose_words": 79
 },
 {
 "id": "P183",
 "title": "Make your life significant by fusing ideal with active virtue",
 "path": "content/principles/P183 — Make your life significant by fusing ideal with active virtue.md",
 "degree": 11,
-"prose_words": 83
-},
-{
-"id": "PP017",
-"title": "Regulate negative emotion without suppressing it",
-"path": "content/principles/PP017 — Regulate negative emotion without suppressing it.md",
-"degree": 11,
-"prose_words": 71
+"prose_words": 115
 },
 {
 "id": "PP022",
@@ -2359,11 +728,11 @@
 "prose_words": 52
 },
 {
-"id": "S051",
-"title": "Recognise that your judgements are the source of your distress",
-"path": "content/principles/S051 — Recognise that your judgements are the source of your distress.md",
+"id": "S059",
+"title": "Do not be carried away by passion",
+"path": "content/principles/S059 — Do not be carried away by passion.md",
 "degree": 11,
-"prose_words": 53
+"prose_words": 62
 },
 {
 "id": "SE006",
@@ -2531,217 +900,105 @@
 "title": "Craving is the engine of suffering (tanha)",
 "path": "content/principles/B006 — Craving is the engine of suffering (tanha).md",
 "degree": 10,
-"prose_words": 36
+"prose_words": 73
 },
 {
 "id": "B043",
 "title": "Develop insight (vipassana)",
 "path": "content/principles/B043 — Develop insight (vipassana).md",
 "degree": 10,
-"prose_words": 28
-},
-{
-"id": "B053",
-"title": "Practice sympathetic joy (mudita)",
-"path": "content/principles/B053 — Practice sympathetic joy (mudita).md",
-"degree": 10,
-"prose_words": 23
-},
-{
-"id": "B054",
-"title": "Practice equanimity (upekkha)",
-"path": "content/principles/B054 — Practice equanimity (upekkha).md",
-"degree": 10,
-"prose_words": 31
+"prose_words": 75
 },
 {
 "id": "B069",
 "title": "Don't shoot the second arrow (pain vs. suffering)",
 "path": "content/principles/B069 — Don't shoot the second arrow (pain vs. suffering).md",
 "degree": 10,
-"prose_words": 31
+"prose_words": 69
 },
 {
 "id": "B122",
 "title": "Use two truths (conventional and ultimate)",
 "path": "content/principles/B122 — Use two truths (conventional and ultimate).md",
 "degree": 10,
-"prose_words": 26
+"prose_words": 97
 },
 {
 "id": "B133",
 "title": "Let the self-construct fall away (the Great Death)",
 "path": "content/principles/B133 — Let the self-construct fall away (the Great Death).md",
 "degree": 10,
-"prose_words": 33
+"prose_words": 89
 },
 {
 "id": "BE020",
 "title": "Learn to use behavioural experiments: test beliefs through action",
 "path": "content/principles/BE020 — Learn to use behavioural experiments — test beliefs through action.md",
 "degree": 10,
-"prose_words": 36
+"prose_words": 101
 },
 {
 "id": "BI001",
 "title": "Understand that the body is the foundation of the mind: physiology shapes psychology",
 "path": "content/principles/BI001 — Understand that the body is the foundation of the mind — physiology shapes psychology.md",
 "degree": 10,
-"prose_words": 38
-},
-{
-"id": "BI009",
-"title": "Understand that interoception is the foundation of emotional awareness",
-"path": "content/principles/BI009 — Understand that interoception is the foundation of emotional awareness.md",
-"degree": 10,
-"prose_words": 34
-},
-{
-"id": "BI054",
-"title": "Learn body scan meditation: systematic body awareness",
-"path": "content/principles/BI054 — Learn body scan meditation — systematic body awareness.md",
-"degree": 10,
-"prose_words": 29
-},
-{
-"id": "CO005",
-"title": "Understand that thinking is embodied: the body shapes the mind",
-"path": "content/principles/CO005 — Understand that thinking is embodied — the body shapes the mind.md",
-"degree": 10,
-"prose_words": 36
+"prose_words": 78
 },
 {
 "id": "CO007",
 "title": "Know that thinking is trainable: cognitive capacities can be built",
 "path": "content/principles/CO007 — Know that thinking is trainable — cognitive capacities can be built.md",
 "degree": 10,
-"prose_words": 33
-},
-{
-"id": "CO045",
-"title": "Cultivate cognitive flexibility: the capacity to switch between modes",
-"path": "content/principles/CO045 — Cultivate cognitive flexibility — the capacity to switch between modes.md",
-"degree": 10,
-"prose_words": 37
+"prose_words": 111
 },
 {
 "id": "CO050",
 "title": "Learn to question your thoughts: not every thought deserves belief",
 "path": "content/principles/CO050 — Learn to question your thoughts — not every thought deserves belief.md",
 "degree": 10,
-"prose_words": 38
+"prose_words": 114
 },
 {
 "id": "CO052",
 "title": "Cultivate dialectical thinking: hold contradictions without forcing resolution",
 "path": "content/principles/CO052 — Cultivate dialectical thinking — hold contradictions without forcing resolution.md",
 "degree": 10,
-"prose_words": 34
+"prose_words": 105
 },
 {
 "id": "CO066",
 "title": "Learn to take the third-person perspective: distanced self-talk improves reasoning",
 "path": "content/principles/CO066 — Learn to take the third-person perspective — distanced self-talk improves reasoning.md",
 "degree": 10,
-"prose_words": 33
-},
-{
-"id": "D004",
-"title": "Cultivate de: your embodied character-power",
-"path": "content/principles/D004 — Cultivate de — your embodied character-power.md",
-"degree": 10,
-"prose_words": 34
-},
-{
-"id": "D013",
-"title": "Keep the valley-mind: low, open, receptive",
-"path": "content/principles/D013 — Keep the valley-mind — low, open, receptive.md",
-"degree": 10,
-"prose_words": 31
-},
-{
-"id": "D030",
-"title": "Contentment is the greatest wealth",
-"path": "content/principles/D030 — Contentment is the greatest wealth.md",
-"degree": 10,
-"prose_words": 30
-},
-{
-"id": "D035",
-"title": "Live within your ecosystem's bounds",
-"path": "content/principles/D035 — Live within your ecosystem's bounds.md",
-"degree": 10,
-"prose_words": 26
-},
-{
-"id": "D041",
-"title": "Practice purity and stillness (qingjing)",
-"path": "content/principles/D041 — Practice purity and stillness (qingjing).md",
-"degree": 10,
-"prose_words": 32
-},
-{
-"id": "D048",
-"title": "Guard the One (shouyi)",
-"path": "content/principles/D048 — Guard the One (shouyi).md",
-"degree": 10,
-"prose_words": 32
-},
-{
-"id": "D086",
-"title": "Don't sell your nature for glory",
-"path": "content/principles/D086 — Don't sell your nature for glory.md",
-"degree": 10,
-"prose_words": 26
-},
-{
-"id": "D099",
-"title": "Let things happen of themselves",
-"path": "content/principles/D099 — Let things happen of themselves.md",
-"degree": 10,
-"prose_words": 21
-},
-{
-"id": "D148",
-"title": "Let stillness heal",
-"path": "content/principles/D148 — Let stillness heal.md",
-"degree": 10,
-"prose_words": 26
-},
-{
-"id": "D162",
-"title": "Attend to the not-yet-manifest",
-"path": "content/principles/D162 — Attend to the not-yet-manifest.md",
-"degree": 10,
-"prose_words": 21
-},
-{
-"id": "E009",
-"title": "Practise intersubjectivity",
-"path": "content/principles/E009 — Practise intersubjectivity.md",
-"degree": 10,
-"prose_words": 72
+"prose_words": 76
 },
 {
 "id": "E026",
 "title": "Practise being-with (Mitsein)",
 "path": "content/principles/E026 — Practise being-with (Mitsein).md",
 "degree": 10,
-"prose_words": 65
+"prose_words": 113
 },
 {
 "id": "E031",
 "title": "Practise radical freedom",
 "path": "content/principles/E031 — Practise radical freedom.md",
 "degree": 10,
-"prose_words": 69
+"prose_words": 110
 },
 {
 "id": "E080",
 "title": "Practise the fusion of horizons",
 "path": "content/principles/E080 — Practise the fusion of horizons.md",
 "degree": 10,
-"prose_words": 59
+"prose_words": 58
+},
+{
+"id": "K029",
+"title": "Take the three poisons as practice material",
+"path": "content/principles/K029 — Take the three poisons as practice material.md",
+"degree": 10,
+"prose_words": 77
 },
 {
 "id": "K040",
@@ -2779,74 +1036,11 @@
 "prose_words": 27
 },
 {
-"id": "P027",
-"title": "Guess well: practice abduction",
-"path": "content/principles/P027 — Guess well — practice abduction.md",
-"degree": 10,
-"prose_words": 34
-},
-{
-"id": "P055",
-"title": "Know your thought as a stream",
-"path": "content/principles/P055 — Know your thought as a stream.md",
-"degree": 10,
-"prose_words": 37
-},
-{
-"id": "P092",
-"title": "Live in a thick present",
-"path": "content/principles/P092 — Live in a thick present.md",
-"degree": 10,
-"prose_words": 50
-},
-{
-"id": "P093",
-"title": "You are time: own your becoming",
-"path": "content/principles/P093 — You are time — own your becoming.md",
-"degree": 10,
-"prose_words": 37
-},
-{
-"id": "P143",
-"title": "Think with the whole body: the body is not a machine",
-"path": "content/principles/P143 — Think with the whole body — the body is not a machine.md",
-"degree": 10,
-"prose_words": 48
-},
-{
 "id": "P151",
 "title": "Keep individuating: never settle into a final form",
 "path": "content/principles/P151 — Keep individuating — never settle into a final form.md",
 "degree": 10,
-"prose_words": 26
-},
-{
-"id": "P157",
-"title": "Accept what cannot be changed while committing to what can",
-"path": "content/principles/P157 — Accept what cannot be changed while committing to what can.md",
-"degree": 10,
-"prose_words": 29
-},
-{
-"id": "P172",
-"title": "Design your days for the strands",
-"path": "content/principles/P172 — Design your days for the strands.md",
-"degree": 10,
-"prose_words": 26
-},
-{
-"id": "P179",
-"title": "Close the loop with savoring and review",
-"path": "content/principles/P179 — Close the loop with savoring and review.md",
-"degree": 10,
-"prose_words": 35
-},
-{
-"id": "P190",
-"title": "Existence is both precarious and stable",
-"path": "content/principles/P190 — Existence is both precarious and stable.md",
-"degree": 10,
-"prose_words": 61
+"prose_words": 117
 },
 {
 "id": "PP004",
@@ -2933,13 +1127,6 @@
 "prose_words": 51
 },
 {
-"id": "S059",
-"title": "Do not be carried away by passion",
-"path": "content/principles/S059 — Do not be carried away by passion.md",
-"degree": 10,
-"prose_words": 62
-},
-{
 "id": "S073",
 "title": "Love the people you live with",
 "path": "content/principles/S073 — Love the people you live with.md",
@@ -2982,6 +1169,13 @@
 "prose_words": 39
 },
 {
+"id": "SO041",
+"title": "Treat expertise as real but fallible",
+"path": "content/principles/SO041 — Treat expertise as real but fallible.md",
+"degree": 10,
+"prose_words": 60
+},
+{
 "id": "SO043",
 "title": "Use communication norms as design parameters",
 "path": "content/principles/SO043 — Use communication norms as design parameters.md",
@@ -3003,116 +1197,88 @@
 "prose_words": 91
 },
 {
-"id": "Y015",
-"title": "Classify the mind's movements into five types",
-"path": "content/principles/Y015 — Classify the mind's movements into five types.md",
-"degree": 10,
-"prose_words": 48
-},
-{
 "id": "Y026",
 "title": "Bring the mind back, without drama",
 "path": "content/principles/Y026 — Bring the mind back, without drama.md",
 "degree": 10,
-"prose_words": 56
+"prose_words": 83
 },
 {
 "id": "A018",
 "title": "Practice friendliness (philia)",
 "path": "content/principles/A018 — Practice friendliness (philia).md",
 "degree": 9,
-"prose_words": 45
+"prose_words": 87
 },
 {
 "id": "A026",
 "title": "Practice patience with others' faults",
 "path": "content/principles/A026 — Practice patience with others' faults.md",
 "degree": 9,
-"prose_words": 36
-},
-{
-"id": "A028",
-"title": "Practice resilience in adversity",
-"path": "content/principles/A028 — Practice resilience in adversity.md",
-"degree": 9,
-"prose_words": 52
-},
-{
-"id": "A042",
-"title": "Recognise that virtue is a hexis, not a feeling",
-"path": "content/principles/A042 — Recognise that virtue is a hexis, not a feeling.md",
-"degree": 9,
-"prose_words": 43
+"prose_words": 117
 },
 {
 "id": "A044",
 "title": "Learn from experience",
 "path": "content/principles/A044 — Learn from experience.md",
 "degree": 9,
-"prose_words": 49
-},
-{
-"id": "A055",
-"title": "Understand that you are responsible for your character",
-"path": "content/principles/A055 — Understand that you are responsible for your character.md",
-"degree": 9,
-"prose_words": 57
-},
-{
-"id": "A096",
-"title": "Practise distributive justice",
-"path": "content/principles/A096 — Practise distributive justice.md",
-"degree": 9,
-"prose_words": 43
+"prose_words": 113
 },
 {
 "id": "A100",
 "title": "Practise reciprocity (antapodosis)",
 "path": "content/principles/A100 — Practise reciprocity (antapodosis).md",
 "degree": 9,
-"prose_words": 40
+"prose_words": 116
 },
 {
 "id": "A103",
 "title": "Recognise that some actions are always wrong",
 "path": "content/principles/A103 — Recognise that some actions are always wrong.md",
 "degree": 9,
-"prose_words": 31
+"prose_words": 103
 },
 {
 "id": "A104",
 "title": "Practise equity over strict legality",
 "path": "content/principles/A104 — Practise equity over strict legality.md",
 "degree": 9,
-"prose_words": 46
+"prose_words": 107
+},
+{
+"id": "AF026",
+"title": "Prefer cognitive reappraisal over suppression when possible",
+"path": "content/principles/AF026 — Prefer cognitive reappraisal over suppression when possible.md",
+"degree": 9,
+"prose_words": 41
 },
 {
 "id": "AF048",
 "title": "Recognise anxiety's core: intolerance of uncertainty",
 "path": "content/principles/AF048 — Recognise anxiety's core — intolerance of uncertainty.md",
 "degree": 9,
-"prose_words": 36
+"prose_words": 102
 },
 {
 "id": "AF061",
 "title": "Cultivate positive affect deliberately: it broadens and builds",
 "path": "content/principles/AF061 — Cultivate positive affect deliberately — it broadens and builds.md",
 "degree": 9,
-"prose_words": 34
+"prose_words": 85
 },
 {
 "id": "AF073",
 "title": "Learn co-regulation: affect is regulated with others, not just within",
 "path": "content/principles/AF073 — Learn co-regulation — affect is regulated with others, not just within.md",
 "degree": 9,
-"prose_words": 37
+"prose_words": 106
 },
 {
 "id": "AF075",
 "title": "Learn emotional validation: acknowledging a feeling reduces its intensity",
 "path": "content/principles/AF075 — Learn emotional validation — acknowledging a feeling reduces its intensity.md",
 "degree": 9,
-"prose_words": 37
+"prose_words": 105
 },
 {
 "id": "AT003",
@@ -3196,70 +1362,49 @@
 "title": "Intention is karma",
 "path": "content/principles/B005 — Intention is karma.md",
 "degree": 9,
-"prose_words": 28
-},
-{
-"id": "B023",
-"title": "Practice right speech",
-"path": "content/principles/B023 — Practice right speech.md",
-"degree": 9,
-"prose_words": 36
+"prose_words": 82
 },
 {
 "id": "B027",
 "title": "Develop right mindfulness (samma sati)",
 "path": "content/principles/B027 — Develop right mindfulness (samma sati).md",
 "degree": 9,
-"prose_words": 30
+"prose_words": 96
 },
 {
 "id": "B048",
 "title": "Keep beginner's mind (shoshin)",
 "path": "content/principles/B048 — Keep beginner's mind (shoshin).md",
 "degree": 9,
-"prose_words": 29
-},
-{
-"id": "B057",
-"title": "Choose anchored or open awareness by need",
-"path": "content/principles/B057 — Choose anchored or open awareness by need.md",
-"degree": 9,
-"prose_words": 27
-},
-{
-"id": "B081",
-"title": "Meet dullness with energy (hindrance 3)",
-"path": "content/principles/B081 — Meet dullness with energy (hindrance 3).md",
-"degree": 9,
-"prose_words": 30
-},
-{
-"id": "B112",
-"title": "Practice gratitude: recognize your conditions",
-"path": "content/principles/B112 — Practice gratitude — recognize your conditions.md",
-"degree": 9,
-"prose_words": 23
+"prose_words": 75
 },
 {
 "id": "B116",
 "title": "Catch irritation early: sparks before fires",
 "path": "content/principles/B116 — Catch irritation early — sparks before fires.md",
 "degree": 9,
-"prose_words": 33
+"prose_words": 99
 },
 {
 "id": "B140",
 "title": "Rest in don't-know mind",
 "path": "content/principles/B140 — Rest in don't-know mind.md",
 "degree": 9,
-"prose_words": 23
+"prose_words": 108
 },
 {
 "id": "B160",
 "title": "Question authority: even the Buddha's",
 "path": "content/principles/B160 — Question authority — even the Buddha's.md",
 "degree": 9,
-"prose_words": 26
+"prose_words": 114
+},
+{
+"id": "B176",
+"title": "Treat the present moment as the miracle",
+"path": "content/principles/B176 — Treat the present moment as the miracle.md",
+"degree": 9,
+"prose_words": 110
 },
 {
 "id": "BE004",
@@ -3385,84 +1530,21 @@
 "title": "Hold yin and yang together",
 "path": "content/principles/D007 — Hold yin and yang together.md",
 "degree": 9,
-"prose_words": 31
-},
-{
-"id": "D014",
-"title": "Preserve your childlike vitality",
-"path": "content/principles/D014 — Preserve your childlike vitality.md",
-"degree": 9,
-"prose_words": 26
-},
-{
-"id": "D046",
-"title": "Practice fasting of the mind (xinzhai)",
-"path": "content/principles/D046 — Practice fasting of the mind (xinzhai).md",
-"degree": 9,
-"prose_words": 26
+"prose_words": 100
 },
 {
 "id": "D047",
 "title": "Practice sitting and forgetting (zuowang)",
 "path": "content/principles/D047 — Practice sitting and forgetting (zuowang).md",
 "degree": 9,
-"prose_words": 24
-},
-{
-"id": "D056",
-"title": "Follow the natural grain",
-"path": "content/principles/D056 — Follow the natural grain.md",
-"degree": 9,
-"prose_words": 33
-},
-{
-"id": "D061",
-"title": "Act before things arise",
-"path": "content/principles/D061 — Act before things arise.md",
-"degree": 9,
-"prose_words": 25
+"prose_words": 90
 },
 {
 "id": "D096",
 "title": "Don't let the outer displace the inner",
 "path": "content/principles/D096 — Don't let the outer displace the inner.md",
 "degree": 9,
-"prose_words": 27
-},
-{
-"id": "D115",
-"title": "Lead from behind",
-"path": "content/principles/D115 — Lead from behind.md",
-"degree": 9,
-"prose_words": 31
-},
-{
-"id": "D118",
-"title": "Speak rarely (guayan)",
-"path": "content/principles/D118 — Speak rarely (guayan).md",
-"degree": 9,
-"prose_words": 30
-},
-{
-"id": "D129",
-"title": "Repay injury with virtue",
-"path": "content/principles/D129 — Repay injury with virtue.md",
-"degree": 9,
-"prose_words": 17
-},
-{
-"id": "D142",
-"title": "Align the body",
-"path": "content/principles/D142 — Align the body.md",
-"degree": 9,
-"prose_words": 30
-},
-{
-"id": "D166",
-"title": "The farther out you go, the less you know",
-"path": "content/principles/D166 — The farther out you go, the less you know.md",
-"degree": 9,
-"prose_words": 22
+"prose_words": 56
 },
 {
 "id": "E005",
@@ -3535,13 +1617,6 @@
 "prose_words": 78
 },
 {
-"id": "K029",
-"title": "Take the three poisons as practice material",
-"path": "content/principles/K029 — Take the three poisons as practice material.md",
-"degree": 9,
-"prose_words": 77
-},
-{
 "id": "K050",
 "title": "Reflect on this life's rarity as urgency, not as dread",
 "path": "content/principles/K050 — Reflect on this life's rarity as urgency, not as dread.md",
@@ -3598,46 +1673,11 @@
 "prose_words": 35
 },
 {
-"id": "P030",
-"title": "Accept many versions of the world",
-"path": "content/principles/P030 — Accept many versions of the world.md",
+"id": "P194",
+"title": "Distinguish closed morality from open morality; the open requires creative effort, not mere expansion",
+"path": "content/principles/P194 — Distinguish closed morality from open morality; the open requires creative effort, not mere expansion.md",
 "degree": 9,
-"prose_words": 33
-},
-{
-"id": "P064",
-"title": "Feelings are information about your transactions",
-"path": "content/principles/P064 — Feelings are information about your transactions.md",
-"degree": 9,
-"prose_words": 40
-},
-{
-"id": "P066",
-"title": "Rest in pure experience before the splits",
-"path": "content/principles/P066 — Rest in pure experience before the splits.md",
-"degree": 9,
-"prose_words": 31
-},
-{
-"id": "P121",
-"title": "Enrich experience: add layers of relation and meaning",
-"path": "content/principles/P121 — Enrich experience — add layers of relation and meaning.md",
-"degree": 9,
-"prose_words": 37
-},
-{
-"id": "P127",
-"title": "Treat democracy as a way of life, not a mechanism",
-"path": "content/principles/P127 — Treat democracy as a way of life, not a mechanism.md",
-"degree": 9,
-"prose_words": 42
-},
-{
-"id": "P196",
-"title": "Intuition is a return to lived duration, not a leap to the eternal",
-"path": "content/principles/P196 — Intuition is a return to lived duration, not a leap to the eternal.md",
-"degree": 9,
-"prose_words": 82
+"prose_words": 106
 },
 {
 "id": "PP002",
@@ -3885,13 +1925,6 @@
 "prose_words": 85
 },
 {
-"id": "SO041",
-"title": "Treat expertise as real but fallible",
-"path": "content/principles/SO041 — Treat expertise as real but fallible.md",
-"degree": 9,
-"prose_words": 60
-},
-{
 "id": "SO051",
 "title": "Use group identity for social cure",
 "path": "content/principles/SO051 — Use group identity for social cure.md",
@@ -3913,11 +1946,39 @@
 "prose_words": 41
 },
 {
+"id": "SP010",
+"title": "Know yourself as striving",
+"path": "content/principles/SP010 — Know yourself as striving.md",
+"degree": 9,
+"prose_words": 113
+},
+{
+"id": "SP027",
+"title": "Drop the illusion of free will",
+"path": "content/principles/SP027 — Drop the illusion of free will.md",
+"degree": 9,
+"prose_words": 101
+},
+{
+"id": "SP032",
+"title": "Treat indignation carefully",
+"path": "content/principles/SP032 — Treat indignation carefully.md",
+"degree": 9,
+"prose_words": 102
+},
+{
 "id": "SP035",
 "title": "Do not build on humility",
 "path": "content/principles/SP035 — Do not build on humility.md",
 "degree": 9,
 "prose_words": 90
+},
+{
+"id": "SP048",
+"title": "Aim at the third kind, which is joy",
+"path": "content/principles/SP048 — Aim at the third kind, which is joy.md",
+"degree": 9,
+"prose_words": 103
 },
 {
 "id": "SP092",
@@ -3939,6 +2000,13 @@
 "path": "content/principles/Y027 — Let the mind settle like a clear lake.md",
 "degree": 9,
 "prose_words": 72
+},
+{
+"id": "Y034",
+"title": "Counter negative states with their opposites",
+"path": "content/principles/Y034 — Counter negative states with their opposites.md",
+"degree": 9,
+"prose_words": 73
 },
 {
 "id": "Y040",
@@ -4025,6 +2093,13 @@
 "prose_words": 54
 },
 {
+"id": "AF008",
+"title": "Know the negativity bias; correct for it deliberately",
+"path": "content/principles/AF008 — Know the negativity bias; correct for it deliberately.md",
+"degree": 8,
+"prose_words": 41
+},
+{
 "id": "AF016",
 "title": "Cultivate emodiversity: the range and evenness of your emotional life",
 "path": "content/principles/AF016 — Cultivate emodiversity — the range and evenness of your emotional life.md",
@@ -4037,13 +2112,6 @@
 "path": "content/principles/AF023 — Know that affect changes memory; do not trust emotional memory as a record.md",
 "degree": 8,
 "prose_words": 42
-},
-{
-"id": "AF026",
-"title": "Prefer cognitive reappraisal over suppression when possible",
-"path": "content/principles/AF026 — Prefer cognitive reappraisal over suppression when possible.md",
-"degree": 8,
-"prose_words": 41
 },
 {
 "id": "AF028",
@@ -4172,151 +2240,11 @@
 "prose_words": 36
 },
 {
-"id": "B004",
-"title": "See conditions, not essences (paticca-samuppada)",
-"path": "content/principles/B004 — See conditions, not essences (paticca-samuppada).md",
-"degree": 8,
-"prose_words": 37
-},
-{
-"id": "B007",
-"title": "Trust that the fires can cool here and now (nibbana)",
-"path": "content/principles/B007 — Trust that the fires can cool here and now (nibbana).md",
-"degree": 8,
-"prose_words": 37
-},
-{
-"id": "B021",
-"title": "Orient with right view",
-"path": "content/principles/B021 — Orient with right view.md",
-"degree": 8,
-"prose_words": 32
-},
-{
-"id": "B025",
-"title": "Practice right livelihood",
-"path": "content/principles/B025 — Practice right livelihood.md",
-"degree": 8,
-"prose_words": 24
-},
-{
-"id": "B029",
-"title": "Follow the gradual training",
-"path": "content/principles/B029 — Follow the gradual training.md",
-"degree": 8,
-"prose_words": 34
-},
-{
-"id": "B034",
-"title": "Know the five hindrances",
-"path": "content/principles/B034 — Know the five hindrances.md",
-"degree": 8,
-"prose_words": 36
-},
-{
-"id": "B039",
-"title": "Practice the four foundations of mindfulness (satipatthana)",
-"path": "content/principles/B039 — Practice the four foundations of mindfulness (satipatthana).md",
-"degree": 8,
-"prose_words": 28
-},
-{
-"id": "B041",
-"title": "Practice walking meditation",
-"path": "content/principles/B041 — Practice walking meditation.md",
-"degree": 8,
-"prose_words": 29
-},
-{
-"id": "B052",
-"title": "Practice compassion (karuna)",
-"path": "content/principles/B052 — Practice compassion (karuna).md",
-"degree": 8,
-"prose_words": 28
-},
-{
-"id": "B060",
-"title": "Practice without seeking",
-"path": "content/principles/B060 — Practice without seeking.md",
-"degree": 8,
-"prose_words": 25
-},
-{
-"id": "B083",
-"title": "Meet doubt with investigation (hindrance 5)",
-"path": "content/principles/B083 — Meet doubt with investigation (hindrance 5).md",
-"degree": 8,
-"prose_words": 28
-},
-{
-"id": "B085",
-"title": "Let observation dissolve what force cannot",
-"path": "content/principles/B085 — Let observation dissolve what force cannot.md",
-"degree": 8,
-"prose_words": 27
-},
-{
-"id": "B088",
-"title": "Every repetition is a vote (habit as karma)",
-"path": "content/principles/B088 — Every repetition is a vote (habit as karma).md",
-"degree": 8,
-"prose_words": 26
-},
-{
-"id": "B090",
-"title": "Don't suppress: observe kindly",
-"path": "content/principles/B090 — Don't suppress — observe kindly.md",
-"degree": 8,
-"prose_words": 23
-},
-{
-"id": "B102",
-"title": "Know the eight worldly winds",
-"path": "content/principles/B102 — Know the eight worldly winds.md",
-"degree": 8,
-"prose_words": 30
-},
-{
-"id": "B130",
-"title": "Expect awakening to shift in a moment",
-"path": "content/principles/B130 — Expect awakening to shift in a moment.md",
-"degree": 8,
-"prose_words": 24
-},
-{
-"id": "B143",
-"title": "Emptiness is relational fullness",
-"path": "content/principles/B143 — Emptiness is relational fullness.md",
-"degree": 8,
-"prose_words": 28
-},
-{
-"id": "B144",
-"title": "Harm none: the baseline of practice (ahimsa)",
-"path": "content/principles/B144 — Harm none — the baseline of practice (ahimsa).md",
-"degree": 8,
-"prose_words": 23
-},
-{
-"id": "B148",
-"title": "Speak lovingly",
-"path": "content/principles/B148 — Speak lovingly.md",
-"degree": 8,
-"prose_words": 26
-},
-{
 "id": "B153",
 "title": "Practice in community (sangha)",
 "path": "content/principles/B153 — Practice in community (sangha).md",
 "degree": 8,
-"prose_words": 23
-},
-{
-"id": "B176",
-"title": "Treat the present moment as the miracle",
-"path": "content/principles/B176 — Treat the present moment as the miracle.md",
-"degree": 8,
-"prose_words": 33
+"prose_words": 87
 },
 {
 "id": "BE023",
@@ -4512,70 +2440,14 @@
 "title": "Return to pu: the uncarved block",
 "path": "content/principles/D010 — Return to pu — the uncarved block.md",
 "degree": 8,
-"prose_words": 30
-},
-{
-"id": "D015",
-"title": "Treat opposites as co-creating",
-"path": "content/principles/D015 — Treat opposites as co-creating.md",
-"degree": 8,
-"prose_words": 27
+"prose_words": 101
 },
 {
 "id": "D042",
 "title": "Guard the center",
 "path": "content/principles/D042 — Guard the center.md",
 "degree": 8,
-"prose_words": 27
-},
-{
-"id": "D043",
-"title": "Hold to the constant",
-"path": "content/principles/D043 — Hold to the constant.md",
-"degree": 8,
-"prose_words": 30
-},
-{
-"id": "D077",
-"title": "Avoid unnecessary danger",
-"path": "content/principles/D077 — Avoid unnecessary danger.md",
-"degree": 8,
-"prose_words": 34
-},
-{
-"id": "D097",
-"title": "Don't fear what you can't act on",
-"path": "content/principles/D097 — Don't fear what you can't act on.md",
-"degree": 8,
-"prose_words": 33
-},
-{
-"id": "D098",
-"title": "Accept what destiny brings (li ming)",
-"path": "content/principles/D098 — Accept what destiny brings (li ming).md",
-"degree": 8,
-"prose_words": 30
-},
-{
-"id": "D137",
-"title": "Don't press people to the point of rebellion",
-"path": "content/principles/D137 — Don't press people to the point of rebellion.md",
-"degree": 8,
-"prose_words": 20
-},
-{
-"id": "D165",
-"title": "Cut complexity back to simplicity",
-"path": "content/principles/D165 — Cut complexity back to simplicity.md",
-"degree": 8,
-"prose_words": 23
-},
-{
-"id": "D180",
-"title": "Delight in the ordinary",
-"path": "content/principles/D180 — Delight in the ordinary.md",
-"degree": 8,
-"prose_words": 29
+"prose_words": 95
 },
 {
 "id": "E027",
@@ -4648,11 +2520,32 @@
 "prose_words": 86
 },
 {
+"id": "K009",
+"title": "Let the doubt become great",
+"path": "content/principles/K009 — Let the doubt become great.md",
+"degree": 8,
+"prose_words": 109
+},
+{
 "id": "K035",
 "title": "Practice the five strengths",
 "path": "content/principles/K035 — Practice the five strengths.md",
 "degree": 8,
 "prose_words": 81
+},
+{
+"id": "K066",
+"title": "Let the self die to itself, and act from what remains",
+"path": "content/principles/K066 — Let the self die to itself, and act from what remains.md",
+"degree": 8,
+"prose_words": 111
+},
+{
+"id": "M003",
+"title": "Think in pairs",
+"path": "content/principles/M003 — Think in pairs.md",
+"degree": 8,
+"prose_words": 112
 },
 {
 "id": "M021",
@@ -4739,144 +2632,11 @@
 "prose_words": 26
 },
 {
-"id": "P016",
-"title": "Treat identity as a verb",
-"path": "content/principles/P016 — Treat identity as a verb.md",
-"degree": 8,
-"prose_words": 40
-},
-{
-"id": "P026",
-"title": "Make inquiry communal",
-"path": "content/principles/P026 — Make inquiry communal.md",
-"degree": 8,
-"prose_words": 37
-},
-{
-"id": "P039",
-"title": "Deliberate by rehearsal, not by verdict",
-"path": "content/principles/P039 — Deliberate by rehearsal, not by verdict.md",
-"degree": 8,
-"prose_words": 35
-},
-{
-"id": "P042",
-"title": "Learn by doing",
-"path": "content/principles/P042 — Learn by doing.md",
-"degree": 8,
-"prose_words": 23
-},
-{
-"id": "P045",
-"title": "Think with a community",
-"path": "content/principles/P045 — Think with a community.md",
-"degree": 8,
-"prose_words": 37
-},
-{
-"id": "P048",
-"title": "Think reflectively: turn experience over",
-"path": "content/principles/P048 — Think reflectively — turn experience over.md",
-"degree": 8,
-"prose_words": 34
-},
-{
-"id": "P062",
-"title": "Expect multiple selves: and coordinate them",
-"path": "content/principles/P062 — Expect multiple selves — and coordinate them.md",
-"degree": 8,
-"prose_words": 43
-},
-{
-"id": "P070",
-"title": "Make your nervous system your ally",
-"path": "content/principles/P070 — Make your nervous system your ally.md",
-"degree": 8,
-"prose_words": 38
-},
-{
-"id": "P075",
-"title": "Treat habits as will",
-"path": "content/principles/P075 — Treat habits as will.md",
-"degree": 8,
-"prose_words": 37
-},
-{
-"id": "P101",
-"title": "Repeat with difference: never pure repetition",
-"path": "content/principles/P101 — Repeat with difference — never pure repetition.md",
-"degree": 8,
-"prose_words": 28
-},
-{
-"id": "P116",
-"title": "Pursue becoming, not arrival",
-"path": "content/principles/P116 — Pursue becoming, not arrival.md",
-"degree": 8,
-"prose_words": 39
-},
-{
-"id": "P138",
-"title": "Take responsibility for the social conditions of growth",
-"path": "content/principles/P138 — Take responsibility for the social conditions of growth.md",
-"degree": 8,
-"prose_words": 35
-},
-{
-"id": "P150",
-"title": "Accept incompleteness as constitutive",
-"path": "content/principles/P150 — Accept incompleteness as constitutive.md",
-"degree": 8,
-"prose_words": 34
-},
-{
-"id": "P174",
-"title": "Spend attention like money: it is your real budget",
-"path": "content/principles/P174 — Spend attention like money — it is your real budget.md",
-"degree": 8,
-"prose_words": 36
-},
-{
-"id": "P178",
-"title": "Treat yourself as a process: self-compassion as process acceptance",
-"path": "content/principles/P178 — Treat yourself as a process — self-compassion as process acceptance.md",
-"degree": 8,
-"prose_words": 42
-},
-{
-"id": "P181",
-"title": "Regulate feeling by regulating expression",
-"path": "content/principles/P181 — Regulate feeling by regulating expression.md",
-"degree": 8,
-"prose_words": 76
-},
-{
-"id": "P187",
-"title": "Separate the religious quality of experience from religion",
-"path": "content/principles/P187 — Separate the religious quality of experience from religion.md",
-"degree": 8,
-"prose_words": 83
-},
-{
-"id": "P189",
-"title": "Live in an aleatory world: accept the gamble, cultivate method",
-"path": "content/principles/P189 — Live in an aleatory world: accept the gamble, cultivate method.md",
-"degree": 8,
-"prose_words": 65
-},
-{
-"id": "P192",
-"title": "Life is freedom inserting itself into necessity",
-"path": "content/principles/P192 — Life is freedom inserting itself into necessity.md",
-"degree": 8,
-"prose_words": 72
-},
-{
 "id": "P193",
 "title": "Consciousness is choice; where there is no choice, there is mechanism",
 "path": "content/principles/P193 — Consciousness is choice; where there is no choice, there is mechanism.md",
 "degree": 8,
-"prose_words": 51
+"prose_words": 89
 },
 {
 "id": "PP005",
@@ -5180,6 +2940,20 @@
 "prose_words": 48
 },
 {
+"id": "SP001",
+"title": "Understand rather than condemn",
+"path": "content/principles/SP001 — Understand rather than condemn.md",
+"degree": 8,
+"prose_words": 118
+},
+{
+"id": "SP030",
+"title": "Learn how hatred self-perpetuates",
+"path": "content/principles/SP030 — Learn how hatred self-perpetuates.md",
+"degree": 8,
+"prose_words": 102
+},
+{
 "id": "SP058",
 "title": "Practice tenacity",
 "path": "content/principles/SP058 — Practice tenacity.md",
@@ -5208,18 +2982,18 @@
 "prose_words": 85
 },
 {
+"id": "SP090",
+"title": "Center your life on the highest good",
+"path": "content/principles/SP090 — Center your life on the highest good.md",
+"degree": 8,
+"prose_words": 100
+},
+{
 "id": "X015",
 "title": "Study the commanding self as your specific opponent",
 "path": "content/principles/X015 — Study the commanding self as your specific opponent.md",
 "degree": 8,
 "prose_words": 92
-},
-{
-"id": "Y034",
-"title": "Counter negative states with their opposites",
-"path": "content/principles/Y034 — Counter negative states with their opposites.md",
-"degree": 8,
-"prose_words": 73
 },
 {
 "id": "Y089",
@@ -5325,13 +3099,6 @@
 "path": "content/principles/AF001 — Treat affect as information, not as verdict.md",
 "degree": 7,
 "prose_words": 58
-},
-{
-"id": "AF008",
-"title": "Know the negativity bias; correct for it deliberately",
-"path": "content/principles/AF008 — Know the negativity bias; correct for it deliberately.md",
-"degree": 7,
-"prose_words": 41
 },
 {
 "id": "AF042",
@@ -5450,196 +3217,14 @@
 "title": "Treat the truths as tasks, not beliefs",
 "path": "content/principles/B008 — Treat the truths as tasks, not beliefs.md",
 "degree": 7,
-"prose_words": 33
+"prose_words": 90
 },
 {
 "id": "B011",
 "title": "Make mindfulness the master tool (sati)",
 "path": "content/principles/B011 — Make mindfulness the master tool (sati).md",
 "degree": 7,
-"prose_words": 31
-},
-{
-"id": "B015",
-"title": "Nothing exists alone (interbeing)",
-"path": "content/principles/B015 — Nothing exists alone (interbeing).md",
-"degree": 7,
-"prose_words": 34
-},
-{
-"id": "B016",
-"title": "Know the three root poisons",
-"path": "content/principles/B016 — Know the three root poisons.md",
-"degree": 7,
-"prose_words": 34
-},
-{
-"id": "B031",
-"title": "Judge by skillful and unskillful, not by good and evil",
-"path": "content/principles/B031 — Judge by skillful and unskillful, not by good and evil.md",
-"degree": 7,
-"prose_words": 27
-},
-{
-"id": "B033",
-"title": "Cultivate the seven factors of awakening",
-"path": "content/principles/B033 — Cultivate the seven factors of awakening.md",
-"degree": 7,
-"prose_words": 26
-},
-{
-"id": "B044",
-"title": "Just sit (zazen, shikantaza)",
-"path": "content/principles/B044 — Just sit (zazen, shikantaza).md",
-"degree": 7,
-"prose_words": 31
-},
-{
-"id": "B045",
-"title": "Let practice and enlightenment be one",
-"path": "content/principles/B045 — Let practice and enlightenment be one.md",
-"degree": 7,
-"prose_words": 37
-},
-{
-"id": "B047",
-"title": "Keep the great doubt alive",
-"path": "content/principles/B047 — Keep the great doubt alive.md",
-"degree": 7,
-"prose_words": 27
-},
-{
-"id": "B094",
-"title": "Cultivate tranquility (passaddhi)",
-"path": "content/principles/B094 — Cultivate tranquility (passaddhi).md",
-"degree": 7,
-"prose_words": 28
-},
-{
-"id": "B098",
-"title": "Extend goodwill to the difficult",
-"path": "content/principles/B098 — Extend goodwill to the difficult.md",
-"degree": 7,
-"prose_words": 25
-},
-{
-"id": "B103",
-"title": "Keep balance in praise and blame (upekkha applied)",
-"path": "content/principles/B103 — Keep balance in praise and blame (upekkha applied).md",
-"degree": 7,
-"prose_words": 25
-},
-{
-"id": "B107",
-"title": "Forgive: release the coal",
-"path": "content/principles/B107 — Forgive — release the coal.md",
-"degree": 7,
-"prose_words": 30
-},
-{
-"id": "B118",
-"title": "Cultivate gladness: joy is part of the path",
-"path": "content/principles/B118 — Cultivate gladness — joy is part of the path.md",
-"degree": 7,
-"prose_words": 25
-},
-{
-"id": "B120",
-"title": "Experience is five streams (the aggregates)",
-"path": "content/principles/B120 — Experience is five streams (the aggregates).md",
-"degree": 7,
-"prose_words": 25
-},
-{
-"id": "B131",
-"title": "Exhaust the conceptual mind (the sound of one hand)",
-"path": "content/principles/B131 — Exhaust the conceptual mind (the sound of one hand).md",
-"degree": 7,
-"prose_words": 32
-},
-{
-"id": "B132",
-"title": "Rest in not one, not two (nonduality)",
-"path": "content/principles/B132 — Rest in not one, not two (nonduality).md",
-"degree": 7,
-"prose_words": 27
-},
-{
-"id": "B134",
-"title": "Expect nothing special",
-"path": "content/principles/B134 — Expect nothing special.md",
-"degree": 7,
-"prose_words": 20
-},
-{
-"id": "B145",
-"title": "Be truthful",
-"path": "content/principles/B145 — Be truthful.md",
-"degree": 7,
-"prose_words": 24
-},
-{
-"id": "B156",
-"title": "Engage the world's suffering (engaged Buddhism)",
-"path": "content/principles/B156 — Engage the world's suffering (engaged Buddhism).md",
-"degree": 7,
-"prose_words": 28
-},
-{
-"id": "B157",
-"title": "Protecting others, you protect yourself",
-"path": "content/principles/B157 — Protecting others, you protect yourself.md",
-"degree": 7,
-"prose_words": 30
-},
-{
-"id": "B158",
-"title": "Everyone wants to be happy",
-"path": "content/principles/B158 — Everyone wants to be happy.md",
-"degree": 7,
-"prose_words": 31
-},
-{
-"id": "B162",
-"title": "Hatred never ceases by hatred",
-"path": "content/principles/B162 — Hatred never ceases by hatred.md",
-"degree": 7,
-"prose_words": 23
-},
-{
-"id": "B163",
-"title": "Reconcile quickly: don't let conflict fester",
-"path": "content/principles/B163 — Reconcile quickly — don't let conflict fester.md",
-"degree": 7,
-"prose_words": 22
-},
-{
-"id": "B173",
-"title": "Be alone well",
-"path": "content/principles/B173 — Be alone well.md",
-"degree": 7,
-"prose_words": 28
-},
-{
-"id": "B174",
-"title": "Own little",
-"path": "content/principles/B174 — Own little.md",
-"degree": 7,
-"prose_words": 21
-},
-{
-"id": "B179",
-"title": "The path is the goal",
-"path": "content/principles/B179 — The path is the goal.md",
-"degree": 7,
-"prose_words": 35
-},
-{
-"id": "B183",
-"title": "Ride strong emotions without acting",
-"path": "content/principles/B183 — Ride strong emotions without acting.md",
-"degree": 7,
-"prose_words": 33
+"prose_words": 94
 },
 {
 "id": "BE002",
@@ -5877,133 +3462,77 @@
 "title": "Treasure 2: frugality (jian)",
 "path": "content/principles/D032 — Treasure 2 — frugality (jian).md",
 "degree": 7,
-"prose_words": 23
+"prose_words": 116
 },
 {
 "id": "D040",
 "title": "Return to the root daily (guigen)",
 "path": "content/principles/D040 — Return to the root daily (guigen).md",
 "degree": 7,
-"prose_words": 34
+"prose_words": 84
 },
 {
 "id": "D044",
 "title": "Let the mud settle",
 "path": "content/principles/D044 — Let the mud settle.md",
 "degree": 7,
-"prose_words": 27
+"prose_words": 71
 },
 {
 "id": "D060",
 "title": "Do the great while it is small",
 "path": "content/principles/D060 — Do the great while it is small.md",
 "degree": 7,
-"prose_words": 21
+"prose_words": 73
 },
 {
 "id": "D063",
 "title": "Help without meddling",
 "path": "content/principles/D063 — Help without meddling.md",
 "degree": 7,
-"prose_words": 25
+"prose_words": 58
 },
 {
 "id": "D066",
 "title": "Withdraw when the work is done",
 "path": "content/principles/D066 — Withdraw when the work is done.md",
 "degree": 7,
-"prose_words": 21
+"prose_words": 70
 },
 {
 "id": "D067",
 "title": "Don't claim credit",
 "path": "content/principles/D067 — Don't claim credit.md",
 "degree": 7,
-"prose_words": 25
+"prose_words": 60
 },
 {
 "id": "D072",
 "title": "Learn by doing, not only by reading",
 "path": "content/principles/D072 — Learn by doing, not only by reading.md",
 "degree": 7,
-"prose_words": 24
+"prose_words": 85
+},
+{
+"id": "D083",
+"title": "Reframe to dissolve conflict",
+"path": "content/principles/D083 — Reframe to dissolve conflict.md",
+"degree": 7,
+"prose_words": 39
 },
 {
 "id": "D085",
 "title": "Prefer humble freedom to gilded captivity",
 "path": "content/principles/D085 — Prefer humble freedom to gilded captivity.md",
 "degree": 7,
-"prose_words": 38
+"prose_words": 66
 },
 {
 "id": "D100",
 "title": "Rest in unknowing",
 "path": "content/principles/D100 — Rest in unknowing.md",
 "degree": 7,
-"prose_words": 33
-},
-{
-"id": "D102",
-"title": "Shine without displaying",
-"path": "content/principles/D102 — Shine without displaying.md",
-"degree": 7,
-"prose_words": 25
-},
-{
-"id": "D110",
-"title": "Hold events lightly: the horse story",
-"path": "content/principles/D110 — Hold events lightly — the horse story.md",
-"degree": 7,
-"prose_words": 43
-},
-{
-"id": "D125",
-"title": "Be good to the good and the not-good",
-"path": "content/principles/D125 — Be good to the good and the not-good.md",
-"degree": 7,
-"prose_words": 24
-},
-{
-"id": "D128",
-"title": "Learn from everyone",
-"path": "content/principles/D128 — Learn from everyone.md",
-"degree": 7,
-"prose_words": 22
-},
-{
-"id": "D134",
-"title": "Govern like cooking a small fish",
-"path": "content/principles/D134 — Govern like cooking a small fish.md",
-"degree": 7,
-"prose_words": 22
-},
-{
-"id": "D135",
-"title": "Teach without words",
-"path": "content/principles/D135 — Teach without words.md",
-"degree": 7,
-"prose_words": 18
-},
-{
-"id": "D150",
-"title": "Balance the emotions to protect the body",
-"path": "content/principles/D150 — Balance the emotions to protect the body.md",
-"degree": 7,
-"prose_words": 43
-},
-{
-"id": "D170",
-"title": "Work on yourself first: influence radiates",
-"path": "content/principles/D170 — Work on yourself first — influence radiates.md",
-"degree": 7,
-"prose_words": 30
-},
-{
-"id": "D184",
-"title": "Don't over-cultivate the appearance of virtue",
-"path": "content/principles/D184 — Don't over-cultivate the appearance of virtue.md",
-"degree": 7,
-"prose_words": 28
+"prose_words": 66
 },
 {
 "id": "E015",
@@ -6125,6 +3654,13 @@
 "prose_words": 85
 },
 {
+"id": "M002",
+"title": "Expect the cosmos itself to be motion",
+"path": "content/principles/M002 — Expect the cosmos itself to be motion.md",
+"degree": 7,
+"prose_words": 101
+},
+{
 "id": "M016",
 "title": "Understand personhood as something built",
 "path": "content/principles/M016 — Understand personhood as something built.md",
@@ -6230,144 +3766,25 @@
 "prose_words": 33
 },
 {
-"id": "P005",
-"title": "You are an organism in transaction with an environment",
-"path": "content/principles/P005 — You are an organism in transaction with an environment.md",
-"degree": 7,
-"prose_words": 33
-},
-{
-"id": "P011",
-"title": "Refuse essences: things have no fixed inner nature",
-"path": "content/principles/P011 — Refuse essences — things have no fixed inner nature.md",
-"degree": 7,
-"prose_words": 34
-},
-{
-"id": "P021",
-"title": "Treat ideas as tools, not mirrors",
-"path": "content/principles/P021 — Treat ideas as tools, not mirrors.md",
-"degree": 7,
-"prose_words": 44
-},
-{
-"id": "P025",
-"title": "Fix belief by experiment, not tenacity, authority, or taste",
-"path": "content/principles/P025 — Fix belief by experiment, not tenacity, authority, or taste.md",
-"degree": 7,
-"prose_words": 36
-},
-{
-"id": "P034",
-"title": "Know that every view is from somewhere",
-"path": "content/principles/P034 — Know that every view is from somewhere.md",
+"id": "P004",
+"title": "Start from experience, not from theory",
+"path": "content/principles/P004 — Start from experience, not from theory.md",
 "degree": 7,
 "prose_words": 38
-},
-{
-"id": "P043",
-"title": "Vary, select, retain: learn the evolutionary way",
-"path": "content/principles/P043 — Vary, select, retain — learn the evolutionary way.md",
-"degree": 7,
-"prose_words": 42
 },
 {
 "id": "P051",
 "title": "Take error as information",
 "path": "content/principles/P051 — Take error as information.md",
 "degree": 7,
-"prose_words": 32
-},
-{
-"id": "P065",
-"title": "Experience comes whole: relations are experienced",
-"path": "content/principles/P065 — Experience comes whole — relations are experienced.md",
-"degree": 7,
-"prose_words": 31
-},
-{
-"id": "P068",
-"title": "Will is the effort of attention",
-"path": "content/principles/P068 — Will is the effort of attention.md",
-"degree": 7,
-"prose_words": 34
+"prose_words": 110
 },
 {
 "id": "P069",
 "title": "Believe at the living edge: the will to believe",
 "path": "content/principles/P069 — Believe at the living edge — the will to believe.md",
 "degree": 7,
-"prose_words": 36
-},
-{
-"id": "P082",
-"title": "Cultivate skill: knowing-how that flows",
-"path": "content/principles/P082 — Cultivate skill — knowing-how that flows.md",
-"degree": 7,
-"prose_words": 38
-},
-{
-"id": "P090",
-"title": "Participate: do with, not to",
-"path": "content/principles/P090 — Participate — do with, not to.md",
-"degree": 7,
-"prose_words": 34
-},
-{
-"id": "P105",
-"title": "Feel time in the body: rhythm, tempo, flow",
-"path": "content/principles/P105 — Feel time in the body — rhythm, tempo, flow.md",
-"degree": 7,
-"prose_words": 38
-},
-{
-"id": "P111",
-"title": "Do art as experience, not as object",
-"path": "content/principles/P111 — Do art as experience, not as object.md",
-"degree": 7,
-"prose_words": 34
-},
-{
-"id": "P113",
-"title": "Express by shaping, not venting",
-"path": "content/principles/P113 — Express by shaping, not venting.md",
-"degree": 7,
-"prose_words": 41
-},
-{
-"id": "P117",
-"title": "Grow from being-values, not deficiency-needs",
-"path": "content/principles/P117 — Grow from being-values, not deficiency-needs.md",
-"degree": 7,
-"prose_words": 40
-},
-{
-"id": "P123",
-"title": "Accept that the universe is plural",
-"path": "content/principles/P123 — Accept that the universe is plural.md",
-"degree": 7,
-"prose_words": 34
-},
-{
-"id": "P130",
-"title": "Ground your views of others in their experience",
-"path": "content/principles/P130 — Ground your views of others in their experience.md",
-"degree": 7,
-"prose_words": 34
-},
-{
-"id": "P147",
-"title": "Notice that you and the world co-constitute each other",
-"path": "content/principles/P147 — Notice that you and the world co-constitute each other.md",
-"degree": 7,
-"prose_words": 34
-},
-{
-"id": "P184",
-"title": "Distinguish the once-born from the twice-born: two routes through suffering",
-"path": "content/principles/P184 — Distinguish the once-born from the twice-born: two routes through suffering.md",
-"degree": 7,
-"prose_words": 91
+"prose_words": 98
 },
 {
 "id": "PP020",
@@ -6741,6 +4158,20 @@
 "prose_words": 59
 },
 {
+"id": "SP002",
+"title": "See everything as one system",
+"path": "content/principles/SP002 — See everything as one system.md",
+"degree": 7,
+"prose_words": 109
+},
+{
+"id": "SP013",
+"title": "Understand love and hate as attached affects",
+"path": "content/principles/SP013 — Understand love and hate as attached affects.md",
+"degree": 7,
+"prose_words": 102
+},
+{
 "id": "SP014",
 "title": "Expect to imagine others as like yourself",
 "path": "content/principles/SP014 — Expect to imagine others as like yourself.md",
@@ -6760,6 +4191,13 @@
 "path": "content/principles/SP052 — Separate the affect from its external cause.md",
 "degree": 7,
 "prose_words": 91
+},
+{
+"id": "SP073",
+"title": "Guard the free person's cheerfulness under loss",
+"path": "content/principles/SP073 — Guard the free person's cheerfulness under loss.md",
+"degree": 7,
+"prose_words": 112
 },
 {
 "id": "SP079",
@@ -6809,6 +4247,13 @@
 "path": "content/principles/X023 — Live deliberately, and price things in life.md",
 "degree": 7,
 "prose_words": 94
+},
+{
+"id": "Y013",
+"title": "Work with the field and the witness",
+"path": "content/principles/Y013 — Work with the field and the witness.md",
+"degree": 7,
+"prose_words": 100
 },
 {
 "id": "Y017",
@@ -7105,55 +4550,6 @@
 "prose_words": 27
 },
 {
-"id": "B010",
-"title": "See emptiness: nothing has a fixed essence (shunyata)",
-"path": "content/principles/B010 — See emptiness — nothing has a fixed essence (shunyata).md",
-"degree": 6,
-"prose_words": 28
-},
-{
-"id": "B018",
-"title": "Verify in your own experience (the Kalama spirit)",
-"path": "content/principles/B018 — Verify in your own experience (the Kalama spirit).md",
-"degree": 6,
-"prose_words": 21
-},
-{
-"id": "B024",
-"title": "Practice right action: non-harm",
-"path": "content/principles/B024 — Practice right action — non-harm.md",
-"degree": 6,
-"prose_words": 27
-},
-{
-"id": "B037",
-"title": "Choose your companions wisely (kalyanamitta)",
-"path": "content/principles/B037 — Choose your companions wisely (kalyanamitta).md",
-"degree": 6,
-"prose_words": 35
-},
-{
-"id": "B050",
-"title": "Rest in ordinary mind: it is the Way",
-"path": "content/principles/B050 — Rest in ordinary mind — it is the Way.md",
-"degree": 6,
-"prose_words": 26
-},
-{
-"id": "B068",
-"title": "Find the gap between stimulus and response",
-"path": "content/principles/B068 — Find the gap between stimulus and response.md",
-"degree": 6,
-"prose_words": 26
-},
-{
-"id": "B070",
-"title": "Stop the proliferation (papanca)",
-"path": "content/principles/B070 — Stop the proliferation (papanca).md",
-"degree": 6,
-"prose_words": 35
-},
-{
 "id": "B071",
 "title": "Investigate the urge",
 "path": "content/principles/B071 — Investigate the urge.md",
@@ -7166,20 +4562,6 @@
 "path": "content/principles/B072 — Practice letting go (vossagga).md",
 "degree": 6,
 "prose_words": 26
-},
-{
-"id": "B077",
-"title": "Treat ignorance as not-seeing, not stupidity",
-"path": "content/principles/B077 — Treat ignorance as not-seeing, not stupidity.md",
-"degree": 6,
-"prose_words": 31
-},
-{
-"id": "B087",
-"title": "Trust the luminous mind: defilements are visitors",
-"path": "content/principles/B087 — Trust the luminous mind — defilements are visitors.md",
-"degree": 6,
-"prose_words": 21
 },
 {
 "id": "B091",
@@ -7208,13 +4590,6 @@
 "path": "content/principles/B123 — Refuse both extremes — nothing is permanent, nothing is nothing.md",
 "degree": 6,
 "prose_words": 23
-},
-{
-"id": "B124",
-"title": "Meet suchness: things as they are",
-"path": "content/principles/B124 — Meet suchness — things as they are.md",
-"degree": 6,
-"prose_words": 27
 },
 {
 "id": "B125",
@@ -7651,13 +5026,6 @@
 "prose_words": 24
 },
 {
-"id": "D083",
-"title": "Reframe to dissolve conflict",
-"path": "content/principles/D083 — Reframe to dissolve conflict.md",
-"degree": 6,
-"prose_words": 39
-},
-{
 "id": "D101",
 "title": "Drop pretense: stop standing on tiptoe",
 "path": "content/principles/D101 — Drop pretense — stop standing on tiptoe.md",
@@ -7819,6 +5187,13 @@
 "prose_words": 59
 },
 {
+"id": "E505",
+"title": "The ceremony transforms natural ends into infinite tasks (Deleuze)",
+"path": "content/principles/E505 — The ceremony transforms natural ends into infinite tasks (Deleuze).md",
+"degree": 6,
+"prose_words": 112
+},
+{
 "id": "K011",
 "title": "See the ego's groundlessness as its nature, not its failure",
 "path": "content/principles/K011 — See the ego's groundlessness as its nature, not its failure.md",
@@ -7854,6 +5229,13 @@
 "prose_words": 97
 },
 {
+"id": "K036",
+"title": "Do not misinterpret the six things",
+"path": "content/principles/K036 — Do not misinterpret the six things.md",
+"degree": 6,
+"prose_words": 101
+},
+{
 "id": "K038",
 "title": "If there is a remedy, why be angry; if there is none, what use is anger?",
 "path": "content/principles/K038 — If there is a remedy, why be angry; if there is none, what use is anger.md",
@@ -7868,6 +5250,20 @@
 "prose_words": 99
 },
 {
+"id": "K051",
+"title": "Treat action and consequence as the mind's habit loop",
+"path": "content/principles/K051 — Treat action and consequence as the mind's habit loop.md",
+"degree": 6,
+"prose_words": 100
+},
+{
+"id": "K065",
+"title": "Know that reason reaches its limit, and let confession do what argument cannot",
+"path": "content/principles/K065 — Know that reason reaches its limit, and let confession do what argument cannot.md",
+"degree": 6,
+"prose_words": 111
+},
+{
 "id": "M007",
 "title": "Expect the in-between to be uncomfortable, and do not flee it prematurely",
 "path": "content/principles/M007 — Expect the in-between to be uncomfortable, and do not flee it prematurely.md",
@@ -7880,6 +5276,13 @@
 "path": "content/principles/M008 — Use the middle as a vantage point.md",
 "degree": 6,
 "prose_words": 94
+},
+{
+"id": "M011",
+"title": "Treat beauty as a mode of truth",
+"path": "content/principles/M011 — Treat beauty as a mode of truth.md",
+"degree": 6,
+"prose_words": 110
 },
 {
 "id": "M014",
@@ -7943,13 +5346,6 @@
 "path": "content/principles/MO076 — Recognise that motivation serves life, not the reverse.md",
 "degree": 6,
 "prose_words": 35
-},
-{
-"id": "P004",
-"title": "Start from experience, not from theory",
-"path": "content/principles/P004 — Start from experience, not from theory.md",
-"degree": 6,
-"prose_words": 38
 },
 {
 "id": "P013",
@@ -8146,6 +5542,13 @@
 "path": "content/principles/P153 — Participate in the world's becoming.md",
 "degree": 6,
 "prose_words": 40
+},
+{
+"id": "P156",
+"title": "Cultivate psychological flexibility: the master skill",
+"path": "content/principles/P156 — Cultivate psychological flexibility — the master skill.md",
+"degree": 6,
+"prose_words": 37
 },
 {
 "id": "P166",
@@ -8631,6 +6034,20 @@
 "prose_words": 97
 },
 {
+"id": "SP004",
+"title": "Stop reading purposes into events",
+"path": "content/principles/SP004 — Stop reading purposes into events.md",
+"degree": 6,
+"prose_words": 114
+},
+{
+"id": "SP006",
+"title": "Treat mind and body as one thing",
+"path": "content/principles/SP006 — Treat mind and body as one thing.md",
+"degree": 6,
+"prose_words": 103
+},
+{
 "id": "SP008",
 "title": "Treat good and evil as relations, not properties",
 "path": "content/principles/SP008 — Treat good and evil as relations, not properties.md",
@@ -8680,11 +6097,39 @@
 "prose_words": 84
 },
 {
+"id": "SP042",
+"title": "Adopt a provisional rule of life",
+"path": "content/principles/SP042 — Adopt a provisional rule of life.md",
+"degree": 6,
+"prose_words": 100
+},
+{
 "id": "SP045",
 "title": "Treat certainty as intrinsic, not stamped from outside",
 "path": "content/principles/SP045 — Treat certainty as intrinsic, not stamped from outside.md",
 "degree": 6,
 "prose_words": 93
+},
+{
+"id": "SP050",
+"title": "Do not fight affect with reason alone",
+"path": "content/principles/SP050 — Do not fight affect with reason alone.md",
+"degree": 6,
+"prose_words": 109
+},
+{
+"id": "SP051",
+"title": "Understand the affect to transform it",
+"path": "content/principles/SP051 — Understand the affect to transform it.md",
+"degree": 6,
+"prose_words": 102
+},
+{
+"id": "SP054",
+"title": "Retrain association deliberately",
+"path": "content/principles/SP054 — Retrain association deliberately.md",
+"degree": 6,
+"prose_words": 108
 },
 {
 "id": "SP055",
@@ -9289,13 +6734,6 @@
 "prose_words": 29
 },
 {
-"id": "B079",
-"title": "Meet sensory desire with awareness (hindrance 1)",
-"path": "content/principles/B079 — Meet sensory desire with awareness (hindrance 1).md",
-"degree": 5,
-"prose_words": 34
-},
-{
 "id": "B086",
 "title": "What you feed grows: practice wise attention",
 "path": "content/principles/B086 — What you feed grows — practice wise attention.md",
@@ -9706,42 +7144,28 @@
 "title": "Treasure 3: not daring to be first",
 "path": "content/principles/D033 — Treasure 3 — not daring to be first.md",
 "degree": 5,
-"prose_words": 28
-},
-{
-"id": "D036",
-"title": "Treasure your life and health as the vessel of everything",
-"path": "content/principles/D036 — Treasure your life and health as the vessel of everything.md",
-"degree": 5,
-"prose_words": 28
-},
-{
-"id": "D052",
-"title": "Know the white, keep to the black",
-"path": "content/principles/D052 — Know the white, keep to the black.md",
-"degree": 5,
-"prose_words": 26
+"prose_words": 61
 },
 {
 "id": "D058",
 "title": "Don't rush",
 "path": "content/principles/D058 — Don't rush.md",
 "degree": 5,
-"prose_words": 25
+"prose_words": 79
 },
 {
 "id": "D062",
 "title": "Let go of what exceeds your grasp",
 "path": "content/principles/D062 — Let go of what exceeds your grasp.md",
 "degree": 5,
-"prose_words": 25
+"prose_words": 91
 },
 {
 "id": "D064",
 "title": "Act with the timing",
 "path": "content/principles/D064 — Act with the timing.md",
 "degree": 5,
-"prose_words": 37
+"prose_words": 75
 },
 {
 "id": "D079",
@@ -10003,11 +7427,25 @@
 "prose_words": 79
 },
 {
+"id": "K002",
+"title": "Know that the split is made, not found",
+"path": "content/principles/K002 — Know that the split is made, not found.md",
+"degree": 5,
+"prose_words": 102
+},
+{
 "id": "K005",
 "title": "See that all fear and suffering are mind-made at the root",
 "path": "content/principles/K005 — See that all fear and suffering are mind-made at the root.md",
 "degree": 5,
 "prose_words": 92
+},
+{
+"id": "K010",
+"title": "Step back from the ego to the field",
+"path": "content/principles/K010 — Step back from the ego to the field.md",
+"degree": 5,
+"prose_words": 101
 },
 {
 "id": "K012",
@@ -10057,6 +7495,13 @@
 "path": "content/principles/K044 — Speak slowly, and let speech be timely.md",
 "degree": 5,
 "prose_words": 75
+},
+{
+"id": "K045",
+"title": "Understand self-cherishing as the root error",
+"path": "content/principles/K045 — Understand self-cherishing as the root error.md",
+"degree": 5,
+"prose_words": 100
 },
 {
 "id": "K047",
@@ -10148,6 +7593,13 @@
 "path": "content/principles/M042 — Give before you take, and offer before you ask.md",
 "degree": 5,
 "prose_words": 98
+},
+{
+"id": "M044",
+"title": "Treat every person as another you",
+"path": "content/principles/M044 — Treat every person as another you.md",
+"degree": 5,
+"prose_words": 104
 },
 {
 "id": "M045",
@@ -10493,13 +7945,6 @@
 "prose_words": 38
 },
 {
-"id": "P156",
-"title": "Cultivate psychological flexibility: the master skill",
-"path": "content/principles/P156 — Cultivate psychological flexibility — the master skill.md",
-"degree": 5,
-"prose_words": 37
-},
-{
 "id": "P161",
 "title": "Return to the present: contact what is here",
 "path": "content/principles/P161 — Return to the present — contact what is here.md",
@@ -10785,6 +8230,13 @@
 "path": "content/principles/S054 — Distinguish between facts and interpretations.md",
 "degree": 5,
 "prose_words": 48
+},
+{
+"id": "S058",
+"title": "Practise reframing",
+"path": "content/principles/S058 — Practise reframing.md",
+"degree": 5,
+"prose_words": 64
 },
 {
 "id": "S061",
@@ -11165,6 +8617,13 @@
 "prose_words": 96
 },
 {
+"id": "SP026",
+"title": "Study the drunkard, and keep your seat",
+"path": "content/principles/SP026 — Study the drunkard, and keep your seat.md",
+"degree": 5,
+"prose_words": 112
+},
+{
 "id": "SP031",
 "title": "Read anger as blocked striving with a wounded self-regard",
 "path": "content/principles/SP031 — Read anger as blocked striving with a wounded self-regard.md",
@@ -11200,6 +8659,20 @@
 "prose_words": 89
 },
 {
+"id": "SP044",
+"title": "Start from a true idea",
+"path": "content/principles/SP044 — Start from a true idea.md",
+"degree": 5,
+"prose_words": 103
+},
+{
+"id": "SP047",
+"title": "Learn the four levels of knowledge",
+"path": "content/principles/SP047 — Learn the four levels of knowledge.md",
+"degree": 5,
+"prose_words": 103
+},
+{
 "id": "SP053",
 "title": "Connect affects to ordered thought",
 "path": "content/principles/SP053 — Connect affects to ordered thought.md",
@@ -11219,6 +8692,13 @@
 "path": "content/principles/SP059 — Practice generosity.md",
 "degree": 5,
 "prose_words": 96
+},
+{
+"id": "SP066",
+"title": "Overcome evil with good",
+"path": "content/principles/SP066 — Overcome evil with good.md",
+"degree": 5,
+"prose_words": 101
 },
 {
 "id": "SP075",
@@ -11277,6 +8757,13 @@
 "prose_words": 93
 },
 {
+"id": "X010",
+"title": "Treat pain by its duration curve",
+"path": "content/principles/X010 — Treat pain by its duration curve.md",
+"degree": 5,
+"prose_words": 115
+},
+{
 "id": "X011",
 "title": "Bank gratitude for past pleasures, and draw on it in need",
 "path": "content/principles/X011 — Bank gratitude for past pleasures, and draw on it in need.md",
@@ -11289,6 +8776,13 @@
 "path": "content/principles/X016 — Pair patience and gratitude as the two meters of every state.md",
 "degree": 5,
 "prose_words": 79
+},
+{
+"id": "X026",
+"title": "Love the earth, the sun, and the animals, as the standing instruction",
+"path": "content/principles/X026 — Love the earth, the sun, and the animals, as the standing instruction.md",
+"degree": 5,
+"prose_words": 115
 },
 {
 "id": "Y009",
@@ -12222,6 +9716,13 @@
 "prose_words": 79
 },
 {
+"id": "K003",
+"title": "Act from unity; reflect from unity",
+"path": "content/principles/K003 — Act from unity; reflect from unity.md",
+"degree": 4,
+"prose_words": 103
+},
+{
 "id": "K020",
 "title": "Know by doing",
 "path": "content/principles/K020 — Know by doing.md",
@@ -12234,6 +9735,13 @@
 "path": "content/principles/K027 — In post-meditation, be a child of illusion.md",
 "degree": 4,
 "prose_words": 62
+},
+{
+"id": "K028",
+"title": "Practice sending and taking on the breath",
+"path": "content/principles/K028 — Practice sending and taking on the breath.md",
+"degree": 4,
+"prose_words": 103
 },
 {
 "id": "K032",
@@ -12285,6 +9793,20 @@
 "prose_words": 91
 },
 {
+"id": "K069",
+"title": "Seek the formless self",
+"path": "content/principles/K069 — Seek the formless self.md",
+"degree": 4,
+"prose_words": 104
+},
+{
+"id": "M001",
+"title": "See the world as one flowing, sacred energy",
+"path": "content/principles/M001 — See the world as one flowing, sacred energy.md",
+"degree": 4,
+"prose_words": 111
+},
+{
 "id": "M009",
 "title": "Build bridges rather than choosing sides",
 "path": "content/principles/M009 — Build bridges rather than choosing sides.md",
@@ -12297,6 +9819,13 @@
 "path": "content/principles/M012 — Give your finest materials to the finest truths.md",
 "degree": 4,
 "prose_words": 85
+},
+{
+"id": "M019",
+"title": "Educate deliberately, and count character as the curriculum",
+"path": "content/principles/M019 — Educate deliberately, and count character as the curriculum.md",
+"degree": 4,
+"prose_words": 108
 },
 {
 "id": "M022",
@@ -12313,11 +9842,25 @@
 "prose_words": 92
 },
 {
+"id": "M031",
+"title": "Work steadily; idleness is the root disorder",
+"path": "content/principles/M031 — Work steadily; idleness is the root disorder.md",
+"degree": 4,
+"prose_words": 102
+},
+{
 "id": "M032",
 "title": "Keep the body and the house clean",
 "path": "content/principles/M032 — Keep the body and the house clean.md",
 "degree": 4,
 "prose_words": 87
+},
+{
+"id": "M034",
+"title": "Carry yourself with dignity in every station",
+"path": "content/principles/M034 — Carry yourself with dignity in every station.md",
+"degree": 4,
+"prose_words": 102
 },
 {
 "id": "M039",
@@ -12334,11 +9877,39 @@
 "prose_words": 95
 },
 {
+"id": "M041",
+"title": "Practice reciprocity with the earth that feeds you",
+"path": "content/principles/M041 — Practice reciprocity with the earth that feeds you.md",
+"degree": 4,
+"prose_words": 106
+},
+{
 "id": "M046",
 "title": "Trust cleverness joined to humility",
 "path": "content/principles/M046 — Trust cleverness joined to humility.md",
 "degree": 4,
 "prose_words": 88
+},
+{
+"id": "M051",
+"title": "Live by a rhythm larger than your moods",
+"path": "content/principles/M051 — Live by a rhythm larger than your moods.md",
+"degree": 4,
+"prose_words": 106
+},
+{
+"id": "M052",
+"title": "Serve as a daykeeper serves",
+"path": "content/principles/M052 — Serve as a daykeeper serves.md",
+"degree": 4,
+"prose_words": 106
+},
+{
+"id": "M054",
+"title": "Light the New Fire periodically",
+"path": "content/principles/M054 — Light the New Fire periodically.md",
+"degree": 4,
+"prose_words": 100
 },
 {
 "id": "MO009",
@@ -12782,13 +10353,6 @@
 "prose_words": 60
 },
 {
-"id": "S058",
-"title": "Practise reframing",
-"path": "content/principles/S058 — Practise reframing.md",
-"degree": 4,
-"prose_words": 64
-},
-{
 "id": "S062",
 "title": "Do not grieve excessively",
 "path": "content/principles/S062 — Do not grieve excessively.md",
@@ -13013,6 +10577,20 @@
 "prose_words": 89
 },
 {
+"id": "SP029",
+"title": "Understand bondage as being determined from outside",
+"path": "content/principles/SP029 — Understand bondage as being determined from outside.md",
+"degree": 4,
+"prose_words": 108
+},
+{
+"id": "SP043",
+"title": "Heal the instrument before trusting it",
+"path": "content/principles/SP043 — Heal the instrument before trusting it.md",
+"degree": 4,
+"prose_words": 100
+},
+{
 "id": "SP046",
 "title": "Watch words; they are not ideas",
 "path": "content/principles/SP046 — Watch words; they are not ideas.md",
@@ -13195,6 +10773,13 @@
 "prose_words": 64
 },
 {
+"id": "Y078",
+"title": "Distinguish settling with and without seed",
+"path": "content/principles/Y078 — Distinguish settling with and without seed.md",
+"degree": 4,
+"prose_words": 101
+},
+{
 "id": "Y081",
 "title": "Hold powers and peak experiences lightly",
 "path": "content/principles/Y081 — Hold powers and peak experiences lightly.md",
@@ -13335,13 +10920,6 @@
 "prose_words": 31
 },
 {
-"id": "B095",
-"title": "Collect the mind (samadhi as gathering)",
-"path": "content/principles/B095 — Collect the mind (samadhi as gathering).md",
-"degree": 3,
-"prose_words": 25
-},
-{
 "id": "B104",
 "title": "Practice patience (kshanti)",
 "path": "content/principles/B104 — Practice patience (kshanti).md",
@@ -13354,13 +10932,6 @@
 "path": "content/principles/B106 — Blame conditions, not persons.md",
 "degree": 3,
 "prose_words": 33
-},
-{
-"id": "B115",
-"title": "Take the difficult person as teacher",
-"path": "content/principles/B115 — Take the difficult person as teacher.md",
-"degree": 3,
-"prose_words": 23
 },
 {
 "id": "B135",
@@ -13559,6 +11130,13 @@
 "prose_words": 70
 },
 {
+"id": "K007",
+"title": "Learn the mind's two registers: appearance and awareness",
+"path": "content/principles/K007 — Learn the mind's two registers — appearance and awareness.md",
+"degree": 3,
+"prose_words": 101
+},
+{
 "id": "K017",
 "title": "Find the still point that is not a withdrawal",
 "path": "content/principles/K017 — Find the still point that is not a withdrawal.md",
@@ -13629,6 +11207,13 @@
 "prose_words": 87
 },
 {
+"id": "M018",
+"title": "Root the heart in the divine ground",
+"path": "content/principles/M018 — Root the heart in the divine ground.md",
+"degree": 3,
+"prose_words": 102
+},
+{
 "id": "M020",
 "title": "Accept suffering as a teacher, without seeking it",
 "path": "content/principles/M020 — Accept suffering as a teacher, without seeking it.md",
@@ -13655,6 +11240,13 @@
 "path": "content/principles/M027 — Practice moderation in food and sleep, as taught.md",
 "degree": 3,
 "prose_words": 98
+},
+{
+"id": "M043",
+"title": "Carry your share of the communal work",
+"path": "content/principles/M043 — Carry your share of the communal work.md",
+"degree": 3,
+"prose_words": 102
 },
 {
 "id": "M053",
@@ -14105,6 +11697,13 @@
 "prose_words": 96
 },
 {
+"id": "SP095",
+"title": "Convert suffering into understanding at the moment of loss",
+"path": "content/principles/SP095 — Convert suffering into understanding at the moment of loss.md",
+"degree": 3,
+"prose_words": 114
+},
+{
 "id": "X003",
 "title": "Live by appearances, without adding verdicts",
 "path": "content/principles/X003 — Live by appearances, without adding verdicts.md",
@@ -14224,6 +11823,13 @@
 "prose_words": 68
 },
 {
+"id": "Y069",
+"title": "Make your own self your ally",
+"path": "content/principles/Y069 — Make your own self your ally.md",
+"degree": 3,
+"prose_words": 115
+},
+{
 "id": "Y075",
 "title": "Let the object fill the field",
 "path": "content/principles/Y075 — Let the object fill the field.md",
@@ -14322,13 +11928,6 @@
 "prose_words": 39
 },
 {
-"id": "B117",
-"title": "Don't hold the coal: anger returns to harm the holder",
-"path": "content/principles/B117 — Don't hold the coal — anger returns to harm the holder.md",
-"degree": 2,
-"prose_words": 29
-},
-{
 "id": "B155",
 "title": "Take the vow: commit beyond your comfort",
 "path": "content/principles/B155 — Take the vow — commit beyond your comfort.md",
@@ -14390,6 +11989,13 @@
 "path": "content/principles/K042 — Take the body as a vessel, not a treasure.md",
 "degree": 2,
 "prose_words": 86
+},
+{
+"id": "K052",
+"title": "Practice equanimity toward all beings first, before love",
+"path": "content/principles/K052 — Practice equanimity toward all beings first, before love.md",
+"degree": 2,
+"prose_words": 106
 },
 {
 "id": "K053",
@@ -14726,6 +12332,13 @@
 "path": "content/principles/B197 — Make ordinary life the practice field.md",
 "degree": 1,
 "prose_words": 33
+},
+{
+"id": "K048",
+"title": "Give the victory away, and more than that, the credit",
+"path": "content/principles/K048 — Give the victory away, and more than that, the credit.md",
+"degree": 1,
+"prose_words": 104
 },
 {
 "id": "PP064",
