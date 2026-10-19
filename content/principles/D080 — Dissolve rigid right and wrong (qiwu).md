@@ -12,18 +12,18 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 80** — Dissolve rigid right and wrong (qiwu)
 
-The principle comes from Zhuangzi 2, "The Adjustment of Controversies" (Legge's title), and its emblem is the monkey-keeper.
+The principle comes from Zhuangzi 2, "The Adjustment of Controversies" (Legge's title), and its emblem is the monkey-keeper: he offers the monkeys three measures of acorns in the morning and four in the evening, they are angry; he switches to four in the morning and three in the evening, and they are pleased. The total never changes.
 
-> His two proposals were substantially the same, but the result of the one was to make the creatures angry, and of the other to make them pleased. Therefore the sagely man brings together a dispute in its affirmations and denials, and rests in the equal fashioning of Heaven. Both sides of the question are admissible. (Zhuangzi 2 §6, Legge, [METIS English Classics edition](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
+> His two proposals were substantially the same, but the result of the one was to make the creatures angry, and of the other to make them pleased - an illustration of the point I am insisting on. Therefore the sagely man brings together a dispute in its affirmations and denials, and rests in the equal fashioning of Heaven. Both sides of the question are admissible. (Zhuangzi 2 §6, Legge, [METIS English Classics edition](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
 
-The chapter's point is not that answers are unknowable; it is that framing can flip the felt answer while the substance stays fixed, as it did for the monkeys. The principle's application follows: hold positions lightly, because certitude is the enemy of peace.
+The principle's application follows: hold positions lightly, and ask what the other side is seeing that you are not.
 
 (Zhuangzi 2.)
 
 **Plain words**
-Notice how much of a disagreement is about the order the acorns arrive in. The same offer, said differently, lands differently. Before defending a position, ask what the other side is seeing that you are not; the chapter's sage admits both sides and rests.
+The monkeys' anger and pleasure turned on the order the acorns arrived in, not the amount. The same offer, arranged differently, landed differently. The chapter's sage responds by admitting both sides of a question and resting.
 
-*For example:* From the window seat, the left wing looks like it dips; from the aisle, it doesn't. Both passengers are arguing about the same wing.
+*For example:* Compare the two allocations yourself: three in the morning and four at night, then four in the morning and three at night. Ask which you would prefer, and notice that nothing about the total changed.
 
 ## Sources
 

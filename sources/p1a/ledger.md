@@ -209,3 +209,15 @@ session after supervisor QC flags.
   - Access note: NE X.8 at MIT Classics (nicomachaen.10.viii.html) returned a client error; the NE X.8 locator is kept as inherited and unquoted. The blockquote is from Politics VII.3, which the principle's citation line already carried.
   - Speed directive: no advisor QC this item (14; next milestone 15); no draft file; one commit.
 - Saturation: A091 linked from its Stories and parallels; no new reciprocals proposed.
+
+## A037 — Distinguish cleverness (deinotes) from practical wisdom (done 2026-10-19)
+
+- Opened: Aristotle, Nicomachean Ethics, Book VI (MIT Classics page 6.vi carries the VI.12 material), Ross translation, https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html
+  - Verified verbatim (blockquote): "There is a faculty which is called cleverness; and this is such as to be able to do the things that tend towards the mark we have set before ourselves, and to hit it. Now if the mark be noble, the cleverness is laudable, but if the mark be bad, the cleverness is mere smartness; hence we call even men of practical wisdom clever or smart. Practical wisdom is not the faculty, but it does not exist without this faculty."
+  - Verified context: syllogisms of action involve the starting-point of the end; "this is not evident except to the good man"; "impossible to be practically wise without being good."
+  - Milestone QC (item 15) corrections applied to A037 AND to the three items published since item 10 under the speed directive:
+    - A037: "Cleverness is a neutral instrument" and "a skill that bad character corrupts" replaced (advisory framing); marketer example replaced with the advisor's goal-acceptance version; "check what your cleverness is for" directive removed.
+    - D080: blockquote was missing the clause "- an illustration of the point I am insisting on" (restored; quote now verbatim); monkey proposals now stated (3+4 vs 4+3); "certitude is the enemy of peace" and "framing can flip the felt answer" removed as unsupported; airplane-wing example replaced with the acorn-allocation exercise.
+    - A078: blockquote locator changed from "NE VIII.4" to "NE VIII" (the MIT page is a whole-book file; the chapter within VIII was not verifiable from the opened text); "friendships that ran on usefulness" roles framing replaced with why-people-value-each-other; example's persistence-does-not-prove-virtue reading replaced.
+    - A091: explanation narrowed to what the passages state; teacher example marked as proposed application; business/leisure quote given its (Politics VII) locator; NE X.8 now verified via the MIT book-X page (nicomachaen.10.x.html): "in a secondary degree the life in accordance with the other kind of virtue is happy" — the earlier fetch failure was a URL-pattern issue, now resolved.
+- Saturation: A037 linked from Phronesis and Deinotes concept contexts; no new reciprocals proposed.

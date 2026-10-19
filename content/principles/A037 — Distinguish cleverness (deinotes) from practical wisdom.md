@@ -12,13 +12,18 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 37** — Distinguish cleverness (deinotes) from practical wisdom
 
-Cleverness is the capacity to find means to any end, good or bad. Practical wisdom is cleverness directed toward the good. Be clever, but ensure your cleverness serves worthy ends. Intelligence without virtue is dangerous.
+The distinction is Aristotle's, drawn in NE VI.12 between the faculty of cleverness (deinotes) and practical wisdom.
+
+> There is a faculty which is called cleverness; and this is such as to be able to do the things that tend towards the mark we have set before ourselves, and to hit it. Now if the mark be noble, the cleverness is laudable, but if the mark be bad, the cleverness is mere smartness; hence we call even men of practical wisdom clever or smart. Practical wisdom is not the faculty, but it does not exist without this faculty. (NE VI.12, Ross trans., [MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html))
+
+Aristotle argues that bad character can mislead someone about the starting points of action, and concludes that practical wisdom requires goodness (VI.12).
 
 (NE VI.12, VI.13.)
 
-**Plain words** Cleverness finds a way to get whatever you're after, good or bad. Practical wisdom is cleverness aimed at something worth getting. Aristotle doesn't mind being clever. He minds smart people serving poor goals. Check what yours is for.
+**Plain words**
+Working out how to achieve something leaves another question: is it worth doing? Someone can pursue a harmful goal with great ingenuity. Aristotle requires good character as well as this ability in a practically wise person.
 
-*For example:* A brilliant marketer who builds a sleek campaign to sell people things they don't need is clever. Using the same skill to get a useful product noticed is wise.
+*For example:* Imagine a marketer asked to make a misleading campaign more persuasive. They might know how to do it. The further question is whether they should accept that goal at all.
 
 ## Stories
 

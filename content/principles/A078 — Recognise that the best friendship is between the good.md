@@ -14,16 +14,16 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 
 The principle's source is Aristotle's account of the kinds of friendship in NE VIII: friendships of utility and pleasure are incidental, ending when the advantage or pleasure ends, while the friendship of the good is for the friend's own sake.
 
-> Perfect friendship is the friendship of men who are good, and alike in virtue; for these wish well alike to each other qua good, and they are good themselves. Now those who wish well to their friends for their sake are most truly friends; for they do this by reason of own nature and not incidentally; therefore their friendship lasts as long as they are good-and goodness is an enduring thing. (NE VIII.4, Ross trans., [MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.8.viii.html))
+> Perfect friendship is the friendship of men who are good, and alike in virtue; for these wish well alike to each other qua good, and they are good themselves. Now those who wish well to their friends for their sake are most truly friends; for they do this by reason of own nature and not incidentally; therefore their friendship lasts as long as they are good-and goodness is an enduring thing. (NE VIII, Ross trans., [MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.8.viii.html))
 
-Aristotle adds that such friendships are infrequent because such men are rare, and that they require time and familiarity: "men cannot know each other till they have 'eaten salt together'" (VIII.4). The principle's directive follows as an application: if you want good friends, become a good person.
+Aristotle adds that such friendships are infrequent because such men are rare, and that they require time and familiarity: "men cannot know each other till they have 'eaten salt together'" (VIII). The principle's directive follows as an application: if you want good friends, become a good person.
 
 (NE VIII.3, VIII.4, IX.5; EE VII.2.)
 
 **Plain words**
-Aristotle sorts friendships by what they run on. Some run on usefulness: the colleague, the friend with the van. Some run on pleasure: the gym partner, the drinking friend. Both are real, and both end when the use or the fun ends. The third kind rests on who you both are, and lasts, as Aristotle says, as long as they are good.
+Aristotle asks why two people value each other. Some value what they get done together; some value the fun; and some value the person themselves, for their own sake. The first two are real, and both end when the use or the fun ends. The third kind lasts, as Aristotle says, as long as they are good.
 
-*For example:* Think of the friendships that survived a bad year on your side, and check what they ran on. The ones that outlasted the usefulness are the kind he means.
+*For example:* Think of a friendship that survived a bad year on your side, and ask why the other person stayed. If the answer is about who you are rather than what the friendship provides, that is the kind he means.
 
 ## Stories
 

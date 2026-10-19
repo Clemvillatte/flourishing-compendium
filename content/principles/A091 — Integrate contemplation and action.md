@@ -16,14 +16,14 @@ Aristotle poses the question in Politics VII: is the better life the statesman's
 
 > Not that a life of action must necessarily have relation to others, as some persons think, nor are those ideas only to be regarded as practical which are pursued for the sake of practical results, but much more the thoughts and contemplations which are independent and complete in themselves; since virtuous activity, and therefore a certain kind of action, is an end, and even in the case of external actions the directing mind is most truly said to act. (Politics VII.3, Jowett trans., [MIT Classics](https://classics.mit.edu/Aristotle/politics.7.seven.html))
 
-The same book divides the labour between the two modes while keeping both: "Courage and endurance are required for business and philosophy for leisure, temperance and justice for both." The principle's directive, alternate study and action, is the compendium's application of that frame.
+In the same discussion he argues that contemplation is itself a form of activity, and assigns different virtues to the two modes: "Courage and endurance are required for business and philosophy for leisure, temperance and justice for both" (Politics VII). NE X.8 keeps the ranking but not the opposition: the life of practical virtue is still happy, "in a secondary degree". The principle's directive, alternate study and action, is a proposed application.
 
 (NE X.8; Politics VII.1-3.)
 
 **Plain words**
 Aristotle notices that people split their lives into the doing part and the thinking part, then argue about which one matters. His move is to deny the split: thinking things through is itself an activity, and the doing part is directed by it. The question stops being which life to pick and becomes how to run the one life so each side keeps the other honest.
 
-*For example:* A teacher who tries a new method, then sits with the results over the weekend, and tweaks it, is combining the two.
+*For example:* As a proposed application, a teacher who tries a new method, then sits with the results over the weekend and tweaks it, is combining the two.
 
 ## Stories
 
