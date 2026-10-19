@@ -11,11 +11,11 @@ serendipity and material for essays on Genuine Flourishing, alleviation of suffe
 (`docs/enrichment/HUMANIZER-SKILL.md`). ZERO hallucination: every fact verified in a consulted source. Keep this handoff current at every milestone.
 
 ## How to resume (5 steps)
-1. `git pull`; read `docs/enrichment/PROTOCOL.md` (the per-concept workflow, template, rules) and `EXEMPLARS.md`.
-2. `python3 scripts/enrich_stats.py --show 60` lists weak concepts by degree; skip anything in `docs/enrichment/progress.json` ("done").
-3. Enrich in batches of ~5 concepts (parallel sub-agents are fine; each writes only its own concept files plus `proposals/<batch>.json` and `batches/<batch>.json`).
-4. After each wave: `python3 scripts/enrich_validate.py` (must be all ok) -> `python3 scripts/enrich_apply.py` (applies cross-link proposals) -> validate again -> `python3 scripts/build.py` (must succeed) -> merge batch logs into `progress.json` -> update the STATUS table below -> commit -> push.
-5. Quality control: have an independent reviewer (different model or fresh sub-agent) re-verify a sample of claims per wave against the cited URLs; record the result under "QC log".
+0. `git pull`; claim a band on `docs/enrichment/TASKBOARD.md` (parallel-agent rules are there; the lead is the w1a agent). Then read `docs/enrichment/PROTOCOL.md` (the per-concept workflow, template, rules) and `EXEMPLARS.md`.
+1. `python3 scripts/enrich_stats.py --show 60` lists weak concepts by degree; skip anything already done (check your batch file and `docs/enrichment/progress.json`).
+2. Enrich concepts one at a time, in degree order within your band; save after each (see PROTOCOL.md §7).
+3. After each wave: `python3 scripts/enrich_validate.py` (must be all ok) -> the LEAD ONLY runs `python3 scripts/enrich_apply.py` (applies cross-link proposals; it edits other bands' files) -> validate again -> `python3 scripts/build.py` (must succeed) -> lead merges batch logs into `progress.json` -> update the STATUS table below -> commit -> push.
+4. Quality control: have an independent reviewer (different model or fresh sub-agent) re-verify a sample of claims per wave against the cited URLs; record the result under "QC log".
 
 ## Tooling (all in `scripts/`, stdlib only)
 - `enrich_stats.py`: rebuilds the site's link graph (wikilinks, undirected), ranks weak entries (`--type concept|principle|...`, `--weak N`) -> `docs/enrichment/queue-<type>s.json`.
@@ -30,12 +30,13 @@ serendipity and material for essays on Genuine Flourishing, alleviation of suffe
 - Principles are NOT to be rewritten in the concept pass (separate later pass; many are weak/old).
 
 ## STATUS
-(updated by the lead agent at each milestone)
+(updated by the lead agent at each milestone; per-agent detail in `batches/*.json`)
 
 | Milestone | State |
 |---|---|
 | Tooling + protocol written | done |
-| Wave 1 (top-degree concepts) | in progress |
+| Coordination: taskboard + parallel rules | done |
+| Wave 1 (top-degree concepts) | in progress (w1a: Agent A; w1b-w1e open on TASKBOARD.md) |
 
 ## QC log
 (empty)
