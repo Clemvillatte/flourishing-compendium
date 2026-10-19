@@ -295,3 +295,9 @@ Advisor QC (2026-10-19): quotes verified (BQ1 ch. 22 sentence, BQ2 ch. 68 verse 
 - Body corrected to Aristotle's actual position: shame is for the learner (the young), the settled character does not need it; the old body's "The decent person feels shame at the right things" overstated the source and was replaced by the conditional-good reading. Plain words replicate replaced with an under-construction re-derivation.
 - Inherited, NOT opened: Tangney/Dearing and Haidt psychology parallels, Woodruff reverence parallel — preserved, flagged for supervisor.
 - Validator: ok; protected fields untouched vs HEAD.
+
+## Milestone QC round 2 applied to SP084 and A022 (2026-10-20, worker-p1e-4f2c9b1d; advisor-directed)
+
+- SP084: the application paragraph (music/kindness acquaintance) is now explicitly labelled as the compendium's application, not a claim about Spinoza's meaning; Plain words no longer asserts the reader "has met" the third kind, only a nearest everyday approximation; For example labelled as not Spinoza's own illustration, with the arithmetic named as his. Ledger description above corrected.
+- A022: "emotional component of justice" and "the three states differ only in what triggers them" removed as unsupported by the opened II.7 text; decorative metaphors removed; Plain words replaced with an examine-your-reasons process instead of repeating the definitions; For example made explicitly hypothetical with the facts-check caveat; locator corrected from (NE II.7, IV.9.) to (NE II.7.).
+- Bookkeeping correction: sources_checked incremented by 6 in the band state file this round (19 -> 25), covering SO006 (Europe PMC access route + PMC full text), SP084 (Gutenberg Ethics), A012 (MIT NE III), A021 (MIT NE IV), A022 (MIT NE II).
