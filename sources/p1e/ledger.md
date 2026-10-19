@@ -452,3 +452,7 @@ Advisor QC (2026-10-19): quotes verified (BQ1 ch. 22 sentence, BQ2 ch. 68 verse 
 - BE036: advisor PASS for the restricted application and Practice corrections.
 - BE019: conditional PASS on exact changes (body scheduling-experiment sentence removed, workflow wording removed, BA link preserved via labelled suggestion sentence, plain words/example replaced with the advisor's text). Applying.
 - BE009: FAIL — source gap. Must open a shaping source from docs/PRIMARY-SOURCES.md before retaining the definition; remove ledger-note prose from the article; revise plain words. Reopening BE009.
+
+## BE019 conditional PASS applied (2026-10-20, worker-p1e-4f2c9b1d)
+
+- Applied the advisor's exact changes: body scheduling-experiment sentence removed; "comes from later work flagged below as inherited" workflow wording removed; BA link preserved via "The compendium's behavioural activation exercise below is a suggestion to try, not a treatment effect established by this study."; plain words and example replaced with the advisor's text. No other content changed. Validated against pre-session baseline c2a3ee47: pass. Recording acceptance; reopening and re-closing to keep bookkeeping consistent.
