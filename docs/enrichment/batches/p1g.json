@@ -29,7 +29,8 @@
   "CO007",
   "CO045",
   "CO050",
-  "CO052"
+  "CO052",
+  "CO066"
  ],
  "in_progress": null,
  "flagged": {
@@ -47,7 +48,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 15,
- "updated": "2026-10-19T15:01:01+00:00",
+ "updated": "2026-10-19T15:01:29+00:00",
  "band_done": false,
  "takeover": {
   "by": "genuineflourishing35",
