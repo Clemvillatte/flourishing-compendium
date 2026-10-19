@@ -15,7 +15,8 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 
 The compendium pairs two teachings under this title. One is the Xinxin Ming, the Chinese verse attributed to the third Zen patriarch, which treats the sorting of liked against disliked as the obstacle to seeing clearly. The other is the teaching of the Korean teacher Seung Sahn, whose phrase "only don't know" the principle's title carries. The compendium places these alongside one another; it does not claim they say the same thing.
 
-> To set up what you like against what you dislike / is the disease of the mind.
+> To set up what you like against what you dislike
+> is the disease of the mind.
 >
 > — Xinxin Ming (Sengcan, trans. Richard B. Clarke, [Terebess](https://terebess.hu/english/hsin.html))
 
