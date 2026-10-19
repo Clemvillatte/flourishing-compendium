@@ -22,7 +22,8 @@
   "BE020",
   "BI001",
   "E055",
-  "E065"
+  "E065",
+  "E104"
  ],
  "in_progress": null,
  "flagged": {
@@ -41,7 +42,7 @@
   "P183": "Reopened for QC: milestone QC: preserve qualification"
  },
  "missing_concepts": [],
- "sources_checked": 20,
- "updated": "2026-10-19T14:19:44+00:00",
+ "sources_checked": 21,
+ "updated": "2026-10-19T14:20:58+00:00",
  "band_done": false
 }
