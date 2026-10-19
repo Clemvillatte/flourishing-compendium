@@ -1,7 +1,7 @@
 {
  "baton": "p1g",
- "agent": "genuineflourishing35",
- "clocked_in": "2026-10-19T13:16:39+00:00",
+ "agent": "agent-p1l-worker-27c22a8e",
+ "clocked_in": "2026-10-19T14:33:58+00:00",
  "takeovers": [
   {
    "by": "genuineflourishing34",
@@ -14,6 +14,12 @@
    "at": "2026-10-19T13:11:02.019596+00:00",
    "from": "genuineflourishing34",
    "reason": "owner-confirmed death of genuineflourishing34; takeover per OPERATIONS.md"
+  },
+  {
+   "by": "agent-p1l-worker-27c22a8e",
+   "at": "2026-10-19T14:33:58+00:00",
+   "from": "genuineflourishing35",
+   "reason": "stale (77 min)"
   }
  ],
  "released": false
