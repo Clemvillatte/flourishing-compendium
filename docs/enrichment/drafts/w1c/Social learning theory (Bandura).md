@@ -29,7 +29,7 @@ The compendium's exemplar traditions and the Bobo doll agree on the mechanism an
 - [[Observational learning]] — the mechanism this theory named
 - [[Moral exemplar research]] — the ethics application of modeling
 - [[Moral exemplarism]] — the virtue-ethics version of learning from exemplars
-- [[Mirror neurons]] — the neural candidate for imitation
+- [[Mirror neuron theory of empathy]] — the neural candidate for imitation
 
 ## Sources
 
