@@ -6,7 +6,8 @@
   "Virtue",
   "Attention",
   "Care",
-  "Gratitude"
+  "Gratitude",
+  "Acceptance"
  ],
  "in_progress": null,
  "flagged": {
@@ -14,6 +15,6 @@
   "Care": "QC corrections applied 2026-10-19 (Noddings sourcing fixed, Heidegger ontological/ethical distinction added, seed-line sentence removed, limit question added)"
  },
  "missing_concepts": [],
- "sources_checked": 5,
- "updated": "2026-10-19T08:01:51+00:00"
+ "sources_checked": 6,
+ "updated": "2026-10-19T12:31:14+00:00"
 }
