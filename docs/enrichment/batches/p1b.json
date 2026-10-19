@@ -68,7 +68,8 @@
   "CO003",
   "P118",
   "AF083",
-  "R011"
+  "R011",
+  "P059"
  ],
  "in_progress": null,
  "flagged": {
@@ -84,7 +85,7 @@
   "D114": "Reopened for QC: mis-marked done before start by operator error; rewriting now"
  },
  "missing_concepts": [],
- "sources_checked": 83,
- "updated": "2026-10-19T13:52:24+00:00",
+ "sources_checked": 88,
+ "updated": "2026-10-19T13:52:57+00:00",
  "band_done": false
 }
