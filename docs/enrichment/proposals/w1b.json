@@ -9,13 +9,14 @@
   "Right concentration",
   "Right mindfulness",
   "Temperance",
-  "Beginner's mind"
+  "Beginner's mind",
+  "Courage"
  ],
  "flagged": {
   "Perspective-getting": "seed cites 'Epley et al., 2007' for 'asking beats perspective-taking'; no such perspective-getting paper could be found (canonical: Epley et al. 2004 anchoring; Eyal, Steffel & Epley 2018 JPSP 114(4):547-571 'Perspective mistaking'). Original line kept, prose cites the verified papers."
  },
  "missing_concepts": [],
- "sources_checked": 25,
+ "sources_checked": 27,
  "inline": [],
  "reciprocal": [
   {
@@ -377,6 +378,46 @@
    "target": "content/concepts/Socratic ignorance.md",
    "concept": "Beginner's mind",
    "why": "knowing that one does not know"
+  },
+  {
+   "target": "content/concepts/Temperance.md",
+   "concept": "Courage",
+   "why": "sibling cardinal virtue in the compendium's virtue family"
+  },
+  {
+   "target": "content/concepts/Virtue.md",
+   "concept": "Courage",
+   "why": "the class of excellences courage belongs to"
+  },
+  {
+   "target": "content/concepts/Fear.md",
+   "concept": "Courage",
+   "why": "the feeling courage is a mean about"
+  },
+  {
+   "target": "content/concepts/Habituation.md",
+   "concept": "Courage",
+   "why": "how bravery is trained, by acting in frightening things"
+  },
+  {
+   "target": "content/concepts/Graded exposure / systematic desensitisation (Wolpe).md",
+   "concept": "Courage",
+   "why": "the clinical cousin of that training"
+  },
+  {
+   "target": "content/concepts/Vulnerability.md",
+   "concept": "Courage",
+   "why": "the openness that fear guards and courage spends"
+  },
+  {
+   "target": "content/concepts/Hope.md",
+   "concept": "Courage",
+   "why": "paired with suffering in the compendium's courage principle"
+  },
+  {
+   "target": "content/concepts/Shame.md",
+   "concept": "Courage",
+   "why": "the citizen-soldier's motive, courage's nearest counterfeit"
   }
  ],
  "notes": "continues after lead applied the first proposals file (moved to applied/)"

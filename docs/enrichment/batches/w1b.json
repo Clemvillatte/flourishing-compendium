@@ -12,12 +12,13 @@
   "Right concentration",
   "Right mindfulness",
   "Temperance",
-  "Beginner's mind"
+  "Beginner's mind",
+  "Courage"
  ],
- "in_progress": "Courage",
+ "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 7,
- "updated": "2026-10-19T08:19:16+00:00",
+ "updated": "2026-10-19T08:20:15+00:00",
  "notes": "QC round 2 (advisor): fixed quote attributions on The relational self and To the things themselves (encyclopedia paraphrases were quoted as primary text; now attributed to IEP/SEP), separated the three relational-self theories, scoped Sedikides findings, removed reader address, split long paragraphs. Caveat for the lead: some already-applied reciprocal proposals used derivation language ('therapeutic operationalisation of Deikman's observer' on Self-as-context, 'philosophical root' on I and Thou, 'same structure' on Being-with (Mitsein)); these clauses sit in other bands' files now and could be reworded to comparison language when convenient."
 }
