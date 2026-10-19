@@ -509,6 +509,15 @@ let spreadCenter = null, spreadNbSet = null, spreadBrSet = null, spreadNb2Set = 
 let spreadRings = null, spreadSlots = null;   // belt mode: population arrays + per-node ring slots
 let spreadActive = false;      // offsets may be non-zero — keep easing until they gather back to 0
 const SPREAD_MINR = 850;      // target clearance radius around the selection
+/* on phones the "make room" push moves every nearby node each frame — the
+   big reorganisation the user doesn't want there. Belts still gather; the
+   rest of the graph simply stays put. */
+let spreadNoRoom = false;
+try {
+  const _mq = window.matchMedia('(max-width:920px)');
+  spreadNoRoom = _mq.matches;
+  if (_mq.addEventListener) _mq.addEventListener('change', ev => { spreadNoRoom = ev.matches; });
+} catch (e) {}
 function setSpread(n) {
   spreadCenter = n || null;
   spreadNbSet = null;
@@ -888,7 +897,7 @@ function applySpread(dt) {
           tx = -dx / d * pull;
           ty = -dy / d * pull;
         }
-      } else if (d < SPREAD_MINR) {
+      } else if (d < SPREAD_MINR && !spreadNoRoom) {
         let ux, uy;
         if (d > 1) { ux = dx / d; uy = dy / d; }
         else { const a = hash01(n.id) * 6.2832; ux = Math.cos(a); uy = Math.sin(a); }
@@ -1011,7 +1020,7 @@ function restart(fit) {
   alpha = 1;
   // 1600 ticks ≈ the point where alpha decays below 0.008 — the same total
   // settling the old endless loop reached, now bounded and then frozen
-  if (fit) { warmup(window.matchMedia && window.matchMedia('(max-width:820px)').matches ? 900 : 1600); fitAfterWarmup = true; }
+  if (fit) { warmup(window.matchMedia && window.matchMedia('(max-width:920px)').matches ? 900 : 1600); fitAfterWarmup = true; }
   dragged = null; panning = false;   // an in-progress drag cannot survive a re-layout
   liveMode = false; settleTicks = 0; // neither can live physics
   dragPhysics = false;
@@ -1528,7 +1537,7 @@ function openDrawer(n) {
       : '');
   gd.body.scrollTop = 0;
   // on phones the sheet starts collapsed: a peek with title + connection count
-  drawer.classList.toggle('sheet-collapsed', window.matchMedia('(max-width:820px)').matches);
+  drawer.classList.toggle('sheet-collapsed', window.matchMedia('(max-width:920px)').matches);
   drawer.hidden = false;
 }
 
@@ -1754,7 +1763,7 @@ function bindEvents() {
   $('gdClose').addEventListener('click', () => select(null));
   // mobile: the node card is a bottom sheet — tapping its header toggles
   // between the collapsed peek (title + count) and the full card
-  const mqMobile = window.matchMedia('(max-width:820px)');
+  const mqMobile = window.matchMedia('(max-width:920px)');
   const ghead = drawer ? drawer.querySelector('.gdrawer-head') : null;
   if (ghead) ghead.addEventListener('click', function (ev) {
     if (!mqMobile.matches) return;

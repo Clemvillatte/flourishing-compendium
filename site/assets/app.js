@@ -627,13 +627,15 @@ function renderEntry(e) {
   html += '<h2 id="entryTitle">' + esc(e.title) + '</h2><div id="entryMeta">';
   for (const t of e.tags) html += `<span class="tag" data-tag="${escAttr(t)}">${esc(t)}</span>`;
   if (!isNavNode)
-    html += '<button id="copyBtn" title="Copy this entry">Copy ⌘⇧C</button>' +
+    html += '<button id="readPrev" class="read-step" title="Previous entry (↑)">◀</button>' +
+      '<button id="readNext" class="read-step" title="Next entry (↓)">▶</button>' +
+      '<button id="copyBtn" title="Copy this entry">Copy ⌘⇧C</button>' +
       '<button id="essayAddBtn" title="Add this entry to your essay outline" aria-pressed="false">+ Add to essay</button>' +
       '<button id="editToggleBtn" class="edit-toggle" title="Edit this entry’s markdown in your browser">Edit ✏️</button>' +
       '<button id="readGraphBtn" class="edit-toggle" title="Show this entry and its connections in the Graph">Open in Graph →</button>';
   html += '</div></div>';
   // Notes panel now renders BEFORE the article content (per user feedback #1)
-  if (!isNavNode) html += buildDraftPanel(e);
+  // "Your notes" panel removed — superseded by the Edit feature
   // .art renders the OVERRIDDEN content (saved edit) or the original
   const edited = contentGet(e.id);
   html += '<div class="art' + (edited !== null ? ' has-edit' : '') + '">' + mdToHtml(contentFor(e)) + '</div>';
@@ -674,7 +676,7 @@ function renderEntry(e) {
   });
   if (typeof window.updateEssayCountBadge === 'function') window.updateEssayCountBadge();
   if (!isNavNode) {
-    wireDraftPanel();
+    // draft panel removed — superseded by Edit
     wireEditPanel(e); // per-entry edit-content feature
     if (typeof buildConnectionsPanel === 'function') buildConnectionsPanel(e);
   }
@@ -699,6 +701,10 @@ function wireEditPanel(e) {
   if (rgb) rgb.addEventListener('click', () => {
     if (window.fcGraph && window.fcGraph.focus) window.fcGraph.focus(e.file || e.id);
   });
+  // previous / next entry arrows — same walk as the ↑/↓ keys
+  const rp = readEl.querySelector('#readPrev'), rn = readEl.querySelector('#readNext');
+  if (rp) rp.addEventListener('click', () => stepEntry(-1));
+  if (rn) rn.addEventListener('click', () => stepEntry(1));
   const btn = readEl.querySelector('#editToggleBtn');
   const panel = readEl.querySelector('.edit-panel');
   const saveBtn = readEl.querySelector('#editSaveBtn');
@@ -1458,20 +1464,24 @@ document.addEventListener('keydown', ev => {
   if (tag === 'TEXTAREA' || tag === 'INPUT' || (ev.target && ev.target.isContentEditable)) return;
   if (ev.key === 'ArrowDown' || ev.key === 'ArrowUp') {
     ev.preventDefault();
-    if (!state.visible.length) return;
-    const d = ev.key === 'ArrowDown' ? 1 : -1;
-    state.cursor = Math.min(Math.max(state.cursor + d, 0), state.visible.length - 1);
-    const e = state.visible[state.cursor];
-    if (e) {
-      openFromList(e);
-      const row = listEl.querySelector(`.lrow[data-eid="${CSS.escape(e.id)}"]`);
-      if (row) row.scrollIntoView({ block: 'nearest' });
-    }
+    stepEntry(ev.key === 'ArrowDown' ? 1 : -1);
   } else if (ev.key === 'Enter') {
     const e = state.visible[state.cursor >= 0 ? state.cursor : 0];
     if (e) openFromList(e);
   }
 });
+
+/* step through the current list (used by ↑/↓ keys and the ◀ ▶ buttons) */
+function stepEntry(d) {
+  if (!state.visible.length) return;
+  state.cursor = Math.min(Math.max(state.cursor + d, 0), state.visible.length - 1);
+  const e = state.visible[state.cursor];
+  if (e) {
+    openFromList(e);
+    const row = listEl.querySelector(`.lrow[data-eid="${CSS.escape(e.id)}"]`);
+    if (row) row.scrollIntoView({ block: 'nearest' });
+  }
+}
 
 /* ================= view switching & randomiser bridge ================= */
 function switchView(v) {

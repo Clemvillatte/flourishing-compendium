@@ -51,3 +51,10 @@ The site (https://clemvillatte.github.io/flourishing-compendium/) works on deskt
 - Randomiser minimal on phone: round gold star-icon draw button (SVG in #drawBtn, label hidden ≤820px), prev/next/today hidden, card eyebrow + pool position hidden, research rail hidden on mobile.
 - Library: Browse sheet now has #libSectionSelect — a dropdown of every section built from the tree (.trow elements), picking one clicks the tree row (works though the tree is hidden). listMeta and #fcNewBtn hidden on mobile. Sheet has bottom padding so the tab bar doesn't cover the last row.
 - QA pattern for Academy: use tab clicks (document.getElementById('tabAcademy').click()), NOT fcSwitchView — only the tab listener calls the academy hijack that renders.
+
+
+## Round 3 (in progress — user feedback)
+1. Header mobile: hide #helpBtn, #essayExportBtn, #essayClearBtn, #substackBtn, #contentBackupBtn in the ≤820px CSS block (they overflow off-screen, especially in landscape). Keep theme toggle.
+2. Library: prev/next arrows in the read view — add stepEntry(d) helper in app.js (same logic as the ArrowUp/Down keyboard handler at ~line 1462: clamp state.cursor, openFromList, scrollIntoView), buttons #readPrev/#readNext rendered in renderEntry's entryMeta, plus a position indicator.
+3. Remove the "Your notes (this entry)" draft panel: buildDraftPanel(e) call at app.js ~line 636 and wireDraftPanel() at ~677 (the panel is obsolete now that Edit exists; the draft data/draftGet/draftSet functions can stay dormant).
+4. Graph mobile belts-only: in graph.js spread step (~line 891), the `else if (d < SPREAD_MINR)` branch pushes ALL nearby non-belt nodes outward ("make room") — on ≤820px skip that push (window.matchMedia('(max-width:820px)').matches) so only the belt members animate; everything else stays put. This is the user's "nodes don't move, just show the belts" request and removes the mobile lag.
