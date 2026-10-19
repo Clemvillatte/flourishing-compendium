@@ -12,13 +12,30 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 339** — Practise relational autonomy
 
-Recognise that your autonomy is not achieved through isolation but through relationship. Relational autonomy is the capacity for self-determination that is developed and exercised within relationships of care and support. Seek relationships that enhance, not diminish, your autonomy.
+Recognise that your autonomy develops through relationship rather than in isolation. Relational autonomy is the capacity for self-determination that is formed and exercised within relationships of care and support. Some relationships build that capacity and some erode it; seek the ones that build it.
 
 (Nedelsky, 1989, "Reconceiving Autonomy," Yale Journal of Law and Feminism, 1(1), 7-36; Mackenzie and Oshana, 2007, "Relational Autonomy," in Autonomy, Self, and Social Identity.)
 
-**Plain words** Relational autonomy: self-determination isn't built in isolation, it's built in relationships of support — the lone-wolf version is a myth that keeps people weak. So seek relationships that enlarge your autonomy, and notice which quietly shrink it.
+### The core finding
 
-*For example:* The partner who encourages the night class, covers dinner on study nights, and asks real questions about the essays — the degree says "independent achievement," but the autonomy was built by two.
+The founding statement of the view, from Nedelsky:
+
+> "if we ask ourselves what actually enables people to be autonomous, the answer is not isolation, but relationships—with parents, teachers, friends, loved ones" — Jennifer Nedelsky, "Reconceiving Autonomy" (1989), as quoted in the [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/feminism-autonomy/)
+
+The point is causal, and it cuts both ways. As the encyclopedia summarises Friedman's account: "Restrictive or oppressive social relationships may hamper an agent's ability to develop the capacity for critical reflection that is required for autonomy, or they may provide role models, self-trust, self-confidence, and so forth, which enhance the capacity" (Friedman 2003, quoted in SEP).
+
+### Speaking for yourself
+
+Mackenzie locates the self-authorisation at the centre of autonomy inside relationships too: an autonomous agent must "regard herself as the legitimate source of the authority, as able, and authorized, to speak for herself," and "such attitudes towards oneself can only be sustained in relations of intersubjective recognition" (Mackenzie 2008, quoted in SEP).
+
+**Plain words** Autonomy looks like the lone decision; it usually runs on borrowed infrastructure: the teacher who built the skill, the partner who guards the study time, the friend who says the hard thing. Audit your closest relationships with one question: after time with this person, do I feel more or less able to decide for myself?
+
+*For example:* A partner encourages the night class, covers dinner on study nights, and asks real questions about the essays. The degree will read as an independent achievement; the autonomy was built by two.
+
+## Sources
+
+- [Natalie Stoljar, "Feminist Perspectives on Autonomy", Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/feminism-autonomy/) — Nedelsky on relationships enabling autonomy; Friedman on relationships enhancing or hampering; Mackenzie on intersubjective recognition
+
 ## Stories
 
 - [[ST245 — Noddings and the Receptive Moment|245. Noddings and the Receptive Moment]]
