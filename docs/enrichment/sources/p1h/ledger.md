@@ -70,3 +70,12 @@ staged by the save script).
 - Inherited, NOT opened/verified: psychology-parallels claims (Specular system Ryall et al. 2013; ESM Killingsworth & Gilbert 2010; Danner et al. 2010; Ben-Zur et al. 2004) — preserved per protocol, flagged for supervisor.
 - Saturation: Fasting (xinzhai), Pure knowing, Xin, Emotional attention, Penetration all already cite D046 (mention scan + prior band reads). No justified new proposals.
 - Validator on final: ok; protected fields untouched vs HEAD; exact-quotation check all OK.
+
+## D047 — Practice sitting and forgetting (zuowang) (done 2026-10-19; no advisor QC per speed directive, item 7 of session)
+
+- Opened: same ETH Legge Zhuangzi PDF as D056/D046 (no new source; the zuowang dialogue extracted in this session, PDF p. 35, Book VI section 9).
+- Verified verbatim: "My connexion with the body and its parts is dissolved; my perceptive organs are discarded. Thus leaving my material form, and bidding farewell to my knowledge, I am become one with the Great Pervader. This I call sitting and forgetting all things."; "One (with that Pervader), you are free from all likings; so transformed, you are become impermanent."; "You have, indeed, become superior to me! I must ask leave to follow in your steps."
+- The story's three-step progression (benevolence/righteousness, ceremonies/music, sit-and-forget) is described as the story's order, not as a training regimen claim.
+- Inherited, NOT opened/verified: psychology-parallels claims (Brewer et al. 2011 DMN; Letheby and Griffiths 2017) — preserved per protocol, flagged for supervisor.
+- Saturation: Ego dissolution, Abgeschiedenheit, Gelassenheit, Via negativa already linked; Zuowang concept already cites D047. No justified new proposals.
+- Validator on final: ok; exact-quotation check all OK; protected fields untouched.

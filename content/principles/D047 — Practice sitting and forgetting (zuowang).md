@@ -12,13 +12,21 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 47** — Practice sitting and forgetting (zuowang)
 
-Sit and let fall away: limbs, body, hearing, sight, self. What remains: open, present awareness — is the healthiest thing in you.
+The source is a short dialogue in Zhuangzi 6. Yan Hui reports progress to Confucius three times: first he has forgotten benevolence and righteousness, then ceremonies and music, and each time Confucius calls it an advance. The third report is the principle's namesake:
+
+> "My connexion with the body and its parts is dissolved; my perceptive organs are discarded. Thus leaving my material form, and bidding farewell to my knowledge, I am become one with the Great Pervader. This I call sitting and forgetting all things." (Zhuangzi 6, trans. James Legge, [ETH Zurich](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
+
+Confucius's response names what the forgetting is for: "One (with that Pervader), you are free from all likings; so transformed, you are become impermanent." He ends the exchange with "You have, indeed, become superior to me! I must ask leave to follow in your steps."
 
 (Zhuangzi 6.)
 
-**Plain words** Sit and let it all fall away — limbs, body, hearing, sight, self. What remains, the open present awareness, is the healthiest thing in you. It's not spacing out; it's putting down the heavy bundle of "me" for a while.
+**Plain words** In the story Hui sheds things in an order: first ideas about virtue, then ritual, then the body's parts and perception, then knowledge itself. The everyday version is smaller. Pick a time when nothing is being asked of you, and practice not being the person with the to-do list for a while. The bundle you put down is the one the story has Hui put down last.
 
-*For example:* The moment on a long walk when you forget you're walking — you were just part of the street — that's the taste of it.
+*For example:* On a long walk, notice the moments when you forget you are walking: the street, the body and the plan all drop out of attention. The story treats that dropping as something you can also practice sitting still.
+
+## Sources
+
+- [Zhuangzi, trans. James Legge, ETH Zurich](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — Book VI, section 9, the Yan Hui dialogue (PDF p. 35)
 
 ## Psychology parallels
 
