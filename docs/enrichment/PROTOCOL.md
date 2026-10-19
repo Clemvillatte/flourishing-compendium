@@ -80,6 +80,13 @@ Paragraph plan (adapt; do not mechanically repeat one skeleton across pages):
 - Vary sentence length. Use "is" and "has". First person never. Do not address the reader as "you" except where quoting a principle.
 - Technical terms are welcome when defined once.
 
+Speed directive (owner, 2026-10-19): same binding rules as the principles protocol —
+advisor QC only on the first item and every 5th (plus when uncertain), no separate draft
+file per item (write to content/ and push WIP), one commit per item, research in batches
+(one source opening serves several concepts), skip-ahead on pages that already meet the
+bar. Target <= 5 minutes per simple item. Zero hallucination, opened sources, validator
+clean, humanised text — the quality bar does not move.
+
 ## 4. Connection saturation (the part that makes the wiki a wiki)
 For each concept find every sensible neighbour and make the edge exist:
 - semantic: synonyms, near-synonyms, opposites, parent/child concepts, same idea in other traditions

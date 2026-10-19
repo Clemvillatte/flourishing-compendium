@@ -87,6 +87,27 @@ found 417 principles with >=50% of their Plain words copied from their own body.
 entry in your band is on that list, replacing its Plain words is part of the item, not
 optional. Check the list before and after your band's items.
 
+## Speed directive (owner, 2026-10-19): quality stays, overhead goes
+
+The owner needs throughput. These are BINDING and do not lower the quality bar (zero
+hallucination, verbatim quotes with locators, humanised prose, validator clean):
+
+1. ADVISOR QC: first item of the session and every 5th item, plus when genuinely
+   uncertain — NOT every item. The validator + supervisor spot-checks cover the gap.
+2. NO SEPARATE DRAFT FILE per item. Write directly to the content file and push WIP
+   (uncommitted work is lost; a half-written page in content/ pushed to GitHub is
+   recoverable). The drafts/ directory is only for research notes you want to keep.
+3. ONE COMMIT PER ITEM: run state `start` and `done` around the work, but push once
+   after the item is validated (the ~15-min cadence still applies mid-item).
+4. RESEARCH IN BATCHES: one opened source should yield quotes for SEVERAL principles
+   (mine the Dhammapada, MN, Legge, etc. for 3-5 principles per opening). Do not
+   re-open the same source per item; keep notes in the state file.
+5. SKIP-AHEAD: if a page already meets the bar (verbatim quote present, plain words
+   not a replicate, 40-300 prose words), do a light check, mark done with a note, and
+   move on. Full effort only on weak pages.
+
+Target: <= 5 minutes per simple item, <= 10 for research-heavy ones.
+
 ## Band structure
 
 Principles bands are minted on the TASKBOARD from `docs/enrichment/queue-principles.json`
