@@ -27,9 +27,13 @@ The site (https://clemvillatte.github.io/flourishing-compendium/) works on deskt
 
 ## Status
 - [x] Handoff written (this file)
-- [x] Implemented: see commits "Mobile pass 1 (…)" — bottom tab bar, dvh fix, graph controls collapse + drawer bottom sheet, library browse sheet, randomiser minimal, editor full-screen
-- [x] jsdom tests still pass (74/74)
-- [x] Deployed and live-verified (md5 match)
+- [x] Implemented and deployed: bottom tab bar (fixed, safe-area aware), dvh fix, Randomiser Filters button (toolbar hidden until tapped), Library Browse slide-over sheet (closes on entry pick / view switch), Graph ☰ menu button + collapsible controls + drawer as collapsed-by-default bottom sheet (tap header to expand), editor full-screen <600px, research rail raised above the tab bar
+- [x] Academy: watched videos now dim + "✓ Watched" badge on the row (live-updates when toggled in the player), and watch state persists in localStorage key 'acadWatched' (previously lost on every reload)
+- [x] jsdom tests pass (74/74)
+- [x] Live-verified in cloud browser with iPhone metrics (390x844): tabs, no horizontal overflow, Randomiser filters, Library browse sheet open/pick/close, Academy watched badge + persistence, graph menu button + hidden controls + hidden legend
+- [ ] NOT live-verified: the graph drawer bottom-sheet expand/collapse gesture (cloud browser cannot finish the graph arrange under mobile emulation — it needs 5+ min there; a real phone is much faster). Code is in graph.js openDrawer (sheet-collapsed class) + the gdrawer-head click handler; CSS in the ≤820px block. VERIFY ON A REAL PHONE: select a node → sheet peeks at the bottom → tap header → expands → tap again → collapses. If the peek hides the canvas too much, tune .gdrawer max-height (64dvh) or start expanded instead.
+- [ ] Also verify on a real phone: graph touch pan/pinch (handlers exist: touchstart/touchmove in graph.js), and overall performance of the arrange on phone hardware. If the arrange is too slow on the phone, consider starting with fewer kinds visible (kindOn concept:false default helps) or reducing warmup ticks.
+- Note: fcSwitchView('academy') alone does not render the Academy — click the #tabAcademy button (its click handler calls renderAcademy).
 - QA in cloud browser with iPhone metrics: browser_use skill → browser_start({transport:'cloud', url}), then browser_cdp Emulation.setDeviceMetricsOverride {width:390,height:844,deviceScaleFactor:3,mobile:true}; poll `window.wikiData.length > 1000` before testing; the graph arrange takes 15-120s in the cloud (poll #graphArranging hidden, FIRST wait for it to become visible to avoid the race); always browser_stop({}) at the end.
 
 ## Gotchas

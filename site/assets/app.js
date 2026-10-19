@@ -3107,7 +3107,17 @@ function openEmbeddedPlayer(src, url){
     doneBtn.textContent = A.completed.has(src.source_id)?'✓ Watched':'Mark as watched';
     // reflect the change on the media rows in the list behind the player
     document.querySelectorAll('.acad-media-row[data-src-id="' + src.source_id + '"]').forEach(function(r){
-      r.classList.toggle('watched', A.completed.has(src.source_id));
+      const on = A.completed.has(src.source_id);
+      r.classList.toggle('watched', on);
+      let b = r.querySelector('.acad-watched-badge');
+      if (on && !b) {
+        b = document.createElement('span');
+        b.className = 'acad-watched-badge';
+        b.textContent = '\u2713 Watched';
+        r.appendChild(b);
+      } else if (!on && b) {
+        b.remove();
+      }
     });
     saveWatched();
   };

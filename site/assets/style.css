@@ -1436,6 +1436,8 @@ body.graph-mode #randView, body.graph-mode #wikiView { display:none; }
   #topbar { flex-wrap:nowrap; padding:8px 12px; }
   #treeToggle, #listToggle { display:none; }
   #hints { display:none !important; }
+  /* keep the floating research rail above the bottom tab bar */
+  #researchLaunchers { bottom:calc(76px + env(safe-area-inset-bottom)) !important; }
 
   /* — Randomiser: minimal, filters behind a button — */
   .rand-filters-btn {
