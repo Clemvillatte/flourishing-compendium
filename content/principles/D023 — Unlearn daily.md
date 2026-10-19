@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 23** — Unlearn daily
 
-Chapter 48 gives the formula the principle runs on, in the lines quoted below. Learning adds daily; the student of the Tao subtracts daily. DDJ 20 gives the social texture of the subtraction: the many are "happy and exultant, as if enjoying a full feast", while the speaker is set apart, with less to defend ([Legge, DDJ 20](https://www.gutenberg.org/cache/epub/216/pg216.txt)).
+Chapter 48 gives the formula the principle runs on, in the lines quoted below. Learning adds daily; the student of the Tao subtracts daily. DDJ 20 gives the social texture of the subtraction: the many "look satisfied and pleased, as if enjoying a full banquet", while the speaker is set apart, with less to defend ([Legge, DDJ 20](https://www.gutenberg.org/cache/epub/216/pg216.txt)).
 
 > He who devotes himself to learning (seeks) from day to day to increase (his knowledge); he who devotes himself to the Tao (seeks) from day to day to diminish (his doing). (DDJ 48, [Legge](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 
