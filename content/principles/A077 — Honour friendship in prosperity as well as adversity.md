@@ -12,13 +12,25 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 77** — Honour friendship in prosperity as well as adversity
 
-It is easy to be a friend in adversity. It is harder to be a friend in prosperity: not to be envious of another's success, not to be too busy, not to take the friend for granted. Celebrate your friends' good fortune as if it were your own.
+Aristotle poses the question directly:
+
+> "Friendship, then, is more necessary in bad fortune, and so it is useful friends that one wants in this case; but it is more noble in good fortune, and so we also seek for good men as our friends, since it is more desirable to confer benefits on these and to live with these." (Aristotle, [Nicomachean Ethics IX.11, Ross translation](https://ia600704.us.archive.org/26/items/aristotle-entire-collected-writings/Aristotle/Nicomachean%20Ethics%20%5Btrans.%20Ross%20%26%20Brown%5D/Aristotle%20-%20Nicomachean%20Ethics%20(Oxford%2C%202009).pdf))
+
+The asymmetry runs both ways. In adversity, friendship is the only refuge ([NE VIII.1](https://ia600704.us.archive.org/26/items/aristotle-entire-collected-writings/Aristotle/Nicomachean%20Ethics%20%5Btrans.%20Ross%20%26%20Brown%5D/Aristotle%20-%20Nicomachean%20Ethics%20(Oxford%2C%202009).pdf)); the friend's duty is to go unasked to the aid of those in need, especially when they have not demanded it, since such action is nobler and pleasanter for both persons. In prosperity the duty changes: to join readily in the friend's activities and share their good fortune, while being tardy about coming forward to receive benefits, since it is not noble to be keen to receive them ([NE IX.11](https://ia600704.us.archive.org/26/items/aristotle-entire-collected-writings/Aristotle/Nicomachean%20Ethics%20%5Btrans.%20Ross%20%26%20Brown%5D/Aristotle%20-%20Nicomachean%20Ethics%20(Oxford%2C%202009).pdf)).
+
+The presence of friends in prosperity implies both a pleasant passing of time and the pleasant thought of their pleasure at our own good fortune; for that cause, Aristotle concludes, we ought to summon our friends readily to share our good fortunes ([NE IX.11](https://ia600704.us.archive.org/26/items/aristotle-entire-collected-writings/Aristotle/Nicomachean%20Ethics%20%5Btrans.%20Ross%20%26%20Brown%5D/Aristotle%20-%20Nicomachean%20Ethics%20(Oxford%2C%202009).pdf)).
 
 (NE VIII.5, VIII.9, IX.11; EE VII.3.)
 
-**Plain words** Being a friend in hard times is easy to admire. Being one in good times is harder: not envying their success, not being too busy, not taking them for granted. Celebrate your friends' luck as if it were your own.
+**Plain words**
+The necessity runs one way and the nobility the other: bad times need friends to help, good times need friends to share with and to benefit. Aristotle's prosperity duty is oddly specific: join readily in your friend's activities, but hang back from being the object of their kindness. The hard part he names is not being busy; it is being glad. The pleasant thought of their pleasure at your own good fortune requires that you actually take pleasure in it.
 
-*For example:* Showing up to a friend's launch party, and meaning your congratulations, is harder than showing up to their bad day.
+*For example:*
+Showing up to a friend's launch party, and meaning your congratulations, is harder than showing up to their bad day.
+
+## Sources
+
+- [Aristotle, Nicomachean Ethics, W. D. Ross translation (Oxford 2009 edition), Internet Archive](https://ia600704.us.archive.org/26/items/aristotle-entire-collected-writings/Aristotle/Nicomachean%20Ethics%20%5Btrans.%20Ross%20%26%20Brown%5D/Aristotle%20-%20Nicomachean%20Ethics%20(Oxford%2C%202009).pdf) — Book IX chapter 11 (the necessary/noble sentence quoted verbatim; go-unasked, tardy-to-receive and summon-readily passages cited) and Book VIII chapter 1 (only-refuge cited); same edition opened for A043 and A049
 
 ## Practice kernels
 

@@ -37,7 +37,8 @@
   "A014",
   "A017",
   "A043",
-  "A049"
+  "A049",
+  "A077"
  ],
  "in_progress": null,
  "flagged": {
@@ -56,6 +57,6 @@
   "D107": "inherited Nietzsche/Deleuze comparison block in Philosophy parallels (Colebrook 2002 source note, earlier agent) untouched and unverified in this takeover — supervisor to re-check if desired"
  },
  "missing_concepts": [],
- "sources_checked": 25,
- "updated": "2026-10-19T12:23:32+00:00"
+ "sources_checked": 26,
+ "updated": "2026-10-19T12:25:00+00:00"
 }
