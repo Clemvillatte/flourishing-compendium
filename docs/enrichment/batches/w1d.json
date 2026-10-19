@@ -7,15 +7,16 @@
   "Family systems theory",
   "Fixed views of self",
   "Four immeasurables",
-  "Fusion of horizons"
+  "Fusion of horizons",
+  "Future time perspective"
  ],
- "in_progress": "Future time perspective",
+ "in_progress": null,
  "flagged": {
   "The eternal contribution": "compendium coinage, not a traditional term: page says so in its first sentence; written for the sense BE068 uses"
  },
  "missing_concepts": [],
- "sources_checked": 39,
- "updated": "2026-10-19T08:05:50+00:00",
+ "sources_checked": 45,
+ "updated": "2026-10-19T08:06:22+00:00",
  "qc_log": {
   "Escape from freedom": "approved after 4 advisor QC rounds: quotes verified against opened sources (panarchy ch. V excerpt, Wikipedia, IEP Totalitarianism 2.d, SEP Critical Theory 1.4); Simondon Individuation and The having mode removed from Related; cross-tradition links labelled comparisons; sources_checked: 4",
   "Eternal recurrence": "milestone advisor QC applied: practical-reading attribution qualified; AF069 described as the compendium's separate comparison; Panta rhei, Corsi e ricorsi and Three thousand realms claims externally verified; 'Thou art a God' capitalisation matches primary text",
@@ -23,7 +24,8 @@
   "Family systems theory": "self-QC: Bowen Center page fetched (quotes verbatim); Minuchin quotes from a Wayne State open-access analysis quoting Minuchin 1974; evidence limits from Mueller et al. 2022 scoping review; 'Minuchin's caution' over-attribution fixed to 'the theory's caution'",
   "Fixed views of self": "self-QC: Dweck 2011 chapter and 2017 CDP PDFs, Crocker 2002 record and CSW lab page, Burgoyne et al. 2020 PDF all opened; failed-premises result included per protocol (no support for most premises; fixed-mindset students outperformed in one sample after failure)",
   "Four immeasurables": "self-QC: definitional quotes verbatim from search-result excerpts (Wikipedia, IMC, Abhayagiri, Buddhanet, Free Buddhist Audio, Britannica); direct-enemy claims limited to what buddhanet states; yogic fourfold stance marked as cross-tradition comparison",
-  "Fusion of horizons": "self-QC: Truth and Method quotes verbatim from a published excerpt PDF with page numbers; SEP and IEP Gadamer entries opened via search; reader address fixed in compendium paragraph"
+  "Fusion of horizons": "self-QC: Truth and Method quotes verbatim from a published excerpt PDF with page numbers; SEP and IEP Gadamer entries opened via search; reader address fixed in compendium paragraph",
+  "Future time perspective": "self-QC: Zimbardo and Boyd 1999 passages verbatim from review articles; 'prosocial work behaviours' hypothesis marked as the authors' reading rather than a finding; balanced time perspective caveat included"
  },
  "incidents": [
   "2026-10-19: enriched content/concepts/The eternal contribution.md by mistake (not in w1d manifest; belongs to w1ae). Content file reverted to seed in this commit; validated draft preserved at docs/enrichment/drafts/w1d/The eternal contribution.md for the w1ae agent. Reciprocal proposals for it removed from proposals/w1d.json."
