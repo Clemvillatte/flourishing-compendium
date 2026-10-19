@@ -12,13 +12,20 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 6** — Move by return (fu): everything renews in cycles
 
-All things return to their root and begin again. Plan for the turning of cycles — of energy, fortune, mood, season — instead of extrapolating any straight line.
+Chapter 16 of the Daodejing watches the vegetable world: things grow luxuriant, then each returns to its root, and the return is not treated as loss. Legge's chapter 40 gives the axiom its shortest form: the movement of the Tao proceeds by contraries, and weakness marks the course of its works. Chapter 16 goes on to call knowing this rule the beginning of intelligence: "To know that unchanging rule is to be intelligent; not to know it leads to wild movements and evil issues."
 
-(DDJ 16, 25, 40.)
+> "All things alike go through their processes of activity, and (then) we see them return (to their original state). When things (in the vegetable world) have displayed their luxuriant growth, we see each of them return to its root. This returning to their root is what we call the state of stillness; and that stillness may be called a reporting that they have fulfilled their appointed end." (Daodejing 16, [Legge](https://www.gutenberg.org/ebooks/216))
 
-**Plain words** Everything moves in cycles — energy, fortune, mood, season, motivation. Nothing travels in a straight line for long. Plan for the return instead of extrapolating today's streak forever: your energy will dip again, and that's not failure, it's the shape of things.
+Read as the compendium reads it, the chapter gives a planning rule. The principle's examples of cycling things are energy, fortune, mood and season; the rule is to plan for their return instead of extrapolating a straight line through the current one. A plan built this way has room to slow down and reconsider.
 
-*For example:* Farmers don't panic in winter; they know the rotation. The smart move in a low-energy season is rest and prep, not self-blame.
+**Plain words**
+A plan can leave every available hour committed to the next task. Ask what you would postpone if you needed to slow down tomorrow. Leave yourself that option instead of assuming the present pace must continue.
+
+*For example:* Suppose a project has occupied several evenings. As a modern application, leave the next evening unplanned before accepting another task, then reassess what needs doing.
+
+## Sources
+
+- [The Tao Teh King, trans. James Legge (Project Gutenberg)](https://www.gutenberg.org/ebooks/216) — ch. 16, 40
 
 ## Psychology parallels
 
