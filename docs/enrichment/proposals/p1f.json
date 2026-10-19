@@ -4,33 +4,38 @@
   {
    "into": "Anger",
    "link": "D074 — Don't fight angry",
-   "why": "DDJ 68 pairs fighting skill with freedom from rage; the Anger concept page is a seed stub citing no principle about how to handle anger; D074 is the compendium's principle on exactly that"
+   "why": "D074 applies Daodejing 68's account of skilled action without anger",
+   "notes": "DDJ 68 pairs fighting skill with freedom from rage; the Anger concept page is a seed stub citing no principle about how to handle anger; D074 is the compendium's principle on exactly that"
   },
   {
    "into": "The return to the inner self",
    "link": "D088 — Don't take offense personally (the empty boat)",
-   "why": "the existing list links ST004, the empty-boat parable also treated in D088; proposed contextual cross-link (stub page, no developed argument)"
+   "why": "the page's empty-boat parable is the same story D088 draws its instruction from",
+   "notes": "the existing list links ST004, the empty-boat parable also treated in D088; proposed contextual cross-link (stub page, no developed argument)"
   },
   {
    "into": "Benign versus malicious envy",
    "link": "D117 — Don't manufacture envy",
-   "why": "seed-stub concept on envy types (van de Ven 2009); the compendium's principle on the conditions that manufacture envy is D117; concept cites no D117"
+   "why": "the envy distinctions on the page are the conditions D117's instruction works on",
+   "notes": "seed-stub concept on envy types (van de Ven 2009); the compendium's principle on the conditions that manufacture envy is D117; concept cites no D117"
   },
   {
    "into": "Buddhist emptiness of inherent nature",
    "link": "B122 — Use two truths (conventional and ultimate)",
-   "why": "the concept page quotes the MMK 24.8 two-truths verse (B122's source) but cites no B122; B122 is the compendium's principle on that verse"
+   "why": "the page quotes the MMK 24.8 verse that B122 reads",
+   "notes": "the concept page quotes the MMK 24.8 two-truths verse (B122's source) but cites no B122; B122 is the compendium's principle on that verse"
   },
   {
    "into": "Meaning",
    "link": "P183 — Make your life significant by fusing ideal with active virtue",
-   "why": "the concept page defines life being about something (purpose, coherence, mattering) and cites SEP's Meaning of Life, but its philosophy parallels section is empty; P183 is the compendium's principle on a life's significance (James's marriage of ideal and active virtue)"
+   "why": "James's Talks to Teachers passage joins an ideal to active virtue as his account of a significant life",
+   "notes": "the concept page defines life being about something (purpose, coherence, mattering) and cites SEP's Meaning of Life, but its philosophy parallels section is empty; P183 is the compendium's principle on a life's significance (James's marriage of ideal and active virtue)"
   },
   {
    "into": "Revolt",
    "link": "E055 — Practise the recognition of the absurd",
-   "why": "revolt is Camus's answer to the absurd; the concept page cites the revolt principle (E056) but not the recognition principle that names the condition revolt answers",
-   "notes": "concept body read via enrich_find mention; cites E056 only"
+   "why": "Camus's revolt sustains the confrontation with the absurd",
+   "notes": "concept body read via enrich_find mention; cites E056 only | revolt is Camus's answer to the absurd; the concept page cites the revolt principle (E056) but not the recognition principle that names the condition revolt answers"
   }
  ],
  "notes": "p1f proposals (genuineflourishing33). Reciprocals only; targets verified by reading the pages. Two truths->B122 removed after explicit check (the concept already cites B122). All are editorial proposals for supervisor review; stub targets do not develop arguments. Buddhist emptiness of inherent nature->B122 added after focused mention search (page quotes the MMK 24.8 verse, no B122 link). Meaning->P183 added after Pragmatism milestone saturation check (candidate read: page's philosophy parallels empty). Everyday creative activities inspected and no proposal warranted (its subject is creative activity and well-being; creative hopelessness appears only via a kernel list)."

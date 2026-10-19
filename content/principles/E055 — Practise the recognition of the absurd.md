@@ -12,22 +12,24 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 447** — Practise the recognition of the absurd
 
-Camus defines the absurd as a relation, not a fact about the world: it lives between what a person asks for and what the world returns. Neither side is absurd on its own; the mismatch exists only while someone keeps asking.
+Camus is careful about where the absurd sits. It lies in neither of the elements compared, in neither the human demand nor the world's silence, but in their confrontation; he calls it "essentially a divorce".
 
-> "At this point of his effort man stands face to face with the irrational. He feels within him his longing for happiness and for reason. The absurd is born of this confrontation between the human need and the unreasonable silence of the world." (Camus, 1942/1955, The Myth of Sisyphus, trans. Justin O'Brien.)
+> "At this point of his effort man stands face to face with the irrational. He feels within him his longing for happiness and for reason. The absurd is born of this confrontation between the human need and the unreasonable silence of the world." (Camus, 1942/1955, The Myth of Sisyphus, trans. Justin O'Brien, "An Absurd Reasoning: Absurd Walls".)
 
-The practice the principle names is to keep that confrontation open. Camus rejects the exits that dissolve the question: physical suicide, and the leap of faith that invents an answer the silence never gave. What remains he calls revolt, "a constant confrontation between man and his own obscurity": "That revolt gives life its value. Spread out over the whole length of a life, it restores its majesty to that life." (Camus, 1942/1955, The Myth of Sisyphus, trans. Justin O'Brien.)
+The instruction to face the condition rather than flee it follows from what Camus says about the exits. Camus argues that suicide settles the absurd by ending the confrontation. He also criticises existential philosophers who turn it into a reason for religious hope, calling that move an escape. His proposed response is revolt, a continuing confrontation without resignation:
+
+> "That revolt gives life its value. Spread out over the whole length of a life, it restores its majesty to that life." (Camus, 1942/1955, The Myth of Sisyphus, trans. Justin O'Brien, "An Absurd Reasoning: Absurd Freedom".)
 
 (Camus, 1942/1955, The Myth of Sisyphus; Camus, 1951/1956, The Rebel.)
 
 **Plain words**
-The world never promised you a reason, and it will not send one. You keep asking because asking is what a human mind does. The absurd is the gap between your question and the silence, and Camus's point is that the gap is livable once you stop trying to close it with an invented answer. Notice the gap, name it, and keep going with the day's actual work. The noticing is the practice; pretending you were answered is the failure.
+You want an explanation that makes your life fit together, but you may not have one. Camus asks what it would mean to keep living without pretending that this question has been settled. You can choose what to do today while the larger demand for an explanation remains unanswered.
 
 **For example**
-A runner trains four years for one trial, and a flu arriving that week takes it out. The fairness instinct goes looking for a reason: a lesson, a hidden plan. Recognition of the absurd is the moment she says instead that nothing was owed and nothing was broken; the question was hers, the silence was the world's. She laces up the next day without a story.
+Imagine a runner who misses a trial because of flu. She knows why she could not compete, but still asks why years of effort should end this way. An everyday application of Camus's account would be to acknowledge that she has no satisfying answer to that larger question while deciding what to do next.
 ## Sources
 
-- [The Myth of Sisyphus, trans. Justin O'Brien (Archive.org full text)](https://archive.org/stream/AlbertCamusTheMythOfSisyphus/Albert%20Camus%20-%20The%20Myth%20Of%20Sisyphus_djvu.txt) — the definition passage and the revolt passage, verified against this text
+- [Camus, The Myth of Sisyphus, trans. Justin O'Brien, 1955 (Archive.org full text)](https://archive.org/stream/AlbertCamusTheMythOfSisyphus/Albert%20Camus%20-%20The%20Myth%20Of%20Sisyphus_djvu.txt) — "An Absurd Reasoning": "Absurd Walls" (the definition passage), "Philosophical Suicide" (forced hope, the leap), "Absurd Freedom" (the revolt passage)
 ## Stories
 
 - [[ST277 — Sisyphus Is Happy|277. Sisyphus Is Happy]]
