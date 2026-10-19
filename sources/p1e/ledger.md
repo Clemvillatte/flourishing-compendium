@@ -517,3 +517,10 @@ Advisor QC (2026-10-19): quotes verified (BQ1 ch. 22 sentence, BQ2 ch. 68 verse 
 - Honest framing per QC standards: "usually" and "generally" qualifiers preserved; the model presented as a hypothesis, not a universal finding; compendium application labelled (the intuition-test and story-tactic advice are the compendium's). "Verdict rendered in half a second" timing claim (not in the opened abstract) removed from the example; em dashes removed.
 - Inherited, NOT opened: Haidt 2012, Graham et al. 2013, Greene et al. 2001, Greene 2013, Hume/Kant framing, Adam Smith, Buddhism parallels — flagged in state.
 - Validator: ok; protected fields untouched vs HEAD.
+
+## CO079 — Recognise cognitive ageing (done 2026-10-20 by worker-p1e-4f2c9b1d, item 27, final item)
+
+- Opened via actual fetches: (1) Salthouse 2004 "What and When of Cognitive Aging" (APS journal page, fetched) — verified verbatim: "Despite common assumptions to the contrary, age-related declines in measures of cognitive functioning (a) are relatively large, (b) begin in early adulthood, (c) are evident in several different types of cognitive abilities, and (d) are not always accompanied by increases in between-person variability." (2) Hartshorne & Germine 2015 (Europe PMC REST PMID 25770099) — verified verbatim: "Our results reveal considerable heterogeneity in when cognitive abilities peak: Some abilities peak and begin to decline around high school graduation; some abilities plateau in early adulthood, beginning to decline in subjects' 30s; and still others do not peak until subjects reach their 40s or later." Sources_checked +1 (48 -> 49).
+- Honest framing: body claims kept at what the two fetched abstracts verify. The parallel bullet's "improve into the 60s-70s" specificity is NOT verifiable from the opened abstracts (HG 2015 abstract stops at "40s or later"); flagged specifically. Compendium application labelled.
+- Inherited, NOT opened: Stern 2002; Lövdén et al. 2010; Carstensen et al. 2003; Reed & Carstensen 2012; Ecclesiastes; Talleyrand; Marcus Aurelius parallels — flagged in state.
+- Validator: ok; protected fields untouched vs HEAD.
