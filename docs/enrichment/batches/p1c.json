@@ -16,11 +16,12 @@
   "D070",
   "D089",
   "D092",
-  "B026"
+  "B026",
+  "B127"
  ],
- "in_progress": "B127",
+ "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
- "sources_checked": 14,
- "updated": "2026-10-19T11:49:06+00:00"
+ "sources_checked": 15,
+ "updated": "2026-10-19T11:50:17+00:00"
 }

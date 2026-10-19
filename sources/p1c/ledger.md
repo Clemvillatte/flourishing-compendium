@@ -192,3 +192,16 @@ copied from the opened URL in this session.
   proposals.
 - Inherited-not-reverified: Duckworth et al. 2016 situational-strategies claim in
   psychology parallels (untouched link section).
+
+## B127 — Dismantle the raft when you've crossed (MN 22)
+
+- Opened: https://www.accesstoinsight.org/tipitaka/mn/mn.022.than.html (MN 22,
+  Thanissaro; full raft simile fetched verbatim). Blockquote: closing line ("let go even
+  of Dhammas, to say nothing of non-Dhammas"). Inline: "for the purpose of crossing
+  over, not for the purpose of holding onto."
+- QC: advisor round 1 flagged two unsupported framings ("most likely to be carried",
+  truth-irrelevance in the example); replaced with the advisor's scoped text; opening
+  paragraph split per the short-paragraph rule. Validated vs pre-item baseline 2b23dc1.
+- Saturation: Cognitive defusion concept already cites B127 (twice); no new proposals.
+- Inherited-not-reverified: Hayes et al. 2011 defusion claim and the Wittgenstein
+  Tractatus 6.54 note in the link sections (untouched).

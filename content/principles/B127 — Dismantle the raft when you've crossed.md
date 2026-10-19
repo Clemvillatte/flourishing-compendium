@@ -12,13 +12,22 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 127** — Dismantle the raft when you've crossed
 
-Once the teaching has done its work, let it go. Carrying it everywhere is the new attachment.
+The simile comes from MN 22. A man crosses a great expanse of water on a raft he has lashed together from grass, twigs, branches and leaves. Having reached the further shore, he might hoist the raft on his head or carry it on his back, and the Buddha asks whether that would be doing what should be done with the raft. The monks answer no.
 
-(Alagaddupama Sutta, MN 22.)
+What should be done is to drag it on dry land or sink it in the water, and go wherever you like. The Dhamma itself, he says, is taught "for the purpose of crossing over, not for the purpose of holding onto."
 
-**Plain words** Once the teaching has done its work, let it go — carrying it everywhere is the new attachment. Dismantle the raft when you've crossed. The framework that freed you becomes the cage the moment you start defending it.
+> "Understanding the Dhamma as taught compared to a raft, you should let go even of Dhammas, to say nothing of non-Dhammas." (MN 22, [Thanissaro, accesstoinsight](https://www.accesstoinsight.org/tipitaka/mn/mn.022.than.html))
 
-*For example:* The self-help book that saved you in your twenties, defended like scripture in your forties — the raft, carried inland.
+The compendium applies the simile by asking what task a framework is meant to serve and whether that task is complete.
+
+**Plain words**
+A tool that saved you earns a kind of loyalty, and loyalty to a tool is misplaced once the job is done. The simile does not say the raft was bad; it says the crossing was the point. Ask what a teaching is still doing for you, and let the answer decide whether it travels.
+
+*For example:* Suppose a self-help book helped during an earlier difficulty. As a modern application, identify which advice still addresses your present situation and which you no longer need.
+
+## Sources
+
+- [MN 22 (Alagaddupama Sutta), trans. Thanissaro Bhikkhu (accesstoinsight)](https://www.accesstoinsight.org/tipitaka/mn/mn.022.than.html) — the raft simile
 
 ## Stories
 
