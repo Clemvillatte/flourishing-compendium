@@ -21,7 +21,7 @@
  "in_progress": "D005",
  "flagged": {
   "D017": "QC note: inherited scab example kept per protocol; advisor calls it a medical claim needing a source; supervisor to arbitrate",
-  "BI012": "owner correction applied by genuineflourishing30: Carter quote now reads 'in one word', verified verbatim against opened classics.mit.edu Enchiridion ch.1",
+  "BI012": "QC round 3: list narrowed to principle's own directive + thyroid evidence only; inherited example still flagged for supervisor. Quote repair by genuineflourishing30: Carter quote now reads 'in one word', verified verbatim against opened classics.mit.edu Enchiridion ch.1; remaining owner requests for BI012 (mood-interpretation distinction) were handled in earlier QC rounds per this file",
   "CO072": "QC round 3: Mrazek 2013 RCT added as direct cognitive-training evidence; difficult-page efficacy claim removed; feeds example still flagged for supervisor",
   "D095": "QC round 3: plain words now faithful explanation + separate application; It=vital essence verified from opened excerpt",
   "D133": "QC round 5: grip-mechanism replaced with application question; example remains supervisor-flagged",
