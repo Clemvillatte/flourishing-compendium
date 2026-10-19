@@ -59,7 +59,7 @@
 - CURRENT SUPERVISOR: `supervisor-1a2b3c` (took over stale supervisor baton from
   supervisor-193794fd at 2026-10-19T14:23:39Z per the baton takeover record; no verified
   yopmail identity, role label per OPERATIONS convention). Pass so far: A111 (p1d) quote
-  sample PASS with scope limits recorded; E109 (p1f) quotes PASS, interpretation routed
+  sample PARTIAL with scope limits recorded; E109 (p1f) quotes PASS, interpretation routed
   to p1f; p1e proposal integration applied (15 reciprocals) with why-clauses repaired per
   advisor QC to attributed clauses grounded in the linked principle pages. Always run
   `baton.py status` against the remote before acting.

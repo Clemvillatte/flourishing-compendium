@@ -37,7 +37,7 @@ The misunderstanding to avoid is that the mean is mediocrity or moderation-for-i
 
 
 - [[Virtue]] — each virtue as a mean between two vices
-- [[B084]] — B084 cites this Aristotelian corrective (NE II) as the background for using antidotes
+- [[B084]] — B084's philosophy parallels list this as the mean-as-corrective (Aristotle, NE II)
 ## Sources
 
 - Aristotle, Nicomachean Ethics II

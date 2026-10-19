@@ -12,7 +12,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 - Scheler, The Nature of Sympathy
 ## Related concepts
 
-- [[B100]] — B100's parallels cite Scheler's sympathy/empathy contrast for its pity warning
+- [[B100]] — B100's philosophy parallels list sympathy versus empathy (Scheler)
 
 ## Sources
 

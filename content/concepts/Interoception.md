@@ -16,7 +16,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 
 - [[Body scan in MBSR (Kabat-Zinn)]] — the body scan trains interoception region by region
-- [[BI053]] — BI053's parallels cite interoceptive accuracy's link with emotional awareness (Craig; Barrett)
+- [[BI053]] — BI053's psychology parallels list interoception and emotion (Craig, 2009; Barrett et al., 2019)
 ## Sources
 
 - Seth, 2013

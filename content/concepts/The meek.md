@@ -15,7 +15,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 ## Related concepts
 
-- [[D011]] — D011's philosophy parallels pair this Gospel saying with the soft-over-hard choice
+- [[D011]] — D011's philosophy parallels list this Gospel saying
 
 ## Sources
 

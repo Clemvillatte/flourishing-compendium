@@ -24,7 +24,7 @@ Its contemplative cognates are [[Shunyata]] (vastness beyond categories) and the
 - [[Gratitude]] — self-diminishing wonder, another benefit-focused emotion
 - [[Future time perspective]] — the present-expanding experience that widens temporal horizons
 - [[Peak experiences]] — the signature emotion of the peak
-- [[D008]] — D008's psychology parallels cite awe research (Keltner and Haidt, 2003) for seeing oneness
+- [[D008]] — D008's psychology parallels list awe research (Keltner and Haidt, 2003)
 ## Sources
 
 - Keltner and Haidt, 2003

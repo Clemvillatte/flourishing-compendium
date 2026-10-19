@@ -15,7 +15,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 ## Related concepts
 
-- [[D011]] — D011 quotes Daodejing 78's water-overcomes-the-hard passage as its case for the soft
+- [[D011]] — D011 quotes Daodejing 78's water passage in its case for the soft over the hard
 
 ## Sources
 

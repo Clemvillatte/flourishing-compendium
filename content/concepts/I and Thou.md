@@ -27,7 +27,7 @@ The Confucian cousin is [[Ren]] — relation, not the isolated individual, as th
 
 - [[Ubuntu]] — personhood comes alive in encounter, per Buber
 - [[Care]] — receiving the other as they are, per Buber
-- [[B100]] — B100's parallels cite Buber's I-Thou versus I-It for its standing-beside contrast
+- [[B100]] — B100's philosophy parallels list the I-Thou versus I-It (Buber)
 ## Sources
 
 - Buber, I and Thou
