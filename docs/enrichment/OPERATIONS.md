@@ -41,6 +41,12 @@ When you start a session (or come back from a break):
 
 ## Supervisor duties (in order)
 
+Current priority (owner directive, 2026-10-19): ALL item types need work; principles first.
+Many principle bodies are AI-sounding and the "Plain words" sections are broken replicates;
+verbatim source quotes are wanted (owner's primary-source library: `docs/PRIMARY-SOURCES.md`;
+principles protocol: `docs/enrichment/PROTOCOL-PRINCIPLES.md`). Direct idle workers to
+principle bands before concept bands while the principles queue is untouched.
+
 1. `git pull` and review new commits (`git log --oneline` since your last look).
 2. Run the health check: `python3 scripts/build.py` (must succeed) and
    `python3 scripts/enrich_validate.py` on every concept newly marked done in the band state

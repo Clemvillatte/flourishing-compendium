@@ -21,6 +21,26 @@ Bands are defined by committed manifests in `docs/enrichment/bands/<band>-manife
 | w1d | 171-240 | Escape from freedom to Attentional control theory (Eysenck) | w1d | claimed | Agent D (Computer) | 2026-10-19 |
 | w1e | 241-310 | Attentional control training to Intrinsic value of nature | w1e | claimed | Agent E (Computer) | 2026-10-19 |
 
+## Principles pass (owner priority, 2026-10-19)
+
+ALL item types need work; the owner has prioritised PRINCIPLES: bodies are often poor and
+AI-sounding, "Plain words" sections are often replicates of the principle, and verbatim
+source quotes are wanted. The protocol is `docs/enrichment/PROTOCOL-PRINCIPLES.md`
+(validator bounds differ for principles: 40-300 prose words; locator citation instead of URL).
+The owner's primary-source library is in `docs/PRIMARY-SOURCES.md`.
+
+| Band | Manifest ranks | Principles (first to last) | Prefix | Status | Agent | Since |
+|---|---|---|---|---|---|---|
+| p1a | 1-30 | R055 (xin) to E011 (phenomenological description) | p1a | OPEN | | |
+| p1b | 31-100 | E012 to PP029 | p1b | OPEN | | |
+| p1c | 101-170 | PP081 to B146 | p1c | OPEN | | |
+| p1d | 171-240 | BI012 to B129 | p1d | OPEN | | |
+| p1e | 241-310 | BE026 to D065 | p1e | OPEN | | |
+
+Principle bands use the same state machine, batons, batch files and parallel rules as concept
+bands. Concept bands remain open below: workers should take PRINCIPLE bands first while the
+principles queue is untouched.
+
 ## Rules for parallel agents (read before editing anything)
 
 1. **File ownership.** You only edit: concept files whose ids are inside your band, plus files under `docs/enrichment/` whose names start with your prefix (`batches/w1b*.json`, `proposals/w1b.json`). Never touch another band's concept files, another band's batch/proposal files, `progress.json`, or the queue files.

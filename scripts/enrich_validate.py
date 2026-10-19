@@ -49,6 +49,9 @@ def validate(path, byfile, byid):
     if old is None: return [f'{path}: no baseline in git HEAD'], []
     fm_n, body_n = split(new); fm_o, body_o = split(old)
     if fm_n != fm_o: errs.append('front-matter changed')
+    mtype = re.search(r'^type:\s*"?([^"\n]+)', fm_n, re.M)
+    typ = mtype.group(1).strip() if mtype else None
+    minw, maxw = (40, 300) if typ == 'principle' else (MIN_WORDS, MAX_WORDS)
     lo = {m.group(1).strip() for m in LINK.finditer(body_o)}
     ln = {m.group(1).strip() for m in LINK.finditer(body_n)}
     lost = sorted(t for t in lo - ln)
@@ -56,8 +59,8 @@ def validate(path, byfile, byid):
     bad = sorted(t for t in ln if t not in byfile and t not in byid)
     if bad: errs.append(f'UNRESOLVED links: {bad[:6]}')
     pt = prose_text(body_n); pw = len(pt.split())
-    if pw < MIN_WORDS: errs.append(f'prose too short: {pw} < {MIN_WORDS}')
-    if pw > MAX_WORDS: errs.append(f'prose too long: {pw} > {MAX_WORDS}')
+    if pw < minw: errs.append(f'prose too short: {pw} < {minw}')
+    if pw > maxw: errs.append(f'prose too long: {pw} > {maxw}')
     low = pt.lower()
     for w in BANNED:
         if w in low: errs.append(f'banned phrase: {w!r}')
@@ -68,7 +71,11 @@ def validate(path, byfile, byid):
     if dashes > MAX_DASH: errs.append(f'{dashes} dashes in prose (max {MAX_DASH})')
     if '**' in pt: errs.append('bold in prose')
     m = re.search(r'## Sources\n(.*?)(\n## |\Z)', body_n, re.S)
-    if not m or not re.search(r'https?://', m.group(1)): errs.append('## Sources has no http(s) URL (verification trail missing)')
+    if not m or not re.search(r'https?://', m.group(1)):
+        if typ == 'principle':
+            warns.append('## Sources has no http(s) URL (principles: cite the primary text with a locator instead)')
+        else:
+            errs.append('## Sources has no http(s) URL (verification trail missing)')
     rel = re.search(r'## Related concepts\n(.*?)(\n## |\Z)', body_n, re.S)
     if not rel: warns.append('no ## Related concepts section')
     elif len(re.findall(r'^- \[\[', rel.group(1), re.M)) < 3: warns.append('fewer than 3 Related-concepts lines')
