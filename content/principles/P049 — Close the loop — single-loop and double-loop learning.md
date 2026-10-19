@@ -12,11 +12,11 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 49** — Close the loop: single-loop and double-loop learning
 
-When results disappoint, first fix the action (single loop); then, if disappointment repeats, fix the assumption behind the action (double loop). Know which loop you are in.
+Argyris coined the terms himself, and gave the thermostat as his analogy: "a thermostat that automatically turns on the heat whenever the temperature in a room drops below 68 degrees is a good example of single-loop learning. A thermostat that could ask, 'Why am I set at 68 degrees?' and then explore whether or not some other temperature might more economically achieve the goal of heating the room would be engaging in double-loop learning." Single loop corrects the action; double loop questions the setting the action serves. The compendium's ordering rule: when results disappoint, fix the action first — that is the cheap loop and often enough. But if the same disappointment keeps returning, the problem is not the action but the assumption behind it, and re-fixing the action is redecorating a house built on the wrong street. At that point, change loops: ask the thermostat's question about your own setting.
 
 (Dewey's inquiry cycle; formalized by Argyris and Schon, 1978.)
 
-**Plain words** Know which loop you're in. Fix the action first; if disappointment repeats, fix the assumption behind the action — repeatedly fixing the action is redecorating a house built on the wrong street.
+**Plain words** Two kinds of fixing exist. One changes what you do; the other changes what you were aiming at in the first place. Argyris's picture: a thermostat turns the heat on when the room is cold — that's the first kind. Asking why it's set to 68 degrees is the second. When something goes wrong, start with the first kind of fix; if the same thing keeps going wrong, you've earned the second question.
 
 *For example:* Missing the gym again — new schedule (single loop); miss it again and ask 'do I actually value this goal?' (double loop). The second question is where the fix lives.
 
