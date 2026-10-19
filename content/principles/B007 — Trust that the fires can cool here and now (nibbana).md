@@ -14,11 +14,25 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 
 The end of suffering is not elsewhere or later: it is the cooling of greed, hatred, and delusion in this mind, in this life, sometimes in this moment. Test it.
 
+The first sermon's third truth puts the cooling in craving's own terms:
+
+> "And this, monks, is the noble truth of the cessation of stress: the remainderless fading & cessation, renunciation, relinquishment, release, & letting go of that very craving." (SN 56.11, [Thanissaro](https://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html))
+
+The sutta runs its tasks on the truths directly: the cessation is "to be directly experienced", and the report of the experience is dated this side of death:
+
+> "Knowledge & vision arose in me: 'Unprovoked is my release. This is the last birth. There is now no further becoming.'" (SN 56.11, [Thanissaro](https://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html))
+
 (SN 56.11, third task: see reactivity stop.)
 
-**Plain words** The end of suffering isn't elsewhere or later — it's the cooling of greed, hatred, and delusion in this mind, in this life, sometimes in this very moment. Test it. The fires aren't permanent; they're fed, and feeding is a choice you can catch.
+**Plain words**
+The sutta reports a moment when the release was "unprovoked": nothing was agitating it. The everyday version is testable: catch a craving mid-meal and watch what happens when you stop handing it food. The heat is fed, and feeding is an activity, which means it has an off switch.
 
-*For example:* The moment in an argument when you genuinely stop needing to win — the heat drops, and it's instant. That's the cooling.
+**For example**
+The moment in an argument when you genuinely stop needing to win — the heat drops, and it's instant. That's the cooling.
+
+## Sources
+
+- [SN 56.11 Dhammacakkappavattana Sutta, trans. Thanissaro Bhikkhu (Access to Insight)](https://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html) — third truth; the awakening report
 
 ## Psychology parallels
 
