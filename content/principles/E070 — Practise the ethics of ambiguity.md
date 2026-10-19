@@ -16,15 +16,34 @@ Recognise that the human condition is fundamentally ambiguous: you are both subj
 
 (de Beauvoir, 1947/2018, The Ethics of Ambiguity; Merleau-Ponty, 1945/2012, Phenomenology of Perception, Introduction.)
 
-**Plain words** The human condition is fundamentally ambiguous: both subject and object, freedom and facticity, individual and social. De Beauvoir's point: ambiguity isn't a problem to solve but the condition of ethical life. Live the both-ness; don't collapse it.
+### What ambiguity claims
+
+De Beauvoir states the program directly:
+
+> "Since we do not succeed in fleeing it, let us therefore try to look the truth in the face. Let us try to assume our fundamental ambiguity. It is in the knowledge of the genuine conditions of our life that we must draw our strength to live and our reason for acting." (de Beauvoir, The Ethics of Ambiguity, Part I, [marxists.org](https://www.marxists.org/reference/subject/ethics/de-beauvoir/ambiguity/ch01.htm))
+
+The split she starts from is old: "Man knows and thinks this tragic ambivalence which the animal and the plant merely undergo... 'Rational animal,' 'thinking reed,' he escapes from his natural condition without, however, freeing himself from it. He is still a part of this world of which he is a consciousness" (de Beauvoir, The Ethics of Ambiguity, Part I).
+
+Merleau-Ponty gives the same verdict on the perceiving body:
+
+> "This ambiguity is not an imperfection of consciousness or of existence, it is their very definition." (Merleau-Ponty, Phenomenology of Perception, quoted in [a philarchive study](https://philarchive.org/archive/AJVPPO))
+
+**Plain words** Ambiguity here is a diagnosis rather than a mood. You are the one looking and the thing looked at; the chooser and the creature shaped by biology and history. Both descriptions are accurate, and neither can be made the whole story. De Beauvoir's ethical move is to stop treating this as an embarrassment to resolve before living, and to treat it as the material ethics works with: failure and struggle are built-in conditions. The parent example shows the cost of demanding the either/or, since the demand for resolution is what hurts, while the both-ness was merely the fact.
 
 *For example:* The new parent who is both self and not-self, free and bound, individual and half of a dyad — the suffering spikes when they demand the ambiguity resolve ("I should be either devoted or independent"). The both-ness is the fact; the resolution is the fantasy.
+
+## Sources
+
+- [de Beauvoir, The Ethics of Ambiguity (1947), Part I, marxists.org](https://www.marxists.org/reference/subject/ethics/de-beauvoir/ambiguity/ch01.htm): assuming fundamental ambiguity
+- [Merleau-Ponty, Phenomenology of Perception, quoted in a philarchive study](https://philarchive.org/archive/AJVPPO): ambiguity as definition
+
 ## Stories
 
 - [[ST281 — The Struggle for Recognition|281. The Struggle for Recognition]]
 - [[ST282 — Fanon and the Look|282. Fanon and the Look]]
 - [[ST283 — Sartre's Keyhole|283. Sartre's Keyhole]]
 - [[ST284 — The Lunchbox That Never Meets|284. The Lunchbox That Never Meets]]
+
 ## Psychology parallels
 
 - **[[Integrative complexity|Integrative complexity]]** (Tetlock, 1983)
