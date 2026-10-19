@@ -6,11 +6,12 @@
   "Context-dependent behaviour (Wood & Neal)",
   "Distributed cognition / extended mind",
   "Docta ignorantia",
-  "ERG Theory"
+  "ERG Theory",
+  "Effortless action through long effort"
  ],
  "flagged": {},
  "missing_concepts": [],
- "sources_checked": 26,
+ "sources_checked": 28,
  "inline": [],
  "reciprocal": [
   {
@@ -117,6 +118,76 @@
    "into": "Beginner's mind",
    "link": "Docta ignorantia",
    "why": "not-already-knowing as a practice shape, for comparison"
+  },
+  {
+   "into": "Epistemic humility",
+   "link": "Docta ignorantia",
+   "why": "the premodern ancestor of humility about one's own knowledge"
+  },
+  {
+   "into": "Hierarchy of Needs Theory",
+   "link": "ERG Theory",
+   "why": "Alderfer's reworking of this model into three simultaneous needs"
+  },
+  {
+   "into": "Self-actualization (Maslow)",
+   "link": "ERG Theory",
+   "why": "the theory that recast this need as the growth category"
+  },
+  {
+   "into": "Self-determination",
+   "link": "ERG Theory",
+   "why": "another needs theory without a ladder, for comparison"
+  },
+  {
+   "into": "Acquired Needs Theory (McClelland)",
+   "link": "ERG Theory",
+   "why": "the fixed-categories alternative to learned needs"
+  },
+  {
+   "into": "Frustration–aggression hypothesis",
+   "link": "ERG Theory",
+   "why": "frustration-regression, for comparison with frustration's aggressive route"
+  },
+  {
+   "into": "Job characteristics model",
+   "link": "ERG Theory",
+   "why": "needs theory applied to work design"
+  },
+  {
+   "into": "Wu wei",
+   "link": "Effortless action through long effort",
+   "why": "the training-story side of effortless action: Cook Ding and the nineteen-year blade"
+  },
+  {
+   "into": "Flow",
+   "link": "Effortless action through long effort",
+   "why": "the Daoist story that anticipates the flow state"
+  },
+  {
+   "into": "Effortless attention",
+   "link": "Effortless action through long effort",
+   "why": "the Zhuangzian version of effortlessness in the attention literature"
+  },
+  {
+   "into": "Deliberate practice",
+   "link": "Effortless action through long effort",
+   "why": "the effortful training whose output is the effortless edge"
+  },
+  {
+   "into": "Second nature",
+   "link": "Effortless action through long effort",
+   "why": "the Cook Ding account of skill becoming second nature"
+  },
+  {
+   "into": "Habit",
+   "link": "Effortless action through long effort",
+   "why": "automaticity with a Daoist reading: the several thousand oxen behind the sharp blade"
+  },
+  {
+   "into": "Character as habits",
+   "link": "Effortless action through long effort",
+   "why": "second nature at the level of character, per Cook Ding"
   }
  ],
  "notes": "First concept: Amor sui (right self-love). All 12 original links preserved. Facets section (vs self-contempt) folded into prose. Definition quote is Ethics IIIp55 scholium (verified against Gutenberg Elwes text); rational demand is IVp18 scholium. Related-clause support sources (SEP Rousseau/Nietzsche/Stoicism, Wikipedia self-compassion) listed in the page's Sources section. | deferred at this run (target band busy): 6 recip, 0 inline | deferred at this run (target band busy): 21 recip, 0 inline"
