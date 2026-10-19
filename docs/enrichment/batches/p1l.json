@@ -12,11 +12,12 @@
   "D085",
   "D100",
   "D102",
-  "D110"
+  "D110",
+  "D125"
  ],
- "in_progress": "D125",
+ "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-19T13:50:03+00:00"
+ "updated": "2026-10-19T13:50:14+00:00"
 }

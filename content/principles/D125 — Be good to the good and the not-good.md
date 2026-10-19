@@ -12,13 +12,15 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 125** — Be good to the good and the not-good
 
-The sage's goodness receives the good and the not-good alike: that is the goodness that transforms. Kindness as policy, not as reward.
+Chapter 49 of the Daodejing is one of the book's most radical passages, and the radicalism is structural rather than sentimental. Legge: "The sage has no fixed opinions; he takes the people's minds as his mind... To those who are good to me, I am good; and to those who are not good to me, I am also good — and thus all get to be good" ([Daodejing 49, James Legge translation, Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt)). The sage's goodness is not a response to the other person's goodness; it is a policy that does not depend on it.
 
-(DDJ 49.)
+The second half of the chapter completes the move with sincerity: to the sincere I am sincere, and to the not-sincere I am also sincere — and thus all get to be sincere. This is the transformation the principle names. The sage's non-contingent behaviour is not generosity toward bad people; it is the mechanism by which bad behaviour stops being the only thing in the room.
 
-**Plain words** Kindness as policy, not as reward. If your kindness is a vending machine that only works for the deserving, it isn't kindness; it's a transaction.
+> "To those who are good to me, I am good; and to those who are not good to me, I am also good — and thus all get to be good." (Daodejing 49, James Legge translation, [Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 
-*For example:* The teacher who's as patient with the disruptive kid as with the star — ten years later, that kid remembers who stayed.
+**Plain words** If your kindness is a vending machine that only works for the deserving, it is not kindness; it is a transaction with better branding. The teacher who is as patient with the disruptive kid as with the star is not being naive — she is running a policy that does not require the other person to be good first, which is the only version of kindness that can actually change anyone. Ten years later, that kid remembers who stayed.
+
+*For example:* Two teachers have the same difficult student. One's patience runs out and becomes conditional; the student learns that patience is a reward you have to earn and stops trying. The other's patience holds regardless of the behaviour, and the student starts to believe the patience is real. Same student; only one of them is in a position to be remembered ten years later.
 
 ## Psychology parallels
 
