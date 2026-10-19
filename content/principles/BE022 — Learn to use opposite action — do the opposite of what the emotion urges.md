@@ -22,7 +22,7 @@ The demand is completeness, verbatim: "When you do opposite action, do it all th
 
 **Plain words** First check whether the emotion fits the facts. If it does, acting on the urge may be the right move. If it does not, do the opposite of the urge with your whole body: posture, face, voice, words. Keep at it until the feeling moves. Halfway does not count.
 
-*For example:* After a fight the urge is to withdraw and wait to be pursued; the opposite action is to send the message that says you are still in this. One text does not rewrite the scene on its own; repeated approach is what the skill asks for.
+*For example:* Suppose the urge after a conflict is to withdraw and wait to be pursued. Whether opposite action fits depends on the facts: if the fear of abandonment does not fit them, the opposite action might be a message that says you are still in this. The skill is conditional, not automatic, and it does not imply renewed contact is appropriate after every conflict.
 
 ## Sources
 

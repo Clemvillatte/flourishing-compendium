@@ -12,19 +12,19 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BI — Biophysi
 ---
 > **Principle 60** — Learn mindful movement: walking meditation, yoga, tai chi
 
-Mindful movement combines physical movement with meditative attention: walking meditation, yoga, tai chi, qigong. The strongest trial evidence in this family comes from Wang and colleagues' randomized trial of tai chi in fibromyalgia. Sixty-six patients were assigned to classic Yang-style tai chi or to wellness education and stretching, twice weekly for twelve weeks. The abstract reports, verbatim:
+Mindful movement combines physical movement with meditative attention: walking meditation, yoga, tai chi, qigong. One trial examined tai chi in people with fibromyalgia. Sixty-six patients were assigned to classic Yang-style tai chi or to wellness education and stretching, twice weekly for twelve weeks; the primary measure was the Fibromyalgia Impact Questionnaire (FIQ), on which higher scores mean more severe symptoms. The abstract reports, verbatim:
 
 > "Of the 66 randomly assigned patients, the 33 in the tai chi group had clinically important improvements in the FIQ total score and quality of life." (Wang, Schmid, Rones, Kalish, Yinh, Goldenberg, Lee and McAlindon, 2010, New England Journal of Medicine 363(8), 743-754, [NEJM full text](https://www.nejm.org/doi/full/10.1056/NEJMoa0912611))
 
-The authors' own conclusion is cautious, verbatim: "Tai chi may be a useful treatment for fibromyalgia and merits long-term study in larger study populations." That is a trial in one pain condition, not a demonstration that mindful movement generally outdoes ordinary exercise. The compendium's wider claims for the family rest on practice experience and are flagged below as inherited.
+The authors' own conclusion is cautious, verbatim: "Tai chi may be a useful treatment for fibromyalgia and merits long-term study in larger study populations." This trial tested a tai chi programme in people with fibromyalgia against wellness education and stretching. It does not establish benefits for every practice listed here or identify the separate contribution of meditative attention.
 
-**Plain words** Mindful movement is motion with attention aboard: the walk where each footstep is noticed, the slow sequence where the breath sets the pace. It is trained attention carried on a moving body, and the trial evidence, where it exists, is specific to the condition studied.
+**Plain words** (the compendium's exercise) Choose a familiar movement you can perform comfortably. Notice one sensation during it, such as pressure under your feet. When your attention wanders, return to that sensation.
 
-*For example:* The slow walk where each footstep is noticed: the same path as the podcast walk, a different practice entirely. One trains the legs; the other trains the attention that rides them.
+*For example:* Suppose you start planning tomorrow's meeting during a walk. For the next few steps, bring attention back to how your feet meet the pavement.
 
 ## Sources
 
-- [Wang et al., "A Randomized Trial of Tai Chi for Fibromyalgia" (2010), New England Journal of Medicine 363(8), 743-754](https://www.nejm.org/doi/full/10.1056/NEJMoa0912611) — abstract results and conclusions quoted verbatim; tai chi vs wellness education in fibromyalgia
+- [Wang et al., "A Randomized Trial of Tai Chi for Fibromyalgia" (2010), New England Journal of Medicine 363(8), 743-754](https://www.nejm.org/doi/full/10.1056/NEJMoa0912611) — abstract results and conclusions quoted verbatim; tai chi versus wellness education and stretching in people with fibromyalgia. The inherited broad mental-health parallel (yoga, tai chi and walking meditation reduce stress and improve well-being) is not established by this trial.
 
 ## Psychology parallels
 
@@ -39,4 +39,4 @@ The authors' own conclusion is cautious, verbatim: "Tai chi may be a useful trea
 
 ## Practice
 
-- Practise mindful movement: walking meditation (walk slowly, attend to each step), yoga, tai chi, or qigong. These combine movement, breath, and attention. They are gentle and regulating.
+- Practise mindful movement: walking meditation (walk slowly, attend to each step), yoga, tai chi, or qigong. These combine movement, breath, and attention.

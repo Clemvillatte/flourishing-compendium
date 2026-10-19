@@ -16,9 +16,9 @@ The core behavioural skill is the capacity to act despite discomfort: to approac
 
 > "Though courage is concerned with feelings of confidence and of fear, it is not concerned with both alike, but more with the things that inspire fear; for he who is undisturbed in face of these and bears himself as he should towards these is more truly brave than the man who does so towards the things that inspire confidence." (Aristotle, Nicomachean Ethics III.9, 1117a, Ross translation, [MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html))
 
-Note the structure of the claim: the brave person is not the one without fear. The fear is the material the virtue is exercised on. The compendium's application extends the same structure beyond fear, to fatigue, shame, and ordinary discomfort: the feeling is present, and the action proceeds alongside it.
+Note the structure of the claim: the brave person is not the one without fear. The fear is the material the virtue is exercised on. The compendium's application, its own and not a reading of Aristotle, extends the structure to chosen, worthwhile actions with manageable discomfort: the feeling is present, the action proceeds alongside it. It is not a general command to override fear or fatigue.
 
-**Plain words** The skill is the gap between feeling and action. Fear present? Act. Motivation absent? Act. The practice is deliberately small: pick one minor discomfort each day, act with it rather than after it, and let the record of acted-anyway accumulate.
+**Plain words** (the compendium's exercise) Choose one worthwhile action whose discomfort is manageable, and act with the discomfort rather than after it. The record of acted-anyway accumulates from single chosen cases; the skill is not a licence to override every feeling.
 
 *For example:* Hands shaking, going in for the injection anyway: the shaking does not stop the walking. The gap between the feeling and the action is where the skill lives.
 
@@ -39,4 +39,4 @@ Note the structure of the claim: the brave person is not the one without fear. T
 
 ## Practice
 
-- Practise acting despite discomfort: when you feel fear, fatigue, shame, or discomfort, act anyway. Do not wait for comfort; act with the discomfort. This is the core behavioural skill.
+- Practise acting despite discomfort on a chosen, worthwhile action whose discomfort is manageable: fear, fatigue, or shame present, the action proceeds alongside it. Do not wait for comfort; do not treat the passage as a licence to override every feeling.

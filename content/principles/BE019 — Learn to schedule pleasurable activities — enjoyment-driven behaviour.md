@@ -16,11 +16,11 @@ Pleasurable activities — hobbies, friends, music, art — are the raw material
 
 > "A significant association between mood and pleasant activities was found. There were large individual differences in regard to the magnitude of the correlation between mood and activity, but differences between groups failed to attain statistical significance." (Lewinsohn and Libet, 1972, Journal of Abnormal Psychology 79(3), 291-295, [Semantic Scholar record](https://www.semanticscholar.org/paper/0d0afd89ee8715489df5584a1be0f3c8886ab18e))
 
-Note what this is and is not: an association between mood and pleasant activity in daily records, with large individual differences, and no significant difference between the groups. It is not a trial of scheduling as a treatment. The intervention claim, that scheduling pleasant activities reduces depression, a core move of [[Behavioral activation|behavioural activation]], comes from later work flagged below as inherited. The compendium's application stands on the association plus ordinary observation: pleasure that is never scheduled tends not to occur.
+Note what this is and is not: an association between mood and pleasant activity in daily records, with large individual differences, and no significant difference between the groups. It is not a trial of scheduling as a treatment. The intervention claim, that scheduling pleasant activities reduces depression, a core move of [[Behavioral activation|behavioural activation]], comes from later work flagged below as inherited. The compendium's exercise is a scheduling experiment: put one pleasant activity on the calendar and observe what happens, without predicting attendance or mood improvement.
 
-**Plain words** In a scheduled life, spontaneous fun mostly loses to the calendar. Put the hobby on the same footing as the dentist: a fixed weekly slot. Whether you feel like it at the time is not the question; the slot is.
+**Plain words** The opened study found an association between daily mood and pleasant activity; it did not test scheduling. The compendium's experiment: pick one pleasant activity, give it a fixed weekly slot, and observe what the slot changes. No promise of attendance and no promise of mood.
 
-*For example:* The person who waits to feel like a hobby rarely does; the one who plays football every Tuesday goes. Tuesday does not care about your mood, which is why it works.
+*For example:* Football every Tuesday is a scheduling structure; waiting to feel like it is not. Whether the structure raises attendance is a personal experiment, not a settled finding.
 
 ## Sources
 
