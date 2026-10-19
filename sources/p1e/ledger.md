@@ -373,3 +373,10 @@ Advisor QC (2026-10-19): quotes verified (BQ1 ch. 22 sentence, BQ2 ch. 68 verse 
 - Body now carries the honest replication caveat per the AT037 precedent; the "phone in another room" advice framed as cheap under either outcome. Plain words was already a re-derivation and is kept (the example's em dash removed). Physical-half claims kept modest (no Forster & Lavie opening).
 - Inherited, NOT opened: Forster & Lavie 2008, Leroy 2009, Monsell 2003, Politics/Daodejing 19/Weil parallels — flagged in state.
 - Validator: ok; protected fields untouched vs HEAD.
+
+## BE001 — Understand that behaviour is the foundation (done 2026-10-20 by worker-p1e-4f2c9b1d; no advisor QC per speed directive, item 14)
+
+- Opened: Jacobson et al. 1996 component-analysis abstract via the search engine's verbatim rendering of the PubMed record (https://pubmed.ncbi.nlm.nih.gov/8871414/). Verified verbatim: "Despite excellent adherence to treatment protocols by the therapists, a clear bias favoring CT, and the competent performance of CT, there was no evidence that the complete treatment produced better outcomes, at either the termination of acute treatment or the 6-month follow-up, than either component treatment." Also verified from the same rendering: "both BA and AT treatments were just as effective as CT at altering negative thinking as well as dysfunctional attributional styles" (paraphrased in body). Sources_checked +1 (34 -> 35).
+- Body rewritten around the verbatim result quote; removed the "not merely the output; it is an input" and "not just...it is" family of tells from body/plain words/practice; example em dash replaced with a colon.
+- Inherited, NOT opened: Martell 2001, Dimidjian 2011 (dimidjian 2006 re-analysis opened only via snippets in search results, not counted), Sartre, Buddhism parallels — flagged in state.
+- Validator: ok; protected fields untouched vs HEAD.
