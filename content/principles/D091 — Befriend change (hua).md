@@ -30,6 +30,8 @@ The compendium applies these passages as advice for responding to changes one ca
 
 [[D087 — Hold identity lightly]]
 
+[[D078 — Wander free and easy (xiaoyao you)]]
+
 ## Sources
 
 - [Zhuangzi, ch. 2 and 6, Legge translation (METIS English Classics)](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — hua passages; quotations verbatim
