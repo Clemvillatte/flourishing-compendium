@@ -5,7 +5,12 @@
    "into": "Simplicity",
    "link": "D022 — Subtract, don't add",
    "why": "the Simplicity page names subtraction as its method (Via negativa) and Wu wei as its Daoist root, but cites no Daoist principle; D022 (DDJ 48, subtract before adding) is the principle behind that strand, and its psychology parallels (choice overload) are the same argument"
+  },
+  {
+   "into": "Tanha",
+   "link": "D021 — Reduce desires (guayu)",
+   "why": "Tanha's cross-tradition family paragraph names Stoic, Spinozan, Schopenhauerian and psychological diagnoses of desire but cites no Daoist principle; D021 (DDJ 19, 37) is the Daoist reduce-wants counterpart and Tanha's related-concepts list has no Daoism entry"
   }
  ],
- "notes": "p1c proposals from D022 enrichment."
+ "notes": "p1c proposals: D022 -> Simplicity reciprocal; D021 -> Tanha reciprocal (gap found during saturation check)."
 }

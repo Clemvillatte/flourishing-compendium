@@ -108,3 +108,20 @@ copied from the opened URL in this session.
   The doctrine of the mean all already cite D020; no new proposals.
 - Inherited-not-reverified: Sleesman et al. 2012 escalation claim and the
   behavioral-addiction stop-rules note in psychology parallels (untouched link sections).
+
+## D021 — Reduce desires (guayu) (DDJ 19, 37)
+
+- Opened: https://www.gutenberg.org/cache/epub/216/pg216.txt (Legge, ebook #216),
+  chapters 19 and 37.
+- Blockquote: ch. 37 closing verse ("Simplicity without a name..."). Inline: ch. 19
+  verse line "Would selfish ends and many lusts eschew." Ch. 37 conditional preserved
+  ("if rulers could maintain the Tao, all things would transform of themselves").
+- QC: advisor round 1 flagged the need-versus-habit test as unsupported; replaced with
+  the advisor's scoped text (postponement experiment, shopping-alerts example). The
+  Qingjing Jing from the old seed locator was not opened and is not cited. Validated vs
+  pre-item baseline 8ea860c.
+- Saturation: Desire experience-sampling and The taxonomy of desires already cite
+  D021; Tanha does not — reciprocal proposal added to proposals/p1c.json (its
+  cross-tradition paragraph cites no Daoist principle).
+- Inherited-not-reverified: Hofmann et al. 2012 desire-sampling claim and the
+  craving/self-control note in psychology parallels (untouched link sections).

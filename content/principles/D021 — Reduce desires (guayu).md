@@ -12,13 +12,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 21** — Reduce desires (guayu)
 
-Actively diminish wants rather than feeding them. Each desire you drop returns attention and freedom.
+Chapter 19 of the Daodejing lists three renunciations, sageness and wisdom, benevolence and righteousness, artful contrivance and scheming for gain, and closes its verse with what a plainer course would do: "Would selfish ends and many lusts eschew." Chapter 37 says that if rulers could maintain the Tao, all things would transform of themselves, and it closes:
 
-(DDJ 19, 37; Qingjing Jing.)
+> "Simplicity without a name
+> Is free from all external aim.
+> With no desire, at rest and still,
+> All things go right as of their will." (Daodejing 37, [Legge](https://www.gutenberg.org/ebooks/216))
 
-**Plain words** Actively reduce wants instead of feeding them. Every desire you drop hands back attention and freedom — wants are expensive to carry. This isn't suppression; it's noticing that most of your cravings are rented from other people anyway.
+The compendium applies these passages by asking which optional wants you are willing to leave unfulfilled.
 
-*For example:* Cancel the notifications you never chose, and suddenly the phone stops being a slot machine you carry.
+**Plain words**
+You can want something without making it your next project. Pick an optional purchase and postpone it for a week. Afterwards, reconsider whether you still want it.
+
+*For example:* Suppose a phone has optional shopping alerts enabled. As a modern experiment, disable them for a week, then decide which you want to restore.
+
+## Sources
+
+- [The Tao Teh King, trans. James Legge (Project Gutenberg)](https://www.gutenberg.org/ebooks/216) — ch. 19, 37
 
 ## Stories
 
