@@ -139,3 +139,9 @@ Advisor milestone QC on B006-B122 required inference-level repairs; all six repa
 
 - B054 revalidated after its round-2 disclaimer edit: ok. Advisor verdict: Buddhism milestone APPROVED (B006, B043, B053, B054, B069, B122 all pass). Buddhist emptiness of inherent nature->B122 remains an editorial proposal for supervisor review.
 - Standing practice note for remaining items: start transition before editing; validate + state transition before starting another item.
+
+## B133 — Let the self-construct fall away (the Great Death) (done 2026-10-19)
+
+- Opened via fetch workflow: Yamada Mumon Roshi / Norman Waddell, "Hakuin's Tears of Awakening", Tricycle (tricycle.org/article/hakuin-ekaku-awakening/). Verified verbatim: "It is easy to die the Great Death but difficult to regain one's life after that." (quoted as blockquote). The article does not define the Great Death; definition claims kept as the compendium's reading.
+- Fixes: plain words replicate removed and re-derived (the story stops; the warning is about coming back); "The 'Great Death' is dramatic only to the part of you that was fictional" removed (unsupported); flood example made hypothetical ("was never identical to the inventory" is the compendium's framing, marked as the exercise); em dashes removed from editable prose.
+- Saturation: focused mention search "Great Death" run; Anatta, Ego dissolution, Future time perspective, Self-transcendence, The Great Death all already cite B133; no new proposals.
