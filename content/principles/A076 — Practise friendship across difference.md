@@ -24,7 +24,11 @@ That is the shape of the thing: love that does not invoice the other for what th
 
 ### What adaptation looks like
 
-The gap is the material, not the obstacle. A friendship across rank or age runs on an exchange neither could have with a peer: what the elder has seen, what the younger is about to see. Aristotle's rule is proportion: "the affection rendered in these various unequal friendships should also be proportionate: the better of the two parties, for instance, or the more useful or otherwise superior as the case may be, should receive more affection than he bestows; since when the affection rendered is proportionate to desert, this produces equality in a sense between the parties, and equality is felt to be an essential element of friendship" (NE VIII.7, 1158b).
+The gap is the material, not the obstacle. A friendship across rank or age runs on an exchange neither could have with a peer: what the elder has seen, what the younger is about to see. Aristotle's rule is proportion:
+
+> "when the affection rendered is proportionate to desert, this produces equality in a sense between the parties, and equality is felt to be an essential element of friendship" — Aristotle, Nicomachean Ethics VIII.7, 1158b (H. Rackham trans., [Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abekker+page%3D1158b))
+
+The better or more useful party should receive more affection than he bestows; the scaling, not identical contributions, is what keeps it fair.
 
 **Plain words**
 Cross-gap friendships do not run on identical contributions; they run on proportion. The grandmother is not shortchanged because the teenager brings energy and appetite where she brings memory; on Aristotle's rule the affection each side gives is scaled to what each is and gives, and that scaling is what keeps it fair. The practice is to notice what this person can give that a peer cannot, what you can give in return, and to keep the two columns proportional rather than identical.

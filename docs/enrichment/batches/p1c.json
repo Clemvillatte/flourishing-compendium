@@ -43,9 +43,9 @@
   "AF082",
   "MO003",
   "R012",
-  "S002",
   "A011",
   "A035",
+  "S002",
   "A076"
  ],
  "in_progress": null,
@@ -54,10 +54,12 @@
   "B020": "Reopened for QC: milestone QC: verse number corrected, inferences removed",
   "B038": "Reopened for QC: milestone QC: plain words narrowed to MN 118",
   "B082": "Reopened for QC: milestone QC: unsupported prescriptions removed",
-  "R012": "Reopened for QC: QC round 4: opening paragraph narrowed to located evidence"
+  "R012": "Reopened for QC: QC round 4: opening paragraph narrowed to located evidence",
+  "S002": "Reopened for QC: Milestone QC round 2: Disc. I.30 locator, translator split, pleasure list removed",
+  "A076": "Reopened for QC: Milestone QC round 2: shorten proportionality quote to standalone blockquote"
  },
  "missing_concepts": [],
  "sources_checked": 18,
- "updated": "2026-10-19T13:30:03+00:00",
+ "updated": "2026-10-19T13:37:14+00:00",
  "band_done": false
 }
