@@ -10,15 +10,20 @@ number: "100"
 navigation: {"track": "philosophy", "primaryPath": ["NAV-PHILOSOPHY", "NAV-PHIL-ARIS"], "alternatePaths": []}
 legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristotelian Virtue Ethics and Practical Wisdom", "chapter": "A-S09 — Layer IX - Justice, Equity, and Law", "parent": ""}
 ---
+
 > **Principle 100** — Practise reciprocity (antapodosis)
 
-Reciprocity is the principle that governs exchanges between people: give what is due, return what is received, maintain proportion. Reciprocity is not mere tit-for-tat but proportionate exchange guided by a sense of fairness.
+Aristotle takes up the Pythagorean view that justice is simply reciprocal suffering, and rejects it as a general account. But he goes on to identify one place where reciprocity does hold: in the interchange of services, where proportionate return is what maintains association. The exchange is bound together only when the return matches the giving in proportion ([NE V.5, Rackham, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=5)).
+
+> In the interchange of services Justice in the form of Reciprocity is the bond that maintains the association: reciprocity, that is, on the basis of proportion, not on the basis of equality. The very existence of the state depends on proportionate reciprocity.
+>
+> — Nicomachean Ethics V.5 ([Rackham, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=5))
+
+**Plain words** The compendium's application of this principle asks the reader to notice what the return is proportionate to. Aristotle's own framing is that a return is not the same amount of the same thing back; it is a return matched to what was given in proportion, and what maintains a relationship over time is the return actually happening.
+
+For example (imagined): bringing a meal to the neighbour who helped you move is not a like-for-like exchange of moving services. It is a return matched to the help in a fitting way.
 
 (NE V.5, V.6; EE IV.4; MM I.33.)
-
-**Plain words** Reciprocity governs exchange: give what's due, return what's received, keep it proportionate. It's not just tit-for-tat. It's fairness in giving back.
-
-*For example:* Bringing a meal to the neighbour who helped you move isn't a tit-for-tat. It's matching their care in a fitting way.
 
 ## Stories
 
