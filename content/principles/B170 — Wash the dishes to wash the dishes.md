@@ -12,11 +12,11 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 170** — Wash the dishes to wash the dishes
 
-Do each chore for itself, not to get it done: two people can wash the same dish: one is in hell, one is free.
+The scene is Thich Nhat Hanh's student Jim, asked whether he knows how to wash dishes: "There are two ways to wash the dishes. The first is to wash the dishes in order to have clean dishes and the second is to wash the dishes in order to wash the dishes." Jim chose the second way. The instruction behind it: "While washing the dishes one should only be washing the dishes, which means that while washing the dishes one should be completely aware of the fact that one is washing the dishes." The distinction is not about efficiency — the dishes end up equally clean — it is about where you are while doing it. The one washing to be done lives at the sink in the future, with the tea or the next task; the one washing to wash is at the sink. The compendium's image for the difference: two people can wash the same dish; one is in hell, one is free.
 
 (Thích Nhất Hạnh, The Miracle of Mindfulness.)
 
-**Plain words** Do each chore for itself, not to get it done — two people can wash the same dish: one is in hell, one is free. The task is identical; the relationship to it is the whole difference. Chores done 'to be done' are never done.
+**Plain words** Chores aren't in the way of your life; they are your life, happening. Wash the dish to wash the dish — the tea comes when it comes. Done "to get done," a task drags you past the only minutes you actually get. Same sink, same plate; you can be in it or out of it.
 
 *For example:* Washing the dishes while resenting the dishes, versus washing the dishes — warm water, squeaky plate, oddly meditative. Same sink.
 
