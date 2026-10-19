@@ -12,9 +12,9 @@
   "S001",
   "S007"
  ],
- "in_progress": null,
+ "in_progress": "S011",
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 7,
- "updated": "2026-10-19T10:33:56+00:00"
+ "updated": "2026-10-19T10:34:17+00:00"
 }
