@@ -38,3 +38,10 @@ Advisor QC (2026-10-19): quotes verified (BQ1 ch. 22 sentence, BQ2 ch. 68 verse 
 - Inherited, NOT opened/verified: Kahneman & Tversky 1979 planning-fallacy wording and the plan-then-adapt research summary in psychology parallels — preserved per protocol, flagged in the band state file for the supervisor.
 - Saturation: Planning fallacy, Plan-then-adapt strategies outperform rigid plans, Transaction concept pages read in full (all cite D073); core-term scan ("planning") run: plausible results are principles/concepts already linked or unrelated; no justified new proposals.
 - Validator on final candidate: ok, prose 195 words; no wikilink changes vs pre-item commit 9c2b544; protected fields untouched.
+
+## D075 — Don't underestimate challenges (done, advisor-approved; speed directive item 1)
+
+- Opened: DDJ 69 (Legge, Gutenberg raw text — same edition already counted; batch research: ch. 69 extracted in one batch with DDJ 10, 11, 20, 39, 48, 52, 64 for the remaining Daoist items). Verified verbatim: "There is no calamity greater than lightly engaging in war. To do that is near losing (the gentleness) which is so precious. Thus it is that when opposing weapons are (actually) crossed, he who deplores (the situation) conquers."
+- Advisor QC (5th-item milestone): blockquote verified; approved replacements applied (P1, P2, Plain words, For example: overgeneralisations and universal claims removed). Old replicate Plain words replaced (D075 was on the replicate list); unsourced hiker example replaced.
+- Saturation: linked concepts read (Overconfidence effects, Dunning-Kruger effect, Socratic wisdom; Planning fallacy read earlier this session) — all cite D075. Core-term scan ("overconfidence"): plausible results are principles/concepts already linked or covered by the overconfidence family in psychology parallels; no justified new proposals.
+- Validator on final candidate: ok, prose ~150 words; no wikilink changes vs pre-item commit d16428f; protected fields untouched.

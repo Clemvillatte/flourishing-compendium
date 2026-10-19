@@ -12,13 +12,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 75** — Don't underestimate challenges
 
-There is no greater disaster than lightly engaging a foe. Respect the difficulty of whatever you take on; overconfidence is the classic fatal error.
+Chapter 69 quotes a master of war who prefers retiring a foot to advancing an inch, then warns against lightly engaging in war ([Legge, DDJ 69](https://www.gutenberg.org/cache/epub/216/pg216.txt)).
+
+> There is no calamity greater than lightly engaging in war. To do that is near losing (the gentleness) which is so precious. Thus it is that when opposing weapons are (actually) crossed, he who deplores (the situation) conquers. (DDJ 69, [Legge](https://www.gutenberg.org/cache/epub/216/pg216.txt))
+
+Read as an analogy for everyday commitments, the warning suggests examining a task's demands before committing yourself ([Legge, DDJ 69](https://www.gutenberg.org/cache/epub/216/pg216.txt)).
 
 (DDJ 69.)
 
-**Plain words** There's no greater disaster than lightly engaging a foe. Respect the difficulty of whatever you take on — overconfidence is the classic fatal error. 'Easy' is a verdict you earn after the thing, not before it.
+**Plain words**
+Before calling a job easy, look beyond the familiar part. What will you need to learn or check? Leave room to change your estimate when you find out more.
 
-*For example:* The hiker who died on the 'easy' trail was usually wearing sneakers — respect is equipment you bring to everything.
+**For example**
+Imagine pricing a fence repair. Inspect the posts as well as the broken panels before quoting, and explain how additional damage would affect the estimate.
+
+## Sources
+
+- [The Tao Teh King, James Legge translation, Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt) — chapter 69
 
 ## Stories
 
