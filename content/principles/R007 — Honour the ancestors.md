@@ -29,6 +29,12 @@ From the book itself: "Belief in the continuation of life after death is found i
 **Plain words** Mbiti's frame makes remembrance the thing that keeps a person socially alive. The remembered dead stay part of the family for four or five generations, which means every retelling of a name is doing structural work in the community, beyond sentiment. The practical version for someone outside the tradition: tell the names and the stories, especially the unflattering ones that carry the standards, and let the question of what they would recognise in your life do real steering.
 
 *For example:* The grandmother's sayings that get quoted at the dinner table a generation after she's gone — and the teenager who rolls their eyes, then catches themselves repeating one verbatim at twenty-five.
+
+## Sources
+
+- [Mbiti, African Religions and Philosophy, quoted in "Death and meaning(lessness): re-examining the African view", Cambridge](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/178F093294B00AE92F9276DF5B95750C/S0034412522000415a.pdf/death_and_meaninglessness_reexamining_the_african_view.pdf): the living-dead
+- [Mbiti, African Religions and Philosophy, PDF](https://africasocialwork.net/wp-content/uploads/2021/08/philosophy-of-mbiti.pdf): continuation of life after death
+
 ## Stories
 
 - [[ST235 — Hine-ahu-one, the First Woman|235. Hine-ahu-one, the First Woman]]
