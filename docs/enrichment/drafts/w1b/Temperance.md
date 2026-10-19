@@ -2,7 +2,7 @@
 
 ### The strange phrase
 
-Plato flags the ordinary phrase for it as a riddle: "the phrase 'master of himself' is an absurdity... for he who is master of himself would also be subject to himself." The riddle is the teaching: self-rule cannot be one part of the self defeating another, for the defeated part would still be the self that is ruled. That is why the definition prefers order to combat, and why temperance, more than the other virtues, resembles concord.
+Plato calls the ordinary expression for it a riddle: "the phrase 'master of himself' is an absurdity... for he who is master of himself would also be subject to himself" ([Republic IV.430e](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0168%3Abook%3D4%3Asection%3D430e)). The riddle is left standing; what the passage offers instead is the vocabulary of order, continence, concord and harmony ([Republic IV.430e](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0168%3Abook%3D4%3Asection%3D430e)).
 
 ### What it is about
 
@@ -10,7 +10,7 @@ Aristotle narrows the terrain: temperance "must be concerned with bodily pleasur
 
 ### In the compendium
 
-The body principles give the modern instances: BI040 on caffeine, BI015 on sleep hygiene, BE042 on nutrition for mood and BE044 on limiting substances. The compendium pairs the virtue with the Stoic dichotomy of control: appetite's arising is not up to one, the response of judgment is. Habituation is the vehicle — a trained disposition rather than a repeated decision.
+The body principles give the modern instances: BI040 on caffeine, BI015 on sleep hygiene, BE042 on nutrition for mood and BE044 on limiting substances. The compendium's related entries extend the virtue as pairings: the Stoic dichotomy of control for desire's governance, habituation and habit for the training of disposition.
 
 ## Related concepts
 
@@ -18,8 +18,8 @@ The body principles give the modern instances: BI040 on caffeine, BI015 on sleep
 - [[Virtue]] — the class of excellences this belongs to
 - [[Desire]] — the material temperance orders rather than deletes
 - [[The dichotomy of control]] — the Stoic frame the compendium pairs with appetite's governance
-- [[Habituation]] — how the mean is trained
-- [[Habit]] — the mechanism of trained desire
+- [[Habituation]] — how dispositions are trained, its companion entry
+- [[Habit]] — the everyday face of trained disposition
 - [[Ego depletion]] — the research program on self-control's limits
 - [[Wu wei]] — effortless ordering, the Daoist cousin of concord
 
@@ -27,4 +27,3 @@ The body principles give the modern instances: BI040 on caffeine, BI015 on sleep
 
 - [Plato, Republic IV.430e, Shorey translation, Perseus Digital Library](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0168%3Abook%3D4%3Asection%3D430e)
 - [Aristotle, Nicomachean Ethics III.10-12, Ross translation, Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html)
-

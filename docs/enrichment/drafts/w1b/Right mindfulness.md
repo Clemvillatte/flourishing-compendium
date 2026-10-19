@@ -1,12 +1,12 @@
-"Right mindfulness" is the seventh factor of the Buddhist Noble Eightfold Path: the deliberate keeping of attention on present experience, steady and undefended. Its root text, the Satipatthana Sutta, calls the four establishments of mindfulness "the direct path for the purification of beings...for the overcoming of sorrow & lamentation": body, feelings, mind and mental qualities, each observed "in & of itself" ([MN 10, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html)).
+"Right mindfulness" is the seventh factor of the Buddhist Noble Eightfold Path ([The Fourth Noble Truth, Access to Insight](https://www.accesstoinsight.org/ptf/dhamma/sacca/sacca4/index.html)). Its root text, the Satipatthana Sutta, calls the four establishments of mindfulness "the direct path for the purification of beings...for the overcoming of sorrow & lamentation": body, feelings, mind and mental qualities, each observed "in & of itself" ([MN 10, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html)).
 
 ### The refrain that does the work
 
-What makes the practice right is less the objects than the posture toward them. For each of the four frames the instruction returns to the same refrain: "ardent, alert, & mindful — putting aside greed & distress with reference to the world." The observation is not detached watching; it is effortful and free of grasping. The compendium's Y026 kernel gives the everyday version: bring the mind back, without drama.
+What makes the practice right is less the objects than the posture toward them. For each of the four frames the instruction returns to the same refrain: "ardent, alert, & mindful — putting aside greed & distress with reference to the world" ([MN 10](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html)). The observation is not detached watching; it is effortful and free of grasping. The compendium's Y026 kernel gives the everyday version: bring the mind back, without drama.
 
 ### What the trials show
 
-The clinical translation is mindfulness-based stress reduction and its relatives, and the evidence is real but modest. A meta-analysis of 47 randomized trials with active controls found mindfulness programs had moderate evidence of improved anxiety, depression and pain, with low or insufficient evidence for effects on positive mood, attention, sleep and other outcomes, and no evidence that meditation programs were better than any active treatment — drugs, exercise, or other behavioral therapies ([Goyal et al. 2014, JAMA Internal Medicine](https://pubmed.ncbi.nlm.nih.gov/24395196/)). The reviewers' conclusion was measured: clinicians should be prepared to talk with patients about the role a meditation program could have in addressing psychological stress.
+A modern clinical comparison comes from research on mindfulness meditation programs in adult clinical populations, and the evidence there is real but modest. A 2014 meta-analysis of 47 randomized trials with active controls found mindfulness programs had moderate evidence of improved anxiety, depression and pain, with low or insufficient evidence for effects on positive mood, attention, sleep and other outcomes, and no evidence that meditation programs were better than any active treatment — drugs, exercise, or other behavioral therapies ([Goyal et al. 2014, JAMA Internal Medicine](https://pubmed.ncbi.nlm.nih.gov/24395196/)). The reviewers' conclusion was measured: clinicians should be prepared to talk with patients about the role a meditation program could have in addressing psychological stress.
 
 ### In the compendium
 
@@ -28,4 +28,4 @@ The attention principles operationalise it: AT007 on attention shaping experienc
 
 - [Satipatthana Sutta (MN 10), Thanissaro Bhikkhu translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html)
 - [Goyal et al. 2014, "Meditation programs for psychological stress and well-being: a systematic review and meta-analysis," JAMA Internal Medicine](https://pubmed.ncbi.nlm.nih.gov/24395196/)
-
+- [The Fourth Noble Truth: The Noble Eightfold Path, Access to Insight](https://www.accesstoinsight.org/ptf/dhamma/sacca/sacca4/index.html) — the factor listing
