@@ -1,0 +1,30 @@
+"Empathic understanding" is Carl Rogers' name for one of the core conditions of his person-centered approach: understanding another's experience from inside their frame of reference. His definition: "The state of empathy, or being empathic, is to perceive the internal frame of reference of another with accuracy and with the emotional components and meanings which pertain thereto as if one were the person, but without ever losing the 'as if' condition" ([Rogers 1975, "Empathic: An Unappreciated Way of Being"](http://www.sageofasheville.com/pub_downloads/EMPATHIC_AN_UNAPPRECIATED_WAY_OF_BEING.pdf)). The "as if" is the load-bearing phrase: "If this 'as if' quality is lost, then the state is one of identification" ([Rogers 1975](http://www.sageofasheville.com/pub_downloads/EMPATHIC_AN_UNAPPRECIATED_WAY_OF_BEING.pdf)).
+
+### Becoming at home in another's world
+
+The empathic way of being "means entering the private perceptual world of the other and becoming thoroughly at home in it," being "sensitive, moment to moment, to the changing felt meanings which flow in this other person," and "temporarily living in his/her life, moving about in it delicately without making judgments" ([Rogers 1975](http://www.sageofasheville.com/pub_downloads/EMPATHIC_AN_UNAPPRECIATED_WAY_OF_BEING.pdf)). The entry into another's world requires a temporary exit from one's own: "for the time being you lay aside the views and values you hold for yourself in order to enter another's world without prejudice," something only a person secure enough "not to get lost" in the other's world can manage ([Rogers 1975](http://www.sageofasheville.com/pub_downloads/EMPATHIC_AN_UNAPPRECIATED_WAY_OF_BEING.pdf)).
+
+### The social-reform cousin
+
+Decades earlier, Jane Addams gave the same posture a civic name: sympathetic knowledge. On the encyclopedia's account, it is the idea that humans "can learn about one another in terms that move beyond propositional knowledge," and that it was "the responsibility of members of a society to know one another better for the purposes of caring and acting on one another's behalf" ([IEP, "Jane Addams"](https://iep.utm.edu/addamsj/)). At Hull-House, clubs, dances, theater and novels were not frivolous but "a means for breaking down barriers between people, thus fostering sympathetic knowledge" ([IEP](https://iep.utm.edu/addamsj/)).
+
+### In the compendium
+
+The kernels carry the practice: K207's deep listening, K210's active constructive responding, K216's nonviolent communication. The principles extend it: A074's generosity in interpreting friends' actions, S081's empathy for wrongdoers, D082's refusal to impose your frame on others — the exact discipline of the "as if." P168 names it directly: listen with empathic understanding.
+
+## Related concepts
+
+- [[Perspective-getting]] — the empirically tested version: ask rather than simulate
+- [[Empathy]] — the broader family of feeling-with
+- [[Sympathy]] — feeling for, the companion that keeps the "as if"
+- [[Deep listening]] — the practice's vehicle
+- [[Dialogue]] — Buber's meeting of worlds
+- [[The relational self]] — the self that only appears in meeting
+- [[Compassion]] — empathy that has taken responsibility for the other
+- [[Acceptance]] — letting another's world be as it is
+
+## Sources
+
+- [Carl Rogers, "Empathic: An Unappreciated Way of Being," The Counseling Psychologist (1975), full text PDF](http://www.sageofasheville.com/pub_downloads/EMPATHIC_AN_UNAPPRECIATED_WAY_OF_BEING.pdf)
+- [IEP, "Jane Addams"](https://iep.utm.edu/addamsj/)
+

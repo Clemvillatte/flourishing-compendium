@@ -11,13 +11,14 @@
   "Temperance",
   "Beginner's mind",
   "Courage",
-  "Creative evolution"
+  "Creative evolution",
+  "Empathic understanding"
  ],
  "flagged": {
   "Perspective-getting": "seed cites 'Epley et al., 2007' for 'asking beats perspective-taking'; no such perspective-getting paper could be found (canonical: Epley et al. 2004 anchoring; Eyal, Steffel & Epley 2018 JPSP 114(4):547-571 'Perspective mistaking'). Original line kept, prose cites the verified papers."
  },
  "missing_concepts": [],
- "sources_checked": 29,
+ "sources_checked": 31,
  "inline": [],
  "reciprocal": [
   {
@@ -454,6 +455,46 @@
    "target": "content/concepts/Broaden-and-build.md",
    "concept": "Creative evolution",
    "why": "positive emotion widening the field of possible action"
+  },
+  {
+   "target": "content/concepts/Perspective-getting.md",
+   "concept": "Empathic understanding",
+   "why": "the empirically tested version: ask rather than simulate"
+  },
+  {
+   "target": "content/concepts/Empathy.md",
+   "concept": "Empathic understanding",
+   "why": "the broader family of feeling-with"
+  },
+  {
+   "target": "content/concepts/Sympathy.md",
+   "concept": "Empathic understanding",
+   "why": "feeling for, the companion that keeps the as if"
+  },
+  {
+   "target": "content/concepts/Deep listening.md",
+   "concept": "Empathic understanding",
+   "why": "the practice's vehicle"
+  },
+  {
+   "target": "content/concepts/Dialogue.md",
+   "concept": "Empathic understanding",
+   "why": "Buber's meeting of worlds"
+  },
+  {
+   "target": "content/concepts/The relational self.md",
+   "concept": "Empathic understanding",
+   "why": "the self that only appears in meeting"
+  },
+  {
+   "target": "content/concepts/Compassion.md",
+   "concept": "Empathic understanding",
+   "why": "empathy that has taken responsibility for the other"
+  },
+  {
+   "target": "content/concepts/Acceptance.md",
+   "concept": "Empathic understanding",
+   "why": "letting another's world be as it is"
   }
  ],
  "notes": "continues after lead applied the first proposals file (moved to applied/)"
