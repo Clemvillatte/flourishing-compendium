@@ -88,3 +88,13 @@ staged by the save script).
 - Inherited, NOT opened/verified: psychology-parallels claim (Gollwitzer 1999 implementation intentions) — preserved per protocol, flagged for supervisor.
 - Saturation: Second-order desires, Self-constitution through action, Implementation intentions already linked. No justified new proposals.
 - Validator on final: ok; exact-quotation check all OK; protected fields untouched.
+
+## B023 — Practice right speech (done 2026-10-19; no advisor QC per speed directive, item 9 of session)
+
+- Opened: three AccessToInsight pages: MN 58 Abhaya Sutta trans. Thanissaro Bhikkhu (https://accesstoinsight.org/tipitaka/mn/mn.058.than.html), Dhammapada 17 Kodhavagga trans. Acharya Buddharakkhita (dhp.17.budd.html, v. 223), Dhammapada 1 Yamakavagga trans. Acharya Buddharakkhita (dhp.01.budd.html, v. 10). All new pages this session (count increment 3 recorded via state sources).
+- Verified verbatim: MN 58 case 1 "In the case of words that the Tathagata knows to be unfactual, untrue, unbeneficial (or: not connected with the goal), unendearing & disagreeable to others, he does not say them."; case 6 with the sympathy line "In the case of words that the Tathagata knows to be factual, true, beneficial, and endearing & agreeable to others, he has a sense of the proper time for saying them. Why is that? Because the Tathagata has sympathy for living beings."; Dhp 223 "Overcome the angry by non-anger; overcome the wicked by goodness; overcome the miser by generosity; overcome the liar by truth."
+- Quote-fidelity note: an earlier draft spliced case 1 and case 6 with " ... " into one non-contiguous quotation; caught by the contiguous-substring check and split into two contiguous quotes (per the D087 QC precedent). A self-authored fragment ("is it true") in quotation marks was unquoted.
+- Seed locator note: the body's locator now reads "(Dhammapada 10, 223; MN 58.)" — Dhp 10 and 223 were opened (Dhp 10 supports only the truthfulness-virtue aspect of v. 10 and is not quoted); Sutta Nipata 3.3 and MN 61 were inherited seed locators NOT opened this session and were removed from the locator line (ledger records them here).
+- Inherited, NOT opened/verified: psychology-parallels claim (Gottman soft-startup/four horsemen) — preserved per protocol, flagged for supervisor.
+- Saturation: Truthfulness, Nonviolent communication, Eightfold Path already linked. No justified new proposals.
+- Validator on final: ok; exact-quotation check all OK (contiguous); protected fields untouched.

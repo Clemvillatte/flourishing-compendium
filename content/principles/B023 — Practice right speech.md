@@ -12,13 +12,22 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 23** — Practice right speech
 
-Speak truthfully; refrain from divisive, harsh, and idle speech. Before speaking, ask: is it true, is it timely, is it beneficial, is it gentle, is it kindly meant?
+The canonical criteria are in MN 58, where the Buddha explains to Prince Abhaya which words the Tathagata does not say: "In the case of words that the Tathagata knows to be unfactual, untrue, unbeneficial (or: not connected with the goal), unendearing & disagreeable to others, he does not say them." And which he does say:
 
-(Dhammapada 10, 223; Sutta Nipata 3.3; MN 61.)
+> "In the case of words that the Tathagata knows to be factual, true, beneficial, and endearing & agreeable to others, he has a sense of the proper time for saying them. Why is that? Because the Tathagata has sympathy for living beings." (MN 58, trans. Thanissaro Bhikkhu, [AccessToInsight](https://accesstoinsight.org/tipitaka/mn/mn.058.than.html))
 
-**Plain words** Speak truthfully; refrain from divisive, harsh, and idle speech. Before speaking, ask: is it true, is it timely, is it beneficial, is it gentle, is it kindly meant? Five gates — most sentences fail at least two, which is exactly why the check exists.
+The six cases reduce to a small rule: only words that are factual, true and beneficial get said, whether or not they are endearing, and always with a sense of the proper time; everything else, including the flattering and the true-but-useless, stays unsaid. The Dhammapada adds the non-harsh response: "Overcome the angry by non-anger; overcome the wicked by goodness; overcome the miser by generosity; overcome the liar by truth." (Dhammapada 223, trans. Acharya Buddharakkhita, [AccessToInsight](https://accesstoinsight.org/tipitaka/kn/dhp/dhp.17.budd.html))
 
-*For example:* The sarcastic comment that was true, timely, and beneficial — but failed 'kindly meant' at the gate. The gate caught it.
+(Dhammapada 10, 223; MN 58.)
+
+**Plain words** The sutta's test is stricter than the everyday question of whether something is true: of its six kinds of sentence, only two are ever worth saying, and both need the right moment. Run the sentence through the cases before it leaves you: factual, beneficial, endearing, and is now the time. The four rejected kinds are not just lies; true-but-useless stays unsaid too, and so does flattering.
+
+*For example:* The sarcastic comment that was true and timely, but neither beneficial nor endearing: on the sutta's six cases it falls in a do-not-say category, whatever its truth.
+
+## Sources
+
+- [MN 58 Abhaya Sutta, trans. Thanissaro Bhikkhu, AccessToInsight](https://accesstoinsight.org/tipitaka/mn/mn.058.than.html)
+- [Dhammapada 223 (Kodhavagga), trans. Acharya Buddharakkhita, AccessToInsight](https://accesstoinsight.org/tipitaka/kn/dhp/dhp.17.budd.html)
 
 ## Stories
 

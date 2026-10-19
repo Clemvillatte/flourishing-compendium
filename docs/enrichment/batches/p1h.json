@@ -8,7 +8,8 @@
   "D096",
   "D046",
   "D047",
-  "B005"
+  "B005",
+  "B023"
  ],
  "in_progress": null,
  "flagged": {
@@ -18,7 +19,7 @@
   "D061": "Reopened for QC: milestone QC round 3: evidence scoping repairs"
  },
  "missing_concepts": [],
- "sources_checked": 4,
- "updated": "2026-10-19T12:56:53+00:00",
+ "sources_checked": 7,
+ "updated": "2026-10-19T12:57:53+00:00",
  "band_done": false
 }
