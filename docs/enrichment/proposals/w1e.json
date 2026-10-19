@@ -18,12 +18,12 @@
   {
    "into": "Interoception",
    "link": "Body scan in MBSR (Kabat-Zinn)",
-   "why": "the body scan is MBSR's main practice for training interoception region by region"
+   "why": "the body scan trains interoception region by region"
   },
   {
    "into": "Interoceptive awareness",
    "link": "Body scan in MBSR (Kabat-Zinn)",
-   "why": "noticing internal signals as information is the scan's most consistent reported outcome"
+   "why": "the scan asks for attending to internal signals as information"
   },
   {
    "into": "Bare attention in mindfulness practice",
@@ -43,17 +43,17 @@
   {
    "into": "Vipassana (insight)",
    "link": "Body scan in MBSR (Kabat-Zinn)",
-   "why": "the systematic survey of sensation resembles vipassana practice (comparison, not lineage)"
+   "why": "B043 lists the body scan among the kernels serving insight practice"
   },
   {
    "into": "Chronic pain acceptance",
    "link": "Body scan in MBSR (Kabat-Zinn)",
-   "why": "chronic pain was the clinical setting where the scan was first tested (Kabat-Zinn 1982)"
+   "why": "the 1982 program's patient population, studied in that literature for how stance toward pain predicts suffering"
   },
   {
    "into": "Mindful attention",
    "link": "Body scan in MBSR (Kabat-Zinn)",
-   "why": "Kabat-Zinn's own term for the attentional stance the scan trains"
+   "why": "the attentional stance the scan is meant to cultivate"
   }
  ],
  "inline": [
