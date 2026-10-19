@@ -1281,12 +1281,20 @@ function drawLabels(dpr, w, h, z, c) {
     return false;
   }
   const toScreen = n => ({ x: (dispX(n) - cam.x) * z + w / 2, y: (dispY(n) - cam.y) * z + h / 2 });
+  // PHONES: labels are the reading surface on a 390px viewport — they get a
+  // subtle backing pill, are truncated to what fits before the screen edge
+  // (instead of being skipped outright), and while the belts are being read
+  // node dots are NOT obstacles (the pill keeps them legible; the collision
+  // grid still keeps labels off each other). Desktop unchanged.
+  const phone = spreadSnap;
+  const phoneRead = phone && (hover || selected);
   // node dots are obstacles too — labels may not cover them (margin covers
   // the largest enlarged hubs whose centers sit just outside the viewport)
   for (const n of G.nodes) {
     if (!n.visible) continue;
     const p = toScreen(n);
     if (p.x < -130 || p.x > w + 130 || p.y < -130 || p.y > h + 130) continue;
+    if (phoneRead) continue;   // belt reading: dots yield to labels
     const rr = n.r * z + 3;
     insert({ x0: p.x - rr, y0: p.y - rr, x1: p.x + rr, y1: p.y + rr });
   }
@@ -1303,9 +1311,18 @@ function drawLabels(dpr, w, h, z, c) {
     const p = toScreen(n);
     if (p.x > w + 40 || p.y < 10 || p.y > h - 10) return;
     let title = n.e.title, tw = labelW(n);
-    if (tw > 300) { title = title.slice(0, 40) + '\u2026'; tw = Math.min(300, ctx.measureText(title).width); }
+    if (phone) {
+      // truncate to the space left before the screen edge (never skip outright)
+      const maxW = Math.min(300, Math.max(0, w - 10 - (p.x + n.r * z + 7)));
+      if (tw > maxW) {
+        while (title.length > 4 && ctx.measureText(title + '\u2026').width > maxW) title = title.slice(0, -1);
+        title += '\u2026';
+        tw = ctx.measureText(title).width;
+      }
+      if (!strong && tw < 44) return;   // not enough room for a readable label
+    } else if (tw > 300) { title = title.slice(0, 40) + '\u2026'; tw = Math.min(300, ctx.measureText(title).width); }
     const r = { x0: p.x + n.r * z + 3, y0: p.y - 7, x1: p.x + n.r * z + 7 + tw, y1: p.y + 7 };
-    if (!strong && (r.x0 < 2 || r.x1 > w - 2)) return;   // would run off either edge — skip
+    if (!phone && !strong && (r.x0 < 2 || r.x1 > w - 2)) return;   // would run off either edge — skip (desktop)
     if (!strong) {
       if (hits(r)) return;
       insert(r);
@@ -1313,6 +1330,11 @@ function drawLabels(dpr, w, h, z, c) {
     if (strong) {   // deferred: drawn after everything else, on a backing pill
       strongQueue.push({ n, title, tw, r, y: p.y });
       return;
+    }
+    if (phone) {   // pill backing: the label may sit over node dots
+      ctx.fillStyle = c.bg; ctx.globalAlpha = 0.72;
+      ctx.fillRect(r.x0 - 2, r.y0 - 1, tw + 6, 15);
+      ctx.globalAlpha = 1;
     }
     ctx.fillStyle = c.text;
     ctx.globalAlpha = 0.9;
@@ -1343,7 +1365,9 @@ function drawLabels(dpr, w, h, z, c) {
     tryLabel(focus, true);
     {
       const p = toScreen(focus);
-      const tw0 = Math.min(labelW(focus), 300);
+      const tw0 = phone
+        ? Math.min(labelW(focus), Math.max(0, w - 10 - (p.x + focus.r * z + 7)))
+        : Math.min(labelW(focus), 300);
       insert({ x0: p.x + focus.r * z + 3, y0: p.y - 7, x1: p.x + focus.r * z + 7 + tw0, y1: p.y + 7 });
     }
     // Hover chain: label the focus node's neighbours (Y), and then the
@@ -1497,6 +1521,12 @@ function toWorld(sx, sy) {
 }
 function hit(sx, sy) {
   if (warmTicks > 0) return null;   // no hit-testing on nodes that are still being arranged
+  // PHONES, while a node is selected: only the selection's neighbourhood
+  // (N+1 / N+2 / bridge partners) is clickable. A finger press on any OTHER
+  // node is a PAN — on a dense phone screen every touch used to grab a node
+  // and made navigating impossible. Tapping empty space deselects, and with
+  // the selection gone everything is clickable again.
+  const phoneLocked = spreadSnap && selected && spreadNbSet;
   const p = toWorld(sx, sy);
   // Two-step pick, so a small node sitting on a big one stays clickable:
   // 1. among nodes whose disk CONTAINS the point, the SMALLEST wins
@@ -1507,6 +1537,8 @@ function hit(sx, sy) {
   for (const n of G.nodes) {
     if (!n.visible) continue;
     if (nb2Hidden && nb2Hidden.has(n)) continue;   // N+2 OFF: second hop not clickable
+    if (phoneLocked && n !== selected && !spreadNbSet.has(n) &&
+        !(spreadNb2Set && spreadNb2Set.has(n)) && !(spreadBrSet && spreadBrSet.has(n))) continue;
     const dx = dispX(n) - p.x, dy = dispY(n) - p.y;
     const d = dx * dx + dy * dy;
     if (d < n.r * n.r) {
