@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 274** — Practise dignity-affirming action
 
-Treat every person as possessing inherent dignity that cannot be taken away. For Tutu, affirming other people is part of ubuntu: our own humanity is bound up with theirs. Act in ways that affirm the dignity of every person you encounter, regardless of their status, wealth, or circumstances.
+For Tutu, affirming other people is part of ubuntu: our own humanity is bound up with theirs.
 
 ([[Ubuntu|Ubuntu philosophy]]; Tutu, No Future Without Forgiveness.)
 
