@@ -29,8 +29,7 @@ The Daoist passage is included here as an editorial analogy, not as scientific s
 
 ## Psychology parallels
 
-- **[[Cognitive flexibility|Cognitive flexibility as a core executive function]]**, the ability to shift between mental sets and adapt to new rules (Miyake et al., 2000; Diamond, 2013)
-- **Cognitive flexibility is associated with better mental health and resilience**, inflexibility (rigidity, perseveration) is associated with depression, anxiety, and OCD (Gillie & Broadbent, 1989; Murray et al., 2018)
+- **[[Cognitive flexibility|Cognitive flexibility as a core executive function]]**, per the opened Diamond 2013 review; a Miyake et al. 2000 citation is inherited and was not opened by this session
 
 ## Philosophy parallels
 

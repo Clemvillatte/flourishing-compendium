@@ -29,8 +29,8 @@ What the Buddhist instruction describes is a specific act of recognition — nam
 
 ## Psychology parallels
 
-- **[[Cognitive restructuring|Cognitive restructuring in CBT]]**, identifying and challenging distorted thoughts reduces depression and anxiety (Beck, 1976; Burns, 1980)
-- **[[Cognitive distortions|Common cognitive distortions]]**, catastrophising, all-or-nothing thinking, mind-reading, personalisation, emotional reasoning (Burns, 1980; Beck, 2011)
+- **[[Cognitive restructuring|Cognitive restructuring in CBT]]**, the evidence-checking procedure from the opened Beck Institute worksheet
+- **[[Cognitive distortions|Common cognitive distortions]]**, per the opened worksheet, identifying a cognitive distortion is an optional step in the procedure
 
 ## Philosophy parallels
 
