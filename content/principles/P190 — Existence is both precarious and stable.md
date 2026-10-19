@@ -44,7 +44,7 @@ A household budget might treat rent as recurring and a freelance income as uncer
 
 ## Limits
 
-- A phenomenological and practical framing, not a metaphysical claim about ultimate reality.
+- The budgeting application above is a planning aid; Dewey's book is a work of empirical naturalism whose arguments about experience and nature this page does not settle.
 ## Philosophy parallels
 
 - **[[Accept what happens as the will of providence|Accept what happens as the will of providence]]**

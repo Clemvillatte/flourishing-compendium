@@ -14,23 +14,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 
 Simondon's account locates the principle of individuation in the formative operation rather than in its result, and its subject matter is individuation generally, not only persons:
 
-> "The true principle of individuation can neither be sought in what exists before the individuation occurs, nor in what remains after the individuation is accomplished" (Simondon, [Adkins translation](https://topologicalmedialab.net/xinwei/classes/readings/Simondon/Physico-BiologicalGenesisIndiv.pdf))
+> "The true principle of individuation can neither be sought in what exists before the individuation occurs, nor in what remains after the individuation is accomplished" (Simondon, ch. 1, sec. I.2, [Adkins translation](https://topologicalmedialab.net/xinwei/classes/readings/Simondon/Physico-BiologicalGenesisIndiv.pdf))
 
-> "The principle of individuation of the living is always an operation, like the capture of technical Form, but this operation is of two dimensions, that of simultaneity, and that of succession, through an ontogenesis supported by memory and instinct." (Simondon, "The Conditions of Individuation")
+> "The principle of individuation of the living is always an operation, like the capture of technical Form, but this operation is of two dimensions, that of simultaneity, and that of succession, through an ontogenesis supported by memory and instinct." (Simondon, ch. 1, sec. I.3)
 
-For the living being, the operation has a temporal dimension. The opened passages establish that much: individuation in living beings is an operation with a succession aspect, not only a completed outcome.
+For the living being, the operation has a temporal dimension: individuation in living beings is an operation with a succession aspect, not only a completed outcome.
 
 (Simondon, L'individuation, 1958.)
 
 **Plain words**
-A practical application of the temporal aspect: ask whether an established identity or role still fits changed circumstances. The passages above do not say how long individuation lasts or what discomfort signifies; they say the living being's individuation is an operation with succession in it.
+A practical application of the temporal aspect: ask whether an established identity or role still fits changed circumstances, rather than assuming it must be kept or must be replaced.
 
 **For example**
-Imagine someone whose role was built around circumstances that have since changed. The question the principle suggests is whether the role still fits, rather than assuming it must be kept or must be replaced.
+Imagine someone whose role was built around circumstances that have since changed. The question the principle suggests is whether the role still fits, rather than which version of themselves to get back to.
 
 ## Sources
 
-- [Gilbert Simondon, L'individu et sa genèse physico-biologique (1964), trans. Taylor Adkins, "Physico-Biological Genesis of the Individual" (Topological Media Lab PDF)](https://topologicalmedialab.net/xinwei/classes/readings/Simondon/Physico-BiologicalGenesisIndiv.pdf) — both blockquotes from the section "The Conditions of Individuation"
+- [Gilbert Simondon, L'individu et sa genèse physico-biologique (1964), trans. Taylor Adkins, "Physico-Biological Genesis of the Individual" (Topological Media Lab PDF)](https://topologicalmedialab.net/xinwei/classes/readings/Simondon/Physico-BiologicalGenesisIndiv.pdf) — ch. 1, Section I: first blockquote from subsection 2 (Validity of the hylemorphic model), second from subsection 3 (Limits of the hylemorphic model)
 
 ## Psychology parallels
 

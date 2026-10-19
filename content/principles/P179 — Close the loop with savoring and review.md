@@ -20,7 +20,7 @@ And gives it the book's central place:
 
 > "This process is called reflective thought; it alone is truly educative in value, and it forms, accordingly, the principal subject of this volume." (Dewey, How We Think, ch. 1)
 
-On Dewey's definition, the review the page's kernels train (K157 evening review, K240 weekly review) is consideration of this kind: grounds and consequences deliberately examined rather than left to memory. The savoring half is an application in the same spirit — examining a good experience's grounds and what it leads toward — and the savoring citation in the parallels (Bryant and Veroff, 2007) is inherited, not verified here.
+On Dewey's definition, the review the kernels below train (K157 evening review, K240 weekly review) is consideration of this kind: grounds and consequences deliberately examined rather than left to memory. The savoring half is an application in the same spirit, examining a good experience's grounds and what it leads toward.
 
 (Dewey, How We Think, 1910; savoring research.)
 

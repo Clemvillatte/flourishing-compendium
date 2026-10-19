@@ -16,7 +16,7 @@ James's chapter "The Perception of Time" argues that the present as perceived ha
 
 > "In short, the practically cognized present is no knife-edge, but a saddle-back, with a certain breadth of its own on which we sit perched, and from which we look in two directions into time. The unit of composition of our perception of time is a duration, with a bow and a stern, as it were — a rearward- and a forward-looking end." (James, The Principles of Psychology, [1890 text](https://archive.org/stream/theprinciplesofp01jameuoft/theprinciplesofp01jameuoft_djvu.txt))
 
-That saddle-back is what the page's concept link calls the specious present. The page's melody example is an illustration of attending to a duration rather than a point.
+James calls that saddle-back the specious present. The melody example below illustrates attending to a duration rather than a point.
 
 (James, The Principles of Psychology, 1890; Whitehead, Process and Reality, 1929.)
 

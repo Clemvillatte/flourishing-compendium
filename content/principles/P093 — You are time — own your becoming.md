@@ -20,7 +20,7 @@ The chapter's ground for that: were duration merely one instant replacing anothe
 
 > "for a conscious being, to exist is to change, to change is to mature, to mature is to go on creating oneself endlessly" (Bergson, Creative Evolution, ch. 1)
 
-The passage scopes that line to conscious beings and then raises separately the wider question of existence in general. A practical application: carrying earlier experience into changed circumstances, rather than treating an earlier self as a place to return to. The Time and Free Will citation in the locator is inherited and not quoted here.
+The passage scopes that line to conscious beings and then raises separately the wider question of existence in general. A practical application: carrying earlier experience into changed circumstances, rather than treating an earlier self as a place to return to.
 
 (Bergson, Time and Free Will, 1889; Creative Evolution, 1907.)
 
