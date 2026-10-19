@@ -12,13 +12,15 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 189** — Live in an aleatory world: accept the gamble, cultivate method
 
-Man finds himself living in an aleatory world; his existence involves, to put it baldly, a gamble. The world is a scene of risk; it is uncertain, unstable, uncannily unstable. Its dangers are irregular, inconstant, not to be counted upon. Accept the gamble; then develop methods — inquiry, planning, mutual aid — that manage risk without pretending to eliminate it.
+Dewey's word for the world we actually live in is aleatory — dice-shaped, ruled by chance. "Man finds himself living in an aleatory world; his existence involves, to put it baldly, a gamble" ([Dewey 1925, Experience and Nature](https://archive.org/details/experiencenature00dewe)). The world is a scene of risk, its dangers irregular, inconstant, not to be counted upon. This is not a complaint; it is a description of the conditions, and the first move is to accept that description rather than fight it.
 
-(Dewey, Experience and Nature, 1925.)
+The second move is the one that separates Dewey from fatalism: once the gamble is accepted, intelligence goes to work. Dewey explicitly endorses insurance, regulation and acknowledgment as intelligent responses — not advice to reject risk management, but to build methods that manage risk without pretending to eliminate it. Inquiry, planning, mutual aid: these are the moves you make with the dice already rolling.
 
-**Plain words** We find ourselves living in an aleatory world; existence involves, to put it baldly, a gamble. The world is a scene of risk — uncertain, unstable, uncannily unstable, its dangers irregular and not to be counted upon. Accept the gamble; then develop methods — inquiry, planning, mutual aid — that manage risk without pretending to eliminate it.
+> "Man finds himself living in an aleatory world; his existence involves, to put it baldly, a gamble. The world is a scene of risk; it is uncertain, unstable, uncannily unstable." (John Dewey, Experience and Nature, 1925, [Internet Archive](https://archive.org/details/experiencenature00dewe))
 
-*For example:* The startup, the pregnancy, the cross-country move — all bets placed in an uncountable world. The winners didn't eliminate risk; they sized the bet, kept reserves, and had friends. Method, inside the gamble.
+**Plain words** Every serious plan you make is a bet placed in a world that has not agreed to hold up its end. The dice-shaped quality of things is not a defect to be solved; it is the table you are playing on. What separates a person who flourishes here from one who does not is not the absence of risk; it is whether they sized the bet, kept reserves, and had people to call. Accepting the gamble does not mean liking it; it means stopping the argument with reality so the actual planning can begin.
+
+*For example:* Two people move to a new city. One treats any setback — the bad job, the difficult year — as evidence the whole move was a mistake. The other names the same setback as the aleatory and asks what the method is now: reserves, contacts, next quarter's plan. Same setback, different relation to the dice. One of them is still arguing with the table; the other is playing.
 
 ## Psychology parallels
 
