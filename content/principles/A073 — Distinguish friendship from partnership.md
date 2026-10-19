@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 73** — Distinguish friendship from partnership
 
-Not every partnership is a friendship. You can work with someone, trade with someone, or cooperate with someone without being their friend. Friendship requires a deeper bond: mutual goodwill, shared values, and the wish for the other's good. Do not confuse useful cooperation with friendship.
+Not every partnership is a friendship in the fullest sense. You can work with someone, trade with someone, or cooperate with someone without being their friend. Aristotle calls these friendships of utility: real, but resting on benefit rather than on the friend. Friendship grounded in character requires mutual goodwill, shared values, and the wish for the other's good.
 
 (NE VIII.3, VIII.6.)
 
@@ -28,9 +28,9 @@ Such friendships "are based on an accident, since the friend is not loved for be
 
 In Book VIII.6 he says "the friendship of utility is a thing for sordid souls" ([1158a](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abekker+page%3D1158a)), and notes that rulers keep their friends in separate compartments: useful ones and pleasant ones, "but rarely any that are both at once" (1158a). The partnership has its place; it just is not the bond it can be mistaken for.
 
-**Plain words** Two people finish a project and the messages stop. Nobody was deceived; the bond was the work. Aristotle's test is what the friend is loved for: the useful friend is loved as affording benefit, the real friend for what he is. Ask which one you are reaching for when you call someone up.
+**Plain words** Two people finish a project and the messages stop. Nobody was deceived; the bond was the work. Aristotle's test is what the friend is loved for: in a friendship of utility, for the benefit; in friendship grounded in character, for the person. Ask which basis is doing the work when you call someone up.
 
-*For example:* A great colleague who disappears once the project ends was a partner, not a friend. That's fine, as long as you didn't expect more.
+*For example:* A relationship organised around a shared project may end when the project ends. Aristotle calls this a friendship of utility; its basis is the benefit.
 
 ## Sources
 

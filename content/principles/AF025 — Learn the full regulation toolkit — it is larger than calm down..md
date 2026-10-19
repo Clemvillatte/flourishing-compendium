@@ -20,11 +20,11 @@ Emotion regulation is not one skill; it is a family of processes that can be dep
 
 ### The five points
 
-The process model behind the toolkit: "emotion may be regulated at five points in the emotion generative process: (a) selection of the situation, (b) modification of the situation, (c) deployment of attention, (d) change of cognitions, and (e) modulation of responses" (Gross 1998). "Calm down" works at the fifth point only, the last one chronologically; everything earlier in the sequence is also regulation.
+The process model behind the toolkit: "emotion may be regulated at five points in the emotion generative process: (a) selection of the situation, (b) modification of the situation, (c) deployment of attention, (d) change of cognitions, and (e) modulation of responses" (Gross 1998). The model distinguishes several things you can change: the situation you enter, the situation itself, your attention, your interpretation, and your response.
 
-**Plain words** Notice that the breathing comes last. Before it, in Gross's model, there is a whole ladder of earlier moves: which situation you walked into, how you changed it, what you attended to, what it meant to you. Each rung is a place you can work. "Calm down" is one tool at one rung.
+**Plain words** The kit is bigger than one tool. In a hard conversation you can change the situation (take it out of the kitchen), change the attention (look at what is actually being said), change the meaning (maybe this is not an attack), or change the response (breathe, lower the voice). "Calm down" is one move in that kit.
 
-*For example:* The person whose only tool is deep breathing at the peak, versus the one who manages the week's situations, the attention and the interpretations before anything peaks. One is a fire brigade; the other is fire code.
+*For example:* In one difficult conversation, the only move is slowing the breath at the peak; in another, the same person has already chosen the time, reframed the stakes, and decided what to attend to. Same conversation, different kit.
 
 ## Sources
 

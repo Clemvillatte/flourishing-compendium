@@ -16,20 +16,26 @@ Depression biases attention toward negative self-referential information and awa
 
 ### What rumination is
 
-The clinical definition, via Nolen-Hoeksema's response styles theory: "a way of responding to depressed mood that is characterized by repetitively and passively focusing on the symptoms of depression, and their possible causes and consequences" ([Ehring 2021, World Psychiatry](https://pmc.ncbi.nlm.nih.gov/articles/PMC8429319/)). Attention here is not merely sad; it is stuck, going over the same ground.
+The clinical definition, via Nolen-Hoeksema's response styles theory:
 
-### What it does
+> "a way of responding to depressed mood that is characterized by repetitively and passively focusing on the symptoms of depression, and their possible causes and consequences" — as summarised in [Ehring 2021, World Psychiatry](https://pmc.ncbi.nlm.nih.gov/articles/PMC8429319/)
 
-The review evidence is a list of costs: "rumination exacerbates depression, enhances negative thinking, impairs problem solving, interferes with instrumental behavior, and erodes social support" ([Nolen-Hoeksema, Wisco & Lyubomirsky 2008](https://www.psychologicalscience.org/journals/perspectives/j.1745-6924.2008.00088.x/)). Each pass around the loop deepens the groove it runs in.
+The attentional bias is documented too: "there is evidence that people with depression show increased attention for negative stimuli and decreased attention for positive stimuli compared with non-depressed individuals" ([Disner et al. 2011](https://www.psychiatry.wisc.edu/courses/Nitschke/seminar/disner%20beck%202011%20nat%20rev%20neurosci.pdf)), and "a persistent sad mood is probably maintained in part by an attentional bias towards negative information in the environment" (Disner et al. 2011).
 
-**Plain words** Depression dims the beam and aims it at everything wrong with you: rumination is attention stuck in a negative loop. It feels like honest self-assessment; it is the illness doing the assessing. When the mood lifts, the "truths" lift with it.
+### What rumination does
 
-*For example:* The depressed person who "sees themselves clearly" as a failure, then finds that treatment works and the clarity was the symptom. The evidence did not change. The filter did.
+The review evidence is a list of costs: "rumination exacerbates depression, enhances negative thinking, impairs problem solving, interferes with instrumental behavior, and erodes social support" ([Nolen-Hoeksema, Wisco & Lyubomirsky 2008](https://www.psychologicalscience.org/journals/perspectives/j.1745-6924.2008.00088.x/)).
+
+**Plain words** The replay feels like analysis: the same scene, the same question, no new result. The skill is noticing the loop itself, not judging the verdict. The verdict may even be partly right; the loop is still the loop.
+
+*For example:* Someone repeatedly replays "I failed" after an ordinary mistake, each pass arriving at the same conclusion, without any next step appearing. The process, not the verdict, is the symptom.
 
 ## Sources
 
 - [Thomas Ehring, "Thinking too much: rumination and psychopathology", World Psychiatry 20(3), 2021 (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8429319/) — the Nolen-Hoeksema definition of rumination
+- [Disner, Beevers, Haigh & Beck, "Neural mechanisms of the cognitive model of depression", Nature Reviews Neuroscience 12, 2011 (PDF)](https://www.psychiatry.wisc.edu/courses/Nitschke/seminar/disner%20beck%202011%20nat%20rev%20neurosci.pdf) — attentional bias toward negative and away from positive stimuli; sad mood maintained in part by attentional bias
 - [Nolen-Hoeksema, Wisco & Lyubomirsky, "Rethinking Rumination", Perspectives on Psychological Science 3(5), 2008 (APS abstract)](https://www.psychologicalscience.org/journals/perspectives/j.1745-6924.2008.00088.x/) — rumination's documented costs
+
 ## Psychology parallels
 
 - **Depression and attentional bias**, depression biases attention toward negative and away from positive information (Disner et al., 2011; Joormann et al., 2007)
@@ -44,4 +50,4 @@ The review evidence is a list of costs: "rumination exacerbates depression, enha
 
 ## Practice
 
-- When depressed, recognise that your attention is biased and your concentration is impaired. This is a symptom, not a personal failing. Treat the depression; the attention will follow.
+- When depressed, recognise that your attention is biased and your concentration is impaired. This is a symptom, not a personal failing. 

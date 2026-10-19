@@ -12,19 +12,23 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 35** — Recognise that avoidance is negatively reinforcing: it works short-term and maintains suffering long-term
 
-Avoiding a feared situation reduces anxiety immediately, which reinforces the avoidance. But avoidance prevents the extinction of fear and maintains the anxiety disorder. This is one of the most robust findings in affect science and clinical psychology.
+Avoiding a feared situation can bring immediate relief, and that relief can reinforce the avoidance. Repeated avoidance may also remove opportunities to learn whether what was feared actually happens. Recognise the pattern when it appears.
 
 ### The mechanism
 
-The cycle, stated plainly in the exposure-therapy literature: "Avoidance behaviors are then negatively reinforced by the temporary relief of anxiety or perception of control" ([Petri, Cullum & Hunnicutt-Ferguson 2022](https://pmc.ncbi.nlm.nih.gov/articles/PMC10172524/)). Relief is the payment; the avoidance is what gets bought.
+The cycle, stated plainly in the exposure-therapy literature:
+
+> "Avoidance behaviors are then negatively reinforced by the temporary relief of anxiety or perception of control." — Petri, Cullum & Hunnicutt-Ferguson 2022 ([PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10172524/))
+
+Temporary relief can reinforce avoidance; repeated avoidance may also remove opportunities to learn whether feared predictions occur. Relief is the payment; the avoidance is what gets bought.
 
 ### What it blocks
 
-Exposure therapy is "repeated approach toward fear provoking stimuli" ([Craske et al. 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4114726/)), and avoidance is what prevents it: "avoidance can interfere with new learning by preventing any violation in expectancy" (Craske et al. 2014). The short-term gain is the long-term cost, as the same article notes of safety signals: they "alleviate distress in the short term, but when they are no longer present, the fear returns" (Craske et al. 2014).
+Exposure therapy is "repeated approach toward fear provoking stimuli" ([Craske et al. 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4114726/)), and avoidance, on that account, "can interfere with new learning by preventing any violation in expectancy" (Craske et al. 2014). The article makes the same point about safety signals, which differ from avoidance but work the same way: they "alleviate distress in the short term, but when they are no longer present, the fear returns" (Craske et al. 2014).
 
-**Plain words** The skipped party pays instantly: relief arrives the moment you decide. That relief is the trap's bait. The fear you avoided never got its chance to be disproven, so it waits, slightly larger. The question is not whether avoidance works. It works. That is the problem.
+**Plain words** Avoidance often pays on the spot, in relief. The trade is the relief now for the unanswered question later: what would have happened if you had gone? The question stays closed as long as the avoidance keeps it closed. Noticing that trade is the skill.
 
-*For example:* The skipped party that brings instant relief: the slightly larger dread next time, and the slightly smaller world after a year. The avoidance was never neutral; it was compounding.
+*For example:* Someone who dreads large gatherings cancels each invitation as it comes. Each cancellation brings relief, and each one keeps untested the prediction that the evening would be unbearable.
 
 ## Sources
 
