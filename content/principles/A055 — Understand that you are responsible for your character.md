@@ -10,15 +10,20 @@ number: "55"
 navigation: {"track": "philosophy", "primaryPath": ["NAV-PHILOSOPHY", "NAV-PHIL-ARIS"], "alternatePaths": []}
 legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristotelian Virtue Ethics and Practical Wisdom", "chapter": "A-S05 — Layer V - Voluntary Action, Choice, and Akrasia", "parent": ""}
 ---
+
 > **Principle 55** — Understand that you are responsible for your character
 
-You did not choose your starting conditions, but you chose the acts that built your character. The person who is unjust became so by doing unjust acts; the person who is just became so by doing just acts. This is both a burden and a freedom: you are the author of who you are becoming.
+Aristotle's argument in NE III.5 runs from choice to character. Where we are free to act we are also free to refrain, so virtue and vice alike depend on us. He then gives the mechanism: men become careless by living carelessly, and acquire a particular quality by constantly acting in a particular way ([NE III.5, Rackham, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=3)). He notes the limit honestly: once a person has become unjust it is no longer open to them simply to stop being unjust by wishing, any more than a sick man can get well by wishing.
+
+> Men are themselves responsible for having become careless through living carelessly, as they are for being unjust or profligate if they do wrong or pass their time in drinking and dissipation. They acquire a particular quality by constantly acting in a particular way. ... Only an utterly senseless person can fail to know that our characters are the result of our conduct.
+>
+> — Nicomachean Ethics III.5 ([Rackham, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=3))
+
+**Plain words** The compendium's application of this principle asks the reader to notice the asymmetry Aristotle names: the acts that build a character are in a person's control, while the resulting state is not directly changeable by a wish. The burden is that a character is something you built. The freedom is that the building happens through particular acts you can still do.
+
+For example (imagined): a person raised in a cynical household who starts keeping small promises as an adult is changing their own character, one act at a time.
 
 (NE III.5.)
-
-**Plain words** You didn't choose where you started. You did choose the acts that shaped you. Someone became unjust by doing unjust things. That's a burden and also a freedom: you're writing who you're becoming.
-
-*For example:* A person raised in a cynical household who starts keeping small promises as an adult is rewriting their own character, one act at a time.
 
 ## Stories
 
