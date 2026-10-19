@@ -364,3 +364,12 @@ copied from the opened URL in this session.
   doubt/inquiry passages fetched verbatim). The four-methods framing is paraphrased,
   not quoted; the "hired guards" line is the compendium's voice. Validated vs HEAD
   (pre-item).
+
+## P158 — Choose values as directions, not destinations (Hayes et al. 2011)
+
+- Opened: https://pmc.ncbi.nlm.nih.gov/articles/PMC3635495/ (Hayes, Levin, Plumb-
+  Vilardaga, Villatte & Pistorello 2011, Behavior Therapy 42(2); the values-definition
+  and goals-contrast sentences fetched verbatim). The seed's locator cited the
+  Hayes/Strosahl/Wilson 2011 book; the opened source is this 2011 Behavior Therapy
+  article by the ACT authors, which carries the same definition. Validated vs HEAD
+  (pre-item).

@@ -12,13 +12,20 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 158** — Choose values as directions, not destinations
 
-Values are chosen qualities of ongoing action: like "being a present parent" — never finishable and always available. Set your compass by values; measure progress by direction, not arrival.
+The ACT definition runs: values are "chosen, verbally constructed consequences of dynamic, evolving patterns of activity for which the predominant reinforcer becomes intrinsic to the behavioral pattern itself." In plainer words from the same article: values "are never finished; they are more like a direction than a destination."
 
-(Hayes, Strosahl and Wilson, 2011.)
+> "Unlike values, which are constantly instantiated but never achieved as an object, concrete goals that are values consistent can be achieved." (Hayes et al. 2011, [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3635495/))
 
-**Plain words** Values are chosen qualities of ongoing action — like 'being a present parent' — never finishable and always available. Set your compass by values; measure progress by direction, not arrival. A value is a compass, not a destination; compasses never say 'you've arrived.'
+The compendium applies the distinction to the to-do list: "be a loving partner" cannot be ticked off, and the next hour is always available for it.
 
-*For example:* 'Be a loving partner' has no finish line — you can't tick it off, and you can always do it in the next hour. That unfinishability is not a flaw. It's the design.
+**Plain words**
+A goal is a place; a value is a heading. You can finish a report, and you cannot finish being honest. The test of a value is that it can be acted on in the next hour, whatever this week's outcomes have been. That unfinishability is not a flaw; it is the design.
+
+*For example:* Suppose "be a loving partner" on a list next to "finish the report". As a modern application, the ACT distinction says one of these can be completed today and the other can only be practised today.
+
+## Sources
+
+- [Hayes et al. 2011, ACT and Contextual Behavioral Science (Behavior Therapy, PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3635495/)
 
 ## Stories
 
