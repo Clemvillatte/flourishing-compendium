@@ -14,7 +14,11 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 
 The difference between thin and rich experience is integration: connections felt, meanings seen, history and future present. Enrich your experiences by connecting them — to others, to your past, to your projects.
 
-What the principle asks for is offered as this page's application, not as a report of Dewey's argument: the open copies of Art as Experience are lending-restricted and the owner's print library is not reachable from here, so no passage has been opened and none is quoted. The application is the practice itself: connecting an experience to others, to your past, and to your projects, as something a person does rather than something that happens to them.
+Dewey's own framing, from the book's opening chapter:
+
+> "This task is to restore continuity between the refined and intensified forms of experience that are works of art and the everyday events, doings, and sufferings that are universally recognized to constitute experience." (Dewey, Art as Experience, ch. 1, [scan](https://archive.org/details/deweyjohnartasanexperience))
+
+The book's third chapter names the complete episode: "Experience in this vital sense is defined by those situations and episodes that we spontaneously refer to as being 'real experiences'; those things of which we say in recalling them, 'that was an experience.'" What the principle draws from this is offered as a labeled application: connecting an experience to others, to your past, and to your projects is the practice, and it is something a person does.
 
 (Dewey, Art as Experience, 1934.)
 
@@ -26,7 +30,7 @@ The same song — background noise while cleaning, versus the one that was playi
 
 ## Sources
 
-- John Dewey, Art as Experience (Minton, Balch, 1934) — print edition; no open web edition verified, so this page offers no verbatim quotation.
+- [John Dewey, Art as Experience (scan, Internet Archive)](https://archive.org/details/deweyjohnartasanexperience) — quotations verified against the scanned text (chs. 1 and 3).
 
 ## Psychology parallels
 
