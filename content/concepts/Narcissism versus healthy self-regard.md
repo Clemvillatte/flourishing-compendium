@@ -11,7 +11,7 @@ Narcissism versus healthy self-regard is the distinction between self-worth that
 
 ### The fragility account
 
-Kernis's framing: "High self-esteem can be fragile or secure depending upon the extent to which it is defensive or genuine, contingent or true, unstable or stable, and discrepant or congruent with implicit (nonconscious) feelings of self-worth" ([Kernis, Toward a Conceptualization of Optimal Self-Esteem, Psychological Inquiry 14](https://www.semanticscholar.org/paper/TARGET-ARTICLE:-Toward-a-Conceptualization-of-Kernis/90e6fe5d604dee8d9662f988780b056c3989d13)). Fragile high self-esteem shows itself as defensiveness and self-enhancement: "Individuals with fragile high self-esteem appear willing to go to great lengths to preserve, maintain, and enhance their positive feelings of self-worth," while secure self-esteem is "well-anchored" and relates to healthy functioning ([Kernis, ADS abstract](https://ui.adsabs.harvard.edu/abs/2005nsf....0451029K/abstract)). The narcissistic pattern is the clearest case: high explicit self-esteem sitting on low implicit self-worth, with the discrepant profile "associated with narcissism and self-esteem instability" ([Bosson et al.-line findings, Wiley](https://onlinelibrary.wiley.com/doi/10.1111/j.1467-6494.2005.00371.x)).
+Kernis's framing: "High self-esteem can be fragile or secure depending upon the extent to which it is defensive or genuine, contingent or true, unstable or stable, and discrepant or congruent with implicit (nonconscious) feelings of self-worth" ([Kernis, Toward a Conceptualization of Optimal Self-Esteem, Psychological Inquiry 14](https://www.semanticscholar.org/paper/TARGET-ARTICLE:-Toward-a-Conceptualization-of-Kernis/90e6fe5d604dee8d9662f988780b056c3989d13e)). Fragile high self-esteem shows itself as defensiveness and self-enhancement: "Individuals with fragile high self-esteem appear willing to go to great lengths to preserve, maintain, and enhance their positive feelings of self-worth," while secure self-esteem is "well-anchored" and relates to healthy functioning ([Kernis, ADS abstract](https://ui.adsabs.harvard.edu/abs/2005nsf....0451029K/abstract)). The narcissistic side of the distinction is not one pattern but two. In one undergraduate sample, participants with discrepant high self-esteem, high explicit and low implicit, "possessed the highest levels of narcissism," while those high on both showed the most stable self-esteem ([discrepancy study, Wiley](https://onlinelibrary.wiley.com/doi/10.1111/j.1467-6494.2005.00371.x)). Later work separates vulnerable narcissism, linked to low explicit self-evaluations regardless of implicit levels, from grandiose narcissism, whose link to explicit self-esteem depends on implicit self-views ([PMC, narcissistic traits study](https://pmc.ncbi.nlm.nih.gov/articles/PMC5118622/)). Kernis's own caveat cuts the other way too: "being low on narcissism does not mean that one has optimal self-esteem. In fact, research has shown that low narcissism is related to low self-esteem" ([Kernis author copy](https://selfdeterminationtheory.org/wp-content/uploads/2014/04/2003_Kernis_Optimal.pdf)).
 
 ### The Dark Triad frame
 
@@ -19,7 +19,7 @@ Paulhus and Williams placed narcissism alongside Machiavellianism and subclinica
 
 ### In the compendium
 
-The principles draw the line on both sides. The healthy side is Aristotle's and the Stoics' proper pride: A015's megalopsychia, A025's kaucha, S112's fame without vanity, A071's self-love as foundation, and AF068's authentic rather than hubristic pride, the two-pride distinction that parallels Kernis's line. The narcissistic side is fragility: AF047's fear function and AF014's emotional inertia describe the ego-threat machinery, SE033's humour about imperfections is the anti-defensiveness practice, P165's fully functioning person is Rogers's version of the settled self, and BI034's body care marks the compendium's refusal to moralize self-regard into vanity.
+The principles draw the line on both sides. The healthy side is Aristotle's and the Stoics' proper pride: A015's megalopsychia, A025's kaucha, S112's fame without vanity, A071's self-love as foundation, and AF068's authentic rather than hubristic pride, the two-pride distinction that parallels Kernis's line. The narcissistic side is fragility: AF047's fear function and AF014's emotional inertia describe the ego-threat machinery, SE033's humour about imperfections is the anti-defensiveness practice, P165's fully functioning person is Rogers's version of the settled self, and BI034's gut-health care keeps the body's side of self-regard in view.
 
 - [[A015 — Practice magnanimity (megalopsychia)]] — Aristotle's proper high regard
 - [[A071 — Recognise that self-love is the foundation]] — self-love without the fragility
@@ -46,9 +46,9 @@ The principles draw the line on both sides. The healthy side is Aristotle's and 
 
 - [[Pride]] — the emotion at the center of the distinction
 - [[Humility]] — the virtue on the healthy side of it
-- [[The approval trap]] — the external contingency narcissism runs on
+- [[The approval trap]] — the external contingency that can underlie fragile self-regard
 - [[Fixed views of self]] — the fixed self that must be defended
-- [[Empathy]] — the capacity whose absence marks the narcissistic side
+- [[Empathy]] — the capacity whose impairment is part of the narcissistic clinical picture
 
 ## Cited in psychology parallels
 
