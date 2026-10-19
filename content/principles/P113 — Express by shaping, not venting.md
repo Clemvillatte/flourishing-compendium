@@ -12,11 +12,11 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 113** — Express by shaping, not venting
 
-Dewey distinguishes an immediate outburst from expression that develops through work on a material. The feeling changes as a person selects, arranges and reshapes what will carry it; artistic expression involves more than releasing a feeling already complete (Art as Experience, IV, LW 10:67-68, [text](https://www.uio.no/studier/emner/uv/uv/UV9406/dewey-john-(1987).-art-as-experience.pdf)).
+Dewey distinguishes an immediate outburst from expression that develops through work on a material. The feeling changes as a person selects, arranges and reshapes what will carry it; artistic expression involves more than releasing a feeling already complete (Art as Experience, IV, LW 10:67, 69-71, 82, [text](https://www.uio.no/studier/emner/uv/uv/UV9406/dewey-john-(1987).-art-as-experience.pdf)).
 
 > "To discharge is to get rid of, to dismiss; to express is to stay by, to carry forward in development, to work out to completion." (Dewey, Art as Experience, 1934, IV, LW 10:67, [text](https://www.uio.no/studier/emner/uv/uv/UV9406/dewey-john-(1987).-art-as-experience.pdf))
 
-This is an account of artistic expression, not a timetable for recovering from distress. Dewey describes a process in which emotion and material shape each other, rather than treating finished expression as a copy of an unchanged inner state (IV, LW 10:68, [text](https://www.uio.no/studier/emner/uv/uv/UV9406/dewey-john-(1987).-art-as-experience.pdf)).
+This is an account of artistic expression, not a timetable for recovering from distress. Dewey describes a process in which emotion and material shape each other, rather than treating finished expression as a copy of an unchanged inner state (IV, LW 10:82, [text](https://www.uio.no/studier/emner/uv/uv/UV9406/dewey-john-(1987).-art-as-experience.pdf)).
 
 ### Plain words
 
