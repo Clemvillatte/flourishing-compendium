@@ -63,7 +63,8 @@
   "AT071",
   "AT011",
   "CO001",
-  "CO081"
+  "CO081",
+  "R060"
  ],
  "in_progress": null,
  "flagged": {
@@ -92,6 +93,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 18,
- "updated": "2026-10-19T14:08:08+00:00",
+ "updated": "2026-10-19T14:09:54+00:00",
  "band_done": false
 }
