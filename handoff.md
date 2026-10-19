@@ -15,23 +15,8 @@
   docs/enrichment/PROTOCOL-PRINCIPLES.md. Primary sources: docs/PRIMARY-SOURCES.md. Principle
   bands p1a-p1e minted on the TASKBOARD.
 
-- Supervisor pass (genuineflourishing21, ~10:00-10:15 UTC): build ok, validate 22/22 ok at HEAD
-  76325b4, preservation vs baseline c2a3ee4 ok (front-matter, link markup, reflections blocks,
-  principle statements). QC samples are PARTIAL verification, corrections pending — see the QC
-  log in docs/enrichment/OPERATIONS.md for the flags routed to the p1a worker (D087) and the
-  w1d worker (Peak experiences). Integration DEFERRED: live workers hold target bands;
-  enrich_apply's band guard does not see principle manifests (reads only 'concepts' keys — needs
-  a tested concurrency/schema fix before the next apply); all 179 records in proposals/w1b.json
-  use a target/concept schema the apply script cannot read (w1b worker: normalize to into/link).
+- Supervisor pass (genuineflourishing24, ~10:45-11:10 UTC): build ok; band-state validation found E068 (p1d) over prose limit — fixed by the p1d agent in-flight (b971d43/9dd23e7, validator ok); QC sample D133 (p1d) verified ok (DDJ 29 Legge + Bradshaw 2025 r-values verbatim vs opened sources). Integration RUN (commit b6fcc59): 265 recip + 3 inline applied, 31 deferred (busy), 4 archived; no principle files touched; error-category census confirmed all 56 transient working-tree FAILs were pre-existing seed conditions (no link loss, no front-matter changes) — tooling note for the lead in the QC log.
 
-- Principles queue now being worked: p1a (genuineflourishing24), p1b (genuineflourishing25),
-  p1c (genuineflourishing22) — all fresh. w1e is abandoned mid-concept ("Character as habits",
-  in_progress stuck since 08:31 UTC; partial draft at docs/enrichment/drafts/w1e/
-  Character-as-habits.md) — needs a takeover worker.
+- Principles queue: p1a (genuineflourishing24) done through R005 (this session: D001, A063, D055, R005; source ledger at sources/p1a/ledger.md); p1b (genuineflourishing25, released) 3 items done; p1c (genuineflourishing22) fresh; p1d (genuineflourishing23) fresh and actively enriching. w1e abandoned mid-concept ("Character as habits", in_progress since 08:31 UTC; partial draft at docs/enrichment/drafts/w1e/Character-as-habits.md) — needs a takeover worker.
 
-- Pending work, in order: (1) principle workers continue their bands per PROTOCOL-PRINCIPLES.md;
-  (2) p1a worker resolves the D087 flags and w1d worker the Peak experiences flags (QC log);
-  (3) a worker takes over w1e and finishes "Character as habits" from the draft; (4) the w1b
-  worker (or next taker) normalizes proposals/w1b.json to the into/link schema; (5) supervisor
-  repairs enrich_apply's band guard (principle manifests + live-baton check) and runs integration
-  once the target bands are quiet; (6) Agent A's w1a band continues per its state file.
+- Pending work, in order: (1) p1a worker resolves the D087 QC flags (interpretation citation, blockquote format, unsupported math-course example and equipment/hand aphorism — QC log) then continues A001, D054, ...; (2) owner-update targeted corrections: p1d (BI012, CO072), p1b (E012), w1d (Phenomenological methods) — those workers prioritize repairs before new pages; (3) a worker takes over w1e and finishes "Character as habits" from the draft; (4) the w1b proposals file still needs normalization to the into/link schema; (5) supervisor rechecks OWNER-UPDATE-2026-10-19.md corrections before the next integration.
