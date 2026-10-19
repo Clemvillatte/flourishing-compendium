@@ -12,13 +12,15 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 16** — Know the three root poisons
 
-Greed (grasping), hatred (pushing away), and delusion (not seeing) are the three roots of unskillful mind-states. Learn to name them on sight: they are the primary colors of your suffering.
+The Buddhist tradition compresses the diagnosis of suffering into three categories, and the compression is the point. The Dhammapada verse most often cited for the three roots states it directly: much though he recites the sacred texts, but puts the Teaching into practice, forsaking lust, hatred, and delusion, with true wisdom and emancipated mind, clinging to nothing of this or any other world, he indeed partakes of the blessings of a holy life ([Dhammapada 20, Buddharakkhita translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html)). The same three roots structure the diagnosis: greed (lobha, grasping), hatred (dosa, pushing away), and delusion (moha, not seeing) are the three roots of unskillful mind-states ([Dhammapada 20, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html)).
 
-(Dhammapada 3; MN 2.)
+This is not a moral inventory of bad character; it is a diagnostic system. If you can identify which root is operating in a given moment, you know which intervention applies — craving calls for investigating what is actually being wanted, aversion calls for investigating what is being avoided, and delusion calls for looking more carefully at what is actually there.
 
-**Plain words** Greed (grasping), hatred (pushing away), and delusion (not seeing) are the three roots of unskillful mind-states. Learn to name them on sight — they're the primary colors of your suffering; everything else is mixed from them. Naming the color is half the choice.
+> "Little though he recites the sacred texts, but puts the Teaching into practice, forsaking lust, hatred, and delusion, with true wisdom and emancipated mind, clinging to nothing of this or any other world — he indeed partakes of the blessings of a holy life." (Dhammapada 20, Buddharakkhita translation, [Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html))
 
-*For example:* The 2am doom-scroll: greed (one more video), hatred (the day you're avoiding), delusion (that this is rest). All three in one thumb.
+**Plain words** Everything unhelpful you do is running on one of three fuels: pulling something in, pushing something out, or not looking. The doom-scroll at 2 a.m. runs on all three at once. Naming which one is active is not a moral judgement — it is a diagnostic step, the same way naming which system is failing tells the mechanic where to put the wrench. You do not fix a fuel problem with willpower; you fix it by finding which line is leaking.
+
+*For example:* Two people both doom-scroll at 2 a.m. One just calls it a bad habit and feels guilty, which changes nothing. The other notices the three-line pattern: wanting one more video (pulling in), avoiding tomorrow's meeting (pushing out), and believing this counts as rest (not looking). Same behaviour; one of them now has three specific things to work with.
 
 ## Practice kernels
 
