@@ -16,17 +16,18 @@ Husserl's reduction turns inquiry towards how the world is experienced. Bracketi
 
 > "We do not give up the positing we effected" (Ideas I §31, trans. F. Kersten, p. 59, [UCL extracts](https://www.homepages.ucl.ac.uk/~uctysar/Husserl%20I-C%20lects%20-%20Ideas%20extracts.htm)).
 
-Husserl repeatedly caught himself returning to the natural attitude: simply accepting the world as given. Robert D. Walsh reads these returns as grounds for renewed practice, quoting Husserl's demand for a change of attitude "once and for all" ([Walsh, pp. 212–214, 217](https://journals.ku.edu/auslegung/article/download/12981/12277/25612)).
+Robert D. Walsh notes Husserl's repeated slipping back into the natural attitude: simply accepting the world as given. He presents the reduction as a practice requiring renewal. Walsh quotes Husserl's call to live it "as a habitual attitude which we resolve to take up once and for all" (Crisis §40, p. 150, quoted in Walsh p. 217), then adds "over and over again" ([Walsh, pp. 212, 217, 222–223](https://journals.ku.edu/auslegung/article/download/12981/12277/25612)).
 
 (Husserl, 1954/1970, The Crisis, §§35-38, 71; Husserl, 1913/1982, Ideas I, §§31-33.)
 
 ### Plain words
 
-You begin by asking how something appears to you. While describing it, you may find yourself again relying on beliefs about what is really there. On Walsh's reading, continuing the reduction means noticing that shift and returning to the question about experience ([Walsh, pp. 212–214, 222](https://journals.ku.edu/auslegung/article/download/12981/12277/25612)).
+You begin by asking how something appears to you. While describing it, you may find yourself again relying on beliefs about what is really there. Continuing means noticing that shift and returning to the question about experience, rather than treating one attempt as the end of the work ([Walsh, pp. 222–223](https://journals.ku.edu/auslegung/article/download/12981/12277/25612)).
 
 ### For example
 
-Walsh discusses Husserl's warning that describing transcendental experience as a "stratum" imports spatial assumptions into the inquiry. Even the philosopher's explanatory language needed checking for the assumptions his method set aside ([Walsh, p. 212, discussing Crisis §51](https://journals.ku.edu/auslegung/article/download/12981/12277/25612)).
+Walsh discusses Husserl's warning about describing transcendental experience as a "stratum". Such language comes from ordinary worldly experience; Husserl requires a transformation of its sense, not a ban on the metaphor. Even explanatory language needs checking for assumptions the method sets aside ([Walsh, p. 212, discussing Crisis §51](https://journals.ku.edu/auslegung/article/download/12981/12277/25612)).
+
 ## Stories
 
 - [[ST202 — The View from Above|202. The View from Above]]

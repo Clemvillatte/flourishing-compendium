@@ -13,6 +13,7 @@ from unittest import mock
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parents[1]))
 import enrich_apply as apply
 import enrich_validate as validate
+import enrich_state as state
 
 
 class IntegrationSafety(unittest.TestCase):
@@ -163,6 +164,35 @@ class PreservationSafety(unittest.TestCase):
     def test_alias_change_rejected(self):
         self.assertIn('original wikilink markup changed or removed',
                       self.errors(self.original.replace('C|label', 'C|different')))
+
+
+class CorrectionState(unittest.TestCase):
+    def reopen(self, current=None):
+        with tempfile.TemporaryDirectory() as directory:
+            path = pathlib.Path(directory) / 'p1b.json'
+            initial = {'batch': 'p1b', 'done': ['E012'], 'in_progress': current,
+                       'flagged': {}, 'band_done': True}
+            path.write_text(json.dumps(initial), encoding='utf-8')
+            with mock.patch.object(state, 'BANDS', directory), \
+                 mock.patch.object(sys, 'argv', ['enrich_state.py', 'p1b', 'reopen',
+                                                'E012', 'Verified QC correction']), \
+                 contextlib.redirect_stdout(io.StringIO()):
+                result = state.main()
+            return result, json.loads(path.read_text())
+
+    def test_reopen_records_reason_and_removes_done(self):
+        code, value = self.reopen()
+        self.assertEqual(code, 0)
+        self.assertEqual(value['done'], [])
+        self.assertEqual(value['in_progress'], 'E012')
+        self.assertFalse(value['band_done'])
+        self.assertIn('Verified QC correction', value['flagged']['E012'])
+
+    def test_reopen_does_not_displace_another_item(self):
+        code, value = self.reopen('OTHER')
+        self.assertEqual(code, 1)
+        self.assertEqual(value['done'], ['E012'])
+        self.assertEqual(value['in_progress'], 'OTHER')
 
 
 if __name__ == '__main__':

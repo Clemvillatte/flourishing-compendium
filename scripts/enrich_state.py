@@ -9,6 +9,7 @@ State lives in docs/enrichment/batches/<band>.json:
 Usage (run from repo root, then ALWAYS push via scripts/enrich_save.sh):
   python3 scripts/enrich_state.py w1a start Freedom   # before writing anything
   python3 scripts/enrich_state.py w1a done Freedom    # after validate passes + saved
+  python3 scripts/enrich_state.py w1a reopen Freedom "QC correction: reason"
   python3 scripts/enrich_state.py w1a flag Freedom "ambiguous: ..."   # record a caveat
   python3 scripts/enrich_state.py w1a missing "Ethics of care" "Noddings 1984" "why"
   python3 scripts/enrich_state.py w1a show
@@ -22,7 +23,8 @@ BANDS = os.path.join(ROOT, 'docs', 'enrichment', 'batches')
 def load(band):
     path = os.path.join(BANDS, f'{band}.json')
     if os.path.exists(path):
-        return path, json.load(open(path, encoding='utf-8'))
+        with open(path, encoding='utf-8') as f:
+            return path, json.load(f)
     return path, {"batch": band, "done": [], "in_progress": None,
                   "flagged": {}, "missing_concepts": [], "sources_checked": 0}
 
@@ -62,6 +64,18 @@ def main():
             print(f'ERROR: {concept} already marked done in {band}; duplicate work blocked')
             return 1
         st["in_progress"] = concept
+    elif cmd == 'reopen' and len(args) >= 4 and ' '.join(args[3:]).strip():
+        concept = args[2]
+        if st.get('in_progress') not in (None, concept):
+            print(f'ERROR: another item is in progress: {st["in_progress"]}')
+            return 1
+        if concept not in st.get('done', []):
+            print(f'ERROR: {concept} is not done; use start instead')
+            return 1
+        st['done'].remove(concept)
+        st['in_progress'] = concept
+        st['band_done'] = False
+        st.setdefault('flagged', {})[concept] = 'Reopened for QC: ' + ' '.join(args[3:])
     elif cmd == 'done' and len(args) >= 3:
         concept = args[2]
         if st.get("in_progress") not in (None, concept):
