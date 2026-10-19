@@ -20,7 +20,7 @@ The harmony is the point: to know it, the chapter says, is to know the unchangin
 
 (DDJ 10, 28, 55.)
 
-**Plain words** The chapter's picture of vitality is a baby who spends its voice all day and ends the day none the worse. Your own version of the question is about cost. Somewhere in your week there is an activity you do by pushing: you finish it depleted and need to recover from it. The chapter's alternative is not rest but rhythm, doing the thing at a pace that does not collect that debt.
+**Plain words** As an everyday application, choose an activity you normally judge by its results. What would you do differently if you could explore it for a while and leave it unfinished? Try that version without setting another target to meet.
 
 *For example:* Give one hour this week to something with no outcome attached: a walk with no destination, a game, building something useless. Watch what your attention does when nothing is being collected from it.
 

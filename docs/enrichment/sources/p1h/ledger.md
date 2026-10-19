@@ -5,7 +5,7 @@ Item-level record of sources actually opened by genuineflourishing35 for band p1
 because enrich_save.sh stages only content/docs/scripts/handoff.md (root sources/ is not
 staged by the save script).
 
-## D007 — Hold yin and yang together (done 2026-10-19; QC round 1 WITHHELD approval, corrections applied, re-verified at milestone round 3)
+## D007 — Hold yin and yang together (done 2026-10-19; QC round 1 WITHHELD approval, corrections applied, revised; milestone approval pending)
 
 - Opened: The Tao Teh King, James Legge translation, Project Gutenberg ebook 216 (https://www.gutenberg.org/cache/epub/216/pg216.txt) — raw text fetched and grep-verified; ch. 42 at raw lines 793-806. Batch research: ch. 12, 27, 55, 64 also extracted verbatim in the same opening for D014, D056, D061, D096 (D056 needed the Zhuangzi instead; ch. 27 unused so far).
 - Verified verbatim: ch. 42 "The Tao produced One; One produced Two; Two produced Three; Three produced All things."; "All things leave behind them the Obscurity (out of which they have come), and go forward to embrace the Brightness (into which they have emerged), while they are harmonised by the Breath of Vacancy."; "So it is that some things are increased by being diminished, and others are diminished by being increased."
@@ -15,7 +15,7 @@ staged by the save script).
 - Saturation: D007 already cited by Yin and yang, Unity of opposites, Dialectical thinking, Active listening, Distress tolerance (DBT), PEN Model, ST004, The empty boat reflection; linked concept pages read in full (Yin and yang via IEP, Unity of opposites). No justified new proposals.
 - Validator on final: ok; protected fields byte-identical vs pre-enrichment b33ee3c.
 
-## D014 — Preserve your childlike vitality (done 2026-10-19; QC rounds 2-3 corrections applied, re-verified at milestone round 3)
+## D014 — Preserve your childlike vitality (done 2026-10-19; QC rounds 2-3 corrections applied, revised; milestone approval pending)
 
 - Opened: same Gutenberg Legge edition as D007 (no new source; ch. 10, 28, 55 from the D007 batch opening). Raw-text verified: ch. 55 lines 1018-1052, ch. 10 lines 138-156, ch. 28 lines 506-520.
 - Verified verbatim: ch. 55 "He who has in himself abundantly the attributes (of the Tao) is like an infant."; the infant passage "(The infant's) bones are weak and its sinews soft, but yet its grasp is firm. ... All day long it will cry without its throat becoming hoarse;--showing the harmony (in its constitution)."; verse "Where the mind makes the vital breath to burn, (False) is the strength, (and o'er it we should mourn.)"; "When things have become strong, they (then) become old, which may be said to be contrary to the Tao."; ch. 10 "When one gives undivided attention to the (vital) breath, and brings it to the utmost degree of pliancy, he can become as a (tender) babe."; ch. 28 verse "The simple child again, free from all stains."
@@ -24,7 +24,7 @@ staged by the save script).
 - Inherited, NOT opened/verified: psychology-parallels claims (Brown 2008 play research; Piff et al. 2015 small-self effect) — preserved per protocol, flagged for supervisor. Linked concept pages read in full (Play research, Dispositional awe): both already cite D014.
 - Validator on final: ok; protected fields untouched vs pre-enrichment b33ee3c.
 
-## D056 — Follow the natural grain (done 2026-10-19; QC rounds 2-3 corrections applied, re-verified at milestone round 3)
+## D056 — Follow the natural grain (done 2026-10-19; QC rounds 2-3 corrections applied, revised; milestone approval pending)
 
 - Opened: Zhuangzi, James Legge translation, ETH Zurich PDF (https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — direct download + pypdf extraction (183 pages). Cook Ding passage at PDF pp. 14-15 (Book III, section 2). Xinzhai/zuowang material for D046/D047 located in the same file.
 - Verified verbatim: "What your servant loves is the method of the Dao, something in advance of any art."; "and yet its edge is as sharp as if it had newly come from the whetstone."; "Observing the natural lines, (my knife) slips through the great crevices and slides through the great cavities, taking advantage of the facilities thus presented. My art avoids the membranous ligatures, and much more the great bones."; "whenever I come to a complicated joint, and see that there will be some difficulty, I proceed anxiously and with caution, not allowing my eyes to wander from the place, and moving my hand slowly."
@@ -32,7 +32,7 @@ staged by the save script).
 - Inherited, NOT opened/verified: psychology-parallels claims (Gibson 1979 affordances; Miller and Rollnick 2013) — preserved per protocol, flagged for supervisor. Linked concept pages read in full (Affordances, Motivational interviewing): both already cite D056.
 - Validator on final: ok; protected fields untouched vs pre-enrichment b33ee3c. D056 was on the plain-words replicate list; Plain words now a genuine re-derivation.
 
-## D061 — Act before things arise (done 2026-10-19; QC rounds 2-3 corrections applied, re-verified at milestone round 3)
+## D061 — Act before things arise (done 2026-10-19; QC rounds 2-3 corrections applied, revised; milestone approval pending)
 
 - Opened: same Gutenberg Legge DDJ edition as D007 (no new source; ch. 64 from the D007 batch). Raw lines 1189-1215.
 - Verified verbatim: "Action should be taken before a thing has made its appearance; order should be secured before disorder has begun."; "That which is at rest is easily kept hold of; before a thing has given indications of its presence, it is easy to take measures against it; that which is brittle is easily broken; that which is very small is easily dispersed."; "The tree which fills the arms grew from the tiniest sprout; the tower of nine storeys rose from a (small) heap of earth"; "(But) people in their conduct of affairs are constantly ruining them when they are on the eve of success. If they were careful at the end, as (they should be) at the beginning, they would not so ruin them."
@@ -40,11 +40,11 @@ staged by the save script).
 - Inherited, NOT opened/verified: psychology-parallels claims (Meichenbaum preventive coping; early-intervention evidence) — preserved per protocol, flagged for supervisor. Linked concept page read in full (Prudence): already cites D061.
 - Validator on final: ok; protected fields untouched vs pre-enrichment b33ee3c.
 
-## D096 — Don't let the outer displace the inner (repaired; done transition executed 2026-10-19 after round-3 validation; approval sought at milestone round 3)
+## D096 — Don't let the outer displace the inner (repaired; done transition executed 2026-10-19 after round-3 validation; revised; milestone approval pending)
 
 - Opened: same Gutenberg Legge DDJ edition as D007 (ch. 12 from the D007 batch, raw lines 220-244).
 - Verified verbatim: ch. 12 verse "Colour's five hues from th' eyes their sight will take; ... Sought for, men's conduct will to evil change." (quoted with real line breaks) and prose "Therefore the sage seeks to satisfy (the craving of) the belly, and not the (insatiable longing of the) eyes. He puts from him the latter, and prefers to seek the former."
-- Neiye seed locator NOT opened this session; per milestone QC the locator was REMOVED from the body (now "(DDJ 12.)") so no public citation is left unverified. The senses/inner-power sentence was the old body (replaced), not protected material.
+- Neiye seed locator NOT opened this session; per milestone QC the locator was REMOVED from the new body (now "(DDJ 12.)"); no unopened locator remains in the new body, while the inherited psychology-parallels citations elsewhere on the page remain unverified and flagged below. The senses/inner-power sentence was the old body (replaced), not protected material.
 - QC rounds 2-3: verse quoted with real line breaks; belly/eyes quote standalone; filter claim, categorical appetite account and aphoristic framing removed; application presented as a question; Plain words rewritten per the advisor's version (came-for test); For example rewritten as the concrete weather-check action. All applied.
 - Inherited, NOT opened/verified: psychology-parallels claims (Locus of evaluation Rogers 1961; Hedonic adaptation B067) — preserved per protocol, flagged for supervisor. Linked concept pages read in full (Locus of evaluation, The inner citadel): both already cite D096.
 - Validator on final: ok; protected fields untouched vs pre-enrichment b33ee3c.
@@ -54,4 +54,7 @@ staged by the save script).
 - Sources opened this session: 2 (Gutenberg Legge DDJ; ETH Legge Zhuangzi PDF). sources_checked = 2.
 - Batch research: one DDJ opening served D007/D014/D061/D096; one Zhuangzi opening served D056 (and pre-locates D046/D047).
 - Edition check: web search confirms Gutenberg #216 = Legge Tao Teh King; ETH PDF is the Legge Zhuangzi (Writings of Kwang-dze) used by p1a/p1e precedent.
+- State-transition note (accuracy): during the round-3 reopen loop the helper warned "in_progress was D096, not D014" (the earlier `start D096` had registered before the reopen of D014 completed the loop); the transitions were then executed one at a time and the final state file (done: D007, D014, D056, D061, D096; in_progress: null; D096 start and done separated by the repair work) is what the batch file records. The helper enforces a single in-progress item; sequencing in this note describes the final recorded outcome, not a strictly serial history.
+- Exact-quotation check (round 3): all 17 quoted passages across the five files verified as contiguous substrings of the downloaded texts (/tmp/ddj.txt, /tmp/zhuangzi.txt), whitespace-normalized, punctuation untouched.
+- Linked concept pages: all directly linked targets for the five items read in full (Yin and yang, Unity of opposites, Play research, Dispositional awe, Affordances, Motivational interviewing, Prudence, Locus of evaluation, The inner citadel). Reading the repository Yin and yang page is NOT recorded as opening the IEP article it links to.
 - Push outage: the git-agent-proxy token became invalid mid-session (diagnostic recorded); repair commits are local until auth returns; a recovery patch is shared as an interim deliverable.
