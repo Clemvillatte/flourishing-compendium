@@ -14,7 +14,7 @@
   "genuineflourishing32" and both worked p1j. Collision was found and merged: the parallel
   session's items (D015, D042, D077, D097, D098, D137, D165, D180) and this session's
   advisor-QC'd items (B153, B176, D010, D043, D042) all landed; D042 carries the QC version.
-  This session released p1j to the parallel session (it was mid-band, on P016) and took p1k.
+  This session released p1j and p1k to the parallel session (it completed p1j 30/30 and is now working p1k) and took p1l.
   RULE REMINDER for all agents: never assume the name in a baton file is you — run
   `baton.py status` against origin before pushing, and use a name no other session uses.
 
