@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 ---
 > **Principle 54** — Learn to use self-regulation strategies: manage impulses
 
-Self-regulation — the capacity to control impulses and direct behaviour toward goals — is a trainable skill. Strategies include: removing temptation, reappraisal, implementation intentions, and self-monitoring.
+Self-regulation, the capacity to control impulses and direct behaviour toward goals, is a trainable skill. Strategies include: removing temptation, reappraisal, implementation intentions, and self-monitoring.
 
 ### What the skill is
 
@@ -22,11 +22,11 @@ The research definition is a matter of responses and standards:
 
 "Overcoming unwanted impulses" is one item on their list of what self-regulation covers, alongside controlling thoughts and managing emotions.
 
-### Why strategies beat willpower
+### Choosing situations early
 
-Duckworth, Gendler and Gross organize self-control strategies by when they intervene in a developing impulse, and argue for acting early: "Because impulses tend to grow stronger over time, situational self-control strategies... may be especially effective in preventing undesirable action" ([Duckworth et al. 2016](https://www.psychologicalscience.org/journals/perspectives/1745691615623247/)). Choosing a seat away from the bar, leaving the phone at home: these cost little because the urge never gets strong.
+Duckworth, Gendler and Gross organize self-control strategies by when they intervene in a developing impulse, and argue for acting early: "Because impulses tend to grow stronger over time, situational self-control strategies... may be especially effective in preventing undesirable action" ([Duckworth et al. 2016](https://www.psychologicalscience.org/journals/perspectives/1745691615623247/)). Their examples include the partygoer who chooses a seat far from where drinks are being poured and the student who goes to the library without a cell phone.
 
-**Plain words** Self-regulation is the skill of altering your own responses to line them up with what you value. The cheapest move is choosing the situation before the urge arrives; the dearest is fighting the urge head-on once it is strong. Both are choices, and both can be practised.
+**Plain words** If checking your phone interrupts your reading, leave it in another room before you begin. When an urge arrives anyway, pause and choose what to do next in light of your goal.
 
 *For example:* The urge to snap in the meeting arrives; the skill is what happens next. A breath, a different reading of what the other person meant, or silence until the heat passes.
 

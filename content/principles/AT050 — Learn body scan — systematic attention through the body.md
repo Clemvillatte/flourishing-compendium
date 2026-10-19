@@ -14,15 +14,15 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AT — Attentio
 
 The body scan is a systematic practice of moving attention through different parts of the body, noticing sensations without judgment. It trains attentional flexibility, body awareness, and the capacity to notice without reacting.
 
-### Where the tour comes from
+### A related Buddhist practice
 
-The Satipatthana Sutta's contemplation of the body already specifies the systematic tour: the monk "reflects on this very body from the soles of the feet on up, from the crown of the head on down, surrounded by skin" ([MN 10, Thanissaro trans.](https://accesstoinsight.org/tipitaka/mn/mn.010.than.html)). The modern body scan keeps the route and drops the anatomical list.
+MN 10 describes a contemplation of the body: the monk "reflects on this very body from the soles of the feet on up, from the crown of the head on down, surrounded by skin" ([MN 10, Thanissaro trans.](https://accesstoinsight.org/tipitaka/mn/mn.010.than.html)). The surrounding passage reviews the body's constituents, part by part, in the simile of a sack of grain poured out and examined. The modern body scan is a related practice: same territory, the living body, toured with attention region by region.
 
-### What the tour trains
+### What the instructions ask
 
-The refrain of that sutta asks for focus that is "ardent, alert, & mindful" while "putting aside greed & distress with reference to the world" (MN 10). Those are the two skills the scan trains together: attention that holds, and a stance that neither grabs nor flinches. Every region is a new object, every shift a small act of redirecting.
+The refrain of that sutta asks for focus that is "ardent, alert, & mindful" while "putting aside greed & distress with reference to the world" (MN 10). Every region is a new object, every shift a small act of redirecting.
 
-**Plain words** The body scan is a tour of your own body with attention as the flashlight — feet, legs, torso, arms, head — noticing whatever's there without fixing it. It trains attention that holds, and a stance that neither grabs nor flinches at what it finds.
+**Plain words** Lie down and walk your attention from your feet to your head, one region at a time. In each place, notice what is actually there: warmth, tension, nothing much. You are not there to fix anything; you are there to find out what your body is carrying today.
 
 *For example:* Lying down for twenty minutes, discovering the jaw you've been clenching since 9 a.m. Nobody told you it was tense. The scan found it because it finally looked.
 

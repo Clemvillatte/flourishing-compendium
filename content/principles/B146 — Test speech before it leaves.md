@@ -29,7 +29,7 @@ The MN 58 list is mostly a list of things not to say: of the six combinations of
 **Plain words**
 Take the message you have half-written to a friend who let you down. Ask it four things: is every claim in it one you know to be so? does the friendship come out better if it lands? is tonight the night it can land? is the tone one she can receive? Any no means holding it or rewriting it, and holding is the more common fix. That is your situation; the sutta's own rule is the standard behind it: nothing untrue, nothing unbeneficial, and even the true and beneficial said only at the proper time.
 
-*For example:* The perfect comeback that was true but wrong in tone and wrong for the moment — held at the gate, it aged into wisdom instead of a wound.
+*For example:* The perfect comeback that was true but wrong in tone and wrong for the moment: held at the gate, it aged into wisdom instead of a wound.
 
 ## Sources
 

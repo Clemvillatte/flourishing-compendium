@@ -26,12 +26,12 @@ In a word, "our moral dispositions are formed as a result of the corresponding a
 
 ### Why the order matters
 
-The disposition is not a prerequisite for the acts but their residue. The first acts are awkward and conscious; later ones become natural. Hence the practical instruction: act first, and the feeling follows rather than leads.
+The disposition is not a prerequisite for the acts but their residue. The first acts are awkward and conscious. Hence the practical instruction: do the act, and keep doing it; the disposition is what the repetition leaves behind.
 
 **Plain words**
-The surprise in Aristotle is the direction of causation: you might think a just person does just acts, and he says the acts make the person. Treat any trait you want as a craft, since nobody learns the piano by feeling pianistic. Schedule the repetition, not the mood: do the act badly, then again, and let the ease arrive on its own.
+The surprise in Aristotle is the direction of causation: you might think a just person does just acts, and he says the acts make the person. Nobody learns the piano by feeling pianistic; you learn it at the piano. Schedule the repetition, not the mood: do the act, then do it again.
 
-*For example:* A person trying to be more patient starts by pausing before every reply. The first pauses are clumsy and deliberate; with repetition, the pause stops needing to be planned.
+*For example:* Someone practising patience chooses a recurring conversation in which to pause before replying, then keeps returning to that action.
 
 ## Sources
 
