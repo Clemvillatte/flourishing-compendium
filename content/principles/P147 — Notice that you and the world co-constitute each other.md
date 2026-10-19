@@ -12,18 +12,24 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 147** — Notice that you and the world co-constitute each other
 
-There are no separate relata that then interact; there is intra-action: the relating makes the relata. Your "self" and your "situation" arise together, and can be re-made together.
+In Barad's agential realism, the boundaries and properties of things become determinate through specific practices of relating, which she calls intra-actions. This is a philosophical account of how distinctions are enacted, developed through her reading of scientific practices (Posthumanist Performativity, 2003, pp. 814-817, [text](https://gmint.informatik.uni-freiburg.de/teaching/wt17_18/ma/07_11.pdf)).
 
-(Barad, Meeting the Universe Halfway, 2007.)
+> "Boundaries do not sit still." (Barad, Posthumanist Performativity, p. 817, [text](https://gmint.informatik.uni-freiburg.de/teaching/wt17_18/ma/07_11.pdf))
 
-**Plain words** There are no separate relata that then interact — there's intra-action: the relating makes the relata. Your 'self' and your 'situation' arise together, and can be re-made together. You never walk into a situation; you and the situation walk into each other.
+Barad's claim goes beyond saying that an already-defined person is influenced by a setting: her argument concerns how the distinction between components is made in the first place (pp. 815-817, [text](https://gmint.informatik.uni-freiburg.de/teaching/wt17_18/ma/07_11.pdf)). The compendium draws a more modest practical question from it: how do particular arrangements help produce the roles we take for granted?
 
-*For example:* The new job that makes a new you — 'I'm not confident in meetings' turned out to be a property of the old meetings. The self and the situation made each other, and both can be re-made.
+### Plain words
+
+When you describe yourself as a certain kind of person, look at what is happening around you too. Who speaks, who decides, and what tools or rules organise the exchange? Try examining one arrangement before concluding that the role you occupy is an unchangeable personal fact.
+
+### For example
+
+Imagine a meeting in which one person always takes notes and rarely speaks. The group could rotate that task and reserve time for each participant's questions. Observe what changes; the proposal does not establish that every difference in confidence is caused by meeting design.
 
 ## Psychology parallels
 
-- **[[Person-environment fit|Person-environment fit research]]** (Kristof-Brown et al., 2005)
-- **[[Co-regulation in relationships|Co-regulation in relationships]]** (Butler, 2011)
+- **[[Person-environment fit|Person-environment fit research]]**: a meta-analysis examined relationships between four kinds of workplace fit and outcomes including attitudes, performance and strain; this is not a test of Barad's ontology ([Kristof-Brown et al., 2005, abstract](https://onlinelibrary.wiley.com/doi/10.1111/j.1744-6570.2005.00672.x)).
+- **[[Co-regulation in relationships|Co-regulation in relationships]]**: Butler's review models emotions as unfolding within and across interacting partners, a conceptual comparison rather than an equivalent theory ([Butler, 2011, abstract](https://journals.sagepub.com/doi/abs/10.1177/1088868311411164)).
 
 ## Philosophy parallels
 

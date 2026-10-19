@@ -7,11 +7,12 @@
   "P117",
   "P105",
   "P123",
-  "P130"
+  "P130",
+  "P147"
  ],
- "in_progress": "P147",
+ "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
- "sources_checked": 19,
- "updated": "2026-10-19T14:51:45+00:00"
+ "sources_checked": 22,
+ "updated": "2026-10-19T14:52:34+00:00"
 }
