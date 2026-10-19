@@ -24,7 +24,7 @@ The compendium pairs two teachings under this title. One is the Xinxin Ming, the
 >
 > — Seung Sahn, The Compass of Zen ([Kwan Um School of Zen](https://kwanumzen.org/teaching-blog/i-only-teach-dont-know))
 
-**Plain words** The Xinxin Ming names the sorting of liked against disliked as the disease of the mind. What follows from that for the reader's own conduct is left to the reader to determine.
+**Plain words** One way to use these teachings is to leave a first impression unfinished: notice your liking or dislike, then keep listening.
 
 For example (imagined): someone meets a new colleague and notices they are already forming a judgment. They let the judgment stay provisional, and continue the conversation without having settled it.
 

@@ -24,15 +24,15 @@
   "A042",
   "AF048",
   "AF075",
-  "B112",
-  "B140",
   "B116",
   "A044",
   "A018",
   "A028",
   "A055",
   "AF073",
-  "AF061"
+  "AF061",
+  "B140",
+  "B112"
  ],
  "in_progress": null,
  "flagged": {
@@ -42,9 +42,9 @@
   "D061": "Reopened for QC: milestone QC round 3: evidence scoping repairs",
   "B027": "Baer 2006 psychology-parallel correction applied per supervisor QC 2026-10-19 (facet validation, differential correlations, incremental symptom prediction, PubMed URL)",
   "B081": "Reopened for QC: Milestone QC: unsupported physiology/effort claims",
-  "B112": "Reopened for QC: repair: Plain words attributes labor-and-care wording to sutta, not established",
+  "B112": "Reopened for QC: repair: Plain words needs full verbatim sutta text and specific repayment teaching",
   "B116": "Reopened for QC: repair: align closing locator with verses 222-223",
-  "B140": "Reopened for QC: repair: remove not-a-feeling opposition absent from quoted lines",
+  "B140": "Reopened for QC: repair: Plain words is broken replicate, needs practical reading",
   "B160": "Reopened for QC: Milestone QC: ethics-test claim vs outcomes-test; Dhp 74 overreach",
   "A018": "Reopened for QC: repair: remove italic markers around example label",
   "A026": "Reopened for QC: repair: quote fidelity (first sentence), scope sorting application, remove unopened EE III.7 and MM II.7",
@@ -63,6 +63,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 9,
- "updated": "2026-10-19T15:12:33+00:00",
+ "updated": "2026-10-19T15:12:47+00:00",
  "band_done": false
 }
