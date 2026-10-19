@@ -11,7 +11,7 @@ Narrative identity is Paul Ricoeur's account of the self as told. At the end of 
 
 ### The who question
 
-Narrative identity is one of the ways of answering "the question 'who?'": Who said that? Did that? Who are we? ([SEP](https://plato.stanford.edu/entries/ricoeur/)). The self it points to is "a person capable of attesting to his or her own existence and acting in the world, a self that both acted and was acted upon who could recount and take responsibility for its actions" ([SEP](https://plato.stanford.edu/entries/ricoeur/)). Beneath it lies a key distinction: idem identity is "the identity of something that is always the same which never changes," ipse identity is "sameness across and through change. Self-identity involves both dimensions: I am and am not the person I was ten years ago" ([SEP](https://plato.stanford.edu/entries/ricoeur/)).
+Narrative identity is one of the ways of answering "the question 'who?'": Who said that? Did that? Who are we? ([SEP](https://plato.stanford.edu/entries/ricoeur/)). The self it points to is "a person capable of attesting to his or her own existence and acting in the world, a self that both acted and was acted upon who could recount and take responsibility for its actions" ([SEP](https://plato.stanford.edu/entries/ricoeur/)). Beneath it lies a distinction: idem identity is "the identity of something that is always the same which never changes," ipse identity is "sameness across and through change. Self-identity involves both dimensions: I am and am not the person I was ten years ago" ([SEP](https://plato.stanford.edu/entries/ricoeur/)).
 
 ### Emplotment
 
@@ -19,7 +19,11 @@ The mechanism is plot. Narrative discourse "configures such heterogeneous concep
 
 ### In the compendium
 
-R105 and E083 carry the concept as practice, SE011 and SE042 are its structural and revision faces, and CO061 is the everyday recognition that a life story shapes who one is. The compendium pairs it with the Life story model for the research tradition, and sets beside it Fixed views of self as an in-compendium contrast and Narrative therapy as the therapeutic tradition that works on the story.
+- [[R105 — Practise narrative identity]] — the compendium's practical instruction, paired with its existential twin
+- [[E083 — Practise narrative identity]] — the same instruction from the existential tradition
+- [[SE011 — Recognise the narrative structure of self — you are a story]] — the structural face
+- [[SE042 — Recognise the role of narrative in identity revision — change the story, change the self]] — the revision face
+- [[CO061 — Recognise the role of narrative in identity — your life story shapes who you are]] — the everyday recognition
 
 ## Related concepts
 
