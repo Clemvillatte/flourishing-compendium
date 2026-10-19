@@ -12,9 +12,9 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 36** — Learn to regulate through action: affect follows behaviour
 
-[[Behavioral activation|Behavioural activation]] — doing something, especially something valued or social — changes affect. Waiting for motivation before acting is a trap; action generates motivation. This is one of the most robust findings in depression treatment.
+[[Behavioral activation|Behavioural activation]] grew out of this insight, and its obstacle is exactly the trap the principle names: "people tell themselves that they will engage in a particular activity when they feel motivated or when they 'feel like it'. The solution is that they should always act according to the plan or activity schedule – not according to how they feel at the time." The instruction is blunt: "the longer they wait, the greater the likelihood that they will become even less motivated: if necessary, the task should be done now, even in an unmotivated way." And the reason it works: "'Just doing it' leads to differences in the way the individual thinks and feels, which in turn increases motivation." The compendium's application is the principle's own line: move first, feel second, especially with something valued or social.
 
-**Plain words** Behavioural activation: doing something — especially something valued or social — changes affect. Waiting for motivation before acting is a trap; action generates motivation. One of the most robust findings in the field. Move first; feel second.
+**Plain words** Here's the trick low mood plays: it takes away the wanting-to, then waits for the wanting-to to come back before you do anything. The therapy's answer reverses the order — do the thing unmotivated, and let motivation catch up. The walk first, the mood after.
 
 *For example:* The depressed person who waits all Sunday for the mood to lift before doing anything — and the protocol that reverses the order: the walk first, the mood after. It feels backwards; the evidence says it's forwards.
 ## Psychology parallels

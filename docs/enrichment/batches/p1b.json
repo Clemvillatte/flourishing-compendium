@@ -38,14 +38,15 @@
   "B058",
   "B170",
   "R002",
-  "A010"
+  "A010",
+  "AF036"
  ],
- "in_progress": "AF036",
+ "in_progress": null,
  "flagged": {
   "E012": "Reopened for QC: Implement independent advisor attribution and locator corrections using previously opened Walsh passages"
  },
  "missing_concepts": [],
  "sources_checked": 28,
- "updated": "2026-10-19T13:06:35+00:00",
+ "updated": "2026-10-19T13:07:02+00:00",
  "band_done": false
 }
