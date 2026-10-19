@@ -12,13 +12,28 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 148** — Let stillness heal
 
-When the mind is calm and the qi ordered, the body's own healing activates: vitality itself is the great physician. Rest is treatment, not laziness.
+The Neiye ties vitality to peace of mind directly:
+
+> "The vitality of all people
+> Inevitably comes from their peace of mind.
+> When anxious, you lose this guiding thread;
+> When angry, you lose this basic point.
+> When you are anxious or sad, pleased or angry,
+> The Way has no place within you to settle." (Neiye XXV, [Roth, Inward Training](https://archive.org/stream/original-tao-inward-training-nei-yeh-and-the-foundations-of-taoist-mysticism-tra/Original%20Tao%20Inward%20Training%20(Nei-yeh)%20and%20the%20Foundations%20of%20Taoist%20Mysticism%20(Translations%20from%20the%20Asian%20Classics)%20by%20Harold%20David%20Roth%20(z-lib.org)_djvu.txt))
+
+The same verse closes on the condition the principle names: "If you are tranquil then you will attain it; / If you are agitated then you will lose it." And the chapter names the cost of the opposite: "Worry and grief generate illness" (Neiye XX). The Neiye's claim is that vitality comes from peace of mind, so rest is the state in which it returns, and the compendium keeps the old caveat: stillness is a complement to care, and persistent exhaustion still needs a doctor's assessment.
 
 (Neiye.)
 
-**Plain words** Rest is treatment, not laziness. Make room for rest and stillness. Persistent exhaustion deserves appropriate assessment; stillness is not a substitute for care.
+**Plain words**
+Agitation spends vitality; that is the Neiye's account of why you feel worse the more you push through. The prescription is unglamorous: stop the spending. Sleep without an alarm, walk, give the body the conditions it asks for. Persistent exhaustion still needs a doctor's assessment; stillness works alongside care, not instead of it.
 
-*For example:* The week you actually take off — sleep without an alarm, walks, no laptop — and by Friday the body feels like yours again. Rest did what willpower couldn't.
+**For example**
+The week you actually take off: sleep without an alarm, walks, no laptop, and by Friday the body feels like yours again.
+
+## Sources
+
+- [Inward Training (Neiye), trans. Harold D. Roth (archive.org full text)](https://archive.org/stream/original-tao-inward-training-nei-yeh-and-the-foundations-of-taoist-mysticism-tra/Original%20Tao%20Inward%20Training%20(Nei-yeh)%20and%20the%20Foundations%20of%20Taoist%20Mysticism%20(Translations%20from%20the%20Asian%20Classics)%20by%20Harold%20David%20Roth%20(z-lib.org)_djvu.txt) — verses XXV (vitality/peace of mind) and XX (worry and grief generate illness)
 
 ## Stories
 
