@@ -12,11 +12,26 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SO — Sociocul
 ---
 > **Principle 4** — Treat culture as both a resource and a constraint
 
-Culture is not a neutral backdrop. It supplies meaning, identity, belonging, and practices that make flourishing possible — and it imposes norms, expectations, and exclusions that make flourishing harder for those who do not fit. The adaptive stance is not to romanticize or demonize culture but to see it as both: a toolkit of meaning and a field of constraint. This dual view parallels the biophysiological reading of stress as a signal, not only a threat.
+The compendium's phrasing of this principle is its own, so this page uses one philosophical source that holds both halves together: Gadamer, as described in the [Internet Encyclopedia of Philosophy](https://iep.utm.edu/gadamer/). Gadamer's point, the entry says, is that tradition is "the background that instigates all inquiry", so "one can never start from a tradition-free place. A tradition is what gives one a question or interest to begin with."
 
-**Plain words** Culture is both a gift and a tax — it hands you meaning, belonging, and practices, and it charges you norms, expectations, and exclusions. Neither romanticising nor trashing it; the move is knowing which parts serve you and which parts are billing you.
+### Resource and constraint at once
 
-*For example:* The tradition that gave you your whole social world and also gave you the belief that rest is laziness — you can keep the table and question the guilt. That's the skill.
+The same entry says this "does not mean he is insisting we endorse all traditions writ large". Gadamer "is not espousing a conservative approach to tradition that blindly affirms the whole of a tradition and leaves one without recourse to critique it." It adds that "to embrace a tradition is to make it one's own by altering it."
+
+### Horizons
+
+The entry explains that "horizon" suggests "the limits that make perspective possible": "Just as the literal horizon delimits one's visual field, the epistemic horizon frames one's situation in terms of what lies behind (that is, tradition, history), around (that is, present culture and society), and before (that is, expectations directed at the future) one." A horizon is not fixed: "Horizons change for a person who is moving."
+
+### What this page does not show
+
+The entry says nothing about psychological costs of norms or exclusion, or about stress as a signal. Those parts are the compendium's own additions.
+
+(Gadamer, Truth and Method, Part II, as described in the IEP.)
+
+**Plain words** Culture gives you meaning, belonging and ways of doing things, and it also sets expectations that can weigh on people who do not fit. Gadamer's version is that you cannot step outside your tradition, but you can examine it and reshape it.
+
+*For example:* Imagine a family tradition that gave you your whole social world and also the belief that rest is laziness. You can keep the shared table and still question the guilt.
+
 ## Psychology parallels
 
 - [[Schwartz|Schwartz]] (1990, 1994) on cultural value dimensions (autonomy, embeddedness, hierarchy, mastery, harmony); Triandis (1989) on individualism-collectivism; Hofstede (1980) on cultural distance; the dual role of culture in health outcomes (Kirmayer, 2012).
