@@ -13,13 +13,17 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 
 > **Principle 50** — Learn to question your thoughts: not every thought deserves belief
 
-Cognitive restructuring in CBT is the procedure this principle describes: when a negative automatic thought arrives, it is treated as a hypothesis rather than a fact, and evidence for and against it is examined before the belief commits (Beck, 1976; Burns, 1980). The Buddhist passage quoted below is a related practice from a different tradition; no claim of historical influence is being made here.
+The Beck Institute's clinical worksheet is the direct source for the procedure this principle describes. Its instruction is explicit about the act of checking evidence before accepting a thought.
+
+> What makes me think the thought is true? What makes me think the thought is not true or not completely true? What's another way to look at this? (Beck Institute, "Testing Your Thoughts" worksheet, [beckinstitute.org](https://beckinstitute.org/wp-content/uploads/2021/08/Testing-Your-Thoughts-Worksheet.pdf))
+
+The Buddhist passage quoted below is a related practice from a different tradition, presented as a philosophical parallel; no claim of historical influence is being made here.
 
 > "There is the case where, there being sensual desire present within, a monk discerns that 'There is sensual desire present within me.'" (Thanissaro Bhikkhu trans., [Satipatthana Sutta, MN 10](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html), five hindrances)
 
-What the Buddhist instruction describes is a specific act of recognition — naming a mental state as a state, rather than acting on it. The CBT procedure is a different operation: checking a proposition against evidence. Both share the underlying move of inserting a gap between the thought and the response, but they are not the same technique and should not be conflated.
+What the Buddhist instruction describes is a specific act of recognition — naming a mental state as a state, rather than acting on it. The Beck worksheet is a different operation: checking a proposition against evidence. Both share the underlying move of inserting a gap between the thought and the response, but they are not the same technique.
 
-**Plain words** A negative thought arrives in the mind and the reflex is to treat it as a report on reality. The skill being trained is to ask, before believing: what is the evidence for this, what is the evidence against it, and is there another way of reading the same facts. The thought may still arrive; what changes is whether it is accepted on arrival.
+**Plain words** A negative thought arrives in the mind and the reflex is to treat it as a report on reality. The skill being trained is to ask, before believing: what makes me think this is true, what makes me think it is not, and is there another way to read the same facts. The thought may still arrive; what changes is whether it is accepted on arrival.
 
 *For example:* Imagine someone who notices the thought "I always get this wrong" arriving after a mistake. Instead of accepting it, they ask what the evidence is: one error this week against several tasks that went fine. Reading the same facts differently, the thought changes from "I always get this wrong" to "I got this one wrong"; the first is an unsupported generalisation, and the second is the one the evidence actually supports.
 

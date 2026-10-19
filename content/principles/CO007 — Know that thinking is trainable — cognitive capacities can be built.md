@@ -17,13 +17,13 @@ Aristotle makes a claim in the Nicomachean Ethics that runs against the intuitio
 
 > For the things we have to learn before we can do them, we learn by doing them, e.g. men become builders by building and lyreplayers by playing the lyre; so too we become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts. (Aristotle, Nicomachean Ethics II.1, [MIT Classics](http://classics.mit.edu/Aristotle/nicomachaen.2.ii.html))
 
-Modern research on cognitive training adds a qualification Aristotle does not address. The meta-analytic review by Melby-Lervåg and Hulme (2013, Dev Psychol 49:270-291) concluded that working-memory training produced short-term gains on the trained tasks but "no convincing evidence of the generalization of working memory training to other skills"; a later review by Melby-Lervåg, Redick and Hulme (2016, Perspectives on Psychological Science 11:512-534) found the same pattern across 87 publications. Ericsson's expertise research points the same direction for skills: what improves performance is structured, feedback-rich practice of the actual activity, not general drills (Ericsson et al., 1993).
+Modern research on cognitive training adds a qualification Aristotle does not address, and it is specific to what was actually studied. The Melby-Lervåg, Redick and Hulme meta-analysis of 87 working-memory training publications concluded that "working memory training programs appear to produce short-term, specific training effects that do not generalize to measures of 'real-world' cognitive skills" ([Perspectives on Psychological Science 11(4), 2016](https://journals.sagepub.com/doi/full/10.1177/1745691616635612)). That finding is about working-memory training specifically; it does not establish that practice on other skills, such as writing or arithmetic, follows the same pattern.
 
-The usable version of the principle is therefore narrow but real: cognitive capacities that depend on skill — writing, arguing, planning, reading a contract, doing a tax return — are improved by practising that specific activity with feedback, over time.
+The usable version of the principle is therefore narrow: the reviewed finding is about working-memory training; the Aristotle passage is about habituation in general. What both point at is that improvement, where it occurs, comes from doing the specific activity, not from general drills.
 
-**Plain words** Aristotle's contrast is between the senses, which you have before you use, and skills, which you acquire by using. A skill is something the repeated doing itself produces. What the modern reviews add is that the gain stays close to what you practised; training on puzzles improves puzzles, and the evidence for improvement elsewhere is limited. Pick the thinking you actually need and practise that.
+**Plain words** Aristotle's contrast is between the senses, which you have before you use, and skills, which you acquire by using. A skill is something the repeated doing itself produces. The reviewed modern evidence on working-memory training adds that gains stay close to the trained task; evidence for improvement on other cognitive skills from that training was not found. Pick the thinking you actually need and practise that.
 
-*For example:* Imagine someone who wants to write better at work: instead of downloading a general puzzle app, they practise writing a short argument each day and have someone read it and say where it lost them. What they are practising is the actual activity they want to improve, and the feedback is the part of the practice that tells them whether it is working.
+*For example:* Imagine someone who wants to write better at work: instead of downloading a working-memory training app, they practise writing a short argument each day and have someone read it and say where it lost them. What they are practising is the actual activity they want to improve, and the feedback is the part of the practice that tells them whether it is working.
 
 ## Psychology parallels
 
@@ -39,4 +39,4 @@ The usable version of the principle is therefore narrow but real: cognitive capa
 
 ## Practice
 
-- Do not expect general "brain training" games to improve your thinking generally; the reviewed evidence finds limited far transfer. Instead, train the specific cognitive skill you want (writing, reasoning, chess, mathematics) through deliberate practice with feedback.
+- Do not expect working-memory training apps to improve your thinking generally; the reviewed evidence finds limited far transfer. Instead, train the specific cognitive skill you want through practice with feedback.

@@ -17,7 +17,7 @@ The Satipatthana Sutta is the classical Buddhist text behind mindfulness of body
 
 > "There is the case where a monk remains focused on the body in & of itself — ardent, alert, & mindful — putting aside greed & distress with reference to the world." (Thanissaro Bhikkhu trans., [Satipatthana Sutta, MN 10](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html))
 
-The modern body scan is described in MBSR as a related procedure that uses the same object of attention — the body — walked through part by part, noticing sensations without judging or changing them (Kabat-Zinn, 1990). The studies cited in the parallels section examine the effects of this kind of practice; the principle here is about the mechanics of the procedure, and does not assert that efficacy follows.
+The modern MBSR body scan is described in the curriculum and in first-person accounts of the course as a related practice using the same object of attention. A Mindful.org account of an MBSR course describes it as "a toes-to-head 'body scan,' focusing in sequence on individual regions" and notes that "repeating this 20-minute drill, and applying its whole-body awareness throughout the day, is at the heart of our first week's assignments" ([Mindful.org, 2017](https://www.mindful.org/the-8-week-journey-to-now/)). The principle here is about the mechanics of the procedure; it does not assert that efficacy follows.
 
 **Plain words** Most of what your body is doing right now you are not aware of. Tension in the jaw, a held breath, a clenched stomach; these run for hours without being noticed. A body scan is simply walking your attention through each part and asking what is actually there, without fixing anything. What turns up is information you would otherwise have missed.
 

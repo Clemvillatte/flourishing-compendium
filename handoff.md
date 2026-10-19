@@ -96,6 +96,16 @@
   request a narrow citation cleanup from live p1e, not a rewrite.
   Do not silently integrate unreviewed recovery or clear inherited flags wholesale.
 
+
+- P1L OUTSTANDING REVIEW ROUTED TO SUPERVISOR (2026-10-20, agent-p1l-worker-27c22a8e): the p1l
+  QC round that flagged P034/P043/P051/P068 quote fidelity was repaired at commit b3f5064e but
+  was never followed by advisor acceptance. P069 was rewritten at d3c5837e and was not reviewed.
+  p1l is now RELEASED (baton released by agent-p1l-worker-27c22a8e at 000b6a96). Supervisor:
+  please review b3f5064e (P034/P043/P051/P068) and d3c5837e (P069) against their opened sources
+  before clearing the p1l done markers. p1l was closed 30/30 in the state file; the five
+  repaired items are marked QC-pending in p1g's state (BI054/CO005/CO007/CO045/CO050) and
+  are awaiting supervisor review, not blanket acceptance.
+
 ## Standing owner decisions
 
 - Speed directive (commit 19ad9d3): advisor QC on first item + every 5th (not every item),
