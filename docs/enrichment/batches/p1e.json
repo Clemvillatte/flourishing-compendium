@@ -53,9 +53,10 @@
   "A025",
   "A045",
   "A070",
+  "A097",
   "A080"
  ],
- "in_progress": "A097",
+ "in_progress": null,
  "flagged": {
   "D011": "inherited psychology claim (Kashdan & Rottenberg 2010 'outperforms on nearly every outcome') not verified against an opened source; preserved per protocol, flagged for supervisor",
   "D068": "inherited psychology-parallels claims (Gottman soft startup; assertiveness research 'aggression reliably loses long games') not verified against opened sources; flagged for supervisor",
@@ -95,11 +96,11 @@
   "A025": "inherited MM I.25 locator, Tracy/Robins parallels and NE IX.8 parallel not opened; preserved",
   "A045": "inherited VI.9 locator, Schwartz/Gollwitzer parallels, Peirce/Dewey parallels not opened; preserved",
   "A070": "inherited Dunn/Deci-Ryan parallels, Mauss and Dana parallels not opened; preserved",
-  "A080": "inherited Deci-Ryan/Csikszentmihalyi/Vallerand parallels, Dewey consummatory and Flow parallels not opened; preserved"
+  "A080": "Reopened for QC: Milestone QC: temporal-completion and borrowed-pleasure claims removed; content fix already applied and accepted"
  },
  "missing_concepts": [],
- "sources_checked": 25,
- "updated": "2026-10-19T14:43:31+00:00",
+ "sources_checked": 30,
+ "updated": "2026-10-19T14:46:53+00:00",
  "band_done": false,
  "takeover": {
   "by": "genuineflourishing35",
