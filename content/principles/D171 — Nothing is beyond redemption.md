@@ -19,7 +19,7 @@ The Dao is the refuge of the imperfect: no one is so flawed that alignment is cl
 
 The chapter's closing argument is that the ancients prized the Tao because "it could be got by seeking for it, and the guilty could escape (from the stain of their guilt) by it". Legge also renders the plainer prose line: "Even men who are not good are not abandoned by it." The chapter's refusal is about abandonment: no one is outside what the Tao covers. The compendium's chosen application is to oneself: after a mistake, ask what remains possible rather than passing a final judgment on the kind of person you are. (DDJ 62.)
 
-**Plain words** The chapter refuses a category of people who are too far gone. The Tao guards bad men, and the guilty can escape by it. The practical use is to ask what remains possible after a mistake: identify a repair you can attempt instead of making a final judgment about the kind of person you are.
+**Plain words** The chapter refuses a too-far-gone category: the Tao guards bad men, and the guilty can escape by it. The practical use is to turn that refusal into questions after a mistake. What commitment was broken? What can still be done? What repair can be offered to the person affected? Those questions are the application; a final judgment about what kind of person you are does not answer any of them.
 
 *For example:* Suppose you break a promise you had kept for months. The chapter's picture is that the broken promise does not move you into a category the Tao stopped covering; the question becomes what repair is still possible.
 

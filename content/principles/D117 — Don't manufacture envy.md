@@ -12,14 +12,14 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 117** — Don't manufacture envy
 
-Don't exalt the worthy or prize rare goods: ranking people creates rivalry, displaying prizes creates theft. Chapter 3 of the Daodejing states the rule as advice to a ruler:
+Don't exalt the worthy or prize rare goods. Chapter 3 of the Daodejing argues that valuing men of superior ability breeds rivalry among the people and prizing rare goods makes thieves of them, so a ruler who wants either gone starts upstream of both:
 
 > "Not to value and employ men of superior ability is the way to keep the people from rivalry among themselves; not to prize articles which are difficult to procure is the way to keep them from becoming thieves; not to show them what is likely to excite their desires is the way to keep their minds from disorder."
 > (DDJ 3, [Legge's translation](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
 Each clause names an effect the chapter ties to public valuation: rivalry from exalting the worthy, theft from prizing rare goods, disordered desire from displaying what excites desire. The chapter's advice is about the setup, not about lecturing the people caught in it. The compendium's application to families and teams: don't build podiums. (DDJ 3.)
 
-**Plain words** On Laozi's argument, rivalry and theft are not fixed traits; the arrangement does much of the manufacturing. A ranking gives one person the top and gives everyone else a public comparison. Before you institute a spotlight or a prize, ask what the people who do not get it are now expected to feel about the ones who do. If the honest answer is rivalry, the chapter would call the podium the problem.
+**Plain words** On the chapter's argument, rivalry and theft come largely from the arrangement, not from lecturing the people caught in it. A ranking gives one person the top and gives everyone else a public comparison. Before you institute a spotlight or a prize, ask what the people who do not get it are now expected to feel about the ones who do. If the honest answer is rivalry, the chapter would call the podium the problem.
 
 *For example:* Suppose a team is considering a monthly award. Before introducing it, ask whether the recognition requires comparing colleagues. You could acknowledge a particular contribution without ranking the whole team.
 

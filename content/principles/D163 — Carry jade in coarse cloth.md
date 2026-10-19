@@ -21,7 +21,7 @@ The chapter opens by saying its words are very easy to know and very easy to pra
 
 **Plain words** The image splits worth from its covering. The haircloth is the plain covering people see; the jade is what is actually carried. On the compendium's analogy, checking the work is attending to the jade, and presenting sound work plainly is the coarse covering. The chapter does not say this about presentations; it is an application of the image, not a quotation of it.
 
-*For example:* Suppose you are choosing between polishing a presentation and checking the work behind it. The analogy calls the second one the jade and the first one haircloth; it does not promise anyone will notice the difference.
+*For example:* Suppose the work behind your presentation is checked and sound. Presenting it plainly, without extra polish, is the coarse cloth; the checked work itself is the jade. The chapter does not promise anyone will notice the difference.
 
 ## Stories
 
