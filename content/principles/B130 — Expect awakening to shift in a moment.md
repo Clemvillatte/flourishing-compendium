@@ -14,11 +14,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 
 Insight is not always gradual: a single re-seeing can reorganize the whole field. Hold both models: [[Gradual training|gradual training]], sudden seeing.
 
+The Platform Sutra's own resolution, in the chapter named for the two schools:
+
+> "While there is only one Dharma, some disciples realize it more quickly than others. The reason why the names 'Sudden' and 'Gradual' are given is that some disciples are superior to others in mental dispositions. So far as the Dharma is concerned, the distinction of 'Sudden' and 'Gradual' does not exist." (Platform Sutra, ch. 8, [Price/Wong Mou-Lam trans.](https://www.wisdomlib.org/buddhism/book/the-6th-patriarch-platform-sutra/d/doc82439.html))
+
+The same chapter reports a nine-year student of the gradual school telling Huineng: "Though I have studied Buddhism for nine years under the Grand Master Shen Hsiu, my mind has not yet been awakened for enlightenment. But as soon as you speak to me my mind is enlightened."
+
 (Platform Sutra; Zen subitism.)
 
-**Plain words** Insight is not always gradual — a single re-seeing can reorganize the whole field. Hold both models: gradual training, sudden seeing. You practice daily so that the lightning, when it comes, has somewhere to land.
+**Plain words**
+The sutra puts the difference in the student, not the teaching: one Dharma, different speeds. So the two models are not rivals but descriptions of one path at different tempos, and the daily practice is not the alternative to sudden seeing; it is what a moment of re-seeing usually lands in. Whether a single re-seeing reorganizes the whole field for any given person is not something anyone can promise in advance.
 
-*For example:* Years of therapy, and then one sentence from a stranger in a grocery store — both were the path; only one was the strike.
+**For example**
+Years of therapy, and then one sentence from a stranger in a grocery store — both were the path; only one was the strike.
+
+## Sources
+
+- [The Sixth Patriarch's Dharma Jewel Platform Sutra, ch. 8, trans. A. F. Price and Wong Mou-Lam (Wisdom Library)](https://www.wisdomlib.org/buddhism/book/the-6th-patriarch-platform-sutra/d/doc82439.html)
 
 ## Psychology parallels
 
