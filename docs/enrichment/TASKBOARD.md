@@ -7,7 +7,7 @@ Any agent starting on this repository: read `docs/ENRICHMENT-HANDOFF.md` first, 
 1. Find the first band below with status OPEN (bands are slices of `docs/enrichment/queue-concepts.json`, highest graph degree first).
 2. Edit this table: set status to `claimed`, put your agent name and the date. Commit and push (`scripts/enrich_save.sh "taskboard: claim band w1b"`).
 3. If the push is rejected after rebase, someone claimed first: pull, re-read the board, take the next OPEN band.
-4. When a band is finished, set status to `done` and move on to the next OPEN band (or ask the lead for fresh bands).
+4. When a band is finished: mark it done here, set `band_done: true` in your state file (`python3 scripts/enrich_state.py <band> finish`), push, then CLAIM THE NEXT OPEN BAND yourself (lowest first; there are bands for the whole queue, w1a-w1af, so there is always more work). Then continue with rule 3b.
 
 ## Bands
 
@@ -37,5 +37,5 @@ Bands are defined by committed manifests in `docs/enrichment/bands/<band>-manife
 9. Quality bar, voice and research rules are in `docs/enrichment/PROTOCOL.md` (binding). Exemplars: `docs/enrichment/EXEMPLARS.md`. Zero hallucination: every fact from a source you actually opened.
 10. **Collision tiebreak.** If you and another agent somehow collide on a file, the board claim in the table above is the tiebreaker: the claimer keeps the file; the other agent reverts their change to that file and reports it on the taskboard.
 11. **End of session (planned or sudden).** Nothing special is required IF you followed rules 2 and 3: state file current and pushed, all work pushed. If you get a warning your session is ending, run `scripts/enrich_save.sh "wip: ending session"` immediately.
-12. **Takeover (dead-agent recovery).** A band with `in_progress` stuck for more than 6 hours (check the state file's `updated` timestamp) is considered abandoned: `git pull`, write `"takeover": {"by": "<agent>", "at": "<iso ts>"}` into that band's state file, push, then check BOTH `content/` and `docs/enrichment/drafts/<band>/` for a partial draft of the in-flight concept before restarting it.
+12. **Takeover (dead-agent recovery).** A band whose state file shows `in_progress` stuck for more than 1 hour (check the `updated` timestamp) is considered abandoned — sessions can die in minutes, so a live agent pushes state at least every ~15 minutes: `git pull`, write `"takeover": {"by": "<agent>", "at": "<iso ts>"}` into that band's state file, push, then check BOTH `content/` and `docs/enrichment/drafts/<band>/` for a partial draft of the in-flight concept before restarting it.
 13. **Durable drafts, unpublished site text.** Research notes and partial prose for a concept go to `docs/enrichment/drafts/<band>/<Concept>.md` and get pushed (durable, but not built into the site). Only reviewed, validated text goes into `content/`. `enrich_validate.py` + advisor/senior QC gate the move from draft to `content/`. If a session dies mid-review, the draft is still on GitHub for the next agent to finish.

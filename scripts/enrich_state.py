@@ -51,6 +51,11 @@ def main():
         return 0
     cmd = args[1] if len(args) > 1 else ''
     path, st = load(band)
+    if cmd == 'init':
+        st.setdefault('done', []); st['in_progress'] = None
+        save(path, st)
+        print(f'band state initialised: {path} (now push via enrich_save.sh)')
+        return 0
     if cmd == 'start' and len(args) >= 3:
         concept = args[2]
         if concept in st["done"]:
@@ -71,6 +76,8 @@ def main():
     elif cmd == 'missing' and len(args) >= 4:
         st.setdefault("missing_concepts", []).append(
             {"title": args[2], "seed": args[3], "why": ' '.join(args[4:])})
+    elif cmd == 'finish':
+        st['band_done'] = True; st['in_progress'] = None
     elif cmd == 'sources' and len(args) >= 3:
         st["sources_checked"] = st.get("sources_checked", 0) + int(args[2])
     else:
