@@ -14,7 +14,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 
 Aristotle's mark of the true friend is the direction of the wish: "men wish well to those whom they love, for their sake, not as a result of feeling but as a result of a state of character." His contrast is telling — you may wish things well for lifeless objects, but only for your own use: it would be ridiculous to wish wine well, and the most one wishes for it is that it keep, so that one may have it oneself — "but to a friend we say we ought to wish what is good for his sake." Hence the definition: "those who wish well to their friends for their sake are most truly friends; for they do this by reason of own nature and not incidentally; therefore their friendship lasts as long as they are good-and goodness is an enduring thing." The compendium's application is the principle's own test: do I want their good, or do I want what they give me?
 
-(NE VIII.2, IX.4.)
+(NE VIII.2, VIII.3, VIII.5.)
 
 **Plain words** A true friend wants your good for your sake, not for what they get from you. Aristotle makes that the test. Ask yourself in a friendship: do I want their good, or what they give me?
 

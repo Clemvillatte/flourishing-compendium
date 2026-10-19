@@ -18,7 +18,7 @@ James's own image is the flywheel: "Habit is thus the enormous fly-wheel of soci
 
 **Plain words** Don't spend decision-power on cereal; spend it on anything that hasn't happened before. Hand the recurring parts of life to habit, and the rest of you is free for its own proper work.
 
-*For example:* The same breakfast every weekday for a decade — boring, and it quietly funds every interesting decision you make before noon.
+*For example:* A user fixes breakfast in advance and keeps the morning's deciding for the unfamiliar problem that arrives at work.
 
 ## Stories
 
