@@ -1,7 +1,7 @@
 {
  "baton": "p1h",
- "agent": "genuineflourishing35",
- "clocked_in": "2026-10-19T13:16:38+00:00",
+ "agent": "worker-p1h-8a3d7e29",
+ "clocked_in": "2026-10-19T14:37:19+00:00",
  "takeovers": [
   {
    "by": "genuineflourishing35",
@@ -14,6 +14,12 @@
    "at": "2026-10-19T12:50:16+00:00",
    "from": "genuineflourishing35",
    "reason": "stale (31 min)"
+  },
+  {
+   "by": "worker-p1h-8a3d7e29",
+   "at": "2026-10-19T14:37:19+00:00",
+   "from": "genuineflourishing35",
+   "reason": "stale (81 min)"
   }
  ],
  "released": false
