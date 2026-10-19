@@ -13,15 +13,15 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 
 > **Principle 75** — Learn emotional validation: acknowledging a feeling reduces its intensity
 
-The experimental study summarises the theory it tests plainly: validation is associated with reductions in negative emotions, invalidation with escalation. The study then qualifies this with its own findings, showing the effects are emotion specific and depend on the individual's level of emotion dysregulation ([Kuo, Fitzpatrick, Ip and Uliaszek, 2022, PMC9116024](https://pmc.ncbi.nlm.nih.gov/articles/PMC9116024/)).
+The study's abstract states the theory in its background: validation is associated with reductions in negative emotions, invalidation with escalation. The study's own findings then qualify this, showing the effects are emotion specific and depend on the individual's level of emotion dysregulation ([Kuo, Fitzpatrick, Ip and Uliaszek, 2022, PMC9116024](https://pmc.ncbi.nlm.nih.gov/articles/PMC9116024/)).
 
 > Theory and research indicate that validation is associated with reductions in negative emotions, whereas invalidation is associated with escalation of negative emotions.
 >
 > — Kuo, Fitzpatrick, Ip and Uliaszek, 2022, Borderline Personality Disorder and Emotion Dysregulation 9:15 ([PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9116024/))
 
-**Plain words** The compendium's application of this principle asks the reader to acknowledge the other person's feeling as understandable in their situation before doing anything else with it. The theory treats the acknowledgement itself as regulation, not merely as a courtesy that precedes solving the problem. The study's own results add that the size of the effect is not uniform across emotions or people.
+**Plain words** The theory treats acknowledging someone's feeling as understandable in their situation as itself a form of regulation, not merely a courtesy before solving the problem. The study's own results add that the size of the effect is not uniform across emotions or people.
 
-For example (imagined): a child is melting down over the wrong colour cup. The parent's two options are "that's silly, it's just a cup" (invalidation) or "you really wanted the blue one" (validation). The compendium's reading of the research treats the second as the one that reduces escalation.
+For example (imagined): a child is melting down over the wrong colour cup. One parent says it is silly, it is just a cup; the other says the child really wanted the blue one. The second is the acknowledgement the theory describes. Whether it reduces escalation in this instance is not guaranteed by the study's findings.
 
 ## Psychology parallels
 
@@ -35,4 +35,4 @@ For example (imagined): a child is melting down over the wrong colour cup. The p
 
 ## Practice
 
-- When someone is emotionally activated, before problem-solving, validate: "that makes sense, given what you're experiencing." Then, and only then, offer perspective or solution.
+- When someone is emotionally activated, one option is to acknowledge that their feeling makes sense in their situation, alongside whatever else you do.

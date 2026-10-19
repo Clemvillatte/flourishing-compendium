@@ -19,7 +19,6 @@
   "B116",
   "B140",
   "B160",
-  "AF075",
   "A026",
   "A055",
   "A100",
@@ -32,7 +31,8 @@
   "A103",
   "AF048",
   "AF061",
-  "AF073"
+  "AF073",
+  "AF075"
  ],
  "in_progress": null,
  "flagged": {
@@ -59,10 +59,10 @@
   "AF048": "Reopened for QC: repair: fix causal claims, helped distinguish, qualify title, verify treatment claims",
   "AF061": "Reopened for QC: repair: present as theory with preliminary evidence, remove causal diagnosis, verify retraction claim",
   "AF073": "Reopened for QC: repair: definition not mechanism, fix bidirectional claim",
-  "AF075": "milestone QC: quotation fidelity and prose scope repairs"
+  "AF075": "Reopened for QC: repair: quote is background not finding, example predicts effect, remove treatment sequence"
  },
  "missing_concepts": [],
  "sources_checked": 9,
- "updated": "2026-10-19T15:04:58+00:00",
+ "updated": "2026-10-19T15:05:07+00:00",
  "band_done": false
 }
