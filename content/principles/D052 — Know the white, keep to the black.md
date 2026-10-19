@@ -12,17 +12,25 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 52** — Know the white, keep to the black
 
-You can see the bright side: achievements, being right — but choose to rest in the humble, unglamorous side. That is where durability lives.
+The principle comes from one of the three "knows ... yet" stanzas of Daodejing 28. Legge renders it:
 
-(DDJ 28.)
+> "Who knows how white attracts, / Yet always keeps himself within black's shade, / The pattern of humility displayed, / Displayed in view of all beneath the sky; / He in the unchanging excellence arrayed, / Endless return to man's first state has made." (DDJ 28, Legge trans., [Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 
-**Plain words** You can see the bright side — achievements, being right — but choose to rest in the humble, unglamorous side. That's where durability lives. Showing your competence and then standing in the background is a power move disguised as modesty.
+The stanza's shape carries the idea. Knowing the bright side and standing in it are separate acts: the sage is credited with knowing how "white attracts", and with keeping "himself within black's shade". The same chapter runs the form twice more, pairing glory with disgrace and strength with feebleness, and it closes on the uncarved block: "The unwrought material, when divided and distributed, forms vessels. The sage, when employed, becomes the Head of all the Officers (of government); and in his greatest regulations he employs no violent measures." Chapter 24 names what the bright side costs when it is all you do: "he who displays himself does not shine; he who asserts his own views is not distinguished; he who vaunts himself does not find his merit acknowledged; he who is self-conceited has no superiority allowed to him".
 
-*For example:* The senior engineer who documents their work quietly and skips the demo-day spotlight ends up running the place in five years.
+(DDJ 24, 28.)
+
+**Plain words** Notice the two verbs in the stanza: knows, keeps. Knowing the bright side is assumed — you see your own competence clearly. The choice is where to stand, and standing in the shade is a decision you make on purpose. Concretely: you can answer the question, fix the bug, close the deal, and then not spend the rest of the week making sure everyone registered that it was you. The humility is a choice about where the competence lives. Pretending you lack it is a different, faker thing.
+
+*For example:* Imagine a code review where you already know the bug's cause. You can announce it, or ask the question that lets its author find it. Both close the bug; the second leaves a colleague who can find the next one.
+
+## Sources
+
+- [The Tao Teh King, Legge trans., Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt) — chapters 24, 28
 
 ## Psychology parallels
 
-- **[[Humility|Humility]]**, accurate self-assessment plus other-orientation predicts relationship and leadership outcomes (Owens et al., 2013)
+- **[[Humility|Humility]]** (Owens et al., 2013)
 - **Self-serving bias and its social costs**
 
 ## Philosophy parallels
