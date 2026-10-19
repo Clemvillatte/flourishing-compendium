@@ -366,3 +366,10 @@ Advisor QC (2026-10-19): quotes verified (BQ1 ch. 22 sentence, BQ2 ch. 68 verse 
 - Plain words de-replicated (old one repeated the recovery-depletion claim with an em dash and the "isn't laziness" staging); replaced with the coach-plans-training procedure and the not-all-breaks-count caveat. Physical-effort analogy explicitly labelled as an analogy. The ART mixed-evidence caveat already in the psychology parallels is referenced in the body rather than hidden.
 - Inherited, NOT opened: Kaplan & Berman 2010, Ohly et al. 2016, McMahan & Estes 2015, Neiye/Sabbath/Delphic parallels — flagged in state.
 - Validator: ok; protected fields untouched vs HEAD.
+
+## AT064 — Learn to create a distraction-free environment (done 2026-10-20 by worker-p1e-4f2c9b1d; no advisor QC per speed directive, item 13)
+
+- Opened: Ward et al. 2017 "Brain Drain" abstract via the search engine's verbatim rendering of the UChicago journals record (https://www.journals.uchicago.edu/doi/10.1086/691462; also EconPapers rendering, identical text). Verified verbatim: "Results from two experiments indicate that even when people are successful at maintaining sustained attention—as when avoiding the temptation to check their phones—the mere presence of these devices reduces available cognitive capacity. Moreover, these cognitive costs are highest for those highest in smartphone dependence." Also opened the PMC10525686 meta-analysis record and the FORRT replication-atlas snippet for the caveat (Ward 2017 pooled effects g = -0.17 and -0.25 with CIs crossing zero; 2 registered replications failed). Sources_checked +2 (32 -> 34).
+- Body now carries the honest replication caveat per the AT037 precedent; the "phone in another room" advice framed as cheap under either outcome. Plain words was already a re-derivation and is kept (the example's em dash removed). Physical-half claims kept modest (no Forster & Lavie opening).
+- Inherited, NOT opened: Forster & Lavie 2008, Leroy 2009, Monsell 2003, Politics/Daodejing 19/Weil parallels — flagged in state.
+- Validator: ok; protected fields untouched vs HEAD.
