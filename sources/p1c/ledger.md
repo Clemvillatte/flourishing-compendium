@@ -160,3 +160,20 @@ copied from the opened URL in this session.
   concepts already cite D089; no new proposals.
 - Inherited-not-reverified: Stroebe & Schut dual-process model and Sandler et al. 2015
   rumination/integration claims in psychology parallels (untouched link sections).
+
+## D092 — Don't chase happiness directly (Zhuangzi 18)
+
+- Opened: https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf
+  (Legge Zhuangzi, ETH Zurich edition). Book XVIII perfect-enjoyment opening extracted:
+  the enjoyments survey, the "determination of death" pursuit line (inline quote ends
+  before the source's semicolon), "doing nothing (to obtain it) to be the great
+  enjoyment", and the blockquote "Perfect enjoyment is to be without enjoyment; the
+  highest praise is to be without praise."
+- QC: advisor round 1 flagged the Plain-words engineering/schedule claims as unsupported
+  and a punctuation deviation in the inline fragment; replaced with the advisor's
+  scoped text and an exact-substring quote. This was a plain-words-replicates repair
+  (58%). Validated vs pre-item baseline 0ba1be3.
+- Saturation: Peak experiences, Savoring, Simplicity, Hedonic adaptation and Valuing
+  happiness paradox already cite D092; no new proposals.
+- Inherited-not-reverified: Mauss et al. 2011 cultural-scope claim and Lyubomirsky 2011
+  hedonic-adaptation claim in psychology parallels (untouched link sections).

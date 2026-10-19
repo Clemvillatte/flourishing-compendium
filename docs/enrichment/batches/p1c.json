@@ -14,11 +14,12 @@
   "D020",
   "D021",
   "D070",
-  "D089"
+  "D089",
+  "D092"
  ],
- "in_progress": "D092",
+ "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
- "sources_checked": 11,
- "updated": "2026-10-19T11:45:21+00:00"
+ "sources_checked": 12,
+ "updated": "2026-10-19T11:47:03+00:00"
 }

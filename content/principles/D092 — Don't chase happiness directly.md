@@ -12,13 +12,20 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 92** — Don't chase happiness directly
 
-Perfect joy looks like no joy at all: the harder you grasp at happiness, the more it becomes a possession to lose. Let well-being arrive as a by-product of the way you live.
+Book XVIII of the Zhuangzi opens by asking where perfect enjoyment is to be found. It surveys what the world counts as enjoyment, rest for the body, rich flavours, fine garments, beautiful colours, pleasant music, and finds the pursuers embittered and anxious, running after their aims "as if with the determination of death, and as if they could not stop in their course" The chapter's own verdict: "I consider doing nothing (to obtain it) to be the great enjoyment, while ordinarily people consider it to be a great evil."
 
-(Zhuangzi 18.)
+> "Hence it is said, 'Perfect enjoyment is to be without enjoyment; the highest praise is to be without praise.'" (Zhuangzi 18, [Legge](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
 
-**Plain words** The harder you grasp at happiness, the more it becomes a possession to lose. Let well-being arrive as a by-product of how you live. Chasing joy directly is chasing your own tail — the tail knows.
+The compendium applies the chapter as a question: what are you pursuing as enjoyment itself, and what does chasing it that way do to the rest of your life?
 
-*For example:* The vacation planned for maximum fun often disappoints; the slow afternoon with no agenda delivers it accidentally.
+**Plain words**
+People in this passage wear themselves out getting the things they expect to enjoy. Zhuangzi questions whether that chase deserves to be called enjoyment. He calls doing nothing to obtain enjoyment the great enjoyment. The paradox challenges the pursuit without promising a particular feeling afterwards.
+
+*For example:* Suppose a vacation planned for maximum fun. As a modern application, plan the ingredients you can control, the walk, the meal, the people, and leave the fun itself unplanned.
+
+## Sources
+
+- [Zhuangzi, trans. James Legge (ETH Zurich edition)](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — Book XVIII, the perfect-enjoyment opening
 
 ## Stories
 
