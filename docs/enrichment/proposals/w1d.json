@@ -259,6 +259,26 @@
    "into": "Ends-in-view",
    "link": "Graded task assignment (Beck, BA)",
    "why": "Dewey's revisable goals as the frame for the graded steps"
+  },
+  {
+   "into": "Optimism",
+   "link": "Hope",
+   "why": "the belief hope is not, per Marcel's distinction"
+  },
+  {
+   "into": "Learned optimism",
+   "link": "Hope",
+   "why": "the trainable cousin from positive psychology"
+  },
+  {
+   "into": "Despair",
+   "link": "Hope",
+   "why": "what hope refuses, the opposite pole"
+  },
+  {
+   "into": "Self-efficacy",
+   "link": "Hope",
+   "why": "the agency component's nearest neighbour in Snyder's theory"
   }
  ],
  "inline": [],
