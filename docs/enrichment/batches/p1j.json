@@ -2,11 +2,13 @@
  "batch": "p1j",
  "done": [
   "B153",
-  "B176"
+  "B176",
+  "D010",
+  "D043"
  ],
  "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-19T13:24:32+00:00"
+ "updated": "2026-10-19T13:27:20+00:00"
 }

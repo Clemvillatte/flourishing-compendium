@@ -16,9 +16,21 @@ Beneath your conditioning there is an original, uncut simplicity. Regularly stri
 
 (DDJ 15, 19, 28, 32, 37.)
 
-**Plain words** Beneath all your roles, credentials and learned opinions there's an original simplicity — the uncarved block. It's not damaged by experience; it's just buried. Regularly strip back the performance and act from that unpolished core, which is sturdier than any persona.
+### The unwrought material
+
+Legge renders pu as "the unwrought material" and shows the carving going the wrong way:
+
+> "The unwrought material, when divided and distributed, forms vessels. The sage, when employed, becomes the Head of all the Officers (of government); and in his greatest regulations he employs no violent measures." (DDJ 28, [Legge](https://www.gutenberg.org/cache/epub/216/pg216.txt))
+
+The old masters are described in the same register — "unpretentious like wood that has not been fashioned into anything" (DDJ 15, Legge) — and the simplicity itself is small but untouchable: though "in its primordial simplicity it may be small, the whole world dares not deal with (one embodying) it as a minister" (DDJ 32, Legge).
+
+**Plain words** Every role you take carves you to fit it — the job shapes your hours, the opinions shape your vocabulary. None of that is bad; the point is that the carvings are additions, not the wood. Most identity crises are carving crises: the title went, and someone mistook the title for the tree. A practical check: which of your opinions and habits would survive the layoff, the move, the new country? Whatever is left is the block, and it is sturdier than any persona.
 
 *For example:* After a layoff strips away the title and the badge, what's left — how you actually treat people — turns out to be the real asset.
+
+## Sources
+
+- [The Tao Teh King, Legge trans., Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt) — chapters 15, 28, 32
 
 ## Stories
 
