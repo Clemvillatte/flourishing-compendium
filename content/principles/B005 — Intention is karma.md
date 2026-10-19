@@ -12,13 +12,26 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 5** — Intention is karma
 
-Mind precedes everything: intentions become actions, actions become habits, habits become character, character becomes your life. Watch intentions: they are the hinge where the future turns.
+The principle's title is a canonical definition. In the Nibbedhika Sutta the Buddha says:
 
-(Dhammapada 1-2.)
+> "Intention, I tell you, is kamma. Intending, one does kamma by way of body, speech, & intellect." (AN 6.63, trans. Thanissaro Bhikkhu, [AccessToInsight](https://accesstoinsight.org/tipitaka/an/an06/an06.063.than.html))
 
-**Plain words** Mind precedes everything: intentions become actions, actions become habits, habits become character, character becomes your life. Watch intentions — they're the hinge where the future turns. The life is assembled upstream of the moment you're living it.
+The Dhammapada opens with the same claim about the mind:
 
-*For example:* The decision to help a colleague because you want credit, versus because you want them to succeed — same action, two different trajectories.
+> "Mind precedes all mental states. Mind is their chief; they are all mind-wrought. If with an impure mind a person speaks or acts suffering follows him like the wheel that follows the foot of the ox." (Dhammapada 1, trans. Acharya Buddharakkhita, [AccessToInsight](https://accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html))
+
+Verse 2 pairs it: with a pure mind, "happiness follows him like his never-departing shadow." The compendium's chain from intention to character is a reading of what repeated intentions do over time; the sutta's own terms are body, speech and intellect, the three doors through which intending becomes doing.
+
+(Dhammapada 1-2; AN 6.63.)
+
+**Plain words** In this definition, karma is not a cosmic ledger; it is what you do on purpose. Whatever you intend goes out through one of the sutta's three doors, body, speech or mind, and what goes out is the act you actually performed. Watch the moment of intending, because that is where the difference between two identical-looking actions lives.
+
+*For example:* Helping a colleague to be seen helping, versus helping so they succeed: the visible action is the same, and the intending is not. The sutta counts the intending.
+
+## Sources
+
+- [Nibbedhika Sutta, trans. Thanissaro Bhikkhu, AccessToInsight](https://accesstoinsight.org/tipitaka/an/an06/an06.063.than.html)
+- [Dhammapada 1-2 (Yamakavagga), trans. Acharya Buddharakkhita, AccessToInsight](https://accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html)
 
 ## Stories
 

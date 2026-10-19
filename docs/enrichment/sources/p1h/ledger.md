@@ -79,3 +79,12 @@ staged by the save script).
 - Inherited, NOT opened/verified: psychology-parallels claims (Brewer et al. 2011 DMN; Letheby and Griffiths 2017) — preserved per protocol, flagged for supervisor.
 - Saturation: Ego dissolution, Abgeschiedenheit, Gelassenheit, Via negativa already linked; Zuowang concept already cites D047. No justified new proposals.
 - Validator on final: ok; exact-quotation check all OK; protected fields untouched.
+
+## B005 — Intention is karma (done 2026-10-19; no advisor QC per speed directive, item 8 of session)
+
+- Opened: two AccessToInsight pages (the protocol's named citable web edition): AN 6.63 Nibbedhika Sutta trans. Thanissaro Bhikkhu (https://accesstoinsight.org/tipitaka/an/an06/an06.063.than.html) and Dhammapada 1-2 Yamakavagga trans. Acharya Buddharakkhita (https://accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html). New sources this session (count increment pending: see meta).
+- Verified verbatim: "Intention, I tell you, is kamma. Intending, one does kamma by way of body, speech, & intellect."; Dhp 1 "Mind precedes all mental states. Mind is their chief; they are all mind-wrought. If with an impure mind a person speaks or acts suffering follows him like the wheel that follows the foot of the ox."; Dhp 2 fragment "happiness follows him like his never-departing shadow."
+- The seed's habits/character chain is presented as the compendium's reading, not as the sutta's terms (the sutta's own terms: body, speech, intellect). The protected principle statement is untouched.
+- Inherited, NOT opened/verified: psychology-parallels claim (Gollwitzer 1999 implementation intentions) — preserved per protocol, flagged for supervisor.
+- Saturation: Second-order desires, Self-constitution through action, Implementation intentions already linked. No justified new proposals.
+- Validator on final: ok; exact-quotation check all OK; protected fields untouched.
