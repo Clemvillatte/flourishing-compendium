@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 3** — Hold the self lightly (anatta)
 
-The "self" is not a thing but a process: a streaming composition of perceptions, feelings, thoughts, and intentions with no fixed owner at the center. Use the word "I" without believing in a solid referent.
+The Buddha's second discourse puts it as a question: "Is form constant or inconstant?" Inconstant, say the monks. "And is that which is inconstant easeful or stressful?" Stressful. "And is it fitting to regard what is inconstant, stressful, subject to change as: 'This is mine. This is my self. This is what I am'?" No. The discourse runs the interrogation across all five aggregates, and its positive formulation is the principle's logic: "Form, monks, is not self. If form were the self, this form would not lend itself to dis-ease." A self would command its parts; the process does not obey. The training instruction: "every consciousness is to be seen as it actually is with right discernment as: 'This is not mine. This is not my self. This is not what I am.'" The Milindapanha later makes the same point with a chariot: "chariot" names an assembly of parts, and no part is the chariot. The compendium's application: use the word "I" the same way, as a name for a working process, not a solid referent.
 
 (Anatta-lakkhana Sutta; Milindapanha.)
 
