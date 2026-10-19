@@ -1346,6 +1346,10 @@ function snippet(content, q) {
   return hl(text, q);
 }
 function renderList() { refreshList(); }
+// mobile: picking an entry closes the Browse sheet
+if (listEl) listEl.addEventListener('click', function () {
+  document.body.classList.remove('lib-browse-open');
+});
 
 function openFromList(e) {
   state.sel = e;
@@ -1471,6 +1475,7 @@ document.addEventListener('keydown', ev => {
 
 /* ================= view switching & randomiser bridge ================= */
 function switchView(v) {
+  document.body.classList.remove('lib-browse-open');
   const rand = v === 'rand';
   const wiki = v === 'wiki';
   const graph = v === 'graph';
@@ -1490,6 +1495,17 @@ function switchView(v) {
   if (wiki) refreshList();
 }
 window.fcSwitchView = switchView;
+// ── mobile controls ──
+(function () {
+  const rfb = document.getElementById('randFiltersBtn');
+  if (rfb) rfb.addEventListener('click', function () {
+    document.body.classList.toggle('rand-filters-open');
+  });
+  const lbb = document.getElementById('libBrowseBtn');
+  if (lbb) lbb.addEventListener('click', function () {
+    document.body.classList.toggle('lib-browse-open');
+  });
+})();
 $('tabRand').addEventListener('click', () => switchView('rand'));
 $('tabWiki').addEventListener('click', () => switchView('wiki'));
 const _tabGraph = $('tabGraph');

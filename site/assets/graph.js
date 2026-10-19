@@ -1527,6 +1527,8 @@ function openDrawer(n) {
       ? '<button class="gd-manage" type="button">Manage all ' + nbs.length + ' connections (add / remove)</button>'
       : '');
   gd.body.scrollTop = 0;
+  // on phones the sheet starts collapsed: a peek with title + connection count
+  drawer.classList.toggle('sheet-collapsed', window.matchMedia('(max-width:820px)').matches);
   drawer.hidden = false;
 }
 
@@ -1750,6 +1752,21 @@ function bindEvents() {
   gd.dot = $('gdDot'); gd.kind = $('gdKind'); gd.title = $('gdTitle'); gd.deg = $('gdDeg');
   gd.content = $('gdContent'); gd.conns = $('gdConns'); gd.body = drawer.querySelector('.gdrawer-body');
   $('gdClose').addEventListener('click', () => select(null));
+  // mobile: the node card is a bottom sheet — tapping its header toggles
+  // between the collapsed peek (title + count) and the full card
+  const mqMobile = window.matchMedia('(max-width:820px)');
+  const ghead = drawer ? drawer.querySelector('.gdrawer-head') : null;
+  if (ghead) ghead.addEventListener('click', function (ev) {
+    if (!mqMobile.matches) return;
+    if (ev.target.closest('.gd-close')) return;
+    drawer.classList.toggle('sheet-collapsed');
+  });
+  // mobile: graph controls hide behind the ☰ button
+  const menuBtn = document.getElementById('graphMenuBtn');
+  if (menuBtn) menuBtn.addEventListener('click', function () {
+    const gv = document.getElementById('graphView');
+    if (gv) gv.classList.toggle('controls-open');
+  });
   $('gdOpenBtn').addEventListener('click', () => {
     if (selected && window.fcWiki && window.fcWiki.open) window.fcWiki.open(selected.e.file);
   });
