@@ -16,7 +16,7 @@ Dewey judges social life by how widely its interests are shared and how freely g
 
 > "A democracy is more than a form of government; it is primarily a mode of associated living, of conjoint communicated experience." (Dewey, Democracy and Education, 1916, VII.2, [text](https://standardebooks.org/ebooks/john-dewey/democracy-and-education/text/chapter-7))
 
-Addams gives settlement residents a demanding instruction: live alongside their neighbours until relationships and mutual interests develop, and remain ready to change methods as circumstances require (Twenty Years at Hull-House, 1910, [Oxford excerpt](https://learninglink.oup.com/access/content/schaller-3e-dashboard-resources/document-excerpt-from-jane-addams-twenty-years-at-hull-house-1910)). The compendium reads these accounts as a practical invitation to share decisions about a task with the people involved.
+Addams asks settlement residents to live beside their neighbours until relationships and mutual interests develop; the settlement itself must remain ready to change its methods as circumstances require (Twenty Years at Hull-House, 1910, [Oxford excerpt](https://learninglink.oup.com/access/content/schaller-3e-dashboard-resources/document-excerpt-from-jane-addams-twenty-years-at-hull-house-1910)). The compendium reads these accounts as a practical invitation to share decisions about a task with the people involved.
 
 ### Plain words
 
@@ -24,7 +24,7 @@ Before offering help, ask what the other person wants to accomplish and what par
 
 ### For example
 
-Consider a parent preparing dinner with a child: offer a manageable choice of dishes, agree who will do each step, and discuss what to change next time. This is an illustration of shared planning, without a promise that one meal will teach someone to cook.
+Consider a parent preparing dinner with a child: offer a manageable choice of dishes, agree who will do each step, and discuss what to change next time. The point is to let the child help decide what happens, rather than only carry out the parent's plan.
 
 ## Psychology parallels
 
