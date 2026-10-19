@@ -1,4 +1,4 @@
-# Draft: Being and beings — band w1e, pre-QC
+# Draft: Being and beings — final (QC fixes applied, published; BU PDF verified as Dahlstrom with verbatim passages)
 
 Sources opened (3 external):
 1. Wrathall, "Martin Heidegger," SEP (first published 2025-01-31) — being = "that which determines entities as entities", "the basic character of entities" (GA20:195; SZ 1); ontological inquiries vs ontic sciences; kinds of being in BT: availableness/readiness-to-hand, occurrentness/presence-at-hand, existence/Dasein (not exhaustive); later "beyng" "absolutely evades being grasped on the basis of entities" (GA51:60); being needs us to be disclosed (GA24:25; GA73.1:204); Dasein as beings-in-the-world, being-disclosers.
@@ -11,33 +11,31 @@ Compendium principles read: E100 (ontological difference: beings vs Being, ontic
 
 ## Page body (for content/concepts/Being and beings.md)
 
-Being and beings names Heidegger's ontological difference: the distinction between being (das Sein) and beings (das Seiende), the things that are ([Korab-Karpowicz, IEP](https://iep.utm.edu/heidegge/)). The article states it plainly: "Being is essentially different from a being, from beings" ([Korab-Karpowicz, IEP](https://iep.utm.edu/heidegge/)). Being is "that which determines entities as entities," the basic character of anything that is ([Wrathall, SEP](https://plato.stanford.edu/entries/heidegger/)).
+Being and beings names Heidegger's ontological difference: the distinction between being (das Sein) and beings (das Seiende), the things that are ([Korab-Karpowicz, IEP](https://iep.utm.edu/heidegge/)). Being is "that which determines entities as entities," the basic character of anything that is ([Wrathall, SEP](https://plato.stanford.edu/entries/heidegger/)). Being is not itself another entity: "It is not something; it is not a being" ([Korab-Karpowicz, IEP](https://iep.utm.edu/heidegge/)).
 
 ### What the difference distinguishes
 
-Ontological inquiries ask what it means to be at all; the sciences ask about the properties and interactions of particular beings ([Wrathall, SEP](https://plato.stanford.edu/entries/heidegger/)). Heidegger holds that things exist in fundamentally different ways: readiness-to-hand for equipment, presence-at-hand for objects, existence for Dasein, the human being that understands Being ([Wrathall, SEP](https://plato.stanford.edu/entries/heidegger/)). In Being and Time the ontological difference coincides with Dasein's understanding of being, an understanding at least implicit in any interaction with a being ([essay on Heidegger, Boston University](https://www.bu.edu/philo/files/2019/09/d-martin-heidegger.pdf)).
+Wrathall distinguishes ontological inquiries from ontic sciences and describes Being as the basic character of entities ([Wrathall, SEP](https://plato.stanford.edu/entries/heidegger/)). Heidegger distinguishes kinds of being, among them readiness-to-hand, presence-at-hand and the existence of Dasein, the human being that understands Being; the list is not exhaustive ([Wrathall, SEP](https://plato.stanford.edu/entries/heidegger/)). In Being and Time the ontological difference coincides with Dasein's understanding of being, an understanding at least implicit in any interaction with a being ([essay on Heidegger, Boston University](https://www.bu.edu/philo/files/2019/09/d-martin-heidegger.pdf)).
 
 ### Forgetfulness and the later spelling
 
-Western metaphysics, on Heidegger's account, reduced Being to a being: idea in Plato, substantia in the medievals, objectivity in modernity, will to power in Nietzsche ([Korab-Karpowicz, IEP](https://iep.utm.edu/heidegge/)). This is the forgetfulness of Being, the oblivion of the distinction itself ([Korab-Karpowicz, IEP](https://iep.utm.edu/heidegge/)). The later work spells the word Seyn to mark Being's historical ground, and Contributions to Philosophy (1936-38) is described as his most sustained attempt to rethink Being historically, replacing the leading question "What is being?" with the fundamental question "What is the ground of being?" ([essay on Heidegger, Boston University](https://www.bu.edu/philo/files/2019/09/d-martin-heidegger.pdf)). There Heidegger also cautions against overreliance on the ontological difference itself, because the tradition tends to identify the Being of beings with presence ([essay on Heidegger, Boston University](https://www.bu.edu/philo/files/2019/09/d-martin-heidegger.pdf)).
+Western metaphysics, on Heidegger's account, reduced Being to a being: idea in Plato, substantia in the medievals, objectivity in modernity, will to power in Nietzsche ([Korab-Karpowicz, IEP](https://iep.utm.edu/heidegge/)). This is the forgetfulness of Being, the oblivion of the distinction itself ([Korab-Karpowicz, IEP](https://iep.utm.edu/heidegge/)). Contributions to Philosophy (1936-38) is Dahlstrom's example of Heidegger's most sustained attempt to rethink being historically ([Dahlstrom](https://www.bu.edu/philo/files/2019/09/d-martin-heidegger.pdf)). There the leading metaphysical question, "What is being?", is replaced by the fundamental question, "what is the ground of being?", and Heidegger employs the old German spelling Seyn as a synonym for that ground ([Dahlstrom](https://www.bu.edu/philo/files/2019/09/d-martin-heidegger.pdf)). Dahlstrom also notes that in the Contributions Heidegger cautions against overreliance upon the ontological difference, given the traditional tendency to identify the being of beings with their presence ([Dahlstrom](https://www.bu.edu/philo/files/2019/09/d-martin-heidegger.pdf)).
 
 ### In the compendium
 
-E100 "Practise the ontological difference" is the compendium's version: do not confuse your understanding of particular things with an understanding of Being itself, citing Being and Time and Introduction to Metaphysics. E101 "Practise the critique of technology" applies the difference: enframing reduces beings to standing-reserve, and the essence of technology is a mode of revealing rather than something technological. E036 "Practise shame as ontological" reads Sartre's being-for-others, a cousin ontology of being-seen.
+E100 "Practise the ontological difference" is the compendium's version: do not confuse your understanding of particular things with an understanding of Being itself, citing Being and Time and Introduction to Metaphysics. E101 "Practise the critique of technology" discusses beings encountered as standing-reserve. E036 "Practise shame as ontological" uses "ontological" for Sartre's account of being-for-others.
 
 ## Related concepts
 
 - [[The ontological difference]] — the formal name for the distinction this page unfolds
 - [[Dasein]] — the being whose understanding of Being makes the difference visible
-- [[Being-in-the-world]] — Dasein's fundamental structure, the clearing where Being shows
-- [[Thrownness]] — Dasein's being already amid beings
-- [[Being-with (Mitsein)]] — being-with-others as a way of being among beings
-- [[Being-toward-death]] — the limit experience that individualizes Dasein
-- [[Being-for-others]] — Sartre's ontology of being-seen, the E036 cousin
+- [[Being-in-the-world]] — the practical and social contexts within which Dasein understands beings
+- [[Being-toward-death]] — death as the possibility that individualizes Dasein, no one can die for me
+- [[Being-for-others]] — Sartre's account of being-seen, which E036 takes up
 
 ## Sources
 
 - [Wrathall, "Martin Heidegger," Stanford Encyclopedia of Philosophy (2025)](https://plato.stanford.edu/entries/heidegger/) — being as "that which determines entities as entities"; ontic and ontological; kinds of being; later beyng
 - [Korab-Karpowicz, "Martin Heidegger (1889-1976)," Internet Encyclopedia of Philosophy](https://iep.utm.edu/heidegge/) — the ontological difference; forgetfulness of Being; Da-sein as the site of disclosure
-- [Essay on Heidegger, Boston University (PDF)](https://www.bu.edu/philo/files/2019/09/d-martin-heidegger.pdf) — Contributions to Philosophy; Seyn; the fundamental question of the ground of being
+- [Dahlstrom, "Martin Heidegger" (essay PDF, hosted by Boston University)](https://www.bu.edu/philo/files/2019/09/d-martin-heidegger.pdf) — Contributions to Philosophy; the fundamental question of the ground of being; Seyn
 - Heidegger, Contributions to Philosophy — original seed citation; not directly consulted

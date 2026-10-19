@@ -6,13 +6,14 @@
   "Avoidance versus attentional engagement",
   "Behavior analysis",
   "Behavioural chaining (applied behaviour analysis)",
-  "Behavioural rehearsal / role-play (DBT, social skills training)"
+  "Behavioural rehearsal / role-play (DBT, social skills training)",
+  "Being and beings"
  ],
- "in_progress": "Being and beings",
+ "in_progress": null,
  "flagged": {
   "Behavioural rehearsal / role-play (DBT, social skills training)": "seed citation 'Kelly, 2004' could not be identified; kept as original seed line, not consulted"
  },
  "missing_concepts": [],
- "sources_checked": 21,
- "updated": "2026-10-19T08:11:11+00:00"
+ "sources_checked": 24,
+ "updated": "2026-10-19T08:14:00+00:00"
 }
