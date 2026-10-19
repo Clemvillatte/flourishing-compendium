@@ -16,9 +16,20 @@ In learning and living, loss beats gain: remove a bad habit, a possession, an ob
 
 (DDJ 48.)
 
-**Plain words** When something isn't working, the first instinct is to add — a new tool, a new rule, a new app. Most progress is removal: the bad habit, the pointless obligation, the possession you're storing rather than using. Before you add anything, ask what you could delete instead.
+Chapter 48 of the Daodejing sets two students side by side. The student of learning works "from day to day to increase (his knowledge)"; the student of the Tao works "from day to day to diminish (his doing)". What the second takes away is his own doing, and the chapter follows the subtraction to its end: having arrived at non-action, "there is nothing which he does not do". Even getting the world, it says, happens "by giving himself no trouble (with that end)".
 
-*For example:* Fixing a cluttered week by adding a productivity app rarely works; deleting two recurring meetings does.
+Read as the compendium reads it, the chapter gives a rule of thumb for desire: before adding a tool, a rule or a commitment, ask whether something already in the week can come out. What the chapter itself recommends diminishing is doing and trouble.
+
+> "He diminishes it and again diminishes it, till he arrives at doing nothing (on purpose). Having arrived at this point of non-action, there is nothing which he does not do." (Daodejing 48, [Legge](https://www.gutenberg.org/ebooks/216))
+
+**Plain words**
+Adding a solution gives you one more thing to run. When something isn't working, ask the opposite question first: what here could stop? The subscription you forgot you had, the obligation nobody would miss. Try removing one and watch what changes before you add anything.
+
+*For example:* Suppose a cluttered week. The reflex fix is a productivity app; the chapter's fix would be to delete two recurring meetings first and see what the week looks like without them.
+
+## Sources
+
+- [The Tao Teh King, trans. James Legge (Project Gutenberg)](https://www.gutenberg.org/ebooks/216) — ch. 48
 
 ## Stories
 
