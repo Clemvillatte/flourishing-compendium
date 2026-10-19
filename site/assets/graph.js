@@ -33,6 +33,18 @@ function updateBackBtns() {
   if (b1) b1.disabled = !ok;
   if (b2) b2.disabled = !ok;
 }
+/* random "show me something" button: pick uniformly from the nodes visible
+   under the CURRENT scope + kind filters, then reveal + select it exactly like
+   a search hit (camera glide, belt build, drawer) — and select() records it in
+   the back history, so the back button returns you where you came from. */
+function openRandomNode() {
+  if (!G) return;
+  const vis = G.nodes.filter(n => n.visible);
+  if (!vis.length) return;
+  const n = vis[Math.floor(Math.random() * vis.length)];
+  centerOn(n);
+  select(n);
+}
 function goBackSelection() {
   if (!G || !G.nodeById) return;
   while (selHistory.length) {
@@ -764,8 +776,10 @@ window.__beltDebug = function () {
 function fitToBelts() {
   if (!spreadCenter || !spreadRings || !spreadRings.y || !phys.belts) return;
   const geo = beltGeometry(spreadCenter);
-  // fit to whichever outer edge is live: the Z tails, or just the Y ring
-  const ext = (geo.z ? geo.zOut : geo.yR + geo.yW / 2) + 90;
+  // frame at the N+1 (Y) BELT scale — the reading view the user asked for.
+  // The Z ring still renders (N+2 toggle), it just isn't the framing: its
+  // innermost row sits at the screen edge, the rest extends off-screen
+  const ext = geo.yR + geo.yW / 2 + 90;
   const w = canvas.clientWidth, h = canvas.clientHeight;
   const zoom = Math.max(0.02, Math.min((w - 150) / (2 * ext), (h - 150) / (2 * ext), 1.6));
   camAnim = { t0: Date.now(), dur: 460, x0: cam.x, y0: cam.y, z0: cam.zoom, x1: spreadCenter.x, y1: spreadCenter.y, z1: zoom };
@@ -845,6 +859,13 @@ function separateDisplayed() {
           let d = Math.hypot(dx, dy);
           const min = n.r + m.r + PAD;
           if (d >= min) continue;
+          // eligibility FIRST: on phones, context–context overlaps in the frozen
+          // base layout are deliberately NOT fixed. Checking this before the
+          // movement flags / push metrics is load-bearing — an ignored overlap
+          // that still sets them would keep sepMoved true forever and the frame
+          // loop would never go idle (constant battery/CPU burn on phones)
+          if (phone && n !== dragged && m !== dragged &&
+              !inSpread(n) && !inSpread(m)) continue;
           moved = true; movedAny = true;
           let ux, uy;
           if (d > 0.01) { ux = dx / d; uy = dy / d; }
@@ -855,7 +876,7 @@ function separateDisplayed() {
           else if (m === dragged) { n.ox -= ux * push; n.oy -= uy * push; if (!phone) { n.sepAx = (n.sepAx || 0) - ux * push; n.sepAy = (n.sepAy || 0) - uy * push; } }
           else if (phone) {
             const fn = inSpread(n), fm = inSpread(m);
-            if (!fn && !fm) continue;                       // context–context: not ours to fix
+            if (!fn && !fm) continue;                       // context–context: not ours to fix (already filtered above)
             else if (fn && !fm) { n.ox -= ux * push; n.oy -= uy * push; }   // context is immovable
             else if (fm && !fn) { m.ox += ux * push; m.oy += uy * push; }
             else {
@@ -1725,15 +1746,12 @@ function select(n, opts) {
   // from it (a presentation-layer offset — the frozen layout itself never
   // moves). Deselecting eases everything back together.
   setSpread(n);
-  // PHONES: a tap-select also glides the camera to fit the belts — on a 390px
-  // viewport a belt centred on the tapped node is routinely half off-screen,
-  // and "show its connections" is the whole point of selecting. Desktop keeps
-  // the no-auto-travel behaviour (big viewport; the drawer's Center button
-  // fits on demand).
-  if (spreadSnap && n && phys.belts && spreadSlots) fitToBelts();
-  // no automatic camera travel on plain clicks — the target stays under the
-  // cursor, which makes click/dbl-click predictable (search and the
-  // "Center on node" button go through centerOn, which fits the belts)
+  // selecting a node centers it at the N+1 belt scale on every platform (user
+  // request): fitToBelts glides the camera onto the node framed for the Y ring.
+  // dbl-click-to-open is safe: the dblclick handler falls back to the node
+  // remembered from the first click when the camera move carries it away.
+  // With belts OFF there is nothing to frame — keep the no-travel click.
+  if (n && phys.belts && spreadSlots) fitToBelts();
   wake();
   updateBackBtns();
 }
@@ -1966,6 +1984,9 @@ function bindEvents() {
   const backBtn = document.getElementById('graphBackBtn'), backBtnM = document.getElementById('graphBackBtnM');
   if (backBtn) backBtn.addEventListener('click', goBackSelection);
   if (backBtnM) backBtnM.addEventListener('click', goBackSelection);
+  const randBtn = document.getElementById('graphRandomBtn'), randBtnM = document.getElementById('graphRandomBtnM');
+  if (randBtn) randBtn.addEventListener('click', openRandomNode);
+  if (randBtnM) randBtnM.addEventListener('click', openRandomNode);
   if (menuBtn) menuBtn.addEventListener('click', function () {
     const gv = document.getElementById('graphView');
     if (gv) gv.classList.toggle('controls-open');
