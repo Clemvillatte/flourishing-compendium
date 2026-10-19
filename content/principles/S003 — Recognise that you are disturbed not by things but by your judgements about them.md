@@ -12,13 +12,25 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 125** — Recognise that you are disturbed not by things but by your judgements about them
 
-It is not events that upset you but your interpretation of them. The same event can be seen as catastrophe or as indifference, depending on the story you tell. The work is not to change the event but to examine the judgement.
+The principle is Epictetus's formulation in the Enchiridion: people are disturbed not by things but by the notions they form about them. The teaching move is the Socrates example. Death itself is not terrible, or it would have appeared so to Socrates; the terror is in the notion that it is terrible. Event and judgement about the event are separable, and the disturbance lives in the second one, which is the part a person governs.
+
+> "Men are disturbed, not by things, but by the principles and notions which they form concerning things. Death, for instance, is not terrible, else it would have appeared so to Socrates. But the terror consists in our notion of death that it is terrible." (Enchiridion 5, [Internet Classics Archive](https://classics.mit.edu/Epictetus/epicench.html))
+
+The instruction for the moment of disturbance follows directly: attribute it to nobody else, and to one's own principles.
+
+> "When therefore we are hindered, or disturbed, or grieved, let us never attribute it to others, but to ourselves; that is, to our own principles." (Enchiridion 5, [Internet Classics Archive](https://classics.mit.edu/Epictetus/epicench.html))
+
+The compendium's practical reading: the same event can be read as catastrophe or as indifference, and the reading is the lever. The work is to catch the judgement in the moment and ask what notion produced it.
 
 (Ench. 5; Disc. I.1; Med. IV.7, VIII.47.)
 
-**Plain words** Events don't upset you. Your judgement about them does. The same news can feel like disaster or like a nuisance depending on the story you attach. The work isn't to change the event but to look at the judgement behind your reaction.
+**Plain words** When something lands badly, the sequence is event, then judgement, then feeling. The feeling presents itself as a response to the event; it is a response to the judgement, which arrived so fast it looked like perception. The way in: on the next bad landing, do not argue with the feeling. Ask what the event would have to mean for this feeling to make sense. That meaning is the judgement, and it is the part you can touch.
 
 *For example:* Two cyclists get a flat tyre on the same road. One reads it as ruin of the day, one as a chance to stretch her legs.
+
+## Sources
+
+- [Epictetus, Enchiridion 5 (Internet Classics Archive)](https://classics.mit.edu/Epictetus/epicench.html) — quotations verbatim
 
 ## Stories
 
