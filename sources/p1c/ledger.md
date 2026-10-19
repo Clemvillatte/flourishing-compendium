@@ -398,3 +398,10 @@ copied from the opened URL in this session.
   the thought that" example, goal sentence). Seed locator cited the Hayes/Strosahl/
   Wilson 2011 book; the opened source is the same authors' 2011 Behavior Therapy
   article. Validated vs HEAD (pre-item).
+
+## P162 — Take committed action (Hayes et al. 2011)
+
+- Reused the opened https://pmc.ncbi.nlm.nih.gov/articles/PMC3635495/ (Hayes et al.
+  2011; committed-action section fetched verbatim). Seed locator cited the book;
+  the opened source is the same authors' 2011 Behavior Therapy article. Validated
+  vs HEAD (pre-item).

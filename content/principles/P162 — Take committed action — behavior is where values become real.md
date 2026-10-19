@@ -12,13 +12,20 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 162** — Take committed action: behavior is where values become real
 
-Values that never reach behavior are wishes: build patterns of action, large and small, that embody what you care about. Do the next concrete thing.
+The ACT article's action side: committed action is where ACT's behavior-therapy lineage "is most obvious", and "ACT protocols almost always involve therapy work and homework linked to short-, medium-, and long-term behavior change goals."
 
-(Hayes, Strosahl and Wilson, 2011.)
+> "Finally, ACT encourages the development of larger and larger patterns of effective action linked to chosen values, undermining inaction, impulsivity, or avoidant persistence." (Hayes et al. 2011, [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3635495/))
 
-**Plain words** Values that never reach behavior are wishes — build patterns of action, large and small, that embody what you care about. Do the next concrete thing. Caring about the environment is a mood; composting is a value.
+The compendium applies the sentence to the Tuesday walk: the value is the direction, the walk is a goal-sized piece of it, and the article's contrast is that goals can be achieved while values are only instantiated.
 
-*For example:* 'I care about my health' — the caring is real and weightless until it becomes the Tuesday walk. The walk is the value, wearing boots. Values only exist in behavior.
+**Plain words**
+A value that never touches a Tuesday is a mood about the value. The ACT recipe asks for goals in three sizes, short, medium and long, that point the same way as the value. The test is behavioral: what got done. The caring is real either way; the value exists in the doing.
+
+*For example:* Suppose "I care about my health". As a modern application, the committed-action version is the smallest concrete goal in that direction, for example the Tuesday walk, done this Tuesday.
+
+## Sources
+
+- [Hayes et al. 2011, ACT and Contextual Behavioral Science (Behavior Therapy, PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3635495/)
 
 ## Stories
 
