@@ -6,11 +6,12 @@
   "SE007",
   "A029",
   "P065",
-  "D022"
+  "D022",
+  "D006"
  ],
- "in_progress": "D006",
+ "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
- "sources_checked": 2,
- "updated": "2026-10-19T11:28:52+00:00"
+ "sources_checked": 4,
+ "updated": "2026-10-19T11:31:44+00:00"
 }

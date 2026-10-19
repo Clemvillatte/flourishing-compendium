@@ -16,7 +16,7 @@ Chapter 16 of the Daodejing watches the vegetable world: things grow luxuriant, 
 
 > "All things alike go through their processes of activity, and (then) we see them return (to their original state). When things (in the vegetable world) have displayed their luxuriant growth, we see each of them return to its root. This returning to their root is what we call the state of stillness; and that stillness may be called a reporting that they have fulfilled their appointed end." (Daodejing 16, [Legge](https://www.gutenberg.org/ebooks/216))
 
-Read as the compendium reads it, the chapter gives a planning rule. The principle's examples of cycling things are energy, fortune, mood and season; the rule is to plan for their return instead of extrapolating a straight line through the current one. A plan built this way has room to slow down and reconsider.
+The compendium applies the image of return by asking where a plan allows for stopping and reconsideration.
 
 **Plain words**
 A plan can leave every available hour committed to the next task. Ask what you would postpone if you needed to slow down tomorrow. Leave yourself that option instead of assuming the present pace must continue.
