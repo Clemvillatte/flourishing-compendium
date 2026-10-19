@@ -12,13 +12,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 27** — Guess well: practice abduction
 
-Between blind trial and safe deduction lies abduction: forming an explanatory hypothesis that, if true, would make sense of the surprising facts. Train the art of the fruitful guess.
+Peirce's 1903 schema for abduction, as the Stanford Encyclopedia presents it:
+
+> "The surprising fact, C, is observed. But if A were true, C would be a matter of course. Hence, there is reason to suspect that A is true." (Peirce, CP 5.189; [SEP, Peirce on Abduction](https://plato.stanford.edu/archives/fall2026/entries/abduction/peirce.html))
+
+The three lines are the grammar of a good guess: surprise, an explanation that would make the surprise ordinary, and a suspicion worth testing rather than believing. Peirce's own account of what the operation adds: "abduction is the process of forming explanatory hypotheses. It is the only logical operation which introduces any new idea" (CP 5.172). The conclusion is a candidate rather than a verdict: on the reading the SEP article gives Peirce, the hypothesis is adopted as worthy of further investigation, not as true or confirmed.
 
 (Peirce, Collected Papers; "Abduction" essays.)
 
-**Plain words** Between blind trial and safe deduction lies abduction — forming an explanatory hypothesis that, if true, would make sense of the surprising facts. Train the art of the fruitful guess. Most breakthroughs are good guesses, not careful conclusions.
+**Plain words**
+Surprise is the signal. When something you expected to be ordinary turns out not to be, the job is to find the story in which it would have been ordinary. That story is the guess. It has not earned belief yet; it has earned a test. The discipline is generating several such stories before settling on the cheapest one to check.
 
-*For example:* The car won't start when it rains, fine when dry — the mechanic's guess: cracked distributor cap. One guess, one cheap part, problem solved. That's abduction.
+**For example**
+The car won't start when it rains, fine when dry: the mechanic's guess is a cracked distributor cap. One guess, one cheap part, problem solved.
+
+## Sources
+
+- ["Peirce on Abduction", Stanford Encyclopedia of Philosophy (archived edition)](https://plato.stanford.edu/archives/fall2026/entries/abduction/peirce.html) — quotes CP 5.189 (the schema) and CP 5.172 (forming explanatory hypotheses), with the worthy-candidate reading
 
 ## Stories
 
