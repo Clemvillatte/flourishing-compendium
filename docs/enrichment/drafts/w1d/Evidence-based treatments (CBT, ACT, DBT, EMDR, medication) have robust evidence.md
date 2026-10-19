@@ -2,11 +2,11 @@ This entry is a boundary marker rather than a traditional concept: its title sta
 
 ### What the evidence shows
 
-For CBT the broadest survey is Hofmann and colleagues' review of meta-analyses, which identified 269 meta-analytic studies and described a representative sample of 106: "the strongest support exists for CBT of anxiety disorders, somatoform disorders, bulimia, anger control problems, and general stress," and "in general, the evidence-base of CBT is very strong," though the authors call for more randomised trials and note that no meta-analyses existed for subgroups such as ethnic minorities and low-income samples ([Hofmann et al., Cogn Ther Res](https://pmc.ncbi.nlm.nih.gov/articles/PMC3584580/)). ACT was tested in a meta-analysis of 39 randomised trials with 1,821 patients: it outperformed control conditions (Hedges' g = 0.57) and showed no significant difference against CBT, and the authors conclude it is more effective than treatment as usual or placebo ([A-Tjak et al., 2015, PubMed](https://pubmed.ncbi.nlm.nih.gov/25547522/)).
+For CBT, Hofmann and colleagues' review of meta-analyses identified 269 meta-analytic studies and described a representative sample of 106: "the strongest support exists for CBT of anxiety disorders, somatoform disorders, bulimia, anger control problems, and general stress," and "in general, the evidence-base of CBT is very strong," though the authors call for more randomised trials and note that no meta-analyses existed for subgroups such as ethnic minorities and low-income samples ([Hofmann et al., Cogn Ther Res](https://pmc.ncbi.nlm.nih.gov/articles/PMC3584580/)). ACT was tested in a meta-analysis of 39 randomised trials with 1,821 patients: it outperformed control conditions (Hedges' g = 0.57) and showed no significant difference against CBT, and the authors conclude it is more effective than treatment as usual or placebo ([A-Tjak et al., 2015, PubMed](https://pubmed.ncbi.nlm.nih.gov/25547522/)).
 
 ### The named therapies, with their limits
 
-DBT's evidence is the weakest of the set: a JAMA Psychiatry meta-analysis found dialectical behaviour therapy and psychodynamic approaches effective for borderline symptoms, with DBT at g = 0.34 against controls, but "effects are small, inflated by risk of bias and publication bias, and particularly unstable at follow-up" ([Cristea et al., 2017](https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2605200)). For EMDR, a Cochrane review of 114 trials with 8,171 participants found "robust evidence" of a clinically important effect for trauma-focused CBT and EMDR, rating the EMDR comparisons low quality ([Bisson et al., 2020, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7144187/)). For medication, the largest network meta-analysis, 522 trials and 116,477 participants, concluded that "all antidepressants were more efficacious than placebo in adults with major depressive disorder," with mostly modest effect sizes ([Cipriani et al., 2018, Lancet](https://pmc.ncbi.nlm.nih.gov/articles/PMC5889788/)).
+For DBT, a JAMA Psychiatry meta-analysis of 33 trials with 2,256 participants found dialectical behaviour therapy and psychodynamic approaches effective for borderline symptoms, with DBT at g = 0.34 against controls, but "effects are small, inflated by risk of bias and publication bias, and particularly unstable at follow-up" ([Cristea et al., 2017](https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2605200)). For EMDR, a systematic review following Cochrane guidelines, 114 trials with 8,171 participants, found "robust evidence" of a clinically important effect for trauma-focused CBT and EMDR, rating the EMDR comparisons low quality ([Lewis et al., 2020, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7144187/)). For medication, a network meta-analysis of 522 trials and 116,477 participants, covering 21 antidepressants for the acute treatment of adults with major depressive disorder, concluded that "all antidepressants were more efficacious than placebo in adults with major depressive disorder," with mostly modest effect sizes ([Cipriani et al., 2018, Lancet](https://pmc.ncbi.nlm.nih.gov/articles/PMC5889788/)).
 
 ### In the compendium
 
@@ -14,13 +14,13 @@ The concept is cited by the boundary principles, and their shared move is to nam
 
 ## Related concepts
 
-- [[Exposure therapy (Foa, Craske)]] — the best-supported ingredient inside CBT for anxiety disorders
-- [[Dialectical behaviour therapy, emotion modulation]] — the compendium's own DBT page, for the therapy whose evidence is most caveated
+- [[Exposure therapy (Foa, Craske)]] — the exposure family of techniques inside CBT
+- [[Dialectical behaviour therapy, emotion modulation]] — the compendium's own page for one of the therapies named in the title
 - [[Graded exposure / systematic desensitisation (Wolpe)]] — the clinical technique the compendium scales to self-help size
-- [[Cognitive reappraisal]] — the core CBT skill the evidence base rests on
-- [[Behavioral activation]] — the activation family inside CBT for depression
-- [[Compassion-focused therapy]] — a further evidence-based approach the wiki covers
-- [[Metacognitive therapy (Wells)]] — a CBT-family therapy with its own trial base
+- [[Cognitive reappraisal]] — the reappraisal skill taught inside CBT
+- [[Behavioral activation]] — the compendium's activation concept for depression
+- [[Compassion-focused therapy]] — a further therapy approach the wiki covers
+- [[Metacognitive therapy (Wells)]] — a further CBT-family therapy in the compendium
 
 ## Sources
 
@@ -28,7 +28,7 @@ The concept is cited by the boundary principles, and their shared move is to nam
 - [Hofmann, Asnaani, Vonk, Sawyer, Fang, The Efficacy of Cognitive Behavioral Therapy: A Review of Meta-analyses, Cognitive Therapy and Research 36 (2012), PMC3584580](https://pmc.ncbi.nlm.nih.gov/articles/PMC3584580/) — the CBT evidence and its caveats
 - [A-Tjak et al., A meta-analysis of the efficacy of acceptance and commitment therapy, Psychother Psychosom 84 (2015), PubMed 25547522](https://pubmed.ncbi.nlm.nih.gov/25547522/) — the ACT trial base and effect sizes
 - [Cristea et al., Efficacy of Psychotherapies for Borderline Personality Disorder, JAMA Psychiatry 74(4) (2017)](https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2605200/) — DBT effects and their limits
-- [Bisson et al., Psychological therapies for post-traumatic stress disorder in adults, Cochrane review (2020), PMC7144187](https://pmc.ncbi.nlm.nih.gov/articles/PMC7144187/) — trauma-focused CBT and EMDR evidence
+- [Lewis, Roberts, Andrew, Starling, Bisson, Psychological therapies for post-traumatic stress disorder in adults, Eur J Psychotraumatol 11 (2020), PMC7144187](https://pmc.ncbi.nlm.nih.gov/articles/PMC7144187/) — trauma-focused CBT and EMDR evidence
 - [Cipriani et al., Comparative efficacy and acceptability of 21 antidepressant drugs, The Lancet 391 (2018), PMC5889788](https://pmc.ncbi.nlm.nih.gov/articles/PMC5889788/) — the medication evidence
 
 ## Cited in psychology parallels

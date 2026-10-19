@@ -88,37 +88,37 @@
   {
    "into": "Exposure therapy (Foa, Craske)",
    "link": "Evidence-based treatments (CBT, ACT, DBT, EMDR, medication) have robust evidence",
-   "why": "the boundary concept that frames when exposure work needs professional support"
+   "why": "the exposure family of techniques inside CBT"
   },
   {
    "into": "Dialectical behaviour therapy, emotion modulation",
    "link": "Evidence-based treatments (CBT, ACT, DBT, EMDR, medication) have robust evidence",
-   "why": "DBT appears in the boundary concept's list of treatments with tested evidence"
+   "why": "the compendium's own page for one of the therapies named in the boundary concept's title"
   },
   {
    "into": "Graded exposure / systematic desensitisation (Wolpe)",
    "link": "Evidence-based treatments (CBT, ACT, DBT, EMDR, medication) have robust evidence",
-   "why": "the clinical technique the boundary concept marks off from self-help versions"
+   "why": "the compendium's self-help-scale version of a clinical technique"
   },
   {
    "into": "Cognitive reappraisal",
    "link": "Evidence-based treatments (CBT, ACT, DBT, EMDR, medication) have robust evidence",
-   "why": "the CBT skill whose trial base the boundary concept cites"
+   "why": "the reappraisal skill taught inside CBT"
   },
   {
    "into": "Behavioral activation",
    "link": "Evidence-based treatments (CBT, ACT, DBT, EMDR, medication) have robust evidence",
-   "why": "the activation family inside CBT for depression"
+   "why": "the compendium's activation concept for depression"
   },
   {
    "into": "Compassion-focused therapy",
    "link": "Evidence-based treatments (CBT, ACT, DBT, EMDR, medication) have robust evidence",
-   "why": "a further evidence-based approach the wiki covers"
+   "why": "a further therapy approach the wiki covers"
   },
   {
    "into": "Metacognitive therapy (Wells)",
    "link": "Evidence-based treatments (CBT, ACT, DBT, EMDR, medication) have robust evidence",
-   "why": "a CBT-family therapy with its own trial base"
+   "why": "a further CBT-family therapy in the compendium"
   }
  ],
  "inline": []
