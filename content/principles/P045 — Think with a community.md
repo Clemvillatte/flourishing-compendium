@@ -12,13 +12,15 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 45** — Think with a community
 
-Serious thinking is social: the community of inquiry outperforms the lone mind. Build a circle that tests your ideas against experience and against other minds.
+Peirce's essay "The Fixation of Belief" ends with the scientific method, but the essay's real conclusion is about who gets to check the answer. His formulation is stark: any man with sufficient experience and reason will be led to the one True conclusion — because reality does not change its behaviour based on individual opinion ([The Fixation of Belief, Wikisource](https://en.wikisource.org/wiki/The_Fixation_of_Belief)). This makes thinking a public project, not a private one. The community of inquiry is not a peer-review nicety; it is the only mechanism by which an error you cannot see gets caught.
 
-(Peirce, "The Fixation of Belief," 1877; Addams, Twenty Years at Hull-House, 1910.)
+Addams makes the same point from the ground. Twenty Years at Hull-House records her discovery that the settlement's plans for its neighbours kept failing until the neighbours were in the room ([Addams 1910, Gutenberg](https://www.gutenberg.org/ebooks/2396)). Thinking about people without them is not thinking — it is guessing dressed up as expertise.
 
-**Plain words** Serious thinking is social — the community of inquiry outperforms the lone mind. Build a circle that tests your ideas against experience and against other minds. Two people in real dialogue outperform either genius alone.
+> "There are Real things, whose characters are entirely independent of our opinions about them... and any man, if he have sufficient experience and he reason enough about it, will be led to the one True conclusion." (Charles Peirce, "The Fixation of Belief", 1877, [Wikisource](https://en.wikisource.org/wiki/The_Fixation_of_Belief))
 
-*For example:* The business idea pitched to three smart friends and shredded in twenty minutes — cheaper than eighteen months and a loan. The circle did its job.
+**Plain words** A single mind has a blind spot it cannot see from the inside. This is not a character flaw — it is just what being one mind does. The checking circle is not there to make you feel supported; it is there to be the pair of eyes you do not own. Every serious discipline has one: peer review, replication, co-authors, master-apprentice. If your current thinking has no one who can tell you it is wrong, you do not have a stronger view — you have an unchallenged one.
+
+*For example:* Two founders pitch the same business. One shows it to three smart friends and gets the plan shredded in twenty minutes. The other keeps it private for eighteen months and signs a loan. Both believed in the idea equally; only one of them had a chance to find out they were wrong while it was still cheap.
 
 ## Stories
 
