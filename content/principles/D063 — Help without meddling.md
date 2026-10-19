@@ -18,19 +18,23 @@ Assist the ten thousand things but don't dare impose on them. Support people's g
 
 ### What the sage's help looks like
 
-Chapter 64 ends with the job description:
+Chapter 64 gives the sage's rule:
 
 > "Thus he helps the natural development of all things, and does not dare to act (with an ulterior purpose of his own)." (DDJ 64, [Legge](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 
-The warning sits in the same chapter: "He who acts (with an ulterior purpose) does harm; he who takes hold of a thing (in the same way) loses his hold" (DDJ 64, Legge). Helping and meddling are distinguished by purpose, not by intensity.
+The warning sits in the same chapter:
 
-**Plain words** The difference shows up in what happens after the help. The watering can be put down; the tug on the seedling has to be repeated, because pulling is not a condition the plant can use, it is a state you impose and then have to maintain. The same test works on people: if your help stops working the moment you step back, it was not help, it was management with a kind voice. The mark of the first kind is that the other person's project still runs when you are out of the room.
+> "He who acts (with an ulterior purpose) does harm; he who takes hold of a thing (in the same way) loses his hold." (DDJ 64, [Legge](https://www.gutenberg.org/cache/epub/216/pg216.txt))
+
+Legge's wording directs attention to the helper's own agenda: assistance can become interference when the helper imposes a preferred outcome.
+
+**Plain words** Before helping, find out what the person is trying to do and what support they want. You might explain an option, provide a tool, or take on an agreed task while leaving their decisions with them. Some assistance needs to continue. Ask whether your involvement supports their choices, and whether they can question or change what you are doing.
 
 *For example:* Watering the seedling instead of pulling it upward to make it grow faster — you provide, nature decides.
 
 ## Sources
 
-- [The Tao Teh King, Legge trans., Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt) — chapter 64
+- [The Tao Teh King, Legge trans., Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt): chapter 64
 
 ## Psychology parallels
 
