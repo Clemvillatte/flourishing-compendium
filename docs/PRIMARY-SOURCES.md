@@ -54,5 +54,35 @@ edition (Perseus, MIT Classics, accesstoinsight, etc.) and note it in the batch 
   Sutra); Sheng Yen, Hoofprint of the Ox; Franck (ed.), The Buddha Eye (Kyoto School);
   Thich Nhat Hanh, The Heart of the Buddha's Teaching; Davis, Zen Pathways.
 
+## Owner's local library (from All-Books.pdf, 2026-10-19)
+
+The owner's local library is larger than the Drive. Key holdings for the wiki (ask the owner to
+upload to Drive when a quote is needed from one of these):
+
+- Daoism: Ziporyn, Zhuangzi: The Complete Writings (epub); Roth, Original Tao (Nei-yeh);
+  Slingerland, Trying Not to Try; the four Livia Kohn books (already in Drive).
+- Buddhism: Batchelor (After Buddhism; Secular Buddhism; Buddhism without Beliefs; Buddha,
+  Socrates, and Us); Dogen (How to Cook Your Life; Treasury of the True Dharma Eye;
+  Genjokoan: The Way of Everyday Life); TNH, Conze, Sheng Yen x2, Davis (Zen Pathways +
+  Oxford Handbook of Japanese Philosophy), Laumakis, Segall, Tim Desmond (already partly in Drive).
+- Pragmatism: Dewey, Complete Works (2024) + Human Nature and Conduct + Art as Experience;
+  William James, Delphi Complete Works + Varieties + Pragmatism + A Pluralistic Universe;
+  Putnam, Pragmatism: An Open Question.
+- Stoicism / Hellenistic: Delphi Epictetus (Drive); Gateway to the Stoics; Hadot, The Inner
+  Citadel; Cambridge Companion to the Stoics; Annas (Hellenistic Philosophy of Mind;
+  Intelligent Virtue); Seneca: The Basics; Beyond Stoicism.
+- Aristotle / virtue: Complete Works (Revised Oxford Translation); Nicomachean Ethics;
+  Cambridge Companion to Aristotle; Peterson & Seligman, Character Strengths and Virtues;
+  Handbook of Virtue Ethics; Annas & Narvaez, Developing the Virtues.
+- Other: Kant, Spinoza, Nietzsche, Hume, Hegel (complete works); Heraclitus, Fragments; Popper,
+  Objective Knowledge; Bergson, Oeuvres complètes; the owner's own Principles of Genuine
+  Flourishing I-IV and Stories of Genuine Flourishing III.
+
+Known gap (order placed with owner, 2026-10-19): PEIRCE. 65 principles cite him and the library
+has no Peirce volume; web editions are scattered. Recommended: The Essential Peirce vols 1-2
+(Indiana UP). Until it arrives, workers cite Peirce via citable web editions (SEP entries,
+Collected Papers on archive.org) with locators, or route Peirce-heavy items to James/Dewey
+sources where the idea is shared.
+
 Supervisors: when an agent identifies what a specific Drive file contains (which work, which
 translation), record it here so the map builds up over time.
