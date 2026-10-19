@@ -10,6 +10,19 @@
 
 ## Current state (2026-10-19)
 
+- RANDOMIZER CONTROLS: optional Concepts/Theories/Stories/Sayings default unchecked;
+  categories are multi-select with Select All/Deselect All and OR combinations. Search,
+  daily draw and saved-only draw honor the pool. Optional-type membership follows explicit
+  one-hop principle links; all categories also includes unlinked extras. Regression and
+  browser checks: `docs/enrichment/RANDOMIZER-QA.md`.
+- RANDOMIZER SOURCE-FRESHNESS REPAIR: the old default cards used static randData prose even
+  after markdown enrichment. The model now overlays current wiki body/companion sections
+  without editing content files; rich headings/quotes/links and current Plain words render.
+  Nine model tests cover defaults, filtering, source immutability and section preservation.
+- OWNER UI PROPOSAL PENDING: suggested nodes in the graph connection picker should be
+  previewable before selecting a link. Recommended ~1-second hover plus an explicit
+  keyboard/touch Preview button and a scrollable panel that does not alter selections.
+  Feasibility answered; no connection-picker implementation has been made yet.
 - CURRENT SUPERVISOR: `supervisor-193794fd`, resuming the assignment of genuineflourishing32.
   Supervisor takeover was pushed at 12:42 UTC after the predecessor's heartbeat became stale.
   This session has no verified yopmail identity; the role/session label prevents false

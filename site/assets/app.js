@@ -2585,7 +2585,7 @@ let HAY = null;
 function buildHay() {
   HAY = [];
   RBOOKS.forEach((b, bi) => b.e.forEach((e, ei) => {
-    HAY.push([(e.t + ' ' + e.x + ' ' + e.p.join(' ') + ' ' + e.f.join(' ') + ' ' + e.r.join(' ')).toLowerCase(), bi, ei]);
+    HAY.push([((e.w || '') + ' ' + e.t + ' ' + e.x + ' ' + e.p.join(' ') + ' ' + e.f.join(' ') + ' ' + e.r.join(' ')).toLowerCase(), bi, ei]);
   }));
 }
 function runSearch(q) {
