@@ -12,13 +12,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 107** — Trust your own nature
 
-The duck's legs are short: stretching them is grief; the crane's are long — cutting them is misery. Don't lengthen or shorten yourself to fit.
+Chapter 8 of the Zhuangzi makes the point with a duck and a crane:
+
+> "A duck's legs, for instance, are short, but if we try to lengthen them, it occasions pain; and a crane's legs are long, but if we try to cut off a portion of them, it produces grief." (Zhuangzi 8, [Legge](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
+
+The surrounding passage warns against treating natural differences as faults requiring correction ([Zhuangzi 8, Legge](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)). Read as practical advice, it invites scrutiny of the standard behind a demand to change.
 
 (Zhuangzi 8.)
 
-**Plain words** The duck's legs are short — stretching them is grief; the crane's are long — cutting them is misery. Don't lengthen or shorten yourself to fit. Every self-improvement project that's actually self-erasure is a pair of scissors aimed at your own legs.
+**Plain words**
+Before trying to become more like someone else, ask what problem the change would solve. Are you addressing a specific difficulty, or treating the difference itself as a fault? The duck-and-crane image gives you a reason to question demands for conformity. It does not settle every question about which habits or skills to develop.
 
-*For example:* The introvert forcing themselves into a sales career to 'fix' themselves — the legs were fine; the job was a mismatch.
+*For example:*
+Suppose someone urges you to speak more often in meetings simply because another colleague does. Ask which contribution is missing before treating your quieter style as something that needs correcting.
+
+## Sources
+
+- [Zhuangzi, James Legge translation (1891), ETH Zurich METIS edition](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — chapter 8, duck and crane passage quoted verbatim
 
 ## Psychology parallels
 

@@ -20,9 +20,10 @@
   "D005",
   "D012",
   "D071",
-  "D081"
+  "D081",
+  "D107"
  ],
- "in_progress": "D107",
+ "in_progress": null,
  "flagged": {
   "D017": "QC note: inherited scab example kept per protocol; advisor calls it a medical claim needing a source; supervisor to arbitrate",
   "BI012": "QC round 3: list narrowed to principle's own directive + thyroid evidence only; inherited example still flagged for supervisor. Carter quotation corrected to 'in one word', verified against the opened MIT edition (genuineflourishing30). Other owner-requested corrections have not been reverified in this takeover",
@@ -35,9 +36,10 @@
   "PP031": "QC final: Holt-Lunstad quotes now sourced to opened BYU full text; quality-vs-quantity prescription replaced with abstract's own wording",
   "PP011": "QC final: loving-kindness named; 'mechanism well-supported' hedge removed per advisor; owner hedge noted for supervisor",
   "P164": "QC final: invented evidential history removed; Rogers presented as proposed definition",
-  "D071": "reflections comment carries inherited 'frozen-stone' wording not in the opened Legge dialogue (source has stump-of-broken-trunk/branch-of-rotten-tree); reflections are protected so not edited here — supervisor to arbitrate"
+  "D071": "reflections comment carries inherited 'frozen-stone' wording not in the opened Legge dialogue (source has stump-of-broken-trunk/branch-of-rotten-tree); reflections are protected so not edited here — supervisor to arbitrate",
+  "D107": "inherited Nietzsche/Deleuze comparison block in Philosophy parallels (Colebrook 2002 source note, earlier agent) untouched and unverified in this takeover — supervisor to re-check if desired"
  },
  "missing_concepts": [],
- "sources_checked": 6,
- "updated": "2026-10-19T11:48:04+00:00"
+ "sources_checked": 7,
+ "updated": "2026-10-19T11:52:18+00:00"
 }
