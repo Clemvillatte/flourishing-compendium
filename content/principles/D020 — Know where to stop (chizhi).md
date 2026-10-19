@@ -12,13 +12,25 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 20** — Know where to stop (chizhi)
 
-Stop before the overflow: before the extra drink, the extra hour, the extra win. The one who knows when to stop avoids exhaustion and danger.
+Chapter 44 of the Daodejing asks the reader to price fame and wealth against life: keep life and lose those other things, or keep them and lose your life. Its answer is a verse:
 
-(DDJ 9, 32, 44.)
+> "Who is content
+> Needs fear no shame.
+> Who knows to stop
+> Incurs no blame.
+> From danger free
+> Long live shall he." (Daodejing 44, [Legge](https://www.gutenberg.org/ebooks/216))
 
-**Plain words** Everything has a fill line. The extra drink, the extra hour, the extra win — past it, you're paying more than you're getting. Knowing where to stop is a skill, and the people who have it are the ones still standing at the end of the night.
+Chapter 9 supplies the timing: "When the work is done, and one's name is becoming distinguished, to withdraw into obscurity is the way of Heaven." The same chapter gives the picture of the overflow: "It is better to leave a vessel unfilled, than to attempt to carry it when it is full." Chapter 32 makes the same move with names: "When they know to rest in it, they can be free from all risk of failure and error." The compendium applies the verse as a question: what is your fill line, and what does staying past it cost?
 
-*For example:* Leaving the party at 11pm when you're still having fun is the whole art — staying until 2am is what you pay for.
+**Plain words**
+The principle's picture is a fill line, the mark on a cup past which more costs more than it gives. The skill is naming the line before you reach it: the leaving time, the last drink, the last round of the argument. As a practical experiment, choose a stopping point beforehand and check whether you keep to it.
+
+*For example:* Suppose a party still fun at 11pm. As a modern application, set the leaving time before arriving and keep it when the time comes.
+
+## Sources
+
+- [The Tao Teh King, trans. James Legge (Project Gutenberg)](https://www.gutenberg.org/ebooks/216) — ch. 9, 32, 44
 
 ## Stories
 

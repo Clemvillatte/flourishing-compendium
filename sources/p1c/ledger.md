@@ -95,3 +95,16 @@ copied from the opened URL in this session.
   early-warning-signal-detection note in psychology parallels (untouched link sections).
 - Saturation: Petites perceptions and Micro-moments of connection already cite D161; no
   new proposals.
+
+## D020 — Know where to stop (chizhi) (DDJ 9, 32, 44)
+
+- Opened: https://www.gutenberg.org/cache/epub/216/pg216.txt (Legge, ebook #216),
+  chapters 9 (parts 1-2), 32 (part 4) and 44 (part 3).
+- Blockquote: ch. 44.3 verse verbatim, line breaks preserved. Inline quotes: ch. 9
+  (withdrawal-into-obscurity, unfilled vessel) and ch. 32.4 ("know to rest in it").
+- QC: advisor round 1 approved with one tweak (Plain words closer replaced with a
+  practical-experiment sentence); applied. Validated vs pre-item baseline e0d579d.
+- Linked concepts read for saturation: Escalation of commitment, Nothing in excess,
+  The doctrine of the mean all already cite D020; no new proposals.
+- Inherited-not-reverified: Sleesman et al. 2012 escalation claim and the
+  behavioral-addiction stop-rules note in psychology parallels (untouched link sections).
