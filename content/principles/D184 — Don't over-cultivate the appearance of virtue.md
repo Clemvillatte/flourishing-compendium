@@ -12,13 +12,15 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 184** — Don't over-cultivate the appearance of virtue
 
-When the great Dao is lost, benevolence and righteousness appear: trumpeted virtue is the symptom of lost alignment. Be good quietly or not at all.
+Chapters 18 and 38 of the Daodejing form the source pair for this principle, and both make a diagnostic rather than a moral claim. Chapter 18: "When the Great Dao was abandoned, it was then that benevolence and righteousness sprang up... When the six relations no longer lived at peace, it was then that we heard of filial sons" ([Daodejing 18, James Legge translation, Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt)). The claim is not that benevolence is bad; it is that the appearance of benevolence is what you get when the underlying alignment has already failed. Filial sons are news precisely because harmony is gone.
 
-(DDJ 18, 38.)
+Chapter 38 completes the diagnosis with the hierarchy: "Superior virtue is not virtuous, and therefore has virtue. Inferior virtue does not let go of virtue, and therefore is without virtue" ([Daodejing 38, James Legge translation, Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt)). The person who is holding on to virtue, performing it, announcing it, is the one who has already lost the substance of it. The mechanism is not hypocrisy so much as accounting: the moment the good deed needs an audience, the audience has become the product.
 
-**Plain words** Trumpeted virtue is the symptom of lost alignment. Announced goodness has already started accounting, and accounting isn't goodness. Be good quietly or not at all.
+> "When the Great Dao was abandoned, it was then that benevolence and righteousness sprang up." (Daodejing 18, James Legge translation, [Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 
-*For example:* The LinkedIn post about the charity run — the good deed needed an audience, which was the actual product.
+**Plain words** The LinkedIn post about the charity run is not a bad deed; it is a deed that needed an audience, and the audience was the actual product. This is the distinction the Daodejing is drawing. Trumpeted virtue is the symptom of lost alignment, not a stronger version of virtue. Be good quietly or not at all — not because the quiet version is more virtuous, but because the announced version has already started accounting, and accounting is not the same as goodness.
+
+*For example:* Two colleagues both volunteer the same amount of time. One posts about it weekly; the good deeds are now a content stream, and the team has learned to discount the mention. The other never mentions it; the reputation follows the behaviour. Same contribution; only one of them is doing the thing the post claims to be about.
 
 ## Psychology parallels
 
