@@ -108,6 +108,145 @@
     return ov;
   }
 
+  /* Read-only previews shared by both connection pickers. Nothing here commits a link. */
+  var connectionPreviewSerial = 0;
+  function connectionPreviews(ov, list, entryAt) {
+    var id = 'fce-node-preview-' + (++connectionPreviewSerial);
+    var panel = document.createElement('section');
+    panel.id = id;
+    panel.className = 'fce-node-preview';
+    panel.hidden = true;
+    panel.setAttribute('role', 'region');
+    panel.setAttribute('aria-label', 'Entry preview');
+    panel.innerHTML = '<div class="fce-node-preview-head">' +
+      '<div class="fce-node-preview-kind"></div><h2></h2>' +
+      '<button type="button" class="fce-node-preview-close">Back to connections</button></div>' +
+      '<div class="fce-node-preview-body art" tabindex="0" aria-label="Preview content"></div>';
+    ov.appendChild(panel);
+    var body = panel.querySelector('.fce-node-preview-body');
+    var back = panel.querySelector('.fce-node-preview-close');
+    var openTimer, closeTimer, anchor, currentId, pinned = false, disposed = false;
+    function clearTimers() { clearTimeout(openTimer); clearTimeout(closeTimer); }
+    function position() {
+      if (panel.hidden || !anchor || !anchor.isConnected) return;
+      var vv = window.visualViewport;
+      var w = vv ? vv.width : window.innerWidth, h = vv ? vv.height : window.innerHeight;
+      var x0 = vv ? vv.offsetLeft : 0, y0 = vv ? vv.offsetTop : 0;
+      var r = anchor.getBoundingClientRect();
+      var right = x0 + w - r.right - 24, left = r.left - x0 - 24;
+      var width = Math.min(420, w - 24), x, overlap = false;
+      if (right >= 300) { width = Math.min(width, right); x = r.right + 12; }
+      else if (left >= 300) { width = Math.min(width, left); x = r.left - width - 12; }
+      else { x = x0 + (w - width) / 2; overlap = true; }
+      panel.style.width = width + 'px';
+      panel.style.maxHeight = Math.max(100, Math.min(560, h - 24)) + 'px';
+      panel.style.left = x + 'px';
+      var height = panel.getBoundingClientRect().height;
+      panel.style.top = Math.max(y0 + 12, Math.min(r.top, y0 + h - height - 12)) + 'px';
+      panel.classList.toggle('fce-node-preview-overlap', overlap);
+    }
+    function close(restoreFocus) {
+      clearTimers();
+      panel.hidden = true;
+      list.querySelectorAll('.fce-preview-trigger').forEach(function (b) { b.setAttribute('aria-expanded', 'false'); });
+      if (restoreFocus && anchor && anchor.isConnected) anchor.querySelector('.fce-preview-trigger').focus();
+      pinned = false;
+      currentId = null;
+    }
+    function render(entry) {
+      currentId = entry.id;
+      panel.querySelector('h2').textContent = entry.title || entry.id;
+      panel.querySelector('.fce-node-preview-kind').textContent = entry.type || 'Entry';
+      var text = String(entry.content || '');
+      if (/^(principle|kernel)$/.test(entry.type) && window.fcReadingContent) text = window.fcReadingContent(text);
+      if (window.fcWiki && window.fcWiki.renderMarkdown) body.innerHTML = window.fcWiki.renderMarkdown(text);
+      else body.textContent = text;
+      if (!text.trim()) body.textContent = 'This entry has no body text yet.';
+      body.scrollTop = 0;
+    }
+    function show(entry, row, explicit) {
+      if (disposed || !ov.isConnected || !row.isConnected || !entry) return;
+      clearTimers();
+      anchor = row;
+      pinned = !!explicit;
+      if (currentId !== entry.id || panel.hidden) render(entry);
+      panel.hidden = false;
+      list.querySelectorAll('.fce-preview-trigger').forEach(function (b) {
+        b.setAttribute('aria-expanded', String(b === row.querySelector('.fce-preview-trigger')));
+      });
+      position();
+      if (explicit) back.focus({ preventScroll: true });
+    }
+    function scheduleClose() {
+      clearTimeout(openTimer);
+      if (!pinned) closeTimer = setTimeout(function () { close(false); }, 250);
+    }
+    function bindRows() {
+      close(false);
+      list.querySelectorAll('.fce-conn-item').forEach(function (row) {
+        var button = row.querySelector('.fce-preview-trigger');
+        if (!button) return;
+        button.setAttribute('aria-controls', id);
+        button.setAttribute('aria-expanded', 'false');
+        button.addEventListener('mousedown', function (ev) { ev.stopPropagation(); });
+        button.addEventListener('keydown', function (ev) { ev.stopPropagation(); });
+        button.addEventListener('click', function (ev) {
+          ev.preventDefault(); ev.stopPropagation();
+          var entry = entryAt(+row.dataset.i);
+          if (!panel.hidden && anchor === row && pinned) close(true);
+          else show(entry, row, true);
+        });
+        row.addEventListener('pointerenter', function (ev) {
+          if (ev.pointerType !== 'mouse') return;
+          clearTimers();
+          openTimer = setTimeout(function () { show(entryAt(+row.dataset.i), row, false); }, 1000);
+        });
+        row.addEventListener('pointerleave', scheduleClose);
+      });
+    }
+    panel.addEventListener('pointerenter', function () { clearTimers(); });
+    panel.addEventListener('pointerleave', scheduleClose);
+    back.addEventListener('click', function () { close(true); });
+    panel.addEventListener('click', function (ev) {
+      var link = ev.target.closest('a.wl[data-file]');
+      if (!link) return;
+      ev.preventDefault(); ev.stopPropagation();
+      var maps = suggestionMaps(), target = maps.byId.get(link.dataset.file) || maps.byFile.get(link.dataset.file);
+      if (target) { render(target); position(); }
+    });
+    panel.addEventListener('keydown', function (ev) {
+      ev.stopPropagation();
+      if (ev.key === 'Escape') { ev.preventDefault(); close(true); }
+      else if (ev.key === 'Enter' && ev.target.matches('a.wl[data-file]')) { ev.preventDefault(); ev.target.click(); }
+      else if (ev.key === 'Tab' && panel.classList.contains('fce-node-preview-overlap')) {
+        var focusable = Array.from(panel.querySelectorAll('button, a[href], [tabindex="0"]'));
+        var first = focusable[0], last = focusable[focusable.length - 1];
+        if (ev.shiftKey && document.activeElement === first) { ev.preventDefault(); last.focus(); }
+        else if (!ev.shiftKey && document.activeElement === last) { ev.preventDefault(); first.focus(); }
+      }
+    });
+    // Escape dismisses the preview first, not the picker behind it.
+    ov.addEventListener('keydown', function (ev) {
+      if (ev.key === 'Escape' && !panel.hidden) {
+        ev.preventDefault(); ev.stopImmediatePropagation(); close(true);
+      }
+    }, true);
+    var listObserver = new MutationObserver(bindRows);
+    listObserver.observe(list, { childList: true });
+    var lifecycle = new MutationObserver(function () {
+      if (ov.isConnected) return;
+      disposed = true; clearTimers();
+      window.removeEventListener('resize', position);
+      if (window.visualViewport) window.visualViewport.removeEventListener('resize', position);
+      listObserver.disconnect(); lifecycle.disconnect();
+    });
+    lifecycle.observe(document.body, { childList: true });
+    window.addEventListener('resize', position);
+    if (window.visualViewport) window.visualViewport.addEventListener('resize', position);
+    list.addEventListener('scroll', function () { if (!pinned) close(false); else position(); });
+    return { close: close };
+  }
+
   /* ═══════════════ THE EDITOR ═══════════════ */
   var ac = { items: [], sel: 0, span: null, start: -1 };
 
@@ -277,7 +416,7 @@
       '<input class="fce-conn-q" type="text" placeholder="Connect to… type any part of a name (e.g. examined)">' +
       '<div class="fce-conn-list"></div>' +
       '<button class="fce-conn-batch" type="button" hidden></button>' +
-      '<div class="fce-conn-hint">↑ ↓ to choose · Space to check · Enter to connect · Esc to close</div>' +
+      '<div class="fce-conn-hint">Hover a title for 1s or use Preview · ↑ ↓ to choose · Space to check · Enter to connect · Esc to close</div>' +
       '</div>' +
       '</div>' +
       '</div>' +
@@ -430,6 +569,9 @@
     var connQ = ov.querySelector('.fce-conn-q');
     var connList = ov.querySelector('.fce-conn-list');
     var conn = { items: [], sel: 0 };
+    var connPreview = connectionPreviews(ov, connList, function (i) {
+      var item = conn.items[i]; return item && (item.e || item);
+    });
 
     function suggestConnections() {
       var linked = new Set([entry.id]);
@@ -466,14 +608,15 @@
         return '<div class="fce-ac-item fce-conn-item' + (idx === 0 ? ' sel' : '') + '" data-i="' + idx + '">' +
           '<span class="fce-conn-chk' + (checkedIds.has(e2.id) ? ' on' : '') + '" data-chk="' + escHtml(e2.id) + '">✓</span>' +
           '<span class="fce-ac-t">' + escHtml(e2.title || e2.id) + '</span>' +
-          '<span class="fce-ac-k">' + escHtml(e2.type) + (it.why ? ' · ' + escHtml(it.why) : '') + '</span></div>';
+          '<span class="fce-ac-k">' + escHtml(e2.type) + (it.why ? ' · ' + escHtml(it.why) : '') + '</span>' +
+          '<button type="button" class="fce-preview-trigger" aria-label="Preview ' + escHtml(e2.title || e2.id) + '">Preview</button></div>';
       }).join('');
       connList.querySelectorAll('.fce-conn-chk').forEach(function (el) {
         el.addEventListener('mousedown', function (ev) { ev.preventDefault(); ev.stopPropagation(); toggleCheck(el.dataset.chk, el); });
       });
       connList.querySelectorAll('.fce-conn-item').forEach(function (el) {
         el.addEventListener('mousedown', function (ev) {
-          if (ev.target.classList.contains('fce-conn-chk')) return;
+          if (ev.target.closest('.fce-conn-chk, .fce-preview-trigger')) return;
           ev.preventDefault(); chooseConn(+el.dataset.i);
         });
       });
@@ -497,7 +640,7 @@
       renderConn(suggestConnections(), 'Suggested connections', 'No suggestions yet — write a little more, or type a name to search.');
       connQ.focus();
     }
-    function closeConnect() { connEl.hidden = true; connEl.style.display = 'none'; conn.items = []; ta.focus(); }
+    function closeConnect() { connPreview.close(false); connEl.hidden = true; connEl.style.display = 'none'; conn.items = []; ta.focus(); }
     connQ.addEventListener('input', function () {
       if (!connQ.value.trim()) {
         renderConn(suggestConnections(), 'Suggested connections', 'No suggestions yet — write a little more, or type a name to search.');
@@ -969,11 +1112,14 @@
       '<input class="fce-conn-q" type="text" placeholder="Connect to… type any part of a name (e.g. examined)">' +
       '<div class="fce-conn-list"></div>' +
       '<button class="fce-conn-batch" type="button" hidden></button>' +
-      '<div class="fce-conn-hint">↑ ↓ to choose · Space to check · Enter to connect · Esc to close</div>' +
+      '<div class="fce-conn-hint">Hover a title for 1s or use Preview · ↑ ↓ to choose · Space to check · Enter to connect · Esc to close</div>' +
       '</div></div>';
     var q = ov.querySelector('.fce-conn-q');
     var list = ov.querySelector('.fce-conn-list');
     var conn = { items: [], sel: 0 };
+    connectionPreviews(ov, list, function (i) {
+      var item = conn.items[i]; return item && (item.e || item);
+    });
     var checkedIds = new Set();
     var batchBtn = ov.querySelector('.fce-conn-batch');
     function updateBatch() {
@@ -1007,14 +1153,15 @@
         return '<div class="fce-ac-item fce-conn-item' + (idx === 0 ? ' sel' : '') + '" data-i="' + idx + '">' +
           '<span class="fce-conn-chk' + (checkedIds.has(e2.id) ? ' on' : '') + '" data-chk="' + escHtml(e2.id) + '">✓</span>' +
           '<span class="fce-ac-t">' + escHtml(e2.title || e2.id) + '</span>' +
-          '<span class="fce-ac-k">' + escHtml(e2.type) + (it.why ? ' · ' + escHtml(it.why) : '') + '</span></div>';
+          '<span class="fce-ac-k">' + escHtml(e2.type) + (it.why ? ' · ' + escHtml(it.why) : '') + '</span>' +
+          '<button type="button" class="fce-preview-trigger" aria-label="Preview ' + escHtml(e2.title || e2.id) + '">Preview</button></div>';
       }).join('');
       list.querySelectorAll('.fce-conn-chk').forEach(function (el) {
         el.addEventListener('mousedown', function (ev) { ev.preventDefault(); ev.stopPropagation(); toggleCheck(el.dataset.chk, el); });
       });
       list.querySelectorAll('.fce-conn-item').forEach(function (el) {
         el.addEventListener('mousedown', function (ev) {
-          if (ev.target.classList.contains('fce-conn-chk')) return;
+          if (ev.target.closest('.fce-conn-chk, .fce-preview-trigger')) return;
           ev.preventDefault(); choose(+el.dataset.i);
         });
       });
