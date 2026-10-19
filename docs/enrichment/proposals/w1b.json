@@ -8,13 +8,14 @@
   "Ren",
   "Right concentration",
   "Right mindfulness",
-  "Temperance"
+  "Temperance",
+  "Beginner's mind"
  ],
  "flagged": {
   "Perspective-getting": "seed cites 'Epley et al., 2007' for 'asking beats perspective-taking'; no such perspective-getting paper could be found (canonical: Epley et al. 2004 anchoring; Eyal, Steffel & Epley 2018 JPSP 114(4):547-571 'Perspective mistaking'). Original line kept, prose cites the verified papers."
  },
  "missing_concepts": [],
- "sources_checked": 23,
+ "sources_checked": 25,
  "inline": [],
  "reciprocal": [
   {
@@ -336,6 +337,46 @@
    "target": "content/concepts/Wu wei.md",
    "concept": "Temperance",
    "why": "effortless ordering, the Daoist cousin of concord"
+  },
+  {
+   "target": "content/concepts/Right mindfulness.md",
+   "concept": "Beginner's mind",
+   "why": "the attentional posture that keeps watch without prejudging"
+  },
+  {
+   "target": "content/concepts/Delight in the ordinary.md",
+   "concept": "Beginner's mind",
+   "why": "freshness is what makes the ordinary visible"
+  },
+  {
+   "target": "content/concepts/Docta ignorantia.md",
+   "concept": "Beginner's mind",
+   "why": "learned ignorance, the Christian-mystic cousin"
+  },
+  {
+   "target": "content/concepts/To the things themselves.md",
+   "concept": "Beginner's mind",
+   "why": "phenomenology's return to what is given"
+  },
+  {
+   "target": "content/concepts/Curse of knowledge.md",
+   "concept": "Beginner's mind",
+   "why": "the expert's blindness, shoshin's negative image"
+  },
+  {
+   "target": "content/concepts/Curiosity.md",
+   "concept": "Beginner's mind",
+   "why": "the beginner's motive energy"
+  },
+  {
+   "target": "content/concepts/Openness.md",
+   "concept": "Beginner's mind",
+   "why": "the trait whose practice shoshin trains"
+  },
+  {
+   "target": "content/concepts/Socratic ignorance.md",
+   "concept": "Beginner's mind",
+   "why": "knowing that one does not know"
   }
  ],
  "notes": "continues after lead applied the first proposals file (moved to applied/)"
