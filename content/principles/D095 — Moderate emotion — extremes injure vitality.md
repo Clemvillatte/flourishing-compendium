@@ -12,13 +12,22 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 95** — Moderate emotion: extremes injure vitality
 
-Rage ruins the inner organs, panic scatters the qi, grief corrodes essence. Feel fully, but don't feed fires that burn your own house.
+The oldest Chinese manual on vitality, the Neiye, treats the mind as something that leaks, and its leak has a list of causes:
 
-(Neiye; DDJ 55.)
+> "It is lost inevitably because of sorrow, happiness, joy, anger, desire, and profit-seeking. If you are able to cast off sorrow, happiness, joy, anger, desire and profit-seeking, your mind will just revert to equanimity." (Neiye III, Harold Roth's translation, [Original Tao, excerpted](https://thekongdanfoundation.com/nei-yeh-inward-training-and-the-unity-of-spirit/))
 
-**Plain words** Rage ruins the organs, panic scatters the energy, grief corrodes essence. Feel fully — but don't feed fires that burn your own house. Emotions are weather; making them your diet is what does the damage.
+Equanimity there is a resting state the mind returns to once the disturbances are subtracted, and the point is physiological. The Daodejing makes it with an infant: "All day long it will cry without its throat becoming hoarse;--showing the harmony (in its constitution)" ([DDJ 55, Legge](https://www.sacred-texts.com/tao/taote.htm)). The infant can afford the full expression because it holds nothing; the adult opposite is the one whose "mind makes the vital breath to burn," and whose strength is false ([ibid.](https://www.sacred-texts.com/tao/taote.htm)). What modern work adds is the mechanism of moderation, and it is articulation rather than clamping down. In Lieberman's imaging study, naming the emotion took the edge off its signature: "affect labeling, relative to other forms of encoding, diminished the response of the amygdala and other limbic regions to negative emotional images" ([Lieberman et al. 2007](https://pubmed.ncbi.nlm.nih.gov/17576282/)). Feeling fully without feeding it looks like precise naming; the compendium's kernel is [[Affect labeling]].
+
+**Plain words**
+Feelings are built to pass through. They injure when you keep them on staff: replaying, rehearsing, feeding the argument long after the other person went home. The Neiye's list of what costs vitality is mostly ordinary feelings kept past their welcome, sorrow, joy, anger, wanting, gaining. The infant cries all day and never goes hoarse because it holds nothing. Moderation is letting the feeling make its visit without handing it the house.
 
 *For example:* Replaying the argument for a week after it ended — the other person got one evening of your rage; you got seven.
+
+## Sources
+
+- [Neiye III (Inward Training), Harold Roth's translation, Original Tao (1999), excerpted at the Kongdan Foundation](https://thekongdanfoundation.com/nei-yeh-inward-training-and-the-unity-of-spirit/) — verbatim quote on the six disturbances
+- [Laozi, Dao De Jing 55 (James Legge, 1891), Sacred Texts Archive](https://www.sacred-texts.com/tao/taote.htm) — infant and harmony passage
+- [Lieberman et al., "Putting Feelings Into Words: Affect Labeling Disrupts Amygdala Activity in Response to Affective Stimuli," Psychological Science 18 (2007) (PubMed)](https://pubmed.ncbi.nlm.nih.gov/17576282/) — affect labeling and amygdala response
 
 ## Practice kernels
 
