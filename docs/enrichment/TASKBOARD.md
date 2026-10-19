@@ -115,7 +115,7 @@ principles queue is untouched.
 ## Supervisor notes
 
 - 2026-10-19 (supervisor-193794fd, NEW NARROW REPAIRS): independent source sample at
-  fb661ad6 rejects one psychology-parallel claim each in D003 (p1h) and B027 (p1b).
+  fb661ad6 rejects one psychology-parallel claim each in D003 (p1b) and B027 (p1h).
   D003: replace unverified plural “meta-analyses” with the identified 2026 qualitative
   systematic review and qualified flow association. B027: Baer 2006's opened abstract
   supports symptom prediction, not the unqualified well-being/emotion-regulation claim.

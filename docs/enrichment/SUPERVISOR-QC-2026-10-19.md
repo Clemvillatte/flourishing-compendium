@@ -5,7 +5,7 @@ Independent advisor inspected both entries without edits. Supervisor separately 
 two empirical URLs below. Neither entry is accepted until its narrow correction lands.
 Live-band ownership is respected; no worker content or state was changed by the supervisor.
 
-## D003: p1h, psychology parallel requires correction
+## D003: p1b, psychology parallel requires correction
 
 Current claim: “meta-analyses link flow to down-regulation of default-mode-network regions
 and reduced self-referential processing.”
@@ -26,7 +26,7 @@ health. The advisor verified the Legge quotations and chapter 63 paraphrase agai
 [cited Legge text](https://www.sacred-texts.com/tao/taote.htm); the supervisor did not reopen
 that primary text during this sample. Other named parallels are not blanket-certified.
 
-## B027: p1b, psychology parallel requires correction
+## B027: p1h, psychology parallel requires correction
 
 Current claim: “predicts well-being and emotion regulation (Baer et al., 2006).”
 
@@ -48,8 +48,8 @@ is labelled as an application rather than a documented clinical outcome.
 
 ## Required owner actions
 
-- p1h owner: reopen D003, make the narrow parallel/source correction, validate against
+- p1b owner: reopen D003, make the narrow parallel/source correction, validate against
   its pre-enrichment baseline, save, and record the correction in its source ledger.
-- p1b owner: do the same for B027. Keep the already sound primary-text exposition.
+- p1h owner: do the same for B027. Keep the already sound primary-text exposition.
 - Supervisor: inspect the committed corrections before clearing either finding.
   Structural validation success alone is not evidence acceptance.

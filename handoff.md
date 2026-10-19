@@ -28,7 +28,7 @@
   browser-storage features require the normal site rather than its restricted preview frame.
   All 54 content deltas since c742c98 pass structural validation. Independent source sample
   D003/B027 found narrow psychology-parallel overstatements; repairs routed to live
-  p1h/p1b. Exact corrections and access limits: SUPERVISOR-QC-2026-10-19.md. Neither
+  p1b (D003) and p1h (B027). Exact corrections and access limits: SUPERVISOR-QC-2026-10-19.md. Neither
   finding is cleared yet; advisor-approved primary quotations need no body rewrite.
 - NAMESPACE DECISION: Character as habits should merge into Habit as an attributed James
   reading, not remain a second independently named concept. Migration is NOT yet performed;
