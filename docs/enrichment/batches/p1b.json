@@ -43,21 +43,26 @@
   "AF036",
   "B003",
   "AT070",
+  "AF009",
   "E013",
-  "P038",
+  "A065",
   "SE066",
-  "A065"
+  "P038"
  ],
- "in_progress": "AF009",
+ "in_progress": null,
  "flagged": {
   "E012": "Reopened for QC: Implement independent advisor attribution and locator corrections using previously opened Walsh passages",
   "D003": "Reopened for QC: QC correction: item-25 advisor fixes (quote capitalization/punctuation, scoped analogy, plain words question, imagined-action example)",
   "AF036": "Reopened for QC: QC correction: item-25 advisor fixes (full Veale quote continuation, attribution wording)",
   "B003": "Reopened for QC: QC correction: item-25 advisor fixes (drop unverified Milindapanha paraphrase, scope process claim, fix example)",
-  "AT070": "Reopened for QC: QC correction: item-25 advisor fixes (trainability grounding, soften 'always')"
+  "AT070": "Reopened for QC: QC correction: item-25 advisor fixes (trainability grounding, soften 'always')",
+  "E013": "Reopened for QC: QC correction: quote ends mid-sentence; invented quotation in example",
+  "A065": "Reopened for QC: QC correction: wine quote drops source parenthesis",
+  "SE066": "Reopened for QC: QC correction: outcomes not established by Vygotsky source",
+  "P038": "Reopened for QC: QC correction: inference and mechanical claim beyond James source"
  },
  "missing_concepts": [],
  "sources_checked": 28,
- "updated": "2026-10-19T13:13:37+00:00",
+ "updated": "2026-10-19T13:17:15+00:00",
  "band_done": false
 }
