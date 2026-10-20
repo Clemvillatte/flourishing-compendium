@@ -12,11 +12,23 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 33** — Learn self-distancing: the ability to step back from your own experience
 
-Viewing your own emotional experience from an observer's perspective (third-person, or from a distance) reduces emotional reactivity and improves regulation. This is distinct from dissociation; it is a deliberate, adaptive shift in perspective.
+The studies asked whether the language people use to refer to the self during introspection changes how they think, feel, and behave under social stress ([Kross et al., 2014](https://pubmed.ncbi.nlm.nih.gov/24467424/)). In proof-of-principle studies, "using non-first-person pronouns and one's own name (rather than first-person pronouns) during introspection enhances self-distancing" ([Kross et al., 2014](https://pubmed.ncbi.nlm.nih.gov/24467424/)). In studies of first impressions and public speaking, "the non-first-person group performed better according to objective raters" and "displayed less distress" ([Kross et al., 2014](https://pubmed.ncbi.nlm.nih.gov/24467424/)). The paper's summary: "small shifts in the language people use to refer to the self during introspection consequentially influence their ability to regulate their thoughts, feelings, and behavior under social stress" ([Kross et al., 2014](https://pubmed.ncbi.nlm.nih.gov/24467424/)). The exercise below tries the pronoun shift.
 
-**Plain words** Self-distancing: viewing your own emotional experience from an observer's perspective — third-person, or from a distance — reduces reactivity and improves regulation. Not dissociation; perspective. "What's happening to her?" is a calmer question than "what's happening to me?"
+> They demonstrated that using non-first-person pronouns and one's own name (rather than first-person pronouns) during introspection enhances self-distancing.
+>
+> Kross, Bruehlman-Senecal, Park, Burson, Dougherty, Shablack, Bremner, Moser and Ayduk (2014), "Self-talk as a regulatory mechanism: how you do it matters," Journal of Personality and Social Psychology 106(2), 304-324, [PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/24467424/).
 
-*For example:* The person in the spiral who switches to the third person — "she's having the fear response before reviews, as she does" — and the fear loses about a third of its grip. The camera pulls back; the scene gets smaller and more legible.
+> Together, these findings demonstrate that small shifts in the language people use to refer to the self during introspection consequentially influence their ability to regulate their thoughts, feelings, and behavior under social stress, even for vulnerable individuals.
+>
+> Kross et al. (2014), same paper, [PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/24467424/).
+
+(Kross et al., 2014, JPSP 106(2): 304-324.)
+
+### Plain words
+
+The studies found that referring to yourself by name or "you" instead of "I" when reflecting increased self-distancing; the groups who did it performed better and felt less distress in the speech and impression studies. For an exercise, describe a current worry once in the first person, then again using your own name, and note any difference between the two descriptions.
+
+For example: the sentence "I'm dreading the meeting" rewritten as "Sarah is dreading the meeting"; the exercise is writing both sentences and noting any difference. (An invented illustration.)
 ## Psychology parallels
 
 - **Self-distancing reduces rumination and emotional reactivity**, viewing experiences from a third-person or distanced perspective reduces negative affect and rumination (Kross & Ayduk, 2011)
