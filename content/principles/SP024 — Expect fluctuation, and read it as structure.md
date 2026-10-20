@@ -16,7 +16,7 @@ In the note to Part III, Proposition 17, Spinoza names the condition: a disposit
 
 > "Hence we can easily conceive, that one and the same object may be the cause of many and conflicting emotions." (Ethics III, Prop. XVII, note, Elwes tr., [Gutenberg #3800](https://www.gutenberg.org/ebooks/3800))
 
-**Plain words** You can feel drawn toward something and recoil from it at the same time. For the exercise here, write down what you welcome and what you dread about one decision.
+**Plain words** Spinoza allows that one and the same object can cause conflicting emotions in you ([Ethics III, Prop. XVII, note](https://www.gutenberg.org/ebooks/3800)). Pick the decision that has you going back and forth, then finish two sentences about it: "what I want from this is..." and "what I am trying to avoid is...". Both sentences describe the same choice.
 
 **For example (imagined):** Someone wants a promotion and dreads it. Instead of reading each mood as the final answer, they write down what they would welcome in the new role and what they dread about it, and the conflict becomes something they can look at.
 ## Psychology parallels

@@ -69,3 +69,19 @@ Items: SP015, SP023, SP024, SP041 (2026-10-21).
   the state machine's `finish` command is the authorized writer.
 - Baseline validation vs fc8c8bb6b: 4 checked, 0 failed; content, ledger and
   proposal diffs inspected. Round 2 submission pending.
+- Round 2 (advisor): SP015 scoped PASS; SP023/SP024/SP041 FAIL — the body
+  application and the plain words repeated essentially the same exercise
+  wording (the no-replicates requirement), plus SP023's body near-duplicated
+  its blockquote, SP024's plain-words first sentence lacked an immediate
+  citation, SP041's citation did not immediately follow its first body
+  sentence, and two ledger records still carried stale XXVI references or
+  the truncated quotation. Full content/ledger/proposal diffs against
+  fc8c8bb6b were inspected this round (the round-1 record's --stat check
+  overstated what had been inspected; corrected here).
+- Round 2 repairs: plain words re-derived as concrete distinct exercises in
+  all three items (two-column know/assume list; two-sentence want/avoid
+  completion; nobody-watching question); SP023's near-duplicate body sentence
+  removed; citations placed immediately after their sentences; SP023/SP024
+  ledger records corrected (XXVIII references; complete blockquote entry);
+  SP041's inherited "most dangerous" title flagged for supervisor disposition.
+  Baseline validation re-run: 4 checked, 0 failed. Round 3 submission pending.

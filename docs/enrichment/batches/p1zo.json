@@ -61,12 +61,12 @@
   "SP009": "Reopened for QC: QC: plain words/example scope repairs",
   "SP011": "Reopened for QC: QC: prose/blockquote duplication, measuring-claim removal",
   "SP015": "Reopened for QC: QC: opening duplication, plain-words prediction claim, example diagnosis, reciprocal-record overreach",
-  "SP023": "Reopened for QC: QC: locator correction (XXVIII Explanation), humility misreading, effect-claim application, three-part example, reciprocal-record overreach",
-  "SP024": "Reopened for QC: QC: blockquote truncation, same-object slide to general mood oscillation, redundant body sentence",
-  "SP041": "Reopened for QC: QC: unsupported historical attribution, more-absorbed vs most-dangerous conflation, effect-claim application"
+  "SP023": "Reopened for QC: QC: body/plain-words exercise duplication; body sentence near-duplicates blockquote; ledger XXVI references",
+  "SP024": "Reopened for QC: QC: body/plain-words exercise duplication; plain-words first sentence citation",
+  "SP041": "inherited title says 'most dangerous'; the TIE excerpt supports only 'still more absorbed' — supervisor disposition needed on whether workers may change titles"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T13:06:38+00:00",
+ "updated": "2026-10-20T13:09:52+00:00",
  "band_done": false
 }
