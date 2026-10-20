@@ -330,3 +330,19 @@
   opened VRE). Seed statement + locator removed (precedent); 'Death,
   briefly consulted, was an excellent secretary' aphorism dropped; Plain
   words re-derived. Validator ok before done.
+
+### P108 — Learn from where the learner is (2026-10-20, worker-p1o-6ae3d782)
+- Opened: Dewey, The Child and the Curriculum (1902), Gutenberg #29259,
+  downloaded and grepped locally. Quotes verbatim: two-points-define-a-
+  line; 'Abandon the notion of subject-matter...'; continuous
+  reconstruction sentence; the map/explorer passages ('The map is not a
+  substitute for a personal experience. The map does not take the place of
+  an actual journey.').
+- Seed statement + locator removed (precedent; Democracy and Education not
+  opened - its parallel attribution reduced to bare wikilink). 'Nobody
+  ever learned anything from chapter one that they didn't already want'
+  aphorism dropped; Plain words re-derived; For example kept on the seed's
+  guitar-teacher scenario without the 'three months in you know scales
+  anyway' prediction - the scales now framed as Dewey's reconstruction.
+  Vygotsky 1978 tail reduced to bare wikilink (unopened). Validator ok
+  before done.

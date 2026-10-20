@@ -12,22 +12,34 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 108** — Learn from where the learner is
 
-Teaching (including self-teaching) begins with the learner's present experience, interests, and stage: not from the subject's logical order. Sequence from the living present outward.
+Dewey's The Child and the Curriculum states the principle as a relation between two points: "Just as two points define a straight line, so the present standpoint of the child and the facts and truths of studies define instruction." Instruction is "continuous reconstruction, moving from the child's present experience out into that represented by the organized bodies of truth that we call studies" ([The Child and the Curriculum, 1902](https://www.gutenberg.org/ebooks/29259)).
 
-(Dewey, Democracy and Education, 1916; The Child and the Curriculum, 1902.)
+> Abandon the notion of subject-matter as something fixed and ready-made in itself, outside the child's experience; cease thinking of the child's experience as also something hard and fast; see it as something fluent, embryonic, vital; and we realize that the child and the curriculum are simply two limits which define a single process.
+>
+> (Dewey, The Child and the Curriculum, 1902)
 
-**Plain words** Teaching — including self-teaching — begins with the learner's present experience, interests, and stage, not from the subject's logical order. Sequence from the living present outward. Nobody ever learned anything from chapter one that they didn't already want.
+His explorer comparison makes the mistake plain: the map is drawn after the territory is explored, and "the map is not a substitute for a personal experience. The map does not take the place of an actual journey." The logically formulated material of a study is worth having; it is the wrong place to begin.
 
-*For example:* The guitar teacher who starts with the song you love instead of scales — three months in, you know scales anyway, because the song demanded them. The want came first; the order followed.
+The compendium's application is the guitar teacher's: the song the learner loves is a point on the line, and the scales arrive as what the song demands. The order follows the want, which is the difference between a map followed and a trail walked.
+
+**Plain words**
+A subject laid out in its own logical order is a map of territory somebody else already explored. The learner is standing somewhere specific, holding a question, and the teaching that lands starts at that spot and walks toward the subject. Before teaching anything, find out what the learner already does and wants, and let that set the first step. The compendium's exercise: name the learner (yourself included), and write the question they are actually holding today.
+
+*For example:*
+Imagine the guitar teacher who starts with the song you love instead of scales. The scales are not skipped; they arrive as what the song demands, and the learner meets them already wanting them.
+
+## Sources
+
+- [The Child and the Curriculum (Dewey, 1902), Project Gutenberg](https://www.gutenberg.org/ebooks/29259)
 
 ## Psychology parallels
 
-- **[[The zone of proximal development|The zone of proximal development]]**, learning happens just beyond current ability (Vygotsky, 1978)
+- **[[The zone of proximal development|The zone of proximal development]]**
 
 ## Philosophy parallels
 
 - **The child and the curriculum** (Dewey, The Child and the Curriculum)
-- **[[Interest as motive|Interest as motive]]** (Dewey, Democracy and Education)
+- **[[Interest as motive|Interest as motive]]**
 
 <!-- fc: reflections
 Where are you currently teaching — yourself or someone else — from the subject rather than from where the learner actually is? What's the learner's position?
