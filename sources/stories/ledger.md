@@ -375,10 +375,33 @@ previously pushed only by ad-hoc git add) — KEPT, verified on origin/main.
   confirmed (Democracy's "until" is that magazine's rendering).
 - **Ownership check (post-linking)**: P134, P069, P038, P183, P185, P188
   checked against all live band manifests (p1zq–p1zx) — none owned.
-- **Primary-library consultation (recorded per user's standing
-  instruction)**: docs/PRIMARY-SOURCES.md consulted before this batch.
+- **Primary-library consultation (timing correction)**: docs/PRIMARY-SOURCES.md
+  was consulted during QC round 1, AFTER the research and drafting for this
+  batch — the user's before-research ordering was missed for this batch and
+  cannot be satisfied retroactively; recorded here as an honest admission.
+  Corrective action: the next batch consults the catalogue before research
+  begins.
   Owner's library holds William James (Delphi Complete Works, Varieties,
   Pragmatism, A Pluralistic Universe), Dewey Complete Works, and the
   Essential Peirce vols 1–2 (owner upload 2026-10-19). This batch's James
   texts are carried by the opened web sources above; no Peirce-attributed
   claims are made, so the Peirce verification rule is not triggered.
+
+## Pragmatism batch 1, QC round 2 (final bounded corrections)
+
+- **ST345**: "Within weeks Congress passed" corrected to the article's
+  sequence ("Within a few weeks of taking office he sent Congress a very
+  short bill... he signed the bill on March 31"); the closing
+  "first documented turn into reality" upgrade clause deleted — the
+  Democracy article's attributed interpretation stands on its own.
+- **ST347**: February 1 quotation corrected to the Crimson's exact
+  rendering ("shall I *Frankly* throw the moral business overboard" —
+  italic, capitalized in the carrier, verified against the raw page);
+  "The cure was not instantaneous" re-attributed ("The Crimson account
+  describes a gradual return: only very slowly did enthusiasm and
+  buoyancy become dominant"); the Wikipedia carrier for the April 30
+  entry now verified unprompted via raw wikitext (action=raw).
+- Ledger consultation chronology corrected (see round-1 entry above).
+- MEANINGFUL CHECK (working tree vs pre-round-2 HEAD): all three story
+  files clean — no errors, standard warnings only; no link changes this
+  round.
