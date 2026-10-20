@@ -41,6 +41,11 @@ Reporting a theft and asking for the item back is the first kind. Slashing the t
 - [Rhetoric, Rhys Roberts translation, full text (Internet Classics Archive)](https://classics.mit.edu/Aristotle/rhetoric.mb.txt) — II.2
 - [Nicomachean Ethics, Ross translation, full text (people.bu.edu mirror)](https://people.bu.edu/wwildman/courses/wphil/readings/wphil_rdg09_nichomacheanethics_entire.htm) — V.4
 
+## Related concepts
+
+- [[A097 — Practise corrective justice]] — the V.4 passage's own principle page
+- [[A115 — Understand anger (orge)]] — the emotion the revenge side runs on
+
 <!-- fc: reflections
 When wronged, what in your reaction tells you whether you want repair or the other person's pain?
 %%

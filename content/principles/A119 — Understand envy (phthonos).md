@@ -40,6 +40,11 @@ In an imagined case, one person hears of a friend's book deal and catches himsel
 
 - [Rhetoric, Rhys Roberts translation, full text (Internet Classics Archive)](https://classics.mit.edu/Aristotle/rhetoric.mb.txt) — II.10, II.11
 
+## Related concepts
+
+- [[A120 — Understand emulation (zelos)]] — the contrast the page turns on
+- [[A022 — Practice righteous indignation (nemesis)]] — the mean between envy and spite
+
 <!-- fc: reflections
 Whose success stings you, and what is the story behind that sting?
 %%

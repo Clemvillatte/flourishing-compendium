@@ -12,16 +12,16 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 86** — Recognise that pain is not always bad
 
-Book II of the Ethics argues that moral excellence is concerned with pleasures and pains: it is on account of pleasure that we do bad things, and on account of pain that we abstain from noble ones, so the right education trains us "both to delight in and to be pained by the things that we ought" (II.3). Book II also gives the sign: the pleasure or pain that follows an act shows the state of character behind it. Book VII sorts the badness: "some pain is without qualification bad, and other pain is bad because it is in some respect an impediment to us" (VII.13). The principle's work is the sorting: pain is not one thing, and the practical question about any given pain is which kind it is.
+Book II of the Ethics argues that moral excellence is concerned with pleasures and pains: it is on account of pleasure that we do bad things, and on account of pain that we abstain from noble ones, so the right education trains us "both to delight in and to be pained by the things that we ought" (II.3). Book II also gives the sign: the pleasure or pain that follows an act shows the state of character behind it. Book VII sorts the badness: "some pain is without qualification bad, and other pain is bad because it is in some respect an impediment to us" (VII.13). II.3's training point carries the principle's work: being pained by what one ought is part of the trained response, which is a different thing from the idea that suffering benefits. The compendium's exercise: ask of a given pain whether it is the appropriate response, or one of the two bad kinds.
 
-(NE II.3, VII.13; EE II.8 not used.)
+(NE II.3, VII.13, Ross.)
 
 > For moral excellence is concerned with pleasures and pains; it is on account of the pleasure that we do bad things, and on account of the pain that we abstain from noble ones. Hence we ought to have been brought up in a particular way from our very youth, as Plato says, so as both to delight in and to be pained by the things that we ought; for this is the right education.
 >
 > Aristotle, Nicomachean Ethics II.3, translated by W. D. Ross, [full text](https://people.bu.edu/wwildman/courses/wphil/readings/wphil_rdg09_nichomacheanethics_entire.htm).
 
 **Plain words**
-The Ethics says two things that need holding together. Pain is bad: some without qualification, some because it impedes. And the pleasure or pain that follows an act is a sign of character: the person who abstains from a bodily pleasure and is pained by the abstaining shows one state, the one who delights in it shows another. The chapter's checking question is what a given pain is attached to, not whether it hurts.
+The Ethics says two things that need holding together. Pain is bad: some without qualification, some because it impedes. And II.3 trains both to delight in and to be pained by what we ought, so an appropriate pain at the right thing is part of a trained response, not a harm. The checking question for a given pain is which of these it is.
 
 **For example**
 In an imagined application, two people keep the same rule; one is annoyed by keeping it, the other comes to delight in keeping it. Aristotle's sign of character is which of the two is happening.
@@ -39,6 +39,11 @@ In an imagined application, two people keep the same rule; one is annoyed by kee
 ## Sources
 
 - [Nicomachean Ethics, Ross translation, full text (people.bu.edu mirror)](https://people.bu.edu/wwildman/courses/wphil/readings/wphil_rdg09_nichomacheanethics_entire.htm) — II.3, VII.13
+
+## Related concepts
+
+- [[A084 — Understand that pleasure is not the good but accompanies it]] — the companion page from the same pleasure chapters
+- [[A093 — Take proper pleasure in the right things]] — the attachment check on pleasure's companions
 
 <!-- fc: reflections
 What discomfort are you avoiding that would help you grow? And what pain are you putting up with that serves nothing?

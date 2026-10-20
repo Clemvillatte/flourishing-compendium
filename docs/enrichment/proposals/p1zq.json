@@ -1,0 +1,9 @@
+{
+ "supervisor note: A081/A084 duplicate blockquote (worker-p1zq-4db4ea8b, 2026-10-20)": {
+  "source": "content/principles/A084 — Understand that pleasure is not the good but accompanies it.md",
+  "target": "content/principles/A081 — (page outside p1zq's bands)",
+  "link": "",
+  "why": "A081 and A084 both blockquote the same X.4 'Pleasure completes the activity' sentence.",
+  "notes": "A081 is outside p1zq's band; flagged for supervisor decision on quote diversification rather than edited."
+ }
+}

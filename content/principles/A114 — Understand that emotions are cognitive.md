@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 114** — Understand that emotions are cognitive
 
-The Rhetoric opens its account of the emotions with a working definition, quoted below: emotions are feelings that so change men as to affect their judgements, and that are attended by pain or pleasure. Each emotion is then defined by what it takes to be the case. Anger is "an impulse, accompanied by pain, to a conspicuous revenge for a conspicuous slight"; fear is "a pain or disturbance due to a mental picture of some destructive or painful evil in the future"; pity is pain at "some evil, destructive or painful, which befalls one who does not deserve it". The pattern is the principle: each definition includes a view of the situation, which is why the rhetorician analyzes what state of mind, towards whom, and on what grounds, and why a person can examine their own emotion the same way. The compendium's exercise: when an emotion arrives, ask what it is taking to be the case.
+The Rhetoric opens its account of the emotions by connecting them with altered judgement and with pain or pleasure, the definition quoted below. Each emotion is then defined by what it takes to be the case. Anger is "an impulse, accompanied by pain, to a conspicuous revenge for a conspicuous slight"; fear is "a pain or disturbance due to a mental picture of some destructive or painful evil in the future"; pity is pain at "some evil, destructive or painful, which befalls one who does not deserve it". The pattern is the principle: each definition includes a view of the situation, which is why the rhetorician analyzes what state of mind, towards whom, and on what grounds, and why a person can examine their own emotion the same way. The compendium's exercise: when an emotion arrives, ask what it is taking to be the case.
 
 (Rhetoric II.1, II.2, II.5, II.8.)
 
@@ -43,6 +43,11 @@ Feeling furious at a colleague, on the Rhetoric's definition, involves a perceiv
 ## Sources
 
 - [Rhetoric, Rhys Roberts translation, full text (Internet Classics Archive)](https://classics.mit.edu/Aristotle/rhetoric.mb.txt) — II.1, II.2, II.5, II.8
+
+## Related concepts
+
+- [[A115 — Understand anger (orge)]] — the first definition the chapter works out
+- [[A122 — Recognise that emotions shape judgment]] — the judgement side of the same account
 
 <!-- fc: reflections
 What judgement sits inside your strongest recent emotion? Is it accurate?

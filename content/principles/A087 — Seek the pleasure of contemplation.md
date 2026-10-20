@@ -12,19 +12,19 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 87** — Seek the pleasure of contemplation
 
-Book X's case for the contemplative life argues that it is the best activity (reason the best thing in us, its objects the best knowable), the most continuous, since we can contemplate truth more continuously than we can do anything, and the pleasantest of virtuous activities, its pleasures noted for purity and endurance. Self-sufficiency belongs to it most, within limits: the philosopher needs the necessaries of life like anyone, but the just man also needs people towards whom to act justly, while the philosopher, even when by himself, can contemplate truth. The chapter's closing instruction is the quotation below. The compendium's exercise: give the pleasure of thinking its own room, and notice what it asks compared to what it gives.
+Book X's case for the contemplative life argues that it is the best activity (reason the best thing in us, its objects the best knowable), the most continuous, since we can contemplate truth more continuously than we can do anything, and the pleasantest of virtuous activities, its pleasures thought to offer "pleasures marvellous for their purity and their enduringness". Self-sufficiency belongs to it most, within limits: the philosopher needs the necessaries of life like anyone, but the just man also needs people towards whom to act justly, while the philosopher, even when by himself, can contemplate truth. The chapter's closing instruction is the quotation below. The compendium's exercise: give the pleasure of thinking its own room, and notice what it asks compared to what it gives.
 
-(NE X.7, Ross; EE VIII.3 not used.)
+(NE X.7, Ross.)
 
 > But we must not follow those who advise us, being men, to think of human things, and, being mortal, of mortal things, but must, so far as we can, make ourselves immortal, and strain every nerve to live in accordance with the best thing in us.
 >
 > Aristotle, Nicomachean Ethics X.7, translated by W. D. Ross, [full text](https://people.bu.edu/wwildman/courses/wphil/readings/wphil_rdg09_nichomacheanethics_entire.htm).
 
 **Plain words**
-The comparison is about company and equipment. Every virtuous person needs the necessaries of life; the just person also needs other people to be just towards, while the thinker can work alone. The pleasure argument runs alongside it: this activity's pleasures are the purest and most lasting. Making room for it is ordinary work: some hours, a subject, and staying with a hard question.
+The comparison is about company and equipment. Every virtuous person needs the necessaries of life; the just person also needs other people to be just towards, while the thinker can work alone. The pleasure argument runs alongside it: the pursuit is thought to offer pleasures marvellous for their purity and their enduringness. Making room for it is ordinary work: some hours, a subject, and staying with a hard question.
 
 **For example**
-In an imagined case, someone reserves one evening a week for reading and thinking, with no claim made on how the evening compares with alternatives.
+In an imagined case, someone reserves one evening a week for reading and thinking.
 
 ## Psychology parallels
 
@@ -39,6 +39,11 @@ In an imagined case, someone reserves one evening a week for reading and thinkin
 ## Sources
 
 - [Nicomachean Ethics, Ross translation, full text (people.bu.edu mirror)](https://people.bu.edu/wwildman/courses/wphil/readings/wphil_rdg09_nichomacheanethics_entire.htm) — X.7
+
+## Related concepts
+
+- [[A089 — Practise contemplation (theoria)]] — the same Book X argument from the practice side
+- [[A091 — Integrate contemplation and action]] — the page on contemplation's place among the virtues
 
 <!-- fc: reflections
 When did you last enjoy a thought for its own sake? What made it satisfying?

@@ -21,7 +21,7 @@ Book X argues the point from the nature of activities: things different in kind 
 > Aristotle, Nicomachean Ethics X.5, translated by W. D. Ross, [full text](https://people.bu.edu/wwildman/courses/wphil/readings/wphil_rdg09_nichomacheanethics_entire.htm).
 
 **Plain words**
-The pleasure is glued to the activity it finishes. Eating has its pleasure, thinking has another, and the Ethics carries the ranking with the activity: sight's pleasures are purer than touch's, because sight is the more precise sense. A pleasure tells you what activity it belongs to, and the activity grades the pleasure.
+The pleasure is glued to the activity it finishes. Eating has its pleasure, thinking has another, and the Ethics ranks them with the activities: sight is superior to touch in purity, and the pleasures, therefore, are similarly superior. A pleasure tells you what activity it belongs to, and the activity grades the pleasure.
 
 **For example**
 The satisfaction of solving a puzzle and the satisfaction of a good meal are different pleasures; the passage's question is what each completes, not which wins.
@@ -39,6 +39,11 @@ The satisfaction of solving a puzzle and the satisfaction of a good meal are dif
 ## Sources
 
 - [Nicomachean Ethics, Ross translation, full text (people.bu.edu mirror)](https://people.bu.edu/wwildman/courses/wphil/readings/wphil_rdg09_nichomacheanethics_entire.htm) — X.5
+
+## Related concepts
+
+- [[A082 — Distinguish good pleasures from bad pleasures]] — the same X.5 rule from the sorting side
+- [[A093 — Take proper pleasure in the right things]] — what the proper pleasure attaches to
 
 <!-- fc: reflections
 Which pleasure do you undervalue because it doesn't resemble your favourite? Describe one.

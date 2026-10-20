@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 93** — Take proper pleasure in the right things
 
-The rule is Book X's, quoted below: since activities differ in respect of goodness and badness, so do the pleasures, and the pleasure proper to a worthy activity is good while the pleasure proper to an unworthy one is bad. The goodness is not in the feeling itself; it rides on what the feeling completes. The Ethics' discussion of appetite adds the personal angle: different things are pleasant to different kinds of people. The exercise is the principle: ask, of each recurring pleasure, what it is attached to and what it finishes.
+The rule is Book X's, quoted below: since activities differ in respect of goodness and badness, so do the pleasures, and the pleasure proper to a worthy activity is good while the pleasure proper to an unworthy one is bad. The goodness is not in the feeling itself; it rides on what the feeling completes. The Ethics' discussion of appetite adds the personal angle: different things are pleasant to different kinds of people. The compendium's exercise: ask, of each recurring pleasure, what it is attached to and what it finishes.
 
 (NE X.5, Ross.)
 
@@ -21,7 +21,7 @@ The rule is Book X's, quoted below: since activities differ in respect of goodne
 > Aristotle, Nicomachean Ethics X.5, translated by W. D. Ross, [full text](https://people.bu.edu/wwildman/courses/wphil/readings/wphil_rdg09_nichomacheanethics_entire.htm).
 
 **Plain words**
-The feeling itself carries no verdict; the verdict rides on what the feeling completes. Pleasure attached to something worth doing is part of doing it well, pleasure attached to something base is part of that. Different things please different kinds of people, which is why the passage reads as an examination rather than a list.
+The feeling itself carries no verdict; the verdict rides on what the feeling completes. Pleasure attached to something worth doing is part of doing it well, pleasure attached to something base is part of that. Different things please different kinds of people.
 
 **For example**
 Laughing with friends after a hard rehearsal and laughing at someone's expense are both pleasures; the passage's question is what each is attached to.
@@ -39,6 +39,11 @@ Laughing with friends after a hard rehearsal and laughing at someone's expense a
 ## Sources
 
 - [Nicomachean Ethics, Ross translation, full text (people.bu.edu mirror)](https://people.bu.edu/wwildman/courses/wphil/readings/wphil_rdg09_nichomacheanethics_entire.htm) — X.5
+
+## Related concepts
+
+- [[A082 — Distinguish good pleasures from bad pleasures]] — the same X.5 rule from the sorting side
+- [[A088 — Recognise that pleasure varies with the activity]] — the activity each pleasure completes
 
 <!-- fc: reflections
 What are your regular pleasures attached to? Which would you drop if you saw clearly what they completed?
