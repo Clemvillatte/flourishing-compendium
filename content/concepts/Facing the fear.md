@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Facing the fear” — Kierkegaard; Kierkegaard, The Concept of Anxiety.
 
-Facing the fear is the thread Kierkegaard pulled through The Concept of Anxiety (1844), written under the pseudonym Vigilius Haufniensis. On the [SEP's reading](https://plato.stanford.edu/entries/kierkegaard/), the book probes the nature of human choice: anxiety is not merely a pathological condition or symptom of disease, but part of the human condition, an awareness of freedom. In anxiety we feel a "sympathetic antipathy" or an "antipathetic sympathy", drawn toward and repelled by a possibility at once (CA 42).
+Facing the fear is the thread Kierkegaard pulled through The Concept of Anxiety (1844), written under the pseudonym Vigilius Haufniensis. On the [SEP's reading](https://plato.stanford.edu/entries/kierkegaard/), the book probes the nature of human choice: anxiety belongs to the human condition itself rather than being only a pathological symptom, and it is an awareness of freedom. In anxiety we feel a "sympathetic antipathy" or an "antipathetic sympathy", drawn toward and repelled by a possibility at once (CA 42).
 
 > "Anxiety is the dizziness of freedom, which emerges when the spirit wants to posit the synthesis and freedom looks down into its own possibility, laying hold of finiteness to support itself." (Kierkegaard, The Concept of Anxiety, CA 61/SKS 4, 365, quoted in [Lippitt and Evans, "Søren Kierkegaard", Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/kierkegaard/))
 
