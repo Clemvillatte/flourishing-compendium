@@ -12,13 +12,17 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 46** — Practice the exchange deliberately, as a skill
 
-The chapter's method is a thought-exercise run until it restructures intuition: put yourself in the other's position, view your own conduct from there, and let the view correct the conduct. Shantideva instructs the practitioner to regard their own body, possessions, and status as available to others' needs the way another's are, and to practice the reversal formally, in meditation, before it is needed informally, in life. Practically, in your hardest relationship, write one page describing yourself from their side, and read it aloud.
+Shantideva names the method the exchange of self and others, and calls it the one thing that matters: "Thus, anyone who wishes to give safe direction swiftly to himself and others needs to practice the most sacred secret: the exchange of self with others" (Bodhicharyavatara 8.120). The exercise is formal and deliberate. You swap the labels and view yourself from the other side: "Creating in lesser beings and so forth (the sense of) a 'me' and creating in yourself (the sense of) others, meditate on envy, rivalry, and arrogance (like this), with a mind free from prejudiced thoughts: 'This one's shown respect, but I'm not; I don't have wealth like this one has. This one's praised, but I'm belittled...'" (8.140-141) (translation carried on the opened [redzambala page](https://buddhism.redzambala.com/shantideva/bodhisattva-behaviour-by-shantideva-part-8.html)). The reversal extends to what you hold: "whatever you see on this body of mine, rob each and every one of them and use it for the benefit of others" (8.139). And the mechanism is familiarity, not agreement: "Just as, out of familiarity, an attitude of 'me' has come about with respect to this body (of mine), despite its lacking a 'me,' likewise, out of familiarity, why couldn't an attitude of 'me' arise with respect to other limited beings as well?" (8.115).
 
-(Shantideva, Bodhicharyavatara, ch. 8, the exchange verses.)
+Practically, in your hardest relationship, write one page describing yourself from their side, and read it aloud.
 
-**Plain words** Run a thought-exercise until it reshapes your instincts: stand in the other person's place and view your conduct from there. Regard your own body, possessions and status as available to others' needs, the way theirs are to you, and practise the reversal. The change comes by repeating it, not by agreeing with it.
+**Plain words** Shantideva's method is a drill, not an argument. You take the other person's seat and run the comparison from there: what they have, what they're praised for, what they lack, with you as "the other." The drill extends to property: what is on your body is for use. And the mechanism is repetition: the self-label itself was installed by familiarity, so familiarity can install the wider one. The change comes by repeating it, not by agreeing with it.
 
-*For example:* Before a tense phone call, imagine being the person on the other end hearing your tone. Then make the call.
+For example: Before a tense phone call, imagine being the person on the other end hearing your tone. Then make the call.
+
+## Sources
+
+- [Shantideva, Bodhicharyavatara chapter 8 (Engaging in Bodhisattva Behaviour), full text](https://buddhism.redzambala.com/shantideva/bodhisattva-behaviour-by-shantideva-part-8.html) — verses 115, 120, 139, 140-141 quoted verbatim from the opened page; translator not identified on the page
 
 ## Psychology parallels
 

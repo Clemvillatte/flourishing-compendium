@@ -1,6 +1,6 @@
 {
  "batch": "p1zw",
- "revision": 3,
+ "revision": 4,
  "reciprocal": [
   {
    "into": "Anatta",
@@ -19,6 +19,12 @@
    "link": "K032",
    "why": "listed for comparison: the embrace of one's fate beside K032's instruction to transform mishaps into the path of practice.",
    "notes": "Saturation scan 2026-10-20: Amor fati links other adversity principles (B113, B180, D098, P157) but not K032; the two traditions treat the same material differently (acceptance vs transformation), which is the point of the comparison."
+  },
+  {
+   "into": "Taking the role of the other",
+   "link": "K046",
+   "why": "listed for comparison: the sociological account of role-taking beside K046's contemplative exchange drill.",
+   "notes": "Saturation scan 2026-10-20: Taking the role of the other links K028 but not K046; both traditions rehearse the other's view, one as social cognition, one as formal meditation."
   }
  ]
 }
