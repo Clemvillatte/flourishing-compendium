@@ -12,13 +12,19 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 68** — Practice gratitude as the fundamental stance
 
-Tanabe's metanoetics closes in thankfulness: the self that could not ground itself finds itself already held, and the fitting response is not a doctrine but a life of gratitude, which he treats as the constant under all states. The stance is trained, like any stance, by repetition in small matters. Practically, end each day by naming one thing that was given to you that you did not earn, in one line.
+In Tanabe's Philosophy as Metanoetics, the self that cannot ground itself is met by Other-power, and the book's closing note is that his philosophy is "returned to the world" in an act of gratitude, to serve as a medium for spreading faith in Other-power (p. 391). The compendium reads the principle as a stance trained by repetition in small matters: end each day by naming one thing that was given and not earned.
 
 (Tanabe, Philosophy as Metanoetics, the gratitude chapters.)
 
-**Plain words** Tanabe's metanoetics ends in thankfulness. The self that couldn't ground itself finds it was already held, and the fitting response is a life of gratitude, not a doctrine. It's trained like any stance, by repetition in small matters. End each day by naming one thing that was given.
+> Philosophy is "returned to the world" in an act of gratitude, to serve as a medium for spreading faith in Other-power. In this way, metanoetics becomes a philosophical witness of action-faith in Other-power. (Tanabe, Philosophy as Metanoetics, p. 391; quoted in Michiel Heran, "The Ethos of Repentance: A Study of Tanabe Hajime and His Vision of Other-Power", Nanzan Bulletin 48, note 55)
 
-*For example:* Before sleep, you think: the neighbour who watered the plants, the bus driver's nod, the tea. Not earned, just given.
+**Plain words** Gratitude as a stance differs from gratitude as a moment: the moment reacts to a gift, the stance is the posture the self settles into once it stops trying to be its own foundation. Tanabe trains it from the small end, and the compendium's version is one line a day, naming something given rather than earned. The doctrine matters less than the repeated noticing.
+
+*For example:* Imagined example: before sleep, someone thinks: the neighbour who watered the plants, the bus driver's nod, the tea. Not earned, just given.
+
+## Sources
+
+- [Heran, "The Ethos of Repentance: A Study of Tanabe Hajime and His Vision of Other-Power", Nanzan Bulletin 48](https://nirc.nanzan-u.ac.jp/journal/3/article/2376/pdf/download) — secondary carrier of the Philosophy as Metanoetics p. 391 gratitude passage
 
 ## Psychology parallels
 

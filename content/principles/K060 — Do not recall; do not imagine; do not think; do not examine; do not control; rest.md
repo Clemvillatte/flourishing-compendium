@@ -12,17 +12,23 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 60** — Do not recall; do not imagine; do not think; do not examine; do not control; rest
 
-Tilopa's Six Words of Advice, preserved entire because they do not survive paraphrase: the six negations cover the mind's six ways of leaving the present (retrieving the past, projecting the future, narrating, analyzing, managing), and the sixth word, rest, is the instruction that remains when the six are dropped. Practically, take the six words as a mobile practice: one phrase per hour of a difficult day, in order, and note which of the six is your signature departure.
+Tilopa's Six Words of Advice, preserved entire because they do not survive paraphrase. The compendium's gloss: the six negations cover the mind's ways of leaving the present (retrieving the past, projecting the future, narrating, analyzing, managing), and the sixth word, rest, is the instruction that remains when the five are dropped. As a compendium exercise, take the six words as a mobile practice: one phrase per hour of a difficult day, in order, and note which is your signature departure.
 
 (Tilopa's Six Words of Advice, the Mahamudra oral instruction.)
 
+> Don't recall. / Don't imagine. / Don't think. / Don't examine. / Don't control. / Rest. (Tilopa, Six Words of Advice, Ken McLeod translation)
+
 **Plain words** Tilopa's six words: don't recall, don't imagine, don't think, don't examine, don't control, rest. The first five are the mind's ways of leaving the present: retrieving, projecting, narrating, analysing, managing. The sixth is what's left when they stop. Use them as a portable reset.
 
-*For example:* Standing in a queue with a racing mind, you run through the six words and arrive, for a moment, in the queue.
+*For example:* Imagined example: standing in a queue with a racing mind, someone runs through the six words and arrives, for a moment, in the queue.
+
+## Sources
+
+- [Tilopa, Six Words of Advice (Ken McLeod translation)](https://unfetteredmind.org/practice/tilopas-advice/)
 
 ## Psychology parallels
 
-- **[[Mind wandering|Mind-wandering and the default mode network]]**, the research on the mind's default departures and their mood costs (Killingsworth and Gilbert, 2010; Brewer et al., 2011, for the practice effect)
+- **[[Mind wandering|Mind-wandering and the default mode network]]** (Killingsworth and Gilbert, 2010; Brewer et al., 2011)
 
 ## Philosophy parallels
 

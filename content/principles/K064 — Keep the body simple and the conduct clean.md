@@ -12,13 +12,19 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 64** — Keep the body simple and the conduct clean
 
-Milarepa's practical counsel to householders, repeated across the songs: the austere life of practice is support, not the point, and the householder's version is simplicity and clean conduct rather than mountain asceticism. The songs' realism is the lesson: practice is built on a floor of honest livelihood, simple needs, and conduct you would not need to hide. Practically, audit the floor monthly (sleep, money, speech, integrity) before blaming the meditation for what the floor is doing to it.
+In a song to the householders gathered as his benefactors, Milarepa sums his counsel in one line: forsake negative deeds and accomplish virtue (Lowell Cook's translation). The compendium reads the principle as counsel for a life not divided into practice-time and the rest: the song is addressed to lay people, and the standard it offers is Milarepa's own example rather than a rulebook. As a compendium exercise, audit the floor monthly (sleep, money, speech, integrity) before blaming the meditation for what the floor is doing to it.
 
 (Milarepa's songs to householders; the lay practice instructions.)
 
-**Plain words** Milarepa advises householders: the austere life is support, not the point. For you it means simplicity and clean conduct, not mountain asceticism. Practice stands on honest livelihood, simple needs, and conduct you wouldn't need to hide.
+> Ladies and gentlemen, benefactors gathered here, / Follow after me and do as I have done— / Forsake negative deeds and accomplish virtue! (Milarepa, from the Songs of Milarepa, Lowell Cook translation)
 
-*For example:* A parent with a job, a mortgage and a sick relative practises by working honestly, keeping needs modest, and not lying at the school gate.
+**Plain words** The song's one line of counsel to householders is to forsake negative deeds and accomplish virtue, with Milarepa offering his own example rather than a rulebook. The compendium's test for a habit: does it simplify or complicate?
+
+*For example:* Imagined example: a parent with a job, a mortgage and a sick relative practises by working honestly, keeping needs modest, and not lying at the school gate.
+
+## Sources
+
+- [Milarepa, "The Fortress of the Sky-Like Sphere of Absolute Value" (Lowell Cook translation)](https://www.lotsawahouse.org/tibetan-masters/milarepa/kyangpen-namkha-dzong)
 
 ## Psychology parallels
 

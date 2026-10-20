@@ -12,17 +12,23 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 58** — Let the mind be, unaltered
 
-Saraha's instruction, central to the whole lineage: do not modify the mind, do not fabricate a meditative state, and do not reject what arises. The instruction is famously dangerous to paraphrase, because it sounds like "do nothing," but the tradition is explicit: leaving the mind unaltered is an active skill, requiring the precision of not adding the usual commentary, correction, or evaluation. Practically, sit for five minutes with the single instruction "do not adjust anything," and notice how many times your hands reach for the dials.
+The Ganges Mahamudra, the pith instruction Tilopa gave Naropa, says: do not think about anything, let all ambition drop, and let what arises settle by itself, like patterns in water (v. 13, in Ken McLeod's translation). The compendium reads the principle as the instruction behind the lineage's slogans: nothing needs adjusting for the mind to be at rest. As a compendium exercise, sit for five minutes with the single instruction "do not adjust anything," and notice how many times your hands reach for the dials.
 
 (Saraha's songs, the Dohakosha; the Mahamudra lineage instruction.)
 
-**Plain words** Saraha's instruction is to leave the mind unaltered: don't modify it, don't manufacture a meditative state, don't reject what arises. It sounds like "do nothing." The tradition says it's an active skill: it takes precision not to add the usual interference.
+> Do not think about anything; let all ambition drop. Let what arises settle by itself, like patterns in water. (Tilopa, Ganges Mahamudra v. 13, Ken McLeod translation)
 
-*For example:* Sitting down and, instead of trying to calm yourself, letting restlessness be restlessness, and finding it settles on its own after a while.
+**Plain words** The verse tells the practitioner to let what arises settle by itself, the way patterns settle in water. The compendium exercise: take one minute and add nothing; notice the difference between watching a thought and fixing one.
+
+*For example:* Imagined example: sitting down and, instead of trying to calm yourself, letting restlessness be restlessness, and noticing whether it settles on its own after a while.
+
+## Sources
+
+- [Tilopa, Ganges Mahamudra (Ken McLeod translation)](https://unfetteredmind.org/practice/pith-instructions-on-mahamudra/)
 
 ## Psychology parallels
 
-- **Acceptance versus change in emotion regulation**, the finding that non-judgmental allowing reduces reactivity where suppression increases it (Wegner, 1994; the mindfulness acceptance component, Bishop et al., 2004)
+- Acceptance versus change in emotion regulation (Wegner, 1994; Bishop et al., 2004)
 
 ## Philosophy parallels
 
