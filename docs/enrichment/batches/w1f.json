@@ -1,11 +1,15 @@
 {
  "batch": "w1f",
  "done": [
-  "Karma yoga"
+  "Karma yoga",
+  "Language spinning beyond the world"
  ],
  "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T04:28:15+00:00"
+ "updated": "2026-10-20T04:28:15+00:00",
+ "notes": {
+  "Language spinning beyond the world": "fast-track done 2026-10-20; RENAMED to \"Language on holiday\" — the seed title was a compendium coinage, not Wittgenstein wording (\"spins beyond the world\" does not appear in PI; verified in an opened PI selection). Real concept = language on holiday (PI 38) / engine idling (PI 132). File renamed, _order.json and the B070 backlink label migrated; fast-track body grounded in opened PI selection 132 + DBU overview quoting 38."
+ }
 }

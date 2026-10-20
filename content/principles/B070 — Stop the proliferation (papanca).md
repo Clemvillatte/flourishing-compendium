@@ -33,7 +33,7 @@ Imagine receiving a short reply and concluding that a friendship is ending. You 
 
 ## Philosophy parallels
 
-- **[[Language spinning beyond the world|Language spinning beyond the world]]** (Wittgenstein, Philosophical Investigations)
+- **[[Language on holiday|Language on holiday]]** (Wittgenstein, Philosophical Investigations)
 - **[[Negative capability|Negative capability]]** (Keats, letter of 1817)
 
 <!-- fc: reflections

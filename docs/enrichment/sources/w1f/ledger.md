@@ -20,3 +20,23 @@
   independently fact-checked.
 - Validation: --fast-track ok (concept <15 connections; prose minimum waived; all other
   checks pass).
+
+## Language spinning beyond the world -> Language on holiday (2026-10-20, fast-track + rename; degree 11 — eligible)
+
+- VERIFICATION: the seed title is a compendium COINAGE — "spins beyond the world" does NOT
+  appear in the Philosophical Investigations (checked in an opened PI selection containing
+  §§1-133 excerpts; the selection's §132 has the idling-engine passage). Renamed to the
+  actual concept per the concept-verification rules (garbled title -> actual concept).
+- OPENED: Wittgenstein, Philosophical Investigations (selection PDF)
+  https://topologicalmedialab.net/xinwei/classes/readings/Wittgenstein/PhiloInvestigations_sel.pdf
+  — §132 idling quote verbatim from the opened PDF.
+- OPENED: Mitchell, DBU overview of the PI
+  https://www.dbu.edu/mitchell/modern-resources/wittgensteinoverview.html — grounds §38's
+  "philosophical problems arise when language goes on holiday" wording.
+- SYNTHESIS FLAG: "On holiday, the engine idles: the words still run, but nothing they do is
+  answerable to the practices that normally keep them honest." is the compendium's own gloss
+  bridging §38 and §132, not a source claim.
+- Migration: file renamed, front-matter id/title/file updated, _order.json path updated,
+  B070 backlink label migrated (released band; supervisor edit per verification rules).
+  Validator at the transition commit: front-matter-changed / lost-wikilink exceptions are
+  intended rename deltas; validated clean at the new HEAD.
