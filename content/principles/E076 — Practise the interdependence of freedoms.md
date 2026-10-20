@@ -12,13 +12,21 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 468** — Practise the interdependence of freedoms
 
-Recognise that your freedom depends on the freedom of others. No one can be free alone; freedom is not a zero-sum game but an intersubjective achievement. To will your own freedom is to will the freedom of others.
+Beauvoir argues that projects acquire meaning in a shared world and can continue beyond an individual's life through other people's freedom ([The Ethics of Ambiguity, Part II, closing paragraphs](https://www.marxists.org/reference/subject/ethics/de-beauvoir/ambiguity/ch02.htm)). This gives her an ethical reason to seek others' freedom alongside one's own ([Part II](https://www.marxists.org/reference/subject/ethics/de-beauvoir/ambiguity/ch02.htm)).
 
-(de Beauvoir, 1947/2018, The Ethics of Ambiguity, Part III; Sartre, 1946/2007, Existentialism Is a Humanism; Hegel, 1807/2018, Phenomenology of Spirit.)
+> To will oneself free is also to will others free.
 
-**Plain words** Your freedom depends on the freedom of others. No one is free alone — freedom isn't a zero-sum game but an intersubjective achievement. To will your own freedom is to will the freedom of others. The walls that hold others down are holding you too.
+(Beauvoir, The Ethics of Ambiguity, Part II; [opened text](https://www.marxists.org/reference/subject/ethics/de-beauvoir/ambiguity/ch02.htm).)
 
-*For example:* The manager who "wins" every negotiation and is surrounded by silenced, disengaged people — and finds their own freedom shrinking with every victory. The liberated team turns out to be the only environment a free manager can actually manage.
+### Plain words
+
+Ask whether your plans leave the people involved room to choose, object and pursue purposes of their own. Being able to direct someone else's life is a poor test of whether your own choices deserve defending.
+
+Beauvoir distinguishes freedom from permission to do anything one likes: stopping someone from imprisoning a neighbour need not oppress that person ([Part III.2, “Freedom and Liberation”](https://www.marxists.org/reference/subject/ethics/de-beauvoir/ambiguity/ch03.htm)).
+
+### For example
+
+Suppose you coordinate a volunteer project. You could invite disagreement over its aims and let people decline tasks, rather than making obedience a condition of belonging.
 ## Psychology parallels
 
 - **[[Relational autonomy|Relational autonomy]]** (Nedelsky, 1989; Deci and Ryan, 2000)
