@@ -84,6 +84,24 @@ with [[Deliberate practice]]. IS-IT-A-CONCEPT gate left unresolved in my state
 flag; content is bounded to the opened Ericsson evidence. Your disposition
 requested; w1h continues meanwhile.
 
+SUPERVISOR REPLY (2026-10-20, supervisor-c0de5a17, took the stale supervisor baton): four new
+principle reserves are OPEN: p1x, p1y, p1z, p1za (30 principles each, degree order, 1,123 unassigned
+principles remain after minting). Workers who parked on concept bands to wait for principle work
+(w1e, w1g, w1h, w1i, session d4409142) may hand their concept band back at a clean checkpoint and
+claim one; the baton guard decides races. Owner priority stays Daoism, Buddhism, Pragmatism, but the
+B/D/P pool is empty, so these are non-B/D/P principles. Owner decisions on concise bar (items 6-7)
+are folded into PROTOCOL-PRINCIPLES.md already; step 6 SATURATE stays mandatory.
+SUPERVISOR DISPOSITIONS (2026-10-20, supervisor-c0de5a17):
+- Non-attachment vs Nonattachment: KEEP BOTH for now. Nonattachment (richer, 14 inbound links) is the
+  canonical page; Non-attachment is a variant-spelling duplicate with nine inbound links, several in
+  protected principle markup and live bands. A merge would touch those files and is deferred to a
+  quiet window; do not delete either page. w1h: no further action on this item.
+- Openness and not knowing in skilled practice: the opened Ericsson source never uses the phrase and the
+  page body is about deliberate practice, so the title names a construct no source defines. Category C
+  under concept-namespace-audit.md. NOT deleted (one inbound principle link, D045, plus an eight-bullet
+  hub); recommendation sent to the owner: fold the Ericsson material into Deliberate practice and relink
+  D045 to Beginner's mind. w1h: no further enrichment on this page.
+
 1. Pull, then find an OPEN, released, or stale PRINCIPLE band first. Check `python3 scripts/baton.py status`: a fresh unreleased baton overrides an outdated OPEN label. A stale baton is available after 20 minutes, even if the table still says claimed. If no principle band is available, request a reserve from the supervisor and do non-conflicting verification or concept work meanwhile.
 2. Edit this table: set status to `claimed`, put your agent name and the date. Commit and push (`scripts/enrich_save.sh "taskboard: claim band w1b"`).
 3. If the push is rejected after rebase, someone claimed first: pull, re-read the board, take the next OPEN band.
@@ -152,6 +170,10 @@ The owner's primary-source library is in `docs/PRIMARY-SOURCES.md`.
 | p1u | selected ranks 1436-1614 | P112 to P047 (30 priority items; 10 B + 9 D) | p1u | done, 30/30; last 10 P items enriched; first-item/milestone-25/milestone-30/repair-recheck advisors PASS; 7 reciprocal proposals await supervisor; historical scope-correction flags retained | worker-p1u-c6c62a0a | 2026-10-20 |
 | p1v | selected ranks 1615-1762 | P053 to B197 (18 priority items; PRIORITY POOL NOW FULLY DRAINED) | p1v | done | worker-p1v-c7e4a1f9 (session-specific role identifier; no verified yopmail identity) | 2026-10-20 |
 | p1w | selected ranks 31-247 | K008 to R109 (30 unassigned principles, degree order) | p1w | claimed (takeover of released baton by worker-p1w-6c93f2ad at 06:1xZ; 4/30 done (K008, K029, AF026, SO041); next: manifest order E005 onward; K001 inherited flag (source-access-blocked, supervisor disposition requested) will be re-worked after new items) | worker-p1w-6c93f2ad | 2026-10-20 |
+| p1x | selected ranks 248-277 | R129 to SO067 (30 unassigned principles, degree order; minted 2026-10-20 by supervisor-c0de5a17 at queue@01f5878e) | p1x | OPEN | — | 2026-10-20 |
+| p1y | selected ranks 278-307 | SO075 to AF065 (30 unassigned principles, degree order; minted 2026-10-20 by supervisor-c0de5a17 at queue@01f5878e) | p1y | OPEN | — | 2026-10-20 |
+| p1z | selected ranks 308-338 | AF069 to CO019 (30 unassigned principles, degree order; minted 2026-10-20 by supervisor-c0de5a17 at queue@01f5878e) | p1z | OPEN | — | 2026-10-20 |
+| p1za | selected ranks 339-370 | CO026 to MO026 (30 unassigned principles, degree order; minted 2026-10-20 by supervisor-c0de5a17 at queue@01f5878e) | p1za | OPEN | — | 2026-10-20 |
 
 Reserve manifests p1i-p1q contain ONLY previously unassigned B/D/P numeric IDs (Buddhism,
 Daoism, and Pragmatist/process principles), in existing degree order. Their rank bounds
