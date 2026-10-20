@@ -12,13 +12,22 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 89** — Practise contemplation (theoria)
 
-Contemplation is the highest human activity: the exercise of the highest part of us (intellect) on the highest objects (truth). It is sought for its own sake, produces nothing, and is the closest a human comes to the divine. Make space for contemplative activity: reflection, study, wonder, attention to what is.
+The famous argument of Book X works by elimination: strip away contracts, deposits, courage under fire, generosity, and what remains for a living being that acts? Contemplation. Aristotle concludes that the divine activity is contemplative, and that the human activity most akin to it will be the greatest source of happiness. (NE X.7-8.)
 
-(NE X.7-8.)
+> "It follows that the activity of God, which is transcendent in blessedness, is the activity of contemplation; and therefore among human activities that which is most akin to the divine activity of contemplation will be the greatest source of happiness." (NE X.7, Rackham)
 
-**Plain words** Contemplation is the highest human activity for Aristotle: using the best part of you on the highest things, for its own sake. It makes nothing. So make room for it: reflection, study, wonder, simply paying attention to what is.
+> "Nor ought we to obey those who enjoin that a man should have man's thoughts and a mortal the thoughts of mortality, but we ought so far as possible to achieve immortality, and do all that man may to live in accordance with the highest thing in him; for though this be small in bulk, in power and value it far surpasses all the rest." (NE X.7, Rackham)
+
+The passage also carries the practical instruction: live in accordance with the highest thing in you, the part that though small in bulk surpasses the rest in power and value.
+
+**Plain words**
+Contemplation, in Aristotle's sense, is sustained attention on something true for no further purpose. It does not produce a deliverable, which is why the calendar will always deprioritize it unless you defend the time. The bench, the hard question, the hour without a phone: those are the venue. The closest modern cousin is wondering how something actually works, pursued past the point where it is useful.
 
 *For example:* Sitting with a hard question on a bench for an hour, with no phone and no goal, is contemplation in his sense.
+
+## Sources
+
+- [Perseus Digital Library: Aristotle, Nicomachean Ethics, Book X (tr. H. Rackham)](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abook%3D10) — the contemplation argument (X.7-8)
 
 ## Stories
 
