@@ -83,3 +83,8 @@
 ## Advisor QC round 5 (2026-10-20): opening-sentence citation
 
 - MIT Classics link added to the opening definition sentence.
+
+## Milestone QC round closed
+
+- Advisor verdict: PASS (2026-10-20), after five rounds of bounded repairs. All
+  repairs documented above; no further research or rewriting required.

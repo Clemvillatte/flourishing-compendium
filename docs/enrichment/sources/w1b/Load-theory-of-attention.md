@@ -60,3 +60,8 @@
   load studies: behavioural experiments" (verified by a targeted re-read of the PDF
   for its section headings and printed volume/issue/pages).
 - Inline citations converted to links to the opened PDF.
+
+## Milestone QC round closed
+
+- Advisor verdict: PASS (2026-10-20), after five rounds of bounded repairs. All
+  repairs documented above; no further research or rewriting required.

@@ -81,3 +81,8 @@
 - Linked citations added to the introductory factual prose (1912 collection link;
   Hume-contrast sentence linked to the "I. Radical Empiricism" section), the preface
   attribution sentence, and each of the three quoted summary sentences.
+
+## Milestone QC round closed
+
+- Advisor verdict: PASS (2026-10-20), after five rounds of bounded repairs. All
+  repairs documented above; no further research or rewriting required.

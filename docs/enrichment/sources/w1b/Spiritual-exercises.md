@@ -79,3 +79,8 @@
 
 - IEP link added to the second introductory sentence, with the "complete reversal"
   phrase attributed to the IEP's rendering of Hadot's account.
+
+## Milestone QC round closed
+
+- Advisor verdict: PASS (2026-10-20), after five rounds of bounded repairs. All
+  repairs documented above; no further research or rewriting required.

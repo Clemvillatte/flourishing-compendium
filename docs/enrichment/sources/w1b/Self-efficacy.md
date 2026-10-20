@@ -86,3 +86,8 @@
   clinical origins" (uncited spread claim) and the restated distinction sentence
   ("A person may expect an action to help...") deleted; Jonker link added
   immediately after the CDSMP introduction sentence.
+
+## Milestone QC round closed
+
+- Advisor verdict: PASS (2026-10-20), after five rounds of bounded repairs. All
+  repairs documented above; no further research or rewriting required.
