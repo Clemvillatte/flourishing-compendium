@@ -25,14 +25,13 @@
   "S101",
   "S104",
   "S118",
-  "S122",
   "S124",
   "S126",
   "S107",
   "S113",
   "S117"
  ],
- "in_progress": null,
+ "in_progress": "S122",
  "flagged": {
   "S039": "Reopened for QC: milestone QC repairs applied",
   "S043": "Reopened for QC: milestone QC repairs applied",
@@ -57,10 +56,11 @@
   "S104": "SUPERVISOR DISPOSITION (2026-10-20, supervisor-3ef4f549): KEEP BOTH pages. Being-toward (SEP-sourced, enriched) and Being-toward-death (seed, Wikipedia) both cover Sein-zum-Tode, but the merge would touch protected principle markup in live bands (S104 in live p1zv; E054/B055/PP028/E043/D090 hold Being-toward-death links) — deferred like the Non-attachment/Nonattachment precedent. Differentiation: Being-toward keeps the SEP structural treatment; when Being-toward-death's band is claimed, its rewrite should take the mortality-contemplation angle (memento mori / maranasati resonance) and cross-link the two. The S104 reciprocal targeting Being-toward stands (the protected link resolves there).",
   "S107": "Reopened for QC: QC round 1: framing and Plain words repairs",
   "S113": "Reopened for QC: QC round 1: ledger correction, adoption grounding",
-  "S117": "Reopened for QC: QC round 1: framing and Plain words repairs"
+  "S117": "Reopened for QC: QC round 1: framing and Plain words repairs",
+  "S122": "Reopened for QC: QC round 1: quotation punctuation defect, review/writing conflation, Plain words outcome claims"
  },
  "missing_concepts": [],
  "sources_checked": 13,
- "updated": "2026-10-20T16:46:58+00:00",
+ "updated": "2026-10-20T16:47:02+00:00",
  "band_done": false
 }
