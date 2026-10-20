@@ -12,17 +12,25 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 49** — Rest in no-mind (mushin)
 
-Let responses arise without the mediation of self-conscious deliberation: not blankness, but an unblocked flow of appropriate action.
+Takuan Soho's letter to the swordsman Yagyu Munenori explains mushin through the mind that stops. When you notice the sword moving to strike you and your mind stops at it, he writes, your own movements are undone and you are cut down. The mind that does not stop anywhere is what the letter calls immovable, not because it is frozen but because it is not detained. (Takuan Soho, The Mysterious Record of Immovable Wisdom, in The Unfettered Mind.)
 
-(Zen tradition; resonant with the skilled performer.)
+> "when you first notice the sword that is moving to strike you, if you think of meeting that sword just as it is, your mind will stop at the sword in just that position, your own movements will be undone, and you will be cut down by your opponent" (Takuan Soho, [The Mysterious Record of Immovable Wisdom, excerpt](https://scarsdaleaikido.com/aikidoblog/takuans-unfettered-mind/))
 
-**Plain words** Let responses arise without the mediation of self-conscious deliberation — not blankness, but an unblocked flow of appropriate action. Mushin is the performer's state: the self gets out of the way and the skill speaks. Thinking about the tennis swing is how you miss it.
+Later in the same letter, the training account ends in a state the compendium reads as the performer's: at the deepest point, arms, legs and body remember what to do, and the mind does not enter into it at all.
 
-*For example:* The jazz musician whose best solo happens when they stop managing it — the self stepped aside and the training played.
+**Plain words**
+The instruction is not to empty your head but to stop checking your own performance from inside it. Notice the difference between attention on the task and attention on how you are doing. When you catch yourself narrating your own swing, sentence or conversation, return to the object: the ball, the words, the person in front of you. The skill you trained is still there; the checking is what blocks it.
+
+*For example:* Imagine a jazz musician whose best solo happens when they stop managing it. The self steps aside and the training plays.
+
+## Sources
+
+- [Takuan Soho, The Mysterious Record of Immovable Wisdom, excerpts quoted at Scarsdale Aikido blog](https://scarsdaleaikido.com/aikidoblog/takuans-unfettered-mind/) — the stopping mind and the trained body
+- [The Unfettered Mind, Wikipedia](https://en.wikipedia.org/wiki/The_Unfettered_Mind) — the letter's context and editions
 
 ## Psychology parallels
 
-- **[[Flow|Flow]]**, autotelic absorption with reduced self-referential processing (Csikszentmihalyi, 1990; 2025-2026 neuroimaging meta-analyses)
+- **[[Flow|Flow]]** (Csikszentmihalyi, 1990)
 
 ## Philosophy parallels
 

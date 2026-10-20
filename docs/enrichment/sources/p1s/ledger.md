@@ -270,3 +270,19 @@ source; anything not opened is recorded as inherited and unverified.
   attribution. UBC/Haidt/Rousseau inherited entries left as found.
 - Saturation: no new reciprocals; Implementation intentions already the linked
   target.
+
+### B049 — Rest in no-mind (mushin) (2026-10-20)
+- Opened: Takuan Soho, The Mysterious Record of Immovable Wisdom (Cleary
+  translation excerpts quoted on the Scarsdale Aikido blog page — the citable
+  open edition; the book itself is not on the owner's Drive). Both quoted
+  fragments verified verbatim against the fetched page: the sword-stopping
+  sentence and the "arms, legs and body remember what to do, but the mind
+  does not enter into this at all" sentence.
+- Seed's "Zen tradition; resonant with the skilled performer" locator replaced
+  by the actual letter; "autotelic absorption with reduced self-referential
+  processing... 2025-2026 neuroimaging meta-analyses" claim tail trimmed to a
+  bare Csikszentmihalyi attribution (the "2025-2026 meta-analyses" phrase
+  looked invented and had no opened source). Bruya/Laozi inherited entries
+  left as found.
+- Saturation: no new reciprocals; Flow, Effortless attention and Wu wei are
+  already the linked targets.
