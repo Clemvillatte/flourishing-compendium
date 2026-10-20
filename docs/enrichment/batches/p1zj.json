@@ -2,7 +2,8 @@
  "batch": "p1zj",
  "done": [
   "AF002",
-  "AF013"
+  "AF013",
+  "AF014"
  ],
  "in_progress": null,
  "flagged": {
@@ -10,6 +11,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T09:53:11+00:00",
+ "updated": "2026-10-20T09:53:51+00:00",
  "band_done": false
 }

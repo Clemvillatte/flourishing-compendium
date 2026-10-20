@@ -19,3 +19,9 @@ Band: AF002..BE033, 30 principles, degree order (queue 628-673). Advisor QC cade
 - Scope: body claims limited to the opened text (trajectory definitions, resilience common/distinct). The old unverified claims ("People who recover quickly from negative affect are less likely to develop depression") removed; the Kuppens 2012 line stays as an inherited unopened parallel in Psychology parallels, flagged here.
 - Plain words: replicate fixed (was body-copy); example replaced with labelled imagined case.
 - Proposals: reciprocals into Resilience, Emotional inertia theory, Stress cycle completion (Nagorski, Sapolsky), Equanimity (why = listed for comparison; all four pages read before proposing).
+
+## AF014 — Recognise emotional inertia: the difference between feeling and getting stuck
+- Evidence: Kuppens, Sheeber, Yap, Whittle, Simmons & Allen 2012, Clinical Psychological Science, full text PDF at ppw.kuleuven.be/okp/_pdf/Kuppens2012EIPPT.pdf, fetched this session. Two quotes verified verbatim: the definition sentence and the "Greater inertia of both negative and positive emotional behaviors predicted the emergence of clinical depression 2.5 years later" finding (N=165 early adolescents, second-by-second behavioral coding). The "held above the other risk factors" sentence is a paraphrase of the same PDF's results statement (seen in the search excerpt of the same document, not re-quoted).
+- Removed unsupported claims: "stronger predictor of depression than a feeling that fluctuates but is intense" (not established by the opened source; Houben 2015 meta-effect comparison not opened); "affect has stopped responding to the environment".
+- Plain words: replicate fixed; example replaced with labelled imagined case. Inherited parallels (Kuppens 2010; Houben 2015) kept as unopened flagged parallels.
+- Proposals: reciprocal into Emotional inertia theory (listed for comparison; page read before proposing).

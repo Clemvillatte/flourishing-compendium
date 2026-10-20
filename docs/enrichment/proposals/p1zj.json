@@ -1,6 +1,6 @@
 {
  "batch": "p1zj",
- "revision": 2,
+ "revision": 3,
  "records": [
   {
    "action": "reciprocal",
@@ -57,6 +57,13 @@
    "link": "AF013",
    "why": "listed for comparison with the principle's return-to-baseline framing",
    "notes": "page read by worker-p1zj-6b93ad57 before proposing; ground: page covers resilience/return-to-baseline/aid-to-recovery material adjacent to Bonanno 2004 opened for AF013"
+  },
+  {
+   "action": "reciprocal",
+   "into": "Emotional inertia theory",
+   "link": "AF014",
+   "why": "listed for comparison with the principle's reading of the inertia finding",
+   "notes": "page read by worker-p1zj-6b93ad57 before proposing; ground: page covers the same Kuppens 2012 finding opened for AF014"
   }
  ]
 }
