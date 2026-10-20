@@ -501,3 +501,24 @@ convention).
   Neo-Piagetian theories of cognitive development (deg 4); both bare links.
 - Saturation: fast-track exemption; no reciprocal proposed.
 - QC: validator ok.
+
+## Ecological ethics
+
+- Track: fast-track, current degree 5 (1 book + 1 layer + 3 principles).
+  Start transition recorded and pushed before research.
+- Opened: https://www.aldoleopold.org/blogs/fishes-of-the-shack (Aldo
+  Leopold Foundation blog, quoting Leopold 1949), fetched 2026-10-20.
+- Quotations, copied from the fetched page: the land-ethic passage
+  (blockquote, "A thing is right when it tends to preserve the integrity,
+  stability, and beauty of the biotic community. It is wrong when it tends
+  otherwise."); the Foundation's summary fragments ("expands the concepts
+  of morality, compassion, and obligation from human society to the
+  'land'"; "soil, water, plants, and animals").
+- The book itself (A Sand County Almanac, Oxford 1949) was NOT opened;
+  the page attributes the quote to the Foundation's hosting with its
+  "(Leopold 1949)" attribution, stated as such.
+- "Most-cited" ranking phrasing avoided per the item-14 advisor finding.
+- Related concepts verified to exist: The land ethic (deg 2), Ecological
+  self (deg 5), Stewardship (deg 1).
+- Saturation: fast-track exemption; no reciprocal proposed.
+- QC: validator ok.
