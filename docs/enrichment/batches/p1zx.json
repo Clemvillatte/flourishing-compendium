@@ -9,11 +9,11 @@
   "A062",
   "A082",
   "A083",
-  "E024",
   "A101",
   "A109",
   "A110",
-  "E019"
+  "E019",
+  "E024"
  ],
  "in_progress": null,
  "flagged": {
@@ -22,10 +22,11 @@
   "A101": "Reopened for QC: milestone QC repairs: bounded claims",
   "A109": "Reopened for QC: milestone QC repairs: bounded claims",
   "A110": "Reopened for QC: milestone QC repairs: bounded claims",
-  "E019": "Reopened for QC: milestone QC repairs: bounded claims"
+  "E019": "Reopened for QC: milestone QC repairs: bounded claims",
+  "E024": "Reopened for QC: milestone QC repairs: bounded claims"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T13:24:23+00:00",
+ "updated": "2026-10-20T13:24:36+00:00",
  "band_done": false
 }

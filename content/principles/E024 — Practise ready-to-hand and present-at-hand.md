@@ -18,13 +18,13 @@ Heidegger's two modes are best introduced by his own example, the hammer:
 
 The Being of equipment he names readiness-to-hand [Zuhandenheit], and the bare look misses it by principle: "we cannot discover anything ready-to-hand" no matter how sharply we look at the outward appearance of Things (§15). The theoretical attitude can get by without it: "If we look at Things just 'theoretically', we can get along without understanding readiness-to-hand" (§15). Using is not blind: "this activity is not a blind one; it has its own kind of sight", which he calls circumspection (§15).
 
-Present-at-hand shows up mainly when the tool fails. When equipment is damaged, missing or in the way, it turns conspicuous, obtrusive or obstinate, and presence-at-hand comes to the fore; even then, "the presence-at-hand which makes itself known is still bound up in the readiness-to-hand of equipment" (§16). The absorbed dealing is primary, and the detached stare is what remains when the dealing is interrupted.
+Section 16 examines equipment that is damaged, missing or obstructive. Presence-at-hand becomes apparent within these disruptions, but Heidegger cautions that "the presence-at-hand which makes itself known is still bound up in the readiness-to-hand of equipment" (§16).
 
 (Being and Time §§15-16, trans. Macquarrie and Robinson; full text at the Internet Archive, opened 2026-10-21.)
 
-**Plain words** Tools disappear into their use: you notice the hammer only when it breaks, and the room you are in only when the light fails. That is Heidegger's basic picture: the world shows up first as stuff to use, and only secondarily as stuff to look at. The lesson is not that looking is bad; the absorbed, using relation is the default, so treat the detached, managing stare as a mode you step into and out of.
+**Plain words** A hammer can be encountered through the work it serves or examined for its properties. A breakdown draws attention to the tool, yet that attention may remain directed toward getting the job done.
 
-*For example:* The musician mid-piece is absorbed until they notice their own hands, and the sudden objectification of the skill makes the fingers stumble.
+*For example:* Imagined example: a carpenter finds a hammer's handle cracked and examines the damage while deciding how to finish the repair.
 
 ## Sources
 
