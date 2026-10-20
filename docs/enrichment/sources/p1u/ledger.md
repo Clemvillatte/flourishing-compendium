@@ -241,7 +241,7 @@ scope error and restoration to the owner.
   No Goethe morphology equivalence or psychology effect certified.
 - Saturation: Craftsmanship research and Morphology already cite P112.
 
-## Takeover QC: milestone-20 owed review (worker-p1u-8a7ab96d, 2026-10-20; four items PASS, B195 PASS after locator revert; B135 round-3 bounded plain words applied per advisor, final re-acceptance submitted)
+## Takeover QC: milestone-20 owed review (worker-p1u-8a7ab96d, 2026-10-20; ACCEPTED 2026-10-20: B171/B184/B191/P112 PASS; B195 PASS after locator revert; B135 PASS after round-3 repairs. Milestone-20 QC CLOSED. Scope: reviewed explanations, quotations and repairs only, not inherited parallels, protected reflections or all 20 p1u pages)
 
 All six owed items re-verified against freshly opened sources before new work:
 
@@ -327,6 +327,12 @@ B171/B184/B191/P112 PASS on the supplied evidence. Two blockers:
   link-line change vs import is the predecessor's documented split of
   the joined Wittgenstein/Nirvana bullet (both wikilinks preserved);
   my changes touch only the three companion paragraphs. Validator ok.
+- ADVISOR ACCEPTANCE (round 3): B135 PASS; milestone closed. One
+  recorded correction: TWO link-line changes exist vs the import, not
+  one - the joined Wittgenstein/Nirvana bullet was split (both
+  wikilinks preserved) AND the explanatory clause after the Appraisal
+  theory wikilink was trimmed by the predecessor rewrite. Both original
+  wikilinks remain in both cases.
   closing paragraph now states explicitly that neither the verse nor
   Garfield/Priest's reading mentions a mind; Plain words re-derived
   from the opened dependent-existence discussion (samsara as this world
