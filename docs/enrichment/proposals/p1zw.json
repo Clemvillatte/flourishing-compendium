@@ -1,6 +1,6 @@
 {
  "batch": "p1zw",
- "revision": 6,
+ "revision": 7,
  "reciprocal": [
   {
    "into": "Anatta",
@@ -37,6 +37,12 @@
    "link": "K055",
    "why": "listed for comparison: the Aristotelian virtue of liberality beside K055's Buddhist perfection of giving, which locates the practice in the mind that would give.",
    "notes": "Saturation scan 2026-10-20: Generosity concept treats Aristotle NE IV.1 and Seneca; K055 grounds Gampopa's Jewel Ornament ch. 12 and Shantideva 5.9-10; the two traditions differ on where the virtue lives (right-giving vs the giving mind), which is the comparison. Prosocial spending concept already links K055."
+  },
+  {
+   "into": "The polis",
+   "link": "K067",
+   "why": "listed for comparison: Aristotle's polis as the constitutive community beside K067's Tanabean mediation of the individual through sociopolitical identity.",
+   "notes": "Saturation scan 2026-10-20: The polis concept (Politics I.2) does not link K067; both traditions treat community as prior to the individual, Tanabe with a dialectical species-structure and a recorded nationalist lapse plus correction. Social identity theory and the Umuntu ngumuntu ngabantu saying already link K067."
   }
  ]
 }
