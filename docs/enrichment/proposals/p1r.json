@@ -12,6 +12,12 @@
    "link": "P088 \u2014 Use praise and blame as instruments, not metaphysics",
    "why": "B103 handles the receiving side of the praise/blame pair (upekkha toward the eight worldly winds; worth not outsourced to others' voices). P088 handles the giving side from Dewey's angle (praise and blame shape future conduct through conditions, they are not verdicts on a free will). The two pages are complements rather than the same teaching: one steadies the person being praised or blamed, the other instructs the person doing the praising or blaming. B103's philosophy parallels currently have no principle-level link to P088 (file read and searched directly).",
    "_audit_why": "B103 and P088 files both read this session; absence of cross-link verified by grep on both files; proposal recast after advisor QC as complementary receiving/giving, not an established equivalence"
+  },
+  {
+   "into": "Responsibility (concept)",
+   "link": "P088 \u2014 Use praise and blame as instruments, not metaphysics",
+   "why": "P088's philosophy parallels link [[Responsibility]] for Dewey's reading of praise and blame as conditions that shape conduct (Human Nature and Conduct part 1 sec. 1), but the Responsibility concept's 'Cited in philosophy parallels' list has no Dewey entry (currently Aristotle NE III.1 and Levinas only). The proposal documents an existing one-way link by adding Dewey/P088 to that list. Complements the existing B103 proposal: B103 is the receiving side, P088 the giving side.",
+   "_audit_why": "Responsibility concept file read directly this session; absence of P088/Dewey verified by grep; B103 body also read in full (its Plain words frame praise/blame as weather for the receiver, which is the complementary half of P088's giving-side instrument view)"
   }
  ],
  "notes": "p1r proposals (worker-p1v-c7e4a1f9), from the item-20 milestone check and the P087 item. Reciprocals only; all other linked-concept targets inspected at items 19-20 (Savoring, Immediate and reflective value, Consummatory experience, Interest development research, Intrinsic motivation, Interest as motive) verified to already list their principle. | not deferred: 2 recips ready to apply | deferred at this run (target band busy): 1 recip, 0 inline\n- P088 reciprocal (B103) added by worker-p1r-4b7e21c9; B103 file read directly, parallels sections inspected."

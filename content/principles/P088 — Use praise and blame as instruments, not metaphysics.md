@@ -20,16 +20,16 @@ Habit, for him, is changed through its conditions:
 
 > "We cannot change habit directly: that notion is magic. But we can change it indirectly by modifying conditions, by an intelligent selecting and weighting of the objects which engage attention and which influence the fulfilment of desires." (Dewey, Human Nature and Conduct, part 1, sec. 1, [Gutenberg](https://www.gutenberg.org/cache/epub/41386/pg41386.txt))
 
-Dewey does not propose doing away with blame and approval. "There are few who do not need to be braced by occasional expressions of approval," he writes, and judgment of this kind "is certainly not one which could profitably be dispensed with" (part 4, sec. 4). But "these influences are immensely overdone in comparison with" judgments that operate without praise and blame, and the overdone kind does damage he names directly:
+Dewey does not propose doing away with blame and approval. He notes that "there are few who do not need to be braced by occasional expressions of approval" and that judgment of this kind "is certainly not one which could profitably be dispensed with" (part 4, sec. 4). But "these influences are immensely overdone in comparison with" judgments that operate without praise and blame, and the overdone kind does damage he names directly:
 
 > "Fault-finding creates resentment in the one blamed, and approval, complacency, rather than a habit of scrutinizing conduct objectively." (Dewey, Human Nature and Conduct, part 4, sec. 4, [Gutenberg](https://www.gutenberg.org/cache/epub/41386/pg41386.txt))
 
-The compendium's exercise: when you catch yourself blaming, yourself included, write one sentence naming the specific behavior and one sentence naming what should happen next time. The judgment is finished when both sentences exist.
+The compendium's exercise: when you catch yourself blaming, yourself included, write one sentence naming the specific behavior and one sentence naming what should happen next time.
 
 **Plain words**
-Before praising or blaming anyone, yourself included, ask what the person could use on the next attempt. If you can name the behavior to repeat or drop, the judgment has a job. If all you have is a feeling about the person, the judgment has no job. The question works the same way for the voice in your own head.
+Before speaking, ask what you would want the other person to take into the next attempt. Compare that answer with the words you were about to use. Keep the specific request you can explain. Use the same check when criticizing yourself.
 
-*For example:* Two managers respond to the same missed deadline. One says: "The way you flagged the schedule risk early, keep doing that; the estimate is the part to fix." The other says: "Sloppy." One of them has said something usable next time.
+*For example:* Imagine two managers responding to the same missed deadline. One says: "The way you flagged the schedule risk early, keep doing that; the estimate is the part to fix." The other says: "Sloppy."
 
 ## Sources
 
