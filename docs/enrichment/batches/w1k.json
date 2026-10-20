@@ -6,11 +6,11 @@
   "Avidya",
   "The raft",
   "Abhyasa",
-  "Lifespan development",
   "Love",
   "Svadharma, one's own duty",
   "Intuition as method",
-  "Ironic process"
+  "Ironic process",
+  "Lifespan development"
  ],
  "in_progress": null,
  "flagged": {
@@ -22,11 +22,11 @@
   "Svadharma, one's own duty": "QC3 citation-only pass: citation added to the second lead-in sentence ('The verse favours...'). Validated vs seed baseline c2a3ee47: ok.",
   "Intuition as method": "QC3 citation-only pass: citation added to the 'Analysis moves round an object...' sentence. Validated vs seed baseline c2a3ee47: ok.",
   "Ironic process": "QC3 citation-only pass: citations added to 'It distinguishes an effortful operating process...' and 'The white bear experiments found the rebound effect...'. Validated vs seed baseline c2a3ee47: ok.",
-  "Lifespan development": "QC2 REPAIR (advisor re-check): inline citation added to the two-sentence introduction (citation-placement rule). Validated vs seed baseline c2a3ee47: ok.",
+  "Lifespan development": "QC3 citation-only pass: citations added to the seed-line assertion, the 'Bleidorn et al. (2022) summarize...' sentence, and the maturity-principle lead-in. Validated vs seed baseline c2a3ee47: ok.",
   "Love": "QC2 REPAIR (advisor re-check): inline citations added to both factual lead-ins (citation-placement rule). Validated vs seed baseline c2a3ee47: ok."
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T07:23:46+00:00",
+ "updated": "2026-10-20T07:23:55+00:00",
  "band_done": false
 }
