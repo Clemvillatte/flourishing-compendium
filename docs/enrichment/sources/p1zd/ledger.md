@@ -156,3 +156,8 @@ PROTOCOL-PRINCIPLES items 6-7.
 - Source opened: Skinner 1953, Science and Human Behavior, B. F. Skinner Foundation PDF (https://www.bfskinner.org/wp-content/uploads/2014/02/ScienceHumanBehavior.pdf), pp. 73, 101, 189 (also p. 183 read: "In the long run, punishment, unlike reinforcement, works to the disadvantage of both the punished organism and the punishing agency.").
 - Verbatim as quoted on page. Corrections: old bullet "positive reinforcement is more effective than punishment, fewer side effects (Skinner 1953; Azrin & Holz 1966)" replaced by what Skinner states (punishment mainly establishes avoidance; punished behaviour re-emerges). Azrin & Holz 1966, Chung & Herrnstein 1967, Ainslie 1975 and Ferster & Skinner 1957 not opened; dropped. Immediacy claim now rests on Skinner p. 101 only.
 - Limitation: Skinner's primary text only; no modern review of punishment effects opened.
+
+## BE003 — Behaviour is triggered by context
+- Sources opened (abstracts, Europe PMC/PubMed): Wood & Neal 2007, Psychol Rev 114:843-863 (17907866); Marteau, Hollands & Fletcher 2012, Science 337:1492-1495 (22997327); Gardner 2015, Health Psychol Rev 9:277-295 (25207647).
+- Verbatim as quoted. Corrections: old body "Behaviour is not primarily driven by willpower or motivation" is not supported; Wood & Neal say goals motivate repetition and interface with habits; Marteau says automatic-process interventions "may be more effective" (proposal). Gardner 2015 added as a caution (mostly correlational, self-report). Thaler & Sunstein 2008 not opened; its claim removed from the bullet. Habit-disruption-by-context-change claim not backed by an opened empirical study; reworded.
+- Limitation: abstracts only; no full text.
