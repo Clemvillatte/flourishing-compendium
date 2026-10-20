@@ -52,3 +52,7 @@ No separate advisor tool available to this session; quotes are checked programma
 ## MO016
 - Ryan & Deci 2000 Am Psychol 55(1) (SDT-site PDF, pdftotext): six quotes grep-verified; 'effectance-promoting' is OCR-garbled as 'prorooting' in the extraction and restored. Quote on needs list includes inline citations as printed.
 - Limits: Bandura 1997, Ryan & Deci 2017 (inherited) not opened; Bandura 1977 PubMed record has no abstract. Example hypothetical.
+
+## MO013
+- Ryan & Deci 2000 (SDT-site PDF): six quotes grep-verified; school-children study is Ryan & Connell 1989 as reported by Ryan & Deci (not opened). Hayes 2006 ACT review abstract opened (PubMed 16300724) but says nothing on values, so not used; the statement's ACT claim is therefore not certified and the body says so.
+- Limits: Wilson 2010 VLQ, Sheldon & Elliot 1999 (PDF fetched but no text layer) not used.
