@@ -83,3 +83,7 @@
 ## R104
 - SEP 'Recognition' fetched (8 quotations verified); author not confirmed from fetched text so not named.
 - Limits: Honneth 1995 and Taylor 1992 not opened (quoted as reported in SEP). Statement 'you cannot be fully yourself unless identity is acknowledged' is stronger than SEP's 'harder to embrace themselves' - body uses SEP's hedged wording. Example hypothetical.
+
+## R110
+- SEP 'The Capability Approach' fetched (6 quotations verified; intro, sections 2.2, 2.3, 3.1).
+- Limits: Sen 1999, Nussbaum 2000/2011 not opened. Statement's 'life they have reason to value' is qualified by SEP (empirical applications need not commit to expanding valuable capabilities); body says so. Example hypothetical.
