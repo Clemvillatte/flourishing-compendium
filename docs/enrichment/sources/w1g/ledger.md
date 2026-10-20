@@ -762,3 +762,24 @@
   verified by grep this round; queue listing noted for the supervisor).
 - Validation: --fast-track ok (concept <15 connections; prose minimum waived; all other
   checks pass). Build ok (5718 entries, fcAuthored 976).
+
+## Strength as virtue (2026-10-20, fast-track; degree 9 — eligible)
+
+- OPENED: Friedrich Nietzsche, The Gay Science (The Joyful Wisdom), Thomas Common
+  translation (1910), full text from Project Gutenberg #52881 — downloaded via
+  curl and read directly. The aphorism-377 weakness-as-virtue sentence quoted
+  verbatim (verified in the raw text: "He may parade it as his virtue; there is
+  no doubt whatever that weakness makes people gentle, alas, so gentle, so
+  just, so inoffensive, so 'humane'!"; aphorism number 377 "We Homeless Ones"
+  confirmed by marker at line 9144). The closing paraphrases the adjacent
+  conquerors sentence ("we rejoice in all men, who, like ourselves, love danger,
+  war and adventure, who do not make compromises..."), verified in the raw text.
+  One verbatim blockquote used.
+- IS-IT-A-CONCEPT check: the phrase "strength as virtue" is not used verbatim in
+  the opened text; the page title is the compendium's heading over the aphorism's
+  strength/weakness inversion. Grep at this round: no entry in
+  concept-namespace-audit.md; on the concept-verification-queue (s2, 63w; verified
+  by grep this round). Flagged for supervisor disposition (added to the audit
+  worker-flags section this round).
+- Validation: --fast-track ok (concept <15 connections; prose minimum waived; all other
+  checks pass). Build ok (5718 entries, fcAuthored 976).

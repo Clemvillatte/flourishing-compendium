@@ -19,7 +19,8 @@
   "Thinking for doing",
   "Stream of consciousness",
   "The effort of attention",
-  "Three kinds of friendship"
+  "Three kinds of friendship",
+  "Strength as virtue"
  ],
  "in_progress": null,
  "flagged": {
@@ -34,10 +35,11 @@
   "The community of inquiry": "Reopened for QC: QC round 3: rewrite closing in own words (was near-verbatim), narrow opening claim, remove unverified CP citation, restore placeholder line",
   "Art as experience": "Reopened for QC: QC round 3: restore deleted ## Facets section; remove inflated 'governs everything' claim and not-X-but-Y closer",
   "Thinking for doing": "title pending supervisor disposition: compresses James's 'for the sake of my doing'; three-word form not verbatim; flagged in audit worker-flags section",
-  "The rehearsal of virtue": "owner-flagged hallucination (audit Category C): not a defined Stoic concept; page is a seed with no citable source; real concept to receive its links is Premeditatio malorum, which exists; NOT enriched per owner disposition"
+  "The rehearsal of virtue": "owner-flagged hallucination (audit Category C): not a defined Stoic concept; page is a seed with no citable source; real concept to receive its links is Premeditatio malorum, which exists; NOT enriched per owner disposition",
+  "Strength as virtue": "title pending supervisor disposition: compendium heading over GS V.377's strength/weakness inversion; phrase not verbatim in opened text; flagged in audit worker-flags section"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T05:24:02+00:00",
+ "updated": "2026-10-20T05:24:50+00:00",
  "band_done": false
 }
