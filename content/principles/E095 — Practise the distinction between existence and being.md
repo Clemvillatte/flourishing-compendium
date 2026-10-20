@@ -12,13 +12,26 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 487** — Practise the distinction between existence and being
 
-Recognise that there is a difference between merely existing (Dasein) and existing authentically (Existenz). Existenz, for Jaspers, is the mode of being in which you are most fully yourself — not as a given but as a possibility to be achieved. Do not confuse mere existence with authentic existence.
+In Way to Wisdom, Jaspers splits the subject-object relation into modes. "As Dasein, being-there, toward my environment" is one; "as existence toward God" is another (p. 31, trans. Manheim). Being-there is where "we are each of us a particular individual"; existence is where "we are authentically ourselves in our historicity" (p. 32). In his translation, Manheim renders Jaspers's Existenz as "existence".
 
-(Jaspers, 1932/1971, Philosophy, vols. 1-3; Heidegger, 1927/2008, Being and Time, §§4, 9.)
+### How the self is addressed
 
-**Plain words** Jaspers's distinction: merely existing (Dasein) versus existing authentically (Existenz) — the mode of being in which you are most fully yourself, not as a given but as a possibility. Existenz isn't issued at birth; it's achieved, occasionally, at cost. Aim at it.
+Existenz is not a trait you have. The moral command reaches it from inside: "The unconditional imperative comes to me as the command of my authentic self to my mere empirical existence" (p. 54). It also "is not given like empirical existence. It grows within man in time" (p. 57).
 
-*For example:* The person who exists perfectly — job, routine, opinions — and the rare afternoons when they're actually THERE, fully themselves, doing the thing that's theirs. The tradition calls those afternoons Existenz, and says they can be scheduled.
+### Heidegger uses the words differently
+
+The old cite of Heidegger needs care. In Being and Time §9 Heidegger uses "existence" for Dasein's own way of being: "The essence of Dasein lies in its existence." Dasein "is its possibility", and "has always made some sort of decision as to the way in which it is in each case mine" (§9, H. 42-43, trans. Macquarrie and Robinson). He does not equate Dasein with mere existing and Existenz with authenticity. For Heidegger both belong to Dasein.
+
+**Plain words** Jaspers separates being a particular living person in an environment from being yourself in your own history. The second is not automatic. It is a possibility you answer to when something unconditional claims you. You cannot hold it as a possession or tick it off. Heidegger would say you were already choosing, even when you thought you were not.
+
+*For example:* Imagined example: a person spends years fitting in at work, then declines a promotion that would have required lying to a client. The refusal is the first moment in years that felt like theirs.
+
+(Jaspers, Way to Wisdom, trans. Ralph Manheim (Yale, 1951), pp. 31-32, 54, 57, Internet Archive; Heidegger, Being and Time §9, trans. Macquarrie and Robinson (1962), Internet Archive; both opened 2026-10-21. Jaspers's Philosophy vols. 1-3 not opened.)
+
+## Sources
+
+- [Jaspers, Way to Wisdom, trans. Manheim, Internet Archive](https://archive.org/stream/waytowisdomintro00jasp/waytowisdomintro00jasp_djvu.txt) — pp. 31-32, 54, 57
+- [Heidegger, Being and Time, trans. Macquarrie and Robinson, Internet Archive](https://archive.org/details/being-and-time-martin-heidegger-1962) — §9
 ## Psychology parallels
 
 - **[[Authenticity|Authenticity]]** (Kernis and Goldman, 2006; Wood et al., 2008)
