@@ -12,13 +12,23 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 105** — Recognise the limits of law
 
-Law is general; particular cases are specific. No law can anticipate every situation. The gap between law and justice is filled by phronesis: the practical wisdom that knows when to follow the law and when to depart from it.
+Aristotle names the gap and the repair. The equitable is "a correction of law where it is defective owing to its universality" ([NE V.10](http://classics.mit.edu/Aristotle/nicomachaen.5.v.html)). The reason: "all law is universal but about some things it is not possible to make a universal statement which shall be correct"; the law "takes the usual case, though it is not ignorant of the possibility of error" ([NE V.10](http://classics.mit.edu/Aristotle/nicomachaen.5.v.html)). When a case arises that the universal statement does not cover, "it is right... to correct the omission — to say what the legislator himself would have said had he been present" ([NE V.10](http://classics.mit.edu/Aristotle/nicomachaen.5.v.html)). The rule he reaches for is not rigid: like "the leaden rule used in making the Lesbian moulding; the rule adapts itself to the shape of the stone and is not rigid" ([NE V.10](http://classics.mit.edu/Aristotle/nicomachaen.5.v.html)).
 
-(NE V.10, VI.8; Politics III.11.)
+> And this is the nature of the equitable, a correction of law where it is defective owing to its universality.
+>
+> Aristotle, Nicomachean Ethics V.10, translated by W. D. Ross, [Internet Classics Archive](http://classics.mit.edu/Aristotle/nicomachaen.5.v.html).
 
-**Plain words** Law is general and cases are specific, so no law covers everything. The gap between law and justice is filled by practical wisdom, which knows when to follow the law and when to depart from it.
+> When the law speaks universally, then, and a case arises on it which is not covered by the universal statement, then it is right, where the legislator fails us and has erred by oversimplicity, to correct the omission-to say what the legislator himself would have said had he been present, and would have put into his law if he had known.
+>
+> Aristotle, Nicomachean Ethics V.10, continued, translated by W. D. Ross, [Internet Classics Archive](http://classics.mit.edu/Aristotle/nicomachaen.5.v.html).
 
-*For example:* A speed limit is sensible, but a driver rushing a bleeding passenger to hospital is a case the rule didn't have in mind.
+(NE V.10; Ross translation.)
+
+### Plain words
+
+The gap is built in: rules are made for the usual case, and the unusual case still counts. Aristotle's repair is not to scrap the rule but to ask what the rule's author would have said about this case. For an exercise, take one rule that misfits a situation you know and write the one sentence the legislator would have added.
+
+For example: a speed limit is sensible, but a driver rushing a bleeding passenger to hospital is a case the rule did not have in mind. (An invented illustration.)
 
 ## Stories
 
