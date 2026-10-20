@@ -16,9 +16,9 @@ Crocker and Wolfe model self-esteem as a stake in particular domains:
 
 > "A contingency of self-worth is a domain or category of outcomes on which a person has staked his or her self-esteem, so that person's view of his or her value or worth depends on perceived successes or failures or adherence to self-standards in that domain." (Crocker & Wolfe, 2001, p. 594)
 
-In their model, state self-esteem changes with perceived successes and failures in the domains on which someone has staked self-worth, and people differ in which domains carry the stake. A later handbook chapter by the same program states the downstream cost:
+In their model, state self-esteem changes with perceived successes and failures in the domains on which someone has staked self-worth, and people differ in which domains carry the stake. Crocker and Park write:
 
-> "Because people cannot always guarantee success or avoid failure in domains of contingency, contingencies of self-worth predict instability of self-esteem, which creates vulnerability to depression." (Crocker & Park, 2011)
+> "Because people cannot always guarantee success or avoid failure in domains of contingency, contingencies of self-worth predict instability of self-esteem, which creates vulnerability to depression." (Crocker & Park, 2011, p. 310)
 
 The practice is first diagnostic: find out where your worth is actually staked before deciding what to do about it.
 
@@ -36,7 +36,7 @@ The practice is first diagnostic: find out where your worth is actually staked b
 ## Psychology parallels
 
 - **[[Contingencies of self-worth (Crocker)|Contingencies of self-worth (Crocker)]]** — the model this page applies (Crocker & Wolfe, 2001)
-- **External contingencies and depressive symptoms** — contingencies tied to external events such as others' approval predict increased depressive symptoms in college freshmen; more internal contingencies do not (Crocker & Park, 2011, reviewing Sargent & Crocker, 2006)
+- **External contingencies and depressive symptoms** — Crocker and Park report that external contingencies predicted increases in depressive symptoms over the first semester of college; the internal contingencies examined did not (2011, p. 320)
 
 ## Philosophy parallels
 

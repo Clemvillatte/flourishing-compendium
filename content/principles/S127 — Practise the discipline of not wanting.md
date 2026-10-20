@@ -12,15 +12,15 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 249** — Practise the discipline of not wanting
 
-The Stoic practises the discipline of wanting less. Each desire you drop returns attention and freedom. The practice is not elimination of desire but transformation: from wanting externals to wanting virtue.
+Epictetus's instruction is more radical than wanting less: for the present, suspend desire altogether. His stated reason is disappointment: desiring what is not in your own control guarantees it, while the things in your control that are laudable to desire are not yet in your possession. Pursuit and avoidance remain, but used lightly, with gentleness and reservation. The exercise is temporary ("for the present"), a training period rather than a doctrine of wanting nothing.
 
 > "But, for the present, totally suppress desire: for, if you desire any of the things which are not in your own control, you must necessarily be disappointed; and of those which are, and which it would be laudable to desire, nothing is yet in your possession." (Enchiridion 2, [Carter translation](https://classics.mit.edu/Epictetus/epicench.html))
 
 (Disc. I.4, I.14, I.25, III.2, III.3, III.7, III.10, III.24; Ench. 1, 2, 15, 16; Med. VI.41, VII.33, IX.6.)
 
-**Plain words** Every desire you drop hands you back attention and freedom. The Stoics didn't want to kill desire, but to re-aim it: away from things you can't control, toward who you're becoming. Wanting less isn't emptiness — it's uncluttering.
+**Plain words** Epictetus's drill is blunt: for now, want nothing. Not forever, and not because wanting is bad, but because most of what you want is not up to you, and wanting it is how disappointment gets made. When you do pursue something, pursue it lightly, ready for it to go either way.
 
-*For example:* Someone who cancels the nightly shopping-scroll and finds, to their surprise, twenty minutes and a quieter head they'd forgotten they owned.
+*For example (imagined):* Someone catches themselves refreshing a shopping app for a thing they cannot afford, names the wanting as wanting, and closes the app for the evening.
 ## Sources
 
 - [Epictetus, The Enchiridion, translated by Elizabeth Carter, MIT Classics](https://classics.mit.edu/Epictetus/epicench.html) — chapter 2

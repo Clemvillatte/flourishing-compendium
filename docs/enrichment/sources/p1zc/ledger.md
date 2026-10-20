@@ -97,3 +97,20 @@ Short, item-keyed evidence notes (owner decision 2026-10-20, PROTOCOL-PRINCIPLES
   2003 depression and anxiety" claims replaced with scoped claims grounded in the
   opened handbook chapter; the 2003 citation removed from the body locator).
 - Round 2 pending. Validator ok.
+
+## S119/S127 reopen + repair (advisor item-6 round 2)
+- S119: "Marcus begins each day" habit claim replaced with "Marcus records the exercise as
+  a morning rehearsal"; Plain words "Marcus did this every morning" replaced; nurse
+  example's promised resilience ("isn't knocked sideways") replaced with a labelled
+  imagined illustration ending in a decided response.
+- S127: body rewritten to explain Epictetus's temporary suspension instruction and its
+  stated disappointment rationale (ch. 2 opened text); "Each desire you drop returns
+  attention and freedom" and the quieter-head benefit claim removed; For example
+  replaced with a labelled imagined illustration. Both re-validated; marked done again.
+- SE021 closeout: both PDFs downloaded and text extracted directly (pdftotext); q1
+  verified on printed p. 594 (running header), handbook instability sentence on printed
+  p. 310, external-vs-internal finding on p. 320 (bibliography: Leary & Tangney eds.,
+  Handbook of Self and Identity 2nd ed., Guilford 2011); handbook locator p. 310 added
+  to the blockquote and Sources; psychology parallel rescoped to the first-semester
+  finding; "A later handbook chapter by the same program states" replaced with
+  "Crocker and Park write:".
