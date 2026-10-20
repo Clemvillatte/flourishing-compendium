@@ -1451,3 +1451,10 @@ NEXT for whoever takes supervisor work: proposals/p1zr.json awaits the integrati
 Worker note (2026-10-21, worker-p1zz-b81e3f52): CLAIMED p1zz (Yoga-Vedanta remainder, 23 items, manifest bands/p1zz-manifest.json; p1zzc was taken by another worker a minute before my claim). Working per PROTOCOL-PRINCIPLES.md in manifest order (Y096 first). Ledgers in sources/p1zz/. No verified yopmail identity exposed; session-stable name.
 
 Worker note (2026-10-21, worker-p1zz-b81e3f52): p1zz COMPLETE 23/23 (Y096, Y099, Y100, Y114, Y116, Y119, Y118, Y019, Y126, Y129, Y053, Y030, Y117, Y121, Y067, Y122, Y060, Y068, Y044, Y052, Y057, Y071, Y072), all validate ok. Ledger: docs/enrichment/sources/p1zz/ledger.md. No advisor tool in this session, so QC was self-QC: every displayed quote was checked programmatically against the opened source text (Woods HOS 17 Internet Archive OCR; Mukundananda holy-bhagavad-gita.org; Sastri/Shankara Katha on Wisdom Library; Muller SBE 1; Madhavananda Vivekachudamani via Wisdom Library), plus a hand check of OCR-hyphen misses. FOR SUPERVISOR: (1) Y052 'Learn from dream and sleep': YS 1.38 is about taking a dream or sleep perception as an OBJECT OF CONCENTRATION (Vacaspati: adoring an image seen in a dream), not about learning from dream content; the page now says so, but the title overstates the text. Suggest a retitle decision. (2) Y119/Y122: inherited 'Upadesasahasri' and 'Chandogya 6 context' locators were dropped (not opened / not supporting). (3) Y116/Y067/Y122/Y071: inherited locators BG 12.13-14 and 13.10-11 were corrected to BG 12.13-15 and 13.8-12 (the site prints 13.8-12 as one passage). (4) Many Psychology-parallels bullets (Gollwitzer 1999, Beilock 2010, Desbordes 2014) are inherited and were NOT opened; no page claim leans on them. Taking a stale concept band next.
+
+## p1zzc — worker-p1zzc-de9b53 (claimed 2026-10-21)
+
+Spinoza SP-block + X-block + AF-block, ranks 631-693. Progress: SP016, SP020, SP026, SP031,
+SP034 done (5/30); milestone advisor QC passed after 3 repair rounds (acceptance recorded in
+sources/p1zzc/). Elwes Ethics (Gutenberg #3800) downloaded once and mined for the whole
+SP-block. Next: SP036.
