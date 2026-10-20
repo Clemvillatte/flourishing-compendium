@@ -10,27 +10,29 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 “Choice of self” — Sartre, Being and Nothingness.
 
-In Being and Nothingness, Sartre holds that a person is not a thing with a ready-made essence. You are a project: a stance you keep taking toward the world and your own future. The deep layer of that stance he calls the fundamental project, the choice of self. It is not one decision among others. It is the choice that gives the smaller ones their direction, and it also settles what the past will mean. Sartre insists that a past event does not determine the present choice; the present choice determines what the past event amounts to. Even the pull of compulsion is borrowed from the free project that takes it up.
+In Being and Nothingness, Sartre holds that a person is not a thing with a ready-made essence. You are a project: a stance you keep taking toward the world and your own future. The deep layer of that stance he calls the fundamental project, the choice of self. It is not one decision among others. On his account, every attitude and conduct finds its meaning in relation to the unity of a primary choice. The same choice governs what the past will amount to: the impact of past events is determined in relation to one's present choice, not the other way round.
 
-> the free choice which a man makes of himself is completely identified with what is called his destiny — Sartre, quoted in [SEP, Sartre's political formation](https://plato.stanford.edu/entries/sartre/)
+> the free choice which a man makes of himself is completely identified with what is called his destiny — Sartre on Baudelaire, 1947a [1967: 192], quoted in [SEP, §5](https://plato.stanford.edu/entries/sartre/)
 
-There is a catch. The choice is lived, not known.
+Living out the project does not automatically mean understanding it explicitly.
 
-> if the fundamental project is fully experienced by the subject and hence wholly conscious, that certainly does not mean that it must by the same token be known by him; quite the contrary. — Sartre, Being and Nothingness (1956: 570), quoted in [SEP, §5](https://plato.stanford.edu/entries/sartre/)
+> if the fundamental project is fully experienced by the subject and hence wholly conscious, that certainly does not mean that it must by the same token be known by him; quite the contrary. — Sartre, Being and Nothingness, 1956: 570, quoted in [SEP, §5](https://plato.stanford.edu/entries/sartre/)
 
-You are your project more than you can see it. Sartre therefore proposes an existential psychoanalysis: a reading of a life that brings the initial choice to light. The choice can also go wrong in a specific way. Bad faith is the attempt to deny it — to become one's role the way a table is a table, and so be done with choosing. The waiter whose movements are a little too exact is not lacking a self; he is fleeing the one he keeps making.
+Sartre's answer is a method rather than a doctrine: an existential psychoanalysis that reads a life so as to bring the initial choice to light. The choice can also fail in a particular way. Bad faith is the attempt to be one's role as if the role were a thing one could be. Sartre's café waiter concedes there is no doubt he is in a sense a café waiter, then adds:
+
+> But if I am one, this cannot be in the mode of being-in-itself. I am a waiter in the mode of *being what I am not*. — Sartre, Being and Nothingness, 1956: 60, quoted in [SEP, §4.2](https://plato.stanford.edu/entries/sartre/)
 
 ### In the compendium
 
 - [[E039 — Practise the choice of self]] — the practice built on this concept.
-- [[E049 — Practise despair and its overcoming]] — Kierkegaard's despair as not wanting to be oneself: the refusal next door.
-- [[SE043 — Cultivate authentic identity — be who you are, not who others want]] — the identity-formation counterpart.
-- [[SE069 — Recognise identity disturbances — when self is fragmented]] — the clinical edge of an unstable self-concept.
-- [[MO030 — Learn to reduce friction for desired behaviours — make it easy]] — shaping the conditions under which the chosen self can act.
-- [[ST269 — The Waiter's Dance]] — bad faith inside a role.
-- [[ST271 — The Wheelers' Paris]] — a planned self traded away for a safer one.
-- [[ST288 — Joel and Clementine Erase Each Other]] — the self as what two people keep choosing anyway.
-- [[ST289 — Jaspers's Shipwreck]] — limit situations that throw the self back on its choice.
+- [[E049 — Practise despair and its overcoming]] — Kierkegaard's account of despair as not wanting to be oneself.
+- [[SE043 — Cultivate authentic identity — be who you are, not who others want]] — authentic identity as a practice.
+- [[SE069 — Recognise identity disturbances — when self is fragmented]] — a clinical pattern of unstable self-concept.
+- [[MO030 — Learn to reduce friction for desired behaviours — make it easy]] — shaping conditions for chosen behaviour.
+- [[ST269 — The Waiter's Dance]] — the café waiter story.
+- [[ST271 — The Wheelers' Paris]] — the Wheelers' story.
+- [[ST288 — Joel and Clementine Erase Each Other]] — the memory-erasure story.
+- [[ST289 — Jaspers's Shipwreck]] — Jaspers's limit situations.
 
 ## Related concepts
 
@@ -43,7 +45,7 @@ You are your project more than you can see it. Sartre therefore proposes an exis
 
 ## Sources
 
-- [Sartre, Being and Nothingness — passages and pagination as quoted in the Stanford Encyclopedia of Philosophy (opened)](https://plato.stanford.edu/entries/sartre/)
+- Quotations from Sartre, Being and Nothingness (1956: 60, 570) and from Sartre on Baudelaire (1947a [1967: 192]) as printed in the [Stanford Encyclopedia of Philosophy entry on Sartre (opened)](https://plato.stanford.edu/entries/sartre/)
 - Sartre, Being and Nothingness
 
 ## Cited in philosophy parallels
