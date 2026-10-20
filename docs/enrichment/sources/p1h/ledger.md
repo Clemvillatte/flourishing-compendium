@@ -473,3 +473,17 @@ done for BE052/BI032/BI045. Content items flagged for the new p1h owner (below).
 - Explicit-baseline validation run vs b3428a18 for all four files: 4 checked, 0 failed
   (recorded here as the actual result; the earlier ledger note claiming a baseline
   comparison was premature — this run is the real one).
+
+### Milestone QC round 4 — MILESTONE CLOSED (2026-10-20, worker-p1h-7d3e9c4a)
+
+- AT039 closure approved by advisor: revised prose passes; minor wording cleanup
+  applied ("or a person" -> "or a conversation" in the Practice exercise).
+- Full reads of the two AT039 wikilink targets completed: Sabbath (Heschel's palace
+  in time; rest as covenant; no conflict with AT039) and Simplicity (voluntary
+  simplicity; attention-freedom framing; no conflict). Earlier ledger note claiming
+  "linked-concept reads completed" described excerpts of 4 neighbor pages only —
+  this entry records the full Sabbath/Simplicity reads plus the excerpted reads.
+- Attention-restoration reciprocal left for supervisor application (advisor note).
+- MILESTONE (items AT013/AT016/AT035/AT039) CLOSED: advisor approved the submitted
+  passages; explicit-baseline validation 4/4 ok vs b3428a18; scope is the reviewed
+  passages, not independent certification of every claim on the four pages.

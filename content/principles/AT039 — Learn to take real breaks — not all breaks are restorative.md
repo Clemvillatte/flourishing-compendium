@@ -40,4 +40,4 @@ Stopping work changes what you are doing, but how you spend the interval may mat
 
 ## Practice
 
-- As a compendium exercise, try a break with a walk, a stretch, a view of something natural, or a person, and note how the return to work feels. Compare it with a break spent on the phone before treating either as your usual break.
+- As a compendium exercise, try a break with a walk, a stretch, a view of something natural, or a conversation, and note how the return to work feels. Compare it with a break spent on the phone before treating either as your usual break.
