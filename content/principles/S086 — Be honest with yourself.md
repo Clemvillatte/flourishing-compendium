@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 208** — Be honest with yourself
 
-The Meditations are a private notebook, and Marcus uses it to tell himself things he would not say in public. In Casaubon's translation he turns on his own reluctance and delay:
+The Stanford Encyclopedia of Philosophy says the Meditations were "written to and for himself," and that scholars now generally agree Marcus wrote them "for his own moral improvement" ([SEP, Marcus Aurelius](https://plato.stanford.edu/entries/marcus-aurelius/)). In Casaubon's translation he turns on his own reluctance and delay:
 
 > "In the morning when thou findest thyself unwilling to rise, consider with thyself presently, it is to go about a man's work that I am stirred up." (Marcus Aurelius, Meditations V.1, Casaubon translation, [Project Gutenberg](https://www.gutenberg.org/cache/epub/2680/pg2680.txt).)
 
