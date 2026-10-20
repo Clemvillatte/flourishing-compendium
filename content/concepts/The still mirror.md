@@ -12,7 +12,7 @@ The still mirror is Zhuangzi's image for a mind that responds without pursuing o
 > "The Perfect Man uses his mind like a mirror - going after nothing, welcoming nothing, responding but not storing. Therefore he can win out over things and not hurt himself."
 > — [Burton Watson, Zhuangzi, Inner Chapter 7 "Fit for Emperors and Kings"](https://terebess.hu/english/chuangtzu.html)
 
-The image returns in the Outer Chapter "The Way of Heaven." There the sage's stillness is not something he chooses because stillness is good; nothing among the ten thousand things is enough to disturb him, and "the sage's mind in stillness is the mirror of Heaven and earth, the glass of the ten thousand things" ([Burton Watson, Zhuangzi ch. 13 "The Way of Heaven"](https://terebess.hu/english/chuangtzu1.html)).
+The image returns in the Outer Chapter "The Way of Heaven." There the sage's stillness is not something he chooses because stillness is good; nothing among the ten thousand things is enough to disturb him, and "The sage's mind in stillness is the mirror of Heaven and earth, the glass of the ten thousand things." ([Burton Watson, Zhuangzi ch. 13 "The Way of Heaven"](https://terebess.hu/english/chuangtzu1.html))
 
 ### In the compendium
 

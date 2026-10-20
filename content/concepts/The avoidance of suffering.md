@@ -7,7 +7,7 @@ file: "The avoidance of suffering"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The avoidance of suffering is this compendium's label. Buddhist sources do not use the English word "avoidance" as a technical term; what they describe is aversion, a response to unpleasant sensation. The Internet Encyclopedia of Philosophy's account reads: "If the sensations are pleasant, the person usually responds with cravings for more pleasant experiences, and if the sensations are unpleasant, with aversion" ([IEP, "Buddha"](https://www.iep.utm.edu/buddha/)). The same entry lists the Pāli Nikāyas' unwholesome roots as "greed (lobha), aversion (dosa), and delusion (moha)" ([IEP, "Buddha"](https://www.iep.utm.edu/buddha/)).
+The avoidance of suffering is this compendium's label for the reflex of fleeing unsatisfactory experience. The Internet Encyclopedia of Philosophy's account of the Buddha's teaching describes this reflex as aversion, a response to unpleasant sensation: "If the sensations are pleasant, the person usually responds with cravings for more pleasant experiences, and if the sensations are unpleasant, with aversion" ([IEP, "Buddha"](https://www.iep.utm.edu/buddha/)). The same entry lists the Pāli Nikāyas' unwholesome roots as "greed (lobha), aversion (dosa), and delusion (moha)" ([IEP, "Buddha"](https://www.iep.utm.edu/buddha/)).
 
 The Second Noble Truth names craving, not avoidance, as the origin of stress. Its canonical wording is:
 
