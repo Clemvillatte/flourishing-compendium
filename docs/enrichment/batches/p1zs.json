@@ -2,7 +2,8 @@
  "batch": "p1zs",
  "done": [
   "BI020",
-  "BI023"
+  "BI023",
+  "BI027"
  ],
  "in_progress": null,
  "flagged": {
@@ -10,6 +11,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:30:37+00:00",
+ "updated": "2026-10-20T11:31:44+00:00",
  "band_done": false
 }

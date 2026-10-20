@@ -1,6 +1,6 @@
 {
  "batch": "p1zs",
- "revision": 3,
+ "revision": 4,
  "reciprocal": [
   {
    "into": "Sleep hygiene (CBT-I)",
@@ -25,6 +25,12 @@
    "link": "BI023",
    "why": "the antidepressant and anxiolytic case for movement in general, of which green exercise is the nature-based variant",
    "notes": "Evidence in sources/p1zs/BI023.md (target page read)."
+  },
+  {
+   "into": "Nature exposure",
+   "link": "BI027",
+   "why": "the movement half of the combination, grounded in the green-exercise pooled analysis",
+   "notes": "Evidence in sources/p1zs/BI027.md (Barton & Pretty 2010 opened; Nature exposure page read, covers Bratman 2015 but does not cite BI027)."
   }
  ]
 }
