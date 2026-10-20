@@ -30,9 +30,10 @@
   "Politeness Theory",
   "Rhythm in experience",
   "Vocabularies as tools",
-  "Aristotelian friendship"
+  "Aristotelian friendship",
+  "Redemption sequences"
  ],
- "in_progress": "Reading the moment",
+ "in_progress": null,
  "flagged": {
   "Koan practice": "QC round 3 RESOLVED: Showing versus saying / The limits of language glosses reduced to bare wikilinks (compendium-internal reading only); evidence-note correction: UNPROMPTED raw fetches = SEP section 2 and Mumonkan Case 1 (both retained blockquotes verified verbatim in raw text; two-methods sentence also confirmed); PROMPTED fetches = Wikipedia Koan and Case 29. Advisor round-3: everything else in the reviewed page passes.",
   "Abhyasa": "QC2 REPAIR: unverified seed opening paragraph removed per advisor (its YS 1.12-14 locator and counterpart claims were not verified from opened pages); all three edges preserved as bare Related links ([[Vairagya]], [[Habituation]], Attentional control training); all retained prose and quotes grounded in opened wisdomlib/Wikipedia pages. Validated vs baseline 9f08ef22: ok.",
@@ -60,6 +61,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:34:53+00:00",
+ "updated": "2026-10-20T11:35:45+00:00",
  "band_done": false
 }
