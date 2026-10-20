@@ -381,3 +381,17 @@ done for BE052/BI032/BI045. Content items flagged for the new p1h owner (below).
   there is" closer removed; example tail repaired (no clipped contrast).
 - Read of linked concept Implementation intentions (rich page, consistent); neighbors
   saturated (7 concepts + layer + saying); no new proposals. Validator ok.
+
+### AT016 (2026-10-20, worker-p1h-7d3e9c4a)
+
+- Source opened: Monsell 2003 "Task switching" PDF (Trends in Cognitive Sciences
+  7(3):134-140, university-hosted copy). Blockquote verbatim ("Subjects' responses are
+  substantially slower and, usually, more error-prone immediately after a task switch.
+  This 'switch cost' is reduced, but not eliminated, by an opportunity for preparation.");
+  the 200 ms / 500 ms baseline figures from the opened paper text.
+- Seed-body claims replaced: "multitasking is a myth" categorical framing (kept as a
+  described experience, scoped: the lab tasks are simple and short), "higher cognitive
+  load" and "more satisfying" (unverified) dropped; "brain politely permits you to
+  believe" and "smoke alarm conducts the audit" jokes removed; example now names the
+  switch cost in the kitchen. Plain words re-derived (bounce/re-orientation).
+- Neighbors saturated (7 concepts + layer); no new proposals. Validator ok.

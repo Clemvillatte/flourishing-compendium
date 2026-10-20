@@ -12,11 +12,20 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AT — Attentio
 ---
 > **Principle 16** — Cultivate single-tasking: do one thing at a time
 
-Multitasking — attempting to attend to multiple tasks simultaneously — is a myth. What actually happens is rapid task switching, which has measurable costs: reduced accuracy, increased time, and higher cognitive load. Single-tasking is more efficient and more satisfying.
+What feels like doing two things at once is usually switching between them, and the switching is not free. In the task-switching experiments Monsell reviews, responses right after a switch are substantially slower and usually more error-prone, with switch costs on the order of 200 ms against a 500 ms baseline, and preparation reduces the cost without eliminating it. (Monsell, 2003.)
 
-**Plain words** Multitasking is a myth the brain politely permits you to believe — what actually happens is rapid switching, and every switch pays a toll. One thing at a time isn't slow; it's the only mode that isn't taxing itself.
+> "Subjects' responses are substantially slower and, usually, more error-prone immediately after a task switch. This 'switch cost' is reduced, but not eliminated, by an opportunity for preparation." (Monsell, 2003, [Trends in Cognitive Sciences 7(3):134-140](http://epa.psy.ntu.edu.tw/perception/pdf/Monsell_2003.pdf))
 
-*For example:* "I'm great at multitasking" usually means cooking while on the phone — until the smoke alarm conducts the audit.
+The compendium's reading of single-tasking is a scheduling decision: if every switch costs time and accuracy, doing one thing at a time is the schedule with the fewest switches in it. Note the scope of the claim: the laboratory tasks are simple and short, so the experiments do not prove that every mix of everyday activities is costly. What they do show is that switching itself carries a measurable cost, which is enough for the practice below.
+
+**Plain words**
+Doing two effortful things at once usually means bouncing between them, and each bounce costs a moment of re-orientation, like reading the same sentence twice after a glance at the phone. One thing at a time is just the schedule with the fewest bounces in it.
+
+*For example:* Cooking while talking on the phone works until the pan demands attention, and the pause while you re-orient to the stove is the switch cost, in the kitchen.
+
+## Sources
+
+- [Monsell (2003), Task switching, Trends in Cognitive Sciences 7(3):134-140](http://epa.psy.ntu.edu.tw/perception/pdf/Monsell_2003.pdf)
 ## Psychology parallels
 
 - **[[Task-switching costs|Task-switching costs]]**, switching between tasks incurs time and accuracy costs (Monsell, 2003; Rubinstein et al., 2001)
