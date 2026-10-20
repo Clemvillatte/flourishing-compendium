@@ -24,7 +24,7 @@ The pattern behind that summary is worth stating precisely. In Study 1, observer
 
 The second study asked whether observers would react differently if they themselves were competing with the victim. Avoidance intentions exceeded the control condition in both competition conditions, and no statistically significant difference was detected between those two conditions. The impression did shift somewhat, with somewhat less negative judgments when observers were in competition with the victim, though the authors note the scenarios left participants somewhat in competition with the gloater in any case, since all were applying for the same job.
 
-The authors' closing line is modest and firm. Even just observing schadenfreude produces important consequences for social interactions. Those consequences, in these studies, are measured as impressions and intentions.
+The authors' closing line is modest and firm. Even just observing schadenfreude produces important consequences for social interactions, and those consequences are measured as impressions and intentions.
 
 ## In the compendium
 
