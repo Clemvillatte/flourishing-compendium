@@ -12,11 +12,20 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BE — Overt Be
 ---
 > **Principle 72** — Recognise behavioural symptoms of addiction: loss of control
 
-Addiction produces specific behavioural symptoms: loss of control over substance use or behaviour, continued use despite harm, tolerance, withdrawal. These are symptoms, not choices. They are treatable.
+Addiction's defining mark is the one this principle names. NIDA defines addiction as a chronic disease characterized by drug seeking and use that is compulsive, or difficult to control, despite harmful consequences, and notes that the initial decision to take drugs is voluntary for most people, but repeated use can lead to brain changes that challenge self-control. (NIDA, 2018.)
 
-**Plain words** Addiction's print is loss of control — the plan was one, the night was twelve; the promises, the failure, the hiding. It's not a willpower story; it's a circuitry story. And it has treatments.
+> "Addiction is a chronic disease characterized by drug seeking and use that is compulsive, or difficult to control, despite harmful consequences." (NIDA, [DrugFacts: Understanding Drug Use and Addiction](https://nida.nih.gov/publications/drugfacts/understanding-drug-use-addiction))
 
-*For example:* "Just one drink" — said sincerely, meant sincerely, wrong every time for three years. That gap between the intention and the outcome isn't a character flaw; it's the symptom doing its arithmetic.
+The compendium's rule follows the source: the gap between the intention and the outcome is part of the disorder's description, not a verdict on character. NIDA treats addiction like other chronic health conditions, with treatment that is ongoing and adjusted based on how the patient responds. (NIDA, 2018.)
+
+**Plain words**
+The intention-outcome gap is the symptom. Someone intends to have one drink and has twelve, sincerely, repeatedly, with consequences they can name. The science of addiction does not explain this as a character flaw: it describes brain changes that challenge self-control after repeated use. That is why this page's advice is to seek treatment rather than to resolve harder.
+
+*For example:* Someone says "just one drink" and means it, and the night ends elsewhere. When that gap has repeated for years, with harm they can name, this page's rule points to evaluation and treatment.
+
+## Sources
+
+- [NIDA (2018), DrugFacts: Understanding Drug Use and Addiction](https://nida.nih.gov/publications/drugfacts/understanding-drug-use-addiction)
 ## Psychology parallels
 
 - **Addiction as behavioural disorder**, loss of control is a core feature (Koob & Le Moal, 2008; APA, 2022)

@@ -654,3 +654,19 @@ pages. Continuing to AT075.
   recognising limits), The examined life (examination-not-rumination — consistent).
   Mention scan (clinical): ADHD: interest-based attention concept already cites
   AT075. Validator ok.
+
+### BE072 (2026-10-20, worker-p1h-7d3e9c4a)
+
+- Source opened: NIDA DrugFacts "Understanding Drug Use and Addiction" (nida.nih.gov,
+  opened via fetch after the science-facts page refused). Blockquote verbatim (chronic-
+  disease definition); the voluntary-decision/brain-changes sentence and the ongoing-
+  treatment sentence paraphrased from the same opened page.
+- Seed-body claims scoped: the tolerance/withdrawal symptom list replaced by NIDA's
+  own definition (the parallels keep the broader clinical detail); "not a willpower
+  story; it's a circuitry story" and "the symptom doing its arithmetic" aphorisms
+  removed; plain words re-derived (intention-outcome gap); example no longer jokes
+  ("wrong every time for three years" tail softened to the page's rule).
+- Linked-concept reads: The bondage of desire (seed, cites BE072), Freedom (Stoic
+  judgment framing — consistent with the clinical-not-moral stance). Mention scan
+  (loss of control): Contingency management theory, Motivational interviewing and
+  Evidence-based treatments concepts already cite BE072. Validator ok.
