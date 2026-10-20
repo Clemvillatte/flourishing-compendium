@@ -12,13 +12,24 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 22** — Verify in experience: test beliefs by living them
 
-A view of yourself, others, or the world is a hypothesis: run the experiment. Live as if it were true, watch what happens, revise accordingly.
+James's essay "Is Life Worth Living?" gives the mechanism: the belief is part of what makes the outcome. "You make one or the other of two possible universes true by your trust or mistrust,—both universes having been only maybes, in this particular, before you contributed your act."
+
+> You make one or the other of two possible universes true by your trust or mistrust,—both universes having been only maybes, in this particular, before you contributed your act.
+>
+> (William James, "Is Life Worth Living?")
+
+His closing instruction carries the same structure: "These, then, are my last words to you: Be not afraid of life. Believe that life is worth living, and your belief will help create the fact." The compendium's application is to treat a view of yourself the same way: its truth partly depends on whether you act from it. The test is not a thought experiment; it is the small toast.
 
 (James, The Will to Believe, 1896; Pragmatism, 1907.)
 
-**Plain words** A view of yourself, others, or the world is a hypothesis — run the experiment. Live as if it were true, watch what happens, revise accordingly. Most people die with their hypotheses untested; don't be most people.
+**Plain words**
+A belief about what you are cannot be checked from the couch; the checking is behavioral. Pick one sentence you say about yourself, design the smallest test that would count against it, and run the test this week. Whatever the result, you now know something the sentence alone could not tell you.
 
 *For example:* 'I could never speak in public' — the hypothesis, tested at one small toast, fails within ninety seconds. Experiment: one. Certainty: dead.
+
+## Sources
+
+- [William James, "Is Life Worth Living?" excerpt (Ethics of Suicide Digital Archive, University of Utah)](https://ethicsofsuicide.lib.utah.edu/selections/william-james/)
 
 ## Psychology parallels
 
