@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 114** — Understand that emotions are cognitive
 
-The Rhetoric opens its account of the emotions with a working definition: the emotions are "all those feelings that so change men as to affect their judgements, and that are also attended by pain or pleasure". Each is then defined by what it takes to be the case. Anger is "an impulse, accompanied by pain, to a conspicuous revenge for a conspicuous slight"; fear is "a pain or disturbance due to a mental picture of some destructive or painful evil in the future"; pity is pain at "some evil, destructive or painful, which befalls one who does not deserve it". The pattern is the principle: an emotion includes a view of the situation, which is why the rhetorician argues for and against emotions, and why a person can examine their own. The compendium's exercise: when an emotion arrives, ask what it is taking to be the case.
+The Rhetoric opens its account of the emotions with a working definition, quoted below: emotions are feelings that so change men as to affect their judgements, and that are attended by pain or pleasure. Each emotion is then defined by what it takes to be the case. Anger is "an impulse, accompanied by pain, to a conspicuous revenge for a conspicuous slight"; fear is "a pain or disturbance due to a mental picture of some destructive or painful evil in the future"; pity is pain at "some evil, destructive or painful, which befalls one who does not deserve it". The pattern is the principle: each definition includes a view of the situation, which is why the rhetorician analyzes what state of mind, towards whom, and on what grounds, and why a person can examine their own emotion the same way. The compendium's exercise: when an emotion arrives, ask what it is taking to be the case.
 
 (Rhetoric II.1, II.2, II.5, II.8.)
 
@@ -21,10 +21,10 @@ The Rhetoric opens its account of the emotions with a working definition: the em
 > Aristotle, Rhetoric II.1, translated by W. Rhys Roberts, [full text](https://classics.mit.edu/Aristotle/rhetoric.mb.txt).
 
 **Plain words**
-An emotion takes a position: fear says there is danger coming, anger says you were slighted, pity says someone undeserving got hurt. Because the position is inside the feeling, you can interrogate the feeling like an argument: what would have to be true for this fear to be the right response? Sometimes the answer vindicates the emotion, sometimes it dissolves it.
+An emotion comes with a view of the situation: fear pictures a future evil, anger registers a slight, pity sees undeserved harm. Because the view is inside the feeling, it can be examined, the way the Rhetoric itself examines it: what state of mind, towards whom, on what grounds.
 
 **For example**
-Feeling furious at a colleague contains a judgement that you were treated unfairly. You can ask whether that is true.
+Feeling furious at a colleague, on the Rhetoric's definition, involves a perceived slight; the examination is whether the slight is what it seems.
 
 ## Stories
 

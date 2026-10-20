@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 102** — Distinguish justice from revenge
 
-The two texts draw the line from opposite sides. Corrective justice, in Nicomachean Ethics V.4, looks only at the injury: "the law looks only to the distinctive character of the injury, and treats the parties as equal, if one is in the wrong and the other is being wronged". Anger, in Rhetoric II.2, is defined by its target and its reward: "an impulse, accompanied by pain, to a conspicuous revenge for a conspicuous slight", attended by a pleasure in the expectation of revenge. The distinction the two make together: justice measures the injury and treats the parties as equal; revenge answers a slight to oneself or one's friends and is fed by the anticipated pleasure of getting even. The compendium's exercise: when wronged, notice which question is being answered, what was done, or who was disrespected.
+The two texts give two accounts, and the page sets them side by side as a compendium application. Corrective justice, in Nicomachean Ethics V.4, looks only at the injury: "the law looks only to the distinctive character of the injury, and treats the parties as equal, if one is in the wrong and the other is being wronged, and if one inflicted injury and the other has received it". Anger, in Rhetoric II.2, is defined by its target and its reward: "an impulse, accompanied by pain, to a conspicuous revenge for a conspicuous slight", attended by a pleasure in the expectation of revenge. Read together as an application: when wronged, notice which question is being answered, what was done, or who was slighted.
 
 (NE V.4; Rhetoric II.2.)
 
@@ -21,7 +21,7 @@ The two texts draw the line from opposite sides. Corrective justice, in Nicomach
 > Aristotle, Rhetoric II.2, translated by W. Rhys Roberts, [full text](https://classics.mit.edu/Aristotle/rhetoric.mb.txt).
 
 **Plain words**
-Two questions that sound the same in a hot moment: "what was done?" and "who do they think they are?" Justice answers the first: it measures the injury, treats both sides as equal, and asks what makes it even. Anger answers the second: it fixes on the slight to you or yours, and is sweetened by the expectation of payback. Both can end in punishment; only the first answers to a measure.
+Two questions that sound the same in a hot moment: "what was done?" and "who do they think they are?" The V.4 passage answers the first: it measures the injury and treats both sides as equal. The Rhetoric passage describes the second: anger fixes on the slight to you or yours, and is sweetened by the expectation of payback. Both responses can end in punishment; the difference the two passages mark is what the response answers to.
 
 **For example**
 Reporting a theft and asking for the item back is the first kind. Slashing the thief's tyres is the second kind, done for the feeling of it.

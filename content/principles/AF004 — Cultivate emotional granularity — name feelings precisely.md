@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 4** — Cultivate emotional granularity: name feelings precisely
 
-The research behind this principle has two legs. The definition: negative emotion differentiation is "adeptness at using discrete negative emotion categories to capture one's felt experience" (Kashdan et al., 2014). The mechanism finding: in Lieberman and colleagues' imaging study, "affect labeling, relative to other forms of encoding, diminished the response of the amygdala and other limbic regions to negative emotional images", a result the authors read as naming diminishing emotional reactivity along a prefrontal pathway (Lieberman et al., 2007). The protective association runs the same way: people with greater differentiation did not show stronger distress activation during rejection, "fitting with prior evidence that negative emotion differentiation confers equanimity in emotionally upsetting situations" (Kashdan et al., 2014). The compendium's exercise: when a feeling arrives, name it with a specific word before acting on it.
+The research behind this principle has two legs, and they are different studies. The definition: negative emotion differentiation is "adeptness at using discrete negative emotion categories to capture one's felt experience" (Kashdan et al., 2014). That study examined differentiation during social rejection: people with greater differentiation, whatever their self-esteem, did not show the stronger distress activation that low-differentiation, low-self-esteem participants showed. The other leg is labeling, not differentiation: in Lieberman and colleagues' imaging study, naming an emotional image, compared with other ways of encoding it, diminished the amygdala and limbic response; the authors read this as naming diminishing reactivity along a prefrontal pathway (Lieberman et al., 2007). The compendium's exercise: when a feeling arrives, name it with a specific word before acting on it.
 
 (Kashdan et al., 2014, PLoS One; Lieberman et al., 2007, Psychological Science.)
 
@@ -21,10 +21,10 @@ The research behind this principle has two legs. The definition: negative emotio
 > Lieberman et al., 2007, Psychological Science, [PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/17576282/).
 
 **Plain words**
-"I feel bad" hides the thing you are feeling. A precise word, resentful rather than bad, does two jobs: it says what the feeling is about, and the naming itself takes some of the charge off. That is what the studies behind this page found, and the vocabulary is learnable, one distinction at a time.
+"I feel bad" hides the thing you are feeling; a precise word, resentful rather than bad, says what it is about. The studies behind this page are about that precision, each in its own way: one measured people who distinguish their negative feelings during rejection, the other measured what naming an emotional image does to the amygdala's response. Neither study tested learning a vocabulary.
 
 **For example**
-The couple who fight under the banner "I'm upset" for years, and the week they learn to say "I'm resentful about the load" versus "I'm hurt about last night," the fights turn into solvable problems.
+Someone who notices "I feel bad" and tries the more specific word, resentful, hurt, tired, is doing the distinguishing the studies measure.
 ## Psychology parallels
 
 - **[[Emotional granularity|Emotional granularity]]** (Barrett, 2004; Kashdan et al., 2015)

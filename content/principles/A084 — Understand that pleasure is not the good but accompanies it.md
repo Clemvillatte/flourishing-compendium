@@ -12,16 +12,16 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 84** — Understand that pleasure is not the good but accompanies it
 
-The Nicomachean Ethics gives pleasure two long stretches near the end, and the conclusion is the title's distinction. Those who make pleasure the chief good are answered in passing: everyone weaves pleasure into their ideal of happiness, and reasonably so, "for no activity is perfect when it is impeded, and happiness is a perfect thing"; that is why the happy life is thought pleasant. But the analysis puts pleasure in the accompanying role: pleasure completes an activity not by immanence, like the permanent state, but as an end that supervenes, the quotation below. The good is the activity; pleasure arrives with it, when object and faculty are both at their best.
+The Nicomachean Ethics discusses pleasure in two places, Book VII and Book X. Book VII asks whether pleasure is the chief good and notes why it seems so: "all men think that the happy life is pleasant and weave pleasure into their ideal of happiness-and reasonably too; for no activity is perfect when it is impeded, and happiness is a perfect thing" (VII.13). Book X analyzes what pleasure does: it completes an activity not by immanence, like the permanent state, but as an end that supervenes, the quotation below (X.4). The title's distinction follows from the analysis: pleasure arrives with activities, when object and faculty are both at their best, rather than being the good itself.
 
-(NE X, Ross; EE II.8 not opened.)
+(NE VII.13, X.4, Ross.)
 
 > Pleasure completes the activity not as the corresponding permanent state does, by its immanence, but as an end which supervenes as the bloom of youth does on those in the flower of their age.
 >
-> Aristotle, Nicomachean Ethics, Book X, translated by W. D. Ross, [full text](https://people.bu.edu/wwildman/courses/wphil/readings/wphil_rdg09_nichomacheanethics_entire.htm).
+> Aristotle, Nicomachean Ethics X.4, translated by W. D. Ross, [full text](https://people.bu.edu/wwildman/courses/wphil/readings/wphil_rdg09_nichomacheanethics_entire.htm).
 
 **Plain words**
-Aristotle is not against pleasure. The good thing is the activity itself, and pleasure arrives along with it when the activity goes well, the way a good run brings the runner's high rather than the high being the point of lacing up. The mistake the chapter corrects is treating the accompanying feeling as the goal.
+Aristotle is not against pleasure. The passages say what pleasure does: it completes activities, arriving with them when they go well, the way the bloom of youth sits on someone in their prime. The mistake the chapters correct is treating the accompanying feeling as the good itself.
 
 **For example**
 Enjoying the evening after finishing something hard feels different from arranging the evening to avoid the hard thing.
@@ -38,7 +38,7 @@ Enjoying the evening after finishing something hard feels different from arrangi
 
 ## Sources
 
-- [Nicomachean Ethics, Ross translation, full text (people.bu.edu mirror)](https://people.bu.edu/wwildman/courses/wphil/readings/wphil_rdg09_nichomacheanethics_entire.htm) — Book X, the pleasure discussion
+- [Nicomachean Ethics, Ross translation, full text (people.bu.edu mirror)](https://people.bu.edu/wwildman/courses/wphil/readings/wphil_rdg09_nichomacheanethics_entire.htm) — VII.13, X.4
 
 <!-- fc: reflections
 Where does pleasure lead your choices instead of following them? How do you notice?

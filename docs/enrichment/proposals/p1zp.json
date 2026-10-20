@@ -65,5 +65,12 @@
   "link": "Y085 — Hear the teaching first",
   "why": "Bandura's modeling covers skill absorbed from exemplars; Y085 is the principle for receiving a teaching before acting on it.",
   "notes": "Concept outside p1zp; queued for supervisor apply. #found-19 mention - concepts. Concept page does not currently cite Y085 back."
+ },
+ "supervisor note: A081/A084 duplicate blockquote (revision 7, worker-p1zq-4db4ea8b)": {
+  "source": "content/principles/A084 — Understand that pleasure is not the good but accompanies it.md",
+  "target": "content/principles/A081 — (another band's page)",
+  "link": "",
+  "why": "A081 and A084 both blockquote the same X.4 'Pleasure completes the activity' sentence.",
+  "notes": "A081 is outside both p1zp and p1zq; flagged for supervisor decision on quote diversification. #found-19 mention - principles."
  }
 }

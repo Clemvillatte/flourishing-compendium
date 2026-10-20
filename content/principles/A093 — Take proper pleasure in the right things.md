@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 93** — Take proper pleasure in the right things
 
-The rule is Book X's, quoted below: since activities differ in respect of goodness and badness, so do the pleasures, and the pleasure proper to a worthy activity is good while the pleasure proper to an unworthy one is bad. The goodness is not in the feeling itself; it rides on what the feeling completes. The Ethics' discussion of appetite adds the personal angle: different things are pleasant to different kinds of people, so the check cannot be delegated to a general rule. The exercise is the principle: ask, of each recurring pleasure, what it is attached to and what it finishes.
+The rule is Book X's, quoted below: since activities differ in respect of goodness and badness, so do the pleasures, and the pleasure proper to a worthy activity is good while the pleasure proper to an unworthy one is bad. The goodness is not in the feeling itself; it rides on what the feeling completes. The Ethics' discussion of appetite adds the personal angle: different things are pleasant to different kinds of people. The exercise is the principle: ask, of each recurring pleasure, what it is attached to and what it finishes.
 
 (NE X.5, Ross.)
 
@@ -21,10 +21,10 @@ The rule is Book X's, quoted below: since activities differ in respect of goodne
 > Aristotle, Nicomachean Ethics X.5, translated by W. D. Ross, [full text](https://people.bu.edu/wwildman/courses/wphil/readings/wphil_rdg09_nichomacheanethics_entire.htm).
 
 **Plain words**
-The feeling itself carries no verdict. What carries the verdict is the thing the feeling rides on: pleasure attached to something worth doing is part of doing it well, pleasure attached to something base is part of that. Since different people find different things pleasant, nobody else's list can do your checking for you.
+The feeling itself carries no verdict; the verdict rides on what the feeling completes. Pleasure attached to something worth doing is part of doing it well, pleasure attached to something base is part of that. Different things please different kinds of people, which is why the passage reads as an examination rather than a list.
 
 **For example**
-Laughing with friends after a hard rehearsal is pleasure attached to something shared. Laughing at someone's expense to feel big is the same bodily feeling attached to something else.
+Laughing with friends after a hard rehearsal and laughing at someone's expense are both pleasures; the passage's question is what each is attached to.
 
 ## Psychology parallels
 

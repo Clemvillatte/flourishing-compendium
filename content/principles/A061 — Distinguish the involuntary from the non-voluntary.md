@@ -21,10 +21,10 @@ Nicomachean Ethics III.1 opens with the voluntary and the involuntary, because p
 > Aristotle, Nicomachean Ethics III.1, translated by W. D. Ross, [full text](https://people.bu.edu/wwildman/courses/wphil/readings/wphil_rdg09_nichomacheanethics_entire.htm).
 
 **Plain words**
-Both cases start the same way: you did something you did not mean to, because you did not know. What splits them is what happens after you find out. If it stings and you wish you could undo it, Aristotle calls the act involuntary. If it does not sting at all, he still will not call it voluntary; it gets its own name, marking the difference.
+Both cases start the same way: you acted without knowing a circumstance that mattered. What splits them is what happens after you learn it: pain and repentance make the act involuntary; no vexation at all leaves it not voluntary, with a name of its own because the person differs from the one who repents.
 
 **For example**
-Someone who forwards a message not knowing it was private, then feels sick and tries to recall it, fits the involuntary case. Someone who shrugs at the same discovery does not, and the difference between them, on Aristotle's line, is exactly that sting.
+Someone who forwards a message not knowing it was private, then feels pain and tries to recall it, fits the involuntary case. Someone who learns the same fact and feels no vexation does not, and the difference between them, on Aristotle's line, is that pain.
 
 ## Psychology parallels
 

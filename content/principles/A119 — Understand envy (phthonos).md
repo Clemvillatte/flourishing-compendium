@@ -24,7 +24,7 @@ The Rhetoric defines envy by its pain and its target: "Envy is pain at the sight
 Envy stings at a peer's good luck, and the sting is aimed at the having: the text notes we envy equals, and that the pain is not about getting anything for yourself, it is about their having it. Emulation feels a similar sting and points it at acquiring the thing. The practical difference is what you catch yourself planning: getting better, or arranging that they stop having it.
 
 **For example**
-Seeing a friend's book deal sting, then asking "what could I learn from how she worked?" turns the sting into a plan.
+In an imagined case, one person hears of a friend's book deal and catches himself hoping it falls through; another starts work on her own manuscript. The passage's contrast is between those two next steps.
 
 ## Psychology parallels
 
