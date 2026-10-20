@@ -7,9 +7,14 @@ file: "Maya (illusion)"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-M"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter M", "parent": ""}
 ---
-Maya is the Vedanta term for the creative power by which Brahman, the ultimate reality of the Upanishads, appears as the world of experience. The Bhagavad Gita names it a divine veil of appearances that hides the self and is hard to pierce.
+In Advaita Vedanta, māyā is the creative power by which Brahman, the ultimate reality of the Upanishads, appears as the world of experience. The Bhagavad Gita's seventh chapter speaks of a "veil divine of various shows" that hides "Me" and is hard to pierce.
 
-> "Hard it is / To pierce that veil divine of various shows / Which hideth Me; yet they who worship Me / Pierce it and pass beyond." (Bhagavad Gita VII.14, [Arnold, The Song Celestial](https://www.gutenberg.org/files/2388/2388-h/2388-h.htm))
+> Hard it is
+> To pierce that veil divine of various shows
+> Which hideth Me; yet they who worship Me
+> Pierce it and pass beyond.
+>
+> (Bhagavad Gita, Chapter VII, [Arnold, The Song Celestial](https://www.gutenberg.org/files/2388/2388-h/2388-h.htm))
 
 ### What the term claims
 
@@ -26,7 +31,7 @@ In the Advaita account, "Brahman appears as the manifold objects of experience b
 
 ## Related concepts
 
-- [[Brahman]] — the power by which plurality appears on Brahman
+- [[Brahman]] — in Menon's account, appears as manifold objects through māyā
 - [[Atman]]
 - [[Avidya]] — the individual aspect of ignorance, distinct from māyā's cosmic aspect
 

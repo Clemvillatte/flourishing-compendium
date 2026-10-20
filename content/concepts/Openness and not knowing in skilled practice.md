@@ -7,7 +7,7 @@ file: "Openness and not knowing in skilled practice"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-O"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter O", "parent": ""}
 ---
-The phrase names a finding from research on expert performance: people who keep improving are the ones who stay in contact with what they cannot yet do reliably. Ericsson's account of deliberate practice has the working parts: tasks just outside current reliable performance, worked on with feedback.
+In research on expert performance, the account that separates continued improvement from plateau is Ericsson's deliberate practice: tasks just outside current reliable performance, worked on with feedback.
 
 > "The key challenge for aspiring expert performers is to avoid the arrested development associated with automaticity and to acquire cognitive skills to support their continued learning and improvement." (Ericsson, [The Influence of Experience and Deliberate Practice on the Development of Superior Expert Performance](https://www.ida.liu.se/~nilda08/Anders_Ericsson/Ericsson_delib_pract.pdf), in The Cambridge Handbook of Expertise and Expert Performance, ch. 38)
 
@@ -30,7 +30,7 @@ Deliberate practice, in his definition, "presents performers with tasks that are
 
 - [[Deliberate practice]] — the training method whose feedback loop carries the improvement
 - [[Beginner's mind]] — the stance of not assuming one already knows
-- [[Intuitive expertise]] — the fluency that resists its own inspection
+- [[Intuitive expertise]]
 
 ## Sources
 

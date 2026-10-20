@@ -2,6 +2,7 @@
  "batch": "w1h",
  "done": [
   "Non-attachment",
+  "Behavioral epigenetics",
   "Maya (illusion)",
   "Openness and not knowing in skilled practice",
   "Behavior change wheel theory Michie"
@@ -9,12 +10,12 @@
  "in_progress": null,
  "flagged": {
   "Non-attachment": "fast-track; evidence: Dhp 214 Buddharakkhita verbatim (accesstoinsight.org/tipitaka/kn/dhp/dhp.16.budd.html), Sahdra et al. 2010 PubMed abstract (pubmed.ncbi.nlm.nih.gov/20155561/), abstract-only scope; QC: advisor round-1 repairs applied, round-2 scoped PASS (CO031 gloss simplified, duplicate-page sentence removed); FLAG: duplicate of existing richer concept page Nonattachment (deg 13) — supervisor disposition pending, namespace resolution NOT closed",
-  "Maya (illusion)": "fast-track; evidence: BG VII.14 Arnold verbatim (gutenberg.org/files/2388/2388-h/2388-h.htm), Menon IEP Advaita Vedanta verbatim quotes (iep.utm.edu/adv-veda/); inherited seed gloss on [[Brahman]] link kept (grounded by IEP sentence); Atman bare link (no clause claimed); no advisor QC due (item 2; QC at item 5)",
-  "Openness and not knowing in skilled practice": "fast-track; evidence: Ericsson ch.38 PDF verbatim quotes (ida.liu.se/~nilda08/Anders_Ericsson/Ericsson_delib_pract.pdf); seed's comparative claim ('predict improvement better than certainty') re-scoped to the opened mechanism (automaticity plateau, feedback-bounded practice); D045 clause grounded in its own DDJ 11 line; no advisor QC due (item 3)",
-  "Behavior change wheel theory Michie": "fast-track; evidence: Michie et al. 2011 Implementation Science 6:42 verbatim quotes (implementationscience.biomedcentral.com/articles/10.1186/1748-5908-6-42); note: existing concept 'COM-B model theory' (deg 4) overlaps this page's hub model — cross-linked, supervisor may want consolidation; no advisor QC due (item 4)"
+  "Maya (illusion)": "fast-track; evidence: BG ch.7 Arnold verbatim (gutenberg.org/files/2388/2388-h/2388-h.htm), Menon IEP Advaita Vedanta verbatim quotes (iep.utm.edu/adv-veda/); QC: advisor round at item-5 milestone, repairs applied, awaiting round-2",
+  "Openness and not knowing in skilled practice": "fast-track; evidence: Ericsson ch.38 PDF verbatim quotes (ida.liu.se/~nilda08/Anders_Ericsson/Ericsson_delib_pract.pdf); QC: advisor round at item-5 milestone, repairs applied, awaiting round-2; EXISTENCE FLAG: Ericsson does not use the phrase 'openness and not knowing' — title may be an editorial theme rather than a defined research construct; possible overlap with [[Deliberate practice]]; IS-IT-A-CONCEPT gate unresolved, supervisor disposition requested",
+  "Behavior change wheel theory Michie": "fast-track; evidence: Michie et al. 2011 Implementation Science 6:42 verbatim quotes (implementationscience.biomedcentral.com/articles/10.1186/1748-5908-6-42); QC: advisor round at item-5 milestone, one-word quote repair applied, awaiting round-2; NOTE: existing 'COM-B model theory' page overlaps the hub model — the opened article itself places the COM-B system at the wheel's hub, so the pages can carry distinct roles; no consolidation proposed, supervisor may review"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T06:22:07+00:00",
+ "updated": "2026-10-20T06:28:12+00:00",
  "band_done": false
 }

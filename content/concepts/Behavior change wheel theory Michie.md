@@ -13,7 +13,7 @@ The behaviour change wheel is Susan Michie, Maartje van Stralen and Robert West'
 
 ### The three conditions
 
-Each condition has a definition in the paper. Capability is "the individual's psychological and physical capacity to engage in the activity concerned", including knowledge and skills. Motivation is "all those brain processes that energize and direct behaviour", not just goals and conscious decision-making. Opportunity is "all those factors that lie outside the individual that make the behaviour possible or prompt it" ([Michie et al. 2011](https://implementationscience.biomedcentral.com/articles/10.1186/1748-5908-6-42)).
+Each condition has a definition in the paper. Capability is "the individual's psychological and physical capacity to engage in the activity concerned", including knowledge and skills. Motivation is "all those brain processes that energize and direct behaviour", not just goals and conscious decision-making. Opportunity is "all the factors that lie outside the individual that make the behaviour possible or prompt it" ([Michie et al. 2011](https://implementationscience.biomedcentral.com/articles/10.1186/1748-5908-6-42)).
 
 The wheel around the hub holds nine intervention functions aimed at deficits in one or more conditions, and seven categories of policy that could enable those interventions; the review behind the framework found no existing framework covered the full range ([abstract](https://implementationscience.biomedcentral.com/articles/10.1186/1748-5908-6-42)).
 
