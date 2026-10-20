@@ -1,6 +1,6 @@
 {
  "batch": "p1zo",
- "revision": 7,
+ "revision": 8,
  "reciprocal": [
   {
    "into": "Identity development",
@@ -49,6 +49,12 @@
    "link": "SE074",
    "why": "autistic-identity findings grounding the paradigm's self-acceptance claim",
    "notes": "Concept does not link SE074. Evidence in sources/p1zo/SE074.md."
+  },
+  {
+   "into": "Socioemotional selectivity theory (Carstensen)",
+   "link": "SE075",
+   "why": "the positivity-effect evidence behind this principle's ageing-self claim",
+   "notes": "SST concept page does not link SE075. Evidence in sources/p1zo/SE075.md (Carstensen et al. 2011, opened via PMC)."
   }
  ]
 }

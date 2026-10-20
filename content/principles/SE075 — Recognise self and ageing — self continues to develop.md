@@ -12,7 +12,9 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 75** — Recognise self and ageing: self continues to develop
 
-The self continues to develop across the lifespan. Older adults show different self-patterns (more positivity, more integration, more acceptance). Ageing self is not declining self; it is developing self.
+Carstensen's experience-sampling study followed a representative sample across ten years and found that aging was associated with more positive overall emotional well-being, greater emotional stability and more complexity, robust after accounting for personality, physical health and demographic variables (Carstensen et al., 2011). The theory behind it, socioemotional selectivity, holds that as time horizons shrink, goals shift toward emotional meaning: "constraints on time horizons result in the chronic activation of goals related to emotional meaning". Ecclesiastes makes the same move without the data: "To every thing there is a season, and a time to every purpose under the heaven". On this evidence the ageing self is not a declining self; it is a self with different priorities, and measurably steadier ones.
+
+> "Cross-sectional and growth curve analyses indicate that aging is associated with more positive overall emotional well-being, with greater emotional stability and with more complexity (as evidenced by greater co-occurrence of positive and negative emotions)." (Carstensen et al., 2011, abstract)
 
 **Plain words** The self doesn't retire at sixty-five. Older adults tend toward more positivity, more integration, more "this is who I am and this is who I'm not" — a self that finally stops auditioning. Ageing isn't the loss of a self. It's the end of certain performances.
 
@@ -32,3 +34,8 @@ The self continues to develop across the lifespan. Older adults show different s
 ## Practice
 
 - As you age, recognise that the self is still developing. Lean into the strengths of older self (integration, wisdom, positivity). Work toward ego integrity — acceptance of your life as it has been.
+
+## Sources
+
+- [Carstensen, L. L., et al. (2011). Emotional experience improves with age: Evidence based on over 10 years of experience sampling. Psychology and Aging, 26(1), 21–33 — PubMed Central open text](https://pmc.ncbi.nlm.nih.gov/articles/PMC3332527/) — abstract and discussion
+- [Ecclesiastes 3:1, 3:4 (KJV) — BibleHub](https://www.biblehub.com/kjv/ecclesiastes/3.htm)
