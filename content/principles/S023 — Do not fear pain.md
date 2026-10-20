@@ -28,7 +28,7 @@ The fear of pain usually does more work than the pain itself: dread arrives firs
 ## Sources
 
 - [Seneca, Moral Letters to Lucilius, Letter 78 (Gummere, Loeb Vol. II), Internet Archive full text](https://archive.org/details/ad-lucilium-epistulae-morales) — pain endurable or short; pain slight if opinion has added nothing
-- [Marcus Aurelius, Meditations (George Long translation), Project Gutenberg](https://www.gutenberg.org/files/2680/2680-0.txt) — IX.41 (Epicurus' sickness practice), X.33 (hindrances improve the one who uses them well)
+- [Marcus Aurelius, Meditations (Meric Casaubon translation, 1634), Project Gutenberg](https://www.gutenberg.org/files/2680/2680-0.txt) — IX.41 (Epicurus' sickness practice), X.33 (hindrances improve the one who uses them well)
 
 ## Psychology parallels
 

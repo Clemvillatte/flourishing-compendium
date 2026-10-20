@@ -16,7 +16,7 @@ Epictetus devotes Discourses II.10 to exactly this question, "How we may discove
 
 > "…if you are a senator of any state, remember that you are a senator: if a youth, that you are a youth: if an old man, that you are an old man; for each of such names, if it comes to be examined, marks out the proper duties." (Epictetus, Discourses II.10, Long)
 
-Marcus uses the same image from the body: "As long as the foot doth that which belongeth unto it to do, and the hand that which belongs to it, their labour, whatsoever it be, is not unnatural" (Med. VI.31, Long). The failure mode has a name for Epictetus: "But if you go and blame your brother, I say to you, You have forgotten who you are and what is your name" (Disc. II.10). The instruction follows: ask what this role requires of me, right now, then do it.
+Marcus uses the same image from the body: "As long as the foot doth that which belongeth unto it to do, and the hand that which belongs to it, their labour, whatsoever it be, is not unnatural" (Med. VI.31, Casaubon). The failure mode has a name for Epictetus: "But if you go and blame your brother, I say to you, You have forgotten who you are and what is your name" (Disc. II.10). The instruction follows: ask what this role requires of me, right now, then do it.
 
 (Disc. II.10, III.7, III.23; Med. VI.30; Seneca, Letters 44, 71, 95.)
 
@@ -28,7 +28,7 @@ The method is naming before acting. Say what you are in this room: a father, a m
 ## Sources
 
 - [Epictetus, Discourses II.10, "How we may discover the duties of life from names" (George Long translation), Delphi Complete Works of Epictetus, owner's Drive library](https://drive.google.com/file/d/1EDkL63FuSpabjbB7amxNodYocj_q_vaH/view?usp=drive_link) — the senator/youth/old man passage and the forgotten-name diagnosis
-- [Marcus Aurelius, Meditations (George Long translation), Project Gutenberg](https://www.gutenberg.org/files/2680/2680-0.txt) — VI.31, the foot and hand doing what belongs to them
+- [Marcus Aurelius, Meditations (Meric Casaubon translation, 1634), Project Gutenberg](https://www.gutenberg.org/files/2680/2680-0.txt) — VI.31, the foot and hand doing what belongs to them
 
 ## Stories
 

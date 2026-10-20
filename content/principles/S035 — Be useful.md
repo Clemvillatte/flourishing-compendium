@@ -12,13 +12,22 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 157** — Be useful
 
-The Stoic contributes. Marcus tells himself to be a good human, to do what human nature demands: help others, contribute to the community, leave things better than he found them. Do not merely exist. Be of use.
+Marcus compares cooperation among people to the work of a body's members: "for we are all born to be fellow-workers, as the feet, the hands, and the eyelids; as the rows of the upper and under teeth" (Med. II.15, Casaubon). His examples are ordinary body parts doing ordinary work together.
+
+> "As several members in one body united, so are reasonable creatures in a body divided and dispersed, all made and prepared for one common operation." (Marcus Aurelius, Meditations VII.10, Casaubon)
+
+The continuation concerns how we regard other people: thinking of oneself as a member should involve loving them "from thy heart". The compendium's practical application is to choose a helpful task suited to the situation and one's capacities.
 
 (Med. VI.16, VII.5, VII.54; Seneca, Letters 9, 48; Disc. III.3, III.24.)
 
-**Plain words** The Stoic contributes. Marcus tells himself to be a good human and do what human nature demands: help others, contribute, leave things better than he found them. Don't merely exist. Be of use.
+**Plain words**
+Start with a manageable need: a shared chore, a question someone is struggling with, or a person who wants company. Consider what you can reasonably offer and how the other person would receive it. Marcus's continuation draws attention to the concern we bring to helping.
 
-*For example:* Staying ten minutes to tidy the shared kitchen when no one will notice.
+*For example:* Imagine a housemate is rushing to an appointment. You have ten minutes free, so you clear the dishes from the shared sink.
+
+## Sources
+
+- [Marcus Aurelius, Meditations (Meric Casaubon translation, 1634), Project Gutenberg](https://www.gutenberg.org/files/2680/2680-0.txt) — II.15 (born to be fellow-workers), VII.10 (members in one body, loving men from thy heart)
 
 ## Psychology parallels
 

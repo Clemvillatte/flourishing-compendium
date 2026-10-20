@@ -12,9 +12,9 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 153** — Do what is fitting, not what is easy
 
-The principle rests on what an act is, not on what it costs or returns. Marcus takes the morning as his test case: when you are reluctant to get up, remember that "to perform actions tending to the common good is that which thine own proper constitution, and that which the nature of man do require," for "to sleep, is common to unreasonable creatures also" (Med. VIII.11, Long).
+The principle rests on what an act is, not on what it costs or returns. Marcus takes the morning as his test case: when you are reluctant to get up, remember that "to perform actions tending to the common good is that which thine own proper constitution, and that which the nature of man do require," for "to sleep, is common to unreasonable creatures also" (Med. VIII.11, Casaubon).
 
-> "O man! what ado doest thou keep? Do what thy nature doth now require. Resolve upon it, if thou mayest: and take no thought, whether anybody shall know it or no." (Marcus Aurelius, Meditations IX.28, Long)
+> "O man! what ado doest thou keep? Do what thy nature doth now require. Resolve upon it, if thou mayest: and take no thought, whether anybody shall know it or no." (Marcus Aurelius, Meditations IX.28, Casaubon)
 
 The quote carries the "work that no one will notice" clause itself: fitting action needs no audience. The honest conversation, the refusal to join an injustice, the unseen work are fitting because of what they are. Do them because they are fitting, not because they are rewarded.
 
@@ -27,7 +27,7 @@ The hard part is usually the moment before the act, not the act itself: the conv
 
 ## Sources
 
-- [Marcus Aurelius, Meditations (George Long translation), Project Gutenberg](https://www.gutenberg.org/files/2680/2680-0.txt) — VIII.11 (reluctance and the common good), IX.28 (do what thy nature doth now require)
+- [Marcus Aurelius, Meditations (Meric Casaubon translation, 1634), Project Gutenberg](https://www.gutenberg.org/files/2680/2680-0.txt) — VIII.11 (reluctance and the common good), IX.28 (do what thy nature doth now require)
 
 ## Psychology parallels
 
