@@ -19,13 +19,18 @@ The paper's summary of the evidence at the time gave "genetics account for appro
 
 The 50/10/40 split is a cross-sectional estimate the authors drew from past twin and survey research, not a demonstration that 40% of any individual's happiness is controllable, and the interventions they discussed were, in their own words, "2 preliminary happiness-increasing interventions".
 
+### How gains erode
+
+The same research group later specified the mechanism of erosion in the hedonic adaptation prevention model (Sheldon, Boehm and Lyubomirsky 2013, the source the compendium's seed line pointed to). The model "specifies two major routes extending away from the positive events and toward final well-being". The emotions route is bottom-up: initial boosts are maintained "to the extent that there have been more discrete positive emotions experienced between Time 2 and Time 3". The aspirations route is top-down: "when things are going well, one starts to take them for granted and starts assuming that they will always be there", and "the more one's aspirations and expectancies increase, the less the resulting Time 3 well-being". The chapter's title claim, that variety is "the spice of happiness", marks the moderator the model proposes against both routes.
+
 ## Related concepts
 
 - [[Positive activity interventions]] — the downstream research line testing which practices actually move well-being
 
 ## Sources
 
-- [Lyubomirsky, Sheldon and Schkade, Pursuing happiness: the architecture of sustainable change (Review of General Psychology 9(2):111-131, 2005), full text PDF](https://greatergood.berkeley.edu/images/uploads/Pursuing_Happiness-_The_Architecture_of_Sustainable_Change.pdf) — the blockquote, the three-factor model, the variance percentages and their cross-sectional framing, the episodic-activity argument
+- [Lyubomirsky, Sheldon and Schkade, Pursuing happiness: the architecture of sustainable change (Review of General Psychology 9(2):111-131, 2005), full text PDF](https://greatergood.berkeley.edu/images/uploads/Pursuing_Happiness-_The_Architecture_of_Sustainable_Change.pdf) — the three-factor model, the variance percentages and their cross-sectional framing, the activity-vs-circumstance argument
+- [Sheldon, Boehm and Lyubomirsky, Variety is the spice of happiness: the hedonic adaptation prevention model (Oxford Handbook of Happiness, 2013), author-hosted chapter PDF](https://sonjalyubomirsky.com/wp-content/uploads/2024/07/Sheldon-Boehm-Lyubomirsky-2012.pdf) — the two erosion routes and the take-for-granted mechanism; this is the chapter the seed's 'Sheldon et al., 2013' citation points to
 
 ## Cited in psychology parallels
 

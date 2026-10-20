@@ -104,3 +104,45 @@ These sources were opened, but no subsequent content item has been started:
   Awareness sections. This is a perspective with explicit disagreements; attribute
   its account rather than presenting it as scientific consensus. Do not preserve
   unsupported inference that the term belongs exclusively to Shankara.
+
+## Session 2026-10-20 (worker-w1i-a9544a54, takeover of released band)
+
+- All principle bands were held fresh at claim time and the p1zq-p1zs reserves
+  were claimed, so per the taskboard rule a reserve request was posted on
+  TASKBOARD.md and this released concept band was taken over instead.
+- Completed in manifest order: System justification theory; Stress mindset;
+  Structural family systems theory; Sustainability of well-being gains;
+  Sustained attention theory. All fast-track (each under 15 connections).
+  Validate --fast-track passes on all five; seed Cited-in lists preserved.
+- System justification theory (item 1): source opened was Jost, Banaji and
+  Nosek 2004 (Political Psychology 25(6), author-hosted Harvard PDF), quotes
+  verified verbatim against the PDF text. Advisor first-item review FAILED the
+  draft; repairs applied (motive-strength claim qualified to the conditional
+  social-change sentence, categorical dissonance quote replaced by its full
+  conditional context, SP030 compendium use described as link-structural,
+  Related-concept glosses attributed to the review). QC status: repairs
+  applied; re-review pending, not a recorded PASS.
+- Stress mindset (item 2): Crum, Salovey and Achor 2013 (JPSP 104(4),
+  author-hosted Stanford SPARQ PDF), quotes verified against PDF text.
+  Milestone-five review later caught an altered quotation (added "and" inside
+  the quote) and an over-broad "self-report" characterization; both repaired.
+- Structural family systems theory (item 3): Vetere 2001 (Child Psychology
+  and Psychiatry Review 6(3), reprint PDF at EMU opencourses). One
+  transcription typo (outwith) was caught and fixed against the source.
+- Sustainability of well-being gains (item 4): Lyubomirsky, Sheldon and
+  Schkade 2005 (Review of General Psychology 9(2), full-text PDF). The seed's
+  "Sheldon et al., 2013" pointer was resolved by opening Sheldon, Boehm and
+  Lyubomirsky 2013 (Oxford Handbook of Happiness chapter, author-hosted PDF);
+  the page now cites both, and the HAP two-route erosion mechanism is quoted
+  from the 2013 chapter. A two-routes sentence added from an unopened source
+  was removed before push; the properly sourced version replaced it.
+- Sustained attention theory (item 5): Langner and Eickhoff 2013
+  (Psychological Bulletin 139(4), PMC full text), quotes verified against the
+  raw article text. Milestone-five advisor review FAILED the draft; repairs
+  applied (coinage claim removed, missed-signals inference deleted,
+  accounts framed non-exhaustively, blockquote replaced with a single intact
+  abstract sentence with locator, synthesis paragraph corrected to the
+  self-regulation account, unsupported Posner and Broadbent Related rows
+  removed). Re-review submitted; pending.
+- Related-concepts reciprocal proposals were skipped on all five per the
+  fast-track bar (no obviously missing reciprocal beyond what was linked).

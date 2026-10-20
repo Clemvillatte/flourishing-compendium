@@ -19,7 +19,8 @@
   "System justification theory",
   "Stress mindset",
   "Structural family systems theory",
-  "Sustainability of well-being gains"
+  "Sustainability of well-being gains",
+  "Sustained attention theory"
  ],
  "in_progress": null,
  "flagged": {
@@ -29,10 +30,10 @@
   "Self-transcendent experiences": "RESOLVED literal QC: actual abstract sentence substituted and exact-string source match passes; retained blockquote and subheading present",
   "Social cognitive career theory": "RESOLVED milestone-ten QC: source accuracy and preservation pass; three introduced bold bullet-label delimiters removed",
   "Stress cycle completion (Nagorski, Sapolsky)": "Attribution/title caveat: opened source names Emily and Amelia Nagoski; legacy Sapolsky link not certified. Supervisor rename/reference proposal in w1i-proposals.md; protected identifiers unchanged.",
-  "System justification theory": "Paused for owner priority switch to p1y after 15 completed items; no content edits or opened sources on this item. Next worker resume here; see w1i-notes.md."
+  "System justification theory": "RESOLVED by takeover session 2026-10-20: item completed with Jost, Banaji and Nosek 2004 as opened source; see w1i-notes.md session section. QC status: first-item advisor repairs applied, re-review pending."
  },
  "missing_concepts": [],
  "sources_checked": 20,
- "updated": "2026-10-20T11:33:47+00:00",
+ "updated": "2026-10-20T11:37:00+00:00",
  "band_done": false
 }
