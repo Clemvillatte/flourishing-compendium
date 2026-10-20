@@ -12,13 +12,24 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 ---
 > **Principle 2** — Include psychological richness
 
-Beyond hedonia and [[Eudaimonia|eudaimonia]], a third dimension of well-being has been proposed: psychological richness, the experience of a life that is interesting, varied, and full of perspective-changing experiences. A life can be comfortable and meaningful without being interesting. Psychological richness captures the value of novelty, challenge, and the absorption that comes from complexity.
+Beyond [[Eudaimonia|eudaimonia]] and hedonic well-being, Oishi and Westgate's proposal, from the paper's abstract:
 
-(Oishi and Westgate, 2022.)
+> Psychological science has typically conceptualized a good life in terms of either hedonic or eudaimonic well-being. We propose that psychological richness is another, neglected aspect of what people consider a good life. Unlike happy or meaningful lives, psychologically rich lives are best characterized by a variety of interesting and perspective-changing experiences. (Oishi & Westgate, 2022)
 
-**Plain words** A third kind of good life has been proposed: the psychologically rich one, interesting and varied, full of experiences that change how you see things. You can be comfortable and meaningful and still not particularly interesting. Richness values novelty and perspective.
+The abstract also records what their surveys found:
 
-*For example:* Spending six months in a country where you don't speak the language may not be pleasant or purposeful, but it leaves you seeing everything differently.
+> We present empirical evidence that happiness, meaning, and psychological richness are related but distinct and desirable aspects of a good life, with unique causes and correlates. In doing so, we show that a nontrivial number of people around the world report they would choose a psychologically rich life at the expense of a happy or meaningful life, and that approximately a third say that undoing their life's biggest regret would have made their lives psychologically richer. (Oishi & Westgate, 2022)
+
+(Oishi & Westgate, 2022, "A psychologically rich life: Beyond happiness and meaning," Psychological Review, 129(4).)
+
+**Plain words**
+The paper's claim is that "interesting, varied, perspective-changing" names a third thing people can want from a life, alongside pleasant and meaningful. The compendium's exercise: review your last month and ask whether any experience changed how you see something, however small. That is what richness is made of on this account.
+
+*For example:* Suppose you spend six months in a country whose language you do not speak. The paper's definition does not promise the time will be happy or meaningful; what it would ask is whether the experience changed your perspective.
+
+## Sources
+
+- [Oishi & Westgate, "A psychologically rich life: Beyond happiness and meaning," Psychological Review 129(4), 2022 — abstract (PubMed)](https://pubmed.ncbi.nlm.nih.gov/34383524/) — the proposal and definition passage; the survey findings passage
 
 ## Stories
 
