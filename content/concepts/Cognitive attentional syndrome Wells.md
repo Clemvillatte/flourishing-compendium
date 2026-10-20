@@ -9,11 +9,11 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY
 ---
 The cognitive attentional syndrome (CAS) is Adrian Wells's name for the style of cognition and behavior that, in his self-regulatory executive function model, underlies most psychological disorders. What it captures is the way processing is run: perseverative, self-relevant and negatively loaded.
 
-> "The CAS is a state of processing where negative self-relevant information is prioritized and becomes perseverative (i.e. extended and repetitive)." (Wells, [Breaking the Cybernetic Code](https://pmc.ncbi.nlm.nih.gov/articles/PMC6920120/), Frontiers in Psychology, 2019)
+> "The CAS is a state of processing where negative self-relevant information is prioritized and becomes perseverative (i.e. extended and repetitive)." (Wells, [Breaking the Cybernetic Code](https://pmc.ncbi.nlm.nih.gov/articles/PMC6920120/), Frontiers in Psychology, 2019, section "Outline of the Self-Regulatory Executive Function Model")
 
 ### The components
 
-In Wells's list, the perseveration takes the form of worrying or ruminating on negative and threatening events; attentional strategies of "threat-monitoring" such as checking for symptoms or scanning the environment for signs of danger; and behaviors such as avoidance, inactivity, thought suppression or substance use. His verdict on the set: "These strategies intensify and extend negative processing" ([Wells 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6920120/)). The S-REF model was a major influence on the development of metacognitive therapy ([Wells 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6920120/)).
+In Wells's list, the perseveration takes the form of worrying or ruminating on negative and threatening events; attentional strategies of "threat-monitoring" such as checking for symptoms or scanning the environment for signs of danger; and behaviors such as avoidance, inactivity, thought suppression or substance use. His verdict on the set: "These strategies intensify and extend negative processing" ([Wells 2019, section "Outline of the Self-Regulatory Executive Function Model"](https://pmc.ncbi.nlm.nih.gov/articles/PMC6920120/)). The S-REF model was a major influence on the development of metacognitive therapy ([Wells 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6920120/)).
 
 ### In the compendium
 
@@ -32,7 +32,7 @@ Attention · Psychological science
 
 ## Related concepts
 
-- [[Cognitive load theory]] — the capacity limit that perseveration monopolises
+- [[Cognitive load theory]]
 - [[Attentional control theory (Eysenck)]]
 - [[Attentional control training and the role of repeated redirection]]
 
