@@ -12,13 +12,26 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 24** — Expect latent material to surface when practice deepens
 
-The tradition warns that afflictions can be dormant, thinned, alternated, or active, and that quiet periods may mean dormancy rather than freedom; it also notes that in the gaps of practice, old patterns re-arise. Practically, treat the return of an old pattern during a good stretch as expected weather, not as proof of failure; note it, and continue.
+Sutra 2.4 rests the five hindrances on avidya "whether they be dormant or attenuated or intercepted or sustained" (trans. Woods, p. 106). Vyasa's commentary gives the first word its content: a dormant hindrance is "the tendency [of the hindrances] which remain merely potential in the mind", waking only by "the coming face-to-face with the [particular] object" (p. 107). Attenuation is likewise thinning, not deletion: "The hindrances, when overpowered by the cultivation of their opposites, become attenuated" (p. 107). The seed image is the commentary's own: the hindrances "exist merely potentially, as curds exist in milk" (p. 109).
 
-(YS 2.4-2.5; YS 4.27-4.28.)
+### The gaps in practice
 
-**Plain words** Afflictions can be dormant, thinned, alternated, or active — and quiet periods may mean dormancy, not freedom. Expect latent material to surface when practice deepens: the stilling water stirs up the sediment. A return of an old pattern after progress is the norm, not a relapse verdict.
+Sutra 4.27 describes a mind already turned toward discrimination that still "has in its intervals other presented-ideas", coming "from the dwindling seeds, from previous subliminal-impressions" (p. 339). Sutra 4.28 sets the escape from these impressions "like [the escape from] the hindrances" (p. 340). An old pattern surfacing mid-progress is the sutra's account of how practice goes, not evidence that it failed.
 
-*For example:* The meditator who hits a peaceful month and concludes they're cured — then the old anger resurfaces in week six and feels like proof of failure. It's actually the textbook pattern: dormant material surfacing as the water stills.
+### What the principle adds
+
+The weather framing and the note-it-and-continue instruction are the principle's practical reading. What the text supplies is the map: quiet can be dormancy, and the intervals of practice are where the stored seeds speak.
+
+**Plain words** An old habit is not gone while it is quiet; it is stored the way curd sits in milk, waiting for its object to walk in. Practice thins the seed rather than deleting it. So the return of an old anger in a good stretch is the stored seed waking, which is what the book says seeds do. The episode tells you what is still alive in you, not whether the work counted.
+
+*For example:* Imagined: after a peaceful month you decide the resentment about an old betrayal is finished. You meet the person at a party and it returns at full volume within minutes. The commentary's seed woke when its object appeared; the practice continues, with one more seed known by name.
+
+(Yoga Sutra 2.4 and 4.27-4.28 with Vyasa's Bhasya and Vacaspati Misra's gloss, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), pp. 106-109, 339-340, Internet Archive, opened 2026-10-21.)
+
+## Sources
+
+- [Woods, The Yoga-System of Patanjali (1914), Internet Archive](https://archive.org/details/yogasystemofpata00wooduoft) — pp. 106-109, 339-340
+
 ## Psychology parallels
 
 - **Relapse as a stage of change, not its failure** (Prochaska & DiClemente, 1983; Marlatt's relapse prevention)
