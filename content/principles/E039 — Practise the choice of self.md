@@ -14,7 +14,11 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 
 Sartre writes in Existentialism Is a Humanism:
 
-"Man is nothing else but that which he makes of himself. That is the first principle of existentialism." He reaches it from the claim that for human beings existence precedes essence: man "first of all exists, encounters himself, surges up in the world — and defines himself afterwards."
+> Man is nothing else but that which he makes of himself. That is the first principle of existentialism.
+
+He connects this to the claim that human existence precedes essence:
+
+> We mean that man first of all exists, encounters himself, surges up in the world — and defines himself afterwards.
 
 In Being and Nothingness, Sartre describes the project as requiring continual renewal:
 
