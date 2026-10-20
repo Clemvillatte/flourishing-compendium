@@ -9,16 +9,24 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Love” — Aristotle, Nicomachean Ethics VIII-VIX; Nussbaum, Upheavals of Thought.
 
-- Diener and Seligman, 2002
-- Fromm, The Art of Loving
-- Kierkegaard, Works of Love
-- Kant, Groundwork of the Metaphysics of Morals
-## Sources
+The Nicomachean Ethics devotes its eighth and ninth books to philia, the bond this translation renders "friendship", and opens by ranking it among the necessities of a human life:
 
-- Aristotle, Nicomachean Ethics VIII-VIX
+> "After what we have said, a discussion of friendship would naturally follow, since it is a virtue or implies virtue, and is besides most necessary with a view to living. For without friends no one would choose to live, though he had all other goods; even rich men and those in possession of office and of dominating power are thought to need friends most of all; for what is the use of such prosperity without the opportunity of beneficence, which is exercised chiefly and in its most laudable form towards friends?" (Aristotle, [Nicomachean Ethics VIII, trans. W. D. Ross, Internet Classics Archive](http://classics.mit.edu/Aristotle/nicomachaen.8.viii.html))
 
-- Nussbaum, Upheavals of Thought
+The books then sort what is lovable into three kinds:
+
+> "There are therefore three kinds of friendship, equal in number to the things that are lovable; for with respect to each there is a mutual and recognized love, and those who love each other wish well to each other in that respect in which they love one another." (Aristotle, [Nicomachean Ethics VIII, trans. W. D. Ross, Internet Classics Archive](http://classics.mit.edu/Aristotle/nicomachaen.8.viii.html))
 
 ## Cited in philosophy parallels
 
 - [[R049 — Practise alofa]]
+
+## Sources
+
+- Aristotle, Nicomachean Ethics VIII-VIX
+- Nussbaum, Upheavals of Thought
+- Diener and Seligman, 2002
+- Fromm, The Art of Loving
+- Kierkegaard, Works of Love
+- Kant, Groundwork of the Metaphysics of Morals
+- [Aristotle, Nicomachean Ethics, Book VIII, trans. W. D. Ross (Internet Classics Archive)](http://classics.mit.edu/Aristotle/nicomachaen.8.viii.html) — both blockquotes
