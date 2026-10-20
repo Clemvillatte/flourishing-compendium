@@ -1,6 +1,6 @@
 {
   "batch": "p1zm",
-  "revision": 8,
+  "revision": 9,
   "records": [
     {
       "action": "reciprocal",
@@ -41,22 +41,22 @@
       "action": "reciprocal",
       "into": "Values",
       "link": "PP068",
-      "why": "self-concordance: the goals that express a person's developing interests and core values are the ones that receive sustained effort and repay attainment with well-being",
-      "notes": "PP068 links [[Values]] as psychology parallel; the Values concept page's cited-in list is empty; why clause uses the opened Sheldon & Elliot abstract's dual-role finding"
+      "why": "Sheldon and Elliot's self-concordance model links goals consistent with developing interests and core values to sustained effort and well-being benefits on attainment",
+      "notes": "PP068 links [[Values]] as psychology parallel; the Values concept page's cited-in list is empty; why clause uses the opened Sheldon & Elliot abstract's dual-role finding; why clause bounded per advisor QC (no exclusivity/certainty)"
     },
     {
       "action": "reciprocal",
       "into": "Phronesis",
       "link": "PP082",
-      "why": "wise-reasoning research tests the trained judgment phronesis names: Grossmann's framework finds wise thinking varies from situation to situation, with self-focused contexts inhibiting it",
-      "notes": "PP082 links [[Phronesis]] as philosophy parallel; the Phronesis page's related-concepts list has no PP082; why clause states the opened Grossmann 2017 situational finding"
+      "why": "Listed for comparison: Grossmann's situation-sensitive psychological framework of wise reasoning",
+      "notes": "PP082 links [[Phronesis]] as philosophy parallel; the Phronesis page's related-concepts list has no PP082; why clause states the opened Grossmann 2017 situational finding; why clause reduced to labelled comparison per advisor QC (equivalence with phronesis not verified)"
     },
     {
       "action": "reciprocal",
       "into": "Practical wisdom",
       "link": "PP082",
-      "why": "the situationist pressure on trait accounts of wisdom, answered with facets: wise thinking as integration that shows up situation by situation",
-      "notes": "PP082 links [[Practical wisdom]] as philosophy parallel; the page's situationist line names the pressure PP082's situational finding speaks to; why clause grounded in the opened Grossmann 2017 finding"
+      "why": "Listed for comparison: Grossmann's situation-sensitive psychological framework of wise reasoning",
+      "notes": "PP082 links [[Practical wisdom]] as philosophy parallel; the page's situationist line names the pressure PP082's situational finding speaks to; why clause grounded in the opened Grossmann 2017 finding; why clause reduced to labelled comparison per advisor QC (no theoretical-resolution claim)"
     }
   ]
 }

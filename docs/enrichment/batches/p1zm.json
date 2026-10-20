@@ -18,11 +18,11 @@
   "PP013",
   "MO049",
   "PP019",
-  "PP043",
-  "PP063",
-  "PP068",
   "PP072",
-  "PP082"
+  "PP082",
+  "PP063",
+  "PP043",
+  "PP068"
  ],
  "in_progress": null,
  "flagged": {
@@ -40,14 +40,14 @@
   "MO049": "Reopened for QC: QC: advisor items 13-16 repairs",
   "PP013": "protected wikilink label 'Gratitude and well-being meta-analysis' mislabels Wood et al. 2010 (a review, not a meta-analysis) — label changes are validator-protected; supervisor/owner decision needed",
   "PP019": "Reopened for QC: QC: advisor items 17-22 repairs (session interrupted before final confirm)",
-  "PP043": "Reopened for QC: QC: advisor items 17-22 repairs (session interrupted before final confirm)",
-  "PP063": "Reopened for QC: QC: advisor items 17-22 repairs (session interrupted before final confirm)",
-  "PP068": "Reopened for QC: QC: advisor items 17-22 repairs (session interrupted before final confirm)",
+  "PP043": "Reopened for QC: QC repair: For example replaced with labelled imagined illustration",
+  "PP063": "Reopened for QC: QC repair: plain-words significance wording replaced with detection-claim wording",
+  "PP068": "Reopened for QC: QC repair: unverified p. 482 locator removed from abstract attribution",
   "PP072": "Reopened for QC: QC: advisor items 17-22 repairs (session interrupted before final confirm)",
   "PP082": "Reopened for QC: QC: advisor items 17-22 repairs (session interrupted before final confirm)"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T10:52:17+00:00",
+ "updated": "2026-10-20T11:19:53+00:00",
  "band_done": false
 }

@@ -21,7 +21,7 @@ The scale built on that theory, the Relational Humility Scale, is observer-rated
 **Plain words**
 Humility here is not putting yourself down. The exercise is listing where you inflate yourself and where you deflate yourself, then checking both lists against what others see. The research measures humility as what others see: someone who does not need to be superior and knows their own strengths.
 
-*For example:* The engineer who says "I don't know, show me" — the willingness to be seen not-knowing is the humility itself.
+*For example:* Imagine an engineer who lists her own assessment of her strengths and limitations, then asks a colleague she respects for the same list about her, and compares the two.
 
 ## Sources
 
