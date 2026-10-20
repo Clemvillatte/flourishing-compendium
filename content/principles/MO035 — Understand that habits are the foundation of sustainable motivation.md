@@ -17,11 +17,11 @@ Motivation science treats a habit as an action triggered automatically by contex
 > Once initiation of the action is 'transferred' to external cues, dependence on conscious attention or motivational processes is reduced.
 > (Gardner, Lally and Wardle 2012, Br J Gen Pract)
 
-The transfer is what makes habits the durable base. Motivation and attention wane, whereas habits are likely to persist even after conscious motivation or interest dissipates. Lally's real-world study tracked 96 volunteers performing a chosen daily behaviour in the same context for 12 weeks: automaticity rose along a curve that flattens, plateauing on average around 66 days with wide variation between people and behaviours, and a single missed opportunity did not materially affect the process. Aristotle gives the older version of the point: moral virtue comes about as a result of habit. The compendium's application: spend motivation on building the habit, a fixed cue in a fixed place, and let the cue carry more of the behaviour when the feeling fades.
+The transfer is what makes habits the durable base. Motivation and attention wane, whereas habits are likely to persist even after conscious motivation or interest dissipates. Lally's real-world study tracked 96 volunteers performing a chosen daily behaviour in the same context for 12 weeks: automaticity rose along an asymptotic curve, and in that study the time to reach 95 per cent of an individual's automaticity asymptote ranged from 18 to 254 days, with the plateau described as arriving on average around 66 days. Aristotle gives the older version of the point: moral virtue comes about as a result of habit. The compendium's application: spend motivation on building the habit, a fixed cue in a fixed place, and let the cue carry more of the behaviour when the feeling fades.
 
-**Plain words** Motivation is a poor engine for anything you need to do often; it is strong on some days and absent on others. A habit moves the behaviour onto something steadier, a cue in your day that asks for it the way bedtime asks for toothbrushing. Building one takes motivation, once, to fix the cue and repeat the action until it sticks. After that, the cue does more of the asking, and the behaviour leans less on the mood.
+**Plain words** Motivation is a poor engine for anything you need to do often; it is strong on some days and absent on others. A habit moves the behaviour onto something steadier, a cue in your day that asks for it the way bedtime asks for toothbrushing. Repeating the action in a consistent context can make its initiation depend less on a fresh decision each time.
 
-*For example:* A person who wants to walk daily stops deciding each morning. The shoes live by the door, the walk follows breakfast, and after some weeks the cue asks on mornings when the resolve is missing.
+*For example:* Imagine a person who wants to walk daily and stops deciding each morning: shoes by the door, walk after breakfast. On a morning when the resolve is missing, the shoes are still by the door.
 
 ## Sources
 
@@ -32,9 +32,8 @@ The transfer is what makes habits the durable base. Motivation and attention wan
 
 ## Psychology parallels
 
-- **[[Habit formation|Habit formation (Lally et al.)]]**, behaviours become automatic with repetition in consistent contexts (Lally et al., 2010; Gardner et al., 2012)
-- **Habits reduce cognitive load**, automatic behaviours do not require motivation or decision (Wood & Neal, 2007; Gardner et al., 2012)
-- **Habit automaticity plateaus around 66 days**, with wide variation across people and behaviours (Lally et al., 2010; Gardner et al., 2012)
+- **[[Habit formation|Habit formation (Lally et al.)]]**, habit formation can reduce dependence on conscious attention and motivational processes (Gardner et al., 2012)
+- **Habit automaticity was modelled in the Lally study as an asymptotic curve**, with the time to 95 per cent of an individual's asymptote ranging from 18 to 254 days (Lally et al., 2010; Gardner et al., 2012)
 
 ## Philosophy parallels
 
@@ -43,4 +42,4 @@ The transfer is what makes habits the durable base. Motivation and attention wan
 
 ## Practice
 
-- Build habits for desired behaviours: repeat in a consistent context until automatic. Do not rely on motivation; rely on habit. Once automatic, the behaviour requires less willpower.
+- Build habits for desired behaviours: repeat in a consistent context until automatic. Do not rely on motivation; rely on habit.

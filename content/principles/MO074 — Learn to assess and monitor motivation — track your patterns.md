@@ -19,7 +19,7 @@ Zimmerman's model of self-regulation runs in a cycle: forethought before the eff
 
 Socrates supplies the older slogan: "the life which is unexamined is not worth living" (Apology 38a, Jowett). The compendium's version is smaller than a life, and is the compendium's own exercise rather than something Zimmerman tested: a daily one-to-ten rating, a note on energy, a look at goal progress, kept for a fortnight. What the log can show is where the dips sit, so that adjustments to goals, environment and practice get made against data rather than mood. Treat the log as an observation, not a verdict; a pattern in it is a place to experiment.
 
-**Plain words** You track money and steps already, or know people who do; the same move can be tried on motivation. One line a day, a rating, a word on energy, is all the exercise asks for. A fortnight of honest notes can show that the afternoon dips follow a schedule rather than a character flaw, which changes what you fix: the lunch, the meeting load, the sleep, rather than yourself.
+**Plain words** Record how motivated you feel alongside the task and time of day. When reviewing the notes, look for differences worth testing. Try one adjustment and keep observing; a pattern alone does not explain its cause.
 
 *For example:* Imagine someone who has always called herself a morning person keeps the log for two weeks and finds her ratings cluster between ten and noon. The identity was not wrong so much as vague; the log gives it hours.
 
@@ -30,8 +30,7 @@ Socrates supplies the older slogan: "the life which is unexamined is not worth l
 
 ## Psychology parallels
 
-- **Self-monitoring improves motivation**, tracking motivation provides feedback (Zimmerman, 2002; Michie et al., 2011)
-- **Calibration and feedback**, tracking improves calibration (Tetlock, 2005)
+- **Self-observation and self-recording**, Zimmerman's account of self-recording personal events and self-experimentation as performance-phase processes (Zimmerman, 2002)
 
 ## Philosophy parallels
 

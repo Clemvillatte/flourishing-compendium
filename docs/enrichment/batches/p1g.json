@@ -57,11 +57,14 @@
   "MO056": "QC-pending RESOLVED: supervisor-0ddcdd37 accepted (2026-10-20T01:5xZ) — round-17 corrections hold; quote verified verbatim vs freshly opened source (MIT Classics / Gutenberg Legge / Columbia AFE); body scopes the comparison and avoids overreach.",
   "MO059": "QC-pending RESOLVED: supervisor-0ddcdd37 accepted (2026-10-20T01:5xZ) — round-17 corrections hold; quote verified verbatim vs freshly opened source (MIT Classics / Gutenberg Legge / Columbia AFE); body scopes the comparison and avoids overreach.",
   "MO060": "QC-pending RESOLVED: supervisor-0ddcdd37 accepted (2026-10-20T01:5xZ) — round-17 corrections hold; quote verified verbatim vs freshly opened source (MIT Classics / Gutenberg Legge / Columbia AFE); body scopes the comparison and avoids overreach.",
-  "MO066": "QC-pending RESOLVED: supervisor-0ddcdd37 accepted (2026-10-20T01:5xZ) — round-17 corrections hold; quote verified verbatim vs freshly opened source (MIT Classics / Gutenberg Legge / Columbia AFE); body scopes the comparison and avoids overreach."
+  "MO066": "QC-pending RESOLVED: supervisor-0ddcdd37 accepted (2026-10-20T01:5xZ) — round-17 corrections hold; quote verified verbatim vs freshly opened source (MIT Classics / Gutenberg Legge / Columbia AFE); body scopes the comparison and avoids overreach.",
+  "MO035": "QC round-2 repairs applied (advisor item-5 checkpoint): absolutes removed, 66-day scoped to the Lally study, Gardner et al. year corrected to 2012; re-review pending",
+  "MO046": "QC round-2 repairs applied: universal claims replaced with experiment-scoped sentences, unlinked psychology bullets removed, five-minute rule prediction removed; re-review pending",
+  "MO074": "QC round-2 repairs applied: plain words replaced with advisor version (no cause inference from pattern), Michie/Tetlock bullets replaced with Zimmerman-scoped account; re-review pending"
  },
  "missing_concepts": [],
  "sources_checked": 15,
- "updated": "2026-10-20T03:41:13+00:00",
+ "updated": "2026-10-20T03:48:26+00:00",
  "band_done": false,
  "takeover": {
   "by": "genuineflourishing35",
