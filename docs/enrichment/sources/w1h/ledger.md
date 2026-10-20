@@ -450,3 +450,12 @@
   participants after exclusions, "unable to replicate the finding under any
   conditions" passage quoted verbatim from the abstract; 2022 replication
   section added with source link. Item 4 QC now complete (was provisional).
+
+## Narrative repair (fast-track)
+- Opened: IEP "Feminist Ethics and Narrative Ethics" (Tong and Williams) —
+  counterstory definition quoted verbatim as carried by the entry (Lindemann
+  2001, p. 150); narrative-constitution premise and two-kinds-of-damage
+  passages paraphrased from the entry. Cornell book record opened for the
+  publisher's description (cases list); the book itself NOT opened.
+  Related concepts: The hermeneutics of suspicion, Meaning-making, Narrative
+  redemption sequences (minimal descriptive clauses).
