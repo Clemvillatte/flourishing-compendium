@@ -21,7 +21,7 @@ The Treatise's floor is the ten nonvirtuous paths of action: killing, stealing, 
 **Plain words**
 The tradition counts a pull toward repeating a harmful act among that act's own effects. That part you can check in a week of your own life: pick one action you repeated, and ask whether the repetition made it easier, and whether you would handle the next occasion the same way. The ten nonvirtuous paths are the tradition's floor list of what to stop doing.
 
-*For example:* Each night you snap at the kids "just this once," and by the end of the month it's who you are at 6pm.
+*For example:* Each night you might snap at the kids "just this once"; by the end of the month it's who you are at 6pm.
 
 ## Sources
 
