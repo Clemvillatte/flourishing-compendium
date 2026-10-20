@@ -12,18 +12,30 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 72** — Take the free person's signs as a monthly audit
 
-Part IV closes with an appendix of thirty-two items on the right way of life, from directing the mind toward adequate ideas and shunning the favors of the crowd, through overcoming evil with good and being neither glad at another's loss nor envious, to despising nothing and being cheerful. The list is the Ethics' own self-assessment instrument, and it works exactly like the tradition's virtue lists: read monthly, one clause per week, as an examination of conscience without the guilt.
+Part IV closes with an appendix that rearranges the part's practical teaching under heads. Its summary item states the aim: "in life it is before all things useful to perfect the understanding, or reason, as far as we can", and the last item ends with the equal mind: "we shall bear with an equal mind all that happens to us in contravention to the claims of our own advantage, so long as we are conscious, that we have done our duty... remembering that we are a part of universal nature, and that we follow her order". The items between are things a person can check: "Yet minds are not conquered by force, but by love and high-mindedness", and men influenced by envy or hatred toward one another are at variance and therefore to be feared.
 
-(Ethics IV, Appendix, its thirty-two items.)
+The related propositions carry the same audit character: the strong man "hates no man, is angry with no man, envies no man, is indignant with no man, despises no man, and least of all things is proud" (note to IV.73), and mirth "cannot be excessive, but is always good" (IV.42).
 
-**Plain words** Part IV closes with thirty-two items on the right way of living — from directing the mind toward adequate ideas, through overcoming evil with good, to being neither glad at another's loss. Take the list as a monthly audit: thirty-two boxes, honestly ticked, once a month.
+As a compendium exercise, take the list as this page's title suggests: read it monthly, one or two items at a time, and mark which items describe you.
 
-*For example:* Someone prints the list and runs it like a pilot's checklist on the first Sunday — twenty-six ticks, four honest fails, one project for the month. Not a guilt instrument; a diagnostic. The tradition's own design was: the free life is auditable.
+> "Yet minds are not conquered by force, but by love and high-mindedness." (Ethics IV, Appendix, XI, Elwes)
+
+**Plain words**
+The appendix exists because the Ethics argues in pieces; the list gathers the pieces into something you can hold in one view. Read it top to bottom and ask, item by item, whether it describes you. Not as a verdict: as a location. The list tells you where you stand, and the propositions tell you why.
+
+**For example**
+In an imagined application, someone reads the appendix on the first Sunday of each month and picks the one item that least describes them as the month's single project.
+
+## Sources
+
+- [The Ethics, Elwes translation, Project Gutenberg](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm) — Part IV Appendix (items II, IV, X, XI, XXXII); IV.42; IV.70; note to IV.73
+
 ## Psychology parallels
 
-- **[[Self-monitoring (Michie et al.)|Self-monitoring as intervention]]**, the reliable effect of tracking on behavior
+- **[[Self-monitoring (Michie et al.)|Self-monitoring as intervention]]**
 
 ## Philosophy parallels
 
 - **[[The portrait of the sage|The portrait of the sage]]** (BG 12.13-14)
-- **[[The divine dispositions|The divine dispositions]]** (BG 16.1-3)- **[[The free person|The free person]]** (Spinozism)
+- **[[The divine dispositions|The divine dispositions]]** (BG 16.1-3)
+- **[[The free person|The free person]]** (Spinozism)
