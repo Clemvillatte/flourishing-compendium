@@ -1,12 +1,18 @@
 {
  "batch": "p1zo",
- "revision": 1,
+ "revision": 2,
  "reciprocal": [
   {
    "into": "Identity development",
    "link": "SE037",
    "why": "Marcia's identity statuses operationalise the exploration-and-commitment process this page describes",
    "notes": "Concept page cites Erikson/Kroger and SE035/SE074 but not SE037; evidence in sources/p1zo/SE037.md (Marcia 1966, opened)."
+  },
+  {
+   "into": "Anatta",
+   "link": "SE045",
+   "why": "the Buddhist analysis behind this principle's core test (SN 22.59 is the source of its blockquote)",
+   "notes": "Anatta page links D087 (Daoist near-duplicate) but not SE045; evidence in sources/p1zo/SE045.md."
   }
  ]
 }
