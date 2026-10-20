@@ -1,0 +1,16 @@
+# Directed attention fatigue — evidence record (w1e, normal bar)
+
+- Degree check: seed page 72 words, 9 principle links + no concept links → NOT fast-track eligible (needs a real body with sources); enriched at the normal bar.
+- IS-IT-A-CONCEPT check: real construct of Kaplan's Attention Restoration Theory; compendium already has the principle pages AT003/AT037/AT033 but no concept page for the fatigue itself. Kept.
+- Opened sources:
+  1. Kaplan, S. (1995). The Urban Forest as a Source of Psychological Well-Being, in Bradley (Ed.), Urban Forest Landscapes, University of Washington Press, pp. 100-108 — full text opened (PDF retrieved via the Internet Archive snapshot of the wulfenfoo mirror, 20240803032059; the Deep Blue originals are behind a bot wall and the archived PDF is the copy actually opened). Quotes verified character-for-character against pdftotext extraction:
+     - "we call upon when working in a distracting surrounding or when trying to make a decision about a complex situation. It takes effort, and it is susceptible to fatigue" (p. 2)
+     - "Directed attention is effortful, it is subject to voluntary control, and it is susceptible to fatigue. Fascination, by contrast, is at the opposite pole on each of these dimensions. In terms of our analysis of 'mental fatigue' then, it is more useful to name the syndrome in terms of what is actually becoming fatigued -- hence we call it Directed Attention Fatigue." (p. 2; the source uses double hyphen "--", reproduced as printed)
+     - "It leads to difficulty in sustaining a line of thought; one is readily deflected or distracted. There is limited ability to analyze, to plan, to decide." (p. 4)
+     - "resistant to helping others in need" (p. 5; from the fatigue-and-feelings paragraph)
+     - "Fascination, the other form of attention, is itself resistant to fatigue and permits directed attention to rest" (p. 5)
+     - "an opportunity for reflection" (p. 5)
+  2. Kaplan, S. and Berman, M. G. (2010), Perspect Psychol Sci 5(1):43-57, PMID 26162062 — abstract opened via NCBI efetch (efetch.fcgi, rettype=abstract; PubMed HTML itself is bot-walled). Quoted fragment "the shared resource between self-regulation and executive functioning" and the intervention-improvement sentence paraphrased from the abstract.
+- Scoping: the seed's "Kaplan, 1995" line is ambiguous between the JEP article (The restorative benefits of nature, J. Environ. Psychol. 15:169-182) and the same-year book chapter; the JEP full text and ScienceDirect page are paywalled/bot-walled, so the chapter actually opened is cited with its full bibliographic details, and the seed lines remain in Sources unchanged. No claim on the page relies on the JEP text specifically. The 2010 review is cited at abstract level only; the page does not attribute any study detail beyond the abstract.
+- Page structure: seed opening line kept unbolded per the Peak experiences exemplar; "## Facets" kept; all nine original wikilinks preserved in place (two under Cited in psychology parallels, seven bare); Related concepts limited to existing pages (Restorative environments, Nature exposure, Ego depletion — existence checked).
+- Validator: ok (plain, no fast-track flag).
