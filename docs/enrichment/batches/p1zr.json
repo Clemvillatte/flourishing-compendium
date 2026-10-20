@@ -26,13 +26,12 @@
   "BE053",
   "BE054",
   "BE073",
-  "BE074",
   "BE076",
   "BE077",
   "BI006",
   "BI011"
  ],
- "in_progress": null,
+ "in_progress": "BE074",
  "flagged": {
   "AF059": "Reopened for QC: takeover QC round 3 (advisor): Practice outcome promise replaced with source-bounded guidance",
   "AF063": "Reopened for QC: takeover QC round 4 (advisor): Plain-words staging + attention-training mechanism overstatement + For example construction + introduction framing accuracy",
@@ -41,10 +40,11 @@
   "BE008": "inherited-unverified attributions: Buddhism (The middle way), Heraclitus (fragments) — philosophy-parallel bullets not verified against opened sources this session; supervisor review requested",
   "BE046": "Reopened for QC: milestone QC: source-scope repairs required",
   "BE053": "Reopened for QC: milestone QC repairs applied",
-  "BE054": "Reopened for QC: milestone QC repairs applied"
+  "BE054": "Reopened for QC: milestone QC repairs applied",
+  "BE074": "Reopened for QC: QC milestone: unsupported clinical generalisations, NICE quote structure, Practice absolute"
  },
  "missing_concepts": [],
  "sources_checked": 5,
- "updated": "2026-10-20T14:08:20+00:00",
+ "updated": "2026-10-20T14:12:31+00:00",
  "band_done": false
 }
