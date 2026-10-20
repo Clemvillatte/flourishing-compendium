@@ -12,13 +12,19 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 119** — Understand envy (phthonos)
 
-Envy is a pain caused by the good fortune of others. It involves a judgment that another's success diminishes you. Examine your envy. Does another's good truly threaten you? Can you convert envy into emulation (zeal to equal or surpass)?
+The Rhetoric defines envy by its pain and its target: "Envy is pain at the sight of such good fortune as consists of the good things already mentioned; we feel it towards our equals; not with the idea of getting something for ourselves, but because the other people have it". The next chapter sets emulation against it, in the quotation below. The two share the sting and differ in what follows it: emulation takes steps to secure the good thing, envy takes steps to stop the neighbour having it. The compendium's exercise, straight from that contrast: when the sting arrives, ask which next step is being imagined.
 
-(Rhetoric II.10; NE II.7, IV.9.)
+(Rhetoric II.10-11.)
 
-**Plain words** Envy is pain at someone else's good fortune, and it judges that their success shrinks you. Ask whether it truly does. Then see if you can turn it into emulation: wanting to rise to their level, not pull them down.
+> Emulation makes us take steps to secure the good things in question, envy makes us take steps to stop our neighbour having them.
+>
+> Aristotle, Rhetoric II.11, translated by W. Rhys Roberts, [full text](https://classics.mit.edu/Aristotle/rhetoric.mb.txt).
 
-*For example:* Seeing a friend's book deal sting, then asking "what could I learn from how she worked?" turns the sting into a plan.
+**Plain words**
+Envy stings at a peer's good luck, and the sting is aimed at the having: the text notes we envy equals, and that the pain is not about getting anything for yourself, it is about their having it. Emulation feels a similar sting and points it at acquiring the thing. The practical difference is what you catch yourself planning: getting better, or arranging that they stop having it.
+
+**For example**
+Seeing a friend's book deal sting, then asking "what could I learn from how she worked?" turns the sting into a plan.
 
 ## Psychology parallels
 
@@ -29,6 +35,10 @@ Envy is a pain caused by the good fortune of others. It involves a judgment that
 
 - **[[Righteous indignation (nemesis)|Righteous indignation (nemesis)]]** (Aristotle, NE IV.9)
 - **[[Mudita (sympathetic joy)|Mudita (sympathetic joy)]]** (Buddhist tradition)
+
+## Sources
+
+- [Rhetoric, Rhys Roberts translation, full text (Internet Classics Archive)](https://classics.mit.edu/Aristotle/rhetoric.mb.txt) — II.10, II.11
 
 <!-- fc: reflections
 Whose success stings you, and what is the story behind that sting?
