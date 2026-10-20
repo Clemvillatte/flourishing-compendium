@@ -227,3 +227,17 @@ priority, then B items in manifest order (manifest lists bare IDs; no titles).
 - Limitations: inherited parallels (Gross 1998; Rozin and Royzman 2001; Weil;
   Aristotle NE II) NOT opened; flagged inherited parallels. Linked concepts
   (Negativity bias, Attention, Habituation) skimmed as seeds only.
+
+## B089 — Intervene at intention
+
+- Opened: https://www.accesstoinsight.org/tipitaka/sn/sn12/sn12.038.than.html (SN 12.38
+  Cetana Sutta, Thanissaro translation) — intention passage verified; Dhp 1-2 reused
+  from the B086 opening of the same page (research batching).
+- Verbatim quotes used: SN 12.38 "What one intends, what one arranges, and what one
+  obsesses about: This is a support for the stationing of consciousness."; Dhp 1 ox-wheel
+  clause. The "SN 12" locator in the original body narrowed to SN 12.38.
+- The original body's guarantee ("the actions take care of themselves") replaced with
+  the discourse's own chain (production of renewed becoming, birth, aging and death).
+- Limitations: inherited parallels (Gollwitzer 1999; Frankfurt; Kierkegaard) NOT
+  opened; flagged inherited parallels. Linked concepts (Implementation intentions,
+  Second-order desires) skimmed as seeds only.
