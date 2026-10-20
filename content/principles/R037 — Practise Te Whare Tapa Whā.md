@@ -12,13 +12,24 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 299** — Practise Te Whare Tapa Whā
 
-Attend to all four dimensions of your wellbeing: te taha wairua (spiritual), te taha hinengaro (mental and emotional), te taha tinana (physical), and te taha whānau (family and social). Neglect of any one dimension undermines the whole. Practise balance across all four.
+Durie's 1985 paper opens with a premise the model carries: health is not a universal concept, and health professionals are not necessarily best suited to formulate a people's health aspirations; for Māori, health is defined by elders at traditional tribal gatherings. The paper then names what those gatherings recognise: four cornerstones of health.
 
-(Māori health model; Durie, 1985, "A Māori Perspective of Health," Social Science and Medicine, 20(5), 483-486; Durie, 1994, Whaiora.)
+> Four cornerstones of health have been recognised: te taha wairua (a spiritual dimension), te taha hinengaro (a psychic dimension), te taha tinana (a bodily dimension), te taha whanau (a family dimension).
+> (Durie 1985, Social Science and Medicine 20(5), 483-486)
 
-**Plain words** Te Whare Tapa Whā: wellbeing is a house with four walls — spiritual, mental/emotional, physical, and family/social. If one wall crumbles, the whole house leans, no matter how strong the others. Check all four on purpose.
+Later presentations give the model its name and its picture. Te Ara records that Māori health expert Mason Durie developed the whare tapa whā model in 1982, with four dimensions, taha wairua, taha hinengaro, taha tinana and taha whānau, and different parts of a wharenui (meeting house) representing each dimension. The house is the argument: a wall is a load-bearing part rather than a checklist item, and the compendium's reading is that neglecting one is a structural matter for the others.
 
-*For example:* The person who fixes "burnout" with gym and diet for months — then adds one weekly dinner with the cousins and finds the wall that was actually missing was the fourth one.
+The compendium's exercise: take the four dimensions as four questions and ask them of your month. When did you last sit somewhere that holds you? How is the thinking? How is the body? Who have you actually eaten with? A month that answers three well and one badly is not a balanced month, and the model says which wall to mend.
+
+**Plain words** Check the four walls on purpose: sleep and food for the body, honesty about the thinking, something that touches the sacred for the spirit, and actual people for the family wall. People often mend the wrong wall because the broken one is embarrassing: burnout gets a gym programme because the gym is respectable and the loneliness is not. Ask which wall you have been avoiding mentioning, and start there.
+
+*For example:* Someone treating burnout with gym and diet for months adds one weekly dinner with the cousins and watches what changes.
+
+## Sources
+
+- [Durie, A Maori perspective of health, Social Science and Medicine 1985 (PubMed abstract record)](https://pubmed.ncbi.nlm.nih.gov/3992288/) — 20(5), 483-486
+- [Te Whare Tapa Whā model, Te Ara, the Encyclopedia of New Zealand](https://teara.govt.nz/en/diagram/31387/maori-health-te-whare-tapa-wha-model) — the wharenui framing
+
 ## Psychology parallels
 
 - **[[Holistic well-being|Holistic well-being]]** (Ryff, 1989)
@@ -26,4 +37,5 @@ Attend to all four dimensions of your wellbeing: te taha wairua (spiritual), te 
 
 ## Philosophy parallels
 
-- **[[Holism|Holism]]** (Smuts, Holism and Evolution)- **[[Te Whare Tapa Whā|Te Whare Tapa Whā]]** (Relational traditions)
+- **[[Holism|Holism]]** (Smuts, Holism and Evolution)
+- **[[Te Whare Tapa Whā|Te Whare Tapa Whā]]** (Relational traditions)
