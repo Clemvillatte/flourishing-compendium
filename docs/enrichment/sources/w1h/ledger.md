@@ -337,3 +337,11 @@
 - PMID 33746820 (Hiebel et al. 2021) used for the confirmation-with-limits
   sentence (abstract-level). "The stressor is not the event alone" framing
   paraphrases the seed's own summary line.
+
+## Life history theory (fast-track)
+- Opened: PubMed 35599317 (Yang et al. 2022, Psych J 11, 433-447) — review
+  structure quoted verbatim (trade-offs, environmental risks); PubMed 39003192
+  (Stott et al. 2024, TREE 39, 830-840) — fast-slow continuum and its
+  insufficiency from the abstract.
+- The K-factor psychometrics debate NOT covered (PMID 29143184 critique and
+  Figueredo work seen in snippets only); no claims made about it.
