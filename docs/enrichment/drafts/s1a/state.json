@@ -322,7 +322,7 @@
    ]
   },
   "s1a-014": {
-   "status": "qc_pending",
+   "status": "ready",
    "angle": "B026: Meghiya finds that the right grove and eagerness do not replace conditions for directing effort; complete Ud4.1 arc",
    "history": [
     {
@@ -338,11 +338,16 @@
      "t": "2026-10-20T14:28:17+00:00",
      "to": "qc_pending",
      "note": "Checker zero; independent first-item review requested"
+    },
+    {
+     "t": "2026-10-20T14:30:45+00:00",
+     "to": "ready",
+     "note": "Independent advisor READY; complete source chronology, quotes, partial four-effort fit accepted"
     }
    ]
   },
   "s1a-015": {
-   "status": "drafting",
+   "status": "qc_pending",
    "angle": "P042: children confront cotton-seed removal and reconstruct textile tools; guided inquiry without the false requirement to get hurt",
    "history": [
     {
@@ -353,9 +358,24 @@
      "t": "2026-10-20T14:30:25+00:00",
      "to": "drafting",
      "note": "Dewey complete textile-learning sequence drafted from primary university transcription"
+    },
+    {
+     "t": "2026-10-20T14:30:45+00:00",
+     "to": "qc_pending",
+     "note": "Primary source drafted and checker green; independent milestone QC requested"
+    }
+   ]
+  },
+  "s1a-016": {
+   "status": "researching",
+   "angle": "D156: tree survives uselessness but goose dies for it; no fixed useful/useless strategy, adapt with changing conditions",
+   "history": [
+    {
+     "t": "2026-10-20T14:30:45+00:00",
+     "to": "researching"
     }
    ]
   }
  },
- "updated": "2026-10-20T14:30:25+00:00"
+ "updated": "2026-10-20T14:30:45+00:00"
 }
