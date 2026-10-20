@@ -12,13 +12,24 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 226** — Practise the contemplation of mortality
 
-The Stoic does not avoid thoughts of death but welcomes them as clarifying. Marcus tells himself that death is natural and that fearing it is fearing nature. Seneca says that the person who has learned how to die has unlearned how to be a slave. Practise holding death in mind as a guide to life.
+The practice has three instructions. Marcus's is the shortest:
 
-(Med. II.11, II.14, III.1, III.17, IV.17, IV.19, IV.48, VII.2, VII.29, VII.46, X.15, XI.1, XII.23, XII.35; Seneca, Letters 1, 4, 26, 49, 82, 91, 99, 101, 104, 122; Disc. I.14, III.24; Ench. 21; Seneca, On the Shortness of Life.)
+> "Do not act as if thou wert going to live ten thousand years. Death hangs over thee. While thou livest, while it is in thy power, be good." (Marcus Aurelius, Meditations, Book IV, section 17, [George Long translation](https://www.gutenberg.org/cache/epub/15877/pg15877.txt))
 
-**Plain words** The Stoic welcomes thoughts of death as clarifying. Marcus says death is natural and fearing it is fearing nature. Seneca says someone who has learned to die has stopped being a slave. Keep death in mind as a guide to living.
+The same register runs through the Meditations: "Since it is possible that thou mayest depart from life this very moment, regulate every act and thought accordingly" (Meditations II.11). Epictetus makes it a daily exercise: "Let death and exile and every other thing which appears dreadful be daily before your eyes; but most of all death: and you will never think of any thing mean nor will you desire any thing extravagantly" (Enchiridion 21). Seneca gives the reason it frees: "He who has learned to die has unlearned slavery; he is above any external power, or, at any rate, he is beyond it" (Letters 26).
+
+(Med. II.11, IV.17; Ench. 21; Seneca, Letters 26.)
+
+**Plain words**
+As a practical exercise, take one decision you are currently postponing and ask what you would choose if the deadline were the truth rather than an assumption. Marcus's instruction works as a priority-sort under uncertainty.
 
 *For example:* Writing your own simple farewell letter, and finding it changes what you do next week.
+
+## Sources
+
+- [Marcus Aurelius, Meditations (George Long translation, Project Gutenberg)](https://www.gutenberg.org/cache/epub/15877/pg15877.txt) — Book II, section 11; Book IV, section 17
+- [Epictetus, Enchiridion 21 (George Long translation, Delphi Complete Works of Epictetus)](https://drive.google.com/file/d/1EDkL63FuSpabjbB7amxNodYocj_q_vaH/view)
+- [Seneca, Moral Letters to Lucilius, Letter 26 (Richard Mott Gummere translation, Wikisource)](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_26)
 
 ## Psychology parallels
 
