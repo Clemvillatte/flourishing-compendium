@@ -12,13 +12,24 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 87** — Redefine freedom as effective power
 
-Freedom is not the absence of restraint but the presence of effective capacity: the power to act intelligently in the world. Build capability; that is building freedom.
+Dewey argues that freedom is needed in and among actual events, that the road to it lies in knowledge of facts, and that intelligence is the key to freedom in act. He illustrates with the physician or engineer, free in the degree to which they know what they deal with. (Dewey, Human Nature and Conduct, part 3, section 3.)
 
-(Dewey, Human Nature and Conduct, 1922; Experience and Nature, 1925.)
+> "For we need freedom in and among actual events, not apart from them. It is to be hoped therefore that there remains an alternative; that the road to freedom may be found in that knowledge of facts which enables us to employ them in connection with desires and aims." (Dewey, Human Nature and Conduct, part 3, sec. 3, [Gutenberg](https://www.gutenberg.org/cache/epub/41386/pg41386.txt))
 
-**Plain words** The "free" person who can do nothing has the most permissive cage in town. Freedom is the presence of effective capacity, not the absence of restraint — build capability, and you are building freedom.
+> "A physician or engineer is free in his thought and his action in the degree in which he knows what he deals with. Possibly we find here the key to any freedom." (Dewey, Human Nature and Conduct, part 3, sec. 3, [Gutenberg](https://www.gutenberg.org/cache/epub/41386/pg41386.txt))
 
-*For example:* Learning the local language abroad — every word studied is a door unlocked. The traveler who didn't bother is 'free' to sit in the hotel. Capability is freedom, measurably.
+> "Intelligence is the key to freedom in act." (Dewey, Human Nature and Conduct, part 3, sec. 3, [Gutenberg](https://www.gutenberg.org/cache/epub/41386/pg41386.txt))
+
+The compendium's exercise: pick one thing you feel blocked on, and list three facts about it you have not yet learned.
+
+**Plain words**
+Freedom shows up as being able to carry out what you plan. Study the facts of your situation and use them.
+
+*For example:* Imagine you want to cycle to work. You learn which streets have bike lanes and at which hours the roads are clear, and you plan the route around them.
+
+## Sources
+
+- [Human Nature and Conduct, John Dewey, Project Gutenberg](https://www.gutenberg.org/cache/epub/41386/pg41386.txt) — part 3, section 3, "What is Freedom?"
 
 ## Psychology parallels
 
