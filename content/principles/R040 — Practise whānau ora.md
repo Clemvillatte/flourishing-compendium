@@ -14,7 +14,13 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 
 Durie's term names a unit of health. As later authors summarise his 1994 formulation: "'Whänau ora' is described as the goal of good health as it relates to support from and connection to the family (Durie, 1994)" ([Kara et al., 2011](https://www.communityresearch.org.nz/wp-content/uploads/formidable/Kara-Developing-a-Kaupapa-Maori-Framework-for-Whanau-Ora-20111.pdf)). The 2010 Taskforce turned the term into policy, and its brief is unusually concrete about what whānau ora is supposed to produce:
 
-> "[A]n evidence-based framework that will lead to: strengthened whānau capabilities; an integrated approach to whānau wellbeing; collaborative relationships between state agencies in relation to whānau services; relationships between government and community agencies that are broader than contractual; improved cost-effectiveness and value for money." (Taskforce on Whānau-Centred Initiatives, 2010, p. 6, as carried, in list form, in [New Zealand Treasury, Appendix C: Case study — Whānau Ora](https://www.treasury.govt.nz/sites/default/files/2024-05/pc-inq-mess-appendix-c-case-study-whanau-ora.pdf))
+> "[A]n evidence-based framework that will lead to:
+> - strengthened whānau capabilities
+> - an integrated approach to whānau wellbeing
+> - collaborative relationships between state agencies in relation to whānau services
+> - relationships between government and community agencies that are broader than contractual
+> - improved cost-effectiveness and value for money."
+> (Taskforce on Whānau-Centred Initiatives, 2010, p. 6, as carried, in list form, in [New Zealand Treasury, Appendix C: Case study — Whānau Ora](https://www.treasury.govt.nz/sites/default/files/2024-05/pc-inq-mess-appendix-c-case-study-whanau-ora.pdf))
 
 What holds it together is the unit of analysis. In the Taskforce's words, as reported when the report was received: "whanau ora is more than the sum total of individual measures. It is primarily about the ways in which the group operates as a whole to achieve health and wellbeing", and the approach is "essentially about self-determination and self-management... to enable whanau to assume responsibility for their own affairs" ([Turia, 2010](https://www.beehive.govt.nz/speech/report-taskforce-whanau-centred-initiatives)). A later assessment summarises the philosophy as "the holistic wellbeing of a multigenerational family group", with the operational rule that "providers should work with whānau instead of only one or two people within a whānau" ([ANU Press, 2019](https://press-files.anu.edu.au/downloads/press/n5314/pdf/ch21.pdf)).
 
