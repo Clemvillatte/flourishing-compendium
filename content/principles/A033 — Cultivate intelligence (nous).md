@@ -22,9 +22,9 @@ Aristotle's argument in NE VI.6 runs: scientific knowledge is of the universal a
 
 ### Plain words
 
-Proofs need starting points, and the starting points are not themselves proved. The passage assigns grasping them to intuitive reason, without saying how to tell a good starting point from a bad one. For an exercise, take an argument you rely on and sort it into two lists: what it starts from, and what it derives from that.
+Proof needs starting points; Aristotle assigns grasping first principles to intuitive reason ([NE VI.6](http://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)). For reflection, separate an argument's starting assumptions from the conclusions it derives.
 
-For example: "Our team can't take that project on" usually starts from an assumption about capacity that nobody has stated. Writing the assumption down is the exercise. (An invented illustration.)
+For example: suppose a team argues, "We cannot accept this project because all staff time is already committed." Identify the staffing assumption and the conclusion.
 
 ## Stories
 
