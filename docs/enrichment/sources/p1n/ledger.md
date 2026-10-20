@@ -120,3 +120,50 @@ source; anything not opened is recorded as inherited and unverified.
   outcome claim).
 - Advisor QC not due (item 7).
 - Validator: ok.
+
+### D123 — Don't argue to win (2026-10-20)
+- Opened: Zhuangzi Legge, ETH Zurich METIS PDF (same file as D083), ch. 2
+  disputing-minds passages. Blockquote = "utterances like arrows from a bow"
+  passage verbatim as extracted. Inline verbatim fragments: "pronounce what
+  is right and what is wrong"; "maintain their views, determined to
+  overcome"; "like the decay (of things) in autumn and winter"; "like an old
+  and dry moat"; "nigh to death"; "the one side affirming what the other
+  denies, and vice versa"; "does not pursue this method, but views things in
+  the light of (his) Heaven (-ly nature)".
+- Advisor QC (item 10 milestone): round 1 FAIL (categorical claim about what
+  the chapter cares about; plain-words "winning proves only skill" stronger
+  than the passages; unlabelled invented divorce outcome; unverified
+  Gottman attribution). Repaired per exact edits; round 2 PASS. Gottman
+  "Win-lose framing" bullet REMOVED (no wikilink; not opened). Confirmation
+  bias (Nickerson, 1998) retained as inherited, unverified by this review.
+- Saturation: cited by Confirmation bias, Value pluralism, Four Noble Truths,
+  Natural liberty versus the chains.
+- Validator: ok vs 71fd7049.
+
+### Item-10 milestone QC sweep (D083, D101, D108, D051 reopened and re-done)
+- All four flagged for narrow repairs after acceptance of D123 (unsupported
+  mechanisms, outcome claims, capitalization). Repairs applied per the
+  advisor's exact edits across two rounds; all four PASS in round 3
+  (acceptance does not certify unopened inherited parallels).
+- D083: "changes no facts"/"same facts" overstatement replaced with the
+  total/distribution distinction; plain words and example replaced
+  (arrangement-vs-total; seven-hours hypothetical).
+- D101: "fixed energy budget" and borrowed-height/steadiness mechanisms
+  removed; plain words and example replaced (know-vs-appear-to-know; manager
+  acknowledging a gap).
+- D108: polish-costs-life and rough-beats-smooth claims removed; compendium
+  reading labelled; essay/transitions hypothetical.
+- D051: "The simple child" capitalization restored; negotiator-outcome
+  example replaced (chair asking for an objection); capacity-vs-display
+  reading labelled as the compendium's.
+- All four validated vs 71fd7049 and re-done sequentially.
+
+### D104/D108 ledger correction
+- D104 — Love without possessing: opened Legge DDJ 2, 10, 51 (chapter text
+  fetched fresh from Gutenberg). Blockquote = ch. 51 "mysterious operation"
+  passage verbatim. Inline fragments verbatim: "grow, and there is no claim
+  made for their ownership" (ch. 2); "produces them and does not claim them
+  as its own" (ch. 10). Plain words replaced (old replicated body). Advisor
+  QC not due (item 8). Validator: ok.
+- D108 — Accept imperfection: opened Legge DDJ 45 (fetched fresh). Blockquote
+  = ch. 45 verse verbatim. Advisor QC via item-10 sweep (see above).
