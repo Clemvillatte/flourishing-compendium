@@ -12,13 +12,25 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 ---
 > **Principle 83** — Wisdom sets bounds even to knowledge
 
-There is much I do not want to know. Wisdom sets bounds even to knowledge. This is not ignorance by default but a deliberate refusal: some knowledge — the endless news cycle, the private lives of strangers, the rehashing of what cannot be changed — costs more than it returns. Choose what you let in.
+> Once for all I wish to be blind to many things.—Wisdom sets bounds even to knowledge.
 
-(Nietzsche, Twilight of the Idols, Maxims 5.)
+(Nietzsche, Twilight of the Idols, Maxims and Missiles 5, trans. Ludovici, [Project Gutenberg](https://www.gutenberg.org/files/52263/52263-h/52263-h.htm). The Dover edition, in Common's translation, reads "Once for all, there is much I do not want to know.—Wisdom sets bounds even to knowledge" ([Barnes & Noble excerpt](https://www.barnesandnoble.com/w/twilight-of-the-idols-and-the-anti-christ-friedrich-nietzsche/1101075052?ean=9780486147079)).)
 
-**Plain words** Some knowledge costs more than it returns: the endless news cycle, strangers' private lives, the rehashing of what can't be changed. Wisdom doesn't just decide what to think about — it decides what to let in at all. A deliberate refusal is not ignorance; it's a budget.
+The maxim gives no examples. The news cycle and strangers' lives are this compendium's own applications.
 
-*For example:* Someone who quit doom-scrolling war footage not because they stopped caring, but because the tenth hour of watching changed nothing and cost the whole night.
+Psychology has a name for the idea. Hertwig and Engel call "the conscious choice not to seek or use knowledge (or information)" deliberate ignorance and argue that it "has important functions" ([Hertwig & Engel, 2016, abstract](https://pure.mpg.de/rest/items/item_2301068_8/component/file_3569625/content)). They also conclude that "there is no ready-made answer to the question of when deliberate ignorance is beneficial, rational, or ethically appropriate" ([chapter version](https://pure.mpg.de/rest/items/item_3254653_15/component/file_3254654/content)). So the principle asks for a judgment each time, not a policy of looking away.
+
+**Plain words** You do not have to know everything, and choosing what to leave out can be wise. Some information costs more attention than it returns. Ask whether you are protecting your attention or avoiding something you need to face.
+
+*For example:* Someone stops watching war footage late at night, and reads one trusted summary each morning instead.
+
+## Sources
+
+- [Nietzsche, F. Twilight of the Idols, "Maxims and Missiles" 5 (trans. A. M. Ludovici), Project Gutenberg](https://www.gutenberg.org/files/52263/52263-h/52263-h.htm) — the maxim in one translation
+- [Nietzsche, F. Twilight of the Idols and The Antichrist (trans. T. Common), Dover, excerpt](https://www.barnesandnoble.com/w/twilight-of-the-idols-and-the-anti-christ-friedrich-nietzsche/1101075052?ean=9780486147079) — the maxim in a second translation
+- [Hertwig, R., & Engel, C. (2016). Homo ignorans: Deliberately choosing not to know. Perspectives on Psychological Science 11(3), 359-372](https://pure.mpg.de/rest/items/item_2301068_8/component/file_3569625/content) — definition and functions of deliberate ignorance
+- [Hertwig, R., & Engel, C. (2020). Homo ignorans, chapter version in Deliberate Ignorance: Choosing Not to Know (MIT Press)](https://pure.mpg.de/rest/items/item_3254653_15/component/file_3254654/content) — the closing caution
+
 ## Psychology parallels
 
 - **Information overload research**, too much information degrades decisions (conceptual parallel)
