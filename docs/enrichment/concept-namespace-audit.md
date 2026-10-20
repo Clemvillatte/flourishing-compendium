@@ -129,6 +129,26 @@ hallucinations.
 - The natural rhythm of warmth and cool (queue s2, 74w) — the opened Zhuangzi ch. 6
   passage grounds the seasonal image but does not use this phrase as a named term.
   Rename candidate or keep as heading.
+- The water of life (enriched in w1g 2026-10-20) — the opened Daodejing 8 (Legge)
+  grounds the teaching, but the chapter's own phrase is "the highest excellence is like
+  (that of) water"; "water of life" is the compendium's heading. Rename candidate or
+  keep as heading.
+- The same in all conditions (enriched in w1g 2026-10-20; queue s2, 53w) — the opened
+  Bhagavad Gita 6.29-6.32 grounds the equal-vision teaching, but the page title is the
+  compendium's heading, not the Gita's term. Pending supervisor verification/rename/
+  merge.
+- The seer at rest in its own nature (enriched in w1g 2026-10-20; queue s2, 68w) — the
+  opened Yoga Sutra 1.3 grounds the teaching; the title is a rendering of the sutra's
+  own terms rather than a named concept label. Pending supervisor verification/rename/
+  merge.
+- Three thousand realms in one thought (enriched in w1g 2026-10-20; queue s2, 38w) —
+  the title IS the tradition's own term (yi nian san qian) per the opened source; listed
+  here only to note the Mohe Zhiguan quotation-provenance caveat in the w1g ledger.
+- Sufficiency (enriched in w1g 2026-10-20) — the opened Daodejing 33/44 grounds the
+  teaching, but the queue does not list "Sufficiency" itself; it lists "Zhi zu (knowing
+  sufficiency)" (s3, 6w) and "Self-sufficiency" (s3, 4w). The page title is generic
+  English; the tradition's term for this teaching is zhizu. Pending supervisor
+  verification/rename/merge.
 
 Also flagged (story namespace, not edited by the worker): ST075 cites DN 22 for the monkey
 simile, but the opened DN 22 page (Thanissaro, accesstoinsight.org) contains no monkey
