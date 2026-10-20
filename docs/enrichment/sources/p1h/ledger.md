@@ -306,3 +306,28 @@ done for BE052/BI032/BI045. Content items flagged for the new p1h owner (below).
   behaviour (Wood & Neal), Context-dependent repetition (Lally), Gradual training,
   Mental time travel, Natural liberty versus the chains, Natural virtue, BI-S03 layer;
   no justified new proposals.
+
+### Advisor QC round (2026-10-20, worker-p1h-7d3e9c4a, repairs round 2)
+
+- Advisor flagged: BE052 "The review's title has a history in it" staging (replaced with the
+  authors' own description), "keeps the seed's three-way split" editing-process phrasing
+  (now "The compendium's working definition is a three-way split"), unsupported plain-words
+  claims ("The skill is mostly the sentence", "Delivery steadies with repetitions",
+  "The other person can work with that") — replaced with compendium-labelled exercise
+  framing and a hypothetical example that does not predict the other person's response.
+- Advisor flagged: BI045 "most pacing breaths at five-and-a-half to six per minute" is a
+  new quantitative claim (removed); the near-verbatim outcome list now appears as a
+  quotation of the abstract's own sentence (verified in the opened Frontiers text);
+  "the breath is the lever" mechanism staging removed; the pulse before/after test does
+  not test the review's HRV/RSA findings, so plain words and example were rewritten as a
+  simple observational exercise without efficacy assumptions. Both files validate ok.
+- Advisor accepted the B081/B140 quotation re-verification within its narrow scope
+  (verbatim quote checks, not a whole-page evidence audit).
+- Ledger scope correction (advisor): the earlier saturation entries cited mention-scan
+  hits as if they were verified backlinks; treat those entries as "mention scan run; no
+  proposals made" only. The three items' inherited parallels remain flagged, not
+  certified.
+- Item-type correction (advisor): BE072 is Behavioral Science and BI004/BI010 are
+  Biophysiology, not Buddhist principles; the owner's D/B-first rule does not apply to
+  them. p1h holds no remaining Buddhist or Daoist items; continuing the band in
+  manifest order.

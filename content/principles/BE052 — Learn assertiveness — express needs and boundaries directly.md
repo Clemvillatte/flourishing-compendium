@@ -12,16 +12,16 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BE — Overt Be
 ---
 > **Principle 52** — Learn assertiveness: express needs and boundaries directly
 
-Speed, Goldstein and Goldfried's clinical review makes the case plainly: a substantial body of research ties assertiveness to a variety of clinical problems, populations and contexts, and calls assertiveness training a valuable transdiagnostic intervention. The review's title has a history in it: assertiveness training was once a highly popular area of investigation, and research on it as a stand-alone treatment within clinical psychology has diminished drastically in recent years. (Speed et al., 2018.)
+Speed, Goldstein and Goldfried's clinical review makes the case plainly: a substantial body of research ties assertiveness to a variety of clinical problems, populations and contexts, and calls assertiveness training a valuable transdiagnostic intervention. The authors describe assertiveness training as a once-popular research area and report a marked decline in research on it as a stand-alone treatment. (Speed et al., 2018.)
 
 > "A substantial body of research indicates that assertiveness is a relevant factor associated with a variety of clinical problems, populations, and contexts, and that assertiveness training is a valuable transdiagnostic intervention." (Speed et al., 2018, [abstract](https://onlinelibrary.wiley.com/doi/full/10.1111/cpsp.12216))
 
-The compendium's working definition keeps the seed's three-way split: passive behavior violates the self, aggressive behavior violates the other, and assertive behavior states the case without violating either. The review treats the skill as trainable, which is why the practice below is written as practice.
+The compendium's working definition is a three-way split: passive behavior violates the self, aggressive behavior violates the other, and assertive behavior states the case without violating either. The review treats the skill as trainable, which is why the practice below is written as practice.
 
 **Plain words**
-Pick one sentence you have been avoiding saying, and write it in the form: what happened, what I need, what I will do. Say it out loud once before the conversation. The skill is mostly the sentence: short, first-person, no blame and no apology tour. Delivery steadies with repetitions.
+Pick one sentence you have been avoiding saying, and write it in the form: what happened, what I need, what I will do. Say it out loud once before the conversation. The drill is the compendium's own; the review's evidence is that the skill can be trained, and this is one concrete form the training can take.
 
-*For example:* "I can't take this on this week" — a clean line with no essay attached. The other person can work with that.
+*For example:* Imagine saying "I can't take this on this week" to a colleague, without an essay attached. What they do with the sentence is not part of the exercise.
 
 ## Sources
 
