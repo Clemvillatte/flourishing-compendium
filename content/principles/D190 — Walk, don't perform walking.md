@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 190** — Walk, don't perform walking
 
-In Zhuangzi's wheelwright story, Phien explains why neither gentle nor violent movements produce the wheel he wants. His skill requires a knack he cannot communicate in speech or teach to his son. He is still making wheels in old age ([Book XIII, paragraph 10, Legge translation](https://www.sacred-texts.com/book/the-texts-of-taoism-part-i-of-ii/book-xiii-thien-tao-or-the-way-of-heaven/)).
+In Zhuangzi's story, Phien explains why movements too gentle or too violent spoil his wheel. His skill requires a knack he cannot communicate in speech or teach to his son. He is still making wheels in old age ([Book XIII, paragraph 10, Legge translation](https://www.sacred-texts.com/book/the-texts-of-taoism-part-i-of-ii/book-xiii-thien-tao-or-the-way-of-heaven/)).
 
 > "But I cannot tell (how to do this) by word of mouth; there is a knack in it." (Zhuangzi XIII, Legge.)
 
