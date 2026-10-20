@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Externals as indifferents” — Epictetus, Discourses.
 
+## Related concepts
+
+- [[S015]] — Epictetus distinguishes indifferent circumstances from the morally significant use made of them.
+
 ## Sources
 
 - Epictetus, Discourses

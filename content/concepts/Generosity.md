@@ -11,6 +11,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 - Spinoza's generositas
 - the series' Book II
+## Related concepts
+
+- [[S037]] — Seneca's goodwill-based beneficence is compared with Aristotle's account of giving to the right person, at the right time and for the right reason.
+
 ## Sources
 
 - Aristotle, Nicomachean Ethics IV.1
