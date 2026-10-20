@@ -43,8 +43,8 @@
   "The question of being (Seinsfrage)",
   "The return to the inner self",
   "The self dissolving in aesthetic contemplation",
-  "The standpoint determines what appears",
   "The stream of life",
+  "The standpoint determines what appears",
   "The three gates of speech",
   "The whole in the part"
  ],
@@ -84,13 +84,13 @@
   "The right amount of effort": "QC r2: body PASS; title/identity awaiting supervisor disposition (worker flag in concept-namespace-audit.md); NOT done pending disposition; researched body pushed as WIP",
   "The quiet craftsman's life": "Reopened for QC: QC milestone: identity gate — seed's 'Book II, principle 94' referent unresolved; Zhuangzi research retained as WIP; title/identity awaiting supervisor disposition (worker flag in concept-namespace-audit.md); NOT done pending disposition",
   "The self dissolving in aesthetic contemplation": "Reopened for QC: QC milestone 2: citation fix (Vol I Book III), closing rewrite, unsupported Related additions removed",
-  "The standpoint determines what appears": "Reopened for QC: QC milestone 2: lifeworld/standpoint conflation fixed, Hua 4/158 locator, SEP-borrowed prose rewritten, unsupported glosses removed",
+  "The standpoint determines what appears": "Reopened for QC: QC round 5: paragraph split before lifeworld-depth sentence",
   "The stream of life": "Reopened for QC: QC milestone 2: scope fix (thought/subjective life, not life itself), Buddhist extension removed, closing rewritten",
-  "The three gates of speech": "Reopened for QC: QC milestone 2: document-talk removed, attribution language neutral, causal-survival explanation removed",
-  "The whole in the part": "Reopened for QC: QC milestone 2: compendium-heading misattribution fixed, prose rewritten as explanation, unsupported comparisons removed"
+  "The three gates of speech": "Reopened for QC: QC round 5: multi-attribution sentence deleted (not in opened source); Right-speech gloss made comparative",
+  "The whole in the part": "Reopened for QC: QC round 5: 'In a sense' qualification restored; Concrescence link evidence check"
  },
  "missing_concepts": [],
  "sources_checked": 14,
- "updated": "2026-10-20T08:15:11+00:00",
+ "updated": "2026-10-20T08:18:34+00:00",
  "band_done": false
 }

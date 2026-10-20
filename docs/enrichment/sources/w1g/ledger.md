@@ -1081,3 +1081,24 @@
   corrected understanding: "The World as Will and Representation" is a title without
   an identifiable translation and is not asserted as uniquely Payne's.
 - sources_checked unchanged this round (no new sources opened).
+
+### QC round 5 (2026-10-20, worker-j9fpiyf, targeted re-review repairs)
+
+- A (aesthetic contemplation) PASS, C (stream of life) PASS — no further changes.
+- B (standpoint): paragraph split before "The lifeworld also has depth in time"
+  (skimmability); otherwise unchanged. PASS on accuracy per the advisor.
+- D (three gates): the sentence "It circulates attributed to Sufi sources, to Rumi,
+  to Socrates and to the Buddha" DELETED (the opened Wikiquote extract covers only the
+  Rumi attribution; the other attributions were search-result-only). [[Right speech]]
+  gloss made explicitly comparative: "a comparison with the five-part speech test in
+  AN 5.198" (link preserved).
+- E (whole in the part): the inline quotation restored Whitehead's "In a sense"
+  qualification ("in a sense, every entity pervades the whole world", Part I ch. II
+  §IV). Concrescence link evidence check completed by re-opening the PR PDF:
+  the definition is verified verbatim — "'Concrescence' is the name for the process
+  in which the universe of many things acquires an individual unity in a determinate
+  relegation of each item of the 'many' to its subordination in the constitution of
+  the novel 'one'" (Part II ch. X §II) — which supports the retained gloss ("the
+  process by which the many become one"); the definition added to the Sources line.
+  sources_checked +1 (PR PDF, concrescence definition fetch).
+- Validation: --base 08bd09c4 --fast-track, 3 checked (B/D/E), 0 failed.

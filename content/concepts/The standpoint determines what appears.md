@@ -11,7 +11,9 @@ For Husserl, spatial objects appear from a bodily location and orientation. The 
 
 > "It is thus that all things of the surrounding world possess an orientation to the body [...]. The 'far' is far from me, from my body; the 'to the right' refers back to the right side of my lived body, e.g., to my right hand." (Husserl, Ideas II, Hua 4/158, quoted in the [SEP entry "Edmund Husserl"](https://plato.stanford.edu/entries/husserl/))
 
-A thing seen is never given all at once. It appears from one side, at a distance, from an angle, and every perspectival appearance presupposes a subject located in space. Husserl's conclusion is that there is no view from nowhere, only an embodied point of view: the subject is the zero-point from which far and near, right and left are measured. The lifeworld also has depth in time. Earlier experiences leave traces in us that shape the ones that follow, and the community we are born into hands down beliefs and practices that organize what we experience and how we act.
+A thing seen is never given all at once. It appears from one side, at a distance, from an angle, and every perspectival appearance presupposes a subject located in space. Husserl's conclusion is that there is no view from nowhere, only an embodied point of view: the subject is the zero-point from which far and near, right and left are measured.
+
+The lifeworld also has depth in time. Earlier experiences leave traces in us that shape the ones that follow, and the community we are born into hands down beliefs and practices that organize what we experience and how we act.
 
 ## Related concepts
 

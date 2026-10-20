@@ -7,7 +7,7 @@ file: "The three gates of speech"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-A popular speech test, usually given as three questions to ask before speaking: is it true, is it necessary, is it kind. It circulates attributed to Sufi sources, to Rumi, to Socrates and to the Buddha. Wikiquote's Rumi page records the attribution problem: the saying is credited to Rumi "never to a specific work or correspondence," and may be a misquote of Sathya Sai. A related five-part speech test appears in AN 5.198.
+A popular speech test, usually given as three questions to ask before speaking: is it true, is it necessary, is it kind. Wikiquote's Rumi page records the attribution problem: the saying is credited to Rumi "never to a specific work or correspondence," and may be a misquote of Sathya Sai. A related five-part speech test appears in AN 5.198.
 
 > "It is spoken at the right time. It is spoken in truth. It is spoken affectionately. It is spoken beneficially. It is spoken with a mind of good-will." (Vaca Sutta, AN 5.198, [Thanissaro Bhikkhu translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/an/an05/an05.198.than.html))
 
@@ -15,7 +15,7 @@ The fivefold test names the qualities a spoken statement is asked to meet: timel
 
 ## Related concepts
 
-- [[Right speech]] — the Buddhist discipline the popular test echoes
+- [[Right speech]] — a comparison with the five-part speech test in AN 5.198
 
 ## Sources
 
