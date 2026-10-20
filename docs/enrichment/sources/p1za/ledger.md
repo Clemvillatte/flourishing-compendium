@@ -64,3 +64,7 @@ No separate advisor tool available to this session; quotes are checked programma
 ## E027
 - Heidegger, Being and Time, Macquarrie & Robinson (Squarespace full-text PDF, OCR; also beyng.com page-by-page, opened via search extract): quotations grep-verified against OCR text; first quote (with [man selbst] [einige]) verified against beyng.com extract. H./M&R page numbers from margin markers and SEP's citation 'BT 27: 164' (not from a physical copy). 
 - Limits: Owner's Stambaugh/other translation not used; example hypothetical.
+
+## E030
+- Heidegger 'Building Dwelling Thinking' (Hofstadter trans.; WWF Greece hosted full text, pdftotext): 5 quotations grep-verified; no page numbers in hosted copy so none given. Being and Time §40 passage ('tranquillized self-assurance') grep-verified in the M&R OCR text; section number from the context (anxiety, not-at-home) and the principle's own citation, not a printed heading check.
+- Limits: §§70-71 (inherited citation, spatiality) not used.
