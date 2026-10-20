@@ -12,13 +12,23 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 218** — Remember that the whole is more important than the part
 
-What is good for the whole may not be pleasant for the part. The Stoic accepts their role in the larger order, even when it is difficult. This is not self-sacrifice but self-understanding: you are a part, not the whole.
+> let this first be established, that I am a part of the whole which is governed by nature... For remembering this, inasmuch as I am a part, I shall be discontented with none of the things which are assigned to me out of the whole; for nothing is injurious to the part, if it is for the advantage of the whole.
 
-(Med. II.3, IV.10, V.8, V.30, VI.42, VII.9, VII.19, VII.47, VIII.7, VIII.34, VIII.50, VIII.52, X.1, X.6, X.33, XI.1, XI.18, XII.36; Disc. I.12, I.14, I.25, III.10, III.24; Seneca, Letters 71, 95, 107; Ench. 31, 53.)
+(Marcus Aurelius, Meditations X.6, trans. George Long, [Internet Classics Archive](https://classics.mit.edu/Antoninus/meditations.10.ten.html), page opened; the ellipsis omits one clause.)
 
-**Plain words** What's good for the whole isn't always pleasant for the part. The Stoic accepts their role in a larger order, even when it's hard. That isn't self-sacrifice. It's self-understanding: you're a part, not the whole.
+Marcus also gives the image of the severed limb: "If thou didst ever see a hand cut off, or a foot, or a head, lying anywhere apart from the rest of the body, such does a man make himself... who is not content with what happens, and separates himself from others" (Meditations VIII.34, [Long trans.](https://classics.mit.edu/Antoninus/meditations.8.eight.html), opened). The same passage adds that "it is in thy power again to unite thyself." So the argument is that a part is harmed only by cutting itself off, and the entry's wording "accepts their role" is a fair summary. These passages state Marcus's cosmology. The risk that "the good of the whole" can be used to exploit individuals, which the entry's reflection questions raise, is not addressed in them.
 
-*For example:* Staying late to help the team finish, even though it costs your evening, because the whole needs it.
+On the psychology side, George and Park describe meaning in life as having three parts: comprehension, purpose and mattering ([Review of General Psychology, 2016](https://www.researchwithrutgers.org/en/publications/meaning-in-life-as-comprehension-purpose-and-mattering-toward-int), abstract opened). Mattering is related to the Stoic idea only loosely, since the abstract does not test a Stoic claim. Yaden et al. (2017), Plotinus and Whitehead were not opened, and most of the long list of Meditations, Discourses and Seneca citations were not opened either.
+
+**Plain words** Marcus reasons that since he is a part of nature's whole, nothing that benefits the whole can harm him as a part, and a person who turns against what happens is like a limb cut off from the body. He adds that the person can rejoin.
+
+*For example (imagined):* A team member stays late to help finish a shared deadline, and accepts the lost evening as the cost of belonging to the team.
+
+## Sources
+
+- [Marcus Aurelius, Meditations X.6 (trans. G. Long)](https://classics.mit.edu/Antoninus/meditations.10.ten.html) — MIT Internet Classics Archive, Book Ten opened
+- [Marcus Aurelius, Meditations VIII.34 (trans. G. Long)](https://classics.mit.edu/Antoninus/meditations.8.eight.html) — MIT Internet Classics Archive, Book Eight opened
+- [George & Park (2016), Review of General Psychology 20(3), 205-220](https://www.researchwithrutgers.org/en/publications/meaning-in-life-as-comprehension-purpose-and-mattering-toward-int) — abstract opened
 
 ## Psychology parallels
 

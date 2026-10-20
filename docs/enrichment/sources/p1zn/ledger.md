@@ -100,3 +100,8 @@
 - Opened: Epictetus Enchiridion 8 (Carter); Marcus Med. IV.49 (Long); Gross & John 2003 abstract (PMID 12916575).
 - Not opened: other Meditations, Seneca letters and Discourses refs; Gross 2015; Hayes 2011; Laozi 37.
 - Note: neither passage addresses spoken complaint; "complaining is the judgement..." is compendium paraphrase; Gross & John substituted for Gross 2015 as a nearby finding.
+
+## S096 — Remember that the whole is more important than the part
+- Opened: Marcus Meditations X.6, VIII.34 (Long); George & Park 2016 abstract (Rutgers research portal).
+- Not opened: all other Meditations/Discourses/Seneca refs and Ench. 31, 53; Yaden 2017; Plotinus; Whitehead.
+- Note: passages do not address exploitation risk; "accepts their role" fair summary of X.6; George & Park is a loose parallel.
