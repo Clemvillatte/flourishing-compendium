@@ -140,6 +140,23 @@ scope error and restoration to the owner.
   and Zhuangzi6 comparisons remain inherited, unverified.
 - Saturation: Intuitive eating and Ziran already cite B167.
 
+## B171: Make work itself the practice (2026-10-20)
+
+- Membership verified. Search "Dogen Tenzo Kyokun wash rice eyes", opened
+  https://terebess.hu/zen/dogen/Tenzo1.html , Griffith Foulk translation.
+  Exact complete washing-rice sentence quoted. Ingredient/utensil care
+  and preparation are in the text; reproduced scholarly translation mirror
+  labelled, not presented as a modern workplace experiment.
+- Search on Thich Nhat Hanh/dishwashing, opened first-person book excerpt
+  https://plumvillage.org/articles/memories-from-the-root-temple-washing-dishes .
+  Attributes water/hands/time/means-and-end account to him.
+- Removed unsupported anonymous monk story and mop/floor-as-mind slogan.
+  Imagined shared-kitchen example concerns actual task care, not promised
+  flow or an endorsement of unreasonable workloads.
+- Broken inherited Work engagement alias retained unchanged as a protected
+  wikilink. Csikszentmihalyi and Dewey comparisons unverified.
+- Saturation: both linked concepts already cite B171.
+
 ## D105: Need little (2026-10-20)
 
 - Opened using web search followed by fetch: James Legge, Zhuangzi chapter 1,

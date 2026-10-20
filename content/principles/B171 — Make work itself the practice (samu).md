@@ -12,13 +12,22 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 171** — Make work itself the practice (samu)
 
-Working meditation: clean, build, cook, file: with the same attention you bring to sitting. Work is not practice's interruption.
+Dogen's Instructions for the Cook gives practice the form of work done with ingredients, utensils and other people. It tells the cook to handle food carefully and attend personally to preparing it ([Foulk translation](https://terebess.hu/zen/dogen/Tenzo1.html)):
 
-(Zen samu; Thích Nhất Hạnh.)
+> When washing rice, preparing vegetables, and so on, do so with your own hands, with close attention, vigorous exertion, and a sincere mind.
 
-**Plain words** Working meditation — clean, build, cook, file — with the same attention you bring to sitting. Work is not practice's interruption. Samu: the mop is the meditation, and the floor is the mind.
+(Dogen, Tenzo kyokun, Griffith Foulk, [Terebess mirror](https://terebess.hu/zen/dogen/Tenzo1.html).)
 
-*For example:* The monk assigned to the kitchen for a year, furious about missing the meditation hall — the kitchen was the meditation hall.
+Thich Nhat Hanh describes taking time with each dish and being aware of the water and his hands; he treats washing as both a means to clean dishes and an activity worth inhabiting ([his account](https://plumvillage.org/articles/memories-from-the-root-temple-washing-dishes)). These are accounts of practice within work, not findings that all employment is fulfilling or that attentive workers enter psychological flow.
+
+**Plain words** Choose one ordinary task and give its details some attention. What needs doing properly, and who will use what you leave behind? You need not pretend to enjoy the task or treat an unreasonable workload as a spiritual obligation.
+
+*For example:* Imagine finishing a shared kitchen shift. You clean the board, put the utensils where the next cook can find them, and check what still needs storing. You do not need to turn the kitchen into a metaphor to take care of it.
+
+## Sources
+
+- [Dogen, Tenzo kyokun, translated by Griffith Foulk](https://terebess.hu/zen/dogen/Tenzo1.html): preparing food and caring for utensils.
+- [Thich Nhat Hanh, Washing Dishes, excerpt from At Home in the World, Plum Village](https://plumvillage.org/articles/memories-from-the-root-temple-washing-dishes).
 
 ## Psychology parallels
 
