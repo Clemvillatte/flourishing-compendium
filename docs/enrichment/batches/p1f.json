@@ -47,7 +47,11 @@
   "A046",
   "A047",
   "A057",
-  "A079"
+  "A079",
+  "AF011",
+  "AF019",
+  "AF046",
+  "AF072"
  ],
  "in_progress": null,
  "flagged": {
@@ -77,6 +81,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 22,
- "updated": "2026-10-20T04:46:49+00:00",
+ "updated": "2026-10-20T04:48:21+00:00",
  "band_done": false
 }
