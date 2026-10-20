@@ -16,7 +16,7 @@ The psychological name for this behaviour is generativity, and the definition is
 
 > "Generativity can be defined as 'concern in establishing and guiding the next generation' (page 267)." (Kruse & Schmitt, "Generativity as a Route to Active Ageing", Current Gerontology and Geriatrics Research, 2012, quoting Erikson, [full text via PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3420221/))
 
-The well-being evidence comes in two strands. A cross-regional study found generativity outpredicting the usual suspects:
+The well-being evidence comes in two strands. A comparative study of 3,308 subjects aged 59 to 108, drawn from seven regions in Mexico, Spain and Germany, found generativity outpredicting the usual suspects:
 
 > "In each of the aforementioned 7 regions generativity was a highly significant predictor of optimism and satisfaction with life; regardless of the specific region considered, subjective health, financial resources, and family status could explain only for a much smaller amount of variance in optimism and satisfaction with life." (Kruse & Schmitt, 2012, [via PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3420221/))
 
@@ -25,7 +25,7 @@ And the US MIDUS study traced the flip side, using waves 2 and 3 of the national
 > "In demographically adjusted regressions, generative contributions and expectations were associated with greater perceived social connectedness, self-worth, and positive effect. Generative failure was associated with lower life satisfaction, a link that was strongest in the middle-aged and young-old and mediated by the cognitive-affective states." (Grossman & Gruenewald, "Failure to Meet Generative Self-Expectations is Linked to Poorer Cognitive-Affective Well-Being", Journal of Gerontology: Psychological Sciences 75(4), 2020, abstract, [PDF](https://www.midus.wisc.edu/findings/pdfs/1810.pdf))
 
 **Plain words**
-Generativity is Erikson's term for caring about the next generation - mentoring, building, passing things on. Two findings attach to it. Across seven world regions, generativity predicted satisfaction with life better than health or money did. In the US MIDUS study, people who fell short of their own expectations for contributing reported lower life satisfaction. The studies track what the contributors themselves get from contributing.
+Generativity is Erikson's term for caring about the next generation - mentoring, building, passing things on. Two findings attach to it. Across seven regions in Mexico, Spain and Germany, generativity predicted satisfaction with life better than health or money did. In the US MIDUS study, people who fell short of their own expectations for contributing reported lower life satisfaction. These studies examined associations between perceived generativity and well-being.
 
 **For example**
 The gardener planting trees whose shade she will never sit in. Erikson's definition covers exactly this: establishing and guiding the next generation, whether or not you are there for the outcome.
