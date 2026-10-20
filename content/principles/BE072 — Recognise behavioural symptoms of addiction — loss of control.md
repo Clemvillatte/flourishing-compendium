@@ -39,4 +39,4 @@ Use that feels difficult to control and continues despite harm is what this defi
 
 ## Practice
 
-- If you have difficulty controlling a substance or behaviour (loss of control, continued despite harm), recognise this as a clinical condition, not a moral failing. Seek professional help. Willpower alone is not sufficient.
+- If controlling a substance or behaviour is repeatedly difficult despite harm, the compendium's step is to bring it to a health professional. NIDA describes treatment as ongoing and adjusted to the patient's response.
