@@ -14,7 +14,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "X — Extra 
 
 Emerson's 1836 essay gives the tradition's felt claim. In the presence of nature, "all mean egotism vanishes" and "In the wilderness, I find something more dear and connate than in streets or villages." ([Nature, ch. 1](https://www.gutenberg.org/ebooks/29433))
 
-Thoreau turned the claim into a two-year experiment, and Walden gives the reason in his most quoted sentence:
+In Walden, Thoreau describes his purpose:
 
 > "I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived." ([Walden, "Where I Lived, and What I Lived For"](https://www.gutenberg.org/ebooks/205))
 

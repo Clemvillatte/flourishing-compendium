@@ -12,11 +12,17 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 13** — Work with the field and the witness
 
-Patanjali's Book II sets the procedure out in consecutive sutras. First the diagnosis: "The cause of what is to be warded off, is the absorption of the Seer in things seen." ([Yoga Sutras 2.17, Johnston translation](https://www.gutenberg.org/ebooks/2526)) Then the two sides of experience. Of the seen: "Things seen have as their property manifestation, action, inertia. They form the basis of the elements and the sense-powers. They make for experience and for liberation." ([YS 2.18](https://www.gutenberg.org/ebooks/2526)) And of the seer: "The Seer is pure vision. Though pure, he looks out through the vesture of the mind." ([YS 2.20](https://www.gutenberg.org/ebooks/2526))
+Patanjali's Book II sets the procedure out in consecutive sutras. First the diagnosis: "The cause of what is to be warded off, is the absorption of the Seer in things seen." ([Yoga Sutras 2.17, Johnston translation](https://www.gutenberg.org/ebooks/2526)) Then the two sides of experience. Of the seen:
+
+> "Things seen have as their property manifestation, action, inertia. They form the basis of the elements and the sense-powers. They make for experience and for liberation." ([YS 2.18](https://www.gutenberg.org/ebooks/2526))
+
+And of the seer:
+
+> "The Seer is pure vision. Though pure, he looks out through the vesture of the mind." ([YS 2.20](https://www.gutenberg.org/ebooks/2526))
 
 The practice is to rest attention in the seeing rather than only in the seen. Whether the witness is an enduring entity is left open here; the Buddhist anatman is the standing counter-position. The compendium's cue, several times a day: what in this moment is content, and what is the noticing of it?
 
-**Plain words** Everything you experience splits into a screen and something watching the screen. Normally you are so lost in the movie that the watching goes unnoticed. The drill is to notice the watching itself: catch the fact that the anger is being seen.
+**Plain words** Distinguish an experience, such as anger, from noticing that experience. Try naming what you notice without using the exercise to settle what the seer ultimately is.
 
 *For example:* Mid-argument, attention shifts from the anger to the fact of watching it. What that does to the anger varies; the shift itself is the practice.
 ## Psychology parallels

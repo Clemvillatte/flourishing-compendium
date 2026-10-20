@@ -12,7 +12,8 @@
   "X022",
   "X023",
   "Y013",
-  "Y017"
+  "Y017",
+  "Y039"
  ],
  "in_progress": null,
  "flagged": {
@@ -23,6 +24,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T10:03:07+00:00",
+ "updated": "2026-10-20T10:06:49+00:00",
  "band_done": false
 }

@@ -12,15 +12,15 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 17** — Catch distortion early
 
-Patanjali lists five movements of the mind: "These activities are: Sound intellection, unsound intellection, predication, sleep, memory." ([Yoga Sutras 1.6, Johnston translation](https://www.gutenberg.org/ebooks/2526)) Of unsound intellection, viparyaya, he says:
+Patanjali lists five movements of the mind: "These activities are: Sound intellection, unsound intellection, predication, sleep, memory." ([Yoga Sutras 1.6, Johnston translation](https://www.gutenberg.org/ebooks/2526)) Of unsound intellection he says:
 
 > "Unsound intellection is false understanding, not resting on a perception of the true nature of things." ([YS 1.8](https://www.gutenberg.org/ebooks/2526))
 
-His commentary gives the mechanism: "When the object is not truly perceived, when the observation is inaccurate and faulty, thought or reasoning based on that mistaken perception is of necessity false and unsound." ([Johnston on YS 1.8](https://www.gutenberg.org/ebooks/2526)) The distortion is expensive downstream, because everything reasoned from it inherits the fault.
+Johnston comments: "When the object is not truly perceived, when the observation is inaccurate and faulty, thought or reasoning based on that mistaken perception is of necessity false and unsound." ([commentary on YS 1.8](https://www.gutenberg.org/ebooks/2526)) The distortion is expensive downstream, because everything reasoned from it inherits the fault.
 
 The compendium's counsel: treat strong conviction as a flag, not a proof. Its check is to run your strongest current conviction through the question, what would I see if this were false?
 
-**Plain words** One of the five things a mind does is misunderstand while feeling sure. Because the sureness feels like perception, you act on it. The check is to ask what the world would look like if you were wrong, and then to actually look.
+**Plain words** A convincing explanation may depend on a mistaken observation. Check what was actually observed and what would count against your account.
 
 *For example:* The team that was certain the feature was what users wanted. One week of user interviews broke the conviction in five places.
 ## Psychology parallels

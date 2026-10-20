@@ -12,16 +12,24 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 39** — Dedicate the fruits beyond yourself
 
-Ishvara-pranidhana is classically surrender to the Lord; the tradition also places it as the capstone of Kriya Yoga, the dedication of the practice and its results to something beyond the ego's project. This book keeps both readings visible: the bounded formulation is dedicating outcomes beyond yourself, whether to a person, a purpose, or a process larger than your self-image. Practically, end each practice with one sentence of dedication.
+Johnston translates the opening of Book II as:
 
-(YS 2.1; YS 2.45; BG 9.27, "whatever you do, do it as offering to Me," read as dedication.)
+> "The practices which make for union with the Soul are: fervent aspiration, spiritual reading, and complete obedience to the Master." ([Yoga Sutras II.1, Johnston translation](https://www.gutenberg.org/ebooks/2526))
 
-**Plain words** Dedicate the fruits beyond yourself: the practice and its results offered to something larger than the ego's project. Theological or secular — either way, the act un-hooks the outcome from the self's ledger, which is precisely what makes the practice steadier.
+Later, he renders II.45:
 
-*For example:* The researcher who stops asking "is this making me impressive?" and starts dedicating the work to the patients it might serve — same hours, same lab; entirely different nervous system.
+> "Soul-vision is perfected through perfect obedience to the Master." ([Yoga Sutras II.45, Johnston translation](https://www.gutenberg.org/ebooks/2526))
+
+Johnston's comment on the verse names the obstacle: "The sorrow and darkness of life come of the erring personal will which sets itself against the will of the Soul, the one great Life." ([commentary on II.45](https://www.gutenberg.org/ebooks/2526))
+
+The compendium offers a secular adaptation: name a person or purpose your work is intended to serve, and end a session with one sentence of dedication.
+
+**Plain words** If recognition never came, who would you still want this work to help? Let that answer help set your priorities.
+
+*For example (imagined):* A researcher dedicates an afternoon's analysis to the patients the project is intended to help.
 ## Psychology parallels
 
-- **[[Self-transcendence|Self-transcendent purpose and goal pursuit]]**, purpose-linked goals outperform ego-linked ones (Yeager et al., 2014)
+- **[[Self-transcendence|Self-transcendent purpose and goal pursuit]]** (Yeager et al., 2014)
 
 ## Philosophy parallels
 
