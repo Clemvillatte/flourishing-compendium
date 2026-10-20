@@ -27,7 +27,8 @@
   "R118",
   "S016",
   "S022",
-  "S024"
+  "S024",
+  "S025"
  ],
  "in_progress": null,
  "flagged": {
@@ -41,6 +42,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T14:14:32+00:00",
+ "updated": "2026-10-20T14:15:06+00:00",
  "band_done": false
 }

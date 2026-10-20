@@ -12,13 +12,21 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 147** — Do not seek pleasure as the highest good
 
-The Stoic is not an ascetic, but neither is pleasure the goal. Pleasure is a preferred indifferent, not a good. The person who arranges their life around pleasure is enslaved to the things that produce it. Arrange your life around virtue, and let pleasure follow.
+Seneca's Letter 59 draws a line between pleasure and joy. Pleasure is "inspired by an opinion concerning a spurious good" and is "likely soon to take another direction"; joy "never ceases, and never changes into its opposite" ([Letters to Lucilius 59, Gummere translation; opened text](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_59)):
 
-(Disc. II.9, II.18, II.19; Med. VI.16, VII.33; Seneca, Letters 59, 71.)
+> For "joy" is an elation of spirit,—of a spirit which trusts in the goodness and truth of its own possessions.
 
-**Plain words** The Stoic isn't an ascetic, but pleasure isn't the goal either. It's a preferred indifferent. Arrange your life around pleasure and you're enslaved by what produces it. Organise around virtue and let pleasure follow.
+(Seneca, Letters to Lucilius 59, trans. Richard M. Gummere; [opened text, Wikisource](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_59).)
 
-*For example:* Someone who wants only good dinners becomes a hostage of restaurants. Someone who values good company enjoys the dinner without needing it.
+"This joy springs only from the knowledge that you possess the virtues. None but the brave, the just, the self-restrained, can rejoice" ([same opened text](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_59)). The Stoic is no ascetic: pleasure is a preferred indifferent, and welcome when it arrives. The arrangement matters: build the life around what you are, and let pleasure follow.
+
+### Plain words
+
+Pleasure is not evil; it is unreliable. It follows from things going well, and things change. Joy, in Seneca's sense, follows from what you are, and luck does not move it. Arrange the day around the second, and the first mostly shows up anyway.
+
+### For example
+
+Take two people at the same dinner. One needs the evening to be excellent to call the week a success; the other came for the company. The same meal is a hostage fee for the first and a free bonus for the second.
 
 ## Psychology parallels
 
