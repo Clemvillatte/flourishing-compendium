@@ -12,13 +12,21 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 429** — Practise the situation
 
-Recognise that your freedom is always situated — it operates within the concrete conditions of your life. The situation is the ensemble of facts that limit and enable your choices. You are not free to change everything, but you are always free to choose your response to your situation. Do not confuse the limitations of your situation with the absence of freedom.
+Sartre states the structure of a situation in his 1946 lecture. Our "condition" is "all the limitations which a priori define man's fundamental situation in the universe". Historical positions vary, but "what never vary are the necessities of being in the world, of having to labor and to die there". These limits "are neither subjective nor objective, or rather there is both a subjective and an objective aspect of them. Objective, because we meet with them everywhere [...] and subjective because they are lived and are nothing if man does not live them" (Sartre, 1946, Existentialism Is a Humanism, trans. Philip Mairet, [marxists.org text](https://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm)).
 
-(Sartre, 1943/2003, Being and Nothingness, Part IV, ch. 1; de Beauvoir, 1947/2018, The Ethics of Ambiguity, Part II; Merleau-Ponty, 1945/2012, Phenomenology of Perception, Part III, ch. 3.)
+Beauvoir applies the idea to meaning. Existentialism holds "that the meaning of the situation does not impose itself on the consciousness of a passive subject, that it surges up only by the disclosure which a free subject effects in his project" (Beauvoir, 1947, The Ethics of Ambiguity, Part I, trans. Frechtman, [marxists.org text](https://www.marxists.org/reference/subject/ethics/de-beauvoir/ambiguity/ch01.htm)). Hard limits remain: "Ignorance and error are facts as inescapable as prison walls". Behaviour "can be judged only within this given situation", yet "once there appears a possibility of liberation, it is resignation of freedom not to exploit the possibility" (Part II, [marxists.org text](https://www.marxists.org/reference/subject/ethics/de-beauvoir/ambiguity/ch02.htm)).
 
-**Plain words** Your freedom is always situated — it operates within the concrete conditions of your life. The situation is the ensemble of facts that limit and enable your choices. Not free to change everything; always free to choose your response to what you can't. Work the situation.
+**Plain words**
+Your life comes with facts you didn't choose: your body, family, money and era. They shape which options exist, but you decide what they mean and what to do with them. When you say "I can't", check whether the world forbids it or you want to avoid the cost.
 
-*For example:* The caregiver who can't change the diagnosis, the hours, or the system — and maps the actual situation carefully: here the constraints, here the margins. The freedom was always in the margins; you can't work margins you've never mapped.
+**For example**
+Two people lose the same job in the same town. For one, the job market is a wall, and for the other it is the reason to retrain. The facts match, but what each does with them differs.
+
+## Sources
+
+- [Sartre, Existentialism Is a Humanism (1946), trans. Philip Mairet, marxists.org text](https://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm): the passages on condition, limitations and "Gide does not know what a situation is"; opened and text-checked. Being and Nothingness, Part IV, ch. 1, was not available to me.
+- [Beauvoir, The Ethics of Ambiguity, trans. Bernard Frechtman (Citadel Press, 1949), Parts I and II, marxists.org text](https://www.marxists.org/reference/subject/ethics/de-beauvoir/ambiguity/ch01.htm): opened and text-checked
+
 ## Stories
 
 - [[ST269 — The Waiter's Dance|269. The Waiter's Dance]]

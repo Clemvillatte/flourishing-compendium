@@ -88,3 +88,7 @@ No separate advisor tool available to this session; quotes are checked programma
 ## E074
 - Beauvoir, Ethics of Ambiguity, Frechtman trans. (Citadel 1949) via marxists.org Part II page: 9 quotations grep-verified. The inherited citation 'Part II, ch. 4' does not match this edition's structure (Part II is a single chapter 'Personal Freedom and Others'); body cites 'Part II'. Flag for owner/supervisor: the principle's text 'avoid the passionate man' somewhat flattens Beauvoir, who distinguishes generous from maniacal passions; body states this.
 - Limits: example hypothetical.
+
+## E037
+- Sartre, Existentialism Is a Humanism (Mairet trans.; marxists.org) and Beauvoir, Ethics of Ambiguity (Frechtman; marxists.org Parts I & II): 8 quotations grep-verified.
+- Limits: Being and Nothingness Part IV ch.1 and Merleau-Ponty (inherited citations) NOT opened; the body does not rely on them. Marxists.org text of the lecture is Mairet's translation as reproduced by Kaufmann's anthology. Example hypothetical.
