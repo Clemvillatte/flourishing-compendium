@@ -3,12 +3,12 @@
  "done": [
   "B014"
  ],
- "in_progress": null,
+ "in_progress": "B019",
  "flagged": {
   "B014": "Reopened for QC: advisor milestone QC repairs"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T02:00:21+00:00",
+ "updated": "2026-10-20T02:01:06+00:00",
  "band_done": false
 }
