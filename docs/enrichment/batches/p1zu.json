@@ -11,20 +11,20 @@
   "R025",
   "PP075",
   "R021",
-  "R028",
   "R040",
   "R042",
   "R061",
   "R070"
  ],
- "in_progress": null,
+ "in_progress": "R028",
  "flagged": {
   "PP016": "Reopened for QC: QC correction (first-item advisor review FAIL): symptom-claim wording, quote moved to blockquote, plain words/example replaced, Frankl gloss reduced, scoped A&T paraphrase",
   "PP075": "Reopened for QC: QC correction round 2 (R025 closure review): plain words and example generalisations replaced",
-  "R021": "Reopened for QC: QC correction round 2 (R025 closure review): plain words universal-model overreach replaced"
+  "R021": "Reopened for QC: QC correction round 2 (R025 closure review): plain words universal-model overreach replaced",
+  "R028": "Reopened for QC: QC correction (R070 milestone review): Te Ara material unopened-carrier removal; Kawharu qualification restored; unsupported kaitiaki gloss removed"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T13:10:18+00:00",
+ "updated": "2026-10-20T13:10:30+00:00",
  "band_done": false
 }
