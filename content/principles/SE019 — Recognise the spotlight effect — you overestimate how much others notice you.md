@@ -24,9 +24,9 @@ The authors' interpretation is anchoring and adjustment: you estimate others' at
 
 The compendium's instruction: when you feel scrutinised, treat the feeling as data about your own attention rather than about the room's.
 
-**Plain words** The thing you cannot stop noticing about yourself — the stain, the flub, the pause — is one item among many in everyone else's field. You estimate the room's attention from your own attention, and the study says the correction runs too small. Before assuming everyone saw it, ask what you remember of other people's equivalent moments. Usually nothing.
+**Plain words** The thing you cannot stop noticing about yourself — the stain, the flub, the pause — is one item among many in everyone else's field. You estimate the room's attention from your own attention, and the study says the correction runs too small. The finding is about your estimate of what others see, so treat the felt scrutiny as a hypothesis: ask one person what they actually noticed before concluding the room saw it.
 
-*For example:* (imagined) The coffee spill that feels like a public spectacle. Ask anyone an hour later what they saw that morning and they cannot name it — they were replaying their own awkward email.
+*For example:* (imagined) After a coffee spill, someone asks a colleague whether the spill was noticeable, rather than assuming the whole group saw it.
 ## Psychology parallels
 
 - **[[Spotlight effect (Gilovich)|Spotlight effect (Gilovich)]]**, people overestimate how much others notice them (Gilovich et al., 2000; Savitsky et al., 2001)
@@ -40,7 +40,7 @@ The compendium's instruction: when you feel scrutinised, treat the feeling as da
 
 ## Practice
 
-- When you feel scrutinised, remember the spotlight effect: others are mostly attending to themselves, not to you. This reduces social anxiety and self-consciousness.
+- When you feel scrutinised, remember the finding: people tend to overestimate how much others take note of their actions and appearance. Ask one person what they actually noticed before concluding the room saw it.
 
 ## Related concepts
 
