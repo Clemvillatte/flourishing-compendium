@@ -6,3 +6,4 @@
   2. "The only true commonwealth was, he said, that which is as wide as the universe." (VI.72).
 - Prose scoping: the kosmopolitēs coinage claim is grounded in the opened footnote; the "refuses the local identity as the whole of who one is" reading is the compendium's gloss of the reply, kept interpretive-light and tied to the two quoted anecdotes; no Stoic-history claims made. The Greek parallel (Perseus, tl.g.0004 VI.63, ἐρωτηθεὶς πόθεν εἴη, "κοσμοπολίτης," ἔφη) was seen in search results but the English page is the quoted source.
 - Front-matter, all nine original wikilinks, and the Cited-in section preserved; validator --fast-track ok as part of the done transition.
+- Milestone QC (advisor, 2026-10-20, 5-item mark): repairs applied and validated against the pre-enrichment baseline (10cc1005); item closed.
