@@ -714,3 +714,12 @@ convention).
 - Comparison page rewritten as relational exposition linking both granulars; all five Cited-in principle links preserved; seed line replaced (the "Vallerand, 2010" citation line kept in Sources as inherited, unhyperlinked — that review not opened this session).
 - Both pages validated (comparison vs pre-edit HEAD ok; new page committed then validated ok).
 - QC: no advisor QC (item 8; cadence = first + every 5th, next at item 10).
+
+## Helper's high (fast-track, genuineflourishing01, 2026-10-20)
+- Degree 5 at selection (principles B114/B157/BE061/D136/D168) — fast-track eligible per §1a.
+- Source opened: Stephen Post, "It's Good to Be Good: Science Says It's So", Health Progress (July-August 2009), author-hosted PDF at chausa.org — Post's own later summary of the Post 2005 review material. Blockquote verified verbatim in the fetched extraction (Luks passage with survey statistics). The volunteering-threshold and correlation sentences grounded in the same fetch.
+- The seed's "Post, 2005" citation line kept (unhyperlinked; the Springer IJBM 2005 original is paywalled — its abstract's correlation sentence matches the carrier's wording per the search snippet, but the opened source for every displayed quotation is the 2009 carrier, disclosed in the attribution).
+- "in the 1980s" dating of Luks's survey REMOVED from prose (not in the opened passage; the Luks 1988 Psychology Today reference appears only in unopened search snippets).
+- No In-the-compendium block (fast-track bar; five principle links preserved in Cited-in).
+- Saturation: fast-track exemption; no reciprocal proposed.
+- QC: validator ok at fast-track profile; no advisor QC (item 9; next at item 10).
