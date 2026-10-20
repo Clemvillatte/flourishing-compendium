@@ -7,11 +7,11 @@ file: "Metacognitive monitoring"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-M"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter M", "parent": ""}
 ---
-Metacognitive monitoring is the mind's watching of its own workings, the capacity the term "metacognition" was coined to name. Flavell's 1979 paper, which opened the field, describes it through children's developing ability to monitor their own memory and comprehension ([Flavell, Metacognition and Cognitive Monitoring, Semantic Scholar](https://www.semanticscholar.org/paper/Metacognition-and-Cognitive-Monitoring:-A-New-Area-Flavell/ee652f0f63ed5b0cfe0af4cb4ea76b2ecf790c8d)). The paper's opening examples:
+Metacognitive monitoring concerns assessing one's own cognitive activity, including memory and comprehension ([Flavell, Metacognition and Cognitive Monitoring, Semantic Scholar](https://www.semanticscholar.org/paper/Metacognition-and-Cognitive-Monitoring:-A-New-Area-Flavell/ee652f0f63ed5b0cfe0af4cb4ea76b2ecf790c8d)). Flavell illustrates this through children's judgments about their readiness to recall studied material ([Flavell, Metacognition and Cognitive Monitoring, Semantic Scholar](https://www.semanticscholar.org/paper/Metacognition-and-Cognitive-Monitoring:-A-New-Area-Flavell/ee652f0f63ed5b0cfe0af4cb4ea76b2ecf790c8d)):
 
 > "Preschool and elementary school children were asked to study a set of items until they were sure they could recall them perfectly (Flavell, Friedrichs, & Hoyt, 1970). The older subjects studied for a while, said they were ready, and usually were, that is, they showed perfect recall. The younger children studied for a while, said they were ready, and usually were not." (Flavell, [Metacognition and Cognitive Monitoring, via Semantic Scholar](https://www.semanticscholar.org/paper/Metacognition-and-Cognitive-Monitoring:-A-New-Area-Flavell/ee652f0f63ed5b0cfe0af4cb4ea76b2ecf790c8d))
 
-And its conclusion from such results:
+And its conclusion from such results ([Flavell, Metacognition and Cognitive Monitoring, Semantic Scholar](https://www.semanticscholar.org/paper/Metacognition-and-Cognitive-Monitoring:-A-New-Area-Flavell/ee652f0f63ed5b0cfe0af4cb4ea76b2ecf790c8d)):
 
 > "Results such as these have suggested that young children are quite limited in their knowledge and cognition about cognitive phenomena, or in their metacognition, and do relatively little monitoring of their own memory, comprehension, and other cognitive enterprises (see, e.g., Brown, 1978; Flavell, 1978; Flavell & Wellman, 1977; Kreutzer, Leonard, & Flavell, 1975; Flavell, Note 1, Note 2, Note 3; Markman, Note 4)." (Flavell, [Metacognition and Cognitive Monitoring, via Semantic Scholar](https://www.semanticscholar.org/paper/Metacognition-and-Cognitive-Monitoring:-A-New-Area-Flavell/ee652f0f63ed5b0cfe0af4cb4ea76b2ecf790c8d))
 
@@ -23,8 +23,6 @@ And its conclusion from such results:
 ## Other formulations in this library
 
 
-
-- the separation of knowing from content (Flavell, 1979)
 
 ## Sources
 
