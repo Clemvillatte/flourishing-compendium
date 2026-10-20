@@ -547,3 +547,20 @@ done for BE052/BI032/BI045. Content items flagged for the new p1h owner (below).
 - Linked-concept read: Media multitasking (seed citing Ophir — consistent; AT063
   is not in its cited-in list, but the principle links it via parallels).
   Validator ok.
+
+### AT067 (2026-10-20, worker-p1h-7d3e9c4a)
+
+- Source opened: Szalma & Hancock 2011 record (ERIC EJ930167; two wrong-PMID fetches
+  discarded). Blockquote verbatim (moderators sentence); the 242-studies figure from
+  the opened abstract ("797 effect sizes derived from 242 studies").
+- Seed-body claims scoped: the blanket "poor environments degrade attention;
+  well-designed environments support it" replaced with the meta-analysis's own
+  moderation finding (effects depend on noise type and task); light/space/air
+  literatures left as inherited parallels, explicitly not opened; "attention
+  chemistry"/"the mind follows"/"focus gets a gear" aphorisms removed; the
+  practice-section "measurable attentional improvements" promise was inherited and
+  left (practice sections untouched); plain words re-derived as an experiment;
+  example now names the check.
+- Linked-concept reads: Feng shui (seed, consistent), Designing for virtue and
+  Designing the environment for virtue cited in parallels. Neighbors dense
+  (8 concepts + layer). Validator ok.
