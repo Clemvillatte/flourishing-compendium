@@ -12,13 +12,20 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 342** — Practise care for the natural world
 
-Extend your care to the non-human world. The ethics of care is not anthropocentric; it recognises that we are in relationship with animals, ecosystems, and the natural world. Care for them as you would care for any being in your moral circle.
+Care ethicists disagree about how far care reaches. Noddings held that "humans have moral obligations only to animals which are proximate, open to caring completion, and capable of reciprocity". On those grounds she judged that one has an obligation to care for a stray cat at the door or to move spiders out of the house, but "no obligation to care for a stray rat or to become a vegetarian". Rita Manning sees differing obligations to companion, domesticated and wild animals, based on "carefully listening to the creatures who are with you in [a] concrete situation". Adams and Donovan argue that care ethics is "a preferable foundation for grounding moral obligations to animals because its relational ontology acknowledges love and empathy as major bases for human-animal connections". Engster links the obligation to dependency: it "is established when humans make them dependent by providing food or shelter" ([IEP, "Care Ethics"](https://iep.utm.edu/care-eth/), section on caring for animals).
 
-(Held, 2006, The Ethics of Care; Puig de la Bellacasa, 2017, Matters of Care: Speculative Ethics in More Than Human Worlds.)
+So the care tradition does not offer one "moral circle" that treats all beings alike. It asks you to attend to particular relationships and to listen. I did not open Held's chapters or Puig de la Bellacasa's book, so I cannot say what they add about ecosystems and rivers.
 
-**Plain words** Extend care to the non-human world: animals, ecosystems, rivers — relationship, not resource. The moral circle isn't a human-only club. Care for them as beings you're in relationship with, because you are.
+**Plain words**
+Care can reach animals and the places you depend on, but the strength of the obligation depends on the relationship, such as a pet, a garden or a river near home. Start where you already have ties, then listen to what that being needs.
 
-*For example:* The household that stopped thinking of the garden as décor and started thinking of it as habitat — native plants, water for the birds, the frogs back by the third summer.
+**For example**
+You rent a flat near a creek and join a monthly clean-up of its banks.
+
+## Sources
+
+- [Internet Encyclopedia of Philosophy, "Care Ethics," section 9, Caring for Animals](https://iep.utm.edu/care-eth/): opened
+
 ## Psychology parallels
 
 - **[[Nature connectedness|Nature connectedness and well-being]]** (Mayer and Frantz, 2004)

@@ -75,3 +75,7 @@
 ## R078
 - IEP 'Care Ethics' (fetched; 8 quotations verified: caring motivation/emotion; Noddings's two motives and 'engrossment'; Baier on sentimental traits/moral emotions; criticisms).
 - Limits: Held (2006) and Noddings (1984) not opened (summarised via IEP); statement's 'suppressed, they leak' not found in any opened source, so omitted. Example hypothetical.
+
+## R080
+- IEP 'Care Ethics' section 9 (fetched; 5 quotations verified).
+- Limits: Held 2006 and Puig de la Bellacasa 2017 not opened (publisher page not found); statement's 'care for them as for any being in your moral circle' CONFLICTS with Noddings/Engster (limited obligations) - body presents the disagreement honestly. Example hypothetical.
