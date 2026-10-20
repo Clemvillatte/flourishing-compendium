@@ -497,3 +497,27 @@ opened text at the recorded URL.
   Inherited psychology parallels (Dweck 2006; Markus and Nurius 1986) and
   philosophy parallels (The good life as process; Dewey HNC; Becoming)
   preserved untouched and NOT verified this session.
+
+## P188 — Find the moral equivalent of war in constructive service (2026-10-20)
+
+- OPENED: William James, "The Moral Equivalent of War" (1910), in
+  Memories and Studies, Project Gutenberg #20768,
+  https://www.gutenberg.org/cache/epub/20768/pg20768.txt (essay XI; raw
+  text; the opening, the martial-virtues passage, the conscription
+  proposal and the closing argument read in context).
+- Verified verbatim: all three blockquotes ("Martial virtues must be
+  the enduring cement..."; "So far, war has been the only force..."; "The
+  martial type of character can be bred without war."), exact to the
+  Gutenberg text. Transcription notes: the first quote is truncated at
+  the source's double-hyphen dash before "unless" (elision noted; the
+  source's "--" transcribes em dashes, so all three quotes were chosen
+  to be dash-free as printed). No printed-page markers in this edition;
+  locator is essay XI within Memories and Studies.
+- The seed's first-person adaptation line ("This is my adaptation;
+  James's own proposal involved coercive conscription...") was preserved
+  in substance: the body presents the conscription as James's own
+  remedy and labels the voluntary-service reading as the compendium's;
+  the protected Practice and Limits sections retain the explicit
+  caveats. Inherited psychology parallel (Piliavin and Siegl 2007) and
+  philosophy parallels preserved untouched and NOT verified this
+  session.

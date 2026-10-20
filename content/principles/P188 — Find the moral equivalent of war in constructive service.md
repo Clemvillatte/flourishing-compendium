@@ -12,13 +12,24 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 188** — Find the moral equivalent of war in constructive service
 
-James argues that certain goods — hardihood, discipline, comradeship in difficulty, willingness to surrender private interest for a common task — are real and were originally bred by war. If peace is to hold, these goods must find voluntary, constructive outlets: service, difficult craft, caregiving, conservation. This is my adaptation; James's own proposal involved coercive conscription, which I do not endorse. The martial virtues themselves are not endorsed as absolute goods.
+James grants the war-party its premise: the martial virtues are real, were bred by war, and peace cannot simply be a pleasure-economy. His own remedy is a conscription of the youthful population into an army enlisted against Nature; the compendium reads the equivalent as voluntary service and difficult craft instead. (James, "The Moral Equivalent of War," 1910.)
 
-(James, "The Moral Equivalent of War," 1910.)
+> "Martial virtues must be the enduring cement; intrepidity, contempt of softness, surrender of private interest, obedience to command, must still remain the rock upon which states are built" (James, "The Moral Equivalent of War," in Memories and Studies, [Gutenberg](https://www.gutenberg.org/cache/epub/20768/pg20768.txt))
 
-**Plain words** Certain goods — hardihood, discipline, comradeship in difficulty, willingness to surrender private interest for a common task — are real, and were historically bred by war. If peace is to hold, these goods must find voluntary, constructive outlets: service, difficult craft, caregiving, conservation. The martial virtues themselves are not absolute goods; the capacities are worth keeping, and the war isn't.
+> "So far, war has been the only force that can discipline a whole community, and until an equivalent discipline is organized, I believe that war must have its way." (James, "The Moral Equivalent of War," in Memories and Studies, [Gutenberg](https://www.gutenberg.org/cache/epub/20768/pg20768.txt))
 
-*For example:* The wildfire volunteer crews — hardihood, discipline, comradeship, sacrifice for a common task: everything war once supplied, aimed at a fire instead of a person. The moral equivalent, running on coffee and goodwill.
+> "The martial type of character can be bred without war." (James, "The Moral Equivalent of War," in Memories and Studies, [Gutenberg](https://www.gutenberg.org/cache/epub/20768/pg20768.txt))
+
+The compendium's exercise: where you feel the pull of intensity, discipline, and comradeship in a cause, name a constructive task that needs those same capacities this month, and take one shift of it.
+
+**Plain words**
+War trained people to be tough, disciplined, and loyal to a shared task. Those capacities are worth keeping, and a shared difficult job can train them.
+
+*For example:* Imagine you miss the camaraderie of a team under pressure. You join a volunteer crew doing flood cleanup, taking the same hard shifts for a common task.
+
+## Sources
+
+- [Memories and Studies, William James, Project Gutenberg](https://www.gutenberg.org/cache/epub/20768/pg20768.txt) — essay XI, "The Moral Equivalent of War"
 
 ## Psychology parallels
 
