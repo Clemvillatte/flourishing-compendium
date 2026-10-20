@@ -1,6 +1,6 @@
 {
  "batch": "p1zv",
- "revision": 13,
+ "revision": 14,
  "reciprocal": [
   {
    "into": "Truthfulness",
@@ -42,37 +42,37 @@
    "into": "Cosmopolitanism",
    "link": "S107",
    "why": "A Stoic principle on the universe as the common fatherland",
-   "notes": "S107 (2026-10-21, worker-p1zv-95f93b33): hub read earlier this session (cites S101/S006 etc., no S107 occurrence); grounded in S107's Musonius Lecture IX common-fatherland quote verified against the opened StoicSource page."
+   "notes": "S107-S126 QC closeout (2026-10-21, worker-p1zv-95f93b33): hub READ substantively in QC closeout (SEP core definition: citizens of a single community; Diogenes kosmopolites) \u2014 the Musonius common-fatherland quote is the Stoic statement of the hub core; no S107 occurrence."
   },
   {
    "into": "Resilience",
    "link": "S107",
    "why": "A Stoic principle on keeping conduct intact through displacement",
-   "notes": "S107 (2026-10-21, worker-p1zv-95f93b33): hub inspected via occurrence search (no S107 occurrence); grounded in S107's Lecture IX inventory quote verified against the opened StoicSource page."
+   "notes": "S107-S126 QC closeout (2026-10-21, worker-p1zv-95f93b33): hub READ substantively in QC closeout (Masten ordinary-magic developmental research) \u2014 conduct-through-displacement is the Stoic counterpart; no S107 occurrence."
   },
   {
    "into": "Justice",
    "link": "S113",
    "why": "A Stoic principle on holding power as a friend of justice",
-   "notes": "S113 (2026-10-21, worker-p1zv-95f93b33): hub inspected via occurrence search (no S113 occurrence in content/concepts/Justice.md); grounded in S113's Med. VI.30 'friend of justice' quote verified against the opened Long text."
+   "notes": "S107-S126 QC closeout (2026-10-21, worker-p1zv-95f93b33): hub READ substantively in QC closeout (Aristotle NE V, Plato Republic I, Rawls) \u2014 the VI.30 friend-of-justice wording is the Stoic member of the virtue family; no S113 occurrence."
   },
   {
    "into": "Resilience",
    "link": "S117",
    "why": "A Stoic principle on turning setbacks into material for the next attempt",
-   "notes": "S117 (2026-10-21, worker-p1zv-95f93b33): hub inspected via occurrence search (no S117 occurrence in content/concepts/Resilience.md; the S107 proposal is a separate record); grounded in S117's Med. V.20 obstacle quote verified against the opened Long text."
+   "notes": "S107-S126 QC closeout (2026-10-21, worker-p1zv-95f93b33): hub READ substantively in QC closeout (Masten) \u2014 setback-to-material is the Stoic counterpart to positive adaptation; no S117 occurrence."
   },
   {
    "into": "Impermanence",
    "link": "S118",
    "why": "A Stoic principle on accepting loss as return",
-   "notes": "S118 (2026-10-21, worker-p1zv-95f93b33): hub read earlier this session (cites S095/S128, no S118 occurrence); grounded in S118's Ench. 11 restored-not-lost quote verified against the extracted Long text."
+   "notes": "S107-S126 QC closeout (2026-10-21, worker-p1zv-95f93b33): hub READ substantively in QC closeout (cross-tradition hub: Heraclitus, Dao, anicca; Five Remembrances) \u2014 restored-not-lost is the Stoic member of the loss-acceptance family; no S118 occurrence."
   },
   {
    "into": "Acceptance",
    "link": "S118",
    "why": "A Stoic principle on accepting what was given back",
-   "notes": "S118 (2026-10-21, worker-p1zv-95f93b33): hub inspected via occurrence search (content/concepts/Acceptance.md has no S118 occurrence); grounded in S118's Ench. 11 quote verified against the extracted Long text."
+   "notes": "S107-S126 QC closeout (2026-10-21, worker-p1zv-95f93b33): hub READ substantively in QC closeout (Hayes et al. 2006 ACT definition, values-based action) \u2014 the Stoic restored-not-lost is the philosophical cognate; no S118 occurrence."
   },
   {
    "into": "Awe",
