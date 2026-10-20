@@ -20,9 +20,9 @@ One practice that travels under the theory's flag has evidence of its own, and i
 
 > "In recent years there has been substantial support for heart rate variability biofeedback (HRVB) as a treatment for a variety of disorders and for performance enhancement (Gevirtz, 2013)." (Lehrer & Gevirtz, 2014, Frontiers in Psychology 5:756, Abstract, [full text](https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00756/full))
 
-That evidence concerns structured heart-rate-variability biofeedback as an intervention; it is not automatically evidence for standalone breathing exercises, safety cues, social connection, humming or cold water. The paper's mechanisms are baroreflex and vagal-afferent ones; whether or not the polyvagal map survives, this intervention's evidence does not depend on it.
+That evidence concerns structured heart-rate-variability biofeedback as an intervention; it is not automatically evidence for standalone breathing exercises, safety cues, social connection, humming or cold water. The mechanisms the paper discusses are candidate ones, in its own words: baroreceptor homeostasis is the "most supported possible mechanism", and a vagal-afferent pathway effect "has been proposed". Whether or not the polyvagal map survives, this intervention's evidence does not depend on it.
 
-**Plain words** The theory gives people a ladder of nervous-system states. The critics say the anatomy behind the ladder does not hold up; the theory's author says the critique misses the theory's actual claims. Separately, one practice that often travels with the theory, structured heart-rate-variability biofeedback, has evidence from trials of that intervention. That is a narrower fact than either side's enthusiasts claim. So when a course teaches "vagal toning" with humming or cold water, note that the opened evidence concerns biofeedback, not those exercises; whether they help is not something this page's sources establish. If the theory is ever settled, the exhale will still be there.
+**Plain words** The theory gives people a ladder of nervous-system states. The critics say the anatomy behind the ladder does not hold up; the theory's author says the critique misses the theory's actual claims. Separately, one practice that often travels with the theory, structured heart-rate-variability biofeedback, has evidence from trials of that intervention. So when a course teaches "vagal toning" with humming or cold water, note that the opened evidence concerns biofeedback, not those exercises; whether they help is not something this page's sources establish. If the theory is ever settled, the exhale will still be there.
 
 **For example:** Imagined: a course teaches "vagal toning" with humming and cold water. The mechanism on the label is contested science, and the opened trial evidence concerns a different, structured intervention. You do not need the theory to be true for a practice to be worth discussing with a professional.
 
@@ -40,7 +40,7 @@ That evidence concerns structured heart-rate-variability biofeedback as an inter
 
 ## Practice
 
-- Use the practices (slow breathing, safety cues, social connection) without needing to accept the theory. If a therapist uses polyvagal language, the techniques may still help; just do not treat the theory as settled science.
+- If a therapist or course uses polyvagal language, ask which specific intervention is being proposed and what evidence supports that intervention. Do not treat the theory as settled science, and do not take the vocabulary as evidence for the exercises.
 
 ## Sources
 
