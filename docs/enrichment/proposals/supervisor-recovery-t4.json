@@ -1,0 +1,13 @@
+{
+ "batch": "supervisor-recovery-t4",
+ "revision": 1,
+ "reciprocal": [
+  {
+   "into": "content/concepts/Meta-awareness.md",
+   "link": "Right mindfulness",
+   "why": "the eightfold path's mindfulness factor (MN 10's four establishments)"
+  }
+ ],
+ "notes": "w1b legacy recovery tranche 4 (Right mindfulness family). Original claim-bearing clauses unevidenced in the w1b ledger; neutral clause grounded in the concept page's own sourced opening (MN 10 / Noble Eightfold Path). Sati, Right concentration, Right view, Beginner's mind already linked (skipped). - supervisor-3ef4f549, 2026-10-20 | deferred at this run (target band busy): 1 recip, 0 inline",
+ "inline": []
+}

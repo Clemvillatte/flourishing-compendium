@@ -30,9 +30,11 @@ The cross-tradition cognates are exact: [[Anatta]] and [[Self-as-context]] are t
 
 
 
+
 - [[Distrust names and labels]] — the defusion page names the word-experience fusion this concept warns about; reciprocal of the Related entry
 - [[Decentering]] — the review lists cognitive defusion among the decentering-related constructs it maps onto one phenomenon
 - [[Psychological flexibility]] — listed for comparison
+- [[Right mindfulness]] — the eightfold path's mindfulness factor (MN 10's four establishments)
 ## Sources
 
 - Hayes et al., 2011

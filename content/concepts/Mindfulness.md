@@ -28,6 +28,7 @@ MBSR's design goal was a training vehicle for facing stress, pain and illness, n
 ## Related concepts
 
 
+
 - [[Anapanasati (mindfulness of breathing)]] — the Buddha's discourse on mindfulness of breathing, one of the two root texts
 - [[Body scan in MBSR (Kabat-Zinn)]] — the program's signature exercise for training mindful attention in the body
 - [[Anchors in focused attention meditation]] — the concentrative end of the attention family
@@ -37,6 +38,7 @@ MBSR's design goal was a training vehicle for facing stress, pain and illness, n
 - [[Interoception]] — the body-signal channel that mindful attention includes
 - [[Present-moment awareness theory]] — the theory-of-now research line
 - [[P161]] — P161's psychology parallels link Mindfulness-based interventions, and its body quotes the ACT review's account of contact with the present moment (life occurs only in the now; values are lived out moment to moment). The Mindfulness page gives the clinical background behind that link.
+- [[Right mindfulness]] — the eightfold path's mindfulness factor (MN 10's four establishments)
 ## Sources
 
 - [Kabat-Zinn, "Mindfulness-Based Interventions in Context: Past, Present, and Future", Clinical Psychology: Science and Practice 10(2), 2003, full-text PDF](https://jonkabat-zinn.com/wp-content/uploads/2023/01/JonKabat-Zinn_MindfulnessBased-InterventionsContext.pdf) — operational definition; dharma origins; MBSR 1979 design

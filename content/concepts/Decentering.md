@@ -54,6 +54,7 @@ Fresco and colleagues also describe decentering in clinical practice:
 - Shapiro et al., 2006
 ## Related concepts
 
+
 - [[Cognitive defusion]] — a construct the review lists among the decentering-related constructs
 - [[Metacognitive awareness]] — a monitoring process the same literature treats as enabling decentering from thoughts
 - [[Metacognitive monitoring]] — the tradition of observing one’s own thinking as thinking
@@ -62,7 +63,7 @@ Fresco and colleagues also describe decentering in clinical practice:
 - [[Epoché]] — the phenomenological suspension the compendium’s E006 principle pairs with Decentering
 - [[Mindfulness]] — the practice family the compendium connects to this shift
 - [[Acceptance]] — the compendium’s Acceptance page calls decentering its mindfulness-research cousin
-
+- [[Right mindfulness]] — the eightfold path's mindfulness factor (MN 10's four establishments)
 ## Sources
 
 - [Bernstein et al., 2015, Perspectives on Psychological Science 10(5):599-617](https://journals.sagepub.com/doi/10.1177/1745691615594577) — the proposed metacognitive processes model
