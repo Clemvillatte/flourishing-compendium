@@ -9,13 +9,42 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Koan practice” — Zen Buddhism, Mumonkan.
 
+A kōan (Japanese 公案, from Chinese gong'an, a word that originally referred to the case records of a public law court) is a story, dialogue, question or statement from Chan and Zen lore used in Buddhist practice ([Wikipedia, Kōan](https://en.wikipedia.org/wiki/K%C5%8Dan)). In the Rinzai school the kōan method is a meditation practice intended to help the practitioner embody wisdom and compassion ([Stanford Encyclopedia of Philosophy, §2](https://plato.stanford.edu/entries/japanese-zen/)).
+
+> "A kōan is formulated like a riddle or puzzle and is designed in such a way that intellectual reasoning alone cannot solve it without breaking through the barrier of ego-consciousness by driving it to its limit." (Shigenori Nagatomo, [Japanese Zen Buddhist Philosophy, §2](https://plato.stanford.edu/entries/japanese-zen/))
+
+### The Mu case
+
+Case 1 of the Mumonkan (The Gateless Gate, a collection compiled by Ekai, called Mumon, in the Senzaki and Reps translation) has a monk ask the Chinese master Joshu whether a dog has Buddha-nature; Joshu answers "Mu" ([Sacred Texts, Case 1](https://sacred-texts.com/bud/glg/glg01.htm)). Mumon's comment on the case instructs the student:
+
+> "If you want to pass this barrier, you must work through every bone in your body, through every pore of your skin, filled with this question: What is Mu? and carry it day and night." ([Mumonkan, Case 1](https://sacred-texts.com/bud/glg/glg01.htm))
+
+The practice view is that a kōan is neither meaningless nor a riddle to be solved, and teachers do expect students to present a response, which they probe with checking questions ([Wikipedia, Kōan](https://en.wikipedia.org/wiki/K%C5%8Dan)). Case 29 of the same collection, two monks arguing whether the wind or the flag is moving until the sixth patriarch says "Not the wind, not the flag; mind is moving" ([Sacred Texts, Case 29](https://sacred-texts.com/bud/glg/glg29.htm)), is retold in the compendium as the story [[ST071 — The Wind and the Flag]].
+
+### In the compendium
+
+- [[Y097 — Keep the question alive]] — its instruction is to carry one open question as one would carry a kōan
+- [[Y091 — Ask who is aware]] — the "who is aware?" inquiry, treated as the practice rather than a question to answer
+- [[B139 — Live the question (what is this)]] — the "what is this?" question carried into practice, with Seung Sahn's "don't know" mind
+- [[ST071 — The Wind and the Flag]] — the wind-and-flag case retold as a compendium story
+- [[Y063 — Hold one practice to steady the mind]] — the one-practice instruction behind taking up a single case
+- [[CO052 — Cultivate dialectical thinking — hold contradictions without forcing resolution]] — a cross-tradition parallel the compendium cites alongside the kōan
+
 ## Related concepts
 
 
-- [[Showing versus saying]] — the Zen pointing device
-- [[The limits of language]] — the device for exhausting what the limit keeps out
+- [[Showing versus saying]] — Wittgenstein's distinction between what can be said and what can only be shown
+- [[The limits of language]] — the Tractatus boundary to what can be meaningfully said
+- [[One koan]] — the single case taken up in practice
+- [[The unanswerable koan]] — the case held as an unanswerable question
+- [[Doubt as method]] — doubt used as an instrument of inquiry
+- [[Shikantaza, just sitting]] — the Sōtō school's sitting practice, the other method named alongside the kōan method
 ## Sources
 
+- [Nagatomo, Japanese Zen Buddhist Philosophy, §2 (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/japanese-zen/) — the blockquote on what a kōan is and the Rinzai method
+- [Mumonkan (The Gateless Gate), Case 1, Senzaki and Reps translation (Sacred Texts)](https://sacred-texts.com/bud/glg/glg01.htm) — the Mu case and Mumon's instruction
+- [Mumonkan, Case 29 (Sacred Texts)](https://sacred-texts.com/bud/glg/glg29.htm) — the wind-and-flag case behind the compendium's story ST071
+- [Kōan, Wikipedia](https://en.wikipedia.org/wiki/K%C5%8Dan) — the definition, the gong'an etymology, and the practice view that a kōan is not a riddle to be solved
 - Zen Buddhism, Mumonkan
 
 [[Y097 — Keep the question alive]]
