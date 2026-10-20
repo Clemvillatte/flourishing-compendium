@@ -43,3 +43,7 @@
 ### Reinforcement schedules — QC round 2 repairs (5-item milestone)
 
 - Removed the unsupported acquisition-speed claims (the opened sources state extinction and steady-state differences, no acquisition claims; confirmed absent in a claim-verification re-fetch of Baum 2025). Blockquote replaced with the self-contained "Broadly speaking" paragraph (defines both schedule ways before the ratio/interval labels; inducer contextualised by the PIE sentence retained in the source). Ratio-strain and rate sentences verbatim-grounded; added Baum's hunting/gambling/email examples (verbatim-grounded). BE008 clause simplified to a description of the repo's use without endorsing its unverified empirical claims.
+
+### Relational Developmental Systems Theory — QC round 2 repairs (5-item milestone)
+
+- Removed the unsupported claims (Lerner and Overton as joint originators; the biology-through-history levels list; the separate-causes contrast): a claim-verification re-fetch confirmed none appear in the opened article. Opening replaced with the article's own naming sentence (RDSTs; Lerner et al., 2014; Overton, 2014) and its paradigm-shift framing (reductionism to transactionalism, dualism to systems). Synthesis now stays on the abstract sentence (multi-level analyses, interindividual differences in intraindividual change, co-action) plus a direct reading of the "relative (e.g., limited) plasticity" tenet.
