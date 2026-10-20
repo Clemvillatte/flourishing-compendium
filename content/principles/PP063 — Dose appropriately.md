@@ -12,13 +12,20 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 ---
 > **Principle 63** — Dose appropriately
 
-More is not always better. Gratitude practised once a week may be more effective than gratitude practised daily, because daily practice can produce habituation and irritation. Exercise, social connection, and creative engagement all have optimal doses, above which returns diminish or reverse. The principle is to find the dose that produces the effect without producing the side effect.
+More is not always better. In the 2005 interventions, the frequency of the practice decided whether it worked at all:
 
-(Lyubomirsky et al., 2005; Sheldon et al., 2013.)
+> "In summary, students who regularly expressed gratitude showed increases in well-being over the course of the study relative to controls, but these increases were observed only among students who performed the activity just once a week (see Figure 3, bottom panel)." (Lyubomirsky, Sheldon & Schkade, "Pursuing Happiness: The Architecture of Sustainable Change", Review of General Psychology, 2005)
 
-**Plain words** More isn't better. Gratitude once a week can work better than daily, because daily practice breeds habituation and irritation. Exercise, socialising and creative work all have doses past which returns shrink or reverse. Find your dose.
+The same pattern appeared with acts of kindness: participants who committed five kind acts a week increased in well-being only when all five were done in a single day; spreading them out, the authors suggest, might have diminished their salience and power. The principle for practice: find the dose that produces the effect without producing the side effect, and expect the right dose to be less frequent, or more concentrated, than intuition suggests.
 
-*For example:* Writing three things you're grateful for every night turns sour by week two; once a week it stays alive.
+**Plain words**
+The studies found that timing mattered as much as doing: gratitude once a week worked, three times a week did not, and the authors' suggestion is that spread-out practice loses its salience and power. Treat a practice like a prescription: if one has stopped working, the dose may be wrong, not the medicine. The page extends the finding beyond what was studied — exercise, social connection, and creative engagement plausibly have the same shape — and the move in each case is to look for the dose rather than assume more is better.
+
+*For example:* Counting blessings three times a week was the version that did nothing in the study; the once-a-week version is the one to try.
+
+## Sources
+
+- Lyubomirsky, S., Sheldon, K. M., & Schkade, D., "Pursuing Happiness: The Architecture of Sustainable Change", Review of General Psychology 9(2) (2005), pp. 111-131 — [full PDF](https://sonjalyubomirsky.com/wp-content/uploads/2024/07/Lyubomirsky-Sheldon-Schkade-2005.pdf)
 
 ## Stories
 
