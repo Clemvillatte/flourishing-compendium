@@ -116,3 +116,7 @@ No separate advisor tool available to this session; quotes are checked programma
 ## M003
 - Maffie, 'Aztec Philosophy', IEP (fetched; sections 2b & 2f): 11 quotations grep-verified.
 - Limits: Leon-Portilla (inherited citation) not opened; Ometeotl material attributed to Maffie's account. Maffie's text stresses agonistic tug-of-war and no resolution; body keeps this nuance (statement's 'not opposites at war' is softer than Maffie). Statement says 'Mesoamerican'; sources cover Nahua/Aztec specifically, body says Nahua. Maffie's book chapters (Aztec Philosophy 2014) not opened. Example hypothetical.
+
+## M021
+- Maffie, 'Aztec Philosophy', IEP (fetched; sections 3b & 4b): 9 quotations grep-verified (source typo 'authenthic' normalised).
+- Limits: Leon-Portilla 1963 and Gingerich 1987 (cited within IEP) not opened. Statement's etymology 'neltiliztli derives from the root of to root' not stated in the opened text (IEP gives well-rootedness meaning only), so body omits the etymology claim. 'Words are true when rooted in lived experience' is the statement's gloss; IEP says utterances are neltiliztli when well-rooted in teotl. Maffie's book chapters not opened. Example hypothetical.
