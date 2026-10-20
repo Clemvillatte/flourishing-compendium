@@ -1,11 +1,12 @@
 {
  "batch": "w1i",
  "done": [
-  "Shikantaza, just sitting"
+  "Shikantaza, just sitting",
+  "Engaged Buddhism"
  ],
- "in_progress": "Engaged Buddhism",
+ "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 2,
- "updated": "2026-10-20T06:22:17+00:00"
+ "updated": "2026-10-20T06:22:20+00:00"
 }
