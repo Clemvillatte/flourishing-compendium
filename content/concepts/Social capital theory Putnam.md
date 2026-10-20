@@ -17,7 +17,7 @@ Sociocultural · Psychological science
 Robert Putnam drew the term from an analogy with physical and human capital. Tools and training make an individual more productive. His 1995 essay argued that certain features of a community do the same for collective life, and gave the analogy its canonical form:
 
 > By analogy with notions of physical capital and human capital—tools and training that enhance individual productivity—"social capital" refers to features of social organization such as networks, norms, and social trust that facilitate coordination and cooperation for mutual benefit.
-> — Robert D. Putnam, "Bowling Alone: America's Declining Social Capital," Journal of Democracy 6(1), 1995, p. 67
+> — Robert D. Putnam, "Bowling Alone: America's Declining Social Capital," Journal of Democracy 6(1), 1995, p. 67 ([full text](https://historyofsocialwork.org/1995_Putnam/1995,%20Putnam,%20bowling%20alone.pdf))
 
 The essay's emblem is bowling. More Americans were bowling than ever before, but between 1980 and 1993 league bowling fell by 40 percent while the total number of bowlers rose by 10 percent. Putnam's point was the social interaction, and occasionally civic conversation, that league members had over beer and pizza. His conclusion was that American participation in civic associations had weakened considerably during the preceding generation.
 
