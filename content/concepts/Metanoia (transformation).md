@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Metanoia (transformation)” — Christian tradition.
 
-Metanoia (Greek μετάνοια) is the word the Christian tradition renders as repentance, a change of mind ([Thayer's Greek Lexicon, Bible Hub](https://biblehub.com/thayers/3341.htm)). The King James rendering of Matthew 4:17 has Jesus' preaching open with the imperative: "From that time Jesus began to preach, and to say, Repent: for the kingdom of heaven is at hand." (Matthew 4:17, [KJV, Bible Hub](https://biblehub.com/kjv/matthew/4-17.htm)) Thayer's Lexicon gives the sense of the noun:
+Metanoia (Greek μετάνοια) is the word the Christian tradition renders as repentance, a change of mind ([Thayer's Greek Lexicon, Bible Hub](https://biblehub.com/thayers/3341.htm)). The King James rendering of Matthew 4:17 has Jesus' preaching open with the imperative: "From that time Jesus began to preach, and to say, Repent: for the kingdom of heaven is at hand." (Matthew 4:17, [KJV, Bible Hub](https://biblehub.com/kjv/matthew/4-17.htm)) Thayer's Lexicon gives the sense of the noun ([Thayer's Greek Lexicon, Bible Hub](https://biblehub.com/thayers/3341.htm)):
 
 > "a change of mind: as it appears in one who repents of a purpose he has formed or of something he has done... especially the change of mind of those who have begun to abhor their errors and misdeeds, and have determined to enter upon a better course of life, so that it embraces both a recognition of sin and sorrow for it and hearty amendment, the tokens and effects of which are good deeds" (Thayer's Greek Lexicon, [Bible Hub](https://biblehub.com/thayers/3341.htm))
 
