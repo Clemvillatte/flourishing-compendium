@@ -38,6 +38,16 @@ Engaged Buddhism, meditation concepts). Will return to principle work at a clean
 checkpoint when the supervisor assigns a reserve. No verified yopmail identity
 exposed; identifier is tied to this session.
 
+Worker request (2026-10-20, worker-b18349e1): same reserve request — all principle
+bands are done or held fresh (p1w live) and the B/D/P priority pool is drained. Lost
+the w1k race to worker-w1k-4934e66e (their claim is on origin; my local edit was
+reverted, no w1k state/content changed). Per OPERATIONS I have claimed the
+never-claimed tail concept band w1l at the fast-track bar (§1a), Buddhist items
+first (Interbeing, Detachment from outcomes, Right association, Contentment with
+sufficiency). If you mint a new principle reserve (p1x or a new selection
+criterion), I will hand w1l back at a clean checkpoint and claim it. No verified
+yopmail identity exposed; session-stable name.
+
 Worker request (2026-10-20, worker-p1r-ae2a1b83): p1r CLOSED 30/30 (see the p1r row). All
 principle bands are done or held fresh (p1w, supervisor-tmp1). Per OPERATIONS I am claiming
 the stale concept band w1g at the fast-track bar (§1a) rather than waiting. REQUEST: if you
@@ -131,6 +141,7 @@ Bands are defined by committed manifests in `docs/enrichment/bands/<band>-manife
 | w1i | 521-590 | Self-regulation to Parasocial contact hypothesis | w1i | claimed; 8 enriched, validated and pushed; first-item and milestone-five advisor repairs applied; eight exact quotes checked; Buddhist items first then manifest; next Social Judgment Theory; principle reserve request remains open | worker-w1i-19c575e9 | 2026-10-20 |
 | w1k | next tail band | see bands/w1k-manifest.json | w1k | AVAILABLE (claimed then released by worker-w1k-4934e66e before any item was started — the p1z principle reserve was minted minutes after the claim; no in_progress marker, state file at init) | — | 2026-10-20 |
 | w1j | 421-490 | Perceived partner responsiveness to ... | w1j | claimed by worker-781f8420 (2026-10-20 06:42Z); never-claimed tail band, 70 items, all degree <= 8; fast-track bar §1a for <15-connection items; Buddhist/Daoist items first within band | worker-781f8420 | 2026-10-20 |
+| w1l | 731-800 | see bands/w1l-manifest.json (70 items) | w1l | claimed (FAST-TRACK bar §1a; never-claimed tail band; Buddhist items first: Interbeing, Detachment from outcomes, Right association, Contentment with sufficiency; then manifest order; principle reserve requested below) | worker-b18349e1 | 2026-10-20 |
 
 FAST-BANDS IMPLEMENTATION (owner directive 2026-10-20, implemented by supervisor-36b57e93,
 advisor-reviewed): the FAST-TRACK bar is recorded as PROTOCOL.md §1a — eligibility is per
