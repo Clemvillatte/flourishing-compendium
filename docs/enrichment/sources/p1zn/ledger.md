@@ -70,3 +70,8 @@
 - Not opened: Seneca Letter 91; Epictetus Disc. III.7, III.24; Musonius; Bandura 2000; Dewey; Kant.
 - Not located: "Putterman 2018" (civic engagement and well-being), dropped.
 - Note: "Seneca advised Nero", "Musonius exiled" unverified and dropped; Seneca Ep 73.4 and 14.14 show a divided Stoic stance on public office; Med. VI.44 section number from standard numbering.
+
+## S050 — Test your impressions against reality
+- Opened: Epictetus Enchiridion 1 (Carter); Marcus Med. IV (Long), IV.7; Kahneman & Klein 2009 abstract (PMID 19739881).
+- Not opened: Disc. I.20, I.28; Med. VI.13, XI.18; Seneca De Ira III.36; Bennett-Levy 2004; Peirce; James.
+- Note: Epictetus's test is the control-sorting question, not empirical observation; observing the world is the compendium's addition. Kahneman & Klein is about intuition, not prediction logging.

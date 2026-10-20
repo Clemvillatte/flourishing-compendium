@@ -14,7 +14,8 @@
   "S017",
   "S030",
   "S033",
-  "S038"
+  "S038",
+  "S050"
  ],
  "in_progress": null,
  "flagged": {
@@ -31,9 +32,10 @@
   "S017": "Discourses I.30/II.19/III.3, Marcus III.6/VI.13, Hayes 2011 not opened; entry nuanced with preferred indifferents (SEP); Sahdra 2010 is a Buddhist-derived parallel",
   "S030": "Epictetus/Seneca/Med VII.5,VII.55 not opened; the 'ask of any action' rule is the compendium's gloss; Aknin 2020 replication had one null experiment; SVO/Ubuntu/Dewey not opened",
   "S033": "Entry's biographical claims (Seneca investor etc.) not verified and dropped; Med IV.3 permits brief inward retreat; Seneca Ep 5 about showy austerity; Holt-Lunstad is mortality/correlational; Dimidjian, Heidegger, Dewey not opened",
-  "S038": "Putterman 2018 not locatable (dropped); Seneca Ep 14/73 show Stoic stance on office is divided, entry's firm rule is the compendium's reading; Nero/Musonius biographical claims unverified; Bandura/Dewey/Kant not opened"
+  "S038": "Putterman 2018 not locatable (dropped); Seneca Ep 14/73 show Stoic stance on office is divided, entry's firm rule is the compendium's reading; Nero/Musonius biographical claims unverified; Bandura/Dewey/Kant not opened",
+  "S050": "Epictetus's examination is control-sorting not empirical observation; 'check against the world' is the compendium's addition; Kahneman & Klein abstract does not mention prediction logging; Disc., De Ira, Bennett-Levy, Peirce, James not opened"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T10:47:31+00:00"
+ "updated": "2026-10-20T10:47:58+00:00"
 }
