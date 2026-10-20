@@ -12,13 +12,24 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 13** — Judge by workability
 
-The practical question about any thought, rule, or story is not "is it literally true" but "does it work: does it help me live the life I value?" Apply the workability test.
+James built the method for disputes that never end: "The pragmatic method is primarily a method of settling metaphysical disputes that otherwise might be interminable." The instrument is a question: "What difference would it practically make to anyone if this notion rather than that notion were true? If no practical difference whatever can be traced, then the alternatives mean practically the same thing, and all dispute is idle."
+
+> The pragmatic method in such cases is to try to interpret each notion by tracing its respective practical consequences. What difference would it practically make to anyone if this notion rather than that notion were true? If no practical difference whatever can be traced, then the alternatives mean practically the same thing, and all dispute is idle.
+>
+> (William James, Pragmatism, Lecture II)
+
+His rule of consequence runs both ways: "There can be no difference anywhere that doesn't make a difference elsewhere - no difference in abstract truth that doesn't express itself in a difference in concrete fact and in conduct consequent upon that fact." The test is not a dismissal of truth; it is truth's inquiry procedure: "To attain perfect clearness in our thoughts of an object, then, we need only consider what conceivable effects of a practical kind the object may involve - what sensations we are to expect from it and what reactions we must prepare."
 
 (Hayes, A Liberated Mind, 2019; James, Pragmatism, 1907.)
 
-**Plain words** The pragmatist test for any thought, rule, or story: what difference does holding it make in practice — does it help you live the life you value? Not a dismissal of truth: "works" here means bears out in experience over time. Some technically-true stories are useless; some loose metaphors carry you for decades.
+**Plain words**
+For any thought, rule, or story you are carrying, trace what holding it changes in practice: what it makes easier, what it forecloses. That trace, over time, is the workability test. It is not a dismissal of truth; it is the procedure for finding out what the belief amounts to.
 
 *For example:* The runner who believes 'my legs are heavy today' — factually questionable, functionally fatal. 'My legs are warming up' — same legs, better run.
+
+## Sources
+
+- [William James, "What Pragmatism Means" in Pragmatism (Brock University Mead Project)](https://brocku.ca/MeadProject/James/James_1907/James_1907_02.html)
 
 ## Psychology parallels
 
