@@ -204,3 +204,7 @@ Core prose (body per QC round-1 replacement text, VI.9 blockquote + IV.21 inline
 **Assertions dropped:** Mead 1934, Tajfel & Turner 1979, Hogg & Abrams 1988 removed from bullet text (not opened; social identity theory bullet reduced to bare attribution link); "requires examined labels" removed from philosophy parallels per framing standard.
 **Reciprocal candidates:** none new; The looking-glass self concept (links SE055 twice) and E068 already connect.
 **QC:** standard checks; SE028 milestone standard applied.
+
+## SE064
+- Ryan & Deci (2000), Am Psychol 55(1), 68-78, full text from selfdeterminationtheory.org (opened earlier this session): 9 quotations verified (the long Kasser & Ryan quote contains a page break that defeats automated match; read manually). 
+- Limits: Kasser & Ryan (1993, 1996) and Kasser (2002) themselves not opened; findings are cited via Ryan & Deci. Statement's 'intrinsic motivation predicts well-being' conflates intrinsic motivation (activity) with intrinsic aspirations (goals); body keeps the distinction and says extrinsic motivation can be autonomous. No quote pages given. Example hypothetical.
