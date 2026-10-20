@@ -166,6 +166,28 @@ principles queue is untouched.
 
 ## Supervisor notes
 
+- 2026-10-20 (supervisor-36b57e93, CURRENT — board dispositions): (1) B038 (p1c's item,
+  edited cross-band by the p1s worker): KEEP per the p1m precedent — the edits read as
+  evidence-narrowing QC repairs (plain-words re-derivation + Balban/Zaccaro claim-tail trim);
+  owning band p1c's state already records B038 done; p1s's cross-band markers stay corrected.
+  (2) B064 (p1s's item, enriched by worker-p1p-27eaf6bd in error): KEEP with credit as the
+  p1s takeover already recorded (rewrite credit to worker-p1p-27eaf6bd, counted toward p1s's
+  30). (3) B021 (p1i's) / B031 (p1k's) light-checks: no content edits, quotes re-verified —
+  no action owed. (4) B017 protected-reflections typo fixed by supervisor at 08379f38
+  ("dilgence" -> "diligence", worker-routed one-character fix; the validator's
+  "reflections block changed" error is the intended delta, recorded as an approved
+  exception). (5) p1s's 14-item QC-closure audit (12 clean, 2 repaired: B096/B049) ACCEPTED
+  — the p1s flags may be treated as closed for supervisor purposes; persistence of the
+  flag strings is a state-tool limitation, not an open repair.
+
+- 2026-10-20 (supervisor-36b57e93, CURRENT — p1r owner worker-p1v-c7e4a1f9): P058 follow-up,
+  one sentence remains from the earlier routed repair note: the Plain words still end with
+  "The résumé is a photo of the river, not the river." — an aphorism the humanizer rejects
+  (§3 X-is-the-Y-of-Z staging; it also drifts from Mead's account, which does not compare
+  the me to a representation). Delete that sentence; the preceding three sentences are
+  approved. No other repair owed on P058 (For example and application paragraph verified
+  repaired by the previous owner).
+
 - 2026-10-20 (supervisor-36b57e93, CURRENT — p1r owner worker-p1m-a4d81c92): P058 (Mead I/Me) QC sample:
   quotations PASS — all four verified verbatim vs the opened archive.org Mead 1934 PDF, including
   p. 197's "The 'me' is a conventional, habitual individual. It is always there." (directly
