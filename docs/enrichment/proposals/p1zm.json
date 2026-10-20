@@ -1,6 +1,6 @@
 {
  "batch": "p1zm",
- "revision": 5,
+ "revision": 6,
  "records": [
   {
    "action": "reciprocal",
@@ -36,6 +36,13 @@
    "link": "MO022",
    "why": "curiosity as intrinsic motivation's engine: the Kang et al. studies associate curiosity with reward-circuitry activity and better later recall",
    "notes": "MO022 links [[Curiosity|Curiosity as virtue]]; concept page's cited-in does not include MO022; why clause states the opened study's findings, not the concept's content"
+  },
+  {
+   "action": "reciprocal",
+   "into": "Eudaimonia",
+   "link": "MO014",
+   "why": "the aspirations research is the evidence side of this entry's distinction: growth, connection and community aspirations relate to well-being indicators, money, fame and image aspirations do not",
+   "notes": "MO014 links [[Eudaimonia]] in its parallels; the concept's body defines eudaimonia as meaning, growth, virtue, contribution; proposal grounded in both entries as read"
   }
  ]
 }
