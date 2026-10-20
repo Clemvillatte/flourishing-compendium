@@ -69,6 +69,13 @@
       "phrase": "Empathic understanding (Rogers)",
       "why": "AF075's parallels already cite Rogers for empathic understanding and Right listening; BE050 documents the Rogers & Farson active-listening method those parallels point at",
       "notes": "found by mention scan during BE050 saturation"
+    },
+    {
+      "into": "A044",
+      "type": "principle",
+      "phrase": "Experiential learning cycle (Kolb)",
+      "why": "A044's parallels already cite Ericsson et al. 1993 for deliberate practice; BE060 documents that same Ericsson evidence plus Bandura's mastery-experience findings",
+      "notes": "found by mention scan during BE060 saturation"
     }
   ],
   "inline": [
