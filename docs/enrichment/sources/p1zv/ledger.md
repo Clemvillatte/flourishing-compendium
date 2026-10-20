@@ -48,3 +48,18 @@ Band: p1zv (Stoic principles S039–S126, ranks 1172–1201). Worker: worker-p1z
 **Proposals:** 2 reciprocals — Premeditatio malorum, The rehearsal of virtue.
 
 **QC:** advisor round 2 for S039 directed "continue to S043 without another research round"; milestone QC due at S072 (every 5th item: S039, then S043+S049+S052+S054+S058 → milestone at S058? Count: first-item QC at S039, then every 5th item: S043, S049, S052, S054, S058 — next advisor milestone after S058).
+
+## S049 — Replace first movements with considered responses (Principle 171)
+
+**Source opened and raw-verified:**
+1. Seneca, On Anger (De Ira), Book II, Aubrey Stewart translation (1900), Project Gutenberg #64576 — https://www.gutenberg.org/files/64576/64576-0.txt — raw text downloaded to qc/seneca-minor-dialogs.txt.
+   - "all the motions which take place without our volition ... no reasoning can prevent their taking place." (II.2) — FULL MATCH. Note: the source uses curly apostrophes ("Men’s"); the quoted span on the page reproduces them verbatim.
+   - "Anger is that which goes beyond reason ... proceeds from choice and deliberate resolve." (II.3) — FULL MATCH (curly apostrophe in "man’s").
+   - "The greatest remedy for anger is delay" (II.29, inline fragment) — FULL MATCH.
+   - Section numbers are Stewart's own Book II section markers (II, III, XXIX), checked directly in the raw text.
+
+**Validator:** first run FAILED ("original wikilink markup changed or removed") — I had shortened the parallel aliases; restored the original wikilink markup exactly and dropped only the claim-bearing clause ("the gap between stimulus and response as the site of regulation"). Second run ok.
+
+**Saturation:** mention "first movement" — S061 and S129 are principles (S061 is in this band); concept pages The discipline of assent, Urge surfing, Emotion regulation do not cite S049.
+
+**Proposals:** 1 reciprocal — The discipline of assent.
