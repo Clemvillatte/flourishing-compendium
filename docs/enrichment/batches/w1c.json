@@ -52,10 +52,9 @@
   "Spotlight effect (Gilovich)",
   "The having mode",
   "The three kinds of knowledge",
-  "ADHD: interest-based attention",
-  "Acceptance alongside values-based action"
+  "ADHD: interest-based attention"
  ],
- "in_progress": null,
+ "in_progress": "Acceptance alongside values-based action",
  "flagged": {
   "ERG Theory": "cited-in list (270+ Daoist principles) appears to be an auto-generated mapping; no principle text references ERG directly",
   "PEN Model": "cited-in list (614+ Daoist principles) appears to be an auto-generated mapping; no principle text references the PEN model directly",
@@ -74,11 +73,12 @@
   "Self-concordant goals": "Reopened for QC: QC: bare links, excerpt punctuation",
   "Resilience": "Reopened for QC: QC: suggests, at-risk scope, remove unsupported glosses",
   "Spotlight effect (Gilovich)": "Reopened for QC: QC: excerpt punctuation, unverified attributed line removed, anchoring gloss",
-  "The having mode": "Reopened for QC: QC2: preserve the tend-to-demonstrate hedge on the two-modes passage"
+  "The having mode": "Reopened for QC: QC2: preserve the tend-to-demonstrate hedge on the two-modes passage",
+  "Acceptance alongside values-based action": "namespace: title is compendium phrasing of ACT's acceptance+committed action pairing; no source defines this exact construct; supervisor disposition requested (see sources/w1c ledger)"
  },
  "missing_concepts": [],
  "sources_checked": 36,
- "updated": "2026-10-20T07:46:40+00:00",
+ "updated": "2026-10-20T07:49:53+00:00",
  "band_done": false,
  "new_concepts": [
   {
