@@ -12,17 +12,25 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 126** — Hold the four views lightly
 
-The Diamond Sutra releases four grips: on self, on being, on others, on a fixed lifespan. Hold all four views functionally, not possessively.
+Chapter 3 of the Diamond Sutra sets the bodhisattva's resolve: to lead all beings to final liberation, and yet, though countless beings are thus led to liberation, no being whatsoever has been led to liberation. The reason given is the four notions: if a bodhisattva holds the notion of a being, a self, a person, or a life-span, that one is not to be called a bodhisattva. (Diamond Sutra, ch. 3.)
 
-(Diamond Sutra, ch. 3.)
+> "And yet, though countless beings are thus led to liberation, no being whatsoever has been led to liberation. Why? Because, Subhūti, if a bodhisattva holds the notion of a being, a self, a person, or a life-span, that one is not to be called a bodhisattva." (Diamond Sutra 3, [translation](https://satyori.com/source-texts/diamond-sutra/3/))
 
-**Plain words** The Diamond Sutra releases four grips: on self, on being, on others, on a fixed lifespan. Hold all four views functionally, not possessively. Loosening those four bolts is most of what 'awakening' costs — and all of what it buys.
+The compendium's application: the four notions are in use all day, for talking, planning and loving, and the instruction is not to drop them but to stop being held by them.
 
-*For example:* The identity crisis that resolves not by finding a firmer self, but by holding the self-question more lightly.
+**Plain words**
+You need the word I to get through a day. The sutra's point is about grip, not vocabulary. As a compendium exercise, notice one place where you defend a self-description as if it were you: a role, a diagnosis, a story about who you are. Ask what would change if it were a working label instead of a possession.
+
+*For example:* Imagine an identity crisis that resolves not by finding a firmer self, but by holding the self-question more lightly.
+
+## Sources
+
+- [Diamond Sutra, chapter 3, with Sanskrit and translation](https://satyori.com/source-texts/diamond-sutra/3/) — the four notions
+- [The Diamond Sutra, Gemmell translation, Project Gutenberg](https://www.gutenberg.org/files/64623/64623-h/64623-h.htm) — a public-domain full text of the sutra
 
 ## Psychology parallels
 
-- **Self-concept clarity versus rigidity**, rigid clarity costs under change (Campbell, 1990)
+- **Self-concept clarity versus rigidity** (Campbell, 1990)
 
 ## Philosophy parallels
 

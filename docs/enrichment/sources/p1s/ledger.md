@@ -427,3 +427,21 @@ source; anything not opened is recorded as inherited and unverified.
   attribution; Post, Aristotle, Derrida inherited entries left as found.
 - Saturation: no new reciprocals; Prosocial spending and Helper's high are
   already the linked targets.
+
+### B126 — Hold the four views lightly (2026-10-20)
+- Opened: Diamond Sutra chapter 3 (satyori.com source-texts page, with Sanskrit,
+  transliteration and translation; the full contiguous passage from "And yet,
+  though countless beings..." through "...not to be called a bodhisattva"
+  verified verbatim against the fetched page). Also the Gemmell public-domain
+  translation at Project Gutenberg (ebook 64623), opened as a second citable
+  edition.
+- The seed's four grips ("self, being, others, fixed lifespan") mapped to the
+  sutra's actual four notions: being (sattva-samjna), self (atma), person
+  (pudgala), life-span (jiva); "others" is the pudgala/person notion and
+  "fixed lifespan" is jiva. The page now uses the sutra's own four.
+- Seed's "Loosening those four bolts is most of what awakening costs and all
+  of what it buys" removed as unsupported gloss; replaced with the labelled
+  grip-not-vocabulary application. Campbell claim tail trimmed to a bare
+  attribution; Hume inherited entry left as found.
+- Saturation: no new reciprocals; The four views and The bundle self are
+  already the linked targets.
