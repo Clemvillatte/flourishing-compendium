@@ -27,6 +27,10 @@ The account is not offered as the sole explanation. The same review notes that s
 
 *For example:* Imagine someone who says "I'll do the tax return tomorrow." One reading is that this is a scheduling decision. The mood-repair account suggests a different reading: that the dread the return produces is what is being avoided, and the deferral is how.
 
+## Sources
+
+- [Sirois & Pychyl 2013, Procrastination and the Priority of Short-Term Mood Regulation, White Rose PDF](https://eprints.whiterose.ac.uk/id/eprint/91793/1/Compass%20Paper%20revision%20FINAL.pdf) — abstract p. 115, conclusions pp. 124-25, temptations p. 126
+
 ## Psychology parallels
 
 - **Procrastination as emotion regulation (Sirois & Pychyl)**, procrastination involves short-term mood repair (Sirois & Pychyl, 2013)
