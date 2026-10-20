@@ -28,7 +28,7 @@ The review distinguishes pleasure-focused approaches from approaches concerned w
 ## Psychology parallels
 
 - **Eudaimonic vs hedonic well-being**, positive affect is a component of flourishing, not its totality (Ryan & Deci, 2001; Seligman, 2011)
-- **[[PERMA model|PERMA model]]**, flourishing requires positive emotion, engagement, relationships, meaning, and accomplishment (Seligman, 2011)
+- **[[PERMA model|PERMA model]]**, well-being has five elements: positive emotion, engagement, relationships, meaning, and accomplishment (Seligman, 2011)
 
 ## Philosophy parallels
 

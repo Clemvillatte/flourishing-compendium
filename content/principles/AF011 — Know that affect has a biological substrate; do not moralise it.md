@@ -28,8 +28,8 @@ The reported 60% difference concerns amygdala activation to negative pictures in
 ## Psychology parallels
 
 - **[[Sleep deprivation|Sleep deprivation amplifies amygdala reactivity]]**, a single night of sleep loss increases amygdala response to negative stimuli by ~60% and reduces prefrontal regulation (Yoo et al., 2007)
-- **Pain and affect share neural circuitry**, chronic pain alters affect regulation and is associated with higher depression rates (Craig, 2009)
-- **Substance use alters affective baseline**, both acute and chronic use change valence and arousal patterns (Koob & Le Moal, 2008)
+- **Interoception and affect**, see Craig, 2009, on the insula and awareness of bodily feeling
+- **Substance use and affect**, see Koob & Le Moal, 2008, on addiction and the brain's reward and stress systems
 
 ## Philosophy parallels
 

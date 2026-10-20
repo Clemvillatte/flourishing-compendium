@@ -27,8 +27,8 @@ In ACT, acceptance processes serve a values-consistent life rather than function
 
 ## Psychology parallels
 
-- **Values-based action is the organising principle in ACT**, acceptance serves committed action toward valued ends (Hayes et al., 2011)
-- **Valued living predicts well-being beyond affect**, engaging in valued activity is associated with meaning and life satisfaction (Wilson et al., 2010)
+- **Values-based action in ACT**, see Hayes et al., 2011
+- **Valued living**, see Wilson et al., 2010
 
 ## Philosophy parallels
 

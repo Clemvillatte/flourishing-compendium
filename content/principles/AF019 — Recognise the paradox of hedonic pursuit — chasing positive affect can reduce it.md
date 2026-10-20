@@ -31,7 +31,7 @@ Study 1's association appeared under low, but not high, life stress. ([Mauss et 
 
 ## Psychology parallels
 
-- **[[Valuing happiness paradox|Valuing happiness paradox]]**, people who place a high value on happiness report lower happiness and greater depressive symptoms, particularly in Western cultural contexts (Mauss et al., 2011)
+- **[[Valuing happiness paradox|Valuing happiness paradox]]**, people who place a high value on happiness report lower happiness and greater depressive symptoms (Mauss et al., 2011)
 - **Indirect strategies outperform direct strategies**, pursuing meaning and connection increases positive affect more than pursuing positive affect directly (Ford et al., 2015)
 
 ## Philosophy parallels
