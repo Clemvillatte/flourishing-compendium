@@ -67,3 +67,7 @@
 ## R054
 - Analects 2.17, 12.22, 6.22, 2.24 (Legge via Gutenberg #3330, quotations grep-verified); Mencius 2A6 (Legge; Wikisource and sacred-texts excerpts from search results, text identical).
 - Limits: Analects 15.3 (inherited) not used; statement's 'and the courage to pursue it' is NOT a zhi doctrine in these sources (2.24 is about yi); body says so. Legge renders zhi as 'knowledge'; later translators differ. Example hypothetical.
+
+## R071
+- IEP 'Care Ethics' (fetched; 4 quotations verified): Tronto & Fisher definition; four sub-elements (IEP cites Tronto 1994, 126-136).
+- Limits: Tronto's Moral Boundaries (1993; inherited pp.127-130) not opened; page span differs (IEP's 1994 citation = 126-136). 'Ownership of the response' is the statement's paraphrase of 'willingness to respond'. Example hypothetical.
