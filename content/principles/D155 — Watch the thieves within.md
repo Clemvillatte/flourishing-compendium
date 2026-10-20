@@ -22,11 +22,11 @@ The Lower Section gives the mechanism and the watch point:
 
 > "The heart-mind is born from things and dies from things. The pivot is in the eyes." (Yinfu Jing, Lower Section)
 
-The text does not name the five thieves one by one. The compendium follows the traditional reading that identifies them with the senses and desires, each reaching outward through the body's openings for what it wants.
+The text does not name the five thieves one by one. The compendium's own reading takes them as the outward-reaching wants that go through the body's openings.
 
 (Yinfu Jing, Upper and Lower Sections.)
 
-**Plain words** The chapter's promise is conditional: the one who perceives the thieves flourishes. The practice it points to is perception itself, an audit of what reaches out through your eyes and the other openings and takes something with it each time. The "pivot is in the eyes" locates the watch point where attention goes out. A practical reading: rather than resolving to have more energy, notice what each habitual reach actually costs.
+**Plain words** The chapter's promise is conditional: the one who perceives the thieves flourishes. The practice it points to is perception itself, an audit of what reaches out through your eyes and the other openings. The "pivot is in the eyes" locates the watch point where attention goes out. A practical reading: rather than resolving to have more energy, notice where your attention habitually goes out.
 
 *For example:* Imagine reviewing a week of the moments you reached for your phone without deciding to. You could keep a tally for a few days and read what it shows.
 

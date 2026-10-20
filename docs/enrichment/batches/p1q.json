@@ -20,21 +20,22 @@
   "D154",
   "D155",
   "D158",
-  "D167",
   "D168",
   "D182",
   "D185",
   "D188",
-  "D191"
+  "D167"
  ],
- "in_progress": null,
+ "in_progress": "D191",
  "flagged": {
   "D113": "Reopened for QC: QC: causal sleep claims unsupported",
   "D122": "Reopened for QC: QC repair verified",
-  "D136": "Reopened for QC: QC repair verified"
+  "D136": "Reopened for QC: QC repair verified",
+  "D167": "Reopened for QC: QC: overextended commentary",
+  "D191": "Reopened for QC: QC: unlabelled reading; ch20 scope"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T01:13:50+00:00",
+ "updated": "2026-10-20T01:16:43+00:00",
  "band_done": false
 }

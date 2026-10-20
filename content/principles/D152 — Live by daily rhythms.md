@@ -12,15 +12,15 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 152** — Live by daily rhythms
 
-The Huainanzi divides the day the way it divides everything else, by the sun's course. Chapter 3, "Celestial Patterns," tracks the sun through its named stations and closes:
+The Huainanzi tracks the day by the sun's course. Chapter 3, "Celestial Patterns," follows the sun through its named stations and closes:
 
 > "The divisions [of its journey] make dawn, daylight, dusk, and night." (Huainanzi 3.25, Major/Queen trans.)
 
-Chapter 14, "Sayings Explained," turns the same regularity into instruction for the body:
+Chapter 14, "Sayings Explained," carries a similar regularity into instruction for the body. These are two passages the compendium brings together; the text does not present chapter 14 as applying chapter 3:
 
 > "To regulate your body and nourish your nature, moderate your sleep and rest, be appropriate in your food and drink, harmonize your happiness and anger, and make suitable your movement and stillness." (Huainanzi 14.39, Major/Queen trans.)
 
-The compendium reads these two passages together: the day has a shape, and the body's activity and rest are to be fitted to it.
+The compendium brings the two passages together: the day has a shape, and the body's activity and rest are to be fitted to it.
 
 (Huainanzi 3, 14.)
 

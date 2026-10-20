@@ -22,11 +22,11 @@ The Neiye gives the underlying picture: stillness is not empty time but the cond
 
 > "We lose it / Because of the harm caused by mental agitation. / When the mind can hold on to tranquility, / The Way will become naturally stabilized." (Neiye XXVI, Roth trans.)
 
-The compendium reads these passages together: rest is treated in these texts as the state in which what is vital in a person settles and stabilizes, and the agitation of the day as what scatters it.
+The compendium brings these passages together: the Neiye treats stillness as the condition under which vitality lodges and stabilises, and agitation as what loses it. The Neiye does not mention sleep; the sleep application is the compendium's own extension of its treatment of stillness.
 
 (Zhuangzi 6; Neiye VIII, XXVI.)
 
-**Plain words** The Neiye's instruction runs opposite to the habit of treating sleep as leftover time. Tranquility is described as the thing vitality needs in order to lodge and stabilize, and agitation as what loses it. A practical reading: the hours of rest are not a gap in the day's work but part of what the work depends on. When you are tempted to spend sleep to get more done, the chapter's question is what the spending costs the thing being spent.
+**Plain words** The Neiye describes tranquility as the thing vitality needs in order to lodge and stabilize, and agitation as what loses it. The compendium's extension to sleep follows from this: the hours of rest are treated not as a gap in the day's work but as part of what the work depends on. When you are tempted to spend sleep to get more done, the question is what the spending costs the thing being spent.
 
 *For example:* Imagine a demanding day tomorrow. You could decide that tonight's sleep is part of the preparation, and finish planning early enough to protect it.
 

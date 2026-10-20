@@ -16,7 +16,7 @@ Daodejing 81 opens with the pairing, three times over:
 
 > "Sincere words are not fine; fine words are not sincere. Those who are skilled (in the Tao) do not dispute (about it); the disputatious are not skilled in it. Those who know (the Tao) are not extensively learned; the extensively learned do not know it." (DDJ 81, Legge trans., [Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 
-The chapter is the Tao Teh King's closing chapter, and its last sentence reads: "With all the sharpness of the Way of Heaven, it injures not; with all the doing in the way of the sage he does not strive." The compendium's reading is that ornament, dispute and display are grouped together as forms of striving — effort spent on how the words land rather than on whether they are so.
+The chapter is the Tao Teh King's closing chapter, and its last sentence reads: "With all the sharpness of the Way of Heaven, it injures not; with all the doing in the way of the sage he does not strive." The compendium's reading is that ornament, dispute and display are grouped together as forms of striving. This is effort spent on how the words land rather than on whether they are so.
 
 (DDJ 81.)
 

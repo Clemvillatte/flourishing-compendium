@@ -12,11 +12,11 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 191** — Keep a beginner's pace all your life
 
-Daodejing 15 describes the old masters of the Tao in beginner's terms:
+Daodejing 15 describes the old masters of the Tao as tentative and unformed:
 
 > "Shrinking looked they like those who wade through a stream in winter; irresolute like those who are afraid of all around them; grave like a guest (in awe of his host); evanescent like ice that is melting away; unpretentious like wood that has not been fashioned into anything; vacant like a valley, and dull like muddy water." (DDJ 15, Legge trans., [Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 
-The chapter closes the portrait: "They who preserve this method of the Tao do not wish to be full (of themselves)." Chapter 20 gives the same stance in the first person:
+The chapter closes the portrait: "They who preserve this method of the Tao do not wish to be full (of themselves)." Chapter 20 gives a similar stance in the first person (the chapter opens by saying "When we renounce learning we have no troubles"):
 
 > "I am like an infant which has not yet smiled. I look dejected and forlorn, as if I had no home to go to... My mind is that of a stupid man; I am in a state of chaos." (DDJ 20)
 
@@ -24,9 +24,11 @@ The chapter closes the portrait: "They who preserve this method of the Tao do no
 
 And chapter 71 names what this self-description is guarding against: "not to know (and yet think) we do know is a disease."
 
+Chapter 15 describes accomplished masters as cautious and unpretentious. Chapter 20 contrasts its speaker with confident-looking people, while chapter 71 warns against thinking one knows when one does not. The compendium draws from these passages an application to remaining teachable. Its beginner-class example is a modern exercise; chapter 20 itself opens by renouncing learning.
+
 (DDJ 15, 20, 71.)
 
-**Plain words** The masters of the Tao are described in the very terms a beginner would be described in: tentative, irresolute, unfashioned. DDJ 15 says they do not wish to be full of themselves, and DDJ 20 has the speaker say it directly, dull and confused among the bright. The chapters' picture is that the expert's finish and the beginner's openness are not stages on one road but a choice of what to keep. A practical reading: schedule the practices where you are the beginner, and keep the tentativeness of them.
+**Plain words** The masters of the Tao are described as shrinking, irresolute, unfashioned, and DDJ 15 says they do not wish to be full of themselves. DDJ 20 has the speaker say it directly, dull and confused among the bright. The compendium's application is to remaining teachable: keep the tentativeness the chapters describe, and schedule practices where you are the beginner.
 
 *For example:* Imagine a craft you have done for years. You could take, each year, the entry-level class in it, and let the class set the pace of your attention rather than your seniority.
 

@@ -20,11 +20,11 @@ Chapter 63 gives the same instruction as one item in a list of the Tao's ways:
 
 > "(It is the way of the Tao) to act without (thinking of) acting; to conduct affairs without (feeling the) trouble of them; to taste without discerning any flavour; to consider what is small as great, and a few as many; and to recompense injury with kindness." (DDJ 63)
 
-Both chapters state the return without promising what it will produce. DDJ 49's "and thus (all) get to be good" is the chapter's own account of what the policy works toward.
+DDJ 49's "and thus (all) get to be good" is the chapter's own account of what the policy works toward; what the chapters do not supply is a modern empirical guarantee of the result.
 
 (DDJ 49, 63.)
 
-**Plain words** DDJ 49 describes a stance that does not sort people by how they have treated you: goodness and sincerity are given alike, and the chapter says this is how all get to be good. The compendium's reading of the seed's warning is that the alternative policy, returning bad faith in kind, makes you a student of the worst people you meet. What the chapters do not supply is a guarantee that kindness will reform anyone; they offer the policy and its direction, not its results.
+**Plain words** DDJ 49 describes a stance that does not sort people by how they have treated you: goodness and sincerity are given alike, and the chapter says this is how all get to be good. The compendium's reading is that the alternative policy, returning bad faith in kind, makes you a student of the worst people you meet. What the chapters do not supply is a guarantee that kindness will reform anyone; they offer the policy and its direction, not its results.
 
 *For example:* Imagine having been misled once by someone your work was meant to help. You could decide, before the next such encounter, what your giving will be like, so that the decision is not made fresh by whoever last dealt with you.
 

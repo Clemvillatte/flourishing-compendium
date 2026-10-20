@@ -20,11 +20,11 @@ The chapter explains the fear of favour:
 
 > "The getting that (favour) leads to the apprehension (of losing it), and the losing it leads to the fear of (still greater calamity):--this is what is meant by saying that favour and disgrace would seem equally to be feared." (DDJ 13)
 
-Zhuangzi 12 carries the same weight on the other side, in the description of the man complete in spirit:
+Zhuangzi 12 carries the same weight on the other side, in Zi-gong's description of the man complete in spirit (the passage is his report; Confucius's reply that follows criticises the man for regulating what is internal without what is external):
 
-> "Though all the world should praise them, they would (only) get what they think should be loftily disregarded; and though all the world should blame them, they would but lose (what they think) fortuitous and not to be received;--the world's blame and praise can do them neither benefit nor injury." (Zhuangzi 12, Legge trans., [ETH Zurich PDF](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
+> "Though all the world should praise them, they would (only) get what they think should be loftily disregarded; and though all the world should blame them, they would but lose (what they think) fortuitous and not to be received - the world's blame and praise can do them neither benefit nor injury." (Zhuangzi 12, Legge trans., [ETH Zurich PDF](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
 
-The compendium reads the two chapters together: DDJ 13 treats favour and disgrace as a single category because each leaves you exposed to what comes next, and Zhuangzi 12 describes the person for whom both have lost their purchase.
+The compendium brings the two passages together: DDJ 13 treats favour and disgrace as a single category because each leaves you exposed to what comes next, and Zi-gong's description in Zhuangzi 12 gives the person for whom both have lost their purchase.
 
 (DDJ 13; Zhuangzi 12.)
 

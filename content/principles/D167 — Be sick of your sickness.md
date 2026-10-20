@@ -20,13 +20,13 @@ And the chapter is equally direct about how the disease is avoided:
 
 > "It is simply by being pained at (the thought of) having this disease that we are preserved from it. The sage has not the disease. He knows the pain that would be inseparable from it, and therefore he does not have it." (DDJ 71)
 
-The title of this principle is the chapter's own instruction: feel the sickness of not-knowing-as-knowing, and the pain of it is what keeps you from resting in it.
+Chapter 71 calls not knowing while believing one knows a disease. In Legge's translation, the sage's awareness of its painfulness protects him from it. The compendium applies this warning to admitting uncertainty before making a confident claim. This is a practical interpretation of the chapter's disease metaphor.
 
 (DDJ 71.)
 
-**Plain words** The chapter sets two postures side by side. One is knowing and still holding open the thought that you may not know. The other is not knowing while believing you do, and this it calls a disease. Its remedy is not effort or correction but discomfort: be pained enough at the possibility of the disease to keep checking for it. A practical reading: the fault you will not let yourself feel as a fault has no entrance to work from.
+**Plain words** The chapter sets two postures side by side. One is knowing and still holding open the thought that you may not know. The other is not knowing while believing you do, and this it calls a disease. Think of a claim you have been defending. What do you actually know, and what are you assuming? If admitting the gap feels uncomfortable, you can still name it and ask what evidence would help.
 
-*For example:* Imagine a habit you suspect is costing you, which you have been describing to yourself as under control. You could try saying the plain version aloud and notice what follows.
+*For example:* Imagine a position you have argued for at work that rests partly on an assumption you have not checked. You could name the assumption in your own notes before the next time the claim comes up.
 
 ## Sources
 
