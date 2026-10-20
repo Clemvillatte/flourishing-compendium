@@ -44,13 +44,12 @@
   "AT016",
   "AT035",
   "AT039",
-  "AT042",
   "AT049",
   "AT051",
   "AT063",
   "AT067"
  ],
- "in_progress": null,
+ "in_progress": "AT042",
  "flagged": {
   "D007": "inherited psych claims (Peng/Nisbett, Spencer-Rodgers) not verified; preserved per protocol",
   "D014": "Reopened for QC: milestone QC round 3: evidence scoping repairs",
@@ -82,10 +81,11 @@
   "AT013": "Reopened for QC: advisor milestone QC FAIL: unsupported ranking, effect promises beyond meta-analysis scope",
   "AT016": "Reopened for QC: advisor milestone QC FAIL: everyday-multitasking generalization, universal 200ms price, kitchen-pause mislabel",
   "AT035": "Reopened for QC: advisor milestone QC FAIL: frequency overstatement, causal-direction suppression, invented provenance, established-benefits framing",
-  "AT039": "Reopened for QC: advisor milestone QC FAIL: byline wrong (no Fox), 414/conditions misdescribed, prevalence claim, mechanism overreach"
+  "AT039": "Reopened for QC: advisor milestone QC FAIL: byline wrong (no Fox), 414/conditions misdescribed, prevalence claim, mechanism overreach",
+  "AT042": "Reopened for QC: advisor milestone QC FAIL: temporal-sequence claim, one-night narrowing, lapse interpretation, unverified efficacy, staging"
  },
  "missing_concepts": [],
  "sources_checked": 15,
- "updated": "2026-10-20T03:38:00+00:00",
+ "updated": "2026-10-20T03:41:49+00:00",
  "band_done": false
 }
