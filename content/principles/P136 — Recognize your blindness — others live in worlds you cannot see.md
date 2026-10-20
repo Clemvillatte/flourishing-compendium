@@ -12,22 +12,22 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 136** — Recognize your blindness: others live in worlds you cannot see
 
-The condition James names in "On a Certain Blindness in Human Beings" is the one the title announces: a blindness "with which we all are afflicted in regard to the feelings of creatures and people different from ourselves." His rule for what to do with our judgments of such lives:
+In "On a Certain Blindness in Human Beings," James is concerned with our judgments of lives unlike our own: a blindness "with which we all are afflicted in regard to the feelings of creatures and people different from ourselves." His rule for what to do with our judgments of such lives:
 
 > "The spectator's judgment is sure to miss the root of the matter, and to possess no truth. The subject judged knows a part of the world of reality which the judging spectator fails to see, knows more while the spectator knows less; and, wherever there is conflict of opinion and difference of vision, we are bound to believe that the truer side is the side that feels the more, and not the side that feels the less." (James, "On a Certain Blindness in Human Beings," Talks to Teachers, [Gutenberg](https://www.gutenberg.org/ebooks/16287))
 
-The essay's example is a mountain clearing. James the hiker saw an ugly landscape; the settler family saw the warrant of safety and the reward of toil:
+The essay's example is a mountain clearing. James saw an ugly landscape; the settler family saw the warrant of safety and the reward of toil:
 
 > "the clearing, which to me was a mere ugly picture on the retina, was to them a symbol redolent with moral memories and sang a very paean of duty, struggle, and success." (James, "On a Certain Blindness in Human Beings," Talks to Teachers, [Gutenberg](https://www.gutenberg.org/ebooks/16287))
 
-His confession follows the description: he had been "as blind to the peculiar ideality of their conditions as they certainly would also have been to the ideality of mine," had they seen his indoor academic life in Cambridge.
+He adds that he had been "as blind to the peculiar ideality of their conditions as they certainly would also have been to the ideality of mine," had they seen his indoor academic life in Cambridge.
 
-The compendium's exercise: before dismissing someone's life as narrow or soul-crushing, write down what their position sees that yours does not. If the page stays blank, that is the blindness the essay names, and the judgment is yours to withdraw.
+The compendium's exercise: before describing someone's routine as empty, ask what it means to them. Separate what they tell you from what you had assumed.
 
 **Plain words**
-Your view of another person's life comes from outside it; theirs comes from inside. Where the two views conflict, James says the truer side is the one that feels the more. Pity for someone's routine is usually your blindness talking, not their life.
+An activity can look tedious while carrying memories, responsibilities or satisfactions you have not noticed. Ask about those meanings before deciding how to describe the person's life.
 
-*For example:* The factory job that looks soul-crushing from the outside: the man who has worked it for thirty years may be the provider, the master of the line, the person the family's week is arranged around.
+*For example:* Imagine meeting someone who has worked on the same factory line for thirty years. Before calling the work soul-crushing, ask which parts they value and which they would change.
 
 ## Sources
 
