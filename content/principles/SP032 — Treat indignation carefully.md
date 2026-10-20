@@ -12,13 +12,19 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 32** — Treat indignation carefully
 
-Indignation is hatred toward one who has done evil to another. Spinoza is careful with it because it feels like virtue: the moral circuits of the person run on it. But as hatred, it is bondage with a clear conscience, and it can be enjoyed indefinitely. The test Spinoza supplies is the test of the active affects: does the indignation increase your power of acting, or does it merely feed on itself while the situation continues? Practically, convert indignation into its useful component, which is the decision to act, and set the rest down.
+Spinoza defines indignation precisely: "Indignation is hatred towards one who has done evil to another" ([Ethics III, Definitions of the Emotions, XX](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm)). The definition places it in the hatred family, and its object is wrongdoing done to someone else, which is what lets the feeling present itself as justice. The compendium's extension: this is exactly why indignation deserves care. The exercise below separates the part of the response that needs acting on from the part that merely rehearses.
 
-(Ethics III, definition of Indignation; the pity-anger family.)
+> Indignation is hatred towards one who has done evil to another.
+>
+> Spinoza, Ethics III, Definitions of the Emotions, XX, translated by R. H. M. Elwes, [Project Gutenberg](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm).
 
-**Plain words** Indignation is hatred toward one who has done evil to another — and Spinoza is careful with it because it feels like virtue. The moral circuits run on it. But as hatred, it's bondage with a clear conscience, and it can be enjoyed indefinitely. Treat indignation carefully: verify, then act — don't marinate.
+(Ethics III, Definitions of the Emotions, XX; Elwes translation.)
 
-*For example:* The person who "stands for justice" in the comment thread every evening — the indignation masquerading as ethics — versus the one who verifies, files the complaint, donates, and closes the laptop. Both indignant; only one of them free.
+### Plain words
+
+The definition is short: hatred aimed at someone who wronged another person. The wrong was not done to you, and that is what makes the feeling feel noble. For an exercise, take one indignation you are carrying and split it: what is the part that needs acting on, and what is the part that is just the rehearsal? Do the first; put a limit on the second.
+
+For example: Two people read the same news story. One spends the evening composing replies in the comment thread; the other checks the claim, files a complaint with the relevant body, and closes the laptop. The illustration is invented; the split it points to — acting versus rehearsing — is the exercise.
 ## Psychology parallels
 
 - **Moral outrage and its self-rewarding loop**, research on outrage as reinforcing and divisive (Crockett's moral outrage studies, 2013-2017, cited as emerging)
