@@ -244,3 +244,8 @@ Round 3 (advisor, 2026-10-21): item-10 milestone closed with a scoped PASS for A
 - Source opened: Sartre BN (Barnes, Internet Archive OCR) Part IV ch. 1 section I, pp. 461-465 (page numbers from the book's running heads). Quotes match word-for-word except OCR 'al]' for 'all' (p. 465), hyphen line breaks.
 - Locator correction: old cite 'Part IV, ch. 2' is wrong for these passages; they sit in Part IV ch. 1 ('Freedom: The First Condition of Action'). I did not open the later 'Existential Psychoanalysis' section (ch. 2) where the term 'fundamental project' is developed, so I cite only ch. 1.
 - Old 'plain words' added 'orientation toward engagement or withdrawal', 'hostile place, a task, a gift', and 're-chosen' as easy: Sartre says change is a radical conversion, always possible, never motivated by a prior reason. Replaced; example imagined. Self-QC only.
+
+## E047 (worker-p1zx-9a2e4c71, 2026-10-21)
+
+- Source opened: Heidegger BT (Macquarrie-Robinson, Internet Archive OCR): §72 (H. 374 via inline H. 375 marker), §6 ('Dasein is its past'), §74 (heritage, destiny, fate). OCR quirks ('ts', '.' for ',' in 'superior power,') read as scan errors; quotes otherwise verbatim.
+- Old cite §§72-77: only §§72 and 74 used (plus §6 for the past passage); §§75-77 not opened for quoting. H. page given only for §72 where the inline marker proves it. Plain words replicate replaced; example imagined (family patterns from old text were unsupported colour). Self-QC only.
