@@ -17,3 +17,6 @@ No advisor tool available; QC is self-QC only.
 
 ## SE030 Recognise and work with shame
 - Opened: Tangney, Stuewig & Mashek 2007 (PMC3083636) full text; all quotes verbatim. Tangney & Dearing 2002, Gilbert 2009, Neff 2011 parallels not opened (inherited). Original "more toxic" claim reframed as correlational (shame-proneness vs symptoms). Convert-shame-to-guilt practice labelled as the entry's exercise.
+
+## SE046 Recognise identity and meaning
+- Opened: McAdams 2001 abstract (SAGE page; full text paywalled); McAdams & McLean 2013 abstract (via fetch of Masaryk course copy). Both quotes verbatim. Steger 2012 and the identity-crisis = meaning-crisis claim not sourced; page says so.
