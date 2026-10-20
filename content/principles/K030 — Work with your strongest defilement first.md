@@ -12,13 +12,24 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 30** — Work with your strongest defilement first
 
-The lojong instruction to train with the strongest delusion first: identify your signature pattern (the tradition says each person has one dominant poison) and bring the practice to it deliberately rather than working on the comfortable edges. The logic is triage: the dominant poison is the one running your life. Practically, ask three people who love you what your signature pattern is; the answer is usually common knowledge to everyone but you.
+Trungpa's rendering of the slogan:
 
-(Seven-Point Mind Training, Point Two.)
+> "Work with the greatest defilements first." (slogan 27 of the 59 lojong slogans, Point Six; Chögyam Trungpa, Training the Mind, in The Collected Works, vol. 2)
 
-**Plain words** Work with your strongest delusion first. Each person has a signature pattern, and it's running your life. Don't practise only on the comfortable edges. Ask three people who love you what yours is. The answer is usually common knowledge to everyone but you.
+His commentary:
 
-*For example:* Your sister says, "You always need to be right," your partner nods, and your closest friend laughs. That's your work.
+> "You should work with whatever is your greatest obstacle first—whether it is aggression, passion, pride, arrogance, jealousy, or what have you. You should not just say, 'I will sit more first, and I will deal with that later.' Working with the greatest defilements means working with the highlights of your experience or your problems. You do not just want to work with chicken shit, you want to work with the chicken itself." (same commentary)
+
+The instruction names whichever obstacle is yours and refuses the postponement that more sitting offers. He adds the guard against outcome-chasing: "all dharmas should be applied in trying to tame it, but at the same time we should not try to arrive at certain results". ([Collected Works vol. 2 PDF](https://terebess.hu/english/coll2.pdf))
+
+**Plain words**
+Your worst recurring problem is the practice's raw material, not an interruption of it. The comfortable weaknesses you polish instead are the edges; the one that keeps driving your life is the center. As the compendium applies it, the people close to you can usually name your center faster than you can.
+
+For example: Your sister says, "You always need to be right," your partner nods, and your closest friend laughs.
+
+## Sources
+
+- [Chögyam Trungpa, The Collected Works, vol. 2 (includes Training the Mind)](https://terebess.hu/english/coll2.pdf) — slogan 27 commentary; quotes verified against a text extraction of the downloaded PDF; slogan 27's placement (Point Six) cross-checked against the slogans list on the [Tibetan Buddhist Encyclopedia](https://www.tibetanbuddhistencyclopedia.com/en/wiki/All_dharma_agrees_at_one_point)
 
 ## Psychology parallels
 
