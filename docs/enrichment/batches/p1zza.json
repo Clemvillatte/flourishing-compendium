@@ -1,12 +1,14 @@
 {
  "batch": "p1zza",
  "done": [
-  "M025",
-  "SE042"
+  "M025"
  ],
- "in_progress": null,
- "flagged": {},
+ "in_progress": "SE042",
+ "flagged": {
+  "SE042": "Reopened for QC: QC round 1 (advisor): traits-opposition misread, causal inference, unopened White & Epston gloss, plain-words duplication; repairing"
+ },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T15:59:40+00:00"
+ "updated": "2026-10-20T16:02:10+00:00",
+ "band_done": false
 }
