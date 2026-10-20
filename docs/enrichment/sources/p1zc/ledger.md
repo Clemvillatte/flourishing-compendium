@@ -146,3 +146,16 @@ Short, item-keyed evidence notes (owner decision 2026-10-20, PROTOCOL-PRINCIPLES
   citadel already cite SE021.
 - Three new reciprocal proposals appended to proposals/p1zc.json (Mental simulation
   research, Self-compassion, Amor sui).
+
+## S129 mention hunt (round-5 closeout) + clause bounding
+- Hunted "assent" and "impression" via the mention tool: Clarity of mind, Cognitive
+  defusion, Decentering, Cognitive reappraisal inspected. Clarity of mind describes
+  the Stoic sobriety of assent without citing S129 — proposed (bounded clause).
+  The other three already carry S045/S047 (the more specific examine-impression
+  principles); left unproposed (editorial call, recorded here).
+- All three round-4 proposal clauses replaced with the advisor's labelled-comparison
+  wordings (no empirical-equivalence claims).
+- MILESTONE 1 (items S105, S119, S123, S127, S129, SE021): SCOPED PASS — the reviewed
+  passages, quotations, locators, humanizer repairs and saturation checks pass; this is
+  NOT independent certification of every inherited claim (inherited parallels and
+  unopened locator references remain flagged in the per-item notes above).
