@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Skillful means (upaya)” — Buddhism, Lotus Sutra.
 
-Skillful means is the Buddha's way of teaching in forms fitted to what hearers can receive. The Lotus of the True Law (Saddharma-Pundarika) devotes its second chapter to it, titled "Skilfulness" in the Sacred Texts edition: the Buddha says he elucidates the law through many varied skilful means, and the chapter says the Tathāgatas skillfully designate the one Buddha-vehicle as a threefold vehicle ([Lotus of the True Law, ch. 2](https://sacred-texts.com/bud/lotus/lot02.htm)).
+Skillful means is the Buddha's way of teaching in forms fitted to what hearers can receive. The Sanskrit word upāya, rendered "skillful means", names a concept Buddhist hermeneutics uses to explain apparently contradictory elements in the texts, on the assumption that the Buddha speaks truthfully and with an eye to the abilities of his audience ([Keating, SEP, §4.1](https://plato.stanford.edu/entries/literal-nonliteral-india/)). The Lotus of the True Law (Saddharma-Pundarika) devotes its second chapter to it, titled "Skilfulness" in the Sacred Texts edition: the Buddha says he elucidates the law through many varied skilful means, and the chapter says the Tathāgatas skillfully designate the one Buddha-vehicle as a threefold vehicle ([Lotus of the True Law, ch. 2](https://sacred-texts.com/bud/lotus/lot02.htm)).
 
 > "It is difficult to understand the exposition of the mystery of the Tathâgata, Sâriputra; for in elucidating the law, Sâriputra, I use hundred thousands of various skilful means, such as different interpretations, indications, explanations, illustrations." (Lotus of the True Law, ch. 2, [Sacred Texts](https://sacred-texts.com/bud/lotus/lot02.htm))
 
@@ -41,6 +41,7 @@ Chapter 3 states the principle the parables then illustrate:
 - [[The raft]]
 ## Sources
 
+- [Keating, The Literal-Nonliteral Distinction in Classical Indian Philosophy, §4.1 (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/literal-nonliteral-india/) — the upāya = "skillful means" identification
 - [Lotus of the True Law, ch. 2 (Sacred Texts)](https://sacred-texts.com/bud/lotus/lot02.htm) — the blockquote on skilful means and the one-vehicle passage
 - [Lotus of the True Law, ch. 3 (Sacred Texts)](https://sacred-texts.com/bud/lotus/lot03.htm) — the able-devices blockquote
 - Buddhism, Lotus Sutra

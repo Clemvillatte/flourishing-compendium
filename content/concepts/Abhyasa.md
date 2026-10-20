@@ -7,8 +7,6 @@ file: "Abhyasa"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-A"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter A", "parent": ""}
 ---
-Abhyāsa is sustained practice — the repeated return of attention that, with [[Vairagya]], stills the mind (Yoga Sūtra 1.12–14). It is the Vedantic counterpart to Aristotle's [[Habituation]] and to Stoic askēsis ([Wikipedia Abhyasa](https://en.wikipedia.org/wiki/Abhyasa)).
-
 Abhyāsa (Sanskrit, "practice") is the Yoga tradition's term for sustained, repeated effort directed at steadying the mind. The Yoga Sutra defines practice in sūtra 1.13 and the conditions under which it becomes firm in sūtra 1.14 ([Yoga-Sutra 1.13, Wisdom Library](https://www.wisdomlib.org/hinduism/book/yoga-sutras-with-commentaries/d/doc1216612.html)).
 
 > "Of these, practice is the effort to secure steadiness." (Yoga-Sutra 1.13, [Wisdom Library](https://www.wisdomlib.org/hinduism/book/yoga-sutras-with-commentaries/d/doc1216612.html))
@@ -29,9 +27,9 @@ Bhagavad Gita 6.35 also pairs practice with renunciation:
 
 ## Related concepts
 
-- [[Attentional control training and the role of repeated redirection]] — both describe effortful practice toward steadiness (Yoga Sutra 1.12-13), offered as comparison
-- [[Vairagya]] — the paired means, detachment, in the formula that stills the mind
-- [[Habituation]] — the Aristotelian counterpart named in the seed sentence
+- [[Attentional control training and the role of repeated redirection]]
+- [[Vairagya]]
+- [[Habituation]]
 
 ## Sources
 
