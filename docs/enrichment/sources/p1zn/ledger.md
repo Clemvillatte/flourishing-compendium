@@ -64,3 +64,9 @@
 - Opened: Marcus Meditations IV, V (Long, MIT Classics); Seneca Letter 5 (Gummere, Wikisource); Holt-Lunstad et al. 2010 abstract (PMID 20668659).
 - Not opened: Med. VI.7, IX.6; Seneca Letter 20; Epictetus Disc. III.7, III.21; Musonius; Dimidjian 2011; Heidegger; Dewey.
 - Note: entry's "Seneca politician and investor", "Marcus emperor" facts not re-verified and removed; Med. IV.3 allows a brief inward retreat; Letter 5 is about showy austerity; Holt-Lunstad is mortality, correlational.
+
+## S038 — Be a good citizen
+- Opened: Marcus Meditations IV, VI (Long); Seneca Letters 14, 73 (Gummere, Wikisource); systematic review abstract on civic engagement and young adult mental health (Taylor & Francis 2022); SEP Stoicism (no passage on sage in politics).
+- Not opened: Seneca Letter 91; Epictetus Disc. III.7, III.24; Musonius; Bandura 2000; Dewey; Kant.
+- Not located: "Putterman 2018" (civic engagement and well-being), dropped.
+- Note: "Seneca advised Nero", "Musonius exiled" unverified and dropped; Seneca Ep 73.4 and 14.14 show a divided Stoic stance on public office; Med. VI.44 section number from standard numbering.
