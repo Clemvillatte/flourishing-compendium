@@ -177,7 +177,7 @@
    ]
   },
   "s1a-009": {
-   "status": "qc_pending",
+   "status": "ready",
    "angle": "D080: the marquis feeds a seabird as himself; generous human standards become lethal across different ways of life",
    "history": [
     {
@@ -203,11 +203,16 @@
      "t": "2026-10-20T13:51:40+00:00",
      "to": "qc_pending",
      "note": "Applied all three exact advisor cuts; final confirmation requested"
+    },
+    {
+     "t": "2026-10-20T13:54:21+00:00",
+     "to": "ready",
+     "note": "Independent final advisor READY; complete source arc, three cuts verified, checker green"
     }
    ]
   },
   "s1a-010": {
-   "status": "qc_pending",
+   "status": "ready",
    "angle": "B068: Dighavu repeatedly examines revenge and sheathes the sword before mutual non-harm; new target per owner broad Buddhist storyteller remit",
    "history": [
     {
@@ -223,11 +228,16 @@
      "t": "2026-10-20T13:51:40+00:00",
      "to": "qc_pending",
      "note": "Checker green; independent milestone review requested"
+    },
+    {
+     "t": "2026-10-20T13:54:22+00:00",
+     "to": "ready",
+     "note": "Independent milestone advisor READY; full revenge/oath arc source-verified; checker green"
     }
    ]
   },
   "s1a-011": {
-   "status": "drafting",
+   "status": "qc_pending",
    "angle": "P136: Addams and the Devil Baby; an unsettling failed bedside visit changes how she understands old women and their stories",
    "history": [
     {
@@ -238,9 +248,14 @@
      "t": "2026-10-20T13:53:32+00:00",
      "to": "drafting",
      "note": "Full autobiographical bedside encounter drafted; primary chapter and scholarly context opened"
+    },
+    {
+     "t": "2026-10-20T13:54:22+00:00",
+     "to": "qc_pending",
+     "note": "Complete Addams narrative, primary and scholarly sources opened, checker green; independent QC requested"
     }
    ]
   }
  },
- "updated": "2026-10-20T13:53:32+00:00"
+ "updated": "2026-10-20T13:54:22+00:00"
 }
