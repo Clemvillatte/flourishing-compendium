@@ -101,3 +101,7 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 ## Y127 (2026-10-21)
 - MN 22 (Sujato) fetched from SuttaCentral; only unelided sentences quoted (the fetch tool elided some lines with "..."). BU 2.3.6 (Muller, SBE 15) taken from the Brhat open-library page and a PDF excerpt of the same translation in search results; the sacred-texts section page was not located (the sbe15031 URL was the wrong section). Disclosed on the page; the Muller line should be re-checked against sacred-texts when convenient.
 - Old text applied neti neti and the raft to "attainments"; neither text says so. Page states the extension and the week-return rule are the principle's. Plain words replicate replaced; example imagined. Self-QC only.
+
+## Y130 (2026-10-21)
+- Reuses the Woods pages verified for Y125 (2.28 p. 172; 2.29 p. 177; 2.30 p. 178; 2.32 p. 181) and Arnold Gita ch. 6 moderation lines; quotes re-checked by script (Icvara read as Isvara).
+- Old text's "the tradition's own practice instruction", "designed maintenance cycle" and "annual foundations month" have no support in the opened texts; page labels them as the principle's proposals and the sequence-as-cumulative reading as an inference. Moderation is from the Gita, not a Woods observance; stated. Old cites BG 6.16-6.17 not checked against a numbered edition. Plain words replicate replaced; example imagined. Self-QC only.
