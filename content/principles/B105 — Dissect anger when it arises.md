@@ -12,13 +12,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 105** — Dissect anger when it arises
 
-When angry, investigate: anger is built from your own story about the event, not the event. Look at the causes and the parts, and the anger loses its footing.
+Shantideva's patience chapter runs the dissection as a question about usefulness: if a problem has a remedy, frustration is useless because the remedy is the work; if it has none, frustration is useless because nothing remains to be done. The chapter also prices the state itself, from the thorn of hatred to the cost of one flash of anger against good accumulated over thousands of eons. (Shantideva, Bodhicaryavatara 6.)
 
-(Shantideva, Bodhicaryavatara 6; Dhammapada 3-5.)
+> "The mind does not find peace, nor does it enjoy pleasure and joy, nor does it find sleep or fortitude when the thorn of hatred dwells in the heart." (Shantideva, Bodhicaryavatara 6.3, [Wallace translation](https://thuvienhoasen.org/images/file/EUaZhZ1G0QgQANVp/shantideva-bodhicaryavatara-wallace.pdf))
 
-**Plain words** When angry, investigate: anger is built from your story about the event, not the event. Look at the causes and the parts, and the anger loses its footing. Every fury is a bundle of interpretations pretending to be a fact.
+The Dhammapada's third and fourth verses give the mechanism as one contrast: the same injuries, "he abused me, he struck me," carried in thought leave hatred unrested, dropped from thought still it. The event is one thing; the rehearsed account of it is another, and the account is what the anger runs on. (Dhammapada 3-4.)
 
-*For example:* 'They deliberately ignored me' examined: they were mid-crisis, phone dead, mother in hospital. The anger was a story with wrong casting.
+> "He abused me, he struck me, he overpowered me, he robbed me." Those who do not harbor such thoughts still their hatred. (Dhammapada 4, [Buddharakkhita, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html))
+
+**Plain words**
+Take a live anger and sort it into event and account. Write the event as a camera would have seen it, then write what you added: the motive you assigned, the history you attached, the verdict you issued. The exercise is not to decide your account is wrong. It is to see how much of the anger is the account, so the account can be examined.
+
+*For example:* Imagine the story "they deliberately ignored me" taken to examination and finding a person mid-crisis, phone dead, mother in hospital. The anger had cast the story; the examination recast it.
+
+## Sources
+
+- [Shantideva, Bodhicharyavatara, Wallace translation](https://thuvienhoasen.org/images/file/EUaZhZ1G0QgQANVp/shantideva-bodhicaryavatara-wallace.pdf) — chapter 6, verses 1, 3, 10
+- [Dhammapada Yamakavagga, Buddharakkhita translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html) — verses 3-5
 
 ## Practice kernels
 

@@ -262,3 +262,19 @@ priority, then B items in manifest order (manifest lists bare IDs; no titles).
 - Limitations: inherited parallels (Fredrickson 2001; Bryant and Veroff 2007;
   Spinoza Ethics III) NOT opened; flagged inherited parallels. Linked concepts
   (Broaden-and-build, Savoring) skimmed as seeds only.
+
+## B105 — Dissect anger when it arises
+
+- Opened: the Wallace Bodhicharyavatara PDF (same opening as B073, batched) — chapter
+  6 verses 1, 3, 10; and the Dhammapada ch. 1 page (same opening as B086/B089) —
+  verses 3-5.
+- Verbatim quotes used: Shantideva 6.3 thorn-of-hatred verse; Dhp 4. The 6.10 remedy
+  question and 6.1 eons-of-good verses paraphrased against the opened text (the
+  6.1 paraphrase says "good accumulated over thousands of eons" per the opened
+  verse; generosity and worshiping the Sugatas detail omitted).
+- The original body's "the anger loses its footing" guarantee replaced with the
+  source's own usefulness question; "wrong casting" quip removed.
+- Limitations: inherited parallels (Bushman 2002; Gross 2015; Seneca; Nietzsche) NOT
+  opened; flagged inherited parallels. Linked concepts (Anger reappraisal, The
+  critique of ressentiment) skimmed as seeds only. K169 practice kernel link
+  untouched (protected).
