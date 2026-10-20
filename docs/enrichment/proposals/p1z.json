@@ -1,1 +1,27 @@
-{"reciprocal": [], "inline": [{"into": "BE009", "concept": "Shaping (Skinner)", "phrase": "The tradition's method for building a complex behaviour is shaping", "why": "names the shaping procedure the linked concept defines, with the same Skinner chapter", "notes": "advisor round 1: link the existing concept, not the whole sentence to BE023; BE009 body names shaping without linking it; checked against the opened BFSkinner PDF this session"}, {"into": "Dukkha", "concept": "Hedonic adaptation", "phrase": "the hedonic treadmill of psychology", "why": "the comparison names the psychological process this concept defines", "notes": "mention scan during AF069; phrase verified in the Dukkha file; concept page exists"}]}
+{
+  "reciprocal": [
+    {
+      "into": "Attention",
+      "type": "concept",
+      "phrase": "In the invisible-gorilla experiment, observers counting basketball passes failed to report a person in a gorilla suit",
+      "why": "the concept page describes the gorilla experiment but never links the principle that states attention's selectivity",
+      "notes": "found by mention scan during AT001 saturation; AT001's parallels already link Inattentional blindness, so this completes the loop at the hub concept"
+    }
+  ],
+  "inline": [
+    {
+      "into": "BE009",
+      "concept": "Shaping (Skinner)",
+      "phrase": "The tradition's method for building a complex behaviour is shaping",
+      "why": "names the shaping procedure the linked concept defines, with the same Skinner chapter",
+      "notes": "advisor round 1: link the existing concept, not the whole sentence to BE023; BE009 body names shaping without linking it; checked against the opened BFSkinner PDF this session"
+    },
+    {
+      "into": "Dukkha",
+      "concept": "Hedonic adaptation",
+      "phrase": "the hedonic treadmill of psychology",
+      "why": "the comparison names the psychological process this concept defines",
+      "notes": "mention scan during AF069; phrase verified in the Dukkha file; concept page exists"
+    }
+  ]
+}
