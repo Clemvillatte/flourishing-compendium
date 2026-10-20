@@ -20,8 +20,11 @@ The other kinds dissolve when their grounds shift: "when the motive which made t
 - the tradition's own image
 ## Related concepts
 
-- [[A076]] — A076 works out Aristotle's NE VIII account of friendship across unequal parties, with the verbatim VIII.7-8 proportionality and mothers passages behind the Friendship concept page.
 
+
+- [[A076]] — A076 works out Aristotle's NE VIII account of friendship across unequal parties, with the verbatim VIII.7-8 proportionality and mothers passages behind the Friendship concept page.
+- [[S136]] — Seneca's version of friendship-as-practice: progress reported, passages marked, life shared (Letter 6)
+- [[SO025]] — Aristotle's quality-of-friendship standard applied to the relationship portfolio
 ## Sources
 
 - Aristotle, Nicomachean Ethics VIII

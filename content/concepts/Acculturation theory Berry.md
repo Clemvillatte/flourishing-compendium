@@ -20,4 +20,6 @@ Sociocultural · Psychological science
 
 ## Related concepts
 
+
 - [[Independent vs interdependent self-construal (Markus & Kitayama)]] — the self-construals that acculturation moves between
+- [[Bicultural identity integration]] — BII research measures acculturation attitudes and stress alongside bicultural identity

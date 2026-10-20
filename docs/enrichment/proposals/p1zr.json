@@ -3,17 +3,12 @@
  "revision": 3,
  "reciprocal": [
   {
-   "into": "Ubuntu",
-   "link": "AF058",
-   "why": "A principle about responding to loneliness, listed for comparison",
-   "notes": "Round-2 advisor QC: neutral descriptive clause per advisor instruction. Target page does not currently cite AF058."
-  },
-  {
    "into": "Capacity to be alone (Winnicott)",
    "link": "AF058",
    "why": "A principle about responding to loneliness, listed for comparison",
    "notes": "Round-2 advisor QC: neutral descriptive clause per advisor instruction. Target page does not currently cite AF058."
   }
  ],
- "inline": []
+ "inline": [],
+ "notes": " | deferred at this run (target band busy): 1 recip, 0 inline"
 }

@@ -27,13 +27,14 @@ The compendium's sociocultural principles carry the theory's uses. SE052, "Culti
 
 ## Related concepts
 
+
 - [[The relational self]] — the self-in-relation this theory describes, in the compendium's key
 - [[Ubuntu]] — the African personhood that is interdependence made explicit
 - [[Individualism collectivism theory Triandis]] — the companion theory at the level of cultural values
 - [[Face negotiation theory]] — the conflict-style consequences of the two construals
 - [[Bicultural identity integration]] — holding both construals at once
 - [[Acculturation theory Berry]] — what happens when the cultures meet
-
+- [[Cultural psychology]] — Markus and Kitayama examine these construals in relation to culture
 ## Sources
 
 - [Markus, H. R. and Kitayama, S., "Culture and the Self: Implications for Cognition, Emotion, and Motivation" (1991, Psychological Review; PDF at MIT)](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Influence_Compliance/Markus_Kitayama_1991_Culture_and_the_self.pdf) — the two construals, their definitions and consequences

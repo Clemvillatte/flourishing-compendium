@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “The science of science” — Ziman, 1968.
 
+## Related concepts
+
+- [[SO040]] — Peirce's public-permanency requirement for why science needs institutions
+
 ## Sources
 
 - Ziman, 1968

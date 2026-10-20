@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “The body-mind unity in pain” — Montaigne.
 
+## Related concepts
+
+- [[BI068]] — the bidirectional illness-mood evidence is the body-mind unity measured
+
 ## Sources
 
 - Montaigne

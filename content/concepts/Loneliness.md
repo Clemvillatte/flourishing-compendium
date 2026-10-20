@@ -19,8 +19,10 @@ Cross-traditionally, solitude is often reframed: contemplative traditions distin
 ## Related concepts
 
 
+
 - [[Escape from freedom]] — the condition Fromm's three escape mechanisms relieve
 - [[Capacity to be alone (Winnicott)]] — distressing disconnection contrasted with the contented aloneness the paper describes
+- [[BE049]] — the mortality meta-analyses behind this principle measure the cost loneliness carries
 ## Sources
 - Cacioppo, J. T., & Cacioppo, S. — http://cyberpsychology.eu/view.php?cisoWeb=akce-cislo-39-clanek-2
 - Holt-Lunstad, J., Smith, T. B., & Layton, J. B. (2010). Social relationships and mortality risk: A meta-analytic review. PLoS Medicine, 7(7). — https://doi.org/10.1371/journal.pmed.1000316

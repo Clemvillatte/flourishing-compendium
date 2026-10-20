@@ -9,6 +9,11 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “The laying on of hands” — Christian tradition.
 
+## Related concepts
+
+
+- [[BE057]] — the hug and partner-touch studies give this principle's evidence base
+- [[BI051]] — the vagal and autonomic evidence for touch as soothing
 ## Sources
 
 - Christian tradition

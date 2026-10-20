@@ -12,8 +12,10 @@ The tradition (Gilligan, Noddings, Tronto) that takes care — attentiveness, re
 ## Related concepts
 
 
+
 - [[Care]] — the theory that grew from Noddings's analysis of care
 - [[Justice]] — listed for comparison
+- [[Different voice]] — Gilligan's name for the care orientation that care ethics builds on
 ## Sources
 - SEP Feminist Ethics: https://plato.stanford.edu/entries/feminist-ethics/
 

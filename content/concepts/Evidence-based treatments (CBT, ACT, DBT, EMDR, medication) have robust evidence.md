@@ -23,6 +23,7 @@ The concept is cited by the boundary principles, and their shared move is to nam
 
 ## Related concepts
 
+
 - [[Exposure therapy (Foa, Craske)]] — the exposure family of techniques inside CBT
 - [[Dialectical behaviour therapy, emotion modulation]] — the compendium's own page for one of the therapies named in the title
 - [[Graded exposure / systematic desensitisation (Wolpe)]] — the clinical technique the compendium scales to self-help size
@@ -30,7 +31,7 @@ The concept is cited by the boundary principles, and their shared move is to nam
 - [[Behavioral activation]] — the compendium's activation concept for depression
 - [[Compassion-focused therapy]] — a further therapy approach the wiki covers
 - [[Metacognitive therapy (Wells)]] — a further CBT-family therapy in the compendium
-
+- [[BI070]] — the principle marks where those treatments are the main line and lifestyle practices the additional help
 ## Sources
 
 - Hofmann et al., 2010

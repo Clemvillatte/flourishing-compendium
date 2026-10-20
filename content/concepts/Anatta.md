@@ -32,6 +32,7 @@ For flourishing, anatta reframes identity from a fixed possession to a set of ha
 
 
 
+
 - [[Anatta]] — the English rendering
 - [[The bundle theory]] — Hume: the self as a bundle of perceptions
 -  — the constructed self
@@ -41,6 +42,7 @@ For flourishing, anatta reframes identity from a fixed possession to a set of ha
 - [[Buddhist emptiness of inherent nature]] — Madhyamaka extends the analysis of persons' lack of independent self to phenomena generally
 - [[CO011]] — CO011's philosophy parallels list anatta as non-identification with mental events
 - [[Impermanence]] — The Anatta page describes anatta as one of the Three Marks of Existence alongside dukkha and anicca ('impermanence') — the same family the Impermanence page hubs. rg found no [[Impermanence]] link on the Anatta page (exact:0).
+- [[SE045]] — the Buddhist analysis behind this principle's core test (SN 22.59 is the source of its blockquote)
 ## Sources
 
 - [Wikipedia, Ātman (Buddhism)](https://en.wikipedia.org/wiki/%C4%80tman_(Buddhism)) — textual and doctrinal detail, including the distinction between "not-self" and "no-self" and the later Tathāgatagarbha qualification.

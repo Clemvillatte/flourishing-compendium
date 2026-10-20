@@ -11,8 +11,9 @@ exercise in nature produces greater improvements in mood and self-esteem than in
 
 ## Related concepts
 
-- [[Nature exposure]] — the concept page lists this topic among its Related entries; this link returns it
 
+- [[Nature exposure]] — the concept page lists this topic among its Related entries; this link returns it
+- [[BI023]] — the antidepressant and anxiolytic case for movement in general, of which green exercise is the nature-based variant
 ## Sources
 
 - Barton & Pretty, 2010

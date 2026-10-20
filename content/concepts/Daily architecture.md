@@ -19,8 +19,9 @@ Its contemplative cognates are [[Ritual]] (structure as practice) and the [[The 
 
 ## Related concepts
 
-- [[Morning intention]] — the concept page lists this topic among its Related entries; this link returns it
 
+- [[Morning intention]] — the concept page lists this topic among its Related entries; this link returns it
+- [[S134]] — the principle that gives the morning intention and evening review described here a fixed daily container
 ## Sources
 
 - Buddhist tradition

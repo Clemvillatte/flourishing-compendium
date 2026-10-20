@@ -14,3 +14,8 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY
 Sociocultural · Psychological science
 [[CO012 — Know that thinking is both individual and collective — schemas are shared]]
 ## Cited in philosophy parallels
+
+
+## Related concepts
+
+- [[CO012]] — the principle pairs the theory's cultural schemas with the Nisbett group's finding that analytic and holistic habits track different social systems

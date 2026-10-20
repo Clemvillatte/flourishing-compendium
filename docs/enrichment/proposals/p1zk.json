@@ -1,19 +1,7 @@
 {
  "batch": "p1zk",
- "revision": 22,
+ "revision": 23,
  "reciprocal": [
-  {
-   "into": "Sleep deprivation",
-   "link": "BE037",
-   "why": "the mechanism Goldstein and Walker's review reports: a sleep-deprived brain overreacts to emotionally negative pictures",
-   "notes": "Evidence recorded in sources/p1zk/BE037.md (Goldstein & Walker 2014 reporting Yoo et al. 2007, opened)."
-  },
-  {
-   "into": "Affect labeling",
-   "link": "BE037",
-   "why": "listed for comparison",
-   "notes": "Neutralised per advisor QC: the local page records Lieberman's amygdala-reduction finding; comparison held pending source review. Evidence notes in sources/p1zk/BE037.md."
-  },
   {
    "into": "Food as medicine",
    "link": "BE042",
@@ -21,34 +9,10 @@
    "notes": "Concept page already lists BE042 in its principles list; evidence in sources/p1zk/BE042.md (SMILES full text, Firth 2019, Li 2017, all opened)."
   },
   {
-   "into": "Nutritional psychiatry",
-   "link": "BE042",
-   "why": "listed for comparison",
-   "notes": "Seed concept (Sarris et al. 2015); BE042's opened evidence (SMILES, Firth 2019) is the field's trial literature. Evidence in sources/p1zk/BE042.md."
-  },
-  {
    "into": "Circadian science",
    "link": "BE043",
    "why": "the camping and e-reader trials behind this principle are circadian entrainment experiments",
    "notes": "Evidence in sources/p1zk/BE043.md (Wright 2013, Lam 2016, Chang 2015, all opened). Concept already cites BE043."
-  },
-  {
-   "into": "Loneliness",
-   "link": "BE049",
-   "why": "the mortality meta-analyses behind this principle measure the cost loneliness carries",
-   "notes": "Evidence in sources/p1zk/BE049.md (Holt-Lunstad 2010/2015, both opened). Concept already cites BE049."
-  },
-  {
-   "into": "Relatedness",
-   "link": "BE049",
-   "why": "listed for comparison",
-   "notes": "SDT relatedness concept; the need claim on BE049 is inherited (Deci & Ryan not opened this session), so the clause is neutral. Evidence notes in sources/p1zk/BE049.md."
-  },
-  {
-   "into": "The laying on of hands",
-   "link": "BE057",
-   "why": "the hug and partner-touch studies give this principle's evidence base",
-   "notes": "Evidence in sources/p1zk/BE057.md (Murphy 2018, Ditzen 2007, both opened). Concept already links BE057 in its parallels."
   },
   {
    "into": "Helper's high",
@@ -63,12 +27,6 @@
    "notes": "Evidence in sources/p1zk/BE062.md (Napier & Mangat 2026, Bojanowska 2022, both opened). Values concept is linked from BE062's parallels."
   },
   {
-   "into": "Homo ludens",
-   "link": "BE065",
-   "why": "listed for comparison",
-   "notes": "Neutralised per advisor QC: whether Proyer's playfulness construct is the trait Huizinga's play-category names is a research question, not an opened finding. Evidence in sources/p1zk/BE065.md."
-  },
-  {
    "into": "ERP (exposure and response prevention)",
    "link": "BE071",
    "why": "the compulsions this page teaches to recognise are the targets ERP treats",
@@ -81,22 +39,10 @@
    "notes": "Evidence in sources/p1zk/BE075.md (Ohayon 2004, Lin 2020, both opened). Concept already cites BE075."
   },
   {
-   "into": "Sleep architecture (Walker)",
-   "link": "BI014",
-   "why": "the NINDS cycle description and Rasch-Born memory mechanism behind this principle",
-   "notes": "Evidence in sources/p1zk/BI014.md (NINDS Brain Basics, Rasch & Born 2013, both opened). Concept already cites BI014."
-  },
-  {
    "into": "Stimulus control theory",
    "link": "BI015",
    "why": "the guideline recommendation that backs one piece of sleep hygiene is stimulus control",
    "notes": "Evidence in sources/p1zk/BI015.md (Edinger 2021 AASM guideline Rec 3, NINDS tips, both opened). Concept already cites BI015."
-  },
-  {
-   "into": "Habit",
-   "link": "BI022",
-   "why": "the see-a-doctor rule distinguishes sleep habits from medical symptoms",
-   "notes": "Evidence in sources/p1zk/BI022.md (NHLBI sleep apnea, NINDS, Edinger 2021, all opened). Concept already cites BI022."
   },
   {
    "into": "Circadian science",
@@ -111,46 +57,10 @@
    "notes": "Evidence in sources/p1zk/BI033.md (SMILES, Firth, Li, all opened; same evidence as BE042). Concept already cites BI033."
   },
   {
-   "into": "Microbiome theory",
-   "link": "BI034",
-   "why": "the fermented-foods trial and plant-diversity finding are the diet side of microbiome theory",
-   "notes": "Evidence in sources/p1zk/BI034.md (Stanford/Wastyk 2021, McDonald 2018, Cryan 2019, all opened). Concept already cites BI034."
-  },
-  {
-   "into": "The laying on of hands",
-   "link": "BI051",
-   "why": "the vagal and autonomic evidence for touch as soothing",
-   "notes": "Evidence in sources/p1zk/BI051.md (Field 2010, Della Longa 2025, Candia-Rivera 2024, all opened). Concept already cites BI051."
-  },
-  {
-   "into": "Physiological sigh (Balban et al., Stanford)",
-   "link": "BI061",
-   "why": "the Stanford breathwork trial comparing cyclic sighing, box breathing and hyperventilation",
-   "notes": "Evidence in sources/p1zk/BI061.md (Balban 2023, Zaccaro 2018, Fincham 2023, all opened). Concept already cites BI061."
-  },
-  {
-   "into": "The body-mind unity in pain",
-   "link": "BI068",
-   "why": "the bidirectional illness-mood evidence is the body-mind unity measured",
-   "notes": "Evidence in sources/p1zk/BI068.md (Mezuk 2008, 2021 HbA1c meta-analysis, both opened). Concept already cites BI068."
-  },
-  {
    "into": "Circadian science",
    "link": "BI069",
    "why": "the medical-condition framing for sleep disorders including circadian ones",
    "notes": "Evidence in sources/p1zk/BI069.md (NHLBI, NINDS, Edinger 2021, all opened). Concept already cites BI069."
-  },
-  {
-   "into": "Clinical thresholds for depression, anxiety, PTSD, and bipolar disorder",
-   "link": "BI070",
-   "why": "the principle marks where self-directed body practices stop and clinical evaluation starts, and the concept holds the diagnostic thresholds for the same conditions",
-   "notes": "Mention check: the concept page already cites BI070. Evidence in sources/p1zk/BI070.md (MedlinePlus + NIMH pages opened)."
-  },
-  {
-   "into": "Evidence-based treatments (CBT, ACT, DBT, EMDR, medication) have robust evidence",
-   "link": "BI070",
-   "why": "the principle marks where those treatments are the main line and lifestyle practices the additional help",
-   "notes": "Mention check: the concept body already cites BI070. Evidence in sources/p1zk/BI070.md."
   },
   {
    "into": "Cultural schema theory",
@@ -163,12 +73,6 @@
    "link": "CO013",
    "why": "the principle carries the theory's broadening finding, that mood can shift the range of actions that come to mind, from the film experiments",
    "notes": "Mention check: the concept cites Fredrickson's papers and AF061/AT017; the stress-side Arnsten review is kept separate in the body and is not part of this clause. Evidence in sources/p1zk/CO013.md."
-  },
-  {
-   "into": "Anchoring effect",
-   "link": "CO018",
-   "why": "the principle carries the 1974 primary experiment and definition, pairing the concept's mechanism with the practice of naming one's own anchors",
-   "notes": "Mention check: the concept resolves and carries the mechanism; CO018 adds the wheel-of-fortune and incomplete-computation demonstrations from the opened 1974 text. Evidence in sources/p1zk/CO018.md."
   }
  ],
  "inline": []

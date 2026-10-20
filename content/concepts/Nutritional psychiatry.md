@@ -9,6 +9,11 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Nutritional psychiatry” — Sarris et al., 2015.
 
+## Related concepts
+
+
+- [[BE042]] — listed for comparison
+- [[BI035]] — the diet-depression association this principle summarises is one of the field's core observational findings
 ## Sources
 
 - Sarris et al., 2015

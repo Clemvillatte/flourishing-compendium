@@ -12,8 +12,9 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 - Scheler, The Nature of Sympathy
 ## Related concepts
 
-- [[B100]] — B100's philosophy parallels list sympathy versus empathy (Scheler)
 
+- [[B100]] — B100's philosophy parallels list sympathy versus empathy (Scheler)
+- [[Empathy]] — the two states are standardly contrasted: feeling with another versus care for another's well-being
 ## Sources
 
 - Adam Smith, The Theory of Moral Sentiments

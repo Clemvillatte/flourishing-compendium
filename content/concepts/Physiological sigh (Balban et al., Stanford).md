@@ -11,8 +11,9 @@ a double inhale followed by an extended exhale rapidly reduces stress and improv
 
 ## Related concepts
 
-- [[Slow-paced breathing]] — the exhale-weighted unit of the same practice
 
+- [[Slow-paced breathing]] — the exhale-weighted unit of the same practice
+- [[BI061]] — the Stanford breathwork trial comparing cyclic sighing, box breathing and hyperventilation
 ## Sources
 
 - Balban et al., 2023

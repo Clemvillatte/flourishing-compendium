@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Mutual recognition” — Hegel, Phenomenology of Spirit.
 
+## Related concepts
+
+- [[Cultural recognition]] — the person-to-person form of the demand that cultural recognition politicizes
+
 ## Sources
 
 - Hegel, Phenomenology of Spirit

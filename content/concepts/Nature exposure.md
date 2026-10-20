@@ -31,11 +31,12 @@ The study is honest about its scope: thirty-eight healthy urban-dwelling partici
 
 ## Related concepts
 
+
 - [[Rumination]] — the outcome the anchor study measured
 - [[Attention restoration]] — the Kaplan framework the study's discussion draws on
 - [[Restorative environments]] — the literature of preferred restorative places
 - [[Green exercise (Barton, Pretty)]] — the exercise-plus-nature cousin
-
+- [[BI027]] — the movement half of the combination, grounded in the green-exercise pooled analysis
 ## Sources
 
 - [Bratman et al., 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC4507237/)

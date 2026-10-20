@@ -36,10 +36,11 @@ The same entry formalizes the needs' claim: three needs "which are universal and
 
 ## Related concepts
 
+
 - [[Freedom]] — the psychological sibling: self-governing action
 - [[Identified versus introjected motivation]] — the need whose support facilitates internalization
 - [[Locus of control]] — Rotter's cousin construct: expectancies about outcomes rather than reasons for action
-
+- [[SE053]] — SDT's autonomy need is one half of this principle's pair
 ## Sources
 
 - [Kant, "What Is Enlightenment?" (1784), reading text at Manchester University](https://users.manchester.edu/facstaff/ssnaragon/kant/lp/Readings/Kant,%20Enlightenment.html) — the verbatim opening paragraphs.

@@ -17,3 +17,8 @@ Overt Behavior · Psychological science
 [[BI001 — Understand that the body is the foundation of the mind — physiology shapes psychology]]
 [[SE007 — Understand that the self has temporal depth — past, present, and future selves]]
 [[SP076 — Obey from understanding, not from fear]]
+
+
+## Related concepts
+
+- [[Behavior change wheel theory Michie]] — the COM-B system whose components the wheel maps onto intervention functions

@@ -13,6 +13,10 @@ cognitive and attentional variation is normal and valuable (Singer, 1998; Kapp e
 
 - cognitive variation is normal and valuable (Singer, 1998; Kapp et al., 2013)
 
+## Related concepts
+
+- [[SE074]] — autistic-identity findings grounding the paradigm's self-acceptance claim
+
 ## Sources
 
 - Singer, 1998

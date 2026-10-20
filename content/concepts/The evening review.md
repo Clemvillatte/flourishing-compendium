@@ -21,8 +21,9 @@ The passage describes recollection and self-address, without prescribing a writt
 
 ## Related concepts
 
-- [[Morning intention]] — the concept page lists this topic among its Related entries; this link returns it
 
+- [[Morning intention]] — the concept page lists this topic among its Related entries; this link returns it
+- [[S134]] — the evening half of the routine; S134 supplies the daily container and the morning half
 ## Sources
 
 - [Seneca, On Anger, Book III, section XXXVI, translated by Aubrey Stewart](https://en.wikisource.org/wiki/Of_Anger/Book_III): Sextius's questions, Seneca's own review, concrete corrections and self-pardon.

@@ -11,6 +11,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 - Deci & Ryan, 2000
 - Ryan & Deci, 2017
+## Related concepts
+
+- [[BE049]] — listed for comparison
+
 ## Sources
 
 - Deci and Ryan, 2000

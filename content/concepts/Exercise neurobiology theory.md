@@ -17,3 +17,8 @@ Biophysiological · Psychological science
 [[AT044 — Recognise the role of exercise in attention — movement restores and improves attention]]
 [[PP075 — Move the body]]
 [[BI026 — Learn that strength training is also effective for mental health]]
+
+
+## Related concepts
+
+- [[BI023]] — the trial evidence this principle summarises is the behavioural outcome those neurobiological mechanisms are proposed to explain

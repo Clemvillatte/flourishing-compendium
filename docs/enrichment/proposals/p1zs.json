@@ -1,18 +1,12 @@
 {
  "batch": "p1zs",
- "revision": 6,
+ "revision": 7,
  "reciprocal": [
   {
-   "into": "Sleep hygiene (CBT-I)",
-   "link": "BI020",
-   "why": "guidance on nap length and timing",
-   "notes": "Evidence in sources/p1zs/BI020.md (NHLBI Your Guide to Healthy Sleep opened; Brooks & Lack 2006 opened)."
-  },
-  {
-   "into": "Sleep deprivation",
-   "link": "BI020",
-   "why": "brief-nap findings after a night restricted to about five hours",
-   "notes": "Evidence in sources/p1zs/BI020.md (Brooks & Lack 2006, Sleep 29(6): 831-40, opened at PubMed 16796222)."
+   "into": "Food as medicine",
+   "link": "BI035",
+   "why": "the observational evidence that eating patterns track depressive symptoms is part of the modern case for diet as a health input",
+   "notes": "Evidence in sources/p1zs/BI035.md (target page read)."
   },
   {
    "into": "Exercise neurobiology theory",
@@ -44,5 +38,6 @@
    "why": "observational evidence that eating patterns differ between people with and without depressive symptoms",
    "notes": "Evidence in sources/p1zs/BI035.md (target page read)."
   }
- ]
+ ],
+ "inline": []
 }

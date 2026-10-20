@@ -12,8 +12,9 @@ older adults prioritise emotionally meaningful goals (Carstensen et al., 1999; C
 
 ## Related concepts
 
-- [[Positivity effect]] — the effect this theory predicts
 
+- [[Positivity effect]] — the effect this theory predicts
+- [[SE075]] — age-related emotional-experience findings in long-run samples
 ## Sources
 
 - Carstensen et al., 1999

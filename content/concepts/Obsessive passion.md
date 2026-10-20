@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Obsessive passion” — Vallerand et al., 2003.
 
+## Related concepts
+
+- [[Harmonious passion]] — the two forms of Vallerand's dualistic model of passion, controlled and autonomous internalization
+
 ## Sources
 
 - Vallerand et al., 2003

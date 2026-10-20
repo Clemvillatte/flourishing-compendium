@@ -13,6 +13,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 - **man the player** — Huizinga, Homo Ludens
 
+## Related concepts
+
+- [[BE065]] — listed for comparison
+
 ## Sources
 
 - Huizinga, Homo Ludens

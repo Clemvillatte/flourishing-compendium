@@ -35,6 +35,10 @@ In a discussion of depression, Maj and colleagues quote the DSM-5 requirement th
 - [[AT075 — Recognise clinical attentional symptoms — when attention problems require evaluation]] — the attention-side threshold
 - [[CO081 — Recognise cognitive symptoms of clinical conditions — depression and anxiety affect thinking]] — the cognition-side threshold
 
+## Related concepts
+
+- [[BI070]] — the principle marks where self-directed body practices stop and clinical evaluation starts, and the concept holds the diagnostic thresholds for the same conditions
+
 ## Sources
 
 - APA, 2022

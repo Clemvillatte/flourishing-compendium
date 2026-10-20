@@ -34,10 +34,13 @@ The principles listed below, among them AT042 (the role of sleep in attention), 
 
 ## Related concepts
 
+
+
 - [[Sleep architecture (Walker)]] — listed for comparison
 - [[Sleep hygiene (CBT-I)]] — listed for comparison
 - [[Two-process model of sleep]] — listed for comparison
-
+- [[BE037]] — the mechanism Goldstein and Walker's review reports: a sleep-deprived brain overreacts to emotionally negative pictures
+- [[BI020]] — brief-nap findings after a night restricted to about five hours
 ## Sources
 
 - [Yoo, Gujar, Hu, Jolesz & Walker (2007), "The human emotional brain without sleep: a prefrontal amygdala disconnect", Current Biology (Walker lab reprint)](https://walkerlab.berkeley.edu/reprints/Yoo-Walker_CurrBiol_2007.pdf) — amygdala activation and connectivity

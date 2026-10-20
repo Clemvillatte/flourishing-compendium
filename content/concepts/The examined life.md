@@ -43,8 +43,9 @@ The question has a twin entry in this library — [[The unexamined life]] — an
 
 ## Related concepts
 
-- [[MO034]] — examines Socrates' daily examination as the philosophical root of MO034 goal-review practice.
 
+- [[MO034]] — examines Socrates' daily examination as the philosophical root of MO034 goal-review practice.
+- [[SE077]] — the self-assessment practice that operationalises the examined life
 ## Sources
 
 - Socrates, Apology

@@ -15,3 +15,8 @@ Motivation · Psychological science
 [[E074 — Practise avoiding the passionate man]]
 [[D066 — Withdraw when the work is done]]
 ## Cited in philosophy parallels
+
+
+## Related concepts
+
+- [[Harmonious passion]] — the autonomous form of the passion this theory distinguishes

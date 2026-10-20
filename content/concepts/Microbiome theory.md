@@ -16,3 +16,7 @@ Biophysiological · Psychological science
 ## Cited in parallels
 
 - - - - - [[BI034 — Learn to eat for gut health — fibre, fermented foods, diversity]]
+
+## Related concepts
+
+- [[BI034]] — the fermented-foods trial and plant-diversity finding are the diet side of microbiome theory

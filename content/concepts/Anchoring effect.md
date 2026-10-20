@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 initial values bias subsequent numerical judgments (Tversky & Kahneman, 1974).
 
+## Related concepts
+
+- [[CO018]] — the principle carries the 1974 primary experiment and definition, pairing the concept's mechanism with the practice of naming one's own anchors
+
 ## Sources
 
 - Tversky & Kahneman, 1974
