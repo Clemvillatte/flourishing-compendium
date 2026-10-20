@@ -12,22 +12,22 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 ---
 > **Principle 48** — Learn to break tasks down: overwhelm causes avoidance
 
-Sirois and Pychyl's account of procrastination begins with what makes a task put-off-able:
+Sirois and Pychyl discuss procrastination in relation to tasks experienced as aversive:
 
 > Procrastination is a common and pervasive problem associated with a range of negative outcomes across a variety of life domains that often occurs when people are faced with tasks that are seen as aversive. (Sirois & Pychyl, 2013)
 
-Their conclusion names the mechanism:
+In their conclusion, they propose a short-term mood-regulation account:
 
 > In this paper, we have argued that procrastination may be best understood as a form of self-regulation failure that involves the primacy of short-term mood repair and emotion regulation over the longer-term pursuit of intended actions. (Sirois & Pychyl, 2013)
 
-On this account, avoidance is mood repair: the task feels bad, and the delay buys relief that the future self pays for. The compendium's exercise follows from the aversiveness finding rather than from a tested remedy: break the avoided task into steps small enough that the next step is easy to begin.
+The task-breakdown exercise below is the compendium's application. Its effect on procrastination is not established by the passages quoted here.
 
 (Sirois & Pychyl, 2013, "Procrastination and the Priority of Short-Term Mood Regulation," Social and Personality Psychology Compass, 7(2).)
 
 **Plain words**
-The paper's claim is that we put off tasks that feel bad, and that the delay is a short-term mood fix with costs paid later. The compendium's exercise: take the task you keep avoiding and cut it into steps small enough that the next step is easy to begin. The paper does not test decomposition; it supplies the reason a small first step might help.
+The authors connect putting off unpleasant tasks with attempts to manage immediate feelings. The compendium uses this account as a prompt for examining an avoided task. Write down what feels unpleasant about it, then identify one concrete action you could try. Notice what happens when you attempt it.
 
-*For example:* A tax return avoided for weeks can be cut to: find last year's file. That step takes minutes. The paper does not guarantee what follows; the point of the smaller step is that beginning it is easy to choose.
+*For example:* Suppose you have been putting off your tax return. Choose one limited action, such as looking for last year's file, and decide when to try it. Afterward, note what you did and how it felt.
 
 ## Sources
 
