@@ -74,3 +74,8 @@
 
 - Linked IEP citations added to the introductory sentence and to the named-exercises
   sentence (section 5 "Spiritual Practices").
+
+## Advisor QC round 5 (2026-10-20): second-intro-sentence citation
+
+- IEP link added to the second introductory sentence, with the "complete reversal"
+  phrase attributed to the IEP's rendering of Hadot's account.
