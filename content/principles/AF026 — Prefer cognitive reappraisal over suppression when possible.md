@@ -17,9 +17,7 @@ This principle compares two ways of managing an emotion. James Gross's process m
 > "The first, reappraisal, comes early in the emotion-generative process. It consists of changing the way a situation is construed so as to decrease its emotional impact. The second, suppression, comes later in the emotion-generative process. It consists of inhibiting the outward signs of inner feelings."
 > (Gross, "Emotion regulation: Affective, cognitive, and social consequences", Psychophysiology, 2002, 39(3), pp. 281-291, abstract at p. 281; [opened PDF](https://www.psychiatry.wisc.edu/courses/Nitschke/seminar/gross_2002_psychophys.pdf).)
 
-The abstract reports that experimental and individual-difference studies find reappraisal is "often more effective than suppression" — the "often" is the limit of what the abstract itself claims. In the studies the abstract summarises, reappraisal decreases emotion experience and behavioral expression, and has no impact on memory; suppression decreases behavioral expression but does not decrease emotion experience, impairs memory, and increases physiological responding for suppressors and their social partners.
-
-The review does not claim that reappraisal works in every situation. Its account is a comparison of average profiles in laboratory and individual-difference studies, not a rule that suppression is always the worse choice.
+The abstract describes reappraisal as "often more effective than suppression" (p. 281). In the studies the abstract summarises, reappraisal decreases emotion experience and behavioral expression, and has no impact on memory; suppression decreases behavioral expression but does not decrease emotion experience, impairs memory, and increases physiological responding for suppressors and their social partners.
 
 (Gross, 2002; [opened PDF](https://www.psychiatry.wisc.edu/courses/Nitschke/seminar/gross_2002_psychophys.pdf).)
 
@@ -30,7 +28,7 @@ The review does not claim that reappraisal works in every situation. Its account
 ## Psychology parallels
 
 - **Reappraisal vs suppression meta-analysis** (Webb et al., 2012; Aldao et al., 2010)
-- Butler, E. A., & Gross, J. J. (2009). Emotion regulation and romantic relationships. In deHouwer, Hermans, & Spruyt (Eds.), Emotion and motivation. Psychology Press.
+- Butler & Gross (2009)
 
 ## Philosophy parallels
 
