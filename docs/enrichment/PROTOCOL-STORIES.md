@@ -47,6 +47,7 @@ The page must give an essay writer the clear idea, the gist, by reading the page
 lane: s1a
 local-id: s1a-001
 status: researching | drafting | qc_pending | ready | returned
+title: The Story Title
 target-principles: [D080]
 target-angles: "qiwu (D080): Cook Ding told from the point of view of the ox"
 evidence:
@@ -75,7 +76,8 @@ coverage-matrix:
 5. **Freeze.** Mark the draft `status: ready`. The story then goes to `published_backlinks_pending` (page live, backlinks waiting) or `rejected`.
 6. **Push** via `scripts/enrich_save.sh` (or direct git push) after every milestone.
 7. **Integration (Supervisor only).** For a ready story the supervisor:
-   - runs `python3 scripts/story_register.py <draft> --id ST### --dry-run`, then without `--dry-run`;
+   - runs `python3 scripts/story_register.py <draft>` (dry-run by default), then
+     `--write --chapter <id> [--id <number>]` (e.g. `--chapter ST-S03.01 --id 342`);
    - validates (structural + story_check `--context published`), builds, and pushes;
    - records the ST id assignment and the published target in the registry;
    - writes the backlinks into the principle pages' `## Stories` sections — **only if that principle's band is not live**; if it is live, defer the backlink or ROUTE the exact append to the band owner;

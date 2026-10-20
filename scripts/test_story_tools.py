@@ -4,7 +4,7 @@
 Run from repo root:  python3 scripts/test_story_tools.py
 Creates only temp fixtures (git-ignored paths cleaned up in finally); never touches live content.
 """
-import sys, os, re, json, subprocess, tempfile, shutil
+import sys, os, re, json, subprocess, tempfile, shutil, datetime
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(ROOT, 'scripts'))
@@ -138,8 +138,13 @@ def main():
           bool(story_guard.violations(['content/principles/D005.md'], 'storyteller', 's1a')))
     check('storyteller blocked from other lane',
           bool(story_guard.violations(['docs/enrichment/drafts/s1b/x.md'], 'storyteller', 's1a')))
+    check('storyteller blocked from shared docs (default-deny)',
+          bool(story_guard.violations(['docs/enrichment/STORIES-TASKBOARD.md'], 'storyteller', 's1a')))
+    check('storyteller blocked from worker state',
+          bool(story_guard.violations(['docs/enrichment/progress.json'], 'storyteller', 's1a')))
     check('storyteller own lane ok',
-          not story_guard.violations(['docs/enrichment/drafts/s1a/s1a-001.md',
+          not story_guard.violations(['docs/enrichment/drafts/s1a/s1a-002.md',
+                                      'docs/enrichment/drafts/s1a/state.json',
                                       'docs/enrichment/batons/s1a.json'], 'storyteller', 's1a'))
     check('worker blocked from stories pipeline',
           bool(story_guard.violations(['content/stories/ST342 — X.md'], 'worker')))
@@ -176,17 +181,81 @@ def main():
                         os.path.relpath(dp, ROOT)], capture_output=True, text=True)
     check('ready draft dry-run plans cleanly', r.returncode == 0, r.stdout + r.stderr)
     check('dry-run announces no write', 'DRY-RUN' in r.stdout, r.stdout)
-    dp2 = os.path.join(d, 's1a-002.md')
-    open(dp2, 'w', encoding='utf-8').write(BAD_DRAFT)
+    open(dp, 'w', encoding='utf-8').write(BAD_DRAFT)
     r = subprocess.run([sys.executable, os.path.join(ROOT, 'scripts', 'story_register.py'),
-                        os.path.relpath(dp2, ROOT)], capture_output=True, text=True)
+                        os.path.relpath(dp, ROOT)], capture_output=True, text=True)
     check('non-ready draft refused', r.returncode == 1 and 'status' in r.stdout, r.stdout + r.stderr)
-    # BAD_DRAFT now has a bogus status; also test the non-ready 'drafting' case
-    open(dp2, 'w', encoding='utf-8').write(GOOD_DRAFT.replace('status: ready', 'status: drafting'))
+    open(dp, 'w', encoding='utf-8').write(GOOD_DRAFT.replace('status: ready', 'status: drafting'))
     r = subprocess.run([sys.executable, os.path.join(ROOT, 'scripts', 'story_register.py'),
-                        os.path.relpath(dp2, ROOT)], capture_output=True, text=True)
+                        os.path.relpath(dp, ROOT)], capture_output=True, text=True)
     check('drafting (not ready) draft refused', r.returncode == 1 and 'status' in r.stdout, r.stdout + r.stderr)
     shutil.rmtree(d)
+
+    print('story_register (isolated full-write fixture):')
+    fx = tempfile.mkdtemp()
+    for sub in ('content/stories', 'content/principles', 'content/structure',
+                'docs/enrichment/batons', 'docs/enrichment/bands'):
+        os.makedirs(os.path.join(fx, sub))
+    open(os.path.join(fx, 'content', '_order.json'), 'w').write(
+        json.dumps(['content/stories/ST001 — Old.md']))
+    open(os.path.join(fx, 'content', 'stories', 'ST001 — Old.md'), 'w').write('x')
+    book = ('---\nid: "ST"\ntype: "book"\n---\n\n## Contents\n\n'
+            '- [[ST-S01 — Part I]]\n'
+            '  - [[ST-S01.01 — I.1 First Principles]]\n'
+            '    - [[ST001 — Old]]\n'
+            '    - [[ST002 — Older]]\n')
+    open(os.path.join(fx, 'content', 'structure', 'ST — Stories of Genuine Flourishing.md'), 'w').write(book)
+    open(os.path.join(fx, 'content', 'principles', 'P001 — Test Principle.md'), 'w').write(
+        '---\nid: "P001"\ntype: "principle"\n---\nbody\n\n## Sources\n- x\n')
+    open(os.path.join(fx, 'docs', 'enrichment', 'bands', 'p1x-manifest.json'), 'w').write(
+        json.dumps({'band': 'p1x', 'principles': ['P001']}))
+    now_iso = datetime.datetime.now(datetime.timezone.utc).isoformat(timespec='seconds')
+    old_iso = '2020-01-01T00:00:00+00:00'
+
+    draft = GOOD_DRAFT.replace('"D005"', '"P001"').replace(
+        '[[D005 — Expect reversal — extremes turn into their opposites|D5. Expect reversal]]',
+        '[[P001 — Test Principle|P1 Test principle]]')
+    open(os.path.join(fx, 'draft.md'), 'w').write(draft)
+    # stale baton -> free target
+    open(os.path.join(fx, 'docs', 'enrichment', 'batons', 'p1x.json'), 'w').write(
+        json.dumps({'baton': 'p1x', 'agent': 'w', 'clocked_in': old_iso, 'released': False}))
+    r = subprocess.run([sys.executable, os.path.join(ROOT, 'scripts', 'story_register.py'),
+                        os.path.join(fx, 'draft.md'), '--root', fx, '--write',
+                        '--chapter', 'ST-S01.01', '--id', '2'], capture_output=True, text=True)
+    check('write succeeds (stale band)', r.returncode == 0, r.stdout + r.stderr)
+    nb = open(os.path.join(fx, 'content', 'structure', 'ST — Stories of Genuine Flourishing.md')).read()
+    check('Contents children not duplicated',
+          nb.count('- [[ST001 — Old]]') == 1 and nb.count('- [[ST002 — Older]]') == 1, nb)
+    check('new story line inserted once', nb.count('- [[ST002 — A Test Story]]') == 1, nb)
+    ord2 = json.load(open(os.path.join(fx, 'content', '_order.json')))
+    check('order entry added once', ord2.count('content/stories/ST002 — A Test Story.md') == 1)
+    pt = open(os.path.join(fx, 'content', 'principles', 'P001 — Test Principle.md')).read()
+    check('backlink appended once', pt.count('- [[ST002 — A Test Story|2. A Test Story]]') == 1, pt)
+    check('backlink lands in Stories section', '## Stories' in pt and pt.index('## Stories') < pt.index('[[ST002'))
+    # re-run: file exists -> refused, no double writes
+    r = subprocess.run([sys.executable, os.path.join(ROOT, 'scripts', 'story_register.py'),
+                        os.path.join(fx, 'draft.md'), '--root', fx, '--write',
+                        '--chapter', 'ST-S01.01', '--id', '2'], capture_output=True, text=True)
+    check('re-register refused', r.returncode == 1 and 'exists' in r.stdout, r.stdout + r.stderr)
+    # fresh baton -> live band deferral, nothing written
+    shutil.rmtree(os.path.join(fx, 'content', 'stories'))
+    os.makedirs(os.path.join(fx, 'content', 'stories'))
+    open(os.path.join(fx, 'docs', 'enrichment', 'batons', 'p1x.json'), 'w').write(
+        json.dumps({'baton': 'p1x', 'agent': 'w', 'clocked_in': now_iso, 'released': False}))
+    r = subprocess.run([sys.executable, os.path.join(ROOT, 'scripts', 'story_register.py'),
+                        os.path.join(fx, 'draft.md'), '--root', fx, '--write',
+                        '--chapter', 'ST-S01.01', '--id', '3'], capture_output=True, text=True)
+    check('live band deferred, refused', r.returncode == 1 and 'LIVE-BAND' in r.stdout, r.stdout + r.stderr)
+    check('no partial write on refusal',
+          not os.path.exists(os.path.join(fx, 'content', 'stories', 'ST003 — A Test Story.md')))
+    # released baton -> free target
+    open(os.path.join(fx, 'docs', 'enrichment', 'batons', 'p1x.json'), 'w').write(
+        json.dumps({'baton': 'p1x', 'agent': 'w', 'clocked_in': now_iso, 'released': True}))
+    r = subprocess.run([sys.executable, os.path.join(ROOT, 'scripts', 'story_register.py'),
+                        os.path.join(fx, 'draft.md'), '--root', fx, '--write',
+                        '--chapter', 'ST-S01.01', '--id', '3'], capture_output=True, text=True)
+    check('released band treated as free', r.returncode == 0, r.stdout + r.stderr)
+    shutil.rmtree(fx)
 
     print(f'{PASS} passed, {FAIL} failed')
     return 1 if FAIL else 0

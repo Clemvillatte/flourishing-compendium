@@ -1,22 +1,25 @@
 #!/usr/bin/env python3
 """Separation guard: check changed paths against the two pipelines.
 
-  python3 scripts/story_guard.py --role storyteller --lane s1a   # checks git diff vs HEAD
+  python3 scripts/story_guard.py --role storyteller --lane s1a   # checks git status vs HEAD
   python3 scripts/story_guard.py --role worker --band p1zo
   python3 scripts/story_guard.py --role supervisor
   echo path1 path2 | python3 scripts/story_guard.py --role storyteller --lane s1a   # explicit paths
 
-Roles and their writable paths (everything else is a violation):
-  storyteller: docs/enrichment/drafts/<lane>/**, docs/enrichment/drafts/<lane>.json,
-               docs/enrichment/batons/<lane>.json, scripts/story_*.py (tests only),
-               plus read-only work anywhere else. Content/** is NEVER writable.
-  worker:      everything the enrichment pipeline allows EXCEPT the stories pipeline
-               (content/stories/**, docs/enrichment/STORIES-TASKBOARD.md,
-               docs/enrichment/PROMPT-STORYTELLER.md, docs/enrichment/PROTOCOL-STORIES.md,
-               docs/enrichment/drafts/s1*/, scripts/story_register.py).
+Roles and writable paths (everything else is a violation):
+  storyteller: DEFAULT-DENY. Only these are writable:
+               docs/enrichment/drafts/<lane>/**, docs/enrichment/drafts/<lane>.json,
+               docs/enrichment/batons/<lane>.json.
+               content/** is never writable; worker state and shared pipeline files are
+               not writable (they are the supervisor's).
+  worker:      enrichment-pipeline paths allowed (own band per OPERATIONS.md), EXCEPT the
+               stories pipeline: content/stories/**, drafts/s1*/, STORIES-TASKBOARD,
+               PROMPT-STORYTELLER, PROTOCOL-STORIES, scripts/story_register.py.
   supervisor:  may integrate stories (content/stories/**, _order.json, structure,
-               STORIES-TASKBOARD, batons) — still never edits lane drafts' content.
-Exit 1 lists violations. Run before every push.
+               STORIES-TASKBOARD, batons, scripts) — still never rewrites a lane draft's
+               narrative content.
+Uses `git status --porcelain` so untracked files are included. Exit 1 lists violations.
+Run before every push.
 """
 import sys, os, re, subprocess, argparse
 
@@ -33,32 +36,41 @@ STORY_PIPELINE = [
 
 
 def changed_paths():
-    r = subprocess.run(['git', 'diff', '--name-only', 'HEAD'], cwd=ROOT, capture_output=True, text=True)
-    return [p for p in r.stdout.split('\n') if p.strip()]
-
-
-def violations(paths, role, lane=None, band=None):
+    r = subprocess.run(['git', 'status', '--porcelain'], cwd=ROOT, capture_output=True, text=True)
     out = []
-    for p in paths:
-        if role == 'storyteller':
-            if re.match(r'^content/', p):
-                out.append(f'{p}: storytellers never write into content/ (integration is supervisor-only)')
-            elif re.match(r'^docs/enrichment/drafts/', p) and not re.match(rf'^docs/enrichment/drafts/{re.escape(lane) if lane else "sX"}[/.]', p):
-                out.append(f'{p}: another lane\'s draft path')
-            elif re.match(r'^docs/enrichment/batons/', p) and lane and not re.match(rf'^docs/enrichment/batons/{re.escape(lane)}\.json$', p):
-                out.append(f'{p}: another baton')
-            elif re.match(r'^docs/enrichment/(batches|bands|queue|progress)', p):
-                out.append(f'{p}: worker state — not storyteller-writable')
-        elif role == 'worker':
+    for line in r.stdout.split('\n'):
+        if not line.strip():
+            continue
+        # XY path — rename lines ("XY old -> new") use the new path
+        p = line[3:].strip().split(' -> ')[-1].strip('"')
+        if p:
+            out.append(p)
+    return out
+
+
+def violations(paths, role, lane=None):
+    out = []
+    lane_re = re.escape(lane) if lane else 'sX'
+    if role == 'storyteller':
+        allow = [
+            rf'^docs/enrichment/drafts/{lane_re}[/.]',
+            rf'^docs/enrichment/batons/{lane_re}\.json$',
+        ]
+        for p in paths:
+            if not any(re.match(a, p) for a in allow):
+                out.append(f'{p}: not a {lane or "lane"}-owned path (storytellers write '
+                           f'only their lane drafts and baton)')
+    elif role == 'worker':
+        for p in paths:
             for rx in STORY_PIPELINE:
                 if re.match(rx, p):
                     out.append(f'{p}: stories pipeline — workers never touch it')
                     break
-        elif role == 'supervisor':
-            pass  # supervisor may integrate; lane draft content still off-limits
-            if re.match(r'^docs/enrichment/drafts/s\d+[a-z]/.*\.md$', p) and re.search(r'\.md$', p):
-                # supervisors may move/record drafts but not rewrite their narrative
-                pass
+    elif role == 'supervisor':
+        for p in paths:
+            m = re.match(r'^docs/enrichment/drafts/(s\d+[a-z])/', p)
+            if m and p.endswith('.md'):
+                out.append(f'{p}: supervisor moves/records drafts but never rewrites their narrative')
     return out
 
 
@@ -70,12 +82,17 @@ def main():
     args = ap.parse_args()
     if args.role == 'storyteller' and not args.lane:
         sys.exit('storyteller role needs --lane')
-    data = sys.stdin.read() if not sys.stdin.isatty() and not sys.stdin.closed else ''
-    paths = [l.strip() for l in data.split('\n') if l.strip()] or changed_paths()
+    if not sys.stdin.isatty():
+        data = sys.stdin.read()
+        paths = [l.strip() for l in data.split('\n') if l.strip()]
+    else:
+        paths = []
+    if not paths:
+        paths = changed_paths()
     if not paths:
         print('ok — no changed paths')
         return 0
-    vs = violations(paths, args.role, args.lane, args.band)
+    vs = violations(paths, args.role, args.lane)
     if vs:
         print(f'SEPARATION VIOLATIONS ({args.role}):')
         for v in vs:

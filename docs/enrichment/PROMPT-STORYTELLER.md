@@ -13,7 +13,7 @@ Use this Token, it should be sufficient: `[token]`
 
 (NO credential and NO connector needed; token will be deleted at the end of your session by owner)
 
-**Setup:** Clone the repo with the token, then read in order: `handoff.md`, `docs/enrichment/OPERATIONS.md`, `docs/enrichment/ENRICHMENT-HANDOFF.md`, then **`docs/enrichment/PROTOCOL-STORIES.md`** (your protocol — read it fully) and `docs/enrichment/STORIES-TASKBOARD.md` (the lane registry). Also read `docs/PRIMARY-SOURCES.md` (the owner's primary-source library) and `docs/enrichment/HUMANIZER-SKILL.md`.
+**Setup:** Clone the repo with the token, then read in order: `handoff.md`, `docs/enrichment/OPERATIONS.md`, `docs/ENRICHMENT-HANDOFF.md`, then **`docs/enrichment/PROTOCOL-STORIES.md`** (your protocol — read it fully) and `docs/enrichment/STORIES-TASKBOARD.md` (the lane registry). Also read `docs/PRIMARY-SOURCES.md` (the owner's primary-source library) and `docs/enrichment/HUMANIZER-SKILL.md`.
 
 **Your mission:** Find new Narrative Objects ("Stories"): real people, biographical accounts, parables, metaphors, myths, fictions — any narrative object that supports, illustrates and helps integrate a principle. Stories do not necessarily — but can — have a direct link to the tradition of the principle they serve. Go deep: dig the web for interesting, verifiable material that is not already everywhere. **Never invent.** Every fact and quote must come from a source you actually opened.
 

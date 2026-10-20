@@ -1,0 +1,31 @@
+{
+ "lane": "s1a",
+ "items": {
+  "s1a-001": {
+   "status": "rejected",
+   "angle": "D080 qiwu: the monkey keeper's three-in-the-morning feeding (Zhuangzi ch. 2)",
+   "history": [
+    {
+     "t": "2026-10-20T12:51:54+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-20T12:52:12+00:00",
+     "to": "rejected",
+     "note": "angle already the principle's in-body emblem (D080 monkey keeper); pivoted to s1a-002"
+    }
+   ]
+  },
+  "s1a-002": {
+   "status": "researching",
+   "angle": "P184 twice-born: Tolstoy's crisis in A Confession (Tolstoy 1882 + James's Varieties Sick Soul)",
+   "history": [
+    {
+     "t": "2026-10-20T12:52:12+00:00",
+     "to": "researching"
+    }
+   ]
+  }
+ },
+ "updated": "2026-10-20T12:52:12+00:00"
+}
