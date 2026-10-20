@@ -94,3 +94,18 @@
   block" wording (that image belongs to other DDJ chapters, not verified in this source,
   therefore not claimed).
 - SYNTHESIS FLAG: "so that what is plain can carry the weight" is the compendium's gloss.
+
+## Learning by experience (2026-10-20, fast-track; degree 12 — eligible)
+
+- VERIFICATION: concept REAL (Dewey, Experience and Education, 1938). Title kept:
+  descriptive label.
+- OPENED: ERIC EJ1122779 https://files.eric.ed.gov/fulltext/EJ1122779.pdf — Dewey (1938,
+  pp. 25-26) passage quoted VERBATIM via raw pdftotext extraction ("all genuine education..."
+  with "mis-educative" hyphenation as in the article).
+- OPENED: Dewey, Experience and Education full text (archive.org scan
+  https://ia601605.us.archive.org/30/items/ExperienceAndEducation/dewey2.pdf) — raw
+  pdftotext confirms the passage BUT the scan has an OCR error ("ah" for "all") and
+  unhyphenated "miseducative"; the ERIC quotation was used as the verbatim authority
+  instead. Continuity/callousness/rut paraphrases grounded in the raw Dewey text.
+- SYNTHESIS FLAG: "the experience must be worked with, not just had" is the compendium's
+  gloss on PP071.
