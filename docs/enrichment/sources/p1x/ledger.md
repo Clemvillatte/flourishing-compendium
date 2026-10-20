@@ -208,3 +208,7 @@ Core prose (body per QC round-1 replacement text, VI.9 blockquote + IV.21 inline
 ## SE064
 - Ryan & Deci (2000), Am Psychol 55(1), 68-78, full text from selfdeterminationtheory.org (opened earlier this session): 9 quotations verified (the long Kasser & Ryan quote contains a page break that defeats automated match; read manually). 
 - Limits: Kasser & Ryan (1993, 1996) and Kasser (2002) themselves not opened; findings are cited via Ryan & Deci. Statement's 'intrinsic motivation predicts well-being' conflates intrinsic motivation (activity) with intrinsic aspirations (goals); body keeps the distinction and says extrinsic motivation can be autonomous. No quote pages given. Example hypothetical.
+
+## SE065
+- Maslow (1943), Psychological Review 50, 370-396, Classics in the History of Psychology (fetched; 5 quotations grep-verified; passage pp. 382-383 from the page markers). Ryff (2014) Psychother Psychosom 83:10-28: abstract only via PubMed eutils (PMC full text blocked), two phrases verified.
+- Limits: Maslow 1968/1970 and Ryff 1989 (inherited citations) not opened. Statement says self-actualization 'is associated with well-being' and 'not selfishness': Maslow 1943 gives only 'ultimately happy'; no opened source addresses selfishness, so body says so. Nietzsche 'become who you are' and Aristotle parallels untouched. Example hypothetical.

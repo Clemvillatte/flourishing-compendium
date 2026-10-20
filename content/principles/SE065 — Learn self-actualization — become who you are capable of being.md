@@ -12,11 +12,21 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 65** — Learn self-actualization: become who you are capable of being
 
-Self-actualization — the full development and expression of one's capacities — is a legitimate human motivation and is associated with well-being. It is not selfishness; it is the full expression of human potential.
+Maslow introduced self-actualization in 1943 as the need that appears "even if all these needs are satisfied", when "a new discontent and restlessness will soon develop, unless the individual is doing what he is fitted for". His examples are concrete: "A musician must make music, an artist must paint, a poet must write, if he is to be ultimately happy. What a man can be, he must be." He defines it as "the desire to become more and more what one is, to become everything that one is capable of becoming" (Maslow, 1943, "A Theory of Human Motivation," Psychological Review 50, 382-383). The form varies by person: "In one individual it may take the form of the desire to be an ideal mother, in another it may be expressed athletically, and in still another it may be expressed in painting pictures or in inventions".
 
-**Plain words** Becoming everything you're capable of isn't selfishness or mysticism — it's a legitimate human project. But it's not a mountaintop: it's the ongoing use of what you've got. Self-actualisation isn't arriving somewhere. It's finally operating at capacity.
+On the well-being link, Maslow's own wording is "ultimately happy" and nothing more. The later empirical line comes from Carol Ryff, whose well-being model addresses "realization of personal talents and capacities" and whose 2014 review finds growing evidence for "health protective features of psychological well-being" (Ryff, 2014, Psychotherapy and Psychosomatics 83, 10-28, abstract). I did not find a passage in these sources that answers the charge of selfishness, so I do not make that claim here.
 
-*For example:* The woman who spent her forties raising kids and running the house, and her fifties training as a nurse — she's not "finding herself," a phrase that trivialises it. She's got thirty years of competence in a drawer and is taking it out. That's not a crisis. That's a launch.
+**Plain words**
+Using what you can do is a real human need and not an extra. It does not end at a peak, because it means practising your capacities in a form that fits you. If something in you keeps nagging for use, take it seriously.
+
+**For example**
+A woman who raised children in her thirties and forties starts nursing training at fifty. The skills she built were never idle, and now she gives them a new job.
+
+## Sources
+
+- [A. H. Maslow, "A Theory of Human Motivation," Psychological Review 50(4), 1943, 370-396, Classics in the History of Psychology](https://psychclassics.yorku.ca/Maslow/motivation.htm): opened; the self-actualization passage is on pp. 382-383
+- [C. D. Ryff, "Psychological well-being revisited: advances in the science and practice of eudaimonia," Psychotherapy and Psychosomatics 83, 2014, 10-28, PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/24281296/): abstract opened; the full text was not accessible to me
+
 ## Psychology parallels
 
 - **[[Self-actualization (Maslow)|Self-actualization (Maslow)]]**, the full use and exploitation of talents, capacities, and potential (Maslow, 1968, 1970)
