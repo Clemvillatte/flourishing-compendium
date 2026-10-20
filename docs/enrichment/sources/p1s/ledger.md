@@ -150,3 +150,22 @@ source; anything not opened is recorded as inherited and unverified.
   the Yerkes-Dodson claim tail trimmed to a bare attribution.
 - Saturation: no new reciprocals; The doctrine of the mean and The middle path
   concepts are already the linked targets.
+
+### B012 — Practice only happens now (2026-10-20)
+- Opened: MN 131 Bhaddekaratta Sutta (Thanissaro, accesstoinsight), Ud 1.10
+  Bahiya Sutta (Thanissaro, accesstoinsight), TNH The Miracle of Mindfulness
+  excerpt (abuddhistlibrary.com, fetched and verified). MN 131 blockquote
+  verified verbatim against the fetched HTML; Bahiya paraphrase anchors
+  ("In reference to the seen, there will be only the seen") verified verbatim;
+  TNH dishes blockquote verified against the fetched excerpt page. The excerpt
+  page is a quotation library, not the book itself — noted as the citable open
+  edition.
+- Seed cited "(Bahiya Sutta, Ud 1.10; Thich Nhat Hanh, The Miracle of
+  Mindfulness.)" — both retained, now actually opened; MN 131 added as the
+  anchor for the past/future lines (the seed asserted them without a
+  source that says them).
+- Inherited parallels (Killingsworth and Gilbert 2010, Nolen-Hoeksema 2000,
+  Augustine, Boethius): unopened; the Killingsworth claim tail ("nearly half
+  of waking life... predicts happiness") trimmed to a bare attribution.
+- Saturation: no new reciprocals; Mind wandering and Rumination already the
+  linked targets.
