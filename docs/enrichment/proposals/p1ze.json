@@ -1,6 +1,6 @@
 {
  "batch": "p1ze",
- "revision": 3,
+ "revision": 4,
  "records": [
   {
    "action": "reciprocal",
@@ -22,6 +22,20 @@
    "link": "BE012",
    "why": "A values-driven life is behaviour organised around chosen values; BE012 states the working step behind that organisation for a single situation: name what matters, then choose an action that would express it.",
    "notes": "Proposed by worker-p1ze-e6d6f5ba during BE012 saturation; target body discusses values and goals."
+  },
+  {
+   "action": "reciprocal",
+   "into": "Behavioral activation",
+   "link": "BE017",
+   "why": "Behavioural activation schedules activities related to goals and values, not only pleasant events; BE017 states the values-first selection rule for what goes on the schedule.",
+   "notes": "Proposed by worker-p1ze-e6d6f5ba during BE017 saturation; grounded in the opened Kanter et al. 2010 review."
+  },
+  {
+   "action": "reciprocal",
+   "into": "Values clarification",
+   "link": "BE017",
+   "why": "Values clarification names the exercise of stating what matters; BE017 is the next step, using the stated values to choose scheduled activities.",
+   "notes": "Proposed by worker-p1ze-e6d6f5ba during BE017 saturation; grounded in the opened Kanter et al. 2010 account of BATD value statements suggesting activation assignments."
   }
  ]
 }

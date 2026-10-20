@@ -12,15 +12,24 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BE — Overt Be
 ---
 > **Principle 17** — Learn to schedule valued activities: meaning-driven behaviour
 
-[[Behavioral activation|Behavioural activation]] is most effective when activities are valued (aligned with personal values) rather than merely pleasant. Valued activities provide both pleasure and meaning.
+[[Behavioral activation|Behavioural activation]] schedules activities for their function, not only their pleasantness. A review of the BA literature makes the point directly:
 
-**Plain words** The best scheduled activities aren't just pleasant — they're yours: aligned with what you value. Value-driven action has a longer half-life than fun-driven action. Schedule meaning, and the mood follows.
+> "An important point is that activity scheduling is not synonymous with pleasant events scheduling but targets a variety of activities in the client's life related to pleasure, mastery, goals and values, problems to be solved, areas of avoidance, and so forth, often determined individually between the client and the therapist." (Kanter et al., 2010)
 
-*For example:* The volunteer shift that's harder than relaxing would be, and somehow leaves you fuller — because it was pointed at something you actually care about.
+The review traces the shift: later versions of BA "tended to move away from focusing on the pleasantness of activities scheduled to other criteria for determining activation targets." In the variant that assesses values explicitly, "the value statement 'I value being a good father' suggests activation assignments such as spending more time with one's children or fixing a child's broken toy." A stated value can function as "a verbal bridge over the immediate aversive consequences to the long-term positive consequences", which is why a values-based activity can outlast a merely pleasant one.
+
+**Plain words** Two kinds of things can go on a schedule: what feels good now, and what you would be glad you did. The second kind is the one that still pays in a month. Name the value first (being a good parent, staying in shape), and the activity list writes itself.
+
+*For example* Imagined: the volunteer shift is harder than an evening on the sofa would be, and somehow leaves you fuller, because it was pointed at something you actually care about.
+
+## Sources
+
+- [Kanter, Manos, Bowe, Baruch, Busch & Rusch, "What is behavioral activation? A review of the empirical literature", Clinical Psychology Review 30: 608-620, 2010 (open PDF)](https://batd.com.ar/wp-content/uploads/2014/08/2010-What-is-behavioral-activation-A-review-of-the-empirical-literature.-Kanter-et-al.pdf) — quotes checked against the opened PDF text
+
 ## Psychology parallels
 
-- **Values-based activation**, valued activities are more effective than merely pleasant ones (Martell et al., 2001; Kanter et al., 2010)
-- **Valued living and well-being**, values-based behaviour predicts well-being (Wilson et al., 2010; Hayes et al., 2011)
+- **Values-based activation**, a minority of BA variants specifically assess client goals and values in order to guide activation assignments (Kanter et al., 2010)
+- **Valued living and well-being** (Wilson et al., 2010; Hayes et al., 2011)
 
 ## Philosophy parallels
 
@@ -30,4 +39,4 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BE — Overt Be
 
 ## Practice
 
-- Schedule valued activities: identify what matters to you (connection, growth, contribution, health) and schedule behaviours that serve those values. Do not only schedule pleasures; schedule meaning.
+- Identify what matters to you (connection, growth, contribution, health) and schedule behaviours that serve those values.
