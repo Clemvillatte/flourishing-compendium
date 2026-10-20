@@ -14,14 +14,14 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 
 Spinoza defines the affect at the end of Part III: self-approval "is pleasure arising from a man's contemplation of himself and his own power of action", and the feeling "is renewed as often as a man contemplates his own virtues, or his own power of activity". Part IV adds the value claim: "Self-approval may arise from reason, and that which arises from reason is the highest possible", and its note calls it "in reality the highest object for which we can hope".
 
-The counterfeit in the definitions is pride, and its mark there is not the modern comparative reading: "Pride is thinking too highly of one's self from self-love". The note to IV.52 records the social dependence of the genuine article: this approval "is more and more fostered and strengthened by praise... and on the contrary is more and more disturbed by blame".
+In the note to IV.52, Spinoza says that praise strengthens self-approval and blame disturbs it.
 
-As a compendium exercise, keep a record of capacities exercised rather than compliments received, since the opened passages make the feeling itself arise from contemplating your own power of activity.
+As a compendium exercise, keep a record of capacities exercised rather than compliments received.
 
 > "Self-approval is pleasure arising from a man's contemplation of himself and his own power of action." (Ethics III, Definition of the Emotions XXV, Elwes)
 
 **Plain words**
-The good feeling about yourself that lasts is the one that comes from watching what you can actually do; it renews each time you look at your own capabilities. Praise and blame push it around, so a private record of what you did is steadier evidence than an audience's reaction.
+When you assess yourself, what are you looking at: your actions, or other people's reactions? For this exercise, choose one action and describe what you were able to do. Keep that description separate from any praise you received.
 
 **For example**
 In an imagined application, someone keeps a weekly note of one difficult thing they completed and what capability it used, and reads it before asking whether they are doing well.

@@ -12,17 +12,17 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 87** — Accept that blessedness is virtue itself, not its reward
 
-Ethics V.42 states the identity and the direction of dependence: blessedness is not the reward of virtue but virtue itself, and the power over the lusts arises from the blessedness, not the other way round. The proof runs through proportion: the more the mind rejoices in this divine love, the more it understands; and the more it understands, the more power it has over the emotions. The last proposition of the Ethics therefore removes the after: there is no prize following the good life, because the good life is itself the thing. The closing note adds the wise man's steadiness — scarcely at all disturbed in spirit, never ceasing to be — and the work's last line: "all things excellent are as difficult as they are rare."
+Ethics V.42 states the identity and the direction of dependence: blessedness is not the reward of virtue but virtue itself, and the power over the lusts arises from the blessedness, not the other way round. The proof runs through proportion: the more the mind rejoices in this divine love, the more it understands; and the more it understands, the more power it has over the emotions.
 
-As a compendium exercise, run the accounts in the present tense: ask whether this way of being already pays, today, in strength and capacity, not whether it will pay later.
+As a compendium exercise, consider something you valued understanding for its own sake.
 
 > "Blessedness is not the reward of virtue, but virtue itself; neither do we rejoice therein, because we control our lusts, but, contrariwise, because we rejoice therein, we are able to control our lusts." (Ethics V.42, Elwes)
 
 **Plain words**
-Notice the direction of the sentence. You do not first control yourself and then receive blessedness as payment; the blessed condition is what makes the control possible. The reward is not deferred to the end — it is present in the activity itself. Asking when this pays off misreads it: the payoff and the practice are the same thing.
+Spinoza identifies blessedness with virtue, rather than treating it as a separate payment. He then makes a further claim: enjoying blessedness enables control of desire. His proof connects this with divine love and understanding.
 
 **For example**
-In an imagined application, someone reviews a good year and asks where the reward was: the clarity, the strength, the company. The year itself was it, with nothing outstanding.
+In an imagined application, a reader writes down what was worth understanding about a conflict even if that understanding brought no praise or advantage.
 
 ## Sources
 

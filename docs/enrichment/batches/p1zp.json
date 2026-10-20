@@ -18,10 +18,15 @@
   "SP045": "Reopened for QC: milestone QC round 1: scope repairs",
   "SP050": "Reopened for QC: milestone QC round 1",
   "SP051": "Reopened for QC: milestone QC round 1",
-  "SP054": "Reopened for QC: milestone QC round 1"
+  "SP054": "Reopened for QC: milestone QC round 1",
+  "SP055": "Reopened for QC: milestone QC round 2: scope repairs",
+  "SP060": "Reopened for QC: milestone QC round 2: scope repairs",
+  "SP067": "Reopened for QC: milestone QC round 2: scope repairs",
+  "SP072": "Reopened for QC: milestone QC round 2: scope repairs",
+  "SP087": "Reopened for QC: milestone QC round 2: scope repairs"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:25:50+00:00",
+ "updated": "2026-10-20T11:29:59+00:00",
  "band_done": false
 }
