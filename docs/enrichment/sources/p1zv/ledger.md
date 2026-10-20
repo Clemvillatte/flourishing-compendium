@@ -154,3 +154,19 @@ Band: p1zv (Stoic principles S039–S126, ranks 1172–1201). Worker: worker-p1z
 **Proposals:** 1 reciprocal — Passions as judgments.
 
 **Note:** the phrase "inner citadel" as a term is associated with Pierre Hadot's study of Marcus; the page attributes only the citadel image to Marcus, quoting VIII.48 directly, and makes no claim about the phrase's origin.
+
+## S066 — Be gentle with yourself in the review (Principle 188)
+
+**Sources opened and raw-verified:**
+1. Marcus Aurelius, Meditations, Book V, section 9, George Long translation, Project Gutenberg #15877 (raw text in qc/med-long.txt; book position and section marker checked directly).
+   - "Be not disgusted ... or drenching with water." (V.9) — FULL MATCH; complete sentence ending at the period before "For thus thou wilt not fail..." (that following sentence contains a "+" printer's artifact in the raw text and was not quoted).
+2. Seneca, On Anger (De Ira), Book III, section 36, Aubrey Stewart translation (1900), Project Gutenberg #64576 (raw text in qc/seneca-minor-dialogs.txt).
+   - "I pass the whole day in review before myself ... see that you never do that any more?" — FULL MATCH; the raw text contains a printed page marker "{155}" after "conceal nothing", stripped per the disclosed convention; the sentence is quoted through the inner quotation's question mark without adding terminal punctuation (the source continues "In that dispute you spoke too contentiously...").
+
+**Validator:** ok on first run (warn "fewer than 3 Related-concepts lines" — the seed's single-line Related concepts section is preserved as-is).
+
+**Saturation:** Self-forgiveness, Proper self-love and Unconditional positive regard concept pages already cite S066; Self-compassion and The evening review (both read) do not.
+
+**Proposals:** 2 reciprocals — Self-compassion, The evening review.
+
+**Note:** Seneca's III.36 nightly audit was added as a source beyond the seed's citation line (the seed cites only Marcus and Discourses; the passage is the canonical description of the review's temper, and it directly supports "honest but not harsh").
