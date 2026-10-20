@@ -143,3 +143,24 @@ opened text at the recorded URL.
   snippet, not re-verified on the page fetch). Inherited psychology parallel
   (Damon; Steger 2012) and philosophy parallels (Kierkegaard knight of faith)
   preserved untouched and NOT verified this session.
+
+## B187 — Walk in peace (2026-10-20)
+
+- OPENED: "Walking Meditation", poem by Thich Nhat Hanh, Plum Village,
+  https://plumvillage.org/articles/walking-meditation-a-poem-by-thich-nhat-hanh
+  (attribution on page: from Call me by My True Names, Parallax Press, 2005).
+- OPENED: "The Art of Mindful Living", Plum Village,
+  https://plumvillage.org/mindfulness/mindfulness-practice — walking
+  meditation teaching text.
+- Verified verbatim (poem): "Then we learn / that there is no peace walk; /
+  that peace is the walk; / that there is no happiness walk; / that happiness
+  is the walk."
+- Verified verbatim (teaching): "Walking in meditation means to walk in such a
+  way that we know we are walking. We walk leisurely, enjoying every step. We
+  become aware of the contact of our feet with the ground, and the flow of our
+  breathing." (quote stops before the source's em-dash sentence)
+- LIMITS: the seed cited "Peace Is Every Step" as locator; the opened sources
+  are the Plum Village poem and teaching pages, so the locator was updated to
+  what is actually quoted. Inherited psychology parallel (Oppezzo and Schwartz
+  2014) and philosophy parallels (Thoreau; Kierkegaard) preserved untouched
+  and NOT verified this session.
