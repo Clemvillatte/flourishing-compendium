@@ -40,6 +40,13 @@
   lines added one-way without proposals (no obviously missing reciprocal;
   Rumination's clause describes rumination itself, not an equation with all
   depressogenic thinking).
+- QC round 2 repairs: MO066 clause replaced with the principle's own subject
+  (anhedonia, fatigue, reduced motivation); P037 clause replaced with Dewey's
+  test of ideas; the Rumination Related line REMOVED (the opened review does
+  not define rumination; per advisor guidance no material added merely to
+  avoid the <3 Related-lines warning); the Huang et al. date inconsistency
+  (1998 in text vs 1988 citation) and the "maybe" typo both flagged on the
+  page rather than silently corrected.
 - QC round 1 repairs: seed-line tail "deepening episodes over time" removed
   (unsupported); the categorical "an episode... leaves behind patterns"
   opening replaced with the source-bound formulation; blockquote swapped to

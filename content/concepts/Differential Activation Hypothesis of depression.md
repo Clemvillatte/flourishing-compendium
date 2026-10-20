@@ -11,7 +11,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY
 
 The Differential Activation Hypothesis is John Teasdale's account of why depression returns. The hypothesis proposes that, among people with previous depressive relapses, small negative mood shifts may reactivate depressive thinking and increase vulnerability to recurrence. A review of the treatment the hypothesis inspired describes the model: "for those who have previously experienced relapses, small negative mood shifts may produce recurrence, because they can activate patterns of depressive thinking that are similar to the thoughts experienced in previous depressive episodes" (MacKenzie and Kocovski, [Mindfulness-based cognitive therapy for depression, section "Mindfulness-based cognitive therapy"](https://pmc.ncbi.nlm.nih.gov/articles/PMC4876939/), 2016).
 
-> "As stated by Teasdale's (1998) differential activation hypothesis (DAH), negative cognitions that remain latent in some individuals, even when depressive symptoms are in remission, maybe reactivated by life events, stress, or negative mood states (Teasdale 1988)." (Huang et al., [Cognitive reactivity among high-risk individuals at the first and recurrent episode of depression, BACKGROUND section](https://pmc.ncbi.nlm.nih.gov/articles/PMC7855259/), 2020; "maybe" as printed)
+> "As stated by Teasdale's (1998) differential activation hypothesis (DAH), negative cognitions that remain latent in some individuals, even when depressive symptoms are in remission, maybe reactivated by life events, stress, or negative mood states (Teasdale 1988)." (Huang et al., [Cognitive reactivity among high-risk individuals at the first and recurrent episode of depression, BACKGROUND section](https://pmc.ncbi.nlm.nih.gov/articles/PMC7855259/), 2020; the source prints "maybe" where "may be" is meant, and dates the hypothesis 1998 while citing Teasdale 1988 - both left as printed)
 
 ### Why the hypothesis matters
 
@@ -27,10 +27,10 @@ Cognition · Psychological science
 - [[AF036 — Learn to regulate through action — affect follows behaviour]] — acting by plan when mood says wait
 - [[BE032 — Learn approach behaviours for depression — engage, do not withdraw]] — countering avoidance and withdrawal
 - [[BE019 — Learn to schedule pleasurable activities — enjoyment-driven behaviour]] — the mood-activity association the schedule works through
-- [[MO066 — Recognise depression's effect on motivation — anhedonia and fatigue]] — the symptom pattern the thinking arrives with
+- [[MO066 — Recognise depression's effect on motivation — anhedonia and fatigue]] — anhedonia, fatigue and reduced motivation as symptoms of depression
 - [[MO072 — Recognise clinical motivational symptoms — when motivation problems require evaluation]] — when low motivation needs clinical attention
 - [[P181 — Regulate feeling by regulating expression]] — James's indirect route to feeling
-- [[P037 — Live experimentally]] — testing the pattern against arranged consequences
+- [[P037 — Live experimentally]] — Dewey's test of ideas by the consequences of action
 - [[V1K-S01 — PART I — SCIENCE-BACKED KERNELS]] — the layer this hypothesis sits in
 
 ## Cited in philosophy parallels
@@ -39,8 +39,6 @@ Cognition · Psychological science
 ## Related concepts
 
 - [[Avoidance versus attentional engagement]] — listed for comparison
-
-- [[Rumination]] — repetitive negative thinking in response to low mood
 
 - [[Mindfulness]] — the capacity MBCT trains to disengage from that thinking
 
