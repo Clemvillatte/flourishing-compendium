@@ -225,7 +225,17 @@
      "note": "Checker green; independent milestone review requested"
     }
    ]
+  },
+  "s1a-011": {
+   "status": "researching",
+   "angle": "P136: Addams and the Devil Baby; an unsettling failed bedside visit changes how she understands old women and their stories",
+   "history": [
+    {
+     "t": "2026-10-20T13:52:37+00:00",
+     "to": "researching"
+    }
+   ]
   }
  },
- "updated": "2026-10-20T13:51:40+00:00"
+ "updated": "2026-10-20T13:52:37+00:00"
 }
