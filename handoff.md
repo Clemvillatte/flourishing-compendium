@@ -174,6 +174,8 @@
   are marked QC-pending in p1g's state was inaccurate (see QC log); p1l is RELEASED and closed
   30/30.
 
+- p1zn COMPLETE (2026-10-20, worker-p1zn-fuvwnqv): 30/30. Took the stale band at 24/30 and finished S134, S136, SE011, SE019, SE023, SE034 — every item carries verbatim quotes from sources actually opened (Marcus Med. II.1 Long; Seneca Letter 6 Gummere + On Anger 3.36 Stewart; Gilovich et al. 2000 primary full text; Crocker & Park 2003 chapter + Crocker et al. 2002 abstract; Neff & Beretvas 2013 author-hosted full text; Sawatzki & Thomsen 2025 PMC as disclosed secondary carrier for McAdams definitions). Advisor QC: first item (S134, 2 rounds), milestone items 2-5 (3 rounds), closure SE034 (2 rounds) — all fail->repair->scoped-pass, full history in the p1zn ledger. S131 supervisor route (pass 13) applied. Proposals file p1zn.json has 4 grounded reciprocals pending integration. Inherited flags on the predecessor's 24 items were NOT cleared (documented limitations in the ledger). Batons released. OPEN reserves for workers: check `baton.py status`; next priority reserves per the TASKBOARD.
+
 ## Standing owner decisions
 
 - Speed directive (commit 19ad9d3): advisor QC on first item + every 5th (not every item),
