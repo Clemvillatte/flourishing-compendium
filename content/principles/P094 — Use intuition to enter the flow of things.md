@@ -16,22 +16,20 @@ Bergson opens the essay by distinguishing two ways of knowing a thing: "The firs
 
 > "By intuition is meant the kind of intellectual sympathy by which one places oneself within an object in order to coincide with what is unique in it and consequently inexpressible. Analysis, on the contrary, is the operation which reduces the object to elements already known, that is, to elements common both to it and other objects." (Bergson, An Introduction to Metaphysics, trans. T. E. Hulme, [text](https://reasoned.org/dir/lit/int-meta.pdf))
 
-The two are complements rather than rivals, because on Bergson's account intuition is fed by analysis and cannot replace it:
+Bergson also insists that intuition requires extensive preparatory knowledge:
 
-> "For we do not obtain an intuition from reality - that is, an intellectual sympathy with the most intimate part of it - unless we have won its confidence by a long fellowship with its superficial manifestations." (Bergson, An Introduction to Metaphysics, trans. T. E. Hulme, [text](https://reasoned.org/dir/lit/int-meta.pdf))
+> "For we do not obtain an intuition from reality - that is, an intellectual sympathy with the most intimate part of it - unless we have won its confidence by a long fellowship with its superficial manifestations." (Bergson, An Introduction to Metaphysics, trans. T. E. Hulme, conclusion, [Hulme translation](https://reasoned.org/dir/lit/int-meta.pdf))
 
-His closing image is a novelist with all the notes made who still cannot begin: "something more is needed in order to set about the work of composition itself, and that is an often very painful effort to place ourselves directly at the heart of the subject, and to seek as deeply as possible an impulse, after which we need only let ourselves go." That is the moment this principle names: analysis has gathered the material and stalled; the entry into the thing itself is a separate act.
-
-The compendium's exercise: when study has stopped producing movement, stop adding notes. Spend one session inside the thing, following its movement, and see what the notes look like from there.
+His concluding example is literary composition: anyone who has attempted it knows that when the subject has been studied at length, the materials all collected, and the notes all made, "something more is needed in order to set about the work of composition itself, and that is an often very painful effort to place ourselves directly at the heart of the subject, and to seek as deeply as possible an impulse, after which we need only let ourselves go." The compendium's proposed application: when analysis has gathered the material and the work has stalled, the entry into the thing itself is a separate act.
 
 **Plain words**
-Analysis walks around a thing taking notes; intuition steps inside and follows its movement. The notes are how you earn the inside view. When the material is all collected and still nothing starts, place yourself at the heart of the subject and follow the first impulse you find there.
+Analysis fixes a thing long enough to label its parts. Intuition follows the thing while it changes. The move is hard, as Bergson warns: the mind has to reverse its habitual direction and recast its categories. That is why the attempt comes after the preparation, not instead of it.
 
-*For example:* A jazz student can transcribe a year of solos, or play badly in the room every week for a year. Transcription moves round the music; playing in the room enters into it.
+*For example:* Imagine a writer with the research done and the notes made, the composition still not started. The attempt Bergson describes is the effort to place themselves directly at the heart of the subject and seek, as deeply as possible, the impulse that will guide the composition.
 
 ## Sources
 
-- [An Introduction to Metaphysics, Henri Bergson, trans. T. E. Hulme (Putnam, 1912)](https://reasoned.org/dir/lit/int-meta.pdf) — opening contrast of the two ways of knowing; the definition of intuition; the closing novelist passage
+- [An Introduction to Metaphysics, Henri Bergson, T. E. Hulme translation](https://reasoned.org/dir/lit/int-meta.pdf) — essay opening (two ways of knowing; definition of intuition) and conclusion (preparatory knowledge; literary composition)
 
 ## Psychology parallels
 
