@@ -23,3 +23,14 @@
   entries described by their titles, not newly certified physiology).
 - Limits: inherited seed citations (Lehrer & Gevirtz 2014; Thayer et al. 2012)
   NOT opened, kept as-is in Sources; no claims rest on them.
+
+## QC disposition round 3 (2026-10-20)
+Milestone round FAIL; repairs applied and re-validated: "opposite directions on
+the same organs" removed (unsupported by the opened excerpt); opening rewritten
+to the advisor's source-bounded version (sympathetic/parasympathetic/enteric
+divisions + effect descriptions); "slows" replaced by "regulation of heart
+rate"; B094 and Parasympathetic-activation clauses reduced to title-descriptive
+wording; enteric-division sentence kept (grounded). Section-heading locator could
+not be added: two re-verification attempts of the StatPearls page hit a
+reCAPTCHA bot wall; the blockquote stands on the original extraction, locator is
+the article itself (no invented heading).

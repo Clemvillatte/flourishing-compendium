@@ -25,3 +25,17 @@
   seed citations, kept as-is in Sources); the 24/6 structure is stated without a
   per-strength enumeration; no efficacy claim beyond the opened 2005 findings
   (which the page reports as the study's own results).
+
+## QC disposition round 3 (2026-10-20)
+Milestone round FAIL; repairs applied and re-validated: descriptive/prescriptive
+and 24-strengths/six-virtue-category structure now grounded in the OPENED VIA
+page (viacharacter.org/character-strengths-and-virtues: "Each of these 24
+character strengths is thoroughly reviewed..."; "Character Strengths and Virtues
+is descriptive, not prescriptive."; the framework sentence listing wisdom,
+courage, humanity & justice, temperance, transcendence); "top five called
+signature strengths" replaced with the study-specific statement (feedback on
+five highest-ranked strengths, "which the researchers called their signature
+strengths"); the instruction sentence now quoted verbatim ("They were then
+asked..."); the PDF labelled final-revision manuscript (April 2005) and the
+published details verified against the opened PubMed record 16045394 (Am
+Psychol 60(5):410-421). Both VIA page and PubMed record added to Sources.

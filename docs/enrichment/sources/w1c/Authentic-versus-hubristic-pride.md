@@ -28,3 +28,17 @@
 - Limits: Tracy & Robins 2007 (JPSP 92(3):506-525) NOT opened (inherited seed
   citation, kept in Sources lines as-is); scispace PDF is the publisher-typeset
   article, treated as the opened record for the 2009 paper.
+
+## QC disposition round 3 (2026-10-20)
+Milestone round FAIL with narrow repairs; ALL APPLIED and re-validated: A025 clause
+re-grounded in its own body (Aristotle's greatness of soul — the principle's text
+names Aristotle; "Stoic" was my error); P104 clause reduced to a title-descriptive
+clause (validator forbids removing the committed link); "What produces it"
+headings renamed "Attributions and associations"; narcissism clause scoped to
+"Tracy and colleagues associate..."; both proposal why clauses reworded per the
+advisor. VALIDATION RECORD CORRECTION: the two granular pages have no
+pre-creation baseline (new files); they pass structural checks after their
+creation commit, reported separately here. Their fast-track eligibility needs a
+supervisor disposition (§1a requires manifest membership; the granulars are
+new, not in any manifest). Quotes verified in two independent extractions of the
+opened scispace PDF; two re-verification attempts hit crawler errors (recorded).

@@ -19,3 +19,15 @@
 - Body paraphrases reworded away from source wording; the "practice vs feeling"
   framing is grounded in R069's own title (the compendium's use), attributed as
   the compendium's use, not as Tronto's phrase.
+
+## QC disposition round 3 (2026-10-20)
+Milestone round FAIL; repairs applied and re-validated: the activity-vs-feeling
+reading re-attributed as the compendium's reading (R069's use), not as Tronto's
+phrase; "In Moral Boundaries, with Berenice Fisher" replaced by "Laurin and
+Martin reproduce the Fisher-Tronto definition from Moral Boundaries with its
+p. 103 locator" (no joint-authorship implication); the "noticed, taken up,
+actually met and received" gloss deleted (the four phase names do not
+establish need-met); P182 and Cosmopolitan-care clauses reduced to
+title-descriptive clauses (validator forbids removing committed links); the
+phases/elements sentence now follows the source's own wording structure with
+attribution. Quotes re-verified verbatim in a fresh unprompted extraction.

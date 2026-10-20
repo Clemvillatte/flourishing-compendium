@@ -24,3 +24,15 @@
 - Limits: McCracken 1998 and Vowles et al. 2014 NOT opened (inherited seed
   citations, kept as-is in Sources); CPAQ subscale details deliberately omitted
   (not verified in an opened source).
+
+## QC disposition round 3 (2026-10-20)
+Milestone round FAIL; repairs applied and re-validated: the "two moves are one
+move" aphoristic closer deleted; the McCracken-origin history claim, the
+"chronic-pain branch of the acceptance approach" framing and the
+effort-reallocation mechanism removed; the opening no longer paraphrases the
+quoted definition (construct-identification sentence instead); the predictive
+claim re-attributed per the advisor ("Cook and colleagues summarize earlier
+research reporting that pain acceptance predicts adjustment and functioning
+beyond the influences of other common predictors, including pain severity, over
+both the short and long term"). Quotes re-verified verbatim in a fresh
+extraction.
