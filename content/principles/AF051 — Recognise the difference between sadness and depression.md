@@ -12,15 +12,31 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 51** — Recognise the difference between sadness and depression
 
-Sadness is a normal, proportional response to loss, disappointment, or pain. Depression is a distinct clinical state involving persistent low mood, anhedonia, and functional impairment. Sadness passes; depression tends to persist and requires treatment. Conflating them leads to either over-pathologising normal grief or under-treating clinical depression.
+The American Psychiatric Association states the line plainly: "It is normal to experience moments of sadness or feeling 'down in the dumps' or the blues as part of the human experience." Depression is diagnosed when symptoms last for most of the day, nearly every day, for more than two weeks, "along with a clear change in day-to-day functioning" ([APA, What Is Depression?](https://www.psychiatry.org/patients-families/depression/what-is-depression)).
 
-**Plain words** Sadness is a normal, proportional response to loss — it passes and it functions. Depression is a distinct clinical state: persistent low mood, anhedonia, functional impairment. Learn the difference: sadness responds to time and care; depression responds to treatment.
+Grief shows why the distinction matters. The APA lists differences: in grief "painful feelings come in waves, often intermixed with positive memories", and "self-esteem is usually maintained", whereas in major depression "feelings of worthlessness and self-loathing are common". It also says grief and depression can occur together.
 
-*For example:* The grief after the loss that slowly changes shape over months — versus the flatness that doesn't move, the joy that never returns to anything, the functioning that keeps degrading. The first is weather; the second is a medical condition wearing weather's costume.
+> But being sad is not the same as having depression.
+>
+> American Psychiatric Association, What Is Depression? (2024)
+
+Treatment is the practical consequence: "Fortunately, depression is very treatable."
+
+(APA, 2024.)
+
+**Plain words** Low mood comes in sizes. Sadness after a loss or setback fits what happened and has ups and downs. Depression is a longer-lasting pattern that affects sleep, energy, interest and daily functioning, and it has treatments that work. The hard part from the inside is that the two can feel the same on a given day. Duration and effect on daily life are the clearer signs, and a clinician makes the diagnosis.
+
+For example (imagined): two months after a breakup, one person has bad days and good days and still meets friends. Another has felt flat nearly every day, has lost interest in everything and is missing work. The second pattern is a reason to see a doctor or psychologist, and anyone with thoughts of ending their life should seek help immediately.
+
+## Sources
+
+- American Psychiatric Association, [What Is Depression?](https://www.psychiatry.org/patients-families/depression/what-is-depression) (physician review April 2024)
+- Nolen-Hoeksema (2000), "The role of rumination in depressive disorders and mixed anxiety/depressive symptoms", J Abnorm Psychol 109(3):504-511, abstract: [PubMed 11016119](https://pubmed.ncbi.nlm.nih.gov/11016119/)
+
 ## Psychology parallels
 
-- **Sadness and depression differ in duration, pervasiveness, and functional impairment**, depression involves anhedonia, changes in sleep and appetite, and persistent low mood (APA, 2022)
-- **Rumination converts sadness into depression**, repeatedly returning to the causes and consequences of sadness predicts onset of depressive episodes (Nolen-Hoeksema, 2000)
+- **Sadness and depression differ in duration, pervasiveness, and functional impairment**, depression involves anhedonia, changes in sleep and appetite, and persistent low mood (APA, What Is Depression?, 2024)
+- **Rumination predicts depressive episodes**, a ruminative response style predicted depressive disorders, including new onsets of depressive episodes (Nolen-Hoeksema, 2000)
 
 ## Philosophy parallels
 

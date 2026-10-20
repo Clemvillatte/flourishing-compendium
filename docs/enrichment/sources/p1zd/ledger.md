@@ -78,3 +78,8 @@ PROTOCOL-PRINCIPLES items 6-7.
 - Verbatim: "every emotion comes with an action urge"; the "does not intend to suppress an emotion" sentence; "thought to lead to reductions in its intensity, though this has not been empirically-tested".
 - Supported: lab study, N = 16 with BPD, larger drops for sadness and guilt/shame, not anxiety or anger; authors call for replication.
 - Corrected: old body said "one of the most effective brief interventions" (unsupported) and parallel bullet said it "works for anger, sadness, anxiety, shame, and guilt" (contradicted in the opened study). Removed the example's unsupported "thins by the third week". Rizvi & Linehan 2005 and Linehan 1993 manual not opened; bullets reworded so they do not rely on them.
+
+## AF051 — Recognise the difference between sadness and depression
+- Sources opened: APA "What Is Depression?" https://www.psychiatry.org/patients-families/depression/what-is-depression (physician review April 2024); Nolen-Hoeksema 2000, J Abnorm Psychol 109(3):504-511, abstract via Europe PMC (PMID 11016119).
+- Verbatim: "It is normal to experience moments of sadness or feeling 'down in the dumps' or the blues as part of the human experience."; "along with a clear change in day-to-day functioning"; "But being sad is not the same as having depression."; grief-vs-depression bullets; "Fortunately, depression is very treatable."
+- Removed: "sadness responds to time and care; depression responds to treatment" and "requires treatment" (not in source). Rumination bullet reworded from causal "converts" to "predicts" (abstract: predicted depressive disorders, including new onsets). Parallels cite "APA, 2022" (DSM-5-TR) was unopened; bullet re-pointed to the 2024 APA page I opened. Added a safety line in the example.
