@@ -9,15 +9,16 @@
   "B063",
   "B073",
   "B075",
-  "B076"
+  "B076",
+  "B079"
  ],
- "in_progress": "B064",
+ "in_progress": null,
  "flagged": {
   "B062": "Reopened for QC: QC round 2: spelling/attribution/extension-labelling repairs",
   "B064": "Reopened for QC: cross-band error: B064 is in p1s's manifest, not p1p's; my edit is live on origin; supervisor notified, content left for supervisor disposition per incident precedent"
  },
  "missing_concepts": [],
- "sources_checked": 14,
- "updated": "2026-10-20T01:39:46+00:00",
+ "sources_checked": 15,
+ "updated": "2026-10-20T01:40:35+00:00",
  "band_done": false
 }

@@ -196,3 +196,18 @@ priority, then B items in manifest order (manifest lists bare IDs; no titles).
   place per the p1m incident precedent (content kept, supervisor disposition
   pending). p1p state reopened for B064; it does NOT count toward p1p's 30 items.
   Supervisor notified via TASKBOARD worker note.
+
+## B079 — Meet sensory desire with awareness (hindrance 1)
+
+- Light-check per skip-ahead rule: the page was already enriched by the (dead) p1m
+  worker in the 2026-10-20 cross-band incident; the incident log requires the owning
+  band to re-verify quotes in those files.
+- Opened: https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html (MN 10
+  Satipatthana Sutta, Thanissaro translation) — hindrances section.
+- Quote re-verification: PASS — "He discerns how there is the arising of unarisen
+  sensual desire." matches the opened text verbatim; the body's presence/absence,
+  arising/abandonment/prevention framing and the "does not say watching automatically
+  weakens it" scope note are consistent with the opened passage. No edits needed.
+- The scoped psychology parallels (Field and Cox 2008; Elwafi et al. 2013; Jackson et
+  al. 2022) were added by the p1m worker with abstract links; not re-opened this
+  session, treated as flagged inherited parallels.
