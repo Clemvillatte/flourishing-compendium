@@ -1,6 +1,6 @@
 {
  "batch": "p1zk",
- "revision": 17,
+ "revision": 18,
  "reciprocal": [
   {
    "into": "Sleep deprivation",
@@ -109,6 +109,12 @@
    "link": "BI033",
    "why": "the trial-backed diet-and-mood evidence sits with the food-as-medicine concept",
    "notes": "Evidence in sources/p1zk/BI033.md (SMILES, Firth, Li, all opened; same evidence as BE042). Concept already cites BI033."
+  },
+  {
+   "into": "Microbiome theory",
+   "link": "BI034",
+   "why": "the fermented-foods trial and plant-diversity finding are the diet side of microbiome theory",
+   "notes": "Evidence in sources/p1zk/BI034.md (Stanford/Wastyk 2021, McDonald 2018, Cryan 2019, all opened). Concept already cites BI034."
   }
  ],
  "inline": []
