@@ -16,9 +16,17 @@ To understand another, enter their private world and look out through their eyes
 
 (Rogers, On Becoming a Person, 1961; Addams's sympathetic understanding.)
 
-**Plain words** It's not feeling sorry; it's a research trip with a return ticket. Empathy is a skill of inquiry, not a mood — enter the other's private world, look out through their eyes, and check what you see.
+Carl Rogers spent a 1975 article on what he called an unappreciated way of being. He describes the empathic way of being as having several facets, and the first is a move into the other person's world ([Rogers, "Empathic: An Unappreciated Way of Being," 1975](https://clinica.ispa.pt/sites/default/files/83._carl_rogers_empathic.pdf)):
 
-*For example:* 'So the party feels like a test you keep failing — is that it?' The friend's face changes: seen. That's empathy as inquiry — a hypothesis about their world, checked with them, not announced at them.
+> It means entering the private perceptual world of the other and becoming thoroughly at home in it. It involves being sensitive, moment to moment, to the changing felt meanings which flow in this other person, to the fear or rage or tenderness or confusion or whatever, that he/she is experiencing. It means temporarily living in his/her life, moving about in it delicately without making judgments ...
+
+(Abridged; the passage continues.)
+
+Two further facets turn this into a skill a listener can practise. Rogers writes that empathy "means frequently checking with him/her as to the accuracy of your sensings, and being guided by the responses you receive," and that it "means that for the time being you lay aside the views and values you hold for yourself in order to enter another's world without prejudice." Checking and laying aside are actions the listener performs, hour by hour, inside a conversation. Rogers calls the whole way of being "a complex demanding, strong yet subtle and gentle way of being."
+
+**Plain words** Listening with empathic understanding is something you do together with the other person: describe their situation as they experience it, then ask whether you have it right and let their answer correct you.
+
+*For example:* A friend says the family holiday got cancelled again. You say: "So the one weekend everyone counts on fell through." Then you ask whether that is how it feels. The question is where the skill shows up.
 
 ## Psychology parallels
 
