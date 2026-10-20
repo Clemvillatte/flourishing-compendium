@@ -11,19 +11,22 @@
   "Mindfulness",
   "Humility",
   "Parasympathetic activation",
+  "Self-as-context",
   "Impermanence",
   "Deliberate practice",
-  "Right speech",
-  "Self-as-context"
+  "Right speech"
  ],
  "in_progress": null,
  "flagged": {
   "Attention": "QC corrections applied 2026-10-19 (gorilla wording narrowed, Weil context added, contemplative bridge marked as comparison, clauses fixed, duplicate list removed)",
   "Care": "QC corrections applied 2026-10-19 (Noddings sourcing fixed, Heidegger ontological/ethical distinction added, seed-line sentence removed, limit question added)",
-  "Parasympathetic activation": "Reopened for QC: advisor QC round 1: evidence scope corrections required"
+  "Parasympathetic activation": "Reopened for QC: advisor QC round 1: evidence scope corrections required",
+  "Impermanence": "Reopened for QC: milestone QC corrections applied and approved; revalidating",
+  "Deliberate practice": "Reopened for QC: milestone QC corrections applied and approved; revalidating",
+  "Right speech": "Reopened for QC: milestone QC corrections applied and approved; revalidating"
  },
  "missing_concepts": [],
  "sources_checked": 8,
- "updated": "2026-10-20T04:57:49+00:00",
+ "updated": "2026-10-20T04:57:55+00:00",
  "band_done": false
 }
