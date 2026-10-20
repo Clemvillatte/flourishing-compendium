@@ -16,13 +16,13 @@ Daodejing 81 gives the arithmetic of giving:
 
 > "The sage does not accumulate (for himself). The more that he expends for others, the more does he possess of his own; the more that he gives to others, the more does he have himself." (DDJ 81, Legge trans., [Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 
-The chapter closes with the two lines that frame the whole book's picture of how power works: "With all the sharpness of the Way of Heaven, it injures not; with all the doing in the way of the sage he does not strive."
+The chapter also closes with a line about how the sage's activity is described: "With all the sharpness of the Way of Heaven, it injures not; with all the doing in the way of the sage he does not strive."
 
 (DDJ 81.)
 
-**Plain words** The passage's arithmetic is odd until you notice what is being counted. Money, credit and time behave the way scarcity says: spent is gone. What the sage accumulates — trust, skill, relationships, reputation — behaves the other way: each transfer installs the giver in someone's memory. The chapter's claim is about which ledger is larger at the end. A practical test: before hoarding something, ask which kind of thing it is.
+**Plain words** Think of something useful you could share. Could you offer it without keeping a private account of what the recipient owes you? The chapter praises giving, but the passage supplies no formula guaranteeing that generosity will make you richer.
 
-*For example:* The engineer who documents everything for the next person ends up with the network, the reputation, and the referrals.
+*For example:* Imagine documenting a repair for the next person who encounters the problem. Your immediate purpose is to make the instructions usable, whether or not anyone later sends you work.
 
 ## Sources
 

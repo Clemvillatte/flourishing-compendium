@@ -16,13 +16,13 @@ Daodejing 81 opens with the pairing, three times over:
 
 > "Sincere words are not fine; fine words are not sincere. Those who are skilled (in the Tao) do not dispute (about it); the disputatious are not skilled in it. Those who know (the Tao) are not extensively learned; the extensively learned do not know it." (DDJ 81, Legge trans., [Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 
-The chapter is the Tao Teh King's closing page, and its last line turns the same preference on the sage's own conduct: "With all the doing in the way of the sage he does not strive." Ornament, dispute and display are grouped together as forms of striving — effort spent on how the words land rather than on whether they are so.
+The chapter is the Tao Teh King's closing chapter, and its last sentence reads: "With all the sharpness of the Way of Heaven, it injures not; with all the doing in the way of the sage he does not strive." The compendium's reading is that ornament, dispute and display are grouped together as forms of striving — effort spent on how the words land rather than on whether they are so.
 
 (DDJ 81.)
 
-**Plain words** The polished version of the story is usually where the truth went to hide. DDJ 81's pairings are blunt: fine and sincere, disputatious and skilled, learned and knowing. Each pair names a real trade, and the chapter comes down on the plain side of all three. The practical test for any sentence you are about to say or write: could you say the duller version, and would it be more exact?
+**Plain words** DDJ 81's pairings are blunt: fine and sincere, disputatious and skilled, learned and knowing. As a practical application, ask whether your wording helps someone understand what happened or mainly makes you sound accomplished. Describe your actual contribution and keep any uncertainty visible. A short sentence can still exaggerate; the aim here is a sincere account.
 
-*For example:* The résumé that says "was part of a team that" versus the one that says "I did" — the plain one is more impressive, because it can be checked.
+*For example:* Imagine describing a team project on your résumé. Name the component you tested and distinguish your contribution from the team's shared result.
 
 ## Sources
 
