@@ -169,3 +169,9 @@ Round 3 (advisor, 2026-10-21): item-10 milestone closed with a scoped PASS for A
 - Scholarship: Sickness unto Death is by Anti-Climacus (pseudonym, noted in Lowrie intro). Old page said the overcoming is 'the choice to be the self you truly are'. Anti-Climacus says self-rescue deepens despair and the formula for its removal is grounding in the Power that posited the self = faith (p. 147, p. 262). The 'choose yourself' wording is Judge William (Either/Or II), supported with SEP and Hong. The page now reports both and says the cure is religious in Kierkegaard.
 - Plain words was a replicate, replaced; example labelled imagined. Original Either/Or citation kept (1843) and now actually opened.
 - Self-QC only (no advisor tool).
+
+## E056 (worker-p1zx-9a2e4c71, 2026-10-21)
+
+- Sources opened: Camus, Myth of Sisyphus and Other Essays, trans. O'Brien (Vintage 1991), Internet Archive OCR (pp. 54, 55, 64, 123 from running heads); Camus, The Rebel, trans. Bower, full text at Ted K Archive (https://www.thetedkarchive.com/library/albert-camus-the-rebel; no page numbers, cited by Part). All quotes checked word-for-word by script.
+- Corrections: the old text said 'living fully, passionately, and authentically'; 'authentically' is not Camus's wording and the Myth explicitly says revolt is 'devoid of hope'; replaced by his own formulations. Plain words was a replicate, replaced. Example relabelled imagined; the 'style' claim removed.
+- The Rebel (1951) archive.org copies are lending-only (403), so Ted K text used. Self-QC only.
