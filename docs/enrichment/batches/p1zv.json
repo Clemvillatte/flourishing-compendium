@@ -3,14 +3,15 @@
  "done": [
   "S039",
   "S043",
-  "S049"
+  "S049",
+  "S052"
  ],
  "in_progress": null,
  "flagged": {
   "S039": "Reopened for QC: advisor QC round 2 locator correction"
  },
  "missing_concepts": [],
- "sources_checked": 4,
- "updated": "2026-10-20T11:59:11+00:00",
+ "sources_checked": 5,
+ "updated": "2026-10-20T12:00:18+00:00",
  "band_done": false
 }

@@ -63,3 +63,17 @@ Band: p1zv (Stoic principles S039–S126, ranks 1172–1201). Worker: worker-p1z
 **Saturation:** mention "first movement" — S061 and S129 are principles (S061 is in this band); concept pages The discipline of assent, Urge surfing, Emotion regulation do not cite S049.
 
 **Proposals:** 1 reciprocal — The discipline of assent.
+
+## S052 — Practise the view from above (Principle 174)
+
+**Source opened and raw-verified:**
+1. Marcus Aurelius, Meditations, George Long translation, Project Gutenberg #15877 (raw text already in qc/med-long.txt).
+   - "Look down from above on the countless herds of men ... nor reputation, nor anything else." — Long's Book VII, section 30. FULL MATCH, complete sentences.
+   - "Thou art a little soul bearing about a corpse, as Epictetus used to say" — Long's Book XII, section 41. FULL MATCH as a fragment; the source continues with Long's editorial citation "(i. c. 19)" which is omitted from the quote, and the quote ends without terminal punctuation for that reason.
+   - Seed's standard-edition locators (Med. IV.1, VII.48, IX.30, XII.24) replaced with the verified Long locators; translator named in each locator.
+
+**Validator:** ok. (Seed had two philosophy parallels jammed on one line; split into two lines, wikilink markup unchanged.)
+
+**Saturation:** mention "view from above" — the concept page The view from above already cites S052. Self-distancing and Awe concept pages do not.
+
+**Proposals:** 2 reciprocals — Self-distancing, Awe.

@@ -12,13 +12,21 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 174** — Practise the view from above
 
-When distressed by a particular event, shift perspective: imagine looking down on the earth from above. See your city, your country, the planet. Your problem shrinks to its true size. The view from above restores proportion.
+Marcus practises the exercise by looking down on the whole species at once:
 
-(Med. IV.1, VII.48, IX.30, XII.24; Seneca, Letters 91; Disc. I.14, III.24.)
+> "Look down from above on the countless herds of men and their countless solemnities, and the infinitely varied voyagings in storms and calms, and the differences among those who are born, who live together, and die. And consider, too, the life lived by others in olden time, and the life of those who will live after thee, and the life now lived among barbarous nations, and how many know not even thy name, and how many will soon forget it, and how they who perhaps now are praising thee will very soon blame thee, and that neither a posthumous name is of any value, nor reputation, nor anything else." (Marcus Aurelius, Meditations, Book VII, section 30, George Long translation)
 
-**Plain words** When an event distresses you, look down on it from above: your city, your country, the planet. Your problem shrinks to its true size. The view from above restores proportion.
+From that height the single life looks small, and Marcus says so in words he credits to Epictetus:
 
-*For example:* Stuck in a petty dispute, you picture the whole street from a hundred metres up, and it eases.
+> "Thou art a little soul bearing about a corpse, as Epictetus used to say" (Marcus Aurelius, Meditations, Book XII, section 41, George Long translation)
+
+The exercise gives proportion rather than comfort. The problem keeps its size, and so does everything around it.
+
+(Med. VII.30, XII.40–41, George Long translation.)
+
+**Plain words** The point is scale. A worry fills the whole screen when nothing else is on it. The view from above puts everyone else back in the picture: people being born, living together, dying, most of them never having heard your name. The worry keeps its reality and loses the whole screen.
+
+For example: Imagined: stuck in a parking dispute, a driver pictures the street from a hundred metres up: two small cars, two small figures, a whole suburb going about its evening.
 
 ## Psychology parallels
 
@@ -28,8 +36,8 @@ When distressed by a particular event, shift perspective: imagine looking down o
 ## Philosophy parallels
 
 - **[[The specious present|The specious present]]** (James, The Principles of Psychology)
-- **The One and henosis** (Plotinus, Enneads)- **[[The view from above|View from above]]** (Stoicism)
-
+- **The One and henosis** (Plotinus, Enneads)
+- **[[The view from above|View from above]]** (Stoicism)
 
 <!-- fc: reflections
 What problem would shrink under the view from above, and which wouldn't? What's the difference?
@@ -38,3 +46,7 @@ Can proportion become a way of minimising real pain? How do you avoid it?
 %%
 Write one paragraph describing your current worry as an astronomer or historian would.
 -->
+
+## Sources
+
+- Marcus Aurelius, Meditations, Book VII, section 30 and Book XII, sections 40–41 (George Long translation), [Project Gutenberg #15877](https://www.gutenberg.org/cache/epub/15877/pg15877.txt)
