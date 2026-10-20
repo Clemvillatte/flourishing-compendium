@@ -7,16 +7,27 @@ file: "Bare attention in mindfulness practice"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-B"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter B", "parent": ""}
 ---
-the operational component of attending to raw experience before interpretation (Bishop et al., 2004, the two-component definition).
+Bare attention is a way of observing experience without immediately answering it with action or mental commentary, in Nyanaponika Thera's account of mindfulness ([The Power of Mindfulness, Introduction](https://www.accesstoinsight.org/lib/authors/nyanaponika/wheel121.html)). He describes sustaining this receptive attention during meditation and, where practicable, during ordinary activities ([Introduction](https://www.accesstoinsight.org/lib/authors/nyanaponika/wheel121.html)).
+
+> "By bare attention we understand the clear and single-minded awareness of what actually happens to us and in us, at the successive moments of perception." (Nyanaponika Thera, The Power of Mindfulness, [Introduction](https://www.accesstoinsight.org/lib/authors/nyanaponika/wheel121.html).)
+
+### Observation can include naming
+
+Nyanaponika explicitly includes identifying and naming mental processes, such as recognizing desire when it occurs ([section 1, Naming](https://www.accesstoinsight.org/lib/authors/nyanaponika/wheel121.html)). His account therefore gives no reason to demand an experience entirely free of words or concepts: the task is to recognize what is happening without immediately following the impulse ([Introduction and Naming](https://www.accesstoinsight.org/lib/authors/nyanaponika/wheel121.html)).
+
+### A practice within a larger account
+
+Bishop and colleagues propose a testable, two-component model of mindfulness; their abstract presents a conceptual proposal, not a trial demonstrating therapeutic benefit ([2004, abstract](https://onlinelibrary.wiley.com/doi/full/10.1093/clipsy.bph077)). This page uses Nyanaponika's practice term without treating it as the whole clinical construct.
 
 ## Related concepts
 
 
-- [[Body scan in MBSR (Kabat-Zinn)]] — the scan asks for bare attention to each body region before interpretation
-- [[The discipline of attention]] — Weil’s account of receptive, waiting attention, offered here as a comparison with mindfulness practice.
+- [[Body scan in MBSR (Kabat-Zinn)]]
+- [[The discipline of attention]]
 ## Sources
 
-- Bishop et al., 2004, the two-component definition
+- [Nyanaponika Thera, The Power of Mindfulness](https://www.accesstoinsight.org/lib/authors/nyanaponika/wheel121.html), Introduction and section 1, Naming: definition, practice contexts and the place of naming.
+- [Bishop et al., Mindfulness: A Proposed Operational Definition (2004), abstract](https://onlinelibrary.wiley.com/doi/full/10.1093/clipsy.bph077): the two-component definition is proposed for testing.
 
 ## Cited in psychology parallels
 
