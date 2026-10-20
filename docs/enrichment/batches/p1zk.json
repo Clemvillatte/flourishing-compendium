@@ -11,13 +11,12 @@
   "BE065",
   "BE071",
   "BE075",
-  "BI028",
   "BI033",
   "BI014",
   "BI015",
   "BI022"
  ],
- "in_progress": null,
+ "in_progress": "BI028",
  "flagged": {
   "BE037": "scoped QC PASS (advisor round 3): rewrite accepted, trial numbers corrected, quote verbatim vs raw PMC text, AASM/SRS practice bullet narrowed, hygiene list + foundation closer removed; inherited Walker/Alhola/Morin/Yoo parallels flagged not certified",
   "BE042": "milestone QC (item-6 review) repairs applied: superlative removed, percentages from abstract, no invented denominators",
@@ -30,13 +29,13 @@
   "BE071": "milestone QC outcome: scoped PASS (advisor round 3)",
   "BE075": "milestone QC outcome: scoped PASS (advisor round 3)",
   "BI022": "Reopened for QC: item-15 advisor citation patch",
-  "BI028": "Reopened for QC: item-15 advisor repair round 3",
+  "BI028": "Reopened for QC: item-15 advisor citation patch",
   "BI033": "Reopened for QC: item-15 advisor repair round 3",
   "BI014": "Reopened for QC: item-15 advisor citation patch",
   "BI015": "Reopened for QC: item-15 advisor citation patch"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T10:32:35+00:00",
+ "updated": "2026-10-20T10:32:39+00:00",
  "band_done": false
 }
