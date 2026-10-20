@@ -165,3 +165,15 @@
 **Sources opened (1).** Kaplan 1995, "The restorative benefits of nature: Toward an integrative framework," Journal of Environmental Psychology 15(3):169-182, full-text OCR'd scan PDF at https://new.censusatschool.org.nz/wp-content/uploads/2013/09/restorative-benefits-of-nature.pdf (downloaded and read; 14 pages; the Michigan Deep Blue official copy's bitstream link returns HTML — the censusatschool scan is the same paper with printed page headers visible). Abstract (p. 169), the hard/soft fascination passage (p. 172), and the four-components passage (p. 173) quoted with ellipses between the numbered components; OCR hyphenation artifacts normalized and noted in the locator. A typo introduced during writing ("restorable" for "restorative" inside the blockquote) was caught and fixed before validation.
 
 **Scope notes.** Kaplan & Berman 2010 and Ohly et al. 2016 were NOT opened — kept as seed source lines only. The seed's Related-concepts glosses (Sabbath, Peak experiences) and the Facets line are seed-authored and kept as found. Saturation hunt and cross-link proposals skipped per §1a. Validator --fast-track: 1 ok.
+
+---
+
+## Attentional bias research — completed 2026-10-20 (worker-w1d-4c8e1b3a, FAST-TRACK)
+
+**Eligibility.** Graph degree 9 (< 15); no unresolved QC findings; inside owned band w1d. Fast-track per PROTOCOL.md §1a.
+
+**Sources opened (1).** MacLeod, Rutherford, Campbell, Ebsworthy and Holker 2002, "Selective attention and emotional vulnerability: Assessing the causal basis of their association through the experimental manipulation of attentional bias," Journal of Abnormal Psychology 111(1):107-123 — PubMed record with full abstract at https://pubmed.ncbi.nlm.nih.gov/11866165/ (opened; blockquote is the abstract verbatim, verified against the fetched page).
+
+**Date correction.** The seed attributes the body claim to "MacLeod et al., 1995"; the study described (bias induction via modified dot probe, stress-task vulnerability) is the 2002 paper. The seed source line "MacLeod et al., 1995" is kept as found; the page cites the 2002 study with its PubMed record.
+
+**Scope notes.** The seed body line "attention determines affect and behavior" was rewritten to the study's own causal finding ("induction of attentional bias should serve to modify emotional vulnerability"), direction-neutral as the abstract states it. An unsourced "mixed record" clause about attention-bias-modification training was removed before validation. Saturation hunt and cross-link proposals skipped per §1a. Validator --fast-track: 1 ok.
