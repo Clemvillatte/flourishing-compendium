@@ -18,10 +18,10 @@ The gentle half of this principle comes from the Daodejing. Chapter 76 reads a r
 
 > "Thus it is that firmness and strength are the concomitants of death; softness and weakness, the concomitants of life." (DDJ 76, [Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
-The compendium joins the two sources: the Daodejing supplies the texture of the movement, soft rather than forced; the Neiye supplies its schedule, regular rather than heroic.
+The compendium pairs chapter 76's imagery of softness with the Neiye's instruction to maintain a practice. It applies that pairing to gentle movement done regularly.
 
 **Plain words**
-A movement practice has two things to get right. Its texture: the Daodejing's living things are soft, and the hard and strong are on the way to dead, so the movement is not forced. Its schedule: the Neiye's instruction is to be regular and hold fast to the practice, so the movement is frequent enough to keep. Ask of your current exercise which of the two it fails: too hard, or too rare.
+For this modern application, choose a movement you can do without straining and a time you can reliably return to it. If the routine is too demanding to keep, simplify it.
 
 *For example:* The compendium's experiment: pick the softest regular movement you would actually keep, a short daily walk, say, and try it for two weeks against your current routine.
 

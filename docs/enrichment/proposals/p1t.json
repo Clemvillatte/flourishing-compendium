@@ -17,6 +17,12 @@
    "link": "D151 \u2014 Follow the seasons",
    "why": "D151's philosophy parallels list links Ziran; the Ziran concept page's citation lists do not include D151 \u2014 the reciprocal edge is missing",
    "_audit_why": "Verified by reading content/concepts/Ziran (naturalness).md in full this session: no mention of D151 anywhere on the page, while D151's philosophy parallels include [[Ziran (naturalness)|Ziran \u2014 naturalness]]."
+  },
+  {
+   "into": "Yangsheng (cultivating vitality)",
+   "link": "D149 \u2014 Moderate food, drink, sex, and sleep",
+   "why": "D149's locator line links the yangsheng literature as its home tradition; the moderation instruction the page quotes is a body-regulation passage from that tradition",
+   "_audit_why": "D149 links [[Yangsheng (cultivating vitality)|yangsheng]]; the concept page's cited-in lists (read in full this session) include D141, D150, D153 but not D149 \u2014 reciprocal edge missing. Verified by reading content/concepts/Yangsheng (cultivating vitality).md in full this session."
   }
  ],
  "inline": [],

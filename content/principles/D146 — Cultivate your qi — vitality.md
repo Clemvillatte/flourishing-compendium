@@ -21,7 +21,7 @@ The Neiye grounds vitality (qi) in practice. Verse V ties mind and breath togeth
 The compendium's reading: the verse's verbs are physical, and its instruction includes both firm and regular. What the compendium takes from it is the regular half, something small enough to hold fast to.
 
 **Plain words**
-The verse's verbs are physical, and its instruction pairs firm with regular. The compendium's analogy: the verse's picture of vitality is closer to fitness than to mood, a flow that answers to repeated practice. Ask what you do daily that is small enough to keep.
+The compendium's analogy: the verse's picture of vitality is closer to fitness than to mood, a flow that answers to repeated practice. Ask what you do daily that is small enough to keep.
 
 *For example:* Imagine a ten-minute walk at the same hour every day for two weeks. That is the compendium's version of something regular enough to hold fast to.
 

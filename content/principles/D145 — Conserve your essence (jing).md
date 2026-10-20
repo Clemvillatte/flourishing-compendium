@@ -12,18 +12,18 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 145** — Conserve your essence (jing)
 
-The Neiye (Inward Training), an early Chinese text on inner cultivation, treats vital essence (jing) as a refined form of vital energy. Verse VIII defines it: "The vital essence: it is the essence of the vital energy," generated when vital energy is guided, and it warns that when the mind's activity runs past what it can hold, "You lose your vitality." Verse XV gives the conservation picture: essence preserved and naturally generated is stored inside as a wellspring, and while the fount is not dried up and the wellspring not drained, vital energy circulates freely through the body's apertures.
+The Neiye (Inward Training), an early Chinese text on inner cultivation, treats vital essence (jing) as a refined form of vital energy. Verse VIII defines it: "The vital essence: it is the essence of the vital energy," generated when vital energy is guided, and it warns that with excessive knowledge, "You lose your vitality." Verse XV gives the conservation picture: essence preserved and naturally generated is stored inside as a wellspring, and while the fount is not dried up and the wellspring not drained, vital energy circulates freely through the body's apertures.
 
 (Neiye; [[Yangsheng (cultivating vitality)|yangsheng]] literature.)
 
-> "For those who preserve and naturally generate vital essence / On the outside a calmness will flourish. / Stored inside, we take it to be the well spring. / Floodlike, it harmonizes and equalizes / And we take it to be the fount of the vital energy. / When the fount is not dried up, / The four limbs are firm. / When the well spring is not drained, / Vital energy freely circulates through the nine apertures." (Neiye, verse XV, [Roth](https://archive.org/stream/original-tao-inward-training-nei-yeh-and-the-foundations-of-taoist-mysticism-tra/Original%20Tao%20Inward%20Training%20(Nei-yeh)%20and%20the%20Foundations%20of%20Taoist%20Mysticism%20(Translations%20from%20the%20Asian%20Classics)%20by%20Harold%20David%20Roth%20(z-lib.org)_djvu.txt))
+> "For those who preserve and naturally generate vital essence / On the outside a calmness will flourish. / Stored inside, we take it to be the well spring. / Floodlike, it harmonizes and equalizes' / And we take it to be tbe fount of the vital energy. / When the fount is not dried up, / The four limbs are firm. / When the well spring is not drained, / Vital energy freely circulates through the nine apertures.'*" (Neiye, verse XV, [Roth](https://archive.org/stream/original-tao-inward-training-nei-yeh-and-the-foundations-of-taoist-mysticism-tra/Original%20Tao%20Inward%20Training%20(Nei-yeh)%20and%20the%20Foundations%20of%20Taoist%20Mysticism%20(Translations%20from%20the%20Asian%20Classics)%20by%20Harold%20David%20Roth%20(z-lib.org)_djvu.txt); "tbe" and the stray apostrophe and asterisk are OCR errors in the source text, reproduced as it prints them; the verse's line numbers are removed)
 
 The compendium's practice reading joins the two verses: essence is generated when vital energy is guided (verse VIII) and preserved as a wellspring (verse XV), and verse VIII names the draining condition as excessive knowledge. Conservation, on this reading, is the two sides: steadiness, and stopping before the condition verse VIII names.
 
 **Plain words**
-Read as one picture, the two verses give a wellspring that fills under the conditions verse VIII names for generation and drains under the condition it names for loss. The compendium's exercise: for one week, each evening note what the day contained, and each morning note how full you feel.
+The compendium uses the wellspring as a metaphor for feeling spent or replenished. For one week, record what you did each evening and how rested you feel the next morning.
 
-*For example:* Imagine ending the day with an hour of unhurried eating, walking or reading instead of one more task. The compendium's term for what that protects is the wellspring.
+*For example:* Leave one evening free of extra tasks, then record how you feel the following morning rather than assuming the change helped.
 
 ## Sources
 
