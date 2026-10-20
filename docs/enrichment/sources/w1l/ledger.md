@@ -544,3 +544,26 @@ convention).
   related-clause grounding is the review's own sub-concept statement.
 - Saturation: fast-track exemption; no reciprocal proposed.
 - QC: validator ok.
+
+## Ecological self
+
+- Track: fast-track, current degree 6 (1 concept + 4 principles + 1 story).
+  Start transition recorded and pushed before research.
+- Opened: https://social-ecology.org/wp/wp-content/uploads/2023/08/Devall-Ecological-Self.pdf
+  (Bill Devall, "The Ecological Self" essay), fetched 2026-10-20.
+- Quotations, copied from the fetched text: the Naess 1986 lecture passage
+  (blockquote, "We may be said to be in, of, and for nature from our very
+  beginning... richer in its constitutive relations."); the continuation
+  fragment ("our home bioregion, or with plants and animals which
+  co-inhabit our living space").
+- The fetched page's typography has a stray inner quotation mark mid-
+  passage; the blockquote takes only the clean contiguous portion, with the
+  continuation as a separate short fragment.
+- The Naess originals ("The Shallow and the Deep" 1973; Ecology,
+  Community and Lifestyle; "Self-realization" 1986), Plumwood's Feminism
+  and the Mastery of Nature, and Cobb's Is It Too Late? were NOT opened;
+  all kept as inherited seed citations without claims.
+- Related concepts verified to exist: Deep ecology (deg 1), Ecological
+  ethics (deg 8).
+- Saturation: fast-track exemption; no reciprocal proposed.
+- QC: validator ok.
