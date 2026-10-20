@@ -32,3 +32,6 @@ No advisor tool available; QC is self-QC only.
 
 ## SE062 Cultivate growth orientation
 - Opened: PubMed abstracts of Sisk 2018, Yeager 2019, Macnamara & Burgoyne 2023; quotes verbatim. Original "effects are real" is contested (Macnamara & Burgoyne: nonsignificant after bias correction); body presents the dispute. Dweck 2006 and Yeager & Dweck 2012 not opened.
+
+## SE073 Recognise self and culture conflict
+- Opened: PubMed abstracts of Benet-Martinez & Haritatos 2005 and Pascoe & Smart Richman 2009; quotes verbatim. Original 'always holding conflicting definitions' qualified (BII varies); discrimination parallel is about health, not self-esteem. 'Strength' claims labelled the entry's position. Huynh 2011, Major & O'Brien, Cheng 2006, Hall not opened.
