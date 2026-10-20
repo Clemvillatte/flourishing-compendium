@@ -13,7 +13,7 @@ Right intention is the second factor of the Buddhist Eightfold Path (Pali sammā
 
 ### Where it sits on the path
 
-The first sermon's listing gives the position: "right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right concentration" (SN 56.11, [Thanissaro translation](https://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html)). Resolve comes straight after view and before any speech or action. The compendium's dedicated principle notes that all three components are stated as what you turn away from — renunciation, absence of ill will, absence of harm — and that "simplicity," "goodwill" and "refusing to add suffering" are the compendium's positive renderings, not the sutta's words.
+The first sermon's listing gives the position: "right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right concentration" (SN 56.11, [Thanissaro translation](https://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html)). Resolve comes straight after view and before any speech or action. The compendium's dedicated principle notes that all three components are stated as what you turn away from — renunciation, absence of ill will, absence of harm — and that "simplicity," "goodwill" and "refusing to add suffering" are the compendium's positive renderings, not the sutta's words. The same principle records a modern echo it keeps deliberately loose: Sheldon and Elliot (1999) found that people pursuing goals consistent with their developing interests and core values put in more sustained effort, a finding about fit between goals and values rather than about renunciation or harmlessness.
 
 ### In the compendium
 

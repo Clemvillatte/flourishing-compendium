@@ -30,3 +30,8 @@
 
 - enrich_validate.py content/concepts/Right intention.md — ok (after
   em-dash budget repair).
+
+## Repair addendum
+
+- After the em-dash repair the prose fell to 130 words; the B022-grounded
+  Sheldon and Elliot echo sentence added to restore length. Validation now ok.
