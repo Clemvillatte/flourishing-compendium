@@ -23,7 +23,7 @@ Entering the circle rightly means holding your anticipations of the whole lightl
 
 ## Related concepts
 
-- [[Fusion of horizons]] — the circular structure of understanding the fusion works within
+- [[Fusion of horizons]]: the circular structure of understanding the fusion works within
 
 ## Sources
 

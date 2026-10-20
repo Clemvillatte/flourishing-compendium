@@ -15,8 +15,8 @@ The quote is taken from a published lecture that cites Ideas I section 44 direct
 
 ## Related concepts
 
-- [[Fusion of horizons]] — Gadamer's later use of the same image, for understanding across traditions
-- [[Hermeneutic circle]] — the parts and the whole that horizons hold together
+- [[Fusion of horizons]]: Gadamer's later use of the same image, for understanding across traditions
+- [[Hermeneutic circle]]: the parts and the whole that horizons hold together
 
 ## Sources
 

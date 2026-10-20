@@ -21,11 +21,11 @@ The same abstract reports that the subjects were unaware of the influence, and t
 
 ### In the compendium
 
-- [[CO036 — Recognise the halo effect — one trait colours the whole judgment]] — the compendium's principle built on this research
+- [[CO036 — Recognise the halo effect — one trait colours the whole judgment]]: the compendium's principle built on this research
 
 ## Related concepts
 
-- [[First impressions bias]] — the temporal cousin: an early impression doing the same colouring work
+- [[First impressions bias]]: the temporal cousin: an early impression doing the same colouring work
 
 ## Sources
 

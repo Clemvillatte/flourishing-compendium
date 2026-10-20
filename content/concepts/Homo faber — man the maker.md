@@ -19,8 +19,8 @@ The things homo faber makes have a use and an end. A table is finished, and its 
 
 ## Related concepts
 
-- [[Homo ludens]] — the playing human, a different answer to the question of what we are besides laborers and makers
-- [[Grit]] — the compendium's research page on sustained effort
+- [[Homo ludens]]: the playing human, a different answer to the question of what we are besides laborers and makers
+- [[Grit]]: the compendium's research page on sustained effort
 
 ## Sources
 
