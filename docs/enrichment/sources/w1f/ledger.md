@@ -69,3 +69,16 @@
   passage quoted VERBATIM, punctuation matched to the opened page.
 - SYNTHESIS FLAG: "recast an overwhelming issue into outcomes of moderate size and people
   act instead of freezing" is the compendium's gloss on Weick's framing.
+
+## Nature as teacher (2026-10-20, fast-track; degree 12 — eligible)
+
+- VERIFICATION: concept REAL (Zhuangzi ch. 22, Zhi Bei You; the "great beauty without
+  words" teaching). Title kept: descriptive label.
+- OPENED: Zhuangzi ch. 22, Watson translation, mirrored at
+  https://www.26reads.com/library/92138-zhuangzi/22 — the great-beauties passage quoted
+  VERBATIM, punctuation matched to the opened page (including the em-dash and the
+  bracketed [the Way of]).
+- NOT QUOTED: ch. 22's "those who know do not speak" line (seen only in a search snippet,
+  not verified on the opened page) — deliberately omitted per zero-hallucination.
+- SYNTHESIS FLAG: "it is available anywhere the natural order can be watched" is the
+  compendium's gloss.
