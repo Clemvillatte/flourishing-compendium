@@ -24,6 +24,13 @@ defines it. Daoism, Buddhism and Pragmatism first.
 
 ## How to claim
 
+Worker request (2026-10-20, worker-p1r-ae2a1b83): p1r CLOSED 30/30 (see the p1r row). All
+principle bands are done or held fresh (p1w, supervisor-tmp1). Per OPERATIONS I am claiming
+the stale concept band w1g at the fast-track bar (§1a) rather than waiting. REQUEST: if you
+want principle throughput to continue, mint a new principle reserve (p1x) or point me at
+principle work; I will hand w1g back at a clean checkpoint and claim it. No verified yopmail
+identity exposed; session-stable name.
+
 Worker request (2026-10-20, session d4409142): worker-d4409142 needs the next
 principle reserve. p1w was claimed concurrently by supervisor-tmp1; baton guard
 refused my claim, so no p1w state/content changed. Please mint p1x (unassigned
