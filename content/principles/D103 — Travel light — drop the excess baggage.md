@@ -12,17 +12,24 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 103** — Travel light: drop the excess baggage
 
-Self-display, self-assertion, boasting, pride: these are "excess luggage" on the Way. Leave them by the road.
+Chapter 24 runs through the straining postures: standing on tiptoe, stretching the legs, displaying yourself, asserting your own views, vaunting yourself, self-conceit. None of them achieve what they aim at, and the Tao, Laozi says, sees them the way everyone sees leftovers or a tumour. The compendium carries the image as excess baggage: weight carried for display that buys nothing and costs energy to haul. (DDJ 24.)
 
-(DDJ 24.)
+> "He who stands on his tiptoes does not stand firm; he who stretches his legs does not walk (easily). (So), he who displays himself does not shine; he who asserts his own views is not distinguished; he who vaunts himself does not find his merit acknowledged; he who is self-conceited has no superiority allowed to him." (DDJ 24, [Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
-**Plain words** Self-display, self-assertion, boasting, pride — these are excess luggage on the Way. Leave them by the road. Every one of them is weight you're carrying for the benefit of people who mostly aren't watching.
+The chapter's own comparison is physical: standing on tiptoe is not standing. The effort goes into the posture instead of the walk.
+
+**Plain words**
+Look at what you are carrying for the sake of how it reads to other people. Pick one piece of it, a badge, a job title, a rehearsed story about yourself, and imagine setting it down for a week. If the day goes on the same without it, it was never holding anything up, and you were paying to carry it.
 
 *For example:* Backpacking wisdom: everything you pack 'just in case' you end up hating at kilometer ten. The trip improves the moment you unpack it.
 
+## Sources
+
+- [Tao Teh King, James Legge translation, Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm) — chapter 24
+
 ## Psychology parallels
 
-- **[[Materialism|Materialism]]**, the pursuit of possessions predicts lower life satisfaction (Kasser, 2002)
+- **[[Materialism|Materialism]]** (Kasser, 2002)
 - **Minimalism and voluntary simplicity studies**
 
 ## Philosophy parallels

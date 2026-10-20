@@ -58,3 +58,17 @@ source; anything not opened is recorded as inherited and unverified.
 - Saturation: Effort-reward imbalance and The having mode already cite D094.
   Proposed one reciprocal into Burnout (its page cites D138/D158, the same
   exhaustion family, but not D094).
+
+### D103 — Travel light: drop the excess baggage (2026-10-20)
+- Opened: Legge DDJ 24 (both Gutenberg editions). Blockquote verified
+  verbatim programmatically against the extracted text, including Legge's
+  "(easily)" parenthesis; "remnants of food, or a tumour on the body" paraphrase
+  anchor also verified verbatim.
+- Old plain words was a replicate of the body (re-quoted the body's first
+  clause) plus an unverified "people who mostly aren't watching" empirical
+  claim; replaced with the set-it-down-for-a-week test. Old seed body's
+  inherited Kasser 2002 claim tail ("predicts lower life satisfaction") trimmed
+  to a bare attribution (unopened), same standard as D025.
+- Saturation: no new reciprocal found — Materialism concept already the linked
+  target; no principle in the corpus quotes DDJ 24 besides this page (mention
+  sweep "tiptoe").
