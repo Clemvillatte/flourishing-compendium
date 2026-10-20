@@ -1,9 +1,13 @@
 {
  "batch": "w1h",
- "done": [],
- "in_progress": "Non-attachment",
- "flagged": {},
+ "done": [
+  "Non-attachment"
+ ],
+ "in_progress": null,
+ "flagged": {
+  "Non-attachment": "possible duplicate of existing concept [[Nonattachment]] (deg 13, already enriched; my page cross-links it and keeps the Buddhist-tradition reading); supervisor disposition requested (merge candidate, like Character-as-habits precedent)"
+ },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T06:13:22+00:00"
+ "updated": "2026-10-20T06:14:58+00:00"
 }
