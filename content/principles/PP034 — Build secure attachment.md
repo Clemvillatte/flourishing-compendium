@@ -12,13 +12,26 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 ---
 > **Principle 34** — Build secure attachment
 
-Attachment security, the experience that one can rely on others and that one is worthy of care, predicts well-being, relationship quality, and emotional regulation. Attachment is not fixed in childhood. It can be earned through relationships with secure partners, therapy, and the experience of reliable responsiveness.
+Attachment research defines its core construct functionally: a person who has reliable care available uses it as a base to explore from and a haven to return to. Bowlby's summary of the lifelong claim:
 
-(Mikulincer and Shaver, 2007; Cassidy and Shaver, 2016.)
+> All of us, from the cradle to the grave, are happiest when life is organized as a series of excursions, long or short, from the secure base provided by our attachment figure(s).
+> (Bowlby 1988, A Secure Base, p. 62)
 
-**Plain words** Secure attachment is feeling you can rely on others and deserve care. It predicts well-being, relationships and emotional regulation. It isn't fixed in childhood. You can earn it through secure partners, therapy and reliably responsive relationships.
+In adulthood the system works mentally as much as physically: felt security can be attained by activating soothing mental representations of partners who have reliably provided care. Mikulincer and Shaver's programme treats the sense of attachment security as an inner resource and studies how it can be bolstered in adulthood, through actual relationships and internalized ones.
 
-*For example:* A person who grew up anxious finds, over years with a patient partner, that she stops fearing every silence.
+> Secure people can therefore remain relatively unperturbed during times of stress and experience longer periods of positive affectivity, which contribute to sustained emotional well-being and mental health.
+> (Mikulincer and Shaver 2007, Psychological Inquiry 18(3))
+
+The compendium's application: if your early map of care was unreliable, the repair is relational and slow rather than a decision, a patient partner, a good therapist, years of reliable responsiveness. The research supports malleability; treat the popular certainty that one good relationship erases a difficult childhood as a hopeful hypothesis rather than a guarantee.
+
+**Plain words** Secure attachment is the felt expectation that the people you rely on will be there and that you are worth showing up for. It is built from evidence, not affirmation: someone comes when you call, enough times, and the expectation updates. If your early evidence was bad, the update needs new evidence, which is why it takes a patient partner or a therapist rather than a resolution. Watch what you do with distance: whether you can explore away from someone and return without drama is the practical test.
+
+*For example:* Imagine a person who grew up anxious about distance. Over years with a partner who answers when she reaches out, the silences stop reading as evidence of abandonment.
+
+## Sources
+
+- [Bowlby, A Secure Base: Clinical Applications of Attachment Theory (1988), p. 62, as quoted in Pioneers of Human Behaviour's sourced profile of Bowlby](https://pioneersofhumanbehaviour.com/john-bowlby/)
+- [Mikulincer and Shaver, Boosting Attachment Security to Promote Mental Health, Prosocial Values, and Inter-Group Tolerance, Psychological Inquiry 2007 (author PDF, UC Davis Adult Attachment Lab)](https://adultattachment.faculty.ucdavis.edu/wp-content/uploads/sites/66/2015/09/Mikulincer_2007_Boosting-attachment-security-to-promote-mental-health.pdf) — 18(3), 139-156
 
 ## Stories
 
