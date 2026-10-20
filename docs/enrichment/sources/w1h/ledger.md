@@ -56,3 +56,11 @@
 - R. H. Smith 2000 / Smith & Kim 2007 kept as seed citation lines only; no claims made
   beyond what the opened 2009 paper supports (social comparison framing attributed to
   the research tradition, not to a specific unread Smith claim).
+
+## Executive function theory Miyake (fast-track)
+- Opened: PubMed 10945922 (Miyake et al. 2000, Cognitive Psychology 41, 49-100) —
+  separability quote verbatim; triad definition (shifting, updating, inhibition);
+  differential contributions (WCST-Shifting, TOH-Inhibition, RNG-Inhibition/Updating,
+  operation span-Updating, dual tasking unrelated); 137 students.
+- Later Friedman & Miyake work referenced only as "unity and diversity label" (seen in
+  search results for PMID 27251123 and 22773897 snippets; no specific claims made).
