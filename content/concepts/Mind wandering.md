@@ -41,7 +41,11 @@ On the benefit side, they reviewed evidence for possible roles in autobiographic
 
 > ...attentional cycling, dishabituation, and relief from boredom.
 
-Their most disarming result concerns tedium: in one tedious-task study, "mind-wandering appeared to partially insulate people against the mood costs of engaging in a particularly tedious task" ([Mooneyham and Schooler, 2013](https://metalab.psych.ucsb.edu/sites/default/files/publications/2013/2013-The-costs-and-benefits-of-mind-wandering-a-review.pdf)). Their summary guard:
+Their most disarming result concerns tedium ([Mooneyham and Schooler, 2013](https://metalab.psych.ucsb.edu/sites/default/files/publications/2013/2013-The-costs-and-benefits-of-mind-wandering-a-review.pdf)):
+
+> In short, mind-wandering appeared to partially insulate people against the mood costs of engaging in a particularly tedious task.
+
+Their summary guard:
 
 > ...mind-wandering does not typically provide affective relief, and indeed imposes significant costs to mood as well as performance.
 
