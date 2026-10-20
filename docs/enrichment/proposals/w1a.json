@@ -111,6 +111,20 @@
       "phrase": "Intrinsic vs extrinsic values (Kasser",
       "source": "w1a worker-w1a-4c8e21d7",
       "why": "the principle's parallels bullet names the Kasser & Ryan values distinction without linking the concept page; rg-verified unique occurrence (L22, parallels bullet, not a seed line)"
+    },
+    {
+      "concept": "The discipline of assent",
+      "into": "Epoch\u00e9",
+      "phrase": "Stoic cousin is the discipline of assent",
+      "source": "w1a worker-w1a-4c8e21d7",
+      "why": "prose names the discipline as the Stoic cousin without linking the concept page; rg-verified unique occurrence (L18 body prose, not a seed line)"
+    },
+    {
+      "concept": "The discipline of assent",
+      "into": "Four Noble Truths",
+      "phrase": "Stoic discipline of assent",
+      "source": "w1a worker-w1a-4c8e21d7",
+      "why": "prose names the discipline in the diagnostic-traditions sentence without linking the concept page; rg-verified unique occurrence (L14 body prose, not a seed line)"
     }
   ],
   "reciprocal": [
@@ -297,6 +311,31 @@
     {
       "into": "Self-concordance theory",
       "link": "Intrinsic versus extrinsic goals",
+      "why": "new Related entry on the concept page; reciprocal of the concept's Related extension"
+    },
+    {
+      "into": "Prosoch\u0113",
+      "link": "The discipline of assent",
+      "why": "new Related entry on the concept page; reciprocal of the concept's Related extension"
+    },
+    {
+      "into": "Epoch\u00e9",
+      "link": "The discipline of assent",
+      "why": "new Related entry on the concept page; reciprocal of the concept's Related extension"
+    },
+    {
+      "into": "Judgment adds the harm",
+      "link": "The discipline of assent",
+      "why": "new Related entry on the concept page; reciprocal of the concept's Related extension"
+    },
+    {
+      "into": "Passions as judgments",
+      "link": "The discipline of assent",
+      "why": "new Related entry on the concept page; reciprocal of the concept's Related extension"
+    },
+    {
+      "into": "Holding as hypothesis",
+      "link": "The discipline of assent",
       "why": "new Related entry on the concept page; reciprocal of the concept's Related extension"
     }
   ]
