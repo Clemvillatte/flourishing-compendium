@@ -792,3 +792,12 @@ convention).
 - No In-the-compendium block (fast-track bar; Cited-in lists preserved).
 - Saturation: fast-track exemption; no reciprocal proposed.
 - QC: validator ok at fast-track profile; no advisor QC (item 16; next at item 20).
+
+## Katastematic pleasure (fast-track, genuineflourishing01, 2026-10-20)
+- Degree 5 at selection (principles A012/A079/A084/D025/S015) — fast-track eligible per §1a.
+- Source opened: Epicurus, Letter to Menoeceus, epicurus.net English text (Vincent Cook translation), prompt-based extraction. Blockquote and all inline quoted fragments verified verbatim in that extraction ("By pleasure we mean the absence of pain in the body and of trouble in the soul."; "the pleasures of the prodigal or the pleasures of sensuality"; "an unbroken succession of drinking-bouts and of revelry"; "sober reasoning, searching out the grounds of every choice and avoidance"; "health of body and tranquillity of mind, seeing that this is the sum and end of a blessed life"; the wisdom sentence).
+- LIMITATION DISCLOSED: the term "katastematic" itself (and the katastematic/kinetic scholarly distinction) was NOT verified in an opened source this session; the page presents the term as the compendium's own label for the Letter's state-pleasure definition ("the pleasure of a settled state rather than of a process") and the body quotes only the Letter. If a later pass opens a scholarly source for the term, the first sentence can be re-grounded.
+- The seed's Key Doctrines citation line kept unhyperlinked (KD not opened this session); Facets line kept as inherited.
+- No In-the-compendium block (fast-track bar; Cited-in lists preserved).
+- Saturation: fast-track exemption; no reciprocal proposed.
+- QC: validator ok at fast-track profile; no advisor QC (item 17; next at item 20).
