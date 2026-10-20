@@ -37,6 +37,13 @@ refused my claim, so no p1w state/content changed. Please mint p1x (unassigned
 degree order) if appropriate; I am reconciling the owner's completion estimate
 read-only while awaiting the reserve. No verified yopmail identity exposed.
 
+Worker request (2026-10-20, worker-p1w-7cd8c5ce): I also want a principle reserve.
+Lost the p1w race to worker-p1w-6c93f2ad (their claim is on origin; mine was
+reverted). Per the claim rules I have taken the released concept band w1e
+(11/70) at the normal bar meanwhile and will hand it back at a clean checkpoint
+if a principle reserve is minted for me. No verified yopmail identity exposed;
+session-stable name.
+
 1. Pull, then find an OPEN, released, or stale PRINCIPLE band first. Check `python3 scripts/baton.py status`: a fresh unreleased baton overrides an outdated OPEN label. A stale baton is available after 20 minutes, even if the table still says claimed. If no principle band is available, request a reserve from the supervisor and do non-conflicting verification or concept work meanwhile.
 2. Edit this table: set status to `claimed`, put your agent name and the date. Commit and push (`scripts/enrich_save.sh "taskboard: claim band w1b"`).
 3. If the push is rejected after rebase, someone claimed first: pull, re-read the board, take the next OPEN band.
@@ -51,7 +58,7 @@ Bands are defined by committed manifests in `docs/enrichment/bands/<band>-manife
 | w1a | 1-30 | Ubuntu to The inner citadel | w1a | DONE 2026-10-20 by worker-w1a-e54f7981: 28/30 enriched (Decentering, Joy, Meaning, Post-traumatic growth, The inner citadel this session; Decentering advisor-scoped PASS, inner citadel advisor PASS rounds 1-6), 2 flagged category-A per concept-namespace-audit (Pursue becoming, not arrival; Participate in the world's becoming — do not enrich as concepts); band_done set, baton released. Ledger: sources/w1a/ledger.md; proposals: proposals/w1a.json (unapplied) | worker-w1a-e54f7981 | 2026-10-20 |
 | w1b | 31-100 | The observing self to Wisdom | w1b | claimed (takeover at ~05:5xZ from stale worker-p1r-1ecde7aaa72c71b8, 67+ min no clock-in; 47/70 done, no in_progress; next: Plain words over beautiful, then manifest degree order; Daoist/Buddhist items (Right view) first where identifiable) | worker-w1b-9d41f7c2 | 2026-10-20 || w1c | 101-170 | Amor sui (right self-love) to Embodied self | w1c | claimed (33/70 done; nine new rewrites pushed and independent advisor PASS, including Nonattachment quote repair; no in-progress item; owner reviewing workflow choices before any acceleration change) | worker-w1c-d4409142 | 2026-10-20 |
 | w1d | 171-240 | Escape from freedom to Attentional control theory (Eysenck) | w1d | claimed (takeover at 04:12Z of released band; 55/70 done, 15 left: Achievement goal theory first, manifest order; ALSO owed: OWNER-UPDATE 'Phenomenological methods in psychology' ESM-genealogy repair before new items) | worker-w1d-4c8e1b3a | 2026-10-20 |
-| w1e | 241-310 | Attentional control training to Intrinsic value of nature | w1e | claimed | genuineflourishing36 (takeover from dead Agent E) | 2026-10-19 |
+| w1e | 241-310 | Attentional control training to Intrinsic value of nature | w1e | claimed (takeover of released band by worker-p1w-7cd8c5ce at ~06:1xZ; 11/70 done; 'Character as habits' manifest item moot — page merged into Habit by the namespace merge, stale in_progress marker to clear; next: 'Choice of self' in manifest order) | worker-p1w-7cd8c5ce | 2026-10-20 |
 | w1f | 311-380 | Karma yoga to Social value orientation | w1f | claimed (FAST-TRACK bar; supervisor-36b57e93 alongside supervision) | supervisor-36b57e93 | 2026-10-20 |
 | w1g | next tail band | see bands/w1g-manifest.json | w1g | claimed (FAST-TRACK bar §1a; worker-p1h-9f42e6c7 after closing p1h; <15-connection items first, Daoist/Buddhist where identifiable) | worker-p1h-9f42e6c7 | 2026-10-20 |
 
