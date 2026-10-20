@@ -665,3 +665,12 @@ convention).
 - Seed's inherited VIE hub lines and Cited-in sections preserved; MO004 In-the-compendium clause from its title (two-factor version).
 - Saturation: fast-track exemption; no reciprocal proposed.
 - QC: validator ok at fast-track profile; no advisor QC (item 4; cadence = first + every 5th).
+
+## Experiential avoidance research (fast-track, genuineflourishing01, 2026-10-20)
+- Degree 8 at selection (Acceptance 44, Chronic pain research 13, Psychological flexibility 25; principles AF035/B001/D099/K016/P165) — fast-track eligible per §1a.
+- Source opened: Fernández-Rodríguez, Paz-Caballero, González-Fernández & Pérez-Álvarez, Frontiers in Psychology 2018 (https://pmc.ncbi.nlm.nih.gov/articles/PMC6129770/). Blockquote verified verbatim in the fetched extraction (the article quotes Hayes et al. 1996, p. 1154; carrier disclosed in the attribution).
+- Grounded claims: short-term alleviation vs longer-term exacerbation (article's sentence, citing Campbell-Sills et al. 2006; Bardeen 2015); "functional dimension in various psychological problems"; "suggested as a core vulnerability factor for emotional distress"; transdiagnostic framing (article's own study terms).
+- Guilford 2011 book excerpt fetch FAILED (bad_robots_code); seed's "Hayes et al., 2011" citation line kept as inherited without URL.
+- In-the-compendium clauses: AF035 (title states the short/long-term trade) and B001 (Face suffering directly); P165/D099/K016 remain in the inherited Cited-in lists.
+- Saturation: fast-track exemption; no reciprocal proposed (Psychological flexibility Related line inherited; Acceptance and Chronic pain research already link back per neighbors).
+- QC: validator ok at fast-track profile. ADVISOR QC due (5th item of session) — running next.
