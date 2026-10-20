@@ -14,10 +14,10 @@
   "Non-dual awareness": "RESOLVED milestone-five QC: exact definition blockquote added, NDA expanded; source and preservation checks pass",
   "Focused-attention meditation": "RESOLVED milestone-five QC: sentence-case subheading added; source and preservation pass",
   "Open-monitoring meditation": "RESOLVED milestone-five QC: sentence-case subheading added; source and preservation pass",
-  "Self-transcendent experiences": "Reopened for QC: Literal source comparison caught non-verbatim draft quotation; replace with actual opened abstract sentence and exact-string test"
+  "Self-transcendent experiences": "RESOLVED literal QC: actual abstract sentence substituted and exact-string source match passes; retained blockquote and subheading present"
  },
  "missing_concepts": [],
  "sources_checked": 9,
- "updated": "2026-10-20T06:32:04+00:00",
+ "updated": "2026-10-20T06:33:22+00:00",
  "band_done": false
 }
