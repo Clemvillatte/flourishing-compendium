@@ -39,7 +39,8 @@
   "MO046",
   "MO074",
   "MO075",
-  "PP004"
+  "PP004",
+  "PP012"
  ],
  "in_progress": null,
  "flagged": {
@@ -66,7 +67,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 15,
- "updated": "2026-10-20T03:54:20+00:00",
+ "updated": "2026-10-20T03:55:11+00:00",
  "band_done": false,
  "takeover": {
   "by": "genuineflourishing35",
