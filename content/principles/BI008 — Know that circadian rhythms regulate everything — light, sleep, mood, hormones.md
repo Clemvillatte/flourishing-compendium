@@ -12,16 +12,25 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BI — Biophysi
 ---
 > **Principle 8** — Know that circadian rhythms regulate everything: light, sleep, mood, hormones
 
-Circadian rhythms — roughly 24-hour cycles in physiology and behaviour — regulate sleep, mood, hormones, cognition, and energy. Disrupting them (shift work, jet lag, irregular schedules, screen light at night) disrupts everything.
+The master clock sits in the hypothalamus, and light is what sets it:
 
-**Plain words** Circadian rhythms run everything — sleep, mood, hormones, energy, on a ~24-hour loop set mainly by light. Disrupt the loop (shift work, jet lag, chaos) and everything downstream wobbles. Protect the rhythm; it's the spine of your day.
+> "Light is the key zeitgeber in the circadian system and interacts with the master clock in the SCN via non-image-forming pathways connecting retina and SCN." (Blume et al., 2019)
 
-*For example:* The night owl forced into morning meetings, the jet-lagged week of unexplained tears — the loop was dragged, and the mood followed. The rhythm is the floor everything stands on.
+Artificial light changed the exposure pattern: "the availability of artificial light has substantially changed the light environment, especially during evening and night hours", which "may increase the risk of developing circadian rhythm sleep-wake disorders (CRSWD), which are often caused by a misalignment of endogenous circadian rhythms and external light-dark cycles." The mood connection is documented carefully: "relatively moderate changes in the timing of the sleep-wake cycle can significantly modulate mood." The review's summary is the principle in one line: "Light at the wrong time may disrupt circadian rhythms and sleep, but in the form of light therapy, light exposure can be used as an intervention for psychiatric and other medical conditions."
+
+**Plain words** Circadian rhythms run everything on a roughly 24-hour loop set mainly by light: sleep, mood, hormones, energy. Disrupt the loop, with shift work, jet lag, or evening screens, and everything downstream wobbles. Protect the rhythm; it is the spine of your day.
+
+*For example* Imagined: the night owl forced into morning meetings, the jet-lagged week of unexplained tears. The review's evidence supports the direction of the complaint: moderate changes in the timing of the sleep-wake cycle can significantly modulate mood.
+
+## Sources
+
+- [Blume, Garbazza & Spitschan, "Effects of light on human circadian rhythms, sleep and mood", Somnologie 23(3): 147-156, 2019 (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6751071/) — quotes checked against the opened article text, Abstract, sleep and mood sections, and Summary
+
 ## Psychology parallels
 
-- **Circadian rhythms and mental health (Czeisler, Wright)**, circadian disruption is associated with depression, bipolar disorder, and impaired cognition (Czeisler et al., 1989; Wright et al., 2013)
-- **Light as circadian cue**, morning light exposure entrains the circadian clock (Czeisler et al., 1989; Wright et al., 2013)
-- **Evening light disrupts circadian rhythm**, blue light from screens delays melatonin and disrupts sleep (Chang et al., 2015; Hale & Guan, 2015)
+- **Circadian rhythms and mental health**, relatively moderate changes in the timing of the sleep-wake cycle can significantly modulate mood (Blume et al., 2019; Czeisler et al., 1989)
+- **Light as circadian cue**, light is the key zeitgeber in the circadian system (Blume et al., 2019; Wright et al., 2013)
+- **Evening light disrupts circadian rhythm**, nocturnal light has been shown to alter circadian rhythms and sleep in humans (Blume et al., 2019; Chang et al., 2015)
 
 ## Philosophy parallels
 
@@ -31,4 +40,4 @@ Circadian rhythms — roughly 24-hour cycles in physiology and behaviour — reg
 
 ## Practice
 
-- Protect circadian rhythm: get bright morning light (10-30 minutes outside), reduce evening light (no screens 1 hour before bed), keep a consistent sleep-wake schedule. Circadian health is foundational.
+- Protect the rhythm: bright daylight in the morning, dim and screen-free evenings, a consistent sleep-wake schedule. The review's evidence supports daylight's benefits for sleep timing and quality.

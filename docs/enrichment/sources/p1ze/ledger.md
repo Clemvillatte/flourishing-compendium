@@ -140,3 +140,10 @@ Per-item evidence notes (owner concise-bar items 6-7). Manifest: BE012..CO061, 3
 - Scope: seed's causal "bacteria affect mood" claim scoped to the review's associational evidence; "fermented foods and fibre are mental health interventions" over-claim removed; example relabelled Imagined with an associational caveat; Practice grounded in the review's probiotics/prebiotics framing; Dash et al. 2015 and Chevalier et al. 2020 references replaced by the opened source.
 - Saturation: 1 reciprocal proposed (Inflammatory theory of depression (Dantzer, Miller); target body verified to name the gut-brain axis as a peripheral route).
 - QC: not a milestone item (item 17 of 30); validator pass vs pre-item baseline 38d5502a.
+
+## BI008 — circadian rhythms
+- Source opened: Blume, Garbazza & Spitschan (2019), "Effects of light on human circadian rhythms, sleep and mood", Somnologie 23(3): 147-156 (https://pmc.ncbi.nlm.nih.gov/articles/PMC6751071/). Quotes verified against the opened article text: key-zeitgeber sentence (sleep section), artificial-light/CRSWD sentences and "nocturnal light has been shown to alter circadian rhythms and sleep in humans" (Abstract), mood-modulation sentence (mood section), light-therapy summary sentences (Summary).
+- Baseline note: initial validate call used a wrong guessed hash; correct pre-item baseline is d9cbe92a (parent of the "start BI008" commit f5188d30), validated clean.
+- Scope: seed's "10-30 minutes outside" and "no screens 1 hour" protocol specifics replaced by the review's own findings; "blue light from screens delays melatonin" claim replaced by the review's general nocturnal-light finding; example grounded to the review's mood-modulation evidence; Hale & Guan 2015 removed, Czeisler/Wright/Chang kept as references.
+- Saturation: 2 reciprocals proposed (Two-process model of sleep, The rhythm of life; both target bodies verified to discuss circadian rhythm); Complete mental health model and The pragmatic maxim judged tangential.
+- QC: not a milestone item (item 18 of 30); validator pass vs pre-item baseline d9cbe92a.
