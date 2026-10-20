@@ -10,3 +10,12 @@ Opened: Aristotle, Nicomachean Ethics, W. D. Ross trans., MIT Classics, Book V (
 - I.2 "legislates as to what we are to do and what we are to abstain from" and "must include those of the others, so that this end must be the good for man": verbatim.
 - Dropped inherited locator "Politics III.1" (not opened). Inherited Marmot/Tyler/Rawls/Dewey parallels left untouched and not certified.
 - Interpretive step (laws sit inside the question of living well) is labelled as a reading of V.7 with I.2.
+
+## E066 — Practise the will to meaning
+
+Opened: Frankl, Man's Search for Meaning, Beacon Press edition, full-text OCR at Internet Archive (https://archive.org/stream/frankl-viktor-mans-search-for-meaning-1963/FRANKL_Viktor_Man's_Search_For_Meaning-1963_djvu.txt). Quotes machine-checked against the OCR (hyphenation and curly quotes normalised).
+- p.153 "According to logotherapy, the striving ... primary motivational force in man." verbatim. Page numbers are the scan's running heads.
+- p.169 will-to-power/will-to-money/will-to-pleasure compensation passage: verbatim.
+- p.167 "No instinct tells him ... what he wants to do.": verbatim. Tradition-loss framing is Frankl's own, so the old "culture offers pleasure and power" line was reworded to what he says.
+- p.154 French poll (89%, 61%) and Vienna repeat: reported as Frankl's own report; no independent check of the poll.
+- Dropped inherited locators Frankl 1969 and 1946/2006 (not opened). Inherited psychology parallels untouched and not certified.

@@ -1,11 +1,12 @@
 {
  "batch": "p1zx",
  "done": [
-  "A099"
+  "A099",
+  "E066"
  ],
  "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T12:09:31+00:00"
+ "updated": "2026-10-20T12:10:43+00:00"
 }
