@@ -1,6 +1,6 @@
 {
  "batch": "p1zv",
- "revision": 2,
+ "revision": 3,
  "reciprocal": [
   {
    "into": "Truthfulness",
@@ -19,6 +19,12 @@
    "link": "S078",
    "why": "A principle on not staking self-worth on others' opinions",
    "notes": "S078 (2026-10-21, worker-p1zv-95f93b33): hub inspected, no S078 occurrence in the concept file; grounded in S078's Ench. 1 reputation-not-in-our-power claim verified against the opened Long text."
+  },
+  {
+   "into": "Compassion",
+   "link": "S081",
+   "why": "A principle on pitying rather than only blaming wrongdoers",
+   "notes": "S081 (2026-10-21, worker-p1zv-95f93b33): hub inspected, content/concepts/Compassion.md cites neither S074 nor S081; grounded in S081's Med. II.13 pity-kinship quote verified against the opened Long text."
   }
  ]
 }

@@ -12,13 +12,21 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 203** — Practise empathy for wrongdoers
 
-The Stoic does not excuse wrongdoing but tries to understand it. The wrongdoer acts from ignorance of what is truly good. Understanding this does not remove responsibility but it reduces anger.
+Marcus grounds empathy for wrongdoers in kinship and a diagnosis. The things from men "should be dear to us by reason of kinship", and their wrongs move pity, not only anger, because the defect behind them is ignorance:
 
-(Med. II.1, II.13, IV.3, VII.22, IX.4, IX.11, XI.18; Disc. I.18, III.3.)
+> "the things from men should be dear to us by reason of kinship; and sometimes even, in a manner, they move our pity by reason of men's ignorance of good and bad; this defect being not less than that which deprives us of the power of distinguishing things that are white and black" (Marcus Aurelius, Meditations, Book II, section 13, [George Long translation](https://www.gutenberg.org/cache/epub/15877/pg15877.txt))
+
+The XI.18 checklist applies the diagnosis when you are the one offended against: consider "under what compulsions in respect of opinions they are", and remember that "if they do not right, it is plain that they do so involuntarily and in ignorance" (Meditations XI.18). The wrongdoer is the first casualty: "He who does wrong does wrong against himself" (Meditations IX.4).
+
+(Med. II.13, IX.4, XI.18.)
 
 **Plain words** Understanding why someone did wrong isn't the same as excusing it. The Stoic looks for the ignorance behind the act: what did this person think was good? Responsibility stays, but anger loses some of its fuel when you see the mistaken picture driving them.
 
 *For example:* A driver tailgates you at speed. You think "late for something that matters to him," and your grip on the wheel eases, though you still don't like it.
+
+## Sources
+
+- [Marcus Aurelius, Meditations (George Long translation, Project Gutenberg)](https://www.gutenberg.org/cache/epub/15877/pg15877.txt) — Book II, section 13; Book IX, section 4; Book XI, section 18
 
 ## Psychology parallels
 
