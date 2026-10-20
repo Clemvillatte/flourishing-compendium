@@ -57,3 +57,17 @@ a principle reserve from the active supervisor.
   not independently certified.
 - Saturation: fast-track exemption used. No reciprocal proposed.
 - QC: source comparison and validator before done; milestone advisor sample pending.
+
+## Open-monitoring meditation
+
+- Track: fast-track, current degree 7 (all principles).
+- Opened 2026-10-20: https://pmc.ncbi.nlm.nih.gov/articles/PMC2693206/ , Box 2,
+  and https://pmc.ncbi.nlm.nih.gov/articles/PMC4627495/ , §V, Davidson and
+  Kaszniak (2015), DOI 10.1037/a0039512. Found second article in the Lutz search.
+- Exact quote: the complete Davidson/Kaszniak sentence beginning “Rather, they
+  are allowed” in §V, referring to experiences and associations.
+- Limits: an operational practice description, not evidence that awareness
+  eliminates thoughts or that every Buddhist school follows the same sequence.
+  No claims of stress reduction or neural effects.
+- Saturation: fast-track exemption. Existing links preserved, no new reciprocal.
+- QC: source comparison and validator before done; milestone advisor sample pending.
