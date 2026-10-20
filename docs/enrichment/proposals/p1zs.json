@@ -1,6 +1,6 @@
 {
  "batch": "p1zs",
- "revision": 13,
+ "revision": 14,
  "reciprocal": [
   {
    "into": "Food as medicine",
@@ -71,8 +71,8 @@
   {
    "into": "Parasympathetic activation",
    "link": "BI048",
-   "why": "the dive reflex the temperature skill induces sets off the parasympathetic system per the manual\u2019s instructions",
-   "notes": "Evidence in sources/p1zs/BI048.md (Foster & Sheel 2005 opened; target page read earlier this session)."
+   "why": "cold-water facial technique used in distress-tolerance training",
+   "notes": "Evidence in sources/p1zs/BI048.md (Linehan handout opened via the Wesleyan CAPS copy: instructions and cautions; Foster & Sheel 2005 opened for the diving-response physiology)."
   },
   {
    "into": "Social support theory Cohen Wills",
