@@ -24,9 +24,9 @@ On format, the same abstract reports: "Larger effects were found for interventio
 
 (Cooney et al., 2013; Schuch et al., 2016.)
 
-**Plain words** Move when you are low. The evidence is not a miracle claim: a moderate, real effect, no clear edge over therapy or pills in the small head-to-head trials, and the effect shrinks in the pickiest analyses. But it is something you can start today without an appointment, and the direction of the findings is the same.
+**Plain words** These studies ask whether exercise can reduce depressive symptoms on average. That is not a promise about how you will feel after one walk. The Cochrane review also found a smaller effect when it restricted the analysis to more robust trials.
 
-*For example:* A twenty-minute walk on a low afternoon is one form of the exercise the reviews covered.
+*For example:* Imagine choosing an accessible form of movement and making time for it during the week.
 
 ## Sources
 
