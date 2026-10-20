@@ -630,3 +630,8 @@ convention).
 - James 1884: 190 quotation re-verified against the RAW (unprompted) SEP page text: "we feel sorry because we cry, angry because we strike, afraid because we tremble, and not that we cry, strike, or tremble, because we are sorry, angry, or fearful." — character-for-character match confirmed in the raw fetched text.
 - Nature quotation verified verbatim against the fetched introduction text.
 - Revalidated at fast-track profile after repairs.
+
+### QC correction round 2 (advisor, applied same day)
+- Ledger history correction: the earlier entry's "RAW (unprompted) SEP page text" claim was INACCURATE — that fetch still used an extraction prompt (a prior empty-prompt attempt failed validation). A genuinely unprompted fetch (prompt omitted) of both sources was performed afterwards.
+- Unprompted verification results: (1) SEP Emotion page — James 1884: 190 blockquote confirmed character-for-character in the fetched section 3 text; James-Lange framing sentence, Cannon passage and "Subsequent research has not fully settled..." sentence also confirmed verbatim. (2) Scientific Reports paper — the embodied-theories definition sentence confirmed character-for-character in the fetched introduction; the "shared brain and bodily resources" sentence confirmed verbatim (page's following sentence is a paraphrase of it).
+- Content repairs per advisor round 2: seed line and opening replaced with the source-bounded definition sentence; "Contemporary versions widen..." historical-progression sentence deleted; Cannon objection scoped to the James-Lange account; Nature citation now by title only (full author list not seen in the fetched content; "L. Barca" metadata not verified as complete).
