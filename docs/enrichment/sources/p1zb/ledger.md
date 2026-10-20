@@ -109,3 +109,14 @@ never-band-assigned work; p1g state had them flagged-only, absent from p1g's man
 - Saturation: PP005 cited by 7 concept pages (Positive activity interventions, Complete mental
   health model, Sustainability of well-being gains, The criterion of experience, The whole in
   the part, WOOP, Life lived forwards).
+
+## PP006 — Satisfy the need for autonomy
+- Full work: verbatim quote added (Ryan & Deci 2000 Am Psychol abstract sentence on the three
+  innate needs, verified vs freshly opened PubMed 11392867); "across cultures" claim grounded
+  in the opened Chirkov, Ryan, Kim & Kaplan 2003 abstract (PubMed 12518973: relative autonomy
+  predicted well-being in all 4 cultures; discussion centres on autonomy vs individualism).
+- Empty psychology parallel filled with [[Autonomous versus controlled motivation]] (the
+  SDT concept page). Unopened Ryan & Deci 2017 book citation replaced by the two opened
+  sources; Sheldon & Elliot 1999 inherited citation kept, flagged not certified.
+- Plain words rewritten as re-derivation (old one replicated the body's definition sentence).
+- Saturation: cited by Psychological needs theory, Autonomy, Social influences on motivation.

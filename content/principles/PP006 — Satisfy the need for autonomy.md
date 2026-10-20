@@ -12,11 +12,15 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 ---
 > **Principle 6** — Satisfy the need for autonomy
 
-Autonomy is the experience that one's actions are self-endorsed, aligned with one's values and interests, not driven by external pressure or internal compulsion. It is not independence or self-sufficiency. It is the sense that what you are doing is what you want to be doing. Autonomous motivation predicts engagement, persistence, and well-being across cultures.
+Autonomy is the experience that one's actions are self-endorsed: aligned with one's values and interests, rather than driven by external pressure or internal compulsion. It is not independence or self-sufficiency, and the research tradition behind it is explicit about that distinction. The need is one of three in self-determination theory:
 
-(Deci and Ryan, 2000; Ryan and Deci, 2017.)
+> The findings have led to the postulate of three innate psychological needs--competence, autonomy, and relatedness--which when satisfied yield enhanced self-motivation and mental health and when thwarted lead to diminished motivation and well-being. (Ryan & Deci, "Self-Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and Well-Being," American Psychologist 55(1), 2000, pp. 68-78, abstract, [PubMed](https://pubmed.ncbi.nlm.nih.gov/11392867/))
 
-**Plain words** Autonomy is feeling that your actions are your own, in line with your values and interests, not driven by outside pressure or inner compulsion. It isn't independence. It predicts engagement and persistence.
+The cross-cultural claim has direct support: in a four-culture study (South Korea, Russia, Turkey, United States), the relative autonomy of individuals' motivation for cultural practices predicted well-being in all four cultures, and the authors' discussion centres on the distinction between autonomy and individualism (Chirkov, Ryan, Kim & Kaplan, 2003).
+
+(Ryan & Deci, 2000; Chirkov et al., 2003.)
+
+**Plain words** Autonomy is about whose reasons are doing the work. A run you chose feels different from a run your tracker shamed you into, even if the legs move the same. The test is endorsement: if the reasons for the action are your reasons, the action is autonomous; if the reasons belong to someone or something else, it is not. Notice that this says nothing about doing things alone. You can be autonomous while caring for your mother, and lonely while doing only what you want.
 
 *For example:* Going for a run because you want to feels different from going because a tracker nags you.
 
@@ -25,9 +29,14 @@ Autonomy is the experience that one's actions are self-endorsed, aligned with on
 - [[ST244 — The Farewell|244. The Farewell]]
 - [[ST300 — Three Basic Needs|300. Three Basic Needs]]
 - [[ST302 — Billi and the Two Autonomies|302. Billi and the Two Autonomies]]
+## Sources
+
+- [Ryan & Deci 2000, American Psychologist, PubMed record](https://pubmed.ncbi.nlm.nih.gov/11392867/) — abstract; pp. 68-78
+- [Chirkov, Ryan, Kim & Kaplan 2003, JPSP, PubMed record](https://pubmed.ncbi.nlm.nih.gov/12518973/) — abstract; four-culture autonomy/well-being findings
+
 ## Psychology parallels
 
--  (Deci and Ryan, 2000)
+- **[[Autonomous versus controlled motivation]]** — the self-determination theory distinction autonomy belongs to (Deci and Ryan, 2000)
 - Self-concordance theory, goals pursued for autonomous reasons predict attainment and well-being (Sheldon and Elliot, 1999)
 
 ## Philosophy parallels
