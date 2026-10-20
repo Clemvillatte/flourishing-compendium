@@ -10,7 +10,8 @@
   "Bicultural identity integration",
   "Co-regulation of affect in relationships",
   "Cognitive bias modification theory",
-  "Cognitive attentional syndrome Wells"
+  "Cognitive attentional syndrome Wells",
+  "Cognitive-developmental theory of moral reasoning"
  ],
  "in_progress": null,
  "flagged": {
@@ -23,10 +24,11 @@
   "Bicultural identity integration": "fast-track; evidence: Benet-Martínez & Haritatos 2005 J Pers abstract verbatim, re-opened and re-verified this session (pubmed.ncbi.nlm.nih.gov/15958143/); abstract does NOT classify the two constructs as cognitive/affective (labels removed) and does not attribute construct origination (claim removed); page scoped to 2005 findings",
   "Co-regulation of affect in relationships": "fast-track; evidence: Butler & Randall 2013 Emotion Review author-hosted PDF re-opened this session (squarespace link); abstract quote verbatim; working definition restored to full verbatim sentence incl. channels parenthetical (section 'An Operational Definition of Coregulation'); morphostatic/morphogenic sentences verbatim (section 'Morphogenic Processes versus Coregulation')",
   "Cognitive attentional syndrome Wells": "fast-track; evidence: Wells 2019 Frontiers in Psychology PMC full text (PMC6920120) re-opened this session; all quotes verbatim under section 'Outline of the Self-Regulatory Executive Function Model' (locator added to both); 'capacity limit that perseveration monopolises' explanation removed (not in extract); MCT claim scoped to 'major influence on the development of metacognitive therapy'",
-  "Cognitive bias modification theory": "fast-track; evidence: Beard 2011 PMC full text (PMC3092585) re-opened: blockquote under Abstract, two-key-features quote under section 'Treatments targeting cognitive biases' (attributed to Koster et al.), bias definitions under sections 'Attention bias'/'Interpretation bias'; Hakamata et al. 2010 PubMed corrected abstract (20887977) for d=.51 [corrected] sentence; advisor QC passed content, locators completed"
+  "Cognitive bias modification theory": "fast-track; evidence: Beard 2011 PMC full text (PMC3092585) re-opened: blockquote under Abstract, two-key-features quote under section 'Treatments targeting cognitive biases' (attributed to Koster et al.), bias definitions under sections 'Attention bias'/'Interpretation bias'; Hakamata et al. 2010 PubMed corrected abstract (20887977) for d=.51 [corrected] sentence; advisor QC passed content, locators completed",
+  "Cognitive-developmental theory of moral reasoning": "fast-track; evidence: Kohlberg 1975 Educational Leadership primary source, ASCD open PDF (files.ascd.org link), invariant-sequence passage and Table 1 stage names verbatim, longitudinal study description verbatim; seed's 'punishment-avoidance to universal principles' mapped to Stage 1 to Stage 6; no advisor QC due (item 11; next QC at item 15)"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T06:50:07+00:00",
+ "updated": "2026-10-20T06:52:11+00:00",
  "band_done": false
 }
