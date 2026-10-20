@@ -3,11 +3,14 @@
  "done": [
   "Indra's net",
   "Karma",
-  "Explore-exploit trade-off research"
+  "Explore-exploit trade-off research",
+  "Exposure processes"
  ],
- "in_progress": "Exposure processes",
- "flagged": {},
+ "in_progress": null,
+ "flagged": {
+  "Feng shui (harmonious environment)": "QC-pending: blockquote is Ci-hai lexicon definition reproduced in opened Yuan Ding ICOMOS paper (secondary carrier, provenance disclosed); awaiting supervisor acceptance under E016/E070/K001 precedent per TASKBOARD request"
+ },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:44:44+00:00"
+ "updated": "2026-10-20T11:47:44+00:00"
 }

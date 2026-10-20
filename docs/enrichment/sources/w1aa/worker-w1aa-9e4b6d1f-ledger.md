@@ -32,3 +32,12 @@
 - Opened source: full-text PDF of Cohen, McClure and Yu 2007 (Phil Trans R Soc B 362: 933-942, worthylab.org copy) — the factors sentence (p. 933) verified verbatim; no-general-optimal-solution, expected/unexpected uncertainty (p. 936), LC-NE phasic/tonic findings (pp. 933, 937) verified against the opened text; PubMed record PMID 17395573 opened for bibliographic confirmation.
 - Saturation: fast-track skip; three existing concepts linked with descriptive clauses (Temporal-difference reinforcement learning, Uncertainty tolerance, Novelty seeking without commitment — existence checked). No reciprocal proposed (no obviously missing backlink checked as missing; P054 already links the concept).
 - No advisor QC required (item 4; cadence is first item and every 5th).
+
+## Exposure processes (item 5, advisor QC rounds 1-2)
+
+- Fast-track degree 1 (sole edge: B085 psychology-parallels entry).
+- Opened source: PMC author manuscript of Craske et al. 2014 (Behav Res Ther 58:10-23). Blockquote "The more the expectancy can be violated by experience, the greater the inhibitory learning." verified verbatim; locator confirmed as strategy (1) Expectancy Violation by re-opening the source. Table 6 Attentional focus row (under Summary) verified.
+- SEED CORRECTION: the seed's "feared stimuli lose charge with sustained attention" is habituation framing; the paper argues against fear-reduction-within-trial as the index of change, so the body presents the inhibitory-learning model instead and does not repeat the seed claim. Advisor approved this handling.
+- QC round 1 (advisor, item-5 milestone) HOLD, repairs applied: "dominant" removed; strategy-list mismatch fixed (attentional focus is Table 6, not one of the eight abstract strategies); habituation contrast scoped to fear reduction within an exposure trial with the advisor's shorter wording; Habituation related-link removed (that page covers Aristotle's virtue habituation, not clinical fear habituation); Expectancy Violations Theory removed (shared terminology, no established relationship); ERP and Experiential avoidance clauses grounded in those pages' own definitions (read before writing).
+- Saturation: fast-track skip; two related links retained with grounded clauses. No reciprocal proposed.
+- Feng shui QC-pending recorded as a persistent state flag (in_progress marker was overwritten by later starts).
