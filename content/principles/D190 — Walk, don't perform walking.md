@@ -12,21 +12,22 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 190** — Walk, don't perform walking
 
-In Zhuangzi's wheelwright story, Phien explains why neither gentle nor violent movements produce the wheel he wants. His skill requires a knack he cannot communicate in speech or teach to his son. He is still making wheels in old age ([Book XIII, paragraph 10, Legge translation](https://www.sacred-texts.com/book/the-texts-of-taoism-part-i-of-ii/book-xiii-thien-tao-or-the-way-of-heaven/)).
+The Way is walked, not discussed: one hour of practice outweighs a library of commentary.
 
-> "But I cannot tell (how to do this) by word of mouth; there is a knack in it." (Zhuangzi XIII, Legge.)
+Zhuangzi's Book XIII closes with the wheelwright Phien, who tells Duke Hwan that the books of the dead sages hold only "the dregs and sediments of those old men". The book's own statement of the problem is that words are only words: "Words have what is valuable in them;--what is valuable in words is the ideas they convey. But those ideas are a sequence of something else;--and what that something else is cannot be conveyed by words." Phien's art is his case in point: at seventy he is still making wheels, because he cannot tell how it is done "by word of mouth", and his son cannot learn it from him.
 
-The Daodejing opens differently: "The Tao that can be trodden is not the enduring and unchanging Tao" ([chapter 1, Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm)). This does not establish that walking gives access to an otherwise inaccessible reality. The compendium draws a narrower practical suggestion from the wheelwright: when learning a skill, ask what its description leaves for you to attempt.
+The Daodejing opens with its own refusal: "The Tao that can be trodden is not the enduring and unchanging Tao. The name that can be named is not the enduring and unchanging name."
+
+The compendium's reading ties the two passages to practice: what the wheelwright cannot hand on, and what the Daodejing refuses to name, is reached by walking rather than by commentary. The one-hour-versus-library comparison in the statement is the compendium's measure, not a source-established one.
 
 (Zhuangzi 13; DDJ 1.)
 
-### Plain words
+> "What the world thinks the most valuable exhibition of the Tâo is to be found in books. But books are only a collection of words. Words have what is valuable in them;--what is valuable in words is the ideas they convey. But those ideas are a sequence of something else;--and what that something else is cannot be conveyed by words." (Zhuangzi 13, [Legge](https://www.sacred-texts.com/book/the-texts-of-taoism-part-i-of-ii/book-xiii-thien-tao-or-the-way-of-heaven/))
 
-Choose a safe task you have prepared to try. What can you attempt now, and what still requires instruction? Reading may be exactly what you need; the question is whether it answers the difficulty you face or postpones an available attempt.
+**Plain words**
+Take the subject you have read the most about and do its smallest real version this week: the walk, not another article about walking. Once you have read enough to start, the next book is the excuse.
 
-### For example
-
-Imagine preparing a short speech. After reading guidance, try saying the opening aloud and note where you lose your place. This proposed exercise gives you a specific question to bring back to the guidance; it does not make further reading a failure.
+*For example:* The compendium's hypothetical: an evening set aside for practice, spent instead comparing mats and dumbbells online. Ask where the evening went: into the walk, or into commentary on walking.
 
 ## Sources
 

@@ -231,22 +231,3 @@
   (unopened); Aristotle NE VI attribution on Phronesis reduced to bare
   wikilink (Book VI not opened; Book Five was). Validator run BEFORE
   done: ok.
-
-### P095 — Expect genuine novelty: the future is open (2026-10-20, worker-p1o-6ae3d782)
-- Opened: Whitehead, Process and Reality (1929), the same open PDF edition
-  used for p1q's P006 (palmyreoomen.nl), downloaded and grepped locally.
-  Quotes verbatim: 'becoming' is a creative advance into novelty (Part I,
-  Ch. II, following the first category of explanation); the creative
-  advance as application of creativity to each novel situation (Part I,
-  Ch. II, Category of the Ultimate section, continuation of P006's
-  passage - no overlap with P006's quoted sentences); The future is
-  merely real, without being actual (Part V); the reality of what is
-  potential (Part II, Ch. II). Bracketed PDF markers not cited as
-  pagination (p1q P006 precedent): locators by Part/Chapter only.
-- Seed statement + locator removed (precedent); 'Determinism is a mood,
-  not a finding' verdict dropped (unsupported assertion); Plain words
-  re-derived; For example kept on the seed's 2019/2020 scenario without
-  the who-did-better comparison claim. Kaufman et al. 2016, Dugas et al.
-  1998, Bergson attribution tails reduced to bare wikilinks (unopened);
-  Whitehead PR attribution kept (opened this session). Validator ok
-  before done.

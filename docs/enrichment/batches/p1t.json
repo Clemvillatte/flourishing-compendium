@@ -23,22 +23,22 @@
   "D187",
   "P060",
   "P076",
+  "P009",
   "P033",
   "P077",
   "P085",
   "P096",
   "P097",
-  "P102",
-  "D190"
+  "P102"
  ],
- "in_progress": "P009",
+ "in_progress": "D190",
  "flagged": {
-  "D190": "RESOLVED 2026-10-20: removed mode-of-access inference; shortened prose; exact Legge quotation independently fetched; awaiting closure QC",
-  "P009": "Reopened for QC: QC correction: remove automatic reconstruction-to-knowledge claim and shorten prose",
+  "D190": "Reopened for QC: QC correction: remove unsupported mode-of-access inference and reduce prose below 300 words",
+  "P009": "Reopened for QC: QC correction: advisor round 1 — extension labels, plain words, example, parallel gloss",
   "P033": "Reopened for QC: QC correction: advisor round 1 — example, plain words tied to opened discussion"
  },
  "missing_concepts": [],
- "sources_checked": 8,
- "updated": "2026-10-20T03:39:43+00:00",
+ "sources_checked": 6,
+ "updated": "2026-10-20T03:38:46+00:00",
  "band_done": false
 }
