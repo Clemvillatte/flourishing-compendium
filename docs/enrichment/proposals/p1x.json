@@ -69,6 +69,11 @@
       "into": "SE025 — Cultivate self-compassion — treat yourself as you would a good friend",
       "link": "SE028 — Learn mindful self-awareness — hold your experience without over-identifying",
       "why": "SE025 lists all three Neff components in its body; SE028 is the dedicated principle for the mindfulness component."
+    },
+    {
+      "into": "CO010 — Understand that thinking is narrative — you story your experience",
+      "link": "SE035 — Understand identity as a project — you author yourself",
+      "why": "CO010 presents the narrative form of thinking; SE035 is the identity-side principle of the same McAdams & McLean construct, with the grounded definition."
     }
   ],
   "inline": [
@@ -78,5 +83,5 @@
       "phrase": "performing one's roles well"
     }
   ],
-  "notes": "SE028: Neff 2003 abstract (opened for SE012, same session) grounds the mindfulness component definition; rumination proposal labelled theoretical; two-poles framing labelled compendium application; grief example replaced; psychology bullet narrowed to what the abstract supports. Milestone advisor QC (item ~17) returned CONDITIONAL; SE028 revised plus regressions fixed in SE012 (trainability/adjustability claims removed or labelled application; p.85->abstract), SE024 (named-it/founding-review and nearly-universal wording bounded), SE027 (comparisons corrected to self-esteem/control; performance clause removed)."
+  "notes": "SE035: McAdams & McLean 2013 abstract opened via APS publisher page; narrative identity definition quoted; mandatory plain-words replicate replaced; For example relabelled Imagine; psychology bullet 2 narrowed to the opened abstract's developmental-tracking finding (Erikson 1968/Kroger 2007 claim removed); philosophy parallels reframed as suggested connections per the SE028 milestone standard; Sources section added."
 }

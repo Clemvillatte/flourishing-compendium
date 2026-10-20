@@ -12,21 +12,32 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 35** — Understand identity as a project: you author yourself
 
-Identity is not something you find; it is something you make. You are the author of your own life story, and the story can be revised. This is both liberating (you are not stuck) and demanding (selfhood requires work).
+The construct behind this principle is narrative identity, defined by Dan McAdams and Kate McLean as follows.
 
-**Plain words** Identity is not something you find; it's something you make. You are the author of your own life story, and the story can be revised. Liberating — you're not stuck — and demanding — selfhood requires authorship. Nobody is coming to write it.
+> "Narrative identity is a person's internalized and evolving life story, integrating the reconstructed past and imagined future to provide life with some degree of unity and purpose." (McAdams & McLean, "Narrative Identity", Current Directions in Psychological Science 22, 2013, abstract)
 
-*For example:* The person waiting for the authentic life to reveal itself — and the turn: the author looked at the draft, cut the chapters written by other people, and wrote the next one on purpose. The self wasn't found under a rock; it was revised at a desk.
+Three words in that definition carry the principle: "evolving" (the story is revisable), "reconstructed" (the past is retold, not excavated), and "imagined future" (the plot points somewhere). The same abstract reports the research finding that narrators who find redemptive meanings in suffering and adversity, and who build stories featuring personal agency and exploration, "tend to enjoy higher levels of mental health, well-being, and maturity". The compendium's application of all this is the page's own word: authorship. This is a practical application; the abstract does not itself frame identity as authoring.
+
+**Plain words**
+A life story that is "internalized and evolving" is one you are telling all the time, and the telling can be reworked. The definition's words do the work: evolving means revisable; reconstructed means the past is retold, not dug up; imagined future means the plot aims somewhere. This page's word for the one doing the reworking is author.
+
+*For example:* Imagine the person waiting for the authentic life to reveal itself, and the turn: looking at the draft, cutting the chapters written by other people, writing the next one on purpose.
+## Sources
+
+- [McAdams, D. P., & McLean, K. C. (2013), Narrative Identity, Current Directions in Psychological Science 22(3), 233-238 (publisher abstract page, APS)](https://www.psychologicalscience.org/journals/current-directions/0963721413475622/) — narrative identity definition and adaptation finding, abstract
+
 ## Psychology parallels
 
-- **[[Identity|Identity as self-authoring]]**, identity is a narrative project that is continually constructed (McAdams, 2001; McAdams & McLean, 2013)
-- **[[Identity development|Identity development (Erikson)]]**, identity formation is a lifelong psychosocial task (Erikson, 1968; Kroger, 2007)
+- **[[Identity|Identity as self-authoring]]**, narrative identity is defined as an internalized and evolving life story (McAdams & McLean, 2013, abstract)
+- **[[Identity development|Identity development (Erikson)]]**, researchers have tracked the development of narrative identity from parent-child conversations to sophisticated meaning-making in adolescence and emerging adulthood (McAdams & McLean, 2013, abstract)
 
 ## Philosophy parallels
 
-- **[[Existence precedes essence|Existence precedes essence]]** (Sartre, Existentialism is a Humanism)
-- **[[The examined life|The examined life as self-authoring]]** (Socrates, Apology)
-- **Becoming** (Nietzsche, Thus Spoke Zarathustra)
+Suggested connections for further reading, not verified textual parallels.
+
+- **[[Existence precedes essence|Existence precedes essence]]**
+- **[[The examined life|The examined life as self-authoring]]**
+- **Becoming**
 
 ## Practice
 
