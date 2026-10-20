@@ -143,3 +143,8 @@
 - Seed body's "creates unnecessary self-consciousness and social anxiety" effect claim softened to the compendium-instruction framing; Practice section kept as found (seed material).
 - Related-concepts section added (Spotlight effect (Gilovich), The illusion of transparency, Egocentric projection in social inference — all already cite SE019 back).
 - NAMESPACE NOTE for supervisor: AT022 "Recognise the spotlight effect — you attend to what you think others notice about you" is a near-neighbour (attention-to-imagined-observation vs overestimation-of-notice); distinct claims kept, no merge attempted. Barry Manilow percentages (46% vs 23%) not quoted (extracted from the PDF but the study-1 detail was not needed; the abstract sentence carries the finding).
+
+## SE023 — Learn to distinguish self-worth from performance (worker-p1zn-fuvwnqv)
+- Opened: Crocker & Park 2003 Handbook of Self and Identity chapter (Buffalo full-text PDF, downloaded and pdftotext-extracted); Crocker, Sommers & Luhtanen 2002 JPSP 32(4) abstract (Sage page, freshly opened). Both quotes verbatim against the opened texts (contingency definition; the acceptance/rejection-days sentence).
+- SE023's Related-concepts line retargeted to the existing [[Contingent self-esteem]] concept page (the draft's "Contingent self-worth" does not exist; concepts are "Contingent self-esteem" and "Contingencies of self-worth (Crocker)").
+- Seed body's "fragile self-esteem" and "unnecessary suffering" framings replaced by the opened findings; Neff 2011 parallel inherited unopened (flagged in parallels, unchanged).
