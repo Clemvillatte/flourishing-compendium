@@ -44,11 +44,11 @@
   "AT016",
   "AT035",
   "AT039",
-  "AT067",
   "AT042",
   "AT049",
   "AT051",
-  "AT063"
+  "AT063",
+  "AT067"
  ],
  "in_progress": null,
  "flagged": {
@@ -86,10 +86,11 @@
   "AT042": "Reopened for QC: advisor milestone QC FAIL: temporal-sequence claim, one-night narrowing, lapse interpretation, unverified efficacy, staging",
   "AT049": "Reopened for QC: advisor milestone QC FAIL: unverified quote sentence, anchor-vs-pacing conflation, unsupported rankings, storm metaphor",
   "AT051": "Reopened for QC: advisor milestone QC FAIL: allocation description, bias-training overreach, unsupported generalization, two-week exercise not verified",
-  "AT063": "Reopened for QC: advisor milestone QC FAIL: audit narration, overstated group distinction, self-test framing, unopened replication evidence"
+  "AT063": "Reopened for QC: advisor milestone QC FAIL: audit narration, overstated group distinction, self-test framing, unopened replication evidence",
+  "AT067": "Reopened for QC: advisor milestone QC FAIL: moderation-to-pattern bridge, audit narration, blanket law framing"
  },
  "missing_concepts": [],
  "sources_checked": 15,
- "updated": "2026-10-20T03:42:27+00:00",
+ "updated": "2026-10-20T03:42:34+00:00",
  "band_done": false
 }
