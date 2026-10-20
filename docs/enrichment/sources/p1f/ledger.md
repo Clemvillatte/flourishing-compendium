@@ -114,3 +114,8 @@
 
 ### Checkpoint closure (2026-10-20, worker-p1f-b7894e46)
 - p1f checkpoint items 37-41 (S051, SE006, SE008, SO002, SO018) ACCEPTED for the reviewed passages per advisor: sentence-level citations on every source-derived sentence, compendium-voice sentences uncited. Not certified: unopened inherited parallels (kept as locators). w1d audit separately PENDING with its new owner. Fast-band claim: "workflow implemented; w1f active; duplicate-free manifests checked."
+
+### A013 item record (2026-10-20, worker-p1f-b7894e46)
+- Source opened: Aristotle, Nicomachean Ethics IV.1, trans. W. D. Ross (Perseus Digital Library, https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=4). Quotes verified verbatim via extraction prompt: mean-in-relation-to-wealth opening; use vs acquisition; right-people/amount/time giving; spending in proportion to means vs prodigal; waste-as-self-ruin. The "liberal man prone to excess in giving / regardless of self" quote was verified but cut for the 300-word prose limit (recorded here).
+- NOTE: the owner's Aristotle upload (PRIMARY-SOURCES.md, Complete Works ROT) is VOLUME ONE only — downloaded and text-extracted (1757 pages); zero hits for "Nicomachean"/"magnificence"; the NE is in Volume Two, absent from the upload. Ross translation sourced from Perseus instead. Dunn/Aknin/Post/Mauss/dana inherited parallels kept as locators, not opened.
+- Validator incident: first pass FAILed prose length (326 > 300) but the done marker ran because a `| head` pipe masked the validator's exit code; item reopened, prose trimmed, revalidated ok before done re-marked.
