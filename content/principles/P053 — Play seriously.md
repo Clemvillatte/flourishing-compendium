@@ -18,7 +18,7 @@ Dewey's chapter on work and play rejects the usual opposition between them. Play
 
 > "Persons who play are not just doing something (pure physical movement); they are trying to do or effect something, an attitude that involves anticipatory forecasts which stimulate their present responses." (Dewey, Democracy and Education, ch. 15, [Gutenberg](https://www.gutenberg.org/cache/epub/852/pg852.txt))
 
-> "One has only to observe the countenance of children really playing to note that their attitude is one of serious absorption." (Dewey, Democracy and Education, ch. 15, [Gutenberg](https://www.gutenberg.org/cache/epub/852/pg852.txt))
+> "One has only to observe the countenance of children really playing to note that their attitude is one of serious absorption" (Dewey, Democracy and Education, ch. 15, [Gutenberg](https://www.gutenberg.org/cache/epub/852/pg852.txt))
 
 The compendium's reading for adult life: protect activities whose aim is simply more of the activity, where trying a variation costs little and a failed attempt is cheap.
 

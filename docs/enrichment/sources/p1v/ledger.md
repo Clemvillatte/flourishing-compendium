@@ -299,9 +299,10 @@ opened text at the recorded URL.
 - Verified verbatim: all three blockquotes ("In their intrinsic meaning,
   play and industry..."; "Persons who play are not just doing
   something..."; "One has only to observe the countenance of children really
-  playing..."), exact to the Gutenberg text. The third quote is truncated at
-  the sentence's semicolon ("serious absorption; this attitude cannot be
-  maintained..."), ending at "serious absorption."
+  playing..."), exact to the Gutenberg text. The third quote is a
+  truncated excerpt ending at the word "absorption" (the source sentence
+  continues after a semicolon); no terminal punctuation was inserted inside
+  the quotation marks.
 - LOCATOR NOTES: this Gutenberg edition carries no printed-page markers, so
   the locator is by chapter. The seed's "Schiller on the play drive." line
   dropped: Schiller was not opened this session. Inherited psychology
@@ -324,9 +325,12 @@ opened text at the recorded URL.
   wholly on p. 194. The seed's date line "(Bergson, Matter and Memory,
   1896.)" replaced with a chapter locator (the opened edition is the 1911
   translation).
-- The grievance-rework framing is labelled as the compendium's adaptation;
-  Bergson's own claims (image as present state; perception already memory)
-  are quoted directly. Inherited psychology parallel (Schiller et al. 2010,
+- The grievance exercise is the compendium's; the opened passages show
+  memory becoming a present image, and the earlier draft's "on Bergson's
+  account... room to assemble it differently" attribution was removed on
+  advisor QC (item-15 round): the passages do not establish deliberate
+  rewriting of recollections. Exercise and Plain words replaced per the
+  advisor's wording. Inherited psychology parallel (Schiller et al. 2010,
   reconsolidation) and philosophy parallels (Matter and memory; Dewey, The
   past as resource) preserved untouched and NOT verified this session.
 
@@ -365,9 +369,8 @@ opened text at the recorded URL.
   is not any fixed state..."; "The good life is a process, not a state of
   being. It is a direction not a destination..."), exact to the opened
   page text. Transcription notes recorded: the page italicises "process"
-  (emphasis not reproduced); the page renders "It is a direction not a
-  destination" without the comma that appears in the book (quote follows
-  the opened page). The chapter title is given by the page as "The Good
+  (emphasis not reproduced); the quote follows the opened page's rendering
+  "It is a direction not a destination". The chapter title is given by the page as "The Good
   Life and the Fully Functioning Person (1953)"; the printed pp. 186-187
   locator (per external citations) was NOT used since the opened source
   carries no page numbers.
@@ -375,3 +378,36 @@ opened text at the recorded URL.
   Inherited psychology parallels (Lucas 2007; Huta and Ryan 2010) and
   philosophy parallels (Dewey; Becoming; Process) preserved untouched and
   NOT verified this session.
+
+## Item-15 milestone closure evidence (2026-10-20)
+
+- Advisor QC round 1 (items 11-15): P126 and P170 passed without prose
+  repairs. Three repairs applied and pushed: (1) P098 — the "on Bergson's
+  account" grievance-rewrite attribution removed; exercise and Plain words
+  replaced with the advisor's wording; (2) P053 — third quote now a
+  truncated excerpt ending at the word "absorption" with no inserted
+  terminal punctuation; (3) P014 — body replaced with the advisor's
+  wording (removing the unverified "clients who moved well" claim and the
+  negative-first staging), Plain words replaced per the advisor.
+- Baseline preservation: all 15 worked pages validated with --base
+  b3a5516a (pre-content claim commit): "15 checked, 0 failed", exit 0.
+- Linked-concept read check (five new pages): targets extracted and read —
+  Goal conflict research, Value pluralism (P126), Art as experience
+  (P053), Memory reconsolidation (P098), Valuation as growth-direction
+  (P170), Eudaimonic well-being (P014). All sit in the untouched protected
+  parallels sections. Reciprocals verified present for all except
+  Eudaimonic well-being (empty stub, no citations at all) — reciprocal
+  proposal recorded in docs/enrichment/proposals/p1v.json (first p1v
+  proposals file). The PERMA model concept was also checked and already
+  cites P170. These reads establish the existing connections, not source
+  support for every inherited comparison or psychological claim; several
+  targets are stubs.
+- Saturation scans: value conflict, play, memory, PERMA, good life.
+  Ecosystem pages exist and cite the principles (Goal conflict research
+  and Value pluralism cite P126; layer P-S08 lists P126; Memory
+  reconsolidation cites P098; layer P-S10 lists P170; PERMA model cites
+  P170; A020 carries Play research; A001/A008 carry the good-life
+  parallels). No further reciprocal proposals warranted.
+- TASKBOARD recovery note corrected per advisor: inferred death/live-owner
+  assertions replaced with the verified P072/P079 commit-and-baton trail;
+  P079 completion to follow per owner instruction.

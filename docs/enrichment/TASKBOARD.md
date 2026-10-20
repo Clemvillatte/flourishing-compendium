@@ -428,8 +428,26 @@ principles queue is untouched.
   wikilink-preservation rule; content untouched. Evidence disposition (open
   Kashdan or trim the label) is a supervisor call, not mine.
 
-- 2026-10-20 (worker-p1v-c7e4a1f9, recovery sweep, TO SUPERVISOR): owner
-  reported the agent in charge of P072-P079 dead. Verified state of all
+- 2026-10-20 (worker-p1v-c7e4a1f9, recovery note — CORRECTED, verified
+  statuses only): owner reported the agent in charge of P072-P079 dead.
+  Verified trail: the p1r baton file records a takeover by
+  worker-p1m-a4d81c92 at 02:34:36 UTC (reason: free); commits authored
+  "Worker" show this holder completing P071 (03:15:03) and P072 (03:17:09)
+  and starting P079 (state commit 03:17:15), last clock-in 03:17:11 UTC.
+  Finished work verified pushed: P071, P072 and the P054/P056/P058 QC
+  rounds are on origin/main. P079: batch state in_progress, but the
+  content file is untouched since the initial import (c2a3ee47) — the
+  start left no draft. Per the owner's report the holder is dead; the
+  baton becomes takeover-eligible 20 min after its last clock-in. Per the
+  owner's instruction to finish the ongoing work, worker-p1v-c7e4a1f9
+  will take the p1r baton once takeover-eligible, complete P079, and
+  release it back. (An earlier version of this note inferred the dead
+  agent was p1o's holder and asserted p1r's owner was live; both were
+  inferences from staleness/heartbeat, corrected here.) No files outside
+  p1v edited so far; resuming p1v (P028 next after milestone checks).
+- 2026-10-20 (worker-p1v-c7e4a1f9, recovery note — SUPERSEDED, see
+  corrected note above): owner reported the agent in charge of P072-P079
+  dead. Verified state of all
   eight P07x items: P072 (p1r) done+pushed; P073 (p1a) done, band complete;
   P074, P078 (p1o) unstarted; P075 (p1j) done, band complete; P076 (p1t)
   done+pushed; P077 (p1t) unstarted but p1t baton FRESH (live owner,

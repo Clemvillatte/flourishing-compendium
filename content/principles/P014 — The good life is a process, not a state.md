@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 14** — The good life is a process, not a state
 
-In On Becoming a Person, Rogers reports what he saw in clients who moved well in therapy. His summary is negative first, refusing every fixed state as a candidate, and then positive: the good life is a process of movement in a direction the person selects when inwardly free. (Rogers, On Becoming a Person.)
+Rogers describes the good life as movement in a direction a person selects when inwardly free. He connects that process with increasing openness to experience and fuller participation in each moment. (Rogers, On Becoming a Person.)
 
 > "It seems to me that the good life is not any fixed state. It is not, in my estimation, a state of virtue, or contentment, or nirvana, or happiness." (Rogers, On Becoming a Person, [Panarchy excerpt](https://www.panarchy.org/rogers/person.html))
 
@@ -21,7 +21,7 @@ In On Becoming a Person, Rogers reports what he saw in clients who moved well in
 The compendium's exercise: describe the last six months as a direction, naming what grew and what shrank, rather than scoring the present.
 
 **Plain words**
-Ask where you are headed rather than where you are. A bad month inside an upward arc is a different month from the same bad month inside a downward one.
+Look back over several months. What has been changing in your relationships, rest, and willingness to face difficult experiences?
 
 *For example:* Imagine two people both reporting an okay month. One has been adding friendships and sleep since spring; the other has been losing both. The same score sits on opposite trajectories, and the trajectory is the thing to check.
 

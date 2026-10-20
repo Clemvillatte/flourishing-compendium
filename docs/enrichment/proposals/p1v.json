@@ -1,0 +1,12 @@
+{
+ "inline": [],
+ "reciprocal": [
+  {
+   "into": "Eudaimonic well-being",
+   "link": "P014 — The good life is a process, not a state",
+   "why": "P014's psychology parallels link Eudaimonic well-being as engagement over time (Huta and Ryan, 2010), the concept's core contrast with hedonic well-being",
+   "_audit_why": "the concept page is an empty stub: its 'Cited in' lists are empty, so it cites no P014; verified by reading the page during the item-15 closure check"
+  }
+ ],
+ "notes": "p1v proposals (worker-p1v-c7e4a1f9), from the items 11-15 enrichment pass. Reciprocals only; all other linked concept targets (Goal conflict research, Value pluralism, Art as experience, Memory reconsolidation, Valuation as growth-direction) verified to already list their principle. | not deferred: 1 recip ready to apply"
+}
