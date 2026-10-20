@@ -27,8 +27,8 @@ Robert Neimeyer's constructivist work adds the mechanism the facets below record
 
 - [[PP047 — Allow post-traumatic growth without forcing it]] — the page's clinical guard, made a principle
 - [[E064 — Practise meaning through the attitude toward suffering]] — the principle that states Frankl's third route, with his own guard that the suffering must be unavoidable
-- [[B180 — Turn mishaps into the path (lojong)]] — the contemplative analogue of treating adversity as material
-- [[A028 — Practice resilience in adversity]] — Bonanno's finding that resilience is more common than often believed
+- [[B180 — Turn mishaps into the path (lojong)]] — the lojong instruction that whatever happens gets carried into the journey
+- [[A028 — Practice resilience in adversity]] — Aristotle's account of bearing fortune in a seemly way, the virtue side of the same outcome
 - [[S092 — Treat adversity as training]] — the Stoic training frame for the same disposition
 - [[E091 — Practise limit situations]] — the limit situation as the setting for the stance this page describes
 
@@ -42,7 +42,7 @@ Robert Neimeyer's constructivist work adds the mechanism the facets below record
 
 - [[Narrative redemption sequences]] — the growth the redeemed story reports
 - [[The search for meaning]] — the growth the attitude-toward-suffering channel can produce
-- [[Tragic optimism]] — Frankl's name for the posture that growth does not require
+- [[Tragic optimism]] — Frankl's name for saying yes to life in spite of pain, guilt, and death
 - [[Resilience]] — the stable-trajectory outcome this page contrasts with growth
 - [[Stress-related growth]] — the sibling term the 2004 paper contrasts: it suggests lower-level stress, where posttraumatic growth focuses on major crises
 ## Sources

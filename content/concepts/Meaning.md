@@ -36,8 +36,8 @@ On this reading meaning is assembled from deeds, encounters, and stances. Frankl
 - [[E010 — Practise the constitution of meaning]] — a different account in the compendium: Husserlian constitution of meaning, where Frankl speaks of discovering it
 - [[PP023 — Distinguish meaning from happiness]] — meaning and positive feeling are different axes
 - [[AF072 — Recognise that positive affect alone is not flourishing; it is one component]] — the affective and the meaningful sides of flourishing are tracked separately
-- [[P159 — Defuse — see thoughts as thoughts]] — the raw material of meaning includes thoughts about one's own life, held lightly
-- [[P019 — Read an idea through its consequences]] — a meaning shows itself in what a life does next
+- [[P159 — Defuse — see thoughts as thoughts]] — noticing thinking as it occurs, rather than taking thoughts about one's life literally
+- [[P019 — Read an idea through its consequences]] — Peirce's rule that an idea's meaning lies in its practical effects
 
 ## Related concepts
 
