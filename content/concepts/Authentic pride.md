@@ -11,16 +11,16 @@ In Tracy and Robins's two-facet model of pride, authentic pride is the achieveme
 
 > "Authentic pride is the more socially desirable, achievement-oriented facet, associated with accomplishment and confidence." (Tracy, Cheng, Robins and Trzesniewski, [Authentic and Hubristic Pride: The Affective Core of Self-esteem and Narcissism](https://scispace.com/pdf/authentic-and-hubristic-pride-the-affective-core-of-self-4b4lave9ch.pdf), Self and Identity 8(2):196-213, 2009)
 
-### What produces it
+### Attributions and associations
 
 The model ties the two facets to different self-attributions. Authentic pride follows success attributed to unstable, controllable aspects of the self, such as effort: the success is credited to something the person did, not to something the person is. In the 2009 studies, authentic pride was positively related to genuine self-esteem and its correlates, including successful social relationships and mental health.
 
 ### In the compendium
 
 - [[AF068 — Cultivate pride (authentic, not hubristic) — it consolidates achievement]] — trains the authentic form and warns off the hubristic
-- [[A025 — Practice proper pride (kaucha)]] — the Stoic practice of deserved pride
+- [[A025 — Practice proper pride (kaucha)]] — Aristotle's greatness-of-soul account of proper pride
 - [[SP060 — Build true self-esteem]] — authentic pride's correlate in the model
-- [[P104 — Perfect the process, not the product]] — effort attribution is the process-side reading
+- [[P104 — Perfect the process, not the product]] — the compendium's process-over-product principle
 
 ## Related concepts
 

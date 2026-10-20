@@ -11,7 +11,7 @@ In Tracy and Robins's two-facet model of pride, hubristic pride is the narcissis
 
 > "Hubristic pride is the more narcissistic facet, associated with arrogance and conceit." (Tracy, Cheng, Robins and Trzesniewski, [Authentic and Hubristic Pride: The Affective Core of Self-esteem and Narcissism](https://scispace.com/pdf/authentic-and-hubristic-pride-the-affective-core-of-self-4b4lave9ch.pdf), Self and Identity 8(2):196-213, 2009)
 
-### What produces it
+### Attributions and associations
 
 The model ties hubristic pride to attributing positive events to internal, stable and uncontrollable factors, such as believing one is simply smart: the success is credited to what the person is, not what they did. In the 2009 studies, hubristic pride was positively related to narcissistic self-aggrandizement and, with it, to aggression and other antisocial behaviors, and negatively related to genuine self-esteem.
 
@@ -25,7 +25,7 @@ The model ties hubristic pride to attributing positive events to internal, stabl
 - [[Authentic versus hubristic pride]] — the comparison page pairing this concept with [[Authentic pride]]
 - [[Pride]] — the emotion whose facet this is
 - [[Authentic pride]] — the other facet, with different attributions and correlates
-- [[Narcissism versus healthy self-regard]] — hubristic pride is the affective core of narcissistic self-aggrandizement
+- [[Narcissism versus healthy self-regard]] — Tracy and colleagues associate hubristic pride with narcissistic self-aggrandizement
 
 ## Sources
 

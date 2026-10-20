@@ -57,11 +57,11 @@
   "Affect as information",
   "Atman",
   "Action before feeling",
-  "Authentic versus hubristic pride",
   "Autonomic nervous system (sympathetic vs parasympathetic)",
   "Care as practice",
   "Character strengths (Peterson & Seligman)",
-  "Chronic pain acceptance"
+  "Chronic pain acceptance",
+  "Authentic versus hubristic pride"
  ],
  "in_progress": null,
  "flagged": {
@@ -87,11 +87,12 @@
   "Anapanasati (mindfulness of breathing)": "Reopened for QC: QC milestone: reword near-verbatim posture wording, drop observation-not-control, add step locator",
   "Affect as information": "Reopened for QC: QC note application",
   "Atman": "Reopened for QC: QC note application",
-  "Action before feeling": "namespace: title names the compendium's application of Aristotle's NE II habituation account, not a source-defined construct; supervisor disposition requested (taskboard route + sources/w1c ledger); page and links preserved; source-content repairs advisor-PASS round 2"
+  "Action before feeling": "namespace: title names the compendium's application of Aristotle's NE II habituation account, not a source-defined construct; supervisor disposition requested (taskboard route + sources/w1c ledger); page and links preserved; source-content repairs advisor-PASS round 2",
+  "Authentic versus hubristic pride": "Reopened for QC: QC round 2: evidence-scope repairs"
  },
  "missing_concepts": [],
  "sources_checked": 36,
- "updated": "2026-10-20T08:07:51+00:00",
+ "updated": "2026-10-20T08:13:30+00:00",
  "band_done": false,
  "new_concepts": [
   {
