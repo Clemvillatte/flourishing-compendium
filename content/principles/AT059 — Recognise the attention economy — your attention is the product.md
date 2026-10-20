@@ -33,8 +33,8 @@ Imagined: a reader spends twenty minutes each morning in a free news app and rec
 ## Psychology parallels
 
 - **[[The attention economy]]** — the concept page pairs Simon's scarcity with Ward et al.'s smartphone-presence findings
-- **Persuasive design and attention capture**, digital products are engineered to capture and hold attention (Fogg, 2003; Eyal, 2014)
-- **Variable reward schedules maximise engagement**, intermittent, unpredictable rewards (likes, notifications) create compulsive checking (Skinner, 1953; Rosen et al., 2013)
+- **Persuasive design and attention capture** (Fogg, 2003; Eyal, 2014)
+- **Variable reward schedules** (Skinner, 1953; Rosen et al., 2013)
 
 ## Philosophy parallels
 
@@ -44,4 +44,4 @@ Imagined: a reader spends twenty minutes each morning in a free news app and rec
 
 ## Practice
 
-- Recognise that your attention is the target of engineered design. Do not treat technology as neutral. Set deliberate boundaries: turn off non-essential notifications, use apps with intention, design your usage.
+- Do not treat technology as neutral. Set deliberate boundaries: turn off non-essential notifications, use apps with intention, design your usage.

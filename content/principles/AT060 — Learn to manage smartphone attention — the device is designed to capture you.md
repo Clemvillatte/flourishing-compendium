@@ -18,13 +18,13 @@ The evidence base is Ward and colleagues' 2017 "brain drain" experiments:
 >
 > (Ward, Duke, Gneezy and Bos, "Brain Drain: The Mere Presence of One's Own Smartphone Reduces Available Cognitive Capacity", Journal of the Association for Consumer Research 2(2), 2017)
 
-In their two experiments, "participants in the 'other room' condition performed better than those in the 'desk' condition", and the costs fell hardest on heavy users: "those who depend most on their devices suffer the most from their salience, and benefit the most from their absence" (Ward et al. 2017). A 2023 meta-analysis of 22 studies reports "a significant overall negative effect of smartphone use and presence": "The pooled effect across all studies was *g* = −0.14, with a 95% confidence interval (CI) of −0.24 to −0.03, at *p* < 0.05"; its conclusion is that there is "a distracting effect of smartphones, even if they are not actively used" (Böttger, Poschik and Zierer, Behavioral Sciences, 2023).
+Ward et al. reported better working-memory performance in the other-room than desk condition. The pocket/bag group did not differ significantly from either, which does not establish equivalence. Experiment 2 found no effect on its sustained-attention measure. The 2023 meta-analysis combined smartphone use and presence, so its pooled estimate does not isolate mere presence.
 
 **Plain words**
-The phone does not need to ring or light up to cost you. In these experiments the phone sitting face-down on the desk left measurably less capacity for the task in front of you, and a phone in the bag was no better than one on the desk. The variable that moved the result was the door: another room, another level of performance.
+Putting your phone elsewhere is an option to try during demanding work. Check whether it helps with your particular task; these experiments do not establish that every nearby phone imposes the same cost.
 
 *For example:*
-Imagined: a writing session with the phone face-down beside the keyboard, then the same session with the phone left in the kitchen. The draft is the check on which session went better.
+Imagined: a writer leaves the phone in the kitchen while reviewing a draft and records interruptions and completed edits.
 
 ## Sources
 
@@ -33,9 +33,9 @@ Imagined: a writing session with the phone face-down beside the keyboard, then t
 
 ## Psychology parallels
 
-- **Brain drain effect (Ward et al., 2017)**, the mere presence of one's smartphone reduces available cognitive capacity (Ward et al., 2017; Journal of the Association for Consumer Research)
-- **Note: the brain drain effect has mixed replication evidence**, some replications support it; others do not; the effect is real but smaller and more context-dependent than originally claimed (Wilcockson et al., 2019)
-- **Smartphone checking is habitual and automatic**, people check phones frequently without conscious decision (Oulasvirta et al., 2012; Wilcockson et al., 2019)
+- **Brain drain effect (Ward et al., 2017)** (Ward et al., 2017; Journal of the Association for Consumer Research)
+- **Replication evidence for the brain drain effect**, some replications support it; others do not (Wilcockson et al., 2019)
+- **Smartphone checking** (Oulasvirta et al., 2012; Wilcockson et al., 2019)
 
 ## Philosophy parallels
 

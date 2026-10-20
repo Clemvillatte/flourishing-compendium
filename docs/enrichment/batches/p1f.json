@@ -58,9 +58,9 @@
   "AT031",
   "AT034",
   "AT053",
-  "AT059",
   "AT060",
-  "AT073"
+  "AT073",
+  "AT059"
  ],
  "in_progress": null,
  "flagged": {
@@ -88,10 +88,12 @@
   "A047": "Reopened for QC: Reopened for QC: qualify unity claim; remove pairwise declarations",
   "A057": "Reopened for QC: Reopened for QC: distinguish report from reform recommendation; remove developmental gloss",
   "AT025": "Reopened for QC: QC correction: prose length after sentence-level citations",
-  "AT059": "Reopened for QC: QC: Simon does not support monetization claims; humanizer defects"
+  "AT059": "Reopened for QC: closure QC: inherited parallel claims need reduction to bare references",
+  "AT060": "Reopened for QC: closure QC: non-significance overreach, dependence wording, sustained-attention distinction, meta-analysis pooling",
+  "AT073": "Reopened for QC: closure QC: cognition-vs-attention substitution, sample-to-individual overreach, AT031 clause unverified"
  },
  "missing_concepts": [],
  "sources_checked": 22,
- "updated": "2026-10-20T06:16:02+00:00",
+ "updated": "2026-10-20T06:19:15+00:00",
  "band_done": false
 }
