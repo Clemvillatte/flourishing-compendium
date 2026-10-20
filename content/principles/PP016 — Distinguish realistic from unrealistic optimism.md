@@ -12,13 +12,13 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 ---
 > **Principle 16** — Distinguish realistic from unrealistic optimism
 
-In Scheier and Carver's self-regulation model, expectations about an outcome influence whether someone renews their effort or disengages.
+In [Scheier and Carver's self-regulation model](https://www.deempathischeorganisatie.nl/wp-content/uploads/2020/02/Beroemd-artikel-van-Scheier-en-Carver-uit-1985-over-de-effecten-van-optimisme.pdf), expectations about an outcome influence whether someone renews their effort or disengages.
 
-> "If expectancies are favorable, the result is renewed effort. If expectancies are sufficiently unfavorable, the result is reduced effort, or even complete disengagement from further attempts." (Scheier and Carver, 1985, p. 222)
+> "If expectancies are favorable, the result is renewed effort. If expectancies are sufficiently unfavorable, the result is reduced effort, or even complete disengagement from further attempts." ([Scheier and Carver, 1985, p. 222](https://www.deempathischeorganisatie.nl/wp-content/uploads/2020/02/Beroemd-artikel-van-Scheier-en-Carver-uit-1985-over-de-effecten-van-optimisme.pdf))
 
-> "By a number of metrics and across a variety of domains, people have been found to assign higher probabilities to their attainment of desirable outcomes than either objective criteria or logical analysis warrants." (Armor and Taylor, 2002, p. 334)
+> "By a number of metrics and across a variety of domains, people have been found to assign higher probabilities to their attainment of desirable outcomes than either objective criteria or logical analysis warrants." ([Armor and Taylor, 2002, p. 334](https://taylorlab.psych.ucla.edu/wp-content/uploads/sites/5/2014/11/2002_When-Predictions-Fail.pdf))
 
-Armor and Taylor discuss why optimistic predictions may have self-regulatory benefits even when they are biased. This principle recommends checking an encouraging forecast against the evidence before relying on it.
+[Armor and Taylor](https://taylorlab.psych.ucla.edu/wp-content/uploads/sites/5/2014/11/2002_When-Predictions-Fail.pdf) discuss why optimistic predictions may have self-regulatory benefits even when they are biased. This principle recommends checking an encouraging forecast against the evidence before relying on it.
 
 (Scheier and Carver, 1985; Schwarzer, 1994;Armor and Taylor, 2002.)
 

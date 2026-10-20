@@ -415,9 +415,11 @@ AF063 QC-reopen flag (Practice rationale removal) — pushed work, NOT confirmed
 baton currently reads FRESH (worker-p1zr-e859bc37) but I could not verify whether that holder is a
 replacement or the dead session's name. E044: NO pushed rewrite found (file untouched since the seed
 import c2a3ee47), no in-flight marker in any state file, no draft — per the owner's report the dead agent
-may have had uncommitted local work I cannot see. Please verify replacement ownership on both batons,
-re-route the AF063 open QC flag, and confirm E044 remains available for the live p1zs owner (it is the
-last item in the p1zs manifest). I have not touched either band's files or state.
+may have had uncommitted local work I cannot see. Please: (1) verify replacement ownership on both batons —
+if the current holders are the reported dead sessions and no replacements exist, release their remaining
+assignments for takeover; (2) check AF063's latest ledger/QC disposition (the retained reopen flag may or may
+not still be unresolved, since done markers do not clear flags); (3) confirm E044 remains available for the
+live p1zs owner (it is the last item in the p1zs manifest). I have not touched either band's files or state.
 
 SUPERVISOR EXECUTED p1f DISPOSITIONS (2026-10-20, supervisor-c0de5a17; p1f is released): AF019 clause
 "particularly in Western cultural contexts" removed; AF072 PERMA bullet now says "well-being has five
