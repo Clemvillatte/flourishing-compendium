@@ -12,18 +12,18 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 133** — Humanize institutions
 
-The problem Jane Addams kept meeting was institutions that had outgrown their purpose. Describing the Chicago school system in Twenty Years at Hull-House, she writes of a struggle between efficiency and democracy, with the two sides described this way:
+In Twenty Years at Hull-House, Addams describes a Chicago school-board dispute as a struggle between efficiency and democracy, in which both sides inevitably exaggerated the difficulties and both felt they were standing by important principles. Her description of the two sides:
 
 > "on one side a well-intentioned expression of the bureaucracy necessary in a large system but which under pressure had become unnecessarily self-assertive, and on the other side a fairly militant demand for self-government made in the name of freedom" (Addams, Twenty Years at Hull-House, ch. 14, [Gutenberg](https://www.gutenberg.org/ebooks/1325))
 
-The people inside the system were the casualties. She writes that the reformers' zeal to keep "the rascals out" so restricted the teachers inside the system "that they had no space in which to move about freely and the more adventurous of them fairly panted for light and air" (ch. 14). Her way of humanizing an institution was to enter it and work it toward its purpose. When years of reports and club meetings did not move the city's refuse system, she bid for the garbage contract of the nineteenth ward; the bid was rejected, but as she tells it, "the incident induced the mayor to appoint me the garbage inspector of the ward" (ch. 13), an office she used to work on the streets, the contracts and the death rate.
+The teachers inside the system felt the weight of the reforms meant to protect it. She writes that the reformers' zeal to keep "the rascals out" so restricted the teachers inside the system "that they had no space in which to move about freely and the more adventurous of them fairly panted for light and air" (ch. 14). In the same book she records the ward's garbage campaign: reports to the city hall, a thousand and thirty-seven substantiated violation reports in one summer, three inspectors transferred, and, in her telling, little improvement. In sheer desperation she put in a bid for the garbage removal of the nineteenth ward; the bid was rejected, but "the incident induced the mayor to appoint me the garbage inspector of the ward" (ch. 13).
 
-The compendium's exercise: pick one institution you deal with weekly, a workplace, a school, a council. Write down what it is for, its human purpose, and one concrete way it currently defeats that purpose. Then take the smallest action available to you inside the institution's own rules that moves it toward the purpose.
+The compendium's reading of the two episodes is that the school system restricted the people it existed to serve, and that the garbage office shows one way in: a post inside the institution, worked from there. The compendium's exercise: pick one institution you deal with weekly, a workplace, a school, a council. Write down what it is for, its human purpose, and one concrete way it currently defeats that purpose. Then take the smallest action available to you inside the institution's own rules that moves it toward the purpose.
 
 **Plain words**
-An institution is a machine for doing something for people, run by people. When it starts treating the people inside it as raw material, it has forgotten what it is for. Humanizing it does not mean being nicer; it means asking what the people affected need, and bending the rules toward that.
+A useful safeguard can also make people's work harder. Review the burdens a procedure places on those who must use it alongside the protection it provides. Look for a change that addresses the burden while keeping that protection.
 
-*For example:* A school timetable that gives its teachers no time to prepare is a curriculum decision and an exhaustion decision at once. The committee that fixes the timetable is humanizing the institution, even though nothing it touches is soft.
+*For example:* Imagine a school whose timetable leaves teachers no preparation period. A committee asks teachers which duties could be moved, then proposes a protected preparation period.
 
 ## Sources
 
