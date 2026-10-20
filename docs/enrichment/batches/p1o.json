@@ -2,14 +2,15 @@
  "batch": "p1o",
  "done": [
   "B014",
-  "B019"
+  "B019",
+  "B028"
  ],
- "in_progress": "B028",
+ "in_progress": null,
  "flagged": {
   "B014": "Reopened for QC: advisor milestone QC repairs"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T02:01:23+00:00",
+ "updated": "2026-10-20T02:01:48+00:00",
  "band_done": false
 }

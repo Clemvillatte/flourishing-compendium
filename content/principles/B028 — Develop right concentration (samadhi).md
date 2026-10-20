@@ -12,21 +12,34 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 28** — Develop right concentration (samadhi)
 
-Gather the mind into steadiness: a mind that can stay with one object can see it. Build the capacity to rest attention where you place it.
+The training instruction is a single repeated line: "He trains himself, 'I will breathe in steadying the mind.' He trains himself, 'I will breathe out steadying the mind.'"
+
+> He trains himself, 'I will breathe in steadying the mind.' He trains himself, 'I will breathe out steadying the mind.'
+>
+> (Anapanasati Sutta, MN 118, Thanissaro)
+
+The Dhammapada pairs the capacity with seeing: "There is no meditative concentration for him who lacks insight, and no insight for him who lacks meditative concentration. He in whom are found both meditative concentration and insight, indeed, is close to Nibbana." And it names who arrives: "The wise ones, ever meditative and steadfastly persevering, alone experience Nibbana, the incomparable freedom from bondage." The compendium's application: steadiness is trainable as a capacity — rest attention where you place it.
 
 (MN 118; Dhammapada 23, 372.)
 
-**Plain words** Gather the mind into steadiness — a mind that can stay with one object can see it. Build the capacity to rest attention where you place it. Concentration isn't clenching; it's the trained ability to stay, which is what seeing requires.
+**Plain words**
+Steadiness is a capacity, not a mood. The instruction is to place attention and keep it placed, breath by breath. When it wanders, return it without commentary; the returning is the training. As a compendium exercise, pick one object — the breath works — and set a short interval of staying with it.
 
 *For example:* The woodworker who can watch one joint for an hour sees the flaw the impatient beginner planed straight past.
 
+## Sources
+
+- [Anapanasati Sutta, MN 118 (Thanissaro), Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.118.than.html) — the steadying-the-mind step
+- [Dhammapada, Bhikkhuvagga (Buddharakkhita), Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.25.budd.html) — verse 372
+- [Dhammapada, Appamadavagga (Buddharakkhita), Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.02.budd.html) — verse 23
+
 ## Psychology parallels
 
-- **[[Focused-attention meditation|Focused-attention meditation training]]**, improves sustained attention (Lutz et al., 2008)
+- **[[Focused-attention meditation|Focused-attention meditation training]]**
 
 ## Philosophy parallels
 
-- **Voluntary attention as the core of will** (James, The Principles of Psychology)- **[[Eightfold Path|Eightfold Path]]** (Buddhism, SN 56.11)
+- **[[Eightfold Path|Eightfold Path]]**
 
 
 <!-- fc: reflections

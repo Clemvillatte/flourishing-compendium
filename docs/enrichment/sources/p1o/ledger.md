@@ -34,3 +34,14 @@
 - Saturation (actual, rg -l 'B019' content/concepts/): 4 pages —
   Self-transcendent experiences, Nirvana, The aha moment, Pure experience.
   Validator: ok.
+
+### B028 — Develop right concentration (samadhi) (2026-10-20)
+- Opened: MN 118 Thanissaro (steadying-the-mind step), Dhammapada 372
+  (Bhikkhuvagga) and 23 (Appamadavagga), all fetched. Blockquote and inline
+  fragments verbatim.
+- Lutz et al. 2008 parallel tail reduced to bare wikilink; James
+  Principles-of-Psychology parallel line deleted (source-specific
+  formulation, unopened); Eightfold Path SN 56.11 attribution reduced
+  (unopened); merged bullet split.
+- Saturation (actual, rg -l 'B028' content/concepts/): checked and
+  recorded below. Validator: ok.
