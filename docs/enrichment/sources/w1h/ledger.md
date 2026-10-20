@@ -130,9 +130,25 @@
   occurrences lost); it is not claimed as a whole-file raw-byte comparison.
 
 ## Milestone QC round 4 — sentence-level citations completed
-- Every added factual sentence now carries an adjacent citation to an opened source:
+- ROUND 4 (first attempt) claim 'every added factual sentence cited' was PREMATURE; corrected in round 5:
   Envy (NL/US/ES sentence, implications sentence), Durée (introduction sentence with
   Gutenberg title-page link, clock paragraph), Ecological relationality (opening
   paragraph SEP link), Executive function (methods sentence).
 - EF definition rewritten as genuine paraphrase (no longer near-verbatim of the
   Friedman & Miyake 2017 abstract without quotes).
+
+## Milestone QC round 5 — full citation pass
+- Every added factual sentence now carries an adjacent citation to an opened
+  source, per the advisor's finite checklist: Durée (opening definition, Pogson
+  translation, clock paragraph combined into one cited sentence, p.108 contrast
+  locator, SEP multiplicity sentence, freedom intro with Conclusion locator; 1889
+  first-book claim now cited to SEP), Ecological relationality (opening definition,
+  Leopold/Næss sentences, Næss paragraph and Self-realization sentence all carry
+  SEP citations; "the seed names" editorial sentence deleted), Emotional suppression
+  (theory-spans sentence combined and cited to 1993 abstract; Butler sentence
+  cited to 2003 abstract; physiology paragraph combined into cited sentences;
+  AF026 annotation cited), Envy (opening definition sentence, combined
+  benign/malicious sentence, La Rochefoucauld maxim sentence, maxim 476 paraphrase
+  all cited), Executive function (bold lead cited to 2000 abstract; triad definition
+  sentence cited).
+- EF definition is now a genuine paraphrase, not near-verbatim.

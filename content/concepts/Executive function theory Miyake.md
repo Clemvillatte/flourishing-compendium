@@ -7,7 +7,7 @@ file: "Executive function theory Miyake"
 tags: ["theory", "psych/cognition"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-COGNITION"], "alternatePaths": []}
 ---
-**Executive function theory Miyake** — Miyake, Friedman — the three selected functions tested in the 2000 study, inhibition, shifting and updating, were correlated yet separable.
+**Executive function theory Miyake** — Miyake, Friedman — the three selected functions tested in the 2000 study, inhibition, shifting and updating, were correlated yet separable ([abstract](https://pubmed.ncbi.nlm.nih.gov/10945922/)).
 
 Friedman and Miyake describe executive functions as higher-level processes that guide other cognitive activity toward goals, abilities such as response inhibition, working memory updating and set shifting ([2017 abstract](https://pubmed.ncbi.nlm.nih.gov/27251123/)). The 2000 study tested three selected executive functions and found them correlated yet separable, using latent variable analysis: 137 college students performed simple tasks chosen to tap each candidate function, alongside frequently used executive tasks such as the Wisconsin Card Sorting Test and the Tower of Hanoi ([Miyake et al., 2000, abstract](https://pubmed.ncbi.nlm.nih.gov/10945922/)).
 
@@ -15,7 +15,7 @@ Friedman and Miyake describe executive functions as higher-level processes that 
 
 ### The triad
 
-The three functions are mental set shifting, information updating and monitoring, and inhibition of prepotent responses. The paper's closing line is that both the unity and the diversity of executive functions need recognizing: the three correlate moderately, yet each contributes differently to complex tasks, with card sorting leaning on shifting, the Tower of Hanoi on inhibition, and operation span on updating ([Miyake et al., 2000, abstract](https://pubmed.ncbi.nlm.nih.gov/10945922/)).
+The three functions are mental set shifting, information updating and monitoring, and inhibition of prepotent responses ([Miyake et al., 2000, abstract](https://pubmed.ncbi.nlm.nih.gov/10945922/)). The paper's closing line is that both the unity and the diversity of executive functions need recognizing: the three correlate moderately, yet each contributes differently to complex tasks, with card sorting leaning on shifting, the Tower of Hanoi on inhibition, and operation span on updating ([Miyake et al., 2000, abstract](https://pubmed.ncbi.nlm.nih.gov/10945922/)).
 
 ### In the compendium
 

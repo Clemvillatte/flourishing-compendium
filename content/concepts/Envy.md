@@ -9,17 +9,17 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Envy” — La Rochefoucauld, Reflections.
 
-Envy is pain at another person's good fortune. Niels van de Ven, Marcel Zeelenberg and Rik Pieters gave the feeling its working definition, and their abstract opens with it:
+Envy is pain at another person's good fortune. Niels van de Ven, Marcel Zeelenberg and Rik Pieters gave the feeling its working definition ([2009, abstract](https://pubmed.ncbi.nlm.nih.gov/19485619/)), and their abstract opens with it:
 
 > "Envy is the painful emotion caused by the good fortune of others." (van de Ven, Zeelenberg and Pieters, [Leveling up and down: the experiences of benign and malicious envy, Emotion 9 (2009), pp. 419-429, abstract](https://pubmed.ncbi.nlm.nih.gov/19485619/))
 
 ### Two motors
 
-In its samples, the paper found distinct experiences of benign and malicious envy. Benign envy came with a moving-up motivation, aimed at improving your own position; malicious envy came with a pulling-down motivation, aimed at damaging the position of the superior other ([van de Ven, Zeelenberg and Pieters, 2009, abstract](https://pubmed.ncbi.nlm.nih.gov/19485619/)). The distinction held in the Netherlands, where the language has separate words for the two, and in the United States and Spain, where one word covers both ([van de Ven, Zeelenberg and Pieters, 2009, abstract](https://pubmed.ncbi.nlm.nih.gov/19485619/)). The authors discuss implications of the distinction for theories of cooperation, group performance and Schadenfreude ([same abstract](https://pubmed.ncbi.nlm.nih.gov/19485619/)).
+In its samples, the paper found distinct experiences of benign and malicious envy: benign envy came with a moving-up motivation, aimed at improving your own position, and malicious envy came with a pulling-down motivation, aimed at damaging the position of the superior other ([van de Ven, Zeelenberg and Pieters, 2009, abstract](https://pubmed.ncbi.nlm.nih.gov/19485619/)). The distinction held in the Netherlands, where the language has separate words for the two, and in the United States and Spain, where one word covers both ([same abstract](https://pubmed.ncbi.nlm.nih.gov/19485619/)). The authors discuss implications of the distinction for theories of cooperation, group performance and Schadenfreude ([same abstract](https://pubmed.ncbi.nlm.nih.gov/19485619/)).
 
 ### La Rochefoucauld and the Buddha
 
-The French moralist saw the hiding. His maxim 27 reads: "People are often vain of their passions, even of the worst, but envy is a passion so timid and shame-faced that no one ever dare avow her" ([Reflections, or Sentences and Moral Maxims, Bund and Friswell translation](https://www.gutenberg.org/files/9105/9105-h/9105-h.htm)). He also noticed the asymmetry of duration: envy outlasts the happiness of those envied (maxim 476). The Buddhist canon warns from the other side, that of the envier's own peace: in Müller's Dhammapada, a mendicant who envies others does not obtain peace of mind ([verse 365](https://www.gutenberg.org/cache/epub/2017/pg2017-images.html)).
+The French moralist saw the hiding: his maxim 27 reads, "People are often vain of their passions, even of the worst, but envy is a passion so timid and shame-faced that no one ever dare avow her" ([Reflections, or Sentences and Moral Maxims, Bund and Friswell translation](https://www.gutenberg.org/files/9105/9105-h/9105-h.htm)). He also noticed the asymmetry of duration: envy outlasts the happiness of those envied (maxim 476, [ibid.](https://www.gutenberg.org/files/9105/9105-h/9105-h.htm)). The Buddhist canon warns from the other side, that of the envier's own peace: in Müller's Dhammapada, a mendicant who envies others does not obtain peace of mind ([verse 365](https://www.gutenberg.org/cache/epub/2017/pg2017-images.html)).
 
 ### In the compendium
 
