@@ -13,7 +13,7 @@ In focused attention (FA) meditation, the practitioner selects an object — com
 
 ### What counts as an anchor
 
-The review defines the practice by its object: FA meditation "entails voluntary focusing attention on a chosen object in a sustained fashion." The example given is breath sensation — localized sensations around the nostrils — but the definition leaves the object open. The practice is the returning, not the object: noticing that focus has shifted, releasing the distraction, and going back.
+The review defines the practice by its object: FA meditation "entails voluntary focusing attention on a chosen object in a sustained fashion." The example given is breath sensation, localized sensations around the nostrils, but the definition leaves the object open. The practice is the returning, not the object: noticing that focus has shifted, releasing the distraction, and going back.
 
 ### What the returning trains
 
