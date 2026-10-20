@@ -44,6 +44,9 @@ The compendium's reading: if identity is narrated, the narration can be examined
 ## Related concepts
 
 - [[SE001]] — SE011 treats the self as story-structured; SE001 supplies McAdams's narrative-identity account, the evolving life story a person tells.
+- [[Narrative identity]] — the concept behind this principle: identity as the life story a person tells and revises.
+- [[Narrative redemption sequences]] — the story shapes this principle names, with the compendium's practice principles for working them.
+- [[Redemption sequences]] — the bad-to-good shape as its own concept.
 
 ## Sources
 
