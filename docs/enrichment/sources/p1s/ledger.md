@@ -474,3 +474,49 @@ source; anything not opened is recorded as inherited and unverified.
   attributions already).
 - Saturation: no new reciprocals; Persons as ends and I-Thou are already the
   linked targets.
+
+## Item-20 milestone QC (2026-10-20): round 1 FAIL all six -> repairs applied, round 2 requested
+- Advisor round 1 (B049, B113, B114, B126, B141, B150): FAIL all six. B049 was
+  in this round because it was worked before the item-15 milestone and missed
+  its review. Exact repairs applied, each re-validated against the fixed
+  pre-edit baseline f31a4697 before re-marking done: B049 (attribution to
+  excerpts reproduced at the Scarsdale page; Wikipedia source entry removed as
+  never opened; checking-blocks-skill claim removed; advisor's replacement
+  applied), B113 (Shantideva now "a related discussion", not the slogan's
+  argument; verse 111 blockquote reformatted with line breaks; advisor's
+  replacement applied), B114 (see correction below), B126 (opening condensed;
+  doctrinal overreach removed; advisor's replacement applied), B141 (unopened
+  Candrakirti medicine material removed from the application; verse 7 reported
+  conditionally; advisor's replacement applied), B150 (betrothal gloss removed;
+  "renewable" removed; contemporary extension separated from the textual
+  description; advisor's replacement applied).
+- CORRECTION of my own earlier B114 record: the claim that the seed's "AN
+  5.35" citation was wrong was itself wrong. AN 5.35 is the Dananisamsa Sutta
+  ("The Benefits of Giving"), which directly supports the page's theme; it
+  has no Thanissaro page at the expected accesstoinsight URL (the reason for
+  my error). AN 5.35 has now been opened (theemptyrobot.com text page) and its
+  five benefits quoted verbatim; the page cites AN 5.35 as the seed intended,
+  with AN 5.41 kept as an additional source described as including its
+  non-giving uses (warding off calamities).
+- CORRECTION of my own earlier B126 record: the Gemmell edition (Gutenberg
+  64623) was NOT opened when that entry was written; the file actually fetched
+  then was ebook 2018, "The Library". The Gemmell edition has now been
+  genuinely opened and its relevant passage verified verbatim, so the Sources
+  entry is now true; the earlier record is corrected. The advisor's requested
+  IDP text panel (idp.bl.uk) was attempted and blocked (403).
+- CORRECTION of my own earlier B049 record: the ledger's "Cleary translation
+  excerpts" wording implied more verification than performed; the excerpts
+  page does not name the translator. Corrected to "excerpts reproduced at the
+  Scarsdale Aikido page". The letter's identification as the Mysterious Record
+  of Immovable Wisdom in The Unfettered Mind, addressed to Yagyu Munenori, is
+  supported by the page.
+- B150 note: the "crowned with flowers = betrothed" gloss was not in the
+  opened page's notes and is removed; the historical list is now summarized as
+  the translator renders it, with the contemporary extension labelled as the
+  compendium's proposal.
+- QC-coverage note: the failed item-10 round did not review the later
+  B017/B030 drafts; B017 and B030 are to be reviewed in the item-25 round.
+- Process note adopted from this round: future items get their prescribed
+  `start` state transition before editing; validation failures must prevent
+  the subsequent done transition (chains are now structured so the state
+  update cannot run after a failed validation).
