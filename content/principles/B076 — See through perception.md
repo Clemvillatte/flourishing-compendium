@@ -12,18 +12,18 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 76** — See through perception
 
-MN 18 sets out perception as one link in a chain rather than a starting point. Dependent on the eye and forms, consciousness arises; the meeting of the three is contact; with contact as condition comes feeling; what one feels, one perceives, labeling it in the mind; what one perceives, one thinks about; what one thinks about, one objectifies. The construction runs forward from raw contact to a world of classified objects. (MN 18.)
+MN 18 sets out perception as a step in a dependent chain. Dependent on the eye and forms, eye-consciousness arises; the meeting of the three is contact; with contact as condition comes feeling; what one feels, one perceives, labeling it in the mind; what one perceives, one thinks about; what one thinks about, one objectifies. Based on what a person objectifies, the perceptions and categories of objectification assail him or her with regard to past, present and future forms cognizable via the eye. (MN 18.)
 
 > "What one feels, one perceives (labels in the mind). What one perceives, one thinks about. What one thinks about, one objectifies." (MN 18, [Thanissaro, Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.018.than.html))
 
-The Bahiya Sutta gives the training instruction at the same place in the chain: in reference to the seen, there will be only the seen. The practice is to stop at the contact and notice the layers being added, rather than taking the labeled version for the world. (Bahiya Sutta.)
+The Bahiya Sutta gives a training instruction that reads as the counter-move to that chain: in reference to the seen, there will be only the seen. It can be tried by stopping at the contact and noticing the later layers as they are added, rather than taking the labeled version for the world. (Bahiya Sutta.)
 
 > "In reference to the seen, there will be only the seen. In reference to the heard, only the heard. In reference to the sensed, only the sensed. In reference to the cognized, only the cognized." (Udana 1.10, [Thanissaro, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/ud/ud.1.10.than.html))
 
 **Plain words**
-Take one perception you are confident about today and ask what it is made of. The chain runs: contact, feeling, label, story. Each step adds something the previous step did not contain. The exercise is to catch the chain at the label and ask what the moment was before the label arrived. Hold the answer as a hypothesis, because the next link is already forming.
+Take one perception you are confident about today and ask what it is made of. The chain runs: contact, feeling, label, story. The exercise is to catch the chain before the label arrives and notice the addition as it is being added. Hold the answer as a hypothesis, because the next link is already forming.
 
-*For example:* Imagine a neutral email read as hostile after a bruising meeting. Checking the chain would mean asking what the message said before the bruise interpreted it.
+*For example:* Imagine rereading a message you found hostile after a bruising meeting, and asking what the words said before the bruise supplied the interpretation.
 
 ## Sources
 
