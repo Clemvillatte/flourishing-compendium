@@ -27,7 +27,7 @@
    ]
   },
   "s1b-002": {
-   "status": "qc_pending",
+   "status": "ready",
    "angle": "B088: repeated pursuit becomes inclination; two seasonal cowherds; votes are qualitative analogy, not measured increments",
    "history": [
     {
@@ -43,9 +43,14 @@
      "t": "2026-10-20T14:32:26+00:00",
      "to": "qc_pending",
      "note": "Independent first-candidate review and re-review substantive PASS; full canonical outcome and votes-limit revisions applied"
+    },
+    {
+     "t": "2026-10-20T14:32:52+00:00",
+     "to": "ready",
+     "note": "Substantive advisor PASS; 0 validator errors; exact quote and explicit limits; supervisor-only integration"
     }
    ]
   }
  },
- "updated": "2026-10-20T14:32:26+00:00"
+ "updated": "2026-10-20T14:32:52+00:00"
 }
