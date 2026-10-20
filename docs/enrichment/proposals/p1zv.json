@@ -1,0 +1,18 @@
+{
+ "batch": "p1zv",
+ "revision": 1,
+ "reciprocal": [
+  {
+   "into": "Truthfulness",
+   "link": "S076",
+   "why": "A principle on the Stoic pairing of plain speech with honesty",
+   "notes": "S076 (2026-10-21, worker-p1zv-95f93b33): hub inspected, content/concepts/Truthfulness.md has no S076 occurrence; grounded in S076's Ench. 46 and Med. III.5/XI.15 quotes verified against the opened carriers."
+  },
+  {
+   "into": "Plain words over beautiful",
+   "link": "S076",
+   "why": "A principle on the Stoic rule against studied ornament in words",
+   "notes": "S076 (2026-10-21, worker-p1zv-95f93b33): hub inspected, content/concepts/Plain words over beautiful.md cites no S-principles; grounded in S076's Med. III.5 'studied ornament' quote verified against the opened Gutenberg Long text."
+  }
+ ]
+}
