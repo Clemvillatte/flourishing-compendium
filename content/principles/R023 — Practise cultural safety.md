@@ -12,13 +12,21 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 285** — Practise cultural safety
 
-Create environments where people can be their full cultural selves without fear of discrimination or erasure. Cultural safety is not merely awareness of difference but the active creation of spaces where all cultures are respected and valued.
+The term comes from Aotearoa New Zealand nursing, and its definition moves the power to the recipient of care: cultural safety is "the effective nursing practice of a person or family from another culture, and is determined by that person or family" ([Nursing Council of New Zealand, 2011](https://storage.googleapis.com/wzukusers/user-18072845/documents/59774082800f467288dbefcb41f80eba/02b%20Handbook%20for%20Cultural%20Safety%20in%20Healthcare%20settings.pdf)). Not the practitioner's good intentions. The practitioner's own work is spelled out in the same guidelines: the nurse "will have undertaken a process of reflection on his or her own cultural identity and will recognise the impact that his or her personal culture has on his or her professional practice" (Nursing Council of New Zealand, 2011).
 
-(Aboriginal SEWB framework; Dudgeon et al., 2014, Working Together; Nursing Council of New Zealand, 2011, "Guidelines for Cultural Safety.")
+The Australian SEWB tradition frames the same point from the community side. Its guiding principles include "the need for cultural understanding", "the right to self-determination" and "recognition of cultural diversity" ([Gee et al. 2014, in Dudgeon, Milroy and Walker, eds.](https://www.thekids.org.au/globalassets/media/documents/aboriginal-health/working-together-second-edition/wt-part-1-chapt-4-final.pdf)). The chapter's history is blunt about what the absence looks like: mental health services "designed and controlled by the dominant society for the dominant society" failed "to recognise or adapt programs to Aboriginal beliefs or law, causing a huge gap between service provider and user" (NAHS Working Party, as quoted in Gee et al. 2014).
 
-**Plain words** Build spaces where people can be fully themselves — their culture, their language, their names — without flinching. Cultural safety isn't "awareness of difference"; it's the active work of making a room where nobody has to leave part of themselves at the door.
+(Nursing Council of New Zealand, 2011; Dudgeon et al., 2014; Aboriginal SEWB framework.)
 
-*For example:* The clinic that stops requiring people to explain their family structure like an anomaly — and finds appointments get shorter because the first ten minutes of defensiveness disappear.
+**Plain words** Cultural safety flips who decides whether a room is safe: the person walking into it, not the person hosting. The host's job is the uncomfortable half, noticing their own culture, its defaults and its blind spots, and what those do to people who do not share them. Awareness is the entry ticket; the work is changing what you do once you have noticed.
+
+*For example:* The clinic that stops treating a patient's family structure as something to be explained and excused; the first ten minutes of the appointment stop being spent on defence.
+
+## Sources
+
+- [Nursing Council of New Zealand 2011, "Guidelines for Cultural Safety, the Treaty of Waitangi and Maori Health in Nursing Education and Practice," hosted full-text copy](https://storage.googleapis.com/wzukusers/user-18072845/documents/59774082800f467288dbefcb41f80eba/02b%20Handbook%20for%20Cultural%20Safety%20in%20Healthcare%20settings.pdf) — definition of cultural safety, reflection requirement, definition of unsafe practice
+- [Gee, Dudgeon, Schultz, Hart and Kelly 2014, "Aboriginal and Torres Strait Islander Social and Emotional Wellbeing," chapter 4 of Dudgeon, Milroy and Walker (eds.), Working Together 2nd ed.](https://www.thekids.org.au/globalassets/media/documents/aboriginal-health/working-together-second-edition/wt-part-1-chapt-4-final.pdf) — nine SEWB guiding principles, SEWB definition, NAHS history passage
+
 ## Psychology parallels
 
 - **[[Psychological safety|Psychological safety]]** (Edmondson, 1999)
