@@ -32,6 +32,10 @@ In a stalled argument, the soft move is to ask what the other person actually ne
 
 - [The Tao Teh King, James Legge translation, Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt) — chapters 36, 43, 76, 78
 
+## Stories
+
+- [[ST339 — Jigoro Kano Turns the Push|339. Jigoro Kano Turns the Push]]
+
 ## Psychology parallels
 
 - **[[Psychological flexibility|Psychological flexibility]]**, the capacity to adapt behavior to context outperforms rigid control-based coping on nearly every outcome (Kashdan and Rottenberg, 2010)

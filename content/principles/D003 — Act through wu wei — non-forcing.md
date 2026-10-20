@@ -25,6 +25,7 @@ Chapter 48 puts it as subtraction: "He who devotes himself to learning (seeks) f
 *For example:* Imagine a teacher who sets a problem and lets the students wrestle with it instead of directing every step.
 
 ## Stories
+- [[ST339 — Jigoro Kano Turns the Push|339. Jigoro Kano Turns the Push]]
 
 - [[ST002 — The Butterfly Dream|2. The Butterfly Dream]]
 - [[ST003 — The Useless Tree|3. The Useless Tree]]

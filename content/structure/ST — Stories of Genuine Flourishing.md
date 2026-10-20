@@ -47,6 +47,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "", 
     - [[ST028 — Eliud Kipchoge Runs 1 — 59]]
     - [[ST029 — Phil Connors Stops Fighting the Day]]
     - [[ST030 — Federer's Effortlessness]]
+    - [[ST339 — Jigoro Kano Turns the Push]]
   - [[ST-S01.05 — I.5 Psychological Freedom — Identity, Emotion, Death, Meaning]]
     - [[ST031 — Zhuangzi Drums on a Basin]]
     - [[ST032 — The Skull by the Road]]

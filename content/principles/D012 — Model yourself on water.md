@@ -38,6 +38,10 @@ Suppose a meeting has ended without a clear record of its decisions. You offer t
 
 - [[K211 — Acts of kindness|K211 Acts of kindness]]
 - [[K248 — Positive greetings|K248 Positive greetings]]
+## Stories
+
+- [[ST339 — Jigoro Kano Turns the Push|339. Jigoro Kano Turns the Push]]
+
 ## Psychology parallels
 
 - **[[Urge surfing|Urge surfing]]**, riding impulses like waves rather than damming them (Bowen et al., 2011)

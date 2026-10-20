@@ -22,6 +22,9 @@ The key move is the last line. Destiny does not claim credit either — "when we
 
 *For example:* Two applicants send near-identical resumes to the same role. One gets the call because the hiring manager was in a particular mood on a Tuesday. The other is exactly as qualified. Nothing about the outcome changes what either of them could have done that morning — and the one who does not read the rejection as a personal verdict keeps their skill intact for the next application.
 
+## Stories
+
+
 ## Psychology parallels
 
 - **[[Secondary control|Secondary control]]**, adjusting the self rather than the world buffers distress (Rothbaum et al., 1982)
