@@ -13,6 +13,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 - **mind and its limits** — Apperly, 2011
 
+## Related concepts
+
+- [[Perspective-getting]] — getting another's perspective directly rather than imagining it from outside
+
 ## Sources
 
 - Baron-Cohen, 1995

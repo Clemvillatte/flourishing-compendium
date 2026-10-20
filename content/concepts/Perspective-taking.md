@@ -16,6 +16,10 @@ The distinction to hold: taking a perspective is not agreeing with it, and it is
 An example at its smallest: before replying to an email that stung, one sentence written from the sender's likely constraints — not to excuse, but to model.
 
 Its affective sibling is [[Empathy]], its cognitive substrate [[Theory of mind]], its Confucian form [[Shu]].
+## Related concepts
+
+- [[Perspective-getting]] — getting another's perspective directly rather than imagining it from outside
+
 ## Sources
 
 - Galinsky et al., 2008

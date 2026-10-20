@@ -11,8 +11,9 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 ## Related concepts
 
-- [[Associated living]] — listed for comparison
 
+- [[Associated living]] — listed for comparison
+- [[Perspective-getting]] — getting another's perspective directly rather than imagining it from outside
 ## Sources
 
 - Buber, I and Thou
