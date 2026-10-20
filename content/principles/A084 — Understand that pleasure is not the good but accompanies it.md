@@ -12,13 +12,19 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 84** — Understand that pleasure is not the good but accompanies it
 
-Pleasure is not the highest good, but it is not irrelevant. It accompanies the good life as a companion, not as a master. Let pleasure follow virtue, not lead it.
+The Nicomachean Ethics gives pleasure two long stretches near the end, and the conclusion is the title's distinction. Those who make pleasure the chief good are answered in passing: everyone weaves pleasure into their ideal of happiness, and reasonably so, "for no activity is perfect when it is impeded, and happiness is a perfect thing"; that is why the happy life is thought pleasant. But the analysis puts pleasure in the accompanying role: pleasure completes an activity not by immanence, like the permanent state, but as an end that supervenes, the quotation below. The good is the activity; pleasure arrives with it, when object and faculty are both at their best.
 
-(NE I.8, X.2, X.5; EE II.8.)
+(NE X, Ross; EE II.8 not opened.)
 
-**Plain words** Pleasure walks beside the good life as a companion, not the boss. Aristotle says to let it follow virtue, not lead it. When pleasure leads, you get dragged. When it follows, you enjoy the good life you're building.
+> Pleasure completes the activity not as the corresponding permanent state does, by its immanence, but as an end which supervenes as the bloom of youth does on those in the flower of their age.
+>
+> Aristotle, Nicomachean Ethics, Book X, translated by W. D. Ross, [full text](https://people.bu.edu/wwildman/courses/wphil/readings/wphil_rdg09_nichomacheanethics_entire.htm).
 
-*For example:* Enjoying the evening after finishing something hard feels different from enjoying an evening to avoid it.
+**Plain words**
+Aristotle is not against pleasure. The good thing is the activity itself, and pleasure arrives along with it when the activity goes well, the way a good run brings the runner's high rather than the high being the point of lacing up. The mistake the chapter corrects is treating the accompanying feeling as the goal.
+
+**For example**
+Enjoying the evening after finishing something hard feels different from arranging the evening to avoid the hard thing.
 
 ## Psychology parallels
 
@@ -29,6 +35,10 @@ Pleasure is not the highest good, but it is not irrelevant. It accompanies the g
 
 - **[[Eudaimonia|Eudaimonia as activity, not pleasure]]** (Aristotle, NE I.7)
 - **[[Katastematic pleasure|Katastematic pleasure]]** (Epicurus, Key Doctrines)
+
+## Sources
+
+- [Nicomachean Ethics, Ross translation, full text (people.bu.edu mirror)](https://people.bu.edu/wwildman/courses/wphil/readings/wphil_rdg09_nichomacheanethics_entire.htm) — Book X, the pleasure discussion
 
 <!-- fc: reflections
 Where does pleasure lead your choices instead of following them? How do you notice?
