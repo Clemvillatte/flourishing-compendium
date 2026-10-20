@@ -522,3 +522,25 @@ convention).
   self (deg 5), Stewardship (deg 1).
 - Saturation: fast-track exemption; no reciprocal proposed.
 - QC: validator ok.
+
+## Ecological grief
+
+- Track: fast-track, current degree 6 (1 book + 1 kernel + 1 layer + 1
+  principle + 1 section). Start transition recorded and pushed before
+  research.
+- Opened: https://pmc.ncbi.nlm.nih.gov/articles/PMC7830022/ (Comtesse,
+  Ertl, Hengst, Rosner and Smid 2021, Int J Environ Res Public Health
+  18(2):734), fetched 2026-10-20.
+- Quotations, copied from the fetched page: the Cunsolo and Ellis (2018,
+  p. 275) definition (blockquote, inner quote verbatim); "closely overlaps
+  with ecological grief in terms of triggering conditions, phenomenology
+  and conceptual foundations"; "may be regarded as a sub-concept of
+  ecological grief"; "few shared phenomenological features".
+- The Cunsolo and Ellis 2018 original (Nature Climate Change 8:275-281)
+  and Cunsolo and Landman's Mourning Nature were NOT opened; the page
+  cites the definition via the opened review's quotation, stated as such.
+- The seed's "## Facets" section ("and climate anxiety") preserved as
+  found. Related concept verified to exist: Solastalgia (deg 1); the
+  related-clause grounding is the review's own sub-concept statement.
+- Saturation: fast-track exemption; no reciprocal proposed.
+- QC: validator ok.
