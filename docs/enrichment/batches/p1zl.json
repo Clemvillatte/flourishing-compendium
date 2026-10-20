@@ -27,11 +27,12 @@
   "K019",
   "K011",
   "K013",
-  "CO080"
+  "CO080",
+  "E018"
  ],
- "in_progress": null,
+ "in_progress": "E075",
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T10:06:42+00:00"
+ "updated": "2026-10-20T10:07:21+00:00"
 }
