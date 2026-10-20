@@ -13,7 +13,8 @@
   "K032",
   "K062",
   "K067",
-  "K007"
+  "K007",
+  "K017"
  ],
  "in_progress": null,
  "flagged": {
@@ -21,10 +22,11 @@
   "K027": "inherited psychology bullet (mindfulness transfer to daily activity): 'informal practice moments add to formal sitting' — not verified from opened sources this session; needs verification or scope narrowing",
   "K028": "inherited psychology bullet (Fredrickson et al. 2008; Klimecki et al. 2013): loving-kindness/compassion findings cited as parallels — tonglen-specific evidence and precise claim scope not verified this session; needs supervisor verification or narrowing",
   "K032": "Reopened for QC: QC correction: milestone round 2 repairs (overreach removal, quote fidelity)",
-  "K054": "inherited psychology bullet (Yeager et al. 2014): 'purpose-framed goals outperform ego-framed ones' — precise claim not verified from the opened study this session; needs supervisor verification or narrowing"
+  "K054": "inherited psychology bullet (Yeager et al. 2014): 'purpose-framed goals outperform ego-framed ones' — precise claim not verified from the opened study this session; needs supervisor verification or narrowing",
+  "K017": "inherited psychology bullet (Martell et al. 2010 behavioral activation): 'withdrawal maintains depression' — precise claim not verified from the opened study this session; needs supervisor verification or narrowing"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T12:50:11+00:00",
+ "updated": "2026-10-20T12:51:06+00:00",
  "band_done": false
 }
