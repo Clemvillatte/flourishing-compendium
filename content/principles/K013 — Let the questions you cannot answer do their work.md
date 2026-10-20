@@ -20,7 +20,7 @@ The case itself is one question and one word. A monk asks, "Does a dog have Budd
 
 The practice is to keep the question alive and to refuse both quick answers. Mumon names the two quick answers to avoid: reading Mu as "nothingness" and reading it as "being" or "non-being." The Stanford Encyclopedia records that Nishida passed this koan after nearly a decade of Zen practice ([Stanford Encyclopedia, "Kyoto School", section 3.2](https://plato.stanford.edu/entries/kyoto-school/)).
 
-The entry's two sample questions, "who am I when no role is active?" and "what is this before I name it?", and its link to [[The unexamined life|the unexamined life]] are the compendium's own, not Mumon's. The Nishitani reference in the original entry was not confirmed in the sources opened.
+The entry's two sample questions, "who am I when no role is active?" and "what is this before I name it?", and its link to the [[The unexamined life|unexamined life]] are the compendium's own, not Mumon's. The Nishitani reference in the original entry was not confirmed in the sources opened.
 
 **Plain words** A question like Mu is not there to be answered quickly. It is there to be carried, day and night, without settling for the first neat reply. Mumon warns off two quick replies in particular. Pick one open question of your own and keep it open on purpose.
 
