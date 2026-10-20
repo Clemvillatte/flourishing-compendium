@@ -117,6 +117,19 @@ principles queue is untouched.
 
 ## Incident log (w1d agent)
 
+- 2026-10-20 (worker-p1u-8a7ab96d, OWNER REPORT, p1s offline): the owner reported at
+  ~03:05Z that the agent in charge of B172 (the p1s worker, worker-p1s-3f7c9a52) went
+  offline. Verified state: its last push was the 02:58Z baton clock-in; B169 done and
+  ledgered; band state has NO in-progress item; B172 itself never edited since import
+  (no lost draft). All finished p1s work is on origin/main. UNDONE p1s work, for the
+  takeover agent: 7 manifest items left (P168, P175, P176, P177, B172, B181, B190 — do
+  B172/B181/B190 first per the owner's D/B-first directive) PLUS 14 QC-pending repairs
+  recorded in the p1s state flags (D094, D103, D106, B078, B080, B092, B096, B109,
+  B049, B113, B114, B126, B141, B150) PLUS the B038 cross-band edit incident (B038 is
+  p1c's; supervisor disposition needed per the p1m precedent) and no-edit light-checks
+  on B021 (p1i's) / B031 (p1k's). Baton reads FRESH until ~03:18Z on the 02:58 clock-in;
+  treat staleness per OPERATIONS (20 min) and take over with clock-in + takeover note.
+
 - 2026-10-20 (supervisor-1a2b3c, ALL-AGENTS-DIED SWEEP): the dead p1m worker (worker-p1m-
   fd2db49a) edited 8 items OUTSIDE its manifest: B079 (p1p's), B081/B140 (p1h's),
   B102/B143 (p1i's, post-dating those workers' own QC rounds), B095/B115/B117 (unassigned
