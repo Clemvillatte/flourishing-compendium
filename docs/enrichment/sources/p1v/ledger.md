@@ -136,11 +136,11 @@ opened text at the recorded URL.
 - Verified verbatim: verses 23-24 as quoted on the page (verse-per-line
   slashes in the page blockquote are formatting; wording exact).
 - LIMITS: the vow-as-structure reading is labelled as the compendium's
-  reading; the chapter presents the vow formula itself. "Spoken before the
-  buddhas as witnesses" reflects the chapter's framing (v. 24 context; the
-  Lotsawa House text has the vow ritual in this chapter; the surrounding
-  verses 25-34 include "Now with buddhas as my witness" in the search
-  snippet, not re-verified on the page fetch). Inherited psychology parallel
+  reading; the chapter presents the vow formula itself. An earlier draft
+  attributed the vow "to the buddhas as witnesses"; that attribution was NOT
+  verified in the fetched passage (the "Now with buddhas as my witness" line
+  appeared only in a search snippet) and has been REMOVED from the body
+  (advisor QC, item-10 round). Inherited psychology parallel
   (Damon; Steger 2012) and philosophy parallels (Kierkegaard knight of faith)
   preserved untouched and NOT verified this session.
 
@@ -224,3 +224,24 @@ opened text at the recorded URL.
   the B032 ledger (unverified SN 48 absence claim). All repairs applied this
   checkpoint; validators re-run clean on all four files. Acceptance review of
   the repaired passages is pending the next advisor round.
+
+## Item-10 milestone closure evidence (2026-10-20)
+
+- B032 sentence "any faculty grown too strong stops the rest..." removed
+  (over-generalized vs the excerpt's mindfulness exception); B155 duplicated
+  gradual-training sentence removed and "for others' good" moved into the
+  opening sentence; B197 "difficult colleague, done with attention" paragraph
+  replaced with the advisor's routine-activity sentence; P186 locator now
+  carries printed p. 50.
+- Baseline preservation check: all 10 worked pages validated against the
+  pre-content claim commit b3a5516a with --base, full output retained, exit 0
+  (10 checked, 0 failed; only the standard no-Related-concepts warning). The
+  validator's baseline checks cover front matter, principle statements,
+  original wikilink markup and reflections.
+- Saturation scans run for the remaining items (core terms: seagull, way of
+  Heaven, lightly promises, five faculties, bodhicitta, walking meditation,
+  wash the dishes, worry, suicide, value conflict). D111's linked [[I and Thou]]
+  concept resolves OK. Relevant ecosystem pages exist and already cite these
+  principles (Bodhicitta cites B155; P126 cites Goal conflict research and
+  Value pluralism; B170 wash-the-dishes principle exists separately); no new
+  reciprocal proposals warranted.

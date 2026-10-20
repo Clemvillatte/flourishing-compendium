@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 155** — Take the vow: commit beyond your comfort
 
-Shantideva's Guide to the Bodhisattva's Way of Life reaches its third chapter with a vow: to arouse bodhicitta and, like the buddhas of former ages, to train in stages. The vow commits to gradual training, in stages. (Shantideva, Bodhicaryavatara 3.)
+Shantideva's Guide to the Bodhisattva's Way of Life reaches its third chapter with a vow: to arouse bodhicitta for others' good and, like the buddhas of former ages, to train in stages. (Shantideva, Bodhicaryavatara 3.)
 
 > "Just as the sugatas of former ages, / Aroused bodhicitta and then, in stages, / Trained themselves in skilful practice, / On the genuine path of the bodhisattvas, / Like them, I take this sacred vow: / To arouse bodhicitta here and now, / And train myself for others' good, / Gradually, as a bodhisattva should." (Bodhicaryavatara 3.23-24, [Pearcey](https://www.lotsawahouse.org/indian-masters/shantideva/bodhicharyavatara-3))
 

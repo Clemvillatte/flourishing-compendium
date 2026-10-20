@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 32** — Balance the five faculties
 
-The Buddha's requisites of awakening include five faculties: faith, energy, mindfulness, concentration and wisdom. The commentarial tradition pairs them: faith with wisdom, and energy with concentration, each pair holding the other's excess in check. The Visuddhimagga explains that any faculty grown too strong stops the rest from doing their work. (SN 48; Visuddhimagga, in Conze.)
+The Buddha's requisites of awakening include five faculties: faith, energy, mindfulness, concentration and wisdom. The commentarial tradition pairs them: faith with wisdom, and energy with concentration, each pair holding the other's excess in check. (SN 48; Visuddhimagga, in Conze.)
 
 > "For if the faith faculty is strong and the others weak, then the vigor faculty cannot perform its function of exerting, the mindfulness faculty its function of attending to the object, the concentration faculty its function of excluding distraction, the wisdom faculty its function of seeing." (Visuddhimagga, in [Conze](https://accesstoinsight.org/lib/authors/conze/wheel065.html))
 

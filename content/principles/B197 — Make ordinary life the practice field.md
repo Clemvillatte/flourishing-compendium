@@ -18,7 +18,7 @@ Two Buddhist sources put the practice where the day already is. Thich Nhat Hanh 
 
 > "Zhaozhou asked Nanquan: 'What is the Way?' Nanquan said: 'Ordinary mind is the Way.' Zhaozhou said: 'So should I try to get toward it?' Nanquan said: 'If you try, you move away from it.'" (Gateless Gate 19, [ZenBorder translation](https://www.zenborder.com/koans/))
 
-The compendium's exercise narrows the teaching to the daily task: the dishes, the commute or the difficult colleague, done with attention, are the practice field for that hour.
+The compendium adapts this into an exercise in attending to one routine activity, such as washing dishes or making a familiar journey.
 
 **Plain words**
 Take the task you most want to finish quickly, dishes or emails or the commute. Do it once with the attention on the doing itself: the water, the keys, the breath. Choose an activity already on today's schedule.

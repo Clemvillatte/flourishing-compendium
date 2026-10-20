@@ -14,7 +14,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 
 In "Is Life Worth Living?", this passage immediately follows James's reference to a person contemplating suicide and to an evil that person has left unremedied. His discussion distinguishes the general fact of evil from particular evils. (James, "Is Life Worth Living?".)
 
-> "The submission which you demand of yourself to the general fact of evil in the world, your apparent acquiescence in it, is here nothing but the conviction that evil at large is none of your business until your business with your private particular evils is liquidated and settled up." (James, [The Will to Believe and Other Essays](https://www.gutenberg.org/cache/epub/26659/pg26659.txt))
+> "The submission which you demand of yourself to the general fact of evil in the world, your apparent acquiescence in it, is here nothing but the conviction that evil at large is none of your business until your business with your private particular evils is liquidated and settled up." (James, The Will to Believe and Other Essays, printed p. 50, [Gutenberg](https://www.gutenberg.org/cache/epub/26659/pg26659.txt))
 
 The compendium adapts the passage into an exercise in attending to an unfinished responsibility: identify something specific you can help put right.
 
