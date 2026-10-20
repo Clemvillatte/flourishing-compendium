@@ -135,6 +135,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "", 
     - [[ST099 — Whitehead's Many Become One]]
     - [[ST100 — Apollo 13 Builds the Scrubber]]
     - [[ST101 — Lauren Olamina Organises Around Change]]
+    - [[ST341 — I, Pencil]]
   - [[ST-S03.02 — III.2 Meaning, Truth, and Workability]]
     - [[ST102 — Peirce's Maxim]]
     - [[ST103 — James and the Cash Value of Ideas]]

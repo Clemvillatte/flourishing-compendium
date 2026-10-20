@@ -22,6 +22,10 @@ The chapter's second half extends the point with a claim about interference itse
 
 *For example:* Two managers run the same team. One checks in daily, adjusts constantly, and cannot understand why the team never develops its own judgement. The other sets the boundary once and stops touching it; the team develops, and the results arrive without the manager's hand on the wheel. Same team; only one of them is cooking a small fish.
 
+## Stories
+
+- [[ST341 — I, Pencil|341. I, Pencil]]
+
 ## Psychology parallels
 
 - **[[Autonomy-supportive management research|Autonomy-supportive management research]]** (Deci and Ryan, 2000)

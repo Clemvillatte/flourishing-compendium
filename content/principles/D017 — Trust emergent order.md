@@ -28,6 +28,10 @@ Think of something that grew without you managing it: a friendship, a garden, a 
 - [Laozi, Dao De Jing, chapters 37 and 57 (James Legge, 1891), Sacred Texts Archive](https://www.sacred-texts.com/tao/taote.htm) — verbatim quotes (Drive library file unmapped; web edition fallback)
 - [Deci, Koestner & Ryan, "A Meta-Analytic Review of Experiments Examining the Effects of Extrinsic Rewards on Intrinsic Motivation," Psychological Bulletin 125 (1999) (PubMed)](https://pubmed.ncbi.nlm.nih.gov/10589297/) — 128-study meta-analysis, reward undermining and feedback effects
 
+## Stories
+
+- [[ST341 — I, Pencil|341. I, Pencil]]
+
 ## Psychology parallels
 
 - **Autonomy support versus control**, supported self-organization outperforms external control for motivation and growth (Deci and Ryan, 2000)

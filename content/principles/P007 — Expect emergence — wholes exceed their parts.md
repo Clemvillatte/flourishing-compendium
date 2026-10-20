@@ -35,6 +35,10 @@ Morgan states the condition of what he calls emergent evolution:
 - [Alexander, Space, Time and Deity, Mead Project edition](https://brocku.ca/MeadProject/Alexander/Alexander_18.html) — Bk III, Ch. 2
 - [Morgan, Emergent Evolution, Mead Project edition](https://brocku.ca/MeadProject/Morgan/Morgan_1923/Morgan02_01.html) — Lecture 1
 
+## Stories
+
+- [[ST341 — I, Pencil|341. I, Pencil]]
+
 ## Psychology parallels
 
 - **[[Dynamic systems theory|Dynamic systems theory]]** (Thelen and Smith, 1994)
