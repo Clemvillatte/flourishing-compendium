@@ -23,8 +23,8 @@ The simile sits in a discourse about clinging to views, alongside the simile of 
 
 - [[B127 — Dismantle the raft when you've crossed]] — the principle that works the simile directly
 - [[B014 — Use views as tools, not possessions (the raft)]] — the simile applied to views
-- [[B128 — Let go of both the teaching and what it was made of]]
-- [[BI070 — The generalisable core, not the ritual packaging]]
+- [[B128 — Don't cling even to the teaching (dharma-grasping)]]
+- [[BI070 — Recognise when body-based practices are insufficient — clinical conditions]]
 
 ## Facets
 
@@ -33,6 +33,7 @@ The simile sits in a discourse about clinging to views, alongside the simile of 
 
 ## Related concepts
 
+- [[B021 — Orient with right view]] — the view the raft is meant to carry across
 - [[Skillful means (upaya)]] — the Lotus Sutra's term for teaching fitted to the hearer
 ## Sources
 
@@ -41,8 +42,8 @@ The simile sits in a discourse about clinging to views, alongside the simile of 
 - Buddhism, the Dhamma
 - Bhikkhu Bodhi trans. Middle Length Discourses
 
-[[B128 — Let go of both the teaching and what it was made of]]
-[[BI070 — The generalisable core, not the ritual packaging]]
+[[B128 — Don't cling even to the teaching (dharma-grasping)]]
+[[BI070 — Recognise when body-based practices are insufficient — clinical conditions]]
 ## Cited in philosophy parallels
 
 - [[B127 — Dismantle the raft when you've crossed]]
