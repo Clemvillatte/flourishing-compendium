@@ -256,3 +256,16 @@ never-band-assigned work; p1g state had them flagged-only, absent from p1g's man
   sacred-texts splits by chapter groups; left as inherited with this flag.
 - Saturation: reciprocal links confirmed in Natural goodness of the unformed human, Moral
   emotions, Natural virtue, Moral cultivation (xiushen) (all list R059). No new proposal warranted.
+
+## R064 — Practise reciprocity (shu)
+- Full work: verbatim quotes added (Analects 15.24 Tsze-kung/RECIPROCITY; 12.2 "not to do
+  to others as you would not wish done to yourself"; 6.30 establish/enlarge others for the
+  positive form), all verified against the opened Legge text at sacred-texts.com/cfu/conf1.htm.
+  Positive-form claim now grounded in 6.30 (citation line updated to include it; previously
+  the positive form was asserted without a locatable source). Plain words rewritten as
+  re-derivation (landing test). For-example kept. Sources section added.
+- Flags: Doctrine of the Mean ch. 13 (inherited citation line) not opened this session —
+  the compendium's positive/negative framing is now carried by Analects 6.30/15.24 instead;
+  Zhongyong citation left as inherited with this flag.
+- Saturation: reciprocal links confirmed in Empathic concern, Fredrickson's positivity
+  portfolios, The doctrine of the mean, Perspective-taking (all list R064). No new proposal warranted.
