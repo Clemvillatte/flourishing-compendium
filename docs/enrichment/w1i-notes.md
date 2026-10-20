@@ -154,7 +154,10 @@ pushed: Stress mindset (altered quotation fixed to begin at "participants";
 well-being gains (activities quotation fixed, overgeneralization deleted,
 seed-provenance assertion removed, variety moderator passage verified against
 the 2013 chapter and quoted verbatim). Item 1: first advisor review FAIL; repairs applied; explicit re-review
-pending.
+FAIL with bounded repairs in round 3 (unverified survey-studies evidence
+description removed, Cognitive-dissonance and Status-quo-bias glosses
+narrowed, inline citations added to factual sentences), repairs applied and
+pushed; re-review PASS requested.
 
 Milestone-ten advisor review (scoped to items 6-10): FAIL with bounded
 repairs, all applied this round. Item 10: opening false contrast replaced,
