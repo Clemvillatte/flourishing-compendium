@@ -219,6 +219,31 @@
       "into": "Dialogue",
       "link": "Associated living",
       "why": "Dialogue is the communication Dewey makes primary to conjoint experience."
+    },
+    {
+      "into": "Growth mindset",
+      "link": "Education as growth",
+      "why": "Growth mindset is the belief side of Dewey's growth reading of ability."
+    },
+    {
+      "into": "Habit formation",
+      "link": "Education as growth",
+      "why": "Habit formation is the mechanism by which capacities are built over time."
+    },
+    {
+      "into": "Mastery orientation",
+      "link": "Education as growth",
+      "why": "Mastery orientation is the goal structure that keeps growth intrinsic."
+    },
+    {
+      "into": "Learning by doing",
+      "link": "Education as growth",
+      "why": "Learning by doing is the pedagogical method of the growth view."
+    },
+    {
+      "into": "Anti-authoritarian inquiry",
+      "link": "Education as growth",
+      "why": "Inquiry over received answers belongs to the same Deweyan tradition."
     }
   ],
   "inline": [
