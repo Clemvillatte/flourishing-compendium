@@ -12,13 +12,13 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 82** — The seal of attained liberty is to no longer be ashamed of oneself
 
-The mark of attained liberty is not the absence of flaws but the absence of global self-shame. When you can look at your whole self — strengths and weaknesses together — without flinching or hiding, that is the seal. It is distinct from self-acceptance: acceptance is the practice; liberty is what arrives when the shame drops.
+Nietzsche poses this as a question with a one-line answer: "What is the Seal of Attained Liberty?--To be no longer ashamed of oneself" (Nietzsche, The Joyful Wisdom 275, trans. Common). The aphorism closes a short series on shame: he calls bad "him who always wants to put others to shame" (273) and names sparing a person shame the most humane thing he knows (274). Attained liberty, in this series, is the end of a private war. A person still ashamed of themselves keeps a guard posted, editing what others may see. When the shame lifts, the whole self can be seen, weaknesses included, and nothing has to be managed in secret. Self-acceptance work is how people usually get here; the liberty is the arrival.
 
-(Nietzsche, The Gay Science 275.)
+**Plain words**
+Shame that covers the whole self is expensive. It makes you dodge people, steer conversations away from certain years, and perform a tidier version of who you are. Nietzsche's test is plain: can you stand in front of yourself, all of it, without looking away? The people who pass are rarely the flawless ones; they are the ones who stopped paying the hiding tax.
 
-**Plain words** The mark of real liberty isn't flawlessness — it's being able to look at your whole self, weaknesses included, without flinching or hiding. Acceptance is the exercise; this is what it's for. When the global shame drops, you can finally use the feedback.
+*For example:* A founder spends years steering conversations away from her failed first company. Asked about it in an interview, she describes it plainly instead. Nothing about the failure changed; what changed is that it no longer needs a guard.
 
-*For example:* Someone who spends years hiding their failed first business, then mentions it plainly in an interview — and the flaw, out in the open, stops running their life from the shadows.
 ## Psychology parallels
 
 - **Shame vs guilt (Tangney)**, shame targets the global self and predicts worse outcomes than guilt (conceptual parallel; Tangney and Dearing, 2002)
@@ -26,7 +26,7 @@ The mark of attained liberty is not the absence of flaws but the absence of glob
 
 ## Practice
 
-- Ask: where in my life am I still hiding — from others or from myself — out of shame? Name one place. The liberty is not the fixing; it is the no-longer-hiding.
+- Ask where you are still hiding out of shame, from others or from yourself, and name one place to one person this week. The exercise is the naming; the liberty shows up when the hiding is no longer needed.
 
 ## Limits
 

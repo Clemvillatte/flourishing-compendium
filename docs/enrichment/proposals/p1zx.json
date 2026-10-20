@@ -1,0 +1,24 @@
+{
+ "batch": "p1zx",
+ "revision": 1,
+ "reciprocal": [
+  {
+   "into": "Shame",
+   "link": "SE082",
+   "why": "names liberty, the end of global self-shame, as the goal the shame work on this page points toward",
+   "notes": "Shame.md's own body already groups SE082 with the shame principles (line 24, 'ethical and spiritual claims'); the reciprocal makes the link structural. Evidence: SE082 quote verified verbatim vs opened Gutenberg 52124 (Common, Joyful Wisdom aph. 275) 2026-10-20."
+  },
+  {
+   "into": "BE034 — Learn approach behaviours for shame — show up, do not hide",
+   "link": "SE082",
+   "why": "practises the showing-up that SE082 describes as the seal of attained liberty",
+   "notes": "BE034's own practice line ('When ashamed, do not obey the urge to hide. Show up') pairs with SE082's no-longer-hiding. Evidence: BE034 body read this session; SE082 quote verified vs opened Gutenberg 52124."
+  },
+  {
+   "into": "E068 — Practise being-for-others",
+   "link": "SE082",
+   "why": "Sartre's account of shame before the Other gives the condition SE082's liberty ends",
+   "notes": "E068 quotes Sartre 1992, 221-2 'I am ashamed of myself as I appear to the Other'. Evidence: E068 body read this session; SE082 verified vs Gutenberg 52124."
+  }
+ ]
+}

@@ -26,3 +26,11 @@ Opened (Project Gutenberg plain text): Joyful Wisdom (Common trans., #52881), Tw
 - GS §276 and §324 verbatim (Common). TI "What I Owe to the Ancients" §5 "saying of Yea to life ... inexhaustibleness": verbatim (Ludovici spelling). EH "Why I Am So Clever" §10 (Cohn): "formula for greatness in man", "a man wishes nothing to be different ... for all eternity", "loved": verbatim (Gutenberg OCR prints "is! amor fati"; not quoted).
 - Removed inherited unsupported claim "affirmation is the highest form of the will to power" (not found in the passages opened; Will to power link kept, with an explicit note that the passages do not state the connection). Dropped locators GS §321 (the Common text at 321 is about punishing/blaming, not affirmation) and Zarathustra songs (not opened).
 - Diener et al. parallel untouched, not certified.
+
+## SE082 — The seal of attained liberty is to no longer be ashamed of oneself
+
+Opened: Nietzsche, The Joyful Wisdom, trans. Thomas Common, Project Gutenberg ebook 52124 (https://www.gutenberg.org/ebooks/52124), raw text downloaded and grepped this session.
+- Aphorism 275 "What is the Seal of Attained Liberty?--To be no longer ashamed of oneself." verbatim; full title-answer form quoted in body. Context aphorisms 273 ("Him who always wants to put others to shame") and 274 ("To spare a person shame") verbatim, cited as the series the principle closes.
+- Rewrite: killed not-X-but-Y opener and em dashes; Plain words re-derived (hiding-tax framing, no body-phrase reuse); For example concretised; Practice line's closer fixed. Links, front-matter, quote section untouched.
+- Reciprocal proposals queued in proposals/p1zx.json rev 1 (Shame concept, BE034, E068) with evidence notes.
+- Advisor QC: first item of this session, see OPERATIONS QC log.
