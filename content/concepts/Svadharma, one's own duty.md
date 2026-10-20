@@ -9,9 +9,9 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Svadharma, one's own duty” — BG 3.35.
 
-Svadharma (Sanskrit स्वधर्म, "one's own duty") is the Bhagavad Gita's term for the duty that belongs to one's own nature and station. In the Gita's third chapter it carries Krishna's answer to Arjuna's refusal to fight: better to do one's own work imperfectly than another's perfectly, because another's path is dangerous. The verse the concept rests on:
+In the Wisdom Library translation of Bhagavad Gita 3.35, svadharma is rendered as one's prescribed duties. The verse favours performing those duties imperfectly over performing another's perfectly ([Bhagavad Gita 3.35](https://www.wisdomlib.org/hinduism/book/shrimad-bhagavad-gita/d/doc419847.html)):
 
-> "It is far better to execute one's prescribed duties, even though imperfectly, than to perform another's duty perfectly. It is better to die discharging one's own duty in accordance with the *varṇāśrama* system than to engage in another's duty, for it is dangerous to follow another's path." (Bhagavad Gita 3.35, [Wisdom Library](https://www.wisdomlib.org/hinduism/book/shrimad-bhagavad-gita/d/doc419847.html))
+> "It is far better to execute one's prescribed duties, even though imperfectly, than to perform another's duty perfectly. It is better to die discharging one's own duty in accordance with the varṇāśrama system than to engage in another's duty, for it is dangerous to follow another's path." (Bhagavad Gita 3.35, [Wisdom Library](https://www.wisdomlib.org/hinduism/book/shrimad-bhagavad-gita/d/doc419847.html))
 
 ### In the compendium
 
