@@ -49,13 +49,12 @@
   "AT051",
   "AT063",
   "AT067",
-  "BE072",
   "BI004",
   "BI010",
   "CO002",
   "AT075"
  ],
- "in_progress": null,
+ "in_progress": "BE072",
  "flagged": {
   "D007": "inherited psych claims (Peng/Nisbett, Spencer-Rodgers) not verified; preserved per protocol",
   "D014": "Reopened for QC: milestone QC round 3: evidence scoping repairs",
@@ -93,10 +92,11 @@
   "AT051": "Reopened for QC: advisor milestone QC FAIL: allocation description, bias-training overreach, unsupported generalization, two-week exercise not verified",
   "AT063": "Reopened for QC: advisor milestone QC FAIL: audit narration, overstated group distinction, self-test framing, unopened replication evidence",
   "AT067": "Reopened for QC: advisor milestone QC FAIL: moderation-to-pattern bridge, audit narration, blanket law framing",
-  "AT075": "Reopened for QC: advisor QC FAIL: ADHD-specific descriptions used as general threshold; staging; Faraone copy-paraphrase"
+  "AT075": "Reopened for QC: advisor QC FAIL: ADHD-specific descriptions used as general threshold; staging; Faraone copy-paraphrase",
+  "BE072": "Reopened for QC: advisor QC FAIL: intention-gap diagnostic rule, exhaustive-science framing, rhetorical scaffolding"
  },
  "missing_concepts": [],
  "sources_checked": 15,
- "updated": "2026-10-20T03:52:57+00:00",
+ "updated": "2026-10-20T03:53:13+00:00",
  "band_done": false
 }
