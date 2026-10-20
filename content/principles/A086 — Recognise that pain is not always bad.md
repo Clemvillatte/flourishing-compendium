@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 86** — Recognise that pain is not always bad
 
-Book II of the Ethics argues that moral excellence is concerned with pleasures and pains: it is on account of pleasure that we do bad things, and on account of pain that we abstain from noble ones, so the right education trains us "both to delight in and to be pained by the things that we ought" (II.3). Book II also gives the sign: the pleasure or pain that follows an act shows the state of character behind it. Book VII sorts the badness: "some pain is without qualification bad, and other pain is bad because it is in some respect an impediment to us" (VII.13). II.3's training point carries the principle's work: being pained by what one ought is part of the trained response, which is a different thing from the idea that suffering benefits. The compendium's exercise: ask of a given pain whether it is the appropriate response, or one of the two bad kinds.
+Book II of the Ethics argues that moral excellence is concerned with pleasures and pains: it is on account of pleasure that we do bad things, and on account of pain that we abstain from noble ones, so the right education trains us "both to delight in and to be pained by the things that we ought" (II.3). Book II also gives the sign: the pleasure or pain that follows an act shows the state of character behind it. Book VII sorts the badness: "some pain is without qualification bad, and other pain is bad because it is in some respect an impediment to us" (VII.13). II.3 says education should teach us to be pained by the things we ought. VII.13 distinguishes two ways in which pain is bad. As a compendium exercise, ask these questions separately: what does this pain respond to, and in what sense is it bad?
 
 (NE II.3, VII.13, Ross.)
 
@@ -21,7 +21,7 @@ Book II of the Ethics argues that moral excellence is concerned with pleasures a
 > Aristotle, Nicomachean Ethics II.3, translated by W. D. Ross, [full text](https://people.bu.edu/wwildman/courses/wphil/readings/wphil_rdg09_nichomacheanethics_entire.htm).
 
 **Plain words**
-The Ethics says two things that need holding together. Pain is bad: some without qualification, some because it impedes. And II.3 trains both to delight in and to be pained by what we ought, so an appropriate pain at the right thing is part of a trained response, not a harm. The checking question for a given pain is which of these it is.
+The Ethics says two things that need holding together. Pain is bad: some without qualification, some because it impedes. And II.3 says education should teach us to be pained by the things we ought. The two questions to ask separately of a given pain: what does it respond to, and in what sense is it bad?
 
 **For example**
 In an imagined application, two people keep the same rule; one is annoyed by keeping it, the other comes to delight in keeping it. Aristotle's sign of character is which of the two is happening.
