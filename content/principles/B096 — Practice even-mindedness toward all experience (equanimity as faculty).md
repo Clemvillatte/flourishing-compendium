@@ -12,13 +12,21 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 96** — Practice even-mindedness toward all experience (equanimity as faculty)
 
-Balance doesn't mean indifference: it means a mind that neither grips pleasure nor flees pain, staying present to both.
+AN 8.6 sets the problem as the eight worldly conditions that spin after the world: gain, loss, status, disgrace, censure, praise, pleasure and pain. Both the uninstructed person and the well-instructed disciple meet all eight. The difference is what the mind does with them: the uninstructed person welcomes the arisen gain and rebels against the arisen loss, while the instructed disciple, reflecting that each is "inconstant, stressful, & subject to change", does not welcome or rebel, and his mind is not consumed by any of the eight. (AN 8.6.) SN 46 lists equanimity among the seven factors for awakening. (SN 46.51.)
 
-(AN 8.6; SN 46.)
+> "He welcomes the arisen gain and rebels against the arisen loss. He welcomes the arisen status and rebels against the arisen disgrace. He welcomes the arisen praise and rebels against the arisen censure. He welcomes the arisen pleasure and rebels against the arisen pain." (AN 8.6, [Thanissaro](https://www.accesstoinsight.org/tipitaka/an/an08/an08.006.than.html))
 
-**Plain words** Balance doesn't mean indifference — it means a mind that neither grips pleasure nor flees pain, staying present to both. The equanimous person feels everything; they just don't get thrown by it. Still water, full contact.
+The compendium's application: even-mindedness here is not a dampening of feeling. The sutta's disciple meets the same eight conditions as everyone else; what changes is the welcoming-and-rebelling.
 
-*For example:* The parent at the child's recital — fully there for the wobbles and the triumphs, gripping neither.
+**Plain words**
+Notice the two moves your mind makes when news arrives: it grabs the good news and pushes against the bad. The practice is a third move: neither. Feel the thing, name its size, and note that it is one of the conditions that change. You will still feel the wobble and the win; you stop being thrown by either.
+
+*For example:* Imagine a parent at a child's recital, fully there for the wobbles and the triumphs, gripping neither.
+
+## Sources
+
+- [AN 8.6, Lokavipatti Sutta, Thanissaro translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/an/an08/an08.006.than.html) — the eight worldly conditions
+- [SN 46.51, Ahara Sutta, Thanissaro translation, Access to Insight](https://accesstoinsight.org/tipitaka/sn/sn46/sn46.051.than.html) — equanimity as a factor for awakening
 
 ## Psychology parallels
 

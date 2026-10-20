@@ -316,3 +316,17 @@ source; anything not opened is recorded as inherited and unverified.
   compendium exercise. Fredrickson claim tail trimmed to a bare attribution.
 - Saturation: no new reciprocals; Metta and Hostility research already the
   linked targets.
+
+### B096 — Practice even-mindedness toward all experience (equanimity as faculty) (2026-10-20)
+- Opened: AN 8.6 Lokavipatti Sutta (Thanissaro, accesstoinsight) and SN 46.51
+  (Thanissaro, already-fetched page). The welcoming-and-rebelling blockquote
+  (four contiguous sentences) verified verbatim against the fetched AN 8.6
+  text; the instructed disciple's reflection fragment ("inconstant,
+  stressful, & subject to change") verified verbatim.
+- Seed's "Still water, full contact" and "The equanimous person feels
+  everything" are the compendium's gloss; replaced with the labelled
+  application grounded in the sutta's welcoming/rebelling contrast. Desbordes/
+  Gross/Aristotle/Epictetus inherited entries left as found (bare
+  attributions already).
+- Saturation: no new reciprocals; Equanimity and the mean are already the
+  linked targets.
