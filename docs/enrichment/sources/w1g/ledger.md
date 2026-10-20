@@ -1396,3 +1396,29 @@ Advisor QC found batch-level and per-item issues; all repaired. Findings and rep
   namespace-audit entry. Saturation: skipped per fast-track §1a (degree 10
   < 15); no cross-link proposals filed. Advisor QC: not due (item 6; next at
   item 10).
+
+## Attention management (2026-10-20, worker-p1zs-7a4e2c91, fast-track; degree 12 — eligible)
+
+- OPENED: Leroy 2009 full text via the Scribd document copy
+  (https://www.scribd.com/document/856551539/c-Coek-Info-Why-is-It-So-Hard-to-Do-My-Work-the-Challenge-of-a-1)
+  — blockquote ("Time pressure is needed on a completed task to reduce attention
+  residue when people switch to a next task.") and the definition sentence
+  ("Attention residue refers to cognitions about a Task A that persist even
+  though one has stopped working on Task A, transitioned to Task B, and is now
+  working on Task B.") verified verbatim on the opened document; the
+  finishing-not-enough/time-pressure finding paraphrased from the same
+  document. ScienceDirect abstract page blocked (bad robots); Scribd carrier
+  disclosed in the Sources link.
+- Boundary with the existing Attention residue concept page (w1c's, rich):
+  this page carries the management frame (sequencing, capture, transitions) and
+  links to the residue page for the mechanism; no duplication of its abstract
+  blockquote (different Leroy sentence used here).
+- The seed's malformed Related line for D024 preserved ([[D024]] token
+  unchanged; clause rewritten reader-facing). All seed Cited-in links kept as
+  found; In-the-compendium clauses grounded in the principle pages' own quoted
+  material (AT018 Duckworth-Gendler-Gross, AT003 Kaplan-Berman, AT035
+  Killingsworth-Gilbert, S087 Seneca, S129 Epictetus, D024/D134 Legge DDJ,
+  Y049/Y048 Woods YS via enrich_find context).
+- IS-IT-A-CONCEPT check: named practice construct; no namespace-audit entry.
+- Saturation: skipped per fast-track §1a (degree 12 < 15); no cross-link
+  proposals filed. Advisor QC: not due (item 7; next at item 10).
