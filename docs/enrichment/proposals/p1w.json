@@ -2,6 +2,11 @@
  "inline": [],
  "reciprocal": [
   {
+   "into": "Habit",
+   "link": "R053 — Practise li (ritual propriety)",
+   "why": "Ritual practice is compared with Aristotle's account of habituation, with knowledge, choice and disposition distinguished from mechanical repetition."
+  },
+  {
    "into": "Ubuntu",
    "link": "R009 — Practise respect for elders",
    "why": "Mangena's account connects respect for elders with passing communal values and experience between generations."

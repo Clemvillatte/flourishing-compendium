@@ -12,18 +12,26 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 315** — Practise li (ritual propriety)
 
-Engage in ritual and ceremony as a means of cultivating virtue and social harmony. Li is not mere etiquette; it is the embodied practice of respect, reverence, and order. Through ritual, you train your emotions, align your behaviour with moral ideals, and participate in the communal life.
+Confucius makes the practice of [[Li: ritual propriety|Li]] answer to the humanity of the person performing it ([Analects III.3](https://classics.mit.edu/Confucius/analects.1.1.html)).
 
-(Confucius, The Analects 12.1, 12.15; Xunzi, Xunzi 19.)
+> "If a man be without the virtues proper to humanity, what has he to do with the rites of propriety?" (Analects III.3, [James Legge translation](https://classics.mit.edu/Confucius/analects.1.1.html)).
 
-**Plain words** Li is ritual propriety: the embodied practice of respect — ceremony, forms, the way things are done. Not empty etiquette: through ritual you train the emotions and take part in a shared order. The form is the workout.
+His account of mourning puts genuine sorrow ahead of minute observance, while his account of festive ceremony prefers sparing expenditure to extravagance; a correct-looking performance can miss what matters ([Analects III.4](https://classics.mit.edu/Confucius/analects.1.1.html)).
 
-*For example:* The family that keeps the birthday dinner ritual — same table, same toast, same awful song — and finds the ritual carries a depth of feeling that "quality time" never seems to deliver.
+**Plain words** Before making a ceremony more elaborate, consider whom its forms are meant to honour. Keeping the schedule is not enough if the person at the centre has been left out.
+
+*For example:* Suppose your family keeps a birthday dinner tradition. When the guest of honour can no longer follow conversation over loud music, you change the arrangement rather than insist that respect means doing everything exactly as before.
 ## Psychology parallels
 
-- **[[Ritual|Ritual and well-being]]** (Hobson et al., 2018)
+- **[[Ritual|Ritual and well-being]]**: Hobson and colleagues organise ritual research around emotion, performance goals and social connection; these possible regulatory functions do not establish that every ritual is morally good ([2018 review abstract](https://pubmed.ncbi.nlm.nih.gov/29130838/)).
 
 ## Philosophy parallels
 
-- **[[Li: ritual propriety|Ritual propriety]]** (Confucius, The Analects)
-- **[[Habit|Habit and virtue]]** (Aristotle, Nicomachean Ethics II.1)- **[[Li: ritual propriety|Li]]** (Relational traditions)
+- **[[Li: ritual propriety|Ritual propriety]]**: forms of conduct remain answerable to humane feeling, rather than replacing it ([Analects III.3–4](https://classics.mit.edu/Confucius/analects.1.1.html)).
+- **[[Habit|Habit and virtue]]**: Aristotle connects character with repeated action, but also requires knowledge, choice and a settled disposition; outward repetition is not the whole account ([Nicomachean Ethics II.1, II.4, W. D. Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html)).
+
+## Sources
+
+- [Confucius, Analects III.3–4, translated by James Legge, MIT Internet Classics Archive](https://classics.mit.edu/Confucius/analects.1.1.html): exact quotation and ceremonial priorities.
+- [Aristotle, Nicomachean Ethics II.1 and II.4, translated by W. D. Ross, MIT Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html): habituation and the conditions of virtuous action.
+- [Hobson, Schroeder, Risen, Xygalatas and Inzlicht, The Psychology of Rituals (2018), PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/29130838/): integrative regulatory framework.
