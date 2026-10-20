@@ -1,6 +1,6 @@
 {
  "batch": "p1zy",
- "revision": 5,
+ "revision": 6,
  "reciprocal": [
   {
    "into": "Samskara",
@@ -25,6 +25,12 @@
    "link": "Y054",
    "why": "the principle carries this page's own definition with the king-bee simile and the sutra's fruit",
    "notes": "Pratyahara concept page (opened this session) does not cite Y054; grounded in the target's title concept and Y054's verified Woods quotes (2.54-2.55, pp. 197-198)."
+  },
+  {
+   "into": "Hope",
+   "link": "Y064",
+   "why": "the Yoga chain begins where Snyder's theory begins: an approval of the practice that fuels goal-directed energy and holds the goal in memory",
+   "notes": "Hope concept page (opened this session) carries a detailed sourced Snyder section with agency as goal-directed energy; it does not cite Y064."
   }
  ],
  "inline": [],
