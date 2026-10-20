@@ -76,6 +76,27 @@
       "phrase": "the affective basis of right speech",
       "why": "The Metta concept page's body (line 12) states metta 'is the antidote to ill will (hindrance 2, B080) and the affective basis of right speech (B148)' in plain text; the Right speech page now links Metta in Related with the same clause. The Metta page has no [[Right speech]] wikilink (rg-verified).",
       "_audit_why": "Metta page read via rg with line numbers; phrase verbatim at line 12; no existing Right speech link"
+    },
+    {
+      "into": "P160",
+      "concept": "Self-as-context",
+      "phrase": "That second position is self-as-context",
+      "why": "P160's Plain words (line 31) explains the two positions and names the second 'self-as-context' in plain text; the Self-as-context concept page is the compendium's page for the term. P160 currently has no [[Self-as-context]] wikilink (rg-verified).",
+      "_audit_why": "P160 file read via rg with line numbers; phrase verbatim at line 31; no existing Self-as-context link"
+    },
+    {
+      "into": "PP081",
+      "concept": "Self-as-context",
+      "phrase": "contact with the present moment, self-as-context",
+      "why": "PP081's body (line 19) lists the six trained processes including 'self-as-context' in plain text; the concept page is the compendium's page for that process. PP081 currently has no [[Self-as-context]] wikilink (rg-verified).",
+      "_audit_why": "PP081 file read via rg with line numbers; phrase verbatim at line 19; no existing Self-as-context link"
+    },
+    {
+      "into": "The observing self",
+      "concept": "Self-as-context",
+      "phrase": "self-as-context, the perspective from which experience is noticed",
+      "why": "The observing self concept page (line 22) describes ACT's related move as 'self-as-context, the perspective from which experience is noticed, developed through defusion and mindfulness' in plain text; the Self-as-context page links The observing self in Related as the converging concept. The page has no [[Self-as-context]] wikilink (rg-verified).",
+      "_audit_why": "The observing self page read via rg with line numbers; phrase verbatim at line 22; no existing Self-as-context link"
     }
   ],
   "reciprocal": [
