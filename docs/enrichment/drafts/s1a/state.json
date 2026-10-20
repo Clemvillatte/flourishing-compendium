@@ -35,7 +35,52 @@
      "note": "round-3 final; advisor verdict ready-for-supervisor-review"
     }
    ]
+  },
+  "s1a-003": {
+   "status": "drafting",
+   "angle": "D039: Heschel — the shrine the Nazis could not burn; rest as the root the week travels from",
+   "history": [
+    {
+     "t": "2026-10-20T13:18:09+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-20T13:18:31+00:00",
+     "to": "drafting",
+     "note": ""
+    }
+   ]
+  },
+  "s1a-004": {
+   "status": "drafting",
+   "angle": "D156: the pagoda sways like a willow — Hōryū-ji flexibility vs rigidity",
+   "history": [
+    {
+     "t": "2026-10-20T13:18:09+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-20T13:18:31+00:00",
+     "to": "drafting",
+     "note": ""
+    }
+   ]
+  },
+  "s1a-005": {
+   "status": "drafting",
+   "angle": "B074: the Buddha returns the insult — Akkosa Sutta, thoughts as declined offerings",
+   "history": [
+    {
+     "t": "2026-10-20T13:18:09+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-20T13:18:31+00:00",
+     "to": "drafting",
+     "note": ""
+    }
+   ]
   }
  },
- "updated": "2026-10-20T13:10:00+00:00"
+ "updated": "2026-10-20T13:18:31+00:00"
 }
