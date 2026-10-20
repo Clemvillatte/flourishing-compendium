@@ -12,13 +12,21 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 314** — Practise yi (righteousness/justice)
 
-Do what is right in every situation. Yi is the virtue of moral rightness, the disposition to do what justice requires. It is not rule-following but the practical wisdom to see what is right and do it.
+In James Legge's translation of the Analects, Confucius says: "The superior man, in the world, does not set his mind either for anything, or against anything; what is right he will follow" (4.10). That is not a rule list. He holds no fixed position for or against, and follows what is right as the case shows it. He also separates the person who looks to yi from the one who looks to profit: "The mind of the superior man is conversant with righteousness; the mind of the mean man is conversant with gain" (4.16). Doing what is right takes nerve as well as sight: "To see what is right and not to do it is want of courage" (2.24) (Confucius, Analects, trans. James Legge, [Project Gutenberg](https://www.gutenberg.org/cache/epub/3330/pg3330.html)).
 
-(Confucius, The Analects 4.10, 4.16; Mencius, The Mencius 2A2, 6A10.)
+Mencius pushes the point to its limit in Legge's rendering of 6A10: "I like life, and I also like righteousness. If I cannot keep the two together, I will let life go, and choose righteousness". He adds that "there is that which I like more than life, and therefore, I will not seek to possess it by any improper ways" (Mencius 6A10, trans. Legge, via the [University of Virginia XWomen text](https://www2.iath.virginia.edu/saxon/servlet/SaxonServlet?source=xwomen/texts/mencius.xml&style=xwomen/xsl/dynaxml.xsl&chunk.id=d2.11&toc.id=d2.11&doc.lang=english)). I did not open Mencius 2A2.
 
-**Plain words** Yi is doing what's right when the situation itself has to show you what that means — not rule-following but right-seeing. What does justice require here? The disposition is trained one such decision at a time.
+**Plain words**
+Doing what is right means looking at the case in front of you and asking what justice requires. Seeing it is not enough, and you have to act on it. Your gain is not the test.
 
-*For example:* The referee who calls the penalty against the home crowd — the rules made it easy; yi is what makes them do it when nobody would ever know if they didn't.
+**For example**
+You notice a colleague's report credits the wrong person. You could stay quiet and keep the peace, but you speak up kindly, with the facts.
+
+## Sources
+
+- [Confucius, The Analects, trans. James Legge, Project Gutenberg #3330](https://www.gutenberg.org/cache/epub/3330/pg3330.html): opened and text-checked (Legge's chapter numbering follows the standard in Books II, IV)
+- [Mencius, Book VI Part A ch. 10, trans. Legge, University of Virginia XWomen text](https://www2.iath.virginia.edu/saxon/servlet/SaxonServlet?source=xwomen/texts/mencius.xml&style=xwomen/xsl/dynaxml.xsl&chunk.id=d2.11&toc.id=d2.11&doc.lang=english): excerpt opened via search result
+
 ## Psychology parallels
 
 - **[[Moral identity|Moral identity]]** (Blasi, 1984)

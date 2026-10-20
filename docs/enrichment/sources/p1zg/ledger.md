@@ -59,3 +59,7 @@
 ## R026
 - Te Aka Māori Dictionary, Te Ara (Māori manners and social behaviour), NEAC Māori research ethics overview (2012, excerpts via search results), Awa Association report 2020: all quotations taken from the opened excerpts.
 - Limits: Durie 1994 and Mead 2003 (inherited) not opened; only secondary/government sources; Te Ara pages direct fetch was captcha-blocked (excerpts via search). The statement's 'prioritise relationship-building in every domain' is the wiki's guidance, not from a source. Example hypothetical.
+
+## R052
+- Analects 4.10, 4.16, 2.24: Legge trans. via Gutenberg #3330 (full text fetched; 3 quotations grep-verified). Mencius 6A10 Legge via U. Virginia XWomen excerpt in search result (not full fetch; fetch of IATH page failed) and cross-read against other renderings of the same passage in search results.
+- Limits: Mencius 2A2 (inherited) not opened; ctext.org blocked by captcha; Legge's chapter numbering used (IV.X, IV.XVI, II.XXIV match standard 4.10, 4.16, 2.24). Statement's 'not rule-following but practical wisdom' is interpretive; body hedges via 4.10 wording. Example hypothetical.
