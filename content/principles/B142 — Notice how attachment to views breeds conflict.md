@@ -16,7 +16,7 @@ In MN 18, the Buddha connects the ending of "the obsessions of views" and quarre
 
 > "That is the end of taking up rods & bladed weapons, of arguments, quarrels, disputes, accusations, divisive tale-bearing, & false speech. That is where these evil, unskillful things cease without remainder." (MN 18, Thanissaro translation, [Access to Insight](https://accesstoinsight.org/tipitaka/mn/mn.018.than.html))
 
-Maha Kaccana's explanation moves through feeling, perception, thinking, and objectification, followed by perceptions and categories that assail a person ([MN 18](https://accesstoinsight.org/tipitaka/mn/mn.018.than.html)). The Dhammapada verse the seed's citation can also be read as, verse 6, settles quarrels by a different route: "There are those who do not realize that one day we all must die. But those who do realize this settle their quarrels" (Dhp 6, Buddharakkhita, [Access to Insight](https://accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html)). The compendium proposes examining one disagreement for what you have added to the other person's words. This is an application of the passage, not a claim that every argument has the same cause.
+Maha Kaccana's explanation moves through feeling, perception, thinking, and objectification, followed by perceptions and categories that assail a person ([MN 18](https://accesstoinsight.org/tipitaka/mn/mn.018.than.html)). Dhammapada 6 approaches quarrels through awareness of mortality: "There are those who do not realize that one day we all must die. But those who do realize this settle their quarrels" (Dhp 6, Buddharakkhita, [Access to Insight](https://accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html)). The compendium proposes examining one disagreement for what you have added to the other person's words. This is an application of the passage, not a claim that every argument has the same cause.
 
 ### Plain words
 
@@ -28,7 +28,7 @@ Imagine a political disagreement at dinner. Before replying, summarize the polic
 
 ## Psychology parallels
 
-- **[[Identity-protective cognition|Identity-protective cognition]]**, political and moral beliefs processed as identity threats (Kahan, 2013)
+- **[[Identity-protective cognition|Identity-protective cognition]]** (Kahan, 2013)
 - **[[Confirmation bias|Confirmation bias]]** (Nickerson, 1998)
 
 ## Philosophy parallels
