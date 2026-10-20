@@ -1,12 +1,14 @@
 {
  "batch": "p1w",
  "done": [
-  "K008",
-  "K001"
+  "K008"
  ],
- "in_progress": null,
- "flagged": {},
+ "in_progress": "K001",
+ "flagged": {
+  "K001": "Reopened for QC: QC: Maraldo-attribution, interpretation scope, Pure experience link missing"
+ },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T05:41:35+00:00"
+ "updated": "2026-10-20T05:43:12+00:00",
+ "band_done": false
 }
