@@ -11,7 +11,9 @@ Exposure and response prevention is the OCD treatment that pairs deliberate conf
 
 A clinical review describes the procedure: "ERP is a form of cognitive behavioral therapy (CBT) that involves providing psychoeducation to the patient, helping the patient confront fears or discomfort related to their obsessional thoughts (exposure), and having the patient resist performing compulsions (response prevention)" (Law and Boisseau, [2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6935308/)). The exposure can take three forms: "Patients can be exposed to actual situations (in vivo exposure), imagined situations (imaginal exposure), or the physical sensations associated with anxiety or discomfort (interoceptive exposure)" (Law and Boisseau, [2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6935308/)). The stated goal is "to challenge how a patient responds to distress and to eventually learn that feared stimuli are safe" (Law and Boisseau, [2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6935308/)).
 
-On the evidence, the same review opens: "Numerous clinical trials support the efficacy of exposure and response prevention (ERP) for the treatment of obsessive-compulsive disorder (OCD). Accordingly, ERP has been formally recognized as a first-line, evidence-based treatment for OCD." (Law and Boisseau, [2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6935308/))
+On the evidence, the same review opens:
+
+> Numerous clinical trials support the efficacy of exposure and response prevention (ERP) for the treatment of obsessive-compulsive disorder (OCD). Accordingly, ERP has been formally recognized as a first-line, evidence-based treatment for OCD. (Law and Boisseau, [2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6935308/))
 
 The compendium's interest is the structure: an action taken while the discomfort runs and the ritual is refused. The parallels below pair the halves with the compendium's own kernels.
 
@@ -29,7 +31,7 @@ The compendium's interest is the structure: an action taken while the discomfort
 
 ## Related concepts
 
-- [[Habituation]] — one classical account of what the repeated exposure produces
+- [[Habituation]] — an account of the fear decrease with repeated exposure
 - [[Fear]] — the state the treatment works on
 - [[Distress tolerance (DBT)]] — the sister skill of acting while distressed
 

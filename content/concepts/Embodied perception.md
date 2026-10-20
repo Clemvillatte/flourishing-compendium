@@ -7,13 +7,13 @@ file: "Embodied perception"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-E"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter E", "parent": ""}
 ---
-The compendium anchors embodied perception in Merleau-Ponty's Phenomenology of Perception: the perceiving body is the subject of perception, and what it perceives with is itself.
+The compendium anchors embodied perception in Merleau-Ponty's Phenomenology of Perception: in his account, the perceiving body takes its instruments into itself, so that a stick in use stops being an object and becomes part of the perceiving.
 
-His recurring example is the blind man's stick. In perception, "the blind man's stick has ceased to be an object for him, and is no longer perceived for itself; its point has become an area of sensitivity, extending the scope and active radius of touch, and providing a parallel to sight" (Merleau-Ponty, [Phenomenology of Perception, Colin Smith translation](https://archive.org/details/merleaupontyphenomenologyofperception)). The stick becomes a perceptual habit: "Once the stick has become a familiar instrument, the world of feelable things recedes and now begins, not at the outer skin of the hand, but at the end of the stick" (Merleau-Ponty, [Phenomenology of Perception, Colin Smith translation](https://archive.org/details/merleaupontyphenomenologyofperception)). The conclusion he draws:
+His recurring example is the blind man's stick. In perception, "The blind man's stick has ceased to be an object for him, and is no longer perceived for itself; its point has become an area of sensitivity, extending the scope and active radius of touch, and providing a parallel to sight" (Merleau-Ponty, [Phenomenology of Perception, Colin Smith translation](https://archive.org/details/merleaupontyphenomenologyofperception)). The stick becomes a perceptual habit: "Once the stick has become a familiar instrument, the world of feelable things recedes and now begins, not at the outer skin of the hand, but at the end of the stick" (Merleau-Ponty, [Phenomenology of Perception, Colin Smith translation](https://archive.org/details/merleaupontyphenomenologyofperception)). The conclusion he draws:
 
 > The pressures on the hand and the stick are no longer given; the stick is no longer an object perceived by the blind man, but an instrument with which he perceives. It is a bodily auxiliary, an extension of the bodily synthesis. (Merleau-Ponty, [Phenomenology of Perception, Colin Smith translation](https://archive.org/details/merleaupontyphenomenologyofperception))
 
-The compendium pairs the account with its own lived-body kernels (the Leib distinction, the body-subject) and with systems-theory parallels in which perception runs through loops that extend past the skin.
+The compendium pairs the account with its own lived-body kernels (the Leib distinction, the body-subject); the parallels below are listed for comparison.
 
 ### In the compendium
 
@@ -29,8 +29,8 @@ The compendium pairs the account with its own lived-body kernels (the Leib disti
 
 ## Related concepts
 
-- [[Body schema]] — the system the stick joins
-- [[Affordances]] — what the extended body reads in things
+- [[Body schema]] — listed for comparison
+- [[Affordances]] — listed for comparison
 
 ## Sources
 
