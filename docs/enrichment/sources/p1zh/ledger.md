@@ -38,3 +38,6 @@ No advisor tool available; QC is self-QC only.
 
 ## SO003 Use the self-culture link
 - Opened: Markus & Kitayama 1991 full text via fetch (abstract p. 224; pp. 225-228 quotes). 'Indigenous contexts' in the original is not in the passages read; dropped. FLAG: the '## Psychology parallels' section has a broken first bullet ('-  (1991); Heine et al. ...' with the name stripped) and a malformed Philosophy 'Other:' bullet; outside my edit scope (supervisor/owner to repair). Also SE052 source URL corrected to the working '?utm' form.
+
+## SO015 Use cultural self-examination as a practice
+- Opened: Tervalon & Murray-Garcia 1998 PubMed abstract (quote verbatim). Hook et al. 2013 and Forscher et al. 2019 not found/opened; Earley & Ang, Greenwald not opened. 'See the water you swim in' framing left as the entry's own. FLAG: Psychology parallels first bullet broken (names stripped), same pattern as SO003.

@@ -12,11 +12,22 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SO — Sociocul
 ---
 > **Principle 15** — Use cultural self-examination as a practice
 
-Use cultural self-examination — the deliberate examination of your own cultural assumptions, norms, and biases — as a regular practice. This is the sociocultural version of metacognition and [[Self-compassion|self-compassion]]. The aim is not self-flagellation but clarity: to see the water you swim in.
+> Cultural humility incorporates a lifelong commitment to self-evaluation and self-critique, to redressing the power imbalances in the patient-physician dynamic, and to developing mutually beneficial and nonpaternalistic clinical and advocacy partnerships with communities on behalf of individuals and defined populations.
 
-**Plain words** Examine your own culture regularly — your assumptions, norms, biases — the way you'd examine your own thinking. Not self-flagellation; just noticing that your "normal" is local. Every fish needs one lesson about water.
+(Tervalon and Murray-García, "Cultural Humility Versus Cultural Competence: A Critical Distinction in Defining Physician Training Outcomes in Multicultural Education," Journal of Health Care for the Poor and Underserved 9(2), 1998, 117-125, abstract; [PubMed](https://pubmed.ncbi.nlm.nih.gov/10073197/).)
 
-*For example:* "Obviously the couple pays for the wedding" — said as physics, is in fact one culture's arrangement. The examination doesn't require changing it; it requires knowing it's a choice.
+The authors set this against "a detached mastery of a theoretically finite body of knowledge," which they say "may not be appropriate" for this kind of training. Self-examination is the first element of what they propose as the better goal. The setting is medical education, and the paper does not claim to speak for everyday life.
+
+Reading cultural self-examination as a sociocultural form of metacognition and [[Self-compassion|self-compassion]], with the aim of seeing "the water you swim in," is this entry's framing. The abstract supports only the narrower point that self-critique can be treated as a lifelong commitment and not a finished skill.
+
+**Plain words** Ask now and then which of your "obvious" assumptions are local customs. The point is clarity about where your habits come from, and it is not a reason to feel guilty. You may keep the custom and still know it is one.
+
+*For example:* "Obviously the couple pays for the wedding" sounds like a law of nature to the person who says it, though it is a custom. Noticing that is the first step.
+
+## Sources
+
+- [Tervalon, M., & Murray-García, J. (1998). Cultural humility versus cultural competence. J Health Care Poor Underserved 9(2), 117-125](https://pubmed.ncbi.nlm.nih.gov/10073197/) — PubMed abstract opened
+
 ## Psychology parallels
 
 -  (Earley and Ang, 2003); cultural humility (Tervalon and Murray-García, 1998; Hook et al., 2013); the critique of implicit-bias training's mixed evidence (Greenwald et al., 2009; Forscher et al., 2019).
