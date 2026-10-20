@@ -160,7 +160,17 @@
      "note": ""
     }
    ]
+  },
+  "s1a-009": {
+   "status": "researching",
+   "angle": "D080: the marquis feeds a seabird as himself; generous human standards become lethal across different ways of life",
+   "history": [
+    {
+     "t": "2026-10-20T13:43:03+00:00",
+     "to": "researching"
+    }
+   ]
   }
  },
- "updated": "2026-10-20T13:36:10+00:00"
+ "updated": "2026-10-20T13:43:03+00:00"
 }
