@@ -37,5 +37,7 @@
   describes the story's actual content (oracle tested against politicians, poets,
   craftsmen), read from ST152's page.
 - Additional verbatim material fetched from the same Duke PDF (definition scope
-  paragraph; Studies 2-3 findings) to replace deleted padding. Raw (no-prompt)
-  fetch of the PDF fails to parse; the paper was re-read via extraction fetch.
+  paragraph; Studies 2-3 findings) to replace deleted padding. A raw-fetch attempt of the PDF
+  (which supplied the literal string 'null' as the prompt parameter due to the tool's
+  required-field constraint) failed to parse; the paper was re-read via a second
+  extraction fetch. Both successful reads were prompt-extracted, not raw.

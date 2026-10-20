@@ -25,3 +25,13 @@
   ("researchers who work on this form of learning believe..."), per the source's
   own wording.
 - The builder/tone analogy sentence deleted.
+
+## Advisor QC final round: residual repairs
+
+- B088/B086 bullet: "the karmic reading of the same mechanism" replaced with "the
+  compendium's Buddhist parallels on repetition and wise attention".
+- Graded-exposure Related line: mechanistic assertion removed; now marked as an
+  inherited, unverified comparison with the link preserved.
+- Authority labels replaced: "the passage the whole tradition leans on" ->
+  "Aristotle's account"; "the field's review of reviews" -> "Rankin and colleagues'
+  review".
