@@ -17,7 +17,7 @@
    ]
   },
   "s1a-002": {
-   "status": "qc_pending",
+   "status": "ready",
    "angle": "P184 twice-born: Tolstoy's crisis in A Confession (Tolstoy 1882 + James's Varieties Sick Soul)",
    "history": [
     {
@@ -28,9 +28,14 @@
      "t": "2026-10-20T13:04:01+00:00",
      "to": "qc_pending",
      "note": "round-2 revision"
+    },
+    {
+     "t": "2026-10-20T13:10:00+00:00",
+     "to": "ready",
+     "note": "round-3 final; advisor verdict ready-for-supervisor-review"
     }
    ]
   }
  },
- "updated": "2026-10-20T13:04:01+00:00"
+ "updated": "2026-10-20T13:10:00+00:00"
 }
