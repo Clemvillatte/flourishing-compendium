@@ -300,3 +300,19 @@ source; anything not opened is recorded as inherited and unverified.
   trimmed to bare attributions; Spinoza inherited entry left as found.
 - Saturation: no new reciprocals; Affect labeling and Emotion awareness are
   already the linked targets.
+
+### B080 — Meet ill will with warmth (hindrance 2) (2026-10-20)
+- Opened: MN 10 (Thanissaro, accesstoinsight), Sn 1.8 Metta Sutta
+  (Thanissaro, accesstoinsight), Dhammapada ch. 1 verses 3-5 (Buddharakkhita,
+  already-fetched dhp.01). Metta Sutta blockquote verified verbatim
+  (contiguous in the fetched text); MN 10 aversion mind-state line verified
+  verbatim; Dhp 5 verified verbatim. Note: Thanissaro's MN 10 abbreviates the
+  repeated hindrance formula, so the ill-will instance is quoted via the
+  mind-states line and the hindrance formula is described, not quoted.
+- Seed's "Fire doesn't put out fire" removed from body/plain words (not in the
+  opened sources; the Dhammapada's actual figure is hatred never appeased by
+  hatred); kept in the protected reflections as-is. "Heat met with warmth"
+  and "the acid it neutralizes" seed phrasings replaced with the labelled
+  compendium exercise. Fredrickson claim tail trimmed to a bare attribution.
+- Saturation: no new reciprocals; Metta and Hostility research already the
+  linked targets.
