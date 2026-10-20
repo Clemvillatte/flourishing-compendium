@@ -54,7 +54,8 @@
   "The unexamined life",
   "Urge surfing",
   "Art completes what nature begins",
-  "Autonomy"
+  "Autonomy",
+  "Control theory of self-regulation"
  ],
  "in_progress": null,
  "flagged": {
@@ -64,7 +65,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 7,
- "updated": "2026-10-20T06:34:56+00:00",
+ "updated": "2026-10-20T06:36:26+00:00",
  "notes": "QC round 2 (advisor): fixed quote attributions on The relational self and To the things themselves (encyclopedia paraphrases were quoted as primary text; now attributed to IEP/SEP), separated the three relational-self theories, scoped Sedikides findings, removed reader address, split long paragraphs. Caveat for the lead: some already-applied reciprocal proposals used derivation language ('therapeutic operationalisation of Deikman's observer' on Self-as-context, 'philosophical root' on I and Thou, 'same structure' on Being-with (Mitsein)); these clauses sit in other bands' files now and could be reworded to comparison language when convenient.",
  "band_done": false
 }
