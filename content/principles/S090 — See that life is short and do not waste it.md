@@ -12,13 +12,22 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 212** — See that life is short and do not waste it
 
-Seneca's On the Shortness of Life argues that life is long enough for those who use it well. The problem is not that life is short but that we waste it on trivia. Audit your time. Where does it go? Is it going where you would choose?
+Seneca's treatise opens by shifting the complaint. Life is not too short; it is wasted:
 
-(Seneca, On the Shortness of Life 1, 2, 7, 10, 14, 15, 20; Med. II.4, IV.17, VII.29, XI.1; Disc. I.1, I.4, III.3.)
+> "It is not that we have a short space of time, but that we waste much of it. Life is long enough, and it has been given in sufficiently generous measure to allow the accomplishment of the very greatest things if the whole of it is well invested." (Seneca, On the Shortness of Life 1, trans. John W. Basore, [Wikisource](https://en.wikisource.org/wiki/On_the_shortness_of_life/Chapter_I))
 
-**Plain words** Seneca says life is long enough if you use it well. The trouble isn't brevity but waste. Audit your time. Where does it go, and is that where you'd send it?
+Chapter 2 runs through the wasted lives, ending on the poet's line Seneca quotes as an oracle: "The part of life we really live is small. For all the rest of existence is not life, but merely time" (On the Shortness of Life 2). Marcus carries the same reminder in the Meditations (see the companion principle S089).
+
+(Seneca, On the Shortness of Life 1-2.)
+
+**Plain words**
+As a practical exercise, take one ordinary day and account for the hours: which went to what you chose, and which to what merely happened. The count is the treatise's whole argument in miniature.
 
 *For example:* Tracking a week in half-hour blocks and discovering that three hours a day vanish into scrolling.
+
+## Sources
+
+- [Seneca, On the Shortness of Life (John W. Basore translation, Wikisource)](https://en.wikisource.org/wiki/On_the_shortness_of_life) — chapters 1-2
 
 ## Psychology parallels
 
