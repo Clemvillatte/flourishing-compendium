@@ -66,20 +66,28 @@ rewording before filing).
 
 ## Round 4
 
-Scoped closure check submitted to the advisor with the final text (see QC
-history); verdict recorded below after the round returns.
-- Round 4 (advisor): PENDING at ledger write time.
+- Round 4 (advisor): scoped review — the exposition, three quotations, measurement
+  paragraph and corrected inline proposal PASS; one final wording repair prescribed
+  (B078 bullet reduced to the literal title-level description "asks readers to
+  name the poison on contact"), the measurement paragraph split before "Positive
+differentiation..." for the short-paragraph rule, the ledger's stale Saturation
+  paragraph corrected (five reciprocal candidates filed then withdrawn; only the
+  corrected inline proposal remains alongside the pre-existing Cultural-psychology
+  record), and the explicit preservation check vs bb4ec0a4a required before done.
+  All applied; scoped closure authorized. NOT a certification of inherited w1e
+  material — this disposition covers Emotion awareness only.
 
 ## Saturation
 
 Mention sweep run ("emotion awareness", "emotional awareness"): B078/AF005/BI053
 and the Interoception concept already link the page. One genuine unlinked use
 found: the Interoceptive awareness concept page's "interoception is the
-foundation of emotional awareness" sentence — inline proposal filed. Five
-reciprocal proposals filed for the Related-concepts lines (Emotion
-differentiation, Emotional granularity, Interoception, Emotion regulation,
-Affect labeling). The other NEW mentions are principle titles (BI009) and
-Craig-2009 quotation contexts, not concept uses.
+foundation of emotional awareness" sentence — corrected inline proposal filed
+(schema: concept key). Five reciprocal candidates for the Related-concepts lines
+were initially filed, then WITHDRAWN to the Held-reciprocal section above after
+the round-3 review; only the corrected inline proposal remains alongside the
+pre-existing Cultural-psychology record. The other NEW mentions are principle
+titles (BI009) and Craig-2009 quotation contexts, not concept uses.
 
 ## Validator
 

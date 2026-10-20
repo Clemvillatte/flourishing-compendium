@@ -17,7 +17,9 @@ Barrett and colleagues' 2001 study examined emotion differentiation: how distinc
 
 > "Individuals differ considerably in their emotion experience. Some experience emotions in a highly differentiated manner, clearly distinguishing among a variety of negative and positive discrete emotions. Others experience emotions in a relatively undifferentiated manner, treating a range of like-valence terms as interchangeable." (Barrett, Gross, Christensen & Benvenuto, Cognition and Emotion 15(6), p. 713, 2001, [full PDF](https://www.affective-science.org/wp-content/uploads/2024/04/01MaprelationDiffReg.pdf))
 
-Barrett and colleagues analysed diary ratings from 53 participants, who rated their most intense emotional experience each day for 14 days using nine affect terms. Emotion regulation was assessed through a recall-based laboratory measure obtained before the diary period. Greater negative-emotion differentiation was associated with more frequent reported regulation of negative emotions, particularly at higher emotional intensity. Positive differentiation was not significantly related to the positive-emotion regulation strategy index. These associations do not establish that teaching emotion labels improves regulation. ([Barrett et al., 2001](https://www.affective-science.org/wp-content/uploads/2024/04/01MaprelationDiffReg.pdf))
+Barrett and colleagues analysed diary ratings from 53 participants, who rated their most intense emotional experience each day for 14 days using nine affect terms. Emotion regulation was assessed through a recall-based laboratory measure obtained before the diary period. Greater negative-emotion differentiation was associated with more frequent reported regulation of negative emotions, particularly at higher emotional intensity. ([Barrett et al., 2001](https://www.affective-science.org/wp-content/uploads/2024/04/01MaprelationDiffReg.pdf))
+
+Positive differentiation was not significantly related to the positive-emotion regulation strategy index. These associations do not establish that teaching emotion labels improves regulation. ([Barrett et al., 2001](https://www.affective-science.org/wp-content/uploads/2024/04/01MaprelationDiffReg.pdf))
 
 The authors' proposed rationale:
 
@@ -25,7 +27,7 @@ The authors' proposed rationale:
 
 ### In the compendium
 
-- [[B078 — Name the poison on contact]] — asks readers to name an emotion precisely at the moment it arises
+- [[B078 — Name the poison on contact]] — asks readers to name the poison on contact
 - [[AF005 — Learn to read your own body — interoception]] — asks readers to attend to bodily signals
 - [[AT050 — Learn body scan — systematic attention through the body]] — proposes a body-scan practice
 - [[AT048 — Learn open monitoring meditation — awareness without narrow focus]] — proposes open-monitoring meditation
