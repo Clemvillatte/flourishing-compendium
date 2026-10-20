@@ -25,7 +25,8 @@
   "SP004",
   "SP006",
   "SP008",
-  "SP009"
+  "SP009",
+  "SP011"
  ],
  "in_progress": null,
  "flagged": {
@@ -53,6 +54,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T12:56:02+00:00",
+ "updated": "2026-10-20T12:56:16+00:00",
  "band_done": false
 }
