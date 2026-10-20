@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 37** — Recognise the costs of over-regulation: you can try too hard
 
-Levitt and colleagues randomly assigned 60 patients with panic disorder to acceptance, suppression or neutral audiotape conditions before a carbon dioxide challenge. The acceptance group reported less subjective anxiety and greater willingness to repeat the challenge than either other group. No differences were found between suppression and control on any measured outcome, and the acceptance advantage did not extend to self-reported panic symptoms or physiological measures. These findings concern this particular challenge in patients with panic disorder; the study did not test repeated emotional self-monitoring. ([Levitt et al., 2004, abstract](https://contextualscience.org/publications/levitt_brown_orsillo_barlow_2004))
+Levitt and colleagues randomly assigned 60 patients with panic disorder to acceptance, suppression or neutral audiotape conditions before a carbon dioxide challenge. The acceptance group reported less subjective anxiety and greater willingness to repeat the challenge than either other group. No differences were found between suppression and control on any measured outcome, and the acceptance advantage did not extend to self-reported panic symptoms or physiological measures. These findings concern a carbon dioxide challenge in patients with panic disorder; they do not establish that repeated emotional self-monitoring causes distress. ([Levitt et al., 2004, abstract](https://contextualscience.org/publications/levitt_brown_orsillo_barlow_2004))
 
 > "Use of suppression was related to more subjective anxiety during the challenge, and use of acceptance was related to more willingness to participate in a second challenge." (Levitt, J. T., Brown, T. A., Orsillo, S. M., & Barlow, D. H. (2004). The effects of acceptance versus suppression of emotion on subjective and psychophysiological response to carbon dioxide challenge in patients with panic disorder. Behavior Therapy, 35, 747-766, [abstract](https://contextualscience.org/publications/levitt_brown_orsillo_barlow_2004))
 
@@ -22,8 +22,7 @@ Levitt and colleagues randomly assigned 60 patients with panic disorder to accep
 
 ## Psychology parallels
 
-- — Aldao et al., 2015
-- — Levitt et al., 2004
+- [Acceptance versus suppression during a carbon dioxide challenge in patients with panic disorder (Levitt et al., 2004)](https://contextualscience.org/publications/levitt_brown_orsillo_barlow_2004)
 
 ## Philosophy parallels
 
