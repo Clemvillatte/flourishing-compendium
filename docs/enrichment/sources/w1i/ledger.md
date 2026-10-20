@@ -90,6 +90,9 @@ a principle reserve from the active supervisor.
   mechanism or equivalence across all named practices is asserted.
 - Saturation: fast-track exemption. All inherited links retained, no reciprocal.
 - QC: compare definition with opened abstract; validator before done.
+- Own audit after milestone-five feedback: reopened to retain the full abstract
+  sentence as a blockquote, expanded attribution, and added a sentence-case
+  subheading. Source punctuation in the quotation is verbatim.
 
 ## Sense of community
 

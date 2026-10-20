@@ -7,7 +7,13 @@ file: "Self-transcendent experiences"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-S"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-Yaden and colleagues define self-transcendent experiences as “transient mental states marked by decreased self-salience and increased feelings of connectedness” ([2017, abstract](https://journals.sagepub.com/doi/10.1037/gpr0000102)). They identify aspects of mindfulness, flow, love, awe, peak experiences and mystical-type experiences as belonging within this grouping ([abstract](https://journals.sagepub.com/doi/10.1037/gpr0000102)).
+Self-transcendent experiences are temporary states in Yaden and colleagues' framework ([2017, abstract](https://journals.sagepub.com/doi/10.1037/gpr0000102)). They identify aspects of mindfulness, flow, love, awe, peak experiences and mystical-type experiences as belonging within this grouping ([abstract](https://journals.sagepub.com/doi/10.1037/gpr0000102)).
+
+> In this integrative review, we propose a way of synthesizing these ideas into a single construct: the self-transcendent experience (STE)—defined as transient mental states marked by decreased self-salience and increased feelings of connectedness.
+>
+> David Bryce Yaden and colleagues, “The Varieties of Self-Transcendent Experience,” [abstract](https://journals.sagepub.com/doi/10.1037/gpr0000102).
+
+### A proposed framework
 
 Their integrative review proposes an organizational framework and possible psychological and neurobiological mechanisms for these experiences ([Yaden et al., 2017](https://journals.sagepub.com/doi/10.1037/gpr0000102)). The authors identify further empirical research as needed to develop the account ([abstract](https://journals.sagepub.com/doi/10.1037/gpr0000102)).
 
