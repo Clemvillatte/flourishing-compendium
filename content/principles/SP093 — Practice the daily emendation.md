@@ -12,13 +12,17 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 93** — Practice the daily emendation
 
-The Ethics' method condensed into a daily discipline: one affect per day, named, separated from its external cause, connected to ordered thought, and converted where possible into action. This is the tradition's own version of the modern practice loop, and it needs no special state, only the five minutes at day's end. Practically, keep a one-line ledger: the day's strongest affect, its object, its cause, and one sentence of understanding gained.
+The remedies of Ethics Part V, read in sequence, are the method this principle turns into a daily discipline. The hinge is the third proposition:
 
-(Ethics V, P2-P10, the remedies as a sequence; marked as an adaptation of the sequence into a daily practice.)
+> "An emotion, which is a passion, ceases to be a passion, as soon as we form a clear and distinct idea thereof." (Spinoza, Ethics V, Prop. III, [Wikisource text](https://en.wikisource.org/wiki/Ethics_(Spinoza)/Part_5))
 
-**Plain words** The daily emendation: one affect per day — named, separated from its external cause, connected to ordered thought, converted where possible into action. The tradition's own version of the modern practice log. Small, daily, one emotion at a time.
+A passion, for Spinoza, is a confused idea the mind suffers rather than thinks. Forming a clear and distinct idea of it is what ends the suffering, which is why the emendation is an intellectual act and not a mood shift. The surrounding propositions fill in the rest of the sequence: separating the emotion from the thought of its external cause destroys the love or hatred aimed at that cause (Prop. II); understanding things as necessary increases the mind's power over the emotions (Prop. VI); and a mind not assailed by contrary emotions can order its experience according to the intellect (Prop. X). The daily practice is the compendium's adaptation of that sequence: keep a one-line ledger of the day's strongest affect, its object, its cause, and one sentence of understanding gained. No special state is required, only the five minutes at day's end.
 
-*For example:* The evening notebook: today's irritation, named ("fear of the review, blocked striving"), stripped of the boss's face, filed under understanding, converted into tomorrow's prep. Five minutes. The whole system, miniaturised.
+**Plain words**
+Pick the strongest feeling of the day and put it into words precise enough that a stranger would recognise it. Bad feelings run on vagueness: "everything is ruined" is harder to work with than "I am afraid the review will go badly". Stating it exactly is already half of what Spinoza prescribes. What remains is asking what actually caused it, what it was aimed at, and what follows from it.
+
+*For example (imagined):* The evening notebook: today's irritation named ("fear of the review, blocked striving"), its cause written down without the boss's face attached, one sentence on what it was actually about, and the piece of tomorrow's prep that answers it.
+
 ## Psychology parallels
 
 - **Daily self-monitoring and [[Affect labeling|affect labeling]]**, the combination of tracking and naming as an intervention (Lally et al., 2010, for the tracking habit; Lieberman et al., 2007, for labeling)
@@ -31,3 +35,7 @@ The Ethics' method condensed into a daily discipline: one affect per day, named,
 ## Related concepts
 
 - [[S120]] — SP093 ends each day by naming one affect and converting it to action; S120 carries the Senecan review that finds what needs correcting.
+
+## Sources
+
+- [Spinoza, Ethics, Part V (Wikisource text; Props. II, III, VI, X)](https://en.wikisource.org/wiki/Ethics_(Spinoza)/Part_5)
