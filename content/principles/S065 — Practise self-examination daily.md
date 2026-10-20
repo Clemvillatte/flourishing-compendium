@@ -12,13 +12,23 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 187** — Practise self-examination daily
 
-Marcus's Meditations is a self-examination journal. Each entry is a practice of reviewing his thoughts, impulses, and actions. Adopt this practice: at the end of each day, review what you did, what you thought, and where you drifted. The review is not self-punishment but calibration.
+The Meditations opens as a review of debts: "From my grandfather Verus I learned good morals and the government of my temper" (Med. I.1, Casaubon) — Marcus examining what he received from each person in his life. Seneca states the daily practice and its rationale:
 
-(Med. I.1, II.1, III.1, V.1; Seneca, Letters 83; Disc. III.10, III.23.)
+> "I shall keep watching myself continually, and—a most useful habit—shall review each day. For this is what makes us wicked: that no one of us looks back over his own life." (Seneca, Moral Letters 83, Gummere)
 
-**Plain words** Marcus's Meditations is a self-examination notebook: reviewing thoughts, impulses and actions. Do the same at day's end: what did I do, what did I think, where did I drift? It's not punishment, it's calibration.
+The review is not self-punishment but calibration: what did I do, what did I think, where did I drift. Seneca's closing reason carries it: "our plans for the future always depend on the past" — you cannot steer what you never look at.
+
+(Med. I.1; Seneca, Letters 83.)
+
+**Plain words**
+Two questions at day's end beat an hour of vague guilt: what did I actually do today, and which parts would I redo? Seneca's case for the habit is plain — nobody improves what they never look back over, and tomorrow's plans depend on what happened today. Keep the tone of a mechanic checking a machine, not a judge sentencing one. A notebook helps because writing forces the review to be specific.
 
 *For example:* Five minutes before bed with a notebook: what went well, what I'd redo.
+
+## Sources
+
+- [Seneca, Moral Letters to Lucilius, Letter 83 (Gummere, Loeb Vol. II), Internet Archive full text](https://archive.org/details/ad-lucilium-epistulae-morales) — the daily self-review and its rationale
+- [Marcus Aurelius, Meditations (Meric Casaubon translation, 1634), Project Gutenberg](https://www.gutenberg.org/files/2680/2680-0.txt) — I.1, the opening review of debts
 
 ## Psychology parallels
 
