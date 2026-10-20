@@ -25,7 +25,7 @@ The first number on the table does a job on the second number you form. It is no
 
 ## Sources
 
-- [Tversky & Kahneman, "Judgment under uncertainty: heuristics and biases," Science 185(4157): 1124-1131 (1974)](https://stanford.edu/~jlmcc/Presentations/tversky_kahneman_1974.pdf) — Adjustment and Anchoring section, printed p. 1128 (page image located the passage and confirmed the quoted sentence cleanly; the phrase "starting points" in the adjacent sentences carried damaged glyphs in both the text extraction and the page image, so only the cleanly verified sentence is quoted)
+- [Tversky & Kahneman, "Judgment under uncertainty: heuristics and biases," Science 185(4157): 1124-1131 (1974)](https://stanford.edu/~jlmcc/Presentations/tversky_kahneman_1974.pdf) — Adjustment and Anchoring section, printed p. 1128
 
 ## Psychology parallels
 
