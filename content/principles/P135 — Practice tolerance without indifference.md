@@ -12,22 +12,22 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 135** — Practice tolerance without indifference
 
-The essay William James rated above his other short pieces argues that each of us is blind to the inner life of everyone else, and that this blindness has a moral consequence. His summary of what the whole discourse amounts to:
+In "On a Certain Blindness in Human Beings," James argues that we have limited insight into the lives of people unlike ourselves, and that this has a moral consequence. His summary of what the discourse amounts to:
 
 > "Hands off: neither the whole of truth nor the whole of good is revealed to any single observer, although each observer gains a partial superiority of insight from the peculiar position in which he stands." (James, "On a Certain Blindness in Human Beings," Talks to Teachers, [Gutenberg](https://www.gutenberg.org/ebooks/16287))
 
-In the follow-up essay, "What Makes a Life Significant," he draws the practical rule from it, calling the blindness "the basis of all our tolerance, social, religious, and political":
+In the following essay, James identifies recognition of these otherwise unseen meanings as "the basis of all our tolerance, social, religious, and political," and draws the practical rule:
 
 > "The first thing to learn in intercourse with others is non-interference with their own peculiar ways of being happy, provided those ways do not assume to interfere by violence with ours." (James, "What Makes a Life Significant," Talks to Teachers, [Gutenberg](https://www.gutenberg.org/ebooks/16287))
 
-The compendium's reading: tolerance on this ground cannot be indifference, because James's reason for tolerating is that the other person's life is real and full of meanings the spectator cannot see. Indifference writes those meanings off. And his "partial superiority" clause cuts both ways: your own position also sees something theirs does not, which keeps the conversation going rather than ending it.
+The compendium's proposed practice: tolerance on this ground is not indifference, because James's reason for tolerating is that the other person's life holds meanings the spectator cannot see, and indifference writes those meanings off. His "partial superiority" clause also gives each position something the others lack, which is a reason to keep the conversation going rather than a license to end it.
 
-The compendium's exercise: the next time you are about to dismiss how someone spends their time, name one thing their position sees that yours does not. If you can name nothing, that is the blindness the essay describes, and the ground for tolerating rather than judging.
+The compendium's exercise: the next time you are about to dismiss how someone spends their time, ask what the activity means to them, or ask them directly, before concluding that it means nothing.
 
 **Plain words**
-You cannot see inside another person's life; you only see your view of it. That is the reason not to interfere with how they are happy, as long as it does not interfere with you. It is not a reason to stop caring what they think. Their view sees things yours does not, and the argument still happens.
+Other people's interests can matter deeply to them even when they leave you cold. Before dismissing one as pointless, ask what you may be missing. James asks for respect for harmless ways of being happy.
 
-*For example:* Two neighbors with opposing lawn signs argue across the fence twice a year and borrow each other's tools monthly. On James's account each side sees something the other does not.
+*For example:* Imagine two neighbors with opposing lawn signs. Each spring one asks the other over the fence why the sign's issue matters to them, and listens to the answer. They also borrow each other's tools.
 
 ## Sources
 
