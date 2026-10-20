@@ -12,13 +12,22 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 14** — The good life is a process, not a state
 
-Well-being is not a condition to reach and hold; it is a direction of movement, not a destination. Evaluate your life as a trajectory, not a snapshot.
+In On Becoming a Person, Rogers reports what he saw in clients who moved well in therapy. His summary is negative first, refusing every fixed state as a candidate, and then positive: the good life is a process of movement in a direction the person selects when inwardly free. (Rogers, On Becoming a Person.)
 
-(Rogers, On Becoming a Person, 1961.)
+> "It seems to me that the good life is not any fixed state. It is not, in my estimation, a state of virtue, or contentment, or nirvana, or happiness." (Rogers, On Becoming a Person, [Panarchy excerpt](https://www.panarchy.org/rogers/person.html))
 
-**Plain words** Well-being is not a condition to reach and hold — it's a direction of movement, not a destination. Evaluate your life as a trajectory, not a snapshot. The bad month inside an upward arc and the good month inside a downward one are not the same month.
+> "The good life is a process, not a state of being. It is a direction not a destination. The direction which constitutes the good life is that which is selected by the total organism, when there is psychological freedom to move in any direction." (Rogers, On Becoming a Person, [Panarchy excerpt](https://www.panarchy.org/rogers/person.html))
 
-*For example:* Two people at the same 'okay' point: one climbing out of a hole, one sliding into one. The snapshot says identical; the trajectory says opposites.
+The compendium's exercise: describe the last six months as a direction, naming what grew and what shrank, rather than scoring the present.
+
+**Plain words**
+Ask where you are headed rather than where you are. A bad month inside an upward arc is a different month from the same bad month inside a downward one.
+
+*For example:* Imagine two people both reporting an okay month. One has been adding friendships and sleep since spring; the other has been losing both. The same score sits on opposite trajectories, and the trajectory is the thing to check.
+
+## Sources
+
+- [Carl R. Rogers, On Becoming a Person (1961), excerpt at Panarchy](https://www.panarchy.org/rogers/person.html) — "The Good Life and the Fully Functioning Person"
 
 ## Psychology parallels
 

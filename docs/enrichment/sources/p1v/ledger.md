@@ -353,3 +353,25 @@ opened text at the recorded URL.
   psychology parallel (Butler and Kern 2016) and philosophy parallels (The
   pluralistic universe; Valuation as growth-direction) preserved untouched
   and NOT verified this session.
+
+## P014 — The good life is a process, not a state (2026-10-20)
+
+- OPENED: Carl R. Rogers, On Becoming a Person (1961), excerpt at
+  https://www.panarchy.org/rogers/person.html — "The Good Life and the
+  Fully Functioning Person". Direct curl hit a bot-verification wall; the
+  page was opened and read via the platform URL reader, which returned the
+  full section text.
+- Verified verbatim: both blockquotes ("It seems to me that the good life
+  is not any fixed state..."; "The good life is a process, not a state of
+  being. It is a direction not a destination..."), exact to the opened
+  page text. Transcription notes recorded: the page italicises "process"
+  (emphasis not reproduced); the page renders "It is a direction not a
+  destination" without the comma that appears in the book (quote follows
+  the opened page). The chapter title is given by the page as "The Good
+  Life and the Fully Functioning Person (1953)"; the printed pp. 186-187
+  locator (per external citations) was NOT used since the opened source
+  carries no page numbers.
+- The six-months-as-direction exercise is labelled as the compendium's.
+  Inherited psychology parallels (Lucas 2007; Huta and Ryan 2010) and
+  philosophy parallels (Dewey; Becoming; Process) preserved untouched and
+  NOT verified this session.
