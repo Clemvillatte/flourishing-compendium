@@ -9,10 +9,55 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Morning intention” — Buddhist tradition.
 
+Morning intention is the practice of setting the day's direction at its start: one sentence of what you want to stand for, what you want to practice, what matters today. The compendium's kernel keeps it that plain. The practice has two anchors — a Buddhist root text that trains action through repeated reflection, and a goal-progress literature that says what makes an intention carry through the day.
+
+### The Buddhist root (MN 61)
+
+The Buddha's instruction to his son Rahula, on the eve of action:
+
+> “Whenever you want to do a bodily action, you should reflect on it: ‘This bodily action I want to do — would it lead to self-affliction, to the affliction of others, or to both? Would it be an unskillful bodily action, with painful consequences, painful results?’” (MN 61, [Thanissaro translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.061.than.html))
+
+The sutta's own image for the discipline is a mirror:
+
+> “What do you think, Rahula: What is a mirror for?”
+> “For reflection, sir.”
+> “In the same way, Rahula, bodily actions, verbal actions, & mental actions are to be done with repeated reflection.” (same sutta)
+
+And the training formula the sutta closes with:
+
+> “Thus, Rahula, you should train yourself: ‘I will purify my bodily actions through repeated reflection. I will purify my verbal actions through repeated reflection. I will purify my mental actions through repeated reflection.’ That's how you should train yourself.” (same sutta)
+
+The morning intention is this reflection turned forward: the day's actions considered before they are done, with the review waiting at the day's end.
+
+### The research side (Koestner et al. 2002)
+
+The goal-progress literature the concept's research facet cites:
+
+> “Self-concordance was defined as the extent to which a goal reflects personal interests and values versus something one feels compelled to do by external or internal pressures.” (Koestner, Lekes, Powers and Chicoine 2002, [JPSP 83(1):231-244](https://www.selfdeterminationtheory.org/SDT/documents/2002_KoestnerLekesPowersChicoine_JPSP.pdf), introduction)
+
+The study's conclusion:
+
+> “Thus, goal progress was maximized when people selected goals that were self-concordant and then furnished these goals with well-elaborated implementation intentions.” (same paper)
+
+The morning sentence is both halves at small scale: the what and why of the day (self-concordance) and the where, when and how of its first moves (implementation intention). The paper's two studies found the combination synergistic — progress was best when goals that were one's own were furnished with concrete plans.
+
+### In the compendium
+
+- [[K156 — Morning intention]] — the kernel: one written or spoken sentence for the day
+- [[S119 — Begin the morning with premeditation]] — the Stoic morning practice in the Cited-in lists
+- [[B192 — Begin the day with intention; end it with review]] — the day's bookends, rooted in the same MN 61 reflection
+
+## Related concepts
+
+- [[The evening review]] — the day's other bookend, where the intention is checked against what happened
+- [[Implementation intentions]] — the research concept for the where-when-how half of the sentence
+- [[Daily architecture]] — the structure that makes the day's practices the default rather than fresh decisions
+- [[Right intention]] — the Buddhist factor the morning sentence trains
+
 ## Sources
 
-- Buddhist tradition
-- Koestner et al., 2002
+- Buddhist tradition — [MN 61, Ambalatthika-rahulovada Sutta, Thanissaro translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.061.than.html)
+- Koestner et al., 2002 — [Koestner, Lekes, Powers and Chicoine, Attaining personal goals: Self-concordance plus implementation intentions equals success, JPSP 83(1):231-244, PMID 12088128](https://www.selfdeterminationtheory.org/SDT/documents/2002_KoestnerLekesPowersChicoine_JPSP.pdf)
 
 [[BE001 — Understand that behaviour is the foundation — what you do shapes how you feel, think, and are]]
 [[V1K-S01 — PART I — SCIENCE-BACKED KERNELS]]

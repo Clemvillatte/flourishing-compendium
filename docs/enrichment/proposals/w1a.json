@@ -104,6 +104,13 @@
       "phrase": "equanimity where not",
       "source": "w1a worker-w1a-4c8e21d7",
       "why": "body prose names the concept without linking it; rg-verified unique single-concept occurrence"
+    },
+    {
+      "concept": "Morning intention",
+      "into": "Daily architecture",
+      "phrase": "a morning intention",
+      "source": "w1a worker-w1a-4c8e21d7",
+      "why": "Daily architecture's opening prose names the morning intention without linking the concept page; rg-verified unique occurrence"
     }
   ],
   "reciprocal": [
@@ -212,6 +219,30 @@
     {
       "concept": "Holding as hypothesis",
       "target": "Workability",
+      "source": "w1a worker-w1a-4c8e21d7",
+      "why": "new Related entry; reciprocal of the concept's Related extension"
+    },
+    {
+      "concept": "Morning intention",
+      "target": "The evening review",
+      "source": "w1a worker-w1a-4c8e21d7",
+      "why": "new Related entry; reciprocal of the concept's Related extension"
+    },
+    {
+      "concept": "Morning intention",
+      "target": "Implementation intentions",
+      "source": "w1a worker-w1a-4c8e21d7",
+      "why": "new Related entry; reciprocal of the concept's Related extension"
+    },
+    {
+      "concept": "Morning intention",
+      "target": "Daily architecture",
+      "source": "w1a worker-w1a-4c8e21d7",
+      "why": "new Related entry; reciprocal of the concept's Related extension"
+    },
+    {
+      "concept": "Morning intention",
+      "target": "Right intention",
       "source": "w1a worker-w1a-4c8e21d7",
       "why": "new Related entry; reciprocal of the concept's Related extension"
     }
