@@ -118,3 +118,13 @@ PROTOCOL-PRINCIPLES items 6-7.
 - Sources opened (abstracts via Europe PMC): Lavie 2005, TICS 9:75-82 (15668100); Forster & Lavie 2008, J Exp Psychol Appl 14:73-83 (18377168); Lavie 1995, JEP:HPP 21:451-468 (7790827).
 - Verbatim: "simply instructing people to ignore goal-irrelevant stimuli is not sufficient for preventing their processing"; Forster & Lavie "an entirely irrelevant distractor can interfere with task performance to the same extent as a response-competing distractor".
 - Corrected parallels bullet: it said higher cognitive load reduces filtering (Lavie 1995); the abstracts say high perceptual load eliminates distractor processing and high cognitive-control load increases it. Page states the lab-to-newsletters step is the compendium's extrapolation. Broadbent 1958 not opened.
+
+## AT018 — Practise deliberate distraction management
+- Sources opened (abstracts via Europe PMC): Duckworth, Gendler & Gross 2016, Perspect Psychol Sci 11:35-55 (26817725); Forster & Lavie 2007, Psychol Sci 18:377-381 (17576274); Parry 2022 meta-analysis preprint, PsyArXiv 10.31234/osf.io/tnyda (not peer-reviewed).
+- Verbatim fragments as quoted; Forster & Lavie quote uses [...] for the questionnaire parenthesis.
+- Replaced the Ward et al. 2017 "habitual media use captures attention" bullet (not opened; the claim is contested per Parry). Sörqvist 2013 and Ward 2017 not opened. Old "attentional predators" metaphors removed. Example imagined.
+
+## AT021 — Learn to attend to the positive deliberately
+- Sources opened: Wadlinger & Isaacowitz 2008, Emotion 8:121-126 (18266522); Cristea, Kok & Cuijpers 2015, Br J Psychiatry 206:7-16 (25561486); Seligman et al. 2005 Am Psychol 60:410-421 via Greater Good PDF copy https://greatergood.berkeley.edu/images/uploads/Seligman-PosPsychProgress.pdf (search-result excerpts of the text: three-good-things description and the "made people happier (and less depressed) up to six months later" sentence; full PDF not read end to end).
+- Corrected: principle's claim that positive attention training "improves mood and well-being" is only supported for the writing exercise; the gaze-training meta-analysis is weak. Old parallels bullet cited Duque & Vazquez 2015 for gaze training reducing depression: the opened abstract is an eye-tracking observational study of depressed vs never-depressed adults, not training. Sanchez 2016, Johnson 2009, Wadlinger & Isaacowitz 2011 not opened; removed.
+- Caveat: the three-good-things evidence concerns writing/recall, not attention bias per se; page says so.
