@@ -112,3 +112,22 @@
   accesstoinsight study pages (Right Mindfulness PDF, Body Contemplation
   study guide), not a full-text fetch of note 3; the gloss is not asserted
   on the page. Reopened -> repaired -> validated -> done.
+
+### P040 — Keep means and ends continuous (2026-10-20, worker-p1o-6ae3d782)
+- Opened: Dewey, Human Nature and Conduct (1922), Gutenberg #41386 full
+  HTML downloaded and grepped locally; all quotes verbatim with printed-page
+  markers: p. 36 (means/ends two names), p. 35 (intermediate acts), p. 226
+  (end-in-view a means in present action), p. 228 (overlooking means), plus
+  'a mere end, that is a dream' (To attain a remote end passage). Quest
+  for Certainty (seed locator) not opened — dropped from the page.
+- Seed statement + locator removed (B042 precedent; only '>' line
+  protected). Plain words re-derived (seed was partial replicate with em
+  dash); For example rebuilt (seed had em dashes + 'WAS' + aphorism closer).
+  Inherited unopened citation tails reduced to bare labels: Vallerand 2010
+  (psychology parallel), Dogen Shobogenzo ('The path is the goal'); merged
+  parallel line split (B028 precedent). Dewey HNC attribution on
+  Means-end continuity kept (source opened this session).
+- Saturation: 10+ concepts cite P040 (Ends-in-view, Means-end continuity,
+  Process versus outcome focus, Process focus research, etc.) — main
+  concepts already linked on the page; no new proposals needed.
+  Validator: ok.

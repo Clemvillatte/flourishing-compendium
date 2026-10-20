@@ -12,23 +12,34 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 40** — Keep means and ends continuous
 
-The end is the last of the means, not a separate justification: how you travel shapes where you arrive. Dirty means corrupt ends; beautiful means are the beginning of the end.
+Dewey's case against separating an end from the way you reach it is stated flat out: means and ends are two names for the same reality, distinguished only in judgment ([Human Nature and Conduct, 1922](https://www.gutenberg.org/files/41386/41386-h/41386-h.htm), p. 36). He draws the consequence for anyone trying to change: "Until one takes intermediate acts seriously enough to treat them as ends, one wastes one's time in any effort at change of habits." The next act is where the whole thing actually exists.
 
-(Dewey, Human Nature and Conduct, 1922; The Quest for Certainty, 1929.)
+> Means and ends are two names for the same reality. The terms denote not a division in reality but a distinction in judgment.
+>
+> (Dewey, Human Nature and Conduct, 1922, p. 36)
 
-**Plain words** How you travel shapes where you arrive — dirty means corrupt ends. The fundraiser built on burnout arrives at a burned-out destination.
+His treatment of the maxim that the end justifies the means does not appeal to rules about tainted methods. Common sense, he says, revolts against the maxim, and his analysis goes further: "overlooking means is only a device for failing to note those ends, or consequences, which, if they were noted would be seen to be so evil that action would be estopped." The means are consequences too; declining to count them does not stop them from arriving.
 
-*For example:* Winning the family argument by cruelty — you arrive at 'right,' and the prize is a house where nobody talks. The means WAS the end, all along.
+The chapter on the nature of aims gives the positive statement: "In a strict sense an end-in-view is a means in present action; present action is not a means to a remote end." An aim that stays distant without telling you what to do next has become, in Dewey's words, "a mere end, that is a dream."
+
+**Plain words**
+An end feels separate because you picture it finished and the means unfinished. On Dewey's account they are the same acts, counted differently: the whole series is the end, each act in it is a means. So the working question for any aim is what it tells you to do next; if it tells you nothing, it is what he calls a dream. For the compendium's exercise, take one current aim and write down the next act it commits you to.
+
+*For example:* Suppose a household wants calmer conversations. That end exists only in the next conversation; if the voices stay loud there, the loud conversation is what the household actually got.
+
+## Sources
+
+- [Human Nature and Conduct (Dewey, 1922), Project Gutenberg](https://www.gutenberg.org/files/41386/41386-h/41386-h.htm) — pp. 35-36, 226, 228
 
 ## Psychology parallels
 
-- **[[Process versus outcome focus|Means-focused versus outcome-focused goals]]**, process focus predicts persistence and well-being (Vallerand, 2010)
+- **[[Process versus outcome focus|Means-focused versus outcome-focused goals]]**
 
 ## Philosophy parallels
 
 - **[[Means-end continuity|Means-end continuity]]** (Dewey, Human Nature and Conduct)
-- **The path is the goal** (Dogen, Shobogenzo)- **[[Ends-in-view|Ends-in-view]]** (Pragmatism)
-
+- **The path is the goal**
+- **[[Ends-in-view|Ends-in-view]]** (Pragmatism)
 
 <!-- fc: reflections
 Where are your current means actually corrupting your ends — the dirty method quietly producing the wrong arrival? What's the corruption?
