@@ -82,3 +82,15 @@
   not verified on the opened page) — deliberately omitted per zero-hallucination.
 - SYNTHESIS FLAG: "it is available anywhere the natural order can be watched" is the
   compendium's gloss.
+
+## Simplicity as practice (2026-10-20, fast-track; degree 11 — eligible)
+
+- VERIFICATION: concept REAL (Daodejing 19; the seed names the chapter). Title kept:
+  descriptive label.
+- OPENED: Legge, Tao Te Ching (Sacred Texts) https://www.sacred-texts.com/tao/taote.htm —
+  ch. 19 quoted VERBATIM (closing couplet "But simple views, and courses plain and true /
+  Would selfish ends and many lusts eschew." + opening renunciation lines paraphrased in
+  the body). NOTE: Legge's ch. 19 ends in a rhymed couplet; it does NOT contain "uncarved
+  block" wording (that image belongs to other DDJ chapters, not verified in this source,
+  therefore not claimed).
+- SYNTHESIS FLAG: "so that what is plain can carry the weight" is the compendium's gloss.
