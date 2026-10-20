@@ -1,6 +1,6 @@
 {
  "batch": "p1zk",
- "revision": 16,
+ "revision": 17,
  "reciprocal": [
   {
    "into": "Sleep deprivation",
@@ -103,6 +103,12 @@
    "link": "BI028",
    "why": "the exercise phase-response curve and evening-exercise meta-analysis are circadian-timing findings",
    "notes": "Evidence in sources/p1zk/BI028.md (Youngstedt 2019, Stutz 2019, both opened). Concept already cites BI028."
+  },
+  {
+   "into": "Food as medicine",
+   "link": "BI033",
+   "why": "the trial-backed diet-and-mood evidence sits with the food-as-medicine concept",
+   "notes": "Evidence in sources/p1zk/BI033.md (SMILES, Firth, Li, all opened; same evidence as BE042). Concept already cites BI033."
   }
  ],
  "inline": []
