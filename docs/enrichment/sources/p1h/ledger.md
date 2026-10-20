@@ -856,3 +856,25 @@ pages. Continuing to CO009.
   wikilink [[The more you know, the more you know you don't know]] has no
   corresponding concept file (broken link, inherited; left for the supervisor's
   link-repair queue). Validator ok.
+
+### CO027 (2026-10-20, worker-p1h-9f42e6c7, takeover of stale band)
+
+- Source opened: Morewedge, Yoon, Scopelliti, Symborski, Korris & Kassam 2015, "Debiasing
+  Decisions: Improved Decision Making With A Single Training Intervention", Policy
+  Insights from the Behavioral and Brain Sciences 2(1):129-140. Raw PDF text via
+  pdftotext from the accepted-manuscript file at City Research Online
+  (https://openaccess.city.ac.uk/id/eprint/12324/1/Debiasing_Decisions_PIBBS.pdf);
+  blockquote is the abstract's early-attempts sentence, verified character-for-character.
+- Advisor QC (first item of session): round 1 FAIL — opening paragraph framed awareness
+  as a weak correction (mechanism the experiments do not isolate; videos also worked
+  without personalized feedback), plain-words driving-lesson analogy implied durable
+  mastery, For example guaranteed an outcome, and the locator needed the
+  accepted-manuscript pin. Repairs applied as advised (verbatim-claim reductions,
+  abstract/Experiments-1-and-2/training-description locators, plain words re-derived
+  as the compendium's exercise, example re-labelled hypothetical). Validator ok.
+- Linked-concept reads: Debiasing techniques (seed; cited-in list consistent with the
+  rewrite), Cognitive biases, First impressions bias, Outside view / reference class
+  forecasting (all already cite CO027). Saturation: no new reciprocal proposed;
+  existing cited-in coverage is adequate. Inherited parallels bullets (Larrick 2004,
+  Pronin et al. 2002) unopened — flagged here, not certified; parallels/practice
+  sections untouched per protocol.
