@@ -21,3 +21,15 @@
 ## Y119 (BG 4.34; Chandogya 6.1)
 - Mukundananda 4.34 and commentary; Muller SBE 1 (1879) Chandogya 6.1.2-3, 6.1.7 (pp. 92-93, Internet Archive OCR: https://archive.org/details/upanishads01mluoft). Quotes verified (hyphen line breaks "per- ceived" ignored).
 - Old locator included Upadesasahasri; not opened (Mayeda translation is not freely available), so it is removed from the locator and no claim is drawn from it. Old claims "sustained proximity", "settled to the unsettled", "graduate" are not in the opened texts; "graduate" dropped, others replaced. The Svetaketu episode actually shows a long study with the wrong teaching; page uses it for "choose teachers deliberately", labelled as the principle's reading. Plain words and example replaced; example imagined. Self-QC only.
+
+## Y118 (BG 2.14; Vivekachudamani 24)
+- Mukundananda 2.14 (translation, word-for-word titikshasva "tolerate", commentary) opened; Vivekachudamani 24 (Madhavananda) via Wisdom Library https://www.wisdomlib.org/hinduism/book/vivekachudamani/d/doc144472.html (search excerpt gives the full verse; agrees with Wikisource and redzambala copies in the same results). Quotes verified.
+- Old claim "titiksha treated as trainable rather than inborn": supported by commentary "should practice to tolerate"; voluntary small hardships (cold shower etc.) are modern and labelled; Shankara's definition says "without caring to redress", so the page adds a caution about illness. Plain words and example replaced; example imagined. Self-QC only.
+
+## Y019 (YS 1.6, 1.10; BG 6.16-17)
+- Woods HOS 17 p. 29 (running head "29] Nature of sleep"): 1.10 + Vyasa and Vacaspati; 1.6 sutra text. Mukundananda 6.16-17. Quotes verified (OCR " ;" and quote glyphs ignored).
+- Old claim "treats it as material for awareness rather than a nightly shutdown" is not in the text: Vyasa treats sleep as a presented-idea with memory trace, and says it must be restricted in concentration. Page says so; "rested mind is the practicable mind" labelled the page's own reading backed by BG 6.16-17. First-minute-of-waking is a modern suggestion. Plain words and example replaced; example imagined. Self-QC only.
+
+## Y126 (YS 2.28-2.29; BG 6.16)
+- Woods HOS 17 2.28 + commentary (p. 172 area), 2.29 + commentary (p. 177); Mukundananda 6.16. Quotes verified (OCR hyphen "regula- tions" ignored). Old cite BG 6.16-6.17 narrowed to 6.16 on the page.
+- Old claim "tradition's own sequence is need-ordered" narrowed: the texts give an order (abstentions and observances first, concentration near the top), not a need-ranking; seasonal ranking labelled the page's own. Plain words and example replaced; example imagined. Self-QC only.
