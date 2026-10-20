@@ -402,3 +402,9 @@ legacy schema (state keys + proposals) — MERGED, never replaced.
 
 ### Milestone QC repairs: Environmental psychology (2026-10-20, worker-p1f-9d3f7c2b)
 - Opening definition grounded in the opened Gifford, Steg and Reser 2011 "Environmental Psychology" chapter PDF (rug.nl): definition and scope statement quoted verbatim. Place attachment and Attention restoration glosses made bare (glosses not verified in the opened sources). Validated vs pre-enrichment baseline cec5cbb6; build 5,720 ok.
+
+### Milestone QC repairs: Friendship (2026-10-20, worker-p1f-9d3f7c2b)
+- Translator attribution corrected: the Gutenberg #8438 text is the J.A. Smith translation, not Welldon. Verified by the file's own title page ("Introduction by J. A. Smith") and an independent source (LibreTexts) showing the same opening ("Every art, and every science reduced to a teachable form") credited to J.A. Smith; the file itself credits no translator. All in-page translator labels corrected.
+- Quote punctuation: "connected with virtue," excerpt now ends before the source's semicolon, no inserted comma.
+- A076 sentence retained after verification: the A076 principle page (read) does work out NE VIII friendship across unequal parties with verbatim VIII.7-8 proportionality and mothers passages (Rackham translation).
+- Ledger correction: the earlier chapter-number mapping claim (Welldon ch. V = Bekker VIII.3) is withdrawn as unverified. Validated vs pre-enrichment baseline; build 5,720 ok.
