@@ -783,3 +783,26 @@
   worker-flags section this round).
 - Validation: --fast-track ok (concept <15 connections; prose minimum waived; all other
   checks pass). Build ok (5718 entries, fcAuthored 976).
+
+## The right amount of effort (2026-10-20, worker-j9fpiyf; fast-track; degree 9 — eligible)
+
+- OPENED: Aristotle, Nicomachean Ethics II.5-6, W. D. Ross translation, MIT Classics
+  http://classics.mit.edu/Aristotle/nicomachaen.2.ii.html — fetched and read directly.
+  The blockquote verified character-for-character in the opened text ("To feel them at
+  the right times, with reference to the right objects, towards the right people, with
+  the right motive, and in the right way, is what is both intermediate and best, and
+  this is characteristic of virtue."). The Milo/trainer example and the no-mean-for-
+  theft/adultery limit paraphrased from the same chapters, both verified in the raw
+  text. The seed's "Aristotle" Sources line kept; the opened-source line added above it.
+- IS-IT-A-CONCEPT check: "right amount" is the compendium's heading over Aristotle's
+  doctrine of the mean (NE II.6: virtue as a mean relative to us, determined by
+  practical wisdom); the title is not Aristotle's own phrase. Not flagged as an
+  invented concept: the page body attributes the doctrine and quotes the text. No
+  entry in concept-namespace-audit.md (grep). On the concept-verification-queue
+  (noted for the supervisor's rerun); now carries a citable source URL.
+- FAST-TRACK NOTE: saturation hunt skipped per §1a; one obviously missing reciprocal
+  noted — [[Right effort]] (deg 57) added as Related on this page; reciprocal
+  proposal for Right effort's Related list not filed (band proposals file untouched
+  this item; flagged here for the next normal-track pass or the supervisor's apply).
+- Validation: --fast-track ok (warning: fewer than 3 Related-concepts lines, inherited
+  condition; the two lines added are the ones that exist and fit). Build ok.
