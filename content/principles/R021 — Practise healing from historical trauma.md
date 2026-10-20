@@ -24,9 +24,9 @@ Healing, in Atkinson's account, is the other half of the same trails: people tel
 
 (Atkinson, 2002; Aboriginal SEWB framework.)
 
-**Plain words** The point of naming colonisation, dispossession and removal is not blame bookkeeping; it is that unnamed pain gets handed down. The trails run through families, and the healing runs through them too: stories told and heard, generations in the same room. Culture is not decoration here; the framework treats restoring cultural wellbeing as the actual repair work.
+**Plain words** The sources describe trauma that compounds across generations, and healing that is the same shape: stories told and heard, generations in the same room, culture carrying the work. None of it is a private, one-person project.
 
-*For example:* The family that starts going to the healing camp together — three generations — and the teenagers' grandparents' silences finally start making sense to everyone at once.
+*For example:* Imagine a family attending a healing programme together, three generations in the same room, hearing the stories the grandparents carry.
 
 ## Sources
 

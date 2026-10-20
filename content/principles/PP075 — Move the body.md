@@ -18,20 +18,20 @@ Two big reviews anchor this one. The Cochrane review of exercise for depression 
 
 The same review is candid about the ceiling on that claim: "analysis of methodologically robust trials only shows a smaller effect in favour of exercise", and exercise looked no better than psychological therapies or antidepressants in the few small trials that compared them directly. A later meta-analysis that adjusted for publication bias found the larger effect:
 
-> "Overall, exercise had a large and significant effect on depression (SMD adjusted for publication bias = 1.11 (95% CI 0.79-1.43)) with a fail-safe number of 1057." ([Schuch et al., 2016](https://pubmed.ncbi.nlm.nih.gov/26978184/))
+> "Overall, exercise had a large and significant effect on depression (SMD adjusted for publication bias=1.11 (95% CI 0.79–1.43)) with a fail-safe number of 1,057." ([Schuch et al., 2016](https://kclpure.kcl.ac.uk/portal/en/publications/exercise-as-a-treatment-for-depression-a-meta-analysis-adjusting-/))
 
-On format, the honest summary is that the pooled estimate covered all kinds of exercise, with larger effects showing up for aerobic, moderate-to-vigorous and supervised programmes.
+On format, the same abstract reports: "Larger effects were found for interventions in MDD, utilising aerobic exercise, at moderate and vigorous intensities, in a supervised and unsupervised format."
 
 (Cooney et al., 2013; Schuch et al., 2016.)
 
 **Plain words** Move when you are low. The evidence is not a miracle claim: a moderate, real effect, no clear edge over therapy or pills in the small head-to-head trials, and the effect shrinks in the pickiest analyses. But it is something you can start today without an appointment, and the direction of the findings is the same.
 
-*For example:* A twenty-minute walk on a bad afternoon is the smallest version of the intervention; the reviews above are why it is not nothing.
+*For example:* A twenty-minute walk on a low afternoon is one form of the exercise the reviews covered.
 
 ## Sources
 
 - [Cooney et al. 2013, "Exercise for depression," Cochrane Database of Systematic Reviews, CD004366, hosted full-text copy](https://baycrest.echoontario.ca/wp-content/uploads/2021/05/Exercise-for-depression-Cochrane.pdf) — pooled SMD for exercise vs control, comparisons with therapies and medication, methodological caveat
-- [Schuch et al. 2016, "Exercise as a treatment for depression: a meta-analysis adjusting for publication bias," Journal of Psychiatric Research 77:42-51, PubMed record with abstract](https://pubmed.ncbi.nlm.nih.gov/26978184/) — adjusted effect size and fail-safe number (PubMed page fetch renders empty; abstract verified via the search-indexed record)
+- [Schuch et al. 2016, "Exercise as a treatment for depression: a meta-analysis adjusting for publication bias," Journal of Psychiatric Research 77:42-51, King's Research Portal record with the embedded MEDLINE abstract](https://kclpure.kcl.ac.uk/portal/en/publications/exercise-as-a-treatment-for-depression-a-meta-analysis-adjusting-/) — adjusted effect size and fail-safe number, verified in the abstract embedded in the opened portal record; the PubMed page itself renders empty in the fetcher
 
 ## Psychology parallels
 

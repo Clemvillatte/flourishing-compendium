@@ -20,7 +20,7 @@ The Australian SEWB tradition frames the same point from the community side. Its
 
 **Plain words** Cultural safety flips who decides whether a room is safe: the person walking into it, not the person hosting. The host's job is the uncomfortable half, noticing their own culture, its defaults and its blind spots, and what those do to people who do not share them. Awareness is the entry ticket; the work is changing what you do once you have noticed.
 
-*For example:* The clinic that stops treating a patient's family structure as something to be explained and excused; the first ten minutes of the appointment stop being spent on defence.
+*For example:* Imagine a clinic reviewing its intake forms so that a patient's family structure is not treated as something to be explained and excused.
 
 ## Sources
 
