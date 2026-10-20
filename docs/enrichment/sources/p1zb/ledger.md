@@ -284,3 +284,16 @@ never-band-assigned work; p1g state had them flagged-only, absent from p1g's man
   with this flag; the substance is now carried by the Homo Viator selection.
 - Saturation: reciprocal links confirmed in Hope, Tragic optimism, Optimism concept pages
   (all list R087). No new proposal warranted.
+
+## R107 — Practise the common good
+- Full work: verbatim quotes added — Aristotle Politics I.1 opening (highest community, highest
+  good) and III.9 ("a state exists for the sake of a good life, and not for the sake of life
+  only"), both verified against MIT Classics Jowett text (opened); Gaudium et Spes 26 definition
+  ("the sum of those conditions of social life...") verified against the official Vatican
+  English text (opened) — the body's definition sentence now grounded in GS 26 rather than
+  floating. Citation line extended. Plain words rewritten as re-derivation (private vs
+  only-works-for-everyone goods). For-example kept. Sources section added.
+- Flags: MacIntyre 1981 and Sandel 2009 (inherited citation line) not opened — left as
+  inherited with this flag.
+- Saturation: reciprocal links confirmed in Common flourishing, The common good,
+  Communitarianism, Prosocial motivation (all list R107). No new proposal warranted.
