@@ -208,3 +208,9 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 - Quotes verified: Chandogya span verified against OCR text (mismatch only from OCR "O 6Vetaketu"); the other three as read in excerpts.
 - Seed repairs: replaced the unsupported "liberating truths, not debate propositions" gloss with what the text shows (refrain after examples). Weekly prompt use labelled as the page's own. Cohen & Sherman not opened. Aitareya citation "3.3" is the standard number; Muller numbers it differently.
 - Saturation: low.
+
+## Y102 (2026-10-21, worker-p1zz-b81e3f52)
+- Sources opened: holy-bhagavad-gita.org (Mukundananda) BG 3.4, 3.8, 3.19, 3.20-21, 3.25 with commentary.
+- Quotes verified: all quoted spans matched the fetched pages.
+- Seed repairs: "explicitly forbids" and "holding together" are not in this translation; replaced with what 3.4 and 3.8 say. Janaka kept as the exemplar king. One-role-as-service practice labelled as the page's own. Post 2005, Dewey, Diogenes not opened.
+- Saturation: low; a second translation (Radhakrishnan, Easwaran) would help with loka-sangraha.
