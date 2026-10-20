@@ -89,3 +89,7 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 ## Y113 (2026-10-21)
 - Arnold Gita ch. 5 (Arjuna's question; "the new scholar talks as they were two") and ch. 3 ("two paths... yet these are one"; "no man shall 'scape from act by shunning action"). Quotes verified; "--" spacing and line breaks normalised.
 - Old text said the Gita calls the distinction one "children argue over"; Arnold says "the new scholar", so "children" is dropped as a quote and flagged. "Each is the other done properly", "the curriculum alternates" and the insight/action rule are the principle's; labelled. Old cites 5.4-5.5, 3.3 not checked against a numbered edition. Plain words replicate replaced; example imagined. Self-QC only.
+
+## Y120 (2026-10-21)
+- Arnold Gita ch. 3 (enlightened toil; "Those make thou not to stumble"). Quotes verified; verse breaks joined, capitals lowered.
+- Old text's "do not disturb the minds of those attached to action and its rewards; let them work and rejoice" is a paraphrase of another translation's wording and is not in Arnold; replaced by Arnold's "not sowing seed of despair" and "make thou not to stumble". Teaching-beyond-readiness, "hardening" and the one-week modelling practice are the principle's; labelled. Old cite 3.26 not checked against a numbered edition. Plain words replicate replaced; example imagined. Self-QC only.
