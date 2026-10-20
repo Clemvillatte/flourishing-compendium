@@ -24,7 +24,7 @@ The replication record for related ideas is mixed. In Ranehill et al.'s conceptu
 
 **Plain words** Changing your breathing pace or how you sit gives you something concrete to try when you feel wound up. Notice your response. A study reporting better mood in one group does not promise the same response for everyone, or establish an effect on hormones.
 
-**For example:** Before a difficult phone call, sit upright and take about ten slow breaths over two minutes, then make the call.
+**For example:** Before a difficult phone call, sit upright and take twelve slow breaths over two minutes, then make the call. The pace is borrowed from the HRV-biofeedback research as an exercise to try, not an established optimum.
 
 ## Psychology parallels
 
@@ -40,7 +40,7 @@ The replication record for related ideas is mixed. In Ranehill et al.'s conceptu
 
 ## Practice
 
-- Use the body to regulate: slow breathing at about six breaths per minute, upright seated posture.
+- Use the body to regulate: slow breathing at about six breaths per minute (the pace used in HRV-biofeedback research, offered as an exercise rather than an optimum), upright seated posture.
 
 ## Sources
 

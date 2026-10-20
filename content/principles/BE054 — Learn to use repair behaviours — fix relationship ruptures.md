@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BE — Overt Be
 ---
 > **Principle 54** — Learn to use repair behaviours: fix relationship ruptures
 
-Ruptures in a relationship are ordinary; what happens next is the skill. Repair behaviours are the moves that pull an exchange back: an apology, a moment of humour, an arm around a shoulder, saying what you actually meant. Two research literatures bear on it from different directions.
+Ruptures in a relationship are ordinary; what happens next is the skill. Repair behaviours are attempts to address strain in an interaction: an apology, a moment of humour, an arm around a shoulder, saying what you actually meant. Two research literatures bear on it from different directions.
 
 In the marriage observation lab, how a conflict discussion begins carries weight beyond its length. Trained observers coded the conflict discussions of 124 newlywed couples:
 
@@ -22,7 +22,7 @@ The study measures affect at the start of the talk; it does not test repair beha
 
 In psychotherapy research, rupture and repair have their own model. Safran and Muran's review "presents a schematization of direct and indirect interventions that therapists typically implement to address problems related to the tasks and goals of treatment, or the affective bond between therapist and client" (Safran & Muran, 2000, Journal of Clinical Psychology 56(2):233-243, Abstract, [Wiley record](https://onlinelibrary.wiley.com/doi/abs/10.1002/(SICI)1097-4679(200002)56:2%3C233::AID-JCLP9%3E3.0.CO;2-3)). A later review of that research programme describes what repair can involve in the therapy room: "Repairing the rupture may involve the therapist clarifying where s/he was coming from, apologizing, and exploring the patient's feelings around the rupture" (Gelso & Kline, 2019, Research in Psychotherapy, [PMC full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC7451341/)). The principle takes those moves as a description of what deliberate repair looks like, adapted outside the therapy room.
 
-**Plain words** Repair is not a speech. In the therapy research it means stopping to deal with the strain in the relationship itself rather than pushing through it: clarifying where you were coming from, apologising, exploring the other person's feelings about what went wrong. The page proposes the same family of moves as an exercise for ordinary arguments: one person says "that came out wrong", or checks what they just heard, or owns their share of the escalation. What the other person does with it is not in anyone's control.
+**Plain words** As a suggested exercise for an ordinary disagreement, say which remark you want to correct and ask how the other person experienced it. In the therapy research, repair means stopping to deal with the strain in the relationship itself rather than pushing through it: clarifying where you were coming from, apologising, exploring the other person's feelings about what went wrong. An attempted repair need not settle the underlying disagreement. What the other person does with it is not in anyone's control.
 
 **For example:** Imagined: mid-argument about chores, one says, "Hold on. That came out wrong. I don't think you're lazy; I think I'm tired and I'm taking it out on you." The chore question is still open afterwards; what the repair addresses is the escalation, not the chore question.
 
