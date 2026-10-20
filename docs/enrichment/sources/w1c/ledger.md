@@ -346,3 +346,8 @@ legacy schema (state keys + proposals) — MERGED, never replaced.
 - Fast-track (degree 11). Opened source: James, Pragmatism (1907), full text at Project Gutenberg #5116 (https://www.gutenberg.org/ebooks/5116), downloaded and searched locally for "cash-value".
 - Lecture VI truth's-cash-value question quoted verbatim; Lecture II "bring out of each word its practical cash-value" quoted verbatim; TRUE IDEAS definition quoted with the Gutenberg text's small-caps rendering preserved as caps.
 - Related: added [[Belief as habit]]. All 12 original wikilinks preserved, including the trailing original "Truth's cash value" line and its duplicate link block. Validation: fast-track PASS; build 5,720 ok.
+
+### Contingent self-esteem (2026-10-20, worker-p1f-9d3f7c2b)
+- Fast-track (degree 11). Opened source: Crocker, "The Costs of Seeking Self-Esteem", Journal of Social Issues 58(3), 2002, full text at docslib.org.
+- Contingencies definition and external-contingency hypothesis quoted verbatim from the opened text; longitudinal findings (appearance contingency costs) paraphrased from the article's abstract as reported there.
+- All original sections and wikilinks preserved byte-exact (Other formulations, Facets, parallels sections). Validation: fast-track PASS; build 5,720 ok.

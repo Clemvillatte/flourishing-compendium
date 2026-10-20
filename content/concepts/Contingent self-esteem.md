@@ -7,7 +7,13 @@ file: "Contingent self-esteem"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-C"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
-(Crocker, 2002), self-worth staked on others' evaluations predicts fragility.
+Contingent self-esteem is Jennifer Crocker's term for self-worth staked on particular domains, so that it rises and falls with successes and failures in those domains. Crocker writes in "The Costs of Seeking Self-Esteem":
+
+> Connie Wolfe and I have called these contingencies of self-worth, because they reflect the domains in which people believe they must achieve or succeed to be worthwhile.
+>
+> (Crocker, "The Costs of Seeking Self-Esteem", Journal of Social Issues 58(3), 2002, [full text](https://docslib.org/doc/4349695/the-costs-of-seeking-self-esteem-jennifer-crocker-university-of-michigan))
+
+The article's hypothesis concerns the external contingencies in particular: "external contingencies of self-worth require validation from others and are unreliable as a basis of self-esteem, and hence are associated with greater costs" (Crocker 2002). In the longitudinal study the article reports, external contingencies, especially appearance, carried costs for stress, aggression, drug and alcohol use, and symptoms of disordered eating. That is the fragility the library's formulations point to: worth staked on other people's evaluations.
 
 ## Other formulations in this library
 
@@ -24,9 +30,9 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 - [[Terror management]] — the self-esteem form most exposed to the buffering logic
 ## Sources
 
-- Deci and Ryan, 1995
-
 - Crocker, 2002
+
+- [Crocker, "The Costs of Seeking Self-Esteem", Journal of Social Issues 58(3), 2002 (full text)](https://docslib.org/doc/4349695/the-costs-of-seeking-self-esteem-jennifer-crocker-university-of-michigan) — the contingencies definition and the external-contingency hypothesis
 
 ## Cited in psychology parallels
 
