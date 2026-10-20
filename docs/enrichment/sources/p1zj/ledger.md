@@ -210,3 +210,10 @@ Band: AF002..BE033, 30 principles, degree order (queue 628-673). Advisor QC cade
 - Scope: staircase-for-any-behaviour use labelled as the compendium's application (the model was developed for health behaviours in at-risk populations); stage-matched-interventions-effectiveness parallel removed (Prochaska et al. 1992 / Spencer et al. 2006 not opened); Prochaska & DiClemente 1983 citations reduced to the opened 1997 paper.
 - Plain words: replicate fixed; example relabelled as imagined case.
 - Proposals: reciprocals into Transtheoretical model (Prochaska & DiClemente), Gradual training, The journey of a thousand miles (leads to be read before save).
+
+## BE016 — Learn to use the "just 5 minutes" technique: lower the barrier to starting
+- Evidence: Fogg 2009, "A Behavior Model for Persuasive Design", Persuasive '09, full text (ghost.io-hosted PDF copy), fetched this session. Five sentences verified verbatim (three-factor abstract; sufficient-motivation/ability/trigger condition; same-moment condition; make-the-behavior-easier principle; simpler-vs-motivation principle).
+- Scope: "starting usually leads to continuing" labelled as the technique's bet, not a finding (the model covers the barrier, not continuation); Fogg 2019 / Clear 2018 popular-book citations replaced by the opened 2009 paper; Jacobson et al. 1996 action-precedes-motivation line removed (unopened).
+- Plain words: replicate fixed; example relabelled as imagined case.
+- MILESTONE: item 25 of 30. Advisor QC requested for items 21-25 (AT057, AT061, AT074, BE007, BE016).
+- Proposals: reciprocals into The single step and Right effort (leads to be read before save).

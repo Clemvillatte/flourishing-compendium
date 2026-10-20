@@ -12,15 +12,33 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BE — Overt Be
 ---
 > **Principle 16** — Learn to use the "just 5 minutes" technique: lower the barrier to starting
 
-The "just 5 minutes" technique involves committing to just 5 minutes of a behaviour. This lowers the activation energy and often leads to continuing. It is a simple anti-avoidance technique.
+Fogg's behavior model is the opened source. Its abstract:
 
-**Plain words** The five-minute deal: commit to only five minutes of the thing. It lowers the starting barrier to almost nothing — and once started, the engine usually keeps running. Even when it doesn't, five minutes beats zero.
+> "In this model (FBM), behavior is a product of three factors: motivation, ability, and triggers, each of which has subcomponents." ([Fogg, 2009, Persuasive '09, full text](https://storage.ghost.io/c/89/6e/896e4a8a-731d-46fb-a1c8-1b750eb08140/content/files/2024/03/BJ-Fogg--A-Behavior-Model-for-Persuasive-Design.pdf))
 
-*For example:* "Just five minutes of tidying" and forty minutes later the kitchen's done — the five minutes were never the plan, they were the ignition.
+> "The FBM asserts that for a person to perform a target behavior, he or she must (1) be sufficiently motivated, (2) have the ability to perform the behavior, and (3) be triggered to perform the behavior." ([Fogg, 2009, same text](https://storage.ghost.io/c/89/6e/896e4a8a-731d-46fb-a1c8-1b750eb08140/content/files/2024/03/BJ-Fogg--A-Behavior-Model-for-Persuasive-Design.pdf))
+
+> "These three factors must occur at the same moment, else the behavior will not happen." ([Fogg, 2009, same text](https://storage.ghost.io/c/89/6e/896e4a8a-731d-46fb-a1c8-1b750eb08140/content/files/2024/03/BJ-Fogg--A-Behavior-Model-for-Persuasive-Design.pdf))
+
+On the barrier side, the paper's design principle:
+
+> "To increase a user's ability, designers of persuasive experiences must make the behavior easier to do." ([Fogg, 2009, same text](https://storage.ghost.io/c/89/6e/896e4a8a-731d-46fb-a1c8-1b750eb08140/content/files/2024/03/BJ-Fogg--A-Behavior-Model-for-Persuasive-Design.pdf))
+
+> "In general, persuasive design succeeds faster when we focus on making the behavior simpler instead of trying to pile on motivation." ([Fogg, 2009, same text](https://storage.ghost.io/c/89/6e/896e4a8a-731d-46fb-a1c8-1b750eb08140/content/files/2024/03/BJ-Fogg--A-Behavior-Model-for-Persuasive-Design.pdf))
+
+The model grounds the start: a five-minute version of a task requires less ability, so it happens at lower motivation. The other half of the technique — that starting usually leads to continuing — is the technique's bet, not a finding from this source.
+
+**Plain words** The model says behavior needs motivation, ability, and a trigger at the same moment. The five-minute deal works on the ability side: shrink the task until the motivation you actually have is enough. Whether you keep going after five minutes is a separate question the model does not answer; the deal's guarantee is only that you start.
+
+*For example:* (Imagined case.) "Just five minutes of tidying" and forty minutes later the kitchen is done — the five minutes were never the plan; they were the ignition. When they really are only five minutes, the deal still beats zero.
+
+## Sources
+
+- [Fogg, B. J. (2009). A behavior model for persuasive design. Persuasive '09, full text](https://storage.ghost.io/c/89/6e/896e4a8a-731d-46fb-a1c8-1b750eb08140/content/files/2024/03/BJ-Fogg--A-Behavior-Model-for-Persuasive-Design.pdf) — the model sentences and the simplicity principle quoted above
+
 ## Psychology parallels
 
-- **Lowering activation energy**, reducing the barrier to starting increases initiation (Fogg, 2019; Clear, 2018)
-- **Action precedes motivation**, starting generates motivation (Jacobson et al., 1996)
+- **Lowering the barrier to starting**, the source quoted above (Fogg, 2009)
 
 ## Philosophy parallels
 
