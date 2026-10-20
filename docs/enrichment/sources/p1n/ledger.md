@@ -41,9 +41,11 @@ source; anything not opened is recorded as inherited and unverified.
   fetched abstracts ("two experiments reported..."; "the experiments linked..."),
   links to both EconPapers records added, Liu co-citation removed as unverified.
 - Validator: ok (only warning: no Related concepts section, inherited).
-- QC status: round 1 repaired the body (accepted in round 2); psychology tails
-  repaired in round 2; validated vs pre-rewrite baseline 71fd7049. D024 remains
-  QC-pending final advisor acceptance of the round-2 bullet edit.
+- QC status: body repaired in round 1 and accepted in round 2; psychology tails
+  repaired in round 2 and ACCEPTED by the advisor in round 3 (PASS, no further
+  wording edits; acceptance does not certify unseen inherited sections).
+  Validated vs pre-rewrite baseline 71fd7049. Saturation: one reciprocal
+  proposed (D024 into Attention management) in proposals/p1n.json.
 
 ### D027 — Weigh fame and goods against your self (2026-10-20)
 - Opened: Legge DDJ 13 and 44 (Gutenberg, above). Blockquote = ch. 44 part 1 verbatim
