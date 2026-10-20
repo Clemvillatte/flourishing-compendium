@@ -12,17 +12,19 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 4** — Make discrimination your master skill
 
-In the Woods translation, Yoga Sūtra 2.26 names the means of escape: "the means of attaining escape is unwavering discriminative discernment" (viveka-khyāti). Sūtra 2.28 places the same discernment at the far end of practice: after the aids to yoga have been followed up and impurity has dwindled, there is an enlightenment of perception reaching up to the discriminative discernment. Viveka here is not intelligence in general; it is a discernment the sutras call unwavering, trained through the practice of yoga's aids, and exercised at the moment of choice. The compendium exercise builds it in directly: at each day's hardest moment, ask what here is actually what it appears to be.
+Yoga Sūtra 2.26 describes unwavering discriminative discernment as the means of escape. Sūtra 2.28 connects the development of that discernment with following yoga's aids and the dwindling of impurity. These passages place discernment within the discipline's path of practice.
+
+An everyday compendium exercise is to pause before a difficult decision and separate what you have observed from what you have assumed.
 
 > The means of attaining escape is unwavering discriminative discernment.
 >
 > Patañjali, Yoga Sūtra 2.26, translated by James Haughton Woods (1914), [reprinted text](https://www.theessentialway.org/yoga-sutras/).
 
 **Plain words**
-The sutra names unwavering discriminative discernment as the means of escape. The training is a question asked at the moment of choice: what here is actually what it appears to be? Ask it once a day, at the hardest moment.
+Choose a decision you feel certain about. Write down what you have observed, what you have assumed, and what still needs checking.
 
 **For example**
-In an imagined exercise, someone in a business panic lists their fears and marks each one as either passing weather or structural fact, producing two columns without deleting anything.
+In an imagined exercise, a shop owner records a sales figure, a forecast and an unanswered question separately before choosing a next step.
 
 ## Psychology parallels
 

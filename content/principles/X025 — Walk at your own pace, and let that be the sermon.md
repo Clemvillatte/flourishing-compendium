@@ -12,17 +12,17 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "X — Extra 
 ---
 > **Principle 25** — Walk at your own pace, and let that be the sermon
 
-Walden's conclusion carries the passage: why be in such desperate haste to succeed, and if a man does not keep pace with his companions, perhaps it is because he hears a different drummer — let him step to the music which he hears, however measured or far away; it is not important that he should mature as soon as an apple-tree or an oak. Whitman's opening stance is the same refusal in a posture: "I loafe and invite my soul, I lean and loafe at my ease observing a spear of summer grass." Together the texts set a pacing principle for whole lives: maturation has its own rate, and another's calendar is not the measure of it.
+In the conclusion of Walden, Thoreau questions haste in pursuing success. He allows that someone who falls behind companions may be following a different rhythm and compares maturity with the growth of trees. Whitman's speaker pauses to observe grass in the opening passage of Song of Myself.
 
-As a compendium exercise, name one domain where you count yourself behind by others' calendar (work, family, craft, savings), write down whose clock you borrowed, and re-date the domain by your own.
+For a compendium exercise, choose one goal whose deadline comes from comparison with peers. Record how you adopted that deadline and what timetable would fit your circumstances.
 
 > "If a man does not keep pace with his companions, perhaps it is because he hears a different drummer. Let him step to the music which he hears, however measured or far away. It is not important that he should mature as soon as an apple-tree or an oak." (Walden, Conclusion)
 
 **Plain words**
-Don't measure your progress with someone else's clock. Walden says a person who falls behind companions may simply hear different music. Write down where you think you are late, whose clock you borrowed, and what your own pace would be.
+Pick a goal that makes you feel late. Who set the expected date? Write down which parts of the schedule you can change and why you would change them.
 
 **For example**
-In an imagined exercise, a writer who has not published by 40 writes down the under-30 lists they grew up hearing, crosses out the borrowed clock, and sets a page-per-week rate of their own.
+In an imagined exercise, a writer who has not published by 40 writes down the under-30 lists they grew up hearing and drafts a weekly writing schedule.
 
 ## Psychology parallels
 
@@ -36,4 +36,4 @@ In an imagined exercise, a writer who has not published by 40 writes down the un
 ## Sources
 
 - [Thoreau, Walden — Conclusion, Project Gutenberg](https://www.gutenberg.org/files/205/205-h/205-h.htm) — the different drummer; the apple-tree and the oak
-- [Whitman, Leaves of Grass — Song of Myself 2, Project Gutenberg](https://www.gutenberg.org/files/1322/1322-h/1322-h.htm) — loafe and invite my soul
+- [Whitman, Leaves of Grass (1892) — Song of Myself 1, Project Gutenberg](https://www.gutenberg.org/files/1322/1322-h/1322-h.htm) — the opening passage's loafe and observe

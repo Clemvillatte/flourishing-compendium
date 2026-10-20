@@ -1,0 +1,34 @@
+{
+  "batch": "p1zp",
+  "revision": 1,
+  "records": [
+    {
+      "action": "reciprocal",
+      "into": "Chitta-vritti",
+      "link": "Y002",
+      "why": "listed for comparison with the principle's account of the restriction of the mind's fluctuations",
+      "notes": "page read by worker-p1zp-a7f3c2e1 before proposal; ground: Chitta-vritti defines the fluctuations via YS 1.2 and cites Y001/Y027 in Related concepts, but its Cited-in-philosophy-parallels section is empty; Y002 quotes Woods 1.2 and 1.12 on restriction and its means"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Avidya",
+      "link": "Y003",
+      "why": "listed for comparison with the principle's Yoga-Sutra account of avidya as misrecognition",
+      "notes": "page read by worker-p1zp-a7f3c2e1 before proposal; ground: Avidya page covers the Buddhist avijja root (Bhikkhu Bodhi) and moha, cites no compendium principles; Y003 quotes Woods YS 2.5's definition of the mis-taking, the Patañjalian counterpart on the same concept page"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Viveka",
+      "link": "Y004",
+      "why": "listed for comparison with the principle's account of discriminative discernment as the means of escape",
+      "notes": "page read by worker-p1zp-a7f3c2e1 before proposal; ground: Viveka page defines the discernment and pairs it with Vairagya, cites no compendium principles; Y004 quotes Woods YS 2.26 on unwavering discriminative discernment"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Abhyasa",
+      "link": "Y005",
+      "why": "listed for comparison with the principle's account of practice and passionlessness as paired means",
+      "notes": "page read by worker-p1zp-a7f3c2e1 before proposal; ground: Abhyasa page quotes YS 1.13/1.14 (Wisdom Library) and BG 6.35 and cites Y063 only; Y005 quotes Woods YS 1.12 pairing practice with passionlessness and 1.15's definition"
+    }
+  ]
+}

@@ -12,14 +12,16 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 3** — Recognize misperception as the root error
 
-In the Woods translation of Yoga Sūtra 2.3, the five hindrances are listed: undifferentiated-consciousness (avidyā), the feeling-of-personality, passion, aversion, and the will-to-live. Sūtra 2.4 makes avidyā the field for the others, whether they be dormant, attenuated, intercepted or sustained. Sūtra 2.5 defines it: the recognition of the permanent, of the pure, of pleasure, and of a self in what is impermanent, impure, pain, and not-self. The root error on this account is a systematic mis-taking rather than stupidity, and the other hindrances grow in its field. The compendium exercise follows: take your strongest certainties and check them against the four mis-takings, especially where something you want is involved.
+Yoga Sūtra 2.3 names five hindrances, with avidyā appearing first. Sūtra 2.4 describes it as the ground for the others across their different states. The definition in 2.5 concerns misrecognition involving permanence, purity, pleasure and selfhood.
+
+For a compendium exercise, choose one belief about something you expect to last. Write down what supports that expectation and what evidence of change you might have overlooked.
 
 > The recognition of the permanent, of the pure, of pleasure, and of a self in what is impermanent, impure, pain, and not-self is undifferentiated-consciousness.
 >
 > Patañjali, Yoga Sūtra 2.5, translated by James Haughton Woods (1914), [reprinted text](https://www.theessentialway.org/yoga-sutras/).
 
 **Plain words**
-The root error is mis-taking, not lack of intelligence: seeing the permanent, the pure, pleasure, and a self where the sutra lists the impermanent, the impure, pain, and not-self. The other hindrances grow in this field. Take your strongest current certainty and check it against the four mis-takings.
+Think of something you expect to remain part of your life, such as a role or possession. What changes could affect it? Record what you can actually establish about its permanence.
 
 **For example**
 In an imagined exercise, someone certain that a job title is permanent writes that belief beside the sutra's four mis-takings and marks which of the four the belief involves.
