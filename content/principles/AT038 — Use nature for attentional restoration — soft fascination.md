@@ -12,11 +12,26 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AT — Attentio
 ---
 > **Principle 38** — Use nature for attentional restoration: soft fascination
 
-Natural environments restore attention through "soft fascination" — effortlessly engaging stimuli (clouds moving, leaves rustling, water flowing) that do not require effortful attention but gently occupy awareness, allowing directed attention to recover.
+Kaplan's attention restoration theory splits attention into a directed, effortful mode that fatigues with use and an effortless mode that fascination supplies. Restorative environments let the effortful mode rest while fascination gently holds awareness. The soft version is the everyday case: clouds, sunsets, snow patterns, leaves moving in the breeze.
 
-**Plain words** Nature restores attention by giving it effortless, gentle things to watch — clouds, leaves, water. "Soft fascination" — the mind is held, but not gripped, and the battery recharges. It's restoration disguised as doing nothing.
+> "Many of the fascinations afforded by the natural setting qualify as 'soft' fascinations: clouds, sunsets, snow patterns, the motion of the leaves in the breeze—these readily hold the attention, but in an undramatic fashion. Attending to these patterns is effortless, and they leave ample opportunity for thinking about other things." (Kaplan, "The restorative benefits of nature: Toward an integrative framework", Journal of Environmental Psychology 15, 1995, p. 174, [PDF](https://new.censusatschool.org.nz/wp-content/uploads/2013/09/restorative-benefits-of-nature.pdf))
 
-*For example:* The lunchtime walk through the park instead of the phone-scroll by the microwave — same 20 minutes, opposite effect on the afternoon. The trees are doing the work.
+The theory also marks a distinction within fascination itself. Auto racing grips; a walk in a natural setting holds. Soft fascination leaves room for reflection, and that room is part of what makes it restorative.
+
+> "Fascination can also derive from extremes along a 'soft-hard' dimension. Thus, there is the 'hard' fascination of watching auto racing and 'soft' fascination of walking in a natural setting. Soft fascination characteristic of certain natural settings has a special advantage in terms of providing an opportunity for reflection, which can further enhance the benefits of recovering from directed attention fatigue." (Kaplan, 1995, p. 172, [PDF](https://new.censusatschool.org.nz/wp-content/uploads/2013/09/restorative-benefits-of-nature.pdf))
+
+The framework is careful about limits: fascination is a necessary but not sufficient basis for recovery, and the model pairs it with being away, extent and compatibility (p. 173). Natural settings are treated as particularly rich in all four.
+
+**Plain words**
+There are two ways attention can be held. One takes effort and wears out; that is the kind you spend all morning. The other is the kind clouds and moving leaves have: they hold you lightly, cost nothing, and leave room for thought. Time spent in the second kind is how the first one refills.
+
+**For example**
+The lunchtime walk through the park instead of the scroll by the microwave: same twenty minutes, and the afternoon goes differently afterwards. The trees hold attention lightly while the effortful kind recharges.
+
+## Sources
+
+- [Kaplan, "The restorative benefits of nature: Toward an integrative framework", Journal of Environmental Psychology 15(3), 169-182 (1995), PDF](https://new.censusatschool.org.nz/wp-content/uploads/2013/09/restorative-benefits-of-nature.pdf) — soft-hard fascination dimension (p. 172); fascination necessary-not-sufficient (p. 173); soft fascination exemplars (p. 174); DOI [10.1016/0272-4944(95)90001-2](https://doi.org/10.1016/0272-4944(95)90001-2)
+
 ## Psychology parallels
 
 - **[[Attention restoration|Attention restoration theory (Kaplan)]]**, nature restores directed attention through soft fascination and effortless attention (Kaplan, 1995; Kaplan & Berman, 2010)

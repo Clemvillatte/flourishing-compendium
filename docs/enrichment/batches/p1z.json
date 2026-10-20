@@ -8,15 +8,16 @@
   "AT001",
   "AT012",
   "AT014",
-  "AT026"
+  "AT026",
+  "AT038"
  ],
- "in_progress": "AT038",
+ "in_progress": null,
  "flagged": {
   "BE023": "Reopened for QC: advisor QC round 1: prose repairs required",
   "AT001": "Reopened for QC: advisor QC correction cycle complete (round 3 scoped PASS)"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T07:03:56+00:00",
+ "updated": "2026-10-20T07:04:42+00:00",
  "band_done": false
 }
