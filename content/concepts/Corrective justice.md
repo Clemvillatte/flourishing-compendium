@@ -10,7 +10,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 “Corrective justice” — Aristotle, NE V.4.
 
-Corrective justice is the justice of repair. Aristotle's account in Book V of the Nicomachean Ethics sets it apart from the distributive kind, which divides common goods by proportion; corrective justice deals with transactions between two parties, and its rule is a simple equality. It does not ask who the parties are:
+Corrective justice is the justice of repair. Aristotle's account in Book V of the Nicomachean Ethics sets it apart from the distributive kind, which divides common goods by proportion; corrective justice deals with transactions between two parties, and its rule is a simple equality. Aristotle says that whether the parties are morally good or bad does not alter this equality:
 
 > the law looks only to the distinctive character of the injury, and treats the parties as equal, if one is in the wrong and the other is being wronged, and if one inflicted injury and the other has received it. — Aristotle, Nicomachean Ethics V.4, Ross translation, [Internet Classics Archive (opened)](https://classics.mit.edu/Aristotle/nicomachaen.5.v.html)
 
@@ -47,10 +47,3 @@ The judge, he says, is by nature a sort of animate justice, and to go to the jud
 
 - [[A102 — Distinguish justice from revenge]]
 - [[S042 — Practise non-retaliation]]
-- [[A097 — Practise corrective justice]]
-- [[ST176 — The Ring of Gyges]]
-- [[SP081 — Transfer vengeance to the commonwealth]]
-- [[A023 — Practice justice (dikaiosyne)]]
-- [[ST178 — Walter McMillian's Case]]
-- [[ST177 — Erin Brockovich Reads the Files]]
-- [[ST175 — Antigone and the Unwritten Laws]]
