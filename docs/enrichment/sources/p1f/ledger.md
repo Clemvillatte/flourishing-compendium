@@ -127,3 +127,13 @@
 - A047: grounded in VI.13; seed's Plato/MacIntyre/DDJ parallels kept as locators (not opened).
 - A057: grounded in VII.8/VII.10; the "developmental stage" framing kept as the seed's gloss (the opened text supports curability and habit-change, which is what the prose claims); VII.2 note: the Socrates-passage sits in VII.2 on the Perseus page; the seed's locator (VII.3) left as inherited. Gollwitzer/Lally/Dewey parallels kept as locators.
 - All four validated: 4 checked, 0 failed (A047, A057 first pass; A030, A046 after seed-structure restoration).
+
+### Checkpoint round-2 corrections (2026-10-20, worker-p1f-b7894e46)
+- TRANSLATOR CORRECTION (advisor-caught): the Perseus text (1999.01.0054) is H. RACKHAM's translation (Loeb 1926/1934), NOT "W. D. Ross" as first attributed. All five A-item pages corrected to "trans. H. Rackham." The quoted wording itself was always verbatim from the opened Perseus text; only the attribution label was wrong.
+- Chapter locators verified against the Perseus page headings: "Nor is Prudence a knowledge of general principles only" = VI.7 (was cited VI.8, corrected on A046); "perception of particulars" = VI.11; "eye of the soul" and "we cannot be prudent without being good" = VI.12; "These considerations..." and "For if a man have the one virtue of Prudence" = VI.13; VII: Socrates passage = ch. 2 (seed's VII.3 locator kept as inherited); curability and awareness passages = ch. 8; habit-vs-nature = ch. 10.
+- A013: opening and exercise replaced per advisor; "locates it in use rather than acquisition" and "Giving everything isn't virtue" glosses removed.
+- A030: opening reframed as compendium application; "On this account, a claim to one virtue..." inference removed; plain words narrowed; VI.12-13 added to the locator line.
+- A046: VI.8 → VI.7 corrected; training/perception-development claims removed; plain words replaced with the advisor's exercise text.
+- A047: pairwise declarations ("courage without temperance is not courage; generosity without justice is not generosity") removed from synthesis and plain words; example reframed as the compendium's hypothetical exercise.
+- A057: opening reframed as compendium application; "developmental stage" gloss removed (kept in the seed's protected reflections block, NOT certified — routed under protocol as inherited seed content); runner example replaced by the advisor's exercise text.
+- Validation pattern: each item repaired under set -euo pipefail with the validator's own exit status (no pipes), one item at a time, validate && done chains.

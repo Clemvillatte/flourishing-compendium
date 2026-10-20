@@ -42,11 +42,11 @@
   "SE008",
   "SO002",
   "SO018",
-  "A057",
   "A013",
   "A030",
   "A046",
-  "A047"
+  "A047",
+  "A057"
  ],
  "in_progress": null,
  "flagged": {
@@ -71,10 +71,11 @@
   "A013": "Reopened for QC: Reopened for QC: translator misattribution (Rackham not Ross) + narrow fixes",
   "A030": "Reopened for QC: Reopened for QC: distinguish application from Aristotle; translator fix",
   "A046": "Reopened for QC: Reopened for QC: chapter locator VI.7; remove training inference",
-  "A047": "Reopened for QC: Reopened for QC: qualify unity claim; remove pairwise declarations"
+  "A047": "Reopened for QC: Reopened for QC: qualify unity claim; remove pairwise declarations",
+  "A057": "Reopened for QC: Reopened for QC: distinguish report from reform recommendation; remove developmental gloss"
  },
  "missing_concepts": [],
  "sources_checked": 22,
- "updated": "2026-10-20T04:44:06+00:00",
+ "updated": "2026-10-20T04:44:17+00:00",
  "band_done": false
 }
