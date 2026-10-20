@@ -12,11 +12,15 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 190** — Distinguish between healthy and unhealthy emotions
 
-The Stoics distinguish passions (pathē) from eupatheiai (healthy emotions). Joy (chara) is the healthy counterpart to pleasure; wish (boulesis) is the healthy counterpart to desire; caution (eulabeia) is the healthy counterpart to fear. The goal is not to eliminate emotion but to transform it from passion to eupatheia.
+The Stoics did not ask the wise person to feel nothing. They held that passions rest on mistaken judgments about what is good or bad, and that the corrected judgment brings a different, healthy feeling. Diogenes Laertius sets out the three:
 
-(Seneca, De Ira I.7; Disc. III.2; Med. VI.16; Stobaeus, Eclogae II.7.)
+> "Also they say that there are three emotional states which are good, namely, joy, caution, and wishing. Joy, the counterpart of pleasure, is rational elation; caution, the counterpart of fear, rational avoidance; for though the wise man will never feel fear, he will yet use caution. And they make wishing the counterpart of desire (or craving), inasmuch as it is rational appetency." (Diogenes Laertius, Lives VII.116, Hicks translation, [LacusCurtius](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diogenes_Laertius/Lives_of_the_Eminent_Philosophers/7/Zeno*.html).)
 
-**Plain words** Stoics distinguish passions from healthy emotions. Joy is the healthy form of pleasure, wish of desire, caution of fear. The aim isn't to eliminate emotion but to turn passion into its healthy counterpart.
+### What separates the two kinds
+
+The Stanford Encyclopedia of Philosophy explains the difference by object. Passions are "typically directed at indifferents incorrectly judged to be good or bad," while the Sage's good feelings "are emotional responses to genuine goods, i.e. to virtue, virtuous actions, and virtuous friends." The same entry says the Stoic account of good feelings "belies the caricature of the Sage as an unfeeling robot" (SEP, Stoicism, section 4.7, [text](https://plato.stanford.edu/entries/stoicism/)). The passage opened does not list the three by name, so the list rests on Diogenes.
+
+**Plain words** Fear says "this must not happen to me." Caution says "this would be bad, so I will take care." The first one floods you. The second one leaves you able to act. The Stoics counted the second as a healthy feeling and wanted people to move from the first toward it, on the view that most of the flooding comes from overrating things outside your control.
 
 *For example:* Replacing "I must get that job" with "I'd like it and will do what I can."
 
