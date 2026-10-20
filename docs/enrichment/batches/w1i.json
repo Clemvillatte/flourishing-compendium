@@ -15,7 +15,7 @@
   "Social cognitive career theory",
   "Social support theory Cohen Wills"
  ],
- "in_progress": null,
+ "in_progress": "Stimulus control theory",
  "flagged": {
   "Non-dual awareness": "RESOLVED milestone-five QC: exact definition blockquote added, NDA expanded; source and preservation checks pass",
   "Focused-attention meditation": "RESOLVED milestone-five QC: sentence-case subheading added; source and preservation pass",
@@ -25,6 +25,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 17,
- "updated": "2026-10-20T06:42:07+00:00",
+ "updated": "2026-10-20T06:42:10+00:00",
  "band_done": false
 }
