@@ -34,6 +34,34 @@
       "phrase": "double-edged impermanence",
       "why": "B123's line 42 asks 'What's your version of the double-edged impermanence?' in plain text; the page is the hub for the concept named, and B123 currently has no [[Impermanence]] wikilink (rg-verified).",
       "_audit_why": "B123 file read via rg with line numbers; phrase verbatim at line 42; no existing Impermanence link"
+    },
+    {
+      "into": "AT054",
+      "concept": "Deliberate practice",
+      "phrase": "Regular meditation, deliberate practice, and attention-friendly environments all improve it",
+      "why": "AT054's Practice section (line 49) names deliberate practice in plain text as one of the things that trains attention; the Deliberate practice concept page is the compendium's page for exactly that term, and AT054 currently has no [[Deliberate practice]] wikilink (rg-verified).",
+      "_audit_why": "AT054 file read via rg with line numbers; phrase verbatim at line 49; no existing Deliberate practice link"
+    },
+    {
+      "into": "AT006",
+      "concept": "Deliberate practice",
+      "phrase": "Regular meditation, deliberate practice, and attention-friendly environments all improve it",
+      "why": "AT006's Practice section (line 49) contains the same plain-text sentence naming deliberate practice as a way attention improves; AT006 currently has no [[Deliberate practice]] wikilink (rg-verified).",
+      "_audit_why": "AT006 file read via rg with line numbers; phrase verbatim at line 49; no existing Deliberate practice link"
+    },
+    {
+      "into": "AT025",
+      "concept": "Deliberate practice",
+      "phrase": "It improves with deliberate practice, just as physical strength improves with exercise",
+      "why": "AT025's body (line 15) states concentration 'improves with deliberate practice, just as physical strength improves with exercise' in plain text; the concept page is the compendium's page for the term, and AT025 currently has no [[Deliberate practice]] wikilink (rg-verified).",
+      "_audit_why": "AT025 file read via rg with line numbers; phrase verbatim at line 15; no existing Deliberate practice link"
+    },
+    {
+      "into": "CO082",
+      "concept": "Deliberate practice",
+      "phrase": "deliberate practice is the related idea",
+      "why": "CO082's body (line 42) says 'deliberate practice is the related idea (Ericsson et al., 1993)' in plain text; the concept page is the compendium's page for the term and cites the same 1993 paper, and CO082 currently has no [[Deliberate practice]] wikilink (rg-verified).",
+      "_audit_why": "CO082 file read via rg with line numbers; phrase verbatim at line 42; no existing Deliberate practice link"
     }
   ],
   "reciprocal": [

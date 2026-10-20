@@ -10,15 +10,39 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 expertise built through structured feedback (Ericsson et al., 1993).
 
+Deliberate practice is Ericsson, Krampe and Tesch-Römer's term for the kind of practice that produces expert performance: activities specially designed to improve the current level of performance, with specific goals, immediate feedback and repetition, usually arranged by a teacher or coach. The framework's home is the 1993 Psychological Review paper, built on studies of violin students and pianists at the Berlin music academy. Its abstract states the scope plainly: in most domains of expertise, individuals begin in childhood a regimen of effortful activities designed to optimize improvement, and many characteristics once believed to reflect innate talent are, on this account, the result of intense practice extended for a minimum of ten years.
+
+The evidence base was retrospective: the Berlin musicians estimated their accumulated hours of practice, and the most accomplished players reported the most practice. That retrospective method is where later work pressed. A 2019 replication of the original violin design, run double-blind with analyses the authors argue suit the design better, found the effect substantial but considerably smaller than the original, and did not reproduce the correspondence between practice amounts and each skill level. The contested part is the strength of the accounting claim: what the replication pressed was how much of the difference in skill the practice hours can account for.
+
+### What the practice involves
+
+The 1993 definition:
+
+> “In contrast to play, deliberate practice is a highly structured activity, the explicit goal of which is to improve performance. Specific tasks are invented to overcome weaknesses, and performance is carefully monitored to provide cues for ways to improve it further.” (Ericsson, Krampe and Tesch-Römer 1993, [Psychological Review 100(3):363-406](https://gwern.net/doc/psychology/writing/1993-ericsson.pdf), p. 368)
+
+Ericsson's later overview compresses the conditions:
+
+> “DP also involves the provision of immediate feedback, time for problem-solving and evaluation, and opportunities for repeated performance to refine behavior.” (Ericsson 2008, [Acad Emerg Med 15(11):988-94](https://pubmed.ncbi.nlm.nih.gov/18778378/), abstract)
+
+### The strong claim and its contested status
+
+The 1993 summary claim:
+
+> “We argue that expertise and expert performance are the result of extensive engagement in relevant practice activities supervised by teachers and coaches and that individual differences in ultimate performance can largely be accounted for by differential amounts of past and current levels of practice.” (Ericsson, Krampe and Tesch-Römer 1993, [Psychological Review 100(3):363-406](https://gwern.net/doc/psychology/writing/1993-ericsson.pdf), p. 392)
+
+A 2019 replication of the original violin design did not reproduce the core finding:
+
+> “We did not replicate the core finding that accumulated amounts of deliberate practice corresponded to each skill level. Overall, the size of the effect was substantial, but considerably smaller than the original study's effect size.” (Macnamara and Maitra 2019, [R Soc Open Sci 6(8):190327](https://pubmed.ncbi.nlm.nih.gov/31598236/), abstract)
+
+### In the compendium
+
+- [[PP020 — Build feedback into practice]] and [[P109 — Pair every experience with reflection]] — the feedback and reflection components
+- [[D072 — Learn by doing, not only by reading]] and [[BE060 — Engage in mastery behaviour — build competence through practice]] — practice as the route to competence
+- [[AT054 — Learn to train attention through deliberate practice — not just meditation]] and [[AT031 — Cultivate attentional endurance — build capacity gradually]] — attention treated as a trainable domain
+- [[B058 — Sit daily — consistency over intensity]] and [[K057 — Train patience, energy, concentration, and wisdom as the sequence]] — the contemplative training parallels
+- [[D160 — Be patient with your own maturation]] and [[CO072 — Cultivate cognitive endurance — thinking is effortful and can be trained]] — capacity built over years
+
 ## Other formulations in this library
-
-
-
-
-
-
-
-
 
 - expertise is built in doing, with feedback (Ericsson et al., 1993)
 
@@ -26,19 +50,20 @@ expertise built through structured feedback (Ericsson et al., 1993).
 
 ## Related concepts
 
-
-
-
-
 - [[Attention]] — attention aimed at improvement
 - [[Effortless action through long effort]] — the effortful training whose output is the effortless edge
 - [[Growth through practice]] — the contemplative ancestor of effortful training
 - [[Reflective practice]] — reflection supplies the feedback loop deliberate practice needs
 - [[Situation awareness in expert performance]] — how the tacit repertoire is built
+- [[Gradual training]] — the Buddhist sequence of training stages
+- [[Growth mindset]] — the belief about ability that keeps the practice going
+- [[Experience plus reflection]] — the general loop the structured version sharpens
+
 ## Sources
 
-- Ericsson et al., 1993
-- Ericsson
+- Ericsson et al., 1993 — [The Role of Deliberate Practice in the Acquisition of Expert Performance, Psychological Review 100(3):363-406 (PDF)](https://gwern.net/doc/psychology/writing/1993-ericsson.pdf) — abstract, definition (p. 368) and summary claim (p. 392) quoted above
+- Ericsson — [Deliberate Practice and Acquisition of Expert Performance: A General Overview, Acad Emerg Med 15(11):988-94](https://pubmed.ncbi.nlm.nih.gov/18778378/) — abstract quoted above
+- Macnamara and Maitra 2019 — [The role of deliberate practice in expert performance: revisiting Ericsson, Krampe & Tesch-Römer (1993), R Soc Open Sci 6(8):190327](https://pubmed.ncbi.nlm.nih.gov/31598236/) — replication abstract quoted above
 - Ericsson's deliberate-practice research, as framework
 - the series' craft kernels
 - Ericsson's research, as framework
@@ -63,14 +88,6 @@ expertise built through structured feedback (Ericsson et al., 1993).
 
 [[CO083 — Wisdom sets bounds even to knowledge]]
 ## Cited in philosophy parallels
-
-
-
-
-
-
-
-
 
 - [[SE060 — Learn mastery experiences — build self-efficacy through doing]]
 - [[B058 — Sit daily — consistency over intensity]]
