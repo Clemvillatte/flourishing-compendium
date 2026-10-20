@@ -1,6 +1,6 @@
 {
  "batch": "p1zk",
- "revision": 8,
+ "revision": 9,
  "reciprocal": [
   {
    "into": "Sleep deprivation",
@@ -61,6 +61,12 @@
    "link": "BE062",
    "why": "the values-clarification review and Acting-on-Values trial test what acting on values does",
    "notes": "Evidence in sources/p1zk/BE062.md (Napier & Mangat 2026, Bojanowska 2022, both opened). Values concept is linked from BE062's parallels."
+  },
+  {
+   "into": "Homo ludens",
+   "link": "BE065",
+   "why": "the playfulness studies behind this principle measure the trait Huizinga's play-category names",
+   "notes": "Evidence in sources/p1zk/BE065.md (Proyer 2013/2021, both opened). Concept already cites BE065."
   }
  ],
  "inline": []
