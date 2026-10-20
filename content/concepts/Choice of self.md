@@ -12,7 +12,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 In Being and Nothingness, Sartre holds that a person is not a thing with a ready-made essence. You are a project: a stance you keep taking toward the world and your own future. The deep layer of that stance he calls the fundamental project, the choice of self. It is not one decision among others. On his account, every attitude and conduct finds its meaning in relation to the unity of a primary choice. The SEP entry explains past events as taking on meaning in relation to a person’s present project ([SEP, §5](https://plato.stanford.edu/entries/sartre/)).
 
-> the free choice which a man makes of himself is completely identified with what is called his destiny — Sartre, Baudelaire (1947; English translation 1967, p. 192), as quoted in [SEP, §5](https://plato.stanford.edu/entries/sartre/)
+> the free choice which a man makes of himself is completely identified with what is called his destiny — Sartre, Baudelaire, cited in SEP as 1947a [1967: 192], as quoted in [SEP, §5](https://plato.stanford.edu/entries/sartre/)
 
 Living out the project does not automatically mean understanding it explicitly.
 
@@ -45,7 +45,7 @@ Existential psychoanalysis seeks to understand the unity behind a person’s att
 
 ## Sources
 
-- Quotations from Sartre, Being and Nothingness (1956: 60, 570) and from Sartre’s Baudelaire (1947; English translation 1967, p. 192), all as printed in the [Stanford Encyclopedia of Philosophy entry on Sartre (opened)](https://plato.stanford.edu/entries/sartre/)
+- Quotations from Sartre, Being and Nothingness (1956: 60, 570) and from Sartre, Baudelaire (cited in SEP as 1947a [1967: 192]), all as printed in the [Stanford Encyclopedia of Philosophy entry on Sartre (opened)](https://plato.stanford.edu/entries/sartre/)
 - Sartre, Being and Nothingness
 
 ## Cited in philosophy parallels
