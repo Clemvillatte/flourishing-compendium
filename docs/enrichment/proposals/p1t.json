@@ -23,6 +23,18 @@
    "link": "D149 \u2014 Moderate food, drink, sex, and sleep",
    "why": "D149's locator line links the yangsheng literature as its home tradition; the moderation instruction the page quotes is a body-regulation passage from that tradition",
    "_audit_why": "D149 links [[Yangsheng (cultivating vitality)|yangsheng]]; the concept page's cited-in lists (read in full this session) include D141, D150, D153 but not D149 \u2014 reciprocal edge missing. Verified by reading content/concepts/Yangsheng (cultivating vitality).md in full this session."
+  },
+  {
+   "into": "Courage",
+   "link": "D172 \u2014 Courage with caution",
+   "why": "D172's psychology parallels list the courage research separating fearlessness from courage; DDJ 73's two boldnesses (daring / not-daring) are the Daoist counterpart of that separation",
+   "_audit_why": "D172 links [[Courage|Courage research separating fearlessness from courage]] in its psychology parallels; the Courage concept page (read in full this session, 40 lines) has an empty 'Cited in' list \u2014 reciprocal edge missing."
+  },
+  {
+   "into": "The doctrine of the mean",
+   "link": "D172 \u2014 Courage with caution",
+   "why": "D172's philosophy parallels list courage as the mean between rashness and cowardice; DDJ 73's two boldnesses name the same pair of extremes from the Daoist side",
+   "_audit_why": "D172 links [[The doctrine of the mean|Courage as the mean between rashness and cowardice]] in its philosophy parallels; the doctrine-of-the-mean concept page (read in full this session, 71 lines) cites D149 but not D172 in its cited-in list \u2014 reciprocal edge missing."
   }
  ],
  "inline": [],
