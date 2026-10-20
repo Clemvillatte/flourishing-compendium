@@ -175,6 +175,26 @@ a principle reserve from the active supervisor.
 - Saturation: fast-track exemption. All inherited links retained, no reciprocal.
 - QC: literal quote match, retained subheading and preservation validator before done.
 
+## Social support theory Cohen Wills
+
+- Track: fast-track, current degree 8 (all principles).
+- Opened 2026-10-20:
+  https://garfield.library.upenn.edu/classics1992/A1992JA16900001.pdf ,
+  Cohen's 1992 first-person retrospective on the 1985 Cohen/Wills review.
+  Search: Cohen Wills 1985 stress social support buffering hypothesis.
+- Access: the retrospective, not the original 1985 full paper. Institutional
+  repository fetch at
+  https://kilthub.cmu.edu/articles/journal_contribution/Stress_social_support_and_the_buffering_hypothesis_/6618335
+  was blocked by robots; not represented as read.
+- Quote: exact sentence beginning “Our own work suggested,” normalized only
+  for PDF line-break whitespace and typographic line-end hyphenation
+  (for example, differ- / ent becomes different). Literal comparison after
+  those layout-only repairs passes.
+- Scope: the authors' two models and their historical review findings; not a
+  universal effect, causal intervention test or current evidence synthesis.
+- Saturation: fast-track exemption. Existing links preserved, no reciprocal.
+- QC: literal quote match, retained subheading and preservation validator before done.
+
 ## Social exchange theory
 
 - Track: fast-track, current degree 8 (7 principles and 1 kernel).
