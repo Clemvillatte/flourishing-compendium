@@ -1,6 +1,6 @@
 {
  "batch": "p1zj",
- "revision": 4,
+ "revision": 5,
  "records": [
   {
    "action": "reciprocal",
@@ -71,6 +71,20 @@
    "link": "AF017",
    "why": "listed for comparison with the principle's two-axis reading of affect structure",
    "notes": "page read by worker-p1zj-6b93ad57 before proposing; ground: page covers dimensional affect structure adjacent to the PANAS independence evidence opened for AF017"
+  },
+  {
+   "action": "reciprocal",
+   "into": "Reward prediction error (Schultz)",
+   "link": "AF018",
+   "why": "listed for comparison with the principle's expectation-gap reading of affect",
+   "notes": "page read by worker-p1zj-6b93ad57 before proposing; ground: page covers RPE/affective-forecasting material adjacent to the Schultz 1997 and Rutledge 2014 sources opened for AF018"
+  },
+  {
+   "action": "reciprocal",
+   "into": "Affective forecasting",
+   "link": "AF018",
+   "why": "listed for comparison with the principle's expectation-gap reading of affect",
+   "notes": "page read by worker-p1zj-6b93ad57 before proposing; ground: page covers RPE/affective-forecasting material adjacent to the Schultz 1997 and Rutledge 2014 sources opened for AF018"
   }
  ]
 }
