@@ -16,19 +16,19 @@
   "P086",
   "P087",
   "P088",
-  "P094",
-  "P119"
+  "P094"
  ],
- "in_progress": null,
+ "in_progress": "P119",
  "flagged": {
   "P058": "Reopened for QC: QC round-3 touch-ups",
   "P054": "Reopened for QC: QC round-3 touch-ups",
   "P056": "Reopened for QC: QC round-3 touch-ups",
   "P088": "Reopened for QC: QC round 3: target-body reads completed, ledger/proposal record corrections",
-  "P094": "Reopened for QC: QC round 3: opening quote citation"
+  "P094": "Reopened for QC: QC round 3: opening quote citation",
+  "P119": "Reopened for QC: QC round 1 (advisor): quotes shortened to under 90 words, generalizations narrowed, example rebuilt with explicit target"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T04:29:44+00:00",
+ "updated": "2026-10-20T04:31:58+00:00",
  "band_done": false
 }
