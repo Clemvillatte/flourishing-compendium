@@ -63,3 +63,9 @@ Band: AF002..BE033, 30 principles, degree order (queue 628-673). Advisor QC cade
 - Scope: the page's old physiological-arousal/professional-settings claims were not in the opened abstract; removed, and the study's limits stated (habitual suppression, self-report, two student samples). "Context determines appropriateness" parallel (English & Eldreda 2020) kept as an unopened flagged parallel.
 - Plain words: replicate fixed; example replaced with labelled imagined case.
 - Proposals: reciprocals into Cultural differences in suppression's costs and Expressive suppression versus reappraisal (both exist; read before proposing).
+
+## AF034 — Cultivate equanimity: the capacity to remain steady amid affect
+- Evidence: Desbordes et al. 2015, Mindfulness 6(2) 356-372, open full text at pmc.ncbi.nlm.nih.gov/articles/PMC4350240, fetched this session. Both quoted sentences verified verbatim (definition; temporal signature). Conceptual review + measurement proposal, stated as such in the body.
+- Scope: "explicitly cultivated in contemplative traditions" claim kept out of the body (paper discusses cultivation techniques but the body now scopes to what was opened); sailor example replaced with labelled imagined case. Harrington & Pickles 2009 parallel kept as an unopened flagged parallel.
+- Plain words: replicate fixed (was body-copy with aphorism close).
+- Proposals: reciprocals into Equanimity, Apatheia, Wu wei (all three pages read before proposing).

@@ -1,6 +1,6 @@
 {
  "batch": "p1zj",
- "revision": 8,
+ "revision": 9,
  "records": [
   {
    "action": "reciprocal",
@@ -120,6 +120,27 @@
    "link": "AF032",
    "why": "listed for comparison with the principle's context-and-culture reading of suppression",
    "notes": "page read by worker-p1zj-6b93ad57 before proposing; ground: page covers suppression-cost material adjacent to the Soto 2011 abstract opened for AF032"
+  },
+  {
+   "action": "reciprocal",
+   "into": "Equanimity",
+   "link": "AF034",
+   "why": "listed for comparison with the principle's even-mindedness-and-return framing",
+   "notes": "page read by worker-p1zj-6b93ad57 before proposing; ground: page covers equanimity/apatheia/wu-wei material adjacent to the Desbordes 2015 definition opened for AF034"
+  },
+  {
+   "action": "reciprocal",
+   "into": "Apatheia",
+   "link": "AF034",
+   "why": "listed for comparison with the principle's even-mindedness-and-return framing",
+   "notes": "page read by worker-p1zj-6b93ad57 before proposing; ground: page covers equanimity/apatheia/wu-wei material adjacent to the Desbordes 2015 definition opened for AF034"
+  },
+  {
+   "action": "reciprocal",
+   "into": "Wu wei",
+   "link": "AF034",
+   "why": "listed for comparison with the principle's even-mindedness-and-return framing",
+   "notes": "page read by worker-p1zj-6b93ad57 before proposing; ground: page covers equanimity/apatheia/wu-wei material adjacent to the Desbordes 2015 definition opened for AF034"
   }
  ]
 }
