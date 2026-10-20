@@ -41,6 +41,13 @@
       "phrase": "attentional costs of media multitasking",
       "why": "AT063 covers the multitasking-costs evidence (Ophir et al. 2009) without linking AT055, which frames the same study as conditioning/default-setting",
       "notes": "found by mention scan during AT055 saturation"
+    },
+    {
+      "into": "AF081",
+      "type": "principle",
+      "phrase": "Autistic, ADHD, and other neurodivergent affective patterns",
+      "why": "the neurodivergent-affect principle covers ADHD without linking AT069, which documents the interest-based attention evidence",
+      "notes": "found by mention scan during AT069 saturation"
     }
   ],
   "inline": [
