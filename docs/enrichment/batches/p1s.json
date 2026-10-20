@@ -3,7 +3,6 @@
  "done": [
   "D025",
   "B064",
-  "D094",
   "D103",
   "D106",
   "B009",
@@ -30,11 +29,12 @@
   "P177",
   "P168",
   "B096",
-  "B049"
+  "B049",
+  "D094"
  ],
  "in_progress": null,
  "flagged": {
-  "D094": "Reopened for QC: Milestone QC FAIL: application mechanism unsupported; repairs pending",
+  "D094": "Reopened for QC: QC correction: forester clause exceeds source",
   "D103": "Reopened for QC: Milestone QC FAIL: explanation overreach; repairs pending",
   "D106": "Reopened for QC: Milestone QC FAIL: source interpretation overreach; repairs pending",
   "B038": "CROSS-BAND ERROR (2026-10-20): B038 is in p1c's manifest, not p1s's; I light-checked and edited it (plain words re-derivation + Balban/Zaccaro claim-tail trim) after misreading the queue as my manifest. Content kept or revert is the supervisor's call per the p1m precedent; advisor round-3 repairs for its body are recorded in sources/p1s/ledger.md and NOT applied by me.",
@@ -66,6 +66,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T03:49:25+00:00",
+ "updated": "2026-10-20T03:52:48+00:00",
  "band_done": false
 }
