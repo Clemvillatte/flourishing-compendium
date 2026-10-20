@@ -14,7 +14,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY
 Sociocultural · Psychological science
 ## What the theory says
 
-Robert Putnam drew the term from an analogy with physical and human capital. Tools and training make an individual more productive. His 1995 essay argued that certain features of a community do the same for collective life, and gave the analogy its canonical form:
+Robert Putnam's 1995 essay drew the term from an analogy with physical and human capital: tools and training enhance individual productivity, and certain features of a community do the same for collective life ([Putnam, 1995](https://historyofsocialwork.org/1995_Putnam/1995,%20Putnam,%20bowling%20alone.pdf)).
 
 > By analogy with notions of physical capital and human capital—tools and training that enhance individual productivity—"social capital" refers to features of social organization such as networks, norms, and social trust that facilitate coordination and cooperation for mutual benefit.
 > — Robert D. Putnam, "Bowling Alone: America's Declining Social Capital," Journal of Democracy 6(1), 1995, p. 67 ([full text](https://historyofsocialwork.org/1995_Putnam/1995,%20Putnam,%20bowling%20alone.pdf))
@@ -29,7 +29,9 @@ One boundary on this entry. The seed names Bourdieu alongside Putnam. No Bourdie
 
 ## In the compendium
 
-The principle on treating trust as social capital already runs on this theory. Trust is infrastructure, the confidence that others will cooperate and institutions will function, and it is built in small repeated keepings-of-word. The principle on social capital as a community resource adds the practical reading. The resource is built with boring things: showing up, joining, reciprocating. That principle also states the concern about decline, which is Putnam's own headline finding here.
+The principle [SO038](../principles/SO038%20%E2%80%94%20Treat%20trust%20as%20social%20capital.md) runs on this theory: trust is infrastructure, the confidence that others will cooperate and institutions will function, and it is built in small repeated keepings-of-word.
+
+The principle [SO062](../principles/SO062%20%E2%80%94%20Treat%20social%20capital%20as%20a%20community%20resource.md) adds the practical reading: the resource is built with boring things, showing up, joining, reciprocating. That principle also states the concern about decline, which is Putnam's own headline finding here. ([Putnam, 1995](https://historyofsocialwork.org/1995_Putnam/1995,%20Putnam,%20bowling%20alone.pdf)))
 
 ## Sources
 
