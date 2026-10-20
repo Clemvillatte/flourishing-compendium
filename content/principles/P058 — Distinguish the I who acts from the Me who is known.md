@@ -12,13 +12,19 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 58** — Distinguish the "I" who acts from the "Me" who is known
 
-In every moment there is the acting, spontaneous "I" and the objectified "Me": the self you observe and narrate. Don't confuse the narrator with the agent: the "I" always exceeds its story.
+Mead's distinction is compressed into one sentence: "The 'I' is the response of the organism to the attitudes of the others; the 'me' is the organized set of attitudes of others which one himself assumes" (Mind, Self and Society, p. 175, [text](https://archive.org/download/mead-1934/mead%201934.pdf)). The two arrive at different times. Of the acting self he says: "The 'I' appears in our experience in memory. It is only after we have acted that we know what we have done; it is only after we have spoken that we know what we have said" (p. 196). The known self is the settled part: "The 'me' is a conventional, habitual individual. It is always there" (p. 197).
 
-(Mead, Mind, Self and Society, 1934.)
+> "The 'I' both calls out the 'me' and responds to it. Taken together they constitute a personality as it appears in social experience. The self is essentially a social process going on with these two distinguishable phases." (Mead, Mind, Self and Society, p. 178, [text](https://archive.org/download/mead-1934/mead%201934.pdf))
 
-**Plain words** In every moment there's the acting, spontaneous 'I' and the objectified 'Me' — the self you observe and narrate. Don't confuse the narrator with the agent: the 'I' always exceeds its story. The résumé is a photo of the river, not the river.
+Mead is describing the social genesis of the self, and his timing claim is retrospective: the act is known only after it is done. The compendium's exercise is a proposed application he does not make: treat the self-verdict as a report on acts already finished, and treat the next act as outside that report's jurisdiction.
 
-*For example:* The panic of 'I'm someone who always quits' — that's the Me, the narrated one. The I reading this sentence can close the laptop and start anyway.
+### Plain words
+
+Two of you are present in every moment, and only one of them can be quoted. The "me" is the file, habits and reputation and the story so far. The "I" is whatever you do next, and it does not exist until it is being done. The résumé is a photo of the river, not the river.
+
+### For example
+
+Take the panic of "I'm someone who always quits." That sentence is the "me" speaking, a summary of acts already completed, and it cannot contain an act that has not happened. The exercise is to notice the sentence, then close the laptop and start anyway, and let the record be corrected by what just got done. The exercise does not promise the attempt succeeds; it promises the narrator is not the agent.
 
 ## Psychology parallels
 
