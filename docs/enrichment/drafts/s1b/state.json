@@ -1,0 +1,16 @@
+{
+ "lane": "s1b",
+ "items": {
+  "s1b-001": {
+   "status": "researching",
+   "angle": "D107: marsh pheasant; lavish provision does not make confinement suit its nature; owner scope approved in latest conversation",
+   "history": [
+    {
+     "t": "2026-10-20T14:27:02+00:00",
+     "to": "researching"
+    }
+   ]
+  }
+ },
+ "updated": "2026-10-20T14:27:02+00:00"
+}
