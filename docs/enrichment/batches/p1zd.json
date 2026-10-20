@@ -3,11 +3,14 @@
  "done": [
   "A019",
   "A056",
-  "A059"
+  "A059",
+  "A095",
+  "A107",
+  "A112"
  ],
  "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T07:58:32+00:00"
+ "updated": "2026-10-20T08:00:03+00:00"
 }

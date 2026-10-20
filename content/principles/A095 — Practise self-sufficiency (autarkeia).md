@@ -12,13 +12,21 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 95** — Practise self-sufficiency (autarkeia)
 
-The contemplative life is the most self-sufficient: it requires fewer external goods than any other activity. The person who can find satisfaction in thought, in wonder, in attention, needs less from the world. Cultivate this self-sufficiency, not as withdrawal but as freedom from dependency on externals.
+Aristotle says the self-sufficiency of happiness "must belong most to the contemplative activity". The just, temperate and brave person each need other people to act on. The philosopher "even when by himself, can contemplate truth", though he "can perhaps do so better if he has fellow-workers, but still he is the most self-sufficient" ([NE X.7, Ross, MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html)).
 
-(NE X.7, X.8; EE VIII.3.)
+He sets two limits on this. First, we are not gods: "our nature is not self-sufficient for the purpose of contemplation, but our body also must be healthy and must have food and other attention." Second, the happy person does not need much: "self-sufficiency and action do not involve excess ... even with moderate advantages one can act virtuously" (NE X.8).
 
-**Plain words** A life of thought needs fewer outside goods than any other. If you can find satisfaction in thinking, wonder and attention, you're less at the mercy of circumstances. Aristotle means freedom, not withdrawal.
+Nor does self-sufficiency mean solitude. In [NE I.7](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html) he says "by self-sufficient we do not mean that which is sufficient for a man by himself, for one who lives a solitary life, but also for parents, children, wife, and in general for his friends and fellow citizens, since man is born for citizenship."
 
-*For example:* Someone who can be content with a book and a walk is less rattled by a missed holiday or a smaller pay rise.
+(NE I.7, X.7, X.8.)
+
+**Plain words** Aristotle's claim is comparative. Of all the good activities, thinking and study depend least on other people and on money, so building a capacity for them makes your happiness harder to disturb. It does not make you independent of everything. You still need health, food and a modest income, and the self-sufficiency he has in mind still includes family, friends and fellow citizens.
+
+For example (imagined): someone who enjoys reading and long walks is less shaken when a holiday is cancelled than someone whose pleasures all need money and company. They still need friends, and they still need to eat.
+
+## Sources
+
+- [Aristotle, Nicomachean Ethics I.7, X.7 and X.8, trans. W. D. Ross, MIT Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html)
 
 ## Psychology parallels
 
@@ -28,7 +36,8 @@ The contemplative life is the most self-sufficient: it requires fewer external g
 ## Philosophy parallels
 
 - **[[Wu wei|Wu wei (non-forcing)]]** (Laozi, Daodejing 37)
-- **Subtract, don't add** (Laozi, Daodejing 48)- **[[Autarky|Autarkeia]]** (Aristotelianism)
+- **Subtract, don't add** (Laozi, Daodejing 48)
+- **[[Autarky|Autarkeia]]** (Aristotelianism)
 
 
 <!-- fc: reflections

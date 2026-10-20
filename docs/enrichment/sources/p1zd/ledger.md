@@ -23,3 +23,21 @@ PROTOCOL-PRINCIPLES items 6-7.
 - Verbatim: "unlikely to repent, and therefore incurable, since a man who cannot repent cannot be cured"; the VII.8 passage on repentance, dropsy/consumption vs epilepsy, "vice is unconscious of itself, incontinence is not"; "not a criminal; for he does not act of malice aforethought"; the city that "passes all the right decrees".
 - Old body said the vicious person "does not know the good or does not care": that is not Aristotle's formulation (his marks are choice, regret, self-awareness). Replaced. Elision marked [...] to skip the MIT text's "selfindulgent" typo sentence.
 - Bandura 1999 and Kahneman 2011 parallels inherited, not opened.
+
+## A112 — Distinguish leisure from amusement
+- Sources opened: NE X.6 (Ross) https://classics.mit.edu/Aristotle/nicomachaen.10.x.html; Politics VII.14 and VIII.3 (Jowett, MIT) https://classics.mit.edu/Aristotle/politics.7.seven.html , .../politics.8.eight.html
+- Verbatim: "a sort of relaxation ... for it is taken for the sake of activity"; "silly and utterly childish"; "Clearly we ought not to be amusing ourselves, for then amusement would be the end of life."; "should be our medicines"; "leisure of itself gives pleasure and happiness and enjoyment of life"; "there must be war for the sake of peace, business for the sake of leisure".
+- Plain words now says rest is legitimate (Aristotle endorses relaxation, citing Anacharsis), which the old page blurred. Example labelled imagined.
+- Parallels (Deci & Ryan 2000, Vallerand 2010, Dewey, Csikszentmihalyi) inherited, not opened.
+
+## A095 — Practise self-sufficiency (autarkeia)
+- Sources opened: NE I.7, X.7, X.8 (Ross, MIT).
+- Verbatim: X.7 "must belong most to the contemplative activity"; "even when by himself, can contemplate truth"; "he is the most self-sufficient"; X.8 "our nature is not self-sufficient for the purpose of contemplation..."; "self-sufficiency and action do not involve excess ... even with moderate advantages one can act virtuously" (ellipsis marked); I.7 "by self-sufficient we do not mean ... since man is born for citizenship".
+- Old body said the contemplative life "needs less from the world" and ended "freedom from dependency on externals": overstated against X.8. Corrected.
+- Locator: dropped "EE VIII.3" from the locator because I did not open the Eudemian Ethics. Fixed a run-together bullet in Philosophy parallels. Sahdra 2010 and Kashdan & Rottenberg 2010 parallels inherited, not opened.
+
+## A107 — Support education as the foundation of virtue
+- Sources opened: NE X.9 (Ross); Politics I.2, VIII.1, VIII.2 (Jowett, MIT).
+- Verbatim as quoted. One typographic repair: MIT text reads "No ne will doubt"; quoted as "No one will doubt". Elided nothing else.
+- The page now flags that Aristotle's own scheme is public, state-run education ("should be public, and not private"; no citizen "belongs to himself") and that the compendium keeps his question, not his answer.
+- Locator: Politics VIII.3 retained in the locator only as range VIII.1-3; passage actually quoted is VIII.1-2. Berkowitz & Bier 2007 and Kohlberg 1981 parallels inherited, not opened.
