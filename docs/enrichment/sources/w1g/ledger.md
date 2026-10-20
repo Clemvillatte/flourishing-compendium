@@ -744,3 +744,21 @@
   by grep this round; queue listing noted for the supervisor).
 - Validation: --fast-track ok (concept <15 connections; prose minimum waived; all other
   checks pass). Build ok (5718 entries, fcAuthored 976).
+
+## Three kinds of friendship (2026-10-20, fast-track; degree 9 — eligible)
+
+- OPENED: Aristotle, Nicomachean Ethics VIII.3, W. D. Ross translation, full text
+  on Wikisource (https://en.wikisource.org/wiki/Nicomachean_Ethics_(Ross)/
+  Book_Eight) — fetched via curl and verified in the raw HTML (the MIT Classics
+  page was an empty shell; Perseus returned 503; Wikisource verified directly).
+  The three-kinds passage quoted verbatim (verified in the raw text: "There are
+  therefore three kinds of friendship, equal in number to the things that are
+  lovable; ..."); the closing paraphrases the utility/pleasure and perfect-
+  friendship sentences, both verified in the raw text. One verbatim blockquote
+  used.
+- IS-IT-A-CONCEPT check: "three kinds of friendship" is Aristotle's own phrase
+  from the quoted sentence; no title flag needed. Grep at this round: no entry
+  in concept-namespace-audit.md; on the concept-verification-queue (s2, 35w;
+  verified by grep this round; queue listing noted for the supervisor).
+- Validation: --fast-track ok (concept <15 connections; prose minimum waived; all other
+  checks pass). Build ok (5718 entries, fcAuthored 976).
