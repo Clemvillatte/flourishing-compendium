@@ -705,3 +705,24 @@
   (audit Category C — not a defined Stoic concept; page is a seed with no citable
   source; the real concept to receive its links is Premeditatio malorum, which
   exists). Recorded via enrich_state.py flag.
+
+## Stream of consciousness (2026-10-20, fast-track; degree 9 — eligible)
+
+- OPENED: William James, The Principles of Psychology, vol. 1 (1890), chapter IX
+  ("The Stream of Thought"), full text from Project Gutenberg #57628 — downloaded
+  via curl and read directly. The coining passage quoted verbatim (verified in
+  the raw text: "Consciousness, then, does not appear to itself chopped up in
+  bits. ... let us call it the stream of thought, of consciousness, or of
+  subjective life."; chapter IX confirmed by marker at line 8851). The closing
+  paraphrases the same passage (chain/train replaced by flowing water). One
+  verbatim blockquote used.
+- IS-IT-A-CONCEPT check: no flag needed — "stream of consciousness" is James's own
+  term from the quoted passage. Grep at this round: no entry in
+  concept-namespace-audit.md; on the concept-verification-queue (s2, 38w; verified
+  by grep this round; queue listing noted for the supervisor).
+- FLAG (inherited, protected): the page's inherited body contains a stray list
+  line ("- James, The Principles of Psychology") before the Sources section and
+  a duplicate pair of Sources entries; both preserved per protection rules. The
+  opened source was added above the inherited entries.
+- Validation: --fast-track ok (concept <15 connections; prose minimum waived; all other
+  checks pass). Build ok (5718 entries, fcAuthored 976).

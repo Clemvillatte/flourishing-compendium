@@ -7,11 +7,15 @@ file: "Stream of consciousness"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-S"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-“Stream of consciousness” — William James, Principles of Psychology; William James, The Principles of Psychology, to whom Nishida responded directly.
+William James coined the term in the Principles of Psychology's chapter on the stream of thought: consciousness, he argues, does not present itself as a sequence of separate bits. ([James, Principles of Psychology, 1890](https://www.gutenberg.org/cache/epub/57628/pg57628.txt))
 
-- James, The Principles of Psychology
+> "Consciousness, then, does not appear to itself chopped up in bits. Such words as 'chain' or 'train' do not describe it fitly as it presents itself in the first instance. It is nothing jointed; it flows. A 'river' or a 'stream' are the metaphors by which it is most naturally described. In talking of it hereafter, let us call it the stream of thought, of consciousness, or of subjective life." (James, The Principles of Psychology, vol. 1, ch. IX, [Project Gutenberg #57628](https://www.gutenberg.org/cache/epub/57628/pg57628.txt))
+
+The name is a metaphor he offers for what consciousness is like from the inside, and it replaces the older figures of chain and train with flowing water. ([James, Principles of Psychology, 1890](https://www.gutenberg.org/cache/epub/57628/pg57628.txt))
+
 ## Sources
 
+- William James, The Principles of Psychology, vol. 1 (1890), chapter IX ("The Stream of Thought"), [Project Gutenberg #57628](https://www.gutenberg.org/cache/epub/57628/pg57628.txt)
 - William James, Principles of Psychology
 
 - William James, The Principles of Psychology, to whom Nishida responded directly
