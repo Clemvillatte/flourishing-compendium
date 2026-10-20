@@ -16,9 +16,9 @@ Dewey's argument for treating the social level as a place to intervene is his de
 
 > "A society which makes provision for participation in its good of all its members on equal terms and which secures flexible readjustment of its institutions through interaction of the different forms of associated life is in so far democratic." (Dewey, 1916, ch. 7)
 
-**Plain words** Communities and cultures can be worked on directly: programmes, policies, the design of institutions. Prevention at the level of the village beats treatment one person at a time.
+**Plain words** Look beyond individual behaviour. Ask whether a rule or shared arrangement is part of the problem, and whether the people affected could help change it.
 
-*For example:* If a community's depression rates respond to something like youth programmes or street lighting, the cause is not any one person's therapy; something upstream is doing the work.
+*For example:* Imagine a council meeting held while many residents are at work. Residents propose a second meeting time and check whether more people can participate.
 ## Psychology parallels
 
 - [[The evidence base for community-level intervention|The evidence base for community-level intervention]] (Wandersman and Florin, 2003); for policy-level prevention (Biglan et al., 2012); for cultural adaptation of interventions (Castro et al., 2010; Gone, 2011); for institutional design (Ostrom, 1990).
