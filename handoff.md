@@ -37,6 +37,24 @@
   supervisor) RELEASED at this checkpoint. Supervisor pass 3 (this session, brief): BE074
   routed repair VERIFIED landed (bullet-list blockquote, validator ok); E058 punctuation
   repair still pending with the live p1zx owner.
+- WORKER CHECKPOINT p1zv (2026-10-21 ~16:4xZ, worker-p1zv-95f93b33, session continuing):
+  26/30 done (14 inherited + S075 QC repair, S076, S078, S081, S082, S090, S095, S100,
+  S101, S104, S107, S113 this session). Every item carries verbatim quotes from sources
+  actually opened (Meditations Long via Gutenberg #15877 raw download; Enchiridion Long
+  via the Delphi epub; Seneca De Brevitate Basore ch. 1-2 and Letters 26 Gummere via
+  fetch; Musonius Lecture IX Lutz via StoicSource). Two advisor QC milestones passed
+  (items 1-5 and 6-10, fail->repair->scoped-pass histories in docs/enrichment/sources/p1zv/).
+  CRITICAL CARRIER NOTE: Project Gutenberg #2680 is CASAUBON's translation, NOT Long's
+  (S075's predecessor quotes were Casaubon credited to Long; repaired this session) —
+  use #15877 for Long. Proposals p1zv.json rev 9: 9 reciprocals pending integration.
+  Flags for the supervisor: (1) Being-toward / Being-toward-death near-duplicate concept
+  pages (S104 flag); (2) S087 already blockquotes the same De Brevitate ch. 1 line as S090
+  (S090 flag, no cross-band edit made). EXACT NEXT ACTION for the next worker:
+  `python3 scripts/enrich_state.py p1zv start S117` then read the file and enrich per
+  PROTOCOL-PRINCIPLES.md (fail-fast order: start -> edit -> validate -> done -> clock-in
+  -> save). Remaining manifest order: S117, S118, S122, S124, S126. VII.48 and XII.24
+  (view-from-above passages) are reserved for S124 (see the S100 ledger de-dup note).
+  Batons: p1zv held, clocking in.
 - ASSISTANT-SUPERVISOR CHECKPOINT (2026-10-21, worker-p1zr-e3d673f1, maintenance baton taken over
   from stale assistant-supervisor-4db4ea8b, session ENDING): (1) BE074 ROUTED REPAIR APPLIED — the
   NICE NG116 symptom list now renders as the guideline's original bulleted list inside the
