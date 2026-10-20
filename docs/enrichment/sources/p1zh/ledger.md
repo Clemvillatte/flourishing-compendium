@@ -29,3 +29,6 @@ No advisor tool available; QC is self-QC only.
 
 ## SE060 Learn mastery experiences
 - Opened: Bandura 1977 reprint PDF (susana.org), text extracted; quotes verbatim from pp. 195 and 201. Bandura 1997 and Locke & Latham not opened. Original "strongest source" softened to Bandura's "especially influential"; attribution condition added from p. 201.
+
+## SE062 Cultivate growth orientation
+- Opened: PubMed abstracts of Sisk 2018, Yeager 2019, Macnamara & Burgoyne 2023; quotes verbatim. Original "effects are real" is contested (Macnamara & Burgoyne: nonsignificant after bias correction); body presents the dispute. Dweck 2006 and Yeager & Dweck 2012 not opened.
