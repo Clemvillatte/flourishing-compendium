@@ -21,7 +21,7 @@ The Rhetoric opens its account of the emotions with a working definition: the em
 > Aristotle, Rhetoric II.1, translated by W. Rhys Roberts, [full text](https://classics.mit.edu/Aristotle/rhetoric.mb.txt).
 
 **Plain words**
-A feeling that does not just happen to you but takes a position: fear says there is danger coming, anger says you were slighted, pity says someone undeserving got hurt. Because the position is inside the feeling, you can interrogate the feeling like an argument: what would have to be true for this fear to be the right response? Sometimes the answer vindicates the emotion, sometimes it dissolves it.
+An emotion takes a position: fear says there is danger coming, anger says you were slighted, pity says someone undeserving got hurt. Because the position is inside the feeling, you can interrogate the feeling like an argument: what would have to be true for this fear to be the right response? Sometimes the answer vindicates the emotion, sometimes it dissolves it.
 
 **For example**
 Feeling furious at a colleague contains a judgement that you were treated unfairly. You can ask whether that is true.
