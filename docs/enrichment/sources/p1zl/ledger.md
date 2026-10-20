@@ -44,3 +44,14 @@ No advisor tool available in this session: self-QC only, quotes checked by direc
 - Opened SEP Ricoeur, IEP Ricoeur, SEP Hermeneutics, SEP Jaspers. Primary volumes not accessible; page text says "quoted at second hand". "Hermeneutics of faith" label not found in sources opened; love/suffering/encounter list in E098 not in sources. Owner may want Ricoeur 1970 p.27 ("willingness to suspect, willingness to listen") and Jaspers Philosophy vol. 3 checked from the books.
 ## K036 — FLAG (substantive error in the original)
 - The original lists six warnings (patience with wrong things, wrong virtues, endurance vs growth, predictability, temperamental about conditions, intentions). The actual lojong slogan 52 names patience, yearning, excitement, compassion, priorities, joy (Wikipedia Lojong; Chödrön 2007 via Tsony; Lief in Tricycle). Locator corrected: slogan 52, point seven in this arrangement (point six is "Disciplines of Mind Training"). Body rewritten from sources; principle statement/title left untouched. Supervisor: check K-series pages for the same pattern (invented content under real locators).
+
+## K013, K011, K014, K016, K019 (Kyoto School)
+- Opened SEP Kyoto School and SEP Nishida (full HTML, grep); section numbers verified by heading position. Authors of SEP entries not asserted. K013 uses Mumonkan Case 1 (Upaya PDF + ibiblio). Original "Nishitani on the self-question" not confirmed in sources; marked so in the text.
+## CO080
+- Opened Dwyer 2022 (PMC9261839 snippets); original "variations, not deficits" overstated relative to Dwyer's "middle ground between the social and medical models"; body says so. Original tree-climbing fish example removed.
+## E018
+- Opened chapter scan (doubleoperative.com, Lingis). Key correction: reversibility is "always imminent and never realized in fact" (VI 147); the original's scratching-your-back example removed.
+## E075
+- Opened marxists.org Part II (Frechtman). Original locator "Part II, ch. 5" does not exist in this edition (Part II unnumbered; Part III has chapters 1-5). Beauvoir's "genuinely free man" is a phrase, not a fifth named type.
+## Validation note
+- Validator compares against git HEAD by default; since earlier saved versions of a file become HEAD, use --base c2a3ee47 (the original corpus commit) to check wikilink preservation across revisions.

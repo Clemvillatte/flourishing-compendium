@@ -12,13 +12,23 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 467** — Practise the free man (l'homme libre)
 
-Recognise the figure of the free man — the person who, in de Beauvoir's ethics, is neither serious nor nihilistic, neither adventurer nor passionate. The free man acknowledges ambiguity, takes responsibility for their freedom, and pursues projects that are genuinely their own while remaining open to the freedom of others. Practise being the free man.
+> Passion is converted to genuine freedom only if one destines his existence to other existences through the being—whether thing or man—at which he aims, without hoping to entrap it in the destiny of the in-itself.
 
-(de Beauvoir, 1947/2018, The Ethics of Ambiguity, Part II, ch. 5; Sartre, 1946/2007, Existentialism Is a Humanism.)
+(Beauvoir, The Ethics of Ambiguity, Part II "Personal Freedom and Others", trans. Frechtman, [Marxists Internet Archive](https://www.marxists.org/reference/subject/ethics/de-beauvoir/ambiguity/ch02.htm).)
 
-**Plain words** The free man (l'homme libre): de Beauvoir's figure who is neither serious nor nihilistic, neither adventurer nor passionate — who acknowledges ambiguity, takes responsibility for their freedom, and pursues projects that are genuinely their own. The four failure modes are mapped; this is the exit.
+Beauvoir does not set the free man up as a fifth type beside the others. She uses the phrase for someone who has what the adventurer lacks. Of Lawrence, who was "so concerned about the lives of his companions and the freedom of others", she writes: "One is then in the presence of a genuinely free man." The adventurer, in contrast, "remains indifferent to the content, that is, to the human meaning of his action." The Stanford Encyclopedia sorts the types into those who refuse to recognize freedom (the sub-man and the serious man) and those who misread it (the nihilist, the adventurer and the passionate man) ([Stanford Encyclopedia, "Simone de Beauvoir"](https://plato.stanford.edu/archives/fall2012/entries/beauvoir/)).
 
-*For example:* The person who has tried on all four failures — the cause, the cynicism, the serial reinvention, the obsession — and finally lands on the plainer, harder thing: a chosen project, owned ambiguities, and no alibi.
+Her link to other people is explicit: "To will oneself free is also to will others free." And she adds: "no existence can be validly fulfilled if it is limited to itself."
+
+**Plain words** Take your own freedom seriously, own your choices, and do not treat other people as things in your project. Beauvoir's test is whether your pursuit leaves room for the freedom of the people it touches. The five failures are ways of missing that.
+
+*For example:* A founder drives a company hard and treats colleagues as tools. Another is just as driven and keeps asking what the work does to the people in it. Beauvoir would call the first an adventurer and the second closer to free.
+
+## Sources
+
+- [Beauvoir, S. de. The Ethics of Ambiguity, Part II (trans. B. Frechtman, Citadel 1949), Marxists Internet Archive](https://www.marxists.org/reference/subject/ethics/de-beauvoir/ambiguity/ch02.htm) — all quotations
+- [Stanford Encyclopedia of Philosophy, "Simone de Beauvoir" (Fall 2012 archive)](https://plato.stanford.edu/archives/fall2012/entries/beauvoir/) — the grouping of the types
+
 ## Psychology parallels
 
 - **[[Psychological flexibility|Psychological flexibility]]** (Hayes et al., 2006; Kashdan and Rottenberg, 2010)
