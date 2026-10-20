@@ -43,7 +43,7 @@ The compendium builds its creativity and perception principles on this ground, a
 
 ## Sources
 
-- Direct Husserl quotation (Logical Investigations, Hua 19/59) and the Ideas I constitution sentence as printed in the [SEP entry on Husserl (opened)](https://plato.stanford.edu/entries/husserl/); the third quotation and the surrounding exposition are the SEP's own
+- First blockquote: Husserl's *Logical Investigations* (Hua 19/59), quoted through [SEP, Husserl §2 (opened)](https://plato.stanford.edu/entries/husserl/). Second and third blockquotes: SEP exposition in §3; the second discusses *Ideas I* (Hua 3/196). Neither primary volume was opened directly.
 - Husserl, Ideas I
 
 ## Cited in philosophy parallels

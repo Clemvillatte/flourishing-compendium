@@ -10,7 +10,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 “Complete mental health model” — Keyes, 2002.
 
-In his 2002 study, Keyes operationalized mental health through positive feelings and positive functioning. The paper states its own program:
+In his 2002 study, Keyes operationalized mental health through positive feelings and positive functioning, and the model this page describes took its name from his later work: the 2005 paper is titled "Mental illness and/or mental health? Investigating axioms of the complete state model of health". The 2002 paper states its own program:
 
 > This paper introduces and applies an operationalization of mental health as a syndrome of symptoms of positive feelings and positive functioning in life. — Keyes, 2002, *J Health Soc Behav* 43(2):207–22, [PubMed abstract (opened)](https://pubmed.ncbi.nlm.nih.gov/12096700/)
 
@@ -40,6 +40,7 @@ The compendium builds on the model's core distinction: mental health is not just
 
 ## Sources
 
+- [Keyes, 2005, Mental illness and/or mental health? Investigating axioms of the complete state model of health — PubMed record (opened; text verified via the NCBI E-utilities record of PMID 15982151)](https://pubmed.ncbi.nlm.nih.gov/15982151/)
 - [Keyes, 2002, The mental health continuum — PubMed abstract (opened)](https://pubmed.ncbi.nlm.nih.gov/12096700/)
 - Keyes, 2002
 

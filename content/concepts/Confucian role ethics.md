@@ -10,11 +10,15 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 “Confucian role ethics” — Confucius, Analects.
 
-Confucian role ethics is a modern name for a way of thinking found in the Analects. The name is recent; the passages are old. The modern framing is summarized in the SEP's Chinese Ethics entry:
+Confucian role ethics is a way of thinking found in the Analects and named as a framework in later scholarship. The opened overview defines the term and its core:
+
+> In Confucian role ethics, morality is based on a person's fulfillment of a role, such as that of a parent or a child. These roles are established as relationships, and are not individualistic. — [Wikipedia, Role ethics (opened)](https://en.wikipedia.org/wiki/Role_ethics)
+
+The SEP's Chinese Ethics entry makes the same point at the tradition level, characterizing Confucian ethics as a relational ethic:
 
 > These values are the basis for characterizing Confucian ethics as a relational ethic, meaning that it is in part distinguished by its placement of relationships at the center of a well-lived life (see Ames, 2011, 2021). — [SEP, Chinese Ethics §2.3 (opened)](https://plato.stanford.edu/entries/ethics-chinese/)
 
-The same entry adds that it can be part of one's very identity to be a particular person's son or daughter, mother or father. The classic passage behind this framing is a question about government:
+The SEP entry adds that it can be part of one's very identity to be a particular person's son or daughter, mother or father. The classic passage behind this framing is a question about government:
 
 > The Duke Ching, of Ch'i, asked Confucius about government. Confucius replied, 'There is government, when the prince is prince, and the minister is minister; when the father is father, and the son is son.' — Analects XII.11, Legge translation, [Gutenberg (opened)](https://www.gutenberg.org/cache/epub/3330/pg3330.html)
 
@@ -45,6 +49,7 @@ The compendium builds its relational principles on this ground: the roles are wh
 ## Sources
 
 - [Wong, Chinese Ethics — Stanford Encyclopedia of Philosophy (opened)](https://plato.stanford.edu/entries/ethics-chinese/)
+- [Wikipedia, Role ethics — definition of Confucian role ethics (opened)](https://en.wikipedia.org/wiki/Role_ethics)
 - [Confucius, The Analects of Confucius (from the Chinese Classics), Legge translation — Project Gutenberg (opened)](https://www.gutenberg.org/cache/epub/3330/pg3330.html)
 - Confucius, Analects
 
