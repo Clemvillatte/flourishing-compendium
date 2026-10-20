@@ -12,13 +12,13 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 24** — Practice liberality with your resources
 
-Beyond generosity, liberality is the disposition to use resources well: not hoarding, not wasting. The liberal person knows what to spend, what to save, what to give, and what to refuse. Manage your material life as a practice, not as accumulation.
+Aristotle names liberality the mean with regard to giving and taking wealth. The liberal man spends according to his substance and on the right objects; the prodigal exceeds that. Aristotle also says the liberal man feels pleasure in so doing, and takes the right amounts from the right sources.
 
-(NE IV.1; EE III.4.)
+> "For, as has been said, he is liberal who spends according to his substance and on the right objects; and he who exceeds is prodigal. Liberality, then, being a mean with regard to giving and taking of wealth, the liberal man will both give and spend the right amounts and on the right objects, alike in small things and in great, and that with pleasure; he will also take the right amounts and from the right sources." ([NicEth IV.1, Rackham](https://people.bu.edu/wwildman/courses/wphil/readings/wphil_rdg09_nichomacheanethics_entire.htm))
 
-**Plain words** Beyond giving, there's using what you have well. The liberal person knows what to spend, save, give away, and refuse. Aristotle asks you to treat your money and things as a skill to practise, not a pile to build.
+**Plain words** The verse asks two things: spend according to what you actually have (not more), and spend it on the right objects (not just any objects). A suggested application is to check, before a purchase or a gift, both whether it fits your means and whether it serves a right object.
 
-*For example:* Someone who puts aside a year of savings, funds a nephew's course, and says no to a flashy car has a settled sense of what money is for.
+*For example:* (Imagined application.) A finder returns a lost wallet without seeking a reward, and spends according to what they have rather than what they wish they had.
 
 ## Practice kernels
 
@@ -27,13 +27,17 @@ Beyond generosity, liberality is the disposition to use resources well: not hoar
 - [[K253 — The mean calibration|K253 The mean calibration]]
 ## Psychology parallels
 
-- **Materialistic aspirations predict lower well-being** (Kasser and Ryan, 1993)
-- **[[Sufficiency|Sufficiency and simple living research]]** (Brown and Kasser, 2005)
+- Kasser and Ryan (1993).
+- [[Sufficiency|Sufficiency and simple living research]] (Brown and Kasser, 2005)
 
 ## Philosophy parallels
 
-- **Know what is enough (zhizu)** (Laozi, Daodejing 44)
-- **The having versus being mode** (Fromm, To Have or To Be?)
+- Laozi, Daodejing 44.
+- Fromm, To Have or To Be?
+
+## Sources
+
+- [NicEth IV.1, Rackham translation (people.bu.edu mirror)](https://people.bu.edu/wwildman/courses/wphil/readings/wphil_rdg09_nichomacheanethics_entire.htm)
 
 <!-- fc: reflections
 Describe your actual rules for money, spoken or not. Which do you break, and what does that say about what money means to you?
