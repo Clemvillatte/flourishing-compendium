@@ -18,13 +18,13 @@ The experimental finding behind this principle, from Kross and colleagues' seven
 >
 > (Kross et al., "Self-talk as a regulatory mechanism: how you do it matters", 2014, abstract)
 
-In the performance studies, "compared with the first-person group, the non-first-person group performed better according to objective raters in both studies", and they "displayed less distress". The paper's summary sentence: "small shifts in the language people use to refer to the self during introspection consequentially influence their ability to regulate their thoughts, feelings, and behavior under social stress". The camera metaphor is literal here: naming yourself in the narration moves the view off your own eyes.
+In the performance studies, "compared with the first-person group, the non-first-person group performed better according to objective raters in both studies", and they "displayed less distress". The paper's summary sentence: "small shifts in the language people use to refer to the self during introspection consequentially influence their ability to regulate their thoughts, feelings, and behavior under social stress". These findings concern changes in self-reference during the tasks described in the study.
 
 **Plain words**
-When you are inside a feeling, everything you see is the feeling. The research trick: narrate the scene with your own name instead of "I". "Sarah is having a hard quarter" lands differently from "I'm ruined", and the difference is distance, not dishonesty. The outside view is still your view. It just isn't pressed against your nose.
+To try the exercise, describe the same situation using your name instead of "I". Keep the event and emotional description as similar as possible, so that you are changing how you refer to yourself rather than rewriting what happened.
 
 *For example:*
-A bad quarter told as "I'm ruined, I'll never recover" stays hot. The same quarter told as "Sarah is having a hard quarter, as Sarah does" has edges, and things with edges can be worked on. In the studies, participants who used their own name rather than "I" when preparing a speech were rated as performing better and reported less distress.
+Imagined: Before preparing a presentation, Sarah writes "Sarah feels anxious about this presentation" in place of "I feel anxious about this presentation". She keeps the description otherwise unchanged.
 
 ## Sources
 
@@ -44,4 +44,4 @@ A bad quarter told as "I'm ruined, I'll never recover" stays hot. The same quart
 
 ## Practice
 
-- When emotionally activated, describe the situation in third person ("[Name] is feeling anxious") or from temporal distance ("how will this look in a year?"). This creates psychological distance and improves reasoning.
+- When emotionally activated, describe the situation in third person ("[Name] is feeling anxious"). This is the self-reference change examined in the studies above.

@@ -55,13 +55,13 @@
   "S073",
   "S089",
   "S120",
-  "SE016",
-  "SE068",
-  "SO043",
   "SP037",
-  "SP076"
+  "SP076",
+  "SE001",
+  "SE016",
+  "SE068"
  ],
- "in_progress": "SE001",
+ "in_progress": "SO043",
  "flagged": {
   "D086": "Reopened for QC: QC round 2 fixes applied, acceptance pending (genuineflourishing34); inherited psychology-parallels claim (Kernis and Goldman 2006) not re-verified, recorded as inherited",
   "BI009": "milestone QC ACCEPTED (advisor round 4c). Inherited parallels citations remain unverified by me (recorded in the item ledgers).",
@@ -91,11 +91,14 @@
   "R014": "RESOLVED: item-15 checkpoint passed (advisor scoped approval after two repair rounds; concept bodies re-read from YAML fence to end with no substantive mismatches; approval covers displayed passages and documented checks, not a blanket audit)",
   "R037": "RESOLVED: item-15 checkpoint passed (advisor scoped approval after two repair rounds; concept bodies re-read from YAML fence to end with no substantive mismatches; approval covers displayed passages and documented checks, not a blanket audit)",
   "R051": "RESOLVED: item-15 checkpoint passed (advisor scoped approval after two repair rounds; concept bodies re-read from YAML fence to end with no substantive mismatches; approval covers displayed passages and documented checks, not a blanket audit)",
-  "SE001": "Reopened for QC: QC correction: milestone QC repairs"
+  "SE001": "Reopened for QC: QC correction: milestone QC repairs",
+  "SE016": "Reopened for QC: QC correction: milestone QC repairs",
+  "SE068": "Reopened for QC: QC correction: milestone QC repairs",
+  "SO043": "Reopened for QC: QC correction: milestone QC repairs"
  },
  "missing_concepts": [],
  "sources_checked": 15,
- "updated": "2026-10-20T05:00:22+00:00",
+ "updated": "2026-10-20T05:01:00+00:00",
  "band_done": false,
  "takeover": {
   "by": "genuineflourishing35",

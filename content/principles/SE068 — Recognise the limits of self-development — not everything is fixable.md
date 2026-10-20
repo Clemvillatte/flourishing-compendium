@@ -12,21 +12,21 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 68** — Recognise the limits of self-development: not everything is fixable
 
-The research background to this principle is one of psychology's sturdier findings: personality traits show substantial rank-order stability. In a quantitative review of 152 longitudinal studies (Psychological Bulletin, 2000), trait consistency rose from .31 in childhood to a plateau around .74 between ages 50 and 70, and the review noted that temperament dimensions were less consistent than adult personality traits. Some things about a self do move; much of it does not.
+The research background to this principle: personality traits show substantial rank-order stability. In a quantitative review of 152 longitudinal studies (Psychological Bulletin, 2000), trait consistency rose from .31 in childhood to a plateau around .74 between ages 50 and 70 (with test interval held constant at 6.7 years), and the review noted that temperament dimensions were less consistent than adult personality traits.
 
 Niebuhr's serenity prayer puts the sorting problem in its best-known form:
 
 > God, grant me the serenity to accept the things I cannot change, the courage to change the things I can, and the wisdom to know the difference.
 >
-> (Reinhold Niebuhr, the serenity prayer)
+> (the serenity prayer, in its best-known form; attributed to Reinhold Niebuhr)
 
-Recognising limits is not giving up; it is the sorting itself. The skill is distinguishing what can be changed (effort, skills, patterns) from what cannot (temperament, some traits).
+Rank-order consistency concerns how similarly people are ordered on traits across assessments. It does not identify which characteristics a particular person can change. The compendium's practical question is which changes are realistic in the present circumstances and which difficulties call for accommodation.
 
 **Plain words**
-Some things about you will not change much: temperament, certain abilities, certain conditions. Pretending otherwise wastes years; despairing over it wastes the rest. The wisdom is sorting what is movable from what is not, and spending your effort where it counts.
+Choose a specific change you are considering. Write down what you want to change, what support or practice it would require, and when you will review the effort. Include adjustments to your surroundings among the options you consider.
 
 *For example:*
-Imagined: the man who spent his twenties trying to become a morning person, an extrovert, and a natural at small talk, all against his grain, and who finally builds a life around deep work, long friendships, and evenings. Nothing got fixed. Everything got better.
+Imagined: After repeated attempts to become a morning person, a man decides to arrange his work later in the day and review that arrangement after a month.
 
 ## Sources
 
@@ -46,4 +46,4 @@ Imagined: the man who spent his twenties trying to become a morning person, an e
 
 ## Practice
 
-- Distinguish what is changeable (skills, patterns, behaviours) from what is less changeable (temperament, some traits). Invest in what is changeable; accept and design around what is not. This is wisdom, not resignation.
+- For a change you are considering, spell out the effort and support it would require and set a review date. Where a difficulty persists, consider adjustments to your surroundings as well as to yourself.

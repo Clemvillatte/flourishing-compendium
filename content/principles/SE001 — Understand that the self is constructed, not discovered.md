@@ -18,19 +18,19 @@ McAdams's life-story model puts the construction claim in its plainest form:
 >
 > (McAdams, "The Evolution of Narrative Identity", 2019)
 
-A narrative identity, in his terms, is "a person's internalized and evolving story of how he or she has become the person he or she is becoming"; narrative identities "reconstruct the autobiographical past and anticipate the imagined future to provide the self with temporal coherence and some semblance of psychosocial unity and purpose". The self is built from memory, social feedback, cultural categories, and ongoing narrative, not excavated from a fixed essence.
+A narrative identity, in his terms, is "a person's internalized and evolving story of how he or she has become the person he or she is becoming"; narrative identities "reconstruct the autobiographical past and anticipate the imagined future to provide the self with temporal coherence and some semblance of psychosocial unity and purpose".
 
-The compendium's reading of the principle: "who I really am" was always a draft. That is liberating, because the draft is revisable, and demanding, because nobody else is holding the pen.
+McAdams is describing narrative identity: the evolving story a person tells about their life. The compendium applies this model by inviting readers to review familiar self-descriptions and consider experiences those descriptions leave out.
 
 **Plain words**
-You did not find yourself the way you find a coin on the street. You wrote yourself, gradually, out of remembered events, other people's reactions, and the categories your culture hands you. That means "I am just an anxious person" is a sentence somebody wrote, not a fact somebody found. Sentences can be revised.
+Take a description you often use about yourself, such as "I avoid responsibility". Look for particular occasions when it fits and occasions when it does not. Consider whether a more specific description would represent your experience more accurately.
 
 *For example:*
-The person who waits a decade for their true self to emerge, as if it were a photograph developing, and the year they accept they are the author and not the film. The self did not get discovered; it got written, and then rewritten.
+Imagined: Someone who describes herself as unreliable lists recent commitments she kept and commitments she missed. She uses those examples to decide whether to revise the description.
 
 ## Sources
 
-- [McAdams, "The Evolution of Narrative Identity", Evolutionary Studies in Imaginative Culture (2019, open PDF)](https://web.ics.purdue.edu/~drkelly/McAdamsFirstWeStoriesThenTheyChangedUs2019.pdf) — abstract and development passages
+- [McAdams, "'First we invented stories, then they changed us': The Evolution of Narrative Identity", Evolutionary Studies in Imaginative Culture (2019, open PDF)](https://web.ics.purdue.edu/~drkelly/McAdamsFirstWeStoriesThenTheyChangedUs2019.pdf) — introduction (both quotations)
 
 ## Psychology parallels
 
