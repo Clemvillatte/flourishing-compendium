@@ -16,13 +16,12 @@
   "AF055",
   "AF066",
   "AF078",
-  "AT032",
   "AT033",
   "AT017",
   "AT024",
   "AT029"
  ],
- "in_progress": null,
+ "in_progress": "AT032",
  "flagged": {
   "AF002": "Reopened for QC: QC repair round 1 (advisor): scope claims to opened sources, standalone blockquote, example labelled imagined",
   "AF013": "Reopened for QC: milestone QC repair: trainability claims exceed opened source",
@@ -41,10 +40,11 @@
   "AF078": "Reopened for QC: milestone-3 QC repair applied",
   "AT017": "Reopened for QC: milestone-4 QC repair",
   "AT024": "Reopened for QC: milestone-4 QC repair",
-  "AT029": "Reopened for QC: milestone-4 QC repair"
+  "AT029": "Reopened for QC: milestone-4 QC repair",
+  "AT032": "Reopened for QC: milestone-4 QC repair"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T10:24:19+00:00",
+ "updated": "2026-10-20T10:24:52+00:00",
  "band_done": false
 }
