@@ -13,10 +13,6 @@ Bergson's essay "An Introduction to Metaphysics" sets intuition against analysis
 
 > "The first implies that we move round the object; the second that we enter into it. The first depends on the point of view at which we are placed and on the symbols by which we express ourselves. The second neither depends on a point of view nor relies on any symbol. The first kind of knowledge may be said to stop at the relative; the second, in those cases where it is possible, to attain the absolute." (Bergson, [An Introduction to Metaphysics, trans. T. E. Hulme, Internet Archive](https://archive.org/stream/anintroductiont00berggoog/anintroductiont00berggoog_djvu.txt))
 
-The essay then defines the entering kind:
-
-> "By intuition is meant the kind of intellectual sympathy by which one places oneself within an object in order to coincide with what is unique in it and consequently inexpressible. Analysis, on the contrary, is the operation which reduces the object to elements already known, that is, to elements common both to it and other objects." (Bergson, [An Introduction to Metaphysics, trans. T. E. Hulme, Internet Archive](https://archive.org/stream/anintroductiont00berggoog/anintroductiont00berggoog_djvu.txt))
-
 ### In the compendium
 
 - [[ST108 — Dewey's Laboratory School]]
@@ -27,7 +23,7 @@ The essay then defines the entering kind:
 ## Sources
 
 - Bergson, Introduction to Metaphysics
-- [Bergson, An Introduction to Metaphysics, trans. T. E. Hulme (Internet Archive full text)](https://archive.org/stream/anintroductiont00berggoog/anintroductiont00berggoog_djvu.txt) — both blockquotes
+- [Bergson, An Introduction to Metaphysics, trans. T. E. Hulme (Internet Archive full text)](https://archive.org/stream/anintroductiont00berggoog/anintroductiont00berggoog_djvu.txt) — the blockquote
 
 ## Cited in philosophy parallels
 
