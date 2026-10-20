@@ -9,8 +9,57 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “The discipline of attention” — Simone Weil, Waiting for God.
 
+In this compendium, "The discipline of attention" refers to Simone Weil's account of attention in "Reflections on the Right Use of School Studies with a View to the Love of God" (1942), collected in Waiting for God. The general capacity has its own page, [[Attention]]; this one treats Weil's specific account of it.
+
+> "The key to a Christian conception of studies is the realization that prayer consists of attention. It is the orientation of all the attention of which the soul is capable toward God."
+>
+> (Weil, Waiting for God, ["Reflections on the Right Use of School Studies"](https://www.themathesontrust.org/papers/christianity/Weil-Reflections.pdf), p. 105)
+
+### Not muscular effort
+
+Weil's first move is to separate attention from straining. A pupil told to pay attention contracts the brows, holds the breath, stiffens the muscles; asked afterward what they attended to, they cannot reply. "They have not been paying attention. They have been contracting their muscles." (p. 109)
+
+> "The intelligence can only be led by desire. For there to be desire, there must be pleasure and joy in the work."
+>
+> (Weil, Waiting for God, "Reflections on the Right Use of School Studies", p. 109)
+
+She calls attention an effort, "the greatest of all efforts perhaps, but it is a negative effort" (p. 110): it does not grab, it waits. The thought is "empty, waiting, not seeking anything, but ready to receive in its naked truth the object that is to penetrate it" (p. 111). The [Stanford Encyclopedia entry](https://plato.stanford.edu/entries/simone-weil/) glosses the French of that passage: en attente, waiting; ne rien chercher, not seeking anything.
+
+### Attention to the sufferer
+
+The essay ends by joining attention to the love of neighbor. Those who are unhappy "have no need for anything in this world but people capable of giving them their attention" (p. 113), and the capacity to give it is "a very rare and difficult thing; it is almost a miracle; it is a miracle" (p. 113). The whole of neighbor-love, she writes, means being able to ask the Grail question:
+
+> "The love of our neighbor in all its fullness simply means being able to say to him: 'What are you going through?'"
+>
+> (Weil, Waiting for God, "Reflections on the Right Use of School Studies", p. 114)
+
+### In the compendium
+
+The lines below are editorial comparisons between Weil's account and the compendium's principles.
+
+- [[S129 — Practise the discipline of attention]] — S129 describes noticing impressions before assent; this page offers an editorial comparison with Weil's receptive attention
+- [[AT060 — Learn to manage smartphone attention — the device is designed to capture you]] — attention engineered for capture is the modern setting for the discipline this page describes
+- [[AT008 — Recognise that attention is embodied — physical state affects attentional capacity]] — discusses vigilance under sleep deprivation; Weil's essay contrasts attention with bodily straining
+- [[AT015 — Learn to filter — not all information deserves attention]] — deliberate selection of what deserves attention; Weil's exercise is the complementary discipline of how to attend
+- [[AT027 — Recognise the conditions for deep work — environment, time, and energy]] — conditions for sustained concentration; in her essay, twenty minutes of concentrated, untired attention against three hours of frowning application
+- [[AT068 — Learn to protect attentional time — the most valuable resource]] — protects uninterrupted attentional time; Weil's essay considers how attention is exercised during study
+- [[S127 — Practise the discipline of not wanting]] — redirects desire from externals toward virtue; Weil's essay says intelligence is led by desire and distinguishes attention from straining
+- [[SP082 — Practice seeing things under the aspect of eternity]] — the principle's own text describes that practice as "a discipline of attention"
+
+## Related concepts
+
+- [[Attention]] — the general capacity this page treats in Weil's specific account
+- [[Bare attention in mindfulness practice]] — attends to present experience before interpretation (Bishop et al. 2004); an editorial comparison with Weil's empty, waiting attention
+- [[Flow]] — an editorial contrast between absorption in activity and Weil's receptive waiting
+- [[Empathy]] — Weil connects attention to asking a sufferer what they are going through
+- [[Attentional control theory (Eysenck)]] — a scientific account of attention under anxiety
+- [[Attentional control training and the role of repeated redirection]] — practising the notice of distraction and the return of attention to a chosen object; Weil's essay makes the development of the faculty of attention the object of studies
+- [[Two modes of attentional control]] — stimulus-driven versus goal-directed attention; an editorial pairing with Weil's account
+
 ## Sources
 
+- [Simone Weil, "Reflections on the Right Use of School Studies with a View to the Love of God" (1942), in Waiting for God, full text PDF (The Matheson Trust; printed pp. 105-116)](https://www.themathesontrust.org/papers/christianity/Weil-Reflections.pdf) — all Weil quotations on this page
+- [Rozelle-Stone and Davis, "Simone Weil", Stanford Encyclopedia of Philosophy (2018, rev. 2025)](https://plato.stanford.edu/entries/simone-weil/) — the essay's date (1942), the Craufurd translation of the book, the French terms, and the characterization of attention as an ethical orientation
 - Simone Weil, Waiting for God
 
 [[K332 — Life chapter mapping]]
