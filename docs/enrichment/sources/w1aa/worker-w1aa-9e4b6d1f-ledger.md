@@ -133,3 +133,11 @@
 - Related concepts: Voluntary simplicity (deg 5), Frugal plenty, Autarky. No reciprocal proposed.
 - Saturation: fast-track skip.
 - No advisor QC required (item 18).
+
+## Galinsky et al
+
+- Fast-track degree 1 (sole edge: SO033 psychology-parallels entry; SO033's own body cites Galinsky et al. 2008 for negotiation gains).
+- Opened source: the APS Psychological Science abstract page for Galinsky, Maddux, Gilin and White 2008 ("Why It Pays to Get Inside the Head of Your Opponent", 19(4)). Verified verbatim: the three-studies abstract sentence (blockquote); the empathy-detrimental sentence; the essential-tool/particularly-critical closing; the two negotiation types. Full text paywalled — abstract-scoped, disclosed.
+- Related concepts: Modularity theory of mindreading (deg 4), Face negotiation theory (deg 3, same band). No reciprocal proposed.
+- Saturation: fast-track skip.
+- No advisor QC required (item 19).
