@@ -567,3 +567,37 @@ convention).
   ethics (deg 8).
 - Saturation: fast-track exemption; no reciprocal proposed.
 - QC: validator ok.
+
+## Ego dissolution
+
+- Track: fast-track, current degree 6 (1 concept + 5 principles). Start
+  transition recorded and pushed before research.
+- Opened: https://pmc.ncbi.nlm.nih.gov/articles/PMC6007152/ (Letheby and
+  Gerrans, "Self unbound: ego dissolution in psychedelic experience",
+  Neuroscience of Consciousness 2017(1):nix016), fetched 2026-10-20.
+- Quotations, copied from the fetched page: the abstract's opening
+  sentences (blockquote); "Ego dissolution experiences reveal that the
+  self-model plays an important binding function in cognitive
+  processing, but the self does not exist."; "ego dissolution
+  experiences often occur in the context of mystical states"; "there is
+  evidence that mystical states are important for the therapeutic
+  effects of psychedelics (Garcia-Romeu et al. 2016) so explaining the
+  ego dissolution experience is a crucial step in theorizing the
+  mechanisms of psychedelic treatment".
+- SEED CITATION DISCREPANCY: the seed attributes the page to "Letheby and
+  Griffiths, 2017"; no such paper was found in searches. The 2017 ego-
+  dissolution review is Letheby and Gerrans (opened); the seed may
+  conflate it with a Griffiths-lab paper (e.g. Barrett and Griffiths
+  2017 or the Griffiths psilocybin studies). Inherited seed lines
+  ("Facets: research — Letheby and Griffiths, 2017"; the "Other
+  formulations" line) preserved as found; all NEW prose cites Letheby
+  and Gerrans. Flagged here for the supervisor; not a namespace blocker
+  (the construct itself is well-defined in the opened source).
+- The seed's well-being-gains claim is kept only as the inherited
+  formulation line; the page's own prose states the paper's weaker
+  claim (mystical states important for therapeutic effects, evidence
+  cited via Garcia-Romeu et al. 2016).
+- Related concepts verified to exist: Self-transcendence (deg 21),
+  Anatta (deg 28).
+- Saturation: fast-track exemption; no reciprocal proposed.
+- QC: validator ok.
