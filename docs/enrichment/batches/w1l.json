@@ -1,9 +1,11 @@
 {
  "batch": "w1l",
- "done": [],
- "in_progress": "Interbeing",
+ "done": [
+  "Interbeing"
+ ],
+ "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T06:44:33+00:00"
+ "updated": "2026-10-20T06:49:25+00:00"
 }
