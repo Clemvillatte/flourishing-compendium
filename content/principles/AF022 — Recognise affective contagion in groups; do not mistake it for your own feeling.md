@@ -16,7 +16,7 @@ In a laboratory study of managerial decision making, Sigal Barsade found evidenc
 
 > "Using a 2 x 2 experimental design, with a trained confederate enacting mood conditions, the predicted effect of emotional contagion was found among group members, using both outside coders' ratings of participants' mood and participants' self-reported mood." (Barsade, S. G. (2002). The Ripple Effect: Emotional Contagion and Its Influence on Group Behavior. Administrative Science Quarterly, 47(4), 644-675, [DOI](https://doi.org/10.2307/3094912))
 
-**Plain words** In one lab study, a mood that one person deliberately acted was reflected among group members (cited above). For the exercise, consider your own concerns, other people's expressions and the shared situation as possible contributors, and list what may have fed the feeling before deciding what to do about it.
+**Plain words** In one lab study, a mood that one person deliberately acted was reflected among group members ([Barsade, 2002](https://doi.org/10.2307/3094912)). For the exercise, consider your own concerns, other people's expressions and the shared situation as possible contributors, and list what may have fed the feeling before deciding what to do about it.
 
 **For example (imagined):** A person leaves every family gathering with the same anxiety. As an observation exercise, they spend a weekend alone and note when the anxiety is present and absent — without concluding in advance what the pattern means.
 ## Psychology parallels

@@ -16,7 +16,7 @@ Kahneman and Deaton distinguish two aspects of subjective well-being: the emotio
 
 > "Emotional well-being refers to the emotional quality of an individual's everyday experience—the frequency and intensity of experiences of joy, stress, sadness, anger, and affection that make one's life pleasant or unpleasant. Life evaluation refers to the thoughts that people have about their life when they think about it." (Kahneman, D., & Deaton, A. (2010). High income improves evaluation of life but not emotional well-being. PNAS, 107(38), 16489-16493, [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC2944762/))
 
-**Plain words** Two open definitions — the emotional quality of everyday experience, and the appraisal made when thinking about one's life — measured separately in this research (cited above). The exercise: pick a period, record how it felt emotionally and how you judge your life overall, and keep the two entries separate.
+**Plain words** Two open definitions — the emotional quality of everyday experience, and the appraisal made when thinking about one's life — measured separately in this research ([Kahneman & Deaton, 2010](https://doi.org/10.1073/pnas.1011492107)). The exercise: pick a period, record how it felt emotionally and how you judge your life overall, and keep the two entries separate.
 
 **For example (imagined):** A person enjoys a good dinner while judging their life overall unfavourably. The exercise is to record both reports separately, without assuming one contradicts the other.
 ## Psychology parallels

@@ -302,3 +302,14 @@ Reciprocal proposals at revision 10 (docs/enrichment/proposals/p1zr.json): Cogni
 flexibility ← AT052 and Mind wandering ← AT068 are new this session. Downloaded source
 PDFs left in /home/user/workspace (hap2012, fk1998, gilovich2000, schmidt2007, kg2010,
 fs1957, diamond2013, woodneal2007) are reusable. Baton released at session end.
+
+## p1zq — worker-p1zq-3c8da4f1 (session end, 2026-10-20/21)
+
+Status: 25/30 done (20 inherited + AF015, AF020, AF022, AF024, AF031 rewritten by me). Milestone-1 QC round 2 closed as follows:
+
+- Advisor verdicts: AF024 scoped PASS (rewritten prose, abstract quotation, bibliographic Sources). AF015/AF020/AF022 revised prose accepted; AF031 plain-words repair was missed in an earlier save and was applied in the final push. Do NOT record a milestone PASS for items 21-25 without a fresh advisor round on the final files.
+- All five blockquotes verified verbatim against the raw PDFs (pdftotext) with locators in the ledgers: Kuppens p. 298 (PDF p. 2), Kahneman-Deaton p. 16489 (verified against the PMC text opened during the original research pass; a fresh unprompted PMC retrieval NOT repeated — pending), Barsade p. 644 (abstract, fully matched), Keltner-Gross p. 467 (abstract; scan de-spaced), Sheppes-Gross p. 32 of the author-hosted PDF (full sentence matched; section heading not independently verified).
+- Sources sections on all five pages are now bibliographic only; all access notes moved to the ledgers. AF020 ledger labels both Berridge passages and the income-plateau finding as withdrawn draft material and records the current definitions blockquote.
+- Three supervisor flags outstanding (title claims not established by opened sources): AF015 "fear its absence", AF020 "different systems", AF031 "timing matters more than intensity".
+- Remaining items untouched: AF037, AF041, AF052, AF053, AF057 (ranks in batches/p1zq.json). Check docs/enrichment/plain-words-replicates.md before rewriting each.
+- Batons/p1zq released; band NOT finished (do not run finish — 5 items remain). Take the baton, continue per PROTOCOL-PRINCIPLES.md, and submit the next advisor QC at the items-26-30 milestone.
