@@ -34,3 +34,16 @@ wording; enteric-division sentence kept (grounded). Section-heading locator coul
 not be added: two re-verification attempts of the StatPearls page hit a
 reCAPTCHA bot wall; the blockquote stands on the original extraction, locator is
 the article itself (no invented heading).
+
+## Quotation-QC HOLD (2026-10-20)
+EXPLICIT HOLD per advisor round 4/5: the StatPearls blockquote stands on the
+original extraction only; two re-verification attempts hit a reCAPTCHA bot
+wall, so the quotation check is INCOMPLETE. Acceptance of this item's
+quotation fidelity is pending underlying-source inspection (cloud-browser
+or saved-text fallback), not wording changes. Prose is advisor-PASS.
+
+## Milestone checkpoint (advisor round 5, 2026-10-20)
+Items 6-10: editorial repairs accepted. Overall milestone QC-PENDING: pride
+quotation check, ANS quotation check, and supervisor disposition on granular-page
+eligibility remain outstanding. Items 1 and 3 namespace holds separate and
+unchanged.

@@ -40,5 +40,9 @@ advisor. VALIDATION RECORD CORRECTION: the two granular pages have no
 pre-creation baseline (new files); they pass structural checks after their
 creation commit, reported separately here. Their fast-track eligibility needs a
 supervisor disposition (§1a requires manifest membership; the granulars are
-new, not in any manifest). Quotes verified in two independent extractions of the
+new, not in any manifest). Quotes verified in two consistent prompted extractions of the
 opened scispace PDF; two re-verification attempts hit crawler errors (recorded).
+
+Verification note (round 4 correction): repeated prompted extractions are
+consistent outputs, not independent verification; the scispace re-verification
+attempts failed on crawler errors (page_is_incomplete), recorded above.

@@ -30,4 +30,6 @@ actually met and received" gloss deleted (the four phase names do not
 establish need-met); P182 and Cosmopolitan-care clauses reduced to
 title-descriptive clauses (validator forbids removing committed links); the
 phases/elements sentence now follows the source's own wording structure with
-attribution. Quotes re-verified verbatim in a fresh unprompted extraction.
+attribution. Verification note (round 4 correction): the re-extraction used a
+targeted locator prompt, not an independent unprompted inspection; the quotes
+stand on two consistent prompted extractions of the opened article.
