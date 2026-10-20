@@ -12,13 +12,17 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 17** — Catch distortion early
 
-Error (viparyaya) is knowledge that is wrong but felt as right; it is the most expensive of the five movements because it drives confident action. The tradition's counsel is to treat strong conviction as a flag, not a proof. Practically, run your strongest current conviction through the question: "What would I see if this were false?"
+Patanjali lists five movements of the mind: "These activities are: Sound intellection, unsound intellection, predication, sleep, memory." ([Yoga Sutras 1.6, Johnston translation](https://www.gutenberg.org/ebooks/2526)) Of unsound intellection, viparyaya, he says:
 
-(YS 1.8.)
+> "Unsound intellection is false understanding, not resting on a perception of the true nature of things." ([YS 1.8](https://www.gutenberg.org/ebooks/2526))
 
-**Plain words** Error is knowledge that is wrong but feels right — the most expensive of the five movements, because it drives confident action. Treat strong conviction as a flag, not a proof. Run your strongest current conviction through the check.
+His commentary gives the mechanism: "When the object is not truly perceived, when the observation is inaccurate and faulty, thought or reasoning based on that mistaken perception is of necessity false and unsound." ([Johnston on YS 1.8](https://www.gutenberg.org/ebooks/2526)) The distortion is expensive downstream, because everything reasoned from it inherits the fault.
 
-*For example:* The team that was certain the feature was what users wanted — conviction this strong is exactly the flag — and one week of user interviews breaks it in five places.
+The compendium's counsel: treat strong conviction as a flag, not a proof. Its check is to run your strongest current conviction through the question, what would I see if this were false?
+
+**Plain words** One of the five things a mind does is misunderstand while feeling sure. Because the sureness feels like perception, you act on it. The check is to ask what the world would look like if you were wrong, and then to actually look.
+
+*For example:* The team that was certain the feature was what users wanted. One week of user interviews broke the conviction in five places.
 ## Psychology parallels
 
 - **Confirmation bias mitigation and consider-the-opposite technique** (Lord et al., 1984; Mussweiler et al., 2000)
@@ -26,4 +30,5 @@ Error (viparyaya) is knowledge that is wrong but felt as right; it is the most e
 ## Philosophy parallels
 
 - **[[The strong claim of the loud voice|The strong claim of the loud voice]]** (BG 2.67 context, the mind carried by senses)
-- **[[Skepticism about the obvious|Skepticism about the obvious]]** (Sextus Empiricus, Outlines)- **[[Maya (illusion)|Maya (illusion)]]** (Yoga-Vedanta)
+- **[[Skepticism about the obvious|Skepticism about the obvious]]** (Sextus Empiricus, Outlines)
+- **[[Maya (illusion)|Maya (illusion)]]** (Yoga-Vedanta)
