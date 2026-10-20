@@ -918,3 +918,22 @@ pages. Continuing to CO009.
   coverage adequate; no new reciprocal proposed. Inherited parallels (Kahneman 2011
   book, Dijksterhuis & Nordgren 2006, Nieuwenstein et al. 2015) unopened — flagged,
   not certified; parallels/practice sections untouched per protocol.
+
+### CO064 (2026-10-20, worker-p1h-9f42e6c7)
+
+- Source opened: Normann & Morina 2018, "The Efficacy of Metacognitive Therapy: A
+  Meta-Analysis Reviewing the Evidence", Frontiers in Psychology 9:2211 (PMC6246690).
+  Raw page text extracted from the served HTML (curl), quote verified word-for-word
+  against it. The source renders the inner example beliefs with curly double quotes;
+  the page uses single quotes per compendium typographic convention — words match
+  exactly.
+- Blockquote is the Wells-model passage (positive/negative metacognitions with both
+  example beliefs). Paraphrase anchors: the CAS definition (repetitive negative
+  thinking, worry/rumination, threat monitoring, unhelpful coping styles), "CAS is
+  under the control of metacognitions", the meta-analysis counts (25 studies, 15 RCTs)
+  and the abstract's outcome sentences. The "one person believes... another believes..."
+  plain-words framing is labelled with "On Wells's model". Example labelled hypothetical.
+- Linked-concept reads: Metacognitive model of anxiety and depression (Wells) concept
+  (cited-in consistent). Inherited parallels (Wells 2009 book, Wells et al. 2010,
+  Normann et al. 2014) unopened — flagged, not certified; parallels/practice sections
+  untouched per protocol. No new reciprocal proposed (coverage adequate).
