@@ -564,3 +564,19 @@ never-band-assigned work; p1g state had them flagged-only, absent from p1g's man
   list S087 and are the principle's own psychology parallels). Idle talk (Gerede) also lists
   S087 (one-directional; loose fit — the Seneca material here is about vices and time, not
   Heideggerian idle talk; no action). No new proposal warranted.
+
+## S092 — Treat adversity as training
+- Full work: verbatim quotes added (Epictetus, Discourses "How we should struggle with
+  circumstances" — the wrestler-trainer/Olympic-conqueror passage; Marcus, printed as Bk V
+  §17 in Gutenberg 2680 — "that which before was in her way, is now her readiest way"), both
+  mechanically verified in file and source. Note: the compendium's "What stands in the way
+  becomes the way" is a modern rendering of the same passage; the body now carries the 2680
+  text's own wording. Plain words rewritten as re-derivation (gym with no weights). For-example
+  kept. Sources section added.
+- Citation line trimmed to opened evidence. Removed inherited references, retained here:
+  Med. IV.1, IV.50, V.8, V.10, V.18, V.20, VI.48, VII.8, VII.19, VII.20, VII.43, VII.55,
+  VIII.35, VIII.41, X.33; Disc. I.6, III.20; Ench. 1, 16, 19, 29, 53; Seneca, On Providence.
+- Saturation: mutual links for Post-traumatic growth and Stress mindset (both list S092 and
+  are the principle's own psychology parallels). Growth mindset also lists S092
+  (one-directional; moderate fit — the training claim is carried by the existing stress-
+  mindset parallel; no action). No new proposal warranted.
