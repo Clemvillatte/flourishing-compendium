@@ -5,8 +5,11 @@
   "Y097"
  ],
  "in_progress": null,
- "flagged": {},
+ "flagged": {
+  "Y095": "advisor QC round 1 fail: 4.37/4.38 translation attribution unverified (need Sivananda or Mukundananda); unsupported mechanism claims; humanizer defects (First/Second staging, split contrast, fragment closer, fuel-log aphorism)",
+  "Y097": "advisor QC round 1 fail: verse supports teacher/apprenticeship not the never-terminate mechanism; detector was 61% replicate; example not labelled imagined; humanizer defects (arrival/closing aphorism, self-mechanism, dashes, second-one/first-one closer); saturation not actually run"
+ },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:19:37+00:00"
+ "updated": "2026-10-20T11:22:13+00:00"
 }
