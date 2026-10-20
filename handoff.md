@@ -3,28 +3,18 @@
 - OWNER UPDATE (2026-10-19): work continuously, not in self-terminating passes. Read
   `docs/enrichment/OWNER-UPDATE-2026-10-19.md` before proceeding. Workers move to the next
   available priority band; the supervisor keeps monitoring even when no new commits arrive.
-- CURRENT SUPERVISOR (2026-10-20 07:3xZ, supervisor-6c93f2ad, takeover from stale supervisor-c0de5a17,
-  FIVE passes logged): pass 1 = health check (window d3b5403b..HEAD, ~30 min, 91 newly-done items
-  across 12 bands): build ok (5,720 entries, fcAuthored 976); baseline-anchored validation (--base
-  d3b5403b): 48 plain pass + 44 pass only under --fast-track; per-item eligibility documented in
-  band ledgers (Environmental psychology degree 11 at selection, current 15 includes 4 self-added
-  links — not a violation). Samples: p1w E032 (new owner's SEP version) scoped PASS (quotes verbatim
-  vs freshly opened SEP; whole-page acceptance not established); w1j Radical freedom — attribution
-  OVER-QUOTE found (Aho's framing sentence presented as Sartre's; SEP quotes only the inner
-  fragment) + missing [2001, 296] locator — ROUTED to the live w1j owner; E025 handoff corrected
-  (both §23 quotes sit on H.105, not H.106 — German page-break page-image check). ROUTES OUT:
-  E020 CONDITIONAL FAIL repair and K001 disposition (secondary-carrier acceptance per E016/E070
-  precedent; rewrite the in-body audit sentence into reader-facing provenance, then mark done) both
-  with the live p1w owner; full material in docs/enrichment/QC-HANDOFF-p1w-2026-10-20.md. Pass 2 =
-  integration: p1a/p1c/p1f/p1h/p1r/w1a proposals applied (43 reciprocals + 19 inline, 57 files;
-  w1a audit-tail why clauses rewritten reader-facing first); 5 validator FAILs confirmed pre-existing
-  seed conditions; build ok. RESERVES: priority-eligible unassigned pool exhausted (0) — no minting;
-  p1za remains open for claim. OPEN ITEMS for next supervisor pass: re-apply deferred proposals when
-  busy bands free up (27 deferred this run); monitor the p1w owner's E020/K001 applications and the
-  w1j Radical freedom fix; p1r P054/P056/P058 flags re-sample after repairs; p1f D021 paraphrase
-  repair; if new reserves are needed the selection criterion needs an owner decision (B/D/P priority
-  pool fully drained). Live workers at last check: p1w (7cd8c5ce), p1x, p1y, p1z, w1b, w1c, w1d,
-  w1e, w1f, w1h, w1l; p1za open. Bounded monitoring continues.
+- CURRENT SUPERVISOR (2026-10-20 ~11:5xZ, supervisor-46a0925d, takeover from stale supervisor-5130eacb,
+  wave-resume session): pass 13 logged in the OPERATIONS.md QC log — health check (window d29687ab..9d300bc0,
+  66 files: 57 plain + 9 w1k fast-track pass, build ok 5,722/fcAuthored 976); routed repairs verified landed
+  (E020/E025/E006/K001 p1w, w1j Radical freedom); samples PP019 + S131 quote-verified (S131 body needs
+  reader-facing repair — ROUTED to the live p1zn owner with exact edits; PP019 Csikszentmihalyi naming
+  grounding ROUTED to the live p1zm owner); integration applied (93 recip + 4 inline, 90 files, 7 deferred
+  to live bands; 43 FAILs pre-existing seed conditions); reserves p1zq/p1zr/p1zs minted (degree order,
+  queue@16f4b581). Live workers at last check: p1zj, p1zk, p1zm, p1zn, p1zo, p1zp; stale/free for
+  takeover: p1zi, w1e, w1g, w1h, w1j, w1l. Pending supervisor dispositions: w1e/w1g/w1l/w1c namespace
+  holds; p1zk BI013≈BE037 / BI033≈BE042 near-duplicates (owner decision). OPEN ITEMS for next pass:
+  re-apply deferred proposals when bands free up; monitor the S131/PP019 routes; sample the new workers'
+  first items; replenish reserves as the wave claims them. Bounded monitoring continues.
 - PREVIOUS SUPERVISOR (2026-10-20 04:0xZ, supervisor-36b57e93, FOUR passes logged): latest pass
   ran the proposal integration (see QC log): preflight repairs to stale-band proposal files
   (p1s filename resolution; w1a/w1c/w1e dead Character-as-habits records removed), 26
