@@ -12,16 +12,24 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "X — Extra 
 ---
 > **Principle 22** — Keep nature as the restorative commons
 
-The Transcendentalists' deliberate practice: days in the woods as the mind's true diet; Thoreau's Walden years as the experiment in direct living; the tradition's claim that in the presence of nature, a person is whole. The distinct contribution is the standing prescription (regular, extended, unplugged nature time) rather than the nature-appreciation that other volumes share. Practically, keep one weekly nature appointment of at least an hour, phone off, in the nearest unmanaged place, as a medical appointment you keep with your attention.
+Emerson's 1836 essay gives the tradition's felt claim. In the presence of nature, "all mean egotism vanishes" and "In the wilderness, I find something more dear and connate than in streets or villages." ([Nature, ch. 1](https://www.gutenberg.org/ebooks/29433))
 
-(Thoreau, Walden; Emerson, Nature.)
+Thoreau turned the claim into a two-year experiment, and Walden gives the reason in his most quoted sentence:
 
-**Plain words** Days in the woods are the mind's actual diet — the Transcendentalists' standing prescription: regular, extended, unplugged time in unmanaged nature. Not nature-appreciation from a car; presence. Thoreau ran the experiment so you don't have to build the cabin — just keep the appointment.
+> "I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived." ([Walden, "Where I Lived, and What I Lived For"](https://www.gutenberg.org/ebooks/205))
 
-*For example:* The analyst whose Sunday-morning park hour, phone off, does more for the week's head than the entire self-help shelf — one hour of trees, no inputs.
+The book's late chapter argues for keeping wild country near:
+
+> "Our village life would stagnate if it were not for the unexplored forests and meadows which surround it. We need the tonic of wildness" ([Walden, "Spring"](https://www.gutenberg.org/ebooks/205))
+
+The compendium's application: keep one weekly nature appointment of at least an hour, phone off, in the nearest unmanaged place.
+
+**Plain words** The prescription is regular, extended time in unmanaged nature, not scenery watched from a car. Thoreau's cabin was the extreme version; the version available to you is the weekly hour. The point of the appointment is presence rather than appreciation.
+
+*For example:* An analyst keeps a Sunday-morning park hour, phone off, one hour of trees and no inputs, and treats it as unmovable.
 ## Psychology parallels
 
-- **[[Attention restoration|Attention restoration theory]]**, the evidence that nature restores directed attention and reduces rumination (Kaplan, 1995; the nature-exposure literatures)
+- **[[Attention restoration|Attention restoration theory]]** (Kaplan, 1995; the nature-exposure literatures)
 
 ## Philosophy parallels
 
