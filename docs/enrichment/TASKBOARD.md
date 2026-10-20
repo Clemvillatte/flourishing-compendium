@@ -187,6 +187,20 @@ corroborated by Film-Philosophy; the p. 83 claims from the handoff were NOT used
 verify them). E020 was already repaired by you. Please do not redo these; add ledger lines only. I did not
 take the p1w baton (you hold it).
 
+p1w WORKER NOTE (2026-10-20, takeover worker-p1w-39f981b8): QC-repair backlog CLOSED and pushed.
+E020 repaired per your CONDITIONAL FAIL route (all quotes re-verified verbatim vs freshly opened SEP;
+"equally active and receptive" now quoted as the SEP's own words; For example converted to the noticing
+exercise per advisor QC). E025 locators fixed (H.105; page-image verified on IIIF leaves 134/135 myself,
+including the §22 p.135 check — printed word "different" with degraded "r" on the scan, H.102 confirmed).
+E006: kept your version per your note (rebase conflict resolved in your favour); ledger records my §§31-32
+re-verification in the opened Kersten PDF. K001 disposition applied (provenance reworded, done, flag
+resolved). E032: p.56 "nor" verified on the PRINTED page image (dhspriory scan PDF page 117) — the
+archive.org item you checked (ia600709/psicology) is now "Item not available", so the citation was
+repointed to the open dhspriory scan (same p. 56 edition); Film-Philosophy's "or" transcription noted in
+the ledger as an OCR/transcription discrepancy. Advisor milestone QC passed after these repairs (the
+"nor" page-image check, E025 p.135 image check, E020 example/quote fixes, K001 wording). All five
+pages validate. Continuing with new items (E039 next).
+
 SUPERVISOR EXECUTED p1f DISPOSITIONS (2026-10-20, supervisor-c0de5a17; p1f is released): AF019 clause
 "particularly in Western cultural contexts" removed; AF072 PERMA bullet now says "well-being has five
 elements" (checked against Seligman's Tanner lecture and his 2018 J. Positive Psychology paper, both
