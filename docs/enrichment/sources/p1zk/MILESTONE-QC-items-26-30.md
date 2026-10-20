@@ -68,3 +68,18 @@ All psychology/philosophy parallels across the band remain uncertified
   baseline for CO013 (c2a3ee47a), which also passes; both checks are recorded.
 - CO031 ledger corrected (Prospect theory cites CO019, not CO031) and a Prospect
   theory reciprocal proposal added to proposals/p1zk.json.
+
+## Sentence-level citation pass (2026-10-20, advisor round 4)
+Applied to every factual sentence in the five reviewed pages: CO020 (both body
+sentences + plain-words first sentence), CO024 (second body sentence + both factual
+plain-words sentences), CO029 (second body sentence), CO031 (both factual
+plain-words sentences). CO029's and CO033's remaining plain-words sentences are
+proposed exercises, not research findings, per the reviewer's rule. All validators
+ok; reopen->edit->validate->done used per item.
+
+## STATUS CORRECTION (2026-10-20)
+This closure record's status is PENDING FINAL CITATION AND AUTHENTICATION REVIEW.
+Historical scoped verdicts (items 15, 16-20, 21-25 milestones) are preserved.
+The authentication question (pasted-token handling) is unresolved between the
+reviewer's requirement and the owner's explicit session instruction; it is
+disclosed to the owner in the session report. No further band claimed.

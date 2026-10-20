@@ -12,12 +12,12 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 ---
 > **Principle 24** — Recognise hindsight bias: "I knew it all along."
 
-The original experiment had judges evaluate historical descriptions with and without knowing the outcome: receipt of outcome knowledge increased the postdicted likelihood of reported events and changed the perceived relevance of event descriptive data, regardless of the likelihood of the outcome and the truth of the report ([Fischhoff 1975](https://pubmed.ncbi.nlm.nih.gov/12897366/)). The judges were largely unaware of the effect that outcome knowledge had on their perceptions, and as a result overestimated what they would have known without it, and what others actually did know without it.
+The original experiment had judges evaluate historical descriptions with and without knowing the outcome: receipt of outcome knowledge increased the postdicted likelihood of reported events and changed the perceived relevance of event descriptive data, regardless of the likelihood of the outcome and the truth of the report ([Fischhoff 1975](https://pubmed.ncbi.nlm.nih.gov/12897366/)). The judges were largely unaware of the effect that outcome knowledge had on their perceptions, and as a result overestimated what they would have known without it, and what others actually did know without it ([Fischhoff 1975](https://pubmed.ncbi.nlm.nih.gov/12897366/)).
 
 > "It is argued that this lack of awareness can seriously restrict one's ability to judge or learn from the past." (Fischhoff 1975, [Journal of Experimental Psychology: HPP, republished in Quality & Safety in Health Care](https://pubmed.ncbi.nlm.nih.gov/12897366/))
 
 **Plain words**
-Knowing the result can make it seem easier to have predicted. The judges in these experiments did not fully notice that influence. For your own decisions, try recording expectations before the outcome and comparing them afterwards.
+Knowing the result can make it seem easier to have predicted ([Fischhoff 1975](https://pubmed.ncbi.nlm.nih.gov/12897366/)). The judges in these experiments did not fully notice that influence ([Fischhoff 1975](https://pubmed.ncbi.nlm.nih.gov/12897366/)). For your own decisions, try recording expectations before the outcome and comparing them afterwards.
 
 *For example:* Before a proposed merger, an imagined team records its forecast and the evidence behind it. Afterwards, it compares that dated note with members' recollections.
 

@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 ---
 > **Principle 29** — Practise "consider the opposite": deliberately generate counterarguments
 
-The paper that tested the strategy proposes that several biases in social judgment result from a failure, first noted by Francis Bacon, to consider possibilities at odds with beliefs and perceptions of the moment ([Lord, Lepper & Preston 1984](https://pubmed.ncbi.nlm.nih.gov/6527215/)). In two experiments, one on biased assimilation of new evidence about social issues and one on biased hypothesis testing of personality impressions, subjects were induced to consider the opposite in two ways, through explicit instructions and through stimulus materials that made opposite possibilities more salient.
+The paper that tested the strategy proposes that several biases in social judgment result from a failure, first noted by Francis Bacon, to consider possibilities at odds with beliefs and perceptions of the moment ([Lord, Lepper & Preston 1984](https://pubmed.ncbi.nlm.nih.gov/6527215/)). In two experiments, one on biased assimilation of new evidence about social issues and one on biased hypothesis testing of personality impressions, subjects were induced to consider the opposite in two ways, through explicit instructions and through stimulus materials that made opposite possibilities more salient ([Lord, Lepper & Preston 1984](https://pubmed.ncbi.nlm.nih.gov/6527215/)).
 
 > "In both experiments the induction of a consider-the-opposite strategy had greater corrective effect than more demand-laden alternative instructions to be as fair and unbiased as possible." (Lord, Lepper & Preston 1984, [Journal of Personality and Social Psychology](https://pubmed.ncbi.nlm.nih.gov/6527215/))
 

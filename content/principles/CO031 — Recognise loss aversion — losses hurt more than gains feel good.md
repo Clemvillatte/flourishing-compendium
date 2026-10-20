@@ -17,7 +17,7 @@ The 1979 prospect theory paper names the asymmetry in the attitudes data: a sali
 > "A salient characteristic of attitudes to changes in welfare is that losses loom larger than gains. The aggravation that one experiences in losing a sum of money appears to be greater than the pleasure associated with gaining the same amount." (Kahneman & Tversky 1979, [Econometrica 47(2): 263-291, p. 279](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Behavioral_Decision_Theory/Kahneman_Tversky_1979_Prospect_theory.pdf))
 
 **Plain words**
-In this account, equal cash gains and losses need not carry equal psychological weight. Someone can dislike an even bet because the possible loss counts more heavily for them. The paper describes a tendency, so check how you respond to a particular gamble.
+In this account, equal cash gains and losses need not carry equal psychological weight ([Kahneman & Tversky 1979](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Behavioral_Decision_Theory/Kahneman_Tversky_1979_Prospect_theory.pdf)). Someone can dislike an even bet because the possible loss counts more heavily for them ([Kahneman & Tversky 1979](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Behavioral_Decision_Theory/Kahneman_Tversky_1979_Prospect_theory.pdf)). The paper describes a tendency, so check how you respond to a particular gamble.
 
 *For example:* An imagined case: someone is offered an even bet, equal gain, equal loss, and watches which side their mind dwells on.
 
