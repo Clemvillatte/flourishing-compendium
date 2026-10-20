@@ -1,6 +1,6 @@
 {
  "batch": "p1zj",
- "revision": 12,
+ "revision": 13,
  "records": [
   {
    "action": "reciprocal",
@@ -176,6 +176,20 @@
    "link": "AF049",
    "why": "listed for comparison with the principle's sensation-plus-interpretation reading of panic",
    "notes": "sequence: proposal drafted first, target page read before this note was finalised and before push; ground: page covers the exposure protocol adjacent to Clark 1986 opened for AF049"
+  },
+  {
+   "action": "reciprocal",
+   "into": "Benign versus malicious envy",
+   "link": "AF055",
+   "why": "listed for comparison with the principle's moving-up reading of envy",
+   "notes": "sequence: proposal drafted first, target page read before this note was finalised and before push; ground: page covers envy-subtypes/sympathetic-joy material adjacent to van de Ven 2009 opened for AF055"
+  },
+  {
+   "action": "reciprocal",
+   "into": "Mudita (sympathetic joy)",
+   "link": "AF055",
+   "why": "listed for comparison with the principle's moving-up reading of envy",
+   "notes": "sequence: proposal drafted first, target page read before this note was finalised and before push; ground: page covers envy-subtypes/sympathetic-joy material adjacent to van de Ven 2009 opened for AF055"
   }
  ]
 }

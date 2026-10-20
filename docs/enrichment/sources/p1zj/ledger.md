@@ -100,3 +100,9 @@ Band: AF002..BE033, 30 principles, degree order (queue 628-673). Advisor QC cade
 - Scope: "fear of fear" and "interoceptive exposure protocol" framing replaced with the model's own account; "not dangerous" psychoeducation claim removed from Practice (not in the opened text; page now notes it is a model description, not treatment). Barlow et al. 2000 reduced to further reading.
 - Plain words: replicate fixed; example replaced with labelled imagined case.
 - Proposals: reciprocal into Interoceptive exposure (Barlow) (page read before proposing).
+
+## AF055 — Work with envy: it signals a value, not a defect
+- Evidence: van de Ven, Zeelenberg & Pieters 2009, Emotion 9(3) 419-429, abstract via pubmed.ncbi.nlm.nih.gov/19485619, fetched this session. Both quoted fragments verified verbatim (definition; benign/malicious motivation split).
+- Scope: "signals a value" reading labelled as the compendium's own application (the study concerns motivation direction, not value information); Festinger/Smith comparison claim reduced to further reading; Practice kept as the compendium's exercise.
+- Plain words: replicate fixed; example replaced with labelled imagined case.
+- Proposals: reciprocals into Benign versus malicious envy and Mudita (sympathetic joy) (pages read before proposing).
