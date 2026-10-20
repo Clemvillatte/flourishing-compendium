@@ -12,24 +12,24 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 144** — Let cognition extend into the environment
 
-Clark and Chalmers's 1998 paper "The Extended Mind" targets the assumption that thinking happens only inside the head. Their test: if a process in the world would count as cognition were it done in the head, it counts as cognition where it actually happens. Their famous case:
+Clark and Chalmers's 1998 paper "The Extended Mind" puts forward a proposal: thinking is not bounded by the skull. Their test: if a process in the world would count as cognition were it done in the head, it counts as cognition where it actually happens. The paper's constructed case:
 
 > "Otto carries a notebook around with him everywhere he goes. When he learns new information, he writes it down. When he needs some old information, he looks it up. For Otto, his notebook plays the role usually played by a biological memory." (Clark and Chalmers, "The Extended Mind," [consc.net](http://www.consc.net/papers/extended.html))
 
-Their conclusion, in their words, is that nothing is sacred about skull and skin: what makes information count as a belief is the role it plays, and there is no reason the role can be played only from inside the body. The shopping list on the fridge, the calendar, the teammate who remembers the client's name are doing the work a memory does.
+On their account, information stored outside the body can belong to a person's standing beliefs when it functions like information they ordinarily remember. What earns the notebook that status is reliance: it is a constant in Otto's life, its information directly available when needed and automatically endorsed. Their condition for the everyday cases is reliable coupling, the resource being there when needed and available to guide action. A shopping list on the fridge, a calendar, a teammate who remembers the client's name can do the work a memory does under those conditions: reliably there, consulted, trusted.
 
-James had the practical version a century earlier, in the habit chapter of The Principles of Psychology:
+James's habit chapter makes the practical comparison. The great thing in education, he writes:
 
 > "The great thing, then, in all education, is to make our nervous system our ally instead of our enemy." (James, The Principles of Psychology, vol. 1, ch. 4, [Gutenberg](https://www.gutenberg.org/ebooks/57628))
 
-His instruction for acquiring a new habit is environment design in nineteenth-century dress: "Accumulate all the possible circumstances which shall re-enforce the right motives; put yourself assiduously in conditions that encourage the new way" (ch. 4).
+For new habits he passes on Alexander Bain's maxims: "Accumulate all the possible circumstances which shall re-enforce the right motives; put yourself assiduously in conditions that encourage the new way" (ch. 4). Where Clark and Chalmers argue about which processes belong to cognition, James gives instructions for arranging the surroundings that support a habit.
 
 The compendium's exercise: list the three places outside your head where your current project's thinking actually happens, the notebook, the whiteboard, the friend. For each, write down whether it is set up to help the project or left to chance. Fix one.
 
 **Plain words**
-Your thinking does not stop at your skull. The notebook is doing memory's work; the calendar is doing planning's work; the friend who remembers what you forget is doing storage's work. Setting them up deliberately is not getting organized; it is thinking with a bigger machine.
+Writing something down changes the task: you can consult a record instead of recalling everything unaided. Whether that record counts as part of the mind is the stronger claim Clark and Chalmers defend.
 
-*For example:* The shopping list on the fridge is doing the remembering for the household. The person who writes the week's meals on the whiteboard before shopping day is not compensating for a bad memory; they are running the household's memory where the household can see it.
+*For example:* Imagine a household that writes the week's meals on the whiteboard before shopping day. The record is consulted before the shopping trip, trusted as written, and there when the list is made. The household runs its remembering where everyone can see it, without anyone deciding whether the whiteboard is literally part of a mind.
 
 ## Sources
 
