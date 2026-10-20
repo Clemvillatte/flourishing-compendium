@@ -12,17 +12,23 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 12** — Do not make an identity out of the collapse
 
-The tradition's warning, stated often enough to be its own principle: nihility, the great doubt, and even shunyata itself can be seized as a new identity ("I am the one who sees through everything"), which rebuilds the ego one floor down. The passage is walked, not owned. Practically, when an insight into groundlessness arrives, enjoy it, use it, and do not found a self on it; the test is whether you can still be ordinary on Tuesday.
+The Buddha's raft simile in MN 22 gives the warning its plainest form: the Dhamma is for the purpose of crossing over, not for the purpose of holding onto. The compendium's application extends the simile to insights: nihility, the great doubt, and even emptiness can be seized as a new identity ("I am the one who sees through everything"), and the passage is walked, not owned. When an insight arrives, use it and do not found a self on it.
 
 (Nishitani, Religion and Nothingness; the Zen tradition's warnings about the "zen sickness.")
 
-**Plain words** Even insight into groundlessness can be turned into an identity: "I'm the one who sees through everything." That rebuilds the ego one floor down. The tradition says walk the passage, don't own it. The test is whether you can still be ordinary, patient and warm.
+> Monks, I will teach you the Dhamma compared to a raft, for the purpose of crossing over, not for the purpose of holding onto. (Alagaddupama Sutta, MN 22, Thanissaro Bhikkhu translation)
 
-*For example:* The friend who has been to three retreats and now corrects everyone's attachments at dinner is wearing his awakening like a badge.
+**Plain words** The raft simile's logic applies to insight itself: a raft is for crossing, and a person who carries it on their head has stopped travelling. The compendium's test for a new self-description founded on an insight: does ordinary life continue, or does the insight now do the talking?
+
+*For example:* Imagined example: the friend who has been to three retreats and now corrects everyone's attachments at dinner is wearing his awakening like a badge.
+
+## Sources
+
+- [Alagaddupama Sutta, MN 22 (Thanissaro Bhikkhu translation)](https://www.accesstoinsight.org/tipitaka/mn/mn.022.than.html)
 
 ## Psychology parallels
 
-- **Spiritual bypassing and ego inflation**, the clinical literature on contemplative failure modes (Masters, 2010)
+- Spiritual bypassing and ego inflation (Masters, 2010)
 
 ## Philosophy parallels
 

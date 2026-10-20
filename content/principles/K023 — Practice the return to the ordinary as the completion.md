@@ -12,17 +12,23 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 23** — Practice the return to the ordinary as the completion
 
-The Kyoto School's endpoint is deliberately anticlimactic: after the collapse, the doubt, the stepping back, the return is to dishes, work, and family, now without the layer of self-referential noise. The tradition's phrase for the endpoint is "the ordinary mind" and its marks are unremarkable: patience, warmth, availability. Practically, treat ordinariness as the criterion of progress in this whole book; the special states are weather, and the ordinary is the climate you are cultivating.
+The Zen koan at the root of this principle is Mumon's case 19: asked what the path is, Nansen answers "everyday life," and tells Joshu that trying to study it takes you far away from it (Senzaki and Reps's translation). The compendium's application follows the koan's anticlimax: treat ordinariness as the criterion of progress; the special states are weather, and the ordinary is the climate being cultivated.
 
 (The Zen tradition's ordinary mind; Nishitani's return.)
 
-**Plain words** The Kyoto School ends on purpose with something plain: after the collapse, the doubt and the stepping back, you return to dishes, work and family, minus the self-referential noise. The tradition's name for it is the ordinary mind, and its marks are patience, warmth and availability. Ordinariness is the measure.
+> Joshu asked Nansen: "What is the path?" Nansen said: "Everyday life is the path." Joshu asked: "Can it be studied?" Nansen said: "If you try to study, you will be far away from it." (Mumon, The Gateless Gate, case 19, Senzaki and Reps translation)
 
-*For example:* A person who has spent years on retreats and reading shows it by being the one who quietly stays to wash up.
+**Plain words** In the koan, the answer to "what is the path" is everyday life, and the warning is that studying the answer takes you away from it. The compendium's measure of progress: whether dishes, work and family carry less self-referential noise than they did, not whether the states are special.
+
+*For example:* Imagined example: a person who has spent years on retreats and reading shows it by being the one who quietly stays to wash up.
+
+## Sources
+
+- [Mumon, The Gateless Gate, case 19 (Senzaki and Reps translation, Wikisource)](https://en.wikisource.org/wiki/The_Gateless_Gate/Everyday_Life_Is_The_Path)
 
 ## Psychology parallels
 
-- **Functioning and well-being measures**, the evidence-based point that life functioning (work, relationships, routine) is a core outcome, not a distraction from growth (the well-being measurement literature)
+- Functioning and well-being measures (the well-being measurement literature)
 
 ## Philosophy parallels
 

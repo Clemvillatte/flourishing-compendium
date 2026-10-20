@@ -12,17 +12,23 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 10** — Step back from the ego to the field
 
-Nishitani's central move: when the ego's project fails, do not rebuild it in place; step back (his term is a "double" step, since the first step back still has a stepper) to the field on which the ego itself arose. On that field, things no longer appear as supports or threats to the self's story; they appear as what they are. The practical translation is a discipline of perspective: when a self-reference collapses, ask what remains true of the situation when the "me" is subtracted from it.
+In the account of Nishitani's three-field topology given in the Stanford Encyclopedia's Kyoto School entry, the ego operates in a dualistic field of reified being; freeing oneself from egoistic obsessions requires first stepping back into the field of nihility, and the breakthrough to a non-dualistic reaffirmation of self and world occurs when nihility is broken through to the field of emptiness (Davis, §3.5). The compendium's application is a discipline of perspective: when a self-reference collapses, ask what remains true of the situation when the "me" is subtracted from it.
 
 (Nishitani, Religion and Nothingness, the chapters on the ego and the field of shunyata.)
 
-**Plain words** When your ego's project falls apart, don't rebuild it in the same place. Step back to the ground that the ego grew out of. Nishitani says even the stepping back needs another step, since the stepper is still there. From there, things stop being supports or threats to your story and show up as what they are.
+> Yet the real breakthrough to a non-dualistic reaffirmation of self and world only occurs when the relative nothingness of nihility is in turn broken through to a genuine experience of absolute nothingness or true emptiness on the "field of emptiness." (Bret W. Davis, "The Kyoto School", §3.5, Stanford Encyclopedia of Philosophy, describing Nishitani's three-field topology)
 
-*For example:* After a public failure, you stop drafting your comeback story. For a day you just notice the weather, the dishes, a friend's voice, as they are.
+**Plain words** The account has two steps: first away from the ego's stance, then through the emptiness that remains. In the compendium's exercise, the step is taken with a question: with the "me" subtracted, what is still true of the situation? What shows up is what the field was holding all along.
+
+*For example:* Imagined example: after a public failure, someone stops drafting a comeback story and for a day notices the weather, the dishes, a friend's voice, as they are.
+
+## Sources
+
+- [Davis, "The Kyoto School", Stanford Encyclopedia of Philosophy, §3.5](https://plato.stanford.edu/entries/kyoto-school/) — Nishitani's three-field topology (being, nihility, emptiness)
 
 ## Psychology parallels
 
-- **[[Self-distancing|Self-distancing]]**, the third-person and temporal shifts that reliably improve reasoning and reduce reactivity (Kross, 2014; Grossmann and Kross, 2014)
+- **[[Self-distancing|Self-distancing]]** (Kross, 2014; Grossmann and Kross, 2014)
 
 ## Philosophy parallels
 
