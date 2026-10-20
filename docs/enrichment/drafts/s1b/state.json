@@ -75,7 +75,17 @@
      "note": "Substantive independent re-review PASS; zero errors; supervisor chooses separate story vs ST120 enrichment before integration"
     }
    ]
+  },
+  "s1b-004": {
+   "status": "researching",
+   "angle": "B084: MN20 complete five-simile sequence; change methods when unskillful thoughts persist; monastic context and moral vocabulary retained, not clinical treatment",
+   "history": [
+    {
+     "t": "2026-10-20T14:34:39+00:00",
+     "to": "researching"
+    }
+   ]
   }
  },
- "updated": "2026-10-20T14:34:33+00:00"
+ "updated": "2026-10-20T14:34:39+00:00"
 }
