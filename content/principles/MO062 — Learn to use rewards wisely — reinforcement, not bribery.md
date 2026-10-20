@@ -42,4 +42,4 @@ The review found a category difference, not a universal law: on average, rewards
 
 ## Practice
 
-Before offering a reward, ask what it pays for and what kind it is: a comment on the work, or a payment for the doing. In the reviewed averages these categories went in different directions, so name the category before you rely on it.
+Before introducing a reward, distinguish positive feedback from rewards contingent on participation, completion or performance. Do not assume that rewarding completion avoids the effects reported in this review.
