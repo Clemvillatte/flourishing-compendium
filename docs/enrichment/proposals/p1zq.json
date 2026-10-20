@@ -7,7 +7,7 @@
   "notes": "A081 is outside p1zq's band; flagged for supervisor decision on quote diversification rather than edited."
  },
  "batch": "p1zq",
- "revision": 1,
+ "revision": 2,
  "reciprocal": [
   {
    "into": "Affective dynamics framework",
@@ -20,6 +20,18 @@
    "link": "AF015",
    "why": "AF015's week-audit exercise asks the reader to observe how feelings vary across situations — a natural companion to this page's rise-peak-decay timing questions",
    "notes": "Concept page does not yet link AF015 (verified); evidence in sources/p1zq/AF015.md (Kuppens 2015 + Quoidbach et al. 2014, both opened)."
+  },
+  {
+   "into": "Emotion regulation",
+   "link": "AF037",
+   "why": "AF037 carries the suppression-cost finding behind the page's late-stage caution: in a panic-disorder challenge study, suppressing the feeling predicted more subjective anxiety than accepting it.",
+   "notes": "Target verified to not yet link AF037 (rg check 2026-10-21). Evidence: Levitt et al. 2004 abstract, sources/p1zq/AF037.md."
+  },
+  {
+   "into": "Acceptance",
+   "link": "AF037",
+   "why": "AF037's study is the acceptance-versus-suppression contrast in panic disorder: acceptance predicted willingness to face a second challenge where suppression predicted more anxiety.",
+   "notes": "Target verified to not yet link AF037. Evidence: Levitt et al. 2004 abstract, sources/p1zq/AF037.md."
   }
  ],
  "inline": [],
