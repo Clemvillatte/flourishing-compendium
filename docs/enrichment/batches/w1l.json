@@ -29,9 +29,10 @@
   "Goal disengagement",
   "Harmonious versus obsessive passion",
   "Helper's high",
-  "Ideal affect theory Tsai"
+  "Ideal affect theory Tsai",
+  "Idle talk (Gerede)"
  ],
- "in_progress": "Idle talk (Gerede)",
+ "in_progress": null,
  "flagged": {
   "Following nature's rhythms": "namespace: imperative-verb title, opened Legge DDJ 25 does not define the phrase; flagged Category A in concept-namespace-audit.md at item-5 advisor QC; body left as labelled interim material; supervisor disposition requested",
   "Cultural dimensions theory Hofstede": "title: garbled author-suffix title per the concept-verification queue; concept verified (Hofstede 6D model, geerthofstede.com URL added); rename to 'Cultural dimensions theory' is a metadata action routed to the supervisor",
@@ -47,7 +48,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 19,
- "updated": "2026-10-20T11:40:59+00:00",
+ "updated": "2026-10-20T11:41:20+00:00",
  "band_done": false,
  "new_concepts": [
   {
