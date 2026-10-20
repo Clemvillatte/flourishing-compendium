@@ -12,11 +12,28 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 ---
 > **Principle 70** — Recognise motivation and ageing: motivation changes across lifespan
 
-Motivation changes with age. Older adults show different motivational patterns (more positivity, more selective investment, more meaning-focus). This is not decline; it is development.
+Carstensen, Isaacowitz and Charles state the theory in the opening of their article:
 
-**Plain words** Motivation shifts with age — the younger engine runs on achievement and novelty, the older on meaning, connection, and positivity. Neither is deficient. The mid-life stall is often just an old fuel mix in a new engine. Re-mix.
+> Socioemotional selectivity theory claims that the perception of time plays a fundamental role in the selection and pursuit of social goals. According to the theory, social motives fall into 1 of 2 general categories—those related to the acquisition of knowledge and those related to the regulation of emotion. When time is perceived as open-ended, knowledge-related goals are prioritized. In contrast, when time is perceived as limited, emotional goals assume primacy. (Carstensen et al., 1999)
 
-*For example:* The 55-year-old wondering where the ambition went — it didn't die; it changed address. The things that move her now wouldn't have registered at 30. That's not decline. That's a different portfolio.
+The theory's core claim, in their words:
+
+> The cardinal tenet of socioemotional selectivity theory is that the assessment of time plays a critical role in the ranking and execution of behaviors geared toward specific goals. (Carstensen et al., 1999)
+
+And the age connection, from the abstract:
+
+> The inextricable association between time left in life and chronological age ensures age-related differences in social goals. Nonetheless, the authors show that the perception of time is malleable, and social goals change in both younger and older people when time constraints are imposed. (Carstensen et al., 1999)
+
+(Carstensen, Isaacowitz & Charles, 1999, "Taking Time Seriously: A Theory of Socioemotional Selectivity," American Psychologist, 54(3).)
+
+**Plain words**
+The theory says the goals you pursue track how much time you think you have: open time favors learning and new information, limited time favors emotional meaning. Age enters because time left and age travel together. The compendium's exercise: write down your current top three goals, and ask which category each falls into and whether that matches how open or limited your time feels now.
+
+*For example:* A 55-year-old puzzled that the ambitions of her thirties no longer move her can, on the theory, examine her current sense of time: if it feels more limited than it did at thirty, the shift toward emotionally meaningful goals is what the theory predicts for that perception.
+
+## Sources
+
+- [Carstensen, Isaacowitz & Charles, "Taking Time Seriously: A Theory of Socioemotional Selectivity," American Psychologist 54(3), 1999 (author-shared PDF)](https://www.elaborer.org/cours/psy7124/lectures/etud/Lea.pdf) — theory opening; the cardinal tenet; the abstract's age-related and malleability passages
 ## Psychology parallels
 
 - **[[Socioemotional selectivity theory (Carstensen)|Socioemotional selectivity theory (Carstensen)]]**, older adults prioritise emotionally meaningful goals (Carstensen et al., 1999; Carstensen, 2006)
