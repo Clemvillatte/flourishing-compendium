@@ -2,6 +2,18 @@
  "inline": [],
  "reciprocal": [
   {
+   "into": "Dissipative structures",
+   "link": "P149",
+   "why": "P149 explains Prigogine's account of non-equilibrium organization while separating the physical theory from personal-crisis analogies.",
+   "_audit_why": "Mention search found the concept; read and linked in P149, concept lacks P149. Primary Nobel lecture opened."
+  },
+  {
+   "into": "Self-determination",
+   "link": "P169",
+   "why": "P169 compares Rogers's trust in capacities and freedom of choice with self-determination theory, without treating the theories as interchangeable.",
+   "_audit_why": "Self-determination concept read and lacks P169. Original principle already links it; Brodley account opened."
+  },
+  {
    "into": "Creativity",
    "link": "P114",
    "why": "Maslow's account distinguishes everyday creativeness from artistic achievement and considers openness in ordinary activities.",

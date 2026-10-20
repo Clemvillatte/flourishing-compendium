@@ -34,6 +34,10 @@ Imagine losing a job. A proposed planning exercise is to separate immediate inco
 
 - [Ilya Prigogine, Nobel lecture, “Time, Structure and Fluctuations” (1977), sections 2-4](https://www.nobelprize.org/uploads/2018/06/prigogine-lecture.pdf): opened primary account of dissipative structures; not the inherited 1984 book or evidence for psychological renewal.
 
+## Related concepts
+
+- [[Dissipative structures]]: the physical organization discussed in Prigogine's lecture.
+
 ## Psychology parallels
 
 - **Instability as opportunity for identity change** (Kiecolt, 1994)
