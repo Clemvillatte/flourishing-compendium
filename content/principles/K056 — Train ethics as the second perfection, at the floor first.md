@@ -12,14 +12,14 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 56** — Train ethics as the second perfection, at the floor first
 
-The Guide devotes its fourth and fifth chapters to moral discipline, and its fifth-chapter verses put the floor first:
+The Guide devotes its fourth and fifth chapters to moral discipline; the fifth-chapter verses ground what the principle's title calls the floor, the compendium's shorthand for restraint:
 
 > "Nowhere has the killing / Of fish and other creatures been eradicated; / For the attainment of (merely) the thought to forsake (such things) / Is explained as the perfection of moral discipline." (Shantideva, Bodhicharyavatara 5.11, [Batchelor translation](https://milareparetreat.org/files/media/Texte-e/Shantideva_Bodhicaryavatara_en.pdf))
 
 The verse before it treats the perfection of generosity the same way: "The perfection of generosity is said to be / The thought to give all beings everything, / Together with the fruit of such a thought / Hence it is simply a state of mind" (5.10). The order is the tradition's own: Tsongkhapa's Great Treatise lists the perfections in the same run, "not divorced from generosity, that is not divorced from ethical discipline, that is not divorced from patience, that is not divorced from joyous perseverance, that is not divorced from meditative stabilization, that is not divorced from wisdom" ([Great Treatise vol. 2 PDF](https://www.theosophy-ult.org.uk/wp-content/uploads/2021/03/Vol-2-Lamrim-on-Path-to-Enlightenment-Tsong-kha-pa.pdf)), with ethical discipline following generosity. The same chapter of the Guide opens with the guard: "Those who wish to guard their practice / Should very attentively guard their minds / For those who do not guard their minds / Will be unable to guard their practice" (5.1). ([Guide PDF](https://milareparetreat.org/files/media/Texte-e/Shantideva_Bodhicaryavatara_en.pdf))
 
 **Plain words**
-The verse locates moral discipline in a resolve rather than a completed result: the killing of creatures has not been universally eradicated, and the perfection is the thought to forsake such things. Guarding that resolve is guarding the mind.
+The verse locates moral discipline in a resolve rather than a completed result: the killing of creatures has not been universally eradicated, and the perfection is the thought to forsake such things. To keep the practice, the chapter says to guard the mind.
 
 For example (a compendium exercise): For three months, tell no lies, not even white ones, and watch what occasions arise to test the resolve.
 
