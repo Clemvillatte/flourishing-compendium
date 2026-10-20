@@ -28,6 +28,10 @@ The compendium reads this refusal as an invitation to judge an acquisition by wh
 
 - [Zhuangzi 1, Enjoyment in Untroubled Ease, translated by James Legge, Chinese Text Project](https://ctext.org/zhuangzi/enjoyment-in-untroubled-ease): Xu You's reply to Yao.
 
+## Stories
+
+- [[ST338 — Xu You Refuses the Empire|338. Xu You Refuses the Empire]]
+
 ## Psychology parallels
 
 - **Income and well-being** (Kahneman and Deaton, 2010; Jebb et al., 2018; Killingsworth, Kahneman and Mellers, 2023)

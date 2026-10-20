@@ -30,6 +30,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "", 
     - [[ST014 — Marie Kondo and the Spark of Joy]]
     - [[ST015 — Paterson Writes Poems on His Lunch Break]]
     - [[ST016 — Thoreau's Bean Field]]
+    - [[ST338 — Xu You Refuses the Empire]]
   - [[ST-S01.03 — I.3 The Heart-Mind — Stillness, Emptiness, Clarity]]
     - [[ST017 — The Mind as Mirror]]
     - [[ST018 — The Swimmer at Lüliang Falls]]

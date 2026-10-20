@@ -40,6 +40,7 @@ The pheasant is chapter 3's shorter version of the same argument:
 - [Zhuangzi ch. 3 (tr. James Legge)](https://tianmu.org/good-work-library/daoist/zhuangzi/inner-chapters/zhuangzi-nourishing-the-lord-of-life): the pheasant of the marshes
 
 ## Stories
+- [[ST338 — Xu You Refuses the Empire|338. Xu You Refuses the Empire]]
 
 - [[ST337 — Su Shi Walks Through the Rain|337. Su Shi Walks Through the Rain]]
 

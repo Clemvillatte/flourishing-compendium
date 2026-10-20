@@ -41,6 +41,10 @@ Ask what any pursuit costs, and in which currency. Fame is paid for by becoming 
 
 - [[K227 — Time-affluence audit|K227 Time-affluence audit]]
 
+## Stories
+
+- [[ST338 — Xu You Refuses the Empire|338. Xu You Refuses the Empire]]
+
 ## Psychology parallels
 
 - **[[Contingent self-esteem|Contingent self-esteem]]**, self-worth staked on external validation predicts anxiety and depression (Deci and Ryan, 1995; Crocker, 2002)
