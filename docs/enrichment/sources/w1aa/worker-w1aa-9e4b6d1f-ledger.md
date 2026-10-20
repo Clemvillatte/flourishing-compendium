@@ -107,3 +107,12 @@
 - QC HOLD (advisor, item-15 milestone), repairs applied: "decade-plus of training" claim removed (search-snippet-only evidence); combined four-definition blockquote replaced with the single mini-c quote; "reprint" framing removed; "between the familiar extremes" mispositioning and "before any product is recognized" claim removed per the advisor's replacement wording; Insight-research related-link dropped (unsupported equation); Divergent clause reduced to the pre-existing structural edge.
 - WORKFLOW CORRECTIONS from the same review, applied retroactively: Focusing's blockquote replaced with a peer-reviewed quote (Shalev 2018, Front Hum Neurosci, PMC6103000, opened and verified verbatim) to meet the §1a qualifying-source bar (Wikipedia retained in Sources as consulted); Flesh (chair) opening line's "than to matter or mind" comparison removed (not stated by the opened SEP excerpt). Both re-validated clean with the other fixes.
 - PROCESS NOTE recorded: fail-fast validation before done-marks now enforced (set -e in the item pipeline); earlier items that continued past validation failures: Focusing item-14 (banned word "crucial", repaired same session).
+
+## Fricker
+
+- Fast-track degree 1 (sole edge: SO042; SO042's own body cites Fricker 2007 with the two forms).
+- Opened source: the open OUP chapter of Fricker's Epistemic Injustice (2007) Introduction. Verified verbatim: the testimonial/hermeneutical definitions sentence (blockquote); the economy-of-credibility/economy-of-collective-hermeneutical-resources summary sentence; the police/sexual-harassment examples; the distinctively-epistemic framing. The virtues sentence grounded in the book's own abstract page (search-verified via the OUP book landing page snippet; framed as the book's own stated project).
+- Broken seed repaired: the original Cited-in sections carried a dangling dash; "## Cited in philosophy parallels" restored with the SO042 link (SO042's own parallels list links [[Fricker|Fricker]]; the seed's lost link recovered, none deleted).
+- Related concepts: The unreliability of testimony (deg 1), Source credibility research (deg 1), descriptive clauses. No reciprocal proposed.
+- Saturation: fast-track skip.
+- No advisor QC required (item 16).
