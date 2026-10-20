@@ -11,6 +11,12 @@
    "link": "D145 \u2014 Conserve your essence (jing)",
    "why": "D145's locator line names the yangsheng literature as its home tradition, and the principle is a core yangsheng conservation teaching drawn from the Neiye",
    "_audit_why": "D145 links [[Yangsheng (cultivating vitality)|yangsheng]]; the concept's cited-in list lacks D145 \u2014 reciprocal edge missing. Verified by reading content/concepts/Yangsheng (cultivating vitality).md this session."
+  },
+  {
+   "into": "Ziran (naturalness)",
+   "link": "D151 \u2014 Follow the seasons",
+   "why": "D151's philosophy parallels link ziran as the seasonal-rules chapter's underlying idea: each stretch of the year has its own appropriate tasks, and what is of itself does not need forcing",
+   "_audit_why": "D151 links [[Ziran (naturalness)|Ziran \u2014 naturalness]] in its philosophy parallels; the concept's cited-in list lacks D151 \u2014 reciprocal edge missing. Verified by reading content/concepts/Ziran (naturalness).md this session."
   }
  ],
  "inline": [],
