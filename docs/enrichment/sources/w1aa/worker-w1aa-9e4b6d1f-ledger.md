@@ -148,3 +148,11 @@
 - Opened source: Clark 2013 full-text PDF (fil.ion.ucl.ac.uk). Verified verbatim: the generative-model definition passage (blockquote; locator verified against raw pdftotext: section 1.1, printed p. 182, PDF page 2); the abstract prediction-machines sentences (paraphrased in the body). The "schematically recapitulating" passage confirmed against raw PDF text.
 - QC HOLD (advisor, item-20 milestone), repairs applied: seed's "rather than copying the world" contrast removed; opening replaced with the advisor's wording; the probability-density paragraph replaced with the advisor's source-bounded wording; Interoceptive awareness / Gestalt perception / Explore-exploit related-links removed (not demonstrated by the opened passages); CO048 "lists this theory" assertion removed (grep-verified absence).
 - NAMESPACE FINDING (blocks completion): "Predictive processing" (deg 9, already enriched) covers the same Clark-2013 framework, alongside "Active inference" and "Free Energy Principle"; Clark defines "generative model" but no source names a standalone "Generative model theory". Near-duplicate pair flagged in concept-namespace-audit.md per the w1b precedent (no merge attempted; naming/merge decision left with the supervisor). Item NOT marked done; corrected body pushed as WIP; advisor post-repair re-review pending alongside the supervisor disposition.
+
+## Genuine doubt
+
+- Fast-track degree 1 (sole edge: P024 philosophy-parallels entry; P024's own body cites The Fixation of Belief).
+- Opened source: Peirce, "The Fixation of Belief" full text (peirce.org/writings/p107.html). Verified verbatim: the paper-doubt passage (blockquote, "real and living doubt"); the uneasy-and-dissatisfied-state sentence; the irritation-of-doubt/cessation sentences; the real-doubt-experienced passage. The "genuine doubt always has an external origin" sentence NOT used (it is Collected Papers 5.443, "How to Make Our Ideas Clear" per the Springer source consulted in search — not in the seed-named paper; noted to avoid misattribution).
+- Related concepts: Fallibilism (deg 29), Anti-authoritarian inquiry (deg 2). No reciprocal proposed.
+- Saturation: fast-track skip.
+- No advisor QC required (item 21).
