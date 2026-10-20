@@ -44,3 +44,6 @@ No advisor tool available; QC is self-QC only.
 
 ## SO019 Religion and spirituality as resources
 - Opened: PubMed abstracts of Chida 2009 and Li 2016; quotes verbatim. FLAG: Chida et al. is 2009 (search cutoff March 2008), original cites 2008 (also in the Psychology parallels bullet, untouched). Chida's finding that protection was independent of behaviour/social support contradicts the original's behavioural-mechanism line; removed. VanderWeele 2016/2017/2025 mental-health and social-connection claims not opened; page says so.
+
+## SO026 Use community as a resource
+- Opened: Wiley abstract page (paywalled article), PMC10314672 and Rotman & Wu chapter (both quote the McMillan-Chavis definition, p. 9). Definition therefore SECOND-HAND, labelled so. Kawachi & Berkman, Wandersman & Florin, Biglan, Aristotle I.7, Tutu not opened.
