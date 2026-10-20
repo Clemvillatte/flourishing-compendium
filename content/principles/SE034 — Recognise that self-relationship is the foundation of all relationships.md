@@ -12,22 +12,22 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 34** — Recognise that self-relationship is the foundation of all relationships
 
-The compendium's claim is that the way you treat yourself sets the pattern for the way you treat others. The study behind this page's evidence asked the question in couples — whether [[Self-compassion|Self-compassion]] is linked to healthier relationship behavior:
+Neff and Beretvas examined whether [[Self-compassion|Self-compassion]] was associated with romantic partners' reports of relationship behaviour:
 
-> "The current study explored whether being self-compassionate is linked to healthier romantic relationship behavior, such as being more caring and supportive rather than controlling or verbally aggressive with partners." (Neff & Beretvas, 2013, [Self and Identity 12(1), full text](https://self-compassion.org/wp-content/uploads/publications/Neff.Beretvas.pdf))
+> "The current study explored whether being self-compassionate is linked to healthier romantic relationship behavior, such as being more caring and supportive rather than controlling or verbally aggressive with partners." (Neff & Beretvas, 2013, abstract, [Self and Identity 12(1), full text](https://self-compassion.org/wp-content/uploads/publications/Neff.Beretvas.pdf))
 
-In 104 couples, self-reported self-compassion was compared with partner reports of relationship behavior, and the partners saw the difference:
+The study included 104 couples and compared self-reported self-compassion with partners' reports of relationship behaviour:
 
 > "Results indicated that self-compassionate individuals displayed more positive relationship behavior than those who lacked SC. SC was also a stronger predictor of positive relationship behavior than trait self-esteem (SE) or attachment style." (Neff & Beretvas, 2013)
 
-The study links self-compassion to partner-reported behavior; the foundation claim — self-relationship as the root of other relationships — is the compendium's reading of that link.
+These findings concern associations in romantic couples. They do not establish that self-relationship causes relationship behaviour or is the foundation of every relationship.
 
-**Plain words** Watch how someone talks to themselves after a mistake and you can often predict how they talk to others after one. The partners in the study could see it: people kind to themselves were seen as more caring, accepting and freedom-giving; people harsh with themselves were seen as more controlling, detached and aggressive. The way you handle your own failure is rehearsal for how you will handle theirs.
+**Plain words** When you make a mistake, ask what needs putting right and how to address it without insulting yourself. Try the same questions when someone else makes a mistake. Treating both people with care is the compendium's suggested practice.
 
-*For example:* (imagined) The person mysteriously harsh with the team's errors discovers the voice is identical to the one they use on themselves, at the same volume. The team got the self-treatment, exported.
+*For example:* (imagined) After snapping at a colleague, someone apologises and identifies what they need to change, while examining their own mistake without insulting themselves.
 ## Psychology parallels
 
-- **[[Self-compassion|Self-compassion]] and relationship quality**, self-compassion linked to healthier relationship behavior (Neff & Beretvas, 2013; Yarnell & Neff, 2013)
+- **[[Self-compassion|Self-compassion]] and relationship quality**, self-compassion linked to healthier relationship behavior (Neff & Beretvas, 2013)
 - **Self-criticism and relationships** (Shahar et al., 2012; Gilbert, 2009)
 
 ## Philosophy parallels
@@ -38,7 +38,7 @@ The study links self-compassion to partner-reported behavior; the foundation cla
 
 ## Practice
 
-- Recognise that your relationship with yourself is the foundation of your relationships with others. Work on self-compassion not only for yourself but for the sake of everyone you relate to.
+- Notice how you respond to your own mistakes and to other people's. Choose one response you would like to handle with more care.
 
 ## Related concepts
 
