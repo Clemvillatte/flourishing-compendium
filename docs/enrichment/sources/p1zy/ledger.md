@@ -65,3 +65,7 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 ## Y074 (2026-10-21)
 - Woods HOS 17 pp. 203-205 (3.1-3.3; page 204 from the "[204" and "205]" heads). Quotes verified except OCR hyphens ("single- in-intent") and capital "An". Woods renders dhyana as contemplation and samadhi as concentration; stated.
 - Old text said absorption is "attention stops returning and begins resting", "concentration after enough returns" and "count returns": none in the commentary, which gives a cause-and-effect order; page labels these as modern. Plain words replicate replaced; example imagined. Self-QC only.
+
+## Y077 (2026-10-21)
+- Woods HOS 17 p. 31 (1.17 and Vyasa's four-fold ordering; nearest running head "31]"). Quotes verified; OCR "vicdra" read as vicara. Sutras 1.42-1.44 not read; page says so.
+- Old text said "objects differ in subtlety" and "the practice naturally refines from coarse to fine"; Woods describes forms of concentration ordered by subtraction (coarse deliberation to the sense-of-personality). "Do not celebrate; refine" and the breath/sensation examples are the principle's; labelled. Plain words replicate replaced; example imagined. Self-QC only.
