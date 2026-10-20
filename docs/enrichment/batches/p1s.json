@@ -19,7 +19,6 @@
   "B126",
   "B096",
   "B109",
-  "B169",
   "B172",
   "B181",
   "B190",
@@ -30,7 +29,8 @@
   "B017",
   "B030",
   "B154",
-  "B165"
+  "B165",
+  "B169"
  ],
  "in_progress": null,
  "flagged": {
@@ -59,10 +59,11 @@
   "B017": "Reopened for QC: QC correction: remove unsupported maintenance claim and example generalization",
   "B030": "Reopened for QC: QC correction: remove commandment-contrast overreach and chess analogy",
   "B154": "Reopened for QC: QC correction: remove world's-edge overreach and example causal lesson",
-  "B165": "Reopened for QC: QC correction: separate Dhp 96 and TNH claims; remove invented exercise triad"
+  "B165": "Reopened for QC: QC correction: separate Dhp 96 and TNH claims; remove invented exercise triad",
+  "B169": "Reopened for QC: QC correction: remove three-times-a-day universal; separate Plain words from source instruction"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T03:43:29+00:00",
+ "updated": "2026-10-20T03:43:35+00:00",
  "band_done": false
 }

@@ -16,10 +16,10 @@ MN 10 includes eating among the activities where full awareness is trained: eati
 
 > "We can smile, breathe, walk, and eat our meals in a way that allows us to be in touch with the abundance of happiness that is available." (Thich Nhat Hanh, [Peace Is Every Step, excerpts](https://www.dhammatalks.net/Books10/Thich_Nhat_Hanh_Peace_is_Every_Step.htm))
 
-The compendium's application: the meal is used as one of the day's fixed practice slots, because it recurs three times a day whether or not you planned it.
+The compendium suggests choosing a regular meal as an occasion for practice.
 
 **Plain words**
-Pick one meal a day and eat it without a screen. Before the first bite, name one thing the food required: weather, soil, someone's hands, a truck, a shop. Then eat slowly enough to taste it.
+As a compendium exercise, choose one meal and put the screen aside. Attend to the taste of one bite.
 
 *For example:* Imagine eating the same breakfast on two mornings: once over a keyboard, once with only the bowl in front of you. Note what you actually tasted each time.
 
