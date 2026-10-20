@@ -75,7 +75,7 @@ mind, Premeditatio malorum). The concepts namespace must NOT contain:
 - Identified versus introjected motivation -> create Identified motivation +
   Introjected motivation (SDT, Deci & Ryan)
 - Expressive suppression versus reappraisal
-- Authentic versus hubristic pride
+- Authentic versus hubristic pride -> granulars CREATED 2026-10-20 by worker-w1c-3c9f2b81: [[Authentic pride]] + [[Hubristic pride]] (Tracy, Cheng, Robins and Trzesniewski 2009, Self and Identity 8(2), quotes verbatim from the opened scispace PDF); comparison page rewritten as relational exposition linking both; inline proposals into AF068; reciprocals proposed into Pride / Proper pride (megalopsychia) / Narcissism versus healthy self-regard (application pending supervisor)
 - Purity vs pollution
 - Harmonious versus obsessive passion
 - Autonomic nervous system (sympathetic vs parasympathetic)

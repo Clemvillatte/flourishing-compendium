@@ -23,7 +23,18 @@
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 50,
- "inline": [],
+ "inline": [
+  {
+   "into": "AF068",
+   "concept": "Authentic pride",
+   "phrase": "Authentic pride is the satisfaction of a real achievement aligned with values"
+  },
+  {
+   "into": "AF068",
+   "concept": "Hubristic pride",
+   "phrase": "Hubristic pride is an inflated, defensive self-evaluation"
+  }
+ ],
  "reciprocal": [
   {
    "into": "Extended process model of emotion regulation",
@@ -68,7 +79,7 @@
   {
    "into": "Attention",
    "link": "The discipline of attention",
-   "why": "Weil’s account of attention in study, prayer, and attention to a sufferer.",
+   "why": "Weil\u2019s account of attention in study, prayer, and attention to a sufferer.",
    "notes": "w1c takeover (worker-p1d-8f3a21c4, 2026-10-20): advisor QC rounds 1-3; Weil essay (rendered-page verified), SEP, Bishop 2004, Hasenkamp 2012, Eysenck 2007, Corbetta & Shulman 2002, Wikipedia Flow all opened."
   },
   {
@@ -80,7 +91,7 @@
   {
    "into": "Two modes of attentional control",
    "link": "The discipline of attention",
-   "why": "Weil’s receptive attention offers a philosophical comparison with accounts of how attention is directed.",
+   "why": "Weil\u2019s receptive attention offers a philosophical comparison with accounts of how attention is directed.",
    "notes": "same session; Corbetta & Shulman 2002 abstract opened via PubMed E-utilities (PMID 11994752); full-text PDF mirror blocked by robots, abstract supports the two-systems clause."
   },
   {
@@ -92,7 +103,22 @@
    "into": "MO011",
    "link": "Controlled motivation",
    "why": "the pressure-driven side of this principle's distinction"
+  },
+  {
+   "into": "Pride",
+   "link": "Authentic versus hubristic pride",
+   "why": "the two-facet model that splits this emotion into an achievement-oriented and a narcissistic form"
+  },
+  {
+   "into": "Proper pride (megalopsychia)",
+   "link": "Authentic versus hubristic pride",
+   "why": "the psychological two-facet account of deserved versus inflated pride, for comparison with the classical virtue"
+  },
+  {
+   "into": "Narcissism versus healthy self-regard",
+   "link": "Hubristic pride",
+   "why": "hubristic pride is the affective core of narcissistic self-aggrandizement"
   }
  ],
- "notes": "First concept: Amor sui (right self-love). All 12 original links preserved. Facets section (vs self-contempt) folded into prose. Definition quote is Ethics IIIp55 scholium (verified against Gutenberg Elwes text); rational demand is IVp18 scholium. Related-clause support sources (SEP Rousseau/Nietzsche/Stoicism, Wikipedia self-compassion) listed in the page's Sources section. | deferred at this run (target band busy): 6 recip, 0 inline | deferred at this run (target band busy): 21 recip, 0 inline | deferred at this run (target band busy): 11 recip, 0 inline | deferred at this run (target band busy): 11 recip, 0 inline Supervisor repair (2026-10-20): removed 3 reciprocals into \"Character as habits\" — target page no longer exists (namespace merge into [[Habit]], 2026-10-20); re-targeting is a new semantic decision, not mechanical. | deferred at this run (target band busy): 8 recip, 0 inline | deferred at this run (target band busy): 11 recip, 0 inline"
+ "notes": "First concept: Amor sui (right self-love). All 12 original links preserved. Facets section (vs self-contempt) folded into prose. Definition quote is Ethics IIIp55 scholium (verified against Gutenberg Elwes text); rational demand is IVp18 scholium. Related-clause support sources (SEP Rousseau/Nietzsche/Stoicism, Wikipedia self-compassion) listed in the page's Sources section. | deferred at this run (target band busy): 6 recip, 0 inline | deferred at this run (target band busy): 21 recip, 0 inline | deferred at this run (target band busy): 11 recip, 0 inline | deferred at this run (target band busy): 11 recip, 0 inline Supervisor repair (2026-10-20): removed 3 reciprocals into \"Character as habits\" \u2014 target page no longer exists (namespace merge into [[Habit]], 2026-10-20); re-targeting is a new semantic decision, not mechanical. | deferred at this run (target band busy): 8 recip, 0 inline | deferred at this run (target band busy): 11 recip, 0 inline"
 }

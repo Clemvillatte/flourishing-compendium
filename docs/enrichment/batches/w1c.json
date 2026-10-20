@@ -56,9 +56,10 @@
   "Anapanasati (mindfulness of breathing)",
   "Affect as information",
   "Atman",
-  "Action before feeling"
+  "Action before feeling",
+  "Authentic versus hubristic pride"
  ],
- "in_progress": "Authentic versus hubristic pride",
+ "in_progress": null,
  "flagged": {
   "ERG Theory": "cited-in list (270+ Daoist principles) appears to be an auto-generated mapping; no principle text references ERG directly",
   "PEN Model": "cited-in list (614+ Daoist principles) appears to be an auto-generated mapping; no principle text references the PEN model directly",
@@ -86,7 +87,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 36,
- "updated": "2026-10-20T08:02:15+00:00",
+ "updated": "2026-10-20T08:04:10+00:00",
  "band_done": false,
  "new_concepts": [
   {
@@ -98,6 +99,16 @@
    "title": "Controlled motivation",
    "seed": "Ryan & Deci 2000 classic-definitions review (SDT)",
    "source": "https://www.selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_IntExtDefs.pdf"
+  },
+  {
+   "title": "Authentic pride",
+   "seed": "Tracy & Robins two-facet model (Tracy, Cheng, Robins and Trzesniewski 2009)",
+   "source": "https://scispace.com/pdf/authentic-and-hubristic-pride-the-affective-core-of-self-4b4lave9ch.pdf"
+  },
+  {
+   "title": "Hubristic pride",
+   "seed": "Tracy & Robins two-facet model (Tracy, Cheng, Robins and Trzesniewski 2009)",
+   "source": "https://scispace.com/pdf/authentic-and-hubristic-pride-the-affective-core-of-self-4b4lave9ch.pdf"
   }
  ]
 }
