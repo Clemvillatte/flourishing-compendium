@@ -3,7 +3,7 @@
 Read this together with `AGENTS.md`, `docs/DESIGN.md`, and `docs/ROADMAP.md`.
 Everything needed to continue is in this repository; nothing else is required.
 
-## Current state (all verified by `tests/spec.mjs`, 69 checks green)
+## Current state (all verified by `tests/spec.mjs`, 85 checks green)
 
 - Segment engine complete: gapless ordered playback, infinite loop with
   designed wrap fade, pause/resume with exact position (across segment
@@ -44,9 +44,22 @@ Everything needed to continue is in this repository; nothing else is required.
   requires junction-aware fades (ROADMAP Phase 2, last open item).
 - Dev tooling: `package.json` pins playwright 1.59.0 + serve 14.2.3;
   `npm install && npx serve . -l 8791 & node tests/spec.mjs` from
-  `soundscape-player/` runs the full suite (spec sections 1-8). QA pages
+  `soundscape-player/` runs the full suite (spec sections 1-11). QA pages
   declare an inline favicon (`data:,`) so favicon 404s cannot pollute the
   console-error check.
+- Lifecycle hardening (second commit): stop() cancels the session timer
+  outright (an old deadline can never kill a restarted session); set-switch
+  position capture uses a separate snapshot committed only on retire/pause,
+  so rapid A→B→A switches never corrupt the live scheduler cursor
+  (spec-verified via source-sequence checks); retiring sets keep receiving
+  scheduler ticks until their fade ends (a 4 s fade can outlast the 2.5 s
+  lookahead); incoming-set fade-in ramps start when the material actually
+  starts (a slow first decode delays the fade, not the sound); a superseded
+  engine's pending decode is invalidated by stop/retire/dispose; fallback
+  (`<audio>`) sets switch cleanly (no crossfade — no shared gain stage);
+  dispose pauses fallback elements; mount-level engine options
+  (loopFadeOut, lookahead, …) reach the engines; crossfade curves are true
+  equal-power (sin rise / cos fall); solo fades likewise.
 
 ## User preferences (confirmed in conversation)
 
@@ -61,10 +74,27 @@ Everything needed to continue is in this repository; nothing else is required.
 - Continuous shuffle; "begin at random track" option (ROADMAP Phase 2).
 - Keyboard shortcuts, localStorage state, MediaSession position (Phase 3).
 - Offline caching, LRU buffer cache for very long sets (Phase 4). Decoded
-  buffers are retained in memory (~15 MB per minute of audio); with 16
-  sets mounted, only the ACTIVE set decodes, so memory is fine.
+  buffers are retained in memory (~15 MB per minute of audio) per set once
+  that set has been visited — many visited sets add up; an LRU cache is the
+  Phase 4 answer. Only the ACTIVE set decodes during playback.
+- 1/√N layer normalization preserves approximate power for UNCORRELATED
+  layers; correlated full-scale layers can still clip — set per-layer
+  `gain` explicitly if that matters.
+- The combined-cycle LCM claim is mathematical (timeline alignment), not a
+  perceptual guarantee — synthetic tones verified scheduling, not musicality.
+  Offline inspection of the Siddhartha set found click-free joins (boundary
+  step 0.0000 everywhere, natural level variation) — but verify by ear.
 - In `<audio>` fallback mode, set switching hands over without a crossfade
   (no shared gain stage) — documented degradation.
+- The James Blake set (the-dark-night, 22 tracks) is staged in STRICT
+  full-filename order per the letter of the user's "filename order" rule.
+  The original Endel player numbers (…"Endel- Player - 003.aac" suffixes)
+  suggest a different intended order — ASK THE USER which they want before
+  changing it (re-run scripts/prepare-tracks.sh on a re-sorted staging dir).
+- The ~245 MB of user-supplied audio is now in the PUBLIC repo. Several sets
+  are recordings of commercial music (Grimes, James Blake, Plastikman, Alan
+  Watts). AGENTS.md requires redistribution rights; the user instructed the
+  push, but the copyright question should be raised explicitly with them.
 - The wiki's `site/` directory is UNTOUCHED by design — integration happens
   only on explicit user request, following `INTEGRATION.md`.
 

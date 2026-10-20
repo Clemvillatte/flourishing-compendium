@@ -113,13 +113,18 @@
     return { cutoff: cutoff, gain: gain };
   }
 
-  // Equal-power fade curve (sinusoidal) between two gain values.
-  // Returns a Float32Array usable with setValueCurveAtTime.
+  // Equal-power fade curve between two gain values: rising uses sin(t·π/2),
+  // falling uses cos(t·π/2) — complementary shapes, both 0.707 at the midpoint,
+  // so a crossfade's power sum stays ~constant. Returns a Float32Array usable
+  // with setValueCurveAtTime.
   function fadeCurve(from, to, n) {
     var arr = new Float32Array(n || 32);
+    var rising = to > from;
     for (var i = 0; i < arr.length; i++) {
       var t = i / (arr.length - 1);
-      arr[i] = from + (to - from) * Math.sin(t * Math.PI / 2);
+      arr[i] = rising
+        ? from + (to - from) * Math.sin(t * Math.PI / 2)   // from -> to
+        : to + (from - to) * Math.cos(t * Math.PI / 2);     // from -> to
     }
     return arr;
   }
@@ -201,11 +206,16 @@
         if (!e.decodeFailed) anyDecodable = true;
       }
     } else {
-      var a = this.activeEngine;
-      if (a) {
-        if (a.state === 'playing' && !a.decodeFailed) a._scheduleTick();
-        if (a.state === 'playing') anyPlaying = true;
-        if (!a.decodeFailed) anyDecodable = true;
+      for (i = 0; i < this.engines.length; i++) {
+        e = this.engines[i];
+        // drive the active set AND sets still fading out (a retiring set's
+        // fade can outlast the scheduling lookahead; its timeline must stay
+        // filled until its sources are retired)
+        if (e === this.activeEngine || e._retiring) {
+          if (e.state === 'playing' && !e.decodeFailed) e._scheduleTick();
+          if (e.state === 'playing') anyPlaying = true;
+        }
+        if (!e.decodeFailed) anyDecodable = true;
       }
     }
     if (anyPlaying) this.ui.updatePosition();
@@ -254,11 +264,12 @@
           self.stop(); // restores timerGain to 1
         }, 8500);
       } else {
-        // all engines in <audio> fallback: just pause them
+        // all engines in <audio> fallback: pause them, then reset the session
         for (var i = 0; i < this.engines.length; i++) {
           var e = this.engines[i];
           if (e.decodeFailed && e.fallbackAudio) { try { e.fallbackAudio.pause(); } catch (x) {} }
         }
+        this.stop();
       }
       this.timerEnd = null;
       this.ui.updateTimer(null);
@@ -319,19 +330,26 @@
 
   Session.prototype.stop = function () {
     this._switchGen++; // invalidate pending crossfade retirements
+    // stop cancels the session timer outright: an old deadline (or its
+    // pending fade timeout) must never stop a subsequently restarted session
+    this.timerEnd = null;
+    if (this._timerTO) { clearTimeout(this._timerTO); this._timerTO = null; }
     for (var i = 0; i < this.engines.length; i++) {
       var e = this.engines[i];
       if (e._retireTO) { clearTimeout(e._retireTO); e._retireTO = null; }
       if (this.mode === 'layers' || e === this.activeEngine) e.stop();
       else {
         // non-active sets freeze at their remembered position (resume later)
+        e._playGen++; // a pending decode must not revive this engine
+        e._pendingGainRamp = null;
         e._stopSources();
-        if (e.state === 'playing') { e._capturePosition(); e.state = 'paused'; }
+        if (e.state === 'playing') { e._commitPendingResume(); e.state = 'paused'; }
         if (e.decodeFailed && e.fallbackAudio) { try { e.fallbackAudio.pause(); } catch (x) {} }
       }
     }
     this._elapsedBase = 0;
     if (this.timerGain && this.ctx) { this.timerGain.gain.cancelScheduledValues(this.ctx.currentTime); this.timerGain.gain.setTargetAtTime(1, this.ctx.currentTime, 0.05); }
+    this.ui.updateTimer(null);
     this.ui.update();
   };
 
@@ -364,18 +382,18 @@
     this._switchGen++;
 
     var cf = Math.max(0.05, this.opts.setCrossfade);
-    var now = this.ctx.currentTime;
-    var wasPlaying = out && out.state === 'playing' && !out.decodeFailed;
+    var wasPlaying = out && out.state === 'playing';
 
     this.activeEngine = target;
 
     if (out) {
       if (out.decodeFailed) {
-        // <audio> fallback: no shared gain stage — just hand over cleanly
-        out._capturePosition();
+        // <audio> fallback: no shared gain stage — hand over cleanly
+        out._snapshotPosition();
         out._retire();
       } else if (wasPlaying) {
-        out._capturePosition(); // freeze position for the next visit
+        out._snapshotPosition(); // freeze position for the next visit
+        out._retiring = true; // keep its scheduler driven through the fade
         var outSelf = out;
         out._retireTO = setTimeout(function () {
           outSelf._retireTO = null;
@@ -387,15 +405,22 @@
       }
     }
 
-    // incoming: prepare its gain stage before playback begins. The fade starts
-    // from silence (or the set's current mid-fade level if it was still fading
-    // out from an earlier rapid switch), never from full level.
+    // incoming: the fade-in ramp is applied when the material actually starts
+    // (a slow first decode then delays the fade, not the sound), or immediately
+    // if the set is already playing (a mid-fade re-activation).
     target.ensureContext();
     if (target._retireTO) { clearTimeout(target._retireTO); target._retireTO = null; }
+    target._retiring = false; // re-activated: it is the active set again
     if (wasPlaying) {
-      this._rampEngineGain(target, 1, cf, Math.min(target.gainNode.gain.value, 0.05));
-      target._resumeFade = 0.8; // gentle fade-in on the resumed material
-      target.play();            // resumes from its captured position, or fresh
+      var from = target._everActivated ? target.gainNode.gain.value : 0.0001;
+      if (target.state === 'playing') {
+        this._rampEngineGain(target, 1, cf, from);
+      } else {
+        target._pendingGainRamp = { to: 1, dur: cf, from: from };
+        target._resumeFade = 0.8; // gentle fade-in on the resumed material
+      }
+      target._everActivated = true;
+      target.play(); // resumes from its captured position, or fresh
     } else {
       this._rampEngineGain(target, 1, 0.05);
     }
@@ -408,6 +433,9 @@
     var now = this.ctx.currentTime;
     var from = (typeof fromOverride === 'number') ? fromOverride : engine.gainNode.gain.value;
     try {
+      // cancel any in-flight automation first so rapid retargeting can never
+      // fight an older curve (from = current computed value, so no jump)
+      engine.gainNode.gain.cancelScheduledValues(now);
       engine.gainNode.gain.setValueAtTime(from, now);
       engine.gainNode.gain.setValueCurveAtTime(fadeCurve(from, to), now, dur);
     } catch (e) {
@@ -454,8 +482,12 @@
     for (var i = 0; i < this.engines.length; i++) {
       var e = this.engines[i];
       e._disposed = true;
+      e._playGen++;
+      e._pendingGainRamp = null;
       if (e._retireTO) { clearTimeout(e._retireTO); e._retireTO = null; }
       e._stopSources();
+      // closing the AudioContext does not stop plain <audio> elements
+      if (e.fallbackAudio) { try { e.fallbackAudio.pause(); } catch (x) {} }
       if (e._objUrls) e._objUrls.forEach(function (u) { try { URL.revokeObjectURL(u); } catch (x) {} });
     }
     if (this.ctx) { try { this.ctx.close(); } catch (x) {} }
@@ -503,6 +535,10 @@
     this._pendingPassFade = 0.05;   // fade-in length for that pass-start segment
     this._resumeFade = 0.05;        // fade-in length for the next resume (jumps use a longer one)
     this._retireTO = null;     // pending post-crossfade retirement timer
+    this._retiring = false;    // true while fading out after a set switch (scheduler stays driven)
+    this._pendingResume = null; // resume snapshot taken at switch-away (committed on retire/pause)
+    this._pendingGainRamp = null; // gain ramp deferred until playback actually starts
+    this._everActivated = false;  // has ever been switched to / played (gain-ramp start point)
   }
 
   Engine.prototype.totalDuration = function () {
@@ -800,6 +836,8 @@
       this.segOffset = 0;
       this._frontIdx = idx;
       this.state = 'playing';
+      this._everActivated = true;
+      this._applyPendingGainRamp();
       this.session._startTicker();
       this._scheduleTick();
       this.ui.update();
@@ -824,11 +862,21 @@
       self.nextTime = self.ctx.currentTime + 0.06;
       self.timelineStart = self.nextTime;
       self.state = 'playing';
+      self._everActivated = true;
+      self._applyPendingGainRamp();
       self.session._startTicker();
       self._scheduleTick();
       self._prefetch();
       self.ui.update();
     }).catch(function (e) { if (!self._disposed && gen === self._playGen) self._fail(e); });
+  };
+
+  // apply a crossfade ramp that was deferred until playback actually starts
+  Engine.prototype._applyPendingGainRamp = function () {
+    var r = this._pendingGainRamp;
+    this._pendingGainRamp = null;
+    if (!r || !this.gainNode) return;
+    this.session._rampEngineGain(this, r.to, r.dur, r.from);
   };
 
   // jump to a specific segment index (used by track selection and random)
@@ -870,22 +918,36 @@
     this.jumpTo(Math.floor(Math.random() * n));
   };
 
-  // capture the current position (segment + offset + per-pass position) without
-  // stopping playback — used by pause() and by set switching, so a set switched
-  // away from mid-playback resumes exactly where it was
-  Engine.prototype._capturePosition = function () {
+  // Compute the current resume snapshot (segment + offset + per-pass
+  // position) WITHOUT touching the live scheduler fields. Switching away from
+  // a set must not corrupt its scheduling cursor — a rapid A→B→A switch keeps
+  // the engine playing, and its scheduler must continue from the NEXT segment
+  // it was filling. The snapshot is only committed when the engine actually
+  // stops sounding (pause, retire, session stop).
+  Engine.prototype._snapshotPosition = function () {
     if (this.decodeFailed && this.fallbackAudio) {
       this._fbResumeTime = this.fallbackAudio.currentTime || 0;
-      return;
+      return null;
     }
-    if (this.state !== 'playing') return;
-    this._pausedPos = this.position();
+    if (this.state !== 'playing') return null;
+    var pos = this.position();
     var fi = this._frontIdx;
     var buf = this.buffers[fi];
-    if (buf) {
-      this.segIndex = fi;
-      this.segOffset = Math.min(Math.max(this.ctx.currentTime - this.timelineStart, 0), buf.duration);
-    }
+    if (!buf) return null;
+    var off = Math.min(Math.max(this.ctx.currentTime - this.timelineStart, 0), buf.duration);
+    this._pendingResume = { idx: fi, offset: off, pos: pos };
+    return this._pendingResume;
+  };
+
+  // Commit the pending resume snapshot to the live resume fields (engine is
+  // now silent; the next play() resumes from here).
+  Engine.prototype._commitPendingResume = function () {
+    var snap = this._pendingResume;
+    this._pendingResume = null;
+    if (!snap) return;
+    this.segIndex = snap.idx;
+    this.segOffset = snap.offset;
+    this._pausedPos = snap.pos;
   };
 
   Engine.prototype.pause = function () {
@@ -894,24 +956,31 @@
     // capture the front source's segment and offset directly, plus the
     // position within the current pass (position() handles the scheduled-ahead
     // next pass correctly)
-    this._capturePosition();
+    this._snapshotPosition();
     this._stopSources();
+    this._commitPendingResume();
     this.state = 'paused';
     this.ui.update();
   };
 
   // stop sounding after a crossfade: sources stop, state becomes 'paused' with
-  // the position already captured by _capturePosition (so the set resumes there)
+  // the position captured at switch time (so the set resumes there)
   Engine.prototype._retire = function () {
     if (this._retireTO) { clearTimeout(this._retireTO); this._retireTO = null; }
+    this._playGen++; // a pending decode must not revive this engine
+    this._pendingGainRamp = null;
+    this._retiring = false;
     this._stopSources();
-    if (this.state === 'playing') this.state = 'paused';
+    if (this.state === 'playing') { this._commitPendingResume(); this.state = 'paused'; }
     if (this.decodeFailed && this.fallbackAudio) { try { this.fallbackAudio.pause(); } catch (e) {} }
     this.ui.update();
   };
 
   Engine.prototype.stop = function () {
     this._playGen++; // invalidate any pending start
+    this._pendingGainRamp = null;
+    this._retiring = false;
+    this._pendingResume = null;
     this._stopSources();
     if (this.fallbackAudio) { try { this.fallbackAudio.pause(); } catch (e) {} }
     this.state = 'idle';
@@ -1356,9 +1425,17 @@
   var _current = null; // {ui, session, engines} — mounting again disposes the previous instance
 
   function makeEngine(def, session) {
+    // engine opts = DEFAULTS <- mount opts <- set/layer definition, so a mount
+    // like { loopFadeOut: 2, source: {...} } still reaches the engine (the
+    // per-set definition can override anything)
     var eopts = {};
-    for (var k in DEFAULTS) eopts[k] = DEFAULTS[k];
-    for (var k2 in def) eopts[k2] = def[k2];
+    var k;
+    for (k in DEFAULTS) eopts[k] = DEFAULTS[k];
+    for (k in session.opts) {
+      if (k === 'sets' || k === 'layers') continue;
+      eopts[k] = session.opts[k];
+    }
+    for (k in def) eopts[k] = def[k];
     eopts.setId = def.id;
     return new Engine(eopts, session.ui, session);
   }
