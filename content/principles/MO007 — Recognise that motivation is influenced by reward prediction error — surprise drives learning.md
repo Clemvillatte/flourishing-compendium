@@ -12,11 +12,22 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 ---
 > **Principle 7** — Recognise that motivation is influenced by reward prediction error: surprise drives learning
 
-The brain's motivation system responds not to reward itself but to the difference between expected and received reward. Unexpected rewards are highly motivating; fully expected rewards lose motivational power. This is why variety and novelty sustain motivation.
+The dopamine story begins with prediction rather than reward. In the classic paper, Schultz, Dayan and Montague summarized two lines of evidence: behavioral work suggesting learning is driven by changes in expectations about rewards and punishments, and physiological work identifying primate dopamine neurons whose output signals errors in those predictions. The reward you saw coming teaches nothing new; the reward that beat or missed the forecast does. (Schultz, Dayan & Montague, 1997.)
 
-**Plain words** The brain learns from surprise — better-than-expected rewards fire the system hard, worse-than-expected dampen it. That's why predictable routines get boring and random ones (feeds, slots) hook. You can use this: make progress surprising-visible.
+> "Behavioral experiments suggest that learning is driven by changes in the expectations about future salient events such as rewards and punishments." (Schultz, Dayan & Montague, 1997)
+
+> "Physiological work has recently complemented these studies by identifying dopaminergic neurons in the primate whose fluctuating output apparently signals changes or errors in the predictions of future salient and rewarding events." (Schultz, Dayan & Montague, 1997)
+
+This page's practical reading of that finding: fully expected rewards stop teaching, and routines that never surprise stop moving you.
+
+**Plain words**
+Your brain's interest is sparked by the gap between what it expected and what it got. A reward you saw coming barely registers; a surprise, good or bad, gets written down. Use it both ways: when a routine goes flat, change some variable you did not announce to yourself. And treat engineered surprise, the feeds and the slot machines of the world, as the same hook aimed at you.
 
 *For example:* The language app's unexpected streak bonus fires more motivation than the scheduled one — the brain is a surprise detector, not a schedule follower.
+
+## Sources
+
+- [PubMed: Schultz, Dayan & Montague (1997), A neural substrate of prediction and reward, Science 275(5306), 1593-1599, PMID 9054347](https://pubmed.ncbi.nlm.nih.gov/9054347/)
 ## Psychology parallels
 
 - **[[Reward prediction error (Schultz)|Reward prediction error (Schultz)]]**, dopamine neurons respond to unpredicted rewards and omitted predicted rewards (Schultz et al., 1997; Schultz, 2016)

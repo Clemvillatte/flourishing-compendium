@@ -13,3 +13,9 @@
 - Source opened: https://selfdeterminationtheory.org/SDT/documents/2008_DeciRyan_CanPsy_Eng.pdf (Deci & Ryan 2008, Canadian Psychology 49(1), 14-23, official SDT site).
 - Verbatim quotes: the "type of motivation is generally more important than the amount" passage and the autonomous/controlled definition passage.
 - Plain words re-derived (two-engines framing, pressure-source check); original parent-care example kept (aligned with the opened abstract's persistence/psychological-health claims). Inherited parallel citations (Deci & Ryan 2000; Ryan & Deci 2017; Bartholomew et al. 2011) left as inherited (not separately opened; the opened 2008 paper supports the core distinction).
+
+### MO007 — Recognise that motivation is influenced by reward prediction error (2026-10-20, worker-p1f-7e93856c)
+- State: seed → done.
+- Source opened: https://pubmed.ncbi.nlm.nih.gov/9054347/ (Schultz, Dayan & Montague 1997, Science 275(5306), 1593-1599).
+- Verbatim quotes: the two abstract sentences (learning driven by changes in expectations; dopamine neurons signaling errors in predictions).
+- The seed's stronger claims ("unexpected rewards are highly motivating", "variety and novelty sustain motivation") narrowed to a clearly-labeled practical reading ("This page's practical reading of that finding"); the abstract does not itself claim motivational loss for expected rewards. Plain words re-derived (gap framing, engineered-surprise warning); streak-bonus example kept from seed. Schultz 2016/Glimcher/Niv parallels left as inherited (not opened this session).
