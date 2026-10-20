@@ -381,3 +381,18 @@ Short, item-keyed evidence notes (owner decision 2026-10-20, PROTOCOL-PRINCIPLES
 - Saturation: 5 concept pages already cite SO012 (incl. Cultural dimensions theory
   Hofstede, Cultural embeddedness); no additional links warranted. Validator ok.
   DONE (no advisor QC due: item 17).
+
+## SO046 — Guard against in-group bias (item 18)
+- Source opened: Tajfel, Billig, Bundy & Flament 1971, European Journal of Social
+  Psychology 1(2) 149-178, Wiley abstract page — fetched; both quoted sentences
+  verified verbatim against the opened page. NOTE: the abstract itself contains the
+  source typos "effefcs" and "penalities"; the "penalities" spelling is inside my
+  quoted sentence and preserved verbatim per the quote-fidelity rule; recorded here.
+- Body: added the first-series finding blockquote + the maximum-difference sentence
+  with a gloss tying it to the deliberate-debiasing stance. Plain words (already a
+  genuine re-derivation) and For example kept. Philosophy parallels reformatted from
+  malformed seed rows into standard bullets; content preserved.
+- Inherited parallels (Brewer 1999; Park & Rothbart 1982; Pettigrew & Tropp 2006;
+  Saguy et al. 2011) NOT source-checked — flagged, not certified. Saturation: 5
+  concept pages already cite SO046 (incl. Intergroup contact, Prejudice reduction);
+  no additional links warranted. Validator ok. DONE (no advisor QC due: item 18).
