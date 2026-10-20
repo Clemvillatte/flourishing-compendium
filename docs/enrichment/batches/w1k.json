@@ -31,10 +31,10 @@
   "Rhythm in experience",
   "Vocabularies as tools",
   "Aristotelian friendship",
-  "Revaluation of all values",
   "Redemption sequences",
   "Reinforcement schedules (Ferster & Skinner)",
-  "Relational Developmental Systems Theory"
+  "Relational Developmental Systems Theory",
+  "Revaluation of all values"
  ],
  "in_progress": null,
  "flagged": {
@@ -63,10 +63,11 @@
   "Reading the moment": "DEFERRED: namespace classification requested (compendium label for the Zhouyi timing tradition; no authoritative use of the exact heading found; seed restored; see sources/w1k worker-4d7a91c2 ledger)",
   "Redemption sequences": "Reopened for QC: QC 5-item milestone: verify introduction claims, scope coding sentence, attribute associations to opened carrier",
   "Reinforcement schedules (Ferster & Skinner)": "Reopened for QC: QC 5-item milestone repairs: acquisition claims removed, self-contained quote, BE008 clause simplified",
-  "Relational Developmental Systems Theory": "Reopened for QC: QC 5-item milestone repairs: unverified attribution and levels list removed, plasticity sentence fixed"
+  "Relational Developmental Systems Theory": "Reopened for QC: QC 5-item milestone repairs: unverified attribution and levels list removed, plasticity sentence fixed",
+  "Revaluation of all values": "Reopened for QC: QC 5-item milestone repairs: full quote sentence restored, German label dropped, seed tail tidied"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:43:59+00:00",
+ "updated": "2026-10-20T11:44:36+00:00",
  "band_done": false
 }

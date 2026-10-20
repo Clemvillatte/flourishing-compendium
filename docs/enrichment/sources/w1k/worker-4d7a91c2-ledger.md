@@ -47,3 +47,9 @@
 ### Relational Developmental Systems Theory — QC round 2 repairs (5-item milestone)
 
 - Removed the unsupported claims (Lerner and Overton as joint originators; the biology-through-history levels list; the separate-causes contrast): a claim-verification re-fetch confirmed none appear in the opened article. Opening replaced with the article's own naming sentence (RDSTs; Lerner et al., 2014; Overton, 2014) and its paradigm-shift framing (reductionism to transactionalism, dualism to systems). Synthesis now stays on the abstract sentence (multi-level analyses, interindividual differences in intraindividual change, co-action) plus a direct reading of the "relative (e.g., limited) plasticity" tenet.
+
+### Revaluation of all values — QC round 2 repairs (5-item milestone)
+
+- Blockquote completed to the full sentence ("...nor is even now generally desired.") — the earlier version silently converted a mid-sentence comma to a period; lesson recorded: never terminate a quote mid-sentence without an explicit ellipsis.
+- Dropped the unverified "(Umwertung aller Werte)" label (not in the opened passage); opening now states exactly what the preface §6 supports.
+- Seed tail tidied: the duplicated gloss blocks removed, all seed bibliography lines merged into the Sources section, and the 13 original wikilink occurrences preserved (six in the Cited-in list + the In-the-compendium bullets carry the rest, counts per link unchanged: E106/D079/D005/CO033/SE055 x2, D084 x1). Validated against the pre-item seed baseline ef86f2f0^ (not the accidental intermediate draft, per advisor guidance).

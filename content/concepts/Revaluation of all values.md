@@ -7,9 +7,9 @@ file: "Revaluation of all values"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-R"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter R", "parent": ""}
 ---
-"Revaluation of all values" (Umwertung aller Werte) is the name Friedrich Nietzsche gave to the task of criticising values themselves rather than arguing within them. In the preface to On the Genealogy of Morality he presents it as a new demand: a critique of moral values in which the value of these values is for the first time called into question, a task that requires knowing the conditions out of which the values grew ([Nietzsche, The Genealogy of Morals, preface §6](https://www.gutenberg.org/files/52319/52319-h/52319-h.htm)).
+"Revaluation of all values" is the name for the task Nietzsche announces in the preface to On the Genealogy of Morality: a critique of moral values in which the value of these values is for the first time called into question ([Nietzsche, The Genealogy of Morals, preface §6](https://www.gutenberg.org/files/52319/52319-h/52319-h.htm)).
 
-> "Let us speak out this *new demand*: we need a *critique* of moral values, *the value of these values* is for the first time to be called into question—and for this purpose a knowledge is necessary of the conditions and circumstances out of which these values grew, and under which they experienced their evolution and their distortion (morality as a result, as a symptom, as a mask, as Tartuffism, as disease, as a misunderstanding; but also morality as a cause, as a remedy, as a stimulant, as a fetter, as a drug)." (Nietzsche, [The Genealogy of Morals, preface §6, Samuel trans., 1913](https://www.gutenberg.org/files/52319/52319-h/52319-h.htm))
+> "Let us speak out this *new demand*: we need a *critique* of moral values, *the value of these values* is for the first time to be called into question—and for this purpose a knowledge is necessary of the conditions and circumstances out of which these values grew, and under which they experienced their evolution and their distortion (morality as a result, as a symptom, as a mask, as Tartuffism, as disease, as a misunderstanding; but also morality as a cause, as a remedy, as a stimulant, as a fetter, as a drug), especially as such a knowledge has neither existed up to the present time nor is even now generally desired." (Nietzsche, [The Genealogy of Morals, preface §6, Samuel trans., 1913](https://www.gutenberg.org/files/52319/52319-h/52319-h.htm))
 
 ### Where the values came from
 
@@ -23,28 +23,16 @@ The method the demand calls for is genealogy: the values are investigated at the
 ## Sources
 
 - Nietzsche, Beyond Good and Evil
+- Nietzsche, On the Genealogy of Morality
+- Beyond Good and Evil
+- Nietzsche, On the Genealogy of Morals
+- Nietzsche, Thus Spoke Zarathustra
 - [Nietzsche, The Genealogy of Morals, trans. Horace B. Samuel, Levy edition (1913)](https://www.gutenberg.org/files/52319/52319-h/52319-h.htm): the preface demand and its target (preface sections 4-6).
 
-[[E106 — Practise the revaluation of values]]
-[[D079 — Question conventional measures of success]]
 ## Cited in philosophy parallels
 
+- [[E106 — Practise the revaluation of values]]
+- [[D079 — Question conventional measures of success]]
 - [[D005 — Expect reversal — extremes turn into their opposites]]
 - [[CO033 — Recognise the status quo bias — you prefer things as they are]]
 - [[SE055 — Learn to work with self and others' expectations — navigate social definitions]]
-
-“Revaluation of values” — Nietzsche, On the Genealogy of Morality.
-- Nietzsche, On the Genealogy of Morality
-[[D005 — Expect reversal — extremes turn into their opposites]]
-[[SE055 — Learn to work with self and others' expectations — navigate social definitions]]
-[[CO033 — Recognise the status quo bias — you prefer things as they are]]
-- [[D079 — Question conventional measures of success]]
-
-“The revaluation of values” — Beyond Good and Evil; Nietzsche, On the Genealogy of Morals.
-- Beyond Good and Evil
-- Nietzsche, On the Genealogy of Morals
-- [[E106 — Practise the revaluation of values]]
-
-“The revaluation of the lowly” — Nietzsche, Thus Spoke Zarathustra.
-- Nietzsche, Thus Spoke Zarathustra
-- [[D084 — Value the useless]]
