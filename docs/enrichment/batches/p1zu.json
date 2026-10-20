@@ -6,12 +6,12 @@
   "PP038",
   "PP039"
  ],
- "in_progress": null,
+ "in_progress": "PP041",
  "flagged": {
   "PP016": "Reopened for QC: QC correction (first-item advisor review FAIL): symptom-claim wording, quote moved to blockquote, plain words/example replaced, Frankl gloss reduced, scoped A&T paraphrase"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T12:09:39+00:00",
+ "updated": "2026-10-20T12:10:18+00:00",
  "band_done": false
 }
