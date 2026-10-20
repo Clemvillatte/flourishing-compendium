@@ -15,9 +15,9 @@ Social cognitive career theory examines how people develop educational and occup
 
 ### Beliefs, goals and context
 
-- **Self-efficacy**: confidence in being able to perform a particular task ([pp. 299–300](https://onlinelibrary.wiley.com/doi/abs/10.1002/j.2161-0045.1999.tb00739.x)).
-- **Outcome expectations**: beliefs about what will happen as a consequence of one's efforts ([p. 300](https://onlinelibrary.wiley.com/doi/abs/10.1002/j.2161-0045.1999.tb00739.x)).
-- **Goals**: intentions to undertake an activity or achieve an outcome ([p. 300](https://onlinelibrary.wiley.com/doi/abs/10.1002/j.2161-0045.1999.tb00739.x)).
+- Self-efficacy: confidence in being able to perform a particular task ([pp. 299–300](https://onlinelibrary.wiley.com/doi/abs/10.1002/j.2161-0045.1999.tb00739.x)).
+- Outcome expectations: beliefs about what will happen as a consequence of one's efforts ([p. 300](https://onlinelibrary.wiley.com/doi/abs/10.1002/j.2161-0045.1999.tb00739.x)).
+- Goals: intentions to undertake an activity or achieve an outcome ([p. 300](https://onlinelibrary.wiley.com/doi/abs/10.1002/j.2161-0045.1999.tb00739.x)).
 
 The model also includes social supports and barriers that affect the pursuit of preferred options ([pp. 297, 300](https://onlinelibrary.wiley.com/doi/abs/10.1002/j.2161-0045.1999.tb00739.x)). The authors describe school-to-work transition as a process developing across the school years and beyond ([p. 299](https://onlinelibrary.wiley.com/doi/abs/10.1002/j.2161-0045.1999.tb00739.x)).
 

@@ -53,6 +53,22 @@ No primary-text authentication or general efficacy approval is implied by that Q
   certified. No edits to central progress or queues, no enrich_apply run.
 - Next manifest item after this checkpoint: Social Judgment Theory.
 
+## Milestone ten
+
+Independent advisor verified all five entries 6–10 and the earlier requested
+format repairs. Ten-page preservation validator passed, ten current degrees
+remain below 15, and all ten retain exact quotations and sentence-case
+subheadings. Advisor required only removing bold delimiters from three SCCT
+bullet labels. Reopened and made that exact formatting-only repair.
+
+The Self-transcendent experiences quote received a fresh independent literal
+comparison against the actual Sage abstract and passed. No uncertified 1994 SCCT
+paper access was claimed. Social cognitive theory of morality and Social
+exchange theory were subsequently researched and completed, with literal-quote
+checks and per-item saves. A mistaken next-item state label “Social intuitionism”
+was corrected to the actual manifest “Social cognitive theory of morality”
+before any authoring; no nonexistent concept or out-of-band file was created.
+
 ## Research prepared for next entries
 
 These sources were opened, but no subsequent content item has been started:

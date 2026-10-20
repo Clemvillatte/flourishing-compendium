@@ -151,6 +151,10 @@ a principle reserve from the active supervisor.
   career success, all-purpose self-efficacy effect or intervention efficacy.
 - Saturation: fast-track exemption. No links or frontmatter changed; no reciprocal.
 - QC: literal source comparison and validator before done; next milestone sample.
+- Milestone-ten advisor independently verified source support, author order,
+  literal quotation, page locators and limited access claims. Requested only
+  removal of introduced bold bullet-label delimiters; reopened and applied that
+  exact formatting-only repair.
 
 ## Social cognitive theory of morality
 
