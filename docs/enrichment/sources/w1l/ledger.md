@@ -368,3 +368,24 @@ to the supervisor (content passed review).
   not as settled fact (the fetched article itself reports mixed evidence).
 - Saturation: fast-track exemption; no reciprocal proposed.
 - QC: validator ok.
+
+## Divergent and convergent thinking
+
+- Track: fast-track, current degree 5 (1 kernel + 4 principles). Start
+  transition recorded before research.
+- Opened: https://creativityinmusiced.weebly.com/uploads/2/3/8/5/23859476/guilford-1950-creativity.pdf
+  (Guilford 1950, "Creativity", American Psychologist 5(9):444-454),
+  downloaded and pdftotext-extracted 2026-10-20.
+- Quotations, copied from the extracted text: the fluency-factor passage
+  (blockquote); "The creative person has novel ideas."; "the ease with
+  which he changes set" (flexibility of mind).
+- IMPORTANT verified fact: the 1950 address does NOT use the words
+  "divergent" or "convergent" (grep: 0 hits); the page says so and dates
+  the divergent/convergent production terms to the later Structure of
+  Intellect model (presented as the model's later use, no specific year
+  claimed). Runco 2004 NOT opened; kept as inherited citation without
+  claims.
+- Related concepts verified to exist: Creativity (deg 4), Four-C model of
+  creativity (deg 1).
+- Saturation: fast-track exemption; no reciprocal proposed.
+- QC: validator ok.

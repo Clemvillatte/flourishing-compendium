@@ -14,7 +14,8 @@
   "Death acceptance",
   "Delay plus reappraisal",
   "Deliberation as rehearsal",
-  "Digital well-being"
+  "Digital well-being",
+  "Divergent and convergent thinking"
  ],
  "in_progress": null,
  "flagged": {
@@ -26,6 +27,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 12,
- "updated": "2026-10-20T07:17:35+00:00",
+ "updated": "2026-10-20T07:18:31+00:00",
  "band_done": false
 }
