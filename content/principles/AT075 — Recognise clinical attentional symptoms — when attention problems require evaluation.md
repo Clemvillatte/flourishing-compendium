@@ -29,7 +29,7 @@ If trouble concentrating keeps disrupting daily tasks, bring concrete examples t
 - [Faraone et al. (2021), The World Federation of ADHD International Consensus Statement: 208 evidence-based conclusions about the disorder, Neuroscience & Biobehavioral Reviews 128:789-818](https://pmc.ncbi.nlm.nih.gov/articles/PMC8328933/)
 ## Psychology parallels
 
-- **ADHD as one clinical consideration**, this page points persistent attention difficulties that interfere with daily life toward discussion with a health professional; the differential diagnosis of concentration problems is a clinical matter outside this page's opened sources (NIMH; Faraone et al., 2021)
+- **ADHD and daily functioning**, NIMH describes a persistent pattern that interferes with functioning in multiple areas of life (NIMH)
 
 ## Philosophy parallels
 
