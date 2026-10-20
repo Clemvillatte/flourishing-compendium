@@ -12,13 +12,13 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 108** — Transcend the strands while acting
 
-The Gita describes the one who sits like a witness, unmoved by the strands, who regards pleasure and pain, praise and blame alike, and names such a one as fit for the absolute. The bounded formulation: use the strand-map to gain freedom of movement within it, choosing your dominant strand deliberately rather than being chosen. Practically, when tamas says "not now," do the two-minute entry; when rajas says "more," schedule the stop; when sattva says "rest in this," set a review.
+The Gita's account of the person beyond the three qualities is not a claim about superiority; it is a list of what such a person does not do. He does not hate the qualities when they show up, and does not chase them when they leave. He is described as seated, unmoved, knowing that the qualities themselves are doing the acting.
 
-(BG 14.22-14.26.)
+> "When light, activity and delusion are present, he hates them not, nor does he long for them when they are absent. He who, seated like one unconcerned, is not moved by the qualities, and who, knowing that the qualities are active, is self-centred and moves not, Who is the same in pleasure and pain, who dwells in the Self, to whom a clod of earth, stone and gold are alike, who is the same to the dear and the unfriendly, who is firm, and to whom censure and praise are as one, Who is the same in honour and dishonour, the same to friend and foe, abandoning all undertakings-he is said to have transcended the qualities." (Bhagavad Gita 14.22-25, Sivananda translation)
 
-**Plain words** The one who sits like a witness, unmoved by the strands — pleasure and pain, praise and blame alike — is named as fit for the absolute. The bounded formulation: use the strand-map to gain freedom of movement within it. Choose your mix like a pilot chooses altitude.
+**Plain words** The verse describes a person who is not at war with their own states. When tiredness, drive, or clarity arrive, that person does not hate them, and when they leave, does not chase them. Practically, when you notice a state has arrived, name it and continue with the task rather than treating the state as the task.
 
-*For example:* Someone needs rajas for the launch week and sattva for the aftermath — and, knowing the map, schedules both on purpose instead of being weathered by whichever arrives. The strands become instruments; the witness is the player.
+*For example:* (Imagined.) Someone has a week where tamas dominates: the work feels heavy and the start is hard. They do not fight the heaviness or add a second project to compensate. They do the two-minute entry on the task at hand, keep the same schedule, and let the week pass without treating it as a verdict on their character.
 ## Psychology parallels
 
 - **[[Metacognitive regulation of state|Metacognitive regulation of state]]**, the capacity to observe and shift one's own arousal and engagement (Flavell, 1979; state-matching interventions)
