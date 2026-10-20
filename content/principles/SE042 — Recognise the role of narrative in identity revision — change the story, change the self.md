@@ -12,21 +12,21 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 42** — Recognise the role of narrative in identity revision: change the story, change the self
 
-In the life-story model, identity is not a fixed inventory of traits but a story the person keeps drafting. Its authors state it directly:
+McAdams and Olson describe narrative identity as one layer of personality, alongside dispositional traits and characteristic adaptations:
 
 > "Narrative identity is the storied understanding that a person develops regarding how he or she came to be and where he or she is going in life. It is a narrative reconstruction of the autobiographical past and imagined rendering of the anticipated future, complete with demarcated chapters, key scenes (high points, low points, turning points), main characters, and intersecting plot lines." (McAdams & Olson, 2010, [Annual Review of Psychology 61, p. 527](https://jenni.uchicago.edu/Spencer_Conference/Papers%202010/McAdams_Olson_2010_Personality%20Development.pdf))
 
-The operative word is "reconstruction": a reconstruction can be redone. The facts of a life stay put; the plot does not, because which events count as turning points, what they are taken to mean, and where the story says the protagonist is heading are choices. Narrative therapy works exactly on this joint. White and Epston's re-authoring treats the problem-saturated story as a draft rather than a verdict, and the review evidence is consistent with the stakes: narrators who find redemptive meanings in suffering and adversity, and who build themes of personal agency and exploration into their stories, tend to enjoy higher levels of mental health, well-being, and maturity ([McAdams & McLean, 2013](https://journals.sagepub.com/doi/10.1177/0963721413475622)).
+This principle works on the word "reconstruction" in that definition: the story of a life is assembled, and what is assembled can be reassembled. The facts of a life stay put; the plot, and the meaning given to its key scenes, do not. In McAdams and McLean's review of the research, story features track adaptation: narrators who find redemptive meanings in suffering and adversity, and who construct life stories that feature themes of personal agency and exploration, tend to enjoy higher levels of mental health, well-being, and maturity. The same review calls for further work to disentangle causal relations between story features and adaptation ([McAdams & McLean, 2013](https://journals.sagepub.com/doi/10.1177/0963721413475622)).
 
 **Plain words**
-The events of your life do not change when you retell them; the plot does. A divorce can be the chapter where everything fell apart or the chapter where two people learned enough to leave. Which version you carry changes what you try next, because your sense of what is possible lives inside the story. Revising the telling is not lying about the facts; it is choosing which facts are the turning points and what they mean.
+Choose an event you often use to explain who you are. Write down what happened, then the conclusion you drew about yourself. Ask whether your account leaves out relevant experiences or treats a tentative conclusion as final.
 
-*For example:* "I'm divorced" can be the story of failure, or the story of two people who learned what they needed and left. Same courthouse, same papers, different next decade.
+*For example (imagined):* A person revises an account of a divorce to include support from friends that the first version omitted. The separation remains part of both accounts.
 
 ## Psychology parallels
 
-- **[[Narrative therapy|Narrative therapy (White & Epston)]]**, revising life narratives changes identity and well-being (White & Epston, 1990; McAdams, 2001)
-- **Re-storying difficult experiences**, narrators who find redemptive meanings in adversity and build agency and exploration themes into their stories tend to enjoy higher levels of mental health and well-being (Adler, 2012; McAdams & McLean, 2013)
+- **[[Narrative therapy|Narrative therapy (White & Epston)]]** (White & Epston, 1990; McAdams, 2001)
+- **Re-storying difficult experiences**, narrators who find redemptive meanings in adversity and construct stories featuring themes of personal agency and exploration tend to enjoy higher levels of mental health, well-being, and maturity (McAdams & McLean, 2013)
 
 ## Philosophy parallels
 
@@ -44,5 +44,6 @@ The events of your life do not change when you retell them; the plot does. A div
 
 ## Sources
 
-- [McAdams, D. P., & Olson, B. D. (2010). Personality Development: Continuity and Change Over the Life Course. Annual Review of Psychology, 61, 517–542 (author-hosted full text; quote at p. 527).](https://jenni.uchicago.edu/Spencer_Conference/Papers%202010/McAdams_Olson_2010_Personality%20Development.pdf)
-- [McAdams, D. P., & McLean, K. C. (2013). Narrative Identity. Current Directions in Psychological Science, 22(3), 233–238 (abstract).](https://journals.sagepub.com/doi/10.1177/0963721413475622)
+- [McAdams, D. P., & Olson, B. D. (2010). Personality Development: Continuity and Change Over the Life Course. Annual Review of Psychology, 61, 517–542 (University of Chicago-hosted full text; quote at p. 527).](https://jenni.uchicago.edu/Spencer_Conference/Papers%202010/McAdams_Olson_2010_Personality%20Development.pdf)
+- [McAdams, D. P., & McLean, K. C. (2013). Narrative Identity. Current Directions in Psychological Science, 22(3) (abstract; volume/issue per the APS journal record).](https://journals.sagepub.com/doi/10.1177/0963721413475622)
+- [APS journal record: Narrative Identity, Current Directions in Psychological Science, Volume 22, Issue 3, June 2013.](https://www.psychologicalscience.org/journals/current-directions/0963721413475622/)
