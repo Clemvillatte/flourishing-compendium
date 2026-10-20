@@ -6,13 +6,12 @@
   "S052",
   "S054",
   "S039",
-  "S064",
   "S066",
   "S058",
   "S061",
   "S063"
  ],
- "in_progress": null,
+ "in_progress": "S064",
  "flagged": {
   "S039": "Reopened for QC: milestone QC repairs applied",
   "S043": "Reopened for QC: milestone QC repairs applied",
@@ -21,10 +20,11 @@
   "S054": "Reopened for QC: milestone QC repairs applied",
   "S058": "Reopened for QC: milestone QC round 2 repairs",
   "S061": "Reopened for QC: milestone QC round 2 repairs",
-  "S063": "Reopened for QC: milestone QC round 2 repairs: Ench. 1 rebuild"
+  "S063": "Reopened for QC: milestone QC round 2 repairs: Ench. 1 rebuild",
+  "S064": "Reopened for QC: milestone QC round 2 repairs"
  },
  "missing_concepts": [],
  "sources_checked": 12,
- "updated": "2026-10-20T12:17:13+00:00",
+ "updated": "2026-10-20T12:17:38+00:00",
  "band_done": false
 }
