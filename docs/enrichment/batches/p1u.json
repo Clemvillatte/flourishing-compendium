@@ -20,9 +20,10 @@
   "B140": "Ownership overlap: already done in p1h; no p1u content edits; skip pending supervisor reconciliation",
   "B157": "Ownership overlap: already done in p1k; no p1u content edits; skip pending supervisor reconciliation",
   "B163": "Ownership overlap: already done in p1k; no p1u content edits; skip pending supervisor reconciliation",
-  "B164": "Ownership overlap: already done in p1n; no p1u content edits; skip pending supervisor reconciliation"
+  "B164": "Ownership overlap: already done in p1n; no p1u content edits; skip pending supervisor reconciliation",
+  "B137": "Ownership overlap detected after p1u rewrite: already done p1p; source-verified p1u rewrite preserved protected content, supervisor attribution review needed"
  },
  "missing_concepts": [],
  "sources_checked": 15,
- "updated": "2026-10-20T02:25:37+00:00"
+ "updated": "2026-10-20T02:25:40+00:00"
 }
