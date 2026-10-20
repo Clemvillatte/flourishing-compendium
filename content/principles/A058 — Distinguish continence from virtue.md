@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 58** — Distinguish continence from virtue
 
-Aristotle separates two states that look alike from outside. The same man is thought to be "continent and ready to abide by the result of his calculations, or incontinent and ready to abandon them" ([NE VII.1](http://classics.mit.edu/Aristotle/nicomachaen.7.vii.html)). The discussion then poses the relation to temperance conditionally: "a temperate man will have neither excessive nor bad appetites," and if continence involves having strong and bad appetites, then "the temperate man will not be continent nor the continent man temperate" ([NE VII.2](http://classics.mit.edu/Aristotle/nicomachaen.7.vii.html)). The exercise below distinguishes the two states.
+Aristotle distinguishes two states. The same man is thought to be "continent and ready to abide by the result of his calculations, or incontinent and ready to abandon them" ([NE VII.1](http://classics.mit.edu/Aristotle/nicomachaen.7.vii.html)). The discussion then poses the relation to temperance conditionally: "a temperate man will have neither excessive nor bad appetites," and if continence involves having strong and bad appetites, then "the temperate man will not be continent nor the continent man temperate" ([NE VII.2](http://classics.mit.edu/Aristotle/nicomachaen.7.vii.html)). The exercise below distinguishes the two states.
 
 > And the same man is thought to be continent and ready to abide by the result of his calculations, or incontinent and ready to abandon them.
 >
@@ -26,9 +26,9 @@ Aristotle separates two states that look alike from outside. The same man is tho
 
 ### Plain words
 
-Continence is appetite plus resistance; temperance is appetite already shaped — that is the contrast the chapter draws, conditionally. For an exercise, take one ongoing self-control battle of yours and write down the two sides: the calculation you are holding to, and the appetite pulling the other way.
+Book VII raises a puzzle: if continence involves strong, bad appetites, how could the continent person also be temperate, given the description of temperate appetites ([NE VII.2](http://classics.mit.edu/Aristotle/nicomachaen.7.vii.html))? For reflection, distinguish a decision you endorse from a competing wish.
 
-For example: keeping a household budget against a wish to spend is continence-shaped: the calculation is the budget, and the appetite is the wish. Naming both sides is the exercise. (An invented illustration.)
+For example: keeping a household budget against a wish to spend. Identify the decision and the wish.
 
 ## Psychology parallels
 
