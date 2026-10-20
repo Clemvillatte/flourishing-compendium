@@ -31,8 +31,8 @@ These studies describe differences between groups with different dietary pattern
 
 ## Psychology parallels
 
-- **Inflammatory diet and depression**, more pro-inflammatory dietary patterns are associated with higher depression risk (Akbaraly et al., 2009; Wang et al., 2019)
-- **Dietary Inflammatory Index**, higher DII scores are associated with depression, particularly in women (Wang et al., 2019)
+- **Inflammatory diet and depression**, more pro-inflammatory dietary patterns are associated with higher depression risk ([Akbaraly et al., 2009](https://pubmed.ncbi.nlm.nih.gov/19880930/); [Wang et al., 2019](https://pubmed.ncbi.nlm.nih.gov/30319085/))
+- **Dietary Inflammatory Index**, higher DII scores are associated with depression, particularly in women ([Wang et al., 2019](https://pubmed.ncbi.nlm.nih.gov/30319085/))
 
 ## Philosophy parallels
 

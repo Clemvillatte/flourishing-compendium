@@ -31,7 +31,7 @@ If concentrating feels harder after exercise, recent fluid loss is one possible 
 
 ## Psychology parallels
 
-- **Hydration and mood**, mild dehydration was associated with degraded mood, fatigue and headaches in controlled trials (Armstrong et al., 2012; Ganio et al., 2011)
+- **Hydration and mood**, mild dehydration was associated with degraded mood, fatigue and headaches in controlled trials ([Armstrong et al., 2012](https://pubmed.ncbi.nlm.nih.gov/22190027/); [Ganio et al., 2011](https://pubmed.ncbi.nlm.nih.gov/21736786/))
 - **Dehydration and cognition**, in young men, dehydration increased visual-vigilance errors and slowed responses on a visual working-memory task ([Ganio et al., 2011](https://pubmed.ncbi.nlm.nih.gov/21736786/))
 
 ## Philosophy parallels

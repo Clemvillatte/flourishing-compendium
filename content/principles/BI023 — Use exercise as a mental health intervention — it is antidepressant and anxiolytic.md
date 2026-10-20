@@ -19,10 +19,10 @@ The sources address different questions: whether physical activity predicts late
 > "Available evidence supports the notion that physical activity can confer protection against the emergence of depression regardless of age and geographical region." (Abstract, Conclusions; Schuch et al., 2018, Am J Psychiatry 175(7): 631-48, [PubMed](https://pubmed.ncbi.nlm.nih.gov/29690792/))
 
 **Plain words**
-Two findings sit behind this principle, and both are averages. More active people were less likely to develop depression later; that is what following 266,939 people for years found, and an association is all it establishes ([Schuch et al., 2018](https://pubmed.ncbi.nlm.nih.gov/29690792/)). Among non-clinical adults, activity made depression and anxiety symptoms smaller, by a small-to-medium margin ([Rebar et al., 2015](https://pubmed.ncbi.nlm.nih.gov/25739893/)). Neither finding promises a particular person a particular result; together they support regular movement as one input among others.
+You can give movement a regular place in your week without knowing how each session will affect your mood ([Rebar et al., 2015](https://pubmed.ncbi.nlm.nih.gov/25739893/)). Choose an activity that fits around your commitments, and notice your own experience without expecting a particular result every time.
 
 **For example**
-(Imagined) Someone with a flat stretch of weeks puts three brisk walks in the calendar, shoes by the door. Scheduling the walks is the part they control; the studies behind this page describe groups and averages, not what the walks will do for them.
+(Imagined) Someone with a flat stretch of weeks puts three brisk walks in the calendar, shoes by the door. Scheduling the walks is the part they control.
 
 ## Sources
 
@@ -31,9 +31,9 @@ Two findings sit behind this principle, and both are averages. More active peopl
 
 ## Psychology parallels
 
-- **Exercise and depression**, higher physical activity is associated with lower odds of developing depression (Schuch et al., 2018)
-- **Exercise and anxiety**, physical activity reduced anxiety symptoms by a small effect in non-clinical adults (Rebar et al., 2015)
-- **Note: trial effects in non-clinical adults were small-to-medium; these sources establish no dose** (Rebar et al., 2015)
+- **Exercise and depression**, higher physical activity is associated with lower odds of developing depression ([Schuch et al., 2018](https://pubmed.ncbi.nlm.nih.gov/29690792/))
+- **Exercise and anxiety**, physical activity reduced anxiety symptoms by a small effect in non-clinical adults ([Rebar et al., 2015](https://pubmed.ncbi.nlm.nih.gov/25739893/))
+- **Note: trial effects in non-clinical adults were small-to-medium; these sources establish no dose** ([Rebar et al., 2015](https://pubmed.ncbi.nlm.nih.gov/25739893/))
 
 ## Philosophy parallels
 

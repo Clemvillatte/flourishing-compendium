@@ -10,13 +10,13 @@
  "in_progress": null,
  "flagged": {
   "BI020": "Reopened for QC: QC correction: advisor round-1 repairs (invented curve/mechanism, plain-words guarantee, example outcomes, inherited overclaims)",
-  "BI037": "Reopened for QC: round-2 focused repairs",
-  "BI023": "Reopened for QC: round-2 focused repairs",
-  "BI027": "Reopened for QC: round-2 focused repairs",
-  "BI035": "Reopened for QC: round-2 focused repairs"
+  "BI037": "Reopened for QC: round-3 final local corrections",
+  "BI023": "Reopened for QC: round-3 final local corrections",
+  "BI027": "Reopened for QC: round-3 final local corrections",
+  "BI035": "Reopened for QC: round-3 final local corrections"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:43:05+00:00",
+ "updated": "2026-10-20T11:45:52+00:00",
  "band_done": false
 }
