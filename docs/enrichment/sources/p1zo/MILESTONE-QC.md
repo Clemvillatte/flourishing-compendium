@@ -85,3 +85,18 @@ Items: SP015, SP023, SP024, SP041 (2026-10-21).
   ledger records corrected (XXVIII references; complete blockquote entry);
   SP041's inherited "most dangerous" title flagged for supervisor disposition.
   Baseline validation re-run: 4 checked, 0 failed. Round 3 submission pending.
+- Inspection-history correction: the round-2 record said the full diffs were
+  inspected, but the commands used were --stat and grep-filtered; the round-3
+  record corrects this — the complete 363-line diff of all four content
+  files, all four ledgers and the proposals file against fc8c8bb6b was
+  captured to /tmp/p1zo-final-review.diff and read in full this round.
+  Preservation verified: front-matter, parallels sections and principle
+  headers unchanged in all four files; only body/plain-words/example/locator
+  lines and the new Sources sections changed; the two withdrawn reciprocal
+  records correctly absent from the proposals diff.
+- Round 3 (advisor): SP015 and SP024 scoped PASS; SP023 needed two targeted
+  deletions (uncited bridge sentence; categorical "neither feeling tells you
+  what you can actually do" claim); SP041 needed the TIE citation after its
+  second body sentence. All applied through the state machine; SP024 ledger
+  duplicate passage entry consolidated; baseline validation re-run clean.
+  Round 4 (narrow verification) submission pending.

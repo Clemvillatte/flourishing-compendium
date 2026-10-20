@@ -28,8 +28,8 @@
   "SP009",
   "SP011",
   "SP015",
-  "SP023",
   "SP024",
+  "SP023",
   "SP041"
  ],
  "in_progress": null,
@@ -61,12 +61,12 @@
   "SP009": "Reopened for QC: QC: plain words/example scope repairs",
   "SP011": "Reopened for QC: QC: prose/blockquote duplication, measuring-claim removal",
   "SP015": "Reopened for QC: QC: opening duplication, plain-words prediction claim, example diagnosis, reciprocal-record overreach",
-  "SP023": "Reopened for QC: QC: body/plain-words exercise duplication; body sentence near-duplicates blockquote; ledger XXVI references",
+  "SP023": "Reopened for QC: QC: delete uncited bridge sentence and categorical plain-words claim",
   "SP024": "Reopened for QC: QC: body/plain-words exercise duplication; plain-words first sentence citation",
-  "SP041": "inherited title says 'most dangerous'; the TIE excerpt supports only 'still more absorbed' — supervisor disposition needed on whether workers may change titles"
+  "SP041": "Reopened for QC: QC: citation after second body sentence"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T13:09:52+00:00",
+ "updated": "2026-10-20T13:12:51+00:00",
  "band_done": false
 }
