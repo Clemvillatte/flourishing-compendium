@@ -69,7 +69,7 @@
   "A006",
   "A036"
  ],
- "in_progress": null,
+ "in_progress": "A075",
  "flagged": {
   "BI013": "Reopened for QC: QC round-1 corrections failed to land; reapplied and revalidated",
   "B020": "Reopened for QC: milestone QC: verse number corrected, inferences removed",
@@ -96,6 +96,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 18,
- "updated": "2026-10-20T03:26:33+00:00",
+ "updated": "2026-10-20T03:27:46+00:00",
  "band_done": false
 }
