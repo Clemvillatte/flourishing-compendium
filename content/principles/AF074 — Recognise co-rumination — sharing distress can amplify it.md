@@ -12,15 +12,31 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 74** — Recognise co-rumination: sharing distress can amplify it
 
-Co-rumination is repeatedly discussing problems and negative feelings with others without moving toward solution or perspective. It feels like support and connection, but it amplifies and maintains distress. This is distinct from healthy disclosure.
+Rose introduced the term in 2002. Co-rumination "refers to extensively discussing and revisiting problems, speculating about problems, and focusing on negative feelings". In a questionnaire study of 608 children and adolescents, it was "related to high-quality, close friendships and aspects of depression and anxiety" ([Rose, 2002](https://pubmed.ncbi.nlm.nih.gov/12487497/)). So it does feel like closeness, and it is also linked to distress.
 
-**Plain words** Co-rumination: repeatedly discussing problems and negative feelings without moving toward solution or perspective. It feels like support — but it amplifies and maintains distress. Distinguish venting-with-direction from the joint spiral.
+Later work followed adolescents over time. Higher co-rumination at the start predicted "a significantly shorter time to depression onset" over two years, even with baseline depressive symptoms and rumination controlled ([Stone et al., 2011](https://pubmed.ncbi.nlm.nih.gov/21500877/)).
 
-*For example:* The friendship that has become a nightly two-hour problem festival — both feeling supported, both getting worse — and the fix: keep the care, add the movement ("what are you going to do about it?"). The connection survives; the spiral doesn't.
+> Results suggest that co-rumination contributes a unique risk for the development of depression in adolescents.
+>
+> Stone, Hankin, Gibb & Abela, Journal of Abnormal Psychology (2011)
+
+The evidence here comes from adolescents. It does not show that every long talk about a problem is harmful.
+
+(Rose, 2002; Stone et al., 2011.)
+
+**Plain words** Two friends can spend an evening going over the same problem, from the same angle, and come away feeling close and no better. The risk is in the repetition. A talk that ends with a decision, a new way of seeing it, or a plan is a different thing.
+
+For example (imagined): you and a friend spend a nightly hour on the same work conflict, and each night ends with agreement that it is awful. Ending the call with one question, such as what you will try on Thursday, keeps the care and adds some movement.
+
+## Sources
+
+- Rose (2002), "Co-rumination in the friendships of girls and boys", Child Development 73:1830-1843: [PubMed 12487497](https://pubmed.ncbi.nlm.nih.gov/12487497/)
+- Stone, Hankin, Gibb & Abela (2011), "Co-rumination predicts the onset of depressive disorders during adolescence", J Abnorm Psychol 120:752-757: [PubMed 21500877](https://pubmed.ncbi.nlm.nih.gov/21500877/)
+
 ## Psychology parallels
 
-- **Co-rumination amplifies negative affect**, repeatedly revisiting problems with others, without resolution, increases depression and anxiety (Rose, 2002; Stone et al., 2011)
-- **Co-rumination disrupts the benefits of social connection**, the co-rumination component of co-regulation attenuates the benefits of social connectedness (Wolz et al., 2025)
+- **Co-rumination is linked to depression and anxiety symptoms**, and predicted depression onset in adolescents followed for two years (Rose, 2002; Stone et al., 2011)
+- **Co-rumination goes with close friendship**, the same measure was related to high-quality, close friendships (Rose, 2002)
 
 ## Philosophy parallels
 

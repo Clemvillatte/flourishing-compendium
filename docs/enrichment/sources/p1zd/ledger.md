@@ -88,3 +88,13 @@ PROTOCOL-PRINCIPLES items 6-7.
 - Sources opened (PubMed abstracts via Europe PMC): Keltner & Haidt 2003 (PMID 29715721); Piff et al. 2015 (PMID 25984788); Sturm et al. 2022 (PMID 32955293); Stellar et al. 2018 (PMID 28857578, abstract).
 - Verbatim: Keltner & Haidt two-appraisal sentence; Piff definition sentence; "enhanced prosocial helping behavior and decreased entitlement"; Sturm "postintervention anxiety, depression, and life satisfaction did not change from baseline in either group".
 - Corrected: parallels bullet claimed awe walks "reliably improve well-being" and reduce depressive symptoms; the opened RCT found no change in anxiety, depression or life satisfaction. "Anderson et al., 2025" bullet source not found/opened; removed. Old "most distinct and underused positive emotions" unsupported; dropped. Limitations: Piff abstract only (full text not opened); Sturm is one RCT, N = 60, older adults.
+
+## AF074 — Recognise co-rumination
+- Sources opened (abstracts via Europe PMC): Rose 2002, Child Dev 73:1830-1843 (PMID 12487497); Stone et al. 2011, J Abnorm Psychol 120:752-757 (PMID 21500877).
+- Verbatim: Rose's definition; "related to high-quality, close friendships and aspects of depression and anxiety"; Stone "a significantly shorter time to depression onset"; "Results suggest that co-rumination contributes a unique risk for the development of depression in adolescents."
+- Limits stated on page: adolescent samples; no claim that all problem talk is harmful. Dropped old "without moving toward solution or perspective" (not in Rose's definition) and the unverified "Wolz et al., 2025" bullet (not found in Europe PMC); replaced with Rose's friendship-closeness finding.
+
+## AF076 — Recognise expressive suppression in close relationships
+- Sources opened (abstracts via Europe PMC): Butler et al. 2003 Emotion 3:48-67 (12899316); Impett et al. 2012 PSPB 38:707-720 (22389432); Gross & John 2003 JPSP 85:348-362 (12916575); Butler, Lee & Gross 2007 Emotion 7:30-48 (17352561).
+- Verbatim fragments as quoted; Gross & John quote uses [...] before "using".
+- Corrected: old body said suppression "reduces rapport, increases physiological stress in both parties" with partners/close friends; the Butler studies used unacquainted women, so page says so and adds the couples study. Old Gottman & Levenson 2000, Butler & Gross 2009, English & Eldreda 2020 bullets not opened; replaced. Cultural moderation added.
