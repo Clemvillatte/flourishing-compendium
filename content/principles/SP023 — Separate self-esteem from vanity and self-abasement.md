@@ -12,13 +12,13 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 23** — Separate self-esteem from vanity and self-abasement
 
-Self-esteem is joy born of one's own power of acting; its two counterfeits are pride, thinking more of oneself than is true, and humility, thinking less. Both are errors of measurement, and both are passive: the vain and the self-abasing are equally run by imagined audiences. Genuine self-esteem, by contrast, is the felt sense of capacity, and it is built only by acting and observing the results. Practically, build one real competence per season and let the esteem follow the evidence.
+In the Definitions of the Emotions, Spinoza defines self-approval as pleasure arising from a man's contemplation of himself and his own power of action, and its two neighbours: pride, thinking too highly of oneself from self-love, and humility, pain arising from contemplation of one's own weakness of body or mind. ([Ethics, Definitions of the Emotions XXV–XXVIII, Elwes tr.](https://www.gutenberg.org/ebooks/3800)) In his explanation of humility he notes that a man may think too meanly of himself — sorrowfully regarding his own weakness, he may imagine that he is despised by all men, while the rest of the world is thinking of nothing less than of despising him. The compendium's application is to build one real competence per season and let the esteem follow the evidence.
 
-(Ethics III, P26, P28, P29; definitions of Pride and Humility.)
+> "it may happen, that a man, sorrowfully regarding his own weakness, should imagine that he is despised by all men, while the rest of the world are thinking of nothing less than of despising him." (Ethics, Definitions of the Emotions XXVI, Explanation, Elwes tr., [Gutenberg #3800](https://www.gutenberg.org/ebooks/3800))
 
-**Plain words** Self-esteem is joy born of one's own power of acting. Its counterfeits: pride (thinking more of oneself than is true) and humility (thinking less) — both errors of measurement, both passive. The vain and the self-abasing are equally run from outside; only the measured self is free.
+**Plain words** Spinoza puts genuine self-respect on one side — pleasure in what you can actually do — and pride and humility on the other, which are both mistakes about the facts: one inflates them, the other deflates them, and the deflation can invent an audience that is not there. If you want the real thing, do something and watch what happens.
 
-*For example:* The braggart and the self-deprecator turn out to be the same machine — both rating themselves by imagined audiences — while the third colleague just states what they can and can't do. Only one of the three is talking about a self they actually measured.
+**For example (imagined):** Three colleagues describe the same skill set. The first inflates it, the second deflates it while assuming everyone despises them, and the third states what they can and cannot do. Only the third is talking about a self anyone measured.
 ## Psychology parallels
 
 - **Contingent versus true self-esteem**, and competence-based self-efficacy (Crocker, 2002; Bandura, 1997)
@@ -27,3 +27,7 @@ Self-esteem is joy born of one's own power of acting; its two counterfeits are p
 
 - **[[Pride|Pride as ignorance, humility as its mirror error]]** (Buddhist mana, the affliction of comparing)
 - **The middle between arrogance and self-contempt** (Aristotle, Nicomachean Ethics IV, on megalopsychia)
+
+## Sources
+
+- [Spinoza, B. (1677). Ethics, Definitions of the Emotions XXV–XXVIII and the explanation to XXVI. Trans. R. H. M. Elwes, Gutenberg #3800](https://www.gutenberg.org/ebooks/3800) — all quoted and paraphrased passages verified verbatim against the downloaded text; the inherited III P28/P29 locators were not used in the body and not re-verified
