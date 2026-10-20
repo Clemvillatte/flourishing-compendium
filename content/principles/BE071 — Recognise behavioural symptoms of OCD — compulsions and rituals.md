@@ -19,7 +19,7 @@ Behavioural therapy is a treatment option for OCD; its essential element is expo
 > "Compulsions (often called rituals) are excessive, repetitive, purposeful behaviors that people feel they must do to prevent or reduce the anxiety caused by their obsessive thoughts or to neutralize their obsessions." (MSD Manual Professional Version, [Obsessive-Compulsive Disorder](https://www.msdmanuals.com/professional/psychiatric-disorders/obsessive-compulsive-and-related-disorders/obsessive-compulsive-disorder-ocd))
 
 **Plain words**
-A compulsion is a behaviour the person feels driven to perform, done to prevent or reduce the anxiety caused by obsessive thoughts. The manual's test is excess or disconnection: the behaviour is either not connected in a realistic way with what it is designed to prevent, or is clearly excessive. Distinguishing these symptoms from ordinary caution is assessment work; the manual's criteria, not a count of stove checks, are what a clinician applies. Treatment is gradual therapeutic work with a professional, not a self-directed instruction.
+A compulsion is a behaviour the person feels driven to perform, done to prevent or reduce the anxiety caused by obsessive thoughts. The manual's test is excess or disconnection: the behaviour is either not connected in a realistic way with what it is designed to prevent, or is clearly excessive. Distinguishing these symptoms from ordinary caution is assessment work; the manual's criteria, not a count of stove checks, are what a clinician applies. Treatment is gradual therapeutic work with a professional.
 
 *For example:* An imagined case: a person checks the stove nine times before leaving, because an intrusive thought of the house burning makes the tenth check feel required. The compulsion is the checking the person feels driven to repeat; describing the fear and the checking to a clinician is how the assessment gets made.
 
@@ -41,4 +41,4 @@ A compulsion is a behaviour the person feels driven to perform, done to prevent 
 
 ## Practice
 
-- If you have compulsive behaviours, recognise them as symptoms, not choices. Treatment is ERP: approach the obsession without doing the compulsion. Seek professional help; OCD is treatable.
+- If repeated behaviours or mental rituals concern you, describe them and any intrusive fears to a qualified clinician. Ask about treatment options, including exposure and response prevention.

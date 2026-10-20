@@ -1,6 +1,6 @@
 {
  "batch": "p1zk",
- "revision": 11,
+ "revision": 12,
  "reciprocal": [
   {
    "into": "Sleep deprivation",
@@ -65,8 +65,8 @@
   {
    "into": "Homo ludens",
    "link": "BE065",
-   "why": "the playfulness studies behind this principle measure the trait Huizinga's play-category names",
-   "notes": "Evidence in sources/p1zk/BE065.md (Proyer 2013/2021, both opened). Concept already cites BE065."
+   "why": "listed for comparison",
+   "notes": "Neutralised per advisor QC: whether Proyer's playfulness construct is the trait Huizinga's play-category names is a research question, not an opened finding. Evidence in sources/p1zk/BE065.md."
   },
   {
    "into": "ERP (exposure and response prevention)",
