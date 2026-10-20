@@ -19,7 +19,7 @@ The question this principle answers is how much weight to give a trained person'
 
 The study's own caution limits what its framework shows: the abstract goes on to note that many characteristics once believed to reflect innate talent are actually the result of intense practice extended for a minimum of 10 years, and that the analysis provides evidence on the potential and limits of environmental adaptation and learning. Expertise built this way is real, and it is built by practice, which is something a person can change.
 
-A second study addresses what experts do when they make predictions rather than perform within a practiced domain. Tetlock's Expert Political Judgment records 284 experts making roughly 28,000 predictions between 1984 and 2003, and the findings were that forecasters were often only slightly more accurate than chance and usually worse than simple extrapolation algorithms, especially on longer-range forecasts ([Wikipedia, Philip E. Tetlock](https://en.wikipedia.org/wiki/Philip_E._Tetlock)).
+A second study addresses how trained people perform when they make predictions outside a practiced domain rather than perform within one. Tetlock's Expert Political Judgment records 284 experts making roughly 28,000 predictions between 1984 and 2003, and the findings were that forecasters were often only slightly more accurate than chance and usually worse than simple extrapolation algorithms, especially on longer-range forecasts ([Wikipedia, Philip E. Tetlock](https://en.wikipedia.org/wiki/Philip_E._Tetlock)).
 
 Together, the two studies support a stance toward expertise that respects the practice and checks the forecast.
 
@@ -27,7 +27,7 @@ Together, the two studies support a stance toward expertise that respects the pr
 
 **Plain words** An expert's opinion can be worth taking seriously when the question is one the person has practiced at. The practice itself, not the training label, is what carries the weight. It is easy to over-trust a trained person's judgment on questions they have never practiced at, and easy to under-trust a trained person's judgment on questions they have practiced at for years. Separating the two cases is the practical skill this principle asks for.
 
-*For example:* A plumber's diagnosis of why the pipes leak is worth acting on without a second opinion. The same plumber's prediction about the housing market is a guess, not a professional judgment.
+*For example:* A plumber asked why the pipes are leaking gives a diagnosis, and a person can tell what that diagnosis rests on: repeated work on leaking pipes. A person can also tell what a plumber's prediction about the housing market would rest on: nothing the plumber's practice has given them.
 ## Psychology parallels
 
 - [[Deliberate practice|Deliberate practice]] (Ericsson et al., 1993)
