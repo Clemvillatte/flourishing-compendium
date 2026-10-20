@@ -40,4 +40,4 @@ Replaying the joke that bombed for a week: ask anyone from that dinner what they
 
 ## Practice
 
-- When you feel scrutinised, remember the spotlight effect: others are mostly attending to themselves, not to you. This reduces social anxiety and self-consciousness.
+- When you feel scrutinised, re-check your estimate: the finding suggests others notice less than you estimate. Whether re-checking reduces anxiety is not established by the study.

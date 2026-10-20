@@ -12,17 +12,17 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AT — Attentio
 ---
 > **Principle 9** — Know that attention is social: it is influenced by and influences others
 
-Two findings anchor the principle. First, other people's gaze directs your attention whether you intend it or not: in Friesen and Kingstone's cueing experiments, subjects were told the drawn face's gaze did not predict where a target would appear, yet they were reliably faster to respond when the gaze pointed at the target. Second, attention couples between people: Richardson, Dale and Kirkham recorded the gaze of pairs in spontaneous dialogue and found the conversants' eye movements were coupled, more strongly when both had heard the same background information beforehand.
+Two findings anchor the principle. First, in Friesen and Kingstone's cueing experiments, subjects were told a drawn face's gaze did not predict where a target would appear, yet their response times were reliably faster when the gaze pointed at the target. Second, Richardson, Dale and Kirkham recorded the gaze of pairs in spontaneous dialogue and found the conversants' eye movements were coupled, more strongly when both had heard the same background information beforehand.
 
-The reflexive shift is how shared focus gets built. The same mechanism that lets a glance coordinate a conversation also lets a room, a crowd or a feed pull attention somewhere no one chose.
+Both findings come from laboratory settings: cueing with a drawn face, and pairs discussing a shared display. How far the coupling extends to rooms, crowds or feeds is not shown by these studies.
 
 > "A moment's introspection reveals that in everyday life, gaze shifts can provide a rich and complex source of social information." (Friesen & Kingstone, 1998 — [The eyes have it!](http://wexler.free.fr/library/files/friesen%20(1998)%20the%20eyes%20have%20it!%20reflexive%20orienting%20is%20triggered%20by%20nonpredictive%20gaze.pdf) — Psychon Bull Rev 5(3), p. 490)
 
 **Plain words**
-You do not pick your attention alone. Another person's glance moves your eyes before you have decided anything, and two people talking fall into matching gaze patterns without trying. That is useful for cooperation, and it is also the handle by which groups and feeds steer you. Choosing who is around you is partly choosing what you will look at.
+When someone looks somewhere, your attention tends to follow, at least briefly, even when the look carries no information. Two people talking about something in front of them tend to look at the same things at the same time, more so when they share background knowledge.
 
 **For example**
-Look up at the sky in a group and watch every head tilt back. Then imagine what a feed full of outrage is conducting.
+In the experiment itself, a face drawing glances left and a letter appears; the viewer is faster to find it when the glance points at it. An imagined everyday version: at a table, someone glances at the door and your attention goes there too.
 ## Sources
 
 - [Friesen & Kingstone 1998, The eyes have it! Reflexive orienting is triggered by nonpredictive gaze, Psychonomic Bulletin & Review 5(3):490-495, full text](http://wexler.free.fr/library/files/friesen%20(1998)%20the%20eyes%20have%20it!%20reflexive%20orienting%20is%20triggered%20by%20nonpredictive%20gaze.pdf) — the gaze-cueing experiments and the social-information opening sentence.
@@ -41,4 +41,4 @@ Look up at the sky in a group and watch every head tilt back. Then imagine what 
 
 ## Practice
 
-- Recognise that what others attend to influences what you attend to, often without awareness. Choose your attentional environment (people, media, spaces) deliberately.
+- Recognise that where others look can pull your attention. Choosing your attentional environment (people, media, spaces) is one practical response.
