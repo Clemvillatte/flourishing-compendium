@@ -145,3 +145,13 @@
 **Sources opened (1).** Shaver and Mikulincer 2005, "Attachment theory and research: Resurrection of the psychodynamic approach to personality," Journal of Research in Personality 39:22-45, full PDF at https://adultattachment.faculty.ucdavis.edu/wp-content/uploads/sites/66/2015/09/Shaver_2005_Attachment-theory-and-research.pdf (downloaded and read; 24 pages). Blockquote (the Bowlby 1982/1969 behavioral-system passage) and all inline fragments (core sense of security, two secondary strategies, working-models sentence) verified verbatim against the PDF text with Elsevier extraction artifacts normalized (W->fi ligature, broken spacing).
 
 **Scope notes.** The seed page contained hub-import fragments after "## Cited in philosophy parallels" (bold entries, a "## Field" header, orphan links); all nine seed wikilinks (S039, SP013 twice, SE048, E090, SP086, SE047, D104, PP034, SE029) are preserved in the Cited-in psychology list, with SP013 kept twice to match the seed's occurrences. The seed's non-wikilink fragment prose was replaced by the sourced body. Bowlby's own texts and Mikulincer & Shaver 2007 were NOT opened — kept as seed source lines only. Saturation hunt and cross-link proposals skipped per §1a. Validator --fast-track: 1 ok.
+
+---
+
+## Attention Network Test (ANT) — completed 2026-10-20 (worker-w1d-4c8e1b3a, FAST-TRACK)
+
+**Eligibility.** Graph degree 9 (< 15); no unresolved QC findings; inside owned band w1d. Fast-track per PROTOCOL.md §1a.
+
+**Sources opened (1).** Fan, McCandliss, Sommer, Raz and Posner 2002, "Testing the Efficiency and Independence of Attentional Networks," Journal of Cognitive Neuroscience 14(3):340-347, full PDF at https://w3.ual.es/personal/tdaza/Fan%20y%20cols.pdf (downloaded and read; 8 pages). Blockquote is the abstract's result sentences, verified verbatim; the task-description passage and the "functionally orthogonal constructs" passage are also from the opened PDF text.
+
+**Scope notes.** The seed body's "distinct developmental trajectories" claim (attributed to Rueda et al. 2004) was dropped: Rueda et al. 2004 was NOT opened and is kept as a seed source line only. The subtraction method is described without naming specific arithmetic beyond what the paper states. Saturation hunt and cross-link proposals skipped per §1a. Validator --fast-track: 1 ok.
