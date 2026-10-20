@@ -49,3 +49,11 @@
 - Related concepts: Unconditional positive regard (exists; clause limited to a structural description of the compendium's Rogers cluster to avoid unsupported mechanism claims). No reciprocal proposed.
 - Saturation: fast-track skip.
 - No advisor QC required (item 6).
+
+## Faculties of the mind
+
+- Fast-track degree 1 (sole edge: AT002 philosophy-parallels entry).
+- Opened source: Kant, Critique of Pure Reason (Meiklejohn translation, Project Gutenberg full text). Verified verbatim: the two-main-sources sentence (Transcendental Logic, Introduction I) used as blockquote; "Thoughts without content are void; intuitions without conceptions, blind." (same section, quoted inline); the sense-understanding-reason progression sentence (Transcendental Dialectic, Introduction II.A).
+- Related concepts: Working memory capacity limits (exists, deg 15) and Imagination (exists, deg 3, bare seed — clause kept structural, no unsupported Kant claim about imagination's bridging role). No reciprocal proposed.
+- Saturation: fast-track skip.
+- No advisor QC required (item 8).
