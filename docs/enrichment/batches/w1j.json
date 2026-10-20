@@ -24,20 +24,21 @@
   "Perceived partner responsiveness",
   "Pleasant activities scheduling (Lewinsohn)",
   "Predictive processing",
+  "The body schema",
   "Stage theories of development"
  ],
- "in_progress": "The body schema",
+ "in_progress": null,
  "flagged": {
   "Radical freedom": "QC resolved 2026-10-20 (takeover genuineflourishing04): all quotes re-verified verbatim vs freshly opened SEP Sartre + SEP Existentialism; Aho framing sentence correctly attributed to the SEP entry with only the inner Sartre fragment in quotes; [2001, 296] locator added beside the body quote per supervisor route",
   "Restorative justice": "QC re-review resolved 2026-10-20 (genuineflourishing04): all quotes re-verified verbatim vs freshly opened IIRP full PDF; advisor follow-up applied — 'based largely on two forms' abstract framing, matched blockquote quotes, no duplicate framing sentence",
   "Shared reality": "QC re-review resolved 2026-10-20 (genuineflourishing04): all five quotes re-verified verbatim vs freshly opened Columbia Higgins-Rossignac-Milon-Echterhoff 2021 PDF; subjective-to-objective drift absent; Hardin-Higgins sentence quoted from the 2021 paper as sourced",
   "Recognising limits": "QC re-review resolved 2026-10-20 (genuineflourishing04): all Enchiridion I Higginson quotes re-verified verbatim vs freshly opened Gutenberg #45109; compendium-list labelling repair confirmed in place (editorial extension, not Epictetus's list)",
-  "The body schema": "evidence note (genuineflourishing04, 2026-10-20): degree 7 (2 kernels, 2 principles, 3 stories) fast-track eligible; source Toadvine SEP merleau-ponty §3, URL plato.stanford.edu/entries/merleau-ponty/; all quotes string-verified vs raw SEP HTML (kinesthetic/body-schema passage with Toadvine's PP 129/102 locator, phantom-limb being-toward-the-world, habit-body sedimentations, lives-or-inhabits-it); PP primary text not opened this session, locator carried as Toadvine's; QC: advisor round 1 repairs applied (schema-as-system definition, stories claim removed, Toadvine-adds lead-in), pending final confirm",
-  "Stage theories of development": "evidence note (genuineflourishing04, 2026-10-20): degree 7 fast-track eligible; sources SAGE chapter (p. 8, section 'Are there stages in development?'; SAGE book authorship NOT asserted, in-text citation insufficient) + Piper Meadville PDF p. 3 (raw-pdftotext-verified: lineage sentence, stage-theorists sentence, crisis/disequilibrium passage all on PDF page 3); QC: advisor repairs applied (full Fowler sentence, attribution removed, Piper-describes lead-in, locators added), pending final confirm",
-  "Pleasant activities scheduling (Lewinsohn)": "evidence note (genuineflourishing04, 2026-10-20): degree 7 fast-track eligible; source Mazzucchelli Kane Rees 2010 PMC2882847, passages in the article's Introduction section (heading verified in raw HTML); quotes verbatim (Lewinsohn treatment description, MacPhillamy-Lewinsohn model sentence, monitoring/increase passages); QC: mechanism sentence removed per advisor, Introduction locator added, pending final confirm"
+  "The body schema": "evidence note (genuineflourishing04, 2026-10-20): degree 7 fast-track eligible; Toadvine SEP §3 URL; all quotes string-verified vs raw SEP HTML; PP primary text not opened, PP 129/102 locator carried as Toadvine's; QC DISPOSITION: advisor scoped PASS (2026-10-20, final check) after two repair rounds",
+  "Stage theories of development": "evidence note (genuineflourishing04, 2026-10-20): degree 7 fast-track eligible; SAGE chapter p. 8 section 'Are there stages in development?' (book authorship NOT asserted, in-text citation insufficient) + Piper Meadville PDF p. 3 raw-verified; QC DISPOSITION: advisor PASS after three repair rounds (full Fowler sentence, attribution removed, Piper lead-in, locators, seed-sentence deletion)",
+  "Pleasant activities scheduling (Lewinsohn)": "evidence note (genuineflourishing04, 2026-10-20): degree 7 fast-track eligible; Mazzucchelli Kane Rees 2010 PMC2882847 Introduction section (heading verified in raw HTML); quotes verbatim; QC DISPOSITION: advisor scoped PASS after mechanism-sentence removal and Introduction locator; original completion history retained"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:26:09+00:00",
+ "updated": "2026-10-20T11:27:43+00:00",
  "band_done": false
 }
