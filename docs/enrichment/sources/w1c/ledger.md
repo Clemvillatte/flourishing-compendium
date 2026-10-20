@@ -194,3 +194,39 @@ legacy schema (state keys + proposals) — MERGED, never replaced.
   cites for the essay; page locators on this page are the PDF's own.
 - The SEP Simone Weil entry was opened this session (dates, French terms,
   Craufurd translation, attention characterization); cited on the page.
+
+## The testing effect / retrieval practice (item 22, 2026-10-20)
+
+- Advisor QC: not due (item 2 of the takeover; next milestone at item 5).
+- Opened (NCBI E-utilities raw abstracts):
+  1. Roediger and Karpicke, "Test-enhanced learning: taking memory tests
+     improves long-term retention", Psychol Sci 17(3):249-255 (2006),
+     PMID 16507066 — all three page quotations verified verbatim
+     (definition sentence; the 5-min/delayed result sentence; the
+     "powerful means" conclusion).
+  2. Karpicke and Blunt, "Retrieval practice produces more learning than
+     elaborative studying with concept mapping", Science 331:772-775
+     (2011), PMID 21252317 — the concept-mapping fragment and the
+     comprehension/inference fragment verified verbatim.
+- Page prose scoped to the abstracts: the 2006 design details on the page
+  (prose passages, free recall without feedback, 5 min/2 days/1 week) are
+  the abstract's own statements. The "addressed the worry that retrieval
+  practice only trains recall of strings" framing is an editorial gloss;
+  the Karpicke & Blunt abstract itself frames it as retrieval vs
+  elaborative studying, which the page preserves in the blockquote.
+- Principles described from their own files (PP071, CO056, CO053, CO054,
+  CO008, M014, BE020 each read).
+- Related targets read from their own pages (Desirable difficulties:
+  Bjork and Bjork 2011; Fluency-driven illusory truth: Fazio et al. 2015;
+  Encoding strategies: Craik & Lockhart; Mnemonics: spaced-retrieval
+  literature; Metacognition: Flavell 1979; Ars memoriae: Cicero seed);
+  clauses match the targets' own definitions; the Ars memoriae clause
+  asserts only the seed's fact (Cicero, De Oratore).
+- In-the-compendium lead-in labels pairings as editorial; the CO054 and
+  BE020 synthesis clauses from the first draft were replaced with
+  descriptive pairings.
+- Proposals: 6 reciprocals added (Desirable difficulties, Fluency-driven
+  illusory truth, Encoding strategies, Mnemonics and the availability of
+  internalized text, Metacognition, Ars memoriae).
+- Preservation: front-matter, seed line, all Cited-in links kept
+  byte-for-byte; the seed's "Roediger & Karpicke, 2006" citation kept.
