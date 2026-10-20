@@ -445,3 +445,8 @@
   rewritten (no "not decoration" claim; quote given its antecedent).
 - Degrees confirmed complete: Moral circle 10, Moral exemplar 9, Mortality
   salience 9, Narrative 11 (all < 15, fast-track eligible).
+  Mortality salience follow-up: opened the Many Labs 4 record (Klein et al.
+  2022, Collabra: Psychology 8(1), UC Press article page) — 17 labs / 1,550
+  participants after exclusions, "unable to replicate the finding under any
+  conditions" passage quoted verbatim from the abstract; 2022 replication
+  section added with source link. Item 4 QC now complete (was provisional).

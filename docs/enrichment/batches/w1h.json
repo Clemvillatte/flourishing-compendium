@@ -49,8 +49,8 @@
   "Mastery learning theory",
   "Moral circle expansion research",
   "Moral exemplar research",
-  "Mortality salience",
-  "Narrative as meaning-making"
+  "Narrative as meaning-making",
+  "Mortality salience"
  ],
  "in_progress": null,
  "flagged": {
@@ -97,11 +97,11 @@
   "Mastery learning theory": "Reopened for QC: advisor QC round 1: remove inferred compendium clauses, seed line, unsupported related-concept explanations; scope 2-sigma historically",
   "Moral circle expansion research": "Reopened for QC: milestone QC: alpha attribution, Singer provenance, blockquote link, seed residue",
   "Moral exemplar research": "Reopened for QC: milestone QC: comparator scope, narrative-traits claim, Bandura clause, blockquote link",
-  "Mortality salience": "Reopened for QC: milestone QC: paradigm-design sentence removed, 1986 origin scoped, dated-results label",
+  "Mortality salience": "Reopened for QC: advisor follow-up: add current status-of-evidence (Many Labs 4 2022)",
   "Narrative as meaning-making": "Reopened for QC: milestone QC: opening rewritten, quote antecedent, related-clause removal"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:37:58+00:00",
+ "updated": "2026-10-20T11:38:40+00:00",
  "band_done": false
 }

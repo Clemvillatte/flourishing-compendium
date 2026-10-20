@@ -15,6 +15,12 @@ Mortality salience refers here to the accessibility of death-related thought wit
 
 The review covered 164 articles with 277 experiments. Across them, mortality salience yielded moderate effects (r = .35) on a range of worldview- and self-esteem-related outcomes, with larger effects for experiments using American participants, college students, a longer delay between the reminder and the outcome measure, and people-related attitudes as the outcome (Burke, Martens and Faucher, 2010, abstract). The same record cautions that gender and self-esteem may moderate the effects differently than previously thought, and that alternative explanations of TMT were part of the comparison. These are the review's dated results, not a current status report on the field.
 
+### The 2022 replication test
+
+The classic effect has since been tested at scale. A 2022 pre-registered multi-lab replication (17 labs, 1,550 participants after exclusions) of the 1994 Greenberg et al. study tested whether involving the original authors in the design would improve replicability, and reported:
+
+> "Our results were non-diagnostic of whether original author involvement improves replicability because we were unable to replicate the finding under any conditions. This suggests that the original finding was either a false positive or the conditions necessary to obtain it are not fully understood or no longer exist." (Klein et al., [Many Labs 4, Collabra: Psychology 8(1), 2022](https://online.ucpress.edu/collabra/article/8/1/35271/186959/Many-Labs-4-Failure-to-Replicate-Mortality-Salience), abstract)
+
 ## Related concepts
 
 - [[Terror management]] — the theory this paradigm belongs to
@@ -22,6 +28,7 @@ The review covered 164 articles with 277 experiments. Across them, mortality sal
 ## Sources
 
 - [Burke, Martens and Faucher, "Two decades of terror management theory: a meta-analysis of mortality salience research", Personality and Social Psychology Review 14(2), 2010, pp. 155-195, PubMed record 20097885](https://pubmed.ncbi.nlm.nih.gov/20097885/) — the MS hypothesis statement, scope (164 articles, 277 experiments), effect size and moderators quoted above
+- [Klein et al., "Many Labs 4: Failure to Replicate Mortality Salience Effect With and Without Original Author Involvement", Collabra: Psychology 8(1), article 35271, 2022](https://online.ucpress.edu/collabra/article/8/1/35271/186959/Many-Labs-4-Failure-to-Replicate-Mortality-Salience) — the 2022 multi-lab replication outcome quoted above
 - Greenberg, Pyszczynski and Solomon, 1986 — the seed's citation for the theory's origin; the 1986 chapter was not opened for this item
 
 ## Cited in psychology parallels
