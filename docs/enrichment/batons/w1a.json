@@ -1,7 +1,7 @@
 {
  "baton": "w1a",
- "agent": "genuineflourishing31",
- "clocked_in": "2026-10-19T12:32:26+00:00",
+ "agent": "worker-w1a-4c8e21d7",
+ "clocked_in": "2026-10-20T04:30:39+00:00",
  "takeovers": [
   {
    "by": "AgentA",
@@ -20,8 +20,12 @@
    "at": "2026-10-19T12:30:00+00:00",
    "from": "AgentA",
    "reason": "stale (225 min)"
+  },
+  {
+   "by": "worker-w1a-4c8e21d7",
+   "at": "2026-10-20T04:30:39+00:00",
+   "from": "genuineflourishing31",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-19T12:35:32+00:00"
+ ]
 }
