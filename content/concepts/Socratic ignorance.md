@@ -7,7 +7,7 @@ file: "Socratic ignorance"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-S"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-Socratic ignorance is the profession Socrates makes at his trial: he does not know the things that matter most, and unlike others he does not think he does. The claim comes with a story. His friend Chaerephon asked the Delphic oracle whether anyone was wiser than Socrates, and the Pythian prophetess answered that there was no man wiser. Socrates then set out to test the god by questioning those with a reputation for wisdom, and the testing became his life's work.
+Socratic ignorance is the profession Socrates makes at his trial: he does not know the things that matter most, and unlike others he does not think he does. The claim comes with a story. His friend Chaerephon asked the Delphic oracle whether anyone was wiser than Socrates, and the Pythian prophetess answered that there was no man wiser ([Apology, Jowett translation](https://classics.mit.edu/Plato/apology.html)). Socrates then set out to test the god by questioning those with a reputation for wisdom, and the testing became his life's work ([Apology, Jowett translation](https://classics.mit.edu/Plato/apology.html)).
 
 His conclusion from the first examination, in Jowett's translation:
 
@@ -15,9 +15,9 @@ His conclusion from the first examination, in Jowett's translation:
 
 ### What the testing found
 
-The testing had a shape. Socrates examined the politicians with a reputation for wisdom and found them not wise; he says these inquiries made him enemies, and the same conclusion followed with the ones he went to next. The poets wrote fine things but could not explain their own lines, and concluded they must be wise in other matters in which they were not wise. The artisans did know their trades, and that was the trouble: "because they were good workmen they thought that they also knew all sorts of high matters".
+The testing had a shape. Socrates examined the politicians with a reputation for wisdom and found them not wise; he says these inquiries made him enemies, and the same conclusion followed with the ones he went to next ([Apology, Jowett translation](https://classics.mit.edu/Plato/apology.html)). The poets wrote fine things but could not explain their own lines, and concluded they must be wise in other matters in which they were not wise ([Apology, Jowett translation](https://classics.mit.edu/Plato/apology.html)). The artisans did know their trades, and that was the trouble: "because they were good workmen they thought that they also knew all sorts of high matters" ([Apology, Jowett translation](https://classics.mit.edu/Plato/apology.html)).
 
-Socrates read the oracle's meaning in all this: God only is wise, the wisdom of men is little or nothing, and the wisest is he who knows his wisdom is in truth worth nothing. The questioning gave him enemies of the worst and most dangerous kind, and by his own account the calumnies that reached court began there.
+Socrates interprets the oracle as showing the limits of human wisdom: his advantage lies in recognising those limits ([Apology, Jowett translation](https://classics.mit.edu/Plato/apology.html)). The questioning gave him enemies of the worst and most dangerous kind, and by his own account the calumnies that reached court began there ([Apology, Jowett translation](https://classics.mit.edu/Plato/apology.html)).
 
 ### In the compendium
 

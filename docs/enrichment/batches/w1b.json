@@ -60,10 +60,10 @@
   "Intellectual humility",
   "Habituation",
   "Load theory of attention",
-  "Socratic ignorance",
   "Spiritual exercises",
   "Radical empiricism",
-  "Self-efficacy"
+  "Self-efficacy",
+  "Socratic ignorance"
  ],
  "in_progress": null,
  "flagged": {
@@ -74,13 +74,13 @@
   "Habituation": "Reopened for QC: QC correction: residual conflation in bullets and related lines",
   "Load theory of attention": "Reopened for QC: QC correction: qualified prediction, section locator, linked citations",
   "Radical empiricism": "Reopened for QC: QC correction: linked citations on preface attribution and quotations",
-  "Socratic ignorance": "Reopened for QC: QC correction: enemies claim scoping, Beginner's mind label removal",
+  "Socratic ignorance": "Reopened for QC: QC correction: linked citations, oracle-meaning paraphrase",
   "Spiritual exercises": "Reopened for QC: QC correction: Y080 referent annotation, existential wording, section locator",
   "Self-efficacy": "Reopened for QC: QC correction: linked citations on proposal, distinction, four sources, CDSMP"
  },
  "missing_concepts": [],
  "sources_checked": 7,
- "updated": "2026-10-20T07:03:48+00:00",
+ "updated": "2026-10-20T07:03:57+00:00",
  "notes": "QC round 2 (advisor): fixed quote attributions on The relational self and To the things themselves (encyclopedia paraphrases were quoted as primary text; now attributed to IEP/SEP), separated the three relational-self theories, scoped Sedikides findings, removed reader address, split long paragraphs. Caveat for the lead: some already-applied reciprocal proposals used derivation language ('therapeutic operationalisation of Deikman's observer' on Self-as-context, 'philosophical root' on I and Thou, 'same structure' on Being-with (Mitsein)); these clauses sit in other bands' files now and could be reworded to comparison language when convenient.",
  "band_done": false
 }

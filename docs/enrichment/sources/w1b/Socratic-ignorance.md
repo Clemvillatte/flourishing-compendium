@@ -67,3 +67,15 @@
 - Beginner's mind Related line: the "(inherited description, unverified here)" label
   was wrong (the line was this band's own addition); label removed, neutral
   cross-reference retained. Docta ignorantia keeps its inherited label (seed line).
+
+## Advisor QC round 4 (2026-10-20): citation linking and paraphrase
+
+- Linked MIT Classics citations added to the oracle narrative, the testing account
+  (including the artisans quotation), and both sentences of the interpretation
+  paragraph.
+- The "Socrates read the oracle's meaning in all this: God only is wise, the wisdom
+  of men is little or nothing, and the wisest is he who knows his wisdom is in truth
+  worth nothing" sentence (near-verbatim Jowett clauses outside quotation marks)
+  replaced with a genuine paraphrase: "Socrates interprets the oracle as showing the
+  limits of human wisdom: his advantage lies in recognising those limits." The
+  verbatim Jowett sentences remain in the preserved extraction record.
