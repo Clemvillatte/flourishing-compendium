@@ -34,12 +34,12 @@
  ],
  "in_progress": null,
  "flagged": {
-  "D190": "RESOLVED 2026-10-20: removed mode-of-access inference; shortened prose; exact Legge quotation independently fetched; awaiting closure QC",
+  "D190": "RESOLVED 2026-10-20: closure advisor PASS, exact source quotations, walking inference removed, prose validated",
   "P009": "Reopened for QC: QC correction: remove automatic reconstruction-to-knowledge claim and shorten prose",
   "P033": "Reopened for QC: QC correction: advisor round 1 — example, plain words tied to opened discussion"
  },
  "missing_concepts": [],
  "sources_checked": 10,
- "updated": "2026-10-20T03:43:08+00:00",
+ "updated": "2026-10-20T03:43:10+00:00",
  "band_done": false
 }
