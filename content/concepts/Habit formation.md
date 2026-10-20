@@ -36,7 +36,7 @@ automaticity emerges over a median of 66 days (Lally et al., 2010).
 
 - [[Graded task assignment (Beck, BA)]] — the gradual shaping the technique exploits
 - [[Learning by doing]] — the stable outcomes of repeated doing and undergoing
-- [[Character as habits]] — compare that page's acquisition account with James's historical explanation
+- [[Habit]] — the page that now carries James's historical explanation of habit acquisition
 ## Sources
 
 - Lally et al., 2010

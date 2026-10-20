@@ -35,7 +35,7 @@ A108, "Practise habituation through repeated action," is Aristotle's version of 
 - [[Environmental design]] — the applied arm of controlling cues
 - [[Designing the environment for virtue]] — the compendium's Aristotelian version of cue control
 - [[Ego depletion]] — the resource account invoked in Wood and Neal's 2007 discussion of inhibition
-- [[Character as habits]] — the character-level reading of the same mechanism
+- [[Habit]] — the general phenomenon, with James's character-level reading
 - [[Belief as habit]] — beliefs as settled dispositions, the Peirce-James cousin
 - [[Nudge theory Thaler]] — choice architecture as cue control at scale
 

@@ -33,7 +33,7 @@ The compendium wires the concept to its habit and flow principles. A108, "Practi
 - [[Deliberate practice]] — the effortful training that produces the effortless edge
 - [[Second nature]] — what the long effort literally builds
 - [[Habit]] — automaticity as the mechanical cousin
-- [[Character as habits]] — second nature at the level of character
+- [[Habit]] — second nature at the level of character, in James's account
 - [[Growth through practice]] — the Buddhist version of the long-effort arc
 ## Sources
 

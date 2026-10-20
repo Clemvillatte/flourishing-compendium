@@ -30,7 +30,7 @@ Contemporary virtue ethics has two instigating documents: Anscombe's "Modern Mor
 - [[Practical wisdom]] — the intellectual virtue that finds the mean in particulars
 - [[Phronesis]] — Aristotle's own name for that deliberative excellence
 - [[The doctrine of the mean]] — the structure of each virtue as between two vices
-- [[Character as habits]] — the psychological reading of stable dispositions
+- [[Habit]] — the psychological reading of stable dispositions
 - [[Situationism]] — the empirical challenge that situations trump traits
 - [[Eudaimonia]] — the flourishing virtue is the road to
 - [[Moral identity]] — the traits the moral identity organizes around

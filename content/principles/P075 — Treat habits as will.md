@@ -35,7 +35,7 @@ The consequence for practice is direct: if you want to change what someone will 
 ## Philosophy parallels
 
 - **[[Habit|Habit as will]]** (Dewey, Human Nature and Conduct)
-- **[[Character as habits|Character as habits]]** (James, The Principles of Psychology)- **[[Habit|Habit]]** (Pragmatism)
+- **[[Habit|Character as habits]]** (James, The Principles of Psychology)- **[[Habit|Habit]]** (Pragmatism)
 
 
 <!-- fc: reflections

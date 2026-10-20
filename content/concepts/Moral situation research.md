@@ -29,7 +29,7 @@ The compendium's response is to move from traits to trained situational attentio
 - [[Obedience theory Milgram]] — the obedience evidence behind the debate
 - [[Designing the environment for virtue]] — the situationist insight turned into design
 - [[Situational strategies]] — the applied arm of the same insight
-- [[Character as habits]] — the character view under situationist pressure
+- [[Habit]] — the character view under situationist pressure
 - [[Character strengths (Peterson & Seligman)]] — the positive-psychology revival of traits
 
 ## Sources
