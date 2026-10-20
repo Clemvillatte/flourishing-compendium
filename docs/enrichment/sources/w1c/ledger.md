@@ -408,3 +408,9 @@ legacy schema (state keys + proposals) — MERGED, never replaced.
 - Quote punctuation: "connected with virtue," excerpt now ends before the source's semicolon, no inserted comma.
 - A076 sentence retained after verification: the A076 principle page (read) does work out NE VIII friendship across unequal parties with verbatim VIII.7-8 proportionality and mothers passages (Rackham translation).
 - Ledger correction: the earlier chapter-number mapping claim (Welldon ch. V = Bekker VIII.3) is withdrawn as unverified. Validated vs pre-enrichment baseline; build 5,720 ok.
+
+### Milestone QC repairs: Intergroup contact (2026-10-20, worker-p1f-9d3f7c2b)
+- Opening restructured per advisor: general theory claim removed; meta-analytic report attribution kept.
+- "typically reduces intergroup prejudice," excerpt restructured to end before source punctuation (no invented comma); same for the 2008 three-mediator excerpt.
+- Mediators grounded: Pettigrew and Tropp 2008 (Wiley PDF opened; abstract quoted verbatim) added for empathy and perspective-taking support; Empathy/Perspective-taking glosses now reference the tested mediators. The original empathy facet line kept as the page's own record, now supported by the opened 2008 text.
+- Validated vs pre-enrichment baseline; build 5,720 ok.
