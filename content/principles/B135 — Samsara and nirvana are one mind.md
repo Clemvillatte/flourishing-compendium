@@ -23,11 +23,11 @@ In the Mulamadhyamakakarika, Nagarjuna challenges the separation of samsara and 
 
 Their reading treats emptiness as lacking an independent essence, not simply not existing ([Garfield and Priest](https://scholarworks.smith.edu/cgi/viewcontent.cgi?article=1021&context=phi_facpubs)). How to understand the claimed sameness remains an interpretive question: Garth Mason compares identity, equivalence and nihilist models, preferring equivalence ([Mason](https://scielo.org.za/scielo.php?script=sci_arttext&pid=S1011-76012014000200006)).
 
-The title is the compendium's shorthand. It should not turn this argument into a promise that changing one's attitude removes pain or makes harmful circumstances acceptable.
+The title is the compendium's shorthand. Neither the verse nor Garfield and Priest's reading mentions a mind: the verse says there is no difference between nirvana and cyclic existence, and what kind of sameness that is remains disputed. The shorthand should not turn the argument into a promise that changing one's attitude removes pain or makes harmful circumstances acceptable.
 
-**Plain words** As a modest practical exercise, ask what you are treating as fixed or unchangeable in a difficulty. You can question that assumption while still taking action about what hurts. This is not a test of whether you have attained nirvana.
+**Plain words** The claim is about where freedom is located. Samsara, on this reading, is this world of things that arise depending on other things, and nirvana is not a second, better world somewhere else. What differs between confusion and clarity is not the ingredients of your life but how they are held. A verse that says there is not even the slightest difference between the two invites you to look for the difference in the seeing, not in the things seen.
 
-*For example:* Imagine a delayed bus making you late. You check the next service and contact the person waiting, rather than deciding the delay has ruined the whole day. The journey still needs sorting out.
+*For example:* Imagine the same commute on two days. The road and the traffic are the same dependent collection of conditions. One day it is an obstruction you resent, another day you barely register it. Nothing outside changed. That is the compendium's application of the verse, not a demonstration that suffering is optional.
 
 ## Sources
 

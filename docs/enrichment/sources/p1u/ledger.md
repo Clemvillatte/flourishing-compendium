@@ -241,6 +241,52 @@ scope error and restoration to the owner.
   No Goethe morphology equivalence or psychology effect certified.
 - Saturation: Craftsmanship research and Morphology already cite P112.
 
+## Takeover QC: milestone-20 owed review discharged (worker-p1u-8a7ab96d, 2026-10-20)
+
+All six owed items re-verified against freshly opened sources before new work:
+
+- B171 PASS: Foulk washing-rice sentence verbatim vs fresh fetch of the
+  Terebess Tenzo1.html page; ingredient/utensil care sentences present;
+  TNH dishwashing account paraphrase faithful ("taking my time with each
+  dish... aware of the dish, the water, and each movement of my hands";
+  "at the same time a means and an end").
+- B184 PASS: "Some habit energies are very difficult to transform." verbatim
+  vs fresh Lions Roar fetch; running-ahead-into-the-future and
+  mindfulness-recognition sentences present; Wood/Neal ERIC abstract
+  supports both context-response sentences (associations "do not shift
+  appreciably with current goal states or infrequent counterhabitual
+  responses").
+- B191 PASS: Plum Village face/jaw/shoulder sentence verbatim vs fresh fetch
+  (Sitting Meditation); Many Smiles abstract re-verified via NCBI eutils
+  (PubMed and Europe PMC crawlers blocked): preregistered, multicentre,
+  n=3,878, 19 countries, mimicry and voluntary facial action "could both
+  amplify and initiate feelings of happiness", pen-in-mouth "less
+  conclusive". Page's scoping holds.
+- B195 PASS with one repair: islands quote verbatim, locators corrected.
+  The chicagomeditation excerpt PDF is now robots-blocked (curl returns an
+  HTML block page); quote re-verified on the ATI Vajira/Story full text,
+  where the islands sentence is Part Two sec. 32 and the four-contemplations
+  paragraph sec. 33 (illness/Ananda at sec. 31). Blockquote locator 2.33 ->
+  2.32, contemplation locator 2.34 -> 2.33; blockquote source now cites the
+  opened ATI page. Dhp 239 verified verbatim ("One by one, little by
+  little...").
+- P112 PASS: "Only where material is employed as media is there expression
+  and art." verbatim at lw.10.69 (PDF re-downloaded via curl; the uio.no
+  PDF is robots-blocked to fetch_url but curl+pypdf works); lw.10.70
+  "acquire a form and order they did not at first possess" supports the
+  page's paraphrase.
+- B135 PASS: MMK 25.20 four lines verbatim vs fresh Smith scholarworks fetch;
+  Garfield/Priest emptiness reading ("emphatically not nonexistence but,
+  rather, interdependent existence"; "to be empty is precisely to have no
+  essence") supports the page; Mason 2014 re-verified: three models named
+  (Identity/Equivalence/Nihilistic) and equivalence preferred.
+
+Prose scope re-checked on all six: no causal mechanisms, promised benefits
+or generalisations beyond the opened sources; compendium applications
+labelled. All six files validate clean after the B195 locator fix. The
+milestone-20 QC debt is discharged; inherited parallels on these pages
+remain unverified parallels, not certifications.
+
 ## Credit-blocked checkpoint and resumption
 
 - Completed in-band: 20 of 30 manifest items, specifically the nine D
