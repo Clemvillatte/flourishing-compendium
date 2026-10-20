@@ -1,6 +1,6 @@
 {
  "batch": "p1zk",
- "revision": 2,
+ "revision": 3,
  "reciprocal": [
   {
    "into": "Sleep deprivation",
@@ -13,6 +13,18 @@
    "link": "BE037",
    "why": "listed for comparison",
    "notes": "Neutralised per advisor QC: the local page records Lieberman's amygdala-reduction finding; comparison held pending source review. Evidence notes in sources/p1zk/BE037.md."
+  },
+  {
+   "into": "Food as medicine",
+   "link": "BE042",
+   "why": "the trial and meta-analytic evidence behind this principle is nutritional psychiatry's core result",
+   "notes": "Concept page already lists BE042 in its principles list; evidence in sources/p1zk/BE042.md (SMILES full text, Firth 2019, Li 2017, all opened)."
+  },
+  {
+   "into": "Nutritional psychiatry",
+   "link": "BE042",
+   "why": "listed for comparison",
+   "notes": "Seed concept (Sarris et al. 2015); BE042's opened evidence (SMILES, Firth 2019) is the field's trial literature. Evidence in sources/p1zk/BE042.md."
   }
  ],
  "inline": []
