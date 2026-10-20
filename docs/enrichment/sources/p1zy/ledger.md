@@ -97,3 +97,7 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 ## Y125 (2026-10-21)
 - Woods HOS 17: 2.28 (p. 172, "173]" head after), 2.29 (p. 177), 2.30 (p. 178), 2.32 (p. 181). Quotes verified except OCR hyphenation ("pro- portion") and Icvara read as Isvara. A first draft dropped the repeated "from" in the 2.30 quote; corrected.
 - The diagnostic grid is the principle's editorial reading and is already labelled so; page confirms. Grid lists differ from Woods: moderation is not an observance (2.32), and "energy" and "grasping" are other renderings of the 2.30 abstentions. Cross-reference to principle 72 untouched. Plain words replicate replaced; example imagined. Self-QC only.
+
+## Y127 (2026-10-21)
+- MN 22 (Sujato) fetched from SuttaCentral; only unelided sentences quoted (the fetch tool elided some lines with "..."). BU 2.3.6 (Muller, SBE 15) taken from the Brhat open-library page and a PDF excerpt of the same translation in search results; the sacred-texts section page was not located (the sbe15031 URL was the wrong section). Disclosed on the page; the Muller line should be re-checked against sacred-texts when convenient.
+- Old text applied neti neti and the raft to "attainments"; neither text says so. Page states the extension and the week-return rule are the principle's. Plain words replicate replaced; example imagined. Self-QC only.
