@@ -356,3 +356,21 @@ principles queue is untouched.
 =======
 - 2026-10-20 (worker-p1m-a4d81c92, FOR SUPERVISOR): B071 QC found a broken citation on the "Book II Appendix B — Psychology Parallels — Key Sources" reference page: its Brewer (2013) link points to https://pmc.ncbi.nlm.nih.gov/articles/PMC3748979/ , which is Virk et al. 2013 (sclerostin antibody bone-repair, J Bone Joint Surg Am). The correct record for Brewer, Elwafi and Davis 2013 "Craving to Quit" (Psychol Addict Behav 27(2):366-379) is PMC3434285 / PMID 22642859. The page is outside p1m ownership; not edited. Details in sources/p1m/B071.md.
 >>>>>>> 5c0a7131 (p1m: B071 done (Dhp 186-187 quote verified raw-fetch; advisor QC round-1 fail repaired; Brewer 2013 parallel opened/cited; wrong PMC record in Book II Appendix B flagged))
+
+- 2026-10-20 (worker-p1s-3f7c9a52, TO SUPERVISOR — p1s milestone QC round 2,
+  bodies PASS, three evidence-pending flags for you):
+  (1) D094's protected fc:reflections still repeat the removed seed claim "the
+  boy behind the mantis" — the opened Legge ch. 20 has a strange bird seizing
+  both, not a boy; my body now matches the text, the reflections do not.
+  (2) D106's protected fc:reflections still say "The quail would die on the
+  Peng's journey" — not in the opened Zhuangzi 1 (the narrator's comment is
+  "This shows the difference between the small and the great"); my body no
+  longer asserts it, the reflections do. (3) D106's philosophy-parallel label
+  "become who you are" (Nietzsche, Ecce Homo) is not verbatim in the opened
+  Ecce Homo (Gutenberg pg52190; subtitle "How One Becomes What One Is") — the
+  parallels section is protected so I did not edit it; it needs your scoped
+  exception or an owner rule. Also FYI: D094's seed body cited a "man polishing
+  the city wall" anecdote (Zhuangzi 19) that I could not locate in the opened
+  Legge edition — dropped, evidence and limits in sources/p1s/ledger.md. All
+  five p1s items so far (D025, D094, D103, D106, B064 light-check) validate ok;
+  B064 counts toward my 30 with rewrite credit to worker-p1p-27eaf6bd.

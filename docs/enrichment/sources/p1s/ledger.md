@@ -48,9 +48,9 @@ source; anything not opened is recorded as inherited and unverified.
   fragments "things bring evil on one another" and "guarding my person, and
   forgot myself" verified the same way.
 - REMOVED: the seed body's second anecdote ("the man polishing the city wall
-  drops the bowl in his hand", cited Zhuangzi 19) does not exist in the opened
-  Legge Zhuangzi (no "bowl"/"polish" passage found near ch. 19/20; full-text
-  search). Dropped rather than kept unverified; noted here for the supervisor.
+  drops the bowl in his hand", cited Zhuangzi 19) was not located or verified
+  in the opened Legge edition (full-text search of the extracted PDF found no
+  such passage). Dropped rather than kept unverified; flagged for the supervisor.
 - Inherited parallels (Siegrist 1996, Kasser and Ryan 2001, Fromm, Pascal,
   Marcus Aurelius): unopened, kept as flagged attributions without new claims.
   The old Siegrist tail ("predicts cardiovascular and depressive outcomes")
@@ -94,12 +94,44 @@ source; anything not opened is recorded as inherited and unverified.
 ### B064 — Drop preferences: the Great Way is not difficult (2026-10-20, light check)
 - SKIP-AHEAD item: already enriched by worker-p1p-27eaf6bd (cross-band incident,
   content kept pending supervisor disposition; my state marks it done with this
-  note and it does not count toward my 30 — it is in p1s's manifest, so I
-  re-verified rather than rewrote).
+  manifest, so I re-verified rather than rewrote; it counts toward p1s's 30
+  manifest items, with rewrite credit retained for worker-p1p-27eaf6bd).
 - Light check per the skip-ahead rule: validator ok (warning: no Related
   concepts section, pre-existing for principle pages); plain words re-derives
   (keeps the liking, drops the verdict); both blockquotes re-verified verbatim
   against freshly opened sources this session: Xinxin Ming opening (Clarke,
   azinelibrary.org PDF, downloaded and text-extracted) and Dhammapada 83
   (Buddharakkhita, Access to Insight HTML, fetched and searched).
-- Inherited parallels (Dugas 1998, Hayes 2011): unopened, bare attributions.
+- Inherited parallels (Dugas 1998, Hayes 2011): unopened; Dugas claim tail
+  ("rigidity about outcomes predicts distress") trimmed to a bare attribution
+  per the advisor's milestone instruction, wikilink kept. Hayes already bare.
+
+## Milestone QC (item 5, 2026-10-20): FAIL -> repairs applied
+- Advisor milestone QC on D094/D103/D106 (B064 light-check included in scope):
+  FAIL on first review — D094 unsupported pursuit-narrows-attention mechanism +
+  "quietly" x3 + aphoristic closer; D103 "tiptoe is not standing" contradicted
+  the quoted "not stand firm", "buys nothing"/"never holding anything up"
+  universals, backpacking example asserted an outcome; D106 asserted the
+  narrator's non-judgment of the quail (the text says "This shows the
+  difference between the small and the great") and treated the quail's
+  self-assessment as endorsement. All three repaired with the advisor's exact
+  replacements; D094 Siegrist and B064 Dugas claim tails trimmed to bare
+  attributions; D106 boat/water analogy removed from body and Sources line.
+- Inherited quotations checked this session against opened sources: D103's
+  Thoreau "beware of all enterprises that require new clothes" verified
+  verbatim in Gutenberg Walden
+  (https://www.gutenberg.org/cache/epub/205/pg205.txt). D106's Nietzsche label
+  "become who you are" was NOT found verbatim in Gutenberg Ecce Homo
+  (https://www.gutenberg.org/cache/epub/52190/pg52190.txt), whose subtitle is
+  "How One Becomes What One Is"; the parallels section is protected, so this is
+  flagged to the supervisor rather than edited.
+- SUPERVISOR FLAGS (recorded in my TASKBOARD worker note): (1) D094 and D106
+  protected reflections repeat the removed unsourced seed claims (boy behind
+  the mantis; Peng's journey would kill the quail) — scoped exception needed;
+  (2) D106 Nietzsche parallels label is a paraphrase, not verbatim Ecce Homo;
+  (3) two unsourced seed anecdotes were dropped (D094 city-wall, D094 old
+  "wrongly" quail reading in D106).
+- Proposals repaired: D079 link title corrected to its real filename ("D079 —
+  Question conventional measures of success"); Burnout and D105 why clauses
+  grounded in the opened pages (Burnout defines itself via effort-reward
+  imbalance, Siegrist 1996; D105 discusses the wren and mole).

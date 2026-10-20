@@ -37,7 +37,7 @@ Take one preference you defend strongly, and check its size. It is a liking: it 
 
 ## Psychology parallels
 
-- **[[Intolerance of ambiguity|Intolerance of ambiguity]]**, rigidity about outcomes predicts distress (Dugas et al., 1998)
+- **[[Intolerance of ambiguity|Intolerance of ambiguity]]** (Dugas et al., 1998)
 - **[[Acceptance|Acceptance processes]]** (Hayes et al., 2011)
 
 ## Philosophy parallels

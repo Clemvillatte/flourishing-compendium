@@ -16,12 +16,12 @@ In Zhuangzi's story, each creature is absorbed in the gain just in front of it. 
 
 > "a preying mantis raised its feelers, and pounced on the cicada, in its eagerness for its prey, (also) forgetting (its care for) its body" (Zhuangzi 20, [Legge](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
 
-The compendium takes the chase as the reason not to exhaust yourself for what you do not need: the pursuit narrows attention to the object, and the costs land on the pursuer.
+The compendium uses this story as a prompt to examine what a pursuit leaves out of view.
 
 **Plain words**
-Notice what you are chasing and what the chase is quietly costing you. The thing in front of you is not the only thing in the picture; there is a wider view that the chase hides. Ask whether the prize would still be worth it if you counted everything the pursuit is quietly taking.
+Before accepting a new commitment, write down what you hope to gain and what you would give up. Would you still choose it after counting the missed time or added expense? What would you need to protect if you went ahead?
 
-*For example:* Imagine grinding for a year-end bonus while your health and a friendship quietly deteriorate. The bonus is real, but the chase is not free, and the bill arrives later.
+*For example:* Imagine being offered a bonus for extra evening shifts. You check which planned visits to a friend you would have to cancel before deciding.
 
 ## Sources
 
@@ -29,7 +29,7 @@ Notice what you are chasing and what the chase is quietly costing you. The thing
 
 ## Psychology parallels
 
-- **[[Effort-reward imbalance|Effort-reward imbalance]]**, high effort for low reward predicts cardiovascular and depressive outcomes (Siegrist, 1996)
+- **[[Effort-reward imbalance|Effort-reward imbalance]]** (Siegrist, 1996)
 - **[[Materialism|Materialism and well-being]]** (Kasser, 2002)
 
 ## Philosophy parallels

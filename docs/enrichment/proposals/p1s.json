@@ -7,25 +7,15 @@
    "why": "Both principles draw on Daodejing chapter 12: D024 takes its warning about the five colours and five notes overloading the senses, and D025 takes the sage's answer, satisfying the belly rather than the eyes."
   },
   {
-   "into": "Need little \u2014 one branch, one belly of water",
-   "link": "Feed the belly, not the eye",
-   "why": "D105's wren and mole take only what fills the belly, and D025 names the same contrast between need and appetite from Daodejing chapter 12."
-  },
-  {
-   "into": "Burnout",
-   "link": "D094 \u2014 Don't exhaust yourself for what you don't need",
-   "why": "D094's Zhuangzi chase story is about pursuing what is not needed until the pursuit itself harms the pursuer, the state of unrelieved effort that this concept studies."
-  },
-  {
    "into": "Travel light: drop the excess baggage",
    "link": "D101 \u2014 Drop pretense \u2014 stop standing on tiptoe",
    "why": "Both principles come from Daodejing chapter 24's tiptoe passage: D101 takes the bodily image of standing on tiptoe as pretense, and D103 takes the same passage's self-display and self-assertion as weight carried for show."
   },
   {
    "into": "Live at your own scale",
-   "link": "D079 \u2014 Laugh with, don't compete with",
-   "why": "Both principles work from Zhuangzi's opening scene of small creatures laughing at the Peng's flight: D079 takes the laughter itself, and D106 takes the scale difference the scene is used to point out."
+   "link": "D079 \u2014 Question conventional measures of success",
+   "why": "Both principles work from Zhuangzi's opening scene of small birds laughing at the Peng's flight: D079 takes the small judging the large, and D106 takes the scale difference the narrator points out."
   }
  ],
- "notes": "p1s proposals (worker-p1s-3f7c9a52, 2026-10-20). D025 saturation check: D024 and D105 are the natural reciprocal targets (rg check: neither page links D025; D025 links neither). Experiential purchases and Intrinsic versus extrinsic goals already cite D025 in their Cited-in lists.+ D094: Burnout reciprocal proposed (page cites D138/D158 but not D094).+ D106: D079 reciprocal proposed (same Zhuangzi ch. 1 Peng scene)."
+ "notes": "p1s proposals (worker-p1s-3f7c9a52, 2026-10-20). D025: D024 and D105 were the initial reciprocal targets; D105 removed at milestone QC round 2 (clause grounded only in a word search, page not substantively read). D103: D101 reciprocal (same DDJ 24 tiptoe passage). D106: D079 reciprocal (same Zhuangzi ch. 1 Peng scene; link title verified against the actual filename). Burnout proposal removed at round 2 (equivalence not established from an unverified seed definition). Experiential purchases and Intrinsic versus extrinsic goals already cite D025; Social comparison and The big-fish-little-pond effect already cite D106."
 }

@@ -12,16 +12,16 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 103** — Travel light: drop the excess baggage
 
-Chapter 24 runs through the straining postures: standing on tiptoe, stretching the legs, displaying yourself, asserting your own views, vaunting yourself, self-conceit. None of them achieve what they aim at, and the Tao, Laozi says, sees them the way everyone sees leftovers or a tumour. The compendium carries the image as excess baggage: weight carried for display that buys nothing and costs energy to haul. (DDJ 24.)
+Chapter 24 places self-display, self-assertion, boasting and self-conceit alongside unstable postures: standing on tiptoe and stretching the legs. Legge's translation compares these habits to remnants of food or a tumour on the body. (DDJ 24.)
 
 > "He who stands on his tiptoes does not stand firm; he who stretches his legs does not walk (easily). (So), he who displays himself does not shine; he who asserts his own views is not distinguished; he who vaunts himself does not find his merit acknowledged; he who is self-conceited has no superiority allowed to him." (DDJ 24, [Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
-The chapter's own comparison is physical: standing on tiptoe is not standing. The effort goes into the posture instead of the walk.
+The compendium's luggage image applies this warning to the effort spent maintaining an impressive image.
 
 **Plain words**
-Look at what you are carrying for the sake of how it reads to other people. Pick one piece of it, a badge, a job title, a rehearsed story about yourself, and imagine setting it down for a week. If the day goes on the same without it, it was never holding anything up, and you were paying to carry it.
+Think of a conversation in which you feel pressure to mention an achievement. What are you hoping the other person will learn? Consider whether that detail helps the conversation and whether you could leave it out.
 
-*For example:* Backpacking wisdom: everything you pack 'just in case' you end up hating at kilometer ten. The trip improves the moment you unpack it.
+*For example:* Imagine meeting a new colleague and wanting to mention an award unrelated to your shared task. You introduce yourself and ask about the project.
 
 ## Sources
 
