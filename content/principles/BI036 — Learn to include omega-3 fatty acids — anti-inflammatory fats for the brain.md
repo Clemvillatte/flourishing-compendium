@@ -12,14 +12,12 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BI — Biophysi
 ---
 > **Principle 36** — Learn to include omega-3 fatty acids: anti-inflammatory fats for the brain
 
-Omega-3 fatty acids are a class of dietary fats. On depression, the opened evidence is one hypothesis-testing meta-analysis of randomised trials. Hallahan and colleagues' 2016 review found a benefit for EPA-predominant formulations among participants already diagnosed with depression, none for DHA-predominant ones, and no preventive effect among participants without a depression diagnosis:
+Omega-3 fatty acids are a class of dietary fats. A hypothesis-testing meta-analysis of randomised trials examined omega-3 formulations and depression. Hallahan and colleagues' 2016 review found a benefit for EPA-predominant formulations among participants already diagnosed with depression, none for DHA-predominant ones, and no preventive effect among participants without a depression diagnosis:
 
 > "Among participants with diagnosed depression, eicosapentaenoic acid (EPA)-predominant formulations (>50% EPA) demonstrated clinical benefits compared with placebo (Hedge's G = 0.61, P<0.001) whereas docosahexaenoic acid (DHA)-predominant formulations (>50% DHA) did not. EPA failed to prevent depressive symptoms among populations not diagnosed for depression." (Hallahan et al., 2016, [British Journal of Psychiatry 209(3), PMC full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC9406129/))
 
-The review did not find a benefit for DHA-predominant formulations, and did not find a preventive effect among participants without a depression diagnosis.
-
 **Plain words**
-The trials that found any effect studied people already diagnosed with depression, and the benefit appeared for one kind of omega-3 (EPA-heavy) products. That is the size of the claim: a possible add-on in a treatment plan, not a cure and not a preventive for people without a diagnosis.
+This review found evidence of benefit for EPA-heavy formulations in participants diagnosed with depression. It did not find evidence of prevention in participants without that diagnosis. Ask your clinician whether these findings are relevant to your care.
 
 *For example (imagined):* A psychiatrist mentions omega-3s alongside everything else on the plan. The evidence said "helps some, in this specific way." That was enough for the list.
 

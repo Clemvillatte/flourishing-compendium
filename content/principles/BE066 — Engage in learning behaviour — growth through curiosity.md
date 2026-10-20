@@ -23,7 +23,7 @@ Curiosity needs somewhere to go. Give one thing you do not know a regular slot: 
 
 ## Psychology parallels
 
-- **Adult cognitive plasticity** (Lövdén et al., 2010 — the mismatch thesis above; opened and cited)
+- **Adult cognitive plasticity** (Lövdén et al., 2010)
 - **Cognitive reserve** (Stern, 2013)
 
 ## Philosophy parallels
@@ -35,7 +35,6 @@ Curiosity needs somewhere to go. Give one thing you do not know a regular slot: 
 ## Practice
 
 - Read regularly, take a course, learn a new skill, follow one curiosity at a time.
-- Vary the material, the method, and the setting: the mismatch that drives plasticity comes from the request changing, not from more of the same request.
 
 ## Related concepts
 
