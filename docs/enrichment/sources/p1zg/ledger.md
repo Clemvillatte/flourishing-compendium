@@ -87,3 +87,7 @@
 ## R110
 - SEP 'The Capability Approach' fetched (6 quotations verified; intro, sections 2.2, 2.3, 3.1).
 - Limits: Sen 1999, Nussbaum 2000/2011 not opened. Statement's 'life they have reason to value' is qualified by SEP (empirical applications need not commit to expanding valuable capabilities); body says so. Example hypothetical.
+
+## R119
+- Naess 1995 'Self-realization: an ecological approach to being in the world' (Sessions ed., Deep Ecology for the 21st Century, pp.225-239; lecture Murdoch Univ 12 Mar 1986) opened in full via scispace scan (fetch_url); 8 quotations checked by eye against scan text (OCR spacing normalised).
+- Limits: Naess 1989 (Ecology, Community and Lifestyle) and 2008 Selected Works not opened. Statement 'not a loss but an enrichment' is the owner's gloss; Naess's own wording quoted (p.235). Source uses the term 'Lapp'; body says Sami man. Example hypothetical.
