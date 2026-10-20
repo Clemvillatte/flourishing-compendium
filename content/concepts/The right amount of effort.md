@@ -7,20 +7,20 @@ file: "The right amount of effort"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-Aristotle's account of moral virtue in the Nicomachean Ethics rests on a measure rather than a rule. Passions and actions, he argues, can each be done too much, too little, or well, and virtue is the trained disposition to hit the amount that fits the situation, the one a person of practical wisdom would choose. The right amount is relative to the person and the case rather than a fixed midpoint anyone can compute in advance.
+In the Nicomachean Ethics II.6, Aristotle describes moral virtue as a state of character concerned with choice. It aims at a mean relative to the person, determined by a rational principle and the judgement of someone with practical wisdom. Timing, object, motive and manner all matter to what counts as an appropriate response.
 
-> "To feel them at the right times, with reference to the right objects, towards the right people, with the right motive, and in the right way, is what is both intermediate and best, and this is characteristic of virtue." (Aristotle, Nicomachean Ethics II.6, [Ross translation, MIT Classics](http://classics.mit.edu/Aristotle/nicomachaen.2.ii.html))
+> "but to feel them at the right times, with reference to the right objects, towards the right people, with the right motive, and in the right way, is what is both intermediate and best, and this is characteristic of virtue." (Aristotle, Nicomachean Ethics II.6, [W. D. Ross translation, MIT Classics](http://classics.mit.edu/Aristotle/nicomachaen.2.ii.html))
 
 ### A measure that moves with the situation
 
-His worked example is food and training: if ten pounds are too much for a particular person to eat and two too little, the trainer will not order six pounds; the right amount depends on the person, and a beginner and Milo the wrestler need different prescriptions. The same holds for effort itself. What counts as enough varies with the task, one's condition and one's experience, so the standard is practical judgement rather than arithmetic.
+His worked example is food and training. If ten pounds are too much for a particular person to eat and two too little, six does not automatically follow as the right prescription; an amount too small for Milo may be too large for a beginner. The right amount depends on the person and the case, and practical judgement settles it, not arithmetic.
 
-Aristotle adds a limit worth keeping: some acts, such as theft or adultery, admit no right amount at all. The mean governs passions and actions that can be done well or badly, and it is not a licence to moderate everything.
+The doctrine has a boundary. Some acts, such as theft or adultery, admit no right amount at all; Aristotle lists them as bad in themselves, with no mean, excess or deficiency to balance.
 
 ## Related concepts
 
-- [[Right effort]] — the Buddhist teaching on effortful action, a cousin discipline with a different logic of the right dose
-- [[Virtue]] — the state of character the mean is meant to build
+- [[Right effort]]
+- [[Virtue]] — moral virtue, which this chapter characterizes as a mean between excess and defect
 
 ## Sources
 
