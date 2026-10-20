@@ -12,7 +12,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 48** — Aim at the third kind, which is joy
 
-Spinoza's third kind of knowledge is a technical notion, not ordinary insight. He names it intuition and defines it: it "proceeds from an adequate idea of the absolute essence of certain attributes of God to the adequate knowledge of the essence of things" ([Ethics II, P40, note II](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm)). Of this kind he says the highest virtue of the mind "is to understand things by the third kind of knowledge" ([Ethics V, P25](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm)), and that "from this third kind of knowledge arises the highest possible mental acquiescence" ([Ethics V, P27](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm)). The passages state the pairing in one direction: this knowledge, where reached, brings the mind's highest satisfaction. They do not license the reverse inference that any moment of satisfaction marks this knowledge.
+Spinoza gives the third kind of knowledge a specific philosophical definition ([Ethics II, P40, note II](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm)): it "proceeds from an adequate idea of the absolute essence of certain attributes of God to the adequate knowledge of the essence of things." Of this kind he says the highest virtue of the mind "is to understand things by the third kind of knowledge" ([Ethics V, P25](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm)), and that "from this third kind of knowledge arises the highest possible mental acquiescence" ([Ethics V, P27](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm)). The passages state the pairing in one direction: this knowledge, where reached, brings the mind's highest satisfaction ([Ethics V, P27](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm)). They do not license the reverse inference that any moment of satisfaction marks this knowledge ([Ethics V, P27](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm)).
 
 > This kind of knowledge proceeds from an adequate idea of the absolute essence of certain attributes of God to the adequate knowledge of the essence of things.
 >
@@ -30,7 +30,7 @@ Spinoza's third kind of knowledge is a technical notion, not ordinary insight. H
 
 ### Plain words
 
-Third-kind knowledge, in Spinoza, is a technical thing: intuition that moves from an adequate idea of God's attributes to the essence of something. It is not the everyday click of suddenly getting a topic. The propositions say it brings the mind's highest acquiescence; they do not say every satisfying understanding is it. For an exercise, take a moment of strong clarity and ask what it actually moved from and to.
+Before calling an insight "third-kind knowledge," compare it with Spinoza's definition: does it proceed from an adequate idea of God's attributes to knowledge of a thing's essence ([Ethics II, P40, note II](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm))? Feeling satisfied, by itself, does not establish that this definition has been met ([Ethics V, P27](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm)).
 
 For example: Someone reading these propositions might want to claim a recent insight as this third kind. The exercise is to check the claim against the definition — from what adequate idea, to what essence — rather than against how satisfying the insight felt. (An invented exercise.)
 ## Psychology parallels
