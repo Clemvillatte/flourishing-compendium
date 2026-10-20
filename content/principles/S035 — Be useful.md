@@ -31,7 +31,7 @@ Start with a manageable need: a shared chore, a question someone is struggling w
 
 ## Psychology parallels
 
-- **[[Mattering|Mattering research]]**, the sense that one's actions matter predicts well-being (George and Park, 2016)
+- **[[Mattering|Mattering research]]**, the sense that one's life matters is associated with well-being (Paradisi, Matera and Nerini, 2024)
 - **Generativity and well-being** (McAdams and de St. Aubin, 1992)
 
 ## Philosophy parallels
