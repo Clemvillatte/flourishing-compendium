@@ -19,7 +19,7 @@ The principle comes from the experimental analysis of behavior. Ferster and Skin
 The variable-ratio schedule is the one this principle turns on. In the book's definition, "the reinforcement occurs after a given number of responses, the number varying unpredictably from reinforcement to reinforcement," and "[l]ike FR it arranges for differential reinforcement of high rates" (Ch. 7). The slot machine is this design in hardware — the compendium's everyday example of a variable-ratio schedule.
 
 **Plain words**
-Habits live on reinforcement schedules. Intermittent reinforcement means not every response is followed by reward; it comes in fixed and variable arrangements. In the variable-ratio arrangement, the number of responses required varies unpredictably, and the schedule reinforces high, steady responding.
+Habits live on reinforcement schedules. Intermittent reinforcement means not every response is followed by reward; it comes in fixed and variable arrangements. In the variable-ratio arrangement, the number of responses required varies unpredictably, and the schedule reinforces high rates of responding.
 
 **For example**
 Imagine a machine that pays out after an unpredictable number of pulls: the schedule itself is the design point, not the size of the payout.

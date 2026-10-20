@@ -36,9 +36,9 @@ As an everyday illustration: choosing to check headlines twice a day at set time
 
 ## Philosophy parallels
 
-- **[[The examined life|The examined life]] includes examined news** (Socrates, Apology)
-- **[[Guarding the senses|Guarding the senses]]** (Buddhism, Dhammapada)
-- **[[Simplicity|Simplicity and information frugality]]** (Daoism, Daodejing 48) — "He who devotes himself to learning (seeks) from day to day to increase (his knowledge); he who devotes himself to the Tao (seeks) from day to day to diminish (his doing)" (Legge translation)
+- **[[The examined life|The examined life]] includes examined news** (Socrates, Apology) — "the life which is unexamined is not worth living" ([MIT Classics](https://classics.mit.edu/Plato/apology.html))
+- **[[Guarding the senses|Guarding the senses]]** (Buddhism, Dhammapada) — "Like a well-guarded frontier fort, with defences within and without, so let a man guard himself" (Müller translation, [Gutenberg](https://www.gutenberg.org/files/2017/2017-h/2017-h.htm))
+- **[[Simplicity|Simplicity and information frugality]]** (Daoism, Daodejing 48) — "He who devotes himself to learning (seeks) from day to day to increase (his knowledge); he who devotes himself to the Tao (seeks) from day to day to diminish (his doing)" (Legge translation, [Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
 Cross-tradition parallels above are the compendium's analogies between the research findings and older accounts of examined living, sense-restraint, and diminishing; they are not claims of equivalent mechanisms.
 

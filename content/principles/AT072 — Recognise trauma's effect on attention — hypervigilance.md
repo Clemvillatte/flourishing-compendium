@@ -19,7 +19,7 @@ The clinical literature places hypervigilance at the center of post-traumatic at
 The same guidance describes how hyperarousal affects response: it "can interfere with an individual's ability to take the necessary time to assess and appropriately respond to specific input, such as loud noises or sudden movements," and "can produce overreactions to situations perceived as dangerous when, in fact, the circumstances are safe." The compendium's reading: this is a nervous system doing its protective job too well, long after the danger — and it is the reason this principle's Practice section points to trauma-specific treatment rather than ordinary attention training.
 
 **Plain words**
-Trauma can re-tune attention toward scanning and startle: a guard that never got relieved. That is not distraction, and it is a matter for care, not criticism.
+Trauma can re-tune attention toward scanning and startle: a guard that never got relieved. These difficulties may reflect a trauma response rather than ordinary distraction, and they are a matter for care.
 
 **For example**
 Imagine a veteran who sits facing the door and struggles to follow the conversation: that could be threat-scanning attention rather than rudeness. It is a matter for a clinician.
@@ -40,7 +40,7 @@ Imagine a veteran who sits facing the door and struggles to follow the conversat
 - **[[Post-traumatic growth|Post-traumatic growth]]** (Tedeschi & Calhoun, 1996)
 - **[[The dark night|The dark night of the soul]]** (St John of the Cross)
 
-Cross-tradition parallels above are the compendium's analogies between the clinical picture and older accounts of suffering and transformation; they are not claims of equivalent mechanisms, and the Tedeschi & Calhoun (1996) citation is inherited and unverified this session (see the p1zr ledger).
+Cross-tradition parallels above are the compendium's analogies between the clinical picture and older accounts of suffering and transformation; they are not claims of equivalent mechanisms.
 
 ## Practice
 

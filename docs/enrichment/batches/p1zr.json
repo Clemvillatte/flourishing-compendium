@@ -24,10 +24,13 @@
  "in_progress": "BE027",
  "flagged": {
   "AF059": "Reopened for QC: takeover QC round 3 (advisor): Practice outcome promise replaced with source-bounded guidance",
-  "AF063": "Reopened for QC: takeover QC round 4 (advisor): Plain-words staging + attention-training mechanism overstatement + For example construction + introduction framing accuracy"
+  "AF063": "Reopened for QC: takeover QC round 4 (advisor): Plain-words staging + attention-training mechanism overstatement + For example construction + introduction framing accuracy",
+  "AT068": "inherited-unverified attribution: Weil, Waiting for God (The discipline of attention) — philosophy-parallel bullet not verified against an opened source this session; supervisor review requested",
+  "AT072": "inherited-unverified attributions: Nietzsche (The Gay Science), Tedeschi & Calhoun 1996, St John of the Cross (The dark night) — philosophy-parallel bullets not verified against opened sources this session; supervisor review requested",
+  "BE008": "inherited-unverified attributions: Buddhism (The middle way), Heraclitus (fragments) — philosophy-parallel bullets not verified against opened sources this session; supervisor review requested"
  },
  "missing_concepts": [],
  "sources_checked": 5,
- "updated": "2026-10-20T13:10:52+00:00",
+ "updated": "2026-10-20T13:23:01+00:00",
  "band_done": false
 }

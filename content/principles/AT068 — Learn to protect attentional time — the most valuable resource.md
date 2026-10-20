@@ -35,8 +35,8 @@ As an everyday illustration: "I have all Saturday to write" — and Saturday pro
 
 ## Philosophy parallels
 
-- **[[The examined life|The examined life requires protected time]]** (Socrates, Apology)
-- **[[Simplicity|Simplicity and focus]]** (Daoism, Daodejing 19)
+- **[[The examined life|The examined life requires protected time]]** (Socrates, Apology) — "the life which is unexamined is not worth living" ([MIT Classics](https://classics.mit.edu/Plato/apology.html))
+- **[[Simplicity|Simplicity and focus]]** (Daoism, Daodejing 19) — "simple views, and courses plain and true / Would selfish ends and many lusts eschew" (Legge translation, [Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 - **[[The discipline of attention|The discipline of attention]]** (Simone Weil, Waiting for God)
 
 Cross-tradition parallels above are the compendium's analogies between the study findings and older accounts of examined living, simplicity, and attention; they are not claims of equivalent mechanisms.
