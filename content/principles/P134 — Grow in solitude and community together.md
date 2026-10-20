@@ -12,18 +12,33 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 134** — Grow in solitude and community together
 
-The self is social, but it also needs the pause of solitude to consolidate: community and withdrawal are both phases of growth. Schedule both deliberately.
+Dewey's Democracy and Education is direct about the social half: "What one is as a person is what one is as associated with others, in a free give and take of intercourse." Social efficiency, he writes, "means neither more nor less than capacity to share in a give and take of experience" ([Democracy and Education, 1916](https://www.gutenberg.org/ebooks/852), Ch. 20).
 
-(Dewey, Democracy and Education, 1916; James, The Varieties of Religious Experience, 1902.)
+The same book defends the other half in Emerson's words. On respect for immaturity, Dewey writes: "The true principle of respect for immaturity cannot be better put than in the words of Emerson: 'Respect the child. Be not too much his parent. Trespass not on his solitude.'" (Ch. 4).
 
-**Plain words** The hermit and the party animal are both running half an engine. The self is social, but it needs the pause of solitude to consolidate — schedule both deliberately.
+> Respect the child. Be not too much his parent. Trespass not on his solitude.
+>
+> (Emerson, quoted in Dewey, Democracy and Education, 1916, Ch. 4)
 
-*For example:* The introvert who takes the lunch walk alone, then joins the evening dinner genuinely — that pause is what makes the presence real. Both halves, on purpose, on the calendar.
+James gives solitude its own standing in his working definition of religion: "the feelings, acts, and experiences of individual men in their solitude, so far as they apprehend themselves to stand in relation to whatever they may consider the divine" ([The Varieties, 1902](https://www.gutenberg.org/cache/epub/621/pg621.txt), Lecture II).
+
+The compendium's application: both phases are phases of growth, and a life can be scheduled to contain both.
+
+**Plain words**
+Dewey makes the person social to the root, and the same book tells adults not to trespass on the child's solitude. James counts experiences in solitude among the real ones. The two claims are not rivals; they name two phases. The compendium's exercise: look at this week's calendar and mark which hours are give and take and which are solitude, then check whether each phase has a place.
+
+*For example:*
+Consider the introvert who takes the lunch walk alone and joins the evening dinner. On the compendium's reading the walk is the untrespassed solitude and the dinner is the give and take of intercourse, and the schedule is what makes both real.
+
+## Sources
+
+- [Democracy and Education (Dewey, 1916), Project Gutenberg](https://www.gutenberg.org/ebooks/852) — Chs. 4 and 20
+- [The Varieties of Religious Experience (James, 1902), Project Gutenberg](https://www.gutenberg.org/cache/epub/621/pg621.txt) — Lecture II
 
 ## Psychology parallels
 
-- **[[Beneficial solitude research|Beneficial solitude research]]** (Nguyen et al., 2018)
-- **[[The capacity to be alone|The capacity to be alone]]** (Winnicott, 1958)
+- **[[Beneficial solitude research|Beneficial solitude research]]**
+- **[[The capacity to be alone|The capacity to be alone]]**
 
 ## Philosophy parallels
 
