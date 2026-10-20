@@ -12,11 +12,30 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AT — Attentio
 ---
 > **Principle 20** — Recognise attentional bias: anxiety and depression distort what you notice
 
-Anxiety biases attention toward threat; depression biases attention toward negative self-referential information and away from positive. These biases are automatic and maintain emotional disorders. Recognising them is the first step to correcting them.
+A meta-analysis of 172 studies examined threat-related attentional bias in anxiety ([Bar-Haim et al., 2007](https://pubmed.ncbi.nlm.nih.gov/17201568/)). Its summary finding:
 
-**Plain words** Mood bends the beam: anxiety aims it at threats, depression aims it at everything wrong with you. This isn't insight — it's the filter, misreporting as a worldview. Knowing the bias is real is half the escape.
+> "Overall, the results show that the bias is reliably demonstrated with different experimental paradigms and under a variety of experimental conditions, but that it is only an effect size of d = 0.45."
+>
+> (Bar-Haim et al., 2007, Psychological Bulletin 133(1), meta-analysis of 172 studies)
 
-*For example:* The anxious parent reads a normal cough as a catastrophe at 2 a.m. and a nuisance at noon. Same cough. The beam was aimed by mood, not by the cough.
+The same abstract reports the bias across "individuals with different clinical disorders, high-anxious nonclinical individuals, anxious children and adults", that "a significant bias is also observed with stimuli outside awareness", and that it "is not observed in nonanxious individuals" ([Bar-Haim et al., 2007, abstract](https://pubmed.ncbi.nlm.nih.gov/17201568/)). For depression, a review of Beck's cognitive model lists biased attention among the model's elements:
+
+> "In the 40 years since Aaron Beck first proposed his cognitive model of depression, the elements of this model--biased attention, biased processing, biased thoughts and rumination, biased memory, and dysfunctional attitudes and schemas--have been consistently linked with the onset and maintenance of depression."
+>
+> (Disner et al., 2011, Nature Reviews Neuroscience 12(8), [abstract](https://pubmed.ncbi.nlm.nih.gov/21731066/))
+
+The compendium uses these findings to suggest examining what has drawn your attention and what else is present. Treat this as an exercise in checking an interpretation, without assuming that every anxious or depressed person shows the same pattern.
+
+**Plain words**
+For this exercise, notice what keeps drawing your attention. What else is present in the situation? Describe what you observed separately from what you think it means, then consider whether your interpretation needs revising.
+
+*For example:* Imagine repeatedly returning to one worrying sentence in an email. For this exercise, read the whole message and note what else it says before deciding how to respond.
+
+## Sources
+
+- [Bar-Haim et al., 2007, Psychological Bulletin 133(1):1-24 (abstract, PMID 17201568)](https://pubmed.ncbi.nlm.nih.gov/17201568/)
+- [Disner et al., 2011, Nature Reviews Neuroscience 12(8):467-477 (abstract, PMID 21731066)](https://pubmed.ncbi.nlm.nih.gov/21731066/)
+
 ## Psychology parallels
 
 - **Threat attention bias in anxiety**, anxious individuals attend preferentially to threatening stimuli (Bar-Haim et al., 2007; Van Bockstaele et al., 2014)
@@ -31,4 +50,4 @@ Anxiety biases attention toward threat; depression biases attention toward negat
 
 ## Practice
 
-- When anxious or depressed, recognise that your attention is biased. What feels like "reality" is a filtered subset. Deliberately check: "am I attending only to threat/negative? What am I missing?"
+As a compendium exercise, try the check with one current message or event. Record what caught your attention and what you noticed on a second look.
