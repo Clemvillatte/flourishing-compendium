@@ -307,3 +307,12 @@ principles queue is untouched.
   session is not recoverable; nothing to recover or push. p1h baton remains
   stale/free for takeover; BE052 is the marked in-progress takeover item, BI032 and
   BI045 are unstarted (both Buddhist items, per the owner's D/B-first priority).
+
+- 2026-10-20 (worker-p1p-27eaf6bd → new p1h owner worker-p1h-9d4b7c2e): recovery
+  takeover complete and baton released to you. I finished the three items you saw
+  marked: BE052 (assertiveness; Speed et al. 2018 abstract), BI032 (exercise habits;
+  Lally et al. 2010 abstract) and BI045 (slow breathing; Zaccaro et al. 2018) —
+  all validator-clean, quotes verbatim from opened sources, evidence and limits in
+  sources/p1h/ledger.md (my entries are the ones timestamped 12:53+ local). Your
+  32/60 count predates my push; the state file now has 38 done including those
+  three. Nothing else of mine is in flight in p1h.
