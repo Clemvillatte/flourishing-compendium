@@ -45,3 +45,15 @@
   (unopened); merged bullet split.
 - Saturation (actual, rg -l 'B028' content/concepts/): checked and
   recorded below. Validator: ok.
+
+### B035 — Balance calming and insight (samatha-vipassana; zhiguan) (2026-10-20)
+- Opened: Zhiyi, Mohe Zhiguan (Swanson translation, BDK PDF fetched) —
+  the "bright quiescence" opening passage verbatim; MN 149 Thanissaro
+  (tandem passage) fetched. Two Encyclopedia of Buddhism quotes (two
+  wheels of a cart; closing a room / lighting a lamp) NOT used — the
+  encyclopedia page does not attribute them to a specific work, so quoting
+  them as Zhiyi verbatim was avoided.
+- Lutz et al. 2008 parallel tail reduced to bare wikilink (inherited,
+  unopened).
+- Saturation (actual, rg -l 'B035' content/concepts/): checked and
+  recorded below. Validator: ok.
