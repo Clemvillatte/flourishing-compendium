@@ -3,12 +3,12 @@
  "done": [
   "K008"
  ],
- "in_progress": "K001",
+ "in_progress": "K029",
  "flagged": {
   "K001": "Reopened for QC: source-access-blocked: primary Yale 1990 translation not independently openable (Google Books TOC only, page-3 robots-blocked); body relies on opened secondary quotes (Shields, SEP, Mitsuhara); supervisor disposition requested"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T05:47:51+00:00",
+ "updated": "2026-10-20T05:48:48+00:00",
  "band_done": false
 }
