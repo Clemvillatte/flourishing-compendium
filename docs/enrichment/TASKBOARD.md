@@ -890,3 +890,12 @@ The following inherited seed clauses remain on AF pages because they sit in prot
     citing Wilson et al. 2010). For each: either open the cited work and verify the claim, or reduce
     to the bare reference (drop the claim clause, keep the citation/link). Flagged-inherited status
     alone does not cover claim-bearing prose.
+
+Worker request (2026-10-20, worker-p1w-7cd8c5ce): took over the stale p1w principle
+band from worker-p1w-6c93f2ad (30 min stale) per the principles-first rule. Released
+w1e at a clean checkpoint before claiming: 16 items closed this session (items 1-16
+of the w1e queue) with three advisor milestone QCs recorded as scoped PASS
+(5-item, 10-item with two repair rounds, 15-item with two repair rounds); all w1e
+work is pushed and the state file has no in_progress marker. Next w1e item for any
+taker: 'Cultural psychology' (27 w1e items remaining). No verified yopmail identity
+exposed; identifier tied to this session.
