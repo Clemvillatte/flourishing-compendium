@@ -44,6 +44,26 @@
    "into": "Metacognition",
    "link": "Metacognitive model of anxiety and depression (Wells)",
    "why": "the capacity whose belief families this model divides"
+  },
+  {
+   "into": "Metacognition",
+   "link": "Metacognitive regulation of state",
+   "why": "Flavell's original construct, at the level of thinking rather than arousal"
+  },
+  {
+   "into": "Metacognitive awareness",
+   "link": "Metacognitive regulation of state",
+   "why": "the noticing skill the state version trains"
+  },
+  {
+   "into": "Emotion regulation",
+   "link": "Metacognitive regulation of state",
+   "why": "the affect-side family of shifting strategies"
+  },
+  {
+   "into": "Parasympathetic activation",
+   "link": "Metacognitive regulation of state",
+   "why": "the down-shift’s physiological lever"
   }
  ],
  "inline": []
