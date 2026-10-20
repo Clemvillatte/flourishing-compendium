@@ -12,13 +12,24 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 20** — Convert pity into compassion and equity
 
-Pity is sorrow at another's harm, and Spinoza's verdict is severe but double-edged: pity is more often harmful than useful, because it adds one sad person to the world instead of helping, yet he concedes that for those not yet guided by reason, it is better than indifference. The rational person does good not from pity but from equity, from the settled determination to act justly. The practical distinction survives translation: feeling someone's pain and being moved by it are different skills, and only the second feeds anyone.
+Spinoza defines pity as a pain:
 
-(Ethics III, P22 and P27 scholium; IV, P50.)
+> "Pity is pain accompanied by the idea of evil, which has befallen someone else whom we conceive to be like ourselves." (Ethics III, Definitions of the Affects, XVIII, [Elwes](https://www.gutenberg.org/ebooks/3800))
 
-**Plain words** Pity is sorrow at another's harm — and Spinoza's verdict is severe: pity adds one sad person to the world instead of helping. Yet he concedes it's a stage worth having if reason hasn't arrived. The conversion: from feeling sad about them to doing something useful for them — compassion and equity.
+His verdict on it for the rational person is harsh:
 
-*For example:* The friend who responds to the job loss with tears and head-shaking — pity, adding sadness to sadness — versus the one who edits the résumé and makes three calls. Same information; only one of them helped.
+> "Pity, in a man who lives under the guidance of reason, is in itself bad and useless." (Ethics IV, P50, [Elwes](https://www.gutenberg.org/ebooks/3800))
+
+The proof's reasoning is that pity is a pain, and a pain is in itself bad; the good effect that may follow, freeing the pitied person from misery, is an action that reason alone can certify as good. The note adds two cautions about pity's reliability: a person easily moved by another's tears "often does something which he afterwards regrets", partly because "we are easily deceived by false tears". The concession runs the other way as well: someone moved to help others neither by reason nor by compassion is "rightly styled inhuman". What replaces pity is the rational person's settled desire, who "desires for others the good which he seeks for himself" (IV. xxxvii.). The compendium's word for that settled stance is equity: doing good from a standing decision to do good, with the feelings allowed to come along.
+
+**Plain words**
+Pity hurts. You feel the other person's pain, and now there are two people in pain and no help yet. Spinoza's complaint is about reliability: help driven by pain is easy to misfire with, through regret or false tears. He wants help that comes from a standing decision to do good, with the feelings riding along rather than steering. If you cannot yet act from that decision, pity still beats coldness; the goal is to build the decision.
+
+*For example:* A friend loses her job. One responder is sad with her and shakes her head; the other edits the résumé and makes three calls. Both received the same information, and only one of them helped. Spinoza's complaint about the first is reliability: sadness is a poor engine for the helping.
+
+## Sources
+
+- [Spinoza, Ethics, Elwes translation, Project Gutenberg](https://www.gutenberg.org/ebooks/3800) — III, Definitions of the Affects XVIII; IV, P50 with note; IV, xxxvii. as quoted in the P51 proof
 ## Psychology parallels
 
 - **[[Empathic distress|Empathic distress versus compassion]]**, the imaging finding that suffering-with and caring-for are distinct states, with different burnout profiles (Klimecki et al., 2013)

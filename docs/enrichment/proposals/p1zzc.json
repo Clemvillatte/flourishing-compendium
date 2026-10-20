@@ -1,6 +1,6 @@
 {
  "batch": "p1zzc",
- "revision": 3,
+ "revision": 4,
  "reciprocal": [
   {
    "into": "Benign versus malicious envy",
@@ -13,6 +13,12 @@
    "link": "SP016",
    "why": "Spinoza's definition of desire arising from imagining that others have the same desire",
    "notes": "SP016 (worker-p1zzc-de9b53): hub inspected, 0 SP016 occurrences; grounded in the opened Elwes Ethics definition."
+  },
+  {
+   "into": "Compassion",
+   "link": "SP020",
+   "why": "Spinoza's caution that pity is a pain and a poor engine for help, with the rational alternative of doing good from a settled decision",
+   "notes": "SP020 (worker-p1zzc-de9b53): hub inspected, 0 SP016/SP020 occurrences; grounded in the opened Elwes Ethics (III, Def. XVIII; IV, P50 and note)."
   }
  ]
 }
