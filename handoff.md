@@ -82,8 +82,11 @@
   the p1q worker baton (owner-directed Daoism contribution, 14/30 done). Integration pass:
   repaired the dead p1g worker's broken proposals/p1g.json (committed conflict markers),
   applied 34 recip + 1 inline across 28 files (validation 27/28, one pre-existing seed
-  FAIL), build ok. p1c/p1d/p1f proposals still carry audit-tail why clauses owed repair
-  before their integration. Always run
+  FAIL), build ok. p1c/p1d/p1f proposals integrated (audit-tail whys repaired first). Reserves
+  replenished: p1r (30 P) + p1s (22 B + 4 D + 4 P) minted at queue@0180eaf6 — the
+  degree-ordered priority pool is now P-topped at high ranks; the remaining unassigned
+  D/B items (37 D + 161 B) sit lower and surface in later mints (p1s already reached them).
+  Live workers: p1n, p1p, p1q. Always run
   `baton.py status` against the remote before acting.
 - PRIORITY RESERVES: manifests p1i-p1p exist, 30 previously unassigned B/D/P principles each.
   p1i/p1j have already been claimed; use remote batons and TASKBOARD for current availability.
