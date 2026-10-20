@@ -1,6 +1,6 @@
 {
  "batch": "p1zr",
- "revision": 11,
+ "revision": 12,
  "reciprocal": [
   {
    "into": "Capacity to be alone (Winnicott)",
@@ -55,6 +55,12 @@
    "link": "BE030",
    "why": "A principle examining safety behaviours during exposure",
    "notes": "Advisor round 1: neutral descriptive clause; Experiential avoidance theory proposal withdrawn (relationship to the Hayes construct not established by opened sources)."
+  },
+  {
+   "into": "Heart-rate-variability biofeedback",
+   "link": "BE046",
+   "why": "A principle on using breath and posture to regulate emotion, one of the practices this procedure trains",
+   "notes": "BE046 body now cites the HRVB procedure via the opened Lehrer & Gevirtz 2014 full text (ledger BE046.md). Target page does not currently cite BE046."
   }
  ],
  "inline": [],

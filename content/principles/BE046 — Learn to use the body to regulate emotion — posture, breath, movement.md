@@ -12,16 +12,25 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BE — Overt Be
 ---
 > **Principle 46** — Learn to use the body to regulate emotion: posture, breath, movement
 
-The body can be used to regulate emotion. Posture, breathing, movement, and facial expression all influence emotional state. This is behavioural emotion regulation.
+Behavioural emotion regulation works on the body's inputs: how fast you breathe, how you sit, whether you move. The evidence is uneven across techniques, and it holds up best for slow breathing and posture.
 
-**Plain words** The body is a mood remote control — posture, breath, movement, even facial expression feed back into how you feel. Slumped and shallow, you feel like slumped and shallow. Stand, breathe low, walk; the mind follows the meat.
+A systematic review of slow-breathing studies found the practice promotes autonomic changes that increase heart rate variability and respiratory sinus arrhythmia (Zaccaro et al., 2018). Heart-rate-variability biofeedback trains the same loop deliberately: participants breathe slowly and try to maximise respiratory sinus arrhythmia, and most studies find the largest effects around six breaths per minute, with the best-supported mechanism a strengthening of homeostasis in the baroreceptors (Lehrer & Gevirtz, 2014).
 
-*For example:* Two minutes of slow breathing and straightened spine before the hard email — not a ritual, a hack of the machinery. The mind reads the body's report and adjusts.
+> "Psychological/behavioral outputs related to the abovementioned changes are increased comfort, relaxation, pleasantness, vigor and alertness, and reduced symptoms of arousal, anxiety, depression, anger, and confusion." (Zaccaro et al., 2018, Frontiers in Human Neuroscience 12:353, Abstract, [full text](https://www.frontiersin.org/articles/10.3389/fnhum.2018.00353/full))
+
+Posture carries the same direction under stress. In a randomised trial, participants assigned to sit upright through a stressor speech task reported "higher self-esteem, more arousal, better mood, and lower fear, compared to slumped participants" (Nair et al., 2015, Health Psychology 34(6):632-641, [PubMed record](https://pubmed.ncbi.nlm.nih.gov/25222091/)).
+
+Not every embodied effect survives testing. A conceptual replication with a substantially larger sample "found no significant effect of power posing on hormonal levels or in any of the three behavioral tasks", only on self-reported feelings of power (Ranehill et al., 2015, Psychological Science 26(5):653-656, [full-text PDF](https://www.zne.uzh.ch/dam/jcr:e5fc4c3c-d50e-4aa9-96ab-4389e426d20d/%20Psychological%20Science-2015-Ranehill-0956797614553946.pdf)). Across 17 direct replications of the original facial-feedback study, the rating difference came out at "0.03 units with a 95% confidence interval ranging from −0.11 to 0.16", against the original 0.82 units (Wagenmakers et al., 2016, Perspectives on Psychological Science 11(6):917-928, [journal PDF](https://journals.sagepub.com/doi/pdf/10.1177/1745691616674458)).
+
+**Plain words** Fear and calm have engine speeds, and breath is the throttle. Breathe at about six breaths a minute and the heart and lungs settle toward the rhythm they keep on their own when nothing is wrong; the feeling follows partway. Posture works from the outside: under pressure the slump arrives with the mood, and holding the spine up is one of the levers on it. Two cautions come from the same literature: a confident pose does not move hormones, and a pen held in the teeth does not reliably make cartoons funnier.
+
+**For example:** Before a difficult phone call, sit upright and take about ten slow breaths over two minutes, then dial. Check in on how wound up you feel before and after, so you learn the size of your own response instead of trusting the general claim.
+
 ## Psychology parallels
 
-- **Breath and emotion regulation**, slow breathing activates [[Parasympathetic activation|parasympathetic]] and reduces arousal (Lehrer & Gevirtz, 2014; Zaccaro et al., 2018)
-- **Posture and mood**, upright posture is associated with better mood and confidence (Nair et al., 2015; Roskes et al., 2014)
-- **Note: some specific embodied effects (power pose, facial feedback) failed replication**, but breath and movement effects are robust (Ranehill et al., 2015; Wagenmakers et al., 2016)
+- **Breath and emotion regulation**, slow breathing promotes autonomic changes that increase heart rate variability, with links to [[Parasympathetic activation|parasympathetic]] activity (Zaccaro et al., 2018; Lehrer & Gevirtz, 2014)
+- **Posture and mood**, participants randomly assigned to sit upright during a stress task reported higher self-esteem, better mood, and lower fear than slumped participants (Nair et al., 2015)
+- **Replication limits**, no significant effect of power posing on hormonal levels or behavioral tasks (Ranehill et al., 2015); a 17-lab replication put the facial-feedback rating difference at 0.03 units, 95% CI −0.11 to 0.16 (Wagenmakers et al., 2016)
 
 ## Philosophy parallels
 
@@ -31,4 +40,12 @@ The body can be used to regulate emotion. Posture, breathing, movement, and faci
 
 ## Practice
 
-- Use the body to regulate: slow breathing (4-6 breaths per minute), upright posture, gentle movement (walking, stretching) when distressed. The body is a regulatory tool.
+- Use the body to regulate: slow breathing at about six breaths per minute, upright seated posture, gentle movement (walking, stretching) when distressed.
+
+## Sources
+
+- Zaccaro, A., Piarulli, A., Laurino, M., et al. (2018). How breath-control can change your life: A systematic review on psycho-physiological correlates of slow breathing. Frontiers in Human Neuroscience 12, 353. [Full text](https://www.frontiersin.org/articles/10.3389/fnhum.2018.00353/full)
+- Lehrer, P. M., & Gevirtz, R. (2014). Heart rate variability biofeedback: How and why does it work? Frontiers in Psychology 5, 756. [Full text](https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00756/full)
+- Nair, S., Sagar, M., Sollers, J., Consedine, N., & Broadbent, E. (2015). Do slumped and upright postures affect stress responses? A randomized trial. Health Psychology 34(6), 632-641. [PubMed record](https://pubmed.ncbi.nlm.nih.gov/25222091/)
+- Ranehill, E., Dreber, A., Johannesson, M., Leiberg, S., Sul, S., & Weber, R. A. (2015). Assessing the robustness of power posing: No effect on hormones and risk tolerance in a large sample of men and women. Psychological Science 26(5), 653-656. [Full-text PDF](https://www.zne.uzh.ch/dam/jcr:e5fc4c3c-d50e-4aa9-96ab-4389e426d20d/%20Psychological%20Science-2015-Ranehill-0956797614553946.pdf)
+- Wagenmakers, E.-J., et al. (2016). Registered replication report: Strack, Martin, & Stepper (1988). Perspectives on Psychological Science 11(6), 917-928. [Journal PDF](https://journals.sagepub.com/doi/pdf/10.1177/1745691616674458)
