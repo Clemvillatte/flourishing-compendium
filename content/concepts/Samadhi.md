@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Samādhi is meditative absorption — the eighth limb, in which the object fills the field and the seer rests in its own nature. Pātañjali distinguishes seeded (with object) and seedless absorption ([Wikipedia Samadhi](https://en.wikipedia.org/wiki/Samadhi)).
 
+## Related concepts
+
+- [[Right concentration]] — the eightfold path's concentration factor (the jhanas of DN 2)
+
 ## Sources
 - Wikipedia Samadhi: https://en.wikipedia.org/wiki/Samadhi
 

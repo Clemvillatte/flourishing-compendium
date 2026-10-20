@@ -30,6 +30,7 @@ The Mahācattārīsaka Sutta distinguishes a form of right view with effluents, 
 
 ## Related concepts
 
+
 - [[Eightfold Path]] — the training this factor belongs to
 - [[Dependent origination]] — the middle-way chain the Kaccānagotta Sutta runs between the existence extremes
 - [[Right intention]] — the factor that follows view in MN 9's list
@@ -39,7 +40,7 @@ The Mahācattārīsaka Sutta distinguishes a form of right view with effluents, 
 - [[First impressions bias]] — its seed names Buddhism's Right View as its tradition
 - [[Cognitive distortions]] — the distortion patterns CO051 pairs with Right view
 - [[The standpoint determines what appears]] — its page cites B021 among its parallels
-
+- [[Right concentration]] — the eightfold path's concentration factor (the jhanas of DN 2)
 ## Sources
 
 - [MN 9, Sammādiṭṭhi Sutta (Thanissaro Bhikkhu translation), Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.009.than.html) — the four-truths definition, verbatim.

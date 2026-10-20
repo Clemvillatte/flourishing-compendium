@@ -1,0 +1,42 @@
+{
+ "batch": "supervisor-recovery-t3",
+ "revision": 1,
+ "reciprocal": [
+  {
+   "into": "content/concepts/Samadhi.md",
+   "link": "Right concentration",
+   "why": "the eightfold path's concentration factor (the jhanas of DN 2)"
+  },
+  {
+   "into": "content/concepts/Right view.md",
+   "link": "Right concentration",
+   "why": "the eightfold path's concentration factor (the jhanas of DN 2)"
+  },
+  {
+   "into": "content/concepts/Right intention.md",
+   "link": "Right concentration",
+   "why": "the eightfold path's concentration factor (the jhanas of DN 2)"
+  },
+  {
+   "into": "content/concepts/Flow.md",
+   "link": "Right concentration",
+   "why": "the eightfold path's concentration factor (the jhanas of DN 2)"
+  },
+  {
+   "into": "content/concepts/One-pointedness.md",
+   "link": "Right concentration",
+   "why": "the eightfold path's concentration factor (the jhanas of DN 2)"
+  },
+  {
+   "into": "content/concepts/Equanimity.md",
+   "link": "Right concentration",
+   "why": "the eightfold path's concentration factor (the jhanas of DN 2)"
+  },
+  {
+   "into": "content/concepts/Wu wei.md",
+   "link": "Right concentration",
+   "why": "the eightfold path's concentration factor (the jhanas of DN 2)"
+  }
+ ],
+ "notes": "w1b legacy recovery tranche 3 (Right concentration family). Original claim-bearing clauses unevidenced in the w1b ledger; neutral clause grounded in the concept page's own sourced opening (DN 2 / Noble Eightfold Path). Right mindfulness + Cognitive defusion already linked (skipped). - supervisor-3ef4f549, 2026-10-20"
+}

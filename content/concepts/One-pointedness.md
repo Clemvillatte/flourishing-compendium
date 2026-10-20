@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “One-pointedness” — Buddhist samadhi.
 
+## Related concepts
+
+- [[Right concentration]] — the eightfold path's concentration factor (the jhanas of DN 2)
+
 ## Sources
 
 - Buddhist samadhi
