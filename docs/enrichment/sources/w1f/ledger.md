@@ -205,3 +205,10 @@
 - Dashes fix: intuition-definition sentence moved to a standalone blockquote to stay under the prose em-dash budget.
 - Reciprocals: 4 filed (Cultural psychology, Cultural evolution theory, Corrective justice, Moral courage research — backlink absence rg-verified). No inline filed.
 - Validator on final: ok. Seed line, Sources bullets, both Cited-in lists preserved.
+
+## Motivational interviewing (done 2026-10-20; w1f item 8; no advisor QC due at this cadence)
+
+- Opened: Miller and Rollnick 2013, Motivational Interviewing: Helping People Change (3rd ed., Guilford Press), full book PDF (archive.org): https://ia801005.us.archive.org/35/items/NelsonTratadoDePediatria/Motivational%20Interviewing.pdf — lay definition (ch. 1), righting-reflex passage, ambivalence passage, four-processes sentence, spirit sentence, glossary lay/clinical definitions all verified verbatim via curl + pdftotext.
+- Opened: Miller and Rollnick, "The evolution of motivational interviewing" (retrospective describing the 2013 edition), official PDF: https://motivationalinterviewing.org/sites/default/files/the_evolution_of_motivational_interviewing.pdf — "more iterative and flexible" process sentence verified; also used for spirit evolution context.
+- Reciprocals: 3 filed (Readiness-matched intervention, Empathic understanding, Empathy — backlink absence rg-verified). No inline filed.
+- Validator on final: ok (Related-section warning resolved). Seed line, Sources bullets, both Cited-in lists preserved.
