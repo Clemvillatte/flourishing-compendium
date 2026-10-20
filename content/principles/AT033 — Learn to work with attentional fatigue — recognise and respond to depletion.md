@@ -20,15 +20,22 @@ Kaplan's Attention Restoration Theory is the opened source. Its abstract:
 
 > "Natural environments turn out to be particularly rich in the characteristics necessary for restorative experiences." ([Kaplan, 1995, same abstract](https://www.sciencedirect.com/science/article/pii/0272494495900012))
 
-The abstract is programmatic: it names directed-attention fatigue and claims that certain experiences restore it, without specifying the signs of depletion. The compendium's list of personal depletion signals is its own addition, not the theory's.
+A later review of the theory describes the mechanism:
 
-**Plain words** The theory's claim is simple: effortful, directed attention fatigues, and recovery comes from experiences that let it rest, with nature the best-studied case. Your job is not to diagnose yourself but to know the pattern: after long focused work, distraction and error rise; restoration needs the right kind of experience, not just time.
+> "Directed attention produces focus while suppressing distracting stimuli." ([Pham & Sanocki, 2024, review of ART](https://pmc.ncbi.nlm.nih.gov/articles/PMC11050943/))
 
-*For example:* (Imagined case.) Re-reading the same line for the third time and blaming the material — the material is fine; the directed-attention tank is low. The theory's remedy is a restorative environment, a walk among things that hold attention effortlessly, not another coffee.
+> "However, the constant use of directed attention depletes mental resources and leads to fatigue and decreased cognitive performance." ([Pham & Sanocki, 2024, same review](https://pmc.ncbi.nlm.nih.gov/articles/PMC11050943/))
+
+> "The restorative attentional mode is soft fascination, which is a form of involuntary attention or effortless attention." ([Pham & Sanocki, 2024, same review](https://pmc.ncbi.nlm.nih.gov/articles/PMC11050943/))
+
+**Plain words** The theory's claim: effortful, directed attention holds focus by suppressing distractions, and it depletes with use — fatigue and decreased performance follow. The restorative mode is effortless attention, soft fascination, which lets the directed system recover. The pattern to know: after long focused work, performance drops; recovery needs the right kind of experience, not just time.
+
+*For example:* (Imagined case.) Someone notices they have read the same paragraph three times and chooses to pause — not diagnosing the cause, just acting on the pattern that effortful attention depletes.
 
 ## Sources
 
 - [Kaplan, S. (1995). The restorative benefits of nature: Toward an integrative framework. Journal of Environmental Psychology 15(3), 169-182, abstract](https://www.sciencedirect.com/science/article/pii/0272494495900012) — the three abstract sentences quoted above
+- [Pham, T. P., & Sanocki, T. (2024). Human attention restoration, flow, and creativity: A conceptual integration. Journal of Imaging 10(4), review](https://pmc.ncbi.nlm.nih.gov/articles/PMC11050943/) — the mechanism sentences quoted above
 
 ## Psychology parallels
 
@@ -42,4 +49,4 @@ The abstract is programmatic: it names directed-attention fatigue and claims tha
 
 ## Practice
 
-- Learn your attentional fatigue signals: increased distraction, error, boredom, restlessness. When you notice these, stop. Take a genuine break (not a "break" of scrolling). Return when capacity is restored.
+- Learn your attentional fatigue signals. When you notice them, stop and take a real break; return when you can concentrate again.
