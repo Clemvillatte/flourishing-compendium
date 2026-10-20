@@ -134,6 +134,31 @@
       "into": "Pure experience",
       "link": "Self-transcendence",
       "why": "The undivided field is what self-transcendent experience briefly restores."
+    },
+    {
+      "into": "Self-transcendence",
+      "link": "Will to power",
+      "why": "Self-transcendence is the related self-surpassing idea without Nietzsche's power vocabulary."
+    },
+    {
+      "into": "Amor fati",
+      "link": "Will to power",
+      "why": "Amor fati is Nietzsche's affirmative formula for what the will accepts."
+    },
+    {
+      "into": "Nihilism",
+      "link": "Will to power",
+      "why": "Nihilism is the diagnosis the will to power answers."
+    },
+    {
+      "into": "The critique of ressentiment",
+      "link": "Will to power",
+      "why": "Ressentiment is the reactive drive contrasted with the will to power."
+    },
+    {
+      "into": "Perspectivism",
+      "link": "Will to power",
+      "why": "Perspectivism is Nietzsche's companion epistemology."
     }
   ],
   "inline": [
@@ -176,6 +201,16 @@
       "into": "SO031",
       "concept": "The dichotomy of control",
       "phrase": "the dichotomy of control"
+    },
+    {
+      "into": "E110",
+      "concept": "Will to power",
+      "phrase": "the will to power"
+    },
+    {
+      "into": "E066",
+      "concept": "Will to power",
+      "phrase": "will to power (Adler)"
     }
   ]
 }
