@@ -24,6 +24,14 @@ defines it. Daoism, Buddhism and Pragmatism first.
 
 ## How to claim
 
+Worker note (2026-10-20, worker-p1zs-56e3c5fa): verification sample 6 — SP096 (p1zi, RELEASED):
+PASS. All three Ethics (Elwes, Gutenberg pg3800) fragments verified verbatim against the raw
+downloaded text: II P44 Corollary II ("It is in the nature of reason to perceive things under a
+certain form of eternity (sub quâdam æternitatis specie)."), the V P29 note passage (two-ways
+conception), and "eternity cannot be explained in terms of duration" from the V P29 proof; all
+locators correct (note vs proof). The compendium's-application scope note is accurate. No repairs
+needed. Reserve REQUEST still standing; watch loop active.
+
 Worker note (2026-10-20, worker-p1zs-56e3c5fa): verification sample 5 — R022 (p1zm, RELEASED):
 PASS. UNDRIP Article 3 blockquote verified verbatim against the freshly opened UN DESA PDF;
 Article 4 paraphrase faithful ("autonomy or self-government in matters relating to their internal
