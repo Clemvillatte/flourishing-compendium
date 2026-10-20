@@ -146,6 +146,13 @@
    "phrase": "decentering",
    "why": "the page’s facets list decentering alongside metacognitive monitoring",
    "_audit_why": "rg-verified single occurrence, no existing [[Decentering]] link in the file"
+  },
+  {
+   "into": "AF044",
+   "concept": "Joy",
+   "phrase": "feeling joy",
+   "why": "the principle’s example of a secondary emotion, guilt about feeling joy, uses the word for this affect",
+   "_audit_why": "rg-verified single occurrence in body prose (line: shame about feeling fear, anxiety about feeling anger, guilt about feeling joy), no existing [[Joy]] link in the file"
   }
  ],
  "reciprocal": [
@@ -403,6 +410,31 @@
    "into": "Epoché",
    "link": "Decentering",
    "why": "the E006 principle lists Decentering among its psychology parallels and Epoché among its philosophy parallels"
+  },
+  {
+   "into": "Amor fati",
+   "link": "Joy",
+   "why": "Nietzsche’s New Year aphorism (GS 276) states the affirmation the amor fati concept names"
+  },
+  {
+   "into": "Conatus",
+   "link": "Joy",
+   "why": "joy is the felt sign of an increase in the power of the conatus, its Spinozist counterpart"
+  },
+  {
+   "into": "Mudita (sympathetic joy)",
+   "link": "Joy",
+   "why": "the Buddhist trainable form of the shared joy the Gay Science 338 passage calls fellowship in joy"
+  },
+  {
+   "into": "Delight in the ordinary",
+   "link": "Joy",
+   "why": "the everyday register of joy given its own page"
+  },
+  {
+   "into": "Gratitude",
+   "link": "Joy",
+   "why": "a neighbouring positive state the compendium treats as trainable attention"
   }
  ]
 }
