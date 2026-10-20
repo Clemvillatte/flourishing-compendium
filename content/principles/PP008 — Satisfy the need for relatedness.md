@@ -12,13 +12,20 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 ---
 > **Principle 8** — Satisfy the need for relatedness
 
-Relatedness is the experience of connection, belonging, and care for and from others. It is not about the quantity of relationships but about the quality: the sense that one matters to others and that others matter to oneself. Relatedness satisfaction predicts well-being; its thwarting predicts loneliness, depression, and physical illness.
+Relatedness is the experience of connection, belonging, and care for and from others. The self-determination formulation:
 
-(Baumeister and Leary, 1995; Holt-Lunstad et al., 2010.)
+> "the need for relatedness concerns feeling connected to, and cared about by, important others." (Niemiec, Ryan & Deci, "The Path Taken", Journal of Research in Personality, 2009, author manuscript p. 3)
 
-**Plain words** Relatedness is feeling connected, belonging and caring. It's about quality, not quantity: the sense that you matter to others and they matter to you. When it's blocked, loneliness and depression follow.
+It is not about the quantity of relationships but about quality: the sense that one matters to others and that others matter to oneself. In the aspirations research, close relationships and community involvement are among the intrinsic goals whose attainment related positively to need satisfaction and psychological health (the same manuscript, p. 17). Relatedness satisfaction predicts well-being; its thwarting predicts loneliness, depression, and physical illness.
+
+**Plain words**
+One friend who truly knows you can outweigh a hundred acquaintances, because relatedness is about being connected and cared about by particular people, not about the size of the list. The question the need asks is not "do I know enough people?" but "does someone know how it is actually going for me?"
 
 *For example:* One friend who truly knows you can feel more connecting than a hundred acquaintances.
+
+## Sources
+
+- Niemiec, C. P., Ryan, R. M., & Deci, E. L., "The Path Taken: Consequences of Attaining Intrinsic and Extrinsic Aspirations in Post-College Life", Journal of Research in Personality (2009) — [author manuscript, NIH Public Access](https://selfdeterminationtheory.org/wp-content/uploads/2015/01/2009_NiemiecRyanDeci.pdf)
 
 ## Stories
 

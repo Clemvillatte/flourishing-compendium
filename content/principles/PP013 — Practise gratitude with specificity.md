@@ -12,13 +12,20 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 ---
 > **Principle 13** — Practise gratitude with specificity
 
-Gratitude, when expressed specifically and sincerely, produces modest but reliable increases in well-being. The key is specificity: not "I am grateful for my friend" but "I am grateful that my friend listened without advising when I was upset." Gratitude that is vague, coerced, or used as a substitute for addressing real problems does not work. The strongest effects come from gratitude expressed directly to a person, not written in a private journal.
+Gratitude, when expressed specifically and sincerely, produces modest but reliable increases in well-being. The original experiments, which used listing tasks (weekly or daily records), reported the effect with its limits stated plainly:
 
-(Emmons and McCullough, 2003; Wood et al., 2010.)
+> "The gratitude-outlook groups exhibited heightened well-being across several, though not all, of the outcome measures across the 3 studies, relative to the comparison groups. The effect on positive affect appeared to be the most robust finding. Results suggest that a conscious focus on blessings may have emotional and interpersonal benefits." (Emmons & McCullough, "Counting blessings versus burdens", JPSP, 2003, abstract)
 
-**Plain words** Gratitude gives modest, reliable lifts in well-being when it's specific and sincere. Not "I'm grateful for my friend" but "I'm grateful she listened without advising when I was upset." Vague, forced gratitude, or gratitude used to dodge real problems, does little.
+The specificity advice is the practical core: not "I am grateful for my friend" but "I am grateful that my friend listened without advising when I was upset." Gratitude that is vague or coerced gives the listing task nothing to work with. The page's suggestion, going beyond what the listing studies show: tell the person directly, and see what that does.
+
+**Plain words**
+The studies asked people to write down things they were thankful for, next to people writing hassles or neutral events; the thankful groups came out somewhat better on well-being, most reliably on positive mood. The trick the practice runs on is specificity: naming the exact thing someone did lands differently than a general warm glow, both on you and on them. Vague or forced gratitude gives the exercise nothing to hold.
 
 *For example:* Telling your brother exactly what his phone call meant on the night you were struggling.
+
+## Sources
+
+- Emmons, R. A., & McCullough, M. E., "Counting blessings versus burdens: an experimental investigation of gratitude and subjective well-being in daily life", Journal of Personality and Social Psychology 84(2) (2003), pp. 377-389 — [PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/12585811/)
 
 ## Stories
 
