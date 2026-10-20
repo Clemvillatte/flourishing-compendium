@@ -16,13 +16,13 @@ Self-determination is the second of the nine guiding principles that underpin th
 
 > "Indigenous peoples have the right to self-determination. By virtue of that right they freely determine their political status and freely pursue their economic, social and cultural development." (UN Declaration on the Rights of Indigenous Peoples, Article 3, adopted by the UN General Assembly resolution 61/295, 13 September 2007)
 
-The Declaration pairs the collective right with an internal dimension, autonomy or self-government in local affairs (Article 4), and the SEWB framework treats control over one's own life and community as a condition of wellbeing rather than a political extra. The practice at personal scale: where a decision concerns you or your community, be in the room when it is made.
+The Declaration pairs the collective right with an internal dimension, autonomy or self-government in local affairs (Article 4), and the SEWB framework includes the right to self-determination among its nine guiding principles. The right attaches to a people; the personal-scale echo — wanting a say in the decisions that shape your own life — is this page's application of it, not the right itself. In practice the test is procedural: when a decision concerns a family or community, who is in the room, and are the people affected the ones deciding?
 
 (Aboriginal SEWB framework; United Nations Declaration on the Rights of Indigenous Peoples, 2007.)
 
-**Plain words** Have a real say over your own life, community, and future. Decisions about you made without you aren't decisions, they're arrangements — and they don't produce wellbeing even when they're well-meant. Show up, participate, consent or withhold it.
+**Plain words** Self-determination is a peoples' right: the community runs its own affairs, sets its own priorities, answers for its own decisions. When it is taken away, the harm is not only in the decisions others make — it is in the passivity that settles on a community that has stopped deciding anything for itself. The personal-scale echo is having a real say in the decisions that shape your life; the collective right is what the principle points at, and the personal echo borrows its force.
 
-*For example:* The community that insists the new program be designed with them at the table, not delivered to them — and the program, co-authored, actually works for once.
+*For example:* The community that insists the new program be designed with them at the table, not delivered to them — whether it works is theirs to find out, but the designing is theirs either way.
 ## Stories
 
 - [[ST230 — Eddie Mabo and the Land|230. Eddie Mabo and the Land]]

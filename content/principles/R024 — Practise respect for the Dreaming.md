@@ -14,9 +14,9 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 
 Stanner's classic account of the Dreaming treats it as an ever-present order rather than a past event; he coined the word 'everywhen' for it:
 
-> "One cannot 'fix' The Dreaming in time: it was, and is, everywhen." (Stanner, "The Dreaming", 1956, in White Man Got No Dreaming, 1979; quoted from the reproduction in Common Ground's Dreaming article, verified character-for-character against that carrier)
+> "One cannot 'fix' The Dreaming in time: it was, and is, everywhen." (Stanner, "The Dreaming", 1956, in White Man Got No Dreaming, 1979; as reproduced by Common Ground)
 
-The same account describes the recitation of "what was done rightly and wrongly in the Dreaming" and the stories as "a 'key' or guide to the norms of conduct, and a prediction of how men will err" — moral law carried by story, song and ceremony, still in force. Respect therefore shows up as practice: learning the stories where the community permits, caring for Country, living by the law.
+The same account describes the recitation of "what was done rightly and wrongly in the Dreaming" and the stories as "a 'key' or guide to the norms of conduct, and a prediction of how men will err" — the tales carry the norms, and the recitation keeps them in force. Respect therefore shows up as practice: learning the tales where the community permits, caring for Country, following the norms the tales carry.
 
 (Aboriginal SEWB framework; Stanner, "The Dreaming," in White Man Got No Dreaming, 1979.)
 
@@ -33,4 +33,4 @@ The same account describes the recitation of "what was done rightly and wrongly 
 
 ## Sources
 
-- [The Dreaming, Common Ground (First Nations-led)](https://www.commonground.org.au/article/the-dreaming) — carrier of the Stanner quotations (everywhen line; recitation and key-to-conduct passages), from his 1956 essay "The Dreaming", in White Man Got No Dreaming (1979); quotes verified character-for-character against this opened page
+- [The Dreaming, Common Ground (First Nations-led)](https://www.commonground.org.au/article/the-dreaming) — reproduces the Stanner quotations (everywhen line; recitation and key-to-conduct passages) from his 1956 essay "The Dreaming", in White Man Got No Dreaming (1979)

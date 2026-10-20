@@ -49,10 +49,15 @@
   "PP063": "Reopened for QC: QC repair: plain-words significance wording replaced with detection-claim wording",
   "PP068": "Reopened for QC: QC repair: unverified p. 482 locator removed from abstract attribution",
   "PP072": "Reopened for QC: QC: advisor items 17-22 repairs (session interrupted before final confirm)",
-  "PP082": "Reopened for QC: QC: advisor items 17-22 repairs (session interrupted before final confirm)"
+  "PP082": "Reopened for QC: QC: advisor items 17-22 repairs (session interrupted before final confirm)",
+  "R018": "Reopened for QC: milestone QC repairs (advisor round: scope, attribution, examples, plain words)",
+  "R022": "Reopened for QC: milestone QC repairs (advisor round: scope, attribution, examples, plain words)",
+  "R024": "Reopened for QC: milestone QC repairs (advisor round: scope, attribution, examples, plain words)",
+  "R027": "Reopened for QC: milestone QC repairs (advisor round: scope, attribution, examples, plain words)",
+  "R041": "Reopened for QC: milestone QC repairs (advisor round: scope, attribution, examples, plain words)"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:24:59+00:00",
+ "updated": "2026-10-20T11:28:47+00:00",
  "band_done": false
 }

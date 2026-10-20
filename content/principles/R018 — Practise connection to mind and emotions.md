@@ -16,13 +16,13 @@ Mental health, in the Aboriginal social and emotional wellbeing (SEWB) framework
 
 > "We define SEWB as a multidimensional concept of health that includes mental health, but which also encompasses domains of health and wellbeing such as connection to land or 'country', culture, spirituality, ancestry, family, and community." (Gee, Dudgeon, Schultz, Hart & Kelly, "Aboriginal and Torres Strait Islander Social and Emotional Wellbeing", in Dudgeon, Milroy & Walker (eds.), Working Together, 2nd ed., 2014, p. 55)
 
-In the model the chapter presents, the wellbeing of individuals, families and communities is shaped by connections to body, mind and emotions, family and kinship, community, culture, Country, and spirituality and ancestors (p. 58). A person can be strong in one connection and hurting in another, and the connections change shape across a lifetime. So attending to mind and emotions means attending to what they are connected to: the weekly dinner, the Country, the kin, the spirit.
+In the model the chapter presents, the wellbeing of individuals, families and communities is shaped by connections to body, mind and emotions, family and kinship, community, culture, Country, and spirituality and ancestors (p. 58). A person can be strong in one connection and hurting in another, and the connections change shape across a lifetime. This page's application: attending to mind and emotions means attending to what they are connected to — the meals with others, the Country, the kin, the spirit.
 
 (Aboriginal SEWB framework; Social Health Reference Group, 2004.)
 
 **Plain words** Mind and emotions aren't a separate department from body, culture, community, and spirit — wellbeing is all of it at once. So attend to all the dimensions: the holistic view isn't a luxury; it's just accurate.
 
-*For example:* The person who keeps chasing "stress" with holidays and it never works — until the missing piece turns out to be community, and the weekly dinner fixes what four beach trips couldn't.
+*For example:* Imagine someone whose mood and sleep have gone bad and whose first thought is another app or supplement. Before that, a check of the connections is worth a look: when did they last eat with people, spend time on land they love, do something that felt like theirs? A missing connection is one place the trouble might be living.
 ## Psychology parallels
 
 - **[[Biopsychosocial model|Biopsychosocial model]]** (Engel, 1977)

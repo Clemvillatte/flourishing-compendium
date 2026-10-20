@@ -1,6 +1,6 @@
 {
   "batch": "p1zm",
-  "revision": 11,
+  "revision": 12,
   "records": [
     {
       "action": "reciprocal",
@@ -62,8 +62,8 @@
       "action": "reciprocal",
       "into": "Meaning-making",
       "link": "R024",
-      "why": "Stanner's account of the Dreaming as a moral charter recited in story and song is the tradition-side case for narrative carrying identity and conduct; the page links the psychology parallel",
-      "notes": "R024 links [[Meaning-making]] as psychology parallel; the Meaning-making concept's cited-in list lacks R024; why clause grounded in the opened Common Ground Stanner passages (key-to-conduct, constant recitation of right and wrong)"
+      "why": "Stanner's account of the Dreaming as a recited moral charter — the tales a key to the norms of conduct",
+      "notes": "R024 links [[Meaning-making]] in its psychology parallels; the Meaning-making concept's cited-in list lacks R024; why clause grounded in the opened Common Ground Stanner passages (key-to-conduct, constant recitation of right and wrong); narrowed per advisor QC (no identity-carrying claim)"
     },
     {
       "action": "reciprocal",

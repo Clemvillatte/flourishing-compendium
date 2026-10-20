@@ -14,15 +14,15 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 
 Mead's Tikanga Māori places manaakitanga at the base of the whole system:
 
-> "All tikanga are underpinned by the high value placed upon manaakitanga – nurturing relationships, looking after people, and being very careful about how others are treated." (Mead, Tikanga Māori, 2003, p. 29; reproduced in the Treasury's He Ara Waiora discussion paper, which was the opened carrier — the book itself was not opened)
+> "All tikanga are underpinned by the high value placed upon manaakitanga – nurturing relationships, looking after people, and being very careful about how others are treated." (Mead, Tikanga Māori: Living by Māori Values, revised ed., 2016, p. 378; as reproduced in the NZ Treasury's He Ara Waiora discussion paper)
 
-Durie's whānau model gives the word its scope: manaakitanga is "the capacity to care for whānau members", and unless a whānau can care for the young and the old, for those who are sick or disabled, and for those who are temporarily out of pocket, a fundamental purpose of the whānau goes unmet. Hospitality is the common translation and the floor, not the ceiling — the literature reviewed in the same paper describes the ethic as grounded in working with and for each other in the spirit of reciprocity, demanding a high standard of behaviour toward each other.
+Durie's account gives the word its scope among whānau: "The capacity to care, manaakitia, is a critical role for whānau. Unless a whānau can care for the young and the old, for those who are sick or disabled, and for those who are temporarily out of pocket, then a fundamental purpose of the whānau has been lost." (Durie, Ngā kāhui pou, 2003, p. 23, as quoted in the same paper). Hospitality is one face of it; the review describes the ethic as grounded in working with and for each other in the spirit of reciprocity, demanding a high standard of behaviour toward each other.
 
 (Māori tikanga; Mead, 2003, Tikanga Māori; Durie, 1994, Whaiora.)
 
-**Plain words** Manaakitanga: uphold other people's mana — their dignity — through care, generosity, and hospitality. Not as a mood but as an obligation of relationship. How you treat people either adds to their standing or quietly strips it.
+**Plain words** Manaakitanga is a job description before it is a feeling: somebody has to feed the kids, sit with the sick one, float the cousin who is broke this month — and the family is the structure that exists so somebody does. Widen it past the family and it becomes the habit of treating each person you deal with as someone whose standing is partly in your keeping for as long as the interaction lasts.
 
-*For example:* The host who makes the newest, shyest guest the most comfortable person in the room — everyone watches it happen, and the whole room's standard rises.
+*For example:* Imagine a cousin's twenty-first where an aunty quietly keeps the kids' plates full and finds chairs for the two elders still standing — nobody announces it, and the guests simply end up fed and seated.
 ## Psychology parallels
 
 - **[[Prosocial behaviour|Prosocial behaviour and well-being]]** (Dunn, Aknin, and Norton, 2014, "Prosocial Spending...)
@@ -35,4 +35,4 @@ Durie's whānau model gives the word its scope: manaakitanga is "the capacity to
 
 ## Sources
 
-- [McMeeking, Baker, Kipa, Beynon and Henare, "He Ara Waiora / A Pathway Towards Wellbeing", NZ Treasury Discussion Paper 18/11 (2018)](https://www.treasury.govt.nz/sites/default/files/2018-09/dp18-11.pdf) — carrier of the Mead 2003 p. 29 manaakitanga passage and the Durie whānau-model capacity-to-care passages, verified character-for-character; the Mead and Durie books themselves were not opened
+- [O'Connell, Greenaway, Moeke et al., "He Ara Waiora / A Pathway Towards Wellbeing: Exploring Te Ao Māori perspectives on the Living Standards Framework for the Tax Working Group", NZ Treasury Discussion Paper 18/11, September 2018](https://www.treasury.govt.nz/sites/default/files/2018-09/dp18-11.pdf) — reproduces the Mead manaakitanga passage (footnote 59: Tikanga Māori: Living by Māori Values, revised ed., 2016, p. 378) and the Durie manaakitia passages (footnotes 68-69: Durie 2003 Ngā kāhui pou p. 23, and Durie 2006 as cited in Kukutai et al. 2017)

@@ -12,17 +12,17 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 303** — Honour the vā
 
-Wendt's essay gives the vā its canonical statement:
+Wendt's essay gives the vā its best-known statement:
 
-> "Va is the space between, the betweenness, not empty space, not space that separates but space that relates, that holds separate entities and things together in the Unity-that-is-All, the space that is context, giving meaning to things. The meanings change as the relationships/the contexts change." (Wendt, "Tatauing the Post-Colonial Body", Span 42-43, 1996, pp. 15-29; text verified against the NZEPC online edition of the essay)
+> "Va is the space between, the betweenness, not empty space, not space that separates but space that relates, that holds separate entities and things together in the Unity-that-is-All, the space that is context, giving meaning to things. The meanings change as the relationships/the contexts change." (Wendt, "Tatauing the Post-Colonial Body", Span 42-43, 1996, pp. 15-29; NZEPC archived edition)
 
-The essay adds the practice in one line: the Samoan expression 'Ia teu le va' — cherish, nurse, care for the vā, the relationships. In communal cultures, Wendt writes, the individual is perceived in terms of the group, in terms of vā; the space between people is not dead air to cross but the thing itself that needs care. That is the principle's whole content: tend the between — presence, respect, attention — the way you would tend anything alive.
+The essay adds the practice in one line: the Samoan expression 'Ia teu le va' — cherish, nurse, care for the vā, the relationships. In communal cultures, Wendt writes, the individual is perceived in terms of the group, in terms of vā. What that means practically: meaning does not live in the two people separately and then get exchanged; it lives in the between, and the between has to be kept in good order for the meanings to hold.
 
 (Samoan philosophy; Tuhiwai Smith, 1999, Decolonizing Methodologies; Wendt, 1996, "Tatauing the Post-Colonial Body," Span, 42-43, 15-29.)
 
-**Plain words** The space between you and another person isn't empty — it's the vā, the living ground of relationship, and it needs maintenance like anything alive. Be present, respectful, attentive: the between-ness is a thing you tend, not just a gap you cross.
+**Plain words** In Samoan thinking, a relation is a thing in its own right, not a by-product of the two people. What that means on the ground: when something goes wrong between two people, the repair is addressed to the relation — the standing arrangement between you — and not only to each person's private state of mind. 'Ia teu le va' is the instruction: care for the relation itself, the way you would care for a garden rather than for two separate plants.
 
-*For example:* Two friends who never let a misunderstanding sit overnight — not because they're conflict-averse, but because they can feel the space itself going stale.
+*For example:* Imagine flatmates where one stops saying good morning after a noise complaint. A vā-reading of the situation: the relation itself was bruised, so the repair is a sentence about the relation — 'that got between us; can we reset?' — rather than two private resolutions to be politer.
 ## Stories
 
 - [[ST239 — Ho'oponopono Sets It Right|239. Ho'oponopono Sets It Right]]
@@ -38,4 +38,4 @@ The essay adds the practice in one line: the Samoan expression 'Ia teu le va' �
 
 ## Sources
 
-- [Albert Wendt, "Tatauing the Post-Colonial Body", Span 42-43 (1996), pp. 15-29 — NZEPC online edition](https://www.nzepc.auckland.ac.nz/authors/wendt/tatauing.asp) — the Va passage and 'Ia teu le va' verified character-for-character against the archived capture of this page (the live page blocks automated reading; the Wayback Machine capture of the same URL was used)
+- [Albert Wendt, "Tatauing the Post-Colonial Body", Span 42-43 (1996), pp. 15-29 — NZEPC edition, archived capture used for verification](http://web.archive.org/web/20140725190021/http://www.nzepc.auckland.ac.nz/authors/wendt/tatauing.asp) — the Va passage and 'Ia teu le va' gloss; the live NZEPC page is at [nzepc.auckland.ac.nz/authors/wendt/tatauing.asp](https://www.nzepc.auckland.ac.nz/authors/wendt/tatauing.asp)
