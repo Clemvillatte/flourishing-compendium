@@ -462,3 +462,8 @@ legacy schema (state keys + proposals) — MERGED, never replaced.
 - Fast-track (degree 11). Opened source: Gilovich, Medvec and Savitsky 2000, full-text PDF (psychologyib.com mirror). Savitsky et al. 2001 not opened; no claims routed through it.
 - Definition, T-shirt and discussion findings, and anchoring-and-adjustment mechanism quoted verbatim from the opened PDF (double-hyphen dashes preserved as in source).
 - All original sections and wikilinks preserved byte-exact (philosophy-parallels section with its original line). Added Related: [[Anchoring effect]] (resolves). Validation: fast-track PASS; build 5,720 ok.
+
+### The having mode (2026-10-20, worker-p1f-9d3f7c2b)
+- Fast-track (degree 11). Opened sources: SpiritWiki To Have or To Be? quotations page (https://spiritwiki.lightningpath.org/To_Have_or_To_Be), which reproduces Fromm passages with page numbers, and the dmaust.com essay quoting the "two fundamental modes of experience" line (p. 16). The book itself not opened (in copyright); quotes verified against the opened compilations — flag for advisor QC.
+- Having-mode inner-logic passage (pp. 77-78), "I am = what I have and what I consume" (p. 27), being-mode definition (pp. 18-19) and the happiness summary (p. 81) quoted verbatim from the opened page; no em-dash-bearing excerpt used.
+- All original sections and wikilinks preserved byte-exact. Validation: fast-track PASS; build 5,720 ok.
