@@ -11,7 +11,7 @@ The phrase comes from Plato's Apology, from the speech Socrates makes at his own
 
 > "and if again I say that to talk every day about virtue and the other things about which you hear me talking and examining myself and others is the greatest good to man, and that the unexamined life is not worth living, you will believe me still less." (Plato, Apology 38a, [Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0170%3Atext%3DApol.%3Asection%3D38a))
 
-The sentence does two things at once. It names the activity plainly: daily talk about virtue, examining oneself and others, is the greatest good for a human being. And it states the price of refusing: a life without that examination is not worth living. Socrates backs the claim with the only currency he has. Facing death, he still will not stop. The remark works as the negative image of the compendium's examined-life family: the warning rather than the practice, useful precisely when the practice lapses.
+The sentence does two things at once. It names the activity plainly: daily talk about virtue, examining oneself and others, is the greatest good for a human being. And it states the price of refusing: a life without that examination is not worth living. Socrates backs the claim with the only currency he has. Facing death, he still will not stop, and the jury's disbelief is the one outcome he predicts. The remark works as the negative image of the compendium's examined-life family: the warning rather than the practice, useful precisely when the practice lapses.
 
 ## Related concepts
 
