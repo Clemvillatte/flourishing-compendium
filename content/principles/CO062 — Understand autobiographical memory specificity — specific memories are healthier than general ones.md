@@ -12,15 +12,25 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 ---
 > **Principle 62** — Understand autobiographical memory specificity: specific memories are healthier than general ones
 
-The ability to recall specific, detailed autobiographical memories (specific times, places, events) rather than general summaries ("I always fail") is associated with better mental health and problem-solving. Overgeneral memory is a risk factor for depression.
+Research on overgeneral autobiographical memory concerns difficulty retrieving event-level personal memories; an updated meta-analysis found a generally small association with the subsequent course of depressive symptoms ([Hallford and colleagues, 2021, abstract](https://www.cambridge.org/core/journals/psychological-medicine/article/abs/overgeneral-and-specific-autobiographical-memory-predict-the-course-of-depression-an-updated-metaanalysis/AEB0FBD32C2538CF4468E6A364931733)). The associations were stronger in clinical than non-clinical samples ([same abstract](https://www.cambridge.org/core/journals/psychological-medicine/article/abs/overgeneral-and-specific-autobiographical-memory-predict-the-course-of-depression-an-updated-metaanalysis/AEB0FBD32C2538CF4468E6A364931733)).
 
-**Plain words** Recalling specific autobiographical memories — particular times, places, events — is healthier than recalling general summaries ("I always fail"). Specificity is the marker of a functioning memory system and predicts better problem-solving and mood. Get specific.
+> The effects were generally small, but significantly larger among clinical samples, compared to studies with non-clinical samples.
 
-*For example:* The person in the low week who can only produce "I always mess this up" — versus the one who can say "I messed up the March presentation specifically, and the January one went fine." The specific version is truer, more useful, and easier to fix.
+(Hallford, Rusanov, Yeow and Barry, 2021, abstract; [opened record](https://www.cambridge.org/core/journals/psychological-medicine/article/abs/overgeneral-and-specific-autobiographical-memory-predict-the-course-of-depression-an-updated-metaanalysis/AEB0FBD32C2538CF4468E6A364931733).)
+
+### Plain words
+
+When a sweeping judgment about your past needs examining, try choosing one ordinary occasion you are comfortable recalling. Describe what happened without requiring it to sum up your whole life or prove anything about your mental health.
+
+A review of memory-specificity training found short-term benefits, but advantages over control groups were mostly lost at follow-up ([Barry, Sze and Raes, abstract](https://hub.hku.hk/bitstream/10722/269569/1/content.pdf)). The exercise here is not a substitute for depression care.
+
+### For example
+
+Suppose you catch yourself saying that every meeting goes badly. You could examine one recent meeting, including what you contributed, what was difficult and what remains uncertain.
 ## Psychology parallels
 
-- **[[Overgeneral autobiographical memory (OGM)|Overgeneral autobiographical memory (OGM)]]**, difficulty recalling specific memories is associated with depression and trauma (Williams et al., 2007)
-- **Memory specificity training (MEST) reduces depression**, training people to recall specific memories improves depressive symptoms (Raes et al., 2009)
+- **[[Overgeneral autobiographical memory (OGM)|Overgeneral autobiographical memory (OGM)]]**: an updated meta-analysis found generally small associations with the course of depressive symptoms ([Hallford et al., 2021, abstract](https://www.cambridge.org/core/journals/psychological-medicine/article/abs/overgeneral-and-specific-autobiographical-memory-predict-the-course-of-depression-an-updated-metaanalysis/AEB0FBD32C2538CF4468E6A364931733)).
+- **Memory-specificity training**: a review found promising short-term changes but limited persistence of advantages over controls ([Barry, Sze and Raes, abstract and Conclusion](https://hub.hku.hk/bitstream/10722/269569/1/content.pdf)).
 
 ## Philosophy parallels
 
@@ -29,4 +39,4 @@ The ability to recall specific, detailed autobiographical memories (specific tim
 
 ## Practice
 
-- When you recall your past, practise specificity. Not "I always mess up" but "I struggled with that project in March." Specific memories are more useful and less depressogenic than global summaries.
+- If you want to examine a sweeping self-judgment, choose a recent ordinary event you are comfortable considering. Do not turn difficulty with the exercise into a diagnosis or a demand to revisit distressing experiences.
