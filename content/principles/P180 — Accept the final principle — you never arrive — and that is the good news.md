@@ -12,13 +12,27 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 180** — Accept the final principle: you never arrive: and that is the good news
 
-Flourishing is not a state to achieve but a process to be — the good life is the moving. Stop waiting for the finish line; the process is the point, and it is available now.
+Rogers describes the good life as an ongoing movement involving greater openness to experience and a willingness to meet situations without imposing a rigid picture of oneself. He explicitly distinguishes it from contentment, happiness or adjustment understood as settled states ([On Becoming a Person excerpt, “A Negative Observation” and “A Positive Observation”](https://www.panarchy.org/rogers/person.html)).
+
+> "The good life is a process, not a state of being. It is a direction, not a destination." (Rogers, “A Positive Observation,” in the opened excerpt.)
+
+### Direction does not cancel needs
+
+Rogers presents this as his perspective from therapeutic work, not a universal measurement of flourishing. The compendium takes it as an invitation to examine how one is living alongside what one hopes to achieve. That does not make housing, safety, relationships or completed projects irrelevant; nor does it require feeling good about an unfinished situation.
 
 (Rogers, On Becoming a Person, 1961; Dewey, Human Nature and Conduct, 1922.)
 
-**Plain words** The last principle, and the first one you can act on this minute: flourishing is not a state to achieve but a process to be — the good life is the moving. Stop waiting for the finish line; the process is the point, and it is available now.
+### Plain words
 
-*For example:* The person waiting for life to 'start' — after the degree, the move, the partner, the promotion. Meanwhile the process was the whole time available. It starts now, or it starts never. Those are the options.
+Name a goal you care about, then ask what you want its pursuit to include. There may be room for a worthwhile action before the goal is reached. If there is not, name the obstacle rather than blaming yourself for failing to enjoy the process.
+
+### For example
+
+Imagine working toward a qualification. As a proposed reflection, distinguish the credential you need from the questions you want to understand during study. Both can matter; the exercise asks you to articulate them.
+
+## Sources
+
+- [Carl R. Rogers, On Becoming a Person (1961), excerpts reproduced by Panarchy](https://www.panarchy.org/rogers/person.html): “A Negative Observation,” “A Positive Observation” and “The Characteristics of the Process.” The transcription supplies no book pagination.
 
 ## Practice kernels
 
@@ -26,8 +40,8 @@ Flourishing is not a state to achieve but a process to be — the good life is t
 
 ## Psychology parallels
 
-- **[[Hedonic adaptation|Hedonic adaptation]]**, arrival states fade
-- **Engagement endures beyond arrival**, activity involvement outlasts circumstantial change (Lucas, 2007; Diener et al., 2006)
+- **[[Hedonic adaptation|Hedonic adaptation]]**: retained research comparison, distinct from Rogers's normative account.
+- **Engagement and circumstances** (Lucas, 2007; Diener et al., 2006): retained pointers; no comparative durability claim is made here.
 
 ## Philosophy parallels
 
