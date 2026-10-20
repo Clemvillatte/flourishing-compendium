@@ -12,18 +12,22 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 122** — Recognise that emotions shape judgment
 
-Emotions are not separate from reasoning; they shape how we perceive, what we attend to, and what conclusions we reach. The practically wise person does not suppress emotion but understands its role in judgment and uses it as information.
+The Rhetoric defines the emotions by their effect on judgment:
 
-(Rhetoric I.1, II.1-11; NE II.5, VI.2; De Anima I.1.)
+> "The Emotions are all those feelings that so change men as to affect their judgements, and that are also attended by pain or pleasure. Such are anger, pity, fear and the like, with their opposites." ([Rhetoric II.1, Rhys Roberts translation, MIT Classics](http://classics.mit.edu/Aristotle/rhetoric.2.ii.html))
 
-**Plain words** Emotions shape what you see, what you notice, and what you conclude. The wise person doesn't suppress them. They understand what they're doing and use them as information.
+The book's working examples show the shaping at work: "when people are feeling friendly and placable, they think one sort of thing; when they are feeling angry or hostile, they think either something totally different or the same thing with a different intensity", and "when they feel friendly to the man who comes before them for judgement, they regard him as having done little wrong, if any; when they feel hostile, they take the opposite view." Hope and annoyance bend expectation the same way: people eager and hopeful "think that it certainly will happen and be good for them", whereas "if they are indifferent or annoyed, they do not think so."
 
-*For example:* Feeling uneasy before signing a contract, and asking what that unease points to, is using the emotion as data.
+The compendium's exercise: before a decision, name the feeling present and write what it makes more or less likely; keep both lists in view.
+
+**Plain words** Aristotle defines emotions as feelings that change how you judge, carrying pain or pleasure with them. A friendly mood makes the person before you seem to have done little wrong; a hostile one makes the same facts read the other way. Naming the feeling is the start of allowing for it.
+
+*For example (imagined):* Someone feels uneasy before signing and writes down what the unease points to, next to the reasons for signing.
 
 ## Psychology parallels
 
 - **[[Affect as information|Affect as information]]** (Schwarz and Clore, 1983)
-- **[[Moral intuition research|Moral intuition research]]**, moral judgments often precede reasoning (Haidt, 2001)
+- **[[Moral intuition research|Moral intuition research]]** (Haidt, 2001)
 
 ## Philosophy parallels
 
