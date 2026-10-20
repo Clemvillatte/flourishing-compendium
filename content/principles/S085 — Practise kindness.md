@@ -12,11 +12,16 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 207** — Practise kindness
 
-The Stoic is kind. Not because kindness is required by a rule, but because kindness is the natural expression of a mind that understands its connection to the whole. Be kind to strangers, to family, to enemies. Kindness is not weakness; it is strength.
+The command comes with a fate attached: "love those men whom thy fate it is to live with; but love them truly" (Med. VI.35, Casaubon). Marcus rehearses his response to a wrongdoer, and his ninth argument is that kindness wins: "meekness is a thing unconquerable, if it be true and natural, and not affected or hypocritical" (Med. XI.16).
 
-(Med. I.1, I.6, II.1, VI.14, VII.13, VII.22, IX.4, IX.11, IX.11; Disc. III.3, III.24; Seneca, Letters 9, 48, 95; Musonius Rufus, Lectures.)
+> "For how shall even the most fierce and malicious that thou shalt conceive, be able to hold on against thee, if thou shalt still continue meek and loving unto him." (Marcus Aurelius, Meditations XI.16, Casaubon)
 
-**Plain words** A Stoic is kind, not because a rule says so but because kindness comes naturally to a mind that sees its connection to everyone else. It reaches strangers, family and enemies. Kindness isn't weakness. It takes strength to be kind when you're tired or provoked.
+The correction he scripts for the wrongdoer runs: "My son, we were not born for this, to hurt and annoy one another; it will be thy hurt not mine, my son" — delivered "tenderly without any harshness of words", and "that nobody be privy to it, but himself alone". Kindness to enemies included; strength, not weakness.
+
+(Med. VI.35, XI.16, Casaubon.)
+
+**Plain words**
+Marcus' version of kindness has a script: when someone wrongs you, correct them like a parent, not a prosecutor — we were not born to hurt and annoy one another — gently, in private, without an audience. The reasoning is competitive as much as warm: a truly meek person is unconquerable, because the fierce and malicious have no move against someone who keeps responding with warmth. It reaches strangers, family and enemies, and it counts most when you are tired or provoked.
 
 *For example:* Holding the door and meeting the eyes of a cashier whose day has clearly been terrible.
 
@@ -26,6 +31,10 @@ The Stoic is kind. Not because kindness is required by a rule, but because kindn
 - [[ST210 — Hierocles's Circles|210. Hierocles's Circles]]
 - [[ST211 — Musonius Rufus on Daughters|211. Musonius Rufus on Daughters]]
 - [[ST212 — Paul Rusesabagina Makes the Calls|212. Paul Rusesabagina Makes the Calls]]
+## Sources
+
+- [Marcus Aurelius, Meditations (Meric Casaubon translation, 1634), Project Gutenberg](https://www.gutenberg.org/files/2680/2680-0.txt) — VI.35 (love those men... truly), XI.16 (meekness unconquerable; the correction script)
+
 ## Psychology parallels
 
 - **[[Prosocial behaviour|Prosocial behaviour and well-being]]** (Dunn, Aknin and Norton, 2008)
