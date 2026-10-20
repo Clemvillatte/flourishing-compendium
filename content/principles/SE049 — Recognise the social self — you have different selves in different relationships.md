@@ -14,9 +14,17 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 
 The self is not the same across relationships. You have a self with your parents, a self with your partner, a self at work, a self with friends. This is not falseness; it is the natural multiplicity of self-in-relation.
 
+James gave the observation its classic form:
+
+> "Properly speaking, a man has as many social selves as there are individuals who recognize him and carry an image of him in their mind. To wound any one of these his images is to wound him. But as the individuals who carry the images fall naturally into classes, we may practically say that he has as many different social selves as there are distinct groups of persons about whose opinion he cares." (James, 1890, [The Principles of Psychology, ch. X](https://psychclassics.yorku.ca/James/Principles/prin10.htm), p. 294)
+
 **Plain words** You are not one self; you're a set of selves that switch on by company. You at work, you with your oldest friend, you with your mother — same person, different lighting. This is normal, not hypocrisy. The problem starts only when one of those selves is a stranger to the rest.
 
 *For example:* The man who's funny and loud with his mates and monosyllabic at home isn't two-faced — but if the home version is the exhausted, real one, the question his partner is quietly asking is fair: where does the loud version live?
+## Sources
+
+- [William James, The Principles of Psychology (1890), chapter X, York University Classics](https://psychclassics.yorku.ca/James/Principles/prin10.htm) — the many social selves passage, printed p. 294
+
 ## Psychology parallels
 
 - **[[The relational self|Relational self (Andersen & Chen)]]**, the self shifts across relationships; each relationship activates a distinct self-aspect (Andersen & Chen, 2002; Chen et al., 2006)

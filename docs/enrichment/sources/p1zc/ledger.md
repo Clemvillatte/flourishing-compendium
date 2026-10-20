@@ -202,3 +202,14 @@ Short, item-keyed evidence notes (owner decision 2026-10-20, PROTOCOL-PRINCIPLES
   For example, parallels kept. Saturation: 6 concept pages already cite SE040; mention
   hunt "cultural limits" surfaced no uncited natural targets; no additional links
   warranted. Validator ok. DONE (no advisor QC due: item 9).
+
+## SE049 — Recognise the social self (item 10)
+- Source opened: William James, The Principles of Psychology (1890), chapter X,
+  psychclassics.yorku.ca — fetched and extracted; "as many social selves" passage
+  verified by substring check (True), printed p. 294.
+- Body: added the James blockquote (three sentences, contiguous in the source).
+  Plain words (already a genuine re-derivation) and For example kept.
+- Inherited psychology parallels (Andersen & Chen 2002; Chen et al. 2006; Showers &
+  Zeigler-Hill 2007; McConnell 2011) NOT source-checked this item — flagged, not
+  certified. Saturation: 6 concept pages already cite SE049; no additional links
+  warranted. Validator ok. DONE (no advisor QC due: item 10; next at item 11).
