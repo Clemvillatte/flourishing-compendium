@@ -12,13 +12,21 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "M — Mesoam
 ---
 > **Principle 5** — Read the signs of the times humbly
 
-The daykeeping tradition rests on a premise worth keeping: the quality of a time is real and readable, and wisdom includes the humility to ask what this particular day, season, and stage of life is asking for, rather than applying yesterday's strategy by default. Practically, begin each week with one honest question: what is this season of my life asking for, and am I giving it that?
+Maya daykeeping includes interpreting days within a divinatory calendar; a scholarly account describes a cycle combining thirteen numbers with twenty day names ([Maya Daykeeping: Three Calendars from Highland Guatemala, ch. 1, p. 2](https://upcolorado.com/excerpts/9780870819969.pdf)). Its discussion of Barbara Tedlock concerns her study and apprenticeship among K'iche' Maya in Momostenango ([ch. 1, “Calendrical Practice in Highland Guatemala,” p. 7](https://upcolorado.com/excerpts/9780870819969.pdf)).
 
-(The calendar tradition; Barbara Tedlock's daykeeping ethnography.)
+> The daykeeper, or calendar priest, uses a divining bundle of tz’ite’ seeds to count the days and make diagnoses.
 
-**Plain words** The quality of a time is real and readable: this day, season, and stage of life asks for something specific, and wisdom is asking what — rather than running yesterday's strategy on autopilot. Begin each week with one honest question: what is this time asking for?
+(Maya Daykeeping, ch. 1, p. 9, scholarly description of the practice; [publisher's excerpt](https://upcolorado.com/excerpts/9780870819969.pdf).)
 
-*For example:* The parent who applied the same parenting to the thirteen-year-old as the nine-year-old — and stops to read the actual season: independence is what this year is asking for, not more supervision.
+These passages describe a cultural practice; they do not by themselves establish the accuracy of its predictions or diagnoses ([ch. 1, pp. 7–10](https://upcolorado.com/excerpts/9780870819969.pdf)). The exercise below is a secular analogy, not instruction in Maya daykeeping.
+
+### Plain words
+
+Ask what has changed since you last made this plan. Look at the demands, resources and relationships in front of you before deciding whether an old approach still fits.
+
+### For example
+
+Suppose a family member is recovering from surgery. You could review this week's commitments with them and ask what help they want now, rather than assuming last month's arrangements will suffice.
 ## Psychology parallels
 
 - **[[Situation-sensitivity in self-regulation|Situation-sensitivity in self-regulation]]**, the research showing that matching strategy to context outperforms fixed strategy (Gross's situation-selection research; the person-environment fit literatures)
