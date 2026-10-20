@@ -18,7 +18,8 @@
   "K022",
   "K025",
   "K033",
-  "K034"
+  "K034",
+  "K049"
  ],
  "in_progress": null,
  "flagged": {
@@ -33,6 +34,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T13:45:44+00:00",
+ "updated": "2026-10-20T13:46:53+00:00",
  "band_done": false
 }

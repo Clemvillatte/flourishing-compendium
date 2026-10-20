@@ -1,6 +1,6 @@
 {
  "batch": "p1zw",
- "revision": 9,
+ "revision": 10,
  "reciprocal": [
   {
    "into": "Anatta",
@@ -55,6 +55,12 @@
    "link": "K034",
    "why": "listed for comparison: the same thirteenth lojong slogan, treated through Shantideva's patience argument on B113 and through Trungpa's obstacles-as-material commentary on K034.",
    "notes": "Saturation scan 2026-10-21 (K034 item): B113 and K034 cover the same slogan in different disciplines and neither links the other; B113's page quotes Shantideva Guide ch.6 v.111 (Batchelor) so the comparison is grounded on the target page's own sourced content."
+  },
+  {
+   "into": "BE027 — Learn to use graded exposure — start small, build up",
+   "link": "K049",
+   "why": "listed for comparison: the clinical graded-exposure staircase (BE027) beside the lamrim's graduated path (K049), two traditions making the same structural argument for ordered steps.",
+   "notes": "Saturation scan 2026-10-21 (K049 item): BE027's body describes Prolonged Exposure's step-by-step hierarchy with sourced PTSD-center material but does not link K049; K049 now quotes the lamrim staircase verse. The Gradual training concept already links K049."
   }
  ]
 }

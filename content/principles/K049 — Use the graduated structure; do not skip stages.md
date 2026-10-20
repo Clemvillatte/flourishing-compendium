@@ -12,13 +12,25 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 49** — Use the graduated structure; do not skip stages
 
-The lamrim's genius is sequencing: its reflections are ordered so each one motivates the next (this life's value and finitude, the consequences of action, the wish for a steady mind, then equanimity, gratitude, and the vast motivation), and the tradition is explicit that skipping produces the familiar pathology of advanced practices on unprepared foundations. Practically, when adopting any practice curriculum, honor its sequence; when you stall, look backward for the skipped prerequisite rather than forward for a stronger technique.
+The lamrim ("graduated path") tradition organizes the whole path as a sequence, and its root text opens by classifying who it is for:
 
-(Tsongkhapa's lamrim structure; Patrul Rinpoche, Words of My Perfect Teacher.)
+> "Understand there are three types of individuals—lesser, middling, and superior. I shall set out a system of classification in which their respective characteristics are made completely clear." (Atisha, Lamp for the Path to Enlightenment, verse 2, [trans. Patrick Dowd, Lotsawa House](https://www.lotsawahouse.org/indian-masters/atisha/lamp-path-enlightenment))
 
-**Plain words** The lamrim is a graduated path in which each reflection motivates the next: this life's value and ending, the effects of action, the wish for a steady mind, then equanimity, gratitude and the vast motivation. Skipping steps produces advanced practices on unprepared foundations, with predictable results.
+Tsongkhapa's Great Treatise argues the ordering is not stylistic. Citing Aryadeva, he gives the image:
 
-*For example:* Someone attempts to practise radical compassion without ever having dealt with their own resentment, and it curdles into performance.
+> "The method by which beings who are beginners / Engage in the ultimate purpose / Was said by the perfect Buddha / To be like the steps of a staircase." (Aryadeva, Lamp Which Is a Compendium of Deeds, quoted in Tsongkhapa, Great Treatise on the Stages of the Path, vol. 1)
+
+The Four Hundred Stanzas, in the same section, "states that the order of the path is definite": first stop the nonmeritorious, then the misconception of self, then all bad views. Tsongkhapa notes that Candrakirti held the same, and tells the teacher to "reach firm certainty about this method". ([Great Treatise vol. 1](https://www.theosophy-ult.org.uk/wp-content/uploads/2021/04/Vol-1-Lamrim-on-Path-to-Enlightenment-Tsong-kha-pa.pdf))
+
+**Plain words**
+The path is built like a staircase: each step is the footing for the next. The early trainings are not warm-ups for the real thing; the advanced practices stand on them. When a practice keeps collapsing, the missing piece is usually below you, not ahead of you.
+
+For example: Someone attempts to practise radical compassion without ever having dealt with their own resentment, and it curdles into performance.
+
+## Sources
+
+- [Atisha, Lamp for the Path to Enlightenment, verse 2 (trans. Patrick Dowd, Lotsawa House)](https://www.lotsawahouse.org/indian-masters/atisha/lamp-path-enlightenment)
+- [Tsongkhapa, The Great Treatise on the Stages of the Path to Enlightenment, vol. 1](https://www.theosophy-ult.org.uk/wp-content/uploads/2021/04/Vol-1-Lamrim-on-Path-to-Enlightenment-Tsong-kha-pa.pdf) — "The Three Types of Persons" section: the staircase verse (Aryadeva), the Four Hundred Stanzas quote on the path's definite order, and Candrakirti's reading; verified against a text extraction of the downloaded PDF
 
 ## Psychology parallels
 
