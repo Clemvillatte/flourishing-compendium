@@ -1,15 +1,13 @@
 {
  "batch": "p1zq",
- "done": [
-  "Y097"
- ],
- "in_progress": "Y095",
+ "done": [],
+ "in_progress": "Y097",
  "flagged": {
   "Y095": "Reopened for QC: advisor QC round-1 fail: translation attribution, mechanism overreach, humanizer defects",
-  "Y097": "advisor QC round 1 fail: verse supports teacher/apprenticeship not the never-terminate mechanism; detector was 61% replicate; example not labelled imagined; humanizer defects (arrival/closing aphorism, self-mechanism, dashes, second-one/first-one closer); saturation not actually run"
+  "Y097": "Reopened for QC: advisor QC round-1 fail: verse does not support the never-terminate mechanism; 61% replicate; example not labelled; saturation not run"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:22:19+00:00",
+ "updated": "2026-10-20T11:22:28+00:00",
  "band_done": false
 }
