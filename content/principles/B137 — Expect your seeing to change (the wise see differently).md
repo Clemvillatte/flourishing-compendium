@@ -12,13 +12,13 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 137** — Expect your seeing to change (the wise see differently)
 
-The Dhammapada's three verses on the marks are instructions in seeing. All conditioned things are impermanent, unsatisfactory, not-self; when one sees this with wisdom, one turns away from suffering. The verse does not tell the reader something new; it tells them to look until the seeing itself shifts. (Dhammapada 277-279.)
+The Dhammapada's three verses on the marks are instructions in seeing. All conditioned things are impermanent; all conditioned things are unsatisfactory; all things are not-self; when one sees this with wisdom, one turns away from suffering. The verse does not tell the reader something new; it tells them to look until the seeing itself shifts. (Dhammapada 277-279.)
 
 > "'All conditioned things are impermanent' — when one sees this with wisdom, one turns away from suffering. This is the path to purification." (Dhammapada 277, [Buddharakkhita, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.20.budd.html))
 
 SN 12.23 gives the training chain explicitly: knowledge and vision of things as they actually are has concentration as its prerequisite, concentration has pleasure, pleasure serenity, serenity rapture, rapture joy, joy conviction. Seeing differently is not a lucky insight; it is the end of a trainable sequence, which is why the practice sections below exist. (SN 12.23.)
 
-> "Joy has conviction as its prerequisite, rapture has joy as its prerequisite, serenity has rapture as its prerequisite, pleasure has serenity as its prerequisite, concentration has pleasure as its prerequisite, knowledge & vision of things as they actually are present has concentration as its prerequisite" (SN 12.23, [Thanissaro, Access to Insight](https://www.accesstoinsight.org/tipitaka/sn/sn12/sn12.023.than.html))
+> "joy has conviction as its prerequisite, rapture has joy as its prerequisite, serenity has rapture as its prerequisite, pleasure has serenity as its prerequisite, concentration has pleasure as its prerequisite, knowledge & vision of things as they actually are present has concentration as its prerequisite" (SN 12.23, [Thanissaro, Access to Insight](https://www.accesstoinsight.org/tipitaka/sn/sn12/sn12.023.than.html))
 
 **Plain words**
 Pick a domain you have trained in for years, and list what you now see in it that a newcomer cannot: tells in a negotiation, structure in a song, illness in a gait. That list is evidence that seeing is trainable. The next question is what practice would train the seeing you want next.

@@ -387,3 +387,30 @@ priority, then B items in manifest order (manifest lists bare IDs; no titles).
   re-derived; the anxious/avoidant couple kept in the example (imagined, labelled).
 - Limitations: inherited parallels (Cross et al. 2000; Buber; Levinas) NOT opened;
   flagged inherited parallels.
+
+## Item-20 QC round (advisor) — B159 repair + milestone corrections
+
+- B159 (reopened and re-done): TNH How to Fight quote removed — the Goodreads
+  quotes page cannot verify the book's text, so only the opened Dhp 5 is cited now.
+  Body replaced with the advisor's conservative version (non-hatred framing,
+  boundaries preserved, no outcome claims); plain words rewritten as
+  know-vs-guessing (consistent with the Perspective-getting concept body, read in
+  full); example is an imagined official-refusal scene. "1970s heyday"-style
+  unverifiable detail avoided here.
+- B136: "world you meet is downstream of the mind" and "clear mind meets what is"
+  removed — Dhp 1 speaks of mental states and their acts; the [[Clarity of mind]]
+  wikilink preserved with exact original markup inside the exercise sentence.
+- B137: verse 279 distinction restored (277-278 "conditioned things", 279 "all
+  things are not-self"); SN 12.23 quote fragment capitalization fixed to the
+  source's lowercase "joy".
+- B121: hub-hole example (spatial vacancy) replaced with the labelled jar
+  dependence illustration; "Emptiness in this principle is that list" removed.
+- Linked-concept bodies read IN FULL (not head -12) for B111 (Gratitude, Ataraxia,
+  Sufficiency), B121 (Cognitive flexibility, Shunyata, Interbeing) and B159
+  (Dehumanization research, Perspective-getting, Alterity, Karuna): no
+  contradictions; Perspective-getting's ask-don't-imagine finding directly supports
+  B159's repaired exercise. Wu (non-being) exists as the Shunyata body's link
+  target; seed-level, not read (not a B121 parallel).
+- QC cadence note: advisor counts B138 as item 20 and B159 as item 21; my count
+  had B159 as 20. Either way this round covered the milestone; next every-5th QC
+  scheduled at B185 (5 items after B159).

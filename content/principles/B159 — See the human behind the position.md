@@ -12,13 +12,20 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 159** — See the human behind the position
 
-Behind every role, opinion, and uniform is a person who wants what you want. Address the human, not the position.
+Dhammapada 5 places non-hatred at the centre of its response to hatred. This page applies that teaching to disagreements: question what someone says or does without reducing the person to an opposing opinion or an official role.
 
-(Dhammapada 5; Thích Nhất Hạnh.)
+> "Hatred is never appeased by hatred in this world. By non-hatred alone is hatred appeased. This is a law eternal." (Dhammapada 5, [Buddharakkhita, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html))
 
-**Plain words** Behind every role, opinion, and uniform is a person who wants what you want. Address the human, not the position. People defend positions; humans soften when seen. The uniform is armor; the wearer is hot inside it.
+Challenging a decision, refusing a request and keeping a boundary remain part of this suggested practice. Its aim is to do those things without contempt, whether or not the other person agrees.
 
-*For example:* The border agent, the auditor, the referee — treat the position and you get the procedure; treat the person and you sometimes get a miracle.
+**Plain words**
+Before a difficult conversation, separate what you know from what you are guessing. You may know someone's job and what they said; you may not know what they feel or intend. Explain your concern and ask a question rather than supplying their answer yourself.
+
+*For example:* Imagine an official refusing an application. You ask, "Which requirement is missing, and can I provide it?" You can question the refusal while speaking respectfully. The answer may still be no.
+
+## Sources
+
+- [Dhammapada Yamakavagga, Buddharakkhita translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html) — verse 5
 
 ## Psychology parallels
 

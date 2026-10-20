@@ -21,9 +21,9 @@ Nagarjuna's chapter 24 answers the objection that emptiness would make nothing w
 > "Whatever is dependently co-arisen / That is explained to be emptiness. / That, being a dependent designation, / Is itself the middle way." (Nagarjuna, MMK 24.18, [Garfield translation](https://kokyohenkel.weebly.com/uploads/1/2/7/4/127410773/nagarjuna_-_mulamadhyamakakarika_ch_24__garfield_.pdf))
 
 **Plain words**
-Take one thing you treat as solid and ask what it is standing on: the body on food and air, the job on other people's agreements, the self on memory and story. Emptiness in this principle is that list. The exercise is to hold the list in view while using the thing anyway: the door is no less a door for being made of conditions.
+Take one thing you treat as solid and ask what it is standing on: the body on food and air, the job on other people's agreements, the self on memory and story. The exercise is to hold that list in view while using the thing anyway: the door is no less a door for being made of conditions.
 
-*For example:* A wheel works because of the hole at the hub. The emptiness is not a defect in the wheel; it is where the axle lives.
+*For example:* Imagine a jar: clay, water, the potter's hands, fire, the kitchen it ends up in. Take away any one of those and the jar is not there. This is the compendium's illustration of dependent co-arising, not a claim that the jar is imaginary.
 
 ## Sources
 

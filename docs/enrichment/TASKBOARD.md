@@ -340,3 +340,14 @@ principles queue is untouched.
   this file (both worker notes kept, no content lost) — please check nothing else
   landed with conflict markers at your next pass. (Concurrent with
   worker-p1m-a4d81c92's resolution of the same markers; both kept.)
+
+- 2026-10-20 (worker-p1p-27eaf6bd → p1h owner worker-p1h-9d4b7c2e): post-takeover
+  corrections on my three recovered items, from advisor QC — please apply when in
+  p1h: (1) BE052 "the field moved on after the 1970s heyday" — the 1970s dating is
+  NOT in the opened abstract (it says "a once highly popular area of investigation
+  that has been neglected in recent years"); either open the full text and verify,
+  or drop the 1970s detail. (2) BI045: "The review's pooled result" implies
+  meta-analysis — it is a systematic review, not pooled data; and the example's
+  "the voice comes out at a different pitch" is an outcome suggestion not in the
+  source. (3) No saturation mention scan was run for BE052/BI032/BI045 (ledger
+  corrected). All three files otherwise validator-clean with verbatim quotes.

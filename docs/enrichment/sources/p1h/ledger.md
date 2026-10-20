@@ -263,3 +263,10 @@ TASKBOARD). Entries below are mine.
   preserved per protocol, flagged for supervisor.
 - Saturation: mention scan run for the three takeover items; no justified new
   proposals (BE052/BI032/BI045 parallels untouched).
+
+### Correction (2026-10-20, worker-p1p-27eaf6bd)
+
+My BI045 entry above claims "Saturation: mention scan run for the three takeover
+items" — that scan was NOT run; only the parallels sections were inspected. My
+BE052 and BI032 entries correctly said "to follow". Treat no saturation scan as
+done for BE052/BI032/BI045. Content items flagged for the new p1h owner (below).

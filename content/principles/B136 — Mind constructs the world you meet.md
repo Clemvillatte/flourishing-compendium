@@ -12,16 +12,16 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 136** — Mind constructs the world you meet
 
-The Dhammapada's first verse gives the claim: mind precedes all mental states, is their chief, and they are all mind-wrought, so the impure mind's act draws suffering after it like the ox-wheel, and the pure mind's draws happiness like a shadow. The world you meet is downstream of the mind doing the meeting; a [[Clarity of mind|clear mind]] meets what is. (Dhammapada 1.)
+The Dhammapada's first verses give the claim in their own terms: mind precedes all mental states, is their chief, and they are all mind-wrought, so the impure mind's act draws suffering after it like the ox-wheel, and the pure mind's draws happiness like a shadow. The verses speak of mental states and their acts, and the exercise below is one way to apply them to the reading of a scene. (Dhammapada 1.)
 
 > "Mind precedes all mental states. Mind is their chief; they are all mind-wrought." (Dhammapada 1, [Buddharakkhita, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html))
 
-MN 18 gives the same point as process. From contact come feeling and perception; what one perceives, one thinks about; what one thinks about, one objectifies; and based on what a person objectifies, the perceptions and categories of objectification assail him or her with regard to past, present and future forms. The assailing is done by the mind's own classifications. (MN 18.)
+MN 18 gives a related process. From contact come feeling and perception; what one perceives, one thinks about; what one thinks about, one objectifies; and based on what a person objectifies, the perceptions and categories of objectification assail him or her with regard to past, present and future forms. The assailing is done by the mind's own classifications. (MN 18.)
 
 > "Based on what a person objectifies, the perceptions & categories of objectification assail him/her with regard to past, present, & future forms cognizable via the eye." (MN 18, [Thanissaro, Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.018.than.html))
 
 **Plain words**
-The projector image is a good place to start, but make it checkable. For one day, log the first adjective you reach for about each new situation: hostile, boring, promising, fine. At day's end, look at the distribution. The situations varied; the adjectives may not have. That distribution is the lens, and it is the thing that can be worked on.
+The projector image is a good place to start, but make it checkable. For one day, log the first adjective you reach for about each new situation: hostile, boring, promising, fine. At day's end, look at the distribution. The situations varied; the adjectives may not have. That distribution is what the verse asks you to check first, and a [[Clarity of mind|clear mind]] is one name for that checking.
 
 *For example:* Imagine the same office after good news and after bad. The office did not change between the two visits; the reading of it did.
 
