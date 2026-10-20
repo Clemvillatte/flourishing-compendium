@@ -208,3 +208,12 @@ never-band-assigned work; p1g state had them flagged-only, absent from p1g's man
   Interventions" work; left as inherited with this flag.
 - Saturation: PP065 cited by concept space via Fredrickson's positivity portfolios and
   Positive activity interventions parallels (rg: 0 concept pages list PP065 directly).
+
+## R056 — Practise zhengming (rectification of names)
+- Full work: verbatim quote added (Analects 13.3, Legge — the naming chain and the closing
+  "nothing incorrect" sentence), verified against the full Legge Analects text opened at
+  sacred-texts.com/cfu/conf1.htm (ctext and standardebooks robots-blocked; wording identical
+  across the standardebooks search excerpt). Body restructured around the quote; personal
+  application kept. Plain words rewritten as re-derivation with fresh examples (no replication
+  of body sentences). For-example kept (concrete, sound). Sources section added.
+- Saturation: cited by Correspondence theory of truth concept page (rg).
