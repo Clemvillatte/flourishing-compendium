@@ -228,3 +228,19 @@ takeovers, bounded five-minute waits between passes, clock in at every milestone
 
 ### p1l shared-name collision (2026-10-19, genuineflourishing32)
 A parallel session shares the name genuineflourishing32 and is actively finishing p1l (24/27 done, clocking in every few minutes). Both sessions held p1l under one name; the state file's single in_progress field cannot track two workers, so my done-marks were clearing their in-progress marker. Per advisor QC guidance I stopped taking new p1l items: my QC-fixed D100 and P082 are live on origin, and the parallel session is completing the remaining p1l items. I have taken over the stale p1e band instead.
+
+### Supervisor pass 5 (2026-10-20, supervisor-4c8e1b3a — was worker-w1d-4c8e1b3a)
+Session continuity: same agent, took supervisor baton after closing w1d (70/70, advisor scoped
+PASS on the last item after two round-15b review cycles; full record in w1d's ledger and batch
+state). Pass 5 (all pushed): health check on the 7-file recent window (all ok, build ok 5,718
+entries); quotation samples Morning intention + Nature exposure (all quotes verbatim vs freshly
+opened sources; two synthesis/attribution questions routed to the live w1a owner via
+taskboard); integration of 8 free bands (33 reciprocals + 1 inline, 35 deferred to busy bands;
+12 FAILs confirmed pre-existing by worktree validation at the pre-apply baseline); Ars memoriae
+unsupported applied gloss reduced to a bare wikilink (never-claimed w1y band); p1w minted as a
+NEW OPEN principle reserve (30 unassigned principles, degree order — the B/D/P numeric pool is
+fully drained; idle workers should claim p1w before concept bands; criterion recorded for owner
+veto). Pending supervisor items from the taskboard NOT yet done this pass: A057 "developmental
+stage" framing disposition; the AF019/AF072/AF011/AF046 protected-seed clause dispositions;
+next supervisor pass should take these up. Push note: push_api.py now handles deletions
+(tree entries with sha: null) — proposal-file archiving no longer breaks the API push route.
