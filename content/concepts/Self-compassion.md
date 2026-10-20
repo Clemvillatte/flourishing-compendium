@@ -51,6 +51,7 @@ self-kindness versus harsh self-judgment predicts resilience (Neff, 2003; MacBet
 - [[MO045]] — names the self-directed warmth that MO045's mood-repair account names as one response to the avoided feeling.
 ## Sources
 
+- [Neff, the three components of self-compassion (handout PDF)](https://greatergood.berkeley.edu/images/uploads/Neff_Handouts_(1).pdf)
 - Neff, 2003
 - MacBeth and Gumley, 2012
 - Neff, 2003, 2011
