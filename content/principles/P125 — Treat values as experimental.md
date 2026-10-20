@@ -20,18 +20,18 @@ The mechanism he describes is learning from experience. In his account, growing 
 
 > "Agreement between what is wanted and anticipated and what is actually obtained confirms the selection of conditions which operate as means to the desired end; discrepancies, which are experienced as frustrations and defeats, lead to an inquiry to discover the causes of failure." (Dewey, Theory of Valuation, pp. 30-31, [archive.org text](https://archive.org/details/theoryofvaluatio032168mbp))
 
-He notes that folk wisdom already runs this way: proverbs like "Look before you leap" and "When angry count ten" teach the same move, in which a desire is settled by what would follow from acting on it rather than by how it first appears (p. 32). And where values have hardened into general ideas carried from situation to situation, he gives them the status of working instruments rather than fixed verdicts: like the general ideas of a natural science, they are used to judge particular cases and are themselves developed and tested by the results of that application (p. 44).
+He notes that folk wisdom already runs this way: proverbs like "Look before you leap" and "When angry count ten" teach the same move, in which a desire is settled by what would follow from acting on it rather than by how it first appears (p. 32). And when values serve as general guides across situations, he gives them the status of working instruments rather than fixed verdicts: like the general ideas of a natural science, they are used to judge particular cases and are themselves developed and tested by the results of that application (p. 44).
 
 The compendium's exercise: pick one value you hold and write down what it directs you to do and what you expect acting on it to produce. Later, put the expected consequences beside the observed ones and investigate the difference: whether the aim, the method or the circumstances need another look. The value is being treated as a proposal to check.
 
 **Plain words**
-A value tells you what to aim at. Acting on it produces results, and the results can be examined: whether the aim, the method or the circumstances need another look. The work is reading the gap between what was wanted and what arrived, rather than explaining the gap away.
+An unwelcome result gives you something to investigate. Find out why it happened before deciding what to change. You may need a different way of pursuing the commitment, or reasons to reconsider the commitment itself.
 
 *For example:* Imagine someone who expresses family loyalty by answering every call immediately. After recording a season of interrupted work and tense conversations, they try an agreed evening call time instead, then review what the change produces. The value stays; the practice under it is what gets tested.
 
 ## Sources
 
-- [Theory of Valuation, John Dewey (University of Chicago Press, 1939; Internet Archive text)](https://archive.org/details/theoryofvaluatio032168mbp) — pp. 21, 30-32
+- [Theory of Valuation, John Dewey (University of Chicago Press, 1939; Internet Archive text)](https://archive.org/details/theoryofvaluatio032168mbp) — pp. 22, 30-32, 44
 
 ## Psychology parallels
 
