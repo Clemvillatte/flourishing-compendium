@@ -192,3 +192,23 @@ All three files revalidated (3 checked, 0 failed) after repairs.
 - Saturation: fast-track exemption; no reciprocal proposed (P167's reciprocal
   proposals already cover the Rogers linkage per the p1r ledger).
 - QC: validator ok.
+
+## Creative values
+
+- Track: fast-track, current degree 6 (2 layers + 2 principles + 1 story).
+- Opened: https://dn790009.ca.archive.org/0/items/BetweenPastAndFutureHannahArendt/Man's%20Search%20For%20Meaning%20-%20Viktor%20Frankl.pdf
+  (Beacon Press edition full-text PDF hosted at the Internet Archive),
+  downloaded and pdftotext-extracted 2026-10-20.
+- Quotations, copied from the extracted text (line-wrap normalized): the
+  three-ways sentence ("According to logotherapy... unavoidable suffering.")
+  as blockquote; the comment fragment ("The first, the way of achievement
+  or accomplishment, is quite obvious.").
+- Related concepts verified to exist: The will to meaning (deg 15),
+  Meaning-making (deg 22). D001/ST293/V1K-S01/V2K-S01 links preserved from
+  the seed body (no relationship clauses invented for them).
+- Limits: page-number locators in this PDF edition not extracted; the
+  passage cited by section context (the logotherapy chapter's three-ways
+  passage). The archive.org item hosts the PDF under a differently-named
+  collection; the book text itself is intact per the extraction.
+- Saturation: fast-track exemption; no reciprocal proposed.
+- QC: validator ok.
