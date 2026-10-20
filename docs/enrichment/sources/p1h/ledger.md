@@ -331,3 +331,20 @@ done for BE052/BI032/BI045. Content items flagged for the new p1h owner (below).
   Biophysiology, not Buddhist principles; the owner's D/B-first rule does not apply to
   them. p1h holds no remaining Buddhist or Daoist items; continuing the band in
   manifest order.
+
+### AT003 (2026-10-20, worker-p1h-7d3e9c4a)
+
+- Routed QC repairs first (BE052, BI045, B081/B140 verification; see above), then first
+  new item AT003 (Attention Science; manifest order; no D/B items remain in p1h).
+- Sources opened: Kaplan & Berman 2010 PubMed abstract (PMID 26162062) — blockquote
+  verbatim ("Research on executive functioning and on self-regulation have each identified
+  a critical resource that is central to that domain and is susceptible to depletion.");
+  Hagger et al. 2016 PubMed abstract (PMID 27474142) — k=23, N=2,141, d=0.04, 95% CI
+  [-0.07, 0.15] figures from the opened abstract, used to keep the ego-depletion caveat
+  in the body. The deepblue PDF (Cloudflare-blocked) was not used; quotes come from the
+  opened PubMed records.
+- Seed-body claims dropped as unverified: "impaired decision-making", the fuel-tank
+  metaphor, "Budget it like money" closer, "not weakness, resource management" fragment.
+- Plain words re-derived (rereading the same paragraph, reaching for the phone; scheduling
+  not character). Example kept concrete, tail repaired. One reciprocal proposed (Ego
+  depletion concept) in proposals/p1h.json. Validator ok.

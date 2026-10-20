@@ -12,11 +12,21 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AT — Attentio
 ---
 > **Principle 3** — Recognise that attention is a limited resource: it can be depleted and fatigued
 
-Directed attention — the effortful, voluntary focusing of awareness — is a limited resource that can be depleted. Prolonged concentration leads to attentional fatigue, characterised by increased distractibility, reduced capacity to focus, and impaired decision-making.
+Directed attention, the effortful and voluntary focusing of awareness, is what you spend when a task requires holding your mind on one thing. The research program behind this principle treats that capacity as a resource: executive functioning and self-regulation each identify a central resource susceptible to depletion, and the two literatures appear to be describing the same one. (Kaplan & Berman, 2010.)
 
-**Plain words** Focused attention is a fuel tank, not a personality trait. It depletes, it refills, and pretending otherwise is how people end up weeping in a spreadsheet at 4 p.m. Budget it like money.
+> "Research on executive functioning and on self-regulation have each identified a critical resource that is central to that domain and is susceptible to depletion." (Kaplan & Berman, 2010, [abstract](https://pubmed.ncbi.nlm.nih.gov/26162062/))
 
-*For example:* The parent who does the taxes after bedtime instead of during the toddler's dinner — not weakness, resource management.
+Kaplan and Berman propose that natural environments help restore the shared resource, which is why rest is part of this principle rather than an afterthought. One popular cousin of the claim did not survive testing: the ego-depletion model of willpower, where a 23-lab preregistered replication found the pooled effect close to zero. What survives is narrower and still useful. Sustained demanding tasks degrade later attention performance, and recovery conditions matter, so the practice below schedules demanding work and recovery instead of assuming hours of unbroken effortful focus. (Hagger et al., 2016.)
+
+**Plain words**
+Holding your attention on something effortful is work, and the capacity to do it runs down over a long session. The sign is familiar: you reread the same paragraph, you reach for the phone, the task feels harder than it did an hour ago. This is not a character flaw. Put the demanding work where you are fresh, and let the capacity recover between efforts.
+
+*For example:* The parent who does the taxes after bedtime instead of during the toddler's dinner is scheduling, not being weak.
+
+## Sources
+
+- [Kaplan & Berman (2010), Directed Attention as a Common Resource for Executive Functioning and Self-Regulation, Perspectives on Psychological Science 5(1):43-57](https://pubmed.ncbi.nlm.nih.gov/26162062/)
+- [Hagger et al. (2016), A Multilab Preregistered Replication of the Ego-Depletion Effect, Perspectives on Psychological Science 11(4):546-573](https://pubmed.ncbi.nlm.nih.gov/27474142/)
 ## Psychology parallels
 
 - **[[Directed attention fatigue|Directed attention fatigue]]**, sustained effortful attention depletes capacity and impairs performance (Kaplan, 1995; Kaplan & Berman, 2010)

@@ -38,7 +38,8 @@
   "BE048",
   "BI032",
   "BE052",
-  "BI045"
+  "BI045",
+  "AT003"
  ],
  "in_progress": null,
  "flagged": {
@@ -71,6 +72,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 15,
- "updated": "2026-10-20T03:18:38+00:00",
+ "updated": "2026-10-20T03:22:47+00:00",
  "band_done": false
 }
