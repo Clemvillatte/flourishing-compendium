@@ -68,14 +68,14 @@
   {
    "into": "Attention",
    "link": "The discipline of attention",
-   "why": "The general capacity, of which Weil\u2019s account is one specific tradition.",
-   "notes": "w1c takeover (worker-p1d-8f3a21c4, 2026-10-20): advisor QC rounds 1-2 repairs applied; Weil essay + SEP opened."
+   "why": "Weil\u2019s account of attention in study, prayer, and attention to a sufferer.",
+   "notes": "w1c takeover (worker-p1d-8f3a21c4, 2026-10-20): advisor QC rounds 1-3; Weil essay (rendered-page verified), SEP, Bishop 2004, Hasenkamp 2012, Eysenck 2007, Corbetta & Shulman 2002, Wikipedia Flow all opened."
   },
   {
    "into": "Bare attention in mindfulness practice",
    "link": "The discipline of attention",
-   "why": "Bishop et al.\u2019s bare attention attends to present experience before interpretation; Weil\u2019s attention suspends thought and waits for the object. An editorial comparison of two descriptions.",
-   "notes": "same session; no shared-mechanism claim."
+   "why": "Bishop et al.\u2019s bare attention is the self-regulation of attention on immediate experience with inhibition of elaborative processing; Weil\u2019s attention suspends thought and waits for the object. An editorial comparison of two descriptions.",
+   "notes": "same session; definitions verified from the opened sources."
   },
   {
    "into": "Empathy",
@@ -87,25 +87,25 @@
    "into": "Flow",
    "link": "The discipline of attention",
    "why": "An editorial contrast between absorption in activity and Weil\u2019s receptive waiting.",
-   "notes": "same session."
+   "notes": "same session; Flow definition verified from Wikipedia (the target page\u2019s cited source)."
   },
   {
    "into": "Attentional control theory (Eysenck)",
    "link": "The discipline of attention",
    "why": "A scientific account of attention under anxiety, paired editorially with Weil\u2019s account.",
-   "notes": "same session."
+   "notes": "same session; Eysenck et al. 2007 opened (tu-dresden PDF)."
   },
   {
    "into": "Attentional control training and the role of repeated redirection",
    "link": "The discipline of attention",
-   "why": "Practising the notice of distraction and the return of attention to a chosen object; Weil\u2019s essay makes the development of the faculty of attention the object of studies.",
-   "notes": "same session; second clause is the essay\u2019s own thesis sentence (p. 105)."
+   "why": "Weil treats study as practice for developing attention.",
+   "notes": "same session; Hasenkamp et al. 2012 opened (PDF)."
   },
   {
    "into": "Two modes of attentional control",
    "link": "The discipline of attention",
    "why": "Stimulus-driven versus goal-directed attention; an editorial pairing with Weil\u2019s account.",
-   "notes": "same session."
+   "notes": "same session; Corbetta & Shulman 2002 abstract opened via PubMed E-utilities (PMID 11994752); full-text PDF mirror blocked by robots, abstract supports the two-systems clause."
   }
  ],
  "notes": "First concept: Amor sui (right self-love). All 12 original links preserved. Facets section (vs self-contempt) folded into prose. Definition quote is Ethics IIIp55 scholium (verified against Gutenberg Elwes text); rational demand is IVp18 scholium. Related-clause support sources (SEP Rousseau/Nietzsche/Stoicism, Wikipedia self-compassion) listed in the page's Sources section. | deferred at this run (target band busy): 6 recip, 0 inline | deferred at this run (target band busy): 21 recip, 0 inline | deferred at this run (target band busy): 11 recip, 0 inline | deferred at this run (target band busy): 11 recip, 0 inline Supervisor repair (2026-10-20): removed 3 reciprocals into \"Character as habits\" \u2014 target page no longer exists (namespace merge into [[Habit]], 2026-10-20); re-targeting is a new semantic decision, not mechanical. | deferred at this run (target band busy): 8 recip, 0 inline"

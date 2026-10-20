@@ -64,10 +64,70 @@ legacy schema (state keys + proposals) — MERGED, never replaced.
   6. Ledger stale statements corrected (1951, SEP-not-opened, 3
      reciprocals, exact-title).
   Round 3: submitted with WIP checkpoint.
-- Proposals: 7 reciprocals (one per Related line: Attention, Bare attention
-  in mindfulness practice, Empathy, Flow, Attentional control theory
-  (Eysenck), Attentional control training, Two modes of attentional
-  control) in proposals/w1c.json, merged with the 8 inherited records.
+- Advisor QC round 3: FAIL (evidence checks). Both checks completed:
+  1. RENDERED-PAGE VERIFICATION: the Matheson PDF was downloaded and the
+     six quote-bearing pages rendered to images and read visually
+     (pdftoppm + image inspection). Result: every post-105 locator on the
+     page was OFF BY ONE and has been corrected — pupils/muscles and the
+     desire quotation are on printed p. 110 (not 109); negative effort
+     p. 111; empty/waiting p. 112; sufferer fragments p. 114; Grail
+     question p. 115; key-to-Christian p. 105 (was and remains correct).
+     The earlier OCR-header extrapolation guessed the numbers; the rendered
+     pages are authoritative and the page now cites them.
+  2. OUTSIDE SOURCES OPENED for the Related definitions:
+     - Bishop et al. 2004 (PDF, personal.kent.edu mirror): "The first
+       component involves the self-regulation of attention so that it is
+       maintained on immediate experience..." and "the inhibition of
+       elaborative processing". "Before interpretation" (the target
+       page's gloss) is NOT Bishop's wording; my clause now uses Bishop's
+       verified wording.
+     - Hasenkamp et al. 2012 (PDF, wendyhasenkamp.net): four-interval
+       cycle "mind wandering, awareness of mind wandering, shifting of
+       attention, and sustained attention" — supports the ACT-training
+       clause.
+     - Wikipedia "Flow (psychology)" via REST summary: "flow is
+       characterized by the complete absorption in what one does" —
+       supports the Flow clause.
+     Related reduced to five links per the advisor's option: ACT (Eysenck)
+     and Two modes dropped (their journal sources were not opened);
+     corresponding proposals removed. Attention, Bare attention, Flow,
+     Empathy, ACT training retained with verified clauses.
+     VALIDATOR OVERRULED THE DROP: enrich_validate.py FAILed ("LOST 2
+     original links") because the 7-link Related section had already been
+     pushed in the round-2 WIP checkpoint, so the validator treats the
+     two links as original. Repaired by VERIFYING both definitions from
+     opened sources and restoring the two links with verified clauses:
+     - Eysenck et al. 2007, "Anxiety and Cognitive Performance:
+       Attentional Control Theory" (Emotion 7(2)), PDF opened at
+       tu-dresden.de: "anxiety impairs efficient functioning of the
+       goal-directed attentional system and increases the extent to which
+       processing is influenced by the stimulus-driven attentional
+       system" (abstract).
+     - Corbetta & Shulman 2002, "Control of goal-directed and
+       stimulus-driven attention in the brain" (Nat Rev Neurosci
+       3:201-215), abstract opened via PubMed E-utilities (PMID 11994752):
+       one system "involved in preparing and applying goal-directed
+       (top-down) selection for stimuli and responses", the other
+       "specialized for the detection of behaviourally relevant stimuli,
+       particularly when they are salient or unexpected". (The cmu.edu
+       full-text PDF mirror is robots-blocked; the abstract supports the
+       two-systems clause.)
+     Both links and their 2 proposals restored; Related is back to seven
+     links, all with opened-source definitions. Both sources added to the
+     page's Sources.
+  3. Proposals: seven reciprocals (one per Related line) with the
+     advisor's directionally correct
+     clauses (Attention: "Weil's account of attention in study, prayer,
+     and attention to a sufferer."; ACT training: "Weil treats study as
+     practice for developing attention."; Empathy and Flow as approved;
+     Bare attention reworded to Bishop's verified description).
+  4. Bishop 2004, Hasenkamp 2012, and Wikipedia Flow added to the page's
+     Sources with URLs.
+  Round 4: submitted with the rendered-page and opened-source evidence.
+- Proposals: 5 reciprocals (one per retained Related line: Attention, Bare
+  attention in mindfulness practice, Empathy, Flow, Attentional control
+  training and the role of repeated redirection) in proposals/w1c.json,
+  merged with the 8 inherited records.
 - Advisor QC: round 1 FAIL (first item of the w1c takeover). Blocking
   repairs applied:
   1. Opening naming claim replaced ("the discipline of attention" is the

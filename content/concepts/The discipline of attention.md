@@ -17,21 +17,21 @@ In this compendium, "The discipline of attention" refers to Simone Weil's accoun
 
 ### Not muscular effort
 
-Weil's first move is to separate attention from straining. A pupil told to pay attention contracts the brows, holds the breath, stiffens the muscles; asked afterward what they attended to, they cannot reply. "They have not been paying attention. They have been contracting their muscles." (p. 109)
+Weil's first move is to separate attention from straining. A pupil told to pay attention contracts the brows, holds the breath, stiffens the muscles; asked afterward what they attended to, they cannot reply. "They have not been paying attention. They have been contracting their muscles." (p. 110)
 
 > "The intelligence can only be led by desire. For there to be desire, there must be pleasure and joy in the work."
 >
-> (Weil, Waiting for God, "Reflections on the Right Use of School Studies", p. 109)
+> (Weil, Waiting for God, "Reflections on the Right Use of School Studies", p. 110)
 
-She calls attention an effort, "the greatest of all efforts perhaps, but it is a negative effort" (p. 110): it does not grab, it waits. The thought is "empty, waiting, not seeking anything, but ready to receive in its naked truth the object that is to penetrate it" (p. 111). The [Stanford Encyclopedia entry](https://plato.stanford.edu/entries/simone-weil/) glosses the French of that passage: en attente, waiting; ne rien chercher, not seeking anything.
+She calls attention an effort, "the greatest of all efforts perhaps, but it is a negative effort" (p. 111): it does not grab, it waits. The thought is "empty, waiting, not seeking anything, but ready to receive in its naked truth the object that is to penetrate it" (p. 112). The [Stanford Encyclopedia entry](https://plato.stanford.edu/entries/simone-weil/) glosses the French of that passage: en attente, waiting; ne rien chercher, not seeking anything.
 
 ### Attention to the sufferer
 
-The essay ends by joining attention to the love of neighbor. Those who are unhappy "have no need for anything in this world but people capable of giving them their attention" (p. 113), and the capacity to give it is "a very rare and difficult thing; it is almost a miracle; it is a miracle" (p. 113). The whole of neighbor-love, she writes, means being able to ask the Grail question:
+The essay ends by joining attention to the love of neighbor. Those who are unhappy "have no need for anything in this world but people capable of giving them their attention" (p. 114), and the capacity to give it is "a very rare and difficult thing; it is almost a miracle; it is a miracle" (p. 114). The whole of neighbor-love, she writes, means being able to ask the Grail question:
 
 > "The love of our neighbor in all its fullness simply means being able to say to him: 'What are you going through?'"
 >
-> (Weil, Waiting for God, "Reflections on the Right Use of School Studies", p. 114)
+> (Weil, Waiting for God, "Reflections on the Right Use of School Studies", p. 115)
 
 ### In the compendium
 
@@ -49,17 +49,22 @@ The lines below are editorial comparisons between Weil's account and the compend
 ## Related concepts
 
 - [[Attention]] — the general capacity this page treats in Weil's specific account
-- [[Bare attention in mindfulness practice]] — attends to present experience before interpretation (Bishop et al. 2004); an editorial comparison with Weil's empty, waiting attention
+- [[Bare attention in mindfulness practice]] — the self-regulation of attention so that it is maintained on immediate experience, with inhibition of elaborative processing (Bishop et al. 2004); an editorial comparison with Weil's empty, waiting attention
 - [[Flow]] — an editorial contrast between absorption in activity and Weil's receptive waiting
 - [[Empathy]] — Weil connects attention to asking a sufferer what they are going through
-- [[Attentional control theory (Eysenck)]] — a scientific account of attention under anxiety
-- [[Attentional control training and the role of repeated redirection]] — practising the notice of distraction and the return of attention to a chosen object; Weil's essay makes the development of the faculty of attention the object of studies
-- [[Two modes of attentional control]] — stimulus-driven versus goal-directed attention; an editorial pairing with Weil's account
+- [[Attentional control theory (Eysenck)]] — a scientific account of attention under anxiety: anxiety impairs the goal-directed attentional system and increases the influence of the stimulus-driven system (Eysenck et al. 2007)
+- [[Attentional control training and the role of repeated redirection]] — the noticing of distraction and the return of attention, modelled as a cycle of mind wandering, awareness, shifting, and sustained attention (Hasenkamp et al. 2012); Weil's essay makes the development of the faculty of attention the object of studies
+- [[Two modes of attentional control]] — one system for goal-directed, top-down selection of stimuli and responses, one for detecting behaviourally relevant, salient stimuli (Corbetta and Shulman 2002); an editorial pairing with Weil's account
 
 ## Sources
 
 - [Simone Weil, "Reflections on the Right Use of School Studies with a View to the Love of God" (1942), in Waiting for God, full text PDF (The Matheson Trust; printed pp. 105-116)](https://www.themathesontrust.org/papers/christianity/Weil-Reflections.pdf) — all Weil quotations on this page
 - [Rozelle-Stone and Davis, "Simone Weil", Stanford Encyclopedia of Philosophy (2018, rev. 2025)](https://plato.stanford.edu/entries/simone-weil/) — the essay's date (1942), the Craufurd translation of the book, the French terms, and the characterization of attention as an ethical orientation
+- [Bishop et al., "Mindfulness: A Proposed Operational Definition", Clinical Psychology: Science and Practice 11(3) (2004), PDF](https://www.personal.kent.edu/~dfresco/mindfulness/Bishop_et_al.pdf) — the two-component definition quoted on the Bare attention line
+- [Hasenkamp et al., "Mind wandering and attention during focused meditation: A fine-grained temporal analysis of fluctuating cognitive states", NeuroImage 59 (2012), PDF](https://wendyhasenkamp.net/wp-content/uploads/2016/02/hasenkamp-neuroimage-2012.pdf) — the four-interval cycle quoted on the Attentional control training line
+- [Eysenck et al., "Anxiety and Cognitive Performance: Attentional Control Theory", Emotion 7(2) (2007), PDF](https://tu-dresden.de/mn/psychologie/ifap/allgpsy/ressourcen/dateien/lehre/pruefungsliteratur_KN_2013/Eysenck-2007.pdf?lang=en) — the anxiety and attentional-control claim on the Attentional control theory line
+- [Corbetta and Shulman, "Control of goal-directed and stimulus-driven attention in the brain", Nature Reviews Neuroscience 3:201-215 (2002), abstract, PMID 11994752](https://pubmed.ncbi.nlm.nih.gov/11994752/) — the two-systems claim on the Two modes line
+- [Wikipedia, "Flow (psychology)"](https://en.wikipedia.org/wiki/Flow_(psychology)) — the definition of flow as absorption in what one does
 - Simone Weil, Waiting for God
 
 [[K332 — Life chapter mapping]]
