@@ -9,7 +9,8 @@
   "Simplicity as practice",
   "Self-compassion",
   "Learning by experience",
-  "Life lived forwards"
+  "Life lived forwards",
+  "Mastery experiences"
  ],
  "in_progress": null,
  "flagged": {
@@ -26,6 +27,7 @@
   "Simplicity as practice": "fast-track done 2026-10-20; Legge DDJ 19 closing couplet quoted verbatim from the opened Sacred Texts page; NOTE: Legge renders the chapter ending as a rhymed couplet (\"simple views, and courses plain and true...\") rather than the \"uncarved block\" wording — the uncarved block was NOT mentioned (unverified in the opened chapter).",
   "Self-compassion": "fast-track pass 2026-10-20: page ALREADY ADEQUATE — light check per skip-ahead rule. REPAIRED: Sources URL (opened Neff handout, already cited in body). ROUTED: dash budget 18/3 (pre-existing writing condition, page predates the budget; validator confirmed present in the pre-edit HEAD version) — needs a dedicated rewording pass, NOT a fast-track item; queued for supervisor QC routing (w1a band, released).",
   "Learning by experience": "fast-track done 2026-10-20; Dewey 1938 pp. 25-26 passage quoted via the ERIC article (raw-extraction verified); the archive.org full-text scan has an OCR error (\"ah\" for \"all\" at this sentence) — the ERIC quotation is the verbatim authority; continuity criterion grounded in the same verified passage.",
-  "Life lived forwards": "fast-track done 2026-10-20; the FULL journal entry (JJ:167, 1843, Skrifter vol. 18 p. 306) quoted verbatim from the opened Iowa provenance page (with the Danish original); the popular aphorism is a PARAPHRASE and is described as such, not quoted; the entry's closing twist (no moment of rest for the backward view) is carried into the synthesis."
+  "Life lived forwards": "fast-track done 2026-10-20; the FULL journal entry (JJ:167, 1843, Skrifter vol. 18 p. 306) quoted verbatim from the opened Iowa provenance page (with the Danish original); the popular aphorism is a PARAPHRASE and is described as such, not quoted; the entry's closing twist (no moment of rest for the backward view) is carried into the synthesis.",
+  "Mastery experiences": "fast-track done 2026-10-20; Bandura 1994 chapter passage verified via raw pdftotext of the full chapter PDF (univ-lorraine mirror); note the page-break in the raw text between \"obstacles\" and \"through perseverant effort\" — quote joined as continuous prose."
  }
 }

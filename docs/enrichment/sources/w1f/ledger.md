@@ -122,3 +122,14 @@
   the paraphrase separately; the page body says so without quoting the paraphrase.
 - SYNTHESIS FLAG: "the backward view is taken from inside a life that is still moving" is
   the compendium's gloss on the entry's final clause.
+
+## Mastery experiences (2026-10-20, fast-track; degree 11 — eligible)
+
+- VERIFICATION: concept REAL (Bandura, self-efficacy sources; 1977 paper named it
+  performance accomplishments, 1994 chapter mastery experiences).
+- OPENED: Bandura, "Self-Efficacy," Encyclopedia of Human Behavior (1994), full chapter
+  PDF at https://coalea.univ-lorraine.fr/sites/coalea.univ-lorraine.fr/files/bandura1994ehb.pdf
+  — passage quoted VERBATIM via raw pdftotext (page break mid-sentence noted; joined as
+  continuous prose).
+- SYNTHESIS FLAG: "easy successes make brittle belief" is the compendium's gloss on
+  Bandura's easy-successes passage.
