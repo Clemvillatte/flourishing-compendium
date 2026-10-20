@@ -47,3 +47,6 @@ No advisor tool available; QC is self-QC only.
 
 ## SO026 Use community as a resource
 - Opened: Wiley abstract page (paywalled article), PMC10314672 and Rotman & Wu chapter (both quote the McMillan-Chavis definition, p. 9). Definition therefore SECOND-HAND, labelled so. Kawachi & Berkman, Wandersman & Florin, Biglan, Aristotle I.7, Tutu not opened.
+
+## SO027 Choose communities that align with your values
+- Opened: Aristotle NE II (Ross, MIT) text; Christakis & Fowler 2007 PubMed abstract. Confucius (Analects 4.1) page blocked (ctext bot wall; Wikisource 429), so not used. Kramer 2014, Coviello 2014, Tajfel & Turner, Merton not opened. Obesity study labelled as associational and off-topic (weight).
