@@ -1,21 +1,6 @@
 {
  "reciprocal": [
   {
-   "into": "Nonattachment",
-   "link": "Non-attachment",
-   "why": "the Buddhist ideal this psychological construct was built to measure"
-  },
-  {
-   "into": "Impermanence",
-   "link": "Non-attachment",
-   "why": "non-attachment responds to impermanence: clinging to what cannot last causes suffering"
-  },
-  {
-   "into": "Detachment from outcomes",
-   "link": "Non-attachment",
-   "why": "the Gita's counsel to act without attachment to results, and its contrast with apathy"
-  },
-  {
    "into": "HPA axis theory stress",
    "link": "Behavioral epigenetics",
    "why": "epigenetic studies link early care to lasting HPA-axis calibration"
@@ -31,44 +16,9 @@
    "why": "maternal care studies connect attachment quality to epigenetic programming"
   },
   {
-   "into": "Atman",
-   "link": "Maya (illusion)",
-   "why": "Maya veils the Self; Brahman alone is real"
-  },
-  {
    "into": "Avidya",
    "link": "Maya (illusion)",
-   "why": "ignorance is the subjective side of what Maya presents as appearance"
-  },
-  {
-   "into": "Deliberate practice",
-   "link": "Openness and not knowing in skilled practice",
-   "why": "expert practice includes monitoring what you do not yet know"
-  },
-  {
-   "into": "Beginner's mind",
-   "link": "Openness and not knowing in skilled practice",
-   "why": "the Zen stance of staying open where fixed knowing would close"
-  },
-  {
-   "into": "Intuitive expertise",
-   "link": "Openness and not knowing in skilled practice",
-   "why": "expert intuition can coexist with explicit awareness of its limits"
-  },
-  {
-   "into": "COM-B model theory",
-   "link": "Behavior change wheel theory Michie",
-   "why": "the COM-B system whose components the wheel maps onto intervention functions"
-  },
-  {
-   "into": "Transtheoretical model (Prochaska & DiClemente)",
-   "link": "Behavior change wheel theory Michie",
-   "why": "readiness stages complement the capability, opportunity and motivation analysis"
-  },
-  {
-   "into": "Implementation intentions",
-   "link": "Behavior change wheel theory Michie",
-   "why": "if-then planning as an intervention technique applied to motivation and opportunity"
+   "why": "ignorance and illusion work together in advaita epistemology"
   },
   {
    "into": "Post-traumatic growth",
@@ -111,9 +61,9 @@
    "why": "the repeated redirection practice that counters the syndrome"
   },
   {
-   "into": "Confirmation bias",
-   "link": "Cognitive bias modification theory",
-   "why": "a cognitive bias that interpretive modification procedures aim to retrain"
+   "into": "COM-B model theory",
+   "link": "Behavior change wheel theory Michie",
+   "why": "the COM-B system whose components the wheel maps onto intervention functions"
   }
  ],
  "inline": []
