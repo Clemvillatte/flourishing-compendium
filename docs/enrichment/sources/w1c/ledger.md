@@ -384,3 +384,8 @@ legacy schema (state keys + proposals) — MERGED, never replaced.
 - Fast-track (degree 11). Opened source: Aristotle, Nicomachean Ethics, Welldon translation, Project Gutenberg #8438 (https://www.gutenberg.org/ebooks/8438), downloaded and read locally.
 - VIII.1 indispensability passage, object-matter sentence, perfect-friendship passage (Welldon ch. V = Bekker VIII.3, cited in-page as Book VIII without a chapter number to avoid translation-numbering mismatch) and the dissolution passage all quoted verbatim from the opened text; no passages joined across intervening text.
 - All original sections and wikilinks preserved byte-exact (the three bullet lines, A076 gloss, PP049). Validation: fast-track PASS; build 5,720 ok.
+
+### Intergroup contact (2026-10-20, worker-p1f-9d3f7c2b)
+- Fast-track (degree 11). Opened source: Pettigrew and Tropp, "A Meta-Analytic Test of Intergroup Contact Theory", JPSP 90(5), 2006, full-text PDF at Stanford SPARQ (https://sparq.stanford.edu/sites/g/files/sbiybj19021/files/media/file/pettigrew_tropp_2006_-_intergroup_contact_theory.pdf).
+- Definition, meta-analytic finding, concluding passage and not-essential-conditions finding quoted verbatim from the opened PDF; Allport's four conditions listed as stated in the article. Facets (and empathy, Pettigrew 1998) kept as original, not elaborated (source not opened).
+- All original sections and wikilinks preserved byte-exact. Added Related concepts: [[Prejudice reduction]], [[Empathy]], [[Perspective-taking]] (all resolve). Validation: fast-track PASS; build 5,720 ok.
