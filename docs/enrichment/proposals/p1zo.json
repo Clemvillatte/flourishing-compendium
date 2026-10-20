@@ -1,6 +1,6 @@
 {
  "batch": "p1zo",
- "revision": 12,
+ "revision": 13,
  "reciprocal": [
   {
    "into": "Identity development",
@@ -85,6 +85,12 @@
    "link": "SO025",
    "why": "Aristotle's quality-of-friendship standard applied to the relationship portfolio",
    "notes": "Friendship concept page does not link SO025. Evidence in sources/p1zo/SO025.md (NE VIII.3 Ross + Hawkley & Cacioppo 2010, both opened)."
+  },
+  {
+   "into": "Reciprocity",
+   "link": "SO039",
+   "why": "Axelrod's durability-of-relationship account of reciprocal cooperation",
+   "notes": "Reciprocity concept page does not link SO039. Evidence in sources/p1zo/SO039.md (Axelrod 1984, opened)."
   }
  ]
 }
