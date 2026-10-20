@@ -65,7 +65,7 @@
   "Socratic ignorance",
   "Spiritual exercises"
  ],
- "in_progress": null,
+ "in_progress": "The dark night",
  "flagged": {
   "Gelassenheit": "Reopened for QC: QC recheck: advisor round-2 repairs (definition dates/sermons claims, technique sentence, third-person voice, paragraph split, relationship clauses grounded in counterpart pages)",
   "Plain words over beautiful": "namespace review pending: principle-style page (normative preference already represented by principle D122); flagged for supervisor disposition per concept-namespace-audit rule 2; advisor item-5 QC: quote fidelity passed, namespace/content acceptance withheld; body repaired to opened-text claims; 5 reciprocal proposals deferred to drafts/w1b/plain-words-proposals-deferred.md. TAKEOVER NOTE (worker-w1b-9d41f7c2, 2026-10-20): content work complete per predecessor's repairs (validator-clean, Legge ch.81 quote verbatim); item marked done to clear the in-progress marker; do NOT enrich further; supervisor disposition still requested (audit line 68)",
@@ -80,7 +80,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 7,
- "updated": "2026-10-20T07:06:02+00:00",
+ "updated": "2026-10-20T07:07:01+00:00",
  "notes": "QC round 2 (advisor): fixed quote attributions on The relational self and To the things themselves (encyclopedia paraphrases were quoted as primary text; now attributed to IEP/SEP), separated the three relational-self theories, scoped Sedikides findings, removed reader address, split long paragraphs. Caveat for the lead: some already-applied reciprocal proposals used derivation language ('therapeutic operationalisation of Deikman's observer' on Self-as-context, 'philosophical root' on I and Thou, 'same structure' on Being-with (Mitsein)); these clauses sit in other bands' files now and could be reworded to comparison language when convenient.",
  "band_done": false
 }
