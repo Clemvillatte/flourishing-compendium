@@ -741,3 +741,5 @@ convention).
   - Behavioral sentence direction corrected ("rated physicians promoting energetic lifestyles more positively"); "founding"/"best-known" removed.
   - Blockquote now reproduces the source sentence directly with its internal double quotes (no enclosing quotation marks); verification recorded as quotation-mark normalization; locators added (2006 abstract; chapter pp. 121-122); the chapter's publication year dropped from the citation (filename alone does not establish it).
 - Revalidated against the pre-enrichment baseline c2a3ee47: ok, 0 failed.
+
+- Post-done repair (same item): the validator caught a "not only ... but" staging pattern in the Gerede synthesis sentence (the pushed first version failed validation); reworded to "releases one from the task of genuinely understanding, and develops..." (source's own two verbs, contrast structure removed); revalidated ok and re-pushed. Done-marker stands.
