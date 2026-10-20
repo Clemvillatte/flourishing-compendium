@@ -12,18 +12,19 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 13** — Work with the field and the witness
 
-Yoga's central procedure, before any metaphysics: experience has two aspects, the field of what appears (drisya, including body, thought, feeling) and the fact of its being seen (drashta). The practice is to rest attention in the seeing rather than only in the seen. This is offered as a procedure of attention, not as a proof of a self; whether the witness is an enduring entity is the ontology left open here, and the Buddhist anatman is the standing counter-position. Practically, several times a day, ask: "What in this moment is content, and what is the noticing of it?"
+Patanjali's Book II sets the procedure out in consecutive sutras. First the diagnosis: "The cause of what is to be warded off, is the absorption of the Seer in things seen." ([Yoga Sutras 2.17, Johnston translation](https://www.gutenberg.org/ebooks/2526)) Then the two sides of experience. Of the seen: "Things seen have as their property manifestation, action, inertia. They form the basis of the elements and the sense-powers. They make for experience and for liberation." ([YS 2.18](https://www.gutenberg.org/ebooks/2526)) And of the seer: "The Seer is pure vision. Though pure, he looks out through the vesture of the mind." ([YS 2.20](https://www.gutenberg.org/ebooks/2526))
 
-(YS 2.18-2.20.)
+The practice is to rest attention in the seeing rather than only in the seen. Whether the witness is an enduring entity is left open here; the Buddhist anatman is the standing counter-position. The compendium's cue, several times a day: what in this moment is content, and what is the noticing of it?
 
-**Plain words** Yoga's central procedure, before any metaphysics: experience has two aspects — the field of what appears (body, thought, feeling) and the fact of its being seen. The practice is to rest attention in the seeing rather than only in the seen. You're the audience, not the movie.
+**Plain words** Everything you experience splits into a screen and something watching the screen. Normally you are so lost in the movie that the watching goes unnoticed. The drill is to notice the watching itself: catch the fact that the anger is being seen.
 
-*For example:* During a furious argument, someone finds the one move available: attention shifts from the anger (the seen) to the fact of watching it (the seeing) — and the anger, unsupervised by attention, loses about half its fuel in thirty seconds.
+*For example:* Mid-argument, attention shifts from the anger to the fact of watching it. What that does to the anger varies; the shift itself is the practice.
 ## Psychology parallels
 
-- **[[Metacognitive monitoring|Metacognitive monitoring and decentering]]**, the capacity to observe thought as thought (Teasdale et al., 2002, metacognitive-awareness studies)
+- **[[Metacognitive monitoring|Metacognitive monitoring and decentering]]** (Teasdale et al., 2002)
 
 ## Philosophy parallels
 
 - **[[Epoché|Epochē of the natural attitude]]** (Husserl, Ideas I)
-- **[[Witness consciousness in the Drig-Drisya-Viveka procedure|Witness consciousness in the Drig-Drisya-Viveka procedure]]** (attributed to Shankara's circle, Drig-Drisya-Viveka)- **[[Non-dual awareness|Non-dual awareness]]** (Yoga-Vedanta)
+- **[[Witness consciousness in the Drig-Drisya-Viveka procedure|Witness consciousness in the Drig-Drisya-Viveka procedure]]** (attributed to Shankara's circle, Drig-Drisya-Viveka)
+- **[[Non-dual awareness|Non-dual awareness]]** (Yoga-Vedanta)
