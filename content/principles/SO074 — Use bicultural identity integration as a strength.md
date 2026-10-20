@@ -36,5 +36,5 @@ The Benet-Martínez paper reports three studies testing whether perceived compat
 ## Sources
 
 - [Benet-Martínez, V., Leu, J., Lee, F., & Morris, M. W. (2002). Negotiating biculturalism: Cultural frame switching in biculturals with oppositional versus compatible cultural identities. J Cross-Cultural Psych 33(5), 492-516](https://eric.ed.gov/?id=EJ653127) — abstract carried by the opened ERIC record
-- [Chen, S. X. (2015). Toward a social psychology of bilingualism and biculturalism. Asian J Soc Psych 18(1), 43-51](https://onlinelibrary.wiley.com/doi/pdf/10.1111/ajsp.12088) — open PDF; adjustment and alternation sentences quoted
+- [Chen, S. X. (2015). Toward a social psychology of bilingualism and biculturalism. Asian J Soc Psych 18(1), 1-11 (Crossref)](https://onlinelibrary.wiley.com/doi/pdf/10.1111/ajsp.12088) — open PDF; adjustment and alternation sentences quoted
 - [Saad, C. S., Damian, R. I., Benet-Martínez, V., Moons, W. G., & Robins, R. W. (2013). Multiculturalism and creativity. Soc Psychol Personal Sci 4(3), 369-375](https://www.academia.edu/9065434/Saad_Damian_Benet_Martinez_Moons_and_Robins_2013_) — abstract carried by the opened academia.edu record
