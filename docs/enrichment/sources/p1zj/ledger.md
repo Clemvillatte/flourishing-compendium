@@ -217,3 +217,4 @@ Band: AF002..BE033, 30 principles, degree order (queue 628-673). Advisor QC cade
 - Plain words: replicate fixed; example relabelled as imagined case.
 - MILESTONE: item 25 of 30. Advisor QC requested for items 21-25 (AT057, AT061, AT074, BE007, BE016).
 - Proposals: reciprocals into The single step and Right effort (leads to be read before save).
+- Proposal correction: the "The single step" reciprocal record was removed (target concept does not exist in the wiki; the seed's [[The single step]] wikilink is a red link — left intact in the page).

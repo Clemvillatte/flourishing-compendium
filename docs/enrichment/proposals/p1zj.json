@@ -1,6 +1,6 @@
 {
  "batch": "p1zj",
- "revision": 27,
+ "revision": 28,
  "records": [
   {
    "action": "reciprocal",
@@ -336,13 +336,6 @@
    "into": "Gradual training",
    "link": "BE007",
    "why": "listed for comparison with the principle's stages-of-change reading",
-   "notes": "target page lead reviewed this session; full body not read; relationship grounded in the adjacent principle's opened source"
-  },
-  {
-   "action": "reciprocal",
-   "into": "The single step",
-   "link": "BE016",
-   "why": "listed for comparison with the principle's tiny-start reading of the Fogg model",
    "notes": "target page lead reviewed this session; full body not read; relationship grounded in the adjacent principle's opened source"
   },
   {
