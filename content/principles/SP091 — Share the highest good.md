@@ -22,9 +22,9 @@ The Ethics supplies the premise behind the resolution:
 
 The compendium's application: attach your practice to at least one other person's progress, a study partner, a mentee or a colleague in the work, and let their progress count as yours.
 
-**Plain words** Some goods shrink when you share them, like a slice of cake. This one works like a language instead: it only functions when others speak it too. Spinoza's reasoning is that understanding makes you want the same understanding in other people, so sharing it is part of the project itself.
+**Plain words** Spinoza notices something odd about the understanding he wants: wanting it for himself already includes wanting it for other people, and the wish grows with the understanding itself (that is the Ethics IV P37 clause, "so much the more, in proportion as"). Sharing the highest good is part of what the project is.
 
-*For example:* The person who learns something that changes how they think and starts explaining it to anyone who asks. The explaining completes the learning: the understanding only lives fully when it lives in more than one head.
+*For example:* The person who learns something that changes how they think and starts explaining it to anyone who asks. The wish for others to understand comes with the understanding, and the explaining is that wish at work.
 ## Psychology parallels
 
 - **[[Prosocial spending|Prosocial spending and shared goals]]** (Dunn, Aknin and Norton, 2008)
