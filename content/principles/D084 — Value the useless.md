@@ -20,13 +20,13 @@ Chapter 4 tells the same story from the tree's side. The carpenter passes the al
 
 > "The cinnamon tree can be eaten, and therefore it is cut down. The varnish tree is useful, and therefore incisions are made in it. All men know the advantage of being useful, but no one knows the advantage of being useless." (Zhuangzi 4)
 
-The argument is not that usefulness is bad. It is that a thing's market value is one filter among several, and the market's filter is shaped like a blade: what it selects, it takes.
+The passages concern usefulness exposing trees to destructive treatment. The compendium's application to a person's week is a reading, not the chapters' claim: what is valuable on somebody's market is what gets billed, scheduled or harvested.
 
 (Zhuangzi 1, 4.)
 
-**Plain words** Look at your week and name the parts nothing is measuring: the walk without a step goal, the friend you cannot network with, the interest that will never be monetized. The cinnamon tree is cut precisely where it is useful. Whatever in you is valuable on somebody's market will be billed, scheduled or harvested accordingly. The useless parts are where nothing is coming to collect.
+**Plain words** Look at your week and name the parts nothing is measuring: the walk without a step goal, the friend you cannot network with, the interest that will never be monetized. The cinnamon tree is cut where it is useful. Those unmeasured parts are what no bill, schedule or harvest is aimed at.
 
-*For example:* The hobby that will never make money and never becomes a side hustle is often the thing keeping the person who has it sane.
+*For example:* Imagine keeping an evening for drawing and declining a suggestion to sell the work.
 
 ## Sources
 
@@ -35,7 +35,7 @@ The argument is not that usefulness is bad. It is that a thing's market value is
 ## Psychology parallels
 
 - **[[Intrinsic motivation|Intrinsic motivation]]** (Kashdan et al., 2018)
-- **Leisure and idle time predict creativity and recovery**
+- **[[Leisure]]**
 
 ## Philosophy parallels
 
