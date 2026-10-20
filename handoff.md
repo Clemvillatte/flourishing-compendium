@@ -409,3 +409,21 @@ dispositions pending). Do NOT run finish. Batons/p1zq RELEASED at this checkpoin
 worker or supervisor: dispositions above, then integrate the proposals. If a new worker
 takes the band, there are no remaining manifest items — the work is verification and
 disposition only.
+
+## p1zza checkpoint (2026-10-21, worker-p1zzb-7d2e9a41 — band continuing)
+
+Milestone QC for session items 2-5 (SP093, AF039, AF050, AF077) closed after three advisor
+rounds: SP093/AF039/AF077 PASS; AF050 prose PASS with one outstanding hold. All repairs
+pushed and validated vs b4e119b2f; full outbound-concept coverage recorded in the p1zza
+ledgers; saturation dispositions per item in the ledgers (explicitly nonexhaustive).
+
+SUPERVISOR DISPOSITION REQUESTED (state flag on AF050, p1zza):
+- AF050: the protected alias [[Rumination|Anger rumination maintains aggression]] asserts a
+  mechanism not verified against opened primary evidence (Bushman/Denson refs unopened).
+  The Rumination concept page's Related row ("Anger regulation research — the ingredient
+  that made venting backfire in Bushman's experiment") leans on the same unopened claim.
+  Alias change or verification needed; the principle's own prose is scoped and passed.
+
+Band state: 6/30 done (M025 predecessor + SE042, SP093, AF039, AF050, AF077); 24 remain,
+next item BE066. Proposals p1zza.json rev 3 (two reciprocals: Narrative redemption
+sequences <- SE042, Acceptance <- AF039) pending integration when bands are free.
