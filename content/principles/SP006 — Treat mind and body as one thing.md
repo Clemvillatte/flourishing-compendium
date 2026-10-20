@@ -12,13 +12,13 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 6** — Treat mind and body as one thing
 
-Mind and body are one and the same individual, conceived now under the attribute of thought, now under the attribute of extension. This is the famous mind-body identity stated in Part III's second scholium, and it makes Spinoza the patron of every modern embodied approach to emotion. There is no purely mental problem that does not have a bodily face, and no bodily state that leaves thinking untouched. Practically, when the mind is stuck, work the body, and when the body is depleted, do not expect clean thinking; the dualist split is itself a diagnostic error.
+Spinoza states the identity in the scholium to Part III, Proposition 2: mind and body are one and the same thing, conceived first under the attribute of thought and secondly under the attribute of extension. ([Ethics III, Prop. II, scholium, Elwes tr.](https://www.gutenberg.org/ebooks/3800)) Part II, Proposition 7 gives the same claim from the other side: the order and connection of ideas is the same as the order and connection of things. ([Ethics II, Prop. VII, Elwes tr.](https://www.gutenberg.org/ebooks/3800)) The compendium's application: when the mind is stuck, work with the body, and when the body is depleted, do not expect clean thinking. The dualist split is treated here as a diagnostic error rather than a neutral description.
 
-(Ethics III, P2 scholium; II, P7 scholium.)
+> "the mind and the body are one and the same thing, conceived first under the attribute of thought, secondly, under the attribute of extension." (Ethics III, Prop. II, scholium, Elwes tr., [Gutenberg #3800](https://www.gutenberg.org/ebooks/3800))
 
-**Plain words** Mind and body are one and the same individual, conceived now as thought, now as extension — the famous identity. Spinoza is the patron of every "it's all connected" insight: the pit in the stomach IS the worry, not the logo of it.
+**Plain words** The claim is not that the mind affects the body, or that the body affects the mind; both are one thing described twice. The pit in the stomach is not a logo of the worry; under Spinoza's description it is the worry, conceived under extension.
 
-*For example:* The person who insists their burnout is "just stress, nothing physical" — and the body's file arrives: the sleep, the gut, the jaw. One individual, two reports. The reports always match; that's the identity.
+**For example (imagined):** A burned-out worker insists the problem is purely mental. A week of sleep logs, jaw-clenching and stomach trouble arrives as a second report on the same condition, and the two reports match.
 ## Psychology parallels
 
 - **[[Interoception|Interoception as the substrate of emotional regulation]]**, the evidence that bodily awareness supports affective control (Khalsa et al., 2018)
@@ -27,3 +27,7 @@ Mind and body are one and the same individual, conceived now under the attribute
 
 - **[[Dependent origination|Dependent origination]]** (Nagarjuna, Mulamadhyamakakarika)
 - **The body as the first instrument** (Taittiriya Upanishad 2.1-2.5)- **[[Mind-body parallelism|Mind-body parallelism]]** (Spinozism)
+
+## Sources
+
+- [Spinoza, B. (1677). Ethics, II Prop. VII and III Prop. II scholium. Trans. R. H. M. Elwes, Gutenberg #3800](https://www.gutenberg.org/ebooks/3800) — both passages verified verbatim against the downloaded text

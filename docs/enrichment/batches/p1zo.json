@@ -22,7 +22,8 @@
   "SO071",
   "SO074",
   "SP003",
-  "SP004"
+  "SP004",
+  "SP006"
  ],
  "in_progress": null,
  "flagged": {
@@ -50,6 +51,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T12:55:09+00:00",
+ "updated": "2026-10-20T12:55:30+00:00",
  "band_done": false
 }
