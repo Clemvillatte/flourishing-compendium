@@ -80,3 +80,8 @@
 - Opened: Epictetus Discourses (Long selection, Gutenberg #10661), chapter "How we should struggle against appearances" (II.18 by standard numbering); Enchiridion 1 (Carter); Bowen & Marlatt 2009 abstract (PMID 20025372).
 - Not opened: Disc. I.1, I.20, III.3; Med. VII.35; Hayes 2011; Heidegger; Laozi.
 - Note: Epictetus advises pausing and testing the impression, not passively letting it pass; "visitor" and "fighting gives it energy" are the compendium's.
+
+## S080 — Practise tolerance without indifference
+- Opened: Marcus Meditations VII.22, VIII.59 (Long); James, On a Certain Blindness (Talks to Teachers, Gutenberg #16287); Tyler 2006 Annu Rev Psychol abstract (PMID 16318600; judged not matching the entry's claim, not used).
+- Not opened: Med. II.1, II.13, IX.4, IX.11; Disc. I.12, I.18; Seneca Letters 95, 107; Hayes 2011; Tyler's book; Bernstein.
+- Note: "work to change" is the compendium's extension; Marcus's VII.22 grounds tolerance of persons; label "Tolerance without indifference" is the compendium's, not James's.
