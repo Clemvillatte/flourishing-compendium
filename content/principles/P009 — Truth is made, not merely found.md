@@ -12,20 +12,25 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 9** — Truth is made, not merely found
 
-We know truly what we successfully make and do: verum factum. Understanding is a construction tested in action, not a copy of a ready-made world.
+Vico argues that the civil world is available to human understanding because people made it. In paragraph 331, he contrasts this with nature, which he holds that God alone fully knows because God made it ([New Science, Bergin and Fisch translation](https://archive.org/stream/newscienceofgiam030174mbp/newscienceofgiam030174mbp_djvu.txt)).
 
-Vico's rule is that we can know what we ourselves have made. The New Science argues it against the philosophers of nature: they "bent all their energies to the study of the world of nature, which, since God made it, He alone knows", while neglecting "the world of nations or civil world, which, since men had made it, men could hope to know". The Latin tag verum factum, the true and the made being convertible, comes from his earlier book on the most ancient wisdom of the Italians (1710); the New Science of 1744 puts it to work as the founding move of a science of society: what men made, men can know.
+The verum factum principle, associating the true with the made, appears in his earlier De antiquissima (1710). Its application to the civil world asks how human actions produced languages, customs and institutions ([Stanford Encyclopedia of Philosophy, “Giambattista Vico”](https://plato.stanford.edu/entries/vico/)).
 
 (Vico, Scienza Nuova, 1725/1744.)
 
-> "But in the night of thick darkness enveloping the earliest antiquity, so remote from ourselves, there shines the eternal and never-failing light of a truth beyond all question: that the world of civil society has certainly been made by men, and that its principles are therefore to be found within the modifications of our own human mind." (Vico, Scienza Nuova ¶331, [Bergin & Fisch 1948](https://archive.org/stream/newscienceofgiam030174mbp/newscienceofgiam030174mbp_djvu.txt))
+> "the world of nations or civil world, which, since men had made it, men could hope to know." (Vico, Scienza Nuova, paragraph 331, Bergin and Fisch.)
 
-The compendium's extension: the statement's "successfully make and do", "tested in action", and "not a copy of a ready-made world" are the compendium's framings. Paragraph 331 claims knowability of the made civil world; it does not promise that making or doing guarantees truth, nor does it discuss copying.
+### Investigate the making
 
-**Plain words**
-Take a rule you helped make — a team process, a family budget, a personal routine — and reconstruct the choices behind it: what it was answering, what it assumed, what it traded away. If you can rebuild the making, you know it; where you cannot, that is the part you inherited rather than made, and it is the part to examine.
+The compendium takes this as a reason to investigate how an arrangement came about. Participating in its creation does not guarantee a correct explanation, and paragraph 331 does not say that making any object proves its maker's beliefs true.
 
-*For example:* The compendium's hypothetical: asked to explain why a committee's rule exists, one member recites the rule, another reconstructs the drafting fight that produced it. Ask which explanation would survive the rule's next revision.
+### Plain words
+
+Choose a rule you helped draft. What problem was it meant to answer, which alternatives were rejected, and whose account is missing from your recollection? Use the questions to identify what you can explain and what still needs checking.
+
+### For example
+
+Imagine a committee revisiting its meeting procedure. As a proposed exercise, compare the current rule with the drafting minutes and ask a participant about a disputed change. Reconstructing the decision is the task; the hypothetical does not settle which account is correct.
 
 ## Sources
 
