@@ -12,13 +12,22 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 222** — See the smallness of human affairs
 
-From the perspective of the cosmos, human affairs are tiny. The great events of your day are invisible from the stars. The Stoic practises the view from above to restore proportion. Your problems are real but they are small.
+Marcus measures in the largest units he has. The continents are corners, the sea a drop, the present a point:
 
-(Med. II.12, III.11, IV.1, IV.3, IV.32, V.24, VI.36, VII.48, IX.30, XII.24, XII.32; Disc. I.14, III.24; Seneca, Letters 91.)
+> "Asia, Europe, are corners of the universe; all the sea a drop in the universe; Athos a little clod of the universe: all the present time is a point in eternity. All things are little, changeable, perishable." (Marcus Aurelius, Meditations, Book VI, section 36, [George Long translation](https://www.gutenberg.org/cache/epub/15877/pg15877.txt))
 
-**Plain words** From the cosmos, human affairs are tiny. Your day's great events can't be seen from the stars. The Stoic uses the view from above to restore proportion. Your problems are real, but they're small.
+The same scale is personal: "Think of the universal substance, of which thou hast a very small portion; and of universal time, of which a short and indivisible interval has been assigned to thee" (Meditations V.24). Book XII turns the measurement into an instruction: "on what a small clod of the whole earth thou creepest! Reflecting on all this, consider nothing to be great, except to act as thy nature leads thee, and to endure that which the common nature brings" (Meditations XII.32). The historical version of the exercise runs through the reigns of Vespasian and Trajan in Book IV, whole epochs of marrying, scheming and dying, and "that life of these people no longer exists at all" (Meditations IV.32).
+
+(Med. IV.32, V.24, VI.36, XII.32.)
+
+**Plain words**
+As a practical exercise, put the week's worry into the largest sentence you can honestly make: how much time it fills, how much space, how many people. The worry does not disappear; it takes its actual size.
 
 *For example:* Looking up at the night sky after a bad day at work and feeling the day shrink a little.
+
+## Sources
+
+- [Marcus Aurelius, Meditations (George Long translation, Project Gutenberg)](https://www.gutenberg.org/cache/epub/15877/pg15877.txt) — Book IV, section 32; Book V, section 24; Book VI, section 36; Book XII, section 32
 
 ## Psychology parallels
 
