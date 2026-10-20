@@ -1,11 +1,12 @@
 {
  "batch": "p1zm",
- "done": [
-  "K051"
- ],
- "in_progress": null,
- "flagged": {},
+ "done": [],
+ "in_progress": "K051",
+ "flagged": {
+  "K051": "Reopened for QC: QC: advisor round-1 FAIL — scope and quote-attribution repairs"
+ },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T09:55:48+00:00"
+ "updated": "2026-10-20T09:58:06+00:00",
+ "band_done": false
 }
