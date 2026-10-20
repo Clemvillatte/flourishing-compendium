@@ -12,13 +12,15 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 9** — Pursue kalokagathia: nobility-and-goodness as a unified ideal
 
-The kaloskagathos is the person in whom [[Virtue|moral virtue (agathon)]] and nobility of character (kalon) are unified. It is not enough to do good; do it beautifully, with grace and proportion. The aesthetic and the ethical are not separate domains. Let the form of your action match its content.
+Aristotle's definition is structural. Kalokagathia is not a virtue someone can hold on its own; it is what happens when the separate virtues are held together, the way health is not a body part but a condition that every important part shares. And the person who has it differs from the merely good person by holding noble things for their own sake rather than for what they buy. The [[Virtue|moral virtue (agathon)]] is one of the parts; kalokagathia is the compound condition.
 
-(NE I.8, X.9; EE VIII.3; MM I.20.)
+> "That he who truly deserves this denomination must have the separate virtues is clear; it cannot be otherwise with other things either, for no one is healthy in his entire body and yet healthy in no part of it, but the most numerous and important parts, if not all, must be in the same condition as the whole." (Eudemian Ethics VIII.3, 1248b8; Solomon, 1915)
 
-**Plain words** Doing the right thing is the start. Aristotle's ideal person also does it well, with grace and proportion, so the act looks like what it is. Ethics and beauty aren't separate departments. A kindness done grudgingly or clumsily loses something.
+> "A man is noble and good because those goods which are noble are possessed by him for themselves, and because he practises the noble and for its own sake, the noble being the virtues and the acts that proceed from virtue." (Eudemian Ethics VIII.3, 1248b34; Solomon, 1915)
 
-*For example:* Returning a lost wallet is good. Doing it warmly, without a lecture or a reward-hint, is the version people remember.
+**Plain words** The word names a person whose various virtues are not in separate compartments. Someone who is generous but rude, or courageous but wasteful, has a virtue; someone whose courage, generosity, and tact arrive in the same act has the compound thing Aristotle was pointing at. Practically, when a single act would fail on more than one axis at once, the question is not which virtue to use but whether the act itself has been shaped to satisfy all of them.
+
+*For example:* (Imagined.) Returning a lost wallet is good. Doing it warmly, without a lecture or a reward-hint, is the version people remember.
 
 ## Psychology parallels
 
