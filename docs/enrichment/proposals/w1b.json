@@ -109,6 +109,11 @@
       "into": "Beginner's mind",
       "link": "Pure experience",
       "why": "The beginner's open stance meets experience before it has been divided into expert categories."
+    },
+    {
+      "into": "Mind wandering",
+      "link": "Rumination",
+      "why": "Mind wandering is task-unrelated thought without rumination's depressive grip; the two are often conflated."
     }
   ],
   "inline": [
@@ -116,6 +121,26 @@
       "into": "M001",
       "concept": "Growth mindset",
       "phrase": "growth-mindset"
+    },
+    {
+      "into": "AF045",
+      "concept": "Rumination",
+      "phrase": "Rumination prolongs affect"
+    },
+    {
+      "into": "AF051",
+      "concept": "Rumination",
+      "phrase": "Rumination converts sadness into depression"
+    },
+    {
+      "into": "AF050",
+      "concept": "Rumination",
+      "phrase": "Anger rumination maintains aggression"
+    },
+    {
+      "into": "AF033",
+      "concept": "Rumination",
+      "phrase": "Self-distancing reduces rumination"
     }
   ]
 }
