@@ -13,7 +13,8 @@
   "S066",
   "S069",
   "S072",
-  "S074"
+  "S074",
+  "S075"
  ],
  "in_progress": null,
  "flagged": {
@@ -27,10 +28,11 @@
   "S063": "Reopened for QC: milestone QC round 2 repairs: Ench. 1 rebuild",
   "S064": "Reopened for QC: milestone QC round 2 repairs",
   "S066": "Reopened for QC: milestone QC round 2 repairs",
-  "S074": "Reopened for QC: first-item QC: Plain words overreach (free choice of evil; not thereby excused)"
+  "S074": "Reopened for QC: first-item QC: Plain words overreach (free choice of evil; not thereby excused)",
+  "S075": "inherited parallels not certified: Festinger 1954 and Leroy 2009 bullets, Daodejing 12 and Speech gate parallels unopened this session; wikilinks preserved"
  },
  "missing_concepts": [],
  "sources_checked": 13,
- "updated": "2026-10-20T13:23:49+00:00",
+ "updated": "2026-10-20T14:21:45+00:00",
  "band_done": false
 }

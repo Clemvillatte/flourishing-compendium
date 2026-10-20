@@ -12,13 +12,20 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 197** — Do not gossip
 
-Marcus tells himself to stop talking about what others are doing and to focus on his own work. Gossip is a distraction from self-improvement and a form of social comparison that breeds envy or contempt. Practise silence about others.
+The Meditations keeps its instruction in credit-lists: Marcus records what he learned from people he knew, and the anti-gossip entries are among them. From his adoptive father Antoninus Pius:
 
-(Med. I.9, II.6, IV.18, V.9, VI.6; Seneca, Letters 94, 123.)
+> "how he would never be over-hasty in anything, nor give ear to slanders and false accusations, but examine and observe with best diligence the several actions and dispositions of men. Again, how he was no backbiter, nor easily frightened, nor suspicious" (Marcus Aurelius, Meditations, Book I, section XXVIII, [George Long translation](https://www.gutenberg.org/files/2680/2680-0.txt))
 
-**Plain words** Marcus tells himself to stop talking about what others are doing and mind his own work. Gossip distracts from self-improvement and breeds envy or contempt through comparison. Practise silence about others.
+The neighboring entries extend the same care to speech: from Alexander the Grammarian he learned "to be un-reprovable myself, and not reproachfully to reprehend any man for a barbarism, or a solecism", correcting by example rather than by reproach (Book I, section VII). ([Meditations](https://www.gutenberg.org/files/2680/2680-0.txt))
 
-*For example:* At lunch, you decline to discuss a colleague's divorce.
+**Plain words**
+Two habits are refused at once: giving ear to slanders and false accusations, and being a backbiter. The first is a listening discipline, the second a speaking one. The credit-list format is itself the method: Marcus names a person he watched and one specific thing that person did.
+
+For example: At lunch, you decline to discuss a colleague's divorce.
+
+## Sources
+
+- [Marcus Aurelius, Meditations (George Long translation, Project Gutenberg)](https://www.gutenberg.org/files/2680/2680-0.txt) — Book I, section XXVIII (Antoninus Pius credit) and Book I, section VII (Alexander the Grammarian)
 
 ## Psychology parallels
 
