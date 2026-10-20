@@ -17,20 +17,20 @@
   "P087",
   "P088",
   "P094",
-  "P119",
-  "P120"
+  "P119"
  ],
- "in_progress": null,
+ "in_progress": "P120",
  "flagged": {
   "P058": "Reopened for QC: QC round-3 touch-ups",
   "P054": "Reopened for QC: QC round-3 touch-ups",
   "P056": "Reopened for QC: QC round-3 touch-ups",
   "P088": "Reopened for QC: QC round 3: target-body reads completed, ledger/proposal record corrections",
   "P094": "Reopened for QC: QC round 3: opening quote citation",
-  "P119": "Reopened for QC: QC round 3: ledger made locator-based"
+  "P119": "Reopened for QC: QC round 3: ledger made locator-based",
+  "P120": "Reopened for QC: QC round 1 (advisor): one excerpt only, Yu framing fixed, Serafina/Ting status corrected, plain words and example rebuilt, mention scan run"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T04:37:18+00:00",
+ "updated": "2026-10-20T04:39:10+00:00",
  "band_done": false
 }
