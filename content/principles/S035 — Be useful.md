@@ -33,7 +33,7 @@ Start with a manageable need: a shared chore, a question someone is struggling w
 ## Psychology parallels
 
 - **[[Mattering|Mattering research]]**, feeling important to others is associated with well-being (Paradisi, Matera and Nerini, 2024)
-- **Generativity and well-being** (McAdams and de St. Aubin, 1992)
+- Generativity (McAdams and de St. Aubin, 1992)
 
 ## Philosophy parallels
 
