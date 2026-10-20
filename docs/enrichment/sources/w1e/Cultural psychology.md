@@ -32,3 +32,24 @@
 - Related concepts added (existing pages only): Independent vs interdependent
   self-construal, Cultural dimensions theory Hofstede, Cross-cultural
   variations in conceptions of happiness, Moral foundations.
+
+## Advisor QC (round 1, 2026-10-20): FAIL -> repairs applied
+
+- "most-cited statement" deleted (no citation-count evidence opened); replaced
+  with the advisor's plain sentence, PDF linked inline.
+- WEIRD opening sentence deleted (unverified historical continuity claim; SO044
+  is compendium use, not outside evidence).
+- "not fixed personality types / practices make normal" deleted (mechanism
+  beyond opened evidence); replaced with the verified abstract claim quoted
+  from the opened PDF (p. 224).
+- Geertz now explicitly identified as quoted by Markus & Kitayama.
+- Related concepts narrowed to supported lines only (dropped Hofstede /
+  happiness / moral-foundations clauses whose claims were not opened); added
+  Interdependent self-construal to clear the <3 warning. Now 3 lines.
+- In-the-compendium clauses repaired: R055 (trustworthiness/word-deed), Y040
+  (Gita honor), X022 (Transcendentalist practice).
+- Reciprocal proposal submitted per the fast-track exception (target page
+  lacks the backlink, checked): proposals/w1e.json, into "Independent vs
+  interdependent self-construal (Markus & Kitayama)", link "Cultural
+  psychology".
+- Revalidated with --base 3bce572c (pre-enrichment parent of d24265c8): ok.
