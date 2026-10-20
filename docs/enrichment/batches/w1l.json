@@ -26,7 +26,8 @@
   "Equity theory",
   "Expectancy theory",
   "Goal conflict research",
-  "Goal disengagement"
+  "Goal disengagement",
+  "Harmonious versus obsessive passion"
  ],
  "in_progress": null,
  "flagged": {
@@ -43,6 +44,14 @@
  },
  "missing_concepts": [],
  "sources_checked": 19,
- "updated": "2026-10-20T11:33:38+00:00",
- "band_done": false
+ "updated": "2026-10-20T11:35:29+00:00",
+ "band_done": false,
+ "new_concepts": [
+  {
+   "title": "Harmonious passion",
+   "seed": "Vallerand et al. 2003 dualistic model of passion: autonomous internalization form",
+   "source": "https://pubmed.ncbi.nlm.nih.gov/14561128/ (Vallerand et al. 2003 abstract); https://pmc.ncbi.nlm.nih.gov/articles/PMC5447058/ (Briki 2017, DMP description and scale items)",
+   "why": "Category B disposition for 'Harmonious versus obsessive passion': granular component; no existing concept represented the harmonious form (title/resolve checks done)"
+  }
+ ]
 }

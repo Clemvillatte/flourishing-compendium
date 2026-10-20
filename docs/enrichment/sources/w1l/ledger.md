@@ -705,3 +705,12 @@ convention).
 - No In-the-compendium block (fast-track bar; Cited-in lists carry the five principle links).
 - Saturation: fast-track exemption; no reciprocal proposed.
 - QC: validator ok at fast-track profile; no advisor QC (item 7; next at item 10).
+
+## Harmonious versus obsessive passion (Category B disposition, genuineflourishing01, 2026-10-20)
+- Degree 5 at selection (principles D066/CO067/SP035/SP032/E074) — fast-track eligible; handled per the Category B process (concept-namespace-audit.md, Authentic-pride / Autonomous-motivation precedent).
+- Sources opened: (1) PubMed 14561128 (Vallerand et al. 2003 JPSP 85(4):756-767 abstract), fetched UNPROMPTED — "HP promotes healthy adaptation whereas OP thwarts it by causing negative affect and rigid persistence" and the HP definition sentence verified character-for-character; passion definition ("a strong inclination toward an activity that people like, that they find important, and in which they invest time and energy") from the same abstract. (2) Briki 2017, Frontiers in Psychology (PMC5447058), fetched UNPROMPTED — dualistic-model description (autonomous vs controlled internalization) and Passion Scale items ("My passion for playing football allows me to live a variety of experiences"; "My passion for music is in harmony with other things that are part of me"; "I have the impression that my passion controls me"; "My activity is in harmony with other activities in my life") verified in the fetched text.
+- NEW CONCEPT: [[Harmonious passion]] created (owner rule: relevant, unrepresented after title/resolve checks, real sources); registered in content/_order.json (single-line insertion, diff-verified); logged in the batch file under new_concepts.
+- NOT TOUCHED (w1v band): [[Obsessive passion]] (existing seed) and [[Passion theory Vallerand]]; reciprocal proposals into both added to proposals/w1l.json for supervisor application (ownership respected).
+- Comparison page rewritten as relational exposition linking both granulars; all five Cited-in principle links preserved; seed line replaced (the "Vallerand, 2010" citation line kept in Sources as inherited, unhyperlinked — that review not opened this session).
+- Both pages validated (comparison vs pre-edit HEAD ok; new page committed then validated ok).
+- QC: no advisor QC (item 8; cadence = first + every 5th, next at item 10).
