@@ -1042,3 +1042,42 @@
   [[Holism]] (deg 2), [[Organism-environment transaction]] (deg 3) added with
   definitional glosses.
 - Validation: --fast-track ok. sources_checked +1.
+
+### QC round 4 (2026-10-20, worker-j9fpiyf, milestone advisor QC on items 6-10)
+
+- VERDICTS: A Schopenhauer body PASS (page completed after citation fix); B Husserl
+  FAIL->repaired; C James FAIL->repaired; D three gates FAIL->repaired; E Whitehead
+  FAIL->repaired. Repairs applied:
+  A: blockquote citation now "Vol. I, Book III §34" (the seed's "WWR III" is the
+  volume/Bekker-free shorthand; the opened edition is Vol. I); closing rewritten per
+  advisor ("temporary relief from personal desires and distress; social rank makes no
+  difference"); the three newly added Related lines (Awe, Ego dissolution,
+  Disinterested aesthetic pleasure) REMOVED as unsourced relationships.
+  B: opening rewritten (lifeworld is not a standpoint; "pressed hardest in the late
+  work" cut); Ideas II quote completed ("e.g., to my right hand") with Hua 4/158
+  locator; SEP-borrowed phrasing rewritten; "The body is the reason" cut;
+  Perspectivism Related line removed.
+  C: "runs under life itself" scope cut (James's subject is thought, consciousness,
+  subjective life; the river-of-life phrase retained as his own quotation); Buddhist
+  extension sentence removed; closing rewritten per advisor; Impermanence and
+  Pursue-becoming Related lines removed.
+  D: "the seed's own label" document-talk removed; "under Sufi colors" replaced with
+  neutral attribution language; "genuine classical speech test" replaced by "A
+  related five-part speech test appears in AN 5.198"; the rememberability/survival
+  causal explanation and "what the three compress" removed; audit flag corrected to
+  the bounded result (sources opened did not establish a classical Rumi or Sufi
+  source; no universal-absence claim).
+  E: "Whitehead's heading" misattribution fixed (compendium heading, not his phrase);
+  prose rewritten as explanation per advisor; Holism and Organism-environment
+  Related lines removed (unsupported comparisons); Concrescence kept (gloss is the
+  opened Category of the Ultimate language).
+- VALIDATOR: default-HEAD validation FAILS on 4 of 5 files because my own earlier
+  session additions (removed this round per the advisor) had entered the rolling
+  baseline. Per the advisor's instruction, the documented baseline mechanism was used:
+  python3 scripts/enrich_validate.py --base 08bd09c4 --fast-track (the pre-session
+  commit) -> 5 checked, 0 failed. Explicit pre-edit diff vs 08bd09c4: front-matter
+  identical and no lost inherited links on all five files.
+- Ledger corrections: A's earlier entry called the seed's title "Payne's title";
+  corrected understanding: "The World as Will and Representation" is a title without
+  an identifiable translation and is not asserted as uniquely Payne's.
+- sources_checked unchanged this round (no new sources opened).

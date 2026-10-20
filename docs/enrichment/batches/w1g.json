@@ -82,10 +82,15 @@
   "The narrative self": "fast-track enriched (item 19); degree ~11; After Virtue full text opened via Internet Archive, story-telling-animal passage verified verbatim; Taylor not opened (left to citation); no rename needed",
   "The ongoing reduction": "fast-track enriched (item 20); degree ~14; SEP Husserl entry (Zahavi, 2025 revision) opened — Crisis full text NOT openly available (archive.org OCR unusable, library item access-restricted); page anchored on SEP quotes; FLAG for supervisor: 'ongoing' framing is the compendium's gloss (E012), not a phrase verified in the Crisis itself; seed citation 'Husserl, The Crisis' kept as inherited",
   "The right amount of effort": "QC r2: body PASS; title/identity awaiting supervisor disposition (worker flag in concept-namespace-audit.md); NOT done pending disposition; researched body pushed as WIP",
-  "The quiet craftsman's life": "Reopened for QC: QC milestone: identity gate — seed's 'Book II, principle 94' referent unresolved; Zhuangzi research retained as WIP; title/identity awaiting supervisor disposition (worker flag in concept-namespace-audit.md); NOT done pending disposition"
+  "The quiet craftsman's life": "Reopened for QC: QC milestone: identity gate — seed's 'Book II, principle 94' referent unresolved; Zhuangzi research retained as WIP; title/identity awaiting supervisor disposition (worker flag in concept-namespace-audit.md); NOT done pending disposition",
+  "The self dissolving in aesthetic contemplation": "Reopened for QC: QC milestone 2: citation fix (Vol I Book III), closing rewrite, unsupported Related additions removed",
+  "The standpoint determines what appears": "Reopened for QC: QC milestone 2: lifeworld/standpoint conflation fixed, Hua 4/158 locator, SEP-borrowed prose rewritten, unsupported glosses removed",
+  "The stream of life": "Reopened for QC: QC milestone 2: scope fix (thought/subjective life, not life itself), Buddhist extension removed, closing rewritten",
+  "The three gates of speech": "Reopened for QC: QC milestone 2: document-talk removed, attribution language neutral, causal-survival explanation removed",
+  "The whole in the part": "Reopened for QC: QC milestone 2: compendium-heading misattribution fixed, prose rewritten as explanation, unsupported comparisons removed"
  },
  "missing_concepts": [],
  "sources_checked": 14,
- "updated": "2026-10-20T08:11:18+00:00",
+ "updated": "2026-10-20T08:15:11+00:00",
  "band_done": false
 }

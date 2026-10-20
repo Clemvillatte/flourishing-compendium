@@ -7,17 +7,15 @@ file: "The whole in the part"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-Whitehead's heading for a point the philosophy of organism makes in both directions. Each actual entity is a locus for the universe, and every item of the universe is a constituent in the constitution of any one actual entity. In the other direction, every entity, in a sense, pervades the whole world. The whole is in the part, and the part is in the whole.
+Whitehead argues that belonging to a common world means having that world enter into an actual entity's constitution. The point concerns what makes an entity what it is: other entities enter into its constitution, so he rejects analysing an entity in complete isolation.
 
 > "every item of the universe, including all the other actual entities, is a constituent in the constitution of any one actual entity." (Whitehead, Process and Reality, Part II ch. VI §III, [corrected edition](https://data.openml.dev/books/process-and-reality.pdf))
 
-The ground is his ontological principle. The notion of a common world must find its exemplification in the constitution of each actual entity, since an actual entity cannot be a member of a common world except by having that world as a constituent of its own constitution. An actual occasion, he says elsewhere in the same book, is the whole universe in process of attainment of a particular satisfaction.
+The principle runs both ways. Each actual entity is "a locus for the universe" (Part II ch. II §VI), and, in Whitehead's words, "every entity pervades the whole world" (Part I ch. II §IV). An actual occasion, he writes, is "the whole universe in process of attainment of a particular satisfaction" (Part II ch. IX §V).
 
 ## Related concepts
 
 - [[Concrescence]] — the process by which the many become one
-- [[Holism]] — the general doctrine this is Whitehead's version of
-- [[Organism-environment transaction]] — the same structure read at the biological scale
 
 ## Sources
 
