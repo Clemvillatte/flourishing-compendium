@@ -12,13 +12,13 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 3** — Accept that nothing is contingent
 
-Spinoza demonstrates that nothing in Nature is contingent, and that all things follow with the same necessity as the properties of a triangle follow from its nature. ([Ethics I, Prop. XXIX and XXXIII, Elwes tr.](https://www.gutenberg.org/ebooks/3800)) The principle differs from fatalism, which would counsel passivity: what it removes is the counterfactual burden, the exhausting rehearsal of how things should have gone. When something has happened, the question of how it could have been avoided is useful once, for learning; after that, you are arguing with geometry.
+Spinoza argues that everything is determined by the necessity of the divine nature. ([Ethics I, Proposition XXIX](https://www.gutenberg.org/ebooks/3800)) Proposition XXXIII adds that God could not have brought things into being in another manner or order. ([Ethics I, Proposition XXXIII](https://www.gutenberg.org/ebooks/3800)) The compendium's practical application is to examine an event's circumstances while considering how to respond.
 
 > "Nothing in the universe is contingent, but all things have been conditioned by the necessity of the divine nature to exist and to act in a certain manner." (Ethics I, Prop. XXIX, Elwes tr., [Gutenberg #3800](https://www.gutenberg.org/ebooks/3800))
 
-**Plain words** Nothing is contingent: things could not have been otherwise, because all things follow by the same necessity as a triangle's properties. This is not fatalism, and effort is not pointless, because the necessity includes your effort as part of the mechanism. The past is unchangeable because it is complete.
+**Plain words** Look for the circumstances that shaped an event, including your own part in it. Then ask what response you want to make now. This is a suggested application of the philosophical view, not a limit on how long someone may reflect.
 
-*For example:* Someone replays a divorce for years, rehearsing what they should have said. In the Spinozist frame, given everything each person was at that moment, it went the only way it could. The replay has stopped being processing and become an argument with a finished proof.
+**For example (imagined):** After a divorce, someone looks back at recurring arguments and decides to seek advice about communication before entering another relationship.
 ## Psychology parallels
 
 - **Counterfactual rumination as a risk factor for depression and complicated grief**, the finding that repetitive "if only" thinking maintains distress (Nolen-Hoeksema, 1991)
@@ -30,4 +30,4 @@ Spinoza demonstrates that nothing in Nature is contingent, and that all things f
 
 ## Sources
 
-- [Spinoza, B. (1677). Ethics, Part I. Trans. R. H. M. Elwes, Gutenberg #3800](https://www.gutenberg.org/ebooks/3800) — Prop. XXIX and XXXIII opened and quoted verbatim, incl. the scholium on the will ("we are only conscious of desiring things, because we are ignorant of the causes which determine our desires")
+- [Spinoza, B. (1677). Ethics, Part I. Trans. R. H. M. Elwes, Gutenberg #3800](https://www.gutenberg.org/ebooks/3800) — Prop. XXIX and XXXIII opened and quoted verbatim; Scholium Note I to XXXIII: "a thing can in no respect be called contingent, save in relation to the imperfection of our knowledge."
