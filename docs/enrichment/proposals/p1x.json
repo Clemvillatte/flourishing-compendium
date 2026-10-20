@@ -84,6 +84,11 @@
       "into": "PP034 — Build secure attachment",
       "link": "SE047 — Recognise attachment patterns — early relationships shape self-relation",
       "why": "PP034 covers building security; SE047 now carries the pattern-recognition side with the Roisman 2002 earned-security nuance, including the retrospective caution PP034 does not carry."
+    },
+    {
+      "into": "M025 — Let rootedness and openness correct each other",
+      "link": "SE048 — Learn secure-base behaviour — be a safe place for yourself and others",
+      "why": "M025's rootedness-and-crossing synthesis has its research parallel in the secure base: the haven you return to that makes exploration possible; SE048 carries the grounded script."
     }
   ],
   "inline": [
@@ -93,5 +98,5 @@
       "phrase": "performing one's roles well"
     }
   ],
-  "notes": "SE047: Shaver & Mikulincer 2008 full text opened (UC Davis PDF, security-based strategies passage string-verified); Mikulincer & Shaver 2015 CDPS abstract via full-text PDF (craiganderson.org mirror, 'foundation for mental health' sentence string-verified); Roisman et al. 2002 abstract opened (OUP publisher page); earned-security claim grounded with the retrospective/prospective nuance; Bowlby 1969/Gillath 2005/Siegel 1999 removed from bullet text (not opened); plain words re-derived; For example relabelled Imagine; philosophy parallels framed as suggested connections; Sources section added."
+  "notes": "SE048: Waters, Waters & Waters 2020 essay opened (Stony Brook full text; Bowlby summary and eight-element Table 1 string-verified); Waters & Waters 2006 abstract opened (Semantic Scholar); 'It is trainable' removed (opened passages define the script, do not test trainability; practice framing labelled); 'Kids can tell the difference by age six' removed (unsupported); Bowlby 1988/Mikulincer & Shaver 2007 removed from bullet text (not opened); plain words re-derived; For example relabelled Imagine; philosophy parallels framed as suggested connections; Sources section added. Feeney 2004 NOT opened (PubMed bot-blocked; abstract only in search snippets; not used)."
 }

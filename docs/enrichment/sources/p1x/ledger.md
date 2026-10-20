@@ -192,3 +192,9 @@ Core prose (body per QC round-1 replacement text, VI.9 blockquote + IV.21 inline
 **Assertions corrected:** the flat "attachment patterns can be revised (earned security)" claim replaced with the Roisman nuance (prospective earned-secures succeeded in close relationships; retrospectively defined earned-secures were not more likely to have been anxiously attached in infancy). Bowlby 1969, Gillath et al. 2005, Siegel 1999 removed from bullet text (not opened).
 **Reciprocal candidates:** PP034 (Build secure attachment, enriched sibling, public body). Attachment theory/security/Earned security concepts already link SE047.
 **QC:** standard checks; SE028 milestone standard applied.
+### SE048 — Learn secure-base behaviour
+**Done:** SE048.
+**Sources opened:** Waters, Waters & Waters 2020 essay, full text, https://psychology.psy.sunysb.edu/attachment/secure%20base%20script/Waters%20Waters%20Waters%202020%20Secure%20base%20script%20essay.pdf (Bowlby summary; eight-element script Table 1; string-verified). Waters & Waters 2006, abstract, Semantic Scholar, https://www.semanticscholar.org/paper/6949f4d961c0501560995379d06b83fa03cb2137 (script concept). Feeney 2004 NOT opened: PubMed bot-blocked (fetch_url formatting failure and curl block); abstract visible only in search snippets; not used.
+**Assertions dropped:** "It is trainable" (opened passages define the script, do not test trainability); "Kids can tell the difference by age six" (unsupported age claim).
+**Reciprocal candidates:** M025 (rootedness/openness synthesis; public body). Attachment security/theory concepts, K383, Ren, Place attachment, SE-S05 layer already link SE048.
+**QC:** standard checks; SE028 milestone standard applied.
