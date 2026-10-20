@@ -20,14 +20,14 @@ The evidence on interventions is real but bounded. A meta-analysis of 22 randomi
 
 (Neff, 2003; Neff and Germer, 2013; Wilson et al., 2019.)
 
-**Plain words** Self-compassion is meeting your own suffering with the kindness you'd offer a friend, remembering that suffering is shared by everyone, and seeing your pain clearly instead of drowning in it. It's linked to better mental health, and it's different from self-pity and from self-esteem.
+**Plain words** After a setback, the inner voice that says "you fool" can be answered with the voice you'd use for a friend in the same fix — warm, but honest about what actually happened. That pairing is the skill: kindness without letting yourself off the truth, and the reminder that stumbling is the shared human condition rather than your private defect.
 
 *For example:* After failing an exam you speak to yourself as you would to a struggling friend, rather than berating yourself.
 
 ## Sources
 
 - [Neff 2003, Self and Identity, author's PDF](https://self-compassion.org/wp-content/uploads/publications/SCtheoryarticle.pdf) — pp. 85-101; the three-component definition
-- [Wilson et al. 2019, Mindfulness, open access](https://link.springer.com/article/10.1007/s12671-018-1037-6) — 22 RCTs; medium effects vs controls, none vs active controls
+- [Wilson et al. 2019, Mindfulness 10, 979-995, open access](https://link.springer.com/article/10.1007/s12671-018-1037-6) — 22 RCTs; g = 0.52 self-compassion, g = 0.46 anxiety, g = 0.40 depressive symptoms vs control conditions; no significant differences vs active controls. Abstract verified via the authors' institutional record: https://www.research.ed.ac.uk/en/publications/effectiveness-of-self-compassion-related-therapies-a-systematic-r/
 
 ## Psychology parallels
 

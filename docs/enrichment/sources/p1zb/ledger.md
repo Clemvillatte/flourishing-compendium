@@ -217,3 +217,28 @@ never-band-assigned work; p1g state had them flagged-only, absent from p1g's man
   application kept. Plain words rewritten as re-derivation with fresh examples (no replication
   of body sentences). For-example kept (concrete, sound). Sources section added.
 - Saturation: cited by Correspondence theory of truth concept page (rg).
+
+## Round 3 QC repairs (advisor, items 11-15: PP025 PP046 PP057 PP065 R056)
+- PP025: "direction matters enough to show up in mortality data" replaced with associative
+  framing (Hill & Turiano reported an association); For-example changed (nurse-coach-writer
+  sequence kept in plain words only, example now shows direction guiding a choice between goals).
+- PP046: Wilson et al. 2019 g values re-verified against the authors' institutional abstract
+  (research.ed.ac.uk, opened; Springer robots-blocked): 22 RCTs, g=0.52 self-compassion /
+  g=0.46 anxiety / g=0.40 depressive symptoms vs control conditions; no significant
+  differences vs active controls — body claim accurate as scoped. Plain words re-derived
+  through a setback response; unverified self-pity/self-esteem distinction removed. Sources updated.
+- PP057: unverified claims removed (own well-being dimension, hedonic/eudaimonic neutrality,
+  trainability mechanism); self-forgetting made possible-not-definitional in plain words.
+- PP065: quote attributed to Ascenso et al. (their description of Seligman), locator
+  Introduction; categorical "different activities" claims removed — portfolio presented as the
+  principle's recommendation following from multidimensionality; plain words rewritten as a
+  concrete decision (neglected-dimension check); garden/season metaphors dropped.
+- R056: framing sentence removed; "One modern application" used; long chain quote shortened to
+  the continuous first two sentences (paragraph-splice issue); inline URL moved to Sources;
+  blocked-edition commentary removed from Sources.
+- Saturation corrections: PP057 reciprocal links confirmed in The craft of attention,
+  Neuroaesthetics, Nature exposure (all list PP057); PP065 reciprocal links confirmed in The
+  quiet craftsman's life, Fredrickson's positivity portfolios, Positive activity interventions
+  (all list PP065). No new proposals warranted (links already reciprocal).
+- Pre-compaction quotes (Hill & Turiano; Neff 2003; Chatterjee & Vartanian 2014) stand on the
+  ledger records and per-item Sources sections from the opened sources.

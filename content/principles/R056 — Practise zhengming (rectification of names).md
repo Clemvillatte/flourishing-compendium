@@ -12,9 +12,9 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 318** — Practise zhengming (rectification of names)
 
-Use language accurately and call things by their proper names. Asked what he would do first if entrusted with a state, Confucius answered: "What is necessary is to rectify names." The reason is a chain that runs from naming to conduct: "If names be not correct, language is not in accordance with the truth of things. If language be not in accordance with the truth of things, affairs cannot be carried on to success. When affairs cannot be carried on to success, proprieties and music do not flourish. When proprieties and music do not flourish, punishments will not be properly awarded. When punishments are not properly awarded, the people do not know how to move hand or foot." (Confucius, The Analects 13.3, tr. Legge, https://sacred-texts.com/cfu/conf1.htm.)
+Use language accurately and call things by their proper names. Asked what he would do first if entrusted with a state, Confucius answered: "What is necessary is to rectify names." The reason is a chain that runs from naming to conduct: "If names be not correct, language is not in accordance with the truth of things. If language is not in accordance with the truth of things, affairs cannot be carried on to success." (Confucius, The Analects 13.3, tr. Legge.)
 
-The passage ends on a personal note: "What the superior man requires is just that in his words there may be nothing incorrect." For a life rather than a state: be precise in your speech, honest in your self-descriptions, and clear about what you mean. Sloppy naming gives sloppy action somewhere to hide.
+One modern application is personal: "What the superior man requires is just that in his words there may be nothing incorrect." For a life rather than a state: be precise in your speech, honest in your self-descriptions, and clear about what you mean. Sloppy naming gives sloppy action somewhere to hide.
 
 **Plain words** Call things what they are. A "break" that is really a leaving, a "commitment" you don't intend to keep — soft names make the situation easier to say and harder to see, and you cannot act well on what you cannot see. The discipline is plain naming: first in speech, then in what you do about it.
 
@@ -40,4 +40,4 @@ The passage ends on a personal note: "What the superior man requires is just tha
 - **Language and reality** (Wittgenstein, Tractatus Logico-Philosophicus)
 
 ## Sources
-- Confucius, Analects 13.3, tr. James Legge — full text, opened and verified verbatim: https://sacred-texts.com/cfu/conf1.htm (cf. standardebooks.org Legge edition, robots-blocked)
+- Confucius, Analects 13.3, tr. James Legge — full text, opened and verified verbatim: https://sacred-texts.com/cfu/conf1.htm

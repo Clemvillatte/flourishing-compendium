@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 ---
 > **Principle 25** — Clarify purpose as a direction
 
-Purpose is not a goal to be achieved but a direction to be pursued. It answers the question: what am I doing with my life? The clarification of purpose does not require a single answer. It requires that the direction be chosen, that it be large enough to organise daily action, and that it be honest. The direction matters enough to show up in mortality data:
+Purpose is not a goal to be achieved but a direction to be pursued. It answers the question: what am I doing with my life? The clarification of purpose does not require a single answer. It requires that the direction be chosen, that it be large enough to organise daily action, and that it be honest. Hill and Turiano reported an association between purpose and mortality over fourteen years of follow-up:
 
 > Proportional hazard models demonstrated that purposeful individuals lived longer than their counterparts during the 14 years after assessment, even when controlling for other markers of psychological and affective well-being. (Hill & Turiano, "Purpose in Life as a Predictor of Mortality across Adulthood," Psychological Science 25(7), 2014, pp. 1482-1486, [PMC author manuscript](https://pmc.ncbi.nlm.nih.gov/articles/PMC4224996/))
 
@@ -20,7 +20,7 @@ Purpose is not a goal to be achieved but a direction to be pursued. It answers t
 
 **Plain words** A goal is something you can finish; a direction is something you can only face. Purpose works as a direction because it survives the completion of any particular goal: the nurse becomes the coach becomes the writer, and the direction does not run out. The clarification the principle asks for is not the discovery of a secret destiny. It is settling on a heading honest enough and large enough that your Tuesdays can be checked against it.
 
-*For example:* Someone whose direction is "help people understand their bodies" can be a nurse, a coach or a writer at different times.
+*For example:* Offered two jobs — one better paid, one closer to the direction of "help people understand their bodies" — she takes the second, because the heading settles the choice.
 
 ## Sources
 
