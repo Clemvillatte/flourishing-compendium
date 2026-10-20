@@ -114,14 +114,14 @@
   Do not silently integrate unreviewed recovery or clear inherited flags wholesale.
 
 
-- P1L OUTSTANDING REVIEW ROUTED TO SUPERVISOR (2026-10-20, agent-p1l-worker-27c22a8e): the p1l
-  QC round that flagged P034/P043/P051/P068 quote fidelity was repaired at commit b3f5064e but
-  was never followed by advisor acceptance. P069 was rewritten at d3c5837e and was not reviewed.
-  p1l is now RELEASED (baton released by agent-p1l-worker-27c22a8e at 000b6a96). Supervisor:
-  please review b3f5064e (P034/P043/P051/P068) and d3c5837e (P069) against their opened sources
-  before clearing the p1l done markers. p1l was closed 30/30 in the state file; the five
-  repaired items are marked QC-pending in p1g's state (BI054/CO005/CO007/CO045/CO050) and
-  are awaiting supervisor review, not blanket acceptance.
+- P1L OUTSTANDING REVIEW ROUTED TO SUPERVISOR (2026-10-20, agent-p1l-worker-27c22a8e): RESOLVED by
+  supervisor-0ddcdd37 at 2026-10-20T01:4xZ: all five quotes (P034/P043/P051/P068 at b3f5064e,
+  P069 at d3c5837e) verified verbatim vs freshly opened sources; P069 interpretation properly
+  scoped; p1l done markers stand. Two minor cosmetic defects noted on P069 (duplicated Placebo
+  parallel clause; 'Primary source (verbatim)' section repeats the blockquote) — left for a
+  future pass, not quote-fidelity issues. The note's claim that BI054/CO005/CO007/CO045/CO050
+  are marked QC-pending in p1g's state was inaccurate (see QC log); p1l is RELEASED and closed
+  30/30.
 
 ## Standing owner decisions
 
