@@ -30,10 +30,9 @@
   "Politeness Theory",
   "Rhythm in experience",
   "Vocabularies as tools",
-  "Aristotelian friendship",
-  "Reading the moment"
+  "Aristotelian friendship"
  ],
- "in_progress": null,
+ "in_progress": "Reading the moment",
  "flagged": {
   "Koan practice": "QC round 3 RESOLVED: Showing versus saying / The limits of language glosses reduced to bare wikilinks (compendium-internal reading only); evidence-note correction: UNPROMPTED raw fetches = SEP section 2 and Mumonkan Case 1 (both retained blockquotes verified verbatim in raw text; two-methods sentence also confirmed); PROMPTED fetches = Wikipedia Koan and Case 29. Advisor round-3: everything else in the reviewed page passes.",
   "Abhyasa": "QC2 REPAIR: unverified seed opening paragraph removed per advisor (its YS 1.12-14 locator and counterpart claims were not verified from opened pages); all three edges preserved as bare Related links ([[Vairagya]], [[Habituation]], Attentional control training); all retained prose and quotes grounded in opened wisdomlib/Wikipedia pages. Validated vs baseline 9f08ef22: ok.",
@@ -56,10 +55,11 @@
   "Oneness of things": "Grounded in the opened primary source: Zhuangzi Chapter 2, Watson translation (fetched from Terebess Asia Online; the oneness passage quoted verbatim — 'Heaven and earth were born at the same time I was, and the ten thousand things are one with me' through 'Better not to move, but to let things be!'; the editor's footnote marker 12 removed). Seed line preserved; inherited source line preserved; the four seed principle links (K228, D008, ST002, K146) preserved as bullets under In the compendium; B015/B143 Cited-in preserved; lead-in sentence carries inline citation; no priority claims about the chapter. Validated vs seed baseline c2a3ee47: ok.",
   "Order out of chaos": "Grounded in the opened authoritative source: Prigogine's Nobel Lecture, Time, Structure and Fluctuations (1977), fetched from nobelprize.org (trusted official source; PDF); two verbatim blockquotes — the Benard-convection passage (fluctuations amplified above a critical value, supermolecular order as a giant fluctuation stabilized by energy exchange, 'dissipative structures') and the abstract's claim that non-equilibrium may become a source of order. The seed names Prigogine and Stengers (the book Order Out of Chaos, 1984 — not opened, not characterized); the Nobel lecture is the author's own primary scientific text covering the same theory. Seed line and inherited source line preserved; the five seed principle links (P148, M040, P007, SP092, P174) preserved as bullets under In the compendium; P149 Cited-in preserved; lead-ins carry inline citations. Validated vs seed baseline c2a3ee47: ok.",
   "Perception as interpretation": "namespace-audit: Kant primary and SEP McLear opened; no definition of exact thesis-like heading located; named conceptualism debate is contested. File unchanged; supervisor classification/rename/route needed.",
-  "Perception precedes thought": "namespace-audit: opened DeAnimaII/III, dependencies/faculties/images do not define heading as named unit; distinguish chronological thesis from universal rule. File unchanged; supervisor route needed."
+  "Perception precedes thought": "namespace-audit: opened DeAnimaII/III, dependencies/faculties/images do not define heading as named unit; distinguish chronological thesis from universal rule. File unchanged; supervisor route needed.",
+  "Reading the moment": "Reopened for QC: QC round 1: unsupported hexagram-reading gloss, unverified opening claims, invented compendium clauses; repairing"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:30:44+00:00",
+ "updated": "2026-10-20T11:32:18+00:00",
  "band_done": false
 }
