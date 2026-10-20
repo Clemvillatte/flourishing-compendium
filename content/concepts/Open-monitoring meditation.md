@@ -13,6 +13,8 @@ Open-monitoring meditation is non-reactive awareness of moment-to-moment experie
 >
 > Richard J. Davidson and Alfred W. Kaszniak, “Conceptual and Methodological Issues in Research on Mindfulness and Meditation,” [§V](https://pmc.ncbi.nlm.nih.gov/articles/PMC4627495/).
 
+### Training and variation
+
 Davidson and Kaszniak describe open monitoring as typically following focused-attention training in most traditions where it is practiced ([§V](https://pmc.ncbi.nlm.nih.gov/articles/PMC4627495/)). They also caution that meditation practices vary, including within the same tradition, so studies need to specify what participants actually did ([§V](https://pmc.ncbi.nlm.nih.gov/articles/PMC4627495/)).
 
 ## Sources

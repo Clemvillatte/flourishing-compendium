@@ -142,3 +142,6 @@ a principle reserve from the active supervisor.
   No claims of stress reduction or neural effects.
 - Saturation: fast-track exemption. Existing links preserved, no new reciprocal.
 - QC: source comparison and validator before done; milestone advisor sample pending.
+- Milestone-five independent source and preservation checks passed; advisor
+  required a sentence-case subheading. Reopened and added “Training and variation”
+  exactly as requested. No factual content changed.
