@@ -20,9 +20,9 @@ Robert Eno's translation makes the underlying terms plain: "The junzi acts in ha
 
 (Confucius, The Analects 12.23, 13.23, 13.27; The Analects 1.12.)
 
-**Plain words** The couplet draws a line between two things that look alike from a distance: getting on with people who stay different from you, and getting everyone to be the same. The first is harmony, and it takes work; the second is easier and worth less. Ask of any room you are in: is it agreeing, or is it only alike?
+**Plain words** Working with someone does not require copying them. The couplet distinguishes getting along from trying to be alike; it does not say agreement is a defect.
 
-*For example:* Imagine a team deliberately staffed with people who will disagree, and imagine what it takes for the disagreements to be composed into a decision rather than smoothed over. Whether that works better is for the team to find out; the couplet only says which of the two things harmony is.
+*For example:* Imagine two colleagues who can work together while continuing to differ about one part of a plan.
 ## Stories
 
 - [[ST241 — The Child at the Well|241. The Child at the Well]]
