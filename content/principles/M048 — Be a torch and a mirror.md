@@ -12,16 +12,24 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "M — Mesoam
 ---
 > **Principle 48** — Be a torch and a mirror
 
-The tradition's description of the tlamatinime, in one of its most quoted passages: the sage is a torch, a mirror, and a guide (in Nahuatl: ith ca yuhqui, "like a torch, like a mirror"), illuminating, reflecting, and leading. The triple image is a job description: illuminate (show what is there), reflect (show the other to themselves), guide (walk the road with). Practically, audit your roles in your communities against the triple: where are you a torch, where a mirror, where a guide, and which is missing?
+The Nahua description of the tlamatinime, the knowers of things, is a set of images rather than a definition. The Códice Matritense passage, in León-Portilla's translation:
 
-(The tlamatinime's description in the texts, as presented in Leon-Portilla.)
+> "The wise man: a light, a torch, a stout torch that does not smoke. A perforated mirror, a mirror pierced on both sides. ... He is the path, the true way for others. He directs people and things; he is a guide in human affairs. ... He puts a mirror before others, he makes them prudent, cautious; he causes a face to appear on them." (Códice Matritense de la Real Academia VIII, fol. 118r-118v, trans. León-Portilla 1963: 10-11, as printed in Maffie's IEP article "Aztec Philosophy")
 
-**Plain words** The sage's job description, in one of the most quoted passages: a torch, a mirror, and a guide — illuminating (showing what's there), reflecting (showing the other to themselves), leading (walking the road with). Audit yourself against the triple image.
+This page's reading of the images is a job description: illuminate (show what is there), reflect (show the other to themselves), guide (walk the road with). As an application, audit your roles in your communities against the triple: where are you a torch, where a mirror, where a guide, and which is missing?
 
-*For example:* The mentor who does all three in one meeting — shows the situation plainly, asks the question that makes you see yourself in it, then walks the next mile beside you. You leave brighter, seen, and accompanied.
+**Plain words**
+A torch, a mirror, a guide: three different services. The torch shows what is actually there in the situation. The mirror shows the other person to themselves, which is a different job: not telling them what to see, but arranging that they see it. The guide walks with. Most people are good at one and default to it everywhere; the audit is checking which of the three you never do. The passage does not rank them.
+
+*For example:* A mentor might do all three in one meeting: lay out the situation plainly, ask the question that lets you see your own part in it, and then walk the next stretch beside you.
+
+## Sources
+
+- Códice Matritense de la Real Academia VIII, fol. 118r-118v (trans. León-Portilla 1963: 10-11), as printed in [James Maffie, "Aztec Philosophy", Internet Encyclopedia of Philosophy](https://iep.utm.edu/aztec-philosophy/)
+
 ## Psychology parallels
 
-- **[[Modeling|Modeling and feedback functions in groups]]**, the social-cognitive research on exemplars and accurate feedback (Bandura, 1997, modeling; the feedback literatures)
+- **[[Modeling|Modeling and feedback functions in groups]]**
 
 ## Philosophy parallels
 
