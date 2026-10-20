@@ -24,7 +24,7 @@ DDJ 49's "and thus (all) get to be good" is the chapter's own account of what th
 
 (DDJ 49, 63.)
 
-**Plain words** DDJ 49 describes a stance that does not sort people by how they have treated you: goodness and sincerity are given alike, and the chapter says this is how all get to be good. The compendium's reading is that the alternative policy, returning bad faith in kind, makes you a student of the worst people you meet. What the chapters do not supply is a guarantee that kindness will reform anyone; they offer the policy and its direction, not its results.
+**Plain words** DDJ 49 describes a stance that does not sort people by how they have treated you: goodness and sincerity are given alike, and the chapter says this is how all get to be good. The compendium's reading is that the alternative policy, returning bad faith in kind, makes you a student of the worst people you meet. Chapter 49 explicitly says this makes others good and sincere. That is the chapter's stated result. The compendium's practical application is to choose a response without assuming how a particular recipient will change.
 
 *For example:* Imagine having been misled once by someone your work was meant to help. You could decide, before the next such encounter, what your giving will be like, so that the decision is not made fresh by whoever last dealt with you.
 

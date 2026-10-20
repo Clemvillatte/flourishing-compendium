@@ -16,7 +16,7 @@ The Huainanzi tracks the day by the sun's course. Chapter 3, "Celestial Patterns
 
 > "The divisions [of its journey] make dawn, daylight, dusk, and night." (Huainanzi 3.25, Major/Queen trans.)
 
-Chapter 14, "Sayings Explained," carries a similar regularity into instruction for the body. These are two passages the compendium brings together; the text does not present chapter 14 as applying chapter 3:
+Elsewhere, section 14.39 gives advice about regulating the body:
 
 > "To regulate your body and nourish your nature, moderate your sleep and rest, be appropriate in your food and drink, harmonize your happiness and anger, and make suitable your movement and stillness." (Huainanzi 14.39, Major/Queen trans.)
 

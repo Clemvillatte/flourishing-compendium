@@ -16,7 +16,7 @@ Zhuangzi's portrait of the True men includes their sleep:
 
 > "The True men of old did not dream when they slept, had no anxiety when they awoke, and did not care that their food should be pleasant." (Zhuangzi 6, Legge trans., [ETH Zurich PDF](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
 
-The Neiye gives the underlying picture: stillness is not empty time but the condition under which vitality is lodged and kept.
+A separate text, the Neiye, discusses bodily alignment and tranquility:
 
 > "If you can be aligned and be tranquil, / Only then can you be stable. / With a stable mind at your core, / With the eyes and ears acute and clear, / And with the four limbs firm and fixed, / You can thereby make a lodging place for the vital essence." (Neiye VIII, [Roth trans.](https://archive.org/stream/original-tao-inward-training-nei-yeh-and-the-foundations-of-taoist-mysticism-tra/Original%20Tao%20Inward%20Training%20(Nei-yeh)%20and%20the%20Foundations%20of%20Taoist%20Mysticism%20(Translations%20from%20the%20Asian%20Classics)%20by%20Harold%20David%20Roth%20(z-lib.org)_djvu.txt))
 
@@ -26,7 +26,7 @@ The compendium brings these passages together: the Neiye treats stillness as the
 
 (Zhuangzi 6; Neiye VIII, XXVI.)
 
-**Plain words** The Neiye describes tranquility as the thing vitality needs in order to lodge and stabilize, and agitation as what loses it. The compendium's extension to sleep follows from this: the hours of rest are treated not as a gap in the day's work but as part of what the work depends on. When you are tempted to spend sleep to get more done, the question is what the spending costs the thing being spent.
+**Plain words** The quoted Neiye verses ask for alignment and tranquility. Applied here to sleep, that suggests a question for your schedule: how much time have you deliberately left for rest? Before a demanding day, you might choose to protect a bedtime as part of preparation.
 
 *For example:* Imagine a demanding day tomorrow. You could decide that tonight's sleep is part of the preparation, and finish planning early enough to protect it.
 
