@@ -12,14 +12,23 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 ---
 > **Principle 15** — Recognise confirmation bias: you seek evidence that supports what you already believe
 
-Confirmation bias is the tendency to search for, interpret, and remember information that confirms existing beliefs while ignoring or discounting disconfirming information. It is one of the most robust and consequential cognitive biases.
+Nickerson's review gives the working definition this principle rests on: confirmation bias connotes the seeking or interpreting of evidence in ways that are partial to existing beliefs, expectations, or a hypothesis in hand. The review covers evidence of such a bias in a variety of guises and its operation in several practical contexts, and treats the question of its utility or disutility as open. (Nickerson, 1998.)
 
-**Plain words** Confirmation bias: you search for, interpret, and remember information that confirms your existing beliefs, and discount what doesn't. One of the strongest, most pervasive biases. Assume it's running in you right now — and go looking for the disconfirming evidence on purpose.
+> "Confirmation bias, as the term is typically used in the psychological literature, connotes the seeking or interpreting of evidence in ways that are partial to existing beliefs, expectations, or a hypothesis in hand." (Nickerson, 1998, [Review of General Psychology 2(2):175-220](https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf))
 
-*For example:* The person "researching" the diet for a month — reading everything supportive, skimming everything else — and the friend's question that punctures it: "what would change your mind?" If nothing would, it was never research.
+The compendium's reading follows the review's title rather than a ranking: the phenomenon is described as ubiquitous and appearing in many guises, and the question of when it helps or harms is treated as a live one. The principle's title claim (you seek supporting evidence) is the definition's own seeking clause, not a verdict that every belief you hold was formed this way. (Nickerson, 1998.)
+
+**Plain words**
+Once a belief is in hand, the search for evidence bends toward it: supporting material gets read closely, opposing material gets skimmed. The compendium's exercise is the page's practice: before settling a belief, go look for the strongest case against it, and notice what the looking is like.
+
+*For example:* A month of diet research can be tested with one question, written down before continuing: what evidence would change my mind about this? If the honest answer is nothing, the research was not research.
+
+## Sources
+
+- [Nickerson (1998), Confirmation bias: a ubiquitous phenomenon in many guises, Review of General Psychology 2(2):175-220](https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf)
 ## Psychology parallels
 
-- **Confirmation bias is robust across domains**, people selectively seek and interpret evidence to support existing beliefs (Nickerson, 1998; Kahan, 2013)
+- **Confirmation bias appears in a variety of guises**, the review covers evidence of the bias and its operation in several practical contexts (Nickerson, 1998)
 - **[[Motivated reasoning|Motivated reasoning]]**, beliefs are shaped by identity and desired conclusions, not just evidence (Kunda, 1990; Kahan, 2013)
 
 ## Philosophy parallels

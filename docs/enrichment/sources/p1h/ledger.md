@@ -814,3 +814,21 @@ pages. Continuing to CO009.
 - Linked-concept reads: The monkey mind (cross-tradition echoes — consistent),
   Stream of consciousness (James, seed), Wu wei (read in full this session).
   Validator ok.
+
+### CO015 (2026-10-20, worker-p1h-7d3e9c4a)
+
+- Source opened: Nickerson 1998, "Confirmation Bias: A Ubiquitous Phenomenon in Many
+  Guises" (Review of General Psychology 2(2):175-220; full-text PDF hosted at UCSD,
+  opened via fetch). Blockquote verbatim (opening definition); the variety-of-guises
+  and utility-or-disutility sentences verified in the same opened abstract.
+- Seed-body claims scoped: "one of the most robust and consequential cognitive
+  biases" ranking replaced with the review's own framing (ubiquitous, many guises,
+  utility/disutility treated as open); "assume it's running in you right now"
+  imperative removed; "the friend's question that punctures it" sarcasm removed;
+  plain words re-derived as the practice's own move (look for the strongest case
+  against); example keeps the what-would-change-my-mind question without the
+  punchline framing; parallels bullet 1 narrowed to Nickerson (Kahan dropped as
+  unopened; the Motivated reasoning wikilink bullet preserved per protocol).
+- Linked-concept reads: Dialectic (Hegel), Steelmanning the opposing view (Mill,
+  cites CO015's own practice), Devil's advocate (Catholic tradition — cites CO015),
+  Motivated reasoning (wikilink preserved). Validator ok.
