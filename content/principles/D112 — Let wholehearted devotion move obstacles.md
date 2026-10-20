@@ -12,18 +12,18 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 112** — Let wholehearted devotion move obstacles
 
-In the fifth book of the Liezi, the Simpleton of the North Mountain, an old man of ninety, lives opposite two mountains that block the road, and calls his family together to cut through them. The Wise Old Man of the River-bend tells him he cannot remove a hair's breadth of the mass. His answer changes the timescale: he will die, but his sons and grandsons will continue, and the mountain will receive no increment or addition. The story ends with a deity, fearing the work will never be finished, reporting it to God, who is touched by the old man's simple faith and has the mountains carried away.
+In the fifth book of the Liezi, the Simpleton of the North Mountain, an old man of ninety, lives opposite two mountains that block the road, and calls his family together to cut through them. The Wise Old Man of the River-bend tells him he cannot remove a hair's breadth of the mass. His answer changes the timescale: he will die, but his sons and grandsons will continue, and the mountain will receive no increment or addition. The story ends with a deity, fearing that the work might never be finished, reporting it to God, who is touched by the old man's simple faith and has the mountains carried away.
 
 (Liezi 5.)
 
-> "Though I myself must die, I shall leave a son behind me, and through him a grandson. That grandson will beget sons in his turn, and those soils will also have sons and grandsons. With all this posterity, my line will not die out, while on the other hand the mountain will receive no increment or addition. Why then should I despair of levelling it to the ground at last?" (Liezi 5, [Giles](https://en.wikisource.org/wiki/Taoist_teachings_from_the_book_of_Lieh_Tz%C5%AD/Book_5))
+> "Though I myself must die, I shall leave a son behind me, and through him a grandson. [...] With all this posterity, my line will not die out, while on the other hand the mountain will receive no increment or addition. Why then should I despair of levelling it to the ground at last?" (Liezi 5, [Giles](https://en.wikisource.org/wiki/Taoist_teachings_from_the_book_of_Lieh_Tz%C5%AD/Book_5); ellipsis marks a skipped sentence)
 
-The compendium reads the story as a portrait of wholehearted commitment rather than a promise that heaven intervenes. What the mocker calls witlessness is a plan whose unit of account is generations, and the help arrives only after the deity concludes the project will never end.
+The compendium reads the story as a portrait of wholehearted commitment rather than a promise that heaven intervenes. What the mocker calls witlessness is a plan whose unit of account is generations.
 
 **Plain words**
-Notice what the old man is counting on: not his own strength, a line that continues after him. The mocker measures the project against one lifetime and calls it absurd. Wholehearted devotion means you have stopped keeping that comparison in your back pocket. If you are half in, part of you is always rehearsing the exit; the story treats the absence of an exit as the thing that moves the obstacle.
+The old man's arithmetic has two terms: a line that continues after him, and a mountain that gains nothing while they work. The mocker's arithmetic has one term: his remaining years. Wholehearted devotion in this story means signing on to the first arithmetic. Ask of a long project which one you are using.
 
-*For example:* Imagine clearing an overgrown allotment with your household, one hour each Saturday, across several seasons. The mocker's arithmetic says you will never finish. The household's arithmetic says the mountain gets no bigger and the pile only shrinks.
+*For example:* Imagine clearing an overgrown allotment with your household, one hour each Saturday, across several seasons. The mocker's arithmetic says you will never finish. The household's arithmetic says the pile keeps shrinking.
 
 ## Sources
 

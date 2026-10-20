@@ -12,18 +12,18 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 119** — Keep to the center: excess words exhaust
 
-Chapter 5 of the Daodejing sets a limit on talk inside a picture of the world. The space between heaven and earth, it says, is like a bellows: emptied, it does not lose its power; moved, it sends forth air the more. Speech runs on the opposite economy. Much talk spends itself fast, and the chapter's counsel is to guard the inner being instead.
+Chapter 5 of the Daodejing compares the space between heaven and earth to a bellows: emptied, it does not lose its power; moved, it sends forth air the more. The chapter then turns to speech: much talk leads to swift exhaustion, and the counsel is to guard the inner being and keep it free.
 
 (DDJ 5.)
 
 > "Much speech to swift exhaustion lead we see; / Your inner being guard, and keep it free." (DDJ 5, [Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
-The verse sits in a chapter that opens with heaven and earth dealing with things without preference. The bellows holds its power because it gives only when moved; the person who talks past the point is doing the moving themselves, and pays for each stroke. Laozi's counsel is not silence but conservation: keep the supply behind the speech.
+The compendium's exercise takes the verse as a reason to stop once a thing is clearly explained, rather than to keep explaining past it.
 
 **Plain words**
-A bellows can be worked all day and still finish with its power, because it only gives air when something moves it. A person can talk for an hour and finish with less than they started. When you have made your point, notice how many more sentences you want to add. Those sentences are the ones this chapter is about.
+Next time you explain something, notice the moment it becomes clear. Practice stopping there, and notice what the sentences after that moment feel like they are for. The chapter's counsel is about supply: much spending of speech, it says, ends in exhaustion.
 
-*For example:* Say you are apologizing. Three sentences cover it: what you did, what it cost, what you will do differently. The ten-minute version with the exonerating context attached is the one the verse warns about.
+*For example:* Imagine explaining a decision in a meeting. When the explanation is complete, count the extra sentences you are tempted to add. Those are what the chapter's verse is about.
 
 ## Sources
 

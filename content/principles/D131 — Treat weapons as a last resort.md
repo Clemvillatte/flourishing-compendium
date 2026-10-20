@@ -23,7 +23,7 @@ The compendium's application carries the passage past armies, to lawsuits, ultim
 **Plain words**
 A weapon, in this chapter, is something you may use only when nothing else is left, and using it well still assigns you the mourner's place. Everyday weapons: naming the relationship-ending card, filing the suit, sending the ultimatum. Before playing one, ask what would have to be true for this to be necessity. If the honest answer is anger or convenience, the chapter files it under instruments of evil omen.
 
-*For example:* Imagine an argument in which "maybe we should just break up" is available. It ends arguments. The chapter's question is not whether it works; it is whether necessity compelled it.
+*For example:* Imagine an argument in which "maybe we should just break up" is available. The chapter's question is whether necessity compelled you to say it, or whether something less final would have done.
 
 ## Sources
 

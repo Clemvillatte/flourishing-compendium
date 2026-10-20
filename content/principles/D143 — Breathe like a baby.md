@@ -12,17 +12,26 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 143** — Breathe like a baby
 
-Soft, deep, abdominal, through the nose: the breath of infants, whose grip is firm and vitality whole. Retrain your breathing toward that baseline.
+In Legge's translation, chapter 10 of the Daodejing connects attention to the vital breath and pliancy with becoming like a tender babe. Chapter 55 compares someone with abundant attributes of the Tao to an infant, describing its unhoarse crying as a sign of harmony, and the verse after the image warns that where the mind makes the vital breath to burn, the strength is false.
 
 (DDJ 10, 55.)
 
-**Plain words** Soft, deep, abdominal, through the nose — the breath of infants, whose grip is firm and vitality whole. Retrain your breathing toward that baseline. The breath is the remote control of the nervous system, and most people have lost the remote.
+> "When one gives undivided attention to the (vital) breath, and brings it to the utmost degree of pliancy, he can become as a (tender) babe." (DDJ 10, [Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
-*For example:* Before the interview, three slow nose-breaths into the belly — the difference between 'shaky' and 'steady' is measurable in the voice.
+The compendium takes the infant image as a prompt for gentle attention to breathing. Neither passage specifies nasal or abdominal breathing, a target rate, or a prolonged exhalation.
+
+**Plain words**
+As a compendium exercise, notice an ordinary breath without setting a target for its depth or speed. Consider whether you are trying to force it into a particular pattern. Approach the exercise gently, using the chapter's pliant babe as your image.
+
+*For example:* Imagine waiting for an interview. You pause to notice a few breaths, then return to your preparations.
+
+## Sources
+
+- [Tao Teh King, James Legge translation, Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm) — chapters 10, 55
 
 ## Psychology parallels
 
-- **[[Slow-paced breathing|Slow-paced breathing]]** (Balban et al., 2023; Zaccaro et al., 2018), roughly five to six breaths per minute increases vagal tone and reliably reduces stress markers
+- **[[Slow-paced breathing|Slow-paced breathing]]** (Balban et al., 2023; Zaccaro et al., 2018)
 
 ## Philosophy parallels
 
