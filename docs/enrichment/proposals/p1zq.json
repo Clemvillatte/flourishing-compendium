@@ -7,7 +7,7 @@
   "notes": "A081 is outside p1zq's band; flagged for supervisor decision on quote diversification rather than edited."
  },
  "batch": "p1zq",
- "revision": 3,
+ "revision": 4,
  "reciprocal": [
   {
    "into": "Affective dynamics framework",
@@ -38,6 +38,12 @@
    "link": "AF041",
    "why": "AF041 is the principle form of this page's construct: the capacity to bear intense affect without the act that makes it worse.",
    "notes": "Target verified to not yet link AF041 (rg check 2026-10-21). Same opened Leyro et al. 2010 review as the page cites. Evidence: sources/p1zq/AF041.md."
+  },
+  {
+   "into": "Grief's oscillation model",
+   "link": "AF052",
+   "why": "AF052 is this model's principle form: grief as oscillation between loss- and restoration-orientation, with respite treated as part of adaptive coping.",
+   "notes": "Target verified to not yet link AF052 (rg check 2026-10-21). Evidence: sources/p1zq/AF052.md (Stroebe & Schut 1999 full text opened via scispace)."
   }
  ],
  "inline": [],
