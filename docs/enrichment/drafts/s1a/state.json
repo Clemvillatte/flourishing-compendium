@@ -367,7 +367,7 @@
    ]
   },
   "s1a-016": {
-   "status": "drafting",
+   "status": "qc_pending",
    "angle": "D156: tree survives uselessness but goose dies for it; no fixed useful/useless strategy, adapt with changing conditions",
    "history": [
     {
@@ -378,9 +378,14 @@
      "t": "2026-10-20T14:32:11+00:00",
      "to": "drafting",
      "note": "Full tree/goose/counterexample/midpoint-rejection/Dao arc drafted from opened primary and Watson comparison"
+    },
+    {
+     "t": "2026-10-20T14:34:11+00:00",
+     "to": "qc_pending",
+     "note": "Complete source audit and checker green; independent review blocked by exhausted reviewer credits"
     }
    ]
   }
  },
- "updated": "2026-10-20T14:32:11+00:00"
+ "updated": "2026-10-20T14:34:11+00:00"
 }
