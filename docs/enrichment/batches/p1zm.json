@@ -10,7 +10,9 @@
   "M014",
   "M048",
   "MO014",
-  "MO017"
+  "MO017",
+  "MO022",
+  "MO025"
  ],
  "in_progress": null,
  "flagged": {
@@ -22,6 +24,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T10:23:05+00:00",
+ "updated": "2026-10-20T10:24:11+00:00",
  "band_done": false
 }
