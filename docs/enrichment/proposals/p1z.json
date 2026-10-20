@@ -90,6 +90,13 @@
       "phrase": "affect-maintenance system (learn, adapt, retain)",
       "why": "AF084 frames emotion-regulation maintenance in Gross's process-model terms; BE078 documents the general behaviour-change maintenance literature (Kwasnicka 2016 five themes) that underlies the learn-adapt-retain framing",
       "notes": "found by mention scan during BE078 saturation"
+    },
+    {
+      "into": "AT049",
+      "type": "principle",
+      "phrase": "Breath as life force (pranayama)",
+      "why": "AT049's parallels cover breath practices across traditions; BI029 documents the trial evidence for movement practices whose distinguishing ingredient includes trained breath (yoga vs matched walking, tai chi RCT)",
+      "notes": "found by mention scan during BI029 saturation"
     }
   ],
   "inline": [
