@@ -12,13 +12,24 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 253** — Make Stoicism a lifelong practice, not a phase
 
-The Stoic life is not a course you complete. It is a way of living that you return to daily, for the rest of your life. Marcus was still writing his Meditations in his final years, still training, still struggling, still practising. Do not expect to arrive. Expect to continue.
+> How long, then, will you put off thinking yourself worthy of the highest improvements and follow the distinctions of reason? ... This instant, then, think yourself worthy of living as a man grown up, and a proficient.
 
-(Med. V.1, V.9, IX.29, X.1, XI.1, XI.9, XII.1, XII.6; Seneca, Letters 16, 71, 72, 75; Disc. I.4, III.21, IV.9.)
+(Epictetus, Enchiridion 50, trans. Elizabeth Carter, [Internet Classics Archive](https://classics.mit.edu/Epictetus/epicench.html), page opened; the ellipsis omits several sentences.)
 
-**Plain words** There is no graduation day from Stoicism — Marcus was still coaching himself on his deathbed. The point of a practice is that you keep practising, not that you arrive. Plan to be a beginner again every morning, forever, on purpose.
+Seneca stresses repetition. In Letter 16 he says the idea that wisdom is needed for a happy life "must be strengthened and implanted more deeply by daily reflection; it is more important for you to keep the resolutions you have already made than to go on and make noble ones" ([Gummere trans., Wikisource](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_16), opened). He also writes that happiness comes "when our wisdom is brought to completion, but that life is at least endurable even when our wisdom is only begun." The entry's line that there is no arrival is a modern gloss, since Seneca speaks of completion. The claims in the original that Marcus was still writing in his final years and coaching himself on his deathbed were not found in any source opened, so they were removed.
 
-*For example:* The twenty-year meditator who still sets the timer for ten minutes because "the day I think I'm done is the day I'm not."
+For the psychology parallel, a meta-analysis of 92 longitudinal samples found that people increase in social dominance, conscientiousness and emotional stability, "especially in young adulthood (age 20 to 40)," and that change continues in middle and old age for four of six trait categories ([Roberts, Walton & Viechtbauer, Psychological Bulletin, 2006; PubMed](https://pubmed.ncbi.nlm.nih.gov/16435954/)). That shows personality change across the lifespan, and says nothing about Stoic practice. Rogers, Aristotle and Whitehead were not opened.
+
+**Plain words** Epictetus tells his reader to stop postponing and start living as a proficient person now. Seneca treats philosophy as daily repetition and keeping resolutions. Neither says that no one ever finishes.
+
+*For example (imagined):* A twenty-year meditator still sets the timer for ten minutes each morning.
+
+## Sources
+
+- [Epictetus, Enchiridion 50 (trans. E. Carter)](https://classics.mit.edu/Epictetus/epicench.html) — MIT Internet Classics Archive, opened
+- [Seneca, Letter 16 (trans. R. Gummere)](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_16) — Wikisource, opened
+- [Roberts, Walton & Viechtbauer (2006), Psychol Bull 132(1), 1-25](https://pubmed.ncbi.nlm.nih.gov/16435954/) — PubMed abstract opened
+
 ## Stories
 
 - [[ST223 — The Slave Who Taught Emperors|223. The Slave Who Taught Emperors]]

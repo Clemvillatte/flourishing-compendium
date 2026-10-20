@@ -115,3 +115,8 @@
 - Opened: Marcus Med. IV.43, IX.28 (Long); Sahdra et al. 2010 abstract (PMID 20155561).
 - Not opened: remaining ~29 Meditations refs; Lyubomirsky 2011; Heraclitus; Buddhist anicca.
 - Note: "freeing" and "nothing worth clinging to except virtue" are compendium wording; Marcus IX.28 says one will "despise everything which is perishable".
+
+## S131 — Make Stoicism a lifelong practice, not a phase
+- Opened: Epictetus Enchiridion 50 (Carter); Seneca Letter 16 (Gummere); Roberts, Walton & Viechtbauer 2006 abstract (PMID 16435954).
+- Not opened: all Meditations refs; other Seneca letters; Disc.; Rogers; Aristotle NE I.7; Whitehead.
+- Note: removed unsupported "Marcus still writing in final years" and "coaching himself on his deathbed"; "no arrival" is a modern gloss since Seneca speaks of completion of wisdom.
