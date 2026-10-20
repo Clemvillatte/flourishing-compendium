@@ -21,7 +21,7 @@ The experiment behind the section made the neglect measurable. Subjects assessed
 **Plain words**
 A description can resemble a category even when that category is uncommon. Start with how common the possible categories are, then ask what the description adds.
 
-*For example:* An imagined case: an investor reads a founder profile that matches the visionary stereotype, and checks one more thing: the failure rate for startups in the same sector and stage, the reference class the profile belongs to. The profile is unchanged; the check adds the count.
+*For example:* An imagined case: an investor reads a founder profile that matches the visionary stereotype, and checks one more thing: the failure rate for startups in the same sector and stage, the reference class the profile belongs to.
 
 ## Sources
 

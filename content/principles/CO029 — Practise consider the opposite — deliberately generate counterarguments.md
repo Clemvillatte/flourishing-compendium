@@ -17,7 +17,7 @@ The paper that tested the strategy proposes that several biases in social judgme
 > "In both experiments the induction of a consider-the-opposite strategy had greater corrective effect than more demand-laden alternative instructions to be as fair and unbiased as possible." (Lord, Lepper & Preston 1984, [Journal of Personality and Social Psychology](https://pubmed.ncbi.nlm.nih.gov/6527215/))
 
 **Plain words**
-Take a judgment you favour and ask what would support a different conclusion. Write down that case before deciding. This turns the instruction into a specific task: examine a competing explanation. In the two studied judgment tasks, the people given that task judged with less bias than the people merely asked to be as fair and unbiased as possible.
+Take a judgment you favour and ask what would support a different conclusion. Write down that case before deciding. This turns the instruction into a specific task: examine a competing explanation.
 
 *For example:* An imagined hiring team lists reasons a candidate might struggle in the role, then checks those concerns against the interview evidence before deciding.
 
