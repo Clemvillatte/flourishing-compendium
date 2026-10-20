@@ -39,3 +39,6 @@ No saturation hunt or reciprocal proposal under fast-track.
 Local `enrich_validate.py --base d55ef6f3 --fast-track` PASS; expected warning
 for fewer than three Related lines. State done and pushed after rebase/retry
 of a concurrent remote update. No work left only in local commits.
+Independent advisor PASS: exact IV Preface quotation and translator, primary
+locators, Nadler's distinctions and all 11 original wikilink occurrences
+preserved in order. No further prose fixes requested.
