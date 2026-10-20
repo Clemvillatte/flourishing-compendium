@@ -12,11 +12,23 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 16** — Cultivate emodiversity: the range and evenness of your emotional life
 
-Experiencing a wide range of emotions, each in appropriate proportion, is better for mental health than experiencing either very high positive affect or very low negative affect alone. Emodiversity is a distinct predictor of well-being beyond mean affect.
+The study introduces "emodiversity: the variety and relative abundance of the emotions that humans experience" ([Quoidbach et al., 2014](https://pubmed.ncbi.nlm.nih.gov/25285428/)). Two cross-sectional studies across more than 37,000 respondents found that "emodiversity is an independent predictor of mental and physical health... over and above mean levels of positive and negative emotion," with results that "remained robust after controlling for gender, age, and the 5 main dimensions of personality" ([Quoidbach et al., 2014](https://pubmed.ncbi.nlm.nih.gov/25285428/)). The paper measures the variety as richness (how many specific emotions are experienced) and evenness (the extent to which they are experienced in the same proportion). The authors' summary: "Emodiversity is a practically important and previously unidentified metric for assessing the health of the human emotional ecosystem" ([Quoidbach et al., 2014](https://pubmed.ncbi.nlm.nih.gov/25285428/)). The exercise below inventories the range.
 
-**Plain words** Emodiversity: experiencing a wide range of emotions, each in appropriate proportion, is better for mental health than high positive affect alone. A rich emotional portfolio beats a single-note one. Cultivate the range, not just the highs.
+> These results remained robust after controlling for gender, age, and the 5 main dimensions of personality.
+>
+> Quoidbach, Gruber, Mikolajczak, Kogan, Kotsou and Norton (2014), "Emodiversity and the emotional ecosystem," Journal of Experimental Psychology: General 143(6), 2057-2066, [PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/25285428/).
 
-*For example:* The person chasing happiness as a single note — joy, joy, joy — versus the one whose week contains interest, pride, nostalgia, mild frustration, contentment. The second portfolio is the one that holds value in a downturn.
+> Emodiversity is a practically important and previously unidentified metric for assessing the health of the human emotional ecosystem.
+>
+> Quoidbach et al. (2014), same paper, [PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/25285428/).
+
+(Quoidbach et al., 2014, JEP: General 143(6): 2057-2066.)
+
+### Plain words
+
+Emodiversity is the variety and relative abundance of the emotions you experience: how many, and how evenly they are experienced. The studies found it predicted health over and above average positive and negative feeling. For an exercise, list the distinct emotions you can recall from the past week and mark the ones that repeated.
+
+For example: one week contains interest, pride, nostalgia, mild frustration and contentment; another contains a single note repeated. Listing the distinct emotions of the week is the exercise. (An invented illustration.)
 ## Psychology parallels
 
 - **Emodiversity predicts lower depression, anxiety, and better well-being**, independently of mean positive and negative affect (Quoidbach et al., 2014)
