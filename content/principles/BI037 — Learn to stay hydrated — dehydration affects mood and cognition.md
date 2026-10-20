@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BI — Biophysi
 ---
 > **Principle 37** — Learn to stay hydrated: dehydration affects mood and cognition
 
-Two laboratory studies examined mild dehydration in healthy young adults. In 26 young men, a mean loss of 1.59% of body mass increased errors on a visual vigilance task, slowed responses on a visual working-memory task, and raised fatigue and tension/anxiety at rest ([Ganio et al., 2011](https://pubmed.ncbi.nlm.nih.gov/21736786/)). In 25 young women at 1.36% dehydration, mood degraded (vigor down, fatigue up, headaches, lower concentration), while most aspects of cognitive performance were not affected ([Armstrong et al., 2012](https://pubmed.ncbi.nlm.nih.gov/22190027/)).
+Two laboratory studies examined mild dehydration in healthy young adults ([Ganio et al., 2011](https://pubmed.ncbi.nlm.nih.gov/21736786/); [Armstrong et al., 2012](https://pubmed.ncbi.nlm.nih.gov/22190027/)). In 26 young men, a mean loss of 1.59% of body mass increased errors on a visual vigilance task, slowed responses on a visual working-memory task, and raised fatigue and tension/anxiety at rest ([Ganio et al., 2011](https://pubmed.ncbi.nlm.nih.gov/21736786/)). In 25 young women at 1.36% dehydration, mood degraded (vigor down, fatigue up, headaches, lower concentration), while most aspects of cognitive performance were not affected ([Armstrong et al., 2012](https://pubmed.ncbi.nlm.nih.gov/22190027/)).
 
 > "Dehydration degraded specific aspects of cognitive performance: errors increased on visual vigilance (P = 0·048) and visual working memory response latency slowed (P = 0·021)." (Abstract, Results; Ganio et al., 2011, Br J Nutr 106(10): 1535-43, [PubMed](https://pubmed.ncbi.nlm.nih.gov/21736786/))
 

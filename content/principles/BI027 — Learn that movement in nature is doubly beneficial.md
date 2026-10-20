@@ -19,7 +19,7 @@ A controlled experiment, with walking in both conditions, found that a 90-minute
 > "We show in healthy participants that a brief nature experience, a 90-min walk in a natural setting, decreases both self-reported rumination and neural activity in the subgenual prefrontal cortex (sgPFC), whereas a 90-min walk in an urban setting has no such effects on self-reported rumination or neural activity." (Abstract; Bratman et al., 2015, PNAS 112(28): 8567-72, [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4507237/))
 
 **Plain words**
-When choosing a walking route, consider a park or waterside path ([Barton & Pretty, 2010](https://repository.essex.ac.uk/683/); [Bowler et al., 2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC2924288/)). The research gives reasons to try natural surroundings, without promising that every outing will improve your mood. It does not establish a doubling of benefits.
+When choosing a walking route, consider a park or waterside path ([Barton & Pretty, 2010](https://repository.essex.ac.uk/683/); [Bowler et al., 2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC2924288/)). The research gives reasons to try natural surroundings, without promising that every outing will improve your mood ([Barton & Pretty, 2010](https://repository.essex.ac.uk/683/); [Bowler et al., 2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC2924288/)). It does not establish a doubling of benefits ([Bratman et al., 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC4507237/)).
 
 **For example**
 (Imagined) Two colleagues take the same 30-minute lunchtime walk, one along a canal path, one through a car park and arcade. The legs do identical work; each can notice what the afternoon's mood does afterward.
@@ -43,4 +43,4 @@ When choosing a walking route, consider a park or waterside path ([Barton & Pret
 
 ## Practice
 
-- Exercise in nature: walk, run, or cycle in parks, forests, or by water. The pooled studies found benefits from short engagements, and the natural-versus-synthetic comparison is suggestive rather than settled.
+- Exercise in nature: walk, run, or cycle in parks, forests, or by water. The pooled studies found benefits from short engagements ([Barton & Pretty, 2010](https://repository.essex.ac.uk/683/)), and the natural-versus-synthetic comparison is suggestive rather than settled ([Bowler et al., 2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC2924288/)).

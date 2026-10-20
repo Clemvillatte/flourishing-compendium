@@ -19,10 +19,10 @@ The evidence is observational, and the researchers themselves are careful with i
 > "Overall, individuals in the highest DII v. the lowest DII category had a 23 % higher risk of depression (risk ratio (RR)=1·23; 95 % CI 1·12, 1·35)." (Abstract, Results; Wang et al., 2019, Public Health Nutr 22(4): 654-60, [PubMed](https://pubmed.ncbi.nlm.nih.gov/30319085/))
 
 **Plain words**
-These studies describe differences between groups with different dietary patterns ([Akbaraly et al., 2009](https://pubmed.ncbi.nlm.nih.gov/19880930/); [Wang et al., 2019](https://pubmed.ncbi.nlm.nih.gov/30319085/)). They do not establish that replacing a particular food will change one person's mood. The practical application is to review the overall pattern of meals, rather than interpret an afternoon's feelings as the effect of one snack.
+These studies describe differences between groups with different dietary patterns ([Akbaraly et al., 2009](https://pubmed.ncbi.nlm.nih.gov/19880930/); [Wang et al., 2019](https://pubmed.ncbi.nlm.nih.gov/30319085/)). They do not establish that replacing a particular food will change one person's mood ([Akbaraly et al., 2009](https://pubmed.ncbi.nlm.nih.gov/19880930/); [Wang et al., 2019](https://pubmed.ncbi.nlm.nih.gov/30319085/)). The practical application is to review the overall pattern of meals, rather than interpret an afternoon's feelings as the effect of one snack.
 
 **For example**
-(Imagined) Two shoppers fill similar trolleys, one with ready meals, sweetened desserts and processed meat, one with vegetables, fish and fruit. The studies cannot promise the second shopper a better mood; they can say that over years, that pattern belonged to the group reporting fewer depressive symptoms.
+(Imagined) Two shoppers fill similar trolleys, one with ready meals, sweetened desserts and processed meat, one with vegetables, fish and fruit. The studies cannot promise the second shopper a better mood; they can say that over years, that pattern belonged to the group reporting fewer depressive symptoms ([Akbaraly et al., 2009](https://pubmed.ncbi.nlm.nih.gov/19880930/)).
 
 ## Sources
 

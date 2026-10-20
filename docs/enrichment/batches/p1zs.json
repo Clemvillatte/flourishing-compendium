@@ -1,22 +1,22 @@
 {
  "batch": "p1zs",
  "done": [
-  "BI020",
   "BI037",
   "BI023",
   "BI027",
-  "BI035"
+  "BI035",
+  "BI020"
  ],
  "in_progress": null,
  "flagged": {
-  "BI020": "Reopened for QC: QC correction: advisor round-1 repairs (invented curve/mechanism, plain-words guarantee, example outcomes, inherited overclaims)",
-  "BI037": "Reopened for QC: round-3 final local corrections",
-  "BI023": "Reopened for QC: round-3 final local corrections",
-  "BI027": "Reopened for QC: round-3 final local corrections",
-  "BI035": "Reopened for QC: round-3 final local corrections"
+  "BI020": "Reopened for QC: round-4 citation closure",
+  "BI037": "Reopened for QC: round-4 citation closure",
+  "BI023": "Reopened for QC: round-4 citation closure",
+  "BI027": "Reopened for QC: round-4 citation closure",
+  "BI035": "Reopened for QC: round-4 citation closure"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:45:52+00:00",
+ "updated": "2026-10-20T11:49:10+00:00",
  "band_done": false
 }
