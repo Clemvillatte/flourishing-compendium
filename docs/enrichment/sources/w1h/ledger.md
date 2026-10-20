@@ -598,3 +598,24 @@
   namespace-audit entry. Saturation: skipped per fast-track §1a (degree 9
   < 15); no cross-link proposals filed. Advisor QC: not due (item 11; next at
   item 15).
+
+## Psychological needs theory (2026-10-20, worker-p1zs-7a4e2c91, fast-track; degree 8 — eligible)
+
+- OPENED: Ryan & Deci, "Self-Determination Theory" (2022), Encyclopedia of
+  Quality of Life and Well-Being Research (Springer) PDF at
+  https://selfdeterminationtheory.org/wp-content/uploads/2023/01/2022_RyanDeci_SDT_Encyclopedia.pdf
+  — raw fetch; blockquote (the "SDT also postulates..." sentence) and the BPNT
+  formalized-propositions passage, the all-three-essential claim, and the
+  cross-cultural-programme note verified character-for-character in the
+  fetched text.
+- In-the-compendium clauses grounded in the principle pages' own quoted
+  material (MO002/MO018 Ryan-Deci 2000 postulate, PP006, PP007 White 1959,
+  PP010 Kasser-Ryan 1996, ST300 story, A001, A095 via enrich_find context).
+- Boundary: PP006/PP007/MO002 already quote the 2000 American Psychologist
+  postulate from their own pages; this page's blockquote uses the 2022
+  encyclopedia entry's postulates sentence (different source, no duplicate
+  blockquote).
+- IS-IT-A-CONCEPT check: named theory (BPNT) with primary literature; no
+  namespace-audit entry. Saturation: skipped per fast-track §1a (degree 8
+  < 15); no cross-link proposals filed. Advisor QC: not due (item 12; next at
+  item 15).
