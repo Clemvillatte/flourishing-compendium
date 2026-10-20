@@ -1,0 +1,18 @@
+{
+ "batch": "p1zt",
+ "revision": 1,
+ "reciprocal": [
+  {
+   "into": "Pure experience",
+   "link": "K002",
+   "why": "Nishida's claim that experience precedes the subject-object split is one of this concept's founding statements",
+   "notes": "Concept page already cites Nishida, An Inquiry into the Good in its parallels. Evidence: SEP Nishida Kitaro entry opened 2026-10-20 (pure experience precedes differentiation into subject and object; An Inquiry into the Good p. 3 fragment)."
+  },
+  {
+   "into": "Non-dual awareness",
+   "link": "K002",
+   "why": "the made-not-found analysis of the subject-object split is the philosophical background to awareness described without dualistic structure",
+   "notes": "Concept page defines NDA as awareness 'without subject-object dualistic structure' (Josipovic & Miskovic). Evidence: SEP Nishida Kitaro entry opened 2026-10-20."
+  }
+ ]
+}

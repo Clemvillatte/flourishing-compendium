@@ -14,11 +14,17 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 
 The subject-object split, Nishida argues, is a second-order act: we first live in unbroken engagement with the world, and only afterwards does reflection stand apart and posit an "I" over against things. This matters practically because it reverses the burden of proof: the separated self is the construction, and the constructed thing can be examined as a construction. Practically, when self-consciousness becomes painful (scrutiny, social anxiety, self-monitoring), remember which layer is the addition, and step back toward the engaged layer rather than trying to fix the scrutinizing layer from inside itself.
 
+> "The moment of seeing a color or hearing a sound" is prior not only to the thought that the color or sound is the activity of an external object or that one is sensing it, but also to the judgment of what the color or sound might be. (John Maraldo, "Nishida Kitarō", Stanford Encyclopedia of Philosophy, quoting An Inquiry into the Good, p. 3)
+
 (Nishida, An Inquiry into the Good; the late logic of place.)
 
 **Plain words** Standing apart as an "I" looking at the world isn't where you start. You start inside the engagement and only later step back and build the observer. That reverses the usual burden of proof: the separate self is what needs explaining, and anything made can be looked at as made.
 
 *For example:* In a crowded room you become aware of yourself as a watched object and suddenly can't walk normally. Thirty seconds earlier you were just walking.
+
+## Sources
+
+- [Maraldo, "Nishida Kitarō", Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/nishida-kitaro/) — pure experience precedes the differentiation into subject and object; the color-and-sound passage from An Inquiry into the Good, p. 3
 
 ## Psychology parallels
 
