@@ -12,13 +12,20 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 51** — Treat action and consequence as the mind's habit loop
 
-The lamrim's presentation of karma, kept within a declared scope (consequence in this life, not rebirth): every action of body, speech, and mind leaves a disposition, and dispositions shape what the next moment is easy to do. The modern translation is uncontroversial and exact: habit. Practically, treat each repetition of a pattern as a vote for the person the pattern builds, and audit the ballot weekly.
+The lamrim's karma chapter, kept within this page's declared scope (consequence in this life, not rebirth): an action is first an intention, and intentions repeated leave dispositions. Tsongkhapa marks the loop on the far side of rebirth, and it reads as pure habit formation: what you did becomes what you like doing.
 
-(Tsongkhapa's lamrim, the karma chapter; the ten nonvirtues as the tradition's ethical floor: not killing, not stealing, not lying, not divisive, not cruel, not idle speech, not coveting, not ill will, not wrong view.)
+> "Liking to kill and so on even once you have been born a human are causally concordant behavioural effects." (Great Treatise on the Stages of the Path, Vol. 1, p. 236)
 
-**Plain words** Every action leaves a disposition, and dispositions shape what's easy to do next. Set aside rebirth and what remains is habit, exactly. Treat each repetition of a pattern as a vote for the person you're becoming.
+The tradition's ethical floor is the ten paths of action: killing, stealing, sexual misconduct, lying, divisive speech, offensive speech, senseless speech, covetousness, malice, and wrong views (pp. 218-226). The Treatise weighs each act by basis, attitude, performance and culmination, then adds the magnification warning that even subtle actions "follow you like shadows" and produce great happiness or great suffering (p. 211). Practically, treat each repetition of a pattern as a vote for the person the pattern builds, and audit the ballot weekly.
+
+**Plain words**
+Anything you repeat gets easier to repeat. That is the whole mechanism, and it runs whether or not you believe in rebirth: the pattern you feed this month is the default you wake up with next month. The tradition's floor is a plain list of ten things to stop doing, from killing down to coveting and wrong views. The weekly audit is just honesty about which repetitions you have been feeding.
 
 *For example:* Each night you snap at the kids "just this once," and by the end of the month it's who you are at 6pm.
+
+## Sources
+
+- Tsongkhapa, The Great Treatise on the Stages of the Path to Enlightenment, Vol. 1 (Lamrim Chenmo Translation Committee, Snow Lion), the karma chapters, pp. 210-240 — [quotations as printed in the Lamrim Chenmo main outlines](https://www.glensvensson.org/uploads/7/5/6/1/7561348/lam_rim_chenmo_outlines.pdf)
 
 ## Psychology parallels
 

@@ -1,9 +1,11 @@
 {
  "batch": "p1zm",
- "done": [],
- "in_progress": "K051",
+ "done": [
+  "K051"
+ ],
+ "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T09:50:02+00:00"
+ "updated": "2026-10-20T09:55:48+00:00"
 }
