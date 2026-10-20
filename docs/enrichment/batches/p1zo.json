@@ -13,9 +13,10 @@
   "SO010",
   "SO024",
   "SO025",
-  "SO039"
+  "SO039",
+  "SO040"
  ],
- "in_progress": "SO040",
+ "in_progress": null,
  "flagged": {
   "SE037": "inherited parallels not certified: Waterman 1993 outcome claim + Apology 38a parallels kept as found; see sources/p1zo/SE037.md",
   "SE045": "QC history: milestone advisor rounds 2-3 repairs applied and re-validated. D087 near-duplicate: supervisor/owner disposition needed. Inherited DDJ 13 parallel unverified. See sources/p1zo/SE045.md",
@@ -29,10 +30,11 @@
   "SO010": "QC history: item-10 milestone rounds 2-3 repairs applied and re-validated. Inherited parallels not certified: Wandersman & Florin 2003 / Biglan 2012 / Castro 2010 / Gone 2011 / Mutamba 2021 / Ostrom 1990 claims kept as found. See sources/p1zo/SO010.md",
   "SO024": "inherited parallels not certified: Cacioppo 2011 / Cacioppo & Cacioppo 2018 / Holt-Lunstad 2010 / Elovainio 2017 / Masi 2011 claims kept as found; see sources/p1zo/SO024.md",
   "SO025": "inherited parallels not certified: Pinquart & Sörensen 2000 / Uchino 2006 / Dunbar 2016 / Granovetter 1973 / Montaigne claims kept as found; see sources/p1zo/SO025.md",
-  "SO039": "inherited parallels not certified: Ostrom 1990 / Nowak 2006 / Fehr & Gächter 2002 / Van Lange 2014 claims kept as found; see sources/p1zo/SO039.md"
+  "SO039": "inherited parallels not certified: Ostrom 1990 / Nowak 2006 / Fehr & Gächter 2002 / Van Lange 2014 claims kept as found; see sources/p1zo/SO039.md",
+  "SO040": "inherited parallels not certified: Ziman 1968 / Smith 2006 / Nosek 2015 / OSC 2015 / North 1990 / Dewey 1916 claims kept as found; see sources/p1zo/SO040.md"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:37:38+00:00",
+ "updated": "2026-10-20T11:38:10+00:00",
  "band_done": false
 }

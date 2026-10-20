@@ -1,6 +1,6 @@
 {
  "batch": "p1zo",
- "revision": 13,
+ "revision": 14,
  "reciprocal": [
   {
    "into": "Identity development",
@@ -91,6 +91,12 @@
    "link": "SO039",
    "why": "Axelrod's durability-of-relationship account of reciprocal cooperation",
    "notes": "Reciprocity concept page does not link SO039. Evidence in sources/p1zo/SO039.md (Axelrod 1984, opened)."
+  },
+  {
+   "into": "The science of science",
+   "link": "SO040",
+   "why": "Peirce's public-permanency requirement for why science needs institutions",
+   "notes": "The science of science concept page does not link SO040. Evidence in sources/p1zo/SO040.md (Peirce 1877, opened)."
   }
  ]
 }

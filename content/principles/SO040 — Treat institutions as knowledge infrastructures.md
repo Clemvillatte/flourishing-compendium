@@ -12,7 +12,9 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SO — Sociocul
 ---
 > **Principle 40** — Treat institutions as knowledge infrastructures
 
-Treat institutions — universities, scientific societies, journals, regulatory bodies, media organizations — as knowledge infrastructures that make collective intelligence possible. Institutions are not neutral; they shape what counts as knowledge, who is heard, and what is funded. The adaptive stance is to participate in and improve knowledge institutions, not to abandon them.
+Peirce's account of the method of science explains why knowledge needs institutions: beliefs worth having must be "determined by nothing human, but by some external permanency", and the permanency must be public, since "It must be something which affects, or might affect, every man" (1877, §V). The scientific method's hypothesis is that "any man, if he have sufficient experience and he reason enough about it, will be led to the one True conclusion" (§V). A conclusion reached that way is not private property; it needs the shared plumbing of journals, peer review, societies and standards that lets inquirers check each other against the Real. That is the compendium's sense of institutions as knowledge infrastructure: not neutral, but load-bearing.
+
+> "Such is the method of science. Its fundamental hypothesis, restated in more familiar language, is this: There are Real things, whose characters are entirely independent of our opinions about them; those Reals affect our senses according to regular laws, and, though our sensations are as different as are our relations to the objects, yet, by taking advantage of the laws of perception, we can ascertain by reasoning how things really and truly are; and any man, if he have sufficient experience and he reason enough about it, will be led to the one True conclusion." (Peirce, 1877, §V)
 
 **Plain words** Institutions are knowledge infrastructure — universities, journals, media, regulators: the plumbing of collective intelligence. They're not neutral; they shape what counts as knowledge and who gets heard. Maintain the plumbing; it beats the alternative.
 
@@ -29,3 +31,7 @@ Treat institutions — universities, scientific societies, journals, regulatory 
 ## Practice
 
 - In knowledge work, participate in institutional reform (open science, replication, pre-registration). In information consumption, evaluate the institution behind a claim, not just the claim itself.
+
+## Sources
+
+- [Peirce, C. S. (1877). The Fixation of Belief — peirce.org](https://www.peirce.org/writings/p107.html) — §V, the method of science
