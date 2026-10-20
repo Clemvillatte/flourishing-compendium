@@ -13,11 +13,11 @@ The dizziness of freedom is Søren Kierkegaard's image for anxiety, introduced i
 
 ### What the image claims
 
-The book is explicit that anxiety is "altogether different from fear and similar concepts that refer to something definite". Its texture is double: "anxiety is a sympathetic antipathy and an antipathetic sympathy", a simultaneous attraction and repulsion toward one's own possibility. Kierkegaard's scholar Gordon Marino glosses the picture: "the ledge that we both want and do not want to look over runs along the abyss of our own possibilities". The dizziness comes from the looker's own eyes, not the abyss: nothing external forces the fall, and nothing external forbids it. Marino's summary of the payoff: "it is in our anxiety that we come to understand feelingly that we are free".
+The book is explicit that anxiety is "altogether different from fear and similar concepts that refer to something definite". Its texture is double: "Anxiety is a sympathetic antipathy and an antipathetic sympathy", a simultaneous attraction and repulsion toward one's own possibility. Kierkegaard's scholar Gordon Marino glosses the picture: "the ledge that we both want and do not want to look over runs along the abyss of our own possibilities". The dizziness comes from the looker's own eyes, not the abyss: nothing external forces the fall, and nothing external forbids it. Marino's summary of the payoff: "It is in our anxiety that we come to understand feelingly that we are free".
 
 ### The honest limit
 
-The Concept of Anxiety is subtitled "a simple psychologically orienting deliberation on the dogmatic issue of hereditary sin", and the dizziness passage sits inside an argument about sin's possibility, not inside clinical psychology. Marino's essay records the other side of Kierkegaard's view: anxiety "is cast as a teacher", and Kierkegaard's line that "whoever has learned to be anxious in the right way has learned the ultimate". The essay closes with the observation that "this, of course, is not the counsel you are likely to hear these days at the mental health clinic".
+The Concept of Anxiety is subtitled "a simple psychologically orienting deliberation on the dogmatic issue of hereditary sin", and the dizziness passage sits inside an argument about sin's possibility, not inside clinical psychology. Marino's essay records the other side of Kierkegaard's view: anxiety "is cast as a teacher", and Kierkegaard's line that "Whoever has learned to be anxious in the right way has learned the ultimate". The essay closes with the observation that "this, of course, is not the counsel you are likely to hear these days at the mental health clinic".
 
 ## Related concepts
 

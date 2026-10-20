@@ -17,11 +17,11 @@ The essay opens with its thesis: "The key to a Christian conception of studies i
 
 ### Why craft
 
-The training happens in ordinary schoolwork, done with the wrong motive removed: "Students must therefore work without any wish to gain good marks, to pass examinations, to win school successes; without any reference to their natural abilities and tastes; applying themselves equally to all their tasks, with the idea that each one will help to form in them the habit of that attention which is the substance of prayer." The payoff reaches the sufferer, not the exam: "a Latin prose or a geometry problem, even though they are done wrong, may be of great service one day", because they "can one day make us better able to give someone in affliction exactly the help required to save him, at the supreme moment of his need". Attention is also not effortful straining: "every time that we really concentrate our attention, we destroy the evil in ourselves", and "a quarter of an hour of attention is better than a great many good works". The essay's claims are theological in frame, a moral-spiritual capacity rather than a measurable psychological construct.
+The training happens in ordinary schoolwork, done with the wrong motive removed: "Students must therefore work without any wish to gain good marks, to pass examinations, to win school successes; without any reference to their natural abilities and tastes; applying themselves equally to all their tasks, with the idea that each one will help to form in them the habit of that attention which is the substance of prayer." The payoff reaches the sufferer, not the exam: "a Latin prose or a geometry problem, even though they are done wrong, may be of great service one day", because they "can one day make us better able to give someone in affliction exactly the help required to save him, at the supreme moment of his need". The essay's claims are theological in frame, a moral-spiritual capacity rather than a measurable psychological construct.
 
 ## Related concepts
 
-- [[Effortless attention]] — a comparison: Weil's attention is receptive waiting rather than muscular effort, a cousin of the flow literature's effortless mode
+- [[Effortless attention]]
 - [[Care ethics]] — the sufferer passage makes attention the substance of neighborly love
 
 ## Sources

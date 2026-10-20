@@ -153,9 +153,8 @@ pushed: Stress mindset (altered quotation fixed to begin at "participants";
 "all measures self-report" characterization corrected) and Sustainability of
 well-being gains (activities quotation fixed, overgeneralization deleted,
 seed-provenance assertion removed, variety moderator passage verified against
-the 2013 chapter and quoted verbatim). System justification theory (item 1)
-drew no further repairs in the confirmation round; its repairs-applied
-status is treated as confirmed.
+the 2013 chapter and quoted verbatim). Item 1: first advisor review FAIL; repairs applied; explicit re-review
+pending.
 
 Milestone-ten advisor review (scoped to items 6-10): FAIL with bounded
 repairs, all applied this round. Item 10: opening false contrast replaced,

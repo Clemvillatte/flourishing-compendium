@@ -17,7 +17,7 @@ The Groundwork offers several expressions of the one principle. The Formula of U
 
 ### How the test works
 
-The Encyclopedia lays out the four steps of the universalizability test: formulate your maxim, "recast that maxim as a universal law of nature governing all rational agents", then ask whether the maxim "is even conceivable in a world governed by this new law of nature", and finally "whether you would, or could, rationally will to act on your maxim in such a world". Failure at the third step yields a perfect duty "admitting of no exception in favor of inclination" (G 4:421); failure at the fourth yields an imperfect duty. The test's hinge is consistency: a maxim whose universalized form contradicts itself, or could not be willed without undermining the agent's ends, is not moral law material.
+The Encyclopedia lays out the four steps of the universalizability test: formulate your maxim, "recast that maxim as a universal law of nature governing all rational agents", then ask whether the maxim "is even conceivable in a world governed by this new law of nature", and finally "whether you would, or could, rationally will to act on your maxim in such a world". Failure at the third step yields a perfect duty admitting "of no exception in favor of inclination" (G 4:421); failure at the fourth yields an imperfect duty. The test's hinge is consistency: a maxim whose universalized form contradicts itself, or could not be willed without undermining the agent's ends, is not moral law material.
 
 ## Facets
 
