@@ -66,3 +66,9 @@ PROTOCOL-PRINCIPLES items 6-7.
 - Sources opened: Rhetoric I.2 and II.1 (Roberts).
 - Verbatim as quoted. The old page said "build credibility through character, not through rhetoric"; Aristotle says credibility must come from the speech itself, not prior reputation, and that "good sense, good moral character, and goodwill" produce trust. Rewritten to match.
 - Locator: dropped "NE I.6" (not opened, and I.6 concerns the Form of the Good). Hovland & Weiss 1951 and Cialdini 2007 inherited, not opened.
+
+## AF001 — Treat affect as information, not as verdict
+- Sources opened: Schwarz & Clore 2003, Psychological Inquiry, p. 299 (author-hosted PDF, dornsife.usc.edu); Lucas & Lawless 2013 abstract (PMC3695376); abstract of Schwarz & Clore 1983 JPSP 45(3):513-523 read via a copy surfaced in search (not the publisher page).
+- Verbatim: "evaluative judgments involve people asking themselves (implicitly), 'How do I feel about this?'"; Lucas & Lawless abstract phrase "weather does not reliably affect judgments of life satisfaction" (linked, not quoted).
+- Removed unsourced claims in the old body (caffeine, blood sugar as anxiety causes). Example labelled imagined and phrased without causal claims. Parallels bullet 2 corrected: 1983 attribution effect appeared for sad moods, not good moods; "reverses" was overstated. Schwarz 2012 inherited, not opened.
+- Limitation: Yap et al. 2017 weather non-replication mentioned in a syllabus snippet only; not cited.
