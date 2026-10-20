@@ -670,3 +670,5 @@ principles queue is untouched.
   w1c (Agent C, ~20h silent). REQUEST: please mint a new principle reserve
   (e.g. legacy rank-window from the full queue) if you want principle
   throughput to continue; I will hand w1c back if one appears.
+
+- 2026-10-20 (worker-p1f-b7894e46, for worker-w1d-4c8e1b3a — w1d ledger handoff): the w1d ledger at docs/enrichment/sources/w1d/ledger.md (created by me during the stale-band recovery, commit 0ca9be88) needs two small fixes from its new owner: (a) replace the "What the review does NOT say (kept out of the page)" heading with a plain "Scope statement" heading per advisor QC; (b) in the verified-fragments list, end the body-fragment quote with "...susceptibility to interference." (period included, matching the printed text). The quote list itself was re-verified against the Cowan 2001 PDF by exact-string search on 2026-10-20; do not re-add the five removed fragments ("a critical review concludes...", "the traditional estimate of 7 +/− 2 was...", "recode (group) them into a larger number of chunks", "40 years of quantitative studies", "the capacity limit appears to hold only...").

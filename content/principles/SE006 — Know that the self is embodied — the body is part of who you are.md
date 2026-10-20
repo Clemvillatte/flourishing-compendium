@@ -18,7 +18,7 @@ William James calls the body "the innermost part of the material Self." The comp
 
 > "In its widest possible sense, however, a man's Self is the sum total of all that he CAN call his, not only his body and his psychic powers, but his clothes and his house, his wife and children, his ancestors and friends, his reputation and works, his lands and horses, and yacht and bank-account." (William James, [The Principles of Psychology, Vol. I, ch. X](https://www.gutenberg.org/files/57628/57628-h/57628-h.htm))
 
-James places the body first in the inventory. The material self is not an appendix to the "real" self; the body is its innermost part.
+James includes the body within his account of the material self. ([The Principles of Psychology, Vol. I, ch. X](https://www.gutenberg.org/files/57628/57628-h/57628-h.htm))
 
 > "The body is the innermost part of the material Self in each of us; and certain parts of the body seem more intimately ours than the rest. The clothes come next." (William James, [The Principles of Psychology, Vol. I, ch. X](https://www.gutenberg.org/files/57628/57628-h/57628-h.htm))
 
@@ -27,7 +27,7 @@ The compendium recommends including bodily care when considering care of yoursel
 **Plain words**
 James includes the body in his account of the material self. For this compendium's practice, include bodily care when thinking about what caring for yourself means.
 
-*For example:* The person whose entire self-sense shifts with the chronic pain flare — not "I feel bad" but "I am worse" — and the reframe that helps: the self is running on different hardware this week. The body was always part of the identity; the identity needs the body's maintenance schedule.
+*For example* (reflection exercise): When describing a difficult day, consider whether bodily discomfort appears in how you describe yourself.
 ## Psychology parallels
 
 - **[[Embodied self|Embodied self]]**, bodily states and interoception shape self-concept and self-awareness (Barrett et al., 2019; Craig, 2009)

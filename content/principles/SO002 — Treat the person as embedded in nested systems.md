@@ -12,11 +12,11 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SO — Sociocul
 ---
 > **Principle 2** — Treat the person as embedded in nested systems
 
-Bronfenbrenner's ecological approach examines development across settings and the relationships between them. A microsystem concerns activities, roles and interpersonal relations within a setting. A mesosystem concerns relationships between settings. An exosystem includes connections involving a setting that does not contain the developing person but can indirectly influence their immediate setting.
+Bronfenbrenner's ecological approach examines development across settings and the relationships between them. ([Bronfenbrenner & Morris 2006](https://www.columbia.edu/cu/psychology/courses/3615/Readings/BronfenbrennerModelofDevelopment.pdf)) A microsystem concerns activities, roles and interpersonal relations within a setting. A mesosystem concerns relationships between settings. An exosystem includes connections involving a setting that does not contain the developing person but can indirectly influence their immediate setting.
 
 (Bronfenbrenner & Morris, "The Bioecological Model of Human Development," ch. 14 in the Handbook of Child Psychology, 6th ed., 2006.)
 
-> "The ecological environment is conceived as a set of nested structures, each inside the other like a set of Russian dolls." (Bronfenbrenner, 1979, p. 3, quoted in [Bronfenbrenner & Morris 2006](https://www.columbia.edu/cu/psychology/courses/3615/Readings/BronfenbrennerModelofDevelopment.pdf))
+> "the ecological environment is conceived as a set of nested structures, each inside the other like a set of Russian dolls" (Bronfenbrenner, 1979, p. 3, quoted in [Bronfenbrenner & Morris 2006](https://www.columbia.edu/cu/psychology/courses/3615/Readings/BronfenbrennerModelofDevelopment.pdf))
 
 Bronfenbrenner's own later restatement gives the levels. The innermost structure is the microsystem:
 

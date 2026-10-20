@@ -18,7 +18,7 @@ In Enchiridion 5, Epictetus locates disturbance in opinions about events rather 
 
 > "Men are disturbed not by the things which happen, but by the opinions about the things: for example, death is nothing terrible, for if it were, it would have seemed so to Socrates; for the opinion about death, that it is terrible, is the terrible thing. When then we are impeded or disturbed or grieved, let us never blame others, but ourselves, that is, our opinions." (Epictetus, Enchiridion 5, trans. George Long, [Delphi Complete Works of Epictetus](https://drive.google.com/file/d/1EDkL63FuSpabjbB7amxNodYocj_q_vaH/view))
 
-The manual's example is death: nothing terrible in itself, since if it were, it would have seemed so to Socrates. What is terrible is the opinion that death is terrible. The same holds for being impeded, disturbed or grieved: the passage directs the practitioner to blame no one else, but to look to their own opinions.
+The manual's example is death: nothing terrible in itself, since if it were, it would have seemed so to Socrates. What is terrible is the opinion that death is terrible. The same holds for being impeded, disturbed or grieved: the passage directs the practitioner to blame no one else, but to look to their own opinions. ([Enchiridion 5, Delphi Complete Works of Epictetus](https://drive.google.com/file/d/1EDkL63FuSpabjbB7amxNodYocj_q_vaH/view))
 
 The passage then grades the learner. The ill-instructed man blames others for his own bad condition; the man who has begun to be instructed blames himself; the man whose instruction is completed blames neither another nor himself. For its exercise, the compendium recommends examining the judgement without turning that inquiry into self-reproach.
 
