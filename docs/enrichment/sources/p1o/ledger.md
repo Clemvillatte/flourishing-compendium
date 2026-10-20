@@ -24,3 +24,12 @@
   (B014 pre-edit commit); reopen->done recorded.
 - Count correction: this session's milestone item is 31 (30 p1n + 1 p1o),
   not 30 as first reported here.
+
+### B019 — Awakening is available in this life (2026-10-20)
+- Opened (reused): Platform Sutra, Terebess web edition (fetched earlier
+  this session for B198). Both inline passages verbatim from that fetch.
+- Seed's Batchelor, After Buddhism citation dropped from locator (not
+  opened). Yaden et al. 2017 and Kounios-Beeman 2014 parallel tails reduced
+  to bare wikilinks; Nishida book attribution reduced (inherited, unopened).
+- Saturation (actual, rg -l 'B019' content/concepts/): [checked below].
+  Validator: ok.
