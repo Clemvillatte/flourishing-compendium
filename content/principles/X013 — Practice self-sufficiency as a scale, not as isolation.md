@@ -12,18 +12,29 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "X — Extra 
 ---
 > **Principle 13** — Practice self-sufficiency as a scale, not as isolation
 
-The Epicurean autarkeia: the greatest fruit of self-sufficiency is freedom, and the person who can live simply is independent of fortune's negotiations; but the tradition pairs this immediately with friendship, so the self-sufficiency is a capacity (to live simply if needed), not a withdrawal. The practice is the deliberate periodic test of the capacity (a simple week, a minimal budget) to keep the freedom real. Practically, once per season, run a voluntary simplicity week (food, spending, entertainment at the floor), and note the discovered freedom.
+The Letter to Menoeceus makes independence of outward things a great good, defined by capacity: not so as in all cases to use little, but so as to be contented with little if we have not much, and they have the sweetest enjoyment of luxury who stand least in need of it. Vatican Saying 44 shows which way the capacity points: the wise man accustomed to the limits of necessity knows better how to share with others than how to take from them. Principal Doctrine 27 puts the pairing plainly: of all the means procured by wisdom to ensure happiness throughout life, by far the most important is the acquisition of friends. Self-sufficiency, on these texts, is a capacity to live simply if needed — the letter says habituation to simple and inexpensive diet renders us fearless of fortune — held alongside friendship, not instead of it.
 
-(Vatican Sayings, the self-sufficiency doctrines; the letter's counsel.)
+As a compendium exercise, once per season run a voluntary simplicity week (food, spending, entertainment at the floor) and note the freedom found.
 
-**Plain words** Self-sufficiency is a capacity, not a cabin in the woods: the freedom to live simply if needed, tested now and then so it stays real. Once a season, run the floor — simple food, minimal spending — and note the freedom you find. Independence isn't withdrawal; it's knowing the exit works.
+> "The wise man who has become accustomed to the limits of necessity knows better how to share with others than how to take from them, so great a treasure of self-sufficiency has he found." (Vatican Saying 44)
 
-*For example:* Someone between jobs who runs a deliberately lean month and discovers the number they actually need is half the number they'd feared — the fear, not the budget, was the prison.
+**Plain words**
+Self-sufficiency is a capacity, not a cabin in the woods: the freedom to live simply if needed, tested now and then so it stays real. Once a season, run the floor (simple food, minimal spending) and write down what you find. Independence is not withdrawal; it is knowing the exit works, while friendship stays on the list of what matters most.
+
+**For example**
+In an imagined application, someone between jobs runs a deliberately lean month and writes down what it actually costs to live; the written number, not the imagined one, is the point of the exercise.
+
 ## Psychology parallels
 
-- **[[Voluntary simplicity|Voluntary simplicity's well-being findings]]**, the research showing that deliberate downshifting, freely chosen, improves life satisfaction (the voluntary-simplicity literatures, as framework)
+- **[[Voluntary simplicity|Voluntary simplicity's well-being findings]]** (the voluntary-simplicity literatures, as framework)
 
 ## Philosophy parallels
 
 - **[[Autarky|The sage's self-sufficiency]]** (the Cynic tradition's harder version, as the neighbor)
 - **[[Autarky|Autarky]]** (Aristotle, the contemplative's self-sufficiency's autarky echo)
+
+## Sources
+
+- [Letter to Menoeceus, Hicks translation, MIT Classics](https://classics.mit.edu/Epicurus/menoec.html) — independence of outward things; fearless of fortune
+- [Vatican Sayings, Erik Anderson translation, epicuros.gr](https://www.epicuros.gr/pages/en_texts_ES.htm) — Saying 44
+- [Principal Doctrines, Hicks translation, MIT Classics](https://classics.mit.edu/Epicurus/princdoc.html) — Doctrine 27
