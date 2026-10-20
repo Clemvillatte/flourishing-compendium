@@ -1,6 +1,6 @@
 {
  "batch": "p1zo",
- "revision": 11,
+ "revision": 12,
  "reciprocal": [
   {
    "into": "Identity development",
@@ -79,6 +79,12 @@
    "link": "SE079",
    "why": "self-development serves eudaimonia, the principle's own ordering",
    "notes": "Eudaimonia concept page does not link SE079. Evidence in sources/p1zo/SE079.md."
+  },
+  {
+   "into": "Friendship",
+   "link": "SO025",
+   "why": "Aristotle's quality-of-friendship standard applied to the relationship portfolio",
+   "notes": "Friendship concept page does not link SO025. Evidence in sources/p1zo/SO025.md (NE VIII.3 Ross + Hawkley & Cacioppo 2010, both opened)."
   }
  ]
 }
