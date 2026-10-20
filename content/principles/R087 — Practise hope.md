@@ -12,11 +12,13 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 349** — Practise hope
 
-Maintain hope as a disposition, not merely as an expectation of specific outcomes. Hope, for Marcel, is the orientation toward a future that is not guaranteed but is possible. It is not optimism (the belief that things will turn out well) but the refusal to despair in the face of uncertainty.
+Maintain hope as a disposition, not merely as an expectation of specific outcomes. Marcel contrasts it with optimism at the start of his sketch of a metaphysic of hope: "The optimist is he who has a firm conviction, or in certain cases just a vague feeling, that things tend to 'turn out for the best'." Optimism is a forecast; hope is a stance. Its home ground is exactly where forecasts fail: "The truth is that there can strictly speaking be no hope except when the temptation to despair exists. Hope is the act by which this temptation is actively or victoriously overcome." (Marcel, "Sketch of a Phenomenology and a Metaphysic of Hope," in Homo Viator, trans. E. Crauford, 1945/2010, quoted in The Oxford Compendium of Hope, ch. 9, pp. 127-142.)
+
+The future hope faces is not guaranteed but possible, and its most elaborate expression is relational: "'I hope in thee for us'; such is perhaps the most adequate and the most elaborate expression of the act which the verb 'to hope' suggests in a way which is still confused and ambiguous." (Ibid.)
 
 (Marcel, 1951b, The Mystery of Being; Marcel, 1967, The Philosophy of Existentialism, "On the Ontological Mystery.")
 
-**Plain words** Hope isn't optimism — it doesn't predict things will go well. It's the refusal to despair while staying honest about the odds: oriented toward a future that's possible, not guaranteed. A disposition, not a forecast.
+**Plain words** The optimist has a theory about how things turn out; hope is something you do in the dark. It does not need good odds — it exists for exactly the situations where despair is the natural pull — and it faces a possible future rather than a promised one. Practised as a stance: take the bad news on board, then turn toward the side of things that is still open.
 
 *For example:* The patient who reads the five-year survival stats — takes the hit, doesn't look away — and then books the holiday anyway. That's hope: informed, unflinching, still walking.
 ## Stories
@@ -34,3 +36,6 @@ Maintain hope as a disposition, not merely as an expectation of specific outcome
 
 - **[[Hope|Hope]]** (Marcel, The Mystery of Being)
 - **[[Tragic optimism|Tragic optimism]]** (Frankl, Man's Search for Meaning)
+
+## Sources
+- Marcel, "Sketch of a Phenomenology and a Metaphysic of Hope" (Homo Viator, trans. E. Crauford, St. Augustine's Press 2010) — verbatim quotes verified in the open selection in The Oxford Compendium of Hope, ch. 9, pp. 127-142: https://academic.oup.com/book/61728/chapter/541573734 (Homo Viator itself not open; cf. SEP entry on Marcel, plato.stanford.edu/entries/marcel/)

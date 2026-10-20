@@ -269,3 +269,18 @@ never-band-assigned work; p1g state had them flagged-only, absent from p1g's man
   Zhongyong citation left as inherited with this flag.
 - Saturation: reciprocal links confirmed in Empathic concern, Fredrickson's positivity
   portfolios, The doctrine of the mean, Perspective-taking (all list R064). No new proposal warranted.
+
+## R087 — Practise hope
+- Full work: verbatim quotes added from Marcel's "Sketch of a Phenomenology and a Metaphysic
+  of Hope" (Homo Viator, trans. Crauford, 1945/2010): the optimist definition, the
+  no-hope-without-temptation-to-despair passage, and the "I hope in thee for us" sentence —
+  all verified verbatim against the open selection in The Oxford Compendium of Hope ch. 9
+  (academic.oup.com/book/61768/chapter/541573734 — precise URL: book/61728/chapter/541573734,
+  pp. 127-142; Homo Viator not open). Body's optimism/refusal-of-despair claims now grounded.
+  Plain words rewritten as re-derivation (optimist's theory vs doing-in-the-dark). For-example
+  kept. Sources section added.
+- Flags: inherited citation line (Marcel 1951b The Mystery of Being; Marcel 1967 The
+  Philosophy of Existentialism "On the Ontological Mystery") not opened — left as inherited
+  with this flag; the substance is now carried by the Homo Viator selection.
+- Saturation: reciprocal links confirmed in Hope, Tragic optimism, Optimism concept pages
+  (all list R087). No new proposal warranted.
