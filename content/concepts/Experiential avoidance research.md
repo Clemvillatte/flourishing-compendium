@@ -22,7 +22,7 @@ The article's introduction summarizes earlier work describing short-term relief 
 ## Sources
 
 - Hayes et al., 2011
-- [Fernández-Rodríguez, Paz-Caballero, González-Fernández & Pérez-Álvarez, "Activation vs. Experiential Avoidance as a Transdiagnostic Condition of Emotional Distress", Frontiers in Psychology (2018)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6129770/) — carrier of the Hayes et al. 1996, p. 1154 definition quotation; short-term/long-term distress finding; transdiagnostic status
+- [Fernández-Rodríguez, Paz-Caballero, González-Fernández & Pérez-Álvarez, "Activation vs. Experiential Avoidance as a Transdiagnostic Condition of Emotional Distress", Frontiers in Psychology (2018)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6129770/) — carrier of the Hayes et al. 1996, p. 1154 definition quotation; introduction's summary of earlier avoidance research; proposed transdiagnostic framing
 
 ## Cited in psychology parallels
 
