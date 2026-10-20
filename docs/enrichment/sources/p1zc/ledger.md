@@ -25,3 +25,15 @@ Short, item-keyed evidence notes (owner decision 2026-10-20, PROTOCOL-PRINCIPLES
   explicit baseline 0998a787; diff delta = body + plain words + new Sources section only;
   front-matter, principle statement, locator line, For example, all wikilinks and the
   reflections comment unchanged. DONE.
+
+## S119 — Begin the morning with premeditation
+- Skip-ahead light check: body and Plain words already at the bar (plain words is a
+  genuine re-derivation; not on the replicates list). Missing verbatim quote added.
+- Source opened: Marcus Aurelius, Meditations, Casaubon translation, Project Gutenberg
+  (https://www.gutenberg.org/files/2680/2680-h/2680-h.htm) — fetched and extracted raw.
+- Quotation: morning passage "Betimes in the morning say to thyself... truly good and
+  truly bad." — verified verbatim against the extracted text; in this edition the passage
+  sits at I.15 (most modern numberings II.1, which the inherited locator line uses).
+- Body, Plain words, For example, parallels untouched; saturation already reciprocal
+  (Morning intention, Premeditatio malorum, Implementation intentions all cite S119);
+  no new proposals needed. Validator ok. DONE (no advisor QC due: item 2, cadence = item 6).
