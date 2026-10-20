@@ -7,7 +7,7 @@ file: "Group cohesion theory"
 tags: ["theory", "psych/social"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-SOCIAL"], "alternatePaths": []}
 ---
-**Group cohesion theory** — Festinger, Carron — cohesion (task and social) binds members to group and goal; it boosts performance and commitment.
+**Group cohesion theory** — Festinger, Carron — cohesion (task and social) binds members to group and goal.
 
 Group cohesion theory is the study of what holds a group together. Its working definition in the sport-psychology tradition associated with Albert Carron reads:
 
@@ -15,7 +15,7 @@ Group cohesion theory is the study of what holds a group together. Its working d
 
 ### Task and social cohesion
 
-The theory's central distinction splits cohesion into two strands. Task cohesion is the shared commitment to a goal that needs the whole group's effort; social cohesion is the degree to which members interact and enjoy each other. A team can have one without the other: colleagues who work well together but socialise nowhere, or friends whose project never ships. The Group Environment Questionnaire (Carron, Widmeyer and Brawley, 1985) measures both strands at two levels, individual attraction to the group and perceived group integration, in an 18-item instrument that became the field's standard.
+The theory's central distinction splits cohesion into two strands. Task cohesion is the shared commitment to a goal that needs the whole group's effort; social cohesion, in the words of one review, "pertains to the degree to which members of a team interact with each other." A team can have one without the other: colleagues who work well together but socialise nowhere, or friends whose project never ships. The Group Environment Questionnaire (Carron, Widmeyer and Brawley, 1985) measures both strands at two levels, individual attraction to the group and perceived group integration, in an 18-item instrument.
 
 Cohesion is not straightforwardly good for thinking. The groupthink literature grew from the observation that the desire for cohesiveness in a group may produce a tendency among its members to agree at all costs, minimizing conflict and reaching a consensus decision without critical evaluation ([Wikipedia, "Groupthink"](https://en.wikipedia.org/wiki/Groupthink)).
 

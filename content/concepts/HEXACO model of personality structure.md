@@ -17,19 +17,19 @@ The HEXACO model is a six-factor taxonomy of personality traits proposed by Mich
 
 The six factors are Honesty-Humility (H), Emotionality (E), eXtraversion (X), Agreeableness (A), Conscientiousness (C) and Openness to Experience (O). The addition that does the most work is the first:
 
-> "Honesty-Humility represents the tendency to be fair and genuine in dealing with others, in the sense of cooperating with others even when one might exploit them without suffering retaliation." (Ashton and Lee 2007, p. 156)
+> "Honesty-Humility represents the tendency to be fair and genuine in dealing with others, in the sense of cooperating with others even when one might exploit them without suffering retaliation." (Ashton and Lee 2007, "The Content of the Honesty-Humility and Agreeableness (Versus Anger) Factors" section)
 
 The authors read the H and A factors as two complementary aspects of reciprocal altruism: H covers fairness when exploitation would go unpunished, A covers forgivingness versus anger in ongoing relations. That reading gives the trait model a place for honesty and modesty that five-factor questionnaires tend to scatter or miss.
 
 ### In the compendium
 
-- [[E039 — Practise the choice of self]] — links this model from its psychology parallels
+- [[E039 — Practise the choice of self]] — links this model from its Field line
 
 ## Related concepts
 
 - [[Five-factor model of personality]] — the five-factor rival the HEXACO model claims to accommodate and extend
 - [[Cybernetic Big Five Theory]] — a later theoretical rewrite of the Big Five, useful for contrast
-- [[Narcissism versus healthy self-regard]] — the low end of the honesty-humility factor describes its exploitative pole
+- [[Narcissism versus healthy self-regard]] — a useful contrast for the low end of the honesty-humility factor
 - [[Character strengths (Peterson & Seligman)]] — a virtue taxonomy answering a similar question from values psychology
 
 ## Sources
