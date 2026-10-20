@@ -7,7 +7,12 @@ file: "Affective forecasting"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-A"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter A", "parent": ""}
 ---
-people mispredict the intensity and duration of reactions to fortune and misfortune (Wilson and Gilbert, 2003).
+Affective forecasting is the prediction of one's own future feelings — and the best-documented finding is that people get the intensity and duration wrong. Wilson and Gilbert's review abstract:
+
+> "People base many decisions on affective forecasts, predictions about their emotional reactions to future events. They often display an impact bias, overestimating the intensity and duration of their emotional reactions to such events. One cause of the impact bias is focalism, the tendency to underestimate the extent to which other events will influence our thoughts and feelings."
+> — [Wilson & Gilbert 2005, "Affective Forecasting: Knowing What to Want", Current Directions in Psychological Science 14(3) (journal abstract)](https://journals.sagepub.com/doi/abs/10.1111/j.0963-7214.2005.00355.x)
+
+The same abstract names a second mechanism, most relevant to the compendium's suffering-alleviation thread: people "fail to anticipate how quickly they will make sense of things that happen to them in a way that speeds emotional recovery", especially for negative events ([Wilson & Gilbert 2005](https://journals.sagepub.com/doi/abs/10.1111/j.0963-7214.2005.00355.x)). The misprediction runs in both directions of fortune: forecasts overshoot how long the good and the bad will last, and the resilience that follows goes unanticipated — the abstract notes people tend to "attribute their unexpected resilience to external agents".
 
 ## Facets
 
@@ -16,7 +21,8 @@ people mispredict the intensity and duration of reactions to fortune and misfort
 ## Sources
 
 - Wilson and Gilbert, 2003
-- Wilson and Gilbert's impact-bias research, as the modern cousin
+
+- [Wilson & Gilbert 2005, "Affective Forecasting: Knowing What to Want", Current Directions in Psychological Science 14(3) (journal abstract)](https://journals.sagepub.com/doi/abs/10.1111/j.0963-7214.2005.00355.x) — the impact-bias and focalism sentences, the sense-making mechanism, and the resilience-attribution note, quoted verbatim from the abstract
 
 ## Cited in psychology parallels
 
