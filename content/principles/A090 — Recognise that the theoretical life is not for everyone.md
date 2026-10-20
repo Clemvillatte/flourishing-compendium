@@ -12,13 +12,23 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 90** — Recognise that the theoretical life is not for everyone
 
-Aristotle acknowledges that the contemplative life is the highest, but it is not the only life worth living. The political life, the life of practical action, is also a life of virtue. Do not feel inadequate if you are not a contemplative. Find your mode of flourishing and live it well.
+Aristotle ranks the lives without dismissing the second. "In a secondary degree the life in accordance with the other kind of virtue is happy; for the activities in accordance with this befit our human estate" ([NE X.8](http://classics.mit.edu/Aristotle/nicomachaen.10.x.html)). The activities of that second life — "just and brave acts, and other virtuous acts, we do in relation to each other" — are, he says, "typically human" ([NE X.8](http://classics.mit.edu/Aristotle/nicomachaen.10.x.html)). He adds a practical asymmetry: contemplation "would seem... to need external equipment but little, or less than moral virtue does" ([NE X.8](http://classics.mit.edu/Aristotle/nicomachaen.10.x.html)). The exercise below works with the ranking rather than against it.
 
-(NE X.8.)
+> But in a secondary degree the life in accordance with the other kind of virtue is happy; for the activities in accordance with this befit our human estate.
+>
+> Aristotle, Nicomachean Ethics X.8, translated by W. D. Ross, [Internet Classics Archive](http://classics.mit.edu/Aristotle/nicomachaen.10.x.html).
 
-**Plain words** Aristotle puts contemplation highest but doesn't say it's the only good life. The life of action, in public affairs and practical work, is also virtuous. So don't feel inadequate if you're not a thinker. Find your way and live it well.
+> Just and brave acts, and other virtuous acts, we do in relation to each other, observing our respective duties with regard to contracts and services and all manner of actions and with regard to passions; and all of these seem to be typically human.
+>
+> Aristotle, Nicomachean Ethics X.8, continued, translated by W. D. Ross, [Internet Classics Archive](http://classics.mit.edu/Aristotle/nicomachaen.10.x.html).
 
-*For example:* A person who runs a local clinic may never read philosophy and still lives a full life of virtue.
+(NE X.8; Ross translation.)
+
+### Plain words
+
+The ranking says the second life is still happy: secondary, not second-rate in the sneer's sense. Its acts are the ones done with and for each other, and Aristotle calls them typically human. For an exercise, name which life your best hours actually belong to, the ones spent understanding something or the ones spent with people, and let the ranking inform the choice rather than shame it.
+
+For example: a person who runs a local clinic may never read philosophy and still lives the second life Aristotle here calls happy. (An invented illustration.)
 
 ## Stories
 
