@@ -11,7 +11,8 @@
   "BI036",
   "M001",
   "M010",
-  "M035"
+  "M035",
+  "M036"
  ],
  "in_progress": null,
  "flagged": {
@@ -25,6 +26,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 9,
- "updated": "2026-10-20T16:51:30+00:00",
+ "updated": "2026-10-20T16:52:01+00:00",
  "band_done": false
 }

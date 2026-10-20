@@ -12,13 +12,13 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "M — Mesoam
 ---
 > **Principle 36** — Ask whether this life is real, and let the question sting
 
-The songs' most famous philosophical move, made repeatedly by Nezahualcoyotl: "Is it true that one lives on the earth? Perhaps we only dream; perhaps all is a dream." The question is not answered with a doctrine; it is kept as a solvent, loosening the grip of the taken-for-granted. The tradition does not counsel withdrawal into the dream-view; it uses the question to make the waking hours more precious. Practically, once per week, hold the question sincerely for one minute ("what if this is the only waking?") and let it price your hours.
+The songs ask the question directly. Tochihuitzin Coyolchiuhqui sings: "We only rise from sleep, we come only to dream, it is ahnelli [unrooted, inauthentic, untrue], it is ahnelli that we come on earth to live" (trans. León-Portilla, in Maffie, "Pre-Columbian Philosophies", Companion excerpt). Maffie's reading keeps the question in its place: Nahua philosophers "conceived the dreamlike illusoriness of earthly existence in epistemological – not ontological – terms." The point is that the ordinary human condition is to misperceive, "not the Platonic-style metaphysical point that earthly existence is ontologically substandard." The question is kept as a solvent, not answered with a doctrine, and the tradition does not counsel withdrawal: the sting is in service of the waking.
 
-(Nezahualcoyotl's songs; the Cantares's dream-passages.)
+**Plain words**
+The old songs ask whether we are awake, and leave the question open on purpose. Held once in a while, it loosens the grip of the taken-for-granted and makes the waking hours more expensive to waste.
 
-**Plain words** Nezahualcoyotl's question, kept as a solvent, not answered with a doctrine: "Is it true that one lives on the earth? Perhaps we only dream." Let the question sting — it loosens the grip of the taken-for-granted. Not withdrawal into the dream-view; the sting in service of the waking.
+*For example (imagined):* Someone in a full status race reads the question once a year, "is any of this real the way I treat it as real?", and each time something expensive and hollow quietly falls off the list.
 
-*For example:* Someone in a full status race who reads the question once a year — "is any of this real the way I treat it as real?" — and each time, something expensive and hollow quietly falls off the list.
 ## Psychology parallels
 
 - **Scarcity-of-time framing's [[Savoring|savoring]] effects**, the research on how perceived finitude increases presence and appreciation (Cozzolino, 2006; the mortality-salience constructive branch)
@@ -27,3 +27,16 @@ The songs' most famous philosophical move, made repeatedly by Nezahualcoyotl: "I
 
 - **[[The dream of the butterfly|The dream of the butterfly]]** (Zhuangzi, Inner Chapters)
 - **We are such stuff as dreams are made on** (Shakespeare, The Tempest, IV.i)
+
+## Practice
+
+- Once per week, hold the question sincerely for one minute ("what if this is the only waking?") and let it re-price what the week is for.
+
+## Related concepts
+
+- [[The dream of the butterfly]] — the Daoist cousin of the question
+- [[Savoring]] — what the sting is in service of
+
+## Sources
+
+- [Maffie, J., "Pre-Columbian Philosophies", in A Companion to Latin American Philosophy (Wiley), chapter excerpt](https://catalogimages.wiley.com/images/db/pdf/9781118592618.excerpt.pdf) — the Tochihuitzin Coyolchiuhqui song (trans. León-Portilla 1992, p. 80) and the epistemological-not-ontological reading of the dreamlikeness of earthly existence. The seed's Nezahualcoyotl attribution and wording ("Is it true that one lives on the earth? Perhaps we only dream") was not verified in an opened source and is not repeated.
