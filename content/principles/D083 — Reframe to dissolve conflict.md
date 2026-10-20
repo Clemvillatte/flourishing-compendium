@@ -21,14 +21,14 @@ The passage is from the second chapter of the Zhuangzi. A keeper of monkeys, han
 >
 > (Zhuangzi 2, Legge)
 
-The chapter draws the lesson for disputes: "the sagely man brings together a dispute in its affirmations and denials, and rests in the equal fashioning of Heaven. Both sides of the question are admissible." The reframe changes no facts; it changes which side of the same total is front-loaded. The compendium's use is practical: before arguing the substance, check whether the presentation is doing the arguing.
+The chapter draws the lesson for disputes: "the sagely man brings together a dispute in its affirmations and denials, and rests in the equal fashioning of Heaven. Both sides of the question are admissible." The daily total of acorns is the same in both proposals; what differs is the distribution, and the monkeys' anger and pleasure tracked the distribution. The compendium's use: before arguing the substance, check whether the presentation is doing the arguing.
 
 (Zhuangzi 2.)
 
 **Plain words**
-The monkeys got the same number of acorns either way. What flipped them from angry to pleased was the order the numbers arrived in. In a dispute, look for the arrangement of the same facts that both sides can live with; often the fight is about sequence or emphasis rather than the total.
+The monkeys got the same number of acorns either way; what flipped them from angry to pleased was the order the numbers arrived in. As a compendium exercise, when a disagreement stalls, ask what the fight is actually about: the total, or its arrangement.
 
-*For example:* 'The project is three weeks behind schedule' versus 'we've discovered what not to do, with time to fix it': same facts, different room.
+*For example:* 'The project is three weeks behind schedule' versus 'we've discovered what not to do, with time to fix it': same situation, different room.
 
 ## Sources
 

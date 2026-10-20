@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 51** — Know the masculine, keep to the feminine
 
-Chapter 28 of the Daodejing states its pattern three times: know the active strength, keep to the corresponding quiet side. The first stanza pairs knowing "his manhood's strength" with maintaining "his female feebleness". The one who does this becomes the channel into which "all beneath the sky" drains, and keeps the constant excellence, "the simple child again, free from all stains."
+Chapter 28 of the Daodejing states its pattern three times: know the active strength, keep to the corresponding quiet side. The first stanza pairs knowing "his manhood's strength" with maintaining "his female feebleness". The one who does this becomes the channel into which "all beneath the sky" drains, and keeps the constant excellence: "The simple child again, free from all stains."
 
 > Who knows his manhood's strength,
 >   Yet still his female feebleness maintains;

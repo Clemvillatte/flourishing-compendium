@@ -12,18 +12,31 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 123** — Don't argue to win
 
-If you defeat me in debate, you're not right and I'm not wrong: we've proven nothing but skill in talking. Debate is a poor instrument for truth.
+The second chapter of the Zhuangzi describes the arguing mind in terms of decay. Among those who dispute, some "pronounce what is right and what is wrong" like arrows from a bow; others "maintain their views, determined to overcome". Their arguments weaken "like the decay (of things) in autumn and winter", and the mind behind them becomes "like an old and dry moat", "nigh to death".
+
+> Where their utterances are like arrows from a bow, we have those who feel
+> it their charge to pronounce what is right and what is wrong; where they
+> are given out like the conditions of a covenant, we have those who
+> maintain their views, determined to overcome.
+>
+> (Zhuangzi 2, Legge)
+
+The chapter's diagnosis of the contending schools is structural: "the one side affirming what the other denies, and vice versa". The sagely man "does not pursue this method, but views things in the light of (his) Heaven (-ly nature)". The compendium applies this warning by asking readers to examine their own position during a disagreement.
 
 (Zhuangzi 2.)
 
-**Plain words** Winning a debate proves skill in talking, not truth — it measures quickness, not accuracy. The win feels like knowledge, but it's adrenaline.
+**Plain words**
+As a compendium exercise, identify the exact point of disagreement before preparing a reply. Ask what would make you revise your position, and consider whether the other person's objection gives you a reason to do so.
 
-*For example:* The couple who 'win' arguments for years and end up divorced — a perfect record, an empty trophy case.
+*For example:* Imagine two partners disagreeing about a household bill. One suggests checking the disputed charge together before continuing the argument.
+
+## Sources
+
+- [Zhuangzi, Legge translation (ETH Zurich PDF)](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — ch. 2, disputing minds
 
 ## Psychology parallels
 
 - **[[Confirmation bias|Confirmation bias]]** (Nickerson, 1998)
-- **Win-lose framing escalates conflict** (Gottman's Four Horsemen research)
 
 ## Philosophy parallels
 

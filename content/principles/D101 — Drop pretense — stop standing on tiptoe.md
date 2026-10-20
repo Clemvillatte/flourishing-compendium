@@ -24,9 +24,9 @@ The mechanics are in the image: tiptoe and overstride borrow height or speed the
 (DDJ 24.)
 
 **Plain words**
-You can borrow height by standing on tiptoe, and for a moment you are taller. You cannot hold it. Every form of showing yourself as more than you are works the same way: a brief gain, then the wobble, and the wobble is what people watch. The steady stance is the one you can keep all day.
+Standing on tiptoe really does make you taller, briefly. It also makes you less steady, immediately. As a compendium exercise, notice where you are reaching past your actual footing: the claim slightly beyond your evidence, the commitment slightly beyond your week. Ask what the unforced version looks like.
 
-*For example:* The new manager who performs confidence loudly spends a fixed energy budget on the show; the one who admits what she is learning puts the same budget into the work.
+*For example:* Imagine a new manager who performs confidence loudly in every meeting. The compendium's reading of the chapter is that the performance itself is the tiptoe: borrowed height, and the steadiness gone with it.
 
 ## Sources
 
