@@ -23,9 +23,10 @@
   "PP063",
   "PP043",
   "PP068",
-  "R018"
+  "R018",
+  "R022"
  ],
- "in_progress": "R022",
+ "in_progress": null,
  "flagged": {
   "K051": "Reopened for QC: QC: advisor round-1 FAIL — scope and quote-attribution repairs",
   "K065": "Reopened for QC: QC: advisor batch round-1 repairs",
@@ -49,6 +50,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:22:32+00:00",
+ "updated": "2026-10-20T11:22:56+00:00",
  "band_done": false
 }
