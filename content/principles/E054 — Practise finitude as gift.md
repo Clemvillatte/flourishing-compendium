@@ -12,13 +12,21 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 446** — Practise finitude as gift
 
-Do not treat your finitude as a limitation to be overcome. Your finitude — your mortality, your boundedness, your limited time — is the condition of meaning. Without finitude, there would be no urgency, no significance, no beauty. Receive your finitude as a gift, not as a curse.
+Heidegger treats death as a limit that belongs to one's own existence, rather than merely an event happening to other people ([Being and Time, §§50–53, Macquarrie and Robinson translation](https://dhspriory.org/kenny/PhilTexts/Heidegger/BeingTime07.doc)). Facing that limit can disclose the possibilities one can actually choose, instead of leaving one's life to whatever happens to come along ([§53](https://dhspriory.org/kenny/PhilTexts/Heidegger/BeingTime07.doc)).
 
-(Heidegger, 1927/2008, Being and Time, §§46-53; Heidegger, 1929/1995, "What Is Metaphysics?"; Jaspers, 1932/1971, Philosophy, vol. 2.)
+> Death is the possibility of the absolute impossibility of Dasein.
 
-**Plain words** Don't treat your finitude as a limitation to overcome — mortality, boundedness, limited time are the conditions of meaning. Without the deadline there's no urgency, no significance, no beauty. Receive finitude as a gift: the reason anything counts is that it can run out.
+(Heidegger, Being and Time, §50; [opened text](https://dhspriory.org/kenny/PhilTexts/Heidegger/BeingTime07.doc).)
 
-*For example:* The eternal-afternoon fantasy — infinite time, infinite second chances — sounds like paradise until you imagine the book with no last page, the holiday that never ends. Nothing would matter, precisely because nothing could be missed.
+### Plain words
+
+You need not be grateful for loss to ask how you want to spend the time available to you. Treat the title's invitation as a practical question about your priorities, not a demand to welcome death.
+
+Heidegger explicitly leaves survival after death and immortality undecided here; this passage does not establish that an endless life would have no meaning or beauty ([§49](https://dhspriory.org/kenny/PhilTexts/Heidegger/BeingTime07.doc)).
+
+### For example
+
+Suppose there is someone you want to visit but keep putting off. You could arrange a date now, without needing to settle a theory about why mortality exists.
 ## Psychology parallels
 
 - **[[Mortality salience|Mortality salience and meaning]]** (Greenberg et al., 1986)
