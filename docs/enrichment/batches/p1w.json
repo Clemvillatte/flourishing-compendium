@@ -4,12 +4,12 @@
   "K008",
   "K029"
  ],
- "in_progress": null,
+ "in_progress": "SO041",
  "flagged": {
   "K001": "Reopened for QC: source-access-blocked: primary Yale 1990 translation not independently openable (Google Books TOC only, page-3 robots-blocked); body relies on opened secondary quotes (Shields, SEP, Mitsuhara); supervisor disposition requested"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T05:54:05+00:00",
+ "updated": "2026-10-20T05:55:16+00:00",
  "band_done": false
 }
