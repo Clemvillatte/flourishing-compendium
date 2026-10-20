@@ -12,13 +12,21 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 ---
 > **Principle 43** — Practise humility as accurate self-assessment
 
-Humility, in the VIA classification, is the accurate assessment of one's strengths and limitations. It is not self-deprecation. It is the capacity to see oneself clearly, without inflation or deflation. Research on humility (Davis et al., 2013) shows associations with relationship quality, openness to feedback, and well-being, though the evidence is limited by reliance on self-report.
+Humility, in the VIA classification, is the accurate assessment of one's strengths and limitations. It is not self-deprecation. The research definition this page follows is Don Davis's relational humility:
 
-(Davis et al., 2013; Kruse et al., 2014.)
+> "Relational humility is defined as the degree to which one person attributes the following three qualities to a target person: (a) regulation of egotism (and self-oriented emotions) in socially acceptable ways; (b) accurate or moderate evaluative view of self; and (c) other-oriented, marked by a respect and value for others." (Davis, "Relational Humility", doctoral dissertation, Virginia Commonwealth University, 2011)
 
-**Plain words** Humility here isn't putting yourself down. It's seeing yourself accurately: your real strengths, your real limits, without inflation or deflation. It goes with better relationships and more willingness to hear feedback.
+The scale built on that theory, the Relational Humility Scale, has three subscales — Global Humility, Superiority, and Accurate View of Self — and its studies ran on observer judgments rather than self-report. In the dissertation's fourth study, viewing an offender as more humble was related to lower unforgiveness the following week. A 2025 meta-analysis of humility and well-being found small effects on physical health, mental illness, and life satisfaction, and a medium effect on eudaimonic well-being, with relational humility showing a stronger negative association with mental illness than the trait and intellectual humility measures.
 
-*For example:* A humble engineer happily says "I don't know, show me," and learns faster than the one who bluffs.
+**Plain words**
+Humility here is not putting yourself down. It is the calibration between inflated and deflated: your strengths as they are, your limits as they are. The studies measure it as what others see — someone who does not need to be superior and knows their own strengths. The evidence goes with better relationships and more willingness to hear feedback, at small-to-medium strength.
+
+*For example:* The engineer who says "I don't know, show me" — the willingness to be seen not-knowing is the humility itself.
+
+## Sources
+
+- Davis, D. E., "Relational Humility" (doctoral dissertation, Virginia Commonwealth University, 2011) — [full text, VCU Scholars Compass](https://scholarscompass.vcu.edu/cgi/viewcontent.cgi?article=3292&context=etd)
+- Lee, Y., McLaughlin, A. T., Bowes, S. M., Hook, J. N., Van Tongeren, D. R., Owen, J., & Davis, D. E., "What is Humility Good For? A Meta-Analysis of Humility, Health, and Well-Being" (2025) — [APA PDF](https://www.apa.org/education-career/ce/meta-analysis-humility-health-well-being.pdf)
 
 ## Psychology parallels
 

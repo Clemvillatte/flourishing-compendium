@@ -17,7 +17,8 @@
   "PP008",
   "PP013",
   "MO049",
-  "PP019"
+  "PP019",
+  "PP043"
  ],
  "in_progress": null,
  "flagged": {
@@ -37,6 +38,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T10:47:21+00:00",
+ "updated": "2026-10-20T10:48:06+00:00",
  "band_done": false
 }
