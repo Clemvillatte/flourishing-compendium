@@ -452,11 +452,14 @@
   section added with source link. Item 4 QC now complete (was provisional).
 
 ## Narrative repair (fast-track)
-- Opened: IEP "Feminist Ethics and Narrative Ethics" (Tong and Williams) —
+- Opened: IEP "Feminist Ethics and Narrative Ethics" (authored by Anna
+  Gotlib — the earlier "Tong and Williams" attribution was wrong and has been
+  corrected on the page) —
   counterstory definition quoted verbatim as carried by the entry (Lindemann
   2001, p. 150); narrative-constitution premise and two-kinds-of-damage
-  passages paraphrased from the entry. Cornell book record opened for the
-  publisher's description (cases list); the book itself NOT opened.
+  passages paraphrased from the entry. CORRECTION (milestone QC): the Cornell
+  publisher record was NOT opened — the case-list sentence came from a search
+  snippet and has been removed from the page; the book itself NOT opened.
   Related concepts: The hermeneutics of suspicion, Meaning-making, Narrative
   redemption sequences (minimal descriptive clauses).
 
@@ -493,3 +496,26 @@
   flagged Category A in concept-namespace-audit.md. Per audit rule 2 the page
   is not enriched as a concept; recorded as done-with-flag awaiting the
   supervisor's conversion disposition. No content changes made.
+
+## Milestone QC (advisor, items 6-9)
+- Round 1 FAIL on all four -> repairs applied. Narrative repair: IEP byline
+  corrected to Anna Gotlib (verified by re-opening the entry's author info);
+  case-list sentence removed (Cornell record never opened, ledger claim
+  corrected); blockquote source link added; "In this account" repair framing;
+  Related clauses removed (bare links). Nature connectedness: opening rewritten
+  (no "main research instrument" claim, no separate/part contrast);
+  psychometric sentence repaired per abstract wording; Biophilia clause
+  removed. Optimal experience: study-bounded opening ("best moments" claim
+  removed); ESM and 78 workers attributed to the study; program-level and
+  causal framing removed; Flow clause scoped to the study; Intrinsic
+  motivation / Peak experiences bare links (ST125 title is not evidence);
+  generic implications sentence deleted. PERMA model: "seed's citation"
+  removed from prose; Goodman reading scoped to Seligman's reply;
+  transcends-psychometrics sentence replaced with a paraphrase; duplicate
+  bold seed sentence removed; double list marker fixed, both AF072
+  occurrences preserved (validator-confirmed).
+- Degrees confirmed complete: Narrative repair 11, Nature connectedness 12,
+  Optimal experience 12, PERMA model 10 (all < 15).
+- Item 10 (Plan-then-adapt): Category A skip, flag verified surviving done.
+- Process fix adopted: run state start BEFORE writing content on all
+  subsequent items.

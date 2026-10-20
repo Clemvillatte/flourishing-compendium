@@ -51,11 +51,11 @@
   "Moral exemplar research",
   "Narrative as meaning-making",
   "Mortality salience",
+  "Plan-then-adapt strategies outperform rigid plans",
   "Narrative repair",
   "Nature connectedness",
   "Optimal experience",
-  "PERMA model",
-  "Plan-then-adapt strategies outperform rigid plans"
+  "PERMA model"
  ],
  "in_progress": null,
  "flagged": {
@@ -104,10 +104,14 @@
   "Moral exemplar research": "Reopened for QC: milestone QC: comparator scope, narrative-traits claim, Bandura clause, blockquote link",
   "Mortality salience": "Reopened for QC: advisor follow-up: add current status-of-evidence (Many Labs 4 2022)",
   "Narrative as meaning-making": "Reopened for QC: milestone QC: opening rewritten, quote antecedent, related-clause removal",
-  "Plan-then-adapt strategies outperform rigid plans": "Category A in concept-namespace-audit.md (claim, not concept); NOT enriched per IS-IT-A-CONCEPT rule; awaiting supervisor conversion"
+  "Plan-then-adapt strategies outperform rigid plans": "Category A in concept-namespace-audit.md (claim, not concept); NOT enriched per IS-IT-A-CONCEPT rule; awaiting supervisor conversion",
+  "Narrative repair": "Reopened for QC: milestone QC: IEP byline corrected (Gotlib), case-list sentence removed (Cornell record not opened), quote link added, clauses removed",
+  "Nature connectedness": "Reopened for QC: milestone QC: opening rewritten, quote link added, psychometric sentence repaired, Biophilia clause removed",
+  "Optimal experience": "Reopened for QC: milestone QC: study-bounded opening, quote link, causal and program-level framing removed, related clauses removed",
+  "PERMA model": "Reopened for QC: milestone QC: seed-citation prose removed, Goodman framing scoped, duplicate seed sentence and double marker removed"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:41:47+00:00",
+ "updated": "2026-10-20T11:44:49+00:00",
  "band_done": false
 }

@@ -7,13 +7,13 @@ file: "Nature connectedness"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-N"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter N", "parent": ""}
 ---
-Nature connectedness is the trait-like sense of being part of the natural world rather than separate from it. The construct was given its main research instrument by Mayer and Frantz's connectedness to nature scale, described in the paper's abstract as "a new measure of individuals' trait levels of feeling emotionally connected to the natural world" (Mayer and Frantz, [The connectedness to nature scale, Journal of Environmental Psychology 24(4), 2004](https://digitalcommons.oberlin.edu/faculty_schol/2433/), abstract).
+Nature connectedness concerns an individual's emotional connection with the natural world. Mayer and Frantz's 2004 paper introduced the Connectedness to Nature Scale (CNS) to measure this trait, describing it in the abstract as "a new measure of individuals' trait levels of feeling emotionally connected to the natural world" (Mayer and Frantz, [The connectedness to nature scale, Journal of Environmental Psychology 24(4), 2004](https://digitalcommons.oberlin.edu/faculty_schol/2433/), abstract).
 
-> "This paper supports ecopsychologists' contention that connection to nature is an important predictor of ecological behavior and subjective wellbeing. It also extends social psychological research on self-other overlap, perspective taking, and altruistic behavior to the overlap between self and nature." (Mayer and Frantz, 2004, abstract)
+> "This paper supports ecopsychologists' contention that connection to nature is an important predictor of ecological behavior and subjective wellbeing. It also extends social psychological research on self-other overlap, perspective taking, and altruistic behavior to the overlap between self and nature." ([Mayer and Frantz, 2004, Oberlin repository record](https://digitalcommons.oberlin.edu/faculty_schol/2433/), abstract)
 
 ### The well-being link
 
-The scale paper's five studies, run in two community and three college samples, found good psychometric properties and correlations with environmentalist identity, uncorrelated with verbal ability or social desirability (Mayer and Frantz, 2004, abstract). A later meta-analysis of the happiness link pooled 30 samples (n = 8523) and found a small but significant fixed-effect association (r = 0.19), with the strongest relationships for vitality (r = 0.24), then positive affect (r = 0.22), then life satisfaction (r = 0.17); as its conclusion has it, "closer human-nature relationships do not have to come at the expense of happiness" (Capaldi, Dopko and Zelenski, [Frontiers in Psychology 5:976, 2014](https://www.frontiersin.org/article/10.3389/fpsyg.2014.00976/abstract), abstract).
+The scale paper's five studies, run in two community and three college samples, found good psychometric properties; across those samples the authors reported that CNS scores correlated with the new environmental paradigm scale and identity as an environmentalist, and were uncorrelated with verbal ability and social desirability (Mayer and Frantz, 2004, abstract). A later meta-analysis of the happiness link pooled 30 samples (n = 8523) and found a small but significant fixed-effect association (r = 0.19), with the strongest relationships for vitality (r = 0.24), then positive affect (r = 0.22), then life satisfaction (r = 0.17); as its conclusion has it, "closer human-nature relationships do not have to come at the expense of happiness" (Capaldi, Dopko and Zelenski, [Frontiers in Psychology 5:976, 2014](https://www.frontiersin.org/article/10.3389/fpsyg.2014.00976/abstract), abstract).
 
 ## Sources
 
@@ -38,4 +38,4 @@ The scale paper's five studies, run in two community and three college samples, 
 ## Related concepts
 
 - [[Nature exposure]] — the contact side of the relationship; connectedness is the individual-difference side
-- [[Biophilia]] — the hypothesized affinity for the living world behind the trait
+- [[Biophilia]]
