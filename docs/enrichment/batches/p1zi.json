@@ -5,17 +5,18 @@
   "SP052",
   "SP073",
   "SP079",
-  "SP089",
   "SP091",
   "SP096",
-  "X014"
+  "X014",
+  "SP089"
  ],
  "in_progress": null,
  "flagged": {
-  "SP079": "Reopened for QC: QC round 1: quote terminal punctuation (design: not design.), majority-vs-all overreach, participation guarantee, humanizer, PT sentence reader-facing, parallels claim clauses"
+  "SP079": "Reopened for QC: QC round 1: quote terminal punctuation (design: not design.), majority-vs-all overreach, participation guarantee, humanizer, PT sentence reader-facing, parallels claim clauses",
+  "SP089": "Reopened for QC: QC milestone: circumstances-revoke overreach + rereading mechanism"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T09:59:32+00:00",
+ "updated": "2026-10-20T09:59:44+00:00",
  "band_done": false
 }
