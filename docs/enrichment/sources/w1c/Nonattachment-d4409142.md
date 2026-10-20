@@ -39,4 +39,5 @@ of the article's explicit distinction, not a claim about a person's diagnosis.
 
 ## Validation
 
-Pending local validation against fb21ccda.
+Local `enrich_validate.py --base fb21ccda --fast-track` PASS; expected warning
+for fewer than three Related lines. State marked done and pushed.
