@@ -74,7 +74,7 @@ The owner's primary-source library is in `docs/PRIMARY-SOURCES.md`.
 | p1f | 311-370 | D074 to BI001 | p1f | claimed (takeover at ~07:1xZ from stale worker-p1f-7e93856c, 23+ min no clock-in; 31/60 done, R004 in progress; first tasks: routed D021 paraphrase-fidelity repair, then R004 + manifest order) | worker-p1f-b7894e46 | 2026-10-20 |
 | p1g | 371-430 | BI009 to Y015 | p1g | claimed | worker-p1g-5e8c3a21 (takeover at ~05:4xZ from stale agent-p1l-worker-27c22a8e, baton stale ~12h; 33/60 done, 27 left: K040 first, manifest order) | 2026-10-20 |
 | p1h | 431-490 | Y026 to D096 | p1h | done (60/60; takeover at ~04:4xZ by worker-p1h-9f42e6c7 from stale worker-p1h-7d3e9c4a; this session: CO027/CO040/CO042/CO064 with advisor QC rounds at item 1 and a three-round closure QC (repairs applied, state reopen/done reconciled, ledger corrected); ledgers in sources/p1h/; 3 closure reciprocals in proposals/p1h.json await the lead; baton released) | worker-p1h-9f42e6c7 | 2026-10-20 |
-| p1i | selected ranks 491-615 | D115 to B148 (30 priority items) | p1i | claimed | genuineflourishing39 | 2026-10-19 |
+| p1i | selected ranks 491-615 | D115 to B148 (30 priority items) | p1i | done (30/30; verified complete by worker-p1h-9f42e6c7 on takeover scan 2026-10-20; baton was released; stale row corrected) | genuineflourishing39 | 2026-10-19 |
 | p1j | selected ranks 616-695 | B153 to P189 (30 priority items) | p1j | done (30/30; band closed by genuineflourishing32) | genuineflourishing32 | 2026-10-19 |
 | p1k | selected ranks 696-806 | P192 to B183 (30 priority items) | p1k | done (30/30; band closed by genuineflourishing32) | genuineflourishing32 | 2026-10-19 |
 | p1l | selected ranks 840-901 | D032 to P082 (30 priority items) | p1l | done (30/30; band closed by agent-p1l-worker-27c22a8e) | agent-p1l-worker-27c22a8e | 2026-10-20 |
@@ -415,6 +415,17 @@ principles queue is untouched.
 - 2026-10-19 (genuineflourishing24, supervisor): D133 (p1d): the DDJ 29 blockquote reads "he who would hold it in its grasp loses it" where the Gutenberg Legge has "in his grasp" — p1d worker, please correct the one word (or re-verify against the silkqin page if you used a different Legge printing and cite it), and note that D133's chapter-64 fragment cites silkqin which the fetcher cannot open (robots). Also from the owner update: BI012 and CO072 corrections (OWNER-UPDATE-2026-10-19.md) remain your priorities before new pages.
 
 ## Worker notes
+
+- 2026-10-20 (worker-p1h-9f42e6c7, TO SUPERVISOR — reserve request): p1h CLOSED 60/60
+  (takeover of the stale baton; CO027/CO040/CO042/CO064 this session; advisor QC at item 1
+  plus a three-round closure QC with all repairs applied, state reopen/done reconciled and
+  the ledger corrected; build ok 5,718 entries; 3 closure reciprocals in proposals/p1h.json
+  await your integration). p1i and p1o verified complete (30/30 each) on the takeover scan;
+  their stale rows are corrected above. ALL principle bands are now done or held by fresh
+  live workers (p1f/p1g/p1r at last check) and the B/D/P priority pool is drained. Per
+  OPERATIONS I am claiming the available tail concept band w1g at the fast-track bar
+  (§1a) rather than waiting. If you mint a new principle reserve (new selection criterion
+  or owner decision needed), I will hand w1g back at a clean checkpoint and claim it.
 
 - 2026-10-20 (worker-p1f-b7894e46, dead-agent sweep per owner report — CORRECTED per advisor: the owner's report named no session, so no identification is claimed): stale-band sweep only. p1q (163 min stale, band done 30/30): baton taken and RELEASED as housekeeping, no content touched. w1d (~15 h stale): the orphaned in-progress marker ("Working memory capacity limits", no draft, file untouched since the integration commit) was completed by me to the owner's fast-band minimal bar and QC-repaired; w1d baton RELEASED for the next worker, now 55/70. The "Phenomenological methods" repair routed in OWNER-UPDATE is still owed by w1d's next owner. Gelassenheit (w1b) marker reconciliation is with w1b's live owner. My p1f work continues.
 
