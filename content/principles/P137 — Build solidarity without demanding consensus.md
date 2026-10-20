@@ -12,22 +12,18 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 137** — Build solidarity without demanding consensus
 
-Rorty's Contingency, Irony, and Solidarity argues that solidarity is not waiting underneath people's disagreements to be uncovered by the right theory. It is built, and built by attention rather than argument:
+Rorty's Contingency, Irony, and Solidarity describes solidarity as something created by attention to suffering rather than uncovered by theory. His statement of how it is created:
 
 > "It is to be achieved not by inquiry but by imagination, the imaginative ability to see strange people as fellow sufferers. Solidarity is not discovered by reflection but created. It is created by increasing our sensitivity to the particular details of the pain and humiliation of other, unfamiliar sorts of people." (Rorty, Contingency, Irony, and Solidarity, introduction, [UNLV pragmatism archive text](https://cdclv.unlv.edu/pragmatism/rorty_intro_irony.pdf))
 
-The book's other move matters for groups: the vocabularies people bring need not be merged first. Rorty separates the vocabulary of self-creation from the vocabulary of justice:
-
-> "There is no way to bring self-creation together with justice at the level of theory. The vocabulary of self-creation is necessarily private, unshared, unsuited to argument. The vocabulary of justice is necessarily public and shared, a medium for argumentative exchange." (Rorty, Contingency, Irony, and Solidarity, introduction, [UNLV pragmatism archive text](https://cdclv.unlv.edu/pragmatism/rorty_intro_irony.pdf))
-
-For a group trying to act together, the metaphysical disagreement can stay. What the shared work requires is the public vocabulary: what harms whom, who needs what, what will be done this week.
+In the same introduction he separates two vocabularies: the private, unshared vocabulary of self-creation, unsuited to argument, and the public, shared vocabulary of justice, the medium for arguing about what institutions should do. The compendium's proposed application for groups: acting together draws on the second and can leave the first alone. A group needs agreement on the shared task, not on the final questions each member answers privately.
 
 The compendium's exercise: in a group you are part of where disagreement blocks action, write down the specific harm or need the action would address. Take the action to whoever agrees on that, whatever else they believe.
 
 **Plain words**
-People can work side by side while holding different final answers. What the shared work needs is agreement on what is being done: who is being hurt, who needs what, what we will do this week. The other questions can wait outside with the coats.
+Working together leaves plenty unresolved. You can disagree about why helping matters while agreeing to help with this job. Check that everyone understands the task and can choose how to contribute.
 
-*For example:* A flood cleanup gets volunteers from the mosque and the brewery. Nobody resolves the theology; everybody hauls the drywall. The shared vocabulary is the work list: which street, which basement, whose pump.
+*For example:* Imagine a flood cleanup where volunteers arrive from a mosque and a brewery. The volunteers agree on the work list: which street, which basement, whose pump.
 
 ## Sources
 
