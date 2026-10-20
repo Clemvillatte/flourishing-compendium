@@ -8,7 +8,7 @@ tags: ["psych/affect", "theory"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-AFFECT"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-Self-efficacy is Albert Bandura's construct for the belief that one can execute the behaviour required to produce an outcome. His 1977 paper proposed efficacy expectations as a common explanation for behavioural change ([Bandura, 1977](https://www.susana.org/_resources/documents/default/3-4524-7-1640787326.pdf)), and the construct has since spread far beyond its clinical origins. The paper draws the distinction the construct lives on: Bandura distinguishes expecting an action to produce a result from believing oneself capable of performing it ([Bandura, 1977](https://www.susana.org/_resources/documents/default/3-4524-7-1640787326.pdf)). A person may expect an action to help while still doubting their ability to perform it.
+Self-efficacy is Albert Bandura's construct for the belief that one can execute the behaviour required to produce an outcome ([Bandura, 1977](https://www.susana.org/_resources/documents/default/3-4524-7-1640787326.pdf)). His 1977 paper proposed efficacy expectations as a common explanation for behavioural change ([Bandura, 1977](https://www.susana.org/_resources/documents/default/3-4524-7-1640787326.pdf)). The paper draws the distinction the construct lives on: Bandura distinguishes expecting an action to produce a result from believing oneself capable of performing it ([Bandura, 1977](https://www.susana.org/_resources/documents/default/3-4524-7-1640787326.pdf)).
 
 Bandura's summary of what the expectation governs:
 
@@ -20,7 +20,7 @@ The belief is built from four principal sources of information: performance acco
 
 ### In chronic disease management
 
-One application is the Chronic Disease Self-Management Program developed by Kate Lorig and colleagues. The program builds its weekly action planning, modelling, symptom re-interpretation and group problem-solving around self-efficacy theory, and its evaluations report improvements in participants' confidence to manage their conditions ([Jonker et al., 2009](https://pmc.ncbi.nlm.nih.gov/articles/PMC2776941/)).
+One application is the Chronic Disease Self-Management Program developed by Kate Lorig and colleagues ([Jonker et al., 2009](https://pmc.ncbi.nlm.nih.gov/articles/PMC2776941/)). The program builds its weekly action planning, modelling, symptom re-interpretation and group problem-solving around self-efficacy theory, and its evaluations report improvements in participants' confidence to manage their conditions ([Jonker et al., 2009](https://pmc.ncbi.nlm.nih.gov/articles/PMC2776941/)).
 
 ### In the compendium
 

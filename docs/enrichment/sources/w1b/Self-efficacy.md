@@ -79,3 +79,10 @@
 - Linked citations added: the Bandura 1977 PDF on the proposal sentence, the
   efficacy/outcome distinction sentence and the four-sources sentence; the Jonker et
   al. review on the CDSMP description and the reported improvements.
+
+## Advisor QC round 5 (2026-10-20): sentence-level citations
+
+- Bandura link added to the opening definition sentence; "spread far beyond its
+  clinical origins" (uncited spread claim) and the restated distinction sentence
+  ("A person may expect an action to help...") deleted; Jonker link added
+  immediately after the CDSMP introduction sentence.
