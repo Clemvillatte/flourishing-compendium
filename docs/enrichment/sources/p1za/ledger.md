@@ -80,3 +80,7 @@ No separate advisor tool available to this session; quotes are checked programma
 ## E099
 - Being and Time M&R OCR full text: §1 passage and §36 curiosity passage grep-verified (M&R p. 217 marker mid-passage -> pp. 216-217). 'What Is Metaphysics?' (Krell, Basic Writings; archive.org scan): 'In the clear night...' on p. 103 and the closing question verified; page numbers from running heads of that scan (the 1993 edition paginates differently).
 - Limits: the statement's 'mystery to be inhabited, not a puzzle' (Marcel's distinction) is not found in any text I opened; the body does not assert it. Introduction to Metaphysics not opened.
+
+## E100
+- Being and Time M&R OCR (§2, H.6, 'The Being of entities is not itself an entity'; §3 H.9 'Being is always the Being of an entity') grep-verified; SEP Heidegger entry (2025) endnote 5 on 'ontological difference' fetched and read. Section numbers §2/§3 from the principle's own citation and the Introduction's structure, not a printed-heading check.
+- Limits: Basic Problems of Phenomenology (GA24) where the term originates not opened (SEP's attribution relayed). Example hypothetical.
