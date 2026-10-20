@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 11** — Recognise the narrative structure of self: you are a story
 
-The narrative-identity research program treats identity as a life story: people make sense of themselves by narrating their remembered past, lived present and imagined future. Researchers code those stories for recurring shapes, and two carry most of the weight:
+The narrative-identity research program treats identity as a life story: people make sense of themselves by narrating their remembered past, lived present and imagined future. Researchers code those stories for recurring shapes, such as:
 
 > "Redemption sequences describe a shift from a negative event to a positive, uplifting one." "By contrast, a *contamination* sequence involves a transition from a positive, happy event to a negative one." (Sawatzki & Thomsen, 2025, [Journal of Personality](https://pmc.ncbi.nlm.nih.gov/articles/PMC13359288/), summarising McAdams et al., 2001)
 
@@ -28,8 +28,8 @@ The compendium's reading: if identity is narrated, the narration can be examined
 ## Psychology parallels
 
 - **[[Narrative identity|Narrative identity (McAdams)]]**, identity is a life story with themes, arcs, and meaning (McAdams, 2001; McAdams & McLean, 2013)
-- **Redemption sequences predict well-being**, narratives where bad leads to good are associated with higher well-being (McAdams et al., 2001; Adler, 2012)
-- **Contamination sequences predict lower well-being**, narratives where good turns bad are associated with depression (McAdams et al., 2001)
+- **Redemption sequences are associated with well-being**, narratives where bad leads to good (McAdams et al., 2001; Adler, 2012)
+- **Contamination sequences are associated with lower well-being**, narratives where good turns bad (McAdams et al., 2001)
 
 ## Philosophy parallels
 
