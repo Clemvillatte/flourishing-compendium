@@ -19,7 +19,6 @@
   "Y090",
   "Y098",
   "Y105",
-  "Y110",
   "A020",
   "A032",
   "A040",
@@ -30,7 +29,8 @@
   "A098",
   "A115",
   "A120",
-  "A122"
+  "A122",
+  "Y110"
  ],
  "in_progress": null,
  "flagged": {
@@ -41,10 +41,11 @@
   "Y105": "Reopened for QC: QC re-review round 3: strand search full inspection and ledger corrections",
   "A020": "Reopened for QC: QC re-review: file-path fix, action-only example, Plain words, raw verification",
   "A081": "Reopened for QC: QC re-review: flute quote punctuation, unsupported pleasure claims, mention hunt",
-  "A122": "Reopened for QC: QC re-review: quote capitalization, Plain words claim, mention hunt"
+  "A122": "Reopened for QC: QC re-review: quote capitalization, Plain words claim, mention hunt",
+  "Y110": "Reopened for QC: band-closure QC: mention hunt completion"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T10:43:40+00:00",
+ "updated": "2026-10-20T10:44:01+00:00",
  "band_done": false
 }
