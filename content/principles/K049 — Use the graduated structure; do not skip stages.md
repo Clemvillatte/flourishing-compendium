@@ -25,7 +25,7 @@ The Four Hundred Stanzas, in the same section, "states that the order of the pat
 **Plain words**
 The path is built like a staircase: each step is the footing for the next. The early trainings are not warm-ups for the real thing; the advanced practices stand on them. When a practice keeps collapsing, review the earlier instructions before reaching for a stronger technique.
 
-For example (imagined): A practitioner whose compassion practice keeps collapsing goes back to the earlier instruction on patience and reviews it before proceeding.
+For example (imagined): A practitioner following a graduated curriculum returns to an earlier instruction in that curriculum and reviews it before proceeding.
 
 ## Sources
 
