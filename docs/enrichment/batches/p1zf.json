@@ -13,11 +13,12 @@
   "E071",
   "E073",
   "E078",
-  "E102"
+  "E102",
+  "E108"
  ],
  "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T08:27:21+00:00"
+ "updated": "2026-10-20T08:28:12+00:00"
 }

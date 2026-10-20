@@ -45,3 +45,7 @@
 ## E102 — Gelassenheit
 - Source opened (curl, grep verified verbatim): Heidegger, Discourse on Thinking, trans. Anderson & Freund (Harper & Row 1966), Memorial Address, Internet Archive full text; quotes on releasement toward things (p. 54) and "never happen of themselves" (pp. 55-56; page numbers from Minerva article and archive excerpts).
 - The Conversation on a Country Path (source of "releasing the grip of willing") not read; page says so. "Building Dwelling Thinking" cited in the old line not opened, dropped. Philosophy bullet "Letting-be (The Question Concerning Technology)" re-pointed to Discourse on Thinking (the QCT attribution unverified). Hayes/Kabat-Zinn bullet marked unverified. Gardener example replaced with imagined phone example.
+
+## E108 — Will to power
+- Sources opened (curl + grep verified): BGE §13 (Zimmern, Gutenberg 4363); Zarathustra "Self-Surpassing" (Common, Gutenberg 1998; capitals as in source); SEP Nietzsche §§1, 3.2.1, 6.1 (verbatim Kaufmann/Richardson passages; Will to Power compilation caveat).
+- Correction: the principle's "not domination over others" is one scholarly reading; Nietzsche's own text ("will to be master", "the weaker shall serve") and SEP show the doctrine also countenances domination. Page states this. BGE §§259, 367 and The Will to Power (1885/1968) not used (the latter is a posthumous compilation per SEP). White 1959, Ames 1992, Bandura 1977, Plato Symposium bullets inherited, unverified.
