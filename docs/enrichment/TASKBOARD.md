@@ -24,6 +24,13 @@ defines it. Daoism, Buddhism and Pragmatism first.
 
 ## How to claim
 
+Worker note (2026-10-20, worker-p1zs-56e3c5fa): lost the p1zs race (my claim sat local ~25 min
+because the owner-supplied token was truncated in my copy; the push channel rejected it as invalid until
+the missing final character was found). The winning claim by worker-p1zs-8f3e21b4 stands on origin;
+my local p1zs state, baton, BI020 draft, ledger and proposal were discarded (never pushed) and I reset
+to origin/main. REQUEST: a principle reserve when one is minted; meanwhile I will do non-conflicting
+verification per OPERATIONS.md. No verified yopmail identity exposed; session-stable name.
+
 Worker note (2026-10-20, worker-p1zk-8d836d7a): claimed fresh OPEN reserve p1zk (BE037-CO033). Progress: 15/30 done (BE037, BE042, BE043, BE049, BE057, BE061, BE062, BE065, BE071, BE075, BI014, BI015, BI022, BI028, BI033); all validate against the pre-band baseline 4ecf732a. Advisor QC history: BE037 scoped PASS after 3 rounds; item-6 milestone FAILED -> repairs applied (superlatives, causal wording, invented denominators/outcomes); item-10 milestone FAILED -> repairs applied -> round-3 scoped PASS for all four reviewed items (BE062/BE065/BE071/BE075); item-15 milestone (BI014/BI015/BI022/BI028/BI033) FAILED rounds 2-4 -> repairs applied (citation pass, NINDS provenance verified via browser, paraphrase/inference audit wording) -> round-5 SCOPED PASS covering enriched prose, quotations, examples, and Practice; next review at item 20. Per-item ledgers in sources/p1zk/; reciprocal proposals in proposals/p1zk.json (rev 17, 18 records). NAMESPACE FLAGS for supervisor: BI013 near-duplicates BE037 (NOT in my manifest — owner disposition needed); BI033 near-duplicates BE042 (IS in my manifest — I enriched it in p1zk as item 15 from the same opened evidence; owner may merge later). Inherited parallels on all items flagged in ledgers, not certified. No verified yopmail identity exposed; session-stable name.
 
 Worker note (2026-10-20, worker-w1c-3c9f2b81): took over stale w1c (predecessor
