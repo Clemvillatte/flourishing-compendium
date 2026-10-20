@@ -12,11 +12,23 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SO — Sociocul
 ---
 > **Principle 19** — Treat religion and spirituality as legitimate resources
 
-Treat religion and spirituality as legitimate resources for adaptive flourishing, not as irrational leftovers to be dismissed. The evidence is substantial: religious involvement is associated with lower mortality (Chida et al., 2008), better mental health (VanderWeele, 2017, 2025), and stronger social connection (VanderWeele et al., 2016). The mechanisms are social (community), psychological (meaning, coping), and behavioral (norms against smoking, excessive drinking). The adaptive stance is neither credulity nor dismissal but informed engagement.
+> religiosity/spirituality has a favorable effect on survival, although the presence of publication biases indicates that results should be interpreted with caution.
 
-**Plain words** Religion and spirituality are legitimate resources — associated with lower mortality, better mental health, real community. Not irrational leftovers; functional technology. You don't have to believe to respect the machinery, or to borrow what works.
+(Chida, Steptoe and Powell, "Religiosity/Spirituality and Mortality: A Systematic Quantitative Review," Psychotherapy and Psychosomatics 78(2), 2009, 81-90, conclusions; [PubMed](https://pubmed.ncbi.nlm.nih.gov/19142047/). The entry's earlier date of 2008 is the review's search cutoff, not its publication year.)
 
-*For example:* The atheist who joins the community choir at the church — the benefits arrive without the doctrine. The ritual, the belonging, the weekly rhythm: hardware you can use regardless of your software.
+The review found reduced mortality in initially healthy populations (combined hazard ratio 0.82) but not in diseased ones (0.98), and the protection was "independent of behavioral factors (smoking, drinking, exercising, and socioeconomic status), negative affect, and social support." This cuts against the simple idea that religion helps only through healthier habits. A large cohort of 74,534 U.S. nurses found that attending services more than once a week was associated with 33% lower all-cause mortality than never attending (Li, Stampfer, Williams and VanderWeele, JAMA Internal Medicine 176(6), 2016; [PubMed](https://pubmed.ncbi.nlm.nih.gov/27183175/)). Both are observational associations, and neither study shows that religion causes the difference.
+
+The claims about mental health and social connection (VanderWeele 2017, 2025; VanderWeele et al. 2016) were not opened here, so the entry's stronger statement that "the evidence is substantial" is only partly checked.
+
+**Plain words** Religious involvement, especially attending services, tends to go with longer survival in healthy people. That doesn't prove religion causes it. Even so, there is good reason to treat these communities and practices as serious resources and not as leftovers.
+
+*For example:* A non-believer joins a church choir for the singing and the weekly rhythm, and takes what the group offers without adopting its doctrine.
+
+## Sources
+
+- [Chida, Y., Steptoe, A., & Powell, L. H. (2009). Religiosity/spirituality and mortality. Psychother Psychosom 78(2), 81-90](https://pubmed.ncbi.nlm.nih.gov/19142047/) — PubMed abstract opened
+- [Li, S., Stampfer, M. J., Williams, D. R., & VanderWeele, T. J. (2016). Association of religious service attendance with mortality among women. JAMA Intern Med 176(6), 777-785](https://pubmed.ncbi.nlm.nih.gov/27183175/) — PubMed abstract opened
+
 ## Psychology parallels
 
 - [[Chida et al|Chida et al.]] (2008) meta-analysis on religious involvement and mortality; VanderWeele et al. (2016) on religious service attendance and mortality; VanderWeele (2017, 2025) on religion and health; Hill and Pargament (2003) on religion as a coping resource; Koenig et al. (2012) handbook of religion and health.

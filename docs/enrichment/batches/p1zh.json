@@ -20,14 +20,16 @@
   "SE062",
   "SE073",
   "SO003",
-  "SO015"
+  "SO015",
+  "SO019"
  ],
  "in_progress": null,
  "flagged": {
   "SO003": "Psychology parallels first bullet is broken (citation names stripped); needs repair",
-  "SO015": "Psychology parallels first bullet is broken (names stripped); needs repair"
+  "SO015": "Psychology parallels first bullet is broken (names stripped); needs repair",
+  "SO019": "Chida et al. is 2009 not 2008 (Psychology parallels bullet still says 2008)"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T10:18:26+00:00"
+ "updated": "2026-10-20T10:18:59+00:00"
 }

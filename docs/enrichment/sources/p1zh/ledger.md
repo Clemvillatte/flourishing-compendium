@@ -41,3 +41,6 @@ No advisor tool available; QC is self-QC only.
 
 ## SO015 Use cultural self-examination as a practice
 - Opened: Tervalon & Murray-Garcia 1998 PubMed abstract (quote verbatim). Hook et al. 2013 and Forscher et al. 2019 not found/opened; Earley & Ang, Greenwald not opened. 'See the water you swim in' framing left as the entry's own. FLAG: Psychology parallels first bullet broken (names stripped), same pattern as SO003.
+
+## SO019 Religion and spirituality as resources
+- Opened: PubMed abstracts of Chida 2009 and Li 2016; quotes verbatim. FLAG: Chida et al. is 2009 (search cutoff March 2008), original cites 2008 (also in the Psychology parallels bullet, untouched). Chida's finding that protection was independent of behaviour/social support contradicts the original's behavioural-mechanism line; removed. VanderWeele 2016/2017/2025 mental-health and social-connection claims not opened; page says so.
