@@ -16,20 +16,20 @@ The Seven-Point Mind Training opens its ultimate-bodhicitta slogans with a one-l
 
 > "Regard all dharmas as dreams." (Chekawa, Seven Points of Mind Training, Point Two, as carried on the [Tibetan Buddhist Encyclopedia](https://www.tibetanbuddhistencyclopedia.com/en/wiki/All_dharma_agrees_at_one_point))
 
-Chögyam Trungpa's commentary heads off the common misreading:
+Chögyam Trungpa's commentary on the slogan guards against the common misreading:
 
-> "Regarding things as dreams does not mean that you become fuzzy and woolly, that everything has an edge of sleepiness about it. You might actually have a good dream, vivid and graphic. Regarding dharmas as dreams means that although you might think that things are very solid, the way you perceive them is soft and dreamlike." (Chögyam Trungpa, lojong commentary, [Tibetan Buddhist Encyclopedia](https://www.tibetanbuddhistencyclopedia.com/en/wiki/All_dharma_agrees_at_one_point))
+> "Regarding things as dreams does not mean that you become fuzzy and woolly, that everything has an edge of sleepiness about it. You might actually have a good dream, vivid and graphic. Regarding dharmas as dreams means that although you might think that things are very solid, the way you perceive them is soft and dreamlike." (Chögyam Trungpa, Training the Mind, as carried on the [Tibetan Buddhist Encyclopedia](https://www.tibetanbuddhistencyclopedia.com/en/wiki/All_dharma_agrees_at_one_point))
 
-The slogan targets perception, and each situation it applies to is, in Trungpa's gloss, "a passing memory": this morning's walk is already one, and the irritation, lust, anger and sadness of ordinary repetition are, in his words, "all a part of discursive thought". So the instruction works as a habit of lightness. In Trungpa's phrasing, "With our minds we make a big deal out of ourselves, out of our pain, and out of our problems", and the dream comparison cuts the weight while the vividness stays.
+The dream comparison lands on perception, and Trungpa applies it to the contents ordinary life is made of: "you can see that your hate for your enemy, your love for your friends, and your attitudes toward money, food, and wealth are all a part of discursive thought". Pema Chödrön, commenting on the same slogan, gives the situation-level version as a practice reminder: "Every situation is a passing memory."
 
 **Plain words**
-When something feels too heavy to put down, part of that weight is your perception manufacturing solidity. The storyline you are inside will have the status of a memory soon, the way this morning already does. Notice the vividness and let the permanence go at the same time.
+In this reading, an experience can be vivid without being as fixed as it seems. As an everyday exercise, notice a remembered conversation as it comes to mind. What words, pictures or feelings are present? Watch whether they change while you pay attention.
 
-For example: Replaying an insult for the fifth time, you ask what it will weigh in a year, in five, at death. It deflates, a little.
+For example (an imagined application): After an argument, you notice yourself replaying one sentence. You gently label it as thinking and return attention to your breath.
 
 ## Sources
 
-- [Chekawa Yeshe Dorje, Seven Points of Mind Training, Point Two](https://www.tibetanbuddhistencyclopedia.com/en/wiki/All_dharma_agrees_at_one_point) — slogan rendering "Regard all dharmas as dreams" and Chögyam Trungpa's commentary (fuzzy-and-woolly passage, passing-memory gloss, big-deal passage) quoted verbatim from the opened Tibetan Buddhist Encyclopedia page
+- [Chekawa Yeshe Dorje, Seven Points of Mind Training, Point Two](https://www.tibetanbuddhistencyclopedia.com/en/wiki/All_dharma_agrees_at_one_point) — root slogan "Regard all dharmas as dreams"; commentaries by Chögyam Trungpa (Training the Mind) and Pema Chödrön (Start Where You Are), as carried on the Tibetan Buddhist Encyclopedia page
 
 ## Psychology parallels
 

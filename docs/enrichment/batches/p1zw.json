@@ -25,10 +25,11 @@
   "K032": "Reopened for QC: QC correction: milestone round 2 repairs (overreach removal, quote fidelity)",
   "K054": "inherited psychology bullet (Yeager et al. 2014): 'purpose-framed goals outperform ego-framed ones' — precise claim not verified from the opened study this session; needs supervisor verification or narrowing",
   "K017": "inherited psychology bullet (Martell et al. 2010 behavioral activation): 'withdrawal maintains depression' — precise claim not verified from the opened study this session; needs supervisor verification or narrowing",
-  "K022": "inherited psychology bullet (McAdams narrative identity): 'people flourish when their story connects to something larger' — precise claim not verified from the opened research this session; needs supervisor verification or narrowing"
+  "K022": "inherited psychology bullet (McAdams narrative identity): 'people flourish when their story connects to something larger' — precise claim not verified from the opened research this session; needs supervisor verification or narrowing",
+  "K025": "inherited parallels not certified: Hayes et al. 2011 cognitive-defusion bullet and Shakespeare Tempest IV.i 'we are such stuff as dreams are made on' parallel — quote/claim not verified from an opened source this session; wikilinks preserved"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T13:31:37+00:00",
+ "updated": "2026-10-20T13:40:43+00:00",
  "band_done": false
 }
