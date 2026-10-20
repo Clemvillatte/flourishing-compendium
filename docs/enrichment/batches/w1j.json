@@ -24,13 +24,13 @@
  ],
  "in_progress": null,
  "flagged": {
-  "Radical freedom": "Reopened for QC: advisor QC round 4 FAIL: unsupported attributions, authorship conflicts, subjective-to-objective drift, Epictetus opinion claim, provenance-block loss; repairs pending",
+  "Radical freedom": "QC resolved 2026-10-20 (takeover genuineflourishing04): all quotes re-verified verbatim vs freshly opened SEP Sartre + SEP Existentialism; Aho framing sentence correctly attributed to the SEP entry with only the inner Sartre fragment in quotes; [2001, 296] locator added beside the body quote per supervisor route",
   "Restorative justice": "Reopened for QC: advisor QC round 4 repairs: authorship corrected to Sherman & Strang per report cover; definition extended to include court-ordered financial restitution and families/friends per evidence retrieved; apology-sincerity mechanism claim removed; Forgiveness related-link restored bare; ANU extended bullet list quoted verbatim with citation; Cited-in psychology block restored verbatim from original; re-review pending",
   "Shared reality": "Reopened for QC: advisor QC round 4 repairs: OUP chapter-abstract URL replaced with directly accessible Higgins Rossignac-Milon Echterhoff 2021 Columbia PDF as the verbatim source; Hardin & Higgins 1996 sentence now quoted verbatim from the same paper (subjective-to-objective-feeling, not truth); unsupported subjective-to-objective-truth drift and 'remembered for' claim removed; re-review pending",
   "Recognising limits": "Reopened for QC: advisor QC round 4 repairs: Epictetus same-list claim replaced with explicit 'editorial extension, not a restatement of his list'; body and related limits kept in compendium framing only; re-review pending"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T07:22:41+00:00",
+ "updated": "2026-10-20T11:13:34+00:00",
  "band_done": false
 }
