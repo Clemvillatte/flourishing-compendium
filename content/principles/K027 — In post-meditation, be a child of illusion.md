@@ -12,13 +12,24 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 27** — In post-meditation, be a child of illusion
 
-The slogan for the after-the-sitting hours: carry the dream-lightness into activity. A child of illusion engages fully without being taken in; the professional knows the stage-set is a set and acts anyway, better. Practically, pick your most absorbing activity and practice doing it fully while knowing its constructedness; the combination is the point, not either half alone.
+The slogan is Chekawa Yeshe Dorje's instruction for the hours off the cushion, and the traditional commentary keeps the point narrow:
 
-(Seven-Point Mind Training, Point Two.)
+> "After meditation, do not allow the experience of resting evenly to dissipate, no matter what form of activity you engage in. Continually foster the feeling of knowing that all appearances, yourself, others, animate or inanimate, appear though they seem to be nothing - be like a child of illusion." (Jamgön Kongtrül, The Great Path of Awakening, trans. Ken McLeod, [Tibetan Buddhist Encyclopedia](https://www.tibetanbuddhistencyclopedia.com/en/wiki/Lojong_-_Tonglen))
 
-**Plain words** After sitting, carry the dream-lightness into the day. A child of illusion engages fully without being taken in. A stage professional knows the set is a set and acts anyway, and acts better. Choose your most absorbing activity and practise doing it fully while knowing it's constructed.
+The image is not withdrawal. Pema Chödrön's commentary on the same slogan:
+
+> "When you finish sitting meditation, if things become heavy and solid, be fully present and realize that everything is actually pliable, open, and workable. This is instruction for meditation in action, realizing that you don't have to feel claustrophobic because there is always lots of room, lots of space." (Pema Chödrön, [Compassion Cards](http://www.shambhala.com/wp/wp-content/uploads/2018/06/20-cards.pdf))
+
+The combination the slogan asks for is both halves at once: appearances taken as dreamlike, activity entered fully. Practically, pick your most absorbing activity and practice doing it fully while knowing its constructedness; the combination is the point, not either half alone.
+
+**Plain words** The instruction is for the hours after the sitting, not during it. The commentary names the failure mode: things get heavy and solid. The remedy is not to withdraw; it is to be fully present while seeing the heaviness as pliable, open, workable. So the practice is doing the same activity you would have done, with more room in it.
 
 *For example:* Giving a big presentation completely, and also quietly knowing it's one presentation among many, you speak with more freedom.
+
+## Sources
+
+- [Jamgön Kongtrül, The Great Path of Awakening, trans. Ken McLeod (Shambhala)](https://www.tibetanbuddhistencyclopedia.com/en/wiki/Lojong_-_Tonglen) — commentary on the slogan, quoted verbatim on the opened Tibetan Buddhist Encyclopedia page
+- [Pema Chödrön, Compassion Cards (Shambhala Publications, 2003)](http://www.shambhala.com/wp/wp-content/uploads/2018/06/20-cards.pdf) — commentary on the slogan; root-text slogan translation by Diana J. Mukpo and the Nalanda Translation Committee
 
 ## Psychology parallels
 
