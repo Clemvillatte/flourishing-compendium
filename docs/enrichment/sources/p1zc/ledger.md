@@ -37,3 +37,14 @@ Short, item-keyed evidence notes (owner decision 2026-10-20, PROTOCOL-PRINCIPLES
 - Body, Plain words, For example, parallels untouched; saturation already reciprocal
   (Morning intention, Premeditatio malorum, Implementation intentions all cite S119);
   no new proposals needed. Validator ok. DONE (no advisor QC due: item 2, cadence = item 6).
+
+## S123 — Read and reflect on philosophical texts daily
+- Skip-ahead light check: body and Plain words already at the bar (meal-plain-words is a
+  genuine re-derivation, grounded by Seneca's own food image). Missing verbatim quote added.
+- Source opened: Seneca, Moral Letters to Lucilius, Letter 2, Gummere translation, Wikisource
+  (https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_2) — fetched twice
+  (quote wording + section contiguity verified).
+- Quotation: "Be careful, however... firm hold in your mind." (contiguous, Letter 2 §2) +
+  ellipsis-marked food fragment "Food does no good... as soon as it is eaten;" (§3 opening).
+- Saturation already reciprocal (7 concept pages cite S123); not on replicates list;
+  no new proposals. Validator ok. DONE (no advisor QC due: item 3).
