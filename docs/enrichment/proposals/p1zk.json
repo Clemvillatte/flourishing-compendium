@@ -139,6 +139,18 @@
    "link": "BI069",
    "why": "the medical-condition framing for sleep disorders including circadian ones",
    "notes": "Evidence in sources/p1zk/BI069.md (NHLBI, NINDS, Edinger 2021, all opened). Concept already cites BI069."
+  },
+  {
+   "into": "Clinical thresholds for depression, anxiety, PTSD, and bipolar disorder",
+   "link": "BI070",
+   "why": "the principle marks where self-directed body practices stop and clinical evaluation starts, and the concept holds the diagnostic thresholds for the same conditions",
+   "notes": "Mention check: the concept page already cites BI070. Evidence in sources/p1zk/BI070.md (MedlinePlus + NIMH pages opened)."
+  },
+  {
+   "into": "Evidence-based treatments (CBT, ACT, DBT, EMDR, medication)",
+   "link": "BI070",
+   "why": "BI070 marks the handover point where those treatments take over from lifestyle supports",
+   "notes": "Mention check: the concept body already cites BI070. Evidence in sources/p1zk/BI070.md."
   }
  ],
  "inline": []

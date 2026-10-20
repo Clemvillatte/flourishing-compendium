@@ -20,7 +20,8 @@
   "BI069",
   "BI034",
   "BI061",
-  "BI068"
+  "BI068",
+  "BI070"
  ],
  "in_progress": null,
  "flagged": {
@@ -47,6 +48,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:24:37+00:00",
+ "updated": "2026-10-20T11:27:02+00:00",
  "band_done": false
 }
