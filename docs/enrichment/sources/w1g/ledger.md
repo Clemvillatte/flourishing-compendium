@@ -555,3 +555,17 @@
   longevity"). Both passages re-verified against /tmp/roth.txt before repair
   (verse V lines 5887ff; chapter XXI lines 7010ff). Reopened and re-done via
   enrich_state.py; --fast-track ok; build ok.
+
+### QC repair, The rhythm of rest (2026-10-20, advisor QC round 3)
+
+- Corrections to the earlier ledger entry: the queue entry is s2 75w (the earlier
+  53w was a copy error from the rhythm-of-life entry); the inherited "Daoism"
+  Sources placeholder was REPLACED in the original edit (not preserved as that
+  entry claimed) — it has now been restored alongside the added Zhuangzi line.
+- Repairs applied to the page: opening no longer reads "toil in youth" (the quote
+  says "my life is spent in toil"); the "rest in what the time requires" speech is
+  now attributed to the hunchbacked Zi-yu (Zhuangzi 6.5, verified in the raw text),
+  not to the dying Zi-lai; the closing no longer frames birth and death as "one
+  sleep" (the quote contrasts a quiet sleep with a calm awaking); section references
+  corrected to 2 and 5. Reopened and re-done via enrich_state.py; --fast-track ok;
+  build ok.
