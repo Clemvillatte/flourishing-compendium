@@ -29,10 +29,9 @@
   "BE074",
   "BE076",
   "BE077",
-  "BI011",
   "BI006"
  ],
- "in_progress": null,
+ "in_progress": "BI011",
  "flagged": {
   "AF059": "Reopened for QC: takeover QC round 3 (advisor): Practice outcome promise replaced with source-bounded guidance",
   "AF063": "Reopened for QC: takeover QC round 4 (advisor): Plain-words staging + attention-training mechanism overstatement + For example construction + introduction framing accuracy",
@@ -46,10 +45,10 @@
   "BE076": "Reopened for QC: QC milestone: evidence scope, deficit-and-difference, workplace experiment framing",
   "BE077": "Reopened for QC: QC milestone: log-reliability claim, comparison claim, quote form behaviour/s",
   "BI006": "Reopened for QC: QC round 2: summary sections scope, Practice assertion, Jauhar pagination",
-  "BI011": "Reopened for QC: QC milestone: HRVB evidence narrowed, source blockquote with locator, reciprocal proposal fix"
+  "BI011": "Reopened for QC: QC round 2: Practice bundle, enthusiasts claim, mechanism uncertainty"
  },
  "missing_concepts": [],
  "sources_checked": 5,
- "updated": "2026-10-20T14:17:50+00:00",
+ "updated": "2026-10-20T14:17:55+00:00",
  "band_done": false
 }
