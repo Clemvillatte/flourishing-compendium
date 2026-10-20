@@ -16,14 +16,14 @@ Merleau-Ponty's Phenomenology of Perception develops its account of the body thr
 
 > projects around us our past, our future, our human milieu, our physical situation, our ideological situation, and our moral situation, or rather, that ensures that we are situated within all of these relationships. (Merleau-Ponty, Phenomenology of Perception, p. 170/137, as quoted in [Toadvine, SEP](https://plato.stanford.edu/entries/merleau-ponty/))
 
-The same entry describes Merleau-Ponty's account of sensing as a reciprocal exchange of question and answer, quoting him: "The sensible gives back to me what I had lent to it, but I received it from the sensible in the first place" (p. 259/222). On this description, the perceiving body and the perceived thing are equally active and receptive. The compendium applies the account as a noticing practice: take perception as an activity in its own right, one your body performs with things, ahead of any description you give it.
+The same entry describes Merleau-Ponty's account of sensing as a reciprocal exchange of question and answer, quoting him: "The sensible gives back to me what I had lent to it, but I received it from the sensible in the first place" (p. 259/222). As the entry puts it, sensing is "a dialectic in which both terms—the perceiving body and the perceived thing—are equally active and receptive". The compendium applies the account as a noticing practice: take perception as an activity in its own right, one your body performs with things, ahead of any description you give it.
 
 (Merleau-Ponty, Phenomenology of Perception, pp. 170/137 and 259/222, as quoted in Toadvine, SEP.)
 
 **Plain words**
 Perceiving is something a living body does with a world. Your body takes up an attitude toward a thing; the thing answers with what it will show. Sensing runs as question and answer. The practice is to catch that exchange happening: notice your body settling toward a thing before you have words for the situation.
 
-*For example:* Standing at an unfamiliar door, a hand may already be reaching for where a handle usually sits. The reach is perception working ahead of description.
+*For example:* Next time you stand at an unfamiliar door, notice where your hand begins to reach before you have described the door. What was the hand preparing to do?
 
 ## Sources
 
