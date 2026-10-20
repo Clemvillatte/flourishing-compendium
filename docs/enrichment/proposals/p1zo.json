@@ -1,6 +1,6 @@
 {
  "batch": "p1zo",
- "revision": 9,
+ "revision": 10,
  "reciprocal": [
   {
    "into": "Identity development",
@@ -67,6 +67,18 @@
    "link": "SE077",
    "why": "behaviour-change feedback applied to the self",
    "notes": "Concept page does not link SE077. Evidence in sources/p1zo/SE077.md."
+  },
+  {
+   "into": "The raft",
+   "link": "SE079",
+   "why": "the raft image applied to the self rather than the teaching",
+   "notes": "The raft concept page does not link SE079. Evidence in sources/p1zo/SE079.md (MN 22 Thanissaro, opened)."
+  },
+  {
+   "into": "Eudaimonia",
+   "link": "SE079",
+   "why": "self-development serves eudaimonia, the principle's own ordering",
+   "notes": "Eudaimonia concept page does not link SE079. Evidence in sources/p1zo/SE079.md."
   }
  ]
 }
