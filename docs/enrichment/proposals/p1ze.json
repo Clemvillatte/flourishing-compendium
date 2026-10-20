@@ -1,27 +1,27 @@
 {
  "batch": "p1ze",
- "revision": 1,
+ "revision": 3,
  "records": [
   {
    "action": "reciprocal",
    "into": "Action commitment",
    "link": "BE012",
-   "why": "Action commitment names the ACT process of committed action; BE012 states the principle behind it, that the process exists to serve chosen values rather than to change behaviour for its own sake.",
-   "notes": "Proposed by worker-p1ze-e6d6f5ba during BE012 saturation; grounded in the opened Hayes, Pistorello & Levin 2012 definition of committed action."
+   "why": "Action commitment is the concept page for ACT committed action; BE012 applies that process to choosing a behaviour that expresses a value.",
+   "notes": "Proposed by worker-p1ze-e6d6f5ba during BE012 saturation; quote verified in the opened APA PDF p. 988; target body discusses ACT values-versus-goals work."
   },
   {
    "action": "reciprocal",
    "into": "Psychological flexibility",
    "link": "BE012",
-   "why": "Psychological flexibility, the ACT model's core target, is defined as persisting or changing behaviour in the service of chosen values; BE012 carries that values-first definition of effective behaviour.",
-   "notes": "Proposed by worker-p1ze-e6d6f5ba during BE012 saturation; quote verified in the opened APA PDF."
+   "why": "BE012 illustrates values-directed action within ACT's account of psychological flexibility.",
+   "notes": "Proposed by worker-p1ze-e6d6f5ba during BE012 saturation; both pages cite the Hayes, Pistorello & Levin 2012 source (citation comparison kept in notes per protocol)."
   },
   {
    "action": "reciprocal",
    "into": "Values-driven life",
    "link": "BE012",
-   "why": "A values-driven life is the ongoing pattern this principle aims at: behaviour organised around what a person has chosen to matter rather than around comfort or momentum.",
-   "notes": "Proposed by worker-p1ze-e6d6f5ba during BE012 saturation."
+   "why": "A values-driven life is behaviour organised around chosen values; BE012 states the working step behind that organisation for a single situation: name what matters, then choose an action that would express it.",
+   "notes": "Proposed by worker-p1ze-e6d6f5ba during BE012 saturation; target body discusses values and goals."
   }
  ]
 }
