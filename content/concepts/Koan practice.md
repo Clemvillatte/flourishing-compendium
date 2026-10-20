@@ -31,8 +31,8 @@ The Wikipedia overview describes teachers expecting an appropriate response and 
 ## Related concepts
 
 
-- [[Showing versus saying]] — Wittgenstein's distinction between what can be said and what can only be shown
-- [[The limits of language]] — the Tractatus boundary to what can be meaningfully said
+- [[Showing versus saying]]
+- [[The limits of language]]
 - [[One koan]]
 - [[The unanswerable koan]]
 - [[Doubt as method]]

@@ -5,10 +5,10 @@
  ],
  "in_progress": null,
  "flagged": {
-  "Koan practice": "FAST-TRACK evidence note: sources opened raw (no extraction prompt) and both blockquotes verified verbatim: SEP Japanese Zen Buddhist Philosophy section 2 (kōan definition; two-methods sentence; Rinzai embodiment aim), Gateless Gate Case 1 sacred-texts (Mu case + Mumon instruction), Case 29 (wind-and-flag, behind ST071), Wikipedia Kōan (definition, gong'an court-records etymology, checking-questions overview). Principle clauses derived from the principle bodies (Y097 koan-carrying, Y091 who-is-aware, B139 what-is-this/Seung Sahn, Y063 YS 1.32 one practice, CO052 DDJ 2). Unverified details from round 1 removed (compiler date, best-known, joint translator credit); related-concept glosses grounded or reduced to bare links. Advisor round-2 repairs applied."
+  "Koan practice": "QC round 3 RESOLVED: Showing versus saying / The limits of language glosses reduced to bare wikilinks (compendium-internal reading only); evidence-note correction: UNPROMPTED raw fetches = SEP section 2 and Mumonkan Case 1 (both retained blockquotes verified verbatim in raw text; two-methods sentence also confirmed); PROMPTED fetches = Wikipedia Koan and Case 29. Advisor round-3: everything else in the reviewed page passes."
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T06:52:35+00:00",
+ "updated": "2026-10-20T06:54:36+00:00",
  "band_done": false
 }
