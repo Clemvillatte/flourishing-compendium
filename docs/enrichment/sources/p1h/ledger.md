@@ -503,3 +503,18 @@ done for BE052/BI032/BI045. Content items flagged for the new p1h owner (below).
   Dinges — consistent), Yangsheng and Care cited in the philosophy parallels
   (untouched). Mention scan (sleep deprivation) — AT042 already cited by 8 concepts
   + layer; no justified new proposals. Validator ok.
+
+### AT049 (2026-10-20, worker-p1h-7d3e9c4a)
+
+- Source reused from this session's opened Zaccaro et al. 2018 review (batched
+  research per speed directive). Blockquote verbatim ("Slow breathing may be a
+  self-regulation tool with a role in enhancing autonomic, cerebral, and psychological
+  flexibility."); comfort/relaxation outputs from the same opened abstract.
+- Seed-body claims scoped: "always stabilising" title claim labelled the compendium's
+  reading (the review covers slow-breathing techniques, not anchoring trials);
+  "perfect anchor / can't lose it / most reliable object you own" aphorisms removed;
+  "natural calming effect" narrowed to the review's own outputs; plain words
+  re-derived; example no longer claims the storm was "solved" or not.
+- Mention scan (attentional anchor): AT049 already cited by Anapanasati, Autonomic
+  nervous system, Parasympathetic activation concepts and AT030; no justified new
+  proposals. Validator ok.
