@@ -241,7 +241,7 @@ scope error and restoration to the owner.
   No Goethe morphology equivalence or psychology effect certified.
 - Saturation: Craftsmanship research and Morphology already cite P112.
 
-## Takeover QC: milestone-20 owed review (worker-p1u-8a7ab96d, 2026-10-20; PENDING advisor re-acceptance of the B135/B195 repairs)
+## Takeover QC: milestone-20 owed review (worker-p1u-8a7ab96d, 2026-10-20; four items PASS, B195 PASS after locator revert; B135 round-2 repairs applied, re-acceptance pending)
 
 All six owed items re-verified against freshly opened sources before new work:
 
@@ -303,9 +303,20 @@ B171/B184/B191/P112 PASS on the supplied evidence. Two blockers:
   full (content byte-identical to the predecessor version except the
   blockquote source link now points to the opened ATI page rather than
   the robots-blocked excerpt PDF).
-- B135: the advisor held that the Plain words and example were an
-  appraisal exercise rather than a re-derivation of the verse's claim,
-  and that the 'one mind' gap was unexplained. Repairs applied:
+- B135: ROUND 1 REPAIR REJECTED by the advisor (the replacement still
+  asserted an unsupported 'difference in the seeing' mechanism and the
+  commute example still illustrated appraisal, not dependent existence).
+  ROUND 2 repairs applied per the advisor's narrow edits: title caveat
+  now states the verse does not say 'one mind' and that the wording is
+  the compendium's, without the broader claim about Garfield/Priest's
+  whole reading; Plain words now explains independent essence in
+  ordinary language (a thing being what it is entirely on its own)
+  and connects it to the authors' own formulation; example replaced
+  with an explicitly labelled thought experiment about describing a
+  job, marriage or neighbourhood as self-contained, marked as
+  illustrating the explanation of emptiness only, not a demonstration
+  of samsara/nirvana identity. Original repairs recorded below for
+  audit; superseded by round 2.
   closing paragraph now states explicitly that neither the verse nor
   Garfield/Priest's reading mentions a mind; Plain words re-derived
   from the opened dependent-existence discussion (samsara as this world
