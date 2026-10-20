@@ -12,11 +12,23 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 ---
 > **Principle 62** — Learn to use rewards wisely: reinforcement, not bribery
 
-Rewards can support motivation (reinforcement) or undermine it (overjustification). Using rewards wisely — as celebration of progress rather than as the reason for the behaviour — is a motivational skill.
+Deci, Koestner and Ryan's meta-analysis of 128 experiments found that rewards tied to doing an activity carry a cost:
 
-**Plain words** Rewards are a tool with a warning label — for things you already enjoy, payment can crowd out the joy (the "I'm doing it for the money" effect). Reward the boring, let the beloved stay free. Bribery and reinforcement are different arts.
+> Engagement-contingent, completion-contingent, and performance-contingent rewards significantly undermined free-choice intrinsic motivation.
 
-*For example:* The kid who loved drawing, paid per drawing, stops drawing when the payments stop — the reward replaced the love. The love was the better engine; protect it.
+(Deci, Koestner & Ryan, 1999, Psychological Bulletin 125(6); [PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/10589297/))
+
+In the same review, positive feedback ran the other way: it enhanced both free-choice behavior (d = 0.33) and self-reported interest (d = 0.31). The contrast the principle draws on is the one in the data: rewards that comment on the work behaved differently from tangible rewards paid for the doing.
+
+**Plain words**
+In these studies, undermining showed up on a free-choice measure: after the reward, people spent less of their own free time on the activity. Before offering a reward, check which way it points: at something finished, or at the doing itself. A comment on finished work is the cheaper and safer tool; a payment for the doing is the one the data warns about.
+
+*For example:* Imagine a child paid per drawing. Watch free-time drawing once the payments stop: the free-choice measure from these experiments is what predicts its fall.
+
+## Sources
+
+- Deci, Koestner & Ryan, 1999, Psychological Bulletin 125(6):627-668 — [PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/10589297/)
+
 ## Psychology parallels
 
 - **Overjustification effect**, external rewards can reduce intrinsic motivation (Deci et al., 1999; Hennessey & Amabile, 2010)
@@ -30,4 +42,4 @@ Rewards can support motivation (reinforcement) or undermine it (overjustificatio
 
 ## Practice
 
-- Use rewards carefully: celebrate progress (reward for completion), do not make the reward the reason for the behaviour. Keep intrinsic interest alive. Do not rely purely on external rewards.
+Before offering a reward, ask what it pays for. Prefer comments on finished work to payments for the doing, and keep the reward off the schedule of any activity you want to survive on its own.
