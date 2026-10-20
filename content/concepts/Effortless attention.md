@@ -48,7 +48,7 @@ The compendium pairs the construct with the effortlessness materials listed belo
 - Bruya, Effortless Attention, 2010
 - Csikszentmihalyi's recovery studies
 
-- [Bruya, B. Introduction: Toward a Theory of Attention That Includes Effortless Attention and Action, in Effortless Attention: A New Perspective in the Cognitive Science of Attention and Action, MIT Press, 2010, pp. 1-28 (opened full text via the Internet Archive)](http://web.archive.org/web/20210519072742/https://philarchive.org/archive/BRUITA-5)
+- [Bruya, B. Introduction: Toward a Theory of Attention That Includes Effortless Attention and Action, in Effortless Attention: A New Perspective in the Cognitive Science of Attention and Action, MIT Press, 2010 (opened full text via the Internet Archive)](http://web.archive.org/web/20210519072742/https://philarchive.org/archive/BRUITA-5)
 
 - [Bruya, B. and Tang, Y.-Y. (2021). Fluid Attention in Education: Conceptual and Neurobiological Framework, Frontiers in Psychology 12:704443 (full text opened; carries the James quotation)](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.704443/full)
 
