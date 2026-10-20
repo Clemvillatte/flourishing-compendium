@@ -73,6 +73,12 @@
    "link": "CO013",
    "why": "the principle carries the theory's broadening finding, that mood can shift the range of actions that come to mind, from the film experiments",
    "notes": "Mention check: the concept cites Fredrickson's papers and AF061/AT017; the stress-side Arnsten review is kept separate in the body and is not part of this clause. Evidence in sources/p1zk/CO013.md."
+  },
+  {
+   "into": "Prospect theory",
+   "link": "CO031",
+   "why": "the principle carries the 1979 paper's losses-loom-larger finding with the value-function properties, while the concept page's cited-in list covers only CO019's framing side",
+   "notes": "Mention check corrected: the Prospect theory concept's Cited-in list names CO019 only, not CO031 (earlier ledger claim was wrong). CO031's psychology parallels link [[Prospect theory]]. Evidence in sources/p1zk/CO031.md."
   }
  ],
  "inline": []

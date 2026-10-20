@@ -27,10 +27,10 @@
   "CO013",
   "CO018",
   "CO024",
-  "CO033",
-  "CO020",
   "CO029",
-  "CO031"
+  "CO020",
+  "CO031",
+  "CO033"
  ],
  "in_progress": null,
  "flagged": {
@@ -59,14 +59,14 @@
   "CO012": "Reopened for QC: Milestone QC items 21-25 repairs",
   "CO013": "Reopened for QC: Milestone QC items 21-25 repairs",
   "CO018": "Reopened for QC: Milestone QC items 21-25 repairs",
-  "CO020": "Reopened for QC: Milestone QC round-2 cuts",
+  "CO020": "Reopened for QC: Band-closure citation pass",
   "CO024": "Reopened for QC: Milestone QC items 26-30 repairs",
   "CO029": "Reopened for QC: Milestone QC round-2 cuts",
-  "CO031": "Reopened for QC: Milestone QC round-2 cuts",
-  "CO033": "Reopened for QC: Milestone QC items 26-30 repairs"
+  "CO031": "Reopened for QC: Band-closure citation pass",
+  "CO033": "Reopened for QC: Band-closure citation pass"
  },
  "missing_concepts": [],
  "sources_checked": 13,
- "updated": "2026-10-20T11:51:40+00:00",
+ "updated": "2026-10-20T11:54:27+00:00",
  "band_done": false
 }

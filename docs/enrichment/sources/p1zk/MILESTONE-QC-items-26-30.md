@@ -45,3 +45,26 @@ disposition needed)
 ## Inherited parallels
 All psychology/philosophy parallels across the band remain uncertified
 (flagged-not-certified per protocol).
+
+## Band-closure citation pass and evidence corrections (2026-10-20, advisor round 3)
+- CITATIONS: CO020's engineer-lawyer paragraph, CO031's value-function sentence and
+  CO033's faculty-plan sentence each now carry an inline citation to the opened
+  source (reopen->edit->validate->done used for each; validators ok).
+- READING LIST NARROWED to exactly what was inspected. Full body reads: Broaden-and-
+  build, Prospect theory, Status quo bias, Steelmanning the opposing view. Partial
+  reads (front matter + lead and/or cited-in lists): Anchoring effect, Base rate
+  neglect / representativeness heuristic, Hindsight bias. Grep/mention-search
+  snippets only (NOT body reads): Prototype theory, Representativeness heuristic,
+  Retrospective rationalisation, Devil's advocate, Dialectic, Debiasing
+  techniques, Confirmation bias, The prior probability of the world, Humility, The
+  raft. The earlier closure record's blanket "completed readings" phrasing is
+  corrected by this list.
+- BASELINE VERIFICATION: for 29 of 30 manifest files the oldest --diff-filter=M
+  commit is a p1zk enrichment commit (verified by commit subject), so its parent is
+  the pre-enrichment baseline. Exception: CO013, whose oldest modification commit
+  is an integration commit (35e29d987); its correct pre-enrichment baseline is
+  35e29d987 itself (parent of the first p1zk enrichment commit 1a1f1d5af), and
+  validation was re-run against it: ok. The original 30/30 run used the older seed
+  baseline for CO013 (c2a3ee47a), which also passes; both checks are recorded.
+- CO031 ledger corrected (Prospect theory cites CO019, not CO031) and a Prospect
+  theory reciprocal proposal added to proposals/p1zk.json.
