@@ -15,9 +15,10 @@
   "Impermanence",
   "Deliberate practice",
   "Right speech",
-  "Distrust names and labels"
+  "Distrust names and labels",
+  "Equanimity"
  ],
- "in_progress": "Equanimity",
+ "in_progress": null,
  "flagged": {
   "Attention": "QC corrections applied 2026-10-19 (gorilla wording narrowed, Weil context added, contemplative bridge marked as comparison, clauses fixed, duplicate list removed)",
   "Care": "QC corrections applied 2026-10-19 (Noddings sourcing fixed, Heidegger ontological/ethical distinction added, seed-line sentence removed, limit question added)",
@@ -28,6 +29,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 8,
- "updated": "2026-10-20T04:59:38+00:00",
+ "updated": "2026-10-20T05:01:28+00:00",
  "band_done": false
 }
