@@ -12,13 +12,15 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 277** — Practise connection to community
 
-Do not isolate yourself. Maintain active relationships with your community, including extended family, kinship networks, and community organisations. Community connection is a core pillar of Aboriginal SEWB.
+Gee and colleagues place community within a wider account of Aboriginal and Torres Strait Islander social and emotional wellbeing that includes kinship, culture, Country and spirituality ([Working Together, chapter 4, pp. 55–58](https://www.telethonkids.org.au/globalassets/media/documents/aboriginal-health/working-together-second-edition/wt-part-1-chapt-4-final.pdf)).
 
-(Aboriginal SEWB framework; Dudgeon et al., 2014, Working Together.)
+> "This conception of self is grounded within a collectivist perspective that views the self as inseparable from, and embedded within, family and community." (Gee et al., 2014, [p. 57](https://www.telethonkids.org.au/globalassets/media/documents/aboriginal-health/working-together-second-edition/wt-part-1-chapt-4-final.pdf)).
 
-**Plain words** Don't drift into isolation. Keep active ties to extended family, kinship networks, and community organisations — connection is a pillar of wellbeing, not a luxury for the sociable. The unit of health is "us."
+They also recognise cultural diversity, burdens of care and the primacy of safety and freedom from abuse; connection is not a demand to endure harmful relationships ([pp. 58–60](https://www.telethonkids.org.au/globalassets/media/documents/aboriginal-health/working-together-second-edition/wt-part-1-chapt-4-final.pdf)).
 
-*For example:* Someone who commits to one community thing per week — the men's shed, the choir, the football club — and notices that the low year was the year they stopped.
+**Plain words** Find out how people already care for one another before deciding what to offer. A manageable contribution that others actually want is a better starting point than either taking over or promising more than you can sustain.
+
+*For example:* Suppose you join a local community group. You ask where help is needed and agree to a regular task you can manage, rather than arriving with a project no one requested.
 ## Practice kernels
 
 - [[K292 — Reciprocity mapping|K292 Reciprocity mapping]]
@@ -30,8 +32,13 @@ Do not isolate yourself. Maintain active relationships with your community, incl
 - [[K349 — Act of repair|K349 Act of repair]]
 ## Psychology parallels
 
-- **Social integration and health** (Holt-Lunstad et al., 2010)
+- **Social integration and health**: a review of prospective studies found stronger relationships associated with greater survival, but inconsistent controls and observational designs limit causal conclusions; this is not a test of Indigenous wellbeing frameworks ([Holt-Lunstad and colleagues, 2010](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000316)).
 
 ## Philosophy parallels
 
-- **[[Community|Community]]** (MacIntyre, After Virtue)
+- **[[Community|Community]]**: the SEWB chapter treats community as a place of identity, kinship and maintained social connections, not simply an optional leisure group ([Gee and colleagues, p. 60](https://www.telethonkids.org.au/globalassets/media/documents/aboriginal-health/working-together-second-edition/wt-part-1-chapt-4-final.pdf)).
+
+## Sources
+
+- [Gee, Dudgeon, Schultz, Hart and Kelly, Aboriginal and Torres Strait Islander Social and Emotional Wellbeing, Working Together, second edition (2014), chapter 4, pp. 55–68](https://www.telethonkids.org.au/globalassets/media/documents/aboriginal-health/working-together-second-edition/wt-part-1-chapt-4-final.pdf): exact quotation and culturally situated framework.
+- [Holt-Lunstad, Smith and Layton, Social Relationships and Mortality Risk: A Meta-analytic Review (2010), PLOS Medicine](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000316): association and causal-inference limitations.
