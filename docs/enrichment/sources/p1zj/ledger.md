@@ -140,7 +140,7 @@ Band: AF002..BE033, 30 principles, degree order (queue 628-673). Advisor QC cade
 - Proposals: reciprocals into Spotlight vs floodlight attention and Broaden-and-build (leads read during milestone QC; full bodies not read).
 
 ## AT024 — Cultivate attentional presence: fully attend to what you are doing
-- Evidence: Killingsworth & Gilbert 2010, Science 330(6006) 932, full text (author-hosted PDF at pdodds.w3.uvm.edu/files/papers/others/2010/killingsworth2010a.pdf), fetched this session. All three quoted sentences verified verbatim (46.9% finding; multilevel-regression unhappiness finding with slope and P; the cognitive-achievement/emotional-cost conclusion). The published abstract sentence was also verified via the science.org page.
+- Evidence: Killingsworth & Gilbert 2010, Science 330(6006) 932, full text, university-hosted copy at pdodds.w3.uvm.edu/files/papers/others/2010/killingsworth2010a.pdf, fetched this session. All three quoted sentences verified verbatim (46.9% finding; multilevel-regression unhappiness finding with slope and P; the cognitive-achievement/emotional-cost conclusion). The published abstract sentence was also verified via the science.org page.
 - Scope: "suffering comes from attending elsewhere" framing replaced with the study's own correlational account (time-lag analyses read by the authors as causal); presence practice labelled as the compendium's application. Unresolved (removed from page, recorded here): Brown & Ryan 2003 / Mrazek et al. 2013 present-moment-well-being parallels and the Killingsworth & Gilbert 2019 replication reference (none opened).
 - Plain words: replicate fixed; example replaced with labelled imagined case.
 - Proposals: reciprocals into Mind wandering, Presence, Right mindfulness (leads read during milestone QC; full bodies not read).
@@ -163,3 +163,11 @@ Band: AF002..BE033, 30 principles, degree order (queue 628-673). Advisor QC cade
 - Scope: depletion-signal list labelled as the compendium's addition (the abstract is programmatic); Kaplan & Berman 2010 citation dropped; Mackworth 1948 / See et al. 1995 vigilance-decrement parallel removed (unopened, no wikilink).
 - Plain words: replicate fixed; example relabelled as imagined case and tied to the restorative-environment remedy.
 - MILESTONE: item 20 of 30. Advisor QC requested for items 16-20 (AT017, AT024, AT029, AT032, AT033).
+
+### Milestone-4 QC repairs (advisor, items 16-20, 2026-10-20) — all five FAIL, repairs applied same session
+- AT017: experiment conflation fixed (broadening = Experiment 1 attention; narrowing = Experiment 2 thought-action repertoires; "same lab task" removed); zoom practice framed as exercise not finding; Navon/Förster Higgins citations removed (wikilink kept).
+- AT024: methods claims verified against the full text before retention (random-moment contact quote; 2250 adults; time-lag sentence quoted verbatim on the page); scope sentence replaced with the link-not-test version; the "compendium's application" administrative sentence removed; ledger description corrected to "university-hosted copy".
+- AT029: advisor-supplied plain words and example applied (no manufacture-pressure advice, no note-writing remedy, no easy-finish explanation, no laboratory-studies methods claim); scope sentence states the abstract's actual ground (transitions between tasks); earlier-draft figures discussion moved here: the seed text's "30-second ping / 20 minutes of rebuild" and "20-minute rebuild fee" figures carried no source and were removed in the first pass.
+- AT032: further reading added (see AT032 section below); "Affective as well as cognitive factors" quote dropped; ADHD categorical claim addressed; café example replaced.
+- AT033: mechanism paragraph grounded in an opened review of ART (see AT033 section below); "nature the best-studied case" and coffee-comparison claims removed; example reframed as noticing-and-pausing without diagnosis.
+- Workflow: credential-bearing remote replaced with clean URL, token moved to ~/.git-credentials (0600) — no longer visible in git remote output; repair shells now use set -euo pipefail; items reopened before re-editing (state cycled per item).
