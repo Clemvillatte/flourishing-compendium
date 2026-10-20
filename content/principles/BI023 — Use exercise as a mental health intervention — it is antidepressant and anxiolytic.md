@@ -43,4 +43,4 @@ You can give movement a regular place in your week without knowing how each sess
 
 ## Practice
 
-- Use exercise as a mental health input: schedule regular activity (the compendium's suggestion is moderate movement most days; the sources here establish an association and small-to-medium trial effects, not a dose — [Schuch et al., 2018](https://pubmed.ncbi.nlm.nih.gov/29690792/); [Rebar et al., 2015](https://pubmed.ncbi.nlm.nih.gov/25739893/)). Do not wait for motivation; schedule it.
+- Use exercise as a mental health input: schedule regular activity (the compendium's suggestion is moderate movement most days; the sources here establish an association and small-to-medium trial effects, not a dose: [Schuch et al., 2018](https://pubmed.ncbi.nlm.nih.gov/29690792/); [Rebar et al., 2015](https://pubmed.ncbi.nlm.nih.gov/25739893/)). Do not wait for motivation; schedule it.

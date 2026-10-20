@@ -19,7 +19,7 @@ Two laboratory studies examined mild dehydration in healthy young adults ([Ganio
 > "In conclusion, degraded mood, increased perception of task difficulty, lower concentration, and headache symptoms resulted from 1.36% dehydration in females." (Abstract; Armstrong et al., 2012, J Nutr 142(2): 382-8, [PubMed](https://pubmed.ncbi.nlm.nih.gov/22190027/))
 
 **Plain words**
-If concentrating feels harder after exercise, recent fluid loss is one possible contributor to consider. These experiments compared dehydrated conditions with hydrated controls; they do not establish that extra water improves thinking in someone already hydrated ([Ganio et al.](https://pubmed.ncbi.nlm.nih.gov/21736786/); [Armstrong et al.](https://pubmed.ncbi.nlm.nih.gov/22190027/)).
+If concentrating feels harder after exercise, recent fluid loss is one possible contributor to consider ([Ganio et al., 2011](https://pubmed.ncbi.nlm.nih.gov/21736786/)). These experiments compared dehydrated conditions with hydrated controls; they do not establish that extra water improves thinking in someone already hydrated ([Ganio et al.](https://pubmed.ncbi.nlm.nih.gov/21736786/); [Armstrong et al.](https://pubmed.ncbi.nlm.nih.gov/22190027/)).
 
 **For example**
 (Imagined) Imagine a student planning a walk before an afternoon of proofreading. They bring water and, if concentration is poor afterward, consider fluid loss alongside other possible explanations.

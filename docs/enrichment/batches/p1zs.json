@@ -1,22 +1,22 @@
 {
  "batch": "p1zs",
  "done": [
-  "BI037",
-  "BI023",
   "BI027",
   "BI035",
-  "BI020"
+  "BI020",
+  "BI037",
+  "BI023"
  ],
  "in_progress": null,
  "flagged": {
   "BI020": "Reopened for QC: round-4 citation closure",
-  "BI037": "Reopened for QC: round-4 citation closure",
-  "BI023": "Reopened for QC: round-4 citation closure",
+  "BI037": "Reopened for QC: round-5 mechanical fixes",
+  "BI023": "Reopened for QC: round-5 mechanical fixes",
   "BI027": "Reopened for QC: round-4 citation closure",
   "BI035": "Reopened for QC: round-4 citation closure"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:49:10+00:00",
+ "updated": "2026-10-20T11:50:24+00:00",
  "band_done": false
 }
