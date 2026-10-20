@@ -12,13 +12,22 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 69** — Seek the formless self
 
-Hisamatsu's term for what all the practices here converge on: a self without fixed form (mushikaku), because it does not identify with any of its contents. Hisamatsu's test questions are deliberately ordinary and devastating: what is your fundamental perspective? If all your achievements and roles were removed, what remains? The formless self is not a state to achieve but the honesty of what is already the case when the forms are seen as forms. Practically, once per week, sit with Hisamatsu's question "what is my fundamental perspective?" and let the answer be a practice, not a sentence.
+Hisamatsu Shin'ichi describes the Formless Self this way:
 
-(Hisamatsu, the FAS essays; the fundamental-perspective questionnaire.)
+> "We have been speaking of this as the Formless Self (referred to as "F"), that is, the Self that is without any form, beyond all characteristics, unhindered, and Self-abiding. It is this Self that is the ultimately emancipated Self, the Self that is saved in the true sense." (Hisamatsu, Ultimate Crisis and Resurrection, trans. Tokiwa Gishin, [FAS Society](http://www.fas.x0.com/writings/hisamatsu/FAS%20hisamatsu.pdf))
 
-**Plain words** Hisamatsu's name for what these practices converge on is a self without fixed form: it doesn't identify with its contents. His test questions are ordinary and brutal. What is your fundamental perspective? If every role and achievement were removed, what remains? The formless self isn't a blank. It's what has no fixed shape.
+Hisamatsu describes any particular way of being as subject to definition and bondage: "Our actual way of being, no matter what it may be, is a particular one, that is, it is something. So long as it is anything, it is a self that is under some kind of definition and bondage. Above all, we must be awakened to the Self that is not restricted by anything." In his teaching this self is not newly manufactured by practice: the true mode of being "is being awakened as one is."
 
-*For example:* A retired surgeon, with no title and no patients, finds that she's still curious, still kind, and still herself.
+The test is his fundamental koan, a question anyone can put to themselves alone, without a master: "Whatever I am, whatever I do, will not do, now what do I do?" It runs inside ordinary activity, not only on the cushion: "When walking: Walking won't do, what do I do?"
+
+**Plain words**
+Hisamatsu includes thinking, feeling, sitting and standing in the predicament: none of them gives a final place to stand. His question keeps the demand for action in it, and the formless self he points to is connected with activity in the world, not with a blank.
+
+*For example (imagined application):* After retirement, a surgeon notices how often she uses her former title to claim authority. She takes this as an occasion to examine her dependence on that role, while leaving open the larger question Hisamatsu asks of every way of being.
+
+## Sources
+
+- [Hisamatsu Shin'ichi, An Introduction to Hisamatsu Shin'ichi's Religious Thought (FAS Society, Kyoto, 2012)](http://www.fas.x0.com/writings/hisamatsu/FAS%20hisamatsu.pdf) — Formless Self definition and bondage passage in section 5, Ultimate Crisis and Resurrection (trans. Tokiwa Gishin); fundamental koan in section 6, True Sitting and the Fundamental Koan (trans. Jeff Shore et al.); "being awakened as one is" in section 7, On Mutually Going Into The Matter Of Self
 
 ## Psychology parallels
 
