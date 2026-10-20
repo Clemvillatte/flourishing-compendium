@@ -16,13 +16,13 @@ Gratitude, as studied in the lab, is a practice of directing attention: recognis
 
 > "Results suggest that a conscious focus on blessings may have emotional and interpersonal benefits." (Emmons & McCullough, 2003 — [Counting blessings versus burdens](https://emmons.faculty.ucdavis.edu/wp-content/uploads/sites/90/2015/08/2003_2-Emmons_McCullough_2003_JPSP.pdf) — Abstract)
 
-The paper's own framing is attentional: it treats the ability to notice, appreciate and savour the elements of one's life as a determinant of well-being. The evidence base has since grown large, and its pooled effect is honestly small: a preregistered meta-analysis of 145 papers, 163 samples, 727 effect sizes and 24,804 participants across 28 countries found that gratitude interventions led to small overall increases in well-being (Hedges' g = 0.19) (Choi et al., 2025).
+The paper's introduction cites earlier accounts that view the ability to notice, appreciate and savour the elements of one's life as a determinant of well-being. The evidence base has since grown large, and its pooled effect is honestly small: a preregistered meta-analysis of 145 papers, 163 samples, 727 effect sizes and 24,804 participants across 28 countries found that gratitude interventions led to small overall increases in well-being (Hedges' g = 0.19) (Choi et al., 2025).
 
 **Plain words**
-The day contained the flat tire and the friend who waited with you; the journal decides which one gets written down. That is the recalibration: not a command to feel better, but a decision about where the pen goes. Treat it as attention training with a small but real pooled effect, not as a mood switch.
+Think back over today and record something you appreciated, with enough detail to remember it later. You can include the day's difficulties too; this exercise asks you to make room for something you valued.
 
 **For example**
-The nightly list of three specific things: not "family" but "the way Dad mispronounced 'quinoa' at dinner". The compendium's suggestion: write specific moments rather than categories; the specificity is the attentional exercise.
+Imagine a nightly list of three specific things. Someone might write "family", or they might write "the way Dad mispronounced 'quinoa' at dinner". The compendium's suggestion: write specific moments rather than categories; the specificity is the attentional exercise.
 
 ## Sources
 

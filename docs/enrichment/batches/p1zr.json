@@ -9,11 +9,11 @@
  ],
  "in_progress": null,
  "flagged": {
-  "AF059": "Reopened for QC: QC correction (milestone round 2): Bell-model proportionality overextension in Plain words and body; Zeelenberg framing to be scoped per advisor",
-  "AF063": "Reopened for QC: QC correction (milestone round 3): Practice section carries unsupported daily-vs-weekly adaptation rationale (Lyubomirsky unopened); Practice confirmed NOT validator-protected (empirical test); removing rationale per advisor"
+  "AF059": "Reopened for QC: takeover QC round 3 (advisor): Practice outcome promise replaced with source-bounded guidance",
+  "AF063": "Reopened for QC: takeover QC round 4 (advisor): Plain-words staging + attention-training mechanism overstatement + For example construction + introduction framing accuracy"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:46:18+00:00",
+ "updated": "2026-10-20T12:12:06+00:00",
  "band_done": false
 }

@@ -41,4 +41,4 @@ Imagine a launch that lands at 60% of the hoped-for numbers. The comparison to s
 
 ## Practice
 
-- When disappointed, ask: "was my expectation realistic?" If yes, the disappointment is appropriate and will pass. If no, recalibrate. Do not adopt cynicism (expecting nothing) as a defence against disappointment.
+- When disappointed, compare your expectation with the result. Decide what, if anything, to change in your next forecast or approach.
