@@ -61,3 +61,7 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 ## Y073 (2026-10-21)
 - Woods HOS 17 pp. 203-204 (3.1 and commentary; "[200" and "[204" heads; the exact page break between 203 and 204 not resolved, so both are cited). Quotes verified.
 - Old text said the definition excludes thinking about or visualizing the object and that the practice is the return. The opened commentary lists external supports and a quoted, vividly pictured divine form, and says nothing about "return"; page states this and labels the return idea as modern. Plain words replicate replaced; example imagined. Self-QC only.
+
+## Y074 (2026-10-21)
+- Woods HOS 17 pp. 203-205 (3.1-3.3; page 204 from the "[204" and "205]" heads). Quotes verified except OCR hyphens ("single- in-intent") and capital "An". Woods renders dhyana as contemplation and samadhi as concentration; stated.
+- Old text said absorption is "attention stops returning and begins resting", "concentration after enough returns" and "count returns": none in the commentary, which gives a cause-and-effect order; page labels these as modern. Plain words replicate replaced; example imagined. Self-QC only.
