@@ -555,3 +555,24 @@
   introvert lunch-walk scenario, grounded in the two DE passages. Nguyen
   et al. 2018 and Winnicott 1958 tails reduced to bare wikilinks
   (unopened). Validator ok before done.
+
+### P152 — Know yourself ecologically (2026-10-20, worker-p1o-6ae3d782)
+- Opened: Whitehead, Process and Reality (corrected edition; the same
+  open PDF used for P095), downloaded earlier and grepped. Quotes verified
+  verbatim with corrected-edition printed pages: p. 25 ('the
+  determinateness and self-identity of one entity cannot be abstracted
+  from the community of the diverse functionings of all entities',
+  Categoreal Scheme, category xx); p. 50 ('constituted by its synthesis
+  of other actual entities'); p. 64 ('withness of the body' perception
+  passage).
+- Seed statement + locator removed (precedent; Cobb's Is It Too Late?
+  not openable - the parallel attribution reduced to bare wikilink; the
+  'gut microbiome rewriting moods' and 'street trees cooling sleep'
+  empirical examples removed from the page and replaced with a
+  mood-tracing exercise grounded in the community-of-functionings rule;
+  'You are larger than you, and you have staff' aphorism dropped).
+  Mayer and Frantz 2004 and Bratman et al. 2015 tails reduced to bare
+  wikilinks (unopened; 'Nature interventions' link resolved to the
+  existing concept page 'Green exercise (Barton, Pretty)'). Validator
+  run before done; first run failed on the unresolved link, fixed,
+  re-validated ok.
