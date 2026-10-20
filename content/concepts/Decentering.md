@@ -27,7 +27,7 @@ The idea predates the model. Safran and Segal described the construct, in the wo
 
 Fresco and colleagues also describe decentering in clinical practice:
 
-> “Helping patients learn how to decenter, or take a step back from their negative thoughts, is one of the core goals of mindfulness-based clinical interventions, but can also occur following successful cognitive therapy.” ([Fresco et al. 2007](https://contextualscience.org/sites/default/files/Fresco,2007.pdf), Study 1, Measures)
+> “Helping patients learn how to decenter, or take a step back from their negative thoughts, is one of the core goals of mindfulness-based clinical interventions, but can also occur following successful cognitive therapy.” ([Fresco et al. 2007](https://contextualscience.org/sites/default/files/Fresco,2007.pdf), Study 1, Measure)
 
 ### In the compendium
 
@@ -47,7 +47,7 @@ Fresco and colleagues also describe decentering in clinical practice:
 
 - seeing thoughts as passing events in awareness rather than as the self (Bernstein et al., 2015)
 
-- seeing each moment as new rather than as confirmation (Bernstein et al., 2015)
+- meta-awareness of thinking as a process, e.g. noticing “I am thinking a self-critical thought” (Bernstein et al., 2015)
 
 - viewing thoughts as mental events (Bernstein et al., 2015)
 
