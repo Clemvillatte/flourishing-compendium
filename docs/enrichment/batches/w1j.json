@@ -24,18 +24,18 @@
   "Perceived partner responsiveness",
   "Pleasant activities scheduling (Lewinsohn)",
   "Predictive processing",
-  "Stage theories of development",
-  "The body schema"
+  "Stage theories of development"
  ],
- "in_progress": null,
+ "in_progress": "The body schema",
  "flagged": {
   "Radical freedom": "QC resolved 2026-10-20 (takeover genuineflourishing04): all quotes re-verified verbatim vs freshly opened SEP Sartre + SEP Existentialism; Aho framing sentence correctly attributed to the SEP entry with only the inner Sartre fragment in quotes; [2001, 296] locator added beside the body quote per supervisor route",
   "Restorative justice": "QC re-review resolved 2026-10-20 (genuineflourishing04): all quotes re-verified verbatim vs freshly opened IIRP full PDF; advisor follow-up applied — 'based largely on two forms' abstract framing, matched blockquote quotes, no duplicate framing sentence",
   "Shared reality": "QC re-review resolved 2026-10-20 (genuineflourishing04): all five quotes re-verified verbatim vs freshly opened Columbia Higgins-Rossignac-Milon-Echterhoff 2021 PDF; subjective-to-objective drift absent; Hardin-Higgins sentence quoted from the 2021 paper as sourced",
-  "Recognising limits": "QC re-review resolved 2026-10-20 (genuineflourishing04): all Enchiridion I Higginson quotes re-verified verbatim vs freshly opened Gutenberg #45109; compendium-list labelling repair confirmed in place (editorial extension, not Epictetus's list)"
+  "Recognising limits": "QC re-review resolved 2026-10-20 (genuineflourishing04): all Enchiridion I Higginson quotes re-verified verbatim vs freshly opened Gutenberg #45109; compendium-list labelling repair confirmed in place (editorial extension, not Epictetus's list)",
+  "The body schema": "Reopened for QC: advisor QC round repairs: schema defined as system not body; stories claim removed; breakdown sentence replaced with source-bounded wording"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:21:01+00:00",
+ "updated": "2026-10-20T11:23:19+00:00",
  "band_done": false
 }

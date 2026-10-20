@@ -7,12 +7,12 @@ file: "The body schema"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The body schema is Merleau-Ponty's term for the body as it functions in perception and action rather than as an object one observes. The Stanford Encyclopedia's account of Phenomenology of Perception describes it:
+In Toadvine's account of Merleau-Ponty, the body schema is a pre-conscious system of bodily movements and spatial equivalences. It supports bodily awareness in relation to actual or possible tasks.
 
 > "This kinesthetic awareness is made possible by a pre-conscious system of bodily movements and spatial equivalences that Merleau-Ponty terms the 'body schema'. In contrast with the 'positional spatiality' of things, the body has a 'situational spatiality' that is oriented toward actual or possible tasks (PP: 129/102)."
-> — [Ted Toadvine, "Maurice Merleau-Ponty", Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/merleau-ponty/)
+> — [Ted Toadvine, "Maurice Merleau-Ponty", Stanford Encyclopedia of Philosophy, §3 Phenomenology of Perception](https://plato.stanford.edu/entries/merleau-ponty/)
 
-The schema explains a contrast the compendium's stories turn on. Bodily space is task-oriented rather than positional: the body "is not 'in' space but lives or inhabits it" ([Toadvine, SEP](https://plato.stanford.edu/entries/merleau-ponty/)). And the schema is revealed by breakdown: through pathological cases such as phantom limbs, Merleau-Ponty "describes the body's typical mode of existence as 'being-toward-the-world'" ([Toadvine, SEP](https://plato.stanford.edu/entries/merleau-ponty/)); the habit body, the "sedimentations of past activities" that "take on a general, anonymous, and autonomous character", normally works unseen.
+Toadvine also discusses phantom-limb cases in explaining Merleau-Ponty's account of the body's pre-objective orientation toward the world: "Through a contrast with pathological cases such as phantom limbs, Merleau-Ponty describes the body's typical mode of existence as 'being-toward-the-world'" ([Toadvine, SEP §3](https://plato.stanford.edu/entries/merleau-ponty/)). He distinguishes the present body from the habit body, "the sedimentations of past activities that take on a general, anonymous, and autonomous character" ([Toadvine, SEP §3](https://plato.stanford.edu/entries/merleau-ponty/)). The section closes its account of bodily space with the body not placed but living: "bodily space is a multi-layered manner of relating to things, so that the body is not 'in' space but lives or inhabits it" ([Toadvine, SEP §3](https://plato.stanford.edu/entries/merleau-ponty/)).
 
 ## Sources
 
