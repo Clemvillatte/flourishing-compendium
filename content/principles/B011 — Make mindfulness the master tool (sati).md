@@ -34,7 +34,6 @@ The practice itself is repetitive by design: the framing formula, "ardent, alert
 
 ## Stories
 
-- [[ST342 — The Wild Boars Sit Still|342. The Wild Boars Sit Still]]
 
 ## Psychology parallels
 

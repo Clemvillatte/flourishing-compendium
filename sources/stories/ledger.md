@@ -203,7 +203,11 @@ previously pushed only by ad-hoc git add) — KEPT, verified on origin/main.
   four foundations; heedfulness not to be equated with staying conscious) and
   B042 (calm) / B013 (mind trainable) / B011 (mindfulness as tool) added.
   These removals FAIL validation by design against the pre-repair HEAD
-  (w1e precedent); the story validates clean at the post-commit HEAD.
+  (w1e precedent). MEANINGFUL CHECK: validation of the working tree against
+  the pre-repair HEAD showed exactly the three intended link losses on the
+  story and the three mirrored losses on B190/B039/B017, and no
+  content/quotation errors; the Contents-page false positives did not
+  appear (the structure file was untouched that round).
 - ST343: "longest sutta" superlative removed; opening vignettes corrected to
   the text (the war plan arrives with the king's minister; two meal
   invitations, the courtesan's kept); the death sequence now follows the
@@ -227,3 +231,30 @@ previously pushed only by ad-hoc git add) — KEPT, verified on origin/main.
 - ST343's DN 16 ending sequence verified against the opened dhammatalks.org
   page (ascension, Ananda/Anuruddha exchange, descension, passing away from
   the fourth jhana) before rewriting.
+
+## Buddhism batch, QC round 5 (advisor-directed bounded corrections)
+
+- ST342: purpose-vs-effect separation restored in the closing (Vox reports
+  meditation was taught TO HELP them remain calm and conserve energy;
+  no demonstrated effectiveness claimed); "stayed at a temple" corrected to
+  "were to spend nine days at a temple" (the opened article's July 25 update
+  says "would be staying"); B011 link REMOVED per advisor (general
+  meditation is not documented mindfulness; the link exists only as the
+  compendium's pairing, which the advisor rejected as ungrounded) — B042 and
+  B013 remain, explicitly labelled comparisons in the closing; inline
+  citations added beside the factual passages and AP-carried quotes.
+- ST343: "passing away from the fourth jhana, he totally unbound" corrected
+  to "after emerging from the fourth jhana, he passed away" per the opened
+  translation's wording; inline citations added to both blockquotes; the
+  Sources audit phrase replaced with a bibliographic note.
+- ST344: "Repetition is what wears it out" replaced with Suzuki's
+  possibility-framed warning; the Nothing Special quote corrected to the
+  running prose's "obtain a wonderful power" (the epigraph's "some" is a
+  different version of the passage — quote-fidelity fix); the B050 pairing
+  labelled a comparison with ordinary mind / non-seeking rather than an
+  equation; inline citations added to the blockquotes and the Baker and
+  Chadwick passages.
+- MEANINGFUL CHECK (round 5, working tree vs pre-repair HEAD 361ba2d2's
+  tree): exactly the intended B011 link loss on the story and the mirrored
+  loss on B011's page; ST343 and ST344 fully clean; no content/quotation
+  errors; no Contents-page false positives (structure file untouched).
