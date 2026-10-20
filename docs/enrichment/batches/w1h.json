@@ -55,7 +55,8 @@
   "Narrative repair",
   "Nature connectedness",
   "Optimal experience",
-  "PERMA model"
+  "PERMA model",
+  "Positive activity interventions"
  ],
  "in_progress": null,
  "flagged": {
@@ -112,6 +113,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:47:23+00:00",
+ "updated": "2026-10-20T11:48:02+00:00",
  "band_done": false
 }

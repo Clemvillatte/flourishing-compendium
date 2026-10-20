@@ -524,3 +524,13 @@
   establishes the 2011 hypothesis); prose source links added across the four
   pages. Items 6-9 scoped PASS (advisor milestone round 2); item 9's PERMA
   elements question paraphrased per advisor. Milestone CLOSED.
+
+## Positive activity interventions (fast-track)
+- Opened: Lyubomirsky and Layous 2013, Current Directions in Psych Science
+  22(1), 57-62 (author-site PDF, full text) — positive-activity model quoted
+  verbatim from the abstract; moderators and dosage examples from the
+  "Factors Affecting the Success of Positive Activities" section (five kind
+  acts in one day vs spread out; blessings once vs three times a week).
+  Parks et al. 2012 (the seed's citation) NOT opened; recorded as such.
+  Related concepts: Acts of kindness (Lyubomirsky) and Positive emotions
+  research with model-grounded clauses; Broaden-and-build bare link.
