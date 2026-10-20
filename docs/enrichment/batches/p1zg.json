@@ -2,11 +2,12 @@
  "batch": "p1zg",
  "done": [
   "MO064",
-  "MO068"
+  "MO068",
+  "MO069"
  ],
- "in_progress": "MO072",
+ "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T08:27:06+00:00"
+ "updated": "2026-10-20T08:27:59+00:00"
 }

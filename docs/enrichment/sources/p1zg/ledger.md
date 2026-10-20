@@ -7,3 +7,7 @@
 ## MO068
 - Berridge & Robinson (2016) Am Psychol 71(8):670-679, PMC5171207 full text opened (7 quotations grep-verified); Koob & Le Moal (2008) abstract via PubMed (18154498).
 - Limits: statement's 'This is a clinical condition requiring treatment' not supported by an opened source (no clinical/treatment source opened), body says so. Berridge & Robinson mostly animal-derived mechanism, authors' own theory; Koob & Le Moal presented as a competing account. Example hypothetical.
+
+## MO069
+- Markus & Kitayama 1991 (MIT-hosted PDF opened; quote grep-verified); Iyengar & Lepper 1999 JPSP 76:349-366 abstract via PubMed (10101874).
+- Limits: Iyengar & Lepper full text not opened; the sources compare group averages in two studies and do not say 'neither is wrong' - body says no passage judges. Chirkov et al. 2003 / SDT cross-cultural autonomy evidence not opened. Statement's 'collectivist cultures may value duty-based motivation' only partly supported (obligation language from M&K). Example hypothetical.
