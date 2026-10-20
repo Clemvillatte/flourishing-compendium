@@ -12,13 +12,17 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 180** — Practise reframing
 
-When a situation seems bad, look for another perspective. "This is not happening to me; it is happening, and I can use it." "This is not a setback; it is material for the practice of virtue." The reframe is not denial; it is a change of perspective.
+Marcus states the reframe as a capacity of the mind rather than a consolation:
 
-(Disc. I.1, I.14, I.24; Ench. 1; Med. V.8, V.10, V.20, VII.8, VII.19, VII.20, VII.43, VIII.35, VIII.41, X.33.)
+> "the mind converts and changes every hindrance to its activity into an aid; and so that which is a hindrance is made a furtherance to an act; and that which is an obstacle on the road helps us on this road." (Marcus Aurelius, Meditations, Book V, section 20, George Long translation)
 
-**Plain words** When a situation looks bad, find another angle. "This isn't happening to me; it's happening, and I can use it." "This isn't a setback, it's material for practising virtue." Reframing isn't denial, it's a change of view.
+On his account the hindrance itself is unchanged; what changes is the use the mind makes of it. The practice is to ask, of an event that blocks one plan, what it makes possible that the old plan did not.
 
-*For example:* A cancelled project becomes time to finish the essay you'd put off.
+(Med. V.20, George Long translation.)
+
+**Plain words** Reframing here is not pretending the event is good. It is asking a different question of the same event: what does this make easier, or make possible, that the old plan did not? The event stays; the plan changes. The mind that asks the question is the one Marcus says converts hindrances into aids.
+
+For example: Imagined: a cancelled project becomes an afternoon to finish the essay that had been put off.
 
 ## Psychology parallels
 
@@ -37,3 +41,7 @@ How do you tell a useful reframe from denial or toxic positivity?
 %%
 Is there a situation where reframing feels wrong or even disrespectful? Why?
 -->
+
+## Sources
+
+- Marcus Aurelius, Meditations, Book V, section 20 (George Long translation), [Project Gutenberg #15877](https://www.gutenberg.org/cache/epub/15877/pg15877.txt)

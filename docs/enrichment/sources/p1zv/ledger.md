@@ -100,3 +100,15 @@ Band: p1zv (Stoic principles S039–S126, ranks 1172–1201). Worker: worker-p1z
 - S039 ledger: false numbering-discrepancy sentence deleted (advisor's round-2 instruction was replacement, not append).
 - Shell bug fixed: earlier concept-citation checks used single-quoted paths so the loop variable did not expand; all checks redone with correct quoting. Result: The discipline of assent, Urge surfing, Emotion regulation, Self-distancing and Cognitive defusion concept pages ALREADY cite their respective principles; the three duplicate proposals (S049/The discipline of assent, S052/Self-distancing, S054/Cognitive defusion) were withdrawn from proposals/p1zv.json (now revision 6, 4 records: Oikeiosis, Premeditatio malorum, The rehearsal of virtue, Awe). Earlier ledger absence claims corrected.
 - All four pages re-validated ok; states reopened and re-done.
+
+## S058 — Practise reframing (Principle 180)
+
+**Source opened and raw-verified:**
+1. Marcus Aurelius, Meditations, Book V, section 20, George Long translation, Project Gutenberg #15877 (raw text already in qc/med-long.txt; book position checked directly against the twelve book-heading markers; section marker "20." immediately precedes the passage).
+   - "the mind converts and changes every hindrance to its activity into an aid; and so that which is a hindrance is made a furtherance to an act; and that which is an obstacle on the road helps us on this road." — FULL MATCH; fragment quoted from "the mind converts" (the source sentence continues after a colon; the quoted span ends at the sentence's period). Long's V.20 matches the standard V.20 locator the seed and the parallel line use.
+
+**Validator:** ok on first run.
+
+**Saturation:** mention "obstacle" (concept hits inspected) — Cognitive reappraisal and Narrative redemption sequences concept pages already cite S058; Amor fati (read) does not.
+
+**Proposals:** 1 reciprocal — Amor fati.
