@@ -23,6 +23,26 @@ P023 P047. Nine Daoist rewrites are in band and pushed. Future starts
 must pass a programmatic membership check. The worker has disclosed the
 scope error and restoration to the owner.
 
+## B013: Trust that the mind is trainable (2026-10-20)
+
+- Membership verified programmatically before start.
+- Opened https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.08.budd.html ;
+  exact complete verse 103 quoted. Also opened
+  https://www.accesstoinsight.org/tipitaka/mn/mn.027.than.html ;
+  sequence supports ethical conduct, restraint, mindfulness, concentration
+  and the three knowledges as stages of the text's path, not a neuroscience
+  proof or an assertion that every temperament can be changed.
+- Search "Holzel 2011 mindfulness gray matter longitudinal 16", opened
+  https://pmc.ncbi.nlm.nih.gov/articles/PMC3004979/ .
+  Abstract/methods support 16 MBSR/17 wait-list and regional concentration
+  changes; separately extracted Discussion limitations against attributing
+  changes specifically to meditation. No randomization assertion made.
+- Removed seed's stress-reactivity claim and general baseline-temperament
+  assertion. Imagined breathing example reports practising, not benefit.
+- Inherited Tang review, Aristotle and James parallels remain unverified.
+  Original metadata, links, statement and reflections preserved.
+- Saturation: Gradual training and Habituation already cite B013.
+
 ## D105: Need little (2026-10-20)
 
 - Opened using web search followed by fetch: James Legge, Zhuangzi chapter 1,

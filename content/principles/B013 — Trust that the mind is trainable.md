@@ -12,13 +12,25 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 13** — Trust that the mind is trainable
 
-The mind is not fixed furniture; it is plastic. Attention, emotion, and even baseline temperament respond to training, gradually and cumulatively.
+Dhammapada 103 values self-conquest above victory over others ([Buddharakkhita](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.08.budd.html)):
 
-(Dhammapada 103; [[Gradual training|gradual training]] suttas, e.g., MN 27.)
+> Though one may conquer a thousand times a thousand men in battle, yet he indeed is the noblest victor who conquers himself.
 
-**Plain words** The mind is not fixed furniture — it's plastic. Attention, emotion, and even baseline temperament respond to training, gradually and cumulatively. You're not asking to become someone else; you're doing physical therapy on equipment you already own.
+(Dhammapada 103, [Buddharakkhita](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.08.budd.html).)
 
-*For example:* Eight weeks of daily meditation measurably changes how the brain reacts to stress — the equipment responded to reps, like a muscle.
+MN 27 describes [[Gradual training|gradual training]] through ethical conduct, sense restraint, mindfulness and concentration before the knowledges that complete the path ([Thanissaro](https://www.accesstoinsight.org/tipitaka/mn/mn.027.than.html)). This supports treating practice as something undertaken in stages, rather than expecting an immediate change of personality.
+
+Modern evidence needs a different description. Hölzel and colleagues compared 16 participants in an eight-week MBSR programme with 17 wait-list controls and reported increases in grey-matter concentration in several regions ([study](https://pmc.ncbi.nlm.nih.gov/articles/PMC3004979/)). The authors note that the design cannot separate meditation from other programme components; it does not establish that anyone's baseline temperament will change ([limitations](https://pmc.ncbi.nlm.nih.gov/articles/PMC3004979/)).
+
+**Plain words** Choose something you can practise and observe, rather than trying to become a different person at once. What would count as doing the practice today, even if it feels difficult?
+
+*For example:* Imagine setting aside a few minutes to attend to breathing. When you notice that you have started planning dinner, you return to the exercise. You can record that you practised without claiming your brain or temperament has changed.
+
+## Sources
+
+- [Dhammapada 103, Buddharakkhita](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.08.budd.html).
+- [MN 27, Thanissaro](https://www.accesstoinsight.org/tipitaka/mn/mn.027.than.html).
+- [Hölzel et al., Mindfulness practice leads to increases in regional brain gray matter density](https://pmc.ncbi.nlm.nih.gov/articles/PMC3004979/).
 
 ## Psychology parallels
 
