@@ -4,6 +4,21 @@
 
 These are unqueued research candidates for supervisor selection. The owner assigned this session a storytelling mission, but the central registry still leaves s1b unassigned; the request is in ROUTE.md. No lane baton has been claimed, no story-state items have been started, and no draft is ready for integration.
 
+## Candidate dossiers
+
+- **Daoism, D107:** [The Pheasant That Does Not Ask for a Coop](candidate-D107.md), a compact Zhuangzi comparison about provision that does not suit the creature receiving it.
+- **Buddhism, B088:** [The Cowherd After the Harvest](candidate-B088.md), a canonical retrospective account linking repeated mental pursuit with inclination and contrasting two forms of watchfulness.
+- **Pragmatism/process, P196:** [The Four Clock Strokes Bergson Had Not Counted](candidate-P196.md), a philosophical illustration of qualitative recognition before numerical reconstruction.
+- **Coordination:** [Scope request, save checkpoints and questions for the supervisor](ROUTE.md).
+
+All three files contain a proposed principle/angle, evidence metadata, a coverage matrix, a sourced retelling, an exact quotation, interpretation limits and QC notes. They are proposals rather than activated story IDs or reservations of central scope.
+
+## Validation checkpoint
+
+All three candidates pass `story_check.py --context draft`. The isolated stories-tool suite reports 47 passed and 0 failed; no content files, registry entries, batons, queues or shared tools were changed.
+
+Independent advisor review has checked B088's exact quotation and source interpretation and requested substantive clarifications, which were applied. Final re-review of B088 and milestone review of D107/P196 are pending; no final independent-QC pass or full Markdown-lint pass is claimed. The known MD032/template-checker incompatibility is documented in ROUTE.md for central disposition.
+
 ## Access events
 
 - **B088:** searched for the MN 19 two-sorts-of-thinking and cowherd episode; opened the complete [Thanissaro translation on Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.019.than.html) on 2026-10-21. The source supplies the two thought categories, the affliction test, repeated engagement becoming inclination, bodily fatigue from prolonged beneficial thinking, and both seasonal cowherd images. The entire teaching was available; this story selects its training passage rather than purporting to summarize its complete awakening account.
