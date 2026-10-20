@@ -12,14 +12,14 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 48** — Give the victory away, and more than that, the credit
 
-The verse is from the Eight Verses of Training the Mind by the Kadampa master Geshe Langri Thangpa (1054-1123):
+The verse is from the Eight Verses of Training the Mind by Geshe Langri Thangpa:
 
 > "Whenever someone out of envy / Does me wrong by attacking or belittling me, / I will take defeat upon myself, / And give the victory to others." (Geshe Langri Thangpa, Eight Verses of Training the Mind, verse 5, [Rigpa Translations, Lotsawa House](https://www.lotsawahouse.org/tibetan-masters/geshe-langri-thangpa/eight-verses-training-mind))
 
-The verse sits in a text that trains the same stance from the other side: "Whenever I'm in the company of others, / I will regard myself as the lowest among all, / And from the depths of my heart / Cherish others as supreme" (verse 2). The defeat-taking is not directed at self-hatred; it is aimed at the moment of attack or belittling, where the ordinary move is to answer and win. ([Eight Verses](https://www.lotsawahouse.org/tibetan-masters/geshe-langri-thangpa/eight-verses-training-mind))
+The verse sits in a text that trains the same stance from the other side: "Whenever I'm in the company of others, / I will regard myself as the lowest among all, / And from the depths of my heart / Cherish others as supreme" (verse 2). ([Eight Verses](https://www.lotsawahouse.org/tibetan-masters/geshe-langri-thangpa/eight-verses-training-mind))
 
 **Plain words**
-The verse trains a specific move: when someone belittles you, take the loss on yourself and hand them the win. The compendium's extension to credit is an application of the same move: name your colleague's contribution before she has to. As training rather than loss, run the experiment once in a dispute you could win, and concede gracefully.
+The verse trains a specific move: when someone belittles you, take the loss on yourself and hand them the win. The compendium extends the same move to credit: in joint work, deliberately name others' contributions rather than your own. As training rather than loss, run the experiment once in a dispute you could win, and concede gracefully.
 
 For example: After a successful project, you name your colleague's contribution in the meeting before she has to.
 

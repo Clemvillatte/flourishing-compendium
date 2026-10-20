@@ -16,16 +16,17 @@ The Guide devotes its fourth and fifth chapters to moral discipline, and its fif
 
 > "Nowhere has the killing / Of fish and other creatures been eradicated; / For the attainment of (merely) the thought to forsake (such things) / Is explained as the perfection of moral discipline." (Shantideva, Bodhicharyavatara 5.11, [Batchelor translation](https://milareparetreat.org/files/media/Texte-e/Shantideva_Bodhicaryavatara_en.pdf))
 
-The verse before it defines the perfection of generosity the same way: "The perfection of generosity is said to be / The thought to give all beings everything, / Together with the fruit of such a thought / Hence it is simply a state of mind" (5.10), and moral discipline comes next in the run. Both perfections are held as states of mind rather than completed world-transformations: the killing has not stopped anywhere, and the perfection is the resolve to forsake it. The same chapter opens with the guard: "Those who wish to guard their practice / Should very attentively guard their minds / For those who do not guard their minds / Will be unable to guard their practice" (5.1). ([Guide PDF](https://milareparetreat.org/files/media/Texte-e/Shantideva_Bodhicaryavatara_en.pdf))
+The verse before it treats the perfection of generosity the same way: "The perfection of generosity is said to be / The thought to give all beings everything, / Together with the fruit of such a thought / Hence it is simply a state of mind" (5.10). The order is the tradition's own: Tsongkhapa's Great Treatise lists the perfections in the same run, "not divorced from generosity, that is not divorced from ethical discipline, that is not divorced from patience, that is not divorced from joyous perseverance, that is not divorced from meditative stabilization, that is not divorced from wisdom" ([Great Treatise vol. 2 PDF](https://www.theosophy-ult.org.uk/wp-content/uploads/2021/03/Vol-2-Lamrim-on-Path-to-Enlightenment-Tsong-kha-pa.pdf)), with ethical discipline following generosity. The same chapter of the Guide opens with the guard: "Those who wish to guard their practice / Should very attentively guard their minds / For those who do not guard their minds / Will be unable to guard their practice" (5.1). ([Guide PDF](https://milareparetreat.org/files/media/Texte-e/Shantideva_Bodhicaryavatara_en.pdf))
 
 **Plain words**
-The chapter's floor is a resolve. You cannot empty the world of killing; you can hold the intention not to add yours. That held intention is what the chapter counts as the perfection, and guarding it is guarding the mind.
+The verse locates moral discipline in a resolve rather than a completed result: the killing of creatures has not been universally eradicated, and the perfection is the thought to forsake such things. Guarding that resolve is guarding the mind.
 
 For example (a compendium exercise): For three months, tell no lies, not even white ones, and watch what occasions arise to test the resolve.
 
 ## Sources
 
 - [Shantideva, A Guide to the Bodhisattva's Way of Life (Batchelor translation, milareparetreat.org PDF)](https://milareparetreat.org/files/media/Texte-e/Shantideva_Bodhicaryavatara_en.pdf) — chapters 4-5 as moral discipline per the introduction's structure note; verses 5.1, 5.10 and 5.11
+- [Tsongkhapa, The Great Treatise on the Stages of the Path to Enlightenment, vol. 2](https://www.theosophy-ult.org.uk/wp-content/uploads/2021/03/Vol-2-Lamrim-on-Path-to-Enlightenment-Tsong-kha-pa.pdf) — Chapter 7, An Introduction to the Six Perfections: the ordered run of the perfections
 
 ## Psychology parallels
 
