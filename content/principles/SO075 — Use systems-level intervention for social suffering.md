@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SO — Sociocul
 ---
 > **Principle 75** — Use systems-level intervention for social suffering
 
-Biglan and colleagues argue that mental, emotional, and behavioral problems, "to a great extent... stem from a set of common conditions," and that the environments which prevent them can be deliberately increased through a public health movement ([Biglan et al., 2012](https://eric.ed.gov/?id=EJ989127)). The unit of intervention is the environment, not the individual case: policy, community programs, and institutional change are how the conditions themselves get treated. The compendium's extension for helpers is to treat the person and name the cause, because the naming is clinical accuracy, not politics.
+Biglan and colleagues argue that mental, emotional, and behavioral problems, "to a great extent... stem from a set of common conditions," and that the environments which prevent them can be deliberately increased through a public health movement ([Biglan et al., 2012](https://eric.ed.gov/?id=EJ989127)). The unit of intervention is the environment, not the individual case: policy, community programs, and institutional change are how the conditions themselves get treated. A helper can still treat one person at a time; the passage's argument is about where the conditions live.
 
 > We review evidence to support this synthesis and describe the kind of public health movement that could increase the prevalence of nurturing environments and thereby contribute to the prevention of most mental, emotional, and behavioral disorders.
 >
@@ -22,9 +22,9 @@ Biglan and colleagues argue that mental, emotional, and behavioral problems, "to
 
 ### Plain words
 
-Ask of a person's suffering what is actually treating it: a session, or a condition. Insomnia tied to shift work gets sleep hygiene and keeps coming back, because the schedule is doing the causing. One client at a time you ease the person; the schedule needs the employer or the law. Helpers do both — the session, and the naming of where the cause lives.
+The authors of the study look past the single case to the surroundings that produce many cases. A helper can still treat one person at a time; what changes is what counts as a complete answer. The illustration below stays hypothetical.
 
-*For example:* The therapist whose client's insomnia is partly the shift-work schedule — the sleep hygiene is real and the schedule is the cause. Treating the person while advocating for the schedule is the complete treatment.
+For example: Suppose a client's sleep trouble began when their shifts changed. Sleep advice may help somewhat and is worth giving; if the pattern traces back to the schedule, that cause sits outside the session. This is an invented illustration of the distinction, not a finding from the study.
 ## Psychology parallels
 
 - [[Biglan et al|Biglan et al.]] (2012) on nurturing environments; Wahlbeck et al. (2015) on population prevention; WHO (2022) World Mental Health Report; O'Connor et al. (2022) on suicide prevention; the social-determinants literature (Marmot and Wilkinson, 2006; WHO, 2010).
