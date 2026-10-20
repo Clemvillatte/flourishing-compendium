@@ -655,3 +655,13 @@ convention).
 - Seed line "perceived fairness of distribution predicts satisfaction (Adams, 1965)." replaced by the sourced body; dangling "- Hatfield et al., 1985" line kept as found; original Sources lines kept, Adams line hyperlinked.
 - Saturation: fast-track exemption; no reciprocal proposed (A096 already links back via Cited-in psychology).
 - QC: validator ok at fast-track profile; no advisor QC (item 3; cadence = first + every 5th).
+
+## Expectancy theory (fast-track, genuineflourishing01, 2026-10-20)
+- Degree 5 at selection (AT032/MO004/SE007/SE027/SE066) — fast-track eligible per §1a.
+- Source opened: Osafo, Paros & Yawson 2021, SAGE Open (https://journals.sagepub.com/doi/10.1177/21582440211021896) — peer-reviewed, open access. Blockquote verified verbatim in the fetched extraction: "The VIE model, usually referred to as the Expectancy Theory, postulates that motivation is a product of expectancy, instrumentality, and valence (Vroom, 1964)."
+- Component definitions grounded in the same fetch: valence ("propensity to which individuals desire specific rewards"), instrumentality ("belief that good performance will result in a certain work outcome"), expectancy ("likelihood that effort will result in high-performance outcomes"). Vroom 1964 attribution carried by the source (Vroom's book not opened this session; noted).
+- Multiplicative zero claim is arithmetic of the product form, not a source quote.
+- De Simone 2015 PDF (iris.unina.it) fetch FAILED (fetcher_error); not used. First search result (wsimg.com blob) not opened; not used.
+- Seed's inherited VIE hub lines and Cited-in sections preserved; MO004 In-the-compendium clause from its title (two-factor version).
+- Saturation: fast-track exemption; no reciprocal proposed.
+- QC: validator ok at fast-track profile; no advisor QC (item 4; cadence = first + every 5th).
