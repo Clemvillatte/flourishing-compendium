@@ -18,11 +18,14 @@
   "SE052",
   "SE060",
   "SE062",
-  "SE073"
+  "SE073",
+  "SO003"
  ],
  "in_progress": null,
- "flagged": {},
+ "flagged": {
+  "SO003": "Psychology parallels first bullet is broken (citation names stripped); needs repair"
+ },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T10:16:53+00:00"
+ "updated": "2026-10-20T10:17:54+00:00"
 }

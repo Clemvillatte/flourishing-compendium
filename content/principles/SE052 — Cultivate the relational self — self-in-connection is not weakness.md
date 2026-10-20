@@ -14,7 +14,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 
 > for many cultures of the world, the Western notion of the self as an entity containing significant dispositional attributes, and as detached from context, is simply not an adequate description of selfhood.
 
-(Markus and Kitayama, "Culture and the Self: Implications for Cognition, Emotion, and Motivation," Psychological Review 98(2), 1991, p. 225; text read in the [Stanford-hosted PDF](https://web.stanford.edu/~hazelm/publications/1991%20Markus%20Kitayama%20Culture%20and%20the%20self.pdf) and the [APA abstract](https://psycnet.apa.org/doi/10.1037/0033-295X.98.2.224).)
+(Markus and Kitayama, "Culture and the Self: Implications for Cognition, Emotion, and Motivation," Psychological Review 98(2), 1991, p. 225; text read in the [Stanford-hosted PDF](https://web.stanford.edu/~hazelm/publications/1991%20Markus%20Kitayama%20Culture%20and%20the%20self.pdf?utm) and the [APA abstract](https://psycnet.apa.org/doi/10.1037/0033-295X.98.2.224).)
 
 The authors describe an interdependent construal of the self, in which people are "motivated to find a way to fit in with relevant others, to fulfill and create obligation, and in general to become part of various interpersonal relationships." The independent construal, by contrast, "is most clearly exemplified in some sizable segment of American culture, as well as in many Western European cultures."
 
@@ -26,7 +26,7 @@ The paper describes how construals of the self differ across cultures. It does n
 
 ## Sources
 
-- [Markus, H. R., & Kitayama, S. (1991). Culture and the self. Psychological Review 98(2), 224-253 (Stanford-hosted PDF)](https://web.stanford.edu/~hazelm/publications/1991%20Markus%20Kitayama%20Culture%20and%20the%20self.pdf) — opening pages read; p. 225 quotations
+- [Markus, H. R., & Kitayama, S. (1991). Culture and the self. Psychological Review 98(2), 224-253 (Stanford-hosted PDF)](https://web.stanford.edu/~hazelm/publications/1991%20Markus%20Kitayama%20Culture%20and%20the%20self.pdf?utm) — opening pages read; p. 225 quotations
 - [Cross, S. E., Hardin, E. E., & Gercek-Swing, B. (2011). The what, how, why, and where of self-construal. Pers Soc Psychol Rev 15(2), 142-179](https://pubmed.ncbi.nlm.nih.gov/20716643/) — PubMed abstract opened
 
 ## Psychology parallels
