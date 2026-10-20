@@ -190,3 +190,9 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 - Quotes verified: all quoted spans checked against normalized text.
 - Seed repairs: the 1.18 versus 1.51 split is not the sutra's; Vyasa already calls the 1.18 state seedless. The one-minute practice is labelled as the page's own. Lutz 2008 and Cloud of Unknowing parallels not opened.
 - Saturation: low; single translation (Woods) used.
+
+## Y081 (2026-10-21, worker-p1zz-b81e3f52)
+- Sources opened: Woods, Yoga-System of Patanjali (Internet Archive full text): YS 3.37 with Vyasa; YS 4.1 with Vyasa. Analects 7.21 on ctext.org (translator not named in the extract).
+- Quotes verified: Woods spans checked against normalized text. Analects span read on fetched page.
+- Seed repairs: sutra says obstacles "in concentration", not "to integration". YS 4.1 only lists five sources of perfections and does not call them obstacles. Generalisation to peak experiences and "tell one grounded person" labelled as the page's own. Masters 2010 and Kierkegaard not opened.
+- Saturation: low; one translation.
