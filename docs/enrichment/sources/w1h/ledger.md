@@ -181,3 +181,5 @@
   sympathetic antipathy CA 42; leap CA 48-51; "learned to be anxious the right
   way... learned the ultimate" CA 155. Awareness-of-freedom reading.
 - Exposure-therapy connection marked explicitly as a comparison.
+- Post-save repair: validator caught banned phrase 'crucial' AFTER the save script
+  pushed (save script does not gate on validation); replaced and re-validated.
