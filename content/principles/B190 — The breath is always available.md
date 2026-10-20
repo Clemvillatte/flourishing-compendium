@@ -28,7 +28,6 @@ The compendium suggests noticing one ordinary in-breath and out-breath before re
 
 ## Stories
 
-- [[ST342 — The Wild Boars Sit Still|342. The Wild Boars Sit Still]]
 
 ## Psychology parallels
 

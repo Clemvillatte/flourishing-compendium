@@ -189,3 +189,41 @@ previously pushed only by ad-hoc git add) — KEPT, verified on origin/main.
 - The owner's library (docs/PRIMARY-SOURCES.md) was consulted first per the
   QC-round-3 instruction; the Drive Buddhist PDFs there do not include ZMBM,
   so the Stanford-hosted full text was used as the book source.
+
+## Buddhism batch, QC round 4 (advisor-directed repairs)
+
+- ST342 rescoped to Vox-only reporting: "reportedly" restored for the
+  meditation-at-discovery and taught-the-boys claims; the Buddhistdoor-sourced
+  details (epidemic-survivor childhood, food-ration sharing and malnutrition,
+  cave-wall runoff, government spokesperson quote) REMOVED per advisor (no
+  original reporting opened for them); the Vox full text was then read WITHOUT
+  an extraction prompt and every retained quote re-verified verbatim.
+- ST342 relinked per advisor scope ruling: B190/B039/B017 backlinks removed
+  (the reporting establishes meditation for calm, not breath practice or the
+  four foundations; heedfulness not to be equated with staying conscious) and
+  B042 (calm) / B013 (mind trainable) / B011 (mindfulness as tool) added.
+  These removals FAIL validation by design against the pre-repair HEAD
+  (w1e precedent); the story validates clean at the post-commit HEAD.
+- ST343: "longest sutta" superlative removed; opening vignettes corrected to
+  the text (the war plan arrives with the king's minister; two meal
+  invitations, the courtesan's kept); the death sequence now follows the
+  opened text exactly (ascent to cessation of perception & feeling,
+  Anuruddha's correction of Ananda, descent and re-ascent, passing away from
+  the fourth jhana); macrons (Ananda/Tathagata/jhana) restored throughout;
+  "the tradition has made much" and the "not about death" framing removed;
+  B055/B012 labelled as the compendium's extensions in the closing.
+- ST344: David Chadwick named in the anecdote; "practice improves and
+  simultaneously dulls" generalization removed (Suzuki's "might"/"liable to"
+  preserved as quoted); "emptiness rather than effort" invented choice
+  removed; "warning label" staging removed; the Baker-introduction passage
+  added ("He stayed because he found that Americans have a beginner's
+  mind..."); the "Nothing Special" passage added to ground the B050 pairing
+  (ordinary mind); D023 labelled a cross-tradition analogy.
+- ST344 verification upgraded: the Stanford-hosted book text was fetched in
+  full WITHOUT an extraction prompt (300k-char fetch, complete through the
+  Epilogue); all quoted passages re-verified against the full text, including
+  the Nothing Special chapter. The Inquiring Mind article was likewise read
+  in full without a prompt.
+- ST343's DN 16 ending sequence verified against the opened dhammatalks.org
+  page (ascension, Ananda/Anuruddha exchange, descension, passing away from
+  the fourth jhana) before rewriting.

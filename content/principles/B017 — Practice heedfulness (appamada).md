@@ -31,7 +31,6 @@ Choose something you care about sustaining. What would attending to it look like
 ## Stories
 - [[ST343 — The Buddha's Last Words|343. The Buddha's Last Words]]
 
-- [[ST342 — The Wild Boars Sit Still|342. The Wild Boars Sit Still]]
 
 ## Psychology parallels
 

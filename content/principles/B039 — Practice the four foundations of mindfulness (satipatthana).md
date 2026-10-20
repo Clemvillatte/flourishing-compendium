@@ -34,7 +34,6 @@ The 4pm slump run through the frame: body tired, feeling dull, mind foggy, patte
 
 ## Stories
 
-- [[ST342 — The Wild Boars Sit Still|342. The Wild Boars Sit Still]]
 
 ## Psychology parallels
 

@@ -39,6 +39,7 @@ The passage asks you to practise calming while breathing in and while breathing 
 - [Dhammapada, Bhikkhuvagga (Buddharakkhita), Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.25.budd.html) — verse 372
 
 ## Stories
+- [[ST342 — The Wild Boars Sit Still|342. The Wild Boars Sit Still]]
 
 - [[ST072 — Hirayama Photographs the Light|72. Hirayama Photographs the Light]]
 

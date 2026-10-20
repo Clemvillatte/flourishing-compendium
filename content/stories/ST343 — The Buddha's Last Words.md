@@ -9,23 +9,23 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST 
 ---
 *Kusinara, ancient India · the Maha-parinibbana Sutta (DN 16), translated by Thanissaro Bhikkhu*
 
-The longest sutta in the Pali canon follows the Buddha through the last months of his life, and it spends them on ordinary teaching: a king planning a war receives a lecture on the conditions that protect a community; a courtesan and a group of young nobles argue over who feeds him next, and both are taught. Near Vesali he tells his attendant Ananda what the journey has cost:
+DN 16, the Maha-parinibbana Sutta, is the tradition's account of the Buddha's final journey, and it spends the journey on ordinary teaching. A king's minister arrives with a plan to attack a neighboring confederacy, and the Buddha answers with the conditions that protect a community. A courtesan and a band of young nobles both invite him to a meal, and he keeps the courtesan's appointment. Near Vesali he tells his attendant Ānanda what the journey has cost:
 
 > "I am now aged, Ānanda: old, elderly, advanced in years, having come to the last stage of life, 80 years old. Just as an old cart is kept going with the help of bamboo strips, the Tathāgata's body is kept going with the help of bamboo strips, as it were."
 
-After a final meal at the smith Cunda's, he falls violently ill, and then walks on to Kusinara, where he lies down between two sal trees. There he three times invites the assembled monks to raise any doubt or perplexity about the Buddha, the Dhamma, the Sangha, the path or the practice, and three times the monks sit silent. Ananda speaks out of confidence that the community is ready, and the Buddha confirms that not one monk present harbors doubt. Then comes the sentence the tradition records as his last:
+After a final meal at the smith Cunda's, he falls violently ill, walks on to Kusinara, and lies down between two sal trees. There he three times invites the assembled monks to raise any doubt or perplexity about the Buddha, the Dhamma, the Sangha, the path or the practice, and three times the monks sit silent. Ānanda speaks out of confidence that the community is ready, and the Buddha confirms that not one monk present harbors doubt. Then comes the sentence the sutta records as his last:
 
 > "Now, then, monks, I exhort you: All fabrications are subject to ending & decay. Reach consummation through heedfulness."
 
-That was the Tathagata's last statement. Then he entered the first jhāna, and emerging from it the second, ascending through the states of concentration he had taught all his life, and died.
+That was the Tathāgata's last statement. Then, the sutta says, he entered the first jhāna and rose through the series to the cessation of perception and feeling. Ānanda thought he had already died, and the monk Anuruddha corrected him: not yet. Emerging from the cessation, the Buddha passed back down through the series and up again, and passing away from the fourth jhāna, he totally unbound.
 
-The tradition has made much of the fact that a dying teacher's final recorded words were not about death, or about what comes after it. They were a practice instruction, the same one he had repeated three months earlier when he first announced his approaching death: the world is coming apart, so be heedful. The compendium pairs the scene with contemplation of mortality: the Buddha met his own deathbed with the same attention he taught, and the deadline did not change the assignment.
+The compendium reads the old-cart passage and the final instruction together: the body was failing, and the assignment was heedfulness. The pairing with heedfulness is direct, the sutta's own; the applications to contemplating mortality and to practice in the present are the compendium's extensions of the scene.
 
 ---
 
-**Principles:** [[B055 — Contemplate mortality (maranasati)|B55. Contemplate mortality]], [[B017 — Practice heedfulness (appamada)|B17. Practice heedfulness]], [[B012 — Practice only happens now|B12. Practice only happens now]]
+**Principles:** [[B017 — Practice heedfulness (appamada)|B17. Practice heedfulness]], [[B055 — Contemplate mortality (maranasati)|B55. Contemplate mortality]], [[B012 — Practice only happens now|B12. Practice only happens now]]
 **Resonates:** [[Equanimity]], [[Meaning-making]]
 
 ## Sources
 
-- DN 16, Maha-parinibbana Sutta, in Thanissaro Bhikkhu's translation at [dhammatalks.org](https://www.dhammatalks.org/suttas/DN/DN16.html) — the old-cart passage to Ananda, the three silent invitations to the monks, the final exhortation and the ascending jhanas, all quoted verbatim from the opened page.
+- DN 16, Maha-parinibbana Sutta, in Thanissaro Bhikkhu's translation at [dhammatalks.org](https://www.dhammatalks.org/suttas/DN/DN16.html) — the minister's war plan and the meal invitations, the old-cart passage to Ānanda, the three silent invitations to the monks, the final exhortation, Anuruddha's correction, and the jhāna sequence at death; all quoted passages verbatim from the opened page.

@@ -36,6 +36,10 @@ Modern evidence needs a different description. Hölzel and colleagues compared 1
 - [MN 27, Thanissaro](https://www.accesstoinsight.org/tipitaka/mn/mn.027.than.html).
 - [Hölzel et al., Mindfulness practice leads to increases in regional brain gray matter density](https://pmc.ncbi.nlm.nih.gov/articles/PMC3004979/).
 
+## Stories
+
+- [[ST342 — The Wild Boars Sit Still|342. The Wild Boars Sit Still]]
+
 ## Psychology parallels
 
 - **Meditation-related structural brain change** (Holzel et al., 2011)

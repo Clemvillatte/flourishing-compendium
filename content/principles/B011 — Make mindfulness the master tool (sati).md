@@ -32,6 +32,10 @@ The practice itself is repetitive by design: the framing formula, "ardent, alert
 
 - [MN 10, Satipatthana Sutta (Thanissaro), Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html) — the direct path and the ardent-alert-mindful formula
 
+## Stories
+
+- [[ST342 — The Wild Boars Sit Still|342. The Wild Boars Sit Still]]
+
 ## Psychology parallels
 
 - **[[Mindfulness|Mindfulness-based interventions]]**, MBSR/MBCT outcomes across stress, depression, pain (Kabat-Zinn, 1982; Kuyken et al., 2016)
