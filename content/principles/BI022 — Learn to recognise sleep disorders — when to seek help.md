@@ -19,9 +19,9 @@ The American Academy of Sleep Medicine's 2021 guideline ([Edinger et al., JCSM](
 > "If someone tells you that you snore or gasp for air during sleep, you may want to talk to your healthcare provider." (NHLBI, [What Is Sleep Apnea?](https://www.nhlbi.nih.gov/health/sleep-apnea))
 
 **Plain words**
-The principle draws a line between bad nights and medical symptoms. Snoring with gasping, sleepiness that survives good habits, being told you stop breathing: these are the body's own reports, often delivered second-hand by a partner, and they warrant a provider visit rather than another round of tips. The line matters because treatable conditions sit on the other side of it: apnea has breathing devices and lifestyle treatments, and chronic insomnia has CBT-I.
+The principle draws a line between bad nights and medical symptoms. Snoring with gasping, sleepiness that survives good habits, being told you stop breathing: these are the body's own reports, often delivered second-hand by a partner, and they warrant a provider visit rather than another round of tips. The line matters because treatable conditions sit on the other side of it: apnea has breathing devices and lifestyle treatments ([NHLBI](https://www.nhlbi.nih.gov/health/sleep-apnea)), and chronic insomnia has CBT-I ([Edinger et al. 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC7853203/)).
 
-*For example:* An imagined case: someone who says they are "just a bad sleeper" learns from their partner that they gasp in their sleep. The NHLBI sentence is addressed to exactly this person: the symptom came second-hand, and the next step is a provider conversation, not a better pillow.
+*For example:* An imagined case: someone who says they are "just a bad sleeper" learns from their partner that they gasp in their sleep. The NHLBI sentence ([What Is Sleep Apnea?](https://www.nhlbi.nih.gov/health/sleep-apnea)) is addressed to exactly this person: the symptom came second-hand, and the next step is a provider conversation, not a better pillow.
 
 ## Sources
 
@@ -42,4 +42,4 @@ The principle draws a line between bad nights and medical symptoms. Snoring with
 
 ## Practice
 
-- If you have persistent sleep problems (chronic insomnia, snoring with gasping, excessive daytime sleepiness), seek medical evaluation. Most sleep disorders can be treated effectively.
+- If you have persistent sleep problems (chronic insomnia, snoring with gasping, excessive daytime sleepiness), seek medical evaluation. Most sleep disorders can be treated effectively ([NINDS](https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-understanding-sleep)).
