@@ -54,7 +54,8 @@
   "True self",
   "Two modes of attentional control",
   "Uncertainty tolerance",
-  "Unconditional positive regard"
+  "Unconditional positive regard",
+  "Weekly-review implementation intentions"
  ],
  "in_progress": null,
  "flagged": {
@@ -103,7 +104,7 @@
   "True self": "Reopened for QC: QC round 6: definition-quote continuation and attribution, methods accuracy, negative-aspect narrowing, Heppner separation, Eigentlichkeit link removal, OpenAIRE re-cite"
  },
  "missing_concepts": [],
- "sources_checked": 22,
- "updated": "2026-10-20T08:46:29+00:00",
+ "sources_checked": 23,
+ "updated": "2026-10-20T08:47:16+00:00",
  "band_done": false
 }
