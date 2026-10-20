@@ -15,7 +15,9 @@ Avidyā (Sanskrit अविद्या) is a word used across Indian religions 
 
 ### Two readings of one word
 
-The Advaita Vedanta of Adi Shankara treats avidyā as a central tenet: the Self is mistaken for what it is not ([Wikipedia, Avidya (Hinduism)](https://en.wikipedia.org/wiki/Avidya_(Hinduism))). The Buddhist reading widens the word beyond darkness: "The term includes not only ignorance out of darkness, but also obscuration, misconceptions, mistaking illusion to be reality or impermanent to be permanent or suffering to be bliss or non-self to be self (delusions)." ([Wikipedia, Avidya (Buddhism)](https://en.wikipedia.org/wiki/Avidya_(Buddhism)))
+The Advaita Vedanta of Adi Shankara treats avidyā as a central tenet: the Self is mistaken for what it is not ([Wikipedia, Avidya (Hinduism)](https://en.wikipedia.org/wiki/Avidya_(Hinduism))). The Buddhist reading widens the word beyond darkness:
+
+> "The term includes not only ignorance out of darkness, but also obscuration, misconceptions, mistaking illusion to be reality or impermanent to be permanent or suffering to be bliss or non-self to be self (delusions)." ([Wikipedia, Avidya (Buddhism)](https://en.wikipedia.org/wiki/Avidya_(Buddhism)))
 
 In the Theravada Abhidharma teachings the equivalent is moha, delusion ([Wikipedia, Avidya (Buddhism)](https://en.wikipedia.org/wiki/Avidya_(Buddhism))). Both readings make ignorance active rather than empty: it misidentifies, and what it misidentifies structures experience.
 
