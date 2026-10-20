@@ -128,3 +128,11 @@
 - Baseline description corrected: the parent-of-first-edit comparison establishes
   TEXT and LINK-OCCURRENCE preservation (raw front-matter bytes identical, no link
   occurrences lost); it is not claimed as a whole-file raw-byte comparison.
+
+## Milestone QC round 4 — sentence-level citations completed
+- Every added factual sentence now carries an adjacent citation to an opened source:
+  Envy (NL/US/ES sentence, implications sentence), Durée (introduction sentence with
+  Gutenberg title-page link, clock paragraph), Ecological relationality (opening
+  paragraph SEP link), Executive function (methods sentence).
+- EF definition rewritten as genuine paraphrase (no longer near-verbatim of the
+  Friedman & Miyake 2017 abstract without quotes).

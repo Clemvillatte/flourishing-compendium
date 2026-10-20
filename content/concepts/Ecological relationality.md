@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Ecological relationality” — Deep ecology tradition; Leopold, A Sand County Almanac; Whitehead, Process and Reality.
 
-Ecological relationality names the view that a living thing's identity is made of its relations to other organisms, to place, and to the systems that keep it alive. The seed names two sources for it, Leopold's land ethic and the deep ecology of Arne Næss. Leopold widens the moral community to land; Næss rebuilds the self out of relations. In both, the isolated individual stops being the whole story.
+Ecological relationality names the view that a living thing's identity is made of its relations to other organisms, to place, and to the systems that keep it alive. The seed names two sources for it, Leopold's land ethic and the deep ecology of Arne Næss. Leopold widens the moral community to land; Næss rebuilds the self out of relations ([Brennan and Lo, "Environmental Ethics", SEP](https://plato.stanford.edu/entries/ethics-environmental/)). In both, the isolated individual stops being the whole story.
 
 > "That land is a community is the basic concept of ecology, but that land is to be loved and respected is an extension of ethics." (Leopold, A Sand County Almanac, foreword, quoted in [Brennan and Lo, "Environmental Ethics", Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/ethics-environmental/))
 

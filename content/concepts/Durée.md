@@ -9,13 +9,13 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Durée” — Bergson, Time and Free Will.
 
-Durée is Henri Bergson's name for time as it is actually lived: a continuous flow in which each moment carries the ones before it. He introduced it in his first book, the Essai sur les données immédiates de la conscience (1889), which F. L. Pogson's authorized English translation renders as Time and Free Will. Pogson translates the term as "pure duration".
+Durée is Henri Bergson's name for time as it is actually lived: a continuous flow in which each moment carries the ones before it. He introduced it in his first book, the Essai sur les données immédiates de la conscience (1889), which F. L. Pogson's authorized English translation renders as Time and Free Will ([Gutenberg ebook 56852, title page](https://www.gutenberg.org/files/56852/56852-h/56852-h.htm)). Pogson translates the term as "pure duration".
 
 > "Pure duration is the form which the succession of our conscious states assumes when our ego lets itself live, when it refrains from separating its present state from its former states. For this purpose it need not be entirely absorbed in the passing sensation or idea; for then, on the contrary, it would no longer endure. Nor need it forget its former states: it is enough that, in recalling these states, it does not set them alongside its actual state as one point alongside another, but forms both the past and the present states into an organic whole, as happens when we recall the notes of a tune, melting, so to speak, into one another." (Bergson, [Time and Free Will, Pogson translation](https://www.gutenberg.org/files/56852/56852-h/56852-h.htm), Chapter II, pp. 100-101)
 
 ### Lived and measured time
 
-Bergson's target is clock time. A clock face, a calendar and a timeline all set moments side by side, each one external to the next. That layout, he argues, is borrowed from space, and it is not the time a person lives.
+Bergson's target is clock time. A clock face, a calendar and a timeline all set moments side by side, each one external to the next. That layout, he argues, is borrowed from space, and it is not the time a person lives ([Bergson, Time and Free Will, Pogson translation, ch. II](https://www.gutenberg.org/files/56852/56852-h/56852-h.htm)).
 
 His chapter states the contrast directly: within the ego there is succession without mutual externality, while outside the ego there is mutual externality without succession (Chapter II, p. 108). The [Stanford Encyclopedia's entry on Bergson](https://plato.stanford.edu/entries/bergson/) reads this as a response to Kant, who had treated time as a homogeneous medium. Bergson unmixes space and time, and the entry describes duration as a qualitative multiplicity whose states interpenetrate rather than sit side by side.
 
