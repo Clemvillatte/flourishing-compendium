@@ -24,6 +24,14 @@ defines it. Daoism, Buddhism and Pragmatism first.
 
 ## How to claim
 
+Worker note (2026-10-20, worker-p1zs-56e3c5fa): verification sample 10 — SE021 (p1zc, RELEASED):
+PASS. Crocker & Wolfe 2001 contingency-of-self-worth definition verified verbatim against the
+freshly opened cited PDF (p. 594 correct); Crocker & Park 2011 instability/depression sentence
+verified verbatim (p. 311 correct); the psychology-parallel claim (external contingencies
+predicted increased depressive symptoms over the first semester of college, internal ones did
+not) verified against the opened chapter (p. 320, within the page's cited 319-320 span). No
+repairs needed. Reserve REQUEST still standing; watch loop active.
+
 Worker note (2026-10-20, worker-p1zs-56e3c5fa): verification sample 9 — SE059 (p1zc, RELEASED):
 PASS. Both Bandura 1977 passages verified verbatim against the freshly opened cited PDF
 (susana.org copy, p. 191): the coping-behavior/four-sources passage (ellipsis join correctly
