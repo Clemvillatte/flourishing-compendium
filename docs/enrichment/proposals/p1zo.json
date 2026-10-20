@@ -1,6 +1,6 @@
 {
  "batch": "p1zo",
- "revision": 16,
+ "revision": 17,
  "reciprocal": [
   {
    "into": "Identity development",
@@ -47,8 +47,8 @@
   {
    "into": "Generalized trust",
    "link": "SO062",
-   "why": "the social-capital-as-community-resource principle, sibling of the already-linked SO038 (trust as social capital)",
-   "notes": "Page mentions social capital in its well-being sentence and links SO038 but not SO062; evidence in sources/p1zo/SO062.md."
+   "why": "treats social trust as part of a shared community resource",
+   "notes": "Page mentions social capital in its well-being sentence and links SO038 but not SO062; the already-linked SO038 observation recorded here as audit context. Evidence in sources/p1zo/SO062.md."
   }
  ],
  "inline": [],

@@ -36,10 +36,11 @@
   "SO039": "QC history: item-15 milestone rounds 2-3 repairs applied and re-validated. Inherited parallels claims kept as found, unverified. See sources/p1zo/SO039.md",
   "SO040": "QC history: item-15 milestone round 2 repairs applied and re-validated. Inherited parallels claims kept as found, unverified. See sources/p1zo/SO040.md",
   "SO048": "QC history: item-15 milestone rounds 2-3 repairs applied and re-validated. Inherited parallels claims kept as found, unverified. See sources/p1zo/SO048.md",
-  "SO053": "inherited parallels not certified: Marmot 2004 status syndrome / Sapolsky 2005 / Wilkinson & Pickett 2009 claims kept as found; see sources/p1zo/SO053.md"
+  "SO053": "inherited parallels not certified: Marmot 2004 status syndrome / Sapolsky 2005 / Wilkinson & Pickett 2009 claims kept as found; see sources/p1zo/SO053.md",
+  "SO062": "Reopened for QC: QC correction: inline citations, carrier-language removal, proposal why repair"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T12:40:08+00:00",
+ "updated": "2026-10-20T12:41:22+00:00",
  "band_done": false
 }

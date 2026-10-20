@@ -12,13 +12,15 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SO — Sociocul
 ---
 > **Principle 62** — Treat social capital as a community resource
 
-Brett Reeder's summary of Putnam's Bowling Alone (2000) describes a decline in American social capital during the late twentieth century, across measures including civic participation and mutual trust (Putnam, 2000, pp. 19 and 287, as carried by the opened summary). Kawachi and colleagues analysed data from 167,259 people in 39 US states: residents of the lowest-trust states had higher adjusted odds of reporting fair or poor health than residents of high-trust states (Kawachi et al., 1999). This was an association between state-level trust and self-rated health, not evidence that joining a neighbourhood group improves health.
+Brett Reeder's summary of Putnam's Bowling Alone (2000) describes a decline in American social capital during the late twentieth century, across measures including civic participation and mutual trust. ([Reeder's summary](https://www.uvu.edu/ccs/docs/putnam_bowling_alone.pdf))
+
+Kawachi and colleagues analysed data from 167,259 people in 39 US states: residents of the lowest-trust states had higher adjusted odds of reporting fair or poor health than residents of high-trust states. ([Kawachi et al., 1999](https://pmc.ncbi.nlm.nih.gov/articles/PMC1508687/)) This was an association between state-level trust and self-rated health, not evidence that joining a neighbourhood group improves health. ([Kawachi et al., 1999](https://pmc.ncbi.nlm.nih.gov/articles/PMC1508687/))
 
 > "Social capital consists of features of social organization--such as trust between citizens, norms of reciprocity, and group membership--that facilitate collective action." (Kawachi et al., 1999, abstract: Objectives)
 
 **Plain words** Think about the people who could organise help across your neighbourhood. This principle treats those connections as something worth supporting together. As a practical step, you might help run a group or contribute to an arrangement you already use.
 
-*For example (imagined):* A parents' group organises meals for households with a new baby. You volunteer to coordinate the next rota, helping maintain an arrangement other families can use.
+**For example (imagined):** A parents' group organises meals for households with a new baby. You volunteer to coordinate the next rota, helping maintain an arrangement other families can use.
 
 ## Psychology parallels
 
