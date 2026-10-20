@@ -19,6 +19,7 @@ The doctrine has a boundary. Some acts, such as theft or adultery, admit no righ
 
 ## Related concepts
 
+- [[Right effort]] — the Buddha's tuning image for persistence: strings too taut or too loose are both out of tune (Sona Sutta, AN 6.55)
 - [[Virtue]] — moral virtue, which this chapter characterizes as a mean between excess and defect
 
 ## Sources
@@ -26,6 +27,7 @@ The doctrine has a boundary. Some acts, such as theft or adultery, admit no righ
 - Aristotle
 
 - [Aristotle, Nicomachean Ethics, Book II ch. 5-6, W. D. Ross translation (MIT Classics)](http://classics.mit.edu/Aristotle/nicomachaen.2.ii.html) — the definition of virtue as a mean and the right-times passage
+- [Sona Sutta: About Sona (AN 6.55), Thanissaro Bhikkhu translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/an/an06/an06.055.than.html) — the lute image for tuning persistence
 
 [[BI010 — Recognise that the body can be used to regulate the mind — bottom-up regulation]]
 [[K152 — Committed action]]

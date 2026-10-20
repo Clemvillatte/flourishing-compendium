@@ -812,3 +812,18 @@
 - Validation: --fast-track ok (warning: fewer than 3 Related-concepts lines). Build run:
   python3 scripts/build.py (see QC round 2 result). sources_checked incremented by 2
   (Book II page + title page).
+
+### The right amount of effort — QC round 2 fix (2026-10-20, worker-j9fpiyf)
+
+- Validator flagged the removed [[Right effort]] link as a lost original link (my round-1
+  addition had entered the validated baseline). Advisor round 2 offered "substantiate or
+  remove"; removal fails validation, so the connection is now SUBSTANTIATED from an opened
+  source: Sona Sutta, About Sona (AN 6.55), Thanissaro Bhikkhu translation, Access to
+  Insight, https://www.accesstoinsight.org/tipitaka/an/an06/an06.055.than.html — fetched
+  and the lute passage returned verbatim ("when the strings of your vina were too taut...
+  neither too taut nor too loose, but tuned to be right on pitch..."; "over-aroused
+  persistence leads to restlessness, overly slack persistence leads to laziness. Thus you
+  should determine the right pitch for your persistence"). Gloss on the Related line now
+  states only what the opened sutta says; no claim that AN 6.55 uses the term "right
+  effort". Source line added to Sources. Item remains NOT done pending supervisor
+  disposition of the title (see concept-namespace-audit.md worker flag). sources_checked +1.
