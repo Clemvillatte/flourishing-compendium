@@ -53,29 +53,29 @@ Band: p1zv (Stoic principles S039–S126, ranks 1172–1201). Worker: worker-p1z
 **Source opened and raw-verified:**
 1. Seneca, On Anger (De Ira), Book II, Aubrey Stewart translation (1900), Project Gutenberg #64576 — https://www.gutenberg.org/files/64576/64576-0.txt — raw text downloaded to qc/seneca-minor-dialogs.txt.
    - "all the motions which take place without our volition ... no reasoning can prevent their taking place." (II.2) — FULL MATCH. Note: the source uses curly apostrophes ("Men’s"); the quoted span on the page reproduces them verbatim.
-   - "Anger is that which goes beyond reason ... proceeds from choice and deliberate resolve." (II.3) — FULL MATCH (curly apostrophe in "man’s").
+   - "Anger is that which goes beyond reason ... proceeds from choice and deliberate resolve." (II.3) — FULL MATCH (curly apostrophe in "man’s"). Previously used quotation, removed at milestone QC; the current second quotation is the II.4 stages passage: "Furthermore ... whether or no." — FULL MATCH; the raw text contains a printed page marker "{80}" after "injured," which is stripped per the disclosed convention; inner quotation marks are the source's curly doubles, reproduced verbatim.
    - "The greatest remedy for anger is delay" (II.29, inline fragment) — FULL MATCH.
    - Section numbers are Stewart's own Book II section markers (II, III, XXIX), checked directly in the raw text.
 
 **Validator:** first run FAILED ("original wikilink markup changed or removed") — I had shortened the parallel aliases; restored the original wikilink markup exactly and dropped only the claim-bearing clause ("the gap between stimulus and response as the site of regulation"). Second run ok.
 
-**Saturation:** mention "first movement" — S061 and S129 are principles (S061 is in this band); concept pages The discipline of assent, Urge surfing, Emotion regulation do not cite S049.
+**Saturation:** mention "first movement" — S061 and S129 are principles (S061 is in this band). Corrected check (milestone QC): the concept pages The discipline of assent, Urge surfing and Emotion regulation already cite S049; an earlier note claiming they did not was based on a shell-quoting bug and is an error.
 
-**Proposals:** 1 reciprocal — The discipline of assent.
+**Proposals:** none remaining — the The discipline of assent reciprocal was withdrawn as a duplicate at milestone QC.
 
 ## S052 — Practise the view from above (Principle 174)
 
 **Source opened and raw-verified:**
 1. Marcus Aurelius, Meditations, George Long translation, Project Gutenberg #15877 (raw text already in qc/med-long.txt).
-   - "Look down from above on the countless herds of men ... nor reputation, nor anything else." — Long's Book VII, section 30. FULL MATCH, complete sentences.
-   - "Thou art a little soul bearing about a corpse, as Epictetus used to say" — Long's Book XII, section 41. FULL MATCH as a fragment; the source continues with Long's editorial citation "(i. c. 19)" which is omitted from the quote, and the quote ends without terminal punctuation for that reason.
-   - Seed's standard-edition locators (Med. IV.1, VII.48, IX.30, XII.24) replaced with the verified Long locators; translator named in each locator.
+   - "Look down from above on the countless herds of men ... nor reputation, nor anything else." — Long's Book IX, section 30. FULL MATCH, complete sentences. (An earlier entry said "Book VII, section 30"; that was a locator error from assuming standard numbering, corrected after a direct book-heading check in the raw text.)
+   - "Thou art a little soul bearing about a corpse, as Epictetus used to say" — Long's Book IV, section 41. FULL MATCH as a fragment; the source continues with Long's editorial citation "(i. c. 19)" which is omitted from the quote, and the quote ends without terminal punctuation for that reason. Quotation discarded at milestone QC (unnecessary for the principle); recorded here for verification history only. (An earlier entry said "Book XII, section 41"; locator error, corrected.)
+   - Seed's standard-edition locators (Med. IV.1, VII.48, IX.30, XII.24) replaced with the verified Long locator (IX.30); translator named in each locator. The earlier Book VII/XII locators were my mistakes, not demonstrated differences between editions.
 
 **Validator:** ok. (Seed had two philosophy parallels jammed on one line; split into two lines, wikilink markup unchanged.)
 
-**Saturation:** mention "view from above" — the concept page The view from above already cites S052. Self-distancing and Awe concept pages do not.
+**Saturation:** mention "view from above" — the concept pages The view from above and Self-distancing already cite S052; only Awe does not. (An earlier entry said Self-distancing did not cite S052; based on the shell-quoting bug, error.)
 
-**Proposals:** 2 reciprocals — Self-distancing, Awe.
+**Proposals:** 1 reciprocal — Awe (the Self-distancing reciprocal was withdrawn as a duplicate at milestone QC).
 
 ## S054 — Distinguish between facts and interpretations (Principle 176)
 
@@ -85,9 +85,9 @@ Band: p1zv (Stoic principles S039–S126, ranks 1172–1201). Worker: worker-p1z
 
 **Validator:** ok on first run.
 
-**Saturation:** Cognitive defusion and Mindfulness concept pages do not cite S054; Cognitive defusion is the strong analogue (mindfulness link is broader).
+**Saturation:** mention "interpretation" (full untruncated search inspected at verification round): the Cognitive defusion concept page already cites S054 (an earlier note claimed it did not; shell-quoting bug, error); the Mindfulness page does not cite S054 but is too broad to propose. Strong uncited candidates found and proposed at the verification round: Cognitive mediation of distress and Appraisal theory.
 
-**Proposals:** 1 reciprocal — Cognitive defusion.
+**Proposals:** 2 reciprocals (added at verification round) — Cognitive mediation of distress, Appraisal theory. The earlier Cognitive defusion reciprocal was withdrawn as a duplicate at milestone QC.
 
 **QC:** this is the 5th item of the band; milestone advisor QC follows this item (covers S043, S049, S052, S054).
 
