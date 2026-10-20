@@ -169,3 +169,15 @@ source; anything not opened is recorded as inherited and unverified.
   of waking life... predicts happiness") trimmed to a bare attribution.
 - Saturation: no new reciprocals; Mind wandering and Rumination already the
   linked targets.
+
+### B021 — Orient with right view (2026-10-20, light check)
+- SKIP-AHEAD item: page already at the bar (verbatim SN 12.15 blockquote with
+  linked source, non-replicate plain words, concrete example, Sources present).
+  Light check per the protocol: both quotations re-verified verbatim against a
+  fresh fetch of the cited Thanissaro SN 12.15 page (main blockquote and the
+  "remainderless fading & cessation" fragment); validator ok (pre-existing
+  no-Related-concepts warning only). Body labels its application; no edits
+  needed.
+- Inherited parallels (Lazarus and Folkman 1984, Husserl, SN 56.11): unopened,
+  kept as inherited; the Lazarus claim tail was already an attribution-level
+  description of appraisal theory, left as found.
