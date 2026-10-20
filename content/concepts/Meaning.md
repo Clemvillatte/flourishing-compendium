@@ -13,7 +13,7 @@ Viktor Frankl survived the camps and built a psychology around the claim that me
 
 > That is why I speak of a will to meaning in contrast to the pleasure principle (or, as we could also term it, the will to pleasure) on which Freudian psychoanalysis is cantered, as well as in contrast to the will to power on which Adlerian psychology, using the term "striving for superiority," is focused.
 
-In the second half of Man's Search for Meaning he sets out the routes plainly:
+In Man's Search for Meaning he sets out the routes plainly:
 
 > According to logotherapy, we can discover this meaning in life in three different ways: (1) by creating a work or doing a deed; (2) by experiencing something or encountering someone; and (3) by the attitude we take toward unavoidable suffering.
 
@@ -33,7 +33,7 @@ On this reading meaning is assembled from deeds, encounters, and stances. Frankl
 
 ### In the compendium
 
-- [[E010 — Practise the constitution of meaning]] — the core principle: meaning is constituted from deeds, encounters, and stances, and this page gives its raw material
+- [[E010 — Practise the constitution of meaning]] — a different account in the compendium: Husserlian constitution of meaning, where Frankl speaks of discovering it
 - [[PP023 — Distinguish meaning from happiness]] — meaning and positive feeling are different axes
 - [[AF072 — Recognise that positive affect alone is not flourishing; it is one component]] — the affective and the meaningful sides of flourishing are tracked separately
 - [[P159 — Defuse — see thoughts as thoughts]] — the raw material of meaning includes thoughts about one's own life, held lightly

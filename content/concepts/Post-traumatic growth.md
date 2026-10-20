@@ -26,7 +26,7 @@ Robert Neimeyer's constructivist work adds the mechanism the facets below record
 ### In the compendium
 
 - [[PP047 — Allow post-traumatic growth without forcing it]] — the page's clinical guard, made a principle
-- [[E064 — Practise meaning through the attitude toward suffering]] — the Franklian stance toward unavoidable suffering, which the growth literature studies
+- [[E064 — Practise meaning through the attitude toward suffering]] — the principle that states Frankl's third route, with his own guard that the suffering must be unavoidable
 - [[B180 — Turn mishaps into the path (lojong)]] — the contemplative analogue of treating adversity as material
 - [[A028 — Practice resilience in adversity]] — Bonanno's finding that resilience is more common than often believed
 - [[S092 — Treat adversity as training]] — the Stoic training frame for the same disposition
