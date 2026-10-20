@@ -51,3 +51,7 @@
 ## PP061
 - Abstracts: Diener, Oishi & Lucas 2003 (PubMed 12172000), Joshanloo 2014 (Springer page fetched), Uchida et al. 2004 (abstract opened earlier). Quotes verified verbatim.
 - Limits: full texts not opened; statement's 'The principle is not cultural relativism' and 'a practice works differently in collectivist contexts' only partly supported (abstracts show moderation of predictors, not practice-level transfer); body says so. Example hypothetical.
+
+## PP062
+- PubMed abstracts: Stone et al. 2010 (20479218), Carstensen et al. 2011 (20973600), Ryff 2014 (24281296); quotes verified verbatim.
+- Limits: Ryff & Krueger 2018 (inherited) and full texts not opened; illness/isolation adaptation and 'principles do not change' not supported by any opened source; body says so. Cross-sectional U-shape is population-level. Example hypothetical.

@@ -12,13 +12,23 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 ---
 > **Principle 62** — Adjust for the season of life
 
-What works at twenty may not work at forty. What works in health may not work in illness. What works in connection may not work in isolation. The principles of well-being do not change, but the practices that operationalise them must be adapted to the stage and circumstance of life. The adjustment is not dilution. It is calibration.
+Stone and colleagues analysed a 2008 US telephone survey of 340,847 people. They found that "Global WB and positive Hedonic WB generally had U-shaped age profiles showing increased WB after the age of 50 years", while "Stress and Anger steeply declined from the early 20s, Worry was elevated through middle age and then declined, and Sadness was essentially flat" (Stone et al., 2010, Proceedings of the National Academy of Sciences, [PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/20479218/)). So different parts of well-being follow different age paths.
 
-(Ryff, 2014; Ryff and Krueger, 2018.)
+Carstensen and colleagues followed adults for ten years with experience sampling. They report that "aging is associated with more positive overall emotional well-being, with greater emotional stability and with more complexity (as evidenced by greater co-occurrence of positive and negative emotions)" (Carstensen et al., 2011, Psychology and Aging, [PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/20973600/)). Ryff's review lists how "well-being changes across adult development and later life" as one of six research areas and finds that psychological well-being has "health protective features" (Ryff, 2014, Psychotherapy and Psychosomatics, [PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/24281296/)).
 
-**Plain words** The principles don't change with age or circumstance, but the practices do. What works at twenty may not work at forty; what works in health may not work in illness. Adjusting is calibration, not dilution.
+None of these abstracts tests what happens during illness or isolation, or shows that the basic principles stay fixed while the practices change. That part of the principle remains the wiki's own reasoning.
 
-*For example:* A meditation practice built for a busy parent of three, ten minutes at the kitchen table, not an hour at dawn.
+**Plain words**
+Needs and moods shift across a life. Stress and anger tend to ease with age, and many people feel better after fifty. Check which of your practices still fit your age and circumstances, and adjust them without lowering the standard.
+
+**For example**
+A runner in her fifties who once trained for speed switches to training for health and enjoyment, with a plan she can keep for years.
+
+## Sources
+
+- [Stone et al. (2010), A snapshot of the age distribution of psychological well-being in the United States, PNAS](https://pubmed.ncbi.nlm.nih.gov/20479218/): abstract opened
+- [Carstensen et al. (2011), Emotional experience improves with age, Psychol. Aging](https://pubmed.ncbi.nlm.nih.gov/20973600/): abstract opened
+- [Ryff (2014), Psychological well-being revisited, Psychother. Psychosom.](https://pubmed.ncbi.nlm.nih.gov/24281296/): abstract opened
 
 ## Psychology parallels
 
