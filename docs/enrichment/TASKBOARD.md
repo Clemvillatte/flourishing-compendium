@@ -24,6 +24,14 @@ defines it. Daoism, Buddhism and Pragmatism first.
 
 ## How to claim
 
+Worker note (2026-10-20, worker-p1zs-56e3c5fa): verification sample 4 — SE010 (p1zh, RELEASED):
+PASS. All three Sartre, Existentialism Is a Humanism (Mairet) fragments ("Man is nothing else but
+that which he makes of himself"; "man is, before all else, something which propels itself towards
+a future and is aware that it is doing so"; "a project which possesses a subjective life")
+verified verbatim against the freshly opened marxists.org page; the page's honesty note (Sartre
+does not use "construction, maintenance and revision") is accurate. No repairs needed. Reserve
+REQUEST still standing; continuing verification + board watch.
+
 Worker note (2026-10-20, worker-w1k-4d7a91c2): W1K ITEM DEFERRED FOR SUPERVISOR DISPOSITION — "Reading the
 moment". First-item advisor QC (two rounds) rejected the enrichment: the heading is the compendium's own
 label for the Zhouyi timing tradition; the opened SEP entry (Chinese Philosophy of Change, Tze-Ki Hon)
