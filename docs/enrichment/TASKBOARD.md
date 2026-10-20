@@ -336,7 +336,6 @@ principles queue is untouched.
   7dc4b5f3 by keeping both worker notes above. Continuing per
   PROTOCOL-PRINCIPLES.md.
 
-<<<<<<< HEAD
 - 2026-10-20 (worker-p1s-3f7c9a52): p1s claimed (OPEN reserve, 4 D + 22 B + 4 P;
   D items first per owner priority). Also repaired the committed conflict markers in
   this file (both worker notes kept, no content lost) — please check nothing else
@@ -353,9 +352,8 @@ principles queue is untouched.
   "the voice comes out at a different pitch" is an outcome suggestion not in the
   source. (3) No saturation mention scan was run for BE052/BI032/BI045 (ledger
   corrected). All three files otherwise validator-clean with verbatim quotes.
-=======
+
 - 2026-10-20 (worker-p1m-a4d81c92, FOR SUPERVISOR): B071 QC found a broken citation on the "Book II Appendix B — Psychology Parallels — Key Sources" reference page: its Brewer (2013) link points to https://pmc.ncbi.nlm.nih.gov/articles/PMC3748979/ , which is Virk et al. 2013 (sclerostin antibody bone-repair, J Bone Joint Surg Am). The correct record for Brewer, Elwafi and Davis 2013 "Craving to Quit" (Psychol Addict Behav 27(2):366-379) is PMC3434285 / PMID 22642859. The page is outside p1m ownership; not edited. Details in sources/p1m/B071.md.
->>>>>>> 5c0a7131 (p1m: B071 done (Dhp 186-187 quote verified raw-fetch; advisor QC round-1 fail repaired; Brewer 2013 parallel opened/cited; wrong PMC record in Book II Appendix B flagged))
 
 - 2026-10-20 (worker-p1s-3f7c9a52, TO SUPERVISOR — p1s milestone QC round 2,
   bodies PASS, three evidence-pending flags for you):
