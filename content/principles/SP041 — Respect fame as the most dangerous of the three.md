@@ -12,13 +12,13 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 41** — Respect fame as the most dangerous of the three
 
-Of the conventional goods, Spinoza singles out esteem: it is the most seductive because it attaches to the whole person and requires perpetual maintenance, since the crowd's love must be re-won daily. The rich man can stop acquiring; the famous cannot stop performing. Practically, if you have an audience for anything you do, schedule work that has no audience at all, and notice how much of your energy the audience was consuming.
+In the Treatise on the Emendation of the Intellect, Spinoza compares the three ordinary goods — riches, fame, and the pleasures of sense — and writes that in the case of fame the mind is still more absorbed, because fame is conceived as always good for its own sake, and as the ultimate end to which all actions are directed. The more of riches and fame we acquire, he adds, the greater our delight and the more we are incited to increase. ([Treatise on the Emendation of the Intellect [4]-[5], Elwes tr.](https://www.gutenberg.org/ebooks/1016)) The compendium's application is to choose a task with no audience and ask which decisions you would make differently.
 
-(Treatise on the Emendation of the Intellect, sections 4-7, the esteem analysis.)
+> "Fame has the further drawback that it compels its votaries to order their lives according to the opinions of their fellow-men, shunning what they usually shun, and seeking what they usually seek." (Treatise on the Emendation of the Intellect [5], Elwes tr., [Gutenberg #1016](https://www.gutenberg.org/ebooks/1016))
 
-**Plain words** Of the three, esteem is the most dangerous: it attaches to the whole person and requires perpetual maintenance — the crowd's love must be re-won daily. The rich man can stop acquiring; the famous one can't. Respect the danger of fame precisely because it feels like who you are.
+**Plain words** When fame becomes an end in itself, the danger described here is arranging your life around other people's preferences ([TIE [5], Elwes tr.](https://www.gutenberg.org/ebooks/1016)). This page's proposed exercise is to choose a task with no audience and ask which decisions you would make differently.
 
-*For example:* The creator who finally has "the audience" — and discovers it's a treadmill: the algorithm's love, re-won daily, rented never owned. The money was purchasable at a fixed price; the esteem is a subscription that auto-renews anxiety.
+**For example (imagined):** A creator who finally has an audience notices the pattern Spinoza describes: the more approval arrives, the more they are incited to seek, and their choices quietly bend toward what the audience usually rewards. They set aside work with no audience and ask which decisions they would make differently.
 ## Psychology parallels
 
 - **[[Contingent self-esteem|Contingent self-worth on approval]]**, the instability of externally-anchored esteem (Crocker, 2002)
@@ -27,3 +27,7 @@ Of the conventional goods, Spinoza singles out esteem: it is the most seductive 
 
 - **[[The approval trap|The approval trap]]** (Fromm, Escape from Freedom)
 - **[[The wise man's indifference to reputation|The wise man's indifference to reputation]]** (Seneca, Letters 76)
+
+## Sources
+
+- [Spinoza, B. (1677). Treatise on the Emendation of the Intellect [4]-[5]. Trans. R. H. M. Elwes, Gutenberg #1016](https://www.gutenberg.org/ebooks/1016)

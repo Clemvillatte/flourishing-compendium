@@ -46,3 +46,26 @@ Items: SP004, SP006, SP008, SP009, SP011 (2026-10-21).
 - Lesson recorded: two ledger replacements silently skipped for mismatched
   anchors in the closeout round (caught by re-reading the files before
   pushing); every ledger edit now gets an asserted anchor like file edits.
+
+## Milestone QC (takeover items 11-14, final): round 1 FAIL -> repairs applied
+
+Items: SP015, SP023, SP024, SP041 (2026-10-21).
+
+- Round 1 (advisor): FAIL for all four — SP015 opening duplicated the
+  blockquote and the plain words made a prediction the proposition does not
+  support; SP023's blockquote locator was wrong (the "despised by all men"
+  passage sits in the Explanation to Definition XXVIII, Pride, not XXVI,
+  Humility — verified by re-reading the uninterrupted XXV-XXIX block) and the
+  plain words misread humility as an inaccurate self-estimate; SP024's
+  blockquote was truncated mid-sentence and the body slid from same-object
+  vacillation to general mood oscillation; SP041 attributed a "keep work with
+  no audience" remedy to Spinoza and asserted a "most dangerous" ranking the
+  text's "still more absorbed" comparison does not establish.
+- Repairs applied sequentially through the state machine (reopen -> repair ->
+  validate -> done), each edit with asserted anchors; two overreaching
+  reciprocal records withdrawn (Emotional contagion for SP015, Self-efficacy
+  for SP023); reader-facing Sources entries made bibliographic (the
+  removed-draft accounts stay in the ledgers); band_done NOT set manually —
+  the state machine's `finish` command is the authorized writer.
+- Baseline validation vs fc8c8bb6b: 4 checked, 0 failed; content, ledger and
+  proposal diffs inspected. Round 2 submission pending.

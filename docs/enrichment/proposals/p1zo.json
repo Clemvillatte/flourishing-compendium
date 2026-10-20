@@ -1,6 +1,6 @@
 {
  "batch": "p1zo",
- "revision": 22,
+ "revision": 23,
  "reciprocal": [
   {
    "into": "Identity development",
@@ -67,18 +67,6 @@
    "link": "SP006",
    "why": "the principle that states the parallelism this concept explains: one thing, two attributes, correspondence without interaction",
    "notes": "Concept page describes Spinoza's solution but links no SP principle; evidence in sources/p1zo/SP006.md (Ethics II P7 + III P2 scholium verbatim from the opened Elwes text)."
-  },
-  {
-   "into": "Emotional contagion",
-   "link": "SP015",
-   "why": "The page already cites SP015; the proposal adds the reverse-direction rationale: Spinoza's III P27 imitation mechanism is the source Spinoza gave for what Hatfield et al. measured experimentally",
-   "notes": "Concept page links SP015 in psychology parallels; verified the principle body now quotes III P27 verbatim (sources/p1zo/SP015.md)."
-  },
-  {
-   "into": "Self-efficacy",
-   "link": "SP023",
-   "why": "Spinoza's self-approval (pleasure from contemplating one's own power of action) is the structural ancestor of competence-based efficacy belief; the principle's exercise of building one real competence per season names the same mechanism Bandura operationalised",
-   "notes": "Self-efficacy concept page does not yet link SP023 (verified); Contingent self-esteem page already links it, so no record needed there."
   }
  ],
  "inline": [],
