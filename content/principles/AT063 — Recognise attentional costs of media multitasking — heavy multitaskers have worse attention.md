@@ -18,7 +18,7 @@ The evidence behind this principle is an association, not a training experiment.
 
 Participants were grouped by reported media habits rather than assigned to acquire those habits. These comparisons do not determine whether media use caused the observed differences. (Ophir et al., 2009.)
 
-The finding has since been tested again. Wiradhany and Nieuwenstein report two replication studies in which only five of fourteen tests showed the predicted direction of increased distractibility, and a meta-analysis of 39 effect sizes whose weak association turned nonsignificant after correction for small-study effects; they conclude by questioning the existence of an association between media multitasking and distractibility in laboratory tasks of information processing. The compendium keeps this principle's title claim as the original study's association, read against that later record. (Wiradhany & Nieuwenstein, 2017.)
+The finding has since been tested again. Wiradhany and Nieuwenstein report two replication studies in which, of 14 tests, five yielded statistically significant effects in the predicted direction, and two of those effects held in a more conservative Bayesian analysis; their meta-analysis of 39 effect sizes yielded a weak association that turned nonsignificant after correction for small-study effects, and they conclude by questioning the existence of an association between media multitasking and distractibility in laboratory tasks of information processing. The compendium keeps this principle's title claim as the original study's association, read against that later record. (Wiradhany & Nieuwenstein, 2017.)
 
 **Plain words**
 In that study, the group reporting more simultaneous media use had more trouble ignoring information that was irrelevant to the tests. This group comparison cannot tell you that your own media habits caused an attention problem, and later replications questioned whether the association holds in laboratory tasks at all.
@@ -28,7 +28,7 @@ In that study, the group reporting more simultaneous media use had more trouble 
 ## Sources
 
 - [Ophir, Nass & Wagner (2009), Cognitive control in media multitaskers, PNAS 106(37):15583-15587](https://pmc.ncbi.nlm.nih.gov/articles/PMC2747164/)
-- [Wiradhany & Nieuwenstein (2017), Cognitive control in media multitaskers: two replication studies and a meta-analysis, Attention, Perception & Psychophysics 79:1262-1287](https://pmc.ncbi.nlm.nih.gov/articles/PMC5662702/)
+- [Wiradhany & Nieuwenstein (2017), Cognitive control in media multitaskers: two replication studies and a meta-analysis, Attention, Perception & Psychophysics](https://pmc.ncbi.nlm.nih.gov/articles/PMC5662702/)
 ## Psychology parallels
 
 - **Media multitasking and attention (Ophir et al., 2009)**, one study found heavy media multitaskers more susceptible to interference (Ophir et al., 2009; replications questioned by Wiradhany & Nieuwenstein, 2017)

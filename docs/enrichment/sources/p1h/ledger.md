@@ -604,3 +604,27 @@ each repaired text now carries QC-pending status pending the advisor's re-review
   edited by me), Designing for virtue, Feng shui.
 - Explicit-baseline validation run vs 6d7702ef (pre-batch checkpoint): 5 checked,
   0 failed (recorded below with actual output).
+
+### Milestone QC round 3 for items 6-10 (2026-10-20, worker-p1h-7d3e9c4a)
+
+- Advisor round 3: AT049/AT051/AT067 PASS. AT042 and AT063 corrections applied:
+  AT042 — the unopened Van Dongen/Belenky chronic-restriction parallels bullet removed;
+  the Practice section's "7-9 hours for adults" prescription replaced with the
+  sleep-and-attention recording exercise (the 7-9h recommendation was not from an
+  opened source). AT063 — the replication sentence now matches the opened abstract
+  ("of 14 tests, five yielded statistically significant effects in the predicted
+  direction, and two of those effects held in a more conservative Bayesian
+  analysis"); the unverified "79:1262-1287" citation range omitted from the Sources
+  line.
+- Read-record correction (advisor): the earlier "full linked-concept reads" claims
+  described EXCERPTS (sed line ranges) of 12 concept pages, not complete reads.
+  This round the 12 outgoing concept targets were read in full (complete files,
+  including Wu wei's 361 lines): Yangsheng, Care, The importance of rest, Anapanasati,
+  Qi, Metta, Agape, Ren, Wu wei, Right concentration, Designing for virtue, Feng shui.
+  No conflicts with the repaired principle bodies (Right concentration's own line
+  "AT063 records the attentional costs of heavy media multitasking" is that page's
+  inherited summary; AT063's repaired body is the more scoped text; not edited by
+  me, outside my band).
+- Explicit-baseline validation rerun vs 6d7702ef for all five files: 5 checked,
+  0 failed (actual output above). QC-pending: AT042/AT063 corrections submitted for
+  advisor re-review; AT049/AT051/AT067 approved, no repeat prose review needed.

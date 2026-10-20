@@ -29,7 +29,6 @@ These studies found substantial effects on lapses in simple attention after exte
 ## Psychology parallels
 
 - **Sleep deprivation impairs attention**, effects on attention measures were found after short-term total sleep deprivation (Lim & Dinges, 2010)
-- **Chronic sleep restriction produces cumulative deficits**, weeks of mild sleep restriction accumulate attentional impairment (Van Dongen et al., 2003; Belenky et al., 2003)
 - **Sleep and attention are linked in the research reviewed**, the meta-analysis found effects on attention measures after short-term total sleep deprivation (Lim & Dinges, 2010)
 
 ## Philosophy parallels
@@ -40,4 +39,4 @@ These studies found substantial effects on lapses in simple attention after exte
 
 ## Practice
 
-- Protect sleep as the foundation of attention. 7-9 hours for adults. Do not expect good attention on bad sleep. If attention is poor, check sleep first.
+- As a compendium exercise, record when you went to bed, when you woke, and how sessions of following a task went, and compare across occasions without assuming a cause from one observation.
