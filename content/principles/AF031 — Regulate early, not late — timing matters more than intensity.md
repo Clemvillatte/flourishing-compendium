@@ -12,11 +12,13 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 31** — Regulate early, not late: timing matters more than intensity
 
-Intervening early in an emotional episode is more effective than intervening once the emotion has peaked. Once an emotion is highly activated, cognitive strategies (reappraisal) become less effective and behavioural strategies (suppression) become more necessary but more costly.
+In their account of emotion regulation effectiveness, Sheppes and Gross distinguish early-selection strategies, which block emotional information before it gathers force, from late-selection strategies, which attend to the information and reinterpret it. Reappraisal, a late-selection strategy, is effective at low emotional intensity but becomes costly and effortful at high intensity; early-selection distraction provides short-term relief from high-intensity stimuli with minimal effort. ([Sheppes & Gross, 2012](https://people.socsci.tau.ac.il/mu/galsheppes/files/2016/11/Sheppes-Gross-2012.pdf)) The compendium's application is to notice an emotion while it is still small enough that the interpretive strategy is cheap, rather than waiting for the peak.
 
-**Plain words** Intervening early in an emotional episode beats intervening at the peak — once highly activated, cognitive strategies weaken and behavioural ones carry the load. Regulate early, not late: timing matters more than intensity.
+> "reappraisal is effective in the context of a low intensity emotional response, but it becomes costly and effortful in the context of a high intensity emotional response." (Sheppes, G., & Gross, J. J. (2012). Emotion Regulation Effectiveness: What Works When)
 
-*For example:* The person who waits until full fury to deploy the tools — peak is too late, the tools don't work — and the one who catches the first warmth in the chest at 20% activation, where one sentence still turns it. Same tools; different clocks.
+**Plain words** The finding behind this page: the think-it-through strategy is cheap when a feeling is small and expensive when it is large, while the look-away strategy works either way but only for now. The exercise: name the feeling early, while the thinking strategy still costs little.
+
+**For example (imagined):** The person who catches the first warmth of anger at low activation can still reframe; the one who waits for full fury has only the look-away option left.
 ## Psychology parallels
 
 - **[[Temporal dynamics of regulation|Temporal dynamics of regulation]]**, reappraisal is more effective when applied early; suppression is more necessary when applied late (Sheppes & Gross, 2012)
@@ -30,3 +32,7 @@ Intervening early in an emotional episode is more effective than intervening onc
 ## Practice
 
 - Learn to notice early bodily signals (tight chest, shallow breath) and intervene before the emotion peaks. This is more efficient than trying to regulate a full-blown emotional episode.
+
+## Sources
+
+- [Sheppes, G., & Gross, J. J. (2012). Emotion Regulation Effectiveness: What Works When. Handbook of Psychology](https://people.socsci.tau.ac.il/mu/galsheppes/files/2016/11/Sheppes-Gross-2012.pdf) — chapter full text opened via the author-hosted PDF; the blockquote is verbatim
