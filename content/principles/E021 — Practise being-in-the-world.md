@@ -12,13 +12,21 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 413** — Practise being-in-the-world
 
-Recognise that you are always already in a world. There is no subject that first exists and then encounters a world; your existence is constituted by your being-in-the-world. Do not seek to escape the world; seek to inhabit it authentically.
+Heidegger treats being-in-the-world as a unified structure, rather than a subject existing independently and later establishing contact with a world ([Being and Time, §12, Macquarrie and Robinson translation](https://dhspriory.org/kenny/PhilTexts/Heidegger/BeingTime02.doc)). Being-in is not simply a body's location, like water in a glass: it includes familiar involvement through making, using, attending and other ways of concern ([§12](https://dhspriory.org/kenny/PhilTexts/Heidegger/BeingTime02.doc)).
 
-(Heidegger, 1927/2008, Being and Time, §§12-13, 25-27.)
+> This primary datum must be seen as a whole.
 
-**Plain words** You are always already in a world — there's no subject that first exists and then encounters one; existence is being-in-the-world. Don't seek to escape the world; seek to inhabit it authentically. There is no elsewhere.
+(Heidegger, Being and Time, §12, opening discussion of the compound expression; [opened text](https://dhspriory.org/kenny/PhilTexts/Heidegger/BeingTime02.doc).)
 
-*For example:* The person perpetually planning the escape — the next city, the next job, the next life — who finally notices the constant: they're in every one of those scenes, unescaped. The world isn't the trap; the refusal to be in it is.
+### Plain words
+
+Try describing what you are doing through the materials, purposes and surroundings involved. You need not imagine yourself as a detached observer before asking how you belong in the situation.
+
+This is a reading exercise, not an instruction to stay in an unsafe place or abandon a needed change. The question is how you are involved, not whether leaving would make you inauthentic.
+
+### For example
+
+Imagine preparing an essay at a library. You could notice the books, desk, habits and questions that make this activity possible, rather than describing it only as thoughts occurring inside your head.
 ## Psychology parallels
 
 - **[[Embedded cognition|Embedded cognition]]** (Robbins and Aydede, 2009; Clark, 2008)
@@ -27,4 +35,5 @@ Recognise that you are always already in a world. There is no subject that first
 ## Philosophy parallels
 
 - **[[Being-in-the-world|Being-in-the-world (In-der-Welt-sein)]]** (Heidegger, Being and Time)
-- **[[Dasein|Dasein]]** (Heidegger, Being and Time)- **[[Being-in-the-world|Being-in-the-world]]** (Existentialism & Phenomenology)
+- **[[Dasein|Dasein]]** (Heidegger, Being and Time)
+- **[[Being-in-the-world|Being-in-the-world]]** (Existentialism & Phenomenology)
