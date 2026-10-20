@@ -1,6 +1,6 @@
 {
  "batch": "p1zw",
- "revision": 11,
+ "revision": 12,
  "reciprocal": [
   {
    "into": "Anatta",
@@ -67,6 +67,12 @@
    "link": "K059",
    "why": "listed for comparison: the relapse-prevention exercise of watching a craving crest and decline like a wave beside Tilopa's instruction to let thoughts arise and subside on their own, like ripples on water.",
    "notes": "Saturation scan 2026-10-21 (K059 item): the Urge surfing concept describes the Larimer-Palmer-Marlatt observer exercise with sourced material but does not link K059; both use the same wave image in clinical and contemplative registers. The Ironic process concept already links K059."
+  },
+  {
+   "into": "SE006",
+   "link": "K021",
+   "why": "listed for comparison: James's body as the innermost part of the material self beside Nishida's historical body as co-creator of the world, two accounts of the body belonging to the self.",
+   "notes": "Saturation scan 2026-10-21 (K021 item): SE006's body quotes James's Principles of Psychology ch. X (sourced on its page) but does not link K021; K021 now quotes the SEP historical-body passage. The tool-being of equipment concept already links K021."
   }
  ]
 }

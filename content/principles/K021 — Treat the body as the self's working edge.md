@@ -12,13 +12,20 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 21** — Treat the body as the self's working edge
 
-Nishida's late essays describe the self as a "historical body" that works with tools: the body is not a vehicle the self drives but the self's own way of being in the world. When the hammer is used skillfully, the self extends into the hammer; the boundary of the body is drawn by the activity, not by the skin. Practically, respect the tool-extension of your body (instruments, spaces, routines) as part of yourself, and curate it accordingly.
+Nishida introduced the notion late, as the Stanford Encyclopedia's account records:
 
-(Nishida, the historical world essays.)
+> "Gradually Nishida came to recognize the importance of embodiment for human interaction and communication, and introduced the notion of the expressive or historical body. The body is not primarily a physical object and product of the natural world, but a historical subject and co-creator of the world." (John Maraldo, [Stanford Encyclopedia of Philosophy: Nishida Kitaro, Theory of the Historical World](https://plato.stanford.edu/entries/nishida-kitaro/))
 
-**Plain words** The body isn't a vehicle the self drives; it's the self's own way of being in the world. When you use a hammer well, you extend into it. The edge of your body is drawn by activity, not skin. Respect the tools and spaces that have become part of you.
+The same account locates the working edge at the instruments: scientific experimentation "provides an example of enactive intuition insofar as experiments require the performance of a body acting and understanding through instruments (NKZ VIII, 326)", and it stresses that for Nishida "enactive intuition is a bodily achievement, the performance of an embodied individual who in turn is formed by the world", with "both body and world... conceived as historical". The body in this late picture sits on the doing side of the self: formed by the world, and forming it through whatever it works with. ([SEP: Nishida Kitaro](https://plato.stanford.edu/entries/nishida-kitaro/))
 
-*For example:* A pianist who loses her instrument after a house fire grieves like she's lost a limb. That's accurate, not dramatic.
+**Plain words**
+Nishida's late picture puts the body on the doing side of the self. When a scientist runs an experiment, the knowing happens through instruments in hand; the self doing the work reaches as far as the apparatus. Treat the instruments, spaces and routines your work runs through as part of the worker.
+
+For example: A pianist who loses her instrument after a house fire grieves it like a lost limb.
+
+## Sources
+
+- [John Maraldo, Stanford Encyclopedia of Philosophy: Nishida Kitaro](https://plato.stanford.edu/entries/nishida-kitaro/) — Theory of the Historical World section (historical-body passage) and Enactive Intuition section (instruments passage, NKZ VIII, 326; bodily-achievement passage), quoted verbatim from the opened page
 
 ## Psychology parallels
 
