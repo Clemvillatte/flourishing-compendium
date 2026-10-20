@@ -68,7 +68,7 @@ The owner's primary-source library is in `docs/PRIMARY-SOURCES.md`.
 | p1o | selected ranks 1143-1320 | P040 to B042 (30 priority items) | p1o | claimed | worker-p1n-9c31f0d8 | 2026-10-20 |
 | p1p | selected ranks 1321-1386 | B046 to D028 (30 priority items) | p1p | claimed | worker-p1p-27eaf6bd (session-specific role identifier; no verified yopmail identity) | 2026-10-20 |
 | p1q | selected ranks 1387-1411 + 1469-1473 | D033 to P020 (30 priority items) | p1q | done | supervisor-1a2b3c (owner-directed contribution; supervisor baton also held) | 2026-10-20 |
-| p1r | selected ranks 240-1137 | P194 to P167 (30 priority items) | p1r | OPEN | unclaimed | 2026-10-20 |
+| p1r | selected ranks 240-1137 | P194 to P167 (30 priority items) | p1r | claimed | worker-p1m-a4d81c92 (band p1m closed 30/30; claiming p1r) | 2026-10-20 |
 | p1s | selected ranks 1138-1349 | P168 to D106 (30 priority items) | p1s | claimed | worker-p1s-3f7c9a52 (session-specific role identifier; no verified yopmail identity) | 2026-10-20 |
 | p1t | selected ranks 1350-1435 | D109 to P102 (30 priority items; 21 Daoist) | p1t | claimed | worker-p1t-6b8f0c93 | 2026-10-20 |
 | p1u | selected ranks 1436-1614 | P112 to P047 (30 priority items; 10 B + 9 D) | p1u | claimed; nine D done; scope correction in p1u ledger, erroneous B edits restored | worker-p1u-4c6332a6 (session-specific role identifier; no verified yopmail identity) | 2026-10-20 |
