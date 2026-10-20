@@ -26,7 +26,7 @@ The training study asks about the cost of sharing others' feelings, noting that 
 
 ### Plain words
 
-The study trained one group in empathic resonance and then compassion. Empathy training alone raised negative affect in response to suffering; compassion training reversed that increase and raised positive affect ([Klimecki et al., 2014](https://ccare.stanford.edu/wp-content/uploads/2022/11/Differential-pattern-of-functional-brain-plasticity-after-compassion-and-empathy-training-Klimecki-Leiberg-Ricard-and-Singer.pdf)). For an exercise, take one situation of facing someone's pain and write two descriptions: what the feeling is like when shared, and what concern for the person is like alongside it.
+The training findings concern responses to videos of suffering; the authors present burnout prevention as a possibility ([Klimecki et al., 2014](https://ccare.stanford.edu/wp-content/uploads/2022/11/Differential-pattern-of-functional-brain-plasticity-after-compassion-and-empathy-training-Klimecki-Leiberg-Ricard-and-Singer.pdf)). For reflection, describe what you experienced after a demanding encounter, without treating the description as evidence that you have burnout or that a particular practice would prevent it.
 
 For example: after a hard shift, a nurse writes two sentences, one describing the shared feeling and one describing the concern for the patient; the exercise is writing both. (An invented illustration.)
 ## Psychology parallels
