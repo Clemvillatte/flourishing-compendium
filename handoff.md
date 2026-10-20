@@ -73,8 +73,9 @@
   FAILED 6 of 7 items; all repairs applied and pushed: S107 (framing + Plain words), S113 (adoption fact
   grounded in Long's introduction; quotes re-verified; no page change), S117 (framing + Plain words),
   S122 (quotation punctuation defect repaired — blockquote had changed the source colon to a period;
-  review/writing conflation removed), S124 (IX.30 QUOTATION DEFECT found and repaired: the published
-  wording did not match Long's raw text, it came from the session summary — replaced with the verbatim
+  review/writing conflation removed), S124 (IX.30 QUOTATION DEFECT found and repaired: the published wording did not match Long's
+  raw text and was published without valid verbatim verification; the origin of the erroneous wording
+  has not been established — replaced with the verbatim
   "infinitely varied voyagings in storms and calms" sentence), S126 (I.9 splice split, example repaired,
   false precedent claim removed). S118 scoped PASS. All five remaining hubs read substantively
   (Resilience, Justice, Cosmopolitanism, Acceptance, Impermanence; Awe read for S124); proposals rev 14
