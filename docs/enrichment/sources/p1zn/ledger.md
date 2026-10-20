@@ -95,3 +95,8 @@
 - Opened: Seneca Letter 91 (Gummere, Wikisource; section 8); Letter 24 (checked, no usable premeditation passage located); Epictetus Enchiridion 3 (Carter); Koo et al. 2008 abstract (PMID 18954203).
 - Not opened: Seneca Letters 18, 107, 122; Med. III.1, III.6, VI.34; Disc. I.14, III.26; Oettingen 2014; Meichenbaum 1985; Taleb.
 - Note: "appreciate what is present" is the compendium's addition; Koo task subtracts a past event, not a future loss. The entry's philosophy parallel labels Seneca Letter 24 for premeditatio; Letter 91 is the passage found.
+
+## S093 — Do not complain
+- Opened: Epictetus Enchiridion 8 (Carter); Marcus Med. IV.49 (Long); Gross & John 2003 abstract (PMID 12916575).
+- Not opened: other Meditations, Seneca letters and Discourses refs; Gross 2015; Hayes 2011; Laozi 37.
+- Note: neither passage addresses spoken complaint; "complaining is the judgement..." is compendium paraphrase; Gross & John substituted for Gross 2015 as a nearby finding.

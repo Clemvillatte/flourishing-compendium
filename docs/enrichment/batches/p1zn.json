@@ -19,7 +19,8 @@
   "S055",
   "S080",
   "S083",
-  "S091"
+  "S091",
+  "S093"
  ],
  "in_progress": null,
  "flagged": {
@@ -41,9 +42,10 @@
   "S055": "Epictetus (Disc II.18) says pause and test the impression, not let it pass; 'visitor' and 'fighting gives it energy' are compendium gloss; also in tension with S050 only apparently; Hayes 2011/Heidegger/Laozi not opened",
   "S080": "Reform/anti-injustice half is the compendium's extension; 'Tolerance without indifference' is the compendium's label for James; Tyler 2006 and Hayes 2011 not matched/opened; psychology parallel left unverified",
   "S083": "'Compare only with yesterday's self' not found in Ench 25 (compendium formula); Meditations/Discourses refs, Festinger, Runciman, Laozi, Fromm not opened",
-  "S091": "Appreciation purpose is compendium's addition; Koo 2008 imagines absence of a past event, not future loss; entry labels premeditatio with Letter 24 but the passage found is Letter 91.8; other refs not opened"
+  "S091": "Appreciation purpose is compendium's addition; Koo 2008 imagines absence of a past event, not future loss; entry labels premeditatio with Letter 24 but the passage found is Letter 91.8; other refs not opened",
+  "S093": "Passages opened do not address spoken complaint (compendium reading); Gross & John 2003 is a nearby finding (not Gross 2015); Hayes 2011, Seneca/Disc refs, Laozi not opened"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T10:50:39+00:00"
+ "updated": "2026-10-20T10:51:13+00:00"
 }

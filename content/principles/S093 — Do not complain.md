@@ -12,13 +12,23 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 215** — Do not complain
 
-Complaining is the judgement that something should not be as it is. The Stoic accepts what is and works with it. Complaining wastes energy that could go to action or acceptance. Practise the discipline of non-complaint: when you catch yourself complaining, stop and ask what you can do.
+> Don't demand that things happen as you wish, but wish that they happen as they do happen, and you will go on well.
 
-(Med. IV.49, V.16, VI.16, VIII.4, VIII.9, XI.18; Seneca, Letters 13, 24, 67, 78, 107; Disc. I.6, I.14, I.18, III.20.)
+(Epictetus, Enchiridion 8, trans. Elizabeth Carter, [Internet Classics Archive](https://classics.mit.edu/Epictetus/epicench.html), page opened.)
 
-**Plain words** Complaining is judging that things shouldn't be as they are. The Stoic accepts what's there and works with it. Complaint burns energy better spent on acting or accepting. When you catch it, stop and ask what you can do.
+Marcus gives an image for the same stance in Meditations IV.49: "Be like the promontory against which the waves continually break, but it stands firm and tames the fury of the water around it." He adds that when something has happened, one can say "happy am I, though this has happened to me, because I continue free from pain" ([Meditations IV, Long trans.](https://classics.mit.edu/Antoninus/meditations.4.four.html), opened). The two passages treat the demand that things be otherwise as the source of the trouble. The entry's phrase "complaining is the judgement that something should not be as it is" is a compendium paraphrase, and neither passage speaks about the habit of speaking complaints aloud. The Seneca and Discourses references were not opened.
 
-*For example:* Stuck in a slow queue, you use the time to reply to messages instead of sighing.
+On the psychology side, Gross and John found in five studies that habitual reappraisal went with more positive emotion and better relationships, while habitual suppression went with less positive emotion and worse relationships ([J Pers Soc Psychol, 2003; PubMed](https://pubmed.ncbi.nlm.nih.gov/12916575/)). This is a nearby finding about regulating emotion and not about complaint. The entry's Gross (2015) and Hayes (2011) references were not opened.
+
+**Plain words** Epictetus advises wishing for things to happen as they do happen, and Marcus likens the steady person to a rock the waves break against. Neither text addresses complaining aloud. That part of the entry is the compendium's reading.
+
+*For example (imagined):* Stuck in a slow queue, someone answers messages on their phone instead of sighing.
+
+## Sources
+
+- [Epictetus, Enchiridion 8 (trans. E. Carter)](https://classics.mit.edu/Epictetus/epicench.html) — MIT Internet Classics Archive, opened
+- [Marcus Aurelius, Meditations IV.49 (trans. G. Long)](https://classics.mit.edu/Antoninus/meditations.4.four.html) — MIT Internet Classics Archive, Book Four opened
+- [Gross & John (2003), J Pers Soc Psychol 85(2), 348-362](https://pubmed.ncbi.nlm.nih.gov/12916575/) — PubMed abstract opened
 
 ## Psychology parallels
 
