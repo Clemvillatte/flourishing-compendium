@@ -14,7 +14,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 
 Bernstein's name for the pull toward both extremes is the Cartesian Anxiety. Jeffery L. Bineham reproduces this passage from Richard Bernstein's *Beyond Objectivism and Relativism* (p. 18):
 
-> Either there is some support for our being, a fixed foundation for our knowledge, or we cannot escape the forces of darkness that envelop us with madness, with intellectual and moral chaos.
+> Either there is some support for our being, a fixed foundation for our knowledge, or we cannot escape the forces of darkness that envelope us with madness, with intellectual and moral chaos.
 >
 > (Bernstein, Beyond Objectivism and Relativism, p. 18, [quoted in Bineham](https://bineham.wordpress.com/wp-content/uploads/2023/07/cartesian_anxiety.pdf))
 
