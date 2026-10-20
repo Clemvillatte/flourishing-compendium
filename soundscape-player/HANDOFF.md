@@ -89,9 +89,22 @@ Everything needed to continue is in this repository; nothing else is required.
 - The James Blake set (the-dark-night, 22 tracks) is currently staged in
   strict full-filename order; the user has CONFIRMED the intended order is
   the original Endel player-number order (the "Endel- Player - NNN.aac"
-  suffixes, 001..022). Re-stage in that order and re-run
-  `scripts/prepare-tracks.sh` on it (staging dir + re-encode), then verify
-  the suite is still green.
+  suffixes, 001..022). The RAW downloaded files are NOT in the repo (only the
+  prepared, re-encoded segments) — but no raw material is needed: reorder the
+  committed files directly by renaming (no re-encode, no quality loss).
+  The committed segment_0000..0021.aac are in full-filename order, which
+  corresponds to Endel numbers 001,002,004,005,007,008,010,003,012,006,014,
+  009,015,011,017,013,018,016,019,020,021,022 (index → Endel number).
+  To produce Endel order, the NEW segment_i comes from the CURRENT file at
+  this index (new i → old i):
+  0,1,7,2,3,9,4,5,11,6,13,8,15,10,12,17,14,16,18,19,20,21
+  i.e. copy old→new in a temp dir (new_0000=old_0000, new_0001=old_0001,
+  new_0002=old_0007, new_0003=old_0002, new_0004=old_0003, new_0005=old_0009,
+  new_0006=old_0004, new_0007=old_0005, new_0008=old_0011, new_0009=old_0006,
+  new_0010=old_0013, new_0011=old_0008, new_0012=old_0015, new_0013=old_0010,
+  new_0014=old_0012, new_0015=old_0017, new_0016=old_0014, new_0017=old_0016,
+  new_0018=old_0018, new_0019=old_0019, new_0020=old_0020, new_0021=old_0021)
+  then replace the folder contents, commit, and re-run the suite.
 - Audio rights are settled: the user has a deal with Endel; the project is
   personal with no monetary purpose. No redistribution concern — do not
   re-raise it.
