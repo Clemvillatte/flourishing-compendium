@@ -28,8 +28,8 @@ The compendium's reading: if identity is narrated, the narration can be examined
 ## Psychology parallels
 
 - **[[Narrative identity|Narrative identity (McAdams)]]**, identity is a life story with themes, arcs, and meaning (McAdams, 2001; McAdams & McLean, 2013)
-- **Redemption sequences are associated with well-being**, narratives where bad leads to good (McAdams et al., 2001; Adler, 2012)
-- **Contamination sequences are associated with lower well-being**, narratives where good turns bad (McAdams et al., 2001)
+- **Redemption sequences are associated with higher well-being** in studies summarised by Sawatzki and Thomsen (2025), narratives where bad leads to good (McAdams et al., 2001; Adler, 2012)
+- **Contamination sequences — associated with greater psychological distress** in studies summarised by Sawatzki and Thomsen (2025), narratives where good turns bad (McAdams et al., 2001)
 
 ## Philosophy parallels
 

@@ -26,10 +26,10 @@
   "S128",
   "S131",
   "S134",
-  "SE011",
   "SE019",
   "SE023",
-  "S136"
+  "S136",
+  "SE011"
  ],
  "in_progress": null,
  "flagged": {
@@ -58,12 +58,12 @@
   "S128": "'Freeing' and 'nothing worth clinging to except virtue' are compendium wording (IX.28 says despise what perishes); Lyubomirsky 2011, Heraclitus not opened; Sahdra is Buddhist-derived",
   "S131": "Removed unsupported Marcus final-years/deathbed claims; 'no arrival' conflicts with Seneca Ep 16.1 (wisdom brought to completion); Rogers, Aristotle, Whitehead not opened",
   "S136": "Reopened for QC: milestone QC re-review: channel-equivalence claim",
-  "SE011": "Reopened for QC: milestone QC: comparative-importance claim; parallels wording",
+  "SE011": "Reopened for QC: milestone QC re-review: contamination wording attribution",
   "SE019": "Reopened for QC: milestone QC: absence-of-notice claims; practice effect claim; example outcome",
   "SE023": "Reopened for QC: milestone QC: study wording; citation metadata; overreach; parallels claims"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:27:40+00:00",
+ "updated": "2026-10-20T11:28:11+00:00",
  "band_done": false
 }
