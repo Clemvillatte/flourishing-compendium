@@ -12,13 +12,19 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 485** — Practise existential communication
 
-Recognise that genuine communication is not the exchange of information but the encounter between existences. Existential communication, for Jaspers, is the deepest form of relation: the encounter in which two persons meet not as objects but as subjects, not as representatives of positions but as selves. Practise existential communication in your deepest relationships.
+Jaspers's existential communication involves mutual criticism and support between people who respect each other's autonomy and are willing to question themselves ([Kurt Salamun, “Karl Jaspers' Conceptions of the Meaning of Life,” p. 6](https://www.existenz.us/volumes/Vol.1Salamun.pdf)). His idea of a loving struggle allows disagreement without making victory over the other person its purpose ([Jaspers, “Truth, Freedom, and Peace,” §1](https://www.existenz.us/volumes/Vol.9-2Jaspers.pdf)).
 
-(Jaspers, 1932/1971, Philosophy, vol. 2; Jaspers, 1919/1971, Psychology of Worldviews.)
+> Instead of domination through victory, the result is shared truth.
 
-**Plain words** Existential communication: not the exchange of information but the encounter between existences — two persons meeting as subjects, not objects, not roles. The deepest form of relation. Practise it: some conversations need to be between people, not between positions.
+(Jaspers, “Truth, Freedom, and Peace,” §1, English translation in Existenz; [opened text](https://www.existenz.us/volumes/Vol.9-2Jaspers.pdf).)
 
-*For example:* The performance review that becomes, for twenty minutes, an actual conversation between two humans about a life — no forms signed, no decisions made, and both participants rank it among the important conversations of their decade.
+### Plain words
+
+Try entering a difficult conversation with a question about your own position as well as the other person's. You can challenge a claim while still listening for what its speaker is trying to understand.
+
+### For example
+
+Imagine two friends disagreeing about whether to care for an ageing parent at home. Each could explain their fears, question the assumptions behind their own proposal, and give the other room to disagree without threatening the friendship.
 ## Psychology parallels
 
 - **Genuine dialogue and therapy** (Rogers, 1961; Buber, 1965)
