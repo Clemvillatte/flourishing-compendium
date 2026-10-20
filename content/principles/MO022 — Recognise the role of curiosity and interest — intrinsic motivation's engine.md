@@ -14,9 +14,9 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 
 Curiosity, the desire to know and understand, is a powerful intrinsic motivator, and the research has begun to show why. In the Kang et al. trivia-question studies, curiosity ratings were associated with activity in caudate regions previously implicated in anticipated reward, and higher curiosity was associated with better later recall of surprising answers:
 
-> "Higher curiosity in an initial session was correlated with better recall of surprising answers 1 to 2 weeks later." (Kang et al., "The Wick in the Candle of Learning", Psychological Science, 2009, abstract)
+> "Higher curiosity in an initial session was correlated with better recall of surprising answers 1 to 2 weeks later." (Kang et al., "The Wick in the Candle of Learning", Psychological Science, 2009, abstract, PDF p. 1)
 
-The same paper's working definition: "Curiosity is the complex feeling and cognition accompanying the desire to learn what is unknown." (abstract) This page's application: cultivating curiosity is a motivational practice — aim effort at what you are actually curious about, and use the question you cannot yet answer as the engine.
+The same paper's working definition: "Curiosity is the complex feeling and cognition accompanying the desire to learn what is unknown." (PDF p. 1, introduction text) This page's application: cultivating curiosity is a motivational practice — aim effort at what you are actually curious about, and use the question you cannot yet answer as the engine.
 
 **Plain words**
 Notice which questions you actually want answered. That pull is not a distraction from serious learning; in the studies it tracked what people still remembered two weeks later. The practical move is to let the question do the work: before studying something, get yourself to a question you cannot yet answer, and study toward it.

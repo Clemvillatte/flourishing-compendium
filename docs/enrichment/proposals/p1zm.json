@@ -1,6 +1,6 @@
 {
  "batch": "p1zm",
- "revision": 3,
+ "revision": 4,
  "records": [
   {
    "action": "reciprocal",
@@ -22,6 +22,48 @@
    "link": "M008",
    "why": "the middle as an epistemic vantage: Anzaldua's both-shores-at-once passage quoted verbatim as the position this principle tells you to use",
    "notes": "M008 links [[Nepantla]] in its philosophy parallels"
+  },
+  {
+   "action": "reciprocal",
+   "into": "The word hidden in the heart",
+   "link": "M014",
+   "why": "the compendium's principle on carrying a tradition's words by heart: the Florentine Codex exhortation to inscribe the elders' words in the heart is this concept's practice",
+   "notes": "M014 links [[The word hidden in the heart]] in its philosophy parallels; concept page does not cite M014"
+  },
+  {
+   "action": "reciprocal",
+   "into": "The lamp on the stand",
+   "link": "M048",
+   "why": "the torch image: the Nahua sage-as-torch and the gospel lamp-on-the-stand both name showing what is there by carrying light",
+   "notes": "M048 links [[The lamp on the stand]]; concept page does not cite M048"
+  },
+  {
+   "action": "reciprocal",
+   "into": "Modeling",
+   "link": "M048",
+   "why": "the torch half of the sage's job includes showing by example; modeling is the psychology of learning from examples",
+   "notes": "M048 links [[Modeling]] in its psychology parallels; concept page does not cite M048"
+  },
+  {
+   "action": "reciprocal",
+   "into": "Relatedness",
+   "link": "MO017",
+   "why": "the compendium's motivation-science statement of relatedness: feeling connected to and cared about by others as the need that sustains pursuit",
+   "notes": "MO017 links [[Relatedness]]; concept page does not cite MO017"
+  },
+  {
+   "action": "reciprocal",
+   "into": "Curiosity",
+   "link": "MO022",
+   "why": "the compendium's curiosity principle: the Kang studies' association of curiosity with reward-circuitry activity and later recall is this concept's motivation evidence",
+   "notes": "MO022 links [[Curiosity|Curiosity as virtue]]; concept page does not cite MO022"
+  },
+  {
+   "action": "reciprocal",
+   "into": "Beginner's mind",
+   "link": "MO022",
+   "why": "the Zen statement of the same openness: approaching a subject without the answer already in hand, the state the curiosity studies measure",
+   "notes": "MO022 links [[Beginner's mind|Beginner's mind (shoshin)]]; concept page does not cite MO022"
   }
  ]
 }

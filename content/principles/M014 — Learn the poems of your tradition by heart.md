@@ -16,10 +16,10 @@ The Nahua discourses of the elders (huehuetlatolli) were speeches to be carried 
 
 > "Thou who art my son, thou who art my youth, hear the words; place, inscribe in the chambers of thy heart the word or two which our forefathers departed leaving: the old men [in huehuetque (vevetque)], the old women [in ilamatque (jlamatque)], the regarded ones, the admired ones, and the advised ones on earth." (Florentine Codex, Book 6, ch. 21; Anderson & Dibble translation, 6:113, as quoted in Lee, "Toward a New Interpretation of Prehispanic Discourses")
 
-This page's application, built on the retrieval-practice study opened below: choose a short passage from a tradition you care about, put it aside, attempt to recall it, and check the omissions.
+This page's suggested practice, built on the retrieval-practice findings cited below: choose a short passage from a tradition you care about, put it aside, attempt to recall it, and check the omissions.
 
 **Plain words**
-Pick a short passage you want to carry. The way in is not rereading it until it feels familiar, but trying to produce it without looking: attempt the recall, see where it breaks, look only at the break, and try again. That is the procedure the testing-effect studies found worked better than restudying; the attempt itself is the learning.
+Try saying or writing the passage without looking. Then compare your version with the text and notice what you left out. Use those gaps to guide another attempt, rather than judging your learning only by how familiar the words look.
 
 *For example:* Choosing one passage this year, a psalm, a song, or a poem, and running the recall-and-check cycle on it weekly.
 

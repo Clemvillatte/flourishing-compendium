@@ -12,20 +12,20 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 ---
 > **Principle 25** — Learn to use implementation intentions: if-then plans
 
-Implementation intentions — specific if-then plans ("if it is 7am, then I will run") — are associated with increased goal attainment. The meta-analysis of 94 tests, in the publisher-record abstract:
+Implementation intentions — specific if-then plans ("if it is 7am, then I will run") — are associated with increased goal attainment. The meta-analysis of 94 tests, in the institutional-repository record's abstract:
 
 > "Findings from 94 independent tests showed that implementation intentions had a positive effect of medium-to-large magnitude (d= .65) on goal attainment." (Gollwitzer & Sheeran, "Implementation Intentions and Goal Achievement", Advances in Experimental Social Psychology, 2006)
 
 The full text defines the plans this way: "Implementation intentions are if-then plans that connect good opportunities to act with cognitive or behavioral responses that are effective in accomplishing one's goals." Across the tests the review analyzed, this averaged out to a medium-to-large effect; the review also reports support for the component processes, enhanced accessibility of the specified opportunities and automated goal-directed responses. This page's application: take one goal that keeps stalling and write one if-then sentence for its most common failure moment.
 
 **Plain words**
-An if-then plan names a situation you will recognize and an action you can start, and joins them in one sentence. "If it is 7 a.m., I run" decides at planning time what 6:55 has no vote on. The reported average effect across 94 tests is medium-to-large; what any single plan does is for the person to observe.
+An if-then plan names a situation you will recognize and an action you can start, and joins them in one sentence. The plan specifies your intended response in advance; when the cue arrives, you can observe whether you follow it. The reported average effect across 94 tests is medium-to-large; what any single plan does is for the person to observe.
 
 *For example:* One if-then plan to try: "If I feel the urge to check my phone at my desk, then I will write one more sentence first." The situation is the cue; the sentence is the response.
 
 ## Sources
 
-- Gollwitzer, P. M., & Sheeran, P., "Implementation Intentions and Goal Achievement: A Meta-Analysis of Effects and Processes", Advances in Experimental Social Psychology 38 (2006), pp. 69-119 — [publisher record (Konstanz)](https://kops.uni-konstanz.de/entities/publication/2e749bfb-8533-437c-8203-7e788c910c5f) (abstract quotation) and [full text, Internet Archive](https://archive.org/stream/06GollwitzerSheeranImplementationIntentionsAndGoalAchievement/06GollwitzerSheeran_ImplementationIntentionsAndGoalAchievement_djvu.txt) (definition quotation; 94 tests, 8,461 participants reported there)
+- Gollwitzer, P. M., & Sheeran, P., "Implementation Intentions and Goal Achievement: A Meta-Analysis of Effects and Processes", Advances in Experimental Social Psychology 38 (2006), pp. 69-119 — [institutional repository record (University of Konstanz)](https://kops.uni-konstanz.de/entities/publication/2e749bfb-8533-437c-8203-7e788c910c5f) (abstract quotation) and [full text, Internet Archive](https://archive.org/stream/06GollwitzerSheeranImplementationIntentionsAndGoalAchievement/06GollwitzerSheeran_ImplementationIntentionsAndGoalAchievement_djvu.txt) (definition quotation; 94 tests, 8,461 participants reported there)
 
 ## Psychology parallels
 
