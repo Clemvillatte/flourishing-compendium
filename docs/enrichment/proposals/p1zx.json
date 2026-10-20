@@ -1,18 +1,24 @@
 {
- "batch": "p1zx",
- "revision": 4,
- "reciprocal": [
-  {
-   "into": "Shame",
-   "link": "SE082",
-   "why": "offers Nietzsche's aphorism on no longer being ashamed of oneself",
-   "notes": "Shame.md's own body already groups SE082 with the shame principles (line 24, 'ethical and spiritual claims'); the reciprocal makes the link structural, and its psychological-review scoping note stays untouched. Evidence: SE082 quote verified verbatim vs opened Gutenberg 52124 (Common, Joyful Wisdom aph. 275) 2026-10-20. Round-1 why clause (shame work points toward Nietzschean liberty) rejected by advisor QC as overreach; BE034 and E068 records removed pending grounded comparison."
-  },
-  {
-   "into": "A012 — Practice temperance (sophrosyne)",
-   "link": "A083",
-   "why": "offers a comparison with Aristotle's account of contemplative pleasure",
-   "notes": "X.7 explicitly compares the pleasures of virtuous activities (philosophic wisdom's pursuit called the pleasantest); narrower than a ranking of every bodily pleasure, explicitly qualified on A083. Evidence: X.7 passage verified in the raw Book X HTML download; A012 body read this session."
-  }
- ]
+  "batch": "p1zx",
+  "revision": 5,
+  "reciprocal": [
+    {
+      "into": "Shame",
+      "link": "SE082",
+      "why": "offers Nietzsche's aphorism on no longer being ashamed of oneself",
+      "notes": "Shame.md's own body already groups SE082 with the shame principles (line 24, 'ethical and spiritual claims'); the reciprocal makes the link structural, and its psychological-review scoping note stays untouched. Evidence: SE082 quote verified verbatim vs opened Gutenberg 52124 (Common, Joyful Wisdom aph. 275) 2026-10-20. Round-1 why clause (shame work points toward Nietzschean liberty) rejected by advisor QC as overreach; BE034 and E068 records removed pending grounded comparison."
+    },
+    {
+      "into": "A012 — Practice temperance (sophrosyne)",
+      "link": "A083",
+      "why": "offers a comparison with Aristotle's account of contemplative pleasure",
+      "notes": "X.7 explicitly compares the pleasures of virtuous activities (philosophic wisdom's pursuit called the pleasantest); narrower than a ranking of every bodily pleasure, explicitly qualified on A083. Evidence: X.7 passage verified in the raw Book X HTML download; A012 body read this session."
+    },
+    {
+      "into": "Flow",
+      "link": "E024",
+      "why": "E024 links Flow (absorption) as its psychology parallel; Flow.md currently does not mention E024 or principle 416",
+      "notes": "Mention hunt run 2026-10-21 after milestone QC: rg over Flow.md found no E024/416 backlink. E024 is schema 0 (no Related concepts section); the reciprocal belongs in Flow.md, owned by a concept band. Evidence: E024 quotes verified verbatim vs IA Being and Time raw text this session."
+    }
+  ]
 }
