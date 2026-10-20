@@ -12,13 +12,23 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 244** — Keep a journal
 
-The Meditations is Marcus's journal, written to himself, never intended for publication. The act of writing forces clarity. Write to yourself: what you are struggling with, what you are learning, what you need to remember. The journal is the Stoic's training log.
+Marcus's book was a private notebook: "this book, like the eleven other books, was for his own use" (George Long's introduction to the Meditations). What that use looks like in practice, Seneca describes from his own nightly habit:
 
-(Med., throughout; Seneca, Letters 83; Disc. III.23.)
+> "I make use of this privilege, and daily plead my cause before myself: when the lamp is taken out of my sight, and my wife, who knows my habit, has ceased to talk, I pass the whole day in review before myself, and repeat all that I have said and done: I conceal nothing from myself, and omit nothing." (Seneca, On Anger III.36, trans. Aubrey Stewart, [Wikisource](https://en.wikisource.org/wiki/Of_Anger/Book_III))
 
-**Plain words** Marcus wrote his private notes to himself, never for publication — and that's exactly why they cut so deep. Writing forces the fog in your head into sentences, and sentences can be examined. Keep a training log for your own character: what you're struggling with, what you're learning, what you keep forgetting.
+The older version he records is Sextius's: "It was the custom of Sextius when the day was over, and he had betaken himself to rest, to inquire of his spirit: 'What bad habit of yours have you cured to-day? what vice have you checked? in what respect are you better?'" (On Anger III.36). Marcus's twelve books are what a lifetime of such notes looks like on paper.
 
-*For example:* The person who journals one honest paragraph a night and, three weeks in, can finally name the pattern they keep repeating at work.
+(Seneca, On Anger III.36; Long's introduction to the Meditations.)
+
+**Plain words**
+As a practical exercise, write the review, not the diary. End the day with Sextius's three questions — what bad habit did you face, what did you check, in what respect are you better — plus one honest line on what you said and did. The page is for you alone, which is what makes the honesty possible.
+
+*For example (imagined):* The person who journals one honest paragraph a night and, three weeks in, can finally name the pattern they keep repeating at work.
+
+## Sources
+
+- [Seneca, On Anger III.36 (Aubrey Stewart translation, Wikisource)](https://en.wikisource.org/wiki/Of_Anger/Book_III)
+- [Marcus Aurelius, Meditations (George Long translation, Project Gutenberg)](https://www.gutenberg.org/cache/epub/15877/pg15877.txt) — translator's introduction
 ## Psychology parallels
 
 - **[[Expressive writing|Expressive writing research]]** (Pennebaker and Beall, 1986)
