@@ -12,13 +12,21 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 146** — Do not fear death
 
-Death is a natural event, not an evil. The Stoic holds that death is either the end of consciousness (in which case there is nothing to fear) or a transition (in which case there is nothing to fear). More practically: the fear of death is a judgement that death is bad, and that judgement can be examined and revised.
+Marcus Aurelius' move is to put death in the column of things that happen to everyone, and to use that as an instruction rather than a consolation ([Meditations II.11, Long translation; opened full text](https://www.gutenberg.org/files/6920/6920-h/6920-h.htm)):
 
-(Med. II.11, II.14, III.1, IV.19, VII.2, VII.29; Seneca, Letters 24, 82, 99, 104, 122; Disc. I.14.)
+> Since it is possible that thou mayest depart from life this very moment, regulate every act and thought accordingly.
 
-**Plain words** Death is natural, not an evil. Either consciousness ends, so nothing is felt, or it continues somehow, so nothing is lost. More practically, fear of death is a judgement that death is bad, and judgements can be examined and revised.
+(Marcus Aurelius, Meditations II.11, trans. George Long; [opened full text, Project Gutenberg](https://www.gutenberg.org/files/6920/6920-h/6920-h.htm).)
 
-*For example:* A person who spends time thinking calmly about her own death finds she's less frantic about small things.
+The argument behind it: death and life, honor and dishonor, pain and pleasure "equally happen to good men and bad, being things which make us neither better nor worse. Therefore they are neither good nor evil" ([same opened text](https://www.gutenberg.org/files/6920/6920-h/6920-h.htm)). Meditations II.14 adds the arithmetic: "the longest liver and he who will die soonest lose just the same", since the present is the only thing a man has ([same opened text](https://www.gutenberg.org/files/6920/6920-h/6920-h.htm)).
+
+### Plain words
+
+You will die; the date is unknown. The Stoic move is to inspect the fear rather than obey it. What exactly is feared: the process of dying, the leaving, the unfinished work? The fear is a judgement that death is bad, and judgements can be examined.
+
+### For example
+
+A person can spend a quiet half hour imagining their own death, on purpose, and see what the week's frictions weigh afterwards. The rehearsal is the old Stoic one: meet death while it is far away, so it is not met only in panic.
 
 ## Psychology parallels
 
