@@ -12,13 +12,23 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 380** — Practise deep ecology
 
-Go beyond shallow environmentalism (the concern to reduce pollution and conserve resources for human benefit) to deep ecology (the recognition that non-human life has intrinsic value). Deep ecology asks not "how can we use nature more efficiently?" but "what is our right relationship with the more-than-human world?"
+Naess's 1973 summary of the two movements gives the shallow one a flat definition and the deep one a different starting picture (["The Shallow and the Deep, Long-Range Ecology Movement. A Summary", Inquiry 16, pp. 95-96; opened full text](https://is.cuni.cz/studium/predmety/index.php?do=download&did=169208&kod=AFS100716)):
 
-(Naess, 1973, "The Shallow and the Deep, Long-Range Ecology Movements," Inquiry, 16, 95-100; Naess, 1989, Ecology, Community and Lifestyle.)
+> The Shallow Ecology movement: Fight against pollution and resource depletion. Central objective: the health and affluence of people in the developed countries.
+>
+> Biospherical egalitarianism — in principle. The 'in principle' clause is inserted because any realistic praxis necessitates some killing, exploitation, and suppression.
 
-**Plain words** Shallow ecology: reduce pollution, conserve resources — for our benefit. Deep ecology: non-human life has intrinsic value, full stop. The question shifts from "how do we use nature more efficiently?" to "what is our right relationship with the more-than-human world?"
+(Naess, "The Shallow and the Deep, Long-Range Ecology Movement. A Summary", Inquiry 16, 1973, pp. 95-96; [opened full text, Charles University repository](https://is.cuni.cz/studium/predmety/index.php?do=download&did=169208&kod=AFS100716).)
 
-*For example:* Two people both recycle — one because waste is inefficient and ugly, one because the river has a claim of its own. Same bins, entirely different relationship.
+The deep movement's first move is a change of picture: rejection of "the man-in-environment image in favour of the relational, total-field image", with organisms as "knots in the biospherical net or field of intrinsic relations" ([same opened text](https://is.cuni.cz/studium/predmety/index.php?do=download&did=169208&kod=AFS100716)). Its value axiom is the "equal right to live and blossom", whose restriction to humans Naess calls an anthropocentrism ([same opened text](https://is.cuni.cz/studium/predmety/index.php?do=download&did=169208&kod=AFS100716)).
+
+### Plain words
+
+Shallow ecology keeps nature as a stock to manage well. Deep ecology starts elsewhere: you are one knot in a net, and the other knots are not equipment. The practical shift shows in the questions: efficiency is one question; what the living world is owed is another.
+
+### For example
+
+Suppose two people both recycle. One does it because waste is inefficient; one does it because the river has a claim of its own. Same bins, different relationships. Naess's "in principle" clause keeps the second person honest: living requires some killing, and the axiom does not pretend otherwise.
 ## Psychology parallels
 
 - **[[Ecological identity|Ecological identity]]** (Thomashow, 1995; Mayer and Frantz, 2004)
