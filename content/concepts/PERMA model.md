@@ -8,13 +8,13 @@ tags: ["psych/self", "theory"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-P"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter P", "parent": ""}
 ---
-The PERMA model is Martin Seligman's account of well-being as five elements: Positive Emotion, Engagement, Relationships, Meaning, and Accomplishment, proposed in his 2011 work Flourish. Seligman's own summary of the hypothesis and its evidence status, from his 2018 reply to critics:
+The PERMA model is Martin Seligman's account of well-being as five elements: Positive Emotion, Engagement, Relationships, Meaning, and Accomplishment. In his 2018 reply to critics, Seligman describes PERMA as his 2011 hypothesis that these are the elements of well-being, and gives the hypothesis's evidence status this way:
 
 > "Seligman (2011) hypothesized that PERMA (Positive Emotion, Engagement, Relationships, Meaning, and Accomplishment) are the elements of well-being. Goodman, Disabato, Kashdan & Kaufmann (2017) reported strong evidence that subjective well-being is the final common path of such elements and their data are entirely consistent with Seligman's hypothesis." (Seligman, [PERMA and the building blocks of well-being, Journal of Positive Psychology 13(4), 2018](https://www.tandfonline.com/doi/full/10.1080/17439760.2018.1437466), abstract)
 
 ### Building blocks, not a separate kind
 
-The same abstract corrects a reading Seligman rejects: the critics argued, "incorrectly however", that he suggested "that PERMA constituted a different kind of well-being rather than just its building blocks" (Seligman, 2018, abstract). The abstract also identifies the selection of well-being's elements as an issue extending beyond psychometrics.
+The same abstract corrects a reading Seligman rejects: the critics argued, "incorrectly however", that he suggested "that PERMA constituted a different kind of well-being rather than just its building blocks" (Seligman, [2018, abstract](https://www.tandfonline.com/doi/full/10.1080/17439760.2018.1437466)). The abstract also identifies the selection of well-being's elements as an issue extending beyond psychometrics.
 
 ## Sources
 

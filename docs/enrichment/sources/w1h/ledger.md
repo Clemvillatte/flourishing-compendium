@@ -519,3 +519,8 @@
 - Item 10 (Plan-then-adapt): Category A skip, flag verified surviving done.
 - Process fix adopted: run state start BEFORE writing content on all
   subsequent items.
+  Round-2 corrections: Optimal experience bridge sentence added (title+abstract
+  grounded); PERMA "Flourish" book-title claim removed (abstract only
+  establishes the 2011 hypothesis); prose source links added across the four
+  pages. Items 6-9 scoped PASS (advisor milestone round 2); item 9's PERMA
+  elements question paraphrased per advisor. Milestone CLOSED.

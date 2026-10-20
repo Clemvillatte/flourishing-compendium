@@ -7,13 +7,13 @@ file: "Optimal experience"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-O"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter O", "parent": ""}
 ---
-In their 1989 study Optimal experience in work and leisure, Csikszentmihalyi and LeFevre examined flow, described in the abstract as "a condition of high challenges and skills". They followed 78 adult workers for one week using the experience sampling method, which the abstract describes as randomly sampling self-reports throughout the day (Csikszentmihalyi and LeFevre, [JPSP 56(5), 1989, PubMed record](https://pubmed.ncbi.nlm.nih.gov/2724069/)).
+In their 1989 study Optimal experience in work and leisure, Csikszentmihalyi and LeFevre studied optimal experience through flow, described in their abstract as "a condition of high challenges and skills". They followed 78 adult workers for one week using the experience sampling method, which the abstract describes as randomly sampling self-reports throughout the day (Csikszentmihalyi and LeFevre, [JPSP 56(5), 1989, PubMed record](https://pubmed.ncbi.nlm.nih.gov/2724069/)).
 
 > "Results showed that all the variables measuring the quality of experience, except for relaxation and motivation, are more affected by flow than by whether the respondent is working or in leisure. Moreover, the great majority of flow experiences are reported when working, not when in leisure." ([Csikszentmihalyi and LeFevre, 1989, PubMed record 2724069](https://pubmed.ncbi.nlm.nih.gov/2724069/), abstract)
 
 ### The work-leisure paradox
 
-The same study found that, regardless of the quality of experience, respondents were more motivated in leisure than in work, while individuals more motivated in flow than in apathy reported more positive experiences in work (Csikszentmihalyi and LeFevre, 1989, abstract).
+The same study found that, regardless of the quality of experience, respondents were more motivated in leisure than in work, while individuals more motivated in flow than in apathy reported more positive experiences in work (Csikszentmihalyi and LeFevre, [1989, PubMed record](https://pubmed.ncbi.nlm.nih.gov/2724069/), abstract).
 
 ## Sources
 

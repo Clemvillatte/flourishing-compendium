@@ -13,7 +13,7 @@ Narrative repair is Hilde Lindemann Nelson's account, in Damaged Identities, Nar
 
 ### Two kinds of moral damage
 
-The IEP summary distinguishes two kinds of moral damage that can affect the cohesion of an identity: one deprives a person of important social goods, the other of self-respect. In this account, both can be repaired through counterstories, which resist, challenge, and overcome the damaging master narratives inflicted by the powerful on the vulnerable (Gotlib, IEP).
+The IEP summary distinguishes two kinds of moral damage that can affect the cohesion of an identity: one deprives a person of important social goods, the other of self-respect. In this account, both can be repaired through counterstories, which resist, challenge, and overcome the damaging master narratives inflicted by the powerful on the vulnerable (Gotlib, [Feminist Ethics and Narrative Ethics, IEP](https://iep.utm.edu/fem-e-n/)).
 
 ## Sources
 
