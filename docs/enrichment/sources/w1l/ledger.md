@@ -696,3 +696,12 @@ convention).
 - No In-the-compendium block added (fast-track bar does not require it; Cited-in lists already carry the five principle links; no claims made about the principles).
 - Saturation: fast-track exemption; no reciprocal proposed (page has no Related section; the five citing principles already link back).
 - QC: validator ok at fast-track profile; no advisor QC (item 6; next at item 10).
+
+## Goal disengagement (fast-track, genuineflourishing01, 2026-10-20)
+- Degree 5 at selection (principles D062/D186/MO034/MO058/P163) — fast-track eligible per §1a.
+- Sources opened: (1) Wrosch, Miller, Scheier & Brun de Pontet 2007, PSPB 33(2):251-265, author-hosted PDF (Concordia Wrosch Lab), fetched UNPROMPTED (prompt omitted) — full text read; blockquote verified character-for-character; cortisol and health findings grounded (Studies 1-3: lower self-reported health problems, steeper/more normative diurnal cortisol rhythm, higher day/evening cortisol for difficulty-disengaging participants; causal-direction caveat from Study 1 discussion). (2) Wrosch, Scheier, Miller, Schulz & Carver 2003, PSPB 29(12), PubMed record 15018681, fetched UNPROMPTED — abstract grounds the well-being and interactive-effects sentences.
+- SEED CORRECTION: the seed attributed the cortisol finding to "Wrosch et al., 2003"; the cortisol finding is from Wrosch, Miller, Scheier & Brun de Pontet 2007 (the 2003 papers concern subjective well-being). Seed line rewritten with the 2003/2007 split; inherited "Other formulations" line kept as found.
+- "Carsten Wrosch" first name grounded: the 2007 PDF byline and PubMed record list C. Wrosch / Carsten Wrosch.
+- No In-the-compendium block (fast-track bar; Cited-in lists carry the five principle links).
+- Saturation: fast-track exemption; no reciprocal proposed.
+- QC: validator ok at fast-track profile; no advisor QC (item 7; next at item 10).
