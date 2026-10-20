@@ -12,11 +12,22 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BI — Biophysi
 ---
 > **Principle 45** — Learn slow breathing: a direct autonomic regulator
 
-Slow breathing (4-6 breaths per minute) is a direct way to regulate the autonomic nervous system. It activates the parasympathetic (rest and digest) system, reduces arousal, and improves HRV.
+Zaccaro and colleagues' systematic review of slow-breathing studies found the technique acts on the autonomic system directly: slow breathing promotes autonomic changes increasing heart rate variability and respiratory sinus arrhythmia, with central nervous system changes running alongside, and the review links the effects to vagal activity and parasympathetic predominance. (Zaccaro et al., 2018.)
 
-**Plain words** Slow breathing — four to six breaths a minute, exhale long — is a direct way to settle the nervous system. No equipment, invisible to others, works even in a meeting with your boss three feet away.
+> "Slow breathing techniques promote autonomic changes increasing Heart Rate Variability and Respiratory Sinus Arrhythmia paralleled by Central Nervous System (CNS) activity modifications." (Zaccaro et al., 2018, [Frontiers in Human Neuroscience](https://www.frontiersin.org/articles/10.3389/fnhum.2018.00353/full))
 
-*For example:* Six breaths before the hard conversation, and the voice comes out at a different pitch — not calm-acting, calm. The exhale is the pedal; the length of it is the pressure.
+The review's pooled result ties the physiology to what people report at around six breaths per minute: increased ease, comfort and alertness, and reduced arousal and anxiety. The compendium's reading of the exercise below: the breath is the lever, the autonomic shift is the mechanism, and the counting is just how the breath gets slow. (Zaccaro et al., 2018.)
+
+> "We found evidence of increased psychophysiological flexibility linking parasympathetic activity, CNS activities related to emotional control and psychological well-being in healthy subjects during slow breathing techniques." (Zaccaro et al., 2018, [Frontiers in Human Neuroscience](https://www.frontiersin.org/articles/10.3389/fnhum.2018.00353/full))
+
+**Plain words**
+Try the practice below for three minutes and check the result against something measurable: your resting pulse before and after. Slow here means around six breaths a minute in the reviewed studies, and the technique's job is to hand the autonomic system a slower rhythm. What you notice afterward, comfort or ease or neither, is the report to keep.
+
+*For example:* Six slow breaths before the hard conversation, and the voice comes out at a different pitch. The pulse you carry into the room is the one the other person meets.
+
+## Sources
+
+- [Zaccaro et al. (2018), How Breath-Control Can Change Your Life: A Systematic Review on Psycho-Physiological Correlates of Slow Breathing, Frontiers in Human Neuroscience 12](https://www.frontiersin.org/articles/10.3389/fnhum.2018.00353/full)
 ## Psychology parallels
 
 - **Slow breathing and parasympathetic activation**, breathing at 4-6 breaths per minute activates the parasympathetic system (Zaccaro et al., 2018; Lehrer & Gevirtz, 2014)

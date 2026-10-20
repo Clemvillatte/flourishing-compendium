@@ -227,3 +227,39 @@ TASKBOARD). Entries below are mine.
   Linehan 1993; Kelly 2004) and philosophy parallels (Aristotle NE II; Right speech;
   Kant Groundwork) — preserved per protocol, flagged for supervisor.
 - Saturation: mention scan to follow; BE052's parallels links untouched.
+
+## BI032 — Learn to build exercise habits: consistency over intensity
+
+- Opened: https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674 (Lally et al. 2010,
+  European Journal of Social Psychology 40(7)) — abstract extracted in full; full text
+  paywalled, so only abstract-level claims are used.
+- Verbatim quotes used: the asymptotic-curve summary sentence; "Missing one
+  opportunity to perform the behaviour did not materially affect the habit formation
+  process." The 96 volunteers / 12 weeks / same-context / daily self-report method
+  details, the 18-254 day range, and the better-fit-for-consistent-performers finding
+  are all from the opened abstract.
+- The original body's mental-health outcome claim ("regular moderate exercise over
+  time is more beneficial than sporadic intense exercise") was NOT supported by the
+  opened abstract and was replaced by the habit-formation mechanism; the exercise-
+  outcome question is left to the inherited parallels (Gardner 2015; Wood and Neal
+  2007), which are flagged, not opened.
+- Saturation: mention scan to follow; BI032's parallels links untouched.
+
+## BI045 — Learn slow breathing: a direct autonomic regulator
+
+- Opened: https://www.frontiersin.org/articles/10.3389/fnhum.2018.00353/full (Zaccaro
+  et al. 2018, Frontiers in Human Neuroscience 12, open access) — abstract, breathing-rate
+  passages and main conclusion extracted.
+- Verbatim quotes used: the abstract's autonomic-change sentence; the review's main
+  conclusion sentence. The "near/around 6 b/min" rate, the vagal/parasympathetic
+  predominance framing, and the reported outcomes (ease, comfort, alertness; reduced
+  arousal, anxiety) are from the opened text.
+- The original body's "4-6 breaths per minute" narrowed to the review's own "near
+  6 b/min" (the 4-6 range survives only in the inherited parallels, flagged, untouched).
+  The "voice comes out calm, not calm-acting" claim replaced with the neutral pitch
+  sentence; no calm-outcome guarantee asserted.
+- Inherited, NOT opened/verified: psychology parallels (Lehrer and Gevirtz 2014;
+  Lehrer et al. 2020) and philosophy parallels (Anapanasati Sutta; Qi; Neiye) —
+  preserved per protocol, flagged for supervisor.
+- Saturation: mention scan run for the three takeover items; no justified new
+  proposals (BE052/BI032/BI045 parallels untouched).
