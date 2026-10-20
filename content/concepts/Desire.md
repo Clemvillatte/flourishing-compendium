@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Desire (orexis / taṇhā / conatus) — the directed movement of being toward what it lacks or seeks. The traditions divide on whether to purify it (Buddhism), order it (Aristotle, Stoicism), or understand it as essence itself (Spinoza).
 
+## Related concepts
+
+- [[Natural and necessary]] — listed for comparison
+
 ## Sources
 - SEP Desire: https://plato.stanford.edu/entries/desire/
 

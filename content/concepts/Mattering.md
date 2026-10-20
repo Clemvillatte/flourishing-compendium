@@ -21,6 +21,10 @@ Costin and Vignoles connect existential mattering with the perceived value of on
 
 - [[P153 — Participate in the world's becoming]]
 
+## Related concepts
+
+- [[Meaning]] — the broader concept in which mattering is one dimension in this compendium
+
 ## Sources
 
 - Pratt et al., 2010

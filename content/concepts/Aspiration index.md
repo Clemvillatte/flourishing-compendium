@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 materialistic aspirations predict lower well-being (Kasser and Ryan, 1993).
 
+## Related concepts
+
+- [[Intrinsic versus extrinsic goals]] — the concept page lists this topic among its Related entries; this link returns it
+
 ## Sources
 
 - Kasser and Ryan, 1993

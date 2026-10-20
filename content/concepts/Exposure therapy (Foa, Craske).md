@@ -13,6 +13,11 @@ systematic approach to feared cues reduces fear (Foa et al., 2007; Craske et al.
 
 - **principles** — Foa and McLean, 2016
 
+## Related concepts
+
+
+- [[Evidence-based treatments (CBT, ACT, DBT, EMDR, medication) have robust evidence]] — listed for comparison
+- [[Graded exposure / systematic desensitisation (Wolpe)]] — listed for comparison
 ## Sources
 
 - Foa et al., 2007

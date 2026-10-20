@@ -29,6 +29,8 @@ K017 "Find the still point that is not a withdrawal" frames a test in the compen
 
 ## Related concepts
 
+
+
 - [[Behavioral activation]] — the treatment built on this finding
 - [[Rumination]] — BA examines whether rumination functions as avoidance
 - [[Approach versus avoidance motivation]] — the valence split the withdrawal cycle instantiates
@@ -37,7 +39,8 @@ K017 "Find the still point that is not a withdrawal" frames a test in the compen
 - [[Differential Activation Hypothesis of depression]] — another account of what maintains depressive episodes
 - [[Behavioral experiments in CBT]] — testing beliefs through action instead of avoiding the test
 - [[Behavior analysis]] — the operant tradition that explains the cycle's reinforcement logic
-
+- [[Graded exposure / systematic desensitisation (Wolpe)]] — listed for comparison
+- [[Capacity to be alone (Winnicott)]] — listed for comparison
 ## Sources
 
 - [Veale, "Behavioural activation for depression," Advances in Psychiatric Treatment 14(1) (2008), pp. 29-36](https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/behavioural-activation-for-depression/EBC5FC0D9D550FFBE6F982B33BF91EE9) — Ferster's model, the withdrawal cycle, BA's approach, the Jacobson 1996 component analysis

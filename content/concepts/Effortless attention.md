@@ -13,6 +13,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 - **and flow's recovery profile**
 
+## Related concepts
+
+- [[Attentional control training and the role of repeated redirection]] — listed for comparison
+
 ## Sources
 
 - Bruya, 2010

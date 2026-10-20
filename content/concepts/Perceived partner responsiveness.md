@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Perceived partner responsiveness” — Reis and Clark, 2013.
 
+## Related concepts
+
+- [[Active constructive responding]] — the concept page lists this topic among its Related entries; this link returns it
+
 ## Sources
 
 - Reis and Clark, 2013

@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 (Kasser and Ryan, 1996; Kasser, 2002), wealth, fame, and image goals correlate with lower well-being even when achieved.
 
+## Related concepts
+
+- [[Intrinsic versus extrinsic goals]] — the concept page lists this topic among its Related entries; this link returns it
+
 ## Sources
 
 - Kasser and Ryan, 1996

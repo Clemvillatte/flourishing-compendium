@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Embodied social identity” — Cross, 1971; Fanon, Black Skin, White Masks.
 
+## Related concepts
+
+- [[Procedural justice]] — listed for comparison
+
 ## Sources
 
 - Cross, 1971

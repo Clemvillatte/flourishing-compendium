@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Habit maintenance” — Lally et al., 2010.
 
+## Related concepts
+
+- [[Behavioural chaining (applied behaviour analysis)]] — listed for comparison
+
 ## Sources
 
 - Lally et al., 2010

@@ -22,3 +22,8 @@ Cognition · Psychological science
 [[BE019 — Learn to schedule pleasurable activities — enjoyment-driven behaviour]]
 [[P037 — Live experimentally]]
 ## Cited in philosophy parallels
+
+
+## Related concepts
+
+- [[Avoidance versus attentional engagement]] — listed for comparison

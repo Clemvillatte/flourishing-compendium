@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 setting intentions improves attentional selection and reduces distraction (Gollwitzer, 1999; Shelton & Alain, 2014).
 
+## Related concepts
+
+- [[Attentional control training and the role of repeated redirection]] — listed for comparison
+
 ## Sources
 
 - Gollwitzer, 1999

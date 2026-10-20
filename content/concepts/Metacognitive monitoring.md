@@ -18,11 +18,15 @@ And its conclusion from such results ([Flavell, Metacognition and Cognitive Moni
 ## Facets
 
 - **as trainable**
-- **and decentering**
+- **and [[Decentering|decentering]]**
 
 ## Other formulations in this library
 
 
+
+## Related concepts
+
+- [[Decentering]] — the page’s facets list decentering alongside metacognitive monitoring
 
 ## Sources
 

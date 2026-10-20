@@ -6,13 +6,6 @@
    "phrase": "distrust of names and labels",
    "source": "w1a worker-w1a-4c8e21d7",
    "why": "body prose names the teaching without linking the concept page (links only the principle D016); unique occurrence at line 28, single-concept selector"
-  },
-  {
-   "into": "Metacognitive monitoring",
-   "concept": "Decentering",
-   "phrase": "decentering",
-   "why": "the page’s facets list decentering alongside metacognitive monitoring",
-   "_audit_why": "rg-verified single occurrence, no existing [[Decentering]] link in the file"
   }
  ],
  "reciprocal": [
@@ -55,29 +48,9 @@
    "why": "the concept page lists this topic among its Related entries; this link returns it"
   },
   {
-   "into": "Perceived partner responsiveness",
-   "link": "Active constructive responding",
-   "why": "the concept page lists this topic among its Related entries; this link returns it"
-  },
-  {
-   "into": "Aspiration index",
-   "link": "Intrinsic versus extrinsic goals",
-   "why": "the concept page lists this topic among its Related entries; this link returns it"
-  },
-  {
-   "into": "Extrinsic aspirations",
-   "link": "Intrinsic versus extrinsic goals",
-   "why": "the concept page lists this topic among its Related entries; this link returns it"
-  },
-  {
    "into": "Self-concordance theory",
    "link": "Intrinsic versus extrinsic goals",
    "why": "the concept page lists this topic among its Related entries; this link returns it"
-  },
-  {
-   "into": "Metacognitive monitoring",
-   "link": "Decentering",
-   "why": "the page’s facets list decentering alongside metacognitive monitoring"
   },
   {
    "into": "Rumination",
@@ -110,11 +83,6 @@
    "why": "Frankl’s discovery account, distinguished here from models of meaning-making"
   },
   {
-   "into": "Mattering",
-   "link": "Meaning",
-   "why": "the broader concept in which mattering is one dimension in this compendium"
-  },
-  {
    "into": "Resilience",
    "link": "Post-traumatic growth",
    "why": "reported positive changes emerging through the struggle with major life crises"
@@ -130,5 +98,5 @@
    "why": "the discipline of judgment expressed in Marcus’s instruction to maintain a mind free from passions"
   }
  ],
- "notes": " | deferred at this run (target band busy): 22 recip, 2 inline"
+ "notes": " | deferred at this run (target band busy): 22 recip, 2 inline | deferred at this run (target band busy): 17 recip, 1 inline"
 }

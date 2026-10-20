@@ -25,6 +25,8 @@ P078 "Read action in its context: always" emphasises contextual judgement and na
 
 ## Related concepts
 
+
+
 - [[Operant conditioning (Skinner)]] — the learning process the three-term contingency describes
 - [[Law of Effect]] — Thorndike's precursor: satisfaction stamps responses in
 - [[Reinforcement schedules (Ferster & Skinner)]] — how reinforcement arranged over time affects behavior
@@ -33,7 +35,8 @@ P078 "Read action in its context: always" emphasises contextual judgement and na
 - [[Functional contextualism]] — P078 connects both through its contextual treatment of action
 - [[Behavioral activation]] — an applied descendant for depression
 - [[Avoidance versus attentional engagement]] — the withdrawal cycle the operant logic explains
-
+- [[Behavioural chaining (applied behaviour analysis)]] — listed for comparison
+- [[Behavioural rehearsal / role-play (DBT, social skills training)]] — listed for comparison
 ## Sources
 
 - [Skinner, Science and Human Behavior (1953), ch. V "Operant Behavior" and ch. VII "Operant Discrimination"](https://www.bfskinner.org/wp-content/uploads/2014/02/ScienceHumanBehavior.pdf) — the three-term contingency (p. 108), the operant (pp. 64-66), probability of response (p. 87), the selection analogy (p. 90)

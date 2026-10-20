@@ -1,41 +1,6 @@
 {
  "reciprocal": [
   {
-   "into": "Exposure therapy (Foa, Craske)",
-   "link": "Evidence-based treatments (CBT, ACT, DBT, EMDR, medication) have robust evidence",
-   "why": "the exposure family of techniques inside CBT"
-  },
-  {
-   "into": "Dialectical behaviour therapy, emotion modulation",
-   "link": "Evidence-based treatments (CBT, ACT, DBT, EMDR, medication) have robust evidence",
-   "why": "the compendium's own page for one of the therapies named in the boundary concept's title"
-  },
-  {
-   "into": "Constitution of meaning",
-   "link": "Fusion of horizons",
-   "why": "meaning as constituted, the framework the fusion operates in"
-  },
-  {
-   "into": "Exposure therapy (Foa, Craske)",
-   "link": "Graded exposure / systematic desensitisation (Wolpe)",
-   "why": "the modern clinical form of Wolpe's graded approach"
-  },
-  {
-   "into": "Avoidance versus attentional engagement",
-   "link": "Graded exposure / systematic desensitisation (Wolpe)",
-   "why": "the maintaining factor the graded approach reverses"
-  },
-  {
-   "into": "Desire",
-   "link": "Natural and necessary",
-   "why": "the thing Epicurus's classification sorts"
-  },
-  {
-   "into": "Embodied social identity",
-   "link": "Procedural justice",
-   "why": "the group-identification mechanism behind process fairness effects"
-  },
-  {
    "into": "Growth mindset",
    "link": "Achievement goal theory (Dweck, Elliot)",
    "why": "the goal framework Dweck associates with the malleable-intelligence belief"
@@ -52,5 +17,5 @@
   }
  ],
  "inline": [],
- "notes": " | deferred at this run (target band busy): 6 recip, 0 inline | deferred at this run (target band busy): 6 recip, 0 inline | deferred at this run (target band busy): 6 recip, 0 inline | deferred at this run (target band busy): 21 recip, 1 inline | deferred at this run (target band busy): 21 recip, 0 inline | deferred at this run (target band busy): 21 recip, 0 inline | deferred at this run (target band busy): 10 recip, 0 inline"
+ "notes": " | deferred at this run (target band busy): 6 recip, 0 inline | deferred at this run (target band busy): 6 recip, 0 inline | deferred at this run (target band busy): 6 recip, 0 inline | deferred at this run (target band busy): 21 recip, 1 inline | deferred at this run (target band busy): 21 recip, 0 inline | deferred at this run (target band busy): 21 recip, 0 inline | deferred at this run (target band busy): 10 recip, 0 inline | deferred at this run (target band busy): 3 recip, 0 inline"
 }

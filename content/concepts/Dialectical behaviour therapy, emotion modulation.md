@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Dialectical behaviour therapy, emotion modulation” — Linehan, 1993.
 
+## Related concepts
+
+- [[Evidence-based treatments (CBT, ACT, DBT, EMDR, medication) have robust evidence]] — the compendium's own page for one of the therapies named in the boundary concept's title
+
 ## Sources
 
 - Linehan, 1993
