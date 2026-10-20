@@ -397,3 +397,13 @@
   differences measure. No In-the-compendium clauses (titles not opened);
   Related concepts: The expanding circle (Singer 1981, named in the opened
   paper), Moral identity (named as a comparison construct in the abstract).
+
+## Moral exemplar research (fast-track)
+- Opened: PubMed record 17983304 (Walker and Frimer 2007, JPSP 93(5), 845-860)
+  — all quoted fragments verbatim from the record's abstract (sample, design,
+  life-narrative findings, personality-augments-cognition sentence, caring-vs-
+  brave profile, "multiple ideals of moral maturity"). Full text NOT opened;
+  no claims beyond the abstract. Seed line replaced with abstract-grounded
+  description; existing Social learning theory (Bandura) link kept with a
+  reworded clause (modeling is the mechanism by which observers learn from
+  exemplars, not a claim about Walker and Frimer's design).
