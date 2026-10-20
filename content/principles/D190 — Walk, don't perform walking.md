@@ -14,7 +14,11 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 
 The Way is walked, not discussed: one hour of practice outweighs a library of commentary.
 
-Zhuangzi closes Book XIII with the wheelwright Phien, who tells Duke Hwan that the books of the dead sages hold only "the dregs and sediments of those old men": what was valuable in their words was never conveyable by words, and went with them to the grave. Phien's own art proves the rule. At seventy he is still making wheels, because the knack of his hand cannot be told "by word of mouth", and neither his son nor he can close that gap. Laozi opens the Daodejing with the same verdict from the other side: "The Tao that can be trodden is not the enduring and unchanging Tao. The name that can be named is not the enduring and unchanging name."
+Zhuangzi's Book XIII closes with the wheelwright Phien, who tells Duke Hwan that the books of the dead sages hold only "the dregs and sediments of those old men". The book's own statement of the problem is that words are only words: "Words have what is valuable in them;--what is valuable in words is the ideas they convey. But those ideas are a sequence of something else;--and what that something else is cannot be conveyed by words." Phien's art is his case in point: at seventy he is still making wheels, because he cannot tell how it is done "by word of mouth", and his son cannot learn it from him.
+
+The Daodejing opens with its own refusal: "The Tao that can be trodden is not the enduring and unchanging Tao. The name that can be named is not the enduring and unchanging name."
+
+The compendium's reading ties the two passages to practice: what the wheelwright cannot hand on, and what the Daodejing refuses to name, is reached by walking rather than by commentary. The one-hour-versus-library comparison in the statement is the compendium's measure, not a source-established one.
 
 (Zhuangzi 13; DDJ 1.)
 
@@ -23,7 +27,7 @@ Zhuangzi closes Book XIII with the wheelwright Phien, who tells Duke Hwan that t
 **Plain words**
 Take the subject you have read the most about and do its smallest real version this week: the walk, not another article about walking. Once you have read enough to start, the next book is the excuse.
 
-*For example:* The compendium's hypothetical: the person with the full home gym and the app subscription, next to the one who just walks. Ask which of the two is exercising.
+*For example:* The compendium's hypothetical: an evening set aside for practice, spent instead comparing mats and dumbbells online. Ask where the evening went: into the walk, or into commentary on walking.
 
 ## Sources
 
@@ -32,12 +36,12 @@ Take the subject you have read the most about and do its smallest real version t
 
 ## Psychology parallels
 
-- **[[Behavioral activation|Behavioral activation]]** — the compendium's formulation on its BA page: doing, not discussing, is the active ingredient against depression (Jacobson et al., 1996; Martell et al., 2001)
+- **[[Behavioral activation|Behavioral activation]]** (Jacobson et al., 1996; Martell et al., 2001)
 
 ## Philosophy parallels
 
 
-- **[[Praxis|Praxis]]** (Marx, Theses on Feuerbach XI), "the philosophers have only interpreted the world; the point is to change it"
+- **[[Praxis|Praxis]]** (Marx, Theses on Feuerbach XI)
 - **[[Dao|The Dao — the way things work]]** (Daoism, Daodejing 25)
 
 
