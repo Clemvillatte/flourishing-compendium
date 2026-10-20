@@ -8,8 +8,6 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC",
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
 
-a cognitive-therapy assumption that interpretations influence emotional responses (Beck, 1976).
-
 Cognitive mediation of distress names a cognitive-therapy assumption: interpretations influence emotional responses. The assumption is stated plainly in the therapy's basic premises:
 
 > Human emotions are primarily caused by people's thoughts and perceptions rather than events. — [Wikipedia, Cognitive behavioral therapy (opened)](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy)
@@ -37,7 +35,7 @@ The same overview describes reciprocal influences among events, thoughts, emotio
 ## Sources
 
 - [Wikipedia, Cognitive behavioral therapy — basic assumptions (opened)](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy)
-- Beck, 1976
+- Original seed reference: Beck, 1976 (not consulted; bibliographic date not verified)
 
 ## Cited in psychology parallels
 
