@@ -24,7 +24,6 @@ The 2002 paper's own abstract states the finding ([Schwartz et al., Maximizing v
 - [[A032 — Cultivate good deliberation (euboulia)]]
 - [[D022 — Subtract, don't add]]
 - [[CO044 — Learn to satisfice — good enough is often optimal]]
-- [[MO053 — Learn to manage perfectionism — good enough enables action]]
 
 ## Sources
 
@@ -38,3 +37,4 @@ The 2002 paper's own abstract states the finding ([Schwartz et al., Maximizing v
 - [[CO044 — Learn to satisfice — good enough is often optimal]]
 - [[D022 — Subtract, don't add]]
 - [[D165 — Cut complexity back to simplicity]]
+- [[MO053 — Learn to manage perfectionism — good enough enables action]]

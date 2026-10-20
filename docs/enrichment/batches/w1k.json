@@ -11,12 +11,12 @@
   "Intuition as method",
   "Ironic process",
   "Lifespan development",
-  "Maximizing versus satisficing",
   "Media multitasking",
   "Metacognitive monitoring",
   "Metanoia (transformation)",
   "Moral sentiments",
-  "Mattering"
+  "Mattering",
+  "Maximizing versus satisficing"
  ],
  "in_progress": null,
  "flagged": {
@@ -31,7 +31,7 @@
   "Lifespan development": "QC3 citation-only pass: citations added to the seed-line assertion, the 'Bleidorn et al. (2022) summarize...' sentence, and the maturity-principle lead-in. Validated vs seed baseline c2a3ee47: ok.",
   "Love": "QC2 REPAIR (advisor re-check): inline citations added to both factual lead-ins (citation-placement rule). Validated vs seed baseline c2a3ee47: ok.",
   "Mattering": "MILESTONE QC REPAIR (advisor, items 11-15): 'The concept was introduced by...' rephrased with Flett-Zangeneh attribution and citation; the near-verbatim 'In having a sense of mattering...' sentence replaced with a genuine paraphrase ('Costin and Vignoles connect existential mattering with the perceived value of one's life and the difference one's actions make'). Validated vs seed baseline c2a3ee47: ok.",
-  "Maximizing versus satisficing": "NOTE: the two inherited prose assertions ('maximisers are less satisfied with decisions and more prone to regret'; 'Decision research showing that satisficers... tend to be happier') were replaced with grounded prose per the inherited-wording-is-not-evidence rule; both are now supported by the opened sources. Grounded in two opened sources: the Schwartz et al. 2002 abstract (fetched via Semantic Scholar; full abstract returned in the page description; quoted verbatim) and Cheek and Schwartz, On the meaning and measurement of maximization (fetched via Semantic Scholar; the maximizer/satisficer definition quoted verbatim). Seed wikilink markup preserved exactly, including the seed's duplicate occurrences of CO044/D022/D165 (the seed listed each twice, scattered across both sections; duplicates restored under Cited in philosophy parallels mirroring the seed's placement); both inherited source lines (Schwartz et al. 2002, Iyengar et al. 2006) preserved in Sources — Iyengar et al. 2006 not characterized (not opened). Both lead-in sentences carry inline citations. Validated vs seed baseline c2a3ee47: ok (first run caught the dropped duplicates; fail-fast worked as intended).",
+  "Maximizing versus satisficing": "MILESTONE QC REPAIR (advisor, items 11-15): (1) abstract verified against the saved fetch result — the complete passage 'Can people feel worse off...' through '...regret, adaptation, and self-blame' appears verbatim in the saved file (tool_calls/fetch_url/output_6256f58db7b54c6093e750f04b391b4a.txt), so the blockquote stands; (2) MO053's sole occurrence restored to Cited in philosophy parallels (the seed had it there; I had moved it to psychology) — no duplication. Validated vs seed baseline c2a3ee47: ok.",
   "Media multitasking": "NOTE: the seed line's claim ('heavy multitaskers show poorer sustained attention') was not re-asserted — inherited wording is not evidence, and the opened abstract does not state poorer sustained attention; it states susceptibility to interference from irrelevant environmental stimuli and memory representations, and worse task-switching performance. Grounded in the opened primary source: Ophir, Nass and Wagner, Cognitive control in media multitaskers, PNAS 2009 (fetched; full abstract quoted verbatim). All six seed principle links (D071, AT016, AT055, AT063, B168, P174) preserved as bullets; inherited source line preserved; lead-in sentence carries inline citation. Validated vs seed baseline c2a3ee47: ok.",
   "Metacognitive monitoring": "NOTE: the seed line's gloss ('the capacity to evaluate one's own thinking as thinking') was not re-asserted as Flavell's claim — inherited wording is not evidence; the grounded prose describes Flavell's paper via its own text. Grounded in the opened source: Flavell 1979, Metacognition and Cognitive Monitoring, American Psychologist (fetched via Semantic Scholar; two verbatim passages from the paper's text quoted: the children's study-readiness examples and the 'quite limited in their knowledge and cognition about cognitive phenomena' conclusion). Facets (as trainable, and decentering) and the 'Other formulations' line preserved as inherited library content; all three inherited source lines preserved (Flavell 1979, the mindfulness monitoring literature, Teasdale et al. 2002 — the latter two not characterized, not opened); all six seed principle links (Y093, SP043, K004, Y013, CO063, AT034) preserved as bullets; both lead-in sentences carry inline citations. Validated vs seed baseline c2a3ee47: ok.",
   "Metanoia (transformation)": "Grounded in two opened sources: Thayer's Greek Lexicon entry for metanoia (fetched from Bible Hub; definition quoted verbatim, ellipsis marking the omitted biblical-reference parentheticals) and Matthew 4:17 KJV (fetched from Bible Hub; verse quoted verbatim as inline fragment). Banned-phrase hit fixed: prose mention of the banned word replaced with 'the word the Christian tradition renders as repentance' (the inherited Sources line keeps the seed's own wording — bullets are exempt from the prose phrase ban). Both seed lines preserved; seed wikilink markup preserved exactly, including the seed's duplicate occurrences of SE030 and AF053; both inherited source lines preserved; all lead-in sentences carry inline citations. Validated vs seed baseline c2a3ee47: ok.",
@@ -39,6 +39,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T07:33:59+00:00",
+ "updated": "2026-10-20T07:34:15+00:00",
  "band_done": false
 }
