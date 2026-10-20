@@ -12,21 +12,35 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 154** — Practice is for others (service)
 
-The point of a settled mind is not private comfort: it is to be of use. Practice that serves no one withers.
+Shantideva's Guide opens with the benefit of the awakening mind. The intention to benefit all beings, which does not arise in others even for their own sake, is an extraordinary jewel of the mind, the panacea that relieves the world of pain and the source of all its joy. If merely a benevolent intention excels venerating the Buddhas, he writes, what need to mention striving to make all beings without exception happy. (Shantideva, Guide, chapter 1, verses 25-27.)
 
-(Bodhisattva ideal; Shantideva 8; Dhammapada 154.)
+> "This intention to benefit all beings,
+> Which does not arise in others even for their own sake,
+> Is an extraordinary jewel of the mind,
+> And its birth is an unprecedented wonder.
+> How can I fathom the depths
+> Of the goodness of this jewel of the mind,
+> The panacea that relieves the world of pain
+> And is the source of all its joy?" (Shantideva, Guide, chapter 1, verses 25-26, [Batchelor translation](http://www.abuddhistlibrary.com/Buddhism/A%20-%20Tibetan%20Buddhism/Authors/Shantideva/A%20Guide%20to%20the%20Bodhisattva's%20Way%20of%20Life%20-%20%20Stephen%20Bachelor%20tra/A%20Guide%20to%20the%20Bodhisattva's%20Way%20of%20Life.pdf))
 
-**Plain words** The point of a settled mind is not private comfort — it is to be of use. Practice that serves no one withers. Serenity hoarded is a lake with no outlet; it stagnates exactly as fast as it's protected.
+The compendium's application: on this account the direction of practice is set by intention, and the chapter measures the jewel's worth at the world's edge, not the practitioner's.
 
-*For example:* The retiree who meditates four hours a day and grows cranky — versus the one who teaches kids to read. Same practice, one of them is alive.
+**Plain words**
+As a compendium exercise, name one benefit of your practice that reaches someone besides you. If you cannot name one, that is an observation to sit with rather than a verdict.
+
+*For example:* Imagine two retirees who each meditate daily. One guards the hours and grows sharper about interruptions; the other uses the settled attention to teach children to read. Same technique, different direction.
 
 ## Practice kernels
 
 - [[K225 — Service and creation|K225 Service and creation]]
 
+## Sources
+
+- [Shantideva, A Guide to the Bodhisattva's Way of Life, Batchelor translation (PDF)](http://www.abuddhistlibrary.com/Buddhism/A%20-%20Tibetan%20Buddhism/Authors/Shantideva/A%20Guide%20to%20the%20Bodhisattva's%20Way%20of%20Life%20-%20%20Stephen%20Bachelor%20tra/A%20Guide%20to%20the%20Bodhisattva's%20Way%20of%20Life.pdf) — chapter 1, verses 25-27, the benefit of the awakening mind
+
 ## Psychology parallels
 
-- **Volunteering and prosocial spending**, raise well-being (Dunn et al., 2008; Post, 2005)
+- **Volunteering and prosocial spending** (Dunn et al., 2008; Post, 2005)
 
 ## Philosophy parallels
 
