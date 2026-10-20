@@ -108,3 +108,21 @@ priority, then B items in manifest order (manifest lists bare IDs; no titles).
 - Limitations: inherited parallels (Trope and Liberman 2010; Zhiyi; Leibniz) NOT
   opened; flagged inherited parallels. Linked concepts (Construal-level theory, Three
   thousand realms in one thought, The holographic whole) skimmed as seeds only.
+
+## B064 — Drop preferences: the Great Way is not difficult
+
+- Opened: https://azinelibrary.org/trash/xin-xin-ming-reading.pdf (Xinxin Ming, Robert
+  B. Clarke translation, "Song of the Faithful Mind") — opening lines through the
+  "true nature of things" passage, fetched in full; and
+  https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.06.budd.html (Dhammapada
+  Panditavagga, Buddharakkhita translation) — verse 83 verified verbatim.
+- Verbatim quotes used: the opening four lines ("The Great Way is not difficult / for
+  those who have no preferences. / When love and hate are both absent / everything
+  becomes clear and undisguised."); Dhp 83 clause "The wise show no elation or
+  depression when touched by happiness or sorrow." Body paraphrases of "disease of
+  the mind" and "choosing to accept or reject" checked against the opened Clarke text.
+- Note: the Clarke translation here matches the Terebess-hosted Clarke text the
+  supervisor verified for B140 (QC log 2026-10-20).
+- Limitations: inherited parallels (Dugas et al. 1998; Hayes et al. 2011; Zhuangzi 2;
+  Daodejing 25) NOT opened; flagged inherited parallels. Linked concepts (Intolerance
+  of ambiguity, Acceptance processes, Ziran) skimmed as seeds only.

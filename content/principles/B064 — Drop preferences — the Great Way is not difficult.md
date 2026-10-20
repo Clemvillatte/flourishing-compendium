@@ -12,13 +12,28 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 64** — Drop preferences: the Great Way is not difficult
 
-The Way opens when the mind stops picking and choosing, grasping and rejecting. Let preferences be seen as preferences, not verdicts.
+Sengcan's Xinxin Ming opens with the claim in its plainest form: the Great Way is not difficult for those who have no preferences. What blocks it is picking and choosing; the poem calls the setting of what you like against what you dislike the disease of the mind, and says it is the choosing to accept or reject that keeps the true nature of things from view. (Sengcan, Xinxin Ming.)
 
-(Sengcan, Xinxin Ming; Dhammapada 83.)
+> The Great Way is not difficult
+> for those who have no preferences.
+> When love and hate are both absent
+> everything becomes clear and undisguised.
+>
+> (Xinxin Ming, [Clarke translation](https://azinelibrary.org/trash/xin-xin-ming-reading.pdf))
 
-**Plain words** The Way opens when the mind stops picking and choosing, grasping and rejecting. Let preferences be seen as preferences, not verdicts. You don't have to stop having favorites — just stop being governed by them.
+The Dhammapada makes a parallel point about the wise: they show no elation or depression when touched by happiness or sorrow. In the compendium's reading, preferences are to be seen as preferences, not verdicts; the liking and disliking can continue while the mind stops being governed by them. (Dhammapada 83.)
 
-*For example:* The traveler who stops ranking every meal against the last one — and suddenly the food, any food, is good.
+> "The wise show no elation or depression when touched by happiness or sorrow." (Dhammapada 83, [Buddharakkhita, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.06.budd.html))
+
+**Plain words**
+Take one preference you defend strongly, and check its size. It is a liking: it came from somewhere, it could have come out differently, and it does not have the authority it claims. The exercise is to keep the liking and drop the verdict, then notice whether the next hour changes. The exercise is not to want nothing; it is to check who is in charge of the wanting.
+
+*For example:* Imagine a traveler who stops ranking each meal against the last one. Nothing about the food has changed; what changes is how much of the meal there is left to notice.
+
+## Sources
+
+- [Xinxin Ming, Robert B. Clarke translation, AZINE Library](https://azinelibrary.org/trash/xin-xin-ming-reading.pdf) — opening lines and the disease-of-the-mind passage
+- [Dhammapada, Buddharakkhita translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.06.budd.html) — verse 83
 
 ## Psychology parallels
 
