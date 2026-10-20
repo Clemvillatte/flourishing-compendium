@@ -22,6 +22,10 @@ The second move is the one that separates Dewey from fatalism: once the gamble i
 
 *For example:* Two people move to a new city. One treats any setback — the bad job, the difficult year — as evidence the whole move was a mistake. The other names the same setback as the aleatory and asks what the method is now: reserves, contacts, next quarter's plan. Same setback, different relation to the dice. One of them is still arguing with the table; the other is playing.
 
+## Stories
+
+- [[ST350 — The Measure of Chance|350. The Measure of Chance]]
+
 ## Psychology parallels
 
 - **Risk perception and probability weighting** (conceptual parallel; Kahneman and Tversky, 1979)

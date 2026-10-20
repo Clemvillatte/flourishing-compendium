@@ -478,3 +478,28 @@ previously pushed only by ad-hoc git add) — KEPT, verified on origin/main.
     NOT opened; the Dewey quotations are carried by the opened
     Westbrook article with page anchors. Recorded per the
     catalogue-holdings vs accessible-texts distinction.
+
+## Pragmatism batch 2, item 2 — ST350 (claim-to-passage evidence)
+
+- **ST350 — The Measure of Chance** (P189; ch. ST-S03.01)
+  - Essay: "The Doctrine of Necessity Examined" (The Monist, 1892), in
+    the owner's Essential Peirce vol. 1 (Drive PDF, downloaded and
+    extracted with pdftotext — tool name kept out of the published
+    page). All quoted passages verified against the extracted text with
+    print-page anchors (I 308, I 309, I 310): growth/complexity,
+    pure-spontaneity passage, rigid-exactitude-to-yield passage, the
+    generalisation/habits sentence, the variety sentence. First use of
+    the owner's Peirce folder for a story; the compendium rule (Peirce
+    quotes only from an actually opened Peirce passage with its
+    locator) is satisfied.
+  - Life facts: SEP Peirce entry (opened in full via extraction, then
+    re-verified): 32 years Coast and Geodetic Survey (1859 to the last
+    day of 1891), pendulums often of his own design; Johns Hopkins
+    1879-1884 termination connected to the second marriage (Juliette,
+    Romani; divorce two days before the wedding); the only academic
+    post; penury thereafter, charity of friends, above all William
+    James; ~12,000 printed pages, ~80,000 handwritten unpublished.
+  - Word-budget pass: prose trims to fit 480; em-dash budget respected
+    (the two em-dashes inside the verbatim Peirce quotation are the only
+    dashes in prose); story_check published: 0 errors; structural
+    validator: new-file no-baseline only (real check post-commit).
