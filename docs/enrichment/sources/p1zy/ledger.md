@@ -105,3 +105,7 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 ## Y130 (2026-10-21)
 - Reuses the Woods pages verified for Y125 (2.28 p. 172; 2.29 p. 177; 2.30 p. 178; 2.32 p. 181) and Arnold Gita ch. 6 moderation lines; quotes re-checked by script (Icvara read as Isvara).
 - Old text's "the tradition's own practice instruction", "designed maintenance cycle" and "annual foundations month" have no support in the opened texts; page labels them as the principle's proposals and the sequence-as-cumulative reading as an inference. Moderation is from the Gita, not a Woods observance; stated. Old cites BG 6.16-6.17 not checked against a numbered edition. Plain words replicate replaced; example imagined. Self-QC only.
+
+## Y132 (2026-10-21)
+- Woods HOS 17: 1.3 and commentary (p. 13, "13]" head); 4.34 (sutra p. 347, commentary into p. 348 per the "[348" head); Arnold Gita ch. 6 (lamp sheltered from the wind; "call that state peace"). All quotes verified by script.
+- Old text's "the lake settled" image, "striving is a means that can be set down" and the closing one-minute non-doing practice are not in the opened passages; page flags them as the principle's. "Isolation" is Woods' rendering of kaivalya. Old cite BG 6.19 not checked against a numbered edition. Plain words replicate replaced; example imagined. Self-QC only.

@@ -12,13 +12,26 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 132** — End in rest, not striving
 
-The final principle returns to the first: the goal is described as a resting, the seer at home in its own nature, the lake settled, the lamp in a windless place not flickering. The tradition's last word on striving is that striving is a means, and the sign of maturity is that striving can be set down. Practically, end each practice not with a push but with one full minute of deliberate non-doing, and let the practice's last taste be rest.
+Three passages describe the end of practice as a settled state. Sutra 1.3 says: "Then the Seer [that is, the Self,] abides in himself" (trans. Woods, p. 13). The commentary explains that "the peaceful and the cruel and the infatuated nature falsely attributed [to the Self] has ceased" (p. 13), and compares the Self to a crystal that stays clear while a nearby red flower makes it look red.
 
-(YS 1.3; YS 4.34; BG 6.19.)
+### Isolation and the lamp
 
-**Plain words** The final principle returns to the first: the goal is described as a resting — the seer at home in its own nature, the lake settled, the lamp in a windless place not flickering. Striving is a means, and the sign of maturity is that striving gets quieter. End in rest, not striving.
+Sutra 4.34, the last of the work, reads: "Isolation is the inverse generation of the aspects, no longer provided with a purpose by the Self, or it is the Energy of Intellect grounded in itself" (p. 347). Here "isolation" is the translator's word for kaivalya. It describes the aspects having done their work and resolved into their cause. Arnold's Gita gives the lamp: "Steadfast a lamp burns sheltered from the wind; such is the likeness of the Yogi's mind shut from sense-storms and burning bright to Heaven" (ch. 6, Arnold). It continues: "call that state 'peace,' that happy severance Yoga; call that man the perfect Yogin!" (ch. 6, Arnold).
 
-*For example:* The long-practised person at the end of the path doesn't look accomplished — they look at home. The striving that got them there is the first thing that settled.
+### What is not in the sources
+
+I did not find the image of a lake settling in the passages I opened. Nothing in them says that striving is only a means that can be put down, and none speaks of a closing minute of non-doing at the end of each sitting. These are the principle's own reading and practical rule, and the verse number 6.19 is not checked because Arnold's verses are unnumbered.
+
+**Plain words** The texts describe the aim as the Seer resting in itself, the mind like a lamp that does not flicker, and a state Arnold calls peace. They describe the destination, not a way of ending a daily practice. Closing each sitting with a minute of quiet is a modern addition.
+
+*For example:* Imagined example: after a sitting, you leave the timer running for one extra minute and do nothing. The minute is your own addition.
+
+(Yoga Sutras 1.3 and 4.34, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), pp. 13, 347-348, Internet Archive; Bhagavad-Gita ch. 6, trans. Sir Edwin Arnold, The Song Celestial, Project Gutenberg #2388; both opened 2026-10-21.)
+
+## Sources
+
+- [Woods, The Yoga-System of Patanjali (1914), Internet Archive](https://archive.org/details/yogasystemofpata00wooduoft) — pp. 13, 347-348
+- [Arnold, The Song Celestial, Project Gutenberg](https://www.gutenberg.org/ebooks/2388) — chapter 6
 ## Psychology parallels
 
 - **Rest and recovery as active components of practice**, the restoration literature
