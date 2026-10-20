@@ -24,7 +24,8 @@
   "Stress response (Lupien, McEwen)",
   "Suspension of the natural attitude",
   "The care of the self",
-  "The creative life"
+  "The creative life",
+  "The ethics of care"
  ],
  "in_progress": null,
  "flagged": {
@@ -49,6 +50,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T06:10:25+00:00",
+ "updated": "2026-10-20T06:11:07+00:00",
  "band_done": false
 }
