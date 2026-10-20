@@ -10,7 +10,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 “Confucian role ethics” — Confucius, Analects.
 
-Confucian role ethics is a way of thinking found in the Analects and named as a framework in later scholarship. The opened overview defines the term and its core:
+The Role ethics overview describes Confucian role ethics through the fulfilment of roles and relationships:
 
 > In Confucian role ethics, morality is based on a person's fulfillment of a role, such as that of a parent or a child. These roles are established as relationships, and are not individualistic. — [Wikipedia, Role ethics (opened)](https://en.wikipedia.org/wiki/Role_ethics)
 
