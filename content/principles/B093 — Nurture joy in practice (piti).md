@@ -12,13 +12,24 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 93** — Nurture joy in practice (piti)
 
-Rapture and gladness are supports of the path, not indulgences: let the body soften into joy, and joy will steady the mind.
+MN 118 makes rapture a step in a working sequence rather than a reward. In one whose persistence is aroused, a rapture not-of-the-flesh arises; for one enraptured at heart, the body grows calm and the mind grows calm; for one who is at ease, body calmed, the mind becomes concentrated. Joy is listed among the factors for awakening, each developed to the culmination of its development. (MN 118.)
 
-(SN 46; Dhammapada 15, 376.)
+> "For one enraptured at heart, the body grows calm and the mind grows calm." (MN 118, [Thanissaro, Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.118.than.html))
 
-**Plain words** Rapture and gladness are supports of the path, not indulgences — let the body soften into joy, and joy will steady the mind. Delight is allowed. The grim, clenched practice that refuses all pleasure is just hatred wearing meditation clothes.
+The Dhammapada gives the same allowance in ordinary terms. The happiness chapter has practitioners living happily amid the hostile, and verse 200 says those who possess nothing are feeders on joy, like the Radiant Gods; verse 376 closes with the monk full of joy making an end of suffering. (Dhammapada 15, 376.)
 
-*For example:* The practitioner who finally lets the morning sit actually feel good — and the practice stops being an endurance event.
+> "Happy indeed we live, we who possess nothing. Feeders on joy we shall be, like the Radiant Gods." (Dhammapada 200, [Buddharakkhita, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.15.budd.html))
+
+**Plain words**
+The grim, clenched version of practice is worth testing against the sequence above: rapture is meant to precede calm, and calm to precede concentration. Try letting one session of your practice be guided by what feels nourishing: a slower pace, a kinder posture, a place you like. Note whether the attention steadies or scatters, and let that be the measure.
+
+*For example:* Imagine a morning sit allowed to actually feel good, posture chosen for comfort rather than endurance. The practice stops being an endurance event, and the calm the sequence describes has something to work with.
+
+## Sources
+
+- [Anapanasati Sutta (MN 118), Thanissaro translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.118.than.html) — the rapture-calm-concentration chain
+- [Dhammapada Sukhavagga, Buddharakkhita translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.15.budd.html) — verse 200
+- [Dhammapada Bhikkhuvagga, Buddharakkhita translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.25.budd.html) — verse 376
 
 ## Psychology parallels
 

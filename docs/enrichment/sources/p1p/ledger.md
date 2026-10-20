@@ -241,3 +241,24 @@ priority, then B items in manifest order (manifest lists bare IDs; no titles).
 - Limitations: inherited parallels (Gollwitzer 1999; Frankfurt; Kierkegaard) NOT
   opened; flagged inherited parallels. Linked concepts (Implementation intentions,
   Second-order desires) skimmed as seeds only.
+
+## B093 — Nurture joy in practice (piti)
+
+- Opened: https://www.accesstoinsight.org/tipitaka/mn/mn.118.than.html (MN 118
+  Anapanasati Sutta, Thanissaro) — rapture tetrad and the factors-for-awakening
+  chain; https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.15.budd.html (Dhammapada
+  ch. 15 Sukhavagga, Buddharakkhita) — verses 197-200; and
+  https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.25.budd.html (ch. 25
+  Bhikkhuvagga) — verse 376.
+- Verbatim quotes used: MN 118 "For one enraptured at heart, the body grows calm and
+  the mind grows calm."; Dhp 200 "Happy indeed we live, we who possess nothing.
+  Feeders on joy we shall be, like the Radiant Gods." The "SN 46" locator in the
+  original body: SN 46 (Bojjhanga-samyutta) was NOT opened; the chain quote was
+  verified in MN 118's factors passage instead, and the body's citation narrowed
+  accordingly. Dhp 376 paraphrased ("full of joy... make an end of suffering")
+  against the opened verse.
+- The "hatred wearing meditation clothes" quip removed from the original Plain words
+  (voice repair, unsourced claim).
+- Limitations: inherited parallels (Fredrickson 2001; Bryant and Veroff 2007;
+  Spinoza Ethics III) NOT opened; flagged inherited parallels. Linked concepts
+  (Broaden-and-build, Savoring) skimmed as seeds only.
