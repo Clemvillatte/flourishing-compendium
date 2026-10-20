@@ -20,8 +20,9 @@ what was quoted, and what each claim rests on. Follows the band ledger conventio
   transformation claims. The poem's scene is presented as the poem's scene.
 - Intentional link removal: [[Post-traumatic growth]] dropped from Resonates
   per advisor QC round 1 (loose construct-level claim, not grounded in the
-  opened sources). Validator FAILs by design on this removal (w1e namespace
-  precedent); the file validates clean at the post-commit HEAD.
+  opened sources). Against the pre-repair baseline d5d005fd the file FAILs on
+  this one removal only (w1e namespace precedent for documented intentional
+  removals); ST338-ST341 pass against the same baseline.
 
 ## ST338 — Xu You Refuses the Empire
 
@@ -45,9 +46,12 @@ what was quoted, and what each claim rests on. Follows the band ledger conventio
   mats, handful of students, Iikubo teaching three days a week); "A main
   feature of the art is the application of the principles of non-resistance
   and taking advantage of the opponent's loss of equilibrium..."; "the main
-  principle of judo involved gaining victory by yielding to strength" (the
-  page's description, attributed as such); "When yielding is the highest
-  efficient use of energy, then yielding is judo" (capital W preserved);
+  principle of judo involved gaining victory by yielding to strength" (raw
+  wikitext: the theme of the 1888 Kanō-Lindsay lecture to the Asiatic Society
+  of Japan — the story now attributes it to the lecture); "When yielding is
+  the highest efficient use of energy, then yielding is judo" (capital W
+  preserved; raw wikitext: "as Kanō himself put it to a reporter in 1938",
+  Japan Times 17 May 1938 — the 1938 context is now in the story);
   "Maximum Efficiency in Use of Mind and Body" principle framing.
 - Removed in QC round 1: push/pull choreography paragraph (unverified),
   "softer art kept winning" claim, "cramped ten-mat rooms" plural, literal
@@ -91,20 +95,19 @@ what was quoted, and what each claim rests on. Follows the band ledger conventio
   as a closer; the Daoist pairing is labelled the compendium's cross-tradition
   analogy.
 
-## Validator change (supervisor maintenance, narrowed in QC round 2)
+## Validator change (supervisor maintenance — REVERTED in QC round 3)
 
-enrich_validate.py exempts ONLY pure tables of contents — structural pages
-(book/chapter/layer/section/reference/navnode/volume) whose prose word count
-is ZERO — from the prose/Sources/banned-word/staging bar, while keeping every
-protected-markup check. Structural pages that carry prose (e.g. the
-Pragmatist book page, ~1,100 words) remain fully subject to the bar.
-Reason: the Stories book Contents file is a table of contents and was FAILing
-the concept bar when a story link was added. Targeted regression tests added at
-scripts/tests/test_enrich_validate.py (3 tests: pure-ToC exempt; markup
-protection still fires on a removed Contents link; concept short-prose still
-FAILs) plus the existing suites (25 safety + 5 manifest) — all pass.
+A structural-page exemption was added to enrich_validate.py (pure tables of
+contents waive the prose/Sources bar) and then REVERTED in advisor QC round 3:
+zero counted prose does not establish a pure ToC (prose_text also excludes
+bullets and blockquotes), the tests did not cover that distinction, and the
+detour was costing storytelling effort. The Stories book Contents file
+(content/structure/ST — Stories of Genuine Flourishing.md) will therefore
+FAIL validation with structural false positives ("prose too short: 0",
+"## Sources has no http(s) URL") whenever a story link is added to it —
+treat those two errors on that file as known false positives, not defects.
 enrich_save.sh now also stages sources/ (band ledgers live there and were
-previously pushed only by ad-hoc git add).
+previously pushed only by ad-hoc git add) — KEPT, verified on origin/main.
 
 ## Process notes
 
