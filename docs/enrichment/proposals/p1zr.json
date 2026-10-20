@@ -1,6 +1,6 @@
 {
  "batch": "p1zr",
- "revision": 4,
+ "revision": 5,
  "reciprocal": [
   {
    "into": "Capacity to be alone (Winnicott)",
@@ -13,6 +13,12 @@
    "link": "AF070",
    "why": "The principle naming the tested variety moderator of adaptation, listed alongside the forecasting and treadmill principles",
    "notes": "AF070 body now grounds in Sheldon & Lyubomirsky 2012 (opened full text); target page cites AF007/AF069 but not AF070."
+  },
+  {
+   "into": "Social attention",
+   "link": "AT009",
+   "why": "The principle stating that gaze both steers and couples attention between people, listed alongside the social-media attention principle",
+   "notes": "AT009 body grounds in Friesen & Kingstone 1998 (opened full text) and Richardson et al. 2007 (opened abstract); Social attention page cites AT062 only."
   }
  ],
  "inline": [],
