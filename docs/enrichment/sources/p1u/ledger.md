@@ -157,7 +157,8 @@ Claim and state transitions are pushed separately for interruption safety.
   exact six-word excerpt. Fresh-source recheck corrected the initial
   capitalisation and period, which incorrectly made it a standalone
   sentence. Surrounding travel, speech,
-  door/bolts and binding/cords descriptions are on that passage.
+  closing/bolts-or-bars and binding/strings-or-knots descriptions are in
+  that passage. Advisor correction removed door/cords glosses.
 - Seed's general claim that mastery outgrows instruments is narrowed to
   images of skilful action. Modern question and imagined map-app example
   concern choosing a task, not cognitive independence or disability.
@@ -208,7 +209,23 @@ Claim and state transitions are pushed separately for interruption safety.
 - Baseline preservation check against de7801af passed metadata, principle
   statements, original wikilinks and reflections for all nine.
 - First milestone advisor correction pass is pushed; independent recheck
-  and QC of D159/D173/D178/D183 pending.
+  and QC of D159/D173/D178/D183 completed: eight PASS, D178 needs one
+  paraphrase correction, now applied. Optional D173/D183 source-tightening
+  also applied. All nine quotations and preservation independently PASS.
+
+## Manifest-overlap warning for supervisor (2026-10-20)
+
+- B125 was rewritten by live p1m at c6f90c30 while p1u was reaching it.
+  No B125 content edits by p1u. Skip it pending ownership reconciliation.
+- B139 is also already done in p1m. B140 is done in p1h, B157/B163 in
+  p1k, and B164 in p1n. Do not overwrite these completed entries merely
+  because p1u's older priority manifest still contains them.
+- B137 was already done in p1p when p1u reached it. p1u's rewrite landed
+  before this overlap was detected. Existing links, metadata and protected
+  content preserved; its sources were independently opened. Supervisor
+  should review ownership attribution and avoid counting it twice.
+- No other band's state, content, queues or progress were edited to
+  reconcile this. Only p1u state/ledger and its TASKBOARD row are used.
 
 ## B137: Expect your seeing to change (2026-10-20)
 

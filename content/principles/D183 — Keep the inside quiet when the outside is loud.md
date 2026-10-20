@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 183** — Keep the inside quiet when the outside is loud
 
-Daodejing 26 connects stillness with movement and gravity with lightness. Its example is a prince who travels all day without leaving his baggage waggons, remaining in his place even with brilliant prospects to look at ([Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm)).
+Daodejing 26 connects stillness with movement and gravity with lightness. Its example is a prince who travels all day without going far from his baggage waggons, remaining in his place even with brilliant prospects to look at ([Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm)).
 
 > Gravity is the root of lightness; stillness, the ruler of movement.
 

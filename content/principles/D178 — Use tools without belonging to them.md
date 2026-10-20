@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 178** — Use tools without belonging to them
 
-Daodejing 27 describes skilful action through travel without tracks, speech without faults and reckoning without tallies. It then gives images of a secure door without bolts and a binding without cords ([Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm)).
+Daodejing 27 describes skilful action through travel without tracks, speech without faults and reckoning without tallies. It then describes closing that needs no bolts or bars and binding that uses no strings or knots ([Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm)).
 
 > the skilful reckoner uses no tallies;
 

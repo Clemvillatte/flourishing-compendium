@@ -14,8 +14,10 @@
   "B137"
  ],
  "in_progress": "B125",
- "flagged": {},
+ "flagged": {
+  "B125": "Ownership overlap: already done by live p1m at c6f90c30; no p1u content edit; skip pending supervisor reconciliation"
+ },
  "missing_concepts": [],
  "sources_checked": 15,
- "updated": "2026-10-20T02:24:00+00:00"
+ "updated": "2026-10-20T02:25:23+00:00"
 }

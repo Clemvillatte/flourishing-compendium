@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 173** — Accept the world's dirt
 
-Daodejing 78 moves from water's ability to overcome the hard to a saying about rule: the person who receives the state's reproach and bears people's woes is fit to lead. Legge renders the saying through the state's altars and the title of king ([Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm)).
+Daodejing 78 moves from water's ability to overcome the hard to a saying about rule: the person who receives the state's reproach and bears people's woes is hailed as lord and called king. Legge renders the saying through the state's altars and the title of king ([Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm)).
 
 > He who accepts his state's reproach,
 > Is hailed therefore its altars' lord;
