@@ -12,13 +12,23 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 261** — Accept that Stoicism is a practice, not a destination
 
-You will never be a perfect sage. The sage is an ideal, not a realistic goal. The realistic goal is the prokopton: the person making progress. Measure yourself not by where you are but by whether you are moving.
+Epictetus devoted a chapter to what improvement in philosophy actually is. His mock target is the student who shows off his reading: "Who then makes improvement? Is it he who has read many books of Chrysippus?" The chapter ends with its own answer:
 
-(Disc. I.4, I.15, I.20, III.5, III.21; Ench. 1, 12, 29, 48, 51; Seneca, Letters 16, 71, 72, 75; Med. V.9, IX.29, X.1, XI.9.)
+> this is the man who truly makes progress, and this is the man who has not travelled in vain.
 
-**Plain words** The perfect sage doesn't exist — it's a north star, not a graduation requirement. The realistic target is the prokopton, the person making progress. Measure yourself by direction, not position: are you moving?
+(Epictetus, Discourses I.4 "Of Progress or Improvement", Long translation; [Gutenberg text](https://www.gutenberg.org/cache/epub/10661/pg10661-images.html))
 
-*For example:* The recovering perfectionist who replaces "am I good yet?" with "was I better than last month?" — and finally has a question they can actually answer.
+The progress Epictetus will certify sits in the exercises themselves: how desire and aversion are employed, whether the student turns to his own will to improve it by labor. The Encheiridion ranks the parts the same way: the first and most necessary part of philosophy is the use of its precepts, and most people do the contrary, spending their time further down the list and neglecting the first (Ench. 51, Long). The sage never appears on stage in any of this; what appears is the person practising.
+
+**Plain words**
+The perfection the tradition points at is a measuring line, not a membership card. Nobody checks whether you have arrived, because the ideal sage is not a real person. The question Epictetus asks instead is directional: is the work being done on your own reactions? A book read counts for nothing here; a desire better handled counts.
+
+*For example:* Imagine a recovering perfectionist who replaces the question "am I good yet?" with "was I better than last month?", and finally has a question that can actually be answered.
+
+## Sources
+
+- Epictetus, Discourses I.4 and Encheiridion 51 (George Long translation) — [Gutenberg text](https://www.gutenberg.org/cache/epub/10661/pg10661-images.html)
+
 ## Psychology parallels
 
 - **The good life as process** (Rogers, On Becoming a Person)
