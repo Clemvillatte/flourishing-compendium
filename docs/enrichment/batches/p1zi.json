@@ -7,8 +7,11 @@
   "SP079"
  ],
  "in_progress": null,
- "flagged": {},
+ "flagged": {
+  "SP079": "Reopened for QC: QC round 1: quote terminal punctuation (design: not design.), majority-vs-all overreach, participation guarantee, humanizer, PT sentence reader-facing, parallels claim clauses"
+ },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T09:52:01+00:00"
+ "updated": "2026-10-20T09:54:20+00:00",
+ "band_done": false
 }

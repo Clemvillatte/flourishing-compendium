@@ -12,22 +12,24 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 79** — Prefer democracy, and participate
 
-Spinoza's case for democracy rests on two claims he makes in the Theologico-Political Treatise. The first is about error: in a democracy "it is almost impossible that the majority of a people, especially if it be a large one, should agree in an irrational design." ([ch. 16, Elwes translation](https://www.gutenberg.org/ebooks/992)) A large body of deciders holds many independent wills, and folly has to get past all of them. The second is about standing: "In it no one transfers his natural right so absolutely that he has no further voice in affairs, he only hands it over to the majority of a society, whereof he is a unit." ([ch. 16](https://www.gutenberg.org/ebooks/992)) Hence his verdict:
+Spinoza prefers democracy because the individual hands power over to a society of which he remains a member, keeping a voice in its affairs. In Elwes's translation:
 
-> "I believe it to be of all forms of government the most natural, and the most consonant with individual liberty." ([Theologico-Political Treatise, ch. 16, Elwes translation](https://www.gutenberg.org/ebooks/992))
+> "In it no one transfers his natural right so absolutely that he has no further voice in affairs, he only hands it over to the majority of a society, whereof he is a unit." ([Theologico-Political Treatise, ch. 16, Elwes translation](https://www.gutenberg.org/ebooks/992))
 
-The practice follows from the standing. A voice you hold is only yours while you use it: skip the meetings and other hands spend it for you. Wherever you have a say, in a family, a workplace or a community, use it.
+His verdict on the arrangement:
 
-**Plain words** A group decision works like a jury, not a cockpit: no single person's mood steers it, and every course has to be argued for. The argument itself is the safeguard. Your share of the say shrinks to nothing if you never exercise it, so the habit of showing up is part of the principle, not a separate civic duty.
+> "I believe it to be of all forms of government the most natural, and the most consonant with individual liberty." ([ch. 16, Elwes translation](https://www.gutenberg.org/ebooks/992))
 
-*For example:* The strata committee that three people run because the other forty never show. The year the quiet ones turn up, the building's decisions start tracking the building's actual interests.
+The compendium's application: wherever you hold a say, in a family, a workplace or a community, find out what is proposed and use the say.
 
-(Theologico-Political Treatise, ch. 16, Elwes translation; the unfinished Political Treatise also treats democracy, ch. 11, not opened for this item.)
+**Plain words** You remain one of the people entitled to help decide. Using that standing takes some work: find out what is proposed, ask questions, and cast your vote.
+
+*For example:* At an imagined strata meeting, you compare two repair quotes, ask why one is preferred, and vote for the option you judge better.
 ## Psychology parallels
 
-- **Civic participation and well-being**, the findings that participation predicts efficacy and life satisfaction (the civic-engagement literature)
+- **Civic participation and well-being** (the civic-engagement literature)
 
 ## Philosophy parallels
 
-- **Politics as the good life's arena** (Aristotle, Politics I.2)
+- **Politics as the good life's arena** (Aristotle, Politics I.2: the state comes into existence "originating in the bare needs of life, and continuing in existence for the sake of a good life", [Jowett translation, MIT Classics](https://classics.mit.edu/Aristotle/politics.1.one.html))
 - **[[Government of the people|Government of the people]]** (Lincoln, Gettysburg Address, as cultural parallel)
