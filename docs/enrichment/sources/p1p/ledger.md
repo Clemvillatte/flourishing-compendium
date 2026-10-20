@@ -342,3 +342,18 @@ priority, then B items in manifest order (manifest lists bare IDs; no titles).
   Hanh Interbeing) NOT opened; flagged inherited parallels. Linked concepts
   (Cognitive flexibility, Shunyata, Wu, Interbeing) bodies to be read per the
   post-QC protocol.
+
+## B136 — Mind constructs the world you meet
+
+- Opened: Dhp ch. 1 page and MN 18 page (both already opened for B086/B089 and
+  B076 respectively; research batching).
+- Verbatim quotes used: Dhp 1 opening line; MN 18 "Based on what a person
+  objectifies, the perceptions & categories of objectification assail him/her with
+  regard to past, present, & future forms cognizable via the eye." The Dhp 1-2
+  ox-wheel/shadow imagery paraphrased against the opened verses.
+- The original body's [[Clarity of mind]] wikilink was initially dropped and the
+  validator caught it (LOST 1 original links); restored in the body with its
+  original label. Lesson: check the original body for inline wikilinks before
+  replacing it.
+- Limitations: inherited parallels (Lazarus; Schwarz and Clore 1983; Schopenhauer;
+  Husserl) NOT opened; flagged inherited parallels.

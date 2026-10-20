@@ -12,13 +12,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 136** — Mind constructs the world you meet
 
-The mind precedes the world: an angry mind meets an angry world, a grasping mind meets scarcity, a [[Clarity of mind|clear mind]] meets what is. Work on the projector, not only the screen.
+The Dhammapada's first verse gives the claim: mind precedes all mental states, is their chief, and they are all mind-wrought, so the impure mind's act draws suffering after it like the ox-wheel, and the pure mind's draws happiness like a shadow. The world you meet is downstream of the mind doing the meeting; a [[Clarity of mind|clear mind]] meets what is. (Dhammapada 1.)
 
-(Dhammapada 1; MN 18.)
+> "Mind precedes all mental states. Mind is their chief; they are all mind-wrought." (Dhammapada 1, [Buddharakkhita, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html))
 
-**Plain words** The mind precedes the world: an angry mind meets an angry world, a grasping mind meets scarcity, a clear mind meets what is. Work on the projector, not only the screen. The lens you bring is the first fact about every scene.
+MN 18 gives the same point as process. From contact come feeling and perception; what one perceives, one thinks about; what one thinks about, one objectifies; and based on what a person objectifies, the perceptions and categories of objectification assail him or her with regard to past, present and future forms. The assailing is done by the mind's own classifications. (MN 18.)
 
-*For example:* The day after good news, the same office is full of interesting people; the day after bad news, they're all annoying. The office didn't change.
+> "Based on what a person objectifies, the perceptions & categories of objectification assail him/her with regard to past, present, & future forms cognizable via the eye." (MN 18, [Thanissaro, Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.018.than.html))
+
+**Plain words**
+The projector image is a good place to start, but make it checkable. For one day, log the first adjective you reach for about each new situation: hostile, boring, promising, fine. At day's end, look at the distribution. The situations varied; the adjectives may not have. That distribution is the lens, and it is the thing that can be worked on.
+
+*For example:* Imagine the same office after good news and after bad. The office did not change between the two visits; the reading of it did.
+
+## Sources
+
+- [Dhammapada Yamakavagga, Buddharakkhita translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html) — verse 1
+- [Madhupindika Sutta (MN 18), Thanissaro translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.018.than.html) — the objectification chain
 
 ## Psychology parallels
 
