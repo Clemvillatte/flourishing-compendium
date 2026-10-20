@@ -12,13 +12,18 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 26** — Don't display baits
 
-Flaunting wealth, beauty, or success manufactures envy and theft around you. Keep the rare goods of your life half-hidden.
+In chapter 3, Laozi advises a ruler against prizing rare goods or displaying objects of desire. He connects these policies with avoiding theft and disorder among the people. The personal advice here extends that political passage to decisions about what we put on display. (DDJ 3.)
 
-(DDJ 3.)
+> "not to show them what is likely to excite their desires is the way to keep their minds from disorder." (DDJ 3, [Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
-**Plain words** Flaunting what you have — money, looks, success — doesn't just attract admiration; it manufactures envy and theft around you. That's bait in your own pond. Keep the rare goods of your life half-hidden. Not shame — just not making yourself a target for no reason.
+**Plain words**
+Try this personal application: before posting an expensive purchase, ask what you want from the audience. Are you sharing your pleasure with friends, or hoping others will wish they owned it? Consider whether a public announcement serves that purpose and whether you would prefer to share it privately.
 
-*For example:* The person who quietly owns their home outright has fewer 'friends' with investment schemes than the one who posts the keys.
+*For example:* Imagine buying a new car. You decide against posting its price to impress acquaintances and send a photograph to the friend who helped you choose it.
+
+## Sources
+
+- [Tao Teh King, James Legge translation, Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm) — chapter 3
 
 ## Psychology parallels
 

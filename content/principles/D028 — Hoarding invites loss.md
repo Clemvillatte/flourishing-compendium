@@ -12,13 +12,20 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 28** — Hoarding invites loss
 
-Excessive storing means heavy loss: guarded wealth leaks, guarded love leaves. Hold things lightly and they stay.
+Chapter 44 of the Daodejing asks the reader to price the two holdings against each other: fame against life, life against wealth. Its answer is that the pair cannot both be kept. Keep the life and the other things go; keep the other things and the life goes, to your sorrow. Hoarding, on this reading, is a trade made badly. (DDJ 44.)
 
-(DDJ 44.)
+> "Keep life and lose those other things; Keep them and lose your life:—which brings Sorrow and pain more near?" (Daodejing 44, [Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
-**Plain words** Guarded wealth leaks; hoarded love leaves. Clutching things tightly is what damages them — the grip itself is the risk. Hold things lightly and they stay; hold them in a death-grip and you'll find out what squeezing does.
+The compendium reads the trade as covering everything held too tightly. Guarded wealth leaks, guarded love leaves, and the damage starts in the grip itself: a holding so defended that it can no longer breathe is already being lost.
 
-*For example:* The parent who rigidly controls their teenager's every move usually ends up with a kid who lies; the loose grip keeps the relationship.
+**Plain words**
+The risk sits in the grip, and the grip is yours. Notice what the guarding costs: the watched thing cannot breathe, and the watched person starts managing you instead of trusting you. The test of any hold is loosening it one notch and seeing what actually falls.
+
+*For example:* A parent who controls a teenager's every move tends to end up with a kid who lies; the loose grip is what keeps the relationship.
+
+## Sources
+
+- [Tao Teh King, James Legge translation, Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm) — chapter 44
 
 ## Psychology parallels
 
