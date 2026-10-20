@@ -12,13 +12,19 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 481** — Practise the hermeneutics of suspicion
 
-Recognise that meanings are often hidden beneath the surface. The hermeneutics of suspicion — practised by Marx, Nietzsche, and Freud — is the practice of reading beneath appearances to uncover the interests, drives, and desires that structure conscious life. Do not take your own motives, your own values, or your own beliefs at face value. Interrogate them.
+Ricoeur groups Marx, Nietzsche and Freud as a school of suspicion: they question whether consciousness understands its own motives and meanings transparently ([Freud and Philosophy, pp. 32–33, discussed and quoted by Stephen Squibb](https://shc.stanford.edu/arcade/interventions/suspicion-solidarity)). This involves interpretation, not simply declaring that whatever someone says must be false ([same discussion](https://shc.stanford.edu/arcade/interventions/suspicion-solidarity)).
 
-(Ricoeur, 1965/1970, Freud and Philosophy; Marx, 1867/1990, Capital; Nietzsche, 1887/1969, On the Genealogy of Morals; Freud, 1900/1953, The Interpretation of Dreams.)
+> If consciousness is not what it thinks it is, a new relation must be instituted between the patent and the latent
 
-**Plain words** The hermeneutics of suspicion: meanings are often hidden beneath the surface — read beneath appearances to uncover the interests, drives, and desires that structure conscious life. Marx, Nietzsche, Freud: the three great detectives. Use the method on the world's claims — and on your own.
+(Ricoeur, Freud and Philosophy, p. 33, excerpt as reproduced in [Squibb, “From Suspicion to Solidarity?”](https://shc.stanford.edu/arcade/interventions/suspicion-solidarity); the full book was not inspected for this quotation.)
 
-*For example:* The advertisement that's "just information" about a car — the suspicious reading asks what fear the leather seats are selling. The method isn't paranoia; it's literacy about the layers. Everything written is written by someone, for something.
+### Plain words
+
+Consider what an explanation leaves out, including your own stake in accepting it. Treat an alternative account as something to investigate, and ask what evidence would make you abandon it.
+
+### For example
+
+Suppose you defend a workplace rule as fair while benefiting from it yourself. You could examine who wrote it, whom it excludes and whether your stated reasons survive those findings, without assuming in advance that self-interest explains everything.
 ## Psychology parallels
 
 - **[[Implicit attitudes|Implicit attitudes]]** (Greenwald and Banaji, 1995)
