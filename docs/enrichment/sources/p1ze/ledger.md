@@ -99,3 +99,9 @@ Per-item evidence notes (owner concise-bar items 6-7). Manifest: BE012..CO061, 3
 - Scope: the "reduce defensiveness" claim is kept only as the Wikipedia/Gordon framing of purpose (assertive without putting the listener on the defensive, per the opened article text); parallels line 1 re-grounded in the Wikipedia definition; Gottman & Levenson 2000 / Markman et al. 1994 kept as references; [[Soft startup]] link added to parallels line 2 (concept verified to already link BE051).
 - Saturation: no concept mentions "I statement" beyond Soft startup (already linked); no new proposals.
 - QC: not a milestone item (item 12 of 30); validator pass vs pre-item baseline f3823aff.
+
+## BE056 — kindness and helping
+- Source opened: Curry, Rowland, Van Lissa, Zlotowitz, McAlaney & Whitehouse (2018), "Happy to help?", Journal of Experimental Social Psychology 76: 320-329 (https://research-portal.uu.nl/ws/files/247379826/1-s2.0-S0022103117303451-main.pdf). Quotes verified against the opened PDF text: the δ = 0.28 overall-effect sentence (Abstract), and the "adaptive goals" explanation sentence (Discussion, Section 3 context).
+- Scope: seed's "mood-medicine for the receiver", "cheat code", and "outperformed an hour of self-focus" over-claims removed; effect sized honestly (small-to-medium); example reframed to what the studies measure; parallels lines 2-3 reduced to bare references.
+- Saturation: 1 reciprocal proposed (Prosocial behaviour, target verified to discuss kindness); other mention matches (Motivational interviewing, Nonviolent communication, Reflective practice, Trait Activation Theory) tangential, no proposals.
+- QC: not a milestone item (item 13 of 30); validator pass vs pre-item baseline 9f4b9b10.

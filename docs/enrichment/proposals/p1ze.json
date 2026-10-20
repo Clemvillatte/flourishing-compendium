@@ -1,6 +1,6 @@
 {
  "batch": "p1ze",
- "revision": 9,
+ "revision": 10,
  "records": [
   {
    "action": "reciprocal",
@@ -92,6 +92,13 @@
    "link": "BE047",
    "why": "TIPP's muscle-relaxation step is a clinical application of the tense-release technique BE047 describes.",
    "notes": "Proposed by worker-p1ze-e6d6f5ba during BE047 saturation; target body verified to discuss muscle relaxation."
+  },
+  {
+   "action": "reciprocal",
+   "into": "Prosocial behaviour",
+   "link": "BE056",
+   "why": "Prosocial behaviour is the umbrella term for actions that benefit others; BE056 covers the kindness-intervention subset and the meta-analytic evidence on the actor's well-being.",
+   "notes": "Proposed by worker-p1ze-e6d6f5ba during BE056 saturation; grounded in the opened Curry et al. 2018 meta-analysis."
   }
  ]
 }
