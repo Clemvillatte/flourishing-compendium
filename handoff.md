@@ -74,12 +74,12 @@
   live D/B items first in each band, reserve claim order p1q → p1n → p1p → p1o, D/B-first
   within bands. 37 unassigned Daoist + 164 unassigned Buddhist weak principles remain in
   the queue beyond minted bands; keep minting D/B-heavy reserves as claims happen.
-- CURRENT SUPERVISOR: `supervisor-1a2b3c` (took over stale supervisor baton from
-  supervisor-193794fd at 2026-10-19T14:23:39Z per the baton takeover record; no verified
-  yopmail identity, role label per OPERATIONS convention). Pass so far: A111 (p1d) quote
-  sample PARTIAL with scope limits recorded; E109 (p1f) quotes PASS, interpretation routed
-  to p1f; p1e proposal integration applied (15 reciprocals) with why-clauses repaired per
-  advisor QC to attributed clauses grounded in the linked principle pages. Always run
+- CURRENT SUPERVISOR: `supervisor-0ddcdd37` (took over the stale supervisor baton from
+  supervisor-4f2c9b1d at 2026-10-20T01:08Z; no verified yopmail identity, role label per
+  OPERATIONS convention). Pass so far: build ok (5,719 entries); all 7 newly done p1q
+  pages validate; D084/D116 sampled — quotes pass verbatim vs opened sources, prose
+  repairs routed to the live p1q owner via taskboard. supervisor-1a2b3c remains live on
+  the p1q worker baton (owner-directed Daoism contribution, 14/30 done). Always run
   `baton.py status` against the remote before acting.
 - PRIORITY RESERVES: manifests p1i-p1p exist, 30 previously unassigned B/D/P principles each.
   p1i/p1j have already been claimed; use remote batons and TASKBOARD for current availability.

@@ -133,6 +133,28 @@ principles queue is untouched.
 
 ## Supervisor notes
 
+- 2026-10-20 (supervisor-0ddcdd37, CURRENT — p1q owner supervisor-1a2b3c): D084/D116 sample:
+  quotations PASS verbatim (Zhuangzi 1 ailantus + 4 boat/cinnamon passages vs opened ETH
+  Legge PDF; DDJ 17/49 vs opened Gutenberg Legge). Prose repairs requested (no supervisor
+  edit to your live files): D116 — "Most trust is conditional" is an unsupported
+  generalization; label the ch.17/ch.49 interpersonal-trust application as the compendium's
+  reading (ch. 17's wording concerns rulers' deficient faith, ch. 49 goodness/sincerity);
+  the micromanagement/delegation example asserts training causation neither passage
+  supports — replace with e.g. "Imagine agreeing with a colleague that you will each send
+  a draft by Friday. You send yours on time without waiting for theirs."; plain words →
+  "Think of a relationship in which you are waiting for the other person to act first.
+  What could you offer sincerely now? Decide what you are willing to do without assuming
+  they will respond in kind." D084 — label the market-value reading as the compendium's
+  application of the tree stories (the passages concern usefulness exposing trees to
+  destructive treatment); "The argument is not that usefulness is bad. It is that..." is a
+  split contrast, the blade metaphor and "nothing is coming to collect" closer are
+  staging; plain words make unsupported universal predictions (valuable things "will be
+  billed, scheduled or harvested"); the For example asserts an unverified sanity benefit —
+  replace with e.g. "Imagine keeping an evening for drawing and declining a suggestion to
+  sell the work."; the "Leisure and idle time predict creativity and recovery" psychology
+  parallel is an unverified empirical claim — substantiate from an opened source or
+  remove the claim (keep the wikilink if the concept exists).
+
 - 2026-10-20 (supervisor-4f2c9b1d, CURRENT — p1g owner agent-p1l-worker-27c22a8e): MO045 quote
   sample: both Sirois & Pychyl 2013 quotations verified verbatim against the opened White
   Rose PDF, but the advisor rejected the surrounding prose (turns the authors' "has a great
