@@ -12,16 +12,18 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "M — Mesoam
 ---
 > **Principle 25** — Let rootedness and openness correct each other
 
-The rooted life has a failure mode the tradition also names: parochialism, the closed town, the suspicion of the outsider. The Mesoamerican worlds were also trading, traveling, and exchanging worlds, and the principle offered as the synthesis is the deliberate correction: root deeply and cross often. The rootedness gives you somewhere to return to; the crossing keeps the roots alive. Practically, keep one practice of each kind per year: one deepening of your roots (place, people, tradition) and one crossing (travel, study, friendship across difference).
+Root deeply and cross often, with each correcting the other, is the compendium's editorial synthesis of the Mesoamerican pattern: rooted agricultural worlds that also traded and traveled. Attachment research gives the same dynamic a studied form. In Waters and Cummings's account of the concept, the secure base is central to attachment theory, and for Bowlby and Ainsworth to be attached is to use someone preferentially as a secure base from which to explore ([Waters & Cummings, online reprint](https://psychology.psy.sunysb.edu/attachment/online/waters_cummings.pdf)). The rootedness is what makes the excursions possible, and the excursions are what keep the base worth returning to.
 
-(The synthesis is editorial, drawn from the tradition's own trading-and-rooting pattern.)
+> "All of us, from the cradle to the grave, are happiest when life is organized as a series of excursions, long or short, from the secure base provided by our attachment figure(s)." (Bowlby, J. (1988). A Secure Base: Clinical Applications of Attachment Theory. Basic Books, p. 62; wording as reproduced in the [Seba concordance](https://www.seba.health/concordance/attachment-figure/))
 
-**Plain words** The rooted life has a failure mode: parochialism — the closed town, the suspicious circle. The correction the tradition itself practised (trading, traveling, exchanging): root deeply AND cross often. The roots give you somewhere real to return to; the crossings keep the roots from rotting.
+**Plain words** A base is not a cage, and a trip is not a life. You need somewhere to come back to and reasons to leave it, and each is what makes the other work. A person who never leaves home gets parochial; a person with nothing to return to gets thin. The correction runs both ways.
 
-*For example:* The family that keeps the farm AND takes the working holiday each year — the kids grow up fluent in both the local ground and the wider world, which is exactly the synthesis.
+*For example (imagined):* A family keeps the farm and takes a working holiday each year; the children grow up fluent in both the local ground and the wider world.
+
 ## Psychology parallels
 
-- **Exploration-exploration and secure-base dynamics**, the attachment research showing that a secure base enables exploration (Bowlby's secure-base concept, as framework)
+- [The secure base concept: to be attached is to use someone preferentially as a secure base from which to explore (Waters & Cummings, online reprint)](https://psychology.psy.sunysb.edu/attachment/online/waters_cummings.pdf)
+- [[Secure base|The secure base concept]] (Bowlby's secure-base concept, as framework)
 
 ## Philosophy parallels
 
@@ -31,3 +33,12 @@ The rooted life has a failure mode the tradition also names: parochialism, the c
 ## Related concepts
 
 - [[SE048]] — listed for comparison
+
+## Practice
+
+- Keep one practice of each kind per year: one deepening of your roots (place, people, tradition) and one crossing (travel, study, friendship across difference).
+
+## Sources
+
+- [Waters, E., & Cummings, E. M. A Secure Base From Which To Explore Close Relationships. SUNY Stony Brook online reprint.](https://psychology.psy.sunysb.edu/attachment/online/waters_cummings.pdf)
+- [Bowlby, J. (1988). A Secure Base: Clinical Applications of Attachment Theory. Basic Books, p. 62.](https://www.seba.health/concordance/attachment-figure/)
