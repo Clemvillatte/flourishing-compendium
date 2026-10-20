@@ -1,6 +1,6 @@
 {
  "batch": "p1zy",
- "revision": 4,
+ "revision": 5,
  "reciprocal": [
   {
    "into": "Samskara",
@@ -19,6 +19,12 @@
    "link": "Y037",
    "why": "the tapas stop-line is the Yoga-Vedanta answer to the question this page names: when stress strengthens and when it damages",
    "notes": "Target page (opened this session) is a thin seed citing Taleb 2012 and P085; why grounded in the target's title concept and Y037's verified Vacaspati dose-limit quote."
+  },
+  {
+   "into": "Pratyahara",
+   "link": "Y054",
+   "why": "the principle carries this page's own definition with the king-bee simile and the sutra's fruit",
+   "notes": "Pratyahara concept page (opened this session) does not cite Y054; grounded in the target's title concept and Y054's verified Woods quotes (2.54-2.55, pp. 197-198)."
   }
  ],
  "inline": [],
