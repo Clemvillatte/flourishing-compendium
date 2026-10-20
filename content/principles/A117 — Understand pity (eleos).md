@@ -12,13 +12,22 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 117** — Understand pity (eleos)
 
-Pity is a pain caused by the sight of an evil that appears undeserved and likely to happen to oneself or one's own. Pity involves a judgment: that the suffering is undeserved and that one is vulnerable to similar fate. Practise pity where it is warranted, but examine whether the suffering is truly undeserved.
+Aristotle's definition builds the judgement in. Pity is "a feeling of pain caused by the sight of some evil, destructive or painful, which befalls one who does not deserve it, and which we might expect to befall ourselves or some friend of ours, and moreover to befall us soon" ([Rhetoric II.8, Roberts, MIT Classics](https://classics.mit.edu/Aristotle/rhetoric.2.ii.html)). So it needs a belief that the person does not deserve the harm and a sense that you could suffer something similar. People who think they are "completely ruined" or "immensely fortunate" do not feel it, and "if you think nobody good, you will believe that everybody deserves evil fortune."
 
-(Rhetoric II.8; NE II.7.)
+Closeness steers it. "it is when the sufferings of others are close to us that they excite our pity", so speakers use gestures and drama to "put the disasters before our eyes". Closeness of the wrong kind works against it, so that harm to someone very near is felt differently: "the terrible is different from the pitiful; it tends to cast out pity."
 
-**Plain words** Pity is pain at suffering that looks undeserved and could happen to you or yours. It judges the suffering as undeserved and yourself as vulnerable. Use it where it's warranted, but check whether the suffering really is undeserved.
+The Ethics counts pity among the feelings that "may be felt both too much and too little", and asks for them "at the right times, with reference to the right objects, towards the right people, with the right motive, and in the right way" ([NE II.6, Ross, MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html)).
 
-*For example:* Feeling for a laid-off colleague is warranted. Asking whether it was truly out of their control keeps your pity honest.
+(Rhetoric II.8; NE II.5-6.)
+
+**Plain words** Pity depends on two judgements: that the suffering is undeserved, and that it could happen to someone like you. Both can be wrong. Distance and unfamiliarity weaken it, and a vivid story strengthens it whether or not it is typical. So before acting on pity, ask whether the harm really was undeserved and whether your feeling matches the size of the need, not the vividness of the telling.
+
+For example (imagined): you feel for a colleague who was laid off. Asking whether it was truly outside their control keeps the pity accurate. Asking about the people you never hear about checks that vividness is not deciding for you.
+
+## Sources
+
+- [Aristotle, Rhetoric II.8, trans. W. Rhys Roberts, MIT Internet Classics Archive](https://classics.mit.edu/Aristotle/rhetoric.2.ii.html)
+- [Aristotle, Nicomachean Ethics II.6, trans. W. D. Ross, MIT Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html)
 
 ## Stories
 

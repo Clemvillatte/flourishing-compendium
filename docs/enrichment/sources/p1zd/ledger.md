@@ -41,3 +41,28 @@ PROTOCOL-PRINCIPLES items 6-7.
 - Verbatim as quoted. One typographic repair: MIT text reads "No ne will doubt"; quoted as "No one will doubt". Elided nothing else.
 - The page now flags that Aristotle's own scheme is public, state-run education ("should be public, and not private"; no citizen "belongs to himself") and that the compendium keeps his question, not his answer.
 - Locator: Politics VIII.3 retained in the locator only as range VIII.1-3; passage actually quoted is VIII.1-2. Berkowitz & Bier 2007 and Kohlberg 1981 parallels inherited, not opened.
+
+## A116 — Understand fear (phobos)
+- Sources opened: Rhetoric II.5 (Roberts, MIT) https://classics.mit.edu/Aristotle/rhetoric.2.ii.html ; NE III.6 (Ross) https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html
+- Verbatim: definition; "only such as amount to great pains or losses"; death-not-close passage; "fear sets us thinking what can be done, which of course nobody does when things are hopeless"; NE III.6 "define fear as expectation of evil"; "to fear some things is even right and noble".
+- Old page left out that Aristotle ties fear to nearness and power to harm, and that some fear is right. Added. CBT and LeDoux parallels inherited, not opened.
+
+## A117 — Understand pity (eleos)
+- Sources opened: Rhetoric II.8 (Roberts); NE II.5-6 (Ross).
+- Verbatim: definition; "completely ruined"; "immensely fortunate"; "if you think nobody good, you will believe that everybody deserves evil fortune"; nearness and dramatic delivery passage; Amasis passage ("the terrible is different from the pitiful; it tends to cast out pity"); NE II.6 "may be felt both too much and too little" and the five qualifiers.
+- Locator corrected: the old "NE II.7" does not discuss pity (II.7 covers righteous indignation, shame, modesty); pity appears in II.5 and II.6. Parallels (Goetz 2010, Zaki 2014, Lerner 1980) inherited, not opened.
+
+## A118 — Understand shame (aischyne)
+- Sources opened: Rhetoric II.6 (Roberts); NE IV.9 (Ross).
+- Verbatim as quoted. Aristotle gives no healthy/toxic shame split; page says so and treats the split as the compendium's. Plain words derives two checks (audience, voluntary wrong) from Rhetoric II.6 and NE IV.9, labelled as an application. Tangney & Dearing 2002 and Tracy & Robins 2004 inherited, not opened.
+
+## A113 — Make your household a school of virtue
+- Source opened: NE VIII.10, 11, 12 (Ross) https://classics.mit.edu/Aristotle/nicomachaen.8.viii.html
+- Verbatim: monarchy/father, Persian tyranny, brothers/timocracy, "aristocratic" husband, master and slaves ("seems to be a correct form of government"; "the slave is a living tool"; "qua man" friendship), parents love children "as being a part of themselves".
+- The old body said "master and servant"; the text says slave. Page now states that the household hierarchy is not endorsed and keeps only the claim that family relationships are where character is tested. Explicitly notes Aristotle never says "school of virtue" himself.
+- Locator: dropped "Politics I.3-13" because I did not read that section. Bowen 1978, Baumrind 1991, Noddings, Analects parallels inherited, not opened.
+
+## A121 — Practise persuasion through ethos
+- Sources opened: Rhetoric I.2 and II.1 (Roberts).
+- Verbatim as quoted. The old page said "build credibility through character, not through rhetoric"; Aristotle says credibility must come from the speech itself, not prior reputation, and that "good sense, good moral character, and goodwill" produce trust. Rewritten to match.
+- Locator: dropped "NE I.6" (not opened, and I.6 concerns the Form of the Good). Hovland & Weiss 1951 and Cialdini 2007 inherited, not opened.

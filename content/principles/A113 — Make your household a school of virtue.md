@@ -12,13 +12,19 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 113** — Make your household a school of virtue
 
-Aristotle's ethics extends into the household: the relationships of parent and child, husband and wife, master and servant are contexts for virtue. Your family life is not separate from your moral life; it is where most of your virtue is practised. Treat your household as the primary site of character formation.
+Aristotle does not say in so many words that a household is a school of virtue. What he does say, in [NE VIII.10-12 (Ross, MIT Classics)](https://classics.mit.edu/Aristotle/nicomachaen.8.viii.html), is that each household relationship has its own form of justice and friendship, and that these can go well or badly. A father's care for his sons "bears the form of monarchy, since the father cares for his children", and it goes wrong when it turns "tyrannical", as among the Persians, who "use their sons as slaves". The bond between brothers "is like timocracy; for they are equal, except in so far as they differ in age". Parents "love their children as being a part of themselves".
 
-(NE VIII.10-12; Politics I.3-13.)
+His account also contains a hierarchy that this principle does not endorse. He describes a husband's rule as "aristocratic" and says a master's rule over slaves "seems to be a correct form of government", adding that "the slave is a living tool". He also allows that that "qua man" one can be a friend to a slave. The compendium keeps the claim that family relationships are where character gets tested, and drops the rest.
 
-**Plain words** Ethics begins at home. Relationships between parents and children, partners, and others in the household are where most virtue is practised. Treat your household as your main school of character.
+(NE VIII.10-12.)
 
-*For example:* How you handle a spilled drink at dinner teaches more about patience than any lecture.
+**Plain words** In the Ethics, family life is full of questions of fairness and affection, and each relationship has its own proper shape. Since you spend so much time there, it is a place where habits of patience, fairness and care get built or worn down. The text is also a reminder to read Aristotle critically, because his household has a ranking that most of us reject.
+
+For example (imagined): dividing the last slice of cake between two children is a small exercise in fairness, and how you do it shows them what fair looks like.
+
+## Sources
+
+- [Aristotle, Nicomachean Ethics VIII.10-12, trans. W. D. Ross, MIT Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.8.viii.html)
 
 ## Psychology parallels
 

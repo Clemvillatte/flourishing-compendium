@@ -12,13 +12,21 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 121** — Practise persuasion through ethos
 
-Aristotle argues that persuasion depends on three things: the character of the speaker (ethos), the emotional state of the audience (pathos), and the logical force of the argument (logos). Of these, ethos is the most powerful. Build credibility through character, not through rhetoric.
+In the Rhetoric Aristotle lists three modes of persuasion by speech: "the personal character of the speaker; the second on putting the audience into a certain frame of mind; the third on the proof, or apparent proof, provided by the words of the speech itself" ([Rhetoric I.2, Roberts, MIT Classics](https://classics.mit.edu/Aristotle/rhetoric.1.i.html)). On character he writes:
 
-(Rhetoric I.2, II.1; NE I.6.)
+> We believe good men more fully and more readily than others: this is true generally whatever the question is, and absolutely true where exact certainty is impossible and opinions are divided.
 
-**Plain words** Persuasion rests on character, audience feeling, and the argument. Aristotle says character matters most. So build credibility through who you are, not through clever talk.
+He adds that a speaker's "character may almost be called the most effective means of persuasion he possesses", and he qualifies it. This credibility "should be achieved by what the speaker says, not by what people think of his character before he begins to speak." In [Rhetoric II.1](https://classics.mit.edu/Aristotle/rhetoric.2.ii.html) he names what makes an audience trust a speaker: "good sense, good moral character, and goodwill."
 
-*For example:* A colleague with a record of being straight gets listened to even when her slides are plain.
+(Rhetoric I.2, II.1.)
+
+**Plain words** Aristotle says audiences trust speakers they judge sensible, decent and well disposed toward them, and that this can outweigh the argument. He is also clear that the trust is earned during the speech, by how someone speaks to these people about this question. The principle's advice to build credibility through character matches him in spirit, but he would not say that character works apart from how you speak.
+
+For example (imagined): a colleague with a record of being straight with people gets a fair hearing even when her slides are plain. If she then oversells a result in the meeting, the record helps her less.
+
+## Sources
+
+- [Aristotle, Rhetoric I.2 and II.1, trans. W. Rhys Roberts, MIT Internet Classics Archive](https://classics.mit.edu/Aristotle/rhetoric.2.ii.html)
 
 ## Stories
 
