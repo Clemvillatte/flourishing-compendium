@@ -12,13 +12,19 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 102** — Distinguish justice from revenge
 
-Justice is proportionate; revenge is excessive. Justice is public; revenge is private. Justice aims at restoration; revenge aims at suffering. When wronged, seek justice, not revenge. The difference is in the motive, the measure, and the method.
+The two texts draw the line from opposite sides. Corrective justice, in Nicomachean Ethics V.4, looks only at the injury: "the law looks only to the distinctive character of the injury, and treats the parties as equal, if one is in the wrong and the other is being wronged". Anger, in Rhetoric II.2, is defined by its target and its reward: "an impulse, accompanied by pain, to a conspicuous revenge for a conspicuous slight", attended by a pleasure in the expectation of revenge. The distinction the two make together: justice measures the injury and treats the parties as equal; revenge answers a slight to oneself or one's friends and is fed by the anticipated pleasure of getting even. The compendium's exercise: when wronged, notice which question is being answered, what was done, or who was disrespected.
 
-(NE V.4, V.11; Rhetoric I.10, II.2.)
+(NE V.4; Rhetoric II.2.)
 
-**Plain words** Justice is proportionate, public and aims to restore. Revenge is excessive, private and aims to make someone suffer. When wronged, look for justice. The difference lies in motive, measure and method.
+> Anger may be defined as an impulse, accompanied by pain, to a conspicuous revenge for a conspicuous slight directed without justification towards what concerns oneself or towards what concerns one's friends.
+>
+> Aristotle, Rhetoric II.2, translated by W. Rhys Roberts, [full text](https://classics.mit.edu/Aristotle/rhetoric.mb.txt).
 
-*For example:* Reporting a theft to the police and asking for the item back is justice. Slashing the thief's tyres isn't.
+**Plain words**
+Two questions that sound the same in a hot moment: "what was done?" and "who do they think they are?" Justice answers the first: it measures the injury, treats both sides as equal, and asks what makes it even. Anger answers the second: it fixes on the slight to you or yours, and is sweetened by the expectation of payback. Both can end in punishment; only the first answers to a measure.
+
+**For example**
+Reporting a theft and asking for the item back is the first kind. Slashing the thief's tyres is the second kind, done for the feeling of it.
 
 ## Psychology parallels
 
@@ -29,6 +35,11 @@ Justice is proportionate; revenge is excessive. Justice is public; revenge is pr
 
 - **[[Corrective justice|Corrective justice]]** (Aristotle, NE V.4)
 - **[[The face|The face as ethical summons]]** (Levinas, Totality and Infinity)
+
+## Sources
+
+- [Rhetoric, Rhys Roberts translation, full text (Internet Classics Archive)](https://classics.mit.edu/Aristotle/rhetoric.mb.txt) — II.2
+- [Nicomachean Ethics, Ross translation, full text (people.bu.edu mirror)](https://people.bu.edu/wwildman/courses/wphil/readings/wphil_rdg09_nichomacheanethics_entire.htm) — V.4
 
 <!-- fc: reflections
 When wronged, what in your reaction tells you whether you want repair or the other person's pain?
