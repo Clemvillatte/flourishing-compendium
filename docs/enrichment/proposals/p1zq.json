@@ -5,5 +5,23 @@
   "link": "",
   "why": "A081 and A084 both blockquote the same X.4 'Pleasure completes the activity' sentence.",
   "notes": "A081 is outside p1zq's band; flagged for supervisor decision on quote diversification rather than edited."
- }
+ },
+ "batch": "p1zq",
+ "revision": 1,
+ "reciprocal": [
+  {
+   "into": "Affective dynamics framework",
+   "link": "AF015",
+   "why": "AF015 applies the framework's flexibility construct as the principle's marker of healthy functioning — the page's reader meets the Hollenstein thesis from the practice side",
+   "notes": "Concept page does not yet link AF015 (verified); evidence in sources/p1zq/AF015.md (Kuppens 2015 + Quoidbach et al. 2014, both opened)."
+  },
+  {
+   "into": "Affective chronometry",
+   "link": "AF015",
+   "why": "AF015 is the variability counterpart of this page's timing questions — a reader studying how affect unfolds over time meets the principle that treats variability itself as the signal",
+   "notes": "Concept page does not yet link AF015 (verified); evidence in sources/p1zq/AF015.md (Kuppens 2015 + Quoidbach et al. 2014, both opened)."
+  }
+ ],
+ "inline": [],
+ "notes": []
 }
