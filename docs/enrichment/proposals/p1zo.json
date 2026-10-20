@@ -1,6 +1,6 @@
 {
  "batch": "p1zo",
- "revision": 17,
+ "revision": 18,
  "reciprocal": [
   {
    "into": "Identity development",
@@ -49,6 +49,12 @@
    "link": "SO062",
    "why": "treats social trust as part of a shared community resource",
    "notes": "Page mentions social capital in its well-being sentence and links SO038 but not SO062; the already-linked SO038 observation recorded here as audit context. Evidence in sources/p1zo/SO062.md."
+  },
+  {
+   "into": "Ecological grief",
+   "link": "SO070",
+   "why": "the sociocultural-stressor principle behind the climate emotions this concept maps",
+   "notes": "Page distinguishes eco-anxiety from ecological grief but links no SO climate principle; evidence in sources/p1zo/SO070.md (Berry 2010 + Hickman 2021, both opened)."
   }
  ],
  "inline": [],
