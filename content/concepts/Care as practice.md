@@ -7,25 +7,25 @@ file: "Care as practice"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-C"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
-Care as practice is Joan Tronto's way of treating care as an activity rather than a feeling. In Moral Boundaries, with Berenice Fisher, she defines caring as a species activity covering everything people do to maintain, continue and repair their world. The definition makes care something done, with phases and standards, rather than a sentiment one has or lacks.
+Care as practice is the compendium's reading of Joan Tronto's account of care. Laurin and Martin reproduce the Fisher-Tronto definition from Moral Boundaries with its p. 103 locator: caring is a species activity covering everything people do to maintain, continue and repair their world. On that definition care is an activity with phases and standards, not a sentiment one has or lacks.
 
 > "On the most general level, we suggest that caring be viewed as a species activity that includes everything that we do to maintain, continue, and repair our 'world' so that we can live in it as well as possible. That world includes our bodies, our selves, and our environment, all of which we seek to interweave in a complex, life-sustaining web." (Fisher and Tronto, in Tronto, Moral Boundaries, 1993, p. 103, quoted in Laurin and Martin, [Towards democratic institutions](https://pmc.ncbi.nlm.nih.gov/articles/PMC9667078/), Nursing Ethics, 2022)
 
 ### The phases and standards
 
-Tronto breaks caring into four phases: caring about, taking care of, caregiving and care receiving. Good care, on her account, has four elements: attention, responsibility, competence and the capacity to respond. The phases make the practice checkable: a need has to be noticed, taken up, actually met and received, which is what separates care from a caring disposition.
+For Tronto, good care has four elements: attention, responsibility, competence and the capacity to respond, and is comprised of four phases: caring about, taking care of, caregiving and care receiving.
 
 ### In the compendium
 
-- [[R069 — Practise care as a practice, not a feeling]] — the direct use of the activity-over-feeling distinction
-- [[R027 — Practise manaakitanga]] — a relational-philosophy practice in the same register
-- [[P182 — Unclamp your machinery: self-preoccupation inhibits performance]] — care blocked by self-preoccupation
+- [[R069 — Practise care as a practice, not a feeling]] — the compendium's application of the activity-over-feeling reading
+- [[R027 — Practise manaakitanga]] — a care practice from the relational-philosophy track
+- [[P182 — Unclamp your machinery: self-preoccupation inhibits performance]] — self-preoccupation as the performance blocker
 
 ## Related concepts
 
 - [[Care]] — the general concept this practice reading belongs to
 - [[Care ethics]] — the tradition Tronto's argument sits in
-- [[Cosmopolitan care]] — the extended, political reach of the same activity
+- [[Cosmopolitan care]] — the cosmopolitan extension of care ethics
 
 ## Sources
 
