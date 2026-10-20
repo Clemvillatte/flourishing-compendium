@@ -1,6 +1,6 @@
 {
  "batch": "p1zj",
- "revision": 5,
+ "revision": 6,
  "records": [
   {
    "action": "reciprocal",
@@ -85,6 +85,20 @@
    "link": "AF018",
    "why": "listed for comparison with the principle's expectation-gap reading of affect",
    "notes": "page read by worker-p1zj-6b93ad57 before proposing; ground: page covers RPE/affective-forecasting material adjacent to the Schultz 1997 and Rutledge 2014 sources opened for AF018"
+  },
+  {
+   "action": "reciprocal",
+   "into": "Emotional contagion",
+   "link": "AF021",
+   "why": "listed for comparison with the principle's affective-presence pattern",
+   "notes": "page read by worker-p1zj-6b93ad57 before proposing; ground: page covers contagion/relational-affect material adjacent to the Eisenkraft & Elfenbein 2010 abstract opened for AF021"
+  },
+  {
+   "action": "reciprocal",
+   "into": "Ubuntu",
+   "link": "AF021",
+   "why": "listed for comparison with the principle's affective-presence pattern",
+   "notes": "page read by worker-p1zj-6b93ad57 before proposing; ground: page covers contagion/relational-affect material adjacent to the Eisenkraft & Elfenbein 2010 abstract opened for AF021"
   }
  ]
 }

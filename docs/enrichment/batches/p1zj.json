@@ -5,7 +5,8 @@
   "AF013",
   "AF014",
   "AF017",
-  "AF018"
+  "AF018",
+  "AF021"
  ],
  "in_progress": null,
  "flagged": {
@@ -17,6 +18,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T09:59:45+00:00",
+ "updated": "2026-10-20T10:00:10+00:00",
  "band_done": false
 }
