@@ -14,12 +14,12 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BI — Biophysi
 
 The principle's signs come from the medical sources. The National Heart, Lung, and Blood Institute's sleep apnea page puts the referral trigger plainly: if someone tells you that you snore or gasp for air during sleep, you may want to talk to your healthcare provider, and the same for other symptoms of poor sleep quality such as excessive daytime sleepiness. The public-education primer adds the general rule: see a doctor if you have problems sleeping or if you feel unusually tired during the day; most sleep disorders can be treated effectively.
 
-The insomnia guideline cited on BI015 sets the bar for chronic insomnia: multicomponent cognitive behavioural therapy is the strong recommendation, which presumes a clinical evaluation rather than self-treatment. Sleep apnea has its own treatment line: diagnosis by sleep study, then breathing devices such as CPAP machines, lifestyle changes, or surgery.
+The American Academy of Sleep Medicine's 2021 guideline strongly recommends multicomponent cognitive behavioural therapy for adults with chronic insomnia disorder. Sleep apnea has its own treatment line: a provider may have you do a sleep study, common treatments include breathing devices such as CPAP machines and lifestyle changes, and surgery may be considered if those treatments do not work.
 
 > "If someone tells you that you snore or gasp for air during sleep, you may want to talk to your healthcare provider." (NHLBI, [What Is Sleep Apnea?](https://www.nhlbi.nih.gov/health/sleep-apnea))
 
 **Plain words**
-The principle draws a line between bad nights and medical symptoms. Snoring with gasping, sleepiness that survives good habits, being told you stop breathing: these are the body's own reports, often delivered second-hand by a partner, and they warrant a provider visit rather than another round of tips. The line matters because the treatments exist: apnea has machines and surgery, and chronic insomnia has CBT-I.
+The principle draws a line between bad nights and medical symptoms. Snoring with gasping, sleepiness that survives good habits, being told you stop breathing: these are the body's own reports, often delivered second-hand by a partner, and they warrant a provider visit rather than another round of tips. The line matters because treatable conditions sit on the other side of it: apnea has breathing devices and lifestyle treatments, and chronic insomnia has CBT-I.
 
 *For example:* An imagined case: someone who says they are "just a bad sleeper" learns from their partner that they gasp in their sleep. The NHLBI sentence is addressed to exactly this person: the symptom came second-hand, and the next step is a provider conversation, not a better pillow.
 
