@@ -12,16 +12,16 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 165** — Peace begins in your own mind
 
-Dhammapada 96 describes the perfected one's calm as extending through all three doors: calm is his thought, calm his speech, and calm his deed. (Dhammapada 96.) Thich Nhat Hanh makes the same connection from the side of peace work: peace is present right here and now, in ourselves and in everything we do and see, and without enough peace, understanding and loving-kindness within yourself, your actions will not truly be for peace. (Peace Is Every Step; Lion's Roar interview.)
+Dhammapada 96 describes calm in thought, speech and deed. In a separate discussion of peace work, Thich Nhat Hanh says:
 
 > "If you don’t have enough peace and understanding and loving-kindness within yourself, your actions will not truly be for peace." (Thich Nhat Hanh, [Lion's Roar interview](https://www.lionsroar.com/in-engaged-buddhism-peace-begins-with-you/))
 
-The compendium's application: the order of operations is the point. The exercise is to check your own state before entering the situation you intend to calm.
+The compendium proposes checking one's state before a difficult conversation.
 
 **Plain words**
-Notice what you bring into a room before you try to change the room. As a compendium exercise, before a conversation you expect to be difficult, take one minute to settle: three breaths, a straightened posture, a named intention. Then enter, and notice what you say first.
+Pause before the conversation and notice how you feel. Afterward, recall what you said first.
 
-*For example:* Imagine coming home after a difficult commute. Before speaking, you notice your own state and decide whether to carry it into the house or set it down at the door.
+*For example (imagined):* After a difficult commute, you notice irritation before speaking to someone at home. You consider how you want to open the conversation.
 
 ## Sources
 
