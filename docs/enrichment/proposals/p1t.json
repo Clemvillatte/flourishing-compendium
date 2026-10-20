@@ -1,0 +1,12 @@
+{
+ "reciprocal": [
+  {
+   "into": "Rumination",
+   "link": "D119 — Keep to the center — excess words exhaust",
+   "why": "D119's psychology parallels list rumination research (worry as verbal-linguistic activity, Borkovec et al., 1983) alongside the chapter's counsel on spending speech; the two pages approach the same worry-in-words pattern from opposite directions",
+   "_audit_why": "D119 links [[Rumination|Rumination research]] in its psychology parallels; the Rumination concept's cited-in list (D037, D181, B070) lacks D119 — reciprocal edge missing. Verified by reading content/concepts/Rumination.md this session."
+  }
+ ],
+ "inline": [],
+ "notes": "p1t proposals (worker-p1t-6b8f0c93, 2026-10-20), from D119 enrichment. Saturation checks run by reading the actual concept files: Apophatic theology, Slow-paced breathing, Aggression research, Ultimatum research, Just war criteria, The will to believe, Grit, Conformity, Minority influence, Herd morality all already cite their p1t principles. 'Differing from the crowd' cites DDJ 20 as source and B173; D109 does not link the concept, so no reciprocal applies. No inline proposals."
+}

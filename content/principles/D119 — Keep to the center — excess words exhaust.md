@@ -23,7 +23,7 @@ The compendium's exercise takes the verse as a reason to stop once a thing is cl
 **Plain words**
 Next time you explain something, notice the moment it becomes clear. Practice stopping there, and notice what the sentences after that moment feel like they are for. The chapter's counsel is about supply: much spending of speech, it says, ends in exhaustion.
 
-*For example:* Imagine explaining a decision in a meeting. When the explanation is complete, count the extra sentences you are tempted to add. Those are what the chapter's verse is about.
+*For example:* Imagine explaining a decision in a meeting. When the explanation is complete, count the extra sentences you are tempted to add.
 
 ## Sources
 
