@@ -12,8 +12,9 @@
   'other' or the 'self-in-relation-to-other' that is focal in individual
   experience." (p. 225); Geertz-via-M&K "a bounded, unique, more or less
   integrated motivational and cognitive universe" + "a social and natural
-  background" (p. 226, quoted as fragments in prose). Abstract sentences
-  (p. 224) NOT re-quoted on this page because SE054 already opens with them.
+  background" (p. 226, quoted as fragments in prose). Abstract sentence
+  (p. 224, "can influence, and in many cases determine...") quoted in the body
+  after QC round 1; SE054 also opens with the abstract's first two sentences.
 - Shweder 1991 kept as seed citation only; NOT opened this session - stated in
   the Sources line.
 - Principle contexts read via enrich_find.py context (SE054, SO044, SO001,
@@ -22,10 +23,11 @@
 ## Decisions
 
 - Fast-track bar: one blockquote (p. 225 interdependent sentence) + short
-  synthesis (two construals, WEIRD corrective sentence kept as context with no
-  quote). Saturation skipped per §1a; the obvious reciprocal (Cultural
-  psychology -> "Independent vs interdependent self-construal" page's Related
-  list) noted here rather than proposed per fast-track rule.
+  synthesis (two construals). Saturation skipped per §1a; the obviously
+  missing reciprocal (Cultural psychology -> "Independent vs interdependent
+  self-construal" page's Related list) submitted as a correctly structured
+  proposal in proposals/w1e.json (target page confirmed to lack the backlink;
+  why clause source-bound per QC round 2).
 - Front-matter, Cited-in lists and the original [[SO044]] link preserved
   (validator caught both a lost original link and an unresolved R055 filename
   variant - fixed; the slash-less R055 filename is the real one).
