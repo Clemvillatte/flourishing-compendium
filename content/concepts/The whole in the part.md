@@ -11,7 +11,7 @@ Whitehead argues that belonging to a common world means having that world enter 
 
 > "every item of the universe, including all the other actual entities, is a constituent in the constitution of any one actual entity." (Whitehead, Process and Reality, Part II ch. VI §III, [corrected edition](https://data.openml.dev/books/process-and-reality.pdf))
 
-The principle runs both ways. Each actual entity is "a locus for the universe" (Part II ch. II §VI), and, in Whitehead's words, "in a sense, every entity pervades the whole world" (Part I ch. II §IV). An actual occasion, he writes, is "the whole universe in process of attainment of a particular satisfaction" (Part II ch. IX §V).
+The principle runs both ways. Each actual entity is "a locus for the universe" (Part II ch. II §VI), and, in Whitehead's words, "In a sense, every entity pervades the whole world" (Part I ch. II §IV). An actual occasion, he writes, is "the whole universe in process of attainment of a particular satisfaction" (Part II ch. IX §V).
 
 ## Related concepts
 

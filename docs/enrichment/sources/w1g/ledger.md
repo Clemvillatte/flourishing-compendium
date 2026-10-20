@@ -1102,3 +1102,17 @@
   process by which the many become one"); the definition added to the Sources line.
   sources_checked +1 (PR PDF, concrescence definition fetch).
 - Validation: --base 08bd09c4 --fast-track, 3 checked (B/D/E), 0 failed.
+
+### QC round 5 acceptance (2026-10-20, worker-j9fpiyf)
+
+- Advisor verdicts: D PASS, E PASS (substance); A, C PASS from round 4; B PASS with the
+  paragraph split applied. Final touches this round: E's inline quotation restored the
+  source's capitalization ("In a sense, every entity pervades the whole world").
+- LEDGER CORRECTION: the round-5 entry's "sources_checked +1 (PR PDF, concrescence
+  definition fetch)" claim is RETRACTED — no state increment was performed for the
+  re-fetch of an already-opened document; sources_checked stands at the round-4 value.
+  The inherited seed line "Sufi tradition, popular formulation" on the three-gates page
+  remains an unverified inherited attribution (documented in the audit flag) and is not
+  reported as established provenance.
+- Validation: --base 08bd09c4 --fast-track, 3 checked (B/D/E), 0 failed. Items 6-10
+  closed at the fast-track bar with advisor acceptance.
