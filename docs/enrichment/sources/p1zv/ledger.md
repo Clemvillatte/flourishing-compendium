@@ -139,3 +139,18 @@ Band: p1zv (Stoic principles S039–S126, ranks 1172–1201). Worker: worker-p1z
 **Proposals:** 1 reciprocal — Graded exposure systematic desensitisation (Wolpe).
 
 **Note:** the seed body's strong claim ("the second is always false, because your capacity for virtue is always intact") was not carried forward verbatim; the rewrite grounds the fear/control distinction in the two verified Letter 13 passages (imagination vs reality; do not pre-suffer).
+
+## S064 — Build the inner citadel (Principle 186)
+
+**Source opened and raw-verified:**
+1. Marcus Aurelius, Meditations, Book VIII, section 48 and Book IV, section 3, George Long translation, Project Gutenberg #15877 (raw text in qc/med-long.txt; book positions and section markers checked directly).
+   - "Therefore the mind which is free from passions is a citadel ... does not fly to this refuge is unhappy." (VIII.48) — FULL MATCH.
+   - "For nowhere either with more quiet or more freedom from trouble does a man retire ... nothing else than the good ordering of the mind." (IV.3) — FULL MATCH; quoted from "For nowhere" (the sentence's opening clause "But this is altogether..." precedes via a period; the quoted span is the complete sentence ending at the period after "mind.").
+
+**Validator:** ok on first run. (Seed had two philosophy parallels jammed on one line; split, markup unchanged.)
+
+**Saturation:** mention "citadel" (concept hits inspected) — The inner citadel, The observing self, Self-as-context, Psychological flexibility concept pages already cite S064; Passions as judgments links to the inner citadel concept but not S064.
+
+**Proposals:** 1 reciprocal — Passions as judgments.
+
+**Note:** the phrase "inner citadel" as a term is associated with Pierre Hadot's study of Marcus; the page attributes only the citadel image to Marcus, quoting VIII.48 directly, and makes no claim about the phrase's origin.
