@@ -12,13 +12,19 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 33** — Cultivate intelligence (nous)
 
-Nous is the capacity to grasp first principles: the starting points of reasoning that cannot be derived from anything prior. It is the intuitive grasp of truth that precedes demonstration. Honour your intuitive understanding, but test it against experience.
+Aristotle's argument in NE VI.6 runs: scientific knowledge is of the universal and necessary, and its conclusions follow from first principles by demonstration; but "that which can be scientifically known can be demonstrated," so the first principles themselves cannot be an object of scientific knowledge, art, or practical wisdom ([NE VI.6](http://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)). "The remaining alternative is that it is intuitive reason that grasps the first principles" ([NE VI.6](http://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)). The compendium's practical extension: since the grasp is of starting points rather than demonstrations, the check on it is experience rather than proof. The exercise below pairs the two.
 
-(NE VI.6; Posterior Analytics II.19.)
+> If, then, the states of mind by which we have truth and are never deceived about things invariable or even variable are scientific knowledge, practical wisdom, philosophic wisdom, and intuitive reason, and it cannot be any of the three (i.e. practical wisdom, scientific knowledge, or philosophic wisdom), the remaining alternative is that it is intuitive reason that grasps the first principles.
+>
+> Aristotle, Nicomachean Ethics VI.6, translated by W. D. Ross, [Internet Classics Archive](http://classics.mit.edu/Aristotle/nicomachaen.6.vi.html).
 
-**Plain words** Some truths you can't prove from anything earlier. You just see them, and everything else gets built on top. Aristotle calls that grasp nous. Trust your intuitions enough to take them seriously, then check them against what actually happens.
+(NE VI.6; Ross translation.)
 
-*For example:* A carpenter feels a joint is wrong before she can say why. She trusts the feeling, tests it with a clamp, and finds it was right.
+### Plain words
+
+On the argument's own terms: proof needs somewhere to start, and the starting points cannot themselves be proven — that is what intuitive reason is for. The check on a starting point is not a demonstration; it is what happens when you build on it. For an exercise, take one conviction you hold without proof and ask what would count as evidence that it is a good starting point.
+
+For example: a carpenter feels a joint is wrong before she can say why. She trusts the feeling, tests it with a clamp, and finds it was right. (An invented illustration.)
 
 ## Stories
 
