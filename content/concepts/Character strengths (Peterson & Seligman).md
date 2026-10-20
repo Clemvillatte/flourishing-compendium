@@ -7,7 +7,22 @@ file: "Character strengths (Peterson & Seligman)"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-C"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
-identifying and using signature strengths raises well-being (Peterson & Seligman, 2004; Seligman et al., 2005).
+Character strengths are the positive traits in the classification Christopher Peterson and Martin Seligman published as Character Strengths and Virtues (2004). The classification lists 24 strengths under six virtue categories, and it is descriptive rather than prescriptive: it organizes what is known about each strength instead of telling people what to do. A person's top five in the classification are called signature strengths.
+
+> "In a six-group, random assignment, placebo-controlled Internet study, we tested five purported happiness interventions and one plausible control exercise. We found that three of the interventions lastingly increased happiness and decreased depressive symptoms." (Seligman, Steen, Park and Peterson, [Positive Psychology Progress: Empirical Validation of Interventions](https://greatergood.berkeley.edu/images/uploads/Seligman-PosPsychProgress.pdf), American Psychologist 60(5):410-421, 2005)
+
+### The signature strengths exercise
+
+The intervention the compendium builds on asked participants to take the character strengths inventory online, receive feedback on their top five, the signature strengths, and then use one of these in a new and different way every day for one week. In the study's results, using signature strengths in a new way was one of two exercises that increased happiness and decreased depressive symptoms for six months.
+
+### In the compendium
+
+- [[PP036 — Identify and use signature strengths]] — the direct use of the exercise
+- [[SE015 — Recognise your strengths and weaknesses — accurate, not inflated]] — strengths knowledge with calibration
+- [[A003 — Make virtue your primary investment]] — the virtue framing of strengths
+- [[D004 — Cultivate de — your embodied character-power]] — the Daoist character-power parallel
+- [[M016 — Understand personhood as something built]] — character as built
+- [[SE081 — Give style to one's character]] — character-shaping
 
 ## Facets
 
@@ -17,6 +32,7 @@ identifying and using signature strengths raises well-being (Peterson & Seligman
 ## Related concepts
 
 - [[Moral situation research]] — the situationist debate the strengths revival enters
+- [[Moral courage research]] — the courage-side research line in the same area
 
 ## Sources
 
@@ -26,6 +42,7 @@ identifying and using signature strengths raises well-being (Peterson & Seligman
 - Niemiec, 2018
 - the series' strengths kernels
 - Peterson and Seligman, 2004
+- [Seligman, Steen, Park and Peterson, "Positive Psychology Progress: Empirical Validation of Interventions" (American Psychologist 60(5):410-421, 2005, full text PDF)](https://greatergood.berkeley.edu/images/uploads/Seligman-PosPsychProgress.pdf) — opened source for the study design sentence, the signature strengths exercise instructions and the six-month findings sentence
 
 ## Cited in psychology parallels
 
