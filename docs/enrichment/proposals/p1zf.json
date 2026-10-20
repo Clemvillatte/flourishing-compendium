@@ -1,1 +1,21 @@
-{"reciprocal":[],"inline":[],"notes":""}
+{
+ "inline": [],
+ "reciprocal": [
+  {
+   "into": "Burnout",
+   "link": "MO063 — Recognise burnout — motivation can be exhausted",
+   "why": "Burn-out defined as chronic workplace stress with exhaustion, cynicism and reduced efficacy (WHO ICD-11; Maslach et al., 2001)."
+  },
+  {
+   "into": "Self-concordance theory",
+   "link": "MO057 — Recognise the importance of self-concordant goals — your goals, not others'",
+   "why": "Self-concordant goals bring more sustained effort and larger well-being gains (Sheldon and Elliot, 1999)."
+  },
+  {
+   "into": "Teotl",
+   "link": "M002 — Expect the cosmos itself to be motion",
+   "why": "Nahua metaphysics is processive; teotl is energy-in-motion, so the cosmos is motion (Maffie, IEP)."
+  }
+ ],
+ "notes": "p1zf worker-p1zd-a7c31e5d. Reciprocals only; concept pages checked with rg for the principle id before proposing (Habit stacking, Temporal motivation theory, Wanting/liking, Gelassenheit, Thrownness already link back)."
+}

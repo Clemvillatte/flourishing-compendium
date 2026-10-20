@@ -108,3 +108,7 @@
 ## MO058 — Disengage from unattainable goals
 - Sources opened: Wrosch et al. 2003 PSPB 29:1494-1508 (PMID 15018681, abstract, verbatim); Dunne, Wrosch & Miller 2011 Health Psychol 30:763-770 (PMID 21604877, abstract, verbatim).
 - Corrections: "disengaging and re-engaging is adaptive" softened: reengagement no association in Dunne 2011. Wrosch & Miller 2009 not opened. Wu wei, art of letting go, sunk cost bullets inherited, unverified.
+
+## MO063 — Burnout
+- Sources opened: WHO 2019 page quoting ICD-11 (verbatim); Maslach, Schaufeli & Leiter 2001 Annu Rev Psychol 52:397-422 (PMID 11148311, abstract); Demerouti et al. 2001 J Appl Psychol 86:499-512 (PMID 11419809, abstract, N = 374).
+- Corrections: "caused by lack of autonomy" and "not weakness" not in opened abstracts; replaced with demands/resources finding. ICD-11 restricts burn-out to occupational context (the principle's general "motivation exhausted" is broader; noted). Maslach & Jackson 1981 unopened. Sabbath, Wu wei 48, Evagrius bullets inherited, unverified.
