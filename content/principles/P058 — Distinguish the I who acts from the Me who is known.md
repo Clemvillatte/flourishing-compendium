@@ -20,7 +20,7 @@ Mead is describing the social genesis of the self, and his timing claim is retro
 
 ### Plain words
 
-The self has two phases. The "me" is the organized set of attitudes taken over from others, the expectations and roles you answer to, and it can be inspected and narrated. The "I" is your response to all that, and it enters experience only afterward, in memory. The résumé is a photo of the river, not the river.
+The self has two phases. The "me" is the organized set of attitudes taken over from others, the expectations and roles you answer to, and it can be inspected and narrated. The "I" is your response to all that, and it enters experience only afterward, in memory.
 
 ### For example
 
