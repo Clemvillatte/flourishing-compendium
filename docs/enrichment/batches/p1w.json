@@ -1,11 +1,12 @@
 {
  "batch": "p1w",
  "done": [
-  "K008"
+  "K008",
+  "K001"
  ],
- "in_progress": "K001",
+ "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T05:39:35+00:00"
+ "updated": "2026-10-20T05:41:35+00:00"
 }
