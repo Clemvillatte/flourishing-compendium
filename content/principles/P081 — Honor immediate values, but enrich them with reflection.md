@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 81** — Honor immediate values, but enrich them with reflection
 
-Dewey holds that enjoyed things have their validity in being enjoyed, with no theory owed. Thinking about their conditions and consequences is a further operation, criticism, which appraises them and works for more enduring and extensive values. (Dewey, Experience and Nature, chapter 10.)
+Dewey distinguishes values as they are immediately enjoyed from reflection on their conditions and consequences. He calls that reflective inquiry criticism and connects it with establishing more enduring and extensive values. (Dewey, Experience and Nature, chapter 10.)
 
 > "Of immediate values as such, values which occur and which are possessed and enjoyed, there is no theory at all; they just occur, are enjoyed, possessed; and that is all." (Dewey, Experience and Nature, ch. 10, printed p. 326, [Internet Archive](https://archive.org/stream/in.ernet.dli.2015.188224/2015.188224.Experience-And-Nature-John-Dewey_djvu.txt))
 
@@ -21,9 +21,9 @@ Dewey holds that enjoyed things have their validity in being enjoyed, with no th
 The compendium's exercise: after something you enjoyed, write down one condition that made it work and one consequence it led to, and notice whether the enjoyment survives the description.
 
 **Plain words**
-Enjoy the thing first. Then, if you like, look at what made it good and what it led to. Both count.
+Think of something you enjoyed recently. What helped make it possible, and what followed from it?
 
-*For example:* Imagine you loved a week of swimming. You note that the early-morning start and the quiet pool were part of what made it work, and that the week improved your sleep, and you plan the next one with those in view.
+*For example:* Imagine you enjoyed swimming at a quiet pool. Before arranging another visit, you check when the quiet sessions run and whether getting there fits the rest of your week.
 
 ## Sources
 

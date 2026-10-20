@@ -1,0 +1,12 @@
+{
+ "inline": [],
+ "reciprocal": [
+  {
+   "into": "P083 — Prefer interest to forced effort",
+   "link": "P108 — Learn from where the learner is",
+   "why": "Both pages cite Dewey's interest-in-education work and share the Interest as motive and Interest development research concept links; P083's James passage (connect new material to a pupil's native interests) states the same pedagogical advice as P108's title. The two pages do not currently cross-link (both files read and searched directly). This proposal documents the existing connection; it does not independently verify the parallel.",
+   "_audit_why": "target pages read directly during the item-20 milestone check; absence of cross-links verified by rg on both files"
+  }
+ ],
+ "notes": "p1r proposals (worker-p1v-c7e4a1f9), from the item-20 milestone check. Reciprocals only; all other linked-concept targets inspected at items 19-20 (Savoring, Immediate and reflective value, Consummatory experience, Interest development research, Intrinsic motivation, Interest as motive) verified to already list their principle. | not deferred: 1 recip ready to apply"
+}

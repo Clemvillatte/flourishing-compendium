@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 83** — Prefer interest to forced effort
 
-Dewey argues that deliberation is perfunctory without interest, and that the remedy for inattention is never methods that increase indifference and aversion. James adds the constructive rule: begin with native interests, and let new interests grow by association with them. (Dewey, Democracy and Education, chapter 10; James, Talks to Teachers, chapters 10 and 11.)
+In discussing education, Dewey connects interest with careful deliberation and warns against methods that increase indifference and aversion. James advises teachers to connect new material with a pupil's native interests. (Dewey, Democracy and Education, chapter 10; James, Talks to Teachers, chapter 10.)
 
 > "Deliberation will be perfunctory and superficial where there is no interest." (Dewey, Democracy and Education, ch. 10, [Gutenberg](https://www.gutenberg.org/cache/epub/852/pg852.txt))
 
@@ -23,7 +23,7 @@ Dewey argues that deliberation is perfunctory without interest, and that the rem
 The compendium's exercise: for a task you keep forcing, list what you were interested in just before it, and reframe the task around one of those connections.
 
 **Plain words**
-Notice what you do easily and stay with it longer. For what you must do anyway, connect it to something you already care about.
+Choose a necessary task. What part connects with something you already care about, and where could you begin?
 
 *For example:* Imagine you avoid a required statistics course. You notice you enjoy following football, and you start learning probability through betting odds, keeping the course in view as you go.
 
