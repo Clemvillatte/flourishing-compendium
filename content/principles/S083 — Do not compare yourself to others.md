@@ -12,13 +12,22 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 205** — Do not compare yourself to others
 
-The only meaningful comparison is with yourself: are you better today than you were yesterday? Comparing yourself to others is a distraction from your own work and a source of either envy or pride.
+> Is anyone preferred before you at an entertainment, or in a compliment, or in being admitted to a consultation? If these things are good, you ought to be glad that he has gotten them; and if they are evil, don't be grieved that you have not gotten them.
 
-(Med. I.9, II.6, III.4, IV.3, IV.18, V.3, VI.16, VII.31, VIII.45, IX.30; Disc. I.12, I.20, I.25.)
+(Epictetus, Enchiridion 25, trans. Elizabeth Carter, [Internet Classics Archive](https://classics.mit.edu/Epictetus/epicench.html), page opened.)
 
-**Plain words** Compare yourself only with yesterday's you. Measuring against others pulls you away from your own work and breeds envy or pride. Ask whether you did better today than before, in the things that are yours to improve.
+Epictetus does not tell the reader to measure against yesterday's self. He cuts the comparison loose from the goods themselves: a rival's honours are either good, in which case there is cause for gladness, or not, in which case there is nothing to grieve over. He adds that a person who has not paid the price others paid "to acquire things not in our own control" cannot expect an equal share of them. The "better than yesterday" test in the entry is the compendium's own formula. It was not found in the Enchiridion passage, and the Meditations references were not opened.
 
-*For example:* A runner stops watching others' times and checks only whether she's more consistent than last month.
+On the psychology side, a meta-analysis of 60-plus years of social comparison research found that people tend to choose upward comparison targets when not threatened, and that "contrast was, by far, the dominant response," meaning comparisons usually lowered self-evaluations ([Gerber, Wheeler & Suls, Psychological Bulletin, 2018; PubMed](https://pubmed.ncbi.nlm.nih.gov/29144145/)). The authors also note the limitation that few studies had no-comparison control conditions. Festinger (1954), Runciman, Laozi and Fromm were not opened.
+
+**Plain words** Epictetus tells his reader not to be upset when someone else gets a favour or an honour, since either it is a real good and worth being glad about, or it is not worth grieving over. Research finds that comparing with others often leaves people feeling worse about themselves.
+
+*For example (imagined):* A runner stops watching rivals' times and checks whether she is more consistent than last month.
+
+## Sources
+
+- [Epictetus, Enchiridion 25 (trans. E. Carter)](https://classics.mit.edu/Epictetus/epicench.html) — MIT Internet Classics Archive, page opened
+- [Gerber, Wheeler & Suls (2018), Psychol Bull 144(2), 177-197](https://pubmed.ncbi.nlm.nih.gov/29144145/) — PubMed abstract opened
 
 ## Psychology parallels
 

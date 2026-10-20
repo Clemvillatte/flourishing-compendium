@@ -85,3 +85,8 @@
 - Opened: Marcus Meditations VII.22, VIII.59 (Long); James, On a Certain Blindness (Talks to Teachers, Gutenberg #16287); Tyler 2006 Annu Rev Psychol abstract (PMID 16318600; judged not matching the entry's claim, not used).
 - Not opened: Med. II.1, II.13, IX.4, IX.11; Disc. I.12, I.18; Seneca Letters 95, 107; Hayes 2011; Tyler's book; Bernstein.
 - Note: "work to change" is the compendium's extension; Marcus's VII.22 grounds tolerance of persons; label "Tolerance without indifference" is the compendium's, not James's.
+
+## S083 — Do not compare yourself to others
+- Opened: Epictetus Enchiridion 25 (Carter); Gerber, Wheeler & Suls 2018 abstract (PMID 29144145).
+- Not opened: Med. I.9 etc. (all Meditations refs), Disc. I.12, I.20, I.25; Festinger 1954; Runciman 1966; Laozi 44; Fromm.
+- Note: "compare only with yesterday's self" is not in Ench. 25; it is the compendium's formula.
