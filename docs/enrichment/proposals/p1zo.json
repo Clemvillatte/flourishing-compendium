@@ -1,6 +1,6 @@
 {
  "batch": "p1zo",
- "revision": 2,
+ "revision": 3,
  "reciprocal": [
   {
    "into": "Identity development",
@@ -13,6 +13,18 @@
    "link": "SE045",
    "why": "the Buddhist analysis behind this principle's core test (SN 22.59 is the source of its blockquote)",
    "notes": "Anatta page links D087 (Daoist near-duplicate) but not SE045; evidence in sources/p1zo/SE045.md."
+  },
+  {
+   "into": "Capacity to be alone (Winnicott)",
+   "link": "SE053",
+   "why": "Winnicott's ego-relatedness names the held-and-separate condition this principle describes",
+   "notes": "Concept page does not link SE053; the two needs of the principle are the two halves of the capacity to be alone. Evidence in sources/p1zo/SE053.md."
+  },
+  {
+   "into": "Autonomy",
+   "link": "SE053",
+   "why": "SDT's autonomy need is one half of this principle's pair",
+   "notes": "Autonomy concept page discusses SDT needs without linking SE053. Evidence in sources/p1zo/SE053.md (Ryan & Deci 2000, opened)."
   }
  ]
 }
