@@ -49,10 +49,10 @@ The lines below are editorial comparisons between Weil's account and the compend
 ## Related concepts
 
 - [[Attention]] — the general capacity this page treats in Weil's specific account
-- [[Bare attention in mindfulness practice]] — the self-regulation of attention so that it is maintained on immediate experience, with inhibition of elaborative processing (Bishop et al. 2004); an editorial comparison with Weil's empty, waiting attention
+- [[Bare attention in mindfulness practice]] — Bishop et al.'s proposed mindfulness definition includes attention maintained on immediate experience; Weil describes thought as empty and waiting
 - [[Flow]] — an editorial contrast between absorption in activity and Weil's receptive waiting
 - [[Empathy]] — Weil connects attention to asking a sufferer what they are going through
-- [[Attentional control theory (Eysenck)]] — a scientific account of attention under anxiety: anxiety impairs the goal-directed attentional system and increases the influence of the stimulus-driven system (Eysenck et al. 2007)
+- [[Attentional control theory (Eysenck)]] — a theory proposing that anxiety impairs efficient goal-directed attentional control and increases stimulus-driven influence (Eysenck et al. 2007)
 - [[Attentional control training and the role of repeated redirection]] — the noticing of distraction and the return of attention, modelled as a cycle of mind wandering, awareness, shifting, and sustained attention (Hasenkamp et al. 2012); Weil's essay makes the development of the faculty of attention the object of studies
 - [[Two modes of attentional control]] — one system for goal-directed, top-down selection of stimuli and responses, one for detecting behaviourally relevant, salient stimuli (Corbetta and Shulman 2002); an editorial pairing with Weil's account
 

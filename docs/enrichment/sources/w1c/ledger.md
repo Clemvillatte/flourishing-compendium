@@ -124,9 +124,31 @@ legacy schema (state keys + proposals) — MERGED, never replaced.
   4. Bishop 2004, Hasenkamp 2012, and Wikipedia Flow added to the page's
      Sources with URLs.
   Round 4: submitted with the rendered-page and opened-source evidence.
-- Proposals: 5 reciprocals (one per retained Related line: Attention, Bare
+- Advisor QC round 4: FAIL (wording and record fixes only; both round-3
+  evidence checks accepted, no further research needed). Repairs applied:
+  1. Eysenck clause: theory status preserved — "a theory proposing that
+     anxiety impairs efficient goal-directed attentional control and
+     increases stimulus-driven influence (Eysenck et al. 2007)" (the
+     abstract's "It is assumed..." no longer stated as established fact).
+  2. Bare attention clause: no longer attributed as "Bishop et al.'s bare
+     attention" — "Bishop et al.'s proposed mindfulness definition
+     includes attention maintained on immediate experience; Weil describes
+     thought as empty and waiting".
+  3. Reciprocal proposals direction-corrected (the earlier clauses
+     misdescribed the linked page): ACT-Eysenck → "Weil's account of
+     receptive attention in study and prayer, contrasted here with a
+     psychological theory of anxiety."; Two modes → "Weil's receptive
+     attention offers a philosophical comparison with accounts of how
+     attention is directed."; Bare attention → "Weil's account of
+     receptive, waiting attention, offered here as a comparison with
+     mindfulness practice."
+  4. Ledger summary line corrected from 5 to 7 reciprocals.
+  Round 5: submitted with the actual scoped diff of page, proposals and
+  ledger for verification.
+- Proposals: 7 reciprocals (one per Related line: Attention, Bare
   attention in mindfulness practice, Empathy, Flow, Attentional control
-  training and the role of repeated redirection) in proposals/w1c.json,
+  theory (Eysenck), Attentional control training and the role of repeated
+  redirection, Two modes of attentional control) in proposals/w1c.json,
   merged with the 8 inherited records.
 - Advisor QC: round 1 FAIL (first item of the w1c takeover). Blocking
   repairs applied:
