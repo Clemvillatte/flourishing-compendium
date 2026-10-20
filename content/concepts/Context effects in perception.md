@@ -22,7 +22,7 @@ The mechanism Bar proposes runs on expectations built from experience:
 
 > These context frames can be viewed as sets of expectations that are derived from exposure to real-world scenes. — Bar, 2004, [Key Points (opened)](https://www.nature.com/articles/nrn1476)
 
-Seeing, on this account, is not a neutral registration. The scene primes the object, and the object primes the scene. The compendium builds its horizon and expectation principles on this ground.
+Bar proposes context frames as an account of how contextual expectations can aid visual object recognition. The compendium connects this account with its horizon principle.
 
 ### In the compendium
 
