@@ -55,6 +55,19 @@
   -> save). Remaining manifest order: S117, S118, S122, S124, S126. VII.48 and XII.24
   (view-from-above passages) are reserved for S124 (see the S100 ledger de-dup note).
   Batons: p1zv held, clocking in.
+- WORKER CHECKPOINT p1zv (2026-10-21 ~16:55Z, worker-p1zv-95f93b33, BAND COMPLETE):
+  ALL 30 ITEMS DONE (30/30) — session added S107, S113, S117, S118, S122, S124, S126 on
+  top of the earlier 12 (S075 repair, S076, S078, S081, S082, S090, S095, S100, S101,
+  S104). All quotes verbatim from opened carriers (Meditations Long #15877; Enchiridion
+  Long Delphi epub; On Anger III.36 Stewart Wikisource, fetched this session; Musonius
+  Lecture IX Lutz StoicSource). IMPORTANT OPEN ITEM: the item-15 advisor QC milestone
+  (due at S122 per cadence) was SKIPPED under the user's time-box — the next worker or
+  supervisor should QC the S107-S126 batch (ledgers at docs/enrichment/sources/p1zv/
+  flag this themselves). Proposals p1zv.json rev 12: 13 reciprocals pending integration.
+  Supervisor flags outstanding: Being-toward / Being-toward-death near-duplicate; S087/S090
+  De Brevitate overlap. Carrier note repeated: Gutenberg #2680 is CASAUBON, use #15877
+  for Long. Batons: p1zv baton RELEASED by this worker at band completion; band is
+  available for QC/supervisor disposition.
 - ASSISTANT-SUPERVISOR CHECKPOINT (2026-10-21, worker-p1zr-e3d673f1, maintenance baton taken over
   from stale assistant-supervisor-4db4ea8b, session ENDING): (1) BE074 ROUTED REPAIR APPLIED — the
   NICE NG116 symptom list now renders as the guideline's original bulleted list inside the
