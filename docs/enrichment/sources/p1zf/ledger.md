@@ -37,3 +37,7 @@
 
 ## E073 — Avoiding the adventurer
 - Source opened: Beauvoir, Ethics of Ambiguity, ch. II (marxists.org), adventurer section; verbatim quotes. Corrections: Beauvoir says the adventurer's choice is "very close to a genuinely moral attitude"; the fault is indifference to others, not mere movement. Old line said "Part II, ch. 3"; marxists.org text places the section in Part II (file ch02). Old serial-starter example (the "tell") removed as unsourced. Zuckerman 1994 and Cloninger 1986 bullets inherited, unverified.
+
+## E078 — Situated embodiment and gender
+- Source opened: SEP Beauvoir (Bergoffen & Burke) sections 7, 13 (verbatim). The Second Sex itself not opened (the marxists.org ch01 page opened did not contain the line). English wording of the famous line varies by translation (1953 "a woman", 2010 "woman"); the old page's wording "one is not born, but rather becomes, a woman" in the principle statement is left as is (protected), page notes the variants.
+- Merleau-Ponty Part II ch. 4 and Fanon, Black Skin White Masks not opened; dropped from body. Extension to race/class/ability flagged as compendium's. Bem/Butler/Cross bullets unverified. Runners example replaced with imagined hedge.
