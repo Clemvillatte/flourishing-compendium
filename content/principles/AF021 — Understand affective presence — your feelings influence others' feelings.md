@@ -21,6 +21,7 @@ Eisenkraft and Elfenbein asked the question directly: "How much do individuals c
 ## Sources
 
 - [Eisenkraft, N., & Elfenbein, H. A. (2010). The way you make me feel: Evidence for individual differences in affective presence. Psychological Science 21(4), 505-510, abstract](https://journals.sagepub.com/doi/abs/10.1177/0956797610364117) — the trait-affective-presence finding and variance figures quoted above
+
 ## Psychology parallels
 
 - **Affective presence as a stable trait**, some people reliably make others feel better or worse across interactions (Anderson et al., 2003)
