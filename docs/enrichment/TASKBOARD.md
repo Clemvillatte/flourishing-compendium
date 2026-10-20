@@ -68,7 +68,7 @@ The owner's primary-source library is in `docs/PRIMARY-SOURCES.md`.
 | p1o | selected ranks 1143-1320 | P040 to B042 (30 priority items) | p1o | claimed (takeover at ~04:0xZ; stale 79 min; 5/30 done: B014-B036; B042 first per D/B priority, then P items) | worker-p1o-6ae3d782 | 2026-10-20 |
 | p1p | selected ranks 1321-1386 | B046 to D028 (30 priority items) | p1p | done | worker-p1p-c23eecde (30/30; takeover from stale worker-p1p-27eaf6bd at 21/30; final 9 B items done this session with advisor QC at items 1, 5 and at close; see notes + ledger) | 2026-10-20 |
 | p1q | selected ranks 1387-1411 + 1469-1473 | D033 to P020 (30 priority items) | p1q | done | supervisor-1a2b3c (owner-directed contribution; supervisor baton also held) | 2026-10-20 |
-| p1r | selected ranks 240-1137 | P194 to P167 (30 priority items) | p1r | claimed | worker-p1m-a4d81c92 (band p1m closed 30/30; claiming p1r) | 2026-10-20 |
+| p1r | selected ranks 240-1137 | P194 to P167 (30 priority items) | p1r | claimed | worker-p1v-c7e4a1f9 (p1v band complete 18/18; takeover of released p1r, 10/30 done, resuming from P081) | 2026-10-20 |
 | p1s | selected ranks 1138-1349 | P168 to D106 (30 priority items) | p1s | 30/30 items state-marked done; final source verification and earlier QC-closure audit pending. Takeover worker-p1u-8a7ab96d completed B172/B181/B190 (QC accepted round 2), P168/P175/P176/P177 (P175 QC accepted after direct page-locator verification, p. 87), then the final item-30 QC round: repairs applied to all 8 never-reviewed items (B017/B030/B154/B165/B169/P168/P176/P177, advisor-prescribed, individually saved). Selected removal checks on the 14 earlier QC flags passed; all fourteen closures not yet established (fresh scoped review of D094/D103/D106/B092 then B096/B109/B049/B126 in progress). B038 cross-band incident still awaiting supervisor disposition. B017 protected-reflections typo ("dilgence") routed to supervisor (incident log). | worker-p1u-8a7ab96d | 2026-10-20 |
 | p1t | selected ranks 1350-1435 | D109 to P102 (30 priority items; 21 Daoist) | p1t | done; last 5 enriched + D190/P009 QC repaired; first-item/milestone/closure advisors PASS; reciprocal proposal awaits supervisor | worker-p1t-c6c62a0a | 2026-10-20 |
 | p1u | selected ranks 1436-1614 | P112 to P047 (30 priority items; 10 B + 9 D) | p1u | claimed released-band takeover; previous milestone-20 QC discharged; 20/30 done; resume P114 then remaining P items; prior scope-correction flags retained for supervisor | worker-p1u-c6c62a0a | 2026-10-20 |
@@ -546,3 +546,16 @@ principles queue is untouched.
   affected workers need no action. api_push.py now refuses to push unless local
   HEAD descends from origin/main. Also added scripts/sync_push.sh (git-channel
   retry helper). Continuing p1d (B067 in progress).
+
+- 2026-10-20 (worker-p1v-c7e4a1f9): p1v BAND COMPLETE — 18/18 items
+  enriched (P053, P098, P126, P170, P185, P186, B032, B155, B187, D111,
+  D177, D189, P014, P028, P061, P188, B149, B197), final baseline 18
+  checked / 0 failed vs b3a5516a, band closure ACCEPTED by advisor after
+  two repair rounds (ledger has the full QC history; proposals/p1v.json
+  carries 1 unapplied reciprocal). Also completed the dead p1r holder's
+  P079 under a staleness takeover per owner instruction, then released
+  p1r. p1v baton released; claiming p1r (released, 10/30 done) and
+  continuing from P081. Note: a p1f staleness-takeover attempt was
+  REFUSED (p1f freshly held by worker-p1f-7e93856c) and its state file
+  was untouched after the refusal (local timestamp touch reverted, never
+  pushed).
