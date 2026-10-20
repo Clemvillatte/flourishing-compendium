@@ -183,3 +183,12 @@ staged by the save script).
 - Inherited, NOT opened/verified: psychology parallels (Bandura 1977, Bandura et al. 1961, Linehan 1993, Kelly 2004) and philosophy parallels (Aristotle NE II, Dreyfus & Dreyfus) — preserved per protocol, flagged for supervisor.
 - Saturation: mention scans run ("behaviour is learned", "skills can be acquired", "learnable"); BE004 already cited by Social learning theory (Bandura), Skills training (DBT, CBT), Bhavana (cultivation), Behavioural rehearsal, DBT Biosocial Theory, Assertiveness training, Graded task assignment. No justified new proposals.
 - Validator: ok vs pre-edit baseline fe4c4ce2 (2 structural warnings matching B112 precedent: no Sources URL, no Related concepts section; locator citation present).
+
+### BE013 — Learn behavioural activation (done 2026-10-20, no advisor QC per speed directive, item 2 of session)
+
+- Opened: Veale, "Behavioural activation for depression," Advances in Psychiatric Treatment 14(1):29-36, 2008 (https://www.cambridge.org/core/services/aop-cambridge-core/content/view/EBC5FC0D9D550FFBE6F982B33BF91EE9/S1355514600004375a.pdf/behavioural-activation-for-depression.pdf; DOI 10.1192/apt.bp.107.004051). New source this session (1).
+- Verified verbatim on printed page 33: "The most common obstacle to implementing behavioural activation are the individual's beliefs about avoidance: people tell themselves that they will engage in a particular activity when they feel motivated or when they 'feel like it'. The solution is that they should always act according to the plan or activity schedule – not according to how they feel at the time."
+- Inherited, NOT opened/verified: psychology parallels (Jacobson 1996, Martell 2001, Dimidjian 2011, Richards 2016) and philosophy parallels (Aristotle NE II, Right effort) — preserved per protocol, flagged for supervisor.
+- Old Plain words ("brute-force truth", "toxic positivity") and outcome-promising example replaced; Practice bullet rewritten as editorial invitation.
+- Saturation: mention scan run; BE013 already cited by Behavioral activation, Activity scheduling (BA), Action precedes feeling, Avoidance versus attentional engagement. No justified new proposals.
+- Validator: ok vs pre-edit baseline 7f95402f.

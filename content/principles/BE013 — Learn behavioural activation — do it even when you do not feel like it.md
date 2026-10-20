@@ -12,11 +12,18 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BE — Overt Be
 ---
 > **Principle 13** — Learn behavioural activation: do it even when you do not feel like it
 
-Behavioural activation involves scheduling and engaging in activities (especially valued and pleasurable ones) even when motivation is absent. This is the core behavioural treatment for depression and is based on the insight that action precedes motivation.
+Behavioural activation treats low mood as a loop of withdrawal: a person stops doing what mattered to them, loses the rewards those activities carried, and then feels even less like acting. The treatment response is to schedule specific, valued activities and carry them out at the planned time. A clinical guide to the approach names the obstacle directly: patients tell themselves they will act once they feel like it, and are told instead to follow the plan rather than the feeling ([Veale, 2008](https://doi.org/10.1192/apt.bp.107.004051)).
 
-**Plain words** Behavioural activation is the brute-force truth: action first, motivation later. Don't wait to feel like it — do it anyway, and the feeling catches up on the walk. This isn't toxic positivity; it's the actual mechanics of mood.
+> The most common obstacle to implementing behavioural activation are the individual's beliefs about avoidance: people tell themselves that they will engage in a particular activity when they feel motivated or when they 'feel like it'. The solution is that they should always act according to the plan or activity schedule – not according to how they feel at the time.
+>
+> — Veale, "Behavioural activation for depression" (2008, p. 33)
 
-*For example:* The depressed person who doesn't wait for energy but walks the same loop at 4 p.m. daily — the loop produces the energy it was supposed to require. Backwards, and it works.
+**Plain words** Low mood removes the desire to do the things that would help. Behavioural activation asks you to treat your week like a set of appointments: choose a few specific activities you value, put them in the calendar at fixed times, and keep the appointment whether or not you feel ready that day.
+
+For example (imagined): someone who has stopped answering messages picks two evenings a week, writes "reply to Sam" and "walk before dinner" on those evenings, and does both at the scheduled time, including the evenings when the desire is absent.
+
+(Veale, "Behavioural activation for depression," 2008.)
+
 ## Psychology parallels
 
 - **[[Behavioral activation|Behavioural activation (Jacobson, Martell)]]**, activity scheduling treats depression (Jacobson et al., 1996; Martell et al., 2001)
@@ -31,4 +38,4 @@ Behavioural activation involves scheduling and engaging in activities (especiall
 
 ## Practice
 
-- Schedule activities: plan specific, valued activities at specific times. Do them even when you do not feel like it. The feeling follows the action. Do not wait for motivation.
+- As a compendium exercise: choose two specific, valued activities for the coming week, schedule them at fixed times, and treat the schedule as an appointment you keep regardless of mood that day.
