@@ -25,9 +25,10 @@
   "AT061",
   "AT074",
   "BE007",
-  "BE016"
+  "BE016",
+  "BE018"
  ],
- "in_progress": "BE018",
+ "in_progress": null,
  "flagged": {
   "AF002": "Reopened for QC: QC repair round 1 (advisor): scope claims to opened sources, standalone blockquote, example labelled imagined",
   "AF013": "Reopened for QC: milestone QC repair: trainability claims exceed opened source",
@@ -53,6 +54,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 1,
- "updated": "2026-10-20T11:17:27+00:00",
+ "updated": "2026-10-20T11:19:46+00:00",
  "band_done": false
 }

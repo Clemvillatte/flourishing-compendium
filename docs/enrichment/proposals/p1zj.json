@@ -1,6 +1,6 @@
 {
   "batch": "p1zj",
-  "revision": 29,
+  "revision": 30,
   "records": [
     {
       "action": "reciprocal",
@@ -349,7 +349,7 @@
       "action": "reciprocal",
       "into": "Self-efficacy",
       "link": "BE018",
-      "why": "listed for comparison with performance accomplishments as the source of efficacy beliefs",
+      "why": "listed for comparison with scheduled skill-building activities",
       "notes": "target page read before proposing; relationship is Bandura's first source vs the scheduled mastery task"
     },
     {
@@ -363,7 +363,7 @@
       "action": "reciprocal",
       "into": "Competence motivation",
       "link": "BE018",
-      "why": "listed for comparison with the feeling of efficacy that mastery activities are scheduled to produce",
+      "why": "listed for comparison with scheduled skill-building activities",
       "notes": "target page read before proposing; White's effectance reading vs the BA scheduling practice"
     }
   ]
