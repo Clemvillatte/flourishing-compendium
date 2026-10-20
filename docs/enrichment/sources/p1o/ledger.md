@@ -131,3 +131,22 @@
   Process versus outcome focus, Process focus research, etc.) — main
   concepts already linked on the page; no new proposals needed.
   Validator: ok.
+
+### P044 — Unlearn on purpose (2026-10-20, worker-p1o-6ae3d782)
+- Opened: Dewey, The Quest for Certainty (1929, Minton Balch), Internet
+  Archive full text (questforcertaint032529mbp) downloaded and grepped
+  locally. All three quotes verbatim from ch. VII p. 192 (page position
+  verified against running headers): furbishing/refurbishing theories;
+  'What remains and is not discarded...'; sickle/mowing machine. Line-break
+  hyphens rejoined (re-flecting -> reflecting, etc.). Seed locator kept the
+  book; chapter/page added.
+- Seed statement + locator removed (precedent); stop-doing-list kernel
+  preserved as the compendium exercise in Plain words; seed For example
+  rebuilt without em dashes/aphorism closer, micromanagement scenario kept.
+  Plain words re-derived. Verplanken 2012 parallel tail reduced to bare
+  wikilink (unopened); QFC attribution on Retiring obsolete concepts kept
+  (QFC opened this session, sickle passage is its ground); HNC attribution
+  on Creative destruction of habits kept (HNC opened this session).
+- Saturation: 8+ concepts cite P044 (Retiring obsolete concepts, Habit
+  discontinuity, Coping flexibility, Creative destruction, etc.) — already
+  linked on the page; no new proposals needed. Validator: ok.
