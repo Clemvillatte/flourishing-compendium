@@ -39,7 +39,6 @@ For the compendium's exercise, describe the situation, the people affected and t
 ## Philosophy parallels
 
 - **[[Phronesis|Phronesis]]** (Aristotle, Nicomachean Ethics VI)
-- **Moral situations over general rules** (Dewey, Human Nature and Conduct)
 
 <!-- fc: reflections
 Where is a rule or algorithm currently replacing your discernment in context? What would phronesis actually require here?

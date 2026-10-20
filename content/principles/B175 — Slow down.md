@@ -35,8 +35,7 @@ Choose an ordinary task you have time to do without hurrying. Pay attention to i
 
 ## Philosophy parallels
 
-- **[[Durée|Duration versus clock time]]** (Bergson, Time and Free Will)
-- **Act without haste** (Laozi, Daodejing 63)
+- **[[Durée|Duration versus clock time]]**
 
 <!-- fc: reflections
 Where would slowing down — walking, eating, speaking — actually change something rather than just feel virtuous? What's the actual mechanism?

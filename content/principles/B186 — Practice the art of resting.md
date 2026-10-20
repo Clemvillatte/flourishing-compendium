@@ -41,7 +41,7 @@ For the compendium's exercise, notice whether you are tired and what you can pau
 
 ## Philosophy parallels
 
-- **[[Leisure|Leisure as the basis of culture]]** (Pieper)
+- **[[Leisure|Leisure as the basis of culture]]**
 
 <!-- fc: reflections
 Where is rest currently laziness or guilt rather than practice? What would deliberate, guiltless resting actually feel like?

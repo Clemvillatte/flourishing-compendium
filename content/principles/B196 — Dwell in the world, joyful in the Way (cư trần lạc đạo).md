@@ -42,7 +42,7 @@ Choose one routine task and give it your attention. When you find yourself waiti
 ## Philosophy parallels
 
 - **[[Cu tran lac dao|Cu tran lac dao]]** (Trần Nhân Tông)
-- **[[Small country, simple life|Small country, simple life]]** (Laozi, Daodejing 80)
+- **[[Small country, simple life|Small country, simple life]]**
 
 <!-- fc: reflections
 Where are you currently treating practice as something requiring leaving — family, work, society? What would living in the world, joyful in the Way, actually look like?

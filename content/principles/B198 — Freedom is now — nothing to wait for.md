@@ -42,9 +42,8 @@ Name one condition you have been waiting for before beginning a practice. Identi
 
 ## Philosophy parallels
 
-- **[[Pure experience|Pure experience]]** (Nishida, An Inquiry into the Good)
-- **The present as the only address** (Augustine, Confessions XI)
-- **[[Nirvana|Nirvana]]** (Buddhism, SN 56.11)
+- **[[Pure experience|Pure experience]]**
+- **[[Nirvana|Nirvana]]**
 
 
 <!-- fc: reflections

@@ -38,12 +38,12 @@ As a compendium exercise, notice how you address yourself after a mistake. Consi
 
 ## Psychology parallels
 
-- **[[Self-compassion|Self-compassion]]** (Neff, 2003)
+- **[[Self-compassion|Self-compassion]]**
 - **[[Harsh self-criticism|Harsh self-criticism]]**
 
 ## Philosophy parallels
 
-- **[[Care|Care of the self]]** (Foucault)
+- **[[Care|Care of the self]]**
 
 ## Practice kernels
 

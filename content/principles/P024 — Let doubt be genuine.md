@@ -38,8 +38,8 @@ As a compendium exercise, write down what you are uncertain about and what makes
 ## Philosophy parallels
 
 - **[[Genuine doubt|Genuine doubt]]** (Peirce, "The Fixation of Belief")
-- **[[The irritation of doubt|The irritation of doubt]]** (Peirce, Collected Papers)
-- **[[Inquiry|Inquiry]]** (Pragmatism)
+- **[[The irritation of doubt|The irritation of doubt]]** (Peirce, "The Fixation of Belief")
+- **[[Inquiry|Inquiry]]**
 
 
 <!-- fc: reflections

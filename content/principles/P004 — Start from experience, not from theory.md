@@ -38,7 +38,6 @@ The theory is a draft; the experience is the document it drafts from. When the t
 ## Philosophy parallels
 
 - **[[Radical empiricism|Radical empiricism]]** (James, Essays in Radical Empiricism)
-- **Return to the things themselves** (Husserl, Ideas I)
 
 <!-- fc: reflections
 What theory are you currently living by that your actual experience contradicts? What would answering to experience actually require?

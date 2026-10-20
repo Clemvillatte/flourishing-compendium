@@ -384,3 +384,20 @@ D160 D181 D192 all done, validated, pushed. Advisor QC at items 1, 5, 10, 15
   and book citations in philosophy parallels, per the established pattern.
 - Fixed inherited formatting: four merged parallel bullets split across
   B198, P013, P022, P024. Validator: ok vs 71fd7049 for all changed pages.
+
+### Batch QC round 4 (advisor, 2026-10-20): audit closed
+- The advisor rejected the concept-citation-only exemption: unopened
+  author/book attributions in parallel sections removed across the batch:
+  B164 (Neff 2003, Foucault); B175 (Bergson; unlinked Daodejing 63 bullet
+  deleted); B186 (Pieper); B196 (Daodejing 80; Trần Nhân Tông kept,
+  supported by the fetched Trieu paper); B198 (Nishida, SN 56.11; unlinked
+  Augustine bullet deleted); P004 (unlinked Husserl bullet deleted);
+  P013 (Schiller bullet deleted; Pragmatism/Workability parentheticals
+  removed; opened James attribution kept); P018 (unlinked Dewey bullet
+  deleted); P022 (unlinked "Experiment as the method of fixing belief"
+  bullet deleted — the opened Peirce excerpts establish doubt and inquiry,
+  not that formulation; Verificationism parenthetical removed); P024
+  (irritation-of-doubt locator corrected to "The Fixation of Belief";
+  Inquiry parenthetical removed). Round-3 ledger sentence claiming these
+  were acceptable "per the established pattern" corrected above.
+- All ten post-Daoist pages validated vs 71fd7049 and pushed.
