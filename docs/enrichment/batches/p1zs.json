@@ -21,7 +21,7 @@
   "CO022",
   "CO030"
  ],
- "in_progress": null,
+ "in_progress": "CO034",
  "flagged": {
   "BI020": "Reopened for QC: round-4 citation closure",
   "BI037": "Reopened for QC: round-5 mechanical fixes",
@@ -40,6 +40,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 6,
- "updated": "2026-10-20T13:17:13+00:00",
+ "updated": "2026-10-20T13:17:16+00:00",
  "band_done": false
 }
