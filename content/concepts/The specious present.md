@@ -7,7 +7,13 @@ file: "The specious present"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-“The specious present” — James, The Principles of Psychology.
+The specious present is E.R. Clay's term for the part of time actually given in experience, quoted and made central by William James in The Principles of Psychology. In Clay's words, the experienced present is "really a part of the past--a recent past--delusively given as being the time that intervenes between the past and the future" (quoted in James 1890). James's own summary:
+
+> In short, the practically cognized present is no knife-edge, but a saddle-back, with a certain breadth of its own on which we sit perched, and from which we look in two directions into time.
+>
+> (James, The Principles of Psychology, vol. 1, 1890, [Project Gutenberg #57628](https://www.gutenberg.org/ebooks/57628))
+
+Clay's illustration is musical: "All the notes of a bar of a song seem to the listener to be contained in the present" (quoted in James 1890). The intuited duration is short, and its content is in flux, while "the specious present, the intuited duration, stands permanent, like the rainbow on the waterfall, with its own quality unchanged by the events that stream through it" (James 1890).
 
 ## Facets
 
@@ -17,6 +23,8 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 - James, The Principles of Psychology
 - James, Essays in Radical Empiricism
+
+- [James, The Principles of Psychology, vol. 1, 1890 (Project Gutenberg #57628)](https://www.gutenberg.org/ebooks/57628) — the Clay specious-present definition and song illustration, the saddle-back passage and the rainbow-on-the-waterfall image
 
 ## Cited in philosophy parallels
 
