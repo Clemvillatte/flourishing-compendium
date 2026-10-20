@@ -20,9 +20,9 @@ The stages are not equally voluntary. The first is given; the second is the mind
 
 (Seneca, De Ira II.4, Aubrey Stewart translation.)
 
-**Plain words** Three things happen in order when you are insulted: the body reacts, a wish for payback forms, and the payback happens if you act on the wish. Only the first is automatic. The wish feels automatic too, but it is not: it is you agreeing that revenge is owed. Catching it there is the whole skill, because the third stage rarely walks back.
+**Plain words** An insult may bring a jolt before you have considered it. Seneca distinguishes that jolt from judging that revenge is deserved, and then from insisting on revenge even when reason objects. His third stage concerns that insistence, whether or not you have acted. Examine the claim that retaliation is owed while you can still reject it.
 
-For example: Imagined: your pulse jumps at an insult; you notice it, decide nothing, and the moment passes without a reply.
+For example: Imagined: your pulse jumps at an insult. You notice the thought "I ought to get even", question it, and answer the criticism without returning an insult.
 
 ## Psychology parallels
 
