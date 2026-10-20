@@ -10,8 +10,8 @@
   reader-facing repair — ROUTED to the live p1zn owner with exact edits; PP019 Csikszentmihalyi naming
   grounding ROUTED to the live p1zm owner); integration applied (93 recip + 4 inline, 90 files, 7 deferred
   to live bands; 43 FAILs pre-existing seed conditions); reserves p1zq/p1zr/p1zs minted (degree order,
-  queue@16f4b581). Live workers at last check: p1zj, p1zk, p1zm, p1zn, p1zo, p1zp; stale/free for
-  takeover: p1zi, w1e, w1g, w1h, w1j, w1l. Pending supervisor dispositions: w1e/w1g/w1l/w1c namespace
+  queue@16f4b581). Live workers at last check: p1zj, p1zk, p1zm, p1zn, p1zo, p1zp, w1l; stale/free for
+  takeover: p1zi, w1e, w1g, w1h, w1j (roster moves fast — always re-run baton.py status). Pending supervisor dispositions: w1e/w1g/w1l/w1c namespace
   holds; p1zk BI013≈BE037 / BI033≈BE042 near-duplicates (owner decision). OPEN ITEMS for next pass:
   re-apply deferred proposals when bands free up; monitor the S131/PP019 routes; sample the new workers'
   first items; replenish reserves as the wave claims them. Bounded monitoring continues.
