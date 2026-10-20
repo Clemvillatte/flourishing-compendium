@@ -12,13 +12,29 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 164** — Extend non-harm to yourself
 
-The precept of non-violence includes you: self-attack is harm, and it spreads. Treat yourself as one of the beings you are practicing to protect.
+The Dhammapada's chapter on the self opens with the premise: "If one holds oneself dear, one should diligently watch oneself." The watching is protective, not punitive. The Metta Sutta then sets the scope of protection without exceptions.
+
+> If one holds oneself dear, one should diligently watch oneself.
+>
+> (Dhammapada 157, Buddharakkhita)
+
+> As a mother would risk her life to protect her child, her only child, even so should one cultivate a limitless heart with regard to all beings.
+>
+> (Metta Sutta, Thanissaro)
+
+The compendium's reading is that "all beings" is not a set that excludes the being doing the cherishing. The chapter distinguishes watching from attacking: vigilance over yourself and harm to yourself are different acts. The exercise is to apply the precept of non-harm to your own case with the same seriousness as to anyone else's.
 
 (Dhammapada 157; Metta Sutta.)
 
-**Plain words** The precept of non-violence includes you — self-attack is harm, and it spreads. Treat yourself as one of the beings you are practicing to protect. The inner critic claims to be quality control; it's actually just violence with a clipboard.
+**Plain words**
+Most people accept that cruel speech harms the person spoken to. The same voice, turned inward, works the same way. The test: play the recording to a friend. If you would not say it to them, it is not feedback.
 
-*For example:* The way you speak to yourself after a mistake — play the recording to a friend. You'd never. That's the evidence.
+*For example:* After sending an email with a typo, the internal voice that begins 'you always ruin things' is using words it would not open with on a colleague who made the same typo.
+
+## Sources
+
+- [Dhammapada, Attavagga (Buddharakkhita), Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.12.budd.html) — verse 157
+- [Karaniya Metta Sutta (Thanissaro), Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.than.html)
 
 ## Psychology parallels
 
