@@ -1,13 +1,20 @@
 {
  "baton": "p1t",
- "agent": "worker-p1t-6b8f0c93",
- "clocked_in": "2026-10-20T03:01:40+00:00",
+ "agent": "supervisor-36b57e93",
+ "clocked_in": "2026-10-20T03:23:48+00:00",
  "takeovers": [
   {
    "by": "worker-p1t-6b8f0c93",
    "at": "2026-10-20T02:06:44+00:00",
    "from": null,
    "reason": "free"
+  },
+  {
+   "by": "supervisor-36b57e93",
+   "at": "2026-10-20T03:23:48+00:00",
+   "from": "worker-p1t-6b8f0c93",
+   "reason": "stale (22 min)"
   }
- ]
+ ],
+ "released": false
 }
