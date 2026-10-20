@@ -12,17 +12,26 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 165** — Peace begins in your own mind
 
-There is no way to peace in the world that bypasses peace in the mind: establish peace in yourself and it radiates outward: that is your contribution.
+Dhammapada 96 describes the perfected one's calm as extending through all three doors: calm is his thought, calm his speech, and calm his deed. (Dhammapada 96.) Thich Nhat Hanh makes the same connection from the side of peace work: peace is present right here and now, in ourselves and in everything we do and see, and without enough peace, understanding and loving-kindness within yourself, your actions will not truly be for peace. (Peace Is Every Step; Lion's Roar interview.)
 
-(Dhammapada 96; Thích Nhất Hạnh, Peace Is Every Step.)
+> "If you don’t have enough peace and understanding and loving-kindness within yourself, your actions will not truly be for peace." (Thich Nhat Hanh, [Lion's Roar interview](https://www.lionsroar.com/in-engaged-buddhism-peace-begins-with-you/))
 
-**Plain words** There is no way to peace in the world that bypasses peace in the mind — establish peace in yourself and it radiates outward. That is your contribution. You can't hand anyone a calm you don't have; the bucket leaks into the well.
+The compendium's application: the order of operations is the point. The exercise is to check your own state before entering the situation you intend to calm.
 
-*For example:* One stressed person entering the household changes the temperature of every room — one settled person does the same, in the other direction.
+**Plain words**
+Notice what you bring into a room before you try to change the room. As a compendium exercise, before a conversation you expect to be difficult, take one minute to settle: three breaths, a straightened posture, a named intention. Then enter, and notice what you say first.
+
+*For example:* Imagine coming home after a difficult commute. Before speaking, you notice your own state and decide whether to carry it into the house or set it down at the door.
+
+## Sources
+
+- [Dhammapada, Buddharakkhita translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.07.budd.html) — verse 96
+- [Thich Nhat Hanh, Peace Is Every Step, excerpts](https://www.dhammatalks.net/Books10/Thich_Nhat_Hanh_Peace_is_Every_Step.htm) — peace present right here and now
+- [In Engaged Buddhism, Peace Begins with You, Lion's Roar interview](https://www.lionsroar.com/in-engaged-buddhism-peace-begins-with-you/) — the quoted line
 
 ## Psychology parallels
 
-- **[[Emotional contagion|Emotional contagion]]**, affect transfers between people (Hatfield et al., 1994)
+- **[[Emotional contagion|Emotional contagion]]** (Hatfield et al., 1994)
 - **Leader mood effects on group affect** (Sy, Cote and Saavedra, 2005)
 
 ## Philosophy parallels
