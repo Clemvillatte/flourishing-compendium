@@ -60,7 +60,7 @@
   "AT053",
   "AT059"
  ],
- "in_progress": null,
+ "in_progress": "AT060",
  "flagged": {
   "D074": "Reopened for QC: milestone QC: inference-level corrections",
   "B006": "Reopened for QC: QC r2: traffic example",
@@ -90,6 +90,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 22,
- "updated": "2026-10-20T06:14:52+00:00",
+ "updated": "2026-10-20T06:15:01+00:00",
  "band_done": false
 }
