@@ -23,13 +23,13 @@ His commentary:
 The instruction names whichever obstacle is yours and refuses the postponement that more sitting offers. He adds the guard against outcome-chasing: "all dharmas should be applied in trying to tame it, but at the same time we should not try to arrive at certain results". ([Collected Works vol. 2 PDF](https://terebess.hu/english/coll2.pdf))
 
 **Plain words**
-Your worst recurring problem is the practice's raw material, not an interruption of it. The comfortable weaknesses you polish instead are the edges; the one that keeps driving your life is the center. As the compendium applies it, the people close to you can usually name your center faster than you can.
+As a compendium exercise, identify a recurring reaction you already recognize as a serious difficulty. Bring one recent instance into your practice now, without postponing it until you have completed more sitting or demanding a particular result.
 
-For example: Your sister says, "You always need to be right," your partner nods, and your closest friend laughs.
+For example (imagined): Someone who repeatedly interrupts others examines one recent interruption instead of postponing the issue until they have meditated more.
 
 ## Sources
 
-- [Chögyam Trungpa, The Collected Works, vol. 2 (includes Training the Mind)](https://terebess.hu/english/coll2.pdf) — slogan 27 commentary; quotes verified against a text extraction of the downloaded PDF; slogan 27's placement (Point Six) cross-checked against the slogans list on the [Tibetan Buddhist Encyclopedia](https://www.tibetanbuddhistencyclopedia.com/en/wiki/All_dharma_agrees_at_one_point)
+- [Chögyam Trungpa, The Collected Works, vol. 2 (includes Training the Mind)](https://terebess.hu/english/coll2.pdf) — slogan 27 commentary (Point Six of the Seven Points of Mind Training; slogans list cross-checked on the [Tibetan Buddhist Encyclopedia](https://www.tibetanbuddhistencyclopedia.com/en/wiki/All_dharma_agrees_at_one_point))
 
 ## Psychology parallels
 

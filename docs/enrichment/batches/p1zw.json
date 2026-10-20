@@ -24,7 +24,8 @@
   "K021",
   "K030",
   "K042",
-  "K052"
+  "K052",
+  "K053"
  ],
  "in_progress": null,
  "flagged": {
@@ -39,10 +40,15 @@
   "K033": "inherited parallels not certified: Rotter 1966 locus-of-control bullet, Matthew 7.3-5 and Analects 15.24 parallels unopened this session; wikilinks preserved",
   "K034": "inherited parallels not certified: Wood et al. 2010 gratitude bullet, Shantideva ch.6 and Rumi parallels unopened this session; wikilinks preserved",
   "K049": "inherited parallels not certified: Bjork desirable-difficulties bullet, YS 2.28-2.29 and MN 107 parallels unopened this session; wikilinks preserved",
-  "K059": "inherited parallels not certified: Wegner 1994 and Killingsworth/Gilbert 2010 bullets, Ramana Maharshi and BG 6.34-6.35 parallels unopened this session; wikilinks preserved"
+  "K059": "inherited parallels not certified: Wegner 1994 and Killingsworth/Gilbert 2010 bullets, Ramana Maharshi and BG 6.34-6.35 parallels unopened this session; wikilinks preserved",
+  "K021": "inherited parallels not certified: Clark 2013 rubber-hand bullet, Heidegger Zuhandenheit and Taittiriya parallels unopened this session; wikilinks preserved",
+  "K030": "inherited parallels not certified: Lyubomirsky 2007 person-activity-fit bullet, Pascal and Luke 4.23 parallels unopened this session; wikilinks preserved",
+  "K042": "inherited parallels not certified: Noll/Fredrickson objectification bullets, Juvenal Satire X parallel unopened this session; wikilinks preserved",
+  "K052": "inherited parallels not certified: Tajfel minimal-group bullet, brahmaviharas and BG 13.7-11 parallels unopened this session; wikilinks preserved",
+  "K053": "inherited parallels not certified: Algoe find-remind-and-bind bullet, Spinoza and 1 Cor 4.7 parallels unopened this session; wikilinks preserved"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T13:57:11+00:00",
+ "updated": "2026-10-20T14:02:05+00:00",
  "band_done": false
 }

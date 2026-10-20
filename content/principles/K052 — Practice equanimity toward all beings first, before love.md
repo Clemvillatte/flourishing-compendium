@@ -19,13 +19,13 @@ Tsongkhapa places impartiality at the start of the bodhicitta sequence:
 The training runs from the easy case outward: "Since you can easily be impartial to a person toward whom you have neutral feelings, first take as the object of your meditation such a person", then a friend, then an enemy, then all living beings. Kamalashila's contemplation, quoted by Tsongkhapa, does the check from two directions: "From living beings' viewpoint, all equally want happiness and do not want suffering", and from one's own: "if I have continuously been reborn since beginningless time, all beings have been my friends hundreds of times. To whom should I be attached? To whom should I be hostile?" ([Great Treatise vol. 2 PDF](https://www.theosophy-ult.org.uk/wp-content/uploads/2021/03/Vol-2-Lamrim-on-Path-to-Enlightenment-Tsong-kha-pa.pdf))
 
 **Plain words**
-The meditation starts with someone you feel nothing about, levels the mind there, then repeats it with a friend and with an enemy. The reason for doing this before cultivating love: affection that began as preference stays preference-shaped. The tradition's ground for the leveling is rebirth's long run, where everyone has been everything to you, so the friend-enemy sorting is not a fact about them.
+At the bus stop, the practice begins with someone you feel nothing about. Equanimity here is the mind made even before love is cultivated, because on the passage's reasoning love that rests on bias stays biased. The rebirth claim is the text's own framework for valuing each person, not a demand to feel nothing.
 
 For example: Waiting at a bus stop, you wish the stranger beside you, the one who irritates you, the same ease you'd wish a friend.
 
 ## Sources
 
-- [Tsongkhapa, The Great Treatise on the Stages of the Path to Enlightenment, vol. 2](https://www.theosophy-ult.org.uk/wp-content/uploads/2021/03/Vol-2-Lamrim-on-Path-to-Enlightenment-Tsong-kha-pa.pdf) — "Achieving impartiality toward living beings" (Seven Cause-and-Effect Personal Instructions): the even-minded-attitude passage, the neutral-person-first steps, and Kamalashila's two contemplations; verified against a text extraction of the downloaded PDF
+- [Tsongkhapa, The Great Treatise on the Stages of the Path to Enlightenment, vol. 2](https://www.theosophy-ult.org.uk/wp-content/uploads/2021/03/Vol-2-Lamrim-on-Path-to-Enlightenment-Tsong-kha-pa.pdf) — "Achieving impartiality toward living beings" (Seven Cause-and-Effect Personal Instructions): the even-minded-attitude passage, the neutral-person-first steps, and Kamalashila's two contemplations
 
 ## Psychology parallels
 

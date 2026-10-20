@@ -16,16 +16,16 @@ Nishida introduced the notion late, as the Stanford Encyclopedia's account recor
 
 > "Gradually Nishida came to recognize the importance of embodiment for human interaction and communication, and introduced the notion of the expressive or historical body. The body is not primarily a physical object and product of the natural world, but a historical subject and co-creator of the world." (John Maraldo, [Stanford Encyclopedia of Philosophy: Nishida Kitaro, Theory of the Historical World](https://plato.stanford.edu/entries/nishida-kitaro/))
 
-The same account locates the working edge at the instruments: scientific experimentation "provides an example of enactive intuition insofar as experiments require the performance of a body acting and understanding through instruments (NKZ VIII, 326)", and it stresses that for Nishida "enactive intuition is a bodily achievement, the performance of an embodied individual who in turn is formed by the world", with "both body and world... conceived as historical". The body in this late picture sits on the doing side of the self: formed by the world, and forming it through whatever it works with. ([SEP: Nishida Kitaro](https://plato.stanford.edu/entries/nishida-kitaro/))
+The same account gives the instruments passage: scientific experimentation "provides an example of enactive intuition insofar as experiments require the performance of a body acting and understanding through instruments (NKZ VIII, 326)", and it stresses that for Nishida "enactive intuition is a bodily achievement, the performance of an embodied individual who in turn is formed by the world", with "both body and world... conceived as historical". ([SEP: Nishida Kitaro](https://plato.stanford.edu/entries/nishida-kitaro/))
 
 **Plain words**
-Nishida's late picture puts the body on the doing side of the self. When a scientist runs an experiment, the knowing happens through instruments in hand; the self doing the work reaches as far as the apparatus. Treat the instruments, spaces and routines your work runs through as part of the worker.
+As a compendium exercise, consider using a familiar instrument. What did its design require you to learn, and what could you accomplish through using it?
 
-For example: A pianist who loses her instrument after a house fire grieves it like a lost limb.
+For example (imagined): A cellist notices that knowing where a passage is difficult for her hand tells her something about the instrument's design and her own trained hand together.
 
 ## Sources
 
-- [John Maraldo, Stanford Encyclopedia of Philosophy: Nishida Kitaro](https://plato.stanford.edu/entries/nishida-kitaro/) — Theory of the Historical World section (historical-body passage) and Enactive Intuition section (instruments passage, NKZ VIII, 326; bodily-achievement passage), quoted verbatim from the opened page
+- [John Maraldo, Stanford Encyclopedia of Philosophy: Nishida Kitaro](https://plato.stanford.edu/entries/nishida-kitaro/) — Theory of the Historical World section (historical-body passage) and Enactive Intuition section (instruments passage, NKZ VIII, 326; bodily-achievement passage)
 
 ## Psychology parallels
 
