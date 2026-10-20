@@ -16,7 +16,7 @@ Mudita is the third of the brahmaviharas. The tradition's definition is direct: 
 
 > "Mudita means appreciative joy at the success and good fortune of others." (Eileen Siriwardhana, [Mudita](https://accesstoinsight.org/lib/authors/siriwardhana/bl093.html))
 
-Śāntideva places rejoicing at the start of the bodhisattva path: "Joyfully I celebrate all the acts of virtue / That ease the pains of the lower realms, / And rejoice as well when those who suffer / Find themselves in states of happiness" (Bodhicaryāvatāra 3.1-3.2, trans. Adam Pearcey, [text](https://www.lotsawahouse.org/indian-masters/shantideva/bodhicharyavatara-3)). The verses make rejoicing an explicit act of celebration, not a feeling that arrives on its own.
+Śāntideva places rejoicing at the start of the bodhisattva path: "Joyfully I celebrate all the acts of virtue / That ease the pains of the lower realms, / And rejoice as well when those who suffer / Find themselves in states of happiness" (Bodhicaryāvatāra 3.1, trans. Adam Pearcey, [text](https://www.lotsawahouse.org/indian-masters/shantideva/bodhicharyavatara-3)). The verse makes rejoicing an explicit act of celebration.
 
 Neither source presents mudita as a technique for suppressing envy. The exercise the compendium takes from them is gradual: begin with people you already find it easy to be happy for, then extend the same response to the cases where envy gets there first.
 
@@ -30,7 +30,7 @@ Imagine a colleague you compete with gets the promotion you wanted. The exercise
 
 ## Psychology parallels
 
-- **[[Capitalization|Capitalization]]**: Gable, Reis, Impett and Asher report that communicating personal positive events with others was associated with increased daily positive affect and well-being, above and beyond the impact of the event itself ([2004, J Pers Soc Psychol 87(2)](https://www.semanticscholar.org/paper/b76053f8efa9e4ad35b81d1ba040a4088a506aca))
+- **[[Capitalization|Capitalization]]**: Gable, Reis, Impett and Asher report that when others were perceived to respond actively and constructively to shared positive events the benefits were further enhanced, and that close relationships in which partners typically respond to capitalization attempts enthusiastically were associated with higher relationship well-being ([2004, J Pers Soc Psychol 87(2)](https://pubmed.ncbi.nlm.nih.gov/15301629/))
 - **[[Envy|Envy research]]** (Smith and Kim, 2007)
 
 ## Philosophy parallels

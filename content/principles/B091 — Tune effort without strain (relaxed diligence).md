@@ -16,15 +16,15 @@ The Sona Sutta gives the principle its simile. Sona had been a lute player; the 
 
 > "In the same way, Sona, over-aroused persistence leads to restlessness, overly slack persistence leads to laziness. Thus you should determine the right pitch for your persistence, attune the pitch of the [five] faculties [to that], and there pick up your theme." (AN 6.55, trans. Thanissaro Bhikkhu, [text](https://accesstoinsight.org/tipitaka/an/an06/an06.055.than.html))
 
-Read together, the two passages treat effort as something to be tuned rather than maximized. The sutta's diagnosis is specific: strain is a sign that the pitch is wrong, and the correction it names is attunement, not more force. The compendium's exercise follows the simile: when you notice effort turning into clenched force, the question is which string is overtightened, and the answer may be to adjust the aim or the pace rather than to push.
+Read together, the two passages treat effort as something to be tuned rather than maximized. The sutta names two failure modes, restlessness and laziness, and the correction it names is attunement. The compendium proposes applying the simile: when effort turns into clenched force, the question is which demand is overtightened, and one possible answer is to adjust the aim or the pace.
 
 ### Plain words
 
-Notice how you are holding the work, not just how much of it you are doing. Strain is information: something is tuned too tight, usually the demand you have placed on yourself, as in all of this, tonight, perfectly. The exercise is to restate the demand at a pitch you can actually hold: pick the piece that matters most, set a pace you can keep, and start there. The sutta does not tell you to try less hard; it tells you to find the pitch where effort stays playable.
+Notice how you are holding the work, not just how much of it you are doing. The sutta lists two failure modes, restlessness and laziness, and recommends finding the right pitch for persistence. As a proposed use of the simile, when effort starts turning into clenched force, check the demand first: restate it at a pitch you can hold, pick the piece that matters most, and start there. The sutta does not tell you to try less hard; it tells you to find the pitch where effort stays playable.
 
 ### For example
 
-Imagine a player who grips the bow harder as a passage gets difficult, and the tone gets worse. Loosening the grip is not doing less; the passage still gets played. That is the tuning move: same piece, same tempo, adjusted grip.
+Imagine a player who grips the bow harder as a passage gets difficult, and the tone gets worse. The simile's suggestion is to try loosening the grip and see what the tone does; it does not promise the passage will then go well.
 
 ## Psychology parallels
 
