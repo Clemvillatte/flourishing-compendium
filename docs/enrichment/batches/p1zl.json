@@ -14,11 +14,13 @@
   "E048",
   "E096",
   "K038",
-  "K043"
+  "K043",
+  "E028",
+  "E029"
  ],
- "in_progress": null,
+ "in_progress": "E023",
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T09:59:31+00:00"
+ "updated": "2026-10-20T10:00:37+00:00"
 }
