@@ -36,7 +36,8 @@
   "Reinforcement schedules (Ferster & Skinner)",
   "Relational Developmental Systems Theory",
   "Risk perception",
-  "Schadenfreude's relational costs"
+  "Schadenfreude's relational costs",
+  "Self-Completion Theory"
  ],
  "in_progress": null,
  "flagged": {
@@ -70,6 +71,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:52:20+00:00",
+ "updated": "2026-10-20T11:53:38+00:00",
  "band_done": false
 }
