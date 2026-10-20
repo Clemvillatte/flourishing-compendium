@@ -12,23 +12,27 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 52** — Know when to depart from rules
 
-Rules are necessary but not sufficient. The practically wise person knows when a rule should be followed strictly and when it should be adapted. The test is whether following the rule serves the purpose for which it was made.
+Aristotle's term for this is the equitable, and his account is structural: law speaks universally, but cases arrive that the universal statement misses. In those cases, Aristotle says, the equitable acts as a correction of the law where it is defective owing to its universality.
 
-(NE V.10, VI.8; EE II.3.)
+> "And this is the nature of the equitable, a correction of law where it is defective owing to its universality." ([NicEth V.10, Ross](https://people.bu.edu/wwildman/courses/wphil/readings/wphil_rdg09_nichomacheanethics_entire.htm))
 
-**Plain words** Rules are useful but not enough. The wise person knows when to follow one strictly and when to adapt it. The test is whether following it still serves the purpose it was made for.
+**Plain words** A rule is a universal statement about what to do, and some cases fall outside what the universal statement foresaw. The equitable person is the one who, in such a case, does what the rule's own purpose would have asked of it, rather than what the rule's words literally require.
 
-*For example:* A "no phones at dinner" rule is great, until your daughter is waiting for news from a hospital. You make an exception, and everyone understands why.
+*For example:* (Imagined application.) A "no phones at dinner" rule, kept on a night when a family member is waiting for news from a hospital.
 
 ## Psychology parallels
 
-- **[[Moral dilemma research|Moral dilemma research]]** (Kohlberg, 1981; Haidt, 2001)
-- **[[Dual-process theory|Dual-process models of moral judgment]]** (Greene et al., 2001)
+- [[Moral dilemma research|Moral dilemma research]] (Kohlberg, 1981; Haidt, 2001)
+- [[Dual-process theory|Dual-process models of moral judgment]] (Greene et al., 2001)
 
 ## Philosophy parallels
 
-- **[[Phronesis|Phronesis over rules]]** (Aristotle, NE VI)
-- **[[Equity theory|Equity (epieikeia)]]** (Aristotle, NE V.10)
+- [[Phronesis|Phronesis over rules]] (Aristotle, NE VI)
+- [[Equity theory|Equity (epieikeia)]] (Aristotle, NE V.10)
+
+## Sources
+
+- [NicEth V.10, Ross translation (people.bu.edu mirror)](https://people.bu.edu/wwildman/courses/wphil/readings/wphil_rdg09_nichomacheanethics_entire.htm)
 
 <!-- fc: reflections
 Which rule do you follow without recalling its purpose? What would change if you checked?
