@@ -49,9 +49,9 @@
   }
  ],
  "sources_checked": 79,
- "updated": "2026-10-20T02:34:07+00:00",
+ "updated": "2026-10-20T02:34:09+00:00",
  "notes": {
   "cross_band_incident_2026_10_20": "8 items done outside p1m manifest by the dead worker (B079->p1p, B081/B140->p1h, B102/B143->p1i, B095/B115/B117 unassigned); markers moved to owning bands/queue; B146 in_progress cleared (p1c's, already done there). Content validator-clean; owning-band workers re-verify quotes at next milestone."
  },
- "band_done": false
+ "band_done": true
 }
