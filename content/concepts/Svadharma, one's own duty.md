@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Svadharma, one's own duty” — BG 3.35.
 
-In the Wisdom Library translation of Bhagavad Gita 3.35, svadharma is rendered as one's prescribed duties ([Bhagavad Gita 3.35, Wisdom Library](https://www.wisdomlib.org/hinduism/book/shrimad-bhagavad-gita/d/doc419847.html)). The verse favours performing those duties imperfectly over performing another's perfectly:
+In the Wisdom Library translation of Bhagavad Gita 3.35, svadharma is rendered as one's prescribed duties ([Bhagavad Gita 3.35, Wisdom Library](https://www.wisdomlib.org/hinduism/book/shrimad-bhagavad-gita/d/doc419847.html)). The verse favours performing those duties imperfectly over performing another's perfectly ([Bhagavad Gita 3.35, Wisdom Library](https://www.wisdomlib.org/hinduism/book/shrimad-bhagavad-gita/d/doc419847.html)):
 
 > "It is far better to execute one's prescribed duties, even though imperfectly, than to perform another's duty perfectly. It is better to die discharging one's own duty in accordance with the varṇāśrama system than to engage in another's duty, for it is dangerous to follow another's path." (Bhagavad Gita 3.35, [Wisdom Library](https://www.wisdomlib.org/hinduism/book/shrimad-bhagavad-gita/d/doc419847.html))
 
