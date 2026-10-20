@@ -30,3 +30,20 @@ opened text at the recorded URL.
   contrast in Plain words; commentary-attribution risk). Repaired with the
   advisor's exact replacement; round 1 repair applied as round-2 text. Validator
   ok; protected material byte-identical (git diff checked).
+
+## D177 — Let heaven win your battles (2026-10-20)
+
+- OPENED: Tao Teh King, James Legge translation, Project Gutenberg
+  https://www.gutenberg.org/cache/epub/216/pg216.txt (chapter text; page cites
+  the same Legge edition at https://www.gutenberg.org/files/216/216-h/216-h.htm)
+- Verified verbatim (DDJ 73, Legge): "It is the way of Heaven not to strive,
+  and yet it skilfully overcomes; not to speak, and yet it is skilful in
+  obtaining a reply; does not call, and yet men come to it of themselves. Its
+  demonstrations are quiet, and yet its plans are skilful and effective."
+  Also opened in full: the Heaven's-net closing image ("The meshes of the net
+  of Heaven are large; far apart, but letting nothing escape") and ch. 73 §1.
+- LIMITS: the everyday-battles application is labelled as the compendium's
+  reading; the chapter addresses the way of Heaven. Inherited psychology
+  parallel (Duckworth et al. 2016 situational strategies) and philosophy
+  parallel (Cicero's archer, De Finibus III) preserved untouched and NOT
+  verified this session. Saturation scan pending milestone.
