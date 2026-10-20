@@ -216,6 +216,29 @@ opened text at the recorded URL.
   overreach, estrangement example). Repaired with the advisor's exact text;
   raw-text context check done per the advisor's instruction.
 
+## Linked-concept read check (2026-10-20, advisor-required closure step)
+
+- Extracted all wikilink targets from the 10 worked pages and READ each
+  unique concept page: I and Thou; Commitment-consistency dynamics; The
+  doctrine of the mean; The commitment of the knight of faith; Walking off
+  one's thoughts; Awe; Effortless action through long effort (all under
+  content/concepts/). All 7 links sit in the untouched protected parallels
+  sections of the principle pages, not in new body text.
+- Reciprocal citations verified on the concept side: I and Thou lists D111
+  (Cited in parallels); Commitment-consistency dynamics lists D189
+  (psychology parallels); The doctrine of the mean lists B032 (philosophy
+  parallels); knight of faith lists B155 (philosophy parallels); Walking off
+  one's thoughts lists B187 (philosophy parallels); Awe lists P185 (Cited in
+  parallels); Effortless action through long effort lists P186 (link list).
+  The earlier ledger line "D111's linked [[I and Thou]] concept resolves OK"
+  is superseded: the page has now been read, not merely resolved.
+- Context aptness: each pairing holds on the read (I-Thou excludes
+  instrumental framing, matching D111's transparency; the mean page explicitly
+  frames B032 among its balance principles; the vow/knight-of-faith and
+  walking-meditation/Kierkegaard pairings match their pages' own framing).
+  Decision: keep all 7 links unchanged; no edits to concept pages warranted
+  (reciprocals already present), and none made (outside band scope).
+
 ## Milestone QC log (item 10, 2026-10-20) — repairs applied; acceptance pending
 
 - Round 1 FAIL for P186 plus blockers on P185 (outcome promise), B155
