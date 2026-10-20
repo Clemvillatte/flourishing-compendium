@@ -66,3 +66,11 @@ Opened: Aristotle, Nicomachean Ethics Book X (W. D. Ross trans.), MIT Classics h
 - Rewrite: body re-centred on the completing-activity test; Plain words re-derived (what-is-this-the-pleasure-of question); For example kept (matches). Front-matter, reflections, both wikilinks preserved. Validator ok, 137 prose words, 0 dashes.
 - SATURATE: mention hunt run; A082 sits in the pleasure-family (A081/A088/A093) with layer links; no Pleasure concept page exists; no underlinked targets found; no new reciprocals proposed.
 - Advisor QC: not due (item 4; next milestone at item 5).
+
+## A083 — Recognise that bodily pleasures are not the highest
+
+Opened: Aristotle, Nicomachean Ethics Book X (W. D. Ross trans.), MIT Classics https://classics.mit.edu/Aristotle/nicomachaen.10.x.html — raw HTML downloaded this session; X.3 and X.5 quotes taken from the raw text (stronger than extraction; the MIT X.3 text reads "one cannot the pleasure of the just man" (missing verb), so that fragment was NOT quoted).
+- Verbatim fragments (X.3): "seems to be based on the pains and pleasures connected with nutrition"; "the pleasures of learning and, among the sensuous pleasures, those of smell, and also many sounds and sights, and memories and hopes, do not presuppose pain"; "no one would choose to live with the intellect of a child throughout his life, however much he were to be pleased at the things that children are pleased at"; "with a view to the good" / "with a view to our pleasure" (friend vs flatterer); "there are many things we should be keen about even if they brought no pleasure, e.g. seeing, remembering, knowing, possessing the virtues". (X.5): "so, therefore, do the pleasures that complete them".
+- Rewrite: body rebuilt on the X.3 replenishment argument + child-intellect trade + friend-vs-flatterer; Plain words re-derived (subtract-the-pleasure test); For example (holiday) kept. Dropped the unopened VII.14 locator from the old citation line. Front-matter, reflections, all 3 wikilinks preserved. Validator ok, 190 prose words, 0 dashes.
+- SATURATE: mention hunt run; pleasure-family principles cross-link via layers; one reciprocal proposed (A012 <- A083, grounded, rev 3).
+- Advisor QC: DUE at this item (item 5 milestone) — see next ledger entry for the outcome.
