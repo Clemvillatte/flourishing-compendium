@@ -60,3 +60,19 @@ Claim and state transitions are pushed separately for interruption safety.
   Inherited Carlsmith et al., justice sensitivity, Romans and Kant
   parallels remain unverified. Protected reflections still imply eventual
   exposure; not edited or certified.
+- Saturation: Justice sensitivity already cites D130. No new edge added
+  on the strength of the inherited, unverified revenge parallel.
+
+## D139: Keep no ledger of wrongs (2026-10-20)
+
+- Opened https://www.gutenberg.org/files/216/216-h/216-h.htm ,
+  Daodejing 79.1-2, James Legge. Continuous quotation is exactly 79.2's
+  first sentence, including both parenthetical phrases.
+- Important correction: the sage keeps the record. The seed's title is
+  preserved, but the body explicitly avoids equating the passage with
+  erasing an agreement or guaranteeing a continued relationship.
+- Plain words and the explicitly imagined sibling-loan example concern
+  not reusing a settled matter in a new argument. Safety/dependence limits
+  are editorial boundaries, not empirical findings.
+- Removed unverified risk-factor language. Worthington, Nietzsche and
+  Arendt parallels remain unverified; protected links/comments unchanged.

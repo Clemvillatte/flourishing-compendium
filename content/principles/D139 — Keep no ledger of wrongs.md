@@ -12,18 +12,26 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 139** — Keep no ledger of wrongs
 
-When reconciliation won't stick, the sage keeps the tally but doesn't collect. Forgive the debt and you keep the relationship.
+Chapter 79 of the Daodejing begins with a difficulty: settling a major dispute may still leave resentment. Its answer uses the image of a creditor who holds a covenant but does not press demands against the debtor ([Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm)).
 
-(DDJ 79.)
+> Therefore (to guard against this), the sage keeps the left-hand portion of the record of the agreement, but does not insist on the (speedy) fulfilment of it by the other party.
 
-**Plain words** Forgive the debt and you keep the relationship. Collecting makes you a creditor, and nobody loves their creditor — the ledger is the wall.
+(Daodejing 79, [Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm).)
 
-*For example:* The sibling who forgives the old money dispute still has the family at Christmas; the one who collects has the paperwork.
+Despite this principle's title, the sage in the passage keeps the record. The compendium reads the image as an invitation to consider which claims you can leave unpressed. It offers no assurance that doing so will preserve a relationship, and need not mean abandoning protection or a debt you depend on.
+
+**Plain words** Remembering a wrong does not oblige you to bring it into every later conversation. Ask whether there is still something that needs settling, or whether you are using the old event to win a new argument.
+
+*For example:* Imagine a sibling who missed an agreed repayment but later paid it. During an unrelated disagreement, you choose not to bring up the loan again. You can still keep a record of what was agreed.
+
+## Sources
+
+- [Daodejing, chapter 79, translated by James Legge, Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm): remaining resentment and the covenant held without pressing collection.
 
 ## Psychology parallels
 
 - **[[Forgiveness|Forgiveness research]]** (Worthington, 2001)
-- **Corumination and grievance-rumination as risk factors**
+- **Corumination and grievance-rumination**
 
 ## Philosophy parallels
 
