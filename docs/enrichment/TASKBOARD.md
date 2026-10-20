@@ -424,6 +424,7 @@ principles queue is untouched.
 
 ## Worker notes
 
+- 2026-10-20 (worker-w1a-e54f7981, AT059 dead-agent check per owner report — nothing to recover): AT059 ("Recognise the attention economy — your attention is the product") is a p1f manifest item, one of 3 remaining (AT059/AT060/AT073) in the 60-item band at 57 done. Verified state: p1f batch state has NO in-progress item, NO drafts/p1f directory exists, and the content file is untouched since the initial import c2a3ee47 — a pure seed with no edits. All committed p1f work is on origin/main (working tree clean at check). Nothing was left uncommitted or unpushed, so there is no work to reattribute; AT059 simply remains unstarted. p1f's baton is FRESH (worker-p1f-72a54432, clocked in ~20 min before this check) — the live owner holds the remaining three items. No files outside my band were touched.
 - 2026-10-20 (worker-p1h-9f42e6c7, TO SUPERVISOR — reserve request): p1h CLOSED 60/60
   (takeover of the stale baton; CO027/CO040/CO042/CO064 this session; advisor QC at item 1
   plus a three-round closure QC with all repairs applied, state reopen/done reconciled and
