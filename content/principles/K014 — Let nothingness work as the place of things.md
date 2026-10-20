@@ -26,7 +26,7 @@ The sky image and the practical advice below belong to the compendium, not to th
 
 ## Sources
 
-- [Stanford Encyclopedia of Philosophy, "Kyoto School" (Heisig, Kasulis, Maraldo, et al.), sections 3.2-3.4](https://plato.stanford.edu/entries/kyoto-school/) — field of emptiness and Nishitani's passage
+- [Stanford Encyclopedia of Philosophy, "Kyoto School", sections 3.2-3.4](https://plato.stanford.edu/entries/kyoto-school/) — field of emptiness and Nishitani's passage
 
 ## Psychology parallels
 
