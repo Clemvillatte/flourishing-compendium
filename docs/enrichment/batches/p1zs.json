@@ -22,9 +22,10 @@
   "CO030",
   "CO034",
   "CO038",
-  "CO062"
+  "CO062",
+  "CO068"
  ],
- "in_progress": "CO068",
+ "in_progress": null,
  "flagged": {
   "BI020": "Reopened for QC: round-4 citation closure",
   "BI037": "Reopened for QC: round-5 mechanical fixes",
@@ -42,10 +43,11 @@
   "CO030": "Method/quote checked and experimental efficacy scope narrowed; inherited Stoic parallels unverified. Pre-mortem concept stub still overstates efficacy; supervisor correction warranted. See sources/p1zs/CO030.md.",
   "CO034": "New psychology body/quote reviewed; replication low-benefit exception and no mediation proof explicit. Hume quote now opened/checked II.III.III; inherited Stoic attribution remains unverified. See sources/p1zs/CO034.md.",
   "CO038": "Body/quote verified with replication, median/mean conflation corrected; inherited cross-cultural and philosophy parallels not certified. See sources/p1zs/CO038.md.",
-  "CO062": "New body/clinical boundaries and training limitations checked; inherited Socratic/Dewey parallels not certified. See sources/p1zs/CO062.md."
+  "CO062": "New body/clinical boundaries and training limitations checked; inherited Socratic/Dewey parallels not certified. See sources/p1zs/CO062.md.",
+  "CO068": "New body/quote and psychology parallels checked, association not intervention causality; inherited Plato/Peirce/Aquinas attributions not certified. See sources/p1zs/CO068.md."
  },
  "missing_concepts": [],
- "sources_checked": 13,
- "updated": "2026-10-20T13:21:31+00:00",
+ "sources_checked": 15,
+ "updated": "2026-10-20T13:22:50+00:00",
  "band_done": false
 }

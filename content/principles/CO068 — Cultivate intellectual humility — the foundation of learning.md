@@ -12,15 +12,25 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 ---
 > **Principle 68** — Cultivate intellectual humility: the foundation of learning
 
-Intellectual humility is the awareness that your beliefs may be wrong, your knowledge is limited, and others may know more. It is distinct from low confidence (you can be humble and confident). It is a strong predictor of learning and good judgment.
+In Leary and colleagues' account, intellectual humility includes recognising that a belief may be mistaken and attending to limitations in its evidence ([“Cognitive and Interpersonal Features of Intellectual Humility,” opening definition](https://dukespace.lib.duke.edu/bitstreams/c55d87f1-2f28-408d-9f2c-efbc4da85990/download)). Their studies associated self-reported humility with openness and sensitivity to argument quality, rather than establishing a general guarantee of sound judgment ([abstract and General Discussion](https://dukespace.lib.duke.edu/bitstreams/c55d87f1-2f28-408d-9f2c-efbc4da85990/download)).
 
-**Plain words** Intellectual humility: the awareness that your beliefs may be wrong, your knowledge limited, others possibly more informed. Distinct from low confidence — you can be humble and confident. The foundation of learning; the opposite is the ceiling on it.
+> recognizing that a particular personal belief may be fallible
 
-*For example:* The senior engineer who says "I might be wrong — show me the load test" — and stays senior for twenty more years — versus the one who can't afford the question. The humility isn't self-doubt; it's the upgrade path staying open.
+(Leary and colleagues, 2017, opening definition, sentence excerpt; [opened text](https://dukespace.lib.duke.edu/bitstreams/c55d87f1-2f28-408d-9f2c-efbc4da85990/download).)
+
+### Plain words
+
+Take a position you care about and name what you would need to learn before defending it more confidently. Give a critic something specific to question, rather than merely announcing that you are open-minded.
+
+A later review distinguishes appropriate confidence from both arrogance and undue diffidence, and warns that much of the benefits research is correlational ([Porter and colleagues, “Defining intellectual humility” and “Individual benefits”](https://pmc.ncbi.nlm.nih.gov/articles/PMC9244574/)). Changing your mind is not the sole test offered here.
+
+### For example
+
+Suppose a reader challenges a historical claim in your essay. You could ask which evidence conflicts with it, inspect that evidence and then decide whether to revise or defend the passage.
 ## Psychology parallels
 
-- **Intellectual humility predicts better learning and reasoning**, humble people update beliefs more accurately (Leary et al., 2017; Deffler et al., 2016)
-- **Intellectual humility is associated with better relationships and less polarisation**, humble people are more open to opposing views (Hopkin et al., 2014; Porter & Schumann, 2000)
+- **Intellectual humility and evidence**: the 2017 studies associate self-reported humility with openness and attention to argument quality; they do not establish universal improvements in learning ([Leary et al., abstract and General Discussion](https://dukespace.lib.duke.edu/bitstreams/c55d87f1-2f28-408d-9f2c-efbc4da85990/download)).
+- **Research boundaries**: correlational findings, self-report limitations and context-sensitive effects constrain claims about benefits ([Porter et al., “Individual benefits” and “Measuring intellectual humility”](https://pmc.ncbi.nlm.nih.gov/articles/PMC9244574/)).
 
 ## Philosophy parallels
 
