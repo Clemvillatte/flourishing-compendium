@@ -33,9 +33,11 @@ Imagine someone who routinely turns on the television when settling down to work
 
 ## Philosophy parallels
 
-- **[[Designing for virtue|Designing for virtue]]** (Aristotle, Politics)
-- **[[Simplicity|Simplicity and frugality]]** (Daoism, Daodejing 19)
-- **The environment as teacher** (Dewey, Experience and Education)
+- **[[Designing for virtue|Designing for virtue]]** (Aristotle, Politics) — "there ought to be laws concerning education, and that it should be public" (Book VIII)
+- **[[Simplicity|Simplicity and frugality]]** (Daoism, Daodejing 19) — "simple views, and courses plain and true / Would selfish ends and many lusts eschew" (Legge translation)
+- **The environment as teacher** (Dewey, Experience and Education) — "An experience is always what it is because of a transaction taking place between an individual and what, at the time, constitutes his environment" (Ch. 3)
+
+Cross-tradition parallels above are the compendium's analogies between habit-cue research and older accounts of place, practice, and formation; they are not claims of equivalent mechanisms.
 
 ## Practice
 

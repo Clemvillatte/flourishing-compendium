@@ -16,10 +16,10 @@ The experimental evidence is older than the smartphone. In Johnston and Davey's 
 
 > "Participants who watched the negatively valenced bulletin showed increases in both anxious and sad mood, and also showed a significant increase in the tendency to catastrophize a personal worry." (Johnston & Davey, 1997 — [abstract](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=9061893&rettype=abstract&retmode=text) — Br J Psychol 88(1), pp. 85-91)
 
-The newer work complicates the simple story in a useful way. In Price and colleagues' 30-day daily-diary study during the COVID-19 pandemic, social media exposure to pandemic news was associated with increased depression and PTSD symptoms, more strongly for participants with more severe childhood maltreatment histories — and these relations were not observed for traditional media sources. The compendium's reading is that the risk sits not with news as such, but with compulsive consumption, particularly for people carrying existing vulnerabilities. The familiar claim that the 24-hour cycle is built to capture and hold attention is a characterization of the medium rather than a finding from either study.
+The newer work complicates the picture. In Price and colleagues' 30-day daily-diary study during the COVID-19 pandemic, social media exposure to pandemic news was associated with increased depression and PTSD symptoms, and this association was stronger for participants with more severe childhood maltreatment histories. In that study, these relations were not observed for traditional media sources.
 
 **Plain words**
-Negative news changes mood: a 14-minute bulletin was enough to measurably raise anxiety and sadness, and to make personal worries loom larger. The steady drip of feeds and alerts turns that lab effect into a background condition. Staying informed is a bounded act: pick times, pick sources, stop.
+Negative news changed mood in the lab: a 14-minute bulletin raised anxiety and sadness and made personal worries loom larger. In the daily-diary study, the associations appeared for social media exposure and were stronger for people with more childhood maltreatment. Staying informed is still a bounded act: pick times, pick sources, stop.
 
 **For example**
 As an everyday illustration: checking headlines twice a day at set times, rather than refreshing hourly. The hourly refresher is mostly re-reading the same developments in new clothes.

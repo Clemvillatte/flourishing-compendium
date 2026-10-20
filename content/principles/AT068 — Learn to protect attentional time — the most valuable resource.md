@@ -12,11 +12,11 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AT — Attentio
 ---
 > **Principle 68** — Learn to protect attentional time: the most valuable resource
 
-The scarcest-resource claim has an empirical footing. In Killingsworth and Gilbert's experience-sampling study, 2,250 adults were contacted at random moments through a smartphone app and asked how they were feeling, what they were doing, and whether they were thinking about something other than what they were doing. Mind wandering occurred in 46.9% of the samples, and in at least 30% of the samples taken during every activity except one. People were less happy when their minds were wandering than when they were not, and what people were thinking was a better predictor of their happiness than what they were doing.
+The priority this principle gives attention has a study behind it. In Killingsworth and Gilbert's experience-sampling study, 2,250 adults were contacted at random moments through a smartphone app and asked how they were feeling, what they were doing, and whether they were thinking about something other than what they were doing. Mind wandering occurred in 46.9% of the samples, and in at least 30% of the samples taken during every activity except one. People were less happy when their minds were wandering than when they were not, and what people were thinking was a better predictor of their happiness than what they were doing.
 
 > "A human mind is a wandering mind, and a wandering mind is an unhappy mind. The ability to think about what is not happening is a cognitive achievement that comes at an emotional cost." (Killingsworth & Gilbert, 2010 — [full text](https://greatergood.berkeley.edu/images/uploads/A_Wandering_Mind_Is_an_Unhappy_Mind.pdf) — Science 330, p. 932)
 
-That is the grounding for this principle's framing: hours on the calendar are not the unit; attentive presence is. If minds are elsewhere for nearly half of waking life, then an hour with the mind present is a different hour from an hour with the mind elsewhere, whatever the clock says.
+The findings motivate this principle's framing, which is the compendium's own: hours on the calendar are not the unit; attentive presence is. The study found minds elsewhere in 46.9% of its samples, and an hour with the mind present is a different hour from an hour with the mind elsewhere, whatever the clock says.
 
 **Plain words**
 An empty Saturday can still be a spent Saturday: the mind was parcelled out to errands, pings, and worry. The study's number makes the point starkly — minds were elsewhere in almost half the samples. Attention, not clock time, is the thing to budget.

@@ -16,17 +16,17 @@ The principle comes from the experimental analysis of behavior. Ferster and Skin
 
 > "Far from being a mere falling-short of the ideal of inevitable reinforcement, intermittent reinforcement constitutes an important condition of action. Many significant features of behavior can be explained only by reference to the properties of schedules." (Ferster & Skinner, 1957 — [full text](https://www.bfskinner.org/wp-content/uploads/2015/05/Schedules_of_Reinforcement_PDF.pdf) — Schedules of Reinforcement, pp. 2-3)
 
-The preface states the general principle directly: reinforcement schedules "direct the persistence and patterning of all behavior." In a variable-ratio schedule, reinforcement occurs after a number of responses that varies unpredictably from reinforcement to reinforcement, and responding under it runs at high, steady rates through long stretches between payoffs. The slot machine is this design in hardware, which is the compendium's application of the finding: the machine that pays at random keeps the lever pulled.
+The variable-ratio schedule is the one this principle turns on. In the book's definition, "the reinforcement occurs after a given number of responses, the number varying unpredictably from reinforcement to reinforcement," and "[l]ike FR it arranges for differential reinforcement of high rates" (Ch. 7); in the book's data, rates continue at about the same high level as the ratio increases. The slot machine is this design in hardware — the compendium's everyday example of a variable-ratio schedule.
 
 **Plain words**
-Habits live on reinforcement schedules, and intermittent rewards — random, occasional payouts — are the sticky kind. That's why slots, feeds, and toxic relationships are so hard to leave: the next pull might pay. Consistency in your own habits works the same physics, on purpose.
+Habits live on reinforcement schedules, and intermittent rewards — random, occasional payouts — are the sticky kind. That's why slots are so hard to leave: the next pull might pay. Consistency in your own habits works the same physics, on purpose.
 
 **For example**
-As an everyday illustration: the occasional windfall is what keeps someone at the machine — the unpredictability is the hook. Design your rewards predictable, and the habit boring.
+As an everyday illustration: the occasional windfall is what keeps someone at the machine: the unpredictability is the hook. Design your rewards predictable, and the habit boring.
 
 ## Sources
 
-- [Ferster & Skinner 1957, Schedules of Reinforcement, Appleton-Century-Crofts, full text PDF (B.F. Skinner Foundation)](https://www.bfskinner.org/wp-content/uploads/2015/05/Schedules_of_Reinforcement_PDF.pdf) — four basic schedules; intermittent reinforcement as "an important condition of action"; schedules directing "the persistence and patterning of all behavior"; variable-ratio definition and high steady rates between reinforcements.
+- [Ferster & Skinner 1957, Schedules of Reinforcement, Prentice-Hall (B.F. Skinner Foundation reprint, full text PDF)](https://www.bfskinner.org/wp-content/uploads/2015/05/Schedules_of_Reinforcement_PDF.pdf) — four basic schedules; intermittent reinforcement as "an important condition of action" (Ch. 1, pp. 2-3); variable-ratio definition and differential reinforcement of high rates (Ch. 7); "rates continue at about the same high level" across higher ratios. Note: the passage "direct the persistence and patterning of all behavior" is from Foreword I of the 1997/2014 B.F. Skinner Foundation reprint, not from the 1957 authors; it was removed from the body in QC round 2.
 
 ## Psychology parallels
 
@@ -41,4 +41,4 @@ As an everyday illustration: the occasional windfall is what keeps someone at th
 
 ## Practice
 
-- Use continuous reinforcement to build new behaviours (reward every time), then shift to intermittent to maintain. This produces durable behaviour.
+- Use continuous reinforcement to build new behaviours (reward every time), then shift to intermittent to maintain.
