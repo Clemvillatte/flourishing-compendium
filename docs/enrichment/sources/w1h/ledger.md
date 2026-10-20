@@ -478,3 +478,12 @@
   findings). Flow (1990) book NOT opened; kept as the seed's citation.
   Related concepts: Flow, Intrinsic motivation, Peak experiences (minimal
   descriptive clauses; Maslow link carried by the page's own ST125 link).
+
+## PERMA model (fast-track)
+- Opened: Taylor and Francis page for Seligman 2018, J. Positive Psychology
+  13(4), 333-335 — abstract quoted verbatim (hypothesis sentence; final-common-
+  path sentence; "incorrectly however" clause; transcends-psychometrics
+  sentence). Body text not served by the page; no body claims made. Flourish
+  (2011) NOT opened; kept as the seed's citation. Related concepts (Flow,
+  Meaning-making) bare links: the opened abstract does not ground
+  relationship clauses.
