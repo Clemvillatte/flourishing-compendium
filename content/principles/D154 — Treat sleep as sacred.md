@@ -12,17 +12,32 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 154** — Treat sleep as sacred
 
-Never trade rest for achievement; the trade is always at a loss. Sleep is when the mud settles and the root is fed.
+Zhuangzi's portrait of the True men includes their sleep:
 
-(Zhuangzi 6; Neiye.)
+> "The True men of old did not dream when they slept, had no anxiety when they awoke, and did not care that their food should be pleasant." (Zhuangzi 6, Legge trans., [ETH Zurich PDF](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
 
-**Plain words** Never trade rest for achievement — the trade is always at a loss. Sleep is when the mud settles and the root is fed. Every 'I'll sleep when it's done' is a loan at rates you'd never accept in writing.
+The Neiye gives the underlying picture: stillness is not empty time but the condition under which vitality is lodged and kept.
 
-*For example:* The all-nighter before the exam: the material studied at 3am is the material forgotten by 9am. Sleep was the study strategy.
+> "If you can be aligned and be tranquil, / Only then can you be stable. / With a stable mind at your core, / With the eyes and ears acute and clear, / And with the four limbs firm and fixed, / You can thereby make a lodging place for the vital essence." (Neiye VIII, [Roth trans.](https://archive.org/stream/original-tao-inward-training-nei-yeh-and-the-foundations-of-taoist-mysticism-tra/Original%20Tao%20Inward%20Training%20(Nei-yeh)%20and%20the%20Foundations%20of%20Taoist%20Mysticism%20(Translations%20from%20the%20Asian%20Classics)%20by%20Harold%20David%20Roth%20(z-lib.org)_djvu.txt))
+
+> "We lose it / Because of the harm caused by mental agitation. / When the mind can hold on to tranquility, / The Way will become naturally stabilized." (Neiye XXVI, Roth trans.)
+
+The compendium reads these passages together: rest is treated in these texts as the state in which what is vital in a person settles and stabilizes, and the agitation of the day as what scatters it.
+
+(Zhuangzi 6; Neiye VIII, XXVI.)
+
+**Plain words** The Neiye's instruction runs opposite to the habit of treating sleep as leftover time. Tranquility is described as the thing vitality needs in order to lodge and stabilize, and agitation as what loses it. A practical reading: the hours of rest are not a gap in the day's work but part of what the work depends on. When you are tempted to spend sleep to get more done, the chapter's question is what the spending costs the thing being spent.
+
+*For example:* Imagine a demanding day tomorrow. You could decide that tonight's sleep is part of the preparation, and finish planning early enough to protect it.
+
+## Sources
+
+- [Zhuangzi, Legge trans., ETH Zurich PDF](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — Part 6, the True men of old
+- [Inward Training (Neiye), Roth trans., Internet Archive](https://archive.org/details/original-tao-inward-training-nei-yeh-and-the-foundations-of-taoist-mysticism-tra) — verses VIII, XXVI
 
 ## Psychology parallels
 
-- **Sleep as emotional first aid**, sleep deprivation amplifies amygdala reactivity (Yoo et al., 2007)
+- **Sleep as emotional first aid** (Yoo et al., 2007)
 - **REM sleep as "overnight therapy"** (Walker and van der Helm, 2009)
 
 ## Philosophy parallels
