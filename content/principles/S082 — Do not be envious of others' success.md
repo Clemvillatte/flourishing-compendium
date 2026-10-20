@@ -12,13 +12,22 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 204** — Do not be envious of others' success
 
-Envy is the judgment that another's success diminishes you. This is false. Another's success does not reduce your capacity for virtue. Practise rejoicing in others' good fortune.
+Marcus treats envy with the same stripping move he applies to luxury. The envied success, laid bare, is a dead fish, grape juice, dyed wool:
 
-(Med. VI.13, VI.16, IX.34; Seneca, Letters 109; Disc. I.9, I.20.)
+> "where there are things which appear most worthy of our approbation, we ought to lay them bare and look at their worthlessness and strip them of all the words by which they are exalted. For outward show is a wonderful perverter of the reason, and when thou art most sure that thou art employed about things worth thy pains, it is then that it cheats thee most" (Marcus Aurelius, Meditations, Book VI, section 13, [George Long translation](https://www.gutenberg.org/cache/epub/15877/pg15877.txt))
 
-**Plain words** Envy rests on the belief that someone else's success takes something from you. It doesn't. Their win leaves your capacity for virtue exactly as it was. Practise being glad when others do well, and watch how much lighter the day gets.
+Book VI also names what envy mistakes for value: fame and praise, "a clapping of tongues". Strip that too, and what remains worth valuing is on your side of the comparison: "to move thyself and to restrain thyself in conformity to thy proper constitution" (Meditations VI.16). Another's success adds nothing to that and takes nothing from it.
+
+(Med. VI.13, VI.16.)
+
+**Plain words**
+Envy reads someone else's win as a loss recorded against you. Nothing was transferred: their book deal did not take your sentences, their promotion did not take your judgment. Marcus strips the envied object down to what it is, then points at the one thing that was always yours to work on, your own constitution. Being glad for the winner is the accurate ledger.
 
 *For example:* A friend publishes the book you've been postponing, and you buy two copies, one to give away.
+
+## Sources
+
+- [Marcus Aurelius, Meditations (George Long translation, Project Gutenberg)](https://www.gutenberg.org/cache/epub/15877/pg15877.txt) — Book VI, sections 13 and 16
 
 ## Psychology parallels
 
