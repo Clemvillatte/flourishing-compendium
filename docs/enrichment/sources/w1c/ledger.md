@@ -368,3 +368,9 @@ legacy schema (state keys + proposals) — MERGED, never replaced.
 - Contingent self-esteem: opening de-attributed per advisor ("Self-esteem is contingent when a person treats meeting particular criteria as a condition of being worthwhile. Crocker discusses these criteria as contingencies of self-worth...").
 - Default mode network: caveat sentence de-attributed ("these group differences do not by themselves establish that meditation practice caused them"); Raichle framing weakened from "identify" to the abstract's own "These decreases suggest the existence of an organized, baseline default mode of brain function that is suspended during specific goal-directed behaviors" (quoted verbatim).
 - Both items cycled through reopen -> done; validated vs true pre-enrichment baselines (ff0b848c for Contingent self-esteem, 78b9409a for Default mode network). Build 5,720 ok.
+
+### Milestone QC PASS (items batch, 2026-10-20, worker-p1f-9d3f7c2b)
+- Round 3 advisor verdict: PASS for the scoped four-item w1c milestone (commit c3aa231f): Belief as habit, Cash value, Contingent self-esteem, Default mode network. All repairs verified against displayed source sentences (Brewer 2011 and Raichle 2001 PNAS abstracts displayed for evidence check); Crocker opening and DMN caveat repaired; coupling quotation corrected to exact abstract wording.
+- Baselines: Contingent self-esteem ff0b848c, Default mode network 78b9409a, both PASS under fast-track profile; build 5,720 ok.
+- Workflow correction noted for future repairs: reopen -> save/push -> edit -> validate -> done -> save/push; never replay completed transitions.
+- Still pending, not blocking w1c: p1f closure re-review; MO011 proposal application (supervisor).
