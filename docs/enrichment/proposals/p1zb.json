@@ -1,6 +1,6 @@
 {
  "batch": "p1zb",
- "revision": 2,
+ "revision": 3,
  "records": [
   {
    "action": "reciprocal",
@@ -29,6 +29,13 @@
    "link": "R107",
    "why": "The concept page already lists R107; the common-good principle's philosophy parallels would return the link.",
    "notes": "Proposed by worker-p1zb-9b3f2e68 during R107 round-4 QC; concept page (opened) links R107; principle currently lacks the return link."
+  },
+  {
+   "action": "reciprocal",
+   "into": "Acts of kindness (Lyubomirsky)",
+   "link": "S077",
+   "why": "The concept page already lists S077; the principle is about practising kindness, and the concept belongs among its psychology parallels.",
+   "notes": "Proposed by worker-p1zb-9b3f2e68 during S077 saturation check; concept page (opened via rg) links S077; principle currently lacks the return link."
   }
  ]
 }

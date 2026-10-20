@@ -406,3 +406,23 @@ never-band-assigned work; p1g state had them flagged-only, absent from p1g's man
   argument, The dichotomy of control (all list S053 and are the principle's own parallel
   labels). Sunk cost effect also lists S053 (one-directional; loose fit — no action).
   No new proposal warranted.
+
+## S077 — Practise hospitality and kindness to strangers
+- Full work: verbatim quotes added — Marcus "My city and country as I am Antoninus, is Rome;
+  as a man, the whole world" (printed Bk VI §39 in Gutenberg 2680) and the vine passage
+  (printed Bk V §6) and "Unto him that is a man, thou hast done a good turn" (printed Bk IX
+  §43); Epictetus "citizen of the world... What then does the character of a citizen
+  promise?" (chapter "How we may discover the duties of life from names") — all verified
+  against opened sources. The body's unsupported "kindness costs little and returns much"
+  aphorism replaced by the no-score-keeping idea grounded in the vine and suffice-thee
+  passages. Plain words rewritten as re-derivation (passport accidental). For-example kept.
+  Sources section added.
+- Flags: inherited citation line locators (Med. IV.29, VI.14, VIII.5; Disc. III.24; Seneca
+  Letters 3, 9, 95; Musonius Rufus) not opened this session; the quotes used appear under
+  different printed locators in the opened texts — mismatch noted in Sources; inherited line
+  retained with this flag.
+- Saturation: mutual links for Intergroup contact, Cosmopolitanism, Prosocial spending (all
+  list S077 and are the principle's own parallel labels). One-directional: Acts of kindness
+  (Lyubomirsky) lists S077 — proposal added to proposals/p1zb.json (tight fit: the principle
+  is about practising kindness); Parasocial contact hypothesis lists S077 — no action
+  (loose fit). No other proposal warranted.
