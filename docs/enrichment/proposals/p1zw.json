@@ -1,6 +1,6 @@
 {
  "batch": "p1zw",
- "revision": 4,
+ "revision": 5,
  "reciprocal": [
   {
    "into": "Anatta",
@@ -25,6 +25,12 @@
    "link": "K046",
    "why": "listed for comparison: the sociological account of role-taking beside K046's contemplative exchange drill.",
    "notes": "Saturation scan 2026-10-20: Taking the role of the other links K028 but not K046; both traditions rehearse the other's view, one as social cognition, one as formal meditation."
+  },
+  {
+   "into": "Bodhicitta",
+   "link": "K054",
+   "why": "listed for comparison: the concept's Shantideva-based treatment of the awakening mind beside K054's Tsongkhapa-based frame of daily practice.",
+   "notes": "Saturation scan 2026-10-20: Bodhicitta concept cites Santideva's Bodhicharyavatara and does not link K054; K054 grounds the Tsongkhapa lamrim side (Three Principal Aspects v. 6, 8 + Dalai Lama commentary). Self-transcendence concept already links K054."
   }
  ]
 }

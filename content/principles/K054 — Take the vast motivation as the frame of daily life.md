@@ -12,13 +12,18 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 54** — Take the vast motivation as the frame of daily life
 
-The lamrim's capstone, bodhicitta: the intention to make one's own development of wisdom and capacity serve all beings, held as the frame of ordinary activities rather than as a separate project. The translation is plain: whatever you are getting good at, name whom it serves, and let the naming widen. Practically, attach your practice to its beneficiaries in one sentence, and revisit the sentence when motivation flags; the flags are usually about the frame, not about you.
+Tsongkhapa's short summary of the path puts bodhicitta in the hinge position: no other attainment pays without it. "Yet if this renunciation is not embraced / By the pure motivation of bodhicitta, / It will not become a cause for the perfect bliss of unsurpassed awakening, / So the wise should generate supreme bodhicitta" (Three Principal Aspects of the Path, v. 6, trans. Adam Pearcey, [Lotsawa House](https://www.lotsawahouse.org/tibetan-masters/tsongkhapa/three-principal-aspects)). The verse's object: "Again and yet again, they are reborn in limitless saṃsāra, / And constantly tormented by the three forms of suffering. / This is the current condition of all your mothers from previous lives. / Contemplate their plight and generate supreme bodhichitta" (v. 8). The Dalai Lama's commentary on the text defines the term: "Bodhichitta is the attitude or intention to attain enlightenment to benefit all limited beings (sentient beings)," and adds the frame point: "Most important is our daily conduct... We need to do so in terms of actual people and actual situations we encounter in our daily lives. This is the essence of the Dharma" ([commentary on Tsongkhapa](https://studybuddhism.com/en/tibetan-buddhism/path-to-enlightenment/commentaries-on-lam-rim-texts/commentary-on-the-three-principal-aspects-of-the-path-the-dalai-lama)).
 
-(Tsongkhapa's lamrim, the bodhicitta chapters; the six perfections as its curriculum: generosity, ethics, patience, energy, concentration, wisdom.)
+The translation into ordinary life is plain: whatever you are getting good at, name whom it serves, and let the naming widen. Practically, attach your practice to its beneficiaries in one sentence, and revisit the sentence when motivation flags; the flags are usually about the frame, not about you.
 
-**Plain words** Bodhicitta means intending that your own growth in wisdom and ability serve everyone, and holding it as the frame of ordinary life rather than a separate project. Whatever you're getting good at, name who it serves, and let the naming widen.
+**Plain words** Bodhicitta is a purpose, not a mood: get capable for the sake of others, not only yourself. Tsongkhapa's placement says the rest of the practice depends on it. The daily version is the frame: whatever you are doing, you are doing it with others' situation in view, in actual situations and with actual people, not just in theory.
 
-*For example:* Learning to code, you add "so I can build tools that help people in my town" and notice your motivation on hard days changes.
+For example: Learning to code, you add "so I can build tools that help people in my town" and notice your motivation on hard days changes.
+
+## Sources
+
+- [Tsongkhapa, Three Principal Aspects of the Path, trans. Adam Pearcey (Lotsawa House)](https://www.lotsawahouse.org/tibetan-masters/tsongkhapa/three-principal-aspects) — verses 6 and 8 quoted verbatim from the opened page
+- [The Dalai Lama, commentary on Tsongkhapa's Three Principal Aspects (Berzin Archives)](https://studybuddhism.com/en/tibetan-buddhism/path-to-enlightenment/commentaries-on-lam-rim-texts/commentary-on-the-three-principal-aspects-of-the-path-the-dalai-lama) — bodhichitta definition and daily-conduct passage quoted verbatim from the opened page
 
 ## Psychology parallels
 
