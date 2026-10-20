@@ -17,7 +17,7 @@ The encyclopedia's rule is that all adults should visit their provider from time
 > "Even if you feel fine, you should still see your health care provider for regular checkups." (MedlinePlus Medical Encyclopedia, [Physical exam frequency](https://medlineplus.gov/ency/article/002125.htm))
 
 **Plain words**
-Feeling well does not rule out a problem that screening can detect: the page's examples are blood pressure, which the page says can only be found by checking, and high blood sugar and cholesterol, which may not have symptoms in the early stages. That is why the rule is to keep showing up when you feel fine. What you notice at home, like how you slept, is material for the visit, not a replacement for it.
+Feeling well does not rule out a problem that screening can detect: the page's examples are high blood pressure, which the page says can only be identified by checking, and high blood sugar and cholesterol, which may not have symptoms in the early stages. That is why the rule is to keep showing up when you feel fine. What you notice at home, like how you slept, is material for the visit, not a replacement for it.
 
 *For example:* An imagined patient feels well but asks their provider which check-ups are due. They mention recent sleep changes and let the provider decide whether tests are appropriate.
 
