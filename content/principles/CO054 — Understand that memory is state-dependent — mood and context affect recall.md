@@ -12,11 +12,25 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 ---
 > **Principle 54** — Understand that memory is state-dependent: mood and context affect recall
 
-You recall memories more easily when your current state matches the state at encoding. This is why depressed mood retrieves depressing memories and anxious mood retrieves threatening ones. This is a mechanism that maintains emotional disorders.
+Two separate findings sit under this principle, and they have different standing.
 
-**Plain words** State-dependent memory: you recall more easily when your current state matches the encoding state — which is why depressed mood retrieves depressing memories and anxious mood retrieves threatening ones. The archive is mood-indexed. Don't do your life review at 3 a.m.
+The first is context. Godden and Baddeley had divers learn word lists on land and underwater and recall them in either place. "Lists learnt underwater were best recalled underwater, and vice versa" ([Godden & Baddeley, 1975, Br J Psychol 66, 325-331](https://eric.ed.gov/?id=EJ127053)). A replication with sixteen divers "did not find that recall in the same context where the words had been learned was better than recall in the other context" ([Murre, 2021, abstract](https://pubmed.ncbi.nlm.nih.gov/34760281/)), so the classic result is weaker than its textbook status suggests.
 
-*For example:* The person who reviews their whole life at 3 a.m. and finds it damning — and the same review, done at noon with coffee, returns a different file set entirely. The archive wasn't lying either time; it was just obeying the index.
+The second is mood. Eich's 1995 overview of his own research notes that "events encoded in a certain state of affect or mood" are sometimes "most retrievable in that state," but that "neither the circumstances under which mood dependent memory (MDM) occurs nor the mechanisms that enable its emergence are as yet well understood" ([Eich, 1995, Psychological Science 6(2), abstract](https://www.psychologicalscience.org/journals/psychological-science/j.1467-9280.1995.tb00309.x/)). The effect on firmer ground is mood congruence, in which memory favours material that matches your current mood. In a review of emotion and autobiographical memory, [Holland & Kensinger (2010)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2852439/) write that "autobiographical MCM in depression is a robust phenomenon" and that the extent to which depressed people recall negative life events "is correlated with the severity of their symptoms." The same review adds that the deficits in depression "are usually confined to memory for positive autobiographical events."
+
+So the principle holds in a careful form. Your mood at the moment of recall shapes which memories come easily, and in depression this bias is well documented. That it holds for anxiety and threatening memories is plausible but is not shown in these sources.
+
+**Plain words** The mood you are in while remembering tilts which memories come easily. In depression the pull toward sad memories is well documented, and positive ones are the harder to reach. A memory search done while low is a biased sample. Judge the whole of your life on a different day from the worst one.
+
+*For example:* After a bad week you list everything that has gone wrong in your career and the list looks damning. That list was made by a mood that favours the negative entries. Write it down, then reread it in a steadier hour before treating it as the verdict.
+
+## Sources
+
+- [Godden, D. R., & Baddeley, A. D. (1975). Context-dependent memory in two natural environments: On land and underwater. British Journal of Psychology 66(3), 325-331, abstract (ERIC)](https://eric.ed.gov/?id=EJ127053) — divers learning and recalling on land and underwater
+- [Murre, J. M. J. (2021). The Godden and Baddeley (1975) experiment on context-dependent memory on land and underwater: a replication. Royal Society Open Science, abstract](https://pubmed.ncbi.nlm.nih.gov/34760281/) — the failed replication
+- [Eich, E. (1995). Searching for mood dependent memory. Psychological Science 6(2), 67-75, abstract](https://www.psychologicalscience.org/journals/psychological-science/j.1467-9280.1995.tb00309.x/) — definition of mood dependence and its unsettled status
+- [Holland, A. C., & Kensinger, E. A. (2010). Emotion and autobiographical memory. Physics of Life Reviews 7(1), 88-131](https://pmc.ncbi.nlm.nih.gov/articles/PMC2852439/) — mood congruence in depression
+
 ## Psychology parallels
 
 - **[[Mood-congruent memory|Mood-congruent memory]]**, current affect biases recall toward affectively congruent material (Bower, 1981; Blaney, 1986)

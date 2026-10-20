@@ -16,7 +16,7 @@ Redelmeier and Kahneman recorded pain minute by minute in patients having a colo
 
 The authors suggest that "patients' memories of painful medical procedures largely reflect the intensity of pain at the worst part and at the final part of the experience." The study is about painful procedures. Applying the same rule to holidays, meals or relationships is the compendium's extension and has not been checked here.
 
-**Plain words** Memory does not keep an average of how an experience felt. It keeps the worst stretch and the last few minutes and builds its verdict from those, so a long experience and a short one can be remembered as equally bad. If you plan something for other people, the ending is worth designing. If you are judging your own past, remember that the verdict rests on two moments.
+**Plain words** Memory does not keep an average of how an experience felt. It keeps the worst stretch and the last few minutes and builds its verdict from those, so how long it lasted matters little. If you plan something for other people, the ending is worth designing. If you are judging your own past, remember that the verdict rests on two moments.
 
 *For example:* In the colonoscopy group, the patients' own total-pain ratings tracked the worst moment and the final three minutes, and the length of the procedure made little difference. When you rate a trip or a job as awful, ask which moment was the peak and what happened at the end.
 
