@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BI — Biophysi
 ---
 > **Principle 41** — Learn to consider supplements wisely: evidence and caution
 
-Grosso and colleagues' 2014 meta-analysis reported a pooled standardized difference of 0.38 SD favouring omega-3 treatment over placebo, with a 95% confidence interval of 0.18-0.59. ([Grosso et al., 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4013121/))
+Grosso and colleagues' 2014 meta-analysis of trials involving people with diagnosed major depression or depressive symptoms reported a pooled standardized difference of 0.38 SD favouring omega-3 treatment over placebo (95% CI 0.18-0.59). ([Grosso et al., 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4013121/))
 
 > "Use of mainly EPA within the preparation, rather than DHA, influenced final clinical efficacy."
 >
@@ -41,9 +41,9 @@ Suppose someone is considering fish oil for depressive symptoms. They bring the 
 
 ## Psychology parallels
 
-- **Omega-3 (EPA) for depression**, moderate evidence (Grosso et al., 2014; Hallahan et al., 2016)
-- **Vitamin D and depression**, low vitamin D is associated with depression; supplementation may help if deficient (Anglin et al., 2013; Li et al., 2019)
-- **Note: supplement evidence is often mixed and effect sizes are small**, and quality/regulation vary (Grosso et al., 2014; Li et al., 2019)
+- **Omega-3 (EPA) for depression** (Grosso et al., 2014; Hallahan et al., 2016)
+- **Vitamin D and depression** (Anglin et al., 2013; Li et al., 2019)
+- **Supplement evidence and regulation** (Grosso et al., 2014; Li et al., 2019)
 
 ## Philosophy parallels
 
@@ -53,4 +53,4 @@ Suppose someone is considering fish oil for depressive symptoms. They bring the 
 
 ## Practice
 
-- Consider supplements wisely: omega-3 (EPA), vitamin D (if low), magnesium (for sleep) have some evidence. Do not rely on supplements alone. Consult a healthcare provider, especially if on medication.
+- For a supplement you are considering, identify the condition and formulation, then discuss with a healthcare professional whether the evidence is relevant to your care.
