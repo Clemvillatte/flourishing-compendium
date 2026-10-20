@@ -24,3 +24,8 @@
 - Sources opened: After Virtue p.216 via PDF copy excerpt (epistemh.pbworks); p.217 via d-nb.info article. Quote verified verbatim.
 - Substantive flag: the entry's Plain words said "you're the author as well as the character"; MacIntyre p.216 says the key question is "not about their own authorship". Rewritten. Taylor, Ricoeur, McAdams 1993/2008 not opened.
 - QC: self-QC only; validator pass.
+
+## R106 — Situated freedom
+- Sources: Helda thesis (quotes BN 1992 pp. 629, 653); Bernasconi, How to Read Sartre (PDF excerpt). Quotes verified verbatim against search excerpts; BN itself not read in full.
+- Flags: entry's "free to choose how to respond" is gentler than Sartre (ends and meaning of the situation are chosen; coefficient of adversity). Heidegger, Merleau-Ponty, Rotter 1966 not opened.
+- QC: self-QC only; validator pass.
