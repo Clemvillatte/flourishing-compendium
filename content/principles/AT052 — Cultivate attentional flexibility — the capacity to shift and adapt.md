@@ -25,7 +25,7 @@ Staying focused is useful, but a changed situation can call for a different appr
 Imagine a nurse who narrows attention for a procedure, broadens it to take in the room, jokes with the patient, and then returns to the task.
 ## Sources
 
-- [Diamond 2013, Executive Functions, Annual Review of Psychology 64:135-168, university-hosted full text](https://www.psychologie.uzh.ch/dam/jcr:b93485f4-7120-4fe4-9a5b-39a84f4e07e6/Diamond.AnnRevPsych.2013.pdf) — cognitive flexibility as a core executive function; its dependence on inhibition and working memory; adjustment to changed circumstances. Blockquote located on printed p. 149 (PDF page 15, rendered and verified).
+- [Diamond 2013, Executive Functions, Annual Review of Psychology 64:135-168, university-hosted full text](https://www.psychologie.uzh.ch/dam/jcr:b93485f4-7120-4fe4-9a5b-39a84f4e07e6/Diamond.AnnRevPsych.2013.pdf) — cognitive flexibility as a core executive function; its dependence on inhibition and working memory; adjustment to changed circumstances. Blockquote from printed p. 149, "Cognitive Flexibility" section.
 
 ## Psychology parallels
 

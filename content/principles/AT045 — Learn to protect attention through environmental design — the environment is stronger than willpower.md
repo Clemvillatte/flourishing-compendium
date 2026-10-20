@@ -22,7 +22,7 @@ Wood and Neal describe how learned context cues can elicit habitual responses, w
 Habits are triggered by places and objects: perceiving the context fires the associated response without a mediating goal. The learned associations do not shift appreciably with current goal states, though habits do interface with goals. So one practical move is cue-level: move the phone, close the tab, leave the remote in another room.
 
 **For example**
-Imagine someone who cannot focus with the TV on and keeps trying to focus with the TV on. Moving the remote out of reach changes the cue instead of demanding more effort.
+Imagine someone who routinely turns on the television when settling down to work. Before the next work session, they leave it off and put the remote in another room.
 ## Sources
 
 - [Wood & Neal 2007, A new look at habits and the habit-goal interface, Psychological Review 114(4):843-863, author-hosted full text](https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/wood.neal_.2007psychrev_a_new_look_at_habits_and_the_interface_between_habits_and_goals.pdf) — habits as context-cued associations; implications for habit change and the self-regulation of habit cuing.
@@ -39,4 +39,4 @@ Imagine someone who cannot focus with the TV on and keeps trying to focus with t
 
 ## Practice
 
-- Design your environment: remove notifications, clear workspace, use physical barriers (close door, headphones), organise tools for focus. Do not rely on willpower to resist a distracting environment.
+- Design your environment: remove notifications, clear workspace, use physical barriers (close door, headphones), organise tools for focus. Try changing a distraction cue rather than making stronger resolve your only plan.
