@@ -146,3 +146,33 @@ These sources were opened, but no subsequent content item has been started:
   removed). Re-review submitted; pending.
 - Related-concepts reciprocal proposals were skipped on all five per the
   fast-track bar (no obviously missing reciprocal beyond what was linked).
+
+Milestone-five confirmation round (advisor): PASS recorded for Sustained
+attention theory as repaired. Two further round-two repairs were applied and
+pushed: Stress mindset (altered quotation fixed to begin at "participants";
+"all measures self-report" characterization corrected) and Sustainability of
+well-being gains (activities quotation fixed, overgeneralization deleted,
+seed-provenance assertion removed, variety moderator passage verified against
+the 2013 chapter and quoted verbatim). System justification theory (item 1)
+drew no further repairs in the confirmation round; its repairs-applied
+status is treated as confirmed.
+
+Milestone-ten advisor review (scoped to items 6-10): FAIL with bounded
+repairs, all applied this round. Item 10: opening false contrast replaced,
+youth-problems stitching split into two cited sentences, quotations with
+unmarked lowercase initials converted to attributed paraphrase or restored
+initial capitals, section locator added to the definition blockquote
+("Community-Level Interventions: Definition and Rationale"), fix reframed
+as a proposed improvement scoped to the 2003 review, Related-concept glosses
+reduced to bare links. Item 6 (book of nature): Nature-connectedness gloss
+removed, lowercase-initial quotes paraphrased or recapped. Item 7
+(categorical imperative): Formula of Humanity attributed to the SEP
+summary, Confucian-duty gloss reduced to a bare link. Item 8 (craft of
+attention): "craft of attention" reframed as this entry's label rather
+than Weil's own name, Perrin detail removed, quote initials restored.
+Item 9 (dizziness of freedom): existentialists-inheritance claim deleted,
+education-through-anxiety claim replaced by Marino-essay verbatim support
+(anxiety "is cast as a teacher"; "learned to be anxious in the right way").
+Ledger note: the earlier milestone-five confirmation append had failed
+silently (broken && chain); re-appended and verified this round. Scoped
+confirmation submitted; pending.

@@ -13,7 +13,7 @@ The categorical imperative is Immanuel Kant's name, in the Groundwork of the Met
 
 ### The two famous formulas
 
-The Groundwork offers several expressions of the one principle. The Formula of Universal Law is the passage quoted above. The Formula of Humanity runs: "we should never act in such a way that we treat humanity, whether in ourselves or in others, as a means only but always as an end in itself". The first turns a proposed action into a test question, whether its maxim could hold for everyone; the second puts a limit on using people, which is where the compendium's facet of forbidding manipulation comes from.
+The Groundwork offers several expressions of the one principle. The Formula of Universal Law is the passage quoted above. The Formula of Humanity, as Johnson and Cureton summarize it, holds that "we should never act in such a way that we treat humanity, whether in ourselves or in others, as a means only but always as an end in itself". The first turns a proposed action into a test question, whether its maxim could hold for everyone; the second puts a limit on using people, which is where the compendium's facet of forbidding manipulation comes from.
 
 ### How the test works
 
@@ -26,7 +26,7 @@ The Encyclopedia lays out the four steps of the universalizability test: formula
 
 ## Related concepts
 
-- [[Confucian duty]] — a comparison: what fits one's roles and relationships, against Kant's exceptionless law for every rational agent
+- [[Confucian duty]]
 
 ## Sources
 

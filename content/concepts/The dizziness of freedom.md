@@ -17,7 +17,7 @@ The book is explicit that anxiety is "altogether different from fear and similar
 
 ### The honest limit
 
-The Concept of Anxiety is subtitled "a simple psychologically orienting deliberation on the dogmatic issue of hereditary sin", and the dizziness passage sits inside an argument about sin's possibility, not inside clinical psychology. Kierkegaard treats anxiety as a disclosure of freedom to be educated through, not a disorder to remove, a framing later existentialists borrowed while dropping the theology.
+The Concept of Anxiety is subtitled "a simple psychologically orienting deliberation on the dogmatic issue of hereditary sin", and the dizziness passage sits inside an argument about sin's possibility, not inside clinical psychology. Marino's essay records the other side of Kierkegaard's view: anxiety "is cast as a teacher", and Kierkegaard's line that "whoever has learned to be anxious in the right way has learned the ultimate". The essay closes with the observation that "this, of course, is not the counsel you are likely to hear these days at the mental health clinic".
 
 ## Related concepts
 
