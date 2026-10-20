@@ -39,10 +39,11 @@
   "K039": "QC milestone round: advisor-designed source-bounded repairs applied and validator-clean; full history in sources/p1zt/K039.md",
   "K041": "QC milestone round: advisor-designed source-bounded repairs applied and validator-clean; full history in sources/p1zt/K041.md",
   "K044": "QC milestone round: advisor-designed source-bounded repairs applied and validator-clean; full history in sources/p1zt/K044.md",
-  "E046": "New body and quotation source-checked, validator-clean and advisor-reviewed; inherited psychology/philosophy parallel attributions not independently certified by takeover. See sources/p1zt/E046.md and drafts/p1zt/TAKEOVER-728a1014.md. Scope flag, not a new-body failure."
+  "E046": "New body and quotation source-checked, validator-clean and advisor-reviewed; inherited psychology/philosophy parallel attributions not independently certified by takeover. See sources/p1zt/E046.md and drafts/p1zt/TAKEOVER-728a1014.md. Scope flag, not a new-body failure.",
+  "E051": "New body and quotation source-checked, validator-clean and advisor-reviewed; inherited psychology/philosophy parallel attributions not independently certified by takeover. See sources/p1zt/E051.md and drafts/p1zt/TAKEOVER-728a1014.md. Scope flag, not a new-body failure."
  },
  "missing_concepts": [],
  "sources_checked": 17,
- "updated": "2026-10-20T13:10:44+00:00",
+ "updated": "2026-10-20T13:10:46+00:00",
  "band_done": false
 }
