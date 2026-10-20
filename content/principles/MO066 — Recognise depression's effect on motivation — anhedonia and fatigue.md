@@ -32,7 +32,7 @@ This is an analogy, not clinical evidence. Aristotle is describing ethical habit
 ## Psychology parallels
 
 - **Depression and motivation**, anhedonia and fatigue are core symptoms (APA, 2022; Treadway & Zald, 2011)
-- **[[Behavioral activation|Behavioural activation]] is effective**, activity scheduling improves depression even when motivation is absent (Dimidjian et al., 2011; Richards et al., 2016)
+- **[[Behavioral activation|Behavioural activation]] is effective**, in a large randomized trial it was non-inferior to CBT for depression (Richards et al., 2016)
 
 ## Philosophy parallels
 
@@ -42,4 +42,4 @@ This is an analogy, not clinical evidence. Aristotle is describing ethical habit
 
 ## Practice
 
-- When depressed, do not wait for motivation. Behavioural activation — doing small, valued activities even without motivation — is one evidence-supported approach. Seek treatment.
+- When depressed, do not wait for motivation. Behavioural activation is one evidence-supported approach. Seek treatment.

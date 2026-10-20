@@ -10,9 +10,14 @@
  ],
  "in_progress": null,
  "flagged": {
-  "MO034": "inherited psychology parallels (Neubach 2007; Wrosch 2007/2003; Wrosch & Miller 2009) not opened this session — flagged per precedent, not certified; quote-start lowercased to match source; advisor QC round-1 fixes applied"
+  "MO034": "inherited psychology parallels (Neubach 2007; Wrosch 2007/2003; Wrosch & Miller 2009) not opened this session — flagged per precedent, not certified; quote-start lowercased to match source; advisor QC round-1 fixes applied",
+  "MO045": "locators corrected to author-manuscript pagination (PDF is the manuscript; old p.115/124-25/126 cited published pagination); practice grounded in the paper's own self-compassion meta-analysis sentence (r=-.31); see sources/p1zb/ledger.md",
+  "MO056": "impact-bias bullet narrowed to verified definition (PMC7311650; PubMed 15189579); Lyubomirsky 2011 definition verified via opened secondary definitions, original not opened; Ben-Shahar citation inherited unopened; see ledger",
+  "MO059": "inherited psych citations (Sheldon & Elliot 1999; Carver & Scheier 1990; Wood 2010; Emmons & McCullough 2003) not opened; flagged not certified; see ledger",
+  "MO060": "flow conditions + well-being association verified vs opened sources (Nature s44271-024-00115-3; Wiley EJN review); see ledger",
+  "MO066": "BA bullet narrowed to COBRA-verified claim (PubMed 27461440); anhedonia core symptom verified (PubMed 20603146); APA 2022 + Dimidjian 2011 inherited unopened; see ledger"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T07:50:28+00:00"
+ "updated": "2026-10-20T07:54:25+00:00"
 }

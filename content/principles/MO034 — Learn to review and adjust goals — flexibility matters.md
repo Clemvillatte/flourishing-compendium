@@ -31,7 +31,7 @@ The passage is about the examination of virtue, not about goal-review schedules.
 
 ## Psychology parallels
 
-- **Goal review and adjustment**, regular review improves goal attainment and well-being (Neubach et al., 2007; Wrosch et al., 2007)
+- **Goal review and adjustment**, the capacity to disengage from unattainable goals and reengage with new ones is associated with subjective well-being (Wrosch et al., 2003; Wrosch, Scheier, & Miller, 2013)
 - **Goal disengagement**, the capacity to disengage from unattainable goals is associated with better well-being (Wrosch et al., 2003; Wrosch & Miller, 2009)
 
 ## Philosophy parallels

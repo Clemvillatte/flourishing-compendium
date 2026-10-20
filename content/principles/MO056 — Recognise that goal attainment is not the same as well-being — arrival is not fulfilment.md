@@ -29,7 +29,7 @@ The quotation is a philosophical comparison, not evidence for the forecasting cl
 
 ## Psychology parallels
 
-- **Impact bias**, people overestimate how much goal attainment will improve their life (Wilson & Gilbert, 2003)
+- **Impact bias**, people overestimate the intensity and duration of their emotional reactions to future events (Wilson & Gilbert, 2003)
 - **Hedonic adaptation**, gains fade toward baseline (Lyubomirsky, 2011)
 - **Arrival fallacy**, achieving goals often produces less satisfaction than expected (Ben-Shahar, Happier)
 
