@@ -270,3 +270,38 @@ legacy schema (state keys + proposals) — MERGED, never replaced.
 - Proposals: 5 reciprocals added.
 - Preservation: front-matter, seed line, all citation lines and Cited-in
   links kept byte-for-byte; both original seed citations kept in Sources.
+
+## Attention residue (item 24, 2026-10-20)
+
+- Advisor QC: not due (item 4; next milestone at item 5 — the NEXT item
+  gets the milestone QC).
+- Opened: Sophie Leroy, "Why is it so hard to do my work? The challenge
+  of attention residue when switching between work tasks", OBHDP
+  109(2):168-181 (2009) — ABSTRACT ONLY (full text is ScienceDirect
+  paywalled), opened via EconPapers
+  https://econpapers.repec.org/article/eeejobhdp/v_3a109_3ay_3a2009_3ai_3a2_3ap_3a168-181.htm
+  - Three quotations verified verbatim against the abstract text: the
+    "As revealed by two experiments..." sentence; the "Being able to
+    finish one task..." sentence; the "typical workday" fragment.
+- Leroy & Glomb 2018 (seed citation): NOT opened; kept as an original
+    citation line only, explicitly marked "not opened this session" on
+    the page; no claims drawn from it.
+- Page prose scoped to the abstract: the opening definition is the
+  construct description; no mechanism claims beyond the abstract
+  (e.g. no working-memory mechanism asserted; Related lines carry
+  "editorial pairing" labels).
+- Principles described from their own files (AT029, B168, D071, AT061,
+  AT027, P174, K113 lines checked; AT029's "bill twice" Plain words and
+  the others' titles/statement lines read).
+- Related targets: definitions read from their own pages (Media
+  multitasking: Ophir et al. 2009; Working memory capacity limits:
+  Cowan's three-to-five; Flow: Wikipedia/Csikszentmihalyi; ACT-Eysenck
+  and Two modes: verified in the Weil item this session; Attention:
+  general page).
+- First validate run: prose too short (111 < 150); fixed by adding the
+  work-design framing paragraph (from the abstract's own sentences).
+- Facets section kept as found (the single bullet is consistent with
+  the body; folding not needed).
+- Proposals: 6 reciprocals added.
+- Preservation: front-matter, seed line, Facets and Other-formulations
+  sections, all citation lines and Cited-in links kept byte-for-byte.
