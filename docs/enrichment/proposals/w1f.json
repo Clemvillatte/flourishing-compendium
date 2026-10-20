@@ -84,6 +84,26 @@
    "into": "Emotion regulation",
    "link": "Mid-level emotion regulation",
    "why": "the parent construct, whose in-the-moment slice this page isolates"
+  },
+  {
+   "into": "Default mode network",
+   "link": "Mind wandering",
+   "why": "the brain systems whose activity the wandering tracks"
+  },
+  {
+   "into": "Meta-awareness",
+   "link": "Mind wandering",
+   "why": "the noticing that catches the drift this page describes"
+  },
+  {
+   "into": "Present-moment awareness theory",
+   "link": "Mind wandering",
+   "why": "the target state the drift departs from"
+  },
+  {
+   "into": "Mental time travel",
+   "link": "Mind wandering",
+   "why": "one of the places the wandering goes"
   }
  ],
  "inline": []
