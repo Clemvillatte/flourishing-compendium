@@ -6,9 +6,10 @@
   "P031",
   "P035",
   "P058",
-  "P054"
+  "P054",
+  "P056"
  ],
- "in_progress": "P056",
+ "in_progress": null,
  "flagged": {
   "P058": "Reopened for QC: QC repair: two-phases framing, remove existential and narrator-agent claims",
   "P054": "Reopened for QC: QC repair: remove lineage-priority claim, soften outcomes, illustrative example",
@@ -16,6 +17,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T03:06:27+00:00",
+ "updated": "2026-10-20T03:06:40+00:00",
  "band_done": false
 }
