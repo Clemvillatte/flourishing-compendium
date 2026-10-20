@@ -35,4 +35,4 @@ When someone else's enthusiasm starts a wish of your own, look at what appeals a
 ## Philosophy parallels
 
 - **[[Not exalting the rare|Not exalting the rare]]** (Laozi, Daodejing 3)
-- **We imitate what we admire in others** (La Rochefoucauld, Reflections; or, Sentences and Moral Maxims)
+- **La Rochefoucauld, Reflections; or, Sentences and Moral Maxims** (on imitation and admiration)

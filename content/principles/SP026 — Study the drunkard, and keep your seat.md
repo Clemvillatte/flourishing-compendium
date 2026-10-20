@@ -20,8 +20,6 @@ The diagnosis is general: "men believe themselves to be free, simply because the
 
 > "An emotion can only be controlled or destroyed by another emotion contrary thereto, and with more power for controlling emotion." (Ethics IV, P7, [Elwes](https://www.gutenberg.org/ebooks/3800))
 
-The compendium's application of these two passages: feeling certain that you chose your words does not tell you everything that led you to say them. As an exercise, leave yourself an opportunity to reconsider before sending a message or making a commitment while intoxicated.
-
 **Plain words**
 Feeling certain that you chose your words does not tell you everything that led you to say them. Spinoza's drinker later wishes he had kept quiet. As a practical exercise, leave yourself an opportunity to reconsider before sending a message or making a commitment while intoxicated.
 

@@ -1,6 +1,6 @@
 {
  "batch": "p1zzc",
- "revision": 10,
+ "revision": 12,
  "reciprocal": [
   {
    "into": "Benign versus malicious envy",
@@ -35,7 +35,7 @@
   {
    "into": "Frustration–aggression hypothesis",
    "link": "SP031",
-   "why": "the hypothesis that anger tracks goal obstruction, paired with Spinoza's account of evil as pain that frustrates our longings",
+   "why": "Spinoza's definitions of anger and revenge, alongside his discussion of frustrated longings",
    "notes": "SP031 (worker-p1zzc-de9b53): hub inspected, 0 SP031 occurrences; the Elwes P39 note supplies the blocked-longing framing."
   },
   {
@@ -49,6 +49,12 @@
    "link": "SP034",
    "why": "Spinoza's definition of shame as pain over an act we believe others blame, set against the act-specific signal guilt carries",
    "notes": "SP034 (worker-p1zzc-de9b53): hub inspected, 0 SP034 occurrences; grounded in the opened Elwes Ethics (III, Def. XXXI; IV, LVIII note)."
+  },
+  {
+   "into": "Anger examined early",
+   "link": "SP031",
+   "why": "Spinoza's definitions of anger and revenge alongside Seneca's account of anger beginning in the mind's agreement",
+   "notes": "SP031 (worker-p1zzc-de9b53): hub inspected via mention search (revenge), SP031 not present; grounded in the opened Elwes Ethics definitions; the Seneca framing is the hub's own sourced content."
   }
  ]
 }

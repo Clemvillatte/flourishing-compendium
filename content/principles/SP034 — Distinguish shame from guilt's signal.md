@@ -42,4 +42,4 @@ If a mistake feels like a verdict on your whole character, name the particular b
 ## Philosophy parallels
 
 - **Godly sorrow works repentance** (Paul, 2 Corinthians 7.10)
-- **The self is not the deed** (Buddhist analysis of identification)
+- **Buddhist analysis of identification**

@@ -39,4 +39,4 @@ Another person's misfortune can make you sad and move you to help. Spinoza's war
 ## Philosophy parallels
 
 - **[[Metta (loving-kindness)|Metta and karuna]]** (Buddhist brahmaviharas)
-- **Pity as inequality's emotion** (Nietzsche, Beyond Good and Evil, on Mitleid)
+- **Nietzsche, Beyond Good and Evil** (on Mitleid)
