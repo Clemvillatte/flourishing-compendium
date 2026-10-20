@@ -27,7 +27,7 @@
   "Y029",
   "Y036"
  ],
- "in_progress": null,
+ "in_progress": "Y080",
  "flagged": {
   "SP042": "Reopened for QC: QC round 1: narrow opening sentence to the opened passage",
   "SP045": "Reopened for QC: milestone QC round 1: scope repairs",
@@ -42,6 +42,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T12:02:18+00:00",
+ "updated": "2026-10-20T12:34:23+00:00",
  "band_done": false
 }
