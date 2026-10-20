@@ -48,7 +48,8 @@
   "R014",
   "R037",
   "R051",
-  "R128"
+  "R128",
+  "S020"
  ],
  "in_progress": null,
  "flagged": {
@@ -83,7 +84,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 15,
- "updated": "2026-10-20T04:16:21+00:00",
+ "updated": "2026-10-20T04:18:48+00:00",
  "band_done": false,
  "takeover": {
   "by": "genuineflourishing35",

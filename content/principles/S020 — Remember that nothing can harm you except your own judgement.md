@@ -12,13 +12,24 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 142** — Remember that nothing can harm you except your own judgement
 
-No external event can touch your character. Only your response can. The person who insults you cannot harm you; only your anger at the insult can. The person who takes your property cannot harm you; only your desire for the property can. Practise the distinction between event and response.
+Marcus Aurelius states the doctrine twice, once as a diagnosis and once as an instruction. The diagnosis: if you are pained by any external thing, it is not the thing that disturbs you but your own judgement about it, and it is in your power to wipe out that judgement now. The instruction that follows the same logic: take away the opinion, and the complaint "I have been harmed" is taken away; take away the complaint, and the harm is taken away.
 
-(Disc. I.1, I.18, I.28; Ench. 5; Med. IV.7, VIII.47.)
+> If thou art pained by any external thing, it is not this thing that disturbs thee, but thy own judgment about it. And it is in thy power to wipe out this judgment now.
+> (Marcus Aurelius, Meditations VIII.47, trans. Long)
 
-**Plain words** No outside event can touch your character, only your response can. The person who insults you can't harm you. Your anger at the insult can. The person who takes your property can't harm you. Your craving for it can. Practise separating event from response.
+> Take away thy opinion, and then there is taken away the complaint, "I have been harmed." Take away the complaint, "I have been harmed," and the harm is taken away.
+> (Marcus Aurelius, Meditations IV.7, trans. Long)
+
+The compendium's application: run the distinction on a small case before you need it for a large one. A rude email lands; the email is a fact, and what follows it is the judgement's work. The reflections below press the honest limits: being physically hurt or exploited is harm that no adjustment of opinion cancels, and the claim here concerns what the mind adds to an event, not whether protection and justice matter.
+
+**Plain words** When something outside you goes wrong, the pain has two parts: the event, and your judgement about the event. The event you often cannot change. The judgement is the part the doctrine says is yours, and IV.7's arithmetic is that removing it removes the harm. This is not a claim that events are harmless; it is a claim about where your leverage lives.
 
 *For example:* A rude email lands. The email is a fact. The three hours of seething afterwards are yours.
+
+## Sources
+
+- [Marcus Aurelius, Meditations IV.7 (George Long translation, Wikisource)](https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_IV)
+- [Marcus Aurelius, Meditations VIII.47 (George Long translation, Wikisource)](https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_VIII)
 
 ## Stories
 
