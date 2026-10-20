@@ -9,14 +9,26 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Intuition as method” — Bergson, Introduction to Metaphysics.
 
+Bergson's essay "An Introduction to Metaphysics" sets intuition against analysis as two ways of knowing a thing. Analysis moves round an object, taking points of view and using symbols; intuition enters into it. The passage that opens the distinction:
+
+> "The first implies that we move round the object; the second that we enter into it. The first depends on the point of view at which we are placed and on the symbols by which we express ourselves. The second neither depends on a point of view nor relies on any symbol. The first kind of knowledge may be said to stop at the relative; the second, in those cases where it is possible, to attain the absolute." (Bergson, [An Introduction to Metaphysics, trans. T. E. Hulme, Internet Archive](https://archive.org/stream/anintroductiont00berggoog/anintroductiont00berggoog_djvu.txt))
+
+The essay then defines the entering kind:
+
+> "By intuition is meant the kind of intellectual sympathy by which one places oneself within an object in order to coincide with what is unique in it and consequently inexpressible. Analysis, on the contrary, is the operation which reduces the object to elements already known, that is, to elements common both to it and other objects." (Bergson, [An Introduction to Metaphysics, trans. T. E. Hulme, Internet Archive](https://archive.org/stream/anintroductiont00berggoog/anintroductiont00berggoog_djvu.txt))
+
+### In the compendium
+
+- [[ST108 — Dewey's Laboratory School]]
+- [[K046 — Practice the exchange deliberately, as a skill]]
+- [[SP047 — Learn the four levels of knowledge]]
+- [[SP048 — Aim at the third kind, which is joy]]
+
 ## Sources
 
 - Bergson, Introduction to Metaphysics
+- [Bergson, An Introduction to Metaphysics, trans. T. E. Hulme (Internet Archive full text)](https://archive.org/stream/anintroductiont00berggoog/anintroductiont00berggoog_djvu.txt) — both blockquotes
 
-[[ST108 — Dewey's Laboratory School]]
-[[K046 — Practice the exchange deliberately, as a skill]]
-[[SP047 — Learn the four levels of knowledge]]
-[[SP048 — Aim at the third kind, which is joy]]
 ## Cited in philosophy parallels
 
 - [[P094 — Use intuition to enter the flow of things]]
