@@ -158,8 +158,10 @@ Core prose (body per QC round-1 replacement text, VI.9 blockquote + IV.21 inline
 **Reciprocal candidates:** SE017 (evidence page for the same study; public body). Pending supervisor.
 **QC:** standard checks; validator caught a lost wikilink ([[Self-compassion|self-compassion]]) and it was restored in exact original form.
 ### SE028 — Learn mindful self-awareness (milestone QC)
-**Done:** SE028 (post-revision).
+**Pending milestone acceptance.**
 **Sources opened:** Neff 2003, publisher abstract page (opened for SE012, same session), https://www.tandfonline.com/doi/abs/10.1080/15298860309032 — mindfulness component definition and rumination proposal, abstract. Fresco et al. 2007 and Neff 2011 NOT opened; the over-identification-amplifies bullet was narrowed to the abstract's proposal instead.
 **Milestone advisor QC:** CONDITIONAL verdict at first pass; all requested revisions applied to SE028 and regression fixes to SE012, SE024, SE027 (see notes in proposals file). Resubmitted.
 **Assertions dropped:** "Both poles lose the information the feeling carries" (unsupported mechanism); grief-trajectory example; "study time predicted performance" (SE027); trainability/"most adjustable relationship" claims (SE012); "nearly universal" (SE024); p. 85 locators replaced with "abstract" (SE012, SE028).
 **Reciprocal candidates:** SE025 (three-components body). Pending supervisor.
+
+**Round-2 QC revisions:** SE028 psychology bullet 1 narrowed to abstract wording; SE012 trainability inference replaced with bounded prompt-list framing; SE024 "researchers who named" -> "1975 reviewers"; SE027 opening/design/example corrected per advisor; SE024 Martinko bullet narrowed (chapter paywalled, specific "prevents learning" claim unverified; review's documented scope from secondary excerpts, p. 174); SE028 Daodejing 16 mapping grounded by opening Legge translation (Terebess). Martinko et al. 2006 NOT directly opened (paywalled Wiley chapter).

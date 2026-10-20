@@ -19,7 +19,7 @@ The construct is the self-serving attributional bias: more internal, stable, and
 Miller and Ross also proposed the success-side effect may not be motivational distortion at all, but the tendency of people to expect their behaviour to produce success and to misconstrue contingency. Mezulis, Abramson, Hyde and Hankin's meta-analysis of 266 studies (average d = 0.96, a large effect) later confirmed the bias is pervasive in the general population, with variability across age, culture and psychopathology. The compendium's application: audit your wins for the luck and your losses for the responsibility, since the ledger your mind keeps is not neutral.
 
 **Plain words**
-The mind keeps the score with a thumb on the scale: my wins were skill, my losses were circumstances. The researchers who named the bias found the thumb mostly presses on the win side, and a later meta-analysis of 266 studies found the bias large and present in nearly all samples studied. The corrective habit runs both directions anyway: on a win, ask what circumstances contributed; on a loss, ask what you contributed.
+The mind keeps the score with a thumb on the scale: my wins were skill, my losses were circumstances. The 1975 reviewers found the thumb mostly presses on the win side, and a later meta-analysis of 266 studies found the bias large and present in nearly all samples studied. The corrective habit runs both directions anyway: on a win, ask what circumstances contributed; on a loss, ask what you contributed.
 
 *For example:* Imagine the deal that closed was "my skill" and the deal that died was "the market", and the honest audit that finds skill and market in both.
 ## Sources
@@ -30,7 +30,7 @@ The mind keeps the score with a thumb on the scale: my wins were skill, my losse
 ## Psychology parallels
 
 - **[[Self-serving attribution bias|Self-serving attribution bias]]**, people attribute success to themselves and failure to external factors (Miller & Ross, 1975; Mezulis et al., 2004)
-- **The bias impairs learning**, self-serving attributions prevent accurate learning from failures (Martinko et al., 2006)
+- **Attributions shape subsequent behaviour**, a review of attribution research in industrial and organizational psychology documents that attributions play a significant role in behaviours central to the field, including training and performance appraisal (Martinko et al., 2006)
 
 ## Philosophy parallels
 

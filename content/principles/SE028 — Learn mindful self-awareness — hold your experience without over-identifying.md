@@ -25,10 +25,11 @@ Try describing a painful feeling without making it a verdict about your identity
 ## Sources
 
 - [Neff, K. (2003), Self-Compassion: An Alternative Conceptualization of a Healthy Attitude Toward Oneself, Self and Identity 2(2), 85-101 (publisher abstract page)](https://www.tandfonline.com/doi/abs/10.1080/15298860309032) — mindfulness component definition and rumination proposal, abstract
+- [Daodejing 16, James Legge translation (Terebess Asia Online)](http://www.terebess.hu/english/tao/legge.html) — "The (state of) vacancy should be brought to the utmost degree, and that of stillness guarded with unwearying vigour. All things alike go through their processes of activity, and (then) we see them return (to their original state)."
 
 ## Psychology parallels
 
-- **[[Mindfulness|Mindfulness as component of self-compassion]]**, balanced awareness of pain without suppression or over-identification (Neff, 2003, 2011)
+- **[[Mindfulness|Mindfulness as component of self-compassion]]**, balanced awareness of painful thoughts and feelings rather than over-identification (Neff, 2003, abstract)
 - **The construct is proposed to protect against rumination**, self-compassion "should protect against the negative consequences of self-judgment, isolation, and rumination (such as depression)" — a theoretical proposal about the overall construct (Neff, 2003, abstract)
 
 ## Philosophy parallels

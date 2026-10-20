@@ -12,16 +12,16 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 27** — Practise self-kindness over self-judgment: kindness is more motivating than cruelty
 
-The page's claim, that [[Self-compassion|self-compassion]] beats cruelty as a motivator, was tested indirectly by Breines and Chen, who compared a self-compassion condition with a self-esteem control and with control conditions (no intervention or positive distraction) after failure or weakness.
+Breines and Chen compared [[Self-compassion|self-compassion]] with self-esteem and other control conditions; they did not compare it with induced self-criticism.
 
 > "Participants in a self-compassion condition, compared to a self-esteem control condition and either no intervention or a positive distraction control condition, expressed greater incremental beliefs about a personal weakness (Experiment 1); reported greater motivation to make amends and avoid repeating a recent moral transgression (Experiment 2); spent more time studying for a difficult test following an initial failure (Experiment 3); exhibited a preference for upward social comparison after reflecting on a personal weakness (Experiment 4); and reported greater motivation to change the weakness (Experiment 4)." (Breines & Chen, "Self-Compassion Increases Self-Improvement Motivation", Personality and Social Psychology Bulletin 38, 2012, abstract)
 
 The study-time finding matters most for this principle: after failing a first test, the self-compassionate participants spent more time studying for the retake than the self-esteem and control participants. The authors' conclusion is the page's own: "somewhat paradoxically, taking an accepting approach to personal failure may make people more motivated to improve themselves."
 
 **Plain words**
-The whip theory says the whipping is what keeps standards up. The experiment did not induce whipping; it compared being kind to yourself about a failure with boosting your self-esteem or doing nothing. The kind group studied longest for the retake. Kindness is not the reward for improvement; the evidence points to it as the engine.
+The whip theory says the whipping is what keeps standards up. The experiment did not induce whipping; it compared a self-compassion condition with comparison groups (self-esteem and controls). On the study-time measure, the self-compassion group studied longest for the retake. Kindness is not the reward for improvement; the evidence points to it as the engine.
 
-*For example:* Imagine two people miss the same workout streak: one calls themselves lazy (next miss: sooner), one says "rough month, let's restart Monday" (restart: on Monday). The kind version is not softer on the standard; it is harder on the actual variable, which is returning.
+*For example:* Imagine missing a planned workout. Rather than calling yourself lazy, you acknowledge the lapse and choose the next realistic opportunity to exercise.
 ## Sources
 
 - [Breines, J. G., & Chen, S. (2012), Self-Compassion Increases Self-Improvement Motivation, Personality and Social Psychology Bulletin 38(9), 1133-1143 (abstract, Semantic Scholar)](https://www.semanticscholar.org/paper/d80137e87e00ecfe0882d8a8dbeecdf696df59de) — four experiments quoted above

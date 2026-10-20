@@ -16,10 +16,10 @@ The construct behind this principle is self-compassion: Kristin Neff defines it 
 
 > "Self-compassion entails three main components: (a) self-kindness—being kind and understanding toward oneself in instances of pain or failure rather than being harshly self-critical, (b) common humanity—perceiving one's experiences as part of the larger human experience rather than seeing them as separating and isolating, and (c) mindfulness—holding painful thoughts and feelings in balanced awareness rather than over-identifying with them." (Neff, "Self-Compassion: An Alternative Conceptualization of a Healthy Attitude Toward Oneself", Self and Identity 2, 2003, abstract)
 
-The compendium's application: the inner critic is one voice among possible voices, and each of Neff's components is stated as a swap, which is the sense in which this page calls self-relation a skill. The definition establishes the alternatives; the passages do not by themselves establish trainability, which rests on the intervention literature cited in the psychology parallels below.
+Neff's abstract defines the three components; it does not test trainability. As a suggested practice, this page proposes using the components as prompts when choosing how to respond to a mistake.
 
 **Plain words**
-The harsh inner voice feels like a fact of your mental furniture, but Neff's components each name an alternative to it: kindness instead of the beating; common humanity (this happens to people, not only to me) instead of isolation; balanced awareness instead of drowning in the feeling. This page treats self-relation as a skill because the definition presents each stance as swappable.
+The harsh inner voice feels like a fact of your mental furniture, but Neff's components each name an alternative to it: kindness instead of the beating; common humanity (this happens to people, not only to me) instead of isolation; balanced awareness instead of drowning in the feeling. This page treats self-relation as a skill in the practical sense of a prompt-list for responding to mistakes.
 
 *For example:* Imagine the person who assumes the harsh inner voice is just "how I am", and the discovery, mid-therapy, that the voice has a volume knob and even a different station.
 ## Sources
