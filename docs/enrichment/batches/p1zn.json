@@ -12,7 +12,8 @@
   "R126",
   "R130",
   "S017",
-  "S030"
+  "S030",
+  "S033"
  ],
  "in_progress": null,
  "flagged": {
@@ -27,9 +28,10 @@
   "R126": "Entry diverges from Dobson (duties to humans via footprint; not rights toward more-than-human); Eckersley, Clayton&Opotow not opened; book read via OUP excerpts",
   "R130": "Abram quoted second-hand (pages differ by edition); Mayer&Frantz 2004 abstract unobtainable; Plumwood/Naess not opened",
   "S017": "Discourses I.30/II.19/III.3, Marcus III.6/VI.13, Hayes 2011 not opened; entry nuanced with preferred indifferents (SEP); Sahdra 2010 is a Buddhist-derived parallel",
-  "S030": "Epictetus/Seneca/Med VII.5,VII.55 not opened; the 'ask of any action' rule is the compendium's gloss; Aknin 2020 replication had one null experiment; SVO/Ubuntu/Dewey not opened"
+  "S030": "Epictetus/Seneca/Med VII.5,VII.55 not opened; the 'ask of any action' rule is the compendium's gloss; Aknin 2020 replication had one null experiment; SVO/Ubuntu/Dewey not opened",
+  "S033": "Entry's biographical claims (Seneca investor etc.) not verified and dropped; Med IV.3 permits brief inward retreat; Seneca Ep 5 about showy austerity; Holt-Lunstad is mortality/correlational; Dimidjian, Heidegger, Dewey not opened"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T10:46:04+00:00"
+ "updated": "2026-10-20T10:46:45+00:00"
 }

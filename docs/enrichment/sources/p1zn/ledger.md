@@ -59,3 +59,8 @@
 - Opened: Marcus Meditations II, VI, IX (Long, MIT Classics); Dunn, Aknin & Norton 2008 abstract (PMID 18356530); Aknin et al. 2020 replication abstract (PMID 32250135).
 - Not opened: Med. VII.5, VII.55; Epictetus Disc. II.10, III.7, III.24; Seneca Letters 48, 95; Van Lange 2007; Ubuntu; Dewey.
 - Note: "ask of any action..." is the compendium's formulation; Experiment 2 of the replication (N=1,950) was null.
+
+## S033 — Do not retreat from the world
+- Opened: Marcus Meditations IV, V (Long, MIT Classics); Seneca Letter 5 (Gummere, Wikisource); Holt-Lunstad et al. 2010 abstract (PMID 20668659).
+- Not opened: Med. VI.7, IX.6; Seneca Letter 20; Epictetus Disc. III.7, III.21; Musonius; Dimidjian 2011; Heidegger; Dewey.
+- Note: entry's "Seneca politician and investor", "Marcus emperor" facts not re-verified and removed; Med. IV.3 allows a brief inward retreat; Letter 5 is about showy austerity; Holt-Lunstad is mortality, correlational.
