@@ -39,7 +39,8 @@
   "The moving body",
   "The narrative self",
   "The ongoing reduction",
-  "The right amount of effort"
+  "The right amount of effort",
+  "The question kept alive"
  ],
  "in_progress": null,
  "flagged": {
@@ -77,7 +78,7 @@
   "The right amount of effort": "Reopened for QC: QC round 1: advisor repairs (quote fidelity, trainer example, extension removal, glosses)"
  },
  "missing_concepts": [],
- "sources_checked": 3,
- "updated": "2026-10-20T07:54:07+00:00",
+ "sources_checked": 4,
+ "updated": "2026-10-20T07:55:48+00:00",
  "band_done": false
 }

@@ -827,3 +827,25 @@
   states only what the opened sutta says; no claim that AN 6.55 uses the term "right
   effort". Source line added to Sources. Item remains NOT done pending supervisor
   disposition of the title (see concept-namespace-audit.md worker flag). sources_checked +1.
+
+## The question kept alive (2026-10-20, worker-j9fpiyf; fast-track; degree 9 — eligible)
+
+- OPENED: Katha-Upanishad, First Valli I.1.20-29, Max Müller, The Upanishads Part II
+  (SBE 15), https://sacred-texts.com/hin/sbe15/sbe15010.htm — fetched and the third-boon
+  exchange returned verbatim. Blockquote = verse 20 exactly as printed (name spelled
+  "Na*k*iketas" on the page; quote avoids the name to keep the asterisked italic markup
+  out). Death's counteroffers (vv. 21-25) and Nachiketa's refusals (vv. 26-29) verified in
+  the same fetch; paraphrased, not quoted.
+- IS-IT-A-CONCEPT check: the seed's "BG's inquiry" (BG = Bhagavad Gita, the Y book's
+  abbreviation per Y Reference Appendix D and sibling seeds like "n 3.35") had its verse
+  reference stripped by the normalizer ("n's inquiry"). The concept's own citing principle
+  Y097 pairs the theme with "Katha's 'the sharp path'; Zen's live question", so the page
+  is grounded in the Katha third-boon exchange (opened, verbatim) and described as the
+  compendium's heading. The Y-book identity is preserved via the kept seed Sources lines
+  ("BG's inquiry", "the series' Book I, Layer VII"); no Gita verse was invented to fill
+  the stripped reference. Worker flag NOT filed: the title is a plain compendium heading
+  (no coined-technical-term claim), and the body asserts only what the opened source and
+  the compendium's own principles state.
+- FAST-TRACK NOTE: saturation hunt skipped per §1a; [[The great doubt]] (deg 6) and
+  [[Socratic inquiry]] (deg 3) added as Related with definitional glosses.
+- Validation: --fast-track ok. sources_checked +1 (sacred-texts page).
