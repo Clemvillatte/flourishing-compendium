@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Intuition as method” — Bergson, Introduction to Metaphysics.
 
-Bergson's essay "An Introduction to Metaphysics" sets intuition against analysis as two ways of knowing a thing. Analysis moves round an object, taking points of view and using symbols; intuition enters into it. The passage that opens the distinction:
+Bergson's essay "An Introduction to Metaphysics" sets intuition against analysis as two ways of knowing a thing ([An Introduction to Metaphysics, trans. T. E. Hulme, Internet Archive](https://archive.org/stream/anintroductiont00berggoog/anintroductiont00berggoog_djvu.txt)). Analysis moves round an object, taking points of view and using symbols; intuition enters into it. The passage that opens the distinction:
 
 > "The first implies that we move round the object; the second that we enter into it. The first depends on the point of view at which we are placed and on the symbols by which we express ourselves. The second neither depends on a point of view nor relies on any symbol. The first kind of knowledge may be said to stop at the relative; the second, in those cases where it is possible, to attain the absolute." (Bergson, [An Introduction to Metaphysics, trans. T. E. Hulme, Internet Archive](https://archive.org/stream/anintroductiont00berggoog/anintroductiont00berggoog_djvu.txt))
 
