@@ -29,9 +29,10 @@
   "K015",
   "MO011",
   "MO007",
-  "PP017"
+  "PP017",
+  "PP022"
  ],
- "in_progress": "PP022",
+ "in_progress": null,
  "flagged": {
   "D074": "Reopened for QC: milestone QC: inference-level corrections",
   "B006": "Reopened for QC: QC r2: traffic example",
@@ -49,6 +50,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 22,
- "updated": "2026-10-20T03:34:38+00:00",
+ "updated": "2026-10-20T03:34:55+00:00",
  "band_done": false
 }

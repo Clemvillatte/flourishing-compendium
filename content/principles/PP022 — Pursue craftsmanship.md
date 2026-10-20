@@ -12,13 +12,20 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 ---
 > **Principle 22** — Pursue craftsmanship
 
-Craftsmanship is the orientation toward doing something well for its own sake. It is not perfectionism, which is driven by fear of inadequacy. It is the commitment to quality as a value, not as a means to recognition. Research on the calling orientation shows that people who see their work as a calling report higher meaning and engagement than those who see it as a job or career.
+The research the seed leans on is Wrzesniewski's work-orientation study, which found people holding work in three ways: as a Job (money and necessity), a Career (advancement), or a Calling (enjoyment of fulfilling, socially useful work). Notably for craftsmanship, the split appeared within occupations, including among 24 college administrative assistants in the same role, which suggests the calling is a way of taking the work as much as a property of the work. (Wrzesniewski et al., 1997.)
 
-(Wrzesniewski et al., 1997; Dik et al., 2013.)
+> "We present evidence suggesting that most people see their work as either a Job (focus on financial rewards and necessity rather than pleasure or fulfillment; not a major positive part of life), a Career (focus on advancement), or a Calling (focus on enjoyment of fulfilling, socially useful work)." (Wrzesniewski et al., 1997)
 
-**Plain words** Craftsmanship means doing something well for its own sake. It isn't perfectionism, which grows from fear of inadequacy. It's valuing quality as such. People who see their work as a calling report more meaning and satisfaction.
+> "Differences in respondents' relations to their work could not be reduced to demographic or occupational differences; an homogenous subset of 24 college administrative assistants were, like the total sample of respondents, distributed evenly across Job, Career, and Calling." (Wrzesniewski et al., 1997)
+
+**Plain words**
+Doing something well for its own sake is available in almost any work, because the study found the orientation inside occupations, not just between them. The carpenter's rule is the everyday version: finish the part nobody will see. Perfectionism, by contrast, is quality driven by fear of inadequacy, and the two can be told apart by asking whether the finishing is enjoyed or dreaded.
 
 *For example:* A carpenter finishes the back of a drawer nobody will see, because it's right.
+
+## Sources
+
+- [Wrzesniewski, McCauley, Rozin & Schwartz (1997), Jobs, Careers, and Callings: People's Relations to Their Work, Journal of Research in Personality 31(1), 21-33 (Swarthmore Faculty Works)](https://works.swarthmore.edu/fac-psychology/193/)
 
 ## Stories
 
