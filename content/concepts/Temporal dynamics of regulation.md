@@ -7,7 +7,7 @@ file: "Temporal dynamics of regulation"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-reappraisal is more effective when applied early; suppression is more necessary when applied late (Sheppes & Gross, 2012).
+reappraisal is more effective when applied early; suppression is more necessary when applied late (Sheppes & Gross, 2012). That is the seed's legacy formulation. The opened chapter does not itself describe suppression as "more necessary"; its findings are below.
 
 ## What the chapter argues
 
@@ -16,17 +16,15 @@ Emotions unfold over stages, and regulation can step in at any of them. Gal Shep
 The first comparison is between strategies, and the clearest version of it pits reappraisal against suppression.
 
 > The basic logic of this comparison is that reappraisal which alters the emotional trajectory early on, should be a more effective regulation strategy than suppression, which intervenes later, and thus has to combat a higher intensity emotional response.
-> — Sheppes & Gross, "Emotion Regulation Effectiveness: What Works When," Handbook of Psychology, 2nd ed., 2012
+> — Sheppes & Gross, "Emotion Regulation Effectiveness: What Works When," Handbook of Psychology, 2nd ed., 2012, "Empirical Tests of the Process Model's Predictions" section
 
 On the evidence the chapter reviews, suppression has carried relative costs in affective, cognitive and social domains. Studies cited there found that suppressing did not reduce negative emotional experience the way reappraisal did, and increased sympathetic nervous system arousal. That is the finding behind the common shorthand that an emotion is easier to head off than to hold down.
 
-The second comparison is between intensities, and it complicates the first. Reappraisal gives emotional information room to be attended and given meaning before modulation, which suits a mild response. At high intensity the same operation becomes costly and effortful. Distraction, which blocks early, does better there, though the chapter notes its own limitation: relief that comes cheaply in the short term can prove maladaptive over the long run.
+The second comparison is between intensities, and it complicates the first. Here the two senses of early and late need separating. In the chapter's account of how emotions are generated, reappraisal works earlier than suppression. In its account of information processing, distraction works earlier than reappraisal, blocking the information at the start, while reappraisal takes it in and works a meaning onto it before damping it down. That late work suits a mild response. At high intensity the same operation becomes costly and effortful, and distraction does better there, though the chapter notes its own limitation: relief that comes cheaply in the short term can prove maladaptive over the long run.
 
 ## In the compendium
 
-The principle on regulating early, not late states the compendium's own counsel: intervening early in an emotional episode beats intervening at the peak. The principle on the temporal structure of affect supplies the frame: emotions have intensity, duration, variability and recovery.
-
-A boundary on the seed's wording. The opened chapter does not itself describe suppression as "more necessary" when applied late. Its findings are that suppression carries relative costs against reappraisal, and that reappraisal in turn becomes costly at high intensity. The "more necessary" phrasing belongs to the seed and to the compendium's principle, and this page does not present it as a finding of the research.
+The principle on regulating early, not late states the compendium's own counsel: intervening early in an emotional episode beats intervening at the peak. The principle on the temporal structure of affect supplies the frame: emotions have intensity, duration, variability and recovery. The "more necessary" phrasing for late suppression belongs to the seed and to that principle, and this page does not present it as a finding of the research.
 
 ## Sources
 
