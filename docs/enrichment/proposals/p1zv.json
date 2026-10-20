@@ -99,5 +99,12 @@
    "why": "a philosophical exercise in pausing before a tempting choice",
    "notes": "S069 takeover: Self-regulation read in full; no S069 backlink. Editorial comparison, not empirical validation of Epictetus' exercise."
   }
- ]
+ ],
+ "reciprocal: Forgiveness concept -> S074 (worker-p1zv-4db4ea8b, 2026-10-20)": {
+  "source": "content/principles/S074 — Forgive those who wrong you.md",
+  "target": "content/concepts/Forgiveness.md",
+  "link": "[[S074 — Forgive those who wrong you|S074 Forgive those who wrong you]]",
+  "why": "S074's psychology parallels row links the Forgiveness concept; the concept page cites the forgiveness-family principles (A060, B107, PP042) but not the Stoic principle S074.",
+  "notes": "Concept page is outside p1zv's band; reciprocal to be applied by supervisor via enrich_apply.py."
+ }
 }
