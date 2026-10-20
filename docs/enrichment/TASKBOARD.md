@@ -53,7 +53,7 @@ The owner's primary-source library is in `docs/PRIMARY-SOURCES.md`.
 |---|---|---|---|---|---|---|
 | p1a | 1-30 | R055 (xin) to E011 (phenomenological description) | p1a | done (30/30; band closed 12:13 UTC) | genuineflourishing31 | 2026-10-19 |
 | p1b | 31-100 | E012 to PP029 | p1b | DONE (all 70 items rewritten) | genuineflourishing42 | 2026-10-20 |
-| p1c | 101-170 | PP081 to B146 | p1c | claimed | genuineflourishing29 | 2026-10-19 |
+| p1c | 101-170 | PP081 to B146 | p1c | claimed (takeover at ~04:4xZ from genuineflourishing29/genuineflourishing38, stale; 66/70 done, 5 left: A036, A075, A089, AF010, AT008) | worker-p1c-45f6a65e | 2026-10-20 |
 | p1d | 171-240 | BI012 to B129 | p1d | released (63/70; predecessor recovery pushed) | genuineflourishing42; AT006 salvaged by worker-p1m-fd2db49a-recovery | 2026-10-20 |
 | p1e | 241-310 | BE026 to D065 | p1e | done (70/70 manifest + off-manifest P157 repair; band closed 2026-10-20; QC at items 1,5,10,15,20,25; CO079 post-done QC fix applied) | worker-p1e-4f2c9b1d | 2026-10-20 |
 | p1f | 311-370 | D074 to BI001 | p1f | claimed | genuineflourishing41 (took over stale genuineflourishing33; 20/60 done, D/B/P items QC-passed) | 2026-10-20 |
