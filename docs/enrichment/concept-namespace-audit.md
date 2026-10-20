@@ -144,6 +144,9 @@ hallucinations.
 - Three thousand realms in one thought (enriched in w1g 2026-10-20; queue s2, 38w) —
   the title IS the tradition's own term (yi nian san qian) per the opened source; listed
   here only to note the Mohe Zhiguan quotation-provenance caveat in the w1g ledger.
+- The community of inquiry (enriched in w1g 2026-10-20) — the opened Peirce essay
+  states the doctrine ("all who investigate") but does not use this phrase verbatim;
+  the title is the tradition's later label. Pending supervisor verification/rename/merge.
 - The criterion of experience (enriched in w1g 2026-10-20; queue s2, 51w) — the opened
   James essay discusses criteria for truth but the page title is the compendium's
   heading. Pending supervisor verification/rename/merge.

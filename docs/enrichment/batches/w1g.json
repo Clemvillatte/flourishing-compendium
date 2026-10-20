@@ -13,7 +13,8 @@
   "Sufficiency",
   "The rhythm of life",
   "The rhythm of rest",
-  "The criterion of experience"
+  "The criterion of experience",
+  "The community of inquiry"
  ],
  "in_progress": null,
  "flagged": {
@@ -24,7 +25,8 @@
   "Sufficiency": "title pending supervisor disposition: generic English heading; queue lists Zhi zu (knowing sufficiency) as the tradition's term; flagged in audit worker-flags section",
   "The rhythm of life": "title pending supervisor disposition: compendium heading over the Neiye's breath-as-rhythm teaching; flagged in audit worker-flags section",
   "The rhythm of rest": "title pending supervisor disposition: compendium heading over Zhuangzi ch. 6 toil-ease-rest image; flagged in audit worker-flags section",
-  "The criterion of experience": "title pending supervisor disposition: compendium heading over James's criterion discussion; flagged in audit worker-flags section"
+  "The criterion of experience": "title pending supervisor disposition: compendium heading over James's criterion discussion; flagged in audit worker-flags section",
+  "The community of inquiry": "title pending supervisor disposition: later label for Peirce's 'all who investigate' doctrine; not used verbatim in opened essay; flagged in audit worker-flags section"
  },
  "missing_concepts": [
   {
@@ -34,6 +36,6 @@
   }
  ],
  "sources_checked": 0,
- "updated": "2026-10-20T05:11:02+00:00",
+ "updated": "2026-10-20T05:11:40+00:00",
  "band_done": false
 }

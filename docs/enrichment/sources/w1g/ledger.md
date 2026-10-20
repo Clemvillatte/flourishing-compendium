@@ -505,3 +505,25 @@
   in the Sources entry.
 - Validation: --fast-track ok (concept <15 connections; prose minimum waived; all other
   checks pass). Build ok (5718 entries, fcAuthored 976).
+
+## The community of inquiry (2026-10-20, fast-track; degree 9 — eligible)
+
+- OPENED: C. S. Peirce, "How to Make Our Ideas Clear" (Popular Science Monthly 12,
+  January 1878), full text at peirce.org (https://www.peirce.org/writings/p119.html)
+  — fetched and verified in the raw HTML. The truth-definition sentence quoted
+  verbatim (verified in the raw text: "The opinion which is fated to be ultimately
+  agreed to by all who investigate, is what we mean by the truth, and the object
+  represented in this opinion is the real."); the closing paraphrases the adjacent
+  "antagonistic views" sentence, also verified in the raw text. One verbatim
+  blockquote used.
+- IS-IT-A-CONCEPT check: the phrase "community of inquiry" is not used verbatim in
+  the opened essay; the page title is the tradition's later label for the doctrine
+  Peirce states here ("all who investigate"). Grep at this round: no entry in
+  concept-namespace-audit.md; on the concept-verification-queue (verified by grep
+  this round). Flagged for supervisor disposition (added to the audit worker-flags
+  section this round).
+- FLAG (inherited, protected): the preserved Sources line "Peirce, Collected Papers"
+  was the seed citation; the essay is the opened text (CP 5.388-410 covers it),
+  noted in the replacement Sources entry.
+- Validation: --fast-track ok (concept <15 connections; prose minimum waived; all other
+  checks pass). Build ok (5718 entries, fcAuthored 976).
