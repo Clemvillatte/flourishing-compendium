@@ -270,3 +270,39 @@ My BI045 entry above claims "Saturation: mention scan run for the three takeover
 items" — that scan was NOT run; only the parallels sections were inspected. My
 BE052 and BI032 entries correctly said "to follow". Treat no saturation scan as
 done for BE052/BI032/BI045. Content items flagged for the new p1h owner (below).
+
+## Takeover QC round (2026-10-20, worker-p1h-7d3e9c4a)
+
+- BE052: routed repair applied (worker-p1p note). Opened the Wiley abstract page
+  (https://onlinelibrary.wiley.com/doi/abs/10.1111/cpsp.12216) fresh; the 1970s dating is
+  NOT in the abstract ("once highly popular area of investigation... neglected in recent
+  years"; "research on assertiveness and assertiveness training as a stand-alone treatment
+  within clinical psychology has diminished drastically"). The "1970s heyday" sentence was
+  replaced with the opened abstract's own framing. Validator ok.
+- BI045: routed repair applied. Opened the Frontiers full text fresh: the review states a
+  meta-analysis was infeasible ("due to the heterogeneity of the selected experimental
+  groups, of the interventions, and of the outcomes, a statistical pooling was
+  infeasible"), so "pooled result" was replaced with narrative-review wording; the
+  reported outcomes sentence now follows the abstract's own list (comfort, relaxation,
+  pleasantness, vigor, alertness; reduced symptoms of arousal, anxiety, depression,
+  anger, confusion); the example's unsupported "voice comes out at a different pitch"
+  outcome was replaced with a pulse-check procedure. Validator ok.
+- B081: cross-band incident re-verification. Opened SN 46.53 Thanissaro fresh
+  (accesstoinsight): "The sluggish mind is easy to raise up by those mental qualities."
+  verbatim; the three factors (analysis of qualities, persistence, rapture) and the
+  small-fire dry-fuel image match the opened text; the restless-mind reversal (calm,
+  concentration, equanimity) matches. PASS.
+- B140: cross-band incident re-verification. Opened the Terebess Clarke Xinxin Ming fresh:
+  "To set up what you like against what you dislike / is the disease of the mind."
+  verbatim. Opened the Kwan Um teaching page fresh (title "I Don't Teach Buddhism Or
+  Zen"): "I only teach don't know. Fifty years here and there teaching only don't know.
+  So only don't know. OK?" verbatim, attributed on the page to The Compass of Zen. PASS.
+- Saturation scans (routed as never run for the three takeover items): BE052 and BI045
+  mention scans run this session — both already well connected (BE052 cited by Express by
+  shaping not venting, Nonviolent communication, The dignity of self-expression, Speech
+  gate, K215; BI045 cited by Anapanasati, Autonomic nervous system, K194, BI-S05 layer);
+  no justified new proposals. BI032 scan below.
+- BI032 saturation: mention scan run this session — already cited by Context-dependent
+  behaviour (Wood & Neal), Context-dependent repetition (Lally), Gradual training,
+  Mental time travel, Natural liberty versus the chains, Natural virtue, BI-S03 layer;
+  no justified new proposals.
