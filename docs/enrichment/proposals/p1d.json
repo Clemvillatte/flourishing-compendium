@@ -12,6 +12,12 @@
    "link": "B039",
    "why": "B039 lays out the four foundations of mindfulness; B067 gives the feeling-tone domain its working instruction.",
    "notes": "B039 body names feeling tone as one of the four domains (checked in current file)."
+  },
+  {
+   "into": "B128",
+   "link": "The raft",
+   "why": "MN 22 is the shared source: the concept page collects the raft image and its facets, the principle page states the instruction the simile carries.",
+   "notes": "B128 rewrite (worker-p1d-8f3a21c4, 2026-10-20): MN 22 Thanissaro (dhammatalks.org) and Dhp 97 Buddharakkhita (Access to Insight) opened and quoted verbatim; see sources/p1d/B128.md. The raft concept body checked (cites MN 22, seed)."
   }
  ]
 }
