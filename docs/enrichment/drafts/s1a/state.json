@@ -80,7 +80,52 @@
      "note": ""
     }
    ]
+  },
+  "s1a-006": {
+   "status": "drafting",
+   "angle": "B026: Bill W. finds Dr. Bob — AA's founding as the four efforts in action",
+   "history": [
+    {
+     "t": "2026-10-20T13:24:39+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-20T13:25:16+00:00",
+     "to": "drafting",
+     "note": ""
+    }
+   ]
+  },
+  "s1a-007": {
+   "status": "drafting",
+   "angle": "P182: the teller and the doer — Gallwey's Bounce-Hit",
+   "history": [
+    {
+     "t": "2026-10-20T13:24:39+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-20T13:25:16+00:00",
+     "to": "drafting",
+     "note": ""
+    }
+   ]
+  },
+  "s1a-008": {
+   "status": "drafting",
+   "angle": "D080: the blind men and the elephant (Udana 6.4) — partial truths mistaken for the whole",
+   "history": [
+    {
+     "t": "2026-10-20T13:24:39+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-20T13:25:16+00:00",
+     "to": "drafting",
+     "note": ""
+    }
+   ]
   }
  },
- "updated": "2026-10-20T13:18:31+00:00"
+ "updated": "2026-10-20T13:25:16+00:00"
 }
