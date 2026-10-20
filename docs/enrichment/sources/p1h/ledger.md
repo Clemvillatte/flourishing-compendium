@@ -878,3 +878,22 @@ pages. Continuing to CO009.
   existing cited-in coverage is adequate. Inherited parallels bullets (Larrick 2004,
   Pronin et al. 2002) unopened — flagged here, not certified; parallels/practice
   sections untouched per protocol.
+
+### CO040 (2026-10-20, worker-p1h-9f42e6c7)
+
+- Source opened: Camerer, Loewenstein & Weber 1989, "The Curse of Knowledge in Economic
+  Settings: An Experimental Analysis", Journal of Political Economy 97(5):1232-1254.
+  Raw PDF text via pdftotext from the CMU-hosted copy
+  (https://www.cmu.edu/dietrich/sds/docs/loewenstein/CurseknowledgeEconSet.pdf).
+- Blockquote verified character-for-character against the raw text (p. 1235: "Better-informed
+  agents should ignore their additional information when forecasting the forecasts of
+  less-informed agents."). Paraphrase anchors: abstract's "approximately 50 percent but
+  do not eliminate it" market result; the E[E(X|Io)|I1] "somewhere between" formal
+  statement; the design (51 students' earnings estimates, assets paying a dividend equal
+  to those estimates, informed traders knowing actual earnings); the underwriting
+  analogue (p. 1250 area). No advisor QC (item 2 of session; QC due at every 5th item;
+  validator + supervisor spot-check cover the gap).
+- Linked-concept reads: Curse of knowledge concept (cited-in consistent), Expert blind
+  spot, TMI effect. Saturation: existing coverage adequate; no new reciprocal proposed.
+  Inherited parallels bullets (Keysar 2003, Newton 1990, Nickerson 1999) unopened —
+  flagged, not certified; parallels/practice sections untouched per protocol.
