@@ -12,11 +12,24 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 ---
 > **Principle 41** — Trust intuition in the right domains: it is not always wrong
 
-Intuition is not the opposite of reason; it is compressed expertise. In domains where you have deep experience and rapid, clear feedback (chess, firefighting, nursing), intuition is often more accurate than deliberate analysis. In domains with poor feedback or high complexity, intuition is unreliable.
+Kahneman, who studies how judgment goes wrong, and Klein, who studies how experts get it right, spent years disagreeing and then co-wrote a paper on where they agree. Their answer is about the setting where the intuition was learned:
 
-**Plain words** Intuition is not the opposite of reason — it's compressed expertise. In domains where you have deep experience and rapid, clear feedback (chess, firefighting, nursing), intuition is often more accurate than analysis. In domains without feedback, intuition is confidence without brakes. Trust it where you've earned it.
+> "An environment of high validity is a necessary condition for the development of skilled intuitions. Other necessary conditions include adequate opportunities for learning the environment (prolonged practice and feedback that is both rapid and unequivocal)." (Kahneman and Klein, 2009, [American Psychologist 64(6), p. 524](http://bear.warrington.ufl.edu/brenner/mar7588/Papers/kahneman-klein-2009.pdf))
 
-*For example:* The veteran nurse who "just knows" the patient is going downhill before the monitors agree — earned intuition, thousands of feedback loops deep — versus the same confidence in the stock market, where feedback is slow, noisy, and lies. Same feeling; only one is expertise.
+They define a high-validity environment as one with "stable relationships between objectively identifiable cues and subsequent events". Medicine and firefighting are "fairly high validity". Predictions of "the future value of individual stocks and long-term forecasts of political events" are made in a zero-validity environment (p. 524). One of their examples is neonatal intensive care nurses who could detect infants developing life-threatening infections "even before blood tests came back positive" (p. 517).
+
+The warning that matters most for the principle is about confidence. Experts may know when they don't know, but nonexperts "certainly do not know when they don't know", and the authors conclude that "Subjective confidence is therefore an unreliable indication of the validity of intuitive judgments and decisions" (p. 524). A strong gut feeling cannot tell you which kind of setting you are in.
+
+**Plain words**
+Trust a gut feeling only in a field where you have had years of quick, clear feedback on whether you were right. Elsewhere the feeling is just as strong and means much less. Ask about the field first, then about the feeling.
+
+**For example**
+An experienced nurse senses that a baby is getting sicker before the tests show it. She has seen many such cases and learned quickly how they turned out. A friend with equal certainty about which stock will rise has had no such training, because prices give no clear feedback on his reasoning. The feelings are the same and the environments are not.
+
+## Sources
+
+- [Kahneman and Klein, Conditions for intuitive expertise: a failure to disagree, American Psychologist 64(6) (2009), pp. 515-526](http://bear.warrington.ufl.edu/brenner/mar7588/Papers/kahneman-klein-2009.pdf): p. 517 (NICU nurses), p. 524 (summary points on validity, learning conditions, confidence); opened and text-checked
+
 ## Psychology parallels
 
 - **[[Expert intuition (Klein's recognition-primed decision model)|Expert intuition (Klein's recognition-primed decision model)]]**, experienced decision-makers in high-feedback domains make fast, accurate intuitive decisions (Klein, 1998; Kahneman & Klein, 2009)
