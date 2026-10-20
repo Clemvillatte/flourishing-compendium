@@ -25,7 +25,8 @@
   "BI046",
   "BI047",
   "CO032",
-  "CO037"
+  "CO037",
+  "CO046"
  ],
  "in_progress": null,
  "flagged": {
@@ -45,10 +46,11 @@
   "BI026": "Self-esteem/cognition claims unsupported; self-esteem parallel cites Gordon 2018 (depression only); Stathopoulou/Tucker not opened",
   "BI047": "Jacobson 1938, Lehrer&Gevirtz 2014 not opened; 5s/15s timings unverified; Khir 2024 via excerpt",
   "CO032": "Thaler 1980 not opened; culture parallel loosely phrased",
-  "CO037": "Entry conflates FAE with actor-observer asymmetry (Malle 2006: no asymmetry); culture parallel narrowed; Ross 1977/Nisbett 2001 not opened"
+  "CO037": "Entry conflates FAE with actor-observer asymmetry (Malle 2006: no asymmetry); culture parallel narrowed; Ross 1977/Nisbett 2001 not opened",
+  "CO046": "Parallel attributes brooding finding to Nolen-Hoeksema 2000, which is about rumination overall; Watkins 2011 small (n=42) no attention control"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T10:32:38+00:00",
+ "updated": "2026-10-20T10:33:16+00:00",
  "band_done": false
 }

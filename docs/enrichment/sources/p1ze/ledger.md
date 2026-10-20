@@ -184,3 +184,8 @@ Per-item evidence notes (owner concise-bar items 6-7). Manifest: BE012..CO061, 3
 - Substantive correction: the entry merges the FAE/correspondence bias (supported) with the actor-observer asymmetry (Malle 2006 meta-analysis: no asymmetry across valence). Body now separates them.
 - Ross 1977, Nisbett et al. 2001 not opened; Jones & Harris original not read in full.
 - QC: self-QC only; validator pass.
+
+## CO046 — Rumination
+- Sources opened: Nolen-Hoeksema 1991, 2000 abstracts; Nolen-Hoeksema/Wisco/Lyubomirsky 2008 abstract; Treynor et al. 2003 (author PDF excerpts); Whitmer & Gotlib 2011 abstract; Watkins et al. 2011 (Br J Psychiatry) abstract. Quotes verified verbatim.
+- Corrections: the 2000 paper concerns rumination overall (predicts onset; not chronicity after baseline control), not the brooding subcomponent; brooding/reflection split blurs in currently depressed (Whitmer & Gotlib). Watkins 2011 is Br J Psychiatry, n=42, no attention-control group.
+- QC: self-QC only; validator pass.
