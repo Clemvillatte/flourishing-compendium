@@ -81,7 +81,7 @@ mind, Premeditatio malorum). The concepts namespace must NOT contain:
 - Spotlight vs floodlight attention
 - Intrinsic versus extrinsic goals
 - Attentional breadth global vs local processing
-- Autonomous versus controlled motivation
+- Autonomous versus controlled motivation -> granulars CREATED 2026-10-20 by worker-p1f-9d3f7c2b: [[Autonomous motivation]] + [[Controlled motivation]] (SDT, Ryan & Deci 2000 classic-definitions review, quotes verbatim from the opened selfdeterminationtheory.org PDF); comparison page rewritten as relational exposition linking both. Finer granulars (Identified motivation, Introjected motivation) remain under the first entry above for a future pass.
 - Process versus outcome focus
 - Problem vs. mystery
 - Knowing-how versus knowing-that
