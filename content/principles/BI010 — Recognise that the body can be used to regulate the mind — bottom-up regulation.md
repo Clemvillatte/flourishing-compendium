@@ -28,7 +28,7 @@ Here the bodily practice is comfortable, deliberately slower breathing. Notice y
 - [Zaccaro et al. (2018), How Breath-Control Can Change Your Life: A Systematic Review on Psycho-Physiological Correlates of Slow Breathing, Frontiers in Human Neuroscience 12:353](https://www.frontiersin.org/articles/10.3389/fnhum.2018.00353/full)
 ## Psychology parallels
 
-- **Bottom-up regulation via the breath**, the opened review links slow breathing techniques to autonomic changes and CNS activity modifications (Zaccaro et al., 2018)
+- **Bottom-up regulation via the breath**, the review links slow breathing techniques to autonomic changes and CNS activity modifications (Zaccaro et al., 2018)
 - **Slow breathing and arousal**, the studies reviewed report reduced symptoms of arousal and anxiety during paced breathing (Zaccaro et al., 2018)
 
 ## Philosophy parallels
