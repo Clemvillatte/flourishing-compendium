@@ -16,7 +16,7 @@ context constraints shape choices (Thaler and Sunstein, 2008).
 
 ## Related concepts
 
-- [[Designing the environment for virtue]] — the Aristotelian ancestor of arranging options so good acts get repeated
+- [[Designing the environment for virtue]] — the Aristotle-grounded parallel of arranging settings so good acts get repeated
 
 ## Sources
 
