@@ -12,13 +12,20 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 195** — Love the people you live with
 
-Marcus tells himself that humans are made for cooperation. To oppose them is to oppose nature. To be angry at them is to be angry at your own body. Practise love for the people in your daily life, even the difficult ones.
+Marcus rehearses the morning reminder in full: he will meet the busybody, the ungrateful, arrogant, deceitful, envious, unsocial, all of it by reason of their ignorance of what is good and evil. His reason for patience is kinship, not convenience: the wrongdoer participates in the same intelligence and portion of the divinity, so he can neither be injured by them nor be angry with his kinsman nor hate him.
 
-(Med. II.1, II.13, VII.13, VII.22, IX.1, IX.4, IX.11; Disc. III.24.)
+> For we are made for co-operation, like feet, like hands, like eyelids, like the rows of the upper and lower teeth. To act against one another, then, is contrary to nature; and it is acting against one another to be vexed and to turn away.
+> (Marcus Aurelius, Meditations II.1, trans. Long)
 
-**Plain words** Marcus says humans are made to cooperate. Opposing them goes against nature. Being angry with them is like being angry with your own body. Practise loving the people you live with, even the hard ones.
+The compendium's application: the morning rehearsal is a real practice, not a mood. Before the day starts, name the difficult person you are likely to meet and the kinship claim they have on you, then let the first encounter be the conversation rather than the sigh.
+
+**Plain words** Marcus's morning drill: expect the difficult people by name, remember why they are the way they are, in his terms ignorance of good and evil, and remember the kinship claim. His body image does the work: feet and hands and rows of teeth are parts of one thing, and a hand that fights the other hand is malfunctioning, not standing up for itself. Practise on the person you actually live with.
 
 *For example:* Your roommate leaves dishes. You wash them once, then talk about it, without a speech.
+
+## Sources
+
+- [Marcus Aurelius, Meditations II.1 (George Long translation, Wikisource)](https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_II)
 
 ## Stories
 
