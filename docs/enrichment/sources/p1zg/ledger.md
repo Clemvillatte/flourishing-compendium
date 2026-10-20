@@ -47,3 +47,7 @@
 ## PP056
 - Abstracts opened (publisher/repository pages from search results): Magnuson & Barnett 2013 (T&F), Proyer 2013 (EJHR), Proyer 2012 (Zurich repository); quotes verbatim.
 - Limits: Brown (2009) book not opened; full texts not opened; all cross-sectional/correlational. Statement's 'mechanism is suspension of goal-directed striving' and 'creativity, stress recovery' partly unsupported (creativity only via Proyer 2012 ingenuity; recovery not tested). Body states this. Example hypothetical.
+
+## PP061
+- Abstracts: Diener, Oishi & Lucas 2003 (PubMed 12172000), Joshanloo 2014 (Springer page fetched), Uchida et al. 2004 (abstract opened earlier). Quotes verified verbatim.
+- Limits: full texts not opened; statement's 'The principle is not cultural relativism' and 'a practice works differently in collectivist contexts' only partly supported (abstracts show moderation of predictors, not practice-level transfer); body says so. Example hypothetical.
