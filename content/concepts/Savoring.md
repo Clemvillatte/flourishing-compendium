@@ -27,11 +27,13 @@ An example at its smallest: the evening review asks for one moment worth keeping
 
 
 
+
 - [[Gratitude]] — attending to the good while it is here
 - [[Positivity effect]] — the present-oriented emotional goal behind the tilt
 - [[Future time perspective]] — the present-side counterpart the Future orientation neglects
 - [[Peak experiences]] — the deliberate savouring of the experiences that come
 - [[Active constructive responding]] — the concept page lists this topic among its Related entries; this link returns it
+- [[Experience plus reflection]] — the Deweyan pairing of experience and reflection (How We Think, 1910)
 ## Sources
 
 - Bryant and Veroff, 2007

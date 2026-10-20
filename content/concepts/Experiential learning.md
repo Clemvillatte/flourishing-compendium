@@ -32,10 +32,11 @@ The same article describes how the transformation runs: "This transformation of 
 
 ## Related concepts
 
+
 - [[Reflective practice]] — reflection is the cycle's second half
 - [[Deliberate practice]]
 - [[Situated learning theory]]
-
+- [[Experience plus reflection]] — the Deweyan pairing of experience and reflection (How We Think, 1910)
 ## Sources
 
 - Kolb, 1984

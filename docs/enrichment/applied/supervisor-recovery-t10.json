@@ -1,0 +1,42 @@
+{
+ "batch": "supervisor-recovery-t10",
+ "revision": 1,
+ "reciprocal": [
+  {
+   "into": "content/concepts/Experiential learning.md",
+   "link": "Experience plus reflection",
+   "why": "the Deweyan pairing of experience and reflection (How We Think, 1910)"
+  },
+  {
+   "into": "content/concepts/Rumination.md",
+   "link": "Experience plus reflection",
+   "why": "the Deweyan pairing of experience and reflection (How We Think, 1910)"
+  },
+  {
+   "into": "content/concepts/Savoring.md",
+   "link": "Experience plus reflection",
+   "why": "the Deweyan pairing of experience and reflection (How We Think, 1910)"
+  },
+  {
+   "into": "content/concepts/Meaning-making.md",
+   "link": "Experience plus reflection",
+   "why": "the Deweyan pairing of experience and reflection (How We Think, 1910)"
+  },
+  {
+   "into": "content/concepts/Habit.md",
+   "link": "Experience plus reflection",
+   "why": "the Deweyan pairing of experience and reflection (How We Think, 1910)"
+  },
+  {
+   "into": "content/concepts/Habituation.md",
+   "link": "Experience plus reflection",
+   "why": "the Deweyan pairing of experience and reflection (How We Think, 1910)"
+  },
+  {
+   "into": "content/concepts/Growth mindset.md",
+   "link": "Experience plus reflection",
+   "why": "the Deweyan pairing of experience and reflection (How We Think, 1910)"
+  }
+ ],
+ "notes": "w1b legacy recovery tranche 10 (Experience plus reflection family). Original claim-bearing clauses unevidenced in the w1b ledger; neutral clause grounded in the concept page's own sourced opening (Dewey, How We Think 1910). Deliberate practice already linked (skipped). - supervisor-3ef4f549, 2026-10-20"
+}
