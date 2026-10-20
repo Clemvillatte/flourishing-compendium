@@ -73,3 +73,11 @@
 - QC round 1 (advisor, item-10 milestone) HOLD, repairs applied: "What the research says" replaced with "A proposed account" using the advisor's wording (model stays attributed as proposed; phobia-clustering and activation-before-conscious-analysis overclaims removed); blockquote locator now "abstract"; Graded-exposure clause re-derived from that page's own body (ordered steps, no unlearning mechanism claim); Judgment-adds-the-harm clause grounded in that page's Enchiridion 5 doctrine; Courage clause reframed as the compendium's virtue-focused treatment; ERP clause descriptive of the clinical procedure.
 - Validator: FAIL on first pass was an unresolved BE028 wikilink (title uses em-dashes, not colon) — fixed by matching the exact principle title.
 - Saturation: fast-track skip; existing Related lines preserved plus two grounded additions. No reciprocal proposed.
+
+## Fellow feeling
+
+- Fast-track degree 1 (sole edge: SP014 philosophy-parallels entry; SP014's own body records the Hume parallel as previously unopened — now supplied).
+- Opened source: Hume, Treatise of Human Nature Book III (Hume Texts Online, davidhume.org, critical edition). Verified verbatim: the 3.3.1.1 strings passage (blockquote); the minds-similar-in-feelings sentence; the causes-or-effects/converted-into-passion account; the sympathy-produces-sentiment-of-morals sentence (3.3.1.10). The term "fellow-feeling" itself does not appear in Treatise 3.3.1 (checked); the page presents the Treatise's sympathy mechanism per the seed's Book III attribution and does not quote the Enquiry (EPM fetch failed on davidhume.org; term gloss left as a definition-level paraphrase, no EPM quotation used).
+- Related concepts: Sympathy (deg 5), Moral sentiments (deg 6), Emotional contagion (deg 7), all existing with descriptive clauses. No reciprocal proposed.
+- Saturation: fast-track skip.
+- No advisor QC required (item 11).
