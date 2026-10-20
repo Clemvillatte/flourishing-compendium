@@ -4,11 +4,11 @@ id: "B178"
 type: "principle"
 title: "Practice without gaining ideas"
 file: "B178 — Practice without gaining ideas"
-tags: ["buddhism", "topic/psychology"]
+tags: ["buddhism"]
 discipline: "Buddhism"
 number: "178"
 navigation: {"track": "philosophy", "primaryPath": ["NAV-PHILOSOPHY", "NAV-PHIL-BUD"], "alternatePaths": []}
-legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist Principles", "chapter": "B-S09 — LAYER IX — ATTENTION", "parent": ""}
+legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist Principles", "chapter": "B-S08 — LAYER VIII — DAILY LIFE — THE INTEGRATION", "parent": ""}
 ---
 > **Principle 178** — Practice without gaining ideas
 
@@ -30,21 +30,19 @@ When you sit, cook, or write in order to get something out of it, the getting st
 - [Library of Social Science PDF of Zen Mind, Beginner's Mind passages (Suzuki 1970, Weatherhill)](https://www.libraryofsocialscience.com/assets/pdf/Suzuki-Zen_Mind.pdf) — the "no gaining idea... then you do something" passage
 - [Terebess: Shunryu Suzuki's original Los Altos lectures behind ZMBM, "Mistakes in Practice," April 13, 1967](https://terebess.hu/zen/mesterek/ZMBM-Lectures.html) — the "get rid of something extra" passage
 
-## Practice kernels
-
-- [[K260 — No-gaining-idea drill|K260 No-gaining-idea drill]]
-
 ## Psychology parallels
 
-- **[[Approach motivation|Approach motivation and intrinsic motivation]]** (Elliot & Church, 1997; Deci & Ryan, 2000)
+- **[[Process versus outcome focus|Outcome-focus vs process-focus]]**, excessive outcome focus degrades performance and enjoyment (Vallerand, 2010)
 
 ## Philosophy parallels
 
-- **[[Practice without purpose or striving (wu-wei in practice)]]** (Laozi, DDJ 63)
-- **[[Aimlessness (apranihita)]]** (TNH, The Heart of the Buddha's Teaching)
+- **[[Non-seeking|Non-seeking]]** (Suzuki, Zen Mind, Beginner's Mind)
+- **[[Desire|Desire to be without desires]]** (Laozi, Daodejing 64)
 
 <!-- fc: reflections
-What are you currently practicing to gain or achieve?
+Where is your current practice a gaining idea — waiting for calm, enlightenment, a report card? What would sitting without waiting actually feel like?
 %%
-What practice would you continue even if it never gave you the thing you want?
+Meditating to get somewhere: months of frustration. What's your version of the frustrating getting-somewhere?
+%%
+The gaining idea is its own obstacle. What's your current gaining idea, and what would dropping it actually reveal?
 -->
