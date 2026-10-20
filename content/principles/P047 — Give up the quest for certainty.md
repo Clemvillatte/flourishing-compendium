@@ -12,17 +12,31 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 47** — Give up the quest for certainty
 
-The demand for guaranteed outcomes is not strength but flight: from risk into dogma. Act under uncertainty, with intelligence and without guarantees.
+Dewey argues that action takes place in changing, particular situations. However carefully someone judges and plans, other conditions help determine what happens. His criticism targets the hope of escaping practical risk through knowledge understood as separate from action ([The Quest for Certainty, chapter I, pp. 6-8](https://archive.org/stream/questforcertaint032529mbp/questforcertaint032529mbp_djvu.txt)).
+
+> "Judgment and belief regarding actions to be performed can never attain more than a precarious probability." (Dewey, chapter I, p. 6.)
+
+### Care without a guarantee
+
+This philosophical argument does not make caution a weakness or every delay unreasonable. The compendium applies it by distinguishing information that could improve a decision from a demand for an outcome nobody can promise. Whether to proceed still depends on what is at stake and what can be learned.
 
 (Dewey, The Quest for Certainty, 1929.)
 
-**Plain words** The person who needs certainty before acting has chosen a very slow way of never acting. The demand for guaranteed outcomes is flight from risk into dogma — act under uncertainty, with intelligence and without guarantees.
+### Plain words
 
-*For example:* Waiting for the 'right time' to have a child, start the business, write the book — the guarantee never arrives, and the dogma that it might keeps you at the station.
+What do you still need to find out, and how would knowing it change your choice? Write down the unanswered question. If you decide to proceed, name what could go wrong and what would make you reconsider; accepting uncertainty need not mean ignoring it.
+
+### For example
+
+Imagine revising an essay. As a proposed exercise, ask one reader whether the central argument is clear, then decide what to revise. That is a bounded attempt to learn something useful, not a guarantee that every reader will be persuaded.
+
+## Sources
+
+- [John Dewey, The Quest for Certainty: A Study of the Relation of Knowledge and Action (1929), chapter I, pp. 6-8](https://archive.org/stream/questforcertaint032529mbp/questforcertaint032529mbp_djvu.txt): opened primary book transcription; practical uncertainty and the separation of knowing from doing.
 
 ## Psychology parallels
 
-- **[[Intolerance of uncertainty|Intolerance of uncertainty as a transdiagnostic risk factor]]** (Dugas et al., 1998)
+- **[[Intolerance of uncertainty|Intolerance of uncertainty as a transdiagnostic risk factor]]** (Dugas et al., 1998): retained clinical research pointer; Dewey's argument is not a diagnosis or treatment recommendation.
 
 ## Philosophy parallels
 
