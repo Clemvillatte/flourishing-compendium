@@ -10,7 +10,7 @@
   "M014",
   "M048"
  ],
- "in_progress": null,
+ "in_progress": "MO014",
  "flagged": {
   "K051": "Reopened for QC: QC: advisor round-1 FAIL — scope and quote-attribution repairs",
   "K065": "Reopened for QC: QC: advisor batch round-1 repairs",
@@ -20,6 +20,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T10:21:54+00:00",
+ "updated": "2026-10-20T10:22:14+00:00",
  "band_done": false
 }
