@@ -4,7 +4,8 @@
   "Indra's net",
   "Karma",
   "Explore-exploit trade-off research",
-  "Exposure processes"
+  "Exposure processes",
+  "External-locus-of-evaluation research"
  ],
  "in_progress": null,
  "flagged": {
@@ -12,5 +13,5 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:47:44+00:00"
+ "updated": "2026-10-20T11:48:29+00:00"
 }

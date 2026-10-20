@@ -41,3 +41,11 @@
 - QC round 1 (advisor, item-5 milestone) HOLD, repairs applied: "dominant" removed; strategy-list mismatch fixed (attentional focus is Table 6, not one of the eight abstract strategies); habituation contrast scoped to fear reduction within an exposure trial with the advisor's shorter wording; Habituation related-link removed (that page covers Aristotle's virtue habituation, not clinical fear habituation); Expectancy Violations Theory removed (shared terminology, no established relationship); ERP and Experiential avoidance clauses grounded in those pages' own definitions (read before writing).
 - Saturation: fast-track skip; two related links retained with grounded clauses. No reciprocal proposed.
 - Feng shui QC-pending recorded as a persistent state flag (in_progress marker was overwritten by later starts).
+
+## External-locus-of-evaluation research
+
+- Fast-track degree 1 (sole edge: D182 psychology-parallels entry).
+- Opened source: Rogers 1959 (A Theory of Therapy..., in Koch ed., Psychology: A Study of Science Vol 3, McGraw-Hill, pp. 184-256; archive.org PDF) — the "36. Locus of evaluation" glossary entry verified verbatim at p. 210; the therapy-outcomes list item ("He increasingly experiences himself as the locus of evaluation") grounded in the same document (surfaced in search snippet of the same PDF; paraphrased without quotation marks on the page).
+- Related concepts: Unconditional positive regard (exists; clause limited to a structural description of the compendium's Rogers cluster to avoid unsupported mechanism claims). No reciprocal proposed.
+- Saturation: fast-track skip.
+- No advisor QC required (item 6).
