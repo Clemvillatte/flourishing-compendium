@@ -51,7 +51,8 @@
   "The whole tradition's turn: re-examine everything",
   "Time affluence",
   "Time perception research",
-  "True self"
+  "True self",
+  "Two modes of attentional control"
  ],
  "in_progress": null,
  "flagged": {
@@ -100,7 +101,7 @@
   "True self": "Reopened for QC: QC round 6: definition-quote continuation and attribution, methods accuracy, negative-aspect narrowing, Heppner separation, Eigentlichkeit link removal, OpenAIRE re-cite"
  },
  "missing_concepts": [],
- "sources_checked": 19,
- "updated": "2026-10-20T08:31:41+00:00",
+ "sources_checked": 20,
+ "updated": "2026-10-20T08:44:04+00:00",
  "band_done": false
 }
