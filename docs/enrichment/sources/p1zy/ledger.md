@@ -93,3 +93,7 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 ## Y120 (2026-10-21)
 - Arnold Gita ch. 3 (enlightened toil; "Those make thou not to stumble"). Quotes verified; verse breaks joined, capitals lowered.
 - Old text's "do not disturb the minds of those attached to action and its rewards; let them work and rejoice" is a paraphrase of another translation's wording and is not in Arnold; replaced by Arnold's "not sowing seed of despair" and "make thou not to stumble". Teaching-beyond-readiness, "hardening" and the one-week modelling practice are the principle's; labelled. Old cite 3.26 not checked against a numbered edition. Plain words replicate replaced; example imagined. Self-QC only.
+
+## Y125 (2026-10-21)
+- Woods HOS 17: 2.28 (p. 172, "173]" head after), 2.29 (p. 177), 2.30 (p. 178), 2.32 (p. 181). Quotes verified except OCR hyphenation ("pro- portion") and Icvara read as Isvara. A first draft dropped the repeated "from" in the 2.30 quote; corrected.
+- The diagnostic grid is the principle's editorial reading and is already labelled so; page confirms. Grid lists differ from Woods: moderation is not an observance (2.32), and "energy" and "grasping" are other renderings of the 2.30 abstentions. Cross-reference to principle 72 untouched. Plain words replicate replaced; example imagined. Self-QC only.
