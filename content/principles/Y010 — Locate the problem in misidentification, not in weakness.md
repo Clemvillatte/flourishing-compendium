@@ -12,13 +12,22 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 10** — Locate the problem in misidentification, not in weakness
 
-The tradition's diagnosis of suffering is structural: pain comes from the alliance of what sees with what is seen, from identifying with the passing show. This reframe matters practically, because it converts suffering from a verdict on you ("I am weak") into a location error ("I am standing in the wrong place"), and location errors can be corrected.
+The Yoga Sutras locate the suffering to be escaped in a structure: the correlation of the seer with the object-of-sight (Woods, [The Yoga-System of Patanjali, sutra ii.17; opened text](https://archive.org/download/yogasystemofpata00wooduoft/yogasystemofpata00wooduoft_djvu.txt)):
 
-(YS 2.17-2.24.)
+> The correlation of the Seer and the object-of-sight is the cause of that which is to be escaped.
 
-**Plain words** The tradition's diagnosis is structural: pain comes from identifying with the passing show — from the alliance of what sees with what is seen. This reframe matters practically, because it converts suffering from a verdict on you ("I am weak") into a case of misidentification, which is correctable.
+(Woods, The Yoga-System of Patanjali, Harvard Oriental Series 17, sutra ii.17; [opened text, Internet Archive](https://archive.org/download/yogasystemofpata00wooduoft/yogasystemofpata00wooduoft_djvu.txt).)
 
-*For example:* Someone whose stage fright reads as "I'm broken" — reframes it as "the instrument is misidentified with the audience's judgment" — and the same pounding heart becomes a technical problem with tools, not a character flaw.
+The cause of that correlation is named at sutra ii.24: "The reason for this [correlation] is undifferentiated-consciousness (avidya)" (Woods, [sutras ii.23-ii.24, opened text](https://archive.org/download/yogasystemofpata00wooduoft/yogasystemofpata00wooduoft_djvu.txt)). The reframe matters practically: a location error can be corrected, and a verdict on your character cannot.
+
+### Plain words
+
+The diagnosis is not that you are weak; it is that the seeing has joined what it sees. That is a location error, and location errors have tools. "I am broken" has none.
+
+### For example
+
+Suppose someone's stage fright reads to them as "I am broken". Re-read as the instrument of seeing joined to the audience's judgment, the same pounding heart becomes a technical problem with tools: preparation and graded exposure. The reframed problem is workable.
+
 ## Psychology parallels
 
 - **Reattribution and externalization in cognitive therapy**, the technique of relocating problems from self-verdicts to identifiable, changeable mechanisms (Beck, 1976)

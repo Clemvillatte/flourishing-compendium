@@ -10,3 +10,6 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 ## Y009 (2026-10-21)
 - Woods HOS 17 pp. 115-116 (sutra 2.6 and Vyasa/Vacaspati commentary; page from the "[116" running head; sutra sits on p. 115). Quotes verified word-for-word (spacing before semicolons in OCR ignored).
 - Old claim "the tradition considers destroying identity neither possible nor useful at the outset" and "hold it as a working hypothesis" are not in the opened commentary, which treats the merge as an error whose removal is Isolation. Page now labels the working-hypothesis practice as a modern gloss. Plain words replicate replaced; manager example replaced by an imagined one. Self-QC only.
+
+## Y010 (2026-10-21, worker-p1zy-4c1e7f9d)
+- Woods HOS 17 OCR opened (https://archive.org/download/yogasystemofpata00wooduoft/yogasystemofpata00wooduoft_djvu.txt). Quotes verified: sutra ii.17 ("The correlation of the Seer and the object-of-sight is the cause of that which is to be escaped.", p. 140 running head) and ii.24 ("The reason for this [correlation] is undifferentiated-consciousness (avidya).", p. 166). "Two pages later" page claim removed (sutra numbers cited instead; the printed pages are far apart). Self-QC only (session end); no advisor round on this item — next worker please re-verify.
