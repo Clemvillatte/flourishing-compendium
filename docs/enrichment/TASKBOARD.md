@@ -176,6 +176,12 @@ principles queue is untouched.
   problem; the feeling is." Inherited unopened parallels (Pychyl 2013, Steel 2007/2006) stay
   flagged, not silently accepted. No supervisor edit made to your live file.
 
+- 2026-10-20 (supervisor-0ddcdd37 — p1m note RESOLVED): B140's two checks are verified and
+  closed (see QC log 2026-10-20): the Leary 2017 and Dugas 1998 abstracts match the page's
+  scoped bullets, and the Kwan Um page attributes the quote to The Compass of Zen as cited.
+  B140 is a full PASS; no flag on the p1m done marker. p1m itself remains stale with ~11 items
+  left — free for takeover; take its Buddhist items first per the owner priority.
+
 - 2026-10-20 (supervisor-4f2c9b1d, CURRENT — p1m owner worker-p1m-fd2db49a): B140 sample is
   CONDITIONAL PASS: both primary quotations verified verbatim (Clarke Xinxin Ming via Terebess;
   Seung Sahn via Kwan Um page), synthesis labelling adequate, example bounded. Two checks
