@@ -7,15 +7,15 @@ file: "Parasympathetic activation"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-P"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter P", "parent": ""}
 ---
-Parasympathetic activation names the engagement of the parasympathetic branch of the autonomic nervous system. In the research reviewed here the branch's activity is inferred from cardiac measures — heart rate variability (HRV) and respiratory sinus arrhythmia (RSA), the speeding and slowing of the heart that follows the breath — rather than measured directly.
+Parasympathetic activation names the engagement of the parasympathetic branch of the autonomic nervous system. The studies reviewed here concern cardiac parasympathetic involvement: they infer it from heart rate variability (HRV) and respiratory sinus arrhythmia (RSA), the speeding and slowing of the heart that follows the breath.
 
 ### Slow breathing
 
-The voluntary lever this research relies on is slowed breath frequency: the review's Background states that the psycho-physiological changes observed in most meditative and relaxing practices rely on voluntary slowing down of breath frequency ([Zaccaro et al., 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC6137615/)). Its summary of the findings:
+The review's Background states that the psycho-physiological changes observed in most meditative and relaxing practices rely on voluntary slowing down of breath frequency, and it defines its subject as slow breathing techniques of under ten breaths per minute ([Zaccaro et al., 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC6137615/)). Its summary of the findings:
 
 > “Slow breathing techniques seem to promote a predominance of the parasympathetic autonomic system with respect to the sympathetic one, mediated by the vagal activity (Streeter et al., 2012; Brown et al., 2013).” ([Zaccaro et al., 2018, Front Hum Neurosci 12:353](https://pmc.ncbi.nlm.nih.gov/articles/PMC6137615/), Discussion)
 
-The review reports that slow breathing techniques increase HRV and RSA, and that HRV modulation depends on respiration frequency, increasing as the breath slows ([Zaccaro et al., 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC6137615/), Discussion).
+In the reviewed studies the techniques seem to interact with the cardio-respiratory system by increasing HRV and RSA, and the review notes that HRV modulation depends on respiration frequency, increasing along with the slowing of breath ([Zaccaro et al., 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC6137615/), Discussion).
 
 ### Biofeedback and the baroreflex
 
@@ -23,15 +23,15 @@ Heart-rate-variability biofeedback (HRVB) is a procedure in which beat-by-beat h
 
 > “During HRV biofeedback, the amplitude of heart rate oscillations grows to many times the amplitude at rest, while the pattern becomes simple and sinusoidal.” ([Lehrer and Gevirtz, 2014, Front Psychol 5:756](https://pmc.ncbi.nlm.nih.gov/articles/PMC4104929/), section “Mechanisms by which high-amplitudes of HRV are achieved during HRV biofeedback”)
 
-On why the method works, the abstract states the candidate mechanism with its own hedge:
+Lehrer and Gevirtz propose a baroreflex mechanism:
 
-> “The most supported possible mechanism is the strengthening of homeostasis in the baroreceptor (Vaschillo et al., 2002; Lehrer et al., 2003).” ([Lehrer and Gevirtz, 2014, Front Psychol 5:756](https://pmc.ncbi.nlm.nih.gov/articles/PMC4104929/), abstract)
+> “The most supported possible mechanism is the strengthening of homeostasis in the baroreceptor (Vaschillo et al., 2002, 2006; Lehrer et al., 2003).” ([Lehrer and Gevirtz, 2014, Front Psychol 5:756](https://pmc.ncbi.nlm.nih.gov/articles/PMC4104929/), abstract)
 
 ### In the compendium
 
-- [[B094 — Cultivate tranquility (passaddhi)]] and [[B042 — Develop calm (samatha)]] — the Buddhist calm principles cite this concept in their psychology parallels (B094 for the Zaccaro review, B042 as “Parasympathetic activation and HRV”)
+- [[B094 — Cultivate tranquility (passaddhi)]] and [[B042 — Develop calm (samatha)]] — the Buddhist calm principles link this concept in their psychology parallels (B094 for the Zaccaro review, B042 as “Parasympathetic activation and HRV”)
 - [[BI045 — Learn slow breathing — a direct autonomic regulator]] — the slow-breathing principle quotes the same Zaccaro review for its mechanism
-- [[BI051 — Learn to use touch — self-soothing through contact]], [[BI050 — Learn to use warm temperature — warmth is soothing]] and [[BE048 — Learn to use the dive reflex — cold water for acute distress]] — principles that state touch, warmth and the dive reflex activate the parasympathetic system
+- [[BI051 — Learn to use touch — self-soothing through contact]], [[BI050 — Learn to use warm temperature — warmth is soothing]] and [[BE048 — Learn to use the dive reflex — cold water for acute distress]] — principles that state in plain text that touch, warmth and the dive reflex activate the parasympathetic system
 - [[BI002 — Recognise that the autonomic nervous system has two branches — arousal and restoration]] — the branch structure; its body uses HRV research on the balance between the branches
 
 ## Facets
@@ -40,17 +40,11 @@ On why the method works, the abstract states the candidate mechanism with its ow
 
 ## Related concepts
 
-- [[Autonomic nervous system (sympathetic vs parasympathetic)]] — the parent structure whose branches this concept names
-- [[Heart rate variability theory]] — HRV as the measure the research infers the state from
-- [[Respiratory sinus arrhythmia research]] — RSA, the breathing-linked rhythm the review links to parasympathetic involvement
-- [[Heart-rate-variability biofeedback]] — the procedure described above, in concept form
+- [[Autonomic nervous system (sympathetic vs parasympathetic)]] — the two-branch structure; this concept names the engagement of one branch, and the page shares the Lehrer and Gevirtz source
+- [[Heart rate variability theory]] — the theory of HRV as an index of cardiac vagal tone and self-regulation; the measure this concept's studies read
+- [[Respiratory sinus arrhythmia research]] — RSA, the breathing-tied heart rhythm, studied on its own page as an index of vagal tone
+- [[Heart-rate-variability biofeedback]] — the procedure the concept's second source reviews
 - [[Slow-paced breathing]] — the practice the review's findings come from; its page quotes the same review
-- [[Polyvagal theory (Porges)]] — Porges's vagal account of the autonomic system
-- [[Anapanasati (mindfulness of breathing)]] — Buddhist breath-attention practice, one of the meditative practices the review's Background covers
-- [[Mindfulness]] — the awareness practice; its breath anchors belong to the meditative practices the review describes
-- [[Yangsheng (cultivating vitality)]] — Daoist nourishment practice, framed on its page as nourishment rather than performance
-- [[Qi]] — traditional energy concept, described on its page as a cultivable flow
-- [[The lived body]] — the felt body that cardiac measures only index
 
 ## Sources
 

@@ -19,68 +19,32 @@
     {
       "into": "Autonomic nervous system (sympathetic vs parasympathetic)",
       "link": "Parasympathetic activation",
-      "why": "The parent-branch concept and the branch-activation concept: Parasympathetic activation defines itself as engagement of the parasympathetic branch of the autonomic nervous system, and the concept page links the parent in Related. The parent page currently does not link back (rg-verified absence).",
-      "_audit_why": "target file checked via rg for absence of the link; file not read in full this session"
+      "why": "Target page (read in full, 31 lines) is a seed: 'two branches with opposing effects on arousal, digestion, and restoration (Lehrer & Gevirtz, 2014; Thayer et al., 2012)', citing the same Lehrer and Gevirtz source as the concept page. Parasympathetic activation names the engagement of one of those two branches; the parent page does not yet link it (rg-verified absence).",
+      "_audit_why": "target page read in full this session (read tool); absence of the link verified by rg"
     },
     {
       "into": "Heart rate variability theory",
       "link": "Parasympathetic activation",
-      "why": "Parasympathetic activation names HRV as the main indirect index of the state and links Heart rate variability theory in Related; the HRV page does not link back (rg-verified absence).",
-      "_audit_why": "target file checked via rg for absence of the link; file not read in full this session"
+      "why": "Target page (read in full, 66 lines) presents HRV as an index of cardiac vagal tone and self-regulation (Park & Thayer 2014; Williams et al. 2015) \u2014 the measure the concept page's studies read. The HRV theory page does not link Parasympathetic activation (rg-verified absence).",
+      "_audit_why": "target page read in full this session (read tool); absence of the link verified by rg"
     },
     {
       "into": "Respiratory sinus arrhythmia research",
       "link": "Parasympathetic activation",
-      "why": "RSA is the breathing-linked heart rhythm the concept page treats as the measurable signature of parasympathetic activation (Zaccaro et al. 2018); the RSA research page does not link back (rg-verified absence).",
-      "_audit_why": "target file checked via rg for absence of the link; file not read in full this session"
+      "why": "Target page (read in full, 16 lines) is a seed describing RSA as 'the heart-rhythm modulation tied to breathing \u2014 as an index of vagal tone and emotion-regulation capacity'. RSA is one of the two cardiac measures the concept page's studies infer parasympathetic involvement from; the RSA page does not link back (rg-verified absence).",
+      "_audit_why": "target page read in full this session (read tool); absence of the link verified by rg"
     },
     {
       "into": "Heart-rate-variability biofeedback",
       "link": "Parasympathetic activation",
-      "why": "HRVB is the training procedure built to produce the state (Lehrer and Gevirtz 2014, the concept page's second source); the biofeedback page does not link back (rg-verified absence).",
-      "_audit_why": "target file checked via rg for absence of the link; file not read in full this session"
+      "why": "Target page (read in full, 32 lines) is a seed about the procedure the concept page's second source reviews ('slow diaphragmatic breathing raises vagal tone (Lehrer and Gevirtz, 2014)'; its section text also mentions 'slow breathing near six cycles per minute maximises vagal and baroreflex resonance'). The page does not link Parasympathetic activation (rg-verified absence).",
+      "_audit_why": "target page read in full this session (read tool); absence of the link verified by rg"
     },
     {
       "into": "Slow-paced breathing",
       "link": "Parasympathetic activation",
-      "why": "Slow-paced breathing is the voluntary lever the concept page describes for reaching the state; the two pages share the Zaccaro et al. 2018 review as a source. The breathing page does not link back (rg-verified absence).",
-      "_audit_why": "target file checked via rg for absence of the link; file not read in full this session"
-    },
-    {
-      "into": "Polyvagal theory (Porges)",
-      "link": "Parasympathetic activation",
-      "why": "Polyvagal theory is a contested vagal account of the same autonomic system the concept describes; the concept page links it in Related as such. The polyvagal page does not link back (rg-verified absence).",
-      "_audit_why": "target file checked via rg for absence of the link; file not read in full this session"
-    },
-    {
-      "into": "Anapanasati (mindfulness of breathing)",
-      "link": "Parasympathetic activation",
-      "why": "Mindfulness-of-breathing practice and slow-breathing physiology are paired throughout the compendium (BI045, BI061, AT049 cite both); the concept page links Anapanasati in Related. The anapanasati page does not link back (rg-verified absence).",
-      "_audit_why": "target file checked via rg for absence of the link; file not read in full this session"
-    },
-    {
-      "into": "Yangsheng (cultivating vitality)",
-      "link": "Parasympathetic activation",
-      "why": "Yangsheng is Daoist vitality cultivation read alongside restorative physiology; the concept page links it in Related and cites it in philosophy parallels. The yangsheng page does not link back (rg-verified absence).",
-      "_audit_why": "target file checked via rg for absence of the link; file not read in full this session"
-    },
-    {
-      "into": "The lived body",
-      "link": "Parasympathetic activation",
-      "why": "The lived body is the phenomenological register of the bodily regulation the concept describes physiologically; the concept page links it in Related. The page does not link back (rg-verified absence).",
-      "_audit_why": "target file checked via rg for absence of the link; file not read in full this session"
-    },
-    {
-      "into": "Mindfulness",
-      "link": "Parasympathetic activation",
-      "why": "Mindfulness practices' calming correlates include the parasympathetic state (Zaccaro et al. 2018 reviews breath-based practices under this heading); the concept page links Mindfulness in Related. The mindfulness page does not link back (rg-verified absence).",
-      "_audit_why": "target file checked via rg for absence of the link; file not read in full this session"
-    },
-    {
-      "into": "Qi",
-      "link": "Parasympathetic activation",
-      "why": "Qi is the traditional energy concept the compendium pairs with autonomic restoration; the concept page links Qi in both philosophy parallels and Related. The Qi page does not link back (rg-verified absence).",
-      "_audit_why": "target file checked via rg for absence of the link; file not read in full this session"
+      "why": "Target page (read in full, 70 lines) is developed and quotes the same Zaccaro et al. 2018 review for its vagal-predominance and HRV/RSA findings \u2014 the same source as the concept page. The page does not link Parasympathetic activation (rg-verified absence).",
+      "_audit_why": "target page read in full this session (read tool); absence of the link verified by rg"
     }
   ]
 }
