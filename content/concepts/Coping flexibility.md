@@ -7,7 +7,7 @@ file: "Coping flexibility"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-C"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
-Coping flexibility names a family of ideas about handling stressors well: the capacity lies in how strategies are deployed rather than in any single strategy. Cecilia Cheng, Hi-Po Bobo Lau and Man-Pui Sally Chan's meta-analytic review maps the field's diverse conceptualizations of the construct and tests whether it predicts adjustment ([Cheng et al. 2014, abstract](https://pubmed.ncbi.nlm.nih.gov/25222637/)).
+Coping flexibility has been conceptualized as a broad coping repertoire, a balanced coping profile, variation in strategy deployment across situations, a good strategy-situation fit, or perceived ability to cope with environmental changes ([Cheng et al. 2014, abstract](https://pubmed.ncbi.nlm.nih.gov/25222637/)).
 
 > "Researchers have conceptualized coping flexibility in diverse ways: as a broad coping repertoire, a well-balanced coping profile, cross-situational variability in strategy deployment, a good strategy-situation fit, or the perceived ability to cope with environmental changes." (Cheng, Lau and Chan, [Coping flexibility and psychological adjustment to stressful life changes: a meta-analytic review](https://pubmed.ncbi.nlm.nih.gov/25222637/), Psychological Bulletin 140(6):1582-1607, 2014, abstract)
 
@@ -28,7 +28,7 @@ The analysis "covers all available studies conducted between 1978 and 2013 that 
 
 ## Related concepts
 
-- [[Regulatory flexibility theory]] — the coping-side statement of the same idea
+- [[Regulatory flexibility theory]]
 - [[Psychological resilience theory Bonanno]]
 
 ## Sources

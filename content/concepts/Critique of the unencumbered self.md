@@ -7,9 +7,9 @@ file: "Critique of the unencumbered self"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-C"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
-The critique of the unencumbered self is Michael Sandel's objection to a picture of the person he attributes to versions of liberalism found in Kant and John Rawls: a self given prior to and independent of its purposes and ends. His own name for that picture is the unencumbered self.
+Michael Sandel calls the self conceived as given prior to and independent of its purposes and ends the "unencumbered self"; his critique targets versions of liberalism associated with Kant and John Rawls ([Sandel interview](https://www.sourcesjournal.org/articles/an-interview-with-michael-sandel)).
 
-> "Thank you for noticing that theme, which does indeed run through most of my work, going back to my first book Liberalism and the Limits of Justice, which criticizes those versions of liberal, moral and political philosophy that conceive the self as given prior to and independent of its purposes and ends. I call this the 'unencumbered self' of the liberalism one finds in Kant and John Rawls." (Michael Sandel, interviewed by Benjamin Balint, [An Interview with Michael Sandel](https://www.sourcesjournal.org/articles/an-interview-with-michael-sandel), Sources Journal, Spring 2021)
+> "Thank you for noticing that theme, which does indeed run through most of my work, going back to my first book Liberalism and the Limits of Justice, which criticizes those versions of liberal, moral and political philosophy that conceive the self as given prior to and independent of its purposes and ends. I call this the 'unencumbered self' of the liberalism one finds in Kant and John Rawls." (Michael Sandel, interviewed by Benjamin Balint, [An Interview with Michael Sandel](https://www.sourcesjournal.org/articles/an-interview-with-michael-sandel), Sources Journal, Spring 2021, his reply to the interviewer's question on the theme running through his work from bioethics to meritocracy)
 
 ### The communitarian framing
 
