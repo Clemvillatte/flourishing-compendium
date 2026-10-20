@@ -14,7 +14,6 @@
   "SP035",
   "SP048",
   "SP092",
-  "A090",
   "A094",
   "A105",
   "AF003",
@@ -24,7 +23,7 @@
   "A058",
   "A085"
  ],
- "in_progress": null,
+ "in_progress": "A090",
  "flagged": {
   "Y083": "Reopened for QC: QC correction round 2: add BG 6.10 citation to second sentence",
   "SO075": "Reopened for QC: QC correction round 2: remove clinical claims in example",
@@ -37,10 +36,11 @@
   "A031": "Reopened for QC: QC correction: restore For, add citations",
   "A033": "Reopened for QC: QC correction: remove experience-test inference, fix quotation",
   "A058": "Reopened for QC: QC correction: preserve conditional status, remove example",
-  "A085": "Reopened for QC: QC correction: remove capacity mechanism, restore moderate-degree clause"
+  "A085": "Reopened for QC: QC correction: remove capacity mechanism, restore moderate-degree clause",
+  "A090": "Reopened for QC: QC correction: remove hours division and clinic claim"
  },
  "missing_concepts": [],
  "sources_checked": 3,
- "updated": "2026-10-20T08:23:15+00:00",
+ "updated": "2026-10-20T08:23:23+00:00",
  "band_done": false
 }
