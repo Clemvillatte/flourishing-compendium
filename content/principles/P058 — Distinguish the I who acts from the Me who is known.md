@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 58** — Distinguish the "I" who acts from the "Me" who is known
 
-Mead's distinction is compressed into one sentence: "The 'I' is the response of the organism to the attitudes of the others; the 'me' is the organized set of attitudes of others which one himself assumes" (Mind, Self and Society, p. 175, [text](https://archive.org/download/mead-1934/mead%201934.pdf)). The two arrive at different times. Of the acting self he says: "The 'I' appears in our experience in memory. It is only after we have acted that we know what we have done; it is only after we have spoken that we know what we have said" (p. 196). The known self is the settled part: "The 'me' is a conventional, habitual individual. It is always there" (p. 197).
+Mead's distinction is compressed into one sentence: "The 'I' is the response of the organism to the attitudes of the others; the 'me' is the organized set of attitudes of others which one himself assumes" (Mind, Self and Society, p. 175, [text](https://archive.org/download/mead-1934/mead%201934.pdf)). Of the acting self he says: "The 'I' appears in our experience in memory. It is only after we have acted that we know what we have done; it is only after we have spoken that we know what we have said" (p. 196). The known self is the settled part: "The 'me' is a conventional, habitual individual. It is always there" (p. 197).
 
 > "The 'I' both calls out the 'me' and responds to it. Taken together they constitute a personality as it appears in social experience. The self is essentially a social process going on with these two distinguishable phases." (Mead, Mind, Self and Society, p. 178, [text](https://archive.org/download/mead-1934/mead%201934.pdf))
 
@@ -28,12 +28,12 @@ Imagine a meeting where you expect to agree, having learned to see yourself as t
 
 ## Psychology parallels
 
-- **[[Self-as-context|Self-as-context in ACT]]**, the observing perspective versus self-as-content (Webster, 2011)
+- **[[Self-as-context|Self-as-context in ACT]]**, the observing perspective versus self-as-content (Webster, 2011, [article](https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/introduction-to-acceptance-and-commitment-therapy/D67B44FDED4147CA35C1AA8FA9D3DDA5))
 
 ## Philosophy parallels
 
 - **[[The I and the Me|The I and the Me]]** (Mead, Mind, Self and Society)
-- **The thinker is another thought**, this compendium's own formulation (B075); the opened Milindapanha passage supports the narrower claim that a personal name is a designation for the parts assembled (Milindapanha 3.1.1)
+- **The thinker is another thought**, this compendium's own formulation (B075); the Milindapanha passage supports the narrower claim that a personal name is a designation for the parts assembled (Milindapanha 3.1.1, [text](https://suttacentral.net/mil3.1.1/en/tw_rhysdavids))
 
 <!-- fc: reflections
 Where are you currently confusing the acting "I" with the known "Me" — treating the narrated self as the doer? What's the confusion?

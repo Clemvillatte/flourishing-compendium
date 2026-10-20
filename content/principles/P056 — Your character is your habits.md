@@ -33,12 +33,12 @@ Take the person who says they value fitness and owns a dusty bike, next to the p
 ## Psychology parallels
 
 - **[[Habit|Habit and identity]]**, context-triggered responses without a mediating goal (Wood and Neal, 2007)
-- **[[Identity|Identity-based habits]]** (Clear)
+- **[[Identity|Identity-based habits]]** (Clear, [article](https://jamesclear.com/identity-based-habits))
 
 ## Philosophy parallels
 
 - **[[The empirical self|The empirical self]]** (James, The Principles of Psychology)
-- **[[Habit|Habit as second nature]]** (Aristotle, Nicomachean Ethics II)
+- **[[Habit|Habit as second nature]]** (Aristotle, Nicomachean Ethics II, [text](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abekker+page%3D1103a))
 - **[[Habit|Habit]]** (Pragmatism)
 
 <!-- fc: reflections

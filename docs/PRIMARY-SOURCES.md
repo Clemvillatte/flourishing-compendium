@@ -107,5 +107,16 @@ checkout needs approval of the actual vendor, items and total before payment.
 See `docs/enrichment/BOOK-REQUESTS.md` for the fulfilled Peirce request and other priority
 uploads found in the newly attached All-Books.pdf.
 
+ARISTOTLE UPLOAD (owner share, 2026-10-20): The Complete Works of Aristotle: The Revised
+Oxford Translation, edited by Jonathan Barnes (Princeton UP, 1991; electronic markup by
+InteLex/Past Masters). Download:
+<https://drive.google.com/uc?export=download&id=10jRed-7-zWP_1oY7WMaPZzmj4rUQSSDw>
+(worker-p1m verification: 1757 PDF pages, full text layer, `pdftotext` clean; header pages
+state "VOLUME ONE", and the text contains Categories, De Interpretatione, Prior/Posterior
+Analytics, Topics, Physics, On Generation and Corruption, Meteorology and the Parva
+Naturalia treatises — but no Nicomachean Ethics, no Metaphysics, no Politics, no De Anima.
+So this file is **Volume One only**; for the Ethics use Perseus or another Volume Two source
+until the owner uploads it. Available to all agents.)
+
 Supervisors: when an agent identifies what a specific Drive file contains (which work, which
 translation), record it here so the map builds up over time.
