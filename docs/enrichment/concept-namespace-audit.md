@@ -116,12 +116,14 @@ mind, Premeditatio malorum). The concepts namespace must NOT contain:
 - The right amount of effort (2026-10-20, worker-j9fpiyf, w1g, fast-track): the page title is the
   compendium's own heading; the opened source (Nicomachean Ethics II.5-6, Ross via MIT Classics)
   grounds the doctrine of the mean the heading points at, but no opened source uses "the right
-  amount of effort" as a named term. Web search (2026-10-20) confirms "right amount" language is
-  used by scholarship ABOUT the doctrine of the mean (e.g. "the right amount of shame"), not as
-  an independent construct. No existing concept page for the doctrine of the mean itself (title
-  searches for "golden mean"/"doctrine of the mean" return only layer A-S02 and principle A005).
-  ADVISOR QC round 1 requested this flag. Rename candidate (e.g. "Doctrine of the mean") or keep
-  as heading, per the w1g pattern; links and researched body preserved.
+  amount of effort" as a named term. The searches performed (2026-10-20, one web search plus
+  truncated title searches) did not establish the exact title as a named construct, and did not
+  establish that no duplicate heading exists; the naming decision is left with the supervisor.
+  Body QC round 2: advisor PASS on the Aristotle prose (quote fidelity, paraphrase bounds,
+  humanizer, preservation against baseline 0e713785 all verified); title/identity awaiting
+  supervisor disposition. The item is NOT marked done pending this disposition; the researched
+  text is pushed as WIP. Rename candidate (e.g. "Doctrine of the mean") or keep as heading, per
+  the w1g pattern; all inherited links and the researched body preserved.
 
 - The analysis of experience into elements (2026-10-20, worker-p1r-ae2a1b83, w1g, fast-track): the
   page title is the compendium's own heading for the PRACTICE of decomposing lived experience into

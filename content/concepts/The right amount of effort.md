@@ -7,7 +7,7 @@ file: "The right amount of effort"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-In the Nicomachean Ethics II.6, Aristotle describes moral virtue as a state of character concerned with choice. It aims at a mean relative to the person, determined by a rational principle and the judgement of someone with practical wisdom. Timing, object, motive and manner all matter to what counts as an appropriate response.
+In the Nicomachean Ethics II.6, Aristotle describes moral virtue as a state of character concerned with choice. It aims at a mean relative to the person, determined by a rational principle and the judgement of someone with practical wisdom. Timing, object, motive and manner all matter to what counts as an appropriate response. He applies the measure to feelings such as fear, anger and pity.
 
 > "but to feel them at the right times, with reference to the right objects, towards the right people, with the right motive, and in the right way, is what is both intermediate and best, and this is characteristic of virtue." (Aristotle, Nicomachean Ethics II.6, [W. D. Ross translation, MIT Classics](http://classics.mit.edu/Aristotle/nicomachaen.2.ii.html))
 
@@ -19,7 +19,6 @@ The doctrine has a boundary. Some acts, such as theft or adultery, admit no righ
 
 ## Related concepts
 
-- [[Right effort]]
 - [[Virtue]] — moral virtue, which this chapter characterizes as a mean between excess and defect
 
 ## Sources
