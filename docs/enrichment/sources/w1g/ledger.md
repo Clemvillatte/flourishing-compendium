@@ -1225,3 +1225,26 @@ Advisor QC found batch-level and per-item issues; all repaired. Findings and rep
   (--fast-track, no link losses vs HEAD); item reopened then re-done with this
   round recorded. Round-2 verdict: "sufficient for scoped fast-track acceptance
   once verified; no further Workability research needed."
+
+## Yoga: union of body, breath, and mind (2026-10-20, worker-p1zs-7a4e2c91, fast-track; degree ~10 — eligible)
+
+- OPENED: IEP "The Yoga Sutras of Patanjali" https://iep.utm.edu/yoga/ (raw fetch) —
+  blockquote verified character-for-character in the fetched text: 'Yoga is defined by
+  Patañjali as "citta vṛtti nirodha" (YS I.2), the stilling of all states of the
+  citta.' Also used: the Mahābhārata ~900-references/2-āsana note; the
+  "stretching exercises and bodily poses" fragment; the "essentially a modern
+  Western phenomenon and finds no precedent in the premodern Yoga tradition"
+  fragment (all verified in the fetched text). OPENED: Wikipedia Yoga
+  https://en.wikipedia.org/wiki/Yoga — yuj etymology sentence quoted ("to attach,
+  join, harness, yoke"); eight-limbed reference not used in quotes.
+- In-the-compendium clauses verified against the actual principle files: BI029
+  (Streeter RCT context read), BI021 ("Gentle movement (walking, stretching,
+  yoga) close to bedtime is fine"), P139 (yoga appears via K201 link only),
+  BI060/Y047/AT049/D053 titles + yoga mentions grepped.
+- IS-IT-A-CONCEPT check: the title names the tradition's own practical synthesis
+  (a named practice with a primary text and a defined place in the tradition);
+  the body honestly splits the modern posture framing from the classical YS I.2
+  definition per the opened IEP. No namespace-audit entry (grep).
+- Saturation: skipped per fast-track §1a (degree < 15); no cross-link proposals
+  filed; noted in batch log. Advisor QC: not due (item 2 of session; next at
+  item 5 per speed directive).
