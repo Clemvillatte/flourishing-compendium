@@ -10,9 +10,13 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST 
 ---
 *Scientific/biographical narrative · United States, 1975 · [Mihaly Csikszentmihalyi](https://en.wikipedia.org/wiki/Mihaly_Csikszentmihalyi)*
 
-Csikszentmihalyi begins with an anomaly: rock climbers, chess players, surgeons, and dancers describe their most satisfying hours not as rest but as effortful absorption. They are not doing it for money or fame; when asked why, they say something like "the experience itself." He builds the research programme around this autotelic experience, cataloguing its conditions: clear goals, immediate feedback, skills matched to challenge.
+Csikszentmihalyi opens the book with the anomaly: people who risk their lives climbing rocks, who devote themselves to art, who spend their energies playing chess, apparently giving up material rewards for the experience of performing enjoyable acts.
 
-Beyond Boredom and Anxiety is the first book of the flow research, and its origin in climbers rather than patients is significant. Csikszentmihalyi started from lives already organised around the quality of experience, and worked backward to the conditions, rather than forward from pathology.
+The research programme he built around this studied chess, rock climbing, rock dancing, and surgery, and the six themes his interviews produced across those domains. His definition of the state, as given in the book, is that the activity provides opportunities for action that match a person's skill, limits the perceptual field, excludes irrelevant stimuli, contains clear goals and adequate means for reaching them, and gives clear and consistent feedback to the actor.
+
+> "[a flow activity] provides opportunities for action which match a person's skill, limits the perceptual field, excludes irrelevant stimuli, contains clear goals and adequate means for reaching them, and gives clear and consistent feedback to the actor." ([Csikszentmihalyi, Beyond Boredom and Anxiety, as quoted in the York review](https://www-users.york.ac.uk/~ss44/books/pages/c/MihalyCsikszentmihalyi.htm))
+
+The origin in climbers and other practitioners rather than in patients is part of the story: the book began from lives already organised around the quality of experience.
 
 
 
