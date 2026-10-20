@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Cultural psychology” — Markus and Kitayama, 1991; Shweder, 1991.
 
+## Related concepts
+
+- [[SO044]] — SO044's psychology parallels list the cultural-variance literature (Henrich et al. 2010; Medin et al. 2017)
+
 ## Sources
 
 - Markus and Kitayama, 1991

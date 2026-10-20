@@ -21,7 +21,7 @@ Pranayama is the regulation of the breath after posture is established: making t
 *For example:* Before the difficult conversation, someone takes five slow breaths, long exhales — not as ritual, as engineering. The tradition named the effect; the physiology agrees; the conversation goes differently.
 ## Psychology parallels
 
-- **Slow breathing and parasympathetic engagement**, a systematic review of psycho-physiological correlates (Zaccaro et al., 2018)
+- **Slow breathing and [[Parasympathetic activation|parasympathetic engagement]]**, a systematic review of psycho-physiological correlates (Zaccaro et al., 2018)
 
 ## Philosophy parallels
 

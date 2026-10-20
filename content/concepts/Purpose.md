@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Purpose — the having of a why. Frankl's term for what enables bearing almost any how; Aristotle's final cause in a life.
 
+## Related concepts
+
+- [[Meaning]] — the broader concept in which purpose is one dimension in this compendium
+
 ## Sources
 - Wikipedia Purpose: https://en.wikipedia.org/wiki/Purpose
 

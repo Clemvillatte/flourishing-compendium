@@ -19,7 +19,7 @@ Not all values are equal in their effects on well-being. Intrinsic values (perso
 *For example:* The promotion that was supposed to change everything and changed nothing for more than a fortnight — the status value is real, but it's a hunger that eats its own meal.
 ## Psychology parallels
 
-- **Intrinsic vs extrinsic values (Kasser & Ryan)**, intrinsic values (growth, connection, community) predict well-being; extrinsic values (money, fame, image) do not (Kasser & Ryan, 1993; Kasser, 2002)
+- **[[Intrinsic versus extrinsic goals|Intrinsic vs extrinsic values (Kasser]] & Ryan)**, intrinsic values (growth, connection, community) predict well-being; extrinsic values (money, fame, image) do not (Kasser & Ryan, 1993; Kasser, 2002)
 - **Materialism is associated with lower well-being**, prioritising money and image is associated with lower life satisfaction (Kasser, 2002; Dittmar et al., 2014)
 
 ## Philosophy parallels

@@ -46,4 +46,4 @@ Imagine practising meditation, then checking whether reading a chapter involves 
 
 ## Practice
 
-- Treat attention as a skill that can be trained. Regular meditation, deliberate practice, and attention-friendly environments all improve it. Do not accept "I have a bad attention span" as a fixed trait.
+- Treat attention as a skill that can be trained. Regular meditation, [[Deliberate practice|deliberate practice]], and attention-friendly environments all improve it. Do not accept "I have a bad attention span" as a fixed trait.

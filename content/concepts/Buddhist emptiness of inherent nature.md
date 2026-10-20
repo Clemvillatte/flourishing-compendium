@@ -28,6 +28,7 @@ K011 "See the ego's groundlessness as its nature, not its failure" treats the co
 
 ## Related concepts
 
+
 - [[Shunyata]] — the Sanskrit term's own page, covering the same Madhyamaka doctrine
 - [[Anatta]] — Madhyamaka extends the analysis of persons' lack of independent self to phenomena generally
 - [[Dependent origination]] — the co-arising MMK 24.18 identifies with emptiness
@@ -36,7 +37,7 @@ K011 "See the ego's groundlessness as its nature, not its failure" treats the co
 - [[Dukkha]] — Arnold's reading of chapter 24: suffering can be caused to cease only if contingent
 - [[Interbeing]] — an editorial cross-reading: compare with dependent origination without assuming equivalence
 - [[Tathata, suchness]] — a further reading question: how does "suchness" differ from absence of inherent nature?
-
+- [[B122]] — the page quotes the MMK 24.8 verse that B122 reads
 ## Sources
 
 - [Westerhoff, "Nāgārjuna," Stanford Encyclopedia of Philosophy (2010; rev. 2026)](https://plato.stanford.edu/entries/nagarjuna/) — svabhāva analysis; superimposition; the no-master-argument reading; emptiness of emptiness

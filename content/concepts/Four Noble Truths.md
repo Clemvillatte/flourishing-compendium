@@ -11,7 +11,7 @@ The Four Noble Truths (Pali cattāri ariya saccāni) are the Buddha's first and 
 
 The first truth names dukkha — the fact that experience, grasped, is unsatisfactory. The second names its origin: tanha, craving, which produces renewal of becoming. The third names its cessation: the remainderless fading of that very craving. The fourth names the path: the Noble Eightfold Path. The compendium's reading (principle B008) is the practical one: treat the truths as tasks, not beliefs — a diagnosis-and-prescription for the mind, closer to medicine than metaphysics.
 
-The framework is the Buddhist member of a family of diagnostic traditions: the Stoic discipline of assent to what is, the Aristotelian mean between excess and deficiency, and the medical model of symptom, cause, cure, regimen. What distinguishes the Buddhist version is its insistence that the sickness is craving and that the cure is a trained mind, here and now.
+The framework is the Buddhist member of a family of diagnostic traditions: the [[The discipline of assent|Stoic discipline of assent]] to what is, the Aristotelian mean between excess and deficiency, and the medical model of symptom, cause, cure, regimen. What distinguishes the Buddhist version is its insistence that the sickness is craving and that the cure is a trained mind, here and now.
 
 ## Related concepts
 

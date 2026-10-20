@@ -26,6 +26,11 @@ The cross-tradition cognates are exact: [[Anatta]] and [[Self-as-context]] are t
 - beliefs as tools, not identities (Hayes et al., 2011)
 - "I notice I'm having the thought that..." (Hayes et al., 2011)
 
+## Related concepts
+
+
+- [[Distrust names and labels]] — the defusion page names the word-experience fusion this concept warns about; reciprocal of the Related entry
+- [[Decentering]] — the review lists cognitive defusion among the decentering-related constructs it maps onto one phenomenon
 ## Sources
 
 - Hayes et al., 2011

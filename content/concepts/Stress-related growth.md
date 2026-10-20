@@ -13,6 +13,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 - **antifragility's honest state**
 
+## Related concepts
+
+- [[Post-traumatic growth]] — the term Tedeschi and Calhoun favor for changes associated with major life crises
+
 ## Sources
 
 - Tedeschi and Calhoun, 2004

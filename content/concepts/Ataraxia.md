@@ -21,7 +21,7 @@ Ataraxia is not the same as hedonic pleasure, and it is not a state of numbness 
 ## Practical implications
 
 
-Ataraxia can be compared, as an interpretive analogy, to the modern psychological construct of low negative affectivity and to cognitive therapy's targeting of catastrophising. In habit terms it suggests a diagnostic: if a proposed habit or goal increases chronic mental disturbance (rumination, anxiety, intrusive worry), it is misaligned with the underlying structure of well-being. Techniques that reduce reactivity to outcomes, such as Buddhist equanimity or modern reappraisal, can be read as aiming at a similar target, though the traditions differ in their grounds. The concept is useful precisely because it names the thing being optimised (calm) rather than the technique for getting there.
+Ataraxia can be compared, as an interpretive analogy, to the modern psychological construct of low negative affectivity and to cognitive therapy's targeting of catastrophising. In habit terms it suggests a diagnostic: if a proposed habit or goal increases chronic mental disturbance (rumination, anxiety, intrusive worry), it is misaligned with the underlying structure of well-being. Techniques that reduce reactivity to outcomes, such as [[Equanimity|Buddhist equanimity]] or modern reappraisal, can be read as aiming at a similar target, though the traditions differ in their grounds. The concept is useful precisely because it names the thing being optimised (calm) rather than the technique for getting there.
 
 - Epicurus, Principal Doctrines
 ## Related concepts

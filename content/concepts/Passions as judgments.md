@@ -9,6 +9,11 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Passions as judgments” — Epictetus, Enchiridion 5.
 
+## Related concepts
+
+
+- [[The discipline of assent]] — the concept page lists this topic among its Related entries; this link returns it
+- [[The inner citadel]] — the ground the doctrine builds: the place where judgments are made and events stay outside
 ## Sources
 
 - Epictetus, Enchiridion 5

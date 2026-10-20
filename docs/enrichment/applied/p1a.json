@@ -2,15 +2,11 @@
  "inline": [],
  "reciprocal": [
   {
-   "into": "Acceptance",
-   "link": "S001 — Distinguish what is up to you from what is not",
-   "why": "the Stoic principle that parallels ACT acceptance; the seed page cites no principle"
-  },
-  {
-   "into": "The three disciplines",
-   "link": "S011 — Recognise the three topoi — the three disciplines",
-   "why": "the principle that carries Epictetus's three disciplines; the seed page cites no principle"
+   "into": "Cultural psychology",
+   "link": "SO044 — Treat the WEIRD critique as a standing corrective",
+   "why": "SO044's psychology parallels list the cultural-variance literature (Henrich et al. 2010; Medin et al. 2017)",
+   "_audit_why": "the WEIRD critique is a core methodological result for cultural psychology; the concept page cites no SO044"
   }
  ],
- "notes": "p1a proposals (recreated after the b6fcc59 integration archived the previous file): Acceptance -> S001 reciprocal (S001). Earlier proposals (De -> Dao inline, Philia -> A063 reciprocal) were applied/archived by the b6fcc59 integration run."
+ "notes": "p1a proposals (genuineflourishing31), from SO044 enrichment. Reciprocals only; both targets verified to lack any SO044 link. | deferred at this run (target band busy): 1 recip, 0 inline | deferred at this run (target band busy): 1 recip, 0 inline | deferred at this run (target band busy): 1 recip, 0 inline | deferred at this run (target band busy): 1 recip, 0 inline"
 }

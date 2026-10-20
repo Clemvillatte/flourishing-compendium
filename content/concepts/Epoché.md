@@ -15,15 +15,19 @@ The distinction to hold: suspension is not doubt. The Pyrrhonians explicitly dis
 
 An example at its smallest: a first impression arrives — an insult, a headline, a flash of fear — and instead of assenting ("this is what is happening"), it is held for one breath as *how things appear*: an insult appearing, fear appearing. That interval is the daily-life epoché ([[E006 — Practise the epoché in daily life]]).
 
-Its contemplative cognates are [[Sati]] (bare attention that withholds the gloss) and the Daoist fasting of the mind ([[D046 — Practice fasting of the mind (xinzhai)]]); its Stoic cousin is the discipline of assent, the pause of [[Clarity of mind]].
+Its contemplative cognates are [[Sati]] (bare attention that withholds the gloss) and the Daoist fasting of the mind ([[D046 — Practice fasting of the mind (xinzhai)]]); its [[The discipline of assent|Stoic cousin is the discipline of assent]], the pause of [[Clarity of mind]].
 
 - Pyrrho
 - Pyrrho/Sextus Empiricus, Outlines of Pyrrhonism
 ## Related concepts
 
 
+
+
 - [[Phenomenological psychology]] — the bracketing move the research method operationalizes
 - [[The natural attitude]] — the suspension procedure defined against this attitude
+- [[The discipline of assent]] — the concept page lists this topic among its Related entries; this link returns it
+- [[Decentering]] — the E006 principle lists Decentering among its psychology parallels and Epoché among its philosophy parallels
 ## Sources
 
 - Husserl, Ideas I

@@ -22,7 +22,7 @@ Hisamatsu's term for what all the practices here converge on: a self without fix
 
 ## Psychology parallels
 
-- **Self-concept flexibility and decentering**, the findings that rigid self-definition predicts poor stress response (Linville, 1987; Bernstein et al., 2015)
+- **Self-concept flexibility and [[Decentering|decentering]]**, the findings that rigid self-definition predicts poor stress response (Linville, 1987; Bernstein et al., 2015)
 
 ## Philosophy parallels
 

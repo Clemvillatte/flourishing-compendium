@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “The three gates of speech” — Sufi tradition, popular formulation.
 
+## Related concepts
+
+- [[Right speech]] — The Sufi three-gate test is the speech-discipline cousin this page links from its Related section.
+
 ## Sources
 
 - Sufi tradition, popular formulation

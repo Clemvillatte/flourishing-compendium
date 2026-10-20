@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 44** — Recognise secondary emotions: feelings about feelings
 
-A primary emotion is a response to the world (fear of a threat). A secondary emotion is a response to the primary emotion (shame about feeling fear, anxiety about feeling anger, guilt about feeling joy). Secondary emotions are often more distressing and more maintainable than primary ones.
+A primary emotion is a response to the world (fear of a threat). A secondary emotion is a response to the primary emotion (shame about feeling fear, anxiety about feeling anger, guilt about [[Joy|feeling joy]]). Secondary emotions are often more distressing and more maintainable than primary ones.
 
 **Plain words** Primary emotion: a response to the world (fear of a threat). Secondary emotion: a response to the primary (shame about feeling fear, guilt about feeling joy). Much chronic distress is secondary — the feeling about the feeling. Name which layer you're in.
 

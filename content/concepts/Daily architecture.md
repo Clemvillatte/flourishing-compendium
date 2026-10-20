@@ -17,6 +17,10 @@ An example at its smallest: the two-minute evening audit — one line each: what
 
 Its contemplative cognates are [[Ritual]] (structure as practice) and the [[The middle path]]-paced schedule of [[The returning practice]]'s micro-resets through the day.
 
+## Related concepts
+
+- [[Morning intention]] — the concept page lists this topic among its Related entries; this link returns it
+
 ## Sources
 
 - Buddhist tradition

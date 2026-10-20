@@ -19,7 +19,7 @@ The body can be used to regulate emotion. Posture, breathing, movement, and faci
 *For example:* Two minutes of slow breathing and straightened spine before the hard email — not a ritual, a hack of the machinery. The mind reads the body's report and adjusts.
 ## Psychology parallels
 
-- **Breath and emotion regulation**, slow breathing activates parasympathetic and reduces arousal (Lehrer & Gevirtz, 2014; Zaccaro et al., 2018)
+- **Breath and emotion regulation**, slow breathing activates [[Parasympathetic activation|parasympathetic]] and reduces arousal (Lehrer & Gevirtz, 2014; Zaccaro et al., 2018)
 - **Posture and mood**, upright posture is associated with better mood and confidence (Nair et al., 2015; Roskes et al., 2014)
 - **Note: some specific embodied effects (power pose, facial feedback) failed replication**, but breath and movement effects are robust (Ranehill et al., 2015; Wagenmakers et al., 2016)
 

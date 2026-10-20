@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 43** — Develop insight (vipassana)
 
-Once the mind is steady, look directly into the nature of experience: its impermanence, its unsatisfactoriness, its ownerlessness. See things as they actually are. The Dhammapada compresses the insight into three lines to be seen rather than agreed to:
+Once the mind is steady, look directly into the nature of experience: [[Impermanence|its impermanence]], its unsatisfactoriness, its ownerlessness. See things as they actually are. The Dhammapada compresses the insight into three lines to be seen rather than agreed to:
 
 > "All conditioned things are impermanent" — when one sees this with wisdom, one turns away from suffering. This is the path to purification.
 > "All conditioned things are unsatisfactory" — when one sees this with wisdom, one turns away from suffering. This is the path to purification.

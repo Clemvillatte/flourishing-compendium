@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Metta (Pali; Sanskrit maitrī, "friendliness") is loving-kindness — the first of the four brahmaviharas (divine abidings). The Karaṇīya Metta Sutta (Sn 1.8) gives its classic image: "Even as a mother protects with her life her child, her only child, so with a boundless heart should one cherish all living beings" — radiating boundless love above, below, and across, unhindered, without ill will, without enmity.
 
-The compendium's reading (principles B051, B097, B098): metta is a stance before a feeling — a trainable orientation of goodwill that starts with oneself (B097), extends to the difficult (B098), and becomes unconditional friendliness rather than a mood. It is the antidote to ill will (hindrance 2, B080) and the affective basis of right speech (B148).
+The compendium's reading (principles B051, B097, B098): metta is a stance before a feeling — a trainable orientation of goodwill that starts with oneself (B097), extends to the difficult (B098), and becomes unconditional friendliness rather than a mood. It is the antidote to ill will (hindrance 2, B080) and [[Right speech|the affective basis of right speech]] (B148).
 
 Metta's cross-tradition family is the universal-love traditions: Kierkegaard's agape, the Confucian ren, and the Christian love of neighbour. What distinguishes metta is its training structure — it is cultivated as a meditation (metta bhavana), sequenced from self to friend to stranger to enemy, until the boundlessness is felt rather than willed.
 

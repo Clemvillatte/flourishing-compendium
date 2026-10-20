@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Metacognitive awareness” — Flavell, 1979; Nelson, 1996.
 
+## Related concepts
+
+- [[Decentering]] — the same literature treats metacognitive awareness as the monitoring process that enables decentering from thoughts
+
 ## Sources
 
 - Flavell, 1979

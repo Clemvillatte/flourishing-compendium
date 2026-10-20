@@ -39,7 +39,7 @@ A diagnosis is devastating because nothing is permanent, and treatable for the s
 <!-- fc: reflections
 Where are you currently caught between eternalism and nihilism — things lasting or nothing mattering? What does the middle actually say?
 %%
-The diagnosis is devastating because nothing is permanent — and treatable for the same reason. What's your version of the double-edged impermanence?
+The diagnosis is devastating because nothing is permanent — and treatable for the same reason. What's your version of the [[Impermanence|double-edged impermanence]]?
 %%
 Things change, and therefore things matter. Where in your current life does the change actually make it matter more rather than less?
 -->

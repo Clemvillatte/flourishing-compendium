@@ -27,8 +27,12 @@ Its calm siblings are [[Equanimity]] and the Daoist [[Wu wei]].
 ## Related concepts
 
 
+
+
 - [[Amor sui (right self-love)]] — self-love of one's own power of acting (cross-tradition comparison)
 - [[Eternal recurrence]] — amor fati's test is the thought experiment of eternal recurrence
+- [[Tragic optimism]] — the concept page lists this topic among its Related entries; this link returns it
+- [[Joy]] — Nietzsche’s New Year aphorism (GS 276) states the affirmation the amor fati concept names
 ## Sources
 
 - Nietzsche, Ecce Homo

@@ -28,7 +28,7 @@ Hayes and colleagues' progress review of ACT (Hayes, Levin, Plumb-Vilardaga, Vil
 
 (Hayes, Strosahl and Wilson, Acceptance and Commitment Therapy; Mead's "I" and "Me.")
 
-**Plain words** You can describe yourself in sentences: "I'm the one who failed that", "I'm the anxious one". ACT calls that self-as-content. You can also notice that you are the one doing the describing. That second position is self-as-context, and the point is to be able to step into it when a story about yourself is gripping too hard.
+**Plain words** You can describe yourself in sentences: "I'm the one who failed that", "I'm the anxious one". ACT calls that self-as-content. You can also notice that you are the one doing the describing. [[Self-as-context|That second position is self-as-context]], and the point is to be able to step into it when a story about yourself is gripping too hard.
 
 *For example:* Instead of "I'm a no good drunk", a health-behaviour paper suggests the wording "I am having the thought that I am a no good drunk" ([ACT for health behaviour change](https://pmc.ncbi.nlm.nih.gov/articles/PMC5769281/)). The thought stays; the person's relation to it changes.
 

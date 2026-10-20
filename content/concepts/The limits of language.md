@@ -24,12 +24,13 @@ The book ends by disclaiming its own statements. Proposition 6.54 says its propo
 
 ## Related concepts
 
+
 - [[Showing versus saying]] — what can only be displayed, the other side of the limit
 - [[Language games]] — Wittgenstein's later account of meaning
 - [[Apophatic theology]] — a tradition with a related reverence for the unsayable
 - [[Koan practice]] — a Zen device with a related aim
 - [[Tacit knowledge research]] — Polanyi's account of what we know beyond what we can say, a comparison
-
+- [[Distrust names and labels]] — both pages treat names as less than what they point at; reciprocal of the Related entry
 ## Sources
 
 - Wittgenstein, Tractatus 7

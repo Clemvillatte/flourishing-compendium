@@ -15,6 +15,10 @@ Wittgenstein's diagnosis, in the Philosophical Investigations, of where philosop
 
 The same diagnosis appears at §38 in the famous phrase "philosophical problems arise when language goes on holiday" ([Mitchell, DBU overview](https://www.dbu.edu/mitchell/modern-resources/wittgensteinoverview.html)). On holiday, the engine idles: the words still run, but nothing they do is answerable to the practices that normally keep them honest. The compendium lists it as a philosophy parallel to the Buddhist papanca, or mental proliferation (see B070).
 
+## Related concepts
+
+- [[Distrust names and labels]] — language idling vs doing work is the Wittgenstein counterpart of the Daoist warning; reciprocal of the Related entry
+
 ## Sources
 
 - [Wittgenstein, Philosophical Investigations (selection PDF), §132](https://topologicalmedialab.net/xinwei/classes/readings/Wittgenstein/PhiloInvestigations_sel.pdf)

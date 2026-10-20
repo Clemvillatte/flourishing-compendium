@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Stillness under turbulence” — Laozi, Daodejing 15.
 
+## Related concepts
+
+- [[The inner citadel]] — the Stoic discipline of retiring into one’s own soul as the source of steadiness
+
 ## Sources
 
 - Laozi, Daodejing 15

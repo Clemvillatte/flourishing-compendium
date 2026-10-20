@@ -13,6 +13,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 - Hayes, 2019
 - a conceptual comparison, not evidence that these practices act independently of belief
 - James, Pragmatism
+## Related concepts
+
+- [[Holding as hypothesis]] — the concept page lists this topic among its Related entries; this link returns it
+
 ## Sources
 
 - Hayes, A Liberated Mind

@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 ---
 > **Principle 30** — Respond to good news actively and constructively
 
-When someone shares good news, the response matters as much as the response to bad news. Active-constructive responding, which involves enthusiastic engagement, questions, and celebration, predicts relationship quality and the other person's well-being. Passive or negative responses, even well-intentioned, undermine the relationship over time.
+When someone shares good news, the response matters as much as the response to bad news. [[Active constructive responding|Active-constructive responding, which involves]] enthusiastic engagement, questions, and celebration, predicts relationship quality and the other person's well-being. Passive or negative responses, even well-intentioned, undermine the relationship over time.
 
 (Gable et al., 2004; Gable and Reis, 2010.)
 

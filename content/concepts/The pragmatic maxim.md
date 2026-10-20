@@ -20,6 +20,10 @@ Its Peircean twin is [[Fallibilism]] — the same inquiry without certainty.
 
 - **applied to morals** — Dewey, Human Nature and Conduct
 
+## Related concepts
+
+- [[Holding as hypothesis]] — the concept page lists this topic among its Related entries; this link returns it
+
 ## Sources
 
 - Peirce, "How to Make Our Ideas Clear"

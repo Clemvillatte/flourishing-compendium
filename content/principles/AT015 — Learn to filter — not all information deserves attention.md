@@ -24,7 +24,7 @@ Attention is selective, but the selection is often not deliberate. Much of what 
 
 ## Philosophy parallels
 
-- **Right speech includes right listening** (Buddhism, Eightfold Path)
+- **[[Right speech|Right speech includes right listening]]** (Buddhism, Eightfold Path)
 - **[[The discipline of attention|The discipline of attention]]** (Simone Weil, Waiting for God)
 - **[[Simplicity|Simplicity and frugality]]** (Daoism, Daodejing 19)
 

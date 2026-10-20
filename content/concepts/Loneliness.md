@@ -14,7 +14,7 @@ As a biological and social signal, loneliness evolved to motivate reconnection, 
 
 Research distinguishes emotional loneliness (absence of an intimate attachment) from social loneliness (absence of a broader engaging network), and highlights that the quality of relationships matters more than their quantity. Interventions that address maladaptive social cognition — the heightened threat-vigilance and negative self-appraisals that lonely individuals carry into interactions — outperform those that merely increase social contact.
 
-Cross-traditionally, solitude is often reframed: contemplative traditions distinguish involuntary loneliness (dukkha, a form of suffering) from chosen solitude as a condition for reflection and depth. The examined response is neither denial nor surrender but honest acknowledgment of the signal, corrective action where possible, and equanimity where not.
+Cross-traditionally, solitude is often reframed: contemplative traditions distinguish involuntary loneliness (dukkha, a form of suffering) from chosen solitude as a condition for reflection and depth. The examined response is neither denial nor surrender but honest acknowledgment of the signal, corrective action where possible, and [[Equanimity|equanimity where not]].
 
 ## Related concepts
 

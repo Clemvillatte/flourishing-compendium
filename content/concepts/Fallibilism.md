@@ -16,6 +16,10 @@ The practical reading: treat error as information rather than insult ([[P051 —
 An example at its smallest: in any argument, naming in advance the observation that would change your mind — and noticing whether one is available at all.
 
 Its Peircean twin is [[The pragmatic maxim]] — meaning and inquiry where certainty is refused.
+## Related concepts
+
+- [[Holding as hypothesis]] — the concept page lists this topic among its Related entries; this link returns it
+
 ## Sources
 
 - Peirce

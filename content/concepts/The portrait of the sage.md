@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “The portrait of the sage” — BG 12.13-14.
 
+## Related concepts
+
+- [[The inner citadel]] — Marcus’s practice of the unconquerable mind as a lived ideal
+
 ## Sources
 
 - BG 12.13-14

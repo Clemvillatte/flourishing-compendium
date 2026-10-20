@@ -10,6 +10,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 slow diaphragmatic breathing raises vagal tone (Lehrer and Gevirtz, 2014).
 
+## Related concepts
+
+- [[Parasympathetic activation]] — The biofeedback procedure trains the slow diaphragmatic breathing this page explains.
+
 ## Sources
 
 - Lehrer and Gevirtz, 2014

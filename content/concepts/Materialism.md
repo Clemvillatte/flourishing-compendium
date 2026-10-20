@@ -13,6 +13,10 @@ the pursuit of possessions predicts lower life satisfaction (Kasser, 2002).
 
 - inversely predicts well-being (Kasser, 2002)
 
+## Related concepts
+
+- [[Intrinsic versus extrinsic goals]] — the concept page lists this topic among its Related entries; this link returns it
+
 ## Sources
 
 - Kasser, 2002

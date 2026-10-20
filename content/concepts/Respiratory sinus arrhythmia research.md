@@ -13,3 +13,8 @@ Studies of respiratory sinus arrhythmia — the heart-rhythm modulation tied to 
 
 - [[D144 — Breathe from the heels]]
 ## Cited in philosophy parallels
+
+
+## Related concepts
+
+- [[Parasympathetic activation]] — RSA is the heart-rhythm modulation tied to breathing, an index of vagal tone, the mechanism this page describes.

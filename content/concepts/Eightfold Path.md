@@ -15,12 +15,13 @@ The Eightfold Path is the Buddhist member of a family of structured disciplines 
 
 ## Related concepts
 
+
 - [[Four Noble Truths]] — the path as the fourth truth
 - [[The middle path]] — the path's founding discovery
 - [[The three trainings]] — the path's threefold grouping
 - [[Gradual training]] — the path paced for ordinary life
 - [[Phronesis]] — Aristotle: practical wisdom as trained skill
-
+- [[Right speech]] — The Eightfold Path page lists 'right view, right intention, right speech, right action, right livelihood...' in its opening paragraph but has no [[Right speech]] wikilink (rg-verified); the Right speech page links Eightfold Path in Related as the training the factor belongs to.
 ## Sources
 
 - Buddha, Dhammacakkappavattana Sutta (SN 56.11)

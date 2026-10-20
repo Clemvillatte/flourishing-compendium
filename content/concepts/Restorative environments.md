@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 quiet and natural settings aid recovery from attentional load (Kaplan, 1995).
 
+## Related concepts
+
+- [[Nature exposure]] — the concept page lists this topic among its Related entries; this link returns it
+
 ## Sources
 
 - Kaplan, 1995

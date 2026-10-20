@@ -24,8 +24,9 @@ Naming a feeling requires first reading it — the bodily substrate is [[Interoc
 
 ## Related concepts
 
-- [[Emotion regulation]] — an attentional strategy within this taxonomy
 
+- [[Emotion regulation]] — an attentional strategy within this taxonomy
+- [[Distrust names and labels]] — the label-as-name-not-verdict distinction is the two pages' shared core; reciprocal of the Related entry
 ## Sources
 
 - Lieberman et al., 2007

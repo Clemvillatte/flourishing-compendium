@@ -21,7 +21,7 @@ Vairagya is defined precisely: mastery over the thirst for what is seen and hear
 *For example:* Someone loves their house genuinely and can still sell it without grief when the move makes sense — the love stayed, the ownership transferred. That's vairagya; the numb version would be never loving it at all.
 ## Psychology parallels
 
-- **Detached mindfulness and decentering**, relating to thoughts and urges without acting on or suppressing them (Teasdale, 1999; Bernstein et al., 2015)
+- **Detached mindfulness and [[Decentering|decentering]]**, relating to thoughts and urges without acting on or suppressing them (Teasdale, 1999; Bernstein et al., 2015)
 
 ## Philosophy parallels
 

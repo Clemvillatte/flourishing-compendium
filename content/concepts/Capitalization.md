@@ -13,6 +13,10 @@ how you respond to others' good news predicts relationship quality (Gable et al.
 
 - responding to others' good news actively builds relationships (Gable et al., 2004)
 
+## Related concepts
+
+- [[Active constructive responding]] — the concept page lists this topic among its Related entries; this link returns it
+
 ## Sources
 
 - Gable et al., 2004

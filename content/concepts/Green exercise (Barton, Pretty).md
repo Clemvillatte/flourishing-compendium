@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 exercise in nature produces greater improvements in mood and self-esteem than indoor exercise (Barton & Pretty, 2010; Pretty et al., 2005).
 
+## Related concepts
+
+- [[Nature exposure]] — the concept page lists this topic among its Related entries; this link returns it
+
 ## Sources
 
 - Barton & Pretty, 2010

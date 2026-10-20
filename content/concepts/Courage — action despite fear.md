@@ -34,10 +34,11 @@ The chapter adds that it is the mark of a brave man to face things that are, and
 
 ## Related concepts
 
+
 - [[Moral courage research]]
 - [[Authentic courage without props]]
 - [[The courage to act against impulse]]
-
+- [[A011]] — A011 carries Aristotle's NE III treatment of courage, including the verbatim Rackham definition and battlefield case from III.6 that the Courage concept page is anchored on.
 ## Sources
 
 - [Aristotle, Nicomachean Ethics, Book III (Ross translation) — Internet Classics Archive (opened)](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html)
