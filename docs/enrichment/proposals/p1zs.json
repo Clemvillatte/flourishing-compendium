@@ -1,0 +1,18 @@
+{
+ "batch": "p1zs",
+ "revision": 1,
+ "reciprocal": [
+  {
+   "into": "Sleep hygiene (CBT-I)",
+   "link": "BI020",
+   "why": "the after-3-p.m. and short-nap rules this principle teaches are the nap item of the behavioural advice sleep hygiene packages",
+   "notes": "Evidence in sources/p1zs/BI020.md (NHLBI Your Guide to Healthy Sleep opened; Brooks & Lack 2006 opened)."
+  },
+  {
+   "into": "Sleep deprivation",
+   "link": "BI020",
+   "why": "the brief-nap countermeasure was tested on nights restricted to about five hours, the exact condition this page describes",
+   "notes": "Evidence in sources/p1zs/BI020.md (Brooks & Lack 2006, Sleep 29(6): 831-40, opened at PubMed 16796222)."
+  }
+ ]
+}
