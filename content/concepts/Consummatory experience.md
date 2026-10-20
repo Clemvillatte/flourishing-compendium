@@ -7,15 +7,39 @@ file: "Consummatory experience"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-C"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
-“Consummatory experience” — Dewey, Art as Experience.
+Consummatory experience is John Dewey's term for the way an experience can round out to fulfillment. In Art as Experience he distinguishes the ongoing stream of activity from an experience whose material runs its course, and the close of such an experience is what the term marks: a consummation, carrying its own individualizing quality and self-sufficiency.
+
+> "A piece of work is finished in a way that is satisfactory; a problem receives its solution; a game is played through; a situation, whether that of eating a meal, playing a game of chess, carrying on a conversation, writing a book, or taking part in a political campaign, is so rounded out that its close is a consummation and not a cessation. Such an experience is a whole and carries with it its own individualizing quality and self-sufficiency. It is an experience." (John Dewey, [Art as Experience, ch. 3 "Having an Experience", 1934](https://people.wou.edu/~girodm/middle/having_an_experience.pdf))
+
+### Consummation as continuous
+
+The close is present throughout the experience, waiting to be savored as it builds: "For then its varied parts are linked to one another, and do not merely succeed one another. And the parts through their experienced linkage move toward a consummation and close, not merely to cessation in time. This consummation, moreover, does not wait in consciousness for the whole undertaking to be finished. It is anticipated throughout and is recurrently savored with special intensity" ([Dewey 1934](https://people.wou.edu/~girodm/middle/having_an_experience.pdf)). The form this takes is a growth: "In every integral experience there is form because there is dynamic organization... There is inception, development, fulfillment", and "Fulfilling, consummating, are continuous functions, not mere ends, located at one place only" ([Dewey 1934](https://people.wou.edu/~girodm/middle/having_an_experience.pdf)).
+
+### In the compendium
+
+- [[K328 — Aesthetic attention]]
+- [[P081 — Honor immediate values, but enrich them with reflection]]
+- [[P120 — Make activities autotelic — worth doing for their own sake]]
+- [[P173 — Engineer absorption]]
+- [[A041 — Know that virtue aims at the beautiful (to kalon)]]
+- [[A080 — Choose activities for their completeness]]
+- [[A081 — Recognise that pleasure completes activity]]
+- [[A112 — Distinguish leisure from amusement]]
+
+## Related concepts
+
+- [[Optimal experience]]
+- [[Intrinsic motivation]]
+- [[Neuroaesthetics]]
 
 ## Sources
 
 - Dewey, Art as Experience
+- [John Dewey, Art as Experience (1934), chapter 3 "Having an Experience", open PDF copy](https://people.wou.edu/~girodm/middle/having_an_experience.pdf) — the consummation passages quoted above
 
-[[K328 — Aesthetic attention]]
 ## Cited in philosophy parallels
 
+- [[K328 — Aesthetic attention]]
 - [[P081 — Honor immediate values, but enrich them with reflection]]
 - [[P120 — Make activities autotelic — worth doing for their own sake]]
 - [[P173 — Engineer absorption]]
