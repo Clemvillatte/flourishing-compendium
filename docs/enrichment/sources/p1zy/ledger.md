@@ -17,3 +17,7 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 ## Y010 (2026-10-21)
 - Woods HOS 17: 2.17 and Vyasa (p. 140, before the "141]" running head), 2.5 (p. 111), 2.24 (sutra text only; commentary not read). Quotes verified. Sutras 2.18-2.23 not opened for quoting; the old cite range 2.17-2.24 is narrowed on the page.
 - Old text said the reframe "converts suffering from a verdict into a location error"; that is the principle's modern gloss, now labelled by the "Plain words" framing (the tradition's fix is discrimination over years). Plain words replicate replaced; example imagined. Self-QC only.
+
+## Y011 (2026-10-21)
+- Woods HOS 17 p. 139 (2.16 and Vacaspati/Vyasa on why only future pain; page before the "140]" head). Quotes verified except OCR spacing and one elision "(pakse vartate)" marked with an ellipsis. The principle's own wording "the suffering that has not yet come is to be avoided" comes from another translation and is not re-opened; the page says so.
+- Old claim "the entire training is designed to intercept the chain earlier each time" and the after-the-storm tracing exercise are modern glosses; page says so. Plain words replicate replaced; example imagined. Self-QC only.
