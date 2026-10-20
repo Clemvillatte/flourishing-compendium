@@ -16,12 +16,12 @@ DN 16 records the Buddha's final exhortation to the monks: all compounded things
 
 > "Heedfulness is the path to the Deathless. Heedlessness is the path to death. The heedful die not. The heedless are as if dead already." (Dhammapada 21, [Buddharakkhita](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.02.budd.html))
 
-The compendium applies the exhortation to what you are building: because compounded things come apart on their own, what you leave unattended goes, and the practice is the visiting.
+The compendium uses the exhortation as a prompt to give a chosen commitment deliberate attention.
 
 **Plain words**
-Heedfulness is not vigilance or anxiety. The word points at showing up for what you care about on ordinary days, when nothing dramatic is happening. Ask what in your life is currently coming apart from simple absence of visits.
+Choose something you care about sustaining. What would attending to it look like today?
 
-*For example:* Imagine tending a garden in short daily visits rather than one heroic afternoon a month. No single visit does much, and everything depends on them.
+*For example (imagined):* You have been postponing a visit to your garden plot. You put a visit on tomorrow's calendar and decide to look at what needs attention.
 
 ## Sources
 
