@@ -12,15 +12,28 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 45** — Learn to let affect pass: feelings are impermanent
 
-No feeling, however intense, lasts forever. The capacity to trust that a feeling will pass — without having to make it pass — is a foundation of equanimity. This is not passive; it is an active trust in the natural temporal structure of affect.
+The evidence here is about variability in duration. Verduyn and Lavrijsen asked people to recollect recent emotional episodes and report how long they lasted. Out of 27 emotions, the picture was uneven:
 
-**Plain words** No feeling, however intense, lasts forever. The capacity to trust that a feeling will pass — without having to make it pass — is a foundation of equanimity. Not passivity; active trust in the natural turnover. Feelings are weather; weather's only constant is change.
+> "Out of 27 emotions, sadness lasted the longest, whereas shame, surprise, fear, disgust, boredom, being touched, irritation, and relief were the shortest emotions." ([Verduyn & Lavrijsen, 2015, Motivation and Emotion 39, open full text](https://link.springer.com/content/pdf/10.1007/s11031-014-9445-y.pdf))
 
-*For example:* The person who rides the panic wave instead of fighting it — knowing waves crest and break in minutes — and finds the wave lasts ninety seconds when undisturbed, or two hours when chased. The trust was the treatment.
+What separated the long from the short:
+
+> "In particular, compared to short emotions, persistent emotions are typically elicited by events of high importance, and are associated with high levels of rumination." ([Verduyn & Lavrijsen, 2015, same text](https://link.springer.com/content/pdf/10.1007/s11031-014-9445-y.pdf))
+
+The study concerns differences between emotions in recollected episodes; it does not say that a feeling currently running through you will end on any particular schedule. The compendium's practice rests on the weaker observation: durations vary, and rumination is associated with the longer ones.
+
+**Plain words** The study sorted feelings by how long they lasted when people retold them. The longer ones came with two companions: the event mattered, and the person kept returning to it. The finding is a correlation in self-reports, not a promise that your feeling will end in ninety seconds. It says something more modest: the returning is part of what long feelings are made of.
+
+*For example:* (Imagined case.) After a criticism you notice yourself rewriting the conversation every few hours, and the sting is still fresh on day three. The retelling is checkable: count the revisits today. That count is the variable the study associated with duration, not a verdict on the criticism.
+
+## Sources
+
+- [Verduyn, P., & Lavrijsen, S. (2015). Which emotions last longest and why: The role of event importance and rumination. Motivation and Emotion 39(1), 119-127, open full text](https://link.springer.com/content/pdf/10.1007/s11031-014-9445-y.pdf) — the duration comparison and rumination association quoted above
+
 ## Psychology parallels
 
-- **Affect has a natural temporal arc**, emotions peak and decay; the decay is faster when not amplified by secondary reactions (Verduyn & Lavrijsen, 2015)
-- **[[Rumination|Rumination prolongs affect]]**, repeatedly returning to a feeling extends its duration beyond its natural arc (Nolen-Hoeksema, 2000)
+- **[[Rumination|Rumination prolongs affect]]**, listed for comparison (Verduyn & Lavrijsen, 2015; the opened text associates rumination with longer durations)
+- Nolen-Hoeksema (2000) on rumination and depression (not opened for this item; cited for further reading)
 
 ## Philosophy parallels
 
@@ -30,4 +43,4 @@ No feeling, however intense, lasts forever. The capacity to trust that a feeling
 
 ## Practice
 
-- When a feeling is intense, remind yourself: "this will pass." Not as a dismissal, but as a fact about the temporal structure of affect. Do not amplify it by fighting or feeding it.
+- When a feeling is intense, note its duration so far and what you have done between episodes. The study links rumination to longer durations; the practice is to notice the revisits rather than to argue the feeling away.

@@ -88,3 +88,9 @@ Band: AF002..BE033, 30 principles, degree order (queue 628-673). Advisor QC cade
 - Process fixes adopted going forward: (1) done-current-then-start-next state order (no cross-item warnings); (2) proposal notes now record the actual read-after-drafting sequence; (3) inherited unopened parallel and Practice claims are reduced to bare further-reading lines at write time, not left asserted; (4) standalone blockquotes with quotational openers + short paragraphs for all quotes; (5) pre-enrichment --base validation at each milestone.
 - OWED FOLLOW-UP (recorded, not done this pass): items 1-5 pages (AF002/AF013/AF014/AF017/AF018) may still carry inherited unopened parallel claims of the same class; sweep owed before band close.
 - Next milestone: item 15 (AF078).
+
+## AF045 — Learn to let affect pass: feelings are impermanent
+- Evidence: Verduyn & Lavrijsen 2015, Motivation and Emotion 39(1) 119-127, open full text (link.springer.com/content/pdf/10.1007/s11031-014-9445-y.pdf), fetched this session. Both quoted sentences verified verbatim (27-emotion duration ranking; importance-and-rumination association).
+- Scope: "No feeling lasts forever" and "natural temporal structure of affect" claims removed (not in the opened text); the ninety-seconds wave claim removed (Jill Bolte Taylor folklore, not opened); Practice rewritten as observation not fact-assertion. Inherited parallels reduced (Nolen-Hoeksema further reading; Verduyn line kept via the opened text).
+- Plain words: replicate fixed; example replaced with labelled imagined case.
+- Proposals: reciprocals into Rumination and Anicca (both pages read before proposing).

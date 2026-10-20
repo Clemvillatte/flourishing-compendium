@@ -1,6 +1,6 @@
 {
  "batch": "p1zj",
- "revision": 10,
+ "revision": 11,
  "records": [
   {
    "action": "reciprocal",
@@ -155,6 +155,20 @@
    "link": "AF040",
    "why": "listed for comparison with the principle's feeling-versus-circumstance split",
    "notes": "sequence: proposal drafted first, target page read before this note was finalised and before push; ground: page covers acceptance/dichotomy-of-control material adjacent to the Hayes 2006 ACT definition opened for AF040"
+  },
+  {
+   "action": "reciprocal",
+   "into": "Rumination",
+   "link": "AF045",
+   "why": "listed for comparison with the principle's duration-and-revisits framing",
+   "notes": "sequence: proposal drafted first, target page read before this note was finalised and before push; ground: page covers rumination/impermanence material adjacent to the Verduyn & Lavrijsen 2015 text opened for AF045"
+  },
+  {
+   "action": "reciprocal",
+   "into": "Anicca",
+   "link": "AF045",
+   "why": "listed for comparison with the principle's duration-and-revisits framing",
+   "notes": "sequence: proposal drafted first, target page read before this note was finalised and before push; ground: page covers rumination/impermanence material adjacent to the Verduyn & Lavrijsen 2015 text opened for AF045"
   }
  ]
 }
