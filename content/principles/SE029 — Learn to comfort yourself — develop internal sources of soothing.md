@@ -12,11 +12,22 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 29** — Learn to comfort yourself: develop internal sources of soothing
 
-The capacity to comfort yourself — to self-soothe when distressed — is a foundation of emotional regulation and resilience. This is partly learned in childhood (through attachment) and can be developed in adulthood through practice.
+> if one has experienced these in early life, they become internalized such that we can provide them for ourselves
 
-**Plain words** The capacity to comfort yourself — self-soothe when distressed — is a foundation of regulation and resilience. Partly learned in childhood, fully developable in adulthood. Learn your own protocols: the breath, the walk, the warm shower, the voice.
+(Gilbert, "Compassion: From Its Evolution to a Psychotherapy," Frontiers in Psychology 11:586161, 2020, in the section on attachment, summarizing Cassidy and Shaver, 2016; [PMC7762265](https://pmc.ncbi.nlm.nih.gov/articles/PMC7762265/). "These" are the parent's functions as a secure base and a safe haven, the latter being "a source of soothing and comfort.")
 
-*For example:* The person whose only comfort protocol is another person's availability — and the year they build their own: the box breathing, the playlist, the weighted blanket, the letter to self. Not independence from others; a first responder who lives on-site.
+Gilbert adds that for people with mental health difficulties, "these inner abilities to provide themselves a sense of secure base, reassurance, and safe haven as in grounding and soothing are often weak or absent." In their place there is often hostile self-criticism, which "amplif[ies]" threat processing. He also describes teaching soothing rhythm breathing as a grounding step in compassion-focused therapy.
+
+This is one clinical model, Gilbert's, and not a settled consensus. It supports the entry's two claims, that comfort starts as something received and that the skill can be built later, only in outline. The paper's emphasis is on therapy.
+
+**Plain words** Most people first learn comfort from someone else. Later, that comfort can become something you can offer yourself, and if it did not develop early, it can still be practised on purpose: a slow breath, a steady voice, kindness instead of attack.
+
+*For example:* Someone who has always called a friend at the first sign of panic spends a year learning a few things they can do alone: slow breathing, a walk, a kind sentence said to themselves. The friend is still welcome, but is no longer the only option.
+
+## Sources
+
+- [Gilbert, P. (2020). Compassion: From Its Evolution to a Psychotherapy. Frontiers in Psychology 11:586161](https://pmc.ncbi.nlm.nih.gov/articles/PMC7762265/) — open-access full text read; attachment and soothing sections
+
 ## Psychology parallels
 
 - **Self-soothing as emotional regulation**, the capacity to calm oneself when distressed is a core regulatory skill (Mikulincer & Shaver, 2007; Schore, 2003)

@@ -11,3 +11,6 @@ No advisor tool available; QC is self-QC only.
 
 ## SE010 Understand that the self is a process, not a thing
 - Opened: Sartre, Existentialism Is a Humanism (Mairet), marxists.org; quotes verbatim. Markus & Wurf (1987) abstract could not be opened (Annual Reviews blocked; Crossref/Semantic Scholar had no record), so inherited psychology parallels are uncertified. "Construction/maintenance/revision" labelled the entry's gloss.
+
+## SE029 Learn to comfort yourself
+- Opened: Gilbert 2020 (Front Psychol, PMC7762265) full text; quotes verbatim. Mikulincer & Shaver / Schore / Gillath parallels not opened (inherited, uncertified). Page notes it is one clinical model.
