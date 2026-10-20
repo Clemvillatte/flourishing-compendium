@@ -175,3 +175,9 @@ Round 3 (advisor, 2026-10-21): item-10 milestone closed with a scoped PASS for A
 - Sources opened: Camus, Myth of Sisyphus and Other Essays, trans. O'Brien (Vintage 1991), Internet Archive OCR (pp. 54, 55, 64, 123 from running heads); Camus, The Rebel, trans. Bower, full text at Ted K Archive (https://www.thetedkarchive.com/library/albert-camus-the-rebel; no page numbers, cited by Part). All quotes checked word-for-word by script.
 - Corrections: the old text said 'living fully, passionately, and authentically'; 'authentically' is not Camus's wording and the Myth explicitly says revolt is 'devoid of hope'; replaced by his own formulations. Plain words was a replicate, replaced. Example relabelled imagined; the 'style' claim removed.
 - The Rebel (1951) archive.org copies are lending-only (403), so Ted K text used. Self-QC only.
+
+## E058 (worker-p1zx-9a2e4c71, 2026-10-21)
+
+- Source opened: Camus, The Rebel, trans. Bower, full text, Ted K Archive. Quotes verified word-for-word by script (Part One; Part Five 'Rebellion and Murder', 'Moderation and Excess', 'Thought at the Meridian').
+- Citation fixes: old cite 'Part Three' (Historical Rebellion) is wrong: measure is Part Five. The pairing with L'Etranger '1939/1940' and Lyrical and Critical Essays was unsupported (L'Etranger is 1942) and dropped. Plain words was a replicate; replaced. Example relabelled imagined.
+- Self-QC only.

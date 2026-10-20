@@ -1,6 +1,6 @@
 {
  "batch": "p1zx",
- "revision": 8,
+ "revision": 9,
  "reciprocal": [
   {
    "into": "Shame",
@@ -37,6 +37,12 @@
    "link": "E045",
    "why": "covers the readiness to be appealed to by conscience",
    "notes": "Stub concept. E045 quotes H. 288-289 verified vs opened text."
+  },
+  {
+   "into": "Recognising limits",
+   "link": "E058",
+   "why": "Camus ties measure to the limit that rebellion itself reveals",
+   "notes": "Evidence: Rebel Part Five quotes verified vs opened Bower text 2026-10-21."
   }
  ]
 }
