@@ -12,13 +12,22 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 58** — Practice tenacity
 
-Of the two marks of strength of character, the first is tenacity (animositas): the desire to preserve one's being according to the dictates of reason alone. Tenacity is not stubbornness; it is the maintenance of the rational project against weather, and it is trained like any other capacity, by keeping small rational commitments in adverse conditions. Practically, choose one commitment whose reasons you can state, and keep it for a season regardless of mood, counting mood as information rather than instruction.
+> All actions following from emotion, which are attributable to the mind in virtue of its understanding, I set down to strength of character (fortitudo), which I divide into courage (animositas) and highmindedness (generositas). By courage I mean the desire whereby every man strives to preserve his own being in accordance solely with the dictates of reason.
 
-(Ethics III, P59; definition of Tenacity.)
+(Spinoza, Ethics, Part III, Proposition 59, Note, trans. R. H. M. Elwes, [Project Gutenberg](https://www.gutenberg.org/ebooks/3800). Elwes renders animositas as "courage"; the entry's "tenacity" follows another translation, which was not opened.)
 
-**Plain words** Tenacity (animositas): the desire to preserve one's being according to the dictates of reason alone — the maintenance of the rational project against weather. Not stubbornness (which maintains the position); tenacity maintains the project. The first mark of strength.
+Spinoza continues: "Those actions, therefore, which have regard solely to the good of the agent I set down to courage, those which aim at the good of others I set down to highmindedness. Thus temperance, sobriety, and presence of mind in danger, &c., are varieties of courage." So the first mark of strength of character concerns what one does for one's own good under reason, and it covers temperance and presence of mind.
 
-*For example:* The person who keeps the practice, the budget, the standard — through the bad month, the boring stretch, the unglamorous year — not because they feel like it, but because the project is theirs and reason holds the calendar. That's tenacity; the weather never got a vote.
+The passage defines the trait. The contrast with stubbornness, the idea that it is "trained by keeping small rational commitments," and the practice of treating mood "as information rather than instruction" are the entry's own development. They are not in this Note. The Snyder (2002), Plato and Nietzsche parallels were not opened.
+
+**Plain words** Spinoza calls the first part of strength of character courage or tenacity: the desire to keep your own being going according to reason alone. Mood and weather do not vote. Staying with a commitment whose reasons you can state is one way to practise it.
+
+*For example:* Someone keeps a budget through a boring month and an unglamorous year because they still agree with the reasons behind it, even when they do not feel like it.
+
+## Sources
+
+- [Spinoza, Ethics (trans. R. H. M. Elwes), Project Gutenberg #3800](https://www.gutenberg.org/ebooks/3800) — full text read; Part III, Prop. 59, Note
+
 ## Psychology parallels
 
 - **[[Hope|Hope theory]]**, agency and pathways as the components of motivated persistence (Snyder, 2002)

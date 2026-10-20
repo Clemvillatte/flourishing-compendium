@@ -480,3 +480,4 @@ Short, item-keyed evidence notes (owner decision 2026-10-20, PROTOCOL-PRINCIPLES
 - All five files validate vs baseline 0998a787 (0 failed, run per-file); all
   blockquotes verified by substring checks from the FINAL files (11/11 OK).
 - SP030 (taken over by worker-p1zl-b4e7c2d1): body and quotes already repaired by previous owner and re-checked against Elwes text (both quotes verbatim); removed a duplicate '## Psychology parallels' heading left in the file. Marked done.
+- SP058 (worker-p1zl-b4e7c2d1): Opened Elwes III P59 Note (Gutenberg 3800); quotes verbatim. Elwes translates animositas as 'courage' (entry says tenacity); stubbornness contrast and training advice marked as the entry's own. Snyder 2002, Plato, Nietzsche parallels not opened.
