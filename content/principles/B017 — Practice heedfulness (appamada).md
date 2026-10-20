@@ -43,5 +43,5 @@ What in your life are you currently not attending to that you will lose? What's 
 %%
 The garden that thrives is the one visited daily. What's your garden, and what's your current visiting pattern?
 %%
-Strive on with diligence and care. Where in your current life is the dilgence actually missing — and what's the care asking you to do?
+Strive on with diligence and care. Where in your current life is the diligence actually missing — and what's the care asking you to do?
 -->
