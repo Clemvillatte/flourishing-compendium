@@ -534,3 +534,14 @@
   Parks et al. 2012 (the seed's citation) NOT opened; recorded as such.
   Related concepts: Acts of kindness (Lyubomirsky) and Positive emotions
   research with model-grounded clauses; Broaden-and-build bare link.
+
+## Posner's three-network model (fast-track)
+- Opened: PMC full text of Petersen and Posner 2012, Annu Rev Neurosci 35,
+  73-89 — three-networks passage quoted verbatim ("The Original Networks"
+  section); three original premises paraphrased from the Introduction;
+  frontoparietal / cingulo-opercular update sentences quoted verbatim.
+  Posner and Petersen 1990 and Fan et al. 2002 (seed citations) NOT opened;
+  1990 covered via the update's restatement, marked in Sources. Related
+  concepts: Sustained attention theory with alerting-grounded clause;
+  Executive function theory Miyake and Attentional control theory (Eysenck)
+  bare links.
