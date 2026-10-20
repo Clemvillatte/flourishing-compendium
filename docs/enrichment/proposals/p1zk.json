@@ -1,6 +1,6 @@
 {
  "batch": "p1zk",
- "revision": 21,
+ "revision": 22,
  "reciprocal": [
   {
    "into": "Sleep deprivation",
@@ -133,6 +133,12 @@
    "link": "BI068",
    "why": "the bidirectional illness-mood evidence is the body-mind unity measured",
    "notes": "Evidence in sources/p1zk/BI068.md (Mezuk 2008, 2021 HbA1c meta-analysis, both opened). Concept already cites BI068."
+  },
+  {
+   "into": "Circadian science",
+   "link": "BI069",
+   "why": "the medical-condition framing for sleep disorders including circadian ones",
+   "notes": "Evidence in sources/p1zk/BI069.md (NHLBI, NINDS, Edinger 2021, all opened). Concept already cites BI069."
   }
  ],
  "inline": []

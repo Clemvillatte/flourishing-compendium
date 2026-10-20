@@ -12,11 +12,23 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BI — Biophysi
 ---
 > **Principle 69** — Recognise sleep disorders as medical conditions: apnea, insomnia, circadian
 
-Sleep disorders (obstructive sleep apnea, chronic insomnia, circadian rhythm disorders) are medical conditions requiring evaluation and treatment. They are not just "bad habits."
+The framing is the point of this principle: the three named conditions are medical, not character. The federal sleep apnea page is explicit about the referral trigger: if someone tells you that you snore or gasp for air during sleep, you may want to talk to your healthcare provider, with the same advice for other symptoms of poor sleep quality such as excessive daytime sleepiness ([NHLBI](https://www.nhlbi.nih.gov/health/sleep-apnea)). The public-education primer generalises the rule: see a doctor if you have problems sleeping or if you feel unusually tired during the day, because most sleep disorders can be treated effectively ([NINDS](https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-understanding-sleep)).
 
-**Plain words** Sleep disorders are medical conditions — apnea, chronic insomnia, circadian disorders. Not bad habits, not laziness. They have diagnostics and treatments. The snorer deserves a sleep study, not an elbow.
+Chronic insomnia has its own guideline-level treatment: the American Academy of Sleep Medicine strongly recommends multicomponent cognitive behavioural therapy for adults with chronic insomnia disorder ([Edinger et al. 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC7853203/)). Sleep apnea's line runs through a sleep study a provider may order and, commonly, breathing devices such as CPAP machines, with surgery a later option if those treatments do not work ([NHLBI](https://www.nhlbi.nih.gov/health/sleep-apnea)). Circadian rhythm disorders round out the principle's three categories; the sources opened for this page verify the apnea and insomnia lines and the general see-a-doctor rule rather than circadian specifics.
 
-*For example:* "He's always been a terrible sleeper" — thirty years of treatable apnea, disguised as personality. The machine changed the "personality" in a month.
+> "See a doctor if you have problems sleeping or if you feel unusually tired during the day. Most sleep disorders can be treated effectively." (NINDS, [Brain Basics: Understanding Sleep](https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-understanding-sleep))
+
+**Plain words**
+The principle's claim is about category, not severity: apnea, chronic insomnia and circadian disorders are conditions with diagnostics and treatments, which is why the federal pages keep telling people to see a doctor ([NINDS](https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-understanding-sleep)). "Always been a terrible sleeper" is a sentence a clinician should hear, not a settled identity. The partner's report of gasping is information, and it belongs in the referral conversation ([NHLBI](https://www.nhlbi.nih.gov/health/sleep-apnea)).
+
+*For example:* An imagined case: someone whose partner reports the gasping pattern takes the report to their doctor instead of shrugging it off as "just how I sleep". The NHLBI sentence is written for exactly this conversation ([NHLBI](https://www.nhlbi.nih.gov/health/sleep-apnea)).
+
+## Sources
+
+- [NHLBI, "What Is Sleep Apnea?"](https://www.nhlbi.nih.gov/health/sleep-apnea) — signs and treatment
+- [NINDS, "Brain Basics: Understanding Sleep"](https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-understanding-sleep) — see-a-doctor rule (Tips)
+- [Edinger et al., AASM clinical practice guideline, JCSM (2021)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7853203/) — Recommendation 1
+
 ## Psychology parallels
 
 - **Sleep apnea and mental health**, sleep apnea is associated with depression and cognitive impairment (Sharafkhaneh et al., 2005; Edwards et al., 2015)
@@ -38,4 +50,4 @@ Sleep disorders (obstructive sleep apnea, chronic insomnia, circadian rhythm dis
 
 ## Practice
 
-- If you have persistent sleep problems (snoring with gasping, chronic insomnia, excessive sleepiness), seek medical evaluation. Sleep disorders are treatable, and treating them improves mental health.
+- If you have persistent sleep problems (snoring with gasping, chronic insomnia, excessive sleepiness), seek medical evaluation ([NHLBI](https://www.nhlbi.nih.gov/health/sleep-apnea); [NINDS](https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-understanding-sleep)). Most sleep disorders can be treated effectively ([NINDS](https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-understanding-sleep)).
