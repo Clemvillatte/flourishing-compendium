@@ -228,3 +228,7 @@ Core prose (body per QC round-1 replacement text, VI.9 blockquote + IV.21 inline
 ## SO051
 - Haslam et al. 2009 (DHI-hosted PDF; only intro pages extracted, 6 quotations verified), Wiley EJSP special-issue editorial abstract (search excerpt/fetched), Cruwys et al. 2013 SSM abstract via PubMed eutils (verified numbers 24%/63%).
 - Limits: Jetten et al. 2012 (book), Cruwys 2014 (abstract read, not quoted), Sampson 1997 (abstract read: collective efficacy linked to reduced violence, not health, so not used as health evidence). Statement's 'well-documented finding' is supported mainly by correlational/observational work; body notes a caution quote about group norms. EJSP editorial authors not confirmed, so not named. Example hypothetical.
+
+## SO067
+- PubMed abstracts via eutils, all opened: Whitbeck 2004 (PMID 15212173), Yehuda et al. FKBP5 (26410355), Yehuda & Lehrner World Psychiatry (30192087), Heard & Martienssen Cell 2014 (24679529). Quotations verified against abstracts.
+- Limits: full texts not opened. Statement cites 'Heard et al., 2018' and 'Gone 2011', 'Solomon et al. 2014': Heard & Martienssen is 2014 (Cell), no 2018 Heard paper found; Gone 2011 and Solomon 2014 not located/opened. Body states the biological route is tentative (small samples, n=32/22) while statement says 'real mechanism'; supervisor may want to hedge the statement. Example hypothetical.
