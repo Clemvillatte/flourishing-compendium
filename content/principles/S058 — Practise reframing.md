@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 180** — Practise reframing
 
-Marcus states the reframe as a capacity of the mind rather than a consolation:
+Marcus describes making use of a hindrance:
 
 > "the mind converts and changes every hindrance to its activity into an aid; and so that which is a hindrance is made a furtherance to an act; and that which is an obstacle on the road helps us on this road." (Marcus Aurelius, Meditations, Book V, section 20, George Long translation)
 
@@ -20,7 +20,7 @@ On his account the hindrance itself is unchanged; what changes is the use the mi
 
 (Med. V.20, George Long translation.)
 
-**Plain words** Reframing here is not pretending the event is good. It is asking a different question of the same event: what does this make easier, or make possible, that the old plan did not? The event stays; the plan changes. The mind that asks the question is the one Marcus says converts hindrances into aids.
+**Plain words** A plan can fail while useful actions remain. First name what has been lost; then decide what you can still do well. That might mean tackling another task, revising the plan, or treating someone fairly while handling the setback. You need not call the loss a benefit to choose your next action.
 
 For example: Imagined: a cancelled project becomes an afternoon to finish the essay that had been put off.
 
