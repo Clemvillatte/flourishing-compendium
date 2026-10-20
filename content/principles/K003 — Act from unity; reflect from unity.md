@@ -12,11 +12,11 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 3** — Act from unity; reflect from unity
 
-Nishida Kitarō's An Inquiry into the Good starts from a claim about experience, and the self comes later than the claim:
+In An Inquiry into the Good, Nishida describes immediate experience:
 
-> "When one directly experiences one's own state of consciousness, there is not yet a subject or an object, and knowing and its object are completely unified." (Nishida, An Inquiry into the Good, trans. Abe & Ives, pp. 3-4; quotation reproduced in [Gelūnas 2001, Acta Orientalia Vilnensia](https://www.journals.vu.lt/acta-orientalia-vilnensia/article/view/18347))
+> "When one directly experiences one's own state of consciousness, there is not yet a subject or an object, and knowing and its object are completely unified." (Nishida, An Inquiry into the Good, trans. Abe & Ives, pp. 3-4; quotation reproduced in [Gelūnas 2001, Acta Orientalia Vilnensia](https://www.journals.vu.lt/acta-orientalia-vilnensia/article/download/18347/17527/31254))
 
-Nishida treats thinking, imagining and willing as related unifying activities. Reason and will "share the same foundation. The unifying activity of the will functions at the base of all reason and laws" (p. 28), and "thinking, imagination, and the will are fundamentally identical unifying activities" (p. 91). He states the norm directly: "Fundamentally, truth is singular. Intellectual truth and practical truth must be one and the same. Those who think deeply or are genuinely serious inevitably seek congruence between knowledge and the practical realm of feeling and willing" (p. 37; quotations from the will chapters reproduced in [Tyler 2013, University of Mississippi thesis](https://egrove.olemiss.edu/cgi/viewcontent.cgi?article=1751&context=etd)). The will is also where the self shows itself: "The deepest power unifying this whole is our so-called self, and the will is that which most completely expresses this power" (p. 125).
+Nishida treats thinking, imagining and willing as related unifying activities. Reason and will "share the same foundation. The unifying activity of the will functions at the base of all reason and laws" (p. 28, reproduced in [Gelūnas 2001](https://www.journals.vu.lt/acta-orientalia-vilnensia/article/download/18347/17527/31254)), and "thinking, imagination, and the will are fundamentally identical unifying activities" (p. 91, reproduced in [Tyler 2013](https://egrove.olemiss.edu/cgi/viewcontent.cgi?article=1751&context=etd)). He states the norm directly: "Fundamentally, truth is singular. Intellectual truth and practical truth must be one and the same. Those who think deeply or are genuinely serious inevitably seek congruence between knowledge and the practical realm of feeling and willing" (p. 37; quotations from the will chapters reproduced in [Tyler 2013, University of Mississippi thesis](https://egrove.olemiss.edu/cgi/viewcontent.cgi?article=1751&context=etd)). The will is also where the self shows itself: "The deepest power unifying this whole is our so-called self, and the will is that which most completely expresses this power" (p. 125).
 
 **Plain words**
 Nishida's starting point: in immediate experience there is not yet a gap between knower and known, and he treats thinking, imagining and willing as related unifying activities rather than separate faculties. The application: when reflecting on an action, consider how these worked together within it, rather than asking which self, the acting one or the evaluating one, was the real one.
@@ -25,7 +25,9 @@ For example (application): After service, a cook reviews how tasting, rememberin
 
 ## Sources
 
-- [Nishida Kitarō, An Inquiry into the Good, trans. Masao Abe and Christopher Ives (Yale University Press, 1990)](https://www.journals.vu.lt/acta-orientalia-vilnensia/article/download/18347/17527/31254) — pure experience opening (pp. 3-4) reproduced in the opened Gelūnas 2001 article; will passages (pp. 28, 91, 125) and truth-singular passage (p. 37) reproduced in the opened Tyler 2013 thesis PDF (https://egrove.olemiss.edu/cgi/viewcontent.cgi?article=1751&context=etd); book itself lending-only at the Internet Archive (https://archive.org/details/inquiryintogood0000nish)
+- [Gelūnas 2001, Acta Orientalia Vilnensia (opened carrier)](https://www.journals.vu.lt/acta-orientalia-vilnensia/article/download/18347/17527/31254) — reproduces the pure experience opening (pp. 3-4) and the will-base passage (p. 28)
+- [Tyler 2013, University of Mississippi thesis (opened carrier)](https://egrove.olemiss.edu/cgi/viewcontent.cgi?article=1751&context=etd) — reproduces the truth-singular passage (p. 37), the identical-unifying-activities passage (p. 91) and the deepest-power passage (p. 125)
+- [Nishida Kitarō, An Inquiry into the Good, trans. Masao Abe and Christopher Ives (Yale University Press, 1990)](https://archive.org/details/inquiryintogood0000nish) — the book itself, lending-only at the Internet Archive
 
 ## Psychology parallels
 
