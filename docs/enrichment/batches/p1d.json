@@ -66,10 +66,11 @@
   "AT006",
   "B067",
   "B128",
-  "B129",
-  "R117"
+  "R117",
+  "AT020",
+  "B129"
  ],
- "in_progress": "AT020",
+ "in_progress": null,
  "flagged": {
   "D017": "QC note: inherited scab example kept per protocol; advisor calls it a medical claim needing a source; supervisor to arbitrate",
   "BI012": "Supervisor repair independently PASS: Carter exact; Bode association limits; NHS assessment advice; causal anecdote and medical-first rule removed (2026-10-19)",
@@ -83,10 +84,11 @@
   "PP011": "QC final: loving-kindness named; 'mechanism well-supported' hedge removed per advisor; owner hedge noted for supervisor",
   "P164": "QC final: invented evidential history removed; Rogers presented as proposed definition",
   "D071": "reflections comment carries inherited 'frozen-stone' wording not in the opened Legge dialogue (source has stump-of-broken-trunk/branch-of-rotten-tree); reflections are protected so not edited here — supervisor to arbitrate",
-  "D107": "inherited Nietzsche/Deleuze comparison block in Philosophy parallels (Colebrook 2002 source note, earlier agent) untouched and unverified in this takeover — supervisor to re-check if desired"
+  "D107": "inherited Nietzsche/Deleuze comparison block in Philosophy parallels (Colebrook 2002 source note, earlier agent) untouched and unverified in this takeover — supervisor to re-check if desired",
+  "B129": "Reopened for QC: QC correction (item-5 milestone): unsourced Zen claims removed; compendium-reading labels applied; advisor PASS on revised body"
  },
  "missing_concepts": [],
  "sources_checked": 82,
- "updated": "2026-10-20T03:49:52+00:00",
+ "updated": "2026-10-20T03:54:50+00:00",
  "band_done": false
 }
