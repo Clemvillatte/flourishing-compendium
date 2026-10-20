@@ -12,17 +12,18 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 90** — Test experience layer by layer
 
-The Taittiriya maps the person as sheaths: body, energy, mind, understanding, and bliss; each is to be examined and, in the method, seen as an object of awareness rather than as the self. The bounded formulation: experience comes in layers, and each layer can be the object of attention rather than the identity. Practically, when overwhelmed, locate the layer (is this body, energy, emotion, thought?) and attend to it as object rather than as self.
+The Taittiriya maps the person as sheaths, each introduced with the same formula: "Different from this, which consists of the essence of food, is the other, the inner Self, which consists of breath." And again, one rung up: "Different from this, which consists of breath, is the other, the inner Self, which consists of mind." ([Taittiriya Upanishad II.2-3, Müller translation](https://archive.org/details/p2upanishads00mluoft)) The ladder continues through understanding to bliss, and the chapter's summary names the full set: "the Self which consists of food, the Self which consists of breath, the Self which consists of mind, the Self which consists of understanding, the Self which consists of bliss." ([II.5 context, Müller translation](https://archive.org/details/p2upanishads00mluoft))
 
-(Taittiriya Upanishad 2.1-2.5, the pancha kosha.)
+In the method, each sheath is examined and seen as an object of awareness rather than as the self. The compendium's application: when overwhelmed, locate the layer, is this body, energy, emotion, thought? and attend to it as object rather than as self.
 
-**Plain words** The Taittiriya maps the person as sheaths: body, energy, mind, understanding, bliss — each layer examined as an object of awareness rather than as the self. Experience comes in layers, and each layer can be the object while something witnesses it. Test them, layer by layer.
+**Plain words** The old map says a person is a set of Russian dolls: a food-body, a breath-body, a mind, an understanding, a bliss. The exercise tests each doll: can it be watched? If it can be watched, it is one of the dolls, not whoever is watching.
 
-*For example:* Someone assumes the fatigue is "them" — then tests it as a layer: is the fatigue the seer or the seen? Seen, it turns out. The layer-map is doing its work when the fatigue becomes weather instead of identity.
+*For example:* Someone assumes the fatigue is them, then tests it as a layer: is the fatigue the seer or the seen? Seen, it turns out.
 ## Psychology parallels
 
-- **Interoceptive and somatic awareness as layered processing**, the evidence that body-focused attention changes emotional experience (Khalsa et al., 2018)
+- **Interoceptive and somatic awareness as layered processing** (Khalsa et al., 2018)
 
 ## Philosophy parallels
 
-- **[[The layered soul|The layered soul]]** (Aristotle, De Anima II)- **[[Viveka|Viveka]]** (Yoga-Vedanta)
+- **[[The layered soul|The layered soul]]** (Aristotle, De Anima II)
+- **[[Viveka|Viveka]]** (Yoga-Vedanta)
