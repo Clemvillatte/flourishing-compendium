@@ -178,3 +178,9 @@ Per-item evidence notes (owner concise-bar items 6-7). Manifest: BE012..CO061, 3
 - Sources opened: KKT 1990 (MIT-hosted PDF, abstract and mug-experiment excerpts as returned by search); Maddux et al. 2010 PubMed abstract. Quotes verified verbatim against those excerpts.
 - Thaler 1980 not opened; "weaker in cultures with less individual ownership norms" is a loose paraphrase of Maddux (East Asian vs Western, self-enhancement). House-pricing example replaced with an imagined one.
 - QC: self-QC only; validator pass.
+
+## CO037 — Fundamental attribution error
+- Sources opened: Malle 2006 PubMed abstract; Miyamoto & Kitayama 2002 PubMed abstract; Walker/Smith/Vul 2015 (MIT PDF, search excerpt) describing Jones & Harris 1967. Quotes verified verbatim.
+- Substantive correction: the entry merges the FAE/correspondence bias (supported) with the actor-observer asymmetry (Malle 2006 meta-analysis: no asymmetry across valence). Body now separates them.
+- Ross 1977, Nisbett et al. 2001 not opened; Jones & Harris original not read in full.
+- QC: self-QC only; validator pass.
