@@ -1217,3 +1217,11 @@ Advisor QC found batch-level and per-item issues; all repaired. Findings and rep
   sources — a concept, not a principle or comparison. No namespace-audit entry (grep).
 - Saturation: skipped per fast-track §1a (degree 10 < 15); no cross-link proposals
   filed; note in batch log.
+
+- Advisor QC round 2: two further repairs applied — the "not whether a belief is
+  correct but whether holding it helps" contrast replaced with the advisor's
+  kernel-paraphrase sentence (K135 quotation dropped); Inherited references
+  subsection added before the four unopened citation lines. Validator ok
+  (--fast-track, no link losses vs HEAD); item reopened then re-done with this
+  round recorded. Round-2 verdict: "sufficient for scoped fast-track acceptance
+  once verified; no further Workability research needed."

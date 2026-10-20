@@ -13,7 +13,7 @@ In Acceptance and Commitment Therapy (ACT), [[Workability]] is a criterion for a
 
 ### What the test does
 
-The question a client is invited to ask is not whether a belief is correct but whether holding it helps; because values specify the criteria, the test needs the person's own valued directions before anything can count as working. The compendium's practice kernel [[K135 — Workability check]] turns this into two questions: "Is holding this view working for me? Does it help me act in ways that align with my values?"
+The compendium's practice kernel [[K135 — Workability check]] applies the criterion to holding a view: does doing so help a person act in line with their values?
 
 ### In the compendium
 
@@ -37,6 +37,11 @@ The question a client is invited to ask is not whether a belief is correct but w
 ## Sources
 
 - [Hayes, S. C., "Philosophical roots" (2006), contextualscience.org](https://contextualscience.org/book/export/html/49325) — the workability-as-truth-criterion sentence and the functional-contextualism grounding
+
+### Inherited references
+
+These references were retained from the original entry and were not consulted for this revision.
+
 - Hayes, A Liberated Mind (2019)
 - Hayes et al., 2011
 - Hayes, 2019

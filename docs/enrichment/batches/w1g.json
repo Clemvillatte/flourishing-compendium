@@ -108,10 +108,11 @@
   "Uncertainty tolerance": "Reopened for QC: QC round 7: remove excerpt-only 1998 statistics, tolerance-inverse and origin claims, therapeutic prediction; fix blockquote interval",
   "Unconditional positive regard": "Reopened for QC: QC round 7: proposal framing, blockquote attribution, facets citation, trailing fragments cleanup",
   "Weekly-review implementation intentions": "Reopened for QC: QC round 7: RePEc record title, bounded argument framing, application label, locators, gloss citations",
-  "Work engagement": "Reopened for QC: QC round 7: remove excerpt-only CFA details and origin claim, delete causal contrast, fix Burnout gloss, facet cleanup, blockquote locator"
+  "Work engagement": "Reopened for QC: QC round 7: remove excerpt-only CFA details and origin claim, delete causal contrast, fix Burnout gloss, facet cleanup, blockquote locator",
+  "Workability": "Reopened for QC: advisor round-2 repairs (correctness contrast removed, inherited references section)"
  },
  "missing_concepts": [],
  "sources_checked": 24,
- "updated": "2026-10-20T11:29:57+00:00",
+ "updated": "2026-10-20T11:32:20+00:00",
  "band_done": false
 }
