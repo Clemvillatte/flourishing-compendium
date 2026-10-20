@@ -12,13 +12,22 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 ---
 > **Principle 39** — Cultivate justice
 
-The virtue of justice includes teamwork, fairness, and leadership. It is the capacity to act for the good of the community, not just the self. Its cultivation is not about ideology. It is about the practical capacity to consider the interests of others and to act on that consideration. Research on procedural justice (Tyler) shows that perceived fairness predicts cooperation, compliance, and well-being.
+In the VIA classification, justice is the civic strengths that underlie healthy community life: fairness, leadership and teamwork ([Peterson and Seligman, 2004, Table 1 as reprinted in Ruch and Proyer, 2015](https://www.viacharacter.org/pdf/MAPPING%20STRENGTHS%20INTO%20VIRTUES.pdf)).
+
+> "We regard strengths of justice as broadly interpersonal, relevant to the optimal interaction between the individual and the group or the community." (Peterson and Seligman, 2004, p. 357, [as quoted in Ruch and Proyer, 2015](https://www.viacharacter.org/pdf/MAPPING%20STRENGTHS%20INTO%20VIRTUES.pdf))
+
+The procedural-justice research gives the practical payoff. In Tyler's Chicago study, legitimacy was "more influential than was the risk of being caught and punished for rule breaking" (p. 271), and its basis "is the justice of the procedures used by legal authorities" (p. 272) rather than the favorability of the decisions ([Tyler, 2006, afterword](http://assets.press.princeton.edu/chapters/p8230.pdf)).
 
 (Peterson and Seligman, 2004; Tyler, 2006.)
 
-**Plain words** The virtue of justice includes teamwork, fairness and leadership. It's the practical capacity to consider others' interests and act on it, rather than ideology. Research on procedural justice shows people accept outcomes better when the process feels fair.
+**Plain words** A fair process is one people can watch happening: the same rules for everyone, a chance to speak, a decision explained. People accept outcomes they dislike when the process treats them as members, and groups run on that consent. The VIA strengths underneath are fairness, leadership and teamwork.
 
 *For example:* A manager explains how a decision was made before announcing it, and people accept it even though they disliked it.
+
+## Sources
+
+- [Ruch and Proyer 2015, "Mapping strengths into virtues," Frontiers in Psychology 6:460, VIA copy](https://www.viacharacter.org/pdf/MAPPING%20STRENGTHS%20INTO%20VIRTUES.pdf) — justice definitions (Table 1); carries the Peterson and Seligman 2004, p. 357 quotation
+- [Tyler 2006, Why People Obey the Law, afterword to the 2006 edition, Princeton UP sample chapter](http://assets.press.princeton.edu/chapters/p8230.pdf) — pp. 270-273, legitimacy and procedural justice findings
 
 ## Stories
 
