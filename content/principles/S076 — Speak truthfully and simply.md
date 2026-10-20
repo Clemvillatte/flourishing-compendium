@@ -12,16 +12,14 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 198** — Speak truthfully and simply
 
-Marcus makes plainness a rule of conduct first, then of words: "nor let studied ornament set off thy thoughts, and be not either a man of many words, or busy about too many things" ([Meditations III.5, George Long translation](https://www.gutenberg.org/cache/epub/15877/pg15877.txt)). Announcing one's honesty is already a defect of it: "How unsound and insincere is he who says, I have determined to deal with thee in a fair way! ... The voice ought to be plainly written on the forehead ... But the affectation of simplicity is like a crooked stick" (Meditations XI.15). Epictetus turns the same rule on philosophical talk:
+Marcus warns against studied ornament and being a man of many words (III.5). In XI.15 he criticises announcing one's fair dealing, saying that it will show itself in acts. Epictetus gives a practical example of acting on a rule:
 
 > "On no occasion call yourself a philosopher, and do not speak much among the uninstructed about theorems (philosophical rules, precepts): but do that which follows from them. For example at a banquet do not say how a man ought to eat, but eat as you ought to eat." (Epictetus, Enchiridion 46, trans. George Long, [Delphi Complete Works of Epictetus](https://drive.google.com/file/d/1EDkL63FuSpabjbB7amxNodYocj_q_vaH/view))
-
-The compendium's reading: truthful speech needs no staging, and simple speech is the honest default, with ornament something to justify rather than reach for.
 
 (Med. III.5, XI.15; Ench. 46.)
 
 **Plain words**
-Ornament is the giveaway. When sentences arrive heavily worked, with long words carrying short facts, a listener starts wondering what the performance covers. The Stoic test is harsher than a style rule: if you must announce that you are being fair, the announcement is itself the defect. Say the thing plainly, then let what you do next repeat it.
+As a practical exercise, replace a claim about your own honesty with a clear account of what you will do. Follow through on it. When asking for something, try removing wording that adds no information to the request.
 
 *For example:* Replacing "I was wondering if perhaps we might possibly..." with "Can we move the meeting?"
 

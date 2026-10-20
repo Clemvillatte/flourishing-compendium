@@ -12,16 +12,16 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 197** — Do not gossip
 
-Book I of the Meditations is a credit-list: Marcus records what he learned from people he knew, and the entry for Alexander the Grammarian is a speaking discipline:
+Marcus recalls Alexander's way of correcting language without reproach (I.10):
 
 > "From Alexander the grammarian, to refrain from fault-finding, and not in a reproachful way to chide those who uttered any barbarous or solecistic or strange-sounding expression; but dexterously to introduce the very expression which ought to have been used" (Marcus Aurelius, Meditations, Book I, section 10, [George Long translation](https://www.gutenberg.org/cache/epub/15877/pg15877.txt))
 
-The longer remembrance of his adoptive father Antoninus Pius sits in Book VI, as part of the instruction to do everything as a disciple of Antoninus: "how he did nothing in a hurry; and how he listened not to calumnies, and how exact an examiner of manners and actions he was; and not given to reproach people, nor timid, nor suspicious" (Book VI, section 30). The listening half and the speaking half are both there: no ear for calumnies, no habit of reproach.
+Book VI carries the same discipline into the remembrance of Antoninus Pius: "how he did nothing in a hurry; and how he listened not to calumnies, and how exact an examiner of manners and actions he was; and not given to reproach people, nor timid, nor suspicious" (Book VI, section 30).
 
 **Plain words**
-Two habits are refused at once: listening to calumnies, and reproaching people. The first is a listening discipline, the second a speaking one. Marcus's method is to name a person he watched and one specific thing that person did. Alexander's version of the method is still the cleanest on offer: when someone mispronounces a word, use the word correctly in your reply and let the correction happen without a scene.
+As a practical exercise, ask what you actually know before repeating an accusation. You can leave it out of the next conversation. When correcting someone's wording, try supplying the right expression in your reply without rebuking the speaker.
 
-For example: At lunch, you decline to discuss a colleague's divorce.
+*For example (imagined):* At lunch, someone repeats an accusation about a colleague. You decline to pass it on to the next person.
 
 ## Sources
 
