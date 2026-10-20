@@ -151,3 +151,9 @@ Band: AF002..BE033, 30 principles, degree order (queue 628-673). Advisor QC cade
 - Unresolved (removed from page, recorded here): Altmann & Trafton 2002, Monk et al. 2008, Hodgetts & Jones 2006 interruption-cost parallels (none opened).
 - Plain words: replicate fixed; example replaced with labelled imagined case.
 - Proposals: reciprocal into Attention residue (lead read during milestone QC; full body not read).
+
+## AT032 — Recognise the role of interest and motivation in attention
+- Evidence: Hidi & Renninger 2006, Educational Psychologist 41(2) 111-127, abstract via ERIC (eric.ed.gov/?id=EJ736298), fetched this session. Both quoted sentences verified verbatim (phase list; affective-and-cognitive sentence).
+- Scope: "interesting tasks hold attention with less effort" kept as the compendium's application (the abstract describes phases, not attentional effort); Silvia 2006 citation dropped; Engelmann & Pessoa 2007 / Pessoa 2009 motivation-modulates-attention lines removed (unopened); Brown 2013 citation dropped from the ADHD parallel (wikilink kept).
+- Plain words: replicate fixed; example relabelled as imagined case and tied to the triggered/maintained distinction.
+- Proposals: reciprocal into ADHD: interest-based attention and Flow (leads read during milestone QC; full bodies not read).

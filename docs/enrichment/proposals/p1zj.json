@@ -1,6 +1,6 @@
 {
  "batch": "p1zj",
- "revision": 19,
+ "revision": 20,
  "records": [
   {
    "action": "reciprocal",
@@ -259,6 +259,20 @@
    "into": "Attention residue",
    "link": "AT029",
    "why": "listed for comparison with the principle's residue reading of the Leroy findings",
+   "notes": "target page lead reviewed during milestone QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
+  },
+  {
+   "action": "reciprocal",
+   "into": "ADHD: interest-based attention",
+   "link": "AT032",
+   "why": "listed for comparison with the principle's interest-scaffolds-attention reading",
+   "notes": "target page lead reviewed during milestone QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
+  },
+  {
+   "action": "reciprocal",
+   "into": "Flow",
+   "link": "AT032",
+   "why": "listed for comparison with the principle's interest-scaffolds-attention reading",
    "notes": "target page lead reviewed during milestone QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
   }
  ]

@@ -12,16 +12,26 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AT — Attentio
 ---
 > **Principle 32** — Recognise the role of interest and motivation in attention
 
-Attention is much easier to sustain when the task is interesting, meaningful, or valued. Boring or meaningless tasks require far more effortful attention and deplete faster. Understanding this allows you to either find meaning in tasks or design around them.
+The opened source here is Hidi and Renninger's four-phase model of interest development. Their abstract describes the phases:
 
-**Plain words** Attention follows interest — that's not a flaw, it's physics. Boring tasks will always need scaffolding: deadlines, stakes, curiosity hacks, or company. Design around it instead of shaming yourself for it.
+> "The model describes 4 phases in the development and deepening of learner interest: triggered situational interest, maintained situational interest, emerging (less-developed) individual interest, and well-developed individual interest." ([Hidi & Renninger, 2006, Educational Psychologist 41, abstract](https://eric.ed.gov/?id=EJ736298))
 
-*For example:* The tax return done in a café with a pastry and a timer — not because cafés are magic, but because the task was never interesting enough to stand alone.
+> "Affective as well as cognitive factors are considered." ([Hidi & Renninger, 2006, same abstract](https://eric.ed.gov/?id=EJ736298))
+
+The abstract does not state that attention is easier for interesting tasks; it describes phases of interest development. The compendium's reading — that interest scaffolds attention, and that tasks without interest need designed support — is its own application of the model's distinction between triggered, maintained and individual interest.
+
+**Plain words** The model says interest starts as something a situation triggers, and can either fade or deepen into something you carry with you. The practical upshot for attention: interest is not a fixed trait of the task. A task with no interest yet needs external scaffolding — structure, stakes, company — and whether the scaffolding holds depends on whether interest has been triggered at all.
+
+*For example:* (Imagined case.) The tax return done in a café with a pastry and a timer: the café is triggered situational interest, environmental novelty plus stakes. The model's warning is that triggered interest fades unless something maintains it; hence the timer, not just the pastry.
+
+## Sources
+
+- [Hidi, S., & Renninger, K. A. (2006). The four-phase model of interest development. Educational Psychologist 41(2), 111-127, abstract](https://eric.ed.gov/?id=EJ736298) — the phase description quoted above
+
 ## Psychology parallels
 
-- **Interest and attention**, intrinsically interesting tasks capture and hold attention with less effort (Hidi & Renninger, 2006; Silvia, 2006)
-- **Motivation modulates attentional control**, motivated attention is stronger and more sustained (Engelmann & Pessoa, 2007; Pessoa, 2009)
-- **[[ADHD: interest-based attention|ADHD: interest-based attention]]**, attention is driven by interest and novelty rather than importance (Brown, 2013)
+- **Interest and attention**, the source quoted above (Hidi & Renninger, 2006)
+- **[[ADHD: interest-based attention|ADHD: interest-based attention]]**, attention is driven by interest and novelty rather than importance
 
 ## Philosophy parallels
 
