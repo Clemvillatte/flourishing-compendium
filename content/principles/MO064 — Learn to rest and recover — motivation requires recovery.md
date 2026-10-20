@@ -12,11 +12,22 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 ---
 > **Principle 64** — Learn to rest and recover: motivation requires recovery
 
-Motivation is not infinite; it requires rest and recovery. Sustained effort without recovery leads to burnout. Deliberate recovery (rest, sleep, play, nature) is a motivational practice.
+Sonnentag's diary research links rest outside work to motivation inside it. In a study of 147 employees over five working days, "day-level recovery was positively related to day-level work engagement and day-level proactive behavior (personal initiative, pursuit of learning) during the subsequent work day" (Sonnentag, 2003, Journal of Applied Psychology, [PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/12814299/)). In another study of 166 employees, "low psychological detachment from work during the evening predicted negative activation and fatigue, whereas mastery experiences during the evening predicted positive activation and relaxation predicted serenity" the next morning (Sonnentag, Binnewies & Mojza, 2008, Journal of Applied Psychology, [PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/18457495/)).
 
-**Plain words** Motivation requires recovery — rest isn't the absence of work, it's part of the work. Effort without recovery is a subscription to decline. Schedule the recovery like it's a deadline, because it is one.
+Sonnentag and Fritz distinguish four kinds of recovery experience: "psychological detachment from work, relaxation, mastery, and control" (2007, Journal of Occupational Health Psychology, [PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/17638488/)). So recovery has several forms, and what counts as rest depends on whether it truly takes your mind off work. These abstracts describe employees' reports within a few days. I did not open evidence for the link between missing recovery and burnout, or for nature and sleep as recovery practices, so I make no claim about them here.
 
-*For example:* The athlete's rest days, the writer's empty mornings — the recovery is in the training plan, not stolen from it. The amateur treats rest as theft. The professional treats it as equipment.
+**Plain words**
+Your motivation for tomorrow depends partly on how you spent tonight. Rest that really lets you switch off, or that gives you something you are good at, gives you more energy the next day. Put it in the plan.
+
+**For example**
+A teacher stops marking at six and spends the evening on a woodworking project she enjoys. Imagine her next morning: she is likelier to arrive with energy than if she had marked until bedtime.
+
+## Sources
+
+- [Sonnentag (2003), Recovery, work engagement, and proactive behavior, J. Appl. Psychol.](https://pubmed.ncbi.nlm.nih.gov/12814299/): abstract opened
+- [Sonnentag, Binnewies & Mojza (2008), "Did you have a nice evening?", J. Appl. Psychol.](https://pubmed.ncbi.nlm.nih.gov/18457495/): abstract opened
+- [Sonnentag & Fritz (2007), The Recovery Experience Questionnaire, J. Occup. Health Psychol.](https://pubmed.ncbi.nlm.nih.gov/17638488/): abstract opened
+
 ## Psychology parallels
 
 - **Effort-recovery model**, recovery from effort is essential for sustained motivation (Sonnentag & Fritz, 2007; Meijman & Mulder, 1998)
