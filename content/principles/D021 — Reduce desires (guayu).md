@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 21** — Reduce desires (guayu)
 
-Chapter 19 of the Daodejing lists three renunciations, sageness and wisdom, benevolence and righteousness, artful contrivance and scheming for gain, and closes its verse with what a plainer course would do: "Would selfish ends and many lusts eschew." Chapter 37 says that if rulers could maintain the Tao, all things would transform of themselves, and it closes:
+Chapter 19 of the Daodejing lists three renunciations, sageness and wisdom, benevolence and righteousness, artful contrivance and scheming for gain, and closes its verse with what a plainer course would do: "Would selfish ends and many lusts eschew." Chapter 37 says that if princes and kings were able to maintain the Tao, all things would of themselves be transformed by them, and it closes:
 
 > "Simplicity without a name
 > Is free from all external aim.
