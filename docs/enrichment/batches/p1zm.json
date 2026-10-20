@@ -2,7 +2,9 @@
  "batch": "p1zm",
  "done": [
   "K051",
-  "K065"
+  "K065",
+  "M007",
+  "M008"
  ],
  "in_progress": null,
  "flagged": {
@@ -10,6 +12,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T10:05:35+00:00",
+ "updated": "2026-10-20T10:06:48+00:00",
  "band_done": false
 }

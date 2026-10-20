@@ -12,16 +12,24 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "M — Mesoam
 ---
 > **Principle 7** — Expect the in-between to be uncomfortable, and do not flee it prematurely
 
-Nepantla's signature affect is vertigo: the old certainties are gone and the new ones have not formed. The tradition's counsel is patience with the condition, because the new form is built in the middle, not after it; leaving early means rebuilding the old form in the new place. Practically, in a transition, resist the first offer of closure (the quick new commitment, the premature identity, the borrowed certainty) and give the middle the time it is asking for.
+Nepantla's signature affect is vertigo: the old certainties are gone and the new ones have not formed. Anzaldua's account of the mestiza names the condition and its price:
 
-(The nepantla analysis in Anzaldua's later work, labeled modern; the transition literature's parallel findings.)
+> "In a constant state of mental nepantilism, an Aztec word meaning torn between ways, la mestiza is a product of the transfer of the cultural and spiritual values of one group to another." (Borderlands/La Frontera, 2nd ed., p. 100)
 
-**Plain words** The in-between feels like vertigo: old certainties gone, new ones not formed. The counsel is patience — because the new form is built in the middle, not after it. Leave early and you just rebuild the old form in the new place. Resist the first offer of certainty.
+She describes the clash of frames as producing "mental and emotional states of perplexity" and "internal strife" that show up as "insecurity and indecisiveness" (p. 100). The discomfort is the working material, not a malfunction: the synthesis she points toward is "a third element which is greater than the sum of its severed parts" (p. 102). The counsel is patience with the condition, because the new form is built in the middle, not after it; leaving early means rebuilding the old form in the new place. Practically, in a transition, resist the first offer of closure (the quick new commitment, the premature identity, the borrowed certainty) and give the middle the time it is asking for.
 
-*For example:* Someone who leaps into the rebound relationship, the rebound job, the rebound city — and notices each new place slowly fills with the old shape. The one who stays in the vertigo six months builds something actually new.
+**Plain words**
+Being between feels like standing in a doorway with both rooms pulling. The pull is information: something is being assembled in you that belongs to neither room alone. The exits on offer, whether going back, committing early, or borrowing someone else's certainty, each cost you the assembly. Nothing here says enjoy the vertigo; it says don't leave before it finishes.
+
+*For example:* Someone who leaps into the rebound relationship, the rebound job, the rebound city — and notices each new place slowly filling with the old shape. The one who stays in the vertigo a while is the one with a chance of building something neither old place had.
+
+## Sources
+
+- Gloria Anzaldua, Borderlands/La Frontera: The New Mestiza, 2nd ed. (Aunt Lute Books, 1999), "La conciencia de la mestiza / Towards a New Consciousness", pp. 100-102 — [full text PDF hosted by the USC Dornsife Writing Center](https://dornsife.usc.edu/writingcenter/wp-content/uploads/sites/119/2023/01/anzaldua_gloria_-_borderlands_la_frontera.pdf)
+
 ## Psychology parallels
 
-- **Rebound relationships and premature closure**, the clinical observations that decisions made to end transition-distress are often the transition's failures (the decision-making under distress literature, as framework)
+- **Rebound relationships and premature closure**, where the empirical record cuts against the folk wisdom: Brumbaugh and Fraley (2015) found people who began new relationships quickly after a breakup were not worse off, in some measures better — the principle's warning about premature closure is a claim about identity work, not a settled clinical finding
 
 ## Philosophy parallels
 

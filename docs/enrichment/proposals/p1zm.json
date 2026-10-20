@@ -1,6 +1,6 @@
 {
  "batch": "p1zm",
- "revision": 2,
+ "revision": 3,
  "records": [
   {
    "action": "reciprocal",
@@ -8,6 +8,20 @@
    "link": "K051",
    "why": "Tsongkhapa's lamrim karma chapter: the Tibetan-Buddhist statement that an act leaves an inclination toward repeating it, quoted verbatim from the Great Treatise",
    "notes": "the Karma hub lists principles whose text mentions karma; K051's body cites Tsongkhapa's karma chapter with a verbatim Great Treatise quotation"
+  },
+  {
+   "action": "reciprocal",
+   "into": "Nepantla",
+   "link": "M007",
+   "why": "the in-between's discomfort named and counselled: Anzaldua's mestiza nepantilism passage quoted verbatim as the condition this principle tells you to sit through",
+   "notes": "Nepantla concept's Cited in philosophy parallels section is empty; M007 links [[Nepantla]] in its philosophy parallels"
+  },
+  {
+   "action": "reciprocal",
+   "into": "Nepantla",
+   "link": "M008",
+   "why": "the middle as an epistemic vantage: Anzaldua's both-shores-at-once passage quoted verbatim as the position this principle tells you to use",
+   "notes": "M008 links [[Nepantla]] in its philosophy parallels"
   }
  ]
 }
