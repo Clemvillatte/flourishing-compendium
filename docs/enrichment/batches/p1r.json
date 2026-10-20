@@ -23,10 +23,9 @@
   "P132",
   "P133",
   "P135",
-  "P136",
-  "P137"
+  "P136"
  ],
- "in_progress": null,
+ "in_progress": "P137",
  "flagged": {
   "P058": "Reopened for QC: QC round-3 touch-ups",
   "P054": "Reopened for QC: QC round-3 touch-ups",
@@ -39,10 +38,11 @@
   "P132": "Reopened for QC: QC round 2: ledger accounting corrected",
   "P133": "Reopened for QC: QC round 2: stale ledger bullet fix",
   "P135": "Reopened for QC: QC round 2: stale ledger bullets",
-  "P136": "Reopened for QC: QC round 2: ligature restoration"
+  "P136": "Reopened for QC: QC round 2: ligature restoration",
+  "P137": "Reopened for QC: QC round 1 (advisor): copyright-bounded quotation, application labeled, plain words/example rebuilt, ledger rebuilt"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T05:07:35+00:00",
+ "updated": "2026-10-20T05:09:26+00:00",
  "band_done": false
 }
