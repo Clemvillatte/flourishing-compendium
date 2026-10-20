@@ -12,11 +12,20 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 4** — Understand that self-esteem is not the same as self-worth
 
-Self-esteem is the evaluative component of self — how positively or negatively you judge yourself. It is contingent, fragile, and dependent on external feedback. Self-worth — the underlying sense that you have value — is distinct from self-esteem and is more stable. Confusing the two leads to fragile well-being.
+Crocker and Wolfe reframed the research question: "Research on self-esteem has focused almost exclusively on level of trait self-esteem to the neglect of other potentially more important aspects such as the contingencies on which self-esteem is based" (Crocker & Wolfe, 2001, p. 593). Self-esteem staked on contingencies (approval, appearance, competence, competition) rises and falls with events in those domains. Their scale measures seven such domains: "approval, appearance, God's love, family support, school competency, competition, and virtue" (p. 612).
 
-**Plain words** Self-esteem is the evaluation — how positively you judge yourself — and it's contingent, fragile, feedback-dependent. Self-worth is the underlying sense that you matter regardless. Confusing them is why one bad review can collapse a whole person.
+> "According to our model, self-esteem is unstable when people experience events (whether externally or internally generated) they construe as positive or negative in domains in which their self-esteem is contingent." (Crocker & Wolfe, Contingencies of Self-Worth, Psychological Review 108, 2001)
 
-*For example:* The high-achiever whose self-esteem is excellent — right up until the first failure, which arrives as total annihilation — versus the one whose worth was never staked on the scoreboard. Same setback; one of them recovers by Friday.
+The page's distinction follows: self-esteem is the evaluative component, how positively you judge yourself, and it is feedback-dependent when contingent. Self-worth, the underlying sense that you have value, is the noncontingent counterpart; Crocker and Wolfe close their abstract by asking "whether some people have noncontingent self-esteem." Confusing the two leads to fragile well-being.
+
+**Plain words**
+Ask of your good feeling about yourself: what would have to happen for it to disappear? If the answer is a rejection, a failed exam, or a bad month, then what you have is self-esteem on a contingency — a stock that tracks other people's opinions. Self-worth is the sense that you count without the tracking. The exercise: list what your self-esteem depends on, and ask which of those you would keep if the grades stopped coming.
+
+*For example:* Imagine a high-achiever whose self-esteem is excellent — right up until the first failure, which arrives as total annihilation — versus the one whose worth was never staked on the scoreboard. Same setback; one of them recovers by Friday.
+## Sources
+
+- [Crocker, J., & Wolfe, C. T. (2001), Contingencies of Self-Worth, Psychological Review 108(3), 593-623 (full-text PDF)](https://static1.squarespace.com/static/6a760291307e26027c8c5a39/t/6a7a6dfef31cab43f5369c87/1786408447478/Crocker&Wolfe_2001_PsychRev.pdf) — abstract p. 593; the instability model; the seven CSWS domains
+
 ## Psychology parallels
 
 - **[[Contingencies of self-worth (Crocker)|Contingencies of self-worth (Crocker)]]**, self-esteem that is contingent on external domains (appearance, approval, competence) is fragile and associated with worse outcomes (Crocker & Wolfe, 2001; Crocker, 2002)
