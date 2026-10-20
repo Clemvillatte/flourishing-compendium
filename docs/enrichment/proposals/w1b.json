@@ -284,6 +284,21 @@
       "into": "Schadenfreude",
       "link": "Mudita (sympathetic joy)",
       "why": "Schadenfreude is the inverse of mudita: pleasure at another's misfortune versus joy at their fortune."
+    },
+    {
+      "into": "Experiential avoidance research",
+      "link": "Psychological flexibility",
+      "why": "Experiential avoidance is the counter-construct psychological flexibility is defined against."
+    },
+    {
+      "into": "Acceptance alongside values-based action",
+      "link": "Psychological flexibility",
+      "why": "Acceptance alongside values-based action is the acceptance half of psychological flexibility."
+    },
+    {
+      "into": "Cognitive defusion",
+      "link": "Psychological flexibility",
+      "why": "Cognitive defusion is the looking-at-thoughts half of psychological flexibility."
     }
   ],
   "inline": [
@@ -406,6 +421,16 @@
       "into": "AF062",
       "concept": "Mudita (sympathetic joy)",
       "phrase": "Buddhism, Mudita"
+    },
+    {
+      "into": "B010",
+      "concept": "Psychological flexibility",
+      "phrase": "psychological flexibility"
+    },
+    {
+      "into": "B125",
+      "concept": "Psychological flexibility",
+      "phrase": "psychological flexibility"
     }
   ]
 }
