@@ -39,13 +39,11 @@
   "The moving body",
   "The narrative self",
   "The ongoing reduction",
-  "The right amount of effort",
   "The question kept alive",
   "The question of being (Seinsfrage)",
-  "The quiet craftsman's life",
   "The return to the inner self"
  ],
- "in_progress": null,
+ "in_progress": "The quiet craftsman's life",
  "flagged": {
   "Spontaneous right action": "title pending supervisor disposition: compendium heading, not the tradition's term (zhixing heyi); flagged in concept-namespace-audit.md worker flags",
   "The natural rhythm of warmth and cool": "title pending supervisor disposition: compendium heading over a real Zhuangzi ch.6 image; flagged in audit worker flags",
@@ -78,10 +76,11 @@
   "The moving body": "fast-track enriched (item 18); degree 10; PoP Smith translation (Internet Archive) opened, two motility passages verified verbatim; no rename needed",
   "The narrative self": "fast-track enriched (item 19); degree ~11; After Virtue full text opened via Internet Archive, story-telling-animal passage verified verbatim; Taylor not opened (left to citation); no rename needed",
   "The ongoing reduction": "fast-track enriched (item 20); degree ~14; SEP Husserl entry (Zahavi, 2025 revision) opened — Crisis full text NOT openly available (archive.org OCR unusable, library item access-restricted); page anchored on SEP quotes; FLAG for supervisor: 'ongoing' framing is the compendium's gloss (E012), not a phrase verified in the Crisis itself; seed citation 'Husserl, The Crisis' kept as inherited",
-  "The right amount of effort": "Reopened for QC: QC round 1: advisor repairs (quote fidelity, trainer example, extension removal, glosses)"
+  "The right amount of effort": "QC r2: body PASS; title/identity awaiting supervisor disposition (worker flag in concept-namespace-audit.md); NOT done pending disposition; researched body pushed as WIP",
+  "The quiet craftsman's life": "Reopened for QC: QC milestone: identity gate — seed's 'Book II, principle 94' referent unresolved; Zhuangzi research retained as WIP; title/identity awaiting supervisor disposition (worker flag in concept-namespace-audit.md); NOT done pending disposition"
  },
  "missing_concepts": [],
  "sources_checked": 8,
- "updated": "2026-10-20T08:00:19+00:00",
+ "updated": "2026-10-20T08:03:32+00:00",
  "band_done": false
 }
