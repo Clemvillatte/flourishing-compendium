@@ -1,12 +1,18 @@
 {
  "batch": "p1zw",
- "revision": 1,
+ "revision": 2,
  "reciprocal": [
   {
    "into": "Anatta",
    "link": "K069",
    "why": "listed for comparison: the early-Buddhist analysis of no permanent self beside K069's Zen koan on every way of being.",
    "notes": "Saturation scan 2026-10-20: Anatta page analyses the aggregates argument; K069 grounds Hisamatsu's formless self and fundamental koan. Distinct traditions and framings; comparison only; one-way link (K069's parallels already cover Pu and Identity)."
+  },
+  {
+   "into": "Pure experience",
+   "link": "K003",
+   "why": "listed for comparison: K003 applies Nishida's pure-experience opening to the unity of knowing and willing.",
+   "notes": "Saturation scan 2026-10-20: the concept's Nishida section quotes the Inquiry opening (via SEP) but does not link K003; K003's body now carries the same opening verbatim with page locators."
   }
  ]
 }

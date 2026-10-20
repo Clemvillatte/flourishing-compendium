@@ -12,13 +12,20 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 3** — Act from unity; reflect from unity
 
-In Nishida's early formulation, the true self is not found by introspecting harder but by returning to the unity of will and knowledge: when we act wholeheartedly, knowing and willing are one, and the self of that moment is the real one. The reflection that then carves the act into "a decider" and "a decision" is an abstraction from a working whole. Practically, trust the engaged state as a source of self-knowledge, not only the observing state; the person you are in full absorption is data about who you are.
+Nishida Kitarō's An Inquiry into the Good starts from a claim about experience, and the self comes later than the claim:
 
-(Nishida, An Inquiry into the Good, on the unity of will and intellect.)
+> "When one directly experiences one's own state of consciousness, there is not yet a subject or an object, and knowing and its object are completely unified." (Nishida, An Inquiry into the Good, trans. Abe & Ives, pp. 3-4, [Internet Archive](https://archive.org/details/inquiryintogood0000nish))
 
-**Plain words** Looking harder inward won't reveal the true self. Early Nishida says it shows up when you act with your whole attention, when knowing and willing are one. The carving into "a decider" and "a decision" comes afterwards. So trust wholehearted action as a source of self-knowledge, more than the inner commentary.
+The looker and the looked-at are carved out of a working whole, and Nishida says the same of willing. Reason and will "share the same foundation": "the unifying activity of the will functions at the base of all reason and laws" (p. 28), and "thinking, imagination, and the will are fundamentally identical unifying activities" (p. 91). He states the norm directly: "Fundamentally, truth is singular. Intellectual truth and practical truth must be one and the same. Those who think deeply or are genuinely serious inevitably seek congruence between knowledge and the practical realm of feeling and willing" (p. 37). The will is also where the self shows itself: "The deepest power unifying this whole is our so-called self, and the will is that which most completely expresses this power" (p. 125).
+
+**Plain words**
+Nishida's starting point: before experience splits into a watcher and a watched, there is just the doing. The split is something we perform afterwards, on the material of the engaged moment. That is why the moment of full absorption is a source of self-knowledge, and why the evaluation that follows it is the derived thing, not the primary one.
 
 *For example:* A good cook mid-service doesn't feel like she is deciding anything. The self at that moment is more real than the one that evaluates dinner afterwards.
+
+## Sources
+
+- [Nishida Kitarō, An Inquiry into the Good, trans. Masao Abe and Christopher Ives (Yale University Press, 1990)](https://archive.org/details/inquiryintogood0000nish) — pure experience opening (pp. 3-4); will passages (pp. 28, 91, 125); truth-singular passage (p. 37)
 
 ## Psychology parallels
 
