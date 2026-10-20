@@ -79,7 +79,11 @@
   OPERATIONS convention). Pass so far: build ok (5,719 entries); all 7 newly done p1q
   pages validate; D084/D116 sampled — quotes pass verbatim vs opened sources, prose
   repairs routed to the live p1q owner via taskboard. supervisor-1a2b3c remains live on
-  the p1q worker baton (owner-directed Daoism contribution, 14/30 done). Always run
+  the p1q worker baton (owner-directed Daoism contribution, 14/30 done). Integration pass:
+  repaired the dead p1g worker's broken proposals/p1g.json (committed conflict markers),
+  applied 34 recip + 1 inline across 28 files (validation 27/28, one pre-existing seed
+  FAIL), build ok. p1c/p1d/p1f proposals still carry audit-tail why clauses owed repair
+  before their integration. Always run
   `baton.py status` against the remote before acting.
 - PRIORITY RESERVES: manifests p1i-p1p exist, 30 previously unassigned B/D/P principles each.
   p1i/p1j have already been claimed; use remote batons and TASKBOARD for current availability.
