@@ -12,11 +12,13 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 209** — Do not waste time on trivialities
 
-Marcus tells himself to stop being distracted by what others are doing and to focus on his own work. Seneca warns against wasting time on gossip, entertainment, and idle conversation. The Stoic is intentional about how they spend their time.
+Seneca's answer to the complaint that life is short: "It is not that we have a short space of time, but that we waste much of it." (Seneca, On the Shortness of Life 1, tr. Basore, https://en.wikisource.org/wiki/On_the_shortness_of_life/Chapter_I.) The life we receive "is not short, but we make it so, nor do we have any lack of it, but are wasteful of it" (Ibid.) — and so, "life, if you know how to use it, is long." (On the Shortness of Life 2.)
 
-(Med. I.9, II.6, III.4, IV.18, V.9; Seneca, On the Shortness of Life 1, 2, 7; Disc. I.1, I.4, III.3.)
+What counts as wasting it is not rest or leisure but life spent on no good end: "one man is possessed by an avarice that is insatiable, another by a toilsome devotion to tasks that are useless; one man is besotted with wine, another is paralyzed by sloth" — and so on through ambition that hangs on others' decisions, servile attendance on the great, and the pursuit of other men's fortunes or complaint about one's own (2). The poet's line: "The part of life we really live is small"; "For all the rest of existence is not life, but merely time." (2.)
 
-**Plain words** Don't spend your time on trivia. Marcus tells himself to stop watching what others are up to and attend to his own work, and Seneca warns against gossip, entertainment and idle talk. Be deliberate about where your hours go.
+(Seneca, On the Shortness of Life 1, 2.)
+
+**Plain words** The length of a life is not the number of years but the number of hours you were actually there for. Distraction spends the day without buying anything; a day of attention is worth a week of it. Audit your time like money — where it went, what it bought, and whether the errand was yours or somebody else's.
 
 *For example:* Noticing you've spent forty minutes on a stranger's holiday photos and closing the app.
 
@@ -43,3 +45,6 @@ Is leisure trivial? Where do you draw the line between rest and waste?
 %%
 What does your attention say about your values when you track it for a day?
 -->
+
+## Sources
+- Seneca, On the Shortness of Life 1-2, tr. John W. Basore — opened and verified verbatim via the Wikisource API: https://en.wikisource.org/wiki/On_the_shortness_of_life/Chapter_I ; https://en.wikisource.org/wiki/On_the_shortness_of_life/Chapter_II

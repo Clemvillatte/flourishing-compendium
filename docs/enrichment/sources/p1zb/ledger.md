@@ -546,3 +546,21 @@ never-band-assigned work; p1g state had them flagged-only, absent from p1g's man
   third its philosophy parallel). One-directional: Community psychology theory and Social
   learning theory (Bandura) list S077 — no action (loose fit; the principle's own labels
   cover the ground). No new proposal warranted.
+
+## S087 — Do not waste time on trivialities
+- Full work: verbatim quotes added (On the Shortness of Life 1 — "It is not that we have a
+  short space of time, but that we waste much of it" and the make-it-so/wasteful sentence;
+  2 — "life, if you know how to use it, is long", the vices catalogue, and the poet's line
+  with "For all the rest of existence is not life, but merely time"), verified against the
+  Basore text opened via the Wikisource API (page fetches rate-limited; API parse used).
+  All 6 quotes mechanically verified in both file and source (one boundary repair during the
+  check: the poet's line had a comma substituted for the source's period — fixed to a
+  punctuation-free fragment boundary). Plain words rewritten as re-derivation (hours you
+  were there for). For-example kept. Sources section added.
+- Citation line trimmed to opened evidence (On the Shortness of Life 1, 2). Removed inherited
+  references, retained here: On the Shortness of Life 7; Med. I.9, II.6, III.4, IV.18, V.9;
+  Disc. I.1, I.4, III.3.
+- Saturation: reciprocal links confirmed for Time affluence and Attention management (both
+  list S087 and are the principle's own psychology parallels). Idle talk (Gerede) also lists
+  S087 (one-directional; loose fit — the Seneca material here is about vices and time, not
+  Heideggerian idle talk; no action). No new proposal warranted.
