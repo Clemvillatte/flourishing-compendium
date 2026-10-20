@@ -12,13 +12,20 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 94** — Don't exhaust yourself for what you don't need
 
-The mantis snatching the cicada forgets the boy behind it; the man polishing the city wall drops the bowl in his hand. Never trade your life-vessel for trinkets.
+In Zhuangzi's story, each creature is absorbed in the gain just in front of it. A cicada settles in the shade and forgets to watch for danger; a mantis pounces on it and forgets its own safety; a strange bird seizes them both and forgets its own preservation; Zhuangzi, watching all this with a crossbow, forgets his, and is chased off by the forester. He concludes that "things bring evil on one another" and admits he was guarding his person and forgot himself. (Zhuangzi 20.)
 
-(Zhuangzi 20, 19.)
+> "a preying mantis raised its feelers, and pounced on the cicada, in its eagerness for its prey, (also) forgetting (its care for) its body" (Zhuangzi 20, [Legge](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
 
-**Plain words** The mantis snatching the cicada forgets the boy behind it. Tunnel vision is expensive — the thing you're staring at is rarely the thing that gets you. Never trade your life-vessel for trinkets.
+The compendium takes the chase as the reason not to exhaust yourself for what you do not need: the pursuit narrows attention to the object, and the costs land on the pursuer.
 
-*For example:* Grinding for the bonus while your health and marriage quietly file their paperwork — the cicada looked delicious; the boy was watching.
+**Plain words**
+Notice what you are chasing and what the chase is quietly costing you. The thing in front of you is not the only thing in the picture; there is a wider view that the chase hides. Ask whether the prize would still be worth it if you counted everything the pursuit is quietly taking.
+
+*For example:* Imagine grinding for a year-end bonus while your health and a friendship quietly deteriorate. The bonus is real, but the chase is not free, and the bill arrives later.
+
+## Sources
+
+- [The Writings of Kwang-zu, James Legge translation, ETH Zurich](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — chapter 20, section 8 (mantis and cicada)
 
 ## Psychology parallels
 

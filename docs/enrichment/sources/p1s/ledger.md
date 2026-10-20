@@ -39,3 +39,22 @@ source; anything not opened is recorded as inherited and unverified.
   belly of water); neither page links D025 and D025 links neither — two
   reciprocals proposed in proposals/p1s.json. Related concepts Experiential
   purchases and Intrinsic versus extrinsic goals already cite D025.
+
+### D094 — Don't exhaust yourself for what you don't need (2026-10-20)
+- Opened: Legge Zhuangzi ch. 20 §8 (ETH PDF, extraction above). Blockquote
+  fragment "a preying mantis raised its feelers, and pounced on the cicada, in
+  its eagerness for its prey, (also) forgetting (its care for) its body"
+  verified verbatim programmatically against the extracted text. In-prose
+  fragments "things bring evil on one another" and "guarding my person, and
+  forgot myself" verified the same way.
+- REMOVED: the seed body's second anecdote ("the man polishing the city wall
+  drops the bowl in his hand", cited Zhuangzi 19) does not exist in the opened
+  Legge Zhuangzi (no "bowl"/"polish" passage found near ch. 19/20; full-text
+  search). Dropped rather than kept unverified; noted here for the supervisor.
+- Inherited parallels (Siegrist 1996, Kasser and Ryan 2001, Fromm, Pascal,
+  Marcus Aurelius): unopened, kept as flagged attributions without new claims.
+  The old Siegrist tail ("predicts cardiovascular and depressive outcomes")
+  is an inherited empirical claim, left as the seed had it.
+- Saturation: Effort-reward imbalance and The having mode already cite D094.
+  Proposed one reciprocal into Burnout (its page cites D138/D158, the same
+  exhaustion family, but not D094).
