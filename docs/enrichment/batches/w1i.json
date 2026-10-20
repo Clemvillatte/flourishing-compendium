@@ -11,9 +11,10 @@
   "Self-transcendent experiences",
   "Social Judgment Theory",
   "Social cognitive career theory",
-  "Social cognitive theory of morality"
+  "Social cognitive theory of morality",
+  "Social exchange theory"
  ],
- "in_progress": "Social exchange theory",
+ "in_progress": null,
  "flagged": {
   "Non-dual awareness": "RESOLVED milestone-five QC: exact definition blockquote added, NDA expanded; source and preservation checks pass",
   "Focused-attention meditation": "RESOLVED milestone-five QC: sentence-case subheading added; source and preservation pass",
@@ -22,6 +23,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 16,
- "updated": "2026-10-20T06:39:35+00:00",
+ "updated": "2026-10-20T06:39:38+00:00",
  "band_done": false
 }
