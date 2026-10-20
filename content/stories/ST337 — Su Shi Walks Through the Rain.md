@@ -26,7 +26,7 @@ In the spring of 1082 he wrote a short song lyric about being caught out walking
 > go back--
 > on the one hand, it's not a storm; on the other, not clear skies.
 
-The last line is where the Daoist reading rests. The speaker turns to look back at the place of howling and finds it is neither storm nor clear sky. The weather that filled the first half of the poem has no fixed character once he stops bracing against it, and the poem itself does not conclude the walk; it goes back, still in the weather, neither storm nor shine.
+The last line is where the Daoist reading rests. The speaker turns to look back at the place of howling and finds it is neither storm nor clear sky. The rain of the opening lines and the returning sunshine of the second half both come and go in the poem, and the look back finds no fixed weather to name. The compendium pairs the line with the expectation that extremes do not hold still.
 
 ---
 

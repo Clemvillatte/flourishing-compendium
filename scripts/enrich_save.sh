@@ -9,7 +9,7 @@ cd "$(dirname "$0")/.." || exit 1
 exec 9>/tmp/enrich_save.lock; flock 9
 git config user.name >/dev/null || git config user.name "Computer"
 git config user.email >/dev/null || git config user.email "genuineflourishing15@yopmail.com"
-git add -A content docs scripts handoff.md 2>/dev/null
+git add -A content docs scripts sources handoff.md 2>/dev/null
 if ! git diff --cached --quiet; then
   git commit -qm "${1:-enrichment WIP}" || { echo "ERROR: commit failed" >&2; exit 1; }
 fi

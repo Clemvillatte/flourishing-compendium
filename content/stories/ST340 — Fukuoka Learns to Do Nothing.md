@@ -7,7 +7,7 @@ file: "ST340 — Fukuoka Learns to Do Nothing"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
 legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S01.04 — I.4 Action — Effortlessness, Timing, and Skill", "parent": ""}
 ---
-*Shikoku, Japan, 1937–1975 · Masanobu Fukuoka and the invention of natural farming*
+*Shikoku, Japan, 1937–1975 · the development of Masanobu Fukuoka's natural-farming method*
 
 Fukuoka was a laboratory man before he was a farmer: a trained microbiologist and plant pathologist, inspecting imports for the Yokohama customs office, until a hospital stay with pneumonia in 1937 changed his view of his own profession. The experience he described was a spiritual one that led him to doubt modern agricultural science. He resigned his research post and went back to his family's farm on Shikoku with a question: what happens if you stop?
 
