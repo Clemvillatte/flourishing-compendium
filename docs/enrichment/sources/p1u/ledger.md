@@ -3,6 +3,26 @@
 Worker: worker-p1u-4c6332a6, a session-specific identifier, not an inferred yopmail identity.
 Claim and state transitions are pushed separately for interruption safety.
 
+## Scope correction: supervisor action needed
+
+The manifest was correct. The worker misread the Buddhist IDs; the earlier
+manifest-overlap warning below is withdrawn. B152/B137/B149 content edits
+were undone in 1f71a89a to each exact pre-edit version. B137 retains p1p's
+prior QC version. Review-only patches are archived here and must not be
+applied by this worker. Their research entries below are not active work.
+
+Erroneous batch entries: B152/B137/B149 in done; B125/B139/B140/B157/B163/
+B164/B165 in flags. None belong to p1u or count as p1u completions/blockers.
+The state tool has no remove command; supervisor may reconcile these.
+No manual batch surgery, queue edits or progress.json edits were done.
+
+Actual p1u IDs were read programmatically from the unchanged manifest:
+P112 P114 P142 P149 P154 P169 P173 P180 P195 B013 B059 B104 B106 B135
+B167 B171 B184 B191 B195 D105 D121 D130 D139 D147 D159 D173 D178 D183
+P023 P047. Nine Daoist rewrites are in band and pushed. Future starts
+must pass a programmatic membership check. The worker has disclosed the
+scope error and restoration to the owner.
+
 ## D105: Need little (2026-10-20)
 
 - Opened using web search followed by fetch: James Legge, Zhuangzi chapter 1,
@@ -184,7 +204,7 @@ Claim and state transitions are pushed separately for interruption safety.
   Existing links and protected reflection block unchanged.
 - Saturation: The inner citadel already cites D183; no duplicate proposal.
 
-## B152: Align your work with your values (2026-10-20)
+## B152: OUT OF BAND, restored, research only (2026-10-20)
 
 - Searched "AN 5.177 Vanijja trades lay follower", then opened
   https://www.accesstoinsight.org/tipitaka/an/an05/an05.177.than.html .
@@ -213,7 +233,10 @@ Claim and state transitions are pushed separately for interruption safety.
   paraphrase correction, now applied. Optional D173/D183 source-tightening
   also applied. All nine quotations and preservation independently PASS.
 
-## Manifest-overlap warning for supervisor (2026-10-20)
+## WITHDRAWN: mistaken manifest-overlap warning (2026-10-20)
+
+The following diagnosis was wrong: the worker misread the manifest.
+It is retained as an error record, superseded by the correction above.
 
 - B125 was rewritten by live p1m at c6f90c30 while p1u was reaching it.
   No B125 content edits by p1u. Skip it pending ownership reconciliation.
@@ -227,7 +250,7 @@ Claim and state transitions are pushed separately for interruption safety.
 - No other band's state, content, queues or progress were edited to
   reconcile this. Only p1u state/ledger and its TASKBOARD row are used.
 
-## B137: Expect your seeing to change (2026-10-20)
+## B137: OUT OF BAND, restored, research only (2026-10-20)
 
 - Search "Dhammapada 277 279 Buddharakkhita wisdom", opened
   https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.20.budd.html ,
@@ -246,7 +269,7 @@ Claim and state transitions are pushed separately for interruption safety.
 - Saturation: linked concepts and Progressive refinement in perceptual
   learning already cite B137; no duplicate or construct-equivalence edge.
 
-## B149: Respect what belongs to others (2026-10-20)
+## B149: OUT OF BAND, restored, research only (2026-10-20)
 
 - Search "AN 10.176 Cunda taking not given"; opened
   https://www.accesstoinsight.org/tipitaka/an/an10/an10.176.than.html .

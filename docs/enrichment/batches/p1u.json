@@ -23,9 +23,10 @@
   "B163": "Ownership overlap: already done in p1k; no p1u content edits; skip pending supervisor reconciliation",
   "B164": "Ownership overlap: already done in p1n; no p1u content edits; skip pending supervisor reconciliation",
   "B137": "Ownership overlap detected after p1u rewrite: already done p1p; source-verified p1u rewrite preserved protected content, supervisor attribution review needed",
-  "B165": "Not in p1u manifest: selected in error, never edited. Supervisor may remove out-of-band state entries; no content work pending."
+  "B165": "Not in p1u manifest: selected in error, never edited. Supervisor may remove out-of-band state entries; no content work pending.",
+  "SCOPE_CORRECTION": "Manifest correct; worker misread B IDs. B152/B137/B149 restored in 1f71a89a; ignore erroneous done/flags for B125 B137 B139 B140 B149 B152 B157 B163 B164 B165. Supervisor may reconcile via approved tooling; details in p1u ledger."
  },
  "missing_concepts": [],
  "sources_checked": 16,
- "updated": "2026-10-20T02:27:25+00:00"
+ "updated": "2026-10-20T02:28:18+00:00"
 }
