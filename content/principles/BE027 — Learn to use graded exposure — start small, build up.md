@@ -19,7 +19,7 @@ Graded exposure is a clinical workhorse. In Prolonged Exposure, a manualized tre
 The modern learning-theory account adds a qualification. In this model, exposure develops new learning that the feared cue does not necessarily predict the feared outcome; it does not simply delete the earlier association (Craske et al., 2014, "Inhibitory Learning Model of Extinction" section: "the original CS-US association learned during fear conditioning is not erased during extinction, but rather is left intact as new, secondary inhibitory learning about the CS-US develops").
 
 **Plain words**
-Build a ladder of feared situations and climb it from the bottom — least scary first, one rung at a time. For significant anxiety, build the ladder with a clinician.
+One approach: build a ladder of feared situations and climb it from the bottom, least scary first, one rung at a time. For significant anxiety, build the ladder with a clinician.
 
 **For example**
 Imagine someone with social anxiety building a hierarchy: coffee with one friend, then a small gathering, then the work party.
@@ -37,11 +37,11 @@ Imagine someone with social anxiety building a hierarchy: coffee with one friend
 ## Philosophy parallels
 
 - **[[Gradual training|The gradual training]]** (Buddhism) — MN 107 describes "a step-by-step training, a step-by-step activity, a step-by-step practice" in the Dhamma and Vinaya ([dhammatalks.org](https://www.dhammatalks.org/suttas/MN/MN107.html))
-- **[[The thousand-mile journey|The thousand-mile journey]]** (Laozi, Daodejing 64) — "the journey of a thousand li commenced with a single step" (Legge translation)
-- **[[Courage built gradually|Courage built gradually]]** (Aristotle) — "by doing the acts that we do in the presence of danger, and being habituated to feel fear or confidence, we become brave or cowardly" (Nicomachean Ethics II.1)
+- **[[The thousand-mile journey|The thousand-mile journey]]** (Laozi, Daodejing 64) — "the journey of a thousand li commenced with a single step" (Legge translation, [Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm))
+- **[[Courage built gradually|Courage built gradually]]** (Aristotle) — "by doing the acts that we do in the presence of danger, and being habituated to feel fear or confidence, we become brave or cowardly" (Nicomachean Ethics II.1, [MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html))
 
 Cross-tradition parallels above are the compendium's analogies between graded clinical exposure and older step-by-step accounts of training; they are not claims of equivalent mechanisms.
 
 ## Practice
 
-- Create a fear hierarchy: list feared but safe situations, from less to more challenging. This page's approach is to start with steps you can manage and work up, as in Prolonged Exposure's graded homework; exposure therapy more broadly does not require beginning with the easiest item. For substantial anxiety or trauma-related fears, build the ladder with a clinician.
+- Create a fear hierarchy: list feared but safe situations, from less to more challenging. This page's approach is to start with steps you can manage and work up, as in Prolonged Exposure's graded homework. Exposure therapy can also be conducted with items selected from the hierarchy out of order or with varied stimuli, per the variability strategy in Craske et al. 2014 ("we routinely conduct exposure with varying stimuli, for varying durations, at varying levels of intensity, or select items from a fear hierarchy out of order"). For substantial anxiety or trauma-related fears, build the ladder with a clinician.

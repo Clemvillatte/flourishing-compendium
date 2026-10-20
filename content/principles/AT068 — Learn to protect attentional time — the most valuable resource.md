@@ -39,6 +39,8 @@ As an everyday illustration: "I have all Saturday to write" — and Saturday pro
 - **[[Simplicity|Simplicity and focus]]** (Daoism, Daodejing 19)
 - **[[The discipline of attention|The discipline of attention]]** (Simone Weil, Waiting for God)
 
+Cross-tradition parallels above are the compendium's analogies between the study findings and older accounts of examined living, simplicity, and attention; they are not claims of equivalent mechanisms.
+
 ## Practice
 
 - Protect attentional time as your most valuable resource. Schedule blocks of uninterrupted, fully attentive time. Guard these blocks from interruption. Do not let others (or technology) fragment your attentional time.

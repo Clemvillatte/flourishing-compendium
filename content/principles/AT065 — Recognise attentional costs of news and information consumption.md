@@ -22,7 +22,7 @@ The newer work complicates the picture. In Price and colleagues' 30-day daily-di
 Negative news changed mood in the lab: a 14-minute bulletin raised anxiety and sadness and made personal worries loom larger. In the daily-diary study, the associations appeared for social media exposure and were stronger for people with more childhood maltreatment. Staying informed is still a bounded act: pick times, pick sources, stop.
 
 **For example**
-As an everyday illustration: checking headlines twice a day at set times, rather than refreshing hourly. The hourly refresher is mostly re-reading the same developments in new clothes.
+As an everyday illustration: choosing to check headlines twice a day at set times, rather than refreshing throughout the day.
 
 ## Sources
 
@@ -38,7 +38,9 @@ As an everyday illustration: checking headlines twice a day at set times, rather
 
 - **[[The examined life|The examined life]] includes examined news** (Socrates, Apology)
 - **[[Guarding the senses|Guarding the senses]]** (Buddhism, Dhammapada)
-- **[[Simplicity|Simplicity and information frugality]]** (Daoism, Daodejing 48)
+- **[[Simplicity|Simplicity and information frugality]]** (Daoism, Daodejing 48) — "He who devotes himself to learning (seeks) from day to day to increase (his knowledge); he who devotes himself to the Tao (seeks) from day to day to diminish (his doing)" (Legge translation)
+
+Cross-tradition parallels above are the compendium's analogies between the research findings and older accounts of examined living, sense-restraint, and diminishing; they are not claims of equivalent mechanisms.
 
 ## Practice
 
