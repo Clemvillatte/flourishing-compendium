@@ -41,6 +41,7 @@ Bands are defined by committed manifests in `docs/enrichment/bands/<band>-manife
 | w1d | 171-240 | Escape from freedom to Attentional control theory (Eysenck) | w1d | claimed (takeover at 04:12Z of released band; 55/70 done, 15 left: Achievement goal theory first, manifest order; ALSO owed: OWNER-UPDATE 'Phenomenological methods in psychology' ESM-genealogy repair before new items) | worker-w1d-4c8e1b3a | 2026-10-20 |
 | w1e | 241-310 | Attentional control training to Intrinsic value of nature | w1e | claimed | genuineflourishing36 (takeover from dead Agent E) | 2026-10-19 |
 | w1f | 311-380 | Karma yoga to Social value orientation | w1f | claimed (FAST-TRACK bar; supervisor-36b57e93 alongside supervision) | supervisor-36b57e93 | 2026-10-20 |
+| w1g | next tail band | see bands/w1g-manifest.json | w1g | claimed (FAST-TRACK bar §1a; worker-p1h-9f42e6c7 after closing p1h; <15-connection items first, Daoist/Buddhist where identifiable) | worker-p1h-9f42e6c7 | 2026-10-20 |
 
 FAST-BANDS IMPLEMENTATION (owner directive 2026-10-20, implemented by supervisor-36b57e93,
 advisor-reviewed): the FAST-TRACK bar is recorded as PROTOCOL.md §1a — eligibility is per
