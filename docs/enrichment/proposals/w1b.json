@@ -1,12 +1,1 @@
-{
-  "reciprocal": [
-    {"into": "Wu wei", "link": "Gelassenheit", "why": "Both name action without forcing: wu wei in the Daoist texts, releasement in Heidegger's account of thinking."},
-    {"into": "Letting-be", "link": "Gelassenheit", "why": "Both are Heidegger's terms for a non-grasping relation to what is."},
-    {"into": "Non-attachment", "link": "Gelassenheit", "why": "Both name an active release of the grip on outcomes; Eckhart's letting-go of self-will parallels the Buddhist release of craving."},
-    {"into": "Apatheia", "link": "Gelassenheit", "why": "Eckhart's negative virtues are Stoic-sounding: freedom won by releasing attachments rather than adding disciplines."},
-    {"into": "Beginner's mind", "link": "Gelassenheit", "why": "The waiting that expects nothing and the beginner's stance of not-knowing both keep the mind open to what arrives."},
-    {"into": "Acceptance", "link": "Gelassenheit", "why": "Both take what comes without the added struggle; Gelassenheit frames it as a release of willing."},
-    {"into": "Shikantaza, just sitting", "link": "Gelassenheit", "why": "Objectless sitting and objectless waiting are near neighbours: both hold awareness open without directing it at anything."}
-  ],
-  "inline": []
-}
+{"reciprocal": [{"into": "Wu wei", "link": "Gelassenheit", "why": "A cross-tradition pairing: wu wei's unforced action in which the world does most of the work, and Heidegger's release from willing."}, {"into": "Letting-be", "link": "Gelassenheit", "why": "Both are Heidegger's terms: letting-be from the technology essay, Gelassenheit from the Discourse on Thinking."}, {"into": "Non-attachment", "link": "Gelassenheit", "why": "Both release the grip on what one clutches: Buddhist non-attachment on outcomes and possessions, Eckhart's letting-go on the 'mine-ness' of one's actions."}, {"into": "Apatheia", "link": "Gelassenheit", "why": "The SEP calls Eckhart's negative virtues Stoic-sounding, which is why the compendium pairs them with the Stoic freedom from passion."}, {"into": "Beginner's mind", "link": "Gelassenheit", "why": "The beginner's mind is empty of the expert's habits and open to possibilities; Heidegger's waiting expects nothing and holds no object."}, {"into": "Acceptance", "link": "Gelassenheit", "why": "Acceptance embraces unwanted experience without the struggle to change it; Gelassenheit is a release of willing. The compendium treats them as neighbours, not the same thing."}, {"into": "Shikantaza, just sitting", "link": "Gelassenheit", "why": "Dogen's just sitting and Heidegger's 'nothing but wait' are paired by the compendium as contemplative neighbours."}], "inline": []}
