@@ -12,13 +12,22 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 ---
 > **Principle 46** — Cultivate self-compassion
 
-Self-compassion, in the Neff tradition, is the capacity to meet one's own suffering with kindness, to recognise that suffering is part of the human condition, and to hold one's experience in mindful awareness rather than over-identifying with it. Self-compassion interventions show small to moderate effects on well-being and are particularly effective for people high in self-criticism.
+Self-compassion, in the Neff tradition, is the capacity to meet one's own suffering with kindness, to recognise that suffering is part of the human condition, and to hold one's experience in mindful awareness rather than over-identifying with it. Neff's original formulation names the three components:
+
+> (a) self-kindness—extending kindness and understanding to oneself rather than harsh judgment and self-criticism, (b) common humanity—seeing one's experiences as part of the larger human experience rather than seeing them as separating and isolating, and (c) mindfulness—holding one's painful thoughts and feelings in balanced awareness rather than over-identifying with them. (Kristin Neff, "Self-Compassion: An Alternative Conceptualization of a Healthy Attitude Toward Oneself," Self and Identity 2(2), 2003, pp. 85-101, [author's PDF](https://self-compassion.org/wp-content/uploads/publications/SCtheoryarticle.pdf))
+
+The evidence on interventions is real but bounded. A meta-analysis of 22 randomised controlled trials found that self-compassion-related therapies improved self-compassion (g = 0.52) and reduced anxiety and depressive symptoms compared with control conditions, but did not outperform active control treatments (Wilson et al., 2019).
 
 (Neff, 2003; Neff and Germer, 2013; Wilson et al., 2019.)
 
 **Plain words** Self-compassion is meeting your own suffering with the kindness you'd offer a friend, remembering that suffering is shared by everyone, and seeing your pain clearly instead of drowning in it. It's linked to better mental health, and it's different from self-pity and from self-esteem.
 
 *For example:* After failing an exam you speak to yourself as you would to a struggling friend, rather than berating yourself.
+
+## Sources
+
+- [Neff 2003, Self and Identity, author's PDF](https://self-compassion.org/wp-content/uploads/publications/SCtheoryarticle.pdf) — pp. 85-101; the three-component definition
+- [Wilson et al. 2019, Mindfulness, open access](https://link.springer.com/article/10.1007/s12671-018-1037-6) — 22 RCTs; medium effects vs controls, none vs active controls
 
 ## Psychology parallels
 

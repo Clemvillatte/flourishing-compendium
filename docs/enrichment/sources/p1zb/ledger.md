@@ -171,4 +171,16 @@ never-band-assigned work; p1g state had them flagged-only, absent from p1g's man
   "predicts well-being, physical health, and longevity" triple-claim reduced to what the
   opened source supports; the 15%-per-SD result also verified in the opened results text).
 - Steger 2012 citation inherited, not opened, flagged. Plain words rewritten as re-derivation.
-- Saturation: rg PP025 in content/concepts pending; Purpose concept links via parallels.
+- Saturation: cited by the concept The search for meaning (rg PP025 in content/concepts).
+
+## PP046 — Cultivate self-compassion
+- Full work: verbatim quote added (Neff 2003 three-component definition, verified against the
+  freshly opened author PDF of the Self and Identity article; the secondary variant quoted in
+  later papers differs slightly, so the opened original's wording is used). Effects sentence
+  narrowed to the opened Wilson et al. 2019 abstract (Springer, open access): medium effects
+  on self-compassion/anxiety/depression vs controls (g = 0.52/0.46/0.40), no advantage over
+  active controls; the old "particularly effective for people high in self-criticism" claim
+  was NOT supported by the abstract (no significant moderators) and was removed.
+- Neff and Germer 2013 (MSC programme) citation inherited, not opened, flagged.
+- Saturation: cited by the Self-compassion and Mindful self-compassion programme concepts
+  (parallel links).

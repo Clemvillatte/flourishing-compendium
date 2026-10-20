@@ -11,7 +11,8 @@
   "PP006",
   "PP007",
   "S012",
-  "PP025"
+  "PP025",
+  "PP046"
  ],
  "in_progress": null,
  "flagged": {
@@ -28,5 +29,5 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T08:02:46+00:00"
+ "updated": "2026-10-20T08:03:15+00:00"
 }
