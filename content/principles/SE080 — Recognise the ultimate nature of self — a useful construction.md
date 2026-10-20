@@ -42,4 +42,4 @@ His summary of the rest of mankind: "a bundle or collection of different percept
 
 ## Related concepts
 
-- [[SE001]] — SE080 holds the self-construction at the ultimate level, useful but not an absolute truth; SE001 presents the self as an evolving life story in McAdams’s narrative-identity model.
+- [[SE001]] — A narrative-identity comparison: McAdams’s life-story model

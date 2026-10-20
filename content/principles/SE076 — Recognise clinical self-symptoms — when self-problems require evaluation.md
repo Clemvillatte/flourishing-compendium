@@ -12,9 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 76** — Recognise clinical self-symptoms: when self-problems require evaluation
 
-Persistent, impairing self-problems — chronic feelings of worthlessness, identity confusion, self-hatred, inability to maintain a coherent sense of self — can be symptoms of depression, personality disorders, complex trauma, or other conditions. These warrant professional evaluation.
-
-The WHO's depression fact sheet puts low self-worth on the symptom list:
+Persistent, impairing self-problems, chronic feelings of worthlessness among them, can be symptoms of a depressive episode. The WHO's depression fact sheet puts low self-worth on the symptom list:
 
 > "During a depressive episode, a person experiences a depressed mood (feeling sad, irritable, empty). They may feel a loss of pleasure or interest in activities. ... Other symptoms are also present, which may include:
 > - poor concentration
@@ -25,14 +23,20 @@ The WHO's depression fact sheet puts low self-worth on the symptom list:
 > - changes in appetite or weight
 > - feeling very tired or low in energy." ([WHO depression fact sheet](https://www.who.int/news-room/fact-sheets/detail/depression))
 
-When a self-problem is persistent and impairing, the first question to answer is clinical rather than philosophical.
+When a self-problem is persistent and impairing, the compendium's practical advice is to seek professional assessment rather than to treat it as a self-help project.
 
-**Plain words** There's a line between the normal mess of self-development and symptoms that need a professional: chronic worthlessness, a self that won't stay coherent, self-hatred that runs the show. If it's persistent and it's impairing your life, it's not a project. It's an appointment.
+**Plain words** The WHO list above is what a depressive episode can look like from the inside: low self-worth that stays, hopelessness, changed sleep and energy. If that description fits what you live with, the practical move is a professional assessment.
 
-*For example:* Everyone doubts themselves sometimes. But the person who has felt like a non-person for a year, whose relationships and work are eroding under it, doesn't need another self-help book. Self-help is for maintenance. This is for a clinician.
+*For example (imagined):* Someone notices that feelings of worthlessness have lasted months, with changed sleep and low energy. They bring the pattern to a professional assessment instead of treating it as a motivation problem.
+
 ## Sources
 
 - [World Health Organization, Depression fact sheet](https://www.who.int/news-room/fact-sheets/detail/depression) — depressive episode symptoms
+
+## Psychology parallels
+
+- Self-symptoms as clinical indicators — APA, 2022
+- Evidence-based treatments for self-related disorders — Linehan, 1993; Young et al., 2003
 
 ## Psychology parallels
 

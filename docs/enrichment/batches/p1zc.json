@@ -18,8 +18,11 @@
   "SE076"
  ],
  "in_progress": "SE080",
- "flagged": {},
+ "flagged": {
+  "SE071": "QC rounds 1-2 repairs applied (bounded clinical framing, Brewin 2020 citation corrected); advisor round 3 pending",
+  "SE076": "QC rounds 1-2 repairs applied (WHO-scope bounding, list-format quote); advisor round 3 pending"
+ },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T08:19:42+00:00"
+ "updated": "2026-10-20T08:24:49+00:00"
 }

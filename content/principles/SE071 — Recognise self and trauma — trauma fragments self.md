@@ -12,20 +12,24 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 71** — Recognise self and trauma: trauma fragments self
 
-Trauma can fragment the self — producing dissociation, identity disturbance, and a self organised around avoidance and threat. The compendium's advice for this pattern is professional evaluation rather than self-help alone.
+Complex PTSD is one clinical context in which self-experience can be affected after trauma. The ICD-11 definition below identifies persistent difficulties in emotion regulation, negative self-beliefs and relationships. These criteria describe a specified disorder, not a universal response to trauma:
 
-The official ICD-11 formulation names the self-disturbance directly:
-
-> "In addition, Complex PTSD is characterized by severe and persistent 1) problems in affect regulation; 2) beliefs about oneself as diminished, defeated or worthless, accompanied by feelings of shame, guilt or failure related to the traumatic event; and 3) difficulties in sustaining relationships and in feeling close to others." (ICD-11 complex PTSD definition, quoted in [Cloitre et al., 2019, BJPsych Advances](https://www.cambridge.org/core/journals/bjpsych-advances/article/complex-posttraumatic-stress-disorder-a-new-diagnosis-in-icd11/2977140CBDAAF402610715BB609F688C))
+> "In addition, Complex PTSD is characterized by severe and persistent 1) problems in affect regulation; 2) beliefs about oneself as diminished, defeated or worthless, accompanied by feelings of shame, guilt or failure related to the traumatic event; and 3) difficulties in sustaining relationships and in feeling close to others." (ICD-11 complex PTSD definition, quoted in [Brewin, C. R. (2020), BJPsych Advances](https://www.cambridge.org/core/journals/bjpsych-advances/article/complex-post-traumatic-stress-disorder-a-new-diagnosis-in-icd11/2977140CBDAAF402610715BB609F688C))
 
 The diagnosis calls these disturbances in self-organisation. This page's "fragmented self" language is a description of that pattern, not a separate clinical fact.
 
-**Plain words** Trauma can shatter the self's continuity — memory that won't integrate, a self organised around threat, parts of you that feel like strangers. This is an injury, not a personality. It responds to treatment, slowly, the way broken things heal: deliberately and with help.
+**Plain words** Some people who live through trauma report a changed sense of self: memory that will not hold together, a self organised around threat, parts that feel like strangers. The definition above is the pattern a clinician checks for. If the description fits what you live with, that is a reason to ask a professional, not a conclusion to draw alone.
 
-*For example:* The survivor who can't tell the story of what happened in order, who flinches at a smell, who says "that was a different me" — isn't exaggerating. The self fragmented to survive. The work of therapy is a repair job, not an attitude adjustment.
+*For example (imagined):* Someone reports that since the traumatic events they cannot tell the story in order, flinch at a particular smell, and say "that was a different me". For this exercise they bring that report to a professional assessment rather than treating it as a self-help project.
+
 ## Sources
 
-- [Cloitre, M., et al. (2019). Complex post-traumatic stress disorder: a new diagnosis in ICD-11. BJPsych Advances](https://www.cambridge.org/core/journals/bjpsych-advances/article/complex-post-traumatic-stress-disorder-a-new-diagnosis-in-icd11/2977140CBDAAF402610715BB609F688C) — Box 1, ICD-11 CPTSD definition
+- [Brewin, C. R. (2020). Complex post-traumatic stress disorder: a new diagnosis in ICD-11. BJPsych Advances, 26, 145-152](https://www.cambridge.org/core/journals/bjpsych-advances/article/complex-post-traumatic-stress-disorder-a-new-diagnosis-in-icd11/2977140CBDAAF402610715BB609F688C) — Box 1, ICD-11 CPTSD definition
+
+## Psychology parallels
+
+- Trauma and self-fragmentation — van der Kolk, 2014; Herman, 1992
+- Complex PTSD and identity disturbance — van der Kolk, 2014; Cloitre et al., 2011
 
 ## Psychology parallels
 
@@ -40,4 +44,4 @@ The diagnosis calls these disturbances in self-organisation. This page's "fragme
 
 ## Practice
 
-- If your sense of self has been fragmented by trauma, seek trauma-specific treatment (trauma-focused CBT, EMDR, somatic therapies). Self-help is not sufficient for trauma.
+- If self-problems are persistent, impairing, or dangerous, seek professional evaluation. Self-directed practices are complements, not substitutes, for treatment.

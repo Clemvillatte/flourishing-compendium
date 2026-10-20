@@ -304,3 +304,17 @@ Short, item-keyed evidence notes (owner decision 2026-10-20, PROTOCOL-PRINCIPLES
   (Hume concept page) does not cite SE080 (proposed, bounded); Identity, Skandha,
   Narrative identity inspected, no proposals (they relate to SE001/Anatta more
   directly). All three files validate; SE080 validates 0 failed. Round 2 pending.
+
+## Round-2 repairs (SE080/SE071/SE076)
+- SE080: Related-concepts clause reduced to the narrative-identity comparison.
+- SE071: body/Plain words/For example/Practice replaced with bounded versions; the
+  Cambridge article's authorship VERIFIED from the PDF first page — the article is
+  Brewin, C. R. (2020), BJPsych Advances 26, 145-152, doi 10.1192/bja.2019.48 (the
+  earlier "Cloitre et al., 2019" attribution was WRONG and has been corrected on the
+  page and in Sources; ICD-11 definition quote re-verified against the opened text);
+  psychology parallels reduced to bare references.
+- SE076: body/Plain words/For example bounded to the opened WHO depression material
+  (cross-diagnostic list and "not a project, an appointment" framing removed);
+  parallels reduced to bare references; Practice kept (practical advice framing).
+- Both items flagged in the band state pending round-3 acceptance. All three files
+  validate vs baseline 0998a787 (0 failed).
