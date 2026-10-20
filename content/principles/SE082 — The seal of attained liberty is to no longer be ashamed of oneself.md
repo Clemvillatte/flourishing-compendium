@@ -12,21 +12,21 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 82** — The seal of attained liberty is to no longer be ashamed of oneself
 
-Nietzsche poses this as a question with a one-line answer: "What is the Seal of Attained Liberty?--To be no longer ashamed of oneself" (Nietzsche, The Joyful Wisdom 275, trans. Common). The aphorism closes a short series on shame: he calls bad "him who always wants to put others to shame" (273) and names sparing a person shame the most humane thing he knows (274). Attained liberty, in this series, is the end of a private war. A person still ashamed of themselves keeps a guard posted, editing what others may see. When the shame lifts, the whole self can be seen, weaknesses included, and nothing has to be managed in secret. Self-acceptance work is how people usually get here; the liberty is the arrival.
+Nietzsche sets this aphorism at the end of a short series on shame. In it he calls bad "Him who always wants to put others to shame" (273) and names "To spare a person shame" the most humane thing he knows (274). The third entry asks the question this principle takes as its title; the answer it records is quoted below. The series moves from shame used as a weapon, to shame as something to spare, to shame as something a person can finally be free of about themselves. The compendium's reading stops there: the aphorisms mark where a person stands when that self-directed shame is gone. They name no method and promise no outcome.
 
 **Plain words**
-Shame that covers the whole self is expensive. It makes you dodge people, steer conversations away from certain years, and perform a tidier version of who you are. Nietzsche's test is plain: can you stand in front of yourself, all of it, without looking away? The people who pass are rarely the flawless ones; they are the ones who stopped paying the hiding tax.
+"Ashamed of oneself" names a specific target: not something you did, but you. The liberty in the title is liberty from that second kind of shame. A person can keep judging their acts, and answering for them, without the judgement spreading to cover the whole person. The question the aphorism leaves you with is whether the spreading has stopped.
 
-*For example:* A founder spends years steering conversations away from her failed first company. Asked about it in an interview, she describes it plainly instead. Nothing about the failure changed; what changed is that it no longer needs a guard.
+*For example:* Imagined example: a founder describes her failed first venture in an interview and names what she got wrong. The exercise is the describing, with the mistake kept to the mistake. The compendium claims no further outcome from it.
 
 ## Psychology parallels
 
-- **Shame vs guilt (Tangney)**, shame targets the global self and predicts worse outcomes than guilt (conceptual parallel; Tangney and Dearing, 2002)
-- **[[Self-compassion|Self-compassion]] and shame reduction** (conceptual parallel; Neff, 2003)
+- **Shame vs guilt (Tangney)** (Tangney and Dearing, 2002)
+- **[[Self-compassion|Self-compassion]]** (Neff, 2003)
 
 ## Practice
 
-- Ask where you are still hiding out of shame, from others or from yourself, and name one place to one person this week. The exercise is the naming; the liberty shows up when the hiding is no longer needed.
+- Ask of one thing you regret: what does it call for from me, and what does the verdict on my whole self call for? The exercise is telling those two questions apart.
 
 ## Limits
 
