@@ -2,11 +2,12 @@
  "batch": "w1i",
  "done": [
   "Shikantaza, just sitting",
-  "Engaged Buddhism"
+  "Engaged Buddhism",
+  "Focused-attention meditation"
  ],
- "in_progress": "Focused-attention meditation",
+ "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 3,
- "updated": "2026-10-20T06:23:07+00:00"
+ "updated": "2026-10-20T06:23:10+00:00"
 }
