@@ -69,9 +69,10 @@
   "Attachment theory",
   "Attention Network Test (ANT)",
   "Attention restoration",
-  "Attentional bias research"
+  "Attentional bias research",
+  "Attentional control theory (Eysenck)"
  ],
- "in_progress": "Attentional control theory (Eysenck)",
+ "in_progress": null,
  "flagged": {
   "The eternal contribution": "compendium coinage, not a traditional term: page says so in its first sentence; written for the sense BE068 uses",
   "Phenomenological methods in psychology": "ESM genealogy corrected per OWNER-UPDATE: Conner et al. 2009 (PMC2773515) opened; ESM traced to 1977 Csikszentmihalyi/Larson/Prescott pager study and naturalistic-idiographic traditions; source silent on Husserl, so no Husserl link asserted",
@@ -84,7 +85,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 153,
- "updated": "2026-10-20T04:57:07+00:00",
+ "updated": "2026-10-20T04:57:40+00:00",
  "qc_log": {
   "Escape from freedom": "approved after 4 advisor QC rounds: quotes verified against opened sources (panarchy ch. V excerpt, Wikipedia, IEP Totalitarianism 2.d, SEP Critical Theory 1.4); Simondon Individuation and The having mode removed from Related; cross-tradition links labelled comparisons; sources_checked: 4",
   "Eternal recurrence": "milestone advisor QC applied: practical-reading attribution qualified; AF069 described as the compendium's separate comparison; Panta rhei, Corsi e ricorsi and Three thousand realms claims externally verified; 'Thou art a God' capitalisation matches primary text",
@@ -118,7 +119,7 @@
  "incidents": [
   "2026-10-19: enriched content/concepts/The eternal contribution.md by mistake (not in w1d manifest; belongs to w1ae). Content file reverted to seed in this commit; validated draft preserved at docs/enrichment/drafts/w1d/The eternal contribution.md for the w1ae agent. Reciprocal proposals for it removed from proposals/w1d.json."
  ],
- "band_done": false,
+ "band_done": true,
  "takeover": {
   "by": "genuineflourishing35",
   "at": "2026-10-19T13:16:28.913930+00:00",
