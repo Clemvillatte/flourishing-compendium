@@ -42,7 +42,7 @@ Cross-tradition bridge: [[Anatta]] is the Buddhist account of the same insight �
 
 ## Sources
 
-- Hayes et al., 2011 — [Hayes, Levin, Plumb-Vilardaga, Villatte and Pistorello, Acceptance and Commitment Therapy and Contextual Behavioral Science, Behav Ther 44(2):180-198, doi 10.1016/j.beth.2009.08.002, author manuscript PMC3635495 (PMID 23611068)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3635495/) — the definition and clinical rationale quoted above, verified against the full text
+- Hayes et al., 2011 — [Hayes, Levin, Plumb-Vilardaga, Villatte and Pistorello, Acceptance and Commitment Therapy and Contextual Behavioral Science, Behav Ther 44(2):180-198, doi 10.1016/j.beth.2009.08.002 (Epub 2011 Jun 1; PubMed issue dating 2013 Jun), author manuscript PMC3635495 (PMID 23611068)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3635495/) — the definition and clinical rationale quoted above, verified against the full text
 - Hayes, A Liberated Mind
 
 ## Cited in psychology parallels
