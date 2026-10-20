@@ -28,17 +28,19 @@
   "Joy",
   "Meaning"
  ],
- "in_progress": null,
+ "in_progress": "Post-traumatic growth",
  "flagged": {
   "Attention": "QC corrections applied 2026-10-19 (gorilla wording narrowed, Weil context added, contemplative bridge marked as comparison, clauses fixed, duplicate list removed)",
   "Care": "QC corrections applied 2026-10-19 (Noddings sourcing fixed, Heidegger ontological/ethical distinction added, seed-line sentence removed, limit question added)",
   "Parasympathetic activation": "Reopened for QC: advisor QC round 1: evidence scope corrections required",
   "Impermanence": "Reopened for QC: milestone QC corrections applied and approved; revalidating",
   "Deliberate practice": "Reopened for QC: milestone QC corrections applied and approved; revalidating",
-  "Right speech": "Reopened for QC: milestone QC corrections applied and approved; revalidating"
+  "Right speech": "Reopened for QC: milestone QC corrections applied and approved; revalidating",
+  "Pursue becoming, not arrival": "category A per concept-namespace-audit: principle-style, do not enrich as concept",
+  "Participate in the world's becoming": "category A per concept-namespace-audit: principle-style, do not enrich as concept"
  },
  "missing_concepts": [],
  "sources_checked": 8,
- "updated": "2026-10-20T05:52:09+00:00",
+ "updated": "2026-10-20T05:52:17+00:00",
  "band_done": false
 }
