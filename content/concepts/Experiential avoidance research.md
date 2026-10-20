@@ -9,16 +9,11 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Experiential avoidance research” — Hayes et al., 2011.
 
-Experiential avoidance is a construct introduced by Steven Hayes and colleagues in the 1990s: a person unwilling to remain in contact with particular private experiences takes steps to alter their form or frequency, or the contexts that occasion them. The avoided events are internal ones such as bodily sensations, emotions, thoughts, memories and behavioral predispositions. The research literature now treats it as a process that cuts across diagnostic categories.
+Experiential avoidance describes unwillingness to remain in contact with internal experiences, accompanied by attempts to alter those experiences or the contexts that occasion them. The avoided events are internal ones such as bodily sensations, emotions, thoughts, memories and behavioral predispositions. A 2018 study frames it from a contextual transdiagnostic approach, examining experiential avoidance alongside activation in emotional distress.
 
 > "Experiential avoidance is defined as the 'phenomenon that occurs when a person is unwilling to remain in contact with particular private experiences (e.g., bodily sensations, emotions, thoughts, memories, behavioral predispositions) and takes steps to alter the form or frequency of these events and the contexts that occasion them' (Hayes et al., 1996, p. 1154)." ([Fernández-Rodríguez et al., Frontiers in Psychology](https://pmc.ncbi.nlm.nih.gov/articles/PMC6129770/))
 
-The research's central finding is a trade: avoidance of unwanted inner experiences may alleviate distress in the short term but exacerbates it over longer periods. Studies describe experiential avoidance as a functional dimension in various psychological problems and a suggested core vulnerability factor for emotional distress.
-
-### In the compendium
-
-- [[AF035 — Recognise that avoidance is negatively reinforcing — it works short-term and maintains suffering long-term]] — states the research's central trade as a principle
-- [[B001 — Face suffering directly]] — the practical counter-move the research supports
+The article's introduction summarizes earlier work describing short-term relief from avoidance alongside longer-term worsening of distress. It presents experiential avoidance as a hypothesized vulnerability factor for emotional distress.
 
 ## Related concepts
 

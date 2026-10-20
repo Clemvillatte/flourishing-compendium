@@ -674,3 +674,13 @@ convention).
 - In-the-compendium clauses: AF035 (title states the short/long-term trade) and B001 (Face suffering directly); P165/D099/K016 remain in the inherited Cited-in lists.
 - Saturation: fast-track exemption; no reciprocal proposed (Psychological flexibility Related line inherited; Acceptance and Chronic pain research already link back per neighbors).
 - QC: validator ok at fast-track profile. ADVISOR QC due (5th item of session) — running next.
+
+### Milestone QC correction round (advisor, 5th-item cadence, applied same day)
+- Advisor QC round 1: FAIL with repairs. All applied:
+  - "introduced by Steven Hayes and colleagues in the 1990s" removed (citation to Hayes et al. 1996 does not establish introduction/priority); opening replaced with the source-bounded description.
+  - Field-wide "research literature now treats it as a process that cuts across diagnostic categories" replaced with the article-scoped framing ("A 2018 study frames it from a contextual transdiagnostic approach...").
+  - "The research's central finding is a trade" removed (the passage is the article's summary of earlier literature, not its own finding); replaced with the article-introduction-scoped sentences (short-term relief + longer-term worsening; hypothesized vulnerability factor).
+  - "In the compendium" block removed (B001 counter-move endorsement and AF035 mechanism not established by the opened source; original Cited-in links already preserve navigation).
+- Quotation re-verified in an UNPROMPTED fetch of https://pmc.ncbi.nlm.nih.gov/articles/PMC6129770/: the definition sentence confirmed character-for-character in the raw article text, including the Hayes et al. 1996, p. 1154 attribution and the inner quotation boundaries (the article uses double quotation marks for the inner quote; the page renders the nesting with single quotes).
+- NAMESPACE: no disposition exists in concept-namespace-audit.md for the "Experiential avoidance research" / "Experiential avoidance theory" pair (both are w1l manifest items). Flagged to the supervisor on the TASKBOARD; the "theory" item left pending (not enriched) until a disposition exists. No merge/rename/delete performed.
+- Revalidated against pre-item baseline f806ef1e: ok, 0 failed.
