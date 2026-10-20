@@ -20,9 +20,10 @@
   "E056",
   "E058",
   "E067",
-  "E069"
+  "E069",
+  "E077"
  ],
- "in_progress": "E077",
+ "in_progress": null,
  "flagged": {
   "SE082": "Reopened for QC: QC round 1 fail: 273 quote capitalization (Him), unsupported self-acceptance/concealment causation, staged metaphors, example outcome promise; proposals overreach",
   "A083": "Reopened for QC: milestone round 2: X.7 hierarchy claim broader than the opened X.7 passage; scope correction needed",
@@ -34,6 +35,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T14:04:15+00:00",
+ "updated": "2026-10-20T14:06:00+00:00",
  "band_done": false
 }

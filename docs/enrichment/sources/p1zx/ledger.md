@@ -194,3 +194,9 @@ Round 3 (advisor, 2026-10-21): item-10 milestone closed with a scoped PASS for A
 - Not used: a passage 'two views of me and of my body' sits in that PDF as a stray inserted block in ch. 3 (p. 122), not placed in its original chapter; dropped rather than cite an uncertain location.
 - Old cites: Sartre Part III ch. 2 (correct); MP Part II ch. 4 (confirmed: 'Other Selves and the Human World'); de Beauvoir Introduction (confirmed). Plain words was a replicate; replaced. Example imagined. Sartre gives no advice here; the text says the shy man's attempts are useless.
 - Self-QC only.
+
+## E077 (worker-p1zx-9a2e4c71, 2026-10-21)
+
+- Sources opened: Ethics of Ambiguity chs. 2-3 (Frechtman) and Second Sex Conclusion (Parshley) at Marxists Internet Archive; archive.org copies are lending-only (403). Quotes checked word-for-word by script; section headings confirmed from the page.
+- Locator correction: 'To will oneself free is also to will others free' is the end of Part II, 'Personal Freedom and Others', not Part III. Part III 'Freedom and Liberation' holds the 'indefinite movement through the freedom of others' passage. Old claim 'your freedom is not complete if achieved at expense of others' kept only as paraphrase of her text. Plain words was a replicate; replaced. Senior-woman example replaced by an imagined one.
+- Self-QC only.
