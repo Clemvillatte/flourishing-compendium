@@ -444,3 +444,25 @@
   conditions, The seer at rest in its own nature, Sufficiency (and Three thousand
   realms in one thought noted for provenance only). Quotation/provenance defects
   repaired on all affected pages.
+
+## The rhythm of life (2026-10-20, fast-track; degree 9 — eligible)
+
+- OPENED: Harold D. Roth, Original Tao: Inward Training (Nei-yeh) and the Foundations
+  of Taoist Mysticism, full text on archive.org (djvu text; the same source band p1t
+  already used for D153/D187) \u2014 downloaded via curl and read directly. Verse V used
+  verbatim (verified in the raw text: "The Way has no fixed position; / It abides
+  within the excellent mind. / When the mind is tranquil and the vital breath is
+  regular, / The Way can thereby be halted."); chapter XXI's balanced-breathing
+  passage paraphrased in the closing, also verified in the raw text. The verse V
+  wording was cross-checked between the translation section and the commentary's
+  quotation of verse V (identical). One verbatim blockquote used.
+- IS-IT-A-CONCEPT check: the page TITLE is the compendium's heading; the opened text
+  grounds the breath-as-rhythm teaching ("the vital breath is regular") but does not
+  use this phrase as a named term. Grep at this round: no entry in
+  concept-namespace-audit.md; on the concept-verification-queue ("The rhythm of
+  life", s2 \u2014 see queue listing). Flagged for supervisor disposition alongside the
+  other w1g title questions (added to the audit worker-flags section this round).
+- FLAG (inherited, protected): the preserved Sources lines "breath as rhythm" and
+  "Daoism, Neiye" are placeholder artifacts, preserved per protection rules.
+- Validation: --fast-track ok (concept <15 connections; prose minimum waived; all other
+  checks pass). Build ok (5718 entries, fcAuthored 976).
