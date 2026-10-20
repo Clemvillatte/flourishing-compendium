@@ -351,3 +351,16 @@ never-band-assigned work; p1g state had them flagged-only, absent from p1g's man
   No action for Fredrickson's positivity portfolios ← R064 and Discipline of rest ← S013 (both
   concept pages list the principles in hub-style lists; the connection to the principle's
   specific claims is loose, and the principles' existing parallels already cover their ground).
+
+## S018 — Accept loss without devastation
+- Full work: verbatim quotes added (Ench. 11 — "I have restored it" with the child/wife/estate
+  applications, the giver-demanded-it-back sentence, the inn-room image; Ench. 15 — banquet
+  "do not detain it" with children/wife/offices/wealth), verified against the opened Long
+  translation (Gutenberg 10661). Body's "returned to where it came from" framing now carried
+  by Ench. 11 verbatim. Plain words rewritten as re-derivation (loan bookkeeping). For-example
+  kept. Sources section added.
+- Flags: Med. II.11, IV.1, VI.14 and Seneca Letters 24/91/99 (inherited citation line) not
+  opened this session — left as inherited with this flag; the claims are carried by Ench. 11/15.
+- Saturation: rg S018 in content/concepts — no concept pages list S018 directly; the page's
+  Stories (ST194, ST196) and Practice kernels (K250, K253) sections already cross-link.
+  No new proposal warranted.
