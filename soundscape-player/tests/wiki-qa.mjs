@@ -1,12 +1,23 @@
 #!/usr/bin/env node
-/* Wiki integration QA — run against a server serving the repo root.
- *   node tests/wiki-qa.mjs http://127.0.0.1:8792
- * Opens site/index.html, verifies the player wiring, exercises playback and
- * set switching, captures console/page errors, and saves screenshots
- * (desktop + 375 px, light + dark) to tests/wiki-qa-*.png.
+/* Wiki integration QA — exercises the deployed wiring on the real wiki page.
+ *
+ * The wiki (site/) is served as the DOMAIN ROOT (its asset URLs are
+ * root-relative — serving the repo root breaks them), after building the
+ * data: `python3 scripts/build.py --src . --version test` (site/data/ is a
+ * deploy artifact and .gitignored — without it the boot splash never lifts
+ * and it swallows clicks).
+ *
+ *   cd soundscape-player && node tests/wiki-qa.mjs http://127.0.0.1:8792
+ *
+ * Opens the wiki page (1280 and 375 px, light and dark themes), then:
+ * opens the panel via the floating button, starts playback and verifies the
+ * position advances, switches to The dark night (22 tracks) and verifies the
+ * switch settles, stops and verifies the engine goes idle, navigates the
+ * wiki's own tabs and verifies the player survives, and on mobile asserts
+ * the floating button clears the fixed bottom tab bar. Zero console/page
+ * errors throughout. Screenshots are written to tests/wiki-qa-<tag>.png.
  */
 import { chromium } from 'playwright';
-import fs from 'node:fs';
 
 const ROOT = process.argv[2] || 'http://127.0.0.1:8792';
 const URL = `${ROOT}/index.html`;
@@ -36,32 +47,66 @@ async function qa(theme, width, height, tag) {
 
   const chips = await page.evaluate(() => document.querySelectorAll('.fcp-setchip').length);
   check(chips === 16, `[${tag}] 16 set chips mounted (${chips})`);
-  const btn = await page.evaluate(() => document.querySelectorAll('.fcp-fab, .fcp-button, [class*="fcp"]').length > 0);
-  check(btn, `[${tag}] player floating button present`);
 
-  // open panel and play
-  await page.evaluate(() => window.__fcInst.ui && window.__fcInst.ui.togglePanel());
+  // open the panel via the real floating button
+  await page.click('.fcp-btn');
   await page.waitForSelector('.fcp-panel', { timeout: 10000 });
-  const panelVisible = await page.evaluate(() => {
-    const p = document.querySelector('.fcp-panel');
-    return !!p && getComputedStyle(p).display !== 'none';
-  });
-  check(panelVisible, `[${tag}] panel opens`);
-  await page.click('.fcp-play, .fcp-panel .fcp-controls button'); // play/pause button
-  await page.waitForFunction(() => document.querySelector('.fcp-panel').classList.contains('is-playing'), null, { timeout: 20000 });
-  check(true, `[${tag}] playback starts`);
+  check(true, `[${tag}] panel opens via the floating button`);
 
-  // switch to The dark night — 22 track rows
-  const idx = await page.evaluate(() => {
-    const chips = Array.from(document.querySelectorAll('.fcp-setchip'));
-    const i = chips.findIndex((c) => /The dark night/i.test(c.textContent));
-    chips[i].click();
-    return i;
+  // play via the real transport button; verify the position advances
+  await page.click('.fcp-panel .fcp-play');
+  await page.waitForFunction(() => document.querySelector('.fcp-panel').classList.contains('is-playing'), null, { timeout: 20000 });
+  check(true, `[${tag}] playback starts (panel is-playing)`);
+  const [p1, p2] = await page.evaluate(async () => {
+    const t = () => window.__fcInst.session.activeEngine.position();
+    const a = t();
+    await new Promise((r) => setTimeout(r, 1200));
+    return [a, t()];
   });
+  check(p2 > p1, `[${tag}] playback position advances (${p1.toFixed(2)} -> ${p2.toFixed(2)})`);
+
+  // switch to The dark night — 22 track rows, switch settles
+  await page.evaluate(() => {
+    const chips = Array.from(document.querySelectorAll('.fcp-setchip'));
+    chips.find((c) => /The dark night/i.test(c.textContent)).click();
+  });
+  await page.waitForFunction(() => window.__fcInst.session.activeEngine.setId === 'the-dark-night', null, { timeout: 30000 });
   await page.waitForFunction(() => document.querySelectorAll('.fcp-track').length === 22, null, { timeout: 30000 });
-  check(true, `[${tag}] The dark night set shows 22 tracks`);
-  const activeDark = await page.evaluate(() => window.__fcInst.session.activeEngine.setId);
-  check(activeDark === 'the-dark-night', `[${tag}] active set is the-dark-night (${activeDark})`);
+  check(true, `[${tag}] The dark night switch settles (22 tracks, playing)`);
+
+  // stop via the real transport button; engine idle
+  await page.click('.fcp-panel .fcp-stop');
+  await page.waitForFunction(() => window.__fcInst.session.activeEngine.state === 'idle', null, { timeout: 20000 });
+  check(true, `[${tag}] stop settles to idle`);
+
+  // the wiki's own navigation must survive the player (SPA + mount coexistence)
+  await page.evaluate(() => {
+    const tabs = Array.from(document.querySelectorAll('#viewTabs .vt-item, #viewTabs a, #viewTabs button'));
+    const t = tabs.find((x) => /Academy/i.test(x.textContent));
+    if (t) t.click();
+  });
+  await page.waitForTimeout(800);
+  const survived = await page.evaluate(() => ({
+    inst: !!window.__fcInst,
+    fab: !!document.querySelector('.fcp-btn'),
+    panel: !!document.querySelector('.fcp-panel'),
+    errors: (window.__fcErrors || []).length,
+  }));
+  check(survived.inst && survived.fab && survived.panel && survived.errors === 0, `[${tag}] player survives wiki tab navigation`);
+
+  // mobile: the floating button must clear the fixed bottom tab bar,
+  // and the panel must stay inside the viewport
+  if (width <= 480) {
+    const clearance = await page.evaluate(() => {
+      const fab = document.querySelector('.fcp-btn').getBoundingClientRect();
+      const tabs = document.getElementById('viewTabs');
+      const tabsTop = tabs ? tabs.getBoundingClientRect().top : 0;
+      const panel = document.querySelector('.fcp-panel').getBoundingClientRect();
+      return { fabBottom: fab.bottom, tabsTop, panelTop: panel.top, vh: window.innerHeight };
+    });
+    check(clearance.fabBottom <= clearance.tabsTop, `[${tag}] floating button clears the tab bar (${clearance.fabBottom.toFixed(0)} <= ${clearance.tabsTop.toFixed(0)})`);
+    check(clearance.panelTop >= 0, `[${tag}] panel fits the viewport (top ${clearance.panelTop.toFixed(0)})`);
+  }
 
   await page.screenshot({ path: `tests/wiki-qa-${tag}.png` });
   check(errors.length === 0, `[${tag}] zero console/page errors ${errors.slice(0, 5).join(' | ')}`);
