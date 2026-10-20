@@ -12,16 +12,16 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 51** — Treat action and consequence as the mind's habit loop
 
-The lamrim's karma chapter, kept within this page's declared scope (consequence in this life, not rebirth). Tsongkhapa's list of what non-virtue leaves behind includes an inclination: the act leaves a pull toward the act.
+Tsongkhapa discusses behavioural effects within an account of karma and rebirth. Among those effects is an inclination toward repeating a harmful act.
 
 > "Liking to kill and so on even once you have been born a human are causally concordant behavioural effects." (Great Treatise on the Stages of the Path, Vol. 1, p. 236, as quoted in the Lamrim Chenmo main outlines)
 
-The Treatise's floor is the ten nonvirtuous paths of action: killing, stealing, sexual misconduct, lying, divisive speech, offensive speech, senseless speech, covetousness, malice, and wrong views (pp. 218-226), analysed under the four headings of basis, attitude, performance and culmination (p. 218). The chapter's warning is that even subtle actions "follow you like shadows" and produce both great happiness and great suffering (p. 211). The habit-loop reading is this page's contemporary application of that material: where actions leave inclinations, the repetitions you feed are the ones you are practising, and a weekly audit of them is the practice proposed here.
+The Treatise's floor is the ten nonvirtuous paths of action: killing, stealing, sexual misconduct, lying, divisive speech, offensive speech, senseless speech, covetousness, malice, and wrong views (pp. 218-226), analysed under the four headings of basis, attitude, performance and culmination (p. 218). The chapter's warning is that even subtle actions "follow you like shadows" and produce both great happiness and great suffering (p. 211). The habit-loop reading, kept to this life's consequences, is this page's contemporary application of that material: where actions leave inclinations, the repetitions you feed are the ones you are practising, and a weekly audit of them is the practice proposed here.
 
 **Plain words**
 The tradition counts a pull toward repeating a harmful act among that act's own effects. That part you can check in a week of your own life: pick one action you repeated, and ask whether the repetition made it easier, and whether you would handle the next occasion the same way. The ten nonvirtuous paths are the tradition's floor list of what to stop doing.
 
-*For example:* Each night you might snap at the kids "just this once"; by the end of the month it's who you are at 6pm.
+*For example:* Imagine repeatedly snapping at your children when you arrive home tired. In your weekly review, note when it happened and choose a different response to try next time.
 
 ## Sources
 
