@@ -12,13 +12,26 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 111** — Renounce the inner claim, not the outer duty
 
-The Gita distinguishes the renunciation of the fruit (which it endorses) from the renunciation of the activity (which it largely does not, where the activity is one's own duty). The practical rule: give up the lien, keep the work. Practically, in one ongoing obligation you resent, experiment with full performance with fully released claim, and observe the change in the work's quality.
+Chapter 18 opens with Arjuna asking about two words for giving up, sanyasa and tyaga. Krishna answers in 18.2:
 
-(BG 18.9; BG 5.13; BG 3.19.)
+> Giving up of actions motivated by desire is what the learned understand as sanyās. Relinquishing the fruits of all actions is what the wise declare to be tyāg.
 
-**Plain words** The Gita distinguishes renouncing the fruit (endorsed) from renouncing the activity (largely not, where it's your duty). The practical rule: give up the lien, keep the work. In one ongoing obligation, release the claim and watch the work continue — often better.
+(Bhagavad Gita 18.2, trans. Swami Mukundananda, [holy-bhagavad-gita.org](https://www.holy-bhagavad-gita.org/chapter/18/verse/2/).)
 
-*For example:* The parent who keeps every duty of the school run and drops the claim to gratitude for it — the run continues, lighter. The lien was the suffering; the lift was never the work.
+He then applies it to duty. Verse 18.7 says "Prescribed duties should never be renounced. Such deluded renunciation is said to be in the mode of ignorance" ([BG 18.7](https://www.holy-bhagavad-gita.org/chapter/18/verse/7/)). Verse 18.9 gives the positive case: "When actions are undertaken in response to duty, and one relinquishes attachment to any reward, O Arjun, it is considered renunciation in the nature of goodness" ([BG 18.9](https://www.holy-bhagavad-gita.org/chapter/18/verse/9/)).
+
+Mukundananda's commentary on 18.9 adds that people often take renunciation to be "only the external abandonment of works", which "leads to hypocrisy". The fix he describes is to reverse the order: detach inwardly first and keep the duties.
+
+So the pattern is clear in the text: release the claim on the result, keep the prescribed duty. The word "lien" and the experiment of fully performing a resented task with the claim released are this page's own wording and suggestion. Note the Gita speaks of prescribed duties. It does not say every obligation is one.
+
+**Plain words**
+
+You can let go of what you want from a job without letting go of the job. The Gita counts that as the better renunciation. Walking away from duties and still wanting things is worse.
+
+**For example**
+
+A woman resents the hour a week she spends doing the books for her father's shop. She keeps doing the books, and stops waiting for thanks. The hour is the same hour, but it stops feeling like a debt owed to her.
+
 ## Psychology parallels
 
 - **[[Detachment from outcomes|Detached persistence]]**, commitment to process with nonattachment to single outcomes (as in acceptance and commitment therapy)
@@ -26,3 +39,8 @@ The Gita distinguishes the renunciation of the fruit (which it endorses) from th
 ## Philosophy parallels
 
 - **In the world, not of it** (Gospel of John 17.14-15)
+
+## Sources
+
+- [Bhagavad Gita 18.2, 18.6, 18.7, 18.9 (Swami Mukundananda translation and commentary), holy-bhagavad-gita.org](https://www.holy-bhagavad-gita.org/chapter/18/verse/9/)
+- The inherited BG 5.13 and 3.19 citations were not re-opened for this page (3.19 was opened on Y102). The ACT and John 17 parallels were not opened and no claim here rests on them.
