@@ -12,22 +12,33 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 32** — Walk [[The middle path|the middle path]] between objectivism and relativism
 
-Neither "there is one absolute truth" nor "anything goes": there are better and worse claims, disciplined by experience, dialogue, and practice. Refuse both extremes.
+Bernstein's name for the pull toward both extremes is the Cartesian Anxiety: "With a chilling clarity Descartes leads us with an apparent and ineluctable necessity to a grand and seductive Either/Or. Either there is some support for our being, a fixed foundation for our knowledge, or we cannot escape the forces of darkness that envelope us with madness, with intellectual and moral chaos."
+
+> Either there is some support for our being, a fixed foundation for our knowledge, or we cannot escape the forces of darkness that envelope us with madness, with intellectual and moral chaos.
+>
+> (Richard Bernstein, Beyond Objectivism and Relativism, p. 18)
+
+The middle path in Bernstein's book is not a midpoint compromise but the refusal of the Either/Or itself. The objectivist and the relativist share the assumption that the only alternative to a fixed foundation is no standards at all. The compendium's reading: better and worse claims exist, disciplined by experience, dialogue, and practice.
 
 (Bernstein, Beyond Objectivism and Relativism, 1983.)
 
-**Plain words** Neither 'there is one absolute truth' nor 'anything goes' — there are better and worse claims, disciplined by experience, dialogue, and practice. Refuse both extremes. The relativist and the absolutist both get to skip the hard work; that's how you spot them.
+**Plain words**
+Notice the Either/Or when it arrives in conversation: either one fixed foundation or no standards at all. Both halves let you stop working. When a claim is disputed, name what would make it better or worse: what experience would show it, who would have to agree, what practice would test it. That naming is the middle path.
 
-*For example:* 'That's just your opinion' and 'The science is settled' — both conversation-enders. The honest middle is where the actual comparison of claims happens.
+*For example:* 'That's just your opinion' and 'The science is settled' are both ways of ending the comparison of claims. The middle path is where that comparison happens.
+
+## Sources
+
+- [Jeffery L. Bineham, "The Cartesian Anxiety in Epistemic Rhetoric" (quotes Bernstein, Beyond Objectivism and Relativism, p. 18)](https://bineham.wordpress.com/wp-content/uploads/2023/07/cartesian_anxiety.pdf)
 
 ## Psychology parallels
 
-- **[[Dialectical thinking|Dialectical thinking]]**, holding multiple views predicts lower distress and better judgment (Peng and Nisbett, 1999)
+- **[[Dialectical thinking|Dialectical thinking]]**
 
 ## Philosophy parallels
 
-- **[[The via media|The via media]]** (Bernstein, Beyond Objectivism and Relativism)
-- **[[Fallibilism|Fallibilism]]** (Peirce, Collected Papers)
+- **[[The via media|The via media]]**
+- **[[Fallibilism|Fallibilism]]**
 
 <!-- fc: reflections
 Where are you currently caught between "one absolute truth" and "anything goes"? What would the disciplined middle actually look like?

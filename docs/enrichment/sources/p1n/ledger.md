@@ -401,3 +401,17 @@ D160 D181 D192 all done, validated, pushed. Advisor QC at items 1, 5, 10, 15
   Inquiry parenthetical removed). Round-3 ledger sentence claiming these
   were acceptable "per the established pattern" corrected above.
 - All ten post-Daoist pages validated vs 71fd7049 and pushed.
+
+### P032 — Walk the middle path between objectivism and relativism (2026-10-20)
+- Opened: Jeffery L. Bineham, "The Cartesian Anxiety in Epistemic Rhetoric"
+  (PDF fetched), an academic paper quoting Bernstein's Either/Or passage
+  with note citations to Beyond Objectivism and Relativism (pp. 16-20, 18).
+  Quote taken as printed in Bineham (the book's own text is commonly cited
+  as "envelop"; the discrepancy is recorded here rather than silently
+  normalized). Bernstein's book itself not opened; locator retained as the
+  principle's seed citation.
+- Peng and Nisbett 1999 parallel tail reduced to bare wikilink (inherited,
+  unopened). Via-media and Fallibilism book attributions in parallels
+  reduced to bare wikilinks (unopened).
+- Saturation check: cited by [[The middle path]] concept page (existing
+  wikilink in title). Validator: ok vs 71fd7049.
