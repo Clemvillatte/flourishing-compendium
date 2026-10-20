@@ -12,18 +12,26 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 178** — Use tools without belonging to them
 
-Good walkers leave no tracks, good counters use no tallies: mastery outgrows dependence on the instrument. Keep your tools replaceable.
+Daodejing 27 describes skilful action through travel without tracks, speech without faults and reckoning without tallies. It then gives images of a secure door without bolts and a binding without cords ([Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm)).
 
-(DDJ 27.)
+> The skilful reckoner uses no tallies.
 
-**Plain words** Good walkers leave no tracks; good counters use no tallies — mastery outgrows dependence on the instrument. Keep your tools replaceable. The tool you can't function without owns you; fluency means the tool disappears into the doing.
+(Daodejing 27, [Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm).)
 
-*For example:* The cook who no longer measures anything — the recipe was scaffolding, and the building stood on its own.
+These are images of skill in the text, not evidence that a person who uses an instrument lacks mastery. This principle applies them as a question about habit: is a tool helping with the task you chose, or have its prompts begun to decide what you do? Needing assistance is not itself a failure.
+
+**Plain words** Keep asking what you opened the tool to accomplish. You can accept useful help without following every suggestion it presents.
+
+*For example:* Imagine opening a map app to check a bus stop. Once you have the location, you close it rather than browsing its recommendations for nearby shops. You used it for the question you actually had.
+
+## Sources
+
+- [Daodejing 27, translated by James Legge, Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm): the sequence of images of skilful action.
 
 ## Psychology parallels
 
-- **Automation complacency and skill loss**, GPS dependence degrades spatial memory (Dahmani and Bohbot, 2020)
-- **[[Distributed cognition / extended mind|The extended mind]]**, cognition spreads into tools (Clark and Chalmers, 1998)
+- **Automation complacency and skill loss** (Dahmani and Bohbot, 2020)
+- **[[Distributed cognition / extended mind|The extended mind]]** (Clark and Chalmers, 1998)
 
 ## Philosophy parallels
 

@@ -137,3 +137,21 @@ Claim and state transitions are pushed separately for interruption safety.
   sentence. No claim of doctrinal identity with the Daodejing is added.
 - Removed the unverified feedback mechanism. Swann, feedback and Augustine
   parallels remain unverified. Protected reflection comment unchanged.
+- Saturation: Self-verification already cites D173; Humility does not.
+  Did not add a Humility reciprocal based on the unverified Augustine
+  reference or equate the source's political image with Tangney's construct.
+
+## D178: Use tools without belonging to them (2026-10-20)
+
+- Opened https://www.gutenberg.org/files/216/216-h/216-h.htm ,
+  Daodejing 27.1, Legge. "The skilful reckoner uses no tallies." is a
+  complete exact sentence, six words. Surrounding travel, speech,
+  door/bolts and binding/cords descriptions are on that passage.
+- Seed's general claim that mastery outgrows instruments is narrowed to
+  images of skilful action. Modern question and imagined map-app example
+  concern choosing a task, not cognitive independence or disability.
+- Removed unverified GPS-dependence causal assertion and cognition-spread
+  assertion. Dahmani/Bohbot, Clark/Chalmers and Heidegger parallels remain
+  inherited and unverified. Existing links and reflection comment preserved.
+- Saturation: mention search found both linked concepts already connected
+  to D178; no forced new edge added.
