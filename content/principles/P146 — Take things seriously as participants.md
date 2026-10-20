@@ -12,13 +12,26 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 146** — Take things seriously as participants
 
-The nonhuman world: tools, materials, places, weather, animals — is not inert scenery; it acts, resists, affords. Deal with things as participants in your projects, not as dead means.
+Jane Bennett asks political theory to take seriously the active role of nonhuman materials in public life. In her 2010 political ecology of things she describes a force she calls thing-power: ordinary items can exceed their status as objects, acting and producing effects.
 
-(Latour, Reassembling the Social, 2005; Bennett, Vibrant Matter, 2010 — secularized.)
+> "Not Flower Power, or Black Power, or Girl Power, but Thing-Power: the curious ability of inanimate things to animate, to act, to produce effects dramatic and subtle." (Bennett, Vibrant Matter, 2010, ch. 1, "The Force of Things".)
 
-**Plain words** The nonhuman world — tools, materials, places, weather, animals — is not inert scenery; it acts, resists, affords. Deal with things as participants in your projects, not as dead means. The good knife, the familiar mug, the rain that cancels the trip: all voting members of the day.
+The claim has two sides: things resist, and things provide. Bennett writes that she will "feature the negative power or recalcitrance of things" while also highlighting "a positive, productive power of their own". A related account comes from the psychologist James Gibson, who described what an environment affords an animal as "what it offers the animal, what it provides or furnishes, either for good or ill".
 
-*For example:* The woodworker who 'argues' with the grain of each board — not a metaphor to him. The material gets a say. Projects that ignore the say break.
+The compendium's application: when you plan or assess a project, list the nonhuman participants alongside the human ones, and ask what each contributes and where it pushes back.
+
+### Plain words
+
+Most planning treats objects as dead equipment: the knife cuts, the road lies there. Bennett's point is that things also act. The knife dulls, the rain cancels the trip, the grain of the board decides how the plane slides. Treat those behaviours as part of the project rather than interruptions to it. The exercise: pick one tool or place you rely on, and list three ways it changed what you did this week.
+
+### For example
+
+Imagine a woodworker planing a board. The grain pulls the blade slightly left on one stretch, so she adjusts the angle and the stroke. On a knot the plane chatters and she slows down. She treats the board as something cooperating or refusing, and the finished piece records the negotiation. The compendium's exercise: name one material in your own work that regularly changes what you do.
+
+## Sources
+
+- [Jane Bennett, Vibrant Matter: A Political Ecology of Things (2010), ch. 1 (book PDF)](https://www.paradigmtrilogy.com/assets/documents/issue-02/jane-banette--vibrant-matter.pdf)
+- [James J. Gibson, The Ecological Approach to Visual Perception (1979), ch. 8, "The Theory of Affordances" (chapter PDF)](https://cs.brown.edu/courses/cs137/2017/readings/Gibson-AFF.pdf)
 
 ## Psychology parallels
 
