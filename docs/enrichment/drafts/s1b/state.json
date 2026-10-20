@@ -102,7 +102,7 @@
    ]
   },
   "s1b-005": {
-   "status": "drafting",
+   "status": "qc_pending",
    "angle": "P194: Tolstoy Master and Man; exploitative benefactor identity changes to bodily care; illustrative opening rather than proof of universal love",
    "history": [
     {
@@ -113,6 +113,11 @@
      "t": "2026-10-20T14:41:32+00:00",
      "to": "drafting",
      "note": "Opened full Maude story; read exploitation, abandoned servant, return, rescue, both deaths, injury and later life; opened Bergson primary pp27/48-50 and SEP cross-check"
+    },
+    {
+     "t": "2026-10-20T14:46:49+00:00",
+     "to": "qc_pending",
+     "note": "Fifth-item milestone advisor substantive/source PASS; exact quote, full aftermath, bounded P194 mapping independently verified"
     }
    ]
   },
@@ -132,5 +137,5 @@
    ]
   }
  },
- "updated": "2026-10-20T14:46:26+00:00"
+ "updated": "2026-10-20T14:46:49+00:00"
 }
