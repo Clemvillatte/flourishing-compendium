@@ -1,14 +1,15 @@
 {
  "batch": "p1zv",
  "done": [
-  "S039"
+  "S039",
+  "S043"
  ],
  "in_progress": null,
  "flagged": {
   "S039": "Reopened for QC: advisor QC round 2 locator correction"
  },
  "missing_concepts": [],
- "sources_checked": 2,
- "updated": "2026-10-20T11:57:36+00:00",
+ "sources_checked": 3,
+ "updated": "2026-10-20T11:58:17+00:00",
  "band_done": false
 }

@@ -33,3 +33,18 @@ Band: p1zv (Stoic principles S039–S126, ranks 1172–1201). Worker: worker-p1z
 **Proposals:** 1 reciprocal — Oikeiosis (page read; does not cite S039).
 
 **Verification note:** all quoted spans verified against raw files in qc/ (med-long.txt, musonius14.html, musonius14-stoicsource.html, musonius-index.html) with whitespace-normalized matching; footnote-marker stripping disclosed.
+
+## S043 — Be patient with difficult people (Principle 165)
+
+**Source opened and raw-verified:**
+1. Marcus Aurelius, Meditations, Book II, section 1, George Long translation, Project Gutenberg #15877 — https://www.gutenberg.org/cache/epub/15877/pg15877.txt (raw text already in qc/med-long.txt).
+   - "Begin the morning by saying to thyself, I shall meet with the busybody, the ungrateful, arrogant, deceitful, envious, unsocial. All these things happen to them by reason of their ignorance of what is good and evil." — FULL MATCH (complete sentences, no footnote markers).
+   - "For we are made for co-operation, like feet, like hands, like eyelids, like the rows of the upper and lower teeth. To act against one another, then, is contrary to nature; and it is acting against one another to be vexed and to turn away." — FULL MATCH with the editor's footnote marker ([A] after "teeth.") stripped, per the disclosed convention.
+
+**Validator:** ok on first run.
+
+**Saturation:** mention search "difficult people" — Emotion regulation, Gentleness (praotes) and Non-contention concept pages already cite S043; no reciprocal needed for them. Premeditatio malorum and The rehearsal of virtue (both read) do not cite S043.
+
+**Proposals:** 2 reciprocals — Premeditatio malorum, The rehearsal of virtue.
+
+**QC:** advisor round 2 for S039 directed "continue to S043 without another research round"; milestone QC due at S072 (every 5th item: S039, then S043+S049+S052+S054+S058 → milestone at S058? Count: first-item QC at S039, then every 5th item: S043, S049, S052, S054, S058 — next advisor milestone after S058).
