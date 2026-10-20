@@ -20,15 +20,15 @@ And his statement of what the new quality is and is not:
 
 > "The higher quality emerges from the lower level of existence and has its roots therein, but it emerges therefrom, and it does not belong to that lower level, but constitutes its possessor a new order of existent with its special laws of behaviour. The existence of emergent qualities thus described is something to be noted, as some would say, under the compulsion of brute empirical fact, or, as I should prefer to say in less harsh terms, to be accepted with the 'natural piety' of the investigator. It admits no explanation." (Alexander, Space, Time and Deity, Bk III, Ch. 2)
 
-Morgan, who gave the movement its name, states its condition:
+Morgan states the condition of what he calls emergent evolution:
 
 > "But the orderly sequence, historically viewed, appears to present, from time to time, something genuinely new. Under what I here call emergent evolution stress is laid on this incoming of the new... But if nothing new emerge—if there be only regrouping of pre-existing events and nothing more—then there is no emergent evolution." (Morgan, Emergent Evolution, 1923, Lecture 1, [Mead Project edition](https://brocku.ca/MeadProject/Morgan/Morgan_1923/Morgan02_01.html))
 
 (Alexander, Space, Time and Deity, Bk III, Ch. 2; Morgan, Emergent Evolution, Lecture 1.)
 
-**Plain words** Alexander's account has three parts: the new quality has its roots in the lower level, it does not belong to that level, and its arrival is a matter of observed fact rather than explanation. Morgan adds the test: emergence means the sequence presents something genuinely new, not only a regrouping of what already exists. The compendium's application to growth follows directly: a new level of functioning is possible without anything being added that was not already there, because the newness is in the collocation. What the theory does not promise is that any particular new arrangement will produce anything.
+**Plain words** Alexander's account has three parts: the new quality has its roots in the lower level, it does not belong to that level, and its arrival is a matter of observed fact rather than explanation. Morgan adds the test: emergence means the sequence presents something genuinely new, not only a regrouping of what already exists. Applied by analogy to group work, these accounts suggest examining how people coordinate as well as which skills they possess. What the theory does not promise is that any particular new arrangement will produce anything.
 
-*For example:* Imagine a group of people whose individual skills you already know. You could arrange their work so that they act as one complex rather than as a set of individuals, and treat whatever the arrangement produces as something to observe rather than to predict from the parts.
+*For example:* Imagine a group of people whose individual skills you already know. You could change how their work is arranged, and treat the change as something to investigate, since the accounts above do not establish that an emergent quality has appeared.
 
 ## Sources
 
