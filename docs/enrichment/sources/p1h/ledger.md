@@ -201,3 +201,29 @@ staged by the save script).
 - Inherited, NOT opened/verified: psychology parallels (Linehan 1993, Khalsa et al. 2016) and philosophy parallels (Merleau-Ponty, Right effort, Yangsheng) — preserved per protocol, flagged for supervisor.
 - Saturation: mention scan run; BE048 already cited by Arousal regulation, Autonomic nervous system, AF041. No justified new proposals.
 - Validator: ok vs pre-edit baseline 452d4831.
+
+## Takeover note (worker-p1p-27eaf6bd, 2026-10-20 12:53 UTC+11)
+
+Took over the stale p1h baton at the owner's request, recovery scope BE052, BI032,
+BI045 (the dead predecessor left nothing pushable for them; finding recorded on the
+TASKBOARD). Entries below are mine.
+
+## BE052 — Learn assertiveness: express needs and boundaries directly
+
+- Opened: https://onlinelibrary.wiley.com/doi/full/10.1111/cpsp.12216 (Speed,
+  Goldstein and Goldfried 2018, Clinical Psychology: Science and Practice 25(1),
+  e12216) — abstract extracted; full text technically unavailable on the opened
+  page, so only abstract-level claims are used.
+- Verbatim quote used: the abstract sentence "A substantial body of research indicates
+  that assertiveness is a relevant factor associated with a variety of clinical
+  problems, populations, and contexts, and that assertiveness training is a valuable
+  transdiagnostic intervention." The "neglect after the 1970s heyday" paraphrase is
+  from the abstract's opening lines; "demonstrated importance" is the abstract's own
+  phrase.
+- The seed's three-way definition (passive violates self, aggressive violates other)
+  is kept explicitly labelled as the compendium's working definition (no opened
+  source for the triad phrasing).
+- Inherited, NOT opened/verified: psychology parallels (Speed et al. 2018 full text;
+  Linehan 1993; Kelly 2004) and philosophy parallels (Aristotle NE II; Right speech;
+  Kant Groundwork) — preserved per protocol, flagged for supervisor.
+- Saturation: mention scan to follow; BE052's parallels links untouched.
