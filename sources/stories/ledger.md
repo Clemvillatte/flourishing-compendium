@@ -135,3 +135,57 @@ previously pushed only by ad-hoc git add) — KEPT, verified on origin/main.
   Grist, Wikiquote — the last is a disclosed secondary carrier), (3) facts
   from opened encyclopedic pages. No claim in the stories rests on a
   prompted extraction alone.
+
+## ST342 — The Wild Boars Sit Still (Buddhism batch)
+
+- Opened: https://www.vox.com/2018/7/9/17548512/thai-cave-rescue-soccer-boys-meditation-buddhism
+  (Vox, fetched with extraction prompt; quotes verified verbatim against the
+  returned page content) and
+  https://www.buddhistdoor.net/news/amid-relief-over-thai-cave-rescue-reports-suggest-buddhist-meditation-helped-trapped-boys-survive-their-ordeal/
+  (Buddhistdoor Global, fetched with extraction prompt, quotes verbatim).
+- Quotes used: government spokesperson ("by meditation, they stay conscious all
+  the time, so their minds will not be wandering around"), mother's remark
+  ("Look at how calm they were sitting there waiting...") as carried by the
+  opened pages; aunt's remark NOT quoted in the story (kept in the ledger only).
+- Facts: 23 June 2018 flooding, 12 boys aged 11-16, coach 25, 18-day ordeal,
+  ten days to discovery by British divers, monastery decade (temple at 12,
+  ten years, left to care for a grandmother — Vox), orphaned at 10 / epidemic
+  survivor (Buddhistdoor), food-ration sharing and malnutrition, cave-wall
+  runoff collection (Buddhistdoor).
+- Both secondary-carrier journalism; no primary sources claimed.
+
+## ST343 — The Buddha's Last Words (Buddhism batch)
+
+- Opened: https://www.dhammatalks.org/suttas/DN/DN16.html — Thanissaro
+  Bhikkhu's translation of DN 16, fetched via curl and read with tag-stripping
+  (dn16b.html in the session workspace); quotes verified character-for-character
+  against the stripped text, including macrons (Ānanda, Tathāgata, jhāna).
+- Quotes used: the old-cart passage to Ānanda; the three silent invitations to
+  the monks (verified, including "Don't later regret that 'The Teacher was
+  face-to-face with us...'"); the final exhortation ("Now, then, monks, I
+  exhort you: All fabrications are subject to ending & decay. Reach consummation
+  through heedfulness.") with the page's "That was the Tathāgata's last
+  statement."; the ascending jhānas at death.
+- The famous Capala-shrine announcement variant ("All fabrications are
+  subject to decay...") also verified on the page but not quoted in the story;
+  the story's "the same one he had repeated three months earlier" is grounded
+  in the page's note 34 ("The Buddha will repeat these two statements as his
+  last exhortation before his total unbinding").
+
+## ST344 — Suzuki Keeps the Beginner's Mind (Buddhism batch)
+
+- Opened: https://web.stanford.edu/~funn/ZenMindBeginners.pdf (full book
+  text hosted at Stanford; extraction-prompt fetch, quotes returned verbatim);
+  https://inquiringmind.com/article/2501_31_chadwick/ (David Chadwick review;
+  fetched, quotes verbatim); https://www.lionsroar.com/the-enduring-teachings-of-suzuki-roshi/
+  (fetched, the twelve-years passage verbatim); Wikipedia's Shunryū Suzuki
+  page (fetched; birth/death years, Sōtō school, ZMBM 1970).
+- Quotes used: the prologue line; the shoshin/Prajna-Paramita-repetition
+  passage; "If your mind is empty..."; the "no thought of attainment"
+  passage; the 1965 lecture variant and the "Good book. I didn't write it,
+  but it looks like a good book." anecdote (Chadwick).
+- Facts: 1959 arrival, 1971 death, SFZC and Tassajara founding, the book's
+  editing chain (Derby/Dixon/Baker), publication 1970.
+- The owner's library (docs/PRIMARY-SOURCES.md) was consulted first per the
+  QC-round-3 instruction; the Drive Buddhist PDFs there do not include ZMBM,
+  so the Stanford-hosted full text was used as the book source.
