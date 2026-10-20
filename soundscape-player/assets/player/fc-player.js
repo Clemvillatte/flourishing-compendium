@@ -39,6 +39,10 @@
     loopFadeOut: 3.0,        // seconds of fade-out on the final segment before looping
     lookahead: 2.5,          // seconds of scheduling lookahead
     poll: 200,               // ms between scheduler ticks
+    rotatePasses: false,    // vary loops: each pass starts at a random rotated track.
+                             // Enable ONLY when adjacent segments join musically
+                             // (true for a continuous recording); otherwise the
+                             // ordered loop (…last → first → …) is the safe default.
   };
 
   // ---------- utilities ----------
@@ -97,7 +101,8 @@
     this._timerTO = null;
     this._disposed = false;    // set on dispose(); async callbacks must not revive the engine
     this._playGen = 0;         // playback generation token: stop()/dispose() invalidate pending starts
-    this._loopStart = 0;       // first track index of the current pass
+    this._loopStart = 0;       // first track index of the AUDIBLE pass
+    this._nextLoopStart = null; // queued start of the next pass (set at wrap scheduling)
     this._passOrigin = 0;      // ctx time when the current pass began (position is per-pass)
     this._pausedPos = 0;       // position within the pass, captured at pause
     this._pendingPassStart = false; // next scheduled segment begins a new pass
@@ -255,15 +260,21 @@
       var scheduled = this._scheduleSegment(idx, buf, when, 0, this._pendingPassFade);
       this._pendingPassFade = 0.05;
       this.nextTime += buf.duration;
-      // wrap: after the pass-final segment, rotate to a NEW random starting
-      // track so consecutive passes never repeat identically (order within
-      // the pass is preserved, so all joins stay intact)
+      // wrap: after the pass-final segment, the next pass starts at a new track.
+      // With rotatePasses, that track is random (never the same start twice in
+      // a row); order within the pass is preserved. Without rotation, the
+      // ordered loop restarts at the first track.
       var n = this._segmentCount();
       var nextIdx;
       if (idx === (this._loopStart + n - 1) % n) {
-        var k = Math.floor(Math.random() * n);
-        if (n > 1 && k === this._loopStart) k = (k + 1 + Math.floor(Math.random() * (n - 1))) % n;
-        this._loopStart = k;
+        var k;
+        if (this.opts.rotatePasses) {
+          k = Math.floor(Math.random() * n);
+          if (n > 1 && k === this._loopStart) k = (k + 1 + Math.floor(Math.random() * (n - 1))) % n;
+        } else {
+          k = 0;
+        }
+        this._nextLoopStart = k;
         this._pendingPassStart = true;
         this._pendingPassFade = 1.2; // gentle fade-in on the new pass
         nextIdx = k;
@@ -309,11 +320,18 @@
     this.sources.push(src);
     src.onended = function () {
       var at = self.sources.indexOf(src);
-      if (at >= 0) self.sources.splice(at, 1);
+      if (at < 0) return; // this source was stopped (pause/jump/stop) — not a natural end; do nothing
+      self.sources.splice(at, 1);
       // advance the "current segment" marker if this was the front-most source;
       // the successor may be a rotated pass start, not idx+1
       if (self.state === 'playing' && self.sources.length && self._frontIdx === idx) {
-        self._frontIdx = (this._fcpNext != null) ? this._fcpNext : (idx + 1) % self._segmentCount();
+        var next = (this._fcpNext != null) ? this._fcpNext : (idx + 1) % self._segmentCount();
+        if (next !== (idx + 1) % self._segmentCount()) {
+          // the front crossed a wrap boundary: the queued pass becomes audible
+          self._loopStart = (self._nextLoopStart != null) ? self._nextLoopStart : next;
+          self._nextLoopStart = null;
+        }
+        self._frontIdx = next;
         self.timelineStart += buf.duration;
       }
     };
@@ -335,7 +353,17 @@
       var resumeWhen = this.ctx.currentTime + 0.06;
       var idx = this.segIndex;
       var buf = this.buffers[idx];
-      if (!buf) { this.loadBuffer(idx).then(function () { if (!self._disposed) self.play(); }); return; }
+      if (!buf) {
+        // target not decoded yet — retry, guarded by the generation token so a
+        // stop() while decoding can never revive the engine
+        var genRetry = this._playGen;
+        this.loadBuffer(idx).then(function () {
+          if (!self._disposed && genRetry === self._playGen) self.play();
+        }).catch(function (e) {
+          if (!self._disposed && genRetry === self._playGen) self._fail(e);
+        });
+        return;
+      }
       // virtual start of the segment in the timeline, so position() stays exact
       this.timelineStart = resumeWhen - this.segOffset;
       this._passOrigin = resumeWhen - (this._pausedPos || 0);
@@ -343,8 +371,27 @@
       var resumed = this._scheduleSegment(idx, buf, resumeWhen, this.segOffset, this._resumeFade);
       this._resumeFade = 0.05; // consumed; next resume is a normal one
       this.nextTime = resumeWhen + (buf.duration - this.segOffset);
-      this.segIndex = (idx + 1) % this._segmentCount();
-      if (resumed) resumed._fcpNext = this.segIndex;
+      // rebuild the queued plan from the AUDIBLE state: the successor of the
+      // resumed segment is idx+1, unless the resumed segment is the pass-final,
+      // in which case the queued next pass (or a fresh pick) begins
+      var n = this._segmentCount();
+      var succ = (idx + 1) % n;
+      if (idx === (this._loopStart + n - 1) % n) {
+        if (this._nextLoopStart == null) {
+          if (this.opts.rotatePasses) {
+            var kk = Math.floor(Math.random() * n);
+            if (n > 1 && kk === this._loopStart) kk = (kk + 1 + Math.floor(Math.random() * (n - 1))) % n;
+            this._nextLoopStart = kk;
+          } else {
+            this._nextLoopStart = 0;
+          }
+        }
+        succ = this._nextLoopStart;
+        this._pendingPassStart = true;  // that successor begins a new pass
+        this._pendingPassFade = 1.2;
+      }
+      this.segIndex = succ;
+      if (resumed) resumed._fcpNext = succ;
       this.segOffset = 0;
       this._frontIdx = idx;
       this.state = 'playing';
@@ -362,6 +409,7 @@
     this.segIndex = 0;
     this.segOffset = 0;
     this._loopStart = 0;
+    this._nextLoopStart = null;
     this._pausedPos = 0;
     this._pendingPassStart = true;  // first segment begins the first pass
     this._pendingPassFade = 0.05;
@@ -401,7 +449,8 @@
     this.segIndex = idx;
     this.segOffset = 0;
     this._frontIdx = idx;
-    this._loopStart = idx;   // the jumped-to track anchors a new pass
+    if (this.opts.rotatePasses) this._loopStart = idx; // the jumped-to track anchors a new pass
+    this._nextLoopStart = null;
     this._pausedPos = 0;     // position display restarts for the new pass
     this._resumeFade = 0.8;  // gentle fade-in on the jump
     this.state = 'paused'; // resume path will schedule this segment from its start
@@ -455,6 +504,7 @@
     this._pausedPos = 0;
     this._pendingPassStart = false;
     this._prevPassOrigin = null;
+    this._nextLoopStart = null;
     this._resumeFade = 0.05;
     this.timerEnd = null;
     if (this._timerTO) { clearTimeout(this._timerTO); this._timerTO = null; }

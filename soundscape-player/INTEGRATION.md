@@ -41,6 +41,7 @@ All paths are relative to the repository root
          FCPlayer.mount({
            title: 'Focus Soundscape',
            subtitle: '16 min · study set',
+           rotatePasses: true, // the set is one continuous recording — see docs/DESIGN.md
            source: { dir: 'assets/audio/segments/', pattern: 'segment_%04d.aac', count: 16 }
          });
        }

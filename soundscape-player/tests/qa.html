@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <title>FCPlayer QA fixture</title>
+  <link rel="stylesheet" href="../assets/player/fc-player.css">
+  <style>
+    :root, [data-theme='dark'] {
+      --bg:#16150e; --panel:#1d1c13; --panel2:#232218; --text:#e8e3d1; --muted:#a49e89;
+      --line:#2c2b1d; --gold:#d3ad4e; --shadow-lg:0 12px 48px rgba(0,0,0,.55);
+      --font-display:'Fraunces', Georgia, serif;
+    }
+    body { background: var(--bg); color: var(--text); font-family: Georgia, serif; margin: 0; padding: 60px 24px; }
+    h1 { font-family: var(--font-display); font-size: 24px; }
+  </style>
+</head>
+<body>
+  <h1>FCPlayer QA</h1>
+  <script src="../assets/player/fc-player.js"></script>
+  <script>
+    // #rotate=1 enables pass rotation (default: ordered loop). Uses the hash
+    // so static-server redirects can never drop the flag.
+    var rotate = /[#&]rotate=1/.test(location.hash);
+    window.__inst = FCPlayer.mount({
+      title: 'QA set',
+      subtitle: '3 × 5s tones' + (rotate ? ' · rotating' : ' · ordered'),
+      rotatePasses: rotate,
+      segments: ['fixtures/qa_0.aac', 'fixtures/qa_1.aac', 'fixtures/qa_2.aac']
+    });
+  </script>
+</body>
+</html>

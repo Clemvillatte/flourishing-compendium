@@ -50,6 +50,15 @@ npx serve . -l 3000 --no-clipboard
 
 QA requirements (see `docs/DESIGN.md` §5 for the full quality bar):
 
+- **Run the checked-in regression spec** before considering work done:
+  ```bash
+  npx serve . -l 8791 --no-clipboard &   # from the soundscape-player/ directory
+  node tests/spec.mjs                     # exits non-zero on any failure
+  ```
+  It covers: ordered infinite wrap (audible-clock verified), rotating wraps,
+  source-overlap assertions, pause/resume across a segment boundary,
+  select/random/stop controls, and the stop-during-pending-decode guard.
+  Add a spec case for every new behaviour you introduce.
 - Test in Chromium headless (Playwright) at 1280 px and 375 px.
 - Zero console/page errors during normal use.
 - Cover every visible control: play/pause/resume, stop, random, track
@@ -82,6 +91,10 @@ The supported flow:
    with a segment that can fade out gracefully.
 3. Verify: the track list shows N rows with correct durations, selection
    jumps, random jumps, and the loop transition fades cleanly.
+4. Loop variety: if the set is one continuous recording, set
+   `rotatePasses: true` in the mount config so each pass starts at a
+   rotated track. If the segments are independent clips, keep the
+   default ordered loop (see `docs/DESIGN.md`).
 
 ## Hard rules
 
@@ -91,7 +104,8 @@ The supported flow:
   explicitly asks. `INTEGRATION.md` describes how, for when that moment comes.
 - Keep `docs/DESIGN.md` updated when architecture changes; keep §5's quality
   bar green before considering work done.
-- The user's audio files are theirs to host; do not add third-party audio.
+- Only add audio files to the repo if you have permission to redistribute
+  them; never add third-party audio you do not have rights to host.
 - Preserve the public API: `FCPlayer.mount({...})`, `FCPlayer.dispose()`,
   the mount modes (`source` / `segments` / `files`), and the engine methods
   used by the demo (`play`, `pause`, `stop`, `jumpTo`, `random`, `setTimer`,

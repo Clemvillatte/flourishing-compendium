@@ -30,13 +30,18 @@ from it:
   back-to-back, so joins carry no gap and no overlap.
 - **Any duration, any count.** The engine reads each buffer's real duration;
   nothing assumes 60-second files.
-- **Infinite playback, varied by rotation.** The set loops forever. Each pass
-  through the set begins at a randomly rotated track (never the same start
-  twice in a row, order preserved so every join stays intact), so consecutive
-  passes never repeat identically. The pass-final segment fades out; the new
-  pass fades in over ~1.2 s. Track jumps and random picks anchor a new pass
-  at the target track. The position display is per-pass (time since the
-  current pass began).
+- **Infinite playback (always on).** The set loops forever: the pass-final
+  segment fades out over ~3 s and the loop restarts with a ~1.2 s fade-in.
+  Track jumps use a ~0.8 s fade-in; random picks are jumps. The position
+  display is per-pass (time since the current pass began).
+- **Varied loops (optional: `rotatePasses`).** Each pass through the set can
+  begin at a randomly rotated track (never the same start twice in a row,
+  order within the pass preserved). **Enable this only when adjacent segments
+  join musically** — true for a continuous recording cut into segments, where
+  every adjacent pair flows naturally. For sets with a single designed loop
+  endpoint (independent clips), keep the default ordered loop. The pass-final
+  fade always protects the one wrap join; internal joins must be musical in
+  the source material.
 - **Layering is a source-material concern.** This player plays files; it does
   not synthesize or mix stems. If the set is supplied as multiple layers
   (e.g. a drone bed, a pad layer, an arpeggio layer — each its own ordered
@@ -75,8 +80,8 @@ from it:
   stopped or disposed engine, and repeated clicks during a decode produce
   exactly one playback chain.
 - **Designed transitions.** The final segment of a pass fades out over ~3 s;
-  the next pass (starting at a rotated track) fades back in. Track jumps use
-  a ~0.8 s fade-in; random picks are jumps. Pause/resume is seamless.
+  the next pass fades back in over ~1.2 s. Track jumps use a ~0.8 s fade-in;
+  random picks are jumps. Pause/resume is seamless.
 - **Timer envelope.** The session timer fades out on a **dedicated gain
   stage** (`timerGain`), separate from user volume and the circadian trim.
   Changing or cancelling the timer clears the pending fade and restores the
@@ -152,11 +157,13 @@ Rules that hold in every mode:
 
 - Zero console/page errors during normal use.
 - Gapless joins when segments decode in time; rebase (never overlap) on underrun.
-- Pause/resume preserves exact position; stop resets to idle.
-- Loop wraps are infinite: the pass-final segment fades out, the next pass
-  starts at a rotated track with a fade-in, the track-list highlight and the
-  pause capture follow the rotation, and no two consecutive passes start at
-  the same track.
+- Pause/resume preserves exact position (including across segment
+  boundaries); stop resets to idle.
+- Loop wraps are infinite. With `rotatePasses` enabled: the pass-final segment
+  fades out, the next pass starts at a rotated track with a fade-in, the
+  track-list highlight and the pause capture follow the rotation, and no two
+  consecutive passes start at the same track. With rotation off: the ordered
+  loop restarts at the first track.
 - Repeated rapid clicks produce one playback chain; stop/dispose during a
   pending decode leaves the engine idle with no sources.
 - Timer replace/cancel never stops a restarted session; the fade uses its
