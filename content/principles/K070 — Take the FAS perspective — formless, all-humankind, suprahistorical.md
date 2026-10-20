@@ -12,22 +12,33 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 70** — Take the FAS perspective: formless, all-humankind, suprahistorical
 
-Hisamatsu's threefold compass for practice in the modern world: awaken the formless self (F), take all humanity as one's horizon rather than one's tribe (A), and act from beyond one's own historical moment's assumptions (S). The three are a single discipline of perspective, applicable on Tuesday morning. Practically, when a conflict or decision arrives, run the three questions in order: what am I taking myself to be, who counts in this, and what would someone from outside my era see here?
+Hisamatsu Shin'ichi founded the F.A.S. Society in 1958. A [chapter on him in an Oxford University Press volume](https://academic.oup.com/book/10756/chapter/158865394) gives the formula:
 
-(Hisamatsu, the FAS framework.)
+> Awakening to the Formless Self, the dimension of depth, the Self as the ground of human existence; Standing on the standpoint of All Humankind, the dimension of width, human being in its entirety; Creating history Suprahistorically, the dimension of length, awakened human history.
 
-**Plain words** Hisamatsu's compass has three parts: awaken the formless self; take all humankind as your horizon, not your tribe; act from beyond your historical moment's assumptions. They're one discipline of perspective, usable on a Tuesday. When a conflict or decision arrives, run through all three.
+The same chapter quotes Hisamatsu: the Formless Self "is the basis of All Humankind, and in that it transcends the three periods of past, present, and future, it is the basis of Suprahistorical history." So the third term is about creating history from an awakened standpoint, which is a little different from the compendium's wording of acting "from beyond your historical moment's assumptions".
 
-*For example:* Facing a workplace dispute, you ask: what am I clinging to, how would this look to everyone affected, and what would someone a century from now notice?
+For a psychological comparison, [Grossmann and Kross (2014)](https://pubmed.ncbi.nlm.nih.gov/24916084/) found in three experiments (N = 693) that people reasoned more wisely about another person's problems than their own, and that instructing them to self-distance "eliminated this asymmetry". That concerns distance from the self, not Hisamatsu's three dimensions.
+
+(Hisamatsu, F.A.S.; read via the OUP chapter.)
+
+**Plain words** Hisamatsu's compass links three questions: who am I at bottom, who is included, and what history am I helping to make. The three-question routine for conflicts is the compendium's adaptation. Stepping back from your own view has experimental support for wiser reasoning, though the study does not test Hisamatsu's framework.
+
+For example (imagined): facing a workplace dispute, you ask what you are clinging to, how the dispute looks to everyone affected, and what difference it makes to the longer story of the team.
+
+## Sources
+
+- [Chapter 8, True Person, Formless Self: Lay Zen Master Hisamatsu Shin'ichi](https://academic.oup.com/book/10756/chapter/158865394) (Oxford University Press), quoting the F.A.S. formula and Hisamatsu
+- Grossmann & Kross (2014), [Exploring Solomon's paradox](https://pubmed.ncbi.nlm.nih.gov/24916084/), Psychological Science 25, 1571-1580, abstract
 
 ## Psychology parallels
 
-- **Moral expansiveness and wise reasoning**, the research that widening the circle of concern and adopting long, wide perspectives improves judgment (Grossmann and Kross, 2014; the moral-circle research as framework)
+- **Self-distancing and wise reasoning**, instructing people to self-distance eliminated the self-other asymmetry in wise reasoning (Grossmann & Kross, 2014); the moral-circle research cited earlier was not verified
 
 ## Philosophy parallels
 
-- **[[The view from above|The view from above]]** (Marcus Aurelius, Meditations 9.30)
-- **The whole as the true** (Hegel)
+- **[[The view from above|The view from above]]** (Marcus Aurelius, Meditations 9.30; not verified here)
+- **The whole as the true** (Hegel; not verified here)
 
 <!-- fc: reflections
 Which of the three perspectives is hardest for you? Practise it on a current decision and write what changes.

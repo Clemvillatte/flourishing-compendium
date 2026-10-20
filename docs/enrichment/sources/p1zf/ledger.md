@@ -61,3 +61,7 @@
 ## K061 — Thoughts' nature
 - Sources opened (Lotsawa House search excerpts, verbatim): Tilopa Ganges Mahamudra verses 4 and 23; Jamyang Khyentse Chokyi Lodro, Excellent Path of Definitive Meaning; Zettle, Quan & Larson 2026, Behav Sci 16:594 (PMID 42073957, abstract).
 - Old citation "rang grol" and "whatever arises is self-liberated" as Mahamudra instruction: the rang grol term appears in Lotsawa House's Dzogchen/Patrul Rinpoche descriptions; page uses the Mahamudra song's "self-liberating" instead. Hayes et al. 2011 not opened; replaced with Zettle 2026 (single small brief-session study, equal effects). Yoga Sutra 1.9 bullet unverified.
+
+## K070 — FAS perspective
+- Sources opened (search excerpts, verbatim): OUP chapter 8 on Hisamatsu (academic.oup.com/book/10756/chapter/158865394): F.A.S. formula and Hisamatsu's statement on Formless Self as basis of All Humankind and Suprahistorical history; Grossmann & Kross 2014 Psychol Sci 25:1571-1580 (PMID 24916084, abstract).
+- Primary Hisamatsu texts not opened. Correction: the old "moral expansiveness ... widening circle improves judgment (Grossmann & Kross 2014)" bullet was not supported by that abstract; replaced by self-distancing finding. "Suprahistorical" in the source means creating history from the awakened standpoint; the page's "act from beyond your era's assumptions" is flagged as the compendium's gloss. Marcus Aurelius 9.30 and Hegel bullets unverified.
