@@ -91,3 +91,13 @@
 **Sources opened (1).** Curry, Rowland, Van Lissa, Zlotowitz, McAlaney and Whitehouse 2018, "Happy to help? A systematic review and meta-analysis of the effects of performing acts of kindness on the well-being of the actor," Journal of Experimental Social Psychology 76:320-329, open-access PDF at https://research-portal.uu.nl/ws/files/247379826/1-s2.0-S0022103117303451-main.pdf (downloaded and read in full). Blockquote is the abstract's result sentences, verified against the PDF text with PDF-extraction ligature/spacing artifacts normalized (ﬀ ect -> effect, "( δ = 0.28)" -> "(δ = 0.28)"); the limits paragraph follows the review's discussion section (under-powered studies, WEIRD samples, motive not manipulated).
 
 **Scope notes.** Lyubomirsky et al. 2005 was NOT opened — kept as a seed source line only; the seed body claim "performing kind acts increases well-being" was rewritten to the meta-analytic finding with its small-to-medium qualifier and the review's own limits. Saturation hunt and cross-link proposals skipped per §1a. Validator --fast-track: 1 ok.
+
+---
+
+## Adaptation to life transitions research — completed 2026-10-20 (worker-w1d-4c8e1b3a, FAST-TRACK)
+
+**Eligibility.** Graph degree 9 (< 15); no unresolved QC findings; inside owned band w1d. Fast-track per PROTOCOL.md §1a.
+
+**Sources opened (1).** Diener, Lucas and Scollon 2006, "Beyond the hedonic treadmill: Revising the adaptation theory of well-being," American Psychologist 61(4):305-314 — read in full inside the collected-reprints volume "The Science of Well-Being" PDF at https://www.its.caltech.edu/~squartz/Dienerbook.pdf (the SMU repository direct-download link returned HTML; the Caltech book PDF contains the full article). Blockquote is the German-panel life-events passage, verified verbatim against the PDF text (extraction ligature artifacts normalized); locator given as the collected-reprints PDF's own printed pages (pp. 109-110) since the reprint's pagination differs from the journal's. The Brickman et al. reanalysis (0.75 SD) and the five revisions are also from the opened article text. The seed body's "reorganize goals and routines" phrasing was replaced: it is not supported by the opened source.
+
+**Scope notes.** Saturation hunt and cross-link proposals skipped per §1a. A stray front-matter line introduced during writing (duplicate file_path key) was caught and removed before validation. Validator --fast-track: 1 ok.

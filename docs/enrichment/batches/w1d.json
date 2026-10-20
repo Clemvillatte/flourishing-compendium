@@ -61,7 +61,8 @@
   "Action over intention",
   "Active listening",
   "Activity scheduling (BA)",
-  "Acts of kindness (Lyubomirsky)"
+  "Acts of kindness (Lyubomirsky)",
+  "Adaptation to life transitions research"
  ],
  "in_progress": null,
  "flagged": {
@@ -76,7 +77,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 142,
- "updated": "2026-10-20T04:41:14+00:00",
+ "updated": "2026-10-20T04:42:17+00:00",
  "qc_log": {
   "Escape from freedom": "approved after 4 advisor QC rounds: quotes verified against opened sources (panarchy ch. V excerpt, Wikipedia, IEP Totalitarianism 2.d, SEP Critical Theory 1.4); Simondon Individuation and The having mode removed from Related; cross-tradition links labelled comparisons; sources_checked: 4",
   "Eternal recurrence": "milestone advisor QC applied: practical-reading attribution qualified; AF069 described as the compendium's separate comparison; Panta rhei, Corsi e ricorsi and Three thousand realms claims externally verified; 'Thou art a God' capitalisation matches primary text",
