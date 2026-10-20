@@ -44,10 +44,11 @@
   "BI051": "Milestone QC round 2 repairs: all ranking language removed ('best supported'/'best vagal evidence'/'strongest'); plain words rewritten per advisor (self-hug vs massage are different activities); Practice scoped. Validator ok",
   "BI061": "Reopened for QC: Milestone QC round 3 repairs",
   "BI068": "Reopened for QC: Milestone QC round 3 repairs",
-  "BI069": "Milestone QC round 2: scoped PASS per advisor (referral/CBT-I/apnea passages acceptable); circadian access limitation stays in ledger"
+  "BI069": "Milestone QC round 2: scoped PASS per advisor (referral/CBT-I/apnea passages acceptable); circadian access limitation stays in ledger",
+  "BI070": "Reopened for QC: First-item advisor QC: repairs needed (equivalence claim, ECT detour, hierarchy, example benefit assertion, process commentary)"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:27:02+00:00",
+ "updated": "2026-10-20T11:30:26+00:00",
  "band_done": false
 }

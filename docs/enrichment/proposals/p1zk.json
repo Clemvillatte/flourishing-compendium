@@ -147,9 +147,9 @@
    "notes": "Mention check: the concept page already cites BI070. Evidence in sources/p1zk/BI070.md (MedlinePlus + NIMH pages opened)."
   },
   {
-   "into": "Evidence-based treatments (CBT, ACT, DBT, EMDR, medication)",
+   "into": "Evidence-based treatments (CBT, ACT, DBT, EMDR, medication) have robust evidence",
    "link": "BI070",
-   "why": "BI070 marks the handover point where those treatments take over from lifestyle supports",
+   "why": "the principle marks where those treatments are the main line and lifestyle practices the additional help",
    "notes": "Mention check: the concept body already cites BI070. Evidence in sources/p1zk/BI070.md."
   }
  ],
