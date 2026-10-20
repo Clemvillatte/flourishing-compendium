@@ -18,7 +18,7 @@ Seneca tells Lucilius that philosophy is changing him, and his first move is to 
 
 The same letter puts company ahead of books, on the example of Cleanthes and Zeno:
 
-> The living voice and the intimacy of a common life will help you more than the written word. (Seneca, Letters 6.5, [Gummere](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_6))
+> Of course, however, the living voice and the intimacy of a common life will help you more than the written word. (Seneca, Letters 6.5, [Gummere](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_6))
 
 Seneca ends by passing on Hecato's answer to the question of progress:
 
@@ -28,7 +28,7 @@ The compendium's instruction from the letter: practise with others who share the
 
 (Seneca, Letters 6.)
 
-**Plain words** Reading philosophy alone makes it easy to drift, because nobody notices what you skipped. A fellow practitioner notices, and takes seriously the things you shrug off. Seneca ran this by letter: books with marked passages, progress reported honestly. The working version is one regular exchange with another person who is trying to live by what they read.
+**Plain words** Use the letter's own method: discuss a passage with someone else who reads it, and report to each other an occasion when you tried to live it. Seneca ran this by letter; the channel does not matter, the exchange does.
 
 *For example:* (imagined) Two friends each send one message a week: one line on what they tried to practise, one line on where they drifted.
 ## Psychology parallels
