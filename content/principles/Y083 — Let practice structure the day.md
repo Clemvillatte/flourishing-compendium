@@ -12,7 +12,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 83** — Let practice structure the day
 
-The Gita's instruction to the meditator is constant: "constantly engaged in meditation with a controlled mind and body" ([BG 6.10](https://www.holy-bhagavad-gita.org/chapter/6/verse/10)). The verse recommends seclusion, a controlled mind and body, and ongoing engagement rather than occasional sessions. The optional exercise below arranges that constancy as a simple daily schedule.
+The Gita's instruction to the meditator is constant: "constantly engaged in meditation with a controlled mind and body" ([BG 6.10](https://www.holy-bhagavad-gita.org/chapter/6/verse/10)). The verse recommends seclusion, a controlled mind and body, and ongoing engagement rather than occasional sessions ([BG 6.10](https://www.holy-bhagavad-gita.org/chapter/6/verse/10)). The optional exercise below arranges that constancy as a simple daily schedule.
 
 > Those who seek the state of Yog should reside in seclusion, constantly engaged in meditation with a controlled mind and body, getting rid of desires and possessions for enjoyment.
 >
