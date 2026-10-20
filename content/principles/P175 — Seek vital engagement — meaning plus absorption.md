@@ -16,7 +16,7 @@ In their 2003 chapter "The Construction of Meaning Through Vital Engagement," Je
 
 > We will define vital engagement in this chapter as a relationship to the world that is characterized both by experiences of flow (enjoyed absorption) and by meaning (subjective significance).
 
-(Nakamura and Csikszentmihalyi, 2003, p. 87.)
+(Nakamura and Csikszentmihalyi, 2003, p. 86.)
 
 Here, meaning is subjective significance. The compendium applies the definition to choosing commitments by asking about both the experience of doing an activity and its personal importance.
 
