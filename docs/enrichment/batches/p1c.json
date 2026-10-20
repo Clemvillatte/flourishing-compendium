@@ -70,9 +70,10 @@
   "A036",
   "A075",
   "A089",
-  "AF010"
+  "AF010",
+  "AT008"
  ],
- "in_progress": "AT008",
+ "in_progress": null,
  "flagged": {
   "BI013": "Reopened for QC: QC round-1 corrections failed to land; reapplied and revalidated",
   "B020": "Reopened for QC: milestone QC: verse number corrected, inferences removed",
@@ -95,10 +96,11 @@
   "AF025": "Reopened for QC: QC correction: milestone round 3",
   "AF035": "Reopened for QC: QC correction: round 3 focused check",
   "AT011": "Reopened for QC: QC correction: final focused check",
-  "AT071": "Reopened for QC: QC correction: round 3 focused check"
+  "AT071": "Reopened for QC: QC correction: round 3 focused check",
+  "P065": "EXTRANEOUS ID: P065 belongs to p1l manifest, not p1c; entered p1c state 2026-10-19 (commit 8fd129f6, genuineflourishing22 'p1c P065 start checkpoint') and was later marked done in error; p1c manifest items are complete 70/70; supervisor cleanup needed (state script has no remove command)"
  },
  "missing_concepts": [],
  "sources_checked": 18,
- "updated": "2026-10-20T03:29:12+00:00",
+ "updated": "2026-10-20T03:31:50+00:00",
  "band_done": false
 }

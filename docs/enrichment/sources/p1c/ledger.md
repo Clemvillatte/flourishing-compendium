@@ -24,3 +24,18 @@
 - Verbatim quotes: abstract opening sentence ("Not only how good or bad people feel on average...") and closing sentence ("psychological flourishing is characterized by specific patterns of emotional fluctuations across time").
 - Mapping sentence (variability/instability/inertia read against the principle's four properties) framed as this page's reading; the meta-analysis measures variability, instability, inertia (not intensity/duration/recovery as such) and the body does not claim otherwise. Kuppens/Hollenstein parallels left as inherited (not opened this session; the meta-analysis itself supports the inertia-depression link per its abstract).
 - Example kept from seed with em dashes removed; Practice section inherited unchanged.
+
+### AT008 — Recognise that attention is embodied (2026-10-20, worker-p1c-45f6a65e)
+- State: seed → done. MILESTONE QC (item 5 of band) repairs applied at close:
+  - Body narrowed to the sleep evidence (removed "attention is the cognitive function most sensitive to bodily state" overreach and the "floor of attention" sequencing paragraph; the opened PDF does not establish order-of-deterioration).
+  - Plain words replaced with the observation-exercise framing (no diagnosis claim); example replaced with imagined framing; Practice section rewritten as a record-and-compare exercise (removed unsupported nutrition/exercise/pain claims).
+  - Verbatim quotes kept exact: the 24-48hr vigilance effect-size passage and the "fundamental process affected by SD" passage (Lim & Dinges 2010, Psychological Bulletin 136(3), 375-389, UPenn-hosted PDF).
+- Inherited nutrition/exercise/posture claims remain only in protected parallels wikilinks (not opened this session); noted for supervisor.
+
+### AF010 — QC correction (2026-10-20, same session, at p1c close)
+- Mapping paragraph replaced: the inertia/"slow half of recovery" equivalence was unsupported by the opened abstract; now gives the abstract's operational definitions (variability = within-person SD; instability = magnitude of consecutive changes; inertia = autocorrelation) and labels the title's four-property tracking as this compendium's suggested exercise, which the meta-analysis does not measure as such.
+- Plain words and example replaced (no "diagnosis"/"different treatments" claims; imagined example shows differing reported patterns only).
+
+### p1c band close (2026-10-20, worker-p1c-45f6a65e)
+- All 70 manifest items done; in_progress empty; all 5 session files validate ok against pre-takeover baseline edebe3fc.
+- STATE ANOMALY FLAGGED FOR SUPERVISOR: extraneous "P065" (belongs to p1l) sits in p1c.done, introduced by commit 8fd129f6 (genuineflourishing22, 2026-10-19, "p1c P065 start checkpoint") and later marked done in error; flagged via the state workflow (state: p1c flag P065); the state script has no remove command, so the ID needs supervisor cleanup.

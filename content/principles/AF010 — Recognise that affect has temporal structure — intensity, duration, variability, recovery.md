@@ -18,12 +18,12 @@ Affect research has converged on a simple structural point: a feeling is not ful
 
 > "The findings demonstrate that psychological flourishing is characterized by specific patterns of emotional fluctuations across time, and provide insight into what constitutes optimal and suboptimal emotional functioning." (Houben et al., 2015)
 
-The measured properties can be read against the four in the principle's title: how far the feeling swings, how sharply it moves, and how long it holds are the researcher's versions of variability, instability, and the slow half of recovery. Intensity and duration are the raw material these dynamics are built from.
+The abstract operationalizes the constructs it tests: variability as the within-person standard deviation of emotions across time, instability as the magnitude of consecutive emotional changes, and inertia as the autocorrelation of emotions over time. The four-property tracking named in this principle's title is this compendium's suggested exercise, framed with those dynamics; the meta-analysis itself does not measure intensity, duration, or recovery as such.
 
 **Plain words**
-A feeling comes with numbers attached: how strong, how long, how jumpy, and how fast it fades. Two people can both say "anxious" and share none of those numbers. Track the numbers for a week and the label alone stops doing your diagnosis for you.
+A feeling comes with more than a label: how strong, how long, how jumpy, how fast it fades. Noting those properties before reaching for the word is the exercise; the word is a summary, not the phenomenon.
 
-*For example:* Two people report "anxiety": one has spikes that resolve in an hour, one has a flat hum that lasts weeks. Same word, different animals, different treatments. The label alone was hiding the diagnosis.
+*For example:* Imagine two people both reporting "anxiety". One describes spikes that resolve within an hour; the other describes a flat hum lasting weeks. The word is the same; the reported patterns are not.
 
 ## Sources
 

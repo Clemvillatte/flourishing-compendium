@@ -12,11 +12,21 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AT — Attentio
 ---
 > **Principle 8** — Recognise that attention is embodied: physical state affects attentional capacity
 
-Sleep, nutrition, exercise, posture, and energy level all directly affect attention. You cannot attend well when you are sleep-deprived, hungry, sedentary, or in pain. Attention is a biological function, not a pure mental act.
+Lim and Dinges compared the effects of short-term sleep deprivation across six cognitive categories. In their analysis, the largest effects were on vigilance, or simple attention. The authors described this pattern as consistent with vigilance being particularly affected by sleep deprivation. (Lim & Dinges, 2010.)
 
-**Plain words** Your attention runs on your body's budget — sleep, food, movement, posture. Trying to focus on four hours of sleep is like towing with an empty tank. The quickest attention hack is often a nap or a walk.
+> "As anticipated, the largest effects of 24–48 hr of SD were on tests of vigilance, or simple attention. Effect sizes within this domain were −0.762 (lapses) and −0.732 (reaction times), which represent moderate to large effects." (Lim & Dinges, 2010)
 
-*For example:* The 3 p.m. inability to read the same paragraph three times isn't a discipline problem. It's a body problem wearing a discipline costume.
+> "This finding is consistent with the notion that vigilance is the fundamental process affected by SD (Lim & Dinges, 2008) and the deficit for which compensation is least available." (Lim & Dinges, 2010)
+
+**Plain words**
+When concentration is difficult, record your recent sleep alongside the task and the difficulties you noticed. Repeat the observation on another day. This is a suggested observation exercise; it does not identify the cause of an individual attention problem.
+
+*For example:* Imagine struggling to stay with a monotonous task after a sleepless night. You record the missed responses and the lost sleep when describing what happened.
+
+## Sources
+
+- [Lim & Dinges (2010), A Meta-Analysis of the Impact of Short-Term Sleep Deprivation on Cognitive Variables, Psychological Bulletin 136(3), 375-389 (PDF, University of Pennsylvania)](https://www.med.upenn.edu/uep/assets/user-content/documents/LimDinges2010MetaAnalysis.pdf) — the vigilance effect sizes and the fundamental-process conclusion
+
 ## Psychology parallels
 
 - **[[Sleep deprivation|Sleep deprivation impairs attention]]**, even partial sleep loss degrades sustained attention and executive control (Lim & Dinges, 2010; Alhola & Polo-Kantola, 2007)
@@ -31,4 +41,4 @@ Sleep, nutrition, exercise, posture, and energy level all directly affect attent
 
 ## Practice
 
-- Before blaming your attention, check the body: sleep, food, movement, pain. Often the fastest way to improve attention is to sleep, eat, or move.
+- When concentration is difficult, note the task, the difficulty you noticed, and the hours slept the previous night; repeat on another day and compare the records.
