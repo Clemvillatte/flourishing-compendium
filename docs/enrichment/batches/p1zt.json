@@ -1,12 +1,14 @@
 {
  "batch": "p1zt",
- "done": [],
- "in_progress": "K002",
+ "done": [
+  "K002"
+ ],
+ "in_progress": null,
  "flagged": {
   "K002": "Reopened for QC: QC round 1: narrow quote attribution, verify raw page text, source-bound body/plain words, reduce psychology parallel to citation-only"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:51:51+00:00",
+ "updated": "2026-10-20T11:55:51+00:00",
  "band_done": false
 }
