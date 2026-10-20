@@ -73,3 +73,7 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 ## Y082 (2026-10-21)
 - Woods HOS 17: 3.4 (p. 205), 3.5-3.6 (p. 206; "[206" head falls inside the 3.4 commentary), 3.16 (p. 232, commentary into p. 233; "233]" head). Quotes verified except a footnote digit ("highest 3 stages") and OCR spacing in "field-of -operation". Sutras 3.7-3.15 and 3.17-3.29 not read; page says so.
 - Old text said samyama "yields knowledge of it" across a catalogue of applications and framed it as a learning principle. Woods frames the applications as supernormal powers (vibhuti); learning-skill framing and "one domain per quarter" labelled as modern adaptations. Added the stage-by-stage warning of 3.6 as the actual textual support for working sequentially. Plain words replicate replaced; example imagined. Self-QC only.
+
+## Y101 (2026-10-21)
+- Arnold Gita ch. 3 (Prajapati and the wheel of sacrifice; the unattached worker; "upholding of thy kind"). Quotes verified against Gutenberg 2388 with verse line breaks joined and capitals lowered; "He that abstains" corrected from an initial slip.
+- Old text's "dedicate the work to a person, a craft, a generation" and "open each workday with one sentence" are the principle's modern adaptations, not in Arnold; labelled. The original frame is sacrifice to the gods, stated. Old cite BG 3.9-3.16 unnumbered in Arnold. Plain words replicate replaced; example imagined. Self-QC only.
