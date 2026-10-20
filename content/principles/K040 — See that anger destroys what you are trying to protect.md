@@ -30,7 +30,7 @@ In verses 6.70-71, Shantideva compares hatred spreading in the mind with a fire 
 
 ## Psychology parallels
 
-- **Anger's costs in health and relationship outcomes** (anger and hostility were associated with coronary heart disease outcomes in the prospective studies reviewed by [Chida and Steptoe, 2009](https://www.jacc.org/doi/10.1016/j.jacc.2008.11.044))
+- Anger and hostility were associated with coronary heart disease outcomes in the prospective studies reviewed by [Chida and Steptoe (2009)](https://www.jacc.org/doi/10.1016/j.jacc.2008.11.044)
 
 ## Philosophy parallels
 
