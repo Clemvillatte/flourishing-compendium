@@ -12,17 +12,21 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 32** — Cultivate good deliberation (euboulia)
 
-Euboulia is the virtue of deliberating well: reaching a correct conclusion in the right way, in the right amount of time. It is not the same as cleverness or intelligence. It is the practical capacity to think through what to do. Practise the art of deliberation.
+Book VI of the Ethics asks what it is to deliberate well. Excellence in deliberation is not scientific knowledge ("for men do not inquire about the things they know about"), not quickness of conjecture ("they say that one should carry out quickly the conclusions of one's deliberation, but should deliberate slowly"), and not opinion; Aristotle concludes it is "correctness of thinking". What kind of correctness is worked out by cases. The clever bad man who calculates correctly toward "a great evil" has deliberated correctly but not well. Reaching good by "a false syllogism" is not yet excellence in deliberation. Reaching it by long deliberation when another reaches it quickly is not either:
 
-(NE VI.9.)
+> "excellence in deliberation, which is rightness with regard to the expedient-rightness in respect both of the end, the manner, and the time." ([Nicomachean Ethics VI.9, Ross translation, MIT Classics](http://classics.mit.edu/Aristotle/nicomachaen.6.vi.html))
 
-**Plain words** Euboulia is deliberating well: reaching a good decision in a good way, in good time. It isn't cleverness. It's the practical ability to think through what to do. Over-thinking and snap judgements both miss it.
+The chapter closes: "If, then, it is characteristic of men of practical wisdom to have deliberated well, excellence in deliberation will be correctness with regard to what conduces to the end of which practical wisdom is the true apprehension." Deliberating well is a matter of aim, means, and timing together, not of intelligence alone.
 
-*For example:* Spending an evening listing options and consequences before choosing a flat, rather than signing in ten minutes or dithering for a month, is it.
+The compendium's exercise: before a decision with a deadline, write the end, two means to it, and the latest time the decision still serves; decide at that time.
+
+**Plain words** Good deliberation is thinking through what to do, and doing it in a way that fits: right aim, workable means, done in time. It is not being clever or quick. A clever plan aimed at the wrong thing, or the right plan found too late, both miss it.
+
+*For example (imagined):* Someone lists options and consequences for an evening before choosing a flat, sets a decision date two weeks out, and decides that day.
 
 ## Psychology parallels
 
-- **[[Decision-making research|Decision-making research]]**, satisficing versus maximizing (Schwartz, 2004)
+- **[[Decision-making research|Decision-making research]]** (Schwartz, 2004)
 - **[[Implementation intentions|Implementation intentions and planning]]** (Gollwitzer, 1999)
 
 ## Philosophy parallels
