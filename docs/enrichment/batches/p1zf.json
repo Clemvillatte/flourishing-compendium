@@ -16,11 +16,12 @@
   "E102",
   "E108",
   "K018",
-  "K031"
+  "K031",
+  "K061"
  ],
  "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T08:29:39+00:00"
+ "updated": "2026-10-20T08:30:10+00:00"
 }

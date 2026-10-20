@@ -57,3 +57,7 @@
 ## K031 — Abandon any expectation of results
 - Sources opened: Lotsawa House, Seven Points of Mind Training, trans. Adam Pearcey 2012, section 6 (commitment 6, verbatim); Judy Lief, The Slogans of Atisha, slogan 28 (verbatim).
 - Corrections: old citation "Point Two" was wrong; the slogan is under Point Six (commitments), commonly slogan 28. Wulf 2007 claim ("process focus outperforms outcome focus under pressure") removed, unverified and likely mismatched (Wulf's work concerns attentional focus in motor learning; not checked). BG 2.47 and Seneca bullets inherited, unverified. Weekly exercise flagged as the compendium's. Example labelled imagined.
+
+## K061 — Thoughts' nature
+- Sources opened (Lotsawa House search excerpts, verbatim): Tilopa Ganges Mahamudra verses 4 and 23; Jamyang Khyentse Chokyi Lodro, Excellent Path of Definitive Meaning; Zettle, Quan & Larson 2026, Behav Sci 16:594 (PMID 42073957, abstract).
+- Old citation "rang grol" and "whatever arises is self-liberated" as Mahamudra instruction: the rang grol term appears in Lotsawa House's Dzogchen/Patrul Rinpoche descriptions; page uses the Mahamudra song's "self-liberating" instead. Hayes et al. 2011 not opened; replaced with Zettle 2026 (single small brief-session study, equal effects). Yoga Sutra 1.9 bullet unverified.

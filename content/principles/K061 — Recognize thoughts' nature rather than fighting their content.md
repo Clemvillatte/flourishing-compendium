@@ -12,21 +12,35 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 61** — Recognize thoughts' nature rather than fighting their content
 
-The Mahamudra distinction between the two approaches to thought: working on what thoughts say (content) versus seeing what thoughts are (events in awareness). The first approach is endless, since thought content is inexhaustible; the second is direct. Practically, when a thought loop resists analysis, switch modes: instead of examining the claim, examine the loop (what does a thought look like from inside, how does it move, what is it made of), and let the examination end the loop's authority.
+Tilopa's Ganges Mahamudra instructions turn from arguing with thoughts to looking at the mind that has them ([Lotsawa House translation](https://www.lotsawahouse.org/indian-masters/tilopa/ganges-mahamudra-instruction)):
 
-(The Mahamudra instruction on thought nature; "whatever arises is self-liberated," the tradition's rang grol teaching.)
+> Likewise, the waves of thoughts arising in the mind subside when mind sees itself.
 
-**Plain words** There are two ways to work with thoughts: what they say, or what they are. Working on content never ends, because content is inexhaustible. Seeing a thought as an event in awareness is direct. When a thought loop won't yield to analysis, switch modes and examine the thinking itself.
+Verse 23 gives the stance: "Allow the water muddied by discursive thoughts to settle naturally. Without affirming or negating what arises, leave it as it is." A later Mahamudra song by Jamyang Khyentse Chokyi Lodro puts the self-liberation idea directly ([Excellent Path of Definitive Meaning](https://www.lotsawahouse.org/tibetan-masters/jamyang-khyentse-chokyi-lodro/song-of-definitive-mahamudra)):
 
-*For example:* Stuck in "what if I fail," you stop arguing with the thought and just see: a thought, a tightening in the chest, a thought.
+> Sensory impressions and thoughts are self-liberating; they vanish by themselves. From the very moment of their arising they are on the way to being liberated.
+
+On the modern side, [Zettle and colleagues (2026)](https://pubmed.ncbi.nlm.nih.gov/42073957/) compared a brief session of metacognitive restructuring with ACT-style defusion on worries about worrying in college students. Both were "equally effective" on believability, distress and willingness, and restructuring took less time. So the contrast between changing content and changing one's relation to thoughts is not always visible in outcomes.
+
+(Tilopa, Ganges Mahamudra, verses 4 and 23; Jamyang Khyentse Chokyi Lodro.)
+
+**Plain words** These texts advise watching thoughts arise and pass, without sorting them into true and false. That is a different move from arguing with them. One small modern trial found no difference in short-term results between the two approaches, so neither is shown to be better for everyone.
+
+For example (imagined): stuck on "what if I fail", you stop arguing and notice a thought, a tightening in the chest, another thought. Whether that helps is for you to check.
+
+## Sources
+
+- Tilopa, [The Ganges Mahamudra Instructions](https://www.lotsawahouse.org/indian-masters/tilopa/ganges-mahamudra-instruction), verses 4, 23 (Lotsawa House)
+- Jamyang Khyentse Chokyi Lodro, [The Excellent Path of Definitive Meaning](https://www.lotsawahouse.org/tibetan-masters/jamyang-khyentse-chokyi-lodro/song-of-definitive-mahamudra) (Lotsawa House)
+- Zettle, Quan & Larson (2026), [Managing Worrying About Worrying with Metacognitive Restructuring Versus Metacognitive Defusion](https://pubmed.ncbi.nlm.nih.gov/42073957/), Behavioral Sciences 16, 594, abstract
 
 ## Psychology parallels
 
-- **[[Cognitive defusion|Cognitive defusion versus cognitive restructuring]]**, the ACT-CBT contrast between changing thought content and changing one's relation to thoughts (Hayes et al., 2011; Zettle's comparative studies, as framework)
+- **[[Cognitive defusion|Cognitive defusion versus cognitive restructuring]]**, the ACT contrast between changing thought content and changing one's relation to thoughts; a brief 2026 comparison found equal short-term effects on believability, distress and willingness (Zettle et al., 2026)
 
 ## Philosophy parallels
 
-- **Vikalpa as verbal construction** (YS 1.9)
+- **Vikalpa as verbal construction** (YS 1.9; not verified here)
 - **[[The finger pointing at the moon|The finger pointing at the moon]]** (Zen tradition)
 
 <!-- fc: reflections
