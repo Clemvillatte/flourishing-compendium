@@ -726,3 +726,21 @@
   opened source was added above the inherited entries.
 - Validation: --fast-track ok (concept <15 connections; prose minimum waived; all other
   checks pass). Build ok (5718 entries, fcAuthored 976).
+
+## The effort of attention (2026-10-20, fast-track; degree 9 — eligible)
+
+- OPENED: William James, The Principles of Psychology, vol. 2 (1890), chapter XXVI
+  ("Will"), full text from Project Gutenberg #57634 (same file as item 16's
+  source, already on disk) — read directly. The defining sentence quoted
+  verbatim (verified in the raw text: "Effort of attention is thus the essential
+  phenomenon of will."; chapter XXVI confirmed by marker at line 19809). The
+  closing paraphrases the adjacent sentence ("The essential achievement of the
+  will, in short, when it is most 'voluntary,' is to attend to a difficult
+  object and hold it fast before the mind."), verified in the raw text. One
+  verbatim blockquote used.
+- IS-IT-A-CONCEPT check: the phrase "effort of attention" is James's own from the
+  quoted sentence; no title flag needed. Grep at this round: no entry in
+  concept-namespace-audit.md; on the concept-verification-queue (s2, 76w; verified
+  by grep this round; queue listing noted for the supervisor).
+- Validation: --fast-track ok (concept <15 connections; prose minimum waived; all other
+  checks pass). Build ok (5718 entries, fcAuthored 976).

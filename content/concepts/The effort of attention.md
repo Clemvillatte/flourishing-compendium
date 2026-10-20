@@ -7,10 +7,15 @@ file: "The effort of attention"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-“The effort of attention” — James, The Principles of Psychology.
+The phrase is James's, from the Principles of Psychology's chapter on will: where a thought prevails in the mind with effort, attention is doing the work. ([James, Principles of Psychology, 1890](https://www.gutenberg.org/cache/epub/57634/pg57634.txt))
+
+> "Effort of attention is thus the essential phenomenon of will." (James, The Principles of Psychology, vol. 2, ch. XXVI, [Project Gutenberg #57634](https://www.gutenberg.org/cache/epub/57634/pg57634.txt))
+
+The same pages give the fuller statement: the essential achievement of the will, when it is most voluntary, is to attend to a difficult object and hold it fast before the mind. ([James, Principles of Psychology, 1890](https://www.gutenberg.org/cache/epub/57634/pg57634.txt))
 
 ## Sources
 
+- William James, The Principles of Psychology, vol. 2 (1890), chapter XXVI ("Will"), [Project Gutenberg #57634](https://www.gutenberg.org/cache/epub/57634/pg57634.txt)
 - James, The Principles of Psychology
 
 [[AT037 — Understand that attention needs recovery — directed attention is a depletable resource]]
