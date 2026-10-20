@@ -48,3 +48,7 @@ No separate advisor tool available to this session; quotes are checked programma
 ## MO020
 - Elliot & McGregor 2001 (JPSP 80), Adie, Duda & Ntoumanis 2010 (JSEP 32): PubMed abstracts only; quotes exact; authors confirmed.
 - Limits: Dweck 1986 and Elliot & Church 1997 (inherited) not opened. The statement's 'mastery goals -> better learning/persistence' not directly supported by the opened abstracts (only well-being and anxiety/performance profile); body says so. Candidate: Hulleman 2010 meta-analysis (PubMed lookup failed).
+
+## MO016
+- Ryan & Deci 2000 Am Psychol 55(1) (SDT-site PDF, pdftotext): six quotes grep-verified; 'effectance-promoting' is OCR-garbled as 'prorooting' in the extraction and restored. Quote on needs list includes inline citations as printed.
+- Limits: Bandura 1997, Ryan & Deci 2017 (inherited) not opened; Bandura 1977 PubMed record has no abstract. Example hypothetical.
