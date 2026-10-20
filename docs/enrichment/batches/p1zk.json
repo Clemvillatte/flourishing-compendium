@@ -25,7 +25,8 @@
   "BI071",
   "CO012",
   "CO013",
-  "CO018"
+  "CO018",
+  "CO020"
  ],
  "in_progress": null,
  "flagged": {
@@ -57,6 +58,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:37:13+00:00",
+ "updated": "2026-10-20T11:41:53+00:00",
  "band_done": false
 }
