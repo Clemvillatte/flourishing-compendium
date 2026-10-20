@@ -12,13 +12,25 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 161** — Return to the present: contact what is here
 
-Values live in the present tense: any moment can be turned toward what matters. When lost in past or future, return to the concrete now — the breath, the task, the person in front of you.
+Acceptance and commitment therapy (ACT) treats the present moment as the only place behaviour can happen. The article "Acceptance and Commitment Therapy as a Unified Model of Behavior Change" states the problem plainly: attention is often deployed rigidly toward the past and future, while life occurs only in the now.
 
-(Hayes, Strosahl and Wilson, 2011; James's specious present.)
+> "Life occurs only in the 'now,' but attention is often deployed rigidly toward the past and future." (Hayes, Pistorello and Levin, The Counseling Psychologist, 2012)
 
-**Plain words** Values live in the present tense — any moment can be turned toward what matters. When lost in past or future, return to the concrete now: the breath, the task, the person in front of you. The past is a museum; the future is a rumor; the only place values can be enacted is here.
+The same article ties values to that contact: "Values are lived out, moment to moment", and the consequences that matter are "here and now and located in the very process of engaging in the behavior itself". ACT trains the contact with practice: mindfulness and attentional control exercises promote "focused, voluntary, and flexible contact with the present moment".
 
-*For example:* Ruminating at midnight about the meeting next week — the value 'be a present parent' can't be enacted in next week. It can be enacted by walking to the kid's room and checking on them. Now is the only address values have.
+The compendium's application: when you notice you are lost in replay or rehearsal, return to something concrete that is actually happening, and ask what one small act available there would serve what you care about.
+
+### Plain words
+
+Midnight rumination feels like preparation, but the meeting it rehearses happens next week, and the rumination is happening now. ACT's point is that anything you can actually do has to be done in a present moment: the caring, the fixing and the apologising each have to fit into some now. The exercise: name what is in front of you (breath, task, person), then choose one small action there that expresses a value you hold.
+
+### For example
+
+Imagine lying awake at midnight rehearsing next week's meeting. The value behind the worry, say being a reliable colleague, cannot be enacted in next week. It can be enacted by writing one line of the agenda now and going back to sleep. The compendium's exercise: choose the smallest available act that serves the value.
+
+## Sources
+
+- [Hayes, Pistorello and Levin, "Acceptance and Commitment Therapy as a Unified Model of Behavior Change", The Counseling Psychologist 40(7), 976-1002 (APA CE PDF)](https://www.apa.org/education-career/ce/acceptance-commitment.pdf)
 
 ## Psychology parallels
 
