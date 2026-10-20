@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 85** — Practise moderation in pleasure
 
-Aristotle allows that bodily pleasures have their place, but draws a line at excess: "there can be too much of bodily goods, and the bad man is bad by virtue of pursuing the excess, not by virtue of pursuing the necessary pleasures" ([NE VII.14](http://classics.mit.edu/Aristotle/nicomachaen.7.vii.html)). Violent pleasures, he notes, "are pursued because of their violence by those who cannot enjoy other pleasures" ([NE VII.14](http://classics.mit.edu/Aristotle/nicomachaen.7.vii.html)). The temperate man, by contrast, "neither enjoys the things that the self-indulgent man enjoys most... nor in general the things that he should not, nor anything of this sort to excess, nor does he feel pain or craving when they are absent" ([NE III.11](http://classics.mit.edu/Aristotle/nicomachaen.3.iii.html)). The exercise below checks a pleasure against the temperate man's conditions.
+Aristotle allows that bodily pleasures have their place, but draws a line at excess: "there can be too much of bodily goods, and the bad man is bad by virtue of pursuing the excess, not by virtue of pursuing the necessary pleasures" ([NE VII.14](http://classics.mit.edu/Aristotle/nicomachaen.7.vii.html)). Violent pleasures, he notes, "are pursued because of their violence by those who cannot enjoy other pleasures" ([NE VII.14](http://classics.mit.edu/Aristotle/nicomachaen.7.vii.html)). The temperate man, by contrast, "neither enjoys the things that the self-indulgent man enjoys most... nor in general the things that he should not, nor anything of this sort to excess, nor does he feel pain or craving when they are absent, or does so only to a moderate degree" ([NE III.11](http://classics.mit.edu/Aristotle/nicomachaen.3.iii.html)). The exercise below checks a pleasure against the temperate man's conditions.
 
 > Now there can be too much of bodily goods, and the bad man is bad by virtue of pursuing the excess, not by virtue of pursuing the necessary pleasures (for all men enjoy in some way or other both dainty foods and wines and sexual intercourse, but not all men do so as they ought).
 >
@@ -28,7 +28,7 @@ Aristotle allows that bodily pleasures have their place, but draws a line at exc
 
 Aristotle's line is not that pleasure is bad; it is that excess marks the bad man ([NE VII.14](http://classics.mit.edu/Aristotle/nicomachaen.7.vii.html)). The temperate person neither enjoys what he should not nor feels pain or craving when pleasant things are absent, "or does so only to a moderate degree" ([NE III.11](http://classics.mit.edu/Aristotle/nicomachaen.3.iii.html)). For an exercise, name one pleasure you arrange your week around and ask which description fits it: enjoyed to excess, or in the moderate way described.
 
-For example: someone might keep rich food to celebrations and ordinary food to ordinary evenings, and notice which evenings the arrangement produces. (An invented illustration.)
+For example: when a preferred food is unavailable, note what you feel, without expecting any particular response. (An invented exercise.)
 
 ## Psychology parallels
 
