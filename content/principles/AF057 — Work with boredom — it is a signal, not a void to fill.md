@@ -12,18 +12,17 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 57** — Work with boredom: it is a signal, not a void to fill
 
-On the definition Eastwood and colleagues argue for, boredom is wanting to be engaged in satisfying activity and being unable to. Its seat is attention: the bored person cannot successfully engage attention with the information needed for participating in satisfying activity, becomes focused on that inability, and tends to blame the environment for the state ([Eastwood et al., 2012](https://journals.sagepub.com/doi/10.1177/1745691612456044)). The compendium's reading follows from the definition: boredom reports a failed engagement rather than an empty tank, so the first question is what the attention could not engage with, not what will drown the feeling out.
+On the definition Eastwood and colleagues argue for, boredom is wanting to be engaged in satisfying activity and being unable to. The authors propose an attentional account involving difficulty engaging attention in satisfying activity, awareness of that difficulty, and attribution of the unpleasant state to the environment ([Eastwood et al., 2012](https://journals.sagepub.com/doi/10.1177/1745691612456044)).
 
 > "That is, boredom is the aversive state that occurs when we (a) are not able to successfully engage attention with internal (e.g., thoughts or feelings) or external (e.g., environmental stimuli) information required for participating in satisfying activity, (b) are focused on the fact that we are not able to engage attention and participate in satisfying activity, and (c) attribute the cause of our aversive state to the environment." (Eastwood, J. D., Frischen, A., Fenske, M. J., & Smilek, D. (2012). The unengaged mind: Defining boredom in terms of attention. Perspectives on Psychological Science, 7(5), 482-495, [abstract](https://journals.sagepub.com/doi/10.1177/1745691612456044))
 
-**Plain words** Boredom is wanting to be into something and finding nothing you can get into. The wanting is still there, which is what makes it hurt. Before you kill the feeling with the nearest screen, ask what you were trying to get into when it started; the feeling is carrying that information.
+**Plain words** You can want something satisfying to do and still struggle to settle your attention on it. Eastwood and colleagues' account describes that frustrating situation. As a practical prompt, ask what you are trying to attend to and whether you want to continue or try something different.
 
-*For example (imagined):* A man opens and closes three apps in a waiting room. The boredom is not telling him nothing is worth doing; it is telling him nothing in reach is engaging him. He puts the phone away and drafts the evening's plan on paper instead.
+*For example (imagined):* In a waiting room, a man switches between apps, notices that he is not following any of them, and decides to try sketching the chair opposite.
 
 ## Psychology parallels
 
 - **[[Boredom|Boredom as a signal of meaninglessness or insufficient challenge]]** (Eastwood et al., 2012)
-- — Mercer-Lynn et al., 2013
 
 ## Philosophy parallels
 
@@ -32,7 +31,7 @@ On the definition Eastwood and colleagues argue for, boredom is wanting to be en
 
 ## Practice
 
-- When bored, do not immediately fill the void. Ask: "what is this boredom telling me?" Sometimes it means rest, sometimes it means change, sometimes it means sit with it and let it pass.
+- When bored, note what you were trying to attend to. Choose whether to continue that activity or try another, without assuming the feeling has identified a particular need.
 
 ## Sources
 
