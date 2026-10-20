@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # w1d sources ledger
 
 ## Recovery item: "Working memory capacity limits" (2026-10-20, worker-p1f-b7894e46)
@@ -19,3 +20,19 @@
 **Known limits recorded.** Mackenzie/Oshana 2007 and other inherited references were not opened this session; the page keeps the seed's Cited-in locator lines as locators, not as claims of support. The FAST-TRACK bar per owner directive was met (one authoritative source + accurate synthesis).
 
 **Ledger incident note.** Earlier "appends" to this ledger in this session silently failed because `docs/enrichment/sources/w1d/` did not exist (the `&&`-chained and standalone `cat >>` calls targeted a missing directory; stderr was not surfaced in the tool outputs). This file was created from scratch on 2026-10-20 to close that audit gap; no prior w1d ledger content existed in git history.
+=======
+# w1d source ledger
+
+## Achievement goal theory (Dweck, Elliot) — 2026-10-20, worker-w1d-4c8e1b3a
+
+Sources opened (4):
+
+- Dweck 1986, "Motivational processes affecting learning", American Psychologist 41(10):1040-1048, opened as PDF at https://gwern.net/doc/psychology/personality/1986-dweck.pdf — verified verbatim: the two-goal-classes sentence ("Achievement motivation involves a particular class of goals--those involving competence--..."); the mastery-oriented pattern sentence ("characterized by challenge seeking and high, effective persistence in the face of obstacles"); the helpless-pattern fragment ("challenge avoidance and low persistence in the face of difficulty"). The fixed/malleable beliefs -> goal orientation link verified (body paraphrases "tend to orient" wording).
+- Elliot & Church 1997, JPSP 72(1):218-232 — record opened at https://www.semanticscholar.org/paper/a4482ae1eeaaaed5df0d72b14e93f484104ddda4 (partial abstract); FULL abstract reconstructed from the opened OpenAlex record https://api.openalex.org/works/doi:10.1037/0022-3514.72.1.218 (abstract_inverted_index). Study findings paraphrased in body, not quoted (OpenAlex reconstruction has OCR artifacts "ach.ievement"/"performanceavoidance", so no verbatim quotation from this record). DOI metadata confirmed via https://doi.org/10.1037/0022-3514.72.1.218.
+- Elliot 2006, "The Hierarchical Model of Approach-Avoidance Motivation", Motivation and Emotion — opened PDF at https://link.springer.com/content/pdf/10.1007/s11031-006-9028-7.pdf — approach/avoidance definition quoted verbatim. Page range NOT verified, so cited without one. The chapter's reference list names Cury, Elliot, Da Fonseca & Moller 2006 (2x2 framework).
+- Cury, Elliot, Da Fonseca & Moller 2006, JPSP 90(4):666-679 — abstract opened via OpenAlex https://api.openalex.org/works/doi:10.1037/0022-3514.90.4.666 — supports the "2 x 2 achievement goal framework" crossing claim (title + abstract's approach-avoidance emphasis); four goal types not enumerated in abstract, so the body only claims the crossing.
+
+Limits and access notes: no full text of Elliot & Church 1997 opened (paywalled); the classroom study's correlational design is inferred from "assessed... antecedents and consequences examined" in the abstract, and the body hedges accordingly ("associations... rather than demonstrations"). The first advisor QC round (fail) drove these repairs: 1997 findings were initially stated from search snippets only; mastery-avoidance sentence initially cited from the Elliot 2006 reference list alone; opening paragraph overclaimed ("began with", "schools and workplaces"); Dweck qualifications restored; Flow and Self-handicapping related-concept links removed as unsupported; page range dropped.
+
+QC: first-item advisor QC round 1 FAIL, repairs applied as listed; round 2 pending. Validator: ok vs origin/main (seed) baseline.
+>>>>>>> 44ef2c4 (enrich: Achievement goal theory (Dweck, Elliot) round-2 repairs (w1d))

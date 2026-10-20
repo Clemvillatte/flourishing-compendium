@@ -53,7 +53,7 @@
   {
    "into": "Learning by doing",
    "link": "Reflective practice",
-   "why": "Schön's professional descendant of the reflection requirement"
+   "why": "Sch\u00f6n's professional descendant of the reflection requirement"
   },
   {
    "into": "Future time perspective",
@@ -104,8 +104,49 @@
    "into": "The common good",
    "link": "The theoretical life",
    "why": "the political life the chapter ranks second"
+  },
+  {
+   "into": "Implicit theories of intelligence",
+   "link": "Achievement goal theory (Dweck, Elliot)",
+   "why": "the goal framework Dweck's fixed and malleable beliefs feed into"
+  },
+  {
+   "into": "Growth mindset",
+   "link": "Achievement goal theory (Dweck, Elliot)",
+   "why": "the learning-goal orientation the malleable-intelligence belief supports"
+  },
+  {
+   "into": "Intrinsic motivation",
+   "link": "Achievement goal theory (Dweck, Elliot)",
+   "why": "the goal theory whose mastery orientation facilitated intrinsic motivation in the 1997 study"
+  },
+  {
+   "into": "Achievement motivation theory",
+   "link": "Achievement goal theory (Dweck, Elliot)",
+   "why": "the goal framework that integrates the classic need-achievement tradition"
+  },
+  {
+   "into": "Goal adjustment capacity",
+   "link": "Achievement goal theory (Dweck, Elliot)",
+   "why": "a theory of which goals people adopt in achievement settings"
+  },
+  {
+   "into": "Hope",
+   "link": "Achievement goal theory (Dweck, Elliot)",
+   "why": "a goal framework organized around developing competence rather than displaying it"
+  },
+  {
+   "into": "Approach versus avoidance motivation",
+   "link": "Achievement goal theory (Dweck, Elliot)",
+   "why": "the achievement-goal framework built on the approach and avoidance distinction"
   }
  ],
- "inline": [],
+ "inline": [
+  {
+   "into": "P015",
+   "concept": "Achievement goal theory (Dweck, Elliot)",
+   "phrase": "Learning goals versus performance goals"
+  }
+ ],
  "notes": " | deferred at this run (target band busy): 6 recip, 0 inline | deferred at this run (target band busy): 6 recip, 0 inline | deferred at this run (target band busy): 6 recip, 0 inline | deferred at this run (target band busy): 21 recip, 1 inline | deferred at this run (target band busy): 21 recip, 0 inline | deferred at this run (target band busy): 21 recip, 0 inline"
 }

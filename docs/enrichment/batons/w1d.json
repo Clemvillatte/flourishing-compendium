@@ -1,7 +1,7 @@
 {
  "baton": "w1d",
- "agent": "worker-p1f-b7894e46",
- "clocked_in": "2026-10-20T04:10:30+00:00",
+ "agent": "worker-w1d-4c8e1b3a",
+ "clocked_in": "2026-10-20T04:24:20+00:00",
  "takeovers": [
   {
    "by": "Agent D (Computer)",
@@ -38,8 +38,12 @@
    "at": "2026-10-20T04:09:55+00:00",
    "from": "genuineflourishing35",
    "reason": "stale (893 min)"
+  },
+  {
+   "by": "worker-w1d-4c8e1b3a",
+   "at": "2026-10-20T04:24:20+00:00",
+   "from": "worker-p1f-b7894e46",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-20T04:18:01+00:00"
+ ]
 }
