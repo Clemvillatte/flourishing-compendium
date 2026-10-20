@@ -12,13 +12,23 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 ---
 > **Principle 45** — Build a stress mindset that is nuanced
 
-The belief that stress is always harmful is itself harmful. The belief that stress is always beneficial is naive. The evidence-based position is that stress can be enhancing or debilitating depending on the context, the duration, and the interpretation. Stress that is acute, controllable, and meaningful tends to be enhancing. Stress that is chronic, uncontrollable, and meaningless tends to be harmful.
+Crum, Salovey and Achor developed an 8-item instrument to measure "the extent to which an individual believes that the effects of stress are either enhancing or debilitating". They also showed that mindsets can be shifted by short film clips, and that "a stress-is-enhancing mindset is associated with moderate cortisol reactivity and high desire for feedback under stress" (Crum et al., 2013, Journal of Personality and Social Psychology, [PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/23437923/)). They conclude that "stress mindset is a distinct and meaningful variable in determining the stress response".
 
-(Crum et al., 2013; McGonigal, 2016, with caveats about the strength of the evidence.)
+The belief about stress is not harmless either way. In a nationally representative US sample, "those who reported a lot of stress and that stress impacted their health a lot had a 43% increased risk of premature death (HR = 1.43, 95% CI [1.2, 1.7])" (Keller et al., 2012, Health Psychology, [PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/22201278/)). That is an observational association, so it does not prove the belief caused the deaths.
 
-**Plain words** Believing stress is always harmful is itself harmful. Believing it's always good is naive. Acute, controllable, meaningful stress tends to help you. Chronic, uncontrollable, meaningless stress tends to harm you. The belief you hold changes part of the effect.
+A later set of randomized trials moved away from simply promoting a positive view. It gave participants "more balanced information about the nature of stress along with metacognitive information on the power of their mindsets", and workers in the first trial reported "greater improvements in self-reported measures of physical health symptoms" (Crum et al., 2023, Journal of Experimental Psychology: General, [PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/37199967/)). I did not find, in these sources, evidence that acute, controllable, meaningful stress is the enhancing kind, so that part of the principle stays unverified.
 
-*For example:* Public speaking feels stressful and, with experience, becomes energising.
+**Plain words**
+Treating stress as pure poison or pure fuel are both too simple. Notice what a stressful moment is doing for you and what it costs, and let the belief you hold be an informed one.
+
+**For example**
+Before a hard presentation, you tell yourself the racing heart is your body preparing, then check afterwards whether it helped.
+
+## Sources
+
+- [Crum, Salovey & Achor (2013), Rethinking stress: the role of mindsets in determining the stress response, JPSP](https://pubmed.ncbi.nlm.nih.gov/23437923/): abstract opened
+- [Keller et al. (2012), Does the perception that stress affects health matter?, Health Psychology](https://pubmed.ncbi.nlm.nih.gov/22201278/): abstract opened
+- [Crum et al. (2023), Evaluation of the "rethink stress" mindset intervention, JEP: General](https://pubmed.ncbi.nlm.nih.gov/37199967/): abstract opened
 
 ## Stories
 
