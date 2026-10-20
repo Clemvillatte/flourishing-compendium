@@ -135,6 +135,23 @@ a principle reserve from the active supervisor.
 - Saturation: fast-track exemption; all inherited links/frontmatter preserved.
 - QC: literal quote test, retained subheading and preservation validator before done.
 
+## Social cognitive career theory
+
+- Track: fast-track, current degree 8 (6 principles, 1 layer, 1 section).
+- Opened 2026-10-20:
+  https://onlinelibrary.wiley.com/doi/abs/10.1002/j.2161-0045.1999.tb00739.x ,
+  Lent, Hackett and Brown (1999), text pp. 297–300.
+  Search: Lent Brown Hackett 1994 social cognitive career theory.
+- Original 1994 DOI fetch at https://doi.org/10.1006/jvbe.1994.1027 failed on
+  redirect. Not claimed read; substantive page uses the opened 1999 primary
+  exposition by the theory's authors instead.
+- Exact quote: p. 300 sentence on reciprocal and continuous processes;
+  line-break whitespace in PDF text is normalized for comparison.
+- Scope: named theory, variable definitions and context; no guaranteed
+  career success, all-purpose self-efficacy effect or intervention efficacy.
+- Saturation: fast-track exemption. No links or frontmatter changed; no reciprocal.
+- QC: literal source comparison and validator before done; next milestone sample.
+
 ## Non-dual awareness
 
 - Track: fast-track, current degree 7 (all principles).
