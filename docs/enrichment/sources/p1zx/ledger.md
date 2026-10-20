@@ -94,3 +94,10 @@ VERIFICATION ACCURACY CORRECTIONS: (1) full-string assertion run this session �
 ### Item-5 milestone: SCOPED PASS (3 rounds)
 
 Round 1 failed (all four); round 2 passed A051/A062/A082 and requested A083's X.7 scope correction; round 3 passed the repaired A083. Scope: the reviewed material; not certification of A083's protected title in full generality or of unopened inherited parallel references (disclosed limitations). Advisor documentation corrections applied: validator wikilink check description (occurrence-preserving, additions permitted) and proposal notes wording ("explicitly qualified on A083"). Done markers stand. Next: A101.
+
+## A101 — Recognise that law is a teacher
+
+Opened: NE Books II, V, X raw HTML downloads (MIT Classics, Ross) — II.1 legislator-habituation passage, V.1 law-bids passage, X.9 necessity/punishment + incorporated-traits passages; all quotes asserted as exact substrings of the raw texts (9/9 OK after two repairs: an ellipsis join removed by shortening the V.1 quote to its first fragment + paraphrase; a mid-sentence quote start restored to the source's capital "It is hard...").
+- Rewrite: body rebuilt on II.1 + V.1 + X.9 (the old "Politics III.1" locator dropped, not opened); Plain words re-derived (doing-before-feeling-like-it + laws-with-teeth); For example (seat-belt) kept, it matches II.1. Front-matter, reflections, both wikilinks preserved. Validator ok vs HEAD (start was recorded before editing, per process correction).
+- SATURATE: mention hunt run; A101 sits in the justice/law family with layer links and Procedural justice already links it; no underlinked targets found; no new reciprocals proposed.
+- Advisor QC: not due (item 6; next milestone at item 10).
