@@ -12,13 +12,21 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 144** — Do not fear poverty
 
-Poverty is a dispreferred indifferent, not an evil. The Stoic can live well in poverty. Seneca practised voluntary poverty to demonstrate that wealth is not necessary for flourishing. Do not make your well-being dependent on your bank balance.
+Seneca's remedy for the fear of poverty is rehearsal: live briefly on the minimum while things are still easy ([Letters to Lucilius 18, "On Festivals and Fasting", Gummere translation; opened text](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_18)):
 
-(Seneca, Letters 17, 18, 87; Epictetus, Disc. I.9, III.7; Med. III.6, VI.13.)
+> Set aside a certain number of days, during which you shall be content with the scantiest and cheapest fare, with coarse and rough dress, saying to yourself the while: "Is this the condition that I feared?"
 
-**Plain words** Poverty is a dispreferred indifferent, not an evil. A Stoic can live well in it. Seneca practised voluntary poverty to show wealth wasn't necessary. Don't make your well-being depend on your bank balance.
+(Seneca, Letters to Lucilius 18, trans. Richard M. Gummere; [opened text, Wikisource](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_18).)
 
-*For example:* Spending a week on the bare minimum and finding you were fine, apart from small pains, loosens the fear a little.
+His reasoning: "It is precisely in times of immunity from care that the soul should toughen itself beforehand for occasions of greater stress" ([same opened text](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_18)). The Stoic account of poverty as a dispreferred indifferent, not an evil, makes the rehearsal readable: you test whether living well really depends on the bank balance.
+
+### Plain words
+
+The dread of having less is usually bigger than having less. You can test it cheaply: eat simply, dress plainly, and see if the floor falls out. The point is not to romanticise the poverty that others have not chosen; the point is to stop the fear deciding your choices for you.
+
+### For example
+
+Someone afraid of losing their income can run a cheap-week experiment: usual spending halved, the pantry emptied to its base. The week answers a question the fear could not: how bad is it, actually, and what turned out to be dispensable.
 
 ## Practice kernels
 
