@@ -8,16 +8,18 @@
   "The natural rhythm of warmth and cool",
   "The same in all conditions",
   "The seer at rest in its own nature",
-  "Three thousand realms in one thought"
+  "Three thousand realms in one thought",
+  "The water of life"
  ],
  "in_progress": null,
  "flagged": {
   "Spontaneous right action": "title pending supervisor disposition: compendium heading, not the tradition's term (zhixing heyi); flagged in concept-namespace-audit.md worker flags",
   "The natural rhythm of warmth and cool": "title pending supervisor disposition: compendium heading over a real Zhuangzi ch.6 image; flagged in audit worker flags",
-  "The trained mind": "title pending supervisor disposition: Dhammapada says tamed/guarded/well-directed mind; 'trained' equivalence undocumented in opened sources; flagged in audit worker flags"
+  "The trained mind": "title pending supervisor disposition: Dhammapada says tamed/guarded/well-directed mind; 'trained' equivalence undocumented in opened sources; flagged in audit worker flags",
+  "The water of life": "title pending supervisor disposition: compendium heading over the chapter's own phrase (highest excellence is like water); flagged in ledger"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T05:03:37+00:00",
+ "updated": "2026-10-20T05:03:58+00:00",
  "band_done": false
 }
