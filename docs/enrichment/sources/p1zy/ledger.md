@@ -53,3 +53,7 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 ## Y058 (2026-10-21)
 - Arnold, Song Celestial (Gutenberg 2388) ch. 6, moderation passage and the following "Yukta" lines; verse line breaks joined, line capitals lowered, one ellipsis. Arnold's verses are unnumbered; old cite BG 6.16-6.17 not checked against a numbered edition.
 - Old text's "discipline destroys sorrow" and "engineering requirement of a trainable nervous system" are not in Arnold; labelled as the principle's. "Four moderations" matches Arnold loosely (eating, resting, sport, wish/act, plus sleep rhythm); stated. Monthly check is the principle's advice. Plain words replicate replaced; example imagined. Self-QC only.
+
+## Y066 (2026-10-21)
+- Arnold Gita ch. 6 (setup lines; verse breaks joined, dashes removed, ellipses marked; "fair, still spot" confirmed); Woods HOS 17 p. 191 (2.46 and commentary; "191]" head). Arnold applies "not too much raised, nor yet too low" to the abode, so the page does not call it a seat. Old text's "clean place" is Arnold's "fair, still spot"; "body held as one piece" paraphrase replaced by Arnold's "holding immovable body and neck and head".
+- "Environmental design for attention" and the dedicated-spot advice are the principle's reading; labelled. Plain words replicate replaced; example imagined. Self-QC only.
