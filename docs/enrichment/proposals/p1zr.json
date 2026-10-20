@@ -1,6 +1,6 @@
 {
  "batch": "p1zr",
- "revision": 8,
+ "revision": 9,
  "reciprocal": [
   {
    "into": "Capacity to be alone (Winnicott)",
@@ -37,6 +37,12 @@
    "link": "AT036",
    "why": "The principle applying incubation findings to deliberate breaks and low-demand filler during problem solving",
    "notes": "AT036 body grounds in Sio & Ormerod 2009 (opened ERIC abstract) with the Baird 2012 failed-replication caveat (FLoRA record opened); Incubation concept page does not currently cite AT036."
+  },
+  {
+   "into": "Cognitive flexibility",
+   "link": "AT052",
+   "why": "The principle applying Diamond's executive-functions account of cognitive flexibility to shifting and adapting attention",
+   "notes": "AT052 body grounds in Diamond 2013 (opened university-hosted full text, printed p. 149 quote verified by page render); Cognitive flexibility concept page currently links only to Attentional flexibility (set-shifting) and does not cite AT052. QC round 2 (item-10 milestone) caught the earlier saturation overstatement."
   }
  ],
  "inline": [],

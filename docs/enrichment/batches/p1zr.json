@@ -16,13 +16,13 @@
   "AT044",
   "AT045"
  ],
- "in_progress": null,
+ "in_progress": "AT052",
  "flagged": {
   "AF059": "Reopened for QC: takeover QC round 3 (advisor): Practice outcome promise replaced with source-bounded guidance",
   "AF063": "Reopened for QC: takeover QC round 4 (advisor): Plain-words staging + attention-training mechanism overstatement + For example construction + introduction framing accuracy"
  },
  "missing_concepts": [],
  "sources_checked": 5,
- "updated": "2026-10-20T12:55:06+00:00",
+ "updated": "2026-10-20T12:55:25+00:00",
  "band_done": false
 }

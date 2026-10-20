@@ -12,15 +12,24 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AT — Attentio
 ---
 > **Principle 52** — Cultivate attentional flexibility: the capacity to shift and adapt
 
-Attentional flexibility is the ability to shift attention between tasks, perspectives, or levels of focus as demanded by the situation. It is distinct from concentration (sustaining focus). Flexibility enables adaptation to changing demands.
+The executive-functions literature gives the principle its footing. Diamond treats cognitive flexibility as a core executive function alongside inhibition and working memory. It includes trying another approach, considering a different viewpoint, and responding to change. In her account, changing perspective draws on inhibitory control and working memory.
 
-**Plain words** The strongest attention isn't rigid — it's flexible: able to zoom, pan, switch, and return on demand. Rigidity breaks under change; flexibility survives it. Train the shifting, not just the holding.
+> "To change perspectives, we need to inhibit (or deactivate) our previous perspective and load into WM (or activate) a different perspective. It is in this sense that cognitive flexibility requires and builds on inhibitory control and WM." (Diamond, 2013 — [university-hosted full text](https://www.psychologie.uzh.ch/dam/jcr:b93485f4-7120-4fe4-9a5b-39a84f4e07e6/Diamond.AnnRevPsych.2013.pdf) — Annu Rev Psychol 64, p. 149, "Cognitive Flexibility" section)
 
-*For example:* The good ER nurse narrows for the procedure, broadens for the room, jokes with the patient, and returns — four focal lengths in a minute. That's attentional fitness.
+Her account also includes reconsidering one's position and responding to new priorities or opportunities. This principle applies that broader account to redirecting attention when circumstances change.
+
+**Plain words**
+Staying focused is useful, but a changed situation can call for a different approach. Flexibility means being able to change perspective rather than remaining with the first one.
+
+**For example**
+Imagine a nurse who narrows attention for a procedure, broadens it to take in the room, jokes with the patient, and then returns to the task.
+## Sources
+
+- [Diamond 2013, Executive Functions, Annual Review of Psychology 64:135-168, university-hosted full text](https://www.psychologie.uzh.ch/dam/jcr:b93485f4-7120-4fe4-9a5b-39a84f4e07e6/Diamond.AnnRevPsych.2013.pdf) — cognitive flexibility as a core executive function; its dependence on inhibition and working memory; adjustment to changed circumstances. Blockquote located on printed p. 149 (PDF page 15, rendered and verified).
+
 ## Psychology parallels
 
-- **[[Attentional flexibility (set-shifting)|Attentional flexibility (set-shifting)]]**, the ability to shift between mental sets and adapt to new demands (Monsell, 2003; Diamond, 2013)
-- **Flexibility predicts resilience and well-being**, attentional rigidity is associated with depression and anxiety; flexibility predicts better outcomes (Murray et al., 2018; Coles et al., 2007)
+- **[[Attentional flexibility (set-shifting)|Attentional flexibility (set-shifting)]]**, the ability to shift between mental sets and adapt to new demands (Diamond, 2013)
 
 ## Philosophy parallels
 
