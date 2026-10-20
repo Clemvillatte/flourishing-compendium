@@ -25,9 +25,9 @@ The core skills chapter names the four skills the principle can be practised wit
 (Miller & Rollnick, 2013, Motivational Interviewing: Helping People Change, 3rd ed.)
 
 **Plain words**
-The method is for the situation where someone (including yourself) sees reasons to change and reasons not to. Instead of supplying the reasons, you ask questions that let the person voice their own. The four skills to practise: open questions, affirming, reflecting, summarizing.
+Miller and Rollnick describe a collaborative conversation that explores a person's own reasons for change. The compendium uses these descriptions as a listening exercise. When someone wants to discuss a change they are considering, practise asking an open question and reflecting what you understood.
 
-*For example:* Suppose you want a friend to quit smoking. Instead of "you should quit," try an open question: "What would be different for you if you quit?" Then reflect the answer back in your own words.
+*For example:* Suppose a friend says they are considering quitting smoking and asks to talk it through. Ask, "What would be different for you if you quit?" Reflect what you heard, then check whether you understood them correctly.
 
 ## Sources
 
