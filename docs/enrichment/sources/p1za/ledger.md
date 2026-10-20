@@ -100,3 +100,7 @@ No separate advisor tool available to this session; quotes are checked programma
 ## K009
 - Sheng Yen, Hoofprint of the Ox (owner's Drive PDF; printed p.118) and Davis, Zen Pathways (Drive PDF; printed pp.296-297): 9 quotations grep-verified against pdftotext of the opened files.
 - Limits: The statement attributes 'ball of doubt' to Nishitani (Religion and Nothingness). Not found in the Buddha Eye anthology (0 hits for 'great doubt'; no Nishitani 'ball of doubt'), so body omits attribution and says so; statement untouched, supervisor may want to correct it. Gateless Gate and Dugas 1998 (inherited) not opened. Example hypothetical.
+
+## K004
+- Shantideva, Bodhicharyavatara ch.5, Padmakara 1997 translation (archive.org PDF, opened; pdftotext) cross-read with Tsadra Bodhicitta site and the Nalanda ch.5 text: 7 quotations grep-verified (5.1, 5.2, 5.6, 5.33, 5.34, 5.108); punctuation of 5.108 dash is mine (OCR dropped it).
+- Limits: statement's 'with a hundred cares' / 'mother watches her only child' NOT found in ch.5 of Padmakara 1997, Nalanda text, Wallace/Batchelor-type versions, or the other texts I grepped; body says so and omits it. Statement untouched: the supervisor/owner may wish to correct it. 'Laboratory' framing is the principle's own, unsupported by a source. Example hypothetical.
