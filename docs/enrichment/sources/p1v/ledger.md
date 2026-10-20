@@ -411,3 +411,24 @@ opened text at the recorded URL.
 - TASKBOARD recovery note corrected per advisor: inferred death/live-owner
   assertions replaced with the verified P072/P079 commit-and-baton trail;
   P079 completion to follow per owner instruction.
+
+## Item-15 closure round 2 (2026-10-20, per advisor)
+
+- Proposal rationale narrowed to the advisor's wording (documents the
+  existing P014 → Eudaimonic well-being connection; verifies nothing).
+- Concept-read scope verified: all six targets are 12-35 lines, fully
+  covered by the reads (no omitted tails).
+- Saturation scope corrected: scans rerun with --max 200 and full result
+  sets reviewed — value conflict 4, PERMA 11, play 86, memory 194, good
+  life 52. The earlier "generic hits only" note is superseded. Findings:
+  the play ecosystem concepts (Play research, Homo ludens, Seriousness
+  about the play, The play ethos) cite no P053, and P053 links none of
+  them (its one inherited concept link, Art as experience, already
+  reciprocates); Reconstructive memory cites no P098, and P098's inherited
+  link (Memory reconsolidation) already reciprocates. No missing
+  reciprocals from inherited links; creating new connections is a
+  supervisor/content decision, noted here without proposals.
+- P079's linked-concept reads recorded in sources/p1r/P079.md (all four
+  targets reciprocate); its ledger corrected per the advisor (inspection
+  scope stated, actual validation warning recorded, immutable baseline
+  4ae5851a^ rerun and verified: 1 checked, 0 failed).
