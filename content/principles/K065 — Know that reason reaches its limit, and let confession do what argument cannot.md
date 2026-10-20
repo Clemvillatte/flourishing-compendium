@@ -12,17 +12,24 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 65** — Know that reason reaches its limit, and let confession do what argument cannot
 
-Tanabe's metanoetics begins with a confession: philosophy's project of self-grounding reason fails at its own edge, and what the thinker must do there is not argue harder but perform what Tanabe calls metanoia, a turning of the whole mind that is closer to repentance than to proof. The practical translation is not religious: when you have genuinely exhausted analysis on a problem (a grief, a decision, a self), stop, and let the honest statement of the exhaustion do its own work. Practically, write the sentence "I cannot solve this by thinking," notice the panic it triggers, and sit through the ninety seconds of it.
+Tanabe's metanoetics begins with a confession: philosophy's project of self-grounding reason fails at its own edge, and what the thinker must do there is not argue harder but perform what Tanabe calls metanoia, a turning of the whole mind that is closer to repentance than to proof.
 
-(Tanabe, Philosophy as Metanoetics, the opening analysis.)
+> "Metanoetics includes within itself the logic of absolute criticism. We arrive at metanoetics by way of the critique of reason – reason in both its theoretical and practical aspects – if the critique is pursued radically." (Tanabe, Philosophy as Metanoetics, p. lvi)
 
-**Plain words** Tanabe says reason's project of grounding itself fails at its own edge, and there what the thinker needs isn't a better argument but metanoia: a turning of the whole mind, closer to repentance than proof. In practice, when you've honestly exhausted your own resources, stop arguing harder and confess you can't.
+The practical translation is not religious: when you have genuinely exhausted analysis on a problem (a grief, a decision, a self), stop, and let the honest statement of the exhaustion do its own work. Practically, write the sentence "I cannot solve this by thinking," notice the panic it triggers, and sit through the ninety seconds of it.
 
-*For example:* After months of trying to fix a relationship with logic, you finally say "I don't know what to do," and for the first time it moves.
+**Plain words**
+Reason is a tool with edges. You can watch yours honestly: at some point in a hard problem the arguments start circling, each one a version of the last. Metanoia is what the tradition calls stopping — naming the limit out loud instead of disguising it as one more argument. The confession is not defeat; it is the first move the situation has left you, and things sometimes shift once it's made.
+
+*For example:* Suppose you have spent months trying to fix a relationship with logic. Saying "I don't know what to do," out loud and meaning it, may be the first honest move left — watch what changes after it, if anything.
+
+## Sources
+
+- Tanabe Hajime, Philosophy as Metanoetics, p. lvi — [quoted in Shunichi Takayanagi, "Absolute Nothingness and Metanoetics", University of Toronto Quarterly 34.1-2, pp. 30-42](https://utppublishing.com/doi/pdf/10.3138/uram.34.1-2.30)
 
 ## Psychology parallels
 
-- **[[Cognitive defusion|Cognitive defusion's paradox of surrender]]**, the ACT finding that giving up the struggle with insoluble problems often resolves what analysis could not (Hayes et al., 2011)
+- **[[Cognitive defusion|Cognitive defusion's paradox of surrender]]**, the ACT "creative hopelessness" step: exploring what a person has done to alleviate suffering and whether it worked, to give up ineffective approaches and facilitate acceptance
 
 ## Philosophy parallels
 
