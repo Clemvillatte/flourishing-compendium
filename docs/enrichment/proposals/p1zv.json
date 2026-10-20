@@ -1,6 +1,6 @@
 {
  "batch": "p1zv",
- "revision": 4,
+ "revision": 5,
  "reciprocal": [
   {
    "into": "Truthfulness",
@@ -17,20 +17,20 @@
   {
    "into": "Fragile vs secure high self-esteem (Kernis)",
    "link": "S078",
-   "why": "A principle on not staking self-worth on others' opinions",
-   "notes": "S078 (2026-10-21, worker-p1zv-95f93b33): hub inspected, no S078 occurrence in the concept file; grounded in S078's Ench. 1 reputation-not-in-our-power claim verified against the opened Long text."
+   "why": "A Stoic principle on not being governed by others' opinions",
+   "notes": "S078 (2026-10-21, worker-p1zv-95f93b33): hub inspected, no S078 occurrence in the concept file; grounded in S078's Ench. 1 reputation-not-in-our-power claim verified against the opened Long text. Milestone-QC revision: why clause neutralised per advisor."
   },
   {
    "into": "Compassion",
    "link": "S081",
-   "why": "A principle on pitying rather than only blaming wrongdoers",
-   "notes": "S081 (2026-10-21, worker-p1zv-95f93b33): hub inspected, content/concepts/Compassion.md cites neither S074 nor S081; grounded in S081's Med. II.13 pity-kinship quote verified against the opened Long text."
+   "why": "A Stoic principle on pity for wrongdoers",
+   "notes": "S081 (2026-10-21, worker-p1zv-95f93b33): hub inspected, content/concepts/Compassion.md cites neither S074 nor S081; grounded in S081's Med. II.13 pity-kinship quote verified against the opened Long text. Milestone-QC revision: why clause neutralised per advisor."
   },
   {
    "into": "Envy",
    "link": "S082",
-   "why": "A principle on treating envy by stripping the envied success of its show",
-   "notes": "S082 (2026-10-21, worker-p1zv-95f93b33): hub inspected, content/concepts/Envy.md has no S082 occurrence (its Cited in philosophy parallels section lists no S082); grounded in S082's Med. VI.13 stripping quote verified against the opened Long text."
+   "why": "A contemporary envy exercise drawing on Marcus's examination of outward show",
+   "notes": "S082 (2026-10-21, worker-p1zv-95f93b33): hub inspected, content/concepts/Envy.md has no S082 occurrence (its Cited in philosophy parallels section lists no S082); grounded in S082's Med. VI.13 stripping quote verified against the opened Long text. Milestone-QC revision: why clause neutralised per advisor; Envy.md read (La Rochefoucauld/Buddhist/Daodejing parallels; no S082 occurrence)."
   }
  ]
 }

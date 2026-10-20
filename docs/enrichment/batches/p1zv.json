@@ -34,10 +34,13 @@
   "S066": "Reopened for QC: milestone QC round 2 repairs",
   "S074": "Reopened for QC: first-item QC: Plain words overreach (free choice of evil; not thereby excused)",
   "S075": "Reopened for QC: QC repair (takeover QC): quotes were Casaubon's wording (Gutenberg #2680) but credited to George Long, and the Antoninus Pius passage locator was wrong (it is Book VI in both editions; the page said Book I.XXVIII). Repair: replace with Long's own wording (I.10, VI.30) verified against Gutenberg #15877, fix framing and locators.",
-  "S076": "Reopened for QC: first-item QC: advisor round-1 repairs (source-bounded body, plain-words replacement) applied"
+  "S076": "Reopened for QC: first-item QC: advisor round-1 repairs (source-bounded body, plain-words replacement) applied",
+  "S078": "Reopened for QC: milestone QC: plain-words generalisations and example repaired per advisor",
+  "S081": "Reopened for QC: milestone QC repairs applied",
+  "S082": "Reopened for QC: milestone QC repairs applied"
  },
  "missing_concepts": [],
  "sources_checked": 13,
- "updated": "2026-10-20T16:14:02+00:00",
+ "updated": "2026-10-20T16:17:11+00:00",
  "band_done": false
 }

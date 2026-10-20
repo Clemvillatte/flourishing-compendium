@@ -12,17 +12,18 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 203** — Practise empathy for wrongdoers
 
-Marcus grounds empathy for wrongdoers in kinship and a diagnosis. The things from men "should be dear to us by reason of kinship", and their wrongs move pity, not only anger, because the defect behind them is ignorance:
+Marcus presents human kinship and ignorance of good and bad as reasons for pity (II.13):
 
 > "the things from men should be dear to us by reason of kinship; and sometimes even, in a manner, they move our pity by reason of men's ignorance of good and bad; this defect being not less than that which deprives us of the power of distinguishing things that are white and black" (Marcus Aurelius, Meditations, Book II, section 13, [George Long translation](https://www.gutenberg.org/cache/epub/15877/pg15877.txt))
 
-The XI.18 checklist applies the diagnosis when you are the one offended against: consider "under what compulsions in respect of opinions they are", and remember that "if they do not right, it is plain that they do so involuntarily and in ignorance" (Meditations XI.18). The wrongdoer is the first casualty: "He who does wrong does wrong against himself" (Meditations IX.4).
+The XI.18 checklist applies the diagnosis when you are the one offended against: consider "under what compulsions in respect of opinions they are", and remember that "if they do not right, it is plain that they do so involuntarily and in ignorance" (Meditations XI.18). In IX.4 he says that acting unjustly makes the wrongdoer bad.
 
 (Med. II.13, IX.4, XI.18.)
 
-**Plain words** Understanding why someone did wrong isn't the same as excusing it. The Stoic looks for the ignorance behind the act: what did this person think was good? Responsibility stays, but anger loses some of its fuel when you see the mistaken picture driving them.
+**Plain words**
+As a practical exercise, ask what the person believed was good about the action. When it is possible to ask them, check your understanding. Use what you learn when deciding how to respond.
 
-*For example:* A driver tailgates you at speed. You think "late for something that matters to him," and your grip on the wheel eases, though you still don't like it.
+*For example (imagined):* A colleague snaps at your correction. You ask what they understood you to mean before deciding how to respond.
 
 ## Sources
 

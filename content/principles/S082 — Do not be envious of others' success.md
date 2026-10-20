@@ -12,18 +12,18 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 204** — Do not be envious of others' success
 
-Marcus treats envy with the same stripping move he applies to luxury. The envied success, laid bare, is a dead fish, grape juice, dyed wool:
+For this page's exercise, apply Marcus's examination of outward show to the status attached to success. In VI.13 he examines food, wine and a purple robe before giving the broader instruction:
 
 > "where there are things which appear most worthy of our approbation, we ought to lay them bare and look at their worthlessness and strip them of all the words by which they are exalted. For outward show is a wonderful perverter of the reason, and when thou art most sure that thou art employed about things worth thy pains, it is then that it cheats thee most" (Marcus Aurelius, Meditations, Book VI, section 13, [George Long translation](https://www.gutenberg.org/cache/epub/15877/pg15877.txt))
 
-Book VI also names what envy mistakes for value: fame and praise, "a clapping of tongues". Strip that too, and what remains worth valuing is on your side of the comparison: "to move thyself and to restrain thyself in conformity to thy proper constitution" (Meditations VI.16). Another's success adds nothing to that and takes nothing from it.
+In VI.16 Marcus calls fame worthless and values acting in conformity with one's constitution. The compendium uses that comparison to ask what remains yours to practise when someone else receives recognition.
 
 (Med. VI.13, VI.16.)
 
 **Plain words**
-Envy reads someone else's win as a loss recorded against you. Nothing was transferred: their book deal did not take your sentences, their promotion did not take your judgment. Marcus strips the envied object down to what it is, then points at the one thing that was always yours to work on, your own constitution. Being glad for the winner is the accurate ledger.
+Name what you envy about the other person's success. Is it their achievement or the approval surrounding it? Then identify something you can work on yourself. Someone else receiving praise does not tell you whether your own conduct was good.
 
-*For example:* A friend publishes the book you've been postponing, and you buy two copies, one to give away.
+*For example (imagined):* A friend publishes a book. You congratulate them, then return to revising a page of your own draft.
 
 ## Sources
 

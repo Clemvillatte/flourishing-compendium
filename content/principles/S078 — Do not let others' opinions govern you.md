@@ -16,14 +16,14 @@ Epictetus opens the Enchiridion by placing reputation among the things not in ou
 
 > "How much trouble he avoids who does not look to see what his neighbor says or does or thinks, but only to what he does himself, that it may be just and pure" (Marcus Aurelius, Meditations, Book IV, section 18, [George Long translation](https://www.gutenberg.org/cache/epub/15877/pg15877.txt))
 
-Book VI adds the sober estimate of applause: "the praise which comes from the many is a clapping of tongues" (Meditations VI.16). The survey of mankind in Book IX ends with the reminder that "how they who perhaps now are praising thee will very soon blame thee, and that neither a posthumous name is of any value, nor reputation, nor anything else" (Meditations IX.30).
+Book VI adds the sober estimate of applause: "the praise which comes from the many is a clapping of tongues" (Meditations VI.16). In IX.30 Marcus asks the reader to consider "how they who perhaps now are praising thee will very soon blame thee, and that neither a posthumous name is of any value, nor reputation, nor anything else".
 
 (Med. IV.18, VI.16, IX.30; Ench. 1.)
 
 **Plain words**
-The drain is real. You can spend a whole afternoon rehearsing what someone might say about your choice, and the rehearsal changes nothing about the choice. Marcus narrows the question: what is the deed itself, and is it just? Applause and blame come from the same crowd, and the voices praising you now will be blaming you soon enough.
+As a practical exercise, separate a useful criticism from the wish to be liked. Ask whether the criticism gives you a reason to change what you did. Approval alone cannot answer whether your action was just.
 
-*For example:* Doing the right thing at work when nobody is watching and nobody will thank you.
+*For example (imagined):* A colleague wants you to omit an error from a report. You include it and explain your reasons despite their disapproval.
 
 ## Sources
 
