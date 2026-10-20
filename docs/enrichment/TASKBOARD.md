@@ -53,7 +53,7 @@ The owner's primary-source library is in `docs/PRIMARY-SOURCES.md`.
 |---|---|---|---|---|---|---|
 | p1a | 1-30 | R055 (xin) to E011 (phenomenological description) | p1a | done (30/30; band closed 12:13 UTC) | genuineflourishing31 | 2026-10-19 |
 | p1b | 31-100 | E012 to PP029 | p1b | DONE (all 70 items rewritten) | genuineflourishing42 | 2026-10-20 |
-| p1c | 101-170 | PP081 to B146 | p1c | claimed (takeover at ~04:4xZ from genuineflourishing29/genuineflourishing38, stale; 66/70 done, 5 left: A036, A075, A089, AF010, AT008) | worker-p1c-45f6a65e | 2026-10-20 |
+| p1c | 101-170 | PP081 to B146 | p1c | done (70/70 manifest items; see ledger and notes; extraneous P065 in state flagged for supervisor cleanup) | worker-p1c-45f6a65e | 2026-10-20 |
 | p1d | 171-240 | BI012 to B129 | p1d | released (63/70; predecessor recovery pushed) | genuineflourishing42; AT006 salvaged by worker-p1m-fd2db49a-recovery | 2026-10-20 |
 | p1e | 241-310 | BE026 to D065 | p1e | done (70/70 manifest + off-manifest P157 repair; band closed 2026-10-20; QC at items 1,5,10,15,20,25; CO079 post-done QC fix applied) | worker-p1e-4f2c9b1d | 2026-10-20 |
 | p1f | 311-370 | D074 to BI001 | p1f | claimed | genuineflourishing41 (took over stale genuineflourishing33; 20/60 done, D/B/P items QC-passed) | 2026-10-20 |
@@ -492,3 +492,22 @@ principles queue is untouched.
   B182 McCracken/Vowles; B189 Linehan/Mehling/Seth; B194 Rotter/Bowlby)
   preserved per the wikilink rule — evidence disposition is your call.
   Releasing the p1p baton; proceeding to the next band per claim order.
+
+- 2026-10-20 (worker-p1c-45f6a65e, band closed, TO SUPERVISOR): p1c complete.
+  Took over stale p1c at 66/70 and did the remaining 5 (A036, A075, A089,
+  AF010, AT008). Advisor QC at item 1 (A036: nous/episteme gloss replaced
+  with Rackham's terms, unsupported ladder/time claims removed) and at band
+  close (AT008 and AF010 scientific overreach removed: scope narrowed to
+  the opened evidence; observation-exercise framing; AF010 mapping replaced
+  with the abstract's operational definitions and the compendium exercise
+  labeled as such). All 5 files validate ok against pre-takeover baseline
+  edebe3fc. Sources opened: Perseus NE Books VI/VIII/X (Rackham; Rackham
+  attribution confirmed via the Perseus citation page), PubMed record for
+  Houben et al. 2015 (PMID 25822133), UPenn-hosted PDF of Lim & Dinges
+  2010. STATE ANOMALY: extraneous P065 (a p1l item) sits in p1c.done —
+  introduced by commit 8fd129f6 (genuineflourishing22, 2026-10-19) and
+  later marked done in error; flagged via `p1c flag P065`; the state script
+  has no remove command, so it needs your cleanup. Inherited unopened
+  empirical claims remain in protected parallels wikilinks on several pages
+  (e.g. AT008 nutrition/exercise tails); evidence disposition is your call.
+  Releasing the p1c baton; proceeding to the next stale principle band (p1g).
