@@ -13,6 +13,27 @@
       "phrase": "parasympathetic engagement",
       "why": "Y047's psychology parallels line reads 'Slow breathing and parasympathetic engagement, a systematic review of psycho-physiological correlates (Zaccaro et al., 2018)' in plain text; 'parasympathetic engagement' is precisely the state the Parasympathetic activation concept defines, and the cited review is the concept page's main source. The phrase occurs exactly once (rg-verified).",
       "_audit_why": "Y047 file read via rg; single occurrence of the phrase verified; no existing [[Parasympathetic activation]] link in the file"
+    },
+    {
+      "into": "B021",
+      "concept": "Impermanence",
+      "phrase": "conditionality, impermanence, and the ordinary costs of craving",
+      "why": "B021's body (line 15) uses the phrase in plain text while orienting right view around seeing conditionality and impermanence; the Impermanence page is the cross-tradition hub for exactly this fact, and B021 currently has no [[Impermanence]] wikilink (rg-verified, 2 plain-text mentions, 0 links).",
+      "_audit_why": "B021 file read via rg with line numbers; phrase verbatim at line 15; no existing Impermanence link"
+    },
+    {
+      "into": "B043",
+      "concept": "Impermanence",
+      "phrase": "its impermanence, its unsatisfactoriness, its ownerlessness",
+      "why": "B043 (vipassana) line 15 instructs looking into 'the nature of experience: its impermanence, its unsatisfactoriness, its ownerlessness' in plain text; the Impermanence page is the hub concept for the first of the three, and B043 currently has no [[Impermanence]] wikilink (rg-verified).",
+      "_audit_why": "B043 file read via rg with line numbers; phrase verbatim at line 15; no existing Impermanence link"
+    },
+    {
+      "into": "B123",
+      "concept": "Impermanence",
+      "phrase": "double-edged impermanence",
+      "why": "B123's line 42 asks 'What's your version of the double-edged impermanence?' in plain text; the page is the hub for the concept named, and B123 currently has no [[Impermanence]] wikilink (rg-verified).",
+      "_audit_why": "B123 file read via rg with line numbers; phrase verbatim at line 42; no existing Impermanence link"
     }
   ],
   "reciprocal": [
@@ -45,6 +66,18 @@
       "link": "Parasympathetic activation",
       "why": "Target page (read in full, 70 lines) is developed and quotes the same Zaccaro et al. 2018 review for its vagal-predominance and HRV/RSA findings \u2014 the same source as the concept page. The page does not link Parasympathetic activation (rg-verified absence).",
       "_audit_why": "target page read in full this session (read tool); absence of the link verified by rg"
+    },
+    {
+      "into": "Anatta",
+      "link": "Impermanence",
+      "why": "The Anatta page describes anatta as one of the Three Marks of Existence alongside dukkha and anicca ('impermanence') \u2014 the same family the Impermanence page hubs. rg found no [[Impermanence]] link on the Anatta page (exact:0).",
+      "_audit_why": "Anatta page read via rg for the Three Marks sentence and absence of the link; page not read in full this session"
+    },
+    {
+      "into": "Fu (return)",
+      "link": "Impermanence",
+      "why": "The Fu (return) page's Sources cite Laozi, Daodejing 16 \u2014 the same chapter the Impermanence page quotes for its Daoist section \u2014 and its Cited-in lists include B002 (anicca). rg found no [[Impermanence]] link on the Fu page (exact:0).",
+      "_audit_why": "Fu (return) page checked via rg for absence of the link and for its Sources/Cited-in lines; page not read in full this session"
     }
   ]
 }
