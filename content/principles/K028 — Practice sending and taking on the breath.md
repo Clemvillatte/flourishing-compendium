@@ -14,15 +14,15 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 
 Tonglen is the central lojong practice, and the root slogan mounts it on the breath: "Train in taking and sending alternately. Put them on the breath" (Chekawa, Seven Points of Mind Training, Point Two). Jamgön Kongtrül's commentary makes the imagery concrete:
 
-> "As you breathe in, imagine that black tar collecting all the suffering, obscurations, and evil of all sentient beings enters your own nostrils and is absorbed into your heart. Think that all sentient beings are forever free of misery and evil. As you breathe out, imagine that all your happiness and virtue pour out in the form of rays of moonlight from your nostrils and are absorbed by every sentient being." (Kongtrül, The Great Path of Awakening, trans. Ken McLeod, [Tibetan Buddhist Encyclopedia](https://www.tibetanbuddhistencyclopedia.com/en/wiki/Lojong_-_Tonglen))
+> "In order to make this imagined exchange clearer, as you breathe in, imagine that black tar collecting all the suffering, obscurations, and evil of all sentient beings enters your own nostrils and is absorbed into your heart. Think that all sentient beings are forever free of misery and evil. As you breathe out, imagine that all your happiness and virtue pour out in the form of rays of moonlight from your nostrils and are absorbed by every sentient being." (Kongtrül, The Great Path of Awakening, trans. Ken McLeod, [Tibetan Buddhist Encyclopedia](https://www.tibetanbuddhistencyclopedia.com/en/wiki/Lojong_-_Tonglen))
 
-The breath is the mounting point for a practical reason, not a mystical one. B. Alan Wallace's commentary on the practice: "You can do this in the solitude of meditation, but also very effectively when the suffering of others confronts you directly. When you see someone who is angry or in pain, when you visit someone in the hospital, or watch the news of some calamity, practice right there on the spot. Since you are already breathing, you might as well make it more meaningful."
+B. Alan Wallace's commentary on the practice: "You can do this in the solitude of meditation, but also very effectively when the suffering of others confronts you directly. When you see someone who is angry or in pain, when you visit someone in the hospital, or watch the news of some calamity, practice right there on the spot. Since you are already breathing, you might as well make it more meaningful."
 
-The counter-intuitive direction is the training: inhale the bad, exhale the good, which reverses the reflex of pushing away pain and hoarding the good. Practically, in any moment of others' suffering you witness, run three breaths of it.
+The counter-intuitive direction is the training: inhale the bad, exhale the good, which reverses the reflex of pushing away pain and hoarding the good. As a compendium exercise, in a moment of others' suffering you witness, run three breaths of it.
 
-**Plain words** Tonglen means breathing in what hurts, yours or someone else's, and breathing out what helps. The breath is the carrier because it is the one thing already running in every situation, so the practice works in hospital corridors and in front of bad news, not only on the cushion. And the direction is deliberate: you take in the pain and send out the good, against the reflex.
+**Plain words** Tonglen means imagining taking in what hurts and imagining sending out what helps: you picture the suffering coming into your heart, and your happiness going out to them. The breath carries it because it is the one thing already running in every situation, so the practice works in hospital corridors and in front of bad news, not only on the cushion. The imagining is of taking in the pain, not of feeling the other person's pain as if it were yours. And the direction is deliberate: take in the bad, send out the good.
 
-*For example:* Sitting with a friend's grief in the hospital corridor and quietly breathing in her fear, breathing out something steady.
+*For example:* Sitting with a friend's grief in the hospital corridor and quietly imagining breathing in her fear, breathing out something steady.
 
 ## Sources
 

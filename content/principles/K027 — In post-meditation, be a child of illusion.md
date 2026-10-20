@@ -22,7 +22,7 @@ The image is not withdrawal. Pema Chödrön's commentary on the same slogan:
 
 The combination the slogan asks for is both halves at once: appearances taken as dreamlike, activity entered fully. Practically, pick your most absorbing activity and practice doing it fully while knowing its constructedness; the combination is the point, not either half alone.
 
-**Plain words** The instruction is for the hours after the sitting, not during it. The commentary names the failure mode: things get heavy and solid. The remedy is not to withdraw; it is to be fully present while seeing the heaviness as pliable, open, workable. So the practice is doing the same activity you would have done, with more room in it.
+**Plain words** The instruction is for the hours after the sitting. The idea it rests on, in Wallace's commentary, is that what you meet exists not as intrinsic entities but as dependently related events. So the practice is not deciding that events are imaginary; it is entering the same activity with the knowledge that it is put together, which leaves more room in it. When the day turns heavy and solid, that is the cue to work from that knowledge.
 
 *For example:* Giving a big presentation completely, and also quietly knowing it's one presentation among many, you speak with more freedom.
 
