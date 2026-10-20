@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 125** — Dwell nowhere (non-abiding)
 
-Section IX of the Diamond Sutra explains Subhuti's description as an abider in peace with the words "This is because Subhuti abides nowhere" ([Diamond Sutra, Section IX](https://ia802808.us.archive.org/18/items/the_diamond_sutra_english/the_diamond_sutra_english.pdf)). Section X, which the seed's chapter citation points to, carries the instruction in practice: "A Bodhisattva should develop a mind which alights upon no thing whatsoever; and so should he establish it" ([Diamond Sutra, Section X](https://ia802808.us.archive.org/18/items/the_diamond_sutra_english/the_diamond_sutra_english.pdf)). The English Platform Sutra text opened for this page describes non-abiding in relation to successive thoughts:
+Section IX of the Diamond Sutra explains Subhuti's description as an abider in peace with the words "This is because Subhuti abides nowhere" ([Diamond Sutra, Section IX](https://ia802808.us.archive.org/18/items/the_diamond_sutra_english/the_diamond_sutra_english.pdf)). Section X adds the instruction: "A Bodhisattva should develop a mind which alights upon no thing whatsoever; and so should he establish it" ([Diamond Sutra, Section X](https://ia802808.us.archive.org/18/items/the_diamond_sutra_english/the_diamond_sutra_english.pdf)). The Platform Sutra describes non-abiding in relation to successive thoughts:
 
 > "Upon all Dharmas, without dwelling on the thoughts as they follow each other, then there will be no bondage. That is what is meant by non-abiding as the foundation." (Platform Sutra of the Sixth Patriarch, [Terebess edition](https://terebess.hu/zen/platf.pdf), PDF p. 36)
 
