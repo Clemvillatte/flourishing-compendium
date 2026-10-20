@@ -171,6 +171,23 @@ a principle reserve from the active supervisor.
 - Saturation: fast-track exemption. All inherited links retained, no reciprocal.
 - QC: literal quote match, retained subheading and preservation validator before done.
 
+## Social exchange theory
+
+- Track: fast-track, current degree 8 (7 principles and 1 kernel).
+- Opened 2026-10-20:
+  https://link.springer.com/rwe/10.1007/978-3-319-16999-6_1999-1 , Bosak (2019),
+  definition and introductory preview; and
+  https://journals.sagepub.com/doi/10.1177/0149206305279602 ,
+  Cropanzano and Mitchell (2005), abstract.
+  Search: social exchange theory Cropanzano Mitchell 2005 review.
+- Quote: exact review sentence beginning “Despite its usefulness”; SET expanded
+  in attribution. Both sources explicitly name/define the construct.
+- Limits: no universal cost-benefit reduction of all relationships, moral
+  endorsement of transactional friendship or promise of successful reciprocity.
+  Homans 1958 inherited bibliography retained, not certified.
+- Saturation: fast-track exemption; no reciprocal or new concept.
+- QC: literal quote match, retained subheading and preservation validator before done.
+
 ## Non-dual awareness
 
 - Track: fast-track, current degree 7 (all principles).
