@@ -1,6 +1,6 @@
 {
  "batch": "p1zw",
- "revision": 7,
+ "revision": 8,
  "reciprocal": [
   {
    "into": "Anatta",
@@ -43,6 +43,12 @@
    "link": "K067",
    "why": "listed for comparison: Aristotle's polis as the constitutive community beside K067's Tanabean mediation of the individual through sociopolitical identity.",
    "notes": "Saturation scan 2026-10-20: The polis concept (Politics I.2) does not link K067; both traditions treat community as prior to the individual, Tanabe with a dialectical species-structure and a recorded nationalist lapse plus correction. Social identity theory and the Umuntu ngumuntu ngabantu saying already link K067."
+  },
+  {
+   "into": "Recognise the fundamental attribution error — you blame persons, not situations",
+   "link": "K033",
+   "why": "listed for comparison: the psychology of blaming persons over situations beside the lojong instruction to look for one's own part first.",
+   "notes": "Saturation scan 2026-10-21 (K033 item): CO037 documents the blame-the-person habit (Jones & Harris classic study quoted on its page) but does not link K033; K033 is the practice-side counterpart from the lojong tradition. Locus of control already links K033."
   }
  ]
 }

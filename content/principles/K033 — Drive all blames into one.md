@@ -12,13 +12,24 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 33** — Drive all blames into one
 
-The slogan that sounds harsh and is precise: when something goes wrong, the practice is to look first at one's own participation rather than beginning with the world's failure. This is not self-blame (which is just another fixation); it is the engineering insight that your own conduct is the part of the system you can actually reach. Practically, in any conflict, complete the sentence "my part in this was..." before the sentence about theirs.
+The Seven-Point Mind Training makes this the twelfth slogan, under Point Three:
 
-(Seven-Point Mind Training, Point Three.)
+> "Drive all blames into one." (Chekawa Yeshe Dorje, Seven Points of Mind Training, Point Three, slogan 12)
 
-**Plain words** Drive all blames into one. It sounds harsh and is precise: look at your own part first. This isn't self-blame, which is another fixation. It's engineering. Your own conduct is the part of the system you can reach. In any conflict, finish the sentence "my part in this was..." before the other's.
+Chögyam Trungpa's commentary on it:
 
-*For example:* After an argument with your manager, you write down your three contributions before drafting the email. It's a different email.
+> "Drive all blames into one means that all the problems and the complications that exist around our practice, realization, and understanding are not somebody else's fault. All the blame always starts with ourselves." (Chögyam Trungpa, Training the Mind, in The Collected Works, vol. 2)
+
+Trungpa presents the move as practical rather than penitential: taking the blame yourself is "a much simpler and more direct way of controlling the situation" and "the most direct way of simplifying complicated neuroses into one point", and "if you look for volunteers around you to take the blame, there will be no volunteers other than yourself". The slogan is not a gag order: "This slogan does not mean you should not speak up. If you see something that is obviously destructive to everybody, you should speak out." ([Collected Works vol. 2 PDF](https://terebess.hu/english/coll2.pdf))
+
+**Plain words**
+When something goes wrong, your mind builds a case against everyone involved. The case may even be accurate, and building it changes nothing: the only person in the file whose conduct you can revise is you. Naming your part first is not a guilt verdict, it is picking up the one tool in the room.
+
+For example: After an argument with your manager, you write down your three contributions before drafting the email.
+
+## Sources
+
+- [Chögyam Trungpa, The Collected Works, vol. 2 (includes Training the Mind)](https://terebess.hu/english/coll2.pdf) — slogan 12 commentary; root slogan "Drive all blames into one" is Point Three, slogan 12 of the Seven Points of Mind Training
 
 ## Psychology parallels
 
