@@ -12,11 +12,21 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AT — Attentio
 ---
 > **Principle 45** — Learn to protect attention through environmental design: the environment is stronger than willpower
 
-The most effective way to manage attention is not through willpower but through environmental design. Remove distractions at the source, design spaces for focus, and structure your environment to support the attentional state you want.
+The habit literature gives the principle its mechanism. Wood and Neal's model of the habit-goal interface describes habits as learned associations between responses and the features of the contexts in which they were repeatedly performed: physical settings, preceding actions, particular people. Once a habit is formed, perception of the context triggers the response without a mediating goal. Habit associations accrue slowly and do not shift appreciably with current goal states, which is why resolving harder is the weak lever and re-cuing is the strong one.
 
-**Plain words** Willpower is the worst tool in the attention toolkit; environment is the best. Change what's in reach before you try to change what's in you. Every hour you spend resisting a design is an hour lost to a solvable problem.
+> "Habits emerge from the gradual learning of associations between responses and the features of performance contexts that have historically covaried with them (e.g., physical settings, preceding actions). Once a habit is formed, perception of contexts triggers the associated response without a mediating goal." (Wood & Neal, 2007 — [full text](https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/wood.neal_.2007psychrev_a_new_look_at_habits_and_the_interface_between_habits_and_goals.pdf) — Psychol Rev 114(4), p. 843)
 
-*For example:* The person who "can't focus with the TV on" who keeps trying to focus with the TV on. Move the remote. That's the entire technique.
+The authors spell out the implication themselves, as the problem of the self-regulation of habit cuing: since habits are triggered by stable contexts, deliberate changes to those contexts are the direct intervention.
+
+**Plain words**
+Habits answer to places and objects, not to intentions. The cue fires the response whether or not you meant it, and the association does not care about today's resolution. So the practical move is object-level: move the phone, close the tab, leave the remote in another room. A design decision is made once; a resistance effort is made every time the cue fires.
+
+**For example**
+As an everyday illustration: the person who cannot focus with the TV on, and keeps trying to focus with the TV on. Moving the remote is one decision; resisting the television is a decision renewed every commercial break.
+## Sources
+
+- [Wood & Neal 2007, A new look at habits and the habit-goal interface, Psychological Review 114(4):843-863, author-hosted full text](https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/wood.neal_.2007psychrev_a_new_look_at_habits_and_the_interface_between_habits_and_goals.pdf) — habits as context-cued associations; implications for habit change and the self-regulation of habit cuing.
+
 ## Psychology parallels
 
 - **Environmental design beats willpower**, removing distractors is more effective than resisting them (Ward et al., 2017; Ophir et al., 2009)
