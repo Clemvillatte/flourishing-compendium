@@ -20,3 +20,7 @@ No separate advisor tool available to this session; quotes are checked programma
 ## CO051
 - Beck 1964 Arch Gen Psychiatry 10(6) (archive.org djvu text): 4 quotes grep-verified; pages from running heads (561, 569). Beck Institute 'Coping with Depression' (Judith Beck and Broder, 2024 ed. PDF): definitions and cardinal question verified.
 - Limits: Burns 1980 and Hofmann 2010 (inherited parallels) not opened; no claim about restructuring outcomes made. Example is an invented illustration.
+
+## CO053
+- Bartlett 1932 (archive.org Bartlett_1932_Remembering_djvu.txt): summary paragraph (ch. X s.7), War of the Ghosts original and subject H's 20-hour reproduction (ch. V) verified. Schacter, Guerin, St Jacques 2011 TiCS: PubMed abstract only (authors confirmed from PubMed XML).
+- Limits: example invented/hypothetical ('Say you...'); Nader 2000 reconsolidation (inherited parallel) not opened.
