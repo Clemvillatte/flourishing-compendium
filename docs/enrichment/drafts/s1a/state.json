@@ -227,15 +227,20 @@
    ]
   },
   "s1a-011": {
-   "status": "researching",
+   "status": "drafting",
    "angle": "P136: Addams and the Devil Baby; an unsettling failed bedside visit changes how she understands old women and their stories",
    "history": [
     {
      "t": "2026-10-20T13:52:37+00:00",
      "to": "researching"
+    },
+    {
+     "t": "2026-10-20T13:53:32+00:00",
+     "to": "drafting",
+     "note": "Full autobiographical bedside encounter drafted; primary chapter and scholarly context opened"
     }
    ]
   }
  },
- "updated": "2026-10-20T13:52:37+00:00"
+ "updated": "2026-10-20T13:53:32+00:00"
 }
