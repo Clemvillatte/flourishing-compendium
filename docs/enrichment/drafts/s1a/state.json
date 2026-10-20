@@ -255,7 +255,17 @@
      "note": "Complete Addams narrative, primary and scholarly sources opened, checker green; independent QC requested"
     }
    ]
+  },
+  "s1a-012": {
+   "status": "researching",
+   "angle": "D039: Poincare alternates deliberate work, periods away and verification; apparent rest, not a promise of breakthrough or physical recovery",
+   "history": [
+    {
+     "t": "2026-10-20T13:55:33+00:00",
+     "to": "researching"
+    }
+   ]
   }
  },
- "updated": "2026-10-20T13:54:22+00:00"
+ "updated": "2026-10-20T13:55:33+00:00"
 }
