@@ -12,16 +12,19 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 53** — Work with shame: it is about the self, not the act
 
-Shame is a self-directed emotion ("I am bad"), distinct from guilt ("I did something bad"). Shame is more toxic and more associated with avoidance, hiding, and aggression. Guilt, when proportionate, motivates repair. Shame motivates concealment.
+The shame-guilt distinction the affect-science literature works with is Lewis's: shame involves a negative evaluation of the global self, while guilt involves a negative evaluation of a specific behavior. The two emotions then pull in different directions. Shame corresponds with attempts to deny, hide, or escape the shame-inducing situation; guilt corresponds with reparative actions including confessions, apologies, and undoing the consequences of the behavior. In a review of the moral emotions, Tangney, Stuewig and Mashek also record that proneness to shame is related to a wide variety of psychological symptoms ([Tangney et al., 2007](https://pmc.ncbi.nlm.nih.gov/articles/PMC3083636/)).
 
-**Plain words** Shame is self-directed ("I am bad"); guilt is act-directed ("I did something bad"). Shame is more toxic — associated with hiding, avoidance, aggression. Guilt, when proportionate, motivates repair. Work with shame by shrinking it from self to act.
+> "According to Lewis (1971), shame involves a negative evaluation of the global self; guilt involves a negative evaluation of a specific behavior." (Tangney, J. P., Stuewig, J., & Mashek, D. J. (2007). What's moral about the moral emotions? A social-functionalist account of anger, disgust, contempt, shame, pride, guilt, and compassion. Current Directions in Psychological Science, 16(6), 341-347, [full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC3083636/))
 
-*For example:* The employee who missed the deadline and spends the week in hiding (shame: I am a fraud) versus the one who fixes it by Friday (guilt: the miss was mine, here's the plan). Same error; one repairs, one corrodes.
+**Plain words** Guilt says the deed was bad; shame says you are. The difference matters because a deed can be apologized for, repaired, or put right, while a self can only be hidden. Notice which one you are feeling when you want to withdraw after a mistake: the hiding is shame's signature, and the way out of it is to turn the verdict back into a claim about something you did.
+
+*For example (imagined):* Two employees miss the same deadline. One spends the week dodging the manager's corridor (shame: I am a fraud); the other sends the revision plan by Friday (guilt: the miss was mine). Same error; one hides it, one works on it.
+
 ## Psychology parallels
 
 - **[[Shame|Shame vs guilt distinction]]**, shame is about the global self; guilt is about a specific behaviour (Tangney & Dearing, 2002)
-- **Shame is associated with worse mental health; proportionate guilt motivates repair**, shame predicts depression, anxiety, and avoidance; guilt predicts apology and reparation (Tangney et al., 2007)
-- **[[Self-compassion|Self-compassion]] reduces shame**, treating oneself with kindness reduces shame's toxic effects (Neff, 2011; MacBeth & Gumley, 2012)
+- [Shame corresponds with attempts to deny, hide, or escape; guilt with confession, apology, and undoing consequences; shame proneness relates to psychological symptoms (Tangney et al., 2007)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3083636/)
+- [[Self-compassion|Self-compassion]] — Neff, 2011; MacBeth & Gumley, 2012
 
 ## Philosophy parallels
 
@@ -31,3 +34,7 @@ Shame is a self-directed emotion ("I am bad"), distinct from guilt ("I did somet
 ## Practice
 
 - When you notice shame ("I am bad"), translate it into guilt ("I did something bad"). Ask: "what specifically did I do, and can I repair it?" This is more actionable and less toxic than global self-condemnation.
+
+## Sources
+
+- [Tangney, J. P., Stuewig, J., & Mashek, D. J. (2007). What's moral about the moral emotions? A social-functionalist account of anger, disgust, contempt, shame, pride, guilt, and compassion. Current Directions in Psychological Science, 16(6), 341-347.](https://pmc.ncbi.nlm.nih.gov/articles/PMC3083636/)
