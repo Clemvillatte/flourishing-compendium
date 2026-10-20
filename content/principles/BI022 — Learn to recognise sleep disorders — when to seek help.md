@@ -12,11 +12,23 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BI — Biophysi
 ---
 > **Principle 22** — Learn to recognise sleep disorders: when to seek help
 
-Sleep disorders (insomnia, sleep apnea, restless legs, circadian rhythm disorders) are medical conditions requiring evaluation. Chronic snoring, gasping during sleep, excessive daytime sleepiness, or inability to sleep despite good habits are signs.
+The principle's signs come from the medical sources. The National Heart, Lung, and Blood Institute's sleep apnea page puts the referral trigger plainly: if someone tells you that you snore or gasp for air during sleep, you may want to talk to your healthcare provider, and the same for other symptoms of poor sleep quality such as excessive daytime sleepiness. The public-education primer adds the general rule: see a doctor if you have problems sleeping or if you feel unusually tired during the day; most sleep disorders can be treated effectively.
 
-**Plain words** Chronic snoring, gasping, unrefreshing sleep, day-time fog — these are medical symptoms, not character flaws. Sleep apnea ruins sleep from the inside and is treatable. The partner who elbows you at night is doing triage.
+The insomnia guideline cited on BI015 sets the bar for chronic insomnia: multicomponent cognitive behavioural therapy is the strong recommendation, which presumes a clinical evaluation rather than self-treatment. Sleep apnea has its own treatment line: diagnosis by sleep study, then breathing devices such as CPAP machines, lifestyle changes, or surgery.
 
-*For example:* "I'm just a bad sleeper" — said by someone whose oxygen drops 40 times a night. That's not bad sleeping; that's a blocked airway, and it has a machine. Get evaluated.
+> "If someone tells you that you snore or gasp for air during sleep, you may want to talk to your healthcare provider." (NHLBI, [What Is Sleep Apnea?](https://www.nhlbi.nih.gov/health/sleep-apnea))
+
+**Plain words**
+The principle draws a line between bad nights and medical symptoms. Snoring with gasping, sleepiness that survives good habits, being told you stop breathing: these are the body's own reports, often delivered second-hand by a partner, and they warrant a provider visit rather than another round of tips. The line matters because the treatments exist: apnea has machines and surgery, and chronic insomnia has CBT-I.
+
+*For example:* An imagined case: someone who says they are "just a bad sleeper" learns from their partner that they gasp in their sleep. The NHLBI sentence is addressed to exactly this person: the symptom came second-hand, and the next step is a provider conversation, not a better pillow.
+
+## Sources
+
+- [NHLBI, "What Is Sleep Apnea?"](https://www.nhlbi.nih.gov/health/sleep-apnea) — signs and treatment
+- [NINDS, "Brain Basics: Understanding Sleep"](https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-understanding-sleep) — see-a-doctor rule
+- [Edinger et al., AASM clinical practice guideline, JCSM (2021)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7853203/) — Recommendation 1
+
 ## Psychology parallels
 
 - **Sleep disorders as medical conditions**, insomnia, sleep apnea, and circadian disorders require medical evaluation (Morin et al., 2006; Riemann et al., 2010)
@@ -30,4 +42,4 @@ Sleep disorders (insomnia, sleep apnea, restless legs, circadian rhythm disorder
 
 ## Practice
 
-- If you have persistent sleep problems (chronic insomnia, snoring with gasping, excessive daytime sleepiness), seek medical evaluation. Sleep disorders are treatable, and treating them improves mental health.
+- If you have persistent sleep problems (chronic insomnia, snoring with gasping, excessive daytime sleepiness), seek medical evaluation. Most sleep disorders can be treated effectively.

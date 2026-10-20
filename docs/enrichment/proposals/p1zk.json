@@ -1,6 +1,6 @@
 {
  "batch": "p1zk",
- "revision": 14,
+ "revision": 15,
  "reciprocal": [
   {
    "into": "Sleep deprivation",
@@ -91,6 +91,12 @@
    "link": "BI015",
    "why": "the guideline recommendation that backs one piece of sleep hygiene is stimulus control",
    "notes": "Evidence in sources/p1zk/BI015.md (Edinger 2021 AASM guideline Rec 3, NINDS tips, both opened). Concept already cites BI015."
+  },
+  {
+   "into": "Habit",
+   "link": "BI022",
+   "why": "the see-a-doctor rule distinguishes sleep habits from medical symptoms",
+   "notes": "Evidence in sources/p1zk/BI022.md (NHLBI sleep apnea, NINDS, Edinger 2021, all opened). Concept already cites BI022."
   }
  ],
  "inline": []
