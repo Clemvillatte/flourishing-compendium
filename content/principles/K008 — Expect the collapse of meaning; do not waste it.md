@@ -12,19 +12,17 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 8** — Expect the collapse of meaning; do not waste it
 
-Nishitani's Religion and Nothingness opens with what he calls the nihility of modern life: the ground under meaning can give way, and the projects that made life feel worth living stop answering the question of what any of it is for. The book is not a consolation or a self-help text. It is a diagnosis of the condition in which most people now find themselves at some point, and a proposal for what to do once there.
+Nishitani's Religion and Nothingness opens with what he calls the nihility of modern life: the ground under meaning can give way, and the projects that made life feel worth living stop answering the question of what any of it is for. A summary of the book's first chapter describes crises, including illness and poverty, that bring a person's purpose into question; in that account, familiar projects cease to answer why one lives, and the question of religion becomes a personal concern ([Antilogicalism](https://antilogicalism.com/2016/05/06/religion-nothingness/)).
 
-What he refuses is the reflex to patch over it. In his account, the collapse of meaning is the moment when a person's own projects, taken on their own terms, show their floor to be empty, and that emptiness is not a malfunction in need of a fix.
+> "that abyss is always just underfoot,"
+> "that which renders meaningless the meaning of life"
+> (Religion and Nothingness, trans. Jan Van Bragt, University of California Press, 1982, pp. 3-4; fragments quoted from the opened secondary summary, primary text not independently opened in this session)
 
-> "that abyss is always just underfoot," and that the nihility, "that which renders meaningless the meaning of life," always underlies the projects we create for ourselves (Religion and Nothingness, trans. Jan Van Bragt, University of California Press, 1982, pp. 3-4).
+(Nishitani, Religion and Nothingness, ch. 1; primary text not independently opened — the opening passage was accessed through the cited secondary summary that reproduces Nishitani's wording with page locators.)
 
-Nishitani does not say to stay there indefinitely. He says the nihility is where religion's own question first opens up, and that the way through is to go into the emptiness rather than around it. The practice is a walking-through, not a walking-away.
+**Plain words** Imagine the goals you once cared about no longer seem worth pursuing. Ask what made them matter to you and whether those reasons still hold.
 
-(Nishitani, Religion and Nothingness, ch. 1.)
-
-**Plain words** Nishitani says to expect a moment when the structure of meaning gives way, through grief, betrayal, illness, or just the slow erosion of what you used to believe. What opens is a sense that the ground is empty. Don't rush to patch it. It's a passage, and it may be the beginning of something.
-
-*For example:* After a divorce, the career you built suddenly feels like a stage set. Nothing means what it did. Wise friends let you sit there before offering the next plan.
+*For example:* Imagine that, after a career ends, you are unsure what you want your days to be for. You write down the questions you cannot yet answer.
 
 ## Psychology parallels
 
