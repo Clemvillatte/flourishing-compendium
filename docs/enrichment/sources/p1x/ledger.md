@@ -151,3 +151,9 @@ Core prose (body per QC round-1 replacement text, VI.9 blockquote + IV.21 inline
 **Assertions dropped:** the flat both-directions claim softened per Miller & Ross's own asymmetry verdict (minimal evidence for failure-side self-protection); motivational-distortion reading flagged as their alternative (expectancy/contingency misconstrual).
 **Reciprocal candidates:** none new; Self-serving attribution bias concept already links SE024.
 **QC:** standard checks.
+### SE027 — Practise self-kindness over self-judgment
+**Done:** SE027.
+**Sources opened:** Breines & Chen 2012, abstract, Semantic Scholar, https://www.semanticscholar.org/paper/d80137e87e00ecfe0882d8a8dbeecdf696df59de; Neff 2003 (opened for SE012, same session) for the self-kindness component.
+**Assertions dropped:** none; the "empirically wrong" claim retained but now directly evidenced by the Breines & Chen experiments.
+**Reciprocal candidates:** SE017 (evidence page for the same study; public body). Pending supervisor.
+**QC:** standard checks; validator caught a lost wikilink ([[Self-compassion|self-compassion]]) and it was restored in exact original form.

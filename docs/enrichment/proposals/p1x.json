@@ -59,6 +59,11 @@
       "into": "K162 — Self-compassion practice",
       "link": "SE012 — Understand that the self is not the enemy — self-relation is a skill",
       "why": "K162's exercise rehearses the component swaps SE012 defines; a link connects the definition to the drill."
+    },
+    {
+      "into": "SE017 — Recognise and manage the inner critic — harsh self-talk is not motivation",
+      "link": "SE027 — Practise self-kindness over self-judgment — kindness is more motivating than cruelty",
+      "why": "SE017 presents the evidence against the whip; SE027 states the corresponding practice principle for the same Breines & Chen finding."
     }
   ],
   "inline": [
@@ -68,5 +73,5 @@
       "phrase": "performing one's roles well"
     }
   ],
-  "notes": "SE024: Miller & Ross 1975 and Mezulis et al. 2004 abstracts opened via Semantic Scholar; asymmetry verdict quoted; meta-analytic effect (d=0.96) added; plain words re-derived; For example relabelled Imagine; Sources section added. No new reciprocals: the Self-serving attribution bias concept page already links SE024 in 'In the compendium'."
+  "notes": "SE027: Breines & Chen 2012 abstract opened via Semantic Scholar; mandatory plain-words replicate replaced; For example relabelled Imagine; Sources section added; Neff 2003 listed for the self-kindness component. Note: SE017 (another band, already enriched) quotes the same abstract; reciprocal proposed."
 }
