@@ -47,4 +47,3 @@ Is the three-part scheme more useful than the simple two-part one? Why?
 
 ## Sources
 - Epictetus, Enchiridion 1, tr. George Long — opened and verified (paraphrased in body; the source carries Greek parentheticals in the in-our-power line): https://www.gutenberg.org/cache/epub/10661/pg10661-images.html
-- Removed from the citation line as unverified inherited references (retained here): Disc. I.1, I.12, I.22, I.25

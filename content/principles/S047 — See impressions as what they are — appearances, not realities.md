@@ -48,4 +48,3 @@ How does this principle relate to modern ideas about cognitive distortions?
 
 ## Sources
 - Epictetus, Enchiridion 5 and Discourses II.18 ("How we should struggle against appearances"), tr. George Long — opened and verified verbatim: https://www.gutenberg.org/cache/epub/10661/pg10661-images.html
-- Removed from the citation line as unverified inherited references (retained here): Disc. I.20, III.6, III.12; Med. VI.13, VII.35

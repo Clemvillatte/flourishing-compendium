@@ -1,6 +1,6 @@
 {
  "batch": "p1zb",
- "revision": 4,
+ "revision": 5,
  "records": [
   {
    "action": "reciprocal",
@@ -13,29 +13,29 @@
    "action": "reciprocal",
    "into": "R059",
    "link": "Natural goodness of the unformed human",
-   "why": "The concept page already lists R059 for its Mencian moral-sprouts basis; the principle's philosophy parallels would return the link.",
-   "notes": "Proposed by worker-p1zb-9b3f2e68 during R059 round-4 QC; concept page (opened) links R059; principle currently lacks the return link. [direction corrected round 5: request is to add the concept link into the principle page, whose Related/parallels list lacks it]"
+   "why": "Mencius's four sprouts are his argument that moral goodness is native to the unformed human being; the principle carries the cultivation side of that claim.",
+   "notes": "Proposed by worker-p1zb-9b3f2e68 during R059 round-4 QC; concept page (opened) links R059; principle currently lacks the return link. [direction corrected round 5: request is to add the concept link into the principle page, whose Related/parallels list lacks it] [round 5: why rewritten as public prose; prior why: The concept page already lists R059 for its Mencian moral-sprouts basis; the principle's philosophy parallels would return the link.]"
   },
   {
    "action": "reciprocal",
    "into": "R059",
    "link": "Moral cultivation (xiushen)",
-   "why": "The concept page already lists R059; the sprouts principle is about cultivating beginnings, which is the xiushen idea.",
-   "notes": "Proposed by worker-p1zb-9b3f2e68 during R059 round-4 QC; concept page (opened) links R059; principle currently lacks the return link. [direction corrected round 5: request is to add the concept link into the principle page, whose Related/parallels list lacks it]"
+   "why": "The sprouts are beginnings that grow by practice, which is the moral-cultivation idea applied to Mencius's four sentiments.",
+   "notes": "Proposed by worker-p1zb-9b3f2e68 during R059 round-4 QC; concept page (opened) links R059; principle currently lacks the return link. [direction corrected round 5: request is to add the concept link into the principle page, whose Related/parallels list lacks it] [round 5: why rewritten as public prose; prior why: The concept page already lists R059; the sprouts principle is about cultivating beginnings, which is the xiushen idea.]"
   },
   {
    "action": "reciprocal",
    "into": "R107",
    "link": "Common flourishing",
-   "why": "The concept page already lists R107; the common-good principle's philosophy parallels would return the link.",
-   "notes": "Proposed by worker-p1zb-9b3f2e68 during R107 round-4 QC; concept page (opened) links R107; principle currently lacks the return link. [direction corrected round 5: request is to add the concept link into the principle page, whose Related/parallels list lacks it]"
+   "why": "The common good names the shared conditions that let a community flourish; concept and principle describe the same target from either side.",
+   "notes": "Proposed by worker-p1zb-9b3f2e68 during R107 round-4 QC; concept page (opened) links R107; principle currently lacks the return link. [direction corrected round 5: request is to add the concept link into the principle page, whose Related/parallels list lacks it] [round 5: why rewritten as public prose; prior why: The concept page already lists R107; the common-good principle's philosophy parallels would return the link.]"
   },
   {
    "action": "reciprocal",
    "into": "S077",
    "link": "Acts of kindness (Lyubomirsky)",
-   "why": "The concept page already lists S077; the principle is about practising kindness, and the concept belongs among its psychology parallels.",
-   "notes": "Proposed by worker-p1zb-9b3f2e68 during S077 saturation check; concept page (opened via rg) links S077; principle currently lacks the return link. [direction corrected round 5: request is to add the concept link into the principle page, whose Related/parallels list lacks it]"
+   "why": "The principle's practised kindness to strangers is the everyday activity that kindness-intervention research measures.",
+   "notes": "Proposed by worker-p1zb-9b3f2e68 during S077 saturation check; concept page (opened via rg) links S077; principle currently lacks the return link. [direction corrected round 5: request is to add the concept link into the principle page, whose Related/parallels list lacks it] [round 5: why rewritten as public prose; prior why: The concept page already lists S077; the principle is about practising kindness, and the concept belongs among its psychology parallels.]"
   }
  ]
 }

@@ -461,3 +461,39 @@ never-band-assigned work; p1g state had them flagged-only, absent from p1g's man
 - Proposals direction corrected (revision 4): reciprocal records now request adding the
   concept link INTO the principle page (into: principle, link: concept) for R059 x2, R107,
   S077 — the concept pages already link the principles; the missing edge was the reverse.
+
+## Round 5 follow-up (advisor confirmation round)
+- S013 statement, per advisor: Canonical Med. VI.41/VII.33 remain unverified. Checking
+  similarly numbered sections in ebook 2680 did not establish whether those original
+  references support the claim. They remain removed pending verification.
+- S018/S042 attribution repairs: S018 now framed as Epictetus's exercise throughout
+  ("Epictetus asks readers to regard what they have as entrusted..."; plain words "His
+  exercise asks you to treat..."); S042 taxonomy replaced with the practical question
+  ("ask what needs correcting, and whether the proposed response adds harm simply to make
+  the other person suffer"), "the passage's targets" gloss removed, "the first can be
+  acted on; the second only fed" removed.
+- Sources sections cleaned: "Removed from the citation line..." audit lines deleted from
+  the five pages' Sources sections (the removed inherited references remain recorded in
+  the per-item ledger entries and the round-5 section above). Marcus now cited as
+  "Project Gutenberg ebook 2680" with printed locators, no translator attribution in body
+  or Sources (the catalog-page uncertainty is recorded here only).
+- Proposals revision 5: why clauses rewritten as short public relationship prose; prior
+  audit-style why text moved to notes.
+- Mechanical quote verification (final edited wording vs freshly downloaded raw sources,
+  fragments split at ellipses, whitespace normalised): 15 of 15 verbatim quotations in
+  S018/S042/S047/S053/S077 verified as substrings of the raw source texts. One repair
+  found and applied by this check: S077 "suffice thee" quote had a semicolon where the raw
+  text has a colon ("thou hast done a good turn: doth not that suffice thee?"). Chapter
+  titles cited by name (e.g. "How we should struggle against appearances") are name
+  references rendered in title case, not quotations; the ACT phrase "I notice I'm having
+  the thought that..." is an inherited psychology-parallels label, not a source quotation.
+- SATURATE mention checks (enrich_find.py, core terms): S018 (restored/banquet/inn) —
+  surfaces A014 (Aristotle on giving club dinners), AT033, Attentional control training,
+  Clarity of mind, D023 (DDJ 20 banquet): no unlinked mention of S018's claim warranting
+  a proposal. S042 (retaliation/revenge/pity) — surfaces A102 (Distinguish justice from
+  revenge), A017, A115, Anger examined early: related constructs owned by other bands;
+  S042's parallels already cover anger (Anger management) and justice (Corrective justice);
+  no proposal. S047 (impression/appearance) — concept Clarity of mind cites guarding
+  sense doors/examining impressions: related Buddhist-practice ground, loose fit, no
+  proposal. S053 (control/influence) and S077 (hospitality/kindness/stranger) — no
+  unlinked mentions warranting proposals beyond the Acts of kindness record already filed.
