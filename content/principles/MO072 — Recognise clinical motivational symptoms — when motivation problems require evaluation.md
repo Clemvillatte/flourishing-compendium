@@ -12,11 +12,22 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 ---
 > **Principle 72** — Recognise clinical motivational symptoms: when motivation problems require evaluation
 
-Persistent, impairing motivational problems — inability to initiate, chronic avolition, loss of interest, compulsive pursuit of harmful behaviours — can be symptoms of depression, ADHD, addiction, or other conditions. These warrant professional evaluation.
+The National Institute of Mental Health lists "loss of interest or pleasure in hobbies and activities" and "fatigue, lack of energy, or feeling slowed down" among the common signs of depression. For a diagnosis, "a person must have symptoms most of the day, nearly every day, for at least 2 weeks", and one must be "a depressed mood or a loss of interest or pleasure in most activities". It advises: "If you show signs or symptoms of depression and they persist or do not go away, talk to a health care provider" ([NIMH, Depression](https://www.nimh.nih.gov/health/publications/depression)).
 
-**Plain words** Persistent, impairing motivational problems — can't start anything, not just the hard things, for months — need evaluation. Motivational collapse everywhere is a symptom with a differential diagnosis. Get it looked at.
+Other conditions touch motivation differently. NIMH describes ADHD as including "difficulty paying attention, keeping on task, or staying organized" ([NIMH, ADHD](https://www.nimh.nih.gov/health/topics/attention-deficit-hyperactivity-disorder-adhd)). The National Institute on Drug Abuse defines addiction as "a chronic, relapsing disorder characterized by compulsive drug seeking and use despite adverse consequences" ([NIDA](https://nida.nih.gov/publications/drugs-brains-behavior-science-addiction/drug-misuse-addiction)). I did not open the DSM-5-TR or any source on "avolition" itself, so I do not define it here. A web page is no substitute for an assessment.
 
-*For example:* "I've just been lazy lately" — said by someone who hasn't initiated a single pleasant activity in three months either. Laziness doesn't touch the fun stuff. That's a clinician-shaped problem.
+**Plain words**
+Everyone loses drive sometimes. When it lasts for weeks, reaches into things you normally enjoy, and gets in the way of daily life, stop calling it laziness. Book an appointment and describe it honestly.
+
+**For example**
+For a month you have not started any of your usual evening activities, including the ones you used to look forward to. You tell your doctor exactly that.
+
+## Sources
+
+- [NIMH, Depression](https://www.nimh.nih.gov/health/publications/depression): opened
+- [NIMH, Attention-Deficit/Hyperactivity Disorder](https://www.nimh.nih.gov/health/topics/attention-deficit-hyperactivity-disorder-adhd): opened
+- [NIDA, Drug Misuse and Addiction](https://nida.nih.gov/publications/drugs-brains-behavior-science-addiction/drug-misuse-addiction): opened
+
 ## Psychology parallels
 
 - **Motivational symptoms as clinical indicators**, avolition, anhedonia, and compulsive pursuit are symptoms (APA, 2022)

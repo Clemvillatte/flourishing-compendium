@@ -11,3 +11,7 @@
 ## MO069
 - Markus & Kitayama 1991 (MIT-hosted PDF opened; quote grep-verified); Iyengar & Lepper 1999 JPSP 76:349-366 abstract via PubMed (10101874).
 - Limits: Iyengar & Lepper full text not opened; the sources compare group averages in two studies and do not say 'neither is wrong' - body says no passage judges. Chirkov et al. 2003 / SDT cross-cultural autonomy evidence not opened. Statement's 'collectivist cultures may value duty-based motivation' only partly supported (obligation language from M&K). Example hypothetical.
+
+## MO072
+- NIMH Depression, NIMH ADHD, NIDA Drug Misuse and Addiction pages fetched; 7 quotations verified verbatim.
+- Limits: DSM-5-TR (APA 2022, inherited citation) not opened; no source on 'avolition' opened, body says it is not defined; ADHD page does not link ADHD to initiation problems explicitly (only inattention). Statement's 'chronic avolition' and 'inability to initiate' are therefore only partly supported. Example hypothetical.
