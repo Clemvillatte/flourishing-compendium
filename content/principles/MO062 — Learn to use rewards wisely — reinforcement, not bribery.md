@@ -14,16 +14,16 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 
 Deci, Koestner and Ryan's meta-analysis of 128 experiments found that rewards tied to doing an activity carry a cost:
 
-> Engagement-contingent, completion-contingent, and performance-contingent rewards significantly undermined free-choice intrinsic motivation.
+> As predicted, engagement-contingent, completion-contingent, and performance-contingent rewards significantly undermined free-choice intrinsic motivation (d = -0.40, -0.36, and -0.28, respectively), as did all rewards, all tangible rewards, and all expected rewards.
 
 (Deci, Koestner & Ryan, 1999, Psychological Bulletin 125(6); [PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/10589297/))
 
-In the same review, positive feedback ran the other way: it enhanced both free-choice behavior (d = 0.33) and self-reported interest (d = 0.31). The contrast the principle draws on is the one in the data: rewards that comment on the work behaved differently from tangible rewards paid for the doing.
+The review distinguishes reward categories rather than condemning rewards as a class: positive feedback enhanced both free-choice behavior (d = 0.33) and self-reported interest (d = 0.31), while completion-contingent rewards were among those associated with reduced free-choice intrinsic motivation.
 
 **Plain words**
-In these studies, undermining showed up on a free-choice measure: after the reward, people spent less of their own free time on the activity. Before offering a reward, check which way it points: at something finished, or at the doing itself. A comment on finished work is the cheaper and safer tool; a payment for the doing is the one the data warns about.
+The review found a category difference, not a universal law: on average, rewards contingent on doing the activity went with lower measured intrinsic motivation, while positive feedback went with higher. An average is not a forecast for one person. Before paying for an activity, the honest question is whether payment might change how voluntary the activity feels.
 
-*For example:* Imagine a child paid per drawing. Watch free-time drawing once the payments stop: the free-choice measure from these experiments is what predicts its fall.
+*For example:* Imagine a parent deciding whether to pay a child for drawing. The review's averages give a reason to pause and consider whether payment might change the child's voluntary drawing; they do not predict what this child will do.
 
 ## Sources
 
@@ -42,4 +42,4 @@ In these studies, undermining showed up on a free-choice measure: after the rewa
 
 ## Practice
 
-Before offering a reward, ask what it pays for. Prefer comments on finished work to payments for the doing, and keep the reward off the schedule of any activity you want to survive on its own.
+Before offering a reward, ask what it pays for and what kind it is: a comment on the work, or a payment for the doing. In the reviewed averages these categories went in different directions, so name the category before you rely on it.

@@ -1,6 +1,6 @@
 {
  "batch": "p1zzb",
- "revision": 6,
+ "revision": 7,
  "reciprocal": [
   {
    "into": "Meaning",
@@ -29,20 +29,20 @@
   {
    "into": "Motivation crowding theory",
    "link": "MO062",
-   "why": "A principle on the reward conditions that crowd out or support intrinsic motivation",
-   "notes": "MO062 (2026-10-21, worker-p1zzb-9d251b2e): hub read (Frey/Deci crowding definition); no MO062 occurrence; grounded in the Deci-Koestner-Ryan 1999 PubMed abstract opened this session (undermining sentence quoted verbatim)."
+   "why": "A principle on external rewards and intrinsic motivation in the reviewed studies",
+   "notes": "MO062 (2026-10-21, worker-p1zzb-9d251b2e): hub read (Frey/Deci crowding definition); no MO062 occurrence; grounded in the Deci-Koestner-Ryan 1999 PubMed abstract opened this session (undermining sentence quoted verbatim). | QC milestone repair: blockquote extended to the abstract's full sentence; completion-contingent undermining acknowledged; comment-vs-payment contrast and child-drawing forecast removed."
   },
   {
    "into": "Feedback research",
    "link": "MO062",
-   "why": "A principle noting that positive feedback, unlike payment for doing, enhanced motivation in the reviewed studies",
-   "notes": "MO062 (2026-10-21, worker-p1zzb-9d251b2e): hub read (Kluger and DeNisi timing/framing); no MO062 occurrence; grounded in the Deci-Koestner-Ryan 1999 PubMed abstract opened this session (d = 0.33 / 0.31 feedback effects)."
+   "why": "A principle recording the review's contrast between positive feedback and tangible rewards",
+   "notes": "MO062 (2026-10-21, worker-p1zzb-9d251b2e): hub read (Kluger and DeNisi timing/framing); no MO062 occurrence; grounded in the Deci-Koestner-Ryan 1999 PubMed abstract opened this session (d = 0.33 / 0.31 feedback effects). | QC milestone repair: blockquote extended to the abstract's full sentence; completion-contingent undermining acknowledged; comment-vs-payment contrast and child-drawing forecast removed."
   },
   {
    "into": "Autonomous versus controlled motivation",
    "link": "MO062",
-   "why": "A principle on how reward contingencies move motivation toward the controlled side",
-   "notes": "MO062 (2026-10-21, worker-p1zzb-9d251b2e): hub inspected; no MO062 occurrence; clause kept descriptive of MO062's own sourced content."
+   "why": "A principle on how reward categories related to intrinsic motivation in the reviewed studies",
+   "notes": "MO062 (2026-10-21, worker-p1zzb-9d251b2e): hub inspected; no MO062 occurrence; clause kept descriptive of MO062's own sourced content. | QC milestone: why clause neutralised (no controlled-side framing; the opened abstract does not use it). | QC milestone repair: blockquote extended to the abstract's full sentence; completion-contingent undermining acknowledged; comment-vs-payment contrast and child-drawing forecast removed."
   },
   {
    "into": "Neurodiversity",
