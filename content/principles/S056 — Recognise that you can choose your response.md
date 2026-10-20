@@ -12,13 +12,23 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 178** — Recognise that you can choose your response
 
-Between stimulus and response, there is a space. In that space lies your freedom. The Stoic trains to widen that space, to use it, to choose the response that aligns with virtue. This is the core of Stoic practice.
+The Enchiridion opens with the training's foundation: some things are in our control and others are not, and in our control are opinion, pursuit, desire, aversion, in general whatever are our own actions. The chapter then gives the practice that trains the choice: say to every harsh appearance that it is an appearance, then examine it, first and chiefly by whether it concerns what is in our control.
 
-(Disc. I.1, I.4, I.6, I.18, III.2; Ench. 1; Med. VI.6, VII.16, VIII.47.)
+> Some things are in our control, and others are not. Things in our control are opinion, pursuit, desire, aversion, and in general, whatever are our own actions.
+> (Epictetus, Enchiridion 1)
 
-**Plain words** Between stimulus and response there's a space, and that's where your freedom is. Stoic training widens it, uses it, and picks the response that fits virtue.
+> Work therefore to be able to say to every harsh appearance, "You are but an appearance, and not absolutely the thing you appear to be."
+> (Epictetus, Enchiridion 1)
+
+The compendium's application: the gap the training works on is the moment between an appearance and assent to it. A driver cuts in front of you; the appearance arrives with its interpretation already attached, and the practice is the examination before the horn. The reflections below press honestly on whether the gap is as open as it feels, and on how trauma narrows it.
+
+**Plain words** Epictetus's list puts opinion, pursuit, desire and aversion on your side of the line, and body, property, reputation and office on the other. The training is one move, practised on every harsh appearance: name it as an appearance first, then check which side of the line it belongs to before acting on it. What you do next is the part on your side of the line.
 
 *For example:* Someone cuts in front of you. You feel the rise and in the gap choose a deep breath instead of a horn.
+
+## Sources
+
+- [Epictetus, Enchiridion 1 (hosted full text, University of Texas at Austin; Long's wording)](https://web.ma.utexas.edu/users/vandyke/notes/enchiridion/enchiridion.pdf)
 
 ## Psychology parallels
 
