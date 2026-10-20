@@ -21,7 +21,8 @@
   "Restorative justice",
   "Shared reality",
   "Recognising limits",
-  "Perceived partner responsiveness"
+  "Perceived partner responsiveness",
+  "Pleasant activities scheduling (Lewinsohn)"
  ],
  "in_progress": null,
  "flagged": {
@@ -32,6 +33,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:18:23+00:00",
+ "updated": "2026-10-20T11:19:12+00:00",
  "band_done": false
 }
