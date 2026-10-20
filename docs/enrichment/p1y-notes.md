@@ -47,3 +47,14 @@ review. No w1i content/state changed after release.
   failed). D184 reciprocal proposal withdrawn (advisor: needs
   primary-source comparison, not asserted from wiki text).
 - Next: SP032 (manifest order).
+
+## Milestone record, 2026-10-20 (worker-p1y-6d4f2a91)
+
+- Tenth-item milestone (A008): advisor QC failed rounds; repairs applied
+  to A008, SP032, SP035, SP048, SP092 (source-scope overreach, citation
+  completeness, ledger currency). Final corrections applied per advisor
+  exact text; ledgers rewritten with Current summary first. Advisor
+  accepted the milestone without another cycle. Full validation 0 failed
+  on all 13 done items; preservation regions byte-identical; pages,
+  ledgers and state verified against origin/main.
+- Continue: A027 next (manifest order).
