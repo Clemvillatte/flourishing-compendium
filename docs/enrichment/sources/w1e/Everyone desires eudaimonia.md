@@ -1,8 +1,7 @@
+# Everyone desires eudaimonia (w1e, fast-track)
 
-## Post-done repair (same session)
+- worker-p1zz-b81e3f52. Fast-track bar (degree under 15). Self-QC only, no advisor tool in this session; every displayed quote was checked programmatically or by reading against the opened text.
 
-The first push of this page FAILED validation ("original wikilink markup changed
-or removed"): the rewrite dropped the seed line's piped wikilink
-[[Eudaimonia|eudaimonia]] from the opening sentence. Restored immediately;
-re-validation now passes (the earlier chain continued past the FAIL because the
-validator returned a zero exit code; the repair is recorded here and re-pushed).
+## Sources opened and notes
+
+QC of a page already enriched on arrival: fixed locator (I.4 -> I.7, 1097a-b), added the I.4 agreement quote (checked verbatim), added related concepts (1 -> 5).
