@@ -1,6 +1,6 @@
 {
  "batch": "p1zy",
- "revision": 6,
+ "revision": 7,
  "reciprocal": [
   {
    "into": "Samskara",
@@ -31,6 +31,12 @@
    "link": "Y064",
    "why": "the Yoga chain begins where Snyder's theory begins: an approval of the practice that fuels goal-directed energy and holds the goal in memory",
    "notes": "Hope concept page (opened this session) carries a detailed sourced Snyder section with agency as goal-directed energy; it does not cite Y064."
+  },
+  {
+   "into": "Habit formation",
+   "link": "Y070",
+   "why": "the three conditions of sutra 1.14, a long time, without interruption, with earnest attention, are the Yoga-Vedanta form of this page's consistency finding",
+   "notes": "Habit formation concept page does not cite Y070 (checked this session); grounded in Y070's verified Woods quotes and the target's own Lally-based content."
   }
  ],
  "inline": [],
