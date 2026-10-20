@@ -12,13 +12,29 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 51** — Know the masculine, keep to the feminine
 
-Be capable of assertion, strength, and advance: but dwell in receptivity, patience, and yield. The functional pole of your character should be the quiet one.
+Chapter 28 of the Daodejing states its pattern three times: know the active strength, keep to the corresponding quiet side. The first stanza pairs knowing "his manhood's strength" with maintaining "his female feebleness". The one who does this becomes the channel into which "all beneath the sky" drains, and keeps the constant excellence, "the simple child again, free from all stains."
+
+> Who knows his manhood's strength,
+>   Yet still his female feebleness maintains;
+> As to one channel flow the many drains,
+>   All come to him, yea, all beneath the sky.
+> Thus he the constant excellence retains;
+>   The simple child again, free from all stains.
+>
+> (Daodejing 28, Legge)
+
+The chapter's second half says what the knowing is for. The sage, like the unworked material divided into vessels, "in his greatest regulations he employs no violent measures". Strength is held as capacity rather than display; the yield is chosen, not forced by weakness.
 
 (DDJ 28.)
 
-**Plain words** Be fully capable of assertion, strength, and advance — but dwell in receptivity, patience, and yield. The functional pole of your character should be the quiet one. You keep the sword sharp without living by it.
+**Plain words**
+You can be the strongest person in the room and still choose not to lead with it. The chapter's test is whether the strength stays available without being shown: know what you could do, then watch what the situation does when you do less. The one who can push but asks instead gets told things the pusher never hears.
 
 *For example:* The negotiator who can dominate the room but chooses to listen first usually ends up with more than the dominator.
+
+## Sources
+
+- [The Tao Teh King, Legge translation (Project Gutenberg)](https://www.gutenberg.org/cache/epub/216/pg216.txt) — chapter 28
 
 ## Psychology parallels
 
