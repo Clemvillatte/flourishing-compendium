@@ -32,7 +32,8 @@
   "Ideal affect theory Tsai",
   "Idle talk (Gerede)",
   "Integrative complexity",
-  "Interoception"
+  "Interoception",
+  "Introspection illusion"
  ],
  "in_progress": null,
  "flagged": {
@@ -50,7 +51,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 19,
- "updated": "2026-10-20T11:42:48+00:00",
+ "updated": "2026-10-20T11:43:18+00:00",
  "band_done": false,
  "new_concepts": [
   {

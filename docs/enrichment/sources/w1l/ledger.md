@@ -760,3 +760,11 @@ convention).
 - No In-the-compendium block (fast-track bar; Related concepts and Cited-in preserved).
 - Saturation: fast-track exemption; no reciprocal proposed (both Related targets already link back per the neighbor census).
 - QC: validator ok at fast-track profile; no advisor QC (item 13; next at item 15).
+
+## Introspection illusion (fast-track, genuineflourishing01, 2026-10-20)
+- Degree 5 at selection (principles CO077/SE009/B077/D166/P136) — fast-track eligible per §1a.
+- Sources opened: (1) PubMed 15250784 (Pronin, Gilovich & Ross 2004, Psych Rev 111(3):781-799), UNPROMPTED — blockquote verified character-for-character from the abstract; naive-realism framing grounded. (2) Pronin & Kugler 2007, JESP 43:565-578, PDF (privacycasebook.com copy of the published article), prompt-null fetch — abstract findings grounded: introspective-vs-behavioral weighting asymmetry, blind-spot persistence with observer access to the actor's introspections, the should-rely norm, and the nonconscious-processes education result.
+- First names (Emily Pronin, Thomas Gilovich, Lee Ross, Matthew Kugler) grounded in the fetched records (PubMed authors list; PDF byline).
+- No In-the-compendium block (fast-track bar; Cited-in lists preserved).
+- Saturation: fast-track exemption; no reciprocal proposed.
+- QC: validator ok at fast-track profile; no advisor QC (item 14; next at item 15).
