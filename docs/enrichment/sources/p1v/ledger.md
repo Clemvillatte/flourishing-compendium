@@ -307,3 +307,25 @@ opened text at the recorded URL.
   dropped: Schiller was not opened this session. Inherited psychology
   parallel (Proyer 2011) and philosophy parallels (Schiller play drive; Art
   as experience) preserved untouched and NOT verified this session.
+
+## P098 — Know memory as living reconstruction (2026-10-20)
+
+- OPENED: Henri Bergson, Matter and Memory (1911 translation by Nancy
+  Margaret Paul and W. Scott Palmer), Wikisource,
+  https://en.wikisource.org/wiki/Matter_and_Memory/Chapter_3 — chapter 3
+  (raw HTML fetched; page-number markers parsed from the pagenum templates
+  to locate printed pages).
+- Verified verbatim: both blockquotes ("Of my past, that alone becomes
+  image..."; "Your perception, however instantaneous..."), exact to the
+  Wikisource text. Notes: (1) in the source, "Practically we perceive only
+  the past" is italicised (emphasis not reproduced in the blockquote); (2)
+  the first quote straddles a printed page break (starts p. 180, continues
+  p. 181, per page-start markers), cited as pp. 180-181; the second is
+  wholly on p. 194. The seed's date line "(Bergson, Matter and Memory,
+  1896.)" replaced with a chapter locator (the opened edition is the 1911
+  translation).
+- The grievance-rework framing is labelled as the compendium's adaptation;
+  Bergson's own claims (image as present state; perception already memory)
+  are quoted directly. Inherited psychology parallel (Schiller et al. 2010,
+  reconsolidation) and philosophy parallels (Matter and memory; Dewey, The
+  past as resource) preserved untouched and NOT verified this session.

@@ -12,13 +12,22 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 98** — Know memory as living reconstruction
 
-Memory is not a recording retrieved; it is the past alive in the present, re-formed each time it is used. Don't treat remembered grievances as archives: treat them as current reconstructions you can rework.
+Bergson distinguishes pure memory from the images it lends to the present. A memory becomes an image only when it can collaborate with present action, and the image itself is a present state. (Bergson, Matter and Memory, chapter 3.)
 
-(Bergson, Matter and Memory, 1896.)
+> "Of my past, that alone becomes image and consequently sensation, at least nascent, which can collaborate in that action, insert itself in that attitude, in a word make itself useful; but from the moment that it becomes image, the past leaves the state of pure memory and coincides with a certain part of my present." (Bergson, Matter and Memory, ch. 3, printed pp. 180-181, [Wikisource](https://en.wikisource.org/wiki/Matter_and_Memory/Chapter_3))
 
-**Plain words** Memory is not a recording retrieved — it's the past alive in the present, re-formed each time it's used. Don't treat remembered grievances as archives: treat them as current reconstructions you can rework. Every retelling is a re-cut, and you're the editor.
+> "Your perception, however instantaneous, consists then in an incalculable multitude of remembered elements; and in truth every perception is already memory. Practically we perceive only the past, the pure present being the invisible progress of the past gnawing into the future." (Bergson, Matter and Memory, ch. 3, printed p. 194, [Wikisource](https://en.wikisource.org/wiki/Matter_and_Memory/Chapter_3))
 
-*For example:* The childhood story told at every Christmas — notice how it changes slightly with the audience. That's not decoration; that's memory showing its actual nature. It's a draft, not a file.
+The compendium's adaptation for remembered grievances: on Bergson's account the returning image is a present construction built from the past for present use, so treat each retelling as something currently assembled, with room to assemble it differently.
+
+**Plain words**
+What comes back when you remember is built now, for now. When an old grievance returns, ask what today's version is doing for you.
+
+*For example:* Imagine a story you retell about a failed friendship. Next time you tell it, notice which details today's telling keeps and which it drops.
+
+## Sources
+
+- [Matter and Memory, Henri Bergson (1911 translation by Nancy Margaret Paul and W. Scott Palmer), Wikisource](https://en.wikisource.org/wiki/Matter_and_Memory/Chapter_3) — chapter 3
 
 ## Psychology parallels
 
