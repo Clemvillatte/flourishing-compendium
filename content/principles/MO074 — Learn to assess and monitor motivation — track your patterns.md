@@ -21,7 +21,7 @@ Socrates supplies the older slogan: "the life which is unexamined is not worth l
 
 **Plain words** Record how motivated you feel alongside the task and time of day. When reviewing the notes, look for differences worth testing. Try one adjustment and keep observing; a pattern alone does not explain its cause.
 
-*For example:* Imagine someone who has always called herself a morning person keeps the log for two weeks and finds her ratings cluster between ten and noon. The identity was not wrong so much as vague; the log gives it hours.
+*For example:* Imagine a student logs motivation before morning and midday study sessions. After two weeks, she compares the notes and chooses one schedule change to test.
 
 ## Sources
 
@@ -34,9 +34,8 @@ Socrates supplies the older slogan: "the life which is unexamined is not worth l
 
 ## Philosophy parallels
 
-- **[[The examined life|The examined life requires data]]** (Socrates, Apology)
-- **Know thyself through tracking** (Delphic maxim)
-- **[[Fallibilism|Fallibilism and feedback]]** (Peirce)
+- **[[The examined life|The examined life requires data]]** (Socrates, Apology 38a; the data-and-tracking phrasing is the compendium's comparison, not Socrates')
+- **[[Fallibilism|Fallibilism and feedback]]**
 
 ## Practice
 

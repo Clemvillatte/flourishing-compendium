@@ -17,7 +17,7 @@ Motivation science treats a habit as an action triggered automatically by contex
 > Once initiation of the action is 'transferred' to external cues, dependence on conscious attention or motivational processes is reduced.
 > (Gardner, Lally and Wardle 2012, Br J Gen Pract)
 
-The transfer is what makes habits the durable base. Motivation and attention wane, whereas habits are likely to persist even after conscious motivation or interest dissipates. Lally's real-world study tracked 96 volunteers performing a chosen daily behaviour in the same context for 12 weeks: automaticity rose along an asymptotic curve, and in that study the time to reach 95 per cent of an individual's automaticity asymptote ranged from 18 to 254 days, with the plateau described as arriving on average around 66 days. Aristotle gives the older version of the point: moral virtue comes about as a result of habit. The compendium's application: spend motivation on building the habit, a fixed cue in a fixed place, and let the cue carry more of the behaviour when the feeling fades.
+Lally and colleagues followed 96 volunteers for 12 weeks as they performed a chosen daily behaviour in the same context. Their fitted models estimated 18 to 254 days to reach 95 per cent of an individual's automaticity asymptote. Aristotle gives the older version of the point: moral virtue comes about as a result of habit. The compendium's application: spend motivation on building the habit, a fixed cue in a fixed place, and let the cue carry more of the behaviour when the feeling fades.
 
 **Plain words** Motivation is a poor engine for anything you need to do often; it is strong on some days and absent on others. A habit moves the behaviour onto something steadier, a cue in your day that asks for it the way bedtime asks for toothbrushing. Repeating the action in a consistent context can make its initiation depend less on a fresh decision each time.
 
@@ -25,7 +25,7 @@ The transfer is what makes habits the durable base. Motivation and attention wan
 
 ## Sources
 
-- [Gardner, Lally and Wardle, Making health habitual: the psychology of 'habit-formation' and general practice, Br J Gen Pract 62(605), December 2012](https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/) — habit definition, cue transfer, 66-day plateau
+- [Gardner, Lally and Wardle, Making health habitual: the psychology of 'habit-formation' and general practice, Br J Gen Pract 62(605), December 2012](https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/) — habit definition, cue transfer
 - [Lally, van Jaarsveld, Potts and Wardle, How are habits formed, Eur J Soc Psychol 2010](https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.674) — 96 volunteers, 12 weeks, range 18-254 days
 - [Wood and Neal, A new look at habits and the habit-goal interface, Psychological Review 2007](https://eric.ed.gov/?id=EJ776723) — 114, 843-863
 - [Aristotle, Nicomachean Ethics II.1 (Ross, MIT Classics)](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html) — "moral virtue comes about as a result of habit"
@@ -33,7 +33,7 @@ The transfer is what makes habits the durable base. Motivation and attention wan
 ## Psychology parallels
 
 - **[[Habit formation|Habit formation (Lally et al.)]]**, habit formation can reduce dependence on conscious attention and motivational processes (Gardner et al., 2012)
-- **Habit automaticity was modelled in the Lally study as an asymptotic curve**, with the time to 95 per cent of an individual's asymptote ranging from 18 to 254 days (Lally et al., 2010; Gardner et al., 2012)
+- **Habit automaticity was modelled in the Lally study as an asymptotic curve**, with fitted estimates of 18 to 254 days to reach 95 per cent of an individual's asymptote (Lally et al., 2010)
 
 ## Philosophy parallels
 
@@ -42,4 +42,4 @@ The transfer is what makes habits the durable base. Motivation and attention wan
 
 ## Practice
 
-- Build habits for desired behaviours: repeat in a consistent context until automatic. Do not rely on motivation; rely on habit.
+- Practise a desired behaviour in a consistent context and observe whether starting it becomes more automatic.
