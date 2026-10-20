@@ -8,9 +8,9 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC",
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
 
-habits form when behaviour is repeated in consistent context (Lally et al., 2010; Gardner, 2015).
+[Lally and colleagues (2010)](https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674) studied habit formation through daily repetition of a behaviour in the same context.
 
-Context-dependent repetition is the practice at the centre of Lally and colleagues' 2010 habit-formation study. The researchers asked 96 volunteers to choose an eating, drinking or activity behaviour to carry out daily in the same context, for example after breakfast, over a 12-week observation period, and tracked automaticity day by day. The abstract's conclusion:
+Context-dependent repetition is the practice at the centre of that study. The researchers asked 96 volunteers to choose an eating, drinking or activity behaviour to carry out daily in the same context, for example after breakfast, over a 12-week observation period, and tracked automaticity day by day. The abstract's conclusion:
 
 > With repetition of a behaviour in a consistent context, automaticity increases following an asymptotic curve which can be modelled at the individual level. — Lally et al., 2010, *Eur J Soc Psychol* 40(6):998–1009, [Wiley abstract (opened)](https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674)
 
