@@ -12,11 +12,26 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 ---
 > **Principle 73** — Learn motivational interviewing: helping others (and yourself) change
 
-Motivational interviewing (MI) is an evidence-based approach to facilitating behaviour change. Its core skills (open questions, affirmations, reflective listening, summarising — OARS) and its spirit (collaboration, evocation, autonomy) can be applied to self and others.
+Miller and Rollnick's book gives the method two definitions in its glossary:
 
-**Plain words** Motivational interviewing: instead of arguing someone into change, you ask questions until they argue themselves into it. The client's own reasons, in their own words, move them. Works on teenagers, partners, and your own stubborn self.
+> A person-centered counseling style for addressing the common problem of ambivalence about change. (Miller & Rollnick, 2013)
 
-*For example:* "Why would you want to quit?" works better than "you should quit" — the first makes the person generate the reasons, and self-generated reasons have root systems. The lecture's reasons are rented.
+> A collaborative, goal-oriented style of communication with particular attention to the language of change, designed to strengthen personal motivation for and commitment to a specific goal by eliciting and exploring the person's own reasons for change within an atmosphere of acceptance and compassion. (Miller & Rollnick, 2013)
+
+The core skills chapter names the four skills the principle can be practised with:
+
+> ... the mnemonic acronym OARS: asking Open questions, Affirming, Reflecting, and Summarizing. (Miller & Rollnick, 2013)
+
+(Miller & Rollnick, 2013, Motivational Interviewing: Helping People Change, 3rd ed.)
+
+**Plain words**
+The method is for the situation where someone (including yourself) sees reasons to change and reasons not to. Instead of supplying the reasons, you ask questions that let the person voice their own. The four skills to practise: open questions, affirming, reflecting, summarizing.
+
+*For example:* Suppose you want a friend to quit smoking. Instead of "you should quit," try an open question: "What would be different for you if you quit?" Then reflect the answer back in your own words.
+
+## Sources
+
+- [Miller & Rollnick, Motivational Interviewing: Helping People Change, 3rd ed. (2013), PDF](https://ia801005.us.archive.org/35/items/NelsonTratadoDePediatria/Motivational%20Interviewing.pdf) — clinical and technical definitions (glossary); the OARS skills passage (ch. 6)
 ## Psychology parallels
 
 - **[[Motivational interviewing|Motivational interviewing (Miller & Rollnick)]]**, collaborative, goal-oriented communication style (Miller & Rollnick, 2013)
