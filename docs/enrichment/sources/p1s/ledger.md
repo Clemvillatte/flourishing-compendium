@@ -73,3 +73,20 @@ source; anything not opened is recorded as inherited and unverified.
   DDJ 24 passage — its body quotes the tiptoe lines; natural sibling principle.
   Reciprocal D103 <-> D101 added to proposals. Materialism concept already the
   linked psychology target.
+
+### D106 — Live at your own scale (2026-10-20)
+- Opened: Legge Zhuangzi ch. 1 (ETH PDF). Quail-speech blockquote verified
+  verbatim programmatically against the extracted text; boat/water paraphrase
+  anchors ("will not have strength to support a large boat", "stick fast")
+  verified the same way.
+- REMOVED: seed body's "the quail laughs: wrongly" and "the Peng's journey
+  would kill the quail" — neither is in the opened text (the text's comment is
+  "This shows the difference between the small and the great"). Replaced with
+  the both-ways reading, labelled as the compendium's. "Zhuangzi 2" locator
+  dropped (the opened passages are all ch. 1).
+- Inherited parallels (Festinger 1954, Marsh 1987, Nietzsche, Mill): unopened,
+  kept as bare attributions; Festinger claim tail trimmed per the D025 standard.
+- Saturation: D079 (Laugh at your own... no — D079 is the small/large
+  laughing-at-Peng principle from p1q) quotes the same Peng passage; reciprocal
+  D106 <-> D079 added to proposals. Social comparison, The big-fish-little-pond
+  effect and Individuality already cite D106.

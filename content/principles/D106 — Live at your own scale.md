@@ -12,17 +12,24 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 106** — Live at your own scale
 
-The quail laughs at the giant Peng bird: wrongly, but the point stands: the Peng's journey would kill the quail. Don't run another creature's race.
+Zhuangzi opens with the kun fish that becomes the Peng, a bird whose wings are like clouds around the sky and which mounts ninety thousand li to fly south. A cicada and a little dove laugh at it, and later a quail by a marsh laughs too: it springs up, comes down after a few fathoms, flies about among the brushwood, and calls that the perfection of flying. Zhuangzi's comment on the quail is not that it is wrong; it is that the two creatures are not comparable. The water must be great to float a large boat, and a cup of spilled water will float a straw but stick a cup fast. (Zhuangzi 1.)
 
-(Zhuangzi 1, 2.)
+> "I spring up with a bound, and come down again when I have reached but a few fathoms, and then fly about among the brushwood and bushes; and this is the perfection of flying. Where is that creature going to?" (Zhuangzi 1, [Legge](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
 
-**Plain words** The quail laughs at the giant Peng bird — wrongly, but the point stands: the Peng's journey would kill the quail. Don't run another creature's race. Ambition that isn't yours doesn't just fail; it exhausts you on the way to failing.
+The compendium's reading cuts both ways. The Peng's ninety-thousand-li flight is not the quail's failure, and the quail's hedge is the perfection of flying for a quail. Measured against a creature built to another scale, both readings come out wrong.
 
-*For example:* Some people are built for startups and some for deep thirty-year institutions — swapping their jobs wrecks both, and neither is lesser.
+**Plain words**
+Before borrowing someone else's plan for their life, ask whether the two of you are built to the same scale. A routine that fuels one person drains another, and neither result says anything about worth. Check whether the plan runs on your actual body, budget and hours, or on theirs.
+
+*For example:* Imagine two friends who swap jobs for a year, the startup founder inside a thirty-year institution and the institutional researcher inside the startup. Both are competent; the scales are different.
+
+## Sources
+
+- [The Writings of Kwang-zu, James Legge translation, ETH Zurich](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — Inner Chapter 1 (Peng, cicada and dove, quail; water and boat analogy)
 
 ## Psychology parallels
 
-- **[[Social comparison|Social comparison theory]]**, comparisons to dissimilar standards distort self-evaluation (Festinger, 1954)
+- **[[Social comparison|Social comparison theory]]** (Festinger, 1954)
 - **[[The big-fish-little-pond effect|The big-fish-little-pond effect]]** (Marsh, 1987)
 
 ## Philosophy parallels
