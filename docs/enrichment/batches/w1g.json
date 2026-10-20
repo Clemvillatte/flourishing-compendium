@@ -58,7 +58,7 @@
   "Weekly-review implementation intentions",
   "Work engagement"
  ],
- "in_progress": null,
+ "in_progress": "Workability",
  "flagged": {
   "Spontaneous right action": "title pending supervisor disposition: compendium heading, not the tradition's term (zhixing heyi); flagged in concept-namespace-audit.md worker flags",
   "The natural rhythm of warmth and cool": "title pending supervisor disposition: compendium heading over a real Zhuangzi ch.6 image; flagged in audit worker flags",
@@ -111,6 +111,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 24,
- "updated": "2026-10-20T08:54:47+00:00",
+ "updated": "2026-10-20T11:23:41+00:00",
  "band_done": false
 }
