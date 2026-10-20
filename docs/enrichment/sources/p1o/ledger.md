@@ -278,3 +278,20 @@
 - Note: the advisor treats applied repairs as pending a further review
   (an applied repair is not an affirmative acceptance); items 6-10 to be
   re-reviewed at the item-15 milestone. All five files validate ok.
+
+### P103 — Accept restlessness: it is the human condition (2026-10-20, worker-p1o-6ae3d782)
+- Opened: James, The Varieties of Religious Experience (1902), Gutenberg
+  #621 plain text (the /files/621-h.htm HTML path 404s; cache/epub/621/
+  pg621.txt works and is the cited link); downloaded and grepped locally.
+  Quotes verbatim from Lecture VIII: Starbuck adolescence passage ('normal
+  phase of adolescence in every class of human beings'; symptoms list;
+  'happy relief and objectivity... wider outlook'), 'remedying inner
+  incompleteness... general psychological process', 'present incompleteness
+  or wrongness' / 'the positive ideal which he longs to compass'.
+- Seed statement + locator removed (precedent; Nooteboom 2025 unopened and
+  dropped from the page; its parallel label reduced to bare wikilink).
+  Plain words re-derived (seed 'engine spec' aphorism staging dropped); For
+  example kept on the seed's eleven-day-retirement scenario, read through
+  James's faculties-adjusting framing. Westgate & Wilson 2018 and Cacioppo
+  & Petty 1982 parallel tails reduced to bare wikilinks (unopened); James
+  VRE attribution kept (opened this session). Validator ok before done.
