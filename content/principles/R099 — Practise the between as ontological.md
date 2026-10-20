@@ -12,13 +12,26 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 361** — Practise the between as ontological
 
-Recognise that the Between — the space of relation between persons — is not a psychological construct but an ontological reality. It is the primary dimension of human existence. Do not locate meaning inside the individual subject; locate it in the Between, in the shared space of genuine encounter.
+> In the beginning is relation—as category of being, readiness, grasping form, mould for the soul; it is the a priori of relation, the inborn Thou.
 
-(Buber, 1965, The Knowledge of Man; Buber, 1923/1970, I and Thou; Marcel, 1951a, Being and Having.)
+(Buber, I and Thou, trans. Ronald Gregor Smith, 1937; first part, as shown in a [scan of the translation at archive.org](https://dn790007.ca.archive.org/0/items/IAndThou_572/BuberMartin-i-and-thou_text.pdf). A 1958 edition page number of 27 for this sentence is given by [a journal article citing it](https://utppublishing.com/doi/pdf/10.3138/uram.17.1.33).)
 
-**Plain words** The Between — the space of relation between persons — isn't a psychological construct; it's the primary dimension of human existence. So don't locate meaning inside individual heads. Meaning lives in the shared space; tend it there.
+Maurice Friedman's study summarises the second step in his own words, not Buber's: "when two individuals 'happen' to each other, then there is an essential remainder which is common to them, but which reaches out beyond the special sphere of each. That remainder is the basic reality, the 'sphere of between'," and "the psychological, that which happens within the souls of each, is only the secret accompaniment to the dialogue" ([Friedman, Martin Buber: The Life of Dialogue, ch. 14](https://www.religion-online.org/book-chapter/chapter-14-the-life-of-dialogue/)). The quoted fragments there are attributed to Buber's essays "What Is Man?" and "Elements of the Interhuman." Those essays were not opened directly.
 
-*For example:* A friendship's "thing" — the running joke, the saved seat, the phrase only they use — no one owns it, both are made by it, and it's the most real thing either has.
+So the textual basis for calling the between ontological is real: Buber places relation at the start and treats the psychological as secondary. The compendium's instruction not to "locate meaning inside the individual subject" is a stronger and more practical statement than the passages above, which describe how Buber analyses human existence and do not issue a rule. The Stanford Encyclopedia also stresses that Buber does not treat relation apart from distance, a point the entry omits ([SEP, section 7](https://plato.stanford.edu/entries/buber/)).
+
+The psychology parallel, Gergen's relational self (2009), and Marcel's Being and Having were not opened.
+
+**Plain words** For Buber, relation comes first, and the individual self takes shape within it. What passes between two people is not just a private feeling in each head. The compendium turns that into a practice of attending to the relation itself, which is its reading of him.
+
+*For example (imagined):* A friendship has a running joke, a saved seat, a phrase only the two of them use. None of it belongs to one person alone.
+
+## Sources
+
+- Buber, I and Thou, trans. R. G. Smith — sentence read in the [archive.org scan](https://dn790007.ca.archive.org/0/items/IAndThou_572/BuberMartin-i-and-thou_text.pdf) (search excerpt); page 27 of the 1958 ed. per [Uram article](https://utppublishing.com/doi/pdf/10.3138/uram.17.1.33)
+- [Friedman, Martin Buber: The Life of Dialogue, ch. 14](https://www.religion-online.org/book-chapter/chapter-14-the-life-of-dialogue/) — page opened via search excerpt (secondary)
+- [Stanford Encyclopedia of Philosophy, "Martin Buber"](https://plato.stanford.edu/entries/buber/) — section 7 excerpt opened
+
 ## Psychology parallels
 
 - **[[The relational self|Relational self]]** (Gergen, 2009)

@@ -9,3 +9,8 @@
 - Source opened: UT course dossier reproducing Lingis trans. of Otherwise than Being ch. IV with page numbers (pp. 100-102, 114, 118); quotes verified verbatim against the fetched page. Second-hand compilation, original book not read in full.
 - Flags: "let it ground your selfhood" and the eldest-child example are compendium gloss; Batson 2011 not opened; entry statement "as if you were responsible for their very being" is looser than Levinas (answering for everyone, p.114).
 - QC: self-QC only; validator pass.
+
+## R099 — The between as ontological
+- Sources opened: Buber I and Thou (Smith) archive.org scan excerpt; Friedman ch. 14 (religion-online) excerpt; SEP Buber entry excerpt; page ref via Uram article. Quotes verified verbatim against excerpts.
+- Flags: Friedman's summary is second-hand; "do not locate meaning inside the individual" is compendium gloss; Gergen 2009, Marcel not opened.
+- QC: self-QC only; validator pass.
