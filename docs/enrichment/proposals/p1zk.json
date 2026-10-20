@@ -1,6 +1,6 @@
 {
  "batch": "p1zk",
- "revision": 9,
+ "revision": 10,
  "reciprocal": [
   {
    "into": "Sleep deprivation",
@@ -67,6 +67,12 @@
    "link": "BE065",
    "why": "the playfulness studies behind this principle measure the trait Huizinga's play-category names",
    "notes": "Evidence in sources/p1zk/BE065.md (Proyer 2013/2021, both opened). Concept already cites BE065."
+  },
+  {
+   "into": "ERP (exposure and response prevention)",
+   "link": "BE071",
+   "why": "the compulsions this page teaches to recognise are the targets ERP treats",
+   "notes": "Evidence in sources/p1zk/BE071.md (MSD Manual definition, Skapinakis 2016 NMA, both opened). Concept already cites BE071."
   }
  ],
  "inline": []
