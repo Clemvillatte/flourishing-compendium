@@ -12,13 +12,22 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 149** — Moderate food, drink, sex, and sleep
 
-Classic [[Yangsheng (cultivating vitality)|yangsheng]] prescription: none denied, none in excess: regular, modest, unhurried.
+The Huainanzi, a second-century BCE Daoist compendium, gives the moderation instruction in a body-regulation passage: to regulate your body and nourish your nature, moderate sleep and rest, be appropriate in food and drink, harmonize happiness and anger, and make suitable movement and stillness. The passage's stated result of carrying these things out within the self is that noxious qi has no means to be produced.
 
-(Yangsheng literature; Neiye.)
+([[Yangsheng (cultivating vitality)|yangsheng]] literature; Huainanzi 14.39.)
 
-**Plain words** None denied, none in excess: regular, modest, unhurried — food, drink, sex, and sleep, all on the same principle. The classic prescription is boring precisely because it works; moderation has no marketing department, which is why we forget it.
+> "To regulate your body and nourish your nature, / moderate your sleep and rest, / be appropriate in your food and drink, / harmonize your happiness and anger, / and make suitable your movement and stillness." (Huainanzi 14.39, [Major, Queen, Meyer and Roth trans.](https://archive.org/details/theessentialhuainanziliuan))
 
-*For example:* The grandparent who eats a little of everything, drinks a little wine, walks daily, and naps — outlives the fad-dieters at the table.
+The principle's list of four, food, drink, sex and sleep, is the compendium's own framing; the quoted passage names sleep and food and drink, and adds happiness and anger and movement and stillness rather than sex. In each case the instruction has the same shape: a measure appropriate to the thing.
+
+**Plain words**
+Notice what the passage does not say: nothing is forbidden. Sleep, food, drink, anger and activity each appear with a measure attached: moderate, appropriate, harmonize, suitable. The exercise is to take one of them, name its current measure, hours, portions or timing, and compare that with what you would yourself call appropriate.
+
+*For example:* Imagine your usual week of dinners. Write down what being appropriate in food and drink would mean in portions and hours, then compare it with the last three dinners you actually had. The comparison is the exercise.
+
+## Sources
+
+- [The Essential Huainanzi, Major, Queen, Meyer and Roth trans., Columbia University Press 2012, Internet Archive](https://archive.org/details/theessentialhuainanziliuan) — section 14.39
 
 ## Psychology parallels
 
