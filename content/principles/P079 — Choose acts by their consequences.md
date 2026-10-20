@@ -12,13 +12,24 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 79** — Choose acts by their consequences
 
-The moral question is not "does this conform to rule R" but "what does this act do: to my growth, to others, to the shared world?" Trace consequences broadly and act accordingly.
+In Human Nature and Conduct, Dewey treats ends as foreseen consequences that give activity direction, and moral judgment as a survey of the plural effects that flow from an act. He sets this against the doctrine that denies consequences any role in the morality of acts. (Dewey, Human Nature and Conduct, part 3, section 6.)
 
-(Dewey, Human Nature and Conduct, 1922; Theory of Valuation, 1939.)
+> "Ends are foreseen consequences which arise in the course of activity and which are employed to give activity added meaning and to direct its further course." (Dewey, Human Nature and Conduct, part 3, sec. 6, [Gutenberg](https://www.gutenberg.org/cache/epub/41386/pg41386.txt))
 
-**Plain words** The moral question is not 'does this conform to rule R' but 'what does this act do — to my growth, to others, to the shared world?' Trace consequences broadly and act accordingly. Rules are shortcuts for this; the shortcut sometimes takes you off a cliff.
+> "It is wilful folly to fasten upon some single end or consequence which is liked, and permit the view of that to blot from perception all other undesired and undesirable consequences." (Dewey, Human Nature and Conduct, part 3, sec. 6, [Gutenberg](https://www.gutenberg.org/cache/epub/41386/pg41386.txt))
 
-*For example:* Returning the lost wallet by the rulebook versus by consequences — the rule is fine until it's the rent money of someone the rule never imagined.
+> "But we have to include consequences impartially. Even admitting that lying will save a man's soul, whatever that may mean, it would still be true that lying will have other consequences, namely, the usual consequences that follow from tampering with good faith and that lead lying to be condemned." (Dewey, Human Nature and Conduct, part 3, sec. 6, [Gutenberg](https://www.gutenberg.org/cache/epub/41386/pg41386.txt))
+
+The compendium's exercise for a choice at hand: list what the act would do to your own growth, to the people it touches, and to the shared conditions they rely on, before deciding.
+
+**Plain words**
+Before acting, ask what this does and to whom. Write down who is affected and how, and decide after the list is complete.
+
+*For example:* Imagine you are tempted to tell a comforting lie to a friend about their business plan. You list what the lie would do to them, to their trust, and to your own habits of honesty, and choose with the whole list in view.
+
+## Sources
+
+- [Human Nature and Conduct, John Dewey, Project Gutenberg](https://www.gutenberg.org/cache/epub/41386/pg41386.txt) — part 3, section 6
 
 ## Psychology parallels
 
