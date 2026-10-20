@@ -11,6 +11,10 @@ Josipovic and Miskovic describe non-dual awareness as awareness without a divisi
 
 ### Awareness and experiential content
 
+> NDA is a type of awareness, a basic non-conceptual, non-propositional awareness, without subject-object dualistic structure, hence “nondual.”
+>
+> Zoran Josipovic and Vladimir Miskovic, “Nondual Awareness and Minimal Phenomenal Experience,” [“Nondual Awareness”](https://pmc.ncbi.nlm.nih.gov/articles/PMC7473343/). NDA abbreviates non-dual awareness.
+
 The authors argue that non-dual awareness can accompany either abundant experiential content or very little content ([“Introduction”](https://pmc.ncbi.nlm.nih.gov/articles/PMC7473343/)). On this view, mental silence alone does not establish that non-dual awareness is present ([“Introduction”](https://pmc.ncbi.nlm.nih.gov/articles/PMC7473343/)).
 
 This is their proposed account of consciousness-as-such, which they contrast with accounts that identify it with states of greatly reduced experience ([Josipovic and Miskovic, 2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC7473343/)). Their distinction makes the amount of experience and the kind of awareness separate questions ([“Introduction”](https://pmc.ncbi.nlm.nih.gov/articles/PMC7473343/)).

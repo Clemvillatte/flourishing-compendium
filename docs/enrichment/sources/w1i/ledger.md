@@ -122,6 +122,9 @@ a principle reserve from the active supervisor.
   honestly labeled” draft residue rather than asserting a literature size.
 - Saturation: fast-track exemption. Existing links preserved, no reciprocal.
 - QC: validator before done. Include this theory-scoping item in milestone advisor QC.
+- Milestone advisor independently passed factual scope and preservation, but
+  required a blockquote retained by fast-track protocol. Reopened via state
+  machine; added the exact verified definition and expanded NDA in attribution.
 
 ## Open-monitoring meditation
 
