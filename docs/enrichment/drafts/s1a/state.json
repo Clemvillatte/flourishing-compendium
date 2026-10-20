@@ -142,7 +142,7 @@
    ]
   },
   "s1a-008": {
-   "status": "qc_pending",
+   "status": "returned",
    "angle": "D080: the blind men and the elephant (Udana 6.4) — partial truths mistaken for the whole",
    "history": [
     {
@@ -158,6 +158,11 @@
      "t": "2026-10-20T13:30:41+00:00",
      "to": "qc_pending",
      "note": ""
+    },
+    {
+     "t": "2026-10-20T13:44:07+00:00",
+     "to": "returned",
+     "note": "Independent advisor: unsupported touch/cure; limited D080 analogy; gist-first repairs applied, re-review pending"
     }
    ]
   },
@@ -172,5 +177,5 @@
    ]
   }
  },
- "updated": "2026-10-20T13:43:03+00:00"
+ "updated": "2026-10-20T13:44:07+00:00"
 }
