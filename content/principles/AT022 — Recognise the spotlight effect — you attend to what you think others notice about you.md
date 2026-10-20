@@ -12,11 +12,21 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AT — Attentio
 ---
 > **Principle 22** — Recognise the spotlight effect: you attend to what you think others notice about you
 
-People overestimate how much others notice and evaluate them. This "spotlight effect" — feeling that everyone is watching and judging — is a bias. In reality, others are mostly attending to themselves.
+In the study that named the effect, Gilovich, Medvec and Savitsky sent participants into a room wearing a T-shirt bearing a large picture of Barry Manilow, a singer the participants found embarrassing. The shirt-wearers estimated that roughly twice as many observers would notice and identify the picture as actually did: the average estimate was exactly twice the observers' actual accuracy rate, an average discrepancy of 23 percentage points. A companion study found the same overestimate for speech: discussion participants overestimated how prominent their positive and negative utterances were to fellow discussants.
 
-**Plain words** Everyone is the star of their own movie, which means almost nobody is watching yours as closely as you fear. The coffee you spilled at the meeting is a blooper reel that only you kept.
+The account the authors give is anchoring with insufficient adjustment: you stand in your own experience, where the shirt feels enormous, and adjust only part of the way toward what the room actually sees.
 
-*For example:* Replaying the joke that bombed for a week — ask anyone from that dinner what they remember. Your sweater, the wine, their own joke that also bombed. Nobody's keeping your footage.
+> "This research provides evidence that people overestimate the extent to which their actions and appearance are noted by others, a phenomenon dubbed the spotlight effect." (Gilovich, Medvec & Savitsky, 2000 — [full text](https://www.psychologyib.com/uploads/1/1/7/5/11758934/the_spotlight_effect_-_ib_psychology.pdf) — J Pers Soc Psychol 78(2), p. 211)
+
+**Plain words**
+Your own experience is the anchor: the stain feels enormous from the inside. Everyone else is anchored in their own experience, busy with their own stains. The gap between those two viewpoints is the bias, and knowing it exists lets you discount your first estimate of how many eyes are on you.
+
+**For example**
+Replaying the joke that bombed for a week: ask anyone from that dinner what they remember, and you will hear about their own evening, including their own joke that also bombed.
+## Sources
+
+- [Gilovich, Medvec & Savitsky 2000, The spotlight effect in social judgment, Journal of Personality and Social Psychology 78(2):211-222, full text](https://www.psychologyib.com/uploads/1/1/7/5/11758934/the_spotlight_effect_-_ib_psychology.pdf) — the Barry Manilow T-shirt studies, the discussion-utterance study, and the anchoring-and-adjustment account.
+
 ## Psychology parallels
 
 - **[[Spotlight effect (Gilovich)|Spotlight effect (Gilovich)]]**, people overestimate how much others notice them (Gilovich et al., 2000; Savitsky et al., 2001)
