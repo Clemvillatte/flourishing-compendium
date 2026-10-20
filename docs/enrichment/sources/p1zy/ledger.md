@@ -21,3 +21,7 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 ## Y011 (2026-10-21)
 - Woods HOS 17 p. 139 (2.16 and Vacaspati/Vyasa on why only future pain; page before the "140]" head). Quotes verified except OCR spacing and one elision "(pakse vartate)" marked with an ellipsis. The principle's own wording "the suffering that has not yet come is to be avoided" comes from another translation and is not re-opened; the page says so.
 - Old claim "the entire training is designed to intercept the chain earlier each time" and the after-the-storm tracing exercise are modern glosses; page says so. Plain words replicate replaced; example imagined. Self-QC only.
+
+## Y023 (2026-10-21)
+- Woods HOS 17 pp. 209-211 (3.9-3.11 and commentary; page from the "209]" and "211]" heads). Quotes verified. 3.12 not read.
+- The old text said "each mental event reinforces the tendency that produced it: restraint strengthens restraint, indulgence strengthens indulgence". The opened commentary says this only of meditative restriction vs emergence impressions; the general and relational application is the principle's own reading, and the page says so. Plain words replicate replaced; example imagined and labelled as modern illustration. Self-QC only.
