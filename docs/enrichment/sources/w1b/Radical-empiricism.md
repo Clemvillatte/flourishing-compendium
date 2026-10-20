@@ -61,3 +61,17 @@
   (William James, Radical Empiricism)"; SP084: "Knowledge by acquaintance (William
   James, Radical Empiricism)"; A089: "The specious present and pure experience (James,
   Essays in Radical Empiricism)").
+
+## Advisor QC round 3 (2026-10-20): three-part summary provenance
+
+- Verified by a targeted re-read of the archive.org full text: the sentence "Radical
+  empiricism consists (1) first of a postulate, (2) next of a statement of fact, (3)
+  and finally of a generalized conclusion." appears in Ralph Barton Perry's Editor's
+  Preface, not in the essays. The preface states verbatim: "The only summary of
+  'radical empiricism' in this last and narrowest sense appears in the Preface to
+  The Meaning of Truth (pp. xii-xiii); and it must be reprinted here as the key to
+  the text that follows." and "The use of numerals and italics is introduced by the
+  editor."
+- Page attribution updated accordingly: the three sentences are quoted as reprinted
+  in the editor's preface, from James's Preface to The Meaning of Truth (pp. xii-xiii),
+  with the editor's numerals and italics.

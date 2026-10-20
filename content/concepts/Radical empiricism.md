@@ -13,7 +13,7 @@ Radical empiricism is William James's name for his own worldview, set out in ess
 
 ### Postulate, statement of fact, generalized conclusion
 
-The preface to the 1912 collection summarizes the doctrine in three parts, in James's words:
+The editor's preface to the 1912 collection reprints, as the key to the essays, James's own summary of the doctrine from the Preface to The Meaning of Truth (pp. xii-xiii); the preface notes that the numerals and italics are the editor's. In James's words:
 
 "The postulate is that the only things that shall be debatable among philosophers shall be things definable in terms drawn from experience."
 
