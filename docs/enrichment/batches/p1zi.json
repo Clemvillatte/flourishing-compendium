@@ -29,10 +29,9 @@
   "A092",
   "A098",
   "A115",
-  "A120",
-  "A122"
+  "A120"
  ],
- "in_progress": null,
+ "in_progress": "A122",
  "flagged": {
   "SP079": "Reopened for QC: QC round 1: quote terminal punctuation (design: not design.), majority-vs-all overreach, participation guarantee, humanizer, PT sentence reader-facing, parallels claim clauses",
   "SP089": "Reopened for QC: QC milestone: circumstances-revoke overreach + rereading mechanism",
@@ -40,10 +39,11 @@
   "SP096": "Reopened for QC: QC milestone: eternity-as-technique + smaller-measure claim",
   "Y105": "Reopened for QC: QC re-review round 3: strand search full inspection and ledger corrections",
   "A020": "Reopened for QC: QC re-review: file-path fix, action-only example, Plain words, raw verification",
-  "A081": "Reopened for QC: QC re-review: flute quote punctuation, unsupported pleasure claims, mention hunt"
+  "A081": "Reopened for QC: QC re-review: flute quote punctuation, unsupported pleasure claims, mention hunt",
+  "A122": "Reopened for QC: QC re-review: quote capitalization, Plain words claim, mention hunt"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T10:36:33+00:00",
+ "updated": "2026-10-20T10:38:27+00:00",
  "band_done": false
 }
