@@ -1,6 +1,6 @@
 {
  "batch": "p1zo",
- "revision": 8,
+ "revision": 9,
  "reciprocal": [
   {
    "into": "Identity development",
@@ -55,6 +55,18 @@
    "link": "SE075",
    "why": "the positivity-effect evidence behind this principle's ageing-self claim",
    "notes": "SST concept page does not link SE075. Evidence in sources/p1zo/SE075.md (Carstensen et al. 2011, opened via PMC)."
+  },
+  {
+   "into": "The examined life",
+   "link": "SE077",
+   "why": "the self-assessment practice that operationalises the examined life",
+   "notes": "Concept page does not link SE077. Evidence in sources/p1zo/SE077.md (Hattie & Timperley 2007 + Peirce 1877, both opened)."
+  },
+  {
+   "into": "Self-monitoring (Michie et al.)",
+   "link": "SE077",
+   "why": "behaviour-change feedback applied to the self",
+   "notes": "Concept page does not link SE077. Evidence in sources/p1zo/SE077.md."
   }
  ]
 }
