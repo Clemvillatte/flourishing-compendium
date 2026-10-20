@@ -95,3 +95,28 @@ source; anything not opened is recorded as inherited and unverified.
   warfare text; acceptance does not certify unseen inherited sections).
 - Inherited "Schadenfreude's relational costs" bullet: bare link, no claims.
 - Validator: ok.
+
+### D083 — Reframe to dissolve conflict (2026-10-20)
+- Opened: Zhuangzi Legge, ETH Zurich METIS PDF
+  (https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf),
+  downloaded and mechanically extracted with pdftotext. Blockquote = ch. 2
+  monkey-keeper passage verbatim as extracted. Inline verbatim fragments:
+  "In the morning I will give you three (measures) and in the evening four.";
+  "the sagely man brings together a dispute in its affirmations and denials,
+  and rests in the equal fashioning of Heaven. Both sides of the question are
+  admissible." (ch. 2, same source).
+- Plain words replaced (old one replicated the body nearly verbatim). For
+  example kept from the original page (imagined, concrete).
+- Advisor QC not due (item 6; next at item 10).
+- Validator: ok.
+
+### D101 — Drop pretense: stop standing on tiptoe (2026-10-20)
+- Opened: Legge DDJ 24 (Gutenberg pg216.txt, chapter 24 fetched fresh).
+  Blockquote = opening lines verbatim. Inline verbatim fragments: "like
+  remnants of food, or a tumour on the body, which all dislike."; "those who
+  pursue (the course) of the Tao do not adopt and allow them."
+- Plain words replaced (was a 36% replicate per plain-words-replicates.md);
+  For example tightened (removed the speculative "burns out in a quarter"
+  outcome claim).
+- Advisor QC not due (item 7).
+- Validator: ok.
