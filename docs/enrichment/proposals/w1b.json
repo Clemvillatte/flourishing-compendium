@@ -29,7 +29,33 @@
       "into": "Shikantaza, just sitting",
       "link": "Gelassenheit",
       "why": "Dogen's just sitting and Heidegger's 'nothing but wait' are paired by the compendium as contemplative neighbours."
+    },
+    {
+      "into": "Learned Helplessness Theory",
+      "link": "Growth mindset",
+      "why": "The helplessness response is what malleability beliefs are read against: growth mindset research grew from attribution studies of helpless versus mastery-oriented responses."
+    },
+    {
+      "into": "Mastery orientation",
+      "link": "Growth mindset",
+      "why": "Mastery-oriented persistence is the response pattern associated with malleability beliefs; helplessness is its counterpart."
+    },
+    {
+      "into": "Deliberate practice",
+      "link": "Growth mindset",
+      "why": "The belief that ability grows and the practice that grows it are two sides of developable skill."
+    },
+    {
+      "into": "Learned optimism",
+      "link": "Growth mindset",
+      "why": "Both are belief constructs built on attribution research: what failure and setbacks are taken to mean."
     }
   ],
-  "inline": []
+  "inline": [
+    {
+      "into": "M001",
+      "concept": "Growth mindset",
+      "phrase": "growth-mindset"
+    }
+  ]
 }
