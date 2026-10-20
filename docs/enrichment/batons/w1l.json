@@ -1,13 +1,20 @@
 {
  "baton": "w1l",
- "agent": "worker-b18349e1",
- "clocked_in": "2026-10-20T07:32:27+00:00",
+ "agent": "genuineflourishing01",
+ "clocked_in": "2026-10-20T11:13:26+00:00",
  "takeovers": [
   {
    "by": "worker-b18349e1",
    "at": "2026-10-20T06:43:44+00:00",
    "from": null,
    "reason": "free"
+  },
+  {
+   "by": "genuineflourishing01",
+   "at": "2026-10-20T11:13:26+00:00",
+   "from": "worker-b18349e1",
+   "reason": "stale (221 min)"
   }
- ]
+ ],
+ "released": false
 }
