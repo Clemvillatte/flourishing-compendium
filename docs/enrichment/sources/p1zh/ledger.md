@@ -56,3 +56,6 @@ No advisor tool available; QC is self-QC only.
 
 ## SO055 Treat gender as a cultural system
 - Opened: WHO Gender and health page (definitions verbatim), SEP Beauvoir (curl-confirmed the sentence and 1953 p. 267 locator). Ridgeway 2011, Connell 2002, Butler 1990, Bird & Rieker, Heilman, Eagly & Karau not opened. 'Not a biological destiny' kept only as the entry's wording.
+
+## SO057 Design workplaces for flourishing
+- Opened: Edmondson 1999 full text (MIT-hosted reprint); abstract and definition (p. 354) verbatim; learning-behavior description verbatim. Karasek 1979/1990, Deci & Ryan, Warr, Demerouti not opened (the PubMed record found for JD-R is the 2017 Bakker & Demerouti review, not used). Original 'evidence is substantial' stays unverified; page says so.
