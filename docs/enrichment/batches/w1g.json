@@ -20,9 +20,10 @@
   "Stream of consciousness",
   "The effort of attention",
   "Three kinds of friendship",
-  "Strength as virtue"
+  "Strength as virtue",
+  "Stress response (Lupien, McEwen)"
  ],
- "in_progress": "State-matched emotion regulation",
+ "in_progress": null,
  "flagged": {
   "Spontaneous right action": "title pending supervisor disposition: compendium heading, not the tradition's term (zhixing heyi); flagged in concept-namespace-audit.md worker flags",
   "The natural rhythm of warmth and cool": "title pending supervisor disposition: compendium heading over a real Zhuangzi ch.6 image; flagged in audit worker flags",
@@ -37,10 +38,11 @@
   "Thinking for doing": "title pending supervisor disposition: compresses James's 'for the sake of my doing'; three-word form not verbatim; flagged in audit worker-flags section",
   "The rehearsal of virtue": "owner-flagged hallucination (audit Category C): not a defined Stoic concept; page is a seed with no citable source; real concept to receive its links is Premeditatio malorum, which exists; NOT enriched per owner disposition",
   "Strength as virtue": "title pending supervisor disposition: compendium heading over GS V.377's strength/weakness inversion; phrase not verbatim in opened text; flagged in audit worker-flags section",
-  "State-matched emotion regulation": "first-item advisor QC: coined title not source-defined (underlying construct REAL: emotion regulation flexibility, Gross 2015 + Bonanno-Burton 2013, quotes verified); flagged in concept-namespace-audit.md for supervisor disposition (rename suggested); NOT marked done pending disposition; degree 13; body rewritten to the sourced construct; validator ok at fast-track profile"
+  "State-matched emotion regulation": "first-item advisor QC: coined title not source-defined (underlying construct REAL: emotion regulation flexibility, Gross 2015 + Bonanno-Burton 2013, quotes verified); flagged in concept-namespace-audit.md for supervisor disposition (rename suggested); NOT marked done pending disposition; degree 13; body rewritten to the sourced construct; validator ok at fast-track profile",
+  "Stress response (Lupien, McEwen)": "fast-track enriched (item 2); degree 9; McEwen 2007 full PDF + Lupien 2009 PubMed record opened, quotes verbatim; NOTE for supervisor: page title carries authors' names in parentheses ('Stress response (Lupien, McEwen)') - the real concept is the stress response; consider renaming per the garbled-title rule (low priority; body written for the sourced construct)"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T06:02:23+00:00",
+ "updated": "2026-10-20T06:03:29+00:00",
  "band_done": false
 }
