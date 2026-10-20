@@ -12,11 +12,11 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 53** — Learn to balance autonomy and connection: both are needs
 
-Self-determination theory's evidence base sits directly under this principle: across studies of motivation and development, satisfaction of the three needs (competence, autonomy, relatedness) predicts well-being, and thwarting any of them predicts the opposite (Ryan & Deci, 2000). The theory's definition of a need is worth noticing: "an energizing state that, if satisfied, conduces toward health and well-being but, if not satisfied, contributes to pathology and ill-being" (p. 74). Autonomy and connection are not two lifestyles to choose between; both are needs in that sense, so a life that trades one away runs a standing deficit. The relatedness finding is specific: "relatedness, the need to feel belongingess and connectedness with others, is centrally important for internalization" (p. 73).
+Ryan and Deci's account proposes three basic psychological needs: competence, autonomy and relatedness, whose satisfaction predicts well-being and whose thwarting predicts the opposite (2000). Autonomy, in this literature, does not mean detachment: "within SDT, autonomy refers not to being independent, detached, or selfish but rather to the feeling of volition that can accompany any act, whether dependent or independent, collectivist or individualist" (p. 74). So the principle's pair is not two lifestyles to choose between; both are needs, and a life that trades one away runs a standing deficit.
 
 > "The findings have led to the postulate of three innate psychological needs—competence, autonomy, and relatedness—which when satisfied yield enhanced self-motivation and mental health and when thwarted lead to diminished motivation and well-being." (Ryan & Deci, 2000, p. 68)
 
-**Plain words** You need two things that sound like opposites: to be your own person, and to belong to people. Sacrifice either one long enough and you'll get sick of the trade. The art of a good life is holding both — close enough to be held, separate enough to be someone.
+**Plain words** You need two things that sound like opposites: to be your own person, and to belong to people. You can care about someone and still say honestly what you want; agreeing freely is not the same as agreeing because disagreement feels forbidden. Sacrifice either need long enough and you'll get sick of the trade.
 
 *For example:* The partner who gave up all her friendships for the relationship and the one who kept every friendship but never came home for dinner are making the same mistake in opposite directions. Both are starving one need to feed the other.
 ## Psychology parallels
