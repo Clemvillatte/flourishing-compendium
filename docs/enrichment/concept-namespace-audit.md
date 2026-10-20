@@ -111,6 +111,12 @@ mind, Premeditatio malorum). The concepts namespace must NOT contain:
 
 ## Worker flags (pending supervisor disposition)
 
+- The analysis of experience into elements (2026-10-20, worker-p1r-ae2a1b83, w1g, fast-track): the
+  page title is the compendium's own heading for the PRACTICE of decomposing lived experience into
+  components (Husserl's Ideas I analysis of intentional acts via the opened SEP Phenomenology entry;
+  Buddhist aggregates via [[B120 — Experience is five streams (the aggregates)]]). No source defines
+  the phrase as a named concept. Rename candidate or keep as heading, per the w1g pattern.
+
 - State-matched emotion regulation (2026-10-20, worker-p1r-ae2a1b83, w1g, first-item advisor QC):
   the underlying construct is REAL and sourced (Gross 2015, Psychological Inquiry 26(1), section
   "The Implementation Stage", defines emotion regulation flexibility as "the matching of emotion

@@ -22,7 +22,8 @@
   "Three kinds of friendship",
   "Strength as virtue",
   "Stress response (Lupien, McEwen)",
-  "Suspension of the natural attitude"
+  "Suspension of the natural attitude",
+  "The analysis of experience into elements"
  ],
  "in_progress": null,
  "flagged": {
@@ -40,10 +41,11 @@
   "The rehearsal of virtue": "owner-flagged hallucination (audit Category C): not a defined Stoic concept; page is a seed with no citable source; real concept to receive its links is Premeditatio malorum, which exists; NOT enriched per owner disposition",
   "Strength as virtue": "title pending supervisor disposition: compendium heading over GS V.377's strength/weakness inversion; phrase not verbatim in opened text; flagged in audit worker-flags section",
   "State-matched emotion regulation": "first-item advisor QC: coined title not source-defined (underlying construct REAL: emotion regulation flexibility, Gross 2015 + Bonanno-Burton 2013, quotes verified); flagged in concept-namespace-audit.md for supervisor disposition (rename suggested); NOT marked done pending disposition; degree 13; body rewritten to the sourced construct; validator ok at fast-track profile",
-  "Stress response (Lupien, McEwen)": "fast-track enriched (item 2); degree 9; McEwen 2007 full PDF + Lupien 2009 PubMed record opened, quotes verbatim; NOTE for supervisor: page title carries authors' names in parentheses ('Stress response (Lupien, McEwen)') - the real concept is the stress response; consider renaming per the garbled-title rule (low priority; body written for the sourced construct)"
+  "Stress response (Lupien, McEwen)": "fast-track enriched (item 2); degree 9; McEwen 2007 full PDF + Lupien 2009 PubMed record opened, quotes verbatim; NOTE for supervisor: page title carries authors' names in parentheses ('Stress response (Lupien, McEwen)') - the real concept is the stress response; consider renaming per the garbled-title rule (low priority; body written for the sourced construct)",
+  "The analysis of experience into elements": "fast-track enriched (item 4); degree 9; SEP Phenomenology entry opened (also served the epoché item); title flagged in concept-namespace-audit.md (compendium heading for a real practice; rename candidate); NOTE: an earlier edit accidentally dropped the 8 inline principle links and was restored before validation (0 links lost, validator ok)"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T06:04:12+00:00",
+ "updated": "2026-10-20T06:04:53+00:00",
  "band_done": false
 }
