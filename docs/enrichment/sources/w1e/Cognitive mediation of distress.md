@@ -1,0 +1,8 @@
+# Cognitive mediation of distress — evidence record (w1e, fast-track)
+
+- Degree: 9 connections (3 kernels + 6 principles) → fast-track eligible per PROTOCOL.md §1a.
+- Opened sources:
+  1. https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy (Wikipedia, CBT) — the blockquote "Human emotions are primarily caused by people's thoughts and perceptions rather than events." is verbatim from the article's Basic assumptions (cognitive therapy) section. The Epictetus/Ellis influence sentence is paraphrased in the body from the article's History section ("Another example of Stoic influence on cognitive theorists is the influence of Epictetus on Albert Ellis.").
+  2. https://en.wikipedia.org/wiki/Aaron_Beck (Wikipedia, Aaron Beck) — opened for Beck grounding; the article does not detail the 1976 book, and its bibliography lists "Beck, A.T. (1975). Cognitive therapy and the emotional disorders" — a date discrepancy with the seed's "Beck, 1976" citation, noted here; the body makes no claim about the book or its date. The "first articles on the cognitive theory of depression appeared in the early 1960s" sentence is paraphrased from the article ("Beck's first articles on the cognitive theory of depression, in 1963 and 1964 in the Archives of General Psychiatry...").
+- Scoping: the body's mediation claim is the opened basic-assumption sentence plus gloss; no claims about the book's contents; the "interpretation carries the emotional charge" reading is the compendium's plain-language gloss of the quoted assumption, consistent with the article's description of questioning thoughts associated with emotions.
+- Front-matter, all nine original wikilinks, and the Cited-in sections preserved; validator --fast-track ok as part of the done transition.
