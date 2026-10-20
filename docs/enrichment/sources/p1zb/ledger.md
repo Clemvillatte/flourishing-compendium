@@ -638,7 +638,8 @@ never-band-assigned work; p1g state had them flagged-only, absent from p1g's man
 - Mention checks run for all five items (company/friend; waste/shortness; adversity/obstacle;
   posthumous/legacy; impermanence/change): conclusions apply to the displayed candidates
   (outputs truncated) — no unlinked concept-page mentions of the five principles' claims
-  warranting new proposals; surfaced pages are other bands' principles and references.
+  warranting new proposals (the displayed candidates include other bands' principles,
+  references, and the concept Acceptance).
 - Ledger typo fixed: the S079 entry said Community psychology theory and Social learning
   theory (Bandura) list "S077" — they list S079.
 - S079 reciprocity corrected: the principle's philosophy parallel is [[Community|Community
@@ -660,10 +661,10 @@ never-band-assigned work; p1g state had them flagged-only, absent from p1g's man
   silently failed; the paragraph was re-read from the file, found unchanged, and replaced with
   the advisor's philosophical-exercise framing ("Understanding a change does not require
   approving it.") — the physical-history sentence and unqualified "why should you?" removed.
-- Community alias check performed: the wiki has no alias mapping (validated by inspecting
-  the generator/validator scripts — wikilinks resolve by literal page title). S079's parallel
-  [[Community|Community of inquiry]] targets Community.md (the communitarianism page), which
-  does not list S079; The community of inquiry lists S079 one-directionally. Reciprocity
-  between S079 and The community of inquiry therefore remains unestablished; no action.
+- Community alias check, observations only: separate files Community.md and The community
+  of inquiry.md exist; S079's parallel [[Community|Community of inquiry]] has literal target
+  Community, and Community.md does not list S079; The community of inquiry lists S079
+  one-directionally. Reciprocity between S079 and The community of inquiry remains
+  unestablished; no action.
 - Proposals revision 10: S097 inline why simplified to a neutral relationship clause
   ("Contrasts reputation as something to acquire with acting well as a way of living.").
