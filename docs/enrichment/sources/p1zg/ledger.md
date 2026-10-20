@@ -23,3 +23,7 @@
 ## PP026
 - McAdams & de St Aubin (1992): abstract via SciSpace page (search-result text opened; two quotes verbatim); Gerontol B 2018 (PMC7328033, PMID 29878249) and J Pers 2018 (PMC5690892): PMC pages fetched, quotes grep-verified.
 - Limits: McAdams 1992 full text not opened; Erikson not opened; statement 'contribution need not be grand' and 'predicts well-being' (correlational) only partly supported; body says so. Example hypothetical.
+
+## PP037
+- VIA Institute pages on Bravery and Perseverance fetched; 6 quotations verified verbatim.
+- Limits: Peterson & Seligman (2004) and Pury & Lopez (2010) not opened (no accessible text found); statement's 'built through exposure to feared situations and through modelling' NOT supported by any opened source; body says so. Statement's 'Courage is not the absence of fear' supported only through the VIA definition (facing fears). Example hypothetical.

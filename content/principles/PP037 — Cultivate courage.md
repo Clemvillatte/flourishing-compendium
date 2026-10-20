@@ -12,13 +12,20 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 ---
 > **Principle 37** — Cultivate courage
 
-Courage, in the VIA classification, includes bravery, perseverance, honesty, and zest. It is the capacity to act on values despite fear, difficulty, or social pressure. Courage is not the absence of fear. It is the willingness to act while afraid. Research on courage is limited but suggests that it is built through exposure to feared situations and through modelling.
+The VIA Institute describes bravery as "to face your challenges, threats, or difficulties. It involves valuing a goal or conviction and acting upon it, whether popular or not. A central element involves facing, rather than avoiding, fears" ([VIA Institute, Bravery](https://www.viacharacter.org/character-strengths/bravery)). Its self-statement for the strength reads: "I act on my convictions, and I face threats, challenges, difficulties, and pains, despite my doubts and fears". Fear is therefore part of the definition, which fits the principle's point that courage is acting while afraid.
 
-(Peterson and Seligman, 2004; Pury and Lopez, 2010.)
+In the VIA scheme, courage is "one of six virtues that subcategorize the 24 character strengths" and "describes strengths that help you exercise your will and face adversity". Its strengths are bravery, honesty, perseverance and zest. Perseverance is defined as "sticking with things", meaning "being hardworking and finishing what is started, despite barriers and obstacles that arise" ([VIA Institute, Perseverance](https://www.viacharacter.org/character-strengths/perseverance)). I read these on the VIA Institute's website and did not open Peterson and Seligman's 2004 book. I found no study showing that courage is built through exposure to feared situations or through modelling, so the principle's claims about how to cultivate it rest on the wiki's own reasoning here.
 
-**Plain words** In VIA, courage includes bravery, perseverance, honesty and zest. It's acting on your values despite fear, difficulty or pressure. It isn't the absence of fear but acting while afraid. It seems to be built by practising in small doses.
+**Plain words**
+Courage means acting on what you value even though you are afraid. Fear stays in the picture. Start with a feared step small enough to try this week.
 
-*For example:* Telling your manager the truth about a delayed project when silence would be easier.
+**For example**
+Someone who dreads speaking up in meetings states one view at the next meeting, even with a shaky voice.
+
+## Sources
+
+- [VIA Institute on Character, Bravery](https://www.viacharacter.org/character-strengths/bravery): opened
+- [VIA Institute on Character, Perseverance](https://www.viacharacter.org/character-strengths/perseverance): opened
 
 ## Stories
 
