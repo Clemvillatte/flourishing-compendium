@@ -47,25 +47,15 @@
   },
   {
    "into": "Behavior analysis",
-   "link": "Behavioural rehearsal / role-play (DBT, social skills training)",
+   "link": "Behavioural rehearsal role-play (DBT, social skills training)",
    "why": "rehearsal is an applied procedure of this tradition"
   },
   {
    "into": "Avoidance versus attentional engagement",
    "link": "Capacity to be alone (Winnicott)",
    "why": "avoidance-driven withdrawal distinguished from contented aloneness"
-  },
-  {
-   "into": "Habit maintenance",
-   "link": "Character as habits",
-   "why": "a companion question: how are established habits sustained?"
-  },
-  {
-   "into": "Behavior analysis",
-   "link": "Character as habits",
-   "why": "contrast James's habit account with that page's three-term contingency"
   }
  ],
  "inline": [],
- "notes": " | deferred at this run (target band busy): 12 recip, 0 inline | deferred at this run (target band busy): 13 recip, 0 inline | deferred at this run (target band busy): 13 recip, 0 inline"
+ "notes": " | deferred at this run (target band busy): 12 recip, 0 inline | deferred at this run (target band busy): 13 recip, 0 inline | deferred at this run (target band busy): 13 recip, 0 inline Supervisor repair (2026-10-20): link \"Behavioural rehearsal / role-play (DBT, social skills training)\" resolved to the actual filename (hyphenation); 2 records linking \"Character as habits\" removed — target page no longer exists (namespace merge into [[Habit]]); re-targeting to Habit is a new semantic decision. | deferred at this run (target band busy): 11 recip, 0 inline"
 }

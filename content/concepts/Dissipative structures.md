@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Dissipative structures” — Prigogine and Stengers, Order Out of Chaos.
 
+## Related concepts
+
+- [[P149]] — P149 explains Prigogine's account of non-equilibrium organization while separating the physical theory from personal-crisis analogies.
+
 ## Sources
 
 - Prigogine and Stengers, Order Out of Chaos

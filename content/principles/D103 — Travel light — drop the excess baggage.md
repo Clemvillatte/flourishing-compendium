@@ -23,6 +23,10 @@ Think of a conversation in which you feel pressure to mention an achievement. Wh
 
 *For example:* Imagine meeting a new colleague and wanting to mention an award unrelated to your shared task. You introduce yourself and ask about the project.
 
+## Related concepts
+
+- [[D101]] — Both principles come from Daodejing chapter 24's tiptoe passage: D101 takes the bodily image of standing on tiptoe as pretense, and D103 takes the same passage's self-display and self-assertion as weight carried for show.
+
 ## Sources
 
 - [Tao Teh King, James Legge translation, Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm) — chapter 24

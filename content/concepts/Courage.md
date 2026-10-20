@@ -23,6 +23,7 @@ SP065's acting from strength rather than fear is a modern echo of Aristotle's no
 
 ## Related concepts
 
+
 - [[Temperance]] — the sibling cardinal virtue in the compendium's virtue family
 - [[Virtue]] — the class of excellences courage belongs to
 - [[Fear]] — the feeling courage is a mean about
@@ -31,7 +32,7 @@ SP065's acting from strength rather than fear is a modern echo of Aristotle's no
 - [[Vulnerability]] — the openness that fear guards and courage spends
 - [[Hope]] — paired with suffering in the compendium's courage principle
 - [[Shame]] — the citizen-soldier's motive, courage's nearest counterfeit
-
+- [[D172]] — D172's psychology parallels list the courage research separating fearlessness from courage; the Courage concept page's cited-in lists do not include D172
 ## Sources
 
 - [Aristotle, Nicomachean Ethics III.6-9, Ross translation, Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html)

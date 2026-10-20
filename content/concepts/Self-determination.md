@@ -45,8 +45,10 @@ autonomy and relatedness grow together (Deci and Ryan, 2000).
 ## Related concepts
 
 
+
 - [[ERG Theory]] — another needs theory without a ladder, for comparison
 - [[E031]] — presents Sartre's freedom-as-responsibility as a philosophical parallel to motivational autonomy.
+- [[P169]] — P169 compares Rogers's trust in capacities and freedom of choice with self-determination theory, without treating the theories as interchangeable.
 ## Sources
 
 - Deci and Ryan, 2000

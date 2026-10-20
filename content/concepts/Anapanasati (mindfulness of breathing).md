@@ -12,8 +12,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ## Related concepts
 
 
+
 - [[Attention]] — the trained anchor of attention
 - [[Body scan in MBSR (Kabat-Zinn)]] — the breath-anchored counterpart practice within mindfulness training
+- [[B190]] — MN 118 teaches awareness of long and short breaths; B190 offers a brief everyday application.
 ## Sources
 
 - Buddhism, Anapanasati Sutta

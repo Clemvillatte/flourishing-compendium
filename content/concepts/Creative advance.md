@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Creative advance” — Whitehead, Process and Reality.
 
+## Related concepts
+
+- [[P096]] — Whitehead's formula describes a new occasion arising from the many and becoming available to further occasions in the creative advance.
+
 ## Sources
 
 - Whitehead, Process and Reality

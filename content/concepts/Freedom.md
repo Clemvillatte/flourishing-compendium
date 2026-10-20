@@ -29,6 +29,7 @@ Freedom is the hub the family pages break into faces, and the principle tracks c
 
 ## Related concepts
 
+
 - [[Radical freedom]] — Sartre's face: responsibility for what one makes of one's situation
 - [[Situated freedom]] — the phenomenologist's correction: freedom is always freedom somewhere
 - [[Positive freedom]] — Berlin's second concept: self-mastery and its risks
@@ -42,7 +43,7 @@ Freedom is the hub the family pages break into faces, and the principle tracks c
 - [[The capabilities approach]] — Sen: freedom as what people are actually able to do and be
 - [[Bad faith]] — Sartre: the refusal of freedom, the waiter's dance
 - [[Equanimity]] — the Stoic and Buddhist fruit of freedom of judgment
-
+- [[P087]] — P087 contains an inherited philosophy-parallels link to Freedom (Freedom as power, Dewey, Human Nature and Conduct). The target page's "Cited in philosophy parallels" section is empty and carries no reciprocal P087 link. This proposal documents that existing connection; it does not independently verify the parallel.
 ## Sources
 
 - [SEP, Theories of Freedom](https://plato.stanford.edu/entries/freedom-variants/) — original seed citation

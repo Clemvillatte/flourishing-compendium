@@ -1,0 +1,26 @@
+{
+ "inline": [],
+ "reciprocal": [
+  {
+   "into": "D025 \u2014 Feed the belly, not the eye",
+   "link": "D024 \u2014 Guard your senses from overload",
+   "why": "Both principles draw on Daodejing chapter 12: D024 takes its warning about the five colours and five notes overloading the senses, and D025 takes the sage's answer, satisfying the belly rather than the eyes."
+  },
+  {
+   "into": "D103 \u2014 Travel light \u2014 drop the excess baggage",
+   "link": "D101 \u2014 Drop pretense \u2014 stop standing on tiptoe",
+   "why": "Both principles come from Daodejing chapter 24's tiptoe passage: D101 takes the bodily image of standing on tiptoe as pretense, and D103 takes the same passage's self-display and self-assertion as weight carried for show."
+  },
+  {
+   "into": "D106 \u2014 Live at your own scale",
+   "link": "D079 \u2014 Question conventional measures of success",
+   "why": "Both principles work from Zhuangzi's opening scene of small birds laughing at the Peng's flight: D079 takes the small judging the large, and D106 takes the scale difference the narrator points out."
+  },
+  {
+   "into": "Anapanasati (mindfulness of breathing)",
+   "link": "B190 \u2014 The breath is always available",
+   "why": "MN 118 teaches awareness of long and short breaths; B190 offers a brief everyday application."
+  }
+ ],
+ "notes": "p1s proposals (worker-p1s-3f7c9a52, 2026-10-20). D025: D024 and D105 were the initial reciprocal targets; D105 removed at milestone QC round 2 (clause grounded only in a word search, page not substantively read). D103: D101 reciprocal (same DDJ 24 tiptoe passage). D106: D079 reciprocal (same Zhuangzi ch. 1 Peng scene; link title verified against the actual filename). Burnout proposal removed at round 2 (equivalence not established from an unverified seed definition). Experiential purchases and Intrinsic versus extrinsic goals already cite D025; Social comparison and The big-fish-little-pond effect already cite D106. Supervisor repair (2026-10-20, supervisor-36b57e93): three into-fields resolved to the actual principle filenames (D025/D103/D106) \u2014 the worker wrote titles without the ID prefixes; intended entries unambiguous, no semantic change."
+}

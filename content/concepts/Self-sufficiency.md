@@ -14,6 +14,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 - **virtue** — Aristotle, NE I.8, with qualification
 - **the Cynic** — Diogenes of Sinope
 
+## Related concepts
+
+- [[D105]] — D105 reads Xu You's refusal of the throne as a test of whether an acquisition serves a need.
+
 ## Sources
 
 - Diogenes of Sinope

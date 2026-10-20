@@ -17,6 +17,10 @@ An example at its smallest: the fifth precept as guard — the instrument not cl
 
 Its contemplative cognates are [[Sati]] (the noticing that clarity requires) and the epoché interval ([[Epoché]]) — the Pyrrhonian and Stoic suspensions are clarity's method, not its rival.
 
+## Related concepts
+
+- [[B042]] — B042 offers a breathing-based calming exercise alongside its discussion of concentration and insight.
+
 ## Sources
 
 - Stoics

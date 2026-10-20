@@ -23,6 +23,10 @@ Before buying something, name the problem you want it to solve. Check what you a
 
 *For example:* Imagine admiring a new phone in a shop window. Your current phone handles every task you need. You decide to keep it and put the money toward repairing your broken heater.
 
+## Related concepts
+
+- [[D024]] — Both principles draw on Daodejing chapter 12: D024 takes its warning about the five colours and five notes overloading the senses, and D025 takes the sage's answer, satisfying the belly rather than the eyes.
+
 ## Sources
 
 - [Tao Teh King, James Legge translation, Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm) — chapter 12

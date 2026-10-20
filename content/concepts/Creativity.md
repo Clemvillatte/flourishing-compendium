@@ -11,8 +11,9 @@ Creativity — the making of what is new and valuable. From Bergson's élan to D
 
 ## Related concepts
 
-- [[PP051]] — PP051 treats creativity as a process rather than a trait, grounded in the Hennessey and Amabile 2010 review (novel-and-appropriate definition, training meta-analysis, both stable aspects and environmental influence), the psychological anchor for the concept page's philosophy-of-creativity strand.
 
+- [[PP051]] — PP051 treats creativity as a process rather than a trait, grounded in the Hennessey and Amabile 2010 review (novel-and-appropriate definition, training meta-analysis, both stable aspects and environmental influence), the psychological anchor for the concept page's philosophy-of-creativity strand.
+- [[P114]] — Maslow's account distinguishes everyday creativeness from artistic achievement and considers openness in ordinary activities.
 ## Sources
 - Wikipedia Creativity: https://en.wikipedia.org/wiki/Creativity
 

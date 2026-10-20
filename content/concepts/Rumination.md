@@ -26,11 +26,13 @@ past-focused repetitive thought predicts depression (Nolen-Hoeksema, 2000).
 
 
 
+
 - [[Anger regulation research]] — the ingredient that made venting backfire in Bushman's experiment
 - [[Lifestyle pillars of mental health]] — the symptom the anti-ruminative pillar targets
 - [[Mindful attention]] — the pattern mindful attention interrupts
 - [[Phenomenological methods in psychology]] — the maladaptive wandering the sampling method measures
 - [[Avoidance versus attentional engagement]] — BA examines whether rumination functions as avoidance
+- [[D119]] — D119's psychology parallels list rumination research (worry as verbal-linguistic activity, Borkovec et al., 1983) alongside the chapter's counsel on spending speech; the two pages approach the same worry-in-words pattern from opposite directions
 ## Sources
 
 - Nolen-Hoeksema, 2000

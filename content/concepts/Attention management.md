@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Attention management” — Leroy, 2009.
 
+## Related concepts
+
+- [[D024]] — D024's Daodejing chapter 12 warns that excess input overwhelms the senses, and its psychology parallels cite the attention-residue finding (Leroy, 2009) that this concept is built on.
+
 ## Sources
 
 - Leroy, 2009

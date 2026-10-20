@@ -23,6 +23,10 @@ When someone else's achievement makes you want to copy their plan, first check w
 
 *For example:* Imagine considering a friend's plan to start a business. You calculate the time available after your paid work and caring responsibilities before deciding what you could attempt.
 
+## Related concepts
+
+- [[D079]] — Both principles work from Zhuangzi's opening scene of small birds laughing at the Peng's flight: D079 takes the small judging the large, and D106 takes the scale difference the narrator points out.
+
 ## Sources
 
 - [The Writings of Kwang-zu, James Legge translation, ETH Zurich](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — Inner Chapter 1 (Peng, cicada and dove, quail)

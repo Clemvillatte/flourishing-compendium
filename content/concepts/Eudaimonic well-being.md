@@ -10,3 +10,8 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 "Eudaimonic well-being"
 
 ## Cited in philosophy parallels
+
+
+## Related concepts
+
+- [[P014]] — P014 contains an inherited link to Eudaimonic well-being. The target page has an empty "Cited in philosophy parallels" section and no reciprocal P014 link. This proposal documents that existing connection; it does not independently verify the parallel.

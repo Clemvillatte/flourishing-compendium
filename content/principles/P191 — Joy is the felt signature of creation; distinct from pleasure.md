@@ -33,6 +33,10 @@ This is not a guarantee. Bergson is offering a phenomenological reading of the *
 
 - Not a guarantee that joy is always caused by a new creation. Not a test of whether someone is flourishing. Do not pathologize sadness or romanticize struggle.
 
+## Related concepts
+
+- [[P195]] — P195 treats Bergson's emotion as a source of representations; P191 considers the distinct claim about joy and creation.
+
 <!-- fc: reflections
 Where in your life is the joy — the felt signature of creation — actually being confused with pleasure — the functional satisfaction? What's the distinction?
 %%

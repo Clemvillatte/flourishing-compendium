@@ -32,6 +32,10 @@ The same chapter names where rushing does its damage: "people in their conduct o
 
 *For example:* Imagine skimming a contract to save twenty minutes and signing the bad clause. The twenty minutes come back as a dispute.
 
+## Related concepts
+
+- [[D121]] — Both read Daodejing 63: D058 attends to difficulty before it grows, and D121 applies the chapter's warning about lightly made promises.
+
 ## Sources
 
 - [The Tao Teh King, Legge trans., Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt) — chapters 24, 63, 64

@@ -22,8 +22,13 @@ Its modern cognate is [[Interoceptive awareness]] — the same body-listening wi
 
 ## Related concepts
 
-- [[BI053]] — BI053's parallels list this body-cultivation tradition (Neiye) beside its noticing practice
 
+
+
+- [[BI053]] — BI053's parallels list this body-cultivation tradition (Neiye) beside its noticing practice
+- [[D145]] — D145's locator line names the yangsheng literature as its home tradition, and the principle is a core yangsheng conservation teaching drawn from the Neiye
+- [[D149]] — D149's locator line links the yangsheng literature as its home tradition; the moderation instruction the page quotes is a body-regulation passage from that tradition
+- [[D147]] — D147 locates guarding shen in the Neiye's cultivation account, including bodily regulation and quieting the heart-mind.
 ## Sources
 
 - Daoism, Neiye

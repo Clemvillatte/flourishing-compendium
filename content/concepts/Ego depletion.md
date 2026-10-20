@@ -28,4 +28,6 @@ attention as the scarce resource.
 
 ## Related concepts
 
+
 - [[Context-dependent behaviour (Wood & Neal)]] — the model whose inhibition route invokes this resource account
+- [[AT003]] — AT003 compares Kaplan and Berman's proposed shared attentional resource with Hagger and colleagues' 2016 test of an ego-depletion protocol.
