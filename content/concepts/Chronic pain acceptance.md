@@ -7,13 +7,13 @@ file: "Chronic pain acceptance"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-C"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
-Chronic pain acceptance is the behavioral pattern of engaging in activity with pain present, without restrictions by pain or attempts to avoid or control it. The construct came out of Lance McCracken's chronic-pain research as the chronic-pain branch of the acceptance approach: less effort spent trying to eliminate the pain, more effort spent on valued activity. In the research literature it predicts adjustment and functioning beyond pain severity, pain anxiety, attention to pain and depression, in both the short and the long term.
+Chronic pain acceptance is a construct from the chronic-pain research literature. The definition below is the one that literature standardly cites, from McCracken and Vowles in 2008.
 
 > "Chronic pain acceptance is defined as 'a behavior pattern of engagement in activity with pain present, but without restrictions by pain, or attempts to avoid or control pain' (McCracken & Vowles, 2008, p. 216)." (Cook, Meyer, Evans, Vowles, Klocek, Kimbrel, Gulliver and Morissette, [Chronic Pain Acceptance Incrementally Predicts Disability in Polytrauma-Exposed Veterans](https://pmc.ncbi.nlm.nih.gov/articles/PMC5032639/), Behaviour Research and Therapy, 2015)
 
 ### What acceptance changes
 
-The construct stands against a control agenda: chronic pain acceptance emphasizes willingness to experience pain or related distress without direct attempts to control them. What replaces the control effort is engagement: getting on with the activities that matter, with the pain still present. The two moves are one move, which is why the construct travels with values-based commitment rather than with resignation.
+The construct stands against a control agenda: chronic pain acceptance emphasizes willingness to experience pain or related distress without direct attempts to control them. Cook and colleagues summarize earlier research reporting that pain acceptance predicts adjustment and functioning beyond the influences of other common predictors, including pain severity, over both the short and long term.
 
 ### In the compendium
 
