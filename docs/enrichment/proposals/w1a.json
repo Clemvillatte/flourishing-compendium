@@ -104,6 +104,13 @@
       "phrase": "Active-constructive responding, which involves",
       "source": "w1a worker-w1a-4c8e21d7",
       "why": "the principle page discusses the concept in body prose without linking the concept page; rg-verified unique occurrence (L15); not in the seed line (the seed is the principle statement blockquote)"
+    },
+    {
+      "concept": "Intrinsic versus extrinsic goals",
+      "into": "MO014",
+      "phrase": "Intrinsic vs extrinsic values (Kasser",
+      "source": "w1a worker-w1a-4c8e21d7",
+      "why": "the principle's parallels bullet names the Kasser & Ryan values distinction without linking the concept page; rg-verified unique occurrence (L22, parallels bullet, not a seed line)"
     }
   ],
   "reciprocal": [
@@ -265,6 +272,31 @@
     {
       "into": "Savoring",
       "link": "Active constructive responding",
+      "why": "new Related entry on the concept page; reciprocal of the concept's Related extension"
+    },
+    {
+      "into": "Aspiration index",
+      "link": "Intrinsic versus extrinsic goals",
+      "why": "new Related entry on the concept page; reciprocal of the concept's Related extension"
+    },
+    {
+      "into": "Extrinsic aspirations",
+      "link": "Intrinsic versus extrinsic goals",
+      "why": "new Related entry on the concept page; reciprocal of the concept's Related extension"
+    },
+    {
+      "into": "Materialism",
+      "link": "Intrinsic versus extrinsic goals",
+      "why": "new Related entry on the concept page; reciprocal of the concept's Related extension"
+    },
+    {
+      "into": "Self-determination",
+      "link": "Intrinsic versus extrinsic goals",
+      "why": "new Related entry on the concept page; reciprocal of the concept's Related extension"
+    },
+    {
+      "into": "Self-concordance theory",
+      "link": "Intrinsic versus extrinsic goals",
       "why": "new Related entry on the concept page; reciprocal of the concept's Related extension"
     }
   ]
