@@ -12,15 +12,27 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 63** — Practise gratitude: it recalibrates attention toward what is good
 
-Gratitude is not just a feeling; it is an attentional and cognitive practice of recognising and appreciating what is good in your life. It is one of the most robustly supported positive psychology interventions.
+Gratitude, as studied in the lab, is a practice of directing attention: recognising and appreciating what is good rather than what is lacking. The original experiment put it directly, assigning participants to list blessings, hassles or neutral life events for weeks on end. Its conclusion was measured:
 
-**Plain words** Gratitude is an attentional practice — recognising and appreciating what is good — not just a feeling. One of the most robustly supported interventions in the field: it recalibrates attention toward the good that's actually there. Practise it as training, not mood.
+> "Results suggest that a conscious focus on blessings may have emotional and interpersonal benefits." (Emmons & McCullough, 2003 — [Counting blessings versus burdens](https://emmons.faculty.ucdavis.edu/wp-content/uploads/sites/90/2015/08/2003_2-Emmons_McCullough_2003_JPSP.pdf) — Abstract)
 
-*For example:* The person who writes three specific things each night — not "family" but "the way Dad mispronounced 'quinoa' at dinner" — and finds the practice does what it's designed to do: the attention starts catching the good in the wild, unaided.
+The paper's own framing is attentional: it treats the ability to notice, appreciate and savour the elements of one's life as a determinant of well-being. The evidence base has since grown large, and its pooled effect is honestly small: a preregistered meta-analysis of 145 papers, 163 samples, 727 effect sizes and 24,804 participants across 28 countries found that gratitude interventions led to small overall increases in well-being (Hedges' g = 0.19) (Choi et al., 2025).
+
+**Plain words**
+The day contained the flat tire and the friend who waited with you; the journal decides which one gets written down. That is the recalibration: not a command to feel better, but a decision about where the pen goes. Treat it as attention training with a small but real pooled effect, not as a mood switch.
+
+**For example**
+The nightly list of three specific things: not "family" but "the way Dad mispronounced 'quinoa' at dinner". The compendium's suggestion: write specific moments rather than categories; the specificity is the attentional exercise.
+
+## Sources
+
+- [Emmons & McCullough 2003, Counting Blessings Versus Burdens, Journal of Personality and Social Psychology 84(2), full text](https://emmons.faculty.ucdavis.edu/wp-content/uploads/sites/90/2015/08/2003_2-Emmons_McCullough_2003_JPSP.pdf) — the blessing-listing experiments and their measured conclusion.
+- [Choi, Cha, McCullough, Coles & Oishi 2025, A meta-analysis of the effectiveness of gratitude interventions on well-being across cultures, PNAS 122(28), PMC full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC12280877/) — 145 papers, 28 countries, pooled Hedges' g = 0.19.
+
 ## Psychology parallels
 
-- **Gratitude interventions increase well-being**, gratitude journaling and gratitude letters reliably increase positive affect and life satisfaction (Emmons & McCullough, 2003; Wood et al., 2010)
-- **Effects are modest and can fade with repetition; variation matters**, rotating prompts and varying the practice prevents adaptation (Lyubomirsky et al., 2011)
+- **Gratitude interventions show small pooled effects**, a preregistered meta-analysis across 145 papers and 28 countries found small overall increases in well-being (g = 0.19; Choi et al., 2025)
+- **Combining intervention types strengthens effects**, effectiveness was greater when multiple types of gratitude interventions were combined (Choi et al., 2025)
 
 ## Philosophy parallels
 
