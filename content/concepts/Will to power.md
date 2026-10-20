@@ -17,7 +17,7 @@ Beyond Good and Evil 36 presents the concept as a methodological wager rather th
 
 ### The two facets in the compendium
 
-The page's inherited facets mark the concept's two lives. As organising principle, it is the BGE 36 wager: one force described from within. As self-overcoming, it is the practical reading the compendium's principles work with — E103's Selbstüberwindung and E108's practice principle — where the strength discharged is one's own form of life, overcome and remade. E103's own page ties the drive to the Zarathustra chapter "Of Self-Overcoming": "Wherever I found a living thing, there found I Will to Power." The compendium's Daoist contrast, D133, keeps the domination reading at arm's length: the world cannot be controlled, and the will to power here is not power over it.
+The page's inherited facets mark the concept's two lives. As organising principle, it is the BGE 36 wager: one force described from within. As self-overcoming, it is the practical reading the compendium's principles work with — E103's Selbstüberwindung and E108's practice principle — where the strength discharged is one's own form of life, overcome and remade. E103's own page ties the drive to the Zarathustra chapter "Of Self-Overcoming": "Wherever I found a living thing, there found I Will to Power." The compendium's Daoist contrast D133 (Don't dominate) names the domination question on the other side of that reading.
 
 ### In the compendium
 

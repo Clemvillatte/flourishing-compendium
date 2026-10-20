@@ -38,3 +38,23 @@
 ## Validation
 
 - enrich_validate.py content/concepts/Intrinsic motivation.md — ok.
+
+## Round-2 repairs (2026-10-20, advisor QC)
+
+- Opening sentences combined into one cited sentence per the advisor's wording.
+- "Inherent rather than learned" removed; the quotation now introduced as Ryan
+  and Deci's description of exploration and play. "The healthy state does not
+  survive every environment" replaced with the reported-pattern framing.
+- "Best-known finding" removed; the rewards passage now presented as the
+  paper's 2000 summary with its qualifications kept (expected, tangible,
+  contingent). MO062 gloss grounded in its body ("as celebration of progress
+  rather than as the reason for the behaviour").
+- The American Psychologist PDF fetched directly this round; the inherent-
+  tendency quotation verified on p. 70.
+- Y040 gloss narrowed to its body's content (ethics not performed for
+  reputation).
+- 4 reciprocals withdrawn to drafts/w1b/intrinsic-motivation-proposals-deferred.md
+  (Self-concordance theory, Eudaimonic well-being, Growth mindset, Mastery
+  orientation); the four Related lines are now bare links; the Extrinsic
+  motivation contrast stands.
+- Inline proposal phrases changed to the plain "intrinsic motivation".

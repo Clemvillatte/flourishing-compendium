@@ -23,3 +23,10 @@
 
 - enrich_validate.py content/concepts/Education as growth.md — ok (after
   prose-length repair).
+
+## Round-2 addendum (2026-10-20, advisor QC)
+
+- The "rejects all three ends" elaboration removed: the chapter-5 title
+  establishes which views Dewey discusses, not the specific rejections claimed.
+  Replaced with a connective sentence grounded in the two fetched ch. 4
+  quotations.

@@ -26,3 +26,10 @@
 ## Validation
 
 - enrich_validate.py content/concepts/Associated living.md — ok.
+
+## Round-2 addendum (2026-10-20, advisor QC)
+
+- "The experience is conjoint or it is not democracy, whatever the institutions
+  say" removed as going beyond the supplied passage; replaced with a mechanism
+  sentence grounded in the passage's second sentence (participation in an
+  interest; referring one's action to others; the barrier-breaking equation).

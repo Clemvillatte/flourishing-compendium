@@ -7,17 +7,17 @@ file: "Intrinsic motivation"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-I"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter I", "parent": ""}
 ---
-Intrinsic motivation is self-determination theory's name for doing an activity for the satisfaction inherent in it. The construct's classic definition comes from Ryan and Deci's 2000 review; its contrast case, extrinsic motivation, is doing the same activity for a separable outcome.
+Intrinsic motivation means doing an activity for its inherent satisfaction rather than for a separable consequence; Ryan and Deci contrast this with extrinsic motivation, which pursues a separable outcome ([Ryan and Deci 2000, p. 56](https://www.selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_IntExtDefs.pdf)).
 
 > "Intrinsic motivation is defined as the doing of an activity for its inherent satisfactions rather than for some separable consequence. When intrinsically motivated a person is moved to act for the fun or challenge entailed rather than because of external prods, pressures, or rewards." (Ryan and Deci 2000, Contemporary Educational Psychology 25, p. 56, [PDF](https://www.selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_IntExtDefs.pdf))
 
 ### A healthy-state tendency
 
-The theory treats the tendency as inherent rather than learned: "From birth onward, humans, in their healthiest states, are active, inquisitive, curious, and playful creatures, displaying a ubiquitous readiness to learn and explore, and they do not require extraneous incentives to do so" ([Ryan and Deci 2000, PDF](https://www.selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_IntExtDefs.pdf)). The companion review calls it "the inherent tendency to seek out novelty and challenges, to extend and exercise one's capacities, to explore, and to learn" (Ryan and Deci 2000, American Psychologist 55, [PDF](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf)). The healthy state does not survive every environment: "In schools, for example, it appears that intrinsic motivation becomes weaker with each advancing grade" ([PDF](https://www.selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_IntExtDefs.pdf)).
+The theory describes the tendency through exploration and play: "From birth onward, humans, in their healthiest states, are active, inquisitive, curious, and playful creatures, displaying a ubiquitous readiness to learn and explore, and they do not require extraneous incentives to do so" ([Ryan and Deci 2000, "Intrinsic and Extrinsic Motivations"](https://www.selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_IntExtDefs.pdf)). The companion review calls it "the inherent tendency to seek out novelty and challenges, to extend and exercise one's capacities, to explore, and to learn" (Ryan and Deci 2000, American Psychologist 55, p. 70, [PDF](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf)). The review also reports an apparent decline across school grades: "In schools, for example, it appears that intrinsic motivation becomes weaker with each advancing grade" ([Ryan and Deci 2000, "Intrinsic and Extrinsic Motivations"](https://www.selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_IntExtDefs.pdf)).
 
 ### The undermining effect
 
-The construct's best-known finding is that rewards can crowd it out. The research program began with demonstrations that extrinsic rewards undermine intrinsic motivation, interpreted "in terms of the reward shifting people from a more internal to external perceived locus of causality"; the meta-analytic verdict is that "virtually every type of expected tangible reward made contingent on task performance does, in fact, undermine intrinsic motivation" ([Ryan and Deci 2000, PDF](https://www.selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_IntExtDefs.pdf)). The compendium's rewards principle (MO062) marks the practical boundary: reinforcement for maintenance, not payment for what interest should carry.
+The paper's rewards discussion is a 2000 summary of a research program that began with demonstrations that extrinsic rewards can undermine intrinsic motivation, interpreted "in terms of the reward shifting people from a more internal to external perceived locus of causality." Its meta-analytic verdict, with the qualifications kept: "virtually every type of expected tangible reward made contingent on task performance does, in fact, undermine intrinsic motivation" ([Ryan and Deci 2000, "Intrinsic and Extrinsic Motivations"](https://www.selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_IntExtDefs.pdf)). The compendium's rewards principle MO062 frames the practical skill as using rewards "as celebration of progress rather than as the reason for the behaviour."
 
 ### In the compendium
 
@@ -27,15 +27,15 @@ The construct's best-known finding is that rewards can crowd it out. The researc
 - [[D084 — Value the useless]] — the Daoist cousin: worth beyond instrumental value.
 - [[A112 — Distinguish leisure from amusement]] and [[A080 — Choose activities for their completeness]] — the Aristotelian framing of worth.
 - [[M049 — Perfect the smallest work]] and [[A016 — Practice proper ambition (philotimia)]] — the craft and ambition readings.
-- [[Y040 — Never perform ethics for an audience]] — the Gita's action without eye on the outcome.
+- [[Y040 — Never perform ethics for an audience]] — the Gita's ethics not performed for reputation.
 
 ## Related concepts
 
 - [[Extrinsic motivation]] — the contrast case the definition builds on
-- [[Self-concordance theory]] — the goal-selection theory in the same family
-- [[Eudaimonic well-being]] — the well-being concept the motivation feeds
-- [[Growth mindset]] — the belief structure that keeps challenge welcome
-- [[Mastery orientation]] — the goal structure that keeps pursuit intrinsic
+- [[Self-concordance theory]]
+- [[Eudaimonic well-being]]
+- [[Growth mindset]]
+- [[Mastery orientation]]
 
 ## Sources
 

@@ -32,3 +32,10 @@
 
 - enrich_validate.py content/concepts/Appraisal theory.md — ok (after two
   repairs: prose length; em-dash budget).
+
+## Round-2 addendum (2026-10-20, advisor QC)
+
+- Both quoted PDFs fetched directly this round (the Lazarus 1991 chapter PDF
+  and the Krohne paper); all four quoted passages verified verbatim from the
+  fetches. The ledger's earlier "via search extract" entries are superseded by
+  these fetches.

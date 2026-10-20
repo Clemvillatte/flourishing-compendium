@@ -36,3 +36,9 @@
 ## Validation
 
 - enrich_validate.py content/concepts/Will to power.md — ok.
+
+## Round-2 addendum (2026-10-20, advisor QC)
+
+- The D133 sentence repaired: D133's title does not substantiate excluding
+  domination from Nietzsche's concept; the gloss now names D133 as marking the
+  domination question, without the exclusion claim.

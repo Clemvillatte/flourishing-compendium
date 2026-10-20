@@ -28,3 +28,11 @@
 
 - enrich_validate.py content/concepts/Agape.md — ok (after two repairs: banned
   phrase "testament" in prose; em-dash budget 6 -> 2; prose length 118 -> 150+).
+
+## Round-2 addendum (2026-10-20, advisor QC)
+
+- D031's tradition corrected: its body grounds it in Daodejing 67 (Laozi's
+  three treasures), so the gloss now reads "the Daoist counterpart: Laozi's
+  first treasure" (it had wrongly said Confucian).
+- "The tradition's most systematic treatment" superlative removed ("Aquinas's
+  systematic treatment").
