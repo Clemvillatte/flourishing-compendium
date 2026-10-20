@@ -12,11 +12,31 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BE — Overt Be
 ---
 > **Principle 39** — Learn CBT-I: the gold standard for insomnia
 
-Cognitive behavioural therapy for insomnia (CBT-I) is the first-line treatment for chronic insomnia. It combines sleep hygiene, stimulus control, sleep restriction, and cognitive restructuring.
+The strongest recommendation in the American Academy of Sleep Medicine's 2021 guideline on behavioral and psychological treatments for chronic insomnia disorder goes to multicomponent CBT-I ([full text via PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7853203/)):
 
-**Plain words** CBT-I is the gold-standard insomnia treatment — better than sleeping pills long-term, without the dependency. It's a programme: restriction, consolidation, retraining the bed-sleep association. For chronic insomnia, this is the referral.
+> "We recommend that clinicians use multicomponent cognitive behavioral therapy for insomnia for the treatment of chronic insomnia disorder in adults. (STRONG)" (Edinger et al., "Behavioral and psychological treatments for chronic insomnia disorder in adults: an American Academy of Sleep Medicine clinical practice guideline", Journal of Clinical Sleep Medicine 17(2), 2021, [full text via PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7853203/))
 
-*For example:* The person who's "tried everything" — except the one protocol with the strongest evidence. Not another supplement; a structured retraining of the night itself. That's the ticket.
+The guideline describes what the treatment actually involves:
+
+> "CBT-I combines one or more of the cognitive therapy strategies with education about sleep regulation plus stimulus control instructions and sleep restriction therapy. CBT-I also often includes sleep hygiene education, relaxation training and other counter-arousal methods." (Edinger et al., 2021, [full text via PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7853203/))
+
+The components have an evidence base of their own. A systematic review of 37 treatment studies (N = 2246) concluded:
+
+> "Five treatments met criteria for empirically-supported psychological treatments for insomnia: Stimulus control therapy, relaxation, paradoxical intention, sleep restriction, and cognitive-behavior therapy." (Morin, Bootzin, Buysse, Edinger, Espie & Lichstein, "Psychological and behavioral treatment of insomnia: update of the recent evidence (1998-2004)", Sleep 29(11), 2006, abstract, [PDF](https://www.med.upenn.edu/cbti/assets/user-content/documents/Review_Insomnia.pdf))
+
+Sleep hygiene by itself does not carry the recommendation: the guideline suggests against using it as a single-component therapy, while noting it may appear inside multicomponent interventions ([Edinger et al., 2021, via PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7853203/)).
+
+**Plain words**
+For insomnia that has dragged on for months, the sleep-medicine guideline to ask for is CBT-I. It is a skills programme: a steady wake time, bed for sleep only, time in bed matched to actual sleep, and calmer beliefs about what one bad night does.
+
+**For example**
+The person who has tried melatonin, lavender and phone apps but never kept a sleep diary or held one fixed wake time. The protocol asks for both, and for a few weeks of patience before the numbers move.
+
+## Sources
+
+- [Edinger et al., "Behavioral and psychological treatments for chronic insomnia disorder in adults: an American Academy of Sleep Medicine clinical practice guideline", J Clin Sleep Med 17(2), 255-262 (2021), full text via PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7853203/) — strong recommendation for multicomponent CBT-I; description of CBT-I components; conditional recommendation against sleep hygiene as a single-component therapy. Quotes verified by fetch_url. DOI [10.5664/jcsm.8986](https://doi.org/10.5664/jcsm.8986)
+- [Morin et al., "Psychological and behavioral treatment of insomnia: update of the recent evidence (1998-2004)", Sleep 29(11), 1398-1414 (2006), PDF mirror](https://www.med.upenn.edu/cbti/assets/user-content/documents/Review_Insomnia.pdf) — systematic review of 37 studies (N = 2246); five empirically supported treatments listed in the abstract. DOI [10.1093/sleep/29.11.1398](https://doi.org/10.1093/sleep/29.11.1398)
+
 ## Psychology parallels
 
 - **CBT-I is the gold standard for insomnia**, superior to medication in the long term (Morin et al., 2006; Riemann et al., 2010)

@@ -55,6 +55,13 @@
       "phrase": "Graded exposure therapy",
       "why": "the graded-exposure principle covers the approach treatment without linking BE025, which documents why avoidance maintains the fear the treatment targets",
       "notes": "found by mention scan during BE025 saturation"
+    },
+    {
+      "into": "B092",
+      "type": "principle",
+      "phrase": "insomnia approached with curiosity",
+      "why": "B092 uses insomnia as its worked example for approaching discomfort with curiosity; BE039 documents the structured treatment (CBT-I) whose cognitive component does exactly that reframe",
+      "notes": "found by mention scan during BE039 saturation"
     }
   ],
   "inline": [
