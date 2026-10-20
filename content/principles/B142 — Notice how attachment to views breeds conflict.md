@@ -12,13 +12,19 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 142** — Notice how attachment to views breeds conflict
 
-Quarrels arise from views: identity fused with opinion turns disagreement into threat. Hold views lightly and watch conflict soften.
+The Madhupindika Sutta traces the mechanism step by step. A feeling arises, gets labeled, gets thought about, and gets objectified; based on that objectification, "the perceptions & categories of objectification assail" a person, and among what follows are "the obsessions of views" (MN 18, Thanissaro translation, [Access to Insight](https://accesstoinsight.org/tipitaka/mn/mn.018.than.html)). The sutta names what ends when "there is nothing there to relish, welcome, or remain fastened to":
 
-(Dhammapada 6; Madhupindika Sutta, MN 18.)
+> "That is the end of taking up rods & bladed weapons, of arguments, quarrels, disputes, accusations, divisive tale-bearing, & false speech. That is where these evil, unskillful things cease without remainder." (MN 18, Thanissaro translation, [Access to Insight](https://accesstoinsight.org/tipitaka/mn/mn.018.than.html))
 
-**Plain words** Quarrels arise from views — identity fused with opinion turns disagreement into threat. Hold views lightly and watch conflict soften. You're not arguing about the topic; you're arguing about whether you're allowed to be wrong and still be okay.
+The sutta was spoken to monks and states its result for one who does not relish or remain fastened; it does not promise that lightly held views will soften any particular argument. The exercise the compendium takes is to catch the chain in the act: in one live disagreement, track which part of the position is information and which part is the self riding on it.
 
-*For example:* The family dinner that ignites over politics — nobody was discussing policy; everybody was defending their right to exist.
+### Plain words
+
+Watch a disagreement for the moment the topic stops mattering and the self starts mattering. The sutta's chain ends at objectification: a thought becomes a thing, and you defend the thing the way you would defend your body. The view is not the danger; the fastening is.
+
+### For example
+
+Take a family dinner that ignites over politics. At the moment it ignites, nobody is weighing policy; each side is defending its standing in the room. The exercise is to notice that switch as it happens. The dinner may still burn; the mechanism is now visible.
 
 ## Psychology parallels
 
