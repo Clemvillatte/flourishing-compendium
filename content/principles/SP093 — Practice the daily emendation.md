@@ -25,7 +25,7 @@ Try this with an upsetting exchange. Write down what happened separately from wh
 
 ## Psychology parallels
 
-- **Daily self-monitoring and [[Affect labeling|affect labeling]]**, the combination of tracking and naming as an intervention (Lally et al., 2010, for the tracking habit; Lieberman et al., 2007, for labeling)
+- **Daily self-monitoring and [[Affect labeling|affect labeling]]** (Lally et al., 2010; Lieberman et al., 2007)
 
 ## Philosophy parallels
 

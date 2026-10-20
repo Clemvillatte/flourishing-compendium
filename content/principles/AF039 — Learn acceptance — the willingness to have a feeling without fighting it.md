@@ -16,7 +16,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 
 > "He feels one pain: physical, but not mental." (Sallatha Sutta, SN 36.6, [Thanissaro](https://www.accesstoinsight.org/tipitaka/sn/sn36/sn36.006.than.html))
 
-The sutta's application to emotional acceptance is the compendium's comparison, not an experimentally established mechanism: resistance to a feeling adds a layer of distress on top of it, and acceptance declines to add that layer. The experimental record cautions against stronger claims. In two samples using sad films, reappraisal produced larger decreases in negative emotion and larger increases in positive emotion than acceptance. Participants rated acceptance less difficult to use. These findings concern short-term responses to films, not the duration of panic attacks ([Troy et al., 2018, Emotion 18(1), 58-74](https://pubmed.ncbi.nlm.nih.gov/29154585/)).
+The sutta's application to emotional acceptance is the compendium's comparison, not an experimentally established mechanism: resistance to a feeling adds a layer of distress on top of it, and acceptance declines to add that layer. The experimental record cautions against stronger claims. In two samples using sad films, reappraisal produced larger decreases in negative emotion and larger increases in positive emotion than acceptance ([Troy et al., 2018](https://pubmed.ncbi.nlm.nih.gov/29154585/)). Participants rated acceptance less difficult to use. These findings concern short-term responses to sad films.
 
 **Plain words**
 Notice the feeling and your response to having it. Are you frightened, and also judging yourself for being frightened? The suggested practice is to let the feeling be present while you decide what to do next.
@@ -25,8 +25,8 @@ Notice the feeling and your response to having it. Are you frightened, and also 
 
 ## Psychology parallels
 
-- **Acceptance is a core ACT process**, willingness to experience internal states without avoidance predicts better outcomes across disorders (Hayes et al., 2011; Levin et al., 2015)
-- **Acceptance reduces distress in experimental paradigms**, accepting a negative stimulus reduces physiological reactivity compared to suppression (Hofmann et al., 2009)
+- **Acceptance as an ACT process** (Hayes et al., 2011; Levin et al., 2015)
+- **Acceptance and suppression in experimental paradigms** (Hofmann et al., 2009)
 
 ## Philosophy parallels
 

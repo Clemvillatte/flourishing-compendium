@@ -11,13 +11,13 @@
  "in_progress": null,
  "flagged": {
   "SE042": "Reopened for QC: QC round 1 (advisor): traits-opposition misread, causal inference, unopened White & Epston gloss, plain-words duplication; repairing",
-  "SP093": "Reopened for QC: milestone QC round 1 (advisor): unsupported mechanisms/guarantees; repairs per advisor",
-  "AF039": "Reopened for QC: milestone QC round 1: unsupported proportions, clinical promise in example, editing-narration; repairs per advisor",
-  "AF050": "Reopened for QC: milestone QC round 1: signal-accuracy assumption, converge-with-literature claim, repair-guarantee; repairs per advisor",
-  "AF077": "Reopened for QC: milestone QC round 1: mechanism overreach; repairs applied to file (see ledger)"
+  "SP093": "Reopened for QC: milestone QC round 2",
+  "AF039": "Reopened for QC: milestone QC round 2",
+  "AF050": "Reopened for QC: milestone QC round 2",
+  "AF077": "Reopened for QC: milestone QC round 2"
  },
  "missing_concepts": [],
  "sources_checked": 9,
- "updated": "2026-10-20T16:13:15+00:00",
+ "updated": "2026-10-20T16:17:38+00:00",
  "band_done": false
 }

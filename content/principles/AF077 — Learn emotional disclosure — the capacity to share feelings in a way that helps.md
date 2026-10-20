@@ -24,8 +24,8 @@ Before sharing, consider what you want from the conversation: someone to listen,
 *For example (imagined):* Someone writes a private account of an argument, then asks a trusted friend to listen to the part they want help understanding.
 ## Psychology parallels
 
-- **Expressive writing improves well-being**, structured writing about difficult experiences improves physical and mental health outcomes (Pennebaker & Beall, 1986; Frattaroli, 2006)
-- **Disclosure works through meaning-making, not catharsis**, the benefit comes from organising and making sense of the experience, not from releasing emotion (Pennebaker, 1997)
+- **Expressive writing** (Pennebaker & Beall, 1986; Frattaroli, 2006)
+- **Catharsis and disclosure** (Pennebaker, 1997)
 
 ## Philosophy parallels
 
@@ -34,7 +34,7 @@ Before sharing, consider what you want from the conversation: someone to listen,
 
 ## Practice
 
-- Write about a difficult experience for 15-20 minutes, 3-4 days in a row. Focus on what it meant and how you made sense of it, not just on venting the emotion.
+- Write about a difficult experience for 15-20 minutes, 3-4 days in a row.
 
 ## Related concepts
 
@@ -44,4 +44,4 @@ Before sharing, consider what you want from the conversation: someone to listen,
 ## Sources
 
 - [Frattaroli, J. (2006). Experimental disclosure and its moderators: a meta-analysis. Psychological Bulletin, 132(6), 823-865 (PubMed abstract).](https://pubmed.ncbi.nlm.nih.gov/17073523/)
-- [Reinhold, M., Bürkner, P.-C., & Holling, H. (2018). Effects of expressive writing on depressive symptoms: a meta-analysis. Clinical Psychology: Science and Practice, 25(1), e12224 (full text).](https://onlinelibrary.wiley.com/doi/full/10.1111/cpsp.12224)
+- [Reinhold et al. (2018). Effects of expressive writing on depressive symptoms: a meta-analysis. Clinical Psychology: Science and Practice (full text).](https://onlinelibrary.wiley.com/doi/full/10.1111/cpsp.12224)
