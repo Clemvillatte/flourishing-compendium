@@ -14,7 +14,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 
 Nishida's late term action-intuition, kōiteki chokkan, names a specific kind of knowing, and its formula is blunt:
 
-> "We see by becoming things." (Nishida, Last Writings, trans. Dilworth, p. 102; quotation reproduced in [Hetrick 2024, Acta Sociologica / AS](https://journals.uni-lj.si/as/article/view/16109))
+> "We see by becoming things." (Nishida, Last Writings, trans. Dilworth, p. 102, as cited in Hetrick 2024; quotation reproduced in [Hetrick 2024](https://journals.uni-lj.si/as/article/download/16109/15593/58359))
 
 In the Stanford Encyclopedia's account of the term, one gives oneself over to the things one would know, "seeing them by interacting with them and interacting by allowing them to transform oneself"; the artist's taking in of the world and transforming of it are "two moments in a single unfolding" of the artist as much as of the work. Nishida tied the late term back to his first book: "That which I called...the world of pure experience I have now come to think of as the world of historical reality. The world of enactive intuition—the world of poiesis—is none other than the world of pure experience" (Preface, 1936 reprint of An Inquiry into the Good, quoted in the [Stanford Encyclopedia](https://plato.stanford.edu/entries/nishida-kitaro/)).
 
@@ -22,11 +22,11 @@ In the Encyclopedia's account the relation runs both ways: the individual histor
 
 **Plain words** Each movement changes the clay, and the clay's response changes the potter's next movement; maker and work take shape together. That is the shape of Nishida's formula: you see by becoming things, and you are changed by what you become.
 
-*For example:* You can read about hospice care for a year; sitting with someone who is dying changes the knowing, and the knowing changes how you sit.
+For example: You can read about hospice care for a year; sitting with someone who is dying changes the knowing, and the knowing changes how you sit.
 
 ## Sources
 
-- [Nishida Kitarō, Last Writings: Nothingness and the Religious Worldview, trans. David Dilworth (University of Hawai'i Press, 1987)](https://journals.uni-lj.si/as/article/download/16109/15593/58359) — "We see by becoming things" (p. 102), quotation reproduced in the opened Hetrick 2024 article (DOI 10.4312/as.2024.12.2.309-341)
+- [Hetrick, "Toward a Critical Non-Humanism in Postwar Japan" (2024, DOI 10.4312/as.2024.12.2.309-341)](https://journals.uni-lj.si/as/article/download/16109/15593/58359) — opened carrier; quotes Nishida, Last Writings, trans. Dilworth, as "Nishida 1989, 102"
 - [Nishida Kitarō, Stanford Encyclopedia of Philosophy entry](https://plato.stanford.edu/entries/nishida-kitaro/) — action-intuition account and the Preface quotation (Nishida 1911c: xxxiii)
 
 ## Psychology parallels

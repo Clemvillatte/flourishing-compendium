@@ -23,7 +23,7 @@ The test is his fundamental koan, a question anyone can put to themselves alone,
 **Plain words**
 Hisamatsu includes thinking, feeling, sitting and standing in the predicament: none of them gives a final place to stand. His question keeps the demand for action in it, and the formless self he points to is connected with activity in the world, not with a blank. ([FAS Society text, sections 5-6](http://www.fas.x0.com/writings/hisamatsu/FAS%20hisamatsu.pdf))
 
-*For example:* After retirement, a surgeon notices how often she uses her former title to claim authority. She takes this as an occasion to examine her dependence on that role, while leaving open the larger question Hisamatsu asks of every way of being.
+For example: After retirement, a surgeon notices how often she uses her former title to claim authority. She takes this as an occasion to examine her dependence on that role, while leaving open the larger question Hisamatsu asks of every way of being.
 
 ## Sources
 

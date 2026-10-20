@@ -22,13 +22,13 @@ The counter-intuitive direction is the training: inhale the bad, exhale the good
 
 **Plain words** Tonglen means imagining taking in what hurts and imagining sending out what helps: you picture the suffering coming into your heart, and your happiness going out to them. The breath carries it because it is the one thing already running in every situation, so the practice works in hospital corridors and in front of bad news, not only on the cushion. The imagining is of taking in the pain, not of feeling the other person's pain as if it were yours. And the direction is deliberate: take in the bad, send out the good.
 
-*For example:* Sitting with a friend's grief in the hospital corridor and quietly imagining breathing in her fear, breathing out something steady.
+For example: Sitting with a friend's grief in the hospital corridor and quietly imagining breathing in her fear, breathing out something steady.
 
 ## Sources
 
 - [Jamgön Kongtrül, The Great Path of Awakening, trans. Ken McLeod (Shambhala)](https://www.tibetanbuddhistencyclopedia.com/en/wiki/Lojong_-_Tonglen) — taking-and-sending commentary quoted verbatim on the opened Tibetan Buddhist Encyclopedia page
 - [B. Alan Wallace, A Passage from Solitude (Snow Lion, 1992)](https://www.tibetanbuddhistencyclopedia.com/en/wiki/Lojong_-_Tonglen) — practice-on-the-spot passage quoted verbatim on the same opened page
-- Root slogan renderings: "Train in taking and sending alternately. Put them on the breath" (McLeod); "Sending and taking should be practiced alternately. These two should ride the breath" (Nalanda Translation Committee)
+- Root slogan rendering: "Train in taking and sending alternately. Put them on the breath" (McLeod translation, as carried on the opened TBE page)
 
 ## Psychology parallels
 

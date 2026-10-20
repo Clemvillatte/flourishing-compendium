@@ -24,7 +24,7 @@ The combination the slogan asks for is both halves at once: appearances taken as
 
 **Plain words** The instruction is for the hours after the sitting. The idea it rests on, in Wallace's commentary, is that what you meet exists not as intrinsic entities but as dependently related events. So the practice is not deciding that events are imaginary; it is entering the same activity with the knowledge that it is put together, which leaves more room in it. When the day turns heavy and solid, that is the cue to work from that knowledge.
 
-*For example:* Giving a big presentation completely, and also quietly knowing it's one presentation among many, you speak with more freedom.
+For example: Giving a big presentation completely, and also quietly knowing it's one presentation among many, you speak with more freedom.
 
 ## Sources
 
