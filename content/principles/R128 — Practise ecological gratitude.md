@@ -12,13 +12,27 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 390** — Practise ecological gratitude
 
-Cultivate gratitude for the natural world that sustains you. The air you breathe, the water you drink, the food you eat, the beauty you enjoy — these are gifts, not entitlements. Practise ecological gratitude by giving thanks, by caring for the sources of your life, and by living in a way that honours the gift.
+Kimmerer's Potawatomi teaching, the Honorable Harvest, is gratitude turned into harvest rules. The restraint comes first: never take the first one, whether berries or firewood or basket plants, because that self-restraint means you are never the one who takes the last. Then the ceiling: never take more than half, leaving some for the thriving of the plant and for the other beings who want and need berries or medicines too. And then the thanks.
 
-(Mayer and Frantz, 2004, "The Connectedness to Nature Index," Journal of Environmental Psychology, 24(4), 503-515; Howell et al., 2011, "Nature Connectedness," Ecopsychology, 3(4), 234-240.)
+> And the Honorable Harvest begins with the fact that we never take the first one; whether it's berries or firewood or basket plants, you never take the first one. And this self-restraint means that you're never going to take the last one.
+> (Robin Wall Kimmerer, Practical Reverence interview)
 
-**Plain words** The air, water, food, beauty — gifts, not entitlements. Ecological gratitude: give thanks, care for the sources of your life, and live in a way that honours the gift. Gratitude here is a practice with consequences.
+> So you really pay gratitude, not just in that sort of flip thank you, but a real recognition that your life is inextricably tied to theirs.
+> (Kimmerer, Practical Reverence interview)
 
-*For example:* The family that starts saying an actual grace again — not piety, but naming aloud what the meal cost the soil, the rain, and the hands — and the table slowly changes what it throws away.
+The psychology side measures the connection rather than the rules. Mayer and Frantz's connectedness to nature scale was built through five studies, and their paper supports ecopsychologists' contention that connection to nature is an important predictor of ecological behavior and subjective wellbeing.
+
+The compendium's application: take the harvest rules to the grocery store. Use everything you take, waste less on purpose, and when you give thanks for a meal, name what it cost: the soil, the rain, the hands.
+
+**Plain words** Ecological gratitude is thank-you notes to things that cannot read them, and the thanks is in the behaviour. Before you take, ask whether you need it; take less than half of what is there; use what you take; give something back, weeding, compost, money to the watershed. The alternative is treating air, water and food as background services, which is how they get used up.
+
+*For example:* A family starts saying an actual grace again, naming aloud what the meal cost the soil, the rain and the hands.
+
+## Sources
+
+- [Practical Reverence: An Interview with Robin Wall Kimmerer, Emergence Magazine](https://emergencemagazine.org/conversation/practical-reverence/)
+- [Mayer and Frantz, The connectedness to nature scale, Journal of Environmental Psychology 2004 (Oberlin repository record)](https://digitalcommons.oberlin.edu/faculty_schol/2433/) — 24(4), 503-515
+
 ## Stories
 
 - [[ST255 — The Green Fire Dies|255. The Green Fire Dies]]
