@@ -66,3 +66,19 @@
 - Validation: --fast-track ok (concept <15 connections; prose minimum waived; all other
   checks pass; pre-existing "fewer than 3 Related-concepts lines" warning is inherited).
   Build ok (5718 entries, fcAuthored 976).
+
+
+## The natural rhythm of warmth and cool (2026-10-20, fast-track; degree 9 — eligible)
+
+- OPENED: Zhuangzi, Legge translation, ETH Zurich PDF (same file as the butterfly item,
+  raw pdftotext in hand) https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf
+  — chapter 6 ("The Great and Most Honoured Master") section 1; the "True men of old"
+  passage verified in the raw text; locator confirmed (chapter heading at the passage,
+  section marker 1 before it, no further marker until after the quote). One verbatim
+  blockquote used; the closing sentence's "mind free from all thought / demeanour still"
+  also verified in the same raw passage.
+- IS-IT-A-CONCEPT check: a named Daoist image (seasonal warmth/coolness of the sage's
+  emotional life) grounded in the opened primary text — not a principle, comparison, or
+  hallucination. No prior disposition in concept-namespace-audit.md.
+- Validation: --fast-track ok (concept <15 connections; prose minimum waived; all other
+  checks pass). Build ok (5718 entries, fcAuthored 976).
