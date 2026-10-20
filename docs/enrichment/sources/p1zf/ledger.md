@@ -53,3 +53,7 @@
 ## K018 — Interpenetration
 - Sources opened: SEP Huayan §1.3 (verbatim Indra's net; note SEP calls it pre-Buddhist myth adopted in Avatamsaka Sutra); SEP Kyoto School §§3.2, 3.5 (verbatim; page does not mention "circuminsessional" or Indra's net); Nishitani RN p.148 via Qin (philarchive.org/archive/QINIOT-2) search excerpt: secondary quote, book not opened.
 - The practice instruction (one minute seeing the person as conditioned) flagged as compendium's. Clark 2013 and Nguni proverb bullets inherited, unverified; the page's claim "things exist only in mutual reference" softened because Nishitani says each remains "absolutely unique".
+
+## K031 — Abandon any expectation of results
+- Sources opened: Lotsawa House, Seven Points of Mind Training, trans. Adam Pearcey 2012, section 6 (commitment 6, verbatim); Judy Lief, The Slogans of Atisha, slogan 28 (verbatim).
+- Corrections: old citation "Point Two" was wrong; the slogan is under Point Six (commitments), commonly slogan 28. Wulf 2007 claim ("process focus outperforms outcome focus under pressure") removed, unverified and likely mismatched (Wulf's work concerns attentional focus in motor learning; not checked). BG 2.47 and Seneca bullets inherited, unverified. Weekly exercise flagged as the compendium's. Example labelled imagined.
