@@ -9,11 +9,35 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Meaning — the sense that life is about something: purpose, coherence, and mattering. Frankl made it the primary human drive; the traditions converge on meaning as made through work, love, and the stance taken toward suffering.
 
+Viktor Frankl survived the camps and built a psychology around the claim that meaning is a primary human need, not a luxury that arrives after comfort. Where Freud placed the will to pleasure and Adler the will to power, Frankl placed what he called the will to meaning. In the second half of Man's Search for Meaning he sets out the routes plainly:
+
+> According to logotherapy, we can discover this meaning in life in three different ways: (1) by creating a work or doing a deed; (2) by experiencing something or encountering someone; and (3) by the attitude we take toward unavoidable suffering.
+
+The first way is achievement. The second runs through experience: goodness, truth, beauty, nature, culture, or another person "in his very uniqueness;—by loving him". The third Frankl names without decoration:
+
+> The third way of finding a meaning in life is by suffering.
+
+He guards the third way with a condition that matters for any account of flourishing. Suffering is not a requirement for meaning; where suffering can be removed, the meaningful act is to remove it. What he insists on is that meaning survives even the fate that cannot be changed:
+
+> In accepting this challenge to suffer bravely, life has a meaning up to the last moment, and it retains this meaning literally to the end. In other words, life's meaning is an unconditional one, for it even includes the potential meaning of unavoidable suffering.
+
+### Why it matters for flourishing
+
+The three ways translate the seed's triad into practice. Work and deeds carry purpose, the sense of being about something. Love and encounter carry mattering, the sense that someone and something count. The stance taken toward unavoidable suffering carries coherence, the part of a life story that holds when circumstances do not. A flourishing life draws on all three rather than betting itself on one. And the guard matters as much as the routes: none of this romanticises pain. Where a cause of suffering can be removed, removing it is the meaningful act, and the meaning that remains is the one carried by attitude alone.
+
+Meaning so understood is a practice rather than a possession. It is assembled from deeds, encounters, and stances, which is why it can hold under conditions that strip everything else away.
+
 ## Related concepts
 
 - [[P183]] — James's Talks to Teachers passage joins an ideal to active virtue as his account of a significant life
+- [[The will to meaning]] — Frankl's name for the drive this page describes
+- [[Meaning-making]] — the active process of constructing meaning from events
+- [[The meaning of suffering]] — the third way given its own page
+- [[Purpose]] — the forward-facing edge of meaning
+- [[Mattering]] — the sense that one's life counts for something
 
 ## Sources
 - SEP The Meaning of Life: https://plato.stanford.edu/entries/meaning-of-life/
+- Frankl, Man's Search for Meaning (PDF): https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf
 
 ## Cited in philosophy parallels

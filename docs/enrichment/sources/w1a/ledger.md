@@ -248,3 +248,13 @@ staged by the save script).
 - In the compendium bullets: all cite principles that rg-link [[Joy]] (SP084, SP061, AF017, B093, B101, B118, D021, D180, K047); the hilaritas clause for SP061 is grounded in the opened Elwes P11 Note.
 - Saturation: mention scan run; filed 5 reciprocals (Amor fati, Conatus, Mudita (sympathetic joy), Delight in the ordinary, Gratitude — backlink absence rg-verified) and 1 inline (AF044 "feeling joy", single body occurrence, unlinked). A092's "joy" occurrences sit in the protected title/statement only, so no inline was filed there.
 - Validator on final: ok. Front-matter, seed line, formulation bullets, bare link list and Cited-in sections preserved.
+
+## Meaning (done 2026-10-20; takeover session item 3)
+
+- Opened: Frankl, Man's Search for Meaning (full PDF, https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf) — the triad passage ("According to logotherapy, we can discover this meaning in life in three different ways..."), the elaboration sentences ("The first, the way of achievement...", "...by loving him", "The third way of finding a meaning in life is by suffering."), and the unconditional-meaning passage, all quoted verbatim on the page.
+- Freud/Adler contrast sentence: grounded in the opened PDF's framing? NOT directly — flagged: the will-to-pleasure/will-to-power attribution sentence is a standard gloss of Frankl's own introduction; the PDF excerpt fetched did not include that sentence, so the page keeps it as paraphrase without quotation marks, and it is flagged here for the supervisor's spot-check. No quotes were taken from it.
+- SEP "The Meaning of Life": fetch failed twice (client error, bot-blocked). The inherited Sources line kept; NO content drawn from SEP, no quotes from it.
+- Inherited seed paragraph kept verbatim as the opening line (owner's seed).
+- Structure repaired: the applied P183 entry and my body landed in the wrong order after the first write; the file was rebuilt with body after seed and a single merged Related section; validator ok on final.
+- In the compendium bullets cite E010, PP023, AF072, P159, P019 (titles verified via ls).
+- Reciprocals: 5 filed (The will to meaning, Meaning-making, The meaning of suffering, Purpose, Mattering — backlink absence rg-verified). No inline filed: "meaning" is too generic a phrase for single-occurrence verification across principles.
