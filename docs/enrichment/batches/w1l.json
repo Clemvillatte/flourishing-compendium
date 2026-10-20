@@ -39,7 +39,7 @@
   "Legacy motivation research",
   "Leisure"
  ],
- "in_progress": "Life affirmation",
+ "in_progress": null,
  "flagged": {
   "Following nature's rhythms": "namespace: imperative-verb title, opened Legge DDJ 25 does not define the phrase; flagged Category A in concept-namespace-audit.md at item-5 advisor QC; body left as labelled interim material; supervisor disposition requested",
   "Cultural dimensions theory Hofstede": "title: garbled author-suffix title per the concept-verification queue; concept verified (Hofstede 6D model, geerthofstede.com URL added); rename to 'Cultural dimensions theory' is a metadata action routed to the supervisor",
@@ -68,5 +68,6 @@
    "source": "https://pubmed.ncbi.nlm.nih.gov/14561128/ (Vallerand et al. 2003 abstract); https://pmc.ncbi.nlm.nih.gov/articles/PMC5447058/ (Briki 2017, DMP description and scale items)",
    "why": "Category B disposition for 'Harmonious versus obsessive passion': granular component; no existing concept represented the harmonious form (title/resolve checks done)"
   }
- ]
+ ],
+ "notes": " | supervisor-3ef4f549 (2026-10-20): stale in_progress marker \"Life affirmation\" cleared \u2014 item enriched+committed at 5c983d57b, held pending QC, baton released by its worker; marker left set was blocking proposal deferrals to w1l targets."
 }

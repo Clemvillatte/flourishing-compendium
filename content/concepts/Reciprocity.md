@@ -13,8 +13,9 @@ unconditional first moves build cooperation (Cialdini, 2001).
 - Gilligan, In a Different Voice
 ## Related concepts
 
-- [[Gratitude]] — the exchange structure gratitude sits in and can exceed
 
+- [[Gratitude]] — the exchange structure gratitude sits in and can exceed
+- [[SO039]] — Axelrod's durability-of-relationship account of reciprocal cooperation
 ## Sources
 
 - Cialdini, 2001

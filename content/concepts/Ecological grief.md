@@ -36,8 +36,9 @@ The same review distinguishes it from its neighbours: solastalgia "closely overl
 
 ## Related concepts
 
-- [[Solastalgia]] — the neighbouring construct the review treats as a possible sub-concept
 
+- [[Solastalgia]] — the neighbouring construct the review treats as a possible sub-concept
+- [[SO070]] — the sociocultural-stressor principle behind the climate emotions this concept maps
 ## Sources
 
 - Cunsolo and Landman, Mourning Nature

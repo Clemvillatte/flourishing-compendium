@@ -11,8 +11,9 @@ Solitude — chosen aloneness as a condition of self-recollection. The tradition
 
 ## Related concepts
 
-- [[Capacity to be alone (Winnicott)]] — chosen aloneness compared with Winnicott's account of contented aloneness
 
+- [[Capacity to be alone (Winnicott)]] — chosen aloneness compared with Winnicott's account of contented aloneness
+- [[SE058]] — the self-maintenance need behind chosen aloneness
 ## Sources
 - Wikipedia Solitude: https://en.wikipedia.org/wiki/Solitude
 

@@ -3,30 +3,12 @@
  "revision": 23,
  "reciprocal": [
   {
-   "into": "Food as medicine",
-   "link": "BE042",
-   "why": "the trial and meta-analytic evidence behind this principle is nutritional psychiatry's core result",
-   "notes": "Concept page already lists BE042 in its principles list; evidence in sources/p1zk/BE042.md (SMILES full text, Firth 2019, Li 2017, all opened)."
-  },
-  {
-   "into": "Helper's high",
-   "link": "BE061",
-   "why": "the volunteering review behind this principle is the evidence for the helper's-high claim's context",
-   "notes": "Neutral clause per advisor QC convention; the helper's-high construct itself is inherited (Post 2005/Luks 1991, not opened). Evidence in sources/p1zk/BE061.md (Jenkinson 2013, opened)."
-  },
-  {
    "into": "ERP (exposure and response prevention)",
    "link": "BE071",
    "why": "the compulsions this page teaches to recognise are the targets ERP treats",
    "notes": "Evidence in sources/p1zk/BE071.md (MSD Manual definition, Skapinakis 2016 NMA, both opened). Concept already cites BE071."
-  },
-  {
-   "into": "Food as medicine",
-   "link": "BI033",
-   "why": "the trial-backed diet-and-mood evidence sits with the food-as-medicine concept",
-   "notes": "Evidence in sources/p1zk/BI033.md (SMILES, Firth, Li, all opened; same evidence as BE042). Concept already cites BI033."
   }
  ],
  "inline": [],
- "notes": " | deferred at this run (target band busy): 4 recip, 0 inline | deferred at this run (target band busy): 4 recip, 0 inline"
+ "notes": " | deferred at this run (target band busy): 4 recip, 0 inline | deferred at this run (target band busy): 4 recip, 0 inline | deferred at this run (target band busy): 1 recip, 0 inline"
 }

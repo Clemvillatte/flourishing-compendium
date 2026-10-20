@@ -15,6 +15,10 @@ The helper's high is the pleasurable state many people report after helping some
 
 The research Post summarizes comes with a dose caveat: there is a volunteering threshold that brings health benefits, perhaps as little as a couple of hours a week, and beyond it more volunteering does not necessarily bring greater benefits. His review of the altruism literature concludes that a strong correlation exists between well-being, happiness, health and longevity among the emotionally and behaviorally compassionate, so long as they are not overwhelmed by helping tasks.
 
+## Related concepts
+
+- [[BE061]] — the volunteering review behind this principle is the evidence for the helper's-high claim's context
+
 ## Sources
 
 - Post, 2005
