@@ -16,20 +16,23 @@ The evidence behind this principle is an association, not a training experiment.
 
 > "Results showed that heavy media multitaskers are more susceptible to interference from irrelevant environmental stimuli and from irrelevant representations in memory." (Ophir et al., 2009, [PNAS 106(37):15583-15587](https://pmc.ncbi.nlm.nih.gov/articles/PMC2747164/))
 
-The study cannot say which direction the arrow points: heavy multitasking may shape attention, or people whose attention works that way may prefer heavy multitasking, or both. The principle's title claim is the association the study reported; the seed's stronger line, that this is a trained deficit, is not established by the opened study. (Ophir et al., 2009.)
+Participants were grouped by reported media habits rather than assigned to acquire those habits. These comparisons do not determine whether media use caused the observed differences. (Ophir et al., 2009.)
+
+The finding has since been tested again. Wiradhany and Nieuwenstein report two replication studies in which only five of fourteen tests showed the predicted direction of increased distractibility, and a meta-analysis of 39 effect sizes whose weak association turned nonsignificant after correction for small-study effects; they conclude by questioning the existence of an association between media multitasking and distractibility in laboratory tasks of information processing. The compendium keeps this principle's title claim as the original study's association, read against that later record. (Wiradhany & Nieuwenstein, 2017.)
 
 **Plain words**
-Some people keep several feeds going at once; others work one thing at a time. In the tests behind this page, the several-feeds group let in more interference: background sights and old thoughts both got in the way. What the study cannot say is which caused which. You can still run the comparison on yourself: try the same task with the screens split and without, and see which way your attention behaves.
+In that study, the group reporting more simultaneous media use had more trouble ignoring information that was irrelevant to the tests. This group comparison cannot tell you that your own media habits caused an attention problem, and later replications questioned whether the association holds in laboratory tasks at all.
 
-*For example:* A student who studies with three screens open can try one screen for one session and compare: what they retained, and how often they surfaced for something else.
+*For example:* As a compendium exercise, record which media you use while studying and which interruptions you choose to postpone.
 
 ## Sources
 
 - [Ophir, Nass & Wagner (2009), Cognitive control in media multitaskers, PNAS 106(37):15583-15587](https://pmc.ncbi.nlm.nih.gov/articles/PMC2747164/)
+- [Wiradhany & Nieuwenstein (2017), Cognitive control in media multitaskers: two replication studies and a meta-analysis, Attention, Perception & Psychophysics 79:1262-1287](https://pmc.ncbi.nlm.nih.gov/articles/PMC5662702/)
 ## Psychology parallels
 
-- **Media multitasking and attention (Ophir et al., 2009)**, heavy media multitaskers show worse sustained attention and greater distractibility (Ophir et al., 2009; Uncapher et al., 2016)
-- **Media multitasking is associated with poorer academic and cognitive outcomes**, heavy multitaskers show worse performance on attention and memory tasks (Ophir et al., 2009; Uncapher et al., 2016)
+- **Media multitasking and attention (Ophir et al., 2009)**, one study found heavy media multitaskers more susceptible to interference (Ophir et al., 2009; replications questioned by Wiradhany & Nieuwenstein, 2017)
+- **Media multitasking and cognitive outcomes, contested**, later replications and a meta-analysis questioned the distractor-filtering association in laboratory tasks (Wiradhany & Nieuwenstein, 2017)
 
 ## Philosophy parallels
 
