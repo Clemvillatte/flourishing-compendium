@@ -67,7 +67,12 @@ Delivered in the initial implementation:
 - [ ] Remember state (volume, circadian, last set/track) in localStorage.
 - [ ] MediaSession position state (progress in OS media UI).
 - [ ] Optional waveform / level visualization in the panel (canvas, cheap).
-- [ ] Wiki integration (see INTEGRATION.md) — only when the user asks.
+- [x] Wiki integration (see INTEGRATION.md) — DONE, user-approved: the
+      component + 16 sets are wired into `site/index.html` (set menu,
+      4 s crossfade), the phone tab bar is cleared via `--fcp-fab-offset`,
+      and the integration is locked by spec sections 12–14 plus
+      `tests/wiki-qa.mjs` (zero console errors on the wiki page, both
+      themes, desktop and 375 px).
 - Acceptance: shortcuts inert when the player was never opened; stored
   state survives reload; visualization costs < 1 % CPU at idle.
 

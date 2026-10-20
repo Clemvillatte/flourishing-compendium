@@ -19,9 +19,12 @@ time-of-day ("circadian") filter.
 
 ## Repository layout
 
-This project lives inside the `flourishing-compendium` wiki repository,
-in its own `soundscape-player/` directory. Nothing in the wiki's `site/`
-directory imports from it until `INTEGRATION.md` is applied.
+This project lives inside the `flourishing-compendium` wiki repository, in
+its own `soundscape-player/` directory. The wiki integration
+(`INTEGRATION.md`) is APPLIED: the wiki's `site/assets/player/`,
+`site/assets/audio/` (the 16 sets) and the wiring in `site/index.html`
+are part of the deployment; keep them in sync with the component copies
+(spec section 13 fails the suite on drift).
 
 ```
 soundscape-player/
@@ -42,7 +45,7 @@ soundscape-player/
     qa-multi.html             # multi-set QA fixture (2 sets × 3 tones)
     qa-layers.html            # layered QA fixture (relatively prime passes)
     fixtures/                 # synthesized tones (AAC + sample-exact WAV)
-  INTEGRATION.md               # wiring into the wiki (not yet applied — do not apply without being asked)
+  INTEGRATION.md               # wiring into the wiki (APPLIED — see it for the applied state)
 ```
 
 The user's 16 sets live in `assets/audio/<slug>/` as `segment_%04d.aac`
@@ -74,9 +77,16 @@ QA requirements (see `docs/DESIGN.md` §5 for the full quality bar):
   source-overlap assertions, pause/resume across a segment boundary,
   select/random/stop controls, the stop-during-pending-decode guard, the set
   menu + crossfade switching (state survival, position memory, rapid
-  switches, stop mid-fade), and layered sets (independent timelines, solo
-  crossfades, combined-cycle math). It captures page errors AND console
-  errors. Add a spec case for every new behaviour you introduce.
+  switches, stop mid-fade), layered sets (independent timelines, solo
+  crossfades, combined-cycle math), the Endel order of the-dark-night
+  (digest manifest), the wiki asset sync + wiring markers, and the
+  `--fcp-fab-offset` host-page escape hatch. It captures page errors AND
+  console errors. Add a spec case for every new behaviour you introduce.
+- The real wiki page is covered by `tests/wiki-qa.mjs` (both themes,
+  1280 and 375 px, zero console errors). It needs `site/data/` (a deploy
+  artifact — build it with `python3 scripts/build.py --src . --version test`
+  from the repo root) and a static server on `site/` itself (the wiki uses
+  root-relative paths; serving the repo root breaks its assets).
 - Test in Chromium headless (Playwright) at 1280 px and 375 px.
 - Zero console/page errors during normal use.
 - Cover every visible control: play/pause/resume, stop, random, track
@@ -125,8 +135,10 @@ The supported flow:
 
 - **No dependencies, no build step.** The component stays a single JS file
   plus a single CSS file, usable by pasting two tags into any page.
-- **Do not touch the wiki repo** (`flourishing-compendium`) unless the user
-  explicitly asks. `INTEGRATION.md` describes how, for when that moment comes.
+- **Wiki `site/` changes**: the integration is applied and locked by the
+  spec. Player-related edits to `site/` (assets, wiring) are in scope — keep
+  the copies byte-identical. Any OTHER change to the wiki's `site/`
+  directory still needs the user's explicit request.
 - Keep `docs/DESIGN.md` updated when architecture changes; keep §5's quality
   bar green before considering work done.
 - Only add audio files to the repo if you have permission to redistribute

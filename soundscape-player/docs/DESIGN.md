@@ -167,6 +167,13 @@ theme; it also defines fallbacks so it works standalone.
 
 MediaSession is wired (play/pause/stop, prev/next track) for OS media keys.
 
+Host pages with their own fixed bottom bar (e.g. the wiki's phone tab
+layout) set the `--fcp-fab-offset` CSS variable on `:root` to lift the
+floating button and panel clear of it; the default (unset) keeps the
+original position for standalone pages (spec-verified).
+
+The wiki integration is applied — see `INTEGRATION.md`.
+
 ## 4. Loading tracks (the key workflow)
 
 The player must make it trivial to load a user's own tracks. Three mount

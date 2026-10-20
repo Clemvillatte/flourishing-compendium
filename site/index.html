@@ -7,7 +7,8 @@
 <title>Flourishing Compendium — Desktop Wiki</title>
 <link rel="icon" type="image/png" sizes="64x64" href="assets/favicon-64.png">
 <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
-<link rel="stylesheet" href="assets/style.css?v=20261020-preview2">
+<link rel="stylesheet" href="assets/style.css?v=localqa-preview2">
+<link rel="stylesheet" href="assets/player/fc-player.css">
 <script>window.__fcErrors=[];window.onerror=function(m,s,l,c){window.__fcErrors.push(m+" @ "+(s||"?").split("/").pop()+":"+l+":"+c);return false;};</script>
 <script id="fc-theme-early">(function(){try{var m=null;var t=m==="light"||m==="dark"?m:(window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.setAttribute("data-theme",t);}catch(e){}})();</script>
 </head>
@@ -331,10 +332,10 @@
   </div>
 </div>
 
-<script>window.FC_VER = '20261019v';</script>
+<script>window.FC_VER = 'localqa';</script>
 <script>window.FC_GH_REPO = 'Clemvillatte/flourishing-compendium';</script>
-<script src="assets/boot.js?v=20261019v"></script>
-<script src="assets/editor2.js?v=20261020-preview1"></script>
+<script src="assets/boot.js?v=localqa"></script>
+<script src="assets/editor2.js?v=localqa-preview1"></script>
 <script data-pplx-inline-edit>
 (function () {
   if (window === window.top) return;
@@ -775,5 +776,49 @@
 })();
 
 
+</script>
+<script src="assets/player/fc-player.js" defer></script>
+<script>
+window.addEventListener('DOMContentLoaded', function () {
+  if (!window.FCPlayer) return;
+  /* The wiki shows a fixed bottom tab bar on phone widths (≤920px);
+   * lift the player's floating button and panel clear of it. */
+  var mq = window.matchMedia('(max-width: 920px)');
+  var fabOffset = function () {
+    document.documentElement.style.setProperty('--fcp-fab-offset',
+      mq.matches ? 'calc(64px + env(safe-area-inset-bottom) + 12px)' : '0px');
+  };
+  fabOffset();
+  if (mq.addEventListener) mq.addEventListener('change', fabOffset);
+  var SETS = [
+    ['flow', 'Flow', 16],
+    ['deliberate-practice', 'Deliberate practice', 16],
+    ['deep-listening', 'Deep listening', 16],
+    ['completing-the-cycle', 'Completing the cycle', 16],
+    ['rhythm-of-rest', 'The rhythm of rest', 16],
+    ['completeness-of-rest', 'The completeness of rest', 16],
+    ['the-dreaming', 'The Dreaming', 16],
+    ['siddhartha-and-the-river', 'Siddhartha and the river', 16],
+    ['abgeschiedenheit', 'Abgeschiedenheit', 16],
+    ['natures-rhythm', 'Following nature’s rhythm', 16],
+    ['thundering-silence', 'Thundering silence', 16],
+    ['stimulus-control', 'Stimulus control', 16],
+    ['dream-of-the-butterfly', 'The dream of the butterfly', 16],
+    ['flower-and-song', 'Flower and song', 16],
+    ['the-dark-night', 'The dark night', 22],
+    ['bare-attention', 'Bare attention', 16]
+  ];
+  window.__fcInst = FCPlayer.mount({
+    setCrossfade: 4,
+    sets: SETS.map(function (s) {
+      return {
+        id: s[0],
+        title: s[1],
+        subtitle: s[2] + ' tracks · ' + s[2] + ' min',
+        source: { dir: 'assets/audio/' + s[0] + '/', pattern: 'segment_%04d.aac', count: s[2] }
+      };
+    })
+  });
+});
 </script></body>
 </html>

@@ -12,9 +12,14 @@
  * A pass = all 3 tracks; a wrap = the boundary between passes.
  */
 import { chromium } from 'playwright';
+import fs from 'node:fs';
+import path from 'node:path';
+import { createHash } from 'node:crypto';
+import { fileURLToPath } from 'node:url';
 
 const BASE = process.argv[2] || 'http://127.0.0.1:8791';
 const QA = (q) => `${BASE}/tests/qa.html${q}`; // q is '' or '#rotate=1' (hash survives server redirects)
+const REPO_ROOT = path.resolve(fileURLToPath(new URL('../..', import.meta.url))); // <repo>/soundscape-player/tests/../..
 
 let failures = 0;
 function check(cond, label) {
@@ -664,6 +669,87 @@ async function main() {
     t = await page.evaluate(() => document.querySelectorAll('.fcp-panel').length);
     check(t === 0, 'dispose removes the player cleanly in fallback mode');
     check(errors.length === 0, `no page errors (fallback switch) ${errors.join('|')}`);
+    await page.context().close();
+  }
+
+  /* ---- 12. the-dark-night Endel order lock (digest manifest) ---- */
+  {
+    // The James Blake set was re-staged into the original Endel player-number
+    // order (HANDOFF.md). tests/dark-night-order.json locks that order: any
+    // re-staging that scrambles it (e.g. a naive filename sort of unpadded
+    // originals) changes a digest and fails here.
+    const manifest = JSON.parse(fs.readFileSync(new URL('./dark-night-order.json', import.meta.url), 'utf8'));
+    check(manifest.length === 22, `Endel digest manifest lists 22 segments (${manifest.length})`);
+    let fetchOk = true, orderOk = true;
+    for (let i = 0; i < 22; i++) {
+      const res = await fetch(`${BASE}/assets/audio/the-dark-night/segment_${String(i).padStart(4, '0')}.aac`);
+      if (!res.ok) { fetchOk = false; continue; }
+      const hash = createHash('sha256').update(Buffer.from(await res.arrayBuffer())).digest('hex');
+      if (hash !== manifest[i]) orderOk = false;
+    }
+    check(fetchOk, 'all 22 the-dark-night segments are served');
+    check(orderOk, 'the-dark-night serving order matches the Endel digest manifest');
+    // same lock against the working tree (no server involved)
+    let diskOk = true;
+    for (let i = 0; i < 22; i++) {
+      const p = path.join(REPO_ROOT, 'soundscape-player/assets/audio/the-dark-night', `segment_${String(i).padStart(4, '0')}.aac`);
+      const hash = createHash('sha256').update(fs.readFileSync(p)).digest('hex');
+      if (hash !== manifest[i]) diskOk = false;
+    }
+    check(diskOk, 'the-dark-night files on disk match the Endel digest manifest');
+  }
+
+  /* ---- 13. wiki integration: site/ wiring + asset sync ---- */
+  {
+    const site = (p) => path.join(REPO_ROOT, 'site', p);
+    const sp = (p) => path.join(REPO_ROOT, 'soundscape-player/assets', p);
+    // player files byte-identical
+    for (const f of ['player/fc-player.js', 'player/fc-player.css']) {
+      const a = fs.readFileSync(sp(f));
+      const b = fs.readFileSync(site(`assets/${f}`));
+      check(a.equals(b), `site/assets/${f} is byte-identical to the component copy`);
+    }
+    // all 16 audio sets synced
+    const slugs = ['flow','deliberate-practice','deep-listening','completing-the-cycle','rhythm-of-rest','completeness-of-rest','the-dreaming','siddhartha-and-the-river','abgeschiedenheit','natures-rhythm','thundering-silence','stimulus-control','dream-of-the-butterfly','flower-and-song','the-dark-night','bare-attention'];
+    let setsOk = true, detail = '';
+    for (const slug of slugs) {
+      const src = fs.readdirSync(sp(`audio/${slug}`)).filter((n) => n.endsWith('.aac')).sort();
+      let dst = [];
+      try { dst = fs.readdirSync(site(`assets/audio/${slug}`)).filter((n) => n.endsWith('.aac')).sort(); } catch (e) { /* missing dir */ }
+      if (src.length !== dst.length || src.some((n, i) => n !== dst[i])) { setsOk = false; detail = slug + ' (file list)'; continue; }
+      for (const n of src) {
+        if (!fs.readFileSync(sp(`audio/${slug}/${n}`)).equals(fs.readFileSync(site(`assets/audio/${slug}/${n}`)))) { setsOk = false; detail = `${slug}/${n}`; }
+      }
+    }
+    check(setsOk, `site/assets/audio sets are byte-identical to the component sets ${detail}`);
+    // wiring markers in site/index.html
+    const html = fs.readFileSync(site('index.html'), 'utf8');
+    check(/<link rel="stylesheet" href="assets\/player\/fc-player\.css">/.test(html), 'site/index.html links the player stylesheet');
+    check(/<script src="assets\/player\/fc-player\.js" defer><\/script>/.test(html), 'site/index.html loads fc-player.js (deferred)');
+    check(/setCrossfade:\s*4/.test(html) && /'the-dark-night',\s*'The dark night',\s*22/.test(html) && /'bare-attention'/.test(html), 'site/index.html mounts the 16-set wiki config (4 s crossfade)');
+    check(/--fcp-fab-offset/.test(html), 'site/index.html sets --fcp-fab-offset for the phone tab bar');
+  }
+
+  /* ---- 14. --fcp-fab-offset lifts the floating button and panel ---- */
+  {
+    const { page, errors } = await newPage(browser);
+    const fab = await page.evaluate(() => {
+      const before = getComputedStyle(document.querySelector('.fcp-btn')).bottom;
+      document.documentElement.style.setProperty('--fcp-fab-offset', '40px');
+      const after = getComputedStyle(document.querySelector('.fcp-btn')).bottom;
+      document.documentElement.style.setProperty('--fcp-fab-offset', '0px');
+      return { before, after };
+    });
+    check(fab.before === '22px' && fab.after === '62px', `--fcp-fab-offset lifts the FAB (${fab.before} -> ${fab.after})`);
+    const panel = await page.evaluate(() => {
+      const before = getComputedStyle(document.querySelector('.fcp-panel')).bottom;
+      document.documentElement.style.setProperty('--fcp-fab-offset', '40px');
+      const after = getComputedStyle(document.querySelector('.fcp-panel')).bottom;
+      document.documentElement.style.setProperty('--fcp-fab-offset', '0px');
+      return { before, after };
+    });
+    check(panel.before === '88px' && panel.after === '128px', `--fcp-fab-offset lifts the panel (${panel.before} -> ${panel.after})`);
+    check(errors.length === 0, `no page errors (fab offset) ${errors.join('|')}`);
     await page.context().close();
   }
 

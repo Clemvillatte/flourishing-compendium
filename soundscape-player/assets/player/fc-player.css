@@ -15,10 +15,13 @@
 
 /* ---------- floating button ---------- */
 
+/* --fcp-fab-offset: host pages with a fixed bottom bar (e.g. a mobile tab
+   bar) set this on :root to lift the button and panel clear of it.
+   Default 0 — standalone pages keep the original position. */
 .fcp-btn {
   position: fixed;
   right: 22px;
-  bottom: 22px;
+  bottom: calc(22px + var(--fcp-fab-offset, 0px));
   z-index: 9990;
   width: 52px;
   height: 52px;
@@ -62,7 +65,7 @@
 .fcp-panel {
   position: fixed;
   right: 22px;
-  bottom: 88px;
+  bottom: calc(88px + var(--fcp-fab-offset, 0px));
   z-index: 9991;
   width: 300px;
   background: var(--fcp-bg);
@@ -319,7 +322,7 @@
 
 /* small screens */
 @media (max-width: 480px) {
-  .fcp-btn { right: 16px; bottom: 16px; }
-  .fcp-panel { right: 16px; left: 16px; width: auto; bottom: 80px; }
+  .fcp-btn { right: 16px; bottom: calc(16px + var(--fcp-fab-offset, 0px)); }
+  .fcp-panel { right: 16px; left: 16px; width: auto; bottom: calc(80px + var(--fcp-fab-offset, 0px)); }
   .fcp-tracks { max-height: 140px; }
 }

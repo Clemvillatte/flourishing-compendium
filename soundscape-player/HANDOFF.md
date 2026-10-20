@@ -3,7 +3,7 @@
 Read this together with `AGENTS.md`, `docs/DESIGN.md`, and `docs/ROADMAP.md`.
 Everything needed to continue is in this repository; nothing else is required.
 
-## Current state (all verified by `tests/spec.mjs`, 85 checks green)
+## Current state (all verified by `tests/spec.mjs`, 99 checks green)
 
 - Segment engine complete: gapless ordered playback, infinite loop with
   designed wrap fade, pause/resume with exact position (across segment
@@ -86,37 +86,35 @@ Everything needed to continue is in this repository; nothing else is required.
   step 0.0000 everywhere, natural level variation) — but verify by ear.
 - In `<audio>` fallback mode, set switching hands over without a crossfade
   (no shared gain stage) — documented degradation.
-- The James Blake set (the-dark-night, 22 tracks) is currently staged in
-  strict full-filename order; the user has CONFIRMED the intended order is
-  the original Endel player-number order (the "Endel- Player - NNN.aac"
-  suffixes, 001..022). The RAW downloaded files are NOT in the repo (only the
-  prepared, re-encoded segments) — but no raw material is needed: reorder the
-  committed files directly by renaming (no re-encode, no quality loss).
-  The committed segment_0000..0021.aac are in full-filename order, which
-  corresponds to Endel numbers 001,002,004,005,007,008,010,003,012,006,014,
-  009,015,011,017,013,018,016,019,020,021,022 (index → Endel number).
-  To produce Endel order, the NEW segment_i comes from the CURRENT file at
-  this index (new i → old i):
-  0,1,7,2,3,9,4,5,11,6,13,8,15,10,12,17,14,16,18,19,20,21
-  i.e. copy old→new in a temp dir (new_0000=old_0000, new_0001=old_0001,
-  new_0002=old_0007, new_0003=old_0002, new_0004=old_0003, new_0005=old_0009,
-  new_0006=old_0004, new_0007=old_0005, new_0008=old_0011, new_0009=old_0006,
-  new_0010=old_0013, new_0011=old_0008, new_0012=old_0015, new_0013=old_0010,
-  new_0014=old_0012, new_0015=old_0017, new_0016=old_0014, new_0017=old_0016,
-  new_0018=old_0018, new_0019=old_0019, new_0020=old_0020, new_0021=old_0021)
-  then replace the folder contents, commit, and re-run the suite.
+- The James Blake set (the-dark-night, 22 tracks) is NOW IN ENDEL
+  PLAYER-NUMBER ORDER: the rename mapping from the previous handoff was
+  applied (pure file rename, no re-encode; verified by SHA-256 before and
+  after). The order is LOCKED by `tests/dark-night-order.json` — a digest
+  manifest checked by spec section 12 (served AND on disk). Any re-staging
+  that scrambles the order fails the suite. Do not reorder again.
 - Audio rights are settled: the user has a deal with Endel; the project is
   personal with no monetary purpose. No redistribution concern — do not
   re-raise it.
-- WIKI INTEGRATION IS APPROVED: the user explicitly asked to integrate the
-  player into the wiki as soon as ready. Apply `INTEGRATION.md` (wire
-  fc-player.js + fc-player.css into `site/index.html`, mount the 16 sets).
-  The user's earlier instruction "don't touch site/ unless I ask" is now
-  superseded by this explicit request — but keep changes to the wiring
-  described in INTEGRATION.md and preserve the quality bar (suite green,
-  zero console errors on the wiki page too).
+- WIKI INTEGRATION IS DONE (user-approved): `INTEGRATION.md` is applied —
+  fc-player.js/css copied to `site/assets/player/`, the 16 audio sets copied
+  to `site/assets/audio/<slug>/` (byte-identical; spec section 13 verifies
+  the sync), and `site/index.html` wired (stylesheet link + deferred script
+  + 16-set mount with the set menu, 4 s crossfade, mirroring the demo).
+  The wiki's phone layout (fixed bottom tab bar ≤920 px) is handled via the
+  new `--fcp-fab-offset` CSS custom property (spec section 14): the wiring
+  sets it so the floating button and panel clear the tab bar.
+  QA: `tests/wiki-qa.mjs` (checked in) opens the real wiki page at 1280/375
+  px in both themes — 28 checks, zero console errors (run it with the site
+  served from `site/` as the domain root, after `python3 scripts/build.py`,
+  because `site/data/` is a deploy artifact). The wiki uses ROOT-RELATIVE
+  paths — serving the repo root and opening `/site/index.html` breaks the
+  wiki's own assets; serve `site/` itself.
+- `rotatePasses` remains QUARANTINED (unchanged).
 
 ## Repository layout
 
 Everything lives under `soundscape-player/` in the flourishing-compendium
-repository. The wiki's `site/` directory is untouched by design.
+repository. The wiki's `site/` directory now CONTAINS the player integration
+(see INTEGRATION.md — applied): `site/assets/player/`, `site/assets/audio/`
+(16 sets) and the wiring in `site/index.html`. Keep the copies in sync
+(spec section 13 fails the suite on drift).
