@@ -79,6 +79,11 @@
       "into": "SE044 — Recognise the difference between authenticity and self-indulgence",
       "link": "SE043 — Cultivate authentic identity — be who you are, not who others want",
       "why": "SE043 now carries the grounded Wood et al. 2008 construct behind SE044's authenticity/self-indulgence distinction."
+    },
+    {
+      "into": "PP034 — Build secure attachment",
+      "link": "SE047 — Recognise attachment patterns — early relationships shape self-relation",
+      "why": "PP034 covers building security; SE047 now carries the pattern-recognition side with the Roisman 2002 earned-security nuance, including the retrospective caution PP034 does not carry."
     }
   ],
   "inline": [
@@ -88,5 +93,5 @@
       "phrase": "performing one's roles well"
     }
   ],
-  "notes": "SE043: Wood et al. 2008 abstract opened via curl of the Ovid publisher page (fetch_url robots-blocked; access type recorded); tripartite conception and well-being findings quoted; 'distinct from selfishness' clause labelled compendium application; plain words re-derived (essentialist 'you before expectations' framing replaced with the scale's three components); For example relabelled Imagine; Kernis & Goldman 2006 removed from bullet text (not opened); philosophy parallels framed as suggested connections; Sources section added."
+  "notes": "SE047: Shaver & Mikulincer 2008 full text opened (UC Davis PDF, security-based strategies passage string-verified); Mikulincer & Shaver 2015 CDPS abstract via full-text PDF (craiganderson.org mirror, 'foundation for mental health' sentence string-verified); Roisman et al. 2002 abstract opened (OUP publisher page); earned-security claim grounded with the retrospective/prospective nuance; Bowlby 1969/Gillath 2005/Siegel 1999 removed from bullet text (not opened); plain words re-derived; For example relabelled Imagine; philosophy parallels framed as suggested connections; Sources section added."
 }

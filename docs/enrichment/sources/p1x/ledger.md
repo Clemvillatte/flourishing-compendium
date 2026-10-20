@@ -186,3 +186,9 @@ Core prose (body per QC round-1 replacement text, VI.9 blockquote + IV.21 inline
 **Reciprocal candidates:** SE044 (sibling principle, public body). Pending supervisor.
 **QC:** standard checks; SE028 milestone standard applied.
 **Item-20 QC (SE043): ACCEPT (milestone QC, round 2).** CONDITIONAL first pass; three bounded corrections applied (component definitions removed from body/plain words; "main authenticity scale" ranking removed; second psychology bullet reduced to the reported model). All three abstract quotations verified verbatim against the curl-downloaded Ovid page (string checks passed). Non-blocking capitalization edit applied ("reports: 'Each subscale...'").
+### SE047 — Recognise attachment patterns
+**Done:** SE047.
+**Sources opened:** Shaver & Mikulincer 2008, full text, https://adultattachment.faculty.ucdavis.edu/wp-content/uploads/sites/66/2015/09/Shaver_2008_Adult-attachment-and-cognitive-and-affective-reactions.pdf (security-based strategies passage, string-verified). Mikulincer & Shaver 2015 CDPS, full-text PDF mirror at craiganderson.org ("foundation for mental health" sentence, string-verified). Roisman et al. 2002, abstract, OUP publisher page, https://academic.oup.com/chidev/article/73/4/1204/8283856 (prospective earned-secures finding; retrospective caution).
+**Assertions corrected:** the flat "attachment patterns can be revised (earned security)" claim replaced with the Roisman nuance (prospective earned-secures succeeded in close relationships; retrospectively defined earned-secures were not more likely to have been anxiously attached in infancy). Bowlby 1969, Gillath et al. 2005, Siegel 1999 removed from bullet text (not opened).
+**Reciprocal candidates:** PP034 (Build secure attachment, enriched sibling, public body). Attachment theory/security/Earned security concepts already link SE047.
+**QC:** standard checks; SE028 milestone standard applied.
