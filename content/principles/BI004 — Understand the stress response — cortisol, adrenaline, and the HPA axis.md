@@ -16,7 +16,7 @@ McEwen distinguishes the short-term protective roles of stress hormones from the
 
 > "Beyond the 'flight-or-fight' response to acute stress, there are events in daily life that produce a type of chronic stress and lead over time to wear and tear on the body ('allostatic load'). Yet, hormones associated with stress protect the body in the short-run and promote adaptation ('allostasis')." (McEwen, 2007, [Physiological Reviews 87:873-904](https://journals.physiology.org/doi/full/10.1152/physrev.00041.2006))
 
-The page's title names the pathways, and the review's own wording supports them: a hallmark of the stress response is the activation of the autonomic nervous system and the hypothalamo-pituitary-adrenal (HPA) axis; cortisol is among the key systems elevated under chronic stress; and catecholamines, including epinephrine and norepinephrine, are among the chemical mediators the body releases. The autonomic system and the HPA axis are distinct pathways, and the review treats them alongside other mediators in a network of regulation. (McEwen, 2007.)
+McEwen identifies activation of both the autonomic nervous system and the HPA axis as a hallmark of the stress response. He discusses cortisol and catecholamines, including epinephrine and norepinephrine, among the mediators involved. (McEwen, 2007.)
 
 **Plain words**
 The system that mobilises you for a threat is doing its job when the threat is real and near. The same systems kept running for months are what the wear-and-tear finding is about. The practical reading is timing: mobilise when it matters, and look for where demands can be reduced and where recovery is possible.
@@ -28,9 +28,8 @@ The system that mobilises you for a threat is doing its job when the threat is r
 - [McEwen (2007), Physiology and neurobiology of stress and adaptation: central role of the brain, Physiological Reviews 87:873-904](https://journals.physiology.org/doi/full/10.1152/physrev.00041.2006)
 ## Psychology parallels
 
-- **Stress response pathways**, the review describes activation of the autonomic nervous system and the HPA axis, with cortisol among the elevated systems and catecholamines among the mediators released (McEwen, 2007)
-- **Allostatic load**, chronic stress accumulates "wear and tear" on the body and brain (McEwen, 2007; McEwen & Wingfield, 2003)
-- **Cortisol dysregulation in depression**, both hyper- and hypo-cortisolism are found in depression, depending on subtype (Stetler & Miller, 2011; Pariante & Lightman, 2008)
+- **Stress response pathways**, the review identifies activation of the autonomic nervous system and the HPA axis as a hallmark of the stress response, and discusses cortisol and catecholamines among the mediators involved (McEwen, 2007)
+- **Allostatic load**, wear and tear associated with chronic stress (McEwen, 2007)
 
 ## Philosophy parallels
 
@@ -40,4 +39,4 @@ The system that mobilises you for a threat is doing its job when the threat is r
 
 ## Practice
 
-- When the stress response is active (racing heart, tension, shallow breath), the compendium's reading is McEwen's: protective in the short run, costly when kept running. The exercise is to look for where demands can be reduced and where recovery is possible.
+- When you notice signs such as a racing heart, tension, or shallow breath, the exercise is to look for where demands can be reduced and where recovery is possible.
