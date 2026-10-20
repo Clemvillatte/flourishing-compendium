@@ -545,3 +545,31 @@
   concepts: Sustained attention theory with alerting-grounded clause;
   Executive function theory Miyake and Attentional control theory (Eysenck)
   bare links.
+
+# w1h ledger addendum (worker-p1zs-7a4e2c91, takeover at 57/70)
+
+## Prototype theory (2026-10-20, worker-p1zs-7a4e2c91, fast-track; degree 9 — eligible; item 10 advisor milestone)
+
+- OPENED: Rosch 1978 "Principles of categorization" full chapter PDF (UniFR
+  mirror, https://commonweb.unifr.ch/artsdean/pub/gestens/f/as/files/4610/9778_083247.pdf)
+  — raw fetch; blockquote ("Most, if not all, categories do not have
+  clear-cut boundaries.") and the two formation principles, the Rosch-Mervis
+  negative-correlation sentence, and the redundancy-structure summary verified
+  character-for-character in the raw text; locator added per advisor: "The
+  horizontal dimension: internal structure of categories: prototypes".
+- Advisor QC round 1 (item-10 milestone): NOT READY; repairs applied: (1)
+  opening's membership-rule framing replaced with the advisor's two-sentence
+  typicality account; (2) "judgment borrows it" sentence deleted (unsupported
+  "easy to compute" mechanism); (3) Related glosses for Self-Categorization
+  Theory, Categorical perception, Family resemblance reduced to bare links;
+  (4) duplicate-name sentence and Borges aside deleted; (5) merged
+  double-seed's Cited-in area consolidated into one proper heading with every
+  original wikilink kept in exact markup (validator: 0 lost links vs the
+  pre-takeover baseline 8e483fe0; front-matter identical; ok under
+  --fast-track with --base 8e483fe0).
+- File-name note: principle filenames use em-dashes, not colons (the display
+  titles use colons); the first draft's colon-form links were unresolved and
+  fixed to the exact original markup.
+- IS-IT-A-CONCEPT check: named theory with primary literature; the merged
+  double seed is a seed-structure quirk, documented above. Saturation: skipped
+  per fast-track §1a (degree 9 < 15); no cross-link proposals filed.

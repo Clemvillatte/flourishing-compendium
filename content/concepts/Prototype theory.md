@@ -7,13 +7,13 @@ file: "Prototype theory"
 tags: ["psych/cognition", "theory"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-COGNITION"], "alternatePaths": []}
 ---
-Prototype theory is Eleanor Rosch's account of how natural-language categories work: membership is graded by similarity to the category's best examples, its prototypes, rather than fixed by all-or-none rules or necessary conditions. The compendium also carries the same account under the name categorization theory: categories are organised around best examples graded by family resemblance. On Rosch's telling, the categories that any culture actually uses are not whims of history but the product of psychological principles of categorization, and her chapter opens with Borges's fictional Chinese encyclopedia precisely because no real classificatory scheme works that way.
+Prototype theory is Eleanor Rosch's account of how natural-language categories work: membership is graded by similarity to the category's best examples, its prototypes, rather than fixed by all-or-none rules or necessary conditions. The compendium also carries the same account under the name categorization theory: categories are organised around best examples graded by family resemblance. Rosch's account of prototypes describes categories with internal structure: some members are judged better examples than others. Her 1978 chapter relates prototypicality to attributes shared within a category and differences from contrasting categories.
 
-> Most, if not all, categories do not have clear-cut boundaries. — Rosch, ["Principles of categorization" (1978), in Cognition and categorization](https://commonweb.unifr.ch/artsdean/pub/gestens/f/as/files/4610/9778_083247.pdf)
+> Most, if not all, categories do not have clear-cut boundaries. — Rosch, ["Principles of categorization" (1978), in Cognition and categorization, The horizontal dimension: internal structure of categories: prototypes"](https://commonweb.unifr.ch/artsdean/pub/gestens/f/as/files/4610/9778_083247.pdf)
 
 ### What the experiments found
 
-The theory rests on two proposed principles of category formation: category systems provide maximum information with the least cognitive effort, and the perceived world comes as structured information rather than arbitrary or unpredictable attributes. Within categories, members differ in typicality, and the experiments traced what the differences track. Rosch and Mervis found that for natural language categories the extent to which items have attributes common to the category was highly negatively correlated with the extent to which they have attributes belonging to members of contrast categories; in Rosch's summary, prototypes appear to be just those members of a category that most reflect the redundancy structure of the category as a whole. The graded structure matters because judgment borrows it: similarity to a best example is easy to compute and, as the compendium's heuristics principles record, it is often mistaken for something else, such as probability.
+The theory rests on two proposed principles of category formation: category systems provide maximum information with the least cognitive effort, and the perceived world comes as structured information rather than arbitrary or unpredictable attributes. Within categories, members differ in typicality, and the experiments traced what the differences track. Rosch and Mervis found that for natural language categories the extent to which items have attributes common to the category was highly negatively correlated with the extent to which they have attributes belonging to members of contrast categories; in Rosch's summary, prototypes appear to be just those members of a category that most reflect the redundancy structure of the category as a whole.
 
 ### In the compendium
 
@@ -32,26 +32,22 @@ Cognition · Psychological science
 
 ## Related concepts
 
-- [[Family resemblance]] — Wittgenstein's term for the overlap structure the prototypes crystallise
-- [[Representativeness heuristic]] — the judgment habit that borrows graded similarity
-- [[Base rate neglect representativeness heuristic]] — the compendium's page on the two biases' joint operation
-- [[Self-Categorization Theory]] — the social-categorisation descendant of the graded-structure idea
-- [[Categorical perception]] — the perceptual counterpart: categories sharpening discrimination at boundaries
+- [[Family resemblance]]
+- [[Representativeness heuristic]]
+- [[Base rate neglect representativeness heuristic]]
+- [[Self-Categorization Theory]]
+- [[Categorical perception]]
 
 ## Sources
 
-- [Rosch, E., "Principles of categorization" (1978), in Rosch and Lloyd (eds.), Cognition and categorization, 27-48, Lawrence Erlbaum](https://commonweb.unifr.ch/artsdean/pub/gestens/f/as/files/4610/9778_083247.pdf) — the clear-cut-boundaries sentence, the two formation principles, the Rosch-Mervis negative-correlation finding, and the redundancy-structure summary (all verified verbatim in the opened PDF text; the Borges encyclopedia attribution also from the opened text)
+- [Rosch, E., "Principles of categorization" (1978), in Rosch and Lloyd (eds.), Cognition and categorization, 27-48, Lawrence Erlbaum](https://commonweb.unifr.ch/artsdean/pub/gestens/f/as/files/4610/9778_083247.pdf) — the clear-cut-boundaries sentence, the two formation principles, the Rosch-Mervis negative-correlation finding, and the redundancy-structure summary (all verified verbatim in the opened PDF text)
 
-## Cited in parallels
+## Cited in philosophy parallels
 
-- - ## Cited in philosophy parallels
 [[CO073 — Learn to make decisions under uncertainty — you will never have complete information]]
 [[CO035 — Recognise the representativeness heuristic — similarity is mistaken for probability]]
 [[E107 — Practise the creation of values]]
 [[CO020 — Know the base rate neglect — you ignore background frequencies]]
-
-**Categorization theory prototype Rosch** — categories are organised around best examples graded by family resemblance, not necessary conditions.
-## Cited in philosophy parallels
 [[SP090 — Center your life on the highest good]]
 [[E022 — Practise thrownness (Geworfenheit)]]
 [[A006 — Expect flourishing to require external goods]]
