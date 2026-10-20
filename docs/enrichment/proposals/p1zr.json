@@ -1,6 +1,6 @@
 {
  "batch": "p1zr",
- "revision": 13,
+ "revision": 14,
  "reciprocal": [
   {
    "into": "Capacity to be alone (Winnicott)",
@@ -67,6 +67,12 @@
    "link": "BE074",
    "why": "A principle on the behavioural symptoms that exposure-based PTSD treatments target",
    "notes": "BE074's treatment paragraph carries the NICE NG116 recommendation of trauma-focused CBT incl. prolonged exposure (opened guideline, ledger BE074.md). Target page does not currently cite BE074."
+  },
+  {
+   "into": "Respiratory sinus arrhythmia research",
+   "link": "BI011",
+   "why": "A principle noting that RSA's status as an index of vagal tone is at the centre of the polyvagal-theory debate",
+   "notes": "The opened Grossman et al. 2026 evaluation (ledger BI011.md) makes RSA's reliability a core premise under dispute; the target concept does not currently cite BI011."
   }
  ],
  "inline": [],

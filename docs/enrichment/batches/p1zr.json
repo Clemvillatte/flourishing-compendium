@@ -29,7 +29,8 @@
   "BE074",
   "BE076",
   "BE077",
-  "BI006"
+  "BI006",
+  "BI011"
  ],
  "in_progress": null,
  "flagged": {
@@ -44,6 +45,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 5,
- "updated": "2026-10-20T14:06:36+00:00",
+ "updated": "2026-10-20T14:08:20+00:00",
  "band_done": false
 }
