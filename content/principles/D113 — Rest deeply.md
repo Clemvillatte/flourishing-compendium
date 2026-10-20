@@ -16,13 +16,13 @@ The principle's source is Zhuangzi's portrait of the True men of old:
 
 > "The True men of old did not dream when they slept, had no anxiety when they awoke, and did not care that their food should be pleasant. Their breathing came deep and silently. The breathing of the true man comes (even) from his heels, while men generally breathe (only) from their throats." (Zhuangzi 6, Legge trans., [ETH Zurich PDF](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
 
-The chapter explains the shallow alternative: "Where lusts and desires are deep, the springs of the Heavenly are shallow." Deep rest, in this picture, is not a skill of the night but a property of the whole person; someone who breathes from the throat is carrying the day's wanting into sleep.
+The chapter also contrasts deep desires with shallow Heavenly springs: "Where lusts and desires are deep, the springs of the Heavenly are shallow." The compendium reads these images as an invitation to reflect on how daily preoccupations accompany rest. The passage does not establish a cause of sleep difficulties.
 
 (Zhuangzi 6.)
 
-**Plain words** The passage measures rest by what the sleeper is still carrying. A night of unresolved wanting produces shallow breath, anxious waking, dream-heavy sleep. Read practically: if you cannot rest, the place to look is not the mattress but the unfinished business you bring to it. Deep rest is what is left when the day's grasping has actually stopped.
+**Plain words** What are you still trying to settle when the day ends? Perhaps you are rehearsing an argument or planning tomorrow. A practical reading of this passage is to ask whether that business can wait. How well you sleep is not a test of whether you have achieved the chapter's ideal.
 
-*For example:* Two identical Mondays: one after eight hours' sleep, one after five and coffee. The difference is not effort — it is the night.
+*For example:* Imagine ending an evening still rehearsing a disagreement. You decide to revisit it in tomorrow's conversation instead of treating bedtime as another round of the argument.
 
 ## Sources
 
