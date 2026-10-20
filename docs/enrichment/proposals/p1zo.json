@@ -1,6 +1,6 @@
 {
  "batch": "p1zo",
- "revision": 15,
+ "revision": 16,
  "reciprocal": [
   {
    "into": "Identity development",
@@ -37,6 +37,18 @@
    "link": "SO053",
    "why": "the Whitehall gradient-among-the-not-poor finding in Marmot's own summary",
    "notes": "Marmot thinker page does not link SO053. Evidence in sources/p1zo/SO053.md (Marmot & Bobak 2000, opened)."
+  },
+  {
+   "into": "Community",
+   "link": "SO062",
+   "why": "the principle that treats the connections this concept describes as a community resource",
+   "notes": "Community links the Putnam theory concept and cites MacIntyre but not SO062; evidence in sources/p1zo/SO062.md (Kawachi 1999 + Reeder's Putnam summary, both opened)."
+  },
+  {
+   "into": "Generalized trust",
+   "link": "SO062",
+   "why": "the social-capital-as-community-resource principle, sibling of the already-linked SO038 (trust as social capital)",
+   "notes": "Page mentions social capital in its well-being sentence and links SO038 but not SO062; evidence in sources/p1zo/SO062.md."
   }
  ],
  "inline": [],
