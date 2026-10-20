@@ -18,13 +18,13 @@
   "K001": "RESOLVED per supervisor disposition 2026-10-20 (secondary-carrier ACCEPT per E016/E070 precedent; in-body audit sentence reworded to reader-facing quoted-from-Shields provenance; Mitsuhara caution kept)",
   "SO041": "Reopened for QC: QC round 2: plumber second-opinion claim and practiced-domain contrast removed (not derived from displayed evidence)",
   "E005": "Reopened for QC: QC round 1 fail: opening overgeneralised; temporal-horizon quote misattached to present moment; colleague example conflated horizon with unknown facts; aphorisms; repairs per advisor",
-  "E032": "Reopened for QC: first-item QC (advisor): waiter bad-faith framing; Plain words narrowing; provenance labels; verification and saturation steps",
+  "E032": "RESOLVED (2026-10-20): first-item QC items all addressed — waiter framing scoped to SEP with secondhand label (supervisor repair), Plain words narrowed to the two-question exercise, provenance labels present (p.56 primary quote + SEP secondhand), quotes re-verified this session (dhspriory scan + SEP); citation repointed to the open dhspriory scan after the archive.org item went unavailable",
   "E020": "Reopened for QC: QC repair: supervisor CONDITIONAL FAIL (body overreached opened SEP); applying routed repair from QC-HANDOFF-p1w-2026-10-20",
   "E025": "Reopened for QC: QC repair: H.139/H.140 locators are English running pages; page-image verified correct locators are H.105 (M&R pp. 139/140), §22 at H.102/M&R p. 135",
   "E006": "Reopened for QC: QC repair: advisor order — distinguish the epoché (methodological step) from the daily-life analogy; third paragraph extended the method to everyday situations"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T07:44:57+00:00",
+ "updated": "2026-10-20T07:48:35+00:00",
  "band_done": false
 }
