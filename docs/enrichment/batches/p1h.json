@@ -50,7 +50,8 @@
   "AT063",
   "AT067",
   "AT075",
-  "BE072"
+  "BE072",
+  "BI004"
  ],
  "in_progress": null,
  "flagged": {
@@ -93,6 +94,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 15,
- "updated": "2026-10-20T03:47:21+00:00",
+ "updated": "2026-10-20T03:47:57+00:00",
  "band_done": false
 }

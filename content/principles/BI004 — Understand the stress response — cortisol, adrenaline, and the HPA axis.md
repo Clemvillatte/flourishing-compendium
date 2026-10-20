@@ -12,11 +12,20 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BI — Biophysi
 ---
 > **Principle 4** — Understand the stress response: cortisol, adrenaline, and the HPA axis
 
-The stress response involves the hypothalamic-pituitary-adrenal (HPA) axis: the release of cortisol and adrenaline. Acute stress is adaptive (mobilises resources); chronic stress is harmful (dysregulates the system, impairs cognition, and damages health).
+The stress response has a double character, and the review behind this page states it in one breath. Stress hormones protect the body in the short run and promote adaptation, which McEwen calls allostasis; and beyond the flight-or-fight response to acute stress, daily events can produce a chronic stress that leads over time to wear and tear on the body, which he calls allostatic load. (McEwen, 2007.)
 
-**Plain words** The stress response is a fire alarm, not a flaw: cortisol and adrenaline mobilise you for the threat. Acute stress is adaptive; chronic stress is the alarm taped on "on" — and the system wears out. Respect the alarm, but don't live in it.
+> "Yet, hormones associated with stress protect the body in the short-run and promote adaptation ('allostasis'). Beyond the 'flight-or-fight' response to acute stress, there are events in daily life that produce a type of chronic stress and lead over time to wear and tear on the body ('allostatic load')." (McEwen, 2007, [Physiological Reviews 87:873-904](https://journals.physiology.org/doi/full/10.1152/physrev.00041.2006))
 
-*For example:* The deadline sprint that sharpens you for a week — that's the system working. The same alarm ringing for the fifth straight month is the system breaking. The fire isn't that big.
+The page's title names cortisol, adrenaline and the HPA axis. The opened review speaks of stress hormones and glucocorticoids, and of the brain as the key organ of the response, determining what is threatening and whether the responses are adaptive or damaging. That last point is why appraisal and recovery are part of this principle, not just chemistry. (McEwen, 2007.)
+
+**Plain words**
+The system that mobilises you for a threat is doing its job when the threat is real and near. The same system, kept running for months, is the wear-and-tear story: the mediators do not distinguish a war from a bad term of work. The practical reading is timing: mobilise when it matters, and let the system stand down when it does not.
+
+*For example:* A deadline week with a racing heart and shallow breath is the acute response the review describes as protective. The same sensations in the fifth straight month, with no endpoint, are the chronic pattern it describes as wear and tear.
+
+## Sources
+
+- [McEwen (2007), Physiology and neurobiology of stress and adaptation: central role of the brain, Physiological Reviews 87:873-904](https://journals.physiology.org/doi/full/10.1152/physrev.00041.2006)
 ## Psychology parallels
 
 - **HPA axis and stress (Lupien, McEwen)**, the stress response involves cortisol and adrenaline; chronic stress dysregulates the system (Lupien et al., 2009; McEwen, 2007)
