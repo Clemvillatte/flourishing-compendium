@@ -198,3 +198,9 @@ Core prose (body per QC round-1 replacement text, VI.9 blockquote + IV.21 inline
 **Assertions dropped:** "It is trainable" (opened passages define the script, do not test trainability); "Kids can tell the difference by age six" (unsupported age claim).
 **Reciprocal candidates:** M025 (rootedness/openness synthesis; public body). Attachment security/theory concepts, K383, Ren, Place attachment, SE-S05 layer already link SE048.
 **QC:** standard checks; SE028 milestone standard applied.
+### SE055 — Learn to work with self and others' expectations
+**Done:** SE055.
+**Sources opened:** Cooley 1902, Human Nature and the Social Order, excerpt reproduced in mediastudies.press Social Media & the Self reader, https://www.mediastudies.press/pub/cooley-looking (three-principal-elements passage pp. 151-53 and imputed-sentiment passage, p. 149; string-verified in fetched page).
+**Assertions dropped:** Mead 1934, Tajfel & Turner 1979, Hogg & Abrams 1988 removed from bullet text (not opened; social identity theory bullet reduced to bare attribution link); "requires examined labels" removed from philosophy parallels per framing standard.
+**Reciprocal candidates:** none new; The looking-glass self concept (links SE055 twice) and E068 already connect.
+**QC:** standard checks; SE028 milestone standard applied.
