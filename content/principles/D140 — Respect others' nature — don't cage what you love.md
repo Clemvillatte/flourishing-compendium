@@ -12,21 +12,21 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 140** — Respect others' nature: don't cage what you love
 
-The story is from the eighteenth chapter of the Zhuangzi. A sea-bird alights in the suburban country of Lu; the marquis receives it in the ancestral temple, banquets it, performs the Jiu-shao music for it, and kills an ox, a sheep and a pig for its food. The bird "looked at everything with dim eyes, and was very sad", ate nothing, and "in three days it died".
+The story is from the eighteenth chapter of the Zhuangzi. A sea-bird alights in the suburban country of Lu; the marquis brings it to the ancestral temple and prepares a banquet, with Jiu-shao music and meat from an ox, a sheep and a pig. The bird "looked at everything with dim eyes, and was very sad", refused the offered meat and drink, and "in three days it died".
 
-> 'The marquis was trying to nourish the bird with what he used for himself, and not with the
-> nourishment proper for a bird.'
+> The marquis was trying to nourish the bird with what he used for himself, and not with the
+> nourishment proper for a bird.
 >
 > (Zhuangzi 18, Legge)
 
-The chapter states the moral in terms of constitution: "Fishes live and men die in the water. They are different in constitution, and therefore differ in their likes and dislikes." Hence "the ancient sages did not require (from all) the same ability, nor demand the same performances".
+The chapter states the moral in terms of constitution: "Fishes live and men die in the water. They are different in constitution, and therefore differ in their likes and dislikes." Hence "the ancient sages did not require (from all) the same ability, nor demand the same performances". The compendium applies this story to offering help or affection without assuming that another person shares your preferences.
 
 (Zhuangzi 18.)
 
 **Plain words**
-The marquis killed three animals for a bird that needed eels and quiet. The care was real and the care was lethal, because it was specified in the giver's language. The test for your own care: what does this creature actually eat, and where does it rest? If you do not know, you are feeding a bird from your own banquet.
+Before planning a favour, ask what the person would welcome. Explain what you have in mind and leave room for a different answer. Their response can guide what you offer.
 
-*For example:* Grandparents who feed a vegetarian grandchild their 'favorite' roast — love delivered in the wrong language.
+*For example:* Imagine grandparents planning dinner for a vegetarian grandchild. They ask what the grandchild eats and choose the meal accordingly.
 
 ## Sources
 
@@ -34,7 +34,7 @@ The marquis killed three animals for a bird that needed eels and quiet. The care
 
 ## Psychology parallels
 
-- **[[Conditional regard|Conditional regard]]**, love contingent on behavior undermines autonomy and self-worth (Assor, Roth and Deci, 2004)
+- **[[Conditional regard|Conditional regard]]** ([Assor, Roth and Deci, 2004](https://selfdeterminationtheory.org/wp-content/uploads/2014/04/2004_AssorRothDeci.pdf)): the studies linked perceived parental conditional regard with internal compulsion, resentment toward parents and ill-being.
 - **[[Attachment research on autonomy-granting|Attachment research on autonomy-granting]]**
 
 ## Philosophy parallels
