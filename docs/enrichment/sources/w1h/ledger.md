@@ -20,3 +20,13 @@
   second blockquote with locator.
 - Limitations: scoped acceptance of the displayed passages; no James or specious-present
   sources opened, so no Related-concepts section added.
+
+## Ecological relationality (fast-track)
+- Opened: SEP "Environmental Ethics" (Brennan & Lo, rev. 2021) — Leopold's foreword quote
+  ("That land is a community...") presented in the entry with locator (A Sand County
+  Almanac, vii-ix; body uses "foreword"); Næss total-field image, "knots" in the
+  biospherical net, Self-realization as realization of a wider ecological Self,
+  feminist objection. Disclosed as quoted-in-SEP for the Leopold line.
+- Whitehead named in seed only; no Whitehead source opened, no Whitehead claims made.
+- Related concepts grounded in their own pages (Deep ecology, Interbeing, The relational
+  self, Ubuntu). R116 link restored after validator caught it.

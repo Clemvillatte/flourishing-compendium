@@ -9,6 +9,21 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Ecological relationality” — Deep ecology tradition; Leopold, A Sand County Almanac; Whitehead, Process and Reality.
 
+Ecological relationality names the view that a living thing's identity is made of its relations to other organisms, to place, and to the systems that keep it alive. The compendium's seed names two sources for it, Leopold's land ethic and the deep ecology of Arne Næss, and both make the same move: the unit of moral attention shifts from the isolated individual to the web.
+
+> "That land is a community is the basic concept of ecology, but that land is to be loved and respected is an extension of ethics." (Leopold, A Sand County Almanac, foreword, quoted in [Brennan and Lo, "Environmental Ethics", Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/ethics-environmental/))
+
+### Knots in the net
+
+Næss worked out the relational side in detail. He rejected atomistic individualism, the idea of a person as a separate unit with a distinct essence, and proposed instead a "total-field image": organisms, human or otherwise, are "knots" in the biospherical net, so a living thing's identity is constituted by its relations, especially its ecological ones. His "Self-realization" is the realization of a wider ecological Self, and care for nature is meant to follow from identification with it rather than from duty alone. The [SEP entry](https://plato.stanford.edu/entries/ethics-environmental/) also records the feminist objection that an expanded self could license treating nature as one treats oneself, so identification needs the check of respecting nature as an independent other.
+
+### In the compendium
+
+- [[R129 — Practise ecological relationality as spiritual practice]] — Thomas Berry's version: the world as thou rather than it
+- [[R013 — Practise connection to Country]] — Country as a living relationship that constitutes identity in Aboriginal and Torres Strait Islander traditions
+- [[R028 — Practise kaitiakitanga]] — guardianship as reciprocity with land, waters and living things
+- the linked stories (ST255-ST258) give the view narrative form, from the green fire to Næss on the mountain
+
 ## Sources
 
 - Deep ecology tradition
@@ -18,6 +33,8 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 - Whitehead, Process and Reality
 
 - this volume, Section IX
+
+- [Andrew Brennan and Norva Y. S. Lo, "Environmental Ethics", Stanford Encyclopedia of Philosophy (first published 2002, revised 2021), section 2 (Leopold) and section 3.1 (Næss)](https://plato.stanford.edu/entries/ethics-environmental/) — the Leopold quotation, the total-field image, knots in the biospherical net, Self-realization and the feminist objection
 
 [[ST255 — The Green Fire Dies]]
 [[ST258 — Ashitaka Sees with Eyes Unclouded]]
@@ -29,3 +46,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 - [[R013 — Practise connection to Country]]
 - [[R028 — Practise kaitiakitanga]]
 - [[R116 — Practise ecological embeddedness]]
+
+## Related concepts
+
+- [[Deep ecology]] — Næss's own position, of which the relational view is the core
+- [[Interbeing]] — Thich Nhat Hanh's Buddhist version: to be is always to inter-be
+- [[The relational self]] — the same constitutive-relations idea applied to persons
+- [[Ubuntu]] — personhood constituted through community, the African relational counterpart
