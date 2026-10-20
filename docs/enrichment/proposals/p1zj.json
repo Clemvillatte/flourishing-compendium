@@ -1,6 +1,6 @@
 {
   "batch": "p1zj",
-  "revision": 30,
+  "revision": 31,
   "records": [
     {
       "action": "reciprocal",
@@ -365,6 +365,13 @@
       "link": "BE018",
       "why": "listed for comparison with scheduled skill-building activities",
       "notes": "target page read before proposing; White's effectance reading vs the BA scheduling practice"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Deliberation as rehearsal",
+      "link": "BE021",
+      "why": "listed for comparison with covert rehearsal as an imagined-practice format",
+      "notes": "target page read before proposing; Dewey's dramatic rehearsal in imagination vs DBT's covert rehearsal fallback"
     }
   ]
 }
