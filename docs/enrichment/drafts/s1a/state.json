@@ -297,7 +297,7 @@
    ]
   },
   "s1a-013": {
-   "status": "qc_pending",
+   "status": "ready",
    "angle": "D156: Muir rides a storm in a supple treetop; elasticity, anchorage and neighbouring trees, with no universal survival claim",
    "history": [
     {
@@ -313,9 +313,14 @@
      "t": "2026-10-20T14:00:09+00:00",
      "to": "qc_pending",
      "note": "Full primary and secondary archive opened; checker green; independent review requested"
+    },
+    {
+     "t": "2026-10-20T14:02:32+00:00",
+     "to": "ready",
+     "note": "Independent final advisor READY; primary facts, complete arc and D156 limits verified"
     }
    ]
   }
  },
- "updated": "2026-10-20T14:00:09+00:00"
+ "updated": "2026-10-20T14:02:32+00:00"
 }
