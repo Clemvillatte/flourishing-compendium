@@ -19,3 +19,11 @@
 ## E042 — Commitment without guarantees
 - Sources opened: Sartre, Existentialism Is a Humanism (marxists.org, verbatim quotes: "No rule of general morality...", "one need not hope in order to undertake one's work", "First I ought to commit myself and then act my commitment", anguish passage); Carleton 2012 Expert Rev Neurother 12:937-947 (PMID 23002938, abstract).
 - De Beauvoir (Ethics of Ambiguity) and Kierkegaard (Fear and Trembling) cited in the old line were not opened; dropped from the body. Hayes 2006 wikilink bullet inherited, unverified. Translator not displayed on fetched page; page says "English translation hosted at marxists.org". Claim that commitment "holds better than waiting" removed.
+
+## E050 — Stages of existence
+- Sources opened: SEP Kierkegaard (Lippitt & Evans) sections 1, 3, 3.1-3.3 (verbatim: "A common way to interpret...", "over-simplification", "the later stages do not simply replace the earlier ones", "the aesthetic is never really left behind", transitions "do not happen automatically or inevitably"); IEP not needed.
+- Primary texts (Either/Or, Fear and Trembling, Postscript) not opened; page says so. Old "they're climbed, not skipped" and "next rung" removed since SEP says the scheme is not purely linear. Erikson/Kohlberg/Fowler bullet inherited, unverified; page does not claim equivalence.
+
+## E052 — Leap of faith
+- Sources opened: SEP Kierkegaard 3.3.1 (verbatim: "reject any attempt to base faith in the God-man on historical evidence"; "neither can be fully justified by reason"; "repeatedly tells us he cannot understand Abraham"); IEP Kierkegaard 2d (verbatim: "offense to reason, which can only be overcome by a leap of faith. But even a leap is under the control of the individual."; Climacus not Kierkegaard proclaims "truth is subjectivity").
+- No primary-source quote; page states this. SEP does not say whether Kierkegaard used the phrase "leap of faith". Old claim "commitments are prior to evidence, ground on which evidence stands" is not in sources; removed. Carleton/Hayes bullets inherited.

@@ -12,13 +12,24 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 444** — Practise the leap of faith
 
-Recognise that there are moments when reason reaches its limit and you must leap — not into irrationality, but into commitment that exceeds what can be justified. The leap of faith is not belief without evidence; it is the recognition that some commitments are prior to evidence, that they are the ground on which evidence stands.
+Kierkegaard's pseudonymous works do not offer faith as a conclusion drawn from evidence. The [Stanford Encyclopedia](https://plato.stanford.edu/entries/kierkegaard/) reports that Climacus and Kierkegaard "reject any attempt to base faith in the God-man on historical evidence", and that faith and offence "are opposite and rival passions, and neither can be fully justified by reason" (section 3.3.1). The [Internet Encyclopedia of Philosophy](https://iep.utm.edu/kierkega/) adds a nuance:
 
-(Kierkegaard, 1843/1986, Fear and Trembling; Kierkegaard, 1846/1992, Concluding Unscientific Postscript.)
+> The paradox of the Christian incarnation is presented as an offense to reason, which can only be overcome by a leap of faith. But even a leap is under the control of the individual.
 
-**Plain words** The leap of faith: moments when reason reaches its limit and you must leap — not into irrationality, but into commitment that exceeds what can be justified. Not belief without evidence; the recognition that some commitments are prior to evidence. The leap is structural; the destination is yours to pick.
+The same entry says Climacus, not Kierkegaard, proclaims that "truth is subjectivity". Fear and Trembling is narrated by Johannes de silentio, who "repeatedly tells us he cannot understand Abraham", so its views should not be taken as Kierkegaard's own (SEP).
 
-*For example:* No argument ever fully justified the marriage, the child, the vocation — every such commitment outruns its evidence and always has. The people waiting for the proof to complete before leaping are still waiting, correctly, because it doesn't exist.
+(Kierkegaard, Fear and Trembling; Concluding Unscientific Postscript; as read via SEP and IEP.)
+
+**Plain words** In these accounts the leap is a personal commitment that evidence alone cannot settle. It is not presented as a technique for everyday decisions. Applying it to marriage or career is the compendium's extension.
+
+For example (imagined): someone deciding to move abroad has gathered every fact available and still faces a choice the facts do not make. The leap, in the loose modern sense, is deciding anyway.
+
+## Sources
+
+- [Stanford Encyclopedia of Philosophy, Søren Kierkegaard](https://plato.stanford.edu/entries/kierkegaard/), section 3.3.1 (Lippitt and Evans)
+- [Internet Encyclopedia of Philosophy, Søren Kierkegaard](https://iep.utm.edu/kierkega/), section 2d
+- Neither primary text was opened; no verbatim Kierkegaard quotation is given on this page
+
 ## Psychology parallels
 
 - **[[Tolerance of uncertainty|Tolerance of uncertainty]]** (Carleton, 2012)

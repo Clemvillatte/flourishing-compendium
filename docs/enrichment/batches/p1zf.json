@@ -5,11 +5,13 @@
   "E015",
   "E017",
   "E022",
-  "E042"
+  "E042",
+  "E050",
+  "E052"
  ],
  "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T08:23:11+00:00"
+ "updated": "2026-10-20T08:24:19+00:00"
 }
