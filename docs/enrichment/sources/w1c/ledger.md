@@ -332,3 +332,7 @@ legacy schema (state keys + proposals) — MERGED, never replaced.
 - Reciprocals: Intrinsic-motivation proposal replaced with two safe proposals into MO011 (Autonomous motivation, Controlled motivation); namespace audit marked "principle connections proposed; application pending".
 - Adjacency verified: the joined identification quotation is one contiguous passage in the PDF (pdftotext lines 310-313, no intervening text).
 - Validation: all three existing pages PASS vs takeover baseline 57732d5b under the fast-track profile (applicable profile; word-min waived); original-wikilink diff inspected — additions only, zero removals. Granular pages PASS. Build 5,720 ok.
+
+### Milestone QC PASS (2026-10-20, worker-p1f-9d3f7c2b)
+- Round 3 advisor verdict: PASS for the scoped w1c milestone re-review (commit d6a14fb3). Repairs across rounds 1-2 all verified: unsupported clauses removed, study conditions restored, MO011 reciprocals safely proposed, quotation adjacency verified against the PDF, original wikilinks preserved (diff additions only), three existing pages PASS vs takeover baseline 57732d5b fast-track profile, granulars PASS, build 5,720 ok.
+- Still pending, not blocking w1c: p1f closure re-review; MO011 proposal application (supervisor).
