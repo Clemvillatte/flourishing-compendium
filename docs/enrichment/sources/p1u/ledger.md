@@ -42,6 +42,30 @@ scope error and restoration to the owner.
 - Inherited Tang review, Aristotle and James parallels remain unverified.
   Original metadata, links, statement and reflections preserved.
 - Saturation: Gradual training and Habituation already cite B013.
+- Tenth-valid-item advisor: quote, sequence, sample and preservation PASS;
+  required separating author-stated component limitation from editorial
+  exclusion of temperament/stress-reactivity claims. Exact recommended
+  correction applied, with an additional citation on the methods inference.
+  D178's final closing/binding wording independently PASS.
+
+## B059: Retreat periodically (2026-10-20)
+
+- Membership verified before start. Re-read opened MN 27, Abandoning
+  the Hindrances: https://www.accesstoinsight.org/tipitaka/mn/mn.027.than.html .
+  Exact complete after-meal sentence quoted. Account is monastic, not
+  a schedule promising depth from days of silence.
+- Search "MacLean 2010 intensive meditation perceptual sustained attention
+  randomized retreat", opened https://pmc.ncbi.nlm.nih.gov/articles/PMC3132583/ .
+  Abstract/methods support 60 participants, random assignment 30/30,
+  three months, approximately five hours shamatha daily and visual
+  discrimination improvement. No general well-being result claimed.
+- An initial guessed PMC URL led to an unrelated work-stress study;
+  it is not used as evidence or counted as this item's source.
+- Removed the seed's universal depth/early-fear trajectory. Plain words
+  and imagined care-responsibility example are planning advice, no outcome
+  claim. Davidson/McEwen and Pieper parallels remain unverified.
+- Saturation: Gradual training already cites B059. Leisure's missing
+  backlink was not proposed on the strength of unverified Pieper claims.
 
 ## D105: Need little (2026-10-20)
 
