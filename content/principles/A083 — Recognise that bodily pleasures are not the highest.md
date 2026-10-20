@@ -14,9 +14,11 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 
 The view that pleasure is replenishment "seems to be based on the pains and pleasures connected with nutrition": people are pleased by food because they were first in pain from hunger (NE X.3). Aristotle answers that this cannot cover the field: "the pleasures of learning and, among the sensuous pleasures, those of smell, and also many sounds and sights, and memories and hopes, do not presuppose pain" (X.3).
 
-The hierarchy he does defend is stated in Book X's account of happiness:
+In X.7, Aristotle explicitly compares the pleasures of virtuous activities:
 
 > "we think happiness has pleasure mingled with it, but the activity of philosophic wisdom is admittedly the pleasantest of virtuous activities; at all events the pursuit of it is thought to offer pleasures marvellous for their purity and their enduringness"
+
+This comparison is narrower than a ranking of every bodily pleasure.
 
 The contemplative activity "seems both to be superior in serious worth and to aim at no end beyond itself, and to have its pleasure proper to itself" (X.7).
 

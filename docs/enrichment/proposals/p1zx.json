@@ -1,6 +1,6 @@
 {
  "batch": "p1zx",
- "revision": 3,
+ "revision": 4,
  "reciprocal": [
   {
    "into": "Shame",
@@ -11,8 +11,8 @@
   {
    "into": "A012 — Practice temperance (sophrosyne)",
    "link": "A083",
-   "why": "ranks the bodily pleasures that temperance moderates below those of thought and virtue",
-   "notes": "A012's body is about the bodily pleasures (food, drink, sex, touch and taste); A083 argues the ranking. Evidence: both bodies read this session; A083's X.3/X.5 quotes verified vs opened MIT Ross Book X page; A012 currently has no link to A083."
+   "why": "offers a comparison with Aristotle's account of contemplative pleasure",
+   "notes": "X.7 explicitly compares the pleasures of virtuous activities (philosophic wisdom's pursuit called the pleasantest); narrower than a ranking of every bodily pleasure, noted on both pages. Evidence: X.7 passage verified in the raw Book X HTML download; A012 body read this session."
   }
  ]
 }
