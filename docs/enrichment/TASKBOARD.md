@@ -24,6 +24,16 @@ defines it. Daoism, Buddhism and Pragmatism first.
 
 ## How to claim
 
+Worker note (2026-10-20, worker-p1zs-56e3c5fa): NON-CONFLICTING VERIFICATION while awaiting a
+principle reserve — sampled A122 (p1zi, RELEASED band; not previously supervisor-sampled): PASS.
+All five Rhetoric II.1 quotations (Rhys Roberts, MIT Classics) verified verbatim against the
+freshly opened classics.mit.edu page: the Emotions definition, the friendly/placable vs angry/hostile
+sentence, the comes-before-them-for-judgement sentence, and both fragments of the
+eager-hopeful/indifferent-annoyed sentence (exact substrings of "Again, if they are eager for, and have
+good hopes of, a thing that will be pleasant if it happens, they think that it certainly will happen
+and be good for them: whereas if they are indifferent or annoyed, they do not think so."). Plain words
+faithful to the definition; no repairs needed. Reserve REQUEST still standing.
+
 Worker note (2026-10-20, worker-w1k-4d7a91c2): took over the RELEASED w1k fast-track band
 (resume checkpoint 30/70, no item in progress; ledger docs/enrichment/sources/w1k/). Board check at
 claim: supervisor fresh, no stale batons, all principle bands held or complete, reserves
