@@ -12,17 +12,24 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 25** — Feed the belly, not the eye
 
-Choose substance over stimulation: what nourishes over what impresses, the meal over the menu, the deep over the shiny.
+Chapter 12 describes colours, music and flavours impairing the senses, racing and hunting disturbing the mind, and rare objects leading conduct astray. The sage's preference for the belly follows these warnings about what people pursue. (DDJ 12.)
 
-(DDJ 12.)
+> "Therefore the sage seeks to satisfy (the craving of) the belly, and not the (insatiable longing of the) eyes." (DDJ 12, [Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
-**Plain words** The eye is always hungrier than the belly — it wants the twelve-course tasting menu while the body just needed dinner. Feed what actually nourishes you, not what impresses you, and notice how much of what you were consuming was noise.
+The compendium applies this contrast to decisions about spending: begin with what you need a purchase to do before considering how attractive it looks.
 
-*For example:* The fancy restaurant's tasting menu photographs beautifully; the simple bowl of soup your grandmother made actually feeds you.
+**Plain words**
+Before buying something, name the problem you want it to solve. Check what you already own that could do the job. Then decide what the additional features or appearance would give you and whether you want to pay for that.
+
+*For example:* Imagine admiring a new phone in a shop window. Your current phone handles every task you need. You decide to keep it and put the money toward repairing your broken heater.
+
+## Sources
+
+- [Tao Teh King, James Legge translation, Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm) — chapter 12
 
 ## Psychology parallels
 
-- **[[Experiential purchases|Experiential purchases]]** (Van Boven and Gilovich, 2003), outperform material purchases for well-being
+- **[[Experiential purchases|Experiential purchases]]** (Van Boven and Gilovich, 2003)
 - **[[Intrinsic versus extrinsic goals|Intrinsic versus extrinsic goal content]]** (Kasser and Ryan, 1996)
 
 ## Philosophy parallels
