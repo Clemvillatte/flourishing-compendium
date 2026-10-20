@@ -12,16 +12,31 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 38** — Make self-study a discipline
 
-Svadhyaya is classically the recitation and study of sacred texts; the bounded formulation is disciplined self-study: the scheduled examination of one's own mind, life, and patterns, in writing or dialogue. The tradition treats it as an observance, a practice done on schedule, not when crisis demands it. Practically, keep the study appointment as you would any other.
+Svadhyaya has a narrower classical sense than self-study. In Vyasa's commentary on 2.1 it is recitation and reading: "the repetition of purifying formulae such as the Mystic Syllable (pranava) or the study of books on Liberation" (trans. Woods, [p. 103](https://archive.org/details/yogasystemofpata00wooduoft)). Sutra 2.32 makes it one of the five observances: "Cleanliness and contentment and self-castigation and study and devotion to the Isvara are the observances" (p. 181). The Taittiriya Upanishad hands it to the departing student as a standing order: "Never neglect Svādhyāya (study of oneself) and Pravacana (exposition of Vedas)" (I.11.1).
 
-(YS 2.1; YS 2.44; Taittiriya Upanishad 1.11, "do not neglect self-study.")
+### The fruit
 
-**Plain words** Self-study as a discipline: the scheduled examination of your own mind, life, and patterns — in writing or dialogue — done on schedule, not on inspiration. The tradition treats it as an observance: it happens because it's Tuesday, not because you feel like it.
+Sutra 2.44: "As a result of study there is communion with the chosen deity." Vyasa's comment is concrete: "Gods and sages and perfected men come within the range of vision of [the yogin] who has the disposition to study; and are helpful to his work" (p. 190).
 
-*For example:* The person who journals "when I'm ready" (never) — versus the one with the Sunday slot: twenty minutes, three questions, same chair. After a year, one of them has a map of their own mind; the other has intentions.
+### What the principle adds
+
+The extension from reciting texts to examining one's own mind on a schedule is the principle's reading, not the sutra's. What the sources establish is the standing, non-optional character of the practice: an observance among observances, and an instruction not to neglect it.
+
+**Plain words** The discipline lives in the calendar, not the mood. Recitation was the classical form, and its point transfers: something you read or write about yourself, done at a set time, whether or not insight shows up that day. The Upanishad's word to the graduating student is "never neglect", which is about attendance, not inspiration.
+
+*For example:* Imagined: a Sunday slot, twenty minutes, three questions in the same notebook. Some Sundays produce a paragraph, some two lines. After a year the notebook holds a year of the mind, which no burst of inspiration would have produced.
+
+(Yoga Sutra 2.1, 2.32 and 2.44 with Vyasa's Bhasya, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), pp. 103, 181, 190; Taittiriya Upanishad I.11.1.)
+
+## Sources
+
+- [Woods, The Yoga-System of Patanjali (1914), Internet Archive](https://archive.org/details/yogasystemofpata00wooduoft) — pp. 103, 181, 190
+- [Taittiriya Upanishad I.11.1, Wikipedia](https://en.wikipedia.org/wiki/Taittiriya_Upanishad) — "Never neglect Svādhyāya"
+- [Expressive writing, Wikipedia](https://en.wikipedia.org/wiki/Expressive_writing) — Pennebaker replications
+
 ## Psychology parallels
 
-- **[[Expressive writing|Expressive writing and structured self-reflection]]**, the modest but reliable effects (Pennebaker & Beall, 1986)
+- **[[Expressive writing|Expressive writing and structured self-reflection]]**, effects that are widely replicated, with some mixed outcomes (Pennebaker & Beall, 1986; per Wikipedia's summary, benefits including "reduced blood pressure, improved mood, reduced depressive symptoms")
 
 ## Philosophy parallels
 
