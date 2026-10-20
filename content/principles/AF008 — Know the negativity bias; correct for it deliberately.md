@@ -12,11 +12,23 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 8** — Know the negativity bias; correct for it deliberately
 
-Bad is stronger than good: negative information is processed more thoroughly, weighted more heavily, and remembered more vividly than positive information. This is an evolutionary bias, not a truth about the world. Correcting for it is a skill, not a denial.
+The review's thesis: "The greater power of bad events over good ones is found in everyday events, major life events (e.g., trauma), close relationship outcomes, social network patterns, interpersonal interactions, and learning processes. Bad emotions, bad parents, and bad feedback have more impact than good ones, and bad information is processed more thoroughly than good" ([Baumeister et al., 2001](https://carlsonschool.umn.edu/sites/carlsonschool.umn.edu/files/2026-01/vohs-et-al-2001-bad-stronger-good.pdf)). The meaning of the thesis: "bad things will produce larger, more consistent, more multifaceted, or more lasting effects than good things" ([Baumeister et al., 2001](https://carlsonschool.umn.edu/sites/carlsonschool.umn.edu/files/2026-01/vohs-et-al-2001-bad-stronger-good.pdf)). The authors' evolutionary explanation is offered with an explicit caution — they call it "admittedly speculative" — and their closing note is that "many lives can be happy by virtue of having far more good than bad events" ([Baumeister et al., 2001](https://carlsonschool.umn.edu/sites/carlsonschool.umn.edu/files/2026-01/vohs-et-al-2001-bad-stronger-good.pdf)). The exercise below invites observation of the balance.
 
-**Plain words** Bad is stronger than good: negative information is processed more thoroughly, weighted more heavily, remembered more vividly. An evolutionary bias, not a truth about the world. Correct for it deliberately — count the good events, weight the feedback.
+> The greater power of bad events over good ones is found in everyday events, major life events (e.g., trauma), close relationship outcomes, social network patterns, interpersonal interactions, and learning processes. Bad emotions, bad parents, and bad feedback have more impact than good ones, and bad information is processed more thoroughly than good.
+>
+> Baumeister, Bratslavsky, Finkenauer and Vohs, "Bad Is Stronger Than Good," Review of General Psychology 5(4), 323–370, [paper PDF](https://carlsonschool.umn.edu/sites/carlsonschool.umn.edu/files/2026-01/vohs-et-al-2001-bad-stronger-good.pdf).
 
-*For example:* The performance review with nine strengths and one critique — and the drive home that contains only the critique. The correction is mechanical: write the nine down, re-read, then decide what the review actually said.
+> Even though a bad event may have a stronger impact than a comparable good event, many lives can be happy by virtue of having far more good than bad events.
+>
+> Baumeister, Bratslavsky, Finkenauer and Vohs (2001), same paper, [paper PDF](https://carlsonschool.umn.edu/sites/carlsonschool.umn.edu/files/2026-01/vohs-et-al-2001-bad-stronger-good.pdf).
+
+(Baumeister et al., 2001, Review of General Psychology 5(4): 323–370.)
+
+### Plain words
+
+The review's claim is about impact: bad events, feedback and information produce larger or more lasting effects than comparable good ones. The evolutionary explanation is marked speculative by the authors themselves, and their closing note is that lives can be happy with far more good than bad. For an exercise, take one day and count the good and bad events as they happened, without correcting either number.
+
+For example: after a review with nine strengths and one critique, write down all ten as they were stated, and note which ones you remembered on the way home. (An invented illustration.)
 ## Psychology parallels
 
 - **[[Negativity bias|Negativity bias]]**, negative events elicit stronger and faster reactions than positive events (Baumeister et al., 2001; Rozin & Royzman, 2001)
