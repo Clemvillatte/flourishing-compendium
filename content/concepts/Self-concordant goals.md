@@ -13,7 +13,7 @@ A goal is self-concordant when it is consistent with the person's developing int
 >
 > (Sheldon and Elliot, "Goal striving, need satisfaction, and longitudinal well-being: the self-concordance model", Journal of Personality and Social Psychology 76(3), 1999, [PubMed](https://pubmed.ncbi.nlm.nih.gov/10101878/))
 
-Second, "those who attain self-concordant goals reap greater well-being benefits from their attainment," and the attainment-to-well-being effects "are mediated by need satisfaction, i.e., daily activity-based experiences of autonomy, competence, and relatedness that accumulate during the period of striving." The model fit three longitudinal data sets and was independent of the effects of self-efficacy, implementation intentions, avoidance framing, and life skills (Sheldon and Elliot 1999).
+Second, the authors report that "those who attain self-concordant goals reap greater well-being benefits from their attainment"; the attainment-to-well-being effects "are mediated by need satisfaction, i.e., daily activity-based experiences of autonomy, competence, and relatedness that accumulate during the period of striving." The model fit three longitudinal data sets and was independent of the effects of self-efficacy, implementation intentions, avoidance framing, and life skills (Sheldon and Elliot 1999).
 
 ## Facets
 
@@ -21,9 +21,9 @@ Second, "those who attain self-concordant goals reap greater well-being benefits
 
 ## Related concepts
 
-- [[Autonomous motivation]] — the kind of motivation self-concordant goals express
-- [[Intrinsic motivation]] — the inherent-interest ground of self-concordance
-- [[Eudaimonic well-being]] — the outcome the model predicts
+- [[Autonomous motivation]]
+- [[Intrinsic motivation]]
+- [[Eudaimonic well-being]]
 
 ## Sources
 
