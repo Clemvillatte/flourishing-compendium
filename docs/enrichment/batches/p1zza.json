@@ -5,14 +5,15 @@
   "SE042",
   "SP093",
   "AF039",
-  "AF050"
+  "AF050",
+  "AF077"
  ],
- "in_progress": "AF077",
+ "in_progress": null,
  "flagged": {
   "SE042": "Reopened for QC: QC round 1 (advisor): traits-opposition misread, causal inference, unopened White & Epston gloss, plain-words duplication; repairing"
  },
  "missing_concepts": [],
- "sources_checked": 7,
- "updated": "2026-10-20T16:07:33+00:00",
+ "sources_checked": 9,
+ "updated": "2026-10-20T16:08:19+00:00",
  "band_done": false
 }
