@@ -35,12 +35,12 @@
   "Revaluation of all values",
   "Reinforcement schedules (Ferster & Skinner)",
   "Relational Developmental Systems Theory",
-  "Temporal dynamics of regulation",
   "Schadenfreude's relational costs",
   "Self-Completion Theory",
   "Risk perception",
   "Self-overcoming",
-  "Social capital theory Putnam"
+  "Social capital theory Putnam",
+  "Temporal dynamics of regulation"
  ],
  "in_progress": null,
  "flagged": {
@@ -75,11 +75,11 @@
   "Self-Completion Theory": "Reopened for QC: QC round 4: per-sentence citations on theory-origin and prediction sentences",
   "Self-overcoming": "Reopened for QC: QC round 4: per-sentence citations on reported-claim sentences",
   "Social capital theory Putnam": "Reopened for QC: QC round 4: per-sentence citations on bowling and civic-network sentences",
-  "Temporal dynamics of regulation": "Reopened for QC: QC round 3: sentence-level citations",
+  "Temporal dynamics of regulation": "Reopened for QC: QC round 4: per-sentence citations on comparison sentences",
   "Risk perception": "Reopened for QC: QC round 4: per-sentence citations on opening and lay-judgment sentences"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T12:16:15+00:00",
+ "updated": "2026-10-20T12:16:21+00:00",
  "band_done": false
 }
