@@ -12,18 +12,18 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 61** — Make "being a process" your identity
 
-Rogers describes the fully functioning person as a direction rather than a state: a person moving toward openness to experience, existential living, and trust in the organism. On his account the self emerges from experience rather than being fixed in advance. (Rogers, On Becoming a Person.)
+Rogers connects becoming more fully functioning with increasing openness to experience, living fully in each moment, and trust in one's organism. He describes self and personality as emerging from experience. (Rogers, On Becoming a Person.)
 
 > "It appears that the person who is psychologically free moves in the direction of becoming a more fully functioning person. He is more able to live fully in and with each and all of his feelings and reactions." (Rogers, On Becoming a Person, [Panarchy excerpt](https://www.panarchy.org/rogers/person.html))
 
 > "One way of expressing the fluidity which is present in such existential living is to say that the self and personality emerge from experience rather than experience being translated or twisted to fit pre-conceived self-structure." (Rogers, On Becoming a Person, [Panarchy excerpt](https://www.panarchy.org/rogers/person.html))
 
-The compendium's exercise: describe yourself with verbs of movement (learning, trying, revising) rather than nouns of attainment, and see which description fits the evidence better.
+The compendium's exercise: choose one part of your life and describe what you are learning, trying, or revising.
 
 **Plain words**
-Describe yourself by what you are doing lately rather than by what you have become. Watch for the verbs: growing, testing, revising.
+What are you learning at present? Name one recent experience that has changed how you describe yourself.
 
-*For example:* Imagine you retire and are asked what you do. You answer with the garden you are learning to run and the class you are teaching yourself to draw, rather than with your former job title.
+*For example:* Imagine you retire and someone asks what you do. You tell them about the garden you are learning to tend and the drawings you are learning to make.
 
 ## Sources
 

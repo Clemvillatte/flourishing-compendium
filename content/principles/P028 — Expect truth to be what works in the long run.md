@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 28** — Expect truth to be what works in the long run
 
-Peirce defines truth as the opinion fated to be ultimately agreed to by all who investigate, reached by a process that carries even antagonistic views to one conclusion. James states the working version: true ideas are those we can assimilate, validate, corroborate and verify. (Peirce, How to Make Our Ideas Clear; James, Pragmatism, lecture 6.)
+Peirce defines truth as the opinion fated to be ultimately agreed to by all who investigate, reached by a process that carries even antagonistic views to one conclusion. James separately describes true ideas as those we can assimilate, validate, corroborate and verify. (Peirce, How to Make Our Ideas Clear; James, Pragmatism, lecture 6.)
 
 > "The opinion which is fated to be ultimately agreed to by all who investigate, is what we mean by the truth, and the object represented in this opinion is the real." (Peirce, "How to Make Our Ideas Clear," in Chance, Love, and Logic, [Gutenberg](https://www.gutenberg.org/cache/epub/65274/pg65274.txt))
 
@@ -25,7 +25,7 @@ The compendium's exercise for a working belief: name what would count as corrobo
 **Plain words**
 Give a new belief time to be checked. One good week is a checkpoint, and the verdict comes from what holds under longer testing.
 
-*For example:* Imagine you start a new sleep schedule that seems to work for a fortnight. You note what a month of mornings would have to look like before you call it true for you.
+*For example:* Imagine you believe you sleep longer under a new schedule. You record bedtimes and waking times over several weeks, including nights that do not fit your expectation.
 
 ## Sources
 

@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 188** — Find the moral equivalent of war in constructive service
 
-James grants the war-party its premise: the martial virtues are real, were bred by war, and peace cannot simply be a pleasure-economy. His own remedy is a conscription of the youthful population into an army enlisted against Nature; the compendium reads the equivalent as voluntary service and difficult craft instead. (James, "The Moral Equivalent of War," 1910.)
+James grants the war-party its premise: the martial virtues are real, were bred by war, and peace cannot simply be a pleasure-economy. His own remedy is a conscription of the youthful population into an army enlisted against Nature; the compendium reads the equivalent as voluntary service and difficult craft instead. The compendium rejects compulsory service and does not treat obedience or contempt for softness as absolute goods. (James, "The Moral Equivalent of War," 1910.)
 
 > "Martial virtues must be the enduring cement; intrepidity, contempt of softness, surrender of private interest, obedience to command, must still remain the rock upon which states are built" (James, "The Moral Equivalent of War," in Memories and Studies, [Gutenberg](https://www.gutenberg.org/cache/epub/20768/pg20768.txt))
 
@@ -23,7 +23,7 @@ James grants the war-party its premise: the martial virtues are real, were bred 
 The compendium's exercise: where you feel the pull of intensity, discipline, and comradeship in a cause, name a constructive task that needs those same capacities this month, and take one shift of it.
 
 **Plain words**
-War trained people to be tough, disciplined, and loyal to a shared task. Those capacities are worth keeping, and a shared difficult job can train them.
+James wants civilian work to carry some of the discipline he associates with military life. The compendium's version asks you to choose a useful, difficult task freely.
 
 *For example:* Imagine you miss the camaraderie of a team under pressure. You join a volunteer crew doing flood cleanup, taking the same hard shifts for a common task.
 

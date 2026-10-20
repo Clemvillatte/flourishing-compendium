@@ -465,11 +465,13 @@ opened text at the recorded URL.
   truth-happens passage read in context).
 - Verified verbatim: all three blockquotes. Transcription notes: James's
   small-caps emphasis (TRUE IDEAS... / HAPPENS / BECOMES / MADE /
-  veri-FICATION) is reproduced as printed in the Gutenberg text; the
-  double hyphens in the source's "veri-FICATION" sentence are rendered as
-  printed. Neither Gutenberg edition carries usable printed-page
-  markers (peirce.txt has only 2 marker-like hits, prag.txt none);
-  locators use essay and lecture.
+  veri-FICATION) is reproduced as printed in the Gutenberg text.
+  Citations use essay and lecture locators.
+- Advisor band-closure round: "James states the working version"
+  replaced with "James separately describes" (James's account is a
+  separate description, not a restatement of Peirce's), and the sleep
+  example rewritten to record evidence rather than slide from testing
+  a claim into personal usefulness.
 - The seed's "(Peirce, Collected Papers; ...)" replaced with the opened
   essay; Collected Papers not opened. The month-of-mornings exercise is
   labelled as the compendium's. Inherited psychology parallel
@@ -539,3 +541,18 @@ opened text at the recorded URL.
   already interconnected), fully functioning (39 results generated; the
   displayed subset inspected — A001/D001/ST139 ecosystem and incidental
   hits; no exhaustive claim). No new reciprocal proposals warranted.
+
+## Band-closure round 2 (2026-10-20, per advisor) — band closure ACCEPTED
+
+- P061: body, exercise, Plain words and example replaced with the
+  advisor's exact wording (the compressed self-schema reading removed;
+  the natural springboard example rebuilt without outcome promises).
+- P188: compendium framing extended per the advisor ("The compendium
+  rejects compulsory service and does not treat obedience or contempt
+  for softness as absolute goods."); Plain words replaced with the
+  advisor's wording.
+- Truncated reads completed: Plain words over beautiful read in full
+  (its citation list includes P188); P027's body read (the guess/verdict
+  pairing in P028's Related-concepts note verified against the actual
+  body). P028's ledger narrowed (double-hyphens claim removed; locator
+  wording reworded).
