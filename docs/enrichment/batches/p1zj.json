@@ -9,10 +9,14 @@
  ],
  "in_progress": null,
  "flagged": {
-  "AF002": "Reopened for QC: QC repair round 1 (advisor): scope claims to opened sources, standalone blockquote, example labelled imagined"
+  "AF002": "Reopened for QC: QC repair round 1 (advisor): scope claims to opened sources, standalone blockquote, example labelled imagined",
+  "AF013": "Reopened for QC: milestone QC repair: trainability claims exceed opened source",
+  "AF014": "Reopened for QC: milestone QC repair: fluctuation/persistence conflation; citation metadata fix",
+  "AF017": "Reopened for QC: milestone QC repair: uncorrelated-to-intervention overreach; practice diagnostic assertion",
+  "AF018": "Reopened for QC: milestone QC repair: readout-of-gap overreach; dropped source qualifiers restored"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T09:55:17+00:00",
+ "updated": "2026-10-20T09:59:45+00:00",
  "band_done": false
 }

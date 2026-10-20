@@ -12,15 +12,19 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 14** — Recognise emotional inertia: the difference between feeling and getting stuck
 
-The compendium's term comes from the emotion-dynamics literature. Kuppens and colleagues define it: "Emotional inertia refers to the degree to which a person's current emotional state is predicted by their prior emotional state, reflecting how much it carries over from one moment to the next" ([Kuppens et al., 2012, full text](https://ppw.kuleuven.be/okp/_pdf/Kuppens2012EIPPT.pdf)). Their prospective finding: "Greater inertia of both negative and positive emotional behaviors predicted the emergence of clinical depression 2.5 years later" in a sample of 165 early adolescents whose videotaped interactions with a parent were coded second by second ([Kuppens et al., 2012, same text](https://ppw.kuleuven.be/okp/_pdf/Kuppens2012EIPPT.pdf)). The authors report the prediction held above the other risk factors they included. The principle's reading is the signal one: a mood that carries over unchanged is a pattern to notice, whatever it feels like from inside.
+Kuppens and colleagues studied 165 early adolescents, coding emotional behavior second by second during interactions with a parent. They define emotional inertia as follows:
 
-**Plain words** The warning sign is not intensity. It is sameness: today's mood being mostly yesterday's, carried forward unchanged. Ask what changed your mood in the last day. If nothing could, that flatness is the pattern the principle points at.
+> "Emotional inertia refers to the degree to which a person's current emotional state is predicted by their prior emotional state, reflecting how much it carries over from one moment to the next." ([Kuppens et al., 2012, Emotion 12(2), author-hosted full text](https://ppw.kuleuven.be/okp/_pdf/Kuppens2012EIPPT.pdf))
 
-*For example:* (Imagined case.) After the same bad argument, one friend is furious that evening, distracted by a match the next day, and back to normal by the weekend. The other describes the week as fine, fine, fine, in the same flat tone, with the same low evenings. The second pattern is the one the adolescent study linked to later depression.
+Greater inertia in positive and negative emotional behaviors predicted depression onset 2.5 years later. This finding does not make a week of flat mood, a repeated word or a friend's tone a diagnostic measure.
+
+**Plain words** The question is how much a feeling carries into the next observation. Its intensity is a separate question. A casual description of feeling fine does not give you the measure used in this study.
+
+*For example:* In an imagined diary, you record irritation at two check-ins. Keep both entries as observations; they are not an inertia estimate or a forecast of depression.
 
 ## Sources
 
-- [Kuppens, P., Sheeber, L. B., Yap, M. B. H., Whittle, S., Simmons, J. G., & Allen, N. B. (2012). Emotional inertia prospectively predicts the onset of depressive disorder. Clinical Psychological Science 1(2), 159-171, full text](https://ppw.kuleuven.be/okp/_pdf/Kuppens2012EIPPT.pdf) — the definition and prospective finding quoted above
+- [Kuppens, P., Sheeber, L. B., Yap, M. B. H., Whittle, S., Simmons, J. G., & Allen, N. B. (2012). Emotional inertia prospectively predicts the onset of depressive disorder in adolescence. Emotion 12(2), 283-289, author-hosted full text](https://ppw.kuleuven.be/okp/_pdf/Kuppens2012EIPPT.pdf) — the definition and prospective finding; journal, volume and pages verified from the PDF's own title-page line (Emotion, 2012, Vol. 12, No. 2, 283-289)
 
 ## Psychology parallels
 

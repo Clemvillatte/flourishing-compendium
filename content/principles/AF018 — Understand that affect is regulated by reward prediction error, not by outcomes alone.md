@@ -12,16 +12,19 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 18** — Understand that affect is regulated by reward prediction error, not by outcomes alone
 
-Two findings carry the principle. The neuroscience: Schultz, Dayan and Montague report that "learning is driven by changes in the expectations about future salient events such as rewards and punishments," with primate dopamine neurons whose "fluctuating output apparently signals changes or errors in the predictions of future salient and rewarding events" ([Schultz et al., 1997, Science 275, abstract](https://pubmed.ncbi.nlm.nih.gov/9054347/)). The feeling side: in a gambling task replicated with 18,420 smartphone participants, "momentary happiness in response to outcomes of a probabilistic reward task is explained not by current task earnings, but by the combined influence of recent reward expectations and prediction errors arising from those expectations" ([Rutledge et al., 2014, PNAS 111, open full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC4143018/)). The same paper puts it plainly: momentary happiness "reflects not how well things are going but instead whether things are going better than expected." The compendium's application is the expectation audit: when a feeling seems out of proportion to an outcome, check what was predicted first.
+Rutledge and colleagues measured momentary happiness during a reward task, using a computational model. Their result:
 
-**Plain words** Your mood is not a readout of how things are. It is a readout of the gap. The same paycheck lands differently after a promised bonus than after a feared cut. Before judging an outcome, write down what you actually expected, because that expectation is part of what produced the feeling.
+> "Emotional reactivity in the form of momentary happiness in response to outcomes of a probabilistic reward task is explained not by current task earnings, but by the combined influence of recent reward expectations and prediction errors arising from those expectations." ([Rutledge, Skandali, Dayan and Dolan, 2014, PNAS 111(33), open full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC4143018/))
 
-*For example:* (Imagined case.) A planned raise lands and the week feels flat; an unannounced coffee from a colleague lifts the whole afternoon. The first outcome was already priced in; the second arrived with a positive gap. The practice is to notice which of your outcomes were already fully predicted.
+This does not show that momentary happiness always tracks expectations; the relation held within this task. A prediction error is a moment-to-moment quantity, not a settled account of how things are going.
+
+**Plain words** The claim concerns how a feeling at that moment is predicted: recent rewards, expectations about them, and the gap between the expectation and the outcome. If a pleasant surprise feels stronger than a fully planned one, this model is one place to look; the surprise does not have to be engineered.
+
+*For example:* In an imagined daily record, write what you expected before an outcome, the outcome, and the feeling afterward. Read them next to each other.
 
 ## Sources
 
-- [Schultz, W., Dayan, P., & Montague, P. R. (1997). A neural substrate of prediction and reward. Science 275(5306), 1593-1599, abstract](https://pubmed.ncbi.nlm.nih.gov/9054347/) — the prediction-error signalling claim quoted above
-- [Rutledge, R. B., Skandali, N., Dayan, P., & Dolan, R. J. (2014). A computational and neural model of momentary subjective well-being. PNAS 111(33), 12252-12257, open full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC4143018/) — the momentary-happiness finding quoted above
+- [Rutledge, R. B., Skandali, N., Dayan, P., & Dolan, R. J. (2014). A computational and neural model of momentary subjective well-being. PNAS 111(33), 12252-12257, open full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC4143018/) — the abstract sentence quoted above; the authors report a replication with 18,420 participants in the same paper
 
 ## Psychology parallels
 

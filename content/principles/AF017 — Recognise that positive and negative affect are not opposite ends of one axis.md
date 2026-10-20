@@ -12,15 +12,19 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 17** — Recognise that positive and negative affect are not opposite ends of one axis
 
-The evidence the principle rests on is a measurement result. In the scale that became standard for this work, Watson, Clark and Tellegen report that "positive and negative affect have consistently emerged as two dominant and relatively independent dimensions," and that their two 10-item scales are "highly internally consistent, largely uncorrelated, and stable at appropriate levels over a 2-month time period" ([Watson, Clark & Tellegen, 1988, PANAS scales, abstract](https://pubmed.ncbi.nlm.nih.gov/3397865/)). Two largely uncorrelated axes do not trade off: a drop on one axis is not a rise on the other. The compendium's practical reading follows: the two sides of mood are two accounts, and calming the negative account does not by itself fund the positive one.
+Watson, Clark and Tellegen developed the PANAS as two ten-item mood scales and reported that the scales were largely uncorrelated. Their abstract describes the dimensions as follows:
 
-**Plain words** Getting rid of the bad mood is a different job from building a good one. A person can end the panic and still have nothing in the place of it. Check both numbers when you check in: how heavy the negative side is today, and how much positive is actually running.
+> "In recent studies of the structure of affect, positive and negative affect have consistently emerged as two dominant and relatively independent dimensions." ([Watson, Clark and Tellegen, 1988, abstract](https://pubmed.ncbi.nlm.nih.gov/3397865/))
 
-*For example:* (Imagined case.) Someone spends a month calming anxiety with breathing exercises and succeeds, then reports feeling flat. Nothing in the independence claim says the positive side fills in when the negative side calms down; the compendium's reading is that it needs its own deposits.
+This finding concerns how the measures related in that research. It does not establish complete independence or show what an intervention would do to either score. The compendium's exercise is to record positive and negative experiences separately.
+
+**Plain words** Ask two questions: what felt unpleasant today, and what felt pleasant? Record both answers without assuming that knowing one tells you the other.
+
+*For example:* In an imagined daily note, you record worry about an appointment and enjoyment of a walk. Keep both entries rather than assigning the whole day one good-or-bad score.
 
 ## Sources
 
-- [Watson, D., Clark, L. A., & Tellegen, A. (1988). Development and validation of brief measures of positive and negative affect: The PANAS scales. Journal of Personality and Social Psychology 54(6), 1063-1070, abstract](https://pubmed.ncbi.nlm.nih.gov/3397865/) — the two-axis structure claim quoted above
+- [Watson, D., Clark, L. A., & Tellegen, A. (1988). Development and validation of brief measures of positive and negative affect: The PANAS scales. Journal of Personality and Social Psychology 54(6), 1063-1070, abstract](https://pubmed.ncbi.nlm.nih.gov/3397865/) — the two-dimension structure sentence quoted above; the scales' "largely uncorrelated" result is in the same abstract
 
 ## Psychology parallels
 
@@ -34,4 +38,4 @@ The evidence the principle rests on is a measurement result. In the scale that b
 
 ## Practice
 
-- Track positive and negative affect separately. If you have reduced negative affect but feel flat and joyless, this is an anhedonia pattern, not a success pattern.
+- Track positive and negative affect separately. If you have reduced negative affect but feel flat and joyless, record what actually felt pleasant today as a separate observation rather than a verdict on the effort.
