@@ -15,3 +15,7 @@
 ## MO072
 - NIMH Depression, NIMH ADHD, NIDA Drug Misuse and Addiction pages fetched; 7 quotations verified verbatim.
 - Limits: DSM-5-TR (APA 2022, inherited citation) not opened; no source on 'avolition' opened, body says it is not defined; ADHD page does not link ADHD to initiation problems explicitly (only inattention). Statement's 'chronic avolition' and 'inability to initiate' are therefore only partly supported. Example hypothetical.
+
+## PP020
+- Ericsson, Krampe & Tesch-Romer (1993) Psychol Rev 100:363-406 full text (NYT-hosted PDF) opened, 3 quotations grep-verified; Macnamara et al. (2014) Psychol Sci abstract via PubMed (24986855).
+- Limits: statement's 'immediate feedback at the edge of one's ability' phrase not found verbatim; body quotes the actual wording on teacher-supervised progression. Macnamara critique reported. Example hypothetical.

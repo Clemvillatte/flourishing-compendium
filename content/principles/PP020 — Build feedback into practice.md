@@ -12,13 +12,20 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 ---
 > **Principle 20** — Build feedback into practice
 
-Expertise is built through deliberate practice: structured repetition with immediate feedback at the edge of one's ability. Without feedback, practice consolidates existing patterns, including errors. The principle applies to any skill: seek feedback, structure it into the practice, and use it to adjust.
+Ericsson, Krampe and Tesch-Römer base their account of expert performance on a plain finding from learning research: "In the absence of adequate feedback, efficient learning is impossible and improvement only minimal even for highly motivated subjects. Hence mere repetition of an activity will not automatically lead to improvement in, especially, accuracy of performance". For complex skills, they say learners should "be supervised by a teacher to allow individualized diagnosis of errors, informative feedback, and remedial part training". The instructor "has to organize the sequence of appropriate training tasks and monitor improvement to decide when transitions to more complex and challenging tasks are appropriate" (Ericsson, Krampe & Tesch-Römer, 1993, Psychological Review 100(3), 363-406).
 
-(Ericsson et al., 1993; Macnamara et al., 2014, with the caveat that deliberate practice explains less variance than initially claimed.)
+The size of the effect is disputed. A meta-analysis found deliberate practice "explained 26% of the variance in performance for games, 21% for music, 18% for sports, 4% for education, and less than 1% for professions", and concluded that it "is important, but not as important as has been argued" (Macnamara, Hambrick & Oswald, 2014, Psychological Science, [PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/24986855/)). I found no passage in the sources I opened on practising at "the edge" of ability beyond the teacher's choice of progressively "more complex and challenging" tasks.
 
-**Plain words** Expertise comes from deliberate practice: structured repetition with quick feedback at the edge of your ability. Without feedback, practice reinforces what you already do, mistakes included. Build feedback into whatever you're learning.
+**Plain words**
+Doing something over and over does not make you better unless you find out how you are doing. Get quick, specific feedback from a coach, a recording or a test, and change what you do next. Practice has value, though it explains less of the gap between people than popular books claim.
 
-*For example:* A pianist records herself and listens back each week, not just repeating the piece blindly.
+**For example**
+A pianist records each rehearsal of a hard passage and listens back for uneven rhythm. She fixes it in the next run, which is feedback built into the practice.
+
+## Sources
+
+- [Ericsson, Krampe & Tesch-Römer (1993), The role of deliberate practice in the acquisition of expert performance, Psychological Review 100(3), 363-406](https://graphics8.nytimes.com/images/blogs/freakonomics/pdf/DeliberatePractice(PsychologicalReview).pdf): opened, full text
+- [Macnamara, Hambrick & Oswald (2014), Deliberate practice and performance in music, games, sports, education, and professions: a meta-analysis, Psychological Science](https://pubmed.ncbi.nlm.nih.gov/24986855/): abstract opened
 
 ## Stories
 
