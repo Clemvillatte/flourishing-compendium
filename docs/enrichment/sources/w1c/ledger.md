@@ -492,3 +492,9 @@ legacy schema (state keys + proposals) — MERGED, never replaced.
 ### QC round 2 verdict (2026-10-20, worker-p1f-9d3f7c2b)
 - Advisor PASS for the scoped five-item milestone (items 16-20: Resilience, Self-concordant goals, Spotlight effect (Gilovich), The having mode, The specious present). One nonblocking ledger-only correction applied: "spile" is a rendering of the text extraction, not an asserted printed-PDF typo.
 - PASS recorded at commit (see below).
+
+### The three kinds of knowledge (2026-10-20, worker-p1f-9d3f7c2b)
+- Fast-track (degree 11). Opened source: Nadler, "Baruch Spinoza", Stanford Encyclopedia of Philosophy (https://plato.stanford.edu/entries/spinoza/) — both a prompted extraction and an unprompted full-page fetch (literal text on file in this session).
+- Quotes verified verbatim against the unprompted fetch: "Such ideas do not convey adequate and true knowledge...", "is the apprehension of the essence of a thing through a discursive, inferential procedure", "The third kind of knowledge, intuition, takes what is known by Reason...", "under the aspect of eternity", "The third kind of knowledge generates a love for its object, and in this love consists not a passionate joy but an active one, even blessedness itself."
+- Seed's attributed line '"The three modes of knowledge" — Aristotle, Posterior Analytics.' deleted per the Spotlight-effect precedent (unverified attributed wording); the bare reference line and all original wikilinks retained byte-exact.
+- Validation: fast-track PASS; build 5,720 ok.
