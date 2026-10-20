@@ -12,11 +12,19 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 ---
 > **Principle 33** — Recognise the status quo bias: you prefer things as they are
 
-When in doubt, you stick with the current situation, even when alternatives are demonstrably better. The default is powerful. This affects career choices, investments, relationships, and health decisions.
+The paper that named the bias opens with the observation that most real decisions, unlike those of economics texts, have a status quo alternative, doing nothing or maintaining one's current or previous decision, and its series of decision-making experiments demonstrated that individuals disproportionately stick with the status quo ([Samuelson & Zeckhauser 1988](https://rzeckhauser.scholars.harvard.edu/sites/g/files/omnuum4441/files/rzeckhauser/files/status_quo_bias_in_decision_making.pdf)). The field data matters for the stakes: data on the selections of health and retirement programs by faculty members revealed that the status quo bias is substantial in important decisions.
 
-**Plain words** Status quo bias: when in doubt, you stick with the current situation — the job, the plan, the bank — even when alternatives are demonstrably better. The default is powerful. Audit your defaults annually; some of them were set by a much younger, less-informed you.
+> "Most real decisions, unlike those of economics texts, have a status quo alternative—that is, doing nothing or maintaining one's current or previous decision. A series of decision-making experiments demonstrate that individuals disproportionately stick with the status quo." (Samuelson & Zeckhauser 1988, [Journal of Risk and Uncertainty 1(1): 7-59](https://rzeckhauser.scholars.harvard.edu/sites/g/files/omnuum4441/files/rzeckhauser/files/status_quo_bias_in_decision_making.pdf))
 
-*For example:* The insurance policy that's 40% more expensive than the market because it was "just easier to renew" — and the annual defaults audit that catches it: career, bank, utilities, subscriptions. Every default was a decision someone made for you; re-make the important ones.
+**Plain words**
+The current arrangement has a home-field advantage: staying feels like not deciding, so the costs of staying stay invisible next to the effort of switching. The paper's field data is the reminder that the stakes are real: the same bias ran faculty members' health and retirement selections, and those are not small choices. The audit is the repair: for each standing arrangement, ask whether you would choose it fresh today.
+
+*For example:* An imagined case: an insurance policy renews for the fourth straight year at a premium the market has since beaten, and the renewal takes one click while the switch takes an afternoon. The annual defaults audit, career, bank, utilities, subscriptions, is the counter to the one-click asymmetry.
+
+## Sources
+
+- [Samuelson & Zeckhauser, "Status quo bias in decision making," Journal of Risk and Uncertainty 1(1): 7-59 (1988)](https://rzeckhauser.scholars.harvard.edu/sites/g/files/omnuum4441/files/rzeckhauser/files/status_quo_bias_in_decision_making.pdf) — abstract (Harvard-hosted PDF opened)
+
 ## Psychology parallels
 
 - **[[Status quo bias|Status quo bias]]**, people prefer the current state even when alternatives are better (Samuelson & Zeckhauser, 1988)
