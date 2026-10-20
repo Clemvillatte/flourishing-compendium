@@ -14,11 +14,11 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 
 The Stoic dichotomy comes first: some things are within your power, some are not. Epictetus names the poles — in our power are opinion, movement towards a thing, desire, aversion, in a word whatever are our own acts; not in our power are the body, property, reputation, offices, whatever are not our own acts. (Epictetus, Enchiridion 1, tr. Long, https://www.gutenberg.org/cache/epub/10661/pg10661-images.html.)
 
-This principle then splits the far side of the line by proximity: some things you can influence but not control (other people's behaviour, the outcomes of projects), and some you cannot touch at all (the weather, the past, other people's opinions). The instruction follows: focus your energy on what you control, invest in what you can influence, and accept what you cannot control.
+This principle then splits the far side of the line by proximity: some things you can influence but not control (other people's behaviour and opinions, the outcomes of projects), and some you cannot touch at all (the weather, the past). The instruction follows: focus your energy on what you control, invest in what you can influence, and accept what you cannot control.
 
-(Disc. I.1, I.12, I.22, I.25; Ench. 1.)
+(Ench. 1.)
 
-**Plain words** Before spending energy on anything, ask which of three bins it belongs in: yours to decide, yours to nudge, or not yours. Effort belongs in the first bin; patience in the second; and nothing at all in the third. Most frustration comes from putting first-bin energy into third-bin things.
+**Plain words** Before spending energy on anything, ask which of three bins it belongs in: yours to decide, yours to nudge, or not yours. Effort belongs in the first bin. The second takes effort too — you work on the nudge without counting on it landing. The third bin gets acceptance, not energy.
 
 *For example:* You can't make an editor accept your piece. You can control the draft, the pitch and the follow-up.
 
@@ -47,3 +47,4 @@ Is the three-part scheme more useful than the simple two-part one? Why?
 
 ## Sources
 - Epictetus, Enchiridion 1, tr. George Long — opened and verified (paraphrased in body; the source carries Greek parentheticals in the in-our-power line): https://www.gutenberg.org/cache/epub/10661/pg10661-images.html
+- Removed from the citation line as unverified inherited references (retained here): Disc. I.1, I.12, I.22, I.25

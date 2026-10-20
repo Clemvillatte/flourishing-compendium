@@ -426,3 +426,38 @@ never-band-assigned work; p1g state had them flagged-only, absent from p1g's man
   (Lyubomirsky) lists S077 — proposal added to proposals/p1zb.json (tight fit: the principle
   is about practising kindness); Parasocial contact hypothesis lists S077 — no action
   (loose fit). No other proposal warranted.
+
+## Round 5 QC repairs (advisor, items 21-25: S018 S042 S047 S053 S077)
+- Edition credit: Gutenberg 2680 (Meditations) carries NO translator credit — the catalog
+  page and the text header state none; the internal preface merely lists Long 1862 among
+  prior translations. All "tr. Long" attributions for Marcus quotes withdrawn (S042, S077);
+  now cited as "Project Gutenberg ebook 2680 — translator not stated in that edition".
+  The S013 round-4 note stands (it only said the preface lists Long among renderings), but
+  the S042/S077 round-4 "Long" attributions were errors, corrected here. The earlier S013
+  conclusion (VI.41/VII.33 do not carry the claim in the 2680 text) is NOT withdrawn —
+  those sections were opened and checked; the unverified citations are not restored.
+- Quote-boundary repairs (source commas no longer replaced by periods): S018 inn-room
+  quote extended to the full sentence ("...as travellers do with their inn"); S018 Ench. 15
+  extended to sentence end ("...worthy partner of the banquets of the gods"); S042 Epictetus
+  quote bounded at "to hate" without a substituted period; S077 Epictetus extended to the
+  full sentence ("...with reference to the whole"). S047 Ench. 5 restored to source wording
+  ("that it is terrible, is the terrible thing" — the round-4 text had inserted "this").
+- S018: restitution language framed as Epictetus's demanding exercise, not a verdict that
+  theft is not theft; example now holds grief and gratitude together instead of alternatives.
+- S042: taxonomy narrowed — the opened passages refuse imitation, anger and hatred; the
+  justice/revenge motive distinction presented as this principle's own draw; plain words'
+  unsupported psychological verdict removed.
+- S047: impression distinguished from proof (not necessarily from accurate representation);
+  "most disturbance lives in the story" attributed to Epictetus; concatenated philosophy-
+  parallel bullets split (Laozi / discipline of assent).
+- S053: other people's opinions moved to the influenceable category; plain words fixed
+  (second bin takes effort without counting on the outcome; "most frustration" claim dropped).
+- S077: "the duties run the same" corrected against Ench. 30 (duties measured by relations;
+  stranger's claim is shared humanity); passport slogan and repeated vine image removed from
+  plain words; concrete derivation of helping without expecting recognition.
+- Citation lines trimmed to opened evidence across all five items; the removed inherited
+  references are retained verbatim in each page's Sources section and in the per-item ledger
+  entries above.
+- Proposals direction corrected (revision 4): reciprocal records now request adding the
+  concept link INTO the principle page (into: principle, link: concept) for R059 x2, R107,
+  S077 — the concept pages already link the principles; the missing edge was the reverse.

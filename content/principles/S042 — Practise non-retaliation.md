@@ -12,13 +12,13 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 164** — Practise non-retaliation
 
-When wronged, the Stoic does not retaliate. Marcus gives the reason in a line: "The best kind of revenge is, not to become like unto them." (Marcus Aurelius, Meditations, tr. Long — printed as Bk VI §5 in the Gutenberg 2680 text.) Retaliation is a passion, not a virtue: it answers injury with the very thing it punishes. The Stoic may seek justice — restitution, protection, correction — but not revenge. The distinction is in the motive: justice seeks restoration; revenge seeks suffering.
+When wronged, the Stoic does not retaliate. Marcus gives the reason in a line: "The best kind of revenge is, not to become like unto them." (Marcus Aurelius, Meditations, Project Gutenberg ebook 2680, translator not stated in that edition; printed as Bk VI §5.) The refusal is of the imitation: answering injury with injury makes you what you punish. The Stoic may still seek justice — restitution, protection, correction — and the distinction this principle draws is in the motive: justice seeks restoration; revenge seeks suffering.
 
-Epictetus asks where the anger comes from: "This man who has been mistaken and deceived about the most important things, and blinded... should we not destroy him? If you speak thus you will see how inhuman this is which you say, and that it is just as if you would say, Ought we not to destroy this blind and deaf man?... Man, you ought not to be affected contrary to nature by the bad things of another. Pity him rather; drop this readiness to be offended and to hate." (Epictetus, Discourses I.18, tr. Long.) The ground of it is what we are: "we are all born to be fellow-workers, as the feet, the hands, and the eyelids... for such therefore to be in opposition, is against nature; and what is it to chafe at, and to be averse from, but to be in opposition?" (Marcus, printed as Bk I §15 in the Gutenberg text.)
+Epictetus asks where the anger comes from: "This man who has been mistaken and deceived about the most important things, and blinded... should we not destroy him? If you speak thus you will see how inhuman this is which you say, and that it is just as if you would say, Ought we not to destroy this blind and deaf man?... Man, you ought not to be affected contrary to nature by the bad things of another. Pity him rather; drop this readiness to be offended and to hate" (Epictetus, Discourses I.18, tr. Long.) — the passage's targets are anger and hatred, not the ordinary pursuit of remedy. The ground of it is what we are: "we are all born to be fellow-workers, as the feet, the hands, and the eyelids... for such therefore to be in opposition, is against nature; and what is it to chafe at, and to be averse from, but to be in opposition?" (Marcus, printed as Bk I §15 in the Gutenberg text.)
 
-(Med. II.1, II.13, IV.3, VI.6, VI.16, VII.22, IX.4; Seneca, De Ira I.5, II.1-4; Disc. I.18, III.12, III.22.)
+(Disc. I.18; Med., Gutenberg 2680.)
 
-**Plain words** Someone wrongs you. Justice asks: what repair does this situation need? Revenge asks: how do I make them feel it? Only the first is about the situation; the second is about your feelings, dressed as morality. And Marcus's line is practical, not lofty — if you become like the person who hurt you, you haven't won, you've doubled them.
+**Plain words** Someone wrongs you. Two questions are available: what repair does this situation need, and how do I make them feel it? The first can be acted on; the second only fed. Marcus's line keeps the arithmetic honest — if you become like the person who hurt you, you haven't won, you've doubled them.
 
 *For example:* Reporting a fraud to the authorities is justice. Posting the fraudster's address online is something else.
 
@@ -46,5 +46,6 @@ Does a society need some element of retribution to feel just? Argue against the 
 -->
 
 ## Sources
-- Marcus Aurelius, Meditations, tr. George Long — opened and verified verbatim: https://www.gutenberg.org/cache/epub/2680/pg2680.txt (in that text the revenge line is printed as Bk VI §5 and the fellow-workers passage as Bk I §15; the citation line's standard numbering II.1/VI.6 is inherited)
+- Marcus Aurelius, Meditations, Project Gutenberg ebook 2680 — opened and verified verbatim: https://www.gutenberg.org/cache/epub/2680/pg2680.txt (translator not stated in the edition; the revenge line is printed as Bk VI §5 and the fellow-workers passage as Bk I §15)
 - Epictetus, Discourses I.18, "That we ought not to be angry with the errors (faults) of others", tr. George Long — opened and verified verbatim: https://www.gutenberg.org/cache/epub/10661/pg10661-images.html
+- Removed from the citation line as unverified inherited references (retained here): Med. II.1, II.13, IV.3, VI.16, VII.22, IX.4; Seneca, De Ira I.5, II.1-4; Disc. III.12, III.22

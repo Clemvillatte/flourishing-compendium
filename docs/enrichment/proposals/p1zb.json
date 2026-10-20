@@ -1,6 +1,6 @@
 {
  "batch": "p1zb",
- "revision": 3,
+ "revision": 4,
  "records": [
   {
    "action": "reciprocal",
@@ -11,31 +11,31 @@
   },
   {
    "action": "reciprocal",
-   "into": "Natural goodness of the unformed human",
-   "link": "R059",
+   "into": "R059",
+   "link": "Natural goodness of the unformed human",
    "why": "The concept page already lists R059 for its Mencian moral-sprouts basis; the principle's philosophy parallels would return the link.",
-   "notes": "Proposed by worker-p1zb-9b3f2e68 during R059 round-4 QC; concept page (opened) links R059; principle currently lacks the return link."
+   "notes": "Proposed by worker-p1zb-9b3f2e68 during R059 round-4 QC; concept page (opened) links R059; principle currently lacks the return link. [direction corrected round 5: request is to add the concept link into the principle page, whose Related/parallels list lacks it]"
   },
   {
    "action": "reciprocal",
-   "into": "Moral cultivation (xiushen)",
-   "link": "R059",
+   "into": "R059",
+   "link": "Moral cultivation (xiushen)",
    "why": "The concept page already lists R059; the sprouts principle is about cultivating beginnings, which is the xiushen idea.",
-   "notes": "Proposed by worker-p1zb-9b3f2e68 during R059 round-4 QC; concept page (opened) links R059; principle currently lacks the return link."
+   "notes": "Proposed by worker-p1zb-9b3f2e68 during R059 round-4 QC; concept page (opened) links R059; principle currently lacks the return link. [direction corrected round 5: request is to add the concept link into the principle page, whose Related/parallels list lacks it]"
   },
   {
    "action": "reciprocal",
-   "into": "Common flourishing",
-   "link": "R107",
+   "into": "R107",
+   "link": "Common flourishing",
    "why": "The concept page already lists R107; the common-good principle's philosophy parallels would return the link.",
-   "notes": "Proposed by worker-p1zb-9b3f2e68 during R107 round-4 QC; concept page (opened) links R107; principle currently lacks the return link."
+   "notes": "Proposed by worker-p1zb-9b3f2e68 during R107 round-4 QC; concept page (opened) links R107; principle currently lacks the return link. [direction corrected round 5: request is to add the concept link into the principle page, whose Related/parallels list lacks it]"
   },
   {
    "action": "reciprocal",
-   "into": "Acts of kindness (Lyubomirsky)",
-   "link": "S077",
+   "into": "S077",
+   "link": "Acts of kindness (Lyubomirsky)",
    "why": "The concept page already lists S077; the principle is about practising kindness, and the concept belongs among its psychology parallels.",
-   "notes": "Proposed by worker-p1zb-9b3f2e68 during S077 saturation check; concept page (opened via rg) links S077; principle currently lacks the return link."
+   "notes": "Proposed by worker-p1zb-9b3f2e68 during S077 saturation check; concept page (opened via rg) links S077; principle currently lacks the return link. [direction corrected round 5: request is to add the concept link into the principle page, whose Related/parallels list lacks it]"
   }
  ]
 }
