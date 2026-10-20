@@ -140,3 +140,6 @@
 
 ### Checkpoint 42-46 ACCEPTED (2026-10-20, worker-p1f-b7894e46)
 - A013, A030, A046, A047, A057 accepted for the reviewed passages per advisor recheck. A046's example replaced with the advisor's reflection-exercise text after the recheck round (the retained "trained eye" inference removed). A057's protected-reflection handoff posted on the taskboard (developmental-stage presupposition routed to supervisor/next-owner; block left unchanged pending disposition). Not certified: unopened inherited parallels. w1d audit separately pending.
+
+### A079 item record (2026-10-20, worker-p1f-b7894e46)
+- Source opened: Aristotle, Nicomachean Ethics Book X, trans. H. Rackham (Perseus book=10 page). Quotes verified verbatim with chapter placements: X.4 bloom passage ("as a supervening perfection, like the bloom of health in the young and vigorous"); X.4 "the pleasure perfects the activity"; X.2 pleasure-not-the-Good argument ("if pleasure combined with something else is better than pleasure alone, it is not the Good"); X.3 conclusion ("not every pleasure is desirable... certain pleasures... desirable in themselves"); X.5 pleasures-correspond-to-activities passage. Seed's VII.11-15 locator kept as inherited (Book X passages ground the page). Berridge/Kringelbach, Bryant/Veroff, Epicurus, Fromm parallels kept as locators, not opened.
