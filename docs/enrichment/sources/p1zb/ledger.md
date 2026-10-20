@@ -130,7 +130,7 @@ never-band-assigned work; p1g state had them flagged-only, absent from p1g's man
 - Citation line updated to (White, 1959; Deci and Ryan, 2000). Sources section added.
 - Plain words rewritten as re-derivation (old one replicated the body's sentences).
 - Dweck 2006 mastery-orientation parallel inherited, kept with its caveat; not opened.
-- Saturation: cited by Psychological needs theory and the Competence concept (parallel link).
+- Saturation: cited by the concepts Psychological needs theory, Mastery orientation, Competence motivation, Psychological empowerment theory (rg PP007 in content/concepts).
 
 ## S012 — Remember that you are a rational being
 - Full work: verbatim quote added (Epictetus Discourses I.1 §4 Long: "The rational faculty; for
@@ -140,5 +140,26 @@ never-band-assigned work; p1g state had them flagged-only, absent from p1g's man
   such by its "That self-audit is why" construction); inherited citation line (Disc. I.1, I.6;
   Med. II.9, IV.16, VII.11; Seneca 41, 76) kept unopened; Marcus/Seneca locators not certified.
 - Plain words rewritten as re-derivation (old one replicated the body's three sentences).
-- Saturation: cited by Dual-process theory, Rationality research, The function argument and the
-  Let-reason-guide-desire parallel concepts via the parallels sections.
+- Saturation: cited by the concepts Rationality research, Epicurean argument against the fear
+  of death, Boulesis (rational desire), The function argument (rg S012 in content/concepts).
+
+## Advisor QC round 2 (items 7-10) — repairs applied 2026-10-20
+- PP005: intoxication/manic examples replaced with the ordinary slipping-project example;
+  outside-observer plain-words test removed; Eudaimonia label verified (NE I.4/I.8 Ross via
+  MIT Classics: "identify living well and doing well with being happy"; "the happy man lives
+  well and does well"); paradox-of-hedonism clause verified (Wikipedia via API: term coined
+  by Sidgwick in The Methods of Ethics; consciously pursuing pleasure interferes with
+  experiencing it); reciprocal proposal retained on that verified basis. Keyes 2002 abstract
+  re-fetched directly (NCBI efetch) — quote confirmed.
+- PP006: plain-words origin/endorsement conflation fixed (endorsement, not authorship);
+  unsupported loneliness comparison removed. Chirkov 2003 abstract re-fetched directly
+  (NCBI efetch) — four-culture claim confirmed.
+- PP007: "task beyond reach" and "energy drains from easy work" predictions replaced with
+  imagined efficacy illustration; predictive-effects sentence narrowed to the theory's
+  postulate. Ryan & Deci 2000 abstract re-fetched directly (NCBI efetch).
+- S012: blockquote restored to full published sentence incl. "for what else is there which
+  tells us that golden things are beautiful, for they do not say so themselves?";
+  invented "remembering" explanation removed; Epictetus's account presented as his account;
+  plain words rewritten as a concrete judgment-examination exercise.
+- Saturation lists corrected (PP007, S012); MO045 Sources locators corrected to manuscript
+  pagination.

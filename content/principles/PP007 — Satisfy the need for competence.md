@@ -16,11 +16,11 @@ Competence is the experience of effective interaction with the environment, the 
 
 > As used here, competence will refer to an organism's capacity to interact effectively with its environment. (Robert W. White, "Motivation Reconsidered: The Concept of Competence," Psychological Review 66(5), 1959, pp. 297-333, [archive.org PDF](https://ia800108.us.archive.org/view_archive.php?archive=/24/items/wikipedia-scholarly-sources-corpus/10.1037%252Fh0034974.zip&file=10.1037%252Fh0040934.pdf))
 
-White's second move explains the motivational pull: the activities that build competence are motivated in their own right, and the experience they produce is "a feeling of efficacy". Self-determination theory later made competence one of its three basic needs, alongside autonomy and relatedness, with need satisfaction yielding "enhanced self-motivation and mental health" (Ryan & Deci, 2000). Competence satisfaction is not about being the best; it is about the experience of growth and capability, and it predicts engagement, intrinsic motivation, and well-being.
+White's second move explains the motivational pull: the activities that build competence are motivated in their own right, and the experience they produce is "a feeling of efficacy". Self-determination theory later made competence one of its three basic needs, alongside autonomy and relatedness, postulating that satisfaction of the needs yields "enhanced self-motivation and mental health" (Ryan & Deci, 2000). Competence satisfaction is not about being the best; it is about the experience of growth and capability.
 
 (White, 1959; Deci and Ryan, 2000.)
 
-**Plain words** Competence is the feeling that your actions reach the world and change it. The loaf rises because you did the folding right, and something in you registers the hit. It does not require being the best at anything, only a task slightly beyond your current reach and visible progress into it. The reverse is informative too: when nothing you do changes anything, energy drains even from easy work.
+**Plain words** Competence is the felt sense that your actions produce effects. The baker feels the dough respond to her hands, the coder watches the test go green, and the feeling registers the same way: something in the world changed because of what you did. White's word for that feeling is efficacy. It does not require being the best; it requires doing something where your doing makes a difference you can see.
 
 *For example:* A beginner baker who finally gets a loaf to rise feels it, even though professionals would shrug.
 

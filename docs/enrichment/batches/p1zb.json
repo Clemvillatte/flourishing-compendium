@@ -19,9 +19,13 @@
   "MO056": "impact-bias bullet narrowed to verified definition (PMC7311650; PubMed 15189579); Lyubomirsky 2011 definition verified via opened secondary definitions, original not opened; Ben-Shahar citation inherited unopened; see ledger",
   "MO059": "inherited psych citations (Sheldon & Elliot 1999; Carver & Scheier 1990; Wood 2010; Emmons & McCullough 2003) not opened; flagged not certified; see ledger",
   "MO060": "flow conditions + well-being association verified vs opened sources (Nature s44271-024-00115-3; Wiley EJN review); see ledger",
-  "MO066": "BA bullet narrowed to COBRA-verified claim (PubMed 27461440); anhedonia core symptom verified (PubMed 20603146); APA 2022 + Dimidjian 2011 inherited unopened; see ledger"
+  "MO066": "BA bullet narrowed to COBRA-verified claim (PubMed 27461440); anhedonia core symptom verified (PubMed 20603146); APA 2022 + Dimidjian 2011 inherited unopened; see ledger",
+  "PP005": "advisor QC round-2 repairs applied (see ledger round-2 section)",
+  "PP006": "advisor QC round-2 repairs applied (see ledger round-2 section)",
+  "PP007": "advisor QC round-2 repairs applied (see ledger round-2 section)",
+  "S012": "advisor QC round-2 repairs applied (see ledger round-2 section)"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T07:58:18+00:00"
+ "updated": "2026-10-20T08:02:16+00:00"
 }

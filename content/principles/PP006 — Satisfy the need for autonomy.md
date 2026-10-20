@@ -20,7 +20,7 @@ The cross-cultural claim has direct support: in a four-culture study (South Kore
 
 (Ryan & Deci, 2000; Chirkov et al., 2003.)
 
-**Plain words** Autonomy is about whose reasons are doing the work. A run you chose feels different from a run your tracker shamed you into, even if the legs move the same. The test is endorsement: if the reasons for the action are your reasons, the action is autonomous; if the reasons belong to someone or something else, it is not. Notice that this says nothing about doing things alone. You can be autonomous while caring for your mother, and lonely while doing only what you want.
+**Plain words** Autonomy is about endorsement, not authorship. A task someone else suggested can be yours once you endorse it; a plan you chose yourself can be driven by pressure you have internalised. The felt difference the theory points to is acting from a willing, aligned place rather than to satisfy a demand from outside or a compulsion inside.
 
 *For example:* Going for a run because you want to feels different from going because a tracker nags you.
 

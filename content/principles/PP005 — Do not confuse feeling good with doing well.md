@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 ---
 > **Principle 5** — Do not confuse feeling good with doing well
 
-Positive affect is a component of well-being, not the whole of it. Keyes's mental health continuum defines the positive end as requiring both: mental health is a syndrome of "positive feelings and positive functioning in life" (Keyes, 2002). The distinction is measurable. In his national sample, languishing adults showed significant psychosocial impairment, including limits on activities of daily living and lost workdays, while flourishing adults showed superior functioning profiles. Someone who feels good while drunk or detached from reality has the feelings without the functioning, and flourishing requires both.
+Positive affect is a component of well-being, not the whole of it. Keyes's mental health continuum defines the positive end as requiring both: mental health is a syndrome of "positive feelings and positive functioning in life" (Keyes, 2002). The distinction is measurable. In his national sample, languishing adults showed significant psychosocial impairment, including limits on activities of daily living and lost workdays, while flourishing adults showed superior functioning profiles. On the model, a diagnosis of flourishing requires the positive feelings and the positive functioning together; languishing is characterised by their absence, and neither component stands in for the other.
 
 > This paper introduces and applies an operationalization of mental health as a syndrome of symptoms of positive feelings and positive functioning in life. (Keyes, "The Mental Health Continuum: From Languishing to Flourishing in Life," Journal of Health and Social Behavior 43(2), 2002, pp. 207-222, [PubMed](https://pubmed.ncbi.nlm.nih.gov/12096700/))
 
@@ -20,9 +20,9 @@ Huppert and So's definition of flourishing agrees: "a combination of feeling goo
 
 (Keyes, 2002; Huppert & So, 2013.)
 
-**Plain words** Feeling good is a signal, and signals can be produced by things that are bad for you: a drink, a distraction, a high. The signal only counts as evidence of flourishing when the life underneath it is working, so that you can point to how the life runs and not just to how it feels. Before trusting a good stretch of feelings, ask what they are attached to. Would someone looking at the structure of your life, with the feelings hidden, still call it going well?
+**Plain words** The model checks two things: how you feel, and how your life is running. Either can look good while the other is poor, which is why the model asks about both before calling anyone flourishing. A stretch of pleasant days does not by itself settle the question.
 
-*For example:* A person euphoric from a manic episode feels great while their life is quietly falling apart.
+*For example:* A month of easy contentment can coincide with a project quietly slipping and a friendship thinning; on the continuum model that month is not flourishing, because the functioning component is low whatever the mood.
 
 ## Sources
 

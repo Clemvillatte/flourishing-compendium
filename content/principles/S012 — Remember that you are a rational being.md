@@ -14,13 +14,13 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 
 The Stoic holds that what distinguishes humans is reason (logos). Your highest function is to use reason well. Epictetus points out that reason is also the one faculty that audits itself:
 
-> The rational faculty; for this is the only faculty that we have received which examines itself, what it is, and what power it has, and what is the value of this gift, and examines all other faculties. (Epictetus, Discourses I.1, George Long translation, [Gutenberg](https://www.gutenberg.org/cache/epub/10661/pg10661-images.html))
+> The rational faculty; for this is the only faculty that we have received which examines itself, what it is, and what power it has, and what is the value of this gift, and examines all other faculties: for what else is there which tells us that golden things are beautiful, for they do not say so themselves? (Epictetus, Discourses I.1, George Long translation, [Gutenberg](https://www.gutenberg.org/cache/epub/10661/pg10661-images.html))
 
-That self-audit is why the principle is framed as a remembering rather than a discovery: the instrument you would use to check whether you are living well is the same instrument being checked. When you act against reason, you act against your own nature; cultivating it is what a human is for.
+On Epictetus's account, reason is not one tool among many: it is the faculty that audits every other faculty, including itself. The Stoic instruction follows from that: when you act against reason you act against your own nature, and cultivating the rational capacity is what a human is for.
 
 (Disc. I.1, I.6; Med. II.9, IV.16, VII.11; Seneca, Letters 41, 76.)
 
-**Plain words** Your reason can examine itself: when you ask whether you are being reasonable, reason is both the thing asking and the thing being asked. No other part of you works this way; hunger cannot review hunger. The Stoics treat that as a job description rather than a compliment. Acting against reason is not just making a mistake; it is working against the one tool that could have caught the mistake.
+**Plain words** Take a judgment you are holding, for example that a short reply was an insult. Ask what actually happened and what you added to it. The faculty doing the asking is the same one that made the judgment, and it can re-open its own file; that re-opening is what Epictetus means by using your rational faculty. When you act without it, you are not just mistaken about the reply; you have skipped the check.
 
 *For example:* Choosing to count to ten and think before sending the angry email is reason doing its job.
 
