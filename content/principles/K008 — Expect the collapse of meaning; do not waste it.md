@@ -12,13 +12,14 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 8** — Expect the collapse of meaning; do not waste it
 
-Nishitani's Religion and Nothingness opens with what he calls the nihility of modern life: the ground under meaning can give way, and the projects that made life feel worth living stop answering the question of what any of it is for. A summary of the book's first chapter describes crises, including illness and poverty, that bring a person's purpose into question; in that account, familiar projects cease to answer why one lives, and the question of religion becomes a personal concern ([Antilogicalism](https://antilogicalism.com/2016/05/06/religion-nothingness/)).
+Nishitani's Religion and Nothingness opens by locating the problem of religion at a specific point in a life: the point at which the ordinarily necessary things, including learning and the arts, lose their necessity and utility. The situations he names, including an illness that brings one face-to-face with death or a turn of events that robs one of what had made life worth living, "undermine the roothold of our existence and bring the meaning of life into question".
 
-> "that abyss is always just underfoot,"
-> "that which renders meaningless the meaning of life"
-> (Religion and Nothingness, trans. Jan Van Bragt, University of California Press, 1982, pp. 3-4; fragments quoted from the opened secondary summary, primary text not independently opened in this session)
+> "The point at which the ordinarily necessary things of life, including learning and the arts, all lose their necessity and utility is found at those times when death, nihility, or sin-or any of those situations that entail a fundamental negation of our life, existence, and ideals, that undermine the roothold of our existence and bring the meaning of life into question- become pressing personal problems for us."
+> (Nishitani, Religion and Nothingness, trans. Jan Van Bragt, University of California Press, 1982, p. 3.)
 
-(Nishitani, Religion and Nothingness, ch. 1; primary text not independently opened — the opening passage was accessed through the cited secondary summary that reproduces Nishitani's wording with page locators.)
+In the case of a person for whom life has become meaningless through the loss of a loved one or the failure of an undertaking on which he had staked his all, Nishitani says that "[a] void appears here that nothing in the world can fill; a gaping abyss opens up at the very ground on which one stands". The point is not what one does about the void but that one stands on the abyss's ground and asks, from there, what purpose existence has.
+
+(Nishitani, Religion and Nothingness, ch. 1.)
 
 **Plain words** Imagine the goals you once cared about no longer seem worth pursuing. Ask what made them matter to you and whether those reasons still hold.
 
