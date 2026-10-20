@@ -22,7 +22,7 @@ The article's convergence claim is the design brief this principle endorses: "Bi
 
 **Plain words** The framework gives you a checklist instead of a vibe: does the place reduce toxic conditions, reinforce the behaviour it wants, limit opportunities for trouble, and leave room for people to act on their values? That is a design brief you can hold an institution to.
 
-*For example:* The hospital designed around patient recovery — light, quiet, gardens — versus the one designed around staff logistics. Same medicine, different outcomes. The building was practising healthcare.
+*For example (imagined):* A hospital design team must choose between a garden courtyard where families wait and an expanded loading dock for staff logistics. The framework above gives that weighing a vocabulary: which option reduces toxic conditions, and which reinforces what the institution wants from its people.
 ## Sources
 
 - [Biglan, A., Flay, B. R., Embry, D. D., & Sandler, I. N. (2012). The critical role of nurturing environments for promoting human well-being. American Psychologist, 67(4), 257-271](https://pmc.ncbi.nlm.nih.gov/articles/PMC3621015/) — nurturing-environments definition and convergence principle

@@ -452,3 +452,30 @@ Short, item-keyed evidence notes (owner decision 2026-10-20, PROTOCOL-PRINCIPLES
   level separation), SO046 (unsupported mechanisms), SO056 (hospital-outcome claim +
   quote verification against unprompted content), SP001 (PT translator = A. H.
   Gosset per the Elwes introduction). Repairs next.
+
+## Milestone-blocker repairs (items 17-20 + SP030 closeout)
+- SO012: levels separated. Cultural-level taxonomy now SOURCED — the Wiley
+  Encyclopedia of Management entry (Elster 2015, fetched) quotes the three bipolar
+  dimensions verbatim (embeddedness/autonomy, hierarchy/egalitarianism,
+  mastery/harmony); "Values are statistical tendencies, not individual destinies"
+  replaced with the level-bounded version grounded in the opened 2012 abstract
+  sentence (personal-level variation); EEMM "determine which behavioral variants
+  are retained" clause trimmed to the framework reference. Hofstede and
+  Inglehart-Welzel remain inherited bare references (flagged).
+- SO046: mechanism sentence removed (perception/evaluation/behavior claim — the
+  parallels' own "out-group homogeneity" mismatch noted by the advisor); "bias for
+  its own sake" motive attribution replaced with the grounded difference-itself
+  wording; "the experiments prove it" / "knowing the mechanism is most of the
+  defence" / universal "Everyone's" removed from Plain words and For example.
+- SO056: hospital-outcome example replaced with a labelled imagined design decision
+  (no asserted clinical result); Biglan quotes re-verified against UNPROMPTED page
+  content (curl + tag-strip): q2 True; q1 True except the raw-HTML artifact
+  "environments ." (space before period, from the italic tag boundary) — the page
+  quote normalizes that markup artifact; recorded.
+- SP001: PT translator credit CORRECTED — the Political Treatise translation is by
+  A. H. Gosset (verified: Elwes's 1883 introduction, "translated for me by my
+  friend Mr. A. H. Gosset, Fellow of New College, Oxford" — the umb.edu poltr_01
+  page and constitution.org both credit Gosset); the Ethics quotes remain Elwes.
+- SP030: repairs as recorded above (item 21 round 1).
+- All five files validate vs baseline 0998a787 (0 failed, run per-file); all
+  blockquotes verified by substring checks from the FINAL files (11/11 OK).

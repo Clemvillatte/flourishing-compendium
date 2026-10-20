@@ -18,7 +18,7 @@ The two texts, in Elwes's translation:
 
 > "I shall consider human actions and desires in exactly the same manner, as though I were concerned with lines, planes, and solids." (Ethics III, Preface, [Elwes, Project Gutenberg](https://www.gutenberg.org/cache/epub/948/pg948.html))
 
-> "I have laboured carefully, not to mock, lament, or execrate, but to understand human actions." (Political Treatise I.4, [Elwes](https://faculty.umb.edu/gary_zabel/Courses/Spinoza/Spinoza/bs/poltr_01.htm))
+> "I have laboured carefully, not to mock, lament, or execrate, but to understand human actions." (Political Treatise I.4, A. H. Gosset translation, in Elwes's edition, [faculty.umb.edu](https://faculty.umb.edu/gary_zabel/Courses/Spinoza/Spinoza/bs/poltr_01.htm))
 
 (Ethics III, Preface; Political Treatise I.4, the maxim's formulation.)
 
@@ -28,7 +28,7 @@ The two texts, in Elwes's translation:
 ## Sources
 
 - [Spinoza, Ethics, Part III, R. H. M. Elwes translation, Project Gutenberg](https://www.gutenberg.org/cache/epub/948/pg948.html) — Preface
-- [Spinoza, A Political Treatise, Chapter I, R. H. M. Elwes translation](https://faculty.umb.edu/gary_zabel/Courses/Spinoza/Spinoza/bs/poltr_01.htm) — Section 4
+- [Spinoza, A Political Treatise, Chapter I, A. H. Gosset translation (R. H. M. Elwes, ed.)](https://faculty.umb.edu/gary_zabel/Courses/Spinoza/Spinoza/bs/poltr_01.htm) — Section 4
 
 ## Psychology parallels
 
