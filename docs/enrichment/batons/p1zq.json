@@ -1,0 +1,13 @@
+{
+ "baton": "p1zq",
+ "agent": "worker-p1zq-genuineflourishing",
+ "clocked_in": "2026-10-20T11:14:17+00:00",
+ "takeovers": [
+  {
+   "by": "worker-p1zq-genuineflourishing",
+   "at": "2026-10-20T11:14:17+00:00",
+   "from": null,
+   "reason": "free"
+  }
+ ]
+}
