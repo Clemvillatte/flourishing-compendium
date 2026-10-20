@@ -14,7 +14,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 
 Whitehead's formula concerns how a new event comes into being. In William Jay Garland's explanation, many past actual entities supply data for a new occasion; their synthesis produces one new actual entity. Once complete, that occasion joins the past available to subsequent occasions ([The Whitehead Encyclopedia, section 3](https://encyclopedia.whiteheadresearch.org/entries/thematic/metaphysics/the-mystery-of-creativity/)).
 
-> "The many become one, and are increased by one" (Whitehead, Process and Reality, p. 21, as quoted by Garland).
+> "The many [entities] become one [entity], and are increased by one [entity]" (Whitehead, Process and Reality, p. 21, as quoted by Garland).
 
 ### Receiving and contributing
 

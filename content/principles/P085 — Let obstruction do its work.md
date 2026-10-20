@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 85** — Let obstruction do its work
 
-Dewey describes a difficulty that interrupts a familiar activity and brings its workings into attention. An established habit supplies experience; a newly released impulse gives inquiry a direction. Their conflict can become a search for a workable response ([Human Nature and Conduct, Part Three, I-II](https://www.gutenberg.org/files/41386/41386-h/41386-h.htm)).
+Dewey describes a difficulty that interrupts a familiar activity and brings its workings into attention. An established habit supplies content; a newly released impulse gives inquiry a direction. Their conflict can become a search for a workable response ([Human Nature and Conduct, Part Three, I-II](https://www.gutenberg.org/files/41386/41386-h/41386-h.htm)).
 
 > "With conflict of habits and release of impulse there is conscious search." (Dewey, Human Nature and Conduct, Part Three, I, p. 180.)
 
@@ -28,7 +28,7 @@ When your usual approach fails, ask which part has stopped working. What informa
 
 ### For example
 
-Imagine a client rejecting a draft because each of you understood the brief differently. For this proposed exercise, compare the original request with the rejection and write down the unresolved question before revising. This illustrates inquiry into a blockage without promising that a difficult client improves character.
+Imagine a client rejecting a draft because each of you understood the brief differently. For this proposed exercise, compare the original request with the rejection and write down the unresolved question before revising.
 
 ## Sources
 

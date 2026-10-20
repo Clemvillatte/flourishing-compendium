@@ -18,7 +18,7 @@ Rogers describes openness to experience as a willingness to encounter feelings a
 
 ### Make room for what is here
 
-This is Rogers's conditional description of fully open experiencing, not evidence that anyone can simply choose to be without defensiveness. Whitehead's account of new occasions belongs to metaphysics; it does not establish that a change of outlook removes habit or constraint ([Garland, “The Mystery of Creativity,” section 3](https://encyclopedia.whiteheadresearch.org/entries/thematic/metaphysics/the-mystery-of-creativity/)).
+This is Rogers's conditional description of fully open experiencing, not evidence that anyone can simply choose to be without defensiveness. Whitehead's account of new occasions is metaphysical ([Garland, “The Mystery of Creativity,” section 3](https://encyclopedia.whiteheadresearch.org/entries/thematic/metaphysics/the-mystery-of-creativity/)). The compendium does not take it to show that a change of outlook removes habit or constraint.
 
 (Whitehead, Process and Reality, 1929; Rogers, On Becoming a Person, 1961.)
 
