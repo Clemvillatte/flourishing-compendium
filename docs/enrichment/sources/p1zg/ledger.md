@@ -71,3 +71,7 @@
 ## R071
 - IEP 'Care Ethics' (fetched; 4 quotations verified): Tronto & Fisher definition; four sub-elements (IEP cites Tronto 1994, 126-136).
 - Limits: Tronto's Moral Boundaries (1993; inherited pp.127-130) not opened; page span differs (IEP's 1994 citation = 126-136). 'Ownership of the response' is the statement's paraphrase of 'willingness to respond'. Example hypothetical.
+
+## R078
+- IEP 'Care Ethics' (fetched; 8 quotations verified: caring motivation/emotion; Noddings's two motives and 'engrossment'; Baier on sentimental traits/moral emotions; criticisms).
+- Limits: Held (2006) and Noddings (1984) not opened (summarised via IEP); statement's 'suppressed, they leak' not found in any opened source, so omitted. Example hypothetical.
