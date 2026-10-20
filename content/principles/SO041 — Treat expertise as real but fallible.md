@@ -12,14 +12,24 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SO — Sociocul
 ---
 > **Principle 41** — Treat expertise as real but fallible
 
-Treat expertise — the specialized knowledge of trained practitioners — as real but fallible. Expertise is not a fraud; experts reliably outperform novices in their domains (Ericsson et al., 1993; Kahneman and Klein, 2009). But experts also fail, are overconfident, and are subject to institutional pressures. The adaptive stance is calibrated trust: trust expertise, verify claims, and maintain epistemic humility.
+The question this principle answers is how much weight to give a trained person's judgment. The Ericsson et al. 1993 study of expert performance gives one side of the answer: expert performance is the end result of prolonged, effortful practice, and individual differences among elite performers are closely related to the assessed amounts of that practice.
 
-**Plain words** Experts are real and fallible — they outperform novices in their domain, and they're overconfident at its edges. The stance is neither worship nor contempt: respect the expertise, check the confidence. Trust the plumber's diagnosis of the pipes; verify the plumber's predictions about the market.
+> "The theoretical framework presented in this article explains expert performance as the end result of individuals' prolonged efforts to improve performance while negotiating motivational and external constraints. In most domains of expertise, individuals begin in their childhood a regimen of effortful activities (deliberate practice) designed to optimize improvement. Individual differences, even among elite performers, are closely related to assessed amounts of deliberate practice."
+> (Ericsson, Krampe and Tesch-Römer, "The Role of Deliberate Practice in the Acquisition of Expert Performance", Psychological Review, 1993, Vol. 100, No. 3, p. 363.)
 
-*For example:* The epidemiologist's disease model is worth respecting; the same epidemiologist's stock tips are worth nothing. Domain expertise has a fence around it. The skill is knowing where the fence is.
+The same sentence that establishes expertise as real also establishes its fence: the study is about practice within a domain, not a general trait that transfers across domains. The Tetlock forecasting data (Expert Political Judgment, 2005) gives the other side: among 284 experts making roughly 28,000 predictions between 1984 and 2003, forecasters were often only slightly more accurate than chance and usually worse than simple extrapolation algorithms, especially on longer-range forecasts.
+
+The principle's stance follows from putting these two findings together.
+
+(Ericsson et al., 1993; Tetlock, 2005.)
+
+**Plain words** A trained person's judgment in their own field is worth taking seriously, because it is built from long, effortful practice in exactly that field. The same training does not automatically carry over to questions outside it. When an expert speaks inside the fence, the claim deserves a fair hearing; when they speak outside it, the claim deserves the same scrutiny as anyone else's.
+
+*For example:* A plumber's diagnosis of why the pipes leak is worth acting on without a second opinion. The same plumber's prediction about the housing market is a guess, not a professional judgment.
 ## Psychology parallels
 
-- [[Ericsson et al|Ericsson et al.]] (1993) on deliberate practice; Kahneman and Klein (2009) on expert intuition; Tetlock (2005) on expert political judgment; Goldstein and Gigerenzer (2002) on fast-and-frugal heuristics.
+- [[Deliberate practice|Deliberate practice]] (Ericsson et al., 1993) — the mechanism the study attributes expert performance to
+- [[Ericsson et al|Ericsson et al.]] (1993) on deliberate practice; Tetlock (2005) on expert political judgment; Kahneman and Klein (2009) on expert intuition; Goldstein and Gigerenzer (2002) on fast-and-frugal heuristics.
 
 ## Philosophy parallels
 
