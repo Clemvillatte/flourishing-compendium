@@ -95,10 +95,14 @@
   repaired the dead p1g worker's broken proposals/p1g.json (committed conflict markers),
   applied 34 recip + 1 inline across 28 files (validation 27/28, one pre-existing seed
   FAIL), build ok. p1c/p1d/p1f proposals integrated (audit-tail whys repaired first). Reserves
-  replenished: p1r (30 P) + p1s (22 B + 4 D + 4 P) minted at queue@0180eaf6 — the
-  degree-ordered priority pool is now P-topped at high ranks; the remaining unassigned
-  D/B items (37 D + 161 B) sit lower and surface in later mints (p1s already reached them).
-  Live workers: p1n, p1p, p1q. Always run
+  replenished through the session: p1r, p1s, p1t, p1u, p1v minted; the B/D/P PRIORITY POOL
+  IS NOW FULLY DRAINED (p1v took the last 18 eligible items at queue@e8efb52d; all unassigned
+  B/D/P weak principles are now in manifests — future reserves need a new selection criterion,
+  e.g. legacy rank-window minting from the full queue, or an owner decision). Live workers at
+  this writing: p1m (worker-p1m-a4d81c92), p1o (worker-p1n-9c31f0d8), p1p (worker-p1p-27eaf6bd),
+  p1s, p1t, p1u. p1q closed 30/30 (D084/D116 QC repairs applied by this supervisor after the
+  close). p1h released at 38/60 (BE052/BI032/BI045 recovered by worker-p1p-27eaf6bd; free for
+  takeover). Always run
   `baton.py status` against the remote before acting.
 - PRIORITY RESERVES: manifests p1i-p1p exist, 30 previously unassigned B/D/P principles each.
   p1i/p1j have already been claimed; use remote batons and TASKBOARD for current availability.
