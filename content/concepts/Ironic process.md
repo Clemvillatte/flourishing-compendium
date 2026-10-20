@@ -9,10 +9,13 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 effort to force states backfires (Wegner, 1994).
 
-## Sources
+The ironic process is Daniel Wegner's name for the backfiring of mental control: the finding that trying not to think of something makes it more likely to come to mind. The theory holds that suppression runs on two processes, and the second one keeps looking for the very thought the first is trying to avoid:
 
-- Wegner, 1994
-- Killingsworth and Gilbert, 2010, as neighboring evidence
+> "The theory holds that two processes are involved in suppression: an effortful and conscious operating process that diverts attention away from unwanted thoughts, and an effortless and unconscious ironic monitoring process that both maintains vigilance for occurrences in awareness of the unwanted thought, and triggers further action of the operating process if the unwanted thought appears in awareness. These two processes work hand in hand to ensure that unwanted thoughts remain outside of awareness. Ironically, however, by maintaining vigilance for the unwanted thought, the monitoring system helps assure that the unwanted thought never becomes dormant." (Wegner and Zanakos, [Hidden Complications of Thought Suppression, Harvard DASH](https://dash.harvard.edu/server/api/core/bitstreams/7312037c-bc4b-6bd4-e053-0100007fdf3b/content))
+
+The white bear experiments found the rebound effect:
+
+> "In the original thought suppression experiments, Wegner et al. (1987) found that after a period of thought suppression, people instructed to stop suppressing the thought and instead to begin thinking about it reported more intrusions of the thought than occurred without prior suppression." (Wegner and Zanakos, [Hidden Complications of Thought Suppression, Harvard DASH](https://dash.harvard.edu/server/api/core/bitstreams/7312037c-bc4b-6bd4-e053-0100007fdf3b/content))
 
 ## Cited in psychology parallels
 
@@ -32,5 +35,11 @@ effort to force states backfires (Wegner, 1994).
 - the finding that direct suppression of a thought or urge amplifies it (Wegner, 1994)
 
 - the finding that monitoring for a state prevents the state (Wegner, 1994)
+
+## Sources
+
+- Wegner, 1994
+- Killingsworth and Gilbert, 2010, as neighboring evidence
+- [Wegner and Zanakos, Hidden Complications of Thought Suppression (Harvard DASH)](https://dash.harvard.edu/server/api/core/bitstreams/7312037c-bc4b-6bd4-e053-0100007fdf3b/content) — both blockquotes
 
 ## Cited in philosophy parallels
