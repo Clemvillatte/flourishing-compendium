@@ -545,3 +545,13 @@
   concept-namespace-audit.md for this concept (clean).
 - Validation: --fast-track ok (concept <15 connections; prose minimum waived; all other
   checks pass). Build ok (5718 entries, fcAuthored 976).
+
+### QC repair, The rhythm of life (2026-10-20, advisor QC round 3)
+
+- Repairs applied: removed the unverified historical claim ("earliest Daoist text on
+  breath cultivation"); narrowed the opening to the verse's joint conditions
+  (tranquil mind AND regular vital breath) without causal inference; the longevity
+  statement now attributed to the text's teaching ("which the text says confers
+  longevity"). Both passages re-verified against /tmp/roth.txt before repair
+  (verse V lines 5887ff; chapter XXI lines 7010ff). Reopened and re-done via
+  enrich_state.py; --fast-track ok; build ok.
