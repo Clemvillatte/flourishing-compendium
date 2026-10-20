@@ -67,7 +67,7 @@ Claim and state transitions are pushed separately for interruption safety.
 
 - Opened https://www.gutenberg.org/files/216/216-h/216-h.htm ,
   Daodejing 79.1-2, James Legge. Continuous quotation is exactly 79.2's
-  first sentence, including both parenthetical phrases.
+  first sentence, including both parenthetical phrases, after correction.
 - Milestone advisor caught an initial misquote ("agreement, but").
   Fresh fetch confirms "engagement, and"; quote and source descriptions
   corrected, including removal of creditor/covenant/debtor wording
@@ -153,8 +153,10 @@ Claim and state transitions are pushed separately for interruption safety.
 ## D178: Use tools without belonging to them (2026-10-20)
 
 - Opened https://www.gutenberg.org/files/216/216-h/216-h.htm ,
-  Daodejing 27.1, Legge. "The skilful reckoner uses no tallies." is a
-  complete exact sentence, six words. Surrounding travel, speech,
+  Daodejing 27.1, Legge. "the skilful reckoner uses no tallies;" is an
+  exact six-word excerpt. Fresh-source recheck corrected the initial
+  capitalisation and period, which incorrectly made it a standalone
+  sentence. Surrounding travel, speech,
   door/bolts and binding/cords descriptions are on that passage.
 - Seed's general claim that mastery outgrows instruments is narrowed to
   images of skilful action. Modern question and imagined map-app example
@@ -164,3 +166,19 @@ Claim and state transitions are pushed separately for interruption safety.
   inherited and unverified. Existing links and reflection comment preserved.
 - Saturation: mention search found both linked concepts already connected
   to D178; no forced new edge added.
+
+## D183: Keep the inside quiet when the outside is loud (2026-10-20)
+
+- Freshly opened https://www.gutenberg.org/files/216/216-h/216-h.htm ,
+  Daodejing 26.1-2. Quote is exact first sentence, including semicolon.
+  Prince's journey, baggage waggons and brilliant prospects are in 26.2.
+- Corrected the seed's jar-of-water image, absent from this passage, and
+  removed the claim that turbulence spreads only through participation.
+  Plain words and imagined family-meal example are practical application,
+  not guaranteed calm or a finding about trained emergency staff.
+- Seed's Neiye reference is superseded by the precise Daodejing passage.
+  No claim that the Neiye contains the jar image is made.
+- Removed unverified amygdala and HRV-effect assertions. Desbordes,
+  HRV, Hadot and Boethius comparisons remain inherited, unverified.
+  Existing links and protected reflection block unchanged.
+- Saturation: The inner citadel already cites D183; no duplicate proposal.

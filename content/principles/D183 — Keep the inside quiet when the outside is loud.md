@@ -12,18 +12,26 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 183** — Keep the inside quiet when the outside is loud
 
-Amid turbulence, make your mind like still water in a jar: the storm outside doesn't have to become a storm inside.
+Daodejing 26 connects stillness with movement and gravity with lightness. Its example is a prince who travels all day without leaving his baggage waggons, remaining in his place even with brilliant prospects to look at ([Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm)).
 
-(Neiye; DDJ 26.)
+> Gravity is the root of lightness; stillness, the ruler of movement.
 
-**Plain words** Amid turbulence, make your mind like still water in a jar — the storm outside doesn't have to become a storm inside. Turbulence is contagious only through participation. You can attend chaos without hosting it.
+(Daodejing 26, [Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm).)
 
-*For example:* The ER nurse during the mass casualty — the room is chaos; her hands are not. That's the jar.
+The compendium applies this image to keeping some steadiness while taking part in a busy situation. The source's baggage-waggon image is not a jar of still water. Nor does it establish that a person should be able to remain calm under every condition.
+
+**Plain words** When things become hurried, ask what needs your attention next. You can feel unsettled and still take time to choose a response; needing a quieter place is not a failure.
+
+*For example:* Imagine several relatives asking different questions while you arrange a family meal. You ask them to wait, check the cooking time, and answer one question. If you need to step into the next room to hear a call, you do that.
+
+## Sources
+
+- [Daodejing 26, translated by James Legge, Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm): stillness and the prince's baggage waggons.
 
 ## Psychology parallels
 
-- **[[Equanimity|Equanimity under stress]]**, trained practitioners show reduced amygdala reactivity to affective stimuli (Desbordes et al., 2012)
-- **HRV coherence as calm-under-load**
+- **[[Equanimity|Equanimity under stress]]** (Desbordes et al., 2012)
+- **HRV coherence**
 
 ## Philosophy parallels
 
