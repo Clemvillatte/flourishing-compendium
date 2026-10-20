@@ -23,9 +23,10 @@
   "Strength as virtue",
   "Stress response (Lupien, McEwen)",
   "Suspension of the natural attitude",
-  "The care of the self"
+  "The care of the self",
+  "The creative life"
  ],
- "in_progress": "The analysis of experience into elements",
+ "in_progress": null,
  "flagged": {
   "Spontaneous right action": "title pending supervisor disposition: compendium heading, not the tradition's term (zhixing heyi); flagged in concept-namespace-audit.md worker flags",
   "The natural rhythm of warmth and cool": "title pending supervisor disposition: compendium heading over a real Zhuangzi ch.6 image; flagged in audit worker flags",
@@ -43,10 +44,11 @@
   "State-matched emotion regulation": "first-item advisor QC: coined title not source-defined (underlying construct REAL: emotion regulation flexibility, Gross 2015 + Bonanno-Burton 2013, quotes verified); flagged in concept-namespace-audit.md for supervisor disposition (rename suggested); NOT marked done pending disposition; degree 13; body rewritten to the sourced construct; validator ok at fast-track profile",
   "Stress response (Lupien, McEwen)": "fast-track enriched (item 2); degree 9; McEwen 2007 full PDF + Lupien 2009 PubMed record opened, quotes verbatim; NOTE for supervisor: page title carries authors' names in parentheses ('Stress response (Lupien, McEwen)') - the real concept is the stress response; consider renaming per the garbled-title rule (low priority; body written for the sourced construct)",
   "The analysis of experience into elements": "Reopened for QC: advisor QC item-5 milestone: the same concept-identity question that blocked State-matched emotion regulation applies here; a predecessor's done marker and structural validation do not establish supervisor disposition. Researched body KEPT; item reopened pending disposition; whether the heading is established as a named term is not settled by the opened SEP entry",
-  "The care of the self": "advisor QC item-5 milestone: round-1 repairs applied verbatim (false opposition, staged reversal, last-two-books generalization removed; blockquote carries direct SEP link per 1a; R060 gloss removed; vol.2 citation kept and marked inherited-not-opened); quote independently verified word-for-word against the directly fetched SEP 3.6 'Sex in the Ancient World' section text; scoped PASS after repair round 2"
+  "The care of the self": "advisor QC item-5 milestone: round-1 repairs applied verbatim (false opposition, staged reversal, last-two-books generalization removed; blockquote carries direct SEP link per 1a; R060 gloss removed; vol.2 citation kept and marked inherited-not-opened); quote independently verified word-for-word against the directly fetched SEP 3.6 'Sex in the Ancient World' section text; scoped PASS after repair round 2",
+  "The creative life": "fast-track enriched (item 6); degree 9; Gutenberg Common Zarathustra opened (Prologue 5 chaos passage + Three Metamorphoses verified verbatim); NOTE for supervisor: the heading 'The creative life' is a compendium heading for a mode of existence Zarathustra teaches rather than a term the book uses; flagged per the w1g pattern (rename candidate or keep as heading)"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T06:09:54+00:00",
+ "updated": "2026-10-20T06:10:25+00:00",
  "band_done": false
 }
