@@ -113,6 +113,16 @@ mind, Premeditatio malorum). The concepts namespace must NOT contain:
 
 ## Worker flags (pending supervisor disposition)
 
+- The three gates of speech (2026-10-20, worker-j9fpiyf, w1g, fast-track): the seed's own
+  label is "popular formulation"; research confirms no verified classical source (opened:
+  Wikiquote Rumi page — attributed "never to a specific work or correspondence"; Vaca
+  Sutta AN 5.198 — the genuine Buddhist analogue, quoted verbatim). The page now states
+  the popular status plainly and anchors the discipline in the opened Buddhist test; the
+  inherited Sufi-attribution gloss on [[Right speech]] was corrected. The earliest
+  printings (19th-century poems/biographies per unopened search results) are NOT asserted.
+  Naming (keep as heading, or reframe as "Buddhist speech tests" family) left with the
+  supervisor. Item is on concept-verification-queue.md line 1405.
+
 - The quiet craftsman's life (2026-10-20, worker-j9fpiyf, w1g, fast-track): the seed's internal
   reference "the series' Book II, principle 94" could NOT be resolved. Volume II's books are
   A (Aristotle, principles numbered 1-122) and S (Stoicism, principles numbered 123+; S094's

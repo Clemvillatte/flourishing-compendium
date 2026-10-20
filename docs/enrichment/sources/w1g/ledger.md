@@ -1003,3 +1003,23 @@
   definitional glosses. A duplicated "file:" line introduced during the write was fixed
   before saving; front-matter now matches the original byte-for-byte.
 - Validation: --fast-track ok. sources_checked +1.
+
+## The three gates of speech (2026-10-20, worker-j9fpiyf; fast-track; degree 9 — eligible)
+
+- IDENTITY (the seed's own label is "popular formulation"; item on
+  concept-verification-queue.md line 1405): research (2026-10-20) found the three-gates
+  saying has NO verified classical source; it circulates attributed to Sufis, Rumi,
+  Socrates and the Buddha. OPENED (2): (1) Wikiquote's Rumi page — the saying is
+  attributed to Rumi "never to a specific work or correspondence," may be a misquote of
+  Sathya Sai, source listed as Mansell, Sure As the Dawn (1993) p. 194; (2) Vaca Sutta
+  (AN 5.198, Thanissaro translation, Access to Insight) — the genuine classical speech
+  test, returned verbatim. Search results (not opened pages: NewBuddhist forum,
+  quotelibrary, 1001philosophers, a rabbinic column) point to 19th-century printings
+  (Pietzker 1872 poem; Haldane Stewart biography) — NOT asserted in the page body
+  because not verified in an opened source. The body asserts only the opened-source
+  facts: the Wikiquote attribution pattern and the Vaca Sutta test.
+- REPAIR: the inherited [[Right speech]] gloss asserted "The Sufi three-gate test";
+  rewritten to "the Buddhist discipline the popular test echoes" (link preserved).
+- FAST-TRACK NOTE: saturation hunt skipped per §1a. Worker flag filed in
+  concept-namespace-audit.md (identity documented; naming left to supervisor).
+- Validation: --fast-track ok. sources_checked +2.
