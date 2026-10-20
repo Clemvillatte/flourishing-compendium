@@ -12,21 +12,21 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 185** — Do not fear what you cannot control
 
-Seneca's letter on groundless fears opens with the diagnosis:
+The handbook's first rule is the split the principle rests on:
 
-> "There are more things, Lucilius, likely to frighten us than there are to crush us; we suffer more often in imagination than in reality." (Seneca, Letters 13, Richard Mott Gummere translation)
+> "Of things some are in our power, and others are not. In our power are opinion, movement towards a thing, desire, aversion, turning from a thing; and in a word, whatever are our acts. Not in our power are the body, property, reputation, offices (magisterial power), and in a word, whatever are not our own acts. And the things in our power are by nature free, not subject to restraint or hindrance; but the things not in our power are weak, slavish, subject to restraint, in the power of others." (Epictetus, Encheiridion 1, George Long translation)
 
-His advice is to postpone the suffering:
+Epictetus then turns the rule into a practice on appearances:
 
-> "What I advise you to do is, not to be unhappy before the crisis comes; since it may be that the dangers before which you paled as if they were threatening you, will never come upon you; they certainly have not yet come." (Seneca, Letters 13, Richard Mott Gummere translation)
+> "Straightway then practise saying to every harsh appearance: You are an appearance, and in no manner what you appear to be. Then examine it by the rules which you possess, and by this first and chiefly, whether it relates to the things which are in our power or to things which are not in our power; and if it relates to anything which is not in our power, be ready to say that it does not concern you." (Epictetus, Encheiridion 1, George Long translation)
 
-Fear usually arrives as a double event: the thing that might happen, and the rehearsal of failing to cope with it. The rehearsal is the part you add, and it runs ahead of the facts.
+In Letter 13, Seneca writes of fears in particular: "we suffer more often in imagination than in reality". The examination is where a fear is met: check which list the feared thing belongs to, and what remains yours to do.
 
-(Seneca, Letters 13, Richard Mott Gummere translation.)
+(Epictetus, Encheiridion 1, George Long translation; Seneca, Letters 13, Richard Mott Gummere translation.)
 
-**Plain words** A feared thing and the fear of it are two different things. The event may or may not arrive; the dread arrives on schedule, every day until the event. Seneca's advice is to notice that the dread is the part you are producing, and to hold off the unhappiness until something actually happens.
+**Plain words** The rule gives you a sorting question for whatever you dread: is this on my side of the line or not? Health, reputation and other people's decisions sit on the far side; what you prepare and how you speak sit on yours. Letter 13 adds that the suffering often runs ahead of the event. The practice is to sort first, then do your side.
 
-For example: Imagined: dreading a difficult conversation, you notice the rehearsal of it going badly and set it aside; whatever happens, you can still be honest and kind in the room.
+For example: Imagined: dreading a difficult conversation, you prepare the truthful points you want to make; the other person's reaction is not yours to control, the preparation is.
 
 ## Psychology parallels
 
@@ -48,4 +48,5 @@ How does fear distort your choices, and what might you do if you trusted your ch
 
 ## Sources
 
+- Epictetus, Encheiridion, chapter 1 (George Long translation), [Project Gutenberg #10661](https://www.gutenberg.org/cache/epub/10661/pg10661.txt)
 - Seneca, Moral Letters to Lucilius, Letter 13, "On groundless fears" (Richard Mott Gummere translation), [Wikisource](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_13)
