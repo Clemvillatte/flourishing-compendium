@@ -22,9 +22,9 @@
   "BE008",
   "BE027",
   "BE030",
-  "BE053",
   "BE054",
-  "BE046"
+  "BE046",
+  "BE053"
  ],
  "in_progress": null,
  "flagged": {
@@ -33,10 +33,11 @@
   "AT068": "inherited-unverified attribution: Weil, Waiting for God (The discipline of attention) — philosophy-parallel bullet not verified against an opened source this session; supervisor review requested",
   "AT072": "inherited-unverified attributions: Nietzsche (The Gay Science), Tedeschi & Calhoun 1996, St John of the Cross (The dark night) — philosophy-parallel bullets not verified against opened sources this session; supervisor review requested",
   "BE008": "inherited-unverified attributions: Buddhism (The middle way), Heraclitus (fragments) — philosophy-parallel bullets not verified against opened sources this session; supervisor review requested",
-  "BE046": "Reopened for QC: milestone QC: source-scope repairs required"
+  "BE046": "Reopened for QC: milestone QC: source-scope repairs required",
+  "BE053": "Reopened for QC: milestone QC repairs applied"
  },
  "missing_concepts": [],
  "sources_checked": 5,
- "updated": "2026-10-20T13:49:56+00:00",
+ "updated": "2026-10-20T13:49:59+00:00",
  "band_done": false
 }
