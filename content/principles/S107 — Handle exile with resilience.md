@@ -16,12 +16,12 @@ Musonius answers the exile directly, and the answer turns on Socrates's premise:
 
 > "Tell me, is not the universe the common fatherland of all men, as Socrates held? Well, then, you must not consider it really being banished from your fatherland if you go from where you were born and reared, but only being exiled from a certain city, that is if you claim to be a reasonable person." (Musonius Rufus, Lecture IX, Cora Lutz translation, [StoicSource](https://www.stoicsource.com/rufus/lectures/IX/))
 
-Such a man "does not value or despise any place as the cause of his happiness or unhappiness, but he makes the whole matter depend upon himself" (Lecture IX). The inventory of what exile actually removes is short: "It does not in any way deprive us of water, earth, air, or the sun and the other planets, or indeed, even of the society of men, for everywhere and in every way there is opportunity for association with them" (Lecture IX). Marcus gives the retreat version of the same thought: "For nowhere either with more quiet or more freedom from trouble does a man retire than into his own soul" (Meditations IV.3).
+Such a man "does not value or despise any place as the cause of his happiness or unhappiness, but he makes the whole matter depend upon himself" (Lecture IX). Musonius lists what he says remains available in exile: "It does not in any way deprive us of water, earth, air, or the sun and the other planets, or indeed, even of the society of men, for everywhere and in every way there is opportunity for association with them" (Lecture IX). Marcus offers a different image of retreat: "For nowhere either with more quiet or more freedom from trouble does a man retire than into his own soul" (Meditations IV.3).
 
 (Musonius Rufus, Lecture IX; Med. IV.3.)
 
 **Plain words**
-As a practical exercise, list what a specific displacement would actually remove and what it would leave standing. Musonius's inventory keeps most things standing: water, earth, air, sun, and the company of people. Where is your happiness actually made?
+Choose a particular displacement. List what it would remove and what it would leave available, then name an action still open to you.
 
 *For example (imagined):* Moving abroad for work and building a small routine in a language you barely speak.
 
