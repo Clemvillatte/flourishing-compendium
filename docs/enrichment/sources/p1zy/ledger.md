@@ -57,3 +57,7 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 ## Y066 (2026-10-21)
 - Arnold Gita ch. 6 (setup lines; verse breaks joined, dashes removed, ellipses marked; "fair, still spot" confirmed); Woods HOS 17 p. 191 (2.46 and commentary; "191]" head). Arnold applies "not too much raised, nor yet too low" to the abode, so the page does not call it a seat. Old text's "clean place" is Arnold's "fair, still spot"; "body held as one piece" paraphrase replaced by Arnold's "holding immovable body and neck and head".
 - "Environmental design for attention" and the dedicated-spot advice are the principle's reading; labelled. Plain words replicate replaced; example imagined. Self-QC only.
+
+## Y073 (2026-10-21)
+- Woods HOS 17 pp. 203-204 (3.1 and commentary; "[200" and "[204" heads; the exact page break between 203 and 204 not resolved, so both are cited). Quotes verified.
+- Old text said the definition excludes thinking about or visualizing the object and that the practice is the return. The opened commentary lists external supports and a quoted, vividly pictured divine form, and says nothing about "return"; page states this and labels the return idea as modern. Plain words replicate replaced; example imagined. Self-QC only.
