@@ -12,13 +12,17 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 81** — Recognise that pleasure completes activity
 
-Pleasure is not an added ingredient; it is the natural completion of an activity performed well. When you do something well, pleasure follows. Do not seek pleasure directly; seek the activity, and let pleasure complete it.
+Book X of the Ethics argues that pleasure is not a movement or process one could chase, but something complete at every moment, like seeing: "For it is a whole, and at no time can one find a pleasure whose form will be completed if the pleasure lasts longer." Each activity has its proper pleasure, and the pleasure "completes the activity":
 
-(NE X.4, X.5.)
+> "Pleasure completes the activity not as the corresponding permanent state does, by its immanence, but as an end which supervenes as the bloom of youth does on those in the flower of their age." ([Nicomachean Ethics X.4, Ross translation, MIT Classics](http://classics.mit.edu/Aristotle/nicomachaen.10.x.html))
 
-**Plain words** Pleasure isn't an extra ingredient you add. It's what naturally comes when you do something well. So don't hunt for pleasure directly. Do the thing, and let it arrive.
+The relation runs both ways: "without activity pleasure does not arise, and every activity is completed by the attendant pleasure", and pleasure is not continuous for the same reason activity is not. The proper pleasure also feeds the activity: "it is those who enjoy geometrical thinking that become geometers and grasp the various propositions better", while alien pleasures hinder it, as when "people who are fond of playing the flute are incapable of attending to arguments if they overhear some one playing the flute."
 
-*For example:* Fixing a bike properly gives a quiet satisfaction that scrolling for it never does.
+The compendium's exercise: choose an activity for its own sake this week; note the pleasure when it arrives and its absence when hunted directly.
+
+**Plain words** Aristotle says pleasure is not a thing you can grab on its own. It comes with doing something well, the way a bloom comes with youth. Do the thing; the pleasure arrives with it and even helps it along.
+
+*For example (imagined):* Someone fixes a bike and notes the quiet satisfaction arriving mid-repair, not before it.
 
 ## Stories
 
@@ -26,7 +30,7 @@ Pleasure is not an added ingredient; it is the natural completion of an activity
 - [[ST171 — Soma|171. Soma]]
 ## Psychology parallels
 
-- **[[Flow|Flow research]]**, absorption in activity produces positive affect (Csikszentmihalyi, 1990)
+- **[[Flow|Flow research]]** (Csikszentmihalyi, 1990)
 - **[[Savoring|Savoring with awareness]]** (Bryant and Veroff, 2007)
 
 ## Philosophy parallels
