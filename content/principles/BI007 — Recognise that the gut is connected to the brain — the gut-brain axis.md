@@ -12,16 +12,25 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BI — Biophysi
 ---
 > **Principle 7** — Recognise that the gut is connected to the brain: the gut-brain axis
 
-The gut and brain are connected through the vagus nerve, immune system, and hormones. The gut microbiome (the trillions of bacteria in the gut) affects mood, cognition, and stress. This is the gut-brain axis.
+The review's definition:
 
-**Plain words** The gut and brain are on a party line — vagus nerve, immune system, hormones — and the gut's bacteria affect mood and stress. The "gut feeling" is not a metaphor. Feed the gut like it's part of your mental health team, because it is.
+> "The gut-brain axis (GBA) consists of bidirectional communication between the central and the enteric nervous system, linking emotional and cognitive centers of the brain with peripheral intestinal functions." (Carabotti et al., 2015)
 
-*For example:* The week of terrible food followed by the week of terrible mood, "coincidentally" — the gut was filing reports. The fermented foods and the fibre are mental health interventions.
+The microbiota's role: "Recent advances in research have described the importance of gut microbiota in influencing these interactions", and the interaction "appears to be bidirectional, namely through signaling from gut-microbiota to brain and from brain to gut-microbiota by means of neural, endocrine, immune, and humoral links." One named route: "microbiota communication with the brain involves the vagus nerve, which transmits information from the luminal environment to CNS." The clinical evidence the review reports is associational: "evidence of microbiota-GBA interactions comes from the association of dysbiosis with central nervous disorders (i.e. autism, anxiety-depressive behaviors) and functional gastrointestinal disorders."
+
+**Plain words** The gut and brain are on a party line: vagus nerve, immune system, hormones. The gut's bacteria are on the call too, and the talk runs both ways. The "gut feeling" is not a metaphor.
+
+*For example* Imagined: the week of terrible food that is followed by the week of terrible mood. The review's clinical evidence is associational, so treat the pairing as something to notice rather than proven cause.
+
+## Sources
+
+- [Carabotti, Scirocco, Maselli & Severi, "The gut-brain axis: interactions between enteric microbiota, central and enteric nervous systems", Annals of Gastroenterology 28(2): 203-209, 2015 (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4367209/) — quotes checked against the opened article text, Abstract and the gut-to-brain section
+
 ## Psychology parallels
 
-- **[[Gut-brain axis (Cryan)|Gut-brain axis (Cryan)]]**, the gut microbiome communicates with the brain via vagus nerve, immune system, and hormones (Cryan et al., 2019; Dash et al., 2015)
-- **Microbiome and mental health**, gut microbiome composition is associated with depression and anxiety (Cryan et al., 2019; Chevalier et al., 2020)
-- **Note: the specific mechanisms and causal direction are still being established**, and probiotic evidence for mood is mixed (Cryan et al., 2019; Nikolova et al., 2019)
+- **[[Gut-brain axis (Cryan)|Gut-brain axis (Cryan)]]**, the GBA consists of bidirectional communication between the central and the enteric nervous system (Carabotti et al., 2015; Cryan et al., 2019)
+- **Microbiome and mental health**, dysbiosis is associated with central nervous disorders including anxiety-depressive behaviors (Carabotti et al., 2015; Cryan et al., 2019)
+- **Note: the specific mechanisms and causal direction are still being established**, and probiotic evidence for mood is mixed (Carabotti et al., 2015; Nikolova et al., 2019)
 
 ## Philosophy parallels
 
@@ -31,4 +40,4 @@ The gut and brain are connected through the vagus nerve, immune system, and horm
 
 ## Practice
 
-- Support gut health: eat fibre-rich foods, fermented foods (yogurt, kefir, kimchi), and reduce ultra-processed foods. The gut-brain axis is real, but do not over-rely on probiotics alone for mood.
+- Support gut health with fibre-rich and fermented foods. The review treats probiotics and prebiotics as ways of modulating the microbiota, and the mood evidence is associational, so do not rely on probiotics alone for mood.

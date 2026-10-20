@@ -1,6 +1,6 @@
 {
  "batch": "p1ze",
- "revision": 13,
+ "revision": 14,
  "records": [
   {
    "action": "reciprocal",
@@ -120,6 +120,13 @@
    "link": "BI003",
    "why": "HRV reflects vagal activity and is the measure biofeedback training raises through slow breathing; BI003 gives the definition and the training protocol.",
    "notes": "Proposed by worker-p1ze-e6d6f5ba during BI003 saturation; grounded in the opened Shaffer & Ginsberg 2017 and Lehrer & Gevirtz 2014 papers."
+  },
+  {
+   "action": "reciprocal",
+   "into": "Inflammatory theory of depression (Dantzer, Miller)",
+   "link": "BI007",
+   "why": "The gut-brain axis includes immune and inflammatory signaling among its named links; BI007 gives the axis definition, and the inflammatory theory covers one of its peripheral routes.",
+   "notes": "Proposed by worker-p1ze-e6d6f5ba during BI007 saturation; target body verified to name the gut-brain axis as a peripheral route; grounded in the opened Carabotti et al. 2015 review (immune links)."
   }
  ]
 }

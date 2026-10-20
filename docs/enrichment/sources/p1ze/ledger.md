@@ -134,3 +134,9 @@ Per-item evidence notes (owner concise-bar items 6-7). Manifest: BE012..CO061, 3
 - Scope: seed's "5 seconds in, 5 seconds out" and "10-20 minutes daily" timing replaced with the paper's own protocol (twice daily, ~3 months, ~0.1 Hz); the synthetic "Cambridge, 2020-2025 synthesis" parallels line removed (not a real citation); "improves autonomic flexibility" outcome claim replaced by the paper's mechanism description; Thayer et al. 2012 and Lehrer et al. 2020 kept as references.
 - Saturation: 2 reciprocals proposed (Slow-paced breathing, Parasympathetic activation; both target bodies verified to discuss HRV); Control theory of self-regulation judged tangential.
 - QC: not a milestone item (item 16 of 30); validator pass vs pre-item baseline eff0b70c.
+
+## BI007 — gut-brain axis
+- Source opened: Carabotti, Scirocco, Maselli & Severi (2015), "The gut-brain axis: interactions between enteric microbiota, central and enteric nervous systems", Annals of Gastroenterology 28(2): 203-209 (https://pmc.ncbi.nlm.nih.gov/articles/PMC4367209/). Quotes verified against the opened article text: the GBA definition (Abstract), the bidirectional-signaling sentence (Abstract), the vagus-nerve route sentence (body), and the associational clinical-evidence sentence (Abstract).
+- Scope: seed's causal "bacteria affect mood" claim scoped to the review's associational evidence; "fermented foods and fibre are mental health interventions" over-claim removed; example relabelled Imagined with an associational caveat; Practice grounded in the review's probiotics/prebiotics framing; Dash et al. 2015 and Chevalier et al. 2020 references replaced by the opened source.
+- Saturation: 1 reciprocal proposed (Inflammatory theory of depression (Dantzer, Miller); target body verified to name the gut-brain axis as a peripheral route).
+- QC: not a milestone item (item 17 of 30); validator pass vs pre-item baseline 38d5502a.
