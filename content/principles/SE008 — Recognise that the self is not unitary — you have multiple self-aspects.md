@@ -19,7 +19,7 @@ James's account of the social self is plural: different people recognise the sam
 > "Properly speaking, a man has as many social selves as there are individuals who recognize him and carry an image of him in their mind. To wound any one of these his images is to wound him." (William James, [The Principles of Psychology, Vol. I, ch. X](https://www.gutenberg.org/files/57628/57628-h/57628-h.htm))
 
 **Plain words**
-James describes different social selves through the images other people carry of us. ([The Principles of Psychology, Vol. I, ch. X](https://www.gutenberg.org/files/57628/57628-h/57628-h.htm)) For this exercise, list several relationships and compare how you are known in each.
+There is no single public you. The you your mother knows, the you your colleagues know and the you your oldest friend knows are all real, and none of them is the complete edition. The practical use: when one relationship has you boxed into a version of yourself you have outgrown, remember it is one description, not the verdict. Other rooms hold other yous.
 
 *For example:* Compare how you describe yourself at work and at home. Which descriptions fit both settings, and which do not?
 ## Psychology parallels

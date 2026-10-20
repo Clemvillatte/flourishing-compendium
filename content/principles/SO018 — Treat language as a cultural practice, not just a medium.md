@@ -23,7 +23,7 @@ Boroditsky's article traces the history: the notion that different languages imp
 The article discusses examples in particular domains, including space, time and causality. ([How Language Shapes Thought, Scientific American, February 2011](https://web.uvic.ca/~dbub/Cognition_Action/SpecialTopicsEssays_files/How%20Language%20Shapes%20Thought.pdf)) The practical direction for a writer is attention: notice the concepts your language makes available and the ones it leaves unnamed, and treat other languages' distinctions as data about what can be noticed.
 
 **Plain words**
-Boroditsky describes influences in both directions: thought influences language, and language can influence thought. ([How Language Shapes Thought, Scientific American, February 2011](https://web.uvic.ca/~dbub/Cognition_Action/SpecialTopicsEssays_files/How%20Language%20Shapes%20Thought.pdf)) For a writer, this is a reason to examine the distinctions their wording makes.
+The words you reach for are not neutral wrapping; they do some of the thinking. A language that has a word for a distinction makes that distinction easier to notice, and one that lacks it makes it easier to miss. For a writer the lesson is concrete: when something will not quite say itself, ask whether your wording, or the whole vocabulary you inherited, is hiding the very thing you mean.
 
 *For example* (writing exercise): Describe the same event twice, first naming the actor and then leaving the actor unnamed. Ask what each wording makes explicit.
 ## Psychology parallels

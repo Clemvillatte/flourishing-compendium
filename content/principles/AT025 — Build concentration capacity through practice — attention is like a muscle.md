@@ -27,7 +27,7 @@ The studies reported improvements on their particular measures after meditation 
 (Psychological Science, 2010 and 2013.)
 
 **Plain words**
-These studies tested specific training programmes, not whether any short daily routine will improve concentration ([MacLean 2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC3132583/); [Mrazek 2013](https://apps.weber.edu/wsuimages/psychology/Research/ResearchArticles/Mrazek%20et%20al_%20(2013).pdf)). For your own practice, choose a manageable exercise, notice when attention wanders, and return to what you were doing.
+Concentration behaves like a muscle in this limited sense: trained with real exercises, it improved. The catch is in what exactly was trained. Treat your routine as an experiment: something manageable, done regularly, with a gentle return when the mind walks off.
 
 *For example:*
 Imagined: Before reading, someone chooses a short section to work through. When attention wanders, they return to the paragraph. Afterwards, they note the interruptions and decide how to arrange the next session.
