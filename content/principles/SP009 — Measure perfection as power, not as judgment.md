@@ -16,9 +16,9 @@ Spinoza uses reality and perfection as synonymous terms ([Ethics II, Def. VI, El
 
 > "By virtue (virtus) and power I mean the same thing; that is (III. vii), virtue, in so far as it is referred to man, is a man's nature or essence, in so far as it has the power of effecting what can only be understood by the laws of that nature." (Ethics IV, Def. VIII, Elwes tr., [Gutenberg #3800](https://www.gutenberg.org/ebooks/3800))
 
-**Plain words** Imperfection, in this framing, is diminished capacity rather than sin. A dim lamp is not wicked; it is a lamp with less current. The question moves from what a person deserves to what would increase their power of acting, and the two questions often have different answers.
+**Plain words** As an exercise, replace a sweeping judgment about yourself with a description of a particular difficulty. What can you currently do, and where do you struggle? This application does not decide questions of moral responsibility.
 
-**For example (imagined):** A family member's cruelty looks, in this lens, like a small engine making loud noises: diminished capacity, not demonic intent. The practical question becomes what would actually increase this person's power of acting, and the answer is usually not another fight.
+**For example (imagined):** Someone cannot follow an argument in a book. Instead of calling themselves stupid, they list the unfamiliar terms and decide which to look up first.
 ## Psychology parallels
 
 - **[[The quiet ego|The quiet ego]]**, a growth-oriented, less-defensive identity structure associated with well-being (Wayment and Bauer, 2017)

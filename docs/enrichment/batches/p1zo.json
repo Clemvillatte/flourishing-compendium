@@ -22,11 +22,11 @@
   "SO071",
   "SO074",
   "SP003",
-  "SP009",
   "SP011",
   "SP004",
   "SP006",
-  "SP008"
+  "SP008",
+  "SP009"
  ],
  "in_progress": null,
  "flagged": {
@@ -53,10 +53,11 @@
   "SP003": "Reopened for QC: QC: evidence-scope repairs, sources/ledger correction",
   "SP004": "Reopened for QC: QC: application-scope repairs, plain words/example replacement",
   "SP006": "Reopened for QC: QC: quote-fidelity repair (inserted 'the'), application removal, plain words/example replacement",
-  "SP008": "Reopened for QC: QC: duplication removal, overreach repairs"
+  "SP008": "Reopened for QC: QC: duplication removal, overreach repairs",
+  "SP009": "Reopened for QC: QC: plain words/example scope repairs"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T12:59:01+00:00",
+ "updated": "2026-10-20T12:59:06+00:00",
  "band_done": false
 }
