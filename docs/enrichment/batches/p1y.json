@@ -6,18 +6,17 @@
   "Y034",
   "Y040",
   "SP027",
-  "Y083",
   "SO075",
   "SP010"
  ],
- "in_progress": null,
+ "in_progress": "Y083",
  "flagged": {
-  "Y083": "Reopened for QC: QC correction: advisor scope - remove ungrounded generalisations",
+  "Y083": "Reopened for QC: QC correction round 2: add BG 6.10 citation to second sentence",
   "SO075": "Reopened for QC: QC correction round 2: remove clinical claims in example",
   "SP010": "Reopened for QC: QC correction round 2: mechanical citation fixes"
  },
  "missing_concepts": [],
  "sources_checked": 3,
- "updated": "2026-10-20T07:58:04+00:00",
+ "updated": "2026-10-20T07:58:06+00:00",
  "band_done": false
 }
