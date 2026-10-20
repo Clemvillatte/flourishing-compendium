@@ -12,13 +12,30 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 211** — Remember that you will die
 
-Memento mori is the practice of holding death in mind. Not to induce fear but to clarify priorities. If you knew you would die tomorrow, what would you do today? The question is not hypothetical; you will die, and the timing is unknown. Let the awareness of death sharpen the value of life.
+Memento mori is the practice of holding death in mind. Marcus Aurelius wrote the reminder to himself as a working instruction:
 
-(Med. II.11, II.14, III.1, III.17, IV.17, IV.19, IV.48, VII.2, VII.29, VII.46, X.15, XI.1, XII.23, XII.35; Seneca, Letters 1, 4, 26, 49, 82, 91, 99, 101, 104, 122; Disc. I.14, III.24; Ench. 21.)
+> Since it is possible that thou mayest depart from life this very moment, regulate every act and thought accordingly.
+>
+> (Marcus Aurelius, Meditations II.11, George Long translation)
 
-**Plain words** Memento mori: hold death in mind, not to scare yourself but to clarify what matters. If you'd die tomorrow, what would you do today? It isn't hypothetical. You will die, and you don't know when. Let that give your life its edge.
+The same book carries the equalising thought behind it:
+
+> Though thou shouldest be going to live three thousand years and as many times ten thousand years, still remember that no man loses any other life than this which he now lives, nor lives any other than this which he now loses.
+>
+> (Meditations II.14)
+
+The reminder is not morbidity. It converts an unknown deadline into a reason to order the present: if the present is all you ever have, the question "what would I do if I died tomorrow" is a device for checking whether today holds what you would actually choose. That is the compendium's use of the Stoic exercise.
+
+(Marcus Aurelius, Meditations II.11, II.14, George Long translation.)
+
+**Plain words**
+You will die, and you do not know when. Most of the time you act as if that were not true, and the postponements pile up: the call to your mother, the book, the honest conversation. The reminder is not there to scare you into urgency. It is there to make you check whether today actually holds what you would choose if the days really were numbered, because they are.
 
 *For example:* Before agreeing to a meeting that bores you, you ask whether this is how you'd spend a day you'd never get back.
+
+## Sources
+
+- [Marcus Aurelius, Meditations, George Long translation (Wikisource, Book II)](https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_II) — II.11 and II.14, verified against the page text
 
 ## Stories
 
@@ -28,8 +45,8 @@ Memento mori is the practice of holding death in mind. Not to induce fear but to
 - [[ST216 — Aron Ralston Chooses|216. Aron Ralston Chooses]]
 ## Psychology parallels
 
-- **[[Death reflection|Death reflection]]**, increases gratitude and decreases materialism (Cozzolino, 2006)
-- **[[Terror management|Terror management theory]]** (Greenberg et al., 1986)
+- **[[Death reflection|Death reflection]]**
+- **[[Terror management|Terror management theory]]**
 
 ## Philosophy parallels
 

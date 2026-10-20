@@ -52,7 +52,8 @@
   "S020",
   "S056",
   "S059",
-  "S073"
+  "S073",
+  "S089"
  ],
  "in_progress": null,
  "flagged": {
@@ -87,7 +88,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 15,
- "updated": "2026-10-20T04:21:05+00:00",
+ "updated": "2026-10-20T04:45:40+00:00",
  "band_done": false,
  "takeover": {
   "by": "genuineflourishing35",
