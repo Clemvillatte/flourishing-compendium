@@ -12,15 +12,31 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 80** — Recognise bipolar disorder's specific affective pattern: it is not mood variability
 
-Bipolar disorder involves distinct episodes of elevated or irritable mood with increased energy (mania or hypomania) alternating with depression. This is not ordinary emotional variability or intensity. It requires specific treatment (mood stabilisers, psychotherapy) and can be dangerous if untreated.
+The American Psychiatric Association draws the line on duration and effect on daily life. Ordinary mood changes "typically last hours rather than days and are not accompanied by extreme changes in behavior or changes in functioning". Bipolar mood episodes last "from days to weeks" ([APA, What Are Bipolar Disorders?](https://www.psychiatry.org/patients-families/bipolar-disorders/what-are-bipolar-disorders)).
 
-**Plain words** Bipolar disorder involves distinct episodes of elevated or irritable mood with increased energy (mania or hypomania) alternating with depression — not ordinary mood variability. Misdiagnosing it as moodiness delays treatment. The pattern is episodic and specific; get it assessed.
+A manic episode is "a period of at least one week when a person is extremely high-spirited or irritable most of the day for most days". A hypomanic episode needs only four days in a row and brings less severe symptoms. A major depressive episode lasts at least two weeks.
 
-*For example:* The person whose "creative seasons" — boundless energy, little sleep, grand plans — followed by crashes, for years, read as personality. The correct reading changes everything about the treatment. Some mood patterns are weather; some are climate with a name.
+> Medication is the cornerstone of bipolar disorder treatment, though talk therapy (psychotherapy) can help many patients learn about their illness and adhere to medications, helping prevent future mood episodes.
+>
+> American Psychiatric Association, What Are Bipolar Disorders? (April 2024)
+
+The same page says symptoms of a manic episode "commonly require hospital care to ensure safety" and that suicide risk is "significantly higher among people with bipolar I disorder than among the general population".
+
+(APA, 2024.)
+
+**Plain words** Everyone's mood moves around. In bipolar disorder the shifts last for days or weeks, change behaviour and make daily life harder, and the high periods may be marked by much less sleep and more energy than usual. Only a clinician can say which it is, and the right treatment differs from what helps ordinary ups and downs.
+
+For example (imagined): someone has weeks of boundless energy, four hours of sleep and grand new projects, followed by weeks of flat exhaustion, and this repeats over years. Friends call it temperament. A pattern like that is worth taking to a doctor.
+
+## Sources
+
+- American Psychiatric Association, [What Are Bipolar Disorders?](https://www.psychiatry.org/patients-families/bipolar-disorders/what-are-bipolar-disorders) (physician review April 2024)
+- National Institute of Mental Health, [Bipolar Disorder](https://www.nimh.nih.gov/health/topics/bipolar-disorder) (last reviewed December 2024)
+
 ## Psychology parallels
 
-- **Bipolar disorder is a distinct clinical condition**, with specific episodes, specific neurobiology, and specific treatments (APA, 2022)
-- **Ordinary affective variability is distinct from bipolar episodes**, bipolar involves discrete episodes of altered mood, energy, and cognition, not day-to-day fluctuation (Goodwin & Jamison, 2007)
+- **Bipolar disorder is a distinct clinical condition**, with manic or hypomanic and depressive episodes and treatment centred on medication, with psychotherapy as support (APA, What Are Bipolar Disorders?, 2024)
+- **Bipolar disorder causes clear shifts in mood, energy, activity levels and concentration** (NIMH, Bipolar Disorder, 2024)
 
 ## Philosophy parallels
 

@@ -98,3 +98,13 @@ PROTOCOL-PRINCIPLES items 6-7.
 - Sources opened (abstracts via Europe PMC): Butler et al. 2003 Emotion 3:48-67 (12899316); Impett et al. 2012 PSPB 38:707-720 (22389432); Gross & John 2003 JPSP 85:348-362 (12916575); Butler, Lee & Gross 2007 Emotion 7:30-48 (17352561).
 - Verbatim fragments as quoted; Gross & John quote uses [...] before "using".
 - Corrected: old body said suppression "reduces rapport, increases physiological stress in both parties" with partners/close friends; the Butler studies used unacquainted women, so page says so and adds the couples study. Old Gottman & Levenson 2000, Butler & Gross 2009, English & Eldreda 2020 bullets not opened; replaced. Cultural moderation added.
+
+## AF079 — Trauma's specific effects on affect
+- Source opened: APA "What is Posttraumatic Stress Disorder (PTSD)?" https://www.psychiatry.org/patients-families/ptsd/what-is-ptsd (review March 2025).
+- Verbatim: definition, "most individuals who experience traumas do not go on to develop PTSD", four categories, diagnosis duration (more than a month), CBT sentence.
+- Corrected: old body listed "hyperarousal, avoidance, intrusive re-experiencing, numbing" and said it "does not respond to ordinary regulation skills alone" (not supported by what I opened). Replaced with APA's four clusters; dropped the unsupported "alone" claim and the Craske 2014 mechanism bullet (not opened). Foa et al. 2007 not opened. Example now imagined with a clinician-referral frame.
+
+## AF080 — Bipolar disorder's specific affective pattern
+- Sources opened: APA "What Are Bipolar Disorders?" (review April 2024) https://www.psychiatry.org/patients-families/bipolar-disorders/what-are-bipolar-disorders ; NIMH "Bipolar Disorder" (reviewed December 2024) https://www.nimh.nih.gov/health/topics/bipolar-disorder
+- Verbatim: ordinary mood changes "typically last hours rather than days..."; manic episode at least one week; hypomania four days; treatment sentence; hospital-care and suicide-risk sentences.
+- Corrected: old body said "can be dangerous if untreated"; APA wording is about manic episodes requiring hospital care and higher suicide risk in bipolar I, quoted as such. Goodwin & Jamison 2007 not opened; bullets re-pointed to opened pages. Example imagined.
