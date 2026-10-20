@@ -29,10 +29,10 @@
   "S064": "Reopened for QC: milestone QC round 2 repairs",
   "S066": "Reopened for QC: milestone QC round 2 repairs",
   "S074": "Reopened for QC: first-item QC: Plain words overreach (free choice of evil; not thereby excused)",
-  "S075": "inherited parallels not certified: Festinger 1954 and Leroy 2009 bullets, Daodejing 12 and Speech gate parallels unopened this session; wikilinks preserved"
+  "S075": "Reopened for QC: QC repair (takeover QC): quotes were Casaubon's wording (Gutenberg #2680) but credited to George Long, and the Antoninus Pius passage locator was wrong (it is Book VI in both editions; the page said Book I.XXVIII). Repair: replace with Long's own wording (I.10, VI.30) verified against Gutenberg #15877, fix framing and locators."
  },
  "missing_concepts": [],
  "sources_checked": 13,
- "updated": "2026-10-20T14:21:45+00:00",
+ "updated": "2026-10-20T16:01:53+00:00",
  "band_done": false
 }

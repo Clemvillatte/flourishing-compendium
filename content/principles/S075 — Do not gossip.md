@@ -12,20 +12,20 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 197** — Do not gossip
 
-The Meditations keeps its instruction in credit-lists: Marcus records what he learned from people he knew, and the anti-gossip entries are among them. From his adoptive father Antoninus Pius:
+Book I of the Meditations is a credit-list: Marcus records what he learned from people he knew, and the entry for Alexander the Grammarian is a speaking discipline:
 
-> "how he would never be over-hasty in anything, nor give ear to slanders and false accusations, but examine and observe with best diligence the several actions and dispositions of men. Again, how he was no backbiter, nor easily frightened, nor suspicious" (Marcus Aurelius, Meditations, Book I, section XXVIII, [George Long translation](https://www.gutenberg.org/files/2680/2680-0.txt))
+> "From Alexander the grammarian, to refrain from fault-finding, and not in a reproachful way to chide those who uttered any barbarous or solecistic or strange-sounding expression; but dexterously to introduce the very expression which ought to have been used" (Marcus Aurelius, Meditations, Book I, section 10, [George Long translation](https://www.gutenberg.org/cache/epub/15877/pg15877.txt))
 
-The neighboring entries extend the same care to speech: from Alexander the Grammarian he learned "to be un-reprovable myself, and not reproachfully to reprehend any man for a barbarism, or a solecism", correcting by example rather than by reproach (Book I, section VII). ([Meditations](https://www.gutenberg.org/files/2680/2680-0.txt))
+The longer remembrance of his adoptive father Antoninus Pius sits in Book VI, as part of the instruction to do everything as a disciple of Antoninus: "how he did nothing in a hurry; and how he listened not to calumnies, and how exact an examiner of manners and actions he was; and not given to reproach people, nor timid, nor suspicious" (Book VI, section 30). The listening half and the speaking half are both there: no ear for calumnies, no habit of reproach.
 
 **Plain words**
-Two habits are refused at once: giving ear to slanders and false accusations, and being a backbiter. The first is a listening discipline, the second a speaking one. The credit-list format is itself the method: Marcus names a person he watched and one specific thing that person did.
+Two habits are refused at once: listening to calumnies, and reproaching people. The first is a listening discipline, the second a speaking one. Marcus's method is to name a person he watched and one specific thing that person did. Alexander's version of the method is still the cleanest on offer: when someone mispronounces a word, use the word correctly in your reply and let the correction happen without a scene.
 
 For example: At lunch, you decline to discuss a colleague's divorce.
 
 ## Sources
 
-- [Marcus Aurelius, Meditations (George Long translation, Project Gutenberg)](https://www.gutenberg.org/files/2680/2680-0.txt) — Book I, section XXVIII (Antoninus Pius credit) and Book I, section VII (Alexander the Grammarian)
+- [Marcus Aurelius, Meditations (George Long translation, Project Gutenberg)](https://www.gutenberg.org/cache/epub/15877/pg15877.txt) — Book I, section 10 (Alexander the Grammarian) and Book VI, section 30 (Antoninus Pius remembrance)
 
 ## Psychology parallels
 
