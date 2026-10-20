@@ -29,7 +29,7 @@ The verdict ends the investigation; the question continues it. When something un
 
 ## Psychology parallels
 
-- **[[Curiosity|Curiosity as a character strength]]** (Kashdan, 2009)
+- **[[Curiosity|Curiosity as a character strength predicting well-being]]** (Kashdan, 2009)
 - **[[Epistemic curiosity|Epistemic curiosity]]** (Litman, 2008)
 
 ## Philosophy parallels
