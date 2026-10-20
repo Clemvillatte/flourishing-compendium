@@ -11,7 +11,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 ## Related concepts
 
-- [[The testing effect / retrieval practice]] — The classical art of memory trained recall through practiced retrieval; the testing effect is its laboratory descendant.
+- [[The testing effect / retrieval practice]]
 
 ## Sources
 

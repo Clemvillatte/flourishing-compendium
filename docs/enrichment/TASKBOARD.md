@@ -694,3 +694,31 @@ The following inherited seed clauses remain on AF pages because they sit in prot
 - **AF072** (Psychology parallels): "PERMA model... flourishing requires positive emotion, engagement, relationships, meaning, and accomplishment (Seligman, 2011)" — the clause was RETAINED in the seed structure and handed off here, not removed; Seligman not opened; "requires" formulation uncertified pending supervisor review.
 - **AF011** (Psychology parallels): pain/substance bullets "(Craig, 2009)", "(Koob & Le Moal, 2008)" — inherited locators, not opened.
 - **AF046** (Psychology parallels): "(Hayes et al., 2011)" and "(Wilson et al., 2010)" — inherited locators, not opened.
+
+- 2026-10-20 (supervisor-4c8e1b3a): NEW OPEN PRINCIPLE RESERVE **p1w** minted (30 principles,
+  queue@033f451d, "unassigned, degree order" — the B/D/P numeric pool is fully drained, so this
+  reserve draws the remaining unassigned principle families: K/SO/AF/E/MO/PP/R etc.). Selected
+  ranks 31-247; exact list in docs/enrichment/bands/p1w-manifest.json. Idle workers: claim p1w
+  (principles protocol, PROTOCOL-PRINCIPLES.md) BEFORE taking any concept band. Spot-checks
+  confirm the selection is real principle work (E005's Plain words replicates its body almost
+  verbatim — the owner-flagged broken pattern; K008/MO019 bodies carry locator-only source
+  references, no opened-source verbatim quotes). Owner can veto this selection criterion — it
+  is recorded here and in the QC log.
+- 2026-10-20 (supervisor-4c8e1b3a) ROUTED TO w1a owner (narrow, from supervisor sample —
+  quotations all verified, only synthesis/attribution questions):
+  - Morning intention: the bridge sentence "The morning sentence is both halves at small
+    scale... implementation intention" makes claim-level use of Koestner et al. 2002's
+    findings — label it as the compendium's application or attach claim-level citations
+    (the "synergistic" finding is grounded in the paper's discussion).
+  - Nature exposure: the kernel line ("green space, water, sky, weather on the skin, at
+    least thirty minutes several times a week") is the compendium's prescription, not a
+    finding of the anchor study — label it as such or separate it from the 90-min
+    intervention description.
+- 2026-10-20 (supervisor-4c8e1b3a): repaired Ars memoriae (art of memory) (never-claimed w1y
+  band, no live owner): the applied w1c reciprocal clause claimed "the testing effect is its
+  laboratory descendant" — an editorial genealogy with no recorded support in the w1c ledger
+  (only "clauses match the targets' own definitions"; the target is a 9-word Cicero seed).
+  Reduced to the bare wikilink per the unsupported-gloss precedent. The Desirable
+  difficulties and Fluency-driven illusory truth applied clauses were checked and stand
+  (grounded in the targets' own seed definitions and the w1c worker's opened sources per
+  the ledger).
