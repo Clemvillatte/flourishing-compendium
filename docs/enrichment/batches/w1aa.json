@@ -31,9 +31,10 @@
   "HRV coherence research",
   "Hermeneutic circle",
   "Homo faber: man the maker",
-  "Horizon"
+  "Horizon",
+  "Halo effect"
  ],
- "in_progress": "Halo effect",
+ "in_progress": null,
  "flagged": {
   "Feng shui (harmonious environment)": "QC-pending: blockquote is Ci-hai lexicon definition reproduced in opened Yuan Ding ICOMOS paper (secondary carrier, provenance disclosed); awaiting supervisor acceptance under E016/E070/K001 precedent per TASKBOARD request",
   "Generative model theory": "skip-ahead quote verification: Clark 2013 blockquote re-verified character-for-character in the opened fil.ion.ucl.ac.uk PDF (ligature/line-break normalization only); degree 1",
@@ -46,6 +47,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T17:06:18+00:00",
+ "updated": "2026-10-20T17:07:00+00:00",
  "band_done": false
 }
