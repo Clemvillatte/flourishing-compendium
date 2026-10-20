@@ -16,14 +16,14 @@ Zaccaro and colleagues' systematic review of slow-breathing studies found the te
 
 > "Slow breathing techniques promote autonomic changes increasing Heart Rate Variability and Respiratory Sinus Arrhythmia paralleled by Central Nervous System (CNS) activity modifications." (Zaccaro et al., 2018, [Frontiers in Human Neuroscience](https://www.frontiersin.org/articles/10.3389/fnhum.2018.00353/full))
 
-The review's pooled result ties the physiology to what people report at around six breaths per minute: increased ease, comfort and alertness, and reduced arousal and anxiety. The compendium's reading of the exercise below: the breath is the lever, the autonomic shift is the mechanism, and the counting is just how the breath gets slow. (Zaccaro et al., 2018.)
+The studies the review covers, most pacing breaths at five-and-a-half to six per minute, tie the physiology to what participants report: increased comfort, relaxation, pleasantness, vigor and alertness, and reduced symptoms of arousal, anxiety, depression, anger and confusion. The compendium's reading of the exercise below: the breath is the lever, the autonomic shift is the mechanism, and the counting is just how the breath gets slow. (Zaccaro et al., 2018.)
 
 > "We found evidence of increased psychophysiological flexibility linking parasympathetic activity, CNS activities related to emotional control and psychological well-being in healthy subjects during slow breathing techniques." (Zaccaro et al., 2018, [Frontiers in Human Neuroscience](https://www.frontiersin.org/articles/10.3389/fnhum.2018.00353/full))
 
 **Plain words**
 Try the practice below for three minutes and check the result against something measurable: your resting pulse before and after. Slow here means around six breaths a minute in the reviewed studies, and the technique's job is to hand the autonomic system a slower rhythm. What you notice afterward, comfort or ease or neither, is the report to keep.
 
-*For example:* Six slow breaths before the hard conversation, and the voice comes out at a different pitch. The pulse you carry into the room is the one the other person meets.
+*For example:* Before a difficult phone call, sit for three minutes at six breaths a minute, counting five seconds in and five seconds out, and take your resting pulse before and after. The after number is what you carry into the call.
 
 ## Sources
 

@@ -37,8 +37,8 @@
   "BE013",
   "BE048",
   "BI032",
-  "BI045",
-  "BE052"
+  "BE052",
+  "BI045"
  ],
  "in_progress": null,
  "flagged": {
@@ -66,10 +66,11 @@
   "AF061": "Reopened for QC: repair: Psychology parallels upward-spirals and categorical broaden-and-build claims",
   "AF073": "Reopened for QC: repair: Social support wikilink unresolved",
   "AF075": "Reopened for QC: repair: neutralized bullets created unresolved wikilinks",
-  "BE052": "Reopened for QC: apply routed QC correction (worker-p1p note): 1970s heyday claim not in opened abstract — verify vs full text or drop"
+  "BE052": "Reopened for QC: apply routed QC correction (worker-p1p note): 1970s heyday claim not in opened abstract — verify vs full text or drop",
+  "BI045": "Reopened for QC: apply routed QC correction (worker-p1p note): 'pooled result' wording + pitch outcome suggestion not in source"
  },
  "missing_concepts": [],
  "sources_checked": 15,
- "updated": "2026-10-20T03:18:11+00:00",
+ "updated": "2026-10-20T03:18:38+00:00",
  "band_done": false
 }
