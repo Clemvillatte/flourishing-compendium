@@ -12,13 +12,24 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 30** — Take only what is given
 
-Non-stealing (asteya) extends beyond property to time, attention, credit, and energy: taking what was not freely offered. The tradition's test is the inner one, because the trained mind no longer covets. Practically, audit a week for the subtle takings: interrupted conversations, unearned credit, borrowed without asking.
+Sutra 2.30 lists five abstentions, and the third is the one at issue:
 
-(YS 2.37.)
+> Abstinence from injury and from falsehood and from theft and from incontinence and from acceptance of gifts are the abstentions.
 
-**Plain words** Non-stealing extends past property to time, attention, credit, and energy: taking what was not freely offered. The test is inner — the trained mind no longer covets. Audit a week for the subtle takings: interrupted conversations, unearned credit, borrowed energy.
+(Yoga Sutras 2.30, trans. James Haughton Woods, *The Yoga-System of Patanjali*, Harvard Oriental Series 17, 1914, p. 178, [Internet Archive](https://archive.org/details/yogasystemofpata00wooduoft).)
 
-*For example:* The colleague who finishes your sentences, takes the meeting's air, and pockets the group's credit — owns nothing that can be prosecuted, but the audit shows theft in every category but property.
+The commentary defines theft narrowly: "Theft ... is the unauthorized ... appropriation of things-of-value from another." Then it adds the clause that carries the inner test: "abstinence-from-theft, when free from coveting, is the refusal to do this." So the abstention is the refusal to take, held without the wish to take. Not stealing while quietly craving does not meet the standard.
+
+Sutra 2.37 (p. 186) names a result: "As soon as he is grounded in abstinence from theft, all jewels approach him." The text says nothing there about time, attention or credit. Treating those as things one can steal is this page's extension, and a modern one, built on the commentary's own point about coveting.
+
+**Plain words**
+
+Not stealing is easy to measure by what you do. The commentary also asks what you want. You might never take a wallet and still envy everything in it. The practice is to notice the pull to take what is not yours, including someone's time, attention or credit, and to let it go. Then the habit keeps working when nobody is looking.
+
+**For example**
+
+A colleague sits through a meeting wishing that the praise being given to someone else were theirs, then says nothing and quietly congratulates the person afterwards. They took nothing, and they have also noticed the wish.
+
 ## Psychology parallels
 
 - **Equity and fairness psychology**, the sensitivity to being over-benefited (Adams, 1963; research on inequity discomfort)
@@ -26,3 +37,7 @@ Non-stealing (asteya) extends beyond property to time, attention, credit, and en
 ## Philosophy parallels
 
 - **Property as the condition of freedom** (Kant, Doctrine of Right)
+
+## Sources
+
+- [Woods, The Yoga-System of Patanjali (1914), Yoga Sutras 2.30 and 2.37 with commentary, pp. 178 and 186, Internet Archive](https://archive.org/details/yogasystemofpata00wooduoft)

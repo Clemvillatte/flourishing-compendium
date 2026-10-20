@@ -33,3 +33,12 @@
 ## Y126 (YS 2.28-2.29; BG 6.16)
 - Woods HOS 17 2.28 + commentary (p. 172 area), 2.29 + commentary (p. 177); Mukundananda 6.16. Quotes verified (OCR hyphen "regula- tions" ignored). Old cite BG 6.16-6.17 narrowed to 6.16 on the page.
 - Old claim "tradition's own sequence is need-ordered" narrowed: the texts give an order (abstentions and observances first, concentration near the top), not a need-ranking; seasonal ranking labelled the page's own. Plain words and example replaced; example imagined. Self-QC only.
+
+## Y129 (BG 6.29, 6.32, 3.20)
+- Mukundananda 6.29, 6.32, 3.20-21 pages opened; quotes verified. Old claim that realization without service is incomplete "by the tradition's own test": the verse calls the one who responds to others' joys and sorrows a perfect yogi; it does not call others incomplete, so the stronger reading is labelled the page's own. Vedanta no-boundary reading flagged as beyond this theistic translation. Vivekananda's karma-yoga lectures not opened; not used. Plain words and example replaced; example imagined.
+
+## Y053 (YS 1.39)
+- Woods p. 77: sutra, Vyasa and Vacaspati. Old "or whatever" quotation was not in the sutra; replaced with the real wording. Old "peel potatoes" licence labelled an extension (Vacaspati's example is a deity). Plain words and example replaced; teacup example imagined (old example kept in spirit).
+
+## Y030 (YS 2.30, 2.37)
+- Woods p. 178 (2.30 + Vyasa on theft "when free from coveting"), p. 186 (2.37 "all jewels approach him"). Quotes verified (ellipses mark OCR footnote markers/Sanskrit gloss). Old claim of extension to time, attention, credit labelled modern. Plain words and example replaced; example imagined.
