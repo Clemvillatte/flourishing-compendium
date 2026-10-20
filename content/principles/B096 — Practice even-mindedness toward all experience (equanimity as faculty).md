@@ -18,10 +18,12 @@ AN 8.6 sets the problem as the eight worldly conditions that spin after the worl
 
 The compendium's application: even-mindedness here is not a dampening of feeling. The sutta's disciple meets the same eight conditions as everyone else; what changes is the welcoming-and-rebelling.
 
-**Plain words**
-Notice the two moves your mind makes when news arrives: it grabs the good news and pushes against the bad. The practice is a third move: neither. Feel the thing, name its size, and note that it is one of the conditions that change. You will still feel the wobble and the win; you stop being thrown by either.
+The compendium adapts this as a reflection practice: examine both the satisfactory and unsatisfactory aspects of a situation before responding.
 
-*For example:* Imagine a parent at a child's recital, fully there for the wobbles and the triumphs, gripping neither.
+**Plain words**
+Examine both sides before you respond. Ask what you found helpful and what you found difficult. Then describe your response before acting on it.
+
+*For example:* Imagine a coworker provides helpful feedback late and in a poor tone. You note the help and the tone, then answer about scheduling.
 
 ## Sources
 

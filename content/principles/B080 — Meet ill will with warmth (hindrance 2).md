@@ -12,16 +12,16 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 80** — Meet ill will with warmth (hindrance 2)
 
-MN 10 trains the noticing first: when the mind has aversion, the monk discerns that the mind has aversion, and when it is without aversion, he discerns that too. The hindrance formula extends this to ill will's arising, its abandoning and its future non-arising. (MN 10.) The Metta Sutta names what to grow in its place, and the Dhammapada states the law of the choice: hatred is never appeased by hatred in this world; by non-hatred alone is hatred appeased. (Sn 1.8; Dhammapada 5.)
+MN 10 trains the noticing first: when the mind has aversion, the monk discerns that the mind has aversion, and when it is without aversion, he discerns that too. The hindrance formula extends this to ill will's arising, its abandoning and its future non-arising. (MN 10.) Sn 1.8 instructs the cultivation of limitless goodwill toward all beings. Dhammapada 5 says that hatred is appeased through non-hatred. (Sn 1.8; Dhammapada 5.)
 
 > "As a mother would risk her life to protect her child, her only child, even so should one cultivate a limitless heart with regard to all beings. With good will for the entire cosmos, cultivate a limitless heart: Above, below, & all around, unobstructed, without enmity or hate." (Sn 1.8, [Thanissaro](https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.than.html))
 
-The compendium's application: the warmth is not agreement with whoever triggered the aversion. It is the crop the sutta's word "cultivate" asks for, grown for what it does to your own mind.
+The compendium brings these passages together in an exercise: notice ill will and try directing a sincere wish for the other person's welfare.
 
 **Plain words**
-Anger feels like it is doing something about the offense; mostly it is rehearsing it. As a compendium exercise, when you notice contempt or irritation, silently direct one plain good wish at the person, the kind you would want in their position: may you get through this week. The wish is not for their benefit at first; it changes what your own mind does next.
+The exercise asks you to include someone you dislike in a wish for welfare. Choose a wish you can make sincerely, such as relief from a difficulty they are facing. Then consider how to handle your disagreement with them.
 
-*For example:* Imagine silently wishing a difficult coworker well before a meeting. The wish is not for them, at first; watch what it does to the acid in you.
+*For example:* Imagine preparing for a meeting with a coworker you resent. You silently wish them well, then write down the concern you need to discuss.
 
 ## Sources
 

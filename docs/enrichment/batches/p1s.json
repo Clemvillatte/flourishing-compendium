@@ -24,10 +24,15 @@
   "D106": "Reopened for QC: Milestone QC FAIL: source interpretation overreach; repairs pending",
   "B038": "CROSS-BAND ERROR (2026-10-20): B038 is in p1c's manifest, not p1s's; I light-checked and edited it (plain words re-derivation + Balban/Zaccaro claim-tail trim) after misreading the queue as my manifest. Content kept or revert is the supervisor's call per the p1m precedent; advisor round-3 repairs for its body are recorded in sources/p1s/ledger.md and NOT applied by me.",
   "B021": "CROSS-BAND ERROR (2026-10-20): B021 is in p1i's manifest, not p1s's; I light-checked it (quotes re-verified, NO content edits) after misreading the queue as my manifest. Done marker removed from my state; nothing to revert.",
-  "B031": "CROSS-BAND ERROR (2026-10-20): B031 is in p1k's manifest, not p1s's; I light-checked it (quote re-verified, NO content edits) after misreading the queue as my manifest. Done marker removed from my state; nothing to revert."
+  "B031": "CROSS-BAND ERROR (2026-10-20): B031 is in p1k's manifest, not p1s's; I light-checked it (quote re-verified, NO content edits) after misreading the queue as my manifest. Done marker removed from my state; nothing to revert.",
+  "B078": "Reopened for QC: Milestone QC FAIL: causal psychology in application; repairs pending",
+  "B080": "Reopened for QC: Milestone QC FAIL: mechanism claims; repairs pending",
+  "B092": "Reopened for QC: Milestone QC FAIL: source-scope + application overreach; repairs pending",
+  "B096": "Reopened for QC: Milestone QC FAIL: contradiction; repairs pending",
+  "B109": "Reopened for QC: Milestone QC FAIL: verb form in quote paraphrase; repairs pending"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T02:31:25+00:00",
+ "updated": "2026-10-20T02:35:10+00:00",
  "band_done": false
 }
