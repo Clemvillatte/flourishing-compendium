@@ -35,7 +35,7 @@ The studies asked people to write down things they were thankful for, next to pe
 - [[ST306 — Tim Lives Each Day Twice|306. Tim Lives Each Day Twice]]
 ## Psychology parallels
 
-- [[Gratitude|Gratitude and well-being meta-analysis]] (Wood et al., 2010)
+- [[Gratitude|Gratitude and well-being meta-analysis]] (Wood et al., 2010 — a review and theoretical integration, not a meta-analysis)
 - [[Gratitude|Counting blessings versus burdens]] (Emmons and McCullough, 2003)
 
 ## Philosophy parallels
