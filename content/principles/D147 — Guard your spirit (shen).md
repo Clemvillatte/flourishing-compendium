@@ -12,13 +12,13 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 147** — Guard your spirit (shen)
 
-The Neiye describes cultivating oneself so that shen, translated by Russell Kirkland as spirit or spiritual consciousness, can be drawn in and retained. Kirkland explains this within the text's account of qi and vital essence, including daily bodily regulation and quieting the heart-mind ([Kirkland](https://religion.uga.edu/sites/default/files/inline-files/NEIYEH98_0.pdf)).
+The Neiye describes cultivating oneself so that shen, glossed by Russell Kirkland as spirit or spiritual consciousness, can be drawn in and retained. Kirkland explains this within the text's account of qi and vital essence, including daily bodily regulation and quieting the heart-mind ([Kirkland](https://religion.uga.edu/sites/default/files/inline-files/NEIYEH98_0.pdf)).
 
 > Reverently sweep its abode and the essence will spontaneously come.
 
-(Neiye, section 7 in Robert Eno's translation, [accessible mirror](https://www.scribd.com/doc/181007074/Inner-Enterprise).)
+(Neiye, section 7 in Robert Eno's translation, [unofficial mirror](https://www.scribd.com/doc/181007074/Inner-Enterprise).)
 
-The image asks the practitioner to prepare an abode for what cannot simply be commanded to arrive. It belongs to a cultivation account, not a modern measurement of attention; Kirkland specifically notes the warning against forcing qi by will ([Kirkland](https://religion.uga.edu/sites/default/files/inline-files/NEIYEH98_0.pdf)).
+The abode belongs to the spirit named in the preceding lines; the quotation describes essence arriving when it is swept ([Eno mirror](https://www.scribd.com/doc/181007074/Inner-Enterprise)). This cultivation account is not a modern measurement of attention; Kirkland specifically notes the warning against forcing qi by will ([Kirkland](https://religion.uga.edu/sites/default/files/inline-files/NEIYEH98_0.pdf)).
 
 **Plain words** As a modern analogy, consider the conditions you bring to a task before demanding more concentration from yourself. What could you put aside for the few minutes you intend to spend on it?
 
@@ -26,9 +26,9 @@ The image asks the practitioner to prepare an abode for what cannot simply be co
 
 ## Sources
 
-- [Neiye, Robert Eno translation, section 7, Scribd mirror](https://www.scribd.com/doc/181007074/Inner-Enterprise): abode image and the spirit's coming and going.
+- [Neiye, Robert Eno translation, section 7, unofficial Scribd mirror](https://www.scribd.com/doc/181007074/Inner-Enterprise): abode image and the spirit's coming and going.
 - [Russell Kirkland, Inner Cultivation, University of Georgia PDF](https://religion.uga.edu/sites/default/files/inline-files/NEIYEH98_0.pdf): academic explanation of the text's cultivation account.
-- [Daodejing 59, James Legge, Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm): the seed's additional reference to restraint, not a smartphone study.
+- [Daodejing 59, James Legge, Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm): the seed's additional reference to moderation, not a smartphone study.
 
 ## Psychology parallels
 

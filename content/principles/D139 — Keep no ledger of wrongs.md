@@ -12,9 +12,9 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 139** — Keep no ledger of wrongs
 
-Chapter 79 of the Daodejing begins with a difficulty: settling a major dispute may still leave resentment. Its answer uses the image of a creditor who holds a covenant but does not press demands against the debtor ([Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm)).
+Chapter 79 of the Daodejing begins with a difficulty: reconciliation after great animosity leaves a grudge remaining. Its answer describes the sage keeping a record of the engagement without insisting on its speedy fulfilment by the other party ([Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm)).
 
-> Therefore (to guard against this), the sage keeps the left-hand portion of the record of the agreement, but does not insist on the (speedy) fulfilment of it by the other party.
+> Therefore (to guard against this), the sage keeps the left-hand portion of the record of the engagement, and does not insist on the (speedy) fulfilment of it by the other party.
 
 (Daodejing 79, [Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm).)
 
@@ -26,7 +26,7 @@ Despite this principle's title, the sage in the passage keeps the record. The co
 
 ## Sources
 
-- [Daodejing, chapter 79, translated by James Legge, Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm): remaining resentment and the covenant held without pressing collection.
+- [Daodejing, chapter 79, translated by James Legge, Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm): remaining resentment and the record held without insisting on speedy fulfilment.
 
 ## Psychology parallels
 

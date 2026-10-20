@@ -35,7 +35,7 @@ Claim and state transitions are pushed separately for interruption safety.
 - Search: "Tao Te Ching Legge 63 promises difficulty". Opened full primary
   translation: https://www.gutenberg.org/files/216/216-h/216-h.htm .
   Daodejing 63.3 is the verbatim quotation; 63.2-4 support the surrounding
-  difficulty context.
+  difficulty context (63.2-3; the earlier 63.2-4 locator was wrong).
 - Practical questions and draft-review example are editorial applications,
   with the example explicitly imagined. No quantified trust or satisfaction
   effect is claimed; the passage's scope is stated.
@@ -50,8 +50,8 @@ Claim and state transitions are pushed separately for interruption safety.
 ## D130: Leave vengeance to heaven's net (2026-10-20)
 
 - Opened https://www.gutenberg.org/files/216/216-h/216-h.htm ,
-  Daodejing 73.2-3 and 74.2, translated by James Legge.
-- Net quotation is the continuous, verbatim sentence in 73.3. Source
+  Daodejing 73.1-2 and 74.2, translated by James Legge.
+- Net quotation is the continuous, verbatim sentence in 73.2. Source
   paraphrase attributes the contention/net claims to the text, rather
   than making a verified prediction about universal eventual justice.
 - Protection, reporting and the imagined workplace example are editorial
@@ -68,6 +68,11 @@ Claim and state transitions are pushed separately for interruption safety.
 - Opened https://www.gutenberg.org/files/216/216-h/216-h.htm ,
   Daodejing 79.1-2, James Legge. Continuous quotation is exactly 79.2's
   first sentence, including both parenthetical phrases.
+- Milestone advisor caught an initial misquote ("agreement, but").
+  Fresh fetch confirms "engagement, and"; quote and source descriptions
+  corrected, including removal of creditor/covenant/debtor wording
+  incorrectly attributed to Legge. Paragraph 79.1 uses great animosity,
+  reconciliation and a remaining grudge. Independent recheck requested.
 - Important correction: the sage keeps the record. The seed's title is
   preserved, but the body explicitly avoids equating the passage with
   erasing an agreement or guaranteeing a continued relationship.
@@ -94,6 +99,10 @@ Claim and state transitions are pushed separately for interruption safety.
   failed fetch is counted as read evidence. The readable mirror is labelled.
 - Opened seed's Daodejing 59 in Legge/Gutenberg; restraint is a secondary
   reference, not evidence for a digital-attention claim.
+- Milestone advisor fixes: Kirkland glosses shen in a draft reference entry,
+  not a Neiye translation; source gloss changed to "moderation" for 59.
+  Spirit/essence distinction added around the quotation, mirror labelled
+  unofficial. Earlier "restraint" description above is superseded.
 - Removed the unverified Ward smartphone-capacity claim from the tail.
   Ward, attention-resource and Weil parallels remain unverified.
   Protected reflections retain the eyesight/phone-first seed language.

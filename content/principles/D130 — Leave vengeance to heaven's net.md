@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 130** — Leave vengeance to heaven's net
 
-Chapter 73 of the Daodejing pictures Heaven as prevailing without contention and uses a net to describe its reach. Chapter 74 warns against taking the place of the one who inflicts death, comparing this to an unskilled person taking over a carpenter's work ([Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm)).
+Chapter 73 of the Daodejing pictures Heaven as prevailing without contention and uses a net to describe its reach. Chapter 74 warns against taking the place of the one who presides over death's infliction, comparing this to hewing wood in place of a great carpenter and cutting one's own hands ([Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm)).
 
 > The meshes of the net of Heaven are large; far apart, but letting nothing escape.
 
