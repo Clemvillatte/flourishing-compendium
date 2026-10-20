@@ -11,11 +11,11 @@
   "Three thousand realms in one thought",
   "The water of life",
   "Sufficiency",
-  "The criterion of experience",
   "The community of inquiry",
   "Art as experience",
   "The rhythm of life",
-  "The rhythm of rest"
+  "The rhythm of rest",
+  "The criterion of experience"
  ],
  "in_progress": null,
  "flagged": {
@@ -26,7 +26,7 @@
   "Sufficiency": "title pending supervisor disposition: generic English heading; queue lists Zhi zu (knowing sufficiency) as the tradition's term; flagged in audit worker-flags section",
   "The rhythm of life": "Reopened for QC: QC round 3: remove unverified 'earliest Daoist text on breath cultivation' claim; narrow tranquility/breath causation; attribute longevity to the text's teaching",
   "The rhythm of rest": "Reopened for QC: QC round 3: fix toil-in-youth misread, fix Zi-lai/Zi-yu speaker attribution, fix sleep/waking framing, restore Daoism placeholder line",
-  "The criterion of experience": "title pending supervisor disposition: compendium heading over James's criterion discussion; flagged in audit worker-flags section",
+  "The criterion of experience": "Reopened for QC: QC round 3: replace survey-quote synthesis overreach; use James's positive account (outcome/upshot passage, section VI); fix section number",
   "The community of inquiry": "title pending supervisor disposition: later label for Peirce's 'all who investigate' doctrine; not used verbatim in opened essay; flagged in audit worker-flags section"
  },
  "missing_concepts": [
@@ -37,6 +37,6 @@
   }
  ],
  "sources_checked": 0,
- "updated": "2026-10-20T05:16:06+00:00",
+ "updated": "2026-10-20T05:16:25+00:00",
  "band_done": false
 }

@@ -569,3 +569,19 @@
   sleep" (the quote contrasts a quiet sleep with a calm awaking); section references
   corrected to 2 and 5. Reopened and re-done via enrich_state.py; --fast-track ok;
   build ok.
+
+### QC repair, The criterion of experience (2026-10-20, advisor QC round 3)
+
+- The original page quoted the criterion SURVEY passage and then claimed it
+  established James's own test — an overreach the advisor blocked. Replaced with
+  James's positive account, verified in the raw text (section VI): "The strength
+  of his system lies in the principles, the origin, the terminus a quo of his
+  thought; for us the strength is in the outcome, the upshot, the terminus ad
+  quem..." through "...that is what he means by its being true." The section
+  number is corrected: both the survey passage and the outcome passage are in
+  section VI (the earlier "section III" was wrong; markers verified: VI at line
+  820, VII at line 912 of the downloaded text). The earlier "found wanting"
+  synthesis claim removed (the survey does not say each criterion failed).
+  The "belief is measured by action" footnote is no longer presented as a truth
+  criterion. The liking example is kept as the essay's own case. Reopened and
+  re-done via enrich_state.py; --fast-track ok; build ok.
