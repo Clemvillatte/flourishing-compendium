@@ -73,3 +73,9 @@
   1977)" labelled "(inherited formulation, unverified here)"; the first line ("belief
   in capability predicts initiation and persistence") is supported by the 1977 paper's
   abstract and body passage.
+
+## Advisor QC round 4 (2026-10-20): citation linking
+
+- Linked citations added: the Bandura 1977 PDF on the proposal sentence, the
+  efficacy/outcome distinction sentence and the four-sources sentence; the Jonker et
+  al. review on the CDSMP description and the reported improvements.
