@@ -608,3 +608,12 @@ convention).
   revalidated and re-saved. Note: the save script does not gate on
   validation — the failed version was pushed in 0fabe721 and superseded by
   the repair commit.)
+
+## Embodied emotion theory (fast-track, genuineflourishing01, 2026-10-20)
+- Degree 5 at selection (K172 10, K384 14, BE046 6, P139 31, SP006 6) — fast-track eligible per §1a.
+- Source opened: Scarantino & De Sousa, "Emotion", Stanford Encyclopedia of Philosophy (https://plato.stanford.edu/entries/emotion/), sections 3, 7.1, 9.2, 10.2.
+- Quotation verified verbatim against the fetched SEP page: "we feel sorry because we cry, angry because we strike, afraid because we tremble, and not that we cry, strike, or tremble, because we are sorry, angry, or fearful." — SEP attributes it to James 1884: 190; displayed with that locator and the SEP link as carrier.
+- Other grounded claims: James 1884/Lange 1885 founding; "looms large in affective science" (§9.2 wording, citing Niedenthal 2007); Cannon's indistinguishability objection; SEP's note that research has not fully settled whether emotions have significantly different bodily profiles (§3).
+- Related concepts verified to exist: James-Lange theory of emotion (deg 5), Embodied cognition (22), Somatic marker hypothesis (Damasio) (3), Interoception (9).
+- Saturation: fast-track exemption; no reciprocal proposed (no existing Related section on the seed; nothing obviously missing jumped out).
+- QC: validator ok at fast-track profile (1 checked, 0 failed).
