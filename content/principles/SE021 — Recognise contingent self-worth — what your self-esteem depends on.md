@@ -12,15 +12,31 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 21** — Recognise contingent self-worth: what your self-esteem depends on
 
-Self-esteem can be contingent (dependent on external domains like approval, appearance, competence) or non-contingent (stable, not dependent on external outcomes). Contingent self-worth is fragile and associated with worse outcomes.
+Crocker and Wolfe model self-esteem as a stake in particular domains:
 
-**Plain words** Contingent self-worth: your esteem depends on external domains — approval, appearance, competence, outcomes. Fragile, volatile, hostage to events. Non-contingent worth is stable — not dependent on the day's numbers. Audit what your worth is staked on.
+> "A contingency of self-worth is a domain or category of outcomes on which a person has staked his or her self-esteem, so that person's view of his or her value or worth depends on perceived successes or failures or adherence to self-standards in that domain." (Crocker & Wolfe, 2001, p. 594)
 
-*For example:* The person whose entire self-worth runs on the work performance — one restructuring and they're nothing — versus the one with multiple stakes: craft, relationships, health, community. Diversified worth. Same crash; only one portfolio survives it.
+In their model, state self-esteem changes with perceived successes and failures in the domains on which someone has staked self-worth, and people differ in which domains carry the stake. A later handbook chapter by the same program states the downstream cost:
+
+> "Because people cannot always guarantee success or avoid failure in domains of contingency, contingencies of self-worth predict instability of self-esteem, which creates vulnerability to depression." (Crocker & Park, 2011)
+
+The practice is first diagnostic: find out where your worth is actually staked before deciding what to do about it.
+
+(Crocker & Wolfe, 2001; Crocker & Park, 2011.)
+
+**Plain words** Ask which outcomes change how you feel about yourself. A poor review can remain a judgment about a piece of work; it can also become a judgment about your value as a person. Notice when you make that second move.
+
+*For example (imagined):* After a disappointing performance review, someone concludes that they are worthless. They identify work performance as a condition they have placed on feeling worthwhile.
+
+## Sources
+
+- [Crocker, J., & Wolfe, C. T. (2001). Contingencies of self-worth. Psychological Review, 108(3), 593-623](https://static1.squarespace.com/static/6a760291307e26027c8c5a39/t/6a7a6dfef31cab43f5369c87/1786408447478/Crocker&Wolfe_2001_PsychRev.pdf) — definition p. 594
+- [Crocker, J., & Park, L. E. (2011). Contingencies of self-worth. In Handbook of Self and Identity](https://ubwp.buffalo.edu/selfandmotivationlab/wp-content/uploads/sites/91/2025/07/Crocker-Park-2011-Handbook-of-SAI.pdf) — instability and depression sentence
+
 ## Psychology parallels
 
-- **[[Contingencies of self-worth (Crocker)|Contingencies of self-worth (Crocker)]]**, self-esteem contingent on external domains is fragile and associated with stress and worse outcomes (Crocker & Wolfe, 2001; Crocker, 2002)
-- **Contingent self-worth is associated with worse mental health**, self-esteem based on others' approval predicts depression and anxiety (Crocker et al., 2003)
+- **[[Contingencies of self-worth (Crocker)|Contingencies of self-worth (Crocker)]]** — the model this page applies (Crocker & Wolfe, 2001)
+- **External contingencies and depressive symptoms** — contingencies tied to external events such as others' approval predict increased depressive symptoms in college freshmen; more internal contingencies do not (Crocker & Park, 2011, reviewing Sargent & Crocker, 2006)
 
 ## Philosophy parallels
 
@@ -30,4 +46,4 @@ Self-esteem can be contingent (dependent on external domains like approval, appe
 
 ## Practice
 
-- Examine what your self-worth is contingent on. If it depends on external validation, success, or appearance, it will be fragile. Cultivate non-contingent self-worth — [[Self-compassion|self-compassion]] rather than self-esteem.
+- As a compendium exercise, record one recent change in self-esteem and the outcome it depended on. For a separate practice, see [[Self-compassion|self-compassion]].

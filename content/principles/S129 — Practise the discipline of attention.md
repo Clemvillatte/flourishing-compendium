@@ -14,7 +14,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 
 The Stoic trains attention: to notice impressions before assenting to them, to notice the first movement before it becomes a passion, to notice the drift before it becomes a habit. Attention is the Stoic's primary tool.
 
-> "Work, therefore, to be able to say to every rough and harsh appearance, 'You are but an appearance, and not absolutely the thing you appear to be.' And then examine it by those rules which you have, and first, and chiefly, by this: whether it concerns the things which are in our own control, or those which are not; and, if it concerns anything not in our control, be prepared to say that it is nothing to you." (Enchiridion 1, [Carter translation](https://classics.mit.edu/Epictetus/epicench.html))
+> Work, therefore to be able to say to every harsh appearance, "You are but an appearance, and not absolutely the thing you appear to be." And then examine it by those rules which you have, and first, and chiefly, by this: whether it concerns the things which are in our own control, or those which are not; and, if it concerns anything not in our control, be prepared to say that it is nothing to you. (Enchiridion 1, [Carter translation](https://classics.mit.edu/Epictetus/epicench.html))
 
 (Disc. I.1, I.4, I.6, I.20, III.2, III.3, III.12; Ench. 1; Med. II.1, III.1, IV.3, V.1, VI.6; Seneca, Letters 16, 101.)
 

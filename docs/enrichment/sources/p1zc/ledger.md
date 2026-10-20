@@ -66,3 +66,34 @@ Short, item-keyed evidence notes (owner decision 2026-10-20, PROTOCOL-PRINCIPLES
   appearance... it is nothing to you."
 - Saturation reciprocal (5 concept pages cite S129); not on replicates list; no new
   proposals. Validator ok. DONE (no advisor QC due: item 5; next QC at item 6).
+
+## ITEM-6 QC INCIDENT (S127/S129 quote fidelity, corrected 2026-10-20)
+- The item-6 advisor QC challenged the S127/S129 quote verifications. Re-extraction of
+  the opened MIT Carter Enchiridion showed both inserted quotes deviated from the
+  opened source: S129 read "Work, therefore, to be able to say to every rough and
+  harsh appearance" (source: "Work, therefore to be able to say to every harsh
+  appearance"); S127 followed a secondary search-snippet wording ("things not in our
+  own control... they are such as that you have no occasion for desire") rather than
+  the opened text. Both corrected to the exact source wording and re-verified by
+  programmatic substring check against the extracted page text ("S127 verified: True",
+  "S129 verified: True"). The earlier "character-for-character" ledger claims for
+  S127/S129 were wrong and are superseded by this entry. S105 (Ench. 20) and S119
+  (Casaubon Med. I.15) re-verified by the same programmatic check: both True.
+- Lesson recorded: quote from the opened extraction only; never from search snippets;
+  verify with programmatic substring checks before marking done.
+
+## SE021 — Recognise contingent self-worth (item 6, advisor QC due)
+- Sources opened: (1) Crocker & Wolfe 2001, Psychological Review 108(3) 593-623,
+  squarespace PDF copy — definition p. 594; fluctuation mechanism p. 596; (2) Crocker
+  & Park 2011, Contingencies of Self-Worth, Handbook of Self and Identity chapter,
+  buffalo.edu PDF — instability/depression sentence; external-vs-internal contingencies
+  sentence (both quotes verified against the opened extractions).
+- Repairs applied per advisor round 1: "the stake has a mechanics" passage replaced
+  with a source-bounded paraphrase; second inline quote removed (instability sentence
+  now a standalone blockquote); seven-domain aside dropped; plain words replaced with
+  the advisor's version; inherited portfolio For example replaced with a labelled
+  imagined illustration; Practice rewritten as a compendium exercise; psychology
+  parallels rewritten (blanket "fragile/worse outcomes" and unverified "Crocker et al.
+  2003 depression and anxiety" claims replaced with scoped claims grounded in the
+  opened handbook chapter; the 2003 citation removed from the body locator).
+- Round 2 pending. Validator ok.

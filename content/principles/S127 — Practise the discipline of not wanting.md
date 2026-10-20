@@ -14,7 +14,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 
 The Stoic practises the discipline of wanting less. Each desire you drop returns attention and freedom. The practice is not elimination of desire but transformation: from wanting externals to wanting virtue.
 
-> "For the present, totally suppress desire: for, if you desire any of the things not in our own control, you must necessarily be disappointed; and of the things which are in our own control, and in which it is our duty to excel, they are such as that you have no occasion for desire to carry you to them, nor to be carried by any less proper means." (Enchiridion 2, [Carter translation](https://classics.mit.edu/Epictetus/epicench.html))
+> "But, for the present, totally suppress desire: for, if you desire any of the things which are not in your own control, you must necessarily be disappointed; and of those which are, and which it would be laudable to desire, nothing is yet in your possession." (Enchiridion 2, [Carter translation](https://classics.mit.edu/Epictetus/epicench.html))
 
 (Disc. I.4, I.14, I.25, III.2, III.3, III.7, III.10, III.24; Ench. 1, 2, 15, 16; Med. VI.41, VII.33, IX.6.)
 
