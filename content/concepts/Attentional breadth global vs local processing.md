@@ -7,13 +7,20 @@ file: "Attentional breadth global vs local processing"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-A"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter A", "parent": ""}
 ---
-attention can be narrowly focused or broadly distributed, with different cognitive consequences (Navon, 1977; Förster & Higgins, 2005).
+Attention can be narrowly focused or broadly distributed, and the classic laboratory demonstration uses hierarchical figures. A Scientific Reports article describes the two levels and the founding paradigm:
+
+> "Global processing involves perceiving the overall structure or configuration of a stimulus, whereas on the other hand local processing focuses on its finer details or individual elements. In his seminal work, Navon introduced hierarchical figures in which a large letter (the global level) is made up of smaller letters (the local level)."
+> — [Chrétien, Poirel, Knops & Viarouge 2026, "Local/global visual processing impacts numerosity-magnitude conflict resolution", Scientific Reports (open access)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12992678/)
+
+The same article describes the standard finding, the global precedence effect: "faster and more accurate responses to global-level targets, and interference from the unattended level in incongruent trials, particularly when attention needs to be directed to local information" ([Chrétien et al. 2026](https://pmc.ncbi.nlm.nih.gov/articles/PMC12992678/)). The two modes carry different cognitive consequences: the global bias reads the whole first, the local bias the parts, and the level that is not attended can still interfere.
 
 ## Sources
 
 - Navon, 1977
 
 - Förster & Higgins, 2005
+
+- [Chrétien, Poirel, Knops & Viarouge 2026, "Local/global visual processing impacts numerosity-magnitude conflict resolution", Scientific Reports (open access)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12992678/) — the global/local processing definitions, the Navon hierarchical-figures description, and the global precedence effect, quoted verbatim (footnote markers omitted)
 
 ## Cited in psychology parallels
 
