@@ -6,3 +6,6 @@ No separate advisor tool available to this session; quotes are checked programma
 - Rozenblit and Keil 2002, Yale PDF (opened, pdftotext): abstract sentence; p. 530 results/discussion sentence and "genuine surprise and new humility" verified verbatim; Study 1 = 16 Yale graduate students, 7-point scale, devices incl. zipper, cylinder lock, flush toilet.
 - Fernbach et al. 2013: abstract (PubMed, opened). Walker et al. 2024 Political Psychology 45(3): abstract (Wiley, opened; replication in Hong Kong, 5,139 citizens, opposite pattern).
 - Limits: only abstracts of Fernbach and Walker opened; no claim beyond abstracts. Inherited Boorstin/Wittgenstein/Plato parallels untouched, not certified.
+
+## CO028
+- Kahneman and Lovallo 1993 (JSTOR-scan PDF via UF mirror, pdftotext -raw): all quotes grep-verified (hyphenation aside); pages 25-26 by page-footer positions. Flyvbjerg 2006 author arXiv version: figures verified from text. Limits: 'try both' recommendation is K&L p.25; Plain-words example is an invented illustration (labelled as hypothetical via 'ask five writers').

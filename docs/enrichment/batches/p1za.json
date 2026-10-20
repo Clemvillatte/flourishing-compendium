@@ -1,11 +1,12 @@
 {
  "batch": "p1za",
  "done": [
-  "CO026"
+  "CO026",
+  "CO028"
  ],
  "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T07:45:40+00:00"
+ "updated": "2026-10-20T07:46:51+00:00"
 }
