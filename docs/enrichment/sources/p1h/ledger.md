@@ -564,3 +564,43 @@ done for BE052/BI032/BI045. Content items flagged for the new p1h owner (below).
 - Linked-concept reads: Feng shui (seed, consistent), Designing for virtue and
   Designing the environment for virtue cited in parallels. Neighbors dense
   (8 concepts + layer). Validator ok.
+
+### Milestone QC round 2 for items 6-10 (2026-10-20, worker-p1h-7d3e9c4a) — QC-PENDING REVIEW
+
+Advisor failed all five drafts; repairs applied one item at a time via the state tool,
+each repaired text now carries QC-pending status pending the advisor's re-review:
+- AT042: temporal-sequence bridge and one-night narrowing removed ("one night of 4-6
+  hours" partial-restriction claims removed from body and parallels bullet 1);
+  "single most important factor" ranking bullet replaced with scoped wording; plain
+  words/example now record-observations framing (advisor text).
+- AT049: the earlier blockquote ("Slow breathing may be a self-regulation tool...") was
+  found NOT to be in the saved fetch output (it came from a search-result snippet) and
+  was replaced with a sentence verified in the saved source ("Slow breathing techniques
+  promote autonomic changes increasing Heart Rate Variability and Respiratory Sinus
+  Arrhythmia paralleled by Central Nervous System (CNS) activity modifications.");
+  anchor-vs-pacing distinction now explicit; Tang/Lehrer & Gevirtz parallels bullets
+  replaced with Zaccaro-scoped wording; practice reframed (notice ordinary breath;
+  distinct from deliberate slowing).
+- AT051: allocation description corrected (field experiment, half randomly assigned);
+  negative-bias and negative-emotion claims removed from body and parallels; plain
+  words/example now single-person noticing; Zeng/Hofmann bullets replaced with
+  Fredrickson-scoped wording.
+- AT063: audit narration ("seed's stronger line", "opened study") removed; group
+  distinction narrowed to the study's own tests; replication evidence OPENED and
+  incorporated (Wiradhany & Nieuwenstein 2017, PMC5662702: 14 tests, 5 significant in
+  the predicted direction, 2 surviving Bayesian analysis; 39 effect sizes, weak
+  association turning nonsignificant after small-study correction; authors question
+  the association in laboratory tasks) — blockquote-free paraphrase with the paper's
+  own conclusion; plain words/example now record-keeping; Uncapher bullets narrowed.
+- AT067: moderation-to-pattern bridge and audit narration removed; light/air-quality
+  parallels bullets (Hygge & Knez, Wargocki, Figueiro, Boubekri, Hongisto — unopened)
+  removed in favor of one Szalma & Hancock-scoped bullet; practice reframed as
+  comparison exercise.
+- Full linked-concept reads completed: Yangsheng (nourishment-not-performance framing
+  consistent with AT042's scoped body), Care (Noddings), The importance of rest (seed),
+  Anapanasati, Qi (breath practicable; anchor/pacing distinction consistent), Metta
+  (self-to-enemy sequence consistent), Agape, Ren, Wu wei, Right concentration (its
+  "AT063 records the attentional costs" line is that page's own summary, no conflict
+  edited by me), Designing for virtue, Feng shui.
+- Explicit-baseline validation run vs 6d7702ef (pre-batch checkpoint): 5 checked,
+  0 failed (recorded below with actual output).
