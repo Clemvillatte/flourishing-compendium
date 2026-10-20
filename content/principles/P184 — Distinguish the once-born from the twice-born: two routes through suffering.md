@@ -26,6 +26,9 @@ Ask what someone is experiencing before recommending the approach that helped yo
 
 Imagine a friend saying that familiar reassurances no longer help. Ask what has become difficult and what support they want, rather than assigning them a type. The conversation need not produce a story of growth or a prediction about recovery.
 
+## Stories
+- [[ST348 — Tolstoy Hides the Rope|348. Tolstoy Hides the Rope]]
+
 ## Psychology parallels
 
 - **Temperament**: a twin study estimated genetic contributions to personality differences; it did not test James's religious types ([Tellegen et al., 1988, abstract](https://pubmed.ncbi.nlm.nih.gov/3397862/)).

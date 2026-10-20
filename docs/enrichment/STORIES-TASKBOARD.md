@@ -29,7 +29,7 @@ Full missing-lists per tradition are regenerable on request:
 
 | Draft | Lane | Status | ST id | Backlinks |
 |-------|------|--------|-------|-----------|
-| — | — | — | — | — |
+| s1a-002 (Tolstoy Hides the Rope) | s1a | published 2026-10-20 | ST348 (ch. ST-S03.02) | P184 backlink written (band not live) |
 
 ## Conventions
 

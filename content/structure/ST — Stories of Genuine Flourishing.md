@@ -144,6 +144,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "", 
     - [[ST103 — James and the Cash Value of Ideas]]
     - [[ST104 — Rorty's Vocabularies as Tools]]
     - [[ST105 — Billy Beane Refuses to Outbid]]
+    - [[ST348 — Tolstoy Hides the Rope]]
   - [[ST-S03.03 — III.3 Inquiry and Experimental Living]]
     - [[ST106 — Peirce's Four Methods]]
     - [[ST107 — Jane Addams Moves In]]

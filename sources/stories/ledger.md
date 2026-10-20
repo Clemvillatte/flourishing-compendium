@@ -414,3 +414,20 @@ previously pushed only by ad-hoc git add) — KEPT, verified on origin/main.
   not retrospectively certify the missed before-research catalogue
   consultation; the corrective action (catalogue consultation before
   research, save after each story) applies from the next batch onward.
+
+## Integration — ST348 (Tolstoy Hides the Rope, s1a-002)
+
+- Draft s1a-002 (teller: storyteller-dd542ab3, lane s1a; 3 advisor QC
+  rounds recorded in the draft's QC notes) integrated as ST348, chapter
+  ST-S03.02 (Meaning, Truth, and Workability), by supervisor
+  storyteller-6cf9c268.
+- Supervisor verification before integration: all 20 quotations in the
+  draft's evidence ledger re-checked against the opened sources
+  (Marxists Internet Archive A Confession parts 4, 7, 13; authorama
+  Varieties lectures VI-VIII) — 20/20 verbatim matches.
+- story_check --context published: 0 errors. Structural validation:
+  ST348 flags only the known new-file no-baseline condition (real check
+  post-commit); structure file shows the two documented false positives;
+  P184 clean.
+- P184 not in any live band manifest — backlink written directly by the
+  supervisor per protocol.
