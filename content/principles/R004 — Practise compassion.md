@@ -12,9 +12,9 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 266** — Practise compassion
 
-Tutu's rendering of ubuntu is the classic one: a person is a person through other persons. A person with ubuntu is described as open and available to others and affirming of others, with belonging, participation and sharing named as the human baseline. Compassion in this tradition is not an extra virtue bolted onto personhood; it travels with what the word for being human means. (Tutu, No Future Without Forgiveness, 1999:33.)
+Tutu's rendering of [[Ubuntu|Ubuntu philosophy]] is the classic one: a person is a person through other persons. A person with ubuntu is described as open and available to others and affirming of others, with belonging, participation and sharing named as the human baseline. Compassion in this tradition is not an extra virtue bolted onto personhood; it travels with what the word for being human means. (Tutu, No Future Without Forgiveness, 1999:33.)
 
-> "Ubuntu is very difficult to render into a Western language. It speaks of the very essence of being human… We say, \"A person is a person through other persons.\" It is not, \"I think, therefore I am.\" It rather says, \"I am human because I belong. I participate, I share.\" A person with ubuntu is open and available to others, affirming of others, does not feel threatened that others are able and good…." (Tutu, No Future Without Forgiveness, 1999, p. 33, as quoted in Breems)
+> "Ubuntu is very difficult to render into a Western language. It speaks of the very essence of being human… We say, 'A person is a person through other persons.' It is not, 'I think, therefore I am.' It rather says, 'I am human because I belong. I participate, I share.' A person with ubuntu is open and available to others, affirming of others, does not feel threatened that others are able and good…." (Tutu, No Future Without Forgiveness, 1999, p. 33, as quoted in Breems)
 
 The seed's action emphasis survives the check: the neighbour with groceries, not the text message; the passage's own formula is "I participate, I share."
 
