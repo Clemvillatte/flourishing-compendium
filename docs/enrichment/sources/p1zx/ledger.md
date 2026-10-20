@@ -149,3 +149,10 @@ Round 2 (advisor): all five repaired texts pass scoped content QC; quotation che
 ## Item-10 milestone QC — round 3: ACCEPTED (scoped PASS)
 
 Round 3 (advisor, 2026-10-21): item-10 milestone closed with a scoped PASS for A101, A109, A110, E019, E024. Concept readings, withdrawn Flow proposal (rev 6) and corrected verification methodology complete the closeout. Does not certify inherited empirical claims in the linked concept pages. Start/reopen push-timing deviation retained as disclosed. E035 not started: owner deadline required wrap-up, and a full research-validate-closeout cycle would not fit; next worker takes E035 fresh.
+
+## E035 (worker-p1zx-9a2e4c71, 2026-10-21)
+
+- Source opened: Sartre, Being and Nothingness, trans. Barnes (Methuen 1957), Internet Archive full text, https://archive.org/details/beingn-and-nothingness . Quotes checked word-for-word against the OCR text: pp. 222 (shame, recognition), 259-260 (keyhole, footsteps), 263 ("alienates", "my transcendence transcended"), 290 (two authentic attitudes; pride/vanity as bad faith), 553-554 (assume the situation).
+- Locator correction: the old citation said "Part IV, ch. 3"; the table of contents of the opened text puts "Freedom and Responsibility" at Part IV, ch. 1, §III. Fixed.
+- Limitation: Sartre does not prescribe "practising" the look; the page says so and reports his two attitudes. Plain words was a replicate, replaced. The Part IV quote spans a page break and footnote; verified by hand.
+- No advisor tool in this session: self-QC with a word-for-word quote check script. Flag for supervisor spot-check.
