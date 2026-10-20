@@ -20,10 +20,10 @@ Addams's practice at Hull-House made conversation a discipline: "I never address
 
 Dewey's version is the shoe that pinches: the wearer knows where, and the expert may be the best judge of the remedy, and democratic discussion is the arrangement that puts both knowledges in one conversation. His condition for the public is communication itself: "Till the Great Society is converted into a Great Community, the Public will remain in eclipse. Communication can alone create a great community" (Ch. IV).
 
-The compendium's application: the conditions of real talk are the machinery of growth. Turn-taking, listening, and honest disagreement are not etiquette; they are what lets the pinching get said in front of the shoemaker.
+The compendium proposes turn-taking and listening as practices for making room for those contributions.
 
 **Plain words**
-A conversation across difference does two things a conclusion waiting cannot: the wearer's pinch gets described by the wearer, and the expert's remedy gets heard by the wearer. Kill real talk and you don't get silence; you get politics by other means. The compendium's exercise: for one discussion you expect to be one-sided, invite the auditor who knows the conditions more intimately, and let them speak first.
+For the compendium's exercise, invite someone directly affected by an issue into the discussion. Ask them to describe their experience. Ask people with relevant expertise what they can establish and what remains uncertain.
 
 *For example:*
 Consider the meeting with a talking rule: everyone speaks once before anyone speaks twice. On the compendium's reading the rule is conversation machinery, an arrangement for the pinching to get said before the remedies are drafted.

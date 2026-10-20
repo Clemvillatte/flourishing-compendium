@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 110** — Make life artistic: seek "an experience."
 
-Dewey's Art as Experience opens its third chapter with the everyday phenomenon the principle names. Most experience is loose: "We put our hands to the plow and turn back; we start and then we stop, not because the experience has reached the end for the sake of which it was initiated but because of extraneous interruptions or of inner lethargy" ([Art as Experience, 1934](https://archive.org/details/deweyjohnartasanexperience), Ch. III, "Having an Experience").
+Dewey's Art as Experience opens its third chapter with the everyday phenomenon the principle names. Dewey describes experience interrupted before fulfillment: "We put our hands to the plow and turn back; we start and then we stop, not because the experience has reached the end for the sake of which it was initiated but because of extraneous interruptions or of inner lethargy" ([Art as Experience, 1934](https://archive.org/details/deweyjohnartasanexperience), Ch. III, "Having an Experience").
 
 > In contrast with such experience, we have an experience when the material experienced runs its course to fulfillment. Then and then only is it integrated within and demarcated in the general stream of experience from other experiences.
 >
@@ -23,7 +23,7 @@ His examples are pointedly ordinary: "A piece of work is finished in a way that 
 The compendium's application: completion can be designed for. The shapes of a beginning that develops, a middle that turns, and an ending that lands are describable in advance.
 
 **Plain words**
-Most days are loose and unfinished; a meal, a conversation, or a project can complete. Dewey's test is the close: a completion rounds out, a cessation just stops. The design question for anything you host or run is whether it has a beginning that develops and a close that consummates, or whether it merely ends. The compendium's exercise: pick one recurring event in your week and redesign its close so the ending lands instead of stopping.
+A meal, conversation, or project can form the kind of completed experience Dewey describes. Dewey's test is the close: a completion rounds out, a cessation just stops. The design question is whether it has a beginning that develops and a close that consummates, or whether it merely ends. The compendium's exercise: pick one recurring event in your week and redesign its close so the ending lands instead of stopping.
 
 *For example:*
 Consider the dinner party: the food, the argument, the laughing departure at the door. On the compendium's reading it has the shape Dewey describes, a situation "so rounded out that its close is a consummation and not a cessation".

@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 74** — Treat impulses as raw material, not enemies
 
-Dewey's argument in Human Nature and Conduct is that native tendencies cannot be subtracted from a person, only organized. "War would not be possible without anger, pugnacity, rivalry, self-display, and such like native tendencies," and "Native human nature supplies the raw materials, but custom furnishes the machinery and the designs." ([Human Nature and Conduct, 1922](https://www.gutenberg.org/files/41386/41386-h/41386-h.htm), p. 110). Dewey describes impulses as flexible starting points whose development depends on their surroundings.
+In Human Nature and Conduct, Dewey discusses custom's role in organizing native tendencies: "Native human nature supplies the raw materials, but custom furnishes the machinery and the designs." ([Human Nature and Conduct, 1922](https://www.gutenberg.org/files/41386/41386-h/41386-h.htm), p. 110). Dewey describes impulses as flexible starting points whose development depends on their surroundings.
 
 His chapter on the young makes the plasticity explicit:
 

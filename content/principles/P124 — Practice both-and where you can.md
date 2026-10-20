@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 124** — Practice both-and where you can
 
-James's pluralism makes the small connective words do the philosophical work: "Conjunctions, prepositions, and adverbs play indeed the vital part in all philosophies" ([A Pluralistic Universe, 1909](https://www.gutenberg.org/ebooks/11984), Lecture II). His rule for experience is the both-and rule:
+James's pluralism makes the small connective words do the philosophical work: "Conjunctions, prepositions, and adverbs play indeed the vital part in all philosophies" ([A Pluralistic Universe, 1909](https://www.gutenberg.org/ebooks/11984), Lecture II). He describes conjunction and disjunction in these terms.
 
 > The same things disjoined in one respect appear as conjoined in another.
 >
@@ -20,7 +20,7 @@ James's pluralism makes the small connective words do the philosophical work: "C
 
 His example is an Athenian boy, found self-contradictory because he could be "both tall and short (tall namely in respect of a child, short in respect of a man)". The contradiction dissolves once the respects are named; "Naming the disjunction doesn't debar us from also naming the conjunction in a later modifying statement". Radical empiricism "insists that conjunctions between them are just as immediately given as disjunctions are" (Lecture VII): the "and" is as real as the "or".
 
-The compendium's application: the forced choice is often a disjunction waiting for a later modifying statement. Freedom or security, self or others, work or life are candidates for the same field, and the respects they are named under are what decides it.
+The compendium uses this distinction to ask whether apparent alternatives are incompatible or could hold in different respects.
 
 **Plain words**
 The Athenian boy was tall and short at once; the question "is he tall?" was badly drafted until it said tall for what. For the compendium's exercise, take one current either/or, write each side's respect underneath it, and check whether both alternatives can hold in their different respects.

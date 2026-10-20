@@ -18,7 +18,7 @@ The Stanford Encyclopedia's entry on process philosophy is authored by Nicholas 
 >
 > (Nicholas Rescher, "Process Philosophy", Stanford Encyclopedia of Philosophy)
 
-The compendium's application: a finished thing is the trace of what a process did, and what it is consists in that doing. Put the pride in the doing, since on this account the doing is what the done is made of.
+The compendium uses Rescher's account as a prompt for reviewing how a project was carried out.
 
 **Plain words**
 For the compendium's exercise, choose a finished project and list the actions that produced it. Note which you would repeat and which you would change on a second attempt. Use that list to plan the next project.

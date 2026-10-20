@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 122** — Turn maintenance into art
 
-Dewey's test case is a worker, not an artist: "The difference between such a worker and the inept and careless bungler is as great in the shop as it is in the studio" ([Art as Experience, 1934](https://archive.org/details/deweyjohnartasanexperience), p. 5). The worker he has in mind is the mechanic.
+Dewey describes a mechanic's work as artistic activity:
 
 > The intelligent mechanic engaged in his job, interested in doing well and finding satisfaction in his handiwork, caring for his materials and tools with genuine affection, is artistically engaged.
 >
@@ -20,13 +20,13 @@ Dewey's test case is a worker, not an artist: "The difference between such a wor
 
 His historical case is domestic: utensils, rugs, pots, and bows "were wrought with such delighted care that today we hunt them out and give them places of honor in our art museums. Yet in their own time and place, such things were enhancements of the processes of everyday life" (p. 6). The art museums hold the record of ordinary work done with care.
 
-The compendium's application: the mechanic's kind of engagement is available wherever work is. The dish washed well and the email written with grace are instances of the same distinction, one that belongs to the shop as much as the studio.
+The compendium proposes applying this description to a routine task.
 
 **Plain words**
-Dewey's mechanic finds satisfaction in the handiwork, and the mechanic's treatment of a task is something a person can simply give it: doing it well and caring for the tools and materials. For a proposed exercise, pick one routine task and give it that treatment, then note what changed in the doing.
+Choose one maintenance task. Identify what doing it carefully would involve and how its tools and materials should be treated. Try that approach and describe your experience, including anything that prevented attentive work.
 
 *For example:*
-Consider the barista who cleans the machine like it matters. On the compendium's reading, the difference between that closing shift and the one done as time is Dewey's difference between the mechanic and the bungler, and the machine is the same.
+Imagine cleaning a coffee machine at closing time. Follow the cleaning procedure and note where care for the equipment enters the task.
 
 ## Sources
 

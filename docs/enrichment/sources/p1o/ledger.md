@@ -498,3 +498,26 @@
 - Validation: all ten repaired files validate ok against baseline
   e7034fd8^ (0 failed). Confirmation round with the advisor follows
   immediately per its instruction (no deferral to item 25).
+
+### Item-20 QC confirmation round 2 (advisor, 2026-10-20) — repairs applied
+- P074: opening claim ('cannot be subtracted, only organized') removed;
+  para 1 replaced per advisor; war quotation with altered punctuation
+  removed with it.
+- P104: 'Put the pride in the doing' prescription replaced with the
+  advisor's prompt sentence. (My confirmation packet had mistakenly shown
+  a P110 paragraph under P104 - corrected.)
+- P110: 'Most experience is loose' and 'Most days' frequency claims
+  replaced; first Plain-words sentence replaced per advisor.
+- P122: bounded replacements applied (opening, application, Plain words,
+  example); 'available wherever work is' and 'simply give it' universal
+  claims removed; 'worker, not an artist' framing removed; barista/bungler
+  example replaced with the coffee-machine exercise.
+- P124: 'often a disjunction waiting' frequency claim removed; 'His rule
+  for experience is the both-and rule' replaced with 'He describes
+  conjunction and disjunction in these terms.'
+- P128: 'Kill real talk... politics by other means' slogan removed; Plain
+  words replaced per advisor; 'not etiquette' application paragraph
+  replaced with the turn-taking/listening practices sentence.
+- P110 was 301 words after repair (validation caught it); trimmed and
+  re-validated. All six files validate ok against baseline e7034fd8^.
+  Saved as QC repairs pending confirmation per the advisor's instruction.
