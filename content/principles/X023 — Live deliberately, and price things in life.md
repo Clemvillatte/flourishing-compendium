@@ -12,16 +12,22 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "X — Extra 
 ---
 > **Principle 23** — Live deliberately, and price things in life
 
-Thoreau's formula: I went to the woods because I wished to live deliberately; and the companion economics: the cost of a thing is the amount of what I will call life which is required to be exchanged for it. The distinct instrument is the life-price audit: purchases and commitments converted into hours of life before being agreed to. Practically, for one month, convert each significant purchase and each new commitment into its life-price (hours, vitality, attention), and let the price do the deciding.
+Walden's two formulas sit a chapter apart. The first is the famous one:
 
-(Thoreau, Walden, "Where I Lived, and What I Lived For"; "Economy.")
+> "I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived." ([Walden, "Where I Lived, and What I Lived For"](https://www.gutenberg.org/ebooks/205))
 
-**Plain words** The cost of a thing is the amount of life exchanged for it — Thoreau's economics. Convert purchases and commitments into hours of your life before agreeing to them, and let the life-price do the deciding. Living deliberately starts with pricing deliberately.
+The second is his economics, from the opening chapter:
 
-*For example:* Someone who wants the upgraded car, works out it's 400 extra hours at work, and takes a long weekend and the savings instead — same money, entirely different life.
+> "the cost of a thing is the amount of what I will call life which is required to be exchanged for it, immediately or in the long run." ([Walden, "Economy"](https://www.gutenberg.org/ebooks/205))
+
+The compendium's instrument, the life-price audit: for one month, convert each significant purchase and each new commitment into hours of life before agreeing to it, and let the price do the deciding.
+
+**Plain words** A price tag tells you what a thing costs in money. Thoreau's question is what it costs in you: the hours of work behind the money, and the attention the thing will demand once owned. Pricing a purchase that way changes some decisions on the spot.
+
+*For example:* Someone who wants the upgraded car, works out that it is four hundred extra hours of work, and takes a long weekend plus the savings instead.
 ## Psychology parallels
 
-- **[[Time affluence|Time-affluence research]]**, the findings that trading money for time improves well-being (Whillans et al., 2017, the time-money studies, as the modern cousin)
+- **[[Time affluence|Time-affluence research]]** (Whillans et al., 2017)
 
 ## Philosophy parallels
 

@@ -9,7 +9,8 @@
   "SP089",
   "SP091",
   "SP096",
-  "X022"
+  "X022",
+  "X023"
  ],
  "in_progress": null,
  "flagged": {
@@ -20,6 +21,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T10:01:11+00:00",
+ "updated": "2026-10-20T10:01:55+00:00",
  "band_done": false
 }
