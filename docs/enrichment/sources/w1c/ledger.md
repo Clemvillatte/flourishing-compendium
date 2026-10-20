@@ -336,3 +336,8 @@ legacy schema (state keys + proposals) — MERGED, never replaced.
 ### Milestone QC PASS (2026-10-20, worker-p1f-9d3f7c2b)
 - Round 3 advisor verdict: PASS for the scoped w1c milestone re-review (commit d6a14fb3). Repairs across rounds 1-2 all verified: unsupported clauses removed, study conditions restored, MO011 reciprocals safely proposed, quotation adjacency verified against the PDF, original wikilinks preserved (diff additions only), three existing pages PASS vs takeover baseline 57732d5b fast-track profile, granulars PASS, build 5,720 ok.
 - Still pending, not blocking w1c: p1f closure re-review; MO011 proposal application (supervisor).
+
+### Belief as habit (2026-10-20, worker-p1f-9d3f7c2b)
+- Fast-track (degree 11). Opened source: Peirce, "How to Make Our Ideas Clear", Popular Science Monthly 12 (Jan 1878), full text at peirce.org (https://peirce.org/writings/p119.html).
+- Essence-of-belief passage quoted verbatim from the opened text; "whole function of thought" and "what a thing means is simply what habits it involves" quoted inline; pragmatic-maxim consequence paraphrased from the essay's rule for the third grade of clearness.
+- Facets section (of action) folded into prose. Related: added [[Habit]] and [[Cash value]] (both resolve; Cash value is the next queue item). All 12 original wikilinks preserved. Validation: fast-track PASS; build 5,720 ok.
