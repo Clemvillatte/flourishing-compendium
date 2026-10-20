@@ -49,3 +49,13 @@
 **Sources opened (1 work).** Hayes, Luoma, Bond, Masuda and Lillis 2006, "Acceptance and commitment therapy: Model, processes and outcomes," Behaviour Research and Therapy 44(1):1-25, full PDF at https://anxietyinstitute.com/wp-content/uploads/2021/12/Hayes-et-al.-2006.pdf (downloaded; printed page markers verified per PDF page: flexibility definition p. 7, committed-action paragraph pp. 8-9 with the page-9 running header stripped during verification). Blockquote is the full committed-action paragraph, verified verbatim portion-by-portion against PDF pages 8 and 9. Inline fragments verified: "clear the path for a more vital, values consistent life" (p. 8); psychological flexibility definition paraphrased from p. 7.
 
 **Scope notes.** Saturation hunt and cross-link proposals skipped per §1a (no obviously missing reciprocal). In-the-compendium bullets are bare links (principle contexts not read). Related concepts clauses are grounded in the opened source. Seed source line "Hayes et al., 2006" kept; opened-URL line added. Validator: `enrich_validate.py --fast-track`: 1 ok. PubMed abstract (PMID 16300724) seen in search results only; its "broadly supportive, but the literature is not mature" sentence was NOT used (not verified in the PDF's own abstract text).
+
+---
+
+## Action over intention — completed 2026-10-20 (worker-w1d-4c8e1b3a, FAST-TRACK)
+
+**Eligibility.** Graph degree 9 (< 15); no unresolved QC findings; inside owned band w1d. Fast-track per PROTOCOL.md §1a.
+
+**Sources opened (2).** (1) SN 45.8, Magga-vibhanga Sutta, Thanissaro Bhikkhu translation, http://www.dhammatalks.net/accesstoinsight/html/tipitaka/sn/sn45/sn45.008.than.html — blockquote definition of right action and the right-resolve definition quoted verbatim from the opened page. (2) Access to Insight study page "Right Action: samma kammanto," https://www.accesstoinsight.org/ptf/dhamma/sacca/sacca4/samma-kammanto/index.html — the fourth-factor/virtue-division sentence. The .wlth alternate translation URL failed to fetch (client error); the dhammatalks.net mirror of the .than translation opened fine.
+
+**Scope notes.** The page presents the conduct-vs-resolve contrast as grounded in the two definitions side by side; it does not claim the Buddha said action outranks intention. Karma related-concept clause kept navigational. Saturation hunt and cross-link proposals skipped per §1a (no obviously missing reciprocal). The seed's bare psychology-parallel link block under Sources was given the standard "## Cited in psychology parallels" header (all original links preserved, none deleted). Validator --fast-track: 1 ok (re-run after final edit).
