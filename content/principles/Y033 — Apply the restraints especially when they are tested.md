@@ -12,13 +12,24 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 33** — Apply the restraints especially when they are tested
 
-The sutras describe, for each restraint, a classical effect when it is fully established: hostility laid down in the presence of one established in non-harm, actions bearing fruit for the truthful, treasures appearing for the non-grasping. These are the tradition's claims about the settled sage, and they are offered here as direction rather than as promise. The practice is in the testing: the restraint you hold under provocation is worth more than ten held in comfort.
+After the list of restraints, Patanjali states a result for each one, always with the same condition: "as soon as he is grounded". Woods translates the first three:
 
-(YS 2.35-2.39, read as direction.)
+> As soon as he is grounded in abstinence from injury, his presence begets a suspension of enmity. [2.35] As soon as he is grounded in abstinence from falsehood, actions and consequences depend upon him. [2.36] As soon as he is grounded in abstinence from theft, all jewels approach him. [2.37]
 
-**Plain words** The sutras describe, for each restraint, an effect when it's fully established: hostility laid down in the presence of one established in non-harm; treasures appearing for the non-grasping. These are the tests the tradition proposes — practice the restraints especially when they're tested, and watch what happens around you.
+(Yoga Sutras 2.35-2.37, trans. James Haughton Woods, *The Yoga-System of Patanjali*, Harvard Oriental Series 17, 1914, [Internet Archive](https://archive.org/details/yogasystemofpata00wooduoft).)
 
-*For example:* The meeting where one person refuses to escalate — genuinely refuses, established in non-harm — and the room's hostility visibly lays down its arms. Anyone who's seen it happen knows the sutra isn't exaggerating.
+Sutra 2.38 adds energy for continence, and 2.39 an illumination on the conditions of birth for non-acceptance of gifts. These are described as signs of settled practice. The text says nothing about practising when tested, and the idea that a restraint kept under provocation counts for more is this page's own suggestion. The effects are not promised as rewards, and the page reads them as direction rather than as a forecast.
+
+A psychology parallel is Gollwitzer's review of implementation intentions, which says that predeciding "should also help a person protect goal pursuit from tempting distractions, bad habits, or competing goals" (Gollwitzer, "Implementation Intentions: Strong Effects of Simple Plans", *American Psychologist*, 1999, [full text](https://www.prospectivepsych.org/sites/default/files/pictures/Gollwitzer_Implementation-intentions-1999.pdf)). That paper is about goal pursuit in general. It does not address provocation in particular, so applying it to high-conflict moments is an extension.
+
+**Plain words**
+
+The sutras describe what settled practice produces, and they say little about how to get there. The testing part is a suggestion: decide in advance what you will do in the moment you are most likely to snap.
+
+**For example**
+
+A woman knows she tends to bite back when her brother mentions money. Before the family dinner, she decides her first words will be a question. When he starts, she asks it, and the evening goes differently.
+
 ## Psychology parallels
 
 - **[[Implementation intentions|Implementation intentions for high-conflict moments]]**, the finding that pre-deciding under provocation beats deciding in it (Gollwitzer, 1999)
@@ -27,3 +38,9 @@ The sutras describe, for each restraint, a classical effect when it is fully est
 
 - **Virtue tested is virtue confirmed** (Epictetus, Discourses)
 - **The furnace and the gold** (Sufi tradition, Rumi's Mathnawi)
+
+## Sources
+
+- [Woods, The Yoga-System of Patanjali (1914), Yoga Sutras 2.35-2.39, Internet Archive](https://archive.org/details/yogasystemofpata00wooduoft)
+- Gollwitzer, P. M. (1999), Implementation Intentions: Strong Effects of Simple Plans, American Psychologist 54(7), 493-503 ([full text, prospectivepsych.org](https://www.prospectivepsych.org/sites/default/files/pictures/Gollwitzer_Implementation-intentions-1999.pdf); the quoted line is from the introduction).
+- The inherited Epictetus and Rumi parallels were not opened and no claim here rests on them.

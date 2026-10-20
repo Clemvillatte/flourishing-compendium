@@ -286,3 +286,9 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 - Quotes verified: Woods spans matched; Vivekananda spans matched the OCR text (OCR "no. spiritual" is "no spiritual").
 - Seed repairs: classical text defines continence as control of the generative organ and ties energy to yogic power; Vivekananda reads it as full chastity. The "energy/appetite management" reading and the ledger practice are labelled as the page's own. Ego-depletion note and Neiye not opened. The page title promises more than the sources say; supervisor may consider re-titling.
 - Saturation: low.
+
+## Y033 (2026-10-21, worker-p1zz-b81e3f52)
+- Sources opened: Woods YS 2.35-2.39; Gollwitzer 1999 full text (downloaded PDF; same paper as the prospectivepsych.org and Konstanz copies).
+- Quotes verified: Gollwitzer line matched; Woods sutras matched (bracketed [2.35] markers are the page's own).
+- Seed repairs: text states results of being "grounded", not of practising when tested; "especially when tested" is the page's own suggestion; Gollwitzer is about goal pursuit in general, not provocation. Epictetus and Rumi not opened.
+- Saturation: low.
