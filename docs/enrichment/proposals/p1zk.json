@@ -1,6 +1,6 @@
 {
  "batch": "p1zk",
- "revision": 5,
+ "revision": 6,
  "reciprocal": [
   {
    "into": "Sleep deprivation",
@@ -43,6 +43,12 @@
    "link": "BE049",
    "why": "listed for comparison",
    "notes": "SDT relatedness concept; the need claim on BE049 is inherited (Deci & Ryan not opened this session), so the clause is neutral. Evidence notes in sources/p1zk/BE049.md."
+  },
+  {
+   "into": "The laying on of hands",
+   "link": "BE057",
+   "why": "the hug and partner-touch studies give this principle's evidence base",
+   "notes": "Evidence in sources/p1zk/BE057.md (Murphy 2018, Ditzen 2007, both opened). Concept already links BE057 in its parallels."
   }
  ],
  "inline": []
