@@ -3,11 +3,12 @@
  "done": [
   "D105",
   "D121",
-  "D130"
+  "D130",
+  "D139"
  ],
- "in_progress": "D139",
+ "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 4,
- "updated": "2026-10-20T02:15:18+00:00"
+ "updated": "2026-10-20T02:15:20+00:00"
 }
