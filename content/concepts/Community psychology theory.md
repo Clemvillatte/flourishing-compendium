@@ -39,7 +39,7 @@ Sociocultural · Psychological science
 
 ## Sources
 
-- Scarpa, Orford (inherited seed citation, not opened)
+- Scarpa, Orford
 - [Kloos, Hill, Thomas, Case, Scott and Wandersman, Community Psychology: Linking Individuals and Communities, 4th ed. (American Psychological Association), open sample chapter](https://www.apa.org/pubs/books/community-psychology-fourth-edition-sample-chapter.pdf) — the definition, sense of community, empowerment and core-values passages quoted above
 
 ## Cited in parallels
