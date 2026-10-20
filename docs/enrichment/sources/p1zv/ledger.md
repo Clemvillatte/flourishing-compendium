@@ -112,3 +112,15 @@ Band: p1zv (Stoic principles S039–S126, ranks 1172–1201). Worker: worker-p1z
 **Saturation:** mention "obstacle" (concept hits inspected) — Cognitive reappraisal and Narrative redemption sequences concept pages already cite S058; Amor fati (read) does not.
 
 **Proposals:** 1 reciprocal — Amor fati.
+
+## S061 — Recognise the three stages of anger (Principle 183)
+
+**Source opened and raw-verified:**
+1. Seneca, On Anger (De Ira), Book II, section 4, Aubrey Stewart translation (1900), Project Gutenberg #64576 (raw text in qc/seneca-minor-dialogs.txt).
+   - The II.4 three-stages passage — FULL MATCH (verified for S049, reused here as the direct source for the stages; the raw text's printed page marker "{80}" after "injured," is stripped per the disclosed convention; inner curly double quotes reproduced verbatim). The passage is shared with S049's page; both principles draw on De Ira II.4, as the seed citations for both indicate.
+
+**Validator:** ok on first run. (Seed had two philosophy parallels jammed on one line; split, markup unchanged.)
+
+**Saturation:** Apatheia, The discipline of assent and Urge surfing concept pages already cite S061; The doctrine of the mean (read) does not.
+
+**Proposals:** 1 reciprocal — The doctrine of the mean.

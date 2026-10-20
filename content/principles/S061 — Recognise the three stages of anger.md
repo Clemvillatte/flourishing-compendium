@@ -12,13 +12,17 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 183** — Recognise the three stages of anger
 
-Seneca identifies three stages: (1) the first movement, the automatic physical reaction; (2) the judgement that revenge is appropriate; (3) the action of revenge. You cannot prevent the first stage. You can prevent the second and third. The work begins at the pause between stage one and stage two.
+Seneca sets out the stages in order:
 
-(Seneca, De Ira II.1-4; Med. V.26, VI.6; Disc. I.18, III.2.)
+> "Furthermore, that you may know in what manner passions begin and swell and gain spirit, learn that the first emotion is involuntary, and is, as it were, a preparation for a passion, and a threatening of one. The next is combined with a wish, though not an obstinate one, as, for example, “It is my duty to avenge myself, because I have been injured,” or “It is right that this man should be punished, because he has committed a crime.” The third emotion is already beyond our control, because it overrides reason, and wishes to avenge itself, not if it be its duty, but whether or no." (Seneca, De Ira II.4, Aubrey Stewart translation)
 
-**Plain words** Seneca names three stages: the automatic reaction, the judgement that revenge is warranted, and the act. You can't stop the first. You can stop the second and third. The work starts at the pause between one and two.
+The stages are not equally voluntary. The first is given; the second is the mind's own work, a wish it could decline; the third rides over reason. The work of the principle begins at the second stage, where the wish forms and assent is still open.
 
-*For example:* Your pulse jumps at an insult, you don't decide yet, and the moment passes.
+(Seneca, De Ira II.4, Aubrey Stewart translation.)
+
+**Plain words** Three things happen in order when you are insulted: the body reacts, a wish for payback forms, and the payback happens if you act on the wish. Only the first is automatic. The wish feels automatic too, but it is not: it is you agreeing that revenge is owed. Catching it there is the whole skill, because the third stage rarely walks back.
+
+For example: Imagined: your pulse jumps at an insult; you notice it, decide nothing, and the moment passes without a reply.
 
 ## Psychology parallels
 
@@ -28,8 +32,8 @@ Seneca identifies three stages: (1) the first movement, the automatic physical r
 ## Philosophy parallels
 
 - **[[The discipline of assent|The pause between impression and assent]]** (Epictetus, Discourses)
-- **[[The doctrine of the mean|The mean in anger]]** (Aristotle, NE IV.5)- **[[Apatheia|Apatheia]]** (Stoicism)
-
+- **[[The doctrine of the mean|The mean in anger]]** (Aristotle, NE IV.5)
+- **[[Apatheia|Apatheia]]** (Stoicism)
 
 <!-- fc: reflections
 In your last conflict, where was the pause available? What would you have done with it?
@@ -38,3 +42,7 @@ What trains the pause: practice, rest, environment? Which helps you?
 %%
 How do power and fear shorten the gap between stage one and three?
 -->
+
+## Sources
+
+- Seneca, On Anger (De Ira), Book II, section 4 (Aubrey Stewart translation, 1900), [Project Gutenberg #64576](https://www.gutenberg.org/files/64576/64576-0.txt)
