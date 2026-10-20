@@ -88,3 +88,7 @@
 ## MO018 — Needs vs wants
 - Sources opened: Ryan & Deci 2000 Am Psychol 55:68-78 (PMID 11392867, abstract); Epicurus Principal Doctrines 29 (MIT Classics, verbatim); Dittmar et al. 2014 JPSP 107:879-924 (PMID 25347131, abstract).
 - Corrections: SDT lists three needs; "health, safety" are not SDT needs. "Wants often substitute for needs" is only partly supported (mediation analysis, correlational, modest effect sizes). Deci & Ryan 2000, Kasser 2002 not opened. Second Noble Truth and Daodejing 44 bullets inherited, unverified.
+
+## MO021 — Goals and identity
+- Sources opened: Bryan, Walton, Rogers & Dweck 2011 PNAS 108:12653-12656 (PMID 21768362, abstract, verbatim); Sartre, Existentialism Is a Humanism (marxists.org, grep verified "existence precedes essence" passage); Burbidge & Oyserman 2026 (J Pers, abstract only; not quoted).
+- Corrections: removed unsourced "I don't smoke vs I'm trying to quit" claim presented as fact (could not find Patrick & Hagtvedt 2012 abstract); example reframed as imagined. "More sustainable" not supported: Bryan tested short-term turnout. Oyserman 2010/2015, Gardner 2015 on identity, Clear 2018 not opened. Aristotle / Right livelihood bullets inherited.
