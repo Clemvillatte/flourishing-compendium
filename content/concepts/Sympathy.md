@@ -13,8 +13,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ## Related concepts
 
 
+
 - [[B100]] — B100's philosophy parallels list sympathy versus empathy (Scheler)
 - [[Empathy]] — the two states are standardly contrasted: feeling with another versus care for another's well-being
+- [[Empathic understanding]] — Rogers' name for understanding another's experience from inside their frame of reference
 ## Sources
 
 - Adam Smith, The Theory of Moral Sentiments

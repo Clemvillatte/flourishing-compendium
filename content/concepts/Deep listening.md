@@ -17,6 +17,10 @@ An example at its smallest: twenty minutes, one person, no advice, no rebuttal �
 
 Its contemplative cognates are Buber's I–Thou meeting ([[I and Thou]]) and the Buddhist practice of listening deeply ([[B147 — Listen deeply]]).
 
+## Related concepts
+
+- [[Empathic understanding]] — Rogers' name for understanding another's experience from inside their frame of reference
+
 ## Sources
 
 - Rogers, On Becoming a Person

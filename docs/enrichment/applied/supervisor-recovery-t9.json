@@ -1,0 +1,37 @@
+{
+ "batch": "supervisor-recovery-t9",
+ "revision": 1,
+ "reciprocal": [
+  {
+   "into": "content/concepts/Sympathy.md",
+   "link": "Empathic understanding",
+   "why": "Rogers' name for understanding another's experience from inside their frame of reference"
+  },
+  {
+   "into": "content/concepts/Deep listening.md",
+   "link": "Empathic understanding",
+   "why": "Rogers' name for understanding another's experience from inside their frame of reference"
+  },
+  {
+   "into": "content/concepts/Dialogue.md",
+   "link": "Empathic understanding",
+   "why": "Rogers' name for understanding another's experience from inside their frame of reference"
+  },
+  {
+   "into": "content/concepts/The relational self.md",
+   "link": "Empathic understanding",
+   "why": "Rogers' name for understanding another's experience from inside their frame of reference"
+  },
+  {
+   "into": "content/concepts/Compassion.md",
+   "link": "Empathic understanding",
+   "why": "Rogers' name for understanding another's experience from inside their frame of reference"
+  },
+  {
+   "into": "content/concepts/Acceptance.md",
+   "link": "Empathic understanding",
+   "why": "Rogers' name for understanding another's experience from inside their frame of reference"
+  }
+ ],
+ "notes": "w1b legacy recovery tranche 9 (Empathic understanding family). Original claim-bearing clauses unevidenced in the w1b ledger; neutral clause grounded in the concept page's own sourced opening (Rogers 1975). Perspective-getting + Empathy already linked (skipped). - supervisor-3ef4f549, 2026-10-20"
+}
