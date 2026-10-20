@@ -12,11 +12,21 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 ---
 > **Principle 22** — Recognise the planning fallacy: you underestimate time, cost, and risk
 
-When planning a project, you systematically underestimate how long it will take, how much it will cost, and what will go wrong. This is one of the most robust and practically consequential biases.
+Buehler, Griffin and Ross found overly optimistic completion estimates across several academic and everyday tasks; participants tended to focus on their plans rather than relevant past experience ([“Exploring the Planning Fallacy,” 1994, abstract](https://bear.warrington.ufl.edu/brenner/mar7588/Papers/buehler-et-al-1994.pdf)). In Study 4, connecting earlier experience to the current task improved predictions, but simply recalling it was insufficient ([Study 4, Discussion](https://bear.warrington.ufl.edu/brenner/mar7588/Papers/buehler-et-al-1994.pdf)).
 
-**Plain words** The planning fallacy: you systematically underestimate how long things take, how much they cost, and what will go wrong. One of the most robust biases. Multiply your estimates, or better — use the actual track record of your past estimates.
+> However, leading people to remember past experiences did not, in itself, reduce the optimistic bias.
 
-*For example:* The home renovation that "will take six weeks" — on the four hundredth such renovation to take five months — and the fix that works: don't plan from your case; look up how long renovations take. The past you is the best data you'll get.
+(Buehler, Griffin and Ross, “Exploring the Planning Fallacy,” Study 4, Discussion; [opened text](https://bear.warrington.ufl.edu/brenner/mar7588/Papers/buehler-et-al-1994.pdf).)
+
+### Plain words
+
+Find a completed task that genuinely resembles the one you are estimating. Ask which delays, dependencies and demands on your time could recur, and explain how they change this estimate.
+
+This study concerns completion times; it provides no universal multiplier for every schedule, budget or risk ([study descriptions and General Discussion](https://bear.warrington.ufl.edu/brenner/mar7588/Papers/buehler-et-al-1994.pdf)). Treat the exercise as a way to examine an estimate, not a guarantee of accuracy.
+
+### For example
+
+Suppose your last essay took longer because you had to request sources and revise a difficult section. Before promising a date for the next essay, check whether those steps are still required.
 ## Psychology parallels
 
 - **[[Planning fallacy|Planning fallacy]]**, people underestimate task duration and overestimate benefits (Buehler et al., 1994; Kahneman & Tversky, 1979)
@@ -29,4 +39,4 @@ When planning a project, you systematically underestimate how long it will take,
 
 ## Practice
 
-- When estimating time or cost, do not plan from the inside ("how long will this take me?"). Use the outside view: "how long have similar projects taken, historically?" Multiply your estimate by 1.5-2x.
+- Compare your estimate with similar completed tasks and explicitly identify which features carry over. Do not treat a fixed multiplier as a substitute for checking the relevant evidence.
