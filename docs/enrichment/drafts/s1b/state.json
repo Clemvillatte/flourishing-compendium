@@ -52,7 +52,7 @@
    ]
   },
   "s1b-003": {
-   "status": "qc_pending",
+   "status": "ready",
    "angle": "P196: initially uncounted four-strokes impression guides numbered reconstruction; distinguish moving from conceptual eternity",
    "history": [
     {
@@ -68,9 +68,14 @@
      "t": "2026-10-20T14:34:08+00:00",
      "to": "qc_pending",
      "note": "Independent source/interpretation re-review substantive PASS; exact quotations; ST120 near-overlap disclosed for supervisor"
+    },
+    {
+     "t": "2026-10-20T14:34:33+00:00",
+     "to": "ready",
+     "note": "Substantive independent re-review PASS; zero errors; supervisor chooses separate story vs ST120 enrichment before integration"
     }
    ]
   }
  },
- "updated": "2026-10-20T14:34:08+00:00"
+ "updated": "2026-10-20T14:34:33+00:00"
 }
