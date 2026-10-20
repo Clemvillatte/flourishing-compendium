@@ -26,3 +26,14 @@
 - State note: the reopen of this item could not be recorded (the state machine holds
   one in-progress item; Art completes was in progress); the repair was applied and
   validated while the item was marked done.
+
+## Advisor QC final round: verification simplified
+
+- The raw re-fetch of Perseus 38b was robots-blocked this session, so the surety
+  names (Plato, Crito, Critobulus, Aristobulus) and the Fowler translator credit
+  could not be independently verified. Per the advisor's alternative, the body now
+  reads "Others then urge him to propose thirty minas and offer to stand surety"
+  and "the translation on Perseus" (no translator named); the Sources lines drop
+  the Fowler credit. The mina-of-silver and thirty-mina facts remain from the
+  earlier fetched 38b passage.
+- This note supersedes the earlier ledger references to Fowler and the named sureties.
