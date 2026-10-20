@@ -12,13 +12,14 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 411** — Practise the chiasm
 
-Recognise the intertwining (chiasm) of perceiver and perceived, subject and object, self and world. The chiasm is not a merging but an intertwining: you are of the world, not merely in it. The world is not external to you but continuous with your embodied existence. Live this intertwining.
+Merleau-Ponty's late word for the overlap is the chiasm. The Stanford Encyclopedia's expositor describes it as "a crisscrossing or a bi-directional becoming or exchange between the body and things" that lets one speak of a "flesh" of things, "a kinship between the sensing body and sensed things that makes their communication possible" (SEP, Merleau-Ponty, §6). The claim is structural rather than mystical: to touch, one must be tangible, and to see, visible. Merleau-Ponty's own formula for the artist makes the point: the artist changes the world into paintings by "lending his body to the world" (Eye and Mind, quoted SEP §4). The same structure holds between people: the SEP glosses that just as my two hands communicate across the lateral synergy of my body, I can touch the sensibility of another, and quotes Merleau-Ponty: "The handshake too is reversible" (V&I: 187/142, quoted SEP §6).
 
-(Merleau-Ponty, 1964/1968, The Visible and the Invisible, ch. 4.)
+(SEP, "Maurice Merleau-Ponty" (Toadvine), §§4 and 6, opened 2026-10-21; V&I and Eye and Mind quotes as cited there.)
 
-**Plain words** The chiasm: the intertwining of perceiver and perceived, self and world. Not a merging — an intertwining: you are of the world, not merely in it. The world isn't external to you; it's continuous with your embodied existence.
+**Plain words** You are made of the same stuff as what you perceive. Your eyes are visible objects; your hands are touchable. When you reach out and touch something, the touching can turn around and be touched. Merleau-Ponty calls the shared stuff "flesh", and his account of why perception works runs through it: the world can show up for you because you are one of the things that show up.
 
-*For example:* The gardeners say they can't tell, by August, where the garden ends and they begin — the tan lines, the calluses, the 6 a.m. instinct. The intertwining was the plan all along; the fence was only ever a suggestion.
+*For example:* Imagined: a gardener's calluses, tan lines and early-morning instinct have all been shaped by the garden, and the garden's rows by her; by August you cannot fully sort which shaped which.
+
 ## Psychology parallels
 
 - **[[Embedded cognition|Embedded cognition]]** (Robbins and Aydede, 2009)

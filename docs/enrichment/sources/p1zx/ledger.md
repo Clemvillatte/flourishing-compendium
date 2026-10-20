@@ -115,3 +115,11 @@ Opened: Politics (Ellis trans., Gutenberg 6762) raw download — VIII.5 passages
 - Rewrite: body rebuilt on Politics VIII.5 + Poetics 4 + NE II.3 (the old citation's NE II.2 and X.9 locators and Poetics 4-6 range corrected to what was opened; Ellis and Butcher named as translators since they are not Ross); Plain words re-derived (gym-equipment-for-feelings framing); For example kept (matches Poetics IV). Front-matter, reflections, both wikilinks preserved. Validator ok vs HEAD, 181 prose words, 0 dashes. Start recorded before editing.
 - SATURATE: mention hunt run; A110 sits in the education family with layer links and Narrative empathy already links it; no underlinked targets found; no new reciprocals proposed.
 - Advisor QC: not due (item 8; next milestone at item 10).
+
+## E019 — Practise the chiasm
+
+Opened: SEP entry "Maurice Merleau-Ponty" (Ted Toadvine), https://plato.stanford.edu/entries/merleau-ponty/ — raw HTML downloaded this session; §4 and §6 chiasm/flesh/intertwining passages quoted from the raw text. Merleau-Ponty's own words quoted within SEP carry V&I/OEE locators (V&I: 187/142 "The handshake too is reversible"; OEE: 16/353 artist formula).
+- Quote repairs during drafting: the artist quote initially included Toadvine's lead-in "It is by" (outside MP's quotation marks in SEP) — shortened to "lending his body to the world that the artist changes the world into paintings"; final assertion: all quoted spans >=20 chars verbatim in the SEP raw text (one reported FAIL is a scanner artifact of the 5-char "flesh" quote pairing, not a file quote).
+- Rewrite: body rebuilt on SEP §6 (chiasm/flesh) + §4 (artist formula) + V&I handshake quote, attribution kept straight between Toadvine's gloss and MP's words; the old VI ch.4 locator replaced by the opened SEP citation (VI itself not opened); Plain words re-derived (same-stuff framing, reversible touching); For example (gardener) rewritten without the fence aphorism. Front-matter (after fixing a stray duplicate file: key I introduced and removed before saving) and both wikilinks preserved. Validator ok vs HEAD, 165 prose words, 0 dashes. Start recorded before editing.
+- SATURATE: mention hunt run; the chiasm concept page and Embedded cognition already link E019; no underlinked targets found; no new reciprocals proposed.
+- Advisor QC: not due (item 9; next milestone at item 10).
