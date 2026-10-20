@@ -1,0 +1,13 @@
+{
+ "batch": "p1zl",
+ "revision": 1,
+ "records": [
+  {
+   "action": "reciprocal",
+   "into": "CO020",
+   "link": "CO035",
+   "why": "representativeness is the mechanism that pushes the base rate out of the estimate, which is the error CO020 names",
+   "notes": "opened by worker-p1zl-b4e7c2d1; T&K 1974 p.1124 (stanford.edu PDF)"
+  }
+ ]
+}
