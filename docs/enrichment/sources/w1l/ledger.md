@@ -723,3 +723,11 @@ convention).
 - No In-the-compendium block (fast-track bar; five principle links preserved in Cited-in).
 - Saturation: fast-track exemption; no reciprocal proposed.
 - QC: validator ok at fast-track profile; no advisor QC (item 9; next at item 10).
+
+## Ideal affect theory Tsai (fast-track, genuineflourishing01, 2026-10-20)
+- Degree 5 at selection (kernel K286; principles AF012/AF034/AF083/D031) — fast-track eligible per §1a.
+- Sources opened, both UNPROMPTED: (1) PubMed 16536652 (Tsai, Knutson & Fung 2006 JPSP 90(2):288-307 abstract) — blockquote verified character-for-character; EA/AA-HK excitement/calm contrast and the depression-correlation finding grounded. (2) Tsai 2013 chapter PDF "Dynamics of ideal affect" (Stanford Culture and Emotion Lab, author-hosted) — AVT premises 1-3, temperament/culture variance split, behavioral-consequence examples (exciting vs calm music, products, physicians) grounded.
+- Page previously had NO Sources section; added with both opened URLs. "Affect valuation theory" later-name claim grounded in the 2013 chapter ("Affect Valuation Theory (AVT) is a theoretical framework... (Tsai, 2007)"). Cultural-products finding (magazines/storybooks) NOT included in the page body (kept the page to the opened abstract's findings + premises); available in the 2013 chapter if a later pass wants it.
+- No In-the-compendium block (fast-track bar; Field links preserved).
+- Saturation: fast-track exemption; no reciprocal proposed.
+- QC: validator ok at fast-track profile. ADVISOR QC due (10th item of session) — running next.
