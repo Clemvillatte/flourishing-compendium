@@ -14,21 +14,21 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 
 Crocker and colleagues name the mechanism: people stake their self-esteem on domains, and worth then rides on outcomes in those domains:
 
-> "A contingency of self-worth is a domain or category of outcomes on which a person has staked his or her self-esteem, so that person's view of his or her worth depends on perceived successes, failures, or adherence to self-standards in that domain." (Crocker & Park, 2003, [Handbook of Self and Identity chapter, full text](https://ubwp.buffalo.edu/selfandmotivationlab/wp-content/uploads/sites/91/2018/05/Crocker-Park-2003-Handbook-of-SAI.pdf))
+> "A contingency of self-worth is a domain or category of outcomes on which a person has staked his or her self-esteem, so that person's view of his or her worth depends on perceived successes, failures, or adherence to self-standards in that domain." (Crocker & Park, 2003, Handbook of Self and Identity, 'Seeking Self-Esteem', section 'Constructing Self-esteem: Contingencies of Self-Worth', [full text](https://ubwp.buffalo.edu/selfandmotivationlab/wp-content/uploads/sites/91/2018/05/Crocker-Park-2003-Handbook-of-SAI.pdf))
 
-One of the measured contingencies is academic competence — the performance case this principle targets. The field study: 32 graduate-school applicants reported their self-esteem twice a week for two months, including every day they heard from a program:
+One of the measured contingencies is academic competence — the performance case this principle targets. For two months, 32 students applying to graduate school reported global self-esteem twice weekly and on any day they heard from a graduate program:
 
 > "participants who were higher in basing their self-esteem on academic competence showed greater increases in self-esteem on acceptance days and greater decreases in self-esteem on rejection days than participants low in this contingency of self-worth." (Crocker, Sommers & Luhtanen, 2002, [abstract](https://journals.sagepub.com/doi/10.1177/01461672022812012))
 
-The compendium's instruction: keep caring about the performance, and keep the stake out of it. Worth is what you bring to the game; performance is the day's weather.
+The study concerns self-esteem changes during graduate applications. Separating an assessment of performance from a judgement of one's value is the compendium's recommendation.
 
-**Plain words** Ask what has to happen for you to feel like a worthwhile person today. If the answer includes a grade, a number, a win, you have staked your worth on a domain — and the graduate-school study shows what the stake costs: your self-esteem moves with every decision letter. Keep caring about the work. The worth ledger is the other one: who you are to the people who know you does not post quarterly results.
+**Plain words** If an application is rejected, first describe the result: this application was unsuccessful. Then consider what feedback, if any, can help you improve. Calling your whole self a failure adds a judgement about the person to the outcome of one attempt.
 
-*For example:* (imagined) The person whose value rises and falls with the quarterly numbers keeps one ledger. The one who keeps two — what I produced, and who I am — can have a bad quarter without having a bad life.
+*For example:* (imagined) After a rejected application, someone asks for feedback and revises their writing sample without treating that decision as a verdict on their value as a person.
 ## Psychology parallels
 
-- **Contingent self-worth on competence predicts stress**, self-worth contingent on achievement is associated with worse outcomes (Crocker & Wolfe, 2001; Crocker, 2002)
-- **Performance and self-worth are distinct**, separating them improves resilience and well-being (Neff, 2011)
+- **Contingent self-worth on competence** (Crocker & Wolfe, 2001; Crocker, 2002)
+- **Performance and self-worth are distinct** (Neff, 2011)
 
 ## Philosophy parallels
 
@@ -48,4 +48,4 @@ The compendium's instruction: keep caring about the performance, and keep the st
 ## Sources
 
 - [Crocker & Park, "Seeking Self-Esteem: Construction, Maintenance, and Protection of Self-Worth" (Handbook of Self and Identity, 2003), full-text PDF](https://ubwp.buffalo.edu/selfandmotivationlab/wp-content/uploads/sites/91/2018/05/Crocker-Park-2003-Handbook-of-SAI.pdf) — contingency definition, CSW domains
-- [Crocker, Sommers & Luhtanen, "Hopes Dashed and Dreams Fulfilled" (JPSP 32(4), 2002), abstract](https://journals.sagepub.com/doi/10.1177/01461672022812012) — the graduate-admissions field study
+- [Crocker, Sommers & Luhtanen, "Hopes Dashed and Dreams Fulfilled" (2002), abstract, DOI 10.1177/01461672022812012](https://journals.sagepub.com/doi/10.1177/01461672022812012) — the graduate-admissions field study
