@@ -298,3 +298,9 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 - Quotes verified: matched woods text (differences only a footnote number and an em dash).
 - Seed repairs: commentary names species/place/time/exigency (fisherman, holy place, lunar day, gods-and-brahmans, warrior); "war and peace, home and abroad, observed and alone" are not in it; removed. Write-down-exceptions practice labelled as the page's own. Bandura and Kant not opened.
 - Saturation: low.
+
+## Y045 (2026-10-21, worker-p1zz-b81e3f52)
+- Sources opened: Woods YS 2.46-2.48 with Vyasa and the Tika (p. 192; Woods footnote identifies Ananta with Vasuki).
+- Quotes verified: matched woods text.
+- Seed repairs: the sutra gives two options (relax effort, or balance with Ananta); Ananta is the serpent that upholds the earth in the commentary, so "boundless support" is the page's own. Exhale-and-release practice labelled as the page's own. Jacobson, Ost, Dogen not opened.
+- Saturation: low.
