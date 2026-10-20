@@ -12,13 +12,30 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 27** — Weigh fame and goods against your self
 
-Fame or life: which is dearer? Life or goods: which is worth more? Gain the world and lose your self, and you have lost the trade.
+Chapter 44 of the Daodejing poses the question as an accounting: fame or life, which do you hold more dear; life or wealth, to which would you adhere. The chapter answers with a trade formula: keep life and lose the other things, keep them and lose your life, and asks which side of that exchange brings sorrow and pain nearer.
+
+> Or fame or life,
+>   Which do you hold more dear?
+> Or life or wealth,
+>   To which would you adhere?
+> Keep life and lose those other things;
+> Keep them and lose your life:--which brings
+>   Sorrow and pain more near?
+>
+> (Daodejing 44, Legge)
+
+The same chapter names the failure modes: "Who cleaves to fame / Rejects what is more great; / Who loves large stores / Gives up the richer state", and the remedy, "Who is content / Needs fear no shame. / Who knows to stop / Incurs no blame." Chapter 13 grounds the self side of the ledger: what makes a person liable to great calamity "is my having the body (which I call myself)". The self is the entry that no gain on the other lines offsets.
 
 (DDJ 13, 44.)
 
-**Plain words** Fame or life: which do you actually need more of? It's a real trade — gain the world and lose yourself, and you've lost the trade. Your self is the asset everything else is priced against.
+**Plain words**
+Ask what any pursuit costs, and in which currency. Fame is paid for by becoming whatever keeps fame; wealth is paid for in hours of the one life you hold. The trade runs one way: you can spend yourself to get goods, but goods do not buy the self back. The chapter's question, which do you hold more dear, is meant to be answered before the trade is already made.
 
-*For example:* Taking the promotion that requires becoming someone you dislike is paying your self for a title — a bad rate of exchange.
+*For example:* Taking the promotion that requires becoming someone you dislike is paying your self for a title, a bad rate of exchange.
+
+## Sources
+
+- [The Tao Teh King, Legge translation (Project Gutenberg)](https://www.gutenberg.org/cache/epub/216/pg216.txt) — chapters 13, 44
 
 ## Practice kernels
 

@@ -40,3 +40,14 @@ source; anything not opened is recorded as inherited and unverified.
   without a descriptive claim of its own. "Liu et al., 2023 meta-analysis"
   appears only as a co-citation in the Ward bullet.
 - Validator: ok (only warning: no Related concepts section, inherited).
+
+### D027 — Weigh fame and goods against your self (2026-10-20)
+- Opened: Legge DDJ 13 and 44 (Gutenberg, above). Blockquote = ch. 44 part 1 verbatim
+  (verse, including "life:--which brings"). Inline fragments verbatim: "Who cleaves
+  to fame / Rejects what is more great; / Who loves large stores / Gives up the richer
+  state"; "Who is content / Needs fear no shame. / Who knows to stop / Incurs no blame.";
+  "is my having the body (which I call myself)" (ch. 13).
+- Plain words replaced (old one replicated the body's trade sentence); For example
+  kept from the original page (imagined, concrete). Advisor QC not due this item
+  (speed directive: first item + every 5th).
+- Validator: ok.
