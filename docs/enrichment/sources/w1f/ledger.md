@@ -109,3 +109,16 @@
   instead. Continuity/callousness/rut paraphrases grounded in the raw Dewey text.
 - SYNTHESIS FLAG: "the experience must be worked with, not just had" is the compendium's
   gloss on PP071.
+
+## Life lived forwards (2026-10-20, fast-track; degree 12 — eligible)
+
+- VERIFICATION: concept REAL (Kierkegaard journal entry JJ:167, 1843). Title kept.
+- OPENED: University of Iowa provenance page
+  https://homepage.divms.uiowa.edu/~jorgen/kierkegaardquotesource.html — the full journal
+  passage quoted VERBATIM (English rendering as printed on the page, brackets included) with
+  the Danish original and the Skrifter citation (vol. 18, p. 306).
+- NOTE: the popular one-liner ("Life can only be understood backwards; but it must be lived
+  forwards") is a paraphrase, NOT the entry's wording — the page describes the entry and
+  the paraphrase separately; the page body says so without quoting the paraphrase.
+- SYNTHESIS FLAG: "the backward view is taken from inside a life that is still moving" is
+  the compendium's gloss on the entry's final clause.
