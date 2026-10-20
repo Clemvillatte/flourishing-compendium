@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 personality still changes in adulthood (Roberts et al., 2006).
 
-Lifespan development, in the psychology of personality, is the finding that traits are not fixed after childhood: mean levels of the Big Five continue to change across the adult life course. The evidence base is a meta-analysis of 92 longitudinal studies covering ages 10 to 101:
+Longitudinal personality research finds changes in average Big Five trait levels at different ages, including adulthood. Bleidorn et al. (2022) summarize Roberts et al.'s meta-analysis of 92 longitudinal studies spanning ages 10–101:
 
 > "Roberts et al. (2006) meta-analyzed 92 longitudinal studies of mean-level development in personality traits, covering the life span from Ages 10 to 101. They found evidence for significant mean-level change across all Big Five trait domains at some point in the life course, particularly in young adulthood but also in middle adulthood and old age. Estimates of the cumulative amount of personality mean-level change across adulthood exceeded one full standard deviation for several trait domains." (Bleidorn et al., [Personality Stability and Change](https://gwern.net/doc/psychology/personality/2022-bleidorn.pdf))
 
