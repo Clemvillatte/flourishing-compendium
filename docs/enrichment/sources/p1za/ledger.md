@@ -92,3 +92,7 @@ No separate advisor tool available to this session; quotes are checked programma
 ## E037
 - Sartre, Existentialism Is a Humanism (Mairet trans.; marxists.org) and Beauvoir, Ethics of Ambiguity (Frechtman; marxists.org Parts I & II): 8 quotations grep-verified.
 - Limits: Being and Nothingness Part IV ch.1 and Merleau-Ponty (inherited citations) NOT opened; the body does not rely on them. Marxists.org text of the lecture is Mairet's translation as reproduced by Kaufmann's anthology. Example hypothetical.
+
+## E059
+- Camus, The Rebel (Bower trans., Knopf 1954; Bard College Library scan): pdftotext OCR + page images of pp. 27-28 viewed and read directly (quotations confirmed visually). p. 23 for 'identifies himself with other men' from OCR page-header position (not visually confirmed).
+- Limits: The Myth of Sisyphus (inherited citation) not opened. Statement's 'recognition of the absurd' framing is Camus's absurdist-experience-to-rebellion passage (p. 28). Example hypothetical.

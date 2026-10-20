@@ -12,13 +12,20 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 451** — Practise solidarity
 
-Recognise that you are not alone in the absurd condition. Solidarity, for Camus, is the bond that forms between persons who share the recognition of the absurd and refuse to surrender to it. Practise solidarity by joining your struggle to the struggles of others.
+Camus starts from the absurd as a private ordeal and shows how rebellion turns it into a shared one. "In absurdist experience," he writes, "suffering is individual". But "from the moment that a movement of rebellion begins, suffering is seen as a collective experience". The first step for a mind overwhelmed by the strangeness of things "is to realize that this feeling of strangeness is shared with all men and that the entire human race suffers from the division between itself and the rest of the world". He then states it as a formula: "Rebellion is the common ground on which every man bases his first values. I rebel—therefore we exist" (Camus, 1951, The Rebel, Part I, p. 28, trans. Anthony Bower, [Knopf 1954 scan](https://www.bard.edu/library/pdfs/archives/2023/09/Camus-TheRebel.pdf)).
 
-(Camus, 1951/1956, The Rebel, Part Two; Camus, 1942/1955, The Myth of Sisyphus.)
+The solidarity is a bond between people, and it comes with a limit. "When he rebels, a man identifies himself with other men" (p. 23). Camus adds that "Man's solidarity is founded upon rebellion, and rebellion can only be justified by this solidarity". Any rebellion "which claims the right to deny or destroy this solidarity simultaneously loses the right to be called rebellion and actually becomes an accomplice to murder" (p. 27).
 
-**Plain words** You're not alone in the absurd condition: solidarity is the bond between persons who share the recognition and refuse to surrender to it. Join your struggle to the struggles of others. The boulder is heavier alone — and the alone-ness was always optional.
+**Plain words**
+When something painful or senseless hits you, it feels private. Camus says to look around, because others carry it too, and that makes the burden shared. Then join your resistance to theirs, and keep it from turning against the people it was meant to protect.
 
-*For example:* The picket line, the food bank shift, the group chat of fellow caregivers at 2 a.m. — solidarity isn't a solution to the absurd; it's the counterweight. Same boulder, more hands, occasional laughter.
+**For example**
+You are worn out by your workplace's endless pointless meetings and think the fault is yours. A colleague says they feel the same. After a few more quiet conversations, you ask for a change to the meeting rules together.
+
+## Sources
+
+- [Camus, The Rebel: An Essay on Man in Revolt, trans. Anthony Bower (Knopf, 1954), Part I "The Rebel," scanned copy hosted by Bard College Library](https://www.bard.edu/library/pdfs/archives/2023/09/Camus-TheRebel.pdf): opened; the key passages (pp. 27-28) were checked against page images of the scan
+
 ## Stories
 
 - [[ST277 — Sisyphus Is Happy|277. Sisyphus Is Happy]]
