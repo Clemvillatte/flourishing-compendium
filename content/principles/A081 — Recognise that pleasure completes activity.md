@@ -12,17 +12,17 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 81** — Recognise that pleasure completes activity
 
-Book X of the Ethics argues that pleasure is not a movement or process one could chase, but something complete at every moment, like seeing: "For it is a whole, and at no time can one find a pleasure whose form will be completed if the pleasure lasts longer." Each activity has its proper pleasure, and the pleasure "completes the activity":
+In Book X, Aristotle distinguishes pleasure from movement: like seeing, it is complete at any moment: "For it is a whole, and at no time can one find a pleasure whose form will be completed if the pleasure lasts longer." Each activity has its proper pleasure, and the pleasure "completes the activity":
 
 > "Pleasure completes the activity not as the corresponding permanent state does, by its immanence, but as an end which supervenes as the bloom of youth does on those in the flower of their age." ([Nicomachean Ethics X.4, Ross translation, MIT Classics](http://classics.mit.edu/Aristotle/nicomachaen.10.x.html))
 
-The relation runs both ways: "without activity pleasure does not arise, and every activity is completed by the attendant pleasure", and pleasure is not continuous for the same reason activity is not. The proper pleasure also feeds the activity: "it is those who enjoy geometrical thinking that become geometers and grasp the various propositions better", while alien pleasures hinder it, as when "people who are fond of playing the flute are incapable of attending to arguments if they overhear some one playing the flute."
+The relation runs both ways: "without activity pleasure does not arise, and every activity is completed by the attendant pleasure", and pleasure is not continuous for the same reason activity is not. The proper pleasure also feeds the activity: "it is those who enjoy geometrical thinking that become geometers and grasp the various propositions better", while alien pleasures hinder it, as when "people who are fond of playing the flute are incapable of attending to arguments if they overhear some one playing the flute".
 
-The compendium's exercise: choose an activity for its own sake this week; note the pleasure when it arrives and its absence when hunted directly.
+The compendium's exercise: choose an activity and record whether pleasure accompanies it, without assuming that it will.
 
-**Plain words** Aristotle says pleasure is not a thing you can grab on its own. It comes with doing something well, the way a bloom comes with youth. Do the thing; the pleasure arrives with it and even helps it along.
+**Plain words** For Aristotle, pleasure completes an activity, like bloom completing youth. Enjoying an activity can help sustain it; pleasure from something else can interrupt it.
 
-*For example (imagined):* Someone fixes a bike and notes the quiet satisfaction arriving mid-repair, not before it.
+*For example (imagined):* A cyclist repairs a puncture, then records whether the work was enjoyable and whether nearby music distracted them.
 
 ## Stories
 
