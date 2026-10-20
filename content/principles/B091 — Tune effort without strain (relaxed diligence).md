@@ -12,13 +12,19 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 91** — Tune effort without strain (relaxed diligence)
 
-Effort in practice should be like a well-tuned instrument: fully engaged, not clenched. When you notice strain, that's not more effort; that's less effectiveness.
+The Sona Sutta gives the principle its simile. Sona had been a lute player; the Buddha asks whether a vina is playable when its strings are too taut or too loose, and Sona agrees both fail. The application follows: over-aroused persistence leads to restlessness, overly slack persistence leads to laziness (AN 6.55, trans. Thanissaro Bhikkhu, [text](https://accesstoinsight.org/tipitaka/an/an06/an06.055.than.html)). The Dhammapada verse cited alongside it pushes the other direction: "Like a thoroughbred horse touched by the whip, be strenuous, be filled with spiritual yearning" (Dhammapada 144, trans. Acharya Buddharakkhita, [text](https://accesstoinsight.org/tipitaka/kn/dhp/dhp.10.budd.html)).
 
-(Sona Sutta, AN 6.55; Dhammapada 144.)
+> "In the same way, Sona, over-aroused persistence leads to restlessness, overly slack persistence leads to laziness. Thus you should determine the right pitch for your persistence, attune the pitch of the [five] faculties [to that], and there pick up your theme." (AN 6.55, trans. Thanissaro Bhikkhu, [text](https://accesstoinsight.org/tipitaka/an/an06/an06.055.than.html))
 
-**Plain words** Effort in practice should be like a well-tuned instrument: fully engaged, not clenched. When you notice strain, that's not more effort — that's less effectiveness. Relaxed diligence: the same work, half the white knuckles.
+Read together, the two passages treat effort as something to be tuned rather than maximized. The sutta's diagnosis is specific: strain is a sign that the pitch is wrong, and the correction it names is attunement, not more force. The compendium's exercise follows the simile: when you notice effort turning into clenched force, the question is which string is overtightened, and the answer may be to adjust the aim or the pace rather than to push.
 
-*For example:* The runner who loosens her shoulders and gets faster — the strain was literally the brake.
+### Plain words
+
+Notice how you are holding the work, not just how much of it you are doing. Strain is information: something is tuned too tight, usually the demand you have placed on yourself, as in all of this, tonight, perfectly. The exercise is to restate the demand at a pitch you can actually hold: pick the piece that matters most, set a pace you can keep, and start there. The sutta does not tell you to try less hard; it tells you to find the pitch where effort stays playable.
+
+### For example
+
+Imagine a player who grips the bow harder as a passage gets difficult, and the tone gets worse. Loosening the grip is not doing less; the passage still gets played. That is the tuning move: same piece, same tempo, adjusted grip.
 
 ## Psychology parallels
 
