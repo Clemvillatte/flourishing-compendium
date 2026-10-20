@@ -415,3 +415,12 @@ D160 D181 D192 all done, validated, pushed. Advisor QC at items 1, 5, 10, 15
   reduced to bare wikilinks (unopened).
 - Saturation check: cited by [[The middle path]] concept page (existing
   wikilink in title). Validator: ok vs 71fd7049.
+
+### P036 — Notice that language shapes what you can see (2026-10-20)
+- Opened: Nelson Goodman, Ways of Worldmaking — full text PDF (Internet
+  Archive), fetched; three passages quoted verbatim. The book's opening
+  attribution in philosophy parallels retained (opened source).
+- Seed's Vico citation dropped from the locator (Scienza Nuova not opened;
+  the body never relied on Vico). Barrett et al. 2001 and Boroditsky 2011
+  parallel tails reduced to bare wikilinks (inherited, unopened).
+- Saturation: cited by [[Worldmaking]] concept. Validator: ok vs 71fd7049.

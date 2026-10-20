@@ -12,18 +12,29 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 36** — Notice that language shapes what you can see
 
-The categories you speak with carve your world: new distinctions create new experiences. Learn new languages of experience: art, science, other cultures — to see more.
+Goodman's argument begins with the confinement: "If I ask about the world, you can offer to tell me how it is under one or more frames of reference; but if I insist that you tell me how it is apart from all frames, what can you say? We are confined to ways of describing whatever is described. Our universe, so to speak, consists of these ways rather than of a world or of worlds."
 
-(Goodman, Ways of Worldmaking, 1978; Vico, Scienza Nuova.)
+> We are confined to ways of describing whatever is described. Our universe, so to speak, consists of these ways rather than of a world or of worlds.
+>
+> (Nelson Goodman, Ways of Worldmaking)
 
-**Plain words** The categories you speak with carve your world — new distinctions create new experiences. Learn new languages of experience: art, science, other cultures — to see more. The Inuit-and-snow cliché is real in your own kitchen once you learn to actually taste.
+The consequence for learning is his remark on how worlds get made: "Worldmaking as we know it always starts from worlds already on hand; the making is a remaking." New distinctions are not added to a finished scene; they remake the scene from materials already in hand. The compendium's application: the categories you speak with are among those materials, so acquiring new ones — art's, science's, another culture's — is a way of acquiring a world.
+
+(Goodman, Ways of Worldmaking, 1978.)
+
+**Plain words**
+The world you can see is partly a function of the words you have for it. Before the wine course, the shelf holds red and white; after, it holds forty things. The exercise: pick a domain you know casually, learn its real vocabulary, and notice what becomes distinguishable that was previously a blur.
 
 *For example:* After a wine-tasting course, the supermarket shelf is a different shelf — nothing changed but the distinctions, and now there are forty wines where there was one red.
 
+## Sources
+
+- [Nelson Goodman, Ways of Worldmaking (full text, Internet Archive)](https://dn790000.ca.archive.org/0/items/GoodmanWaysOfWorldmaking/185739050-Goodman-Ways-of-Worldmaking_text.pdf)
+
 ## Psychology parallels
 
-- **[[Emotion differentiation|Emotion differentiation]]**, finer vocabulary predicts better regulation (Barrett et al., 2001)
-- **[[Linguistic relativity|Linguistic relativity effects]]** (Boroditsky, 2011)
+- **[[Emotion differentiation|Emotion differentiation]]**
+- **[[Linguistic relativity|Linguistic relativity effects]]**
 
 ## Philosophy parallels
 
