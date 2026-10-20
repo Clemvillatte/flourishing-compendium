@@ -22,8 +22,9 @@ It is [[The examined life]] made procedural — the self audited in written word
 
 ## Related concepts
 
-- [[Meaning-making]] — listed for comparison
 
+- [[Meaning-making]] — listed for comparison
+- [[Express by shaping, not venting]] — Dewey's distinction between expression and discharge (Art as Experience)
 ## Sources
 
 - Pennebaker and Beall, 1986

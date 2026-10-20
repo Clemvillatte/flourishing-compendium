@@ -25,10 +25,12 @@ Suppression, as defined in the laboratory work of James Gross and Robert Levenso
 
 
 
+
 - [[Anger regulation research]] — the field whose central comparison produced this page's evidence
 - [[Emotion regulation]] — the framework behind this comparison
 - [[Regulatory flexibility theory]] — the strategy pair whose uniform rankings the theory rejects
 - [[Mid-level emotion regulation]] — the head-to-head comparison this page summarises
+- [[Express by shaping, not venting]] — Dewey's distinction between expression and discharge (Art as Experience)
 ## Sources
 
 - Gross and John, 2003

@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Expression as construction” — Dewey, Art as Experience.
 
+## Related concepts
+
+- [[Express by shaping, not venting]] — Dewey's distinction between expression and discharge (Art as Experience)
+
 ## Sources
 
 - Dewey, Art as Experience

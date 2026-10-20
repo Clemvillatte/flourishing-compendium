@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “The dignity of self-expression” — Kant, Groundwork.
 
+## Related concepts
+
+- [[Express by shaping, not venting]] — Dewey's distinction between expression and discharge (Art as Experience)
+
 ## Sources
 
 - Kant, Groundwork
