@@ -18,10 +18,10 @@ In the "Work as Flow" chapter of Flow, Csikszentmihalyi lists what makes some jo
 
 He illustrates this with surgery. Surgeons, he writes, report how well defined their goals are, and the feedback half is just as direct: "Similarly surgery provides immediate and continuous feedback." (Csikszentmihalyi, Flow, "Work as Flow," pp. 156-157, [archive.org text](https://ia801906.us.archive.org/4/items/Csikszenthmihalyi1990/Csikszenthmihalyi-1990_text.pdf))
 
-The compendium's exercise: examine two of the features the quoted passage names, in an activity you want to love. Whether the goal is stated clearly enough to guide action, and whether a feedback signal arrives without your going to look for it. Where either is missing, that is the gap to fill.
+The compendium's exercise: examine two of the features the quoted passage names, in an activity you want to love. Check whether the goal is stated clearly enough to guide action, and whether you can check progress against that goal while doing the activity. Where either is missing, that is the gap to fill.
 
 **Plain words**
-A game states the aim and reports the result of each move. To make an activity more absorbing, check those two things: is the aim stated so it can guide action, and does the result arrive on its own? If one is missing, that is the gap.
+A game states the aim and reports the result of each move. To make an activity more absorbing, check those two things: is the aim stated so it can guide action, and can you see how the last attempt went while you are still at it? If one is missing, that is the gap.
 
 *For example:* Imagine a runner aiming to complete each kilometer in six minutes. At each kilometer marker, they compare their split with that target.
 
