@@ -41,14 +41,20 @@ In the "Memorial Address" of 1955 Heidegger brings the same disposition to techn
 
 - [[Wu wei]] — the Daoist ideal of effortless, unforced activity; a cross-tradition parallel, not a historical link.
 - [[Letting-be]] — another English rendering of Gelassenheit in the literature on Heidegger.
-- [[Non-attachment]] — the Buddhist release of grasping at outcomes and possessions; a cross-tradition parallel.
+- [[Non-attachment]] — the compendium's comparison: Buddhist clinging (upādāna) beside Eckhart's letting go of attachment to one's actions.
 - [[Apatheia]] — the Stoic freedom from passion; the Encyclopedia calls Eckhart's negative virtues Stoic-sounding.
 - [[Beginner's mind]] — meeting experience free of the habits of the expert; the compendium pairs it with Heidegger's waiting.
-- [[Acceptance]] — in ACT, the active and aware embrace of private events without unnecessary attempts to change their frequency or form; a cousin, not the same thing.
+- [[Acceptance]] — in ACT, the active and aware embrace of private experiences without unnecessary attempts to change their frequency or form; a cousin, not the same thing.
 - [[Shikantaza, just sitting]] — Dogen's objectless just-sitting practice; the compendium pairs it with Heidegger's waiting.
 
 ## Sources
 
+- [Wikipedia: Wu wei](https://en.wikipedia.org/wiki/Wu_wei) — the effortless, unforced-activity side of the Wu wei comparison.
+- [Wikipedia: Upādāna](https://en.wikipedia.org/wiki/Up%C4%81d%C4%81na) — Buddhist clinging and grasping as the result of craving; the Buddhist side of the Non-attachment comparison.
+- [SEP: Stoicism](https://plato.stanford.edu/entries/stoicism/) — apatheia as the passion-free ideal; the Stoic side of the Apatheia comparison.
+- [Suzuki, Zen Mind, Beginner's Mind (PDF)](https://web.stanford.edu/~funn/ZenMindBeginners.pdf) — the beginner's mind side of the Beginner's mind comparison.
+- [Hayes, Pistorello and Levin, ACT as a Unified Model of Behavior Change (APA)](https://www.apa.org/education-career/ce/acceptance-commitment.pdf) — the ACT acceptance definition.
+- [Upaya Reader on Shikantaza](https://www.upaya.org/uploads/pdfs/shikantazanreader.pdf) — just sitting as objectless meditation, elaborated by Dogen.
 - [Griffioen, "Meister Eckhart," Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/meister-eckhart/) — Eckhart's use of gelâzenheit as a negative virtue; the "without a why" and Sermon 5b material; Heidegger's adaptation of the term.
 - [Minerva vol. 10, "Heidegger on Gelassenheit"](https://minerva.mic.ul.ie/vol10/Heidegger.html) — the Conversation's waiting and non-willing; the Memorial Address's releasement toward things and openness to the mystery, with the quoted page references.
 - [Wikipedia: Gelassenheit](https://en.wikipedia.org/wiki/Gelassenheit) — the seed's original source, retained.
