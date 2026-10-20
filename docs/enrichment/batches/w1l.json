@@ -39,7 +39,7 @@
   "Legacy motivation research",
   "Leisure"
  ],
- "in_progress": null,
+ "in_progress": "Life affirmation",
  "flagged": {
   "Following nature's rhythms": "namespace: imperative-verb title, opened Legge DDJ 25 does not define the phrase; flagged Category A in concept-namespace-audit.md at item-5 advisor QC; body left as labelled interim material; supervisor disposition requested",
   "Cultural dimensions theory Hofstede": "title: garbled author-suffix title per the concept-verification queue; concept verified (Hofstede 6D model, geerthofstede.com URL added); rename to 'Cultural dimensions theory' is a metadata action routed to the supervisor",
@@ -59,7 +59,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 19,
- "updated": "2026-10-20T11:58:38+00:00",
+ "updated": "2026-10-20T16:07:26+00:00",
  "band_done": false,
  "new_concepts": [
   {
@@ -69,5 +69,5 @@
    "why": "Category B disposition for 'Harmonious versus obsessive passion': granular component; no existing concept represented the harmonious form (title/resolve checks done)"
   }
  ],
- "notes": " | supervisor-3ef4f549 (2026-10-20): stale in_progress marker \"Life affirmation\" cleared \u2014 item enriched+committed at 5c983d57b, held pending QC, baton released by its worker; marker left set was blocking proposal deferrals to w1l targets."
+ "notes": " | supervisor-3ef4f549 (2026-10-20): stale in_progress marker \"Life affirmation\" cleared \u2014 item enriched+committed at 5c983d57b, held pending QC, baton released by its worker; marker left set was blocking proposal deferrals to w1l targets. | supervisor-3ef4f549 (2026-10-20): in_progress marker \"Life affirmation\" RESTORED (item is enriched+committed at 5c983d57b, QC-held pending confirmation \u2014 pending-work marker is the accurate state; my earlier clear was an oversight, integration round 2 already applied to w1l targets and stands)."
 }
