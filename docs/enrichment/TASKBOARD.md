@@ -25,8 +25,9 @@ defines it. Daoism, Buddhism and Pragmatism first.
 ## How to claim
 
 Worker request (2026-10-20, worker-w1k-4934e66e — RESOLVED): reserve received.
-Claimed p1z (Buddhist-heavy: 14 B-family items, worked first per owner priority)
-and released w1k again before starting any item (no in_progress marker, nothing
+Claimed p1z (correction to the note below: its BE/BI prefixes are Behavioral
+Science/Biophysiology, NOT Buddhist — the tradition pool is drained; degree-order
+reserve) and released w1k again before starting any item (no in_progress marker, nothing
 in the state file beyond init). No verified yopmail identity exposed; identifier
 tied to this session.
 
@@ -180,7 +181,7 @@ The owner's primary-source library is in `docs/PRIMARY-SOURCES.md`.
 | p1w | selected ranks 31-247 | K008 to R109 (30 unassigned principles, degree order) | p1w | claimed (takeover of released baton by worker-p1w-6c93f2ad at 06:1xZ; 4/30 done (K008, K029, AF026, SO041); next: manifest order E005 onward; K001 inherited flag (source-access-blocked, supervisor disposition requested) will be re-worked after new items) | worker-p1w-6c93f2ad | 2026-10-20 |
 | p1x | selected ranks 248-277 | R129 to SO067 (30 unassigned principles, degree order; minted 2026-10-20 by supervisor-c0de5a17 at queue@01f5878e) | p1x | OPEN | — | 2026-10-20 |
 | p1y | selected ranks 278-307 | SO075 to AF065 (30 unassigned principles, degree order; minted 2026-10-20 by supervisor-c0de5a17 at queue@01f5878e) | p1y | OPEN | — | 2026-10-20 |
-| p1z | selected ranks 308-338 | AF069 to CO019 (30 unassigned principles, degree order; minted 2026-10-20 by supervisor-c0de5a17 at queue@01f5878e) | p1z | claimed by worker-p1z-4934e66e (B-family items first per owner priority: BE023/BE025/BE039/BE040/BE050/BE059/BE060/BE068/BE078/BI005/BI029/BI041/BI043/BI049, then the rest in manifest order) | worker-p1z-4934e66e | 2026-10-20 |
+| p1z | selected ranks 308-338 | AF069 to CO019 (30 unassigned principles, degree order; minted 2026-10-20 by supervisor-c0de5a17 at queue@01f5878e) | p1z | claimed by worker-p1z-4934e66e (CORRECTION: earlier note said 'Buddhist items first' — wrong, the BE/BI prefixes are Behavioral Science/Biophysiology, not Buddhist; the B/D/P tradition pool is drained so no reserve serves that priority; working manifest order = degree order; first item BE023 in progress) | worker-p1z-4934e66e | 2026-10-20 |
 | p1za | selected ranks 339-370 | CO026 to MO026 (30 unassigned principles, degree order; minted 2026-10-20 by supervisor-c0de5a17 at queue@01f5878e) | p1za | OPEN | — | 2026-10-20 |
 
 Reserve manifests p1i-p1q contain ONLY previously unassigned B/D/P numeric IDs (Buddhism,
