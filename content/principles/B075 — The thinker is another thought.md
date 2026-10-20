@@ -12,13 +12,31 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 75** — The thinker is another thought
 
-The "self" behind your thoughts is itself a thought arising among thoughts. Look for the thinker and you find only more thinking.
+The Anattalakkhana Sutta makes the case by elimination. The Buddha takes the five aggregates one by one, form through consciousness, and asks of each whether it is constant, and whether what is inconstant can be regarded as self. Thinking is one of the things examined, and no examiner turns up behind it. (Anatta-lakkhana Sutta.)
 
-(Anatta-lakkhana Sutta; Milindapanha.)
+> "What do you think, monks — Is consciousness constant or inconstant?"
+> "Inconstant, lord."
+> (SN 22.59, [Thanissaro, Access to Insight](https://www.accesstoinsight.org/tipitaka/sn/sn22/sn22.059.than.html))
 
-**Plain words** The 'self' behind your thoughts is itself a thought arising among thoughts. Look for the thinker and you find only more thinking. It's turtles all the way down — which is either disturbing or hilarious, and the sages recommend hilarious.
+The Milindapanha runs the same search on a name. Nagasena disassembles the king's chariot part by part, and Milinda concedes that "chariot" is a designation in common use for the parts assembled; Nagasena answers that "Nagasena" is a designation in exactly the same way, for the parts of a person. The thinker is a word for a process, not a piece. (Milindapanha.)
 
-*For example:* Trying to find the one who's worried — you find worry, worry about worry, and a note about the worry. No worrier anywhere.
+> "Just as it is by the condition precedent
+> Of the co-existence of its various parts
+> That the word 'chariot' is used,
+> Just so is it that when the Skandhas
+> Are there we talk of a 'being.'"
+>
+> (Milindapanha 3.1.1, [Rhys Davids translation](https://suttacentral.net/mil3.1.1/en/tw_rhysdavids))
+
+**Plain words**
+The exercise is to run the search yourself. When a worry shows up, look for the one who is worried: you will find the worry, maybe a comment on the worry, maybe an urge to fix it. Each of those is another thought. The instruction is to keep looking and notice that the looking itself is another thought.
+
+*For example:* Imagine trying to find the one who is worried. You find worry, worry about the worry, a note that the worry is circular. No worrier is among the findings; each finding is another thought.
+
+## Sources
+
+- [Anattalakkhana Sutta (SN 22.59), Thanissaro translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/sn/sn22/sn22.059.than.html) — the aggregates examination
+- [Milindapanha 3.1.1, Rhys Davids translation, SuttaCentral](https://suttacentral.net/mil3.1.1/en/tw_rhysdavids) — the chariot simile and Vajira's verse
 
 ## Psychology parallels
 

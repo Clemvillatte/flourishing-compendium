@@ -8,14 +8,15 @@
   "B062",
   "B063",
   "B064",
-  "B073"
+  "B073",
+  "B075"
  ],
  "in_progress": null,
  "flagged": {
   "B062": "Reopened for QC: QC round 2: spelling/attribution/extension-labelling repairs"
  },
  "missing_concepts": [],
- "sources_checked": 10,
- "updated": "2026-10-20T01:30:36+00:00",
+ "sources_checked": 12,
+ "updated": "2026-10-20T01:31:22+00:00",
  "band_done": false
 }

@@ -143,3 +143,21 @@ priority, then B items in manifest order (manifest lists bare IDs; no titles).
   Epictetus Enchiridion; Fromm) NOT opened; flagged inherited parallels. Linked
   concepts (Nonattachment, Attachment security, Preferred indifferents) skimmed as
   seeds only.
+
+## B075 — The thinker is another thought
+
+- Opened: https://www.accesstoinsight.org/tipitaka/sn/sn22/sn22.059.than.html (SN 22.59
+  Anattalakkhana Sutta, Thanissaro translation) — aggregates examination verified; and
+  https://suttacentral.net/mil3.1.1/en/tw_rhysdavids (Milindapanha 3.1.1, Rhys Davids
+  translation) — chariot simile, Nagasena's designation answer, Vajira's verse.
+- Verbatim quotes used: the consciousness Q&A exchange; Vajira's verse ("Just as it is
+  by the condition precedent / Of the co-existence of its various parts / That the word
+  'chariot' is used, / Just so is it that when the Skandhas / Are there we talk of a
+  'being.'"). Body paraphrases (chariot parts disassembled; "designation in common use";
+  thirty-two kinds of organic matter and five constituent elements) checked against
+  the opened page.
+- The "turtles all the way down" joke from the original Plain words removed (no
+  source; voice, not content).
+- Limitations: inherited parallels (Dennett 1991; Gazzaniga; Hume; Metzinger) NOT
+  opened; flagged inherited parallels. Linked concepts (The interpreter module, The
+  bundle theory, Anatta) skimmed as seeds only.
