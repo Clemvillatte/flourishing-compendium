@@ -29,3 +29,8 @@
 - Sources: Helda thesis (quotes BN 1992 pp. 629, 653); Bernasconi, How to Read Sartre (PDF excerpt). Quotes verified verbatim against search excerpts; BN itself not read in full.
 - Flags: entry's "free to choose how to respond" is gentler than Sartre (ends and meaning of the situation are chosen; coefficient of adversity). Heidegger, Merleau-Ponty, Rotter 1966 not opened.
 - QC: self-QC only; validator pass.
+
+## R111 — Recognition of difference
+- Sources opened: Taylor 1994 essay (Purdue PDF excerpt; p.25 confirmed via IEP); "homogenizing" quote via a Canadian thesis (page not given); Phinney & Chavira 1992 abstract; PMC4240512 excerpt.
+- Flags: Taylor's "presumption of equal worth" is more qualified than the entry's "affirmative acknowledgment"; Phinney 1992 (MEIM), Kymlicka, Honneth not opened; psychology evidence is correlational.
+- QC: self-QC only; validator pass.
