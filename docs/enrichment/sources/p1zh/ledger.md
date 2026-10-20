@@ -20,3 +20,6 @@ No advisor tool available; QC is self-QC only.
 
 ## SE046 Recognise identity and meaning
 - Opened: McAdams 2001 abstract (SAGE page; full text paywalled); McAdams & McLean 2013 abstract (via fetch of Masaryk course copy). Both quotes verbatim. Steger 2012 and the identity-crisis = meaning-crisis claim not sourced; page says so.
+
+## SE051 Recognise self-expansion
+- Opened: Aron et al. 2022 abstract (SAGE page, via search result), Aron et al. 2000 PubMed abstract (PMID 10707334). Quote verbatim from the 2022 abstract. Original "not comfort, but expansion"/"boredom is your self asking to be enlarged"/"marriage was an expansion problem" removed or labelled as interpretation. Aron & Aron 1986, Reissman 1993 not opened.

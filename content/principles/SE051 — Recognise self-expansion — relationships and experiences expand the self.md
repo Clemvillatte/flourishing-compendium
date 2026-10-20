@@ -12,11 +12,23 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 51** — Recognise self-expansion: relationships and experiences expand the self
 
-Self-expansion is the process of growing the self through new experiences, perspectives, and relationships. It is a core motivation and is associated with well-being. Relationships (especially new ones) expand the self.
+> The model theorizes that people have a fundamental desire to expand the self—that is, to increase their self-efficacy, perspectives, competence, and resources, and this often occurs through relationships in general.
 
-**Plain words** You grow by taking in new things — people, places, skills, perspectives. Every time you do, "you" gets bigger. This is one of the deeper engines of good relationships and good lives: not comfort, but expansion. Boredom is usually your self asking to be enlarged.
+(Aron, Lewandowski, Branand, Mashek and Aron, "Self-expansion motivation and inclusion of others in self: An updated review," Journal of Social and Personal Relationships, 2022, abstract; [SAGE](https://journals.sagepub.com/doi/10.1177/02654075221110630). Only the abstract was opened.)
 
-*For example:* The couple whose marriage went quiet for a year didn't have a communication problem so much as an expansion problem — both selves had stopped growing, so there was nothing new to bring home. The pottery class nobody wanted to sign up for was the marriage.
+On the claim that shared novelty helps couples, Aron and colleagues (2000) ran surveys and three experiments. Couples reported more relationship quality after a 7-minute "novel and arousing" task than after a "more mundane" one, and the survey link between shared exciting activities and satisfaction was mediated by "relationship boredom" ([PubMed](https://pubmed.ncbi.nlm.nih.gov/10707334/)). That study is about couples' relationship quality. It does not test growth of the self directly.
+
+The two further claims in this entry, that boredom is the self asking to be enlarged and that a quiet marriage is an expansion problem, are the entry's interpretations of the model. They are not findings from the abstracts above.
+
+**Plain words** People tend to want to grow: to learn things, take on new views and gain new abilities. Close relationships are one common way this happens, because a partner's perspectives and resources become partly yours. Doing new things together can freshen a relationship.
+
+*For example:* A couple whose evenings have gone flat sign up for a pottery class neither has tried. Learning something unfamiliar together gives them something new to talk about.
+
+## Sources
+
+- [Aron, A., Lewandowski, G. W., Branand, B., Mashek, D., & Aron, E. N. (2022). Self-expansion motivation and inclusion of others in self: An updated review. J Soc Pers Relat](https://journals.sagepub.com/doi/10.1177/02654075221110630) — abstract opened
+- [Aron, A., Norman, C. C., Aron, E. N., McKenna, C., & Heyman, R. E. (2000). Couples' shared participation in novel and arousing activities and experienced relationship quality. J Pers Soc Psychol 78(2), 273-284](https://pubmed.ncbi.nlm.nih.gov/10707334/) — PubMed abstract opened
+
 ## Psychology parallels
 
 - **[[Self-expansion|Self-expansion model (Aron)]]**, people are motivated to expand the self; relationships and novel experiences expand it (Aron & Aron, 1986; Aron et al., 2013)
