@@ -11,6 +11,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 - Bandura, 2001
 - Dewey, Human Nature and Conduct
+## Related concepts
+
+- [[P088]] — Dewey's reading of praise and blame as conditions that shape conduct (Human Nature and Conduct, part 1, section 1).
+
 ## Sources
 
 - Aristotle, Nicomachean Ethics III.1

@@ -35,6 +35,10 @@ The Buddha's distinction in the same sutta is not that the wise feel nothing; it
 - **Reputation as an indifferent** (Epictetus, Enchiridion)
 - **"we care more about others' opinion of us than our own"** (Marcus Aurelius, Meditations)
 
+## Related concepts
+
+- [[P088]] — P088 covers the giving side of this pair: Dewey treats praise and blame as instruments that shape later conduct, not as verdicts.
+
 <!-- fc: reflections
 Where is your worth currently outsourced to other people's voices — praise inflating, blame crushing? What would keeping the inner measure steady actually require?
 %%

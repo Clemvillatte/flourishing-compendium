@@ -28,6 +28,10 @@ The traditions that question its premise are also its kin: [[Anatta]] and [[Self
 - Buber, I and Thou
 - congruence between inner experience and outer expression predicts well-being (Kernis and Goldman, 2006)
 
+## Related concepts
+
+- [[P167]] — Applies Rogers's account of congruence to acknowledging experience and considering its expression.
+
 ## Sources
 
 - Kernis and Goldman, 2006

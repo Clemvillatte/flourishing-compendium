@@ -2,53 +2,17 @@
  "inline": [],
  "reciprocal": [
   {
-   "into": "P083 — Prefer interest to forced effort",
-   "link": "P108 — Learn from where the learner is",
-   "why": "Both pages cite Dewey's interest-in-education work and share the Interest as motive and Interest development research concept links; P083's James passage (connect new material to a pupil's native interests) states the same pedagogical advice as P108's title. The two pages do not currently cross-link (both files read and searched directly). This proposal documents the existing connection; it does not independently verify the parallel.",
-   "_audit_why": "target pages read directly during the item-20 milestone check; absence of cross-links verified by rg on both files"
-  },
-  {
-   "into": "B103 — Keep balance in praise and blame (upekkha applied)",
-   "link": "P088 — Use praise and blame as instruments, not metaphysics",
-   "why": "B103 handles the receiving side of the praise/blame pair (upekkha toward the eight worldly winds; worth not outsourced to others' voices). P088 handles the giving side from Dewey's angle (praise and blame shape future conduct through conditions, they are not verdicts on a free will). The two pages are complements rather than the same teaching: one steadies the person being praised or blamed, the other instructs the person doing the praising or blaming. B103's philosophy parallels currently have no principle-level link to P088 (file read and searched directly).",
-   "_audit_why": "B103 and P088 files both read this session; absence of cross-link verified by grep on both files; proposal recast after advisor QC as complementary receiving/giving, not an established equivalence"
-  },
-  {
-   "into": "Responsibility (concept)",
-   "link": "P088 — Use praise and blame as instruments, not metaphysics",
-   "why": "P088's philosophy parallels link [[Responsibility]] for Dewey's reading of praise and blame as conditions that shape conduct (Human Nature and Conduct part 1 sec. 1). The Responsibility concept names Dewey's Human Nature and Conduct in its pre-Sources list (line 13, unlinked), but its 'Cited in philosophy parallels' section lists only [[R071 — Practise responsibility]] with no P088 entry. The proposal adds P088 to that section, documenting the existing connection. Complements the B103 proposal: B103 is the receiving side, P088 the giving side.",
-   "_audit_why": "Responsibility concept file read in full this session (all 22 lines); structure verified: pre-Sources list includes an unlinked Dewey HNC mention; 'Cited in philosophy parallels' contains only R071; absence of P088 verified by reading the section"
-  },
-  {
-   "into": "Inquiry (concept)",
+   "into": "Inquiry",
    "link": "P132 — Make reform experimental",
-   "why": "P132's philosophy parallels link [[Inquiry]] for Dewey's account of reform as inquiry, but the Inquiry concept page's 'Cited in philosophy parallels' section is empty (it lists P024, P025, P048, P051 above that section). The proposal adds P132 to that section, documenting the existing one-way link. P125 also links Inquiry-adjacent material via Fallibilism; P132 is the natural Dewey-Addams entry for inquiry applied to social change.",
+   "why": "Dewey's account of reform as inquiry: treat a social change as an experiment.",
    "_audit_why": "Inquiry concept file read in full this session; empty parallels section verified by reading the file body"
   },
   {
-   "into": "Solidarity (concept)",
+   "into": "Solidarity",
    "link": "P137 — Build solidarity without demanding consensus",
-   "why": "P137's philosophy parallels link [[Solidarity]] for Rorty's account (Contingency, Irony, and Solidarity), and the concept's own Sources list already cites that book, but its 'Cited in philosophy parallels' section lists only R113, E059 and E077 with no P137 entry. The proposal adds P137 to that section, documenting the existing one-way link: the Rorty item is the natural pragmatist entry for solidarity among the listed Camus/Scholz connections.",
+   "why": "Rorty's account of solidarity in Contingency, Irony, and Solidarity, applied to building it without demanding consensus.",
    "_audit_why": "Solidarity concept file read in full this session; absence of P137 verified by reading the parallels section"
-  },
-  {
-   "into": "Affordances",
-   "link": "P146 — Take things seriously as participants",
-   "why": "P146 quotes Gibson's definition of what an environment affords an animal to ground its claim that nonhuman things provide as well as resist; the Affordances page gives the Gibson background behind that definition.",
-   "_audit_why": "Affordances concept read in full this session (P146 item); no P146 entry present; P146 body quotes the ch. 8 definition verbatim from the opened Brown University chapter PDF"
-  },
-  {
-   "into": "Mindfulness",
-   "link": "P161 — Return to the present — contact what is here",
-   "why": "P161's psychology parallels link Mindfulness-based interventions, and its body quotes the ACT review's account of contact with the present moment (life occurs only in the now; values are lived out moment to moment). The Mindfulness page gives the clinical background behind that link.",
-   "_audit_why": "Mindfulness concept read in full this session, completed in two passes (partial tail during the P161 item, remainder read during the P167 QC round after the advisor flagged the reading-claim accuracy); its cited-in psychology parallels list has no P161 entry; P161's psychology-parallel bullet links [[Mindfulness|Mindfulness-based interventions]]; quotes verified against the opened APA CE PDF"
-  },
-  {
-   "into": "Authenticity",
-   "link": "P167 — Practice congruence — align experience, awareness, and expression",
-   "why": "Applies Rogers's account of congruence to acknowledging experience and considering its expression.",
-   "_audit_why": "Authenticity concept read in full this session (after advisor QC round 1); its 'Cited in parallels' list has no P167 entry; P167's psychology-parallel bullet links [[Authenticity|Authenticity research]]; the concept body itself names Rogers' congruence ('the match between the experience felt and its symbolization'), which supports the short relationship clause; quotes verified against the opened 1957 reprint PDF and the carlrogers.dk ch. 8 PDF"
   }
  ],
- "notes": "p1r proposals (worker-p1v-c7e4a1f9), from the item-20 milestone check and the P087 item. Reciprocals only; all other linked-concept targets inspected at items 19-20 (Savoring, Immediate and reflective value, Consummatory experience, Interest development research, Intrinsic motivation, Interest as motive) verified to already list their principle. | not deferred: 2 recips ready to apply | deferred at this run (target band busy): 1 recip, 0 inline\n- P088 reciprocal (B103) added by worker-p1r-4b7e21c9; B103 file read directly, parallels sections inspected.\n- Dangling-link note (P133, worker-p1r-4b7e21c9): the psychology parallels of P133 link [[Institutional racism]] and [[Institutional trust]], but no such concept files exist anywhere under content/ (verified with a repository-wide filename search). The parallels are inherited and were not edited; recording here for the supervisor to decide (create the concept pages or fix the links).\n- P145 reciprocal (Narrative identity) added by worker-p1r-ae2a1b83; concept file read in full, absence of P145 entry verified.\n- P145 reciprocal (Narrative identity) DEFERRED and REMOVED by worker-p1r-ae2a1b83 after advisor QC: the target page is Ricoeur-based while P145's inherited bullet cites McAdams 2013, and a separate concept 'Narrative identity theory McAdams' exists; target ambiguity flagged for the supervisor. No proposal from this item.\n- P146 reciprocal (Affordances) added by worker-p1r-ae2a1b83; concept read in full, absence verified, why grounded in the opened Gibson ch. 8 PDF.\n- P161 reciprocal (Mindfulness, into Cited in psychology parallels) added by worker-p1r-ae2a1b83; concept read in full, absence verified, why grounded in the opened APA PDF.\n- P167 reciprocal (Authenticity, into Cited in parallels) added by worker-p1r-ae2a1b83; concept read in full, absence verified, why grounded in the opened Rogers PDFs.\n- P167 reciprocal why shortened per advisor QC round 1 (unsupported genealogy clause removed; Authenticity read in full after the repair).\n- P161 reciprocal _audit_why corrected (Mindfulness reading completed in two passes)."
+ "notes": "p1r proposals (worker-p1v-c7e4a1f9), from the item-20 milestone check and the P087 item. Reciprocals only; all other linked-concept targets inspected at items 19-20 (Savoring, Immediate and reflective value, Consummatory experience, Interest development research, Intrinsic motivation, Interest as motive) verified to already list their principle. | not deferred: 2 recips ready to apply | deferred at this run (target band busy): 1 recip, 0 inline\n- P088 reciprocal (B103) added by worker-p1r-4b7e21c9; B103 file read directly, parallels sections inspected.\n- Dangling-link note (P133, worker-p1r-4b7e21c9): the psychology parallels of P133 link [[Institutional racism]] and [[Institutional trust]], but no such concept files exist anywhere under content/ (verified with a repository-wide filename search). The parallels are inherited and were not edited; recording here for the supervisor to decide (create the concept pages or fix the links).\n- P145 reciprocal (Narrative identity) added by worker-p1r-ae2a1b83; concept file read in full, absence of P145 entry verified.\n- P145 reciprocal (Narrative identity) DEFERRED and REMOVED by worker-p1r-ae2a1b83 after advisor QC: the target page is Ricoeur-based while P145's inherited bullet cites McAdams 2013, and a separate concept 'Narrative identity theory McAdams' exists; target ambiguity flagged for the supervisor. No proposal from this item.\n- P146 reciprocal (Affordances) added by worker-p1r-ae2a1b83; concept read in full, absence verified, why grounded in the opened Gibson ch. 8 PDF.\n- P161 reciprocal (Mindfulness, into Cited in psychology parallels) added by worker-p1r-ae2a1b83; concept read in full, absence verified, why grounded in the opened APA PDF.\n- P167 reciprocal (Authenticity, into Cited in parallels) added by worker-p1r-ae2a1b83; concept read in full, absence verified, why grounded in the opened Rogers PDFs.\n- P167 reciprocal why shortened per advisor QC round 1 (unsupported genealogy clause removed; Authenticity read in full after the repair).\n- P161 reciprocal _audit_why corrected (Mindfulness reading completed in two passes). | deferred at this run (target band busy): 2 recip, 0 inline"
 }

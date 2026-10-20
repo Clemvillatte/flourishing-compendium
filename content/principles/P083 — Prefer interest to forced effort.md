@@ -27,6 +27,10 @@ Choose a necessary task. What part connects with something you already care abou
 
 *For example:* Imagine you avoid a required statistics course. You notice you enjoy following football, and you start learning probability through betting odds, keeping the course in view as you go.
 
+## Related concepts
+
+- [[P108]] — P108 gives the same advice from the teacher's side: start from where the learner is.
+
 ## Sources
 
 - [Democracy and Education, John Dewey, Project Gutenberg](https://www.gutenberg.org/cache/epub/852/pg852.txt) — chapter 10, "Interest and Discipline"

@@ -244,3 +244,7 @@ veto). Pending supervisor items from the taskboard NOT yet done this pass: A057 
 stage" framing disposition; the AF019/AF072/AF011/AF046 protected-seed clause dispositions;
 next supervisor pass should take these up. Push note: push_api.py now handles deletions
 (tree entries with sha: null) — proposal-file archiving no longer breaks the API push route.
+
+### Supervisor pass 6 (2026-10-20, supervisor-c0de5a17)
+
+Took the stale supervisor baton. Reserves p1x, p1y, p1z, p1za minted (30 principles each; 1,123 unassigned remain). Proposals from p1a, p1c, p1f, p1g, p1h and p1r applied. `enrich_apply.py` now inserts a new Related-concepts section before a trailing reflections comment (the earlier behaviour broke fcAuthored for 7 files, repaired). Namespace dispositions are in TASKBOARD.md: keep both Non-attachment and Nonattachment; "Openness and not knowing in skilled practice" is Category C and needs an owner decision (recommend folding into Deliberate practice and relinking D045 to Beginner's mind). QC sample: SO041 pass; E020 routed back to the p1w owner for over-claiming beyond the opened SEP page. Details are in the OPERATIONS.md QC log.
