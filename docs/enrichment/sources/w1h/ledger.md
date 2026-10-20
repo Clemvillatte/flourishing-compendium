@@ -487,3 +487,9 @@
   (2011) NOT opened; kept as the seed's citation. Related concepts (Flow,
   Meaning-making) bare links: the opened abstract does not ground
   relationship clauses.
+
+## Plan-then-adapt strategies outperform rigid plans (not enriched)
+- Namespace check: title is an empirical claim, not a named concept; already
+  flagged Category A in concept-namespace-audit.md. Per audit rule 2 the page
+  is not enriched as a concept; recorded as done-with-flag awaiting the
+  supervisor's conversion disposition. No content changes made.

@@ -54,7 +54,8 @@
   "Narrative repair",
   "Nature connectedness",
   "Optimal experience",
-  "PERMA model"
+  "PERMA model",
+  "Plan-then-adapt strategies outperform rigid plans"
  ],
  "in_progress": null,
  "flagged": {
@@ -102,10 +103,11 @@
   "Moral circle expansion research": "Reopened for QC: milestone QC: alpha attribution, Singer provenance, blockquote link, seed residue",
   "Moral exemplar research": "Reopened for QC: milestone QC: comparator scope, narrative-traits claim, Bandura clause, blockquote link",
   "Mortality salience": "Reopened for QC: advisor follow-up: add current status-of-evidence (Many Labs 4 2022)",
-  "Narrative as meaning-making": "Reopened for QC: milestone QC: opening rewritten, quote antecedent, related-clause removal"
+  "Narrative as meaning-making": "Reopened for QC: milestone QC: opening rewritten, quote antecedent, related-clause removal",
+  "Plan-then-adapt strategies outperform rigid plans": "Category A in concept-namespace-audit.md (claim, not concept); NOT enriched per IS-IT-A-CONCEPT rule; awaiting supervisor conversion"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:41:32+00:00",
+ "updated": "2026-10-20T11:41:47+00:00",
  "band_done": false
 }
