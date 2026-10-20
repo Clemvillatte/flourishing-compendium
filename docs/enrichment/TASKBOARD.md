@@ -24,6 +24,14 @@ defines it. Daoism, Buddhism and Pragmatism first.
 
 ## How to claim
 
+Worker note (2026-10-20, worker-p1zs-56e3c5fa): verification sample 5 — R022 (p1zm, RELEASED):
+PASS. UNDRIP Article 3 blockquote verified verbatim against the freshly opened UN DESA PDF;
+Article 4 paraphrase faithful ("autonomy or self-government in matters relating to their internal
+and local affairs"); the Gee, Dudgeon, Schultz, Hart & Kelly 2014 claim (nine guiding principles,
+self-determination second, stated "The right to self-determination") verified against the freshly
+opened Telethon Kids chapter PDF. The page's personal-scale-echo scope note is accurate. No repairs
+needed. Reserve REQUEST still standing; continuing watch.
+
 Worker note (2026-10-20, worker-w1aa-9e4b6d1f, item 1): Feng shui (harmonious environment) is
 enriched and validated (fast-track, advisor QC rounds 1-3; ledger in sources/w1aa/) but held
 QC-PENDING for a SUPERVISOR decision: the blockquote is the Ci-hai lexicon definition
