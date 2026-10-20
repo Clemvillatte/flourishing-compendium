@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 (Bratman et al., 2015), reduces rumination and subgenual prefrontal cortex activity.
 
-Nature exposure is contact with natural settings as a practice with measurable psychological effects. The concept's anchor study is Bratman and colleagues' 2015 experiment: a single 90-minute walk through grassland with scattered oaks reduced both self-reported rumination and activity in the subgenual prefrontal cortex, a brain region tied to the self-focused withdrawal that rumination runs on, while a matched walk along a busy urban street changed neither. The theory the study sits inside is attention restoration: natural environments hold attention effortlessly, letting the fatigued directed-attention system recover. The compendium's kernel keeps the prescription plain: green space, water, sky, weather on the skin, at least thirty minutes several times a week.
+Nature exposure is contact with natural settings as a practice with measurable psychological effects. The concept's anchor study is Bratman and colleagues' 2015 experiment: after a single 90-minute walk through grassland with scattered oaks, participants reported less rumination, and perfusion dropped in the subgenual prefrontal cortex, whereas a matched walk along a busy urban street showed no significant change on either measure. Rumination here is an outcome the study measured; the experiment did not establish it as a mediator of improved mental health. The attention-restoration theory the study's discussion draws on is neighboring theoretical context rather than a mechanism this experiment tested. The compendium's own practice schedule — green space, water, sky, weather on the skin, at least thirty minutes several times a week — is the kernel's prescription, a routine the compendium operationalizes around the single-walk experiment.
 
 ### The study (Bratman et al. 2015)
 
@@ -17,21 +17,21 @@ The result, in the paper's own words:
 
 > “We show in healthy participants that a brief nature experience, a 90-min walk in a natural setting, decreases both self-reported rumination and neural activity in the subgenual prefrontal cortex (sgPFC), whereas a 90-min walk in an urban setting has no such effects on self-reported rumination or neural activity.” (Bratman et al. 2015, [PNAS 112(28):8567-8572](https://pmc.ncbi.nlm.nih.gov/articles/PMC4507237/), abstract)
 
-The mechanism the study names is rumination, defined in the paper's own terms:
+The paper's definition of rumination, in its own terms:
 
-> “Rumination is a prolonged and often maladaptive attentional focus on the causes and consequences of emotions—most often, negative, self-relational emotions.” (same paper)
+> “Rumination is a prolonged and often maladaptive attentional focus on the causes and consequences of emotions—most often, negative, self-relational emotions.” (Bratman et al. 2015, [PNAS 112(28):8567-8572](https://pmc.ncbi.nlm.nih.gov/articles/PMC4507237/), introduction)
 
-The study is honest about its scope: thirty-eight healthy urban-dwelling participants, one walk, one brain region of interest. Its discussion connects the finding to the restorative-environments literature, whose measures include “somewhat effortless, ‘soft fascination’; the ‘sense of belonging’; and the ‘sense of being away’” — the Kaplan framework the compendium's attention-restoration material carries in full. The reduction in rumination is offered as one possible mechanism by which urbanization, which reduces opportunities for nature experience, may be linked to mental illness.
+The study is honest about its scope: thirty-eight healthy urban-dwelling participants, one walk, and the subgenual prefrontal cortex as the prespecified region of interest, with whole-brain analyses also reported. One qualification the Results section makes explicit: the self-report rumination difference between the groups was itself borderline as an interaction (the time-by-environment term reached P=.07, with a significant decrease within the nature group and no significant change within the urban group), whereas the sgPFC perfusion interaction was significant. The discussion connects the finding to the restorative-environments literature, whose measures include “somewhat effortless, ‘soft fascination’; the ‘sense of belonging’; and the ‘sense of being away’” ([same paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC4507237/), discussion) — the Kaplan framework the compendium's attention-restoration material carries in full. The authors offer the rumination reduction as one possible mechanism by which urbanization, which reduces opportunities for nature experience, may be linked to mental illness ([same paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC4507237/), discussion).
 
 ### In the compendium
 
-- [[K205 — Nature exposure]] — the kernel: green space, water, sky, weather on the skin; at least thirty minutes several times a week
+- [[K205 — Nature exposure]] — the kernel's prescription: green space, water, sky, weather on the skin; at least thirty minutes several times a week
 - [[AT038 — Use nature for attentional restoration — soft fascination]] — the principle carrying the soft-fascination theory
 - [[D040 — Return to the root daily (guigen)]] — the Daoist return-to-nature principle that links this concept
 
 ## Related concepts
 
-- [[Rumination]] — the mechanism the anchor study measured
+- [[Rumination]] — the outcome the anchor study measured
 - [[Attention restoration]] — the Kaplan framework the study's discussion draws on
 - [[Restorative environments]] — the literature of preferred restorative places
 - [[Green exercise (Barton, Pretty)]] — the exercise-plus-nature cousin
@@ -39,6 +39,10 @@ The study is honest about its scope: thirty-eight healthy urban-dwelling partici
 ## Sources
 
 - Bratman et al., 2015 — [Bratman, Hamilton, Hahn, Daily and Gross, Nature experience reduces rumination and subgenual prefrontal cortex activation, PNAS 112(28):8567-8572, doi 10.1073/pnas.1510459112, PMC4507237 (PMID 26124129)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4507237/)
+
+## Cited in psychology parallels
+
+- [[D040 — Return to the root daily (guigen)]]
 
 [[P163 — Practice creative hopelessness — let go of what isn't working]]
 [[AT038 — Use nature for attentional restoration — soft fascination]]

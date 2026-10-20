@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 (Desbordes et al., 2014), a trainable outcome of contemplative practice.
 
-Equanimity is the even-minded stance toward experience: neither grasping at the pleasant nor pushing away the unpleasant, so that whatever arises is met with the same steady attention. The review that put the term into circulation as a research construct defines it precisely, and the definition is quoted below. The Buddhist face is upekkha, the fourth of the four immeasurables; the Stoic face is the mind that judgments cannot reach. The traditions converge on the same warning: the state is not indifference, and mistaking it for indifference is the classic error.
+Equanimity is the even-minded stance toward experience: neither grasping at the pleasant nor pushing away the unpleasant, so that whatever arises is met with the same steady attention. A 2014 Mindfulness review defines it precisely for research use, and the definition is quoted below. The Buddhist face is upekkha, the fourth of the four immeasurables; the Stoic face is the soul that outward things do not reach, with whatever tumult arises coming from the opinion within. The classic error, on the review's account, is mistaking the state for indifference.
 
 ### The definition (Desbordes et al.)
 
@@ -17,19 +17,19 @@ The 2014 Mindfulness review's definition:
 
 > “Equanimity can be defined as an even-minded mental state or dispositional tendency toward all experiences or objects, regardless of their origin or their affective valence (pleasant, unpleasant, or neutral).” (Desbordes et al. 2014, [Mindfulness 6(2):356-372, PMC4350240](https://pmc.ncbi.nlm.nih.gov/articles/PMC4350240/), abstract)
 
-The review grounds the term in its Theravada sources, quoting them directly: equanimity is “a state of mind that cannot be swayed by biases and preferences” (Bodhi, 2000, page 34), an “even-mindedness in the face of every sort of experience, regardless of whether pleasure [or] pain are present or not” (Thanissaro Bhikkhu, 1996, page 262), and “a balanced reaction to joy and misery, which protects one from emotional agitation” (Bodhi, 2005, page 154). Its most practical contribution is temporal: “a primary ‘signature’ of equanimity is in the temporal domain, in the form of a more rapid disengagement from initial emotional response and faster return to baseline.” The review is emphatic on the near-enemy: indifference is warned against in the texts themselves, and “having equanimity does not mean suppressing emotions or giving up the affective coloring of our life experiences.”
+The review grounds the term in its Theravada sources, quoting them directly (the Buddhist quotations below are reproduced from the review, not checked against the originals): equanimity is “a state of mind that cannot be swayed by biases and preferences” (Bodhi, 2000, page 34), an “even-mindedness in the face of every sort of experience, regardless of whether pleasure [or] pain are present or not” (Thanissaro Bhikkhu, 1996, page 262), and “a balanced reaction to joy and misery, which protects one from emotional agitation” (Bodhi, 2005, page 154). The review's most practical proposal is temporal, in the authors' own words: “a primary ‘signature’ of equanimity is in the temporal domain, in the form of a more rapid disengagement from initial emotional response and faster return to baseline.” On the near-enemy the review is emphatic: indifference is "explicitly warned against as the 'near-enemy' of equanimity," deceptively similar but very different, and that “having equanimity does not mean suppressing emotions or giving up the affective coloring of our life experiences.”
 
 ### The Stoic face
 
 Marcus Aurelius' image for the stance:
 
-> “Thou must be like a promontory of the sea, against which though the waves beat continually, yet it both itself stands, and about it are those swelling waves stilled and quieted.” (Marcus Aurelius, Meditations IV.40, [George Long translation, Project Gutenberg ebook #2680](https://www.gutenberg.org/files/2680/2680-0.txt))
+> “Thou must be like a promontory of the sea, against which though the waves beat continually, yet it both itself stands, and about it are those swelling waves stilled and quieted.” (Marcus Aurelius, Meditations IV.40, [Casaubon translation, Project Gutenberg ebook #2680](https://www.gutenberg.org/files/2680/2680-0.txt))
 
 The book's account of why the stance is possible belongs to its fourth book as well:
 
-> “the things or objects themselves reach not unto the soul, but stand without still and quiet, and that it is from the opinion only which is within, that all the tumult and all the trouble doth proceed.” (Meditations IV.3, same translation)
+> “the things or objects themselves reach not unto the soul, but stand without still and quiet, and that it is from the opinion only which is within, that all the tumult and all the trouble doth proceed.” (Meditations IV.3, [Casaubon translation, Project Gutenberg ebook #2680](https://www.gutenberg.org/files/2680/2680-0.txt))
 
-The opinion, not the event, is where the trouble enters — the compendium's [[Judgment adds the harm]] page is this claim's home.
+The opinion, not the event, is where the trouble enters — the compendium's [[Judgment adds the harm]] page is this claim's home. A note on the source: the ebook's own appendix states the text was prepared from the 1634 and 1635 editions of Casaubon's translation, and George Long appears in it only in a bibliographic list of English translations.
 
 ### In the compendium
 

@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Distrust names and labels” — Laozi, Daodejing 1.
 
-Distrust names and labels is the warning that opens the Daodejing: whatever can be named is not the enduring thing itself. The chapter's wording is about the Tao, and the compendium's principle page for this teaching marks the step from that wording to everyday labels as interpretation rather than something the chapter itself claims. The Stoic pages in the concept's Cited-in list run the same direction: impressions are to be seen as appearances rather than realities, and interpretations are to be distinguished from facts. The concept's practical core is not to drop names, which are handles and useful ones, but to hold them as pointers whose fit is always open to checking.
+Distrust names and labels is the warning that opens the Daodejing: the name that can be given to the Tao is not the enduring and unchanging name. The compendium's principle page for this teaching marks the step from that wording to everyday labels as interpretation rather than something the chapter itself claims. The Stoic pages in the concept's Cited-in list run the same direction: impressions are to be seen as appearances rather than realities, and interpretations are to be distinguished from facts. The concept's practical core is not to drop names, which are handles and useful ones, but to hold them as pointers whose fit is always open to checking.
 
 ### The textual basis (Daodejing 1)
 
@@ -17,9 +17,11 @@ The opening lines of the Daodejing, in Legge's translation:
 
 > “The Tao that can be trodden is not the enduring and unchanging Tao. The name that can be named is not the enduring and unchanging name.” (Daodejing 1, Legge, [Project Gutenberg ebook](https://www.gutenberg.org/files/216/216-0.txt))
 
-Chapter 32 applies the point to the Tao itself:
+Chapter 32 applies the point to the Tao itself, in two separate parts of its argument:
 
-> “The Tao, considered as unchanging, has no name. As soon as it proceeds to action, it has a name.” (Daodejing 32, Legge, same text)
+> “The Tao, considered as unchanging, has no name.” (Daodejing 32.1, Legge, [same text](https://www.gutenberg.org/files/216/216-0.txt))
+>
+> “As soon as it proceeds to action, it has a name.” (Daodejing 32.4, Legge, [same text](https://www.gutenberg.org/files/216/216-0.txt))
 
 Both passages concern naming the Tao. The extension to the labels put on people, situations and selves is the compendium's use of the warning, and the D016 page says so plainly: the intent is prudent, but honesty requires noting that the passage does not itself make the everyday claim. That page's practice is concrete: ask what a label leaves out, describe the occasions it fits and the ones it does not, notice what using the label does, and test it against outcomes.
 

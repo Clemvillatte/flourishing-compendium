@@ -93,38 +93,10 @@
     },
     {
       "concept": "Equanimity",
-      "into": "Resilience",
-      "phrase": "equanimity and the Stoic art",
-      "source": "w1a worker-w1a-4c8e21d7",
-      "why": "body prose names the concept without linking it; rg-verified unique single-concept occurrence"
-    },
-    {
-      "concept": "Equanimity",
       "into": "Loneliness",
       "phrase": "equanimity where not",
       "source": "w1a worker-w1a-4c8e21d7",
       "why": "body prose names the concept without linking it; rg-verified unique single-concept occurrence"
-    },
-    {
-      "concept": "Morning intention",
-      "into": "Daily architecture",
-      "phrase": "a morning intention",
-      "source": "w1a worker-w1a-4c8e21d7",
-      "why": "Daily architecture's opening prose names the morning intention without linking the concept page; rg-verified unique occurrence"
-    },
-    {
-      "concept": "Nature exposure",
-      "into": "Environmental psychology",
-      "phrase": "nature exposure effects",
-      "source": "w1a worker-w1a-4c8e21d7",
-      "why": "prose names the concept with its own anchor citations without linking the concept page; rg-verified unique occurrence"
-    },
-    {
-      "concept": "Nature exposure",
-      "into": "Recovery science",
-      "phrase": "nature exposure",
-      "source": "w1a worker-w1a-4c8e21d7",
-      "why": "prose names the concept among recovery modes without linking the concept page; rg-verified unique occurrence"
     }
   ],
   "reciprocal": [
@@ -189,99 +161,83 @@
       "_audit_why": "page checked via rg for absence of the link; page not read in full this session"
     },
     {
-      "concept": "Distrust names and labels",
-      "target": "Cognitive defusion",
-      "source": "w1a worker-w1a-4c8e21d7",
+      "into": "Cognitive defusion",
+      "link": "Distrust names and labels",
       "why": "the defusion page names the word-experience fusion this concept warns about; reciprocal of the Related entry"
     },
     {
-      "concept": "Distrust names and labels",
-      "target": "Affect labeling",
-      "source": "w1a worker-w1a-4c8e21d7",
+      "into": "Affect labeling",
+      "link": "Distrust names and labels",
       "why": "the label-as-name-not-verdict distinction is the two pages' shared core; reciprocal of the Related entry"
     },
     {
-      "concept": "Distrust names and labels",
-      "target": "The limits of language",
-      "source": "w1a worker-w1a-4c8e21d7",
+      "into": "The limits of language",
+      "link": "Distrust names and labels",
       "why": "both pages treat names as less than what they point at; reciprocal of the Related entry"
     },
     {
-      "concept": "Distrust names and labels",
-      "target": "Language on holiday",
-      "source": "w1a worker-w1a-4c8e21d7",
+      "into": "Language on holiday",
+      "link": "Distrust names and labels",
       "why": "language idling vs doing work is the Wittgenstein counterpart of the Daoist warning; reciprocal of the Related entry"
     },
     {
-      "concept": "Holding as hypothesis",
-      "target": "Fallibilism",
-      "source": "w1a worker-w1a-4c8e21d7",
+      "into": "Fallibilism",
+      "link": "Holding as hypothesis",
       "why": "new Related entry; reciprocal of the concept's Related extension"
     },
     {
-      "concept": "Holding as hypothesis",
-      "target": "The discipline of assent",
-      "source": "w1a worker-w1a-4c8e21d7",
+      "into": "The discipline of assent",
+      "link": "Holding as hypothesis",
       "why": "new Related entry; reciprocal of the concept's Related extension"
     },
     {
-      "concept": "Holding as hypothesis",
-      "target": "The pragmatic maxim",
-      "source": "w1a worker-w1a-4c8e21d7",
+      "into": "The pragmatic maxim",
+      "link": "Holding as hypothesis",
       "why": "new Related entry; reciprocal of the concept's Related extension"
     },
     {
-      "concept": "Holding as hypothesis",
-      "target": "Workability",
-      "source": "w1a worker-w1a-4c8e21d7",
+      "into": "Workability",
+      "link": "Holding as hypothesis",
       "why": "new Related entry; reciprocal of the concept's Related extension"
     },
     {
-      "concept": "Morning intention",
-      "target": "The evening review",
-      "source": "w1a worker-w1a-4c8e21d7",
+      "into": "The evening review",
+      "link": "Morning intention",
       "why": "new Related entry; reciprocal of the concept's Related extension"
     },
     {
-      "concept": "Morning intention",
-      "target": "Implementation intentions",
-      "source": "w1a worker-w1a-4c8e21d7",
+      "into": "Implementation intentions",
+      "link": "Morning intention",
       "why": "new Related entry; reciprocal of the concept's Related extension"
     },
     {
-      "concept": "Morning intention",
-      "target": "Daily architecture",
-      "source": "w1a worker-w1a-4c8e21d7",
+      "into": "Daily architecture",
+      "link": "Morning intention",
       "why": "new Related entry; reciprocal of the concept's Related extension"
     },
     {
-      "concept": "Morning intention",
-      "target": "Right intention",
-      "source": "w1a worker-w1a-4c8e21d7",
+      "into": "Right intention",
+      "link": "Morning intention",
       "why": "new Related entry; reciprocal of the concept's Related extension"
     },
     {
-      "concept": "Nature exposure",
-      "target": "Rumination",
-      "source": "w1a worker-w1a-4c8e21d7",
+      "into": "Rumination",
+      "link": "Nature exposure",
       "why": "new Related entry; reciprocal of the concept's Related extension"
     },
     {
-      "concept": "Nature exposure",
-      "target": "Attention restoration",
-      "source": "w1a worker-w1a-4c8e21d7",
+      "into": "Attention restoration",
+      "link": "Nature exposure",
       "why": "new Related entry; reciprocal of the concept's Related extension"
     },
     {
-      "concept": "Nature exposure",
-      "target": "Restorative environments",
-      "source": "w1a worker-w1a-4c8e21d7",
+      "into": "Restorative environments",
+      "link": "Nature exposure",
       "why": "new Related entry; reciprocal of the concept's Related extension"
     },
     {
-      "concept": "Nature exposure",
-      "target": "Green exercise (Barton, Pretty)",
-      "source": "w1a worker-w1a-4c8e21d7",
+      "into": "Green exercise (Barton, Pretty)",
+      "link": "Nature exposure",
       "why": "new Related entry; reciprocal of the concept's Related extension"
     }
   ]
