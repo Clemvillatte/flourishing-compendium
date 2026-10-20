@@ -184,3 +184,9 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 - Quotes verified word-for-word except disclosed normalizations: OCR line-break hyphens joined; footnote digits dropped; double spaces collapsed. Page assignment: sutra 3.4 text + Vyasa gloss on p. 205, Tika on p. 206 (running-head boundary checked).
 - Woods' renderings followed (fixed-attention, contemplation, concentration, constraint) with a mapping note in the citation line; the seed's "binding, resting, absorption" replaced by Woods' terms in body and plain words. Zen parallel kept as inherited bare reference (unopened).
 - Saturation: Transfer of training concept already cites Y076 (checked, 1 match) - no reciprocal needed. [[Samadhi]] concept file does not exist in content/concepts/ (grep 0, file missing) - wikilink inherited, left as is; concept creation out of band scope. Validator ok.
+
+## Y078 (2026-10-21, worker-p1zz-b81e3f52)
+- Sources opened: Woods, Yoga-System of Patanjali (Internet Archive full text): YS 1.17, 1.18, 1.46, 1.50-51 with Vyasa and the Tika.
+- Quotes verified: all quoted spans checked against normalized text.
+- Seed repairs: the 1.18 versus 1.51 split is not the sutra's; Vyasa already calls the 1.18 state seedless. The one-minute practice is labelled as the page's own. Lutz 2008 and Cloud of Unknowing parallels not opened.
+- Saturation: low; single translation (Woods) used.
