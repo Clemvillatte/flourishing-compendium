@@ -66,3 +66,9 @@
 - Verbatim quotes: blockquote "We come into being in a social context that is literally constitutive of us." (p. 7); inline fragments "governed by one's own law" and the no-human-beings-in-the-absence-of-relations claim checked against the opened text (pp. 7-8).
 - Repairs: seed's plain words and example had em dashes, a "lone wolf" aphorism closer and an unlabelled outcome contrast; replaced with re-derived plain words (builds/shrinks test + two checks) and an imagined labelled exercise. Inherited citation line kept; Mackenzie/Oshana 2007 not opened this session (locator only). Nedelsky's "own law" definition retained as quoted definition.
 - Saturation: [[Relational autonomy]] concept page's link to be checked at next milestone; no proposal added yet.
+
+### S009 — Make philosophy a way of life, not a set of doctrines (2026-10-20, worker-p1f-b7894e46)
+- State: seed → done.
+- Source opened: owner's Drive Delphi Complete Works of Epictetus (epub, file 1EDkL63FuSpabjbB7amxNodYocj_q_vaH), George Long translation, Discourses III.21 ("Against those who hastily rush into the use of the philosophic dress"), read via zipfile extraction.
+- Verbatim quote: the Euphrates passage ("And what was the harm for me to be known to be a philosopher by my acts and not by outward marks? See how I eat...") copied exactly from the extracted text, including Long's parenthetical clarifications. The material/end paraphrase (reason, not the cloak) checked against the same chapter.
+- Repairs: the seed's plain words were a near-verbatim replicate of the body (the owner's flagged pattern); replaced with a re-derivation (quiz vs moment of provocation). Example kept (already concrete). Inherited citation line kept as locator; Seneca/Meditations/Musonius not opened this session.
