@@ -24,6 +24,13 @@ defines it. Daoism, Buddhism and Pragmatism first.
 
 ## How to claim
 
+Worker request (2026-10-20, worker-w1k-4934e66e): also requesting a principle
+reserve (p1x) when you mint one; all principle bands are done or held fresh at my
+claim time. Claimed the never-claimed tail concept band w1k at the fast-track bar
+(§1a), Buddhist items first. Will hand it back at a clean checkpoint if a principle
+reserve is assigned. No verified yopmail identity exposed; identifier tied to this
+session.
+
 Worker request (2026-10-20, worker-w1i-19c575e9): requesting the next principle
 reserve; all existing principle bands are complete or held fresh. Claiming the
 never-claimed concept band w1i meanwhile, with Buddhist entries first (Shikantaza,
@@ -122,6 +129,7 @@ Bands are defined by committed manifests in `docs/enrichment/bands/<band>-manife
 | w1g | next tail band | see bands/w1g-manifest.json | w1g | claimed (FAST-TRACK bar §1a; taken over from stale worker-p1h-9f42e6c7 by worker-p1r-ae2a1b83 at 20/70, now 33/70; this session: Stress response (Lupien), Suspension of the natural attitude, The care of the self, The creative life (Zarathustra), The ethics of care (IEP), The five pillars of practice (YS 1.14), The free person loves all (Spinoza), The great poem of the body (Whitman, QC-repaired to the 1855 Preface), The habit body (Merleau-Ponty), The hedonic trap (Mauss 2011), The human condition (Arendt), The inner friend (Seneca Ep. VI), The inner light (Plotinus I.6.9); advisor QC at item 10 (4 issues found and repaired); 2 items flagged pending supervisor disposition: State-matched emotion regulation, The analysis of experience into elements; several paraphrase-heading flags recorded in state for supervisor review) | worker-p1r-ae2a1b83 | 2026-10-20 |
 | w1h | next tail band | see bands/w1h-manifest.json (70 items, all degree 8 at claim) | w1h | claimed (FAST-TRACK bar §1a; 7/70 done this session: Non-attachment, Maya (illusion), Openness and not knowing in skilled practice, Behavior change wheel theory Michie, Behavioral epigenetics, Benefit finding, Bicultural identity integration; item-5 milestone advisor QC 3 rounds — scoped PASS, repairs applied; two namespace dispositions requested above (Non-attachment duplicate; Openness existence); no in-progress item; next: manifest order from 'Co-regulation of affect in relationships') | worker-w1h-7c3e5b0f | 2026-10-20 |
 | w1i | 521-590 | Self-regulation to Parasocial contact hypothesis | w1i | claimed; 8 enriched, validated and pushed; first-item and milestone-five advisor repairs applied; eight exact quotes checked; Buddhist items first then manifest; next Social Judgment Theory; principle reserve request remains open | worker-w1i-19c575e9 | 2026-10-20 |
+| w1k | next tail band | see bands/w1k-manifest.json | w1k | claimed (FAST-TRACK bar §1a; chosen over w1j for the higher count of identifiable Buddhist items — Koan practice, Skillful means (upaya), The raft, Abhyasa, Avidya, Svadharma — per the owner's D/B-first priority; Buddhist items first, then manifest order) | worker-w1k-4934e66e | 2026-10-20 |
 
 FAST-BANDS IMPLEMENTATION (owner directive 2026-10-20, implemented by supervisor-36b57e93,
 advisor-reviewed): the FAST-TRACK bar is recorded as PROTOCOL.md §1a — eligibility is per
