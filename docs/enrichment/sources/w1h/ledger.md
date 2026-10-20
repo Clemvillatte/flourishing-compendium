@@ -378,3 +378,22 @@
   chapter, pp. 753-754, 758). Validated ok with --fast-track --base 886ced77
   (pre-item baseline). Advisor scoped PASS on the revised passages; removed
   links are recorded here as QC history, not current page content.
+
+## Moral circle expansion research (fast-track)
+- Opened: Crimston, Bain, Hornsey and Bastian 2016, JPSP 111(4), 636-653
+  (peer-reviewed author copy PDF, Bath research portal) — "What is Moral
+  Expansiveness?" definition passage quoted verbatim; Singer 1981
+  moral-circle boundary fragment quoted verbatim as the paper's sentence;
+  historical-expansion claim from the abstract (attributed by the paper to
+  philosophers/historians/social scientists, NOT demonstrated by it);
+  MES structure (30 entities, 10 categories, four circles scored 3/2/1/0,
+  0-90 aggregate, alpha .92) and six-study predictive-validity results from
+  the abstract and "Measuring Moral Expansiveness" section. Section locators
+  used instead of page numbers (author-copy pagination not certified against
+  the published version).
+- Seed line "the tendency for moral concern to expand over historical time"
+  reframed in the body to the paper's scoped observation (noted by others,
+  not shown by this research); the paper's contribution is the individual-
+  differences measure. No In-the-compendium clauses (titles not opened);
+  Related concepts: The expanding circle (Singer 1981, named in the opened
+  paper), Moral identity (named as a comparison construct in the abstract).
