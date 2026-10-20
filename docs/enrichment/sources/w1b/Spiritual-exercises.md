@@ -69,3 +69,8 @@
   adjective 'spiritual' (or sometimes 'existential')...").
 - IEP quotation locator supplied: section 5 "Spiritual Practices" (verified by reading
   the entry's own section headings). Inline "(IEP)" replaced with a linked citation.
+
+## Advisor QC round 4 (2026-10-20): citation linking
+
+- Linked IEP citations added to the introductory sentence and to the named-exercises
+  sentence (section 5 "Spiritual Practices").
