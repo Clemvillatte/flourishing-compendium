@@ -26,9 +26,9 @@ Aristotle is careful with the claim even while making it. Whether reason is itse
 
 ### Plain words
 
-The claim is about rank: reason is the best thing in us, small in bulk, ahead of everything in power and worth ([NE X.7](http://classics.mit.edu/Aristotle/nicomachaen.10.x.html)). The instruction is to live in accordance with it as far as possible ([NE X.7](http://classics.mit.edu/Aristotle/nicomachaen.10.x.html)). For an exercise, consider what the passage might mean by "the best thing in us," and what would count as living in accordance with it.
+The claim is about rank: reason is the best thing in us, small in bulk, ahead of everything in power and worth ([NE X.7](http://classics.mit.edu/Aristotle/nicomachaen.10.x.html)). The instruction is to live in accordance with it as far as possible ([NE X.7](http://classics.mit.edu/Aristotle/nicomachaen.10.x.html)). For reflection, consider what the passage asks a person to do.
 
-For example: one reader takes "the best thing in us" to be the capacity for understanding; another takes it to include the capacity to act well. The passage does not settle the reading, and the exercise is to hold the question rather than close it. (An invented exercise.)
+For example: choose one sentence from the quoted passage and explain what it asks a person to do. Identify any terms you still need to understand.
 
 ## Stories
 
