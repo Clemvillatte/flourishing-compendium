@@ -12,18 +12,21 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 98** — Act, release the fruits
 
-The Gita's central verse and the tradition's clearest articulation of process over outcome: action alone is your right, never its fruits. The instruction is not to abandon outcomes (the tradition immediately adds effort toward good outcomes) but to release the ego's lien on them, because the lien is what converts effort into anxiety. Practically, for your most important current project, define your part (inputs, quality, consistency) and the world's part (response, timing, results), and sign only your part.
+Arnold's rendering of the Gita's central verse:
 
-(BG 2.47.)
+> "Let right deeds be Thy motive, not the fruit which comes from them. And live in action! Labour! Make thine acts Thy piety, casting all self aside, Contemning gain and merit; equable In good or evil: equability Is Yog, is piety!" ([Bhagavad Gita 2.47-2.48, Arnold translation](https://www.gutenberg.org/ebooks/2388))
 
-**Plain words** The Gita's central verse: action alone is your right, never its fruits. Not abandoning outcomes — the tradition immediately adds effort toward good ones — but releasing the ego's lien on them, because the lien is the suffering. Work fully; sign nothing over to your self-worth.
+The instruction is not to abandon outcomes; the same breath says Labour. It is to release the self's lien on them. The compendium's application: for your most important current project, define your part, the inputs, the quality, the consistency, and the world's part, the response, the timing, the results, and sign only your part.
 
-*For example:* Two candidates prep identically for the exam — one's identity rides on the result, one's doesn't. Same marks possible; only one of them can survive either outcome. The lien was never on the exam; it was on the self.
+**Plain words** Work at the thing as if the result mattered, because it does; just do not make the result the thing you are working for. The verse's own test: the motive should be the rightness of the deed, and the fruit that comes from it is another matter.
+
+*For example:* Two candidates prep identically for the exam; one's identity rides on the result, the other's does not. Same marks possible for both, and only one of them is calm whichever way it goes.
 ## Psychology parallels
 
-- **[[Process versus outcome focus|Process versus outcome focus]]**, the performance literature showing process focus under pressure outperforms outcome focus
+- **[[Process versus outcome focus|Process versus outcome focus]]** (the performance literature)
 
 ## Philosophy parallels
 
 - **[[Nishkama karma|Nishkama karma]]** (the Gita's own term; Vivekananda's Karma Yoga, modern)
-- **[[The reserve clause|The reserve clause]]** (Marcus Aurelius, Meditations 4.1)- **[[Karma yoga|Karma yoga]]** (Yoga-Vedanta)
+- **[[The reserve clause|The reserve clause]]** (Marcus Aurelius, Meditations 4.1)
+- **[[Karma yoga|Karma yoga]]** (Yoga-Vedanta)
