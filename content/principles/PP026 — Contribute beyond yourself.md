@@ -12,13 +12,21 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 ---
 > **Principle 26** — Contribute beyond yourself
 
-Contribution to something larger than oneself, whether through work, relationships, community, or creative work, predicts well-being. The contribution does not need to be grand. It needs to be real: an act that extends beyond the self and into the world. Research on generativity (Erikson, McAdams) shows that concern for the next generation predicts well-being in later life.
+McAdams and de St. Aubin define generativity by seven features: "cultural demand, inner desire, generative concern, belief in the species, commitment, generative action, and personal narration" (McAdams & de St. Aubin, 1992, Journal of Personality and Social Psychology 62(6), 1003-1015, abstract as quoted on [SciSpace](https://scispace.com/papers/a-theory-of-generativity-and-its-assessment-through-self-2t8h9767og)). Their self-report scale showed "strong positive associations with reports of actual generative acts (e.g., teaching a skill) and themes of generativity in narrative accounts of important autobiographical episodes".
 
-(McAdams and de St. Aubin, 1992.)
+The evidence on well-being is correlational but consistent. A study using the MIDUS survey reports that "Greater self-perceptions of generativity are associated with better well-being over time", and that "Generative failure was associated with lower life satisfaction, a link that was strongest in the middle-aged and young-old" ([Journal of Gerontology B, 2018, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7328033/)). Among retirees followed over time, "higher scores on generativity at Time 1 significantly predicted eudaimonic wellbeing at Time 2" ([Journal of Personality, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC5690892/)). Neither source tests whether small acts count, so the claim that contributions "needn't be grand" rests on the wiki's own reasoning.
 
-**Plain words** Contributing to something beyond yourself, through work, relationships, community or creation, predicts well-being. It needn't be grand, just real. Generativity, caring about the next generation, is especially tied to it in midlife and later.
+**Plain words**
+Doing something for people or things beyond yourself, such as work, parenting, mentoring or creating, tends to go with better well-being. Falling short of what you hoped to give is linked to lower life satisfaction. Pick one real way to contribute.
 
-*For example:* Mentoring a younger colleague for an hour a week, with no credit.
+**For example**
+A retired electrician starts teaching a neighbour's teenager basic wiring on Saturdays.
+
+## Sources
+
+- [McAdams & de St. Aubin (1992), A theory of generativity and its assessment, J. Pers. Soc. Psychol. 62(6), 1003-1015](https://scispace.com/papers/a-theory-of-generativity-and-its-assessment-through-self-2t8h9767og): abstract opened; full text not opened
+- [Failure to Meet Generative Self-Expectations is Linked to Poorer Cognitive-Affective Well-Being, J. Gerontol. B (2018)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7328033/): abstract opened
+- [On the quality of adjustment to retirement: The longitudinal role of personality traits and generativity, J. Pers. 86(3), 435-449](https://pmc.ncbi.nlm.nih.gov/articles/PMC5690892/): abstract opened
 
 ## Stories
 

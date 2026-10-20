@@ -19,3 +19,7 @@
 ## PP020
 - Ericsson, Krampe & Tesch-Romer (1993) Psychol Rev 100:363-406 full text (NYT-hosted PDF) opened, 3 quotations grep-verified; Macnamara et al. (2014) Psychol Sci abstract via PubMed (24986855).
 - Limits: statement's 'immediate feedback at the edge of one's ability' phrase not found verbatim; body quotes the actual wording on teacher-supervised progression. Macnamara critique reported. Example hypothetical.
+
+## PP026
+- McAdams & de St Aubin (1992): abstract via SciSpace page (search-result text opened; two quotes verbatim); Gerontol B 2018 (PMC7328033, PMID 29878249) and J Pers 2018 (PMC5690892): PMC pages fetched, quotes grep-verified.
+- Limits: McAdams 1992 full text not opened; Erikson not opened; statement 'contribution need not be grand' and 'predicts well-being' (correlational) only partly supported; body says so. Example hypothetical.
