@@ -17,7 +17,8 @@
   "Community",
   "Community psychology theory",
   "Competence motivation",
-  "Complexity theory in psychology"
+  "Complexity theory in psychology",
+  "Component Process Model of Emotion"
  ],
  "in_progress": null,
  "flagged": {
@@ -37,10 +38,11 @@
   "Community": "fast-track; evidence: SEP Communitarianism by Daniel Bell (plato.stanford.edu, revision 7 June 2024), section 1 locator on both quotes; MacIntyre passage quoted as Bell's description of After Virtue; After Virtue not consulted (noted in Sources); Peirce Collected Papers inherited citation moved into Sources, unverified; document-meta closer and unsupported glosses removed",
   "Community psychology theory": "fast-track; evidence: APA Community Psychology 4th ed. open sample chapter (apa.org link); definition and person-in-context p. 3, sense of community and Exhibit 1.1 p. 24, empowerment p. 27 (locators re-verified); sense of community and empowerment framed as two of eight core values; Scarpa/Orford inherited seed citation kept in Sources as not opened; advisor QC round 1 repairs complete",
   "Competence motivation": "fast-track; evidence: White 1959 Psychological Review open PDF (greatquestion.com.au link), two fetches this session; competence definition p. 297, effectance naming p. 320, deficit-motive p. 321, difference-in-sameness p. 322, selective/directed/persistent p. 323, efficacy passages p. 329, all verbatim with page locators; no advisor QC due (item 16; next QC at item 20)",
-  "Complexity theory in psychology": "fast-track; evidence: Dayioglu 2025 Psychometrika review of van der Maas Complex-Systems Research in Psychology (PMC12805186) opened this session, psychology-specific framing and feature sentences verbatim; Sturmberg 2017 Complexity Sciences (PMC7187952) opened for sensitivity-to-initial-conditions and self-organisation passages verbatim (general complexity source, attributed as such); no advisor QC due (item 17; next QC at item 20)"
+  "Complexity theory in psychology": "fast-track; evidence: Dayioglu 2025 Psychometrika review of van der Maas Complex-Systems Research in Psychology (PMC12805186) opened this session, psychology-specific framing and feature sentences verbatim; Sturmberg 2017 Complexity Sciences (PMC7187952) opened for sensitivity-to-initial-conditions and self-organisation passages verbatim (general complexity source, attributed as such); no advisor QC due (item 17; next QC at item 20)",
+  "Component Process Model of Emotion": "fast-track; evidence: Scherer 2001 Oxford chapter open PDF (acousticslab.org link) opened this session; CPM definition, four SEC appraisal objectives and sequential-check framing verbatim; seed's check names mapped to the four objectives (relevance/implications/coping potential/normative significance) with the mapping stated in one sentence; no advisor QC due (item 18; next QC at item 20)"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T07:03:25+00:00",
+ "updated": "2026-10-20T07:04:14+00:00",
  "band_done": false
 }
