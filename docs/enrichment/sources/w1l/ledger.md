@@ -768,3 +768,11 @@ convention).
 - No In-the-compendium block (fast-track bar; Cited-in lists preserved).
 - Saturation: fast-track exemption; no reciprocal proposed.
 - QC: validator ok at fast-track profile; no advisor QC (item 14; next at item 15).
+
+## Judging by where one rests (fast-track, genuineflourishing01, 2026-10-20)
+- Degree 5 at selection (principles A031/A038/S071/Y128; story ST010) — fast-track eligible per §1a.
+- Source opened: Analects "Wei Zheng" chapter, Legge translation, Chinese Text Project (https://ctext.org/analects/wei-zheng/zh), prompt-based extraction — verse 2.10 verified verbatim in the fetched text ("See what a man does. Mark his motives. Examine in what things he rests. How can a man conceal his character? How can a man conceal his character?"). Chinese original also displayed on the page (視其所以，觀其所由，察其所安。人焉廋哉？人焉廋哉？); no pinyin romanizations asserted in the page body.
+- The interpretation paragraph (actions performable, reasons rehearsable, resting place harder to manage) is a gloss of the verse's own rhetorical question, presented as the verse's argument, not as Legge's or a scholar's commentary.
+- No In-the-compendium block (fast-track bar; the four principle links and the story link preserved in their inherited sections).
+- Saturation: fast-track exemption; no reciprocal proposed.
+- QC: validator ok at fast-track profile. ADVISOR QC due (15th item of session) — running next.
