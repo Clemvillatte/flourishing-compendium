@@ -23,11 +23,12 @@ Bhagavad Gita 4.38 calls knowledge an unequalled purifier. It describes a person
 *For example:* (Imagined application.) After a yoga session, a practitioner notices disappointment at having no new insight and chooses to return to their practice without setting a deadline for one.
 ## Psychology parallels
 
-- **Implementation of knowledge as behavior change**, the intention-behavior gap and its bridges (Sheeran, 2002)
+- Sheeran (2002).
 
 ## Philosophy parallels
 
-- **Virtue is knowledge** (Socrates, in Plato's Protagoras)- **[[Plain words over beautiful|Plain words over beautiful]]**
+- Plato, Protagoras.
+- **[[Plain words over beautiful|Plain words over beautiful]]**
 - **[[The strong claim of the loud voice|The strong claim of the loud voice]]**
 - **[[Virtue|Virtue as action]]**
 - **[[Virtue|Virtue as habituated action]]**
