@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 65** — Cultivate compassion: it is sustainable empathy plus concern
 
-The article distinguishes two responses to another's suffering. Empathic distress "refers to a strong aversive and self-oriented response to the suffering of others, accompanied by the desire to withdraw from a situation in order to protect oneself from excessive negative feelings" ([Singer & Klimecki, 2014](https://bvppt.org/media/singer_klimecki_current_biology_2014.pdf)). "Compassion, on the other hand, is conceived as a feeling of concern for another person's suffering which is accompanied by the motivation to help" ([Singer & Klimecki, 2014](https://bvppt.org/media/singer_klimecki_current_biology_2014.pdf)). The authors note that "exposure to the distress and suffering of others can lead to two different emotional reactions," with empathic distress associated with withdrawal and compassion with "approach and prosocial motivation" ([Singer & Klimecki, 2014](https://bvppt.org/media/singer_klimecki_current_biology_2014.pdf)). The exercise below contrasts the two responses.
+The article distinguishes two responses to another's suffering ([Singer & Klimecki, 2014](https://bvppt.org/media/singer_klimecki_current_biology_2014.pdf)). Empathic distress "refers to a strong aversive and self-oriented response to the suffering of others, accompanied by the desire to withdraw from a situation in order to protect oneself from excessive negative feelings" ([Singer & Klimecki, 2014](https://bvppt.org/media/singer_klimecki_current_biology_2014.pdf)). "Compassion, on the other hand, is conceived as a feeling of concern for another person's suffering which is accompanied by the motivation to help" ([Singer & Klimecki, 2014](https://bvppt.org/media/singer_klimecki_current_biology_2014.pdf)). The authors note that "exposure to the distress and suffering of others can lead to two different emotional reactions," with empathic distress associated with withdrawal and compassion with "approach and prosocial motivation" ([Singer & Klimecki, 2014](https://bvppt.org/media/singer_klimecki_current_biology_2014.pdf)). The exercise below contrasts the two responses.
 
 > Compassion, on the other hand, is conceived as a feeling of concern for another person's suffering which is accompanied by the motivation to help.
 >
@@ -26,7 +26,7 @@ The article distinguishes two responses to another's suffering. Empathic distres
 
 ### Plain words
 
-The paper draws the line between two responses to suffering: one shares the distress and pulls back; the other feels concern and moves toward help ([Singer & Klimecki, 2014](https://bvppt.org/media/singer_klimecki_current_biology_2014.pdf)). For an exercise, take one situation of facing another's suffering and write both responses: what the shared feeling is like, and what the concern with its motivation looks like.
+Sharing someone's sadness is not, by itself, the self-oriented response and desire to withdraw described here as empathic distress ([Singer & Klimecki, 2014](https://bvppt.org/media/singer_klimecki_current_biology_2014.pdf)). For reflection, write separately what you felt during a difficult encounter and what you wanted to do, without assuming that either description determines the other.
 
 For example: a hospice volunteer writing two sentences about a hard visit, one describing the shared grief and one describing what they did out of concern; the exercise is writing both. (An invented illustration.)
 ## Psychology parallels
