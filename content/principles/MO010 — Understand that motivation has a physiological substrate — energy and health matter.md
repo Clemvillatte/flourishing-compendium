@@ -17,7 +17,7 @@ The clearest evidence that motivation rides on the body comes from illness. Dant
 Two further lines of evidence come from reviews I opened only as abstracts. Alhola and Polo-Kantola review sleep deprivation and cognitive performance ([abstract](https://pubmed.ncbi.nlm.nih.gov/19300585/)). Ratey and Loehr review how physical activity influences "frontal lobe-mediated cognitive processes, such as planning, scheduling, inhibition, and working memory" ([abstract](https://pubmed.ncbi.nlm.nih.gov/21417955/)). Both concern cognition, not motivation itself, so they support the principle only indirectly.
 
 **Plain words**
-Willpower is partly a bodily matter. When you are ill, sleep-starved or run down, your drive falls, and that is part of how the body copes. Before concluding you have lost your motivation, check sleep, illness, food and movement.
+Willpower is partly a bodily matter. When you are ill, sleep-starved or run down, your drive falls, and that is part of how the body copes. Before concluding you have lost your motivation, check sleep and illness first.
 
 **For example**
 After a week of bad sleep you stop wanting to do things you normally enjoy. The sensible first step is a few early nights, not a pep talk.
