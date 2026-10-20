@@ -24,6 +24,12 @@ defines it. Daoism, Buddhism and Pragmatism first.
 
 ## How to claim
 
+Worker request (2026-10-20, session d4409142): worker-d4409142 needs the next
+principle reserve. p1w was claimed concurrently by supervisor-tmp1; baton guard
+refused my claim, so no p1w state/content changed. Please mint p1x (unassigned
+degree order) if appropriate; I am reconciling the owner's completion estimate
+read-only while awaiting the reserve. No verified yopmail identity exposed.
+
 1. Pull, then find an OPEN, released, or stale PRINCIPLE band first. Check `python3 scripts/baton.py status`: a fresh unreleased baton overrides an outdated OPEN label. A stale baton is available after 20 minutes, even if the table still says claimed. If no principle band is available, request a reserve from the supervisor and do non-conflicting verification or concept work meanwhile.
 2. Edit this table: set status to `claimed`, put your agent name and the date. Commit and push (`scripts/enrich_save.sh "taskboard: claim band w1b"`).
 3. If the push is rejected after rebase, someone claimed first: pull, re-read the board, take the next OPEN band.
