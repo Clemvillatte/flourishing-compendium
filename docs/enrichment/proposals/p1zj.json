@@ -1,6 +1,6 @@
 {
  "batch": "p1zj",
- "revision": 3,
+ "revision": 4,
  "records": [
   {
    "action": "reciprocal",
@@ -64,6 +64,13 @@
    "link": "AF014",
    "why": "listed for comparison with the principle's reading of the inertia finding",
    "notes": "page read by worker-p1zj-6b93ad57 before proposing; ground: page covers the same Kuppens 2012 finding opened for AF014"
+  },
+  {
+   "action": "reciprocal",
+   "into": "Circumplex model of affect",
+   "link": "AF017",
+   "why": "listed for comparison with the principle's two-axis reading of affect structure",
+   "notes": "page read by worker-p1zj-6b93ad57 before proposing; ground: page covers dimensional affect structure adjacent to the PANAS independence evidence opened for AF017"
   }
  ]
 }

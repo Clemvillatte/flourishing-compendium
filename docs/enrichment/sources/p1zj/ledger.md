@@ -25,3 +25,9 @@ Band: AF002..BE033, 30 principles, degree order (queue 628-673). Advisor QC cade
 - Removed unsupported claims: "stronger predictor of depression than a feeling that fluctuates but is intense" (not established by the opened source; Houben 2015 meta-effect comparison not opened); "affect has stopped responding to the environment".
 - Plain words: replicate fixed; example replaced with labelled imagined case. Inherited parallels (Kuppens 2010; Houben 2015) kept as unopened flagged parallels.
 - Proposals: reciprocal into Emotional inertia theory (listed for comparison; page read before proposing).
+
+## AF017 — Recognise that positive and negative affect are not opposite ends of one axis
+- Evidence: Watson, Clark & Tellegen 1988 PANAS abstract (pubmed.ncbi.nlm.nih.gov/3397865), fetched this session. Both quoted fragments verified verbatim: "two dominant and relatively independent dimensions" and "highly internally consistent, largely uncorrelated, and stable at appropriate levels over a 2-month time period".
+- Removed unsupported claims: "You can be high in both (exhilarated and anxious) or low in both (empty, numb)" (coactivation claim not in the opened source); replaced with the uncorrelated-axes reading, labelled as the compendium's practical reading. Inherited parallels (Treadway & Zald 2011 anhedonia; depression low-PA-high-NA) kept as unopened flagged parallels.
+- Plain words: replicate fixed; example replaced with labelled imagined case.
+- Proposals: reciprocal into Circumplex model of affect (listed for comparison; page read before proposing).

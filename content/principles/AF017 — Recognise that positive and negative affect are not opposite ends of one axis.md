@@ -12,11 +12,16 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 17** — Recognise that positive and negative affect are not opposite ends of one axis
 
-You can be high in both (exhilarated and anxious) or low in both (empty, numb). Reducing negative affect does not automatically increase positive affect; increasing positive affect does not automatically reduce negative affect. Interventions that target one do not necessarily move the other.
+The evidence the principle rests on is a measurement result. In the scale that became standard for this work, Watson, Clark and Tellegen report that "positive and negative affect have consistently emerged as two dominant and relatively independent dimensions," and that their two 10-item scales are "highly internally consistent, largely uncorrelated, and stable at appropriate levels over a 2-month time period" ([Watson, Clark & Tellegen, 1988, PANAS scales, abstract](https://pubmed.ncbi.nlm.nih.gov/3397865/)). Two largely uncorrelated axes do not trade off: a drop on one axis is not a rise on the other. The compendium's practical reading follows: the two sides of mood are two accounts, and calming the negative account does not by itself fund the positive one.
 
-**Plain words** Positive and negative affect are not one axis — you can be high in both (exhilarated AND anxious) or low in both (empty, numb). Reducing negative doesn't automatically increase positive. Treat them as two accounts, and fund both.
+**Plain words** Getting rid of the bad mood is a different job from building a good one. A person can end the panic and still have nothing in the place of it. Check both numbers when you check in: how heavy the negative side is today, and how much positive is actually running.
 
-*For example:* The person who successfully eliminates the anxiety — and finds themselves not happy but blank. The anxiety account was drained; the joy account was never opened. The two ledgers need two different transactions.
+*For example:* (Imagined case.) Someone spends a month calming anxiety with breathing exercises and succeeds, then reports feeling flat. Nothing in the independence claim says the positive side fills in when the negative side calms down; the compendium's reading is that it needs its own deposits.
+
+## Sources
+
+- [Watson, D., Clark, L. A., & Tellegen, A. (1988). Development and validation of brief measures of positive and negative affect: The PANAS scales. Journal of Personality and Social Psychology 54(6), 1063-1070, abstract](https://pubmed.ncbi.nlm.nih.gov/3397865/) — the two-axis structure claim quoted above
+
 ## Psychology parallels
 
 - **Independence of positive and negative affect**, the two are not mirror images; depression is characterised by low positive affect and high negative affect, not just high negative affect (Watson et al., 1988)
