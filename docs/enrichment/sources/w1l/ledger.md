@@ -389,3 +389,55 @@ to the supervisor (content passed review).
   creativity (deg 1).
 - Saturation: fast-track exemption; no reciprocal proposed.
 - QC: validator ok.
+
+## Milestone QC round (item 15, 2026-10-20) — advisor round 1 FAIL, repairs applied
+
+Advisor milestone QC on "Divergent and convergent thinking" plus transcript
+review. Round 1 FAIL; repairs applied to five items:
+
+- Divergent and convergent thinking: central distinction now grounded via
+  the opened Jaarsveld and Lachmann 2017 article (PMC5292426) — blockquote
+  is now the Cropley/Guilford definitions of both constructs; the SOI
+  attribution is now the article's own dated sentence ("Guilford (1967)
+  introduced convergent and divergent thinking as part of a set of five
+  operations..."); the 1950 fluency passage kept as supporting background
+  with its journal locator (American Psychologist 5(9):444-454); "research
+  programme gave to creative cognition" and "compendium's seed line"
+  phrasing removed; Four-C clause reduced to a bare link; PP051 clause
+  grounded in its body ("novel and appropriate" definition).
+- Digital well-being: central definition now grounded via the opened Burr,
+  Taddeo and Floridi 2020 review (PMC7417400) — blockquote is now their
+  definition sentence; "most-cited" claim deleted; Halfmann and Rieger
+  characterization removed (citation kept inherited); related-concept
+  clauses reduced to bare links.
+- Delay plus reappraisal: BLOCKED at the concept-existence gate — the label
+  is not a named construct in the opened literature; body reduced to
+  supported interim material (extended process model framing + Gross
+  p. 15 tactics passage); unsupported delay-prevents-response and
+  anger-most-used claims removed; Stoic pairing clauses removed (links
+  kept); namespace disposition flagged and routed to the supervisor.
+  Gross citation reconciled: the fetched article's reference list
+  identifies "Gross (2015, p. 15)" as "Emotion regulation: Current status
+  and future prospects", Psychological Inquiry 26(1):1-26 (NOT the 130-137
+  elaborations article named in an earlier ledger entry); page and ledger
+  corrected.
+- Death acceptance: quotation repair — the fetched sentence contains the
+  bracketed reference marker "Wong et al. [13] developed"; blockquote
+  replaced with a contiguous marker-free fragment (the three-type list).
+- Deliberation as rehearsal: quotation repair — the source sentence begins
+  "We begin with a summary assertion that deliberation is..."; blockquote
+  now reproduces the complete sentence instead of silently re-capitalizing.
+- Process: start transitions to be pushed immediately before research (not
+  batched with the item save); saves no longer piped through tail or
+  retried via success-string loops (exit status preserved, ancestry
+  verified after each save); sources counter reconciled to 19 (7 new:
+  Jansen PMC6740004, Isaacowitz PMC11423774, Dewey Gutenberg 41386, Calvin
+  PMC13341170, Guilford 1950 PDF, Jaarsveld/Lachmann PMC5292426,
+  Burr/Taddeo/Floridi PMC7417400).
+- Pending supervisor dispositions: Following nature's rhythms (Category A),
+  Cultural dimensions theory Hofstede (title rename), Delay plus
+  reappraisal (concept-existence). 15 state-file completions are not 15
+  accepted concepts: the three flagged pages await supervisor disposition.
+
+All five repaired files revalidated (5 checked, 0 failed after one
+validator-caught lost-link restore: [[Anger]] kept as a bare link).

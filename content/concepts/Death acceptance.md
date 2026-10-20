@@ -7,9 +7,9 @@ file: "Death acceptance"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-D"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter D", "parent": ""}
 ---
-Death acceptance, in Paul Wong's research programme, names attitudes toward death that go beyond fear and avoidance. The Death Attitude Profile-Revised (DAP-R; Wong, Reker and Gesser, 1994) measures five dimensions, and three of them are types of acceptance.
+Death acceptance, in Paul Wong's research programme, names attitudes toward death that go beyond fear and avoidance. The Death Attitude Profile-Revised (DAP-R; Wong, Reker and Gesser, 1994) measures five dimensions, and three of them are types of acceptance:
 
-> "Wong et al. developed the Death Attitude Profile-Revised and identified three types of death acceptance: Neutral Acceptance (accepting death as a natural process of life), Approach Acceptance (looking forward to a blessed afterlife) and Escape Acceptance (accepting death as a better alternative to present sufferings)." (Jansen et al., [German version of the Death Attitudes Profile-Revised](https://pmc.ncbi.nlm.nih.gov/articles/PMC6740004/), BMC Psychology 7:61, 2019, describing the DAP-R)
+> "Neutral Acceptance (accepting death as a natural process of life), Approach Acceptance (looking forward to a blessed afterlife) and Escape Acceptance (accepting death as a better alternative to present sufferings)." (the three death-acceptance types of the DAP-R, as listed in Jansen et al., [German version of the Death Attitudes Profile-Revised](https://pmc.ncbi.nlm.nih.gov/articles/PMC6740004/), BMC Psychology 7:61, 2019)
 
 ### What differs across the three
 

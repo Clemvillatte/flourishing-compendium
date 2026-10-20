@@ -12,8 +12,8 @@
   "Creative values",
   "Right association",
   "Death acceptance",
-  "Delay plus reappraisal",
   "Deliberation as rehearsal",
+  "Delay plus reappraisal",
   "Digital well-being",
   "Divergent and convergent thinking"
  ],
@@ -23,10 +23,13 @@
   "Cultural dimensions theory Hofstede": "title: garbled author-suffix title per the concept-verification queue; concept verified (Hofstede 6D model, geerthofstede.com URL added); rename to 'Cultural dimensions theory' is a metadata action routed to the supervisor",
   "Compassion-focused therapy": "Reopened for QC: milestone-10 advisor QC: blockquote citation reconstruction + B052 clause",
   "Creative values": "Reopened for QC: milestone-10 advisor QC: creative-values label grounding + chapters wording",
-  "Right association": "Reopened for QC: milestone-10 advisor QC: verse line breaks + mechanism claim"
+  "Right association": "Reopened for QC: milestone-10 advisor QC: verse line breaks + mechanism claim",
+  "Delay plus reappraisal": "namespace: label not a named construct in opened literature (advisor milestone-15); body reduced to supported interim material (extended process model + Gross p.15 tactics passage); supervisor disposition requested",
+  "Digital well-being": "Reopened for QC: milestone-15 advisor QC: central definition now grounded (Burr/Taddeo/Floridi 2020); most-cited claim and Halfmann-Rieger characterization removed; related links bare",
+  "Divergent and convergent thinking": "Reopened for QC: milestone-15 advisor QC: central distinction now grounded (Jaarsveld/Lachmann definitions + SOI 1967 passage); 1950 quote kept as background with locator; unsupported history removed"
  },
  "missing_concepts": [],
- "sources_checked": 12,
- "updated": "2026-10-20T07:18:31+00:00",
+ "sources_checked": 19,
+ "updated": "2026-10-20T07:23:07+00:00",
  "band_done": false
 }

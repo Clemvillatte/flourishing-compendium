@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Deliberation as rehearsal is John Dewey's account of what happens when action gets blocked: competing habits and impulses are tried out in imagination instead of in overt fact. The account comes from Human Nature and Conduct, Part Three, Section III, "The Nature of Deliberation".
 
-> "Deliberation is a dramatic rehearsal (in imagination) of various competing possible lines of action. It starts from the blocking of efficient overt action, due to that conflict of prior habit and newly released impulse to which reference has been made. Then each habit, each impulse, involved in the temporary suspense of overt action takes its turn in being tried out." (Dewey, [Human Nature and Conduct](https://www.gutenberg.org/files/41386/41386-h/41386-h.htm), Project Gutenberg ebook #41386)
+> "We begin with a summary assertion that deliberation is a dramatic rehearsal (in imagination) of various competing possible lines of action. It starts from the blocking of efficient overt action, due to that conflict of prior habit and newly released impulse to which reference has been made. Then each habit, each impulse, involved in the temporary suspense of overt action takes its turn in being tried out." (Dewey, [Human Nature and Conduct](https://www.gutenberg.org/files/41386/41386-h/41386-h.htm), Project Gutenberg ebook #41386)
 
 ### Why imagination is the right stage
 
