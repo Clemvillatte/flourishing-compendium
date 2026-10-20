@@ -12,11 +12,21 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 ---
 > **Principle 38** — Understand the better-than-average effect: you think you are above average
 
-Most people rate themselves as above average on desirable traits (driving, intelligence, fairness, health). This is statistically impossible and reflects a self-enhancement bias. It is robust but moderated by culture (weaker in East Asian cultures).
+Svenson's study found that majorities of its American and Swedish participants rated themselves as safer and more skilful than the median driver in their comparison group ([“Are we all less risky and more skillful than our fellow drivers?”, Results](https://gwern.net/doc/psychology/cognitive-bias/1981-svenson.pdf)). A preregistered replication also found above-average self-ratings, while changing the setting, comparison group and response scales ([Koppel and colleagues, 2023, abstract and Method](https://mgto.org/wp-content/uploads/2023/05/Koppel-et-al-2023-Svenson1981-replication-extension-print.pdf)).
 
-**Plain words** The better-than-average effect: most people rate themselves above average on desirable traits — driving, intelligence, fairness. Statistically impossible, robustly observed. Someone in every room is below average at driving, and everyone in the room is sure it's the others.
+> Our results indicate that the majority of participants rated their driving skill and safety as above average.
 
-*For example:* The driver who's "above average" — along with 90% of the drivers on the road — and the simple test that recalibrates: when did you last get genuinely surprised by another driver's behaviour? If the answer is "today," the average has a message for you.
+(Koppel and colleagues, “We are all less risky and more skillful than our fellow drivers,” abstract; [opened text](https://mgto.org/wp-content/uploads/2023/05/Koppel-et-al-2023-Svenson1981-replication-extension-print.pdf).)
+
+### Plain words
+
+Ask what comparison you are making and what evidence you have for your place in it. Feeling competent does not tell you how other people perform.
+
+For an entire comparison group, more than half cannot rank strictly above that group's median; the mean is a different measure. The experiments collected self-ratings, not direct driving-performance tests ([Svenson, Method; Koppel and colleagues, Measures](https://gwern.net/doc/psychology/cognitive-bias/1981-svenson.pdf)).
+
+### For example
+
+Suppose you describe yourself as an unusually safe driver. In a refresher lesson, you could ask an instructor for specific observations rather than treating your self-description as the assessment.
 ## Psychology parallels
 
 - **[[Better-than-average effect / illusory superiority|Better-than-average effect / illusory superiority]]**, most people rate themselves above average (Svenson, 1981; Dunning et al., 1989)
