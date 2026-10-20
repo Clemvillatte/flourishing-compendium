@@ -19,8 +19,9 @@
 - IS-IT-A-CONCEPT / namespace check: the term is a named parable of a primary source
   (Zhuangzi ch. 2) — not a principle, not a comparison, not a hallucination. No entry
   in concept-namespace-audit.md (checked by grep at the time). The page is on the
-  concept-verification-queue (s2, 74w listing) and now carries a citable source URL,
-  per queue rule 5. ST002 overlap resolved as DISTINCT roles: ST002 is the story-page
+  concept-verification-queue (s2, 38w; verified by grep during the item-5 QC round) and
+  now carries a citable source URL. Note: the queue's detector is run by the
+  supervisor; removal from it awaits the supervisor's rerun, not this band. ST002 overlap resolved as DISTINCT roles: ST002 is the story-page
   retelling (narrative + interpretive gloss, ctext.org link); this concept page is the
   link target nine principles cite and carries the verbatim primary text with locator.
 - Validation: --fast-track ok (concept <15 connections; prose minimum waived; all other
@@ -40,7 +41,8 @@
   grounded in the opened canonical simile — not a principle, comparison, or
   hallucination. No entry in concept-namespace-audit.md (grep — performed during the
   item-5 QC review, after this entry was first written; the claim holds). The page is on
-  the concept-verification-queue (s2, 27w) and now carries a citable source URL.
+  the concept-verification-queue (s2, 27w) and now carries a citable source URL; queue
+  detector removal awaits the supervisor's rerun.
   Distinct from ST075 (story retelling; note: ST075's DN 22 citation is loose — the
   opened DN 22 page has no monkey passage; flagged here for the supervisor, not edited
   by me).
@@ -55,13 +57,16 @@
 ## Spontaneous right action (2026-10-20, fast-track; degree 9 — eligible)
 
 - OPENED: Youngmin Kim, "Wang Yangming (1472—1529)", Internet Encyclopedia of Philosophy
-  https://iep.utm.edu/wangyang/ — Section 4 retrieved twice via prompted extraction
-  (NOT a raw-page read; both quoted passages were returned identically by both
-  extractions of fresh and cached fetches). The Chuanxi Lu's standard English
-  translation (Chan 1963) is in copyright with no open full text; the verbatim quotes
-  are Wang's words as quoted in the opened IEP article. The article's references
-  include Chan's translation but do not tie it to these specific quotes — an initial
-  claim that IEP "draws on Chan" for them was removed as unverified.
+  https://iep.utm.edu/wangyang/ — initially retrieved twice via prompted extraction;
+  during the item-5 QC round the full page was ALSO fetched unprompted and read
+  directly (all three quoted passages verified in the raw page content, including
+  "There have never been people who know but do not act...", "If you want to know
+  bitterness, you have to eat a bitter melon yourself", and "a fundamental mode of
+  human life", plus the article's own spelling "zhixing heyi"). The Chuanxi Lu's
+  standard English translation (Chan 1963) is in copyright with no open full text; the
+  verbatim quotes are Wang's words as quoted in the opened IEP article. The article's
+  references include Chan's translation but do not tie it to these specific quotes —
+  an initial claim that IEP "draws on Chan" for them was removed as unverified.
 - REPAIR (item-5 milestone QC): the blockquote and Sources attribution initially said
   "Wang Yangming, Chuanxi Lu"; repaired to name the quoting source (Wang Yangming,
   quoted by Youngmin Kim, IEP section 4). Reopened, validated, closed again.
@@ -70,7 +75,8 @@
   the compendium's own heading, not a term the opened source uses. Flagged for
   supervisor disposition: rename to the tradition's own term or keep as thematic
   heading. No entry in concept-namespace-audit.md (grep at QC review); on the
-  concept-verification-queue (s2, 66w), now with a citable source URL.
+  concept-verification-queue (s2, 66w), now with a citable source URL; queue detector
+  removal awaits the supervisor's rerun.
 - Validation: --fast-track ok (concept <15 connections; prose minimum waived; all other
   checks pass; pre-existing "fewer than 3 Related-concepts lines" warning is inherited).
   Build ok (5718 entries, fcAuthored 976).
@@ -92,7 +98,8 @@
   passage grounds the seasonal image of the sage's emotional life but does not use this
   phrase as a named term. Flagged for supervisor disposition alongside the other w1g
   title questions. No entry in concept-namespace-audit.md (grep at QC review); on the
-  concept-verification-queue (s2, 74w), now with a citable source URL.
+  concept-verification-queue (s2, 74w), now with a citable source URL; queue detector
+  removal awaits the supervisor's rerun.
 - Validation: --fast-track ok (concept <15 connections; prose minimum waived; all other
   checks pass). Build ok (5718 entries, fcAuthored 976).
 
@@ -101,8 +108,16 @@
 - OPENED: Dhammapada, Cittavagga (The Mind), verses 33-43, trans. Acharya Buddharakkhita,
   Access to Insight https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.03.budd.html —
   retrieved twice (cached and fresh), both prompted extractions returning the full
-  chapter identically; verse 35 used verbatim, verses 33 and 43 paraphrased in the
-  closing sentence. Same translation and site already used by B065 (consistency).
+  chapter identically; during the item-5 QC round the page was ALSO fetched unprompted
+  and read directly (verse 35 verified verbatim in the raw page content, plus the page's
+  own citation block and copyright notice). Verse 35 used verbatim, verses 33 and 43
+  paraphrased in the closing sentence. Same translation and site already used by B065
+  (consistency).
+- EQUIVALENCE CHECK (advisor order): Thanissaro's parallel translation of the same
+  chapter (https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.03.than.html, fetched and
+  read) renders Dhp 35 as "The mind well-tamed brings ease" — "trained" is not
+  documented as an equivalent in any opened source. No equivalence invented; the title
+  question is flagged (state flagged map + audit file worker flags).
 - Advisor QC (item 5 of band): verdict was save-as-WIP with blocking corrections —
   opening rewritten per the advisor's text ("Buddhist ideal" generalisation and
   "precisely because" explanation removed); verse verification repeated against a second
@@ -112,7 +127,8 @@
   chapter says "tamed", "guarded", "well-directed" mind). Flagged for supervisor
   disposition: rename or keep as thematic heading. No entry in
   concept-namespace-audit.md (grep at QC review); on the concept-verification-queue
-  (s2, 68w), now with a citable source URL.
+  (s2, 68w), now with a citable source URL; queue detector removal awaits the
+  supervisor's rerun.
 - Validation: --fast-track ok (concept <15 connections; prose minimum waived; all other
   checks pass). Build ok (5718 entries, fcAuthored 976).
 
@@ -137,3 +153,37 @@
   the butterfly are named by their traditions (canonical simile; named parable).
 - Standing supervisor item from this round: ST075's DN 22 citation is loose (no monkey
   passage in the opened DN 22 page) — not edited by me (story namespace).
+
+## Milestone QC round 2 (2026-10-20, advisor verification)
+
+- All round-2 blocking corrections applied and pushed:
+  1. Raw verification without prompts: the ATI Dhammapada Cittavagga page and the IEP
+     Wang Yangming page were each fetched again with NO prompt and read directly;
+     every quoted passage (verse 35; the Wang quotes and "a fundamental mode of human
+     life") verified in the raw page content. The IEP article's own spelling
+     "zhixing heyi" is now used on the Spontaneous right action page.
+  2. Both heading-attribution openings rewritten to attribute the teaching to the
+     text/doctrine rather than presenting the page heading as the tradition's term:
+     "Wang Yangming's doctrine of the unity of knowledge and action (zhixing heyi)
+     holds that..."; "In the Zhuangzi's chapter 6 portrait of the True Men of old...".
+  3. Title flags now written into docs/enrichment/concept-namespace-audit.md under
+     "Worker flags (pending supervisor disposition)" for Spontaneous right action,
+     The trained mind, and The natural rhythm of warmth and cool (with queue rank,
+     opened-source evidence, and rename-or-keep framing). ST075's loose DN 22 citation
+     also flagged there (story namespace, not edited by me).
+  4. State holds recorded: all three titles flagged via the state script's flag command
+     (pending supervisor disposition). They count as done-and-flagged, NOT as fully
+     accepted; namespace gate unresolved by design.
+  5. "The trained mind" equivalence check: Thanissaro's parallel translation (opened,
+     read) renders Dhp 35 "well-tamed" — no opened source documents "trained" as the
+     equivalent, so none was invented; flagged instead.
+  6. Butterfly ledger queue claim corrected (s2, 38w — verified by grep, not assumed);
+     all four entries' queue phrasing changed to "detector removal awaits the
+     supervisor's rerun" instead of "drop off the queue".
+  7. Butterfly acceptance status recorded honestly: round-1 verdict was NOT READY,
+     repairs applied without a subsequent scoped PASS; the round-2 review did not
+     reopen the butterfly item (its prose was found supported; no further prose
+     correction was required), which is recorded here as the advisor's scoped content
+     finding, not as an explicit "scoped PASS".
+- Standing items for the supervisor: 4 reciprocal proposals in proposals/p1h.json
+  (unchanged); 3 w1g title dispositions (audit worker flags section); ST075 citation.

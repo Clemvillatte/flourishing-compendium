@@ -7,7 +7,7 @@ file: "The natural rhythm of warmth and cool"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The natural rhythm of warmth and cool is a Daoist image from the Zhuangzi for the sage's emotional life. In the chapter's portrait of the True Men of old, their coldness was like autumn and their warmth like spring, with joy and anger assimilated to the four seasons. ([Zhuangzi, ch. 6, Legge translation](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
+In the Zhuangzi's chapter 6 portrait of the True Men of old, their coldness was like autumn and their warmth like spring, with joy and anger assimilated to the four seasons. ([Zhuangzi, ch. 6, Legge translation](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
 
 > "Whatever coldness came from them was like that of autumn; whatever warmth came from them was like that of spring. Their joy and anger assimilated to what we see in the four seasons." (Zhuangzi, chapter 6, section 1, Legge translation, [ETH Zurich PDF](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
 

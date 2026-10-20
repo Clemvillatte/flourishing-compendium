@@ -9,11 +9,12 @@
  ],
  "in_progress": null,
  "flagged": {
-  "Spontaneous right action": "Reopened for QC: advisor milestone QC: attribution repaired to the quoting source (IEP section 4); validate and close again",
-  "The natural rhythm of warmth and cool": "Reopened for QC: advisor milestone QC: remove unsupported 'each in its season' inference from closing sentence"
+  "Spontaneous right action": "title pending supervisor disposition: compendium heading, not the tradition's term (zhixing heyi); flagged in concept-namespace-audit.md worker flags",
+  "The natural rhythm of warmth and cool": "title pending supervisor disposition: compendium heading over a real Zhuangzi ch.6 image; flagged in audit worker flags",
+  "The trained mind": "title pending supervisor disposition: Dhammapada says tamed/guarded/well-directed mind; 'trained' equivalence undocumented in opened sources; flagged in audit worker flags"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T04:54:08+00:00",
+ "updated": "2026-10-20T04:57:09+00:00",
  "band_done": false
 }

@@ -109,6 +109,30 @@ mind, Premeditatio malorum). The concepts namespace must NOT contain:
 - Identified motivation (SDT)
 - Introjected motivation (SDT)
 
+## Worker flags (pending supervisor disposition)
+
+Enriched and sourced in band w1g (2026-10-20, worker-p1h-9f42e6c7): each page below now
+carries a citable source URL, so it meets the verification queue's verification bar, but
+the page TITLE is the compendium's own heading rather than the tradition's term for the
+teaching. Renaming is a supervisor decision per rule 3 (garbled-title fix); these are NOT
+proven hallucinations and the underlying teachings are real and defined in the opened
+sources.
+
+- Spontaneous right action (queue s2, 66w) — the opened IEP article defines Wang
+  Yangming's doctrine as the unity of knowledge and action (zhixing heyi); "spontaneous
+  right action" is not a term the article uses. Rename candidate or keep as heading.
+- The trained mind (queue s2, 68w) — the opened Dhammapada Cittavagga says "tamed mind",
+  "guarded mind", "well-directed mind" (Buddharakkhita; Thanissaro's parallel
+  translation also says "well-tamed", checked 2026-10-20); "trained" is not documented
+  as an equivalent in any opened source. Rename candidate or keep as heading.
+- The natural rhythm of warmth and cool (queue s2, 74w) — the opened Zhuangzi ch. 6
+  passage grounds the seasonal image but does not use this phrase as a named term.
+  Rename candidate or keep as heading.
+
+Also flagged (story namespace, not edited by the worker): ST075 cites DN 22 for the monkey
+simile, but the opened DN 22 page (Thanissaro, accesstoinsight.org) contains no monkey
+passage; the canonical simile is at SN 12:61/12:62 (see w1g ledger).
+
 ## Owner-cited good examples (the standard)
 
 The having mode; Beginner's mind; Premeditatio malorum; Awe; Flow.

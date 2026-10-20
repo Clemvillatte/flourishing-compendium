@@ -7,7 +7,7 @@ file: "Spontaneous right action"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-S"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-Spontaneous right action is Wang Yangming's teaching that genuinely knowing the good already issues in acting. In his doctrine of the unity of knowledge and action, knowledge is the activation of innate moral knowledge (liangzhi) in contact with a situation, and action is responding to that situation; action is not an operation subsequent to knowledge but, in the account of the encyclopedia article, "a fundamental mode of human life." ([IEP, "Wang Yangming"](https://iep.utm.edu/wangyang/))
+Wang Yangming's doctrine of the unity of knowledge and action (zhixing heyi) holds that genuinely knowing the good already issues in acting. Knowledge is the activation of innate moral knowledge (liangzhi) in contact with a situation, and action is responding to that situation; action is not an operation subsequent to knowledge but, in the account of the encyclopedia article, "a fundamental mode of human life." ([IEP, "Wang Yangming (1472—1529)"](https://iep.utm.edu/wangyang/))
 
 > "There have never been people who know but do not act. Those who are supposed to know but do not act simply do not yet know." (Wang Yangming, quoted by Youngmin Kim, [IEP, "Wang Yangming (1472—1529)"](https://iep.utm.edu/wangyang/), section 4)
 
