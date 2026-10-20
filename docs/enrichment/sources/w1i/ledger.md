@@ -58,6 +58,22 @@ a principle reserve from the active supervisor.
 - Saturation: fast-track exemption used. No reciprocal proposed.
 - QC: source comparison and validator before done; milestone advisor sample pending.
 
+## Self-regulation
+
+- Track: fast-track, current degree 10 (2 concepts and 8 principles).
+- Opened 2026-10-20:
+  https://www.cambridge.org/core/books/on-the-selfregulation-of-behavior/14606DD9FB32DA230927C08B331BEF84/listing .
+  Search: Carver Scheier self regulation feedback goal adjustment review.
+- Access: publisher-hosted opening chapter summaries/excerpts, not full book.
+  Definition/quote in ch. 5, scope in ch. 1, limited disengagement in ch. 11,
+  and the authors' explicit caveat in Preface.
+- Quote: complete ch. 5 sentence beginning “Life, in this framework.”
+- Replaced uninformative Gross attribution with the named, opened model. Other
+  legacy bibliography and research-topic facets retained, not certified.
+  Reduced unsupported relation gloss to its protected bare link.
+- Saturation: fast-track exemption. No new backlink or reciprocal.
+- QC: source comparison and preservation validator before done.
+
 ## Non-dual awareness
 
 - Track: fast-track, current degree 7 (all principles).
