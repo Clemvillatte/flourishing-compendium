@@ -122,3 +122,18 @@ Claim and state transitions are pushed separately for interruption safety.
   unverified. Existing wikilinks and protected comments are unchanged.
 - Saturation: Self as process already links D159 in body and cited-in list;
   no redundant proposal added.
+
+## D173: Accept the world's dirt (2026-10-20)
+
+- Opened https://www.gutenberg.org/files/216/216-h/216-h.htm ,
+  Daodejing 78.1-3. Four-line quotation reproduces the verse in 78.3
+  verbatim, including apostrophe and punctuation. Legge has altars' lord,
+  not the inherited body phrase "lord of the valley". Title preserved.
+- Modern account of responsibility is explicitly an application bounded
+  against accepting abuse, false blame or concealing wrongdoing. Imagined
+  event-notice example makes no team-loyalty prediction.
+- Opened https://classics.mit.edu/Antoninus/meditations.6.six.html .
+  Replaced inherited Marcus paraphrase-in-quotes with Long's exact 6.6
+  sentence. No claim of doctrinal identity with the Daodejing is added.
+- Removed the unverified feedback mechanism. Swann, feedback and Augustine
+  parallels remain unverified. Protected reflection comment unchanged.
