@@ -4,8 +4,11 @@
   "BI020"
  ],
  "in_progress": null,
- "flagged": {},
+ "flagged": {
+  "BI020": "Reopened for QC: QC correction: advisor round-1 repairs (invented curve/mechanism, plain-words guarantee, example outcomes, inherited overclaims)"
+ },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:24:36+00:00"
+ "updated": "2026-10-20T11:27:15+00:00",
+ "band_done": false
 }
