@@ -12,13 +12,19 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 50** — Practise perceptiveness (aisthesis)
 
-Phronesis depends on the capacity to perceive the salient features of a situation: what matters, what is at stake, what is called for. This perceptiveness is trainable. Practise noticing what others miss. The practically wise person sees what the situation requires before they can articulate why.
+Practical wisdom, in Book VI of the Ethics, keeps turning toward the particular. "Nor is practical wisdom concerned with universals only-it must also recognize the particulars; for it is practical, and practice is concerned with particulars." Aristotle illustrates with the doctor: knowing that light meats are wholesome "would not produce health", while "the man who knows that chicken is wholesome is more likely to produce health." Error, likewise, can sit in the particular: "we may fall to know either that all water that weighs heavy is bad, or that this particular water weighs heavy." ([Nicomachean Ethics VI.7-8, Ross translation, MIT Classics](http://classics.mit.edu/Aristotle/nicomachaen.6.vi.html))
 
-(NE VI.8, VI.11, II.9.)
+The grasp of the last, variable fact is even called a kind of perception: "of these therefore we must have perception, and this perception is intuitive reason." And the experienced are credited with an eye:
 
-**Plain words** Wise action starts with seeing what matters in a situation. Aristotle says that perceptiveness can be trained. So practise noticing what others miss. The wise person often sees what's needed before they can say why.
+> "Therefore we ought to attend to the undemonstrated sayings and opinions of experienced and older people or of people of practical wisdom not less than to demonstrations; for because experience has given them an eye they see aright." ([NE VI.11, Ross translation, MIT Classics](http://classics.mit.edu/Aristotle/nicomachaen.6.vi.html))
 
-*For example:* A host who notices the quiet guest hasn't been included, and gently draws her in, is seeing what's called for.
+The Greek word behind Ross's "perception" here is aisthesis. The practically wise see the situation's requirement in a form that is not yet demonstration; the eye is given by experience.
+
+The compendium's exercise: after a meeting or meal, write down one thing that mattered in the room that no one said aloud, and check it later against what proved to matter.
+
+**Plain words** Wise action starts with seeing what matters in a situation. Aristotle's word for this seeing is aisthesis: perception. The wise are not those with more rules but those with a trained eye for the particular case, an eye that experience gives.
+
+*For example (imagined):* A host notices a quiet guest has not been included and draws her into the conversation.
 
 ## Psychology parallels
 
@@ -29,7 +35,6 @@ Phronesis depends on the capacity to perceive the salient features of a situatio
 
 - **Return to the things themselves** (Husserl, Ideas I)
 - **[[Perception as action|Perception as action]]** (Varela, Thompson and Rosch, The Embodied Mind)- **[[Aisthesis|Aisthesis]]** (Aristotelianism)
-
 
 <!-- fc: reflections
 What did you notice recently that others in the room missed? How did you come to see it?
