@@ -12,13 +12,19 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 125** — Dwell nowhere (non-abiding)
 
-Don't fixate any position, any identity, any moment: let attention move freely, abiding nowhere in particular.
+The Diamond Sutra grounds the term in Subhuti's own epithet. The reason he is called Joyful Abider-in-Peace, Dweller-in-Seclusion-in-the-Forest is not that he abides in peace; the text says he abides nowhere (Diamond Sutra, Section IX, Price/Wong translation, [text](https://ia802808.us.archive.org/18/items/the_diamond_sutra_english/the_diamond_sutra_english.pdf)). Huineng's Platform Sutra makes non-abiding one of three foundations of the teaching, alongside no-thought and no-form, and defines it in two lines: "non-abiding is people's original nature" and "Upon all Dharmas, without dwelling on the thoughts as they follow each other, then there will be no bondage" (Platform Sutra of the Sixth Patriarch, trans. Tony Chen, [Terebess edition](https://terebess.hu/zen/platf.pdf)).
 
-(Diamond Sutra, ch. 10; Huineng.)
+> "This is because Subhuti abides nowhere: therefore he is called, 'Subhuti, Joyful Abider-in-Peace, Dweller-in-Seclusion-in-the-Forest.'" (Diamond Sutra, Section IX, Price/Wong translation, [text](https://ia802808.us.archive.org/18/items/the_diamond_sutra_english/the_diamond_sutra_english.pdf))
 
-**Plain words** Don't fixate any position, any identity, any moment — let attention move freely, abiding nowhere in particular. Non-abiding isn't restlessness; it's not getting stuck. A guest in every room, including the rooms of your own opinions.
+The two texts agree on the direction: thoughts continue, and the practice concerns where the mind dwells on them, not whether they occur. Neither passage instructs you to leave your house or your roles. The exercise the compendium takes is narrower: when a thought, an opinion or a mood keeps getting rebuilt as a residence, notice the rebuilding and let the next thought pass without becoming its tenant.
 
-*For example:* The traveler who loves every city and clings to none — the memories are richer precisely because the grip was lighter.
+### Plain words
+
+A defended opinion works like a residence: you keep the lights on, you patrol the edges. Non-abiding is the alternative Huineng describes: thoughts still succeed each other, and you do not dwell on them as they pass. You can state a view, hear the counterargument, and change if the case changes. The next thought does not have to inherit the argument.
+
+### For example
+
+Imagine believing a colleague's idea will fail, and saying so in a meeting. The test of non-abiding is not whether you defend the prediction; it is whether you can drop it the moment the project succeeds, without re-arguing the past.
 
 ## Stories
 
