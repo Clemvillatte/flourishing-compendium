@@ -7,15 +7,15 @@ file: "Executive function theory Miyake"
 tags: ["theory", "psych/cognition"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-COGNITION"], "alternatePaths": []}
 ---
-**Executive function theory Miyake** — Miyake, Friedman — one influential account separates executive function into three correlated but separable functions: inhibition, shifting and updating.
+**Executive function theory Miyake** — Miyake, Friedman — the three selected functions tested in the 2000 study, inhibition, shifting and updating, were correlated yet separable.
 
-Executive functions are the control processes that regulate thought and behavior in the service of goals. The 2000 study by Akira Miyake and colleagues tested three selected executive functions and found them correlated yet separable, using latent variable analysis: 137 college students performed simple tasks chosen to tap each candidate function, alongside frequently used executive tasks such as the Wisconsin Card Sorting Test and the Tower of Hanoi.
+Executive functions are high-level cognitive processes, often associated with the frontal lobes, that control lower level processes in the service of goal-directed behavior ([Friedman and Miyake, 2017, abstract](https://pubmed.ncbi.nlm.nih.gov/27251123/)). The 2000 study tested three selected executive functions and found them correlated yet separable, using latent variable analysis: 137 college students performed simple tasks chosen to tap each candidate function, alongside frequently used executive tasks such as the Wisconsin Card Sorting Test and the Tower of Hanoi.
 
 > "Confirmatory factor analysis indicated that the three target executive functions are moderately correlated with one another, but are clearly separable. Moreover, structural equation modeling suggested that the three functions contribute differentially to performance on complex executive tasks." (Miyake, Friedman, Emerson, Witzki, Howerter and Wager, [The unity and diversity of executive functions and their contributions to complex "Frontal Lobe" tasks: a latent variable analysis, Cognitive Psychology 41 (2000), pp. 49-100, abstract](https://pubmed.ncbi.nlm.nih.gov/10945922/))
 
 ### The triad
 
-The three functions are mental set shifting, information updating and monitoring, and inhibition of prepotent responses. The paper's closing line is that both the unity and the diversity of executive functions need recognizing: the three correlate moderately, yet each contributes differently to complex tasks, with card sorting leaning on shifting, the Tower of Hanoi on inhibition, and operation span on updating.
+The three functions are mental set shifting, information updating and monitoring, and inhibition of prepotent responses. The paper's closing line is that both the unity and the diversity of executive functions need recognizing: the three correlate moderately, yet each contributes differently to complex tasks, with card sorting leaning on shifting, the Tower of Hanoi on inhibition, and operation span on updating ([Miyake et al., 2000, abstract](https://pubmed.ncbi.nlm.nih.gov/10945922/)).
 
 ### In the compendium
 
@@ -49,3 +49,4 @@ Cognition · Psychological science
 ## Sources
 
 - [Miyake, Friedman, Emerson, Witzki, Howerter and Wager, "The unity and diversity of executive functions and their contributions to complex 'Frontal Lobe' tasks: a latent variable analysis", Cognitive Psychology 41 (2000), pp. 49-100, PubMed record 10945922](https://pubmed.ncbi.nlm.nih.gov/10945922/) — the triad definition, the separability finding and the differential contributions
+- [Naomi P. Friedman and Akira Miyake, "Unity and diversity of executive functions: Individual differences as a window on cognitive structure", Cortex 86 (2017), pp. 186-204, PubMed record 27251123](https://pubmed.ncbi.nlm.nih.gov/27251123/) — the definition of executive functions

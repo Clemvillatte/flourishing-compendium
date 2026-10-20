@@ -114,3 +114,17 @@
   Envy 28a99ddf^, EF e7595556^). Raw front-matter bytes identical; link occurrences
   with multiplicity: none lost. This replaces the earlier second-history-entry
   method and is the documented preservation check.
+
+## Milestone QC round 3 — repairs applied (items flagged QC-pending in state)
+- Envy: D117/D026 clauses grounded by opening Legge's Tao Teh King ch. 3 (Gutenberg
+  216) and quoting it verbatim inline; Schadenfreude/Mudita annotations made bare;
+  inline citation added to the sample-results sentence.
+- Emotional suppression: seed line now the precise Butler Study 2 finding with
+  immediate abstract citation; interpersonal costs attributed to Butler's
+  experiments only; 1993 and 2003 sentences carry inline citations.
+- Executive function: bold lead scoped to "the three selected functions tested in
+  the 2000 study"; general EF definition now cited to Friedman & Miyake 2017
+  (PubMed 27251123, opened); task-mapping sentence carries inline citation.
+- Baseline description corrected: the parent-of-first-edit comparison establishes
+  TEXT and LINK-OCCURRENCE preservation (raw front-matter bytes identical, no link
+  occurrences lost); it is not claimed as a whole-file raw-byte comparison.
