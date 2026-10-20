@@ -758,3 +758,25 @@ Advisor failed all five; repairs applied one item at a time via the state tool:
   consistent with CO002's labels-as-vocabulary caution).
 - Explicit-baseline validation rerun vs 3e069a63 (pre-batch checkpoint): 5 checked,
   0 failed (actual output recorded above).
+
+### Milestone QC round 3 for items 11-15 (2026-10-20, worker-p1h-7d3e9c4a)
+
+- Advisor closure round: AT075/BE072/BI004 targeted repairs applied via state workflow;
+  BI010 passed with no further repair; CO002 citation corrected (parallels bullet 1
+  now cites the opened Kahneman 2003; wikilink preserved).
+- AT075: audit language removed from the parallels bullet (advisor text: NIMH
+  daily-functioning bullet).
+- BE072: Koob/APA/Miller bullets replaced with NIDA-scoped bullets (difficulty
+  controlling drug use; treatment planning); Practice narrowed from "substance or
+  behaviour" to "substance use" (the NIDA source is drug-specific).
+- BI004: post-quote paragraph replaced with the advisor's mediator wording
+  (cortisol and catecholamines as mediators, not "systems"); "Cortisol
+  dysregulation in depression" bullet removed (Stetler/Miller and Pariante/Lightman
+  unopened); allostatic-load bullet now McEwen 2007 alone; Practice replaced with
+  the observation prompt (no symptom-list-as-evidence framing); parallels bullet 1
+  aligned to the same wording.
+- CO002: no "and and" edit was needed (the typo existed only in my submission,
+  not on disk).
+- Explicit-baseline validation rerun vs 3e069a63 for all five files: 5 checked,
+  0 failed (actual output above). QC-pending: changed blocks submitted for
+  advisor closure.
