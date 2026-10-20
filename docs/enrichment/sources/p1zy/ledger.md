@@ -25,3 +25,7 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 ## Y023 (2026-10-21)
 - Woods HOS 17 pp. 209-211 (3.9-3.11 and commentary; page from the "209]" and "211]" heads). Quotes verified. 3.12 not read.
 - The old text said "each mental event reinforces the tendency that produced it: restraint strengthens restraint, indulgence strengthens indulgence". The opened commentary says this only of meditative restriction vs emergence impressions; the general and relational application is the principle's own reading, and the page says so. Plain words replicate replaced; example imagined and labelled as modern illustration. Self-QC only.
+
+## Y025 (2026-10-21)
+- Arnold, Song Celestial (Gutenberg 2388) ch. 6 (Arjuna's wind passage; Krishna's reply "restrained by habit... By wont of self-command"); Woods YS 1.12 (pp. 34-35) and 1.35 (p. 72). Quotes verified; Arnold's verse line breaks joined and line-initial capitals lowered.
+- Old text said the Gita's answer is "practice and dispassion" (BG 6.35); Arnold's rendering says habit and self-command; the practice-and-passionlessness pair is verified at YS 1.12. The old cite YS 1.35 is about steadying via a sense-activity linked to an object, not restlessness as such; page says so. "Weather" is the principle's image, labelled. Plain words replicate replaced; example imagined. Self-QC only.
