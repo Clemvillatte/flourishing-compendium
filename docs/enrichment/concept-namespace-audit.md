@@ -59,6 +59,10 @@ mind, Premeditatio malorum). The concepts namespace must NOT contain:
   No additional standalone enrichment cycles are needed; the worker can continue priority
   principles while the supervisor coordinates the cross-band migration.
 
+## Pending dispositions (worker-flagged, supervisor decision required)
+
+- Judging by where one rests (w1l, flagged 2026-10-20 by genuineflourishing01): Analects 2.10 passage and its three observations VERIFIED (Legge via ctext, quote verbatim); the title's status as a standalone named concept is UNESTABLISHED by the opened source (audit rule 1). Not listed in the earlier title scan's Category A or comparison lists; no explicit disposition found. Page enriched at fast-track bar, QC'd (advisor scoped pass on prose), held out of w1l done pending supervisor disposition. Do not rename/migrate/delete without the disposition.
+
 ## Category A — principle-style pages in the concepts namespace (flagged)
 
 - Pursue becoming, not arrival (owner-cited; underlying concept: Becoming, missing)

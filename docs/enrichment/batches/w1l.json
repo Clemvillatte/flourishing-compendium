@@ -48,11 +48,11 @@
   "Embodied emotion theory": "Reopened for QC: advisor first-item QC: unsupported claims (independence/priority, re-enactment mechanism, compendium descriptions); repairs applied",
   "Experiential avoidance research": "NAMESPACE-BLOCKED: 'Experiential avoidance research' and 'Experiential avoidance theory' are a suspected duplicate pair; supervisor disposition required before either is marked done. Revised prose and reproduced quotation supported (advisor scoped pass on evidence); item held out of done per advisor instruction.",
   "Ideal affect theory Tsai": "Reopened for QC: milestone advisor QC repairs: AA placement restored, temperament variance comparison, behavioral direction, naming history removed, blockquote normalization",
-  "Judging by where one rests": "Reopened for QC: milestone advisor QC: interpretation-paragraph overreach removed; narrowed intro"
+  "Judging by where one rests": "NAMESPACE-PENDING: prose advisor-scoped-pass; Analects 2.10 passage verified but standalone-concept status unestablished; flagged in concept-namespace-audit.md Pending dispositions; supervisor disposition required before done."
  },
  "missing_concepts": [],
  "sources_checked": 19,
- "updated": "2026-10-20T11:45:51+00:00",
+ "updated": "2026-10-20T11:46:41+00:00",
  "band_done": false,
  "new_concepts": [
   {
