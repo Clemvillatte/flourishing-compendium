@@ -12,7 +12,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 83** — Let practice structure the day
 
-The Gita's instruction to the meditator is constant: "constantly engaged in meditation with a controlled mind and body" ([BG 6.10](https://www.holy-bhagavad-gita.org/chapter/6/verse/10)). The compendium reads that constancy as structure rather than hours: practice as the day's frame, not its interruption. Anchor the day at both edges (first and last twenty minutes), and let the middle be practice in motion.
+The Gita's instruction to the meditator is constant: "constantly engaged in meditation with a controlled mind and body" ([BG 6.10](https://www.holy-bhagavad-gita.org/chapter/6/verse/10)). The verse recommends seclusion, a controlled mind and body, and ongoing engagement rather than occasional sessions. The optional exercise below arranges that constancy as a simple daily schedule.
 
 > Those who seek the state of Yog should reside in seclusion, constantly engaged in meditation with a controlled mind and body, getting rid of desires and possessions for enjoyment.
 >
@@ -22,9 +22,9 @@ The Gita's instruction to the meditator is constant: "constantly engaged in medi
 
 ### Plain words
 
-Look at where practice sits in your day. If it only happens when a slot happens to open, it competes with everything else and usually loses. The two edges of the day are nearly free: before the demands start, and after they stop. What you do in the middle matters less than keeping the frame.
+As an optional exercise, choose a short practice for the start of the day and another for the end, and keep both small enough to repeat. The point is the repetition itself, not the length of either session.
 
-*For example:* The person who "has no time to practice" — and builds the two edges: ten minutes before the phone, five minutes of review before sleep. The middle of the day follows the frame the edges set.
+For example: You might sit quietly for ten minutes before the day's messages begin, and review the day for five minutes before sleep. These are invented arrangements, offered as one way to keep a practice constant rather than as a rule from the text.
 ## Psychology parallels
 
 - **Morning and evening routines as habit anchors**, the consistency effects of temporal anchoring
