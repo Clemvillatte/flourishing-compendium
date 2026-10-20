@@ -5,14 +5,16 @@
   "Engaged Buddhism",
   "Focused-attention meditation",
   "Open-monitoring meditation",
-  "Non-dual awareness",
   "Self-regulation",
   "Self-transcendent experiences",
   "Sense of community"
  ],
- "in_progress": null,
- "flagged": {},
+ "in_progress": "Non-dual awareness",
+ "flagged": {
+  "Non-dual awareness": "Reopened for QC: Milestone advisor requests mandatory block quotation; factual support passes"
+ },
  "missing_concepts": [],
  "sources_checked": 9,
- "updated": "2026-10-20T06:29:11+00:00"
+ "updated": "2026-10-20T06:29:14+00:00",
+ "band_done": false
 }
