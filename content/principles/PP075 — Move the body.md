@@ -12,22 +12,34 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 ---
 > **Principle 75** — Move the body
 
-Physical activity is a first-line intervention for well-being with meta-analytic support. The effect is not limited to aerobic exercise. Walking, gardening, weight training, and recreational movement all produce benefits. The mechanism is not only physiological (inflammation, neurogenesis, endorphins) but psychological: movement is a behavioural activation that counteracts the withdrawal and inertia that accompany low mood.
+Two big reviews anchor this one. The Cochrane review of exercise for depression pooled 35 trials against no treatment or a control condition:
+
+> "For the 35 trials (1356 participants) comparing exercise with no treatment or a control intervention, the pooled SMD for the primary outcome of depression at the end of treatment was -0.62 (95% confidence interval (CI) -0.81 to -0.42), indicating a moderate clinical effect." ([Cooney et al., 2013, Cochrane review, hosted copy](https://baycrest.echoontario.ca/wp-content/uploads/2021/05/Exercise-for-depression-Cochrane.pdf))
+
+The same review is candid about the ceiling on that claim: "analysis of methodologically robust trials only shows a smaller effect in favour of exercise", and exercise looked no better than psychological therapies or antidepressants in the few small trials that compared them directly. A later meta-analysis that adjusted for publication bias found the larger effect:
+
+> "Overall, exercise had a large and significant effect on depression (SMD adjusted for publication bias = 1.11 (95% CI 0.79-1.43)) with a fail-safe number of 1057." ([Schuch et al., 2016](https://pubmed.ncbi.nlm.nih.gov/26978184/))
+
+On format, the honest summary is that the pooled estimate covered all kinds of exercise, with larger effects showing up for aerobic, moderate-to-vigorous and supervised programmes.
 
 (Cooney et al., 2013; Schuch et al., 2016.)
 
-**Plain words** Movement is a first-line well-being intervention with strong evidence behind it. It doesn't have to be aerobic or hard. Walking, gardening and weights all help, through both body and mind.
+**Plain words** Move when you are low. The evidence is not a miracle claim: a moderate, real effect, no clear edge over therapy or pills in the small head-to-head trials, and the effect shrinks in the pickiest analyses. But it is something you can start today without an appointment, and the direction of the findings is the same.
 
-*For example:* Twenty minutes of walking on a bad afternoon changes the evening.
+*For example:* A twenty-minute walk on a bad afternoon is the smallest version of the intervention; the reviews above are why it is not nothing.
+
+## Sources
+
+- [Cooney et al. 2013, "Exercise for depression," Cochrane Database of Systematic Reviews, CD004366, hosted full-text copy](https://baycrest.echoontario.ca/wp-content/uploads/2021/05/Exercise-for-depression-Cochrane.pdf) — pooled SMD for exercise vs control, comparisons with therapies and medication, methodological caveat
+- [Schuch et al. 2016, "Exercise as a treatment for depression: a meta-analysis adjusting for publication bias," Journal of Psychiatric Research 77:42-51, PubMed record with abstract](https://pubmed.ncbi.nlm.nih.gov/26978184/) — adjusted effect size and fail-safe number (PubMed page fetch renders empty; abstract verified via the search-indexed record)
 
 ## Psychology parallels
 
-- Exercise for depression (Cooney et al., 2013, Cochrane review)
--  (Schuch et al., 2016)
+- [[Behavioral activation|Behavioral activation]] — movement as an antidepressant behaviour (editorial pairing)
 
 ## Philosophy parallels
 
--  (Juvenal, Satires; classical ideal)
+- Juvenal, Satires X.356 — orandum est ut sit mens sana in corpore sano ([Latin Library text](https://www.thelatinlibrary.com/juvenal/10.shtml))
 - [[The lived body|The lived body]] (Merleau-Ponty, Phenomenology of Perception)
 
 <!-- fc: reflections
