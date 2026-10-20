@@ -12,17 +12,26 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 174** — Choose your ground
 
-Water dwells in the good places: live and work in environments that suit your nature: people, places, and fields where you are not fighting the terrain.
+Chapter 8 of the Daodejing opens with water: the highest excellence is like water, whose excellence appears in benefiting all things and in occupying, without striving, the low place which all men dislike, hence near to the Tao. The chapter then lists excellences, and the first is this principle's ground: the excellence of a residence is in the suitability of the place. The list runs on: the mind in abysmal stillness, associations in being with the virtuous, government in securing good order, the conduct of affairs in ability, the initiation of movement in timeliness. Its closing note is that the one with the highest excellence does not wrangle about his low position, and so no one finds fault with him.
 
 (DDJ 8.)
 
-**Plain words** Water dwells in the good places. Live and work in environments that suit your nature — people, places, and fields where you're not fighting the terrain. Half of 'discipline' is fighting a landscape that was never going to cooperate.
+> "The excellence of a residence is in (the suitability of) the place; that of the mind is in abysmal stillness; that of associations is in their being with the virtuous; that of government is in its securing good order; that of (the conduct of) affairs is in its ability; and that of (the initiation of) any movement is in its timeliness." (DDJ 8, [Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
-*For example:* The salesperson who moves to the product team and suddenly looks talented — the terrain was the problem.
+The compendium's reading: the chapter's word for the residence is suitability, and the person with the highest excellence does not wrangle about position. The reading extends the residence to the chosen environment — the people, places and fields a life is lived among — which is this principle's ground.
+
+**Plain words**
+The chapter's water takes the low place without striving, and its list of excellences starts with a residence suiting its place. The compendium's exercise: name where you are currently fighting the terrain, a place, a team, a field, and what suitability would look like instead.
+
+*For example:* The compendium's picture: the salesperson who moves to the product team and suddenly looks talented — the terrain was the problem.
+
+## Sources
+
+- [Tao Teh King, James Legge translation, Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm) — chapter 8
 
 ## Psychology parallels
 
-- **[[Person-environment fit|Person-environment fit]]**, congruence predicts satisfaction, performance, and retention (Kristof-Brown et al., 2005)
+- **[[Person-environment fit|Person-environment fit]]** (Kristof-Brown et al., 2005)
 
 ## Philosophy parallels
 
