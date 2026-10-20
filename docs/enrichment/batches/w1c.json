@@ -61,7 +61,8 @@
   "Autonomic nervous system (sympathetic vs parasympathetic)",
   "Care as practice",
   "Character strengths (Peterson & Seligman)",
-  "Chronic pain acceptance"
+  "Chronic pain acceptance",
+  "Clinical thresholds for depression, anxiety, PTSD, and bipolar disorder"
  ],
  "in_progress": null,
  "flagged": {
@@ -96,7 +97,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 36,
- "updated": "2026-10-20T08:14:15+00:00",
+ "updated": "2026-10-20T08:22:17+00:00",
  "band_done": false,
  "new_concepts": [
   {
