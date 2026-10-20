@@ -12,17 +12,17 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 177** — Set process goals and let outcomes follow
 
-In Human Nature and Conduct, John Dewey argues that the usual picture of aims as distant finish lines gets the relation backwards. An aim, on his account, is a foreseen consequence used to steer what you do now ([Dewey, Human Nature and Conduct, 1922, Part III, "The Nature of Aims"](https://standardebooks.org/ebooks/john-dewey/human-nature-and-conduct/text/part-3)):
+In Human Nature and Conduct, John Dewey describes aims as foreseen consequences used to direct present activity ([Human Nature and Conduct, Part III, VI: The Nature of Aims](https://standardebooks.org/ebooks/john-dewey/human-nature-and-conduct/text/chapter-3-6)):
 
 > Ends are foreseen consequences which arise in the course of activity and which are employed to give activity added meaning and to direct its further course. They are in no sense ends of action. In being ends of deliberation they are redirecting pivots in action. ... In a strict sense an end-in-view is a means in present action; present action is not a means to a remote end.
 
 (Abridged; both passages sit in the same section of Part III.)
 
-Dewey illustrates with a mariner: "A mariner does not sail towards the stars, but by noting the stars he is aided in conducting his present activity of sailing." He warns that ends regarded as literally ends to action, rather than as directive stimuli to present choice, are "frozen and isolated." The compendium applies this to goal-setting by asking whether a goal names something to do or only something to await.
+Dewey illustrates with a mariner: "A mariner does not sail towards the stars, but by noting the stars he is aided in conducting his present activity of sailing." He warns that ends regarded as literally ends to action, rather than as directive stimuli to present choice, are "frozen and isolated." The compendium applies this account by asking how a desired result should guide present choices and when the plan should be reconsidered.
 
-**Plain words** Take a goal you have written down. Does it name an action you can perform this week, or only a result you are waiting for? The compendium suggests rewriting goals in the first form.
+**Plain words** What action does your aim suggest now? After acting, reconsider what to do next.
 
-*For example (imagined):* A runner writes "run four times this week" rather than "finish under fifty minutes." The weekly count tells her what to do each morning. The time trial only reports, afterward, how the training went.
+*For example (imagined):* A runner keeps a target race time in view and plans four training sessions for the week. After a session, she reviews what happened before deciding on the next one.
 
 ## Psychology parallels
 
