@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 189** — Cultivate tranquillity (ataraxia)
 
-Tranquillity is not numbness. It is the state of a mind that is not disturbed by passions, that faces fortune and misfortune with equanimity, that acts from a settled centre. Cultivate it through the practices: the dichotomy of control, the discipline of desire, the examination of impressions. Tranquillity is the by-product, not the goal.
+Tranquillity is not numbness. It is the state of a mind that is not disturbed by passions, that faces fortune and misfortune with equanimity, that acts from a settled centre. Cultivate it through the practices: [[The dichotomy of control|the dichotomy of control]], the discipline of desire, the examination of impressions. Tranquillity is the by-product, not the goal.
 
 (Seneca, De Tranquillitate Animi; Med. IV.3, IV.24, VI.16, IX.31; Disc. I.4, II.1, III.3.)
 

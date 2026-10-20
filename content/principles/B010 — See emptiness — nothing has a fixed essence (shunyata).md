@@ -28,7 +28,7 @@ Imagine describing a workplace as permanently hostile. Examine particular practi
 
 ## Psychology parallels
 
-- **[[Cognitive flexibility|Cognitive flexibility]]**: Kashdan and Rottenberg review the broader construct of psychological flexibility, including adaptation to changing situations; their review does not test Buddhist emptiness or establish it as identical to laboratory set-shifting ([2010, abstract and introduction](https://pmc.ncbi.nlm.nih.gov/articles/PMC2998793/)).
+- **[[Cognitive flexibility|Cognitive flexibility]]**: Kashdan and Rottenberg review the broader construct of [[Psychological flexibility|psychological flexibility]], including adaptation to changing situations; their review does not test Buddhist emptiness or establish it as identical to laboratory set-shifting ([2010, abstract and introduction](https://pmc.ncbi.nlm.nih.gov/articles/PMC2998793/)).
 
 ## Philosophy parallels
 

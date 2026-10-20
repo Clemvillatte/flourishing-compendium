@@ -38,7 +38,7 @@ Legge's wording directs attention to the helper's own agenda: assistance can bec
 
 ## Psychology parallels
 
-- **Autonomy support**, support that honors choice yields intrinsic motivation and growth
+- **Autonomy support**, support that honors choice yields [[Intrinsic motivation|intrinsic motivation]] and growth
 - **Control yields compliance or rebellion** (Deci and Ryan, 2000)
 - **[[Hover-parenting research|Hover-parenting research]]**
 

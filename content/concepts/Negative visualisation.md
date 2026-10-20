@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Negative visualisation” — Stoics, Epictetus, Discourses.
 
+## Related concepts
+
+- [[Premeditatio malorum]] — listed for comparison
+
 ## Sources
 
 - Stoics, Epictetus, Discourses

@@ -23,3 +23,7 @@ Overt Behavior · Psychological science
 Cognition · Psychological science
 [[SP029 — Understand bondage as being determined from outside]]
 [[P186 — The fight against evil is local and concrete]]
+
+## Related concepts
+
+- [[Growth mindset]] — listed for comparison

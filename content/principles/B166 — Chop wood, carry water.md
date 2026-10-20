@@ -43,7 +43,7 @@ Suppose you have dishes to wash before sitting down to meditate. Try including t
 - [[ST095 — Dipa Ma Raises Two Children and Awakens|95. Dipa Ma Raises Two Children and Awakens]]
 ## Psychology parallels
 
-- **Rituals and routine**, meaning-making in mundane activity (Norton and Gino, 2014)
+- **Rituals and routine**, [[Meaning-making|meaning-making]] in mundane activity (Norton and Gino, 2014)
 
 ## Philosophy parallels
 

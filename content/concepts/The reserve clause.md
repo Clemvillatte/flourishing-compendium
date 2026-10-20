@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “The reserve clause” — Marcus Aurelius, Meditations 4.1; Marcus Aurelius, Meditations IV.1.
 
+## Related concepts
+
+- [[Premeditatio malorum]] — listed for comparison
+
 ## Sources
 
 - Marcus Aurelius, Meditations 4.1

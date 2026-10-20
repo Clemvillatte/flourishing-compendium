@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 (Nietzsche, On the Genealogy of Morality), reactive revenge as slave morality.
 
+## Related concepts
+
+- [[Will to power]] — listed for comparison
+
 ## Sources
 
 - Nietzsche, On the Genealogy of Morality

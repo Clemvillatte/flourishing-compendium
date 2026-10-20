@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Socioemotional wisdom” — Erikson, The Life Cycle Completed.
 
+## Related concepts
+
+- [[Wisdom]] — listed for comparison
+
 ## Sources
 
 - Erikson, The Life Cycle Completed

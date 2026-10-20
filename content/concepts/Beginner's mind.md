@@ -25,6 +25,8 @@ CO040 names the cognitive cost: the curse of knowledge, the inability to un-know
 
 ## Related concepts
 
+
+
 - [[Right mindfulness]] — the attentional posture that keeps watch without prejudging
 - [[Delight in the ordinary]] — freshness is what makes the ordinary visible
 - [[Docta ignorantia]] — learned ignorance, the Christian-mystic cousin
@@ -33,7 +35,8 @@ CO040 names the cognitive cost: the curse of knowledge, the inability to un-know
 - [[Curiosity]] — the beginner's motive energy
 - [[Openness]] — the personality trait the compendium pairs with this posture
 - [[Socratic ignorance]] — knowing that one does not know, the Greek cousin
-
+- [[Gelassenheit]] — listed for comparison
+- [[Pure experience]] — listed for comparison
 ## Sources
 
 - [Shunryu Suzuki, Zen Mind, Beginner's Mind (Weatherhill, 1970), full text PDF, Stanford University](https://web.stanford.edu/~funn/ZenMindBeginners.pdf)

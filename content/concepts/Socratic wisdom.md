@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 (Plato, Apology), knowing that you do not know.
 
+## Related concepts
+
+- [[Wisdom]] — listed for comparison
+
 ## Sources
 
 - Plato, Apology

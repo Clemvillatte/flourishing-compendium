@@ -22,5 +22,7 @@ Affect · Psychological science
 ## Related concepts
 
 
+
 - [[Hope]] — the trainable cousin from positive psychology
 - [[Tragic optimism]] — the concept page lists this topic among its Related entries; this link returns it
+- [[Growth mindset]] — listed for comparison

@@ -14,3 +14,8 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY
 Cognition · Psychological science
 [[A043 — Develop phronesis — practical wisdom]]
 ## Cited in philosophy parallels
+
+
+## Related concepts
+
+- [[Wisdom]] — listed for comparison

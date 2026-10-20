@@ -26,7 +26,7 @@ Elliot and Church kept the mastery goal and split the performance category in tw
 
 ([Elliot, The Hierarchical Model of Approach-Avoidance Motivation, 2006, p. 111](https://link.springer.com/content/pdf/10.1007/s11031-006-9028-7.pdf))
 
-In the college-classroom study, the authors reported favorable results for mastery goals on intrinsic motivation and for performance-approach goals on graded performance, and unfavorable results for performance-avoidance goals on both outcomes ([Elliot and Church, 1997](https://api.openalex.org/works/doi:10.1037/0022-3514.72.1.218)). The abstract describes a college-classroom test; this page does not generalize those results to other settings.
+In the college-classroom study, the authors reported favorable results for mastery goals on [[Intrinsic motivation|intrinsic motivation]] and for performance-approach goals on graded performance, and unfavorable results for performance-avoidance goals on both outcomes ([Elliot and Church, 1997](https://api.openalex.org/works/doi:10.1037/0022-3514.72.1.218)). The abstract describes a college-classroom test; this page does not generalize those results to other settings.
 
 ### In the compendium
 

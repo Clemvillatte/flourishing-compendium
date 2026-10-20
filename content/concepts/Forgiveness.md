@@ -29,6 +29,7 @@ R005 "Practise forgiveness" frames it as releasing the debt, not the memory, wit
 
 ## Related concepts
 
+
 - [[Ubuntu]] — ubuntu grounded the TRC's restorative amnesty
 - [[Restorative justice]] — repair without revenge, the TRC lineage
 - [[Reconciliation]] — what released debt makes possible (B163)
@@ -36,7 +37,7 @@ R005 "Practise forgiveness" frames it as releasing the debt, not the memory, wit
 - [[Justice]] — Arendt's alternative to forgiveness, not its opposite
 - [[Guilt]] — the offender's side of the ledger
 - [[Shame]] — what blocks self-forgiveness
-
+- [[Agape]] — listed for comparison
 ## Sources
 
 - [Hannah Arendt, The Human Condition (1958), pp. 238-243, excerpt PDF](https://dl1.cuni.cz/pluginfile.php/1188468/mod_resource/content/1/Arendt_Human_Condition_Forgiveness.pdf) — irreversibility, acting anew, plurality, punishment as alternative

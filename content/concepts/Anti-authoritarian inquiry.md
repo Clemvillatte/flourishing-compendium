@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Anti-authoritarian inquiry” — Dewey, Democracy and Education.
 
+## Related concepts
+
+- [[Education as growth]] — listed for comparison
+
 ## Sources
 
 - Dewey, Democracy and Education

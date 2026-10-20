@@ -17,3 +17,8 @@ Affect · Psychological science
 [[AF031 — Regulate early, not late — timing matters more than intensity]]
 [[AF025 — Learn the full regulation toolkit — it is larger than calm down.]]
 [[AF009 — Understand that affect is constructed, not discovered]]
+
+
+## Related concepts
+
+- [[Appraisal theory]] — listed for comparison

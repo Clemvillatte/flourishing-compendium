@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “The veil of ignorance” — Rawls, A Theory of Justice.
 
+## Related concepts
+
+- [[Justice]] — listed for comparison
+
 ## Sources
 
 - Rawls, A Theory of Justice

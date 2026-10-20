@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 127** — Treat democracy as a way of life, not a mechanism
 
-Democracy is not primarily voting; it is a mode of associated living in which experience is freely shared and each counts as one. Practice democracy in your kitchen, team, and friendships.
+Democracy is not primarily voting; it is [[Associated living|a mode of associated living]] in which experience is freely shared and each counts as one. Practice democracy in your kitchen, team, and friendships.
 
 Dewey's statement in Democracy and Education:
 

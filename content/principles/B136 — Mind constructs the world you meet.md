@@ -32,7 +32,7 @@ The projector image is a good place to start, but make it checkable. For one day
 
 ## Psychology parallels
 
-- **Appraisal and construal**, interpretation determines affect and behavior (Lazarus; Schwarz and Clore, 1983)
+- **[[Appraisal theory|Appraisal and construal]]**, interpretation determines affect and behavior (Lazarus; Schwarz and Clore, 1983)
 
 ## Philosophy parallels
 

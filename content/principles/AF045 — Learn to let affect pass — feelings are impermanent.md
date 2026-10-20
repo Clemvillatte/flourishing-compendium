@@ -20,7 +20,7 @@ No feeling, however intense, lasts forever. The capacity to trust that a feeling
 ## Psychology parallels
 
 - **Affect has a natural temporal arc**, emotions peak and decay; the decay is faster when not amplified by secondary reactions (Verduyn & Lavrijsen, 2015)
-- **Rumination prolongs affect**, repeatedly returning to a feeling extends its duration beyond its natural arc (Nolen-Hoeksema, 2000)
+- **[[Rumination|Rumination prolongs affect]]**, repeatedly returning to a feeling extends its duration beyond its natural arc (Nolen-Hoeksema, 2000)
 
 ## Philosophy parallels
 

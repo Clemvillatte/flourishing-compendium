@@ -13,3 +13,8 @@ gloating damages trust and invites reprisal.
 
 - [[D132 — If you must fight, grieve — never gloat]]
 ## Cited in philosophy parallels
+
+
+## Related concepts
+
+- [[Mudita (sympathetic joy)]] — listed for comparison

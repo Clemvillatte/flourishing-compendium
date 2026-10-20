@@ -55,6 +55,7 @@ Because the association is with context rather than goals, habit formation works
 
 
 
+
 - [[Graded task assignment (Beck, BA)]] — the gradual shaping the technique exploits
 - [[Learning by doing]] — the stable outcomes of repeated doing and undergoing
 - [[Habit]] — the page that now carries James's historical explanation of habit acquisition
@@ -62,7 +63,7 @@ Because the association is with context rather than goals, habit formation works
 - [[Habit stacking]] — anchoring a new behaviour to an existing routine as context-cue design
 - [[Context-dependent behaviour (Wood & Neal)]] — the model this page summarises
 - [[Behavioural chaining (applied behaviour analysis)]] — everyday routines as habit chains
-
+- [[Education as growth]] — listed for comparison
 ## Sources
 
 - [Lally, van Jaarsveld, Potts and Wardle 2010, European Journal of Social Psychology](https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674) — the 84-day study; asymptotic curve; 66-day median, 18-254 range.

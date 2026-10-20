@@ -10,6 +10,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 “Benevolence” — Hume, An Enquiry Concerning the Principles of Morals.
 
 - Diener and Seligman, 2002
+## Related concepts
+
+- [[Agape]] — listed for comparison
+
 ## Sources
 
 - Hume, An Enquiry Concerning the Principles of Morals

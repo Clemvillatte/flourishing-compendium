@@ -1,561 +1,92 @@
 {
  "reciprocal": [
   {
-   "into": "Wu wei",
-   "link": "Gelassenheit",
-   "why": "A cross-tradition pairing: the Daoist wu wei, effortless and unforced activity, and Heidegger's release from willing."
-  },
-  {
    "into": "Non-attachment",
    "link": "Gelassenheit",
-   "why": "An editorial comparison between Buddhist clinging (upādāna) and Eckhart's letting go of attachment to one's actions."
-  },
-  {
-   "into": "Apatheia",
-   "link": "Gelassenheit",
-   "why": "The SEP calls Eckhart's negative virtues Stoic-sounding, which is why the compendium pairs them with the Stoic freedom from passion."
-  },
-  {
-   "into": "Beginner's mind",
-   "link": "Gelassenheit",
-   "why": "The beginner's mind is empty of the expert's habits and open to possibilities; Heidegger's waiting expects nothing and holds no object."
-  },
-  {
-   "into": "Acceptance",
-   "link": "Gelassenheit",
-   "why": "In ACT, acceptance is the active and aware embrace of private experiences without unnecessary attempts to change their frequency or form; Gelassenheit is a release of willing. The compendium treats them as neighbours, not the same thing."
+   "why": "listed for comparison"
   },
   {
    "into": "Shikantaza, just sitting",
    "link": "Gelassenheit",
-   "why": "Dogen's just sitting and Heidegger's 'nothing but wait' are paired by the compendium as contemplative neighbours."
-  },
-  {
-   "into": "Learned Helplessness Theory",
-   "link": "Growth mindset",
-   "why": "The helplessness response is what malleability beliefs are read against: growth mindset research grew from attribution studies of helpless versus mastery-oriented responses."
-  },
-  {
-   "into": "Mastery orientation",
-   "link": "Growth mindset",
-   "why": "Mastery-oriented persistence is the response pattern associated with malleability beliefs; helplessness is its counterpart."
-  },
-  {
-   "into": "Deliberate practice",
-   "link": "Growth mindset",
-   "why": "The belief that ability grows and the practice that grows it are two sides of developable skill."
-  },
-  {
-   "into": "Learned optimism",
-   "link": "Growth mindset",
-   "why": "Both are belief constructs built on attribution research: what failure and setbacks are taken to mean."
-  },
-  {
-   "into": "Habit maintenance",
-   "link": "Habit formation",
-   "why": "Maintenance begins where formation ends: keeping a habit going once automaticity has plateaued."
-  },
-  {
-   "into": "Habit stacking",
-   "link": "Habit formation",
-   "why": "Stacking is context-cue design for formation: anchoring the new behaviour to an existing routine."
+   "why": "listed for comparison"
   },
   {
    "into": "Context-dependent behaviour (Wood & Neal)",
    "link": "Habit formation",
-   "why": "Habit formation is the process the Wood-Neal context-cue model describes."
-  },
-  {
-   "into": "Behavioural chaining (applied behaviour analysis)",
-   "link": "Habit formation",
-   "why": "Everyday routines as habit chains are the applied-behaviour-analysis view of the same acquisition process."
-  },
-  {
-   "into": "Negative visualisation",
-   "link": "Premeditatio malorum",
-   "why": "Negative visualisation is the modern cognitive name for the Stoic premeditation of evils."
-  },
-  {
-   "into": "Amor fati",
-   "link": "Premeditatio malorum",
-   "why": "Rehearsing misfortune and loving what comes are the two halves of the Stoic acceptance pair."
-  },
-  {
-   "into": "The reserve clause",
-   "link": "Premeditatio malorum",
-   "why": "The reserve clause (\"fate permitting\") is the planning habit the premeditation trains."
+   "why": "listed for comparison"
   },
   {
    "into": "Stream of consciousness",
    "link": "Pure experience",
-   "why": "The stream is James's name for the undivided flow that pure experience describes before reflection."
+   "why": "listed for comparison"
   },
   {
    "into": "The specious present",
    "link": "Pure experience",
-   "why": "The specious present is the present field James calls pure experience."
+   "why": "listed for comparison"
   },
   {
    "into": "Shikantaza, just sitting",
    "link": "Pure experience",
-   "why": "Objectless sitting enacts the non-divided experience the page describes."
-  },
-  {
-   "into": "Bracketing",
-   "link": "Pure experience",
-   "why": "Bracketing suspends the subject-object split that pure experience precedes."
-  },
-  {
-   "into": "Beginner's mind",
-   "link": "Pure experience",
-   "why": "The beginner's open stance meets experience before it has been divided into expert categories."
+   "why": "listed for comparison"
   },
   {
    "into": "Mind wandering",
    "link": "Rumination",
-   "why": "Mind wandering is task-unrelated thought without rumination's depressive grip; the two are often conflated."
+   "why": "listed for comparison"
   },
   {
    "into": "Self-transcendent experiences",
    "link": "Self-transcendence",
-   "why": "Self-transcendence names the orientation; the self-transcendent experiences are the episodic states it aims at."
-  },
-  {
-   "into": "Ego dissolution",
-   "link": "Self-transcendence",
-   "why": "Ego dissolution is the annihilational component of self-transcendence in its strong form."
-  },
-  {
-   "into": "Collective effervescence theory Durkheim",
-   "link": "Self-transcendence",
-   "why": "Collective effervescence is the group-level version of connected self-loss."
-  },
-  {
-   "into": "Pure experience",
-   "link": "Self-transcendence",
-   "why": "The undivided field is what self-transcendent experience briefly restores."
-  },
-  {
-   "into": "Self-transcendence",
-   "link": "Will to power",
-   "why": "Self-transcendence is the related self-surpassing idea without Nietzsche's power vocabulary."
-  },
-  {
-   "into": "Amor fati",
-   "link": "Will to power",
-   "why": "Amor fati is Nietzsche's affirmative formula for what the will accepts."
-  },
-  {
-   "into": "Nihilism",
-   "link": "Will to power",
-   "why": "Nihilism is the diagnosis the will to power answers."
-  },
-  {
-   "into": "The critique of ressentiment",
-   "link": "Will to power",
-   "why": "Ressentiment is the reactive drive contrasted with the will to power."
-  },
-  {
-   "into": "Perspectivism",
-   "link": "Will to power",
-   "why": "Perspectivism is Nietzsche's companion epistemology."
-  },
-  {
-   "into": "Grace",
-   "link": "Agape",
-   "why": "Agape is love given without regard to worth; grace is the unearned favor it presupposes."
-  },
-  {
-   "into": "Kenosis",
-   "link": "Agape",
-   "why": "Kenosis, self-emptying, is agape's form in Christology."
-  },
-  {
-   "into": "Forgiveness",
-   "link": "Agape",
-   "why": "Keeping no account of evil (1 Corinthians 13) is what forgiveness acts on."
-  },
-  {
-   "into": "Benevolence",
-   "link": "Agape",
-   "why": "Benevolence is the disposition agape names in its plainer form."
+   "why": "listed for comparison"
   },
   {
    "into": "Unconditional positive regard",
    "link": "Agape",
-   "why": "Unconditional positive regard is the psychological analogue of love without regard to worth."
-  },
-  {
-   "into": "Schachter-Singer two-factor theory",
-   "link": "Appraisal theory",
-   "why": "Both theories explain emotion as arising after an interpretive step rather than from the event alone."
-  },
-  {
-   "into": "Somatic marker hypothesis (Damasio)",
-   "link": "Appraisal theory",
-   "why": "The somatic marker is the body-first route to the evaluation appraisal theory describes."
-  },
-  {
-   "into": "Affect labeling",
-   "link": "Appraisal theory",
-   "why": "Affect labeling is putting the appraisal into words, and changes the emotion accordingly."
-  },
-  {
-   "into": "Broaden-and-build",
-   "link": "Appraisal theory",
-   "why": "Broaden-and-build describes what positive emotions do once the appraisal comes back positive."
-  },
-  {
-   "into": "Ubuntu",
-   "link": "Associated living",
-   "why": "Ubuntu is the southern African relational account of the person; associated living is Dewey's relational account of democracy."
-  },
-  {
-   "into": "Civic republicanism",
-   "link": "Associated living",
-   "why": "Civic republicanism treats participation as constitutive of freedom; associated living is the participatory mode Dewey describes."
-  },
-  {
-   "into": "Dialogue",
-   "link": "Associated living",
-   "why": "Dialogue is the communication Dewey makes primary to conjoint experience."
-  },
-  {
-   "into": "Growth mindset",
-   "link": "Education as growth",
-   "why": "Growth mindset is the belief side of Dewey's growth reading of ability."
-  },
-  {
-   "into": "Habit formation",
-   "link": "Education as growth",
-   "why": "Habit formation is the mechanism by which capacities are built over time."
-  },
-  {
-   "into": "Mastery orientation",
-   "link": "Education as growth",
-   "why": "Mastery orientation is the goal structure that keeps growth intrinsic."
-  },
-  {
-   "into": "Learning by doing",
-   "link": "Education as growth",
-   "why": "Learning by doing is the pedagogical method of the growth view."
-  },
-  {
-   "into": "Anti-authoritarian inquiry",
-   "link": "Education as growth",
-   "why": "Inquiry over received answers belongs to the same Deweyan tradition."
-  },
-  {
-   "into": "Extrinsic motivation",
-   "link": "Intrinsic motivation",
-   "why": "Extrinsic motivation is the contrast case the definition of intrinsic motivation builds on."
-  },
-  {
-   "into": "The veil of ignorance",
-   "link": "Justice",
-   "why": "The veil of ignorance is Rawls's device for choosing the principles of justice."
-  },
-  {
-   "into": "Care ethics",
-   "link": "Justice",
-   "why": "Care ethics is the relational tradition Justice's page marks via Held."
-  },
-  {
-   "into": "Restorative justice",
-   "link": "Justice",
-   "why": "Restorative justice is the corrective branch of justice in its modern form."
-  },
-  {
-   "into": "Expressive writing",
-   "link": "Meaning-making",
-   "why": "Expressive writing is the writing intervention in the Pennebaker stream of meaning-making research."
+   "why": "listed for comparison"
   },
   {
    "into": "Benefit finding",
    "link": "Meaning-making",
-   "why": "Benefit finding is the positive-reappraisal outcome of meaning-making."
-  },
-  {
-   "into": "Four immeasurables",
-   "link": "Mudita (sympathetic joy)",
-   "why": "Mudita is the third of the four immeasurables."
-  },
-  {
-   "into": "Schadenfreude",
-   "link": "Mudita (sympathetic joy)",
-   "why": "Schadenfreude is the inverse of mudita: pleasure at another's misfortune versus joy at their fortune."
-  },
-  {
-   "into": "Experiential avoidance research",
-   "link": "Psychological flexibility",
-   "why": "Experiential avoidance is the counter-construct psychological flexibility is defined against."
+   "why": "listed for comparison"
   },
   {
    "into": "Acceptance alongside values-based action",
    "link": "Psychological flexibility",
-   "why": "Acceptance alongside values-based action is the acceptance half of psychological flexibility."
-  },
-  {
-   "into": "Cognitive defusion",
-   "link": "Psychological flexibility",
-   "why": "Cognitive defusion is the looking-at-thoughts half of psychological flexibility."
-  },
-  {
-   "into": "Eightfold Path",
-   "link": "Right intention",
-   "why": "Right intention is the second factor of the Eightfold Path."
-  },
-  {
-   "into": "Metta (loving-kindness)",
-   "link": "Right intention",
-   "why": "Freedom from ill will, the resolve's second component, is the stance metta trains."
-  },
-  {
-   "into": "Implementation intentions",
-   "link": "Right intention",
-   "why": "If-then plans are the modern goal-structure parallel to setting intention in advance."
+   "why": "listed for comparison"
   },
   {
    "into": "Self-concordance theory",
    "link": "Right intention",
-   "why": "Self-concordant goals pursue alignment with values, the parallel the compendium's motivation principles draw."
-  },
-  {
-   "into": "Eightfold Path",
-   "link": "Right view",
-   "why": "MN 9 defines the way of practice as the noble eightfold path, right view first; the concept page belongs to that training"
+   "why": "listed for comparison"
   },
   {
    "into": "Dependent origination",
    "link": "Right view",
-   "why": "the Kaccanagotta Sutta teaches right view via the middle using the dependent co-arising chain between the existence extremes"
-  },
-  {
-   "into": "Right intention",
-   "link": "Right view",
-   "why": "the factor that precedes intention in MN 9's list: right view, then right resolve, then right speech"
-  },
-  {
-   "into": "Right mindfulness",
-   "link": "Right view",
-   "why": "another factor in MN 9's list of the way of practice"
-  },
-  {
-   "into": "The coloured lens",
-   "link": "Right view",
-   "why": "the attention principles label their Buddhist parallel 'The coloured lens (Buddhism, Right View)'"
-  },
-  {
-   "into": "Appraisal theory",
-   "link": "Right view",
-   "why": "the Appraisal theory page already links B021's interpretation-first orientation; Right view is that orientation's home"
-  },
-  {
-   "into": "First impressions bias",
-   "link": "Right view",
-   "why": "the First impressions bias seed names Buddhism's Right View as its tradition"
+   "why": "listed for comparison"
   },
   {
    "into": "Cognitive distortions",
    "link": "Right view",
-   "why": "CO051's parallels list Right view (Buddhism, Eightfold Path) alongside the distortion patterns"
+   "why": "listed for comparison"
   },
   {
    "into": "The standpoint determines what appears",
    "link": "Right view",
-   "why": "that page already cites B021 among its parallels; Right view is the concept behind it"
-  },
-  {
-   "into": "The look (le regard)",
-   "link": "The face",
-   "why": "E035 and E067 cite the face and the look together; the Sartrean gaze and the Levinasian face are the compendium's two accounts of the other's eyes"
-  },
-  {
-   "into": "Acceptance",
-   "link": "Urge surfing",
-   "why": "A012's psychology parallel is labelled 'Urge surfing and acceptance-based regulation'; the two are the compendium's paired acceptance techniques"
+   "why": "listed for comparison"
   },
   {
    "into": "Wise reasoning",
    "link": "Wisdom",
-   "why": "The wisdom page presents wise reasoning as one of the two main lines of wisdom research."
-  },
-  {
-   "into": "Phronesis",
-   "link": "Wisdom",
-   "why": "Aristotle's practical wisdom and modern wisdom research both concern judgment in practical affairs."
-  },
-  {
-   "into": "Wisdom theory Berlin paradigm",
-   "link": "Wisdom",
-   "why": "The Berlin paradigm is one of the two main research programs studying wisdom."
-  },
-  {
-   "into": "Socratic wisdom",
-   "link": "Wisdom",
-   "why": "The Socratic knowledge of not knowing concerns the theme of intellectual humility that also appears in modern wisdom research."
-  },
-  {
-   "into": "Practical wisdom",
-   "link": "Wisdom",
-   "why": "The umbrella family of judgment-in-action concepts; wisdom research studies such judgment empirically."
-  },
-  {
-   "into": "The wisdom of crowds",
-   "link": "Wisdom",
-   "why": "Aggregating many judgments is a different route to good outcomes than one person's wise reasoning."
-  },
-  {
-   "into": "Klesha transmuted into wisdom",
-   "link": "Wisdom",
-   "why": "The Vajrayana parallel: afflictions ripened into wisdom rather than suppressed."
-  },
-  {
-   "into": "Socioemotional wisdom",
-   "link": "Wisdom",
-   "why": "The emotional side of the wisdom construct family."
+   "why": "listed for comparison"
   }
  ],
  "inline": [
   {
-   "into": "M001",
-   "concept": "Growth mindset",
-   "phrase": "growth-mindset"
-  },
-  {
-   "into": "AF045",
-   "concept": "Rumination",
-   "phrase": "Rumination prolongs affect"
-  },
-  {
-   "into": "AF051",
-   "concept": "Rumination",
-   "phrase": "Rumination converts sadness into depression"
-  },
-  {
-   "into": "AF050",
-   "concept": "Rumination",
-   "phrase": "Anger rumination maintains aggression"
-  },
-  {
    "into": "AF033",
    "concept": "Rumination",
    "phrase": "Self-distancing reduces rumination"
-  },
-  {
-   "into": "Apatheia",
-   "concept": "The dichotomy of control",
-   "phrase": "the dichotomy of control"
-  },
-  {
-   "into": "S067",
-   "concept": "The dichotomy of control",
-   "phrase": "the dichotomy of control"
-  },
-  {
-   "into": "SO031",
-   "concept": "The dichotomy of control",
-   "phrase": "the dichotomy of control"
-  },
-  {
-   "into": "E110",
-   "concept": "Will to power",
-   "phrase": "the will to power"
-  },
-  {
-   "into": "E066",
-   "concept": "Will to power",
-   "phrase": "will to power (Adler)"
-  },
-  {
-   "into": "Metta (loving-kindness)",
-   "concept": "Agape",
-   "phrase": "Kierkegaard's agape"
-  },
-  {
-   "into": "B136",
-   "concept": "Appraisal theory",
-   "phrase": "Appraisal and construal"
-  },
-  {
-   "into": "A099",
-   "concept": "Associated living",
-   "phrase": "Democracy as associated living"
-  },
-  {
-   "into": "P045",
-   "concept": "Associated living",
-   "phrase": "Democracy as associated living"
-  },
-  {
-   "into": "P127",
-   "concept": "Associated living",
-   "phrase": "a mode of associated living"
-  },
-  {
-   "into": "Achievement goal theory (Dweck, Elliot)",
-   "concept": "Intrinsic motivation",
-   "phrase": "intrinsic motivation"
-  },
-  {
-   "into": "Autonomy-threat research",
-   "concept": "Intrinsic motivation",
-   "phrase": "intrinsic motivation"
-  },
-  {
-   "into": "D063",
-   "concept": "Intrinsic motivation",
-   "phrase": "intrinsic motivation"
-  },
-  {
-   "into": "D096",
-   "concept": "Intrinsic motivation",
-   "phrase": "intrinsic motivation"
-  },
-  {
-   "into": "AF077",
-   "concept": "Meaning-making",
-   "phrase": "meaning-making"
-  },
-  {
-   "into": "B166",
-   "concept": "Meaning-making",
-   "phrase": "meaning-making"
-  },
-  {
-   "into": "B053",
-   "concept": "Mudita (sympathetic joy)",
-   "phrase": "mudita"
-  },
-  {
-   "into": "B101",
-   "concept": "Mudita (sympathetic joy)",
-   "phrase": "Mudita"
-  },
-  {
-   "into": "AF062",
-   "concept": "Mudita (sympathetic joy)",
-   "phrase": "Buddhism, Mudita"
-  },
-  {
-   "into": "B010",
-   "concept": "Psychological flexibility",
-   "phrase": "psychological flexibility"
-  },
-  {
-   "into": "B125",
-   "concept": "Psychological flexibility",
-   "phrase": "psychological flexibility"
-  },
-  {
-   "into": "Eightfold Path",
-   "concept": "Right intention",
-   "phrase": "right intention"
-  },
-  {
-   "into": "Eightfold Path",
-   "concept": "Right view",
-   "phrase": "right view"
   }
- ]
+ ],
+ "notes": " | deferred at this run (target band busy): 16 recip, 1 inline"
 }

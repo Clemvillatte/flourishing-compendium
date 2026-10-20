@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 458** — Practise the will to meaning
 
-Recognise that the primary human motivation is not the will to pleasure (Freud) or the will to power (Adler) but the will to meaning. You are driven not by the pursuit of pleasure or the pursuit of power but by the search for meaning. Honour this drive; do not let it be frustrated by a culture that offers pleasure and power in place of meaning.
+Recognise that the primary human motivation is not the will to pleasure (Freud) or the [[Will to power|will to power (Adler)]] but the will to meaning. You are driven not by the pursuit of pleasure or the pursuit of power but by the search for meaning. Honour this drive; do not let it be frustrated by a culture that offers pleasure and power in place of meaning.
 
 (Frankl, 1969, The Will to Meaning; Frankl, 1946/2006, Man's Search for Meaning.)
 

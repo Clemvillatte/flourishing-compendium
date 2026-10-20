@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Klesha transmuted into wisdom” — Tibetan tradition.
 
+## Related concepts
+
+- [[Wisdom]] — listed for comparison
+
 ## Sources
 
 - Tibetan tradition

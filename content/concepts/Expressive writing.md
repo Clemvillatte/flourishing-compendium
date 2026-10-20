@@ -20,6 +20,10 @@ It is [[The examined life]] made procedural — the self audited in written word
 
 - the reliable finding that structured narrativization of emotional events improves outcomes (Pennebaker and Beall, 1986)
 
+## Related concepts
+
+- [[Meaning-making]] — listed for comparison
+
 ## Sources
 
 - Pennebaker and Beall, 1986

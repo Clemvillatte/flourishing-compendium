@@ -21,7 +21,7 @@ Anger is a mobilising response to perceived injustice, violation, or obstruction
 
 - **Anger has a functional signal value**, it mobilises response to violation and is associated with [[Approach versus avoidance motivation|approach motivation]] (Carver & Harmon-Jones, 2009)
 - **Venting anger does not reduce it; it can amplify it**, catharsis theory is not supported; expressing anger can increase anger and aggression (Bushman, 2002)
-- **Anger rumination maintains aggression**, repeatedly revisiting anger and its causes predicts aggressive behaviour (Bushman, 2002; Denson et al., 2011)
+- **[[Rumination|Anger rumination maintains aggression]]**, repeatedly revisiting anger and its causes predicts aggressive behaviour (Bushman, 2002; Denson et al., 2011)
 
 ## Philosophy parallels
 

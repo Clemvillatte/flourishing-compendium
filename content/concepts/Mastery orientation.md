@@ -11,8 +11,11 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 ## Related concepts
 
-- [[Implicit theories of intelligence]] — the response pattern the incremental theory predicts
 
+
+- [[Implicit theories of intelligence]] — the response pattern the incremental theory predicts
+- [[Growth mindset]] — listed for comparison
+- [[Education as growth]] — listed for comparison
 ## Sources
 
 - Ames, 1992

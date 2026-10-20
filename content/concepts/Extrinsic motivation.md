@@ -13,6 +13,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 - **and well-being**
 
+## Related concepts
+
+- [[Intrinsic motivation]] — listed for comparison
+
 ## Sources
 
 - Kasser and Ryan, 1993

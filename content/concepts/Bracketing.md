@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Bracketing” — Husserl, Cartesian Meditations.
 
+## Related concepts
+
+- [[Pure experience]] — listed for comparison
+
 ## Sources
 
 - Husserl, Cartesian Meditations

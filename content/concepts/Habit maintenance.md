@@ -11,8 +11,9 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 ## Related concepts
 
-- [[Behavioural chaining (applied behaviour analysis)]] — listed for comparison
 
+- [[Behavioural chaining (applied behaviour analysis)]] — listed for comparison
+- [[Habit formation]] — listed for comparison
 ## Sources
 
 - Lally et al., 2010

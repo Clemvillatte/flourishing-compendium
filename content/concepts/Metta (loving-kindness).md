@@ -11,9 +11,10 @@ Metta (Pali; Sanskrit maitrī, "friendliness") is loving-kindness — the first 
 
 The compendium's reading (principles B051, B097, B098): metta is a stance before a feeling — a trainable orientation of goodwill that starts with oneself (B097), extends to the difficult (B098), and becomes unconditional friendliness rather than a mood. It is the antidote to ill will (hindrance 2, B080) and [[Right speech|the affective basis of right speech]] (B148).
 
-Metta's cross-tradition family is the universal-love traditions: Kierkegaard's agape, the Confucian ren, and the Christian love of neighbour. What distinguishes metta is its training structure — it is cultivated as a meditation (metta bhavana), sequenced from self to friend to stranger to enemy, until the boundlessness is felt rather than willed.
+Metta's cross-tradition family is the universal-love traditions: [[Agape|Kierkegaard's agape]], the Confucian ren, and the Christian love of neighbour. What distinguishes metta is its training structure — it is cultivated as a meditation (metta bhavana), sequenced from self to friend to stranger to enemy, until the boundlessness is felt rather than willed.
 
 ## Related concepts
+
 
 
 - [[Agape]] — Kierkegaard: unconditional love
@@ -26,6 +27,7 @@ Metta's cross-tradition family is the universal-love traditions: Kierkegaard's a
 - Buddhist brahmaviharas
 - Buddhist tradition, Metta Sutta
 - [[Care]] — the Buddhist training of wishing well
+- [[Right intention]] — listed for comparison
 ## Sources
 
 - Buddha, Karaṇīya Metta Sutta (Sn 1.8)

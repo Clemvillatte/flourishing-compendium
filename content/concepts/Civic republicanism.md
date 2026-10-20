@@ -11,8 +11,9 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 ## Related concepts
 
-- [[The common good]] — the tradition that keeps the citizen at the center
 
+- [[The common good]] — the tradition that keeps the citizen at the center
+- [[Associated living]] — listed for comparison
 ## Sources
 
 - Sandel, Democracy's Discontent

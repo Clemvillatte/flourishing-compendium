@@ -14,3 +14,8 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY
 Sociocultural · Psychological science
 [[M015 — Let art be communal, not only private]]
 ## Cited in philosophy parallels
+
+
+## Related concepts
+
+- [[Self-transcendence]] — listed for comparison

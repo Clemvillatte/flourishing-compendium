@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 101** — Rejoice in others' happiness (mudita as practice)
 
-Mudita is the third of the brahmaviharas. The tradition's definition is direct: appreciative joy at the success and good fortune of others, with envy and jealousy named as its chief opponents (Eileen Siriwardhana, [Mudita](https://accesstoinsight.org/lib/authors/siriwardhana/bl093.html)). The same essay sets the difficulty honestly: mudita comes easily within the narrow circle of family and friends, while identifying with the joys and triumphs of outsiders requires deliberate effort.
+[[Mudita (sympathetic joy)|Mudita]] is the third of the brahmaviharas. The tradition's definition is direct: appreciative joy at the success and good fortune of others, with envy and jealousy named as its chief opponents (Eileen Siriwardhana, [Mudita](https://accesstoinsight.org/lib/authors/siriwardhana/bl093.html)). The same essay sets the difficulty honestly: mudita comes easily within the narrow circle of family and friends, while identifying with the joys and triumphs of outsiders requires deliberate effort.
 
 > "Mudita means appreciative joy at the success and good fortune of others." (Eileen Siriwardhana, [Mudita](https://accesstoinsight.org/lib/authors/siriwardhana/bl093.html))
 

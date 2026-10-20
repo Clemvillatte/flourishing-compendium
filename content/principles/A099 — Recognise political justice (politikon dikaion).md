@@ -28,7 +28,7 @@ Political justice is justice within a polis: the framework of laws, institutions
 ## Philosophy parallels
 
 - **[[Justice|Justice as fairness]]** (Rawls, A Theory of Justice)
-- **Democracy as associated living** (Dewey, Democracy and Education)
+- **[[Associated living|Democracy as associated living]]** (Dewey, Democracy and Education)
 
 <!-- fc: reflections
 Which political conditions most shape your own chances of flourishing, and which did you not choose?

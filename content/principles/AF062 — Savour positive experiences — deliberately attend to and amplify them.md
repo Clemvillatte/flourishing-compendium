@@ -24,7 +24,7 @@ Savouring is the capacity to attend to, appreciate, and enhance positive experie
 
 ## Philosophy parallels
 
-- **[[Mindfulness|Mindfulness of joy]]** (Buddhism, Mudita)
+- **[[Mindfulness|Mindfulness of joy]]** ([[Mudita (sympathetic joy)|Buddhism, Mudita]])
 - **[[Carpe diem|Carpe diem]]** (Horace, Odes)
 - **[[Gratitude|Gratitude as attention]]** (Stoics, Seneca, Letters)
 

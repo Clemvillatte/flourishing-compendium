@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “The wisdom of crowds” — Surowiecki, 2005.
 
+## Related concepts
+
+- [[Wisdom]] — listed for comparison
+
 ## Sources
 
 - Surowiecki, 2005

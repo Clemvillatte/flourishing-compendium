@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “First impressions bias” — Buddhism, Right View.
 
+## Related concepts
+
+- [[Right view]] — listed for comparison
+
 ## Sources
 
 - Buddhism, Right View

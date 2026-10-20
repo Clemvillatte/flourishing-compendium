@@ -28,12 +28,13 @@ The two uses do different work. Frankl's is an orientation: a life directed at s
 
 ## Related concepts
 
+
 - [[The search for meaning]] — what the search aims at, on Frankl's account
 - [[Self-transcendent experiences]] — the episodic states this orientation aims at
 - [[Ego dissolution]] — the annihilational component in its strong form
 - [[Collective effervescence theory Durkheim]] — the group-level version of connected self-loss
 - [[Pure experience]] — the undivided field such experiences briefly restore
-
+- [[Will to power]] — listed for comparison
 ## Sources
 
 - [Yaden, Haidt, Hood, Vago and Newberg 2017, "The Varieties of Self-Transcendent Experience," Review of General Psychology 21(2)](https://journals.sagepub.com/doi/10.1037/gpr0000102) — the definition; the taxonomy; annihilational and relational components.

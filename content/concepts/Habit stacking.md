@@ -20,8 +20,10 @@ Its kin are [[Implementation intentions]] (the if-then cousin in goal-setting re
 ## Related concepts
 
 
+
 - [[Behavioural chaining (applied behaviour analysis)]] — the everyday cousin of the chaining recipe (comparison, not lineage)
 - [[Habit]] — compare its routine-anchoring recipe with James's advice to support resolutions
+- [[Habit formation]] — listed for comparison
 ## Sources
 
 - Fogg, 2019

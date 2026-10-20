@@ -23,8 +23,9 @@ As a psychological concept, kenosis is often compared to modern research on humi
 
 ## Related concepts
 
-- [[Docta ignorantia]] — the unknowing that knows itself, in the Christian key
 
+- [[Docta ignorantia]] — the unknowing that knows itself, in the Christian key
+- [[Agape]] — listed for comparison
 ## Sources
 
 - [Wikipedia, Kenosis](https://en.wikipedia.org/wiki/Kenosis) — the Philippians 2:5–9 quotation, the five occurrences of kenóō, and the range of contested interpretations.

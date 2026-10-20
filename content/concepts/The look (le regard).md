@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “The look (le regard)” — Sartre, Being and Nothingness.
 
+## Related concepts
+
+- [[The face]] — listed for comparison
+
 ## Sources
 
 - Sartre, Being and Nothingness

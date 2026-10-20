@@ -44,7 +44,7 @@ Applied to present-day choices, this contrast invites a question about attention
 ## Psychology parallels
 
 - **[[Locus of evaluation|Locus of evaluation]]**, well-being depends on internal rather than external reference frames (Rogers, 1961)
-- **Extrinsic versus intrinsic motivation** (Deci and Ryan, 2000)
+- **Extrinsic versus [[Intrinsic motivation|intrinsic motivation]]** (Deci and Ryan, 2000)
 
 ## Philosophy parallels
 

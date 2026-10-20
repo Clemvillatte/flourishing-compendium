@@ -15,13 +15,14 @@ The caricature of the sage as an unfeeling robot is belied by the Stoics' own ac
 
 ### The discipline
 
-Epictetus gives the practice: "Men are disturbed not by things, but by the views which they take of things. Thus death is nothing terrible, else it would have appeared so to Socrates. But the terror consists in our notion of death, that it is terrible" ([Enchiridion 5, Higginson translation](https://www.gutenberg.org/files/45109/45109-h/45109-h.htm)). The training ground is the dichotomy of control: "There are things which are within our power, and there are things which are beyond our power" ([Enchiridion 1](https://www.gutenberg.org/files/45109/45109-h/45109-h.htm)).
+Epictetus gives the practice: "Men are disturbed not by things, but by the views which they take of things. Thus death is nothing terrible, else it would have appeared so to Socrates. But the terror consists in our notion of death, that it is terrible" ([Enchiridion 5, Higginson translation](https://www.gutenberg.org/files/45109/45109-h/45109-h.htm)). The training ground is [[The dichotomy of control|the dichotomy of control]]: "There are things which are within our power, and there are things which are beyond our power" ([Enchiridion 1](https://www.gutenberg.org/files/45109/45109-h/45109-h.htm)).
 
 ### In the compendium
 
 S071's emotions are judgments and S059's not being carried away by passion are the direct carries; AF001's affect as information rather than verdict is the clinical cousin; AF034's equanimity as a capacity is a modern neighbour to set beside the ideal. The compendium sets other vocabularies beside it as well: B007's fires cooling here and now, D041's purity and stillness (qingjing), R063's rectification of the mind (zhengxin), and B096's even-mindedness.
 
 ## Related concepts
+
 
 - [[Equanimity]] — the steady affect apatheia leaves behind
 - [[Nirvana]] — the Buddhist cessation, an in-compendium neighbour
@@ -30,7 +31,7 @@ S071's emotions are judgments and S059's not being carried away by passion are t
 - [[Premeditatio malorum]] — rehearsing what judgment will face
 - [[Temperance]] — the cardinal virtue that orders appetite
 - [[Wu wei]] — non-forcing, the Daoist cousin of non-struggling
-
+- [[Gelassenheit]] — listed for comparison
 ## Sources
 
 - [SEP, "Stoicism" (Durand, Shogry & Baltzly)](https://plato.stanford.edu/entries/stoicism/)

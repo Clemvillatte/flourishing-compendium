@@ -33,7 +33,7 @@ Imagine predicting that a colleague's proposal will fail. A trial then produces 
 ## Psychology parallels
 
 - **[[Cognitive flexibility|Cognitive flexibility as a core of mental health]]** (Kashdan and Rottenberg, 2010)
-  The linked review addresses psychological flexibility, including shifts in mindsets and behavior; its title and abstract do not make the claim specifically for cognitive flexibility alone. ([Kashdan and Rottenberg abstract](https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:21151705&resultType=core&format=json))
+  The linked review addresses [[Psychological flexibility|psychological flexibility]], including shifts in mindsets and behavior; its title and abstract do not make the claim specifically for cognitive flexibility alone. ([Kashdan and Rottenberg abstract](https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:21151705&resultType=core&format=json))
 
 ## Philosophy parallels
 

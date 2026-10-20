@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Experiential avoidance research” — Hayes et al., 2011.
 
+## Related concepts
+
+- [[Psychological flexibility]] — listed for comparison
+
 ## Sources
 
 - Hayes et al., 2011

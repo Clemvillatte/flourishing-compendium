@@ -23,7 +23,7 @@ Treat social comparison — the tendency to evaluate oneself against others — 
 
 ## Philosophy parallels
 
-- Stoics — the dichotomy of control — Thinker: Epictetus — Reference: Enchiridion, 1. Montaigne — the personal measure — Thinker: Montaigne — Reference: Montaigne, Essays.
+- Stoics — [[The dichotomy of control|the dichotomy of control]] — Thinker: Epictetus — Reference: Enchiridion, 1. Montaigne — the personal measure — Thinker: Montaigne — Reference: Montaigne, Essays.
 - **Other:**, **EEMM link:** Social comparison is the self-dimension of the EEMM responding to the sociocultural context.
 
 ## Practice

@@ -16,8 +16,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ## Related concepts
 
 
+
 - [[Virtue]] — the intellectual virtue that finds the mean in particulars
 - [[Moral situation research]] — the situationist pressure on trait-based accounts of wisdom
+- [[Wisdom]] — listed for comparison
 ## Sources
 
 - Aristotle, Nicomachean Ethics VI.5

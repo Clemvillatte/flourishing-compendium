@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Dialogue” — Buber, I and Thou; Gadamer, Truth and Method; Marcel, Mystery of Being.
 
+## Related concepts
+
+- [[Associated living]] — listed for comparison
+
 ## Sources
 
 - Buber, I and Thou

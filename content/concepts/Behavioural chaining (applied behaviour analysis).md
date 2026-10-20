@@ -23,6 +23,7 @@ BE024 "Learn to use chaining: link behaviours into sequences" is the compendium'
 
 ## Related concepts
 
+
 - [[Shaping (Skinner)]] — the neighbouring procedure, building new responses by successive approximations
 - [[Habit stacking]] — the everyday cousin of the chaining recipe (a comparison, not a lineage claim)
 - [[Habit]] — BE024 describes everyday routines as habit chains
@@ -30,7 +31,7 @@ BE024 "Learn to use chaining: link behaviours into sequences" is the compendium'
 - [[Behavior analysis]] — the parent tradition defining task analysis and reinforcement
 - [[Operant conditioning (Skinner)]] — the learning process each link relies on
 - [[Behavioral activation]] — AF036's action-focused comparison
-
+- [[Habit formation]] — listed for comparison
 ## Sources
 
 - [Slocum & Tiger, "An assessment of the efficiency of and child preference for forward and backward chaining," Journal of Applied Behavior Analysis 44(4) (2011), pp. 793-805](https://pmc.ncbi.nlm.nih.gov/articles/PMC3251282/) — definitions of the three procedures; the comparison findings and their caution

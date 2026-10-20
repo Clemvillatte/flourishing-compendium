@@ -12,8 +12,9 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 - Wong, 2016
 ## Related concepts
 
-- [[Eternal recurrence]] — early readers located the doctrine's function in Nietzsche's critique of nihilism (SEP)
 
+- [[Eternal recurrence]] — early readers located the doctrine's function in Nietzsche's critique of nihilism (SEP)
+- [[Will to power]] — listed for comparison
 ## Sources
 
 - Nietzsche, Thus Spoke Zarathustra

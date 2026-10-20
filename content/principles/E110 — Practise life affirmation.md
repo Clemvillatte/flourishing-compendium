@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 502** — Practise life affirmation
 
-Affirm life unconditionally — not because life is good, but because affirmation is the highest form of the will to power. Life affirmation is not optimism; it is the practice of saying yes to existence, including its suffering, its finitude, its ambiguity. Practise the affirmation of life in all its dimensions.
+Affirm life unconditionally — not because life is good, but because affirmation is the highest form of [[Will to power|the will to power]]. Life affirmation is not optimism; it is the practice of saying yes to existence, including its suffering, its finitude, its ambiguity. Practise the affirmation of life in all its dimensions.
 
 (Nietzsche, 1882/1974, The Gay Science, §276, §321; Nietzsche, 1883/1961, Thus Spoke Zarathustra, "The Night Song" and "The Dancing Song"; Nietzsche, 1888/1992, Twilight of the Idols, "Formulas of 'Affirmation'.")
 

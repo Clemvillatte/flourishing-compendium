@@ -30,12 +30,13 @@ Nishida's Inquiry opens with the same move: experience prior to judgment. In the
 
 ## Related concepts
 
+
 - [[Stream of consciousness]] — James's other name for the undivided flow
 - [[The specious present]] — the present field James calls pure experience
 - [[Shikantaza, just sitting]] — objectless sitting as enacted non-duality
 - [[Bracketing]] — the phenomenological move that suspends the subject-object split
 - [[Beginner's mind]] — the open stance that has not yet divided experience
-
+- [[Self-transcendence]] — listed for comparison
 ## Sources
 
 - [James, Essays in Radical Empiricism (Gutenberg)](https://www.gutenberg.org/files/32547/32547-h/32547-h.htm) — both definitions; the newborn-babes concession; the retrospection act.

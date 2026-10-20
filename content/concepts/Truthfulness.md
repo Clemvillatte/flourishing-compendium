@@ -12,6 +12,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 - Kant, On a Supposed Right to Lie
 - Foucault, lectures on parrhesia
 - Heidegger, Being and Time
+## Related concepts
+
+- [[A019]] — A019 works through Nicomachean Ethics IV.7: truthfulness as the mean between boasting and mock modesty in how a person describes themselves.
+
 ## Sources
 
 - Aristotle, Nicomachean Ethics IV.7

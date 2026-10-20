@@ -10,6 +10,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 bodily signals guide decision-making; patients with emotional deficits make poor decisions (Damasio, 1994; Bechara et al., 1994).
 
+## Related concepts
+
+- [[Appraisal theory]] — listed for comparison
+
 ## Sources
 
 - Damasio, 1994

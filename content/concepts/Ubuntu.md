@@ -31,6 +31,7 @@ Ubuntu anchors the relational R-principles: R001 "I am because we are" states th
 
 
 
+
 - [[Ren]] — the Confucian counterpart: humaneness realised in relation to others (comparison, not influence)
 - [[I and Thou]] — Buber: personhood comes alive in genuine encounter
 - [[The relational self]] — the psychological version of the claim that selves are made in connection
@@ -47,6 +48,7 @@ Ubuntu anchors the relational R-principles: R001 "I am because we are" states th
 - [[Family systems theory]] — personhood constituted in relation as a comparison from southern Africa
 - [[Independent vs interdependent self-construal (Markus & Kitayama)]] — the psychological theory that parallels this personhood
 - [[R012]] — R012 is the compendium's Ubuntu dignity principle, carrying verbatim Tutu from No Future Without Forgiveness, the work behind the concept page's dignity discussion.
+- [[Associated living]] — listed for comparison
 ## Sources
 
 - [Wikipedia, Ubuntu philosophy](https://en.wikipedia.org/wiki/Ubuntu_philosophy) — original seed citation

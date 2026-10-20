@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Autarky” — Aristotle, the contemplative's self-sufficiency's autarky echo.
 
+## Related concepts
+
+- [[A095]] — A095 traces Aristotle's claim that contemplation is the most self-sufficient activity, and his limits on it: bodily needs, moderate means, and a self-sufficiency that includes family and fellow citizens.
+
 ## Sources
 
 - Aristotle, the contemplative's self-sufficiency

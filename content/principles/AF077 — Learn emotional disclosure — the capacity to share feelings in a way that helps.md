@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 77** — Learn emotional disclosure: the capacity to share feelings in a way that helps
 
-Expressive writing and emotional disclosure have robust evidence for improving well-being, processing difficult experiences, and reducing intrusive thoughts. But disclosure has a form: it is not venting; it is structured, meaning-making disclosure.
+Expressive writing and emotional disclosure have robust evidence for improving well-being, processing difficult experiences, and reducing intrusive thoughts. But disclosure has a form: it is not venting; it is structured, [[Meaning-making|meaning-making]] disclosure.
 
 **Plain words** Emotional disclosure has robust evidence: expressive writing and structured sharing improve wellbeing and reduce intrusions. But disclosure has a form: coherent narrative, some perspective, chosen audience. Structure turns venting into processing.
 

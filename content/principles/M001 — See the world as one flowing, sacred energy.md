@@ -21,7 +21,7 @@ The tlamatinime's metaphysics, as reconstructed by Maffie, centers on teotl: a s
 *For example:* Someone in a bad year keeps waiting for their "real life" to resume — then takes the teotl view: the low mood is weather in a system that has no other mode than moving, and their only job is not to dam it.
 ## Psychology parallels
 
-- **Process views and affect**, the general finding that seeing states as dynamic and temporary (rather than as fixed traits) reduces their grip (the growth-mindset and impermanence literatures; Dweck's work, with its replication debates noted)
+- **Process views and affect**, the general finding that seeing states as dynamic and temporary (rather than as fixed traits) reduces their grip (the [[Growth mindset|growth-mindset]] and impermanence literatures; Dweck's work, with its replication debates noted)
 
 ## Philosophy parallels
 

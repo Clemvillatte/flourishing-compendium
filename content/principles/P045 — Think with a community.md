@@ -33,7 +33,7 @@ Addams makes the same point from the ground. Twenty Years at Hull-House records 
 ## Philosophy parallels
 
 - **[[Community|Community of inquiry]]** (Peirce, Collected Papers)
-- **Democracy as associated living** (Dewey, Democracy and Education)
+- **[[Associated living|Democracy as associated living]]** (Dewey, Democracy and Education)
 
 <!-- fc: reflections
 Where is your current thinking done alone that would actually be improved by a circle? What would the circle do to the idea?
