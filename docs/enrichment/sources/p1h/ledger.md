@@ -712,3 +712,49 @@ pages. Continuing to AT075.
   (knowing-when-to-deliberate — the philosophy side of the same skill). Mention
   scan (System 1): Dual-process theory and System 1 and System 2 concepts already
   cite the material. Validator ok.
+
+### Milestone QC round 2 for items 11-15 (2026-10-20, worker-p1h-7d3e9c4a) — QC-PENDING REVIEW
+
+Advisor failed all five; repairs applied one item at a time via the state tool:
+- AT075: ADHD-specific framing kept (NIMH pattern; Faraone licensed-clinician sentence
+  now an exact quotation from the saved fetch, not a copy-paraphrase); "this
+  principle marks it" staging removed; plain words/example now concrete-examples-for-
+  appointment; the unopened APA differential bullet narrowed (differential diagnosis
+  is a clinical matter outside this page's opened sources).
+- BE072: "Addiction's defining mark is the one this principle names" opener deleted;
+  the intention-gap diagnostic rule removed; "seek treatment rather than resolve
+  harder" removed; practice section aligned to the body (NIDA's ongoing-adjusted
+  treatment wording); example now concrete.
+- BI004: blockquote order corrected to the fetched abstract's own sequence ("Beyond
+  the 'flight-or-fight'..." precedes "Yet, hormones..."); the HPA/cortisol/catecholamine
+  pathway claims verified against the McEwen full text (fetched passages: HPA axis
+  activation; cortisol among elevated systems; catecholamines/epinephrine/norepinephrine
+  as mediators); "wear-and-tear finding" and "in one breath" scaffolding removed;
+  practice section realigned (the old practice conflated racing heart with HPA and
+  prescribed recovery "to counter" chronic stress); ledger correction below.
+- BI010: posture/temperature/touch attributions removed; the 4-6-breaths/minute,
+  cold-water and posture prescriptions removed from Practice; "beginning a regulation
+  exercise with a bodily activity" framing kept with no guarantee; audit phrasing
+  ("the opened review") removed from parallels; example now concrete (meeting,
+  noting what you experienced).
+- CO002: Evans & Stanovich 2013 full paper OPENED (keithstanovich.com PDF; the
+  earlier "read via PubMed record" claim in my CO002 ledger entry was inaccurate —
+  it was a search-result snippet); the cautions paragraph now uses their defining
+  distinction (Type 1 autonomy; Type 2 cognitive decoupling, hypothetical thinking,
+  working memory; speed etc. correlated but not defining); Gigerenzer claim dropped
+  from body AND removed from parallels (unopened); practice recast as compendium
+  prompt; the on-disk Kahneman quote retains "habit and are therefore" (correct —
+  no file fix needed); E&S source line now points to the opened PDF.
+- Ledger corrections: (1) the BI004 entry claimed the two quoted McEwen sentences
+  were "consecutive in the abstract" — they were reversed relative to the fetched
+  order; now fixed on the page and corrected here. (2) The CO002 entry's Evans &
+  Stanovich sourcing is corrected as above.
+- Complete-file reads of all five principles done (full contents checked, including
+  parallels and Practice); complete-file reads of the 11 outgoing concept targets
+  done this round: Humility, The examined life, The bondage of desire, The
+  insatiability of craving, Freedom, The middle path, Equanimity, The lived body,
+  Right effort, Dual-process theory, Phronesis — no conflicts (the Dual-process
+  theory page's note that Kahneman later discouraged the System 1/2 labels is
+  consistent with CO002's labels-as-vocabulary caution).
+- Explicit-baseline validation rerun vs 3e069a63 (pre-batch checkpoint): 5 checked,
+  0 failed (actual output recorded above).
