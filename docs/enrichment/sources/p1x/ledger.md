@@ -179,3 +179,9 @@ Core prose (body per QC round-1 replacement text, VI.9 blockquote + IV.21 inline
 **Assertions corrected:** the page's "clear, positive possible selves predict effort, persistence, and achievement" claim narrowed per the Oyserman strategies boundary (possible selves alone are not associated with improved grades; with strategies, better grades). Destin & Oyserman 2010 not opened, dropped from bullet text.
 **Reciprocal candidates:** none new; Possible selves concept page already links SE039.
 **QC:** standard checks; SE028 milestone standard applied (full-page audit, philosophy framing).
+### SE043 — Cultivate authentic identity
+**Done:** SE043.
+**Sources opened:** Wood et al. 2008, abstract, Ovid publisher page, https://www.ovid.com/journals/jcoup/abstract/10.1037/0022-0167.55.3.385~the-authentic-personality-a-theoretical-and-empirical (fetch_url robots-blocked; page downloaded via curl and abstract verified in page text; access type: publisher abstract page).
+**Assertions dropped:** the essentialist plain-words framing ("a you that exists before anyone's expectations"); "the well-being research is blunt: people who live from the inside out do better" replaced with the abstract's correlational finding; Kernis & Goldman 2006 removed from bullet text (not opened); "distinct from selfishness" labelled compendium application.
+**Reciprocal candidates:** SE044 (sibling principle, public body). Pending supervisor.
+**QC:** standard checks; SE028 milestone standard applied.

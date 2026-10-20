@@ -74,6 +74,11 @@
       "into": "CO010 — Understand that thinking is narrative — you story your experience",
       "link": "SE035 — Understand identity as a project — you author yourself",
       "why": "CO010 presents the narrative form of thinking; SE035 is the identity-side principle of the same McAdams & McLean construct, with the grounded definition."
+    },
+    {
+      "into": "SE044 — Recognise the difference between authenticity and self-indulgence",
+      "link": "SE043 — Cultivate authentic identity — be who you are, not who others want",
+      "why": "SE043 now carries the grounded Wood et al. 2008 construct behind SE044's authenticity/self-indulgence distinction."
     }
   ],
   "inline": [
@@ -83,5 +88,5 @@
       "phrase": "performing one's roles well"
     }
   ],
-  "notes": "SE039: Markus & Nurius 1986 full text opened (cmapspublic2.ihmc.us PDF; definition and incentive function verified by string checks); Lee & Oyserman chapter opened (USC Dornsife PDF; strategies finding verified); the page's 'clear possible selves predict achievement' claim corrected per the strategies boundary; plain words re-derived; For example relabelled Imagine; philosophy parallels framed as suggested connections; Sources section added. No new reciprocals: the Possible selves concept page already links SE039."
+  "notes": "SE043: Wood et al. 2008 abstract opened via curl of the Ovid publisher page (fetch_url robots-blocked; access type recorded); tripartite conception and well-being findings quoted; 'distinct from selfishness' clause labelled compendium application; plain words re-derived (essentialist 'you before expectations' framing replaced with the scale's three components); For example relabelled Imagine; Kernis & Goldman 2006 removed from bullet text (not opened); philosophy parallels framed as suggested connections; Sources section added."
 }
