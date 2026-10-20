@@ -117,3 +117,7 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 ## Y014 (2026-10-21)
 - Woods HOS 17 p. 13 (1.3 and gloss); Arnold Gita ch. 2 (spirit "birthless and deathless"); SN 22.59 (Sujato, SuttaCentral, fetched; text elided with "..." in the tool output was not quoted). Quotes verified.
 - Old text's claims that Advaita asserts atman-Brahman identity and that the pragmatist tradition "brackets it as unactionable" have no source opened this session; the page says it makes no statement about them. The Buddhist denial of a self is now sourced to SN 22.59. The method position (examine procedures without ontological assent) is the book's own; labelled. Old cite BG 2.21-2.25 not checked against a numbered edition. Plain words replicate replaced; example imagined. Self-QC only. A later pass could add sourced Advaita (BU/Sankara) and pragmatist (e.g. James) citations.
+
+## Y018 (2026-10-21)
+- Woods HOS 17 pp. 26-27 (1.9 and commentary; "[26" and "27]" heads). Quotes verified. Woods renders vikalpa as "predicate-relation"; the principle's "imagination" is flagged as a different rendering.
+- Old text defined vikalpa as "cognition that follows from words alone"; Woods says "perceptions or of words". Planning/empathy examples and the rumination-labelling practice are not in the commentary (its examples are statements about the Self and grammar); labelled as the principle's. Added the commentary's point that vikalpa is neither valid cognition nor misconception. Plain words replicate replaced; example imagined. Self-QC only.
