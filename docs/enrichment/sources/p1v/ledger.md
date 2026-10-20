@@ -476,3 +476,24 @@ opened text at the recorded URL.
   (Duckworth et al. 2018) and philosophy parallels (Truth as long-run
   verification; [[Cash value]]) preserved untouched and NOT verified
   this session.
+
+## P061 — Make "being a process" your identity (2026-10-20)
+
+- OPENED: Carl R. Rogers, On Becoming a Person (1961), excerpt at
+  https://www.panarchy.org/rogers/person.html — same source as P014
+  (opened via the platform URL reader after the direct curl hit a bot
+  wall; the page was fetched again this item to verify the
+  fully-functioning-person passages in context).
+- Verified verbatim: both blockquotes ("It appears that the person who
+  is psychologically free..."; "One way of expressing the fluidity..."),
+  exact to the opened page. Transcription notes: the page italicises
+  "from" and "in" in the existential-living passage (emphasis not
+  reproduced); the page's characteristic list is numbered to three
+  (openness, existential living, organismic trust) — the seed's
+  five-characteristic framing was not used; the page's "an increasingly
+  tendency to live fully in each moment" carries the source's typo and
+  was not quoted. No printed-page numbers on the opened source.
+- The verbs-of-movement exercise is labelled as the compendium's.
+  Inherited psychology parallels (Dweck 2006; Markus and Nurius 1986) and
+  philosophy parallels (The good life as process; Dewey HNC; Becoming)
+  preserved untouched and NOT verified this session.
