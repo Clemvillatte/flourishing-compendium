@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 ---
 > **Principle 71** — Recognise motivation and neurodivergence: different patterns
 
-William Dodson offers an ADHD-specific account of engagement in ADDitude, a medically reviewed magazine:
+William Dodson offers an ADHD-specific account of engagement in an ADDitude article reviewed by its ADHD Medical Review Panel:
 
 > People with ADHD primarily get in the zone by being interested in, or intrigued by, what they are doing. I call it an interest-based nervous system.
 
@@ -21,8 +21,6 @@ William Dodson offers an ADHD-specific account of engagement in ADDitude, a medi
 He describes the other side of the account this way:
 
 > They know what's important, they like rewards, and they don't like punishment. But for them, the things that motivate the rest of the world are merely nags.
-
-The principle borrows the shape of Dodson's account, not its authority: one clinician's framing for one condition, offered as an example of the wider idea the title names, that engagement patterns differ and that advice assuming one pattern will fit people differently.
 
 **Plain words**
 Compare the situations in which you can begin and sustain a task with the situations in which you cannot. Record what differs between them, including interest or urgency. Those observations are what you have to work with when considering changes to how and when you work.
