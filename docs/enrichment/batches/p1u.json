@@ -17,9 +17,10 @@
  "flagged": {
   "B125": "Ownership overlap: already done by live p1m at c6f90c30; no p1u content edit; skip pending supervisor reconciliation",
   "B139": "Ownership overlap: already done in p1m; no p1u content edits; skip pending supervisor reconciliation",
-  "B140": "Ownership overlap: already done in p1h; no p1u content edits; skip pending supervisor reconciliation"
+  "B140": "Ownership overlap: already done in p1h; no p1u content edits; skip pending supervisor reconciliation",
+  "B157": "Ownership overlap: already done in p1k; no p1u content edits; skip pending supervisor reconciliation"
  },
  "missing_concepts": [],
  "sources_checked": 15,
- "updated": "2026-10-20T02:25:29+00:00"
+ "updated": "2026-10-20T02:25:31+00:00"
 }
