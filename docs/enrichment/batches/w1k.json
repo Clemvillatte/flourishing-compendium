@@ -6,11 +6,11 @@
   "Avidya",
   "The raft",
   "Abhyasa",
-  "Lifespan development",
   "Love",
   "Ironic process",
   "Svadharma, one's own duty",
-  "Intuition as method"
+  "Intuition as method",
+  "Lifespan development"
  ],
  "in_progress": null,
  "flagged": {
@@ -22,11 +22,11 @@
   "Svadharma, one's own duty": "QC2 REPAIR (advisor re-check): inline citation moved onto the first lead-in sentence (citation-placement rule). Validated vs seed baseline c2a3ee47: ok.",
   "Intuition as method": "QC2 REPAIR (advisor re-check): inline citation added to the explanatory opening sentence (citation-placement rule). Validated vs seed baseline c2a3ee47: ok.",
   "Ironic process": "QC2 REPAIR (advisor re-check): unconditional seed opener 'effort to force states backfires (Wegner, 1994).' deleted per advisor (inherited assertion, not evidence; the qualified paragraph supplies the introduction; inherited Wegner reference kept in Sources); inline citation added to the first qualified sentence. Validated vs seed baseline c2a3ee47: ok.",
-  "Lifespan development": "QC REPAIR (advisor, milestone items 6-10): field-defining opening removed (one finding is not the field); replaced with the advisor-specified lead-in scoped to longitudinal personality research and average trait levels; quotes now explicitly framed as Bleidorn et al.'s summary of Roberts et al.'s meta-analysis (I opened the 2022 review, not the 2006 paper); average-trajectory scoping kept. Facets, psychology-parallel links and inherited source lines preserved. Validated vs seed baseline c2a3ee47: ok.",
+  "Lifespan development": "QC2 REPAIR (advisor re-check): inline citation added to the two-sentence introduction (citation-placement rule). Validated vs seed baseline c2a3ee47: ok.",
   "Love": "QC REPAIR (advisor, milestone items 6-10): philia gloss and Book IX coverage claim removed (not established by the fetched pages); lead-ins replaced with the advisor-specified wording; malformed seed locator 'VIII-VIX' corrected to 'VIII-IX' after verifying against the edition's contents that Book IX continues the friendship discussion (classics.mit.edu Book IX fetched; opens with friendships between dissimilars); Nussbaum attribution preserved in the seed line; all inherited source lines and the Cited-in link preserved; both blockquotes retained, verified verbatim from the fetched Ross translation. Validated vs seed baseline c2a3ee47: ok."
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T07:21:27+00:00",
+ "updated": "2026-10-20T07:21:36+00:00",
  "band_done": false
 }
