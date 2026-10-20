@@ -470,3 +470,9 @@ priority, then B items in manifest order (manifest lists bare IDs; no titles).
 - Sources opened: https://www.accesstoinsight.org/tipitaka/an/an05/an05.057.than.html (Upajjhatthana Sutta AN 5.57, tr. Thanissaro) and https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.02.than.html (Dhammapada ch. II, Dhp 21, tr. Thanissaro; dhp.01 pages verified as verses 1-20 only).
 - Verbatim quotes: AN 5.57 framing line and the death fact ("I am subject to death, have not gone beyond death"); Dhp 21 heedfulness verses. Note: Dhp 21 initially misquoted as "the path of death"; corrected to "the path to death" against the opened page.
 - Plain words re-derived (say-the-facts exercise, sorting-not-dread framing); original inbox example kept. Cozzolino/Greenberg parallels left as inherited (not opened this session).
+
+### B194 — Be your own island (attadipa) (2026-10-20, worker-p1p-c23eecde)
+- State: seed → done. Last remaining p1p item; band at 30/30.
+- Source opened: https://www.accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html (Maha-parinibbana Sutta DN 16, tr. Sister Vajira & Francis Story).
+- Verbatim quotes: the "be islands unto yourselves" instruction and the four-foundations definition passage ("contemplating the body in the body... mental objects in mental objects"), both exact Vajira & Story wording.
+- Plain words re-derived (what-can-you-still-do framing, support-vs-substitute distinction grounded in the sutta's definition); original crisis example kept. Rotter/Bowlby parallels left as inherited (not opened this session).
