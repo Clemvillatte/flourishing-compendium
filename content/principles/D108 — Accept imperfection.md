@@ -24,14 +24,14 @@ Chapter 45 of the Daodejing runs a list of reversals: what is fullest seems empt
 >
 > (Daodejing 45, Legge)
 
-Read as counsel rather than paradox, the chapter says the person who can see their great work as poor keeps the energy to continue. As a compendium application, before the next round of fixes, ask what one more pass would actually add to the work.
+Legge links regarding great achievements as poor with vigour that endures. The compendium reads this as permission to acknowledge shortcomings without treating an achievement as worthless.
 
 (DDJ 45.)
 
 **Plain words**
-The verse pairs two ideas: seeing your achievements as poor, and vigour that endures. The exercise it suggests is a check before polishing further: what would the work lose if you stopped here, and what would one more pass actually add?
+A finished piece can still have faults. Decide which shortcomings prevent it from doing its job. You can acknowledge the others without hiding them or postponing completion indefinitely.
 
-*For example:* Imagine a fourth draft polished until every sentence is even. Before the fifth pass, check what the evenness cost.
+*For example:* Imagine an essay whose argument is clear but whose transitions you would still like to improve. You decide it is ready to share and note the transitions for a later revision.
 
 ## Sources
 

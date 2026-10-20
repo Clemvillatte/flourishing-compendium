@@ -19,14 +19,14 @@ Chapter 24 of the Daodejing opens with two bodily images, then widens the patter
 >
 > (Daodejing 24, Legge)
 
-The mechanics are in the image: tiptoe and overstride borrow height or speed the body does not have, and the loan is called in immediately as instability. The display repels rather than impresses; "those who pursue (the course) of the Tao do not adopt and allow them".
+The compendium applies these comparisons to claims of competence or certainty that exceed what a person can support.
 
 (DDJ 24.)
 
 **Plain words**
-Standing on tiptoe really does make you taller, briefly. It also makes you less steady, immediately. As a compendium exercise, notice where you are reaching past your actual footing: the claim slightly beyond your evidence, the commitment slightly beyond your week. Ask what the unforced version looks like.
+Separate what you know from what you want others to think you know. State what you can support, acknowledge what needs checking, and consider whether you are making a claim mainly to impress someone.
 
-*For example:* Imagine a new manager who performs confidence loudly in every meeting. The compendium's reading of the chapter is that the performance itself is the tiptoe: borrowed height, and the steadiness gone with it.
+*For example:* Imagine a new manager being asked a question she cannot answer. She acknowledges the gap and agrees to check the information before giving an answer.
 
 ## Sources
 

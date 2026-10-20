@@ -23,14 +23,14 @@ Chapter 28 of the Daodejing states its pattern three times: know the active stre
 >
 > (Daodejing 28, Legge)
 
-The chapter's second half says what the knowing is for. The sage, like the unworked material divided into vessels, "in his greatest regulations he employs no violent measures". Strength is held as capacity rather than display; the yield is chosen, not forced by weakness.
+The chapter's second half says what the knowing is for. The sage, like the unworked material divided into vessels, "in his greatest regulations he employs no violent measures". The compendium reads this as strength held as capacity rather than display, with the yield chosen rather than forced by weakness.
 
 (DDJ 28.)
 
 **Plain words**
-You can be the strongest person in the room and still choose not to lead with it. The chapter's test is whether the strength stays available without being shown: know what you could do, then watch what the situation does when you do less. The one who can push but asks instead gets told things the pusher never hears.
+Being able to insist does not oblige you to insist. Before pressing your view, let the other person explain theirs and consider whether using your authority is necessary.
 
-*For example:* The negotiator who can dominate the room but chooses to listen first usually ends up with more than the dominator.
+*For example:* Imagine chairing a meeting where you have the final decision. You ask a colleague to explain an objection before announcing your decision.
 
 ## Sources
 

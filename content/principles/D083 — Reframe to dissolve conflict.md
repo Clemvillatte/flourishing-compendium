@@ -21,14 +21,14 @@ The passage is from the second chapter of the Zhuangzi. A keeper of monkeys, han
 >
 > (Zhuangzi 2, Legge)
 
-The chapter draws the lesson for disputes: "the sagely man brings together a dispute in its affirmations and denials, and rests in the equal fashioning of Heaven. Both sides of the question are admissible." The daily total of acorns is the same in both proposals; what differs is the distribution, and the monkeys' anger and pleasure tracked the distribution. The compendium's use: before arguing the substance, check whether the presentation is doing the arguing.
+The chapter draws the lesson for disputes: "the sagely man brings together a dispute in its affirmations and denials, and rests in the equal fashioning of Heaven. Both sides of the question are admissible." The daily total of acorns is the same in both proposals; what differs is the distribution, and the monkeys' anger and pleasure tracked the distribution. The compendium applies the story by asking which terms can change while the total remains fixed.
 
 (Zhuangzi 2.)
 
 **Plain words**
-The monkeys got the same number of acorns either way; what flipped them from angry to pleased was the order the numbers arrived in. As a compendium exercise, when a disagreement stalls, ask what the fight is actually about: the total, or its arrangement.
+Before rejecting an offer, identify which part you object to. You may want a different arrangement without asking for more overall. Explain the change you would accept.
 
-*For example:* 'The project is three weeks behind schedule' versus 'we've discovered what not to do, with time to fix it': same situation, different room.
+*For example:* Imagine agreeing to seven hours of help across a weekend. You ask for four hours on Saturday and three on Sunday instead of the reverse. The total stays fixed; the timing changes.
 
 ## Sources
 
