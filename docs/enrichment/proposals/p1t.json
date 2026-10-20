@@ -1,42 +1,48 @@
 {
- "reciprocal": [
-  {
-   "into": "Rumination",
-   "link": "D119 \u2014 Keep to the center \u2014 excess words exhaust",
-   "why": "D119's psychology parallels list rumination research (worry as verbal-linguistic activity, Borkovec et al., 1983) alongside the chapter's counsel on spending speech; the two pages approach the same worry-in-words pattern from opposite directions",
-   "_audit_why": "D119 links [[Rumination|Rumination research]] in its psychology parallels; the Rumination concept's cited-in list (D037, D181, B070) lacks D119 \u2014 reciprocal edge missing. Verified by reading content/concepts/Rumination.md this session."
-  },
-  {
-   "into": "Yangsheng (cultivating vitality)",
-   "link": "D145 \u2014 Conserve your essence (jing)",
-   "why": "D145's locator line names the yangsheng literature as its home tradition, and the principle is a core yangsheng conservation teaching drawn from the Neiye",
-   "_audit_why": "D145 links [[Yangsheng (cultivating vitality)|yangsheng]]; the concept's cited-in list lacks D145 \u2014 reciprocal edge missing. Verified by reading content/concepts/Yangsheng (cultivating vitality).md this session."
-  },
-  {
-   "into": "Ziran (naturalness)",
-   "link": "D151 \u2014 Follow the seasons",
-   "why": "D151's philosophy parallels list links Ziran; the Ziran concept page's citation lists do not include D151 \u2014 the reciprocal edge is missing",
-   "_audit_why": "Verified by reading content/concepts/Ziran (naturalness).md in full this session: no mention of D151 anywhere on the page, while D151's philosophy parallels include [[Ziran (naturalness)|Ziran \u2014 naturalness]]."
-  },
-  {
-   "into": "Yangsheng (cultivating vitality)",
-   "link": "D149 \u2014 Moderate food, drink, sex, and sleep",
-   "why": "D149's locator line links the yangsheng literature as its home tradition; the moderation instruction the page quotes is a body-regulation passage from that tradition",
-   "_audit_why": "D149 links [[Yangsheng (cultivating vitality)|yangsheng]]; the concept page's cited-in lists (read in full this session) include D141, D150, D153 but not D149 \u2014 reciprocal edge missing. Verified by reading content/concepts/Yangsheng (cultivating vitality).md in full this session."
-  },
-  {
-   "into": "Courage",
-   "link": "D172 \u2014 Courage with caution",
-   "why": "D172's psychology parallels list the courage research separating fearlessness from courage; the Courage concept page's cited-in lists do not include D172",
-   "_audit_why": "D172 links [[Courage|Courage research separating fearlessness from courage]] in its psychology parallels; the Courage concept page (read in full this session, all 40 lines) has empty cited-in lists \u2014 reciprocal edge missing."
-  },
-  {
-   "into": "The doctrine of the mean",
-   "link": "D172 \u2014 Courage with caution",
-   "why": "D172's philosophy parallels list courage as the mean between rashness and cowardice; the doctrine-of-the-mean concept page's cited-in lists do not include D172",
-   "_audit_why": "D172 links [[The doctrine of the mean|Courage as the mean between rashness and cowardice]] in its philosophy parallels; the doctrine-of-the-mean concept page (read in full this session, all 71 lines) cites D149 but not D172 in its cited-in lists \u2014 reciprocal edge missing."
-  }
- ],
- "inline": [],
- "notes": "p1t proposals (worker-p1t-6b8f0c93, 2026-10-20), from D119 enrichment. Saturation checks run by reading the actual concept files: Apophatic theology, Slow-paced breathing, Aggression research, Ultimatum research, Just war criteria, The will to believe, Grit, Conformity, Minority influence, Herd morality all already cite their p1t principles. 'Differing from the crowd' cites DDJ 20 as source and B173; D109 does not link the concept, so no reciprocal applies. No inline proposals."
+  "reciprocal": [
+    {
+      "into": "Rumination",
+      "link": "D119 — Keep to the center — excess words exhaust",
+      "why": "D119's psychology parallels list rumination research (worry as verbal-linguistic activity, Borkovec et al., 1983) alongside the chapter's counsel on spending speech; the two pages approach the same worry-in-words pattern from opposite directions",
+      "_audit_why": "D119 links [[Rumination|Rumination research]] in its psychology parallels; the Rumination concept's cited-in list (D037, D181, B070) lacks D119 — reciprocal edge missing. Verified by reading content/concepts/Rumination.md this session."
+    },
+    {
+      "into": "Yangsheng (cultivating vitality)",
+      "link": "D145 — Conserve your essence (jing)",
+      "why": "D145's locator line names the yangsheng literature as its home tradition, and the principle is a core yangsheng conservation teaching drawn from the Neiye",
+      "_audit_why": "D145 links [[Yangsheng (cultivating vitality)|yangsheng]]; the concept's cited-in list lacks D145 — reciprocal edge missing. Verified by reading content/concepts/Yangsheng (cultivating vitality).md this session."
+    },
+    {
+      "into": "Ziran (naturalness)",
+      "link": "D151 — Follow the seasons",
+      "why": "D151's philosophy parallels list links Ziran; the Ziran concept page's citation lists do not include D151 — the reciprocal edge is missing",
+      "_audit_why": "Verified by reading content/concepts/Ziran (naturalness).md in full this session: no mention of D151 anywhere on the page, while D151's philosophy parallels include [[Ziran (naturalness)|Ziran — naturalness]]."
+    },
+    {
+      "into": "Yangsheng (cultivating vitality)",
+      "link": "D149 — Moderate food, drink, sex, and sleep",
+      "why": "D149's locator line links the yangsheng literature as its home tradition; the moderation instruction the page quotes is a body-regulation passage from that tradition",
+      "_audit_why": "D149 links [[Yangsheng (cultivating vitality)|yangsheng]]; the concept page's cited-in lists (read in full this session) include D141, D150, D153 but not D149 — reciprocal edge missing. Verified by reading content/concepts/Yangsheng (cultivating vitality).md in full this session."
+    },
+    {
+      "into": "Courage",
+      "link": "D172 — Courage with caution",
+      "why": "D172's psychology parallels list the courage research separating fearlessness from courage; the Courage concept page's cited-in lists do not include D172",
+      "_audit_why": "D172 links [[Courage|Courage research separating fearlessness from courage]] in its psychology parallels; the Courage concept page (read in full this session, all 40 lines) has empty cited-in lists — reciprocal edge missing."
+    },
+    {
+      "into": "The doctrine of the mean",
+      "link": "D172 — Courage with caution",
+      "why": "D172's philosophy parallels list courage as the mean between rashness and cowardice; the doctrine-of-the-mean concept page's cited-in lists do not include D172",
+      "_audit_why": "D172 links [[The doctrine of the mean|Courage as the mean between rashness and cowardice]] in its philosophy parallels; the doctrine-of-the-mean concept page (read in full this session, all 71 lines) cites D149 but not D172 in its cited-in lists — reciprocal edge missing."
+    },
+    {
+      "into": "Decision",
+      "link": "P076 — When habits conflict, let deliberation do its work",
+      "why": "P076's psychology parallels list decision research (deliberation-without-attention for complex choices, Dijksterhuis et al., 2006) as the principle's clinical echo; the Decision concept page's cited-in lists do not include P076",
+      "_audit_why": "P076 links [[Decision|Decision research]] in its psychology parallels; the Decision concept's cited-in lists (read in full this session) do not mention P076 — reciprocal edge missing. Verified by reading content/concepts/Decision.md this session."
+    }
+  ],
+  "inline": [],
+  "notes": "p1t proposals (worker-p1t-6b8f0c93, 2026-10-20), from D119 enrichment. Saturation checks run by reading the actual concept files: Apophatic theology, Slow-paced breathing, Aggression research, Ultimatum research, Just war criteria, The will to believe, Grit, Conformity, Minority influence, Herd morality all already cite their p1t principles. 'Differing from the crowd' cites DDJ 20 as source and B173; D109 does not link the concept, so no reciprocal applies. No inline proposals."
 }
