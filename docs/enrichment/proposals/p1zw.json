@@ -1,6 +1,6 @@
 {
  "batch": "p1zw",
- "revision": 12,
+ "revision": 13,
  "reciprocal": [
   {
    "into": "Anatta",
@@ -73,6 +73,12 @@
    "link": "K021",
    "why": "listed for comparison: James's body as the innermost part of the material self beside Nishida's historical body as co-creator of the world, two accounts of the body belonging to the self.",
    "notes": "Saturation scan 2026-10-21 (K021 item): SE006's body quotes James's Principles of Psychology ch. X (sourced on its page) but does not link K021; K021 now quotes the SEP historical-body passage. The tool-being of equipment concept already links K021."
+  },
+  {
+   "into": "D036",
+   "link": "K042",
+   "why": "listed for comparison: two vessel readings of the body and life, the Daodejing's treasuring of the vessel that holds everything (D036) beside Shantideva's instruction to pay the vessel its wages without lavishing everything on it (K042).",
+   "notes": "Saturation scan 2026-10-21 (K042 item): D036 quotes DDJ 44 on its page but does not link K042; the two principles take deliberately different stances on the same vessel image (treasure vs wages), which is the comparison's value. No concept pages found needing links."
   }
  ]
 }
