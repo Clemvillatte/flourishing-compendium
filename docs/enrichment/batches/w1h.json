@@ -20,7 +20,8 @@
   "Complexity theory in psychology",
   "Component Process Model of Emotion",
   "Consummatory experience",
-  "Contingencies of self-worth (Crocker)"
+  "Contingencies of self-worth (Crocker)",
+  "Coping flexibility"
  ],
  "in_progress": null,
  "flagged": {
@@ -43,10 +44,11 @@
   "Complexity theory in psychology": "fast-track; evidence: Dayioglu 2025 review (PMC12805186) + Sturmberg 2017 (PMC7187952); closure edits applied: inline citations on opening synthesis, paragraph-opening locators on both Dayioglu quotes",
   "Component Process Model of Emotion": "fast-track; evidence: Scherer 2001 OUP chapter open PDF; closure edits applied: opening citation p. 93, unverified final framing sentence deleted",
   "Consummatory experience": "fast-track; evidence: Dewey Art as Experience ch. 3 open PDF; closure edit applied: opening citation added",
-  "Contingencies of self-worth (Crocker)": "fast-track; evidence: Crocker & Wolfe 2001 author-hosted PDF; closure edits applied: opening citation p. 594, Other-formulations line replaced with the paper's qualified wording linked to p. 611"
+  "Contingencies of self-worth (Crocker)": "fast-track; evidence: Crocker & Wolfe 2001 author-hosted PDF; closure edits applied: opening citation p. 594, Other-formulations line replaced with the paper's qualified wording linked to p. 611",
+  "Coping flexibility": "fast-track; evidence: Cheng, Lau & Chan 2014 Psychological Bulletin meta-analysis, PubMed abstract (25222637) opened this session; conceptualizations list, effect size r=.23 and moderation findings verbatim from the abstract; no advisor QC due (item 21; next QC at item 25)"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T07:12:04+00:00",
+ "updated": "2026-10-20T07:12:38+00:00",
  "band_done": false
 }
