@@ -25,7 +25,7 @@ Bhagavad Gita 6.29 describes a person whose mind is harmonized by Yoga. This per
 
 ## Philosophy parallels
 
-- **[[Tat tvam asi|Tat tvam asi, the relational reading]]** (Chandogya 6.8.7; the ethical interpretation)
+- **[[Tat tvam asi|Tat tvam asi, the relational reading]]** (Chandogya 6.8.7)
 - **[[Umuntu ngumuntu ngabantu|Umuntu ngumuntu ngabantu]]** (Nguni proverb)
 
 ## Sources
