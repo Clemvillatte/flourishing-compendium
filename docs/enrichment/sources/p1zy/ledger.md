@@ -334,3 +334,9 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 - Quotes verified: matched fetched pages.
 - Seed repairs: chain confirmed (contemplating, attachment, desire, anger, clouded judgment, bewildered memory, destroyed intellect, ruin; the translation uses "intellect" where the old page said "wisdom"). Interception at earliest link, "most enter at dwelling", and "earliest is cheapest" labelled as the page's own. Kavanagh/Andrade/May, dependent origination, Plato not opened.
 - Saturation: low.
+
+## Y059 (2026-10-21, worker-p1zz-b81e3f52)
+- Sources opened: Woods YS 1.30 and 1.32 with Vyasa and the Tika (pp. 64-65).
+- Quotes verified: matched woods text (differences are hyphenation, page-break header and an en-dash).
+- Seed repairs: Woods' nine are sickness, languor, doubt, heedlessness, listlessness, worldliness, erroneous perception, failure to attain a stage, instability; page glosses (mental inertia, laziness, craving) mapped. Text gives ONE remedy (1.32), not one per obstacle; "each obstacle has a different remedy" labelled as unsupported and the naming-first rule as the page's own. Differential-diagnosis and Marcus Aurelius not opened.
+- Saturation: low.
