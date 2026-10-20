@@ -12,15 +12,15 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 2** — Know that the split is made, not found
 
-The subject-object split, Nishida argues, is a second-order act: we first live in unbroken engagement with the world, and only afterwards does reflection stand apart and posit an "I" over against things. This matters practically because it reverses the burden of proof: the separated self is the construction, and the constructed thing can be examined as a construction. Practically, when self-consciousness becomes painful (scrutiny, social anxiety, self-monitoring), remember which layer is the addition, and step back toward the engaged layer rather than trying to fix the scrutinizing layer from inside itself.
+In Nishida's early account, pure experience precedes the differentiation into an experiencing subject and an experienced object; the individual is formed out of it (Maraldo, "Nishida Kitarō", §2.1). The compendium reads the principle as a claim about where the burden of explanation sits: an account of experience that starts with a spectator standing apart from things has already divided the event in two, and the division is the part that needs explaining.
 
-> "The moment of seeing a color or hearing a sound" is prior not only to the thought that the color or sound is the activity of an external object or that one is sensing it, but also to the judgment of what the color or sound might be. (John Maraldo, "Nishida Kitarō", Stanford Encyclopedia of Philosophy, quoting An Inquiry into the Good, p. 3)
+> "The moment of seeing a color or hearing a sound" is prior not only to the thought that the color or sound is the activity of an external object or that one is sensing it, but also to the judgment of what the color or sound might be. (John C. Maraldo, "Nishida Kitarō", §2.1, Stanford Encyclopedia of Philosophy; the opening phrase quotes Nishida's An Inquiry into the Good, p. 3, the surrounding wording is Maraldo's commentary)
 
 (Nishida, An Inquiry into the Good; the late logic of place.)
 
-**Plain words** Standing apart as an "I" looking at the world isn't where you start. You start inside the engagement and only later step back and build the observer. That reverses the usual burden of proof: the separate self is what needs explaining, and anything made can be looked at as made.
+**Plain words** An account of hearing that starts with you on one side and a sound on the other has already divided the event in two. This principle asks you to examine that starting assumption.
 
-*For example:* In a crowded room you become aware of yourself as a watched object and suddenly can't walk normally. Thirty seconds earlier you were just walking.
+*For example:* Imagined example: after listening to a friend's story, compare attending to the story with describing yourself as its listener.
 
 ## Sources
 
@@ -28,7 +28,7 @@ The subject-object split, Nishida argues, is a second-order act: we first live i
 
 ## Psychology parallels
 
-- **Objective self-awareness's costs**, the finding that heightened self-focus worsens performance and mood under load (Duval and Wicklund's self-awareness research; the spotlight-effect findings as neighbors)
+- **Objective self-awareness's costs** (Duval and Wicklund's self-awareness research)
 
 ## Philosophy parallels
 
