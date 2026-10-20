@@ -7,12 +7,11 @@
   "SE053",
   "SE070",
   "SE074",
-  "SE075",
   "SE077",
   "SE079",
   "SO010"
  ],
- "in_progress": null,
+ "in_progress": "SE075",
  "flagged": {
   "SE037": "inherited parallels not certified: Waterman 1993 outcome claim + Apology 38a parallels kept as found; see sources/p1zo/SE037.md",
   "SE045": "QC history: milestone advisor rounds 2-3 repairs applied and re-validated. D087 near-duplicate: supervisor/owner disposition needed. Inherited DDJ 13 parallel unverified. See sources/p1zo/SE045.md",
@@ -20,13 +19,13 @@
   "SE058": "QC history: milestone advisor repairs applied and re-validated against opened clean edition. Inherited Larson 1990 / Long & Averill 2003 claims unverified. See sources/p1zo/SE058.md",
   "SE070": "QC history: milestone advisor rounds 2-3 repairs applied and re-validated. Inherited Kernberg 1975 / Miller 2011 / Pincus 2009 claims unverified. See sources/p1zo/SE070.md",
   "SE074": "Reopened for QC: milestone QC round 2: scope repairs",
-  "SE075": "Reopened for QC: milestone QC round 2: scope repairs",
+  "SE075": "Reopened for QC: QC round 3: historical-priority phrasing",
   "SE077": "Reopened for QC: milestone QC round 2: repairs",
   "SE079": "Reopened for QC: milestone QC round 2: repairs",
   "SO010": "Reopened for QC: milestone QC round 2: repairs"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:30:50+00:00",
+ "updated": "2026-10-20T11:33:53+00:00",
  "band_done": false
 }
