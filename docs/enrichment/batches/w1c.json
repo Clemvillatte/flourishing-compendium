@@ -46,13 +46,12 @@
   "Friendship",
   "Intergroup contact",
   "Narrative therapy",
-  "The having mode",
   "The specious present",
   "Self-concordant goals",
   "Resilience",
   "Spotlight effect (Gilovich)"
  ],
- "in_progress": null,
+ "in_progress": "The having mode",
  "flagged": {
   "ERG Theory": "cited-in list (270+ Daoist principles) appears to be an auto-generated mapping; no principle text references ERG directly",
   "PEN Model": "cited-in list (614+ Daoist principles) appears to be an auto-generated mapping; no principle text references the PEN model directly",
@@ -70,11 +69,12 @@
   "The specious present": "Reopened for QC: QC: quote fidelity (a time), attribution, verify pure-experience facet",
   "Self-concordant goals": "Reopened for QC: QC: bare links, excerpt punctuation",
   "Resilience": "Reopened for QC: QC: suggests, at-risk scope, remove unsupported glosses",
-  "Spotlight effect (Gilovich)": "Reopened for QC: QC: excerpt punctuation, unverified attributed line removed, anchoring gloss"
+  "Spotlight effect (Gilovich)": "Reopened for QC: QC: excerpt punctuation, unverified attributed line removed, anchoring gloss",
+  "The having mode": "Reopened for QC: QC: Perlego primary verification for three passages; mediated attribution for the rest"
  },
  "missing_concepts": [],
  "sources_checked": 36,
- "updated": "2026-10-20T07:05:22+00:00",
+ "updated": "2026-10-20T07:06:18+00:00",
  "band_done": false,
  "new_concepts": [
   {
