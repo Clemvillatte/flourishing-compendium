@@ -212,3 +212,40 @@ All three files revalidated (3 checked, 0 failed) after repairs.
   collection; the book text itself is intact per the extraction.
 - Saturation: fast-track exemption; no reciprocal proposed.
 - QC: validator ok.
+
+## Milestone QC round (item 10, 2026-10-20)
+
+Advisor milestone QC on "Cultural dimensions theory Hofstede" plus transcript
+review. Round 1 FAIL on four items; repairs applied and revalidated:
+
+- Cultural dimensions theory Hofstede: definition-fragment string replaced
+  with a source-attributed synthesis of all six dimensions; Triandis
+  genealogy clause removed (bare link kept; the 6D page does not establish
+  label adoption); SO012/PP061 clauses re-grounded in their bodies (SO012
+  names Hofstede's dimensions and says values are "not individual
+  destinies"; PP061 says well-being is not culture-free and a practice's
+  form must fit its context); society-level framing stated as the model's
+  level of comparison with the site's own "NOT about individuals" note.
+- Compassion-focused therapy: blockquote replaced (the earlier blockquote
+  had reconstructed the page's mangled "(Reference Depue and
+  Morrone-StrupinskyDepue 2005)" citation as "(Depue 2005)"); now uses the
+  Box 3 sentence verbatim; three-systems model paraphrased with
+  attribution; B052 clause corrected (the article names Buddhist
+  psychology, not the B052 principle).
+- Creative values: the label "creative values" was NOT in the opened book
+  PDF's extracted text; grounded via the opened Uemura paper quoting
+  Frankl (1984, 133): "Creative values are what one finds by creating a
+  work or doing a deed." "The book's further chapters" replaced with the
+  text's own "need further elaboration" wording.
+- Right association: verse line-break slash removed from the quoted
+  fragment (paraphrase outside quotation marks now); "an early statement of
+  that mechanism" claim removed (DN 31 supplies ethical advice, not a
+  causal mechanism); the compendium's pairing now described as the wiki's
+  editorial connection.
+- Process: start-before-research rule noted; items 6-10 were recorded with
+  late start transitions (start immediately before done) — future items
+  record start before research/writing per the advisor's instruction.
+- Following nature's rhythms: namespace gate remains PENDING supervisor
+  disposition (not accepted; see the Category A flag).
+
+4 files revalidated (4 checked, 0 failed) after repairs.

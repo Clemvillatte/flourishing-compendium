@@ -13,9 +13,9 @@ Right association is the Buddha's advice to the young householder Sigala in the 
 
 ### Friends and false friends
 
-The four kinds are named by conduct: the mentor is known "by restraining you from wrongdoing, guiding you towards good actions", the compassionate friend by "not rejoicing in your misfortune, delighting in your good fortune". The sutta pairs the list with a warning: "the taker, the talker, the flatterer, and the reckless companion" are "not friends, but enemies", and the wise "keep them at a distance / As they would a dangerous path."
+The four kinds are named by conduct: the mentor is known "by restraining you from wrongdoing, guiding you towards good actions", the compassionate friend by "not rejoicing in your misfortune, delighting in your good fortune". The sutta pairs the list with a warning: "the taker, the talker, the flatterer, and the reckless companion" are "not friends, but enemies", and the wise keep them at a distance the way they would a dangerous path.
 
-Association here is treated as a cause of conduct, not just company: the compendium's principles on social attention, motivation and behaviour read DN 31 as an early statement of that mechanism.
+The compendium pairs the sutta's advice with its principles on social attention, motivation and behaviour.
 
 ### In the compendium
 
