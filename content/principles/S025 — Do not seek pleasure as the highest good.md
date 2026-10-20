@@ -22,7 +22,7 @@ Seneca's Letter 59 draws a line between pleasure and joy. The letter reports the
 
 ### Plain words
 
-Pleasure is not evil on this account, but it is unreliable: it follows from things going well, and things change. Joy, in Seneca's sense, follows from what you are, and luck does not move it.
+Seneca uses "pleasure" here for unstable delight based on something mistaken for a good. He contrasts it with joy grounded in virtue. For practice, ask what your satisfaction depends on.
 
 ### For example
 

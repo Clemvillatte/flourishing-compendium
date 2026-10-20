@@ -26,7 +26,7 @@ Marcus's account is that people do not act badly from malice but from "ignorance
 
 ### For example
 
-A coworker presents your work as his in a meeting. The next step on Marcus's account is concrete: name the specific contribution, ask that the record be corrected, and ask him directly what he thought he was protecting. The question may or may not change him; it is what keeps the correction from becoming payback.
+A contemporary application: suppose a coworker presents your work as theirs. Describe the contribution and request a correction. Ask what happened without supplying their motive. The exercise is to pursue correction without adding retaliation.
 
 ## Psychology parallels
 

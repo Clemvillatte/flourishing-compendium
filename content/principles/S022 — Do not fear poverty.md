@@ -26,7 +26,7 @@ Seneca proposes a rehearsal, not a verdict. If your basic needs are secure, try 
 
 ### For example
 
-Someone afraid of losing their income can run a cheap-week experiment: usual spending halved, the pantry emptied to its base, notes kept on what was genuinely missed versus what was habit. The record, not the discomfort, is the yield.
+Someone whose necessities are secure forgoes one optional purchase for several days and records what they miss. The record, not the discomfort, is the yield.
 
 ## Practice kernels
 

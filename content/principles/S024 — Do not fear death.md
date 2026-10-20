@@ -22,7 +22,7 @@ The argument behind it: death and life, honor and dishonor, pain and pleasure "e
 
 ### Plain words
 
-You will die; the date is unknown. The Stoic move is to inspect the fear rather than obey it. Write down what exactly is feared: the process of dying, or the leaving? The fear is a judgement that death is bad, and judgements can be examined.
+You will die; the date is unknown. In this Stoic exercise, examine the thought that death is bad and ask what reasons support it. Write down what exactly is feared: the process of dying, or the leaving?
 
 ### For example
 
