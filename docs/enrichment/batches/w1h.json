@@ -60,7 +60,8 @@
   "Posner's three-network model",
   "Prototype theory",
   "Psychoanalysis",
-  "Psychological needs theory"
+  "Psychological needs theory",
+  "Psychological resilience theory Bonanno"
  ],
  "in_progress": null,
  "flagged": {
@@ -117,6 +118,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T12:15:11+00:00",
+ "updated": "2026-10-20T12:16:25+00:00",
  "band_done": false
 }

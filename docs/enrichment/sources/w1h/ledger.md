@@ -619,3 +619,27 @@
   namespace-audit entry. Saturation: skipped per fast-track §1a (degree 8
   < 15); no cross-link proposals filed. Advisor QC: not due (item 12; next at
   item 15).
+
+## Psychological resilience theory Bonanno (2026-10-20, worker-p1zs-7a4e2c91, fast-track; degree 12 — eligible)
+
+- OPENED: Bonanno 2004 American Psychologist 59(1) 20-28 abstract via the ERIC
+  record (https://eric.ed.gov/?id=EJ684215) — blockquote (the abstract's
+  challenge sentence) verified verbatim on the opened record.
+- OPENED: Bonanno, Westphal & Mancini 2011, Annual Review of Clinical
+  Psychology 7 (Upaya PDF, https://www.upaya.org/uploads/pdfs/2011BonannoWestphalManciniARCP.pdf)
+  — the abstract's "most common outcome" sentence, the resilience-vs-recovery
+  distinction passage, the 45.9% spousal-loss and 60.7% breast-cancer
+  trajectory figures, the "part and parcel of ordinary human capabilities"
+  claim, and the review's verbatim quotation of the 2004 definition (p. 20)
+  all verified in the opened text. Body claims grounded accordingly; the
+  earlier draft's "trajectory studies" sentence was rewritten once the
+  2011 review was opened (the initial Sources line for the unopened 2005
+  paper was discarded, not kept).
+- In-the-compendium clauses grounded in the principle pages' own quoted
+  material (AF013, PP044 Bonanno-Burton 2011, D089 Zhuangzi drum, A028
+  Aristotle NE I.10 p.24, A010 Aristotle NE I.10 p.15, D012, S117 via
+  enrich_find context).
+- IS-IT-A-CONCEPT check: named theory with primary literature; no
+  namespace-audit entry. Saturation: skipped per fast-track §1a (degree 12
+  < 15); no cross-link proposals filed. Advisor QC: not due (item 13; next at
+  item 15).
