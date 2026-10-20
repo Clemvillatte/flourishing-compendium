@@ -12,20 +12,20 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 36** — Notice that language shapes what you can see
 
-Goodman's argument begins with the confinement: "If I ask about the world, you can offer to tell me how it is under one or more frames of reference; but if I insist that you tell me how it is apart from all frames, what can you say? We are confined to ways of describing whatever is described. Our universe, so to speak, consists of these ways rather than of a world or of worlds."
+Goodman's argument begins with the confinement:
 
 > We are confined to ways of describing whatever is described. Our universe, so to speak, consists of these ways rather than of a world or of worlds.
 >
-> (Nelson Goodman, Ways of Worldmaking)
+> (Nelson Goodman, Ways of Worldmaking, ch. 1, [full text at Internet Archive](https://dn790000.ca.archive.org/0/items/GoodmanWaysOfWorldmaking/185739050-Goodman-Ways-of-Worldmaking_text.pdf))
 
-The consequence for learning is his remark on how worlds get made: "Worldmaking as we know it always starts from worlds already on hand; the making is a remaking." New distinctions are not added to a finished scene; they remake the scene from materials already in hand. The compendium's application: the categories you speak with are among those materials, so acquiring new ones — art's, science's, another culture's — is a way of acquiring a world.
+Goodman also writes: "Worldmaking as we know it always starts from worlds already on hand; the making is a remaking" (ch. 1, p. 6). New distinctions are not added to a finished scene; they remake the scene from materials already in hand. The compendium's proposed exercise is to compare descriptions of the same subject and consider which distinctions each description makes.
 
 (Goodman, Ways of Worldmaking, 1978.)
 
 **Plain words**
-The world you can see is partly a function of the words you have for it. Before the wine course, the shelf holds red and white; after, it holds forty things. The exercise: pick a domain you know casually, learn its real vocabulary, and notice what becomes distinguishable that was previously a blur.
+Choose something familiar and describe it using the vocabulary you already know. Then consult another account and compare the descriptions. Which features does each name? What questions does each allow you to ask?
 
-*For example:* After a wine-tasting course, the supermarket shelf is a different shelf — nothing changed but the distinctions, and now there are forty wines where there was one red.
+*For example:* Imagine two wine labels that state the grape and region. Compare them first by colour, then by those listed details, and write down how the descriptions differ.
 
 ## Sources
 

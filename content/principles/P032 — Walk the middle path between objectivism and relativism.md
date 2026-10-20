@@ -12,20 +12,20 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 32** — Walk [[The middle path|the middle path]] between objectivism and relativism
 
-Bernstein's name for the pull toward both extremes is the Cartesian Anxiety: "With a chilling clarity Descartes leads us with an apparent and ineluctable necessity to a grand and seductive Either/Or. Either there is some support for our being, a fixed foundation for our knowledge, or we cannot escape the forces of darkness that envelope us with madness, with intellectual and moral chaos."
+Bernstein's name for the pull toward both extremes is the Cartesian Anxiety. Jeffery L. Bineham reproduces this passage from Richard Bernstein's *Beyond Objectivism and Relativism* (p. 18):
 
-> Either there is some support for our being, a fixed foundation for our knowledge, or we cannot escape the forces of darkness that envelope us with madness, with intellectual and moral chaos.
+> Either there is some support for our being, a fixed foundation for our knowledge, or we cannot escape the forces of darkness that envelop us with madness, with intellectual and moral chaos.
 >
-> (Richard Bernstein, Beyond Objectivism and Relativism, p. 18)
+> (Bernstein, Beyond Objectivism and Relativism, p. 18, [quoted in Bineham](https://bineham.wordpress.com/wp-content/uploads/2023/07/cartesian_anxiety.pdf))
 
-The middle path in Bernstein's book is not a midpoint compromise but the refusal of the Either/Or itself. The objectivist and the relativist share the assumption that the only alternative to a fixed foundation is no standards at all. The compendium's reading: better and worse claims exist, disciplined by experience, dialogue, and practice.
+The compendium uses this passage to question the choice between fixed foundations and having no standards. Its proposed exercise is to compare disputed claims by naming the evidence and reasons for preferring one.
 
-(Bernstein, Beyond Objectivism and Relativism, 1983.)
+(Bernstein, Beyond Objectivism and Relativism, p. 18.)
 
 **Plain words**
-Notice the Either/Or when it arrives in conversation: either one fixed foundation or no standards at all. Both halves let you stop working. When a claim is disputed, name what would make it better or worse: what experience would show it, who would have to agree, what practice would test it. That naming is the middle path.
+When you disagree with a claim, write down what you would need to examine to judge it. Identify relevant evidence and objections, and say what would make you revise your view.
 
-*For example:* 'That's just your opinion' and 'The science is settled' are both ways of ending the comparison of claims. The middle path is where that comparison happens.
+*For example:* Imagine two colleagues proposing different schedules. They compare the estimated workload and the deadlines each proposal must meet.
 
 ## Sources
 
