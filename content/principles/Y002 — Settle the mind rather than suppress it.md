@@ -12,22 +12,31 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 2** — Settle the mind rather than suppress it
 
-The famous definition, "yoga is the settling of the mind's activity," describes a process of settling, not the clamping down that beginners imagine. Nirodha is what water does when the wind stops: the same water, no longer agitated. Attempting to force the mind quiet produces the opposite, because the forcing is itself mind-activity. Practically, aim at conditions for settling (relaxed posture, unpressured attention, time) rather than at quietness by decree.
+Patañjali's definition, in the Woods translation, reads "yoga is the restriction of the fluctuations of mind-stuff" (YS 1.2), and the next sutra names the means: "the restriction of them is by means of practice and passionlessness" (YS 1.12). Practice, in Woods' rendering of 1.13, is exertion toward the mind-stuff having permanence in the restricted state. Nothing in these sutras describes clamping the mind down; the means given are practice and passionlessness, and the state aimed at is a restricted, settled one. Forcing quietness is itself a fluctuation of mind-stuff, on this account, and the compendium exercise follows from the texts: arrange the conditions of practice (steady posture, unhurried time, relaxed attention) and let the restriction come about by means of practice rather than by decree.
 
-(YS 1.2; YS 1.12.)
+> Yoga is the restriction of the fluctuations of mind-stuff.
+>
+> Patañjali, Yoga Sūtra 1.2, translated by James Haughton Woods (1914), [reprinted text](https://www.theessentialway.org/yoga-sutras/).
 
-**Plain words** "Yoga is the settling of the mind's activity" — settling, not clamping. Nirodha is what water does when the wind stops: same water, no longer agitated. Forcing the mind quiet is just more wind. Stop whipping the surface and it clears on its own.
+**Plain words**
+The sutra says yoga is the mind-stuff settling out of its fluctuations. The prescribed means are practice and passionlessness, not force. Set up the conditions — a steady seat, unhurried time, relaxed attention — and treat quietness as something practice produces, not something you demand on the spot.
 
-*For example:* The meditator who spent years wrestling their thoughts into silence — and the year they finally just sat and let the water go still, the practice actually started working.
+**For example**
+In an imagined exercise, a beginning meditator who has been silently repeating "stop thinking" notices that the repetition is itself a fluctuation, drops the command, and returns attention to the breath for the remainder of the sitting.
+
 ## Psychology parallels
 
-- **[[Ironic process|Ironic process theory]]**, the finding that thought suppression amplifies the suppressed content (Wegner, 1994), which is why the practice works through settled redirection
+- **[[Ironic process|Ironic process theory]]** (Wegner, 1994)
 
 ## Philosophy parallels
 
-- **[[Wu wei|Wu wei as non-forcing]]** (Laozi, Daodejing 37)
+- **[[Wu wei|Wu wei as non-forcing]]** (Laozi, as cross-tradition echo)
 - **[[Chitta-vritti|Chitta-vritti]]** (Yoga-Vedanta)
 
 ## Practice kernels
 
 - [[K386 — Try not to think of elephants]]
+
+## Sources
+
+- [The Yoga Sūtras of Patañjali, Woods translation (1914), reprinted](https://www.theessentialway.org/yoga-sutras/) — 1.2, 1.12, 1.13
