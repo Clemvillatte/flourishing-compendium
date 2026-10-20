@@ -12,7 +12,7 @@ Recognising limits, in the Stoic account, is the first distinction the Enchiridi
 > "There are things which are within our power, and there are things which are beyond our power. Within our power are opinion, aim, desire, aversion, and, in one word, whatever affairs are our own. Beyond our power are body, property, reputation, office, and, in one word, whatever are not properly our own affairs."
 > — [Epictetus, Enchiridion I, trans. Thomas W. Higginson (Gutenberg)](https://www.gutenberg.org/files/45109/45109-h/45109-h.htm)
 
-The move is not resignation. Recognising limits is what makes the training of the things that are up to you possible, since the effort that goes into fighting the other category is effort that cannot go into the first. The compendium's list of what has limits — body, illness, medication, clinical boundaries — is an editorial extension of Epictetus's own "not properly our own affairs" category (body, property, reputation, office), not a restatement of his list.
+The Enchiridion puts opinion, aim, desire and aversion within our power, and body, property, reputation and office beyond it. The compendium's own list of what has limits — body, illness, medication, clinical boundaries — is the compendium's framing, not Epictetus's; it sits alongside his category without being contained by it.
 
 ### In the compendium
 
@@ -25,8 +25,8 @@ The move is not resignation. Recognising limits is what makes the training of th
 
 ## Related concepts
 
-- [[Wu wei]] — the Daoist version of the same non-forcing
-- [[Radical freedom]] — Sartre's counter-move, which says even the situation's meaning is up to you
+- [[Wu wei]]
+- [[Radical freedom]]
 
 ## Sources
 

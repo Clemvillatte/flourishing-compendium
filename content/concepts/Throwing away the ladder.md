@@ -14,7 +14,7 @@ Throwing away the ladder is Wittgenstein's own instruction about how to read his
 
 The image is not a licence to discard ideas on a whim. It says a teaching can be useful and true-in-use while it is being used, and still be something you put down once it has done its work.
 
-Buddhist texts make the same point with the raft simile: the Buddha compares his teaching to a raft used to cross a flood, and notes that once you are across you do not carry the raft around on your head; you leave it ([B014 — Use views as tools, not possessions (the raft)]], [[B127 — Dismantle the raft when you've crossed]]).
+Buddhist texts make the same move with the raft simile. The Alagaddupama Sutta has the Blessed One say, in Thanissaro's translation: "In the same way, monks, I have taught the Dhamma compared to a raft, for the purpose of crossing over, not for the purpose of holding onto. Understanding the Dhamma as taught compared to a raft, you should let go even of Dhammas, to say nothing of non-Dhammas" ([Thanissaro Bhikkhu, Alagaddupama Sutta MN 22](https://www.accesstoinsight.org/tipitaka/mn/mn.022.than.html)). The compendium's own principles [[B014 — Use views as tools, not possessions (the raft)]] and [[B127 — Dismantle the raft when you've crossed]] draw on the same image.
 
 ### In the compendium
 
@@ -34,6 +34,7 @@ Buddhist texts make the same point with the raft simile: the Buddha compares his
 ## Sources
 
 - [Wittgenstein, Tractatus Logico-Philosophicus 6.54, C. K. Ogden translation (kfs.org)](https://www.kfs.org/jonathan/witt/t654en.html) — the proposition, quoted verbatim
+- [Thanissaro Bhikkhu, Alagaddupama Sutta MN 22 (accesstoinsight)](https://www.accesstoinsight.org/tipitaka/mn/mn.022.than.html) — the raft simile, quoted verbatim
 - Wittgenstein, Tractatus 6.54 (original seed line, kept)
 
 [[S044 — Act as a member of the whole]]
