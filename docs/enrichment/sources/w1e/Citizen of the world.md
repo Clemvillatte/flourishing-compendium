@@ -6,4 +6,4 @@
   2. "The only true commonwealth was, he said, that which is as wide as the universe." (VI.72).
 - Prose scoping: the coinage-origin point is presented only as a note in the Hicks edition ('cautiously suggests that, if the answer is authentic, it apparently indicates...'); the reading that the reply refuses the local identity as the whole of who one is is labelled on the page as the compendium's interpretation. The Greek parallel (Perseus, tl.g.0004 VI.63) was seen in search results but the English page is the quoted source.
 - Front-matter, all nine original wikilinks, and the Cited-in section preserved; validator --fast-track ok as part of the done transition.
-- Milestone QC (advisor, 2026-10-20, 5-item mark): repairs applied and validated against the pre-enrichment baseline (10cc1005); item closed.
+- Milestone QC (advisor, 2026-10-20, 5-item mark): advisor verdict SCOPED PASS after repairs — acceptance covers the reviewed passages and demonstrated checks, not independent verification of every claim or of unopened primary volumes.
