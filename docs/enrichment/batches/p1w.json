@@ -3,9 +3,9 @@
  "done": [
   "K008"
  ],
- "in_progress": null,
+ "in_progress": "K001",
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T05:39:20+00:00"
+ "updated": "2026-10-20T05:39:35+00:00"
 }

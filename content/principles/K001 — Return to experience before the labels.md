@@ -12,17 +12,21 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 1** — Return to experience before the labels
 
-Nishida's founding concept, pure experience, names the state prior to the separation of the experiencing self from the experienced world: before "I am seeing this" there is just seeing. Nishida's examples are deliberately ordinary: the moment of absorbed perception before reflection carves it into observer and observed. The principle is the return trip: the labels are useful, but they are not the original, and much suffering is manufactured in the commentary layer that the labels generate. Practically, several times a day, drop to the raw event (sensation, sound, seeing) for ten seconds before the story about it resumes.
+Nishida's opening move in An Inquiry into the Good is a description, not an argument. At the beginning of a direct experience there is no separate "I" watching a separate "thing"; there is just the experience. Nishida calls this direct experience pure, and he marks it by saying what it is not: it does not yet contain the thought that a colour belongs to an external object, or the judgment that it is one thing rather than another.
 
-(Nishida, An Inquiry into the Good, the opening chapters.)
+> "The moment of seeing a color or hearing a sound" is prior not only to the thought that the color or sound is the activity of an external object or that one is sensing it, but also to the judgment of what the color or sound might be ([SEP, Nishida Kitarō, quoting Nishida 1990a, p. 3](https://plato.stanford.edu/archives/win2023/entries/nishida-kitaro/)).
 
-**Plain words** Before you think "I am looking at a tree," there's just the looking. Nishida's point is that the split into me here and tree there comes second, after the experience. Labels are handy. They're also a layer on top, and a lot of our tiredness lives in that layer. Go back to the raw moment now and then.
+The return the principle asks for is a return to this layer. When labels arrive, they are useful for shared projects and practical planning. The claim is that the labelled description is not the whole of what is happening, and that a habit of treating it as the whole misses a part of life that was always there.
 
-*For example:* Hearing a song you love and, for ten seconds, nobody is listening and nothing is being listened to. Then you think "this is nice," and the moment has already changed.
+(Nishida, An Inquiry into the Good, Part I, ch. 1.)
+
+**Plain words** Suppose a friend says something that hurts. The words arrive first, and only afterwards does the account of the hurt arrive. The account is useful for deciding what to say back, but it is not the original event. This principle asks you to check whether the original is still available underneath the account.
+
+*For example:* Nishida's own example of a direct experience is the moment of seeing a colour or hearing a sound, before the thought that the sound is an external object, that one is sensing it, or what it is. The compendium's exercise is to try attending to a sound for ten seconds without naming what it is.
 
 ## Psychology parallels
 
-- **[[Bare attention in mindfulness practice|Bare attention in mindfulness practice]]**, the operational component of attending to raw experience before interpretation (Bishop et al., 2004, the two-component definition)
+- **[[Bare attention in mindfulness practice|Bare attention in mindfulness practice]]** (Bishop et al., 2004, the two-component definition)
 
 ## Philosophy parallels
 
