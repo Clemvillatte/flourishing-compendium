@@ -27,10 +27,10 @@
   "AF024",
   "AF031",
   "AF037",
-  "AF041",
   "AF052",
   "AF053",
-  "AF057"
+  "AF057",
+  "AF041"
  ],
  "in_progress": null,
  "flagged": {
@@ -57,10 +57,11 @@
   "AF022": "Reopened for QC: QC: transmission overstatement; mine-or-picked-up binary; example causal conclusion",
   "AF024": "Reopened for QC: QC: plain-words evolutionary claim unverified; glosses as fixed translations; aphoristic example closer",
   "AF031": "inherited title's 'timing matters more than intensity' ranking not established by the opened chapter (intensity is a moderator in the passages opened); supervisor disposition needed",
-  "AF037": "title claim 'you can try too hard' (general over-regulation) NOT established by the opened Levitt 2004 abstract; body scoped to the study; supervisor/owner may want a title decision"
+  "AF037": "title claim 'you can try too hard' (general over-regulation) NOT established by the opened Levitt 2004 abstract; body scoped to the study; supervisor/owner may want a title decision",
+  "AF041": "Reopened for QC: milestone QC FAIL (advisor): repairs in flight"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T13:49:24+00:00",
+ "updated": "2026-10-20T13:55:13+00:00",
  "band_done": false
 }
