@@ -100,3 +100,7 @@
 ## MO037 — Habit stacking
 - Sources opened: Lally et al. 2010 EJSP 40:998-1009 (abstract via Wiley, verbatim); Judah, Gardner & Aunger 2013 BJHP 18:338-353 (PMID 22989272, abstract, verbatim).
 - Corrections: "No new willpower required" and "increases adoption" not supported; Lally shows 18-254 days to automaticity with a daily cue; no study compared stacking vs other methods. Clear 2018 and Fogg 2019 unopened. Aristotle, Gradual Training Sutta, Daodejing 64 bullets inherited. Wikilink [[Habit stacking]] kept in body.
+
+## MO057 — Self-concordant goals
+- Sources opened: Sheldon & Elliot 1999 JPSP 76:482-497 (PMID 10101878, abstract, verbatim); Kasser & Ryan 1993 JPSP 65:410-422 (PMID 8366427, abstract); Plato Apology 38a (Jowett, MIT Classics, grep verified).
+- Corrections: "goals pursued for external reasons are less effective and less satisfying" is not in the opened abstract (it describes self-concordance effects); Kasser & Ryan 1993 concerns centrality of financial aspirations, not "intrinsic goals (growth, connection)" (that is Kasser & Ryan 1996, unopened). Sheldon 2004, Kasser 2002, Rogers, Buddhist right intention unopened.
