@@ -39,7 +39,7 @@
   "MO046",
   "MO074"
  ],
- "in_progress": null,
+ "in_progress": "MO075",
  "flagged": {
   "D086": "Reopened for QC: QC round 2 fixes applied, acceptance pending (genuineflourishing34); inherited psychology-parallels claim (Kernis and Goldman 2006) not re-verified, recorded as inherited",
   "BI009": "milestone QC ACCEPTED (advisor round 4c). Inherited parallels citations remain unverified by me (recorded in the item ledgers).",
@@ -61,7 +61,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 15,
- "updated": "2026-10-20T03:41:10+00:00",
+ "updated": "2026-10-20T03:41:13+00:00",
  "band_done": false,
  "takeover": {
   "by": "genuineflourishing35",
