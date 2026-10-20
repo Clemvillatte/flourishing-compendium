@@ -2,14 +2,15 @@
  "batch": "p1ze",
  "done": [
   "BE012",
-  "BE014"
+  "BE014",
+  "BE015"
  ],
- "in_progress": "BE015",
+ "in_progress": null,
  "flagged": {
   "BE012": "Reopened for QC: QC round 1 fail: source overstatement, locator missing, plain-words metaphor triad, example unlabelled; advisor repairs pending"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T08:04:39+00:00",
+ "updated": "2026-10-20T08:06:10+00:00",
  "band_done": false
 }

@@ -16,3 +16,10 @@ Per-item evidence notes (owner concise-bar items 6-7). Manifest: BE012..CO061, 3
 - Inherited parallels: Martell et al. 2001 / Dimidjian et al. 2011 / Hopko et al. 2003 assertions reduced to bare references (unverified); ACT-claim line re-grounded in the opened Veale abstract; "requires a plan" gloss removed, wikilinks preserved.
 - Saturation: Activity scheduling (BA) and Behavioral activation concepts already link BE014; no new proposals needed.
 - QC: not a milestone item (item 2 of 30); validator pass vs pre-item baseline 39a55e9c.
+
+## BE015 — graded task assignment
+- Source opened: Jacobson, Martell & Dimidjian (2001), "Behavioral Activation Treatment for Depression: Returning to Contextual Roots", Journal of Contemporary Psychotherapy 31(4) (open PDF: https://i-cbt.org.ua/wp-content/uploads/2017/11/Jacobson-BA-for-depression-2001.pdf). Fetched PDF text extracted locally; quotes matched the raw extraction and an independent web snippet of the same passage.
+- Quotes used (Graded Task Assignment section): "It is often explained to clients that starting new behaviors is a difficult task and that their success will be maximized if they are able to break down tasks into manageable components."; fragments "the reinforcing qualities of success and mastery over a given component will increase the likelihood of completing the other components" and "the task can be broken down further."
+- Inherited parallels: Bandura & Schunk 1981 "efficacy and momentum" assertion reduced to bare reference; Beck 1976 "increases completion" claim replaced with the opened source's account (GTA central in CT and BA); philosophy parallels kept (link text only).
+- Saturation: all 10 concepts mentioning "graded task" already link BE015; no new proposals needed.
+- QC: not a milestone item (item 3 of 30); validator pass vs pre-item baseline a699e88c.

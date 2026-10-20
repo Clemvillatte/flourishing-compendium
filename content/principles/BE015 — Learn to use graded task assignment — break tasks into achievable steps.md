@@ -12,15 +12,24 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BE — Overt Be
 ---
 > **Principle 15** — Learn to use graded task assignment: break tasks into achievable steps
 
-Graded task assignment involves breaking tasks into small, achievable steps and starting with the easiest. This overcomes overwhelm and builds momentum.
+Graded task assignment is the behavioural activation method for re-engagement: break an avoided task into components small enough that the first one is doable, then let each success make the next step more likely. In the treatment paper, Jacobson, Martell and Dimidjian put the client-facing version plainly:
 
-**Plain words** Big tasks are finished by small ones: break it down until the first step is so small it's almost insulting — then do that one. Momentum is built at the bottom of the staircase, not the top.
+> "It is often explained to clients that starting new behaviors is a difficult task and that their success will be maximized if they are able to break down tasks into manageable components." (Jacobson, Martell & Dimidjian, 2001)
 
-*For example:* The unopened tax folder becomes "open the folder" — a two-minute task that's somehow been avoided for a month. Open the folder. That's the whole assignment today.
+The same passage gives the mechanism: "the reinforcing qualities of success and mastery over a given component will increase the likelihood of completing the other components", and if a selected component proves too challenging, "the task can be broken down further." The grading is calibrated to what the person can actually finish.
+
+**Plain words** Big tasks are finished by small ones: break it down until the first step is so small it's almost insulting, then do that one. Momentum is built at the bottom of the staircase, not the top.
+
+*For example* Imagined: the unopened tax folder becomes "open the folder", a two-minute task somehow avoided for a month. Open the folder; that is the whole assignment today.
+
+## Sources
+
+- [Jacobson, Martell & Dimidjian, "Behavioral Activation Treatment for Depression: Returning to Contextual Roots", Journal of Contemporary Psychotherapy 31(4), 2001 (open PDF)](https://i-cbt.org.ua/wp-content/uploads/2017/11/Jacobson-BA-for-depression-2001.pdf) — quotes checked against the opened PDF text, Graded Task Assignment section
+
 ## Psychology parallels
 
-- **[[Graded task assignment (Beck, BA)|Graded task assignment (Beck, BA)]]**, breaking tasks into graded steps increases completion (Beck, 1976; Bandura & Schunk, 1981)
-- **Successive approximations**, starting with achievable steps builds efficacy and momentum (Bandura & Schunk, 1981; Martell et al., 2001)
+- **[[Graded task assignment (Beck, BA)|Graded task assignment (Beck, BA)]]**, breaking avoided tasks into achievable steps, a central component in both CT and BA for depression (Jacobson, Martell & Dimidjian, 2001; Beck et al., 1979 as cited therein)
+- **Successive approximations** (Bandura & Schunk, 1981; Martell et al., 2001)
 
 ## Philosophy parallels
 
@@ -30,4 +39,4 @@ Graded task assignment involves breaking tasks into small, achievable steps and 
 
 ## Practice
 
-- Break tasks down: identify the smallest, easiest first step. Do that. Then the next. Build momentum. Do not attempt the whole task at once.
+- For a task you keep avoiding, write the smallest version you are sure you can finish today, do that version, and only then size the next one.
