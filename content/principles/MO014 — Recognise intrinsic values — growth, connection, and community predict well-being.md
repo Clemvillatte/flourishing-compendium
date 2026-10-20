@@ -12,16 +12,16 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 ---
 > **Principle 14** — Recognise intrinsic values: growth, connection, and community predict well-being
 
-Not all values are equal in their effects on well-being. The research program began with Kasser and Ryan's studies of a "dark side to the American dream"; in the Niemiec, Ryan and Deci longitudinal study, the two categories of life goals diverged:
+Different aspirations have different associations with well-being. The Niemiec, Ryan and Deci manuscript summarizes two lines of work: studies of the relative importance of aspirations (Kasser & Ryan 1993, 1996, as summarized there), and its own longitudinal study of what attaining each kind of aspiration went with:
 
-> "Attainment of the intrinsic aspirations for personal growth, close relationships, community involvement, and physical health related positively to basic psychological need satisfaction and psychological health. In contrast, attainment of the extrinsic aspirations for money, fame, and image was unrelated to basic psychological need satisfaction and related slightly negatively to psychological health." (Niemiec, Ryan & Deci, "The Path Taken", Journal of Research in Personality, 2009)
+> "Attainment of the intrinsic aspirations for personal growth, close relationships, community involvement, and physical health related positively to basic psychological need satisfaction and psychological health. In contrast, attainment of the extrinsic aspirations for money, fame, and image was unrelated to basic psychological need satisfaction and related slightly negatively to psychological health." (Niemiec, Ryan & Deci, "The Path Taken", Journal of Research in Personality, 2009, author manuscript p. 17)
 
-The distinction is about relative centrality: the finding is not that money ruins you but that when money, fame, and image outweigh growth, connection, and community in your goal stack, the stack pays worse. This page's application: audit the portfolio — which of your current goals are intrinsic, which extrinsic, and what the ratio has been doing.
+This page's application, an audit exercise: list your current goals and mark which are growth, connection, and community (intrinsic) and which money, fame, and image (extrinsic). The studies report associations between such goal profiles and well-being; they do not establish that rearranging your list will change your life.
 
 **Plain words**
-The research divides life goals into two piles. One pile, growth, close relationships, community involvement, satisfies basic needs as you pursue it. The other pile, money, fame, image, is pursued for what it might buy, and the studies find getting it does nothing for need satisfaction. The catch in the finding is the word relative: it is not that a salary ruins you; it is that when the salary outranks the friendships in your own goal list, the well-being numbers drop. The audit is looking at your actual list and seeing which pile is winning.
+The research sorts life goals into two piles: growth, close relationships, community involvement on one side; money, fame, image on the other. In the studies, the intrinsic pile went with better well-being indicators, and attaining the extrinsic pile was not significantly associated with need satisfaction. The exercise is writing your own current goals on a page and seeing which pile they mostly sit in. What follows from that is for you to observe; the studies report associations.
 
-*For example:* The promotion that was supposed to change everything and changed nothing for more than a fortnight: the extrinsic goal was attained, and the research predicts nothing follows from that.
+*For example:* Imagine a promotion that doubles your income and takes the evenings your friendships lived in. The trade sits differently on different people; the studies only say which pile each goal belongs to.
 
 ## Sources
 
@@ -29,8 +29,8 @@ The research divides life goals into two piles. One pile, growth, close relation
 
 ## Psychology parallels
 
-- **[[Intrinsic versus extrinsic goals|Intrinsic vs extrinsic values (Kasser]] & Ryan)**, intrinsic values (growth, connection, community) predict well-being; extrinsic values (money, fame, image) do not (Kasser & Ryan, 1993; Kasser, 2002)
-- **Materialism is associated with lower well-being**, attainment of the money, fame, and image aspirations related slightly negatively to psychological health in the opened longitudinal study
+- **[[Intrinsic versus extrinsic goals|Intrinsic vs extrinsic values (Kasser]] & Ryan)**, in the studies summarized by the Niemiec, Ryan and Deci manuscript, the relative importance of intrinsic aspirations related positively to well-being indicators and negatively to ill-being indicators (Kasser & Ryan 1993, 1996, as summarized there)
+- **Materialism is associated with lower well-being**, attainment of the extrinsic aspirations related slightly negatively to psychological health in the 2009 study
 
 ## Philosophy parallels
 

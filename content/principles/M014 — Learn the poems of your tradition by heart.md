@@ -16,12 +16,12 @@ The Nahua discourses of the elders (huehuetlatolli) were speeches to be carried 
 
 > "Thou who art my son, thou who art my youth, hear the words; place, inscribe in the chambers of thy heart the word or two which our forefathers departed leaving: the old men [in huehuetque (vevetque)], the old women [in ilamatque (jlamatque)], the regarded ones, the admired ones, and the advised ones on earth." (Florentine Codex, Book 6, ch. 21; Anderson & Dibble translation, 6:113, as quoted in Lee, "Toward a New Interpretation of Prehispanic Discourses")
 
-The general claim this page draws from that practice: the memorized text is available at 3 a.m., in hospital waiting rooms, and in old age, when books and search engines are not. This page's application: carry a small repertoire (a poem, a psalm, a song, a passage) that you know by heart and add one piece per year.
+This page's application, built on the retrieval-practice study opened below: choose a short passage from a tradition you care about, put it aside, attempt to recall it, and check the omissions.
 
 **Plain words**
-Knowing something by heart means it survives conditions that take other things away. The old speeches assumed no writing was coming to save you: the words had to live in the person. Anything you have truly memorized, a poem, a psalm, a song, is available in the hospital waiting room at 3 a.m., in a form you can still call up when tired, old, or afraid. Pick one thing worth that place, and give it the year it takes to get in.
+Pick a short passage you want to carry. The way in is not rereading it until it feels familiar, but trying to produce it without looking: attempt the recall, see where it breaks, look only at the break, and try again. That is the procedure the testing-effect studies found worked better than restudying; the attempt itself is the learning.
 
-*For example:* A grandmother with dementia may lose the morning's hold while the hymns and old poems remain, arriving unprompted in the evening.
+*For example:* Choosing one passage this year, a psalm, a song, or a poem, and running the recall-and-check cycle on it weekly.
 
 ## Sources
 

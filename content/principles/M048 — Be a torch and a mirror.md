@@ -19,7 +19,7 @@ The Nahua description of the tlamatinime, the knowers of things, is a set of ima
 This page's reading of the images is a job description: illuminate (show what is there), reflect (show the other to themselves), guide (walk the road with). As an application, audit your roles in your communities against the triple: where are you a torch, where a mirror, where a guide, and which is missing?
 
 **Plain words**
-A torch, a mirror, a guide: three different services. The torch shows what is actually there in the situation. The mirror shows the other person to themselves, which is a different job: not telling them what to see, but arranging that they see it. The guide walks with. Most people are good at one and default to it everywhere; the audit is checking which of the three you never do. The passage does not rank them.
+Before offering help, ask what kind of help the person wants: to understand the situation, to look at their own part in it, or to take a next step. Do not assume the answer is the same each time; the same person may want a different one on a different day.
 
 *For example:* A mentor might do all three in one meeting: lay out the situation plainly, ask the question that lets you see your own part in it, and then walk the next stretch beside you.
 

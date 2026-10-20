@@ -12,20 +12,20 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 ---
 > **Principle 25** — Learn to use implementation intentions: if-then plans
 
-Implementation intentions — specific if-then plans ("if it is 7am, then I will run") — increase goal attainment by automating the link between situation and action. The meta-analysis of 94 tests:
+Implementation intentions — specific if-then plans ("if it is 7am, then I will run") — are associated with increased goal attainment. The meta-analysis of 94 tests, in the publisher-record abstract:
 
-> "Implementation intentions are if-then plans that connect good opportunities to act with cognitive or behavioral responses that are effective in accomplishing one's goals. ... The overall impact of forming implementation intentions on goal achievement was d = .65 based on k = 94 tests that involved 8461 participants." (Gollwitzer & Sheeran, "Implementation Intentions and Goal Achievement", Advances in Experimental Social Psychology, 2006)
+> "Findings from 94 independent tests showed that implementation intentions had a positive effect of medium-to-large magnitude (d= .65) on goal attainment." (Gollwitzer & Sheeran, "Implementation Intentions and Goal Achievement", Advances in Experimental Social Psychology, 2006)
 
-The effect is medium-to-large, and the mechanism is the if-then link itself: the plan must name both a concrete situation and a concrete action. This page's application: take one goal that keeps stalling and write one if-then sentence for its most common failure moment.
+The full text defines the plans this way: "Implementation intentions are if-then plans that connect good opportunities to act with cognitive or behavioral responses that are effective in accomplishing one's goals." Across the tests the review analyzed, this averaged out to a medium-to-large effect; the review also reports support for the component processes, enhanced accessibility of the specified opportunities and automated goal-directed responses. This page's application: take one goal that keeps stalling and write one if-then sentence for its most common failure moment.
 
 **Plain words**
-An if-then plan moves the decision from the moment of temptation to the moment of planning. "If it is 7 a.m., I run" leaves nothing to negotiate at 6:55. The meta-analysis puts the effect on actually attaining the goal at medium-to-large across 94 tests; the catch is that the if must be a situation you can recognize, and the then an action you can start.
+An if-then plan names a situation you will recognize and an action you can start, and joins them in one sentence. "If it is 7 a.m., I run" decides at planning time what 6:55 has no vote on. The reported average effect across 94 tests is medium-to-large; what any single plan does is for the person to observe.
 
-*For example:* "If I feel the urge to check my phone at my desk, then I'll write one more sentence first" — the plan intercepts the impulse before the debate starts. The debate was where you always lost.
+*For example:* One if-then plan to try: "If I feel the urge to check my phone at my desk, then I will write one more sentence first." The situation is the cue; the sentence is the response.
 
 ## Sources
 
-- Gollwitzer, P. M., & Sheeran, P., "Implementation Intentions and Goal Achievement: A Meta-Analysis of Effects and Processes", Advances in Experimental Social Psychology 38 (2006), pp. 69-119 — [full text, Internet Archive](https://archive.org/stream/06GollwitzerSheeranImplementationIntentionsAndGoalAchievement/06GollwitzerSheeran_ImplementationIntentionsAndGoalAchievement_djvu.txt)
+- Gollwitzer, P. M., & Sheeran, P., "Implementation Intentions and Goal Achievement: A Meta-Analysis of Effects and Processes", Advances in Experimental Social Psychology 38 (2006), pp. 69-119 — [publisher record (Konstanz)](https://kops.uni-konstanz.de/entities/publication/2e749bfb-8533-437c-8203-7e788c910c5f) (abstract quotation) and [full text, Internet Archive](https://archive.org/stream/06GollwitzerSheeranImplementationIntentionsAndGoalAchievement/06GollwitzerSheeran_ImplementationIntentionsAndGoalAchievement_djvu.txt) (definition quotation; 94 tests, 8,461 participants reported there)
 
 ## Psychology parallels
 

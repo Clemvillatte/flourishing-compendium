@@ -14,14 +14,14 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 
 Relatedness, feeling connected to and cared about by others, is one of the basic psychological needs in self-determination theory. The theory's formulation:
 
-> "the need for relatedness concerns feeling connected to, and cared about by, important others." (Niemiec, Ryan & Deci, "The Path Taken", Journal of Research in Personality, 2009)
+> "the need for relatedness concerns feeling connected to, and cared about by, important others." (Niemiec, Ryan & Deci, "The Path Taken", Journal of Research in Personality, 2009, author manuscript p. 3)
 
-The motivational claim follows from the aspirations research: the intrinsic goals, including close relationships and community involvement, satisfy the basic needs as you pursue them, which is why goals pursued in connection are easier to sustain than goals pursued in isolation. This page's application: build the connection into the pursuit (the study buddy, the class, the group chat) rather than trying to add motivation alone and connection later.
+The aspirations research puts close relationships and community involvement among the intrinsic goals. This page's suggested application: build supportive connection into the pursuit (a study partner, a class, a group) as something to try, not a guaranteed mechanism.
 
 **Plain words**
-Doing things with people, for people, seen by people: the research treats that as a nutrient, not a luxury. Feeling connected to and cared about by others is one of the basic needs the theory names, alongside autonomy and competence. The practical read: if a goal keeps dying in isolation, the missing ingredient may not be discipline; it may be people.
+The need is about feeling connected to and cared about by particular others — not merely being watched, and not merely being near people. A useful question before asking someone to keep you going on something: does this person actually know how it is going for me? If the answer is no, that is the gap to close first.
 
-*For example:* The home gym that gathered dust and the class you never miss — same exercises, different relatedness. The equipment wasn't the variable; the people were.
+*For example:* Imagine telling a friend the plan for the week, and the friend asking on Thursday how it went. The plan is the same either way; what the question adds is being known.
 
 ## Sources
 
@@ -30,7 +30,6 @@ Doing things with people, for people, seen by people: the research treats that a
 ## Psychology parallels
 
 - **[[Relatedness|Relatedness as basic need (SDT)]]**, feeling connected is fundamental to motivation (Deci & Ryan, 2000; Ryan & Deci, 2017)
-- **Social support and goal pursuit**, the SDT literature treats relatedness satisfaction as supporting motivation and well-being (per the opened Niemiec, Ryan & Deci 2009 manuscript); the Sheldon & Elliott and Hogan et al. citations were not re-verified this session
 
 ## Philosophy parallels
 
