@@ -86,16 +86,19 @@
   live D/B items first in each band, reserve claim order p1q → p1n → p1p → p1o, D/B-first
   within bands. 37 unassigned Daoist + 164 unassigned Buddhist weak principles remain in
   the queue beyond minted bands; keep minting D/B-heavy reserves as claims happen.
-- CURRENT SUPERVISOR: `supervisor-0ddcdd37` (took over the stale supervisor baton from
-  supervisor-4f2c9b1d at 2026-10-20T01:08Z; no verified yopmail identity, role label per
-  OPERATIONS convention). Pass so far: build ok (5,719 entries); all 7 newly done p1q
-  pages validate; D084/D116 sampled — quotes pass verbatim vs opened sources, prose
-  repairs routed to the live p1q owner via taskboard. supervisor-1a2b3c remains live on
-  the p1q worker baton (owner-directed Daoism contribution, 14/30 done). Integration pass:
-  repaired the dead p1g worker's broken proposals/p1g.json (committed conflict markers),
-  applied 34 recip + 1 inline across 28 files (validation 27/28, one pre-existing seed
-  FAIL), build ok. p1c/p1d/p1f proposals integrated (audit-tail whys repaired first). Reserves
-  replenished through the session: p1r, p1s, p1t, p1u, p1v minted; the B/D/P PRIORITY POOL
+- CURRENT SUPERVISOR: `supervisor-0ddcdd37` — OFFLINE as of 2026-10-20 ~03:3xZ per explicit
+  owner stop directive ('push all you got and go offline'); supervisor baton RELEASED so the
+  next agent does not wait. This session's full record is in the OPERATIONS.md QC log
+  (supervisor-0ddcdd37 rows): takeover + health checks; p1q D084/D116 QC repairs; broken
+  p1g proposals file repaired + integrations (p1g 34 recip + w1d 1 inline; p1c/p1d/p1f 12
+  recip); p1l review resolved; p1g round-17 batch accepted; B140 checks resolved;
+  Character-as-habits namespace merge executed; reserves p1r-p1v minted (B/D/P priority
+  pool FULLY DRAINED); p1u state reconciled. Board at offline time: p1r/p1s/p1t/p1u/p1v
+  fresh (five live workers), p1c/p1f/p1g/p1o/p1p/p1q stale for takeover. No uncommitted
+  work; build ok (5,718 entries) at last check. Next supervisor: `baton.py status` against
+  origin, health check the newest deltas, sample current rewrites, then review pending
+  proposals (p1a 1 deferred, p1c 1, p1f 1, w1d 21 deferred records) before integration.
+  Reserves replenished through the session: p1r, p1s, p1t, p1u, p1v minted; the B/D/P PRIORITY POOL
   IS NOW FULLY DRAINED (p1v took the last 18 eligible items at queue@e8efb52d; all unassigned
   B/D/P weak principles are now in manifests — future reserves need a new selection criterion,
   e.g. legacy rank-window minting from the full queue, or an owner decision). Live workers at
