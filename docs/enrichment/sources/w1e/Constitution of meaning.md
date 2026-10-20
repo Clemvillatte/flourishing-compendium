@@ -1,0 +1,9 @@
+# Constitution of meaning — evidence record (w1e, fast-track)
+
+- Degree: 10 connections (1 concept + 5 kernels + 1 principle + 3 stories) → fast-track eligible per PROTOCOL.md §1a.
+- Opened source: https://plato.stanford.edu/entries/husserl/ (SEP, "Edmund Husserl", Zahavi) — prompted verbatim extraction. All three blockquotes verbatim from the opened page:
+  1. "In meaning, a relation to an object is constituted" — Husserl quotation (Hua 19/59 [2001/I: 201]) in SEP §2 (Ideality and intentionality in the Logical Investigations).
+  2. "as Husserl already pointed out in Ideas I, the greatest and most important problems in phenomenology are related to the question of how objectivities of different kinds, from the prescientific to those of the highest scientific dignity, are constituted by consciousness" — SEP §3 sentence carrying the Hua 3/196 (Ideas I) citation; the parenthetical Husserl-Ausgabe locator was dropped from the page quote.
+  3. "Rather than simply being an object in the world, consciousness is also a subject for the world, i.e., a necessary condition of possibility for any entity to appear as an object in the way it does and with the meaning it has." — SEP §3.
+- Scoping: the seed names Husserl's Ideas I; the Ideas I connection is made only through the opened SEP sentence that itself cites Ideas I (Hua 3/196); the Logical Investigations quote is labelled with its Hua 19/59 locator as given in the SEP. The creativity/practice closing sentence is the compendium's reading, framed as what the compendium builds on, not as a Husserl claim. Only two Related-concept links exist in the compendium's namespace (Fusion of horizons, Bracketing); no third relevant concept was found on search.
+- Front-matter, all nine original wikilinks, and the Cited-in section preserved; validator --fast-track ok as part of the done transition.
