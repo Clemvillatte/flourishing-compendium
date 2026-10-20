@@ -40,4 +40,4 @@ The system that mobilises you for a threat is doing its job when the threat is r
 
 ## Practice
 
-- Recognise the stress response: when activated (racing heart, tension, shallow breath), the HPA axis is mobilising. This is adaptive acutely. The problem is chronic activation. Practise recovery (rest, breathing, sleep) to counter chronic stress.
+- When the stress response is active (racing heart, tension, shallow breath), the compendium's reading is McEwen's: protective in the short run, costly when kept running. The exercise is to look for where demands can be reduced and where recovery is possible.
