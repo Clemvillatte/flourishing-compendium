@@ -9,3 +9,10 @@ Per-item evidence notes (owner concise-bar items 6-7). Manifest: BE012..CO061, 3
 - Inherited parallels: Sheldon & Elliot 1999 assertion reduced to a bare reference (unverified, no wikilink); "examined values" and "virtuous activity" glosses removed, wikilinks preserved; ACT parallel re-grounded in the opened 2012 paper.
 - QC history: round 1 FAIL (source overstatement, missing locator, plain-words metaphor triad, unlabelled example, over-claiming proposals) -> repairs applied per advisor's exact text; round 2 scoped editorial PASS on body/plain words/example/practice with remaining parallel and proposal repairs -> applied (parallels grounded or made bare, proposals why clauses narrowed, citation comparisons moved to notes). Ledger records both rounds.
 - Plain words: re-derived (say-what-you-stand-for test), not a replicate of the body.
+
+## BE014 — activity scheduling
+- Source opened: Veale (2008), "Behavioural activation for depression", Advances in Psychiatric Treatment 14: 29-36 (https://www.cambridge.org/core/services/aop-cambridge-core/content/view/EBC5FC0D9D550FFBE6F982B33BF91EE9/S1355514600004375a.pdf/behavioural-activation-for-depression.pdf).
+- Quotes used (p. 32, matched the fetched PDF extraction): "The core of behavioural activation is gradually to identify activities and problems that the individual avoids and to establish valued directions to be followed. These are set out on planned timetables (activity schedules)."; fragments "start activity scheduling with short-term goals and to treat their timetables as a series of appointments with themselves" (lowercased start mid-quote) and "days should not be filled with activity for activity's sake".
+- Inherited parallels: Martell et al. 2001 / Dimidjian et al. 2011 / Hopko et al. 2003 assertions reduced to bare references (unverified); ACT-claim line re-grounded in the opened Veale abstract; "requires a plan" gloss removed, wikilinks preserved.
+- Saturation: Activity scheduling (BA) and Behavioral activation concepts already link BE014; no new proposals needed.
+- QC: not a milestone item (item 2 of 30); validator pass vs pre-item baseline 39a55e9c.

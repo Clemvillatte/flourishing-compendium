@@ -12,22 +12,31 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BE — Overt Be
 ---
 > **Principle 14** — Learn to use activity scheduling: plan specific activities at specific times
 
-Activity scheduling involves planning specific activities (valued, pleasurable, mastery-oriented) at specific times. This creates structure, increases engagement, and counters avoidance.
+Behavioural activation, a structured treatment for depression, works through activity scheduling: the work is to identify activities and problems the person avoids, establish valued directions, and set them out on planned timetables.
 
-**Plain words** Put it on the calendar or it doesn't exist. "When I get to it" is where intentions go to die; Thursday at 6 p.m. is where they live. The scheduling is the behaviour change.
+> "The core of behavioural activation is gradually to identify activities and problems that the individual avoids and to establish valued directions to be followed. These are set out on planned timetables (activity schedules)." (Veale, 2008, p. 32)
 
-*For example:* "I should call my brother more" — versus "Sunday, 10 a.m., call brother." One is a sentiment; the other has a timestamp and a fighting chance.
+The same guidance tells patients to "start activity scheduling with short-term goals and to treat their timetables as a series of appointments with themselves", and cautions that "days should not be filled with activity for activity's sake": the activities chosen must relate to what the person has been avoiding and accord with their valued directions.
+
+**Plain words** An intention without a time slot stays a wish. "I should call my brother more" can be postponed forever; "Sunday, 10 a.m., call brother" either happens or visibly does not. The schedule turns wanting into doing, and starting small keeps it doable when motivation is low.
+
+*For example* Imagined: someone who wants to restart exercise writes "Tuesday 7 p.m., 15-minute walk" in the diary and treats it like a meeting they booked with themselves.
+
+## Sources
+
+- [Veale, "Behavioural activation for depression", Advances in Psychiatric Treatment 14: 29-36, 2008 (Cambridge)](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/EBC5FC0D9D550FFBE6F982B33BF91EE9/S1355514600004375a.pdf/behavioural-activation-for-depression.pdf) — quotes checked against the opened PDF text, p. 32
+
 ## Psychology parallels
 
-- **[[Activity scheduling (BA)|Activity scheduling (BA)]]**, planning specific activities at specific times increases engagement and improves mood (Martell et al., 2001; Dimidjian et al., 2011)
-- **Weekly activity schedule**, planning the week's activities increases behaviour and reduces avoidance (Martell et al., 2001; Hopko et al., 2003)
+- **[[Activity scheduling (BA)|Activity scheduling (BA)]]**, behavioural activation focuses on activity scheduling to encourage patients to approach activities they are avoiding (Veale, 2008)
+- **Weekly activity schedule** (Martell et al., 2001; Hopko et al., 2003)
 
 ## Philosophy parallels
 
 - **Structure and discipline** (Monastic tradition)
 - **[[Right effort|Right effort: plan]]** (Buddhism)
-- **[[The examined life|The examined life]] requires a plan** (Socrates)
+- **[[The examined life|The examined life]]** (Socrates)
 
 ## Practice
 
-- Use activity scheduling: at the start of each week, plan specific activities (walk, call friend, hobby, work task) at specific times. Do not leave the week to chance; schedule it.
+- At the start of each week, set planned activities on a timetable and treat each as an appointment with yourself; start small and build up gradually.
