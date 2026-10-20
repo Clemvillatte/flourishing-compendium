@@ -5,12 +5,12 @@
   "BE014",
   "BE015"
  ],
- "in_progress": null,
+ "in_progress": "BE017",
  "flagged": {
   "BE012": "Reopened for QC: QC round 1 fail: source overstatement, locator missing, plain-words metaphor triad, example unlabelled; advisor repairs pending"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T08:06:10+00:00",
+ "updated": "2026-10-20T08:06:19+00:00",
  "band_done": false
 }
