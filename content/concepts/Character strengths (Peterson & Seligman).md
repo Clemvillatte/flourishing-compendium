@@ -7,13 +7,13 @@ file: "Character strengths (Peterson & Seligman)"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-C"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
-Character strengths are the positive traits in the classification Christopher Peterson and Martin Seligman published as Character Strengths and Virtues (2004). The classification lists 24 strengths under six virtue categories, and it is descriptive rather than prescriptive: it organizes what is known about each strength instead of telling people what to do. A person's top five in the classification are called signature strengths.
+Character strengths are the positive traits in the classification Christopher Peterson and Martin Seligman published as Character Strengths and Virtues (2004). The classification lists 24 strengths grouped under virtue categories including wisdom, courage, humanity, justice, temperance and transcendence, and it is descriptive rather than prescriptive: the emphasis is on classifying psychological ingredients of goodness across cultures rather than prescribing what people should do. In the 2005 exercise, participants received feedback on their five highest-ranked strengths, which the researchers called their signature strengths.
 
-> "In a six-group, random assignment, placebo-controlled Internet study, we tested five purported happiness interventions and one plausible control exercise. We found that three of the interventions lastingly increased happiness and decreased depressive symptoms." (Seligman, Steen, Park and Peterson, [Positive Psychology Progress: Empirical Validation of Interventions](https://greatergood.berkeley.edu/images/uploads/Seligman-PosPsychProgress.pdf), American Psychologist 60(5):410-421, 2005)
+> "In a six-group, random assignment, placebo-controlled Internet study, we tested five purported happiness interventions and one plausible control exercise. We found that three of the interventions lastingly increased happiness and decreased depressive symptoms." (Seligman, Steen, Park and Peterson, [Positive Psychology Progress: Empirical Validation of Interventions](https://greatergood.berkeley.edu/images/uploads/Seligman-PosPsychProgress.pdf), final-revision manuscript, April 2005; published as American Psychologist 60(5):410-421, 2005, [PubMed 16045394](https://pubmed.ncbi.nlm.nih.gov/16045394/))
 
 ### The signature strengths exercise
 
-The intervention the compendium builds on asked participants to take the character strengths inventory online, receive feedback on their top five, the signature strengths, and then use one of these in a new and different way every day for one week. In the study's results, using signature strengths in a new way was one of two exercises that increased happiness and decreased depressive symptoms for six months.
+The intervention the compendium builds on asked participants to take the character strengths inventory online and receive individualized feedback about their top five. As the paper puts it: "They were then asked to use one of these top strengths in a new and different way every day for one week." In that study, using signature strengths in a new way was one of two exercises that increased happiness and decreased depressive symptoms for six months.
 
 ### In the compendium
 
@@ -42,7 +42,8 @@ The intervention the compendium builds on asked participants to take the charact
 - Niemiec, 2018
 - the series' strengths kernels
 - Peterson and Seligman, 2004
-- [Seligman, Steen, Park and Peterson, "Positive Psychology Progress: Empirical Validation of Interventions" (American Psychologist 60(5):410-421, 2005, full text PDF)](https://greatergood.berkeley.edu/images/uploads/Seligman-PosPsychProgress.pdf) — opened source for the study design sentence, the signature strengths exercise instructions and the six-month findings sentence
+- [Seligman, Steen, Park and Peterson, "Positive Psychology Progress: Empirical Validation of Interventions" (final-revision manuscript PDF, Greater Good; published as American Psychologist 60(5):410-421, 2005, PubMed 16045394)](https://greatergood.berkeley.edu/images/uploads/Seligman-PosPsychProgress.pdf) — opened source for the study design sentence, the signature strengths exercise instructions and the six-month findings sentence; published-article details verified against [the PubMed record](https://pubmed.ncbi.nlm.nih.gov/16045394/)
+- [VIA Institute, "Character Strengths and Virtues: A Handbook and Classification"](https://www.viacharacter.org/character-strengths-and-virtues) — opened source for the 24-strengths and virtue-category structure and the descriptive-not-prescriptive characterization
 
 ## Cited in psychology parallels
 
