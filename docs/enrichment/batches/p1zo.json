@@ -20,9 +20,10 @@
   "SO062",
   "SO071",
   "SO074",
-  "SP003"
+  "SP003",
+  "SO070"
  ],
- "in_progress": "SO070",
+ "in_progress": null,
  "flagged": {
   "SE037": "inherited parallels not certified: Waterman 1993 outcome claim + Apology 38a parallels kept as found; see sources/p1zo/SE037.md",
   "SE045": "QC history: milestone advisor rounds 2-3 repairs applied and re-validated. D087 near-duplicate: supervisor/owner disposition needed. Inherited DDJ 13 parallel unverified. See sources/p1zo/SE045.md",
@@ -45,6 +46,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T12:49:41+00:00",
+ "updated": "2026-10-20T12:50:48+00:00",
  "band_done": false
 }
