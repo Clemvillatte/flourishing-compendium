@@ -16,7 +16,7 @@ Stanner's classic account of the Dreaming treats it as an ever-present order rat
 
 > "One cannot 'fix' The Dreaming in time: it was, and is, everywhen." (Stanner, "The Dreaming", 1956, in White Man Got No Dreaming, 1979; as reproduced by Common Ground)
 
-The same account describes the recitation of "what was done rightly and wrongly in the Dreaming" and the stories as "a 'key' or guide to the norms of conduct, and a prediction of how men will err" — the tales carry the norms, and the recitation keeps them in force. Respect therefore shows up as practice: learning the tales where the community permits, caring for Country, following the norms the tales carry.
+The same account describes the recitation of "what was done rightly and wrongly in the Dreaming" and the stories as "a 'key' or guide to the norms of conduct, and a prediction of how men will err" — Stanner describes repeated recitation of right and wrong and calls the tales a guide to conduct. Respect therefore shows up as practice: learning the tales where the community permits, caring for Country, following the norms the tales carry.
 
 (Aboriginal SEWB framework; Stanner, "The Dreaming," in White Man Got No Dreaming, 1979.)
 
