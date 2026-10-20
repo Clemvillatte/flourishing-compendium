@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BI — Biophysi
 ---
 > **Principle 43** — Understand the stress response: acute adaptive, chronic harmful
 
-The stress response is a two-sided system. Cortisol and adrenaline, released through the sympathetic nervous system and the HPA axis, mobilise energy for a threat, and in the short run that mobilisation is protective. McEwen's review of the field frames the distinction in the system's own terms: the same mediators that meet an acute demand also do the damage when the demand never lifts.
+McEwen's review of the field draws the distinction in the system's own terms: the response that meets an immediate demand can also contribute to wear over time, and the review treats duration as the axis that matters.
 
 > The brain is the key organ of the response to stress because it determines what is threatening and, therefore, potentially stressful, as well as the physiological and behavioral responses which can be either adaptive or damaging. (McEwen, "Physiology and neurobiology of stress and adaptation: central role of the brain", Physiological Reviews 87(3), 2007, [abstract](https://pubmed.ncbi.nlm.nih.gov/17615391/))
 
@@ -21,10 +21,10 @@ The stress response is a two-sided system. Cortisol and adrenaline, released thr
 The brain is both the interpreter of threat and a target of the response: the hippocampus, amygdala and prefrontal cortex undergo stress-induced structural remodeling, which alters behavioural and physiological responses (McEwen, 2007). Chronic exposure to stress hormones has an impact on brain structures involved in cognition and mental health (Lupien et al., 2009).
 
 **Plain words**
-The alarm is not the problem; an alarm that never switches off is. One hard day with a night's rest afterwards is the system working as designed. The same pressure held with no end in sight is what the review calls wear and tear, and that is the version to act on.
+The response that helps meet an immediate demand can also contribute to wear over time. Pay attention to how long the pressure continues, as well as how intense it feels.
 
 **For example**
-A dog barks, the heart races, the dog is gone: the response did its work. A job that produces the same racing heart every Monday for a year is a different object: same biology, no end in sight.
+Imagine a dog barking: the heart races, the dog is gone, the response did its work. Now imagine a job that produces a racing heart every Monday for a year: the same kind of response, with no end in sight.
 
 ## Sources
 

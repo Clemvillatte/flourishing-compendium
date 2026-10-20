@@ -12,18 +12,18 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BI — Biophysi
 ---
 > **Principle 49** — Learn to use movement to discharge stress: shake, dance, walk
 
-The stress response mobilises the body for action. Nagoski and Nagoski's practical framework treats that mobilisation as something to complete rather than merely stop: the stress cycle closes when the activation is discharged, and physical activity is their first strategy, with literally any movement of the body counting, from a walk to a dance. They separate the discharge from problem-solving: the situation can stay exactly as it was while the body returns to baseline.
+Nagoski and Nagoski recommend physical activity among several approaches to seeking relief from stress. Their excerpt distinguishes this from resolving the situation that caused the stress.
 
 > Anyone who says “Crying doesn’t solve anything” doesn’t know the difference between dealing with the stress and dealing with the situation that causes the stress. (Nagoski and Nagoski, Burnout, [publisher excerpt, 2019](https://www.penguin.co.uk/discover/articles/complete-stress-cycle-emotional-exhaustion-burnout))
 
 > You may not have changed the situation that caused the stress, but you completed the cycle. (Nagoski and Nagoski, Burnout, [publisher excerpt, 2019](https://www.penguin.co.uk/discover/articles/complete-stress-cycle-emotional-exhaustion-burnout))
 
-The completion is checkable in the body rather than in circumstances:
+On the authors' account, the completion is something they say can be noticed in the body:
 
 > You can notice that something in your body has changed, shifted in the direction of peace. (Nagoski and Nagoski, Burnout, [publisher excerpt, 2019](https://www.penguin.co.uk/discover/articles/complete-stress-cycle-emotional-exhaustion-burnout))
 
 **Plain words**
-Stress is a body state, and it has a finish line of its own. Moving is one way across it, and the authors treat physical activity as the first. You can tell you have crossed, because something in the body changes, shifted toward peace. The situation that caused the stress does not have to change at all for that to happen.
+Stress is a body state, and the authors treat it as having a finish line of its own. Moving is one way across it, and they list it first among their approaches. On their account, you can tell you have crossed because something in the body changes, shifted toward peace. The situation that caused the stress does not have to change at all for that to happen.
 
 **For example**
 After a performance review that went badly, take the stairs instead of the lift, or walk the twenty minutes home. The walk is for the body, not for the situation: the review is unchanged either way.
@@ -45,4 +45,4 @@ After a performance review that went badly, take the stairs instead of the lift,
 
 ## Practice
 
-- Discharge stress through movement: when stressed, shake, dance, walk briskly, or run. Do not sit with the activation; complete the cycle. The body needs to move to discharge.
+- Discharge stress through movement: when stressed, shake, dance, walk briskly, or run. Movement is the authors' first-listed approach to seeking relief, not the only one.

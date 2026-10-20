@@ -7,7 +7,7 @@ file: "Wisdom"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-W"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter W", "parent": ""}
 ---
-Wisdom is the knowledge and judgment that experience is supposed to leave behind. Psychological science gives it two measurable definitions: the Berlin paradigm treats it as expertise in the fundamental pragmatics of life, and the wise-reasoning program treats it as a set of metacognitive capacities people apply to social conflict.
+Wisdom is the knowledge and judgment that experience is supposed to leave behind. Psychological science approaches it along two main lines: the Berlin paradigm treats it as expertise in the fundamental pragmatics of life, and the wise-reasoning program treats it as a set of metacognitive capacities people apply to social conflict.
 
 ### The Berlin paradigm
 
@@ -15,7 +15,7 @@ Paul Baltes' Berlin wisdom paradigm scored think-aloud responses to life problem
 
 > wisdom in this paradigm is defined as an expert knowledge system concerning the fundamental pragmatics of life. (Baltes and Staudinger, "Wisdom: A Metaheuristic (Pragmatic) to Orchestrate Mind and Virtue Toward Excellence", American Psychologist 55(1), 2000, [abstract](https://pubmed.ncbi.nlm.nih.gov/11392856/))
 
-A later formulation by the same authors frames wisdom as a "cognitive and motivational metaheuristic (pragmatic) that organizes and orchestrates knowledge toward human excellence in mind and virtue, both individually and collectively".
+In the same article, the authors present a further characterization of wisdom as a "cognitive and motivational metaheuristic (pragmatic) that organizes and orchestrates knowledge toward human excellence in mind and virtue, both individually and collectively".
 
 ### Wise reasoning
 
@@ -29,11 +29,13 @@ Two further findings shape the current picture. In a random sample of Americans,
 
 A 2020 task force of wisdom researchers consolidated the field into a common model with two pillars: moral aspirations and meta-cognition.
 
-> our task force agreed that moral grounding was the first foundational pillar of the common wisdom model in empirical sciences. The second foundational pillar we arrived at was meta-cognition – the overarching mental processes that guide our thoughts. (Grossmann, "The science of wisdom", Aeon, 2020, [excerpt](https://wisdomcenter.uchicago.edu/news/wisdom-news/science-wisdompsychological-science-can-now-measure-and-nurture-wisdom-superseding))
+> our task force agreed that moral grounding was the first foundational pillar of the common wisdom model in empirical sciences. (Grossmann, "The science of wisdom", Aeon, 2020, [excerpt](https://wisdomcenter.uchicago.edu/news/wisdom-news/science-wisdompsychological-science-can-now-measure-and-nurture-wisdom-superseding))
+
+> The second foundational pillar we arrived at was meta-cognition – the overarching mental processes that guide our thoughts. (Grossmann, "The science of wisdom", Aeon, 2020, [excerpt](https://wisdomcenter.uchicago.edu/news/wisdom-news/science-wisdompsychological-science-can-now-measure-and-nurture-wisdom-superseding))
 
 ### Groups
 
-Woolley and colleagues found a collective intelligence factor in group performance that tracked the average social sensitivity of members and the equality of conversational turn-taking rather than the average or maximum intelligence of members.
+A related line of research asks whether groups have their own intelligence. Woolley and colleagues measured a collective intelligence factor in group performance that was not strongly correlated with the average or maximum intelligence of group members, and was correlated with the average social sensitivity of members and the equality of conversational turn-taking.
 
 > we find converging evidence of a general collective intelligence factor that explains a group's performance on a wide variety of tasks. (Woolley, Chabris, Pentland, Hashmi and Malone, "Evidence for a Collective Intelligence Factor in the Performance of Human Groups", Science 330, 2010, [abstract](https://www.science.org/doi/10.1126/science.1193147))
 

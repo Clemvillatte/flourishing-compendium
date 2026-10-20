@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 ---
 > **Principle 4** — Recognise that thinking serves action, not truth alone
 
-The root sentence of this principle is William James's, from the chapter on reasoning in The Principles of Psychology. James links selective thinking to practical limitations: a person cannot attend to every aspect of a thing at once.
+James links selective thinking to practical limitations: a person cannot attend to every aspect of a thing at once.
 
 > My thinking is first and last and always for the sake of my doing, and I can only do one thing at a time. (James, The Principles of Psychology, vol. 2, ch. XXII, [Project Gutenberg #57634](https://www.gutenberg.org/cache/epub/57634/pg57634.txt))
 
