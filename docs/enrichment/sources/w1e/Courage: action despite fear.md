@@ -1,0 +1,9 @@
+# Courage: action despite fear — evidence record (w1e, fast-track)
+
+- Degree: 9 connections (all principles) → fast-track eligible per PROTOCOL.md §1a.
+- Opened source: https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html — Nicomachean Ethics Book III (Ross translation), Internet Classics Archive. Both blockquotes verbatim from the opened chapter:
+  1. "The man, then, who faces and who fears the right things and from the right motive, in the right way and from the right time, and who feels confidence under the corresponding conditions, is brave; for the brave man feels and acts according to the merits of the case and in whatever way the rule directs." (The extraction renders 'from the right time'; the page quotes the extraction's wording exactly. The commonly printed Ross text reads 'at the right time' in some editions — the opened page's wording is used as-is.)
+  2. "death and wounds will be painful to the brave man and against his will, but he will face them because it is noble to do so or because it is base not to do so." (quoted from mid-sentence within the opened chapter's sentence beginning 'And so, if the case of courage is similar,'; the fragment is verbatim.)
+- The 'mark of a brave man' sentence is paraphrased with attribution, matching the opened chapter ("But it was the mark of a brave man to face things that are, and seem, terrible for a man, because it is noble to do so and disgraceful not to do so.").
+- Scoping: the page makes no claims beyond the opened chapter; the closing sentence frames what the compendium's approach-despite-discomfort practices build on, labeled as such. The MIT Classics Archive Ross translation is the opened primary text (edition identity with the owner's library file is not asserted).
+- Front-matter, all nine original wikilinks (BE025, AF047, BE070, BE022, BE030, PP037, S041, A116, BE036), and the Cited-in sections preserved; validator --fast-track ok as part of the done transition.
