@@ -12,13 +12,26 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 109** — Avoid the three gates of ruin
 
-The Gita names the three: craving (kama), anger (krodha), and greed (lobha), the gates to self-destruction, and prescribes their rejection with the resolve "these three I renounce." The naming is precise because the three reinforce each other in a loop. Practically, learn your usual entry gate (blocked craving becoming anger, fear becoming greed) and post the watch there.
+In Chapter 16 Krishna names three traits as the doorways to a person's undoing:
 
-(BG 16.21-16.22.)
+> There are three gates leading to the hell of self-destruction for the soul—lust, anger, and greed. Therefore, one should abandon all three.
 
-**Plain words** The three gates of ruin: craving, anger, and greed — named precisely because they reinforce each other in a loop. Learn your gate order (which one opens the others for you) and post a guard there.
+(Bhagavad Gita 16.21, trans. Swami Mukundananda, [holy-bhagavad-gita.org](https://www.holy-bhagavad-gita.org/chapter/16/verse/21/).)
 
-*For example:* Someone maps their own loop: greed opens craving, craving frustrated turns to anger — and the guard goes on gate one. The loop that ran their twenties gets a gatekeeper in their forties.
+The next verse gives the other half: "Those who are free from the three gates to darkness endeavor for the welfare of their soul, and thereby attain the supreme goal" ([BG 16.22](https://www.holy-bhagavad-gita.org/chapter/16/verse/22/)).
+
+The three are linked in the text. Verse 3.37 says that lust is "later transformed into anger" ([BG 3.37](https://www.holy-bhagavad-gita.org/chapter/3/verse/37/)). Mukundananda's comment on 16.21 adds that "Greed is also a transformation of lust". So the translator reads one root with branches. Calling this a reinforcing loop is a modern gloss. The verse itself says only that one should abandon all three.
+
+Mapping which of your own gates opens first, and posting a guard there, is this page's own practice suggestion. The Gita does not set out personal profiles.
+
+**Plain words**
+
+Lust, anger and greed tend to arrive together, and the Gita says to leave them at the door. The commentary traces anger and greed back to craving. Noticing which one you meet first is a modern step you might try.
+
+**For example**
+
+A manager keeps losing his temper at deadlines. Looking back, he sees it starts with wanting a result badly and being blocked. He begins watching the wanting, and the outbursts shrink.
+
 ## Psychology parallels
 
 - **Delay discounting and craving loops** (Bickel et al., 2014); **anger as blocked goal pursuit** (Berkowitz's reformulation)
@@ -27,3 +40,8 @@ The Gita names the three: craving (kama), anger (krodha), and greed (lobha), the
 
 - **[[Passions as judgments|Passions as judgments]]** (Epictetus, Enchiridion 5)
 - **[[The three poisons|The three poisons]]** (Buddhist tradition)
+
+## Sources
+
+- [Bhagavad Gita 3.37, 16.21, 16.22 (Swami Mukundananda translation and commentary), holy-bhagavad-gita.org](https://www.holy-bhagavad-gita.org/chapter/16/verse/21/)
+- The inherited Bickel (2014), Berkowitz, Epictetus and Buddhist three-poisons parallels were not opened and no claim here rests on them.

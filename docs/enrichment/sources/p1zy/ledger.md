@@ -220,3 +220,9 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 - Quotes verified: all matched the fetched pages (3.6 and 3.7 checked directly).
 - Seed repairs: "abstention is also action, worse" and the necessity-before-desire test are labelled as the page's own; 3.6 (hypocrisy of outward restraint) added as the text's actual hard line. Martell 2010 and Aristotle not opened.
 - Saturation: low.
+
+## Y109 (2026-10-21, worker-p1zz-b81e3f52)
+- Sources opened: holy-bhagavad-gita.org (Mukundananda) BG 16.21, 16.22 and 3.37 with commentary.
+- Quotes verified: all matched fetched pages.
+- Seed repairs: quoted "these three I renounce" is not in 16.21 (verse says "one should abandon all three"); removed. Link between the three supported by 3.37 and Mukundananda's comment on 16.21; "loop" and personal gate-order guard labelled as modern/page's own. Translator renders kama as "lust". Psychology/Philosophy parallels not opened.
+- Saturation: low.
