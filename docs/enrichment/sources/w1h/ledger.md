@@ -643,3 +643,24 @@
   namespace-audit entry. Saturation: skipped per fast-track §1a (degree 12
   < 15); no cross-link proposals filed. Advisor QC: not due (item 13; next at
   item 15).
+
+## Psychological well-being (2026-10-20, worker-p1zs-7a4e2c91, fast-track; degree 9 — eligible)
+
+- OPENED: Ryff 1989, "Happiness Is Everything, or Is It?" JPSP 57(6)
+  1069-1081 (FPR PDF, https://thefpr.org/wp-content/uploads/Ryff1989_happiness.pdf)
+  — raw fetch; blockquote (the abstract's opening two sentences: grounding
+  + six dimensions) and the not-strongly-tied findings sentence verified
+  character-for-character in the fetched text; the eudaimonia-translation
+  argument and the Bradburn critique paraphrased from the same opened text.
+- In-the-compendium clauses grounded in the principle pages' own quoted
+  material (PP001, PP002 Oishi-Westgate, PP083 Rogers-Ryff, MO002, MO017,
+  SO001 EEMM framing, K315 existentialist kernel via enrich_find context).
+- Related: "Subjective well-being" does not exist as a concept in the repo
+  (validator UNRESOLVED caught it); the hedonic referent is
+  [[The two-factor model of well-being]] — the not-strongly-tied framing
+  keeps the clause honest about the critique's target. Psychological richness
+  and Complete mental health model both exist.
+- IS-IT-A-CONCEPT check: named construct with primary literature; no
+  namespace-audit entry. Saturation: skipped per fast-track §1a (degree 9
+  < 15); no cross-link proposals filed. Advisor QC: not due (item 14; next at
+  item 15).
