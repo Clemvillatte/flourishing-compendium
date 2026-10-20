@@ -12,20 +12,30 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 409** — Practise embodied perception
 
-Recognise that perception is not a mental operation performed on sensory data. It is an embodied engagement with the world. You perceive through your body: through its position, its movement, its orientation. Perception is not representation but participation. Do not think of yourself as a camera recording the world; think of yourself as a body engaged with it.
+Merleau-Ponty opens Phenomenology of Perception by denying that perception is a detached act of knowing ([trans. Colin Smith, Routledge 2002, p. xi](https://ia601603.us.archive.org/13/items/a077413/Phenomenology+of+Perception.pdf)):
 
-(Merleau-Ponty, 1945/2012, Phenomenology of Perception, Part I; Heidegger, 1927/2008, Being and Time, §13.)
+> Perception is not a science of the world, it is not even an act, a deliberate taking up of a position; it is the background from which all acts stand out, and is presupposed by them.
 
-**Plain words** Perception is not a mental operation performed on sensory data — it's an embodied engagement with the world. You perceive through position, movement, orientation. Perception is participation, not representation. Don't watch the world; be in it.
+The body is the way in. Perceiving "as we do with our body", he writes, "the body is a natural self and, as it were, the subject of perception" (p. 239). Wilson's review of embodied cognition is more cautious. Of six claims, she judged the first three and the fifth "at least partially true" and the fourth, that the environment is part of the cognitive system, "deeply problematic" ([Wilson, 2002, Psychonomic Bulletin & Review 9, 625-636](https://pubmed.ncbi.nlm.nih.gov/12613670/)).
 
-*For example:* The house-hunters who study the listing photos for weeks, then know within ninety seconds of standing in the actual hallway — the body did the perceiving the photos couldn't. You perceive with your feet in a place.
+(Merleau-Ponty, Preface and Part II.)
+
+**Plain words** Merleau-Ponty treats perceiving as something a living body does from a position in the world, not as a camera feeding a mind. Psychology supports parts of this picture and disputes others, so the strong slogan "participation, not representation" is a philosophical stance, not a settled finding.
+
+For example (imagined): standing in an unfamiliar hallway, you sense its width and light by how you would move through it, which photographs only hint at.
+
+## Sources
+
+- Maurice Merleau-Ponty, [Phenomenology of Perception](https://ia601603.us.archive.org/13/items/a077413/Phenomenology+of+Perception.pdf), trans. Colin Smith (Routledge Classics, 2002), pp. xi, 239 (Internet Archive copy)
+- Margaret Wilson (2002), [Six views of embodied cognition](https://pubmed.ncbi.nlm.nih.gov/12613670/), abstract
+
 ## Stories
 
 - [[ST264 — Bauby Blinks|264. Bauby Blinks]]
 
 ## Psychology parallels
 
-- **[[Embodied cognition|Embodied cognition and perception]]** (Wilson, 2002; Gibson, 1979)
+- **[[Embodied cognition|Embodied cognition and perception]]** (Wilson, 2002, reviewed with mixed support; Gibson, 1979)
 
 ## Philosophy parallels
 
