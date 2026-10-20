@@ -37,7 +37,8 @@
   "The meaning of life",
   "The meaning of suffering",
   "The moving body",
-  "The narrative self"
+  "The narrative self",
+  "The ongoing reduction"
  ],
  "in_progress": null,
  "flagged": {
@@ -70,10 +71,11 @@
   "The meaning of life": "fast-track enriched (item 16); degree 11; Frankl MSFM full text opened via Internet Archive, four passages verified verbatim; no rename needed — the concept title is the book's own subject",
   "The meaning of suffering": "fast-track enriched (item 17); degree 11; Frankl MSFM (Internet Archive) opened, two suffering passages verified verbatim; no rename needed",
   "The moving body": "fast-track enriched (item 18); degree 10; PoP Smith translation (Internet Archive) opened, two motility passages verified verbatim; no rename needed",
-  "The narrative self": "fast-track enriched (item 19); degree ~11; After Virtue full text opened via Internet Archive, story-telling-animal passage verified verbatim; Taylor not opened (left to citation); no rename needed"
+  "The narrative self": "fast-track enriched (item 19); degree ~11; After Virtue full text opened via Internet Archive, story-telling-animal passage verified verbatim; Taylor not opened (left to citation); no rename needed",
+  "The ongoing reduction": "fast-track enriched (item 20); degree ~14; SEP Husserl entry (Zahavi, 2025 revision) opened — Crisis full text NOT openly available (archive.org OCR unusable, library item access-restricted); page anchored on SEP quotes; FLAG for supervisor: 'ongoing' framing is the compendium's gloss (E012), not a phrase verified in the Crisis itself; seed citation 'Husserl, The Crisis' kept as inherited"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T06:27:04+00:00",
+ "updated": "2026-10-20T06:28:14+00:00",
  "band_done": false
 }
