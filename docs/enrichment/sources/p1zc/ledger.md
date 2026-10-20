@@ -21,3 +21,7 @@ Short, item-keyed evidence notes (owner decision 2026-10-20, PROTOCOL-PRINCIPLES
   repairs applied (plain words source-bounded; proposal why clauses labelled as
   comparison), round 3 pending.
 - Plain-words replicate (38% on plain-words-replicates.md) replaced.
+- Round 3: PASS (advisor, scoped to the rewritten passages). Closeout: validator ok vs
+  explicit baseline 0998a787; diff delta = body + plain words + new Sources section only;
+  front-matter, principle statement, locator line, For example, all wikilinks and the
+  reflections comment unchanged. DONE.
