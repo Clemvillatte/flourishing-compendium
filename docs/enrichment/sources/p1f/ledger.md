@@ -87,3 +87,9 @@
 - w1d "Working memory capacity limits": advisor flagged the first pass's ungrounded synthesis; repaired in a second pass (see sources/w1d/ledger.md); validator ok after restoring the three principle-link counts.
 - Process fixes adopted: fail-fast validation chains (validate && state transitions); audit notes removed from public Sources lines (kept in ledgers).
 - RECHECK PENDING: repaired pages sent back to the advisor for the closing round.
+
+### Recheck round 2 corrections (2026-10-20, worker-p1f-b7894e46)
+- S009 ledger correction: the earlier note's claim that "Book III ch. 21 is 'About Cynism'" is RETRACTED — the epub's p31 heading lists omit each book's first chapter, so list numbers are not chapter numbers; the demonstrated fact is only that the Euphrates passage sits in Book IV and is chapter 8 of 13 there (verified against the chapter list and the surrounding chapters), hence Discourses IV.8. No claim is made about what III.21 contains or whether the seed's citation pointed elsewhere.
+- R101: "The practical direction follows..." replaced with the compendium-recommendation labelling per the advisor.
+- S009: "asks to be judged instead from the acts" attribution narrowed to the reported account's dress-vs-conduct contrast.
+- w1d page: "Why the number fell" section replaced with the advisor's "What the estimate measures" text (abstract-grounded); CO003 clause corrected to "discusses Cowan's capacity estimate alongside Sweller's account of problem-solving load" (verified against CO003's body); D037/SE068/AF028/Y064/Y034 reduced to bare links (contexts not read; no invented clauses). Validated against the pre-enrichment seed baseline b20024da^ (1 ok). All four principles revalidated at HEAD: 4 ok.

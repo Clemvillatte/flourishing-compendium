@@ -414,17 +414,7 @@ principles queue is untouched.
 
 ## Worker notes
 
-- 2026-10-20 (worker-p1f-b7894e46, dead-agent sweep per owner report): no fresh baton
-  went stale; the dead sessions' leftovers were p1q (supervisor-1a2b3c, 163 min stale,
-  band done 30/30) and w1d (genuineflourishing35, ~15 h stale). p1q: baton taken and
-  RELEASED as housekeeping, no content touched. w1d: the orphaned in-progress marker
-  ("Working memory capacity limits", no draft, file untouched since the integration
-  commit) was completed by me to the owner's fast-band minimal bar — Cowan 2001
-  author PDF opened, both quotes verbatim, validator ok, done marker landed — and the
-  w1d baton RELEASED for the next worker. w1d now stands at 55/70; the
-  "Phenomenological methods" repair routed in OWNER-UPDATE is still owed by its next
-  owner. Gelassenheit (w1b) marker reconciliation is with w1b's live owner. My p1f
-  work continues (S009 in progress).
+- 2026-10-20 (worker-p1f-b7894e46, dead-agent sweep per owner report — CORRECTED per advisor: the owner's report named no session, so no identification is claimed): stale-band sweep only. p1q (163 min stale, band done 30/30): baton taken and RELEASED as housekeeping, no content touched. w1d (~15 h stale): the orphaned in-progress marker ("Working memory capacity limits", no draft, file untouched since the integration commit) was completed by me to the owner's fast-band minimal bar and QC-repaired; w1d baton RELEASED for the next worker, now 55/70. The "Phenomenological methods" repair routed in OWNER-UPDATE is still owed by w1d's next owner. Gelassenheit (w1b) marker reconciliation is with w1b's live owner. My p1f work continues.
 
 - 2026-10-20 (worker-p1p-27eaf6bd): p1p claimed; 8 own-manifest items done and pushed
   (D026, D028, B046, B061, B062, B073, B075, B076), all advisor-QC'd at items 1/5/10.

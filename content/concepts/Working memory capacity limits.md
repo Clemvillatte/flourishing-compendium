@@ -11,18 +11,20 @@ Working memory capacity is the number of separate items a person can hold and us
 
 > "A single, central capacity limit averaging about four chunks is implicated along with other, noncapacity-limited sources." (Cowan, [The magical number 4 in short-term memory](https://memory.psych.missouri.edu/assets/doc/articles/2001/cowan-bbs-2001.pdf), Behavioral and Brain Sciences 24(1), 2001)
 
-### Why the number fell from seven to four
+### What the estimate measures
 
-Cowan's summary of the evidence is that the focus of attention holds an average of about four chunks in normal adult humans, and that no other mental faculties are capacity-limited in the same way. The larger performances come from strategies the review names directly: rehearsal and long-term memory can combine stimulus items into chunks, and storage mechanisms that are not capacity-limited can refill the capacity-limited store during recall. When experiments take steps to block that recoding, the smaller limit shows itself.
+Cowan distinguishes the central capacity estimate from task performance that also draws on other memory sources. His review identifies conditions in which chunks can be counted, including conditions that prevent stimulus items from being recoded into larger chunks.
+
+He discusses rehearsal and long-term memory as ways of combining stimulus items into chunks, and sensory memory as a possible source of refilling during recall. The proposed average of about four chunks concerns the specified experimental conditions; it should not be presented as a fixed allowance for every memory task.
 
 ### In the compendium
 
-- [[CO003 — Know that thinking has limited capacity — cognitive load is real]] — cites Cowan's four-chunk limit as the basis for cognitive load
-- [[D037 — Empty the heart-mind (xuxin)]] — the Zhuangzi fasting-of-the-mind dialogue on freedom from pre-occupation
-- [[SE068 — Recognise the limits of self-development — not everything is fixable]] — self-development has limits; not everything is fixable
-- [[AF028 — Master emotional regulation flexibility — the skill is matching strategy to context]] — regulation strategy matched to context
-- [[Y064 — Begin with faith, energy, and memory]] — faith, energy and memory as a beginning
-- [[Y034 — Counter negative states with their opposites]] — countering negative states with their opposites
+- [[CO003 — Know that thinking has limited capacity — cognitive load is real]] — discusses Cowan's capacity estimate alongside Sweller's account of problem-solving load
+- [[D037 — Empty the heart-mind (xuxin)]]
+- [[SE068 — Recognise the limits of self-development — not everything is fixable]]
+- [[AF028 — Master emotional regulation flexibility — the skill is matching strategy to context]]
+- [[Y064 — Begin with faith, energy, and memory]]
+- [[Y034 — Counter negative states with their opposites]]
 
 ## Related concepts
 

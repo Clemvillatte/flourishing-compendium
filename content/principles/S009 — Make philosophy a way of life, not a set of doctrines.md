@@ -16,7 +16,7 @@ Epictetus asks what qualifies someone to be called a philosopher. In the passage
 
 > "And what was the harm for me to be known to be a philosopher by my acts and not by outward marks? See how I eat, how I drink, how I sleep, how I bear and forbear, how I co-operate, how I employ desire, how I employ aversion (turning from things), how I maintain the relations (to things) those which are natural or those which are acquired, how free from confusion, how free from hindrance." (Epictetus reporting Euphrates, Discourses IV.8, trans. George Long, [Delphi Complete Works of Epictetus](https://drive.google.com/file/d/1EDkL63FuSpabjbB7amxNodYocj_q_vaH/view))
 
-Euphrates says that practising without recognition let him act well for his own sake, without spectators. He also says that if he acted badly while unrecognised, philosophy would not suffer through him. Epictetus mocks the alternative, the man who takes the name from the cloak and the long hair, and asks to be judged instead from the acts: the eating, the drinking, the forbearing.
+Euphrates says that practising without recognition let him act well for his own sake, without spectators. He also says that if he acted badly while unrecognised, philosophy would not suffer through him. The reported account contrasts the philosopher's outward dress with everyday conduct, including eating, drinking and forbearing.
 
 (Disc. IV.8; Seneca, Letters 16, 71; Med. I.1, II.1; Musonius Rufus, Lectures.)
 
