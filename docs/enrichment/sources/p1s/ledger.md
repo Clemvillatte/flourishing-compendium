@@ -603,3 +603,45 @@ source; anything not opened is recorded as inherited and unverified.
   application and an imagined two-mornings example. Warren claim tail
   trimmed to a bare attribution; Mauss inherited entry left as found.
 - Saturation: no new reciprocals; K390/K391 are already the linked kernels.
+
+## Takeover QC round on B172/B181/B190 (worker-p1u-8a7ab96d, 2026-10-20)
+
+Takeover at 03:19Z (baton stale 21 min; owner-reported offline; no in-flight
+item lost; B169 was the predecessor's last done). First three items B172, B181,
+B190 enriched, then advisor QC round 1 REJECTED all three; repairs applied
+sequentially through the state tool (reopen -> repair -> validate -> done,
+one save per item):
+
+- B172: quote abridgement now marked with trailing ellipsis and an explicit
+  note (the passage continues with the list of kinds of talk); source
+  qualifications restored ("obtain at will, without difficulty or trouble");
+  unsupported chatter/twitchy claims and the budget metaphor removed; the
+  advisor's Plain words and a no-gossip example installed.
+- B181: commentary now attributes the entertainment-hiding account to TNH
+  ("He continues that..."); locator added (Happiness, 'Lazy Day' section,
+  p. 104, Parallax Press PDF - fetched via fetch_url; direct curl is blocked);
+  advisor's Plain words installed; example reduced to noticing the reach and
+  asking what you want, no staged benefit.
+- B190: seated/secluded framing kept for the sutta; everyday one-breath use
+  labelled as the compendium's suggestion that "does not reproduce the
+  sutta's full training"; complete-unit claim and unopened Balban/Zaccaro
+  commentary removed; example reduced to noticing one in-breath/out-breath
+  and answering.
+
+Preservation vs c2a3ee47 (named baseline) for all three: front-matter,
+principle statement and reflections byte-identical; wikilink sets unchanged
+(B172 2/2, B181 3/3, B190 1/1).
+
+Research locators: MN 122 and MN 118 via accesstoinsight.org Thanissaro
+pages (opened fresh); TNH Happiness PDF via parallax.org (opened via
+fetch_url, curl-blocked); Plum Village 'Be-in with the young people' page
+(its descriptive text paraphrased without quotation marks, attributed to the
+page).
+
+Saturation outcome: B172 already reciprocally cited by Sparse speech and
+Restorative environments (no proposal needed); two reciprocal proposals
+added to proposals/p1s.json: B190 into Anapanasati (mindfulness of
+breathing); B181 into Boredom. Workflow correction recorded: start each item
+before editing and save it separately (B181/B190 were initially edited and
+saved together).
+
