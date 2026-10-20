@@ -72,3 +72,7 @@ No separate advisor tool available to this session; quotes are checked programma
 ## E503
 - Nietzsche, The Joyful Wisdom, trans. Thomas Common (T. N. Foulis 1910; Gutenberg #52881, prose by Common): 8 quotations grep-verified, incl. §268 (Book Three) and §337. Kaufmann (The Gay Science 1974) not accessible; the principle's own 'both in the same gaze' wording is the project's thesis and is not attributed to Nietzsche.
 - Limits: example hypothetical; 'On this reading' marks the interpretive step.
+
+## E107
+- Nietzsche GS (Common, Gutenberg #52881) §301 §335; Zarathustra Part I 'The Thousand and One Goals' (Common, #1998); BGE §211 (Zimmern, #4363): 9 quotations grep-verified. Public-domain translations, not Kaufmann/Hollingdale (cited in the inherited citation); wording differs from those. §301's 'Illusion of the Contemplative' is Common's title.
+- Limits: 'not relativism' framing of the statement supported only through §335 (physics/honesty) and §211 (preparation), not directly stated by Nietzsche as 'not relativism'.
