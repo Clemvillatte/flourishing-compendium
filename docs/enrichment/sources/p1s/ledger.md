@@ -663,3 +663,4 @@ cycle and save (B172 e3d6958d, B181 75f658ea, B190 below).
 - CORRECTION: locator changed from p. 85 (extraction claim) to p. 87 (direct page-text check; corroborates the Springer 2026 citation "(2003, p. 87)"). Reopen -> repair -> validate -> done -> save 2ecec86d (individual).
 - Access caveat recorded: live host rate-limited at verification time; verification used the archived chapter PDF via Wayback Machine.
 - Preservation vs c2a3ee47 re-run after repair: front-matter/statement/reflections/wikilinks all byte-equal.
+- Advisor verdict: ACCEPT — P175 5th-item QC gate CLOSED (covers rewritten body and citation only; inherited parallels/reflections not certified). p. 85 extraction claim recorded as corrected.
