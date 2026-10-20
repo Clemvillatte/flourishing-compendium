@@ -18,7 +18,7 @@ Epictetus's instruction is more radical than wanting less: for the present, susp
 
 (Disc. I.4, I.14, I.25, III.2, III.3, III.7, III.10, III.24; Ench. 1, 2, 15, 16; Med. VI.41, VII.33, IX.6.)
 
-**Plain words** Epictetus's drill is blunt: for now, want nothing. Not forever, and not because wanting is bad, but because most of what you want is not up to you, and wanting it is how disappointment gets made. When you do pursue something, pursue it lightly, ready for it to go either way.
+**Plain words** Epictetus's drill is blunt: for now, want nothing. Notice whether getting what you want depends on someone else's choice; for this exercise, set that demand aside and keep your next action tentative. When you do pursue something, pursue it lightly, ready for it to go either way.
 
 *For example (imagined):* Someone catches themselves refreshing a shopping app for a thing they cannot afford, names the wanting as wanting, and closes the app for the evening.
 ## Sources

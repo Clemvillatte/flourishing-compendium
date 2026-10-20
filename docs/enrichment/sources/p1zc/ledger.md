@@ -114,3 +114,18 @@ Short, item-keyed evidence notes (owner decision 2026-10-20, PROTOCOL-PRINCIPLES
   to the blockquote and Sources; psychology parallel rescoped to the first-semester
   finding; "A later handbook chapter by the same program states" replaced with
   "Crocker and Park write:".
+
+## ROUND-3 corrections (advisor caught real failures)
+- S119 repairs had NOT landed (reopen command failed silently and the chained edit
+  script was skipped); now applied with asserted anchors and verified in the file.
+  Ledger history corrected: the earlier "S119 repaired" entry was wrong.
+- Handbook locators corrected by per-page (form-feed) inspection: the instability
+  sentence sits on the PDF page whose printed number is 311 (previous p. 310 claim
+  was wrong; the earlier formfeed-marker method missed opposite-side running
+  headers). External-vs-internal finding spans printed pp. 319-320. Blockquote,
+  psychology parallel and Sources line all updated to these locators (asserted).
+- SE021 Sources line for the handbook replaced with the full bibliographic entry
+  (Leary & Tangney eds., Handbook of Self and Identity 2nd ed., Guilford 2011).
+- S127 Plain words generalization ("most of what you want is not up to you")
+  replaced with the bounded application.
+- All six items validated vs pre-edit baseline 0998a787: 0 failed.

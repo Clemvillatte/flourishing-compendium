@@ -18,7 +18,7 @@ Crocker and Wolfe model self-esteem as a stake in particular domains:
 
 In their model, state self-esteem changes with perceived successes and failures in the domains on which someone has staked self-worth, and people differ in which domains carry the stake. Crocker and Park write:
 
-> "Because people cannot always guarantee success or avoid failure in domains of contingency, contingencies of self-worth predict instability of self-esteem, which creates vulnerability to depression." (Crocker & Park, 2011, p. 310)
+> "Because people cannot always guarantee success or avoid failure in domains of contingency, contingencies of self-worth predict instability of self-esteem, which creates vulnerability to depression." (Crocker & Park, 2011, p. 311)
 
 The practice is first diagnostic: find out where your worth is actually staked before deciding what to do about it.
 
@@ -31,12 +31,12 @@ The practice is first diagnostic: find out where your worth is actually staked b
 ## Sources
 
 - [Crocker, J., & Wolfe, C. T. (2001). Contingencies of self-worth. Psychological Review, 108(3), 593-623](https://static1.squarespace.com/static/6a760291307e26027c8c5a39/t/6a7a6dfef31cab43f5369c87/1786408447478/Crocker&Wolfe_2001_PsychRev.pdf) — definition p. 594
-- [Crocker, J., & Park, L. E. (2011). Contingencies of self-worth. In Handbook of Self and Identity](https://ubwp.buffalo.edu/selfandmotivationlab/wp-content/uploads/sites/91/2025/07/Crocker-Park-2011-Handbook-of-SAI.pdf) — instability and depression sentence
+- [Crocker, J., & Park, L. E. (2011). Contingencies of Self-Worth. In M. R. Leary & J. P. Tangney (Eds.), Handbook of Self and Identity (2nd ed.). Guilford.](https://ubwp.buffalo.edu/selfandmotivationlab/wp-content/uploads/sites/91/2025/07/Crocker-Park-2011-Handbook-of-SAI.pdf) — instability/depression sentence p. 311; external-vs-internal finding pp. 319-320
 
 ## Psychology parallels
 
 - **[[Contingencies of self-worth (Crocker)|Contingencies of self-worth (Crocker)]]** — the model this page applies (Crocker & Wolfe, 2001)
-- **External contingencies and depressive symptoms** — Crocker and Park report that external contingencies predicted increases in depressive symptoms over the first semester of college; the internal contingencies examined did not (2011, p. 320)
+- **External contingencies and depressive symptoms** — Crocker and Park report that external contingencies predicted increases in depressive symptoms over the first semester of college; the internal contingencies examined did not (2011, pp. 319-320)
 
 ## Philosophy parallels
 
