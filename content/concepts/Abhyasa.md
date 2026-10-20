@@ -24,8 +24,8 @@ The Bhagavad Gita states the pairing of the two means at 6.35, where Krishna ans
 ### In the compendium
 
 - [[Y063 — Hold one practice to steady the mind]] — the compendium's instruction to hold one practice, drawing on the Yoga Sutra's remedies
-- [[Y043 — Master one craft, keep growing it]]
-- [[P076 — Cultivate craft mastery — skill as embodied knowing]]
+- [[Y043 — Let ethics stabilize the mind]]
+- [[P076 — When habits conflict, let deliberation do its work]]
 
 ## Facets
 
@@ -47,5 +47,5 @@ The Bhagavad Gita states the pairing of the two means at 6.35, where Krishna ans
 - Samkhya
 
 [[Y063 — Hold one practice to steady the mind]]
-[[Y043 — Master one craft, keep growing it]]
-[[P076 — Cultivate craft mastery — skill as embodied knowing]]
+[[Y043 — Let ethics stabilize the mind]]
+[[P076 — When habits conflict, let deliberation do its work]]
