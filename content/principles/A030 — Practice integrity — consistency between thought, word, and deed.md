@@ -12,16 +12,16 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 30** — Practice integrity: consistency between thought, word, and deed
 
-Aristotle's discussion of practical wisdom ties the virtues into a single character: integrity is not a separate virtue but the [[The unity of the virtues|unity of the virtues]] in action. ([Nicomachean Ethics VI.13, trans. W. D. Ross](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6)) The person of integrity does not say one thing and do another; this consistency is what makes character reliable and trustworthy.
+Aristotle links prudence and moral virtue in an argument about the [[The unity of the virtues|unity of the virtues]]. ([Nicomachean Ethics VI.13, trans. H. Rackham](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6)) The compendium applies that discussion here as an exercise in comparing professed commitments with conduct.
 
-(NE I.8, X.9; EE VIII.3.)
+(NE I.8, X.9; EE VIII.3; NE VI.12-13.)
 
-> "These considerations therefore show that it is not possible to be good in the true sense without Prudence, nor to be prudent without Moral Virtue." (Aristotle, Nicomachean Ethics VI.13, trans. W. D. Ross, [Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6))
+> "These considerations therefore show that it is not possible to be good in the true sense without Prudence, nor to be prudent without Moral Virtue." (Aristotle, Nicomachean Ethics VI.13, trans. H. Rackham, [Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6))
 
-The chapter's unity claim is explicit: "For if a man have the one virtue of Prudence he will also have all the Moral Virtues together with it." ([NE VI.13, Ross](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6)) Aristotle also states that "we cannot be prudent without being good." ([NE VI.12, Ross](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6)) On this account, a claim to one virtue that contradicts conduct elsewhere is not a partial virtue but a sign the whole has not yet formed.
+The chapter's unity claim is explicit: "For if a man have the one virtue of Prudence he will also have all the Moral Virtues together with it." ([NE VI.13, Rackham](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6)) Aristotle also states that "we cannot be prudent without being good." ([NE VI.12, Rackham](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6))
 
 **Plain words**
-Integrity is the virtues working together in what you do. You don't say one thing and do another. ([NE VI.13, Ross](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6)) Aristotle's unity claim means the virtues come as a package: practical wisdom and moral virtue require each other. That consistency is what makes someone reliable. Others can predict you, and so can you.
+Aristotle argues that goodness in the full sense and prudence require one another. ([NE VI.13, Rackham](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6)) For this exercise, compare what you profess with what you do, and describe any mismatch.
 
 *For example:* A manager who criticises long hours and then sends emails at midnight is giving mixed signals. One who logs off on time is saying and doing the same thing.
 

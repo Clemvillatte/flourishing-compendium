@@ -42,11 +42,11 @@
   "SE008",
   "SO002",
   "SO018",
-  "A030",
   "A046",
   "A047",
   "A057",
-  "A013"
+  "A013",
+  "A030"
  ],
  "in_progress": null,
  "flagged": {
@@ -68,10 +68,11 @@
   "SE008": "Reopened for QC: Reopened for QC: advisor checkpoint: remove therapeutic overreach",
   "SO002": "Reopened for QC: Reopened for QC: advisor checkpoint: mesosystem misclassification + attribution fix",
   "SO018": "Reopened for QC: Reopened for QC: advisor checkpoint: strong/weak verdict unsupported by opened article",
-  "A013": "Reopened for QC: Reopened for QC: translator misattribution (Rackham not Ross) + narrow fixes"
+  "A013": "Reopened for QC: Reopened for QC: translator misattribution (Rackham not Ross) + narrow fixes",
+  "A030": "Reopened for QC: Reopened for QC: distinguish application from Aristotle; translator fix"
  },
  "missing_concepts": [],
  "sources_checked": 22,
- "updated": "2026-10-20T04:43:34+00:00",
+ "updated": "2026-10-20T04:43:42+00:00",
  "band_done": false
 }
