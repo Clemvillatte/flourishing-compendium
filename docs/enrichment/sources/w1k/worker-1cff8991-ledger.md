@@ -61,3 +61,10 @@ Worker `worker-w1k-1cff8991`, 2026-10-20. Took stale band at 20/70 after complet
 - Opened full [Moran Cambridge introduction excerpt](https://assets.cambridge.org/97805218/95361/excerpt/9780521895361_excerpt.pdf), especially pp. 7–8; science-grounding/transcendental purpose, not anti-science advice or merely listing daily habits.
 - Husserl's Crisis original volume not directly opened; inherited citation retained as bibliography, no invented Carr wording/locator. Owner library list did not identify a specific uploaded Husserl file.
 - Original frontmatter and all cited-in/kernel/story wikilinks preserved; unsupported old Related-concept gloss removed rather than expanded without evidence. Fast-track saturation skipped; no reciprocal proposed.
+
+## Politeness Theory
+
+- Fast-track degree 6. Read all six listed principle contexts. Incoming links are preserved as required, not certified as good semantic matches; many concern well-being or suffering rather than linguistic facework.
+- Opened full [Penelope Brown 2015, Politeness and Language](https://pure.mpg.de/rest/items/item_1719314_10/component/file_2152013/content), especially pp. 327–328. Exact short quote is a labelled excerpt.
+- Replaced duplicated bold seeds and unqualified universal-system claim with attributed model and the co-theorist's own limits. Full 1987 book was not opened; no direct quote attributed to having read it.
+- Original schema-2 frontmatter, Field and every original cited-in link preserved. Fast-track saturation skipped; no new reciprocal proposed.
