@@ -12,13 +12,13 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 115** — See the self in others and others in the self
 
-The verse names a person who, after sustained practice, sees the same self standing in every being and every being in that one self. The verse does not say what seeing this does to a person's behaviour; the page's practical reading supplies that part and is labelled as such.
+Bhagavad Gita 6.29 describes a person with a mind harmonized by Yoga who sees the Self abiding in all beings and all beings in the Self, and who sees the same everywhere. Verse 6.32 of the same chapter names the person who, through the likeness of the Self, sees equality everywhere, be it pleasure or pain, as the highest Yogi.
 
-> "With the mind harmonised by Yoga he sees the Self abiding in all beings and all beings in the Self; he sees the same everywhere." (Bhagavad Gita 6.29, Sivananda translation)
+> "With the mind harmonized by Yoga, he sees the Self abiding in all beings and all beings in the Self; he sees the same everywhere." ([Bhagavad Gita 6.29](https://bhagavadgita.com/chapter/6/verse/29))
 
-**Plain words** The verse is a description, not an instruction. What it describes is a trained way of looking that no longer sorts people by whether they are useful or in the way. What the page adds as an exercise is simpler: when you notice you are holding two versions of one event, one for yourself and one for someone else, name which version you would accept if the positions were swapped.
+**Plain words** The verse describes a trained way of seeing in which the same self is recognized standing in every being. A suggested application is to ask, when you notice you are holding two versions of one event, which version you would accept if the positions were swapped.
 
-*For example:* (Imagined.) A commuter spends a year deliberately noticing the other passengers' eyes — tired nurse, scared student, proud father — and stops sorting the crowd into obstacle and audience. The verse does not promise the change; the page's exercise is the part the commuter is doing.
+*For example:* (Imagined application.) A commuter, on one given morning, considers what the other passengers' morning looks like from where they stand.
 ## Psychology parallels
 
 - **Self-other overlap and perspective-taking**, the measured inclusion of other in the self (Aron et al., 1992)
@@ -26,4 +26,7 @@ The verse names a person who, after sustained practice, sees the same self stand
 ## Philosophy parallels
 
 - **[[Tat tvam asi|Tat tvam asi, the relational reading]]** (Chandogya 6.8.7; the ethical interpretation)
-- **[[Umuntu ngumuntu ngabantu|Umuntu ngumuntu ngabantu]]** (Nguni proverb)
+- **[[Umuntu ngumuntu ngabantu|Umuntu ngumuntu ngabantu]]** (Nguni proverb)## Sources
+
+- [Bhagavad Gita 6.29 (bhagavadgita.com)](https://bhagavadgita.com/chapter/6/verse/29)
+- [Bhagavad Gita 6.32 (bhagavadgita.com)](https://bhagavadgita.com/chapter/6/verse/32)
