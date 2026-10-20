@@ -101,6 +101,28 @@ scope error and restoration to the owner.
 - Saturation: Fundamental attribution error already cites B106 twice;
   no duplicate reciprocal proposed and no equivalence asserted.
 
+## B135: Samsara and nirvana are one mind (2026-10-20)
+
+- Membership verified. Search "Nagarjuna MMK 25 19 20 nirvana samsara
+  Garfield", opened
+  https://scholarworks.smith.edu/cgi/viewcontent.cgi?article=1021&context=phi_facpubs .
+  Garfield/Priest (2003), printed p.11, quotes MMK25.20 in four lines;
+  exactly reproduced and attributed via their article. Their explanation
+  of emptiness as no independent essence, rather than nonexistence,
+  is separately attributed.
+- Opened Garth Mason (2014),
+  https://scielo.org.za/scielo.php?script=sci_arttext&pid=S1011-76012014000200006 .
+  Abstract/three-model discussion support interpretive dispute and his
+  preference for equivalence. No invented scholarly consensus.
+- Title expressly compendium shorthand, not proof of mind monism or a
+  claim that changing appraisal cures pain. Practical bus exercise is
+  imagined, does not assert nirvana or pain relief.
+- Removed unverified appraisal mechanism. Lazarus/Folkman, Wittgenstein
+  and SN56.11 parallels remain inherited, unverified on this item.
+- Fixed joined philosophy bullets without changing either original link.
+- Saturation: Appraisal theory and Nirvana already cite B135; no redundant
+  backlink or claim of psychological equivalence proposed.
+
 ## D105: Need little (2026-10-20)
 
 - Opened using web search followed by fetch: James Legge, Zhuangzi chapter 1,

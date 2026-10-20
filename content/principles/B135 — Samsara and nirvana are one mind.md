@@ -12,22 +12,37 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 135** — Samsara and nirvana are one mind
 
-The same traffic jam, the same grief, the same Tuesday: seen through reactivity, it is suffering; seen clearly, it is freedom. Don't wait for a different world.
+In the Mulamadhyamakakarika, Nagarjuna challenges the separation of samsara and nirvana. Garfield and Priest quote verse 25.20 while discussing his account of emptiness ([Garfield and Priest](https://scholarworks.smith.edu/cgi/viewcontent.cgi?article=1021&context=phi_facpubs)):
 
-(Nagarjuna, MMK 25.19-20; Dogen.)
+> Whatever is the limit of nirvana,
+> That is the limit of cyclic existence.
+> There is not even the slightest difference between them,
+> Or even the subtlest thing.
 
-**Plain words** The same traffic jam, the same grief, the same Tuesday — seen through reactivity, it's suffering; seen clearly, it's freedom. Don't wait for a different world. Nirvana isn't a different street; it's the same street without the commentary.
+(MMK 25.20, as quoted by [Garfield and Priest](https://scholarworks.smith.edu/cgi/viewcontent.cgi?article=1021&context=phi_facpubs).)
 
-*For example:* The commute that enrages you daily and the one you barely remember when calm — same road, two worlds, one choice of lens.
+Their reading treats emptiness as lacking an independent essence, not simply not existing ([Garfield and Priest](https://scholarworks.smith.edu/cgi/viewcontent.cgi?article=1021&context=phi_facpubs)). How to understand the claimed sameness remains an interpretive question: Garth Mason compares identity, equivalence and nihilist models, preferring equivalence ([Mason](https://scielo.org.za/scielo.php?script=sci_arttext&pid=S1011-76012014000200006)).
+
+The title is the compendium's shorthand. It should not turn this argument into a promise that changing one's attitude removes pain or makes harmful circumstances acceptable.
+
+**Plain words** As a modest practical exercise, ask what you are treating as fixed or unchangeable in a difficulty. You can question that assumption while still taking action about what hurts. This is not a test of whether you have attained nirvana.
+
+*For example:* Imagine a delayed bus making you late. You check the next service and contact the person waiting, rather than deciding the delay has ruined the whole day. The journey still needs sorting out.
+
+## Sources
+
+- [Garfield and Priest, Nagarjuna and the Limits of Thought, 2003](https://scholarworks.smith.edu/cgi/viewcontent.cgi?article=1021&context=phi_facpubs): MMK 25.20 quotation and their interpretation.
+- [Garth Mason, Is Samsara actually the Same as Nirvana?, 2014](https://scielo.org.za/scielo.php?script=sci_arttext&pid=S1011-76012014000200006): competing interpretive models.
 
 ## Psychology parallels
 
-- **[[Appraisal theory|Appraisal theory]]**, the same event yields different affect under different appraisals (Lazarus and Folkman, 1984)
+- **[[Appraisal theory|Appraisal theory]]** (Lazarus and Folkman, 1984)
 
 ## Philosophy parallels
 
 - **No difference between samsara and nirvana** (Nagarjuna, MMK 25)
-- **The world of the happy versus the unhappy** (Wittgenstein, Tractatus 6.43)- **[[Nirvana|Nirvana]]** (Buddhism, SN 56.11)
+- **The world of the happy versus the unhappy** (Wittgenstein, Tractatus 6.43)
+- **[[Nirvana|Nirvana]]** (Buddhism, SN 56.11)
 
 
 <!-- fc: reflections
