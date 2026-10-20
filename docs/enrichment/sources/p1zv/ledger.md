@@ -77,3 +77,17 @@ Band: p1zv (Stoic principles S039–S126, ranks 1172–1201). Worker: worker-p1z
 **Saturation:** mention "view from above" — the concept page The view from above already cites S052. Self-distancing and Awe concept pages do not.
 
 **Proposals:** 2 reciprocals — Self-distancing, Awe.
+
+## S054 — Distinguish between facts and interpretations (Principle 176)
+
+**Source opened and raw-verified:**
+1. Epictetus, Encheiridion, chapter 5, George Long translation, Project Gutenberg #10661 — https://www.gutenberg.org/cache/epub/10661/pg10661.txt — raw text downloaded to qc/epictetus-long.txt.
+   - "Men are disturbed not by the things which happen ... is the terrible thing." (Ench. V) — FULL MATCH. The chapter continues with an em dash ("but ourselves—that is, our opinions"), so the quote ends at the complete sentence before it. The quote's "not by ... but by" structure sits inside a standalone blockquote, which the validator exempts (S039 precedent).
+
+**Validator:** ok on first run.
+
+**Saturation:** Cognitive defusion and Mindfulness concept pages do not cite S054; Cognitive defusion is the strong analogue (mindfulness link is broader).
+
+**Proposals:** 1 reciprocal — Cognitive defusion.
+
+**QC:** this is the 5th item of the band; milestone advisor QC follows this item (covers S043, S049, S052, S054).
