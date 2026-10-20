@@ -12,13 +12,26 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 192** — Die well by having lived aligned
 
-The final principle: those who live by these principles lose their fear of death, because a life in accord with the Dao is already complete at every moment. True longevity is not measured in years.
+The Daodejing gives the formula in chapter 33: "he who dies and yet does not perish, has longevity." Chapter 50 names the reason in the negative: the one skilful in managing the life entrusted to them for a time has "no place of death", and so the rhinoceros, the tiger and the weapon find nowhere to enter.
+
+> He who does not fail in the requirements of his position, continues long; he
+> who dies and yet does not perish, has longevity.
+>
+> (Daodejing 33, Legge)
+
+The Zhuangzi's sixth chapter describes the people this works for: "The True men of old knew nothing of the love of life or of the hatred of death." They "accepted (their life) and rejoiced in it; they forgot (all fear of death), and returned (to their state before life)". The chapter's description is of acceptance rather than bravery.
 
 (DDJ 33, 50; Zhuangzi 6.)
 
-**Plain words** The final principle: a life in accord with the Dao is already complete at every moment, and those who live that way lose their fear of death. True longevity isn't measured in years. The well-lived day is the only preparation the last day requires.
+**Plain words**
+The test for a good death is a settled life. Accounts kept current, amends made when the amends were possible, days actually lived: these leave the last day with nothing to do except end. The compendium's exercise is small. Each evening, ask whether today left anything essential unsaid or undone.
 
-*For example:* The hospice patient who is calm and the family who isn't — the dying person had already settled their accounts daily.
+*For example:* Imagine a hospice patient who is calm while the family is not. The chapter's suggestion is that the calm was earned across the whole life rather than summoned at the end.
+
+## Sources
+
+- [The Tao Teh King, Legge translation (Project Gutenberg)](https://www.gutenberg.org/cache/epub/216/pg216.txt) — chapters 33, 50
+- [Zhuangzi, Legge translation (ETH Zurich PDF)](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — ch. 6, True men of old
 
 ## Psychology parallels
 
