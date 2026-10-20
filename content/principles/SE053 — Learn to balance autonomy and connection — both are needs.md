@@ -18,7 +18,7 @@ Ryan and Deci's account proposes three basic psychological needs: competence, au
 
 **Plain words** You need two things that sound like opposites: to be your own person, and to belong to people. You can care about someone and still say honestly what you want; agreeing freely is not the same as agreeing because disagreement feels forbidden. Sacrifice either need long enough and you'll get sick of the trade.
 
-*For example:* The partner who gave up all her friendships for the relationship and the one who kept every friendship but never came home for dinner are making the same mistake in opposite directions. Both are starving one need to feed the other.
+*For example:* A partner says, "I want to spend Sunday with you, and I also want to keep my afternoon class." They talk it through until each can accept the plan freely, rather than treating disagreement as disloyalty.
 ## Psychology parallels
 
 - **[[Self-determination|Self-determination theory (Deci & Ryan)]]**, autonomy, competence, and relatedness are three basic needs (Deci & Ryan, 2000; Ryan & Deci, 2017)
