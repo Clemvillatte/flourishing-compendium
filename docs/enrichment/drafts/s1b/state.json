@@ -102,7 +102,7 @@
    ]
   },
   "s1b-005": {
-   "status": "qc_pending",
+   "status": "ready",
    "angle": "P194: Tolstoy Master and Man; exploitative benefactor identity changes to bodily care; illustrative opening rather than proof of universal love",
    "history": [
     {
@@ -118,6 +118,11 @@
      "t": "2026-10-20T14:46:49+00:00",
      "to": "qc_pending",
      "note": "Fifth-item milestone advisor substantive/source PASS; exact quote, full aftermath, bounded P194 mapping independently verified"
+    },
+    {
+     "t": "2026-10-20T14:47:18+00:00",
+     "to": "ready",
+     "note": "Fifth milestone substantive/source QC PASS; zero validator errors; full non-sentimental ending and universal-love limit preserved"
     }
    ]
   },
@@ -137,5 +142,5 @@
    ]
   }
  },
- "updated": "2026-10-20T14:46:49+00:00"
+ "updated": "2026-10-20T14:47:18+00:00"
 }
