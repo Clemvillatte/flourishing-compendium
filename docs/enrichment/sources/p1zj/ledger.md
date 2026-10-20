@@ -171,3 +171,8 @@ Band: AF002..BE033, 30 principles, degree order (queue 628-673). Advisor QC cade
 - AT032: further reading added (see AT032 section below); "Affective as well as cognitive factors" quote dropped; ADHD categorical claim addressed; café example replaced.
 - AT033: mechanism paragraph grounded in an opened review of ART (see AT033 section below); "nature the best-studied case" and coffee-comparison claims removed; example reframed as noticing-and-pausing without diagnosis.
 - Workflow: credential-bearing remote replaced with clean URL, token moved to ~/.git-credentials (0600) — no longer visible in git remote output; repair shells now use set -euo pipefail; items reopened before re-editing (state cycled per item).
+
+## AT032 — milestone-4 repair (further reading added)
+- New evidence: Renninger & Hidi 2019, "Interest Development And Learning", chapter in The Cambridge Handbook of Motivation and Learning, abstract via works.swarthmore.edu/fac-education/150/, fetched this session. Two sentences verified verbatim (interest benefits attention/memory/engagement; task structure and other people help interest develop). Chapter claims cited to the chapter, not to the 2006 abstract.
+- ADHD parallel: Brown 2013 Psychology Today article opened this session; two sentences verified verbatim ("perform well if the task is something that actually interests them"; "cannot adequately perform"). Categorical "driven by interest and novelty rather than importance" replaced with Brown's own quoted contrast.
+- "Affective as well as cognitive factors" quote dropped (advisor: verbatim accuracy alone does not make a quotation useful). Café example replaced with the tax-question case (interest in task content, no model-phase assignment).
