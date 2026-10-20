@@ -436,3 +436,8 @@ legacy schema (state keys + proposals) — MERGED, never replaced.
 - Mediator grouping preserved: Empathy and Perspective-taking glosses merged into one line, reflecting the abstract's third mediator category ("increasing empathy and perspective taking").
 - Empathy facet attribution changed from the unopened Pettigrew 1998 to the opened Pettigrew and Tropp 2008.
 - Validated vs pre-enrichment baseline; build 5,720 ok.
+
+### Milestone QC round 2 repairs: Narrative therapy (2026-10-20, worker-p1f-9d3f7c2b)
+- Practices-list excerpt: "externalising the problem," quoted with substituted comma replaced by unquoted prose mention (the source has a colon there); remaining two items quoted verbatim.
+- Slogan attribution to the overview page retained per advisor confirmation (Carey-and-Russell attribution suggestion withdrawn by advisor).
+- Validated vs pre-enrichment baseline; build 5,720 ok.

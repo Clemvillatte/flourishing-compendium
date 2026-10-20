@@ -7,7 +7,7 @@ file: "Narrative therapy"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-N"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter N", "parent": ""}
 ---
-Narrative therapy was initially developed by the Australian Michael White and the New Zealander David Epston. The Dulwich Centre's overview describes the approach in one line: "Narrative therapy centres people as the experts in their own lives and views problems as separate from people." The overview lists the practices the approach has brought, including "externalising the problem," "the use of therapeutic letters, certificates and documents" and "re-authoring conversations"; externalising is summarized there as "the person is not the problem, the problem is the problem":
+Narrative therapy was initially developed by the Australian Michael White and the New Zealander David Epston. The Dulwich Centre's overview describes the approach in one line: "Narrative therapy centres people as the experts in their own lives and views problems as separate from people." The overview lists the practices the approach has brought, including externalising the problem, "the use of therapeutic letters, certificates and documents" and "re-authoring conversations"; externalising is summarized there as "the person is not the problem, the problem is the problem":
 
 > Externalising locates problems not within individuals, but as products of culture and history. Problems are understood to have been socially constructed and created over time. The aim of externalising practices is therefore to enable people to realise that they and the problem are not the same thing.
 >
