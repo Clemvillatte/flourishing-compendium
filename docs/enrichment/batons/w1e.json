@@ -1,7 +1,7 @@
 {
  "baton": "w1e",
- "agent": "worker-w1e-6f6116f6",
- "clocked_in": "2026-10-20T16:27:02+00:00",
+ "agent": "worker-p1zz-b81e3f52",
+ "clocked_in": "2026-10-20T16:50:53+00:00",
  "takeovers": [
   {
    "by": "Agent E (Computer)",
@@ -56,6 +56,12 @@
    "at": "2026-10-20T16:02:20+00:00",
    "from": "worker-w1e-syd011",
    "reason": "stale (230 min)"
+  },
+  {
+   "by": "worker-p1zz-b81e3f52",
+   "at": "2026-10-20T16:50:53+00:00",
+   "from": "worker-w1e-6f6116f6",
+   "reason": "stale (24 min)"
   }
  ],
  "released": false
