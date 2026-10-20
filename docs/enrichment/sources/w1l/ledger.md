@@ -479,3 +479,25 @@ quotation described rejected work, not an authorized blocked-item
 convention).
 
 3 files revalidated (3 checked, 0 failed).
+
+## Early childhood education research
+
+- Track: fast-track, current degree 5 (2 kernels + 3 principles). Start
+  transition recorded and PUSHED before research.
+- Opened: https://jenni.uchicago.edu/papers/Heckman_Science_v312_2006.pdf
+  (Heckman 2006, "Skill Formation and the Economics of Investing in
+  Disadvantaged Children", Science 312(5782):1900-1902, author-hosted full
+  text), downloaded and pdftotext-extracted 2026-10-20.
+- Quotations, copied from the extracted text: the conclusions passage
+  (blockquote, two sentences, contiguous); "a dynamic process in which early
+  inputs strongly affect the productivity of later inputs"; "A serious
+  trade-off exists between equity and efficiency for adolescent and young
+  adult skill policies. There is no such trade-off for policies targeted
+  toward disadvantaged young children."; "society overinvests in remedial
+  skill investments at later ages and underinvests in the early years."
+- Blockquote locator: the article's concluding section (page-specific
+  printed number not extractable; the article range 1900-1902 cited).
+- Related concepts verified to exist: Attachment theory (deg 16),
+  Neo-Piagetian theories of cognitive development (deg 4); both bare links.
+- Saturation: fast-track exemption; no reciprocal proposed.
+- QC: validator ok.
