@@ -32,6 +32,10 @@ The excerpt ties shoshin to not-attaining: "In the beginner's mind there is no t
 
 - [Shunryu Suzuki, Zen Mind, Beginner's Mind, book excerpt, Spirituality & Practice](https://www.spiritualityandpractice.com/book-reviews/excerpts/view/13806)
 
+## Stories
+
+- [[ST344 — Suzuki Keeps the Beginner's Mind|344. Suzuki Keeps the Beginner's Mind]]
+
 ## Psychology parallels
 
 - **[[Growth mindset|Growth mindset]]**, beliefs about malleability shape persistence (Dweck, 2006; effect sizes vary by context)

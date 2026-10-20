@@ -35,6 +35,10 @@ Realizing you've outgrown a hot take from five years ago — and actually lettin
 - [[K136 — The raft check|K136 The raft check]]
 - [[K173 — Creative hopelessness|K173 Creative hopelessness]]
 - [[K181 — Deimplementation|K181 Deimplementation]]
+## Stories
+
+- [[ST344 — Suzuki Keeps the Beginner's Mind|344. Suzuki Keeps the Beginner's Mind]]
+
 ## Psychology parallels
 
 - **[[Decentering|Reperceiving]]**, shifts in perspective toward experience that meditation cultivates (Shapiro et al., 2006)

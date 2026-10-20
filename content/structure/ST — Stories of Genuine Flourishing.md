@@ -106,6 +106,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "", 
     - [[ST074 — The Five Hindrances as Thieves]]
     - [[ST075 — The Monkey Tied to the Post]]
     - [[ST076 — Fleabag Looks at the Camera]]
+    - [[ST344 — Suzuki Keeps the Beginner's Mind]]
   - [[ST-S02.05 — II.5 The Heart — Emotions and Immeasurables]]
     - [[ST077 — The Mother's Protection]]
     - [[ST078 — The Two Arrows]]

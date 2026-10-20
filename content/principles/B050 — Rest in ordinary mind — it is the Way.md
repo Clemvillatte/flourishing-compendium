@@ -26,6 +26,10 @@ The compendium draws an invitation to examine the activity you are already in be
 
 Imagine pausing over morning tea. Notice its warmth and taste, then return to what the day requires. If the moment feels unremarkable, you need not label it a failed practice or invent a story about having found ultimate peace.
 
+## Stories
+
+- [[ST344 — Suzuki Keeps the Beginner's Mind|344. Suzuki Keeps the Beginner's Mind]]
+
 ## Psychology parallels
 
 - **[[Acceptance|Acceptance-based approaches]]**: Hayes and colleagues describe acceptance as allowing inner experiences in order to support values-based action, a clinical comparison rather than a test of the kōan ([2006, manuscript pp. 7-8](https://anxietyinstitute.com/wp-content/uploads/2021/12/Hayes-et-al.-2006.pdf)).
