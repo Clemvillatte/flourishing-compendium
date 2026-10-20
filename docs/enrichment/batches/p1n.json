@@ -5,14 +5,15 @@
   "D029",
   "D051",
   "D076",
-  "D024"
+  "D024",
+  "D083"
  ],
- "in_progress": "D083",
+ "in_progress": null,
  "flagged": {
   "D024": "Reopened for QC: QC round 2: psychology-parallel tails replaced per advisor (Liu co-citation removed, Ward/Leroy scoped to fetched abstracts)"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T01:18:54+00:00",
+ "updated": "2026-10-20T01:19:04+00:00",
  "band_done": false
 }

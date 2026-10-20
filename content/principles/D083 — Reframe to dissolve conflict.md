@@ -12,13 +12,27 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 83** — Reframe to dissolve conflict
 
-The monkey keeper renamed "three in the morning, four at night" to "four in the morning, three at night": nothing changed except the naming, and the monkeys were delighted. Find the framing that lets everyone keep face.
+The passage is from the second chapter of the Zhuangzi. A keeper of monkeys, handing out acorns, tells them "In the morning I will give you three (measures) and in the evening four." They are angry; he switches to four in the morning and three in the evening, and they are pleased.
+
+> A keeper
+> of monkeys, in giving them out their acorns, (once) said, 'In the morning I will give you three
+> (measures) and in the evening four.' This made them all angry, and he said, 'Very well. In the
+> morning I will give you four and in the evening three.' The monkeys were all pleased.
+>
+> (Zhuangzi 2, Legge)
+
+The chapter draws the lesson for disputes: "the sagely man brings together a dispute in its affirmations and denials, and rests in the equal fashioning of Heaven. Both sides of the question are admissible." The reframe changes no facts; it changes which side of the same total is front-loaded. The compendium's use is practical: before arguing the substance, check whether the presentation is doing the arguing.
 
 (Zhuangzi 2.)
 
-**Plain words** The monkey keeper renamed 'three nuts at dawn, four at dusk' to 'four at dawn, three at dusk' — nothing changed but the naming, and the monkeys were delighted. Framing is real leverage: find the version that lets everyone keep face.
+**Plain words**
+The monkeys got the same number of acorns either way. What flipped them from angry to pleased was the order the numbers arrived in. In a dispute, look for the arrangement of the same facts that both sides can live with; often the fight is about sequence or emphasis rather than the total.
 
-*For example:* 'The project is three weeks behind schedule' versus 'we've discovered what not to do, with time to fix it' — same facts, different room.
+*For example:* 'The project is three weeks behind schedule' versus 'we've discovered what not to do, with time to fix it': same facts, different room.
+
+## Sources
+
+- [Zhuangzi, Legge translation (ETH Zurich PDF)](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — ch. 2, monkey keeper
 
 ## Practice kernels
 
