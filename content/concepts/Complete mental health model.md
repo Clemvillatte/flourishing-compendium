@@ -10,7 +10,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 “Complete mental health model” — Keyes, 2002.
 
-Keyes's 2002 paper gave mental health a positive side of its own. Mental illness is one thing. Mental health, on his model, is a syndrome of its own: positive feelings and positive functioning in life. The paper states its own program:
+In his 2002 study, Keyes operationalized mental health through positive feelings and positive functioning. The paper states its own program:
 
 > This paper introduces and applies an operationalization of mental health as a syndrome of symptoms of positive feelings and positive functioning in life. — Keyes, 2002, *J Health Soc Behav* 43(2):207–22, [PubMed abstract (opened)](https://pubmed.ncbi.nlm.nih.gov/12096700/)
 
