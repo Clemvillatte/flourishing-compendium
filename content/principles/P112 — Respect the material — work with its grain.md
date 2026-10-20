@@ -12,17 +12,26 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 112** — Respect the material: work with its grain
 
-The maker is in dialogue with material: wood, paint, words, or the "material" of a relationship or a team have their own grain. Work with it, not against it.
+In Art as Experience, Dewey distinguishes releasing an impulse from making something expressive. Material becomes a medium through the way it is used, and expression develops through interaction with conditions outside the maker ([chapter 4](https://www.uio.no/studier/emner/uv/uv/UV9406/dewey-john-(1987).-art-as-experience.pdf)):
 
-(Dewey, Art as Experience, 1934; Goethe's morphology — form as becoming.)
+> Only where material is employed as media is there expression and art.
 
-**Plain words** The maker is in dialogue with material — wood, paint, words, or the 'material' of a relationship or a team have their own grain. Work with it, not against it. The material votes; the maker who doesn't count that vote gets splinters.
+(Dewey, Art as Experience, chapter 4, LW 10:69, [university-hosted text](https://www.uio.no/studier/emner/uv/uv/UV9406/dewey-john-(1987).-art-as-experience.pdf).)
 
-*For example:* The new manager fighting the team's culture versus the one who reads it and works with the grain — same team, one lasts a quarter, one transforms it. Wood tells you things if you touch it slowly.
+For Dewey, this is a process in time: both what comes from the maker and the objective conditions acquire a form they did not possess at the outset ([LW 10:70](https://www.uio.no/studier/emner/uv/uv/UV9406/dewey-john-(1987).-art-as-experience.pdf)). The compendium applies that account as a reason to let the work modify an initial plan. It does not mean always yielding to resistance, or treating other people as materials to be shaped.
+
+**Plain words** Try a small part of what you intend to make and look at what actually happened. What does the result let you do, and what does it ask you to reconsider?
+
+*For example:* Imagine drafting an essay around a quotation, then finding that its context does not support your argument. You change the argument or find different evidence, rather than trimming the quotation until it seems to agree.
+
+## Sources
+
+- [Dewey, Art as Experience, chapter 4, LW 10:69-70, University of Oslo copy](https://www.uio.no/studier/emner/uv/uv/UV9406/dewey-john-(1987).-art-as-experience.pdf).
+- [Michael Schreyach, John Dewey and Art, Encyclopedia of Aesthetics, 2014](https://digitalcommons.trinity.edu/context/art_faculty/article/1008/viewcontent/MSchreyach_2014_EA__DEWEY_.pdf): academic discussion of making and media.
 
 ## Psychology parallels
 
-- **[[Craftsmanship research|Craftsmanship research]]**, engagement grows from material feedback (Csikszentmihalyi, 1990)
+- **[[Craftsmanship research|Craftsmanship research]]** (Csikszentmihalyi, 1990)
 
 ## Philosophy parallels
 

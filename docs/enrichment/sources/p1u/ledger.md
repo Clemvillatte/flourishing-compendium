@@ -221,6 +221,26 @@ scope error and restoration to the owner.
   parallels remain inherited, unverified. All original links preserved.
 - Saturation: Self-efficacy and The enlightenment already cite B195.
 
+## P112: Respect the material (2026-10-20)
+
+- Membership verified. Search Dewey/Art as Experience/material resistance,
+  opened primary university-hosted excerpt:
+  https://www.uio.no/studier/emner/uv/uv/UV9406/dewey-john-(1987).-art-as-experience.pdf .
+  Increased fetch length to read chapter4 fully. LW10:69 sentence quoted
+  exactly after normalizing PDF line break; LW10:70 supports prolonged
+  interaction and both terms acquiring new form/order.
+- Opened Michael Schreyach's OUP Encyclopedia of Aesthetics entry:
+  https://digitalcommons.trinity.edu/context/art_faculty/article/1008/viewcontent/MSchreyach_2014_EA__DEWEY_.pdf .
+  Used the section beginning Dewey and Art by Schreyach, not the preceding
+  David Seiple entry included in the same PDF.
+- Removed invented manager-survival/transformation contrast. Imagined
+  essay/quotation example emphasizes source fidelity, not an empirical
+  claim about team culture or craft engagement.
+- Removed unchecked Csikszentmihalyi mechanism. Goethe locator dropped
+  from body; Morphology link/reference preserved as unverified parallel.
+  No Goethe morphology equivalence or psychology effect certified.
+- Saturation: Craftsmanship research and Morphology already cite P112.
+
 ## D105: Need little (2026-10-20)
 
 - Opened using web search followed by fetch: James Legge, Zhuangzi chapter 1,
