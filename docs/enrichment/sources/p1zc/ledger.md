@@ -318,3 +318,29 @@ Short, item-keyed evidence notes (owner decision 2026-10-20, PROTOCOL-PRINCIPLES
   parallels reduced to bare references; Practice kept (practical advice framing).
 - Both items flagged in the band state pending round-3 acceptance. All three files
   validate vs baseline 0998a787 (0 failed).
+
+## Round-3 repairs + mention hunts (SE059/SE063/SE071/SE076)
+- DUPLICATED-SECTION BUG found and fixed: the round-2 SE071/SE076 repair scripts left
+  the old claim-bearing Psychology-parallels bullets below the new bare-reference
+  sections (both files had two "## Psychology parallels" headings); the old sections
+  removed, wikilinks preserved in the remaining sections.
+- SE071: Plain words and For example replaced with the advisor's versions (emotion
+  regulation / negative beliefs / relationships difficulties only). SE076: Socrates
+  line reduced to the bare reference.
+- SE059: "strong predictor of achievement" replaced with the model attribution;
+  confidence-vs-efficacy assertions bounded to the model; example replaced with a
+  labelled imagined choice without a promised result.
+- SE063: outcome claims ("half the salary and twice the meaning") replaced with a
+  labelled goal-review exercise; blanket dismissal of externally influenced goals
+  removed (model compares relative reasons).
+- Mention hunts: SE059 — Mastery experiences already cites SE059; Self-efficacy
+  (concept) does NOT cite SE059 (proposed, bounded); Deliberate practice, Goal
+  setting theory, Gradual training relate to SE060 (different principle), no
+  proposals. SE063 — Intrinsic versus extrinsic goals and Autonomy already cite
+  SE063; Identified versus introjected motivation and Aspiration index already
+  carry the self-concordant-goals principle via PP009 (no proposals; SE063 would
+  duplicate). SE071/SE076 — "worthlessness" (no concept hits), "emotion
+  regulation" (pages relate to other principles), "complex PTSD" (only Complete
+  mental health model, a population-categories page — inspected, no proposal),
+  "depressive episode" (no new concept hits); no additional links warranted.
+- All four files validate (0 failed). Round 4 pending.

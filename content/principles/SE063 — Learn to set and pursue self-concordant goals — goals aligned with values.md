@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 63** — Learn to set and pursue self-concordant goals: goals aligned with values
 
-Goals that are self-concordant (aligned with your own values, not external pressure) are pursued more effectively, achieved more often, and produce more well-being. Goals pursued for external reasons (approval, avoidance) are less effective.
+Goals that are self-concordant (aligned with your own values, not external pressure) are the subject of Sheldon and Elliot's model, which reports that they receive more sustained effort, are attained more often, and yield greater well-being on attainment. The model compares relative reasons for pursuit; it does not dismiss goals with external influences.
 
 The model's abstract states the two roles plainly:
 
@@ -20,7 +20,7 @@ The model's abstract states the two roles plainly:
 
 **Plain words** Goals you actually chose — that come from your values, not your mother's, not your industry's — get pursued harder, hit more often, and feel like yours when you arrive. Borrowed goals have a strange property: achieving them feels like doing homework forever.
 
-*For example:* The man who spent a decade climbing toward a corner office because that's what serious people did, gets the office, and stands in it feeling nothing. The goal was real; the authorship wasn't. His next move takes half the salary and twice the meaning, because this time he wrote it.
+*For example (imagined):* Someone reviews their goals and finds one they cannot trace to any value of their own: they absorbed it from what people around them reward. For this exercise they write down whose goal it is and whether to keep it.
 ## Sources
 
 - [Sheldon, K. M., & Elliot, A. J. (1999). Goal striving, need satisfaction, and longitudinal well-being: the self-concordance model. Journal of Personality and Social Psychology, 76(3), 482-497](https://pubmed.ncbi.nlm.nih.gov/10101878/) — abstract

@@ -18,9 +18,9 @@ Complex PTSD is one clinical context in which self-experience can be affected af
 
 The diagnosis calls these disturbances in self-organisation. This page's "fragmented self" language is a description of that pattern, not a separate clinical fact.
 
-**Plain words** Some people who live through trauma report a changed sense of self: memory that will not hold together, a self organised around threat, parts that feel like strangers. The definition above is the pattern a clinician checks for. If the description fits what you live with, that is a reason to ask a professional, not a conclusion to draw alone.
+**Plain words** The additional difficulties described here concern managing emotions, persistent negative beliefs about yourself, and sustaining close relationships. If these experiences are troubling you, describe them during a professional assessment.
 
-*For example (imagined):* Someone reports that since the traumatic events they cannot tell the story in order, flinch at a particular smell, and say "that was a different me". For this exercise they bring that report to a professional assessment rather than treating it as a self-help project.
+*For example (imagined):* After traumatic events, someone reports difficulty managing emotions, persistent feelings of worthlessness, and trouble feeling close to others. They bring these experiences to an assessment.
 
 ## Sources
 
@@ -30,11 +30,6 @@ The diagnosis calls these disturbances in self-organisation. This page's "fragme
 
 - Trauma and self-fragmentation — van der Kolk, 2014; Herman, 1992
 - Complex PTSD and identity disturbance — van der Kolk, 2014; Cloitre et al., 2011
-
-## Psychology parallels
-
-- **Trauma and self-fragmentation**, complex trauma produces identity disturbance and dissociation (van der Kolk, 2014; Herman, 1992)
-- **Complex PTSD includes identity disturbance**, a distorted, fragmented sense of self is a symptom (van der Kolk, 2014; Cloitre et al., 2011)
 
 ## Philosophy parallels
 

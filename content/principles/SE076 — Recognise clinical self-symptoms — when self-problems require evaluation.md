@@ -38,16 +38,11 @@ When a self-problem is persistent and impairing, the compendium's practical advi
 - Self-symptoms as clinical indicators — APA, 2022
 - Evidence-based treatments for self-related disorders — Linehan, 1993; Young et al., 2003
 
-## Psychology parallels
-
-- **Self-symptoms as clinical indicators**, self-related symptoms are features of depression, personality disorders, and complex trauma (APA, 2022)
-- **Evidence-based treatments for self-related disorders**, DBT, schema therapy, psychodynamic therapy, and CBT all address self-related symptoms (Linehan, 1993; Young et al., 2003)
-
 ## Philosophy parallels
 
 - **Know thy limits** (Delphic maxim)
 - **[[Humility|Humility as strength]]** (Aquinas, Summa Theologica)
-- **[[The examined life|The examined life]] includes examined symptoms** (Socrates)
+- **[[The examined life|The examined life]]** (Socrates)
 
 ## Practice
 
