@@ -13,3 +13,7 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 
 ## Y010 (2026-10-21, worker-p1zy-4c1e7f9d)
 - Woods HOS 17 OCR opened (https://archive.org/download/yogasystemofpata00wooduoft/yogasystemofpata00wooduoft_djvu.txt). Quotes verified: sutra ii.17 ("The correlation of the Seer and the object-of-sight is the cause of that which is to be escaped.", p. 140 running head) and ii.24 ("The reason for this [correlation] is undifferentiated-consciousness (avidya).", p. 166). "Two pages later" page claim removed (sutra numbers cited instead; the printed pages are far apart). Self-QC only (session end); no advisor round on this item — next worker please re-verify.
+
+## Y010 (2026-10-21)
+- Woods HOS 17: 2.17 and Vyasa (p. 140, before the "141]" running head), 2.5 (p. 111), 2.24 (sutra text only; commentary not read). Quotes verified. Sutras 2.18-2.23 not opened for quoting; the old cite range 2.17-2.24 is narrowed on the page.
+- Old text said the reframe "converts suffering from a verdict into a location error"; that is the principle's modern gloss, now labelled by the "Plain words" framing (the tradition's fix is discrimination over years). Plain words replicate replaced; example imagined. Self-QC only.

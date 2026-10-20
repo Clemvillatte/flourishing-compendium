@@ -12,22 +12,25 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 10** — Locate the problem in misidentification, not in weakness
 
-The Yoga Sutras locate the suffering to be escaped in a structure: the correlation of the seer with the object-of-sight (Woods, [The Yoga-System of Patanjali, sutra ii.17; opened text](https://archive.org/download/yogasystemofpata00wooduoft/yogasystemofpata00wooduoft_djvu.txt)):
+Patanjali's diagnosis of suffering is structural. "The correlation of the Seer and the object-of-sight is the cause of that which is to be escaped" (Yoga Sutra 2.17, trans. Woods). The commentary reads this as the link between the power of seeing and the power by which one sees: it is "from time-without-beginning" and is "the cause of pain" (Vyasa, in Woods, p. 140).
 
-> The correlation of the Seer and the object-of-sight is the cause of that which is to be escaped.
+### The cause is a mistake
 
-(Woods, The Yoga-System of Patanjali, Harvard Oriental Series 17, sutra ii.17; [opened text, Internet Archive](https://archive.org/download/yogasystemofpata00wooduoft/yogasystemofpata00wooduoft_djvu.txt).)
+Sutra 2.24 names the root: "The reason for this [correlation] is undifferentiated-consciousness (avidya)" (Woods). Avidya is the misrecognition described at 2.5, where the Self is taken for what is "impermanent, impure, pain, and not-self" (Woods, p. 111). So the problem sits in how we see, not in any weakness of character.
 
-The cause of that correlation is named at sutra ii.24: "The reason for this [correlation] is undifferentiated-consciousness (avidya)" (Woods, [sutras ii.23-ii.24, opened text](https://archive.org/download/yogasystemofpata00wooduoft/yogasystemofpata00wooduoft_djvu.txt)). The reframe matters practically: a location error can be corrected, and a verdict on your character cannot.
+### The remedy
 
-### Plain words
+The commentary gives an analogy: the foot has a "liability-to-scratches", the thorn "the power to scratch", and prevention is "not stepping with the foot upon the thorn" or covering the sole. Whoever understands "these three" has "begun the antidote" and "is not exposed to the pain from scratches" (p. 140). Pain that has not come yet can be avoided; this is the commentary's reason for taking the diagnosis as practical.
 
-The diagnosis is not that you are weak; it is that the seeing has joined what it sees. That is a location error, and location errors have tools. "I am broken" has none.
+**Plain words** The text locates the trouble in a mix-up between the one who sees and what is seen, not in your strength. A mix-up can be corrected, which is why the diagnosis is hopeful. The "I am weak" verdict is replaced by "I am confusing the instrument with myself". The tradition's fix is discrimination, practised over years, not a quick reframe.
 
-### For example
+*For example:* Imagined example: someone with stage fright first thinks "I am broken". Seeing the fear as something that happens in the body and mind, and not as a statement about who they are, makes room to work on it.
 
-Suppose someone's stage fright reads to them as "I am broken". Re-read as the instrument of seeing joined to the audience's judgment, the same pounding heart becomes a technical problem with tools: preparation and graded exposure. The reframed problem is workable.
+(Yoga Sutras 2.17 and 2.24 with Vyasa's Bhasya and Vacaspati Misra's gloss, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), pp. 111, 140, Internet Archive, opened 2026-10-21. Sutras 2.18-2.23 not quoted.)
 
+## Sources
+
+- [Woods, The Yoga-System of Patanjali (1914), Internet Archive](https://archive.org/details/yogasystemofpata00wooduoft) — pp. 111, 140
 ## Psychology parallels
 
 - **Reattribution and externalization in cognitive therapy**, the technique of relocating problems from self-verdicts to identifiable, changeable mechanisms (Beck, 1976)
