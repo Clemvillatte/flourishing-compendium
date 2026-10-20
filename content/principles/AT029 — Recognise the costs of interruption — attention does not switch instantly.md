@@ -20,11 +20,11 @@ Leroy's two experiments are the source for the residue claim:
 
 > "Time pressure while finishing a prior task is needed to disengage from the first task and thus move to the next task and it contributes to higher performance on the next task." ([Leroy, 2009, same abstract](https://ideas.repec.org/a/eee/jobhdp/v109y2009i2p168-181.html))
 
-The experiments concern task switching in laboratory studies, not the interruption of an ongoing task by a colleague. The compendium's interruption framing is its own application; the specific cost figures in the earlier draft (a 30-second ping, 20 minutes of rebuild) carried no source and are gone.
+The abstract concerns transitions between tasks; it does not study the interruption of ongoing work, and it does not quantify how long a switch costs. What the findings support is the residue itself: part of the mind stays with the task it left, and performance on the next task suffers.
 
-**Plain words** The experiments say two things: part of your attention stays with the task you left, and the next task gets the reduced share. Finishing the first task helps only under time pressure — an easy finish leaves thoughts behind. The practice is to finish cleanly, under some pressure, before switching.
+**Plain words** You can begin another task while still thinking about the one you left. Changing what is on the screen does not necessarily mean your attention has moved with it. The experiments also found that finishing a task under time pressure helped people move on — a result about the study's conditions, not advice to manufacture pressure.
 
-*For example:* (Imagined case.) A coder with headphones on is not being unfriendly; they are protecting a build from everyone with a quick question. The studies' lesson is the other side: when you do switch, finish first — write down where you stopped, and let the note carry the residue.
+*For example:* (Imagined case.) A coder opens a code review while still rehearsing an unfinished function; the review gets the share of attention that is left.
 
 ## Sources
 
@@ -42,4 +42,4 @@ The experiments concern task switching in laboratory studies, not the interrupti
 
 ## Practice
 
-- Protect yourself from interruptions. Use "do not disturb" signals, close doors, silence notifications. Batch similar tasks. Recognise that switching leaves residue: finish cleanly, under some pressure, before you switch.
+- Protect yourself from interruptions. Use "do not disturb" signals, close doors, silence notifications. Batch similar tasks. Expect the switch itself to cost attention: the new task starts with less of it.
