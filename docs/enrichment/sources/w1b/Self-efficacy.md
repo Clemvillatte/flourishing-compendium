@@ -61,3 +61,15 @@
 - Ledger correction: the seed's Related list carried five of the six concept
   neighbours; Locus of control is the sixth (incoming edge only). British spelling
   applied to this band's own prose (behaviour, modelling).
+
+## Advisor QC round 3 (2026-10-20)
+
+- The near-verbatim efficacy/outcome definitions replaced with a genuine paraphrase:
+  "Bandura distinguishes expecting an action to produce a result from believing
+  oneself capable of performing it." (advisor's wording, cite: the opened 1977 paper).
+- "the unifying mechanism" reworded as proposal: "His 1977 paper proposed efficacy
+  expectations as a common explanation for behavioural change."
+- Other formulations: "belief in one's capacity to act predicts outcomes (Bandura,
+  1977)" labelled "(inherited formulation, unverified here)"; the first line ("belief
+  in capability predicts initiation and persistence") is supported by the 1977 paper's
+  abstract and body passage.
