@@ -12,28 +12,24 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 42** — Develop calm (samatha)
 
-Let the mind settle into stillness, concentration deepening until the body is tranquil and the mind unified. Calm is the platform on which insight sees.
-
-(MN 118; Dhammapada 372.)
-
-The Anapanasati Sutta trains calming as an instruction repeated with the breath, in and out. In its account of the awakening factors, body and mind grow calm together; serenity becomes an awakening factor once they have; and the mind becomes concentrated for one at ease with the body calmed. The compendium draws on these passages for a practice of developing calm.
+The Anapanasati Sutta trains calming as an instruction repeated with the breath, in and out ([MN 118, Thanissaro](https://www.accesstoinsight.org/tipitaka/mn/mn.118.than.html)). In its account of the awakening factors, body and mind grow calm together; serenity becomes an awakening factor once they have; and the mind becomes concentrated for one at ease with the body calmed. The compendium draws on these passages for a practice of developing calm.
 
 > He trains himself, 'I will breathe in calming bodily fabrication.' He trains himself, 'I will breathe out calming bodily fabrication.'
 >
-> (Anapanasati Sutta, MN 118, Thanissaro)
+> (Anapanasati Sutta, MN 118, Thanissaro, breathing instruction 4)
 
 > For one enraptured at heart, the body grows calm and the mind grows calm. When the body & mind of a monk enraptured at heart grow calm, then serenity as a factor for awakening becomes aroused.
 >
-> (Anapanasati Sutta, MN 118, Thanissaro, the serenity factor)
+> (Anapanasati Sutta, MN 118, Thanissaro, awakening factors: serenity)
 
-The Dhammapada pairs meditative concentration with insight, and describes someone in whom both are found as close to Nibbana. The compendium treats the calm side of that pairing as something trained.
+The Dhammapada pairs meditative concentration with insight, and describes someone in whom both are found as close to Nibbana ([Dhammapada 372, Buddharakkhita](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.25.budd.html)).
 
 > There is no meditative concentration for him who lacks insight, and no insight for him who lacks meditative concentration. He in whom are found both meditative concentration and insight, indeed, is close to Nibbana.
 >
 > (Dhammapada 372, Buddharakkhita)
 
 **Plain words**
-The sutta gives calming as an instruction attached to the breath itself, on the way in and on the way out. For the compendium's exercise: when you feel unsettled, take the next breath in and the next breath out as the instruction, then note what you noticed.
+The passage asks you to practise calming while breathing in and while breathing out. For the compendium's exercise, try that instruction for one breath in each direction, then describe what you noticed.
 
 *For example:* Imagine reaching the end of a paragraph and realising you cannot recall it. Pause to try the breathing exercise, then reread the paragraph and check what you remember.
 

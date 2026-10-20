@@ -99,3 +99,16 @@
   QC: advisor milestone QC repairs' — the B014 ledger entry records the
   repairs applied and reopen->done recorded; the state tool has no flag
   removal command, so the stale flag is left for supervisor disposition.
+
+- Advisor QC round 2 (before done was recorded as final): three more repairs
+  applied — seed explanation paragraph and its locator line removed (only
+  the '>' title line is protected; consistent with B028 precedent);
+  'compendium treats the calm side as something trained' terminology bridge
+  deleted; Plain words replaced with the advisor's exact exercise draft;
+  opened sources linked directly in the explanatory sentences; the two MN
+  118 blockquotes labelled (breathing instruction 4; awakening factors:
+  serenity). Correction to this ledger's earlier note: the Thanissaro
+  'bodily fabrication = the breath' gloss came from search snippets of
+  accesstoinsight study pages (Right Mindfulness PDF, Body Contemplation
+  study guide), not a full-text fetch of note 3; the gloss is not asserted
+  on the page. Reopened -> repaired -> validated -> done.

@@ -10,10 +10,11 @@
  ],
  "in_progress": null,
  "flagged": {
-  "B014": "Reopened for QC: advisor milestone QC repairs"
+  "B014": "Reopened for QC: advisor milestone QC repairs",
+  "B042": "Reopened for QC: advisor QC round 2: remove seed explanation, terminology bridge, plain-words fix"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T03:27:37+00:00",
+ "updated": "2026-10-20T03:29:27+00:00",
  "band_done": false
 }
