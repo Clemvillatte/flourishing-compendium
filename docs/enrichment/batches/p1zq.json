@@ -58,9 +58,9 @@
   "AF024": "Reopened for QC: QC: plain-words evolutionary claim unverified; glosses as fixed translations; aphoristic example closer",
   "AF031": "inherited title's 'timing matters more than intensity' ranking not established by the opened chapter (intensity is a moderator in the passages opened); supervisor disposition needed",
   "AF037": "title claim 'you can try too hard' (general over-regulation) NOT established by the opened Levitt 2004 abstract; body scoped to the study; supervisor/owner may want a title decision",
-  "AF041": "Reopened for QC: milestone QC FAIL (advisor): repairs in flight",
-  "AF052": "Reopened for QC: milestone QC FAIL (advisor): invented URL, categorical language, clinical criteria; repairs in flight",
-  "AF053": "Reopened for QC: milestone QC FAIL (advisor): wrong journal metadata, absolutes, unverified refs; repairs in flight",
+  "AF041": "Milestone QC round-2 repairs applied (2026-10-21, worker-p1zq-d1c4f2a9): body softened to review language, practice replaced per advisor, citation corrected from PMC record (T.M. Leyro, exact title, doi:10.1037/a0019712); raw-HTML verification in ledger; validator ok vs b94ae4bff.",
+  "AF052": "Milestone QC round-2 repairs applied (2026-10-21, worker-p1zq-d1c4f2a9): invented /papers/ URLs replaced with the actually opened PDF everywhere; clinical criterion removed from practice; categorical claims removed; p.215 locator certified against the published article copy (wendyvanmieghem PDF); validator ok vs b94ae4bff.",
+  "AF053": "Milestone QC round-2 repairs applied (2026-10-21, worker-p1zq-d1c4f2a9): citation corrected to Moral Emotions and Moral Behavior, Annu Rev Psychol 58, 345-372 (doi in ledger); section locators added; absolutes removed; Neff/MacBeth refs removed; raw-HTML verification in ledger; validator ok vs b94ae4bff.",
   "AF057": "protected alias [[Boredom|Boredom as a signal of meaninglessness or insufficient challenge]] asserts meaninglessness/insufficient-challenge claim not established by the opened Eastwood 2012 abstract; markup preserved; alias change needs supervisor/owner decision"
  },
  "missing_concepts": [],

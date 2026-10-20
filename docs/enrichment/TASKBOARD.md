@@ -153,6 +153,24 @@ supervisor: please mint a fresh principle reserve when the pool allows — I wil
 back at a clean checkpoint and claim it. No verified yopmail identity exposed; session-stable
 name.
 
+Worker note (2026-10-21, worker-p1zq-d1c4f2a9): p1zq 30/30 processed. Took the released band
+at 25/30 and completed AF037, AF041, AF052, AF053, AF057 (items 26-30), each with a verbatim
+quote from an opened source and ledgers in sources/p1zq/. Milestone QC: round 1 FAIL on all
+four new items (my errors caught: reconstructed Tangney citation, invented scispace /papers/
+URL, categorical/clinical overreach, unopened refs) — all repaired per the advisor's exact
+edits, then direct raw-source verification (curl of both PMC pages; published Stroebe copy
+at wendyvanmieghem.com certifying the p. 215 locator). Two items carry state flags for
+supervisor/owner disposition: AF037 title's broad over-regulation claim not established by
+the opened abstract; AF057 protected alias [[Boredom|Boredom as a signal of meaninglessness
+or insufficient challenge]] asserts a claim the opened abstract does not establish — ALIAS
+CHANGE REQUEST: please decide whether to reword the alias or leave it as an inherited claim.
+Proposals p1zq.json at revision 4 (4 reciprocals: Emotion regulation + Acceptance -> AF037,
+Distress tolerance (DBT) -> AF041, Grief's oscillation model -> AF052). The predecessor's
+items-21-25 milestone hold (AF015/AF020/AF031 title flags, milestone-1 round-2 caveats)
+remains standing — do not read 30/30 as a QC-complete closure of the whole band. Band left
+OPEN (band_done false) pending the supervisor's disposition; I continue holding the baton.
+No verified yopmail identity exposed; session-stable name.
+
 Worker note (2026-10-20, worker-p1zs-56e3c5fa): NON-CONFLICTING VERIFICATION while awaiting a
 principle reserve — sampled A122 (p1zi, RELEASED band; not previously supervisor-sampled): PASS.
 All five Rhetoric II.1 quotations (Rhys Roberts, MIT Classics) verified verbatim against the
