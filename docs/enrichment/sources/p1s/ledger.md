@@ -411,3 +411,19 @@ source; anything not opened is recorded as inherited and unverified.
   and Daodejing 27 inherited entries left as found.
 - Saturation: no new reciprocals; Benefit finding and Post-traumatic growth
   are already the linked targets.
+
+### B114 — Give (dana) (2026-10-20)
+- Opened: AN 5.41 Adiya Sutta (Thanissaro, accesstoinsight — the correct
+  number for the "benefits from wealth" sutta) and Dhammapada verse 224
+  (Buddharakkhita, dhp.17). SOURCE CORRECTION: the seed's "AN 5.35" citation is
+  wrong; the Adiya Sutta is AN 5.41 (AN 5.35 is a different sutta and has no
+  Thanissaro page at the expected URL). Both quoted fragments (the five
+  oblations passage, the no-remorse-in-either-case conclusion) verified
+  verbatim against the fetched AN 5.41 text; Dhp 224 verified verbatim.
+- Seed's "breaks the grip of grasping" and "the loosened hand is the whole
+  beginning" are the compendium's gloss; replaced with the labelled
+  connecting application grounded in the sutta's list running outward from
+  one's own household. Dunn/Aknin/Norton claim tail trimmed to a bare
+  attribution; Post, Aristotle, Derrida inherited entries left as found.
+- Saturation: no new reciprocals; Prosocial spending and Helper's high are
+  already the linked targets.
