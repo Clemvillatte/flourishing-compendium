@@ -77,3 +77,7 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 ## Y101 (2026-10-21)
 - Arnold Gita ch. 3 (Prajapati and the wheel of sacrifice; the unattached worker; "upholding of thy kind"). Quotes verified against Gutenberg 2388 with verse line breaks joined and capitals lowered; "He that abstains" corrected from an initial slip.
 - Old text's "dedicate the work to a person, a craft, a generation" and "open each workday with one sentence" are the principle's modern adaptations, not in Arnold; labelled. The original frame is sacrifice to the gods, stated. Old cite BG 3.9-3.16 unnumbered in Arnold. Plain words replicate replaced; example imagined. Self-QC only.
+
+## Y106 (2026-10-21)
+- Arnold Gita ch. 17 (three kinds of food; three kinds of gift). Quotes verified with verse breaks joined, capitals lowered, and Arnold's "--" kept in "foul food--kept from over-night" (footnote marker FN#36 omitted).
+- Old text said "food that is burnt, stale, or leftover from craving" and "gift given grudgingly for display"; Arnold says too biting/heating/salt/sharp food craved by strong appetite, foul food kept overnight, and gifts "proffered with a grudge" (display belongs to ritual, not gifts, in Arnold). Corrected. "Grade inputs by downstream effects" and the one-week audit labelled as the principle's own. Old cites 17.7-10, 17.20-22 not checked against numbered edition. Plain words replicate replaced; example imagined. Self-QC only.

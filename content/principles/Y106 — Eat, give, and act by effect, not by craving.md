@@ -12,13 +12,29 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 106** — Eat, give, and act by effect, not by craving
 
-The Gita grades food, gifts, and austerity by their effects: the food that promotes life, virtue, strength, health, and ease (sattvic) versus the food that is burnt, stale, or leftover from craving; the gift given to the worthy at the right time and place versus the gift given grudgingly for display. The principle generalizes: grade inputs by their downstream effects, not by their immediate appeal. Practically, run a one-week audit of food and giving against the sattvic criteria, and let the effects choose.
+In the seventeenth chapter of the Gita, Krishna sorts food, ritual and gifts into three kinds by their qualities, which Arnold calls Sattwan (the "Soothfast"), Rajas and Tamas. For food he starts with the effects: "there is a food which brings force, substance, strength, and health, and joy to live, being well-seasoned, cordial, comforting, the 'Soothfast' meat" (Bhagavad-Gita ch. 17, trans. Arnold).
 
-(BG 17.7-10; BG 17.20-22.)
+### The other kinds of food
 
-**Plain words** The Gita grades food, gifts, and austerity by their effects: the food that promotes life, strength, health, and ease versus the food that's burnt, stale, or leftover from craving; the gift given to the worthy at the right time and place versus the rest. Choose by effect, not by craving.
+The second kind is the food that brings "aches and unrests, and burning blood, and grief, being too biting, heating, salt, and sharp, and therefore craved by too strong appetite". The third is "foul food--kept from over-night, savourless, filthy, which the foul will eat" (ch. 17, Arnold). Craving belongs to the second kind, which gives the principle's link between craving and harm a basis in the text.
 
-*For example:* Someone notices the fourth coffee of the afternoon isn't chosen by the body's needs — it's chosen by the craving, and the effect ledger says so. The grading system turns a moral lecture into a shopping guide.
+### Gifts
+
+"The gift lovingly given, when one shall say 'Now must I gladly give!' when he who takes can render nothing back; made in due place, due time, and to a meet recipient, is gift of Sattwan, fair and profitable." The gift "selfishly given, where to receive is hoped again, or when some end is sought, or where the gift is proffered with a grudge" is of Rajas, and one "churlishly flung, at evil time, in wrongful place, to base recipient" is of Tamas (ch. 17, Arnold).
+
+### What the principle adds
+
+Arnold's translation does not give the idea of a general rule to "grade inputs by their downstream effects", or a one-week audit. The gift passage is about the giver's attitude, timing, place and recipient, not downstream effects. The generalization and the audit are the principle's own.
+
+**Plain words** The Gita sorts food by what it does to you and gifts by how and why they are given. Strong appetite goes with the harmful food, and hope of return or a grudge marks the weaker gifts. A one-week audit is a sensible use of the passage, though not in the text.
+
+*For example:* Imagined example: for one week you note how you feel after each meal, and why you gave each time you gave. You find that the gifts you gave hoping for thanks are the ones you resent.
+
+(Bhagavad-Gita ch. 17, trans. Sir Edwin Arnold, The Song Celestial, Project Gutenberg #2388, opened 2026-10-21. Arnold's verses are unnumbered, so the old cites, 17.7-10 and 17.20-22, are not checked against a numbered edition.)
+
+## Sources
+
+- [Arnold, The Song Celestial, Project Gutenberg](https://www.gutenberg.org/ebooks/2388) — chapter 17
 ## Psychology parallels
 
 - **Dietary patterns and mental health**, the observational and trial evidence for Mediterranean-style patterns
