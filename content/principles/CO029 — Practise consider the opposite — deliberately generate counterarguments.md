@@ -12,11 +12,19 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 ---
 > **Principle 29** — Practise "consider the opposite": deliberately generate counterarguments
 
-One of the most effective debiasing techniques is to deliberately generate reasons why your belief or judgment might be wrong. This counteracts confirmation bias and overconfidence.
+The paper that tested the strategy proposes that several biases in social judgment result from a failure, first noted by Francis Bacon, to consider possibilities at odds with beliefs and perceptions of the moment ([Lord, Lepper & Preston 1984](https://pubmed.ncbi.nlm.nih.gov/6527215/)). In two experiments, one on biased assimilation of new evidence about social issues and one on biased hypothesis testing of personality impressions, subjects were induced to consider the opposite in two ways, through explicit instructions and through stimulus materials that made opposite possibilities more salient.
 
-**Plain words** "Consider the opposite": deliberately generate reasons why your belief or judgment might be wrong. One of the most effective debiasing techniques — it counteracts confirmation bias and overconfidence directly. Three reasons it could fail, written down, before you commit.
+> "In both experiments the induction of a consider-the-opposite strategy had greater corrective effect than more demand-laden alternative instructions to be as fair and unbiased as possible." (Lord, Lepper & Preston 1984, [Journal of Personality and Social Psychology](https://pubmed.ncbi.nlm.nih.gov/6527215/))
 
-*For example:* The confident hire — and the five minutes spent writing "three reasons this person might fail here" — which surfaces the one real concern (the role mismatch) that the enthusiasm had buried. The exercise isn't pessimism; it's an interview with reality.
+**Plain words**
+Trying to be fair is a weak instruction, because it names no action. Consider the opposite names one: write the case that your belief is wrong, as if you meant it. The experiments' result is the practical surprise: the people asked to do that specific thing judged with less bias than the people merely asked to be as fair and unbiased as possible.
+
+*For example:* An imagined case: a confident hiring team spends five minutes writing three reasons the candidate might fail in this role, and the exercise surfaces a role mismatch the enthusiasm had buried. The exercise is not pessimism; it is the failure Bacon noted, skipping what argues against the moment's belief, being repaired on purpose.
+
+## Sources
+
+- [Lord, Lepper & Preston, "Considering the opposite: a corrective strategy for social judgment," Journal of Personality and Social Psychology 47(6) (1984)](https://pubmed.ncbi.nlm.nih.gov/6527215/) — abstract
+
 ## Psychology parallels
 
 - **Consider-the-opposite technique**, generating counterarguments reduces confirmation bias and overconfidence (Lord et al., 1984; Mussweiler et al., 2000)
