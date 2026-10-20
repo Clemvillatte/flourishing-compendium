@@ -26,3 +26,6 @@ No advisor tool available; QC is self-QC only.
 
 ## SE052 Cultivate the relational self
 - Opened: Markus & Kitayama 1991 (Stanford PDF text; quotes verbatim from pp. 224-225), Cross et al. 2011 PubMed abstract. Paper describes construal differences, does not rank them; 'not weakness/codependency' is the entry's stance, said so. Original 'lone self is the odd invention historically' removed (unsourced). Ubuntu/Tutu, Kitayama 2010, Church 2000 not opened.
+
+## SE060 Learn mastery experiences
+- Opened: Bandura 1977 reprint PDF (susana.org), text extracted; quotes verbatim from pp. 195 and 201. Bandura 1997 and Locke & Latham not opened. Original "strongest source" softened to Bandura's "especially influential"; attribution condition added from p. 201.

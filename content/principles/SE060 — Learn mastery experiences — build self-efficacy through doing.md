@@ -12,11 +12,22 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 60** — Learn mastery experiences: build self-efficacy through doing
 
-The strongest source of self-efficacy is mastery experience — actually doing the thing and succeeding. This means setting achievable challenges, accomplishing them, and building the evidence of capability.
+> This source of efficacy information is especially influential because it is based on personal mastery experiences. Successes raise mastery expectations; repeated failures lower them, particularly if the mishaps occur early in the course of events.
 
-**Plain words** The strongest source of believing you can do things is having done things. Not affirmations, not pep talks — completed tasks. So set challenges you can actually clear, clear them, and let the evidence stack up. Confidence is a receipt collection.
+(Bandura, "Self-efficacy: Toward a unifying theory of behavioral change," Psychological Review 84(2), 1977, p. 195, on "performance accomplishments"; [reprint PDF](https://www.susana.org/_resources/documents/default/3-4524-7-1640787326.pdf).)
 
-*For example:* The person terrified of public speaking doesn't get cured by visualising applause. She gets cured by speaking at three small events, surviving, and noticing she survived. The third speech is where the receipts start speaking louder than the fear.
+Bandura's four sources of efficacy expectations are performance accomplishments, vicarious experience, verbal persuasion and physiological states. He ranks mastery as "especially influential." The 1977 paper does not say it is "the strongest" in those words, and the 1997 book that the entry's psychology parallel cites was not opened.
+
+He also adds a condition that the slogan "just do it and succeed" leaves out. "Performance attainment is a prominent source of efficacy information, but it is by no means unambiguous," and "Successes are more likely to enhance self-efficacy if performances are perceived as resulting from skill than from fortuitous or special external aids" (p. 201). A cleared challenge counts most when the person can credit their own skill for it.
+
+**Plain words** Believing you can do something grows mainly from having done something like it. Set a challenge you can realistically clear, clear it, and notice that your own effort did it. Compliments and pep talks help less than a real result.
+
+*For example:* Someone afraid of public speaking gives a short talk to three colleagues, finishes it, and notes what they did that worked. Next month's larger talk starts from that record.
+
+## Sources
+
+- [Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. Psychological Review 84(2), 191-215 (reprint PDF)](https://www.susana.org/_resources/documents/default/3-4524-7-1640787326.pdf) — full text read; pp. 195 and 201
+
 ## Psychology parallels
 
 - **Mastery experiences as primary source of self-efficacy**, direct successful experience is the strongest builder (Bandura, 1997)
