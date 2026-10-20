@@ -12,7 +12,7 @@ Timing as wisdom is this compendium's label for a claim in Daodejing chapter 64 
 > "When things are at rest they are easy to maintain; when situations have not yet emerged they are easy to plan for. When brittle, things are easy to split; when minute things are easy to disperse. Deal with things before they occur; order things before they are disordered."
 > — [Robert Eno, Daodejing ch. 64](https://terebess.hu/english/tao/Daodejing-Eno.pdf)
 
-The same chapter follows with the failure of late action: "When people pursue an undertaking, it is always at the point of success that they ruin it. Attend at the end as you did at the start and you will have no failures" ([Robert Eno, Daodejing ch. 64](https://terebess.hu/english/tao/Daodejing-Eno.pdf)).
+Later in the chapter: "When people pursue an undertaking, it is always at the point of success that they ruin it. Attend at the end as you did at the start and you will have no failures" ([Robert Eno, Daodejing ch. 64](https://terebess.hu/english/tao/Daodejing-Eno.pdf)).
 
 ### In the compendium
 

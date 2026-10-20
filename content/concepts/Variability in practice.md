@@ -7,7 +7,7 @@ file: "Variability in practice"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-V"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter V", "parent": ""}
 ---
-Variability in practice is the finding that mixing different kinds of practice problems beats grouping them by kind. In interleaved practice, problems from the course are rearranged so that a portion of each assignment includes different kinds of problems in an interleaved order ([Rohrer, Dedrick & Stershic 2015](http://uweb.cas.usf.edu/~drohrer/pdfs/Rohrer_et_al_2015JEdPsych.pdf)).
+Variability in practice, in the Rohrer, Dedrick and Stershic 2015 study, refers to interleaved mathematics practice. In interleaved practice, problems from the course are rearranged so that a portion of each assignment includes different kinds of problems in an interleaved order ([Rohrer, Dedrick & Stershic 2015](http://uweb.cas.usf.edu/~drohrer/pdfs/Rohrer_et_al_2015JEdPsych.pdf)).
 
 The study ran with 126 seventh-grade students over three months. Every student received the same problems; only the schedule varied. "Compared with blocked practice, interleaved practice produced higher scores on both the immediate and delayed tests (Cohen's ds = 0.42 and 0.79, respectively)" ([Rohrer et al. 2015, Results](http://uweb.cas.usf.edu/~drohrer/pdfs/Rohrer_et_al_2015JEdPsych.pdf)).
 
@@ -28,7 +28,7 @@ The one-day gap gave a moderate benefit (d = 0.42); the thirty-day gap gave a la
 
 ## Related concepts
 
-- [[Desirable difficulties]] — the umbrella the study is usually filed under
+- [[Desirable difficulties]]
 
 ## Sources
 

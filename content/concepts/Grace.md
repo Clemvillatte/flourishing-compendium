@@ -7,7 +7,12 @@ file: "Grace"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-G"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter G", "parent": ""}
 ---
-Grace, in the Christian tradition Augustine gives the Confessions, is what the creature receives before it earns anything. The Confessions opens by saying that Thou awakest us to delight in Thy praise, and that "Thou madest us for Thyself, and our heart is restless, until it repose in Thee" ([Augustine, Confessions I.1, trans. E. B. Pusey](https://www.gutenberg.org/ebooks/3296)).
+Grace, in the Confessions, is what is received before it is earned. Book VII of the Pusey translation reads:
+
+> "So I began; and whatsoever truth I had read in those other books, I found here amid the praise of Thy Grace; that whoso sees, may not so glory as if he had not received, not only what he sees, but also that he sees (for what hath he, which he hath not received?)"
+> — [Augustine, Confessions VII.21, trans. E. B. Pusey (Project Gutenberg)](https://www.gutenberg.org/ebooks/3296)
+
+The Confessions opens with the received-quiet formulation: "Thou awakest us to delight in Thy praise; for Thou madest us for Thyself, and our heart is restless, until it repose in Thee" ([Augustine, Confessions I.1, trans. E. B. Pusey](https://www.gutenberg.org/ebooks/3296)).
 
 > "Thou awakest us to delight in Thy praise; for Thou madest us for Thyself, and our heart is restless, until it repose in Thee."
 > — [Augustine, Confessions I.1, trans. E. B. Pusey (Project Gutenberg)](https://www.gutenberg.org/ebooks/3296)
@@ -30,7 +35,7 @@ The passage puts the awakening before the repose.
 
 ## Sources
 
-- [Augustine, The Confessions of St. Augustine, trans. E. B. Pusey (Project Gutenberg eBook #3296)](https://www.gutenberg.org/ebooks/3296) — Confessions I.1, quoted verbatim
+- [Augustine, The Confessions of St. Augustine, trans. E. B. Pusey (Project Gutenberg eBook #3296)](https://www.gutenberg.org/ebooks/3296) — Confessions I.1 and VII.21, quoted verbatim
 - Augustine, Confessions (original seed line, kept)
 - Christian tradition (original seed line, kept)
 - the tradition of received quiet (original seed line, kept)

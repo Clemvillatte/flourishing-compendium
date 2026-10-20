@@ -7,7 +7,7 @@ file: "The seasons of the body"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The seasons of the body is this compendium's label for the observation that the body has its own times. Ecclesiastes is the canonical statement: "To every thing there is a season, and a time to every purpose under the heaven: A time to be born, and a time to die; a time to plant, and a time to pluck up that which is planted" ([Ecclesiastes 3:1-2 KJV, Bible Gateway](https://www.biblegateway.com/passage/?search=Ecclesiastes+3&version=KJV)).
+The seasons of the body is this compendium's label for the observation that the body has its own times. Ecclesiastes states: "To every thing there is a season, and a time to every purpose under the heaven: A time to be born, and a time to die; a time to plant, and a time to pluck up that which is planted" ([Ecclesiastes 3:1-2 KJV, Bible Gateway](https://www.biblegateway.com/passage/?search=Ecclesiastes+3&version=KJV)).
 
 > "To every thing there is a season, and a time to every purpose under the heaven:
 > A time to be born, and a time to die; a time to plant, and a time to pluck up that which is planted;

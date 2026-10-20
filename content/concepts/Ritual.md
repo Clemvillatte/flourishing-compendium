@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Ritual, in the Confucian tradition, is li (禮). The Stanford Encyclopedia's entry on Xunzi summarizes: "Thus 'ritual and music' (liyue) can only be understood as two aspects of human artifice (wei): 'ritual' refers to cultural forms that affect social cohesion, 'music' to those involving the orderly expression of human emotions" ([Paul R. Goldin, SEP entry on Xunzi](https://plato.stanford.edu/entries/xunzi/)).
 
-Ritual is not rote behaviour. On Xunzi's reading, the same inherited forms that keep a society coherent also build the person who performs them; ritual is a training of moral and psychological development as much as it is etiquette ([Paul R. Goldin, SEP, Xunzi §3](https://plato.stanford.edu/entries/xunzi/)). The entry gives a mourning example:
+On Xunzi's reading, the same inherited forms that keep a society coherent also build the person who performs them; ritual is a training of moral and psychological development as much as it is etiquette ([Paul R. Goldin, SEP, Xunzi §3](https://plato.stanford.edu/entries/xunzi/)). The entry gives a mourning example:
 
 > "When a wound is colossal, its duration is long; when pain is profound, the recovery is slow. The three-year mourning period is a form established with reference to emotions; it is the means by which one conveys the acme of one's pain." (*Xunzi* 19.9a, quoted in [Paul R. Goldin, SEP entry on Xunzi](https://plato.stanford.edu/entries/xunzi/))
 

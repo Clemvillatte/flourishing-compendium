@@ -12,7 +12,7 @@ Shared reality, in Higgins's account, is the perceived commonality of inner stat
 > "First, sharing feelings and beliefs with other people transforms these inner states from feeling subjective to feeling objective—they begin to feel like the truth about the world (Hardin & Higgins, 1996)."
 > — [Higgins, Rossignac-Milon & Echterhoff 2021, Current Directions in Psychological Science](https://blogs.cuit.columbia.edu/mayarossignacmilon/files/2021/05/Higgins.Rossignac-Milon.Echterhoff.CD_.2021.pdf)
 
-The double edge the concept carries is in the same paper: shared reality lies at the intersection of the need to connect with others (relational motives) and the need to understand things (epistemic motives), so it both builds trust and creates in-group bubbles that conflict with one another ([Higgins, Rossignac-Milon & Echterhoff 2021](https://blogs.cuit.columbia.edu/mayarossignacmilon/files/2021/05/Higgins.Rossignac-Milon.Echterhoff.CD_.2021.pdf)).
+The same paper states: "Shared reality lies at the intersection of two motives: the need to connect with other people, such as friends, partners, or fellow community members (relational motives), and the need to understand things, like events, objects, or persons (epistemic motives)" ([Higgins, Rossignac-Milon & Echterhoff 2021](https://blogs.cuit.columbia.edu/mayarossignacmilon/files/2021/05/Higgins.Rossignac-Milon.Echterhoff.CD_.2021.pdf)).
 
 ### In the compendium
 
@@ -26,7 +26,7 @@ The double edge the concept carries is in the same paper: shared reality lies at
 
 ## Related concepts
 
-- [[Intersubjectivity]] — the broader philosophical term
+- [[Intersubjectivity]]
 
 ## Sources
 
@@ -37,3 +37,14 @@ The double edge the concept carries is in the same paper: shared reality lies at
 ## Facets
 
 - **and epistemic trust**
+
+## Cited in psychology parallels
+
+- [[E009 — Practise intersubjectivity]]
+- [[R091 — Practise the word that is spoken]]
+- [[SP049 — Trust what is common to all]]
+
+[[K357 — Shared attention]]
+[[S035 — Be useful]]
+[[R065 — Practise the extension of knowledge (zhizhi)]]
+[[R099 — Practise the between as ontological]]

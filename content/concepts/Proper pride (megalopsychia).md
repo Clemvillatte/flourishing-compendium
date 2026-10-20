@@ -7,12 +7,12 @@ file: "Proper pride (megalopsychia)"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-P"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter P", "parent": ""}
 ---
-Proper pride, or megalopsychia, is Aristotle's name for the virtue of knowing exactly what you are worth. The Nicomachean Ethics Book IV passage begins: "Now the man is thought to be proud who thinks himself worthy of great things, being worthy of them; for he who does so beyond his deserts is a fool, but no virtuous man is foolish or silly" ([Aristotle, NE IV.3, trans. W. D. Ross](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html)).
+Proper pride, or megalopsychia, is Aristotle's name for the virtue of thinking oneself worthy of great things, while being worthy of them. The Nicomachean Ethics Book IV passage begins: "Now the man is thought to be proud who thinks himself worthy of great things, being worthy of them; for he who does so beyond his deserts is a fool, but no virtuous man is foolish or silly" ([Aristotle, NE IV.3, trans. W. D. Ross](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html)).
 
 > "Pride, then, seems to be a sort of crown of the virtues; for it makes them greater, and it is not found without them. Therefore it is hard to be truly proud; for it is impossible without nobility and goodness of character."
 > — [Aristotle, Nicomachean Ethics IV.3, trans. W. D. Ross](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html)
 
-The move Aristotle makes is to tie pride to what it is pride in. The proud man is not the man who thinks well of himself; he is the man whose opinion of himself is accurate because the virtues behind it are real. Honour, on this account, is the prize of virtue, and it is to the good that it is rendered ([Aristotle, NE IV.3](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html)).
+Honour, on this account, is the prize of virtue, and it is to the good that it is rendered ([Aristotle, NE IV.3](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html)).
 
 ### In the compendium
 
