@@ -22,7 +22,7 @@ Two classic models explain how support does its work, and the review that compar
 
 A later review adds a caution about measurement: perceived and received support are separable, with different links to health outcomes (Uchino, 2009, Perspectives on Psychological Science 4(3):236-255, [PubMed record](https://pubmed.ncbi.nlm.nih.gov/26158961/)).
 
-**Plain words** Support has a giving side and a receiving side, and the research measures them separately. On the receiving side, the studies distinguish the support you perceive as available from the support you actually get, and the two measures track different links to health. Practically: receiving is a behaviour of its own, not a lesser version of giving. Naming what you need, and letting someone meet it, is the move this page points at.
+**Plain words** Having someone you could call is different from receiving help today. Researchers distinguish the help people believe is available from the help they actually receive. As an everyday exercise, make a specific request or decide whether to accept an offer.
 
 **For example:** Imagined: after a minor operation, a neighbour offers to take over the shopping for the week, and the person says yes instead of managing it alone. Accepting the offer is the behaviour under practice.
 

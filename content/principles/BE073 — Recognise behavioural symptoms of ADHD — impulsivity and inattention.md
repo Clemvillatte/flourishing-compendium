@@ -20,7 +20,6 @@ The same statement reports that the disorder "starts in childhood or early adole
 
 On treatment the statement compares the options: "Non-medication treatments for ADHD are less effective than medication treatments for ADHD symptoms, but are frequently useful to help problems that remain after medication has been optimized" (Table 1).
 
-The difficulties themselves read as ordinary problems: unfinished paperwork, lost keys, blurting answers, projects that start hot and go cold. For someone carrying the diagnosis, such difficulties count among the symptoms the statement describes.
 
 **Plain words** Missed deadlines and lost belongings describe difficulties; they do not by themselves establish ADHD. Describe what keeps happening and how it affects daily life, then bring those examples to a qualified clinician. An assessment can guide decisions about treatment.
 
