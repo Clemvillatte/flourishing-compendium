@@ -12,7 +12,8 @@
   "P072",
   "P079",
   "P081",
-  "P083"
+  "P083",
+  "P086"
  ],
  "in_progress": null,
  "flagged": {
@@ -22,6 +23,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T03:50:15+00:00",
+ "updated": "2026-10-20T03:53:35+00:00",
  "band_done": false
 }

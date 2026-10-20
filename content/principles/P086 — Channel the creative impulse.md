@@ -12,13 +12,22 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 86** — Channel the creative impulse
 
-Every person carries a fund of spontaneous energy seeking expression. Don't dam it (repression) and don't let it flood (impulsiveness): give it channels: projects, crafts, service.
+Dewey holds that impulse brings the possibility, not the assurance, of reorganizing habits, and that the moral problem for child and adult alike is to utilize impulses in forming new habits. Suppression does not abolish the energy: unexpressed and unconverted, it turns inwards and leads a subterranean life. (Dewey, Human Nature and Conduct, part 2.)
 
-(Dewey, Human Nature and Conduct, 1922.)
+> "The moral problem in child and adult alike as regards impulse and instinct is to utilize them for formation of new habits, or what is the same thing, the modification of an old habit so that it may be adequately serviceable under novel conditions." (Dewey, Human Nature and Conduct, part 2, [Gutenberg](https://www.gutenberg.org/cache/epub/41386/pg41386.txt))
 
-**Plain words** The energy will go somewhere; you get to pick the plumbing. Don't dam it and don't let it flood — give the spontaneous fund channels: projects, crafts, service.
+> "Suppression is not annihilation. \"Psychic\" energy is no more capable of being abolished than the forms we recognize as physical. If it is neither exploded nor converted, it is turned inwards, to lead a surreptitious, subterranean life." (Dewey, Human Nature and Conduct, part 2, [Gutenberg](https://www.gutenberg.org/cache/epub/41386/pg41386.txt))
 
-*For example:* The restless hands that become knitting, then a small Etsy shop — the energy was never the problem. Undirected, same energy: a nicotine habit and a ruined weekend.
+The compendium's exercise: name one recurring impulse in you, and list two existing habits it could be converted into.
+
+**Plain words**
+A restless urge does not disappear when you block it. Pick somewhere for it to go.
+
+*For example:* Imagine you notice restless energy most evenings. Instead of forcing yourself to sit still, you take up an evening walk that ends at a bench you like, and the walking gradually becomes the shape of your evenings.
+
+## Sources
+
+- [Human Nature and Conduct, John Dewey, Project Gutenberg](https://www.gutenberg.org/cache/epub/41386/pg41386.txt) — part 2, "The Place of Impulse in Conduct"
 
 ## Psychology parallels
 
