@@ -1,6 +1,6 @@
 {
  "batch": "p1zw",
- "revision": 5,
+ "revision": 6,
  "reciprocal": [
   {
    "into": "Anatta",
@@ -31,6 +31,12 @@
    "link": "K054",
    "why": "listed for comparison: the concept's Shantideva-based treatment of the awakening mind beside K054's Tsongkhapa-based frame of daily practice.",
    "notes": "Saturation scan 2026-10-20: Bodhicitta concept cites Santideva's Bodhicharyavatara and does not link K054; K054 grounds the Tsongkhapa lamrim side (Three Principal Aspects v. 6, 8 + Dalai Lama commentary). Self-transcendence concept already links K054."
+  },
+  {
+   "into": "Generosity",
+   "link": "K055",
+   "why": "listed for comparison: the Aristotelian virtue of liberality beside K055's Buddhist perfection of giving, which locates the practice in the mind that would give.",
+   "notes": "Saturation scan 2026-10-20: Generosity concept treats Aristotle NE IV.1 and Seneca; K055 grounds Gampopa's Jewel Ornament ch. 12 and Shantideva 5.9-10; the two traditions differ on where the virtue lives (right-giving vs the giving mind), which is the comparison. Prosocial spending concept already links K055."
   }
  ]
 }
