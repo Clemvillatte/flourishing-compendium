@@ -12,18 +12,21 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 89** — Rest in the peace that understanding brings
 
-The wise person, Spinoza writes in the closing scholium, is barely moved in spirit, and rests in the knowledge of God and of things, conscious of themselves and of the whole by a kind of eternal necessity, never truly troubled. This is the Ethics' picture of the endpoint, and it is deliberately quiet: not ecstasy, not numbness, but a resting steadiness that no circumstance can generate because none can revoke it. Practically, measure your progress by the frequency of this rest, not by the intensity of your peak experiences.
+The Ethics ends with a picture rather than a command. Of the ignorant man, Spinoza writes that he "lives, as it were unwitting of himself, and of God, and of things, and as soon as he ceases to suffer, ceases also to be." The wise man's condition is its opposite:
 
-(Ethics V, P42 scholium; IV, Appendix.)
+> "Whereas the wise man, in so far as he is regarded as such, is scarcely at all disturbed in spirit, but, being conscious of himself, and of God, and of things, by a certain eternal necessity, never ceases to be, but always possesses true acquiescence of his spirit." ([Ethics V, P42 scholium, Elwes translation](https://www.gutenberg.org/cache/epub/3800/pg3800.txt))
 
-**Plain words** The wise person, the closing scholium says, is barely moved in spirit, and rests in the knowledge of God and of things — conscious of themselves and of the whole by a kind of eternal necessity, never truly troubled. Rest in the peace that understanding brings. Not numbness; the stillness of a system that understands its own weather.
+The rest follows from understanding rather than from anything the world is doing, which is why circumstances cannot revoke it. Spinoza is explicit that the way is hard: "Needs must it be hard, since it is so seldom found." The compendium's reading of progress: measure it by how often this rest shows up, not by how intense your peak experiences are.
 
-*For example:* The old master gardener in the storm year — not indifferent, still working — but unshaken in the way of someone who knows what storms are, what seasons do, and what the whole process is. The barely-moved spirit is the product of the whole book.
+**Plain words** Understanding calms you the way knowing the ending calms a reader rereading a book. Nothing in the plot can grip you the way it did the first time. Spinoza's claim is that this can happen with life itself: understand enough about causes, and the disturbances lose their grip.
+
+*For example:* An experienced gardener in a storm year. He still works, still loses plants, but he knows what storms are and what seasons do, and the knowledge shows up as steadiness rather than indifference.
 ## Psychology parallels
 
-- **[[Equanimity|Equanimity as the contemplative outcome measure]]**, the definition and measurement of evenness of reactivity (Desbordes et al., 2014)
+- **[[Equanimity|Equanimity as the contemplative outcome measure]]** (Desbordes et al., 2014)
 
 ## Philosophy parallels
 
 - **[[Apatheia|Apatheia as evenness, not apathy]]** (Stoic tradition)
-- **[[The peace that passes understanding|The peace that passes understanding]]** (Paul, Philippians 4.7)- **[[Blessedness|Blessedness]]** (Spinozism)
+- **[[The peace that passes understanding|The peace that passes understanding]]** (Paul, Philippians 4.7)
+- **[[Blessedness|Blessedness]]** (Spinozism)
