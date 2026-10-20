@@ -39,3 +39,7 @@
 ## PP048
 - PubMed abstracts: Sonnentag, Venz & Casper 2017 (28358572), Sonnentag 2001 (11482632); quotes verified verbatim.
 - Limits: Sonnentag 2018 and Demerouti et al. 2009 (inherited) not opened. Statement's 'passive recovery is less effective than active' CONTRADICTED/unsupported by 2001 abstract (low-effort activities had positive effect); body says so. Sleep/time-in-nature only partially supported ('enhanced in natural environments'). Example hypothetical.
+
+## PP050
+- PubMed abstracts: Carleton 2012 (23002938), Ladouceur et al. 2000 (10957827), Dugas & Ladouceur 2000 (11036732), Dugas et al. 2010 (20171327); quotes verified verbatim.
+- Limits: full texts and Dugas et al. 2004 (inherited) not opened; Ladouceur n=42 gambling manipulation; Dugas & Ladouceur 2000 n=4. Statement's 'trainable skill' supported by CBT-for-IU studies, but 'staying with discomfort a little longer each time' (exposure drill) not verified; body says so. Anxiety-disorder samples; generalization to non-clinical readers cautious. Example hypothetical.
