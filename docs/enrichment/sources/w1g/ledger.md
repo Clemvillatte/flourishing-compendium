@@ -621,3 +621,15 @@
   error, not a discovered missing repository concept. The entry's own 'why' text
   also contained a misleading clause ("the real concept is Ziran (naturalness)" —
   Ziran is not in the w1g manifest either) which is now gone with the entry.
+
+### QC follow-up, The rhythm of life (2026-10-20, advisor QC round 3b)
+
+- Chapter assignment verified in /tmp/roth.txt: the "XXI" heading at line ~6988
+  precedes the stanza (verse lines 1-18, the balanced-breathing lines are 10-12);
+  the second "XXI" marker at ~7028 starts the Chinese text and Roth's commentary
+  of the same chapter. The stanza is chapter XXI as cited.
+- The closing was rewritten as a genuine paraphrase (the previous version still
+  reproduced the stanza's wording nearly verbatim): "Elsewhere the text makes the
+  same link a teaching: chapter XXI of the Neiye connects a balanced, aligned
+  breath swirling and blending in the mind with longevity." Reopened and re-done;
+  --fast-track ok; build ok.
