@@ -82,3 +82,10 @@ Worker `worker-w1k-1cff8991`, 2026-10-20. Took stale band at 20/70 after complet
 - Opened [Ramberg/Dieleman SEP Rorty](https://plato.stanford.edu/entries/rorty/), exact passages in 2.2, 3.1 and 3.5. The entry explicitly uses the seed phrase and gives its purpose-relative content; unlike the perception headings, an authoritative account directly defines this Rortian position.
 - Standalone excerpt attributed to the actual encyclopedia authors, not passed off as a direct Rorty quotation. Original CIS volume not directly read; preserved citation does not assert otherwise.
 - Avoids “anything is true/useful” and language-causes-world misunderstandings. No new story/fact inferred from ST104. Original frontmatter and all linked nodes preserved. Fast-track saturation skipped; no new reciprocal.
+
+## Aristotelian friendship
+
+- Fast-track degree 5; read AF021/AF058/AF073, K359 and ST175. Ancient ethical theory is not presented as a direct test of the modern psychology constructs.
+- Opened full [Ross NE VIII](https://classics.mit.edu/Aristotle/nicomachaen.8.viii.html) and [IX](https://classics.mit.edu/Aristotle/nicomachaen.9.ix.html); VIII.2–3 defines recognised reciprocal goodwill and kinds, IX.12 supplies the exact labelled excerpt.
+- “Mutual flourishing” facet now qualified: the source discusses both improvement among good friends and deterioration through bad pursuits. No claim that every relationship is beneficial.
+- Original frontmatter, both bibliography lines and all cited-in/story/kernel links preserved. Fast-track saturation skipped; no reciprocal proposal.
