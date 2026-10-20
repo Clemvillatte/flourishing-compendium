@@ -7,26 +7,29 @@ file: "Homo faber — man the maker"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-H"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter H", "parent": ""}
 ---
-Homo faber, Latin for man the maker, is Hannah Arendt's name for the human being in the mode of work: fabricating an artificial world of durable things. She sets it against the animal laborans, the laboring animal whose activity merely keeps the life process running. Bergson used the phrase earlier, but the compendium's use follows Arendt's The Human Condition, where the maker builds a world, not just a livelihood:
+Homo faber, Latin for man the maker, is Hannah Arendt's name for the human being in the mode of work: fabricating an artificial world of durable things. In The Human Condition she sets this figure against the animal laborans, the laboring animal whose activity keeps the life process running. The maker, by contrast, builds a world:
 
-> "In other words, homo faber, the toolmaker, invented tools and implements in order to erect a world, not—at least, not primarily—to help the human life process." (Arendt, [The Human Condition](https://kortina.nyc/notes/the-human-condition/), ch. 17)
+> "In other words, homo faber, the toolmaker, invented tools and implements in order to erect a world, not—at least, not primarily—to help the human life process." (Arendt, [The Human Condition](https://kortina.nyc/notes/the-human-condition/), text excerpt)
 
-The things homo faber makes have a use and an end. A table is finished, and its durability is precisely what lets it house mortal lives that keep moving. On this page's view, making is not a break from flourishing but one of its channels: the maker steps outside the cycle of need, and the finished work stands there to be returned to.
+Fabrication has a hard edge that labor lacks. The maker's materials are already torn from nature, and Arendt does not soften this:
 
-### A caution from Arendt
+> "This element of violation and violence is present in all fabrication, and homo faber, the creator of the human artifice, has always been a destroyer of nature." (Arendt, [The Human Condition (2013), p. 139](https://onwork.edu.au/bibitem/2013-Arendt,Hannah-The+Human+Condition-excerpt+p.139/))
 
-Arendt's chapter warns that means and ends can invert. When everything is judged only by use, the world of things itself starts to look like one big means, and the question of what all the utility is for disappears. BE059 in the compendium takes the constructive half of the idea: engage in creative behaviour, because making is well-being.
+The things homo faber makes have a use and an end. A table is finished, and its durability is what lets it house mortal lives that keep moving. The compendium's principle BE059, engage in creative behaviour, builds on this side of the idea.
 
 ## Related concepts
 
 - [[Homo ludens]] — the playing human, a different answer to the question of what we are besides laborers and makers
-- [[Grit]] — the maker's endurance, studied empirically
+- [[Grit]] — the compendium's research page on sustained effort
 
 ## Sources
 
 - Arendt, The Human Condition
+
 - Bergson
-- [The Human Condition, text hosted by kortina.nyc](https://kortina.nyc/notes/the-human-condition/) — supports the verbatim quotation
+
+- [The Human Condition, text excerpt hosted at kortina.nyc](https://kortina.nyc/notes/the-human-condition/) — supports the first verbatim quotation
+- [The Human Condition (2013), p. 139 excerpt at onwork.edu.au](https://onwork.edu.au/bibitem/2013-Arendt,Hannah-The+Human+Condition-excerpt+p.139/) — supports the second verbatim quotation
 
 ## Cited in philosophy parallels
 

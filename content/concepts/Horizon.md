@@ -7,11 +7,11 @@ file: "Horizon"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-H"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter H", "parent": ""}
 ---
-A horizon, in Husserl's phenomenology, is what surrounds any given thing in experience without itself being given: the back of the house you are facing, the room behind you, the rest of the world. Husserl introduced the concept in Ideas I, where a thing is never perceived in isolation but against a background of other possible perceptions. His rule for it is that the indeterminacy never fully clears:
+A horizon, in Husserl's phenomenology, is what is implicitly co-given with any perceived thing beyond what is given explicitly: the back of the house you are facing, the room behind you, the rest of the world. In Ideas I, Husserl describes things as never perceived in isolation, but against a background of other possible perceptions. His rule for it is that the indeterminacy never fully clears:
 
-> "A horizon of determinable indeterminacy always remains in principle, regardless of how much progress we make experientially, regardless of how large the continua of current perceptions of the same thing that we have run through are." (Husserl, Ideas I § 44, p. 78, as quoted in [Moran, Husserl and Gurwitsch on Horizonal Intentionality](https://dermotmoran.com/wp-content/uploads/2020/05/A_2018_Husserl-and-Gurwitsch-on-Horizonal-Intentionality_-The-Gurwitch-Memorial-Lecture-.pdf))
+> "A horizon of determinable indeterminacy always remains in principle, regardless of how much progress we make experientially, regardless of how large the continua of current perceptions of the same thing that we have run through are." (Husserl, Ideas I § 44, p. 78, as quoted in [Moran, Husserl and Gurwitsch on Horizonal Intentionality](https://dermotmoran.com/wp-content/uploads/2020/05/A_2018_Husserl-and-Gurwitsch-on-Horizonal-Intentionality_-The-Gurwitch-Memorial-Lecture-.pdf), p. 32)
 
-The quote is taken from a published lecture that cites Ideas I section 44 directly; the same lecture records Husserl saying the word horizon carries the same value as halo and background (Ideas I, p. 160). The horizon is what makes perception more than a series of snapshots. Seeing the front of the house is already meaning the sides and the back, dimly and in outline. E005 in the compendium turns this into practice: the horizon is where meaning can still grow, so keep it open rather than closed.
+The quote is taken from a published lecture that cites Ideas I section 44 directly; the same lecture records that the word horizon in Ideas I is used alongside the terms halo and background. The horizon is what makes perception more than a series of snapshots. Seeing the front of the house is already meaning the sides and the back, dimly and in outline.
 
 ## Related concepts
 
