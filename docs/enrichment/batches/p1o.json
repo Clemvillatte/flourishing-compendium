@@ -9,15 +9,16 @@
   "B042",
   "P040",
   "P044",
-  "P046"
+  "P046",
+  "P050"
  ],
- "in_progress": "P050",
+ "in_progress": null,
  "flagged": {
   "B014": "Reopened for QC: advisor milestone QC repairs",
   "B042": "Reopened for QC: advisor QC round 2: remove seed explanation, terminology bridge, plain-words fix"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T03:32:15+00:00",
+ "updated": "2026-10-20T03:35:42+00:00",
  "band_done": false
 }

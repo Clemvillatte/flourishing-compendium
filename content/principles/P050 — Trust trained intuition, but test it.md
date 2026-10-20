@@ -12,20 +12,25 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 50** — Trust trained intuition, but test it
 
-Kahneman and Klein's joint paper on intuitive expertise adopts Herbert Simon's definition: "The situation has provided a cue: This cue has given the expert access to information stored in memory, and the information provides the answer. Intuition is nothing more and nothing less than recognition." Trained intuition is fast because it is memory, and memory of this kind only builds where a situation repeats enough to be learnable ([Kahneman and Klein, 2009](https://www.pef.uni-lj.si/wp-content/uploads/2026/05/Kahneman_Klein_2009_Conditions-for-Intuitive-Expertise_A-Failure-to-disagree_Am_Psi.pdf), p. 520).
+Kahneman and Klein endorse Herbert Simon's recognition account of skilled intuition: a cue gives the expert access to relevant information stored in memory ([Kahneman and Klein, 2009](https://www.pef.uni-lj.si/wp-content/uploads/2026/05/Kahneman_Klein_2009_Conditions-for-Intuitive-Expertise_A-Failure-to-disagree_Am_Psi.pdf), p. 520).
 
 > Intuition is nothing more and nothing less than recognition.
 >
 > (Herbert Simon, quoted in Kahneman and Klein, 2009, p. 520)
 
-The conditions follow from the recognition model: "Two conditions must be satisfied for skilled intuition to develop: an environment of sufficiently high validity and adequate opportunity to practice the skill" (p. 520). Medicine and firefighting are the paper's examples of fairly high-validity environments (p. 524). Where the environment is noisy or the feedback poor, the same feeling of certainty is produced with nothing behind it.
+Skilled intuition of this kind develops only under conditions the paper states directly:
 
-The warning cuts at the feeling itself: "high subjective confidence is not a good indication of validity" (p. 522), because confidence is often determined by the internal consistency of the evidence rather than its quality. That is the ground for the compendium's rule: intuition as hypothesis, not verdict.
+> Two conditions must be satisfied for skilled intuition to develop: an environment of sufficiently high validity and adequate opportunity to practice the skill.
+>
+> (Kahneman and Klein, 2009, p. 520)
+
+Medicine and firefighting are the paper's examples of fairly high-validity environments (p. 524). The authors also caution that high subjective confidence is not a good indication of validity; confidence is often determined by the internal consistency of the information rather than its quality (p. 522). That caution is the ground for the compendium's rule of treating intuition as hypothesis, not verdict.
 
 **Plain words**
-Trained intuition is pattern memory. It deserves trust where two things held: the situation repeated itself enough to be learnable, and your calls got fast, clear feedback. Chess and firefighting qualify; long-range stock picks do not. The feeling of certainty says the pattern matched, and says nothing about whether the pattern still pays. The compendium's exercise: for one snap judgment you trust, write down what environment trained it and what feedback would catch a miss.
+Ask how you learned to make this kind of call. Were there dependable cues to learn, and did you find out promptly and clearly when you were right or wrong? Count the feedback you received as well as the time you spent. For the compendium's exercise, write down one hunch, the experience behind it, and what observation would count against it.
 
-*For example:* Imagine a trader whose instincts carried a decade of bull markets. The instincts recognized a regime; when the regime changed, the recognition kept producing the same calls with the same certainty. The check is not the confidence but the feedback: what would have shown the miss, and did anyone look?
+*For example:*
+Imagine an experienced chess player immediately favouring a move. For this exercise, they record the reply they expect, consider another possible reply, and check their prediction during analysis.
 
 ## Sources
 

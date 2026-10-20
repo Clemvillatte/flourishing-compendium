@@ -169,3 +169,29 @@
 - Saturation: 8 concepts cite P046 (Problematic situations, Challenge
   appraisals, Stress-related growth, Inquiry, etc.) — already linked; no
   new proposals needed. Validator: ok.
+
+### P050 — Trust trained intuition, but test it (2026-10-20, worker-p1o-6ae3d782)
+- Opened: Kahneman & Klein 2009, 'Conditions for Intuitive Expertise: A
+  Failure to Disagree' (American Psychologist 64(6): 515-526), full PDF
+  downloaded (pef.uni-lj.si mirror) and extracted with pdftotext; journal
+  pages verified by form-feed split: Simon definition + two-conditions p.
+  520; confidence/consistency p. 522; medicine/firefighting validity p. 524.
+- Milestone QC (item 5, advisor): round 1 repairs applied — 'long-range
+  stock picks' combined claim deleted; 'same feeling of certainty...
+  nothing behind it' deleted; pattern-matched/confidence-inference claims
+  in Plain words replaced with the advisor's bounded questions; duplicated
+  Simon full definition removed (short blockquote kept); two-conditions
+  quote promoted to standalone blockquote; trader example replaced with
+  the advisor's chess example (regime-recognition assumption unverified);
+  For example label moved to its own line so the validator counts the
+  example prose. Unresolved-wikilink FAIL fixed ([[Intuitive expertise]]).
+  Phronesis and Peirce attribution tails reduced to bare wikilinks
+  (unopened); Kahneman-Klein attribution kept (paper opened this session).
+  Seed locator (Aristotle's phronesis; James on habit) not verified as
+  opened sources — dropped from the page.
+- P046 post-done repair (advisor verification gap): the truncated QFC quote
+  ('locates what the trouble is.') restored to the full sentence ending
+  '...projection of methods and means of dealing with it.' — earlier ledger
+  claim of verbatim fidelity overclaimed; now matches the opened text
+  word-for-word. P050 kept in_progress until these repairs; both validate
+  ok.
