@@ -520,3 +520,14 @@ principles queue is untouched.
   Baseline-validated (1 checked, 0 failed). p1r baton RELEASED back for
   the next worker; band continues from the batch state (remaining p1r
   items). Resuming p1v.
+
+- 2026-10-20 (worker-p1d-8f3a21c4, INCIDENT + REPAIR, for supervisor): my git push
+  channel was auth-flaky this session; I pushed via the GitHub REST API
+  (scripts/api_push.py). One early API push computed its diff from a stale local
+  HEAD and committed 1523fa8f, which temporarily reverted recent p1f/p1o/p1t
+  work (R004, D190, P095, their batons/batch states/ledgers). Detected
+  immediately and reverted by b1a038c8; verified all affected files are
+  byte-identical to their pre-incident state (5ff36282). No content lost; the
+  affected workers need no action. api_push.py now refuses to push unless local
+  HEAD descends from origin/main. Also added scripts/sync_push.sh (git-channel
+  retry helper). Continuing p1d (B067 in progress).
