@@ -15,22 +15,20 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 Attachment research defines its core construct functionally: a person who has reliable care available uses it as a base to explore from and a haven to return to. Bowlby's summary of the lifelong claim:
 
 > All of us, from the cradle to the grave, are happiest when life is organized as a series of excursions, long or short, from the secure base provided by our attachment figure(s).
-> (Bowlby 1988, A Secure Base, p. 62, quoted via the opened profile; second-hand verification)
+> (Bowlby, A Secure Base, 1988, p. 62, as quoted in Pioneers of Human Behaviour)
 
 In adulthood the system works mentally as much as physically: felt security can be attained by activating soothing mental representations of partners who have reliably provided care. Mikulincer and Shaver's programme treats the sense of attachment security as an inner resource and studies how it can be bolstered in adulthood, through actual relationships and internalized ones.
 
 > Secure people can therefore remain relatively unperturbed during times of stress and experience longer periods of positive affectivity, which contribute to sustained emotional well-being and mental health.
 > (Mikulincer and Shaver 2007, Psychological Inquiry 18(3))
 
-The compendium's exercise is relational rather than a promised repair: when distance is coming, discuss in advance how you will stay in contact and what each of you expects.
-
 **Plain words** Secure attachment is the felt expectation that the people you rely on will be there and that you are worth showing up for. The compendium's exercise: before a separation, agree on how often you will talk and what a delayed reply will mean to each of you.
 
-*For example:* Before a partner travels for a month, a couple agrees on how often they will talk and what a delayed reply will mean.
+*For example:* Imagine one partner expects to be offline during a work trip. Before leaving, they discuss when messages can be answered and what each person expects.
 
 ## Sources
 
-- [Bowlby, A Secure Base: Clinical Applications of Attachment Theory (1988), p. 62, as quoted in Pioneers of Human Behaviour's sourced profile of Bowlby (second-hand verification)](https://pioneersofhumanbehaviour.com/john-bowlby/)
+- [Bowlby, A Secure Base: Clinical Applications of Attachment Theory (1988), p. 62, as quoted in Pioneers of Human Behaviour's sourced profile of Bowlby](https://pioneersofhumanbehaviour.com/john-bowlby/)
 - [Mikulincer and Shaver, Boosting Attachment Security to Promote Mental Health, Prosocial Values, and Inter-Group Tolerance, Psychological Inquiry 2007 (author PDF, UC Davis Adult Attachment Lab)](https://adultattachment.faculty.ucdavis.edu/wp-content/uploads/sites/66/2015/09/Mikulincer_2007_Boosting-attachment-security-to-promote-mental-health.pdf) — 18(3), 139-156
 
 ## Stories

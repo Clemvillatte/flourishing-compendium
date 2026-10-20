@@ -22,11 +22,9 @@ Chereji and Wratto King describe the meeting itself in their Liberia and Ghana s
 > Traditionally, villagers gathered in the hut to discuss an issue until it was resolved.
 > (Chereji and Wratto King, West Africa: A Comparative Study of Traditional Conflict Resolution Methods in Liberia and Ghana)
 
-The compendium's exercise: when a decision belongs to a group, before deciding, give each person a chance to name a remaining concern.
-
 **Plain words** Before deciding, give each person a chance to name a remaining concern. Ask what change, if any, would make the proposal acceptable to them. If disagreement remains, record it rather than describing the decision as everyone's agreement.
 
-*For example:* A team lead asks each member to name a remaining concern and what change, if any, would make the proposal acceptable to them.
+*For example:* Imagine a team choosing a weekly meeting time. One member explains a caring commitment that conflicts with Tuesday; the team records the concern while considering alternatives.
 
 ## Sources
 

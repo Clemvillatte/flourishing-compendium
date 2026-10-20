@@ -21,7 +21,7 @@ The opened studies are about redemption sequences and their associations with we
 
 **Plain words** Describe a period of your life in a paragraph: where it started, what changed, what remains unresolved, and what you did next. The exercise is the describing; no particular ending is required.
 
-*For example:* Someone describing a divorce says what changed, what remains unresolved, and what she did next, without a required ending.
+*For example:* Imagine someone writing about a divorce. She describes moving house, a new childcare schedule and a decision she has not yet made.
 
 ## Sources
 
