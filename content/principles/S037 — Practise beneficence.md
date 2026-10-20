@@ -14,11 +14,15 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 
 Seneca's On Benefits argues that giving and receiving well is a core Stoic practice. Give without expectation of return. Receive with gratitude. Do not let gratitude become a debt. The benefit is not the gift but the goodwill behind it.
 
-(Seneca, On Benefits I-VII; Med. I.1, I.3, I.11, I.15; Disc. I.9, III.24.)
+Seneca locates a benefit in the goodwill behind it, not in the money or object that changes hands; a small gift offered willingly can therefore matter more than an expensive one offered grudgingly ([On Benefits I.5–7](https://en.wikisource.org/wiki/On_Benefits/Book_I)). The manner of helping belongs to the kindness itself: delay, reproach and humiliation can spoil it ([On Benefits I.1](https://en.wikisource.org/wiki/On_Benefits/Book_I)).
 
-**Plain words** Seneca says giving and receiving well is a core practice. Give without expecting anything back. Receive with thanks. Don't let gratitude harden into debt. What matters isn't the gift but the goodwill behind it.
+For the giver, his warning is sharp: "It is a base usury to regard a benefit as an investment." ([On Benefits I.2, Aubrey Stewart translation](https://en.wikisource.org/wiki/On_Benefits/Book_I)) He does not, however, tell recipients to forget their obligations: he asks the giver to expect no return and the receiver to remember the kindness ([On Benefits I.4](https://en.wikisource.org/wiki/On_Benefits/Book_I)).
 
-*For example:* A neighbour brings soup when you're ill. You thank her warmly, and later you bring her something, not to settle a bill but because you're glad of her.
+That asymmetry matters: grateful acceptance already returns goodwill, while a material kindness may still call for a material return when possible ([On Benefits II.35](https://en.wikisource.org/wiki/On_Benefits/Book_II)). Seneca's account frees generosity from an enforced transaction without making gratitude an excuse never to reciprocate ([On Benefits I.2–4](https://en.wikisource.org/wiki/On_Benefits/Book_I)).
+
+**Plain words** A practical application: accept help without rushing to prove you never needed it. Later, look for a useful chance to help in return, rather than a way to announce that the account is closed.
+
+*For example:* Suppose a friend drives you to an appointment. Thank them for the time and trouble; when they later need a lift, offer one because it would help, not to cancel the first journey.
 
 ## Stories
 
@@ -26,13 +30,23 @@ Seneca's On Benefits argues that giving and receiving well is a core Stoic pract
 - [[ST200 — Andy Dufresne Crawls|200. Andy Dufresne Crawls]]
 ## Psychology parallels
 
-- **[[Prosocial spending|Prosocial spending and well-being]]** (Dunn, Aknin and Norton, 2008)
-- **[[Gratitude|Gratitude expression research]]** (Emmons and McCullough, 2003)
+- **[[Prosocial spending|Prosocial spending and well-being]]**: the 2008 paper reported happier participants after spending on others, while a large registered replication found effects that varied by task ([Dunn et al., abstract](https://pubmed.ncbi.nlm.nih.gov/18356530/); [Aknin et al., 2020 abstract](https://www.hbs.edu/faculty/Pages/item.aspx?num=58594)). A 2022 replication found no significant effect using the original analysis, but a positive effect on an exploratory spending-specific measure ([Kim et al., abstract and discussion](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0272434)).
+- **[[Gratitude|Gratitude expression research]]**: three experiments found benefits on several, not all, measures, with positive affect the most robust result; these were gratitude-listing tasks, not tests of obligations between friends ([Emmons and McCullough, 2003 abstract](https://pubmed.ncbi.nlm.nih.gov/12585811/)).
 
 ## Philosophy parallels
 
-- **The gift relationship** (Mauss, The Gift)
-- **[[Generosity|Generosity (eleutheriotes)]]** (Aristotle, NE IV.1)
+- **[[Generosity|Generosity (eleutheriotes)]]**: Aristotle's account likewise asks about the right recipient, amount, time and purpose, rather than judging generosity by the size of a gift ([Nicomachean Ethics IV.1, W. D. Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html)).
+- **[[Gratitude]]**: receiving willingly and returning goodwill belong to the recipient's side of the relationship ([On Benefits II.35](https://en.wikisource.org/wiki/On_Benefits/Book_II)).
+
+## Sources
+
+- [Seneca, On Benefits I.1–7, translated by Aubrey Stewart, Wikisource](https://en.wikisource.org/wiki/On_Benefits/Book_I): exact quotation, goodwill and the giver/receiver asymmetry.
+- [Seneca, On Benefits II.35, translated by Aubrey Stewart, Wikisource](https://en.wikisource.org/wiki/On_Benefits/Book_II): goodwill returned in grateful acceptance and the remaining material obligation.
+- [Aristotle, Nicomachean Ethics IV.1, translated by W. D. Ross, MIT Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html): generosity and appropriate giving.
+- [Dunn, Aknin and Norton, Spending Money on Others Promotes Happiness (2008), PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/18356530/): original findings.
+- [Aknin and colleagues, Does Spending Money on Others Promote Happiness? (2020), Harvard author-page abstract](https://www.hbs.edu/faculty/Pages/item.aspx?num=58594): registered replications with task-dependent results.
+- [Kim and colleagues, Prosocial Spending Encourages Happiness (2022), PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0272434): original-specification null and exploratory positive result.
+- [Emmons and McCullough, Counting Blessings versus Burdens (2003), PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/12585811/): gratitude exercises and qualified well-being findings.
 
 <!-- fc: reflections
 Think of a gift you gave with an invisible string attached. What did the string do to the gift, and to the relationship?
