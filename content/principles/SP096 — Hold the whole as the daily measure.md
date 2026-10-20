@@ -12,16 +12,20 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 96** — Hold the whole as the daily measure
 
-The final integration principle, and the book's return to its first axiom: monism is not only a doctrine but a practice, the daily choice to read every event as part of one process. The free person's cheerfulness, courage, friendship, and equanimity are all downstream of this one reading habit. Practically, once per day, take the most annoying or painful event of the day and place it in the largest frame you can honestly hold; what remains after the placement is the event's true size.
+Spinoza's term for the reading habit is the form of eternity:
 
-(Ethics I with V; IV, Appendix; the whole as the final measure.)
+> "It is in the nature of reason to perceive things under a certain form of eternity (sub quâdam æternitatis specie)." ([Ethics II, P44, Corollary II, Elwes translation](https://www.gutenberg.org/cache/epub/3800/pg3800.txt))
 
-**Plain words** The final integration: monism as practice — the daily choice to read every event as part of one process. The cheerfulness, the courage, the friendship, and the equanimity all rest on the same daily measure: this too is one thing. Hold the whole as the daily measure.
+The Fifth Part explains what the form amounts to. Things are conceived as actual in two ways, "either as existing in relation to a given time and place, or as contained in God and following from the necessity of the divine nature. Whatsoever we conceive in this second way as true or real, we conceive under the form of eternity" ([Ethics V, P29 note, Elwes translation](https://www.gutenberg.org/cache/epub/3800/pg3800.txt)). The same event has one look under the first conception and another under the second.
 
-*For example:* The day that contains the traffic, the news, the kindness, the setback — and the closing question of the day: what one process was this all a part of? The answer changes nightly; the holding is the practice.
+The compendium's application: once a day, take the most annoying or painful event of the day and place it in the largest frame you can honestly hold. What remains after the placement is the event's working size.
+
+**Plain words** An event has at least two sizes. Measured against today, the traffic jam is a disaster; measured against the whole process it belongs to, it is one thread. The principle asks you to check which measure you are using, because the smaller measure is the one that hurts.
+
+*For example:* The evening question, what one process was this whole day part of? The answer will differ nightly. Asking it is the practice.
 ## Psychology parallels
 
-- **[[Cognitive reappraisal|Cognitive reappraisal among the best-evidenced strategies]]**, the evidence that reframing events in larger, more honest contexts reliably reduces distress (Gross, 2015)
+- **[[Cognitive reappraisal|Cognitive reappraisal among the best-evidenced strategies]]** (Gross, 2015)
 
 ## Philosophy parallels
 
