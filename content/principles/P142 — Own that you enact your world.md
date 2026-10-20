@@ -12,17 +12,31 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 142** — Own that you enact your world
 
-The world you experience is not pre-given; it is co-enacted by your body, your history, and your concerns. Change your embodiment or your concerns, and the world changes.
+In a later account of enaction, Thompson explains perception through the activities of an embodied being in its environment. He recalls two central proposals of The Embodied Mind: perception consists in perceptually guided action, and cognitive structures emerge through recurring patterns linking sensing and movement ([“Enaction as the bringing forth of worlds,” 2025](https://evanthompson.me/wp-content/uploads/2025/09/thompson-enaction-as-the-bringing-forth-of-worlds.pdf)).
+
+> "For the enactive approach, world and mind form a unitary, co-constituting structure, such that enaction is as much the bringing forth of a mind as the bringing forth of a world." (Thompson, 2025, PDF p. 3.)
+
+### Participation, not unlimited control
+
+This is an account of cognition and lived worlds, not a promise that changing your outlook changes every external condition. The compendium's practical question is narrower: what do your current activities enable you to notice and do, and what do they leave out?
 
 (Varela, Thompson and Rosch, The Embodied Mind, 1991.)
 
-**Plain words** The world you experience is not pre-given — it's co-enacted by your body, your history, and your concerns. Change your embodiment or your concerns, and the world changes. The same city street is a different street to the flâneur, the courier, and the person fleeing.
+### Plain words
 
-*For example:* The neighborhood that becomes a different neighborhood once you get a dog — same blocks, but now there's a park, a routine, a pack of regulars. The world edited by a leash.
+Think of a place you know through one regular task. What questions would you need to ask to use it differently? Treat the answer as something to investigate, rather than assuming either that your familiar view is complete or that you can remake everything at will.
+
+### For example
+
+Imagine planning a walk with someone whose access needs differ from yours. As a proposed exercise, ask about the route rather than assuming your usual shortcuts will work. This applies the attention-to-engagement question without predicting a particular experience.
+
+## Sources
+
+- [Evan Thompson, “Enaction as the bringing forth of worlds” (2025), DOI 10.1007/s11097-025-10079-2](https://evanthompson.me/wp-content/uploads/2025/09/thompson-enaction-as-the-bringing-forth-of-worlds.pdf): opened author-hosted paper; recalls the 1991 book and develops organism–environment co-constitution.
 
 ## Psychology parallels
 
-- **[[Predictive processing|Predictive processing]]**, the brain constructs experience from predictions (Clark, 2013; Seth, 2013)
+- **[[Predictive processing|Predictive processing]]** (Clark, 2013; Seth, 2013): retained comparison, not an equivalent account. Thompson explicitly criticizes predictive representationalism in the opened paper.
 
 ## Philosophy parallels
 
