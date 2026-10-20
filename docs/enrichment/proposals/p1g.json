@@ -70,6 +70,21 @@
       "into": "PP024 — Build narrative coherence",
       "link": "SE001",
       "why": "PP024 works on coherence in the McAdams life story; SE001 supplies the construction claim behind narrative identity."
+    },
+    {
+      "into": "S124 — Practise the view from above",
+      "link": "SE016",
+      "why": "S124 carries the Stoic cosmic-perspective exercise; SE016 carries the experimental version, third-person self-talk, with the same aim of stepping off one's own eyes."
+    },
+    {
+      "into": "CO065 — Cultivate wise reasoning — wisdom is a trainable skill, not a fixed trait",
+      "link": "SE016",
+      "why": "CO065 treats wise reasoning as trainable; SE016 names one trained mechanism the research tested, distanced self-talk."
+    },
+    {
+      "into": "Y089 — Separate the seer from the seen daily",
+      "link": "SE016",
+      "why": "Y089 practices separating observer from observed; SE016 supplies the language-based version of that separation."
     }
   ],
   "notes": "p1g proposals (genuineflourishing34), from D086 enrichment. Reciprocals only; both targets verified to lack the cross-link (grep: 0 mentions each way). D162 proposals added: D162<->D061 (same DDJ 64 root, verified 0 links each way). D041 proposals added: D041<->D021 (verified 0 links each way). D048 proposals added: D048<->B095, D048<->D071 (all verified 0 links each way). D035 proposals added: D035<->D034 (verified 0 links each way). D004 proposals added: D004<->A042, D004<->A004 (all verified 0 links each way). D013 proposals added: D013<->B048 (verified 0 links each way). D030 proposals added: D030<->D019 (verified 0 links each way). D099 proposals added: D099<->D055 (verified 0 links each way). D148 proposals added: D148<->D041 (verified 0 links each way). D148/D041 proposal whys narrowed to thematic (advisor, milestone QC round 3). BI009 proposals added: BI009<->D148 (verified 0 links each way). P055 proposals added: P055<->P092 (both p1g, verified 0 links each way). P027 proposals added: P027<->P028 (verified 0 links each way). P143 proposals added: P143<->BI009 (verified 0 links each way). P157 proposals added: P157<->S020 (verified 0 links each way). Milestone QC round 4 (advisor): all recent proposal whys narrowed to thematic comparisons; P027 record name fixed to file stem. sources_checked reconciled to 9 opened works. P179 proposals added: P179<->A079 (verified 0 links each way). P190 proposals added: P190<->D005 (verified 0 links each way). P092 proposals added: P092<->P093 (verified 0 links each way). Milestone QC round 5: P179<->A079 and P190<->D005 whys rewritten after reading both bodies (A079 is Aristotle-based, not savoring research). sources_checked reconciled to 13 opened works. P172 proposals added: P172<->P179 (verified 0 links each way). Y015 proposals added: Y015<->AF004 (verified 0 links each way). QC round 10 (advisor): CO052/CO066/E026/E031/E080 corrections applied; 4 backlink-gap proposals recorded (Yin and yang, The witness, Self-determination, Openness) after saturation check found no CO052/CO066/E031/E080 mention on those concept pages. QC round 14 (advisor): connection-saturation discovery checks performed (enrich_find.py mention for each principle's core terms). D015<->CO052 and E009<->E026 proposals added (verified 0 links each way). Remaining [NEW] mention hits assessed as already connected via concept hubs (Dialectical thinking, Self-distancing, Fusion of horizons, Being-with (Mitsein)) — no additional proposal warranted.\n2026-10-20 supervisor: audit-tail phrasing (grep counts, \"already cites/ties\", \"new body\") removed from why clauses before integration; it was internal verification commentary, not reader-facing prose. Substance unchanged. | deferred at this run (target band busy): 36 recip, 0 inline | deferred at this run (target band busy): 3 recip, 0 inline | deferred at this run (target band busy): 3 recip, 0 inline Milestone QC (advisor, 2026-10-20): all eight p1g why-clauses re-grounded against the target pages' bodies (B055 and B192 clauses narrowed per advisor); 'verified against the page text' removed from the public Sources entries of S089 and S120 (verification stays in the research records)."

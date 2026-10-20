@@ -12,16 +12,29 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 16** — Learn self-distancing: view yourself from the outside
 
-The capacity to view your own experience from a distanced perspective (third-person, temporal distance, or observer perspective) reduces emotional reactivity, increases wisdom, and improves self-control. This is a simple but powerful self-relational skill.
+The experimental finding behind this principle, from Kross and colleagues' seven studies on self-talk:
 
-**Plain words** Self-distancing: viewing your own experience from outside — third person, temporal distance, observer perspective — reduces reactivity, increases wisdom, improves self-control. A small change of camera; a measurable change of everything.
+> using non-first-person pronouns and one's own name (rather than first-person pronouns) during introspection enhances self-distancing.
+>
+> (Kross et al., "Self-talk as a regulatory mechanism: how you do it matters", 2014, abstract)
 
-*For example:* The crisis told in first person ("I'm ruined, I'll never...") — and the same crisis told as "Sarah's having a hard quarter, as Sarah does" — and the third-person version is instantly more solvable. The camera was the therapy.
+In the performance studies, "compared with the first-person group, the non-first-person group performed better according to objective raters in both studies", and they "displayed less distress". The paper's summary sentence: "small shifts in the language people use to refer to the self during introspection consequentially influence their ability to regulate their thoughts, feelings, and behavior under social stress". The camera metaphor is literal here: naming yourself in the narration moves the view off your own eyes.
+
+**Plain words**
+When you are inside a feeling, everything you see is the feeling. The research trick: narrate the scene with your own name instead of "I". "Sarah is having a hard quarter" lands differently from "I'm ruined", and the difference is distance, not dishonesty. The outside view is still your view. It just isn't pressed against your nose.
+
+*For example:*
+A bad quarter told as "I'm ruined, I'll never recover" stays hot. The same quarter told as "Sarah is having a hard quarter, as Sarah does" has edges, and things with edges can be worked on. In the studies, participants who used their own name rather than "I" when preparing a speech were rated as performing better and reported less distress.
+
+## Sources
+
+- [Kross et al., "Self-talk as a regulatory mechanism: how you do it matters", JPSP 106(2), 2014 (PubMed record)](https://pubmed.ncbi.nlm.nih.gov/24467424/) — abstract, opened via the NCBI record
+
 ## Psychology parallels
 
-- **[[Self-distancing|Self-distancing (Kross)]]**, third-person self-talk and temporal distancing reduce reactivity and improve reasoning (Kross & Ayduk, 2011; Kross et al., 2014)
-- **Distanced self-talk improves self-control and wise reasoning**, using one's own name or "you" improves regulation and wisdom (Kross et al., 2014; Grossmann & Kross, 2014)
-- **Temporal distancing ("how will this look in a year?") reduces emotional intensity** (Bruehlman-Senecal & Ayduk, 2015)
+- **[[Self-distancing|Self-distancing (Kross)]]** (Kross et al., 2014)
+- Distanced self-talk and wise reasoning
+- Temporal distancing
 
 ## Philosophy parallels
 
