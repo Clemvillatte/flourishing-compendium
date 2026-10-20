@@ -12,13 +12,25 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 51** — Practise equity (epieikeia)
 
-Equity is the correction of legal justice: the recognition that strict application of a rule can produce injustice in a particular case. The equitable person knows when to bend the rule for the sake of justice itself. Do not let consistency become cruelty.
+Aristotle asks how the equitable relates to the just and answers that it is a correction, not a rival:
 
-(NE V.10.)
+> "And this is the nature of the equitable, a correction of law where it is defective owing to its universality." (NE V.10)
 
-**Plain words** Applying a rule strictly can sometimes create injustice. Aristotle's equity means knowing when to bend it, for the sake of justice itself. Don't let being consistent turn into being cruel.
+Law has to speak in universals, and some cases do not fit: "all law is universal but about some things it is not possible to make a universal statement which shall be correct". The law knows this and "takes the usual case, though it is not ignorant of the possibility of error". When a case falls outside the universal, the equitable person supplies what is missing: it is right "to correct the omission-to say what the legislator himself would have said had he been present, and would have put into his law if he had known".
 
-*For example:* A landlord who waives a late fee for a tenant who just lost a family member isn't being inconsistent. He's serving what the rule was for.
+### Who the equitable person is
+
+Aristotle's image for the corrective rule is the leaden rule used in making the Lesbian moulding, which "adapts itself to the shape of the stone and is not rigid". His equitable person is no stickler for his rights in a bad sense and tends to take less than his share even with the law on his side; equity is "a sort of justice and not a different state of character" (NE V.10).
+
+(NE V.10, W. D. Ross translation.)
+
+**Plain words** A rule is written for the typical case, because the writer cannot list every situation, so a rule will sometimes point the wrong way on a case nobody imagined. Equity is the repair: you ask what the rule was for, and whether pressing it here serves that or betrays it. Aristotle's rule made of lead bends around the stone instead of forcing the stone to fit the rule.
+
+*For example:* Imagined: a landlord waives a late fee after a tenant loses a family member, keeping the rule for everyone else. Equity is not the absence of the rule; it is the repair of it on the case it never covered.
+
+## Sources
+
+- [Aristotle, Nicomachean Ethics Book V, W. D. Ross translation, MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.5.v.html) — V.10
 
 ## Psychology parallels
 
