@@ -329,3 +329,27 @@ opened text at the recorded URL.
   are quoted directly. Inherited psychology parallel (Schiller et al. 2010,
   reconsolidation) and philosophy parallels (Matter and memory; Dewey, The
   past as resource) preserved untouched and NOT verified this session.
+
+## P170 — Build flourishing strand by strand (PERMA) (2026-10-20)
+
+- OPENED: "Flourish: A New Theory of Positive Psychology" (archived
+  newsletter), Martin E.P. Seligman, April 2011, Authentic Happiness,
+  University of Pennsylvania,
+  https://www.authentichappiness.sas.upenn.edu/newsletters/flourishnewsletters/newtheory
+  — an excerpt edited from chapter one of Flourish (Simon and Schuster),
+  posted on Seligman's official Penn site. The Tanner Lectures PDF
+  (tannerlectures.org) was attempted but the server returned an HTML error
+  page, so it is NOT an opened source and is not cited.
+- Verified verbatim: all three blockquotes ("Flourishing rests on five
+  pillars..."; "These elements, which we choose for their own sake... What
+  is the good life? It is pleasant, engaged, meaningful, achieving, and
+  connected."; "I believe the gold standard for measuring well-being is
+  flourishing..."), exact to the opened page. The five-pillar list is
+  rendered on the page as a vertical list; the first quote avoids
+  reconstructing the list into run-on prose.
+- LOCATOR NOTES: cited as "Flourish, ch. 1, excerpt at [Penn site]" since
+  the opened text is an edited excerpt of the chapter, not the book. The
+  strand-rating exercise is labelled as the compendium's. Inherited
+  psychology parallel (Butler and Kern 2016) and philosophy parallels (The
+  pluralistic universe; Valuation as growth-direction) preserved untouched
+  and NOT verified this session.
