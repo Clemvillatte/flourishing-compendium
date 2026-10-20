@@ -54,7 +54,8 @@
   "The three kinds of knowledge",
   "ADHD: interest-based attention",
   "Anapanasati (mindfulness of breathing)",
-  "Action before feeling"
+  "Action before feeling",
+  "Affect as information"
  ],
  "in_progress": null,
  "flagged": {
@@ -80,7 +81,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 36,
- "updated": "2026-10-20T07:51:28+00:00",
+ "updated": "2026-10-20T07:52:36+00:00",
  "band_done": false,
  "new_concepts": [
   {
