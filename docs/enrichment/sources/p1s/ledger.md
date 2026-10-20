@@ -445,3 +445,19 @@ source; anything not opened is recorded as inherited and unverified.
   attribution; Hume inherited entry left as found.
 - Saturation: no new reciprocals; The four views and The bundle self are
   already the linked targets.
+
+### B141 — Let emptiness itself be empty (2026-10-20)
+- Opened: Nagarjuna's Mulamadhyamakakarika, chapter 13 (Samskaras), verses 7-8,
+  in Stephen Batchelor's literal translation of the Tibetan text (the open
+  mirror at leighb.com; the original distribution was stephenbatchelor.org/
+  verses2htm). Both verses verified verbatim in the fetched text: v7 ("If a bit
+  of the non-empty existed...") and v8 ("The Conquerors taught emptiness as
+  the forsaking of all views. Those who view emptiness are taught to be
+  without realisation" — Batchelor's bracketed gloss [incurable/incorrigible]
+  excluded from the quote, noted here). The verse numbers in the seed's
+  citation (MMK 13.7-8) are correct; the famous "incurable" line is 13.8.
+- Validator caught one banned phrase ("stands as") in my first draft; fixed and
+  re-validated before done. Flavell claim tail trimmed to a bare attribution;
+  Korzybski/Shunyata inherited entries left as found.
+- Saturation: no new reciprocals; The emptiness of emptiness and Shunyata are
+  already the linked targets.
