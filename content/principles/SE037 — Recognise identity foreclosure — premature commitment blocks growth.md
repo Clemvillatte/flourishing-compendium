@@ -12,11 +12,13 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 37** — Recognise identity foreclosure: premature commitment blocks growth
 
-Identity foreclosure is committing to an identity (career, belief system, relationship) without exploring alternatives. It provides certainty but blocks growth. Identity achievement (commitment after exploration) is associated with better outcomes.
+Marcia's identity-status interviews sorted late adolescents by two dimensions, crisis and commitment. Foreclosure is commitment without crisis: a career, belief or role adopted without the alternatives being weighed. His interview description of the type is a person whose goals are so continuous with his parents' that the two cannot be told apart, with college experiences serving "only as a confirmation of childhood beliefs". In the validation study (86 college men), foreclosure subjects endorsed authoritarian values such as obedience and respect for authority, and under stress performed more poorly on a concept-attainment task than identity-achievement subjects; after failure on that task their response was to maintain, rather than moderate, unattained high goals (Marcia, 1966, pp. 552, 557).
 
-**Plain words** Identity foreclosure: committing to an identity — career, belief system, relationship — without exploring alternatives. It provides certainty but blocks growth. The healthy route is exploration first, then commitment: identity achieved, not foreclosed.
+> "A foreclosure subject is distinguished by not having experienced a crisis, yet expressing commitment. It is difficult to tell where his parents' goals for him leave off and where his begin. He is becoming what others have prepared or intended him to become as a child." (Marcia, 1966, p. 552)
 
-*For example:* The 19-year-old who takes over the family business because it was always "decided" — and the 19-year-old who tries three paths, returns to the family business, and owns it. Same business, twenty years later: one of them is there; the other one chose it.
+**Plain words** Ask of any commitment you hold: what alternatives did I consider, and why this one? Following the family's path does not answer that by itself, and neither does feeling certain. What the question tests is whether you can give reasons for the path that do not end at "it was handed to me". Exploration is what turns a given identity into a chosen one.
+
+*For example:* One 19-year-old takes over the family business because it was always assumed; another tries two other trades first, then takes it over. Ask each "why this?" and the difference shows.
 ## Psychology parallels
 
 - **[[Identity statuses (Marcia)|Identity statuses (Marcia)]]**, foreclosure (commitment without exploration) vs achievement (commitment after exploration) (Marcia, 1966; Kroger, 2007)
@@ -31,3 +33,7 @@ Identity foreclosure is committing to an identity (career, belief system, relati
 ## Practice
 
 - Notice if you have committed to an identity without exploring alternatives. Ask: "have I explored other possibilities?" If not, explore before finalising. Exploration is not weakness; it is wisdom.
+
+## Sources
+
+- [Marcia, J. E. (1966). Development and validation of ego-identity status. Journal of Personality and Social Psychology, 3(5), 551–558 — archive.org scan](https://dn760101.eu.archive.org/0/items/marcia1966/marcia1966.pdf) — pp. 552, 557
