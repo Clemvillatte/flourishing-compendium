@@ -37,9 +37,10 @@
   "K040",
   "MO035",
   "MO046",
-  "MO074"
+  "MO074",
+  "MO075"
  ],
- "in_progress": "MO075",
+ "in_progress": null,
  "flagged": {
   "D086": "Reopened for QC: QC round 2 fixes applied, acceptance pending (genuineflourishing34); inherited psychology-parallels claim (Kernis and Goldman 2006) not re-verified, recorded as inherited",
   "BI009": "milestone QC ACCEPTED (advisor round 4c). Inherited parallels citations remain unverified by me (recorded in the item ledgers).",
@@ -58,13 +59,13 @@
   "MO059": "QC-pending RESOLVED: supervisor-0ddcdd37 accepted (2026-10-20T01:5xZ) — round-17 corrections hold; quote verified verbatim vs freshly opened source (MIT Classics / Gutenberg Legge / Columbia AFE); body scopes the comparison and avoids overreach.",
   "MO060": "QC-pending RESOLVED: supervisor-0ddcdd37 accepted (2026-10-20T01:5xZ) — round-17 corrections hold; quote verified verbatim vs freshly opened source (MIT Classics / Gutenberg Legge / Columbia AFE); body scopes the comparison and avoids overreach.",
   "MO066": "QC-pending RESOLVED: supervisor-0ddcdd37 accepted (2026-10-20T01:5xZ) — round-17 corrections hold; quote verified verbatim vs freshly opened source (MIT Classics / Gutenberg Legge / Columbia AFE); body scopes the comparison and avoids overreach.",
-  "MO035": "QC round-2 repairs applied (advisor item-5 checkpoint): absolutes removed, 66-day scoped to the Lally study, Gardner et al. year corrected to 2012; re-review pending",
-  "MO046": "QC round-2 repairs applied: universal claims replaced with experiment-scoped sentences, unlinked psychology bullets removed, five-minute rule prediction removed; re-review pending",
-  "MO074": "QC round-2 repairs applied: plain words replaced with advisor version (no cause inference from pattern), Michie/Tetlock bullets replaced with Zimmerman-scoped account; re-review pending"
+  "MO035": "RESOLVED: item-5 checkpoint QC passed after three repair rounds (advisor scoped approval of displayed passages; linked concept pages read with no contradictions; approval is not an independent source audit of inherited parallels)",
+  "MO046": "RESOLVED: item-5 checkpoint QC passed after three repair rounds (advisor scoped approval of displayed passages; linked concept pages read with no contradictions; approval is not an independent source audit of inherited parallels)",
+  "MO074": "RESOLVED: item-5 checkpoint QC passed after three repair rounds (advisor scoped approval of displayed passages; linked concept pages read with no contradictions; approval is not an independent source audit of inherited parallels)"
  },
  "missing_concepts": [],
  "sources_checked": 15,
- "updated": "2026-10-20T03:48:26+00:00",
+ "updated": "2026-10-20T03:53:07+00:00",
  "band_done": false,
  "takeover": {
   "by": "genuineflourishing35",
