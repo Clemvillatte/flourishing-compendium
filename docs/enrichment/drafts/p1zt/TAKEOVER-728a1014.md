@@ -28,6 +28,10 @@ Existing psychology/philosophy parallel attributions were retained as protected 
 
 One new reciprocal proposal added: Being-toward-death to E054, based on primary §§50–53. Existing seven proposal entries preserved. Concept pages remain supervisor-only. A possible Maya daykeeping concept is absent; source-backed identity can be reviewed by supervisor rather than equated with secular situational awareness.
 
-## Next action
+## Supervisor handoff
 
-Receive final advisor result, repair if necessary, run all fourteen validators again, record exact QC outcome and set band_done using enrich_state.py. Update only p1zt's TASKBOARD row, push, release p1zt, then immediately claim a new available principle band under the baton rules.
+Final advisor corrections applied. Both normal and fast-track validation rerun on all fourteen: 14 checked, zero failures in each mode. Generic principle-shape warnings remain; citations are inline rather than under a Sources heading. E054 has one new Related concepts link, not an inflated list.
+
+Worker completion is 30/30 including the 16 inherited items. Fourteen new-body scope flags deliberately preserve the distinction between verified body/quotation and unverified inherited parallels. Supervisor should review those citations before any whole-page clearance, integrate revision-9 reciprocals as appropriate, and assess the recorded Maya daykeeping gap. No claimed advisor PASS extends to the inherited K pages.
+
+The worker is setting band_done, releasing p1zt, and moving immediately to another stale principle band. All work is already pushed; no end-of-session save is relied upon.
