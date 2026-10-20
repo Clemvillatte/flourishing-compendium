@@ -1,11 +1,11 @@
 ---
-schema: 0
+schema: 2
 id: "Face negotiation theory"
 type: "concept"
 title: "Face negotiation theory"
 file: "Face negotiation theory"
-navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-F"], "alternatePaths": []}
-legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter F", "parent": ""}
+tags: ["theory", "psych/social"]
+navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-SOCIAL"], "alternatePaths": []}
 ---
 Face negotiation theory is Stella Ting-Toomey's account of conflict as a negotiation over face, the image a person claims in front of others. Developed from 1988 on, it explains the culture-based, individual-based and situational factors that shape how communicators approach conflict. Its working distinction: face is a claimed sense of interactional identity in a situation, while facework is the verbal and nonverbal behavior that protects or saves self, other, or mutual face.
 
