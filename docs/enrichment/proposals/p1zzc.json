@@ -1,6 +1,6 @@
 {
  "batch": "p1zzc",
- "revision": 8,
+ "revision": 9,
  "reciprocal": [
   {
    "into": "Benign versus malicious envy",
@@ -17,7 +17,7 @@
   {
    "into": "Compassion",
    "link": "SP020",
-   "why": "Spinoza's caution that pity is a pain and a poor engine for help, with the rational alternative of doing good from a settled decision",
+   "why": "Spinoza's account of pity as a pain that can mislead, and help under the guidance of reason as the alternative",
    "notes": "SP020 (worker-p1zzc-de9b53): hub inspected, 0 SP016/SP020 occurrences; grounded in the opened Elwes Ethics (III, Def. XVIII; IV, P50 and note)."
   },
   {

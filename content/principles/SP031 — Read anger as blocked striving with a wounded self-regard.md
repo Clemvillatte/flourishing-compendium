@@ -14,16 +14,16 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 
 Spinoza's definitions of the affects give anger and revenge side by side:
 
-> "Anger is the desire, whereby through hatred we are induced to injure one whom we hate." (Ethics III, Definitions of the Affects, XXXVI, [Elwes](https://www.gutenberg.org/ebooks/3800))
+> "Anger is the desire, whereby through hatred we are induced to injure one whom we hate" (Ethics III, Definitions of the Affects, XXXVI, [Elwes](https://www.gutenberg.org/ebooks/3800); the source continues with its cross-reference "III. xxxix.")
 
 > "Revenge is the desire whereby we are induced, through mutual hatred, to injure one who, with similar feelings, has injured us." (Ethics III, Definitions of the Affects, XXXVII, [Elwes](https://www.gutenberg.org/ebooks/3800))
 
-Underneath the definitions, hatred is pain with the idea of an external cause, and the note to III, P39 says what evil is for a striving being: "By evil, I mean every kind of pain, especially that which frustrates our longings". So the injury that anger answers is typically a frustrated striving, and the same note shows the self-regard riding on it: "an ambitious man desires nothing so much as glory, and fears nothing so much as shame". The compendium's reading of anger assembles these pieces: anger is a secondary emotion over a blocked striving, with the injured party's esteem caught in the machinery. Spinoza's counsel is decomposition rather than suppression (the remedies, as in IV, P7, run through stronger contrary emotions): name the blocked striving under the anger, and the repayment desire loses its single-mindedness.
+Underneath the definitions, hatred is pain with the idea of an external cause, and the note to III, P39 says what evil is for a striving being: "By evil, I mean every kind of pain, especially that which frustrates our longings". The same note's gallery shows desires shaping judgments of good and evil, among them: "an ambitious man desires nothing so much as glory, and fears nothing so much as shame". The compendium uses that example to ask whether a particular grievance involves disappointed ambition or threatened standing, and it is a compendium reading, assembled from these pieces, that anger sits over a blocked striving.
 
 **Plain words**
-Anger wants to hurt back, and it presents itself as energy. It is better read as a receipt: something you were striving for got blocked, and your standing took a hit in the same moment. The repayment desire feels like justice from inside; from outside it is pain looking for an address. Two questions before acting on it: what was I trying to get, and what did the slight do to how I am seen?
+If you want to hurt someone in return, identify what you believe they did to you. Did they obstruct something you wanted, or damage your standing? Naming the grievance gives you something specific to examine before deciding how to respond.
 
-*For example:* An employee's fury at a colleague's promotion. The surface is the desire to repay: disparage, undercut. Underneath sits their own striving, blocked and unacknowledged. The anger eases when that striving gets a channel, such as a project of their own or the conversation with the manager they had been avoiding.
+*For example:* After a colleague is promoted, you want to undermine their work. Write down what you wanted from the promotion and what you would like to discuss with your manager.
 
 ## Sources
 

@@ -20,16 +20,21 @@ The definition makes shame a social affect: it needs a blamed act and an imagine
 
 > "shame, like compassion, though not a virtue, is yet good, in so far as it shows, that the feeler of shame is really imbued with the desire to live honourably" (Ethics IV, LVIII note, [Elwes](https://www.gutenberg.org/ebooks/3800))
 
-The guilt/shame split named in the title is the modern psychological one (see the psychology parallels); Spinoza's text supports the underlying act-versus-self reading through the definition's own structure. Guilt's signal is act-specific and repairable: the deed can be named and mended. Global shame only suffers in front of spectators. When shame arrives, translate it once into the specific act and the specific repair, and set the global verdict down.
+The guilt/shame split named in the title comes from modern emotion research. Tangney and colleagues state it directly:
+
+> "Feelings of shame involve a negative evaluation of the global self; feelings of guilt involve a negative evaluation of a specific behavior." (Tangney, Mashek & Stuewig 2007, [Journal of Social and Clinical Psychology](https://pmc.ncbi.nlm.nih.gov/articles/PMC3092296/))
+
+The same paper describes the behavioral tendencies: "shame motivates a desire to 'duck the heat.' Guilt motivates a desire to 'face the music.'" Spinoza's definition of shame and this research agree that shame carries a blamed act; where they differ is apparatus. The practical instruction follows from the two frameworks together: when shame arrives, translate it once into the specific act and the specific repair, and leave the self out of the sentence.
 
 **Plain words**
-Shame hurts in front of an imagined audience: someone has seen the act and blames it. The signal inside it concerns a deed, but the feeling lands on the whole person, which is why shame so often produces hiding rather than repair. The re-addressing move: take the blame, point it at the act, name the repair, and leave the self out of the sentence. Spinoza's reason for keeping some respect for shame is the desire to live honourably that it reveals.
+Shame hurts in front of an imagined audience: someone has seen the act and blames it. The feeling lands on the whole person, and the research on shame says it tends to motivate hiding rather than repair. The re-addressing move: take the blame, point it at the act, name the repair. Spinoza's reason for keeping some respect for shame is the desire to live honourably that it reveals.
 
-*For example:* The kid caught lying. "The lie was wrong" is a sentence that does work; "you're a liar" is a sentence that does damage. Correct the act and skip the verdict on the person.
+*For example:* A parent addresses a child's lie by identifying what was false and asking how to correct it, without labelling the child a dishonest person.
 
 ## Sources
 
 - [Spinoza, Ethics, Elwes translation, Project Gutenberg](https://www.gutenberg.org/ebooks/3800) — III, Definitions of the Affects XXXI; IV, LVIII note
+- [Tangney, Mashek & Stuewig 2007, Working at the social-clinical-community-criminology interface, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3092296/) — shame/guilt distinction and action tendencies
 ## Psychology parallels
 
 - **[[Shame|Shame versus guilt]]**, the robust distinction in which guilt predicts repair and shame predicts avoidance and relapse (Tangney and Dearing, 2002)
