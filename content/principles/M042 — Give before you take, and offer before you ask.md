@@ -12,10 +12,10 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "M — Mesoam
 ---
 > **Principle 42** — Give before you take, and offer before you ask
 
-The exchange structure of Nahua ritual life, as Maffie summarizes it: "Humans and teotl coexist in a moral interrelationship of reciprocity, and becoming knowledgeable involves a morally regulated exchange with teotl." The Nahuatl word for what humans come to merit, macehualiztli, derives from the verb macehua, "to obtain or deserve what is desired"; humans come to merit what they need "as a consequence of performing prescribed ritual activities." The principle keeps this structure as psychology and social form, with the theology excluded: arrival in any system as a debtor to it, rather than as an extractor, and the first portion given before the rest is used.
+The exchange structure of Nahua ritual life, as Maffie summarizes it: "Humans and teotl coexist in a moral interrelationship of reciprocity, and becoming knowledgeable involves a morally regulated exchange with teotl." The Nahuatl word for the knowledge so obtained, tlamatiliztli, derives from the verb macehua, "to obtain or deserve what is desired"; humans come to merit tlamatiliztli (knowledge) "as a consequence of performing prescribed ritual activities." The give-first rule below is the compendium's modern adaptation of that exchange structure, not an attested Nahua practice: arrival in any system as a debtor to it, and the first portion given before the rest is used.
 
 **Plain words**
-Old ritual logic, kept as a stance: you arrive in any system already owing it something. So give first — the first hour, the first portion, the first fruits — before you take or ask.
+The tradition ties receiving knowledge to a morally regulated exchange. The adaptation keeps only the stance: you arrive in any system already owing it something, so give the first hour, the first portion, before you take or ask.
 
 *For example (imagined):* Someone takes the first hour of the day, before the inbox, for the thing they would otherwise never get to, and finds the offering quietly re-prices the whole day.
 

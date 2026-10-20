@@ -485,3 +485,18 @@ SUPERVISOR DISPOSITION REQUESTED (state flag on AF050, p1zza):
 Band state: 6/30 done (M025 predecessor + SE042, SP093, AF039, AF050, AF077); 24 remain,
 next item BE066. Proposals p1zza.json rev 3 (two reciprocals: Narrative redemption
 sequences <- SE042, Acceptance <- AF039) pending integration when bands are free.
+
+## p1zza update (2026-10-20, pre-deadline)
+
+Band state: 14/30 done (M025, SE042, SP093, AF039, AF050, AF077, BE066, BI036,
+M001, M010, M035, M036, M042, M044); M028 held (Florentine Codex provenance),
+not counted. QC: items 2–5 closed (AF050 alias hold routed); items 6–10 rounds
+1–2 applied, round-3 repairs on M044 applied, final verification pending.
+New items M035/M036/M042: round-3 repairs applied (Maffie's meaning kept
+distinct from compendium adaptations), pending verification. Open supervisor
+holds: AF050 (Rumination alias), M010 (Perspective-taking alias), M028
+(provenance), M044 ([[That of God in everyone]] alias — no concept page
+exists; protected markup preserved, routed via state flag). Broken concept
+targets in seed parallels ([[Panta rhei]], [[Quick to hear, slow to speak]])
+need a supervisor decision. Next item: M045. SATURATE mention-checks for
+M035/M036/M042/M044 not run this round — noted in ledgers as pending.

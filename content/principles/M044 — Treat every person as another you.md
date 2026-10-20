@@ -12,16 +12,16 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "M — Mesoam
 ---
 > **Principle 44** — Treat every person as another you
 
-The phrase's provenance is modern and documented. In Lak'ech ("I am another you"), answered by Hala Ken ("you are another me"), "es un saludo acuñado por Domingo Martínez Paredes en 1964, en su libro Hunab Ku: síntesis del pensamiento filosófico maya" (is a greeting coined by Domingo Martínez Parédez in 1964, in his book Hunab Ku; translation mine) ([Popol Mayab', a Maya-culture site](https://popol-mayab.org/2015/09/06/in-lakech/)). The same source notes that the greeting "no aparece en ningún texto, libro, estela ó manuscrito" (appears in no text, book, stela or manuscript) and calls it "producto de la mente de un filósofo mexicano de mediados del siglo XX" (the product of a mid-twentieth-century Mexican philosopher's mind). The compendium therefore keeps the formulation labeled as modern, not pre-Columbian, and uses it on its merits: as a daily stance it is a compact version of the exchange-of-self-and-other trainings.
+This page uses "I am another you" as a contemporary ethical prompt, not as a verified pre-Columbian Maya greeting. A 2015 article on [Popol Mayab'](https://popol-mayab.org/2015/09/06/in-lakech/) describes the in lak'ech / hala ken greeting as "acuñado por Domingo Martínez Paredes en 1964" ("coined by Domingo Martínez Parédez in 1964"; translation mine), in his book Hunab Ku: síntesis del pensamiento filosófico maya. The exercise below is the compendium's adaptation: consider the other person's needs and point of view before replying.
 
 **Plain words**
-In Lak'ech: "I am another you." A modern coined phrase, kept because the stance is useful. At your hardest interpersonal moments, say it internally, "this person is another me," and let the stance choose the next sentence.
+Use "this person is another me" as a prompt to consider the other person's standpoint before choosing your next sentence.
 
 *For example (imagined):* The driver who lets the merging car in, because that car is a person running late to something that matters to them, the way you are, and the whole commute runs on that arithmetic.
 
 ## Psychology parallels
 
-- **Self-other overlap and perspective-taking**, the measured inclusion of other in the self (Aron et al., 1992)
+- **Self-other overlap** (Aron et al., 1992)
 
 ## Philosophy parallels
 
@@ -34,9 +34,9 @@ In Lak'ech: "I am another you." A modern coined phrase, kept because the stance 
 
 ## Related concepts
 
-- [[Tat tvam asi]] — the Upanishadic cousin
-- [[Ubuntu]] — the southern African cousin
-- [[Interbeing]] — the engaged-Buddhist cousin
+- [[Tat tvam asi]] — listed for comparison
+- [[Ubuntu]] — listed for comparison
+- [[Interbeing]] — listed for comparison
 
 ## Sources
 

@@ -12,10 +12,10 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "M — Mesoam
 ---
 > **Principle 35** — Hold the earth's slipperiness as fact
 
-The Nahua proverb for a good person who falls into wrongdoing is terrain description: "Tlaalahui, tlapetzcahui in tlalticpac," "It is slippery, it is slick on the earth." In Maffie's summary of the tradition, the proverb "was said of a person who had lived a morally upright life but then lost her balance and fell into moral wrongdoing, as if slipping in slick mud" (Sahagún, Florentine Codex Book VI, trans. Burkhart, as quoted in Maffie, "Aztec Philosophy", IEP). The earth's name, tlalticpac, "on the point or summit of the earth," pictures a narrow place surrounded by dangers, and the tradition's defining question follows: "How can humans maintain their balance upon the slippery earth?" Losing footing is not a verdict on the person; it is the terrain.
+The Nahua proverb for a good person who falls into wrongdoing is terrain description: "Tlaalahui, tlapetzcahui in tlalticpac," "It is slippery, it is slick on the earth." In Maffie's summary of the tradition, the proverb "was said of a person who had lived a morally upright life but then lost her balance and fell into moral wrongdoing, as if slipping in slick mud" (Sahagún, Florentine Codex Book VI, trans. Burkhart, as quoted in Maffie, "Aztec Philosophy", IEP). The earth's name, tlalticpac, "on the point or summit of the earth," pictures a narrow place surrounded by dangers, and the tradition's defining question follows: "How can humans maintain their balance upon the slippery earth?" The proverb's own subject is moral: an upright person losing her balance into wrongdoing. The exercise below is the compendium's adaptation of the image to adversity at large.
 
 **Plain words**
-The old saying treats a stumble as ground, not character. When you lose your footing — health, people, plans — name the terrain first; then decide what, if anything, it means about you.
+The proverb describes an upright person who slips into wrongdoing — balance is hard to keep on this earth, the tradition says. The compendium's adaptation: when you lose footing, name the terrain first, then decide what, if anything, the slip means about you.
 
 *For example (imagined):* Two people are laid off the same week. One reads it as proof of failure; the other as a slip on a slope everyone walks. The second is looking for the next hold a month sooner.
 
