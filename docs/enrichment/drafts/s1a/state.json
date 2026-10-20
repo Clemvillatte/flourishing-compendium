@@ -322,7 +322,7 @@
    ]
   },
   "s1a-014": {
-   "status": "drafting",
+   "status": "qc_pending",
    "angle": "B026: Meghiya finds that the right grove and eagerness do not replace conditions for directing effort; complete Ud4.1 arc",
    "history": [
     {
@@ -333,9 +333,24 @@
      "t": "2026-10-20T14:28:00+00:00",
      "to": "drafting",
      "note": "Complete Ud4.1 arc drafted; four additional practices not conflated with four efforts"
+    },
+    {
+     "t": "2026-10-20T14:28:17+00:00",
+     "to": "qc_pending",
+     "note": "Checker zero; independent first-item review requested"
+    }
+   ]
+  },
+  "s1a-015": {
+   "status": "researching",
+   "angle": "P042: children confront cotton-seed removal and reconstruct textile tools; guided inquiry without the false requirement to get hurt",
+   "history": [
+    {
+     "t": "2026-10-20T14:28:17+00:00",
+     "to": "researching"
     }
    ]
   }
  },
- "updated": "2026-10-20T14:28:00+00:00"
+ "updated": "2026-10-20T14:28:17+00:00"
 }
