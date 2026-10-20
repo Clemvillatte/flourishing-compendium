@@ -12,13 +12,19 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 8** — Accept that flourishing takes a whole life
 
-You cannot call someone happy until their life is complete. One day does not make spring; one good year does not make a life. Judge your trajectory, not your moment. Do not despair at a setback; do not rest at a success. The question is the direction of the whole arc.
+Aristotle includes "a complete life" in his account of happiness: one day or a short period is insufficient to establish that someone is blessed and happy ([NE I.7](http://classics.mit.edu/Aristotle/nicomachaen.1.i.html)). The reflection below considers a recent experience alongside a longer history.
 
-(NE I.7, I.9-10.)
+> But we must add 'in a complete life.' For one swallow does not make a summer, nor does one day; and so too one day, or a short time, does not make a man blessed and happy.
+>
+> Aristotle, Nicomachean Ethics I.7, translated by W. D. Ross, [Internet Classics Archive](http://classics.mit.edu/Aristotle/nicomachaen.1.i.html).
 
-**Plain words** One good day doesn't make you flourishing, and one bad year doesn't end it. Aristotle says to judge the whole arc. That means you shouldn't collapse at a setback or relax at a win. Ask which way your life is heading overall.
+(NE I.7; Ross translation.)
 
-*For example:* Losing a job in your forties is a hard chapter, but if the last ten years built skills, friends, and habits, it isn't the verdict on your life.
+### Plain words
+
+For reflection, set a recent success or loss alongside the activities and commitments you have sustained over several years. What has the event changed? What needs attention now?
+
+For example: After losing a job, you might consider the immediate financial consequences alongside skills and relationships developed during previous work. Write down what remains available and what needs rebuilding, leaving open how serious the loss will prove.
 
 ## Stories
 
