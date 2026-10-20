@@ -10,9 +10,6 @@
   "D173",
   "D178",
   "D183",
-  "B152",
-  "B137",
-  "B149",
   "B013",
   "B059",
   "B104",
@@ -27,18 +24,11 @@
  ],
  "in_progress": "P114",
  "flagged": {
-  "B125": "Ownership overlap: already done by live p1m at c6f90c30; no p1u content edit; skip pending supervisor reconciliation",
-  "B139": "Ownership overlap: already done in p1m; no p1u content edits; skip pending supervisor reconciliation",
-  "B140": "Ownership overlap: already done in p1h; no p1u content edits; skip pending supervisor reconciliation",
-  "B157": "Ownership overlap: already done in p1k; no p1u content edits; skip pending supervisor reconciliation",
-  "B163": "Ownership overlap: already done in p1k; no p1u content edits; skip pending supervisor reconciliation",
-  "B164": "Ownership overlap: already done in p1n; no p1u content edits; skip pending supervisor reconciliation",
   "B137": "Ownership overlap detected after p1u rewrite: already done p1p; source-verified p1u rewrite preserved protected content, supervisor attribution review needed",
-  "B165": "Not in p1u manifest: selected in error, never edited. Supervisor may remove out-of-band state entries; no content work pending.",
-  "SCOPE_CORRECTION": "Manifest correct; worker misread B IDs. B152/B137/B149 restored in 1f71a89a; ignore erroneous done/flags for B125 B137 B139 B140 B149 B152 B157 B163 B164 B165. Supervisor may reconcile via approved tooling; details in p1u ledger.",
-  "QC_MILESTONE_20": "Advisor stopped: credits exhausted, no verdict. B171 B184 B191 B195 P112 await independent QC; latest B135 context correction applied. All 20 pass local preservation/quote/validator checks. P114 started but untouched; details in source ledger."
+  "SCOPE_CORRECTION": "Manifest correct; worker misread B IDs. B152/B137/B149 restored in 1f71a89a; ignore erroneous done/flags for B125 B137 B139 B140 B149 B152 B157 B163 B164 B165. Supervisor may reconcile via approved tooling; details in p1u ledger."
  },
  "missing_concepts": [],
  "sources_checked": 37,
- "updated": "2026-10-20T02:44:47+00:00"
+ "updated": "2026-10-20T02:43:16+00:00",
+ "notes": " | supervisor-0ddcdd37 reconciliation (2026-10-20): removed erroneous out-of-band entries (done: B152/B137/B149; flags: B125/B139/B140/B157/B163/B164/B165) per the worker's scope-correction request; content was already restored by the worker in 1f71a89a; B149/B152/B137 belong to their owning bands (B149 is in p1v's manifest, unclaimed). | supervisor-0ddcdd37 reconciliation (2026-10-20): removed erroneous out-of-band entries (done: B152/B137/B149; flags: B125/B139/B140/B157/B163/B164/B165) per the worker's scope-correction request; content already restored by the worker in 1f71a89a; B149 belongs to p1v (unclaimed)."
 }
