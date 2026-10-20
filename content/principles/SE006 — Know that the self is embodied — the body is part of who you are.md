@@ -25,7 +25,7 @@ James includes the body within his account of the material self. ([The Principle
 The compendium recommends including bodily care when considering care of yourself. This is a practical application of James's account of the material self. ([The Principles of Psychology, Vol. I, ch. X](https://www.gutenberg.org/files/57628/57628-h/57628-h.htm))
 
 **Plain words**
-James includes the body in his account of the material self. ([The Principles of Psychology, Vol. I, ch. X](https://www.gutenberg.org/files/57628/57628-h/57628-h.htm)) For this compendium's practice, include bodily care when thinking about what caring for yourself means.
+You are not a mind renting a body. When the body is tired or hurt, it is you who is tired or hurt, not your transport. So caring for yourself has to include the unglamorous maintenance: sleep, food, movement. A plan for self-improvement that skips them is a plan built on a crumbling foundation.
 
 *For example* (reflection exercise): When describing a difficult day, consider whether bodily discomfort appears in how you describe yourself.
 ## Psychology parallels
