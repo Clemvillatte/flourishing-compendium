@@ -12,9 +12,9 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 156** — Let your actions be consistent with your words
 
-Integrity is the alignment of speech and action. The Stoic does not say one thing and do another. This is not moralism but practical wisdom: inconsistency breeds inner conflict, and inner conflict breeds suffering. Practise saying less and doing more.
+> "Prove your words by your deeds." (Seneca, Letters 20.1, [Richard Mott Gummere translation](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_20)).
 
-Seneca gives Lucilius a short instruction: "Prove your words by your deeds." ([Letter 20.1, Richard Mott Gummere translation](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_20)) He then brings the test home: do you spend lavishly on yourself while treating your family meanly, or display a public way of life at odds with your private one ([Letter 20.3](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_20))?
+Seneca brings this test home: do you spend lavishly on yourself while treating your family meanly, or display a public way of life at odds with your private one ([Letter 20.3](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_20))?
 
 The standard is demanding without requiring an unbroken performance of perfection: Seneca allows that the philosopher cannot always keep the same pace, though he can keep travelling the same path ([Letter 20.2](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_20)). Marcus makes room for a similar return after failure, telling himself not to become discouraged when he falls short of his principles ([Meditations V.9](https://classics.mit.edu/Antoninus/meditations.5.five.html)).
 
