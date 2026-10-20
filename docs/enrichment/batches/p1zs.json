@@ -39,11 +39,11 @@
   "CO021": "New body/quote verified; inherited cross-domain robustness and Arkes-Hutzel/Buddhist/Stoic/Schumpeter attributions not certified. Practice inference corrected. See sources/p1zs/CO021.md.",
   "CO022": "New body/quote verified; unsupported universal schedule multiplier removed. Inherited reference-class and philosophical attributions not certified. See sources/p1zs/CO022.md.",
   "CO030": "Method/quote checked and experimental efficacy scope narrowed; inherited Stoic parallels unverified. Pre-mortem concept stub still overstates efficacy; supervisor correction warranted. See sources/p1zs/CO030.md.",
-  "CO034": "New psychology body/quote and mediation caveat source-checked; inherited Hume quotation and Stoic attribution not yet certified. See sources/p1zs/CO034.md.",
+  "CO034": "New psychology body/quote reviewed; replication low-benefit exception and no mediation proof explicit. Hume quote now opened/checked II.III.III; inherited Stoic attribution remains unverified. See sources/p1zs/CO034.md.",
   "CO038": "Body/quote verified with replication, median/mean conflation corrected; inherited cross-cultural and philosophy parallels not certified. See sources/p1zs/CO038.md."
  },
  "missing_concepts": [],
- "sources_checked": 10,
- "updated": "2026-10-20T13:19:23+00:00",
+ "sources_checked": 11,
+ "updated": "2026-10-20T13:20:42+00:00",
  "band_done": false
 }

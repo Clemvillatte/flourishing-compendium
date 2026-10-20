@@ -18,7 +18,7 @@ Finucane and colleagues propose that an overall favourable or unfavourable react
 
 (Finucane, Alhakami, Slovic and Johnson, 2000, abstract; [opened record](https://onlinelibrary.wiley.com/doi/abs/10.1002/(SICI)1099-0771(200001/03)13:1%3C1::AID-BDM333%3E3.0.CO;2-S).)
 
-A later replication supported the judgment pattern while explicitly noting that it did not directly establish affect as its mediator ([Efendic and colleagues, “Risky Therefore Not Beneficial,” Discussion](https://cris.maastrichtuniversity.nl/ws/files/78532275/Efendic_2021_Risky_therefore_not_beneficial_replication.pdf)). That distinction matters when interpreting the proposed mechanism.
+A later replication supported the inverse judgment pattern except when highlighting low benefits, and did not directly establish affect as its mediator ([Efendic and colleagues, “Risky Therefore Not Beneficial,” abstract and Discussion](https://cris.maastrichtuniversity.nl/ws/files/78532275/Efendic_2021_Risky_therefore_not_beneficial_replication.pdf)). This tested the information manipulation, not the original time-pressure experiment ([same study](https://cris.maastrichtuniversity.nl/ws/files/78532275/Efendic_2021_Risky_therefore_not_beneficial_replication.pdf)).
 
 ### Plain words
 
@@ -30,11 +30,11 @@ Suppose an online service appeals to you because its design feels welcoming. Bef
 ## Psychology parallels
 
 - **[[Affect heuristic|Affect heuristic]]**: an explanatory proposal linking overall affective evaluation with risk and benefit judgments ([Finucane et al., 2000, abstract](https://onlinelibrary.wiley.com/doi/abs/10.1002/(SICI)1099-0771(200001/03)13:1%3C1::AID-BDM333%3E3.0.CO;2-S)).
-- **Replication and mechanism**: replication of the inverse judgment pattern did not directly demonstrate affective mediation ([Efendic et al., Discussion](https://cris.maastrichtuniversity.nl/ws/files/78532275/Efendic_2021_Risky_therefore_not_beneficial_replication.pdf)).
+- **Replication and mechanism**: the information-manipulation replication found an inverse pattern except in the low-benefit condition, without directly demonstrating affective mediation ([Efendic et al., abstract and Discussion](https://cris.maastrichtuniversity.nl/ws/files/78532275/Efendic_2021_Risky_therefore_not_beneficial_replication.pdf)).
 
 ## Philosophy parallels
 
-- **Reason vs passion** (Hume, Treatise: "Reason is, and ought only to be the slave of the passions")
+- **Reason and motivation**: “Reason is, and ought only to be, the slave of the passions” is a sentence excerpt from Hume's motivational argument, not evidence for the modern affect-heuristic mechanism ([Treatise, II.III.III](https://www.gutenberg.org/files/53792/53792-h/53792-h.htm)).
 - **[[Distinguishing feeling from fact|Distinguishing feeling from fact]]** (Stoics, Epictetus)
 
 ## Practice

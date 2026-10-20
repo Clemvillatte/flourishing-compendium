@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 ---
 > **Principle 21** — Understand the sunk cost fallacy: past investment distorts present decisions
 
-Arkes and Blumer describe a tendency to continue an undertaking because money, effort or time has already been invested ([“The Psychology of Sunk Cost,” 1985, abstract](https://cognition.aau.at/bg/BA/Arkes%20%26%20Blumer%201985.pdf)). Their decision rule distinguishes those irrecoverable costs from the costs and benefits that would change with the choice now being made ([opening discussion, pp. 125–127](https://cognition.aau.at/bg/BA/Arkes%20%26%20Blumer%201985.pdf)).
+Arkes and Blumer describe a tendency to continue an undertaking because money, effort or time has already been invested ([“The Psychology of Sunk Cost,” 1985, abstract](https://cognition.aau.at/bg/BA/Arkes%20%26%20Blumer%201985.pdf)). The traditional economic principle they apply distinguishes those irrecoverable costs from the costs and benefits that would change with the choice now being made ([opening discussion, pp. 125–127](https://cognition.aau.at/bg/BA/Arkes%20%26%20Blumer%201985.pdf)).
 
 > Only incremental costs should influence decisions, not sunk costs.
 

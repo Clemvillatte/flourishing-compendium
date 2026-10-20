@@ -22,7 +22,7 @@ Svenson's study found that majorities of its American and Swedish participants r
 
 Ask what comparison you are making and what evidence you have for your place in it. Feeling competent does not tell you how other people perform.
 
-For an entire comparison group, more than half cannot rank strictly above that group's median; the mean is a different measure. The experiments collected self-ratings, not direct driving-performance tests ([Svenson, Method; Koppel and colleagues, Measures](https://gwern.net/doc/psychology/cognitive-bias/1981-svenson.pdf)).
+For an entire comparison group, more than half cannot rank strictly above that group's median; the mean is a different measure. The experiments collected self-ratings, not direct driving-performance tests ([Svenson, Method](https://gwern.net/doc/psychology/cognitive-bias/1981-svenson.pdf); [Koppel and colleagues, Measures](https://mgto.org/wp-content/uploads/2023/05/Koppel-et-al-2023-Svenson1981-replication-extension-print.pdf)).
 
 ### For example
 

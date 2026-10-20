@@ -16,13 +16,13 @@ Buehler, Griffin and Ross found overly optimistic completion estimates across se
 
 > However, leading people to remember past experiences did not, in itself, reduce the optimistic bias.
 
-(Buehler, Griffin and Ross, “Exploring the Planning Fallacy,” Study 4, Discussion; [opened text](https://bear.warrington.ufl.edu/brenner/mar7588/Papers/buehler-et-al-1994.pdf).)
+(Buehler, Griffin and Ross, “Exploring the Planning Fallacy,” Study 4, Discussion, p. 376; [opened text](https://bear.warrington.ufl.edu/brenner/mar7588/Papers/buehler-et-al-1994.pdf).)
 
 ### Plain words
 
 Find a completed task that genuinely resembles the one you are estimating. Ask which delays, dependencies and demands on your time could recur, and explain how they change this estimate.
 
-This study concerns completion times; it provides no universal multiplier for every schedule, budget or risk ([study descriptions and General Discussion](https://bear.warrington.ufl.edu/brenner/mar7588/Papers/buehler-et-al-1994.pdf)). Treat the exercise as a way to examine an estimate, not a guarantee of accuracy.
+The claims made here concern task duration, as investigated in the paper ([abstract and Study 4](https://bear.warrington.ufl.edu/brenner/mar7588/Papers/buehler-et-al-1994.pdf)). Treat the exercise as a way to examine an estimate, not as a universal adjustment to every schedule, budget or risk.
 
 ### For example
 
