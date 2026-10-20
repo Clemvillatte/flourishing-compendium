@@ -328,3 +328,12 @@
   840-4) — fixed-sequence claim and stage-scoring rule from the abstract.
 - Gilligan critique clause grounded in the linked compendium page's own summary
   (care and relationship, not only justice); no external Gilligan claims.
+
+## Lazarus and Folkman's Transactional Theory of Stress and Coping (fast-track)
+- Opened: PubMed 3712234 (Folkman, Lazarus et al. 1986, JPSP 50, 992-1003) —
+  the two-appraisals definition quoted verbatim; appraisal-coping relation from
+  the abstract. The 1984 coping definition cited via the carrying review
+  (PMID 21703432, abstract snippet) — paraphrased, not quoted.
+- PMID 33746820 (Hiebel et al. 2021) used for the confirmation-with-limits
+  sentence (abstract-level). "The stressor is not the event alone" framing
+  paraphrases the seed's own summary line.
