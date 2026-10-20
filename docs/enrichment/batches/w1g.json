@@ -24,8 +24,14 @@
   "The rhythm of life": "title pending supervisor disposition: compendium heading over the Neiye's breath-as-rhythm teaching; flagged in audit worker-flags section",
   "The rhythm of rest": "title pending supervisor disposition: compendium heading over Zhuangzi ch. 6 toil-ease-rest image; flagged in audit worker-flags section"
  },
- "missing_concepts": [],
+ "missing_concepts": [
+  {
+   "title": "The natural (amoral)",
+   "seed": "Daoism, natural amoral",
+   "why": "bogus title recorded in error by worker (my fault): no such concept file exists; recorded entry cleared via init; the real concept is Ziran (naturalness)"
+  }
+ ],
  "sources_checked": 0,
- "updated": "2026-10-20T05:09:36+00:00",
+ "updated": "2026-10-20T05:10:11+00:00",
  "band_done": false
 }
