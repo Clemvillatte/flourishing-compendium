@@ -13,7 +13,8 @@
   "A034",
   "A061",
   "A084",
-  "A086"
+  "A086",
+  "A087"
  ],
  "in_progress": null,
  "flagged": {
@@ -28,6 +29,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T12:51:14+00:00",
+ "updated": "2026-10-20T12:51:43+00:00",
  "band_done": false
 }
