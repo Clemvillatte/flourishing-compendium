@@ -10,9 +10,10 @@
   "BI039",
   "BI044",
   "BI048",
-  "BI050"
+  "BI050",
+  "BI057"
  ],
- "in_progress": "BI057",
+ "in_progress": null,
  "flagged": {
   "BI020": "Reopened for QC: round-4 citation closure",
   "BI037": "Reopened for QC: round-5 mechanical fixes",
@@ -27,6 +28,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T12:10:24+00:00",
+ "updated": "2026-10-20T12:11:24+00:00",
  "band_done": false
 }
