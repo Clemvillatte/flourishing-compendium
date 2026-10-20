@@ -6,6 +6,13 @@
       "phrase": "In the invisible-gorilla experiment, observers counting basketball passes failed to report a person in a gorilla suit",
       "why": "the concept page describes the gorilla experiment but never links the principle that states attention's selectivity",
       "notes": "found by mention scan during AT001 saturation; AT001's parallels already link Inattentional blindness, so this completes the loop at the hub concept"
+    },
+    {
+      "into": "AT048",
+      "type": "principle",
+      "phrase": "Open monitoring (OM) meditation involves observing",
+      "why": "the open-monitoring principle never links AT005, which states the attention/awareness distinction it depends on",
+      "notes": "found by mention scan during AT005 saturation"
     }
   ],
   "inline": [

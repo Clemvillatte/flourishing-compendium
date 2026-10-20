@@ -12,21 +12,21 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AT — Attentio
 ---
 > **Principle 1** — Understand that attention is selective: you cannot attend to everything
 
-Perception research treats attention as a gate rather than a floodlight. In the best-known demonstration, observers watched a video and counted basketball passes; across the experiment's 192 observers, 46% failed to notice a person in a gorilla suit walk through the players, pause, and thump its chest. The eyes register the gorilla well enough; what runs short is the processing budget. When attention is fully committed, whatever it does not select simply never reaches awareness.
+Simons and Chabris asked observers to count basketball passes while an unexpected event occurred; across all conditions, 46% of 192 observers failed to notice that event ([author's PDF](http://www.chabris.com/Simons1999.pdf), p. 1068). In the gorilla conditions, 44% of 96 observers noticed the gorilla, with detection higher when attending to the black-shirted team than the white-shirted team: 58% versus 27% ([author's PDF](http://www.chabris.com/Simons1999.pdf), p. 1069).
 
 > "Taken together, these findings suggest that we perceive and remember only those objects and details that receive focused attention." (Simons & Chabris, "Gorillas in our midst: sustained inattentional blindness for dynamic events", Perception 28, 1999, p. 1059, [author's full-text PDF](http://www.chabris.com/Simons1999.pdf))
 
-The paper's conclusion generalises past gorilla suits: the direction of attention does more to set the contents of awareness than the scene itself does (Simons & Chabris, 1999, pp. 1059, 1068). The practical upshot for a life: since the door policy decides what gets in, the policy is worth setting deliberately.
+These results show that a visible event can go unnoticed while someone concentrates on another task ([author's PDF](http://www.chabris.com/Simons1999.pdf), pp. 1068-1069).
 
 **Plain words**
-Your attention admits only a trickle at a time. At any moment, most of what is happening stays outside the door. A person counting basketball passes can miss a gorilla standing in plain view. What you let in ends up shaping what your day feels like, so the choosing is worth doing on purpose.
+While you concentrate on one activity, you may miss something nearby. Remembering that possibility gives you a reason to check what you overlooked.
 
 **For example**
-On a crowded train you can follow the book in your hands or the argument two seats away. The ears take in both; the mind takes one. The same commute becomes the argument or the chapter.
+Imagine reading on a train and missing an argument nearby. Afterwards, a companion describes it, and you realise that your account of the journey left something out.
 
 ## Sources
 
-- [Simons & Chabris, "Gorillas in our midst: sustained inattentional blindness for dynamic events", Perception 28, 1059-1074 (1999), author's full-text PDF](http://www.chabris.com/Simons1999.pdf) — abstract claim at p. 1059, the 54%/46% result across 192 observers at p. 1068
+- [Simons & Chabris, "Gorillas in our midst: sustained inattentional blindness for dynamic events", Perception 28, 1059-1074 (1999), author's full-text PDF](http://www.chabris.com/Simons1999.pdf) — abstract claim at p. 1059, the 46% overall miss rate (p. 1068) and gorilla-specific rates (44% noticed overall; 58% vs 27% by attended team, p. 1069)
 
 ## Psychology parallels
 

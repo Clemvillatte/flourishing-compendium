@@ -12,14 +12,27 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AT — Attentio
 ---
 > **Principle 5** — Know that attention and awareness are not the same: you can be aware without attending
 
-Attention is focused; awareness is broad. You can have broad, open awareness (as in open-monitoring meditation) or narrow, focused attention (as in concentrated absorption). Both are valuable and serve different functions.
+Lutz and colleagues describe two meditation practices: sustained focus on a chosen object and open monitoring of changing experiences. Here, "without attending" means without selecting one object as the main focus.
 
-**Plain words** Focused attention is the narrow beam; awareness is the wide field the beam moves in. You can be broadly aware without attending to anything in particular — that's not a failure to focus, it's a different mode with its own uses. Confusing the two is how people think they're bad at meditating.
+> "The first style, FA meditation, entails voluntary focusing attention on a chosen object in a sustained fashion. The second style, OM meditation, involves non-reactively monitoring the content of experience from moment to moment, primarily as a means to recognize the nature of emotional and cognitive patterns" (Lutz, Slagter, Dunne & Davidson, "Attention regulation and monitoring in meditation", Trends in Cognitive Sciences 12, 2008, body definitions in the section "Meditation as an explanandum", paragraph beginning "The first style", [full text via PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC2693206/))
 
-*For example:* Driving a familiar route with the radio on: you're aware of the traffic, the signs, the sky — without gripping any of it. That's open awareness doing its quiet work.
+Focused-attention practice also trains the detection of distractions. The authors describe a transition from this practice to open monitoring:
+
+> "In this way, the 'effortful' selection or 'grasping' of an object as primary focus is gradually replaced by the 'effortless' sustaining of an awareness without explicit selection." (Lutz et al., 2008, Box 2, "Open monitoring meditation", [full text via PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC2693206/))
+
+**Plain words**
+You can keep returning to one thing, or notice experiences as they come and go without choosing one to follow.
+
+**For example**
+Imagine sitting quietly. First, keep returning to your breath. Then notice sounds, sensations and thoughts as they arise, letting each pass.
+
+## Sources
+
+- [Lutz, Slagter, Dunne & Davidson, "Attention regulation and monitoring in meditation", Trends in Cognitive Sciences 12(4), 163-169 (2008), full text via PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC2693206/) — body FA/OM definitions ("Meditation as an explanandum" section, paragraph beginning "The first style"); monitoring-faculty sentence (Box 1); effortful-to-effortless sentence (Box 2); DOI [10.1016/j.tics.2008.01.005](https://doi.org/10.1016/j.tics.2008.01.005)
+
 ## Psychology parallels
 
-- **Focused attention vs open monitoring in meditation**, two distinct meditative styles with distinct neural signatures (Lutz et al., 2008; Tang et al., 2015)
+- **Focused attention vs open monitoring in meditation**, two meditative styles given distinct functional characterizations in this framework (Lutz et al., 2008; Tang et al., 2015)
 - **Open monitoring develops meta-awareness**, the capacity to notice the contents of awareness without narrow focus (Lutz et al., 2008)
 
 ## Philosophy parallels
