@@ -43,3 +43,21 @@
 - No concept-neighbour links added beyond the seed's five Related lines; the six concept
   neighbours already appear via the seed. No cross-link proposals queued.
 - Validator: normal profile, ok, 0 fails, 0 warnings.
+
+## Advisor QC repairs (2026-10-20)
+
+- "only the second reliably moves behavior" replaced with "A person may expect an
+  action to help while still doubting their ability to perform it" (restatement of the
+  opened distinction, no causal claim).
+- "later renamed mastery experiences" and "does the heaviest lifting" removed; the
+  four sources are listed as the 1977 paper lists them. "the construct's largest
+  applied success" replaced with "One application is...".
+- The 1997 definition sentence restructured: "Jonker and colleagues, citing Bandura
+  (1997), render the definition in these words: ..." (no claim about what the 1997
+  book itself compresses; the book was not opened).
+- Related lines labelled "(inherited description, unverified here)"; Locus of control
+  added as the reciprocal of an existing edge (the Locus of control page's Related
+  concepts already links [[Self-efficacy]]).
+- Ledger correction: the seed's Related list carried five of the six concept
+  neighbours; Locus of control is the sixth (incoming edge only). British spelling
+  applied to this band's own prose (behaviour, modelling).

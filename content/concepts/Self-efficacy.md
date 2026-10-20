@@ -8,19 +8,19 @@ tags: ["psych/affect", "theory"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-AFFECT"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-Self-efficacy is Albert Bandura's construct for the belief that one can execute the behavior required to produce an outcome. He introduced it in 1977 as the unifying mechanism behind the different modes of psychological change, and the construct has since spread far beyond its clinical origins. The 1977 paper draws the distinction the construct lives on: an outcome expectancy is a person's estimate that a given behavior will lead to certain outcomes, while an efficacy expectation is the conviction that one can successfully execute the behavior required to produce the outcomes. Believing that a course of action would help is one thing; believing one can perform the necessary activities is another, and only the second reliably moves behavior.
+Self-efficacy is Albert Bandura's construct for the belief that one can execute the behaviour required to produce an outcome. He introduced it in 1977 as the unifying mechanism behind the different modes of psychological change, and the construct has since spread far beyond its clinical origins. The 1977 paper draws the distinction the construct lives on: an outcome expectancy is a person's estimate that a given behaviour will lead to certain outcomes, while an efficacy expectation is the conviction that one can successfully execute the behaviour required to produce the outcomes. A person may expect an action to help while still doubting their ability to perform it.
 
 Bandura's summary of what the expectation governs:
 
 > "Efficacy expectations determine how much effort people will expend and how long they will persist in the face of obstacles and aversive experiences." (Bandura, 1977, [Psychological Review, open PDF](https://www.susana.org/_resources/documents/default/3-4524-7-1640787326.pdf))
 
-### Four sources, later wording
+### Four sources and the later definition
 
-The belief is built from four principal sources of information: performance accomplishments, vicarious experience, verbal persuasion, and physiological states. The first, later renamed mastery experiences, does the heaviest lifting, and the facet list below records it. In the 1997 book Bandura compresses the definition; a later review renders it verbatim as "believing in one's own capability to organize and execute the courses of action required to produce given attainments" (Bandura 1997, quoted in [Jonker et al., 2009](https://pmc.ncbi.nlm.nih.gov/articles/PMC2776941/)).
+The belief is built from four principal sources of information: performance accomplishments, vicarious experience, verbal persuasion, and physiological states. The facet list below records the first of these. Jonker and colleagues, citing Bandura (1997), render the definition in these words: "believing in one's own capability to organize and execute the courses of action required to produce given attainments" ([Jonker et al., 2009](https://pmc.ncbi.nlm.nih.gov/articles/PMC2776941/)).
 
 ### In chronic disease management
 
-The construct's largest applied success is the Chronic Disease Self-Management Program developed by Kate Lorig and colleagues. The program builds its weekly action planning, modeling, symptom re-interpretation and group problem-solving around self-efficacy theory, and its evaluations report improvements in participants' confidence to manage their conditions.
+One application is the Chronic Disease Self-Management Program developed by Kate Lorig and colleagues. The program builds its weekly action planning, modelling, symptom re-interpretation and group problem-solving around self-efficacy theory, and its evaluations report improvements in participants' confidence to manage their conditions.
 
 ### In the compendium
 
@@ -38,11 +38,12 @@ The compendium cites the construct from its principles on voluntary action and e
 
 ## Related concepts
 
-- [[Social learning theory (Bandura)]] — the construct Bandura added when the theory went cognitive
-- [[Graded task assignment (Beck, BA)]] — the belief the proximal steps build, per Bandura and Schunk
-- [[Hope]] — the agency component's nearest neighbour in Snyder's theory
-- [[Implicit theories of intelligence]] — the control belief Dweck says the theories are really about
-- [[Learning by doing]] — the belief about agency that the doing builds
+- [[Social learning theory (Bandura)]] — the construct Bandura added when the theory went cognitive (inherited description, unverified here)
+- [[Graded task assignment (Beck, BA)]] — the belief the proximal steps build, per Bandura and Schunk (inherited description, unverified here)
+- [[Hope]] — the agency component's nearest neighbour in Snyder's theory (inherited description, unverified here)
+- [[Implicit theories of intelligence]] — the control belief Dweck says the theories are really about (inherited description, unverified here)
+- [[Learning by doing]] — the belief about agency that the doing builds (inherited description, unverified here)
+- [[Locus of control]] — its page already links here, describing self-efficacy as "the belief about capability, locus's Bandura sibling"
 
 ## Sources
 

@@ -59,11 +59,11 @@
   "Environmental design",
   "Intellectual humility",
   "Habituation",
-  "Self-efficacy",
   "Load theory of attention",
   "Radical empiricism",
   "Socratic ignorance",
-  "Spiritual exercises"
+  "Spiritual exercises",
+  "Self-efficacy"
  ],
  "in_progress": null,
  "flagged": {
@@ -75,11 +75,12 @@
   "Load theory of attention": "Reopened for QC: QC correction: field heading, source-bounded language, ledger fixes",
   "Radical empiricism": "Reopened for QC: QC correction: mosaic contrast, three-part summary quoting, related line, parallels classification",
   "Socratic ignorance": "Reopened for QC: QC correction: scoped claims, inherited labels, parallels classification",
-  "Spiritual exercises": "Reopened for QC: QC correction: invented causal explanation, attributed purpose, parallels classification"
+  "Spiritual exercises": "Reopened for QC: QC correction: invented causal explanation, attributed purpose, parallels classification",
+  "Self-efficacy": "Reopened for QC: QC correction: bounded claims, Related-line labels, Locus of control reciprocal, spelling"
  },
  "missing_concepts": [],
  "sources_checked": 7,
- "updated": "2026-10-20T06:56:35+00:00",
+ "updated": "2026-10-20T06:56:56+00:00",
  "notes": "QC round 2 (advisor): fixed quote attributions on The relational self and To the things themselves (encyclopedia paraphrases were quoted as primary text; now attributed to IEP/SEP), separated the three relational-self theories, scoped Sedikides findings, removed reader address, split long paragraphs. Caveat for the lead: some already-applied reciprocal proposals used derivation language ('therapeutic operationalisation of Deikman's observer' on Self-as-context, 'philosophical root' on I and Thou, 'same structure' on Being-with (Mitsein)); these clauses sit in other bands' files now and could be reworded to comparison language when convenient.",
  "band_done": false
 }
