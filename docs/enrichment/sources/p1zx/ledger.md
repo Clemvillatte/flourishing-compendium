@@ -233,3 +233,8 @@ Round 3 (advisor, 2026-10-21): item-10 milestone closed with a scoped PASS for A
 
 - Sources opened: Jaspers, Way to Wisdom (Manheim; Internet Archive full text; pp. 31, 32, 54, 57 from running heads); Heidegger BT §9 (Macquarrie-Robinson OCR; H. 42-43).
 - Scholarship correction: the old page, and its cite 'Heidegger §§4, 9', presented Dasein = mere existing vs Existenz = authentic as one shared distinction. Opened texts show it is Jaspers's usage (in Way to Wisdom Dasein/being-there is one mode, existence the authentic self). In BT §9 'existence' names Dasein's own mode of Being: 'The essence of Dasein lies in its existence', and authenticity is a mode of Dasein; the page now says so. Philosophy vols 1-3 not opened (no open copy). Plain words replicate replaced; example imagined. Self-QC only.
+
+## E097 (worker-p1zx-9a2e4c71, 2026-10-21)
+
+- Source opened: Jaspers, Way to Wisdom, trans. Manheim (Internet Archive full text), pp. 31-32, 34, 43, 49-50 from page-header positions (odd = 'WAY TO WISDOM', even = chapter title). The book's printed index puts 'mystery of transcendence' at 44, header analysis gives 43; the page uses 43 (the passage precedes the page-44 header). OCR noise ('I', '|') ignored; quotes otherwise word-for-word.
+- Not opened: Philosophy vol. 3 (cipher script) and Marcel, Mystery of Being (1951b); old cites to both kept out of the text and flagged. Plain words replicate replaced; example imagined. Self-QC only.
