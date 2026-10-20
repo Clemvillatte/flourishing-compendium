@@ -18,10 +18,15 @@
   "AF013": "Reopened for QC: milestone QC repair: trainability claims exceed opened source",
   "AF014": "Reopened for QC: milestone QC repair: fluctuation/persistence conflation; citation metadata fix",
   "AF017": "Reopened for QC: milestone QC repair: uncorrelated-to-intervention overreach; practice diagnostic assertion",
-  "AF018": "Reopened for QC: milestone QC repair: readout-of-gap overreach; dropped source qualifiers restored"
+  "AF018": "Reopened for QC: milestone QC repair: readout-of-gap overreach; dropped source qualifiers restored",
+  "AF021": "Reopened for QC: milestone-2 QC repair: contagion/presence distinction, standalone blockquote",
+  "AF027": "Reopened for QC: milestone-2 QC repair applied",
+  "AF032": "Reopened for QC: milestone-2 QC repair applied",
+  "AF034": "Reopened for QC: milestone-2 QC repair applied",
+  "AF040": "Reopened for QC: milestone-2 QC repair applied"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T10:02:01+00:00",
+ "updated": "2026-10-20T10:07:13+00:00",
  "band_done": false
 }

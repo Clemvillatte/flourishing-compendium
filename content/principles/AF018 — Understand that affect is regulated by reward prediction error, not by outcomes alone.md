@@ -14,7 +14,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 
 Rutledge and colleagues measured momentary happiness during a reward task, using a computational model. Their result:
 
-> "Emotional reactivity in the form of momentary happiness in response to outcomes of a probabilistic reward task is explained not by current task earnings, but by the combined influence of recent reward expectations and prediction errors arising from those expectations." ([Rutledge, Skandali, Dayan and Dolan, 2014, PNAS 111(33), open full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC4143018/))
+> "Using computational modeling, we show that emotional reactivity in the form of momentary happiness in response to outcomes of a probabilistic reward task is explained not by current task earnings, but by the combined influence of recent reward expectations and prediction errors arising from those expectations." ([Rutledge, Skandali, Dayan and Dolan, 2014, PNAS 111(33), open full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC4143018/))
 
 This does not show that momentary happiness always tracks expectations; the relation held within this task. A prediction error is a moment-to-moment quantity, not a settled account of how things are going.
 

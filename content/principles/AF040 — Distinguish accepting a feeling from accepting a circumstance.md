@@ -12,20 +12,28 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 40** — Distinguish accepting a feeling from accepting a circumstance
 
-The ACT literature makes the distinction directly. Hayes and colleagues define the acceptance that therapy teaches: "Acceptance involves the active and aware embrace of those private events occasioned by one's history without unnecessary attempts to change their frequency or form, especially when doing so would cause psychological harm" ([Hayes et al., 2006, Behaviour Research and Therapy 44, open full text](https://anxietyinstitute.com/wp-content/uploads/2021/12/Hayes-et-al.-2006.pdf)). The same passage shows the two-lane structure: "anxiety patients are taught to feel anxiety, as a feeling, fully and without defense," and the paper adds that "acceptance is fostered as a method of increasing values-based action" ([Hayes et al., 2006, same text](https://anxietyinstitute.com/wp-content/uploads/2021/12/Hayes-et-al.-2006.pdf)). Acceptance, in this model, aims at private events such as thoughts, feelings and sensations; the values-based action lane is where circumstances get their response.
+The ACT literature describes acceptance in terms that keep the two questions apart. Hayes and colleagues define the acceptance that therapy teaches:
 
-**Plain words** The therapy definition does not mention approving anything. It says stop struggling with the feeling, and keep moving on what matters. A person can welcome the anger fully and still act on the betrayal the same week. The fear that accepting the feeling means approving the situation is the [[Acceptance|barrier to acceptance]]; the two are different jobs.
+> "Acceptance involves the active and aware embrace of those private events occasioned by one's history without unnecessary attempts to change their frequency or form, especially when doing so would cause psychological harm." ([Hayes et al., 2006, Behaviour Research and Therapy 44, open full text](https://anxietyinstitute.com/wp-content/uploads/2021/12/Hayes-et-al.-2006.pdf))
 
-*For example:* (Imagined case.) After a betrayal you write two lines: the anger, felt fully, without defense; and the conversation you will have about what was done. The first line is acceptance; the second is the response. Neither requires the other to be dropped.
+And on its role in treatment:
+
+> "Rather acceptance is fostered as a method of increasing values-based action." ([Hayes et al., 2006, same text](https://anxietyinstitute.com/wp-content/uploads/2021/12/Hayes-et-al.-2006.pdf))
+
+The compendium applies this account by separating willingness to experience a feeling from deciding how to respond to the circumstances. Acceptance, in this model, aims at private events such as thoughts, feelings and sensations; the values-based action is where circumstances get their response.
+
+**Plain words** You are answering two questions: what am I feeling, and how do I want to respond? If you worry that allowing the feeling means approving the event, use that distinction to examine the [[Acceptance|barrier to acceptance]].
+
+*For example:* In an imagined case, you acknowledge feeling angry after a betrayal and separately consider whether to have a conversation about it. Recognizing the feeling leaves that decision open.
 
 ## Sources
 
-- [Hayes, S. C., Luoma, J. B., Bond, F. W., Masuda, A., & Lillis, J. (2006). Acceptance and Commitment Therapy: Model, processes and outcomes. Behaviour Research and Therapy 44(1), 1-25, open full text](https://anxietyinstitute.com/wp-content/uploads/2021/12/Hayes-et-al.-2006.pdf) — the acceptance definition and values-based-action sentences quoted above
+- [Hayes, S. C., Luoma, J. B., Bond, F. W., Masuda, A., & Lillis, J. (2006). Acceptance and Commitment Therapy: Model, processes and outcomes. Behaviour Research and Therapy 44(1), 1-25, open full text](https://anxietyinstitute.com/wp-content/uploads/2021/12/Hayes-et-al.-2006.pdf) — the acceptance definition and values-based-action sentence quoted above
 
 ## Psychology parallels
 
-- **Acceptance of internal experience is distinct from behavioural passivity**, ACT explicitly distinguishes acceptance of feelings from acceptance of harmful circumstances (Hayes et al., 2011)
-- **Values-based action alongside acceptance prevents passivity**, acceptance paired with committed action is the core ACT stance (Hayes et al., 2011)
+- Acceptance in ACT is described alongside committed action (Hayes et al., 2006, the paper opened above)
+- Hayes et al. (2011) on acceptance and values-based action (not opened for this item; cited for further reading)
 
 ## Philosophy parallels
 

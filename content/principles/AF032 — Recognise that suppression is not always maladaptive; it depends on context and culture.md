@@ -12,11 +12,19 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 32** — Recognise that suppression is not always maladaptive; it depends on context and culture
 
-Soto and colleagues asked the title question directly. Their hypothesis was about cultural context: "the negative associations between suppression and psychological functioning seen in European Americans would not be seen among members of East Asian cultures, in which emotional restraint is relatively encouraged over emotional expression" ([Soto et al., 2011, Emotion 11(6), abstract](https://pubmed.ncbi.nlm.nih.gov/21707152/)). With 71 European American and 100 Hong Kong Chinese students reporting on suppression use, life satisfaction and depressed mood, the moderation analysis "revealed that expressive suppression was associated with adverse psychological functioning for European Americans, but not for Chinese participants" ([Soto et al., 2011, same abstract](https://pubmed.ncbi.nlm.nih.gov/21707152/)). The study covers habitual suppression and self-reported functioning in two student samples; it does not test any particular funeral, courtroom or negotiation. The compendium's rule follows with its limits: treat suppression as a strategy whose costs depend on context and culture, not as a universal mistake.
+Soto and colleagues asked the title question directly. Their hypothesis was about cultural context:
 
-**Plain words** The finding is a moderation, not a verdict. In one student sample the same habit lined up with worse functioning, in another it did not, and the difference tracked cultural norms around restraint. The practical step is to check whose norms you are actually operating under, and with whom, before deciding that holding your face still is a failure.
+> "We hypothesized that the negative associations between suppression and psychological functioning seen in European Americans would not be seen among members of East Asian cultures, in which emotional restraint is relatively encouraged over emotional expression." ([Soto et al., 2011, Emotion 11(6), abstract](https://pubmed.ncbi.nlm.nih.gov/21707152/))
 
-*For example:* (Imagined case.) A team member keeps a flat expression during a tense client call and is told afterward by one colleague to be more authentic. Whether that feedback fits depends on context the study did not measure; what the study does show is that the costs of the habit are not the same everywhere.
+With 71 European American and 100 Hong Kong Chinese students reporting on suppression use, life satisfaction and depressed mood, the moderation analysis:
+
+> "revealed that expressive suppression was associated with adverse psychological functioning for European Americans, but not for Chinese participants." ([Soto et al., 2011, same abstract](https://pubmed.ncbi.nlm.nih.gov/21707152/))
+
+The association differed between these two student groups. This does not establish that suppression was beneficial or that cultural norms caused the difference.
+
+**Plain words** Holding back emotional expression was not linked to the same outcomes in these two groups. This finding alone cannot tell you whether keeping your feelings off your face will help in a particular conversation.
+
+*For example:* (Imagined case.) A team member keeps a flat expression during a tense client call and is told afterward by one colleague to be more authentic. Whether that feedback fits is a question about that call. This student study does not settle what to do on that call.
 
 ## Sources
 
@@ -24,8 +32,8 @@ Soto and colleagues asked the title question directly. Their hypothesis was abou
 
 ## Psychology parallels
 
-- **[[Cultural differences in suppression's costs|Cultural differences in suppression's costs]]**, suppression is associated with worse outcomes in Western cultural contexts but not necessarily in East Asian contexts (Butler & Gross, 2009; Soto et al., 2011)
-- **Context determines appropriateness**, suppression in a high-stakes professional negotiation may be adaptive; suppression with a close partner is typically not (English & Eldreda, 2020)
+- **[[Cultural differences in suppression's costs|Cultural differences in suppression's costs]]**, listed for comparison (Butler & Gross, 2009 and Soto et al., 2011; the opened abstract does not establish the mechanism)
+- English & Eldreda (2020) on context and appropriateness (not opened for this item; cited for further reading)
 
 ## Philosophy parallels
 
@@ -34,4 +42,4 @@ Soto and colleagues asked the title question directly. Their hypothesis was abou
 
 ## Practice
 
-- Do not treat suppression as always bad. In a professional or de-escalation context, it can be the right call. But do not make it your primary strategy with people you are close to.
+- When you consider holding an expression steady, note the context and the relationship. This student study does not settle which choice fits a given conversation.

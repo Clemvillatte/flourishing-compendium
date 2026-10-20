@@ -12,20 +12,29 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 27** — But do not reappraise everything; reappraisal has limits
 
-Troy, Shallcross and Mauss tested the title claim directly. Their abstract states the hypothesis plainly: "reappraisal may be adaptive when stressors are uncontrollable (when the person can regulate only the self) but maladaptive when stressors can be controlled (when the person can change the situation)" ([Troy et al., 2013, Psychological Science 24(12), abstract](https://journals.sagepub.com/doi/10.1177/0956797613496434)). In their sample of 170 participants, the result split by context: "For participants with uncontrollable stress, higher cognitive-reappraisal ability was associated with lower levels of depression. In contrast, for participants with controllable stress, higher cognitive-reappraisal ability was associated with greater levels of depression" ([Troy et al., 2013, same abstract](https://journals.sagepub.com/doi/10.1177/0956797613496434)). The study measured depression symptoms and self-reported stressor controllability; it did not test whether reframing a specific job or relationship is denial. The compendium's check follows from the finding: before reframing, ask whether the situation can be changed.
+Troy, Shallcross and Mauss tested the title claim directly. Their abstract states the hypothesis plainly:
 
-**Plain words** The study's split is the lesson. When nothing can be done about a stressor, reframing it lined up with better mood. When something could be done, the same reframing skill lined up with worse mood. Before reframing, ask two things: is the thought the problem, or is the situation? The answer changes which tool helps.
+> "Specifically, reappraisal may be adaptive when stressors are uncontrollable (when the person can regulate only the self) but maladaptive when stressors can be controlled (when the person can change the situation)." ([Troy et al., 2013, Psychological Science 24(12), abstract](https://journals.sagepub.com/doi/10.1177/0956797613496434))
 
-*For example:* (Imagined case.) A recurring weekly task is misassigned, and you have told no one. Reframing it as fine keeps the week calm and the task misassigned. The opened finding does not say to skip reframing; it says check controllability first.
+In their sample of 170 participants, the result split by context:
+
+> "For participants with uncontrollable stress, higher cognitive-reappraisal ability was associated with lower levels of depression. In contrast, for participants with controllable stress, higher cognitive-reappraisal ability was associated with greater levels of depression." ([Troy et al., 2013, same abstract](https://journals.sagepub.com/doi/10.1177/0956797613496434))
+
+A 2016 corrigendum corrected the depression scores of 7 of the 170 participants; the authors report that the substantive results, their interpretation, and the conclusion remain completely unchanged ([corrigendum](https://journals.sagepub.com/doi/10.1177/0956797615627417)). The study measured reappraisal ability, stressor controllability and depression; it did not test whether reframing a specific job or relationship is denial. The compendium's check follows from the finding: before reframing, ask what you could change in the situation.
+
+**Plain words** This study examined reappraisal ability and depression in relation to stressor controllability. It did not establish which strategy would help a particular person. Before reframing, the compendium suggests asking what you could change in the situation.
+
+*For example:* In an imagined case, you tell yourself that a misassigned weekly task is fine. Separately, consider whether you could ask for reassignment. Reinterpreting the task and trying to change it are different options.
 
 ## Sources
 
 - [Troy, A. S., Shallcross, A. J., & Mauss, I. B. (2013). A person-by-situation approach to emotion regulation: Cognitive reappraisal can either help or hurt, depending on the context. Psychological Science 24(12), 2505-2514, abstract](https://journals.sagepub.com/doi/10.1177/0956797613496434) — the hypothesis and the controllable-stress result quoted above
+- [Corrigendum (2016), Psychological Science](https://journals.sagepub.com/doi/10.1177/0956797615627417) — corrected depression scores for 7 of 170 participants; substantive results unchanged
 
 ## Psychology parallels
 
-- **[[Reappraisal's effectiveness depends on controllability|Reappraisal's effectiveness depends on controllability]]**, for situations that can be changed, problem-solving outperforms reappraisal; for uncontrollable situations, reappraisal is more effective (Troy et al., 2013)
-- **Over-reliance on reappraisal is associated with avoidance**, using reappraisal to avoid dealing with real problems is maladaptive (Ford & Troy, 2019)
+- **[[Reappraisal's effectiveness depends on controllability|Reappraisal's effectiveness depends on controllability]]**, listed for comparison (Troy et al., 2013; the opened abstract does not report a problem-solving-versus-reappraisal comparison)
+- Ford & Troy (2019) review costs of reappraisal (not opened for this item; cited for further reading)
 
 ## Philosophy parallels
 
