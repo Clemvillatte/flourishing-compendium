@@ -27,3 +27,7 @@
 ## PP037
 - VIA Institute pages on Bravery and Perseverance fetched; 6 quotations verified verbatim.
 - Limits: Peterson & Seligman (2004) and Pury & Lopez (2010) not opened (no accessible text found); statement's 'built through exposure to feared situations and through modelling' NOT supported by any opened source; body says so. Statement's 'Courage is not the absence of fear' supported only through the VIA definition (facing fears). Example hypothetical.
+
+## PP040
+- VIA self-regulation page (opened; quotes verified), PubMed abstracts via eutils: Hagger 2016 (27474142), Duckworth/Gendler/Gross (26817725), Hofmann 2012 (22149456).
+- Limits: Peterson & Seligman 2004 not opened; forgiveness/humility/prudence not researched; statement's 'environmental design is more effective than willpower' supported only by Duckworth et al.'s hedged 'may be especially effective' (theory/review, not head-to-head). VIA page's depletion metaphor contradicted by the multilab replication; body reports both. Example hypothetical.

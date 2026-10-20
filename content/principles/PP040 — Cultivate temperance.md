@@ -12,13 +12,24 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 ---
 > **Principle 40** — Cultivate temperance
 
-The virtue of temperance includes forgiveness, humility, prudence, and self-regulation. It is the capacity to manage desires and impulses without suppression. Its cultivation is not about denial. It is about the capacity to choose what to act on and what to let pass. Research on self-regulation shows that it is a limited resource in the short term but trainable in the long term, and that environmental design is more effective than willpower.
+The VIA Institute puts self-regulation among its strengths and says it "has to do with controlling your appetites and emotions and regulating what you do". It adds that "Self-Regulation can be viewed as a resource that can be depleted and fatigued", and uses the metaphor of a muscle "which can be exhausted through over-exertion or strengthened through regular practice" ([VIA Institute, Self-Regulation](https://www.viacharacter.org/character-strengths/self-regulation)).
 
-(Peterson and Seligman, 2004; Hofmann et al., 2012.)
+The depletion idea has weakened in the lab. In a preregistered replication across 23 laboratories (N = 2,141), "the size of the ego-depletion effect was small with 95% confidence intervals (CIs) that encompassed zero (d = 0.04, 95% CI [-0.07, 0.15])" (Hagger et al., 2016, Perspectives on Psychological Science, [PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/27474142/)).
 
-**Plain words** Temperance in VIA includes forgiveness, humility, prudence and self-regulation. It's managing desires and impulses without crushing them: choosing what to act on and what to let pass. Self-regulation seems to work like a muscle that tires, though the evidence is mixed.
+Designing situations may beat relying on willpower alone. Duckworth, Gendler and Gross argue that "situational self-control strategies-which can nip a tempting impulse in the bud-may be especially effective in preventing undesirable action" ([Perspectives on Psychological Science, abstract](https://pubmed.ncbi.nlm.nih.gov/26817725/)). In a week-long study of 205 adults, "desires are frequent, variable in intensity, and largely unproblematic", while situational factors had "relatively more influence" on resistance and behaviour enactment (Hofmann et al., 2012, Journal of Personality and Social Psychology, [PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/22149456/)). I did not open anything on forgiveness, humility or prudence, so I make no claims about them.
 
-*For example:* Not replying to a provocative email until you have slept on it.
+**Plain words**
+Shaping your surroundings may help restraint more than grit in the moment. Keep temptations out of reach and put the useful thing close by.
+
+**For example**
+Someone who overspends on food delivery deletes the app from the phone's home screen.
+
+## Sources
+
+- [VIA Institute on Character, Self-Regulation](https://www.viacharacter.org/character-strengths/self-regulation): opened
+- [Hagger et al. (2016), A multilab preregistered replication of the ego-depletion effect, Perspect. Psychol. Sci.](https://pubmed.ncbi.nlm.nih.gov/27474142/): abstract opened
+- [Duckworth, Gendler & Gross, Situational strategies for self-control, Perspect. Psychol. Sci.](https://pubmed.ncbi.nlm.nih.gov/26817725/): abstract opened
+- [Hofmann et al. (2012), Everyday temptations, J. Pers. Soc. Psychol.](https://pubmed.ncbi.nlm.nih.gov/22149456/): abstract opened
 
 ## Psychology parallels
 
