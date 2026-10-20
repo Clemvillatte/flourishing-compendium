@@ -86,17 +86,22 @@ Everything needed to continue is in this repository; nothing else is required.
   step 0.0000 everywhere, natural level variation) — but verify by ear.
 - In `<audio>` fallback mode, set switching hands over without a crossfade
   (no shared gain stage) — documented degradation.
-- The James Blake set (the-dark-night, 22 tracks) is staged in STRICT
-  full-filename order per the letter of the user's "filename order" rule.
-  The original Endel player numbers (…"Endel- Player - 003.aac" suffixes)
-  suggest a different intended order — ASK THE USER which they want before
-  changing it (re-run scripts/prepare-tracks.sh on a re-sorted staging dir).
-- The ~245 MB of user-supplied audio is now in the PUBLIC repo. Several sets
-  are recordings of commercial music (Grimes, James Blake, Plastikman, Alan
-  Watts). AGENTS.md requires redistribution rights; the user instructed the
-  push, but the copyright question should be raised explicitly with them.
-- The wiki's `site/` directory is UNTOUCHED by design — integration happens
-  only on explicit user request, following `INTEGRATION.md`.
+- The James Blake set (the-dark-night, 22 tracks) is currently staged in
+  strict full-filename order; the user has CONFIRMED the intended order is
+  the original Endel player-number order (the "Endel- Player - NNN.aac"
+  suffixes, 001..022). Re-stage in that order and re-run
+  `scripts/prepare-tracks.sh` on it (staging dir + re-encode), then verify
+  the suite is still green.
+- Audio rights are settled: the user has a deal with Endel; the project is
+  personal with no monetary purpose. No redistribution concern — do not
+  re-raise it.
+- WIKI INTEGRATION IS APPROVED: the user explicitly asked to integrate the
+  player into the wiki as soon as ready. Apply `INTEGRATION.md` (wire
+  fc-player.js + fc-player.css into `site/index.html`, mount the 16 sets).
+  The user's earlier instruction "don't touch site/ unless I ask" is now
+  superseded by this explicit request — but keep changes to the wiring
+  described in INTEGRATION.md and preserve the quality bar (suite green,
+  zero console errors on the wiki page too).
 
 ## Repository layout
 
