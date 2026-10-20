@@ -28,11 +28,10 @@
   "AF023",
   "AF028",
   "AF033",
-  "AF043",
   "AF060",
   "AF065"
  ],
- "in_progress": null,
+ "in_progress": "AF043",
  "flagged": {
   "Y083": "Reopened for QC: QC correction round 2: add BG 6.10 citation to second sentence",
   "SO075": "Reopened for QC: QC correction round 2: remove clinical claims in example",
@@ -53,10 +52,11 @@
   "AF016": "Reopened for QC: QC correction: cite opened paper, bounded Plain words",
   "AF023": "Reopened for QC: QC correction: align exercise with selection finding",
   "AF028": "Reopened for QC: QC correction: consistent-efficacy qualification, bounded Plain words",
-  "AF033": "Reopened for QC: QC correction: explicit comparison, opened lab-hosted PDF"
+  "AF033": "Reopened for QC: QC correction: explicit comparison, opened lab-hosted PDF",
+  "AF043": "Reopened for QC: QC correction: bounded prose repairs"
  },
  "missing_concepts": [],
  "sources_checked": 3,
- "updated": "2026-10-20T08:45:45+00:00",
+ "updated": "2026-10-20T08:48:37+00:00",
  "band_done": false
 }
