@@ -16,10 +16,10 @@
   sensorimotor states... but also on visceral physiological states" — the
   validator's staging-pattern check ERRs on those connectors even inside
   quotation marks (two attempts). Final text quotes "deeply embodied" as a
-  fragment plus the closing sentence; the middle clause of the source sentence
-  is dropped rather than paraphrased (no near-verbatim unquoted paraphrase).
-  The ledger records this so the supervisor/QC knows the omission is a
-  validator-driven quote reduction, not a content change.
+  fragment; SUPERSEDED round 8: the authors' full qualification sentence
+  beginning "While at the present stage..." is now quoted in full — it contains
+  neither connector that triggered the validator, so the uncertainty
+  qualification is retained.
 - Related-concepts additions are bare links (Interoception, The lived body,
   The body-subject, Embodied cognition — all existing pages), per the
   bare-links preference.
@@ -29,3 +29,17 @@
   Craig 2009) kept, NOT opened; no claims rest on them. The interoception
   definition is quoted as displayed in the opened review, which cites Craig
   2002 inline.
+
+## Round 8 QC repairs (2026-10-20)
+- Full "While at the present stage..." sentence quoted, preserving the authors'
+  uncertainty about the mechanism.
+- Opening scoped to an interoceptive account of the embodied self.
+- Interoception description attributed to Monti and colleagues citing Craig
+  (2002) — their prose with an inline citation, not a verbatim Craig quote;
+  Sources line corrected accordingly.
+- P005 reduced to a bare link; linked citations attached to the separate
+  quotations.
+- VALIDATOR NOTE for supervisor handoff: the staging-pattern check flags
+  'not just X, but' / 'not only X, but' connectors even inside verbatim
+  quotation marks (two ERRs on Embodied self). Recorded here per advisor
+  instruction; the shared validator was not modified.

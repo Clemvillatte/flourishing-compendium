@@ -25,3 +25,22 @@
   pairing" is title-descriptive of yin-yang.
 - Inherited Sources lines (Peng and Nisbett 1999; Spencer-Rodgers et al. 2010)
   kept, NOT opened; no claims rest on them.
+
+## Round 8 QC repairs (2026-10-20)
+- REMOVED from the live article: the four inherited 'Other formulations' lines
+  (exact legacy wording preserved here as UNVERIFIED — the opened source does
+  not support the distress/coping/judgment/creative-solutions claims):
+  1. 'tolerance of contradiction and nuance predicts lower distress and better
+     coping (Peng and Nisbett, 1999; Spencer-Rodgers et al., 2010)'
+  2. 'holding multiple views predicts lower distress and better judgment (Peng
+     and Nisbett, 1999)'
+  3. 'predicts lower distress and creative solutions (Peng and Nisbett, 1999)'
+  4. 'holding contradiction predicts lower distress (Peng and Nisbett, 1999)'
+  No protocol protection for the 'Other formulations' section was found in
+  PROTOCOL.md or OPERATIONS.md, so the removal is a worker repair, not a
+  supervisor exception.
+- Opening narrowed to this page's evidenced scope (the Spencer-Rodgers account
+  of naive dialecticism), not dialectical thinking throughout cross-cultural
+  psychology.
+- D007 reduced to a bare link (Daoist attribution unverified).
+- Linked citations attached to the three-concept and findings quotations.

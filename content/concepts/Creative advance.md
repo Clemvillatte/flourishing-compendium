@@ -11,14 +11,14 @@ Creative advance is Whitehead's name for the universe's ongoing production of no
 
 > "'Creativity' is the universal of universals characterizing ultimate matter of fact. It is that ultimate principle by which the many, which are the universe disjunctively, become the one actual occasion, which is the universe conjunctively. It lies in the nature of things that the many enter into complex unity" (Whitehead, Process and Reality, p. 21, quoted in Garland, [The Mystery of Creativity](https://encyclopedia.whiteheadresearch.org/entries/thematic/metaphysics/the-mystery-of-creativity/), The Whitehead Encyclopedia)
 
-The formula of the advance: "The many become one, and are increased by one" (Process and Reality, p. 21, quoted in the same entry). The universe itself, God and the temporal world alike, is "in the grip of the ultimate metaphysical ground, the creative advance into novelty" (Process and Reality, p. 349, quoted in the same entry). The Internet Encyclopedia of Philosophy explains the formula this way: the many occasions that have already become "contribute their atomic reality to the becoming of a new occasion ('the many become one'). However, this occasion, upon fully realizing in its own atomic character, now contributes that reality to the previously achieved realities of the other occasions ('and increase by one')" ([IEP, Alfred North Whitehead](https://iep.utm.edu/whitehead/)).
+The formula of the advance: "The many [entities] become one [entity], and are increased by one [entity]" — the brackets are Garland's insertions — (Process and Reality, p. 21, quoted in [Garland, The Mystery of Creativity](https://encyclopedia.whiteheadresearch.org/entries/thematic/metaphysics/the-mystery-of-creativity/)). Garland also cites a passage asserting that both God and the temporal world are "in the grip of the ultimate metaphysical ground, the creative advance into novelty" (Process and Reality, p. 349, quoted in the same entry). The Internet Encyclopedia of Philosophy explains the formula this way: the many occasions that have already become "contribute their atomic reality to the becoming of a new occasion ('the many become one'). However, this occasion, upon fully realizing in its own atomic character, now contributes that reality to the previously achieved realities of the other occasions ('and increase by one')" ([IEP, Alfred North Whitehead](https://iep.utm.edu/whitehead/)).
 
 ### In the compendium
 
 - [[P001 — Build your life on becoming, not being]] — the becoming-first principle
 - [[P095 — Expect genuine novelty — the future is open]] — novelty with an open future
 - [[P153 — Participate in the world's becoming]] — participation in the advance
-- [[P092 — Live in a thick present]] — the present as process, not a point
+- [[P092 — Live in a thick present]]
 
 ## Related concepts
 

@@ -71,6 +71,20 @@ thresholds' page title names four disorders but opened sources cover the shared
 threshold + PTSD only — depression/anxiety/bipolar duration criteria uncovered
 (band flag set; ledger has details). All five items remain fast-track (graph
 degrees 10-14; earlier degree notes in ledgers corrected).
+QC round 8 + PARTIAL HAND-BACK PREP (2026-10-20, worker-w1c-3c9f2b81): items
+16-18 (Creative advance, Dialectical thinking, Embodied self) enriched and
+repaired per advisor round 8; Part-A citation repairs applied to items 12,
+14, 15. Worker-owned w1c items are all done except 'Acceptance alongside
+values-based action' (OPEN, namespace flag, supervisor disposition
+requested — flag reasons in the band state may include my own reopen
+operations; supervisor should verify before treating them as its own).
+VALIDATOR NOTE for supervisor: the staging-pattern check flags 'not just
+X, but' / 'not only X, but' connectors even inside verbatim quotation
+marks (two ERRs on Embodied self; the shared validator was not modified
+per advisor instruction — see sources/w1c/Embodied-self.md). Standing
+holds unchanged: items 1/3 namespace, pride granulars' §1a eligibility,
+ANS quotation-QC, pride quotation check, Clinical-thresholds scope gap.
+band_done remains false; hand-back is partial/QC-pending.
 
 
 Worker request (2026-10-20, worker-j9fpiyf): claiming the stale w1g baton (78 min stale, no in_progress item; 38/70 done). All principle bands are done or held fresh (p1w/p1x/p1y/p1z/p1za live), so per the claim rules I am taking the stale concept band w1g at the fast-track bar §1a. REQUEST: if you mint a new principle reserve, I will hand w1g back at a clean checkpoint and claim it. No verified yopmail identity exposed; session-stable name tied to this session's email.

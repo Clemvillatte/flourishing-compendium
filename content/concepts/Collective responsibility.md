@@ -13,7 +13,7 @@ This page reads collective responsibility through Iris Marion Young's social con
 
 The model contrasts with the liability model. Young specifies five distinguishing features:
 
-> "it does not isolate perpetrators; it judges background conditions of action; it is more forward looking than backward looking; its responsibility is essentially shared; and it can be discharged only through collective action." (same source, abstract)
+> "it does not isolate perpetrators; it judges background conditions of action; it is more forward looking than backward looking; its responsibility is essentially shared; and it can be discharged only through collective action." (Young, [Responsibility and Global Justice: A Social Connection Model](https://www.cambridge.org/core/journals/social-philosophy-and-policy/article/abs/responsibility-and-global-justice-a-social-connection-model/9308EE478561C7CE31E1F5A8F26CBE04), Social Philosophy and Policy, 2006, abstract)
 
 The responsibility it names is shared rather than vested in a collective agent. Marin, discussing Young's model: "Unlike collective responsibility, which belongs to collective agents, responsibility for structural injustice is shared: Each individual bears it personally, but together with others (109–10). Only by joining with others in collective action can one discharge it (111–2)." ([Marin, Structural Responsibility](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/0BD6D560DB5A68105A5B47438F03FE7F/S0003055424001072a.pdf/structural_responsibility.pdf), 2024, p. 1334 — Marin's own prose; the parenthetical page references are to Young's Responsibility for Justice)
 
