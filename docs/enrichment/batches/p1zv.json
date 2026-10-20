@@ -25,14 +25,13 @@
   "S101",
   "S104",
   "S118",
-  "S124",
   "S126",
   "S107",
   "S113",
   "S117",
   "S122"
  ],
- "in_progress": null,
+ "in_progress": "S124",
  "flagged": {
   "S039": "Reopened for QC: milestone QC repairs applied",
   "S043": "Reopened for QC: milestone QC repairs applied",
@@ -58,10 +57,11 @@
   "S107": "Reopened for QC: QC round 1: framing and Plain words repairs",
   "S113": "Reopened for QC: QC round 1: ledger correction, adoption grounding",
   "S117": "Reopened for QC: QC round 1: framing and Plain words repairs",
-  "S122": "Reopened for QC: QC round 1: quotation punctuation defect, review/writing conflation, Plain words outcome claims"
+  "S122": "Reopened for QC: QC round 1: quotation punctuation defect, review/writing conflation, Plain words outcome claims",
+  "S124": "Reopened for QC: QC round 1: IX.30 quotation does not match Long text (found during evidence recovery); Awe proposal fix"
  },
  "missing_concepts": [],
  "sources_checked": 13,
- "updated": "2026-10-20T16:47:09+00:00",
+ "updated": "2026-10-20T16:47:17+00:00",
  "band_done": false
 }
