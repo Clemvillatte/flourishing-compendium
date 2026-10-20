@@ -646,3 +646,12 @@ convention).
 - Linked principles read for the In-the-compendium clauses: A117 (pity definition, Rhetoric II.8), CO075 (psychology parallels list cites Empathy with Goetz et al. 2010; Zaki 2014), P129 (Hamington/Addams sympathetic knowledge).
 - Saturation: existing 6 Related lines kept; added Compassion, Sympathy, Perspective-taking, Empathic understanding (targets verified to exist; Compassion/Perspective-taking/Empathic understanding already link back — confirmed). Reciprocal proposals added (w1l.json rev 2): Sympathy <- Empathy (no backlink found), Altruism theory Batson empathy <- Empathy (no backlink; the page is built on the hypothesis). Inline candidates AF060/AF065 (principles naming empathy in titles/statements) NOT proposed: their in-body "empathy" occurrences sit inside quotations; statements are protected markup. E009's Husserl "empathy" mention is inside a quotation — not linked.
 - QC: validator ok (1 checked, 0 failed); no advisor QC (item 2; cadence = first + every 5th).
+
+## Equity theory (fast-track, genuineflourishing01, 2026-10-20)
+- Degree 5 at selection (principles A038/A052/A067/A096/A105) — fast-track eligible per §1a.
+- Source opened: Adams 1965 chapter scan (archive.org, ia600601.us.archive.org/.../InequityInSocialExchange_Adams_text.pdf), prompt-based extraction; definition blockquote verified against that fetch (p. 280 per the scan's pagination as extracted); "The values of outcomes and inputs are, of course, as perceived by Person" verified verbatim in the same fetch; six inequity-reduction means (alter inputs / alter outcomes / distort cognitively / leave the field / act on Other / change comparison) from the numbered list in the same extraction.
+- Development framing: "developed in the early 1960s" grounded in the search results (1963 article, 1965 fuller chapter) — kept general; no workplace-only overstatement.
+- In-the-compendium clause for A096 read from the principle file (NE V.3 proportion); comparison phrasing, no influence claim.
+- Seed line "perceived fairness of distribution predicts satisfaction (Adams, 1965)." replaced by the sourced body; dangling "- Hatfield et al., 1985" line kept as found; original Sources lines kept, Adams line hyperlinked.
+- Saturation: fast-track exemption; no reciprocal proposed (A096 already links back via Cited-in psychology).
+- QC: validator ok at fast-track profile; no advisor QC (item 3; cadence = first + every 5th).
