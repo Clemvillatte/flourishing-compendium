@@ -12,17 +12,25 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 130** — Leave vengeance to heaven's net
 
-Heaven's net is vast: its mesh is wide, yet nothing slips through. Don't avenge; don't play executioner; let consequences do their slow work.
+Chapter 73 of the Daodejing pictures Heaven as prevailing without contention and uses a net to describe its reach. Chapter 74 warns against taking the place of the one who inflicts death, comparing this to an unskilled person taking over a carpenter's work ([Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm)).
 
-(DDJ 73, 74.)
+> The meshes of the net of Heaven are large; far apart, but letting nothing escape.
 
-**Plain words** You don't have to be the one who punishes. Step back from vengeance and payback-engineering — not from protection or accountability — and let consequences unfold in their own time. Your job is the boundary, not the sentence.
+(Daodejing 73, [Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm).)
 
-*For example:* The colleague who undermined you: document what happened, protect your work, and use the accountability channels that exist — skip the revenge campaign. Consequences are not your job.
+The compendium takes these passages as a reason to question the wish to punish someone personally. That application does not require believing that every wrong will eventually be exposed or corrected. Reporting harm and seeking protection can remain necessary.
+
+**Plain words** Ask what would protect you or address the harm. If a proposed action serves only to make the other person suffer, you can leave that action undone.
+
+*For example:* Imagine a colleague presenting your work as their own. You keep the records and ask for a correction through the relevant workplace process. You decline to spread an unrelated, embarrassing story about them.
+
+## Sources
+
+- [Daodejing, chapters 73-74, translated by James Legge, Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm): Heaven's net and the warning against taking over punishment.
 
 ## Psychology parallels
 
-- **[[Revenge|Revenge research]]**, avengers feel worse, not better, after retaliating (Carlsmith, Wilson and Gilbert, 2008)
+- **[[Revenge|Revenge research]]** (Carlsmith, Wilson and Gilbert, 2008)
 - **[[Justice sensitivity|Justice sensitivity and distress]]**
 
 ## Philosophy parallels

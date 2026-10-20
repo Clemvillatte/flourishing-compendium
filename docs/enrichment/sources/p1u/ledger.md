@@ -44,3 +44,19 @@ Claim and state transitions are pushed separately for interruption safety.
 - Removed the unverified satisfaction mechanism from the parallels tail.
   Inherited Oliver, Cialdini and Kant associations remain unverified;
   existing wikilinks are preserved, not certified.
+- Saturation: both linked concepts already cite D121. Mention search also
+  found D058 using chapter 63; a cross-principle proposal is queued.
+
+## D130: Leave vengeance to heaven's net (2026-10-20)
+
+- Opened https://www.gutenberg.org/files/216/216-h/216-h.htm ,
+  Daodejing 73.2-3 and 74.2, translated by James Legge.
+- Net quotation is the continuous, verbatim sentence in 73.3. Source
+  paraphrase attributes the contention/net claims to the text, rather
+  than making a verified prediction about universal eventual justice.
+- Protection, reporting and the imagined workplace example are editorial
+  application, distinguished from the source's execution/punishment context.
+- Removed the seed's unverified empirical claim about revenge outcomes.
+  Inherited Carlsmith et al., justice sensitivity, Romans and Kant
+  parallels remain unverified. Protected reflections still imply eventual
+  exposure; not edited or certified.
