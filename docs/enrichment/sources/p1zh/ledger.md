@@ -50,3 +50,6 @@ No advisor tool available; QC is self-QC only.
 
 ## SO027 Choose communities that align with your values
 - Opened: Aristotle NE II (Ross, MIT) text; Christakis & Fowler 2007 PubMed abstract. Confucius (Analects 4.1) page blocked (ctext bot wall; Wikisource 429), so not used. Kramer 2014, Coviello 2014, Tajfel & Turner, Merton not opened. Obesity study labelled as associational and off-topic (weight).
+
+## SO047 Use intergroup contact as a prejudice-reduction tool
+- Opened: Pettigrew & Tropp 2006 PubMed abstract (via search result excerpt of the PubMed page); quotes verbatim. Original 'most reliable tool we have' removed (unsupported); 'conditions matter' qualified by the abstract's 'not essential'. Dixon 2010, Saguy 2011, Wright 1997 not opened.

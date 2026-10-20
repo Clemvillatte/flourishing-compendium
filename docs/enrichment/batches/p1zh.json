@@ -23,7 +23,8 @@
   "SO015",
   "SO019",
   "SO026",
-  "SO027"
+  "SO027",
+  "SO047"
  ],
  "in_progress": null,
  "flagged": {
@@ -33,5 +34,5 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T10:20:20+00:00"
+ "updated": "2026-10-20T10:20:48+00:00"
 }
