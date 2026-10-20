@@ -67,5 +67,8 @@
  "missing_concepts": [],
  "sources_checked": 0,
  "updated": "2026-10-20T03:54:11+00:00",
- "band_done": true
+ "band_done": true,
+ "notes": {
+  "B021 death-recovery check": "2026-10-20: owner reported the agent working on B021 died. Verified nothing lost: B021 (p1i item) content last committed f9ce31ef (2026-10-19 QC-repair batch, milestone 15); p1s no-edit light-check fcb33b61 + cross-band incident correction 5328d488 (2026-10-20 02:20-02:25, quotes re-verified, no action owed per supervisor disposition); p1s band closed cleanly 30/30 at 03:54:11Z (5bc8f460, baton released, in_progress None). B021 validates clean at HEAD. No in-flight work, no unpushed commits; nothing owed to the next agents."
+ }
 }
