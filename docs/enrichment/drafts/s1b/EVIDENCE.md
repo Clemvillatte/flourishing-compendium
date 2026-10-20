@@ -8,7 +8,7 @@ The owner explicitly instructed this session to keep going in response to the pr
 
 - **Daoism, D107:** [The Pheasant That Does Not Ask for a Coop](s1b-001.md), a compact Zhuangzi comparison about provision that does not suit the creature receiving it.
 - **Buddhism, B088:** [The Cowherd After the Harvest](s1b-002.md), a canonical retrospective account linking repeated mental pursuit with inclination and contrasting two forms of watchfulness.
-- **Pragmatism/process, P196:** [The Four Clock Strokes Bergson Had Not Counted](candidate-P196.md), a philosophical illustration of an initially uncounted impression guiding numerical reconstruction.
+- **Pragmatism/process, P196:** [The Four Clock Strokes Bergson Had Not Counted](s1b-003.md), a philosophical illustration of an initially uncounted impression guiding numerical reconstruction.
 - **Coordination:** [Scope request, save checkpoints and questions for the supervisor](ROUTE.md).
 
 All three files contain a principle/angle, evidence metadata, a coverage matrix, a sourced retelling, an exact quotation, interpretation limits and QC notes. The lane state records each actual activation and readiness transition; no ST number is assigned by the storyteller.
@@ -17,7 +17,7 @@ All three files contain a principle/angle, evidence metadata, a coverage matrix,
 
 All three candidates pass `story_check.py --context draft`. The isolated stories-tool suite reports 47 passed and 0 failed; no content files, registry entries, batons, queues or shared tools were changed.
 
-Independent first-candidate review and re-review returned substantive PASS for B088 after clarifications. Milestone review returned substantive PASS for D107 and verified P196's episode, quotations and interpretation, requesting two corrections that were applied: distinguish the initially uncounted impression from the numbered reconstruction, and omit the unclear scan's edition year. These verdicts concern source fidelity, not central scope or ready authorization. The known MD032/template-checker incompatibility is documented in ROUTE.md; no full Markdown-lint pass is claimed.
+Independent first-candidate review and re-review returned substantive PASS for B088 after clarifications. Milestone review returned substantive PASS for D107; P196 also received substantive PASS on re-review after its reconstruction wording and unclear scan-year corrections. The owner subsequently approved continuation and lane activation. The known MD032/template-checker incompatibility is documented in ROUTE.md; no full Markdown-lint pass is claimed.
 
 ## Access events
 

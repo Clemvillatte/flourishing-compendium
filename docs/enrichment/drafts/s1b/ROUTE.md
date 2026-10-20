@@ -20,7 +20,7 @@ Reconcile the owner-approved scope on STORIES-TASKBOARD.md. Ready lane drafts wi
 
 - `s1b-002.md` (B088): opened complete MN 19; exact quote; coverage matrix; first-candidate independent QC and substantive-PASS re-review completed.
 - `s1b-001.md` (D107): opened Legge's chapter 3 §4; short comparison is not expanded into an invented capture or escape; translation-specific numbers preserved; substantive independent-QC PASS.
-- `candidate-P196.md`: opened the chapter II clock passage in two carriers and the separate intuition argument; near-overlap with ST120 disclosed; milestone QC verified sources, with its two requested precision/bibliography corrections applied.
+- `s1b-003.md` (P196): opened the chapter II clock passage in two carriers and the separate intuition argument; near-overlap with ST120 disclosed; milestone QC verified sources and re-review returned substantive PASS after its two precision/bibliography corrections.
 - `EVIDENCE.md`: access events, rejected duplicates, cross-text cautions and workflow boundary.
 - The first candidate and evidence were saved at `aea430c33`; the Daoist candidate at `fd3b9e62b`; the B088 revisions and Bergson candidate at `d197dc290`. Each save was verified against origin/main. These are research checkpoints, not story-state transitions.
 

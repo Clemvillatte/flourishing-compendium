@@ -52,15 +52,20 @@
    ]
   },
   "s1b-003": {
-   "status": "researching",
+   "status": "drafting",
    "angle": "P196: initially uncounted four-strokes impression guides numbered reconstruction; distinguish moving from conceptual eternity",
    "history": [
     {
      "t": "2026-10-20T14:32:59+00:00",
      "to": "researching"
+    },
+    {
+     "t": "2026-10-20T14:33:46+00:00",
+     "to": "drafting",
+     "note": "Activated source-verified four-strokes episode; P196 substantive independent QC PASS after reconstruction/year fixes"
     }
    ]
   }
  },
- "updated": "2026-10-20T14:32:59+00:00"
+ "updated": "2026-10-20T14:33:46+00:00"
 }
