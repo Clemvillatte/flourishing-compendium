@@ -22,7 +22,7 @@ The review traces the label to eudaimonism: "It lies instead in the actualizatio
 
 - [[P014]]
 - [[Intrinsic motivation]]
-- [[Autonomous motivation]] — the 2001 review reports autonomous activity yielding both happiness and vitality
+- [[Autonomous motivation]] — the review summarizes a study in which succeeding at an activity while feeling autonomous resulted in both happiness and vitality
 
 ## Sources
 

@@ -33,7 +33,6 @@ Within extrinsic motivation the theory grades autonomy: "extrinsic motivation ca
 [[K369 — The autonomy statement]]
 ## Cited in philosophy parallels
 
-autonomous motivation (intrinsic, identified) is more sustainable than controlled (external, introjected) (Deci & Ryan, 2000; Ryan & Deci, 2017).
 - intrinsic, identified
 - Deci & Ryan, 2000
 - Ryan & Deci, 2017

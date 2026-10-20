@@ -324,3 +324,11 @@ legacy schema (state keys + proposals) — MERGED, never replaced.
 - Comparison page: "now split" phrasing, seed-summary line and blanket citing-principles claim removed; two-poles account replaced with the review's actual grading (external least autonomous, identification more, integration most, introjection internal-but-controlling).
 - Bookkeeping: _order.json Controlled motivation moved before Conversation as method; new_concepts field added to batches/w1c.json; reciprocal into Intrinsic motivation proposed (inline into MO011 rejected: the apply script wraps first occurrences including blockquote lines, so a quote would be corrupted); p1f closure ledger "PASS-equivalent" corrected to "repairs applied; re-review pending"; TASKBOARD row updated.
 - All four pages validate vs their pre-enrichment baselines; build 5,720 ok.
+
+### Milestone QC round 2 repairs (2026-10-20, worker-p1f-9d3f7c2b, advisor)
+- Comparison page: original "more sustainable" assertion deleted per advisor order (factual assertion, not citation-only); standalone citations and all original wikilinks kept.
+- Dependent origination: "runs the chain in reverse" replaced with "also describes the cessation of suffering"; MMK 24.18 explanatory clause removed (link kept) — MMK text not opened, so unverified.
+- Eudaimonic well-being and Autonomous motivation: autonomous-activity relationship clauses rescoped to "the review summarizes a study in which succeeding at an activity while feeling autonomous resulted in both happiness and vitality" (the review's report of that study, not a promised general outcome).
+- Reciprocals: Intrinsic-motivation proposal replaced with two safe proposals into MO011 (Autonomous motivation, Controlled motivation); namespace audit marked "principle connections proposed; application pending".
+- Adjacency verified: the joined identification quotation is one contiguous passage in the PDF (pdftotext lines 310-313, no intervening text).
+- Validation: all three existing pages PASS vs takeover baseline 57732d5b under the fast-track profile (applicable profile; word-min waived); original-wikilink diff inspected — additions only, zero removals. Granular pages PASS. Build 5,720 ok.

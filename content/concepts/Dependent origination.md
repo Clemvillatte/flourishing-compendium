@@ -13,7 +13,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 >
 > (SN 12.1, Paṭiccasamuppādasutta, tr. Bhikkhu Sujato, [SuttaCentral](https://suttacentral.net/sn12.1/en/sujato))
 
-The same sutta runs the chain in reverse, link by link, and closes with the cessation conclusion: "That is how this entire mass of suffering ceases." SN 12.1 thus sets out conditions for the arising of suffering and conditions for its cessation.
+The same sutta also describes the cessation of suffering: "That is how this entire mass of suffering ceases." SN 12.1 thus sets out conditions for the arising of suffering and conditions for its cessation.
 
 ## Facets
 
@@ -21,7 +21,7 @@ The same sutta runs the chain in reverse, link by link, and closes with the cess
 
 ## Related concepts
 
-- [[Buddhist emptiness of inherent nature]] — the co-arising MMK 24.18 identifies with emptiness
+- [[Buddhist emptiness of inherent nature]]
 - [[Right view]]
 - [[Shunyata]]
 

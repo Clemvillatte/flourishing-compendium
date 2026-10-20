@@ -19,7 +19,7 @@ The theory holds that "extrinsic motivation can vary greatly in the degree to wh
 
 - [[Autonomous versus controlled motivation]] — the comparison page pairing this concept with [[Controlled motivation]]
 - [[Intrinsic motivation]] — the inherent-interest form autonomous motivation includes
-- [[Eudaimonic well-being]] — the 2001 review pairs autonomous activity with vitality, its eudaimonic outcome
+- [[Eudaimonic well-being]] — the review summarizes a study in which succeeding at an activity while feeling autonomous resulted in both happiness and vitality
 
 ## Sources
 
