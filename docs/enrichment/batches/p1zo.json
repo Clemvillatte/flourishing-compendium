@@ -9,9 +9,10 @@
   "SE074",
   "SE075",
   "SE077",
-  "SE079"
+  "SE079",
+  "SO010"
  ],
- "in_progress": "SO010",
+ "in_progress": null,
  "flagged": {
   "SE037": "inherited parallels not certified: Waterman 1993 outcome claim + Apology 38a parallels kept as found; see sources/p1zo/SE037.md",
   "SE045": "QC history: milestone advisor rounds 2-3 repairs applied and re-validated. D087 near-duplicate: supervisor/owner disposition needed. Inherited DDJ 13 parallel unverified. See sources/p1zo/SE045.md",
@@ -21,10 +22,11 @@
   "SE074": "inherited parallels not certified: Happé & Frith 2006 interoception/self-concept specifics + Singer 1998 attribution kept as found; see sources/p1zo/SE074.md",
   "SE075": "inherited parallels not certified: Erikson ego integrity / McAdams 2001 / Torges 2005 / Marcus Aurelius claims kept as found; see sources/p1zo/SE075.md",
   "SE077": "inherited parallels not certified: Zimmerman 2002 / Vleioras & Bosma 2005 / Luyckx 2008 claims kept as found; H&T-to-self-development extension is the compendium's own, noted in ledger; see sources/p1zo/SE077.md",
-  "SE079": "inherited parallels not certified: Ryan & Deci 2001 / Seligman 2011 / Aristotle eudaimonia claims kept as found; raft-to-self application is the compendium's own extension, noted in ledger; see sources/p1zo/SE079.md"
+  "SE079": "inherited parallels not certified: Ryan & Deci 2001 / Seligman 2011 / Aristotle eudaimonia claims kept as found; raft-to-self application is the compendium's own extension, noted in ledger; see sources/p1zo/SE079.md",
+  "SO010": "inherited parallels not certified: Wandersman & Florin 2003 / Biglan 2012 / Castro 2010 / Gone 2011 / Mutamba 2021 / Ostrom 1990 claims kept as found; see sources/p1zo/SO010.md"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:25:28+00:00",
+ "updated": "2026-10-20T11:26:18+00:00",
  "band_done": false
 }
