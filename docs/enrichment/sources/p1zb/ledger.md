@@ -616,3 +616,41 @@ never-band-assigned work; p1g state had them flagged-only, absent from p1g's man
   passage — reciprocal proposal filed (proposals rev. 8). Buddhist emptiness of inherent
   nature also lists S099 — no action (emptiness is a different doctrine; the principle's
   Impermanence parallel already covers the Buddhist ground).
+
+## Round 6 QC repairs (advisor, items 26-30: S079 S087 S092 S097 S099)
+- Marcus locators corrected (verified against the raw text's own book headings and section
+  markers): S097 greedy-of-credit and immortal-memory passages printed as Bk IV §16 (was
+  wrongly cited VII §16); hunt-for-fame as Bk VIII §42 (was X §42); philosophy conclusion as
+  Bk II §15 (was II §17). S099 "Whatsoever dieth and falleth" as Bk VIII §16 (was IX §16);
+  death-as-resolution as Bk II §15 (was II §17). S092 Bk V §17 and S099 Bk IV §3 were
+  correct. S097's "Ibid." after the immortal-memory quotation replaced with the explicit
+  locator (Bk IV §16 — same printed section as the greedy-of-credit passage).
+- Scoping repairs: S079 plain words reframed as Seneca's concern about habits picked up from
+  company (no deterministic osmosis mechanism); "not merely a hunt for mentors". S087
+  "not rest or leisure" distinction removed; invented exchange rate ("a day of attention is
+  worth a week") removed — plain words now about spending without buying; poet's line and
+  Seneca's addition distinguished. S092 benefit made conditional via the opened continuation
+  ("In my opinion no man has had a more profitable difficulty... if you choose to make use of
+  it as an athlete would deal with a young antagonist" — verified in source and file);
+  "Marcus gives the mechanism" replaced with "proposes a way of framing obstruction". S099
+  plain words rewritten as Marcus's philosophical exercise (river-tree-dinner physical
+  history removed).
+- Mention checks run for all five items (company/friend; waste/shortness; adversity/obstacle;
+  posthumous/legacy; impermanence/change): conclusions apply to the displayed candidates
+  (outputs truncated) — no unlinked concept-page mentions of the five principles' claims
+  warranting new proposals; surfaced pages are other bands' principles and references.
+- Ledger typo fixed: the S079 entry said Community psychology theory and Social learning
+  theory (Bandura) list "S077" — they list S079.
+- S079 reciprocity corrected: the principle's philosophy parallel is [[Community|Community
+  of inquiry]], whose link target resolves to the Community page, not The community of
+  inquiry — so that link is NOT mutual; The community of inquiry's S079 listing remains
+  one-directional (no action; the parallel label covers the ground thematically).
+- Verification reporting corrected: S087's mechanical check was 5/6 plus separate
+  checks after the boundary repair (not a single 6/6 run); an S079 mechanical comparison was
+  not previously run and has now been run (2/2 quotes verified in both the Wikisource API
+  text and the file); S092's added continuation quote verified in source and file.
+- Translator wording: "translator not established from the material inspected (catalog page
+  and text header state none)" — the stronger "no credit anywhere in the edition" claim is
+  withdrawn.
+- Proposals revision 9: S097 inline why and S099 reciprocal why rewritten as substantive
+  relationship clauses; prior audit wording moved to notes.

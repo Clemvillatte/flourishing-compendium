@@ -18,7 +18,7 @@ So be deliberate about your associations: the choice of company is a choice abou
 
 (Seneca, Letters 7.)
 
-**Plain words** You become like the people you spend time with — not through argument, but through osmosis: their pace becomes your pace, their complaints your complaints. Seneca's rule is two-sided: pick people who improve you, and be the person someone else is glad they picked. A mutual apprenticeship, not a hunt for mentors.
+**Plain words** Seneca's worry is about habits picked up without noticing: spend enough time with the luxurious and you soften; with the slanderous, some rust rubs off. His rule is two-sided — pick people who improve you, and be the person someone else is glad they picked — a mutual apprenticeship, not merely a hunt for mentors.
 
 *For example:* Spending less time with the friend who always complains, and more with the one who gets you thinking.
 

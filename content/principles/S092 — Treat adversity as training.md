@@ -14,13 +14,13 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 
 The Stoic image is athletic. Epictetus: "It is circumstances (difficulties) which show what men are. Therefore when a difficulty falls upon you, remember that God, like a trainer of wrestlers, has matched you with a rough young man. For what purpose? you may say. Why, that you may become an Olympic conqueror; but it is not accomplished without sweat." (Epictetus, Discourses, "How we should struggle with circumstances", tr. Long, https://www.gutenberg.org/cache/epub/10661/pg10661-images.html.)
 
-Marcus gives the mechanism: the mind converts impediments into material. "For by these the mind doth turn and convert any impediment whatsoever, to be her aim and purpose. So that what before was the impediment, is now the principal object of her working; and that which before was in her way, is now her readiest way." (Marcus Aurelius, Meditations, Project Gutenberg ebook 2680; printed as Bk V §17.)
+Marcus proposes a way of framing obstruction. "For by these the mind doth turn and convert any impediment whatsoever, to be her aim and purpose. So that what before was the impediment, is now the principal object of her working; and that which before was in her way, is now her readiest way." (Marcus Aurelius, Meditations, Project Gutenberg ebook 2680; printed as Bk V §17.)
 
-So adversity is not an obstacle to flourishing but the material of it; the person who has never faced difficulty has never tested their virtue. When hardship comes, ask: what virtue does this situation call for?
+The benefit is conditional, as the continuation of Epictetus's passage makes plain: "In my opinion no man has had a more profitable difficulty than you have had, if you choose to make use of it as an athlete would deal with a young antagonist." Adversity is not automatically virtue-building; it is the material, if you choose to make use of it. When hardship comes, ask: what virtue does this situation call for?
 
 (Disc., "How we should struggle with circumstances"; Med., Gutenberg 2680.)
 
-**Plain words** A gym with no weights builds nothing. The hard thing in front of you is the weight: it looks like it is blocking your training, but it is your training. The Stoic move is not pretending it does not hurt; it is asking what skill this repetition is for.
+**Plain words** A gym with no weights builds nothing. The hard thing in front of you is the weight: it looks like it is blocking your training, but it can be your training — if you use it the way an athlete uses the antagonist. The Stoic move is not pretending it does not hurt; it is asking what skill this repetition is for.
 
 *For example:* A failed launch becomes the occasion to practise honesty with your team and customers.
 

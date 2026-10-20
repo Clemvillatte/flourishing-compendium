@@ -14,11 +14,11 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 
 Seneca's answer to the complaint that life is short: "It is not that we have a short space of time, but that we waste much of it." (Seneca, On the Shortness of Life 1, tr. Basore, https://en.wikisource.org/wiki/On_the_shortness_of_life/Chapter_I.) The life we receive "is not short, but we make it so, nor do we have any lack of it, but are wasteful of it" (Ibid.) — and so, "life, if you know how to use it, is long." (On the Shortness of Life 2.)
 
-What counts as wasting it is not rest or leisure but life spent on no good end: "one man is possessed by an avarice that is insatiable, another by a toilsome devotion to tasks that are useless; one man is besotted with wine, another is paralyzed by sloth" — and so on through ambition that hangs on others' decisions, servile attendance on the great, and the pursuit of other men's fortunes or complaint about one's own (2). The poet's line: "The part of life we really live is small"; "For all the rest of existence is not life, but merely time." (2.)
+His catalogue of waste: "one man is possessed by an avarice that is insatiable, another by a toilsome devotion to tasks that are useless; one man is besotted with wine, another is paralyzed by sloth" — and so on through ambition that hangs on others' decisions, servile attendance on the great, and the pursuit of other men's fortunes or complaint about one's own (2). The poet's line: "The part of life we really live is small"; to it Seneca adds, "For all the rest of existence is not life, but merely time." (2.)
 
 (Seneca, On the Shortness of Life 1, 2.)
 
-**Plain words** The length of a life is not the number of years but the number of hours you were actually there for. Distraction spends the day without buying anything; a day of attention is worth a week of it. Audit your time like money — where it went, what it bought, and whether the errand was yours or somebody else's.
+**Plain words** Seneca's complaint is not that we are busy but that we spend without buying anything: days on other men's errands, evenings surrendered without a decision. Audit your time like money — where it went, what it bought, and whether the errand was yours or somebody else's.
 
 *For example:* Noticing you've spent forty minutes on a stranger's holiday photos and closing the app.
 

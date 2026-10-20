@@ -12,9 +12,9 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 221** — Recognise that change is the nature of the universe
 
-Marcus compresses the whole view into a line: "This world is mere change, and this life, opinion." (Marcus Aurelius, Meditations, Project Gutenberg ebook 2680; printed as Bk IV §3.) Nothing falls out of the world by changing: "Whatsoever dieth and falleth, however and wheresoever it die and fall, it cannot fall out of the world, here it have its abode and change, here also shall it have its dissolution into its proper elements. The same are the world's elements, and the elements of which thou dost consist. And they when they are changed, they murmur not; why shouldest thou?" (Printed as Bk IX §16.)
+Marcus compresses the whole view into a line: "This world is mere change, and this life, opinion." (Marcus Aurelius, Meditations, Project Gutenberg ebook 2680; printed as Bk IV §3.) Nothing falls out of the world by changing: "Whatsoever dieth and falleth, however and wheresoever it die and fall, it cannot fall out of the world, here it have its abode and change, here also shall it have its dissolution into its proper elements. The same are the world's elements, and the elements of which thou dost consist. And they when they are changed, they murmur not; why shouldest thou?" (Printed as Bk VIII §16.)
 
-Death is one of the changes, and a natural one: "to expect death, as being nothing else but the resolution of those elements, of which every creature is composed. And if the elements themselves suffer nothing by this their perpetual conversion of one into another, that dissolution, and alteration, which is so common unto all, why should it be feared by any? Is not this according to nature? But nothing that is according to nature can be evil." (Printed as Bk II §17.) The Stoic does not resist change but accepts it as the fundamental character of reality.
+Death is one of the changes, and a natural one: "to expect death, as being nothing else but the resolution of those elements, of which every creature is composed. And if the elements themselves suffer nothing by this their perpetual conversion of one into another, that dissolution, and alteration, which is so common unto all, why should it be feared by any? Is not this according to nature? But nothing that is according to nature can be evil." (Printed as Bk II §15.) The Stoic does not resist change but accepts it as the fundamental character of reality.
 
 (Med., Gutenberg 2680.)
 
@@ -43,4 +43,4 @@ Is acceptance of change always wise, or are there changes we should refuse? Give
 -->
 
 ## Sources
-- Marcus Aurelius, Meditations, Project Gutenberg ebook 2680 — opened and verified verbatim: https://www.gutenberg.org/cache/epub/2680/pg2680.txt ("mere change... life, opinion" printed as Bk IV §3; "Whatsoever dieth and falleth" as Bk IX §16; death-as-resolution-of-elements as Bk II §17)
+- Marcus Aurelius, Meditations, Project Gutenberg ebook 2680 — opened and verified verbatim: https://www.gutenberg.org/cache/epub/2680/pg2680.txt ("mere change... life, opinion" printed as Bk IV §3; "Whatsoever dieth and falleth" as Bk VIII §16; death-as-resolution-of-elements as Bk II §15)

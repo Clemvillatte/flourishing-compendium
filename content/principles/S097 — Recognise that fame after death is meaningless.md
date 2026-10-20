@@ -12,9 +12,9 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 219** — Recognise that fame after death is meaningless
 
-Marcus tells himself that the fame of the dead is as worthless as the fame of the living: "He who is greedy of credit and reputation after his death, doth not consider, that they themselves by whom he is remembered, shall soon after every one of them be dead; and they likewise that succeed those; until at last all memory, which hitherto by the succession of men admiring and soon after dying hath had its course, be quite extinct." (Marcus Aurelius, Meditations, Project Gutenberg ebook 2680; printed as Bk VII §16.) The same argument from the other side: "They that rather hunt for fame after death, do not consider, that those men that shall be hereafter, will be even such, as these whom now they can so hardly bear with. And besides they also will be mortal men." (Printed as Bk X §42.)
+Marcus tells himself that the fame of the dead is as worthless as the fame of the living: "He who is greedy of credit and reputation after his death, doth not consider, that they themselves by whom he is remembered, shall soon after every one of them be dead; and they likewise that succeed those; until at last all memory, which hitherto by the succession of men admiring and soon after dying hath had its course, be quite extinct." (Marcus Aurelius, Meditations, Project Gutenberg ebook 2680; printed as Bk IV §16.) The same argument from the other side: "They that rather hunt for fame after death, do not consider, that those men that shall be hereafter, will be even such, as these whom now they can so hardly bear with. And besides they also will be mortal men." (Printed as Bk VIII §42.)
 
-And even if the memory lasted forever: "suppose that both they that shall remember thee, and thy memory with them should be immortal, what is that to thee? I will not say to thee after thou art dead; but even to thee living, what is thy praise?" (Ibid.) His conclusion: "Fame after life is no better than oblivion. What is it then that will adhere and follow? Only one thing, philosophy." (Printed as Bk II §17.) Seek virtue, not reputation.
+And even if the memory lasted forever: "suppose that both they that shall remember thee, and thy memory with them should be immortal, what is that to thee? I will not say to thee after thou art dead; but even to thee living, what is thy praise?" (Printed as Bk IV §16.) His conclusion: "Fame after life is no better than oblivion. What is it then that will adhere and follow? Only one thing, philosophy." (Printed as Bk II §15.) Seek virtue, not reputation.
 
 (Med., Gutenberg 2680.)
 
@@ -41,4 +41,4 @@ Whose memory of you matters, and why?
 -->
 
 ## Sources
-- Marcus Aurelius, Meditations, Project Gutenberg ebook 2680 — opened and verified verbatim: https://www.gutenberg.org/cache/epub/2680/pg2680.txt (greedy-of-credit passage printed as Bk VII §16; hunt-for-fame passage as Bk X §42; immortal-memory passage within Bk VII §16; philosophy conclusion as Bk II §17)
+- Marcus Aurelius, Meditations, Project Gutenberg ebook 2680 — opened and verified verbatim: https://www.gutenberg.org/cache/epub/2680/pg2680.txt (greedy-of-credit and immortal-memory passages printed as Bk IV §16; hunt-for-fame passage as Bk VIII §42; philosophy conclusion as Bk II §15)

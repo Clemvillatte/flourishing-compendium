@@ -1,6 +1,6 @@
 {
  "batch": "p1zb",
- "revision": 8,
+ "revision": 9,
  "records": [
   {
    "action": "reciprocal",
@@ -42,8 +42,8 @@
    "into": "S097",
    "concept": "The having mode",
    "phrase": "The having versus being mode",
-   "why": "The principle's philosophy parallels name Fromm's having/being distinction in plain text without linking it.",
-   "notes": "Proposed by worker-p1zb-9b3f2e68 during S097 saturation check; exact phrase matches the parallels label."
+   "why": "Fromm's having/being distinction explains the vanity this principle argues against: reputation is something to have, virtue a way of being.",
+   "notes": "Proposed by worker-p1zb-9b3f2e68 during S097 saturation check; exact phrase matches the parallels label. [round 6: why rewritten as public prose]"
   },
   {
    "action": "reciprocal",
@@ -56,8 +56,8 @@
    "action": "reciprocal",
    "into": "S099",
    "link": "Death acceptance",
-   "why": "Accepting death as a natural change is the core of this principle's closing passage.",
-   "notes": "Proposed by worker-p1zb-9b3f2e68 during S099 saturation check; the concept page already lists S099; the principle's psychology parallels lack the return link."
+   "why": "Death acceptance names the willingness to meet death as natural change rather than evil, which is what this principle's Marcus passage argues.",
+   "notes": "Proposed by worker-p1zb-9b3f2e68 during S099 saturation check; the concept page already lists S099; the principle's psychology parallels lack the return link. [round 6: why rewritten as public prose]"
   }
  ]
 }
