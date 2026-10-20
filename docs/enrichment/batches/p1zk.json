@@ -3,9 +3,9 @@
  "done": [],
  "in_progress": "BE037",
  "flagged": {
-  "BE037": "QC round 1 repairs applied, advisor round 2 pending"
+  "BE037": "QC rounds 1-2 repairs applied, round-3 confirmation pending"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T09:50:03+00:00"
+ "updated": "2026-10-20T09:52:46+00:00"
 }

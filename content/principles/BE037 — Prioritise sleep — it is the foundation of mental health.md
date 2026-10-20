@@ -12,21 +12,22 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BE — Overt Be
 ---
 > **Principle 37** — Prioritise sleep: it is the foundation of mental health
 
-Brain imaging gives the principle a mechanism. One night of sleep deprivation makes the amygdala about 60% more reactive to negative images, and that increase comes with reduced functional connectivity to the medial prefrontal regions that exert top-down regulatory control over it.
+Goldstein and Walker's review reports this finding from Yoo and colleagues' experiment: one night of sleep deprivation makes the amygdala about 60% more reactive to negative images, and that increase is paired with a reduction in functional connectivity with the medial prefrontal regions that exert top-down regulatory control of the amygdala.
 
 Sleep is also a treatment target. In the OASIS trial, 3,755 university students with insomnia were randomly assigned to digital cognitive behavioural therapy for insomnia or usual care. At ten weeks the treatment group had less insomnia and small reductions in paranoia and hallucinatory experiences; the treatment also led to improvements in depression and anxiety, and these were maintained over time. The authors caution that generalisation beyond a student population requires testing.
 
 > "one night of sleep deprivation triggers a 60% amplification in reactivity of the amygdala in response to emotionally negative pictures, relative to a normal night of sleep" (Goldstein & Walker 2014, [Annual Review of Clinical Psychology](https://pmc.ncbi.nlm.nih.gov/articles/PMC4286245/), Emotional Reactivity section, reporting Yoo et al. 2007)
 
 **Plain words**
-The principle says mood and self-control sit on top of sleep, so when they wobble, sleep is worth ruling out early. Two findings back that order of checking: one night without sleep measurably changes how the brain responds to negative images, and treating insomnia improved depression and anxiety in a large trial. Neither finding says every bad week is a sleep problem; they say sleep is one of the first and easiest things to check.
+Tell someone helping you with your mental health about nights spent awake as well as difficulties during the day. The student trial shows why sleep belongs in that conversation: treatment aimed at insomnia also helped with some other symptoms.
 
-*For example:* Keep a two-week record: bedtime, wake time, and a one-to-ten mood rating each evening. If the mood line dips after the short nights, the next experiment is an earlier lights-out, and the same record shows whether it worked.
+*For example:* In an imagined example, a student brings notes about nights spent awake to an appointment and asks about insomnia treatment alongside help for anxiety.
 
 ## Sources
 
 - [Goldstein & Walker, "The Role of Sleep in Emotional Brain Function," Annual Review of Clinical Psychology (2014)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4286245/) — Emotional Reactivity section, amygdala reactivity and mPFC connectivity sentences, reporting Yoo et al. 2007
 - [Freeman et al., "The effects of improving sleep on mental health (OASIS)," Lancet Psychiatry (2017)](https://pubmed.ncbi.nlm.nih.gov/28888927/) — abstract; depression and anxiety sentence verified in the [opened full text](https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(17)30328-0/fulltext)
+- [AASM/SRS consensus, "Recommended Amount of Sleep for a Healthy Adult" (2015)](https://aasm.org/resources/pdf/pressroom/adult-sleep-duration-consensus.pdf) — duration recommendation for the Practice section
 
 ## Psychology parallels
 
@@ -42,4 +43,4 @@ The principle says mood and self-control sit on top of sleep, so when they wobbl
 
 ## Practice
 
-- Prioritise sleep: 7-9 hours for adults, consistent schedule, dark and cool bedroom, no screens before bed. Sleep is the foundation, not a luxury.
+- Prioritise sleep: the American Academy of Sleep Medicine and Sleep Research Society consensus recommends adults sleep 7 or more hours per night on a regular basis to promote optimal health ([AASM/SRS 2015](https://aasm.org/resources/pdf/pressroom/adult-sleep-duration-consensus.pdf)). Consistent schedule, dark and cool bedroom, no screens before bed are standard sleep-hygiene guidance ([[Sleep hygiene (CBT-I)]]). Sleep is the foundation, not a luxury.

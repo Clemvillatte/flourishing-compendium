@@ -14,14 +14,14 @@
    "into": "Sleep hygiene (CBT-I)",
    "link": "BE037",
    "why": "the behavioural toolkit that protects the foundation this page prioritises",
-   "notes": "concept page already cites BE037 in its Cited in list; reciprocal adds the concept to BE037's Related concepts."
+   "notes": "concept page already cites BE037 in its Cited in list; the apply inserts a BE037 line into the concept's Related concepts section (verified read-only in enrich_apply.py: reciprocal writes only the into-file)."
   },
   {
    "action": "reciprocal",
    "into": "Affect labeling",
    "link": "BE037",
-   "why": "both act on the amygdala: naming a feeling turns its response down, lost sleep turns it up",
-   "notes": "Affect labeling concept records Lieberman's amygdala-reduction finding; BE037's opened source records the opposite direction under sleep loss."
+   "why": "listed for comparison",
+   "notes": "Neutralised per advisor QC round 2: local page records Lieberman's amygdala-reduction finding but page text alone does not verify the empirical claim; comparison held pending source review. Apply inserts a BE037 line into Affect labeling's Related concepts section (read-only check of enrich_apply.py)."
   }
  ]
 }
