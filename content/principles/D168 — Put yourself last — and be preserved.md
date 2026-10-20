@@ -20,6 +20,8 @@ Chapter 13 adds the stakes, the body itself as what makes calamity possible:
 
 > "What makes me liable to great calamity is my having the body (which I call myself); if I had not the body, what great calamity could come to me?" (DDJ 13)
 
+The two chapters work together: chapter 7 states the paradox of a person preserved through being put last, and chapter 13 identifies the body, held as one's own possession, as the very thing that exposes a person to calamity. The compendium reads them as one argument about where security is sought, and the title of this principle holds the two halves together.
+
 (DDJ 7, 13.)
 
 **Plain words** The chapter's question carries its own reading: is it not because the sage has no personal and private ends that such ends are realised? The paradox is stated, and the chapter does not argue us out of it. A practical reading: treating your own position as the thing being guarded keeps that position as the load-bearing concern of everything you do; the alternative the chapter points to is absorption in something beyond that position. What it does not supply is a guarantee of outcomes, only its own paradox to test.
