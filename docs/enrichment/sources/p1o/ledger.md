@@ -195,3 +195,17 @@
   claim of verbatim fidelity overclaimed; now matches the opened text
   word-for-word. P050 kept in_progress until these repairs; both validate
   ok.
+
+### P074 — Treat impulses as raw material, not enemies (2026-10-20, worker-p1o-6ae3d782)
+- Opened: Dewey, HNC (Gutenberg #41386, downloaded earlier this session);
+  quotes verbatim with printed-page markers: p. 95 (Any impulse may become
+  organized...; fear example; outlets and inhibitions), p. 110 (war would
+  not be possible without anger...; raw materials/custom machinery), pp.
+  92-93 (pivots of re-organization). All quotes complete sentences.
+- Seed statement + locator removed (precedent); seed's 'anger/ulcer' and
+  'mountain bike' images kept where grounded (war passage; restlessness
+  example rebuilt without em dashes). Plain words re-derived. Bowen et
+  al. 2011 and Barrett et al. 2001 parallel tails reduced to bare
+  wikilinks (unopened); Sublimation now linked to the existing concept
+  page (seed had it as plain label; Freud attribution kept as inherited
+  label - Civ. and Its Discontents not opened). Validator: ok.

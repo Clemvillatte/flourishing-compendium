@@ -12,18 +12,32 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 74** — Treat impulses as raw material, not enemies
 
-Impulses are neither good nor evil; they are the seeds of action that habits and intelligence shape. Don't suppress the impulse: redirect it.
+Dewey's argument in Human Nature and Conduct is that native tendencies cannot be subtracted from a person, only organized. "War would not be possible without anger, pugnacity, rivalry, self-display, and such like native tendencies," and "native human nature supplies the raw materials, but custom furnishes the machinery and the designs" ([Human Nature and Conduct, 1922](https://www.gutenberg.org/files/41386/41386-h/41386-h.htm), p. 110). The raw material is fixed; what gets built with it is not.
 
-(Dewey, Human Nature and Conduct, 1922.)
+His chapter on the young makes the plasticity explicit:
 
-**Plain words** Impulses are neither good nor evil — they're the seeds of action that habits and intelligence shape. Don't suppress the impulse: redirect it. The anger at injustice and the anger in traffic are the same fuel; one builds a movement, the other an ulcer.
+> Any impulse may become organized into almost any disposition according to the way it interacts with surroundings.
+>
+> (Dewey, Human Nature and Conduct, 1922, Part II, ch. 1, p. 95)
 
-*For example:* The restless kid who can't sit still — a problem in a lecture hall, a gift on a mountain bike. The impulse never changed; the shaping did.
+The fear example is his: "Fear may become abject cowardice, prudent caution, reverence for superiors or respect for equals; an agency for credulous swallowing of absurd superstitions or for wary scepticism." The outcome depends on how the impulse is interwoven with others and on "the outlets and inhibitions supplied by the social environment."
+
+Impulses are also where change comes from: "Impulses are the pivots upon which the re-organization of activities turn, they are agencies of deviation, for giving new directions to old habits and changing their quality." The compendium's rule of redirecting rather than suppressing follows from this: the energy stays either way, and the question is what it organizes.
+
+**Plain words**
+An impulse is fuel, not a verdict about you. It cannot be deleted; the same fear that makes one person cowardly makes another careful, and the same anger feeds quarrels and movements alike. What you control is the outlet: which habit the impulse gets woven into. The compendium's exercise: name one impulse you fight, and one activity that needs exactly that kind of energy.
+
+*For example:*
+Imagine the restless child who cannot sit still through a lecture. The restlessness is the raw material, and the question is the outlet. On a mountain bike it reads as talent and in a lecture hall as a discipline problem, but the impulse itself never changed.
+
+## Sources
+
+- [Human Nature and Conduct (Dewey, 1922), Project Gutenberg](https://www.gutenberg.org/files/41386/41386-h/41386-h.htm) — pp. 92-93, 95, 110
 
 ## Psychology parallels
 
-- **[[Urge surfing|Urge surfing]]**, awareness of impulses without obedience (Bowen et al., 2011)
-- **[[Emotional granularity|Emotional granularity]]**, improves regulation (Barrett et al., 2001)
+- **[[Urge surfing|Urge surfing]]**
+- **[[Emotional granularity|Emotional granularity]]**
 
 ## Philosophy parallels
 
