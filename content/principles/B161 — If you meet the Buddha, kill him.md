@@ -12,13 +12,20 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 161** — If you meet the Buddha, kill him
 
-Don't outsource your awakening to any figure, teacher, or icon: the idol becomes the obstacle. Your seeing is the only seat of authority.
+Linji's address to the followers of the Way begins by warning them against being misled by others, and the passage ties emancipation to freedom from entanglement. (Linji-lu.)
 
-(Linji-lu.)
+> "Whether you're facing inward or facing outward, whatever you meet up with, just kill it! If you meet a buddha, kill the buddha. If you meet a patriarch, kill the patriarch. If you meet an arhat, kill the arhat. If you meet your parents, kill your parents. If you meet your kinfolk, kill your kinfolk. Then for the first time you will gain emancipation, will not be entangled with things, will pass freely anywhere you wish to go." (Linji-lu, T47.1985.466b-506c; Watson 1993, 52, as quoted in Journal of Korean Religions 10/2, 2019)
 
-**Plain words** Don't outsource your awakening to any figure, teacher, or icon — the idol becomes the obstacle. Your seeing is the only seat of authority. The statue is not the teacher; at best it's a fence post pointing at the moon.
+The command is nonliteral. A study of the Linji-lu reads it as aimed at attachment to names, treating Buddha and patriarchs as "only names", and this page follows that reading: the warning is against making an admired teacher, or an idea of awakening, immune to examination. The kernels below concern questioning beliefs and give no permission to harm anyone.
 
-*For example:* The guru's scandal shatters the student's practice — the student had built the house on the guru instead of the ground.
+**Plain words**
+Pick one teaching you accept mainly because of who said it. Write down what you understand of it and what still needs explaining. Then ask the questions you would ask if the same words came from someone you did not admire.
+
+*For example:* Imagine explaining a teaching to a friend. You notice your answer keeps returning to the teacher's reputation. You go back to the text to find what you can actually explain.
+
+## Sources
+
+- [Journal of Korean Religions 10/2 (2019), Terebess-hosted PDF: Watson 1993, p. 52 quotation of the Linji-lu (T47.1985.466b-506c) and the article's reading of the passage as aimed at attachment to names](https://terebess.hu/zen/mesterek/kyong.pdf)
 
 ## Practice kernels
 

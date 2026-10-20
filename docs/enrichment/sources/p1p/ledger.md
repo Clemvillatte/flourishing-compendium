@@ -414,3 +414,10 @@ priority, then B items in manifest order (manifest lists bare IDs; no titles).
 - QC cadence note: advisor counts B138 as item 20 and B159 as item 21; my count
   had B159 as 20. Either way this round covered the milestone; next every-5th QC
   scheduled at B185 (5 items after B159).
+
+### B161 — If you meet the Buddha, kill him (2026-10-20, worker-p1p-c23eecde)
+- State: seed → done (advisor QC first item of session; all required repairs applied).
+- Sources opened: https://terebess.hu/zen/mesterek/kyong.pdf (Journal of Korean Religions 10/2, 2019) — Watson 1993 p. 52 quotation of the Linji-lu kill-the-buddha passage (article reference: Linji lu, T47.1985.466b-506c); article's reading of the command as aimed at attachment to names ("Buddha and the patriarchs are only names").
+- Verbatim quote: Watson translation passage with locator "(Linji-lu, T47.1985.466b-506c; Watson 1993, 52, as quoted in Journal of Korean Religions 10/2, 2019)"; attribution explicit that the reproduction, not Watson's original page, was opened.
+- Dropped: "most violent words available" superlative, "Chan tradition treats..." (snippet-only claim), categorical self-reliance claims in plain words; example now labeled imagined.
+- Inherited items left untouched: Bandura/Rotter locus-of-control parallels (pre-existing, not opened this session).
