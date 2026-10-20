@@ -585,3 +585,16 @@
   The "belief is measured by action" footnote is no longer presented as a truth
   criterion. The liking example is kept as the essay's own case. Reopened and
   re-done via enrich_state.py; --fast-track ok; build ok.
+
+### QC repair, The community of inquiry (2026-10-20, advisor QC round 3)
+
+- Repairs applied: opening no longer claims "inquiry is not a private act" as if
+  from the text (narrowed to the truth-and-agreement claim the quote supports);
+  the closing sentence previously reproduced the source's "antagonistic views"
+  sentence nearly verbatim without quotation marks — rewritten in the worker's own
+  words; the CP 5.388-410 mapping removed from the Sources line (it came from a
+  search snippet, not the opened peirce.org text); the seed placeholder line
+  ("Peirce, Collected Papers") restored alongside the opened-source line. The
+  audit flag no longer claims the phrase is "the tradition's later label" (that
+  history was not established from an opened source). Reopened and re-done via
+  enrich_state.py; --fast-track ok; build ok.
