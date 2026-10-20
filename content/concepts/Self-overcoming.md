@@ -11,7 +11,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 ## What it is
 
-The chapter of Zarathustra that gives this concept its text is titled "Self-Surpassing" in Thomas Common's translation. In it, Zarathustra reports following living things and listening to them. All living things are obeying things, he reports. Whatever cannot obey itself is commanded. And when a living thing commands even itself, it must atone for its commanding, becoming the judge and avenger and victim of its own law.
+The chapter of Zarathustra that gives this concept its text is titled "Self-Surpassing" in Thomas Common's translation ([Zarathustra, trans. Common](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm)). In it, Zarathustra reports following living things and listening to them. All living things are obeying things, he reports ([Zarathustra, trans. Common](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm)). Whatever cannot obey itself is commanded ([Zarathustra, trans. Common](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm)). And when a living thing commands even itself, it must atone for its commanding, becoming the judge and avenger and victim of its own law ([Zarathustra, trans. Common](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm)).
 
 Then Life herself speaks the secret.
 
@@ -19,9 +19,9 @@ Then Life herself speaks the secret.
 >
 > — Nietzsche, Thus Spake Zarathustra, "Self-Surpassing," trans. Thomas Common (capitals in the translation) ([Project Gutenberg](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm))
 
-Within the chapter, surpassing is tied to the will to power. Zarathustra reports that wherever he found a living thing, there he found Will to Power. He teaches that only where there is life is there will, and he calls that will Will to Power. Life, in her speech, says that whatever she creates, and however much she loves it, she must soon be adverse to it, and to her love.
+Within the chapter, surpassing is tied to the will to power. Zarathustra reports that wherever he found a living thing, there he found Will to Power ([Zarathustra, trans. Common](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm)). He teaches that only where there is life is there will, and he calls that will Will to Power ([Zarathustra, trans. Common](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm)). Life, in her speech, says that whatever she creates, and however much she loves it, she must soon be adverse to it, and to her love ([Zarathustra, trans. Common](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm)).
 
-Values are included in the motion. Zarathustra says that good and evil which would be everlasting do not exist, and must of their own accord surpass themselves anew. He says that whoever has to be a creator in good and evil must first be a destroyer, and break values in pieces.
+Values are included in the motion. Zarathustra says that good and evil which would be everlasting do not exist, and must of their own accord surpass themselves anew ([Zarathustra, trans. Common](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm)). He says that whoever has to be a creator in good and evil must first be a destroyer, and break values in pieces ([Zarathustra, trans. Common](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm)).
 
 ## In the compendium
 
