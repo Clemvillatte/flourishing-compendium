@@ -1,6 +1,6 @@
 {
  "batch": "p1zk",
- "revision": 10,
+ "revision": 11,
  "reciprocal": [
   {
    "into": "Sleep deprivation",
@@ -73,6 +73,12 @@
    "link": "BE071",
    "why": "the compulsions this page teaches to recognise are the targets ERP treats",
    "notes": "Evidence in sources/p1zk/BE071.md (MSD Manual definition, Skapinakis 2016 NMA, both opened). Concept already cites BE071."
+  },
+  {
+   "into": "Cognitive ageing",
+   "link": "BE075",
+   "why": "the sleep and activity evidence behind this principle is ageing-science context for cognitive ageing",
+   "notes": "Evidence in sources/p1zk/BE075.md (Ohayon 2004, Lin 2020, both opened). Concept already cites BE075."
   }
  ],
  "inline": []
