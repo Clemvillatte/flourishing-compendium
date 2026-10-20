@@ -184,6 +184,26 @@
       "into": "Unconditional positive regard",
       "link": "Agape",
       "why": "Unconditional positive regard is the psychological analogue of love without regard to worth."
+    },
+    {
+      "into": "Schachter-Singer two-factor theory",
+      "link": "Appraisal theory",
+      "why": "Both theories explain emotion as arising after an interpretive step rather than from the event alone."
+    },
+    {
+      "into": "Somatic marker hypothesis (Damasio)",
+      "link": "Appraisal theory",
+      "why": "The somatic marker is the body-first route to the evaluation appraisal theory describes."
+    },
+    {
+      "into": "Affect labeling",
+      "link": "Appraisal theory",
+      "why": "Affect labeling is putting the appraisal into words, and changes the emotion accordingly."
+    },
+    {
+      "into": "Broaden-and-build",
+      "link": "Appraisal theory",
+      "why": "Broaden-and-build describes what positive emotions do once the appraisal comes back positive."
     }
   ],
   "inline": [
@@ -241,6 +261,11 @@
       "into": "Metta (loving-kindness)",
       "concept": "Agape",
       "phrase": "Kierkegaard's agape"
+    },
+    {
+      "into": "B136",
+      "concept": "Appraisal theory",
+      "phrase": "Appraisal and construal"
     }
   ]
 }
