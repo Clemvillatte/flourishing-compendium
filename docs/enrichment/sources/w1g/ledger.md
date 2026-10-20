@@ -1368,3 +1368,31 @@ Advisor QC found batch-level and per-item issues; all repaired. Findings and rep
   line changes on the three pages + ledger). Scoped acceptance of the reviewed
   passages and repairs, not independent certification of every claim across the
   four pages.
+
+## Attachment security (2026-10-20, worker-p1zs-7a4e2c91, fast-track; degree 10 — eligible)
+
+- OPENED: Shaver & Mikulincer, "Attachment security and psychological change"
+  (2007 Sydney Symposium chapter PDF,
+  https://sydneysymposium.unsw.edu.au/2007/Chapters/ShaverMikulincerSSSP07.pdf)
+  — raw fetch; blockquote (the Bowlby exposition sentence with the parenthetical
+  definition) verified character-for-character in the raw text; the
+  safe-haven/secure-base passage, the felt-security attribution (Sroufe &
+  Waters 1977), the two-dimension criterion ("People who score low on these
+  two dimensions are said to be secure or securely attached"), the
+  "remain relatively unperturbed in times of stress" fragment, the Bowlby
+  plasticity claim, and the Lavi 2007 8-month longitudinal finding all
+  verified in the opened text (body fragments quoted only where
+  character-verified; the 8-month finding paraphrased without quotes).
+- Seed line "the evidence that secure bonds do not collapse under stress the
+  way anxious bonds do (Bowlby, Attachment and Loss)" carried via the
+  verified "remain relatively unperturbed" fragment, attributed to the opened
+  chapter rather than to the unopened Bowlby book.
+- In-the-compendium clauses grounded in the principle pages' own quoted
+  material (PP034 Bowlby A Secure Base p.62, SE047 Shaver-Mikulincer review,
+  SE048 Waters script, PP029 Reis-Clark, D104 DDJ 51, B073 Dhp 212, SP086 and
+  SP013 Spinoza via enrich_find context). No invented bridges: each clause
+  describes what the linked page says.
+- IS-IT-A-CONCEPT check: named construct of attachment research; no
+  namespace-audit entry. Saturation: skipped per fast-track §1a (degree 10
+  < 15); no cross-link proposals filed. Advisor QC: not due (item 6; next at
+  item 10).
