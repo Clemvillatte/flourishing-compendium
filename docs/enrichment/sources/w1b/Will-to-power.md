@@ -42,3 +42,9 @@
 - The D133 sentence repaired: D133's title does not substantiate excluding
   domination from Nietzsche's concept; the gloss now names D133 as marking the
   domination question, without the exclusion claim.
+
+## Round-3 addendum (2026-10-20, advisor QC)
+
+- The final D133 sentence deleted from the facets paragraph; the In-the-
+  compendium gloss for D133 reduced to a topic gloss ("the Daoist principle
+  on domination").

@@ -13,7 +13,7 @@ Agape is the Greek word the Pauline letters use for the love described in 1 Cori
 
 ### Aquinas: charity as friendship
 
-Aquinas's systematic treatment defines charity by relation: "charity is the friendship of man for God" (Aquinas, Summa Theologiae II-II q.23 a.1, [New Advent](https://www.newadvent.org/summa/3023.htm)). Aquinas also calls it the form of the virtues: "it is charity which directs the acts of all other virtues to the last end, and which, consequently, also gives the form to all other acts of virtue" (II-II q.23 a.8, [New Advent](https://www.newadvent.org/summa/3023.htm)). The ranking in verse 13, love above faith and hope, is what the form-of-the-virtues claim elaborates: every other virtue's act takes its direction from charity's end.
+Aquinas's systematic treatment defines charity by relation: "charity is the friendship of man for God" (Aquinas, Summa Theologiae II-II q.23 a.1, [New Advent](https://www.newadvent.org/summa/3023.htm)). Aquinas also calls it the form of the virtues: "it is charity which directs the acts of all other virtues to the last end, and which, consequently, also gives the form to all other acts of virtue" (II-II q.23 a.8, [New Advent](https://www.newadvent.org/summa/3023.htm)). Paul's ranking is a separate statement: love above faith and hope, "the greatest of these is love" (1 Corinthians 13:13, [World English Bible](https://www.biblehub.com/web/1_corinthians/13.htm)).
 
 The list itself runs across feeling and conduct. Two of its items are about honour rather than mood — love does not brag, does not seek its own way — and two are about accounting: it takes no account of evil, and it bears, believes, hopes and endures all things.
 

@@ -33,3 +33,7 @@
   say" removed as going beyond the supplied passage; replaced with a mechanism
   sentence grounded in the passage's second sentence (participation in an
   interest; referring one's action to others; the barrier-breaking equation).
+
+## Round-3 addendum (2026-10-20, advisor QC)
+
+- The mechanism sentence now carries its own chapter-7 citation.

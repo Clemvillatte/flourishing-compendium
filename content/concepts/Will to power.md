@@ -17,7 +17,7 @@ Beyond Good and Evil 36 presents the concept as a methodological wager rather th
 
 ### The two facets in the compendium
 
-The page's inherited facets mark the concept's two lives. As organising principle, it is the BGE 36 wager: one force described from within. As self-overcoming, it is the practical reading the compendium's principles work with — E103's Selbstüberwindung and E108's practice principle — where the strength discharged is one's own form of life, overcome and remade. E103's own page ties the drive to the Zarathustra chapter "Of Self-Overcoming": "Wherever I found a living thing, there found I Will to Power." The compendium's Daoist contrast D133 (Don't dominate) names the domination question on the other side of that reading.
+The page's inherited facets mark the concept's two lives. As organising principle, it is the BGE 36 wager: one force described from within. As self-overcoming, it is the practical reading the compendium's principles work with — E103's Selbstüberwindung and E108's practice principle — where the strength discharged is one's own form of life, overcome and remade. E103's own page ties the drive to the Zarathustra chapter "Of Self-Overcoming": "Wherever I found a living thing, there found I Will to Power."
 
 ### In the compendium
 
@@ -26,7 +26,7 @@ The page's inherited facets mark the concept's two lives. As organising principl
 - [[E072 — Practise avoiding the nihilist]] — the contrast class: what the will to power is not (passivity, ressentiment).
 - [[SP008 — Treat good and evil as relations, not properties]] — the value-relation framing the concept presupposes.
 - [[CO004 — Recognise that thinking serves action, not truth alone]] — the cognitive-science parallel: cognition in the service of action.
-- [[D133 — Don't dominate — the world can't be controlled]] — the Daoist counterweight.
+- [[D133 — Don't dominate — the world can't be controlled]] — the Daoist principle on domination.
 
 ## Related concepts
 

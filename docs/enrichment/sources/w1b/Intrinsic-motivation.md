@@ -58,3 +58,23 @@
   orientation); the four Related lines are now bare links; the Extrinsic
   motivation contrast stands.
 - Inline proposal phrases changed to the plain "intrinsic motivation".
+
+## Round-3 repairs (2026-10-20, advisor QC)
+
+- Printed page numbers located in the definitions PDF for every retained
+  quotation: intrinsic definition p. 56; exploration/play p. 56; schools
+  decline p. 60; undermining verdict p. 59; extrinsic definition p. 60. The
+  opening's dual citation corrected (intrinsic p. 56, extrinsic contrast
+  p. 60).
+- First rewards sentence given its own citation (p. 59); "with the
+  qualifications kept" drafting commentary removed; MO062 now wikilinked with
+  its body's verbatim phrase; the American Psychologist anchor made
+  descriptive ("author-hosted PDF").
+- Baseline validation run as instructed: `python3 scripts/enrich_validate.py
+  "content/concepts/Intrinsic motivation.md" --base '634e50be^'` — ok, 1
+  checked, 0 failed.
+- Inline-phrase verification: the resolver wraps the FIRST plain-text
+  occurrence, skipping lines where the phrase is already in a link; checked all
+  four targets (Achievement goal theory line 29 prose; Autonomy-threat
+  research line 10 prose; D063 line 41 bullet; D096 line 47 bullet) — each
+  first occurrence is the intended unlinked text.

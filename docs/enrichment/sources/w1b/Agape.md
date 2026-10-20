@@ -36,3 +36,8 @@
   first treasure" (it had wrongly said Confucian).
 - "The tradition's most systematic treatment" superlative removed ("Aquinas's
   systematic treatment").
+
+## Round-3 addendum (2026-10-20, advisor QC)
+
+- Paul's ranking and Aquinas's form-of-the-virtues claim now stated
+  separately, each cited, without the "elaborates" relationship claim.
