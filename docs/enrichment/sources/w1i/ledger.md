@@ -119,6 +119,22 @@ a principle reserve from the active supervisor.
 - Saturation: fast-track exemption. All links preserved; no reciprocal.
 - QC: source comparison and validator before done.
 
+## Social Judgment Theory
+
+- Track: fast-track, current degree 8 (all principles).
+- Opened 2026-10-20:
+  https://onlinelibrary.wiley.com/doi/abs/10.1002/9781405186407.wbiecs060 ,
+  Atkin and Smith (2008), abstract; and
+  https://www.afirstlook.com/edition-11/theory-resources/by-theory/Social-Judgment-Theory/outline ,
+  ch. 14, sections Three latitudes, Judging the message, Critique.
+  Search: social judgment theory acceptance rejection noncommitment Sherif.
+- Quote: the entire Atkin/Smith sentence beginning “Sherif et al. (1965) claimed.”
+  Attributed to the secondary reference authors, not claimed as Sherif's verbatim.
+- Removed deterministic “extremes backfire” seed; named predictions and their
+  observational limitations only. No guaranteed persuasion technique offered.
+- Saturation: fast-track exemption; all inherited links/frontmatter preserved.
+- QC: literal quote test, retained subheading and preservation validator before done.
+
 ## Non-dual awareness
 
 - Track: fast-track, current degree 7 (all principles).
