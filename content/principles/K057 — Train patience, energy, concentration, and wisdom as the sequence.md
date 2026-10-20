@@ -12,13 +12,18 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 57** — Train patience, energy, concentration, and wisdom as the sequence
 
-The remaining perfections, held in the tradition's order: patience (the Shantideva curriculum), energy (the aliveness of effort, trained against both laziness and burnout), concentration (the capacity the Yoga-Vedanta set calls binding and resting), and wisdom (the seeing-through trained by the earlier layers). Each is a perfection, meaning it has no ceiling, and each is trained by the same three-part skill. Practically, name your current weakest perfection and give it one quarter of deliberate work.
+The Guide's remaining chapters run the sequence, each opening by naming the step before it. The introduction lays out the order: "the practices of Moral Discipline, (chapters 4-5), Patience (Chapter 6), Enthusiasm (chapter 7), Meditation (chapter 8), and Wisdom (chapter 9)" ([Batchelor translation, Guide PDF](https://milareparetreat.org/files/media/Texte-e/Shantideva_Bodhicaryavatara_en.pdf)).
 
-(The six perfections; Gampopa's Jewel Ornament.)
+The patience chapter opens with the stakes: "Whatever wholesome deeds. / Such as venerating the Buddhas, and generosity, / That have been amassed over a thousand aeons / Will all be destroyed in one moment of anger", and gives the definition: "There is no evil like hatred, / And no fortune like patience." The enthusiasm chapter then names its predecessor: "Having patience I should develop enthusiasm; / For Awakening will dwell only in those who exert themselves", and defines its subject: "What is enthusiasm? It is finding joy in what is wholesome." The meditation chapter chains again: "Having developed enthusiasm in this way, / I should place my mind in concentration; / For the man whose mind is distracted / Dwells between the fangs of disturbing conceptions." And the wisdom chapter gathers the whole run: "All of these practices were taught / By the Mighty One for the sake of wisdom." ([Guide PDF](https://milareparetreat.org/files/media/Texte-e/Shantideva_Bodhicaryavatara_en.pdf))
 
-**Plain words** The remaining perfections come in order: patience, energy, concentration, wisdom. Energy is the aliveness of effort, trained against both laziness and burnout. Concentration is the ability to rest and bind attention. Wisdom is the seeing-through. Each one is a perfection when it's pursued for the sake of others.
+**Plain words**
+The four trainings come in an order the text itself chains: patience guards what anger would destroy, enthusiasm is joy in the wholesome work, concentration settles the distracted mind, and wisdom is what the whole run was for. As a compendium application, name the one you are weakest in and give it a season of deliberate work.
 
-*For example:* A teacher trains patience with a struggling student, then energy to keep trying new approaches, then focus to read what is actually going on, then the wisdom to know when to stop.
+For example: A teacher trains patience with a struggling student, then energy to keep trying new approaches, then focus to read what is actually going on, then the wisdom to know when to stop.
+
+## Sources
+
+- [Shantideva, A Guide to the Bodhisattva's Way of Life (Batchelor translation, milareparetreat.org PDF)](https://milareparetreat.org/files/media/Texte-e/Shantideva_Bodhicaryavatara_en.pdf) — introduction structure note; opening verses of chapters 6 (6.1-6.2), 7 (7.1-7.2), 8 (8.1) and 9 (9.1)
 
 ## Psychology parallels
 
