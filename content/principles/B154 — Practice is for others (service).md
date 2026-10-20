@@ -23,12 +23,12 @@ Shantideva's Guide opens with the benefit of the awakening mind. The intention t
 > The panacea that relieves the world of pain
 > And is the source of all its joy?" (Shantideva, Guide, chapter 1, verses 25-26, [Batchelor translation](http://www.abuddhistlibrary.com/Buddhism/A%20-%20Tibetan%20Buddhism/Authors/Shantideva/A%20Guide%20to%20the%20Bodhisattva's%20Way%20of%20Life%20-%20%20Stephen%20Bachelor%20tra/A%20Guide%20to%20the%20Bodhisattva's%20Way%20of%20Life.pdf))
 
-The compendium's application: on this account the direction of practice is set by intention, and the chapter measures the jewel's worth at the world's edge, not the practitioner's.
+The compendium applies this praise of the intention to benefit beings by asking how a personal practice might be directed toward helping someone else.
 
 **Plain words**
-As a compendium exercise, name one benefit of your practice that reaches someone besides you. If you cannot name one, that is an observation to sit with rather than a verdict.
+Choose a practice you keep. Whom would you like it to serve, and what action could express that intention?
 
-*For example:* Imagine two retirees who each meditate daily. One guards the hours and grows sharper about interruptions; the other uses the settled attention to teach children to read. Same technique, different direction.
+*For example (imagined):* A retiree finishes a meditation session and prepares a reading lesson for a neighbour. She names helping the neighbour as one intention of her practice.
 
 ## Practice kernels
 
