@@ -364,3 +364,19 @@ never-band-assigned work; p1g state had them flagged-only, absent from p1g's man
 - Saturation: rg S018 in content/concepts — no concept pages list S018 directly; the page's
   Stories (ST194, ST196) and Practice kernels (K250, K253) sections already cross-link.
   No new proposal warranted.
+
+## S042 — Practise non-retaliation
+- Full work: verbatim quotes added — Marcus "The best kind of revenge is, not to become like
+  unto them" (printed Bk VI §5 in Gutenberg 2680) and the fellow-workers passage (printed Bk
+  I §15); Epictetus Disc. I.18 pity-not-hate passage — all verified against opened sources
+  (Gutenberg 2680 Long Meditations; Gutenberg 10661 Long selection). Body's motive distinction
+  kept as the principle's framing, now bracketed by quotes. Plain words rewritten as
+  re-derivation (justice asks what repair; revenge asks how to make them feel it). For-example
+  kept. Sources section added.
+- Flags: numbering — the Gutenberg 2680 text prints these passages under different book/section
+  numbers than the citation line's standard numbering; noted in Sources, inherited numbering
+  retained. Seneca De Ira and the other Med./Disc. citations in the inherited line not opened
+  this session — left as inherited with this flag.
+- Saturation: reciprocal links confirmed in Anger management and Corrective justice concept
+  pages (both list S042; both are also the principle's own parallel labels, so the links are
+  mutual). No new proposal warranted.
