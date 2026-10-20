@@ -25,3 +25,17 @@
 - Sources opened: https://onlinelibrary.wiley.com/doi/10.1017/S0048577201393198 (Gross 2002, Psychophysiology 39(3), 281-291, free access) and https://pubmed.ncbi.nlm.nih.gov/12916575/ (Gross & John 2003, JPSP 85(2), 348-362).
 - Verbatim quotes: the reappraisal/suppression definitions passage, the consequences passage (memory, experience), and the Study 5 well-being sentence.
 - Acceptance: the seed's "robust evidence for acceptance" claim was not verifiable from the opened sources, so acceptance is now framed as this page's pairing ("leave the feeling intact") rather than an evidence claim. Gross 2015 review remains an inherited parallel (not opened this session). Original [[Cognitive reappraisal]] body wikilink preserved.
+
+### PP022 — Pursue craftsmanship (2026-10-20, worker-p1f-7e93856c; entry added late, see QC note)
+- State: seed → done.
+- Sources opened: https://works.swarthmore.edu/fac-psychology/193/ (Wrzesniewski et al. 1997, JRP 31(1), 21-33) and https://onwork.edu.au/bibitem/2008-Sennett,Richard-The+Craftsman-excerpt+p.9/ (Sennett, The Craftsman, Yale UP 2008, p. 9 passage).
+- Verbatim quotes: the Job/Career/Calling abstract sentence and the within-occupation sentence (Wrzesniewski); the p.9 definition passage and the impairment passage (Sennett).
+
+### Milestone QC round (2026-10-20, worker-p1f-7e93856c, items K015-MO007-MO011-PP017-PP022)
+- Advisor QC at item 5; blocking repairs applied to all five:
+  - K015: quote provenance made explicit ("as quoted in Qianyi Qin"); want-nothing framing converted to a labeled suggested exercise; lunch example reworded as exercise framing.
+  - MO011: "stop treating motivation as a quantity" narrowed to type-as-well-as-amount; "someone else's fuel" and the pressure-vanishing diagnostic removed; caregiver example replaced with imagined reasons-noted framing (no burnout prediction); Practice sentence ("I want to is more powerful than I should") replaced with the endorsed/pressured reflection.
+  - MO007: largest gap repaired — "teaches nothing new"/"barely registers", routine-boredom, feeds/slots and app-bonus claims all removed; "apparently signals" qualification preserved; expectation-vs-outcome exercise with explicit non-claim; Practice section rewritten; example replaced with imagined expected-vs-actual.
+  - PP017: "leave the feeling intact" sentence deleted (contradicted the quoted reappraisal findings); acceptance removed from the rewritten explanation (no acceptance source opened; protected reflections untouched); plain words narrowed to the two definitions and reported consequences; example replaced with imagined reappraisal framing.
+  - PP022: craftsmanship now established via Sennett p.9 (opened passage) instead of the calling equation; within-occupation finding narrowed to what the sample showed; "available in almost any work" replaced by Sennett's "far wider swath"; enjoyed/dreaded perfectionism test removed; PP022 ledger entry added (was missing).
+- All five files validated ok against the p1f takeover baseline 982789cb after repairs.

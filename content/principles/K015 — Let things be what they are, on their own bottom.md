@@ -14,14 +14,14 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 
 Nishitani's picture of sunyata reverses the instrumental gaze. Ordinarily things appear as objects standing over against a subject; on the field of sunyata, things are brought back to the possibility of existence they possess at bottom, appearing from their home-ground. (Nishitani, Religion and Nothingness.)
 
-> "On the field of Śūnyatā, however, things are brought back again to the possibility of existence. Or rather, things are made to appear in the possibility of existence that they possess at bottom. They appear from the home-ground (elemental source) of their existence, from the selfness lying at their home-ground." (Nishitani, Religion and Nothingness, p. 146)
+> "On the field of Śūnyatā, however, things are brought back again to the possibility of existence. Or rather, things are made to appear in the possibility of existence that they possess at bottom. They appear from the home-ground (elemental source) of their existence, from the selfness lying at their home-ground." (Nishitani, Religion and Nothingness, p. 146, as quoted in Qianyi Qin)
 
-> "It is a world on the yonder side of all such determinations, a world of primal fact, where each fact is bottomlessly on its own home-ground becoming manifest apart from all cause or reason or end, without How or Why or Wherefore: a world in which all things are truly 'like' themselves and 'such' as they are, and are encountered 'as oneself' in their 'suchness.'" (Nishitani, Religion and Nothingness, p. 283)
+> "It is a world on the yonder side of all such determinations, a world of primal fact, where each fact is bottomlessly on its own home-ground becoming manifest apart from all cause or reason or end, without How or Why or Wherefore: a world in which all things are truly 'like' themselves and 'such' as they are, and are encountered 'as oneself' in their 'suchness.'" (Nishitani, Religion and Nothingness, p. 283, as quoted in Qianyi Qin)
 
 **Plain words**
-Most of what you see, you see through what it can do for you. Nishitani's move is to set that aside for a moment and let the thing or person show up from their own ground: the tree as tree, the colleague as colleague. Try one encounter a day in which you deliberately want nothing from the other person, and watch what appears.
+As an exercise suggested by this reading, notice whether you are approaching someone mainly for what they can do for you. Try listening without seeking a favour or offering unsolicited advice.
 
-*For example:* Having lunch with a colleague and, for ten minutes, wanting nothing from them: no advice sought, no favor implied, nothing to fix.
+*For example:* At lunch with a colleague, you set aside the question of what you need from them and listen to what they actually say.
 
 ## Sources
 

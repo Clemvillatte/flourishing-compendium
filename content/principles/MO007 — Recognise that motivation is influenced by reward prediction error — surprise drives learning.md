@@ -12,18 +12,18 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 ---
 > **Principle 7** — Recognise that motivation is influenced by reward prediction error: surprise drives learning
 
-The dopamine story begins with prediction rather than reward. In the classic paper, Schultz, Dayan and Montague summarized two lines of evidence: behavioral work suggesting learning is driven by changes in expectations about rewards and punishments, and physiological work identifying primate dopamine neurons whose output signals errors in those predictions. The reward you saw coming teaches nothing new; the reward that beat or missed the forecast does. (Schultz, Dayan & Montague, 1997.)
+The dopamine research behind this principle begins with prediction rather than reward. Schultz, Dayan and Montague brought together behavioral evidence that learning is driven by changes in expectations about rewards and punishments, and physiological evidence about primate dopamine neurons whose fluctuating output, in their abstract's words, "apparently signals" errors in those predictions. (Schultz, Dayan & Montague, 1997.)
 
 > "Behavioral experiments suggest that learning is driven by changes in the expectations about future salient events such as rewards and punishments." (Schultz, Dayan & Montague, 1997)
 
 > "Physiological work has recently complemented these studies by identifying dopaminergic neurons in the primate whose fluctuating output apparently signals changes or errors in the predictions of future salient and rewarding events." (Schultz, Dayan & Montague, 1997)
 
-This page's practical reading of that finding: fully expected rewards stop teaching, and routines that never surprise stop moving you.
+The principle's exercise follows from the account: expectation, outcome, and the gap between them.
 
 **Plain words**
-Your brain's interest is sparked by the gap between what it expected and what it got. A reward you saw coming barely registers; a surprise, good or bad, gets written down. Use it both ways: when a routine goes flat, change some variable you did not announce to yourself. And treat engineered surprise, the feeds and the slot machines of the world, as the same hook aimed at you.
+Before receiving feedback on a task, write down the result you expect. Afterwards, compare expectation and outcome. This exercise makes a discrepancy visible; it does not measure dopamine activity or demonstrate an increase in motivation.
 
-*For example:* The language app's unexpected streak bonus fires more motivation than the scheduled one — the brain is a surprise detector, not a schedule follower.
+*For example:* Imagine predicting a 70 on a practice test and receiving an 85. The comparison of expectation with outcome is the visible event the account treats as central.
 
 ## Sources
 
@@ -41,4 +41,4 @@ Your brain's interest is sparked by the gap between what it expected and what it
 
 ## Practice
 
-- When motivation wanes for a predictable routine, introduce novelty or challenge. The system responds to unexpected reward. Vary the activity, the challenge, or the context.
+- When a task's feedback is coming, write your predicted result first; afterwards, compare the two.

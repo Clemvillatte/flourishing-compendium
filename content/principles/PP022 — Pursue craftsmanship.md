@@ -12,19 +12,26 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 ---
 > **Principle 22** — Pursue craftsmanship
 
-The research the seed leans on is Wrzesniewski's work-orientation study, which found people holding work in three ways: as a Job (money and necessity), a Career (advancement), or a Calling (enjoyment of fulfilling, socially useful work). Notably for craftsmanship, the split appeared within occupations, including among 24 college administrative assistants in the same role, which suggests the calling is a way of taking the work as much as a property of the work. (Wrzesniewski et al., 1997.)
+Sennett opens The Craftsman with a definition: craftsmanship names an enduring, basic human impulse, the desire to do a job well for its own sake. He adds that it cuts a far wider swath than skilled manual labor, serving the computer programmer, the doctor, the artist, the parent, and the citizen, and that the desire can be impaired by competitive pressure, frustration, or obsession. (Sennett, The Craftsman, p. 9.)
+
+> "Craftsmanship names an enduring, basic human impulse, the desire to do a job well for its own sake. Craftsmanship cuts a far wider swath than skilled manual labor; it serves the computer programmer, the doctor, and the artist; parenting improves when it is practiced as a skilled craft, as does citizenship. In all these domains, craftsmanship focuses on objective standards, on the thing in itself." (Sennett, The Craftsman, p. 9)
+
+> "The craftsman often faces conflicting objective standards of excellence; the desire to do something well for its own sake can be impaired by competitive pressure, by frustration, or by obsession." (Sennett, The Craftsman, p. 9)
+
+A related finding comes from work-orientation research: in Wrzesniewski's study, people saw their work as a Job, a Career, or a Calling, and within a single occupational group, 24 college administrative assistants were distributed evenly across the three.
 
 > "We present evidence suggesting that most people see their work as either a Job (focus on financial rewards and necessity rather than pleasure or fulfillment; not a major positive part of life), a Career (focus on advancement), or a Calling (focus on enjoyment of fulfilling, socially useful work)." (Wrzesniewski et al., 1997)
 
 > "Differences in respondents' relations to their work could not be reduced to demographic or occupational differences; an homogenous subset of 24 college administrative assistants were, like the total sample of respondents, distributed evenly across Job, Career, and Calling." (Wrzesniewski et al., 1997)
 
 **Plain words**
-Doing something well for its own sake is available in almost any work, because the study found the orientation inside occupations, not just between them. The carpenter's rule is the everyday version: finish the part nobody will see. Perfectionism, by contrast, is quality driven by fear of inadequacy, and the two can be told apart by asking whether the finishing is enjoyed or dreaded.
+Sennett's definition is portable: the desire to do a job well for its own sake, in whatever domain the job sits. The carpenter's rule is the everyday version: finish the part nobody will see. His warning is portable too: check whether competitive pressure, frustration, or obsession has started doing the driving.
 
 *For example:* A carpenter finishes the back of a drawer nobody will see, because it's right.
 
 ## Sources
 
+- [Sennett, The Craftsman (Yale University Press, 2008), p. 9 passage (For Work / Against Work scholarly guide)](https://onwork.edu.au/bibitem/2008-Sennett,Richard-The+Craftsman-excerpt+p.9/)
 - [Wrzesniewski, McCauley, Rozin & Schwartz (1997), Jobs, Careers, and Callings: People's Relations to Their Work, Journal of Research in Personality 31(1), 21-33 (Swarthmore Faculty Works)](https://works.swarthmore.edu/fac-psychology/193/)
 
 ## Stories

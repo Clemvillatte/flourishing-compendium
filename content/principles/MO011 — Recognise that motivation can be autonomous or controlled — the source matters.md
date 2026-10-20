@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 ---
 > **Principle 11** — Recognise that motivation can be autonomous or controlled: the source matters
 
-Self-determination theory's central move is to stop treating motivation as a quantity. Deci and Ryan argue that the type of motivation matters more than the amount: the same behavior can be pushed by external pressure or pulled by volition, and the difference shows up in outcomes from persistence to well-being. (Deci & Ryan, 2008.)
+Self-determination theory's central move is to sort motivation by type as well as by amount. Deci and Ryan argue that the type of motivation matters more than the amount: the same behavior can be pulled by volition or pushed by pressure, and the difference shows up in outcomes from persistence to well-being. (Deci & Ryan, 2008.)
 
 > "Self-determination theory (SDT; Deci & Ryan, 2000; Ryan & Deci, 2000), in contrast, has maintained that there are different types of motivation—specifically, autonomous and controlled motivation—and that the type of motivation is generally more important than the amount in predicting life's important outcomes." (Deci & Ryan, 2008)
 
@@ -21,9 +21,9 @@ Self-determination theory's central move is to stop treating motivation as a qua
 The distinction sits in the experience, not in the presence of rewards as such: a paid activity can be autonomous if you have endorsed it, and an unpaid one can be controlled if guilt is doing the pushing.
 
 **Plain words**
-Two engines, same speedometer. You can do the same thing from pressure (someone watching, guilt, fear of falling behind) or from choice (you endorse what you are doing, even the hard parts). The check is simple: if the pressure source vanished tonight, would you still do it tomorrow? If the answer is no, you are running on someone else's fuel, and knowing that is worth knowing before you blame yourself for the behavior.
+Choose an activity and describe the reasons you do it. Which reasons feel endorsed, and which feel pressured? Note that the pressure can be internal, guilt included; controlled motivation is not simply the external kind. This is a reflection exercise based on the distinction, not a test that classifies your motivation.
 
-*For example:* Two people doing the same caring duty for a parent — the one who re-chose it ("I'm doing this because it matters to me") burns out slower than the one martyring through it. Same task, different engine.
+*For example:* Imagine caring for a parent while noticing both personal commitment and a sense of obligation. You write down those reasons separately, without predicting their effects.
 
 ## Sources
 
@@ -42,7 +42,7 @@ Two engines, same speedometer. You can do the same thing from pressure (someone 
 
 ## Practice
 
-- Notice whether your motivation is autonomous (my choice, my value) or controlled (pressure, guilt, should). Shift toward autonomous: connect external goals to internal values. "I want to" is more powerful than "I should."
+- Describe the reasons you act, marking which feel endorsed and which pressured. Connect the pressured ones to a value you hold, and notice what changes.
 
 ## Practice kernels
 

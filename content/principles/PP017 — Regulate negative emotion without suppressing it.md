@@ -20,12 +20,10 @@ Gross's process model sorts regulation strategies by where they act: [[Cognitive
 
 > "Study 5 shows that using reappraisal is related positively to well-being, whereas using suppression is related negatively." (Gross & John, 2003)
 
-This page pairs reappraisal with acceptance, letting the emotion be present without acting on it, as the two forms of regulation that leave the feeling intact.
-
 **Plain words**
-Two ways to handle a bad feeling. The early way: change how you read the situation before the feeling finishes forming. The late way: hold your face still while the feeling runs at full volume inside. The research verdict on the late way: it hides the feeling without reducing it, and it impairs memory.
+Reappraisal changes how you interpret a situation. Expressive suppression inhibits what you show outwardly. Gross's review reports different consequences for these strategies, including reduced expression without reduced emotional experience under suppression.
 
-*For example:* Before a hard conversation you feel your stomach tighten, name it as nerves, and speak anyway.
+*For example:* Imagine a colleague's remark landing as dismissive. You consider the alternative reading that it was rushed rather than hostile, and notice how the remark sits after that.
 
 ## Sources
 
