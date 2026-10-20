@@ -25,7 +25,8 @@
   "Suspension of the natural attitude",
   "The care of the self",
   "The creative life",
-  "The ethics of care"
+  "The ethics of care",
+  "The five pillars of practice"
  ],
  "in_progress": null,
  "flagged": {
@@ -46,10 +47,11 @@
   "Stress response (Lupien, McEwen)": "fast-track enriched (item 2); degree 9; McEwen 2007 full PDF + Lupien 2009 PubMed record opened, quotes verbatim; NOTE for supervisor: page title carries authors' names in parentheses ('Stress response (Lupien, McEwen)') - the real concept is the stress response; consider renaming per the garbled-title rule (low priority; body written for the sourced construct)",
   "The analysis of experience into elements": "Reopened for QC: advisor QC item-5 milestone: the same concept-identity question that blocked State-matched emotion regulation applies here; a predecessor's done marker and structural validation do not establish supervisor disposition. Researched body KEPT; item reopened pending disposition; whether the heading is established as a named term is not settled by the opened SEP entry",
   "The care of the self": "advisor QC item-5 milestone: round-1 repairs applied verbatim (false opposition, staged reversal, last-two-books generalization removed; blockquote carries direct SEP link per 1a; R060 gloss removed; vol.2 citation kept and marked inherited-not-opened); quote independently verified word-for-word against the directly fetched SEP 3.6 'Sex in the Ancient World' section text; scoped PASS after repair round 2",
-  "The creative life": "fast-track enriched (item 6); degree 9; Gutenberg Common Zarathustra opened (Prologue 5 chaos passage + Three Metamorphoses verified verbatim); NOTE for supervisor: the heading 'The creative life' is a compendium heading for a mode of existence Zarathustra teaches rather than a term the book uses; flagged per the w1g pattern (rename candidate or keep as heading)"
+  "The creative life": "fast-track enriched (item 6); degree 9; Gutenberg Common Zarathustra opened (Prologue 5 chaos passage + Three Metamorphoses verified verbatim); NOTE for supervisor: the heading 'The creative life' is a compendium heading for a mode of existence Zarathustra teaches rather than a term the book uses; flagged per the w1g pattern (rename candidate or keep as heading)",
+  "The five pillars of practice": "fast-track enriched (item 8); degree 9; Johnston YS I.14 opened at sacred-texts (quote verified); FLAG: the heading 'The five pillars of practice' is a compendium expansion of YS 1.14's THREE conditions (seed says 'expanded here by the tradition') — rename candidate or keep as series heading"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T06:11:07+00:00",
+ "updated": "2026-10-20T06:13:15+00:00",
  "band_done": false
 }
