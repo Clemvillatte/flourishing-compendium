@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 feeling connected to your future self predicts better decisions (Hershfield, 2011).
 
+## Related concepts
+
+- [[Mental time travel]] — the capacity for mentally visiting personal pasts and futures
+
 ## Sources
 
 - Hershfield, 2011

@@ -32,12 +32,13 @@ The Yoga Sutra offers a comparison in abhyasa: "the restraint of these mental ac
 
 ## Related concepts
 
+
 - [[Two modes of attentional control]] — the intentional selection and stimulus-driven capture that redirection works between
 - [[Goal-directed attentional control]] — each return is a goal-directed act of selection against capture
 - [[Effortless attention]] — the contrast in experienced effort: repeated returning versus absorbed ease
 - [[Body scan in MBSR (Kabat-Zinn)]] — another practice of systematically redirecting attention, carried by AT050
 - [[Abhyasa]] — Patanjali's effort toward steadiness, paired with dispassion (Yoga Sutra 1.12-13)
-
+- [[The discipline of attention]] — Weil treats study as practice for developing attention.
 ## Sources
 
 - [Posner & Petersen, "The attention system of the human brain," Annual Review of Neuroscience 13 (1990), pp. 25-42](https://doi.org/10.1146/annurev.ne.13.030190.000325) — original seed citation; not directly consulted, described here through the 2012 retrospective

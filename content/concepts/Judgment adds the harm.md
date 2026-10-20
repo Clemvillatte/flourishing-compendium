@@ -43,12 +43,14 @@ The principles apply the doctrine across cases. A116 examines fear as the judgme
 ## Related concepts
 
 
+
 - [[The second arrow]] — the Buddhist teaching this page's parallel rests on
 - [[Cognitive reappraisal]] — the clinical descendant of the Stoic doctrine
 - [[Dukkha]] — the suffering the second arrow adds to
 - [[Equanimity]] — the trained stance that withholds the judgment
 - [[Fear]] — the passion the judgment supplies
 - [[The discipline of assent]] — the concept page lists this topic among its Related entries; this link returns it
+- [[S105]] — Applies Epictetus's account of judgment and provocation to responding to insults
 ## Cited in philosophy parallels
 
 - [[B069 — Don't shoot the second arrow (pain vs. suffering)]]

@@ -18,10 +18,11 @@ The study scanned experienced meditators and matched meditation-naive controls d
 
 ## Related concepts
 
+
 - [[Rumination]]
 - [[Mindfulness]]
 - [[Meditation neurobiology theory Lazar]]
-
+- [[Mind wandering]] — thought about something other than the current activity, associated with default-mode-network activity in the cited research
 ## Cited in psychology parallels
 
 - [[D049 — Keep inner space — the empty room fills with light]]

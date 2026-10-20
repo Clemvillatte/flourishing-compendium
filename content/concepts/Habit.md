@@ -39,6 +39,7 @@ James's advice for education and habit aims at making "our nervous system our al
 ## Related concepts
 
 
+
 - [[Context-dependent behaviour (Wood & Neal)]] — the Wood-Neal model that redefined habit as context-cued responding
 - [[Effortless action through long effort]] — automaticity with a Daoist reading: the several thousand oxen behind the sharp blade
 - [[Behavioural chaining (applied behaviour analysis)]] — BE024 describes everyday routines as habit chains
@@ -48,6 +49,7 @@ James's advice for education and habit aims at making "our nervous system our al
 - [[Shaping (Skinner)]] — the behaviourist counterpart to James's counting of separate acts
 - [[Behavior analysis]] — the Skinnerian tradition's account of the same phenomenon
 - [[MO035]] — the motivation-science reading of habit: cue-triggered automaticity that persists when conscious motivation dissipates
+- [[R053]] — Ritual practice is compared with Aristotle's account of habituation, with knowledge, choice and disposition distinguished from mechanical repetition.
 ## Sources
 
 - [James, The Principles of Psychology (1890), ch. IV "Habit" (Classics in the History of Psychology)](https://psychclassics.yorku.ca/James/Principles/prin4.htm) — the primary text; quotations verbatim

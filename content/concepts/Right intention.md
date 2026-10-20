@@ -27,11 +27,13 @@ The first sermon's listing gives the position: "right view, right resolve, right
 ## Related concepts
 
 
+
 - [[Eightfold Path]] — the path the factor belongs to
 - [[Metta (loving-kindness)]] — the good-will the resolve turns toward
 - [[Implementation intentions]] — the if-then planning parallel
 - [[Self-concordance theory]] — the goals-alignment parallel
 - [[Right view]] — listed for comparison
+- [[Morning intention]] — the concept page lists this topic among its Related entries; this link returns it
 ## Sources
 
 - [SN 45.8, Magga-vibhanga Sutta (Thanissaro Bhikkhu translation), Access to Insight](https://www.accesstoinsight.org/tipitaka/sn/sn45/sn45.008.than.html) — the definition, verbatim.

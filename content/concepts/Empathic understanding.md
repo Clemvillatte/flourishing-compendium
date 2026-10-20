@@ -23,6 +23,7 @@ The kernels carry the practice: K207's deep listening, K210's active constructiv
 
 ## Related concepts
 
+
 - [[Perspective-getting]] — the empirically tested version: ask rather than simulate
 - [[Empathy]] — the broader family of feeling-with
 - [[Sympathy]] — feeling for the other, the compendium's paired concept
@@ -31,7 +32,7 @@ The kernels carry the practice: K207's deep listening, K210's active constructiv
 - [[The relational self]] — the self that only appears in meeting
 - [[Compassion]] — concern for the other's welfare, a paired concept
 - [[Acceptance]] — letting another's world be as it is
-
+- [[Motivational interviewing]] — the Rogers line MI inherits
 ## Sources
 
 - [Carl Rogers, "Empathic: An Unappreciated Way of Being," The Counseling Psychologist (1975), full text PDF](http://www.sageofasheville.com/pub_downloads/EMPATHIC_AN_UNAPPRECIATED_WAY_OF_BEING.pdf)

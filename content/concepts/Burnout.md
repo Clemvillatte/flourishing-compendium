@@ -16,8 +16,9 @@ chronic effort-reward imbalance (Siegrist, 1996).
 
 ## Related concepts
 
-- [[B100]] — B100's parallels list helper burnout (Maslach) beside its pity warning
 
+- [[B100]] — B100's parallels list helper burnout (Maslach) beside its pity warning
+- [[MO063]] — Burn-out defined as chronic workplace stress with exhaustion, cynicism and reduced efficacy (WHO ICD-11; Maslach et al., 2001).
 ## Sources
 
 - Maslach and Leiter, 2016

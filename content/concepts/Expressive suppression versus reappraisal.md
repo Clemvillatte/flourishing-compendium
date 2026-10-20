@@ -24,9 +24,11 @@ Suppression, as defined in the laboratory work of James Gross and Robert Levenso
 ## Related concepts
 
 
+
 - [[Anger regulation research]] — the field whose central comparison produced this page's evidence
 - [[Emotion regulation]] — the framework behind this comparison
 - [[Regulatory flexibility theory]] — the strategy pair whose uniform rankings the theory rejects
+- [[Mid-level emotion regulation]] — the head-to-head comparison this page summarises
 ## Sources
 
 - Gross and John, 2003

@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 abstract, verbal "problem-solving" without action maintains anxiety (Borkovec, 1983).
 
+## Related concepts
+
+- [[Metacognitive model of anxiety and depression (Wells)]] — the syndrome’s anxious expression, as this model analyses it
+
 ## Sources
 
 - Borkovec, 1983

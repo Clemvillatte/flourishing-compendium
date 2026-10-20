@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Epicurean argument against the fear of death” — Epicurus, Letter to Menoeceus.
 
+## Related concepts
+
+- [[S103]] — listed for comparison
+
 ## Sources
 
 - Epicurus, Letter to Menoeceus

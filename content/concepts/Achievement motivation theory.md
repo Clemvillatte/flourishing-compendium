@@ -21,3 +21,8 @@ Affect · Psychological science
 [[MO070 — Recognise motivation and ageing — motivation changes across lifespan]]
 [[SE051 — Recognise self-expansion — relationships and experiences expand the self]]
 ## Cited in philosophy parallels
+
+
+## Related concepts
+
+- [[Achievement goal theory (Dweck, Elliot)]] — the framework distinguishing learning and performance goals within achievement motivation

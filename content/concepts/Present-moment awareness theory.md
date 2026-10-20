@@ -18,3 +18,8 @@ Attention · Psychological science
 [[BI057 — Learn grounding techniques — present-moment body awareness]]
 [[PP081 — Cultivate psychological flexibility]]
 ## Cited in philosophy parallels
+
+
+## Related concepts
+
+- [[Mind wandering]] — the departure state: thought running elsewhere than the current activity

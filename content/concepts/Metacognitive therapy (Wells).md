@@ -11,8 +11,9 @@ treating metacognitive beliefs ("worrying is useful") reduces anxiety and depres
 
 ## Related concepts
 
-- [[Evidence-based treatments (CBT, ACT, DBT, EMDR, medication) have robust evidence]] — a further CBT-family therapy in the compendium
 
+- [[Evidence-based treatments (CBT, ACT, DBT, EMDR, medication) have robust evidence]] — a further CBT-family therapy in the compendium
+- [[Metacognitive model of anxiety and depression (Wells)]] — the treatment built on this model
 ## Sources
 
 - "worrying is useful"

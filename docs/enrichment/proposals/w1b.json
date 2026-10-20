@@ -1,38 +1,13 @@
 {
  "reciprocal": [
   {
-   "into": "Non-attachment",
-   "link": "Gelassenheit",
-   "why": "listed for comparison"
-  },
-  {
    "into": "Shikantaza, just sitting",
    "link": "Gelassenheit",
    "why": "listed for comparison"
   },
   {
-   "into": "Context-dependent behaviour (Wood & Neal)",
-   "link": "Habit formation",
-   "why": "listed for comparison"
-  },
-  {
-   "into": "Stream of consciousness",
-   "link": "Pure experience",
-   "why": "listed for comparison"
-  },
-  {
-   "into": "The specious present",
-   "link": "Pure experience",
-   "why": "listed for comparison"
-  },
-  {
    "into": "Shikantaza, just sitting",
    "link": "Pure experience",
-   "why": "listed for comparison"
-  },
-  {
-   "into": "Mind wandering",
-   "link": "Rumination",
    "why": "listed for comparison"
   },
   {
@@ -41,37 +16,7 @@
    "why": "listed for comparison"
   },
   {
-   "into": "Unconditional positive regard",
-   "link": "Agape",
-   "why": "listed for comparison"
-  },
-  {
-   "into": "Benefit finding",
-   "link": "Meaning-making",
-   "why": "listed for comparison"
-  },
-  {
-   "into": "Acceptance alongside values-based action",
-   "link": "Psychological flexibility",
-   "why": "listed for comparison"
-  },
-  {
-   "into": "Self-concordance theory",
-   "link": "Right intention",
-   "why": "listed for comparison"
-  },
-  {
-   "into": "Dependent origination",
-   "link": "Right view",
-   "why": "listed for comparison"
-  },
-  {
    "into": "Cognitive distortions",
-   "link": "Right view",
-   "why": "listed for comparison"
-  },
-  {
-   "into": "The standpoint determines what appears",
    "link": "Right view",
    "why": "listed for comparison"
   },
@@ -81,12 +26,6 @@
    "why": "listed for comparison"
   }
  ],
- "inline": [
-  {
-   "into": "AF033",
-   "concept": "Rumination",
-   "phrase": "Self-distancing reduces rumination"
-  }
- ],
- "notes": " | deferred at this run (target band busy): 16 recip, 1 inline"
+ "inline": [],
+ "notes": " | deferred at this run (target band busy): 16 recip, 1 inline | deferred at this run (target band busy): 5 recip, 0 inline"
 }

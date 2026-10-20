@@ -30,8 +30,9 @@ The traditions that question its premise are also its kin: [[Anatta]] and [[Self
 
 ## Related concepts
 
-- [[P167]] — Applies Rogers's account of congruence to acknowledging experience and considering its expression.
 
+- [[P167]] — Applies Rogers's account of congruence to acknowledging experience and considering its expression.
+- [[Moral courage research]] — the leadership construct the field study paired with courage
 ## Sources
 
 - Kernis and Goldman, 2006

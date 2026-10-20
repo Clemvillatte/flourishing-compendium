@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Generativity theory” — McAdams and de St. Aubin, 1992.
 
+## Related concepts
+
+- [[Narrative identity theory McAdams]] — the outcome the redemption sequences track
+
 ## Sources
 
 - McAdams and de St. Aubin, 1992

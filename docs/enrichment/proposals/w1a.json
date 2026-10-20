@@ -1,101 +1,11 @@
 {
- "inline": [
-  {
-   "concept": "Distrust names and labels",
-   "into": "Cognitive flexibility",
-   "phrase": "distrust of names and labels",
-   "source": "w1a worker-w1a-4c8e21d7",
-   "why": "the psychological capacity for switching framings that the teaching's distrust of fixed names and labels draws on"
-  }
- ],
+ "inline": [],
  "reciprocal": [
-  {
-   "into": "Autonomic nervous system (sympathetic vs parasympathetic)",
-   "link": "Parasympathetic activation",
-   "why": "The autonomic map's two branches include the parasympathetic rest-and-restore arm this page details.",
-   "_audit_why": "target page read in full this session (read tool); absence of the link verified by rg"
-  },
-  {
-   "into": "Heart rate variability theory",
-   "link": "Parasympathetic activation",
-   "why": "HRV is presented as an index of cardiac vagal tone and self-regulation, the parasympathetic territory this page covers.",
-   "_audit_why": "target page read in full this session (read tool); absence of the link verified by rg"
-  },
   {
    "into": "Beneficial speech",
    "link": "Right speech",
    "why": "the Gita's teaching on speech that benefits, compared with the Buddhist right-speech practice the page names as its counterpart"
-  },
-  {
-   "into": "The evening review",
-   "link": "Morning intention",
-   "why": "the concept page lists this topic among its Related entries; this link returns it"
-  },
-  {
-   "into": "Right intention",
-   "link": "Morning intention",
-   "why": "the concept page lists this topic among its Related entries; this link returns it"
-  },
-  {
-   "into": "Rumination",
-   "link": "Nature exposure",
-   "why": "the concept page lists this topic among its Related entries; this link returns it"
-  },
-  {
-   "into": "Mudita (sympathetic joy)",
-   "link": "Active constructive responding",
-   "why": "the concept page lists this topic among its Related entries; this link returns it"
-  },
-  {
-   "into": "Self-concordance theory",
-   "link": "Intrinsic versus extrinsic goals",
-   "why": "the concept page lists this topic among its Related entries; this link returns it"
-  },
-  {
-   "into": "Rumination",
-   "link": "Decentering",
-   "why": "the Experiences Questionnaire was designed to measure both decentering and rumination"
-  },
-  {
-   "into": "Conatus",
-   "link": "Joy",
-   "why": "joy is the felt sign of an increase in the power of the conatus, its Spinozist counterpart"
-  },
-  {
-   "into": "Mudita (sympathetic joy)",
-   "link": "Joy",
-   "why": "the Buddhist trainable form of the shared joy the Gay Science 338 passage calls fellowship in joy"
-  },
-  {
-   "into": "Delight in the ordinary",
-   "link": "Joy",
-   "why": "the everyday register of joy given its own page"
-  },
-  {
-   "into": "The will to meaning",
-   "link": "Meaning",
-   "why": "Frankl’s discovery account of what the drive seeks, via the three routes"
-  },
-  {
-   "into": "Meaning-making",
-   "link": "Meaning",
-   "why": "Frankl’s discovery account, distinguished here from models of meaning-making"
-  },
-  {
-   "into": "Resilience",
-   "link": "Post-traumatic growth",
-   "why": "reported positive changes emerging through the struggle with major life crises"
-  },
-  {
-   "into": "The dichotomy of control",
-   "link": "The inner citadel",
-   "why": "Marcus’s retreat into the place of judgment that the dichotomy protects"
-  },
-  {
-   "into": "Apatheia",
-   "link": "The inner citadel",
-   "why": "the discipline of judgment expressed in Marcus’s instruction to maintain a mind free from passions"
   }
  ],
- "notes": " | deferred at this run (target band busy): 22 recip, 2 inline | deferred at this run (target band busy): 17 recip, 1 inline"
+ "notes": " | deferred at this run (target band busy): 22 recip, 2 inline | deferred at this run (target band busy): 17 recip, 1 inline | deferred at this run (target band busy): 1 recip, 0 inline"
 }

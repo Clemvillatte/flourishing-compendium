@@ -53,11 +53,12 @@ On this view, displacement, the power to talk about what is not present, grows o
 
 ## Related concepts
 
+
 - [[Episodic future thinking]] — the forward direction on its own
 - [[Mental simulation research]] — the simulation family this capacity belongs to
 - [[Future self-continuity]] — the self-related use of projected futures
 - [[Future time perspective]] — how much future one habitually considers
-
+- [[Mind wandering]] — thought running elsewhere than the current activity, often to past and future
 ## Cited in psychology parallels
 
 - [[E008 — Practise the structure of temporality]]

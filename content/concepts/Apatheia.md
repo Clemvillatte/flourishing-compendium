@@ -24,6 +24,7 @@ S071's emotions are judgments and S059's not being carried away by passion are t
 ## Related concepts
 
 
+
 - [[Equanimity]] — the steady affect apatheia leaves behind
 - [[Nirvana]] — the Buddhist cessation, an in-compendium neighbour
 - [[The dichotomy of control]] — the training ground of the discipline
@@ -32,6 +33,7 @@ S071's emotions are judgments and S059's not being carried away by passion are t
 - [[Temperance]] — the cardinal virtue that orders appetite
 - [[Wu wei]] — non-forcing, the Daoist cousin of non-struggling
 - [[Gelassenheit]] — listed for comparison
+- [[The inner citadel]] — the discipline of judgment expressed in Marcus’s instruction to maintain a mind free from passions
 ## Sources
 
 - [SEP, "Stoicism" (Durand, Shogry & Baltzly)](https://plato.stanford.edu/entries/stoicism/)

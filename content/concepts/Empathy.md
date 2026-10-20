@@ -15,11 +15,13 @@ Empathy — the felt understanding of another's experience. Its tradition-spanni
 
 
 
+
 - [[Four immeasurables]] — the psychological cousin of the compassionate stance
 - [[Moral identity]] — the other-oriented capacity the moral self draws on
 - [[Narcissism versus healthy self-regard]] — the capacity whose absence marks the narcissistic side
 - [[Natural goodness of the unformed human]] — pity's descendant, the other natural principle in Rousseau
 - [[The discipline of attention]] — Weil connects attention to asking a sufferer what they are going through.
+- [[Motivational interviewing]] — accurate empathy as the core relational skill
 ## Sources
 - SEP Empathy: https://plato.stanford.edu/entries/empathy/
 

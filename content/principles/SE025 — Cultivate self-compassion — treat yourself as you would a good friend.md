@@ -24,6 +24,10 @@ The friend standard has a foothold in the same article: "common experience sugge
 
 *For example:* The person who spends the evening after the failure in the whipping post — and the question that interrupts: "what would you say to your friend who'd done exactly this?" — and the realisation that the answer is kind, honest, and useful, all three. The voice was always available; it was just never pointed at themselves.
 
+## Related concepts
+
+- [[SE028]] — listed for comparison
+
 ## Sources
 
 - [Neff, K. D. (2003). Self-Compassion: An Alternative Conceptualization of a Healthy Attitude Toward Oneself. Self and Identity, 2(2), 85-101](https://self-compassion.org/wp-content/uploads/publications/SCtheoryarticle.pdf) — definition p. 85; harsher-than-to-others sentence p. 87; needed-actions sentence p. 88

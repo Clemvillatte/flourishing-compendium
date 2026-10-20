@@ -29,8 +29,9 @@ In Spinoza's account, joy and sadness concern transitions to greater and lesser 
 
 ## Related concepts
 
-- [[Amor sui (right self-love)]]
 
+- [[Amor sui (right self-love)]]
+- [[Joy]] — joy is the felt sign of an increase in the power of the conatus, its Spinozist counterpart
 ## Sources
 - [Spinoza, Ethics, translated by R. H. M. Elwes](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm), III.6-7: persistence and actual essence.
 - [Michael LeBuffe, Spinoza's Psychological Theory](https://plato.stanford.edu/archives/spr2022/entries/spinoza-psychological/), sections 1 and 2.1: general striving, human desire and the affects.

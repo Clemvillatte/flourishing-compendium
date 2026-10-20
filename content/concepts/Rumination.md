@@ -43,6 +43,9 @@ The original theory predicted rumination would extend depressive episodes; the e
 
 ## Related concepts
 
+
+
+
 - [[Anger regulation research]] — the ingredient that made venting backfire in Bushman's experiment
 - [[Lifestyle pillars of mental health]] — the symptom the anti-ruminative pillar targets
 - [[Mindful attention]] — the pattern mindful attention interrupts
@@ -50,7 +53,9 @@ The original theory predicted rumination would extend depressive episodes; the e
 - [[Avoidance versus attentional engagement]] — BA examines whether rumination functions as avoidance
 - [[Mind wandering]] — task-unrelated thought without rumination's depressive grip
 - [[D119]] — D119's psychology parallels list rumination research (worry as verbal-linguistic activity, Borkovec et al., 1983) alongside the chapter's counsel on spending speech; the two pages approach the same worry-in-words pattern from opposite directions
-
+- [[Nature exposure]] — the concept page lists this topic among its Related entries; this link returns it
+- [[Decentering]] — the Experiences Questionnaire was designed to measure both decentering and rumination
+- [[Metacognitive model of anxiety and depression (Wells)]] — the syndrome’s depressive expression, as this model analyses it
 ## Sources
 
 - [Nolen-Hoeksema, Wisco and Lyubomirsky 2008, "Rethinking Rumination," Perspectives on Psychological Science 3(5)](https://journals.sagepub.com/doi/full/10.1111/j.1745-6924.2008.00088.x) — the definition (p. 400); supported and unsupported findings; brooding/reflection split.

@@ -28,6 +28,10 @@ The practice is first diagnostic: find out where your worth is actually staked b
 
 *For example (imagined):* After a disappointing performance review, someone concludes that they are worthless. They identify work performance as a condition they have placed on feeling worthwhile.
 
+## Related concepts
+
+- [[SE004]] — listed for comparison
+
 ## Sources
 
 - [Crocker, J., & Wolfe, C. T. (2001). Contingencies of self-worth. Psychological Review, 108(3), 593-623](https://static1.squarespace.com/static/6a760291307e26027c8c5a39/t/6a7a6dfef31cab43f5369c87/1786408447478/Crocker&Wolfe_2001_PsychRev.pdf) — definition p. 594

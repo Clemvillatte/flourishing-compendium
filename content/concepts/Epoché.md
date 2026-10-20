@@ -24,10 +24,12 @@ Its contemplative cognates are [[Sati]] (bare attention that withholds the gloss
 
 
 
+
 - [[Phenomenological psychology]] — the bracketing move the research method operationalizes
 - [[The natural attitude]] — the suspension procedure defined against this attitude
 - [[The discipline of assent]] — the concept page lists this topic among its Related entries; this link returns it
 - [[Decentering]] — the E006 principle lists Decentering among its psychology parallels and Epoché among its philosophy parallels
+- [[S105]] — A Stoic comparison: Epictetus recommends gaining time before responding to provocation (Ench. 20)
 ## Sources
 
 - Husserl, Ideas I

@@ -14,6 +14,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 - **self** — Hume, A Treatise of Human Nature
 - **theory of self** — Hume, A Treatise of Human Nature
 
+## Related concepts
+
+- [[SE080]] — A comparison with SE080's use of Hume's introspective test from the same Treatise section
+
 ## Sources
 
 - Hume, A Treatise of Human Nature

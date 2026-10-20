@@ -25,7 +25,7 @@ A related construct is [psychological flexibility](https://pmc.ncbi.nlm.nih.gov/
 
 The compendium ties the concept to its loosening of fixed essences. B010, "See emptiness — nothing has a fixed essence (shunyata)," teaches exactly this looseness of category-assignment, and B121's Heart Sutra line on form and emptiness does the same.
 
-P021, "Treat ideas as tools, not mirrors," and D016's distrust of names and labels apply it to concepts. D156, "Stay flexible — rigidity is death's companion," is the Daoist version, and CO045, "Cultivate cognitive flexibility — the capacity to switch between modes," carries the term directly. PP081's psychological flexibility is the ACT cousin.
+P021, "Treat ideas as tools, not mirrors," and D016's [[Distrust names and labels|distrust of names and labels]] apply it to concepts. D156, "Stay flexible — rigidity is death's companion," is the Daoist version, and CO045, "Cultivate cognitive flexibility — the capacity to switch between modes," carries the term directly. PP081's psychological flexibility is the ACT cousin.
 
 The essay question: does the Buddhist training in seeing things as empty of fixed essence exercise the same capacity the lab measures as set-shifting? The connection is a question, not a finding.
 

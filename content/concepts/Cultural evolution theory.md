@@ -13,6 +13,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 - **and consciousness** — Donald, 1991; Valsiner, 2000
 
+## Related concepts
+
+- [[Moral foundations]] — the wider home of plural moral systems
+
 ## Sources
 
 - Boyd and Richerson, 1985

@@ -38,11 +38,12 @@ So courage sat between leadership and behaviour: it carried the effect. The stud
 
 ## Related concepts
 
+
 - [[Courage built gradually]] — the acquisition story this construct presupposes
 - [[Character strengths (Peterson & Seligman)]] — the classification the definition builds on
 - [[Authentic courage without props]] — a contemplative cousin
 - [[Authenticity]] — the leadership construct the field study paired with courage
-
+- [[Moral foundations]] — the courage-to-act companion construct
 ## Cited in psychology parallels
 
 - [[S031 — Do what is fitting, not what is easy]]

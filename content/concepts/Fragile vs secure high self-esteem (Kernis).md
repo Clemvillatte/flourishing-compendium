@@ -10,6 +10,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 high self-esteem that is fragile (unstable, defensive) differs from secure high self-esteem (Kernis, 2003; Kernis & Goldman, 2006).
 
+## Related concepts
+
+- [[Social comparison]] — who is hurt or helped by upward comparison
+
 ## Sources
 
 - unstable, defensive

@@ -19,8 +19,9 @@ Its contemplative cognates are [[Sati]] (the noticing that clarity requires) and
 
 ## Related concepts
 
-- [[B042]] — B042 offers a breathing-based calming exercise alongside its discussion of concentration and insight.
 
+- [[B042]] — B042 offers a breathing-based calming exercise alongside its discussion of concentration and insight.
+- [[S129]] — A Stoic comparison: S129 presents the attention discipline of examining impressions before assent
 ## Sources
 
 - Stoics

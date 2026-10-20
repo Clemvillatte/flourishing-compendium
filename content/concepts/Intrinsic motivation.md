@@ -31,12 +31,13 @@ The paper's rewards discussion is a 2000 summary of a research program that bega
 
 ## Related concepts
 
+
 - [[Extrinsic motivation]] — the contrast case the definition builds on
 - [[Self-concordance theory]]
 - [[Eudaimonic well-being]]
 - [[Growth mindset]]
 - [[Mastery orientation]]
-
+- [[Achievement goal theory (Dweck, Elliot)]] — the goal framework whose mastery orientation went with intrinsic motivation in the 1997 study
 ## Sources
 
 - [Ryan and Deci 2000, "Intrinsic and Extrinsic Motivations: Classic Definitions and New Directions," Contemporary Educational Psychology 25 (PDF)](https://www.selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_IntExtDefs.pdf) — the definitions, the healthy-state passage, the undermining verdict, verbatim.

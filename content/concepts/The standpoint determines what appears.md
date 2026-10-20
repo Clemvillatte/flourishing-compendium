@@ -17,9 +17,10 @@ The lifeworld also has depth in time. Earlier experiences leave traces in us tha
 
 ## Related concepts
 
+
 - [[The lifeworld]] — the world of ordinary experience this standpoint opens onto
 - [[The natural attitude]] — the unexamined immersion the standpoint lives in
-
+- [[Right view]] — listed for comparison
 ## Sources
 
 - Husserl, The Crisis of European Sciences

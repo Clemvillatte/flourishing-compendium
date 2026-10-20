@@ -9,6 +9,11 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Mental simulation research” — Taylor and Pham, 1999.
 
+## Related concepts
+
+
+- [[S119]] — A philosophical comparison: S119 presents a morning rehearsal of possible encounters
+- [[Mental time travel]] — the Suddendorf and Corballis name for projecting into personal pasts and futures
 ## Sources
 
 - Taylor and Pham, 1999

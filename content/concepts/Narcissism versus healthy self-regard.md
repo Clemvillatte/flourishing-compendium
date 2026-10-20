@@ -44,12 +44,13 @@ The principles draw the line on both sides. The healthy side is Aristotle's and 
 
 ## Related concepts
 
+
 - [[Pride]] — the emotion at the center of the distinction
 - [[Humility]] — the virtue on the healthy side of it
 - [[The approval trap]] — the external contingency that can underlie fragile self-regard
 - [[Fixed views of self]] — the fixed self that must be defended
 - [[Empathy]] — the capacity whose impairment is part of the narcissistic clinical picture
-
+- [[Hubristic pride]] — Tracy and colleagues associate hubristic pride with narcissistic self-aggrandizement
 ## Cited in psychology parallels
 
 - [[A015 — Practice magnanimity (megalopsychia)]]

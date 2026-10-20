@@ -26,6 +26,8 @@ The compendium's principles cluster around the timing insight. S049, "Replace fi
 
 
 
+
+
 - [[Anger regulation research]] — the anger-specific application of this model
 - [[Cognitive reappraisal]] — the best-evidenced strategy in the taxonomy
 - [[Expressive suppression versus reappraisal]] — the central comparison, side by side
@@ -36,6 +38,8 @@ The compendium's principles cluster around the timing insight. S049, "Replace fi
 - [[Equanimity]] — the contemplative target state
 - [[Positivity effect]] — the attentional strategy that aging delivers by default
 - [[Regulatory flexibility theory]] — the parent process flexibility theory describes
+- [[Metacognitive regulation of state]] — the affect-side family of shifting strategies
+- [[Mid-level emotion regulation]] — the parent construct, whose in-the-moment slice this page isolates
 ## Sources
 
 - [Gross, J. J., "Emotion Regulation: Current Status and Future Prospects" (2015, Psychological Inquiry; PDF)](http://www.johnnietfeld.com/uploads/2/2/6/0/22606800/gross_2015.pdf) — the process model, strategy comparison, extended model and flexibility

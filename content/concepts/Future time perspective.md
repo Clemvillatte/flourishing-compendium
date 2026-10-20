@@ -42,6 +42,7 @@ The compendium treats the future orientation as a lever for responsibility acros
 ## Related concepts
 
 
+
 - [[Savoring]] — the present-side counterpart the Future orientation neglects
 - [[Awe]] — the present-expanding experience that widens temporal horizons
 - [[Hope]] — the affective version of future orientation
@@ -49,6 +50,7 @@ The compendium treats the future orientation as a lever for responsibility acros
 - [[Eudaimonia]] — flourishing as the long game the orientation serves
 - [[Intergenerational justice]] — the long horizon as a matter of duty
 - [[Positivity effect]] — the horizon shift that produces the positive tilt
+- [[Mental time travel]] — the capacity for mentally visiting personal pasts and futures, distinguished from the habit of orienting attention toward the future
 ## Cited in psychology parallels
 
 - [[R112 — Practise intergenerational justice]]

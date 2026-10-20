@@ -28,6 +28,7 @@ A108, "Practise habituation through repeated action," is Aristotle's version of 
 
 ## Related concepts
 
+
 - [[Habit]] — the parent construct this model redefined
 - [[Context-dependent repetition (Lally)]] — the formation-side evidence from Lally's diary study
 - [[Implementation intentions]] — planning that pre-loads the cue-response link
@@ -38,7 +39,7 @@ A108, "Practise habituation through repeated action," is Aristotle's version of 
 - [[Habit]] — the general phenomenon, with James's character-level reading
 - [[Belief as habit]] — beliefs as settled dispositions, the Peirce-James cousin
 - [[Nudge theory Thaler]] — choice architecture as cue control at scale
-
+- [[Habit formation]] — listed for comparison
 ## Sources
 
 - [Wood, W. and Neal, D. T., "A New Look at Habits and the Habit-Goal Interface" (2007, Psychological Review; PDF at USC)](https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/wood.neal_.2007psychrev_a_new_look_at_habits_and_the_interface_between_habits_and_goals.pdf) — the model, its principles, and the habit-change implications

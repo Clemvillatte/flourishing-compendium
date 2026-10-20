@@ -27,10 +27,11 @@ The French moralist saw the hiding: his maxim 27 reads, "People are often vain o
 
 ## Related concepts
 
+
 - [[Social comparison]] — the comparison theory behind this emotion's mechanics
 - [[Schadenfreude]]
 - [[Mudita (sympathetic joy)]]
-
+- [[SE050]] — A comparison with SE050's account of evaluation by comparison
 ## Sources
 
 - La Rochefoucauld, Reflections

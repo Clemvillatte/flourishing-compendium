@@ -32,10 +32,11 @@ Attention · Psychological science
 
 ## Related concepts
 
+
 - [[Cognitive load theory]]
 - [[Attentional control theory (Eysenck)]]
 - [[Attentional control training and the role of repeated redirection]]
-
+- [[Metacognitive model of anxiety and depression (Wells)]] — the perseverative style this model explains the maintenance of
 ## Sources
 
 - [Wells, Breaking the Cybernetic Code: Understanding and Treating the Human Metacognitive Control System to Enhance Mental Health (Frontiers in Psychology, 2019)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6920120/) — the definition, components and effects quoted above

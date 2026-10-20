@@ -34,12 +34,13 @@ The same chapter explains the division's stakes: things in our control are "by n
 
 ## Related concepts
 
+
 - [[Ataraxia]]
 - [[The reserve clause]]
 - [[Premeditatio malorum]]
 - [[Amor fati]]
 - [[The serenity prayer]]
-
+- [[The inner citadel]] — Marcus’s retreat into the place of judgment that the dichotomy protects
 ## Sources
 
 - [Epictetus, Enchiridion 1 (Elizabeth Carter translation), MIT Classics](https://classics.mit.edu/Epictetus/epicench.html) — the dichotomy statement and its logic, verbatim.

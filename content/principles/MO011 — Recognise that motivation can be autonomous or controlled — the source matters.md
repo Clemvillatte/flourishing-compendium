@@ -25,6 +25,11 @@ Choose an activity and describe the reasons you do it. Which reasons feel endors
 
 *For example:* Imagine caring for a parent while noticing both personal commitment and a sense of obligation. You write down those reasons separately, without predicting their effects.
 
+## Related concepts
+
+
+- [[Autonomous motivation]] — the self-endorsed side of this principle's distinction
+- [[Controlled motivation]] — the pressure-driven side of this principle's distinction
 ## Sources
 
 - [Deci & Ryan (2008), Facilitating Optimal Motivation and Psychological Well-Being Across Life's Domains, Canadian Psychology 49(1), 14-23 (PDF, selfdeterminationtheory.org)](https://selfdeterminationtheory.org/SDT/documents/2008_DeciRyan_CanPsy_Eng.pdf)

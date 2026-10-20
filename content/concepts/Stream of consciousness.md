@@ -13,6 +13,10 @@ William James coined the term in the Principles of Psychology's chapter on the s
 
 The name is a metaphor he offers for what consciousness is like from the inside, and it replaces the older figures of chain and train with flowing water. ([James, Principles of Psychology, 1890](https://www.gutenberg.org/cache/epub/57628/pg57628.txt))
 
+## Related concepts
+
+- [[Pure experience]] — listed for comparison
+
 ## Sources
 
 - William James, The Principles of Psychology, vol. 1 (1890), chapter IX ("The Stream of Thought"), [Project Gutenberg #57628](https://www.gutenberg.org/cache/epub/57628/pg57628.txt)

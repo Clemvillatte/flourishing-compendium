@@ -23,11 +23,12 @@ Honour, on this account, is the prize of virtue, and it is to the good that it i
 
 ## Related concepts
 
+
 - [[K250 — Virtue rehearsal]]
 - [[K251 — Signature strengths in new ways]]
 - [[K253 — The mean calibration]]
 - [[Self-esteem research]]
-
+- [[Authentic versus hubristic pride]] — a psychological distinction between authentic and hubristic pride, offered here as a comparison with the classical virtue
 ## Sources
 
 - [Aristotle, Nicomachean Ethics Book IV, trans. W. D. Ross (Internet Classics Archive)](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html) — the IV.3 passage, quoted verbatim

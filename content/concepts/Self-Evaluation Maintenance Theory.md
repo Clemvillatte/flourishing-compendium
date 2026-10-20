@@ -15,3 +15,8 @@ Sociocultural · Psychological science
 [[K011 — See the ego's groundlessness as its nature, not its failure]]
 [[SE006 — Know that the self is embodied — the body is part of who you are]]
 ## Cited in philosophy parallels
+
+
+## Related concepts
+
+- [[SE050]] — A comparison with SE050 on how others' performance enters self-evaluation

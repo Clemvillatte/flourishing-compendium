@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 68** — Cultivate pride (authentic, not hubristic): it consolidates achievement
 
-Authentic pride is the satisfaction of a real achievement aligned with values. Hubristic pride is an inflated, defensive self-evaluation. Authentic pride motivates continued effort; hubristic pride is associated with narcissism and fragility.
+[[Authentic pride|Authentic pride is the satisfaction of a real achievement aligned with values]]. [[Hubristic pride|Hubristic pride is an inflated, defensive self-evaluation]]. Authentic pride motivates continued effort; hubristic pride is associated with narcissism and fragility.
 
 **Plain words** Authentic pride is satisfaction in a real achievement aligned with values — it consolidates the achievement and motivates continued effort. Hubristic pride is inflated and defensive — it motivates protecting the image. Cultivate the first; audit for the second.
 

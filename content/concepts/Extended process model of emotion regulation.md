@@ -10,6 +10,11 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 five families of strategies operate at different points in the emotion-generation sequence (Gross, 1998, 2015).
 
+## Related concepts
+
+
+- [[Anger regulation research]] — the strategy-comparison evidence relevant to this model
+- [[Mid-level emotion regulation]] — the model whose second-level placement this page works from
 ## Sources
 
 - Gross, 1998, 2015

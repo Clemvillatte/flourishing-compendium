@@ -30,11 +30,14 @@ The concept has almost no Western counterpart. A recent philosophy paper opens b
 
 ## Related concepts
 
+
+
 - [[Four immeasurables]] — the family mudita belongs to
 - [[Metta (loving-kindness)]] — the first of the family
 - [[Gratitude]] — joy in another's good: gratitude's other-directed cousin
 - [[Schadenfreude]] — the inverse
-
+- [[Active constructive responding]] — the concept page lists this topic among its Related entries; this link returns it
+- [[Joy]] — the Buddhist trainable form of the shared joy the Gay Science 338 passage calls fellowship in joy
 ## Sources
 
 - ["What Is Sympathetic Joy and How Can You Feel More of It?", Greater Good Magazine, UC Berkeley](https://greatergood.berkeley.edu/article/item/what_is_sympathetic_joy_and_how_can_you_feel_more_of_it) — the definition.

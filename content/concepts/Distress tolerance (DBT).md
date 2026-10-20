@@ -14,6 +14,10 @@ the capacity to act despite discomfort (Linehan, 1993; Leyro et al., 2010).
 - **training**
 - **in DBT** — Linehan, 1993
 
+## Related concepts
+
+- [[Emotion regulation]] — the clinical skills built on this model
+
 ## Sources
 
 - Linehan, 1993

@@ -56,9 +56,11 @@ self-kindness versus harsh self-judgment predicts resilience (Neff, 2003; MacBet
 
 
 
+
 - [[Amor sui (right self-love)]] — Spinoza's rational ground for kind self-regard
 - [[Four immeasurables]] — the modern clinical descendant of the set
 - [[MO045]] — names the self-directed warmth that MO045's mood-repair account names as one response to the avoided feeling.
+- [[SE021]] — A comparison with SE021's account of self-worth tied to outcomes in particular domains
 ## Sources
 
 - [Neff, the three components of self-compassion (handout PDF)](https://greatergood.berkeley.edu/images/uploads/Neff_Handouts_(1).pdf)

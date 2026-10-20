@@ -31,7 +31,7 @@ The tested change was in how participants referred to themselves during reflecti
 For example: the sentence "I'm dreading the meeting" rewritten as "Sarah is dreading the meeting"; the exercise is writing both sentences and noting any difference. (An invented illustration.)
 ## Psychology parallels
 
-- **Self-distancing reduces rumination and emotional reactivity**, viewing experiences from a third-person or distanced perspective reduces negative affect and rumination (Kross & Ayduk, 2011)
+- **[[Rumination|Self-distancing reduces rumination]] and emotional reactivity**, viewing experiences from a third-person or distanced perspective reduces negative affect and rumination (Kross & Ayduk, 2011)
 - **Distanced self-talk reduces emotional reactivity**, using your own name or "you" rather than "I" reduces reactivity in social anxiety and other contexts (Kross et al., 2014)
 
 ## Philosophy parallels

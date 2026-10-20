@@ -15,8 +15,9 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 ## Related concepts
 
-- [[Attentional control training and the role of repeated redirection]] — listed for comparison
 
+- [[Attentional control training and the role of repeated redirection]] — listed for comparison
+- [[Effortless action through long effort]] — the Zhuangzian version of effortlessness in the attention literature
 ## Sources
 
 - Bruya, 2010

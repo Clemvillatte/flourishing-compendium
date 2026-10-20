@@ -27,6 +27,7 @@ BI054 "Learn body scan meditation: systematic body awareness" carries the practi
 
 ## Related concepts
 
+
 - [[Interoception]] — the body sense the scan trains region by region
 - [[Interoceptive awareness]] — attending to internal signals as information, what the scan asks of each region
 - [[Bare attention in mindfulness practice]] — the noticing-before-interpretation stance the scan asks of each region
@@ -35,7 +36,7 @@ BI054 "Learn body scan meditation: systematic body awareness" carries the practi
 - [[Vipassana (insight)]] — B043 lists the body scan among the kernels serving insight practice
 - [[Chronic pain acceptance]] — the 1982 program's patient population, studied in that literature for how stance toward pain predicts suffering
 - [[Mindful attention]] — the attentional stance the scan is meant to cultivate
-
+- [[Embodied cognition]] — the research programme behind body-first attention practices
 ## Sources
 
 - [Kabat-Zinn, Full Catastrophe Living (revised ed. 2013; earlier ed. 1990), ch. 5, "Being in Your Body"](https://osher.ucsf.edu/sites/osher.ucsf.edu/files/inline-files/Full-Catastrophe-Living.pdf) — the body scan instructions, duration and purposes (consulted edition: 2013 Bantam eBook)

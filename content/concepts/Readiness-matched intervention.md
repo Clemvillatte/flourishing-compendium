@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 the stage-of-change finding that unmatched advice entrenches (Prochaska & DiClemente, 1983).
 
+## Related concepts
+
+- [[Motivational interviewing]] — the stages-of-change companion MI grew up with
+
 ## Sources
 
 - Prochaska & DiClemente, 1983

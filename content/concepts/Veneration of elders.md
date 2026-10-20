@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Veneration of elders” — Confucius, The Analects.
 
+## Related concepts
+
+- [[R009]] — Listening to experience is compared with Confucian reverence and gentle remonstrance.
+
 ## Sources
 
 - Confucius, The Analects

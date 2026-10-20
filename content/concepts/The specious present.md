@@ -19,6 +19,10 @@ Clay's illustration is musical: "All the notes of a bar of a song seem to the li
 
 - **and pure experience** — James, Essays in Radical Empiricism
 
+## Related concepts
+
+- [[Pure experience]] — listed for comparison
+
 ## Sources
 
 - James, The Principles of Psychology

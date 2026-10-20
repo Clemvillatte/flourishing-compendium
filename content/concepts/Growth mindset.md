@@ -42,6 +42,7 @@ The empirical status is contested. Sisk and colleagues' 2018 twin meta-analyses 
 ## Related concepts
 
 
+
 - [[Growth through practice]] — the 2,500-year-old version of growth as trainable
 - [[Fixed views of self]] — the incremental alternative the fixed view is contrasted with
 - [[Implicit theories of intelligence]] — the popular form of the incremental theory the page measures
@@ -50,6 +51,7 @@ The empirical status is contested. Sisk and colleagues' 2018 twin meta-analyses 
 - [[Deliberate practice]] — the practice side of developable skill
 - [[Learned optimism]] — a sibling belief construct from the same attribution lineage
 - [[Education as growth]] — listed for comparison
+- [[Achievement goal theory (Dweck, Elliot)]] — the goal framework Dweck associates with the malleable-intelligence belief
 ## Sources
 
 - [Ku and Stager 2022, systematic review, Frontiers in Psychology](https://pmc.ncbi.nlm.nih.gov/articles/PMC9284032/) — definition; continuum; heterogeneous effects.

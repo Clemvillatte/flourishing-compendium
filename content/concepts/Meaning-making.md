@@ -31,11 +31,12 @@ The page's facets mark the tradition's other streams. The narrative one runs thr
 
 ## Related concepts
 
+
 - [[Narrative identity]] — the life-story stream of the tradition
 - [[The search for meaning]] — the research tradition that operationalized the search
 - [[Expressive writing]] — the writing intervention in the Pennebaker stream
 - [[Benefit finding]] — the positive reappraisal outcome
-
+- [[Meaning]] — Frankl’s discovery account, distinguished here from models of meaning-making
 ## Sources
 
 - [Park, "The Meaning Making Model: A framework for understanding the stress-process," European Health Psychologist 15(2) (PDF)](https://www.ehps.net/ehp/index.php/contents/article/download/ehp.v15.i2.p40/1041) — the discrepancy definition; the two levels; the approach-oriented efforts.

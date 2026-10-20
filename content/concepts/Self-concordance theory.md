@@ -17,6 +17,13 @@ goals pursued for autonomous rather than controlled reasons predict goal attainm
 - goals aligned with one's authentic nature predict well-being (Sheldon and Elliot, 1999)
 - self-concordant goals predict attainment and well-being (Sheldon & Elliot, 1999; Sheldon et al., 2004)
 
+## Related concepts
+
+
+
+- [[MO057]] — Self-concordant goals bring more sustained effort and larger well-being gains (Sheldon and Elliot, 1999).
+- [[Intrinsic versus extrinsic goals]] — the concept page lists this topic among its Related entries; this link returns it
+- [[Right intention]] — listed for comparison
 ## Sources
 
 - Sheldon and Elliot, 1999

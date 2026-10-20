@@ -11,8 +11,9 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 ## Related concepts
 
-- [[Decentering]] — the same literature treats metacognitive awareness as the monitoring process that enables decentering from thoughts
 
+- [[Decentering]] — the same literature treats metacognitive awareness as the monitoring process that enables decentering from thoughts
+- [[Metacognitive regulation of state]] — the noticing skill the state version trains
 ## Sources
 
 - Flavell, 1979

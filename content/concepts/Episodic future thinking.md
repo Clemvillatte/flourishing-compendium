@@ -13,6 +13,10 @@ improves decisions and delays gratification (Peters and Buchel, 2010).
 
 - improves decisions (Peters and Buchel, 2010)
 
+## Related concepts
+
+- [[Mental time travel]] — the broader capacity: remembered personal events plus imagined possible futures
+
 ## Sources
 
 - Peters and Buchel, 2010

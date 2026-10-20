@@ -38,13 +38,14 @@ The compendium cites the construct from its principles on voluntary action and e
 
 ## Related concepts
 
+
 - [[Social learning theory (Bandura)]] — the construct Bandura added when the theory went cognitive (inherited description, unverified here)
 - [[Graded task assignment (Beck, BA)]] — the belief the proximal steps build, per Bandura and Schunk (inherited description, unverified here)
 - [[Hope]] — the agency component's nearest neighbour in Snyder's theory (inherited description, unverified here)
 - [[Implicit theories of intelligence]] — the control belief Dweck says the theories are really about (inherited description, unverified here)
 - [[Learning by doing]] — the belief about agency that the doing builds (inherited description, unverified here)
 - [[Locus of control]] — its page already links here, describing self-efficacy as "the belief about capability, locus's Bandura sibling"
-
+- [[SE059]] — A comparison with SE059's account of Bandura's construct and its four sources
 ## Sources
 
 - [Bandura, "Self-efficacy: Toward a unifying theory of behavioral change" (1977), Psychological Review 84, 191-215, open PDF](https://www.susana.org/_resources/documents/default/3-4524-7-1640787326.pdf) — the blockquote, the efficacy-versus-outcome-expectation distinction, and the four sources are from this paper.
