@@ -10,15 +10,17 @@
   "D079",
   "D084",
   "D093",
-  "D113",
   "D116",
   "D120",
   "D122",
   "D136"
  ],
- "in_progress": null,
- "flagged": {},
+ "in_progress": "D113",
+ "flagged": {
+  "D113": "Reopened for QC: QC: causal sleep claims unsupported"
+ },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T01:03:12+00:00"
+ "updated": "2026-10-20T01:05:08+00:00",
+ "band_done": false
 }
