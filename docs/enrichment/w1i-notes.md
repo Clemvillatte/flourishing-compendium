@@ -157,7 +157,7 @@ the 2013 chapter and quoted verbatim). Item 1: first advisor review FAIL; repair
 FAIL with bounded repairs in round 3 (unverified survey-studies evidence
 description removed, Cognitive-dissonance and Status-quo-bias glosses
 narrowed, inline citations added to factual sentences), repairs applied and
-pushed; re-review PASS requested.
+pushed; round-4 citation completion applied; re-review PASS confirmed.
 
 Milestone-ten advisor review (scoped to items 6-10): FAIL with bounded
 repairs, all applied this round. Item 10: opening false contrast replaced,
