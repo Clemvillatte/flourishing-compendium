@@ -97,6 +97,13 @@
       "phrase": "Breath as life force (pranayama)",
       "why": "AT049's parallels cover breath practices across traditions; BI029 documents the trial evidence for movement practices whose distinguishing ingredient includes trained breath (yoga vs matched walking, tai chi RCT)",
       "notes": "found by mention scan during BI029 saturation"
+    },
+    {
+      "into": "BI036",
+      "type": "principle",
+      "phrase": "omega-3 fatty acids for the brain",
+      "why": "BI036 covers omega-3 nutrition; BI041 documents the trial evidence (Grosso 2014) and formulation detail (EPA-majority) plus the regulation caution that qualifies every supplement claim",
+      "notes": "found by mention scan during BI041 saturation"
     }
   ],
   "inline": [
