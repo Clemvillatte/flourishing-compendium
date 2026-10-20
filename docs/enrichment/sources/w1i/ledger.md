@@ -175,6 +175,23 @@ a principle reserve from the active supervisor.
 - Saturation: fast-track exemption. All inherited links retained, no reciprocal.
 - QC: literal quote match, retained subheading and preservation validator before done.
 
+## Stimulus control theory
+
+- Track: fast-track, current degree 8 (all principles).
+- Opened 2026-10-20:
+  https://www.med.upenn.edu/cbti/assets/user-content/documents/Bootzin%201972.pdf ,
+  Bootzin (1972), pp. 395–396; and
+  https://onlinelibrary.wiley.com/doi/full/10.1111/jsr.14008 ,
+  Verreault et al. (2024 volume; online 2023), Summary.
+  Search: stimulus control theory Bootzin insomnia conditioning.
+- Quote: exact Bootzin sentence beginning “To achieve stimulus control” with
+  PDF line-wrap whitespace normalized, no wording changed.
+- Replaced unsupported “without willpower” seed. Distinguishes a treatment
+  outcome from proof of its theoretical mechanism. Historical case-study scope
+  and later review quality caveats explicit; no individual sleep prescription.
+- Saturation: fast-track exemption; no new link or reciprocal.
+- QC: literal source match, retained subheading and preservation validator before done.
+
 ## Social support theory Cohen Wills
 
 - Track: fast-track, current degree 8 (all principles).
