@@ -12,13 +12,22 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 93** — Make happiness independent of externals
 
-Not: "I'll be content when..." Contentment that depends on circumstances is rented, not owned. Base it on how you are, not what you have.
+Zhuangzi 18 opens by asking where enjoyment is actually to be found, then lists what the world chases for it:
+
+> "What it delights in is rest for the body, rich flavours, fine garments, beautiful colours, and pleasant music. What it looks down on are poverty and mean condition, short life and being deemed feeble." (Zhuangzi 18, Legge trans., [ETH Zurich PDF](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
+
+The consequence the chapter draws is blunt: "If they do not got these things, they are very sorrowful, and go on to be troubled with fears. Their thoughts are all about the body - are they not silly?" (the edition's own spelling kept). Daodejing 44 sets the same question as a comparison: "Or fame or life, / Which do you hold more dear? / Or life or wealth, / To which would you adhere?"
 
 (Zhuangzi 18; DDJ 44.)
 
-**Plain words** Not 'I'll be content when...' — contentment that depends on circumstances is rented, not owned. Base it on how you are, not what you have. External conditions fluctuate by nature; a happiness pegged to them fluctuates for free.
+**Plain words** The test is not whether you enjoy good things. It is what happens to your baseline when they leave. Every item on Zhuangzi's list is pleasant, and none of them is yours. Peg your contentment to them and the peg moves whenever they do. The chapter's alternative is not doing without; it is asking what your enjoyment is made of when the inputs are ordinary.
 
 *For example:* The person who can only enjoy the beach when the weather's perfect has rented their peace from the forecast.
+
+## Sources
+
+- [Zhuangzi, Legge trans., ETH Zurich PDF](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — Part 18, opening
+- [The Tao Teh King, Legge trans., Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt) — chapter 44
 
 ## Practice kernels
 
@@ -26,7 +35,7 @@ Not: "I'll be content when..." Contentment that depends on circumstances is rent
 
 ## Psychology parallels
 
-- **[[Hedonic adaptation|Hedonic adaptation]]**, major gains and losses show substantial but often incomplete and asymmetric adaptation, varying by domain and person (Brickman, Coates and Janoff-Bulman, 1978; Lucas, 2007; Wilson and Gilbert, 2003)
+- **[[Hedonic adaptation|Hedonic adaptation]]** (Brickman, Coates and Janoff-Bulman, 1978; Lucas, 2007; Wilson and Gilbert, 2003)
 
 ## Philosophy parallels
 
