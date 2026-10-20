@@ -28,12 +28,13 @@ Sandel's civic version belongs to the joint-activity family: he "described the c
 
 ## Related concepts
 
+
 - [[Ubuntu]] — consensus and collective responsibility are ubuntu's political face
 - [[Deliberative democracy]] — the process conception of the common good in politics
 - [[K365 — Public reasoning]] — the reasoning-about-the-common kernel
 - [[Communitarianism]] — the contemporary philosophy of the communal conception
 - [[Civic republicanism]] — the tradition that keeps the citizen at the center
-
+- [[The theoretical life]] — the political life the chapter ranks second
 ## Sources
 
 - Aristotle, Politics

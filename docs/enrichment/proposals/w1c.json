@@ -68,32 +68,8 @@
   {
    "into": "Attention",
    "link": "The discipline of attention",
-   "why": "Weil\u2019s account of attention in study, prayer, and attention to a sufferer.",
+   "why": "Weil’s account of attention in study, prayer, and attention to a sufferer.",
    "notes": "w1c takeover (worker-p1d-8f3a21c4, 2026-10-20): advisor QC rounds 1-3; Weil essay (rendered-page verified), SEP, Bishop 2004, Hasenkamp 2012, Eysenck 2007, Corbetta & Shulman 2002, Wikipedia Flow all opened."
-  },
-  {
-   "into": "Bare attention in mindfulness practice",
-   "link": "The discipline of attention",
-   "why": "Weil\u2019s account of receptive, waiting attention, offered here as a comparison with mindfulness practice.",
-   "notes": "same session; definitions verified from the opened sources."
-  },
-  {
-   "into": "Empathy",
-   "link": "The discipline of attention",
-   "why": "Weil connects attention to asking a sufferer what they are going through.",
-   "notes": "same session."
-  },
-  {
-   "into": "Flow",
-   "link": "The discipline of attention",
-   "why": "An editorial contrast between absorption in activity and Weil\u2019s receptive waiting.",
-   "notes": "same session; Flow definition verified from Wikipedia (the target page\u2019s cited source)."
-  },
-  {
-   "into": "Attentional control theory (Eysenck)",
-   "link": "The discipline of attention",
-   "why": "Weil\u2019s account of receptive attention in study and prayer, contrasted here with a psychological theory of anxiety.",
-   "notes": "same session; Eysenck et al. 2007 opened (tu-dresden PDF)."
   },
   {
    "into": "Attentional control training and the role of repeated redirection",
@@ -104,45 +80,9 @@
   {
    "into": "Two modes of attentional control",
    "link": "The discipline of attention",
-   "why": "Weil\u2019s receptive attention offers a philosophical comparison with accounts of how attention is directed.",
+   "why": "Weil’s receptive attention offers a philosophical comparison with accounts of how attention is directed.",
    "notes": "same session; Corbetta & Shulman 2002 abstract opened via PubMed E-utilities (PMID 11994752); full-text PDF mirror blocked by robots, abstract supports the two-systems clause."
-  },
-  {
-   "into": "Desirable difficulties",
-   "link": "The testing effect / retrieval practice",
-   "why": "Retrieval practice is the paradigm desirable difficulty: the effortful path that produces durable gains.",
-   "notes": "w1c (worker-p1d-8f3a21c4, 2026-10-20): both abstracts opened via NCBI E-utilities (PMIDs 16507066, 21252317); target definitions read from their own pages."
-  },
-  {
-   "into": "Fluency-driven illusory truth",
-   "link": "The testing effect / retrieval practice",
-   "why": "Rereading raises confidence without retention; the fluency of reread text is mistaken for knowing.",
-   "notes": "same session; the 2006 abstract records the confidence gap."
-  },
-  {
-   "into": "Encoding strategies",
-   "link": "The testing effect / retrieval practice",
-   "why": "The encoding and retrieval levers on memory named together in the compendium\u2019s CO056.",
-   "notes": "same session."
-  },
-  {
-   "into": "Mnemonics and the availability of internalized text",
-   "link": "The testing effect / retrieval practice",
-   "why": "The spaced-retrieval literature on how memorized material resists degradation; retrieval practice is its training method.",
-   "notes": "same session."
-  },
-  {
-   "into": "Metacognition",
-   "link": "The testing effect / retrieval practice",
-   "why": "The confidence gap between rereading and retrieval is a metacognitive miscalibration: felt knowing outrunning actual knowing.",
-   "notes": "same session."
-  },
-  {
-   "into": "Ars memoriae (art of memory)",
-   "link": "The testing effect / retrieval practice",
-   "why": "The classical art of memory trained recall through practiced retrieval; the testing effect is its laboratory descendant.",
-   "notes": "same session; descendant claim is editorial framing, not historical influence."
   }
  ],
- "notes": "First concept: Amor sui (right self-love). All 12 original links preserved. Facets section (vs self-contempt) folded into prose. Definition quote is Ethics IIIp55 scholium (verified against Gutenberg Elwes text); rational demand is IVp18 scholium. Related-clause support sources (SEP Rousseau/Nietzsche/Stoicism, Wikipedia self-compassion) listed in the page's Sources section. | deferred at this run (target band busy): 6 recip, 0 inline | deferred at this run (target band busy): 21 recip, 0 inline | deferred at this run (target band busy): 11 recip, 0 inline | deferred at this run (target band busy): 11 recip, 0 inline Supervisor repair (2026-10-20): removed 3 reciprocals into \"Character as habits\" \u2014 target page no longer exists (namespace merge into [[Habit]], 2026-10-20); re-targeting is a new semantic decision, not mechanical. | deferred at this run (target band busy): 8 recip, 0 inline"
+ "notes": "First concept: Amor sui (right self-love). All 12 original links preserved. Facets section (vs self-contempt) folded into prose. Definition quote is Ethics IIIp55 scholium (verified against Gutenberg Elwes text); rational demand is IVp18 scholium. Related-clause support sources (SEP Rousseau/Nietzsche/Stoicism, Wikipedia self-compassion) listed in the page's Sources section. | deferred at this run (target band busy): 6 recip, 0 inline | deferred at this run (target band busy): 21 recip, 0 inline | deferred at this run (target band busy): 11 recip, 0 inline | deferred at this run (target band busy): 11 recip, 0 inline Supervisor repair (2026-10-20): removed 3 reciprocals into \"Character as habits\" — target page no longer exists (namespace merge into [[Habit]], 2026-10-20); re-targeting is a new semantic decision, not mechanical. | deferred at this run (target band busy): 8 recip, 0 inline | deferred at this run (target band busy): 11 recip, 0 inline"
 }

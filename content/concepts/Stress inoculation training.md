@@ -35,11 +35,12 @@ SIT is well established as a flexible clinical framework, but the trial base for
 
 ## Related concepts
 
+
 - [[Graded exposure / systematic desensitisation (Wolpe)]] — the graduated-dose principle SIT borrows
 - [[Cognitive restructuring]] — the second phase's core cognitive skill
 - [[Relapse prevention protocols]] — the follow-through phase's maintenance machinery
 - [[Psychological resilience theory Bonanno]] — the outcome the training aims at, read trait-wise
-
+- [[Progressive muscle relaxation (Jacobson)]] — PMR is one of the relaxation coping skills stress inoculation trains
 ## Cited in psychology parallels
 
 - [[S019 — Prepare for adversity before it arrives]]

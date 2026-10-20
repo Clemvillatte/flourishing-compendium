@@ -30,13 +30,14 @@ The reduction is the analysis the epoché makes possible. The entry glosses it a
 
 
 
+
 - [[Fusion of horizons]] — the phenomenological horizon concept Gadamer borrowed
 - [[Mind in life]] — Husserl's starting point the book returns to
 - [[Phenomenological methods in psychology]] — the everyday attitude the methods suspend and study
 - [[Epoché]] — the suspension procedure defined against this attitude
 - [[Suspension of the natural attitude]] — the reduction stated as a concept
 - [[The lifeworld]] — the home the suspension returns to
-
+- [[Phenomenological psychology]] — the everyday attitude phenomenological psychology suspends and studies
 ## Sources
 
 - Husserl, Ideas I

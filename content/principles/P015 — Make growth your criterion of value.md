@@ -37,7 +37,7 @@ When a job offer lands, run the two-column test: what you would actually be doin
 ## Psychology parallels
 
 - **[[Growth mindset|Growth mindset]]**, beliefs about malleability shape persistence and outcomes, with context-dependent effects (Dweck, 2006)
-- **Learning goals versus performance goals** (Dweck and Leggett, 1988)
+- **[[Achievement goal theory (Dweck, Elliot)|Learning goals versus performance goals]]** (Dweck and Leggett, 1988)
 
 ## Philosophy parallels
 

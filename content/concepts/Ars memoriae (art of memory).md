@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Ars memoriae (art of memory)” — Cicero, De Oratore.
 
+## Related concepts
+
+- [[The testing effect / retrieval practice]] — The classical art of memory trained recall through practiced retrieval; the testing effect is its laboratory descendant.
+
 ## Sources
 
 - Cicero, De Oratore

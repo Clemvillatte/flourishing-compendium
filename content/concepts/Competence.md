@@ -13,6 +13,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 - Deci & Ryan, 2000
 - Ryan & Deci, 2017
 - Deci and Ryan, 2000
+## Related concepts
+
+- [[Achievement goal theory (Dweck, Elliot)]] — the goal framework whose two goal classes are both defined by competence
+
 ## Sources
 
 - Aristotle, Nicomachean Ethics II

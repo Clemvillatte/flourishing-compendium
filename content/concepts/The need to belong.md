@@ -29,12 +29,13 @@ If belonging is a need rather than a taste, two practical consequences follow, a
 
 
 
+
 - [[Ubuntu]] — ubuntu gives the belonging need a philosophical formulation
 - [[Escape from freedom]] — Fromm's secondary bonds, in the authoritarianism mechanism, promise to satisfy this need
 - [[Family systems theory]] — the motivational ground the family system answers
 - [[Lifestyle pillars of mental health]] — the connection pillar's motivational base
 - [[Attachment security]] — a developmental research program on the same territory, offered as a comparison
-
+- [[The social self]] — the motivation the social self serves
 ## Sources
 
 - Baumeister and Leary, 1995

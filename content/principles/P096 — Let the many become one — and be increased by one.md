@@ -36,8 +36,9 @@ Imagine writing an essay from several authors' arguments. A proposed exercise is
 
 ## Related concepts
 
-- [[Creative advance]]: the sequence of new occasions explained in Garland's account.
 
+- [[Creative advance]]: the sequence of new occasions explained in Garland's account.
+- [[P153]] — P096 presents Whitehead's formula of many becoming one; P153 borrows his descriptions of becoming to reflect on one's contribution to an unfolding situation.
 ## Psychology parallels
 
 - **Integration and meaning-making** (McAdams, 2013; Pennebaker, 1997): retained research pointers, not evidence establishing Whitehead's metaphysics.

@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 the learning-science finding that effortful processing produces durable gains (Bjork and Bjork, 2011, the desirable-difficulties framework).
 
+## Related concepts
+
+- [[The testing effect / retrieval practice]] — Retrieval practice is the paradigm desirable difficulty: the effortful path that produces durable gains.
+
 ## Sources
 
 - Bjork and Bjork, 2011, the desirable-difficulties framework

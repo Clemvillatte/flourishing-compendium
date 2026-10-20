@@ -26,11 +26,12 @@ The sutta's claim for the practice is stated in its benefit sentence: "Mindfulne
 
 ## Related concepts
 
+
 - [[Anapanasati (mindfulness of breathing)]] — the full method the single breath scales
 - [[Wu wei]] — the non-forcing that small practice preserves
 - [[Beginner's mind]] — the attitude a small practice keeps fresh
 - [[Habit formation]] — how repetition turns the small unit into structure
-
+- [[The ten thousand things]] — chapter 64's arithmetic from the same passage
 ## Sources
 
 - Buddhist tradition

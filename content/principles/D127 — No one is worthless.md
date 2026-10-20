@@ -29,6 +29,10 @@ The chapter refuses two moves at once: writing someone off, and treating them as
 
 *For example:* The colleague whose mistakes taught you more than the manuals — the 'bad' one was curriculum in disguise.
 
+## Related concepts
+
+- [[P166]] — D127 holds that a person's worth is not forfeited; P166 carries the practical correlate, offering regard without conditions attached.
+
 ## Sources
 
 - [The Tao Teh King, Legge translation (Project Gutenberg)](https://www.gutenberg.org/cache/epub/216/pg216.txt) — chapter 27

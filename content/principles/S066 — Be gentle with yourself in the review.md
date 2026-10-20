@@ -37,3 +37,7 @@ Is gentleness with yourself compatible with high standards? Describe a case wher
 %%
 What would returning without guilt require you to believe?
 -->
+
+## Related concepts
+
+- [[P166]] — S066 counsels gentleness toward yourself when reviewing your work; P166 carries Rogers's account of non-contingent regard, a comparable practice for the self and for others.

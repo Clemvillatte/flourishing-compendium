@@ -2,25 +2,10 @@
  "inline": [],
  "reciprocal": [
   {
-   "into": "Attention restoration",
-   "link": "AT039",
-   "why": "AT039 applies Berman, Jonides and Kaplan's finding that nature walks and nature pictures improved specified attention tests to the choice of workday breaks."
-  },
-  {
-   "into": "Metacognition",
-   "link": "CO064",
-   "why": "CO064 discusses beliefs about worrying within Wells's metacognitive model."
-  },
-  {
-   "into": "Deliberation as rehearsal",
-   "link": "CO042",
-   "why": "CO042 discusses deliberate reasoning when evaluating important risks."
-  },
-  {
    "into": "Dual-process theory",
    "link": "CO042",
    "why": "CO042 discusses when to engage the Type 2 processing this theory describes."
   }
  ],
- "notes": "Worker p1h proposals only. No cross-band content edits or enrich_apply runs. | band closed 2026-10-20; closure saturation scan reciprocals (Metacognition->CO064, Deliberation as rehearsal->CO042, Dual-process theory->CO042) | deferred at this run (target band busy): 1 recip, 0 inline"
+ "notes": "Worker p1h proposals only. No cross-band content edits or enrich_apply runs. | band closed 2026-10-20; closure saturation scan reciprocals (Metacognition->CO064, Deliberation as rehearsal->CO042, Dual-process theory->CO042) | deferred at this run (target band busy): 1 recip, 0 inline | deferred at this run (target band busy): 1 recip, 0 inline"
 }

@@ -16,8 +16,11 @@ noticing that even your framework is a mental event (Flavell, 1979).
 
 ## Related concepts
 
-- [[Attention]] — attention watching itself
 
+
+- [[Attention]] — attention watching itself
+- [[CO064]] — CO064 discusses beliefs about worrying within Wells's metacognitive model.
+- [[The testing effect / retrieval practice]] — The confidence gap between rereading and retrieval is a metacognitive miscalibration: felt knowing outrunning actual knowing.
 ## Sources
 
 - Flavell, 1979

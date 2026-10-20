@@ -2,20 +2,23 @@
  "inline": [],
  "reciprocal": [
   {
-   "into": "Creativity",
-   "link": "PP051 — Treat creativity as a process, not a trait",
-   "why": "PP051 treats creativity as a process rather than a trait, grounded in the Hennessey and Amabile 2010 review (novel-and-appropriate definition, training meta-analysis, both stable aspects and environmental influence), the psychological anchor for the concept page's philosophy-of-creativity strand."
+   "into": "B067",
+   "link": "B068",
+   "why": "B068 works with the dependent-arising link from feeling to craving; B067 gives that link a working instruction: identify the feeling as painful, pleasant, or neither.",
+   "notes": "B067 rewrite (worker-p1d-8f3a21c4, 2026-10-20): MN 10 Thanissaro (dhammatalks.org) and MN 118 Thanissaro (Access to Insight) opened and quoted verbatim; see sources/p1d/B067.md. B068 body checked: its SN 12.2 sequence places feeling between contact and craving."
   },
   {
-   "into": "Reversal (fu)",
-   "link": "D005 — Expect reversal — extremes turn into their opposites",
-   "why": "D005 is the compendium's principle on the reversal the concept page cites from Daodejing 40, built on the Gutenberg Legge edition with verbatim chapters 9, 40 and 58."
+   "into": "B067",
+   "link": "B039",
+   "why": "B039 lays out the four foundations of mindfulness; B067 gives the feeling-tone domain its working instruction.",
+   "notes": "B039 body names feeling tone as one of the four domains (checked in current file)."
   },
   {
-   "into": "Wu wei",
-   "link": "D012 — Model yourself on water",
-   "why": "the Daodejing's chapter 8 water image, occupying the low place without striving, is one of the text's own expressions of non-forcing."
+   "into": "B128",
+   "link": "The raft",
+   "why": "MN 22 is the shared source: the concept page collects the raft image and its facets, the principle page states the instruction the simile carries.",
+   "notes": "B128 rewrite (worker-p1d-8f3a21c4, 2026-10-20): MN 22 Thanissaro (dhammatalks.org) and Dhp 97 Buddharakkhita (Access to Insight) opened and quoted verbatim; see sources/p1d/B128.md. The raft concept body checked (cites MN 22, seed)."
   }
  ],
- "notes": "p1d proposals from PP051 and D005 enrichment (genuineflourishing30). Audit (moved from why by supervisor-0ddcdd37): Creativity and Reversal (fu) were one-line seeds citing no principle; Wu wei listed Daoist principles citing it but not D012; Wu wei's D012 clause grounded in the opened Gutenberg Legge edition."
+ "notes": " | deferred at this run (target band busy): 3 recip, 0 inline"
 }

@@ -29,10 +29,11 @@ The theory's most useful distinction concerns what anxiety costs. "Adverse effec
 
 ## Related concepts
 
+
 - [[Attention]] — how anxiety taxes attention ([Eysenck et al., 2007](https://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_mathematik_und_naturwissenschaften/fachrichtung_psychologie/i1/allgpsy/lehre/pruefungsliteratur_KN_2013/Eysenck-2007.pdf), abstract, p. 336)
 - [[Executive function theory Miyake]] — inhibition and shifting as executive functions ([Eysenck et al., 2007](https://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_mathematik_und_naturwissenschaften/fachrichtung_psychologie/i1/allgpsy/lehre/pruefungsliteratur_KN_2013/Eysenck-2007.pdf), abstract, p. 336)
 - [[Attentional bias research]]
-
+- [[The discipline of attention]] — Weil’s account of receptive attention in study and prayer, contrasted here with a psychological theory of anxiety.
 ## Sources
 
 - Eysenck et al., 2007

@@ -37,3 +37,7 @@ Accountability without self-flagellation sounds simple. What practices make it p
 %%
 How does the legal and moral difference between involuntary and voluntary wrongs show up in the way we forgive?
 -->
+
+## Related concepts
+
+- [[P166]] — A060 separates forgiving from excusing; P166 supplies Rogers's account of acceptance that is not approval, the same distinction drawn for the therapy relationship.

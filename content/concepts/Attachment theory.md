@@ -31,10 +31,11 @@ The theory's account of how early bonds shape later relationships runs through m
 
 ## Related concepts
 
+
 - [[Family systems theory]] — the developmental account of the bonds the family system is built on
 - [[Attachment security]] — the state the attachment system aims at
 - [[Nonattachment]] — the contemplative ideal of freedom from clinging, distinct from avoidant deactivation
-
+- [[The capacity to be alone]] — the research tradition that later mapped the reliable other
 ## Sources
 
 - Mikulincer and Shaver, 2007

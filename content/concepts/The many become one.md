@@ -27,11 +27,12 @@ The classical ontology the formula argues against takes substances as fundamenta
 
 ## Related concepts
 
+
 - [[Concrescence]] — the growing-together the formula names
 - [[Actual occasions]] — the units the formula produces
 - [[Process philosophy]] — the tradition the formula anchors
 - [[Unity of opposites]] — the older Heraclitean form of many-into-one
-
+- [[The ten thousand things]] — Whitehead's version of a world of many particulars
 ## Sources
 
 - Whitehead, Process and Reality

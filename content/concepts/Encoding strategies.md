@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 elaboration, organisation, and connecting to prior knowledge improve memory (Craik & Lockhart, 1972).
 
+## Related concepts
+
+- [[The testing effect / retrieval practice]] — The encoding and retrieval levers on memory named together in the compendium’s CO056.
+
 ## Sources
 
 - Craik & Lockhart, 1972

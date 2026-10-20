@@ -31,6 +31,11 @@ For this exercise, ask how an experience feels while it is happening. Is the fee
 
 *For example:* Imagine reading an email you take to be curt. Before writing a reply, note that reading it feels unpleasant. Then reread the message and decide what you want to say.
 
+## Related concepts
+
+
+- [[B068]] — B068 works with the dependent-arising link from feeling to craving; B067 gives that link a working instruction: identify the feeling as painful, pleasant, or neither.
+- [[B039]] — B039 lays out the four foundations of mindfulness; B067 gives the feeling-tone domain its working instruction.
 ## Sources
 
 - [Satipaṭṭhāna Sutta, MN 10 (Thanissaro), dhammatalks.org](https://www.dhammatalks.org/suttas/MN/MN10.html) — contemplation of feelings and its refrain

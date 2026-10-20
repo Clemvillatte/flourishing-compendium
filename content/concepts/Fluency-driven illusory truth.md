@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 the finding that felt certainty tracks ease of processing, not accuracy (Fazio et al., 2015).
 
+## Related concepts
+
+- [[The testing effect / retrieval practice]] — Rereading raises confidence without retention; the fluency of reread text is mistaken for knowing.
+
 ## Sources
 
 - Fazio et al., 2015

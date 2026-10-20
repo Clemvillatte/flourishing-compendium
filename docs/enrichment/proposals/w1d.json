@@ -31,84 +31,9 @@
    "why": "the thing Epicurus's classification sorts"
   },
   {
-   "into": "The natural attitude",
-   "link": "Phenomenological psychology",
-   "why": "the everyday attitude phenomenological psychology suspends and studies"
-  },
-  {
    "into": "Embodied social identity",
    "link": "Procedural justice",
    "why": "the group-identification mechanism behind process fairness effects"
-  },
-  {
-   "into": "Stress inoculation training",
-   "link": "Progressive muscle relaxation (Jacobson)",
-   "why": "PMR is one of the relaxation coping skills stress inoculation trains"
-  },
-  {
-   "into": "Acts of kindness (Lyubomirsky)",
-   "link": "Prosocial behaviour",
-   "why": "kindness acts are the daily-activities variant of the same behaviour"
-  },
-  {
-   "into": "Learning by doing",
-   "link": "Reflective practice",
-   "why": "Sch\u00f6n's professional descendant of the reflection requirement"
-  },
-  {
-   "into": "Future time perspective",
-   "link": "Prosocial behaviour",
-   "why": "the behavioural outcome future orientation promotes"
-  },
-  {
-   "into": "Graded exposure systematic desensitisation (Wolpe)",
-   "link": "Stress inoculation training",
-   "why": "the graduated-dose principle SIT borrows"
-  },
-  {
-   "into": "Fusion of horizons",
-   "link": "Taking the role of the other",
-   "why": "the hermeneutic version of entering another's perspective"
-  },
-  {
-   "into": "Attachment theory",
-   "link": "The capacity to be alone",
-   "why": "the research tradition that later mapped the reliable other"
-  },
-  {
-   "into": "Showing versus saying",
-   "link": "The limits of language",
-   "why": "what can only be displayed, the other side of the limit"
-  },
-  {
-   "into": "Taking the role of the other",
-   "link": "The social self",
-   "why": "the mechanism this page builds on"
-  },
-  {
-   "into": "The need to belong",
-   "link": "The social self",
-   "why": "the motivation the social self serves"
-  },
-  {
-   "into": "The smallest complete practice",
-   "link": "The ten thousand things",
-   "why": "chapter 64's arithmetic from the same passage"
-  },
-  {
-   "into": "The many become one",
-   "link": "The ten thousand things",
-   "why": "Whitehead's version of a world of many particulars"
-  },
-  {
-   "into": "The common good",
-   "link": "The theoretical life",
-   "why": "the political life the chapter ranks second"
-  },
-  {
-   "into": "Implicit theories of intelligence",
-   "link": "Achievement goal theory (Dweck, Elliot)",
-   "why": "the goal framework Dweck's fixed and malleable beliefs feed into"
   },
   {
    "into": "Growth mindset",
@@ -124,24 +49,8 @@
    "into": "Achievement motivation theory",
    "link": "Achievement goal theory (Dweck, Elliot)",
    "why": "the framework distinguishing learning and performance goals within achievement motivation"
-  },
-  {
-   "into": "Approach versus avoidance motivation",
-   "link": "Achievement goal theory (Dweck, Elliot)",
-   "why": "the achievement-goal framework built on the approach and avoidance distinction"
-  },
-  {
-   "into": "Competence",
-   "link": "Achievement goal theory (Dweck, Elliot)",
-   "why": "the goal framework whose two goal classes are both defined by competence"
   }
  ],
- "inline": [
-  {
-   "into": "P015",
-   "concept": "Achievement goal theory (Dweck, Elliot)",
-   "phrase": "Learning goals versus performance goals"
-  }
- ],
- "notes": " | deferred at this run (target band busy): 6 recip, 0 inline | deferred at this run (target band busy): 6 recip, 0 inline | deferred at this run (target band busy): 6 recip, 0 inline | deferred at this run (target band busy): 21 recip, 1 inline | deferred at this run (target band busy): 21 recip, 0 inline | deferred at this run (target band busy): 21 recip, 0 inline"
+ "inline": [],
+ "notes": " | deferred at this run (target band busy): 6 recip, 0 inline | deferred at this run (target band busy): 6 recip, 0 inline | deferred at this run (target band busy): 6 recip, 0 inline | deferred at this run (target band busy): 21 recip, 1 inline | deferred at this run (target band busy): 21 recip, 0 inline | deferred at this run (target band busy): 21 recip, 0 inline | deferred at this run (target band busy): 10 recip, 0 inline"
 }

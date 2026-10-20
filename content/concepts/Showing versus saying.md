@@ -32,6 +32,7 @@ The book closes by applying the distinction to itself. Its own propositions are 
 
 ## Related concepts
 
+
 - [[Language games]] — the later Wittgenstein's replacement for the Tractatus picture
 - [[Apophatic theology]] — the older tradition of unsaying what cannot be said
 - [[Koan practice]] — the Zen device for pointing past what propositions can carry
@@ -46,6 +47,7 @@ The book closes by applying the distinction to itself. Its own propositions are 
 [[A025 — Practice proper pride (kaucha)]]
 [[Y120 — Meet people where they are]]
 [[K044 — Speak slowly, and let speech be timely]]
+- [[The limits of language]] — what can only be displayed, the other side of the limit
 ## Cited in philosophy parallels
 
 - [[D135 — Teach without words]]

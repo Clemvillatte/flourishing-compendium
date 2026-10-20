@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Deliberation as rehearsal” — Dewey, Human Nature and Conduct.
 
+## Related concepts
+
+- [[CO042]] — CO042 discusses deliberate reasoning when evaluating important risks.
+
 ## Sources
 
 - Dewey, Human Nature and Conduct

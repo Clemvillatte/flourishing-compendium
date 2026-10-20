@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 the memory research on how memorized material resists degradation (the spaced-retrieval literature; Roediger and Karpicke, 2006, for retrieval practice).
 
+## Related concepts
+
+- [[The testing effect / retrieval practice]] — The spaced-retrieval literature on how memorized material resists degradation; retrieval practice is its training method.
+
 ## Sources
 
 - the spaced-retrieval literature

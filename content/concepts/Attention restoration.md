@@ -30,9 +30,10 @@ Being away, Kaplan stresses, "involves a conceptual rather than a physical trans
 
 ## Related concepts
 
+
 - [[Sabbath]] — the mandated rest that attention science later mapped
 - [[Peak experiences]] — soft fascination, the restful attention that invites peaks
-
+- [[AT039]] — AT039 applies Berman, Jonides and Kaplan's finding that nature walks and nature pictures improved specified attention tests to the choice of workday breaks.
 ## Sources
 
 - Kaplan, 1995

@@ -11,8 +11,9 @@ the operational component of attending to raw experience before interpretation (
 
 ## Related concepts
 
-- [[Body scan in MBSR (Kabat-Zinn)]] — the scan asks for bare attention to each body region before interpretation
 
+- [[Body scan in MBSR (Kabat-Zinn)]] — the scan asks for bare attention to each body region before interpretation
+- [[The discipline of attention]] — Weil’s account of receptive, waiting attention, offered here as a comparison with mindfulness practice.
 ## Sources
 
 - Bishop et al., 2004, the two-component definition
