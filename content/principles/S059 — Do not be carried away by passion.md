@@ -12,13 +12,24 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 181** — Do not be carried away by passion
 
-The Stoics distinguish between passions (pathē), which are excessive and irrational, and eupatheiai, which are healthy emotional responses. The goal is not to feel nothing but to feel appropriately. Anger, fear, grief, and desire, when they exceed what reason approves, are passions. Train yourself to feel within the bounds of reason.
+Seneca's characterization of anger sets the bar for what a passion is: a short madness, devoid of self control, deaf to reason and advice, excited by trifling causes. The Stoic theory behind it puts the mechanism plainly: the passions are not automatic reactions we cannot avoid experiencing; they are the result of a judgment, giving assent to an impression. The healthy counterparts exist too, the eupatheiai, which the encyclopedia's glossary calls the healthy passions cultivated by the Sage.
 
-(Seneca, De Ira I.7-9; Med. VI.6, VII.17; Disc. III.2, III.8, III.10.)
+> Some of the wisest of men have in consequence of this called anger a short madness: for it is equally devoid of self control, regardless of decorum, forgetful of kinship, obstinately engrossed in whatever it begins to do, deaf to reason and advice, excited by trifling causes, awkward at perceiving what is true and just, and very like a falling rock which breaks itself to pieces upon the very thing which it crushes.
+> (Seneca, Of Anger I.1, trans. Stewart)
 
-**Plain words** The Stoics separate passions, which are excessive and irrational, from healthy feelings. The goal isn't feeling nothing but feeling fittingly. Anger, fear, grief and desire become passions when they exceed what reason endorses.
+> For the Stoics, then, the "passions" are not automatic, instinctive reactions that we cannot avoid experiencing. Instead, they are the result of a judgment, giving "assent" to an "impression."
+> (Internet Encyclopedia of Philosophy, Stoicism, section 4)
+
+Seneca's advice is about timing: reject straightway the first incentives to anger and resist its very beginnings, because once it begins to carry us away it is hard to get back into a healthy condition, since reason goes for nothing once passion has been admitted and given authority. The compendium's application is that timing: the work is at the first incentive, not after the passion has been given authority.
+
+**Plain words** A passion, on the Stoic account, is a judgment you have assented to, not a thing that happens to you. Anger is the clearest case: Seneca calls it a short madness, deaf to advice, excited by trifles. The training is not to stop feeling; it is to catch the movement at its first incentive, before reason has been evicted.
 
 *For example:* Being sad at a friend's departure is fitting. Spiralling for a week over it is the passion.
+
+## Sources
+
+- [Seneca, Of Anger, Book I (Aubrey Stewart translation, Wikisource)](https://en.wikisource.org/wiki/Of_Anger/Book_I) — I.1, I.8
+- [Stoicism, Internet Encyclopedia of Philosophy, section 4](https://iep.utm.edu/stoicism/)
 
 ## Stories
 
@@ -34,7 +45,8 @@ The Stoics distinguish between passions (pathē), which are excessive and irrati
 ## Philosophy parallels
 
 - **[[The doctrine of the mean|The mean]]** (Aristotle, NE II.6)
-- **Let reason guide desire** (Aristotle, NE I.13)- **[[Apatheia|Apatheia]]** (Stoicism)
+- **Let reason guide desire** (Aristotle, NE I.13)
+- **[[Apatheia|Apatheia]]** (Stoicism)
 
 
 <!-- fc: reflections
