@@ -43,3 +43,7 @@
 ## PP050
 - PubMed abstracts: Carleton 2012 (23002938), Ladouceur et al. 2000 (10957827), Dugas & Ladouceur 2000 (11036732), Dugas et al. 2010 (20171327); quotes verified verbatim.
 - Limits: full texts and Dugas et al. 2004 (inherited) not opened; Ladouceur n=42 gambling manipulation; Dugas & Ladouceur 2000 n=4. Statement's 'trainable skill' supported by CBT-for-IU studies, but 'staying with discomfort a little longer each time' (exposure drill) not verified; body says so. Anxiety-disorder samples; generalization to non-clinical readers cautious. Example hypothetical.
+
+## PP056
+- Abstracts opened (publisher/repository pages from search results): Magnuson & Barnett 2013 (T&F), Proyer 2013 (EJHR), Proyer 2012 (Zurich repository); quotes verbatim.
+- Limits: Brown (2009) book not opened; full texts not opened; all cross-sectional/correlational. Statement's 'mechanism is suspension of goal-directed striving' and 'creativity, stress recovery' partly unsupported (creativity only via Proyer 2012 ingenuity; recovery not tested). Body states this. Example hypothetical.
