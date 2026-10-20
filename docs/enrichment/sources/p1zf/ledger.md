@@ -84,3 +84,7 @@
 ## MO006 — Wanting vs liking
 - Sources opened: Berridge & Robinson 2016 Am Psychol 71:670-679 (PMID 27977239, abstract, verbatim); Schultz, Dayan & Montague 1997 Science 275:1593-1599 (PMID 9054347, abstract).
 - Corrections: "opioids mediate liking" not stated in the abstract, flagged; liking is "not dependent on dopamine". Berridge 2009 and Schultz 2016 not opened. Schopenhauer, Dhammapada, Mill bullets inherited, unverified. "Explains many puzzles / breaks half your worst habits" claims removed.
+
+## MO018 — Needs vs wants
+- Sources opened: Ryan & Deci 2000 Am Psychol 55:68-78 (PMID 11392867, abstract); Epicurus Principal Doctrines 29 (MIT Classics, verbatim); Dittmar et al. 2014 JPSP 107:879-924 (PMID 25347131, abstract).
+- Corrections: SDT lists three needs; "health, safety" are not SDT needs. "Wants often substitute for needs" is only partly supported (mediation analysis, correlational, modest effect sizes). Deci & Ryan 2000, Kasser 2002 not opened. Second Noble Truth and Daodejing 44 bullets inherited, unverified.
