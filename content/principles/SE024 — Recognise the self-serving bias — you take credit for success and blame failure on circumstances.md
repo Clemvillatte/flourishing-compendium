@@ -33,9 +33,11 @@ The mind keeps the score with a thumb on the scale: my wins were skill, my losse
 
 ## Philosophy parallels
 
-- **[[The examined life|The examined life]] requires examined attributions** (Socrates, Apology)
-- **[[Humility|Humility about success]]** (Aquinas, Summa Theologica)
-- **[[Right view|Right view about causation]]** (Buddhism, dependent origination)
+Suggested connections for further reading, not verified textual parallels.
+
+- **[[The examined life|The examined life]]**
+- **[[Humility|Humility about success]]**
+- **[[Right view|Right view about causation]]**
 
 ## Practice
 

@@ -33,9 +33,11 @@ The harsh inner voice feels like a fact of your mental furniture, but Neff's com
 
 ## Philosophy parallels
 
-- **[[Amor sui (right self-love)|Amor sui (right self-love)]]** (Spinoza, Ethics IV)
-- **[[Metta (loving-kindness)|Metta (loving-kindness toward self)]]** (Buddhism, Metta Sutta)
-- **[[The golden rule|The golden rule inverted]]** (Hillel the Elder, Talmud)
+Suggested connections for further reading, not verified textual parallels.
+
+- **[[Amor sui (right self-love)|Amor sui (right self-love)]]**
+- **[[Metta (loving-kindness)|Metta (loving-kindness toward self)]]**
+- **[[The golden rule|The golden rule inverted]]**
 
 ## Practice
 

@@ -34,9 +34,10 @@ The whip theory says the whipping is what keeps standards up. The experiment did
 
 ## Philosophy parallels
 
-- **[[Metta (loving-kindness)|Metta (loving-kindness toward self)]]** (Buddhism)
-- **[[Grace|Grace before judgment]]** (Christian tradition)
-- **Spinoza: understanding over condemnation** (Spinoza, Ethics)
+Suggested connections for further reading, not verified textual parallels.
+
+- **[[Metta (loving-kindness)|Metta (loving-kindness toward self)]]**
+- **[[Grace|Grace before judgment]]**
 
 ## Practice
 
