@@ -8,3 +8,6 @@ No advisor tool available; QC is self-QC only.
 ## S137 Integrate philosophy into your work
 - Opened: Musonius Rufus Lecture 11 (Lutz) full text via TheStoicLife.org; quotes §§9, 16, 17 verbatim.
 - Removed unsupported original claims (Musonius "was a farmer"; the long Med./Seneca/Disc./Ench. locator list, none individually opened). Extension from farming to any job labelled the entry's own reading.
+
+## SE010 Understand that the self is a process, not a thing
+- Opened: Sartre, Existentialism Is a Humanism (Mairet), marxists.org; quotes verbatim. Markus & Wurf (1987) abstract could not be opened (Annual Reviews blocked; Crossref/Semantic Scholar had no record), so inherited psychology parallels are uncertified. "Construction/maintenance/revision" labelled the entry's gloss.

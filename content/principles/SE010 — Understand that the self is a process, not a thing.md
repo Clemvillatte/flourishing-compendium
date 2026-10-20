@@ -12,11 +12,22 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 10** — Understand that the self is a process, not a thing
 
-The self is not a static entity that you have; it is an ongoing process of self-construction, self-maintenance, and self-revision. Identity is continually being made and remade. This is both liberating (change is possible) and demanding (selfhood requires ongoing work).
+> Man is nothing else but that which he makes of himself.
 
-**Plain words** The self is not a static thing you have; it's an ongoing process of construction, maintenance, and revision. Continually made and remade. Liberating — change is structural — and demanding — the maintenance never stops.
+(Sartre, Existentialism Is a Humanism (1946), trans. Philip Mairet, at [Marxists Internet Archive](https://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm).)
 
-*For example:* The person grieving the "loss of who I was" after the life change — and the reframe that lands: the self was never a possession, it was a project. You didn't lose the thing; the construction site moved. The grief is real; the permanence was the illusion.
+A few lines later Sartre adds that "man is, before all else, something which propels itself towards a future and is aware that it is doing so," and that he is "a project which possesses a subjective life." In this passage the self is something carried forward by choices, with no fixed essence set in advance.
+
+Sartre does not use the words "construction, maintenance and revision." Those three terms are this entry's gloss on his claim that a person is what they make of themselves. The same idea also appears in the entry's psychology and process-philosophy parallels, which were not re-checked here.
+
+**Plain words** You are not an object you possess and might lose. You are something you keep doing. That means you can change, and it means the work never quite ends.
+
+*For example:* After a major life change, someone says they have lost who they were. The reframe is that the self was always a project in motion, so what changed is the direction of the work, not a stored thing taken away.
+
+## Sources
+
+- [Sartre, Existentialism Is a Humanism (trans. P. Mairet), Marxists Internet Archive](https://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm) — opened; the "first principle of existentialism" passage
+
 ## Psychology parallels
 
 - **[[Self as process|Self as process]]**, self-concept is dynamic and continually updated (Markus & Wurf, 1987; Oyserman et al., 2012)
