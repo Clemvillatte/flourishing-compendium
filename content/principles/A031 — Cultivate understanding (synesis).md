@@ -12,9 +12,9 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 31** — Cultivate understanding (synesis)
 
-Aristotle defines understanding as judging rather than commanding. It is "neither about things that are always and are unchangeable, nor about any and every one of the things that come into being, but about things which may become subjects of questioning and deliberation" ([NE VI.10](http://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)). "Practical wisdom issues commands... but understanding only judges" — and what it judges is "what some one else says about matters with which practical wisdom is concerned," judging it soundly ([NE VI.10](http://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)). The exercise below practices that judging.
+Aristotle defines understanding as judging rather than commanding ([NE VI.10](http://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)). It is "neither about things that are always and are unchangeable, nor about any and every one of the things that come into being, but about things which may become subjects of questioning and deliberation" ([NE VI.10](http://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)). "For practical wisdom issues commands... but understanding only judges" — and what it judges is "what some one else says about matters with which practical wisdom is concerned," judging it soundly ([NE VI.10](http://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)). The exercise below practices that judging.
 
-> Practical wisdom issues commands, since its end is what ought to be done or not to be done; but understanding only judges.
+> For practical wisdom issues commands, since its end is what ought to be done or not to be done; but understanding only judges.
 >
 > Aristotle, Nicomachean Ethics VI.10, translated by W. D. Ross, [Internet Classics Archive](http://classics.mit.edu/Aristotle/nicomachaen.6.vi.html).
 
@@ -26,7 +26,7 @@ Aristotle defines understanding as judging rather than commanding. It is "neithe
 
 ### Plain words
 
-On Aristotle's definition, this one is a judge, not a commander: it sizes up what someone says about a practical matter — the doctor's advice, the builder's plan, the official's reasoning — and says whether it holds. For an exercise, take one such claim you heard this week and write down, in a sentence, what would have to be true for it to be sound.
+On Aristotle's definition, this one is a judge, not a commander ([NE VI.10](http://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)): it sizes up what someone says about a practical matter — the doctor's advice, the builder's plan, the official's reasoning — and says whether it holds. For an exercise, take one such claim you heard this week and write down, in a sentence, what would have to be true for it to be sound.
 
 For example: hearing "we've always done it this way, so it works" and judging what would have to be true for that to follow. The example is invented; the act it names, judging soundly what someone says, is the definition's.
 
