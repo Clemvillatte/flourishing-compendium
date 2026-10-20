@@ -1,0 +1,120 @@
+{
+ "reciprocal": [
+  {
+   "into": "Nonattachment",
+   "link": "Non-attachment",
+   "why": "the Buddhist ideal this psychological construct was built to measure"
+  },
+  {
+   "into": "Impermanence",
+   "link": "Non-attachment",
+   "why": "non-attachment responds to impermanence: clinging to what cannot last causes suffering"
+  },
+  {
+   "into": "Detachment from outcomes",
+   "link": "Non-attachment",
+   "why": "the Gita's counsel to act without attachment to results, and its contrast with apathy"
+  },
+  {
+   "into": "HPA axis theory stress",
+   "link": "Behavioral epigenetics",
+   "why": "epigenetic studies link early care to lasting HPA-axis calibration"
+  },
+  {
+   "into": "Neuroplasticity",
+   "link": "Behavioral epigenetics",
+   "why": "experience-dependent change at the epigenetic level complements synaptic plasticity"
+  },
+  {
+   "into": "Attachment theory",
+   "link": "Behavioral epigenetics",
+   "why": "maternal care studies connect attachment quality to epigenetic programming"
+  },
+  {
+   "into": "Atman",
+   "link": "Maya (illusion)",
+   "why": "Maya veils the Self; Brahman alone is real"
+  },
+  {
+   "into": "Avidya",
+   "link": "Maya (illusion)",
+   "why": "ignorance is the subjective side of what Maya presents as appearance"
+  },
+  {
+   "into": "Deliberate practice",
+   "link": "Openness and not knowing in skilled practice",
+   "why": "expert practice includes monitoring what you do not yet know"
+  },
+  {
+   "into": "Beginner's mind",
+   "link": "Openness and not knowing in skilled practice",
+   "why": "the Zen stance of staying open where fixed knowing would close"
+  },
+  {
+   "into": "Intuitive expertise",
+   "link": "Openness and not knowing in skilled practice",
+   "why": "expert intuition can coexist with explicit awareness of its limits"
+  },
+  {
+   "into": "COM-B model theory",
+   "link": "Behavior change wheel theory Michie",
+   "why": "the COM-B system whose components the wheel maps onto intervention functions"
+  },
+  {
+   "into": "Transtheoretical model (Prochaska & DiClemente)",
+   "link": "Behavior change wheel theory Michie",
+   "why": "readiness stages complement the capability, opportunity and motivation analysis"
+  },
+  {
+   "into": "Implementation intentions",
+   "link": "Behavior change wheel theory Michie",
+   "why": "if-then planning as an intervention technique applied to motivation and opportunity"
+  },
+  {
+   "into": "Post-traumatic growth",
+   "link": "Benefit finding",
+   "why": "the transformative dimension of benefit finding after trauma"
+  },
+  {
+   "into": "Stress-related growth",
+   "link": "Benefit finding",
+   "why": "a near-synonym often used interchangeably with benefit finding"
+  },
+  {
+   "into": "Acculturation theory Berry",
+   "link": "Bicultural identity integration",
+   "why": "integration is the acculturation strategy whose internal ease BII measures"
+  },
+  {
+   "into": "Emotion regulation",
+   "link": "Co-regulation of affect in relationships",
+   "why": "interpersonal processes broaden the regulation toolkit"
+  },
+  {
+   "into": "Attachment theory",
+   "link": "Co-regulation of affect in relationships",
+   "why": "attachment patterns shape how dyads regulate affect together"
+  },
+  {
+   "into": "Cognitive load theory",
+   "link": "Cognitive attentional syndrome Wells",
+   "why": "worry and rumination consume working memory capacity"
+  },
+  {
+   "into": "Attentional control theory (Eysenck)",
+   "link": "Cognitive attentional syndrome Wells",
+   "why": "attentional control is what the syndrome impairs"
+  },
+  {
+   "into": "Attentional control training and the role of repeated redirection",
+   "link": "Cognitive attentional syndrome Wells",
+   "why": "the repeated redirection practice that counters the syndrome"
+  },
+  {
+   "into": "Confirmation bias",
+   "link": "Cognitive bias modification theory",
+   "why": "a cognitive bias that interpretive modification procedures aim to retrain"
+  }
+ ],
+ "inline": []
+}

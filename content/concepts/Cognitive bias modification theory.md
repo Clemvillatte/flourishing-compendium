@@ -7,13 +7,11 @@ file: "Cognitive bias modification theory"
 tags: ["theory", "psych/cognition"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-COGNITION"], "alternatePaths": []}
 ---
-Cognitive bias modification (CBM) is the attempt to retrain automatic cognitive biases by repeated practice on tasks that embed the desired contingency: probe tasks that train attention away from threat, or ambiguous-sentence tasks that train benign interpretations. The idea is training rather than insight: the bias is treated as a habit of processing, not a belief to argue with.
+Cognitive bias modification (CBM) is an approach to modifying cognitive biases that confer vulnerability to anxiety. Its interventions target two biases in particular: attention bias, the tendency to selectively attend to threat stimuli even when they are irrelevant to current goals, and interpretation bias, the tendency to interpret ambiguous or mildly negative cues in a negative or catastrophic manner.
 
-> "Twelve studies met inclusion criteria, including 467 participants from 10 publications. ABMT produced significantly greater reductions in anxiety than control training, with a medium effect (d = 0.61, p <.001)." (Hakamata et al., [Attention Bias Modification Treatment: A meta-analysis towards the establishment of novel treatment for anxiety](https://pmc.ncbi.nlm.nih.gov/articles/PMC3296778/), Biol Psychiatry 68(11):982-990, 2010, abstract)
+> "CBM interventions are designed to directly modify attention and interpretation biases via repeated practice on cognitive tasks." (Beard, [Cognitive bias modification for anxiety: current evidence and future directions](https://pmc.ncbi.nlm.nih.gov/articles/PMC3092585/), Expert Rev Neurother 11(2):299-311, 2011)
 
-### What the evidence showed
-
-Hakamata and colleagues' meta-analysis covered randomized trials of attention bias modification treatment against control training, and reported a medium average effect on anxiety, with age and gender not moderating it while several characteristics of the training did ([abstract](https://pmc.ncbi.nlm.nih.gov/articles/PMC3296778/)). The authors describe the treatment as newly emerging and call for further randomized trials to evaluate replication and applicability to patients, so the seed's claim should be read as the program's aim rather than a settled result.
+Instruction plays little role in the method; change comes through the practice itself. Beard quotes the field's two key features: the direct target of change is a cognitive bias known to characterize a clinical disorder or vulnerability trait, and the manipulation of the bias "has not principally relied on instruction but instead has involved extensive practice on a cognitive task designed to encourage and facilitate the desired cognitive change" ([Beard 2011](https://pmc.ncbi.nlm.nih.gov/articles/PMC3092585/)). A meta-analysis of twelve randomized trials found that the attentional form, attention bias modification treatment, "produced significantly greater reductions in anxiety than control training, with a medium effect (d = .51 [corrected] (p < .001)" ([Hakamata et al. 2010, PubMed record](https://pubmed.ncbi.nlm.nih.gov/20887977/)). The authors' conclusion is hedged: additional randomized trials are needed to fully evaluate the degree to which the findings replicate and apply to patients.
 
 ### In the compendium
 
@@ -37,7 +35,8 @@ Cognition · Psychological science
 
 ## Sources
 
-- [Hakamata, Lissek, Bar-Haim, Britton, Fox, Leibenluft, Ernst and Pine, Attention Bias Modification Treatment: A meta-analysis towards the establishment of novel treatment for anxiety (Biol Psychiatry 68(11):982-990, 2010), PMC full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC3296778/) — the blockquote and meta-analytic results above
+- [Beard, Cognitive bias modification for anxiety: current evidence and future directions (Expert Rev Neurother 11(2):299-311, 2011), PMC full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC3092585/) — the blockquote and the attention and interpretation bias definitions
+- [Hakamata et al., Attention bias modification treatment: a meta-analysis toward the establishment of novel treatment for anxiety (Biol Psychiatry 68(11):982-990, 2010), PubMed corrected abstract](https://pubmed.ncbi.nlm.nih.gov/20887977/) — the meta-analytic result sentence
 
 ## Cited in parallels
 
