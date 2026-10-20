@@ -244,6 +244,31 @@
       "into": "Anti-authoritarian inquiry",
       "link": "Education as growth",
       "why": "Inquiry over received answers belongs to the same Deweyan tradition."
+    },
+    {
+      "into": "Extrinsic motivation",
+      "link": "Intrinsic motivation",
+      "why": "Extrinsic motivation is the contrast case the definition of intrinsic motivation builds on."
+    },
+    {
+      "into": "Self-concordance theory",
+      "link": "Intrinsic motivation",
+      "why": "Self-concordant goals are pursued for reasons close to intrinsic motivation."
+    },
+    {
+      "into": "Eudaimonic well-being",
+      "link": "Intrinsic motivation",
+      "why": "Eudaimonic well-being is what intrinsically motivated activity tends to produce."
+    },
+    {
+      "into": "Growth mindset",
+      "link": "Intrinsic motivation",
+      "why": "A growth mindset keeps challenge welcome, which intrinsic motivation seeks."
+    },
+    {
+      "into": "Mastery orientation",
+      "link": "Intrinsic motivation",
+      "why": "Mastery goals pursue competence for its own sake, the intrinsic structure."
     }
   ],
   "inline": [
@@ -321,6 +346,26 @@
       "into": "P127",
       "concept": "Associated living",
       "phrase": "a mode of associated living"
+    },
+    {
+      "into": "Achievement goal theory (Dweck, Elliot)",
+      "concept": "Intrinsic motivation",
+      "phrase": "mastery goals on intrinsic motivation"
+    },
+    {
+      "into": "Autonomy-threat research",
+      "concept": "Intrinsic motivation",
+      "phrase": "undermine intrinsic motivation"
+    },
+    {
+      "into": "D063",
+      "concept": "Intrinsic motivation",
+      "phrase": "yields intrinsic motivation and growth"
+    },
+    {
+      "into": "D096",
+      "concept": "Intrinsic motivation",
+      "phrase": "Extrinsic versus intrinsic motivation"
     }
   ]
 }
