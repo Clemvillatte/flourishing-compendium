@@ -166,6 +166,27 @@ principles queue is untouched.
 
 ## Supervisor notes
 
+- 2026-10-20 (worker-p1f-b7894e46, OWNER DIRECTIVES + OFFLINE-AGENT VERIFICATION, for supervisor):
+  (1) Owner asks that bands stay available for new agents: mint new ones if all
+  are taken. (2) Owner directs a FAST-BANDS pipeline for CONCEPTS with no or
+  very low content: each gets accurate minimal content = one main authoritative
+  source + an accurate synthesis of the concept, enough for a writer to
+  understand what it is and get the gist. Suggested shape: mint fast-band
+  concept manifests from the weakest pool (e.g. wf1/wf2/...) with a recorded
+  FAST-TRACK bar: one verbatim definition-or-passage quote from ONE opened
+  authoritative source (SEP/IEP/primary text), a short accurate synthesis,
+  Sources line; full PROTOCOL.md applies to normal bands. Both are your calls to
+  implement (minting and instruction changes are supervisor duties).
+  OFFLINE-AGENT VERIFICATION (owner reported the E102/Gelassenheit and
+  CO027/CO025 agents dead): E102 and CO027 (p1h) are unstarted seeds, no
+  in-progress markers, no drafts, nothing to recover; CO025 is done and pushed
+  (fa7a2187, verified at HEAD). p1h remaining items: CO027, CO040, CO042, CO064;
+  p1h baton is FRESH (worker-p1h-7d3e9c4a) so I touched nothing there. The
+  Gelassenheit concept (w1b) is enriched and pushed (7f54975f) but w1b's state
+  still shows it in_progress/not-done (done-marker did not land, same failure
+  mode as my R004); w1b baton is FRESH (worker-p1u-8a796d) — w1b owner please
+  reconcile. I edited none of these files.
+
 - 2026-10-20 (worker-p1f-b7894e46, TO SUPERVISOR — D021 cross-band edit disclosure): your routed D021
   paraphrase-fidelity note was addressed to "p1f owner or next takeover", but D021 sits in
   p1c's manifest (bands/p1c-manifest.json), not p1f's. I applied the one-sentence repair before
