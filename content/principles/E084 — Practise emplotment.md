@@ -12,13 +12,23 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 476** — Practise emplotment
 
-Recognise that your life is structured as a plot — a configuration of events into a meaningful whole. Emplotment (mise en intrigue), Ricoeur's concept, is the process by which disparate events are gathered into a story that has coherence, direction, and meaning. Practise emplotment by reflecting on the story of your life and the plot that gives it shape.
+> Through their plots they are always a synthesis of heterogeneous concepts into a kind of discordant concordance which configures the episodes of the story into a told story.
 
-(Ricoeur, 1984/1990, Time and Narrative, vol. 1; Ricoeur, 1990/1992, Oneself as Another.)
+(Ricoeur's account of emplotment in Time and Narrative, as summarised in the [Stanford Encyclopedia of Philosophy, "Paul Ricoeur", section 4](https://plato.stanford.edu/entries/ricoeur/). Quoted at second hand; the volume itself was not consulted.)
 
-**Plain words** Emplotment: your life is structured as a plot — disparate events gathered into a story with coherence, direction, and meaning. Practise emplotment: not inventing fiction, but configuring the real events into the story that honestly holds them.
+The [Internet Encyclopedia of Philosophy](https://iep.utm.edu/ricoeur/) places emplotment at the second of Ricoeur's three stages, mimesis2, which it calls "the kingdom of the as if." There, emplotment "configures events, agents and objects and renders those individual elements meaningful as part of a larger whole." It "forges a causal continuity from a temporal succession": the structure of one thing after another becomes one thing because of another.
 
-*For example:* The career failure that sat as raw shame for a decade — then becomes, in the told version, the turn that forced the change. Same facts; the plot configures them. The configuration isn't lying; it's the emplotment doing its job.
+The Stanford Encyclopedia adds that narratives "never fully exhaust time or the possible long-term meaning of action", because stories have endings. Ricoeur's later step is that personal identity can be considered in terms of narrative identity: "what story does a person tell about his or her life, or what story do others tell about it?"
+
+**Plain words** A plot takes separate events and makes them follow from one another, so that one thing happens because of another and not only after it. Your life story is built this way, partly by you and partly by others. A story can be re-told, and no telling uses up the meaning of what happened.
+
+*For example:* A job loss sat for years as plain shame. Retold, it becomes the event that pushed a change of direction. Both versions use the same facts and give them different causal links, which is why a retelling is worth testing against what happened.
+
+## Sources
+
+- [Stanford Encyclopedia of Philosophy, "Paul Ricoeur", section 4 (Forms of Extended Discourse)](https://plato.stanford.edu/entries/ricoeur/) — the quoted passage and the narrative-identity question
+- [Internet Encyclopedia of Philosophy, "Paul Ricoeur", section 5 (Time and Narrative)](https://iep.utm.edu/ricoeur/) — mimesis2 and emplotment
+
 ## Psychology parallels
 
 - **[[Life story model|Life story model]]** (McAdams, 1993)
