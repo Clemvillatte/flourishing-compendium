@@ -12,13 +12,26 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 124** — Look for the right in the other side
 
-Every view is right from its own angle. Before opposing, find what's genuinely correct in the position you dislike.
+The second chapter of the Zhuangzi argues that every position is a standpoint before it is a claim. What a view denies is usually another view seen from elsewhere, and the chapter says the two produce each other: "That view comes from this; and this view is a consequence of that".
+
+> There is no thing that is not "that", and there is no thing that is not
+> "this". If I look at something from "that", I do not see it; only if I
+> look at it from knowing do I know it.
+>
+> (Zhuangzi 2, Legge)
+
+The practical instruction follows from the structure: before opposing, locate the standpoint from which the other side's claim is the obvious one. As a compendium exercise, state the opposing position's strongest point in your own words before answering it.
 
 (Zhuangzi 2.)
 
-**Plain words** Steelmanning isn't generosity to them, it's accuracy for you — positions you can't improve are positions you don't understand. Before opposing, find what's genuinely correct in the view you dislike.
+**Plain words**
+The view you cannot stand is usually a true observation made from a position you do not occupy. Before arguing against it, say the part that is right out loud, in your own words. If you cannot state what the other side is right about, treat that as a sign you are answering your summary of the view, not the view.
 
-*For example:* The manager who asks what the complainer is right about usually finds a real problem wearing an annoying costume.
+*For example:* Imagine a manager receiving a complaint phrased badly. She asks what the complaint is right about before responding to its tone.
+
+## Sources
+
+- [Zhuangzi, Legge translation (ETH Zurich PDF)](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — ch. 2, that and this
 
 ## Psychology parallels
 
