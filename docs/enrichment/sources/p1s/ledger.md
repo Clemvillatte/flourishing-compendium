@@ -90,3 +90,16 @@ source; anything not opened is recorded as inherited and unverified.
   laughing-at-Peng principle from p1q) quotes the same Peng passage; reciprocal
   D106 <-> D079 added to proposals. Social comparison, The big-fish-little-pond
   effect and Individuality already cite D106.
+
+### B064 — Drop preferences: the Great Way is not difficult (2026-10-20, light check)
+- SKIP-AHEAD item: already enriched by worker-p1p-27eaf6bd (cross-band incident,
+  content kept pending supervisor disposition; my state marks it done with this
+  note and it does not count toward my 30 — it is in p1s's manifest, so I
+  re-verified rather than rewrote).
+- Light check per the skip-ahead rule: validator ok (warning: no Related
+  concepts section, pre-existing for principle pages); plain words re-derives
+  (keeps the liking, drops the verdict); both blockquotes re-verified verbatim
+  against freshly opened sources this session: Xinxin Ming opening (Clarke,
+  azinelibrary.org PDF, downloaded and text-extracted) and Dhammapada 83
+  (Buddharakkhita, Access to Insight HTML, fetched and searched).
+- Inherited parallels (Dugas 1998, Hayes 2011): unopened, bare attributions.
