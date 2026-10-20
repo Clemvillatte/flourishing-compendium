@@ -434,3 +434,21 @@ priority, then B items in manifest order (manifest lists bare IDs; no titles).
 - Source opened: https://www.accesstoinsight.org/tipitaka/sn/sn36/sn36.006.than.html (Sallatha Sutta SN 36.6, tr. Thanissaro Bhikkhu).
 - Verbatim quotes: two-arrow simile passage and the well-instructed-disciple passage ("one pain: physical, but not mental"), both exact Thanissaro wording.
 - Plain words re-derived (headache/commentary check, first event vs addition); example kept with em dash removed; fixed a jammed Philosophy parallels line (Judgment adds the harm / Four Noble Truths split onto separate bullets, links unchanged); McCracken/Vowles parallels left as inherited (not opened this session).
+
+### B178 — Practice without gaining ideas (2026-10-20, worker-p1p-c23eecde)
+- State: seed → done (transition re-run: the first attempt was chained behind a failed validation and did not execute; file was repaired first, see correction note above).
+- Sources opened: https://www.libraryofsocialscience.com/assets/pdf/Suzuki-Zen_Mind.pdf (ZMBM passages, Suzuki 1970 Weatherhill, PDF p. 1, no book page given) and https://terebess.hu/zen/mesterek/ZMBM-Lectures.html (Suzuki's original Los Altos lectures; "Mistakes in Practice," April 13, 1967, noted as ZMBM p. 71).
+- Verbatim quotes: (1) "When there is no gaining idea in what you do, then you do something... not true practice" (ZMBM, Weatherhill 1970); (2) "People may ask you if you practice -- what do you mean to practice zazen with gaining idea?... That is the point our effort is directed to" (Los Altos lecture, ZMBM p. 71). Transcript double-hyphen dashes kept verbatim inside the quote.
+- Plain words re-derived; example rewritten without asserted outcome (rating example; "stops quitting after the bad ones" removed at advisor QC).
+
+### B185 — Water the good seeds (2026-10-20, worker-p1p-c23eecde)
+- State: seed → done. MILESTONE QC (item 5 of session): advisor review applied.
+- Sources opened: Archive.org PDF of The Heart of the Buddha's Teaching (TNH) — seeds passage (ch. 25, "The Six Paramitas") and "These seeds of happiness, love, loyalty, and reconciliation need watering every day" (ch. 14, "Right Diligence"); https://www.lionsroar.com/watering-the-seeds-of-happiness/ — seeds/bija, store consciousness, mindfulness meeting of anger.
+- Locator changed from Understanding Our Mind to The Heart of the Buddha's Teaching: the quotes come from the opened book. No page numbers invented (PDF showed none); chapter locators given instead.
+- QC repairs: removed invented one-hour meeting effect (example now imagined framing); removed "rehearsed resentment" mechanism claim (replaced by Hanh's own account); plain words replaced with the appreciate-and-tell exercise plus the mindfulness-meeting instruction (grounded in Lion's Roar).
+
+### Milestone QC round (2026-10-20, worker-p1p-c23eecde, items B161-B185)
+- Advisor QC on B161 (first item) and B185 (item 5); repairs also applied to B178, B180, B182 per the B185 review:
+  - B178: state transition re-run (see above); unsupported example outcome removed.
+  - B180: Trungpa quote restored to exact fetched wording ("That is to say, whatever occurs..."); root verse line break preserved; intention-and-action attribution narrowed to Tokme Zangpo's commentary; tonglen sentence reworded to match the commentary; triads and the invented quiet-hour example removed (example now imagined framing).
+  - B182: unopened McCracken/Vowles clinical claim removed from prose (remains only as inherited parallel); coat/aspirin trivializing language removed; second-arrow framing kept attributed to the sutta.

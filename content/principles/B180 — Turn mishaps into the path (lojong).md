@@ -12,20 +12,21 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 180** — Turn mishaps into the path (lojong)
 
-The eleventh slogan of Chekawa's Seven-Point Mind Training gives the instruction its plainest form, and the Tibetan name for its whole group of slogans, lamkhyer, explains the mechanism: lam is path and khyer is carrying, so whatever happens gets carried into the journey. The root text and its commentaries agree that the transformation runs through intention and action rather than through the mishap changing. (Lojong slogans; Chekawa root text.)
+The eleventh slogan of Chekawa's Seven-Point Mind Training gives the instruction its plainest form, and the Tibetan name for its whole group of slogans, lamkhyer, explains the mechanism: lam is path and khyer is carrying, so whatever happens gets carried into the journey. (Lojong slogans; Chekawa root text.)
 
-> "When all the world is filled with evil, / Transform adversity into the path of enlightenment." (Chekawa, root text, in Tokme Zangpo's commentary, tr. Adam Pearcey, 2018)
+> "When all the world is filled with evil,
+> Transform adversity into the path of enlightenment." (Chekawa, root text, in Tokme Zangpo's commentary, tr. Adam Pearcey, 2018)
 
 Chögyam Trungpa's commentary on the Nalanda translation reads the slogan this way:
 
-> "Whatever occurs in your life— environmental problems, political problems, or psychological problems—should be transformed into a part of your wakefulness, or bodhi." (Chögyam Trungpa, commentary on slogan 11)
+> "That is to say, whatever occurs in your life— environmental problems, political problems, or psychological problems—should be transformed into a part of your wakefulness, or bodhi." (Chögyam Trungpa, commentary on slogan 11)
 
-Tokme Zangpo's commentary fills in the method: when such forms of suffering arise, they "can be transformed into the path of enlightenment through both intention and action," with intention working through relative and ultimate bodhicitta, and the action side including tonglen, considering how many others face the same suffering and taking it on in their place.
+Tokme Zangpo's commentary adds the how: adversity is transformed "through both intention and action," with intention working through relative and ultimate bodhicitta. The commentary also asks someone experiencing suffering to consider the many others facing similar difficulties, to cultivate compassion for them, and to meditate on tonglen, giving and taking.
 
 **Plain words**
-When the flat tire, the insult, or the failure arrives, the instruction is to carry it into the journey instead of standing at the roadside arguing with it. In practice you ask what the mishap can train: patience with the tire, humility with the insult, recovery with the failure. Being annoyed is allowed; the slogan asks for use, and the two can coexist.
+When a plan fails, deal with what needs attention. Then consider who else is facing a similar difficulty. Use that recognition as an occasion to practise compassion.
 
-*For example:* Stuck on the highway shoulder: fury for twenty minutes, then the first genuinely quiet hour you've had in months. The tire did that.
+*For example:* Imagine waiting for roadside assistance after a flat tire. You notice your impatience and consider others who are stranded or waiting for help.
 
 ## Sources
 

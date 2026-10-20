@@ -23,7 +23,7 @@ In the Los Altos talks that became the book, he answers the obvious objection di
 **Plain words**
 When you sit, cook, or write in order to get something out of it, the getting stands between you and the doing. Try one practice activity with the getting set aside: sit without waiting for calm, cook without aiming at a compliment. When you catch yourself checking whether it worked, that catching is the practice. Suzuki's instruction is to drop the extra idea each time it shows up.
 
-*For example:* A man starts meditating to reduce stress and rates each session by how calm he feels afterwards. The rating becomes the practice, and the sitting never gets a clean try. Once he sets the score aside, the sessions stop being judged, and he stops quitting after the bad ones.
+*For example:* A man starts meditating to reduce stress and rates each session by how calm he feels afterwards. The rating becomes the practice, and the sitting never gets a clean try. Setting the score aside is itself the exercise Suzuki describes, dropping the extra idea.
 
 ## Sources
 
