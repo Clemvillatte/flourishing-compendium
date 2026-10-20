@@ -1,6 +1,6 @@
 {
  "batch": "p1zo",
- "revision": 20,
+ "revision": 21,
  "reciprocal": [
   {
    "into": "Identity development",
@@ -60,13 +60,19 @@
    "into": "Acculturation theory Berry",
    "link": "SO074",
    "why": "the strength-side counterpart of the acculturation strategies this concept maps: holding two identities as compatible rather than oppositional",
-   "notes": "Page's BII research sentence does not link SO074; evidence in sources/p1zo/SO074.md (Benet-Mart\u00ednez 2002 via ERIC + Chen 2015 + Saad 2013, all opened)."
+   "notes": "Page's BII research sentence does not link SO074; evidence in sources/p1zo/SO074.md (Benet-Martínez 2002 via ERIC + Chen 2015 + Saad 2013, all opened)."
   },
   {
    "into": "Mind-body parallelism",
    "link": "SP006",
    "why": "the principle that states the parallelism this concept explains: one thing, two attributes, correspondence without interaction",
    "notes": "Concept page describes Spinoza's solution but links no SP principle; evidence in sources/p1zo/SP006.md (Ethics II P7 + III P2 scholium verbatim from the opened Elwes text)."
+  },
+  {
+   "into": "Emotional contagion",
+   "link": "SP015",
+   "why": "The page already cites SP015; the proposal adds the reverse-direction rationale: Spinoza's III P27 imitation mechanism is the source Spinoza gave for what Hatfield et al. measured experimentally",
+   "notes": "Concept page links SP015 in psychology parallels; verified the principle body now quotes III P27 verbatim (sources/p1zo/SP015.md)."
   }
  ],
  "inline": [],

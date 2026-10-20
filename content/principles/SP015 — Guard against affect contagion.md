@@ -12,13 +12,13 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 15** — Guard against affect contagion
 
-Affects spread by imitation: if we imagine a person affected with some affect, we come to be affected alike, which is why crowds can turn in a moment, why fear is more contagious than reason, and why one despondent member of a household can set its tone for a season. Spinoza treats this as mechanism, not as legend. Practically, treat the emotional weather of your closest people as an environmental factor you are exposed to, and adjust your exposure the way you would adjust exposure to weather.
+Spinoza states the mechanism in Part III, Proposition 27: by the very fact that we conceive a thing which is like ourselves, and which we have hitherto regarded with no emotion, to be affected with any emotion, we are ourselves affected with a like emotion. ([Ethics III, Prop. XXVII, Elwes tr.](https://www.gutenberg.org/ebooks/3800)) The compendium's application is to treat the emotional weather of your closest people as something you are exposed to, and to consider that exposure when you choose where to spend an afternoon.
 
-(Ethics III, P27 with scholium and corollaries; IV, P33 on pity's spread.)
+> "By the very fact that we conceive a thing, which is like ourselves, and which we have hitherto regarded with no emotion, to be affected with any emotion, we are ourselves affected with a like emotion (affectu simili)." (Ethics III, Prop. XXVII, Elwes tr., [Gutenberg #3800](https://www.gutenberg.org/ebooks/3800))
 
-**Plain words** Affects spread by imitation: imagine a person affected with some affect and you come to be affected alike — crowds turn in a moment, fear is more contagious than reason, one despondent member can set a household's tone. Guard against contagion: know your exposure, choose your rooms.
+**Plain words** People catch feelings from people, in Spinoza's account, by imagining the other person's state. If a room you sit in is frightened, expect that to reach you too. Knowing the mechanism lets you choose your rooms with that in mind.
 
-*For example:* The group chat after the layoffs — panic propagating through five phones in an afternoon — and the one member who noticed the contagion and muted it for 24 hours. Not denial; quarantine. The fear was real; the spreading was optional.
+**For example (imagined):** After layoff news lands, panic moves through a group chat across an afternoon. One member notices their own rising fear, names it as something caught, and mutes the chat for a day while deciding what to do.
 ## Psychology parallels
 
 - **[[Emotional contagion|Emotional contagion]]** (Hatfield, Cacioppo and Rapson, 1994); **social network contagion of behavior and mood** (Christakis and Fowler, 2007)
@@ -27,3 +27,7 @@ Affects spread by imitation: if we imagine a person affected with some affect, w
 
 - **The crowd is untruth** (Kierkegaard, The Crowd Is Untruth)
 - **[[Beware the moods of the many|Beware the moods of the many]]** (Laozi, Daodejing 20)
+
+## Sources
+
+- [Spinoza, B. (1677). Ethics, III Prop. XXVII. Trans. R. H. M. Elwes, Gutenberg #3800](https://www.gutenberg.org/ebooks/3800) — the proposition text verified verbatim against the downloaded text; the IV P33 pity locator from the inherited page was not used in the body and not re-verified
