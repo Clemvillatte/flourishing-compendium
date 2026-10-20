@@ -1,1 +1,11 @@
-[]
+{
+ "inline": [],
+ "reciprocal": [
+  {
+   "into": "Externals as indifferents",
+   "link": "S015 — Distinguish preferred from dispreferred indifferents",
+   "why": "Epictetus distinguishes indifferent circumstances from the morally significant use made of them."
+  }
+ ],
+ "notes": "Worker-1cff8991 final saturation audit. Existing reciprocal links checked before proposing; no concept file edited and enrich_apply.py not run."
+}

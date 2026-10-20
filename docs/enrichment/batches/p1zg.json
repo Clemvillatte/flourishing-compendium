@@ -29,14 +29,15 @@
   "S034",
   "S037",
   "S041",
-  "S046"
+  "S046",
+  "S015"
  ],
- "in_progress": "S015",
+ "in_progress": null,
  "flagged": {
-  "S015": "Reopened for QC: Protocol-format and saturation polish: standalone source quote; replace inherited generic explanation."
+  "S015": "QC repair verified: inherited generic prose removed; standalone exact quote; saturation completed; validator PASS."
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T10:14:35+00:00",
+ "updated": "2026-10-20T10:15:11+00:00",
  "band_done": false
 }

@@ -12,11 +12,11 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 137** — Distinguish preferred from dispreferred indifferents
 
-Health, wealth, and reputation are not goods but preferred indifferents: you may reasonably pursue them, but your flourishing does not depend on them. Sickness, poverty, and disrepute are dispreferred but not bad. Hold preferred indifferents loosely: pursue them without attachment, lose them without grief.
-
 Health, wealth and reputation are normally worth choosing over their opposites, according to mainstream Stoic ethics ([Stanford Encyclopedia of Philosophy, section 4.3](https://plato.stanford.edu/entries/stoicism/)). Calling them indifferent does not mean there is no reason to seek them: it means their possession cannot make a life virtuous or happy in the school's demanding sense; virtue alone can do that ([Stoicism, section 4.3](https://plato.stanford.edu/entries/stoicism/)).
 
-Epictetus makes the distinction practical: "Things themselves are indifferent; but the use of them is not indifferent." ([Discourses II.5, George Long translation](https://classics.mit.edu/Epictetus/discourses.2.two.html)). His example is a game of dice: you cannot know which throw is coming, but you can play it carefully; calling the dice indifferent gives you no excuse for careless play ([Discourses II.5](https://classics.mit.edu/Epictetus/discourses.2.two.html)).
+> "Things themselves are indifferent; but the use of them is not indifferent." (Epictetus, Disc. II.5, [George Long translation](https://classics.mit.edu/Epictetus/discourses.2.two.html)).
+
+His example is a game of dice: you cannot know which throw is coming, but you can play it carefully; calling the dice indifferent gives you no excuse for careless play ([Discourses II.5](https://classics.mit.edu/Epictetus/discourses.2.two.html)).
 
 Nor is the preference unconditional: Epictetus compares a person with a foot, which, considered alone, should stay clean, but as part of a body may need to step into mud ([Discourses II.5](https://classics.mit.edu/Epictetus/discourses.2.two.html)). Duties to other people can give us reason to accept an otherwise unwanted outcome ([Discourses II.5](https://classics.mit.edu/Epictetus/discourses.2.two.html)).
 
