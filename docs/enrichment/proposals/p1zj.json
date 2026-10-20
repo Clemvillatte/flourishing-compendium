@@ -1,6 +1,6 @@
 {
  "batch": "p1zj",
- "revision": 14,
+ "revision": 15,
  "records": [
   {
    "action": "reciprocal",
@@ -211,6 +211,13 @@
    "link": "AF066",
    "why": "listed for comparison with the principle's friend-standard reading",
    "notes": "sequence: proposal drafted first, target page read before this note was finalised and before push; ground: page covers self-compassion/metta/golden-rule material adjacent to the Allen & Leary 2010 text opened for AF066"
+  },
+  {
+   "action": "reciprocal",
+   "into": "Clinical thresholds for depression, anxiety, PTSD, and bipolar disorder",
+   "link": "AF078",
+   "why": "listed for comparison with the principle's clinical-boundary reading",
+   "notes": "sequence: proposal drafted first, target page read before this note was finalised and before push; ground: page covers the diagnostic-threshold material adjacent to the APA depression page opened for AF078"
   }
  ]
 }

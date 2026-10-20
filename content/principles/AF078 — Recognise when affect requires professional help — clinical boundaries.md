@@ -12,15 +12,28 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 78** — Recognise when affect requires professional help: clinical boundaries
 
-Some affective patterns are beyond self-directed practice. Persistent low mood with anhedonia, panic attacks that restrict life, trauma symptoms that do not resolve, rage that harms others or yourself, emotional numbness that persists — these are clinical conditions, not failures of will or philosophy. Seeking help is a sign of wisdom, not weakness.
+The clinical-boundary claims need a clinical source. The American Psychiatric Association's patient page states it plainly:
 
-**Plain words** Some affective patterns are beyond self-directed practice: persistent low mood with anhedonia, panic that restricts life, trauma symptoms that don't resolve, rage that harms. These are clinical boundaries, not willpower failures. Recognising the boundary and getting help is the skill.
+> "Depression (major depressive disorder) is a common and serious mental disorder that negatively affects how you feel, think, act, and perceive the world." ([APA, What Is Depression?, reviewed April 2024](https://www.psychiatry.org/patients-families/depression/what-is-depression))
 
-*For example:* The person who's been "self-helping" their way through what is actually major depression for two years — and the act of competence isn't another book; it's the appointment. Knowing the boundary is the final self-help skill.
+And on the diagnostic threshold:
+
+> "However, a diagnosis of depression requires that the above symptoms occur for most of the day, nearly every day, for more than two weeks, along with a clear change in day-to-day functioning (e.g., in work/school performance, personal relationships, and hobbies)." ([APA, same page](https://www.psychiatry.org/patients-families/depression/what-is-depression))
+
+The same page adds that "depression is among the most treatable of mental disorders" and that a first step is to see your family physician or psychiatrist. The page concerns depression specifically; the compendium extends the boundary-reading to other persistent, impairing patterns as a matter of prudence, not as a diagnostic claim.
+
+**Plain words** The APA page gives two things to remember: most of the day, nearly every day, for more than two weeks, plus a visible drop in day-to-day functioning. If a pattern clears that bar, the page's advice is to make an appointment, and it notes that this class of problem is treatable. The skill the principle names is noticing the bar and acting on it.
+
+*For example:* (Imagined case.) A low mood with no interest in anything, most days for a month, with work slipping, is the pattern the APA page describes. The next step it names is an appointment with a physician or psychiatrist, not another self-help book.
+
+## Sources
+
+- [American Psychiatric Association, What Is Depression? (patient page, reviewed April 2024)](https://www.psychiatry.org/patients-families/depression/what-is-depression) — the definition, diagnostic threshold and treatability sentences quoted above
+
 ## Psychology parallels
 
-- **[[Clinical thresholds for depression, anxiety, PTSD, and bipolar disorder|Clinical thresholds for depression, anxiety, PTSD, and bipolar disorder]]**, persistent impairment, functional decline, and risk warrant professional evaluation (APA, 2022)
-- **[[Evidence-based treatments (CBT, ACT, DBT, EMDR, medication) have robust evidence|Evidence-based treatments (CBT, ACT, DBT, EMDR, medication) have robust evidence]]**, and self-directed practice alone is insufficient for moderate-to-severe presentations (Hofmann et al., 2010)
+- **[[Clinical thresholds for depression, anxiety, PTSD, and bipolar disorder|Clinical thresholds for depression, anxiety, PTSD, and bipolar disorder]]**, listed for comparison (the opened APA page covers depression; the anxiety/PTSD/bipolar pages were not opened for this item)
+- Hofmann et al. (2010) on evidence-based treatments (not opened for this item; cited for further reading)
 
 ## Philosophy parallels
 
