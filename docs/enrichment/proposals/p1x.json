@@ -1,22 +1,27 @@
 {
- "reciprocal": [
-  {
-   "into": "The more-than-human",
-   "link": "R129 — Practise ecological relationality as spiritual practice",
-   "why": "R129 proposes contemplative attention to the more-than-human world as a spiritual exercise"
-  },
-  {
-   "into": "Preferred indifferents",
-   "link": "S023 — Do not fear pain",
-   "why": "S023 classifies pain as a dispreferred indifferent and argues that opinion, not sensation, is what makes pain unbearable"
-  }
- ],
- "inline": [
-  {
-   "into": "K284",
-   "concept": "Fulfil your roles well",
-   "phrase": "performing one's roles well"
-  }
- ],
- "notes": "p1x proposals (worker-w1l-d2a91f7c), from R129 enrichment. Reciprocal only; target verified to lack any R129 link (seed page cites only R130). | S029: inline into K284 (kernel names the principle in plain text, unlinked; verified in mention scan)."
+  "reciprocal": [
+    {
+      "into": "The more-than-human",
+      "link": "R129 — Practise ecological relationality as spiritual practice",
+      "why": "R129 proposes contemplative attention to the more-than-human world as a spiritual exercise"
+    },
+    {
+      "into": "Preferred indifferents",
+      "link": "S023 — Do not fear pain",
+      "why": "S023 classifies pain as a dispreferred indifferent and argues that opinion, not sensation, is what makes pain unbearable"
+    },
+    {
+      "into": "A005 — Seek the mean, not the extremes",
+      "link": "S031 — Do what is fitting, not what is easy",
+      "why": "Both pages treat the situation-appropriate act: Aristotle's mean shifts with the person and the point, Marcus asks what the nature of man now requires — the cross-reference shows the shared idea across schools."
+    }
+  ],
+  "inline": [
+    {
+      "into": "K284",
+      "concept": "Fulfil your roles well",
+      "phrase": "performing one's roles well"
+    }
+  ],
+  "notes": "p1x proposals (worker-w1l-d2a91f7c), from R129 enrichment. Reciprocal only; target verified to lack any R129 link (seed page cites only R130). | S029: inline into K284 (kernel names the principle in plain text, unlinked; verified in mention scan)."
 }

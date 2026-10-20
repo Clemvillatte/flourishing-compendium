@@ -30,3 +30,9 @@
 - Limitations: Disc. III.7/III.23 and Seneca Letters 44/71/95 on the inherited line NOT opened; no body claim leans on them. Psychology parallels (Houser-Marko & Sheldon 2006; Deci & Ryan 2000) unopened, protected, unchanged. Chapter title quote "How we may discover the duties of life from names" verified verbatim in the epub.
 - Saturation: Confucian role ethics concept already cites S029 (no reciprocal needed); inline proposal added into K284 (kernel names "performing one's roles well" unlinked, verified in mention scan).
 - QC: no advisor round (item 3; next advisor QC due at item 5/6).
+
+## Item 4 — S031 — Do what is fitting, not what is easy (plain-words replicate)
+**Sources opened**: Marcus Aurelius, Meditations (Long trans., Project Gutenberg #2680, raw text /tmp/med.txt) — verified verbatim in raw text: VIII.11 ("When thou art hard to be stirred up and awaked out of thy sleep, admonish thyself and call to mind, that, to perform actions tending to the common good is that which thine own proper constitution, and that which the nature of man do require... to sleep, is common to unreasonable creatures also"), IX.28 ("O man! what ado doest thou keep? Do what thy nature doth now require. Resolve upon it, if thou mayest: and take no thought, whether anybody shall know it or no").
+**Note on seed citations**: the seed's Med. II.5, VI.12, VII.15, IX.6 do not map to Long's numbering (checked each — different content); quoted passages were located by content instead. Disc. III.24 and Seneca 20/71/104 not opened this session.
+**Changes**: body rewritten with two verified Marcus quotes (VIII.11 on reluctance/common good, IX.28 on acting without an audience); blockquote added (IX.28); Plain words replaced (was verbatim replicate) with re-derived version; For example retained. Advisor QC: not due (item 4; next at item 5). 
+**Saturation**: title scan "fitting"/"easy" — only S031; mention scan found Aristotle parallels; reciprocal proposed (A005).
