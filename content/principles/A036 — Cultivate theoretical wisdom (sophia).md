@@ -12,13 +12,18 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 36** — Cultivate theoretical wisdom (sophia)
 
-Sophia is the combination of nous (grasp of first principles) and episteme (demonstrative knowledge). It is the highest intellectual virtue: the capacity to understand the most fundamental truths about reality. Make space for deep, sustained reflection on the largest questions.
+Aristotle defines sophia as the completed knowledge of the most exalted objects: the conclusions that follow from first principles, plus a true grasp of the principles themselves. In his terms this is nous joined with episteme, and he argues its rank from the worth of its objects: since man is not the highest thing in the world, the knowledge of the highest things outranks politics and prudence. (NE VI.6-7.)
 
-(NE VI.6-7, VI.12.)
+> "The wise man therefore must not only know the conclusions that follow from his first principles, but also have a true conception of those principles themselves. Hence Wisdom must be a combination of Intelligence and Scientific Knowledge: it must be a consummated knowledge of the most exalted objects. For it is absurd to think that Political Science or Prudence is the loftiest kind of knowledge, inasmuch as man is not the highest thing in the world." (NE VI.7, Perseus, tr. H. Rackham)
 
-**Plain words** Sophia is the top of Aristotle's intellectual ladder: grasping first principles and the reasoning built on them, about the biggest questions. It needs room. So set aside real time, uninterrupted, for the large questions you normally brush off.
+**Plain words**
+Aristotle's ladder has rungs: skill, practical wisdom, and at the top this. Sophia means knowing both the first principles and what follows from them, about the biggest things there are. Its daily cost is time, since the questions it serves do not fit in the gaps of a schedule. Set aside a stretch, an evening or a long walk, and take up one large question you usually dodge.
 
 *For example:* A long walk with no podcast, thinking about what the point of your work is, counts. So does an afternoon with one hard book.
+
+## Sources
+
+- [Perseus Digital Library: Aristotle, Nicomachean Ethics, Book VI (tr. H. Rackham)](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abook%3D6) — the wisdom definition passage (VI.7)
 
 ## Stories
 
