@@ -12,15 +12,15 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BE — Overt Be
 ---
 > **Principle 32** — Learn approach behaviours for depression: engage, do not withdraw
 
-Behavioural activation treats depression as a withdrawal problem with a behavioural answer. The treatment's own description of the work:
+Behavioural activation is a structured intervention for depression: it aims to help people re-engage in activities and address patterns of avoidance, withdrawal and inactivity.
 
 > "BA attempts to help depressed people reengage in their lives through focused activation strategies. These strategies counter patterns of avoidance, withdrawal, and inactivity that may exacerbate depressive episodes by generating additional secondary problems in individuals' lives." (Jacobson, Martell & Dimidjian, 2001)
 
-The depression's instruction and the treatment point in opposite directions: the illness says stay in bed, stay away from people, put things off. The treatment schedules engagement while the mood is still low, and the rationale is spelled out in the same paper: BA "is designed to help individuals approach and access sources of positive reinforcement in their lives, which can serve a natural antidepressant function."
+The authors state that BA "is designed to help individuals approach and access sources of positive reinforcement in their lives, which can serve a natural antidepressant function."
 
-**Plain words** Depression's behaviour advice is withdrawal, and the treatment is disobedience: get up, go out, engage, precisely while it all feels pointless. The feeling is the last thing to change. Act first; let it catch up.
+**Plain words** When depression leads you to withdraw, behavioural activation uses planned actions to help you reconnect with activities. Choose a manageable action instead of waiting until you feel ready.
 
-*For example* Imagined: the person who cannot imagine enjoying the party goes anyway and has one good hour. The disease said stay home; the one good hour was the treatment working.
+*For example* Imagined: the person who cannot imagine enjoying the party goes anyway and has one good hour.
 
 ## Sources
 
@@ -39,4 +39,4 @@ The depression's instruction and the treatment point in opposite directions: the
 
 ## Practice
 
-- When depressed, do not obey the urge to withdraw. Engage: get out of bed, go outside, contact a friend, do a small activity. The depression says withdraw; the treatment is engage.
+- Choose one manageable activity you have been avoiding and plan when to try it.

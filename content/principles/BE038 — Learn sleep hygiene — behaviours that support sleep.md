@@ -18,9 +18,9 @@ Sleep hygiene is the set of everyday conditions that let sleep happen. The clini
 
 The same guideline is careful about what hygiene alone can do: "Although all patients with chronic insomnia should adhere to rules of good sleep hygiene, there is insufficient evidence to indicate that sleep hygiene alone is effective in the treatment of chronic insomnia. It should be used in combination with other therapies." For the ordinary bad night, the instructions are sound general practice; for chronic insomnia they are a component of treatment, not the treatment.
 
-**Plain words** Sleep hygiene is boring on purpose: same time, dark, cool, no screens, no late caffeine. None of it is exciting; all of it is structural. Treat bedtime like an appointment with the foundation crew.
+**Plain words** Sleep hygiene is boring on purpose: same time, quiet room, no late caffeine, nothing stimulating before bed. None of it is exciting; all of it is structural. Treat bedtime like an appointment with the foundation crew.
 
-*For example* The phone that lives in the kitchen overnight: mildly tragic for the first week, quietly transformative by the third. The bedroom became a bedroom again, and the sleep noticed.
+*For example* Imagined: the phone that lives in the kitchen overnight, so the bedroom stays quiet and free of screens.
 
 ## Sources
 
@@ -39,4 +39,4 @@ The same guideline is careful about what hygiene alone can do: "Although all pat
 
 ## Practice
 
-- Practise sleep hygiene: consistent sleep and wake times, a dark and cool bedroom, no screens or other stimulating activities in the hour before bed, no caffeine in the hours before bedtime, use the bed only for sleep. If unable to sleep, get up.
+- Keep a regular schedule and a quiet sleep environment. Follow the guideline's advice on daytime exercise and avoiding caffeine and stimulating activities before bedtime.

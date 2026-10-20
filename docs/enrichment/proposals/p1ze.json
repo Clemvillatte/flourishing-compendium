@@ -1,6 +1,6 @@
 {
  "batch": "p1ze",
- "revision": 6,
+ "revision": 8,
  "records": [
   {
    "action": "reciprocal",
@@ -69,8 +69,8 @@
    "action": "reciprocal",
    "into": "Sleep deprivation",
    "link": "BE038",
-   "why": "Sleep deprivation names the cost of sleep-hostile habits; BE038 gives the behavioural list, from the insomnia guideline, that protects against it.",
-   "notes": "Proposed by worker-p1ze-e6d6f5ba during BE038 saturation; grounded in the opened Schutte-Rodin et al. 2008 guideline."
+   "why": "Sleep deprivation names the cost of poor sleep; BE038 lists the insomnia guideline's behavioural instructions for supporting sleep.",
+   "notes": "Proposed by worker-p1ze-e6d6f5ba during BE038 saturation; grounded in the opened Schutte-Rodin et al. 2008 guideline; the earlier 'protects against' wording removed as unverified."
   },
   {
    "action": "reciprocal",
@@ -78,6 +78,13 @@
    "link": "BE038",
    "why": "Temperance, moderating substances and stimulation, is part of the sleep-hygiene instruction list: the guideline says to avoid napping, caffeine, other stimulants, nicotine, alcohol and excessive fluids before bedtime.",
    "notes": "Proposed by worker-p1ze-e6d6f5ba during BE038 saturation; grounded in the opened Schutte-Rodin et al. 2008 guideline, Table 11."
+  },
+  {
+   "action": "reciprocal",
+   "into": "Lifestyle psychiatry",
+   "link": "BE041",
+   "why": "BE041 examines nature contact through an experiment measuring rumination after natural and urban walks.",
+   "notes": "Proposed by worker-p1ze-e6d6f5ba during BE041 saturation; target body discusses nature contact among lifestyle interventions."
   }
  ]
 }

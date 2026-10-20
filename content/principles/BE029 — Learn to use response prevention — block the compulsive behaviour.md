@@ -12,19 +12,19 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BE — Overt Be
 ---
 > **Principle 29** — Learn to use response prevention: block the compulsive behaviour
 
-Exposure and response prevention (ERP) is the first-line treatment for obsessive-compulsive disorder. The response-prevention half is what this principle names: when an obsession fires, the person resists the compulsion that would neutralize it.
+Exposure and response prevention (ERP) is a first-line, evidence-based treatment for obsessive-compulsive disorder. The response-prevention half is what this principle names: when an obsession fires, the person resists the compulsions associated with the obsession.
 
 > "ERP is a form of cognitive behavioral therapy (CBT) that involves providing psychoeducation to the patient, helping the patient confront fears or discomfort related to their obsessional thoughts (exposure), and having the patient resist performing compulsions (response prevention)." (Law & Boisseau, 2019)
 
-The review frames the purpose in terms of extinction: "Response prevention would have the purpose of enhancing these non-threatening associations to ensure extinction." The goal of the treatment is "to challenge how a patient responds to distress and to eventually learn that feared stimuli are safe", and the compulsion is what keeps that learning from happening, because it removes the experience that could disconfirm the fear.
+The review frames the purpose in terms of extinction: "Response prevention would have the purpose of enhancing these non-threatening associations to ensure extinction." The goal of the treatment is "to challenge how a patient responds to distress and to eventually learn that feared stimuli are safe."
 
 **Plain words** Block the ritual that follows the fear: the checking, the washing, the reassurance-seeking. The ritual feels like safety, but it is the fear's maintenance contract, and response prevention is refusing to renew it. For OCD this is specialist work, ideally with a clinician.
 
-*For example* Imagined: the lock-checker who checks seven times checks once and walks to the car with the discomfort. The discomfort spikes, and with repetition it tends to lose some of its charge.
+*For example* Imagined: in ERP, a person who checks locks seven times plans, with their clinician, to check once and leave, resisting the further checks the obsession demands.
 
 ## Sources
 
-- [Law & Boisseau, "Exposure and Response Prevention in the Treatment of Obsessive-Compulsive Disorder: Current Perspectives", Psychology Research and Behavior Management 12: 1167-1174, 2019 (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6935308/) — quotes checked against the opened article text
+- [Law & Boisseau, "Exposure and Response Prevention in the Treatment of Obsessive-Compulsive Disorder: Current Perspectives", Psychology Research and Behavior Management 12: 1167-1174, 2019 (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6935308/) — quotes checked against the opened article text, Introduction and Exposure and Response Prevention sections
 
 ## Psychology parallels
 
@@ -39,4 +39,4 @@ The review frames the purpose in terms of extinction: "Response prevention would
 
 ## Practice
 
-- When you have an obsession or fear and a compulsive response (checking, washing, ordering, reassurance-seeking), block the compulsion. Do the exposure without the safety behaviour. This is how extinction works.
+- With an ERP-trained clinician, identify the feared situation and the compulsion targeted in the treatment plan.

@@ -65,3 +65,23 @@ Per-item evidence notes (owner concise-bar items 6-7). Manifest: BE012..CO061, 3
 - Inherited parallels: Bootzin & Epstein 2011 / Morin et al. 2006 / Stepanski & Perlis 2000 kept as references; claims re-grounded in the opened guideline.
 - Saturation: 2 reciprocals proposed (Sleep deprivation, Temperance); other mentioning concepts (Sabbath, Sleep architecture (Walker), Tragic optimism) either already link or lack a substantiable relationship.
 - QC: not a milestone item (item 9 of 30); validator pass vs pre-item baseline d3344fa9.
+
+## Item-10 milestone QC round 2 (advisor BE041 round, 2026-10-20)
+- BE041 FAIL round 1 -> repaired per advisor replacement: body scoped to the opened study's outcomes (rumination, sgPFC); mood/stress/blue-space and affordability/uptake claims removed; example de-individualized (no assignment of group findings to persons); Practice reduced to a try-and-notice exercise with no promised result; caveat parallels line de-asserted to a bare "reviews and meta-analyses" label; page range dropped from citation (not confirmed in the opened fetch; volume/issue kept, consistent with the supervisor-verified Nature exposure concept citation).
+- BE029 repair: removed the categorical compulsion-blocks-learning mechanism sentence and the predicted distress trajectory from the example; example replaced with a clinician-guided ERP planning instance.
+- BE032 repair: removed "the feeling is the last thing to change" and "the one good hour was the treatment working" (unverified mood-order and causal claims).
+- BE035 repair: removed "one trial creates the competing meaning", "the new learning becomes the default", and the fifth-speech threshold; example replaced with a keep-collecting-occasions plan.
+- BE038 repair: removed the invented first-week/third-week timeline and the "became a bedroom again" payoff; Practice restricted to the opened guideline's recommendations (dark/cool narrowed to "quiet", screen interval dropped, stimulus-control "get up" instruction removed as not in the opened quote).
+- Lifestyle psychiatry proposal added (target body verified to discuss nature contact with meta-analytic support).
+- All five repaired files validate vs their pre-item baselines. Pending: advisor round-2 confirmation before milestone close.
+
+## Item-10 milestone QC round 3 (final repairs, 2026-10-20)
+- BE032: second paragraph replaced with the authors' natural-antidepressant statement alone; Practice replaced with the manageable-activity plan; opening replaced with the structured-intervention description.
+- BE029: "the first-line treatment" -> "a first-line, evidence-based treatment" (review's own wording); "compulsion that would neutralize it" -> "compulsions associated with the obsession"; Practice replaced with the clinician-guided planning step; section locators added to Sources.
+- BE035: opening replaced with the advisor's bounded description; Practice replaced with the post-exposure review step (the paper's own consolidation exercise); section locator added to Sources.
+- BE038: Practice replaced with the guideline-grounded version (bed-only-for-sleep instruction removed as not in the opened quote).
+- Proposals narrowed per advisor: Lifestyle psychiatry and Sleep deprivation why clauses de-claimed.
+- Validation: all five files pass vs their ORIGINAL pre-enrichment baselines (BE029 c7089e1d, BE032 c9079142, BE035 f1c3e79d, BE038 d3344fa9, BE041 129e7952); wikilink add/remove line counts balanced; validator original-markup preservation checks pass.
+- Advisor round-3 verdict: scoped PASS on the replacements and narrowed proposals (editorial approval, not independent quotation re-verification).
+- Authentication note: no connected GitHub connector exists (github_mcp_direct is DISCONNECTED, requires user-present OAuth); the secure credential form was opened with the token prefilled and remains pending. Work continues under the owner's explicit direct-token authorization ("token is enough for all agent", deleted by owner at end of day); conflict surfaced to the owner in the session report.
+- Milestone CLOSED: 10/30 done (BE012, BE014, BE015, BE017, BE024, BE029, BE032, BE035, BE038, BE041).
