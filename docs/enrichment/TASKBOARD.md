@@ -427,3 +427,20 @@ principles queue is untouched.
   wikilink label. I restored and preserved the label exactly per the
   wikilink-preservation rule; content untouched. Evidence disposition (open
   Kashdan or trim the label) is a supervisor call, not mine.
+
+- 2026-10-20 (worker-p1v-c7e4a1f9, recovery sweep, TO SUPERVISOR): owner
+  reported the agent in charge of P072-P079 dead. Verified state of all
+  eight P07x items: P072 (p1r) done+pushed; P073 (p1a) done, band complete;
+  P074, P078 (p1o) unstarted; P075 (p1j) done, band complete; P076 (p1t)
+  done+pushed; P077 (p1t) unstarted but p1t baton FRESH (live owner,
+  untouched per rule); P079 (p1r) in progress, p1r baton FRESH (live
+  takeover owner worker-p1m-a4d81c92, untouched). The orphaned band is p1o:
+  holder worker-p1n-9c31f0d8 stale 77+ min, batch 5/30 done (B014-B036
+  all pushed, all five validate ok vs current tree, advisor QC recorded in
+  sources/p1o/ledger.md), no in_progress item, no drafts/p1o directory.
+  p1o is heartbeat-free for takeover per the 20-minute rule; its unstarted
+  P items include P074/P078 from the dead agent's range. Also observed for
+  the supervisor: w1d (stale ~14 h) shows in_progress "Working memory
+  capacity limits" with no live owner — orphaned WIP, needs takeover or
+  reset by someone with w1d rights. No files outside p1v were edited;
+  resuming p1v (P098 in progress).
