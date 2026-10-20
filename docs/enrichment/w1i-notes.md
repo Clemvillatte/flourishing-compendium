@@ -219,4 +219,10 @@ article in Cognitive Therapy and Research 22(6):561-576 (the former
 book-chapter attribution was wrong). All quotes in this round matched
 against unprompted downloaded source texts (brhat page, PMC Baddeley, PMC
 Aron) or locally grepped PDFs (Marmot Lancet, Marmot UCL, Grossmann,
-Borkovec). Confirmation submitted; pending.
+Borkovec). Milestone-fifteen confirmation round: advisor round-1 PASS with bounded
+locator fixes (final round: section mapping of the Baddeley quotes verified
+against the article headings and corrected, two uncited framing sentences in
+items 11 and 14 cited, Upanishad blockquote attribution given a
+quotation-opening locator with translator-not-identified, item-11
+transitional sentence merged). All applied; milestone-fifteen QC PASS
+recorded.
