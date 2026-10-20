@@ -1,13 +1,20 @@
 {
  "baton": "w1c",
- "agent": "Agent C",
- "clocked_in": "2026-10-19T08:14:18+00:00",
+ "agent": "worker-p1d-8f3a21c4",
+ "clocked_in": "2026-10-20T03:59:50+00:00",
  "takeovers": [
   {
    "by": "Agent C",
    "at": "2026-10-19T07:59:51+00:00",
    "from": null,
    "reason": "free"
+  },
+  {
+   "by": "worker-p1d-8f3a21c4",
+   "at": "2026-10-20T03:59:50+00:00",
+   "from": "Agent C",
+   "reason": "stale (1186 min)"
   }
- ]
+ ],
+ "released": false
 }

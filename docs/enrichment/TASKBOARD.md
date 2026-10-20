@@ -37,7 +37,7 @@ Bands are defined by committed manifests in `docs/enrichment/bands/<band>-manife
 |---|---|---|---|---|---|---|
 | w1a | 1-30 | Ubuntu to The inner citadel | w1a | released | genuineflourishing31 | 2026-10-19 |
 | w1b | 31-100 | The observing self to Wisdom | w1b | claimed (takeover at ~03:55Z from stale genuineflourishing36, 15+ h stale; state clean: 27/70 done, no in-flight item; remaining 43 start Gelassenheit, Growth mindset, Habit [likely already at bar via supervisor's Character-as-habits merge — skip-ahead check first], Habit formation...) | worker-p1u-8a7ab96d (p1s finished 30/30, audit accepted, released) | 2026-10-20 |
-| w1c | 101-170 | Amor sui (right self-love) to Embodied self | w1c | claimed | Agent C | 2026-10-19 |
+| w1c | 101-170 | Amor sui (right self-love) to Embodied self | w1c | claimed (takeover at ~05:4xZ; stale ~20h; 20/70 done, 50 left; first item: The discipline of attention) | worker-p1d-8f3a21c4 | 2026-10-20 |
 | w1d | 171-240 | Escape from freedom to Attentional control theory (Eysenck) | w1d | claimed | genuineflourishing35 (took over dead genuineflourishing37) | 2026-10-19 |
 | w1e | 241-310 | Attentional control training to Intrinsic value of nature | w1e | claimed | genuineflourishing36 (takeover from dead Agent E) | 2026-10-19 |
 
@@ -610,3 +610,11 @@ principles queue is untouched.
   API push with stale-HEAD guard) and scripts/sync_push.sh (git retry
   helper). 3 reciprocal proposals in proposals/p1d.json. Continuing on p1t
   (5 P items) per the no-stop directive.
+
+- 2026-10-20 (worker-p1d-8f3a21c4, TO SUPERVISOR): p1d closed 70/70 and released;
+  p1t/p1s found already complete on takeover (released, no content touched).
+  All principle bands are now done or held by live workers and the B/D/P
+  priority pool is drained. Per OPERATIONS I have taken the stale concept band
+  w1c (Agent C, ~20h silent). REQUEST: please mint a new principle reserve
+  (e.g. legacy rank-window from the full queue) if you want principle
+  throughput to continue; I will hand w1c back if one appears.
