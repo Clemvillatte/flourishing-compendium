@@ -21,7 +21,8 @@
   "Component Process Model of Emotion",
   "Consummatory experience",
   "Contingencies of self-worth (Crocker)",
-  "Coping flexibility"
+  "Coping flexibility",
+  "Critique of the unencumbered self"
  ],
  "in_progress": null,
  "flagged": {
@@ -45,10 +46,11 @@
   "Component Process Model of Emotion": "fast-track; evidence: Scherer 2001 OUP chapter open PDF; closure edits applied: opening citation p. 93, unverified final framing sentence deleted",
   "Consummatory experience": "fast-track; evidence: Dewey Art as Experience ch. 3 open PDF; closure edit applied: opening citation added",
   "Contingencies of self-worth (Crocker)": "fast-track; evidence: Crocker & Wolfe 2001 author-hosted PDF; closure edits applied: opening citation p. 594, Other-formulations line replaced with the paper's qualified wording linked to p. 611",
-  "Coping flexibility": "fast-track; evidence: Cheng, Lau & Chan 2014 Psychological Bulletin meta-analysis, PubMed abstract (25222637) opened this session; conceptualizations list, effect size r=.23 and moderation findings verbatim from the abstract; no advisor QC due (item 21; next QC at item 25)"
+  "Coping flexibility": "fast-track; evidence: Cheng, Lau & Chan 2014 Psychological Bulletin meta-analysis, PubMed abstract (25222637) opened this session; conceptualizations list, effect size r=.23 and moderation findings verbatim from the abstract; no advisor QC due (item 21; next QC at item 25)",
+  "Critique of the unencumbered self": "fast-track; evidence: Sandel interview (sourcesjournal.org, Spring 2021) opened this session — Sandel's own definition of the unencumbered self verbatim; SEP Communitarianism section 2 passage verbatim (same opened source as item 14); Democracy's Discontent citation kept inherited/unverified in Sources; no advisor QC due (item 22; next QC at item 25)"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T07:12:38+00:00",
+ "updated": "2026-10-20T07:13:37+00:00",
  "band_done": false
 }
