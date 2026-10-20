@@ -16,7 +16,7 @@ The 2019 experiment tested anagram performance in 414 participants. Three condit
 
 > "The results show that using cell phone for a break did not allow brain to recharge as effectively as the other types of breaks, both in terms of being able to perform quickly and efficiently in the second half of the task (how long it took to complete), and in terms of performance (how many anagrams were successfully solved in the second half)." (Kang & Kurtzberg, 2019, [Journal of Behavioral Addictions 8(3):395-403](https://pmc.ncbi.nlm.nih.gov/articles/PMC7044622/))
 
-The positive half of the principle has its own experiment. Berman, Jonides and Kaplan reported improvements on specified attention tests after walking in nature or viewing nature pictures. These findings concern particular activities and measured tasks. The compendium suggests trying different breaks and observing the return to work. (Berman et al., 2008.)
+Berman, Jonides and Kaplan reported improvements on specified attention tests after walking in nature or viewing nature pictures. These findings concern particular activities and measured tasks. The compendium suggests trying different breaks and observing the return to work. (Berman et al., 2008.)
 
 **Plain words**
 Stopping work changes what you are doing, but how you spend the interval may matter to what comes next. For the compendium's exercise, note your break activity and how you feel when you return. Compare occasions without assuming that every phone activity or every outdoor setting has the same effect.
@@ -29,8 +29,8 @@ Stopping work changes what you are doing, but how you spend the interval may mat
 - [Berman, Jonides & Kaplan (2008), The cognitive benefits of interacting with nature, Psychological Science 19(12):1207-1212](https://pubmed.ncbi.nlm.nih.gov/19121124/)
 ## Psychology parallels
 
-- **Not all breaks are restorative**, passive screen-based "breaks" do not restore attention and may further deplete it (Kim et al., 2017; Zacher et al., 2014)
-- **Restorative breaks involve disengagement and low demand**, walking, nature, daydreaming, or social connection restore attention (Hunter & Wu, 2016; Lim et al., 2018)
+- In Kang and Kurtzberg's anagram experiment, participants taking shopping-list breaks on phones performed worse afterward than participants taking those breaks on computer screens or paper (Kang & Kurtzberg, 2019)
+- Berman, Jonides and Kaplan reported improvements on specified attention tests after nature walks or viewing nature pictures (Berman et al., 2008)
 
 ## Philosophy parallels
 
@@ -40,4 +40,4 @@ Stopping work changes what you are doing, but how you spend the interval may mat
 
 ## Practice
 
-- Take breaks that actually restore: walk (ideally outside), look at nature, stretch, daydream, or connect with someone. Do not use "break" time to scroll or check news.
+- As a compendium exercise, try a break with a walk, a stretch, a view of something natural, or a person, and note how the return to work feels. Compare it with a break spent on the phone before treating either as your usual break.

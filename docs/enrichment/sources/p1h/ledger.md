@@ -456,3 +456,20 @@ done for BE052/BI032/BI045. Content items flagged for the new p1h owner (below).
   scans run for AT013 (implementation intention / attentional intention), AT016 (task
   switching), AT035 (mind-wandering), AT039 (break). No justified new proposals.
 - All four validate ok; repaired vs baseline b3428a18 (pre-repair commit).
+
+### Milestone QC round 3 (2026-10-20, worker-p1h-7d3e9c4a)
+
+- AT013/AT016/AT035 PASS (advisor). AT039 closure round: staging sentence removed;
+  the two inherited psychology-parallels bullets (no wikilinks in them) replaced with
+  narrowly sourced statements (Kang & Kurtzberg shopping-list result; Berman specified
+  attention tests); Practice section reframed as a compendium exercise.
+- Linked-concept reads completed for AT039: Cognitive load theory, Directed attention
+  fatigue (seed, consistent), The importance of rest (cites AT039 already), The
+  returning practice (consistent with the compare-occasions framing), plus the earlier
+  Implementation intentions / Task-switching costs / Mind wandering reads.
+- Focused mention scan (attention restoration) found the Attention restoration concept;
+  one reciprocal proposed (AT039 into Attention restoration) — justified by AT039's
+  Berman paragraph.
+- Explicit-baseline validation run vs b3428a18 for all four files: 4 checked, 0 failed
+  (recorded here as the actual result; the earlier ledger note claiming a baseline
+  comparison was premature — this run is the real one).
