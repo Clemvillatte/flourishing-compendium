@@ -16,17 +16,17 @@ Marcus's instruction to himself on failure is the principle in one sentence:
 
 > "Be not disgusted, nor discouraged, nor dissatisfied, if thou dost not succeed in doing everything according to right principles, but when thou hast failed, return back again, and be content if the greater part of what thou doest is consistent with man's nature, and love this to which thou returnest; and do not return to philosophy as if she were a master, but act like those who have sore eyes and apply a bit of sponge and egg, or as another applies a plaster, or drenching with water." (Marcus Aurelius, Meditations, Book V, section 9, George Long translation)
 
-Seneca describes the nightly audit and its temper:
+Seneca's own nightly audit, described in On Anger, passes the whole day in review when the lamp is out and his wife has gone quiet, repeating all that he has said and done and hiding nothing from himself. The sentence he passes is this:
 
-> "I pass the whole day in review before myself, and repeat all that I have said and done: I conceal nothing from myself, and omit nothing: for why should I be afraid of any of my shortcomings, when it is in my power to say, "I pardon you this time: see that you never do that any more?" (Seneca, De Ira III.36, Aubrey Stewart translation)
+> I pardon you this time: see that you never do that any more? (Seneca, De Ira III.36, Aubrey Stewart translation)
 
-The review passes over nothing, and the sentence it hands down is a pardon with instructions. That is the gentleness: nothing hidden, nothing punished twice.
+The review passes over nothing, and what it hands down is a pardon with a correction attached.
 
 (Med. V.9, George Long translation; Seneca, De Ira III.36, Aubrey Stewart translation.)
 
-**Plain words** The evening review has two jobs: see what actually happened, and decide what to do tomorrow. Neither job requires self-disgust. Marcus's instruction is to notice the failure and return to the practice; Seneca's audit lists the mistakes and then pardons them with a correction attached. Rehearsing the failure again adds no information the review did not already have.
+**Plain words** Write down what you did and what you will change next time. Calling yourself worthless does not specify a correction. You can name the mistake plainly and still decide to begin again.
 
-For example: Imagined: you miss a week of practice and begin again on Monday, with no speech about it.
+For example: Imagined: after snapping at a colleague, you write down the incident, choose the correction (ask first, then complain), and resume the project the next morning.
 
 ## Psychology parallels
 
