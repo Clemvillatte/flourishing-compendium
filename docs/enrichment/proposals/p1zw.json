@@ -1,6 +1,6 @@
 {
  "batch": "p1zw",
- "revision": 2,
+ "revision": 3,
  "reciprocal": [
   {
    "into": "Anatta",
@@ -13,6 +13,12 @@
    "link": "K003",
    "why": "listed for comparison: K003 applies Nishida's pure-experience opening to the unity of knowing and willing.",
    "notes": "Saturation scan 2026-10-20: the concept's Nishida section quotes the Inquiry opening (via SEP) but does not link K003; K003's body now carries the same opening verbatim with page locators."
+  },
+  {
+   "into": "Amor fati",
+   "link": "K032",
+   "why": "listed for comparison: the embrace of one's fate beside K032's instruction to transform mishaps into the path of practice.",
+   "notes": "Saturation scan 2026-10-20: Amor fati links other adversity principles (B113, B180, D098, P157) but not K032; the two traditions treat the same material differently (acceptance vs transformation), which is the point of the comparison."
   }
  ]
 }

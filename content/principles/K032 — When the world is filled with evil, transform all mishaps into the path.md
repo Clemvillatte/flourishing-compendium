@@ -12,13 +12,22 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 32** — When the world is filled with evil, transform all mishaps into the path
 
-The third point's master slogan: the instruction to take whatever goes wrong (illness, insult, failure, fear) as the raw material of practice rather than as the interruption of practice. This is the lojong answer to the problem of contingency: since mishap cannot be prevented, the only free variable is the use it is put to. Practically, adopt the standing question for adverse events: "what does this make possible to practice that ease did not?"
+The slogan opens the third point of Chekawa's Seven Points of Mind Training, the point that carries the practice into everyday life. Jamgön Kongtrül's commentary, in Ken McLeod's translation:
 
-(Seven-Point Mind Training, Point Three.)
+> "When evil fills the world and its inhabitants, / Change adverse conditions into the path of awakening." ... "When your world is full of the pain and suffering that are the fruition of evil-when prosperity and wealth are diminishing, troublesome people create difficulties, and so on-you must change the adverse conditions in which you find yourself into the path of awakening. There are three ways to make this transformation: by relying on relative bodhicitta, on ultimate bodhicitta, and on special practices." (Kongtrül, The Great Path of Awakening, trans. Ken McLeod, [opened PDF](https://www.markwebber.org/wordpress/wp-content/uploads/2020/11/The-Great-Path-of-Awakening_-The-Classic-Guide-to-Using-the-Mahayana-Buddhist-Slogans-to-Tame-the-Mind-and-Awaken-the-Heart-PDFDrive-.pdf))
 
-**Plain words** Whatever goes wrong, illness, insult, failure, fear, treat it as raw material rather than interruption. Mishap can't be prevented, so the only free variable is what you do with it. Make "what does this make possible?" your standing question about adversity.
+The commentary names the raw material precisely. The relative-bodhicitta section begins: "Whether you are physically ill, troubled in your mind, insulted by others, or bothered by enemies and disputes, in short, whatever annoyance, major or minor, comes up in your life or affairs, do not lay the blame on anything else." Pema Chödrön's line on the same slogan: "Whatever problems occur in your life, instead of reacting to them in the usual habitual way, you could transform them into the path of the bodhi heart." ([Compassion Cards](http://www.shambhala.com/wp/wp-content/uploads/2018/06/20-cards.pdf))
 
-*For example:* A cancelled flight becomes a day in a city you'd never have chosen, and a conversation that mattered.
+Practically, adopt the standing question for adverse events: "what does this make possible to practice that ease did not?"
+
+**Plain words** The point that carries the practice into everyday life. Mishap is the syllabus: illness, insults, disputes, annoyances major and minor. The instruction is not to prevent them but to change what they become: instead of the usual reaction, the problem becomes the practice. So when something goes wrong, the standing question is what this makes possible that ease did not.
+
+For example: A cancelled flight becomes a day in a city you'd never have chosen, and a conversation that mattered.
+
+## Sources
+
+- [Jamgön Kongtrül, The Great Path of Awakening, trans. Ken McLeod (Shambhala, 1987)](https://www.markwebber.org/wordpress/wp-content/uploads/2020/11/The-Great-Path-of-Awakening_-The-Classic-Guide-to-Using-the-Mahayana-Buddhist-Slogans-to-Tame-the-Mind-and-Awaken-the-Heart-PDFDrive-.pdf) — opened full-text PDF; Point Three root slogan and commentary quoted verbatim (pp. 16-17 of the text)
+- [Pema Chödrön, Compassion Cards (Shambhala Publications, 2003)](http://www.shambhala.com/wp/wp-content/uploads/2018/06/20-cards.pdf) — commentary on slogan 11; root-text translation by Diana J. Mukpo and the Nalanda Translation Committee
 
 ## Psychology parallels
 
