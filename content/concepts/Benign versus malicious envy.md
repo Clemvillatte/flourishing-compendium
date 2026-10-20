@@ -12,8 +12,9 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 ## Related concepts
 
-- [[Social comparison]] — the upward comparison that splits envy's two forms
 
+- [[Social comparison]] — the upward comparison that splits envy's two forms
+- [[D117]] — D117's Daodejing 3 passage warns that rankings breed rivalry; the page distinguishes the forms envy then takes
 ## Sources
 
 - van de Ven, Zeelenberg and Pieters, 2009

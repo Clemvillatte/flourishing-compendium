@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Meaning — the sense that life is about something: purpose, coherence, and mattering. Frankl made it the primary human drive; the traditions converge on meaning as made through work, love, and the stance taken toward suffering.
 
+## Related concepts
+
+- [[P183]] — James's Talks to Teachers passage joins an ideal to active virtue as his account of a significant life
+
 ## Sources
 - SEP The Meaning of Life: https://plato.stanford.edu/entries/meaning-of-life/
 

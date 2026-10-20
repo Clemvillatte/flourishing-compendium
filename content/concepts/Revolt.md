@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Camus's answer to the absurd: not resignation nor suicide, but lucid defiance — "one must imagine Sisyphus happy." Revolt is the stance of the absurd hero ([Wikipedia Camus](https://en.wikipedia.org/wiki/Albert_Camus)).
 
+## Related concepts
+
+- [[E055]] — Camus's revolt sustains the confrontation with the absurd
+
 ## Sources
 - Wikipedia Camus: https://en.wikipedia.org/wiki/Albert_Camus
 

@@ -1,0 +1,21 @@
+{
+ "inline": [],
+ "reciprocal": [
+  {
+   "into": "Creativity",
+   "link": "PP051 — Treat creativity as a process, not a trait",
+   "why": "PP051 treats creativity as a process rather than a trait, grounded in the Hennessey and Amabile 2010 review (novel-and-appropriate definition, training meta-analysis, both stable aspects and environmental influence), the psychological anchor for the concept page's philosophy-of-creativity strand."
+  },
+  {
+   "into": "Reversal (fu)",
+   "link": "D005 — Expect reversal — extremes turn into their opposites",
+   "why": "D005 is the compendium's principle on the reversal the concept page cites from Daodejing 40, built on the Gutenberg Legge edition with verbatim chapters 9, 40 and 58."
+  },
+  {
+   "into": "Wu wei",
+   "link": "D012 — Model yourself on water",
+   "why": "the Daodejing's chapter 8 water image, occupying the low place without striving, is one of the text's own expressions of non-forcing."
+  }
+ ],
+ "notes": "p1d proposals from PP051 and D005 enrichment (genuineflourishing30). Audit (moved from why by supervisor-0ddcdd37): Creativity and Reversal (fu) were one-line seeds citing no principle; Wu wei listed Daoist principles citing it but not D012; Wu wei's D012 clause grounded in the opened Gutenberg Legge edition."
+}

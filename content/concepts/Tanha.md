@@ -15,13 +15,14 @@ Tanha's cross-tradition family is the diagnosis of desire as the engine of suffe
 
 ## Related concepts
 
+
 - [[Four Noble Truths]] — tanha as the second truth
 - [[Dukkha]] — what craving produces
 - [[Nirvana]] — the cessation of craving
 -  — craving's consolidation
 - [[The insatiability of desire]] — craving's structure
 - [[Desire]] — the Lacanian echo
-
+- [[D021]] — D021 is the Daoist counterpart to the desire diagnoses the Tanha page gathers: reduce the wants themselves rather than fight each craving.
 ## Sources
 
 - Buddha, Dhammacakkappavattana Sutta (SN 56.11)

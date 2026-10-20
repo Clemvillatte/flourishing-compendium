@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Reversal (fu)” — Daoism, Daodejing 40.
 
+## Related concepts
+
+- [[D005]] — D005 is the compendium's principle on the reversal the concept page cites from Daodejing 40, built on the Gutenberg Legge edition with verbatim chapters 9, 40 and 58.
+
 ## Sources
 
 - Daoism, Daodejing 40

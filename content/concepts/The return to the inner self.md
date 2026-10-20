@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “The return to the inner self” — Augustine, Confessions.
 
+## Related concepts
+
+- [[D088]] — the page's empty-boat parable is the same story D088 draws its instruction from
+
 ## Sources
 
 - Augustine, Confessions

@@ -18,8 +18,9 @@ An example at its smallest: the one-in-one-out rule — nothing new enters the h
 Its aesthetic form is [[Wabi-sabi]], its method [[Via negativa]] (subtraction as the way), its Daoist root [[Wu wei]].
 ## Related concepts
 
-- [[Natural and necessary]] — the life the necessary desires point to
 
+- [[Natural and necessary]] — the life the necessary desires point to
+- [[D022]] — D022 states the subtract-first method behind the Simplicity page's via negativa and Daoist strand.
 ## Sources
 
 - Daoism

@@ -14,4 +14,6 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 ## Related concepts
 
+
 - [[Anger regulation research]] — the evidence base for how to work with anger
+- [[D074]] — D074 applies Daodejing 68's account of skilled action without anger

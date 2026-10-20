@@ -4,28 +4,8 @@
   {
    "into": "Courage — action despite fear",
    "link": "A011 — Practice courage (andreia)",
-   "why": "the concept page is anchored on NE III (same chapters) but links no courage principle; A011 now carries the verbatim Rackham definition and battlefield case from III.6"
-  },
-  {
-   "into": "Friendship",
-   "link": "A076 — Practise friendship across difference",
-   "why": "the concept page is anchored on NE VIII but links no friendship principle; A076 carries the verbatim VIII.7-8 unequal-friendship material (proportionality, the mothers passage)"
-  },
-  {
-   "into": "Ubuntu",
-   "link": "R012 — Practise dignity-affirming action",
-   "why": "the Ubuntu concept page's dignity discussion (Metz's reconstruction, Tutu as anchor figure) cites no principle; R012 is the wiki's Ubuntu dignity principle and now carries verbatim Tutu from No Future Without Forgiveness, the book the concept page leans on"
-  },
-  {
-   "into": "Simplicity",
-   "link": "D022 — Subtract, don't add",
-   "why": "the Simplicity page names subtraction as its method (Via negativa) and Wu wei as its Daoist root, but cites no Daoist principle; D022 (DDJ 48, subtract before adding) is the principle behind that strand, and its psychology parallels (choice overload) are the same argument"
-  },
-  {
-   "into": "Tanha",
-   "link": "D021 — Reduce desires (guayu)",
-   "why": "Tanha's cross-tradition family paragraph names Stoic, Spinozan, Schopenhauerian and psychological diagnoses of desire but cites no Daoist principle; D021 (DDJ 19, 37) is the Daoist reduce-wants counterpart and Tanha's related-concepts list has no Daoism entry"
+   "why": "A011 carries Aristotle's NE III treatment of courage, including the verbatim Rackham definition and battlefield case from III.6 that the Courage concept page is anchored on."
   }
  ],
- "notes": "p1c proposals: D022 -> Simplicity reciprocal; D021 -> Tanha reciprocal (gap found during saturation check)."
+ "notes": "p1c proposals: D022 -> Simplicity reciprocal; D021 -> Tanha reciprocal (gap found during saturation check). Audit (moved from why by supervisor-0ddcdd37): Courage/Friendship pages linked no principle from their anchor chapters; Ubuntu's dignity discussion cited no principle; Simplicity named subtraction and wu wei but cited no Daoist principle; Tanha's family paragraph had no Daoist entry. | deferred at this run (target band busy): 1 recip, 0 inline"
 }
