@@ -25,10 +25,9 @@
   "AT061",
   "AT074",
   "BE007",
-  "BE016",
-  "BE018"
+  "BE016"
  ],
- "in_progress": null,
+ "in_progress": "BE018",
  "flagged": {
   "AF002": "Reopened for QC: QC repair round 1 (advisor): scope claims to opened sources, standalone blockquote, example labelled imagined",
   "AF013": "Reopened for QC: milestone QC repair: trainability claims exceed opened source",
@@ -49,10 +48,11 @@
   "AT024": "Reopened for QC: milestone-4 QC repair",
   "AT029": "Reopened for QC: milestone-4 QC repair",
   "AT032": "Reopened for QC: milestone-4 QC repair",
-  "AT033": "Reopened for QC: milestone-4 QC repair"
+  "AT033": "Reopened for QC: milestone-4 QC repair",
+  "BE018": "Reopened for QC: QC round 1 (advisor, first item): drop but-only necessary-condition reading, drop two-kind/three-category taxonomy, remove guaranteed-outcome plain words/example, repair Practice efficacy claim, reduce antidepressant/Bandura parallels to bare references"
  },
  "missing_concepts": [],
- "sources_checked": 0,
- "updated": "2026-10-20T11:13:51+00:00",
+ "sources_checked": 1,
+ "updated": "2026-10-20T11:17:27+00:00",
  "band_done": false
 }
