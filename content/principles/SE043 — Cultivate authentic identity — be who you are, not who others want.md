@@ -16,10 +16,10 @@ The construct behind this principle is dispositional authenticity as measured by
 
 > "Scales were designed to measure a tripartite conception of authenticity, comprising self-alienation, authentic living, and accepting external influence, which was supported with exploratory factor analysis." (Wood, Linley, Maltby, Baliousis & Joseph, "The Authentic Personality", Journal of Counseling Psychology 55, 2008, abstract)
 
-The same abstract reports that "each subscale was strongly related to self-esteem and aspects of both subjective and psychological well-being", and calls the article "the first direct test of several theoretical models that view authenticity as integral to well-being". The components define the page's contrast: authentic living (behaviour in line with one's values) against accepting external influence (conforming to others' expectations), with self-alienation as the felt mismatch. The compendium's note that authenticity is distinct from selfishness is a practical application; the abstract does not address it.
+The same abstract reports that "each subscale was strongly related to self-esteem and aspects of both subjective and psychological well-being", and calls the article "the first direct test of several theoretical models that view authenticity as integral to well-being". The compendium's suggested application is to examine where a choice reflects a value you endorse and where it reflects pressure to satisfy someone else's expectations.
 
 **Plain words**
-The researchers behind the main authenticity scale split it three ways: self-alienation (feeling out of touch with your own experience), authentic living (acting in line with your values), and accepting external influence (running your life by other people's expectations). The scale's subscales correlated strongly with well-being measures. The page's practical use of the split: notice which of the three is doing the steering today.
+Try a decision audit: write down what you want to do, the value behind that choice, and the response you expect from other people. Where do those reasons agree, and where do they pull apart?
 
 *For example:* Imagine the accountant who secretly loves cooking and spends every dinner party animated, alive, funny, and every workday grey. The question is not whether to quit; it is how long the mask can be worn before it costs more than it pays.
 ## Sources
@@ -29,7 +29,7 @@ The researchers behind the main authenticity scale split it three ways: self-ali
 ## Psychology parallels
 
 - **Authenticity and well-being**, each Authenticity Scale subscale was strongly related to self-esteem and aspects of both subjective and psychological well-being (Wood et al., 2008, abstract)
-- **Authentic living vs external influence**, the tripartite conception sets behaviour in line with one's values against the acceptance of external influence (Wood et al., 2008, abstract)
+- **Components of authenticity**, the reported model comprises self-alienation, authentic living, and accepting external influence (Wood et al., 2008, abstract)
 
 ## Philosophy parallels
 
