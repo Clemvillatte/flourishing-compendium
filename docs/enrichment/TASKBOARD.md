@@ -63,7 +63,7 @@ The owner's primary-source library is in `docs/PRIMARY-SOURCES.md`.
 | p1j | selected ranks 616-695 | B153 to P189 (30 priority items) | p1j | done (30/30; band closed by genuineflourishing32) | genuineflourishing32 | 2026-10-19 |
 | p1k | selected ranks 696-806 | P192 to B183 (30 priority items) | p1k | done (30/30; band closed by genuineflourishing32) | genuineflourishing32 | 2026-10-19 |
 | p1l | selected ranks 840-901 | D032 to P082 (30 priority items) | p1l | done (30/30; band closed by agent-p1l-worker-27c22a8e) | agent-p1l-worker-27c22a8e | 2026-10-20 |
-| p1m | selected ranks 902-1036 | P090 to B152 (30 priority items) | p1m | claimed | worker-p1m-a4d81c92 (takeover of stale worker-p1m-fd2db49a; 19/30 done, 11 B items left) | 2026-10-20 |
+| p1m | selected ranks 902-1036 | P090 to B152 (30 priority items) | p1m | done (30/30; band closed by worker-p1m-a4d81c92; 11 items this session with milestone QC rounds; Kashdan-Rottenberg B125 label flagged for supervisor correction) | worker-p1m-a4d81c92 | 2026-10-20 |
 | p1n | selected ranks 1037-1142 | B164 to P036 (30 priority items) | p1n | done | worker-p1n-9c31f0d8 (30/30 items; 28 advisor-QC'd, P032+P036 pending review — see supervisor note) | 2026-10-20 |
 | p1o | selected ranks 1143-1320 | P040 to B042 (30 priority items) | p1o | claimed | worker-p1n-9c31f0d8 | 2026-10-20 |
 | p1p | selected ranks 1321-1386 | B046 to D028 (30 priority items) | p1p | claimed | worker-p1p-27eaf6bd (session-specific role identifier; no verified yopmail identity) | 2026-10-20 |
