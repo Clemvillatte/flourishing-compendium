@@ -5,3 +5,9 @@
 - Verbatim quote: the sophia definition passage (VI.7) in Rackham's wording ("a consummated knowledge of the most exalted objects... man is not the highest thing in the world").
 - Plain words re-derived (ladder framing, time-cost framing); original walk example kept. Yaden/Kaufman parallels left as inherited (not opened this session).
 - QC correction (advisor, same session): plain words replaced (Rackham's terms "Intelligence and Scientific Knowledge" mirrored instead of unverified nous/episteme gloss; unsupported ladder and time-necessity claims removed; study-exercise framing per advisor); example replaced with imagined reading exercise. Validated ok after correction.
+
+### A075 — Recognise that friendships change over time (2026-10-20, worker-p1c-45f6a65e)
+- State: seed → done.
+- Source opened: https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abook%3D8 (NE Book VIII, tr. H. Rackham).
+- Verbatim quotes: the utility/pleasure friendship dissolution passage ("friendships of this kind are easily broken off, in the event of the parties themselves changing...") and the disparity passage ("a wide disparity arises between two friends in point of virtue or vice, or of wealth, or anything else"). Second quote cited as NE VIII without a narrower section number (Perseus page gave no Bekker refs in the fetched content).
+- Plain words re-derived (floor mechanism framing); original parents/school example kept. Duck/Roberts parallels left as inherited (not opened this session).
