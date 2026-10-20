@@ -286,3 +286,17 @@ source; anything not opened is recorded as inherited and unverified.
   left as found.
 - Saturation: no new reciprocals; Flow, Effortless attention and Wu wei are
   already the linked targets.
+
+### B078 — Name the poison on contact (2026-10-20)
+- Opened: MN 2 Sabbasava Sutta (Thanissaro, accesstoinsight) and Dhammapada
+  ch. 1 verses 3-4 (Buddharakkhita, already-fetched dhp.01 page). The
+  appropriate-attention blockquote verified verbatim against the fetched MN 2
+  text; the Dhp 3-4 grudge wording verified verbatim against the fetched
+  chapter.
+- Seed's "The moment of naming is the moment of freedom" and "A named poison
+  is a managed poison" are the compendium's gloss, not in the opened sources;
+  replaced with the labelled naming-practice application grounded in MN 2's
+  appropriate/inappropriate attention fork. Lieberman/Barrett claim tails
+  trimmed to bare attributions; Spinoza inherited entry left as found.
+- Saturation: no new reciprocals; Affect labeling and Emotion awareness are
+  already the linked targets.
