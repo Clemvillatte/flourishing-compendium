@@ -7,10 +7,10 @@
   "SP051",
   "SP054",
   "SP055",
-  "SP060",
   "SP067",
   "SP072",
-  "SP087"
+  "SP087",
+  "SP060"
  ],
  "in_progress": null,
  "flagged": {
@@ -20,13 +20,13 @@
   "SP051": "Reopened for QC: milestone QC round 1",
   "SP054": "Reopened for QC: milestone QC round 1",
   "SP055": "Reopened for QC: milestone QC round 2: scope repairs",
-  "SP060": "Reopened for QC: milestone QC round 2: scope repairs",
+  "SP060": "Reopened for QC: milestone 2 follow-up: renewal-sentence locator corrected (note to III.55)",
   "SP067": "Reopened for QC: milestone QC round 2: scope repairs",
   "SP072": "Reopened for QC: milestone QC round 2: scope repairs",
   "SP087": "Reopened for QC: milestone QC round 2: scope repairs"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:29:59+00:00",
+ "updated": "2026-10-20T11:32:32+00:00",
  "band_done": false
 }

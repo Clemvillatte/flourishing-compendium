@@ -12,7 +12,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 60** — Build true self-esteem
 
-Spinoza defines the affect at the end of Part III: self-approval "is pleasure arising from a man's contemplation of himself and his own power of action", and the feeling "is renewed as often as a man contemplates his own virtues, or his own power of activity". Part IV adds the value claim: "Self-approval may arise from reason, and that which arises from reason is the highest possible", and its note calls it "in reality the highest object for which we can hope".
+Spinoza defines the affect at the end of Part III: self-approval "is pleasure arising from a man's contemplation of himself and his own power of action"; in the note to III.55 he adds that this pleasure "is renewed as often as a man contemplates his own virtues, or his own power of activity". Part IV adds the value claim: "Self-approval may arise from reason, and that which arises from reason is the highest possible", and its note calls it "in reality the highest object for which we can hope".
 
 In the note to IV.52, Spinoza says that praise strengthens self-approval and blame disturbs it.
 
