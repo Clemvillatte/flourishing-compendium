@@ -32,4 +32,5 @@ claim added. The fidelity point describes Bodhi's account.
 
 ## Validation
 
-Pending local validation against 3d2adcf6.
+Local `enrich_validate.py --base 3d2adcf6 --fast-track` PASS; expected warning
+for fewer than three Related lines. State then marked done and pushed.
