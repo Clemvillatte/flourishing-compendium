@@ -19,11 +19,11 @@ In the preface to the first edition of Leaves of Grass, Whitman gives the reader
 
 ## What the command asks
 
-Whitman tells readers to reconsider what they have learned at school, at church, and in books, and to dismiss whatever insults their own soul. He places this instruction alongside generosity, resistance to tyranny, and attention to ordinary life. The passage ends with the image of the reader's flesh becoming a poem.
+Whitman tells readers to reconsider what they have learned at school, at church, and in books, and to dismiss whatever insults their own soul. He places this instruction alongside generosity, resistance to tyranny, and attention to ordinary life. The passage ends with the image of the reader's flesh becoming a poem ([Whitman, 1855 Preface](https://poets.org/text/preface-leaves-grass)).
 
 ## Sources
 
-- Walt Whitman, Preface to Leaves of Grass, 1855 first edition, opened at [Poets.org](https://poets.org/text/preface-leaves-grass) (the 1855 text prints "re examine" without a hyphen)
+- Walt Whitman, Preface to Leaves of Grass, 1855 first edition, quotation follows [Poets.org](https://poets.org/text/preface-leaves-grass)'s "re examine" spelling
 
 
 [[Y131 — Practice the same principle at every scale]]
