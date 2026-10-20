@@ -22,13 +22,12 @@
   "SO071",
   "SO074",
   "SP003",
-  "SP006",
   "SP008",
   "SP009",
   "SP011",
   "SP004"
  ],
- "in_progress": null,
+ "in_progress": "SP006",
  "flagged": {
   "SE037": "inherited parallels not certified: Waterman 1993 outcome claim + Apology 38a parallels kept as found; see sources/p1zo/SE037.md",
   "SE045": "QC history: milestone advisor rounds 2-3 repairs applied and re-validated. D087 near-duplicate: supervisor/owner disposition needed. Inherited DDJ 13 parallel unverified. See sources/p1zo/SE045.md",
@@ -51,10 +50,11 @@
   "SO071": "Reopened for QC: QC: measure distinctions, survival wording, plain words/example replacement",
   "SO074": "Reopened for QC: QC: identity-construct conflation, context mechanism inference, plain words/example replacement",
   "SP003": "Reopened for QC: QC: evidence-scope repairs, sources/ledger correction",
-  "SP004": "Reopened for QC: QC: application-scope repairs, plain words/example replacement"
+  "SP004": "Reopened for QC: QC: application-scope repairs, plain words/example replacement",
+  "SP006": "Reopened for QC: QC: quote-fidelity repair (inserted 'the'), application removal, plain words/example replacement"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T12:58:32+00:00",
+ "updated": "2026-10-20T12:58:36+00:00",
  "band_done": false
 }
