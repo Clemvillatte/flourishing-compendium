@@ -12,15 +12,27 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BI — Biophysi
 ---
 > **Principle 48** — Learn to use cold exposure: the dive reflex
 
-Cold water on the face can trigger the dive reflex, a physiological response involving a drop in heart rate. Cold showers are a different, less targeted stimulus and are not interchangeable with it.
+The reflex is mammalian and old. A review of the human diving response describes it as qualitatively similar between species, involving bradycardia and peripheral vasoconstriction triggered by respiratory arrest and by stimulation of facial cold receptors ([Foster & Sheel, 2005](https://pubmed.ncbi.nlm.nih.gov/15679566/)). The facial trigger is what makes it usable at a bathroom sink:
 
-**Plain words** Cold water on the face can trigger the dive reflex — heart rate drops. It's an acute-distress tool, not a lifestyle, and a cold shower is not the same thing as a face immersion.
+> "Stimulation of facial cold receptors by cold water augments the human diving response and elicits a greater degree of bradycardia, reduction in blood flow, and hypertension (Andersson et al., 2000)." (Foster & Sheel, 2005, Scand J Med Sci Sports 15(1): 3-12, [PubMed](https://pubmed.ncbi.nlm.nih.gov/15679566/); [full text](https://doi.org/10.1111/j.1600-0838.2005.00440.x))
 
-*For example:* The spiral broken by 30 seconds of cold water on the cheeks and eye area — the body's physics overruling the mind's loop. Weird, free, often effective for acute spikes.
+> "The cardiovascular and endocrine responses associated with the diving response and apnea are bradycardia, vasoconstriction, and an increase in secretion of suprarenal catecholamines." (Abstract; Foster & Sheel, 2005)
+
+The trigger being the face is why the technique is a face immersion or cold pack, and why a cold shower, which spreads cold over general skin, is a different and less targeted stimulus ([Foster & Sheel, 2005](https://pubmed.ncbi.nlm.nih.gov/15679566/)).
+
+**Plain words**
+The face, not the whole body, carries the switch. Cold receptors around the eyes and cheeks are part of the chain that slows the heart ([Foster & Sheel, 2005](https://pubmed.ncbi.nlm.nih.gov/15679566/)). That is the mechanism, and it is why the technique is cold water on the face rather than a cold shower over everything. It is an acute-state tool: it pulls heart rate down for a moment of panic or rage, and it does nothing about what caused the spike.
+
+**For example**
+(Imagined) During a late-evening panic spiral, someone holds a cold, damp cloth over their eyes and cheeks for half a minute, using the heart-rate drop the reflex produces ([Foster & Sheel, 2005](https://pubmed.ncbi.nlm.nih.gov/15679566/)).
+
+## Sources
+
+- [Foster & Sheel, 2005, Scand J Med Sci Sports 15(1): 3-12, PubMed](https://pubmed.ncbi.nlm.nih.gov/15679566/) — abstract and full text: the human diving response, its function and control
+
 ## Psychology parallels
 
-- **[[Dive reflex (Linehan, Khalsa)|Dive reflex (Linehan, Khalsa)]]**, cold water on the face activates the mammalian dive reflex (Linehan, 1993; Khalsa et al., 2016)
-- **Cold exposure and mood**, cold showers have some evidence for improving mood (Shevchuk, 2008; Espeland et al., 2021)
+- **[[Dive reflex (Linehan, Khalsa)|Dive reflex (Linehan, Khalsa)]]**, cold water on the face augments the human diving response and elicits bradycardia ([Foster & Sheel, 2005](https://pubmed.ncbi.nlm.nih.gov/15679566/))
 
 ## Philosophy parallels
 

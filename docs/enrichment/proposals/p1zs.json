@@ -1,6 +1,6 @@
 {
  "batch": "p1zs",
- "revision": 9,
+ "revision": 10,
  "reciprocal": [
   {
    "into": "Food as medicine",
@@ -61,6 +61,18 @@
    "link": "BI044",
    "why": "the symptom checklist for recognising when chronic stress is running",
    "notes": "Evidence in sources/p1zs/BI044.md (Mayo Clinic + McEwen 2007 opened; target page read)."
+  },
+  {
+   "into": "TIPP skills (DBT)",
+   "link": "BI048",
+   "why": "the physiological mechanism behind the temperature skill in the TIPP set",
+   "notes": "Evidence in sources/p1zs/BI048.md (Foster & Sheel 2005 opened; target page read, one-line seed citing Linehan 1993)."
+  },
+  {
+   "into": "Parasympathetic activation",
+   "link": "BI048",
+   "why": "a specific parasympathetic lever: facial cold receptors slowing the heart",
+   "notes": "Evidence in sources/p1zs/BI048.md (Foster & Sheel 2005 opened; target page read earlier this session)."
   }
  ],
  "inline": []
