@@ -12,13 +12,24 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 186** — Practice the art of resting
 
-Resting is not laziness but a practice: lie down, breathe, do nothing: deliberately, guiltlessly. A tired practitioner practices tiredly.
+Thich Nhat Hanh makes resting a practice with its own knowing: "Knowing when to rest is a deep practice." The tired practitioner is not excused from practice; the tired practitioner is told to change what practice is: "when we recognize that we are tired, we should find every means possible to rest."
 
-(Thích Nhất Hạnh; Dhammapada 328.)
+> Practicing with a tired body and mind doesn't help; it can cause more problems. ... Mindful breathing, whether in the sitting or in the lying position, is the practice of resting. Let us learn the art of resting and allow our body and our mind to restore themselves. Not thinking and not doing anything is part of the art of resting and healing.
+>
+> (Thich Nhat Hanh, Happiness)
 
-**Plain words** Resting is not laziness but a practice — lie down, breathe, do nothing: deliberately, guiltlessly. A tired practitioner practices tiredly. The nap is not the failure of the day; it's often the missing load-bearing wall.
+His image for the posture of rest is the wounded forest animal: "When a forest animal is sick, it lies down and does nothing. Often it won't even eat or drink. All of its energy is directed toward healing." The compendium's application is to treat rest as part of the work rather than as its failure.
 
-*For example:* The Sunday afternoon doing absolutely nothing, on purpose, without apology — Tuesday's productivity is secretly built on it.
+(Thich Nhat Hanh, Happiness.)
+
+**Plain words**
+Rest here is a decision, not a collapse. You stop while you still have some energy, on purpose, and let the lying down be what you are doing rather than what you are recovering from. The exercise: schedule a short rest before you need one, and treat it as the activity.
+
+*For example:* The Sunday afternoon doing absolutely nothing, on purpose, without apology.
+
+## Sources
+
+- [Thich Nhat Hanh, Happiness: Essential Mindfulness Practices (Parallax Press excerpt PDF)](https://www.parallax.org/wp-content/uploads/2020/06/Happiness_2020FreeDownload.pdf) — the Resting and Stopping section
 
 ## Practice kernels
 
