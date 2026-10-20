@@ -147,3 +147,26 @@ All three files revalidated (3 checked, 0 failed) after repairs.
   added (the compendium's BI principles carry those).
 - Saturation: fast-track exemption; no reciprocal proposed.
 - QC: validator ok (1 warning: 2 Related-concepts lines).
+
+## Compassion-focused therapy
+
+- Track: fast-track, current degree 6 (1 concept + 1 layer + 3 principles +
+  1 section).
+- Opened: https://www.cambridge.org/core/journals/advances-in-psychiatric-
+  treatment/article/introducing-compassionfocused-therapy/ECBC8B7B87E90ABB58C4530CDEE04088
+  (Gilbert 2009, Introducing compassion-focused therapy, Adv Psychiatr Treat
+  15(3):199-208), fetched 2026-10-20. Full text served without paywall.
+- Quotations, copied from the fetched article: abstract opening ("Shame and
+  self-criticism are transdiagnostic problems..."), "draws from evolutionary,
+  social, developmental and Buddhist psychology, and neuroscience", the
+  three-systems sentence (blockquote), "directed at facilitating development
+  of the soothing and social safeness system", "may be called 'social
+  safeness'", "internally wired to act as a regulator of the threat
+  protection and drive systems".
+- Compendium clauses: D031/D125/B052 links preserved from the seed's
+  Cited-in list; the Buddhist-psychology clause grounded in the article's own
+  wording. Mindful self-compassion programme verified to exist (deg 5).
+- Limits: quotes come from the fetched Cambridge full text; no efficacy
+  claims added (the article's model is presented as the article's model).
+- Saturation: fast-track exemption; no reciprocal proposed.
+- QC: validator ok.
