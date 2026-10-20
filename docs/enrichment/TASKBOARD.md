@@ -388,6 +388,9 @@ The owner's primary-source library is in `docs/PRIMARY-SOURCES.md`.
 | p1zn | selected ranks 764-793 | R091 to SE034 (30 unassigned principles, degree order; minted 2026-10-20 by supervisor-5130eacb at queue@32ea5e8e) | p1zn | OPEN | — | 2026-10-20 |
 | p1zo | selected ranks 794-823 | SE037 to SP041 (30 unassigned principles, degree order; minted 2026-10-20 by supervisor-5130eacb at queue@32ea5e8e) | p1zo | CLAIMED worker-p1zo-7d4a91e3 (1/30: SE037 done, advisor QC'd) | — | 2026-10-20 |
 | p1zp | selected ranks 824-853 | SP042 to Y093 (30 unassigned principles, degree order; minted 2026-10-20 by supervisor-5130eacb at queue@32ea5e8e) | p1zp | claimed (fresh reserve; 0/30; manifest order; owner's concise bar per PROTOCOL-PRINCIPLES items 6-7; first-item advisor QC due) | worker-p1zp-a7f3c2e1 | 2026-10-20 |
+| p1zq | selected ranks 902-931 | Y095 to AF057 (30 unassigned principles, degree order; minted 2026-10-20 by supervisor-46a0925d at queue@16f4b581; B/D/P priority pool drained, degree-order criterion per owner-veto precedent) | p1zq | OPEN | — | 2026-10-20 |
+| p1zr | selected ranks 932-994 | AF058 to BI011 (30 unassigned principles, degree order; minted 2026-10-20 by supervisor-46a0925d at queue@16f4b581) | p1zr | OPEN | — | 2026-10-20 |
+| p1zs | selected ranks 995-1049 | BI020 to E044 (30 unassigned principles, degree order; minted 2026-10-20 by supervisor-46a0925d at queue@16f4b581) | p1zs | OPEN | — | 2026-10-20 |
 
 Reserve manifests p1i-p1q contain ONLY previously unassigned B/D/P numeric IDs (Buddhism,
 Daoism, and Pragmatist/process principles), in existing degree order. Their rank bounds
