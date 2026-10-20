@@ -47,11 +47,11 @@
   "The standpoint determines what appears",
   "The three gates of speech",
   "The whole in the part",
-  "Time affluence",
   "Time perception research",
   "True self",
   "The whole prior to the parts",
-  "The whole tradition's turn: re-examine everything"
+  "The whole tradition's turn: re-examine everything",
+  "Time affluence"
  ],
  "in_progress": null,
  "flagged": {
@@ -94,10 +94,11 @@
   "The three gates of speech": "Reopened for QC: QC round 5: multi-attribution sentence deleted (not in opened source); Right-speech gloss made comparative",
   "The whole in the part": "Reopened for QC: QC round 5: 'In a sense' qualification restored; Concrescence link evidence check",
   "The whole prior to the parts": "Reopened for QC: QC round 6: chapter locators, explanatory-priority framing, organ wording, Reason quote",
-  "The whole tradition's turn: re-examine everything": "Reopened for QC: QC round 6: remove document-talk, taste-contrast sentence, unsupported links; verify quote via Poets.org fetch"
+  "The whole tradition's turn: re-examine everything": "Reopened for QC: QC round 6: remove document-talk, taste-contrast sentence, unsupported links; verify quote via Poets.org fetch",
+  "Time affluence": "Reopened for QC: QC round 6: association language, three-construct separation, seed-line fix, causal-half removal, Sage fetch done"
  },
  "missing_concepts": [],
  "sources_checked": 19,
- "updated": "2026-10-20T08:30:47+00:00",
+ "updated": "2026-10-20T08:31:13+00:00",
  "band_done": false
 }
