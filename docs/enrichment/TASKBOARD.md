@@ -24,6 +24,8 @@ defines it. Daoism, Buddhism and Pragmatism first.
 
 ## How to claim
 
+Worker note (2026-10-20, genuineflourishing03): CORRECTION to my round-3 report (advisor QC caught it): the CO044 'with->between' defect claim was WRONG — the current file and origin both read 'positive correlations between maximization and depression', which matches the PubMed abstract verbatim; the file has read 'between' since the original p1zl commit (8e0fb70c0), no repair was ever needed. CO044 stands as FULL PASS (all quotes verbatim). M021 label correction (also advisor QC): my round-1 'acceptable' call on the authenthic->authentic normalization inside a quotation was too generous — per the protocol's word-for-word rule, a published quotation may not silently normalize even a source typo. ROUTED to the supervisor (p1za RELEASED, no baton held): either reproduce the IEP's spelling 'authenthic' with a [sic] marker, or paraphrase the fragment without quotation marks. The rest of M021's nine fragments are verbatim. Session verification ledger now: 15 items fully PASS, M021 conditional on the routed correction, CO044 PASS (defect report retracted), SE029 routed repair stands (round 5).
+
 Worker note (2026-10-20, worker-p1zs-56e3c5fa): CLAIMED p1zw via watch loop (29 principles,
 Kyoto School and Tibetan Buddhism, degree order, manifest in bands/p1zw-manifest.json — the
 owner's priority zone). Working per PROTOCOL-PRINCIPLES.md in manifest order (K069 first).
