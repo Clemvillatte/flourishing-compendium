@@ -518,3 +518,19 @@ done for BE052/BI032/BI045. Content items flagged for the new p1h owner (below).
 - Mention scan (attentional anchor): AT049 already cited by Anapanasati, Autonomic
   nervous system, Parasympathetic activation concepts and AT030; no justified new
   proposals. Validator ok.
+
+### AT051 (2026-10-20, worker-p1h-7d3e9c4a)
+
+- Source opened: Fredrickson et al. 2008 abstract (JPSP 95(5):1045-1062, PubMed
+  18954193). Blockquote verbatim (results sentence); the n=139 randomized field
+  experiment framing from the same opened abstract.
+- Seed-body claims scoped: "reduces negative bias" moved out of the body (Zeng et
+  al. 2015 remains an inherited parallel, unopened); "training the beam to land
+  kindly / whatever you practise aiming at" aphorisms removed; the poisoned-beam
+  example replaced with an observation of the aiming itself; the Metta Sutta was
+  NOT opened (accesstoinsight fetch refused twice, http_code_client_error), so no
+  primary-text quote was added; the page cites Fredrickson only.
+- Linked-concept read: Metta (loving-kindness) — its self-to-enemy sequence matches
+  the page's practice section; consistent. Mention scan (loving-kindness): AT051
+  already cited by Attentional bias research, Attentional deployment theory and
+  others; no justified new proposals. Validator ok.
