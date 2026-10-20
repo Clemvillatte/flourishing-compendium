@@ -16,7 +16,7 @@ Brett Reeder's summary of Putnam's Bowling Alone (2000) describes a decline in A
 
 Kawachi and colleagues analysed data from 167,259 people in 39 US states: residents of the lowest-trust states had higher adjusted odds of reporting fair or poor health than residents of high-trust states. ([Kawachi et al., 1999](https://pmc.ncbi.nlm.nih.gov/articles/PMC1508687/)) This was an association between state-level trust and self-rated health, not evidence that joining a neighbourhood group improves health. ([Kawachi et al., 1999](https://pmc.ncbi.nlm.nih.gov/articles/PMC1508687/))
 
-> "Social capital consists of features of social organization--such as trust between citizens, norms of reciprocity, and group membership--that facilitate collective action." (Kawachi et al., 1999, abstract: Objectives)
+> "Social capital consists of features of social organization--such as trust between citizens, norms of reciprocity, and group membership--that facilitate collective action." ([Kawachi et al., 1999, abstract: Objectives](https://pmc.ncbi.nlm.nih.gov/articles/PMC1508687/))
 
 **Plain words** Think about the people who could organise help across your neighbourhood. This principle treats those connections as something worth supporting together. As a practical step, you might help run a group or contribute to an arrangement you already use.
 
