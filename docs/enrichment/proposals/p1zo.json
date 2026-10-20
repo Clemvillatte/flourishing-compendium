@@ -1,6 +1,6 @@
 {
  "batch": "p1zo",
- "revision": 14,
+ "revision": 15,
  "reciprocal": [
   {
    "into": "Identity development",
@@ -31,6 +31,12 @@
    "link": "SO039",
    "why": "Axelrod's durability-of-relationship account of reciprocal cooperation",
    "notes": "Reciprocity concept page does not link SO039. Evidence in sources/p1zo/SO039.md (Axelrod 1984, opened)."
+  },
+  {
+   "into": "Marmot",
+   "link": "SO053",
+   "why": "the Whitehall gradient-among-the-not-poor finding in Marmot's own summary",
+   "notes": "Marmot thinker page does not link SO053. Evidence in sources/p1zo/SO053.md (Marmot & Bobak 2000, opened)."
   }
  ],
  "inline": [],
