@@ -12,18 +12,18 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 137** — Expect your seeing to change (the wise see differently)
 
-The Dhammapada's three verses on the marks are instructions in seeing. All conditioned things are impermanent; all conditioned things are unsatisfactory; all things are not-self; when one sees this with wisdom, one turns away from suffering. The verse does not tell the reader something new; it tells them to look until the seeing itself shifts. (Dhammapada 277-279.)
+Dhammapada 277-279 connects seeing with wisdom to turning away from suffering. In Buddharakkhita's translation, the verses describe all conditioned things as impermanent and unsatisfactory, and all things as not-self ([verses 277-279](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.20.budd.html)).
 
-> "'All conditioned things are impermanent' — when one sees this with wisdom, one turns away from suffering. This is the path to purification." (Dhammapada 277, [Buddharakkhita, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.20.budd.html))
+> when one sees this with wisdom, one turns away from suffering.
 
-SN 12.23 gives the training chain explicitly: knowledge and vision of things as they actually are has concentration as its prerequisite, concentration has pleasure, pleasure serenity, serenity rapture, rapture joy, joy conviction. Seeing differently is not a lucky insight; it is the end of a trainable sequence, which is why the practice sections below exist. (SN 12.23.)
+(Dhammapada 277, excerpt, [Buddharakkhita](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.20.budd.html).)
 
-> "joy has conviction as its prerequisite, rapture has joy as its prerequisite, serenity has rapture as its prerequisite, pleasure has serenity as its prerequisite, concentration has pleasure as its prerequisite, knowledge & vision of things as they actually are present has concentration as its prerequisite" (SN 12.23, [Thanissaro, Access to Insight](https://www.accesstoinsight.org/tipitaka/sn/sn12/sn12.023.than.html))
+SN 12.23 gives knowledge and vision of things as they actually are present a prerequisite: concentration. Its opening describes knowing form, feeling, perception, fabrications and consciousness through their origination and disappearance ([Thanissaro](https://www.accesstoinsight.org/tipitaka/sn/sn12/sn12.023.than.html)). These passages concern a path of liberation, not evidence that every kind of expertise amounts to wisdom.
 
 **Plain words**
-Pick a domain you have trained in for years, and list what you now see in it that a newcomer cannot: tells in a negotiation, structure in a song, illness in a gait. That list is evidence that seeing is trainable. The next question is what practice would train the seeing you want next.
+As an everyday exercise, look again at something you have treated as fixed. When a feeling arises, notice what is present and what changes before deciding what it says about you. This exercise applies the attention to change; it does not stand in for the texts' full training.
 
-*For example:* The first year in a new country, the street sounds are noise; the fifth year, they are a language. The sounds did not change; the hearing was trained.
+*For example:* Imagine feeling certain that a delayed reply means rejection. Later, you notice the feeling lessen while the reply is still absent. You have something specific to examine: the feeling changed before you received new information.
 
 ## Sources
 
@@ -32,8 +32,8 @@ Pick a domain you have trained in for years, and list what you now see in it tha
 
 ## Psychology parallels
 
-- **[[Perceptual learning|Perceptual learning]]**, experts literally see differently (Goldstone, 1998)
-- **Attention-shaping practices change perception** (Lutz et al., 2008)
+- **[[Perceptual learning|Perceptual learning]]** (Goldstone, 1998)
+- **Attention-shaping practices** (Lutz et al., 2008)
 
 ## Philosophy parallels
 

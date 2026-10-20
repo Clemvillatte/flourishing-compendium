@@ -209,3 +209,22 @@ Claim and state transitions are pushed separately for interruption safety.
   statements, original wikilinks and reflections for all nine.
 - First milestone advisor correction pass is pushed; independent recheck
   and QC of D159/D173/D178/D183 pending.
+
+## B137: Expect your seeing to change (2026-10-20)
+
+- Search "Dhammapada 277 279 Buddharakkhita wisdom", opened
+  https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.20.budd.html ,
+  verses 277-279. Exact lower-case quote is an excerpt from verse 277;
+  preserves source's distinction conditioned things/all things.
+- Opened https://www.accesstoinsight.org/tipitaka/sn/sn12/sn12.023.than.html .
+  Opening describes five aggregates through origination/disappearance;
+  prerequisite chain places concentration before knowledge/vision.
+- Removed unsupported claims about the verses telling nothing new, a
+  trainable sequence guaranteeing wisdom, and general expertise proving
+  Buddhist insight. Everyday exercise is expressly an application, with
+  an imagined delayed-reply feeling example rather than a claimed
+  language-learning or perceptual-learning finding.
+- Goldstone, Lutz, Hanson and Kuhn associations remain inherited,
+  unverified. Original wikilinks and reflections preserved.
+- Saturation: linked concepts and Progressive refinement in perceptual
+  learning already cite B137; no duplicate or construct-equivalence edge.
