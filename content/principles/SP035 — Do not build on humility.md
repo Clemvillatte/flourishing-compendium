@@ -12,13 +12,27 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 35** — Do not build on humility
 
-Humility is sorrow arising from contemplating one's own weakness, and Spinoza refuses it the status of virtue: it is a sadness, and sadness is never the foundation of strength. He is careful to add that for people still ruled by passion, humility and repentance may be useful scaffolding, since a life run on them beats a life run on vanity; but the free person's ground is self-esteem from real power. Practically, treat humility exercises as temporary scaffolds, not as the building.
+Spinoza defines humility as "pain arising from a man's contemplation of his own weakness of body or mind" ([Ethics III, Definitions of the Emotions, XXVI](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm)) and denies it the status of virtue: "Humility is not a virtue, or does not arise from reason" ([Ethics IV, P53](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm)). Yet the note to IV P54 adds a concession: since people "seldom live under the guidance of reason," humility and repentance "bring more good than harm" for those ruled by emotion ([Ethics IV, P54 note](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm)). The compendium's reading of the pair: scaffolding for some lives, not the building.
 
-(Ethics III, definition of Humility; IV, P53 and P56.)
+> Humility is pain arising from a man's contemplation of his own weakness of body or mind.
+>
+> Spinoza, Ethics III, Definitions of the Emotions, XXVI, translated by R. H. M. Elwes, [Project Gutenberg](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm).
 
-**Plain words** Humility is sorrow arising from contemplating one's own weakness — and Spinoza refuses it the status of virtue: it's a sadness, and sadness is never the foundation of strength. He adds honestly: for people still ruled by passion, humility and repentance may beat arrogance. But don't build on it.
+> Humility is not a virtue, or does not arise from reason.
+>
+> Spinoza, Ethics IV, Proposition LIII, same translation.
 
-*For example:* The "humble" person whose self-deprecation is a daily practice of sorrow — running the same contempt circuit from the inside — versus the plainly self-measured one who says "I'm middling at that" without pain. Only one of them is accurate.
+> As men seldom live under the guidance of reason, these two emotions, namely, Humility and Repentance, as also Hope and Fear, bring more good than harm; hence, as we must sin, we had better sin in that direction.
+>
+> Spinoza, Ethics IV, Proposition LIV, note, same translation.
+
+(Ethics III, Definitions of the Emotions, XXVI; IV, P53 and P54 note; Elwes translation.)
+
+### Plain words
+
+Notice what humility is made of, on this definition: pain, from looking at your own weakness. That is what you practice when you practice self-deprecation. For an exercise, keep the accuracy and drop the pain — say what you are middling at the way you would say what time it is.
+
+For example: One person's self-deprecation is a daily practice of wincing at their own weakness; another says "I'm middling at that" the way they would report the time. The definition separates the two: only the first is doing pain. The illustration is invented; the contrast it marks is the definition's.
 ## Psychology parallels
 
 - **Self-criticism as a risk factor versus [[Self-compassion|self-compassion]] as protective**, the evidence that harsh self-treatment predicts worse outcomes (Neff, 2003; Ferrari et al., 2019)
