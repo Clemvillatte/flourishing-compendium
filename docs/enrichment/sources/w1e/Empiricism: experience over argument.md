@@ -43,3 +43,16 @@ The page is a formulation-page distinct from the general [[Empiricism]] seed
 original principle links preserved (the nine bare body links became the
 "In the compendium" bullets; BE020 kept in Cited in philosophy parallels and
 added to the bullets, no link removed).
+
+## QC correction (advisor, item-5 milestone round)
+
+- Defect found by the advisor in the milestone review: the synthesis sentence
+  "argument that cannot show its experiential credentials does not count as
+  knowledge" overreached the quote — Hume's flames test explicitly ADMITS abstract
+  reasoning concerning quantity or number as one of the two kinds a book may
+  contain. Repaired to the two-admitted-kinds reading ("the flames test admits
+  two kinds of reasoning... A volume containing neither is the one Hume sends to
+  the fire"), validated, reopen/re-done cycle recorded in the state (the reopen
+  was initially blocked by the Ethics-as-foundation in-progress marker; state
+  transitions completed after that item was administratively closed with its
+  concept-status flag standing).

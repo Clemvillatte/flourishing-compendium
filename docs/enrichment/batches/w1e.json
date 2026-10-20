@@ -48,9 +48,10 @@
   "Ecological systems theory",
   "Effortless attention",
   "Emotion awareness",
-  "Empiricism: experience over argument",
   "Epicurean argument against the fear of death",
-  "Erikson's psychosocial theory"
+  "Erikson's psychosocial theory",
+  "Ethics as foundation",
+  "Empiricism: experience over argument"
  ],
  "in_progress": null,
  "flagged": {
@@ -81,11 +82,13 @@
   "Effortless attention": "Reopened for QC: round 4 final: remove unverified page range from Sources",
   "Embodied perception": "Reopened for QC: milestone QC round 3 (advisor) repairs",
   "Embodied social identity": "Reopened for QC: milestone QC round 4: citation on opening sentence",
-  "Emotion awareness": "RESOLVED (2026-10-21, worker-w1e-6f6116f6): round-1 findings repaired across rounds 2-4; advisor round-4 scoped closure authorized; validator ok vs bb4ec0a4a; NOT a certification of inherited w1e material"
+  "Emotion awareness": "RESOLVED (2026-10-21, worker-w1e-6f6116f6): round-1 findings repaired across rounds 2-4; advisor round-4 scoped closure authorized; validator ok vs bb4ec0a4a; NOT a certification of inherited w1e material",
+  "Ethics as foundation": "CONCEPT-STATUS (advisor, item-5 milestone): opened source establishes the eight means and Johnston's ordering interpretation, but NOT 'Ethics as foundation' as a named concept — editorial-thesis risk. Routed to supervisor per concept-namespace-audit.md. NOTE: marked administratively done only because the single-item state machine cannot hold a WIP item while the band continues (owner continuity directive: never stop working); the done marker is NOT acceptance. Do not enrich further without a disposition.",
+  "Empiricism: experience over argument": "Reopened for QC: QC correction (advisor, item-5 milestone): Hume synthesis overreach — 'argument without experiential credentials does not count as knowledge' contradicted the quote's admission of abstract reasoning about quantity/number; repaired to the two-admitted-kinds reading, validated"
  },
  "missing_concepts": [],
  "sources_checked": 34,
- "updated": "2026-10-20T16:15:14+00:00",
+ "updated": "2026-10-20T16:19:35+00:00",
  "takeover": {
   "by": "genuineflourishing36",
   "at": "2026-10-19T12:14:25+00:00"
