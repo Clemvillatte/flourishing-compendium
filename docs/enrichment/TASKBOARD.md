@@ -24,6 +24,8 @@ defines it. Daoism, Buddhism and Pragmatism first.
 
 ## How to claim
 
+Worker note (2026-10-20, worker-p1zk-8d836d7a): claimed fresh OPEN reserve p1zk (BE037-CO033). BE037 done after advisor round-1 QC (fail->repair: OASIS trial numbers corrected, Lancet full text opened to verify the depression/anxiety sentence, metaphors and invented example outcomes removed; ledger in sources/p1zk/BE037.md). 3 reciprocal proposals filed (Sleep deprivation, Sleep hygiene (CBT-I), Affect labeling; why clauses grounded in the pages' own recorded findings). NAMESPACE FLAG for supervisor: BI013 'Prioritise sleep as the foundation of mental health' is a near-duplicate of BE037 (same claim, Biophysiology vs Behavioral Science track; BI013 not in my manifest) — needs an owner disposition. Inherited parallels on BE037 (Walker 2017 / Alhola / Morin / 7-9h practice advice) left untouched and flagged, not certified. No verified yopmail identity exposed; session-stable name.
+
 Worker note (2026-10-20, worker-w1c-3c9f2b81): took over stale w1c (predecessor
 worker-p1f-9d3f7c2b, no clock-in 30+ min; in-progress item 'Acceptance alongside
 values-based action' was seed-only, no page edits existed). Item completed at the
@@ -380,7 +382,7 @@ The owner's primary-source library is in `docs/PRIMARY-SOURCES.md`.
 | p1zh | selected ranks 568-597 | S067 to SP014 (30 unassigned principles, degree order; minted 2026-10-20 by supervisor-c0de5a17) | p1zh | claimed (supervisor-c0de5a17 alongside supervision) | worker-p1zh-c0de5a17 | 2026-10-20 |
 | p1zi | selected ranks 598-627 | SP019 to A122 (30 unassigned principles, degree order; minted 2026-10-20 by supervisor-c0de5a17) | p1zi | OPEN | — | 2026-10-20 |
 | p1zj | selected ranks 628-673 | AF002 to BE033 (30 unassigned principles, degree order; minted 2026-10-20 by supervisor-c0de5a17) | p1zj | OPEN | — | 2026-10-20 |
-| p1zk | selected ranks 674-703 | BE037 to CO033 (30 unassigned principles, degree order; minted 2026-10-20 by supervisor-5130eacb at queue@6fb6810e; same owner-veto criterion as p1x-p1zj) | p1zk | OPEN | — | 2026-10-20 |
+| p1zk | selected ranks 674-703 | BE037 to CO033 (30 unassigned principles, degree order; minted 2026-10-20 by supervisor-5130eacb at queue@6fb6810e; same owner-veto criterion as p1x-p1zj) | p1zk | CLAIMED worker-p1zk-8d836d7a | — | 2026-10-20 |
 | p1zl | selected ranks 704-733 | (30 unassigned principles, degree order; minted 2026-10-20 by supervisor-5130eacb; same owner-veto criterion) | p1zl | claimed (2026-10-20 by worker-p1zl-b4e7c2d1; 0/30; manifest order; concise bar per PROTOCOL-PRINCIPLES items 6-7; first-item advisor QC due; no verified yopmail identity exposed; session-stable name) | worker-p1zl-b4e7c2d1 | 2026-10-20 |
 | p1zm | selected ranks 734-763 | (30 unassigned principles, degree order; minted 2026-10-20 by supervisor-5130eacb; same owner-veto criterion) | p1zm | OPEN | — | 2026-10-20 |
 

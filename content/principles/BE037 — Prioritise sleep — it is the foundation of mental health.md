@@ -12,11 +12,22 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BE — Overt Be
 ---
 > **Principle 37** — Prioritise sleep: it is the foundation of mental health
 
-Sleep is not optional; it is the foundation of mental health, emotional regulation, cognitive function, and well-being. Chronic sleep deprivation is associated with depression, anxiety, impaired cognition, and reduced well-being.
+Brain imaging gives the principle a mechanism. One night of sleep deprivation makes the amygdala about 60% more reactive to negative images, and that increase comes with reduced functional connectivity to the medial prefrontal regions that exert top-down regulatory control over it.
 
-**Plain words** Sleep is the load-bearing wall of mental health — mood, focus, regulation, all of it rests on the night. Negotiating with sleep is negotiating with the foundation. Protect it like the structural element it is.
+Sleep is also a treatment target. In the OASIS trial, 3,755 university students with insomnia were randomly assigned to digital cognitive behavioural therapy for insomnia or usual care. At ten weeks the treatment group had less insomnia and small reductions in paranoia and hallucinatory experiences; the treatment also led to improvements in depression and anxiety, and these were maintained over time. The authors caution that generalisation beyond a student population requires testing.
 
-*For example:* The "bad week" that's really a bad four nights — the mood, the snappiness, the catastrophising, all traced to the same 1 a.m. bedtime. The therapy session was in bed the whole time.
+> "one night of sleep deprivation triggers a 60% amplification in reactivity of the amygdala in response to emotionally negative pictures, relative to a normal night of sleep" (Goldstein & Walker 2014, [Annual Review of Clinical Psychology](https://pmc.ncbi.nlm.nih.gov/articles/PMC4286245/), Emotional Reactivity section, reporting Yoo et al. 2007)
+
+**Plain words**
+The principle says mood and self-control sit on top of sleep, so when they wobble, sleep is worth ruling out early. Two findings back that order of checking: one night without sleep measurably changes how the brain responds to negative images, and treating insomnia improved depression and anxiety in a large trial. Neither finding says every bad week is a sleep problem; they say sleep is one of the first and easiest things to check.
+
+*For example:* Keep a two-week record: bedtime, wake time, and a one-to-ten mood rating each evening. If the mood line dips after the short nights, the next experiment is an earlier lights-out, and the same record shows whether it worked.
+
+## Sources
+
+- [Goldstein & Walker, "The Role of Sleep in Emotional Brain Function," Annual Review of Clinical Psychology (2014)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4286245/) — Emotional Reactivity section, amygdala reactivity and mPFC connectivity sentences, reporting Yoo et al. 2007
+- [Freeman et al., "The effects of improving sleep on mental health (OASIS)," Lancet Psychiatry (2017)](https://pubmed.ncbi.nlm.nih.gov/28888927/) — abstract; depression and anxiety sentence verified in the [opened full text](https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(17)30328-0/fulltext)
+
 ## Psychology parallels
 
 - **Sleep and mental health**, sleep deprivation is associated with depression, anxiety, and impaired emotion regulation (Walker, 2017; Alhola & Polo-Kantola, 2007)

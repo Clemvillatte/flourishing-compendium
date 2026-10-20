@@ -1,0 +1,27 @@
+{
+ "batch": "p1zk",
+ "revision": 1,
+ "records": [
+  {
+   "action": "reciprocal",
+   "into": "Sleep deprivation",
+   "link": "BE037",
+   "why": "the lab mechanism behind this principle: a sleep-deprived brain overreacts to negative images",
+   "notes": "BE037's opened source (Goldstein & Walker 2014, reporting Yoo et al. 2007) gives the 60% amygdala amplification; Sleep deprivation is the concept page for that state."
+  },
+  {
+   "action": "reciprocal",
+   "into": "Sleep hygiene (CBT-I)",
+   "link": "BE037",
+   "why": "the behavioural toolkit that protects the foundation this page prioritises",
+   "notes": "concept page already cites BE037 in its Cited in list; reciprocal adds the concept to BE037's Related concepts."
+  },
+  {
+   "action": "reciprocal",
+   "into": "Affect labeling",
+   "link": "BE037",
+   "why": "both act on the amygdala: naming a feeling turns its response down, lost sleep turns it up",
+   "notes": "Affect labeling concept records Lieberman's amygdala-reduction finding; BE037's opened source records the opposite direction under sleep loss."
+  }
+ ]
+}
