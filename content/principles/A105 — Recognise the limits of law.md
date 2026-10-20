@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 105** — Recognise the limits of law
 
-Aristotle names the gap and the repair. The equitable is "a correction of law where it is defective owing to its universality" ([NE V.10](http://classics.mit.edu/Aristotle/nicomachaen.5.v.html)). The reason: "all law is universal but about some things it is not possible to make a universal statement which shall be correct"; the law "takes the usual case, though it is not ignorant of the possibility of error" ([NE V.10](http://classics.mit.edu/Aristotle/nicomachaen.5.v.html)). When a case arises that the universal statement does not cover, "it is right... to correct the omission — to say what the legislator himself would have said had he been present" ([NE V.10](http://classics.mit.edu/Aristotle/nicomachaen.5.v.html)). The rule he reaches for is not rigid: like "the leaden rule used in making the Lesbian moulding; the rule adapts itself to the shape of the stone and is not rigid" ([NE V.10](http://classics.mit.edu/Aristotle/nicomachaen.5.v.html)).
+Aristotle names the gap and the repair. The equitable is "a correction of law where it is defective owing to its universality" ([NE V.10](http://classics.mit.edu/Aristotle/nicomachaen.5.v.html)). The reason: "all law is universal but about some things it is not possible to make a universal statement which shall be correct"; the law "takes the usual case, though it is not ignorant of the possibility of error" ([NE V.10](http://classics.mit.edu/Aristotle/nicomachaen.5.v.html)). When a case arises that the universal statement does not cover, "it is right... to correct the omission-to say what the legislator himself would have said had he been present" ([NE V.10](http://classics.mit.edu/Aristotle/nicomachaen.5.v.html)). The rule he reaches for is not rigid: like "the leaden rule used in making the Lesbian moulding; the rule adapts itself to the shape of the stone and is not rigid" ([NE V.10](http://classics.mit.edu/Aristotle/nicomachaen.5.v.html)).
 
 > And this is the nature of the equitable, a correction of law where it is defective owing to its universality.
 >
@@ -26,9 +26,9 @@ Aristotle names the gap and the repair. The equitable is "a correction of law wh
 
 ### Plain words
 
-The gap is built in: rules are made for the usual case, and the unusual case still counts. Aristotle's repair is not to scrap the rule but to ask what the rule's author would have said about this case. For an exercise, take one rule that misfits a situation you know and write the one sentence the legislator would have added.
+The gap is built in: "all law is universal but about some things it is not possible to make a universal statement which shall be correct" ([NE V.10](http://classics.mit.edu/Aristotle/nicomachaen.5.v.html)). Aristotle's repair is not to scrap the rule but to ask what the rule's author would have said about this case ([NE V.10](http://classics.mit.edu/Aristotle/nicomachaen.5.v.html)). For an exercise, take one rule that misfits a situation you know and write the one sentence the legislator would have added.
 
-For example: a speed limit is sensible, but a driver rushing a bleeding passenger to hospital is a case the rule did not have in mind. (An invented illustration.)
+For example: imagine a rule that a bridge is closed to all vehicles from dusk, and a driver with an injured passenger at the far end of the bridge. The example is invented, and it asserts nothing about any actual traffic law.
 
 ## Stories
 
