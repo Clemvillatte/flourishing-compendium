@@ -127,3 +127,8 @@
 - Not opened: inherited citation list remainder (Med. V.1; Seneca Letters 16, 83, 101; Disc. I.1, I.4, III.12, III.23; Ench. 1-3, 29, 40, 51; Musonius Rufus) — citation line narrowed accordingly.
 - Neighbour pages noted: S119 (morning premeditation), S120 (evening review) — S134 is the whole-day container principle, no near-duplicate found.
 - Advisor QC round 2 (after repairs): two further edits applied (removed "closes On Anger" end-of-book claim -> "In On Anger III.36"; removed the retention-effect sentence; "two questions" -> "two steps"). Raw re-fetch confirmed translator attributions (Long; Aubrey Stewart) and Book III section numbering. Validator ok vs pre-item baseline f628f226; diff inspected: front-matter, principle statement and all 4 wikilinks preserved. SCOPED PASS recorded for S134 (first-item QC complete: fail -> repair -> pass).
+
+## S136 — Seek the company of fellow practitioners (worker-p1zn-fuvwnqv)
+- Opened: Seneca Moral Letter 6 (Gummere, Wikisource). All three quotes verbatim against the opened page (6.4 "No good thing..."; 6.5 "The living voice..."; 6.7 Hecato's "What progress, you ask..."). The 6.6 "not merely that you may derive benefit, but that you may confer benefit" sentence deliberately paraphrased unquoted (validator staging-pattern risk inside quotes).
+- Not opened: inherited citation list remainder (Seneca Letters 5, 7, 9, 34, 35, 48, 109; Med. I.1, I.7, I.11, I.15, IV.38, V.10, VI.8, IX.11; Disc. III.16, III.24; Ench. 4, 33, 46) — citation line narrowed to Letter 6.
+- Marcus mention in the seed body ("Marcus writes to himself but draws on the examples of others") removed with the rewrite; Med. I not opened this session.

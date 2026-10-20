@@ -12,13 +12,25 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 258** — Seek the company of fellow practitioners
 
-The Stoic does not practise alone. Seneca writes to Lucilius as a fellow traveller. Marcus writes to himself but draws on the examples of others. Find people who share your commitment to philosophical practice. Practise together.
+Seneca tells Lucilius that philosophy is changing him, and his first move is to share it: he will send books with the good passages marked, and he wants to teach what he keeps learning. The letter's rule:
 
-(Seneca, Letters 5, 6, 7, 9, 34, 35, 48, 109; Med. I.1, I.7, I.11, I.15, IV.38, V.10, VI.8, IX.11; Disc. III.16, III.24; Ench. 4, 33, 46.)
+> No good thing is pleasant to possess, without friends to share it. (Seneca, Letters 6.4, [Gummere](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_6))
 
-**Plain words** Seneca practised by letter, Marcus by borrowing other people's virtues — Stoicism was never a solo sport. Find people who are also trying to live well, and compare notes. Progress is contagious in both directions, so choose your table.
+The same letter puts company ahead of books, on the example of Cleanthes and Zeno:
 
-*For example:* Two friends who trade one text a week — "where I drifted, what I caught" — and quietly hold each other's standard up.
+> The living voice and the intimacy of a common life will help you more than the written word. (Seneca, Letters 6.5, [Gummere](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_6))
+
+Seneca ends by passing on Hecato's answer to the question of progress:
+
+> "What progress, you ask, have I made? I have begun to be a friend to myself." (Seneca, Letters 6.7, [Gummere](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_6))
+
+The compendium's instruction from the letter: practise with others who share the commitment, and report your progress to someone who is also trying to live well.
+
+(Seneca, Letters 6.)
+
+**Plain words** Reading philosophy alone makes it easy to drift, because nobody notices what you skipped. A fellow practitioner notices, and takes seriously the things you shrug off. Seneca ran this by letter: books with marked passages, progress reported honestly. The working version is one regular exchange with another person who is trying to live by what they read.
+
+*For example:* (imagined) Two friends each send one message a week: one line on what they tried to practise, one line on where they drifted.
 ## Psychology parallels
 
 - **Social support and resilience** (Cohen and Wills, 1985)
@@ -28,3 +40,7 @@ The Stoic does not practise alone. Seneca writes to Lucilius as a fellow travell
 
 - **[[Community|Community of inquiry]]** (Peirce, Collected Papers)
 - **[[Associated living|Associated living]]** (Dewey, Democracy and Education)
+
+## Sources
+
+- [Seneca, Moral Letters to Lucilius, Letter 6 (Richard Gummere), Wikisource](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_6) — sharing progress, the living voice, Hecato's line

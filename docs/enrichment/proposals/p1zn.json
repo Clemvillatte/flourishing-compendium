@@ -1,6 +1,6 @@
 {
  "batch": "p1zn",
- "revision": 2,
+ "revision": 3,
  "reciprocal": [
   {
    "into": "Daily architecture",
@@ -19,6 +19,12 @@
    "link": "S134",
    "why": "the evening half of the routine; S134 supplies the daily container and the morning half",
    "notes": "Evidence in sources/p1zn/ledger.md S134 (Seneca On Anger 3.36 opened)."
+  },
+  {
+   "into": "Friendship",
+   "link": "S136",
+   "why": "Seneca's version of friendship-as-practice: progress reported, passages marked, life shared (Letter 6)",
+   "notes": "Evidence in sources/p1zn/ledger.md S136 (Seneca Letter 6 Gummere, opened)."
   }
  ],
  "inline": []
