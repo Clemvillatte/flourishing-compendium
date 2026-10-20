@@ -8,36 +8,44 @@ tags: ["psych/social", "theory"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-SOCIAL"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter B", "parent": ""}
 ---
-“Bicultural identity integration” — Benet-Martínez and Haritatos, 2005; Huynh et al., 2011.
+Bicultural identity integration (BII) is Verónica Benet-Martínez and Jana Haritatos's construct for the degree to which a person who lives with two cultural identities perceives them as "compatible" versus "oppositional" ([2005, abstract](https://pubmed.ncbi.nlm.nih.gov/15958143/)).
+
+> "Using a sample of Chinese American biculturals, we found that variations in BII do not define a uniform phenomenon, as commonly implied in the literature, but instead encompass two separate independent constructs: perceptions of distance (vs. overlap) and perceptions of conflict (vs. harmony) between one's two cultural identities or orientations." (Benet-Martínez and Haritatos, [Bicultural identity integration (BII): components and psychosocial antecedents](https://pubmed.ncbi.nlm.nih.gov/15958143/), J Pers 73(4):1015-49, 2005, abstract)
+
+### What the construct adds
+
+The two dimensions do different work. Distance versus overlap is the cognitive appraisal: how separate the two identities sit in the self. Conflict versus harmony is the affective one: how much they clash. The same study reported that cultural conflict and cultural distance have distinct personality, acculturation and sociodemographic antecedents ([abstract](https://pubmed.ncbi.nlm.nih.gov/15958143/)).
+
+### In the compendium
+
+- [[SO005 — Use cultural fluency as a skill, not a trait]]
+- [[SO073 — Use acculturation strategies deliberately]]
+- [[SO074 — Use bicultural identity integration as a strength]]
+- [[SE054 — Recognise self and culture — your self is culturally shaped]]
+- [[SE073 — Recognise self and culture conflict — bicultural and marginalised selves]]
+- [[SE040 — Recognise identity and culture — your self is culturally shaped]]
+- [[M008 — Use the middle as a vantage point]]
+- [[M006 — Name your in-between states]]
 
 ## Related concepts
 
-- [[Independent vs interdependent self-construal (Markus & Kitayama)]] — the two construals that bicultural individuals hold together
+- [[Independent vs interdependent self-construal (Markus & Kitayama)]]
+- [[Acculturation theory Berry]]
 
 ## Sources
 
+- [Benet-Martínez and Haritatos, Bicultural identity integration (BII): components and psychosocial antecedents (J Pers 73(4):1015-49, 2005), abstract](https://pubmed.ncbi.nlm.nih.gov/15958143/) — the blockquote and findings above
 - Benet-Martínez and Haritatos, 2005
-
 - Huynh et al., 2011
+- Stuart Hall, Cultural Identity and Diaspora
 
 ## Cited in psychology parallels
 
 - [[SO005 — Use cultural fluency as a skill, not a trait]]
-[[SO073 — Use acculturation strategies deliberately]]
-[[SO074 — Use bicultural identity integration as a strength]]
-[[SE054 — Recognise self and culture — your self is culturally shaped]]
-[[SE073 — Recognise self and culture conflict — bicultural and marginalised selves]]
-[[SE040 — Recognise identity and culture — your self is culturally shaped]]
-[[M008 — Use the middle as a vantage point]]
-[[M006 — Name your in-between states]]
-## Cited in philosophy parallels
-
-“Bicultural integration” — Stuart Hall, Cultural Identity and Diaspora.
-- Stuart Hall, Cultural Identity and Diaspora
-[[SO005 — Use cultural fluency as a skill, not a trait]]
+- [[SO073 — Use acculturation strategies deliberately]]
+- [[SO074 — Use bicultural identity integration as a strength]]
+- [[SE054 — Recognise self and culture — your self is culturally shaped]]
+- [[SE073 — Recognise self and culture conflict — bicultural and marginalised selves]]
 - [[SE040 — Recognise identity and culture — your self is culturally shaped]]
-
-the research showing that integrating (rather than alternating between or marginalizing) multiple frames predicts well-being and creativity (the bicultural identity integration research, as framework).
-- rather than alternating between or marginalizing
-- the bicultural identity integration research, as framework
 - [[M008 — Use the middle as a vantage point]]
+- [[M006 — Name your in-between states]]
