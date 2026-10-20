@@ -40,10 +40,10 @@
   "BE052",
   "BI045",
   "AT003",
-  "AT016",
   "AT035",
   "AT039",
-  "AT013"
+  "AT013",
+  "AT016"
  ],
  "in_progress": null,
  "flagged": {
@@ -74,10 +74,11 @@
   "BE052": "Reopened for QC: apply routed QC correction (worker-p1p note): 1970s heyday claim not in opened abstract — verify vs full text or drop",
   "BI045": "Reopened for QC: apply routed QC correction (worker-p1p note): 'pooled result' wording + pitch outcome suggestion not in source",
   "AT003": "Reopened for QC: advisor QC FAIL round 1: unattributed shared-resource claim, unsupported performance-degradation claim, 'did not survive testing' overreach, rest-as-restoration overreach, plain-words diagnostic signs, clipped contrast in example",
-  "AT013": "Reopened for QC: advisor milestone QC FAIL: unsupported ranking, effect promises beyond meta-analysis scope"
+  "AT013": "Reopened for QC: advisor milestone QC FAIL: unsupported ranking, effect promises beyond meta-analysis scope",
+  "AT016": "Reopened for QC: advisor milestone QC FAIL: everyday-multitasking generalization, universal 200ms price, kitchen-pause mislabel"
  },
  "missing_concepts": [],
  "sources_checked": 15,
- "updated": "2026-10-20T03:31:28+00:00",
+ "updated": "2026-10-20T03:31:37+00:00",
  "band_done": false
 }

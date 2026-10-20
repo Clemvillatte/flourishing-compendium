@@ -12,16 +12,16 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AT — Attentio
 ---
 > **Principle 16** — Cultivate single-tasking: do one thing at a time
 
-What feels like doing two things at once is usually switching between them, and the switching is not free. In the task-switching experiments Monsell reviews, responses right after a switch are substantially slower and usually more error-prone, with switch costs on the order of 200 ms against a 500 ms baseline, and preparation reduces the cost without eliminating it. (Monsell, 2003.)
+Monsell reviews experiments comparing responses after a task change with responses when the same task is repeated. These comparisons allow researchers to measure the performance costs associated with switching tasks. (Monsell, 2003.)
 
 > "Subjects' responses are substantially slower and, usually, more error-prone immediately after a task switch. This 'switch cost' is reduced, but not eliminated, by an opportunity for preparation." (Monsell, 2003, [Trends in Cognitive Sciences 7(3):134-140](http://epa.psy.ntu.edu.tw/perception/pdf/Monsell_2003.pdf))
 
-The compendium's reading of single-tasking is a scheduling decision: if every switch costs time and accuracy, doing one thing at a time is the schedule with the fewest switches in it. Note the scope of the claim: the laboratory tasks are simple and short, so the experiments do not prove that every mix of everyday activities is costly. What they do show is that switching itself carries a measurable cost, which is enough for the practice below.
+The compendium applies these laboratory findings by suggesting fewer avoidable task changes while completing a chosen piece of work. The findings do not supply a fixed time penalty for an everyday interruption. (Monsell, 2003.)
 
 **Plain words**
-Doing two effortful things at once usually means bouncing between them, and each bounce costs a moment of re-orientation, like reading the same sentence twice after a glance at the phone. One thing at a time is just the schedule with the fewest bounces in it.
+When you move to another task, you take up a different set of instructions. In the reviewed experiments, responses were slower immediately after that change. For your own work, try choosing a stopping point and postponing interruptions that can wait.
 
-*For example:* Cooking while talking on the phone works until the pan demands attention, and the pause while you re-orient to the stove is the switch cost, in the kitchen.
+*For example:* Imagine finishing one paragraph before opening an unrelated message.
 
 ## Sources
 
