@@ -12,15 +12,13 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 115** — See the self in others and others in the self
 
-The Gita's account is not a claim about sentiment. The verse describes a trained perception: someone whose mind has been steadied by practice comes to see the same self standing in every being, and every being resting in that one self, and so reads every situation the same way rather than differently by convenience.
+The verse names a person who, after sustained practice, sees the same self standing in every being and every being in that one self. The verse does not say what seeing this does to a person's behaviour; the page's practical reading supplies that part and is labelled as such.
 
 > "With the mind harmonised by Yoga he sees the Self abiding in all beings and all beings in the Self; he sees the same everywhere." (Bhagavad Gita 6.29, Sivananda translation)
 
-> "He who, through the likeness of the Self, O Arjuna sees equality everywhere, be it pleasure or pain, he is regarded as the highest Yogi." (Bhagavad Gita 6.32, Sivananda translation)
+**Plain words** The verse is a description, not an instruction. What it describes is a trained way of looking that no longer sorts people by whether they are useful or in the way. What the page adds as an exercise is simpler: when you notice you are holding two versions of one event, one for yourself and one for someone else, name which version you would accept if the positions were swapped.
 
-**Plain words** This is a claim about perception, not about niceness. Someone who practises looking at others the way they look at themselves comes to read situations without the double standard that ordinary convenience applies — one rule for me, a harder one for you. Practically, when you notice you are holding two versions of the same event, one for you and one for the other person, look again at what you would actually say about yourself in their place.
-
-*For example:* (Imagined.) A commuter spends a year deliberately noticing the other passengers' eyes — tired nurse, scared student, proud father — and finds the crowd stops reading as an obstacle and starts reading as a room of people with the same stakes.
+*For example:* (Imagined.) A commuter spends a year deliberately noticing the other passengers' eyes — tired nurse, scared student, proud father — and stops sorting the crowd into obstacle and audience. The verse does not promise the change; the page's exercise is the part the commuter is doing.
 ## Psychology parallels
 
 - **Self-other overlap and perspective-taking**, the measured inclusion of other in the self (Aron et al., 1992)
