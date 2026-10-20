@@ -202,3 +202,9 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 - Quotes verified: Woods span checked; Shankara/BU quotes are as quoted in the Advaita Vision excerpt (secondary; the bhashya itself not opened).
 - Seed repairs: unopened "Shankara, Upadesasahasri" citation dropped. YS 1.14 link, monthly rhythm and language-immersion image labelled as the page's own. Bjork and Plotinus not opened.
 - Saturation: low; recommend a later pass to open the bhashya on archive.org.
+
+## Y092 (2026-10-21, worker-p1zz-b81e3f52)
+- Sources opened: Muller SBE 1 full text (Chandogya 6.8.7 and its nine-fold refrain; Aitareya-Aranyaka "Knowledge is Brahman" p. 246); search excerpts for BU 1.4.10 (brhat.in, Muller) and Mandukya 2 (Swami Krishnananda).
+- Quotes verified: Chandogya span verified against OCR text (mismatch only from OCR "O 6Vetaketu"); the other three as read in excerpts.
+- Seed repairs: replaced the unsupported "liberating truths, not debate propositions" gloss with what the text shows (refrain after examples). Weekly prompt use labelled as the page's own. Cohen & Sherman not opened. Aitareya citation "3.3" is the standard number; Muller numbers it differently.
+- Saturation: low.
