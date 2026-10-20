@@ -12,13 +12,26 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 46** — Move the body as contemplative practice
 
-The Gita instructs the practitioner to hold the body, head, and neck erect and to gaze unwaveringly at the tip of the nose; the point is not the nose, it is the unified posture of attention. The bounded principle: physical practice counts as practice when attention rides the movement. Practically, walk or stretch with full attention to sensation for ten minutes, and count it as meditation, because the tradition does.
+The Gita's posture instruction is about holding still, and it is not a text on moving meditation. Verse 6.13 says:
 
-(BG 6.13-6.14.)
+> He must hold the body, neck, and head firmly in a straight line, and gaze at the tip of the nose, without allowing the eyes to wander.
 
-**Plain words** The Gita's erect body, steady gaze — the point isn't the nose, it's the unified posture of attention. The bounded principle: physical practice counts as practice when attention rides in the movement. The body is a contemplative instrument when the mind is in it.
+(Bhagavad Gita 6.13, trans. Swami Mukundananda, [holy-bhagavad-gita.org](https://www.holy-bhagavad-gita.org/chapter/6/verse/13)).
 
-*For example:* Two people on the same walk: one rehearsing arguments, one feeling the footfall and the air — same mile, same pace; only one of them took the tradition's advice and moved the body as practice.
+Verse 6.14 continues, "with a serene, fearless, and unwavering mind, and staunch in the vow of celibacy, the vigilant yogi should meditate on Me" ([BG 6.14](https://www.holy-bhagavad-gita.org/chapter/6/verse/14/)). The Gita does not describe walking or stretching as a practice here. Verse 6.17, on the other hand, speaks of those "temperate in eating and recreation, balanced in work, and regulated in sleep", who "can mitigate all sorrows by practicing Yog" ([BG 6.17](https://www.holy-bhagavad-gita.org/chapter/6/verse/17/)).
+
+The clearer source for attending to the moving body is the Buddhist Satipatthana Sutta (Majjhima Nikaya 10): "when walking, the monk discerns, 'I am walking.' When standing, he discerns, 'I am standing.' When sitting, he discerns, 'I am sitting.' When lying down, he discerns, 'I am lying down.' Or however his body is disposed, that is how he discerns it" (trans. Thanissaro Bhikkhu, [Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html)).
+
+The page's phrase "not the nose, but the unified posture of attention" and the ten-minute walk are the page's own. The tradition does not tell you to count a walk as meditation in these Gita verses. The Buddhist sutta does come closer to that.
+
+**Plain words**
+
+The Gita's body instruction is a still posture, aimed at an undistracted mind. The sutta supports paying attention to the body while it moves. If you want to count a walk as practice, the sutta is the better support.
+
+**For example**
+
+A woman walks to work on two mornings. On the first she plans her day. On the second she notes "walking" at each step for the first ten minutes, and goes on thinking afterwards. She counts the second walk.
+
 ## Psychology parallels
 
 - **Mindful walking and mindful movement trials**, moderate evidence for depression and anxiety
@@ -26,3 +39,9 @@ The Gita instructs the practitioner to hold the body, head, and neck erect and t
 ## Philosophy parallels
 
 - **[[Walking meditation|Walking meditation]]** (Thich Nhat Hanh tradition, modern Buddhist; cross-volume echo)
+
+## Sources
+
+- [Bhagavad Gita 6.13, 6.14, 6.17 (Swami Mukundananda translation), holy-bhagavad-gita.org](https://www.holy-bhagavad-gita.org/chapter/6/verse/13)
+- [Satipatthana Sutta (MN 10), trans. Thanissaro Bhikkhu, Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html)
+- The inherited mindful-movement trial literature and Thich Nhat Hanh parallels were not opened and no claim here rests on them.

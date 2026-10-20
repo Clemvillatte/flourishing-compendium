@@ -304,3 +304,9 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 - Quotes verified: matched woods text.
 - Seed repairs: the sutra gives two options (relax effort, or balance with Ananta); Ananta is the serpent that upholds the earth in the commentary, so "boundless support" is the page's own. Exhale-and-release practice labelled as the page's own. Jacobson, Ost, Dogen not opened.
 - Saturation: low.
+
+## Y046 (2026-10-21, worker-p1zz-b81e3f52)
+- Sources opened: BG 6.13 (via fetch), 6.14, 6.17 (Mukundananda); Satipatthana Sutta MN 10 (Thanissaro, Access to Insight).
+- Quotes verified: all matched fetched text.
+- Seed repairs: Gita 6.13-14 teaches a still posture, not moving practice; the walk-as-meditation support moved to MN 10. "Because the tradition does" removed; ten-minute walk and the not-the-nose reading labelled as the page's own. Mindful-movement trials and Thich Nhat Hanh not opened. Title/principle may fit a Buddhist band better.
+- Saturation: low.
