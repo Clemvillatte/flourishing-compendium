@@ -12,7 +12,7 @@ The water metaphor is the Daoist instruction to be useful the way water is usefu
 > "Highest good is like water: water benefits the things of the world and does not contend. Dwell in places that the masses of men despise."
 > — [Robert Eno, Daodejing ch. 8](https://terebess.hu/english/tao/Daodejing-Eno.pdf)
 
-Water's advantage, in this chapter's picture, is structural, not moral. The facet listed for this concept — adapt to the vessel — is the compendium's own gloss on what the chapter does not spell out; Daodejing 8 does not use the container image.
+The legacy "adapt to the vessel" facet is not stated in the chapter-8 passage quoted here.
 
 The metaphor returns in Daodejing 78, where Eno's translation reads: "Nothing in the world is more weak and soft than water, yet nothing surpasses it in conquering the hard and strong – there is nothing that can compare. All know that the weak conquers the strong and the soft conquers the hard. But none are able to act on this" ([Robert Eno, Daodejing ch. 78](https://terebess.hu/english/tao/Daodejing-Eno.pdf)). The still water image appears in Zhuangzi's Outer Chapter 13 "The Way of Heaven," where Watson's translation reads: "Water that is still gives back a clear image of beard and eyebrows; reposing in the water level, it offers a measure to the great carpenter" ([Burton Watson, Zhuangzi ch. 13](https://terebess.hu/english/chuangtzu1.html)).
 

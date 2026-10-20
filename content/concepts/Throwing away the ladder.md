@@ -7,14 +7,14 @@ file: "Throwing away the ladder"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-Throwing away the ladder is Wittgenstein's own instruction about how to read his Tractatus. Proposition 6.54, the second-to-last remark, says that anyone who has understood him will finally recognize the book's propositions as senseless once they have climbed out through them, and that the reader must, so to speak, throw away the ladder after climbing up on it ([Tractatus 6.54, Ogden translation](https://www.kfs.org/jonathan/witt/t654en.html)).
+Throwing away the ladder is Wittgenstein's own instruction about how to read his Tractatus. Proposition 6.54, the second-to-last remark, says that anyone who has understood him will finally recognize the book's propositions as senseless once they have climbed out through them, and that the reader must, so to speak, throw away the ladder after climbing up on it ([Tractatus 6.54, from kfs.org](https://www.kfs.org/jonathan/witt/t654en.html)).
 
 > "My propositions are elucidatory in this way: he who understands me finally recognizes them as senseless, when he has climbed out through them, on them, over them. (He must so to speak throw away the ladder, after he has climbed up on it.) He must surmount these propositions; then he sees the world rightly."
-> — [Wittgenstein, Tractatus 6.54 (Ogden translation)](https://www.kfs.org/jonathan/witt/t654en.html)
+> — Wittgenstein, Tractatus 6.54, from [kfs.org](https://www.kfs.org/jonathan/witt/t654en.html)
 
-The image is not a licence to discard ideas on a whim. It says a teaching can be useful and true-in-use while it is being used, and still be something you put down once it has done its work.
+The image is not a licence to discard ideas on a whim. Proposition 6.54 calls the propositions "senseless" and instructs the reader to surmount them before seeing the world rightly ([Tractatus 6.54](https://www.kfs.org/jonathan/witt/t654en.html)).
 
-Buddhist texts make the same move with the raft simile. The Alagaddupama Sutta has the Blessed One say, in Thanissaro's translation: "In the same way, monks, I have taught the Dhamma compared to a raft, for the purpose of crossing over, not for the purpose of holding onto. Understanding the Dhamma as taught compared to a raft, you should let go even of Dhammas, to say nothing of non-Dhammas" ([Thanissaro Bhikkhu, Alagaddupama Sutta MN 22](https://www.accesstoinsight.org/tipitaka/mn/mn.022.than.html)). The compendium's own principles [[B014 — Use views as tools, not possessions (the raft)]] and [[B127 — Dismantle the raft when you've crossed]] draw on the same image.
+For comparison, the compendium also links this image to the raft simile in MN 22. The Alagaddupama Sutta has the Blessed One say, in Thanissaro's translation: "In the same way, monks, I have taught the Dhamma compared to a raft, for the purpose of crossing over, not for the purpose of holding onto. Understanding the Dhamma as taught compared to a raft, you should let go even of Dhammas, to say nothing of non-Dhammas" ([Thanissaro Bhikkhu, Alagaddupama Sutta MN 22](https://www.accesstoinsight.org/tipitaka/mn/mn.022.than.html)). The compendium's own principles [[B014 — Use views as tools, not possessions (the raft)]] and [[B127 — Dismantle the raft when you've crossed]] draw on the same image.
 
 ### In the compendium
 
@@ -33,7 +33,7 @@ Buddhist texts make the same move with the raft simile. The Alagaddupama Sutta h
 
 ## Sources
 
-- [Wittgenstein, Tractatus Logico-Philosophicus 6.54, C. K. Ogden translation (kfs.org)](https://www.kfs.org/jonathan/witt/t654en.html) — the proposition, quoted verbatim
+- [Wittgenstein, Tractatus Logico-Philosophicus 6.54, from kfs.org (translator not stated on the page)](https://www.kfs.org/jonathan/witt/t654en.html) — the proposition, quoted verbatim
 - [Thanissaro Bhikkhu, Alagaddupama Sutta MN 22 (accesstoinsight)](https://www.accesstoinsight.org/tipitaka/mn/mn.022.than.html) — the raft simile, quoted verbatim
 - Wittgenstein, Tractatus 6.54 (original seed line, kept)
 

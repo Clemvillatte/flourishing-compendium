@@ -19,9 +19,10 @@
   "Self-serving attribution bias",
   "Radical freedom",
   "Restorative justice",
-  "Shared reality"
+  "Shared reality",
+  "Recognising limits"
  ],
- "in_progress": "Recognising limits",
+ "in_progress": null,
  "flagged": {
   "Radical freedom": "Reopened for QC: advisor QC round 4 FAIL: unsupported attributions, authorship conflicts, subjective-to-objective drift, Epictetus opinion claim, provenance-block loss; repairs pending",
   "Restorative justice": "Reopened for QC: advisor QC round 4 repairs: authorship corrected to Sherman & Strang per report cover; definition extended to include court-ordered financial restitution and families/friends per evidence retrieved; apology-sincerity mechanism claim removed; Forgiveness related-link restored bare; ANU extended bullet list quoted verbatim with citation; Cited-in psychology block restored verbatim from original; re-review pending",
@@ -30,6 +31,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T07:16:21+00:00",
+ "updated": "2026-10-20T07:22:41+00:00",
  "band_done": false
 }
