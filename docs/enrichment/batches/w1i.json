@@ -15,9 +15,10 @@
   "Social cognitive career theory",
   "Social support theory Cohen Wills",
   "Stimulus control theory",
-  "Stress cycle completion (Nagorski, Sapolsky)"
+  "Stress cycle completion (Nagorski, Sapolsky)",
+  "System justification theory"
  ],
- "in_progress": "System justification theory",
+ "in_progress": null,
  "flagged": {
   "Non-dual awareness": "RESOLVED milestone-five QC: exact definition blockquote added, NDA expanded; source and preservation checks pass",
   "Focused-attention meditation": "RESOLVED milestone-five QC: sentence-case subheading added; source and preservation pass",
@@ -29,6 +30,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 20,
- "updated": "2026-10-20T06:47:28+00:00",
+ "updated": "2026-10-20T11:30:55+00:00",
  "band_done": false
 }
