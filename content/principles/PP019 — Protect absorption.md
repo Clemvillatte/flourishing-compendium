@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 ---
 > **Principle 19** — Protect absorption
 
-Csikszentmihalyi called the absorbed state flow. The mind-wandering study did not measure flow; it measured where attention was and how people felt. Its conclusion:
+Csikszentmihalyi's name for the state of being fully immersed in an activity is flow. The mind-wandering study did not measure flow; it measured where attention was and how people felt. Its conclusion:
 
 > "In conclusion, a human mind is a wandering mind, and a wandering mind is an unhappy mind. The ability to think about what is not happening is a cognitive achievement that comes at an emotional cost." (Killingsworth & Gilbert, "A Wandering Mind Is an Unhappy Mind", Science, 2010)
 
@@ -26,6 +26,7 @@ In nearly half the samples, people were thinking about something other than what
 ## Sources
 
 - Killingsworth, M. A., & Gilbert, D. T., "A Wandering Mind Is an Unhappy Mind", Science 330(6006) (2010), p. 932 — [PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/21071660/) and [full text PDF, UC Berkeley Greater Good](https://greatergood.berkeley.edu/images/uploads/A_Wandering_Mind_Is_an_Unhappy_Mind.pdf)
+- [Flow (psychology), Wikipedia](https://en.wikipedia.org/wiki/Flow_(psychology)) — flow first presented in Csikszentmihalyi's Beyond Boredom and Anxiety (1975); naming of the immersed state
 
 ## Stories
 

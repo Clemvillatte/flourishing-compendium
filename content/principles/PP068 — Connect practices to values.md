@@ -14,7 +14,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 
 The self-concordance model's definition covers both developing interests and core values. Its finding:
 
-> "The self-concordance of goals (i.e., their consistency with the person's developing interests and core values) plays a dual role in the model. First, those pursuing self-concordant goals put more sustained effort into achieving those goals and thus are more likely to attain them. Second, those who attain self-concordant goals reap greater well-being benefits from their attainment." (Sheldon & Elliot, "Goal striving, need satisfaction, and longitudinal well-being", JPSP, 1999, abstract)
+> "The self-concordance of goals (i.e., their consistency with the person's developing interests and core values) plays a dual role in the model. First, those pursuing self-concordant goals put more sustained effort into achieving those goals and thus are more likely to attain them. Second, those who attain self-concordant goals reap greater well-being benefits from their attainment." (Sheldon & Elliot, "Goal striving, need satisfaction, and longitudinal well-being", JPSP, 1999, abstract, p. 482)
 
 The model, supported by longitudinal data, gives sustained effort a central role: goals consistent with the person's developing interests and core values receive more sustained effort. This page's application: when adopting a practice, identify a personally endorsed reason for it. The connection is not motivational decoration; on the model it is part of what sustains the practice.
 

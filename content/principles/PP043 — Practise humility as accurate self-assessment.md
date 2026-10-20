@@ -14,7 +14,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 
 Humility is not self-deprecation. The research definition this page follows is Don Davis's relational humility:
 
-> "Relational humility is defined as the degree to which one person attributes the following three qualities to a target person: (a) regulation of egotism (and self-oriented emotions) in socially acceptable ways; (b) accurate or moderate evaluative view of self; and (c) other-oriented, marked by a respect and value for others." (Davis, "Relational Humility", doctoral dissertation, Virginia Commonwealth University, 2011)
+> "Relational humility is defined as the degree to which one person attributes the following three qualities to a target person: (a) regulation of egotism (and self-oriented emotions) in socially acceptable ways; (b) accurate or moderate evaluative view of self; and (c) other-oriented, marked by a respect and value for others." (Davis, "Relational Humility", doctoral dissertation, Virginia Commonwealth University, 2011, p. 32)
 
 The scale built on that theory, the Relational Humility Scale, is observer-rated, with three subscales — Global Humility, Superiority, and Accurate View of Self. In the dissertation's fourth study, viewing an offender as more humble was related to lower unforgiveness the following week. A 2025 meta-analysis reported small associations of humility with physical health, mental illness, and life satisfaction, and a medium association with eudaimonic well-being, with relational humility showing a stronger negative association with mental illness than the trait and intellectual humility measures.
 
