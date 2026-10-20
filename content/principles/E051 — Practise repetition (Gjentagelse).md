@@ -12,13 +12,19 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 443** — Practise repetition (Gjentagelse)
 
-Recognise that authentic existence involves repetition — not mere repetition of the past, but the retrieval of one's possibilities in a way that transforms them. Repetition is the movement forward that takes up what was and makes it new. Do not live in nostalgia for the past; retrieve it and carry it forward.
+Kierkegaard's narrator Constantin Constantius contrasts remembering a past love with living a commitment in the present ([Repetition, Part One, opening, pp. 131–133, Hong and Hong translation](https://hiw.kuleuven.be/hua/events/hom-seminar/Kierkegaard1)). He asks whether repetition is possible; the opening presents a problem to investigate, rather than a technique whose success is assured ([same passage](https://hiw.kuleuven.be/hua/events/hom-seminar/Kierkegaard1)).
 
-(Kierkegaard, 1843/1983, Repetition; Heidegger, 1927/2008, Being and Time, §§74-75.)
+> it takes courage to will repetition.
 
-**Plain words** Repetition (Gjentagelse) isn't the replaying of the past — it's the retrieval of your possibilities in a way that transforms them: the movement forward that takes up what was and makes it new. Not nostalgia; not novelty. Retrieval.
+(Kierkegaard, Repetition, Part One, p. 132; [opened text](https://hiw.kuleuven.be/hua/events/hom-seminar/Kierkegaard1), excerpt from a longer sentence.)
 
-*For example:* The musician who returns to the first song they ever wrote — not to restore it but to retrieve what it carried, now, with twenty years of hands. The song is new because the retrieval is forward-facing.
+### Plain words
+
+Think about a friendship you still want to keep. Remembering how close you once were leaves a different question unanswered: what are you willing to do for this friendship now?
+
+### For example
+
+Imagine two friends who used to meet every week but now live far apart. They could agree to a regular call and make room for what has changed in each other's life, without expecting to recreate their old evenings.
 ## Psychology parallels
 
 - **Nostalgia as resource** (Routledge et al., 2008)
