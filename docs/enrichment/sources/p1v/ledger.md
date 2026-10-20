@@ -270,3 +270,22 @@ opened text at the recorded URL.
   principles (Bodhicitta cites B155; P126 cites Goal conflict research and
   Value pluralism; B170 wash-the-dishes principle exists separately); no new
   reciprocal proposals warranted.
+
+## P126 — Respect genuine value conflict (2026-10-20)
+
+- OPENED: William James, The Will to Believe and Other Essays in Popular
+  Philosophy, Project Gutenberg,
+  https://www.gutenberg.org/cache/epub/26659/pg26659.txt — "The Moral
+  Philosopher and the Moral Life" (quotes re-verified verbatim in context this
+  session via raw-text fetch; the raw text was already opened for P186).
+- Verified verbatim: both blockquotes ("There is hardly a good... some other
+  end of desire." and "Some part of the ideal must be butchered... with which
+  he has to deal."), exact to the Gutenberg text including "conundrum, with".
+- LOCATOR NOTES: printed p. 202 derived from the Gutenberg page markers
+  ({202} ... {203} bracket both quotes; markers confirmed as page-start
+  convention against the TOC, which places the essay's start at p. 184 with
+  {185} one printed page in). The seed's "Isaiah Berlin — adjacent." line
+  dropped: Berlin was not opened this session. Inherited psychology parallel
+  (Emmons and King 1988) and philosophy parallels (Value pluralism; the
+  unlinked "The moral philosopher and the moral life" entry) preserved
+  untouched and NOT verified this session.

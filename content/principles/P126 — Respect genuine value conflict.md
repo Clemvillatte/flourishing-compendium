@@ -12,13 +12,22 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 126** — Respect genuine value conflict
 
-Some conflicts are not confusions to be dissolved but real collisions between real goods. Don't force premature synthesis: carry the tension honestly, and choose with open eyes.
+James argues that the world's goods compete for the same space and time, so any choice of ends leaves part of the ideal behind. The demand for a scale of subordination among ideals is, in his words, the fruit of an altogether practical need. (James, "The Moral Philosopher and the Moral Life.".)
 
-(James, "The Moral Philosopher and the Moral Life," 1891; Isaiah Berlin — adjacent.)
+> "There is hardly a good which we can imagine except as competing for the possession of the same bit of space and time with some other imagined good. Every end of desire that presents itself appears exclusive of some other end of desire." (James, The Will to Believe and Other Essays, printed p. 202, [Gutenberg](https://www.gutenberg.org/cache/epub/26659/pg26659.txt))
 
-**Plain words** The person who pretends the collision is a misunderstanding chooses blindly and calls it peace. Some conflicts are real collisions between real goods — carry the tension honestly and choose with open eyes.
+> "Some part of the ideal must be butchered, and he needs to know which part. It is a tragic situation, and no mere speculative conundrum, with which he has to deal." (James, The Will to Believe and Other Essays, printed p. 202, [Gutenberg](https://www.gutenberg.org/cache/epub/26659/pg26659.txt))
 
-*For example:* Honesty versus kindness at the hospital bedside — two goods, actually colliding. There's no dissolve. There's only an honest choice, made with eyes open, carried with weight.
+The compendium adapts this into an exercise in honest choosing: when two real goods collide, name both, name what giving up each would cost, then choose.
+
+**Plain words**
+When two good things cannot both happen, say so plainly. Weigh which one to give up, and admit the cost of the loss.
+
+*For example:* Imagine you promised to help a friend move on the same afternoon as your child's school play. You name both promises, tell your friend honestly, and arrange another time to help.
+
+## Sources
+
+- [The Will to Believe and Other Essays in Popular Philosophy, William James, Project Gutenberg](https://www.gutenberg.org/cache/epub/26659/pg26659.txt) — "The Moral Philosopher and the Moral Life"
 
 ## Psychology parallels
 
