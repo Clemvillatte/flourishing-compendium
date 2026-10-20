@@ -17,7 +17,7 @@ The second, from Richard Tedeschi and Lawrence Calhoun, is that some people also
 
 > Posttraumatic growth is the experience of positive change that occurs as a result of the struggle with highly challenging life crises.
 
-The growth is not vague. Their 21-item inventory factors it into named domains: greater appreciation of life and changed priorities, warmer relationships, a greater sense of personal strength, recognition of new possibilities, and spiritual development. And the finding carries a guard that matters clinically: growth and pain arrive together. As the authors put it, "virtually everyone reporting posttraumatic growth also acknowledges at least some distress".
+The growth is not vague. Their 21-item inventory factors it into named domains: greater appreciation of life and changed priorities, warmer relationships, a greater sense of personal strength, recognition of new possibilities, and spiritual development. And the finding carries a guard that matters clinically: growth can coexist with distress. As the authors put it, "virtually everyone reporting posttraumatic growth also acknowledges at least some distress".
 
 ### The narrative route
 
@@ -26,11 +26,11 @@ Robert Neimeyer's constructivist work adds the mechanism the facets below record
 ### In the compendium
 
 - [[PP047 — Allow post-traumatic growth without forcing it]] — the page's clinical guard, made a principle
-- [[E064 — Practise meaning through the attitude toward suffering]] — Frankl's third route, of which this is the empirical face
+- [[E064 — Practise meaning through the attitude toward suffering]] — the Franklian stance toward unavoidable suffering, which the growth literature studies
 - [[B180 — Turn mishaps into the path (lojong)]] — the contemplative analogue of treating adversity as material
 - [[A028 — Practice resilience in adversity]] — Bonanno's finding that resilience is more common than often believed
 - [[S092 — Treat adversity as training]] — the Stoic training frame for the same disposition
-- [[E091 — Practise limit situations]] — growth is reported most where circumstances cannot be changed
+- [[E091 — Practise limit situations]] — the limit situation as the setting for the stance this page describes
 
 ## Facets
 
@@ -47,7 +47,7 @@ Robert Neimeyer's constructivist work adds the mechanism the facets below record
 - [[Stress-related growth]] — the sibling construct from ordinary stressors rather than trauma
 ## Sources
 
-- Bonanno, 2004
+- Bonanno, 2004 — abstract: https://eric.ed.gov/?id=EJ684215
 - Tedeschi & Calhoun
 - Tedeschi & Calhoun, 1996
 - Tedeschi and Calhoun, 2004

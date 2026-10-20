@@ -9,13 +9,13 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “The inner citadel” — Hadot, The Inner Citadel; Stoics, Marcus Aurelius, Meditations.
 
-Pierre Hadot, the historian of ancient philosophy, is the author of The Inner Citadel, a study of the Meditations of Marcus Aurelius (Harvard, 1998). Hadot is known for reading ancient philosophy as a set of spiritual exercises, "practices ... intended to effect a modification and a transformation in the subjects who practice them", rather than as a body of theory. The inner citadel is the mind's own ground: the place of judgment, into which nothing external can force its way.
+Pierre Hadot, the historian of ancient philosophy, is the author of The Inner Citadel, a study of the Meditations of Marcus Aurelius (Harvard, 1998). Hadot is known for reading ancient philosophy as a set of spiritual exercises, "practices ... intended to effect a modification and a transformation in the subjects who practice them", in the definition Wikipedia quotes from him. On the Stoic account, the inner citadel is the mind's own ground: the place of judgment, which external things cannot force.
 
-The word citadel does not appear in George Long's translation of the Meditations, but the book circles the idea. Marcus tells himself that the retreat people seek in the country or by the sea is available anywhere, at any hour (Book 4.3):
+The word citadel does not appear in the Casaubon translation of the Meditations, the edition used here, but the book circles the idea. Marcus tells himself that the retreat people seek in the country or by the sea is available anywhere, at any hour (Book 4.3):
 
 > At what time soever thou wilt, it is in thy power to retire into thyself, and to be at rest, and free from all businesses. A man cannot any whither retire better than to his own soul; he especially who is beforehand provided of such things within, which whensoever he doth withdraw himself to look in, may presently afford unto him perfect ease and tranquillity.
 
-The boundary is judgment, not architecture. On Marcus's account the events themselves stay outside, and the trouble is made inside, by opinion (Book 4.3):
+On Marcus's account the boundary is judgment: the events themselves stay outside, and the trouble is made inside, by opinion (Book 4.3):
 
 > One, that the things or objects themselves reach not unto the soul, but stand without still and quiet, and that it is from the opinion only which is within, that all the tumult and all the trouble doth proceed.
 
@@ -25,7 +25,7 @@ And on his Stoic account the mind, once recollected, cannot be compelled from ou
 
 ### How the citadel is built
 
-Hadot's wider work names the method: the repeated maxims and daily exercises of ancient philosophy. One of those maxims, which Hadot credits to Epictetus, states the doctrine plainly: "What troubles people is not things, but their judgments about things". The Stoics repeated such lines until the lines were ready at the moment of trouble. On this reading the citadel is not built once. It is maintained by use.
+Hadot's wider work names the method: the repeated maxims and daily exercises of ancient philosophy. One of those maxims, which Hadot credits to Epictetus, states the doctrine plainly: "What troubles people is not things, but their judgments about things". The Stoics repeated such lines until the lines were ready at the moment of trouble. On this reading the citadel is maintained by use.
 
 ### In the compendium
 
@@ -46,7 +46,7 @@ Hadot's wider work names the method: the repeated maxims and daily exercises of 
 - Hadot, The Inner Citadel
 - Stoics, Marcus Aurelius, Meditations
 - Hadot, The Inner Citadel — via Wikipedia (Pierre Hadot): https://en.wikipedia.org/wiki/Pierre_Hadot
-- Marcus Aurelius, Meditations, George Long translation (full text verified by local search): https://www.gutenberg.org/files/2680/2680-h/2680-h.htm
+- Marcus Aurelius, Meditations, Casaubon translation, Gutenberg 2680 (full text verified by local search): https://www.gutenberg.org/files/2680/2680-h/2680-h.htm
 
 ## Related concepts
 

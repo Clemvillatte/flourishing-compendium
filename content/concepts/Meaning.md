@@ -27,9 +27,17 @@ He guards the third way with a condition that matters for any account of flouris
 
 ### Why it matters for flourishing
 
-The three ways translate the seed's triad into practice. Work and deeds carry purpose, the sense of being about something. Love and encounter carry mattering, the sense that someone and something count. The stance taken toward unavoidable suffering carries coherence, the part of a life story that holds when circumstances do not. A flourishing life draws on all three rather than betting itself on one. And the guard matters as much as the routes: none of this romanticises pain. Where a cause of suffering can be removed, removing it is the meaningful act, and the meaning that remains is the one carried by attitude alone.
+Read one way, the three ways echo the seed's triad: work and deeds can carry purpose, the sense of being about something; love and encounter can carry mattering, the sense that someone and something count; the stance taken toward unavoidable suffering can hold a life story together when circumstances do not. That mapping is this page's reading, not a claim Frankl makes. What his text does support is the guard: none of this romanticises pain. Where a cause of suffering can be removed, removing it is the meaningful act, and the meaning that remains is the one carried by attitude alone.
 
-Meaning so understood is a practice rather than a possession. It is assembled from deeds, encounters, and stances, which is why it can hold under conditions that strip everything else away.
+On this reading meaning is assembled from deeds, encounters, and stances. Frankl's unconditional-meaning passage is the ground for saying it can hold under conditions that strip everything else away.
+
+### In the compendium
+
+- [[E010 — Practise the constitution of meaning]] — the core principle: meaning is constituted from deeds, encounters, and stances, and this page gives its raw material
+- [[PP023 — Distinguish meaning from happiness]] — meaning and positive feeling are different axes
+- [[AF072 — Recognise that positive affect alone is not flourishing; it is one component]] — the affective and the meaningful sides of flourishing are tracked separately
+- [[P159 — Defuse — see thoughts as thoughts]] — the raw material of meaning includes thoughts about one's own life, held lightly
+- [[P019 — Read an idea through its consequences]] — a meaning shows itself in what a life does next
 
 ## Related concepts
 
