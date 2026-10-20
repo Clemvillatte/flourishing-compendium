@@ -42,8 +42,8 @@ If you enjoy an activity, you can still decide how much attention to give it. As
 - [[K204 — Phone-free first and last hour|K204 Phone-free first and last hour]]
 ## Psychology parallels
 
-- **Smartphone "brain drain"** (Ward et al., 2017; Liu et al., 2023 meta-analysis), the mere presence of one's own smartphone reduces available cognitive capacity
-- **[[Attention residue|Attention residue]]** (Leroy, 2009), task-switching degrades current performance
+- **Smartphone "brain drain"** ([Ward et al., 2017](https://econpapers.repec.org/article/ucpjacres/doi_3a10.1086_2f691462.htm)): two experiments reported reduced available cognitive capacity when participants' own smartphones were present.
+- **[[Attention residue|Attention residue]]** ([Leroy, 2009](https://econpapers.repec.org/article/eeejobhdp/v_3a109_3ay_3a2009_3ai_3a2_3ap_3a168-181.htm)): the experiments linked difficulty disengaging from unfinished work with poorer performance on the next task.
 
 ## Philosophy parallels
 

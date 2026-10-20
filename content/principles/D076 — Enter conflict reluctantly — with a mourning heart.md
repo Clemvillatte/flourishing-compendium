@@ -12,17 +12,30 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 76** — Enter conflict reluctantly: with a mourning heart
 
-When you cannot avoid fighting, do it grieving, without celebration; the winner of a fight should conduct himself like a funeral.
+Chapter 31 of the Daodejing calls weapons "instruments of evil omen" and says the person of the Tao uses them "only on the compulsion of necessity". The chapter treats victory by force as undesirable: regarding it as desirable would be "to delight in the slaughter of men". The chapter ends by assigning the victor his place among the rites of mourning.
+
+> He who has killed multitudes of men should weep for them with the bitterest
+> grief; and the victor in battle has his place (rightly) according to those
+> rites.
+>
+> (Daodejing 31, Legge)
+
+Chapter 69 adds the reluctance at the start: "I do not dare to be the host (to commence the war); I prefer to be the guest (to act on the defensive)." It ends on the same note: "when opposing weapons are (actually) crossed, he who deplores (the situation) conquers." These passages concern warfare; applying them to ordinary disagreements is the compendium's interpretation.
 
 (DDJ 69, 31.)
 
-**Plain words** When you can't avoid fighting, do it grieving, without celebration — the winner should conduct himself like a funeral. Conflict is sometimes necessary, but treating it as a triumph is how necessary becomes habitual.
+**Plain words**
+Winning a dispute leaves you with choices about how to treat the people affected. As the compendium's everyday application, ask what harm remains and how to carry out the outcome respectfully.
 
-*For example:* Firing someone respectfully and somberly is part of the job; firing them with relish tells everyone what you are.
+*For example:* As a workplace analogy, imagine a manager dismissing an employee. The manager explains the decision respectfully and avoids presenting the dismissal to colleagues as a personal victory.
+
+## Sources
+
+- [The Tao Teh King, Legge translation (Project Gutenberg)](https://www.gutenberg.org/cache/epub/216/pg216.txt) — chapters 31, 69
 
 ## Psychology parallels
 
-- **[[Aggression research|Aggression research]]**, instrumental, reluctant conflict is rarer and more containable than reactive aggression
+- **[[Aggression research|Aggression research]]**
 - **[[Schadenfreude's relational costs|Schadenfreude's relational costs]]**
 
 ## Philosophy parallels

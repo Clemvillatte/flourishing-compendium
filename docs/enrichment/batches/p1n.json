@@ -1,14 +1,18 @@
 {
  "batch": "p1n",
  "done": [
-  "D024",
   "D027",
   "D029",
-  "D051"
+  "D051",
+  "D076",
+  "D024"
  ],
  "in_progress": null,
- "flagged": {},
+ "flagged": {
+  "D024": "Reopened for QC: QC round 2: psychology-parallel tails replaced per advisor (Liu co-citation removed, Ward/Leroy scoped to fetched abstracts)"
+ },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T01:12:59+00:00"
+ "updated": "2026-10-20T01:18:39+00:00",
+ "band_done": false
 }
