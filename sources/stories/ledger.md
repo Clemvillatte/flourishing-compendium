@@ -258,3 +258,21 @@ previously pushed only by ad-hoc git add) — KEPT, verified on origin/main.
   tree): exactly the intended B011 link loss on the story and the mirrored
   loss on B011's page; ST343 and ST344 fully clean; no content/quotation
   errors; no Contents-page false positives (structure file untouched).
+
+## Buddhism batch, QC round 6 (final bounded edits)
+
+- ST343 death-sequence sentence corrected with an ASSERTED unique match (the
+  round-5 replacement had silently missed: the anchor used plain "jhana"
+  while the file already carried macrons — the lesson from this session's
+  earlier silent no-match incidents was re-applied: assert anchors, verify
+  the resulting file, not the script's success message).
+- ST343: DN 16 citations added beside the journey narration and the
+  death-sequence paragraph (previously only the blockquotes carried links).
+- ST344: "quoted verbatim from the opened text" audit phrase removed from
+  Sources; Lion's Roar citation moved beside the founding-chronology
+  sentence in the body.
+- MEANINGFUL CHECK (working tree vs pre-repair HEAD, round-6 edits): 0
+  validator errors — no link changes this round (B011 removal was round 5),
+  no content/quotation errors, no structure-file changes.
+- BATCH CLOSED AS SCOPED ACCEPTANCE per advisor round 6 ("close this batch
+  as scoped acceptance and proceed to Pragmatism").

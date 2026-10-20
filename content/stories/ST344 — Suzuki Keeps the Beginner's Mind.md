@@ -11,7 +11,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST 
 
 Shunryū Suzuki was a Sōtō Zen priest, born in Japan in 1904, who came to the United States in 1959 and taught there until his death in 1971. He had been asked to lead the Japanese Sōtō congregation in San Francisco, and he meant to stay a year or two. In the introduction to his book, his student Richard Baker records why he stayed: "He stayed because he found that Americans have a beginner's mind, that they have few preconceptions about Zen, are quite open to it, and confidently believe that it can help their lives. He found they question Zen in a way that gives Zen life." ([Richard Baker, introduction to ZMBM](https://web.stanford.edu/~funn/ZenMindBeginners.pdf)) The teacher of beginner's mind chose the students who already had it.
 
-In those twelve years, with his students, he founded the San Francisco Zen Center and Tassajara, one of the first Buddhist monasteries outside Asia. The teaching he is remembered for fits in one line, the first line of the book his students assembled from his talks:
+In those twelve years, with his students, he founded the San Francisco Zen Center and Tassajara, one of the first Buddhist monasteries outside Asia ([Lion's Roar](https://www.lionsroar.com/the-enduring-teachings-of-suzuki-roshi/)). The teaching he is remembered for fits in one line, the first line of the book his students assembled from his talks:
 
 > "In the beginner's mind there are many possibilities, but in the expert's there are few." ([ZMBM, Prologue](https://web.stanford.edu/~funn/ZenMindBeginners.pdf))
 
@@ -28,6 +28,6 @@ The compendium pairs the story with the Daoist instruction to unlearn daily as a
 
 ## Sources
 
-- Zen Mind, Beginner's Mind (1970) by Shunryu Suzuki, full text hosted at [Stanford](https://web.stanford.edu/~funn/ZenMindBeginners.pdf) — the prologue line, the shoshin passage, the "Nothing Special" passage, and Baker's introduction (the reason Suzuki stayed), quoted verbatim from the opened text.
+- Zen Mind, Beginner's Mind (1970) by Shunryu Suzuki, full text hosted at [Stanford](https://web.stanford.edu/~funn/ZenMindBeginners.pdf) — the prologue line, the shoshin passage, the "Nothing Special" passage, and Baker's introduction (the reason Suzuki stayed).
 - David Chadwick, review of Zen Mind, Beginner's Mind, [Inquiring Mind](https://inquiringmind.com/article/2501_31_chadwick/) — the book's editing history (Derby, Dixon, Baker), the November 10, 1965 lecture variant, and the "Good book" anecdote, from the full opened article.
 - [Lion's Roar](https://www.lionsroar.com/the-enduring-teachings-of-suzuki-roshi/) — the twelve years from his 1959 arrival to his death in 1971, and the founding of the San Francisco Zen Center and Tassajara.
