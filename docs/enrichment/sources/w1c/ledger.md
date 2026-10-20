@@ -230,3 +230,43 @@ legacy schema (state keys + proposals) — MERGED, never replaced.
   internalized text, Metacognition, Ars memoriae).
 - Preservation: front-matter, seed line, all Cited-in links kept
   byte-for-byte; the seed's "Roediger & Karpicke, 2006" citation kept.
+
+## Action precedes feeling (item 23, 2026-10-20)
+
+- Advisor QC: not due (item 3; next milestone at item 5).
+- Opened:
+  1. Aristotle, Nicomachean Ethics II (Ross translation), via the
+     Wikisource proofread edition (API-rendered text of
+     "Nicomachean Ethics (Ross)/Book Two", transcluding the Works of
+     Aristotle v9 scans) — https://en.wikisource.org/wiki/Nicomachean_Ethics_(Ross)/Book_Two
+     - "For the things we have to learn before we can do them..." (1103a-b)
+       verified verbatim, with Bekker numbers visible in the text.
+     - The added prose paragraph paraphrases the same section: "adapted by
+       nature to receive them, and are made perfect by habit" and the
+       legislators sentence, both present in the opened text.
+  2. William James, The Principles of Psychology, vol. II, ch. XXV, via the
+     Classics in the History of Psychology transcribed text (York
+     University) — https://psychclassics.yorku.ca/James/Principles/prin25.htm
+     - "My theory, on the contrary..." (p. 449) and "Common-sense says..."
+       (pp. 449-450) verified verbatim; the page-number markers in the
+       transcribed text fix the locators.
+     - "purely cognitive in form, pale, colorless, destitute of emotional
+       warmth" fragment verified.
+- Source discovery notes: Perseus hopper is JS-walled and robots-blocked;
+  MIT classics 404s in the fetcher; Gutenberg IDs 843/20114 are NOT the
+  Ethics/James (wrong books); Wikisource hosts the Ross NE via scan
+  transclusion (wikitext is a stub; rendered API text is needed) and only
+  chapters 1/2/8 of James. The York psychclassics transcription and the
+  Wikisource Ross edition were used instead.
+- Principles described from their own files (BE001, A004, A108, MO046,
+  AF036, BE013, P181 each read).
+- Related targets checked to exist (James-Lange theory of emotion;
+  Habit formation; Embodied cognition; Somatic marker hypothesis (Damasio);
+  Eudaimonia). The Damasio clause says "a later research line", which is
+  editorial framing, labelled as pairing on the page's Related line.
+- First validate run: prose too short (130 < 150); fixed by adding the
+  grounded Aristotle-context paragraph (nature/habit/legislators, all from
+  the opened section).
+- Proposals: 5 reciprocals added.
+- Preservation: front-matter, seed line, all citation lines and Cited-in
+  links kept byte-for-byte; both original seed citations kept in Sources.
