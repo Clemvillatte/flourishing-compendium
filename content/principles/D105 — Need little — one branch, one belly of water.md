@@ -12,17 +12,25 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 105** — Need little: one branch, one belly of water
 
-The wren nests on one forest branch, the mole drinks from a filled belly — and both are content. Your actual needs are tiny; live close to them.
+In Zhuangzi's dialogue, Yao offers Xu You the throne. Xu You replies that the kingdom is already well governed and asks whether taking over would serve anything beyond his name. He explains his refusal through two animals whose needs have a limit (Zhuangzi 1, [Legge](https://ctext.org/zhuangzi/enjoyment-in-untroubled-ease)).
 
-(Zhuangzi 1.)
+> The tailor-bird makes its nest in the deep forest, but only uses a single branch; the mole drinks from the He, but only takes what fills its belly.
 
-**Plain words** The wren nests on one forest branch; the mole drinks from a filled belly — and both are content. Your actual needs are tiny. Living close to them isn't poverty; it's discovering how much of your 'need' was set dressing.
+(Zhuangzi 1, Xu You's reply to Yao, [Legge](https://ctext.org/zhuangzi/enjoyment-in-untroubled-ease).)
 
-*For example:* The camper with a tarp and a pot eats as well as the one with a trailer's kitchen — one of them also knows where the stars are.
+The compendium reads this refusal as an invitation to judge an acquisition by what you would use it for. The story gives no universal budget for a human life; its speaker has no use for the throne offered to him.
+
+**Plain words** Before accepting something bigger, ask what you need it to do. If what you have already does that, would the extra responsibility be worth accepting just for the title?
+
+*For example:* Imagine being offered a larger office that would require moving away from colleagues you work with daily. You keep the smaller room because it has enough space for your work.
+
+## Sources
+
+- [Zhuangzi 1, Enjoyment in Untroubled Ease, translated by James Legge, Chinese Text Project](https://ctext.org/zhuangzi/enjoyment-in-untroubled-ease): Xu You's reply to Yao.
 
 ## Psychology parallels
 
-- **Income and well-being**, diminishing, context-dependent returns rather than a universal plateau (Kahneman and Deaton, 2010; Jebb et al., 2018; Killingsworth, Kahneman and Mellers, 2023)
+- **Income and well-being** (Kahneman and Deaton, 2010; Jebb et al., 2018; Killingsworth, Kahneman and Mellers, 2023)
 - **[[Aspiration index|Aspiration index]]** (Kasser and Ryan, 1993)
 
 ## Philosophy parallels
