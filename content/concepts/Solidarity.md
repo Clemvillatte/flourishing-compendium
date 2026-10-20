@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Solidarity” — Camus, The Rebel; Rorty, Contingency, Irony, and Solidarity; Scholz, Political Solidarity.
 
+## Related concepts
+
+- [[P137]] — Rorty's account of solidarity in Contingency, Irony, and Solidarity, applied to building it without demanding consensus.
+
 ## Sources
 
 - Camus, The Rebel
