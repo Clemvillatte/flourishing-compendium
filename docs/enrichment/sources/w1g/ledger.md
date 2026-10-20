@@ -849,3 +849,29 @@
 - FAST-TRACK NOTE: saturation hunt skipped per §1a; [[The great doubt]] (deg 6) and
   [[Socratic inquiry]] (deg 3) added as Related with definitional glosses.
 - Validation: --fast-track ok. sources_checked +1 (sacred-texts page).
+
+## The question of being (Seinsfrage) (2026-10-20, worker-j9fpiyf; fast-track; degree 9 — eligible)
+
+- OPENED (2): (1) SEP "Martin Heidegger" (Wrathall), https://plato.stanford.edu/entries/heidegger/
+  — the SZ 1 aim quotation ("the concrete working out of the question of the 'meaning'
+  (Sinn) of 'being'"), the Being/beings (ontological) distinction, and "that which
+  determines entities as entities" (GA20: 195; SZ 1) each returned verbatim in the fetch.
+  The SEP page does NOT contain the IM opening quote and does not describe the
+  "forgottenness of Being" as a Being and Time claim; the body does not assert either.
+  (2) Introduction to Metaphysics, 2nd ed. (GA 40), Fried & Polt translation, hosted at
+  https://www.beyng.com/pages/en/IntroductiontoMetaphysics2/IntroductiontoMetaphysics2.001.html
+  (translator Gregory Fried's own site) — the opening fundamental question and the
+  great-despair line returned verbatim. The page itself does not show a translator
+  credit; the Fried & Polt attribution rests on the site's "F&P 2nd ed." label (the
+  beyng.com site is Fried's Heidegger resource) — noted as a limitation.
+- PARAPHRASE BOUNDS: "calls it the fundamental question of metaphysics" is supported by
+  the beyng.com companion page's quote of IM ("The question we have identified as first
+  in rank ... is thus the fundamental question of metaphysics", GA 40, 19-20/IM, 19),
+  seen in search results, not fetched; the body's phrasing follows the fetched pages'
+  own wording ("the first of all questions"). A closing claim about asking/thinking was
+  cut before saving as unsupported. No "forgottenness" claim asserted (SEP does not
+  support it for BT).
+- FAST-TRACK NOTE: saturation hunt skipped per §1a; [[Being and beings]] (deg 14),
+  [[Dasein]] (deg 2), [[The question kept alive]] added as Related with glosses bounded
+  to the fetched material.
+- Validation: --fast-track ok. sources_checked +2.
