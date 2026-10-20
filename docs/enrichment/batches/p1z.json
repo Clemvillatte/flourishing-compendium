@@ -19,9 +19,10 @@
   "BE039",
   "BE050",
   "BE060",
-  "BE040"
+  "BE040",
+  "BE059"
  ],
- "in_progress": "BE059",
+ "in_progress": null,
  "flagged": {
   "BE023": "Reopened for QC: advisor QC round 1: prose repairs required",
   "AT001": "Reopened for QC: advisor QC correction cycle complete (round 3 scoped PASS)",
@@ -31,6 +32,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T07:29:07+00:00",
+ "updated": "2026-10-20T07:29:12+00:00",
  "band_done": false
 }

@@ -20,13 +20,13 @@ The direction matters, and the authors checked it both ways:
 
 > "The other direction - PA predicting next-day creative activity - was not supported, suggesting that the cross-day effect was specific to creative activity predicting wellbeing." (Conner et al., 2016, [DOI](https://doi.org/10.1080/17439760.2016.1257049))
 
-They read the pattern as an upward spiral: creative behaviour raises next-day well-being, and that well-being is likely to feed same-day creativity ([Conner et al., 2016, DOI](https://doi.org/10.1080/17439760.2016.1257049)). Their summary: "Overall, these findings support the emerging emphasis on everyday creativity as a means of cultivating positive psychological functioning." ([Conner et al., 2016, DOI](https://doi.org/10.1080/17439760.2016.1257049))
+In the lagged models, greater reported creative activity predicted higher next-day activated positive affect and flourishing. The models did not support positive affect predicting next-day creative activity. ([Conner et al., 2016](https://doi.org/10.1080/17439760.2016.1257049)) These observational findings leave causation uncertain. Their summary: "Overall, these findings support the emerging emphasis on everyday creativity as a means of cultivating positive psychological functioning." ([Conner et al., 2016, DOI](https://doi.org/10.1080/17439760.2016.1257049))
 
 **Plain words**
-In a two-week diary study, people felt more enthusiasm and flourishing the day after they spent more time than usual making something. The effect ran one way: feeling good did not predict making anything the next day. Making came first. The study measured time spent creating, not talent.
+In a two-week diary study, people reported more enthusiasm and flourishing following days when they spent more time than usual making something. The reverse direction was not supported: feeling good did not predict more creative activity the next day.
 
 **For example**
-The adult who "can't draw" spending an evening on a terrible watercolour and reporting a better-than-usual next day. The diary study counted hours of making, not quality.
+Suppose a beginner spends an evening painting a watercolour and notes their mood the next day.
 
 ## Sources
 
