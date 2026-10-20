@@ -41,13 +41,12 @@
   "Cash value",
   "Contingent self-esteem",
   "Default mode network",
-  "Intergroup contact",
   "Intolerance of uncertainty",
   "Narrative therapy",
   "Environmental psychology",
   "Friendship"
  ],
- "in_progress": null,
+ "in_progress": "Intergroup contact",
  "flagged": {
   "ERG Theory": "cited-in list (270+ Daoist principles) appears to be an auto-generated mapping; no principle text references ERG directly",
   "PEN Model": "cited-in list (614+ Daoist principles) appears to be an auto-generated mapping; no principle text references the PEN model directly",
@@ -58,11 +57,12 @@
   "Contingent self-esteem": "Reopened for QC: QC round 2: opening attribution repair",
   "Default mode network": "Reopened for QC: QC round 2: caveat attribution and Raichle framing repair",
   "Environmental psychology": "Reopened for QC: QC: opening needs verified disciplinary overview",
-  "Friendship": "Reopened for QC: QC: translator attribution and quote punctuation"
+  "Friendship": "Reopened for QC: QC: translator attribution and quote punctuation",
+  "Intergroup contact": "Reopened for QC: QC: opening restructure and mediator grounding"
  },
  "missing_concepts": [],
  "sources_checked": 36,
- "updated": "2026-10-20T06:52:11+00:00",
+ "updated": "2026-10-20T06:52:14+00:00",
  "band_done": false,
  "new_concepts": [
   {
