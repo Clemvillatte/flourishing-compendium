@@ -90,3 +90,11 @@
 - Related concepts: Karma yoga, Nishkama karma, Detachment from outcomes (all exist). No reciprocal proposed.
 - Saturation: fast-track skip.
 - No advisor QC required (item 12).
+
+## Flesh (chair)
+
+- Fast-track degree 1 (sole edge: E018 philosophy-parallels entry).
+- Opened source: SEP "Merleau-Ponty" (Toadvine), §6 The Visible and the Invisible. Verified verbatim: the flesh-as-general-thing/element sentence (blockquote, with the SEP's own V&I page references retained); the self-touch doubling, obverse-reverse reversibility, intercorporeity, handshake-reversible, and seeing-body-must-be-visible sentences. The SEP page does not state "not matter, not mind" as such; the opening line's "closer to an element... than to matter or mind" is my paraphrase of the element sentence, no quotation marks used on the gloss.
+- Related concepts: Body schema (deg 10), Sensorimotor accounts of perception (deg 3), descriptive clauses. No reciprocal proposed.
+- Saturation: fast-track skip.
+- No advisor QC required (item 13).
