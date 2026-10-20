@@ -12,9 +12,17 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SO — Sociocul
 ---
 > **Principle 75** — Use systems-level intervention for social suffering
 
-Use systems-level intervention — policy, community programs, and institutional change — for social suffering. Individual therapy cannot treat the social determinants of health; systems-level intervention is required (Biglan et al., 2012; Wahlbeck et al., 2015; WHO, 2022; O'Connor et al., 2022).
+Biglan and colleagues argue that mental, emotional, and behavioral problems, "to a great extent... stem from a set of common conditions," and that the environments which prevent them can be deliberately increased through a public health movement ([Biglan et al., 2012](https://eric.ed.gov/?id=EJ989127)). The unit of intervention is the environment, not the individual case: policy, community programs, and institutional change are how the conditions themselves get treated. The compendium's extension for helpers is to treat the person and name the cause, because the naming is clinical accuracy, not politics.
 
-**Plain words** Some suffering needs systems-level treatment — policy, programmes, institutional change. Individual therapy can't treat a social determinant. The skill for helpers: treat the person and name the cause. The naming is not radical; it's clinical accuracy.
+> We review evidence to support this synthesis and describe the kind of public health movement that could increase the prevalence of nurturing environments and thereby contribute to the prevention of most mental, emotional, and behavioral disorders.
+>
+> Biglan, Flay, Embry and Sandler (2012), American Psychologist 67(4), 257–271, [ERIC record EJ989127](https://eric.ed.gov/?id=EJ989127).
+
+(Biglan et al., 2012, American Psychologist 67(4): 257–271.)
+
+### Plain words
+
+Ask of a person's suffering what is actually treating it: a session, or a condition. Insomnia tied to shift work gets sleep hygiene and keeps coming back, because the schedule is doing the causing. One client at a time you ease the person; the schedule needs the employer or the law. Helpers do both — the session, and the naming of where the cause lives.
 
 *For example:* The therapist whose client's insomnia is partly the shift-work schedule — the sleep hygiene is real and the schedule is the cause. Treating the person while advocating for the schedule is the complete treatment.
 ## Psychology parallels
