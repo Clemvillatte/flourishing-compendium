@@ -16,14 +16,12 @@ AN 8.6 sets the problem as the eight worldly conditions that spin after the worl
 
 > "He welcomes the arisen gain and rebels against the arisen loss. He welcomes the arisen status and rebels against the arisen disgrace. He welcomes the arisen praise and rebels against the arisen censure. He welcomes the arisen pleasure and rebels against the arisen pain." (AN 8.6, [Thanissaro](https://www.accesstoinsight.org/tipitaka/an/an08/an08.006.than.html))
 
-The compendium's application: even-mindedness here is not a dampening of feeling. The sutta's disciple meets the same eight conditions as everyone else; what changes is the welcoming-and-rebelling.
-
-The compendium adapts this as a reflection practice: examine both the satisfactory and unsatisfactory aspects of a situation before responding.
+The compendium adapts the disciple's reflection into an exercise for responding to praise and criticism.
 
 **Plain words**
-Examine both sides before you respond. Ask what you found helpful and what you found difficult. Then describe your response before acting on it.
+A compliment or complaint gives you something to consider, but you need not settle its importance immediately. Write down what was said, what you think it means and how you want to respond. Revisit that judgment if new information arrives.
 
-*For example:* Imagine a coworker provides helpful feedback late and in a poor tone. You note the help and the tone, then answer about scheduling.
+*For example:* Imagine your child missing a note at a recital. You notice your disappointment and keep listening to the next part of the piece.
 
 ## Sources
 
