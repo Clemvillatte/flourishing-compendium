@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 483** — Practise limit situations
 
-Jaspers' term is Grenzsituationen, usually translated "boundary situations" or "limit situations." A scholarly study of the concept (Gutschmidt 2025) summarises his list: the boundary situations of life and action are death, suffering, struggle, and guilt. Jaspers' own sentence for what makes a situation one of these:
+Rico Gutschmidt's 2025 study discusses death, suffering, struggle and guilt as boundary situations in Jaspers' philosophy. He quotes Jaspers:
 
 > A situation turns into a boundary situation when it awakens the subject to existence by radically shattering its being. (Jaspers, Philosophy, vol. 1, p. 56)
 
@@ -20,14 +20,14 @@ His image for the encounter:
 
 > a wall that we bump up against, against which we founder. (Jaspers, Philosophy, vol. 2, p. 203)
 
-Both quotations are quoted secondhand, from the study just named, which gives the volume and page of each; the Philosophy translation is available in the open archives only as a library loan.
+Both passages are quoted here from Rico Gutschmidt's study, which supplies their source locators.
 
-(Jaspers, 1932/1970, Philosophy, vols. 1-2, trans. E.B. Ashton; quotations via Gutschmidt 2025.)
+(Jaspers, Philosophy, vols. 1-2; quotations via Gutschmidt 2025.)
 
 **Plain words**
-Some situations do not respond to effort. Jaspers' examples are death, suffering, struggle, and guilt. His image is a wall: you come up against it and cannot get through or around. The compendium's exercise is to notice when you are treating one of these as a fixable problem, and to ask what the situation shows about existence.
+The compendium uses Jaspers' boundary image to distinguish a practical task from the loss it cannot undo. Ask what action is still possible and what that action cannot change.
 
-*For example:* Someone caring for a dying parent keeps trying solutions: new doctors, new schedules, new arrangements. At some point the situation stops responding to solutions and becomes a wall. The exercise is to notice when that shift happens.
+*For example:* Suppose a friend has died and you are helping arrange transport to the funeral. Consider what this help can address alongside the fact that it cannot reverse the death.
 
 ## Sources
 
