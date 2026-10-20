@@ -7,20 +7,21 @@
   "SO041",
   "E005",
   "E006",
-  "E020",
   "E025",
   "E032",
-  "E038"
+  "E038",
+  "E020"
  ],
  "in_progress": null,
  "flagged": {
   "K001": "Reopened for QC: source-access-blocked: primary Yale 1990 translation not independently openable (Google Books TOC only, page-3 robots-blocked); body relies on opened secondary quotes (Shields, SEP, Mitsuhara); supervisor disposition requested",
   "SO041": "Reopened for QC: QC round 2: plumber second-opinion claim and practiced-domain contrast removed (not derived from displayed evidence)",
   "E005": "Reopened for QC: QC round 1 fail: opening overgeneralised; temporal-horizon quote misattached to present moment; colleague example conflated horizon with unknown facts; aphorisms; repairs per advisor",
-  "E032": "Reopened for QC: first-item QC (advisor): waiter bad-faith framing; Plain words narrowing; provenance labels; verification and saturation steps"
+  "E032": "Reopened for QC: first-item QC (advisor): waiter bad-faith framing; Plain words narrowing; provenance labels; verification and saturation steps",
+  "E020": "Reopened for QC: QC repair: supervisor CONDITIONAL FAIL (body overreached opened SEP); applying routed repair from QC-HANDOFF-p1w-2026-10-20"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T07:06:35+00:00",
+ "updated": "2026-10-20T07:42:14+00:00",
  "band_done": false
 }

@@ -12,22 +12,22 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 412** — Practise embodiment as condition of possibility
 
-The claim is that experience, thought and meaning are made of the body. Merleau-Ponty argues it in Phenomenology of Perception through the case of Schneider, a brain-injured patient whose injury disrupted what he calls the "intentional arc" that
+Merleau-Ponty's Phenomenology of Perception develops its account of the body through an extended case study of Schneider, a brain-damaged patient studied by Gelb and Goldstein. As the [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/merleau-ponty/) summarizes, Schneider lacks the ability to project into virtual space, and his injury has disrupted what Merleau-Ponty calls the "intentional arc," which
 
 > projects around us our past, our future, our human milieu, our physical situation, our ideological situation, and our moral situation, or rather, that ensures that we are situated within all of these relationships. (Merleau-Ponty, Phenomenology of Perception, p. 170/137, as quoted in [Toadvine, SEP](https://plato.stanford.edu/entries/merleau-ponty/))
 
-The dependence runs one way: when bodily function is damaged, movement is only the first thing to go; the unity of a world goes with it. Schneider's past, future and situations stopped cohering with him, because the arc that situates a life is the body's own projective functioning. Condition of possibility here means the shape of experience is already bodily before anything is thought.
+The same entry describes Merleau-Ponty's account of sensing as a reciprocal exchange of question and answer, quoting him: "The sensible gives back to me what I had lent to it, but I received it from the sensible in the first place" (p. 259/222). On this description, the perceiving body and the perceived thing are equally active and receptive. The compendium applies the account as a noticing practice: take perception as an activity in its own right, one your body performs with things, ahead of any description you give it.
 
-(Merleau-Ponty, 1945/2012, Phenomenology of Perception, p. 170/137.)
+(Merleau-Ponty, Phenomenology of Perception, pp. 170/137 and 259/222, as quoted in Toadvine, SEP.)
 
 **Plain words**
-Everything you can do, think or mean runs through a living body. Your sense of time, of other people, of what matters does not sit in a disembodied mind waiting for playback; it holds together only while a body keeps relating to a world. Illness makes this plain: when the body fails, plans, meanings and relationships wobble with it. So treat the body as the load-bearing part of your life, not as the transport that carries your head around.
+Perceiving is something a living body does with a world. Your body takes up an attitude toward a thing; the thing answers with what it will show. Sensing runs as question and answer. The practice is to catch that exchange happening: notice your body settling toward a thing before you have words for the situation.
 
-*For example:* Imagine a writer who treats the body as a commute between the bed and the desk, then develops a wrist injury. The injury does not touch the mind, yet the sentences, the plans and the shape of the day all reorganise around the wrist. The part treated as optional turns out to be the part doing the holding up.
+*For example:* Standing at an unfamiliar door, a hand may already be reaching for where a handle usually sits. The reach is perception working ahead of description.
 
 ## Sources
 
-- [Toadvine, "Maurice Merleau-Ponty", Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/merleau-ponty/) — verbatim PoP quotation (p. 170/137, intentional arc); Schneider case context. The English PoP translations are in copyright; the quote is verified against this opened page (secondhand-quote precedent: E016, E070)
+- [Toadvine, "Maurice Merleau-Ponty", Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/merleau-ponty/) — Schneider case summary and intentional-arc quotation (PP: 170/137); sensing-as-reciprocal-exchange quotation (PP: 259/222), quoted secondhand
 ## Stories
 
 - [[ST262 — Georges Cares for Anne|262. Georges Cares for Anne]]
