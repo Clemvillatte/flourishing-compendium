@@ -17,9 +17,9 @@ Then Life herself speaks the secret.
 
 > And this secret spake Life herself unto me. “Behold,” said she, “I am that WHICH MUST EVER SURPASS ITSELF. ... Whatever I create, and however much I love it,—soon must I be adverse to it, and to my love: so willeth my will.
 >
-> — Nietzsche, Thus Spake Zarathustra, "Self-Surpassing," trans. Thomas Common (capitals in the translation)
+> — Nietzsche, Thus Spake Zarathustra, "Self-Surpassing," trans. Thomas Common (capitals in the translation) ([Project Gutenberg](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm))
 
-Within the chapter, surpassing is tied to the will to power. Zarathustra reports that wherever he found a living thing, there he found Will to Power, and teaches that only where there is life is there will, naming that will Will to Power. Life, in her speech, says that whatever she creates, and however much she loves it, she must soon be adverse to it, and to her love.
+Within the chapter, surpassing is tied to the will to power. Zarathustra reports that wherever he found a living thing, there he found Will to Power. He teaches that only where there is life is there will, and he calls that will Will to Power. Life, in her speech, says that whatever she creates, and however much she loves it, she must soon be adverse to it, and to her love.
 
 Values are included in the motion. Zarathustra says that good and evil which would be everlasting do not exist, and must of their own accord surpass themselves anew. He says that whoever has to be a creator in good and evil must first be a destroyer, and break values in pieces.
 
