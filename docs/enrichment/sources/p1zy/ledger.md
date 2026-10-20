@@ -328,3 +328,9 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 - Quotes verified: all matched fetched pages.
 - Seed repairs: "extends again when safe" and the timing reading are not in the verse; 2.59 added (restraint leaves the taste). Withdrawal-signal practice labelled as the page's own. Emotion-regulation, Laozi 9, pratyahara not opened.
 - Saturation: low.
+
+## Y056 (2026-10-21, worker-p1zz-b81e3f52)
+- Sources opened: BG 2.62, 2.63 (Mukundananda).
+- Quotes verified: matched fetched pages.
+- Seed repairs: chain confirmed (contemplating, attachment, desire, anger, clouded judgment, bewildered memory, destroyed intellect, ruin; the translation uses "intellect" where the old page said "wisdom"). Interception at earliest link, "most enter at dwelling", and "earliest is cheapest" labelled as the page's own. Kavanagh/Andrade/May, dependent origination, Plato not opened.
+- Saturation: low.
