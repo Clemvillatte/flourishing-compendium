@@ -455,3 +455,26 @@ previously pushed only by ad-hoc git add) — KEPT, verified on origin/main.
   missing provenance still fails; 47 tests green) + protocol wording
   update; italics removed from ST345-ST348. Content commit ece623f8
   verified against origin. ST345-ST347 accepted bodies remain closed.
+
+## Pragmatism batch 2, item 1 — ST349 (claim-to-passage evidence)
+
+- **ST349 — The Sand-Table Farm** (P190, P038; ch. ST-S03.05)
+  - Carrier: Robert B. Westbrook, "John Dewey (1859-1952)", Prospects
+    XXIII 1/2 (UNESCO, 1993), hosted at cyc-net.org — OPENED IN FULL
+    (unprompted curl + tag-strip; all quoted passages grep-verified
+    against the page text: the January 1896 opening with sixteen
+    children and two teachers and the 1903 figures; the occupation
+    definition (Dewey 1899 p.92); "the child comes to school to do"
+    (Dewey 1896a p.245); the 1903 experimentation-and-error passage
+    (p.237); the model-farm narrative (Mayhew & Edwards pp.83-84,
+    quoted by Westbrook): sand-table farm, one-foot ruler, halves and
+    fourths, four posts and six or seven slats, repeated measurements,
+    "more rapidly and more accurately as the work was repeated").
+  - Word-budget pass: citation anchors shortened and prose trimmed to
+    fit 150-480 (story_check published: 0 errors; structural validator
+    clean; structure file shows only the two documented false
+    positives).
+  - Primary-library note: Dewey's own School and Society (1899) was
+    NOT opened; the Dewey quotations are carried by the opened
+    Westbrook article with page anchors. Recorded per the
+    catalogue-holdings vs accessible-texts distinction.
