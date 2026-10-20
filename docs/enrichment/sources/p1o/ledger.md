@@ -521,3 +521,19 @@
 - P110 was 301 words after repair (validation caught it); trimmed and
   re-validated. All six files validate ok against baseline e7034fd8^.
   Saved as QC repairs pending confirmation per the advisor's instruction.
+
+### Item-20 milestone QC — AFFIRMATIVE PASS (advisor, 2026-10-20)
+- The advisor confirmed PASS for the confirmation round and the item-20
+  QC scope: 'the six actual bodies contain the requested repairs... no
+  remaining blocker in the material reviewed here.' The labelled
+  compendium exercises and hypothetical examples are editorial
+  applications, not claims of demonstrated outcomes, and need no further
+  removal.
+- Resolved findings (do not re-search): Rescher authorship of the SEP
+  entry; James lecture locators; Whitehead corrected-edition pp. 21/28/
+  66/214; PIP shoe passage Ch. VI. This PASS closes the reviewed items
+  (P074, P095, P103, P104, P109, P110, P122, P124, P128, P131); it is
+  not a blanket audit of untouched content or predecessor work.
+- State flags for P074/P095/P103/P104/P108/P109 remain in place for
+  supervisor clearance (no flag-removal command); their reviewed
+  resolution is recorded here per the advisor's instruction.
