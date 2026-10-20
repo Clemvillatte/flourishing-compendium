@@ -12,17 +12,20 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 1** — Return to experience before the labels
 
-Nishida's opening move in An Inquiry into the Good is a description, not an argument. At the beginning of a direct experience there is no separate "I" watching a separate "thing"; there is just the experience. Nishida calls this direct experience pure, and he marks it by saying what it is not: it does not yet contain the thought that a colour belongs to an external object, or the judgment that it is one thing rather than another.
+Nishida's opening concept in An Inquiry into the Good is pure experience: the state before experience has been divided into an experiencing self and an experienced world. In Maraldo's account of the opening pages, "[t]he moment of seeing a color or hearing a sound" is prior not only to the thought that the color or sound is the activity of an external object or that one is sensing it, but also to the judgment of what the color or sound might be.
 
-> "The moment of seeing a color or hearing a sound" is prior not only to the thought that the color or sound is the activity of an external object or that one is sensing it, but also to the judgment of what the color or sound might be ([SEP, Nishida Kitarō, quoting Nishida 1990a, p. 3](https://plato.stanford.edu/archives/win2023/entries/nishida-kitaro/)).
+> "The moment of seeing a color or hearing a sound" is prior not only to the thought that the color or sound is the activity of an external object or that one is sensing it, but also to the judgment of what the color or sound might be.
+> (Maraldo, "Nishida Kitarō", Stanford Encyclopedia of Philosophy, quoting Nishida 1990a, p. 3.)
 
-The return the principle asks for is a return to this layer. When labels arrive, they are useful for shared projects and practical planning. The claim is that the labelled description is not the whole of what is happening, and that a habit of treating it as the whole misses a part of life that was always there.
+Nishida does not restrict pure experience to bare sensation. As Maraldo notes, thinking, judging, willing and intellectual intuition are derivative forms of pure experience insofar as they are going on: an act of thinking, while it is being done, has the same immediate character as seeing a colour. A commentary article on the book (Mitsuhara 2021) adds a caution that matters here: it is a mistake to reduce the concept to experience before judgment, because Nishida himself says there is neither absolutely pure nor absolutely non-pure experience; every experience is pure, depending on how one looks at it.
+
+The return the principle asks for is a return to attention of this kind, not to a special state beneath ordinary life.
 
 (Nishida, An Inquiry into the Good, Part I, ch. 1.)
 
-**Plain words** Suppose a friend says something that hurts. The words arrive first, and only afterwards does the account of the hurt arrive. The account is useful for deciding what to say back, but it is not the original event. This principle asks you to check whether the original is still available underneath the account.
+**Plain words** You are used to reporting experience in sentences that already contain a subject and an object: "I am looking at a tree." Nishida starts earlier than the report. His description is that at the moment itself, there is not yet a separation into someone doing the looking and a thing being looked at; the separation arrives with the report.
 
-*For example:* Nishida's own example of a direct experience is the moment of seeing a colour or hearing a sound, before the thought that the sound is an external object, that one is sensing it, or what it is. The compendium's exercise is to try attending to a sound for ten seconds without naming what it is.
+*For example:* Imagine listening to a piece of music without naming the instrument or forming a view about the performance, and noticing how the experience feels when nothing is being said about it. The compendium's exercise is to try attending to a sound this way for ten seconds.
 
 ## Psychology parallels
 
@@ -30,6 +33,7 @@ The return the principle asks for is a return to this layer. When labels arrive,
 
 ## Philosophy parallels
 
+- **[[Pure experience|Pure experience]]** — Nishida's own name for the concept this principle is about
 - **[[The sensible before the conceptual|The sensible before the conceptual]]** (Kant, Critique of Pure Reason, the Aesthetic)
 - **[[Stream of consciousness|Stream of consciousness]]** (William James, The Principles of Psychology, to whom Nishida responded directly)
 - **[[Epoché|Epochē of the natural attitude]]** (Husserl, Ideas I)
