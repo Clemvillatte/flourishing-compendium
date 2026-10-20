@@ -40,7 +40,7 @@ The compendium applies the things/judgements distinction to feeling and its inte
 
 - Stoics, Epictetus
 
-- [Epictetus, Enchiridion 1, 3 and 5, George Long translation, in Delphi Complete Works of Epictetus (opened; owner's primary-source library)](https://drive.google.com/file/d/1EDkL63FuSpabjbB7amxNodYocj_q_vaH/view)
+- [Epictetus, Enchiridion 1, 3 and 5, W. A. Oldfather translation (1925), in Delphi Complete Works of Epictetus (opened; owner's primary-source library)](https://drive.google.com/file/d/1EDkL63FuSpabjbB7amxNodYocj_q_vaH/view)
 
 [[SE002 — Recognise the observing self — you are not only the contents of awareness]]
 [[AF043 — Learn to observe feelings without identification — you are not your affect]]
