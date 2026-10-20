@@ -22,9 +22,10 @@
   "B157": "Ownership overlap: already done in p1k; no p1u content edits; skip pending supervisor reconciliation",
   "B163": "Ownership overlap: already done in p1k; no p1u content edits; skip pending supervisor reconciliation",
   "B164": "Ownership overlap: already done in p1n; no p1u content edits; skip pending supervisor reconciliation",
-  "B137": "Ownership overlap detected after p1u rewrite: already done p1p; source-verified p1u rewrite preserved protected content, supervisor attribution review needed"
+  "B137": "Ownership overlap detected after p1u rewrite: already done p1p; source-verified p1u rewrite preserved protected content, supervisor attribution review needed",
+  "B165": "Not in p1u manifest: selected in error, never edited. Supervisor may remove out-of-band state entries; no content work pending."
  },
  "missing_concepts": [],
  "sources_checked": 16,
- "updated": "2026-10-20T02:26:25+00:00"
+ "updated": "2026-10-20T02:27:25+00:00"
 }
