@@ -549,3 +549,25 @@ source; anything not opened is recorded as inherited and unverified.
   items pushed individually rather than batched.
 - Still outstanding: B017 and B030 drafts were never reviewed (the failed
   item-10 round predates them); they are scheduled for the item-25 round.
+
+### B154 — Practice is for others (service) (2026-10-20)
+- Opened: Shantideva's Guide, chapter 1 (Batchelor translation PDF, already
+  fetched). Verses 25-27 verified verbatim in the extracted text (the
+  blockquote uses verses 25-26 with line breaks). SOURCE NOTES: (1) the seed's
+  "Shantideva 8" citation is not usable — the Batchelor PDF's chapter 8
+  (Meditation) marks verses "90-186 Missing", so the exchange-of-self-and-
+  other verses (8.120-131) are not in the opened edition; chapter 1's awakening-
+  mind verses are the citable anchor for the bodhisattva ideal instead.
+  (2) The seed's "Dhammapada 154" locator does not support the principle:
+  verse 154 is the house-builder verse ("My mind has reached the
+  Unconditioned; I have attained the destruction of craving"), verified in the
+  fetched dhp.11 chapter; it is not used as an anchor and the mismatch is
+  recorded here rather than stretched.
+- Seed's "Serenity hoarded is a lake with no outlet" metaphor and the
+  cranky-retiree staging removed; replaced with the labelled intention-
+  direction application and an imagined two-retirees example. Dunn/Post claim
+  tail trimmed to a bare attribution; Kierkegaard inherited entry left as
+  found. First item worked under the new fail-fast workflow (start -> save ->
+  edit -> validate -> done -> save).
+- Saturation: no new reciprocals; K225 Service and creation is already the
+  linked kernel.
