@@ -19,7 +19,7 @@ Then Life herself speaks the secret.
 >
 > — Nietzsche, Thus Spake Zarathustra, "Self-Surpassing," trans. Thomas Common (capitals in the translation)
 
-Within the chapter, surpassing is tied to the will to power. Zarathustra reports that wherever he found a living thing, there he found Will to Power, and that only where there is life is there will: the will is not a will to life but a will to power. He also reports that whatever he creates and however much he loves it, he must soon be adverse to it, and to his love.
+Within the chapter, surpassing is tied to the will to power. Zarathustra reports that wherever he found a living thing, there he found Will to Power, and teaches that only where there is life is there will, naming that will Will to Power. Life, in her speech, says that whatever she creates, and however much she loves it, she must soon be adverse to it, and to her love.
 
 Values are included in the motion. Zarathustra says that good and evil which would be everlasting do not exist, and must of their own accord surpass themselves anew. He says that whoever has to be a creator in good and evil must first be a destroyer, and break values in pieces.
 
@@ -27,7 +27,7 @@ Values are included in the motion. Zarathustra says that good and evil which wou
 
 The principle on practising self-overcoming takes this chapter as its text and quotes the same passages. Its caution is worth carrying over. In the chapter, surpassing is described as something life does, with cost. The self that commands itself must atone for it. The principle reads the doctrine descriptively before prescriptively, and resists softening it into a program of self-improvement.
 
-The concept also meets the compendium's psychology of becoming. The possible-selves principle holds that people carry ideas of what they would like to become, what they could become, and what they fear becoming. The self-actualization principle carries Maslow's line that a musician must make music, an artist must paint, and what a man can be, he must be. Nietzsche's chapter speaks in a different register. On Life's own report, even what the will creates and loves, it must soon be adverse to. The surpassing leaves nothing in the self that could be finally possessed.
+The concept also meets the compendium's psychology of becoming. The possible-selves principle holds that people carry ideas of what they would like to become, what they could become, and what they fear becoming. The self-actualization principle carries Maslow's line that a musician must make music, an artist must paint, and what a man can be, he must be. Nietzsche's chapter speaks in a different register. On Life's own report, even what the will creates and loves, it must soon be adverse to.
 
 ## Related concepts
 
@@ -35,7 +35,7 @@ The concept also meets the compendium's psychology of becoming. The possible-sel
 
 ## Sources
 
-- Nietzsche, Thus Spake Zarathustra
+- Nietzsche, Thus Spoke Zarathustra
 - Nietzsche, F. (1883–1885), Thus Spake Zarathustra, trans. Thomas Common, Project Gutenberg: https://www.gutenberg.org/files/1998/1998-h/1998-h.htm
 
 ## Cited in philosophy parallels
