@@ -21,7 +21,10 @@ Shikantaza draft saved on origin at da9286f5; baton checkpoint at 3d3fd116.
 Fast-track validator passes, degree 10. Advisor first-item review launched as
 first_item_source_and_prose_qc_mvgak0s4. Not done while that review is pending.
 An additional humanizer pass removed unnecessary page-assembly narration after
-the quoted definition. Review must refer to the actual current file.
+the quoted definition. Advisor then verified the quote and factual support on the
+actual revised file, requested a definition of original enlightenment and deletion
+of an evaluative lead-in. Both exact requested repairs applied before acceptance.
+No primary-text authentication or general efficacy approval is implied by that QC.
 
 ## Research prepared for next entries
 

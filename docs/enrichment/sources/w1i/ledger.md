@@ -19,4 +19,7 @@ a principle reserve from the active supervisor.
   efficacy claims. Inherited Shobogenzo reference retained, not opened or
   certified. Existing comparisons retained as navigation, not verified genealogy.
 - Saturation: fast-track exemption used; no new reciprocal proposed.
-- QC: first-item independent review requested; not accepted or done yet.
+- QC: independent first-item advisor verified the quotation and source support;
+  asked for a definition of original enlightenment and removal of an evaluative
+  run-up. Both exact changes applied, then validator re-run against 32150b77.
+  Inherited Shobogenzo reference not independently authenticated.

@@ -7,7 +7,7 @@ file: "Shikantaza, just sitting"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-S"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-Shikantaza is the Sōtō Zen practice commonly translated as just sitting, associated with Dōgen ([Nagatomo, §2](https://plato.stanford.edu/entries/japanese-zen/)). In Shigenori Nagatomo's account, sitting takes place within original enlightenment, and practice and realization are understood as inseparable ([§2](https://plato.stanford.edu/entries/japanese-zen/)).
+Shikantaza is the Sōtō Zen practice commonly translated as just sitting, associated with Dōgen ([Nagatomo, §2](https://plato.stanford.edu/entries/japanese-zen/)). In Shigenori Nagatomo's account, sitting takes place within original enlightenment, the innate possibility of becoming a Buddha, and practice and realization are inseparable ([§2](https://plato.stanford.edu/entries/japanese-zen/)).
 
 ### Practice and realization
 
@@ -15,7 +15,7 @@ Shikantaza is the Sōtō Zen practice commonly translated as just sitting, assoc
 >
 > Shigenori Nagatomo, “Japanese Zen Buddhist Philosophy,” §2, [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/japanese-zen/).
 
-This account gives the practice a demanding meaning: the sitter relinquishes personal aims while continuing diligent meditation ([Nagatomo, §2](https://plato.stanford.edu/entries/japanese-zen/)). Nagatomo describes this as Dōgen's practice-realization, in which sitting is not a preliminary means of obtaining enlightenment later ([§2](https://plato.stanford.edu/entries/japanese-zen/)).
+The sitter relinquishes personal aims while continuing diligent meditation ([Nagatomo, §2](https://plato.stanford.edu/entries/japanese-zen/)). Nagatomo describes this as Dōgen's practice-realization, in which sitting is not a preliminary means of obtaining enlightenment later ([§2](https://plato.stanford.edu/entries/japanese-zen/)).
 
 ## Sources
 
