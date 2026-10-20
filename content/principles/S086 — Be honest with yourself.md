@@ -12,11 +12,19 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 208** — Be honest with yourself
 
-The Stoic is honest about their own faults. Marcus writes about his own tendencies: to be angry, to be lazy, to be impressed by the wrong things. The honesty is not self-criticism but accurate self-knowledge. Know your weaknesses so you can work on them.
+The Meditations are a private notebook, and Marcus uses it to tell himself things he would not say in public. In Casaubon's translation he turns on his own reluctance and delay:
 
-(Med. I.1, I.6, I.9, II.1, III.1, V.1, VI.6, IX.2, X.1, XI.1, XI.18, XII.1.)
+> "In the morning when thou findest thyself unwilling to rise, consider with thyself presently, it is to go about a man's work that I am stirred up." (Marcus Aurelius, Meditations V.1, Casaubon translation, [Project Gutenberg](https://www.gutenberg.org/cache/epub/2680/pg2680.txt).)
 
-**Plain words** Marcus names his own faults in his notebook: his temper, his laziness, his admiration for the wrong things. The honesty isn't self-criticism. It's accurate self-knowledge. Know your weak spots so you can work on them.
+> "Remember how long thou hast already put off these things, and how often a certain day and hour as it were, having been set unto thee by the gods, thou hast neglected it." (Meditations II.1, same edition.)
+
+### Naming the fault exactly
+
+In V.5 he reaches the specific. Having listed the qualities that are within his power, such as sincerity, gravity and laboriousness, he asks: "Doest not thou perceive, how many things there be, which notwithstanding any pretence of natural indisposition and unfitness, thou mightest have performed and exhibited, and yet still thou doest voluntarily continue drooping downwards?" He then lists his own habits without softening them: to murmur, to flatter, to be vainglorious, to be giddy-headed and unsettled in his thoughts (Meditations V.5, same edition). He also refuses the excuse of temperament: "of all these thou mightest have been rid long ago."
+
+The passages are self-address. Book I thanks others for lessons, including a grandfather from whom he learned "to refrain from all anger and passion" (I.1), but that is gratitude, not a confession of his own temper, so this page does not use it as one.
+
+**Plain words** Most of us have a flattering story about why we do not do what we know we should. Marcus drops the story and writes down the plain version: you do not rise because you prefer the warm bed, you put things off because the day is easier than the work. A fault you can name exactly is one you can plan around. A vague sense of being "not great at this" gives you nothing to change.
 
 *For example:* Admitting to yourself that you avoid hard conversations by staying busy, and planning one for Thursday.
 
