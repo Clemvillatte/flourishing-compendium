@@ -12,13 +12,22 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 ---
 > **Principle 60** — Match the practice to the person
 
-The effectiveness of a well-being intervention depends on person-activity fit. The same gratitude exercise that helps one person may irritate another. The same mindfulness practice that calms one person may increase anxiety in another. The principle is not that "different things work for different people" as a truism. It is that fit can be assessed: try the practice, track the response, and retain or discard based on evidence.
+The sustainable-happiness model makes fit a design variable rather than a truism. Lyubomirsky, Sheldon and Schkade argue that activities, more than circumstances, carry the potential for lasting well-being change, and that the same activity will not suit everyone: people have enduring strengths, interests, values and inclinations that predispose them to benefit from some strategies more than others. The model's practical recommendation is explicit: find activities, preferably ones that fit your values and interests. (Lyubomirsky, Sheldon & Schkade, 2005.)
 
-(Lyubomirsky et al., 2005; Schueller, 2010.)
+> "Any one particular activity will not help every person become happier. People have enduring strengths, interests, values, and inclinations that undoubtedly predispose them to benefit more from some strategies than others." (Lyubomirsky, Sheldon & Schkade, 2005)
 
-**Plain words** The same practice helps one person and irritates another. Gratitude, mindfulness and journaling only work with person-activity fit. The principle isn't a vague "different strokes"; it's a design requirement: match the practice to the person, and adjust when it's not working.
+> "Simply, happiness seekers might be advised to find new activities to become engaged in, preferably activities that fit their values and interests." (Lyubomirsky, Sheldon & Schkade, 2005)
+
+The tracking point is the operational part: fit is assessed by trying the practice and watching the response, not by predicting it in advance.
+
+**Plain words**
+A practice is not a prescription. Check the fit the way you would check a boot: wear it around the house for a week. Track what actually happens to your mood and your week, and keep what the record supports. A gratitude journal that turns into compulsory cheer is telling you something; so is a practice you dread.
 
 *For example:* For one person, a gratitude journal opens the day; for another, it feels like compulsory cheer.
+
+## Sources
+
+- [Lyubomirsky, Sheldon & Schkade (2005), Pursuing Happiness: The Architecture of Sustainable Change, Review of General Psychology 9(2), 111-131 (PDF, author's site)](https://sonjalyubomirsky.com/wp-content/uploads/2024/07/Lyubomirsky-Sheldon-Schkade-2005.pdf)
 
 ## Stories
 

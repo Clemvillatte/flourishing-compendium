@@ -39,3 +39,9 @@
   - PP017: "leave the feeling intact" sentence deleted (contradicted the quoted reappraisal findings); acceptance removed from the rewritten explanation (no acceptance source opened; protected reflections untouched); plain words narrowed to the two definitions and reported consequences; example replaced with imagined reappraisal framing.
   - PP022: craftsmanship now established via Sennett p.9 (opened passage) instead of the calling equation; within-occupation finding narrowed to what the sample showed; "available in almost any work" replaced by Sennett's "far wider swath"; enjoyed/dreaded perfectionism test removed; PP022 ledger entry added (was missing).
 - All five files validated ok against the p1f takeover baseline 982789cb after repairs.
+
+### PP060 — Match the practice to the person (2026-10-20, worker-p1f-7e93856c)
+- State: seed → done.
+- Source opened: https://sonjalyubomirsky.com/wp-content/uploads/2024/07/Lyubomirsky-Sheldon-Schkade-2005.pdf (Review of General Psychology 9(2), 111-131, author-hosted).
+- Verbatim quotes: the "Any one particular activity will not help every person become happier" passage and the "preferably activities that fit their values and interests" recommendation.
+- The seed's "mindfulness may increase anxiety in another" claim removed from prose (not in the opened source; anxiety-provocation findings exist in the literature but were not opened here — noted for supervisor if the claim is wanted). Schueller 2010 parallel left as inherited (not opened this session). Plain words re-derived (boot-fit framing, track-the-record); gratitude-journal example inherited.
