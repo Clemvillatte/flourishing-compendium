@@ -161,3 +161,19 @@ priority, then B items in manifest order (manifest lists bare IDs; no titles).
 - Limitations: inherited parallels (Dennett 1991; Gazzaniga; Hume; Metzinger) NOT
   opened; flagged inherited parallels. Linked concepts (The interpreter module, The
   bundle theory, Anatta) skimmed as seeds only.
+
+## B076 — See through perception
+
+- Opened: https://www.accesstoinsight.org/tipitaka/mn/mn.018.than.html (MN 18
+  Madhupindika Sutta, Thanissaro translation) — the eye-contact-feeling-perception-
+  thinking-objectifying chain verified; and
+  https://www.accesstoinsight.org/tipitaka/kn/ud/ud.1.10.than.html (Bahiya Sutta,
+  Udana 1.10, Thanissaro translation) — the "In reference to the seen" instruction.
+- Verbatim quotes used: the MN 18 chain ("What one feels, one perceives (labels in
+  the mind). What one perceives, one thinks about. What one thinks about, one
+  objectifies."); the Udana 1.10 training instruction. Body paraphrase of the earlier
+  links (eye/forms/consciousness/contact/feeling) checked against the opened page.
+- Limitations: inherited parallels (Seth 2013; Clark 2013; Simons and Chabris 1999;
+  Merleau-Ponty; Pronin et al. 2004) NOT opened; flagged inherited parallels. Linked
+  concepts (Predictive processing, Inattentional blindness, Naive realism) skimmed as
+  seeds only.
