@@ -12,11 +12,19 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 ---
 > **Principle 44** — Learn to satisfice: good enough is often optimal
 
-Maximising — seeking the absolute best option — leads to more regret, less satisfaction, and more paralysis than satisficing — seeking an option that meets your criteria. This is not settling; it is recognising that the marginal gain from the best is often not worth the marginal cost of finding it.
+Herbert Simon introduced the word in a 1956 paper that asks decision theory to take account of the limits of the chooser. He wrote: "Evidently, organisms adapt well enough to 'satisfice'; they do not, in general, 'optimize.'" ([Simon, 1956, Psychological Review 63, p. 129](https://pages.ucsd.edu/~mckenzie/Simon1956PsychReview.pdf)). In his model, a satisficing path is one that "will permit satisfaction at some specified level of all of its needs." Read as a decision rule: set the criteria first, then take the first option that meets them.
 
-**Plain words** Satisficing — taking the option that meets your criteria — beats maximising — hunting the absolute best — on regret, satisfaction, and paralysis. Not settling: recognising that the search for the best costs more than the best is worth. Good enough is often optimal.
+Schwartz and colleagues then asked what the habit of maximising costs people. Across seven samples, they report "negative correlations between maximization and happiness, optimism, self-esteem, and life satisfaction, and positive correlations between maximization and depression, perfectionism, and regret"; maximizers were also "less satisfied than nonmaximizers (satisficers) with consumer decisions" ([Schwartz et al., 2002, J Pers Soc Psychol 83(5), abstract](https://pubmed.ncbi.nlm.nih.gov/12416921/)). These are correlations between a personality scale and outcomes, so the abstract supports a link and not a proof that maximising causes the unhappiness.
 
-*For example:* The apartment hunter who looks at sixty flats and ends up exhausted and regretful — versus the one with criteria (light, commute, quiet, price) who takes the third flat that meets them all. Six months later, only one of them is happily settled.
+**Plain words** Decide in advance what a good result looks like, then take the first option that meets it. The alternative is to keep searching until you are sure nothing better exists, and you can almost never be sure. Maximisers tend to report more regret and less satisfaction with what they chose. Stopping early is a rule, and a rule can be a sound one.
+
+*For example:* Before looking at flats, write down the four things that matter, say light, commute, quiet and price. Visit flats one at a time and take the first that meets all four. A person who instead keeps looking until nothing could be better has set a target that no visit can reach.
+
+## Sources
+
+- [Simon, H. A. (1956). Rational choice and the structure of the environment. Psychological Review 63(2), 129-138](https://pages.ucsd.edu/~mckenzie/Simon1956PsychReview.pdf) — the word "satisfice", p. 129, and the "satisficing" path, p. 136
+- [Schwartz, B., Ward, A., Monterosso, J., Lyubomirsky, S., White, K., & Lehman, D. R. (2002). Maximizing versus satisficing: Happiness is a matter of choice. Journal of Personality and Social Psychology 83(5), 1178-1197, abstract](https://pubmed.ncbi.nlm.nih.gov/12416921/) — the maximization-scale correlations and the consumer-decision finding
+
 ## Psychology parallels
 
 - **[[Maximizing versus satisficing|Maximising vs satisficing]]**, maximisers are less satisfied with decisions and more prone to regret (Schwartz et al., 2002; Iyengar et al., 2006)
