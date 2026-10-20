@@ -12,22 +12,33 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 14** — Use views as tools, not possessions (the raft)
 
-Teachings are rafts to cross the river, not furniture to carry on your head afterward. Hold every view: including Buddhist ones — functionally: does it reduce suffering here?
+The Buddha introduces the simile directly: "Monks, I will teach you the Dhamma compared to a raft, for the purpose of crossing over, not for the purpose of holding onto." The man who has crossed should leave the raft behind: "Why don't I, having dragged it on dry land or sinking it in the water, go wherever I like?"
+
+> In the same way, monks, I have taught the Dhamma compared to a raft, for the purpose of crossing over, not for the purpose of holding onto. Understanding the Dhamma as taught compared to a raft, you should let go even of Dhammas, to say nothing of non-Dhammas.
+>
+> (Alagaddupama Sutta, MN 22, Thanissaro)
+
+The closing instruction is the principle: even the teachings themselves are to be let go once they have done their work. The compendium's application is the functional question for any view, including Buddhist ones: does it reduce suffering here?
 
 (Alagaddupama Sutta, MN 22.)
 
-**Plain words** Teachings are rafts to cross the river, not furniture to carry on your head afterward. Hold every view — including Buddhist ones — functionally: does it reduce suffering here? The map worship is how helpful things become heavy things.
+**Plain words**
+The test of a view is what it is for. Ask of any framework you hold: what river was it built to cross, and have you crossed? A view kept past its crossing is not more true, just heavier. The exercise: name one belief that once helped and now mainly organizes your identity.
 
 *For example:* The therapy framework that saved you in your twenties can become the cage of your thirties — time to leave the raft on the bank.
 
+## Sources
+
+- [Alagaddupama Sutta, MN 22 (Thanissaro), Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.022.than.html) — the raft simile
+
 ## Psychology parallels
 
-- **[[Cognitive defusion|Cognitive defusion]]**, beliefs as mental events, not literal truths (Hayes et al., 2011)
-- **[[Epistemic humility|Epistemic humility]]** (Leary et al., 2017)
+- **[[Cognitive defusion|Cognitive defusion]]**
+- **[[Epistemic humility|Epistemic humility]]**
 
 ## Philosophy parallels
 
-- **The ladder to be thrown away** (Wittgenstein, Tractatus 6.54)
+- **The ladder to be thrown away**
 - **Maps versus territory** (Korzybski, Science and Sanity)
 
 <!-- fc: reflections
