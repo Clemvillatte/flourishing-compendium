@@ -39,17 +39,17 @@
   "AT068": "inherited-unverified attribution: Weil, Waiting for God (The discipline of attention) — philosophy-parallel bullet not verified against an opened source this session; supervisor review requested",
   "AT072": "inherited-unverified attributions: Nietzsche (The Gay Science), Tedeschi & Calhoun 1996, St John of the Cross (The dark night) — philosophy-parallel bullets not verified against opened sources this session; supervisor review requested",
   "BE008": "inherited-unverified attributions: Buddhism (The middle way), Heraclitus (fragments) — philosophy-parallel bullets not verified against opened sources this session; supervisor review requested",
-  "BE046": "Reopened for QC: milestone QC: source-scope repairs required",
-  "BE053": "Reopened for QC: milestone QC repairs applied",
-  "BE054": "Reopened for QC: milestone QC repairs applied",
-  "BE074": "Reopened for QC: QC milestone: unsupported clinical generalisations, NICE quote structure, Practice absolute",
-  "BE076": "Reopened for QC: QC milestone: evidence scope, deficit-and-difference, workplace experiment framing",
-  "BE077": "Reopened for QC: QC milestone: log-reliability claim, comparison claim, quote form behaviour/s",
-  "BI006": "Reopened for QC: QC round 2: summary sections scope, Practice assertion, Jauhar pagination",
-  "BI011": "Reopened for QC: QC round 2: Practice bundle, enthusiasts claim, mechanism uncertainty"
+  "BE046": "RESOLVED (items-1-5 milestone QC): content scoped-PASS after multiple rounds; final fixes (example pace internally consistent + HRVB-borrowed labelling) applied, validated vs ad5739669, pushed; record corrections applied; see sources/p1zr/BE046.md QC history",
+  "BE053": "RESOLVED (items-1-5 milestone QC): content acceptable per advisor; record corrections applied; see sources/p1zr/BE053.md",
+  "BE054": "RESOLVED (items-1-5 milestone QC): content scoped-PASS; staged opener deleted, definition softened, all record corrections applied; see sources/p1zr/BE054.md QC history",
+  "BE074": "RESOLVED (items-6-10 milestone QC): advisor scoped-PASS (round 3); NICE quote restructured to the guideline's original bulleted list, unsupported generalisations removed, Practice absolute replaced; see sources/p1zr/BE074.md",
+  "BE076": "RESOLVED (items-6-10 milestone QC): advisor scoped-PASS; scope narrowed to autism population, deficit-and-difference restored, workplace adjustment reframed as experiment; see sources/p1zr/BE076.md",
+  "BE077": "RESOLVED (items-6-10 milestone QC): advisor scoped-PASS; log-reliability and comparison claims removed, quote form corrected to raw extraction; see sources/p1zr/BE077.md",
+  "BI006": "RESOLVED (items-6-10 milestone QC): advisor scoped-PASS; Jauhar 2023 critique opened and quoted, Cipriani scoped, mechanism sketch removed, full-sentence verification recorded; see sources/p1zr/BI006.md",
+  "BI011": "RESOLVED (items-6-10 milestone QC): advisor scoped-PASS (final round); HRVB evidence narrowed to studied intervention, source blockquote with locator, workflow deviation truthfully recorded; see sources/p1zr/BI011.md"
  },
  "missing_concepts": [],
  "sources_checked": 5,
- "updated": "2026-10-20T14:17:58+00:00",
- "band_done": false
+ "updated": "2026-10-20T14:23:56+00:00",
+ "band_done": true
 }
