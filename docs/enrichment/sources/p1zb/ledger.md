@@ -518,3 +518,10 @@ never-band-assigned work; p1g state had them flagged-only, absent from p1g's man
   common good concerns the shared conditions for flourishing within a community."; S077/
   Acts of kindness — "Hospitality puts kindness into practice through ordinary help
   offered to strangers."
+
+## Round 5 follow-up, part 3 (final verification)
+- File-presence assertion added to the comparison loop (per advisor): 14/14 final-file
+  matches and 14/14 source matches. One apparent file mismatch resolved: S047's athlete
+  fragment is quoted in the file with the sentence period inside the quotation marks
+  ("who exercises himself against such appearances.") and that exact string including the
+  period is a substring of the source. Round 5 closed.
