@@ -42,7 +42,8 @@
   "The right amount of effort",
   "The question kept alive",
   "The question of being (Seinsfrage)",
-  "The quiet craftsman's life"
+  "The quiet craftsman's life",
+  "The return to the inner self"
  ],
  "in_progress": null,
  "flagged": {
@@ -80,7 +81,7 @@
   "The right amount of effort": "Reopened for QC: QC round 1: advisor repairs (quote fidelity, trainer example, extension removal, glosses)"
  },
  "missing_concepts": [],
- "sources_checked": 7,
- "updated": "2026-10-20T07:59:20+00:00",
+ "sources_checked": 8,
+ "updated": "2026-10-20T08:00:19+00:00",
  "band_done": false
 }

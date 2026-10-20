@@ -898,3 +898,24 @@
   (deg 52), [[Craftsmanship research]] (deg 1) added as Related with glosses bounded to
   the opened material (wu wei and flow are definitional for those pages' own subjects).
 - Validation: --fast-track ok. sources_checked +1.
+
+## The return to the inner self (2026-10-20, worker-j9fpiyf; fast-track; degree 9 — eligible)
+
+- OPENED: Augustine, Confessions, Book X, E. B. Pusey translation, Project Gutenberg
+  https://www.gutenberg.org/files/3296/3296-h/3296-h.htm — the "Too late loved I Thee"
+  passage, "Thou wert with me, but I was not with Thee. Things held me far from Thee,
+  which, unless they were in Thee, were not at all.", and "sought Thee abroad out of
+  myself" returned verbatim. Blockquote = two consecutive sentences exactly as printed.
+- IDENTITY CHECK: seed names Augustine, Confessions; the theme (the sought thing within,
+  sought abroad) is directly the opened Book X material. The title is a compendium
+  heading (not Augustine's phrase); the body quotes and paraphrases only the opened
+  passage. A "fair forms and ambitions" phrase was tightened to "plunged amid the
+  world's fair forms" before saving, to stay inside the opened text. Item is on
+  concept-verification-queue.md line 1391; no additional flag filed (the heading is a
+  plain descriptive one over the opened passage; noted here for the supervisor's
+  rerun).
+- FAST-TRACK NOTE: saturation hunt skipped per §1a; existing [[D088]] Related line
+  preserved; [[The inner citadel]] (deg 25) and [[Fu (return)]] (deg 6) added with
+  glosses bounded to definitional content. The empty-boat closing sentence is framed as
+  the compendium's cross-tradition note (the parable is the page's own linked story).
+- Validation: --fast-track ok. sources_checked +1.
