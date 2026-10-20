@@ -23,15 +23,15 @@ The engine that connects them:
 
 Peirce adds a qualification the practice needs: doubt cannot be manufactured at will.
 
-> “the mere putting of a proposition into the interrogative form does not stimulate the mind to any struggle after belief. There must be a real and living doubt, and without this all discussion is idle.” (same paper, section V)
+> “the mere putting of a proposition into the interrogative form does not stimulate the mind to any struggle after belief. There must be a real and living doubt, and without this all discussion is idle.” (Peirce, [The Fixation of Belief, Popular Science Monthly 12 (1877): 1-15](https://www.peirce.org/writings/p107.html), the paragraph beginning “Some philosophers have imagined that to start an inquiry…”)
 
 The paper's diagnosis is that the calm of belief is available by cheaper methods than truth: tenacity (clinging to what one already thinks), authority (enforcing it), and the a priori method, whose propositions seemed "agreeable to reason," an expression Peirce glosses as meaning "that which we find ourselves inclined to believe" rather than anything that agrees with experience. The method of science is the one that accepts an external standard:
 
-> “There are Real things, whose characters are entirely independent of our opinions about them; those Reals affect our senses according to regular laws, and, though our sensations are as different as are our relations to the objects, yet, by taking advantage of the laws of perception, we can ascertain by reasoning how things really and truly are; and any man, if he have sufficient experience and he reason enough about it, will be led to the one True conclusion.” (same paper, the presentation of the method of science)
+> “There are Real things, whose characters are entirely independent of our opinions about them; those Reals affect our senses according to regular laws, and, though our sensations are as different as are our relations to the objects, yet, by taking advantage of the laws of perception, we can ascertain by reasoning how things really and truly are; and any man, if he have sufficient experience and he reason enough about it, will be led to the one True conclusion.” (Peirce, [The Fixation of Belief, Popular Science Monthly 12 (1877): 1-15](https://www.peirce.org/writings/p107.html), the presentation of the method of science)
 
 The closing moral is the concept's warrant:
 
-> “what is more wholesome than any particular belief is integrity of belief, and that to avoid looking into the support of any belief from a fear that it may turn out rotten is quite as immoral as it is disadvantageous.” (same paper, the closing paragraphs)
+> “what is more wholesome than any particular belief is integrity of belief, and that to avoid looking into the support of any belief from a fear that it may turn out rotten is quite as immoral as it is disadvantageous.” (Peirce, [The Fixation of Belief, Popular Science Monthly 12 (1877): 1-15](https://www.peirce.org/writings/p107.html), the closing paragraphs)
 
 ### In the compendium
 

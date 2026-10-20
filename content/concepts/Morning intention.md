@@ -50,7 +50,7 @@ The kernel's sentence carries the self-concordance half: the what and why of the
 ## Related concepts
 
 - [[The evening review]] — the day's other bookend, where the intention is checked against what happened
-- [[Implementation intentions]] — the research concept for the where-when-how half of the sentence
+- [[Implementation intentions]] — concrete action planning that can be added to a values intention
 - [[Daily architecture]] — the structure that makes the day's practices the default rather than fresh decisions
 - [[Right intention]] — the Buddhist factor the compendium pairs with the morning sentence
 

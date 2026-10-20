@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Distrust names and labels” — Laozi, Daodejing 1.
 
-Distrust names and labels is the warning that opens the Daodejing: the name that can be given to the Tao is not the enduring and unchanging name. The compendium's principle page for this teaching marks the step from that wording to everyday labels as interpretation rather than something the chapter itself claims. The Stoic pages in the concept's Cited-in list run the same direction: impressions are to be seen as appearances rather than realities, and interpretations are to be distinguished from facts. The concept's practical core is not to drop names, which are handles and useful ones, but to hold them as pointers whose fit is always open to checking.
+Distrust names and labels is the warning that opens the Daodejing: the name that can be given to the Tao is not the enduring and unchanging name. The compendium's principle page for this teaching marks the step from that wording to everyday labels as interpretation rather than something the chapter itself claims. The Stoic pages in the concept's Cited-in list run the same direction: impressions are to be seen as appearances rather than realities, and interpretations are to be distinguished from facts. The concept's practical core keeps the names, which are useful handles, and holds them as pointers whose fit is always open to checking.
 
 ### The textual basis (Daodejing 1)
 
