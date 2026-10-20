@@ -919,3 +919,39 @@
   glosses bounded to definitional content. The empty-boat closing sentence is framed as
   the compendium's cross-tradition note (the parable is the page's own linked story).
 - Validation: --fast-track ok. sources_checked +1.
+
+### QC round 3 (2026-10-20, worker-j9fpiyf, milestone advisor QC on items 2-4)
+
+- VERDICTS: A "The question kept alive" FAIL->repaired; B "The question of being
+  (Seinsfrage)" FAIL->repaired; C "The return to the inner self" FAIL->repaired;
+  workflow errors fixed (see below). All three bodies repaired per the advisor text:
+  A: "the oldest model" claim cut (not supported); Death's offers listed from vv. 23-25
+  verbatim; the "next verse" (v. 21 gods-have-doubted) added from the opened extract;
+  the "compendium's principle" sentence replaced with source-bounded prose. B: opening
+  rewritten around the verified SZ 1 quotation (no "driving question" meta-claim);
+  "calls it the fundamental question of metaphysics" CUT (the supporting beyng
+  HeideggerQuotes page refused fetching, so the claim is unverified; the body now says
+  only "the first of all questions," which the opened page supports); despair line now
+  verbatim with locator; Related glosses de-inflated; "Dasein" gloss simplified.
+  C: "sought Thee abroad out of myself" fragment cut (no chapter locator in the
+  fetched extract); the "Daoist cousins" paragraph replaced with one source-neutral
+  sentence about the citing pages; empty-boat closing sentence cut; Fu gloss fixed.
+- WORKFLOW ERRORS FIXED: (1) my earlier rg command (-r flag) mangled displayed seed
+  text ("n 3.35" etc.) — the seeds are INTACT and were never normalizer-stripped; the
+  earlier ledger entry for "The question kept alive" claiming a stripped verse
+  reference is WRONG (see correction below). The quiet-craftsman flag in the audit
+  file has been corrected for the same reason. (2) "The right amount of effort" reopen
+  had silently failed on the round-2 failed validation (&& chain); it is now reopened
+  and flagged, not done, pending supervisor title disposition. (3) beyng.com described
+  as "the translator's own site" in my round-2 message — unverified ownership; the
+  site is labeled "F&P 2nd ed." and the page does not display a translator credit;
+  the attribution remains a noted limitation, not a verified fact.
+- CORRECTION (The question kept alive): the seed reads "'The question kept alive' —
+  BG's inquiry." with no verse reference to strip; the Y097 principle pairs the theme
+  with Katha and Zen, which is why the body is grounded in the Katha third-boon
+  exchange. The beyng "translator's site" wording above also applies here.
+- PRESERVATION: all five files re-validated ok; front-matter and original wikilink
+  sets diffed against pre-session commit 08bd09c4 — identical, no lost links.
+- STATE: right-amount and quiet-craftsman flagged, NOT done, pending supervisor
+  disposition (per the advisor and the w1g predecessor pattern); the other three
+  remain done.

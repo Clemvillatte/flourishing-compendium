@@ -7,11 +7,11 @@ file: "The question kept alive"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The concept names a family of practices in the Indian inquiry traditions: a question carried as the practice itself, held open instead of answered and filed. The Katha Upanishad supplies the oldest model. Granted three boons by Death, Nachiketa spends the last on the one thing Death would rather not teach, what happens to a person when they die. Death offers sons, wealth, long life; Nachiketa declines each and keeps the doubt.
+The concept names a family of practices in the Indian inquiry traditions: a question carried as the practice itself, held open instead of answered and filed. The Katha Upanishad supplies the model. Granted three boons by Death, Nachiketa spends the last on the one thing Death would rather not teach, what happens to a person when they die. Death counters with sons and grandsons, cattle, elephants, gold, horses, fair maidens and long life; Nachiketa calls all of it short-lived and unprofitable, declines to choose, and keeps the doubt.
 
 > "There is that doubt, when a man is dead,--some saying, he is; others, he is not. This I should like to know, taught by thee; this is the third of my boons." (Katha Upanishad I.1.20, [Max Müller translation, Sacred Books of the East vol. 15](https://sacred-texts.com/hin/sbe15/sbe15010.htm))
 
-The refusal is the point. Yama's offers are ways of closing the question with something else, and Nachiketa's answer is to keep it open. The compendium's Yoga-Vedanta principle for this describes questions like "who is aware?" as the practice itself, and the Zen great doubt is the cousin discipline.
+In the next verse Death asks him to take another boon instead: even the gods, he says, have doubted here. Nachiketa's persistence is the point. The offers are ways of closing the question with something else, and he refuses them until the doubt is answered.
 
 ## Related concepts
 
