@@ -267,5 +267,5 @@ staged by the save script).
 - NOT opened: the Neimeyer 2001 book itself (APA PsycNet PDF robot-blocked; JSTOR paywalled) — the inherited facet bullet "narrative — Neimeyer, 2001" kept as inherited; the body grounds the narrative strand in the opened 2016 restatement instead. Tedeschi & Calhoun 1996 PTGI paper NOT opened (Wiley paywalled); its five factors are quoted via the opened 2004 paper's restatement.
 - Seed line, Facets, existing Related bullets, both Cited-in sections preserved verbatim.
 - In the compendium bullets cite PP047, E064, B180, A028, S092, E091 (titles verified via ls).
-- Reciprocals: 3 filed (Tragic optimism, Resilience, Stress-related growth — backlink absence rg-verified). No inline filed: "post-traumatic growth"/"PTG" occurrences in principles are either already linked or in protected statements; the term is too study-specific for a safe single-occurrence inline.
+- Reciprocals: 2 filed (Resilience, Stress-related growth — backlink absence rg-verified). Tragic-optimism reciprocal dropped before push: rg showed an existing [[Post-traumatic growth]] backlink in that file. No inline filed: "post-traumatic growth"/"PTG" occurrences in principles are either already linked or in protected statements; the term is too study-specific for a safe single-occurrence inline.
 - Validator on final: ok.
