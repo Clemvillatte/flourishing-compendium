@@ -3,12 +3,17 @@
  "done": [
   "The dream of the butterfly",
   "The monkey mind",
+  "The trained mind",
   "Spontaneous right action",
   "The natural rhythm of warmth and cool"
  ],
  "in_progress": null,
- "flagged": {},
+ "flagged": {
+  "Spontaneous right action": "Reopened for QC: advisor milestone QC: attribution repaired to the quoting source (IEP section 4); validate and close again",
+  "The natural rhythm of warmth and cool": "Reopened for QC: advisor milestone QC: remove unsupported 'each in its season' inference from closing sentence"
+ },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T04:51:42+00:00"
+ "updated": "2026-10-20T04:54:08+00:00",
+ "band_done": false
 }

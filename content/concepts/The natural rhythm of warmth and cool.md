@@ -11,7 +11,7 @@ The natural rhythm of warmth and cool is a Daoist image from the Zhuangzi for th
 
 > "Whatever coldness came from them was like that of autumn; whatever warmth came from them was like that of spring. Their joy and anger assimilated to what we see in the four seasons." (Zhuangzi, chapter 6, section 1, Legge translation, [ETH Zurich PDF](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
 
-In the passage the image belongs to the portrait of the True Man, whose mind is free from all thought and whose demeanour is still: warmth and coolness are not suppressed but occur each in its season. ([Zhuangzi, ch. 6, Legge translation](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
+In the passage the image belongs to the portrait of the True Man, whose mind is free from all thought and whose demeanour is still and unmoved. ([Zhuangzi, ch. 6, Legge translation](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
 
 ## Sources
 
