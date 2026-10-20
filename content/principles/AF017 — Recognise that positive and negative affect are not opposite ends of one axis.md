@@ -29,7 +29,6 @@ This finding concerns how the measures related in that research. It does not est
 ## Psychology parallels
 
 - **Independence of positive and negative affect**, the two are not mirror images; depression is characterised by low positive affect and high negative affect, not just high negative affect (Watson et al., 1988)
-- **Anhedonia is specifically a deficit in positive affect and reward processing**, not simply an excess of negative affect (Treadway & Zald, 2011)
 
 ## Philosophy parallels
 

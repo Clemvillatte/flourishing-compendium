@@ -28,10 +28,15 @@
   "AF027": "Reopened for QC: milestone-2 QC repair applied",
   "AF032": "Reopened for QC: milestone-2 QC repair applied",
   "AF034": "Reopened for QC: milestone-2 QC repair applied",
-  "AF040": "Reopened for QC: milestone-2 QC repair applied"
+  "AF040": "Reopened for QC: milestone-2 QC repair applied",
+  "AF045": "Reopened for QC: milestone-3 QC repair: causal wording and revisit-count claim",
+  "AF049": "Reopened for QC: milestone-3 QC repair applied",
+  "AF055": "Reopened for QC: milestone-3 QC repair applied",
+  "AF066": "Reopened for QC: milestone-3 QC repair applied",
+  "AF078": "Reopened for QC: milestone-3 QC repair applied"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T10:10:45+00:00",
+ "updated": "2026-10-20T10:15:35+00:00",
  "band_done": false
 }

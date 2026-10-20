@@ -33,7 +33,6 @@ The compendium applies this account by separating willingness to experience a fe
 ## Psychology parallels
 
 - Acceptance in ACT is described alongside committed action (Hayes et al., 2006, the paper opened above)
-- Hayes et al. (2011) on acceptance and values-based action (not opened for this item; cited for further reading)
 
 ## Philosophy parallels
 

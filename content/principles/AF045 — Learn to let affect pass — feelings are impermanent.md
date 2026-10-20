@@ -22,9 +22,9 @@ What separated the long from the short:
 
 The study concerns differences between emotions in recollected episodes; it does not say that a feeling currently running through you will end on any particular schedule. The compendium's practice rests on the weaker observation: durations vary, and rumination is associated with the longer ones.
 
-**Plain words** The study sorted feelings by how long they lasted when people retold them. The longer ones came with two companions: the event mattered, and the person kept returning to it. The finding is a correlation in self-reports, not a promise that your feeling will end in ninety seconds. It says something more modest: the returning is part of what long feelings are made of.
+**Plain words** The study sorted feelings by how long they lasted when people retold them. The longer ones came with two companions: the event mattered, and the person kept returning to it. Repeated thinking was associated with longer recalled episodes; this does not establish that it caused them to last longer.
 
-*For example:* (Imagined case.) After a criticism you notice yourself rewriting the conversation every few hours, and the sting is still fresh on day three. The retelling is checkable: count the revisits today. That count is the variable the study associated with duration, not a verdict on the criticism.
+*For example:* (Imagined case.) After a criticism you notice yourself rewriting the conversation every few hours, and the sting is still fresh on day three. The retelling is checkable: count the revisits today.
 
 ## Sources
 
@@ -33,7 +33,6 @@ The study concerns differences between emotions in recollected episodes; it does
 ## Psychology parallels
 
 - **[[Rumination|Rumination prolongs affect]]**, listed for comparison (Verduyn & Lavrijsen, 2015; the opened text associates rumination with longer durations)
-- Nolen-Hoeksema (2000) on rumination and depression (not opened for this item; cited for further reading)
 
 ## Philosophy parallels
 

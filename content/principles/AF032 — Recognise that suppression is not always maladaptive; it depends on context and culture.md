@@ -33,7 +33,6 @@ The association differed between these two student groups. This does not establi
 ## Psychology parallels
 
 - **[[Cultural differences in suppression's costs|Cultural differences in suppression's costs]]**, listed for comparison (Butler & Gross, 2009 and Soto et al., 2011; the opened abstract does not establish the mechanism)
-- English & Eldreda (2020) on context and appropriateness (not opened for this item; cited for further reading)
 
 ## Philosophy parallels
 

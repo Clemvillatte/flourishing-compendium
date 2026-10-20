@@ -28,8 +28,6 @@ The difference from emotional contagion is in what is measured. Contagion is the
 
 ## Psychology parallels
 
-- Emotional convergence between people in close relationships over time (Anderson, Keltner & John, 2003; not opened for this item; cited for further reading)
-- Emotional contagion (Hatfield et al., 2014; not opened for this item; cited for further reading)
 
 ## Philosophy parallels
 

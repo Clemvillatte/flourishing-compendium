@@ -27,7 +27,6 @@ The compendium's exercise is to write down a bodily sensation and your explanati
 ## Psychology parallels
 
 - **[[Reappraisal's effectiveness depends on separating the feeling from the appraisal|Reappraisal's effectiveness depends on separating the feeling from the appraisal]]**, changing the appraisal changes the felt response (Gross & John, 2003; Webb et al., 2012)
-- **Interoception and interpretation are dissociable**, the same bodily signal can be labelled differently with different downstream consequences (Barrett et al., 2019)
 
 ## Philosophy parallels
 

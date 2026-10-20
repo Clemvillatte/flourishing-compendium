@@ -20,11 +20,11 @@ And the misinterpretation itself:
 
 > "The catastrophic misinterpretation involves perceiving these sensations as much more dangerous than they really are (e.g. perceiving palpitations as evidence of an impending heart attack)." ([Clark, 1986, same abstract](https://ora.ox.ac.uk/objects/uuid:96416d34-2558-4cef-9622-401c7b11490a))
 
-The paper presents the model as consistent with the major features of panic and proposes direct tests; it is a model with a research program, not a settled fact about every attack. The compendium takes only what the model states: the feared thing in panic, on this account, is the sensation plus its interpretation, not the sensation alone.
+The paper presents the model as consistent with the major features of panic and proposes direct tests; it is a model with a research program, not a settled fact about every attack. Clark's account focuses on interpreting bodily sensations as signs of danger.
 
-**Plain words** The model says a panic attack can be built from a loop: a body sensation, a reading of it as dangerous, more anxiety, stronger sensations. The reading is the part that is a claim, and a claim can be examined separately from the heartbeat.
+**Plain words** In this model, noticing a bodily sensation and predicting a catastrophe are different things. A racing heart is the sensation; the belief that it means an imminent collapse is the prediction.
 
-*For example:* (Imagined case.) A racing heart during a meeting is read as the start of a collapse; the reading raises anxiety, and the anxiety raises the heart. Writing the sensation and the prediction on separate lines gives you the model's two components to check against each other.
+*For example:* In an imagined meeting, you notice your heart racing and fear you will collapse. Record the sensation and the prediction separately.
 
 ## Sources
 
@@ -33,7 +33,6 @@ The paper presents the model as consistent with the major features of panic and 
 ## Psychology parallels
 
 - Clark's (1986) catastrophic-misinterpretation model, the source quoted above
-- Barlow et al. (2000) on interoceptive exposure (not opened for this item; cited for further reading)
 
 ## Philosophy parallels
 

@@ -22,7 +22,7 @@ The research distinguishes two types:
 
 The studies used guided recall in the Netherlands, where the two have separate words, and latent class analysis in the United States and Spain, where one word covers both. The finding is about motivation direction, not about envy carrying value information; the compendium's signal reading is its own application: the sting points at a domain, and the question is which motivation follows it.
 
-**Plain words** The researchers split envy by what it makes you want to do. One kind wants to move you up toward the other person's position. The other kind wants to pull their position down to yours. The same sting can precede either, and the want, not the sting, is the part to check.
+**Plain words** The researchers distinguish wanting to improve your own position from wanting to damage the other person's position. For the compendium's exercise, ask which of those wants you notice when someone else's success stings.
 
 *For example:* (Imagined case.) A colleague's publication stings, and over the following week you notice what you want: more writing time of your own, or the colleague's grant to fail. Both are observable wants; only one of them is the moving-up motivation the study named.
 
@@ -33,7 +33,6 @@ The studies used guided recall in the Netherlands, where the two have separate w
 ## Psychology parallels
 
 - **[[Benign versus malicious envy|Benign vs malicious envy]]**, listed for comparison (van de Ven et al., 2009, the source quoted above)
-- Smith (2004) on envy and social comparison (not opened for this item; cited for further reading)
 
 ## Philosophy parallels
 

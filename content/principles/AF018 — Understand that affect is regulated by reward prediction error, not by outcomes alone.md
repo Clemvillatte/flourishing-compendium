@@ -28,7 +28,7 @@ This does not show that momentary happiness always tracks expectations; the rela
 
 ## Psychology parallels
 
-- **[[Reward prediction error (Schultz)|Reward prediction error in affect]]**, dopamine and affect respond to the difference between expected and received outcomes (Schultz et al., 1997)
+- **[[Reward prediction error (Schultz)|Reward prediction error in affect]]**, listed for comparison (Schultz et al., 1997; the opened abstract reports primate dopamine neurons signalling errors in predictions)
 - **Anhedonia and depression are associated with blunted prediction-error signalling**, the ability to be surprised by reward is diminished in depression (Rutledge et al., 2017)
 
 ## Philosophy parallels

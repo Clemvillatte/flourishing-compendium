@@ -20,7 +20,7 @@ They quote Neff's own definition:
 
 > "being open to and moved by one's own suffering, experiencing feelings of caring and kindness toward oneself, taking an understanding, nonjudgmental attitude toward one's inadequacies and failures, and recognizing that one's experience is part of the common human experience" (Neff, 2003, p. 224, quoted in [Allen & Leary, 2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC2914331/))
 
-The three named features are self-kindness, common humanity and mindfulness. Note what the definition does not say: nothing about feeling good about yourself, and no comparison with anyone. The compendium's exercise keeps the friend-standard as the check it already was in the principle statement.
+The three named features are self-kindness, common humanity and mindfulness. On the account in that text, the three divide the labour: self-kindness is a caring stance toward oneself in painful moments, common humanity frames suffering as part of the shared human experience rather than an isolating defect, and mindfulness holds the painful material in balanced awareness rather than over-identifying with it.
 
 **Plain words** The definition is a friend-standard for the voice you use with yourself, plus two more parts: remember that failure is a shared human thing, not a private defect; and look at the pain clearly instead of drowning in it. None of the three asks you to rate yourself at all.
 
@@ -33,7 +33,7 @@ The three named features are self-kindness, common humanity and mindfulness. Not
 ## Psychology parallels
 
 - The three features (self-kindness, common humanity, mindfulness) are laid out in the source quoted above (Neff, 2003, via Allen & Leary, 2010)
-- Neff et al. on anxiety after stressors, with self-esteem partialed out (as summarised in the same opened text); MacBeth & Gumley (2012) on self-compassion and mental health (not opened for this item; cited for further reading)
+- Neff et al. on anxiety after stressors, with self-esteem partialed out (as summarised in the same opened text)
 
 ## Philosophy parallels
 

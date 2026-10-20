@@ -34,7 +34,6 @@ A 2016 corrigendum corrected the depression scores of 7 of the 170 participants;
 ## Psychology parallels
 
 - **[[Reappraisal's effectiveness depends on controllability|Reappraisal's effectiveness depends on controllability]]**, listed for comparison (Troy et al., 2013; the opened abstract does not report a problem-solving-versus-reappraisal comparison)
-- Ford & Troy (2019) review costs of reappraisal (not opened for this item; cited for further reading)
 
 ## Philosophy parallels
 
