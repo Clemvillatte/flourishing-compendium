@@ -24,6 +24,10 @@ The entry states Husserl's argument for this: "it is through my encounter with a
 
 *For example:* The same park bench is a bench, a landmark, where dad used to sit, and the good spot, to four different people, simultaneously, without contradiction.
 
+## Related concepts
+
+- [[E026]] — examines the shared world through Heidegger's account of Being-with.
+
 ## Sources
 
 - [Stanford Encyclopedia of Philosophy, Edmund Husserl](https://plato.stanford.edu/entries/husserl/) — §5, embodiment, intersubjectivity and objectivity

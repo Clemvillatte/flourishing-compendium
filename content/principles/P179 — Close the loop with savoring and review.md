@@ -30,6 +30,11 @@ Dewey's definition applied to a day: take a conclusion drawn from an event and a
 **For example**
 A vacation reviewed on the flight home might mean asking what the best day rested on and what that suggests for the next one, rather than only re-running the photos.
 
+## Related concepts
+
+
+- [[A079]] — thematic pair: the Aristotelian question of which pleasures are worth enjoying and the Deweyan review practice that closes the loop on experience
+- [[P172]] — thematic pair in the applied layer: P172 designs the day for the strands (Dewey-adjacent scheduling of PERMA), P179 reviews what the days delivered (Dewey's reflective thought); design and audit halves of the same practice
 ## Sources
 
 - [John Dewey, How We Think (1910; Project Gutenberg)](https://www.gutenberg.org/cache/epub/37423/pg37423.txt) — ch. 1 (both blockquotes)

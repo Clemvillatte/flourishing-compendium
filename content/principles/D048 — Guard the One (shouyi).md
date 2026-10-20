@@ -35,6 +35,11 @@ Guarding the One is a decision about what the One thing is right now. If you can
 **For example**
 Seventeen open tabs and a half-written paragraph: close them, sit with the one task, and notice what happens to the writing and to the urge to switch.
 
+## Related concepts
+
+
+- [[B095]] — same practice named in the Buddhist register; D048's Neiye verse XIX (unify your awareness) is the same gesture as B095's gathering
+- [[D071]] — the attention pair within the compendium's own principles; both are operationalised by the same kernels (K100, K102)
 ## Sources
 
 - [Inward Training (Neiye), trans. Harold D. Roth (archive.org full text)](https://archive.org/stream/original-tao-inward-training-nei-yeh-and-the-foundations-of-taoist-mysticism-tra/Original%20Tao%20Inward%20Training%20(Nei-yeh)%20and%20the%20Foundations%20of%20Taoist%20Mysticism%20(Translations%20from%20the%20Asian%20Classics)%20by%20Harold%20David%20Roth%20(z-lib.org)_djvu.txt) — verses IX and XIX

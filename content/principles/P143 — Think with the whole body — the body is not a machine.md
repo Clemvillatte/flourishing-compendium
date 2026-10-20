@@ -30,6 +30,10 @@ Bergson's picture puts the body between the matter that influences it and the ma
 **For example**
 Compare walking while planning with attending to the walking. What, if anything, changes?
 
+## Related concepts
+
+- [[BI009]] — thematic pair: both treat bodily signals as informative; no empirical or historical identification claimed
+
 ## Sources
 
 - [Henri Bergson, Matter and Memory (1911 English translation; PDF)](https://attachments.are.na/9493755/6d939210934bd84047a3b1f0efcf15ce.pdf?1605280154) — ch. I and ch. III (both blockquotes)

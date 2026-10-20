@@ -30,6 +30,10 @@ Surprise is the signal. When something you expected to be ordinary turns out not
 **For example**
 Imagine a parcel missing from the expected entrance. Perhaps it was delivered to another entrance. That would explain its absence here; checking the other entrance tests the guess.
 
+## Related concepts
+
+- [[P028]] — narrow relationship: P027's guess is the input, P028's long-run verdict is the eventual test's outcome
+
 ## Sources
 
 - ["Peirce on Abduction", Stanford Encyclopedia of Philosophy (archived edition)](https://plato.stanford.edu/archives/fall2026/entries/abduction/peirce.html) — quotes CP 5.189 (the schema) and CP 5.172 (forming explanatory hypotheses), with the worthy-candidate reading

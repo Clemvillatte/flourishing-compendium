@@ -26,6 +26,10 @@ The old picture was beads on a string, one thought then the next; James's pictur
 **For example**
 Read a sentence slowly. Notice what happens to your experience of the earlier words as you reach the later ones. Try pausing or rereading.
 
+## Related concepts
+
+- [[P092]] — the two Jamesian principles: knowing thought as a stream and living in the extended present it creates are one view of mind applied twice
+
 ## Sources
 
 - [William James, The Principles of Psychology, vol. 1 (1890; full text, archive.org)](https://archive.org/stream/theprinciplesofp01jameuoft/theprinciplesofp01jameuoft_djvu.txt) — ch. IX: stream passage (blockquote) and five-character list (paraphrased in prose)

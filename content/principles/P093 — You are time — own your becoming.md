@@ -30,6 +30,10 @@ The passages say the past persists into the present rather than vanishing behind
 **For example**
 Imagine someone who valued a role they can no longer hold. The question the principle suggests is what from that role carries into what they do next, rather than which version of themselves to get back to.
 
+## Related concepts
+
+- [[P092]] — thematic time pair: P092 holds the present's breadth (the specious present), P093 holds the self's spread across becoming
+
 ## Sources
 
 - [Henri Bergson, Creative Evolution (1911 English translation; full text, archive.org)](https://archive.org/stream/creativeevolutio029695mbp/creativeevolutio029695mbp_djvu.txt) — ch. 1 (both blockquotes; p. 7 for the duration passage)

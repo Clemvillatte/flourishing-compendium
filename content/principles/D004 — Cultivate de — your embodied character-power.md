@@ -39,6 +39,11 @@ A rule is a fence, and it needs someone standing next to it. De is more like fit
 **For example**
 Someone who has genuinely practised honesty for years does not agonize over whether to fudge a report; integrity has become the reflex rather than the rule.
 
+## Related concepts
+
+
+- [[A042]] — the Greek cousin: principle bodies are the Daoist and Aristotelian versions of one claim
+- [[A004]] — both principles argue character is grown by practice, from two traditions
 ## Sources
 
 - [Tao Te Ching, trans. James Legge (Project Gutenberg)](https://www.gutenberg.org/cache/epub/216/pg216.txt) — ch. 51 (§1 chain, §4 mysterious operation)

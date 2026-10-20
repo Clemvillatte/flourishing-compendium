@@ -33,6 +33,10 @@ If every improvement becomes a new minimum, there is no point at which another p
 **For example**
 Imagine wanting to replace a working phone after a colleague buys a newer model. What would the replacement let you do, and is that worth its cost?
 
+## Related concepts
+
+- [[D019]] — sister principles: knowing enough is how contentment-as-wealth is reached; both cite the hedonic-treadmill psychology
+
 ## Sources
 
 - [Tao Te Ching, trans. James Legge (Project Gutenberg)](https://www.gutenberg.org/cache/epub/216/pg216.txt) — ch. 46 §2 (blockquote), ch. 44 §3 (verse, quoted fragment)

@@ -35,3 +35,8 @@ What follows is a stance toward apparent contradiction, not a claim that incompa
 ## Practice
 
 - When facing an apparent contradiction ("I love them and I resent them"), do not force a resolution. Hold both. Ask: "what is true in both of these?"
+
+
+## Related concepts
+
+- [[D015]] — develops Daodejing 2's account of co-arising opposites.

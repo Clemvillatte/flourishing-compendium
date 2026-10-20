@@ -30,6 +30,10 @@ The design half rests on one word in Seligman's claim: buildable. If the strands
 **For example**
 A week with no meaningful conversations is not evidence about character; it is evidence about the calendar. Booking one recurring Thursday call is the design change that follows.
 
+## Related concepts
+
+- [[P179]] — thematic pair: scheduling the strands and reviewing the week are the forward and backward halves of applied planning
+
 ## Sources
 
 - [Martin Seligman, "Flourish: Positive Psychology and Positive Interventions" (Tanner Lecture, University of Michigan, October 7, 2010; PDF)](https://tannerlectures.org/wp-content/uploads/2024/07/Seligman_10.pdf) — both blockquotes verbatim; the lecture is the basis of the book the page's locator cites

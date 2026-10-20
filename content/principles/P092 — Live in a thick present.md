@@ -26,6 +26,11 @@ James's finding is that the present you actually perceive is a duration with a r
 **For example**
 Listen to a short melodic phrase and notice what remains of the earlier notes as the later ones arrive. Notice what you are aware of over the span of the phrase, without deciding in advance how much of it must fit.
 
+## Related concepts
+
+
+- [[P055]] — James's stream (always changing, sensibly continuous) is the ground the thick present is built from: a flowing present rather than bead-moments
+- [[P093]] — thematic pair: the thick present and the self-as-time are two framings of duration in the P-S06 layer
 ## Sources
 
 - [William James, The Principles of Psychology, vol. 1 (1890; full text, archive.org)](https://archive.org/stream/theprinciplesofp01jameuoft/theprinciplesofp01jameuoft_djvu.txt) — ch. on the perception of time (the saddle-back/specious-present passage)

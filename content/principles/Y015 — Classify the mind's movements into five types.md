@@ -36,6 +36,10 @@ The taxonomy earns its keep at 2 a.m. A thought arrives; before arguing with it,
 **For example**
 The 2 a.m. rehearsal of a meeting that has not happened runs the checklist: it has verbal expression and pictures, but no object in existence, the imagination type. Recognizing the type is the handling; there is nothing in it to solve.
 
+## Related concepts
+
+- [[AF004]] — thematic pair: ancient fivefold classification and modern granularity research are two naming disciplines; an indirect parallel, not a validation of the taxonomy
+
 ## Sources
 
 - [The Yoga Sutras of Patanjali, trans. Charles Johnston (1912; Project Gutenberg)](https://www.gutenberg.org/cache/epub/2526/pg2526.txt) — sutras 1.5, 1.6 (first and second blockquotes) and 1.9 (quoted in the body)

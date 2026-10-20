@@ -30,6 +30,10 @@ A suggested practice: in your next group conversation, keep asking questions ins
 **For example**
 Watch who ends up hearing everyone's confidences by the end of an evening: often someone who spent it low and open, asking rather than topping.
 
+## Related concepts
+
+- [[B048]] — the Buddhist counterpart of the valley-mind; both ground the Intellectual humility concept page
+
 ## Sources
 
 - [Tao Te Ching, trans. James Legge (Project Gutenberg)](https://www.gutenberg.org/cache/epub/216/pg216.txt) — ch. 66 (both blockquotes), ch. 41 (vale verse, paraphrased); the page's Primary source section quote verified verbatim against this opened text

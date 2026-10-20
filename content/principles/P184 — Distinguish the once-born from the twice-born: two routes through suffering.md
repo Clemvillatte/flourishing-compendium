@@ -41,7 +41,7 @@ Imagine a friend saying that familiar reassurances no longer help. Ask what has 
 - **[[Growth through practice|Growth through practice]]**
 - **Independence of positive and negative affect**
 - **Language as the house of being**
-- **Lived experience and phenomenological psychology**
+- **[[Phenomenological psychology|Lived experience and phenomenological psychology]]**
 
 ## Practice
 

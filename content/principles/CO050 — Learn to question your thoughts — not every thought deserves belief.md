@@ -41,3 +41,8 @@ What the Buddhist instruction describes is a specific act of recognition — nam
 ## Practice
 
 - When you notice a strong negative thought, ask: "is this thought accurate? What is the evidence for and against? Is there another way to see this?" Do not believe every thought you think.
+
+
+## Related concepts
+
+- [[K128]] — K128 is the applied kernel of CO050's procedure: both ask for the situation, the automatic thought, and the evidence for and against it before a balanced alternative

@@ -46,3 +46,7 @@ Is there harm that no response can cancel, such as being physically hurt or expl
 %%
 What is the relationship between "nothing can harm you" and the need for protection and justice for the vulnerable?
 -->
+
+## Related concepts
+
+- [[P157]] — thematic pair: both principles organize a struggle around a control distinction (Stoic what-is-up-to-us; ACT acceptance vs change), without claiming a genealogy

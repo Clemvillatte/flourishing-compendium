@@ -31,6 +31,10 @@ The compendium's exercise: two columns. One column: things you control, the cond
 **For example**
 You can send the application; you cannot send the acceptance letter. Water the seed and let the sky decide the rest.
 
+## Related concepts
+
+- [[D055]] — wu wei pair from the same chapter family; letting happen is what not-forcing looks like from the world's side
+
 ## Sources
 
 - [Tao Te Ching, trans. James Legge (Project Gutenberg)](https://www.gutenberg.org/cache/epub/216/pg216.txt) — ch. 37 (§1-2 blockquote, §3 verse fragment)

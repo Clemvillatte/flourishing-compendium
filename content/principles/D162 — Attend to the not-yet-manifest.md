@@ -26,6 +26,10 @@ Head off a problem early and the reward is that no one ever sees the problem. No
 **For example**
 The awkward money talk with a friend while it is still awkward, instead of after it has become a friendship-ending amount.
 
+## Related concepts
+
+- [[D061]] — same root chapter (DDJ 64); D061 names the act, D162 names the noticing that precedes it
+
 ## Sources
 
 - [Tao Te Ching, trans. James Legge (Project Gutenberg)](https://www.gutenberg.org/cache/epub/216/pg216.txt) — ch. 64 (all four quoted fragments: ease of the small and unformed, tree/tower/journey, care at the end)

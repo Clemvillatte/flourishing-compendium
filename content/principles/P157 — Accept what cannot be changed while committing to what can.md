@@ -30,6 +30,10 @@ The question the definition raises for a struggle: has removing a feeling become
 **For example**
 Imagine a phone call you have been avoiding because of anxiety about it. The exercise is to make the valued call while the anxiety remains, without waiting for it to pass first.
 
+## Related concepts
+
+- [[S020]] — thematic pair: the Stoic and ACT versions of the control distinction; no genealogical claim made
+
 ## Sources
 
 - [Hayes, Pistorello and Levin, "Acceptance and Commitment Therapy as a Unified Model of Behavior Change", The Counseling Psychologist 40(7), 976–1002 (APA CE PDF)](https://www.apa.org/education-career/ce/acceptance-commitment.pdf) — the psychological flexibility definition and the acceptance-as-counter-to-experiential-avoidance line

@@ -32,6 +32,10 @@ Before accepting an attractive position, find out what it requires of you and wh
 **For example**
 Imagine a promotion with a higher salary that requires weekend travel, when you have committed those weekends to caring for a parent. Ask for different travel terms, or decline if that commitment cannot be protected.
 
+## Related concepts
+
+- [[D085]] — D085 emphasizes retaining freedom; D086 questions rewards offered at the recipient's expense
+
 ## Sources
 
 - [The Writings of Chuang Tzu, trans. James Legge (ETH Zurich PDF)](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — ch. 20 §2 (fox and leopard), ch. 32 §15 (sacrificial ox)

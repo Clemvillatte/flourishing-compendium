@@ -28,6 +28,11 @@ Interoception means noticing internal bodily sensations. The authors of the stud
 **For example**
 Sit still for two minutes and notice sensations in the chest, jaw or gut, without assuming what they mean about your emotional state. Notice what you find.
 
+## Related concepts
+
+
+- [[D148]] — thematic pair: the Yangsheng/Neiye attention to breath and body and the interoception construct; thematic only
+- [[P143]] — thematic pair: philosophical (Bergson) and empirical (interoception) framings of bodily attention; no validation claim
 ## Sources
 
 - [Brewer, Cook and Bird (2016), "Alexithymia: a general deficit of interoception", Royal Society Open Science (open-access PDF, City Research Online)](https://openaccess.city.ac.uk/id/eprint/16737/1/Alexithymia:%20a%20general%20deficit%20of%20interoception.pdf)

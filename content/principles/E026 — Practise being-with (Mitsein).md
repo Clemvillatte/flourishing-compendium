@@ -33,3 +33,8 @@ The same passage includes indifference and alienation as modes of Being-with —
 - **[[Being-with (Mitsein)|Being-with (Mitsein)]]** (Heidegger, Being and Time)
 - **[[Intersubjectivity|Intersubjectivity]]** (Husserl, Cartesian Meditations; Merleau-Ponty, Phenomenology of Perception)
 - **[[Being-with (Mitsein)|Mitsein]]** (Existentialism & Phenomenology)
+
+
+## Related concepts
+
+- [[E009]] — examines the shared world through Husserl's account of intersubjectivity.

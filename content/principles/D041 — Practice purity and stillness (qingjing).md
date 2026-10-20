@@ -32,6 +32,11 @@ Notice one thing pulling at your attention, set it aside for the length of a sit
 **For example**
 Before drafting a difficult email, leave the phone in another room. Notice whether this changes the urge to check it.
 
+## Related concepts
+
+
+- [[D021]] — same scripture: the stillness arrives 'of itself' only after desires are sent away
+- [[D148]] — sister principles in the stillness family (Qingjing Jing clearing vs Neiye tranquillity); thematic link only
 ## Sources
 
 - [Khing Käng King (Classic of Purity), trans. James Legge, Sacred Books of the East vol. 40 (sacred-texts.com)](http://www.sacred-texts.com/tao/sbe40/sbe4019.htm)

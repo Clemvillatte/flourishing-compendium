@@ -30,6 +30,10 @@ The budgeting application: imagine a budget built around a regular income, and a
 **For example**
 A household budget might treat rent as recurring and a freelance income as uncertain: ask of each line what would happen if its assumption flipped, and notice which lines have a fallback.
 
+## Related concepts
+
+- [[D005]] — thematic pair: expecting reversal (DDJ 40) and budgeting for both the hazardous and the stable (Dewey) inform planning under change
+
 ## Sources
 
 - [John Dewey, Experience and Nature (1929 revised edition; full text, archive.org)](https://archive.org/stream/experienceandnat029343mbp/experienceandnat029343mbp_djvu.txt) — ch. II (all three quoted fragments)
