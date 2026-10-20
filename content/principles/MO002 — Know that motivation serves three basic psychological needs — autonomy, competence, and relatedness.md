@@ -12,11 +12,26 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 ---
 > **Principle 2** — Know that motivation serves three basic psychological needs: autonomy, competence, and relatedness
 
-According to [[Self-determination|self-determination theory]], humans have three fundamental psychological needs: autonomy (feeling choice and volition), competence (feeling effective), and relatedness (feeling connected). Motivation flourishes when these needs are met and withers when they are thwarted.
+Ryan and Deci state the position in their encyclopedia entry on [[Self-determination|self-determination theory]]:
 
-**Plain words** Three needs run the engine: feeling free (autonomy), feeling capable (competence), and feeling connected (relatedness). Starve any one and motivation sputters regardless of pay or plans. Feed all three and people move on their own.
+> SDT also postulates that there are basic psychological needs that universally must be satisfied for people to experience ongoing growth, integrity, and wellness, namely needs for competence, autonomy, and relatedness. Although there are a vast number of human desires, goals and preferences, autonomy, competence, and relatedness stand out as essential nutriments for these outcomes. (Ryan & Deci, 2022)
 
-*For example:* The team that got slower as the rules got tighter — the pay didn't change; the autonomy did. Micromanagement taxes the engine it's demanding power from.
+The same entry records what the theory expects of environments:
+
+> Social environments that support the satisfaction of these psychological needs promote capacities for self-regulation and social relationships, and well-being whereas those that thwart satisfaction of these needs lead to a broad array of more impoverished individual and interpersonal outcomes. (Ryan & Deci, 2022)
+
+The compendium's application is to use the three needs as a checklist when motivation for something drops.
+
+(Ryan & Deci, 2022, "Self-Determination Theory," in Encyclopedia of Quality of Life and Well-Being Research, Springer.)
+
+**Plain words**
+The theory's claim is narrow: three needs — competence, autonomy, relatedness — are ones whose satisfaction or thwarting tracks wellness and motivation outcomes across the studies cited. The compendium's exercise: when your motivation for something drops, ask which of the three the situation is currently not feeding, and test one change aimed at that need.
+
+*For example:* Suppose your weekly practice has stopped feeling worth doing. Ask the three questions in turn: is it still your choice (autonomy), are you still getting better at it (competence), is anyone else in it with you (relatedness)? The answer names where to look.
+
+## Sources
+
+- [Ryan & Deci, "Self-Determination Theory," Encyclopedia of Quality of Life and Well-Being Research (2022), PDF at selfdeterminationtheory.org](https://selfdeterminationtheory.org/wp-content/uploads/2023/01/2022_RyanDeci_SDT_Encyclopedia.pdf) — the three basic needs passage; the support/thwart environments passage
 ## Psychology parallels
 
 - **[[Self-determination|Self-determination theory (Deci & Ryan)]]**, three basic needs: autonomy, competence, relatedness (Deci & Ryan, 2000; Ryan & Deci, 2017)
