@@ -204,6 +204,21 @@
       "into": "Broaden-and-build",
       "link": "Appraisal theory",
       "why": "Broaden-and-build describes what positive emotions do once the appraisal comes back positive."
+    },
+    {
+      "into": "Ubuntu",
+      "link": "Associated living",
+      "why": "Ubuntu is the southern African relational account of the person; associated living is Dewey's relational account of democracy."
+    },
+    {
+      "into": "Civic republicanism",
+      "link": "Associated living",
+      "why": "Civic republicanism treats participation as constitutive of freedom; associated living is the participatory mode Dewey describes."
+    },
+    {
+      "into": "Dialogue",
+      "link": "Associated living",
+      "why": "Dialogue is the communication Dewey makes primary to conjoint experience."
     }
   ],
   "inline": [
@@ -266,6 +281,21 @@
       "into": "B136",
       "concept": "Appraisal theory",
       "phrase": "Appraisal and construal"
+    },
+    {
+      "into": "A099",
+      "concept": "Associated living",
+      "phrase": "Democracy as associated living"
+    },
+    {
+      "into": "P045",
+      "concept": "Associated living",
+      "phrase": "Democracy as associated living"
+    },
+    {
+      "into": "P127",
+      "concept": "Associated living",
+      "phrase": "a mode of associated living"
     }
   ]
 }
