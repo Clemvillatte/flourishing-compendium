@@ -693,3 +693,22 @@ pages. Continuing to AT075.
   (Merleau-Ponty — consistent with the body-as-doer framing), Right effort
   (conditions-arranging framing — consistent). Mention scan (bottom-up): Arousal
   regulation and Autonomic nervous system concepts already cite BI010. Validator ok.
+
+### CO002 (2026-10-20, worker-p1h-7d3e9c4a)
+
+- Source opened: Kahneman 2003, "A Perspective on Judgment and Choice: Mapping
+  Bounded Rationality" (American Psychologist 58(9):697-720; full-text PDF hosted at
+  Iowa State, opened via fetch). Blockquote verbatim (System 1 + System 2 operations
+  sentences, consecutive); Evans & Stanovich 2013 abstract read via PubMed record
+  (26172965) for the cautions paragraph, cited in the Sources section.
+- Seed-body claims kept but grounded: "Neither is better; each has appropriate
+  domains" supported by the parallels' own caution bullets (adaptivity of Type 1;
+  labels-not-structures) rather than asserted bare; "the problem is using the wrong
+  mode" softened to "the failures run the other way" in the example; "vibes for the
+  mortgage" slang replaced; plain words re-derived without "the skill is knowing
+  which mode" promise-speak.
+- Linked-concept reads: Dual-process theory (autonomy/decoupling definitions,
+  Evans & Stanovich — consistent with the page's cautions paragraph), Phronesis
+  (knowing-when-to-deliberate — the philosophy side of the same skill). Mention
+  scan (System 1): Dual-process theory and System 1 and System 2 concepts already
+  cite the material. Validator ok.
