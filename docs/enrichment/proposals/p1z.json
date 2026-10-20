@@ -76,6 +76,13 @@
       "phrase": "Experiential learning cycle (Kolb)",
       "why": "A044's parallels already cite Ericsson et al. 1993 for deliberate practice; BE060 documents that same Ericsson evidence plus Bandura's mastery-experience findings",
       "notes": "found by mention scan during BE060 saturation"
+    },
+    {
+      "into": "A014",
+      "type": "principle",
+      "phrase": "Mattering and generativity (Pratt et al.)",
+      "why": "A014's parallels cite mattering and generativity research; BE068 documents the generativity evidence base (Erikson definition, seven-region and MIDUS findings) those parallels point at",
+      "notes": "found by mention scan during BE068 saturation"
     }
   ],
   "inline": [
