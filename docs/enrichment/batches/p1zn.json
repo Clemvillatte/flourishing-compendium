@@ -18,7 +18,8 @@
   "S050",
   "S055",
   "S080",
-  "S083"
+  "S083",
+  "S091"
  ],
  "in_progress": null,
  "flagged": {
@@ -39,9 +40,10 @@
   "S050": "Epictetus's examination is control-sorting not empirical observation; 'check against the world' is the compendium's addition; Kahneman & Klein abstract does not mention prediction logging; Disc., De Ira, Bennett-Levy, Peirce, James not opened",
   "S055": "Epictetus (Disc II.18) says pause and test the impression, not let it pass; 'visitor' and 'fighting gives it energy' are compendium gloss; also in tension with S050 only apparently; Hayes 2011/Heidegger/Laozi not opened",
   "S080": "Reform/anti-injustice half is the compendium's extension; 'Tolerance without indifference' is the compendium's label for James; Tyler 2006 and Hayes 2011 not matched/opened; psychology parallel left unverified",
-  "S083": "'Compare only with yesterday's self' not found in Ench 25 (compendium formula); Meditations/Discourses refs, Festinger, Runciman, Laozi, Fromm not opened"
+  "S083": "'Compare only with yesterday's self' not found in Ench 25 (compendium formula); Meditations/Discourses refs, Festinger, Runciman, Laozi, Fromm not opened",
+  "S091": "Appreciation purpose is compendium's addition; Koo 2008 imagines absence of a past event, not future loss; entry labels premeditatio with Letter 24 but the passage found is Letter 91.8; other refs not opened"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T10:50:08+00:00"
+ "updated": "2026-10-20T10:50:39+00:00"
 }
