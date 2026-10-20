@@ -157,3 +157,9 @@ Band: AF002..BE033, 30 principles, degree order (queue 628-673). Advisor QC cade
 - Scope: "interesting tasks hold attention with less effort" kept as the compendium's application (the abstract describes phases, not attentional effort); Silvia 2006 citation dropped; Engelmann & Pessoa 2007 / Pessoa 2009 motivation-modulates-attention lines removed (unopened); Brown 2013 citation dropped from the ADHD parallel (wikilink kept).
 - Plain words: replicate fixed; example relabelled as imagined case and tied to the triggered/maintained distinction.
 - Proposals: reciprocal into ADHD: interest-based attention and Flow (leads read during milestone QC; full bodies not read).
+
+## AT033 — Learn to work with attentional fatigue: recognise and respond to depletion
+- Evidence: Kaplan 1995, Journal of Environmental Psychology 15(3) 169-182, abstract via sciencedirect.com/science/article/pii/0272494495900012, fetched this session. All three quoted sentences verified verbatim (directed-attention role and fatigue; ART recovery analysis; natural environments restorative richness).
+- Scope: depletion-signal list labelled as the compendium's addition (the abstract is programmatic); Kaplan & Berman 2010 citation dropped; Mackworth 1948 / See et al. 1995 vigilance-decrement parallel removed (unopened, no wikilink).
+- Plain words: replicate fixed; example relabelled as imagined case and tied to the restorative-environment remedy.
+- MILESTONE: item 20 of 30. Advisor QC requested for items 16-20 (AT017, AT024, AT029, AT032, AT033).
