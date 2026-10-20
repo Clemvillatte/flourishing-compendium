@@ -978,3 +978,57 @@ pages. Continuing to CO009.
   round: Debiasing techniques (CO027), Curse of knowledge (CO040), Metacognitive
   model of anxiety and depression (Wells) (CO064) — all consistent seeds with
   correct cited-in lists; no new reciprocals proposed.
+
+### Closure QC round 2 (2026-10-20, worker-p1h-9f42e6c7)
+
+- Advisor recheck: CO040 PASS (source-scoped); CO064 claims PASS with one clarity
+  fix applied ("cognitive attentional syndrome (CAS)" introduced before the
+  blockquote); CO042 second-round edits applied exactly as advised: "default
+  responses for much of our behavior" (was "default answers to almost
+  everything"), the duplicated pre-quote summary sentence deleted, the
+  familiar/low-stakes inference deleted, plain words and example replaced with
+  the attribute-substitution exercise and the child-activity example.
+- AUDIT CORRECTIONS completed: the CO027 entry's claimed reads of Cognitive
+  biases, First impressions bias and Outside view / reference class forecasting
+  were not performed at item time — retracted there; all four concepts were
+  actually opened during this closure round (thin seeds, cited-in lists correct
+  and consistent with the rewrites). CO042's Unconscious thought theory
+  (Dijksterhuis) concept also actually opened this round. Timing recorded
+  honestly: reads happened at closure, not at item time.
+- SATURATION, correctly formed enrich_find mention scans now run and reviewed:
+  CO027 and CO040 — every concept candidate is [LINKED]; coverage adequate,
+  no new reciprocals. CO042 and CO064 — two genuine gaps found and proposed in
+  proposals/p1h.json: Metacognition -> CO064 and Deliberation as rehearsal ->
+  CO042 (reader-facing why clauses; application is the lead's). Backlink
+  counts are recorded as counts, not as proof of adequacy; the [LINKED]/[NEW]
+  review of candidates is the assessment.
+- All four files validate ok vs baseline cb1f4ce6^; build check follows in the
+  closure commit.
+
+### Closure QC round 3 + state reconciliation (2026-10-20, worker-p1h-9f42e6c7)
+
+- Advisor final recheck: CO042 repaired body PASS (source-scoped). Proposal why
+  clauses replaced with the advisor's exact wording (no Flavell->Wells lineage,
+  no "timing condition" interpretation). Concept reads completed for real this
+  round (full bodies opened and read, not front-matter or snippets): Cognitive
+  biases, First impressions bias, Outside view / reference class forecasting,
+  Unconscious thought theory (Dijksterhuis), Metacognition, Deliberation as
+  rehearsal, Curse of knowledge, Debiasing techniques — all consistent seeds
+  with correct cited-in lists.
+- Saturation scans rerun with --type concept --max 40 and reviewed. CO064:
+  Wells-model concepts all [LINKED]; "Detached mindfulness theory Wells"
+  reviewed and judged adequately covered by its CO063 link (technique-side
+  rather than belief-side; recorded as a judgment, not proof). CO042: one
+  further genuine gap found — the Dual-process theory concept quotes Evans &
+  Stanovich but cites no CO042; third reciprocal proposed (Dual-process theory
+  -> CO042). Scans were still truncated at 40 results; coverage claims are
+  limited to the reviewed candidates, not exhaustive.
+- State transitions reconciled per advisor order: CO040/CO042/CO064 reopened
+  with explicit repair reasons (recorded in the state file's flagged map),
+  re-validated vs cb1f4ce6^ (all ok), and marked done again. No backdating;
+  the reopen->repair->validate->done sequence is visible in the git history.
+- All four session items: CO027 (advisor QC round 1, repairs applied),
+  CO040, CO042, CO064 (closure rounds 1-3, repairs applied). Build ok
+  (5,718 entries, fcAuthored 976). Band closed 60/60. Acceptance is scoped to
+  the reviewed passages and demonstrated repairs, not an independent source
+  audit of all 60 items.

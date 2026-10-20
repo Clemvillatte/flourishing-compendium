@@ -11,7 +11,7 @@ navigation: {"track": "philosophy", "primaryPath": ["NAV-PHILOSOPHY", "NAV-PHIL-
 legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognition", "chapter": "CO-S06 — LAYER VI — METACOGNITION, WISDOM, AND HIGHER-ORDER COGNITION", "parent": ""}
 ---
 > **Principle 64** — Recognise metacognitive beliefs: what you believe about your own thinking matters
-In Wells's metacognitive model, worry and rumination, threat monitoring, and unhelpful coping responses form a cognitive attentional syndrome. The model proposes that metacognitive beliefs sustain this pattern. The review describes treatment as both modifying those beliefs and changing responses to cognitive processes. ([Normann & Morina, 2018, Introduction](https://pmc.ncbi.nlm.nih.gov/articles/PMC6246690/))
+In Wells's metacognitive model, worry and rumination, threat monitoring, and unhelpful coping responses form a cognitive attentional syndrome (CAS). The model proposes that metacognitive beliefs sustain this pattern. The review describes treatment as both modifying those beliefs and changing responses to cognitive processes. ([Normann & Morina, 2018, Introduction](https://pmc.ncbi.nlm.nih.gov/articles/PMC6246690/))
 
 > "Positive metacognitions are beliefs about the need to engage in CAS activities, e.g., 'Worry helps me stay prepared,' whereas negative metacognitions are beliefs about the uncontrollability and dangerousness of thoughts and feelings, e.g., 'I have no control over my worry/rumination.'" (Normann & Morina, 2018, [Frontiers in Psychology 9:2211](https://pmc.ncbi.nlm.nih.gov/articles/PMC6246690/))
 

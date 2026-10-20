@@ -104,10 +104,13 @@
   "BE072": "Reopened for QC: QC closure: unopened Koob/APA/Miller bullets; practice narrowed to substance use",
   "BI004": "Reopened for QC: QC closure: cortisol-as-system wording, depression bullet, practice",
   "BI010": "Reopened for QC: QC consistency pass: audit phrasing in parallels",
-  "CO002": "Reopened for QC: QC closure: bullet dropped source qualifiers"
+  "CO002": "Reopened for QC: QC closure: bullet dropped source qualifiers",
+  "CO040": "Reopened for QC: closure QC round-1/2 repairs: scoped opening, underwriting suggestion restored, unverified locator dropped, plain words re-derived",
+  "CO042": "Reopened for QC: closure QC round-2 repairs: default-response wording, inference deleted, plain words/example replaced with attribute-substitution exercise",
+  "CO064": "Reopened for QC: closure QC repairs: treatment description per source, uncontrolled restored, plain words/example replaced, (CAS) introduced"
  },
  "missing_concepts": [],
  "sources_checked": 15,
- "updated": "2026-10-20T04:37:34+00:00",
- "band_done": false
+ "updated": "2026-10-20T04:44:54+00:00",
+ "band_done": true
 }
