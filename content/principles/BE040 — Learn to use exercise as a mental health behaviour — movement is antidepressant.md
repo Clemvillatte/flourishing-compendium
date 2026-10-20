@@ -12,11 +12,31 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BE — Overt Be
 ---
 > **Principle 40** — Learn to use exercise as a mental health behaviour: movement is antidepressant
 
-Exercise is a robust mental health behaviour. It reduces depression, anxiety, and stress, and improves mood, cognition, and well-being. It is one of the most evidence-supported lifestyle behaviours for mental health.
+The claim rests on two kinds of evidence: cohort studies of who develops depression, and trials of exercise as a treatment. On the prevention side, a meta-analysis pooled 49 prospective cohorts (n = 266,939, followed for 1,837,794 person-years) and reported:
 
-**Plain words** Movement is a legitimate psychiatric intervention — it moves depression and anxiety numbers comparably to some medications for mild-to-moderate cases. Not "go for a walk, cheer up" — an actual dose-response treatment. The prescription is just unusually cheap.
+> "People with high PA (versus low PA) were at reduced odds of developing depression ((adjusted)AOR=0.83, 95%CI=0.79 to 0.88, p<0.001, I2=0.00)." (Schuch et al., "Physical Activity and Incident Depression: A Meta-Analysis of Prospective Cohort Studies", American Journal of Psychiatry 175(7), 2018, accepted author manuscript, [PDF](https://kclpure.kcl.ac.uk/ws/files/94279645/Physical_activity_and_incident_SCHUCH_Publishedonline25April2018_GREEN_AAM.pdf))
 
-*For example:* The GP who writes "brisk walk, 30 minutes, 5x/week" on the pad like a drug — because the evidence treats it like one. The side-effect profile is just suspiciously good.
+The same paper concludes that the available evidence supports protection against the emergence of depression regardless of age and geographical region ([Schuch et al., 2018, PDF](https://kclpure.kcl.ac.uk/ws/files/94279645/Physical_activity_and_incident_SCHUCH_Publishedonline25April2018_GREEN_AAM.pdf)).
+
+On the treatment side, the SMILE trial randomized 202 adults with major depression to supervised exercise, home-based exercise, sertraline, or a placebo pill for 16 weeks ([Blumenthal et al., 2007, via PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC2702700/)):
+
+> "The unadjusted remission rates were: supervised exercise = 45%; home-based exercise = 40%; medication = 47%; and placebo = 31%." (Blumenthal et al., "Exercise and Pharmacotherapy in the Treatment of Major Depressive Disorder", Psychosomatic Medicine 69(7), 2007, [full text via PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC2702700/))
+
+The trial's own summary of the comparison:
+
+> "The efficacy of exercise in patients seems generally comparable with patients receiving antidepressant medication and both tend to be better than the placebo in patients with MDD." (Blumenthal et al., 2007, [via PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC2702700/))
+
+**Plain words**
+Two arms of evidence. People who move more are less likely to develop depression in the first place. When depression is already there, structured exercise held its own against an antidepressant pill in one randomized trial.
+
+**For example**
+The GP who writes "brisk walk, 30 minutes, most days" on the pad next to the medication option for mild-to-moderate depression. The trial remission numbers were close enough that either line makes sense.
+
+## Sources
+
+- [Schuch et al., "Physical Activity and Incident Depression: A Meta-Analysis of Prospective Cohort Studies", Am J Psychiatry 175(7), 631-648 (2018), accepted author manuscript]( https://kclpure.kcl.ac.uk/ws/files/94279645/Physical_activity_and_incident_SCHUCH_Publishedonline25April2018_GREEN_AAM.pdf ) — 49 cohorts, n = 266,939; adjusted OR 0.83 (95% CI 0.79-0.88). Quotes read from the downloaded PDF. DOI [10.1176/appi.ajp.2018.17111194](https://doi.org/10.1176/appi.ajp.2018.17111194)
+- [Blumenthal et al., "Exercise and Pharmacotherapy in the Treatment of Major Depressive Disorder", Psychosomatic Medicine 69(7), 587-596 (2007), full text via PMC]( https://pmc.ncbi.nlm.nih.gov/articles/PMC2702700/ ) — SMILE randomized trial, 202 adults, 16 weeks; remission rates and efficacy comparison. Quotes verified by fetch_url. DOI [10.1097/PSY.0b013e318148c19a](https://doi.org/10.1097/PSY.0b013e318148c19a)
+
 ## Psychology parallels
 
 - **Exercise and depression**, exercise reduces depressive symptoms (Schuch et al., 2018; Cooney et al., 2013)
