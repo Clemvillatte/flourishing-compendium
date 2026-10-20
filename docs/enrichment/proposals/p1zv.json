@@ -1,6 +1,6 @@
 {
  "batch": "p1zv",
- "revision": 7,
+ "revision": 8,
  "reciprocal": [
   {
    "into": "Truthfulness",
@@ -37,6 +37,18 @@
    "link": "S104",
    "why": "A Stoic practice of holding death in mind as a guide to life",
    "notes": "S104 (2026-10-21, worker-p1zv-95f93b33): milestone-QC revision per advisor. Both pages READ: content/concepts/Being-toward.md (the compendium's fuller label page for Heidegger's being-toward-death; no S104 occurrence; this is the page S104's protected link [[Being-toward|Being-toward-death]] resolves to) and content/concepts/Being-toward-death.md (shorter variant, no S104 occurrence). Proposal retargeted to Being-toward. The Being-toward / Being-toward-death near-duplicate namespace question is recorded for supervisor disposition in the S104 ledger and state flag."
+  },
+  {
+   "into": "Cosmopolitanism",
+   "link": "S107",
+   "why": "A Stoic principle on the universe as the common fatherland",
+   "notes": "S107 (2026-10-21, worker-p1zv-95f93b33): hub read earlier this session (cites S101/S006 etc., no S107 occurrence); grounded in S107's Musonius Lecture IX common-fatherland quote verified against the opened StoicSource page."
+  },
+  {
+   "into": "Resilience",
+   "link": "S107",
+   "why": "A Stoic principle on keeping conduct intact through displacement",
+   "notes": "S107 (2026-10-21, worker-p1zv-95f93b33): hub inspected via occurrence search (no S107 occurrence); grounded in S107's Lecture IX inventory quote verified against the opened StoicSource page."
   }
  ]
 }
