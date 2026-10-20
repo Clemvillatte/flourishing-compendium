@@ -64,6 +64,11 @@
       "into": "SE017 — Recognise and manage the inner critic — harsh self-talk is not motivation",
       "link": "SE027 — Practise self-kindness over self-judgment — kindness is more motivating than cruelty",
       "why": "SE017 presents the evidence against the whip; SE027 states the corresponding practice principle for the same Breines & Chen finding."
+    },
+    {
+      "into": "SE025 — Cultivate self-compassion — treat yourself as you would a good friend",
+      "link": "SE028 — Learn mindful self-awareness — hold your experience without over-identifying",
+      "why": "SE025 lists all three Neff components in its body; SE028 is the dedicated principle for the mindfulness component."
     }
   ],
   "inline": [
@@ -73,5 +78,5 @@
       "phrase": "performing one's roles well"
     }
   ],
-  "notes": "SE027: Breines & Chen 2012 abstract opened via Semantic Scholar; mandatory plain-words replicate replaced; For example relabelled Imagine; Sources section added; Neff 2003 listed for the self-kindness component. Note: SE017 (another band, already enriched) quotes the same abstract; reciprocal proposed."
+  "notes": "SE028: Neff 2003 abstract (opened for SE012, same session) grounds the mindfulness component definition; rumination proposal labelled theoretical; two-poles framing labelled compendium application; grief example replaced; psychology bullet narrowed to what the abstract supports. Milestone advisor QC (item ~17) returned CONDITIONAL; SE028 revised plus regressions fixed in SE012 (trainability/adjustability claims removed or labelled application; p.85->abstract), SE024 (named-it/founding-review and nearly-universal wording bounded), SE027 (comparisons corrected to self-esteem/control; performance clause removed)."
 }

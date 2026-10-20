@@ -12,15 +12,24 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 28** — Learn mindful self-awareness: hold your experience without over-identifying
 
-The mindfulness component of [[Self-compassion|self-compassion]] involves holding your pain and experience in balanced awareness — neither suppressing it nor being overwhelmed by it. This is distinct from over-identification (being consumed by the feeling) and from avoidance (denying the feeling).
+The mindfulness component of [[Self-compassion|self-compassion]] is defined by Kristin Neff as balanced awareness of painful experience, with over-identification as the named failure it replaces.
 
-**Plain words** The mindfulness component of self-compassion: holding your pain in balanced awareness — neither suppressing it nor drowning in it. Over-identification ("this is everything, this is me") and avoidance ("this is nothing") are both failures of the same holding.
+> "Self-compassion entails three main components: ... (c) mindfulness—holding painful thoughts and feelings in balanced awareness rather than over-identifying with them." (Neff, "Self-Compassion: An Alternative Conceptualization of a Healthy Attitude Toward Oneself", Self and Identity 2, 2003, abstract)
 
-*For example:* The grief that either gets buried (avoidance — it leaks out sideways for years) or becomes the whole identity (over-identification — the mourning becomes the person) — versus the middle: felt, held, named, still real. The holding is the skill.
+Neff also proposes that self-compassion "should protect against the negative consequences of self-judgment, isolation, and rumination (such as depression)". This is a proposed protective role for the overall construct; the abstract does not establish an isolated effect of its mindfulness component. The compendium's application pairs the definition's named failure with its opposite: over-identification ("this is everything, this is me") and avoidance ("this is nothing") are both treated as failures of the same holding. This two-poles framing is a practical application, not a finding from the source.
+
+**Plain words**
+Try describing a painful feeling without making it a verdict about your identity: "I notice disappointment" rather than "I am a failure". This is a suggested exercise for putting the definition into practice.
+
+*For example:* Imagine receiving a rejection letter. You acknowledge, "this hurts", without treating that rejection as a complete description of who you are.
+## Sources
+
+- [Neff, K. (2003), Self-Compassion: An Alternative Conceptualization of a Healthy Attitude Toward Oneself, Self and Identity 2(2), 85-101 (publisher abstract page)](https://www.tandfonline.com/doi/abs/10.1080/15298860309032) — mindfulness component definition and rumination proposal, abstract
+
 ## Psychology parallels
 
 - **[[Mindfulness|Mindfulness as component of self-compassion]]**, balanced awareness of pain without suppression or over-identification (Neff, 2003, 2011)
-- **Over-identification amplifies suffering**, being consumed by a feeling makes it worse; mindful awareness reduces it (Neff, 2011; Fresco et al., 2007)
+- **The construct is proposed to protect against rumination**, self-compassion "should protect against the negative consequences of self-judgment, isolation, and rumination (such as depression)" — a theoretical proposal about the overall construct (Neff, 2003, abstract)
 
 ## Philosophy parallels
 
