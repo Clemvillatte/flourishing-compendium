@@ -133,3 +133,14 @@
   continuous prose).
 - SYNTHESIS FLAG: "easy successes make brittle belief" is the compendium's gloss on
   Bandura's easy-successes passage.
+
+## Means-end continuity (2026-10-20, fast-track; degree 11 — eligible)
+
+- VERIFICATION: concept REAL (Dewey, Human Nature and Conduct, 1922). Title kept.
+- OPENED: Dewey, Human Nature and Conduct (1922), Project Gutenberg full text
+  https://www.gutenberg.org/files/41386/41386-0.txt — both quoted passages verified via raw
+  text extraction (means/means passage; "Means and ends are two names for the same reality...
+  not a division in reality but a distinction in judgment"). Gutenberg italic underscores
+  (_course_, _line_) rendered as plain words per markup-translation convention.
+- SYNTHESIS FLAG: "the next act is the thing to attend to, not the distant goal" is the
+  compendium's gloss on Dewey's flank-movement argument.

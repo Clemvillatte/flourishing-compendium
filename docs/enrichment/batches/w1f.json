@@ -10,7 +10,8 @@
   "Self-compassion",
   "Learning by experience",
   "Life lived forwards",
-  "Mastery experiences"
+  "Mastery experiences",
+  "Means-end continuity"
  ],
  "in_progress": null,
  "flagged": {
@@ -28,6 +29,7 @@
   "Self-compassion": "fast-track pass 2026-10-20: page ALREADY ADEQUATE — light check per skip-ahead rule. REPAIRED: Sources URL (opened Neff handout, already cited in body). ROUTED: dash budget 18/3 (pre-existing writing condition, page predates the budget; validator confirmed present in the pre-edit HEAD version) — needs a dedicated rewording pass, NOT a fast-track item; queued for supervisor QC routing (w1a band, released).",
   "Learning by experience": "fast-track done 2026-10-20; Dewey 1938 pp. 25-26 passage quoted via the ERIC article (raw-extraction verified); the archive.org full-text scan has an OCR error (\"ah\" for \"all\" at this sentence) — the ERIC quotation is the verbatim authority; continuity criterion grounded in the same verified passage.",
   "Life lived forwards": "fast-track done 2026-10-20; the FULL journal entry (JJ:167, 1843, Skrifter vol. 18 p. 306) quoted verbatim from the opened Iowa provenance page (with the Danish original); the popular aphorism is a PARAPHRASE and is described as such, not quoted; the entry's closing twist (no moment of rest for the backward view) is carried into the synthesis.",
-  "Mastery experiences": "fast-track done 2026-10-20; Bandura 1994 chapter passage verified via raw pdftotext of the full chapter PDF (univ-lorraine mirror); note the page-break in the raw text between \"obstacles\" and \"through perseverant effort\" — quote joined as continuous prose."
+  "Mastery experiences": "fast-track done 2026-10-20; Bandura 1994 chapter passage verified via raw pdftotext of the full chapter PDF (univ-lorraine mirror); note the page-break in the raw text between \"obstacles\" and \"through perseverant effort\" — quote joined as continuous prose.",
+  "Means-end continuity": "fast-track done 2026-10-20; Dewey HNC passage verified via raw pdftotext-style extraction of the Gutenberg full text (both the means/ends passage and the \"two names for the same reality\" line); Gutenberg underscore italics markup rendered as plain words in the quote."
  }
 }
