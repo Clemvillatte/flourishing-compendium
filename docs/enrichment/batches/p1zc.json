@@ -24,14 +24,16 @@
   "SP030",
   "SP058",
   "SP061",
-  "SP065"
+  "SP065",
+  "SP082"
  ],
  "in_progress": null,
  "flagged": {
   "SE071": "RESOLVED (2026-10-20, advisor round 4): repairs accepted; scoped PASS - the clinical-claim and attribution repairs stand; flag kept for supervisor visibility",
-  "SE076": "RESOLVED (2026-10-20, advisor round 4): repairs accepted; scoped PASS - WHO-scope bounding and list-format quote stand; flag kept for supervisor visibility"
+  "SE076": "RESOLVED (2026-10-20, advisor round 4): repairs accepted; scoped PASS - WHO-scope bounding and list-format quote stand; flag kept for supervisor visibility",
+  "SP082": "sub specie aeternitatis = seeing as necessary (II P44 C2), not widest time frame; practice labelled adaptation"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T10:25:50+00:00"
+ "updated": "2026-10-20T10:26:18+00:00"
 }
