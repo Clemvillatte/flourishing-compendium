@@ -49,9 +49,10 @@
   "Resilience",
   "Spotlight effect (Gilovich)",
   "The having mode",
-  "The specious present"
+  "The specious present",
+  "Self-concordant goals"
  ],
- "in_progress": "Self-concordant goals",
+ "in_progress": null,
  "flagged": {
   "ERG Theory": "cited-in list (270+ Daoist principles) appears to be an auto-generated mapping; no principle text references ERG directly",
   "PEN Model": "cited-in list (614+ Daoist principles) appears to be an auto-generated mapping; no principle text references the PEN model directly",
@@ -71,7 +72,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 36,
- "updated": "2026-10-20T07:04:45+00:00",
+ "updated": "2026-10-20T07:04:48+00:00",
  "band_done": false,
  "new_concepts": [
   {
