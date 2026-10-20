@@ -12,14 +12,14 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 ---
 > **Principle 19** — Protect absorption
 
-Absorption — the state Csikszentmihalyi called flow — requires sustained attention, and the mind-wandering study measures what its absence goes with:
+Csikszentmihalyi called the absorbed state flow. The mind-wandering study did not measure flow; it measured where attention was and how people felt. Its conclusion:
 
 > "In conclusion, a human mind is a wandering mind, and a wandering mind is an unhappy mind. The ability to think about what is not happening is a cognitive achievement that comes at an emotional cost." (Killingsworth & Gilbert, "A Wandering Mind Is an Unhappy Mind", Science, 2010)
 
 In the study, people were less happy when their minds were wandering than when they were not, across all activities; what people were thinking predicted their happiness better than what they were doing. This page's suggested practice, which goes beyond what the study measured: guard blocks of 45 to 90 minutes for deep work, clear notifications, set a clear goal and a feedback signal. The protection of absorption is not about productivity alone; it is about the quality of experience.
 
 **Plain words**
-In nearly half the samples, people were thinking about something other than what they were doing, and it went with feeling worse. Absorption is the reverse of that: attention and action in the same place. The practical job is protecting the block — an hour with the phone in a drawer, one goal, something that shows progress. The stake is the quality of the experience, not just the output.
+In nearly half the samples, people were thinking about something other than what they were doing, and it went with feeling worse. Protecting attention is this page's suggested application of that finding, not something the study measured: an hour with the phone in a drawer, one goal, something that shows progress. The stake is the quality of the experience, not just the output.
 
 *For example:* Putting your phone in a drawer and writing for an hour with no tabs open.
 

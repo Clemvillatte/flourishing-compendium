@@ -12,14 +12,14 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 ---
 > **Principle 43** — Practise humility as accurate self-assessment
 
-Humility, in the VIA classification, is the accurate assessment of one's strengths and limitations. It is not self-deprecation. The research definition this page follows is Don Davis's relational humility:
+Humility is not self-deprecation. The research definition this page follows is Don Davis's relational humility:
 
 > "Relational humility is defined as the degree to which one person attributes the following three qualities to a target person: (a) regulation of egotism (and self-oriented emotions) in socially acceptable ways; (b) accurate or moderate evaluative view of self; and (c) other-oriented, marked by a respect and value for others." (Davis, "Relational Humility", doctoral dissertation, Virginia Commonwealth University, 2011)
 
-The scale built on that theory, the Relational Humility Scale, has three subscales — Global Humility, Superiority, and Accurate View of Self — and its studies ran on observer judgments rather than self-report. In the dissertation's fourth study, viewing an offender as more humble was related to lower unforgiveness the following week. A 2025 meta-analysis of humility and well-being found small effects on physical health, mental illness, and life satisfaction, and a medium effect on eudaimonic well-being, with relational humility showing a stronger negative association with mental illness than the trait and intellectual humility measures.
+The scale built on that theory, the Relational Humility Scale, is observer-rated, with three subscales — Global Humility, Superiority, and Accurate View of Self. In the dissertation's fourth study, viewing an offender as more humble was related to lower unforgiveness the following week. A 2025 meta-analysis reported small associations of humility with physical health, mental illness, and life satisfaction, and a medium association with eudaimonic well-being, with relational humility showing a stronger negative association with mental illness than the trait and intellectual humility measures.
 
 **Plain words**
-Humility here is not putting yourself down. It is the calibration between inflated and deflated: your strengths as they are, your limits as they are. The studies measure it as what others see — someone who does not need to be superior and knows their own strengths. The evidence goes with better relationships and more willingness to hear feedback, at small-to-medium strength.
+Humility here is not putting yourself down. The exercise is listing where you inflate yourself and where you deflate yourself, then checking both lists against what others see. The research measures humility as what others see: someone who does not need to be superior and knows their own strengths.
 
 *For example:* The engineer who says "I don't know, show me" — the willingness to be seen not-knowing is the humility itself.
 

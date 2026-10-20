@@ -38,10 +38,16 @@
   "MO022": "Reopened for QC: QC: advisor batch round-1 repairs (items 7-12)",
   "MO025": "Reopened for QC: QC: advisor batch round-1 repairs (items 7-12)",
   "MO049": "Reopened for QC: QC: advisor items 13-16 repairs",
-  "PP013": "protected wikilink label 'Gratitude and well-being meta-analysis' mislabels Wood et al. 2010 (a review, not a meta-analysis) — label changes are validator-protected; supervisor/owner decision needed"
+  "PP013": "protected wikilink label 'Gratitude and well-being meta-analysis' mislabels Wood et al. 2010 (a review, not a meta-analysis) — label changes are validator-protected; supervisor/owner decision needed",
+  "PP019": "Reopened for QC: QC: advisor items 17-22 repairs (session interrupted before final confirm)",
+  "PP043": "Reopened for QC: QC: advisor items 17-22 repairs (session interrupted before final confirm)",
+  "PP063": "Reopened for QC: QC: advisor items 17-22 repairs (session interrupted before final confirm)",
+  "PP068": "Reopened for QC: QC: advisor items 17-22 repairs (session interrupted before final confirm)",
+  "PP072": "Reopened for QC: QC: advisor items 17-22 repairs (session interrupted before final confirm)",
+  "PP082": "Reopened for QC: QC: advisor items 17-22 repairs (session interrupted before final confirm)"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T10:49:42+00:00",
+ "updated": "2026-10-20T10:52:17+00:00",
  "band_done": false
 }

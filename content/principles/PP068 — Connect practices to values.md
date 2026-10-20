@@ -12,16 +12,16 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 ---
 > **Principle 68** — Connect practices to values
 
-A practice connected to a value is more sustainable than one pursued for its own sake. The self-concordance model gives the finding:
+The self-concordance model's definition covers both developing interests and core values. Its finding:
 
 > "The self-concordance of goals (i.e., their consistency with the person's developing interests and core values) plays a dual role in the model. First, those pursuing self-concordant goals put more sustained effort into achieving those goals and thus are more likely to attain them. Second, those who attain self-concordant goals reap greater well-being benefits from their attainment." (Sheldon & Elliot, "Goal striving, need satisfaction, and longitudinal well-being", JPSP, 1999, abstract)
 
-The mechanism is effort: goals and practices that fit what you actually value receive more sustained effort. This page's application: when adopting a practice, name the value it serves — mindfulness practised as a way of being present for one's children, not merely "because it is supposed to reduce stress". The connection is not motivational decoration; it is the mechanism through which the practice becomes meaningful.
+The model, supported by longitudinal data, gives sustained effort a central role: goals consistent with the person's developing interests and core values receive more sustained effort. This page's application: when adopting a practice, identify a personally endorsed reason for it. The connection is not motivational decoration; on the model it is part of what sustains the practice.
 
 **Plain words**
-The studies found that goals consistent with your developing interests and core values get more sustained effort, and pay back more well-being when attained. The value is the engine, not the decoration. A practice tied to being present for your children carries further than one tied to "reducing stress".
+The model's finding is that goals consistent with your developing interests and core values receive more sustained effort, and pay back more well-being when attained. Note the definition includes both interests and values: enjoying a practice is not the inferior reason. The move is to identify a reason you actually endorse.
 
-*For example:* The parent who meditates so he can actually listen at dinner is the version the model predicts keeps going when the novelty dies.
+*For example:* Imagine a parent who meditates so he can actually listen at dinner; whether that reason sustains the practice is for him to observe.
 
 ## Sources
 
