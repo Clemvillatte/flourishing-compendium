@@ -12,15 +12,24 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 26** — Prefer [[Cognitive reappraisal|cognitive reappraisal]] over suppression when possible
 
-Reappraisal — changing how you interpret a situation — reduces both the felt emotion and the physiological response. Suppression — inhibiting expression — reduces visible emotion but increases physiological arousal and impairs memory. Reappraisal is generally more effective and less costly.
+The claim this principle compares two ways of managing an emotion. James Gross's process model of emotion regulation distinguishes strategies that act early in the emotion-generative process from strategies that act later. Reappraisal, the early strategy, consists of changing the way a situation is construed so as to decrease its emotional impact. Suppression, the later strategy, consists of inhibiting the outward signs of inner feelings.
 
-**Plain words** Reappraisal — changing how you interpret a situation — reduces both the felt emotion and the physiological response. Suppression — inhibiting expression — reduces visible emotion but increases physiological arousal. Prefer reappraisal when possible; the body keeps score either way.
+> "The first, reappraisal, comes early in the emotion-generative process. It consists of changing the way a situation is construed so as to decrease its emotional impact. The second, suppression, comes later in the emotion-generative process. It consists of inhibiting the outward signs of inner feelings."
+> (Gross, "Emotion regulation: Affective, cognitive, and social consequences", Psychophysiology, 2002, 39(3), 281-291.)
 
-*For example:* Two people in the same tense meeting: one smiles and suppresses (calm face, racing heart, cortisol flood), one reframes ("this is their fear talking"). Only one of them leaves the meeting without having run a marathon internally.
+In the studies the review summarises, reappraisal decreases emotion experience and behavioural expression, and has no impact on memory. Suppression decreases behavioural expression but does not decrease emotion experience, impairs memory, and increases physiological responding both for the suppressor and for their social partners. The review's own summary is that reappraisal is "often more effective than suppression".
+
+The review does not claim that reappraisal works in every situation. Its account is a comparison of average profiles in laboratory and individual-difference studies, not a rule that suppression is always the worse choice.
+
+(Gross, 2002; [opened PDF](https://www.psychiatry.wisc.edu/courses/Nitschke/seminar/gross_2002_psychophys.pdf).)
+
+**Plain words** Reappraisal means changing the interpretation of what is happening, before the emotion has fully taken shape. Suppression means holding back the outward signs of an emotion that has already taken shape. Reappraisal tends to come out better because the change happens earlier and touches the feeling itself; suppression leaves the feeling in place while hiding its expression.
+
+*For example:* Two people watch the same tense exchange in a meeting. One keeps a calm face while the emotion continues underneath; the other changes how the situation is being read. The practice of reappraisal is the second, and the evidence from the literature favours it.
 ## Psychology parallels
 
-- **Reappraisal vs suppression meta-analysis**, reappraisal is associated with better affective, cognitive, and social outcomes; suppression is associated with worse physiological and social outcomes (Webb et al., 2012; Aldao et al., 2010)
-- **Suppression has interpersonal costs**, suppressing expression reduces rapport and is perceived as inauthentic (Butler & Gross, 2009)
+- **Reappraisal vs suppression meta-analysis** (Webb et al., 2012; Aldao et al., 2010)
+- **Suppression has interpersonal costs** (Butler & Gross, 2009)
 
 ## Philosophy parallels
 
