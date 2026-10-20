@@ -16,7 +16,7 @@ In The Rebel, measure is not a middle path chosen for comfort. It comes out of t
 
 ### Measure as tension
 
-The section "Moderation and Excess" is the clearest statement of the idea. "Moderation is not the opposite of rebellion. Rebellion in itself is moderation." It is no soft compromise: "Moderation, on the one hand, is nothing but pure tension" and "a perpetual conflict, continually created and mastered by the intelligence". It "does not triumph either in the impossible or in the abyss. It finds its equilibrium through them." He also says that "excess will always keep its place in the heart of man", so measure never abolishes excess; it holds it in check.
+The section "Moderation and Excess" is the clearest statement of the idea. "Moderation is not the opposite of rebellion. Rebellion in itself is moderation, and it demands, defends, and re-creates it throughout history and its eternal disturbances." It is no soft compromise: "Moderation, on the one hand, is nothing but pure tension" and "a perpetual conflict, continually created and mastered by the intelligence". It "does not triumph either in the impossible or in the abyss. It finds its equilibrium through them." He also says that "excess will always keep its place in the heart of man", so measure never abolishes excess; it holds it in check.
 
 ### Where he finds it
 

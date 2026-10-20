@@ -180,7 +180,9 @@ Round 3 (advisor, 2026-10-21): item-10 milestone closed with a scoped PASS for A
 
 - Source opened: Camus, The Rebel, trans. Bower, full text, Ted K Archive. Quotes verified word-for-word by script (Part One; Part Five 'Rebellion and Murder', 'Moderation and Excess', 'Thought at the Meridian').
 - Citation fixes: old cite 'Part Three' (Historical Rebellion) is wrong: measure is Part Five. The pairing with L'Etranger '1939/1940' and Lyrical and Critical Essays was unsupported (L'Etranger is 1942) and dropped. Plain words was a replicate; replaced. Example relabelled imagined.
-- Self-QC only.
+- SUPERVISOR REPAIR (2026-10-20, supervisor-3ef4f549, routed pass-1 defect, p1zx released): the body's 'Rebellion in itself is moderation.' ended the quoted sentence with a period where the source continues with a comma; quotation extended to the source's full sentence ('...throughout history and its eternal disturbances.'), verified verbatim against a freshly opened raw download of the Ted K Archive Rebel text before editing. All other displayed quotes re-verified in the same download. Band baton released; no live owner affected.
+
+- Self-QC only (worker-p1zx-9a2e4c71, 2026-10-21).
 
 ## E067 (worker-p1zx-9a2e4c71, 2026-10-21)
 
