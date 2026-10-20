@@ -459,3 +459,14 @@
   publisher's description (cases list); the book itself NOT opened.
   Related concepts: The hermeneutics of suspicion, Meaning-making, Narrative
   redemption sequences (minimal descriptive clauses).
+
+## Nature connectedness (fast-track)
+- Opened: Oberlin repository record for Mayer and Frantz 2004 (JEP 24(4),
+  503-515; abstract) and the Frontiers abstract page for Capaldi, Dopko and
+  Zelenski 2014 (Front. Psychol. 5:976) — all quoted fragments verbatim from
+  the opened abstracts (CNS description; five studies / two community + three
+  college samples; self-other overlap passage; 30 samples n=8523, r=.19,
+  vitality .24 / positive affect .22 / life satisfaction .17). Kaplan 1995
+  and "connectedness research, as framework" kept as inherited seed lines,
+  not opened. Broken Facets seed artifact removed (no links). Related
+  concepts: Nature exposure, Biophilia (minimal descriptive clauses).
