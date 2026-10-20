@@ -258,3 +258,14 @@ staged by the save script).
 - Structure repaired: the applied P183 entry and my body landed in the wrong order after the first write; the file was rebuilt with body after seed and a single merged Related section; validator ok on final.
 - In the compendium bullets cite E010, PP023, AF072, P159, P019 (titles verified via ls).
 - Reciprocals: 5 filed (The will to meaning, Meaning-making, The meaning of suffering, Purpose, Mattering — backlink absence rg-verified). No inline filed: "meaning" is too generic a phrase for single-occurrence verification across principles.
+
+## Post-traumatic growth (done 2026-10-20; takeover session item 4)
+
+- Opened: Tedeschi & Calhoun 2004, "Posttraumatic Growth: Conceptual Foundations and Empirical Evidence" (full PDF, https://ptgi.uncc.edu/wp-content/uploads/sites/9/2013/01/PTG-Conceptual-Foundtns.pdf) — definition sentence, five-domains sentence, distress-coexistence quotes ("virtually everyone reporting posttraumatic growth also acknowledges at least some distress"), all verbatim.
+- Opened: Bonanno 2004 abstract via ERIC (https://eric.ed.gov/?id=EJ684215) — the abstract's final sentence quoted verbatim; publication details (American Psychologist 59(1), 20-28) confirmed on the same page.
+- Opened: Neimeyer 2016 review (Cambridge, Australian Psychologist? journal record: "Meaning Reconstruction in the Wake of Loss: Evolution of a Research Program") — the central-proposition sentence (attributing the thesis to Neimeyer 2001), the sense-making vs benefit-finding sentence, and the unsought-growth wording, all verbatim from the PDF.
+- NOT opened: the Neimeyer 2001 book itself (APA PsycNet PDF robot-blocked; JSTOR paywalled) — the inherited facet bullet "narrative — Neimeyer, 2001" kept as inherited; the body grounds the narrative strand in the opened 2016 restatement instead. Tedeschi & Calhoun 1996 PTGI paper NOT opened (Wiley paywalled); its five factors are quoted via the opened 2004 paper's restatement.
+- Seed line, Facets, existing Related bullets, both Cited-in sections preserved verbatim.
+- In the compendium bullets cite PP047, E064, B180, A028, S092, E091 (titles verified via ls).
+- Reciprocals: 3 filed (Tragic optimism, Resilience, Stress-related growth — backlink absence rg-verified). No inline filed: "post-traumatic growth"/"PTG" occurrences in principles are either already linked or in protected statements; the term is too study-specific for a safe single-occurrence inline.
+- Validator on final: ok.
