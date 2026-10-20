@@ -16,7 +16,7 @@ The construct behind this principle is dispositional authenticity as measured by
 
 > "Scales were designed to measure a tripartite conception of authenticity, comprising self-alienation, authentic living, and accepting external influence, which was supported with exploratory factor analysis." (Wood, Linley, Maltby, Baliousis & Joseph, "The Authentic Personality", Journal of Counseling Psychology 55, 2008, abstract)
 
-The same abstract reports that "each subscale was strongly related to self-esteem and aspects of both subjective and psychological well-being", and calls the article "the first direct test of several theoretical models that view authenticity as integral to well-being". The compendium's suggested application is to examine where a choice reflects a value you endorse and where it reflects pressure to satisfy someone else's expectations.
+The same abstract reports: "Each subscale was strongly related to self-esteem and aspects of both subjective and psychological well-being", and calls the article "the first direct test of several theoretical models that view authenticity as integral to well-being". The compendium's suggested application is to examine where a choice reflects a value you endorse and where it reflects pressure to satisfy someone else's expectations.
 
 **Plain words**
 Try a decision audit: write down what you want to do, the value behind that choice, and the response you expect from other people. Where do those reasons agree, and where do they pull apart?
