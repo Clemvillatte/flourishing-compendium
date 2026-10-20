@@ -12,19 +12,19 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 142** — Notice how attachment to views breeds conflict
 
-The Madhupindika Sutta traces the mechanism step by step. A feeling arises, gets labeled, gets thought about, and gets objectified; based on that objectification, "the perceptions & categories of objectification assail" a person, and among what follows are "the obsessions of views" (MN 18, Thanissaro translation, [Access to Insight](https://accesstoinsight.org/tipitaka/mn/mn.018.than.html)). The sutta names what ends when "there is nothing there to relish, welcome, or remain fastened to":
+In MN 18, the Buddha connects the ending of "the obsessions of views" and quarrels with having nothing to "relish, welcome, or remain fastened to" in the process he describes ([MN 18](https://accesstoinsight.org/tipitaka/mn/mn.018.than.html)):
 
 > "That is the end of taking up rods & bladed weapons, of arguments, quarrels, disputes, accusations, divisive tale-bearing, & false speech. That is where these evil, unskillful things cease without remainder." (MN 18, Thanissaro translation, [Access to Insight](https://accesstoinsight.org/tipitaka/mn/mn.018.than.html))
 
-The sutta was spoken to monks and states its result for one who does not relish or remain fastened; it does not promise that lightly held views will soften any particular argument. The exercise the compendium takes is to catch the chain in the act: in one live disagreement, track which part of the position is information and which part is the self riding on it.
+Maha Kaccana's explanation moves through feeling, perception, thinking, and objectification, followed by perceptions and categories that assail a person ([MN 18](https://accesstoinsight.org/tipitaka/mn/mn.018.than.html)). The Dhammapada verse the seed's citation can also be read as, verse 6, settles quarrels by a different route: "There are those who do not realize that one day we all must die. But those who do realize this settle their quarrels" (Dhp 6, Buddharakkhita, [Access to Insight](https://accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html)). The compendium proposes examining one disagreement for what you have added to the other person's words. This is an application of the passage, not a claim that every argument has the same cause.
 
 ### Plain words
 
-Watch a disagreement for the moment the topic stops mattering and the self starts mattering. The sutta's chain ends at objectification: a thought becomes a thing, and you defend the thing the way you would defend your body. The view is not the danger; the fastening is.
+Keep track of the claim you are disputing. Before answering, try stating it in terms the other person would recognize. Separate their stated reason from your guess about their motives. You can object firmly without treating the disagreement as proof of what kind of person they are.
 
 ### For example
 
-Take a family dinner that ignites over politics. At the moment it ignites, nobody is weighing policy; each side is defending its standing in the room. The exercise is to notice that switch as it happens. The dinner may still burn; the mechanism is now visible.
+Imagine a political disagreement at dinner. Before replying, summarize the policy concern you heard and ask whether you understood it. Then explain your objection. The conversation may remain difficult; the exercise is simply to distinguish the stated disagreement from what you have inferred.
 
 ## Psychology parallels
 
