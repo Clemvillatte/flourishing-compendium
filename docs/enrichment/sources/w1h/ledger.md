@@ -416,3 +416,14 @@
   chapter NOT opened; recorded as the seed's citation only. Broken "Facets"
   seed artifact (facet names "research" / "and meaning", no links) removed;
   no wikilinks lost (validator-checked vs pre-item baseline).
+
+## Narrative as meaning-making (fast-track)
+- Opened: SEP "Paul Ricoeur" (Pellauer and Dauenhauer) — narrative-discourse
+  passages quoted verbatim (practical-sense sentence, configures sentence,
+  discordant-concordance fragment, narrative-identity "who?" sentence), all
+  from sections 4-5 of the entry. Ricoeur's Time and Narrative volumes NOT
+  opened (not in owner library); entry is the citable secondary carrier,
+  provenance disclosed on the page. Related concepts: Emplotment (mise en
+  intrigue), Meaning-making, Life story model — descriptive clauses only.
+  Original section layout preserved (bare links after Sources; philosophy
+  parallels section as found).
