@@ -37,10 +37,10 @@
   "Relational Developmental Systems Theory",
   "Schadenfreude's relational costs",
   "Self-Completion Theory",
-  "Temporal dynamics of regulation",
   "Risk perception",
   "Self-overcoming",
-  "Social capital theory Putnam"
+  "Social capital theory Putnam",
+  "Temporal dynamics of regulation"
  ],
  "in_progress": null,
  "flagged": {
@@ -75,11 +75,11 @@
   "Self-Completion Theory": "Reopened for QC: QC round 5: uncited examples sentence; postulate link; Introduction not review; compendium file links",
   "Self-overcoming": "Reopened for QC: QC round 6: compendium paragraph to single cited sentence",
   "Social capital theory Putnam": "Reopened for QC: QC round 6: fix unapplied edit",
-  "Temporal dynamics of regulation": "Reopened for QC: QC round 5: uncited sentence; shorthand sentence; -ing rider; compendium file links",
+  "Temporal dynamics of regulation": "Reopened for QC: QC round 6: two attribution gaps",
   "Risk perception": "Reopened for QC: QC round 5: uncited framing sentence; true baseline pinned"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T12:21:57+00:00",
+ "updated": "2026-10-20T12:22:02+00:00",
  "band_done": false
 }

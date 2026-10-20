@@ -7,7 +7,7 @@ file: "Temporal dynamics of regulation"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-reappraisal is more effective when applied early; suppression is more necessary when applied late (Sheppes & Gross, 2012). That is the seed's legacy formulation. The opened chapter does not itself describe suppression as "more necessary"; its findings are below.
+reappraisal is more effective when applied early; suppression is more necessary when applied late (Sheppes & Gross, 2012). That is the seed's legacy formulation. The opened chapter does not itself describe suppression as "more necessary"; its findings are below ([Sheppes & Gross, 2012](https://people.socsci.tau.ac.il/mu/galsheppes/files/2016/11/Sheppes-Gross-2012.pdf)).
 
 ## What the chapter argues
 
@@ -24,7 +24,7 @@ The second comparison is between intensities, and it complicates the first. Here
 
 ## In the compendium
 
-The principle [AF031](../principles/AF031%20%E2%80%94%20Regulate%20early%2C%20not%20late%20%E2%80%94%20timing%20matters%20more%20than%20intensity.md) states the compendium's own counsel: intervening early in an emotional episode beats intervening at the peak. The "more necessary" phrasing for late suppression belongs to the seed and to that principle, and this page does not present it as a finding of the research.
+The principle [AF031](../principles/AF031%20%E2%80%94%20Regulate%20early%2C%20not%20late%20%E2%80%94%20timing%20matters%20more%20than%20intensity.md) states the compendium's own counsel: intervening early in an emotional episode beats intervening at the peak. The "more necessary" phrasing for late suppression belongs to the seed and to [that principle](../principles/AF031%20%E2%80%94%20Regulate%20early%2C%20not%20late%20%E2%80%94%20timing%20matters%20more%20than%20intensity.md), and this page does not present it as a finding of the research.
 
 The principle [AF010](../principles/AF010%20%E2%80%94%20Recognise%20that%20affect%20has%20temporal%20structure%20%E2%80%94%20intensity%2C%20duration%2C%20variability%2C%20recovery.md) supplies the frame: emotions have intensity, duration, variability and recovery.
 
