@@ -12,13 +12,13 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 108** — Transcend the strands while acting
 
-The verse the page points at lists a series of equalities and then names a person who has moved past the qualities. The list does not include anything about performing tasks under a dominant quality; that part is the compendium's application, and verse 14.25 in the same passage names abandoning undertakings, which sits in tension with scheduling work around a state.
+Bhagavad Gita 14.24 describes a person who is the same in pleasure and pain, to whom a clod of earth, stone and gold are alike, the same to the dear and the unfriendly, firm, and to whom censure and praise are as one.
 
-> "He who, seated like one unconcerned, is not moved by the qualities, and who, knowing that the qualities are active, is self-centred and moves not." (Bhagavad Gita 14.23, Sivananda translation)
+> "Who is the same in pleasure and pain, who dwells in the Self, to whom a clod of earth, a stone, and gold are all alike, who is the same to the dear and the unfriendly, who is firm, and to whom censure and praise are one and the same." ([Bhagavad Gita 14.24](https://bhagavadgita.com/chapter/14/verse/24))
 
-**Plain words** The verse's image is of someone watching qualities arrive and leave without being moved by either direction. What the page adds as an exercise is narrower: when you notice approval or disapproval arriving, consider whether the next act would look the same if obtaining the one or avoiding the other were not the aim.
+**Plain words** The verse lists things that normally move a person and says this person is not moved by any of them. A suggested application is to check, when censure or praise arrives, whether the action you were about to take would have been the same without it.
 
-*For example:* (Imagined.) Someone receives an email of praise for a piece of work. Before replying, they ask whether the reply would change if the praise had not arrived. That is the compendium's exercise, not the verse's instruction.
+*For example:* (Imagined application.) Someone receives an email of praise for a piece of work. Before replying, they consider whether the reply would have looked the same had the praise not arrived.
 ## Psychology parallels
 
 - **[[Metacognitive regulation of state|Metacognitive regulation of state]]**, the capacity to observe and shift one's own arousal and engagement (Flavell, 1979; state-matching interventions)
@@ -26,4 +26,6 @@ The verse the page points at lists a series of equalities and then names a perso
 ## Philosophy parallels
 
 - **[[Above the battle of the elements|Above the battle of the elements]]** (Emerson's "Brahma," Transcendentalist echo)
-- **[[Pu (the uncarved block)|The uncarved block]]** (Laozi, Daodejing 15)
+- **[[Pu (the uncarved block)|The uncarved block]]** (Laozi, Daodejing 15)## Sources
+
+- [Bhagavad Gita 14.24 (bhagavadgita.com)](https://bhagavadgita.com/chapter/14/verse/24)

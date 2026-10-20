@@ -12,7 +12,8 @@
   "Y115": "Reopened for QC: advisor QC round-2 fail: unverified mechanism, outcome prediction, verse overreach",
   "A009": "Reopened for QC: advisor QC round-2 fail: agathon-as-part claim unsupported, plain words overreach, locator ranges, inherited gloss",
   "Y095_supervisor": "route to supervisor: inherited claim-bearing parallels need verification (Sheeran 2002 intent-behavior gap; Socrates Protagoras Virtue-is-knowledge)",
-  "Y097_supervisor": "route to supervisor: inherited Dugas 1998 intolerance-of-uncertainty clinical claim is unverified"
+  "Y097_supervisor": "route to supervisor: inherited Dugas 1998 intolerance-of-uncertainty clinical claim is unverified",
+  "Y108_supervisor": "route to supervisor: inherited Flavell 1979 metacognitive-regulation clinical claim is unverified"
  },
  "missing_concepts": [],
  "sources_checked": 0,
