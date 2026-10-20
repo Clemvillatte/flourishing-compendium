@@ -12,17 +12,15 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BI — Biophysi
 ---
 > **Principle 27** — Learn that movement in nature is doubly beneficial
 
-"Doubly beneficial" bundles two effects, each with its own evidence. For the movement half, a pooled analysis of ten UK studies with 1252 participants found green exercise improved self-esteem (d = 0.46) and mood (d = 0.54), with the largest gains from short engagements and greater effects when water was present ([Barton & Pretty, 2010](https://repository.essex.ac.uk/683/)). For the comparison with indoor exercise, a systematic review found lower anger, fatigue and sadness after activity in natural environments than in synthetic ones, though its authors called the overall evidence suggestive rather than settled ([Bowler et al., 2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC2924288/)).
-
-For the nature half, a controlled experiment found that a 90-minute walk through a natural setting decreased self-reported rumination and subgenual prefrontal cortex activity, while the same-length walk through an urban setting did not ([Bratman et al., 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC4507237/)):
+"Doubly beneficial" bundles two bodies of evidence, and neither study adds the two together. A pooled analysis of ten UK studies with 1252 participants found that green exercise improved self-esteem (d = 0.46) and mood (d = 0.54), with large benefits from short engagements and greater effects when water was present ([Barton & Pretty, 2010](https://repository.essex.ac.uk/683/)). A systematic review found lower anger, fatigue and sadness after activity in natural environments than in synthetic ones, though its authors called the overall evidence suggestive rather than settled ([Bowler et al., 2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC2924288/)). And a controlled experiment, with walking in both conditions, found that a 90-minute walk through a natural setting decreased self-reported rumination and subgenual prefrontal cortex activity, while the same-length walk through an urban setting did not ([Bratman et al., 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC4507237/)):
 
 > "We show in healthy participants that a brief nature experience, a 90-min walk in a natural setting, decreases both self-reported rumination and neural activity in the subgenual prefrontal cortex (sgPFC), whereas a 90-min walk in an urban setting has no such effects on self-reported rumination or neural activity." (Abstract; Bratman et al., 2015, PNAS 112(28): 8567-72, [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4507237/))
 
 **Plain words**
-A workout outdoors tends to collect two payoffs in one outing. The movement lifts mood and self-esteem, and the outdoor studies found the biggest jumps came from short sessions, so no epic is required. The greenery side shows up in the brooding mind: after a walk through natural surroundings the rumination registers lower, and after the same walk through a city it does not. The indoor comparison is promising but less settled than the two halves on their own.
+A workout outdoors comes with two lines of evidence attached, and no study adds them together. Outdoor activity itself improved mood and self-esteem in the pooled studies, with large benefits from short engagements. Natural settings beat synthetic ones on negative emotions in the review, though the reviewers themselves called that evidence suggestive. The rumination experiment sent walkers through both a natural and an urban route and found the brooding dropped only after the natural one. The "doubly" is a reading, not a measurement.
 
 **For example**
-*(imagined)* Two colleagues take the same 30-minute lunchtime walk, one along a canal path, one through a car park and arcade. The legs do identical work; the canal walker comes back with the afternoon's problem having loosened, the other comes back with it rehearsed.
+(Imagined) Two colleagues take the same 30-minute lunchtime walk, one along a canal path, one through a car park and arcade. The legs do identical work; each can notice what the afternoon's mood does afterward.
 
 ## Sources
 
@@ -32,8 +30,8 @@ A workout outdoors tends to collect two payoffs in one outing. The movement lift
 
 ## Psychology parallels
 
-- **[[Green exercise (Barton, Pretty)|Green exercise (Barton, Pretty)]]**, exercise in nature produces greater improvements in mood and self-esteem than indoor exercise (Barton & Pretty, 2010; Pretty et al., 2005)
-- **Nature and exercise combined**, the combination produces additive or synergistic benefits (Barton & Pretty, 2010; Bratman et al., 2015)
+- **[[Green exercise (Barton, Pretty)|Green exercise (Barton, Pretty)]]**, green exercise improved self-esteem and mood in a pooled analysis of ten UK studies (Barton & Pretty, 2010)
+- **Nature and exercise combined**, outdoor activity and mood have been studied together as green exercise (Barton & Pretty, 2010; Bratman et al., 2015)
 
 ## Philosophy parallels
 
@@ -43,4 +41,4 @@ A workout outdoors tends to collect two payoffs in one outing. The movement lift
 
 ## Practice
 
-- Exercise in nature: walk, run, or cycle in parks, forests, or by water. The combination of movement and nature is more restorative than either alone.
+- Exercise in nature: walk, run, or cycle in parks, forests, or by water. The pooled studies found benefits from short engagements, and the natural-versus-synthetic comparison is suggestive rather than settled.

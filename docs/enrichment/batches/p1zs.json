@@ -2,17 +2,21 @@
  "batch": "p1zs",
  "done": [
   "BI020",
+  "BI037",
   "BI023",
   "BI027",
-  "BI035",
-  "BI037"
+  "BI035"
  ],
  "in_progress": null,
  "flagged": {
-  "BI020": "Reopened for QC: QC correction: advisor round-1 repairs (invented curve/mechanism, plain-words guarantee, example outcomes, inherited overclaims)"
+  "BI020": "Reopened for QC: QC correction: advisor round-1 repairs (invented curve/mechanism, plain-words guarantee, example outcomes, inherited overclaims)",
+  "BI037": "Reopened for QC: milestone QC round-1 repairs (advisor-designed)",
+  "BI023": "Reopened for QC: milestone QC repairs",
+  "BI027": "Reopened for QC: milestone QC repairs",
+  "BI035": "Reopened for QC: milestone QC repairs"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:33:45+00:00",
+ "updated": "2026-10-20T11:39:59+00:00",
  "band_done": false
 }
