@@ -8,13 +8,13 @@ tags: ["psych/biophys", "theory"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-BIOPHYS"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter A", "parent": ""}
 ---
-The autonomic nervous system (ANS) is the part of the peripheral nervous system that regulates involuntary physiological processes: heart rate, blood pressure, respiration, digestion and sexual arousal. Its sympathetic and parasympathetic divisions generally work in opposite directions on the same organs. Sympathetic activation raises arousal: heart rate and blood pressure increase, glycogenolysis is stimulated, and gastrointestinal peristalsis is inhibited. The parasympathetic division favors restoration: it slows and modulates heart rate and restores gastrointestinal peristalsis and digestion.
+The autonomic nervous system (ANS) is the part of the peripheral nervous system that regulates involuntary physiological processes: heart rate, blood pressure, respiration, digestion and sexual arousal. The reference identifies sympathetic, parasympathetic and enteric divisions. Its sympathetic description includes increased heart rate and blood pressure and reduced intestinal movement; its parasympathetic description includes regulation of heart rate and support for digestion.
 
 > "Activation of the SNS induces a state of heightened activity and alertness, commonly referred to as the \"fight or flight\" response." (Waxenbaum, Reddy and Das, [Anatomy, Autonomic Nervous System](https://www.ncbi.nlm.nih.gov/books/NBK539845/), StatPearls)
 
 ### The two branches
 
-The same source pairs this with the parasympathetic side's "rest and digest" processes, which support homeostasis: heart rate and atrioventricular conduction are moderated, and digestion is restored. The ANS also has a third, enteric division; the two branches this page tracks are the sympathetic and parasympathetic ones. The compendium's principles use the breath as the entry point to this system: one titles slow breathing a direct autonomic regulator, and another records slow-paced breathing at five to six breaths per minute.
+The same source pairs this with the parasympathetic side's "rest and digest" processes, which support homeostasis. The two branches this page tracks are the sympathetic and parasympathetic ones. The compendium's principles use the breath as the entry point to this system: one titles slow breathing a direct autonomic regulator, and another records slow-paced breathing at five to six breaths per minute.
 
 ### In the compendium
 
@@ -23,12 +23,12 @@ The same source pairs this with the parasympathetic side's "rest and digest" pro
 - [[BI061 — Learn to use breath as the master regulator — many techniques]] — many breath techniques on the same system
 - [[Y047 — Regulate the breath deliberately]] and [[AT049 — Learn to use breath as an attentional anchor — always available, always stabilising]] — deliberate breath work for regulation and attention
 - [[BI010 — Recognise that the body can be used to regulate the mind — bottom-up regulation]] — the body-first direction of regulation
-- [[B094 — Cultivate tranquility (passaddhi)]] — the trained rest side
+- [[B094 — Cultivate tranquility (passaddhi)]] — tranquility as something cultivated
 - [[BE048 — Learn to use the dive reflex — cold water for acute distress]] — a body reflex used in acute distress
 
 ## Related concepts
 
-- [[Parasympathetic activation]] — the restoration branch's activity as the compendium measures it
+- [[Parasympathetic activation]] — the parasympathetic branch's activation
 - [[Slow-paced breathing]] — the breath practice the compendium treats as a direct autonomic regulator
 - [[Progressive muscle relaxation (Jacobson)]] — the other body-based regulation practice in this neighbourhood
 
