@@ -12,13 +12,13 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 97** — Keep the question alive
 
-The tradition's inquiry is not designed to terminate in an answer that closes it; the questions ("who is aware?", "what is this?") are described as the practice itself, kept alive rather than answered. Closing the question re-inflates the self that holds the answer. Practically, carry one open question as you would carry a koan, and resist the first answer that flatters you.
+The tradition's inquiry is not designed to terminate in an answer that closes it; the questions ("who is aware?", "what is this?") are described as the practice itself, kept alive rather than answered. Closing the question re-inflates the self that holds the answer. The path that runs through such questions is deliberately difficult — the razor's edge is the metaphor the text itself uses.
 
-(Katha's "the sharp path"; Zen's live question.)
+> "Arise! Awake! Approach the great and learn. Like the sharp edge of a razor is that path, so the wise say—hard to tread and difficult to cross." (Katha Upanishad 1.3.14)
 
-**Plain words** The inquiry is not designed to terminate in an answer that closes it — "who is aware?" is the practice itself, kept alive rather than answered. Closing the question re-inflates the self that holds the answer. Carry the question; let it work.
+**Plain words** A settled answer feels like an arrival and acts like a closing. The moment the question shuts, the self that owns the answer has nothing left to press against — and the inquiry stalls there. Practically, choose one question that bothers you and refuse to settle it into a conclusion; let it re-open every time a new experience pushes against your earlier reading.
 
-*For example:* Someone gets the "answer" in a retreat and spends two years defending it — versus the one who keeps the question running quietly in the background of every experience. The second one is still practicing; the first one is still defending.
+*For example:* Someone gets the "answer" in a retreat and spends two years defending it. The other keeps the same question running in the background and keeps re-asking it when their belief stops matching what actually happened. The second one is still practicing; the first one is still defending.
 ## Psychology parallels
 
 - **[[Intolerance of uncertainty]]**, the clinical literature (Dugas et al., 1998; uncertainty-tolerance research)
