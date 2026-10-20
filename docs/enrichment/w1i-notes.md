@@ -69,6 +69,20 @@ checks and per-item saves. A mistaken next-item state label “Social intuitioni
 was corrected to the actual manifest “Social cognitive theory of morality”
 before any authoring; no nonexistent concept or out-of-band file was created.
 
+## Principle-priority handback after fifteen items
+
+The supervisor minted p1x/p1y/p1z while work was underway; p1y was still unowned.
+This session claimed p1y as worker-p1y-19c575e9 and released w1i after 15 completed,
+pushed entries. State-started System justification theory has no body edits and
+no opened sources yet. Its search identified Jost/Banaji/Nosek's 2004 review and
+published theoretical objections, but those are research leads, not evidence.
+Next worker can resume that item without recovering any local draft.
+
+Milestone-fifteen advisor review covers entries 11–15 and is still in flight.
+Any findings after release must be passed to supervisor/current w1i owner rather
+than editing across a live baton. Attribution/title proposal for stress-cycle
+entry remains in w1i-proposals.md; protected identifiers were never changed.
+
 ## Research prepared for next entries
 
 These sources were opened, but no subsequent content item has been started:
