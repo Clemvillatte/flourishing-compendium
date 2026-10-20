@@ -12,21 +12,19 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BE — Overt Be
 ---
 > **Principle 25** — Recognise avoidance as the core maintaining factor of anxiety and fear
 
-Modern exposure therapy frames the maintaining role of avoidance in learning terms. In the inhibitory-learning model, fear associations are not erased; new learning competes with them, and for that new learning to form, the expected bad outcome has to be tested and fail to arrive. Avoidance — and its subtler cousins, safety signals and safety behaviors — keeps the test from ever running.
+In their inhibitory-learning account of exposure therapy, Craske and colleagues describe how avoidance can interfere with learning about a feared outcome. ([Craske et al., 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4114726/))
 
-> "Exposure therapy, or repeated approach toward fear provoking stimuli, has been a mainstay of cognitive behavioral therapy for anxiety disorders since its inception." (Craske, Treanor, Conway, Zbozinek & Vervliet, "Maximizing Exposure Therapy: An Inhibitory Learning Approach", Behaviour Research and Therapy 58, 2014, opening section, [author manuscript via PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4114726/))
-
-The model treats the small comforts of avoidance as part of the problem:
-
-> "A fourth strategy is the prevention or removal of 'safety signals' or 'safety behaviors.' Common safety signals and behaviors for clients with anxiety are the presence of another person, therapists, cell phones, medications, or food or drink." (Craske et al., 2014, "Removal of Safety Signals" section, [author manuscript via PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4114726/))
-
-In the paper's own case descriptions, the first session of treatment covers "how avoidance prevents extinction learning" and how avoidance interferes with new learning by preventing any violation in expectancy ([author manuscript via PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4114726/)). The immediate relief of dodging the thing is real; the cost is that the prediction never gets tested.
+> "how avoidance and safety behaviors can interfere with exposure by preventing violation in expectancy"
+>
+> — Craske et al. (2014), Julia case illustration, Session 1. ([Author manuscript](https://pmc.ncbi.nlm.nih.gov/articles/PMC4114726/))
 
 **Plain words**
-Fear is a prediction: this thing will hurt me. Relief from dodging the thing feels like the prediction was right. The only thing that updates a prediction is going and finding out. Every dodge delays the finding-out, and the fear keeps its clean record.
+
+Avoiding a situation because you expect something bad to happen can leave that expectation untested. ([Craske et al., 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4114726/)) Exposure provides opportunities to compare a feared prediction with what happens. ([Craske et al., 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4114726/))
 
 **For example**
-Skipping every social event to keep the peace. The peace holds, and the guest list shrinks. Each absence lets the prediction stand untested: people are dangerous, and the evidence never comes in.
+
+Suppose someone stays silent at a routine meeting because they expect ridicule for asking a question. A possible test would be to ask one question and compare the expected response with the response they receive.
 
 ## Sources
 
