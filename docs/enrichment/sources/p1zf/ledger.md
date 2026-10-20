@@ -80,3 +80,7 @@
 ## MO005 — Temporal motivation
 - Sources opened: Steel & König 2006 (abstract); Steel, Svartdal, Thundiyil & Brothen 2018 Front Psychol 9:327 (PMID 29666590, abstract, verbatim fragments).
 - Frederick et al. 2002 and Sirois & Pychyl 2013 not opened; bullet wording changed, marked unverified. "Universal" procrastination softened. Pension example reframed as imagined.
+
+## MO006 — Wanting vs liking
+- Sources opened: Berridge & Robinson 2016 Am Psychol 71:670-679 (PMID 27977239, abstract, verbatim); Schultz, Dayan & Montague 1997 Science 275:1593-1599 (PMID 9054347, abstract).
+- Corrections: "opioids mediate liking" not stated in the abstract, flagged; liking is "not dependent on dopamine". Berridge 2009 and Schultz 2016 not opened. Schopenhauer, Dhammapada, Mill bullets inherited, unverified. "Explains many puzzles / breaks half your worst habits" claims removed.
