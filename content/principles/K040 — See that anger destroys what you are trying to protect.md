@@ -12,17 +12,25 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 40** — See that anger destroys what you are trying to protect
 
-Shantideva's summary of anger's economics: no evil is comparable to anger, no austerity comparable to patience, and one flare of rage can destroy the merit of a thousand kindnesses, the way one fire takes a forest. The argument is not moral but prudential: anger is the single most expensive affect in the human repertoire relative to what it obtains. Practically, before letting anger run a situation, price the blast radius honestly: relationships, reputation, sleep, weeks of repair.
+Shantideva devotes the sixth chapter of the Bodhicharyavatara to forbearance (kshanti) and its opposite, which he names hatred. The chapter opens with a ledger: worship of the Sugatas, generosity and good conduct amassed over thousands of aeons are what hatred destroys. The next verses itemise what a hateful person loses hold of: peace, sleep and joy, the loyalty of dependants, and friends who shrink from him even though he gives. Later in the chapter comes the simile this principle leans on: a house fire, with people dragging away everything that could carry the flames to the next house.
 
-(Shantideva, Bodhicharyavatara, ch. 6.)
+> This worship of the Sugatas, generosity, and good conduct performed throughout thousands of aeons - hatred destroys it all.
+> (Bodhicharyavatara 6.1, trans. Crosby and Skilton)
 
-**Plain words** Anger destroys what you're trying to protect. No evil compares to anger, no discipline to patience, and one flare can undo the merit of a thousand kindnesses, as one fire takes a forest. The argument isn't moral, it's prudential. Price the blast radius before letting anger run a situation.
+The compendium's reading: the things anger is meant to protect are the things it spends. Standing, fairness, a relationship, a family's welfare; each is drawn down to pay for the blast. Shantideva's instruction is a move anyone can make in the moment. When the mind catches alight, drag the fuel out of reach before deciding anything, because the "body of merit might go up in flames" (6.71).
 
-*For example:* A single furious email to a client undoes two years of goodwill. The cost-benefit is lopsided.
+**Plain words** List what you are protecting when anger rises: respect, a relationship, a fair outcome, someone's safety. Anger looks like the defender of those things, and it pays for the defence out of the same account. The person who shouts to be taken seriously stops being taken seriously; the parent who rages to protect the family teaches the family to keep away. The practice is simple to describe: feel the fire catch, move the fuel, and decide later.
+
+*For example:* Imagine a colleague misses a deadline that costs you a weekend. Every sentence of the furious email you draft may be accurate, and the working relationship still pays for it; the person you need reliable next month starts routing around you.
+
+## Sources
+
+- [Shantideva, Bodhicharyavatara ch. 6 (Patience), trans. Kate Crosby and Andrew Skilton, in the Triratna study text Cultivating the Heart of Patience](https://thebuddhistcentre.com/system/files/groups/files/bodhicaryavatara_-_chapter_on_patience.pdf) — vv. 1, 3, 5, 70-71
+- [Chida and Steptoe, The Association of Anger and Hostility With Future Coronary Heart Disease, JACC 2009](https://www.jacc.org/doi/10.1016/j.jacc.2008.11.044) — 25 + 19 prospective studies, HR 1.19 healthy / 1.24 existing CHD
 
 ## Psychology parallels
 
-- **Anger's costs in health and relationship outcomes**, the cardiovascular and relational research (Novaco's research; Gottman's conflict findings as neighbors)
+- **Anger's costs in health and relationship outcomes** (prospective meta-analysis associates anger and hostility with coronary heart disease events; couples research links contemptuous, physiologically flooded conflict to relationship breakdown)
 
 ## Philosophy parallels
 
