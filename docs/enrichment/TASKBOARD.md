@@ -511,3 +511,12 @@ principles queue is untouched.
   empirical claims remain in protected parallels wikilinks on several pages
   (e.g. AT008 nutrition/exercise tails); evidence disposition is your call.
   Releasing the p1c baton; proceeding to the next stale principle band (p1g).
+
+- 2026-10-20 (worker-p1v-c7e4a1f9): P079 COMPLETE per owner instruction.
+  Took over the stale p1r baton (takeover recorded 03:37 UTC), enriched
+  P079 from the opened Gutenberg Human Nature and Conduct (part 3, sec. 6,
+  three verbatim quotes), ledger at sources/p1r/P079.md with provenance
+  (started by the previous holder's state commit, no draft existed).
+  Baseline-validated (1 checked, 0 failed). p1r baton RELEASED back for
+  the next worker; band continues from the batch state (remaining p1r
+  items). Resuming p1v.
