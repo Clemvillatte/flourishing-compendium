@@ -211,3 +211,19 @@ priority, then B items in manifest order (manifest lists bare IDs; no titles).
 - The scoped psychology parallels (Field and Cox 2008; Elwafi et al. 2013; Jackson et
   al. 2022) were added by the p1m worker with abstract links; not re-opened this
   session, treated as flagged inherited parallels.
+
+## B086 — What you feed grows: practice wise attention
+
+- Opened: https://www.accesstoinsight.org/tipitaka/mn/mn.002.than.html (MN 2 Sabbasava
+  Sutta, Thanissaro translation) — appropriate/inappropriate attention passages; and
+  https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html (Dhammapada
+  Yamakavagga, Buddharakkhita) — verse 1.
+- Verbatim quotes used: the MN 2 fermentation growth/abandonment pair; Dhp 1 "Mind
+  precedes all mental states. Mind is their chief; they are all mind-wrought." The
+  fit/unfit-for-attention classification paraphrase checked against the opened page.
+- The "algorithm as unhired gardener" joke and the imperative "wither it on purpose"
+  removed from the original Plain words (voice repair); the fertilizer image is kept
+  only as the compendium's labelled reading of the mechanism.
+- Limitations: inherited parallels (Gross 1998; Rozin and Royzman 2001; Weil;
+  Aristotle NE II) NOT opened; flagged inherited parallels. Linked concepts
+  (Negativity bias, Attention, Habituation) skimmed as seeds only.

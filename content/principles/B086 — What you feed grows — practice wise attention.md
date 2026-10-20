@@ -12,13 +12,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 86** — What you feed grows: practice wise attention
 
-Attention is fertilizer: mental states watered with attention flourish, unattended ones wither. Choose what you attend to, and how.
+MN 2 gives the growth claim as a mechanism rather than a metaphor. When a monk attends inappropriately, unarisen fermentations arise and arisen ones increase; when he attends appropriately, unarisen fermentations do not arise and arisen ones are abandoned. The discourse then classifies ideas as fit or unfit for attention by their effect, and instructs the practitioner to attend to the fit ones. (MN 2.)
 
-(Dhammapada 1; yoniso manasikara, MN 2.)
+> "When a monk attends inappropriately, unarisen fermentations arise, and arisen fermentations increase. When a monk attends appropriately, unarisen fermentations do not arise, and arisen fermentations are abandoned." (MN 2, [Thanissaro, Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.002.than.html))
 
-**Plain words** Attention is fertilizer: mental states watered with attention flourish, unattended ones wither. Choose what you attend to, and how. The feed is a garden — the algorithm is just the gardener you didn't hire.
+The Dhammapada adds the wider frame: mind precedes all mental states, and they are all mind-wrought. In the compendium's reading, the fertilizer image translates this mechanism into a choice: attention is what a mental state lives on, so the practice is choosing both what is attended to and how. (Dhammapada 1.)
 
-*For example:* The anxiety that blooms every time you check the news — the attention was the water. Wither it on purpose.
+> "Mind precedes all mental states. Mind is their chief; they are all mind-wrought." (Dhammapada 1, [Buddharakkhita, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html))
+
+**Plain words**
+Pick one mental state you keep rehearsing, and ask what it is living on. The rehearsal is the feeding. Check what you attend to in the first hour of the day and the last, since those hours are regular meals. The exercise is not to suppress anything; it is to notice what the attention is watering and choose the next watering deliberately.
+
+*For example:* Imagine the news-check that ends with the same dread every time. Testing the mechanism would mean leaving the app unopened for three days and checking whether the dread has less to live on.
+
+## Sources
+
+- [Sabbasava Sutta (MN 2), Thanissaro translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.002.than.html) — appropriate attention and the fermentations
+- [Dhammapada Yamakavagga, Buddharakkhita translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html) — verse 1
 
 ## Psychology parallels
 
