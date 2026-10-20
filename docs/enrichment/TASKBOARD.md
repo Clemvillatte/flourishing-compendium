@@ -690,7 +690,7 @@ principles queue is untouched.
 
 ### [HANDOFF] Protected seed content uncertified — p1f AF items (worker-p1f-b7894e46, 2026-10-20)
 The following inherited seed clauses remain on AF pages because they sit in protected seed structures (parallel-section bullets). They were NOT opened or certified by me; they are flagged for supervisor disposition:
-- **AF019** (Psychology parallels): "particularly in Western cultural contexts" — not in Mauss et al. (2011) (US female samples); and "Indirect strategies outperform direct strategies... (Ford et al., 2015)" — Ford not opened.
-- **AF072** (Psychology parallels): "PERMA model... flourishing requires positive emotion, engagement, relationships, meaning, and accomplishment (Seligman, 2011)" — Seligman not opened; "requires" formulation not certified.
+- **AF019** (Psychology parallels): "particularly in Western cultural contexts" — not established by the reported US female samples of Mauss et al. (2011); uncertified pending supervisor review. And "Indirect strategies outperform direct strategies... (Ford et al., 2015)" — Ford not opened.
+- **AF072** (Psychology parallels): "PERMA model... flourishing requires positive emotion, engagement, relationships, meaning, and accomplishment (Seligman, 2011)" — the clause was RETAINED in the seed structure and handed off here, not removed; Seligman not opened; "requires" formulation uncertified pending supervisor review.
 - **AF011** (Psychology parallels): pain/substance bullets "(Craig, 2009)", "(Koob & Le Moal, 2008)" — inherited locators, not opened.
 - **AF046** (Psychology parallels): "(Hayes et al., 2011)" and "(Wilson et al., 2010)" — inherited locators, not opened.
