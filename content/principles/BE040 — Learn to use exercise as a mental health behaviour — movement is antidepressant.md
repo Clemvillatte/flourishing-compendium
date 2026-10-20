@@ -27,10 +27,10 @@ The trial's own summary of the comparison:
 > "The efficacy of exercise in patients seems generally comparable with patients receiving antidepressant medication and both tend to be better than the placebo in patients with MDD." (Blumenthal et al., 2007, [via PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC2702700/))
 
 **Plain words**
-Two arms of evidence. People who move more are less likely to develop depression in the first place. When depression is already there, structured exercise held its own against an antidepressant pill in one randomized trial.
+Two arms of evidence. People who move more are less likely to develop depression in the first place. One randomized trial compared structured exercise, sertraline and placebo over 16 weeks in adults with major depression. Its observed remission percentages do not establish that exercise and medication are equivalent. ([Blumenthal et al., 2007](https://pmc.ncbi.nlm.nih.gov/articles/PMC2702700/))
 
 **For example**
-The GP who writes "brisk walk, 30 minutes, most days" on the pad next to the medication option for mild-to-moderate depression. The trial remission numbers were close enough that either line makes sense.
+Suppose someone with depression asks their clinician whether a structured exercise programme could form part of their care. They discuss it alongside the other treatment options.
 
 ## Sources
 
