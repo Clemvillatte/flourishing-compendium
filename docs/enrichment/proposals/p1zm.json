@@ -1,6 +1,6 @@
 {
   "batch": "p1zm",
-  "revision": 12,
+  "revision": 13,
   "records": [
     {
       "action": "reciprocal",
@@ -70,7 +70,7 @@
       "into": "Manaakitanga",
       "link": "R027",
       "why": "Mead's Tikanga Māori places manaakitanga under all tikanga — nurturing relationships, looking after people, and being very careful about how others are treated",
-      "notes": "R027 links [[Manaakitanga]] in its philosophy parallels; the concept's cited-in philosophy parallels section is empty; why clause grounded in the opened Treasury He Ara Waiora carrier of Mead 2003 p. 29"
+      "notes": "R027 links [[Manaakitanga]] in its philosophy parallels; the concept's cited-in philosophy parallels section is empty; why clause grounded in the Treasury He Ara Waiora carrier of Mead's Tikanga Māori (revised ed. 2016, p. 378 per the carrier's footnote 59)"
     }
   ]
 }
