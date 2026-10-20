@@ -5,9 +5,10 @@
  ],
  "in_progress": null,
  "flagged": {
-  "Non-attachment": "possible duplicate of existing concept [[Nonattachment]] (deg 13, already enriched; my page cross-links it and keeps the Buddhist-tradition reading); supervisor disposition requested (merge candidate, like Character-as-habits precedent)"
+  "Non-attachment": "Reopened for QC: advisor QC round 1: repairs applied (causal-chain paraphrase removed; attachment-theory distinction softened to abstract wording; unverified Facets associations removed; CO031 gloss grounded in its own body; duplicate-page division removed, bare link)"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T06:14:58+00:00"
+ "updated": "2026-10-20T06:17:13+00:00",
+ "band_done": false
 }
