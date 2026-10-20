@@ -250,3 +250,31 @@
   1998, Bergson attribution tails reduced to bare wikilinks (unopened);
   Whitehead PR attribution kept (opened this session). Validator ok
   before done.
+
+### Item-10 milestone QC round (advisor, 2026-10-20)
+- P099 REPAIRED per advisor's bounded replacement: automatic-forecasting
+  claims removed (forecasting all day / braced / dread=deliberation); dental
+  example replaced with the missed-deadline imagined exercise; rehearsal
+  quote fixed to the complete sentence with 'We begin with a summary
+  assertion that deliberation is a dramatic rehearsal...'; the p. 20
+  'definiteness of the expectation' passage dropped from the page (the
+  argument did not need it; [Pg 20] locator not established for the
+  claimed fragment). Done marker re-established after repair + validation.
+- P074 REPAIRED: 'raw material is fixed' and 'cannot be deleted' /
+  'energy stays' claims replaced with Dewey's flexible-starting-points
+  attribution; Plain words rebuilt around the outlets-and-inhibitions
+  passage (grounded); mountain-bike example replaced with an imagined
+  observation exercise (no predicted-outcome claim).
+- P084 REPAIRED: 'Dewey generalizes the point' -> 'offers a related
+  account'; the lying-scenario application now labelled as the
+  compendium's analogy, not Aristotle's prescribed answer.
+- P095 REPAIRED: Whitehead locator verified as Part V, Ch. II ('God and
+  the World') from the chapter headings before the passage; metaphysical
+  claims explicitly attributed ('On Whitehead's account'); 'surprise means
+  a plan is working' advice removed.
+- P050 REPAIRED: psychology-parallel label compressed to the bare linked
+  concept (the 'intuition valid in high-validity environments' wording
+  compressed conditions into a guarantee).
+- Note: the advisor treats applied repairs as pending a further review
+  (an applied repair is not an affirmative acceptance); items 6-10 to be
+  re-reviewed at the item-15 milestone. All five files validate ok.

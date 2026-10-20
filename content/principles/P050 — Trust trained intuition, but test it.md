@@ -42,7 +42,7 @@ Imagine an experienced chess player immediately favouring a move. For this exerc
 
 ## Psychology parallels
 
-- **[[Intuitive expertise|Heuristics and expertise]]**, intuition valid in high-validity environments with feedback (Kahneman and Klein, 2009)
+- **[[Intuitive expertise|Heuristics and expertise]]**
 
 ## Philosophy parallels
 

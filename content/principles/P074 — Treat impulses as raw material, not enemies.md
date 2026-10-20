@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 74** — Treat impulses as raw material, not enemies
 
-Dewey's argument in Human Nature and Conduct is that native tendencies cannot be subtracted from a person, only organized. "War would not be possible without anger, pugnacity, rivalry, self-display, and such like native tendencies," and "native human nature supplies the raw materials, but custom furnishes the machinery and the designs" ([Human Nature and Conduct, 1922](https://www.gutenberg.org/files/41386/41386-h/41386-h.htm), p. 110). The raw material is fixed; what gets built with it is not.
+Dewey's argument in Human Nature and Conduct is that native tendencies cannot be subtracted from a person, only organized. "War would not be possible without anger, pugnacity, rivalry, self-display, and such like native tendencies," and "native human nature supplies the raw materials, but custom furnishes the machinery and the designs" ([Human Nature and Conduct, 1922](https://www.gutenberg.org/files/41386/41386-h/41386-h.htm), p. 110). Dewey describes impulses as flexible starting points whose development depends on their surroundings.
 
 His chapter on the young makes the plasticity explicit:
 
@@ -22,13 +22,13 @@ His chapter on the young makes the plasticity explicit:
 
 The fear example is his: "Fear may become abject cowardice, prudent caution, reverence for superiors or respect for equals; an agency for credulous swallowing of absurd superstitions or for wary scepticism." The outcome depends on how the impulse is interwoven with others and on "the outlets and inhibitions supplied by the social environment."
 
-Impulses are also where change comes from: "Impulses are the pivots upon which the re-organization of activities turn, they are agencies of deviation, for giving new directions to old habits and changing their quality." The compendium's rule of redirecting rather than suppressing follows from this: the energy stays either way, and the question is what it organizes.
+Impulses are also where change comes from: "Impulses are the pivots upon which the re-organization of activities turn, they are agencies of deviation, for giving new directions to old habits and changing their quality." The compendium's rule of redirecting rather than suppressing follows: the impulse is material, and the question is what organizes it.
 
 **Plain words**
-An impulse is fuel, not a verdict about you. It cannot be deleted; the same fear that makes one person cowardly makes another careful, and the same anger feeds quarrels and movements alike. What you control is the outlet: which habit the impulse gets woven into. The compendium's exercise: name one impulse you fight, and one activity that needs exactly that kind of energy.
+An impulse is not a verdict about you. In Dewey's examples, the same fear that becomes abject cowardice in one arrangement becomes prudent caution in another, and the outlets and inhibitions around an impulse decide which disposition it becomes. The compendium's exercise: name one impulse you fight, and one activity that supplies a different outlet for it.
 
 *For example:*
-Imagine the restless child who cannot sit still through a lecture. The restlessness is the raw material, and the question is the outlet. On a mountain bike it reads as talent and in a lecture hall as a discipline problem, but the impulse itself never changed.
+Imagine the restless child who cannot sit still through a lecture. For this exercise, note what the restlessness is doing in each setting: what outlets the lecture hall supplies and what outlets a bike ride supplies, before deciding which setting the impulse is a problem in.
 
 ## Sources
 
