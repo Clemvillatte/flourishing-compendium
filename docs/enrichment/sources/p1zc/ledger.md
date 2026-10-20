@@ -248,3 +248,14 @@ Short, item-keyed evidence notes (owner decision 2026-10-20, PROTOCOL-PRINCIPLES
   flagged, not certified. Saturation: 5 concept pages already cite SE059 (incl.
   Mastery experiences, Social learning theory); no additional links warranted.
   Validator ok. DONE (no advisor QC due: item 12).
+
+## SE063 — Self-concordant goals (item 13)
+- Source opened: Sheldon & Elliot 1999, JPSP 76(3) 482-497, PubMed abstract record
+  (PMID 10101878) — fetched; the three quoted sentences verified verbatim against the
+  opened page. No PDF copy needed (abstract carries the model's dual-role statement).
+- Body: added the dual-role blockquote (definition + sustained effort + well-being
+  benefit). Plain words (already a genuine re-derivation) and For example kept.
+- Inherited parallels (Sheldon et al. 2004; Kasser & Ryan 1993; Kasser 2002) NOT
+  source-checked — flagged, not certified. Saturation: 5 concept pages already cite
+  SE063 (incl. Self-concordant goal pursuit over time, Intrinsic versus extrinsic
+  goals); no additional links warranted. Validator ok. DONE (no advisor QC due: item 13).
