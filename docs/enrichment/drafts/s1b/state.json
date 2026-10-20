@@ -25,7 +25,17 @@
      "note": "Independent substantive PASS; exact Legge quote; complete literary comparison; zero validator errors; supervisor-only registration and backlinks"
     }
    ]
+  },
+  "s1b-002": {
+   "status": "researching",
+   "angle": "B088: repeated pursuit becomes inclination; two seasonal cowherds; votes are qualitative analogy, not measured increments",
+   "history": [
+    {
+     "t": "2026-10-20T14:30:12+00:00",
+     "to": "researching"
+    }
+   ]
   }
  },
- "updated": "2026-10-20T14:30:06+00:00"
+ "updated": "2026-10-20T14:30:12+00:00"
 }
