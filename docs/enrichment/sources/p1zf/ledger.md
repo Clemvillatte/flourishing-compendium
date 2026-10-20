@@ -104,3 +104,7 @@
 ## MO057 — Self-concordant goals
 - Sources opened: Sheldon & Elliot 1999 JPSP 76:482-497 (PMID 10101878, abstract, verbatim); Kasser & Ryan 1993 JPSP 65:410-422 (PMID 8366427, abstract); Plato Apology 38a (Jowett, MIT Classics, grep verified).
 - Corrections: "goals pursued for external reasons are less effective and less satisfying" is not in the opened abstract (it describes self-concordance effects); Kasser & Ryan 1993 concerns centrality of financial aspirations, not "intrinsic goals (growth, connection)" (that is Kasser & Ryan 1996, unopened). Sheldon 2004, Kasser 2002, Rogers, Buddhist right intention unopened.
+
+## MO058 — Disengage from unattainable goals
+- Sources opened: Wrosch et al. 2003 PSPB 29:1494-1508 (PMID 15018681, abstract, verbatim); Dunne, Wrosch & Miller 2011 Health Psychol 30:763-770 (PMID 21604877, abstract, verbatim).
+- Corrections: "disengaging and re-engaging is adaptive" softened: reengagement no association in Dunne 2011. Wrosch & Miller 2009 not opened. Wu wei, art of letting go, sunk cost bullets inherited, unverified.

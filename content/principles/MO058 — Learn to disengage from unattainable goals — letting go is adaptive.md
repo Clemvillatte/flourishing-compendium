@@ -12,15 +12,25 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 ---
 > **Principle 58** — Learn to disengage from unattainable goals: letting go is adaptive
 
-Some goals become unattainable. The capacity to disengage from these (and re-engage with alternatives) is associated with better well-being. Persisting with unattainable goals is a source of suffering.
+Wrosch and colleagues ran three studies (115 undergraduates, 120 young and older adults, and 45 parents) and concluded that "goal disengagement and goal reengagement can be associated with ratings of high subjective well-being" and "can have interactive effects" on it ([Wrosch et al., 2003, Personality and Social Psychology Bulletin 29, 1494-1508](https://pubmed.ncbi.nlm.nih.gov/15018681/)). The word "can" matters: the associations were not uniform.
 
-**Plain words** Letting go of an unattainable goal is a skill, not a failure — disengage and re-engage with something workable. The athlete whose body has changed, the founder whose market has moved. Clinging to the dead goal blocks the living one.
+A six-year study of 135 older adults found that "poor goal disengagement capacities and high levels of functional disability forecasted six-year increases in depressive symptoms", and that goal disengagement "buffered the association of functional disability with increases in depressive symptoms". "No associations were found for goal reengagement capacities" ([Dunne, Wrosch & Miller, 2011, Health Psychology 30, 763-770](https://pubmed.ncbi.nlm.nih.gov/21604877/)). So the page's claim that re-engaging with alternatives is adaptive is supported by the earlier studies and not by this one.
 
-*For example:* The runner whose knees have retired the marathon, grieving for a season — then coaching, and finding it fills differently. The disengagement was the door, not the loss.
+(Wrosch et al., 2003; Dunne et al., 2011.)
+
+**Plain words** Being able to let go of a goal that is no longer reachable goes with better well-being in these studies, particularly when circumstances worsen. The evidence for taking on a new goal as well is mixed. Both findings come from self-reports and mostly from specific groups.
+
+For example (imagined): a runner whose knees end marathon training stops chasing the old time. Whether coaching fills the gap is something to test, not assume.
+
+## Sources
+
+- Wrosch, Scheier, Miller, Schulz & Carver (2003), [Adaptive self-regulation of unattainable goals](https://pubmed.ncbi.nlm.nih.gov/15018681/), abstract
+- Dunne, Wrosch & Miller (2011), [Goal disengagement, functional disability, and depressive symptoms in old age](https://pubmed.ncbi.nlm.nih.gov/21604877/), abstract
+
 ## Psychology parallels
 
-- **Goal disengagement and well-being**, disengaging from unattainable goals is associated with better well-being (Wrosch et al., 2003; Wrosch & Miller, 2009)
-- **Re-engagement**, disengaging and re-engaging with alternatives is adaptive (Wrosch et al., 2003; Wrosch & Miller, 2009)
+- **Goal disengagement and well-being**, disengagement was linked with higher well-being and buffered rises in depressive symptoms among older adults facing disability (Wrosch et al., 2003; Dunne et al., 2011); Wrosch & Miller (2009) not verified here
+- **Re-engagement**, reengagement showed interactive effects with disengagement on well-being in 2003 but no associations in the 2011 older-adult study (Wrosch et al., 2003; Dunne et al., 2011)
 
 ## Philosophy parallels
 
