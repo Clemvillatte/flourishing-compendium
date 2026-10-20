@@ -14,7 +14,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 
 > To awaken to the emptiness of all things, to their lack of substantial own-being or egoity (Japanese: shogyōmuga), therefore, is to free oneself from both an ego-centered and reified view of things as well as from the illusion of the substantial ego itself.
 
-([Stanford Encyclopedia of Philosophy, "Kyoto School", section 3.1](https://plato.stanford.edu/entries/kyoto-school/), a description of the Mahāyāna background. Quoted at second hand.)
+([Stanford Encyclopedia of Philosophy, "Kyoto School", section 3.2](https://plato.stanford.edu/entries/kyoto-school/), a description of the Mahāyāna background. Quoted at second hand.)
 
 The Encyclopedia ties attachment to things to attachment to "the fabricated ego, since the ego both strives to possess and is unwittingly possessed by its reification of beings." It also warns against stopping there: if the negation halts at the denial of the substantial ego, "the idea of 'emptiness' is not itself emptied." Nishitani's "self that is not a self" is described as a self that "becomes itself by passing through the absolute negation of its ego."
 
@@ -26,7 +26,7 @@ In this reading the ego's lack of a firm foundation is what it is, and the way o
 
 ## Sources
 
-- [Stanford Encyclopedia of Philosophy, "Kyoto School", sections 3.1-3.2](https://plato.stanford.edu/entries/kyoto-school/) — emptiness, the fabricated ego, and Nishitani's self that is not a self
+- [Stanford Encyclopedia of Philosophy, "Kyoto School", sections 3.2 and 3.7](https://plato.stanford.edu/entries/kyoto-school/) — emptiness, the fabricated ego, and Nishitani's self that is not a self
 
 ## Psychology parallels
 

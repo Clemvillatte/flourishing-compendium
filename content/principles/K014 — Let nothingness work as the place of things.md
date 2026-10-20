@@ -14,7 +14,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 
 > ... the "field of emptiness" is not a vacuum of relative nothingness that assaults beings from without; it is an open clearing wherein beings are neither nullified nor reified but rather let be in the mutual freedom of their coming to be and passing away in unobstructed interrelation with one another.
 
-([Stanford Encyclopedia of Philosophy, "Kyoto School", section 3.4](https://plato.stanford.edu/entries/kyoto-school/), on Nishitani Keiji, Religion and Nothingness. Quoted at second hand; the book was not consulted.)
+([Stanford Encyclopedia of Philosophy, "Kyoto School", section 3.5](https://plato.stanford.edu/entries/kyoto-school/), on Nishitani Keiji, Religion and Nothingness. Quoted at second hand; the book was not consulted.)
 
 The Encyclopedia says that Nishitani follows Nishida in thinking of emptiness "as a 'place' or 'field' (ba) wherein beings can appear as they truly are in their proper basis or 'home-ground' (moto)." Nothingness here is not a thing that sits in the background. It is the opening in which things can show up as what they are.
 
@@ -26,7 +26,7 @@ The sky image and the practical advice below belong to the compendium, not to th
 
 ## Sources
 
-- [Stanford Encyclopedia of Philosophy, "Kyoto School", sections 3.2-3.4](https://plato.stanford.edu/entries/kyoto-school/) — field of emptiness and Nishitani's passage
+- [Stanford Encyclopedia of Philosophy, "Kyoto School", sections 3.2 and 3.5](https://plato.stanford.edu/entries/kyoto-school/) — field of emptiness and Nishitani's passage
 
 ## Psychology parallels
 

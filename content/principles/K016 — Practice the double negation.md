@@ -14,7 +14,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 
 > ... emptiness is truly emptiness "only when it empties itself even of the standpoint that represents it as some 'thing' that is emptiness. ... [True emptiness] is to be realized as something united to and self-identical with being."
 
-([Stanford Encyclopedia of Philosophy, "Kyoto School", section 3.2](https://plato.stanford.edu/entries/kyoto-school/), quoting Nishitani, Nishitani Keiji chosakushū vol. 10, 109-10 / Religion and Nothingness, 1982, p. 97. Quoted at second hand.)
+([Stanford Encyclopedia of Philosophy, "Kyoto School", sections 3.2 and 3.5](https://plato.stanford.edu/entries/kyoto-school/), quoting Nishitani, Nishitani Keiji chosakushū vol. 10, 109-10 / Religion and Nothingness, 1982, p. 97. Quoted at second hand.)
 
 The Encyclopedia describes two steps. First, to be freed from "egoistic obsessions and manipulative objectifications," Nishitani held that one must step back into the "field of nihility." Second, "the real breakthrough to a non-dualistic reaffirmation of self and world only occurs when the relative nothingness of nihility is in turn broken through to a genuine experience of absolute nothingness or true emptiness." His task is described as "overcoming nihilism by way of passing through nihilism."
 
@@ -26,7 +26,7 @@ One reading of the two steps is that the first negation removes the world's fixe
 
 ## Sources
 
-- [Stanford Encyclopedia of Philosophy, "Kyoto School", sections 3.2-3.4](https://plato.stanford.edu/entries/kyoto-school/) — field of emptiness and Nishitani's passage
+- [Stanford Encyclopedia of Philosophy, "Kyoto School", sections 3.2 and 3.5](https://plato.stanford.edu/entries/kyoto-school/) — field of emptiness and Nishitani's passage
 
 ## Psychology parallels
 

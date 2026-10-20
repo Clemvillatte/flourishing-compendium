@@ -14,7 +14,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 
 > Nishida was fond of calling this type of totality, which holds together differences without sublating them into a higher unity, a "self-identity of contradictories."
 
-([Stanford Encyclopedia of Philosophy, "Nishida Kitarō", section 4](https://plato.stanford.edu/entries/nishida-kitaro/). The words in quotation marks are Nishida's term; the sentence is the Encyclopedia's description. Quoted at second hand.)
+([Stanford Encyclopedia of Philosophy, "Nishida Kitarō", sections 4 to 4.2](https://plato.stanford.edu/entries/nishida-kitaro/). The words in quotation marks are Nishida's term; the sentence is the Encyclopedia's description. Quoted at second hand.)
 
 On this reading, a contradiction is not always a mistake to be resolved. Nishida seeks "the topos or common space that underlies a distinction", such as the one between seeing and acting, and calls the result another case of his "self-identity of contradictories." In the same entry he allows for "a continuity of absolute discontinuities" between self and other.
 
@@ -26,7 +26,7 @@ The Buddhist background is the "logic of soku-hi", "a logic of 'is and is not' o
 
 ## Sources
 
-- [Stanford Encyclopedia of Philosophy, "Nishida Kitarō", sections 3-4](https://plato.stanford.edu/entries/nishida-kitaro/) — self-identity of contradictories, enactive intuition
+- [Stanford Encyclopedia of Philosophy, "Nishida Kitarō", sections 4 to 4.2](https://plato.stanford.edu/entries/nishida-kitaro/) — self-identity of contradictories, enactive intuition
 - [Stanford Encyclopedia of Philosophy, "Kyoto School"](https://plato.stanford.edu/entries/kyoto-school/) — logic of soku-hi and the self as self-contradiction
 
 ## Psychology parallels
