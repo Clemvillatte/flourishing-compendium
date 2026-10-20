@@ -27,9 +27,10 @@
   "Decentering",
   "Joy",
   "Meaning",
-  "Post-traumatic growth"
+  "Post-traumatic growth",
+  "The inner citadel"
  ],
- "in_progress": "The inner citadel",
+ "in_progress": null,
  "flagged": {
   "Attention": "QC corrections applied 2026-10-19 (gorilla wording narrowed, Weil context added, contemplative bridge marked as comparison, clauses fixed, duplicate list removed)",
   "Care": "QC corrections applied 2026-10-19 (Noddings sourcing fixed, Heidegger ontological/ethical distinction added, seed-line sentence removed, limit question added)",
@@ -42,6 +43,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 8,
- "updated": "2026-10-20T05:54:50+00:00",
+ "updated": "2026-10-20T06:10:55+00:00",
  "band_done": false
 }
