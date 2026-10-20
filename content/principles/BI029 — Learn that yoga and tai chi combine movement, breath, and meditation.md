@@ -38,8 +38,8 @@ Suppose someone with fibromyalgia asks their clinician whether a supervised tai 
 
 ## Sources
 
-- [Streeter et al., "Effects of Yoga Versus Walking on Mood, Anxiety, and Brain GABA Levels: A Randomized Controlled MRS Study", J Altern Complement Med 16(11), 1145-1152 (2010), full text via PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3111147/) — 12-week RCT, yoga vs metabolically matched walking; mood/anxiety and thalamic GABA. Quotes verified by fetch_url. DOI [10.1089/acm.2010.0007](https://doi.org/10.1089/acm.2010.0007)
-- [Wang et al., "A Randomized Trial of Tai Chi for Fibromyalgia", N Engl J Med 363(8), 743-754 (2010), full text via PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3023168/) — single-blind RCT, 66 patients; FIQ and quality-of-life outcomes at 12 and 24 weeks. Quotes verified by fetch_url. DOI [10.1056/NEJMoa0912611](https://doi.org/10.1056/NEJMoa0912611)
+- [Streeter et al., "Effects of Yoga Versus Walking on Mood, Anxiety, and Brain GABA Levels: A Randomized Controlled MRS Study", J Altern Complement Med 16(11), 1145-1152 (2010), full text via PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3111147/) — 12-week RCT, yoga vs metabolically matched walking; mood/anxiety and thalamic GABA. Quotes checked against the page text. DOI [10.1089/acm.2010.0007](https://doi.org/10.1089/acm.2010.0007)
+- [Wang et al., "A Randomized Trial of Tai Chi for Fibromyalgia", N Engl J Med 363(8), 743-754 (2010), full text via PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3023168/) — single-blind RCT, 66 patients; FIQ and quality-of-life outcomes at 12 and 24 weeks. Quotes checked against the page text. DOI [10.1056/NEJMoa0912611](https://doi.org/10.1056/NEJMoa0912611)
 
 ## Psychology parallels
 

@@ -32,7 +32,7 @@ The gardener planting trees whose shade she will never sit in. Erikson's definit
 
 ## Sources
 
-- [Kruse & Schmitt, "Generativity as a Route to Active Ageing", Current Gerontology and Geriatrics Research, 2012, full text via PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3420221/) — Erikson definition (quoting Erikson, p. 267) and the seven-region generativity and life-satisfaction finding. Quotes verified by fetch_url. DOI [10.1155/2012/647650](https://doi.org/10.1155/2012/647650)
+- [Kruse & Schmitt, "Generativity as a Route to Active Ageing", Current Gerontology and Geriatrics Research, 2012, full text via PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3420221/) — Erikson definition (quoting Erikson, p. 267) and the seven-region generativity and life-satisfaction finding. Quotes checked against the page text. DOI [10.1155/2012/647650](https://doi.org/10.1155/2012/647650)
 - [Grossman & Gruenewald, "Failure to Meet Generative Self-Expectations is Linked to Poorer Cognitive-Affective Well-Being", J Gerontol B Psychol Sci Soc Sci 75(4), 792-801 (2020), PDF via MIDUS](https://www.midus.wisc.edu/findings/pdfs/1810.pdf) — MIDUS waves 2-3; generative contributions, failure, and life satisfaction. Quotes read from the downloaded PDF. DOI [10.1093/geronb/gby069](https://doi.org/10.1093/geronb/gby069)
 
 ## Psychology parallels

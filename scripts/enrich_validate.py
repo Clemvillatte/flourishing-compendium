@@ -85,6 +85,8 @@ def validate(path, byfile, byid, base='HEAD', fast_track=False):
     low = pt.lower()
     for w in BANNED:
         if w in low: errs.append(f'banned phrase: {w!r}')
+    for leak in ('fetch_url', 'search_web', 'web_search', 'pdftotext'):
+        if leak in new: errs.append(f'tool name leaked into published text: {leak!r}')
     for rx in STAGING:
         m = re.search(rx, low)
         if m: errs.append(f'staging pattern: {m.group(0)!r}')

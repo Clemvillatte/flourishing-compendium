@@ -36,8 +36,8 @@ Suppose someone is considering fish oil for depressive symptoms. They bring the 
 
 ## Sources
 
-- [Grosso et al., "Role of Omega-3 Fatty Acids in the Treatment of Depressive Disorders: A Comprehensive Meta-Analysis of Randomized Clinical Trials", PLoS ONE 9(5), e96905 (2014), full text via PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4013121/) — meta-analysis of 11 + 8 RCTs; pooled 0.38 SD benefit; EPA-majority formulation effect. Quotes verified by fetch_url. DOI [10.1371/journal.pone.0096905](https://doi.org/10.1371/journal.pone.0096905)
-- [US Food and Drug Administration, "Questions and Answers on Dietary Supplements"](https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements) — DSHEA framework; no premarket approval; safety-evidence responsibilities on firms; GMP requirements. Quotes verified by fetch_url.
+- [Grosso et al., "Role of Omega-3 Fatty Acids in the Treatment of Depressive Disorders: A Comprehensive Meta-Analysis of Randomized Clinical Trials", PLoS ONE 9(5), e96905 (2014), full text via PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4013121/) — meta-analysis of 11 + 8 RCTs; pooled 0.38 SD benefit; EPA-majority formulation effect. Quotes checked against the page text. DOI [10.1371/journal.pone.0096905](https://doi.org/10.1371/journal.pone.0096905)
+- [US Food and Drug Administration, "Questions and Answers on Dietary Supplements"](https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements) — DSHEA framework; no premarket approval; safety-evidence responsibilities on firms; GMP requirements. Quotes checked against the page text.
 
 ## Psychology parallels
 

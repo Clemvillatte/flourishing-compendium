@@ -34,7 +34,7 @@ The person who has tried melatonin, lavender and phone apps but never kept a sle
 
 ## Sources
 
-- [Edinger et al., "Behavioral and psychological treatments for chronic insomnia disorder in adults: an American Academy of Sleep Medicine clinical practice guideline", J Clin Sleep Med 17(2), 255-262 (2021), full text via PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7853203/) — strong recommendation for multicomponent CBT-I; description of CBT-I components; conditional recommendation against sleep hygiene as a single-component therapy. Quotes verified by fetch_url. DOI [10.5664/jcsm.8986](https://doi.org/10.5664/jcsm.8986)
+- [Edinger et al., "Behavioral and psychological treatments for chronic insomnia disorder in adults: an American Academy of Sleep Medicine clinical practice guideline", J Clin Sleep Med 17(2), 255-262 (2021), full text via PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7853203/) — strong recommendation for multicomponent CBT-I; description of CBT-I components; conditional recommendation against sleep hygiene as a single-component therapy. Quotes checked against the page text. DOI [10.5664/jcsm.8986](https://doi.org/10.5664/jcsm.8986)
 - [Morin et al., "Psychological and behavioral treatment of insomnia: update of the recent evidence (1998-2004)", Sleep 29(11), 1398-1414 (2006), PDF mirror](https://www.med.upenn.edu/cbti/assets/user-content/documents/Review_Insomnia.pdf) — systematic review of 37 studies (N = 2246); five empirically supported treatments listed in the abstract. DOI [10.1093/sleep/29.11.1398](https://doi.org/10.1093/sleep/29.11.1398)
 
 ## Psychology parallels

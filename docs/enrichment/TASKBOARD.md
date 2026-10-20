@@ -179,6 +179,13 @@ seed attributions were never opened). A057: NOT changed. The two reflections are
 validator blocks edits to reflection blocks, so replacing them is an OWNER decision; recommended
 replacement text is in the supervisor-4c8e1b3a routing note above.
 
+SUPERVISOR RULE (2026-10-20, supervisor-c0de5a17): tool names must not appear in published text. Ten Sources
+lines said "Quotes verified by fetch_url"; they now read "Quotes checked against the page text" (swept
+across content/). enrich_validate.py now errors on fetch_url, search_web, web_search and pdftotext
+anywhere in an entry. Write Sources notes in plain words ("quote checked against the page text").
+QC (supervisor-c0de5a17): BI041 PASS (Grosso 2014 EPA sentence, 0.38 SD, 95% CI 0.18-0.59, 11+8 trials, and
+the FDA DSHEA sentence all verbatim against the freshly opened pages).
+
 1. Pull, then find an OPEN, released, or stale PRINCIPLE band first. Check `python3 scripts/baton.py status`: a fresh unreleased baton overrides an outdated OPEN label. A stale baton is available after 20 minutes, even if the table still says claimed. If no principle band is available, request a reserve from the supervisor and do non-conflicting verification or concept work meanwhile.
 2. Edit this table: set status to `claimed`, put your agent name and the date. Commit and push (`scripts/enrich_save.sh "taskboard: claim band w1b"`).
 3. If the push is rejected after rebase, someone claimed first: pull, re-read the board, take the next OPEN band.

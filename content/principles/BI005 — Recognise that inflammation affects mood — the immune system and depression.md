@@ -30,7 +30,7 @@ Suppose someone feels flat and withdrawn during a flu and notices the mood lift 
 
 ## Sources
 
-- [Dantzer, O'Connor, Freund, Johnson & Kelley, "From inflammation to sickness and depression: when the immune system subjugates the brain", Nature Reviews Neuroscience 9(1), 46-56 (2008), author manuscript via PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC2919277/) — cytokine mechanism, sickness-behaviour/depression similarity, chronic-inflammation path, risk framing. Quotes verified by fetch_url. DOI [10.1038/nrn2297](https://doi.org/10.1038/nrn2297)
+- [Dantzer, O'Connor, Freund, Johnson & Kelley, "From inflammation to sickness and depression: when the immune system subjugates the brain", Nature Reviews Neuroscience 9(1), 46-56 (2008), author manuscript via PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC2919277/) — cytokine mechanism, sickness-behaviour/depression similarity, chronic-inflammation path, risk framing. Quotes checked against the page text. DOI [10.1038/nrn2297](https://doi.org/10.1038/nrn2297)
 
 ## Psychology parallels
 

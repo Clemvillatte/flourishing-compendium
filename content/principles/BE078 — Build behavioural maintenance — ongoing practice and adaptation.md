@@ -32,7 +32,7 @@ Suppose a changed work schedule prevents someone attending their usual exercise 
 
 ## Sources
 
-- [Kwasnicka, Dombrowski, White & Sniehotta, "Theoretical explanations for maintenance of behaviour change: a systematic review of behaviour theories", Health Psychology Review 10(3), 277-296 (2016), full text via PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4975085/) — 100 theories reviewed; five maintenance themes; maintenance-motives hypothesis. Quotes verified by fetch_url. DOI [10.1080/17437199.2016.1151372](https://doi.org/10.1080/17437199.2016.1151372)
+- [Kwasnicka, Dombrowski, White & Sniehotta, "Theoretical explanations for maintenance of behaviour change: a systematic review of behaviour theories", Health Psychology Review 10(3), 277-296 (2016), full text via PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4975085/) — 100 theories reviewed; five maintenance themes; maintenance-motives hypothesis. Quotes checked against the page text. DOI [10.1080/17437199.2016.1151372](https://doi.org/10.1080/17437199.2016.1151372)
 
 ## Psychology parallels
 
