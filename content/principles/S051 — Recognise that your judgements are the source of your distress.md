@@ -16,7 +16,14 @@ If you are distressed, trace the distress to the judgement that produced it. The
 
 (Disc. I.1, I.11, I.18; Ench. 5; Med. IV.7, VIII.47, XII.8.)
 
-**Plain words** If you're distressed, trace it back to the judgement that produced it. The event didn't, your interpretation did. Change the interpretation and the distress changes. That's the heart of Stoic practice and of cognitive therapy.
+> "Men are disturbed not by the things which happen, but by the opinions about the things: for example, death is nothing terrible, for if it were, it would have seemed so to Socrates; for the opinion about death, that it is terrible, is the terrible thing. When then we are impeded or disturbed or grieved, let us never blame others, but ourselves, that is, our opinions." (Epictetus, Enchiridion 5, trans. George Long, [Delphi Complete Works of Epictetus](https://drive.google.com/file/d/1EDkL63FuSpabjbB7amxNodYocj_q_vaH/view))
+
+The manual's example is death: nothing terrible in itself, since if it were, it would have seemed so to Socrates. What is terrible is the opinion that death is terrible. The same holds for being impeded, disturbed or grieved: the passage directs the practitioner to blame no one else, but to look to their own opinions.
+
+The passage then grades the learner. The ill-instructed man blames others for his own bad condition; the man who has begun to be instructed blames himself; the man whose instruction is completed blames neither another nor himself. The practice is not self-reproach but inspection of the judgement underneath the distress.
+
+**Plain words**
+When you're upset, look for the opinion doing the work. The event didn't upset you by itself; the opinion about it did. Epictetus uses death as his test case: death isn't terrible, the belief that it's terrible is. His instruction is not to blame yourself either, once trained — just find the judgement and examine it.
 
 *For example:* Feeling worthless after a critical review, you find the judgement "one criticism means I'm incompetent," and see it's not true.
 
@@ -27,7 +34,7 @@ If you are distressed, trace the distress to the judgement that produced it. The
 - [[ST204 — Truman Tests the Water|204. Truman Tests the Water]]
 ## Psychology parallels
 
-- **[[Cognitive-behavioural model|Cognitive-behavioural therapy]]**, the core model: thoughts mediate between events and emotions (Beck, 1976; [Stoic-CBT parallels](https://www.cambridge.org/co...)
+- **[[Cognitive-behavioural model|Cognitive-behavioural therapy]]**, the model of interpretations mediating between events and emotions
 - **[[Cognitive reappraisal|Cognitive reappraisal]]** (Gross, 2015)
 
 ## Philosophy parallels
