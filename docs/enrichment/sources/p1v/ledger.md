@@ -47,3 +47,22 @@ opened text at the recorded URL.
   parallel (Duckworth et al. 2016 situational strategies) and philosophy
   parallel (Cicero's archer, De Finibus III) preserved untouched and NOT
   verified this session. Saturation scan pending milestone.
+
+## D189 — Let your yes be small and your no rare (2026-10-20)
+
+- OPENED: Tao Teh King, James Legge translation, Project Gutenberg
+  https://www.gutenberg.org/cache/epub/216/pg216.txt (chapters 63 and 23; page
+  cites the same Legge edition at the 216-h URL).
+- Verified verbatim (DDJ 63, Legge): "He who lightly promises is sure to keep
+  but little faith; he who is continually thinking things easy is sure to find
+  them difficult. Therefore the sage sees difficulty even in what seems easy,
+  and so never has any difficulties."
+- Verified verbatim (DDJ 23, Legge): "A violent wind does not last for a whole
+  morning; a sudden rain does not last for the whole day." Also opened: ch. 23
+  §3, "when there is not faith sufficient (on his part), a want of faith (in
+  him) ensues (on the part of the others)", which grounds the trust-ledger
+  paraphrase.
+- LIMITS: the few/small/kept reading is labelled as the compendium's reading;
+  the chapters address promising and endurance, not calendar practice. Inherited
+  psychology parallels (Cialdini commitment-consistency; busyness-as-status)
+  preserved untouched and NOT verified this session.
