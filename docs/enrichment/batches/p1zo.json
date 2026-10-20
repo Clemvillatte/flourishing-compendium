@@ -10,13 +10,13 @@
  "in_progress": null,
  "flagged": {
   "SE037": "inherited parallels not certified: Waterman 1993 outcome claim + Apology 38a parallels kept as found; see sources/p1zo/SE037.md",
-  "SE045": "Reopened for QC: milestone advisor QC repairs",
-  "SE053": "Reopened for QC: milestone advisor QC round 3: example repair",
-  "SE058": "milestone advisor QC repairs applied to page after done; re-validated ok; see ledger addendum",
-  "SE070": "Reopened for QC: milestone advisor QC round 3: plain words, example, practice repairs"
+  "SE045": "QC history: milestone advisor rounds 2-3 repairs applied and re-validated. D087 near-duplicate: supervisor/owner disposition needed. Inherited DDJ 13 parallel unverified. See sources/p1zo/SE045.md",
+  "SE053": "QC history: milestone advisor rounds 2-3 repairs applied and re-validated. Inherited La Guardia et al. 2000 claim unverified. See sources/p1zo/SE053.md",
+  "SE058": "QC history: milestone advisor repairs applied and re-validated against opened clean edition. Inherited Larson 1990 / Long & Averill 2003 claims unverified. See sources/p1zo/SE058.md",
+  "SE070": "QC history: milestone advisor rounds 2-3 repairs applied and re-validated. Inherited Kernberg 1975 / Miller 2011 / Pincus 2009 claims unverified. See sources/p1zo/SE070.md"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:19:21+00:00",
+ "updated": "2026-10-20T11:20:22+00:00",
  "band_done": false
 }
