@@ -26,6 +26,7 @@ Care runs through the R-track's relational practices (R027 manaakitanga, R084 Le
 
 
 
+
 - [[Ubuntu]] — relation-grounded personhood, the African and care-ethics analogues
 - [[Care ethics]] — the theory that grew from Noddings's analysis
 - [[Compassion]] — being moved by suffering: care's affective engine
@@ -37,6 +38,7 @@ Care runs through the R-track's relational practices (R027 manaakitanga, R084 Le
 - [[Attention]] — Noddings's engrossment is receptive attention: care's first act
 - [[Ren]] — Confucius's cardinal virtue: the humane disposition toward others
 - [[Participate: do with, not to]] — the Deweyan distinction: entering another's activity as a partner rather than using it as a means
+- [[Prosocial spending]] — spending money to benefit others (Dunn, Aknin & Norton 2008)
 ## Sources
 
 - [IEP, Feminine and Feminist Ethics (care ethics section)](https://iep.utm.edu/care-ethics/) — Noddings's two parties and stages

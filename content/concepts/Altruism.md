@@ -11,8 +11,9 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 ## Related concepts
 
-- [[Prosocial behaviour]] — one motive among several behind prosocial acts
 
+- [[Prosocial behaviour]] — one motive among several behind prosocial acts
+- [[Prosocial spending]] — spending money to benefit others (Dunn, Aknin & Norton 2008)
 ## Sources
 
 - Batson, 2011

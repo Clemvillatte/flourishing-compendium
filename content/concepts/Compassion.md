@@ -23,12 +23,14 @@ Its Buddhist original is [[Karuna]], its Confucian cousin [[Ren]], and its psych
 
 
 
+
 - [[Ubuntu]] — compassion listed among the marks of a person with ubuntu (Tutu)
 - [[Care]] — being moved by suffering: care's affective engine
 - [[Four immeasurables]] — the general concept karuna instantiates as the second immeasurable
 - [[B099]] — B099's psychology parallels list compassion training (Klimecki et al., 2013)
 - [[Perspective-getting]] — getting another's perspective directly rather than imagining it from outside
 - [[Empathic understanding]] — Rogers' name for understanding another's experience from inside their frame of reference
+- [[Prosocial spending]] — spending money to benefit others (Dunn, Aknin & Norton 2008)
 ## Sources
 
 - Goetz et al., 2010

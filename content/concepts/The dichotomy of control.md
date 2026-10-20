@@ -37,6 +37,7 @@ The same chapter explains the division's stakes: things in our control are "by n
 
 
 
+
 - [[Ataraxia]]
 - [[The reserve clause]]
 - [[Premeditatio malorum]]
@@ -45,6 +46,7 @@ The same chapter explains the division's stakes: things in our control are "by n
 - [[The inner citadel]] — Marcus’s retreat into the place of judgment that the dichotomy protects
 - [[Temperance]] — one of the four cardinal virtues: the right ordering of pleasure and appetite
 - [[Locus of control]] — Rotter's generalized expectancy about where reinforcement comes from
+- [[Apatheia]] — the Stoic ideal of freedom from passion, not numbness
 ## Sources
 
 - [Epictetus, Enchiridion 1 (Elizabeth Carter translation), MIT Classics](https://classics.mit.edu/Epictetus/epicench.html) — the dichotomy statement and its logic, verbatim.

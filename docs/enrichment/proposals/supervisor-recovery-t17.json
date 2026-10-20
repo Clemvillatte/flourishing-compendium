@@ -1,0 +1,13 @@
+{
+ "batch": "supervisor-recovery-t17",
+ "revision": 1,
+ "reciprocal": [
+  {
+   "into": "content/concepts/Empathy.md",
+   "link": "Prosocial spending",
+   "why": "spending money to benefit others (Dunn, Aknin & Norton 2008)"
+  }
+ ],
+ "notes": "w1b legacy recovery tranche 17 (Prosocial spending + Apatheia families). Original claim-bearing clauses unevidenced in the w1b ledger; neutral clauses grounded in each concept page's own sourced opening (Dunn-Aknin-Norton 2008; SEP Stoicism). Equanimity, Nirvana, Premeditatio malorum already linked (skipped). - supervisor-3ef4f549, 2026-10-20 | deferred at this run (target band busy): 1 recip, 0 inline",
+ "inline": []
+}
