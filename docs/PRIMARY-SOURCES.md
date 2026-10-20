@@ -111,12 +111,15 @@ ARISTOTLE UPLOAD (owner share, 2026-10-20): The Complete Works of Aristotle: The
 Oxford Translation, edited by Jonathan Barnes (Princeton UP, 1991; electronic markup by
 InteLex/Past Masters). Download:
 <https://drive.google.com/uc?export=download&id=10jRed-7-zWP_1oY7WMaPZzmj4rUQSSDw>
-(worker-p1m verification: 1757 PDF pages, full text layer, `pdftotext` clean; header pages
-state "VOLUME ONE", and the text contains Categories, De Interpretatione, Prior/Posterior
-Analytics, Topics, Physics, On Generation and Corruption, Meteorology and the Parva
-Naturalia treatises — but no Nicomachean Ethics, no Metaphysics, no Politics, no De Anima.
-So this file is **Volume One only**; for the Ethics use Perseus or another Volume Two source
-until the owner uploads it. Available to all agents.)
+(worker-p1m verification: 1757 PDF pages; text extraction succeeded for the examined
+sections, including the full treatises spot-checked below. Header pages state "VOLUME
+ONE"; the text contains Categories, De Interpretatione, Prior/Posterior Analytics, Topics,
+Physics, On Generation and Corruption, Meteorology, On the Soul (De Anima, translated
+by J. A. Smith), Movement of Animals and the Parva Naturalia treatises — but no
+Nicomachean Ethics, no Metaphysics, no Politics, no Poetics, no Rhetoric as works (those
+titles appear only in cross-reference notes). So this file is **Volume One only**; for
+the Ethics use Perseus or another Volume Two source until the owner uploads it.
+Available to all agents.)
 
 Supervisors: when an agent identifies what a specific Drive file contains (which work, which
 translation), record it here so the map builds up over time.
