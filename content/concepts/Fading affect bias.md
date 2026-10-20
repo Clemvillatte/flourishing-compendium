@@ -15,29 +15,32 @@ The fading affect bias is memory's quiet mercy. Later research states it in one 
 
 ### What survives the moderation checks
 
-The same paper ran four studies on what might explain the bias away. None did: emotion activation level was related to overall fading but not to the bias itself, dispositional mood moderated it without fully accounting for it, and the bias emerged even after participants' own predictions of how their feelings would change were controlled ([Ritchie et al., 2009, abstract](https://pubmed.ncbi.nlm.nih.gov/19358015/)). A later line of work reads the bias as a healthy coping mechanism that improves the overall positivity of life, and notes it is negatively related to dysphoria ([2013 abstract, PMID 24091020](https://pubmed.ncbi.nlm.nih.gov/24091020/)).
+The same paper ran four studies on what might account for, or moderate, the bias. The findings: emotion activation level was related to overall fading of affect but unrelated to the bias itself; dispositional mood moderated the bias without fully accounting for it; and participants' predictions of emotion change were somewhat veridical, with the bias still emerging after those predictions were accounted for statistically ([Ritchie et al., 2009, abstract](https://pubmed.ncbi.nlm.nih.gov/19358015/)). A later paper frames the bias's meaning both ways: researchers suggest it is a healthy coping mechanism that improves the overall positivity of life, and the same paper notes it may reinforce maladaptive behaviors such as drinking, as the unpleasant emotions associated with those behaviors fade ([Gibbons et al., 2013, abstract](https://pubmed.ncbi.nlm.nih.gov/24091020/)).
 
 ### In the compendium
 
-- [[CO059 — Recognise rosy retrospection — the past is remembered more fondly than it was experienced]] — the bias's cousin in recall
-- [[AF008 — Know the negativity bias; correct for it deliberately]] — the present-tense counterpart the fading corrects over time
-- [[AF069 — Recognise the hedonic treadmill — adaptation is inevitable; plan for it]] and [[AF070 — Seek variety and novelty to slow hedonic adaptation]] — fading and adaptation as one system
-- [[AF007 — Recognise affective forecasting errors; expect hedonic adaptation]] — why the future feeling is misjudged
-- [[AT051 — Learn loving-kindness meditation — attention oriented toward warmth]], [[P067 — My world is what I attend to]] and [[CO081 — Recognise cognitive symptoms of clinical conditions — depression and anxiety affect thinking]] — attention and mood as the levers
+- [[CO059 — Recognise rosy retrospection — the past is remembered more fondly than it was experienced]]
+- [[AF008 — Know the negativity bias; correct for it deliberately]]
+- [[AF069 — Recognise the hedonic treadmill — adaptation is inevitable; plan for it]]
+- [[AF070 — Seek variety and novelty to slow hedonic adaptation]]
+- [[AF007 — Recognise affective forecasting errors; expect hedonic adaptation]]
+- [[AT051 — Learn loving-kindness meditation — attention oriented toward warmth]]
+- [[P067 — My world is what I attend to]]
+- [[CO081 — Recognise cognitive symptoms of clinical conditions — depression and anxiety affect thinking]]
 
 ## Related concepts
 
-- [[Rosy retrospection]] — the remembered past tinted positive
-- [[Negativity bias]] — the bad-is-stronger-than-good asymmetry the fading counteracts
-- [[Hedonic adaptation]] — the return to baseline the fading rides
-- [[Overgeneral autobiographical memory (OGM)]] — the clinical edge of autobiographical recall
+- [[Rosy retrospection]]
+- [[Negativity bias]]
+- [[Hedonic adaptation]]
+- [[Overgeneral autobiographical memory (OGM)]]
 
 ## Sources
 
 - Walker et al., 2003
 
 - [Ritchie, Skowronski, Hartnett, Wells and Walker, "The fading affect bias in the context of emotion activation level, mood, and personal theories of emotion change", Memory 17 (2009), pp. 428-44, PubMed record 19358015](https://pubmed.ncbi.nlm.nih.gov/19358015/) — the definition and the four moderation studies
-- [Gibbons et al., "The fading affect bias across alcohol consumption frequency...", Consciousness and Cognition 22 (2013), PubMed record 24091020](https://pubmed.ncbi.nlm.nih.gov/24091020/) — the healthy-coping framing and the dysphoria relation (abstract)
+- [Gibbons, Toscano, Kofron, Rothwell, Lee, Ritchie and Walker, "The fading affect bias across alcohol consumption frequency for alcohol-related and non-alcohol-related events", Consciousness and Cognition 22 (2013), pp. 1340-51, PubMed record 24091020](https://pubmed.ncbi.nlm.nih.gov/24091020/) — the healthy-coping suggestion and the dysphoria relation, alongside the maladaptive-reinforcement finding
 
 ## Cited in psychology parallels
 

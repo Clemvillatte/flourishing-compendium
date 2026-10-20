@@ -9,26 +9,26 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Flexibility in coping” — Bonanno and Burton, 2013.
 
-Flexibility in coping is George Bonanno and Charles Burton's answer to a habit they saw in the coping literature: the assumption that particular regulatory strategies are consistently beneficial or maladaptive. Their paper names that habit the fallacy of uniform efficacy and contrasts it with dynamic models in which the person and the situation interact over time to inform adaptation ([Bonanno and Burton, 2013, abstract](https://pubmed.ncbi.nlm.nih.gov/26173226/)).
+Flexibility in coping is George Bonanno and Charles Burton's answer to a habit they saw in the coping literature: the assumption that particular regulatory strategies are consistently beneficial or maladaptive ([Bonanno and Burton, 2013, abstract](https://pubmed.ncbi.nlm.nih.gov/26173226/)). Their paper names that habit the fallacy of uniform efficacy and contrasts it with dynamic models in which the person and the situation interact over time to inform adaptation ([Bonanno and Burton, 2013, abstract](https://pubmed.ncbi.nlm.nih.gov/26173226/)).
 
 > "Specifically, we propose a heuristic individual differences framework and review research on three sequential components of flexibility for which propensities and abilities vary: sensitivity to context, availability of a diverse repertoire of regulatory strategies, and responsiveness to feedback." (Bonanno and Burton, [Regulatory Flexibility: An Individual Differences Perspective on Coping and Emotion Regulation, Perspectives on Psychological Science 8 (2013), pp. 591-612, abstract](https://pubmed.ncbi.nlm.nih.gov/26173226/))
 
 ### The three-part skill
 
-Read as a practice, the framework says flexibility is three things in sequence: noticing what this situation actually demands, having more than one way to respond, and letting the result of the last attempt teach the next one ([Bonanno and Burton, 2013, abstract](https://pubmed.ncbi.nlm.nih.gov/26173226/)). No single strategy wins; the fit between strategy and situation does.
+Read as a practice, the framework says flexibility is three things in sequence: noticing what this situation actually demands, having more than one way to respond, and letting the result of the last attempt teach the next one ([Bonanno and Burton, 2013, abstract](https://pubmed.ncbi.nlm.nih.gov/26173226/)). The authors reject uniform efficacy and propose a heuristic individual differences framework rather than a ranking of strategies ([Bonanno and Burton, 2013, abstract](https://pubmed.ncbi.nlm.nih.gov/26173226/)).
 
 ### In the compendium
 
-- [[PP044 — Practise coping flexibility]] — the principle built on this research
-- [[P021 — Treat ideas as tools, not mirrors]] — the repertoire idea applied to ideas
-- the linked stories (ST208, ST193, ST322, ST323, ST135, ST154) give the skill narrative form
+- [[PP044 — Practise coping flexibility]]
+- [[P021 — Treat ideas as tools, not mirrors]]
+- the linked stories (ST208, ST193, ST322, ST323, ST135, ST154)
 
 ## Related concepts
 
 - [[Regulatory flexibility theory]] — the alternative coping-side phrasing
-- [[Coping flexibility]] — the meta-analytic tradition behind the construct
-- [[Psychological resilience theory Bonanno]] — the resilience research it grew from
-- [[Emotion regulation]] — the regulation side of the framework
+- [[Coping flexibility]]
+- [[Psychological resilience theory Bonanno]]
+- [[Emotion regulation]]
 
 ## Sources
 

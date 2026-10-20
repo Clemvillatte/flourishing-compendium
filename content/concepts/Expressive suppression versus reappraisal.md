@@ -9,16 +9,17 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Expressive suppression versus reappraisal” — Gross and John, 2003.
 
-Suppression, as defined in the laboratory work of James Gross and Robert Levenson, is the conscious inhibition of emotional expressive behavior while emotionally aroused ([Gross and Levenson, 1993, abstract](https://pubmed.ncbi.nlm.nih.gov/8326473/)). James Gross and Oliver John measured who habitually uses which of the two strategies, and what follows:
+Suppression, as defined in the laboratory work of James Gross and Robert Levenson, is the conscious inhibition of emotional expressive behavior while emotionally aroused ([Gross and Levenson, 1993, abstract](https://pubmed.ncbi.nlm.nih.gov/8326473/)). James Gross and Oliver John measured who habitually uses which of the two strategies, and the studies' associations with affect, relationships and well-being follow:
 
 > "Study 3 shows that reappraisers experience and express greater positive emotion and lesser negative emotion, whereas suppressors experience and express lesser positive emotion, yet experience greater negative emotion. Study 4 indicates that using reappraisal is associated with better interpersonal functioning, whereas using suppression is associated with worse interpersonal functioning. Study 5 shows that using reappraisal is related positively to well-being, whereas using suppression is related negatively." (Gross and John, [Individual differences in two emotion regulation processes: implications for affect, relationships, and well-being, Journal of Personality and Social Psychology 85 (2003), pp. 348-362, abstract](https://pubmed.ncbi.nlm.nih.gov/12916575/))
 
 ### In the compendium
 
-- [[PP017 — Regulate negative emotion without suppressing it]] — the practical upshot of the comparison
-- [[AF025 — Learn the full regulation toolkit — it is larger than calm down.]] — the pair as two tools among more
-- [[AF032 — Recognise that suppression is not always maladaptive; it depends on context and culture]] and [[AF012 — Recognise that affect is socially and culturally shaped; do not universalise it]] — the culture caveat on uniform rankings
-- [[AF077 — Learn emotional disclosure — the capacity to share feelings in a way that helps]] — the expression side as a practice
+- [[PP017 — Regulate negative emotion without suppressing it]]
+- [[AF025 — Learn the full regulation toolkit — it is larger than calm down.]]
+- [[AF032 — Recognise that suppression is not always maladaptive; it depends on context and culture]]
+- [[AF012 — Recognise that affect is socially and culturally shaped; do not universalise it]]
+- [[AF077 — Learn emotional disclosure — the capacity to share feelings in a way that helps]]
 
 ## Related concepts
 

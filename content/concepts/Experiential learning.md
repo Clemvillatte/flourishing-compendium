@@ -10,20 +10,20 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Experiential learning” — Kolb, 1984.
 
-David Kolb's 1984 book Experiential Learning: Experience as the Source of Learning and Development gave the field its standing definition. An opened peer-reviewed article in the Journal of Agricultural Education quotes it with its locator:
+David Kolb's 1984 book Experiential Learning: Experience as the Source of Learning and Development is the theory's source. Its definition, as carried by a later peer-reviewed article with the book's locator, reads:
 
 > "the 'process whereby knowledge is created through the transformation of experience'" (Kolb, 1984, p. 38, quoted in Baker and Robinson, [The Effects of Kolb's Experiential Learning Model on Successful Intelligence in Secondary Agriculture Students](https://files.eric.ed.gov/fulltext/EJ1123045.pdf))
 
 ### The cycle
 
-The same article describes how the transformation runs: "This transformation of experience occurs in a cyclical fashion as students engage in concrete experiences (CE), reflective observation (RO), abstract conceptualization (AC), and active experimentation (AE)" ([Baker and Robinson, 2016](https://files.eric.ed.gov/fulltext/EJ1123045.pdf)). A learner has an experience, reflects on it, distills the reflection into a concept, then tests the concept in a new situation, which becomes the next experience. The four stages are the reason the compendium pairs this concept with reflection and with learning by doing: the cycle needs both halves, and skipping the reflection half leaves experience unmined.
+The same article describes how the transformation runs: "This transformation of experience occurs in a cyclical fashion as students engage in concrete experiences (CE), reflective observation (RO), abstract conceptualization (AC), and active experimentation (AE)" ([Baker and Robinson, 2016](https://files.eric.ed.gov/fulltext/EJ1123045.pdf)). A learner has an experience, reflects on it, distills the reflection into a concept, and tests the concept in a new situation, which becomes the next experience ([Baker and Robinson, 2016](https://files.eric.ed.gov/fulltext/EJ1123045.pdf)).
 
 ### In the compendium
 
-- [[D072 — Learn by doing, not only by reading]], [[P042 — Learn by doing]], [[K020 — Know by doing]] and [[A044 — Learn from experience]] — the doing stages
-- [[P109 — Pair every experience with reflection]] — the reflective stage as a principle
-- [[A091 — Integrate contemplation and action]] — the alternation of the two halves
-- [[R065 — Practise the extension of knowledge (zhizhi)]] — the Confucian pairing of study and action
+- [[D072 — Learn by doing, not only by reading]], [[P042 — Learn by doing]], [[K020 — Know by doing]] and [[A044 — Learn from experience]]
+- [[P109 — Pair every experience with reflection]]
+- [[A091 — Integrate contemplation and action]]
+- [[R065 — Practise the extension of knowledge (zhizhi)]]
 
 ## Facets
 
@@ -33,8 +33,8 @@ The same article describes how the transformation runs: "This transformation of 
 ## Related concepts
 
 - [[Reflective practice]] — reflection is the cycle's second half
-- [[Deliberate practice]] — the training counterpart: structured repetition with feedback
-- [[Situated learning theory]] — learning inside the situation rather than about it
+- [[Deliberate practice]]
+- [[Situated learning theory]]
 
 ## Sources
 

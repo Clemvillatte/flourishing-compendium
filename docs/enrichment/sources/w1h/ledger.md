@@ -195,3 +195,30 @@
 - Opened: PubMed 26173226 (Bonanno & Burton 2013, PPS 8, 591-612) — fallacy of
   uniform efficacy and the three sequential components quoted verbatim; dynamic
   person-situation interaction; no single-strategy claims beyond the abstract.
+
+## Milestone QC round (items 6-10) — repairs applied
+- VALIDATION GATE fixed: `validate | head` masked failures via pipe exit status;
+  now run with pipefail and full output before any save; 'done' only after a
+  passing validation.
+- Experiential learning: "standing definition" and reader-facing "An opened
+  peer-reviewed article" narration removed; definition presented as carried by
+  the secondary article (disclosed); cycle paraphrase cited; "both halves/
+  unmined" editorial removed; Confucian and added related-concept annotations
+  removed (bare links); original Reflective-practice seed annotation kept.
+- Suppression vs reappraisal: "what follows" replaced with associations
+  phrasing (no causal claim); culture links bare; remaining annotations removed.
+- Facing the fear: opening bibliographic claims cited to SEP; 1844 removed (not
+  shown in opened extraction); CA 42 cited; "walking into the dizziness"
+  instruction removed; exposure/courage annotations removed (bare); blockquote
+  capitalization now matches the SEP-carried passage (lowercase).
+- Fading affect bias: PMID 24091020 now properly opened and cited (both the
+  healthy-coping suggestion and the maladaptive-reinforcement finding, no
+  unconditional benefit claim); "None did" replaced with the abstract's actual
+  moderation findings; negativity-bias/adaptation "one system"/"levers" claims
+  removed; related links bare.
+- Flexibility in coping: opening sentence cited; "No single strategy wins"
+  replaced with the authors' heuristic-framework proposal; genealogy annotations
+  removed (bare).
+- Ledger corrections: earlier claims that "every added factual sentence is
+  cited" and "nothing exceeds the abstracts" were premature for items 6-10 and
+  are superseded by this round's repairs.
