@@ -12,13 +12,13 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SO — Sociocul
 ---
 > **Principle 24** — Treat loneliness as a signal, not a stigma
 
-Hawkley and Cacioppo's review defines loneliness as "a distressing feeling that accompanies the perception that one's social needs are not being met by the quantity or especially the quality of one's social relationships", and treats it as functional: loneliness is "the social equivalent of physical pain, hunger, and thirst", and the pain of disconnection motivates reconnection (2010). Two consequences follow. First, "loneliness is not simply being alone"; the distress tracks unmet relational quality, not headcount. Second, the signal can misfire: loneliness raises "vigilance for threat" and "heightens feelings of vulnerability while also raising the desire to reconnect", which explains why the lonely often withdraw from the very contact they want.
+Hawkley and Cacioppo's review defines loneliness as "a distressing feeling that accompanies the perception that one's social needs are not being met by the quantity or especially the quality of one's social relationships", and treats it as functional: loneliness is "the social equivalent of physical pain, hunger, and thirst", and the pain of disconnection motivates reconnection (2010). Two consequences follow. First, "loneliness is not simply being alone"; the distress concerns the perceived adequacy of relationships, especially their quality, and contact numbers alone do not settle it. Second, the review proposes that the signal can misfire: loneliness increases vigilance for threat, heightens feelings of vulnerability, and raises the desire to reconnect, which is the authors' account of why the lonely sometimes withdraw from the very contact they want.
 
 > "Perceptions of social isolation, or loneliness, increase vigilance for threat and heighten feelings of vulnerability while also raising the desire to reconnect." (Hawkley & Cacioppo, 2010, abstract)
 
 **Plain words** Loneliness is a signal, like hunger — an evolved alarm that says "reconnect," not a character verdict. The alarm can misfire, driving withdrawal that deepens the isolation. Hear it as information, not as truth about your worth.
 
-*For example:* The lonely person who cancels plans because "nobody really wants me there" — that's the alarm misfiring, cutting the very wire it's meant to ring. The signal says go; the shame says hide. Believe the signal.
+*For example:* Imagine feeling lonely and wanting to decline an invitation because you assume you are unwanted. You ask the host rather than treating that assumption as settled.
 
 ## Sources
 

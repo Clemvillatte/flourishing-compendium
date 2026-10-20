@@ -12,13 +12,13 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SO — Sociocul
 ---
 > **Principle 40** — Treat institutions as knowledge infrastructures
 
-Peirce's account of the method of science explains why knowledge needs institutions: beliefs worth having must be "determined by nothing human, but by some external permanency", and the permanency must be public, since "It must be something which affects, or might affect, every man" (1877, §V). The scientific method's hypothesis is that "any man, if he have sufficient experience and he reason enough about it, will be led to the one True conclusion" (§V). A conclusion reached that way is not private property; it needs the shared plumbing of journals, peer review, societies and standards that lets inquirers check each other against the Real. That is the compendium's sense of institutions as knowledge infrastructure: not neutral, but load-bearing.
+Peirce describes a scientific method in which beliefs can be checked against something independent of opinion: "Real things, whose characters are entirely independent of our opinions about them", whose effects any inquirer with sufficient experience and reasoning can be led to agree on (1877, §V). The institutional application here is the compendium's: ask whether shared records and review procedures let others scrutinise a claim, rather than treating institutional prestige as its guarantee.
 
 > "Such is the method of science. Its fundamental hypothesis, restated in more familiar language, is this: There are Real things, whose characters are entirely independent of our opinions about them; those Reals affect our senses according to regular laws, and, though our sensations are as different as are our relations to the objects, yet, by taking advantage of the laws of perception, we can ascertain by reasoning how things really and truly are; and any man, if he have sufficient experience and he reason enough about it, will be led to the one True conclusion." (Peirce, 1877, §V)
 
-**Plain words** Institutions are knowledge infrastructure — universities, journals, media, regulators: the plumbing of collective intelligence. They're not neutral; they shape what counts as knowledge and who gets heard. Maintain the plumbing; it beats the alternative.
+**Plain words** Before trusting a claim, look at how the institution behind it handles checking: are the records shared, can others see the method, does the review have teeth? Prestige is not a substitute for that.
 
-*For example:* The peer review that feels like bureaucracy until the retracted paper that slipped through it — the plumbing is annoying, and the alternative is worse. Institutions are slow so that truth can be fast.
+*For example:* Imagine two bodies publishing the same finding: one with open data and published methods, one on letterhead alone. The finding is identical; the checking is not.
 ## Psychology parallels
 
 - [[The science of science|The science of science]] (Ziman, 1968); peer review and its failure modes (Smith, 2006); replication and reform (Nosek et al., 2015; Open Science Collaboration, 2015); institutional economics (North, 1990).

@@ -12,13 +12,13 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SO — Sociocul
 ---
 > **Principle 25** — Prioritize the quality of relationships over the quantity
 
-Hawkley and Cacioppo's definition already tilts this way: loneliness tracks unmet needs in "the quantity or especially the quality of one's social relationships" (2010). Aristotle's three kinds of friendship make the same point from the other end: the friendships that hold are the ones where the loving is not incidental. "Those who wish well to their friends for their sake are most truly friends; for they do this by reason of own nature and not incidentally; therefore their friendship lasts as long as they are good" (NE VIII.3). Such friendship "requires time and familiarity", which is why it is also rare. The practical portfolio follows: a few of these do more for a life than a large network of weak ties, which serve information and opportunity, not intimacy.
+Hawkley and Cacioppo's definition already tilts this way: loneliness tracks unmet needs in "the quantity or especially the quality of one's social relationships" (2010). Aristotle's three kinds of friendship offer a philosophical comparison from the other end: the friendships that hold are the ones where the loving is not incidental. "Those who wish well to their friends for their sake are most truly friends; for they do this by reason of own nature and not incidentally; therefore their friendship lasts as long as they are good" (NE VIII.3). Aristotle calls such friendships rare and says they require time and familiarity. The practical advice here is to give trusted friendships sustained attention, rather than judging a social life by its contact count.
 
-> "But it is natural that such friendships should be infrequent; for such men are rare. Further, such friendship requires time and familiarity; as the proverb says, men cannot know each other till they have 'eaten salt together'." (Aristotle, Nicomachean Ethics VIII.3, trans. Ross)
+> "But it is natural that such friendships should be infrequent; for such men are rare. Further, such friendship requires time and familiarity; as the proverb says, men cannot know each other till they have 'eaten salt together'; nor can they admit each other to friendship or be friends till each has been found lovable and been trusted by each." (Aristotle, Nicomachean Ethics VIII.3, trans. Ross)
 
-**Plain words** Quality beats quantity in relationships — three real ones outweigh three hundred contacts. Depth is the nutrient; breadth is just plumbing. Invest where there's reciprocity.
+**Plain words** Ask of your relationships not how many you can list, but which ones you could call at 3 a.m. and which ones know the unedited version of you. Attention is finite; spend it where it is returned.
 
-*For example:* The wedding with 200 guests and the hospitalisation with three visitors — the true portfolio shows up in a crisis. The contacts were never the same thing as the friends.
+*For example:* Someone with a full contacts list and no one they could honestly say that to has found the number, and not the thing.
 ## Psychology parallels
 
 -  (2000) on social support and well-being; Hawkley and Cacioppo (2010) on loneliness; relationship-quality and health outcomes (Uchino, 2006); the Dunbar number and network structure (Dunbar, 2016); weak ties and information flow (Granovetter, 1973).
