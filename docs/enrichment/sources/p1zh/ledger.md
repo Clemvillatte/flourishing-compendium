@@ -59,3 +59,6 @@ No advisor tool available; QC is self-QC only.
 
 ## SO057 Design workplaces for flourishing
 - Opened: Edmondson 1999 full text (MIT-hosted reprint); abstract and definition (p. 354) verbatim; learning-behavior description verbatim. Karasek 1979/1990, Deci & Ryan, Warr, Demerouti not opened (the PubMed record found for JD-R is the 2017 Bakker & Demerouti review, not used). Original 'evidence is substantial' stays unverified; page says so.
+
+## SO076 Digital and technological change as a designable environment
+- Opened: Verduyn 2017 abstract (Illinois record), Valkenburg 2022 PubMed abstract, extended active-passive model excerpt (SAGE CDPS 2022; authors not captured in excerpt, so cited by title). Original 'passive harms, active helps' qualified. Vanden Abeele 2021, Twenge 2018, Orben & Przybylski 2019, Wu, Zuboff, Arendt, Habermas not opened. (PubMed id guess for Orben returned an unrelated paper; discarded.)
