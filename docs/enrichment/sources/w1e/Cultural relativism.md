@@ -8,9 +8,11 @@
 - Herodotus, Histories 3.38 (A. D. Godley translation, Loeb Classical Library
   1921, vol. 2, full PDF fetched from archive.org:
   https://dn790000.ca.archive.org/0/items/herodotuswitheng02herouoft/herodotuswitheng02herouoft.pdf).
-  Both quoted passages verified verbatim against the fetched PDF: the Darius /
-  Callatians / Greeks story ending "...use and wont is lord of all" (blockquote)
-  and the "For if it were proposed to all nations..." sentence (prose). Note:
+  The blockquote (Darius / Callatians / Greeks story ending "...use and wont is
+  lord of all") verified verbatim against the fetched PDF. The "For if it were
+  proposed to all nations..." prose quote was verified against the same PDF but
+  REMOVED from the page in QC round 2 when the opening was rewritten around the
+  Britannica definition. Note:
   the fetched Godley text reads "after examination made" / "so well is each
   persuaded" where the Perseus modernized version reads "after examination" /
   "so well is each convinced" - quoted per the fetched text. Perseus itself was
@@ -29,8 +31,10 @@
 
 ## Decisions
 
-- Fast-track bar: one blockquote (the Darius story) + one prose quote (the
-  "proposed to all nations" sentence) + short synthesis. Saturation skipped
+- Fast-track bar: one blockquote (the Darius story) + short synthesis. (The
+  "proposed to all nations" prose quote from the first draft was removed in QC
+  round 2 when the opening was rewritten around the Britannica definition of
+  the exact term.) Saturation skipped
   per §1a except one obviously missing reciprocal (Cultural psychology -
   target page confirmed to lack the backlink), submitted in proposals/w1e.json
   with a source-bound why clause. Cultural embeddedness and Hofstede Related
