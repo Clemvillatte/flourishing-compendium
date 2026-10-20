@@ -56,3 +56,7 @@ No separate advisor tool available to this session; quotes are checked programma
 ## MO013
 - Ryan & Deci 2000 (SDT-site PDF): six quotes grep-verified; school-children study is Ryan & Connell 1989 as reported by Ryan & Deci (not opened). Hayes 2006 ACT review abstract opened (PubMed 16300724) but says nothing on values, so not used; the statement's ACT claim is therefore not certified and the body says so.
 - Limits: Wilson 2010 VLQ, Sheldon & Elliot 1999 (PDF fetched but no text layer) not used.
+
+## MO010
+- Dantzer et al. 2008 Nat Rev Neurosci 9:46-56 (PMC full text, opened): 7 quotes grep-verified; authors confirmed via PubMed XML. Alhola & Polo-Kantola 2007 and Ratey & Loehr 2011: PubMed abstracts only; the body states they concern cognition, not motivation.
+- Limits: the principle's energy/health/food claims (e.g. glucose/ego-depletion) deliberately not asserted; ego-depletion literature is contested and was not opened.
