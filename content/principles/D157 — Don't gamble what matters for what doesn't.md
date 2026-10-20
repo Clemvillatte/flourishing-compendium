@@ -18,7 +18,7 @@ Chapter 26 of the Daodejing pairs gravity with lightness and stillness with move
 
 > "How should the lord of a myriad chariots carry himself lightly before the kingdom? If he do act lightly, he has lost his root (of gravity); if he proceed to active movement, he will lose his throne." (DDJ 26, [Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
-The compendium's reading: the prince's baggage train is what the day's march actually depends on, and the brilliant prospects are what it does not. Acting lightly toward the one for the sake of the other is the chapter's named way to lose what matters.
+The compendium's reading: the prince's baggage train is what the day's march actually depends on, and the brilliant prospects are what it does not. In this modern application, the baggage train represents what should not be jeopardized for an attractive distraction.
 
 **Plain words**
 The chapter's image is a traveler who keeps near what carries him even when something brilliant passes by. The compendium's version of the baggage train: the people, health and integrity your day's outcomes rest on. The exercise is naming what yours is, and what you are currently chasing at its expense.

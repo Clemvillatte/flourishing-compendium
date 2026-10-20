@@ -18,12 +18,12 @@ Chapter 16 of the Daodejing begins with a cosmology of return: all things alike 
 
 > "The knowledge of that unchanging rule produces a (grand) capacity and forbearance, and that capacity and forbearance lead to a community (of feeling with all things). From this community of feeling comes a kingliness of character; and he who is king-like goes on to be heaven-like." (DDJ 16, [Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
-The chapter's chain is addressed to the person who would be king-like. The compendium's reading takes the chain's first links for personal practice: the constancy of the principle's title is the knowing of the unchanging rule, and the acceptance is the capacity and forbearance that knowledge produces.
+The chapter's chain is addressed to the person who would be king-like. The compendium's reading takes the chain's first links for personal practice: the constancy of the principle's title is the knowing of the unchanging rule, and the acceptance is the capacity and forbearance that knowledge produces. The principle's title calls the community of feeling "impartiality"; that equivalence is the compendium's interpretation of Legge's phrase, not a translation.
 
 **Plain words**
-The chapter's sequence: things return to their root, a stillness the chapter calls a report of fulfilment; that report is an unchanging rule you can know; knowing it produces capacity and forbearance, which widen into a community of feeling with all things, and from that community comes a kingly character. Ask where the chain currently breaks for you: at the knowing, or at the forbearance.
+In ordinary terms: things do their work and come back to rest; that rhythm is a rule you can know; knowing it produces capacity and forbearance, which widen into a community of feeling with all things, and from that community comes a kingly character. The compendium's exercise: before you judge a person or situation, ask whether you know the rule or are still caught in the movement.
 
-*For example:* The compendium's picture: the judge who isn't rattled by the lawyer's theater — composure is what fairness is made of.
+*For example:* The compendium's hypothetical: a judge who pauses before responding to a lawyer's theater — the pause is the exercise, not a guarantee of the verdict.
 
 ## Sources
 
@@ -36,7 +36,7 @@ The chapter's sequence: things return to their root, a stillness the chapter cal
 
 ## Philosophy parallels
 
-- **[[Sympatheia|Sympatheia]]** (Marcus Aurelius, Meditations), the mutual interdependence of all things
+- **[[Sympatheia|Sympatheia]]** (Marcus Aurelius, Meditations)
 - **[[The free person loves all|The free person loves all]]** (Spinoza, Ethics IV)
 
 <!-- fc: reflections

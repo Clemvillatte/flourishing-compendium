@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 174** — Choose your ground
 
-Chapter 8 of the Daodejing opens with water: the highest excellence is like water, whose excellence appears in benefiting all things and in occupying, without striving, the low place which all men dislike, hence near to the Tao. The chapter then lists excellences, and the first is this principle's ground: the excellence of a residence is in the suitability of the place. The list runs on: the mind in abysmal stillness, associations in being with the virtuous, government in securing good order, the conduct of affairs in ability, the initiation of movement in timeliness. Its closing note is that the one with the highest excellence does not wrangle about his low position, and so no one finds fault with him.
+Chapter 8 of the Daodejing opens with water: the highest excellence is like water, whose excellence appears in benefiting all things and in occupying, without striving, the low place which all men dislike, hence near to the Tao. The chapter then lists excellences, and the first is this principle's ground: the excellence of a residence is in the suitability of the place. The list runs on through the mind, associations, government, the conduct of affairs and the timing of movement, and closes with the note that the one with the highest excellence does not wrangle about his low position, and so no one finds fault with him.
 
 (DDJ 8.)
 
@@ -23,7 +23,7 @@ The compendium's reading: the chapter's word for the residence is suitability, a
 **Plain words**
 The chapter's water takes the low place without striving, and its list of excellences starts with a residence suiting its place. The compendium's exercise: name where you are currently fighting the terrain, a place, a team, a field, and what suitability would look like instead.
 
-*For example:* The compendium's picture: the salesperson who moves to the product team and suddenly looks talented — the terrain was the problem.
+*For example:* The compendium's hypothetical: a salesperson moves to the product team and starts to look talented — the question the exercise asks is what fit was missing on the first team.
 
 ## Sources
 

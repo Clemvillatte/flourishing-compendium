@@ -12,16 +12,16 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 172** — Courage with caution
 
-Chapter 73 of the Daodejing opens with two kinds of boldness: he whose boldness appears in his daring is put to death, and he whose boldness appears in his not daring lives on. Of these two cases, the chapter says, the one appears to be advantageous and the other injurious, and the poem set between the prose asks who shall truly scan the cause when Heaven's anger smites a man, which is why, the chapter says, the sage feels a difficulty. The chapter's second half turns to the way of Heaven: it does not strive and yet skilfully overcomes; its demonstrations are quiet and yet its plans are skilful and effective.
+Chapter 73 of the Daodejing opens with two kinds of boldness: he whose boldness appears in his daring to do wrong, in defiance of the laws, is put to death, and he whose boldness appears in his not daring to do so lives on. Of these two cases, the chapter says, the one appears to be advantageous and the other injurious, and the poem set between the prose asks who shall truly scan the cause when Heaven's anger smites a man — on which account, the chapter says, the sage feels a difficulty as to what to do in the former case. The chapter's second half turns to the way of Heaven: it does not strive and yet skilfully overcomes; its demonstrations are quiet and yet its plans are skilful and effective.
 
 (DDJ 73.)
 
 > "He whose boldness appears in his daring (to do wrong, in defiance of the laws) is put to death; he whose boldness appears in his not daring (to do so) lives on." (DDJ 73, [Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
-The compendium's reading: the chapter's not-daring is itself a form of boldness, a capacity the person has and declines to use, which is this principle's caution-with-courage. The chapter's sage, who feels the difficulty of the two cases, is the reading's model: neither of the two boldnesses is chosen without weighing.
+The compendium's reading: the chapter's not-daring is itself a form of boldness, a capacity the person has and declines to use, which is this principle's caution-with-courage. The chapter's sage feels a difficulty as to what to do in the former case; the weighing itself is the compendium's exercise, not the chapter's stated decision procedure.
 
 **Plain words**
-The chapter names two boldnesses and prices them: daring ends in death, not-daring lives on. The compendium's exercise: ask where you are currently daring because the capacity is there, rather than because the dare is worth it.
+The chapter names two boldnesses and prices them: the one who dares to do wrong, in defiance of the laws, is put to death; the one whose boldness is in not daring lives on. The compendium's exercise: ask where you are currently daring because the capacity is there, rather than because the dare is worth it.
 
 *For example:* The compendium's picture: the skilled fighter who walks away from the drunk's challenge is the chapter's boldness in not daring.
 
