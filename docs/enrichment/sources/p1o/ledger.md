@@ -31,5 +31,6 @@
 - Seed's Batchelor, After Buddhism citation dropped from locator (not
   opened). Yaden et al. 2017 and Kounios-Beeman 2014 parallel tails reduced
   to bare wikilinks; Nishida book attribution reduced (inherited, unopened).
-- Saturation (actual, rg -l 'B019' content/concepts/): [checked below].
+- Saturation (actual, rg -l 'B019' content/concepts/): 4 pages —
+  Self-transcendent experiences, Nirvana, The aha moment, Pure experience.
   Validator: ok.
