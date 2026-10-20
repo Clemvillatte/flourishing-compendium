@@ -83,6 +83,27 @@
       "phrase": "distrust of names and labels",
       "source": "w1a worker-w1a-4c8e21d7",
       "why": "body prose names the teaching without linking the concept page (links only the principle D016); unique occurrence at line 28, single-concept selector"
+    },
+    {
+      "concept": "Equanimity",
+      "into": "Ataraxia",
+      "phrase": "Buddhist equanimity",
+      "source": "w1a worker-w1a-4c8e21d7",
+      "why": "body prose names the concept without linking it; rg-verified unique single-concept occurrence"
+    },
+    {
+      "concept": "Equanimity",
+      "into": "Resilience",
+      "phrase": "equanimity and the Stoic art",
+      "source": "w1a worker-w1a-4c8e21d7",
+      "why": "body prose names the concept without linking it; rg-verified unique single-concept occurrence"
+    },
+    {
+      "concept": "Equanimity",
+      "into": "Loneliness",
+      "phrase": "equanimity where not",
+      "source": "w1a worker-w1a-4c8e21d7",
+      "why": "body prose names the concept without linking it; rg-verified unique single-concept occurrence"
     }
   ],
   "reciprocal": [
