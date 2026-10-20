@@ -44,11 +44,10 @@
   "Distress tolerance (DBT)",
   "ERP (exposure and response prevention)",
   "Embodied perception",
-  "Effortless attention",
   "Embodied social identity",
   "Ecological systems theory"
  ],
- "in_progress": null,
+ "in_progress": "Effortless attention",
  "flagged": {
   "Behavioural rehearsal / role-play (DBT, social skills training)": "seed citation 'Kelly, 2004' could not be identified; kept as original seed line, not consulted",
   "Brahman": "page was half-enriched (74 words, cited) on arrival; expanded per QC after verifying both inherited citations by opening SEP Sankara and IEP Advaita Vedanta",
@@ -74,13 +73,13 @@
   "Distinguishing practice from theory": "Reopened for QC: milestone QC round 3 (advisor) final fixes",
   "Distress tolerance (DBT)": "Reopened for QC: milestone QC round 3 (advisor) final fixes",
   "Ecological systems theory": "Reopened for QC: round 4 final: review citation on definition line",
-  "Effortless attention": "Reopened for QC: milestone QC round 4: citation on first effort sentence",
+  "Effortless attention": "Reopened for QC: round 4 final: remove unverified page range from Sources",
   "Embodied perception": "Reopened for QC: milestone QC round 3 (advisor) repairs",
   "Embodied social identity": "Reopened for QC: milestone QC round 4: citation on opening sentence"
  },
  "missing_concepts": [],
  "sources_checked": 34,
- "updated": "2026-10-20T11:59:09+00:00",
+ "updated": "2026-10-20T11:59:14+00:00",
  "takeover": {
   "by": "genuineflourishing36",
   "at": "2026-10-19T12:14:25+00:00"
