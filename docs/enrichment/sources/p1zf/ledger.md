@@ -96,3 +96,7 @@
 ## MO030 — Reduce friction
 - Sources opened: Thorndike et al. 2012 AJPH 102:527-533 (PMID 22390518, abstract, verbatim); Hollands et al. 2013 BMC Public Health 13:1218 (PMID 24359583, abstract, verbatim); Milkman et al. 2011 PNAS 108:10415 (PMID 21670283, abstract: implementation-intention prompts, not friction; used for MO037).
 - Corrections: "dramatically" and "more effective than willpower" removed; Hollands says evidence is limited. Milkman 2011 mis-cited as friction research. Thaler & Sunstein 2008 unopened.
+
+## MO037 — Habit stacking
+- Sources opened: Lally et al. 2010 EJSP 40:998-1009 (abstract via Wiley, verbatim); Judah, Gardner & Aunger 2013 BJHP 18:338-353 (PMID 22989272, abstract, verbatim).
+- Corrections: "No new willpower required" and "increases adoption" not supported; Lally shows 18-254 days to automaticity with a daily cue; no study compared stacking vs other methods. Clear 2018 and Fogg 2019 unopened. Aristotle, Gradual Training Sutta, Daodejing 64 bullets inherited. Wikilink [[Habit stacking]] kept in body.
