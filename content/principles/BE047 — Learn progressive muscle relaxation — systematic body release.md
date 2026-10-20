@@ -16,21 +16,25 @@ The technique itself is a two-step process:
 
 > "It involves learning to relieve the tension in specific muscle groups by first tensing and then relaxing each muscle group. When the muscle tension is released, attention is directed towards the differences felt during tension and relaxation so that the patient learns to recognize the contrast between the states." (Wikipedia, Progressive muscle relaxation)
 
-The evidence question was answered by a ten-year meta-analysis of 27 studies: "relaxation training showed a medium-large effect size in the treatment of anxiety" (Cohen's d .57 within groups, .51 between groups), and "applied relaxation, progressive relaxation and meditation showed greater effect sizes than other techniques." The authors' own summary keeps the caveat inside the claim: "Notwithstanding its limitations, the present meta-analytical study show consistent and significant efficacy of relaxation training in reducing anxiety."
+The review pooled studies of several relaxation methods, including progressive relaxation:
 
-**Plain words** Progressive muscle relaxation: tense each muscle group hard for a few seconds, then let go, and notice the difference. It is teaching the body the difference between holding and releasing. Systematic, boring, effective.
+> "As hypothesized, relaxation training showed a medium-large effect size in the treatment of anxiety. Cohen's d was .57 (95% CI: .52 to .68) in the within analysis and .51 (95% CI: .46 to .634) in the between group analysis." (Manzoni et al., 2008, Abstract, Results)
 
-*For example* Imagined: feet to face, tense and release, ten minutes, attending to the contrast between the two states at each muscle group. The shoulders you didn't know were up by your ears get noticed.
+Among the techniques compared, "applied relaxation, progressive relaxation and meditation showed greater effect sizes than other techniques." The authors' own summary keeps the caveat inside the claim: "Notwithstanding its limitations, the present meta-analytical study show consistent and significant efficacy of relaxation training in reducing anxiety." (Conclusion)
+
+**Plain words** The exercise is learning by contrast: tense a muscle group, release it, and notice the difference between the two states. That contrast is the skill.
+
+*For example* Imagined: working from the feet upward, one muscle group at a time, tensing, releasing, and noticing the contrast.
 
 ## Sources
 
-- [Wikipedia, "Progressive muscle relaxation"](https://en.wikipedia.org/wiki/Progressive_muscle_relaxation) — technique description checked against the opened article text
-- [Manzoni, Pagnini, Castelnuovo & Molinari, "Relaxation training for anxiety: a ten-years systematic review with meta-analysis", BMC Psychiatry 8:41, 2008 (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2427027/) — quotes checked against the opened article text
+- [Wikipedia, "Progressive muscle relaxation"](https://en.wikipedia.org/wiki/Progressive_muscle_relaxation) — technique description checked against the opened article text, lead
+- [Manzoni, Pagnini, Castelnuovo & Molinari, "Relaxation training for anxiety: a ten-years systematic review with meta-analysis", BMC Psychiatry 8:41, 2008 (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2427027/) — quotes checked against the opened article text, Abstract, Results and Conclusion
 
 ## Psychology parallels
 
-- **[[Progressive muscle relaxation (Jacobson)|Progressive muscle relaxation (Jacobson)]]**, Jacobson's technique, the most studied relaxation training in the meta-analysis (Jacobson, 1938; Manzoni et al., 2008)
-- **PMR is effective for anxiety**, relaxation training showed a medium-large effect size in the treatment of anxiety (Manzoni et al., 2008; Lehrer & Gevirtz, 2014)
+- **[[Progressive muscle relaxation (Jacobson)|Progressive muscle relaxation (Jacobson)]]**, Jacobson's technique, one of the methods pooled in the meta-analysis (Manzoni et al., 2008; technique origin: Jacobson, 1938)
+- **Relaxation training showed a medium-large effect size in the treatment of anxiety**, pooled across methods, with progressive relaxation among the stronger techniques (Manzoni et al., 2008)
 
 ## Philosophy parallels
 
@@ -40,4 +44,4 @@ The evidence question was answered by a ten-year meta-analysis of 27 studies: "r
 
 ## Practice
 
-- Work through the muscle groups from feet to face: tense each group for a few seconds, release, and rest in the difference before moving on.
+- Tense a muscle group, release it, and notice the contrast before moving to another group.

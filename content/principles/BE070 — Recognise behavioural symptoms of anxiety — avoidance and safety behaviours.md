@@ -12,15 +12,24 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BE — Overt Be
 ---
 > **Principle 70** — Recognise behavioural symptoms of anxiety: avoidance and safety behaviours
 
-Anxiety produces specific behavioural symptoms: avoidance, safety behaviours, checking, reassurance-seeking. These are symptoms, not choices. They are treatable with exposure.
+Within exposure therapy, Craske and colleagues discuss how safety signals can provide short-term relief and may interfere with new learning. They also review studies with contradictory findings, including studies that did not find poorer outcomes when safety behaviours continued.
 
-**Plain words** Anxiety also leaves behavioural prints: the avoided calls, the rehearsed exits, the "I'll just check" patterns. Recognising them as symptoms — not personality — is the first move. The behaviour is the fear talking.
+> "In the experimental literature, safety signals alleviate distress in the short term, but when they are no longer present, the fear returns (Lovibond, Davis & O'Flaherty, 2000)." (Craske et al., 2014, Removal of Safety Signals)
 
-*For example:* "I'm just not a phone person" — said by someone who returns every text but dodges calls, always, when stressed. Not a preference; a pattern with an address.
+The authors report a consensus to phase out safety signals during exposure therapy. Their case-study discussions describe how avoidance can prevent opportunities to test a feared prediction.
+
+**Plain words** Write down what you fear will happen and what you do to prevent it. In treatment, you and your clinician can examine whether that precaution is getting in the way of testing the prediction.
+
+*For example* Imagined: someone worries that they will freeze during a call and relies on a word-for-word script. They bring that prediction and the script to therapy to discuss an appropriate test.
+
+## Sources
+
+- [Craske, Treanor, Conway, Zbozinek & Vervliet, "Maximizing exposure therapy: An inhibitory learning approach", Behaviour Research and Therapy 58: 10-23, 2014 (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4114726/) — quotes checked against the opened article text, Removal of Safety Signals section and Case Studies
+
 ## Psychology parallels
 
-- **Anxiety and behavioural symptoms**, avoidance and safety behaviours are maintaining factors (Craske et al., 2014; Foa et al., 2007)
-- **Exposure treats behavioural symptoms**, systematic approach is effective (Foa et al., 2007; Craske et al., 2014)
+- **Anxiety and behavioural symptoms**, avoidance and safety behaviours can interfere with exposure by preventing violation in expectancy, though the review reports mixed findings (Craske et al., 2014)
+- **Exposure treats behavioural symptoms**, the review reports a consensus to phase out safety signals during exposure therapy (Craske et al., 2014)
 
 ## Philosophy parallels
 
@@ -30,4 +39,4 @@ Anxiety produces specific behavioural symptoms: avoidance, safety behaviours, ch
 
 ## Practice
 
-- When anxious, recognise avoidance and safety behaviours as symptoms, not choices. Treat with exposure: approach feared situations, drop safety behaviours. Seek treatment if severe.
+- With a clinician, identify the feared outcome and the possible safety behaviour before agreeing how to test the prediction.

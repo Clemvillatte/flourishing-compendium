@@ -1,6 +1,6 @@
 {
  "batch": "p1ze",
- "revision": 10,
+ "revision": 12,
  "records": [
   {
    "action": "reciprocal",
@@ -99,6 +99,13 @@
    "link": "BE056",
    "why": "Prosocial behaviour is the umbrella term for actions that benefit others; BE056 covers the kindness-intervention subset and the meta-analytic evidence on the actor's well-being.",
    "notes": "Proposed by worker-p1ze-e6d6f5ba during BE056 saturation; grounded in the opened Curry et al. 2018 meta-analysis."
+  },
+  {
+   "action": "reciprocal",
+   "into": "Behavioral activation",
+   "link": "BE069",
+   "why": "BE069 names depression's withdrawal and inactivity as the behaviours behavioral activation targets; the concept page covers the treatment's account of those patterns.",
+   "notes": "Proposed by worker-p1ze-e6d6f5ba during BE069 saturation rerun; grounded in the opened Jacobson et al. 2001 paper."
   }
  ]
 }

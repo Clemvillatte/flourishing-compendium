@@ -11,12 +11,13 @@
   "BE032",
   "BE035",
   "BE038",
+  "BE070",
   "BE047",
   "BE051",
   "BE056",
   "BE069"
  ],
- "in_progress": "BE070",
+ "in_progress": null,
  "flagged": {
   "BE012": "Reopened for QC: QC round 1 fail: source overstatement, locator missing, plain-words metaphor triad, example unlabelled; advisor repairs pending",
   "BE014": "Reopened for QC: milestone QC round 2 repairs applied, re-closing",
@@ -25,10 +26,14 @@
   "BE029": "Reopened for QC: milestone QC round-3 repairs applied, re-closing",
   "BE032": "Reopened for QC: milestone QC round-3 repairs applied, re-closing",
   "BE035": "Reopened for QC: milestone QC round-3 repairs applied, re-closing",
-  "BE038": "Reopened for QC: milestone QC round-3 repairs applied, re-closing"
+  "BE038": "Reopened for QC: milestone QC round-3 repairs applied, re-closing",
+  "BE047": "Reopened for QC: item-15 milestone QC round-4 repairs applied, re-closing",
+  "BE051": "Reopened for QC: item-15 milestone QC round-4 repairs applied, re-closing",
+  "BE056": "Reopened for QC: item-15 milestone QC round-4 repairs applied, re-closing",
+  "BE069": "Reopened for QC: item-15 milestone QC round-4 repairs applied, re-closing"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T08:29:30+00:00",
+ "updated": "2026-10-20T08:39:49+00:00",
  "band_done": false
 }

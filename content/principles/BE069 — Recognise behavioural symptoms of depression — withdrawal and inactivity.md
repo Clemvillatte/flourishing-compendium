@@ -12,15 +12,15 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BE — Overt Be
 ---
 > **Principle 69** — Recognise behavioural symptoms of depression: withdrawal and inactivity
 
-The behavioural picture the treatment paper draws: avoidance behaviors in depression are listed among the diagnostic criteria, and behavioural activation treats them as behaviours with a function, not character flaws:
+The treatment paper's behavioural picture:
 
-> "From a BA perspective, however, we also pay particular attention to the function of these behaviors in the context of an individual's life." (Jacobson, Martell & Dimidjian, 2001, p. 259)
+> "Inactivity, withdrawal, and inertia are commonly observed behaviors among depressed individuals." (Jacobson, Martell & Dimidjian, 2001)
 
-The same passage explains what the withdrawal does, short-run relief and long-run cost: "these avoidance patterns often function to deny depressed people access or opportunity to contact potentially antidepressant sources of reinforcement in their lives", and they "tend to increasingly narrow the repertoire of behaviors in which an individual engages and often creates secondary problems in an individual's life." The practical reading: the cancelled plans and the closed curtains are symptoms with a function, and the treatment that works on the function is [[Behavioral activation|behavioural activation]].
+Jacobson and colleagues describe inactivity, withdrawal and inertia as commonly observed behaviours in depression and discuss them as symptoms, citing APA (1994). From a BA perspective the paper pays particular attention to "the function of these behaviors in the context of an individual's life." The same passage explains the short-run relief and long-run cost: "these avoidance patterns often function to deny depressed people access or opportunity to contact potentially antidepressant sources of reinforcement in their lives", and they "tend to increasingly narrow the repertoire of behaviors in which an individual engages and often create secondary problems in an individual's life."
 
-**Plain words** Depression has behavioural fingerprints: withdrawal, inactivity, the cancelled plans, the curtains. They are symptoms, as physical as a fever, and symptoms respond to behavioural treatment: gentle re-entry, scheduled activity.
+**Plain words** Depression has behavioural fingerprints: withdrawal, inactivity, the cancelled plans, the curtains. In the paper's account they are symptoms with a function, and the function is what the treatment works on, through [[Behavioral activation|behavioural activation]].
 
-*For example* The friend who cancels everything for two months: the illness's signature, not laziness. Keep the invitation arriving, no pressure attached.
+*For example* Imagined: a friend cancels every plan for two months. One possible reading, in the paper's terms, is avoidance behaviour; the observation alone does not diagnose.
 
 ## Sources
 
@@ -28,8 +28,8 @@ The same passage explains what the withdrawal does, short-run relief and long-ru
 
 ## Psychology parallels
 
-- **Depression and behavioural symptoms**, avoidance behaviors in depression are listed as part of the diagnostic criteria (Jacobson, Martell & Dimidjian, 2001, citing APA, 1994)
-- **BA treats behavioural symptoms**, activation targets the avoidance patterns (Jacobson, Martell & Dimidjian, 2001; Dimidjian et al., 2011)
+- **Depression and behavioural symptoms**, inactivity, withdrawal and inertia are commonly observed behaviors among depressed individuals (Jacobson, Martell & Dimidjian, 2001)
+- **BA treats behavioural symptoms**, activation targets the avoidance patterns (Jacobson, Martell & Dimidjian, 2001)
 
 ## Philosophy parallels
 
@@ -39,4 +39,4 @@ The same passage explains what the withdrawal does, short-run relief and long-ru
 
 ## Practice
 
-- When depressed, recognise behavioural symptoms (withdrawal, inactivity) as symptoms, not choices. Treat with behavioural activation: schedule small activities, do not obey the withdrawal urge. Seek treatment if severe.
+- Within behavioural activation, examine what withdrawal helps you avoid and plan one manageable activity to try.
