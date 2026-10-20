@@ -346,3 +346,30 @@ source; anything not opened is recorded as inherited and unverified.
   exercise. Schiller claim tail trimmed to a bare attribution.
 - Saturation: no new reciprocals; Intolerance of uncertainty and the
   examination-of-fear entries are already the linked targets.
+
+## Item-15 milestone QC (2026-10-20): FAIL all five -> repairs applied
+- Advisor round 1 (items B078, B080, B092, B096, B109): FAIL all five. Exact
+  repairs applied and each re-validated against the pre-session baseline
+  f31a4697 before re-marking done: B078 (compendium's causal psychology in
+  application/plain words removed; fork/contagion framing corrected; Dhp 3-4
+  now a related contrast, not the same fork; example no longer implies the
+  insight prevents the purchase), B080 (rehearsis/displacement theories
+  removed; warmth/congruence and Itard-style promotion removed; "crop the
+  sutta's word cultivate asks for" replaced), B092 (blockquote reduced to the
+  contiguous opening sentence; "the factor's food is evaluative attention, not
+  the inquiring stance" corrected; the attachment/curiosity and affect/boredom
+  contrasts removed; example de-asserted), B096 ("stop being thrown" fixed as
+  contradictory with the seed principle; silent lay of findings/
+  contemplate-the-same-unconditional-benefit constructions removed), B109
+  ("one feels, one perceives, one thinks about" tense fixed to "what one
+  feels, one perceives, one thinks about"; Dhp 212 correctly attributed to
+  endearment/attachment rather than fear of loss; "career collapse is the
+  thinking-about-what-one-perceives part" removed as duplicate).
+- Process changes adopted: fail-fast (validate and push before marking done);
+  QC rounds for every 5th item after the milestone, the intervening items
+  covered in the next round; B049 was worked before this milestone and is
+  therefore reviewed in the next QC round.
+- Supervisor flag routed (B092): the Kashdan protected psychology parallels
+  label ("Curiosity as a character strength predicting well-being") contains
+  an unopened empirical claim in a protected label. Content preserved exactly;
+  routed to the supervisor for evidence disposition.

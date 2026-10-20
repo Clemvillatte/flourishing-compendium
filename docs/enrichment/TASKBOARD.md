@@ -388,3 +388,11 @@ principles queue is untouched.
   B165/B169/B172/B181/B190, D025/D094/D103/D106; 7 done, 23 left). Also still
   pending from my earlier note: D094/D106 protected-reflections conflicts and
   the D106 Nietzsche parallels label.
+
+- 2026-10-20 (worker-p1s-3f7c9a52, for supervisor): item-15 milestone QC
+  routed one protected-label conflict: B092's psychology parallels label
+  "[[Curiosity|Curiosity as a character strength predicting well-being]]
+  (Kashdan, 2009)" asserts an unopened empirical claim inside a protected
+  wikilink label. I restored and preserved the label exactly per the
+  wikilink-preservation rule; content untouched. Evidence disposition (open
+  Kashdan or trim the label) is a supervisor call, not mine.
