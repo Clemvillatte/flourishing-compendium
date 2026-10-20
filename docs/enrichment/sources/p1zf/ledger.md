@@ -34,3 +34,6 @@
 
 ## E071 — Avoiding the serious man
 - Source opened: Beauvoir, Ethics of Ambiguity ch. II, marxists.org (verbatim quotes). Altemeyer 2002 and Rokeach 1960 bullet inherited, marked "not verified". Translator not stated on page.
+
+## E073 — Avoiding the adventurer
+- Source opened: Beauvoir, Ethics of Ambiguity, ch. II (marxists.org), adventurer section; verbatim quotes. Corrections: Beauvoir says the adventurer's choice is "very close to a genuinely moral attitude"; the fault is indifference to others, not mere movement. Old line said "Part II, ch. 3"; marxists.org text places the section in Part II (file ch02). Old serial-starter example (the "tell") removed as unsourced. Zuckerman 1994 and Cloninger 1986 bullets inherited, unverified.
