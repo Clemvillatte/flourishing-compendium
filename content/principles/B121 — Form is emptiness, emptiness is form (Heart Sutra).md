@@ -12,13 +12,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 121** — Form is emptiness, emptiness is form (Heart Sutra)
 
-Nothing has independent existence: and that very emptiness is what allows everything to function. Emptiness is not elsewhere; it is the very texture of ordinary things.
+The Heart Sutra makes the identification in its most quoted line, and the Conze translation keeps the symmetry exact: form is emptiness and the very emptiness is form. The sutra does not say form dissolves into emptiness; it says the two are not two things, and extends the same statement to feelings, perceptions, impulses and consciousness. (Heart Sutra.)
 
-(Heart Sutra; Nagarjuna.)
+> "Here, Sariputra, form is emptiness and the very emptiness is form; emptiness does not differ from form, form does not differ from emptiness; whatever is form, that is emptiness, whatever is emptiness, that is form, the same is true of feelings, perceptions, impulses and consciousness." (Heart Sutra, [Conze translation, The Gold Scales](http://oaks.nvg.org/heart-sutra.html))
 
-**Plain words** Nothing has independent existence — and that very emptiness is what allows everything to function. Emptiness is not elsewhere; it's the very texture of ordinary things. The door works because it's not solid wall; you work because you're not a fixed thing.
+Nagarjuna's chapter 24 answers the objection that emptiness would make nothing work. His reply is the reverse: for him to whom emptiness is clear, everything becomes clear; and whatever is dependently co-arisen is explained to be emptiness, which is itself the middle way. The chapter's logic is that dependence and emptiness are one thing seen from two sides. (Nagarjuna.)
 
-*For example:* The wheel works because of the hole in the middle — the emptiness isn't a flaw in the wheel; it's the feature.
+> "Whatever is dependently co-arisen / That is explained to be emptiness. / That, being a dependent designation, / Is itself the middle way." (Nagarjuna, MMK 24.18, [Garfield translation](https://kokyohenkel.weebly.com/uploads/1/2/7/4/127410773/nagarjuna_-_mulamadhyamakakarika_ch_24__garfield_.pdf))
+
+**Plain words**
+Take one thing you treat as solid and ask what it is standing on: the body on food and air, the job on other people's agreements, the self on memory and story. Emptiness in this principle is that list. The exercise is to hold the list in view while using the thing anyway: the door is no less a door for being made of conditions.
+
+*For example:* A wheel works because of the hole at the hub. The emptiness is not a defect in the wheel; it is where the axle lives.
+
+## Sources
+
+- [The Heart Sutra, Edward Conze translation, The Gold Scales](http://oaks.nvg.org/heart-sutra.html) — the form-emptiness passage
+- [Nagarjuna, Mulamadhyamakakarika ch. 24, Jay L. Garfield translation](https://kokyohenkel.weebly.com/uploads/1/2/7/4/127410773/nagarjuna_-_mulamadhyamakakarika_ch_24__garfield_.pdf) — verses 14 and 18
 
 ## Psychology parallels
 

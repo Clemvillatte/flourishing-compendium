@@ -322,3 +322,23 @@ priority, then B items in manifest order (manifest lists bare IDs; no titles).
   2010; Killingsworth et al. 2023; Epicurus; Seneca) NOT opened; flagged inherited
   parallels. Linked concepts (Gratitude, Ataraxia, Sufficiency) bodies to be read
   per the post-QC protocol.
+
+## B121 — Form is emptiness, emptiness is form (Heart Sutra)
+
+- Opened (direct download + local extraction, fetch-tool extraction credits exhausted):
+  http://oaks.nvg.org/heart-sutra.html — the Conze translation of the Heart Sutra,
+  form-emptiness passage; and the Garfield MMK ch. 24 PDF at
+  https://kokyohenkel.weebly.com/uploads/1/2/7/4/127410773/nagarjuna_-_mulamadhyamakakarika_ch_24__garfield_.pdf
+  — verses 14 and 18.
+- Verbatim quotes used: the Conze form-emptiness passage; MMK 24.18 ("Whatever is
+  dependently co-arisen / That is explained to be emptiness. / That, being a
+  dependent designation, / Is itself the middle way."). MMK 24.14 paraphrased
+  ("for him to whom emptiness is clear, everything becomes clear") against the
+  opened PDF.
+- The "wheel works because of the hole" image is the compendium's illustration
+  (echoes the DDJ 11 parallel, which is an inherited unopened link); kept in the
+  example, labelled by context.
+- Limitations: inherited parallels (Kashdan and Rottenberg 2010; MMK 24; DDJ 11;
+  Hanh Interbeing) NOT opened; flagged inherited parallels. Linked concepts
+  (Cognitive flexibility, Shunyata, Wu, Interbeing) bodies to be read per the
+  post-QC protocol.
