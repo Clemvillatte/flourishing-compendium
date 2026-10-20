@@ -177,3 +177,22 @@ priority, then B items in manifest order (manifest lists bare IDs; no titles).
   Merleau-Ponty; Pronin et al. 2004) NOT opened; flagged inherited parallels. Linked
   concepts (Predictive processing, Inattentional blindness, Naive realism) skimmed as
   seeds only.
+
+## Ledger corrections (advisor QC, item 10, 2026-10-20)
+
+- ACCESS WORDING: earlier entries say "fetched in full"; the actual access method was a
+  targeted extraction of the cited passages from each opened page/PDF (LLM extraction
+  against the opened source). The quoted passages were verified verbatim; the
+  surrounding text of each source was not fully read.
+- LINKED-CONCEPT CHECKS: verified file existence and matching titles only; concept
+  bodies were not read. Corrections to any body claim these entries imply are
+  available on request.
+- B064 INCIDENT: B064 ("Drop preferences: the Great Way is not difficult") is NOT in
+  the p1p manifest (p1p = B046, B061-B063, B073, B075, B076, B079, B086, B089, B093,
+  B105, B108, B111, B121, B136-B138, B159, B161, B178, B180, B182, B185, B188, B189,
+  B193, B194, D026, D028); it belongs to the p1s manifest. I enriched it by mistake
+  (misled by a mislabeled manifest display), validated it, and pushed it live. The
+  content passed validation with verbatim quotes (Xinxin Ming Clarke; Dhp 83); left in
+  place per the p1m incident precedent (content kept, supervisor disposition
+  pending). p1p state reopened for B064; it does NOT count toward p1p's 30 items.
+  Supervisor notified via TASKBOARD worker note.

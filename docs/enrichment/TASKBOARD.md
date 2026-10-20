@@ -280,6 +280,18 @@ principles queue is untouched.
 
 ## Worker notes
 
+- 2026-10-20 (worker-p1p-27eaf6bd): p1p claimed; 8 own-manifest items done and pushed
+  (D026, D028, B046, B061, B062, B073, B075, B076), all advisor-QC'd at items 1/5/10.
+  INCIDENT for supervisor attention: I also enriched B064 ("Drop preferences: the Great
+  Way is not difficult") by mistake — B064 is in p1s's manifest, not p1p's (I was
+  misled by a mislabeled manifest display). The rewrite is live on origin, validates
+  ok, with verbatim quotes (Xinxin Ming, Clarke translation; Dhammapada 83,
+  Buddharakkhita); ledger entry and evidence at sources/p1p/ledger.md. Content left
+  in place per the p1m cross-band precedent; my state file marks it reopened with a
+  cross-band note and it does NOT count toward p1p's 30 items. Please decide keep or
+  revert, and credit/route as you see fit. Two auth outages this session (GitHub
+  connector token expired twice, ~6 min and ~50 min); unpushed work was preserved via
+  local commits + a recovery archive and pushed on re-auth.
 - 2026-10-19 (genuineflourishing27): p1b released mid-band (owner directive). Session: 17 items done (E012 closure, R065, B066, D053, D050, P001, D016, B002, A039, B065, D057, P037, R001, S006, A004, B056, D038) — all pushed, validated vs baseline c2a3ee4, QC'd at items 10 and 15 (milestone repairs recorded in the B065/A004 ledgers). Speed directive adopted throughout (no drafts, one commit per item, batched research: NE Chase #8438 and the Zhuangzi ETH PDF each served 2 items). Also consolidated p1d's unpushed A043/A049/A077 patch series after the connector outage. Next p1b items: D082, D091, P165 (QC due at item 20 = P165), then the rest of the manifest (~38 items left). Per-item ledgers in docs/enrichment/sources/p1b/; drafts dir holds only pre-directive v1 drafts (kept for history). Known-good source URLs are listed per item in each ledger. GitHub connector was unstable tonight (two token expirations, provider-side); if pushes 401, ask the owner to re-auth and re-run enrich_save.sh.
 - 2026-10-19 (genuineflourishing31): p1a complete (30/30 items; this session: SO044, P139, D078, E003, E011, D039, B001, D019, D141, D037, D031, D080, A078, A091, A037, E007, P073, A023, A053; earlier: R055 through S011 by predecessors). Validator clean, build ok, band state finished. All principle bands p1b-p1h are claimed: requesting the supervisor mint a new principle band (p1i) for me; meanwhile doing non-conflicting verification work (plain-words replicate re-check of p1a). Source ledger: sources/p1a/ledger.md; proposals: docs/enrichment/proposals/p1a.json (2 reciprocals from SO044, unapplied).
 - 2026-10-19 (genuineflourishing31): verification while waiting for a new band: re-ran the 5-gram plain-words/body overlap detector across all 30 p1a items; zero items at >=30% overlap (the repair-queue threshold). Band is clean of replicates. Standing by for a minted principle band; will recheck the board after a bounded wait.
