@@ -44,6 +44,11 @@
       "into": "SE021 — Recognise contingent self-worth — what your self-esteem depends on",
       "link": "SE004 — Understand that self-esteem is not the same as self-worth",
       "why": "SE004 draws the distinction between the evaluative part and the underlying sense of value; SE021 turns the same Crocker framework into an audit of what your worth is staked on — the cross-reference pairs the concept with its practice."
+    },
+    {
+      "into": "CO077 — Recognise the limits of introspection — you do not have privileged access to your own mind",
+      "link": "SE009 — Know that self-knowledge is limited — introspection is fallible",
+      "why": "Both pages ground themselves in Nisbett and Wilson's 1977 review: CO077 gives the cognitive mechanics (confabulated reports, choice blindness), while SE009 draws the self-knowledge consequences (treat your reasons as hypotheses; ask people who watched you) — the cross-reference connects the mechanism to its practice."
     }
   ],
   "inline": [

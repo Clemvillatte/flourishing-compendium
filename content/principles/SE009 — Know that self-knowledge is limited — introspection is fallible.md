@@ -12,11 +12,20 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 9** — Know that self-knowledge is limited: introspection is fallible
 
-Your access to your own self — your motives, traits, reasons — is limited. You often do not know why you do things, and your explanations can be confabulated. This does not make self-knowledge useless; it makes it fallible and in need of external feedback.
+Nisbett and Wilson's review of the evidence concluded there may be "little or no direct introspective access to higher order cognitive processes" (p. 231): people are sometimes unaware of the stimulus that influenced their response, unaware of the response itself, and unaware that the stimulus affected it. When asked to report on their cognitive processes, "their reports are based on a priori, implicit causal theories, or judgments about the extent to which a particular stimulus is a plausible cause of a given response."
 
-**Plain words** Your access to your own motives, traits, and reasons is limited — you often don't know why you did something, and the explanation is confabulated after the fact. Self-knowledge is useful but fallible. Trust the behaviour data over the inner press release.
+> "The accuracy of subjective reports is so poor as to suggest that any introspective access that may exist is not sufficient to produce generally correct or reliable reports." (Nisbett & Wilson, "Telling More Than We Can Know", Psychological Review 84, 1977, p. 233)
 
-*For example:* The person who "knows" they chose the job for the mission — and the tracker that shows they applied only to companies near the coast. The reason was real to them, written by the PR department, after the decision.
+The correction is not despair. The paper notes that accurate reports will occur when the influential stimuli are salient and plausible causes; introspection is fallible, not empty. The compendium's application: treat self-explanations as hypotheses, check them against what you actually did, and ask people who watched you.
+
+**Plain words**
+When you explain your own choices, you are often not reading a record of your decision process; you are telling a plausible story about it. The story can be wrong in ways you cannot catch from the inside. Two safeguards: treat your reasons as a draft to check against the behaviour data (calendar, history, receipts), and ask someone who watched you — their view of your pattern is sometimes more accurate than yours. Self-knowledge stays useful; it just stops being testimony.
+
+*For example:* Imagine the person who "knows" they chose the job for the mission, and the tracker that shows they applied only to companies near the coast. The reason was real to them, written by the PR department, after the decision.
+## Sources
+
+- [Nisbett, R. E., & Wilson, T. D. (1977), Telling More Than We Can Know: Verbal Reports on Mental Processes, Psychological Review 84(3), 231-259 (full-text PDF, MIT)](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Social_Cognition/Nisbett_Wilson_1977_Telling_more_than_we_can_know.pdf) — abstract p. 231; the accuracy verdict p. 233
+
 ## Psychology parallels
 
 - **[[Limits of introspection|Limits of introspection (Nisbett & Wilson)]]**, people confabulate reasons for their behaviour (Nisbett & Wilson, 1977)
