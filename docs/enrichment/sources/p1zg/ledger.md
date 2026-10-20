@@ -35,3 +35,7 @@
 ## PP045
 - PubMed abstracts via eutils: Crum, Salovey & Achor 2013 (23437923), Keller et al. 2012 (22201278), Crum et al. 2023 (37199967); quotes verified verbatim.
 - Limits: full texts, McGonigal 2016 (book) not opened. Statement's 'acute, controllable, meaningful stress tends to be enhancing; chronic, uncontrollable, meaningless harmful' is NOT supported by an opened source; body says so. 'Stress mindset' effects mostly small samples, self-report; Keller is observational. Example hypothetical.
+
+## PP048
+- PubMed abstracts: Sonnentag, Venz & Casper 2017 (28358572), Sonnentag 2001 (11482632); quotes verified verbatim.
+- Limits: Sonnentag 2018 and Demerouti et al. 2009 (inherited) not opened. Statement's 'passive recovery is less effective than active' CONTRADICTED/unsupported by 2001 abstract (low-effort activities had positive effect); body says so. Sleep/time-in-nature only partially supported ('enhanced in natural environments'). Example hypothetical.
