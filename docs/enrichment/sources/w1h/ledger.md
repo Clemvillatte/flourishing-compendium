@@ -44,3 +44,15 @@
 - Unresolved invented links removed after validator catch ("Expressive suppression
   research", "The process model of emotion regulation" replaced by existing
   "Process model of emotion regulation Gross").
+
+## Envy (fast-track)
+- Opened: PubMed 19485619 (van de Ven, Zeelenberg & Pieters 2009, Emotion 9, 419-429)
+  — definition quoted verbatim; benign/malicious, moving-up vs pulling-down, NL/US/ES.
+- Opened: Gutenberg 9105 (La Rochefoucauld, Bund & Friswell translation) — maxim 27
+  quoted verbatim ("timid and shame-faced"); maxim 476 paraphrased (envy outlasts
+  happiness); maxims 28, 280, 433 seen but unused.
+- Opened: Gutenberg 2017 (Dhammapada, Müller) — verse 365 paraphrased (mendicant who
+  envies obtains no peace of mind); verses 181, 209, 262, 366 seen.
+- R. H. Smith 2000 / Smith & Kim 2007 kept as seed citation lines only; no claims made
+  beyond what the opened 2009 paper supports (social comparison framing attributed to
+  the research tradition, not to a specific unread Smith claim).
