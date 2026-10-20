@@ -18,9 +18,10 @@
   "R061",
   "R082",
   "R083",
-  "R084"
+  "R084",
+  "R085"
  ],
- "in_progress": "R085",
+ "in_progress": null,
  "flagged": {
   "PP016": "Reopened for QC: QC correction (first-item advisor review FAIL): symptom-claim wording, quote moved to blockquote, plain words/example replaced, Frankl gloss reduced, scoped A&T paraphrase",
   "PP075": "Reopened for QC: QC correction round 2 (R025 closure review): plain words and example generalisations replaced",
@@ -32,6 +33,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T13:19:22+00:00",
+ "updated": "2026-10-20T13:20:32+00:00",
  "band_done": false
 }
