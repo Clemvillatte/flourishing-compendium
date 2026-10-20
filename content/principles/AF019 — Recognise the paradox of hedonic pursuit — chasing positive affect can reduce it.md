@@ -18,7 +18,11 @@ Empirical work on valuing happiness reports a paradox: aiming at the feeling can
 
 > "We argue that this may not always be the case. Instead, valuing happiness could be self-defeating because the more people value happiness, the more likely they will feel disappointed. This should apply particularly in positive situations, in which people have every reason to be happy." (Mauss, Tamir, Anderson and Savino, [Can seeking happiness make people unhappy?](https://pmc.ncbi.nlm.nih.gov/articles/PMC3160511/), Emotion 11(4), 2011)
 
-The two studies bear it out. "In Study 1, female participants who valued happiness more (vs. less) reported lower happiness when under conditions of low, but not high, life stress," and "In Study 2, compared to a control group, female participants who were experimentally induced to value happiness reacted less positively to a happy, but not a sad, emotion induction. This effect was mediated by participants' disappointment at their own feelings." ([Mauss et al., 2011](https://pmc.ncbi.nlm.nih.gov/articles/PMC3160511/)) The paper closes: "Paradoxically, therefore, valuing happiness may lead people to be less happy just when happiness is within reach." ([Mauss et al., 2011](https://pmc.ncbi.nlm.nih.gov/articles/PMC3160511/))
+"In Study 1, female participants who valued happiness more (vs. less) reported lower happiness when under conditions of low, but not high, life stress." ([Mauss et al., 2011](https://pmc.ncbi.nlm.nih.gov/articles/PMC3160511/))
+
+"In Study 2, compared to a control group, female participants who were experimentally induced to value happiness reacted less positively to a happy, but not a sad, emotion induction. This effect was mediated by participants' disappointment at their own feelings." ([Mauss et al., 2011](https://pmc.ncbi.nlm.nih.gov/articles/PMC3160511/))
+
+The paper closes: "Paradoxically, therefore, valuing happiness may lead people to be less happy just when happiness is within reach." ([Mauss et al., 2011](https://pmc.ncbi.nlm.nih.gov/articles/PMC3160511/))
 
 **Plain words**
 Deliberately trying to feel happy is associated with lower happiness, and the mechanism is disappointment at your own feelings. ([Mauss et al., 2011](https://pmc.ncbi.nlm.nih.gov/articles/PMC3160511/)) Aim at the activities, not the feeling; the feeling arrives as a by-product.

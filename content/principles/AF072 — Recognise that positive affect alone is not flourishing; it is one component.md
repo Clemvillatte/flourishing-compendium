@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 72** — Recognise that positive affect alone is not flourishing; it is one component
 
-The research literature on well-being divides along two definitions, and only one of them is positive affect. ([Ryan and Deci, 2001](https://selfdeterminationtheory.org/SDT/documents/2001_RyanDeci_Happiness.pdf)) The compendium's claim is that flourishing includes positive affect but is not identical to it.
+The research literature on well-being is reviewed along two general perspectives, and positive affect belongs to one of them. ([Ryan and Deci, 2001](https://selfdeterminationtheory.org/SDT/documents/2001_RyanDeci_Happiness.pdf)) The compendium's claim is that flourishing includes positive affect but is not identical to it.
 
 (Ryan and Deci, "On Happiness and Human Potentials: A Review of Research on Hedonic and Eudaimonic Well-Being," Annual Review of Psychology 52, 2001; Seligman, 2011.)
 
@@ -21,7 +21,7 @@ The research literature on well-being divides along two definitions, and only on
 The review's framing sentence is direct: "well-being consists of more than just happiness. It lies instead in the actualization of human potentials." ([Ryan and Deci, 2001](https://selfdeterminationtheory.org/SDT/documents/2001_RyanDeci_Happiness.pdf)) Self-determination theory adds its three needs, "autonomy, competence, and relatedness," whose fulfilment it treats as essential for psychological growth. ([Ryan and Deci, 2001](https://selfdeterminationtheory.org/SDT/documents/2001_RyanDeci_Happiness.pdf))
 
 **Plain words**
-Positive affect is correlated with wellbeing but isn't identical to it — the field's two definitions are pleasure on one side and full functioning on the other. ([Ryan and Deci, 2001](https://selfdeterminationtheory.org/SDT/documents/2001_RyanDeci_Happiness.pdf)) Flourishing requires the affect plus meaning, connection, mastery, and autonomy.
+Positive affect is correlated with wellbeing but isn't identical to it — the review distinguishes pleasure-focused approaches from approaches concerned with meaning, self-realization and full functioning. ([Ryan and Deci, 2001](https://selfdeterminationtheory.org/SDT/documents/2001_RyanDeci_Happiness.pdf))
 
 *For example:* The person optimised for fun — every weekend a good time, every night a laugh — and the year-end review that reads strangely flat. The affect was funded; the meaning, mastery, and connection accounts were never opened. Four ledgers, not one.
 

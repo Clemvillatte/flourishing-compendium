@@ -23,7 +23,7 @@ The argument against identifying pleasure with the Good is comparative: "if plea
 Pleasures also differ with their activities: "pleasures correspond to the activities to which they belong; it is therefore that pleasure, or those pleasures, by which the activity, or the activities, of the perfect and supremely happy man are perfected, that must be pronounced human in the fullest sense." ([NE X.5, Rackham](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=10))
 
 **Plain words**
-Pleasure isn't the good, but it isn't the enemy either. Aristotle says it perfects activity the way a bloom accompanies good health. ([NE X.4, Rackham](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=10)) So the question isn't whether to enjoy things, it's which activities are worth enjoying.
+Pleasure isn't the good, but it isn't the enemy either. ([NE X.3, Rackham](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=10)) Aristotle says it perfects activity the way a bloom accompanies good health. ([NE X.4, Rackham](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=10)) So the question isn't whether to enjoy things, it's which activities are worth enjoying.
 
 *For example:* Enjoying a long meal with people you like, after a day of work you're proud of, belongs to a good life. Pleasure doesn't need an apology.
 

@@ -16,14 +16,14 @@ Affect runs on a biological machine, and the machine's state changes the feeling
 
 (Yoo et al., 2007, Current Biology 17(20); Craig, 2009; Koob & Le Moal, 2008.)
 
-> "While both groups expressed significant amygdala activation in response to increasingly negative picture stimuli, those in the sleep-deprivation condition exhibited a remarkable +60% greater magnitude of amygdala activation, relative to the control group." (Yoo, Gujar, Hu, Jolesz and Walker, [The human emotional brain without sleep](https://walkerlab.berkeley.edu/reprints/Yoo-Walker_CurrBiol_2007.pdf), Current Biology 17(20), 2007)
+> "those in the sleep-deprivation condition exhibited a remarkable +60% greater magnitude of amygdala activation, relative to the control group" (Yoo, Gujar, Hu, Jolesz and Walker, [The human emotional brain without sleep](https://walkerlab.berkeley.edu/reprints/Yoo-Walker_CurrBiol_2007.pdf), Current Biology 17(20), 2007)
 
 The study's authors summarise the finding: "Taken together, these data suggest an amplified, hyper-limbic response by the human amygdala to negative emotional stimuli under conditions of sleep deprivation." ([Yoo et al., 2007](https://walkerlab.berkeley.edu/reprints/Yoo-Walker_CurrBiol_2007.pdf)) They add that "a night of sleep may 'reset' the correct brain reactivity to next-day emotional challenges." ([Yoo et al., 2007](https://walkerlab.berkeley.edu/reprints/Yoo-Walker_CurrBiol_2007.pdf))
 
 **Plain words**
 One night without sleep makes the brain's threat system about 60 percent more reactive to negative pictures. ([Yoo et al., 2007](https://walkerlab.berkeley.edu/reprints/Yoo-Walker_CurrBiol_2007.pdf)) When you feel persistently irritable, anxious, or flat, the first move is often biological, not psychological. Don't moralise what should be triaged.
 
-*For example:* The week-long "existential crisis" that turns out to have a blood-sugar signature — the person who finally eats breakfast and sleeps finds the crisis dissolves. The feeling was real; the cause was in the fridge, not the soul.
+*For example:* A feeling that resists interpretation may be worth describing alongside the body's recent state, without assuming the body explains it.
 
 ## Psychology parallels
 
