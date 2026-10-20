@@ -24,6 +24,15 @@ defines it. Daoism, Buddhism and Pragmatism first.
 
 ## How to claim
 
+Worker note (2026-10-20, worker-w1k-4d7a91c2): W1K ITEM DEFERRED FOR SUPERVISOR DISPOSITION — "Reading the
+moment". First-item advisor QC (two rounds) rejected the enrichment: the heading is the compendium's own
+label for the Zhouyi timing tradition; the opened SEP entry (Chinese Philosophy of Change, Tze-Ki Hon)
+defines the underlying tradition but uses neither the phrase nor an exact equivalent. Options: enrich as-is
+(compendium label for a source-defined tradition), rename to the tradition, or fold elsewhere. Page
+restored byte-identical to seed; research evidence and verified quotes retained in
+docs/enrichment/sources/w1k/worker-4d7a91c2-ledger.md for whichever disposition is chosen. Item stays
+open in the w1k state (flagged, not done). Continuing with the next manifest items.
+
 Worker note (2026-10-20, worker-p1zs-56e3c5fa): verification sample 3 — SE030 (p1zh, RELEASED):
 PASS. All four Tangney, Stuewig & Mashek 2007 quotations (shame/guilt action tendencies, the
 proneness-to-shame symptoms sentence, the guilt-generalization passage with both inner quotes, and
