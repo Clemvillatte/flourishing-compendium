@@ -12,13 +12,20 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 63** — See each thought-moment containing the whole (Tiantai)
 
-A single moment of mind, when seen clearly, holds the entire field of conditions: the whole world in one thought. Rest in the suchness of any moment.
+Zhiyi's Great Calming and Contemplation makes the claim as arithmetic. A single mind possesses the ten dharma realms; each realm possesses the ten again, making a hundred; each realm carries thirty types of worlds, so a hundred realms carry three thousand. (Zhiyi, Mohe Zhiguan; Tiantai tradition.)
 
-(Zhiyi, Mohe Zhiguan; Tiantai tradition.)
+> "These three thousand exist within a single thought. If there is no mind, then so be it; but if even a momentary thought arises, it inherently possesses the three thousand." (Mohe Zhiguan, vol. 5, [via Wisdom Library](https://www.wisdomlib.org/definition/yi-nian-san-qian))
 
-**Plain words** A single moment of mind, when seen clearly, holds the entire field of conditions — the whole world in one thought. Rest in the suchness of any moment. You don't need to understand everything; you need to fully touch anything.
+The count is the doctrine's way of saying everything at once. In the compendium's reading, the arithmetic matters less than the completeness it claims: if even a momentary thought inherently possesses the three thousand, no moment of mind is a trivial one, and resting in the suchness of any moment is resting in the whole field of conditions.
 
-*For example:* Fully tasting one sip of tea — the rain, the picker, your grandmother's kitchen, all somehow present in it.
+**Plain words**
+Try this with the next small event of your day: a taste, a sound, an irritation. Take one moment of it and ask what went into it being here at all: your body's state, the room, other people, the past that arranged it. You are not trying to see everything. You are checking whether one moment, looked at steadily, keeps opening.
+
+*For example:* Imagine fully tasting one sip of tea and asking where it came from: the rain, the picker, the kitchen you learned to drink tea in. None of that is present as information; all of it is present as conditions.
+
+## Sources
+
+- [Mohe Zhiguan vol. 5 passage, quoted at Wisdom Library](https://www.wisdomlib.org/definition/yi-nian-san-qian) — the three-thousand-in-one-thought passage
 
 ## Psychology parallels
 

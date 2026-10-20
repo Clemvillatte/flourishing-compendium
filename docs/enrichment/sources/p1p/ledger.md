@@ -93,3 +93,18 @@ priority, then B items in manifest order (manifest lists bare IDs; no titles).
 - Limitations: inherited parallels (Brewer et al. 2011; Schooler et al. 2011; Eckhart;
   Daodejing 15) NOT opened; flagged inherited parallels. Linked concepts (Meta-awareness,
   Abgeschiedenheit, Pu) skimmed as seeds only.
+
+## B063 — See each thought-moment containing the whole (Tiantai)
+
+- Opened: https://www.wisdomlib.org/definition/yi-nian-san-qian — the Mohe Zhiguan
+  vol. 5 three-thousand-in-one-thought passage, quoted in full with the page's citation
+  (Volume 5, Part 1 of Mohe Zhiguan).
+- Verbatim quote used: "These three thousand exist within a single thought. If there is
+  no mind, then so be it; but if even a momentary thought arises, it inherently
+  possesses the three thousand." The arithmetic paraphrase (ten realms x ten = hundred;
+  thirty types of worlds; hundred x thirty = three thousand) checked against the opened
+  passage. The ten-realm name list NOT asserted (not in the opened passage); "count as
+  everything" gloss labelled as the compendium's reading.
+- Limitations: inherited parallels (Trope and Liberman 2010; Zhiyi; Leibniz) NOT
+  opened; flagged inherited parallels. Linked concepts (Construal-level theory, Three
+  thousand realms in one thought, The holographic whole) skimmed as seeds only.
