@@ -12,11 +12,16 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 237** — Handle anxiety by returning to the present
 
-Anxiety is the judgment that something bad is coming and that you are unprepared. The Stoic returns to the present: what can I do now? What is within my control now? The future is not yet here; the past is gone. Only the present is available for action.
+Marcus advises returning after disturbing events:
 
-(Disc. I.1, I.14, III.10, III.12; Ench. 1; Med. II.14, III.1, IV.3, VII.8, VII.29, VIII.36; Seneca, Letters 13, 24, 61, 107.)
+> "Whensoever by some present hard occurrences thou art constrained to be in some sort troubled and vexed, return unto thyself as soon as may be, and be not out of tune longer than thou must needs." (Marcus Aurelius, Meditations VI.9, Casaubon)
 
-**Plain words** Anxiety is judging that something bad is coming and you're unprepared. The Stoic returns to the present: what can I do now, what's in my control now? The future isn't here and the past is gone. Only the present can be acted on.
+Elsewhere he writes that "our life is short; we must endeavour to gain the present time with best discretion and justice" (Med. IV.21). For worry about an upcoming event, the compendium applies these passages by asking what can be done now: prepare a slide, check a figure, or request information. This is a practical application to situational worry; the passages do not establish a clinical definition of anxiety.
+
+(Med. VI.9, IV.21, Casaubon.)
+
+**Plain words**
+Before a difficult event, you may find yourself rehearsing a bad outcome. Bring the question down to something you can do now: check the next slide, rehearse your opening, or ask for information you need. Marcus's "out of tune" image allows for being unsettled and then returning. Here, the practical aim is to resume a chosen task while worry may still be present.
 
 *For example:* Before a big presentation, you do the next task on the list rather than imagine the room.
 
@@ -25,9 +30,13 @@ Anxiety is the judgment that something bad is coming and that you are unprepared
 - [[ST217 — The Morning Preparation|217. The Morning Preparation]]
 - [[ST218 — Seneca on Crowds|218. Seneca on Crowds]]
 - [[ST219 — Coach Taylor's Mantra|219. Coach Taylor's Mantra]]
+## Sources
+
+- [Marcus Aurelius, Meditations (Meric Casaubon translation, 1634), Project Gutenberg](https://www.gutenberg.org/files/2680/2680-0.txt) — VI.9 (return unto thyself, be not out of tune), IV.21 (gain the present time)
+
 ## Psychology parallels
 
-- **[[Mindfulness|Mindfulness-based interventions]]** (Kabat-Zinn, 1990; Baer et al., 2006)
+- **[[Mindfulness|Mindfulness-based interventions]]** (Kabat-Zinn, 1990; mindfulness's five facets measured in Baer et al., 2006)
 - **Acceptance and commitment therapy** (Hayes et al., 2011)
 
 ## Philosophy parallels
