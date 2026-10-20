@@ -121,3 +121,6 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 ## Y018 (2026-10-21)
 - Woods HOS 17 pp. 26-27 (1.9 and commentary; "[26" and "27]" heads). Quotes verified. Woods renders vikalpa as "predicate-relation"; the principle's "imagination" is flagged as a different rendering.
 - Old text defined vikalpa as "cognition that follows from words alone"; Woods says "perceptions or of words". Planning/empathy examples and the rumination-labelling practice are not in the commentary (its examples are statements about the Self and grammar); labelled as the principle's. Added the commentary's point that vikalpa is neither valid cognition nor misconception. Plain words replicate replaced; example imagined. Self-QC only.
+
+## Y077 locator correction (2026-10-21)
+- 1.17 sits on p. 40, not p. 31: the OCR has a stray "31]" inside a footnote, and the "[40" running head (at the start of the page) precedes sutra 1.17. Y077 page corrected from p. 31 to p. 40. Lesson: take the nearest preceding running head by text position and ignore stray "NN]" tokens inside footnotes. Other items re-checked this way: Y020 1.11 p. 31 (head "31]" immediately before), Y025 1.12 p. 34 (head "[34" before; commentary into 35).
