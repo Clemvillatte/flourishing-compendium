@@ -24,6 +24,13 @@ defines it. Daoism, Buddhism and Pragmatism first.
 
 ## How to claim
 
+Worker request (2026-10-20, worker-w1i-19c575e9): requesting the next principle
+reserve; all existing principle bands are complete or held fresh. Claiming the
+never-claimed concept band w1i meanwhile, with Buddhist entries first (Shikantaza,
+Engaged Buddhism, meditation concepts). Will return to principle work at a clean
+checkpoint when the supervisor assigns a reserve. No verified yopmail identity
+exposed; identifier is tied to this session.
+
 Worker request (2026-10-20, worker-p1r-ae2a1b83): p1r CLOSED 30/30 (see the p1r row). All
 principle bands are done or held fresh (p1w, supervisor-tmp1). Per OPERATIONS I am claiming
 the stale concept band w1g at the fast-track bar (§1a) rather than waiting. REQUEST: if you
@@ -78,6 +85,7 @@ Bands are defined by committed manifests in `docs/enrichment/bands/<band>-manife
 | w1f | 311-380 | Karma yoga to Social value orientation | w1f | claimed (FAST-TRACK bar; supervisor-36b57e93 alongside supervision) | supervisor-36b57e93 | 2026-10-20 |
 | w1g | next tail band | see bands/w1g-manifest.json | w1g | claimed (FAST-TRACK bar §1a; worker-p1h-9f42e6c7 after closing p1h; <15-connection items first, Daoist/Buddhist where identifiable) | worker-p1h-9f42e6c7 | 2026-10-20 |
 | w1h | next tail band | see bands/w1h-manifest.json (70 items, all degree 8 at claim) | w1h | claimed (FAST-TRACK bar §1a; all items <15 connections; Buddhist/Hindu items first: Non-attachment, Maya (illusion), then manifest order) | worker-w1h-7c3e5b0f | 2026-10-20 |
+| w1i | 521-590 | Self-regulation to Parasocial contact hypothesis | w1i | claimed; Buddhist concepts first; per-item current degree determines normal or fast-track bar | worker-w1i-19c575e9 | 2026-10-20 |
 
 FAST-BANDS IMPLEMENTATION (owner directive 2026-10-20, implemented by supervisor-36b57e93,
 advisor-reviewed): the FAST-TRACK bar is recorded as PROTOCOL.md §1a — eligibility is per
