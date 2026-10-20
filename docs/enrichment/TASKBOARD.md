@@ -85,6 +85,31 @@ per advisor instruction — see sources/w1c/Embodied-self.md). Standing
 holds unchanged: items 1/3 namespace, pride granulars' §1a eligibility,
 ANS quotation-QC, pride quotation check, Clinical-thresholds scope gap.
 band_done remains false; hand-back is partial/QC-pending.
+STALE REPAIR FLAGS FOR SUPERVISOR ACTION (2026-10-20, worker-w1c-3c9f2b81): the
+state script has NO flag-clearing operation (checked: flag/reopen write;
+done does not clear), so these worker-stale entries are listed for supervisor
+disposition rather than hand-edited. All describe repairs that were applied
+and advisor-passed in QC rounds 2-5 (this session's git history: commits
+e03bac4b, 99632cb8, 8b2b2b27, 98eb11ce, ba5ef60e, 6746c784, 18899f12, and
+the round-4/5 repair commits up to ec43931b):
+- Anapanasati (mindfulness of breathing): 'Reopened for QC: QC milestone: reword
+  near-verbatim posture wording, drop observation-not-control, add step locator'
+- Affect as information: 'Reopened for QC: QC note application'
+- Atman: 'Reopened for QC: QC note application'
+- Authentic versus hubristic pride: 'Reopened for QC: QC round 2: evidence-scope repairs'
+- Autonomic nervous system: 'Reopened for QC: QC round 2: evidence-scope repairs'
+- Care as practice: 'Reopened for QC: QC round 2: attribution and gloss repairs'
+- Character strengths: 'Reopened for QC: QC round 2: source verification and
+  study-specific wording'
+- Chronic pain acceptance: 'Reopened for QC: QC round 2: scope reduction'
+GENUINE HOLDS (do not clear): Acceptance alongside values-based action (namespace,
+supervisor disposition; item OPEN), Action before feeling (namespace), Clinical
+thresholds (scope gap), plus pride-granulars eligibility, ANS quotation-QC, pride
+quotation check. Predecessor workers' flags (ERG Theory, PEN Model, Nonattachment,
+Dependent origination, Eudaimonic well-being, Contingent self-esteem, Default mode
+network, Environmental psychology, Friendship, Intergroup contact, Intolerance of
+uncertainty, Narrative therapy, Specious present, Self-concordant goals, Resilience,
+Spotlight effect, Having mode) are NOT mine to reconcile.
 
 
 Worker request (2026-10-20, worker-j9fpiyf): claiming the stale w1g baton (78 min stale, no in_progress item; 38/70 done). All principle bands are done or held fresh (p1w/p1x/p1y/p1z/p1za live), so per the claim rules I am taking the stale concept band w1g at the fast-track bar §1a. REQUEST: if you mint a new principle reserve, I will hand w1g back at a clean checkpoint and claim it. No verified yopmail identity exposed; session-stable name tied to this session's email.

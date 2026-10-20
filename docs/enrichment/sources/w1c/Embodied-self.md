@@ -1,7 +1,10 @@
 # Embodied self — evidence (w1c)
 
 - Fast-track item (selection-time graph degree 10: 2 kernel + 7 principle + 1
-  story connections). Seed body was one line; no Related-concepts section
+  story connections; VERIFIED current observed degree after enrichment:
+  14 = 4 concept + 2 kernel + 7 principle + 1 story connections, summed from
+  a fresh neighbours listing on 2026-10-20 — my four bare Related links
+  added concept edges). Seed body was one line; no Related-concepts section
   existed; Sources lines and Cited-in lists inherited and preserved; duplicate
   Sources section created by my edit was removed.
 - Opened 2026-10-20: Monti, Porciello, Panasiti and Aglioti, "The inside of me:

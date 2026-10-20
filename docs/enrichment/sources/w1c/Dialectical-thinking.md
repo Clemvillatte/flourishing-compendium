@@ -1,8 +1,10 @@
 # Dialectical thinking — evidence (w1c)
 
 - Fast-track item (selection-time graph degree 11: 1 concept + 1 kernel + 9
-  principle connections; current observed after enrichment: 11 + new bare
-  Related links if counted). Seed body and the four "Other formulations" lines
+  principle connections; VERIFIED current observed degree after enrichment:
+  14 = 4 concept + 1 kernel + 9 principle connections, summed from a fresh
+  neighbours listing on 2026-10-20 — my three bare Related links added
+  concept edges). Seed body and the four "Other formulations" lines
   inherited; Related-concepts line inherited and preserved; duplicate
   Related/Sources sections created by my edit were removed (structure restored
   to single sections).
