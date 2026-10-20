@@ -12,17 +12,26 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 195** — Be a lamp unto yourself
 
-Don't wait for a teacher, system, or perfect conditions: light your own lamp: practice, verify, and walk.
+After the Buddha's illness in DN 16, Ananda speaks of expecting further instructions for the monastic community. The reply directs practitioners to themselves and to the Dhamma together; Vajira and Story's translation uses the image of an island rather than a lamp ([DN 16.2.31-34, reproduced excerpt](https://chicagomeditation.org/wp-content/uploads/2020/10/CBMG-Maha-parinibbana_Sutta_DN16_Part2_31-35_Refuge_in_Yourself_and_in_Dhamma.pdf)):
 
-(Mahaparinibbana Sutta, DN 16; Dhammapada 238-239.)
+> Therefore, Ananda, be islands unto yourselves, refuges unto yourselves, seeking no external refuge; with the Dhamma as your island, the Dhamma as your refuge, seeking no other refuge.
 
-**Plain words** Don't wait for a teacher, system, or perfect conditions — light your own lamp: practice, verify, and walk. Perfect conditions are a rumor started by procrastination. The lamp you're waiting for is the one you light.
+(DN 16.2.33, Vajira and Story, [reproduced primary text](https://chicagomeditation.org/wp-content/uploads/2020/10/CBMG-Maha-parinibbana_Sutta_DN16_Part2_31-35_Refuge_in_Yourself_and_in_Dhamma.pdf).)
 
-*For example:* The person waiting to meditate until the house is quiet, the job calms down, the kids are older — versus the one on the bus, eyes closed.
+The next paragraph explains the instruction through contemplation of body, feelings, mind and mental objects ([DN 16.2.34](https://chicagomeditation.org/wp-content/uploads/2020/10/CBMG-Maha-parinibbana_Sutta_DN16_Part2_31-35_Refuge_in_Yourself_and_in_Dhamma.pdf)). Dhammapada 239 likewise describes removing impurities little by little ([Buddharakkhita](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.18.budd.html)). Neither image should become the compendium's demand to dispense with teaching or blame yourself for needing support.
+
+**Plain words** Ask what part of the practice you can undertake, and where you need guidance. Taking responsibility can include asking a question rather than pretending you already understand.
+
+*For example:* Imagine having read several meditation instructions without trying any. You choose one brief exercise, arrange suitable time for it, and write down what you need to ask a teacher afterward.
+
+## Sources
+
+- [DN 16, Vajira and Story, Access to Insight](https://www.accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html), part 2.31-35; [readable excerpt](https://chicagomeditation.org/wp-content/uploads/2020/10/CBMG-Maha-parinibbana_Sutta_DN16_Part2_31-35_Refuge_in_Yourself_and_in_Dhamma.pdf).
+- [Dhammapada 238-239, Buddharakkhita](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.18.budd.html).
 
 ## Psychology parallels
 
-- **[[Self-efficacy|Self-efficacy]]**, belief in one's capability predicts initiation and persistence (Bandura, 1977)
+- **[[Self-efficacy|Self-efficacy]]** (Bandura, 1977)
 
 ## Philosophy parallels
 

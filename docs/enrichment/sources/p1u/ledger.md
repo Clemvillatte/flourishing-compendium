@@ -201,6 +201,26 @@ scope error and restoration to the owner.
   Merleau-Ponty parallel remains inherited, unverified.
 - Saturation: Facial feedback already cites B191; no duplicate proposal.
 
+## B195: Be a lamp unto yourself (2026-10-20)
+
+- Membership verified. Search "DN 16 islands unto yourselves Dhamma refuge
+  Vajira Story"; opened main translation
+  https://www.accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html .
+  Long cleaned text omitted some needed part-2 material; separately opened
+  exact-source excerpt
+  https://chicagomeditation.org/wp-content/uploads/2020/10/CBMG-Maha-parinibbana_Sutta_DN16_Part2_31-35_Refuge_in_Yourself_and_in_Dhamma.pdf .
+  Complete 2.33 first sentence quoted verbatim; 2.31/2.34 supply illness/
+  Ananda context and contemplation. Quote cites the actually read excerpt.
+- Opened https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.18.budd.html ,
+  238-239. Island/little-by-little descriptions supported.
+- No etymological claim that all translations must use island, no invented
+  lamp rendering attributed to these translators. Original title retained.
+- Removed shaming-procrastination slogan and overgeneralized dismissal
+  of teacher/system/support. Example imagined, no promised meditation gain.
+- Removed unverified self-efficacy mechanism; Bandura, Kant and Linji
+  parallels remain inherited, unverified. All original links preserved.
+- Saturation: Self-efficacy and The enlightenment already cite B195.
+
 ## D105: Need little (2026-10-20)
 
 - Opened using web search followed by fetch: James Legge, Zhuangzi chapter 1,
