@@ -22,11 +22,11 @@
   "SO071",
   "SO074",
   "SP003",
-  "SP004",
   "SP006",
   "SP008",
   "SP009",
-  "SP011"
+  "SP011",
+  "SP004"
  ],
  "in_progress": null,
  "flagged": {
@@ -50,10 +50,11 @@
   "SO070": "Reopened for QC: QC: conditional language, pathway overreach, plain words/example replacement",
   "SO071": "Reopened for QC: QC: measure distinctions, survival wording, plain words/example replacement",
   "SO074": "Reopened for QC: QC: identity-construct conflation, context mechanism inference, plain words/example replacement",
-  "SP003": "Reopened for QC: QC: evidence-scope repairs, sources/ledger correction"
+  "SP003": "Reopened for QC: QC: evidence-scope repairs, sources/ledger correction",
+  "SP004": "Reopened for QC: QC: application-scope repairs, plain words/example replacement"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T12:56:16+00:00",
+ "updated": "2026-10-20T12:58:32+00:00",
  "band_done": false
 }
