@@ -12,13 +12,22 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 440** — Practise Kierkegaardian anxiety
 
-Recognise that anxiety is the dizziness of freedom. Kierkegaard understood anxiety not as a symptom but as the mark of our freedom: the possibility of possibility. The person who feels anxiety is the one who stands at the edge of their own possibilities. Do not flee from this dizziness; it is the sign that you are free.
+> Anxiety is the dizziness of freedom, which emerges when the spirit wants to posit the synthesis and freedom looks down into its own possibility, laying hold of finiteness to support itself.
 
-(Kierkegaard, 1844/1981, The Concept of Anxiety; Kierkegaard, 1843/1987, Either/Or.)
+(Kierkegaard [as Vigilius Haufniensis], The Concept of Anxiety, CA 61 / SKS 4, 365, as quoted in the [Stanford Encyclopedia of Philosophy, Kierkegaard, section 2](https://plato.stanford.edu/entries/kierkegaard/).)
 
-**Plain words** Kierkegaard's anxiety is the dizziness of freedom — not a symptom but the mark of possibility itself: the possibility of possibility. The person who feels anxiety stands at the edge of their own possibilities. Don't flee the edge; it's the only view there is.
+The book was published under a pseudonym, so "Kierkegaard says" is shorthand. Its claim is that anxiety is not just a symptom: the Encyclopedia reads it as "part of the human condition itself" and "an awareness of freedom." We feel pulled toward a possibility and repelled by it at once.
 
-*For example:* The job offer that should feel like triumph but feels like vertigo — the anxiety isn't a warning about the job; it's the dizziness of the door. The ones who never feel it are standing in rooms with no edges.
+The Encyclopedia adds that the cure is not the total elimination of anxiety. What matters is learning to be anxious properly, since "whoever has learned to be anxious in the right way has learned the ultimate" (CA 155 / SKS 4, 454, as quoted there).
+
+**Plain words** When a choice is open and you could really go either way, you may feel dizzy, like looking down from a height. Kierkegaard's point is that the dizziness comes with having a real choice. It is not proof that something is wrong with you. The skill is to feel it without running from the choice or from the freedom.
+
+*For example:* Standing at the door of a job offer you could accept, you feel sick. The feeling does not show that you should refuse it. It may only show that the choice is yours.
+
+## Sources
+
+- [Stanford Encyclopedia of Philosophy, Søren Kierkegaard, section 2 (Despair, Social Critique, and Anxiety)](https://plato.stanford.edu/entries/kierkegaard/) — both quotations from The Concept of Anxiety (CA 61, CA 155), with the book's own page numbers
+
 ## Psychology parallels
 
 - **[[Angst|Existential anxiety and meaning]]** (Yalom, 1980; Tillich, 1952)
