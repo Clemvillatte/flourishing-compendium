@@ -12,13 +12,13 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SO — Sociocul
 ---
 > **Principle 10** — Treat the sociocultural level as interventionable
 
-Dewey's argument for treating the social level as a place to intervene is his definition of democracy itself: "A democracy is more than a form of government; it is primarily a mode of associated living, of conjoint communicated experience" (1916, ch. 7). A society so constituted, he writes, "secures flexible readjustment of its institutions through interaction of the different forms of associated life" — the design brief for the sociocultural level as a site of intervention. The research programmes named in the parallels section take up exactly this brief: community interventions, policy prevention, cultural adaptation of treatments, and Ostrom's institutional design are all established practice. The adaptive stance is not fatalism about social conditions but active engagement with them.
+Dewey's argument for treating the social level as a place to intervene is his definition of democracy itself: "A democracy is more than a form of government; it is primarily a mode of associated living, of conjoint communicated experience" (1916, ch. 7). A society so constituted, he writes, "secures flexible readjustment of its institutions through interaction of the different forms of associated life". That is the principle's own opening: if institutions can be deliberately readjusted, then the sociocultural level is not fixed scenery but something a community can work on. The specifics of community, policy and cultural intervention listed in the parallels section are the applications to check; their evidence base belongs to those sources.
 
 > "A society which makes provision for participation in its good of all its members on equal terms and which secures flexible readjustment of its institutions through interaction of the different forms of associated life is in so far democratic." (Dewey, 1916, ch. 7)
 
-**Plain words** Communities and cultures can be intervened on — programmes, policies, institutional design. Not just individuals on couches; whole populations move. Prevention at the level of the village beats treatment at the level of the person.
+**Plain words** Communities and cultures can be worked on directly: programmes, policies, the design of institutions. Prevention at the level of the village beats treatment one person at a time.
 
-*For example:* The clean-water effect in mental health: a community that adds street lighting and youth programmes can see depression rates move — nobody's individual therapy did that. The intervention was upstream.
+*For example:* If a community's depression rates respond to something like youth programmes or street lighting, the cause is not any one person's therapy; something upstream is doing the work.
 ## Psychology parallels
 
 - [[The evidence base for community-level intervention|The evidence base for community-level intervention]] (Wandersman and Florin, 2003); for policy-level prevention (Biglan et al., 2012); for cultural adaptation of interventions (Castro et al., 2010; Gone, 2011); for institutional design (Ostrom, 1990).
