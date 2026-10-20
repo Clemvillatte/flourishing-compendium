@@ -35,5 +35,7 @@ and explained in the opened discourse, satisfying IS IT A CONCEPT.
 
 ## Validation
 
-Pending local validation against 357529b5. First-item independent advisor passed
+Local `enrich_validate.py --base 357529b5 --fast-track` PASS, no failures;
+fewer-than-three Related lines warning is expected under fast-track.
+First-item independent advisor passed
 the immediately preceding Bare attention entry; next advisor at milestone.
