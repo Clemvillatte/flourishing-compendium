@@ -12,7 +12,7 @@
   "M001",
   "M010"
  ],
- "in_progress": "M028",
+ "in_progress": "M035",
  "flagged": {
   "SE042": "Reopened for QC: QC round 1 (advisor): traits-opposition misread, causal inference, unopened White & Epston gloss, plain-words duplication; repairing",
   "SP093": "Reopened for QC: milestone QC round 3",
@@ -24,6 +24,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 9,
- "updated": "2026-10-20T16:45:47+00:00",
+ "updated": "2026-10-20T16:50:56+00:00",
  "band_done": false
 }
