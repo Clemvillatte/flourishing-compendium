@@ -182,3 +182,30 @@ Claim and state transitions are pushed separately for interruption safety.
   HRV, Hadot and Boethius comparisons remain inherited, unverified.
   Existing links and protected reflection block unchanged.
 - Saturation: The inner citadel already cites D183; no duplicate proposal.
+
+## B152: Align your work with your values (2026-10-20)
+
+- Searched "AN 5.177 Vanijja trades lay follower", then opened
+  https://www.accesstoinsight.org/tipitaka/an/an05/an05.177.than.html .
+  Thanissaro's five-business list is quoted exactly, as a complete sentence.
+- Distinguishes the text's named businesses from a modern application to
+  specific work tasks. Personal meaningfulness is not substituted for the
+  passage's ethical restriction.
+- Removed seed's unverified work-training claim and prediction that
+  leaving a job improves meditation. Plain words consider available
+  choices, not a demand for immediate resignation. Imagined product-claim
+  example has no predicted occupational, income or health outcome.
+- Removed unverified calling/well-being prediction. Wrzesniewski,
+  Kristof-Brown, Dewey and Weber parallels remain inherited, unverified.
+- Saturation: all four existing linked concepts already cite B152.
+  Right livelihood mention search found B025, but no doctrinally redundant
+  proposal added.
+
+## Nine-Daoist milestone checks
+
+- All nine blockquotes matched opened source outputs after whitespace
+  normalization; D178 excerpt corrected for capitalization and punctuation.
+- Baseline preservation check against de7801af passed metadata, principle
+  statements, original wikilinks and reflections for all nine.
+- First milestone advisor correction pass is pushed; independent recheck
+  and QC of D159/D173/D178/D183 pending.
