@@ -12,13 +12,30 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 484** — Practise shipwreck
 
-Recognise that the encounter with limit situations can produce shipwreck (Scheitern) — the collapse of your previous understanding, the failure of your projects, the breakdown of your meaning. Shipwreck is not the end but the beginning: it is the point at which you are open to transcendence, to the possibility of a deeper understanding. Do not fear shipwreck; let it transform you.
+Jaspers does not say that failure is secretly good. In Way to Wisdom he says: "The ultimate situations — death, chance, guilt, and the uncertainty of the world — confront me with the reality of failure" (p. 21, trans. Manheim). The question that follows is how you meet it.
 
-(Jaspers, 1932/1971, Philosophy, vol. 2; Jaspers, 1932/1971, Philosophy, vol. 3.)
+### Your attitude decides
 
-**Plain words** The encounter with limit situations can produce shipwreck — the collapse of your previous understanding, the failure of projects, the breakdown of meaning. Shipwreck is not the end but the beginning: the point at which you're open to what the old structure hid. Let the wreck teach.
+For Jaspers the deciding thing is "his attitude toward failure": either it "remains hidden from him and overwhelms him only objectively at the end", or he "perceives it unobscured as the constant limit of his existence" (p. 22). He rejects false comfort, whether "fantastic solutions and consolations" or Stoic withdrawal into the mind, which he calls "barren" (pp. 21-22). Facing it means "honestly, in silence before the unfathomable" (p. 22). And "the way in which man approaches his failure determines what he will become" (p. 22).
 
-*For example:* The career, the marriage, the identity — all gone in one year — and the person who reports, from the far side, that the drowning was also the first honest look at the water. The old boat was never going to make that crossing.
+### What it can open
+
+Some people sense in failure something beyond the world: "Even despair, by the very fact that it is possible in the world, points beyond the world" (p. 22). He adds that philosophy cannot offer the redemption religions promise: "This philosophy cannot provide. And yet all philosophy is a transcending of the world, analogous to redemption" (p. 22).
+
+### A note on the word
+
+The German is Scheitern. In a note to his study of Jaspers, Jean Wahl records that Gabriel Marcel and Paul-Louis Landsberg thought "failure" misses the sense of "stranding, the fact of being beached, the shipwreck" (Wahl, 1938, note 67, in the 2016 translation).
+
+**Plain words** Jaspers says hard limits, such as death, guilt and chance, always bring some failure. What changes is how you stand to it. You can hide from it and be hit later, or you can look at it and see what it shows. He does not promise that a shipwreck turns into a gift. He says the way you meet it shapes who you become.
+
+*For example:* Imagined example: a business you built collapses. One person spends years blaming others. Another, after months of grief, asks what the collapse showed about what they were actually after.
+
+(Jaspers, Way to Wisdom (1951), pp. 21-22, trans. Ralph Manheim, full text at the Internet Archive; Wahl, "The Problem of Choice: Existence and Transcendence in the Philosophy of Jaspers," J. French and Francophone Philosophy 24:1 (2016); both opened 2026-10-21. Philosophy vols. 2-3 not opened.)
+
+## Sources
+
+- [Jaspers, Way to Wisdom, trans. Manheim, Internet Archive](https://archive.org/stream/waytowisdomintro00jasp/waytowisdomintro00jasp_djvu.txt) — pp. 21-22
+- [Wahl, The Problem of Choice: Existence and Transcendence in the Philosophy of Jaspers, JFFP](https://www.jffp.org/ojs/jffp/article/download/717/702) — note 67
 ## Psychology parallels
 
 - **Crisis and transformation** (Caplan, 1964; Tedeschi and Calhoun, 2004)
