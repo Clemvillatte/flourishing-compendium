@@ -256,3 +256,9 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 - Quotes verified: all matched fetched pages.
 - Seed repairs: the jivanmukti doctrine (Vidyaranya, Yoga Vasistha) was not opened and is not described; Gita descriptions of the steady sage used instead, with the audit practice labelled as the page's own. Psychology and Analects 2.10 parallels not opened.
 - Saturation: low; supervisor may want a pass on Jivanmuktiviveka.
+
+## Y131 (2026-10-21, worker-p1zz-b81e3f52)
+- Sources opened: Woods YS 3.4 with Vyasa and the Tika; holy-bhagavad-gita.org BG 6.29-6.32.
+- Quotes verified: the 3.4 sutra and Vyasa span matched woods text; BG spans matched fetched pages.
+- Seed repairs: neither text states the fractal / same-operation-at-two-scales idea; labelled as the page's own synthesis along with the monthly exercise. Barnett & Ceci and Emerald Tablet not opened (Emerald Tablet parallel looks weak).
+- Saturation: low.
