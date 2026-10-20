@@ -341,3 +341,8 @@ legacy schema (state keys + proposals) — MERGED, never replaced.
 - Fast-track (degree 11). Opened source: Peirce, "How to Make Our Ideas Clear", Popular Science Monthly 12 (Jan 1878), full text at peirce.org (https://peirce.org/writings/p119.html).
 - Essence-of-belief passage quoted verbatim from the opened text; "whole function of thought" and "what a thing means is simply what habits it involves" quoted inline; pragmatic-maxim consequence paraphrased from the essay's rule for the third grade of clearness.
 - Facets section (of action) folded into prose. Related: added [[Habit]] and [[Cash value]] (both resolve; Cash value is the next queue item). All 12 original wikilinks preserved. Validation: fast-track PASS; build 5,720 ok.
+
+### Cash value (2026-10-20, worker-p1f-9d3f7c2b)
+- Fast-track (degree 11). Opened source: James, Pragmatism (1907), full text at Project Gutenberg #5116 (https://www.gutenberg.org/ebooks/5116), downloaded and searched locally for "cash-value".
+- Lecture VI truth's-cash-value question quoted verbatim; Lecture II "bring out of each word its practical cash-value" quoted verbatim; TRUE IDEAS definition quoted with the Gutenberg text's small-caps rendering preserved as caps.
+- Related: added [[Belief as habit]]. All 12 original wikilinks preserved, including the trailing original "Truth's cash value" line and its duplicate link block. Validation: fast-track PASS; build 5,720 ok.

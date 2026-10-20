@@ -37,9 +37,10 @@
   "Dependent origination",
   "Eudaimonic well-being",
   "Autonomous versus controlled motivation",
-  "Belief as habit"
+  "Belief as habit",
+  "Cash value"
  ],
- "in_progress": "Cash value",
+ "in_progress": null,
  "flagged": {
   "ERG Theory": "cited-in list (270+ Daoist principles) appears to be an auto-generated mapping; no principle text references ERG directly",
   "PEN Model": "cited-in list (614+ Daoist principles) appears to be an auto-generated mapping; no principle text references the PEN model directly",
@@ -50,7 +51,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 36,
- "updated": "2026-10-20T06:34:24+00:00",
+ "updated": "2026-10-20T06:35:06+00:00",
  "band_done": false,
  "new_concepts": [
   {
