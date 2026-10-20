@@ -7,7 +7,7 @@ file: "Effortless attention"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-E"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter E", "parent": ""}
 ---
-Effortless attention is attention that sustains itself inside an absorbing activity, without the felt effort that ordinary concentration costs.
+Bruya's working definition includes attention or action experienced as effortless, as well as exertion accompanied by lower-than-normal subjective effort while effectiveness remains normal or elevated (Bruya, [Introduction](http://web.archive.org/web/20210519072742/https://philarchive.org/archive/BRUITA-5), 2010).
 
 Bruya's introduction to Effortless Attention starts from the normal case: "the higher the demands of a course of action, the greater the effort required to sustain a level of efficacy". Against it stands the phenomenon: "There are times, however, when attention and action seem to flow effortlessly, allowing a person to meet an increase in demand with a sustained level of efficacy but without an increase in felt effort—even, at the best of times, with a decrease" (Bruya, [Introduction](http://web.archive.org/web/20210519072742/https://philarchive.org/archive/BRUITA-5), 2010). The volume's working definition:
 

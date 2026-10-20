@@ -7,7 +7,7 @@ file: "Embodied perception"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-E"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter E", "parent": ""}
 ---
-The compendium anchors embodied perception in Merleau-Ponty's Phenomenology of Perception: in his account, the perceiving body takes its instruments into itself, so that a stick in use stops being an object and becomes part of the perceiving.
+The compendium anchors embodied perception in Merleau-Ponty's Phenomenology of Perception: in his account, the familiar stick becomes an instrument of perception rather than an object perceived ([Merleau-Ponty, Phenomenology of Perception](https://archive.org/details/merleaupontyphenomenologyofperception)).
 
 His recurring example is the blind man's stick. In perception, "The blind man's stick has ceased to be an object for him, and is no longer perceived for itself; its point has become an area of sensitivity, extending the scope and active radius of touch, and providing a parallel to sight" (Merleau-Ponty, [Phenomenology of Perception, Colin Smith translation](https://archive.org/details/merleaupontyphenomenologyofperception)). The stick becomes a perceptual habit: "Once the stick has become a familiar instrument, the world of feelable things recedes and now begins, not at the outer skin of the hand, but at the end of the stick" (Merleau-Ponty, [Phenomenology of Perception, Colin Smith translation](https://archive.org/details/merleaupontyphenomenologyofperception)). The conclusion he draws:
 
