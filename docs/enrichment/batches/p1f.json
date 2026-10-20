@@ -28,7 +28,7 @@
   "E504",
   "K015"
  ],
- "in_progress": null,
+ "in_progress": "MO011",
  "flagged": {
   "D074": "Reopened for QC: milestone QC: inference-level corrections",
   "B006": "Reopened for QC: QC r2: traffic example",
@@ -46,6 +46,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 22,
- "updated": "2026-10-20T03:33:03+00:00",
+ "updated": "2026-10-20T03:33:12+00:00",
  "band_done": false
 }
