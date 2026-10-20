@@ -41,39 +41,9 @@ Fresco and colleagues also describe decentering in clinical practice:
 - [[SE002 — Recognise the observing self — you are not only the contents of awareness]] — observing one’s own mental processes without being consumed by them
 - [[K007 — Learn the mind's two registers — appearance and awareness]] — appearance distinguished from the awareness registering it
 
-Decentering is a shift in how experience is held, not a change in what it contains. The term came into psychotherapy through Safran and Segal, who described the capacity to “step outside of one’s immediate experience, thereby changing the very nature of that experience” (Safran & Segal, 1990, p. 117, as quoted in [Bernstein et al. 2015](https://journals.sagepub.com/doi/10.1177/1745691615594577)). A thought still arrives, and the person having it can watch it pass instead of taking it as an instruction.
-
-The definition the measurement literature settled on:
-
-> “Decentering is defined as the ability to observe one’s thoughts and feelings as temporary, objective events in the mind, as opposed to reflections of the self that are necessarily true.” ([Fresco et al. 2007, Behavior Therapy 38(3):234-246](https://contextualscience.org/sites/default/files/Fresco,2007.pdf), abstract)
-
-### One phenomenon, three processes
-
-Bernstein and colleagues reviewed the construct’s cousins across therapy schools, cognitive defusion among them, and argued that they name one mental phenomenon:
-
-> “Specifically, we propose that, to varying degrees, decentering-related constructs reflect a common mental phenomenon subserved by three interrelated metacognitive processes: meta-awareness, disidentification from internal experience, and reduced reactivity to thought content.” ([Bernstein et al. 2015, Perspectives on Psychological Science 10(5):599-617](https://journals.sagepub.com/doi/10.1177/1745691615594577), abstract)
-
-Meta-awareness is a direct awareness of one’s own experiencing. Disidentification is inner states felt as things one has rather than things one is. Reduced reactivity is thought content carrying less force over attention, emotion and action once it is seen this way.
-
-The capacity is not reserved for meditators. Fresco and colleagues put its clinical weight plainly:
-
-> “Helping patients learn how to decenter, or take a step back from their negative thoughts, is one of the core goals of mindfulness-based clinical interventions, but can also occur following successful cognitive therapy.” ([Fresco et al. 2007](https://contextualscience.org/sites/default/files/Fresco,2007.pdf), introduction)
-
-### In the compendium
-
-- [[B074 — Thoughts are not facts]] — the compendium’s most direct statement of the shift: a thought examined before it is obeyed
-- [[D050 — Keep a mirror-mind]] — the Daoist mirror image for the same observing stance
-- [[B066 — Watch states arise and pass]] — watching the rise and decay of states as they happen
-- [[B003 — Hold the self lightly (anatta)]] — the Buddhist root: the self not equated with the contents of mind
-- [[P159 — Defuse — see thoughts as thoughts]] — ACT’s defusion, one of the constructs the review groups with decentering
-- [[E006 — Practise the epoché in daily life]] — the phenomenological bracketing of the everyday attitude
-- [[S045 — Examine every impression]] — the Stoic testing of an impression before granting assent
-- [[SE002 — Recognise the observing self — you are not only the contents of awareness]] — what remains when contents are seen as contents
-- [[K007 — Learn the mind's two registers — appearance and awareness]] — appearance distinguished from the awareness registering it
-
 ## Other formulations in this library
 
-- (Bernstein et al., 2015), the common mechanism across contemplative practices
+- (Bernstein et al., 2015), proposed metacognitive processes shared to varying degrees by decentering-related constructs
 
 - seeing thoughts as passing events in awareness rather than as the self (Bernstein et al., 2015)
 
@@ -82,17 +52,6 @@ The capacity is not reserved for meditators. Fresco and colleagues put its clini
 - viewing thoughts as mental events (Bernstein et al., 2015)
 
 - Shapiro et al., 2006
-## Related concepts
-
-- [[Cognitive defusion]] — the ACT member of the construct family the review maps onto decentering
-- [[Metacognitive awareness]] — a monitoring process the same literature treats as enabling decentering from thoughts
-- [[Metacognitive monitoring]] — the laboratory tradition of observing one’s own thinking as thinking
-- [[Rumination]] — the pattern decentering loosens; the EQ was designed to measure both
-- [[Anatta]] — the Buddhist no-self teaching the shift resembles
-- [[Epoché]] — the phenomenological suspension of the everyday attitude toward its objects
-- [[Mindfulness]] — the practice family in which the capacity is trained
-- [[Acceptance]] — letting experience be present before working with it
-
 ## Related concepts
 
 - [[Cognitive defusion]] — a construct the review lists among the decentering-related constructs

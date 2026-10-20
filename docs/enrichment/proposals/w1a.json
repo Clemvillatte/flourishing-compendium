@@ -141,13 +141,6 @@
    "_audit_why": "rg-verified single occurrence, no existing [[Decentering]] link in the file"
   },
   {
-   "into": "Perspective-taking",
-   "concept": "Decentering",
-   "phrase": "decentering",
-   "why": "the page describes deliberate decentering from the egocentric anchor, the self-distanced perspective the review lists among decentering-related constructs",
-   "_audit_why": "rg-verified single occurrence, no existing [[Decentering]] link in the file"
-  },
-  {
    "into": "Metacognitive monitoring",
    "concept": "Decentering",
    "phrase": "decentering",
@@ -399,7 +392,7 @@
   {
    "into": "Metacognitive monitoring",
    "link": "Decentering",
-   "why": "the page’s facets list decentering as an extension of metacognitive monitoring"
+   "why": "the page’s facets list decentering alongside metacognitive monitoring"
   },
   {
    "into": "Rumination",
@@ -409,7 +402,7 @@
   {
    "into": "Epoché",
    "link": "Decentering",
-   "why": "the phenomenological suspension brackets the everyday attitude the way decentering brackets thought content"
+   "why": "the E006 principle lists Decentering among its psychology parallels and Epoché among its philosophy parallels"
   }
  ]
 }
