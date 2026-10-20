@@ -12,13 +12,30 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 36** — Do not misinterpret the six things
 
-The sixth point's warnings, compressed: do not practice patience with the wrong things (the practice, the difficult) while being patient with the damaging (the habit, the drift); do not aspire to the wrong virtues (being calm instead of being honest); do not confuse endurance with growth; do not be predictable in your reactions (predictable is capturable); do not be temperamental about practice conditions (only when convenient); and do not measure yourself by your intentions. Each is a separate audit line. Practically, take one misinterpretation per month and check yourself against it.
+> Don't misinterpret. The six things that may be misinterpreted are patience, yearning, excitement, compassion, priorities and joy.
 
-(Seven-Point Mind Training, Point Six, the "do not misinterpret" slogans.)
+(Lojong slogan 52, in the Chödrön/Trungpa arrangement of the Seven-Point Mind Training, where it sits in the seventh point, "Guidelines of Mind Training"; see [Wikipedia, "Lojong"](https://en.wikipedia.org/wiki/Lojong). Wording as given in Pema Chödrön's version, quoted on [Tsony](https://tsony.com/dharma-teachings/sunday-talk-2022-07-lojong-7-52-do-not-be-misdirected/).)
 
-**Plain words** Six warnings. Don't be patient with the wrong things, and impatient with what damages you. Don't aim at the wrong virtues, like calm in place of honesty. Don't confuse endurance with growth. Don't be predictable in your reactions. Don't be touchy about the conditions of practice. Mistaking the form for the substance is the usual trap.
+Chödrön's version lists the six misreadings:
 
-*For example:* Someone proud of being calm in a toxic job isn't practising patience. They're avoiding a hard decision.
+- "You're patient when you're getting your way, but not when it's difficult."
+- "You yearn for worldly things, instead of an open heart and mind."
+- "You get excited about wealth and entertainment, instead of your potential for enlightenment."
+- "You have compassion for those you like, but none for those you don't."
+- "Worldly gain is your priority rather than cultivating loving-kindness and compassion."
+- "You feel joy when your enemies suffer, and do not rejoice in others' good fortune."
+
+Judy Lief's commentary gives the purpose: "to see how we can twist things so that our avoidance of the dharma is considered to be a virtue rather than a fault" ([Tricycle](https://tricycle.org/article/train-your-mind-dont-misinterpret/)). The versions differ in detail. Lief's commentary, for example, reads the compassion item as concern for people who practise the dharma but not for wrongdoers.
+
+**Plain words** Six good qualities can be faked without noticing: patience, yearning, excitement, compassion, priorities and joy. Each fake keeps the name and loses the substance. Patience that only shows up when things go your way is not patience. Pick one of the six at a time and check your own week against it.
+
+*For example:* Someone calls themselves patient because they never complain at work, yet snaps at family at home. The slogan asks them to notice when the patience is selective.
+
+## Sources
+
+- [Wikipedia, "Lojong" (slogan 52 and the seven points)](https://en.wikipedia.org/wiki/Lojong) — arrangement and slogan text
+- [Tsony, "Lojong 7/52: Do not be misdirected", quoting Chödrön (2007), Always Maintain a Joyful Mind](https://tsony.com/dharma-teachings/sunday-talk-2022-07-lojong-7-52-do-not-be-misdirected/) — the six items as quoted
+- [Lief, J. "Train Your Mind: Don't Misinterpret", Tricycle](https://tricycle.org/article/train-your-mind-dont-misinterpret/) — commentary and the variant compassion reading
 
 ## Psychology parallels
 
