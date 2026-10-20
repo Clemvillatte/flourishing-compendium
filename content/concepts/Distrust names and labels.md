@@ -42,7 +42,7 @@ Both passages concern naming the Tao. The extension to the labels put on people,
 
 ## Sources
 
-- Laozi, Daodejing 1 — [Legge's translation, Tao Teh King, Project Gutenberg ebook #216](https://www.gutenberg.org/files/216/216-0.txt)
+- [Laozi, Daodejing 1](https://www.gutenberg.org/files/216/216-0.txt)
 
 [[ST104 — Rorty's Vocabularies as Tools]]
 [[K135 — Workability check]]

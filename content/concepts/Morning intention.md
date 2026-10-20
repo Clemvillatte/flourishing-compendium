@@ -56,8 +56,8 @@ The kernel's sentence carries the self-concordance half: the what and why of the
 
 ## Sources
 
-- Buddhist tradition — [MN 61, Ambalatthika-rahulovada Sutta, Thanissaro translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.061.than.html)
-- Koestner et al., 2002 — [Koestner, Lekes, Powers and Chicoine, Attaining personal goals: Self-concordance plus implementation intentions equals success, JPSP 83(1):231-244, PMID 12088128](https://www.selfdeterminationtheory.org/SDT/documents/2002_KoestnerLekesPowersChicoine_JPSP.pdf)
+- [Buddhist tradition](https://www.accesstoinsight.org/tipitaka/mn/mn.061.than.html)
+- [Koestner et al., 2002](https://www.selfdeterminationtheory.org/SDT/documents/2002_KoestnerLekesPowersChicoine_JPSP.pdf)
 
 [[BE001 — Understand that behaviour is the foundation — what you do shapes how you feel, think, and are]]
 [[V1K-S01 — PART I — SCIENCE-BACKED KERNELS]]

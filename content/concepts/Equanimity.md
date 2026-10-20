@@ -58,7 +58,7 @@ The opinion, not the event, is where the trouble enters — the compendium's [[J
 - [[Metta (loving-kindness)]] — the fellow immeasurable the review's mother-metaphor sets beside equanimity
 ## Sources
 
-- Desbordes et al., 2014 — [Desbordes, Gard, Hoge, Hölzel, Kerr, Lazar, Olendzki and Vago, Moving Beyond Mindfulness: Defining Equanimity as an Outcome Measure in Meditation and Contemplative Research, Mindfulness 6(2):356-372, doi 10.1007/s12671-013-0269-8, PMC4350240 (PMID 25750687)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4350240/)
+- [Desbordes et al., 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4350240/)
 
 ## Cited in psychology parallels
 

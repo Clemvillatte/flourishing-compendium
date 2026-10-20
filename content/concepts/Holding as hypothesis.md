@@ -47,7 +47,7 @@ The closing moral is the concept's warrant:
 
 ## Sources
 
-- Peirce, "The Fixation of Belief" — [Charles S. Peirce, The Fixation of Belief, Popular Science Monthly 12 (November 1877): 1-15, full text](https://www.peirce.org/writings/p107.html)
+- [Peirce, "The Fixation of Belief"](https://www.peirce.org/writings/p107.html)
 
 [[V1K-S01 — PART I — SCIENCE-BACKED KERNELS]]
 [[K133 — Holding as hypothesis]]

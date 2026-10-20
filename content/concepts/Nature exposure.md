@@ -38,7 +38,7 @@ The study is honest about its scope: thirty-eight healthy urban-dwelling partici
 
 ## Sources
 
-- Bratman et al., 2015 — [Bratman, Hamilton, Hahn, Daily and Gross, Nature experience reduces rumination and subgenual prefrontal cortex activation, PNAS 112(28):8567-8572, doi 10.1073/pnas.1510459112, PMC4507237 (PMID 26124129)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4507237/)
+- [Bratman et al., 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC4507237/)
 
 ## Cited in psychology parallels
 
