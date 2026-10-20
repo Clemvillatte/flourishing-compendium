@@ -1,6 +1,6 @@
 {
  "batch": "p1zw",
- "revision": 13,
+ "revision": 14,
  "reciprocal": [
   {
    "into": "Anatta",
@@ -79,6 +79,12 @@
    "link": "K042",
    "why": "listed for comparison: two vessel readings of the body and life, the Daodejing's treasuring of the vessel that holds everything (D036) beside Shantideva's instruction to pay the vessel its wages without lavishing everything on it (K042).",
    "notes": "Saturation scan 2026-10-21 (K042 item): D036 quotes DDJ 44 on its page but does not link K042; the two principles take deliberately different stances on the same vessel image (treasure vs wages), which is the comparison's value. No concept pages found needing links."
+  },
+  {
+   "into": "Equanimity",
+   "link": "K052",
+   "why": "listed for comparison: the even-minded stance defined and sourced on the concept page beside K052's lamrim instruction to level bias toward friend, enemy and stranger before cultivating love.",
+   "notes": "Saturation scan 2026-10-21 (K052 item): the Equanimity concept carries the Desbordes 2014 definition and near-enemy warning but does not link K052; K052 quotes Tsongkhapa's impartiality passage. The Being and beings concept already links K052."
   }
  ]
 }

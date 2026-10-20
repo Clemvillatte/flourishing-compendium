@@ -12,13 +12,20 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 52** — Practice equanimity toward all beings first, before love
 
-The lamrim's sequence begins with equanimity: the deliberate leveling of the mind's bias toward friend, enemy, and stranger, so that the later practices (gratitude, love, compassion) are built on level ground rather than on preference. The training image is the mother: all beings, the tradition holds, have been everything to you (kind and unkind) across the long run, and the leveling is a fact-check, not an indifference. Practically, take the three categories (dear, difficult, neutral) and practice one week of noticing how differently you treat each, before deciding whether the difference is justice or habit.
+Tsongkhapa places impartiality at the start of the bodhicitta sequence:
 
-(Tsongkhapa's lamrim, the equanimity meditation; the Seven-Point Mind Training's preliminary equanimity.)
+> "From the outset establish an even-minded attitude, eliminating the bias which comes from attachment to some living beings and hostility to others. Otherwise, any love or compassion you feel will be biased; you will never feel unbiased love or compassion." (Tsongkhapa, Great Treatise on the Stages of the Path, vol. 2, "Achieving impartiality toward living beings")
 
-**Plain words** Start by levelling the mind's bias toward friends, enemies and strangers, so later practices of gratitude, love and compassion stand on level ground rather than preference. The tradition's image is that every being has, across time, been everything to you, kind and unkind.
+The training runs from the easy case outward: "Since you can easily be impartial to a person toward whom you have neutral feelings, first take as the object of your meditation such a person", then a friend, then an enemy, then all living beings. Kamalashila's contemplation, quoted by Tsongkhapa, does the check from two directions: "From living beings' viewpoint, all equally want happiness and do not want suffering", and from one's own: "if I have continuously been reborn since beginningless time, all beings have been my friends hundreds of times. To whom should I be attached? To whom should I be hostile?" ([Great Treatise vol. 2 PDF](https://www.theosophy-ult.org.uk/wp-content/uploads/2021/03/Vol-2-Lamrim-on-Path-to-Enlightenment-Tsong-kha-pa.pdf))
 
-*For example:* Waiting at a bus stop, you wish the stranger beside you, the one who irritates you, the same ease you'd wish a friend.
+**Plain words**
+The meditation starts with someone you feel nothing about, levels the mind there, then repeats it with a friend and with an enemy. The reason for doing this before cultivating love: affection that began as preference stays preference-shaped. The tradition's ground for the leveling is rebirth's long run, where everyone has been everything to you, so the friend-enemy sorting is not a fact about them.
+
+For example: Waiting at a bus stop, you wish the stranger beside you, the one who irritates you, the same ease you'd wish a friend.
+
+## Sources
+
+- [Tsongkhapa, The Great Treatise on the Stages of the Path to Enlightenment, vol. 2](https://www.theosophy-ult.org.uk/wp-content/uploads/2021/03/Vol-2-Lamrim-on-Path-to-Enlightenment-Tsong-kha-pa.pdf) — "Achieving impartiality toward living beings" (Seven Cause-and-Effect Personal Instructions): the even-minded-attitude passage, the neutral-person-first steps, and Kamalashila's two contemplations; verified against a text extraction of the downloaded PDF
 
 ## Psychology parallels
 
