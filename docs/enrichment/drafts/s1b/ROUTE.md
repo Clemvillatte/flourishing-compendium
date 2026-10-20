@@ -18,7 +18,7 @@ Reconcile the owner-approved scope on STORIES-TASKBOARD.md. Ready lane drafts wi
 
 ## Review packet and milestone record
 
-- `candidate-B088.md`: opened complete MN 19; exact quote; coverage matrix; first-candidate independent QC and substantive-PASS re-review completed.
+- `s1b-002.md` (B088): opened complete MN 19; exact quote; coverage matrix; first-candidate independent QC and substantive-PASS re-review completed.
 - `s1b-001.md` (D107): opened Legge's chapter 3 §4; short comparison is not expanded into an invented capture or escape; translation-specific numbers preserved; substantive independent-QC PASS.
 - `candidate-P196.md`: opened the chapter II clock passage in two carriers and the separate intuition argument; near-overlap with ST120 disclosed; milestone QC verified sources, with its two requested precision/bibliography corrections applied.
 - `EVIDENCE.md`: access events, rejected duplicates, cross-text cautions and workflow boundary.

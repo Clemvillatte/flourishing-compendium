@@ -27,15 +27,20 @@
    ]
   },
   "s1b-002": {
-   "status": "researching",
+   "status": "drafting",
    "angle": "B088: repeated pursuit becomes inclination; two seasonal cowherds; votes are qualitative analogy, not measured increments",
    "history": [
     {
      "t": "2026-10-20T14:30:12+00:00",
      "to": "researching"
+    },
+    {
+     "t": "2026-10-20T14:31:20+00:00",
+     "to": "drafting",
+     "note": "Reviewed full MN19 arc retained; source quotations and B088 limits independently verified"
     }
    ]
   }
  },
- "updated": "2026-10-20T14:30:12+00:00"
+ "updated": "2026-10-20T14:31:20+00:00"
 }
