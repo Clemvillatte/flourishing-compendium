@@ -6,17 +6,20 @@ title: "Individual Psychology (Adlerian psychology)"
 file: "Individual Psychology (Adlerian psychology)"
 tags: ["theory", "psych/self"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-SELF"], "alternatePaths": []}
-legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter I", "parent": ""}
 ---
 **Individual Psychology (Adlerian psychology)** — Adler — behaviour is goal-directed and socially embedded; striving for significance compensates for felt inferiority.
 
-Alfred Adler founded Individual Psychology after his break with Freud's circle. The theory's engine is the striving Adler describes in the book's third chapter:
+The theory's engine is the striving Adler describes in the book's third chapter:
 
-> "It is the striving for superiority which is behind every human creation and it is the source of all contributions which are made to our culture. The whole of human life proceeds along this great line of action — from below above, from minus to plus, from defeat to victory." (Adler, [What Life Should Mean to You, ch. III, "Feelings of Inferiority and Superiority"](https://archive.org/stream/in.ernet.dli.2015.234444/2015.234444.What-Life_djvu.txt))
+> "The whole of human life proceeds along this great line of action — from below above, from minus to plus, from defeat to victory." (Adler, [What Life Should Mean to You, ch. III, "Feelings of Inferiority and Superiority", Porter edition (1932), full text](https://archive.org/stream/in.ernet.dli.2015.234444/2015.234444.What-Life_djvu.txt))
 
 ### The social direction
 
-The same passage carries the theory's social edge, which is what makes it matter for flourishing: the individuals who can really meet and master the problems of life are those whose striving enriches all others, who go ahead in such a way that others benefit also ([Adler, ch. III](https://archive.org/stream/in.ernet.dli.2015.234444/2015.234444.What-Life_djvu.txt)). Striving turns healthy or unhealthy by its direction. The book's opening chapter holds that human beings live within meanings, and that the meanings are worked out with other people ([Adler, ch. I](https://archive.org/stream/in.ernet.dli.2015.234444/2015.234444.What-Life_djvu.txt)).
+The same passage carries the theory's social edge, which is what makes it matter for flourishing:
+
+> "The only individuals who can really meet and master the problems of life, however, are those who show in their striving a tendency to enrich all others, who go ahead in such a way that others benefit also." (Adler, [What Life Should Mean to You, ch. III](https://archive.org/stream/in.ernet.dli.2015.234444/2015.234444.What-Life_djvu.txt))
+
+The book's opening chapter holds that human beings live within meanings ([Adler, ch. I](https://archive.org/stream/in.ernet.dli.2015.234444/2015.234444.What-Life_djvu.txt)).
 
 ### In the compendium
 

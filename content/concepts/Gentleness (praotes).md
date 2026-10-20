@@ -9,13 +9,13 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Gentleness (praotes)” — Aristotle, NE IV.5.
 
-Praotēs is Aristotle's name for the mean concerned with anger, discussed in Book IV of the Nicomachean Ethics. The Greek term names a strength rather than a softness: not the absence of anger, but anger fitted to its occasion. Ross's translation gives the calibration:
+Praotēs is Aristotle's name for the mean concerned with anger, discussed in Book IV of the Nicomachean Ethics ([Aristotle, NE IV, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html)). Ross's translation gives the calibration:
 
 > "The man who is angry at the right things and with the right people, and, further, as he ought, when he ought, and as long as he ought, is praised. This will be the good-tempered man, then, since good temper is praised." (Aristotle, [Nicomachean Ethics IV.5, translated by W. D. Ross, Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html))
 
 ### The extremes around the mean
 
-The chapter locates gentleness between two failures: the excess Aristotle calls irascibility, quick or long anger at the wrong things, and the deficiency he names inirascibility, a lack of anger where anger is owed; both extremes are blamed, and the deficiency is the less examined fault ([Aristotle, NE IV.5, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html)).
+The chapter locates gentleness between two failures, both blamed: an excess the translation calls a sort of irascibility, and a deficiency it names, with some hesitation, inirascibility ([Aristotle, NE IV.5, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html)).
 
 ### In the compendium
 

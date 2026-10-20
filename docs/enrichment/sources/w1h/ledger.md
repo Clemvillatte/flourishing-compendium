@@ -273,3 +273,35 @@
   verbatim Adler ch. I sentence; the sentence is now paraphrased (no quote).
   NOTE: enrich_validate.py exits 0 even on FAIL — the gate now greps the output
   text for "0 failed" rather than trusting exit codes.
+
+## Milestone QC round (items 11-15) — round-1 repairs applied
+- Focus theory: seed attribution traced — nothing in the repo ties the seed title
+  to Eriksen; zoom lens now presented as a related model the compendium's own
+  AT017 principle draws on ("Your attention has a zoom lens" — read from the
+  principle file); efficiency/boundary claims restated as the abstract's
+  QUESTIONS with the results-agreement summary; unresolved attribution flagged
+  in the page body and here.
+- Functional analysis: invented examples (shouting/walkout/silences) removed;
+  Behavioral activation annotation bare; Baer characterization removed
+  (citation-only line); inclusion criteria now an explicit verbatim blockquote.
+- Gentleness: "less examined fault" removed; extremes restricted to the verified
+  carried statements ("a sort of irascibility" / inirascibility with hesitation);
+  opening sentence cited.
+- Goal setting: "four decades" corrected to the reviewers' 35 years;
+  organizational/laboratory claim re-attributed to Strecher 1995 (where the
+  abstract states it); PMID 31900043 properly opened and re-cited (Swann et al.,
+  Health Psychology Review 15 (2021) 34-50 — earlier citation had wrong
+  journal/authors); "rigid specific goals" replaced with the abstract's own
+  wording; related annotations bare.
+- Adler: legacy line removed (verified: absent from the original front-matter,
+  byte-compared vs pre-edit c2a3ee47); Freud-break sentence removed; "healthy
+  or unhealthy direction" and "meanings worked out with others" removed; the
+  OCR-corrupted sentence dropped from the quote (clean second sentence quoted
+  verbatim instead — no silent OCR correction); the benefit-others sentence now
+  an explicit verbatim blockquote.
+- Validation-gate fix: the done transition now sits inside the
+  successful-validation branch (grep for "0 failed" in the output text; the
+  validator's exit code is unreliable — earlier calls returned both 0 and 1 on
+  FAIL); crash-protection saves remain independent.
+- Baseline check for Adler: front-matter byte-identical and zero lost links vs
+  c2a3ee47 (the file's true pre-edit state), verified via --base.

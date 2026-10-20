@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 the ABC (antecedent-behavior-consequence) of behavior (Hayes et al., 2020).
 
-Functional analysis asks what a behavior does rather than what it looks like. A shouting match and a walkout can serve the same function, and two identical silences can serve opposite ones. The analysis runs through antecedents and consequences: what came just before the behavior, and what the behavior got or removed afterward.
+Functional analysis asks what a behavior does rather than what it looks like. The analysis runs through antecedents and consequences: what came just before the behavior, and what the behavior got or removed afterward.
 
 The methodology's review article states its focus plainly:
 
@@ -17,7 +17,11 @@ The methodology's review article states its focus plainly:
 
 ### How the analysis is run
 
-The review's inclusion criteria show the method's discipline: a pretreatment assessment based on direct observation and measurement of problem behavior, conducted under at least two conditions involving manipulation of an environmental variable, in an attempt to demonstrate a relation between the environmental event and behavior ([Hanley et al., 2003, abstract](https://pubmed.ncbi.nlm.nih.gov/12858983/)). The point is experimental: change the environment and see whether the behavior changes with it, rather than inferring function from the behavior's shape.
+The review's inclusion criteria show the method's discipline:
+
+> "Studies included in the present review were those in which (a) a pretreatment assessment based on (b) direct observation and measurement of (c) problem behavior was conducted under (d) at least two conditions involving manipulation of an environmental variable in an attempt (e) to demonstrate a relation between the environmental event and behavior." (Hanley, Iwata and McCord, [2003, abstract](https://pubmed.ncbi.nlm.nih.gov/12858983/))
+
+The point is experimental: change the environment and see whether the behavior changes with it, rather than inferring function from the behavior's shape ([Hanley et al., 2003, abstract](https://pubmed.ncbi.nlm.nih.gov/12858983/)).
 
 ## Facets
 
@@ -34,7 +38,7 @@ The review's inclusion criteria show the method's discipline: a pretreatment ass
 ## Related concepts
 
 - [[Behavior analysis]] — the ABC of behavior is the tradition's applied tool
-- [[Behavioral activation]] — the clinical treatment built from the same logic
+- [[Behavioral activation]]
 
 ## Sources
 
@@ -48,7 +52,7 @@ The review's inclusion criteria show the method's discipline: a pretreatment ass
 - Persons, 2008
 
 - [Hanley, Iwata and McCord, "Functional analysis of problem behavior: a review", Journal of Applied Behavior Analysis 36 (2003), pp. 147-185, PubMed record 12858983](https://pubmed.ncbi.nlm.nih.gov/12858983/) — the focus of the methodology and the inclusion criteria
-- [Baer, Wolf and Risley, "Some current dimensions of applied behavior analysis", Journal of Applied Behavior Analysis 1 (1968), pp. 91-97, PMC1310980](https://pmc.ncbi.nlm.nih.gov/articles/PMC1310980/) — the founding program of the applied tradition (citation verified; full text not extractable via fetch)
+- [Baer, Wolf and Risley, "Some current dimensions of applied behavior analysis", Journal of Applied Behavior Analysis 1 (1968), pp. 91-97, PMC1310980](https://pmc.ncbi.nlm.nih.gov/articles/PMC1310980/) (citation verified; full text not extractable via fetch)
 
 ## Cited in psychology parallels
 
