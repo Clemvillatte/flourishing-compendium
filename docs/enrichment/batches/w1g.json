@@ -42,10 +42,11 @@
   "Strength as virtue": "title pending supervisor disposition: compendium heading over GS V.377's strength/weakness inversion; phrase not verbatim in opened text; flagged in audit worker-flags section",
   "State-matched emotion regulation": "first-item advisor QC: coined title not source-defined (underlying construct REAL: emotion regulation flexibility, Gross 2015 + Bonanno-Burton 2013, quotes verified); flagged in concept-namespace-audit.md for supervisor disposition (rename suggested); NOT marked done pending disposition; degree 13; body rewritten to the sourced construct; validator ok at fast-track profile",
   "Stress response (Lupien, McEwen)": "fast-track enriched (item 2); degree 9; McEwen 2007 full PDF + Lupien 2009 PubMed record opened, quotes verbatim; NOTE for supervisor: page title carries authors' names in parentheses ('Stress response (Lupien, McEwen)') - the real concept is the stress response; consider renaming per the garbled-title rule (low priority; body written for the sourced construct)",
-  "The analysis of experience into elements": "Reopened for QC: advisor QC item-5 milestone: the same concept-identity question that blocked State-matched emotion regulation applies here; a predecessor's done marker and structural validation do not establish supervisor disposition. Researched body KEPT; item reopened pending disposition; whether the heading is established as a named term is not settled by the opened SEP entry"
+  "The analysis of experience into elements": "Reopened for QC: advisor QC item-5 milestone: the same concept-identity question that blocked State-matched emotion regulation applies here; a predecessor's done marker and structural validation do not establish supervisor disposition. Researched body KEPT; item reopened pending disposition; whether the heading is established as a named term is not settled by the opened SEP entry",
+  "The care of the self": "advisor QC item-5 milestone: round-1 repairs applied verbatim (false opposition, staged reversal, last-two-books generalization removed; blockquote carries direct SEP link per 1a; R060 gloss removed; vol.2 citation kept and marked inherited-not-opened); quote independently verified word-for-word against the directly fetched SEP 3.6 'Sex in the Ancient World' section text; scoped PASS after repair round 2"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T06:08:15+00:00",
+ "updated": "2026-10-20T06:09:54+00:00",
  "band_done": false
 }
