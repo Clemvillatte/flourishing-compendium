@@ -22,7 +22,8 @@
   "A119",
   "AF004",
   "AF015",
-  "AF020"
+  "AF020",
+  "AF022"
  ],
  "in_progress": null,
  "flagged": {
@@ -47,6 +48,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T13:19:45+00:00",
+ "updated": "2026-10-20T13:20:09+00:00",
  "band_done": false
 }
