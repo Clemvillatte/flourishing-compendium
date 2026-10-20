@@ -7,19 +7,26 @@ file: "The second arrow"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-(Buddhist concept, empirically supported), the reaction to the pain is often worse than the pain (Hofmann et al., 2010).
+The second arrow is the additional mental distress accompanying bodily pain in the Sallatha Sutta, SN 36.6 ([Thanissaro Bhikkhu's translation](https://www.accesstoinsight.org/tipitaka/sn/sn36/sn36.006.than.html)). The discourse compares an uninstructed person's response to being struck twice: first by physical pain, then by sorrow and agitation ([SN 36.6](https://www.accesstoinsight.org/tipitaka/sn/sn36/sn36.006.than.html)).
+
+> "So he feels two pains, physical & mental." (SN 36.6, [translated by Thanissaro Bhikkhu](https://www.accesstoinsight.org/tipitaka/sn/sn36/sn36.006.than.html).)
+
+### Pain and resistance
+
+The contrast concerns how pain is met: the instructed disciple still feels physical pain, while resistance to it does not take hold ([SN 36.6](https://www.accesstoinsight.org/tipitaka/sn/sn36/sn36.006.than.html)). The discourse also describes turning to sensual pleasure as the only escape one knows from painful feeling ([SN 36.6](https://www.accesstoinsight.org/tipitaka/sn/sn36/sn36.006.than.html)). Read the image as an invitation to notice that response; avoid using it to blame someone for distress.
+
+### What the cited research tested
+
+Hofmann and colleagues' 2010 meta-analysis examined mindfulness-based therapies for anxiety and mood symptoms across 39 studies; its pooled pre-post estimates included uncontrolled studies ([methods and abstract](https://pmc.ncbi.nlm.nih.gov/articles/PMC2848393/)). It did not compare the severity of a person's initial pain with their subsequent reaction, so it cannot establish that the reaction is often worse ([review objectives and methods](https://pmc.ncbi.nlm.nih.gov/articles/PMC2848393/)).
 
 ## Related concepts
 
-- [[Judgment adds the harm]] — the Buddhist teaching the Stoic doctrine parallels
+- [[Judgment adds the harm]]
 
 ## Sources
 
-- Buddhism, Sallatha Sutta
-
-- Buddhist concept, empirically supported
-
-- Hofmann et al., 2010
+- [Sallatha Sutta: The Arrow, SN 36.6, translated by Thanissaro Bhikkhu](https://www.accesstoinsight.org/tipitaka/sn/sn36/sn36.006.than.html): the physical/mental pain distinction and the instructed disciple's response.
+- [Hofmann, Sawyer, Witt and Oh, The Effect of Mindfulness-Based Therapy on Anxiety and Depression: A Meta-Analytic Review (2010)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2848393/): treatment outcomes, including uncontrolled pre-post studies; no test of which arrow hurts more.
 
 ## Cited in psychology parallels
 
