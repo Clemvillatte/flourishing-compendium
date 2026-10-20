@@ -12,13 +12,25 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 90** — Center your life on the highest good
 
-The Emendation's early resolution: having seen that the ordinary pursuits are empty, Spinoza committed to asking whether there is one supreme good, and the Ethics answers: the mind's greatest good is the knowledge of God, the understanding of the whole. A single center does for a life what a keel does for a boat; without it, the affect of the week steers. Practically, write down the one thing your life is for, keep it where you work, and test each significant commitment against it.
+> I finally resolved to inquire whether there might be some real good having power to communicate itself, which would affect the mind singly, to the exclusion of all else
 
-(Treatise on the Emendation of the Intellect, sections 1-3 and 13; Ethics IV, P21-22 and P28.)
+(Spinoza, Treatise on the Emendation of the Intellect, §1, trans. R. H. M. Elwes, titled "On the Improvement of the Understanding," [Project Gutenberg](https://www.gutenberg.org/files/1016/1016-h/1016-h.htm).)
 
-**Plain words** Having seen that the ordinary pursuits are empty, the resolution: center the life on the highest good — the mind's greatest good is the understanding of the whole. One center, chosen, and everything else organised around it. The centered life is a design decision.
+The Treatise names the usual objects of desire as "Riches, Fame, and the Pleasures of Sense," and says "with these three the mind is so absorbed that it has little power to reflect on any different good" (§3). In §13 the chief good is "that he should arrive, together with other individuals if possible, at the possession of the aforesaid character," a stable human character that he describes as consisting in knowledge of the union between the mind and the whole of nature.
 
-*For example:* The person whose life has five centers — the job, the feed, the group chat, the grievances, the weekend — and the year they pick one actual center and let the rest orbit. Nothing got added; something got prioritised. The calm that follows is structural.
+The Ethics gives the answer in Part IV, Proposition 28: "The mind's highest good is the knowledge of God, and the mind's highest virtue is to know God."
+
+The keel image, the habit of writing down the one thing your life is for, and testing commitments against it are the entry's own devices. They do not appear in these texts. The Treatise also says that wealth, pleasure and fame are not hindrances "if they be sought as means" and not as ends (§11), which is closer to ordering them than discarding them. The Yeager et al. (2014) parallel and the Gospel parallels were not opened.
+
+**Plain words** Spinoza describes deciding to look for one good that would settle the mind, because the usual goals, money, fame and pleasure, absorb it without satisfying it. In the Ethics he names that good as understanding, ultimately of the whole of nature. A single chosen center is a way of organising your life around it.
+
+*For example:* A person whose attention is split between work, the feed, the group chat and old grievances picks one thing the year is for, and lets the others serve it or fall away.
+
+## Sources
+
+- [Spinoza, On the Improvement of the Understanding (Treatise on the Emendation of the Intellect), trans. R. H. M. Elwes, Project Gutenberg #1016](https://www.gutenberg.org/files/1016/1016-h/1016-h.htm) — full text read; §§1, 3, 11, 13
+- [Spinoza, Ethics (trans. R. H. M. Elwes), Project Gutenberg #3800](https://www.gutenberg.org/ebooks/3800) — Part IV, Prop. 28
+
 ## Psychology parallels
 
 - **[[Self-transcendence|Self-transcendent purpose]]**, the evidence that purpose-linked goals outperform ego-linked ones (Yeager et al., 2014)
