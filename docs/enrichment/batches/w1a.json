@@ -9,15 +9,16 @@
   "Gratitude",
   "Acceptance",
   "Mindfulness",
-  "Humility",
-  "Parasympathetic activation"
+  "Humility"
  ],
- "in_progress": null,
+ "in_progress": "Parasympathetic activation",
  "flagged": {
   "Attention": "QC corrections applied 2026-10-19 (gorilla wording narrowed, Weil context added, contemplative bridge marked as comparison, clauses fixed, duplicate list removed)",
-  "Care": "QC corrections applied 2026-10-19 (Noddings sourcing fixed, Heidegger ontological/ethical distinction added, seed-line sentence removed, limit question added)"
+  "Care": "QC corrections applied 2026-10-19 (Noddings sourcing fixed, Heidegger ontological/ethical distinction added, seed-line sentence removed, limit question added)",
+  "Parasympathetic activation": "Reopened for QC: advisor QC round 1: evidence scope corrections required"
  },
  "missing_concepts": [],
  "sources_checked": 8,
- "updated": "2026-10-20T04:33:09+00:00"
+ "updated": "2026-10-20T04:35:03+00:00",
+ "band_done": false
 }
