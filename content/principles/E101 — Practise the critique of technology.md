@@ -12,13 +12,13 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 493** — Practise the critique of technology
 
-Heidegger asks how modern technology makes things appear as standing-reserve: available for ordering and further use ([“The Question Concerning Technology,” p. 17, Lovitt translation](https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/a/3282/files/2018/01/Heidegger_TheQuestionConcerningTechnology.pdf)). His example of the Rhine within a hydroelectric system concerns this way of encountering a river, not simply whether a particular machine is good or bad ([pp. 16–17](https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/a/3282/files/2018/01/Heidegger_TheQuestionConcerningTechnology.pdf)).
+Heidegger asks how modern technology makes things appear as standing-reserve: available for ordering and further use ([“The Question Concerning Technology,” paragraph beginning “What kind of unconcealment,” Lovitt translation](https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/a/3282/files/2018/01/Heidegger_TheQuestionConcerningTechnology.pdf)). His example of the Rhine within a hydroelectric system concerns this way of encountering a river, not simply whether a particular machine is good or bad ([paragraph beginning “The hydroelectric plant”](https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/a/3282/files/2018/01/Heidegger_TheQuestionConcerningTechnology.pdf)).
 
 > Likewise, the essence of technology is by no means anything technological.
 
-(Heidegger, “The Question Concerning Technology,” p. 3; [opened text](https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/a/3282/files/2018/01/Heidegger_TheQuestionConcerningTechnology.pdf).)
+(Heidegger, “The Question Concerning Technology,” opening paragraphs, after the tree analogy; [opened text](https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/a/3282/files/2018/01/Heidegger_TheQuestionConcerningTechnology.pdf).)
 
-The danger he identifies is that ordering may crowd out other ways of revealing what things are ([p. 27](https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/a/3282/files/2018/01/Heidegger_TheQuestionConcerningTechnology.pdf)). The practical question below is an application of that concern.
+The danger he identifies is that ordering may crowd out other ways of revealing what things are ([paragraph beginning “Enframing blocks”](https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/a/3282/files/2018/01/Heidegger_TheQuestionConcerningTechnology.pdf)). The practical question below is an application of that concern.
 
 ### Plain words
 

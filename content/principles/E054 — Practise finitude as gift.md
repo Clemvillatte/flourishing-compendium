@@ -27,6 +27,10 @@ Heidegger leaves open what may follow death; this passage does not establish tha
 ### For example
 
 Suppose there is someone you want to visit but keep putting off. You could arrange a date now, without needing to settle a theory about why mortality exists.
+## Related concepts
+
+- [[Being-toward-death]]: the anticipation of death through which finite possibilities become one's own.
+
 ## Psychology parallels
 
 - **[[Mortality salience|Mortality salience and meaning]]** (Greenberg et al., 1986)

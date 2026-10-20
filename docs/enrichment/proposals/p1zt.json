@@ -1,7 +1,13 @@
 {
  "batch": "p1zt",
- "revision": 8,
+ "revision": 9,
  "reciprocal": [
+  {
+   "into": "Being-toward-death",
+   "link": "E054",
+   "why": "considers how anticipation of death clarifies finite possibilities for choosing",
+   "notes": "Existing concept read in full; E054 newly links it. Primary evidence opened: https://dhspriory.org/kenny/PhilTexts/Heidegger/BeingTime07.doc §§50–53; §49 leaves what may follow death open. Supervisor integrates reciprocal only; worker did not edit concept page. Do not turn title's gift language into a demonstrated ontological benefit."
+  },
   {
    "into": "Pure experience",
    "link": "K002",
