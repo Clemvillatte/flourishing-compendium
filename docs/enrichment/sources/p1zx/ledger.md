@@ -238,3 +238,9 @@ Round 3 (advisor, 2026-10-21): item-10 milestone closed with a scoped PASS for A
 
 - Source opened: Jaspers, Way to Wisdom, trans. Manheim (Internet Archive full text), pp. 31-32, 34, 43, 49-50 from page-header positions (odd = 'WAY TO WISDOM', even = chapter title). The book's printed index puts 'mystery of transcendence' at 44, header analysis gives 43; the page uses 43 (the passage precedes the page-44 header). OCR noise ('I', '|') ignored; quotes otherwise word-for-word.
 - Not opened: Philosophy vol. 3 (cipher script) and Marcel, Mystery of Being (1951b); old cites to both kept out of the text and flagged. Plain words replicate replaced; example imagined. Self-QC only.
+
+## E040 (worker-p1zx-9a2e4c71, 2026-10-21)
+
+- Source opened: Sartre BN (Barnes, Internet Archive OCR) Part IV ch. 1 section I, pp. 461-465 (page numbers from the book's running heads). Quotes match word-for-word except OCR 'al]' for 'all' (p. 465), hyphen line breaks.
+- Locator correction: old cite 'Part IV, ch. 2' is wrong for these passages; they sit in Part IV ch. 1 ('Freedom: The First Condition of Action'). I did not open the later 'Existential Psychoanalysis' section (ch. 2) where the term 'fundamental project' is developed, so I cite only ch. 1.
+- Old 'plain words' added 'orientation toward engagement or withdrawal', 'hostile place, a task, a gift', and 're-chosen' as easy: Sartre says change is a radical conversion, always possible, never motivated by a prior reason. Replaced; example imagined. Self-QC only.
