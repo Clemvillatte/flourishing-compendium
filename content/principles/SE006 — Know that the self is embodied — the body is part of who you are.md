@@ -22,10 +22,10 @@ James includes the body within his account of the material self. ([The Principle
 
 > "The body is the innermost part of the material Self in each of us; and certain parts of the body seem more intimately ours than the rest. The clothes come next." (William James, [The Principles of Psychology, Vol. I, ch. X](https://www.gutenberg.org/files/57628/57628-h/57628-h.htm))
 
-The compendium recommends including bodily care when considering care of yourself. This is a practical application of James's account of the material self.
+The compendium recommends including bodily care when considering care of yourself. This is a practical application of James's account of the material self. ([The Principles of Psychology, Vol. I, ch. X](https://www.gutenberg.org/files/57628/57628-h/57628-h.htm))
 
 **Plain words**
-James includes the body in his account of the material self. For this compendium's practice, include bodily care when thinking about what caring for yourself means.
+James includes the body in his account of the material self. For this compendium's practice, include bodily care when thinking about what caring for yourself means. ([The Principles of Psychology, Vol. I, ch. X](https://www.gutenberg.org/files/57628/57628-h/57628-h.htm))
 
 *For example* (reflection exercise): When describing a difficult day, consider whether bodily discomfort appears in how you describe yourself.
 ## Psychology parallels

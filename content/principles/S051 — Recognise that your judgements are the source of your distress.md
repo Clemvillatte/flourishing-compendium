@@ -20,10 +20,10 @@ In Enchiridion 5, Epictetus locates disturbance in opinions about events rather 
 
 The manual's example is death: nothing terrible in itself, since if it were, it would have seemed so to Socrates. What is terrible is the opinion that death is terrible. The same holds for being impeded, disturbed or grieved: the passage directs the practitioner to blame no one else, but to look to their own opinions. ([Enchiridion 5, Delphi Complete Works of Epictetus](https://drive.google.com/file/d/1EDkL63FuSpabjbB7amxNodYocj_q_vaH/view))
 
-The passage then grades the learner. The ill-instructed man blames others for his own bad condition; the man who has begun to be instructed blames himself; the man whose instruction is completed blames neither another nor himself. For its exercise, the compendium recommends examining the judgement without turning that inquiry into self-reproach.
+The passage then grades the learner. The ill-instructed man blames others for his own bad condition; the man who has begun to be instructed blames himself; the man whose instruction is completed blames neither another nor himself. For its exercise, the compendium recommends examining the judgement without turning that inquiry into self-reproach. ([Enchiridion 5, Delphi Complete Works of Epictetus](https://drive.google.com/file/d/1EDkL63FuSpabjbB7amxNodYocj_q_vaH/view))
 
 **Plain words**
-Epictetus asks you to attend to your opinion of an event. Try stating the judgement involved. His passage ends with the trained person blaming neither themselves nor others.
+Epictetus asks you to attend to your opinion of an event. Try stating the judgement involved. His passage ends with the trained person blaming neither themselves nor others. ([Enchiridion 5](https://drive.google.com/file/d/1EDkL63FuSpabjbB7amxNodYocj_q_vaH/view))
 
 *For example:* Feeling worthless after a critical review, you find the judgement "one criticism means I'm incompetent," and see it's not true.
 

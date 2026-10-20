@@ -12,14 +12,14 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 8** — Recognise that the self is not unitary: you have multiple self-aspects
 
-James's account of the social self is plural: different people recognise the same person and carry different images of that person. ([The Principles of Psychology, Vol. I, ch. X](https://www.gutenberg.org/files/57628/57628-h/57628-h.htm)) The compendium turns this into a reflection exercise: compare how you are known in several relationships without assuming that one description exhausts who you are.
+James's account of the social self is plural: different people recognise the same person and carry different images of that person. The compendium turns this into a reflection exercise: compare how you are known in several relationships without assuming that one description exhausts who you are. ([The Principles of Psychology, Vol. I, ch. X](https://www.gutenberg.org/files/57628/57628-h/57628-h.htm))
 
 (William James, "The Principles of Psychology," Vol. I, 1890, ch. X; Linville, 1985, 1987; Showers & Zeigler-Hill, 2007; McConnell, 2011.)
 
 > "Properly speaking, a man has as many social selves as there are individuals who recognize him and carry an image of him in their mind. To wound any one of these his images is to wound him." (William James, [The Principles of Psychology, Vol. I, ch. X](https://www.gutenberg.org/files/57628/57628-h/57628-h.htm))
 
 **Plain words**
-James describes different social selves through the images other people carry of us. For this exercise, list several relationships and compare how you are known in each.
+James describes different social selves through the images other people carry of us. For this exercise, list several relationships and compare how you are known in each. ([The Principles of Psychology, Vol. I, ch. X](https://www.gutenberg.org/files/57628/57628-h/57628-h.htm))
 
 *For example:* Compare how you describe yourself at work and at home. Which descriptions fit both settings, and which do not?
 ## Psychology parallels
