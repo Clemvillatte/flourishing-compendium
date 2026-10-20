@@ -12,11 +12,11 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AT — Attentio
 ---
 > **Principle 5** — Know that attention and awareness are not the same: you can be aware without attending
 
-Lutz and colleagues describe two meditation practices: sustained focus on a chosen object and open monitoring of changing experiences. Here, "without attending" means without selecting one object as the main focus.
+Lutz and colleagues describe two meditation practices: sustained focus on a chosen object and open monitoring of changing experiences ([PMC full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC2693206/)). Here, "without attending" means without selecting one object as the main focus.
 
 > "The first style, FA meditation, entails voluntary focusing attention on a chosen object in a sustained fashion. The second style, OM meditation, involves non-reactively monitoring the content of experience from moment to moment, primarily as a means to recognize the nature of emotional and cognitive patterns" (Lutz, Slagter, Dunne & Davidson, "Attention regulation and monitoring in meditation", Trends in Cognitive Sciences 12, 2008, body definitions in the section "Meditation as an explanandum", paragraph beginning "The first style", [full text via PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC2693206/))
 
-Focused-attention practice also trains the detection of distractions. The authors describe a transition from this practice to open monitoring:
+Focused-attention practice also trains the detection of distractions (Box 1); the authors describe a transition from this practice to open monitoring (Box 2) ([PMC full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC2693206/)):
 
 > "In this way, the 'effortful' selection or 'grasping' of an object as primary focus is gradually replaced by the 'effortless' sustaining of an awareness without explicit selection." (Lutz et al., 2008, Box 2, "Open monitoring meditation", [full text via PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC2693206/))
 
