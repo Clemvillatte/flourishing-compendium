@@ -12,7 +12,8 @@
   "A101",
   "A109",
   "A110",
-  "E019"
+  "E019",
+  "E024"
  ],
  "in_progress": null,
  "flagged": {
@@ -21,6 +22,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T13:16:27+00:00",
+ "updated": "2026-10-20T13:18:59+00:00",
  "band_done": false
 }

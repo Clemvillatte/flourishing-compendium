@@ -12,13 +12,24 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 416** — Practise ready-to-hand and present-at-hand
 
-Recognise two modes of encountering the world. In the ready-to-hand (Zuhanden), you engage with things as tools, absorbed in use. In the present-at-hand (Vorhanden), you contemplate things as objects, detached from use. Both modes are necessary. The danger is letting the present-at-hand dominate, reducing the world to objects of contemplation.
+Heidegger's two modes are best introduced by his own example, the hammer:
 
-(Heidegger, 1927/2008, Being and Time, §§15-16, 69-73.)
+> "the less we just stare at the hammer-Thing, and the more we seize hold of it and use it, the more primordial does our relationship to it become" (Being and Time §15, trans. Macquarrie and Robinson).
 
-**Plain words** Two modes of encountering the world: ready-to-hand — engaged, absorbed in use; present-at-hand — detached, contemplating as object. Both are necessary; the danger is the domination of the second, where everything becomes an object to manage. Use the tools; sometimes; and sometimes just be used by them.
+The Being of equipment he names readiness-to-hand [Zuhandenheit], and the bare look misses it by principle: "we cannot discover anything ready-to-hand" no matter how sharply we look at the outward appearance of Things (§15). The theoretical attitude can get by without it: "If we look at Things just 'theoretically', we can get along without understanding readiness-to-hand" (§15). Using is not blind: "this activity is not a blind one; it has its own kind of sight", which he calls circumspection (§15).
 
-*For example:* The musician mid-piece is ready-to-hand absorbed — until they notice their own hands, and the sudden objectification of the skill makes the fingers stumble. The watching mind is for later; the playing is now.
+Present-at-hand shows up mainly when the tool fails. When equipment is damaged, missing or in the way, it turns conspicuous, obtrusive or obstinate, and presence-at-hand comes to the fore; even then, "the presence-at-hand which makes itself known is still bound up in the readiness-to-hand of equipment" (§16). The absorbed dealing is primary, and the detached stare is what remains when the dealing is interrupted.
+
+(Being and Time §§15-16, trans. Macquarrie and Robinson; full text at the Internet Archive, opened 2026-10-21.)
+
+**Plain words** Tools disappear into their use: you notice the hammer only when it breaks, and the room you are in only when the light fails. That is Heidegger's basic picture: the world shows up first as stuff to use, and only secondarily as stuff to look at. The lesson is not that looking is bad; the absorbed, using relation is the default, so treat the detached, managing stare as a mode you step into and out of.
+
+*For example:* The musician mid-piece is absorbed until they notice their own hands, and the sudden objectification of the skill makes the fingers stumble.
+
+## Sources
+
+- [Heidegger, Being and Time, trans. Macquarrie and Robinson, full text, Internet Archive](https://archive.org/details/being-and-time-martin-heidegger-1962) — §§15-16
+
 ## Psychology parallels
 
 - **[[Flow|Flow and absorption]]** (Csikszentmihalyi, 1990)
