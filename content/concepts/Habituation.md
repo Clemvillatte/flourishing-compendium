@@ -13,11 +13,11 @@ Habituation is learning by repetition, and the word carries two bodies of work. 
 
 > "Neither by nature, then, nor contrary to nature do the virtues arise in us; rather we are adapted by nature to receive them, and are made perfect by habit... the virtues we get by first exercising them, as also happens in the case of the arts as well. For the things we have to learn before we can do them, we learn by doing them, e.g. men become builders by building and lyreplayers by playing the lyre; so too we become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts." (Aristotle, Nicomachean Ethics II.1, [Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html))
 
-In the psychology of learning, habituation is the same shape at a smaller scale: a response that declines with repetition. The standard definition from the field's review of reviews:
+In the psychology of learning, the word names something else: a response that declines with repetition. The standard definition from the field's review of reviews:
 
 > "Habituation is defined as a behavioral response decrement that results from repeated stimulation and that does not involve sensory adaptation/sensory fatigue or motor fatigue." (Rankin et al., 2009, [Neurobiology of Learning and Memory](https://pmc.ncbi.nlm.nih.gov/articles/PMC2754195/))
 
-The two senses share a mechanism: what is repeated shapes what follows. The review's authors call the psychological form "the simplest form of learning" and note that it lets animals filter out irrelevant stimuli and focus selectively on important ones, which makes it a prerequisite for other forms of learning. Aristotle marks the same limit from the other side with his stone and fire: nothing that exists by nature can form a habit contrary to its nature, so habituation works on the adaptable, never on the fixed. His craftsman analogy gives the rule for both, the builder and the tone: the response is trained by the very act of responding.
+The two senses are different things that share a name. Aristotle's habituation is character formation through repeated action; the psychologists' is a response decrement through repeated stimulation, and neither source equates the two. The review's authors call the psychological form "the simplest form of learning" and write that researchers who work on it believe it lets animals filter out irrelevant stimuli and focus selectively on important ones, which would make it a prerequisite for other forms of learning. Aristotle marks his own limit with the stone and the fire: nothing that exists by nature can form a habit contrary to its nature, so his habituation works on the adaptable, never on the fixed.
 
 ### In the compendium
 

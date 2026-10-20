@@ -15,3 +15,13 @@
 - Related whys are the seed's own link labels (Virtue, Graded exposure, Boulesis);
   the seed's three Related lines preserved as-is.
 - All 10 seed links preserved (link-diff vs HEAD: NONE missing); front-matter exact.
+
+## Advisor QC (10th-item milestone round): FAILED -> repaired
+
+- "Share a mechanism" claim removed: the page now states the two senses are
+  different things sharing a name, and that neither source equates them.
+- "Same shape at a smaller scale" replaced with "the word names something else".
+- Rankin filter/prerequisite claims now attributed to the researchers' belief
+  ("researchers who work on this form of learning believe..."), per the source's
+  own wording.
+- The builder/tone analogy sentence deleted.
