@@ -32,11 +32,13 @@ The cross-tradition cognates are exact: [[Anatta]] and [[Self-as-context]] are t
 
 
 
+
 - [[Distrust names and labels]] — the defusion page names the word-experience fusion this concept warns about; reciprocal of the Related entry
 - [[Decentering]] — the review lists cognitive defusion among the decentering-related constructs it maps onto one phenomenon
 - [[Psychological flexibility]] — listed for comparison
 - [[Right mindfulness]] — the eightfold path's mindfulness factor (MN 10's four establishments)
 - [[Apatheia]] — the Stoic ideal of freedom from passion, not numbness
+- [[Dual-process theory]] — Evans and Stanovich's Type 1/Type 2 distinction (2013)
 ## Sources
 
 - Hayes et al., 2011

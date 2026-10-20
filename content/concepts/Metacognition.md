@@ -20,11 +20,13 @@ noticing that even your framework is a mental event (Flavell, 1979).
 
 
 
+
 - [[Attention]] — attention watching itself
 - [[CO064]] — CO064 discusses beliefs about worrying within Wells's metacognitive model.
 - [[The testing effect / retrieval practice]] — The confidence gap between rereading and retrieval is a metacognitive miscalibration: felt knowing outrunning actual knowing.
 - [[Metacognitive model of anxiety and depression (Wells)]] — the capacity whose belief families this model divides
 - [[Metacognitive regulation of state]] — Flavell's original construct, at the level of thinking rather than arousal
+- [[Dual-process theory]] — Evans and Stanovich's Type 1/Type 2 distinction (2013)
 ## Sources
 
 - Flavell, 1979

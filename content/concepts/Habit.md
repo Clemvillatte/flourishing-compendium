@@ -46,6 +46,7 @@ James's advice for education and habit aims at making "our nervous system our al
 
 
 
+
 - [[Context-dependent behaviour (Wood & Neal)]] — the Wood-Neal model that redefined habit as context-cued responding
 - [[Effortless action through long effort]] — automaticity with a Daoist reading: the several thousand oxen behind the sharp blade
 - [[Behavioural chaining (applied behaviour analysis)]] — BE024 describes everyday routines as habit chains
@@ -62,6 +63,7 @@ James's advice for education and habit aims at making "our nervous system our al
 - [[Temperance]] — one of the four cardinal virtues: the right ordering of pleasure and appetite
 - [[Experience plus reflection]] — the Deweyan pairing of experience and reflection (How We Think, 1910)
 - [[Identified versus introjected motivation]] — self-determination theory's distinction between two ways of carrying a rule inside
+- [[Dual-process theory]] — Evans and Stanovich's Type 1/Type 2 distinction (2013)
 ## Sources
 
 - [James, The Principles of Psychology (1890), ch. IV "Habit" (Classics in the History of Psychology)](https://psychclassics.yorku.ca/James/Principles/prin4.htm) — the primary text; quotations verbatim

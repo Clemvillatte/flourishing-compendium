@@ -24,6 +24,7 @@ D180 carries the concept directly, with Zhuangzi 18 and Daodejing 80 as its sour
 ## Related concepts
 
 
+
 - [[Broaden-and-build]] — contentment's urge to savour the given is the ordinary's ally
 - [[Wu wei]] — non-forcing as the ordinary's texture
 - [[Ziran (naturalness)]] — the ordinary as what is so of itself
@@ -34,6 +35,7 @@ D180 carries the concept directly, with Zhuangzi 18 and Daodejing 80 as its sour
 - [[Boredom]] — the ordinary's shadow, the thing to befriend
 - [[Sati]] — the presence that makes the ordinary appear
 - [[Joy]] — the everyday register of joy given its own page
+- [[Death reflection]] — the specific, vivid contemplation of one's own death vs abstract mortality salience (Cozzolino 2006)
 ## Sources
 
 - [Daodejing 80, translation and commentary (Wudang.org)](https://wudang.org/dao/dao-de-jing/full-text/chapter-80) — the fourfold contentment of the small community

@@ -1,0 +1,62 @@
+{
+ "batch": "supervisor-recovery-t18",
+ "revision": 1,
+ "reciprocal": [
+  {
+   "into": "content/concepts/Gratitude.md",
+   "link": "Death reflection",
+   "why": "the specific, vivid contemplation of one's own death vs abstract mortality salience (Cozzolino 2006)"
+  },
+  {
+   "into": "content/concepts/Delight in the ordinary.md",
+   "link": "Death reflection",
+   "why": "the specific, vivid contemplation of one's own death vs abstract mortality salience (Cozzolino 2006)"
+  },
+  {
+   "into": "content/concepts/Meaning-making.md",
+   "link": "Death reflection",
+   "why": "the specific, vivid contemplation of one's own death vs abstract mortality salience (Cozzolino 2006)"
+  },
+  {
+   "into": "content/concepts/Savoring.md",
+   "link": "Death reflection",
+   "why": "the specific, vivid contemplation of one's own death vs abstract mortality salience (Cozzolino 2006)"
+  },
+  {
+   "into": "content/concepts/Prosocial spending.md",
+   "link": "Death reflection",
+   "why": "the specific, vivid contemplation of one's own death vs abstract mortality salience (Cozzolino 2006)"
+  },
+  {
+   "into": "content/concepts/Cognitive defusion.md",
+   "link": "Dual-process theory",
+   "why": "Evans and Stanovich's Type 1/Type 2 distinction (2013)"
+  },
+  {
+   "into": "content/concepts/Metacognition.md",
+   "link": "Dual-process theory",
+   "why": "Evans and Stanovich's Type 1/Type 2 distinction (2013)"
+  },
+  {
+   "into": "content/concepts/Cognitive reappraisal.md",
+   "link": "Dual-process theory",
+   "why": "Evans and Stanovich's Type 1/Type 2 distinction (2013)"
+  },
+  {
+   "into": "content/concepts/Habit.md",
+   "link": "Dual-process theory",
+   "why": "Evans and Stanovich's Type 1/Type 2 distinction (2013)"
+  },
+  {
+   "into": "content/concepts/Flow.md",
+   "link": "Dual-process theory",
+   "why": "Evans and Stanovich's Type 1/Type 2 distinction (2013)"
+  },
+  {
+   "into": "content/concepts/Expressive suppression versus reappraisal.md",
+   "link": "Dual-process theory",
+   "why": "Evans and Stanovich's Type 1/Type 2 distinction (2013)"
+  }
+ ],
+ "notes": "w1b legacy recovery tranche 18 (Death reflection + Dual-process theory families). Original claim-bearing clauses unevidenced in the w1b ledger; neutral clauses grounded in each concept page's own sourced opening (Cozzolino 2006; Evans & Stanovich 2013). The seasons of life, Impermanence, Load theory already linked (skipped). - supervisor-3ef4f549, 2026-10-20"
+}

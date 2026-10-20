@@ -29,12 +29,14 @@ Its social-cognitive sibling is [[Perspective-taking]] — reappraisal of the ev
 
 
 
+
 - [[Anger regulation research]] — the research tradition that tested reappraisal against other strategies
 - [[Cognitive flexibility]] — generating alternative interpretations is perspective-shifting in action
 - [[Evidence-based treatments (CBT, ACT, DBT, EMDR, medication) have robust evidence]] — the reappraisal skill taught inside CBT
 - [[Emotion regulation]] — the process model that makes this strategy central
 - [[Judgment adds the harm]] — the clinical descendant of the Stoic doctrine
 - [[Mid-level emotion regulation]] — the strategy with the better record in the comparison this page makes
+- [[Dual-process theory]] — Evans and Stanovich's Type 1/Type 2 distinction (2013)
 ## Sources
 
 - Gross, 1998
