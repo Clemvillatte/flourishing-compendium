@@ -1,12 +1,18 @@
 {
  "batch": "p1zt",
- "revision": 2,
+ "revision": 3,
  "reciprocal": [
   {
    "into": "Pure experience",
    "link": "K002",
    "why": "examines Nishida's account of experience before subject-object differentiation",
    "notes": "Concept page already cites Nishida, An Inquiry into the Good in its parallels. Evidence: SEP Nishida Kitaro entry opened and raw-verified 2026-10-20 (SS2.1: experience precedes differentiation into subject and object; An Inquiry into the Good p. 3 fragment)."
+  },
+  {
+   "into": "Cognitive mediation of distress",
+   "link": "K005",
+   "why": "Shantideva's elephant-of-mind verses state the interpretation-first account this page collects under cognitive mediation",
+   "notes": "Concept page covers Beck/CBT interpretation-carries-load findings; K005's psychology parallel already links to it. Evidence: Berzin ch. 5 V.2-3 opened 2026-10-20."
   }
  ]
 }

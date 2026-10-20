@@ -16,9 +16,15 @@ Shantideva states the tradition's summary claim with striking force: all fears a
 
 (Shantideva, Bodhicharyavatara, ch. 5.)
 
+> Left to run loose, the elephant of my mind can ravage me with (a joyless realm of) unrelenting pain. Untamed, rutting elephants in this (world) can't cause me such harm. But, if the elephant of my mind is firmly bound by the rope of mindfulness on every side, all fears will vanish and everything constructive will come into my hands. (Shantideva, Bodhicharyavatara V.2-3, Alexander Berzin translation, 2004)
+
 **Plain words** Shantideva's bold claim is that fear and suffering arise from the mind. He isn't saying circumstances don't matter. He's saying the link between what happens and how much it hurts runs through your interpretation, and that is the part you can always reach.
 
 *For example:* Two people get the same message, "we need to talk." One spends the day in dread. The other thinks it's probably logistics. The text is identical.
+
+## Sources
+
+- [Shantideva, Engaging in Bodhisattva Behavior, ch. 5 "Safeguarding with Alertness" (Berzin translation)](https://studybuddhism.com/en/tibetan-buddhism/original-texts/sutra-texts/engaging-in-bodhisattva-behavior/safeguarding-with-alertness)
 
 ## Psychology parallels
 
