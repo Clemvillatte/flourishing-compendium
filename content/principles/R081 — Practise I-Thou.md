@@ -12,18 +12,18 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 343** — Practise I-Thou
 
-Relate to the other person not as an object (an It) but as a subject (a Thou). The I-Thou relation is the primary mode of authentic encounter, in which the other is encountered in their full, irreducible personhood. Do not reduce the other to a category, a role, or a function. Encounter them as a whole person.
+Buber distinguishes the primary words I-Thou and I-It. In the passage used here, I-It includes activities directed at something, such as perceiving, imagining, willing, feeling and thinking. He says human life does not consist of these activities alone and describes I-Thou as spoken with the whole being.
 
 > "The primary word I-Thou can only be spoken with the whole being. The primary word I-It can never be spoken with the whole being." (Buber, *I and Thou*, Part One, [Ronald Gregor Smith translation](https://archive.org/stream/IAndThou_572/BuberMartin-i-and-thou_djvu.txt))
 
-Buber's two primary words give the page its working pair. In the world of It, each thing is bounded by others and exists only through being bounded by others; when the Thou is spoken there is no thing, and the speaker takes a stand in relation. Buber is direct about the stakes: the life of human beings does not consist of perceiving, willing, feeling and thinking alone, since all of that establishes the realm of It. He closes the movement with the line "All real living is meeting."
+In the passage, every It is bounded by others and exists only through being bounded by others, while the speaker of the primary word I-Thou has no thing for an object and takes a stand in relation. The section ends with the line "All real living is meeting."
 
 (Buber, 1923/1970, I and Thou; Buber, 1965, The Knowledge of Man.)
 
 **Plain words**
-Most of the day runs on treating people as It: the cashier is a step in buying lunch, the client is a task list. Buber does not ask you to live outside that realm; he says the life of human beings does not consist of it alone. The question is whether you can also speak to someone with your whole attention, with nothing between you and them. A working test: when someone speaks to you, do you answer the role or the person?
+Consider a conversation in which you are focused on what someone can do for you. As a compendium exercise, notice whether that aim is determining everything you attend to. Make room for what the other person wants to say.
 
-*For example:* A barista serves hundreds of customers who see a coffee transaction. Once in a while someone asks about the violin they mentioned months ago. The compendium's exercise is to be that second customer once this week.
+*For example:* Imagine listening to a colleague only as the person responsible for delivering a report. For the compendium's exercise, invite them to describe the situation and listen without immediately directing the conversation back to the report.
 
 ## Sources
 

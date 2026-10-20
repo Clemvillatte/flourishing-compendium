@@ -16,18 +16,18 @@ Recognise that your capacity for self-governance is constituted through your rel
 
 (Nedelsky, 1989, "Reconceiving Autonomy," Yale Journal of Law and Feminism, 1(1), 7-36; Mackenzie and Oshana, 2007, "Relational Autonomy," in Autonomy, Self, and Social Identity.)
 
-> "We come into being in a social context that is literally constitutive of us." (Nedelsky, "Reconceiving Autonomy," [Yale Journal of Law and Feminism 1(1), 1989, p. 7](https://openyls.law.yale.edu/bitstreams/b6f87a9b-ef6e-426c-ace2-db9baf152a19/download))
+> "We come into being in a social context that is literally constitutive of us." (Nedelsky, "Reconceiving Autonomy," [Yale Journal of Law and Feminism 1(1), 1989, p. 8](https://openyls.law.yale.edu/bitstreams/b6f87a9b-ef6e-426c-ace2-db9baf152a19/download))
 
 Nedelsky's target is the liberal picture of self-made individuals. She takes from the tradition the core definition: the literal meaning of autonomy is to be "governed by one's own law," and to become autonomous is to come to be able to find and live in accordance with one's own law. Her move is to relocate that capacity. Some of our most essential characteristics, such as the capacity for language and the conceptual framework through which we see the world, are not made by us but given to us through interactions with others; there are, she writes, no human beings in the absence of relations. The practical direction follows: seek relationships that support your self-governance, and be that support for others.
 
 **Plain words**
-Autonomy is not about needing fewer people. It is the ability to find and live by your own law, and Nedelsky's point is that this ability is built and kept through relationships. A family that answers every question for you shrinks it; a mentor who asks what you want builds it. Two checks: which relationships around you currently build your ability to decide, and where could you be that person for someone else?
+Depending on other people does not settle whether you can make decisions for yourself. Nedelsky asks how social relationships can coexist with self-determination. For the compendium's exercise, choose one decision and ask who helps you understand the options, who has a say, and whether you can explain what you want.
 
-*For example:* Imagine a young adult whose family means well and answers every question for them. The compendium's exercise: pick one decision currently being swallowed by someone else, work out what you would choose, and bring that answer back to the conversation.
+*For example:* Imagine a young adult preparing for a family discussion about where to study. They write down their preferred option and reasons, then bring these to the conversation.
 
 ## Sources
 
-- [Nedelsky, "Reconceiving Autonomy: Sources, Thoughts and Possibilities" (Yale Journal of Law and Feminism 1(1), 1989, open PDF)](https://openyls.law.yale.edu/bitstreams/b6f87a9b-ef6e-426c-ace2-db9baf152a19/download) — pp. 7-8
+- [Nedelsky, "Reconceiving Autonomy: Sources, Thoughts and Possibilities" (Yale Journal of Law and Feminism 1(1), 1989, open PDF)](https://openyls.law.yale.edu/bitstreams/b6f87a9b-ef6e-426c-ace2-db9baf152a19/download) — pp. 8-10
 ## Stories
 
 - [[ST252 — MacIntyre's Burned Library|252. MacIntyre's Burned Library]]
