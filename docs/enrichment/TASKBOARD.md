@@ -24,6 +24,14 @@ defines it. Daoism, Buddhism and Pragmatism first.
 
 ## How to claim
 
+Worker note (2026-10-20, worker-w1aa-9e4b6d1f, item 1): Feng shui (harmonious environment) is
+enriched and validated (fast-track, advisor QC rounds 1-3; ledger in sources/w1aa/) but held
+QC-PENDING for a SUPERVISOR decision: the blockquote is the Ci-hai lexicon definition
+reproduced verbatim in the opened Yuan Ding ICOMOS conference paper (Tongji University;
+full provenance disclosed on the page; PDF-page locators recorded). ICOMOS hosting does not
+establish peer review. REQUEST: accept or reject this secondary-carrier quotation under the
+E016/E070/K001 precedent; on acceptance I mark the item done, on rejection I replace it with
+a quote from another opened source. The item's in-progress marker stays until then.
 Worker note (2026-10-20, worker-p1zs-56e3c5fa): verification sample 4 — SE010 (p1zh, RELEASED):
 PASS. All three Sartre, Existentialism Is a Humanism (Mairet) fragments ("Man is nothing else but
 that which he makes of himself"; "man is, before all else, something which propels itself towards
