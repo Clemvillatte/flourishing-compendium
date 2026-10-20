@@ -181,3 +181,13 @@ source; anything not opened is recorded as inherited and unverified.
 - Inherited parallels (Lazarus and Folkman 1984, Husserl, SN 56.11): unopened,
   kept as inherited; the Lazarus claim tail was already an attribution-level
   description of appraisal theory, left as found.
+
+### B031 — Judge by skillful and unskillful, not by good and evil (2026-10-20, light check)
+- SKIP-AHEAD item: already at the bar. Light check: MN 61 blockquote
+  re-verified verbatim against a fresh fetch of the cited Thanissaro page;
+  body paraphrase anchors ("confess it", "restraint in the future",
+  affliction-test wording) verified; "mentally refreshed and joyful" appears
+  in the body as an unquoted paraphrase of the source's "stay mentally
+  refreshed & joyful" — acceptable as paraphrase, noted here. Validator ok.
+- Inherited parallels (Tangney and Dearing 2002, Flanagan, Dewey): unopened,
+  kept as inherited; the Tangney claim tail is attribution-level, left as found.
