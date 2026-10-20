@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 4** — Cultivate emotional granularity: name feelings precisely
 
-The research behind this principle has two legs, and they are different studies. The definition: negative emotion differentiation is "adeptness at using discrete negative emotion categories to capture one's felt experience" (Kashdan et al., 2014). That study examined differentiation during social rejection: people with greater differentiation, whatever their self-esteem, did not show the stronger distress activation that low-differentiation, low-self-esteem participants showed. The other leg is labeling, not differentiation: in Lieberman and colleagues' imaging study, naming an emotional image, compared with other ways of encoding it, diminished the amygdala and limbic response; the authors read this as naming diminishing reactivity along a prefrontal pathway (Lieberman et al., 2007). The compendium's exercise: when a feeling arrives, name it with a specific word before acting on it.
+The research behind this principle has two legs, and they are different studies. The definition: negative emotion differentiation is "adeptness at using discrete negative emotion categories to capture one's felt experience" (Kashdan et al., 2014). That study examined how differentiation and self-esteem relate to neural responses to rejection: low self-esteem with low differentiation was associated with stronger distress-related activation, while individuals with greater differentiation did not show stronger activation in these regions, regardless of their level of self-esteem. The other leg is labeling, not differentiation: in Lieberman and colleagues' imaging study, naming an emotional image, compared with other ways of encoding it, diminished the amygdala and limbic response; the authors read this as naming diminishing reactivity along a prefrontal pathway (Lieberman et al., 2007). The compendium's exercise: when a feeling arrives, name it with a specific word before acting on it.
 
 (Kashdan et al., 2014, PLoS One; Lieberman et al., 2007, Psychological Science.)
 
@@ -21,10 +21,10 @@ The research behind this principle has two legs, and they are different studies.
 > Lieberman et al., 2007, Psychological Science, [PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/17576282/).
 
 **Plain words**
-"I feel bad" hides the thing you are feeling; a precise word, resentful rather than bad, says what it is about. The two studies behind this page measured different things: one compared people who distinguish their negative feelings during rejection, the other measured the amygdala's response while people named emotional images. What this page draws from them is the abstracts' summaries, not the full methods.
+"I feel bad" hides the thing you are feeling; a precise word, resentful rather than bad, says what it is about. The two studies behind this page measured different things: one examined how differentiation and self-esteem relate to neural responses to rejection, the other measured the amygdala's response while people named emotional images. What this page draws from them is the abstracts' summaries, not the full methods.
 
 **For example**
-Trying a more specific word for a vague feeling, resentful rather than bad, is a vocabulary exercise this page proposes; neither study tested it as an intervention.
+Trying a more specific word for a vague feeling, resentful rather than bad, is a vocabulary exercise this page proposes.
 ## Psychology parallels
 
 - **[[Emotional granularity|Emotional granularity]]** (Barrett, 2004; Kashdan et al., 2015)

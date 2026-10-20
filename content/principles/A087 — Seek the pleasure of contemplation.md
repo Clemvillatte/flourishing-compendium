@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 87** — Seek the pleasure of contemplation
 
-Book X's case for the contemplative life argues that it is the best activity (reason the best thing in us, its objects the best knowable), the most continuous, since we can contemplate truth more continuously than we can do anything, and the pleasantest of virtuous activities, its pleasures thought to offer "pleasures marvellous for their purity and their enduringness". Self-sufficiency belongs to it most, within limits: the philosopher needs the necessaries of life like anyone, but the just man also needs people towards whom to act justly, while the philosopher, even when by himself, can contemplate truth. The chapter's closing instruction is the quotation below. The compendium's exercise: give the pleasure of thinking its own room, and notice what it asks compared to what it gives.
+Book X's case for the contemplative life argues that it is the best activity (reason the best thing in us, its objects the best knowable), the most continuous, since we can contemplate truth more continuously than we can do anything, and the pleasantest of virtuous activities, the pursuit thought to offer pleasures marvellous for their purity and their enduringness. Self-sufficiency belongs to it most, within limits: the philosopher needs the necessaries of life like anyone, but the just man also needs people towards whom to act justly, while the philosopher, even when by himself, can contemplate truth. The chapter's closing instruction is the quotation below. The compendium's exercise: give the pleasure of thinking its own room, and notice what it asks compared to what it gives.
 
 (NE X.7, Ross.)
 
