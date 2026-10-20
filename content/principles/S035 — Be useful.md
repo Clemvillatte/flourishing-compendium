@@ -28,6 +28,7 @@ Start with a manageable need: a shared chore, a question someone is struggling w
 ## Sources
 
 - [Marcus Aurelius, Meditations (Meric Casaubon translation, 1634), Project Gutenberg](https://www.gutenberg.org/files/2680/2680-0.txt) — I.15 (born to be fellow-workers), VII.10 (members in one body, loving men from thy heart)
+- [Paradisi, Matera and Nerini (2024), Feeling Important, Feeling Well: The Association Between Mattering and Well-being, Journal of Happiness Studies 25:4 (open-access PDF, University of Florence repository)](https://flore.unifi.it/bitstream/2158/1348695/2/s10902-024-00720-3.pdf) — meta-analysis of 30 studies, mattering–well-being r = 0.41
 
 ## Psychology parallels
 
