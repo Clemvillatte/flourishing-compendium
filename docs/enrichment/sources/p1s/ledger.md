@@ -649,3 +649,8 @@ were carried by the single save efa6b0b4. The B172 repair round WAS saved
 separately (5f0e3ca4). The round-2 text fixes each got their own state
 cycle and save (B172 e3d6958d, B181 75f658ea, B190 below).
 
+
+## P168 — Listen with empathic understanding (2026-10-20)
+- Source opened: Rogers, "Empathic: An Unappreciated Way of Being" (1975), full PDF at https://clinica.ispa.pt/sites/default/files/83._carl_rogers_empathic.pdf (fetch_url). Quotes verified verbatim: "entering the private perceptual world" passage; "frequently checking with him/her" sentence; "lay aside the views and values" passage; "a complex demanding, strong yet subtle and gentle way of being" (source reads "a complex demanding" with no hyphen; quote reflects source).
+- Workflow: start → edit → validate (1 checked, 0 failed) → done → save e52d15c8 (individual). Preservation vs c2a3ee47: front-matter/statement/reflections/wikilinks all byte-equal.
+- Note: front-matter attribution line cites Rogers 1961 (On Becoming a Person) + Addams; the opened source is the 1975 article, cited in the body. Rogers 1961 not opened this session; no claims drawn from it.

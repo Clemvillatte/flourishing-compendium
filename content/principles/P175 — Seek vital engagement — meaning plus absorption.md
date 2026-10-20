@@ -16,9 +16,15 @@ The deepest relationship to an activity is vital engagement: absorbed in it and 
 
 (Csikszentmihalyi's late work with Nakamura — the lineage's applied answer to vocation.)
 
-**Plain words** The deepest relationship to an activity is vital engagement — absorbed in it and connected through it to something larger. Choose callings that give both. Flow alone is a great afternoon; flow plus meaning is a life's work.
+The term comes from a chapter Jeanne Nakamura and Mihaly Csikszentmihalyi wrote for the 2003 volume Flourishing: Positive Psychology and the Life Well-Lived. Their definition joins two experiences that often arrive separately ([Nakamura and Csikszentmihalyi, "The Construction of Meaning Through Vital Engagement," 2003](https://timothydavidson.com/Library/Books/Keyes-2003-Flourishing-Positive%20Psychology%20and%20the%20life%20well-lived/Keyes-2003-Flourishing-Positive%20psychology%20and%20the%20life%20well-lived.pdf)):
 
-*For example:* The nurse exhausted and energized by the same shift — absorbed in the craft, connected through it to something that matters. That's vital engagement: both engines running. Careers fail when they run only one.
+> We will define vital engagement in this chapter as a relationship to the world that is characterized both by experiences of flow (enjoyed absorption) and by meaning (subjective significance).
+
+The chapter adds a scope note: "a person can be vitally engaged in any relationship with the world, one of work or love, play or service, no matter how humble." On this definition the two halves are distinct things to check for. Flow is the enjoyed absorption; meaning is the subjective significance the relationship carries. An afternoon can supply one without the other, and the definition names the relationship only when both are present.
+
+**Plain words** Vital engagement is the name for doing something that absorbs you and that also matters to you. The compendium suggests checking for both when choosing work or commitments.
+
+*For example:* A programmer notices that an afternoon of debugging passed without her checking the clock, and that the code was for a clinic's booking system. She now has one data point about where absorption and meaning overlap for her.
 
 ## Psychology parallels
 
