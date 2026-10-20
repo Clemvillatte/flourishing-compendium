@@ -268,3 +268,9 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 - Quotes verified: matched woods text (one span differs only by OCR spacing before a semicolon).
 - Seed repairs: the scale in the text is gentle/moderate/vehement intensity of method, with speed of result tied to it and cause placed partly in past conditioning; "ardent" and "accurate self-assessment as practice" and matching intensity to difficulty of mind labelled as the page's own. Bjork and Aristotle not opened.
 - Saturation: low.
+
+## Y016 (2026-10-21, worker-p1zz-b81e3f52)
+- Sources opened: Woods YS 1.7 with Vyasa and the Tika (pp. 20-21).
+- Quotes verified: matched woods text (one span broken by a page break "men- tioned").
+- Seed repairs: the text gives a check only for testimony (did the speaker see or infer it; "wavers"). "Each channel has its own failure mode" and the see/infer/absorb question labelled as the page's own. Source monitoring, Aristotle, Hume not opened.
+- Saturation: low.
