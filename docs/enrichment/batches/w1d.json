@@ -71,7 +71,7 @@
   "Attention restoration",
   "Attentional bias research"
  ],
- "in_progress": null,
+ "in_progress": "Attentional control theory (Eysenck)",
  "flagged": {
   "The eternal contribution": "compendium coinage, not a traditional term: page says so in its first sentence; written for the sense BE068 uses",
   "Phenomenological methods in psychology": "ESM genealogy corrected per OWNER-UPDATE: Conner et al. 2009 (PMC2773515) opened; ESM traced to 1977 Csikszentmihalyi/Larson/Prescott pager study and naturalistic-idiographic traditions; source silent on Husserl, so no Husserl link asserted",
@@ -83,8 +83,8 @@
   "Working memory capacity limits": "RESOLVED 2026-10-20: advisor closure round scoped prose PASS; Cowan 2001 PDF opened; validated vs seed baseline b20024da^ (1 ok); full record in docs/enrichment/sources/w1d/ledger.md"
  },
  "missing_concepts": [],
- "sources_checked": 148,
- "updated": "2026-10-20T04:54:43+00:00",
+ "sources_checked": 153,
+ "updated": "2026-10-20T04:57:07+00:00",
  "qc_log": {
   "Escape from freedom": "approved after 4 advisor QC rounds: quotes verified against opened sources (panarchy ch. V excerpt, Wikipedia, IEP Totalitarianism 2.d, SEP Critical Theory 1.4); Simondon Individuation and The having mode removed from Related; cross-tradition links labelled comparisons; sources_checked: 4",
   "Eternal recurrence": "milestone advisor QC applied: practical-reading attribution qualified; AF069 described as the compendium's separate comparison; Panta rhei, Corsi e ricorsi and Three thousand realms claims externally verified; 'Thou art a God' capitalisation matches primary text",

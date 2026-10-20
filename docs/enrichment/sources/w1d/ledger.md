@@ -177,3 +177,15 @@
 **Date correction.** The seed attributes the body claim to "MacLeod et al., 1995"; the study described (bias induction via modified dot probe, stress-task vulnerability) is the 2002 paper. The seed source line "MacLeod et al., 1995" is kept as found; the page cites the 2002 study with its PubMed record.
 
 **Scope notes.** The seed body line "attention determines affect and behavior" was rewritten to the study's own causal finding ("induction of attentional bias should serve to modify emotional vulnerability"), direction-neutral as the abstract states it. An unsourced "mixed record" clause about attention-bias-modification training was removed before validation. Saturation hunt and cross-link proposals skipped per §1a. Validator --fast-track: 1 ok.
+
+---
+
+## Attentional control theory (Eysenck) — completed 2026-10-20 (worker-w1d-4c8e1b3a, FAST-TRACK, advisor milestone QC rounds 15a-15b)
+
+**Eligibility.** Graph degree 13 (< 15); inside owned band w1d. Fast-track per PROTOCOL.md §1a. Every-5th-item advisor QC milestone.
+
+**Sources opened (1).** Eysenck, Derakshan, Santos and Calvo 2007, "Anxiety and cognitive performance: Attentional control theory," Emotion 7(2):336-353, full PDF at https://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_mathematik_und_naturwissenschaften/fachrichtung_psychologie/i1/allgpsy/lehre/pruefungsliteratur_KN_2013/Eysenck-2007.pdf (downloaded and read; 18 pages). All quotes verified verbatim against the extracted text; printed-page locators verified by page-by-page extraction: the abstract passages (assumption; efficiency/effectiveness) are on p. 336 (PDF page 0), the two-systems and balance passages on p. 338 (PDF page 2). Eysenck & Derakshan 2011 was NOT opened — kept as a seed source line only.
+
+**QC history (2 rounds).** Round 15a FAIL: predecessor attribution corrected to "Eysenck and Calvo's (1992)"; the central assumption moved into a blockquote with the "abstract, p. 336" locator; the two-systems and balance quotes given their own source links with p. 338 locators; the "more time" gloss removed and replaced with the theory's own compensatory-strategies phrasing, cited to p. 336; the original AT070 wikilink restored beneath "Cited in philosophy parallels" (its seed location); the Miyake related-concept gloss made neutral ("inhibition and shifting as executive functions"). Round 15b: repairs applied; scoped PASS.
+
+**Scope notes.** sources_checked +5 for items 11-15 (one source each; not previously counted). Validator --fast-track: 1 ok after repairs. Manifest check: 70 items in docs/enrichment/bands/w1d-manifest.json; this is the last remaining item, so the band completes with it.
