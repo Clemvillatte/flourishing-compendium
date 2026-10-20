@@ -6,11 +6,11 @@
   "Avidya",
   "The raft",
   "Abhyasa",
-  "Ironic process",
   "Lifespan development",
   "Love",
   "Svadharma, one's own duty",
-  "Intuition as method"
+  "Intuition as method",
+  "Ironic process"
  ],
  "in_progress": null,
  "flagged": {
@@ -21,12 +21,12 @@
   "Skillful means (upaya)": "QC2 REPAIR: upāya identification now grounded in an opened scholarly source (Keating, SEP 'The Literal-Nonliteral Distinction in Classical Indian Philosophy' §4.1, fetched; passage: 'A crucial concept in Buddhist hermeneutics ... is that of upaya or skillful means. With the assumption that the Buddha speaks both truthfully and with an eye towards the abilities of his particular audience...'); added as inline sentence + Sources line. Validated vs seed baseline c2a3ee47: ok.",
   "Svadharma, one's own duty": "QC3 citation-only pass: citation added to the second lead-in sentence ('The verse favours...'). Validated vs seed baseline c2a3ee47: ok.",
   "Intuition as method": "QC3 citation-only pass: citation added to the 'Analysis moves round an object...' sentence. Validated vs seed baseline c2a3ee47: ok.",
-  "Ironic process": "QC2 REPAIR (advisor re-check): unconditional seed opener 'effort to force states backfires (Wegner, 1994).' deleted per advisor (inherited assertion, not evidence; the qualified paragraph supplies the introduction; inherited Wegner reference kept in Sources); inline citation added to the first qualified sentence. Validated vs seed baseline c2a3ee47: ok.",
+  "Ironic process": "QC3 citation-only pass: citations added to 'It distinguishes an effortful operating process...' and 'The white bear experiments found the rebound effect...'. Validated vs seed baseline c2a3ee47: ok.",
   "Lifespan development": "QC2 REPAIR (advisor re-check): inline citation added to the two-sentence introduction (citation-placement rule). Validated vs seed baseline c2a3ee47: ok.",
   "Love": "QC2 REPAIR (advisor re-check): inline citations added to both factual lead-ins (citation-placement rule). Validated vs seed baseline c2a3ee47: ok."
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T07:23:36+00:00",
+ "updated": "2026-10-20T07:23:46+00:00",
  "band_done": false
 }
