@@ -463,4 +463,19 @@ validator-caught lost-link restore: [[Anger]] kept as a bare link).
   opened evidence).
 - Milestone 15 remains PENDING final advisor confirmation of this round.
 
+## Milestone 15 disposition (2026-10-20)
+
+Advisor scoped PASS (round 3) recorded for the milestone-15 content repair
+review: acceptance of the reviewed passages after three repair rounds, NOT
+independent certification of every claim across the fifteen done pages, and
+NOT "15 accepted concepts". Distinct dispositions: Following nature's
+rhythms and Delay plus reappraisal UNACCEPTED, awaiting supervisor
+concept-namespace disposition (Category A and Category C entries
+respectively); Cultural dimensions theory Hofstede reviewed content PASSED,
+title-only rename pending supervisor. Bookkeeping correction applied: the
+done entries for flagged items are "done entry retained with an unresolved
+flag; supervisor state reconciliation requested" (the earlier OPERATIONS.md
+quotation described rejected work, not an authorized blocked-item
+convention).
+
 3 files revalidated (3 checked, 0 failed).
