@@ -351,23 +351,32 @@ source; anything not opened is recorded as inherited and unverified.
   examination-of-fear entries are already the linked targets.
 
 ## Item-15 milestone QC (2026-10-20): FAIL all five -> repairs applied
-- Advisor round 1 (items B078, B080, B092, B096, B109): FAIL all five. Exact
-  repairs applied and each re-validated against the pre-session baseline
-  f31a4697 before re-marking done: B078 (compendium's causal psychology in
-  application/plain words removed; fork/contagion framing corrected; Dhp 3-4
-  now a related contrast, not the same fork; example no longer implies the
-  insight prevents the purchase), B080 (rehearsis/displacement theories
-  removed; warmth/congruence and Itard-style promotion removed; "crop the
-  sutta's word cultivate asks for" replaced), B092 (blockquote reduced to the
-  contiguous opening sentence; "the factor's food is evaluative attention, not
-  the inquiring stance" corrected; the attachment/curiosity and affect/boredom
-  contrasts removed; example de-asserted), B096 ("stop being thrown" fixed as
-  contradictory with the seed principle; silent lay of findings/
-  contemplate-the-same-unconditional-benefit constructions removed), B109
-  ("one feels, one perceives, one thinks about" tense fixed to "what one
-  feels, one perceives, one thinks about"; Dhp 212 correctly attributed to
-  endearment/attachment rather than fear of loss; "career collapse is the
-  thinking-about-what-one-perceives part" removed as duplicate).
+- CORRECTED RECORD (item-20 round 2): the summary below as originally written
+  contained invented descriptions of the advisor's findings ("contagion
+  framing", "Itard-style promotion", "silent lay of findings", "the factor's
+  food is evaluative attention"). The actual advisor findings, verified
+  against the saved advisor output (tool_calls/advisor/output_9e069fa3...txt):
+  B078 (MN 2 does not establish that naming creates psychological distance;
+  weather/seat-back/half-second claims removed; Dhp 3-4 a related contrast),
+  B080 (the three texts kept distinct; "mostly it is rehearsing it", "it
+  changes what your own mind does next", "the acid in you" removed; the
+  wish-not-for-them framing poorly represents the quoted concern), B092
+  (source-scope: the source explicitly includes distinguishing skillful/
+  unskillful qualities, so "this is bad ends investigation" conflicted;
+  "a practice rather than a talent" and verdict-vs-question universals
+  removed), B096 (the sources do not establish unchanged emotional intensity
+  or freedom from being thrown; "not a dampening of feeling", "the practice
+  is a third move: neither", "you stop being thrown by either" removed; the
+  recital example needed an observable action), B109 (neither MN 18 nor MN 20
+  establishes that most fear is invented or that presentation risk is minor;
+  MN 20 offers several methods, drawbacks-scrutiny is one; Dhp 212 associates
+  endearment with grief and fear; papanna corrected to papañca).
+- REPAIR DEVIATIONS FOUND AND FIXED (item-20 round 2): in the item-15 repair
+  round I applied the advisor's exact replacements for B078/B080/B092 but
+  wrote my own variants for B096 and B109, and B096's page still contained
+  the paragraph the advisor had ordered removed. The advisor's prescribed
+  replacements for both pages have now been applied verbatim and re-validated
+  against the fixed baseline f31a4697.
 - Process changes adopted: fail-fast (validate and push before marking done);
   QC rounds for every 5th item after the milestone, the intervening items
   covered in the next round; B049 was worked before this milestone and is
@@ -520,3 +529,23 @@ source; anything not opened is recorded as inherited and unverified.
   `start` state transition before editing; validation failures must prevent
   the subsequent done transition (chains are now structured so the state
   update cannot run after a failed validation).
+
+## Item-20 milestone QC (2026-10-20): round 2
+- Round 2 verdict: B113, B141, B150 PASS; B114 PASS on content with the
+  verbatim comparison now actually run (the AN 5.35 blockquote matches the
+  fetched text page exactly, including its typographic apostrophes); B049 and
+  B126 narrow repairs applied: B049 (excerpt-scoped attribution wording; the
+  complete-letter implication removed; the Munenori/letter-titles relationship
+  no longer asserted beyond what the excerpts page supports), B126 (the
+  blockquote now uses the Gemmell edition's own wording, verified verbatim
+  against the fetched Gutenberg text; the body's terminology adjusted to
+  Gemmell's "entity, being, living being, personality"; the satyori rendering
+  demoted to a consulted second source; the IDP panel remains blocked 403).
+  B141 attribution clarified as an excerpt. B096 and B109's item-15
+  replacements re-applied verbatim (see the corrected item-15 record above).
+- Process adopted per the advisor: fail-fast sequential workflow (reopen/start
+  -> save -> edit -> validate against f31a4697 -> done -> save) with
+  set -euo pipefail so a failed edit assertion or validation stops the chain;
+  items pushed individually rather than batched.
+- Still outstanding: B017 and B030 drafts were never reviewed (the failed
+  item-10 round predates them); they are scheduled for the item-25 round.
