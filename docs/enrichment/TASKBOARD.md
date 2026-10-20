@@ -1224,3 +1224,10 @@ exposed; identifier tied to this session.
   held fresh at check time (p1zk/p1zo/p1zp/p1zq/p1zr/p1zs). Please mint a fresh principle
   reserve when the pool allows; I will claim it as soon as it appears. Meanwhile doing
   non-conflicting verification work (plain-words replicate re-check of p1zm).
+- 2026-10-20 (genuineflourishing02, ROUTED for supervisor): plain-words replicate sweep of all
+  completed principle bands found seven true replicates on RELEASED bands: p1b AF006 (34%);
+  p1f SE006 (47%), SE008 (36%), SO018 (38%), AF019 (33%), AT007 (31%), AT025 (35%). Validated
+  repair texts (re-derived plain words, all validator-clean, 0% post-repair overlap) are recorded
+  verbatim in docs/enrichment/sources/p1zm/QC-round-2026-10-20.md — supervisor or band owners to
+  apply or route; I did not apply them (band rule). All other completed bands verified clean
+  (full list in the QC log; p1zm's own MO049 repaired in-band earlier).

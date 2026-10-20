@@ -25,7 +25,7 @@ Mauss and colleagues investigated whether valuing happiness can undermine happin
 The paper closes: "Paradoxically, therefore, valuing happiness may lead people to be less happy just when happiness is within reach." ([Mauss et al., 2011](https://pmc.ncbi.nlm.nih.gov/articles/PMC3160511/))
 
 **Plain words**
-Watching yourself for happiness can crowd out the happiness. In the studies behind this page, the people most determined to feel happy were most disappointed in their feelings, and the disappointment did the damage. The everyday version: set up the conditions, the visit, the meal, the walk, and let the feeling arrive or not. You are hosting an event, not auditing it.
+Study 1's association appeared under low, but not high, life stress. ([Mauss et al., 2011](https://pmc.ncbi.nlm.nih.gov/articles/PMC3160511/)) In Study 2, disappointment at participants' feelings was the reported mediator. ([Mauss et al., 2011](https://pmc.ncbi.nlm.nih.gov/articles/PMC3160511/)) For this exercise, choose an activity without requiring yourself to feel a particular way.
 
 **Reflection exercise:** Compare "I must feel happy during this visit" with "I want to spend time with my friend." What does each make your standard of success?
 
