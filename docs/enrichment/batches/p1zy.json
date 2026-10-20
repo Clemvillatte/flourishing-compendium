@@ -29,11 +29,12 @@
   "Y132",
   "Y012",
   "Y014",
-  "Y018"
+  "Y018",
+  "Y020"
  ],
- "in_progress": "Y020",
+ "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T14:43:23+00:00"
+ "updated": "2026-10-20T14:44:21+00:00"
 }

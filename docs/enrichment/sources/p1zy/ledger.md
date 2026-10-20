@@ -124,3 +124,7 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 
 ## Y077 locator correction (2026-10-21)
 - 1.17 sits on p. 40, not p. 31: the OCR has a stray "31]" inside a footnote, and the "[40" running head (at the start of the page) precedes sutra 1.17. Y077 page corrected from p. 31 to p. 40. Lesson: take the nearest preceding running head by text position and ignore stray "NN]" tokens inside footnotes. Other items re-checked this way: Y020 1.11 p. 31 (head "31]" immediately before), Y025 1.12 p. 34 (head "[34" before; commentary into 35).
+
+## Y020 (2026-10-21)
+- Woods HOS 17 p. 31 (1.11 and Vyasa; "31]" head directly before the sutra). Quotes verified except OCR "bhdvita" (read bhavita). A draft line "it also must be restricted" was removed: it sits before the 1.11 head and refers to the preceding sutra (sleep), not memory.
+- Old text's grievances/fears/life-review/3 a.m. framing is not in the commentary; scheduling a day review is the principle's advice; labelled. Plain words replicate replaced; example imagined. Self-QC only.

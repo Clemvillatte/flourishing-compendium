@@ -12,13 +12,25 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 20** — Use memory deliberately
 
-Memory (smriti) is the fifth movement: the mind's retrieval of experience. Unmanaged, memory replays grievances and rehearses fears; managed, it is the raw material of learning and life review. Practically, schedule your remembering (review the day before sleep) instead of letting it ambush you at 3 a.m.
+Sutra 1.11 defines memory: "Memory (smrti) is not-adding-surreptitiously (asampramosa) to a once experienced object" (trans. Woods, p. 31). In plain terms, memory holds an earlier experience without adding to it.
 
-(YS 1.11.)
+### How the commentary describes it
 
-**Plain words** Memory is the fifth movement: the mind's retrieval of experience. Unmanaged, it replays grievances and rehearses fears; managed, it's the raw material of learning and life review. Schedule your remembering — review the day before sleep — instead of letting it ambush you at 2 a.m.
+Vyasa explains that a presented idea affected by the object known "gives a start to the corresponding subliminal-impression", and that this impression, once the right conditions arise, "brings forth [in its turn] a memory which [also] consists of the object known and of the process-of-knowing" (p. 31). He divides memory in two: "the-things-to-be-remembered are imagined (bhavita) or not imagined. In a dream the-things-to-be-remembered are imagined, whereas in waking the-things-to-be-remembered are not imagined" (p. 31).
 
-*For example:* The person whose memory runs its own nightly highlight reel of every humiliation since 2009 — replaces it with a deliberate five-minute day review, and the 2 a.m. ambushes slowly lose their slot.
+### What the principle adds
+
+The sutra defines memory by its fidelity to the original object, a definition about accuracy. The commentary I opened says nothing about grievances, fears, replay, life review or learning. Scheduling a review of the day before sleep is the principle's practical advice, not a reading of the sutra.
+
+**Plain words** Patanjali's definition is short: memory is holding on to what was experienced, without adding to it. It comes from the stored impressions left by earlier experience. The idea of managing when and how you remember is the principle's own application.
+
+*For example:* Imagined example: instead of replaying a conversation at 3 a.m., you write a few sentences about it after dinner. You note only what was said, then close the notebook.
+
+(Yoga Sutra 1.11 with Vyasa's Bhasya and Vacaspati Misra's gloss, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), p. 31, Internet Archive, opened 2026-10-21.)
+
+## Sources
+
+- [Woods, The Yoga-System of Patanjali (1914), Internet Archive](https://archive.org/details/yogasystemofpata00wooduoft) — p. 31
 ## Psychology parallels
 
 - **[[Rumination|Rumination versus deliberate retrieval]]**, and expressive writing's conversion of the former into the latter (Pennebaker, 1997; Nolen-Hoeksema's rumination research)
