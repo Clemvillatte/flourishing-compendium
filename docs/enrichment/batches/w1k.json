@@ -3,18 +3,19 @@
  "done": [
   "Koan practice",
   "Skillful means (upaya)",
-  "The raft",
   "Abhyasa",
-  "Avidya"
+  "Avidya",
+  "The raft"
  ],
  "in_progress": null,
  "flagged": {
   "Koan practice": "QC round 3 RESOLVED: Showing versus saying / The limits of language glosses reduced to bare wikilinks (compendium-internal reading only); evidence-note correction: UNPROMPTED raw fetches = SEP section 2 and Mumonkan Case 1 (both retained blockquotes verified verbatim in raw text; two-methods sentence also confirmed); PROMPTED fetches = Wikipedia Koan and Case 29. Advisor round-3: everything else in the reviewed page passes.",
   "Abhyasa": "SEED-LINK DEFECT (supervisor disposition): the seed's links [[P076 — Cultivate craft mastery — skill as embodied knowing]] and [[Y043 — Master one craft, keep growing it]] do not resolve to any principle file; the actual files are 'P076 — When habits conflict, let deliberation do its work' and 'Y043 — Let ethics stabilize the mind' (different principles). Both seed links were garbled/wrong targets. Repair: retargeted both links to the actual files (edge preserved, titles corrected). Transition-commit validation vs the garbled baseline FAILs by design (LOST 2 original links + markup changed); current HEAD validates ok vs 65382ab0. Same defect class repaired on 'The raft' (B128/BI070). Not counted as unresolved; flagged for the supervisor.",
-  "Avidya": "SEED-LINK DEFECT (supervisor disposition): seed links [[B065 — Train investigation — insight clears confusion]] and [[B086 — See self-constructions — namarupa arises from ignorance]] do not resolve; actual files are 'B065 — Guard the mind at the source (mind precedes all)' and 'B086 — What you feed grows — practice wise attention'. Retargeted, edge preserved. Transition validation vs garbled baseline FAILs by design; HEAD validates ok. Same class as Abhyasa and The raft."
+  "Avidya": "SEED-LINK DEFECT (supervisor disposition): seed links [[B065 — Train investigation — insight clears confusion]] and [[B086 — See self-constructions — namarupa arises from ignorance]] do not resolve; actual files are 'B065 — Guard the mind at the source (mind precedes all)' and 'B086 — What you feed grows — practice wise attention'. Retargeted, edge preserved. Transition validation vs garbled baseline FAILs by design; HEAD validates ok. Same class as Abhyasa and The raft.",
+  "The raft": "QC CORRECTION (supersedes the earlier seed-link-defect flag, which was FALSE): the earlier 'garbled seed links' were my own transcription errors, not seed defects. Milestone QC caught it. Repairs: restored the original seed content (seed line, Facets abandoned/discarded/not-the-destination, all five original Sources lines, [[B128 — Don't cling even to the teaching (dharma-grasping)]] and [[SP042 — Adopt a provisional rule of life]] in Cited in philosophy parallels); removed my invented links ([[B127]]/[[B014]] stay only as In-the-compendium additions, [[BI070]] removed); B021 related line removed (unsupported gloss). MN 22 Thanissaro opened raw; both blockquotes verbatim. Validated against the true seed baseline c2a3ee47: ok. Advisor repairs applied (closing quote standalone; Thanissaro attribution kept; no Bodhi certification)."
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T06:59:48+00:00",
+ "updated": "2026-10-20T07:05:31+00:00",
  "band_done": false
 }
