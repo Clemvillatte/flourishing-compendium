@@ -39,6 +39,10 @@ The pheasant is chapter 3's shorter version of the same argument:
 - [Zhuangzi ch. 17 (tr. Herbert A. Giles), via Wikiquote](https://en.wikiquote.org/wiki/Zhuangzi): the sacred tortoise
 - [Zhuangzi ch. 3 (tr. James Legge)](https://tianmu.org/good-work-library/daoist/zhuangzi/inner-chapters/zhuangzi-nourishing-the-lord-of-life): the pheasant of the marshes
 
+## Stories
+
+- [[ST337 — Su Shi Walks Through the Rain|337. Su Shi Walks Through the Rain]]
+
 ## Psychology parallels
 
 - **[[Autonomy|Autonomy]]** (Deci and Ryan, 2000), predicts well-being more strongly than income across cultures

@@ -41,6 +41,10 @@ Suppose you are carrying tea across a room. Leave space below the rim instead of
 
 - [Laozi, Tao Teh King (Daodejing), James Legge translation (1891), Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm) — chapters 9, 40 and 58 quoted verbatim
 
+## Stories
+
+- [[ST337 — Su Shi Walks Through the Rain|337. Su Shi Walks Through the Rain]]
+
 ## Psychology parallels
 
 - **[[Hedonic adaptation|Hedonic adaptation]]**, gains and losses both fade toward baseline (Lyubomirsky, 2011)

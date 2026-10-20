@@ -32,6 +32,10 @@ Grief for the past is itself a present event, so feeling it is not the error. Th
 - [Zhuangzi, Legge translation (ETH Zurich PDF)](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — ch. 4, the madman of Chu
 - [The Tao Teh King, Legge translation (Project Gutenberg)](https://www.gutenberg.org/cache/epub/216/pg216.txt) — chapter 64
 
+## Stories
+
+- [[ST337 — Su Shi Walks Through the Rain|337. Su Shi Walks Through the Rain]]
+
 ## Psychology parallels
 
 - **[[Rumination|Rumination]]**, past-focused repetitive thought predicts depression (Nolen-Hoeksema, 2000)

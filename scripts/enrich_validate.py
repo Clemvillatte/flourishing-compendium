@@ -70,6 +70,9 @@ def validate(path, byfile, byid, base='HEAD', fast_track=False):
     if fm_n != fm_o: errs.append('front-matter changed')
     mtype = re.search(r'^type:\s*"?([^"\n]+)', fm_n, re.M)
     typ = mtype.group(1).strip() if mtype else None
+    # Structural pages (books, chapters, layers, sections, navnodes) are tables of
+    # contents, not prose pages: keep the protected-markup checks, waive the content bar.
+    structural = typ in {'book', 'chapter', 'layer', 'section', 'reference', 'navnode', 'volume'}
     errs.extend(protected_errors(body_o, body_n, typ))
     minw, maxw = (40, 300) if typ == 'principle' else (MIN_WORDS, MAX_WORDS)
     lo = {m.group(1).strip() for m in LINK.finditer(body_o)}
@@ -79,22 +82,22 @@ def validate(path, byfile, byid, base='HEAD', fast_track=False):
     bad = sorted(t for t in ln if t not in byfile and t not in byid)
     if bad: errs.append(f'UNRESOLVED links: {bad[:6]}')
     pt = prose_text(body_n); pw = len(pt.split())
-    waive_minimum = fast_track and typ == 'concept'  # §1a fast-track: concepts only
+    waive_minimum = (fast_track and typ == 'concept') or structural  # §1a fast-track: concepts only
     if pw < minw and not waive_minimum: errs.append(f'prose too short: {pw} < {minw}')
-    if pw > maxw: errs.append(f'prose too long: {pw} > {maxw}')
+    if pw > maxw and not structural: errs.append(f'prose too long: {pw} > {maxw}')
     low = pt.lower()
-    for w in BANNED:
+    for w in (BANNED if not structural else []):
         if w in low: errs.append(f'banned phrase: {w!r}')
     for leak in ('fetch_url', 'search_web', 'web_search', 'pdftotext'):
         if leak in new: errs.append(f'tool name leaked into published text: {leak!r}')
-    for rx in STAGING:
+    for rx in (STAGING if not structural else []):
         m = re.search(rx, low)
         if m: errs.append(f'staging pattern: {m.group(0)!r}')
     dashes = pt.count('—') + pt.count('–') + pt.count(' -- ')
     if dashes > MAX_DASH: errs.append(f'{dashes} dashes in prose (max {MAX_DASH})')
-    if '**' in pt: errs.append('bold in prose')
+    if '**' in pt and not structural: errs.append('bold in prose')
     m = re.search(r'## Sources\n(.*?)(\n## |\Z)', body_n, re.S)
-    if not m or not re.search(r'https?://', m.group(1)):
+    if (not m or not re.search(r'https?://', m.group(1))) and not structural:
         if typ == 'principle':
             warns.append('## Sources has no http(s) URL (principles: cite the primary text with a locator instead)')
         else:

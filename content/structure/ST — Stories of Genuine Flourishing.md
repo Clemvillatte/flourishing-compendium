@@ -20,6 +20,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "", 
     - [[ST006 — Forrest Gump Runs]]
     - [[ST007 — Bruce Lee and the Water]]
     - [[ST008 — Siddhartha Learns from the River]]
+    - [[ST337 — Su Shi Walks Through the Rain]]
   - [[ST-S01.02 — I.2 Desire, Contentment, and the Economy of Want]]
     - [[ST009 — The Gourd Too Large to Use]]
     - [[ST010 — The Frog in the Well]]
