@@ -379,3 +379,8 @@ legacy schema (state keys + proposals) — MERGED, never replaced.
 - Fast-track (degree 11). Opened source: Bratman et al., "Nature experience reduces rumination and subgenual prefrontal cortex activation", PNAS 112(28), 2015, abstract page at pnas.org (https://www.pnas.org/doi/abs/10.1073/pnas.1510459112).
 - 90-minute walk finding, rumination description and pathway/resource conclusions quoted verbatim from the opened abstract; field definition kept at the framing level of the original page's seed line (place attachment and nature exposure effects).
 - All original wikilinks preserved byte-exact (psychology parallels section, Sources entries). Added Related concepts: [[Rumination]], [[Nature exposure]], [[Place attachment]], [[Attention restoration]] (all resolve). Validation: fast-track PASS; build 5,720 ok.
+
+### Friendship (2026-10-20, worker-p1f-9d3f7c2b)
+- Fast-track (degree 11). Opened source: Aristotle, Nicomachean Ethics, Welldon translation, Project Gutenberg #8438 (https://www.gutenberg.org/ebooks/8438), downloaded and read locally.
+- VIII.1 indispensability passage, object-matter sentence, perfect-friendship passage (Welldon ch. V = Bekker VIII.3, cited in-page as Book VIII without a chapter number to avoid translation-numbering mismatch) and the dissolution passage all quoted verbatim from the opened text; no passages joined across intervening text.
+- All original sections and wikilinks preserved byte-exact (the three bullet lines, A076 gloss, PP049). Validation: fast-track PASS; build 5,720 ok.
