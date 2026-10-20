@@ -39,14 +39,14 @@
   "BI033": "Reopened for QC: item-15 advisor citation patch",
   "BI014": "Reopened for QC: item-15 advisor citation patch",
   "BI015": "Reopened for QC: item-15 advisor citation patch",
-  "BI034": "Milestone QC (items 16-20) repairs applied by takeover worker-p1zk-3e7f9a2c: AGP claim corrected (30 plants = SCFA fermenters + fewer antibiotic-resistance genes, NOT 'more diverse microbiomes'; full text PMC5954204 opened), ranking claims removed, plain words rewritten, example un-prescriptive",
-  "BI051": "Milestone QC (items 16-20) repairs applied: Field 'seems to mediate' scope kept, self-compassion 'standard practice' claim replaced with compendium suggestion, plain words re-derived, example and Practice un-prescriptive",
-  "BI061": "Milestone QC (items 16-20) repairs applied: 'best documented' and 'steer by hand' removed, plain words rewritten per advisor, example narrowed to tested dose",
-  "BI068": "Milestone QC (items 16-20) repairs applied: 'best-studied' removed, population scope added (11 studies 48793 adults, OR 1.18), 'clinical commonplace' sentence removed, metaphors replaced, percentages kept as relative associations",
-  "BI069": "Milestone QC (items 16-20) repairs applied: circadian claims narrowed to named-only, AASM recommendation phrased as clinicians-use, lifestyle changes added to apnea treatment line, invented quotation removed"
+  "BI034": "Milestone QC round 2 repairs: plain words rewritten per advisor (trial measured microbes/inflammation not depression; plant findings observational); capsule removed from example; 'You cannot treat depression' replaced with non-establishment phrasing. AGP diversity claim: not verified in this review (full text PMC5954204 searched); verified findings = SCFA fermenters + antibiotic-resistance genes. Validator ok",
+  "BI051": "Milestone QC round 2 repairs: all ranking language removed ('best supported'/'best vagal evidence'/'strongest'); plain words rewritten per advisor (self-hug vs massage are different activities); Practice scoped. Validator ok",
+  "BI061": "Milestone QC round 2 repairs: unsupported hyperventilation-discomfort sentence removed (not in Balban abstract - grep verified); 'reliably' and 'specific effects' claims removed (not in Zaccaro text - grep verified); 'prefer exhale-lengthened' prescription removed; Practice acute-stress claim replaced with tested schedule. Validator ok",
+  "BI068": "Milestone QC round 2 repairs: OR 1.18 labelled; 'most studies among participants with diabetes' per abstract; incompatible-measure comparison deleted; broad other-illnesses assertion deleted; example per advisor; plain words re-derived without effect sizes. Validator ok",
+  "BI069": "Milestone QC round 2: scoped PASS per advisor (referral/CBT-I/apnea passages acceptable); circadian access limitation stays in ledger"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:15:59+00:00",
+ "updated": "2026-10-20T11:20:02+00:00",
  "band_done": false
 }

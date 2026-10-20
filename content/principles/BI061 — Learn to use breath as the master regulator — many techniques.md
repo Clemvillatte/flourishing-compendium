@@ -19,7 +19,7 @@ One head-to-head trial compared techniques. In the Stanford remote randomized st
 > "Daily 5-min cyclic sighing has promise as an effective stress management exercise." (Balban et al. 2023, [Cell Reports Medicine](https://pubmed.ncbi.nlm.nih.gov/36630953/))
 
 **Plain words**
-Slow breathing reliably raises heart rate variability and respiratory sinus arrhythmia, and one month-long trial found the exhale-lengthened sigh a better mood and respiratory-rate tool than mindfulness at five minutes a day. This is not a licence for any breath protocol: the review is explicit that each technique has specific effects rather than one shared recipe, and the hyperventilation-style exercises made some trial participants uncomfortable. Learn one slow technique, prefer the exhale-lengthened one, and stop anything that feels bad.
+Slow breathing raised heart rate variability and respiratory sinus arrhythmia across the studies the review pooled, and one month-long trial found the exhale-lengthened sigh a better mood and respiratory-rate tool than mindfulness at five minutes a day. That is the limit of the comparison: one trial, one month, mood and respiratory rate, not every technique against every situation. Learn one slow technique and practise it at the dose the trial tested.
 
 *For example:* An imagined case: someone learns one technique, the exhale-lengthened sigh, and does it for five minutes a day, the dose the opened trial tested; other techniques wait until that one is habitual.
 
@@ -42,4 +42,4 @@ Slow breathing reliably raises heart rate variability and respiratory sinus arrh
 
 ## Practice
 
-- Learn breath techniques: slow breathing for relaxation ([Zaccaro et al. 2018](https://www.frontiersin.org/articles/10.3389/fnhum.2018.00353/full)); cyclic sighing, emphasizing prolonged exhalations, for acute stress and daily mood ([Balban et al. 2023](https://pubmed.ncbi.nlm.nih.gov/36630953/)). Five minutes daily is the dose the opened trial tested.
+- Learn breath techniques: slow breathing for relaxation ([Zaccaro et al. 2018](https://www.frontiersin.org/articles/10.3389/fnhum.2018.00353/full)); cyclic sighing, emphasizing prolonged exhalations, five minutes daily, the schedule the opened trial tested over one month, which measured daily mood and respiratory rate ([Balban et al. 2023](https://pubmed.ncbi.nlm.nih.gov/36630953/)).
