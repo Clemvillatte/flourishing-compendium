@@ -57,3 +57,11 @@
   unopened).
 - Saturation (actual, rg -l 'B035' content/concepts/): checked and
   recorded below. Validator: ok.
+
+### B036 — Tune, don't force: the lute string (2026-10-20)
+- Opened: Sona Sutta AN 6.55 Thanissaro (fetched); vina parable and the
+  persistence-tuning instruction quoted verbatim.
+- Parallel tails reduced: Yerkes-Dodson name, McEwen 1998, Aristotle NE II
+  book citation (inherited, unopened). Study-example outcome claims removed.
+- Saturation (actual, rg -l 'B036' content/concepts/): checked and
+  recorded below. Validator: ok.

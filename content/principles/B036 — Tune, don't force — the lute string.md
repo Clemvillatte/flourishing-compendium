@@ -12,22 +12,31 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 36** — Tune, don't force: the lute string
 
-A monk straining too hard in practice was told the parable of the lute: a string too tight snaps, too slack won't sound. Tune effort to the middle.
+The Buddha asks the former vina-player a craftsman's question: "And what do you think: when the strings of your vina were neither too taut nor too loose, but tuned to be right on pitch, was your vina in tune & playable?" The application follows the analogy.
+
+> In the same way, Sona, over-aroused persistence leads to restlessness, overly slack persistence leads to laziness. Thus you should determine the right pitch for your persistence, attune the pitch of the [five] faculties [to that], and there pick up your theme.
+>
+> (Sona Sutta, AN 6.55, Thanissaro)
 
 (Sona Sutta, AN 6.55.)
 
-**Plain words** A monk straining too hard was told the parable of the lute: a string too tight snaps, too slack won't sound. Tune effort to the middle. Effort isn't a volume knob to max out — it's an instrument to keep in tune.
+**Plain words**
+The sutta's unit of effort is tuning, not pushing. There is a pitch at which the work plays and a pitch at which it snaps or goes mute, and the pitch is discoverable by feel. As a compendium exercise, when a practice feels strained, check the two failure modes the sutta names — restless over-effort and slack neglect — and adjust in the other direction.
 
-*For example:* The student who studies 14 hours a day and forgets everything versus the one who studies six and sleeps — the string sounded.
+*For example:* Imagine two students, one studying fourteen hours a day, one studying six and sleeping well. Ask which of the sutta's two failure modes each is nearest: restlessness or slackness.
+
+## Sources
+
+- [Sona Sutta, AN 6.55 (Thanissaro), Access to Insight](https://www.accesstoinsight.org/tipitaka/an/an06/an06.055.than.html) — the vina parable
 
 ## Psychology parallels
 
-- **[[Optimal arousal|The inverted-U]]** (Yerkes-Dodson)
-- **Overtraining collapse past recovery** (McEwen, 1998)
+- **[[Optimal arousal|The inverted-U]]**
+- **Overtraining collapse past recovery**
 
 ## Philosophy parallels
 
-- **[[The doctrine of the mean|The mean]]** (Aristotle, Nicomachean Ethics II)
+- **[[The doctrine of the mean|The mean]]**
 
 ## Practice kernels
 
