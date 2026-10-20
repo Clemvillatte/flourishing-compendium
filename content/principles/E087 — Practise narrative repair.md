@@ -12,13 +12,21 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 479** — Practise narrative repair
 
-When your life story is damaged by trauma, injustice, or loss, engage in narrative repair — the process of reconstructing a coherent and meaningful life story. Narrative repair, as developed by Lindemann Nelson, is not denial but the creative reconfiguration of a damaged story.
+Lindemann Nelson's account concerns identities damaged when a powerful group's stories deny others full moral respect, restricting their opportunities or undermining their self-respect ([Injured identities, narrative repair, dissertation abstract](https://research.library.fordham.edu/dissertations/AAI9964573/)). Her counterstories contest those representations so that the people described can be recognised as moral agents ([same abstract](https://research.library.fordham.edu/dissertations/AAI9964573/)).
 
-(Lindemann Nelson, 2001, Damaged Identities, Narrative Repair; Ricoeur, 2004, Memory, History, Forgetting.)
+> Its aim is to reidentify such people as competent members of the moral community and so to free their moral agency.
 
-**Plain words** When the life story is damaged — by trauma, injustice, loss — engage in narrative repair: reconstructing a coherent, meaningful story. Not denial; creative reconfiguration of a damaged story with witnesses who help hold the new telling. The repair is communal.
+(Lindemann Nelson, Injured identities, narrative repair, 2000, abstract, final sentence; [author's abstract](https://research.library.fordham.edu/dissertations/AAI9964573/).)
 
-*For example:* The survivor whose story was fragmented into unspeakable pieces — and the therapy group, the memoir, the testimony — where the pieces get re-told into a story that includes the damage without being only the damage. The plot holds; the person lives inside it again.
+### Plain words
+
+Ask whose description of a person has been allowed to determine what they may do. A practical response could give that person room to describe their responsibilities and choices, with evidence that challenges the dismissive account.
+
+The focus is oppressive identity-making, as the scholarly discussion of Damaged Identities, Narrative Repair confirms; it is narrower than retelling any painful experience ([Internet Encyclopedia of Philosophy, discussion of Lindemann](https://iep.utm.edu/fem-e-n/)).
+
+### For example
+
+Suppose a workplace treats one group of employees as incapable of judgment. Those employees could document decisions they have made responsibly and challenge the rules excluding them from decisions.
 ## Psychology parallels
 
 - **[[Narrative therapy|Narrative therapy]]** (White and Epston, 1990; Freedman and Combs, 1996)

@@ -23,9 +23,10 @@
   "E060",
   "E061",
   "E072",
-  "E076"
+  "E076",
+  "E087"
  ],
- "in_progress": "E087",
+ "in_progress": null,
  "flagged": {
   "K002": "Reopened for QC: QC round 1: narrow quote attribution, verify raw page text, source-bound body/plain words, reduce psychology parallel to citation-only",
   "K005": "Reopened for QC: QC milestone items 2-5: source-bounded body/plain-words/example rewrites, parallel reductions",
@@ -34,7 +35,7 @@
   "K044": "QC milestone round: advisor-designed source-bounded repairs applied and validator-clean; full history in sources/p1zt/K044.md"
  },
  "missing_concepts": [],
- "sources_checked": 8,
- "updated": "2026-10-20T13:00:35+00:00",
+ "sources_checked": 10,
+ "updated": "2026-10-20T13:01:14+00:00",
  "band_done": false
 }
