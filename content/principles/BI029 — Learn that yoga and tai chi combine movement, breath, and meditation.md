@@ -12,29 +12,29 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BI — Biophysi
 ---
 > **Principle 29** — Learn that yoga and tai chi combine movement, breath, and meditation
 
-The evidence splits into two trials. For yoga, the design is what makes it interesting - the comparison was metabolically matched walking, so the movement dose was held constant:
+The evidence splits into two trials. For yoga, the trial compared a 12-week Iyengar yoga intervention with metabolically matched walking:
 
 > "Healthy subjects with no significant medical/psychiatric disorders were randomized to yoga or a metabolically matched walking intervention for 60 minutes 3 times a week for 12 weeks." (Streeter et al., "Effects of Yoga Versus Walking on Mood, Anxiety, and Brain GABA Levels: A Randomized Controlled MRS Study", Journal of Alternative and Complementary Medicine 16(11), 1145-1152, 2010, [full text via PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3111147/))
 
-The result:
-
 > "The yoga subjects (n = 19) reported greater improvement in mood and greater decreases in anxiety than the walking group (n = 15)." (Streeter et al., 2010, [via PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3111147/))
 
-And the mechanism clue, GABA:
+The GABA finding is reported by the authors as an association:
 
 > "This is the first study to demonstrate that increased thalamic GABA levels are associated with improved mood and decreased anxiety." (Streeter et al., 2010, [via PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3111147/))
 
-For tai chi, the trial evidence comes from fibromyalgia:
+For tai chi, the trial documents what the classes contained:
 
-> "Of the 66 randomly assigned patients, the 33 in the tai chi group had clinically important improvements in the FIQ total score and quality of life." (Wang et al., "A Randomized Trial of Tai Chi for Fibromyalgia", New England Journal of Medicine 363(8), 743-754, 2010, [full text via PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3023168/))
+> "Each session included a warm-up and self-massage, followed by a review of principles, movements, breathing techniques, and relaxation in tai chi." (Wang et al., "A Randomized Trial of Tai Chi for Fibromyalgia", New England Journal of Medicine 363(8), 743-754, 2010, [full text via PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3023168/))
 
-The between-group difference on the fibromyalgia impact questionnaire was -18.4 points at 12 weeks, and the improvements were maintained at 24 weeks, both at P<0.001 ([Wang et al., 2010, via PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3023168/)).
+> "Of the 66 randomly assigned patients, the 33 in the tai chi group had clinically important improvements in the FIQ total score and quality of life." (Wang et al., 2010, [via PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3023168/))
+
+The between-group difference on the fibromyalgia impact questionnaire was -18.4 points at 12 weeks, and improvements were maintained at 24 weeks from baseline, both at P<0.001 ([Wang et al., 2010, via PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3023168/)).
 
 **Plain words**
-Two trials. Yoga came out ahead of metabolically matched walking on mood and anxiety over 12 weeks, and the improvement tracked a brain chemical (GABA) that calming systems use. Tai chi, tried against wellness education and stretching in fibromyalgia, produced clinically important symptom gains that were still there six months in. The yoga arm got the same movement dose as the walkers; what it added was posture, breath and attention, and the mood measures followed.
+Two randomized trials. A 12-week Iyengar yoga intervention outperformed metabolically matched walking on mood and anxiety, and the improvement tracked thalamic GABA, reported as an association. A tai chi programme whose sessions included breathing techniques and relaxation outperformed wellness education and stretching in fibromyalgia, with gains maintained at 24 weeks from baseline. What the trials show is each package working as delivered.
 
 **For example**
-The tai chi class in the park, slow enough to look like nothing. The trial measured that slowness against stretching and education, and the difference was 18 points on a fibromyalgia impact scale, still there six months later.
+Suppose someone with fibromyalgia asks their clinician whether a supervised tai chi programme could form part of their care.
 
 ## Sources
 
