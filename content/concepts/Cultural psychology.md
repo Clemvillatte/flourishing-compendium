@@ -18,9 +18,9 @@ Markus and Kitayama's contrast pairs that interdependent view with the independe
 ### In the compendium
 
 - [[SE054 — Recognise self and culture — your self is culturally shaped]] — the principle built directly on this literature; it opens with the Markus and Kitayama abstract
-- [[SO044 — Treat the WEIRD critique as a standing corrective]] — the sampling critique this field levels at psychology's generalizations; its parallels list the cultural-variance literature (Henrich et al. 2010; Medin et al. 2017)
+- [[SO044 — Treat the WEIRD critique as a standing corrective]] — the sampling critique of generalizations from narrow samples; its parallels list the cultural-variance literature (Henrich et al. 2010; Medin et al. 2017)
 - [[SO001 — Flourish socially]] — flourishing framed as achieved inside a sociocultural life-world rather than by a solitary individual
-- [[R103 — Practise communitarian critique]] — the communitarian case against the "unencumbered self" runs parallel to the interdependent construal
+- [[R103 — Practise communitarian critique]] — the communitarian case against the "unencumbered self"
 - [[R002 — Practise humanity toward others]] — Tutu's ubuntu formulation of a person as a person through other persons
 - [[A076 — Practise friendship across difference]] — friendship adapting across ranks and capacities rather than presuming sameness
 - [[R055 — Practise xin (trustworthinessintegrity)]] — trustworthiness as the alignment of word and deed, from the Analects

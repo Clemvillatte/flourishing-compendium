@@ -29,9 +29,10 @@
 - Front-matter, Cited-in lists and the original [[SO044]] link preserved
   (validator caught both a lost original link and an unresolved R055 filename
   variant - fixed; the slash-less R055 filename is the real one).
-- Related concepts added (existing pages only): Independent vs interdependent
-  self-construal, Cultural dimensions theory Hofstede, Cross-cultural
-  variations in conceptions of happiness, Moral foundations.
+- Related concepts: SO044 (original line preserved), Independent vs
+  interdependent self-construal, Interdependent self-construal. Hofstede /
+  happiness / moral-foundations lines removed in QC round 1 (clauses not
+  supported by opened sources).
 
 ## Advisor QC (round 1, 2026-10-20): FAIL -> repairs applied
 
