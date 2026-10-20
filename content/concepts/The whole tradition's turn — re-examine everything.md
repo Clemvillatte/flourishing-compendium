@@ -11,7 +11,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 ## The command
 
-In the preface to the first edition of Leaves of Grass, Whitman gives the reader one long instruction, and it includes a command to re-examine everything received.
+In the preface to the first edition of Leaves of Grass, Whitman gives the reader one long instruction, and it includes a command to re-examine everything received ([Whitman, 1855 Preface](https://poets.org/text/preface-leaves-grass)).
 
 > “This is what you shall do: Love the earth and sun and the animals, despise riches, give alms to every one that asks, stand up for the stupid and crazy, devote your income and labor to others, hate tyrants, argue not concerning God, have patience and indulgence toward the people, take off your hat to nothing known or unknown or to any man or number of men, go freely with powerful uneducated persons and with the young and with the mothers of families, read these leaves in the open air every season of every year of your life, re examine all you have been told at school or church or in any book, dismiss whatever insults your own soul, and your very flesh shall be a great poem and have the richest fluency not only in its words but in the silent lines of its lips and face and between the lashes of your eyes and in every motion and joint of your body.”
 >
@@ -19,7 +19,7 @@ In the preface to the first edition of Leaves of Grass, Whitman gives the reader
 
 ## What the command asks
 
-Whitman tells readers to reconsider what they have learned at school, at church, and in books, and to dismiss whatever insults their own soul. He places this instruction alongside generosity, resistance to tyranny, and attention to ordinary life. The passage ends with the image of the reader's flesh becoming a poem ([Whitman, 1855 Preface](https://poets.org/text/preface-leaves-grass)).
+Whitman tells readers to reconsider what they have learned at school, at church, and in books, and to dismiss whatever insults their own soul ([Whitman, 1855 Preface](https://poets.org/text/preface-leaves-grass)). He places this instruction alongside generosity, resistance to tyranny, and attention to ordinary life ([Whitman, 1855 Preface](https://poets.org/text/preface-leaves-grass)). The passage ends with the image of the reader's flesh becoming a poem ([Whitman, 1855 Preface](https://poets.org/text/preface-leaves-grass)).
 
 ## Sources
 

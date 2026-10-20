@@ -11,7 +11,7 @@ subjective time dilates with novelty and attention ([Wittmann, 2009](https://pmc
 
 ## What the research shows
 
-Subjective duration is not a readout of clock time. In [Wittmann's (2009) review](https://pmc.ncbi.nlm.nih.gov/articles/PMC2685813/) of the field, attention and arousal are discussed as influences on duration judgments, and the review also records paradoxical underestimation for some emotional stimuli.
+Subjective duration is not a readout of clock time: in [Wittmann's (2009) review](https://pmc.ncbi.nlm.nih.gov/articles/PMC2685813/) of the field, attention and arousal are discussed as influences on duration judgments, and the review also records paradoxical underestimation for some emotional stimuli.
 
 > “In summary, increased attention to time (such as in waiting situations) and an increase in physiological arousal (such as under stress) can lead to longer time estimates when judging intervals in the range of milliseconds to seconds and minutes.”
 >
@@ -19,13 +19,13 @@ Subjective duration is not a readout of clock time. In [Wittmann's (2009) review
 
 ## Novelty and dilation
 
-Time dilation has been shown for stimuli that differ from standard events: the duration of a deviant stimulus within a stream of standard events tends to be systematically overestimated. In one imaging experiment, Wittmann and colleagues found a dilation effect only for looming targets moving toward the viewer, and not for receding ones, suggesting it is not oddball-ness alone that carries the effect ([Wittmann et al., 2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC2820380/)).
+Time dilation has been shown for stimuli that differ from standard events: the duration of a deviant stimulus within a stream of standard events tends to be systematically overestimated ([Wittmann et al., 2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC2820380/)). In one imaging experiment, Wittmann and colleagues found a dilation effect only for looming targets moving toward the viewer, and not for receding ones, suggesting it is not oddball-ness alone that carries the effect ([Wittmann et al., 2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC2820380/)).
 
 The review describes time seeming faster during pleasant activities and slower during boredom ([Wittmann, 2009, §1](https://pmc.ncbi.nlm.nih.gov/articles/PMC2685813/)). Novice skydivers reporting greater fear during their first tandem jump judged its duration as longer than less fearful novices did ([Wittmann, 2009, §4](https://pmc.ncbi.nlm.nih.gov/articles/PMC2685813/)).
 
 ## Wittmann's account
 
-Wittmann's own interpretation is embodied. There is no sense organ for time, and he relates the felt passage of longer durations to the insular cortex, the primary brain region for processing body signals. As he put it in [an interview](https://www.interaliamag.org/interviews/marc-wittmann/): “We don't perceive time in the outside world but through our sense of self,” and “The more we feel ourselves, the slower felt passage of time.”
+Wittmann's own interpretation is embodied: there is no sense organ for time, and he relates the felt passage of longer durations to the insular cortex, the primary brain region for processing body signals ([Interalia interview](https://www.interaliamag.org/interviews/marc-wittmann/)). As he put it in [an interview](https://www.interaliamag.org/interviews/marc-wittmann/): “We don't perceive time in the outside world but through our sense of self,” and “The more we feel ourselves, the slower felt passage of time.”
 
 ## Sources
 

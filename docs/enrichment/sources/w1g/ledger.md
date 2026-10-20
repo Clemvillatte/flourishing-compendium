@@ -1150,3 +1150,7 @@ Advisor QC found batch-level and per-item issues; all repaired. Key findings and
 - Item 12 source note tightened to the advisor's wording: "quotation follows Poets.org's 're examine' spelling" (no claim about the typography of the original printing).
 - Item 14: the conflating "Duration judgments also track mood" label removed; paragraph replaced with the two separated sentences (felt passage during pleasant activities/boredom, §1; skydiver duration judgments, §4), each with a section-locator citation link.
 - Item 15: ontology quotation now attributed "As [Schlegel, Hicks, King and Arndt (2011)] write:" with the PSPB link, unambiguous after the separate Heppner paragraph.
+
+### QC round 6d (sentence-level citation coverage)
+- All five pages: every source-derived sentence now carries a citation link to its opened source. Redundant setup sentences were merged into the sentences they introduced (Aristotle opening, Aristotle death framing, Time perception opening and account sections, True self Heppner framing). Linked, located blockquote attributions unchanged.
+- Time affluence: residual causal bullet "perceived time scarcity undermines well-being" repaired to associational wording with the review citation link.

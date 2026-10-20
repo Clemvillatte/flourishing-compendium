@@ -7,17 +7,17 @@ file: "Time affluence"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-the subjective sense of having enough time is associated with well-being independently of income (Kasser and Sheldon, 2009).
+the subjective sense of having enough time is associated with well-being independently of income ([Kasser and Sheldon, 2009](https://pmc.ncbi.nlm.nih.gov/articles/PMC13414762/)).
 
 ## The concept
 
-Time affluence is the subjective sense of having enough time, together with autonomy over its use. Tim Kasser and Kennon Sheldon, who conceptualized the construct, defined it as a perception rather than an objective amount of free time, and set it against material affluence as an alternative route to well-being. Across four studies, the experience of time affluence was associated with life satisfaction and positive affect independently of income level (definition and findings as characterized in [Yoon, Frontiers in Public Health](https://pmc.ncbi.nlm.nih.gov/articles/PMC13414762/)).
+Time affluence is the subjective sense of having enough time, together with autonomy over its use ([Yoon, Frontiers in Public Health](https://pmc.ncbi.nlm.nih.gov/articles/PMC13414762/)). Tim Kasser and Kennon Sheldon, who conceptualized the construct, defined it as a perception rather than an objective amount of free time, and set it against material affluence as an alternative route to well-being ([Yoon, Frontiers in Public Health](https://pmc.ncbi.nlm.nih.gov/articles/PMC13414762/)). Across four studies, the experience of time affluence was associated with life satisfaction and positive affect independently of income level (definition and findings as characterized in [Yoon, Frontiers in Public Health](https://pmc.ncbi.nlm.nih.gov/articles/PMC13414762/)).
 
 ## Facets
 
 - **and well-being** — Whillans et al., 2016
 
-Later work moved from feeling time-affluent to prioritizing time. [Whillans, Weidman and Dunn (2016)](https://journals.sagepub.com/doi/abs/10.1177/1948550615623842) studied the stable preference to prioritize time over money: across six studies (N = 4,690), people with that preference reported greater subjective well-being, and the association held after controlling for materialism, material striving, and current feelings of time or material affluence. A third construct concerns using money to buy time: in the [2017 buying-time studies](https://www.pnas.org/doi/10.1073/pnas.1706541114), individuals who spent money on time-saving services reported greater life satisfaction, and a field experiment found that working adults reported greater happiness after a time-saving purchase than after a material purchase.
+Later work moved from feeling time-affluent to prioritizing time: [Whillans, Weidman and Dunn (2016)](https://journals.sagepub.com/doi/abs/10.1177/1948550615623842) studied the stable preference to prioritize time over money, and across six studies (N = 4,690) people with that preference reported greater subjective well-being, an association that held after controlling for materialism, material striving, and current feelings of time or material affluence. A third construct concerns using money to buy time: in the [2017 buying-time studies](https://www.pnas.org/doi/10.1073/pnas.1706541114), individuals who spent money on time-saving services reported greater life satisfaction, and a field experiment found that working adults reported greater happiness after a time-saving purchase than after a material purchase.
 
 > “Around the world, increases in wealth have produced an unintended consequence: a rising sense of time scarcity. We provide evidence that using money to buy time can provide a buffer against this time famine, thereby promoting happiness. Using large, diverse samples from the United States, Canada, Denmark, and The Netherlands (n = 6,271), we show that individuals who spend money on time-saving services report greater life satisfaction. A field experiment provides causal evidence that working adults report greater happiness after spending money on a time-saving purchase than on a material purchase.”
 >
@@ -27,7 +27,7 @@ Later work moved from feeling time-affluent to prioritizing time. [Whillans, Wei
 
 
 
-- perceived time scarcity undermines well-being (Kasser and Sheldon, 2009)
+- perceived time scarcity is associated with lower well-being ([Kasser and Sheldon, 2009](https://pmc.ncbi.nlm.nih.gov/articles/PMC13414762/))
 
 ## Sources
 
