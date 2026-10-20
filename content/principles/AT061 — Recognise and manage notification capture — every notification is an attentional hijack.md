@@ -12,15 +12,25 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AT — Attentio
 ---
 > **Principle 61** — Recognise and manage notification capture: every notification is an attentional hijack
 
-Notifications are designed to capture attention immediately. Each notification interrupts current focus, triggers a task switch, and creates attentional residue. Managing notifications is a fundamental modern attentional practice.
+A notification asks for attention now; answering it means leaving the current task. The opened evidence for what that costs is Leroy's task-switching study:
 
-**Plain words** Every notification is a stranger with a bullhorn walking into your study. You wouldn't accept that in person; you accept it 90 times a day. Almost none are urgent — the proof is that the world didn't end when you turned them off.
+> "As revealed by two experiments, people need to stop thinking about one task in order to fully transition their attention and perform well on another." ([Leroy, 2009, Organizational Behavior and Human Decision Processes 109, abstract](https://ideas.repec.org/a/eee/jobhdp/v109y2009i2p168-181.html))
 
-*For example:* Turning off all notifications except actual humans calling: the terror lasts two days, then calm, then the discovery that nothing was actually urgent. Nothing.
+> "Yet, results indicate it is difficult for people to transition their attention away from an unfinished task and their subsequent task performance suffers." ([Leroy, 2009, same abstract](https://ideas.repec.org/a/eee/jobhdp/v109y2009i2p168-181.html))
+
+The study concerns switching between tasks, not notifications specifically. The compendium's reading of a notification as a forced switch is its own application.
+
+**Plain words** A notification is a request to switch tasks, and the evidence says switching is not free: attention stays partly with what you left, and the new task gets the reduced share. The rest of the principle is design: decide once, in advance, which interruptions are allowed to reach you, rather than letting each one decide for you.
+
+*For example:* (Imagined case.) Turning off all notifications except calls from actual humans: the first two days are restless, then the quiet settles, and the discovery that nothing was actually urgent.
+
+## Sources
+
+- [Leroy, S. (2009). Why is it so hard to do my work? The challenge of attention residue when switching between work tasks. OBHDP 109(2), 168-181, abstract](https://ideas.repec.org/a/eee/jobhdp/v109y2009i2p168-181.html) — the two findings quoted above
+
 ## Psychology parallels
 
-- **Notification costs**, interruptions significantly increase errors and time to complete tasks (Altmann & Trafton, 2002; Monk et al., 2008)
-- **Attention residue after interruption**, switching tasks leaves residue that impairs subsequent performance (Leroy, 2009; Leroy & Glomb, 2018)
+- **Attention residue after interruption**, the source quoted above (Leroy, 2009)
 
 ## Philosophy parallels
 

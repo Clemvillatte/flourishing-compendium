@@ -192,3 +192,9 @@ Band: AF002..BE033, 30 principles, degree order (queue 628-673). Advisor QC cade
 - Scope: positive side (full attention improves connection) labelled as the compendium's inversion of the measured negative result, not a finding. Unresolved (removed from page, recorded here): Reis et al. 2017 / Gable et al. 2004 perceived-responsiveness parallels and McDaniel & Coyne 2016 technoference citation (none opened).
 - Plain words: replicate fixed; example relabelled as imagined case.
 - Proposals: reciprocals into I and Thou and Deep listening (leads to be read before record finalisation — see below).
+
+## AT061 — Recognise and manage notification capture: every notification is an attentional hijack
+- Evidence: Leroy 2009 abstract (already opened this session for AT029; URL ideas.repec.org/a/eee/jobhdp/v109y2009i2p168-181.html). Two sentences quoted, both verified verbatim earlier in the session (transition requirement; unfinished-task performance cost).
+- Scope: "designed to capture attention" design-intent claim and the unsourced "90 times a day" figure removed; notification-as-forced-switch reading labelled as the compendium's application of the task-switching evidence. Unresolved (removed from page, recorded here): Altmann & Trafton 2002 / Monk et al. 2008 notification-cost parallels and Leroy & Glomb 2018 (none opened).
+- Plain words: replicate fixed; example relabelled as imagined case.
+- Proposals: reciprocals into Right speech, Environmental design, Simplicity (leads read this session; full bodies not read).

@@ -1,6 +1,6 @@
 {
  "batch": "p1zj",
- "revision": 23,
+ "revision": 24,
  "records": [
   {
    "action": "reciprocal",
@@ -288,6 +288,27 @@
    "link": "AT057",
    "why": "listed for comparison with the principle's undivided-attention reading",
    "notes": "target page lead reviewed this session (see ledger); full body not read; relationship grounded in the adjacent principle's opened source"
+  },
+  {
+   "action": "reciprocal",
+   "into": "Right speech",
+   "link": "AT061",
+   "why": "listed for comparison with the principle's design-over-interruption reading",
+   "notes": "target page lead reviewed this session; full body not read; relationship grounded in the adjacent principle's opened source"
+  },
+  {
+   "action": "reciprocal",
+   "into": "Environmental design",
+   "link": "AT061",
+   "why": "listed for comparison with the principle's design-over-interruption reading",
+   "notes": "target page lead reviewed this session; full body not read; relationship grounded in the adjacent principle's opened source"
+  },
+  {
+   "action": "reciprocal",
+   "into": "Simplicity",
+   "link": "AT061",
+   "why": "listed for comparison with the principle's design-over-interruption reading",
+   "notes": "target page lead reviewed this session; full body not read; relationship grounded in the adjacent principle's opened source"
   }
  ]
 }
