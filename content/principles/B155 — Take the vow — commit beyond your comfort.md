@@ -12,13 +12,20 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 155** — Take the vow: commit beyond your comfort
 
-Make an explicit commitment to wake up for the sake of all beings, and let it carry you when motivation ebbs. A vow is structure for the hard days.
+Shantideva's Guide to the Bodhisattva's Way of Life reaches its third chapter with a vow, spoken before the buddhas as witnesses: to arouse bodhicitta and, like the buddhas of former ages, to train in stages. The vow commits to gradual training rather than to immediate perfection. (Shantideva, Bodhicaryavatara 3.)
 
-(Bodhisattva vow, secular reading; Shantideva 3.)
+> "Just as the sugatas of former ages, / Aroused bodhicitta and then, in stages, / Trained themselves in skilful practice, / On the genuine path of the bodhisattvas, / Like them, I take this sacred vow: / To arouse bodhicitta here and now, / And train myself for others' good, / Gradually, as a bodhisattva should." (Bodhicaryavatara 3.23-24, [Pearcey](https://www.lotsawahouse.org/indian-masters/shantideva/bodhicharyavatara-3))
 
-**Plain words** Make an explicit commitment to wake up for the sake of all beings, and let it carry you when motivation ebbs. A vow is structure for the hard days. Feelings are weather; the vow is the roof over the practice.
+The compendium's reading: a vow is a commitment made once, in words you could repeat, with a witness, and then kept stepwise. The vow does not promise motivation. It is a structure that keeps one clear day's judgment in force on the days clarity is missing.
 
-*For example:* The nurse who doesn't feel compassionate every shift — the vow carries the days the feelings can't.
+**Plain words**
+Write the commitment in one sentence you would still sign on a bad morning. Say it to one person who will remember it. Then treat the training as stages: this month's small version of the practice, not the final version. On days you do not feel it, you are not deciding again; you are doing today's stage.
+
+*For example:* Imagine resolving to meditate daily. You tell your partner the specific commitment: ten minutes, after coffee, for the month of November. The resolution now has a witness, a size and a time.
+
+## Sources
+
+- [Bodhicaryavatara, Chapter 3: Fully Adopting Bodhicitta, Śāntideva, Adam Pearcey translation, Lotsawa House](https://www.lotsawahouse.org/indian-masters/shantideva/bodhicharyavatara-3) — the vow, verses 23-24
 
 ## Psychology parallels
 

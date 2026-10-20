@@ -127,3 +127,19 @@ opened text at the recorded URL.
 - D177, D189, B032: repairs from the item-5 milestone review applied (see item
   entries above); all four repaired files re-validated ok at this checkpoint.
 - B149: failed round 1, repaired, validated.
+
+## B155 — Take the vow: commit beyond your comfort (2026-10-20)
+
+- OPENED: Bodhicaryavatara Chapter 3 "Fully Adopting Bodhicitta", Santideva,
+  Adam Pearcey translation (2007), Lotsawa House,
+  https://www.lotsawahouse.org/indian-masters/shantideva/bodhicharyavatara-3
+- Verified verbatim: verses 23-24 as quoted on the page (verse-per-line
+  slashes in the page blockquote are formatting; wording exact).
+- LIMITS: the vow-as-structure reading is labelled as the compendium's
+  reading; the chapter presents the vow formula itself. "Spoken before the
+  buddhas as witnesses" reflects the chapter's framing (v. 24 context; the
+  Lotsawa House text has the vow ritual in this chapter; the surrounding
+  verses 25-34 include "Now with buddhas as my witness" in the search
+  snippet, not re-verified on the page fetch). Inherited psychology parallel
+  (Damon; Steger 2012) and philosophy parallels (Kierkegaard knight of faith)
+  preserved untouched and NOT verified this session.
