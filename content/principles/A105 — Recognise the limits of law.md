@@ -26,7 +26,7 @@ Aristotle names the gap and the repair. The equitable is "a correction of law wh
 
 ### Plain words
 
-The gap is built in: "all law is universal but about some things it is not possible to make a universal statement which shall be correct" ([NE V.10](http://classics.mit.edu/Aristotle/nicomachaen.5.v.html)). Aristotle's repair is not to scrap the rule but to ask what the rule's author would have said about this case ([NE V.10](http://classics.mit.edu/Aristotle/nicomachaen.5.v.html)). For an exercise, take one rule that misfits a situation you know and write the one sentence the legislator would have added.
+When a general rule misses an unusual case, Aristotle asks what the lawmaker would have said had that case been considered ([NE V.10](http://classics.mit.edu/Aristotle/nicomachaen.5.v.html)). For an exercise, take one rule that misfits a situation you know and write the one sentence the legislator would have added.
 
 For example: imagine a rule that a bridge is closed to all vehicles from dusk, and a driver with an injured passenger at the far end of the bridge. The example is invented, and it asserts nothing about any actual traffic law.
 
