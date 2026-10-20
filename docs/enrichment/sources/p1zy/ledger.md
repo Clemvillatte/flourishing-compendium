@@ -250,3 +250,9 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 - Quotes verified: BG 3.3 and the preface line matched. The Karma Yoga line is as shown on vedanta.org; the Complete Works text itself not opened.
 - Seed repairs: Gita names two paths, not four; the four-fold scheme and "one, or more, or all" are Vivekananda's; lead/support sequencing and "four doors" image labelled as the page's own. Person-activity fit and Rig Veda 1.164.46 not opened.
 - Saturation: low; recommend opening the Complete Works volume 1 text.
+
+## Y128 (2026-10-21, worker-p1zz-b81e3f52)
+- Sources opened: holy-bhagavad-gita.org (Mukundananda) BG 2.54, 2.56, 2.57, 12.15. BG 14.24 fetch returned empty.
+- Quotes verified: all matched fetched pages.
+- Seed repairs: the jivanmukti doctrine (Vidyaranya, Yoga Vasistha) was not opened and is not described; Gita descriptions of the steady sage used instead, with the audit practice labelled as the page's own. Psychology and Analects 2.10 parallels not opened.
+- Saturation: low; supervisor may want a pass on Jivanmuktiviveka.
