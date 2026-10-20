@@ -1,6 +1,7 @@
 # Collective efficacy — evidence (w1c)
 
-- Fast-track item (10 principles ≤ degree 14 at selection). Seed body was a
+- Fast-track item (graph degree 14 at selection: 4 concept + 10 principle
+  connections). Seed body was a
   citation fragment; Related-concepts line inherited and preserved.
 - Opened 2026-10-20: Bandura, "Exercise of Human Agency Through Collective
   Efficacy", Current Directions in Psychological Science 9(3), 2000 — full-text
@@ -14,3 +15,8 @@
   ("the Māori unity practice" restates kotahitanga).
 - Inherited Sources lines kept; Bandura 2001 NOT opened (noted in the Sources
   line); no claims rest on it.
+
+## Round 6 QC repairs (2026-10-20)
+- R030 reduced to a bare link (the 'Māori unity practice' clause was an
+  unopened translation/attribution).
+- Bandura citations attached directly to both inline quoted passages.

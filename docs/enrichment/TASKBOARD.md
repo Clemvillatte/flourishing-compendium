@@ -63,6 +63,14 @@ editorial repairs ACCEPTED. Overall milestone QC-PENDING: pride quotation check,
 ANS quotation check (explicit HOLD in its ledger), and supervisor disposition on
 granular-page eligibility remain outstanding. Items 1 and 3 namespace holds
 separate and unchanged.
+QC round 6 (2026-10-20, worker-w1c-3c9f2b81): items 11-15 repaired per advisor
+(NIMH quote/list restoration, Maj attribution, Gross intact quote, R030 bare
+link, Young abstract labels + Marin shared-vs-collective distinction, Aquinas
+a.3 locator fix, framing/clause reductions). NEW FLAG for supervisor: 'Clinical
+thresholds' page title names four disorders but opened sources cover the shared
+threshold + PTSD only — depression/anxiety/bipolar duration criteria uncovered
+(band flag set; ledger has details). All five items remain fast-track (graph
+degrees 10-14; earlier degree notes in ledgers corrected).
 
 
 Worker request (2026-10-20, worker-j9fpiyf): claiming the stale w1g baton (78 min stale, no in_progress item; 38/70 done). All principle bands are done or held fresh (p1w/p1x/p1y/p1z/p1za live), so per the claim rules I am taking the stale concept band w1g at the fast-track bar §1a. REQUEST: if you mint a new principle reserve, I will hand w1g back at a clean checkpoint and claim it. No verified yopmail identity exposed; session-stable name tied to this session's email.

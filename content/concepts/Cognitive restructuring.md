@@ -15,8 +15,8 @@ The same review stresses that it is not one method but a collection: "Rather tha
 
 ## Facets
 
-- **in CBT** — Beck's cognitive therapy tradition supplies the technique family; the thought record and Socratic questioning are its standard tools.
-- **at the trigger point** — the reappraisal form targets the meaning of the situation as it arises. Gross: "One particularly well-studied form of cognitive change is reappraisal, which targets either the meaning of a potentially emotion-eliciting situation... or the self-relevance of a potentially emotion-eliciting situation (e.g., 'This event doesn't directly involve me or anyone I love.')" (Emotion Regulation: Current Status and Future Prospects, Psychological Inquiry, 2015).
+- **in CBT** — the technique family the definition sentence credits to Beck and colleagues (Beck et al., 1979).
+- **at the trigger point** — Gross describes reappraisal as a well-studied form of cognitive change: "One particularly well-studied form of cognitive change is reappraisal, which targets either the meaning of a potentially emotion-eliciting situation (as in the aforementioned examples), or the self-relevance of a potentially emotion-eliciting situation (e.g., 'This event doesn't directly involve me or anyone I love.'; see Kross & Ayduk, 2011)." (Gross, Emotion Regulation: Current Status and Future Prospects, Psychological Inquiry, 2015)
 - **reliance on evidence** — Mueser and colleagues describe the PTSD programme version: "Cognitive restructuring is taught as a self-management skill for dealing with negative feelings through the articulation of specific thoughts that underlie the distressing feeling, and the objective evaluation of evidence supporting those thoughts." ([British Journal of Psychiatry](https://pmc.ncbi.nlm.nih.gov/articles/PMC4450219/), 2015)
 
 ### In the compendium

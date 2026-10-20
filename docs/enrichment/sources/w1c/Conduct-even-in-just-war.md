@@ -1,6 +1,8 @@
 # Conduct even in just war — evidence (w1c)
 
-- Fast-track item (9 principles ≤ degree 16 at selection). Seed body was a
+- Fast-track item (graph degree 11 at selection: 1 concept + 9 principle + 1
+  story connections; the earlier 'deg 16' read was neighbour A108's degree,
+  not this page's). Seed body was a
   citation fragment; no Related-concepts section existed; inherited kernel/
   principle citation lines below Sources preserved as-is.
 - Opened 2026-10-20: Aquinas, Summa Theologiae II-II, q.40 — New Advent open
@@ -19,3 +21,9 @@
 - In-the-compendium clauses are title-grounded; D132/D076 clauses restate the
   principle titles; A046 clause ("particulars over abstractions in judgment")
   restates its title's contrast.
+
+## Round 6 QC repairs (2026-10-20)
+- Opening reframed as the page's reading of Aquinas, not an established name
+  for one of his teachings.
+- D132 clause reduced to a title restatement ('the grieve-never-gloat rule');
+  A046 reduced to a bare link.

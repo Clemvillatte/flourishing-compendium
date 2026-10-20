@@ -1,6 +1,7 @@
 # Cognitive restructuring — evidence (w1c)
 
-- Fast-track item (8 principles ≤ degree 11 at selection). Seed body was a
+- Fast-track item (graph degree 14 at selection: 4 concept + 2 kernel + 8
+  principle connections). Seed body was a
   sentence fragment; Facets labels and Related-concepts line were inherited and
   preserved. Facet clauses and In-the-compendium lines added.
 - Opened 2026-10-20 (all verbatim quotes verified from the opened pages;
@@ -23,3 +24,11 @@
   ("defusion counterpart for thoughts") with no ACT-history claim.
 - Inherited Sources lines (Beck 1976, Burns 1980, Gross 2015) kept; no claims
   rest on the unopened Beck/Burns citations.
+
+## Round 6 QC repairs (2026-10-20)
+- Facet 1 clause reworked: no 'standard tools' claim; the Beck attribution now
+  rests on the definition sentence's own citation (Beck et al., 1979).
+- Facet 2: the reappraisal=CR bridge and the timing claim ('as it arises')
+  removed; the Gross sentence is now quoted INTACT including '(as in the
+  aforementioned examples)' and the 'see Kross & Ayduk, 2011' citation, no
+  ellipsis.

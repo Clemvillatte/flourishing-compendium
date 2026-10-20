@@ -97,11 +97,12 @@
   "Autonomic nervous system (sympathetic vs parasympathetic)": "Reopened for QC: QC round 2: evidence-scope repairs",
   "Care as practice": "Reopened for QC: QC round 2: attribution and gloss repairs",
   "Character strengths (Peterson & Seligman)": "Reopened for QC: QC round 2: source verification and study-specific wording",
-  "Chronic pain acceptance": "Reopened for QC: QC round 2: scope reduction"
+  "Chronic pain acceptance": "Reopened for QC: QC round 2: scope reduction",
+  "Clinical thresholds for depression, anxiety, PTSD, and bipolar disorder": "Title names four disorders; opened sources cover the shared distress/impairment threshold and PTSD only — depression/anxiety/bipolar duration criteria uncovered (scope gap; see sources/w1c ledger)"
  },
  "missing_concepts": [],
  "sources_checked": 36,
- "updated": "2026-10-20T08:27:28+00:00",
+ "updated": "2026-10-20T08:33:29+00:00",
  "band_done": false,
  "new_concepts": [
   {

@@ -11,7 +11,7 @@ Collective efficacy is Bandura's extension of efficacy belief to groups. In his 
 
 > "Social cognitive theory extends the conception of human agency to collective agency. People's shared beliefs in their collective power to produce desired results are a key ingredient of collective agency." (Bandura, [Exercise of Human Agency Through Collective Efficacy](https://scalar.usc.edu/works/ismdia-590-community-data---s2019/media/Bandura2000.pdf), Current Directions in Psychological Science, 2000)
 
-The belief is a group-level property, not a tally of individual confidence: "perceived collective efficacy is not simply the sum of the efficacy beliefs of individual members. Rather, it is an emergent group-level property." And it does motivational work. Shared beliefs influence "the types of futures they seek to achieve through collective action, how well they use their resources, how much effort they put into their group endeavor, their staying power when collective efforts fail to produce quick results or meet forcible opposition, and their vulnerability to the discouragement that can beset people taking on tough social problems."
+The belief is a group-level property, not a tally of individual confidence: "perceived collective efficacy is not simply the sum of the efficacy beliefs of individual members. Rather, it is an emergent group-level property." (Bandura, Current Directions in Psychological Science, 2000) And it does motivational work. Shared beliefs influence "the types of futures they seek to achieve through collective action, how well they use their resources, how much effort they put into their group endeavor, their staying power when collective efforts fail to produce quick results or meet forcible opposition, and their vulnerability to the discouragement that can beset people taking on tough social problems." (Bandura, Current Directions in Psychological Science, 2000)
 
 ### In the compendium
 
@@ -19,7 +19,7 @@ The belief is a group-level property, not a tally of individual confidence: "per
 - [[SO075 — Use systems-level intervention for social suffering]] — the systems-level side
 - [[R008 — Practise collective responsibility]] — the responsibility counterpart
 - [[SO051 — Use group identity for social cure]] — the identity side
-- [[R030 — Practise kotahitanga]] — the Māori unity practice
+- [[R030 — Practise kotahitanga]]
 
 ## Related concepts
 
