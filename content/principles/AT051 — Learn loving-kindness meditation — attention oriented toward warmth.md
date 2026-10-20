@@ -12,24 +12,24 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AT — Attentio
 ---
 > **Principle 51** — Learn loving-kindness meditation: attention oriented toward warmth
 
-Loving-kindness meditation directs warm attention toward yourself and others; the practice below sequences its objects from self to all beings. The opened field experiment behind this page assigned working adults, half of them at random, to begin a practice of loving-kindness meditation. (Fredrickson et al., 2008.)
+Fredrickson and colleagues tested a loving-kindness meditation intervention in a field experiment with working adults. Half were randomly assigned to begin the practice. (Fredrickson et al., 2008.)
 
 > "Results showed that this meditation practice produced increases over time in daily experiences of positive emotions, which, in turn, produced increases in a wide range of personal resources (e.g., increased mindfulness, purpose in life, social support, decreased illness symptoms)." (Fredrickson et al., 2008, [J Pers Soc Psychol 95(5):1045-1062](https://pubmed.ncbi.nlm.nih.gov/18954193/))
 
-The compendium's attentional reading of the practice is narrower than the study's outcome chain: the exercise trains the placement of attention, repeatedly, on a warm intention toward a chosen person. The study does not establish effects on negative emotions or on every difficult relationship; what it reports is the positive-emotion pathway above, in one sample of working adults. (Fredrickson et al., 2008.)
+The compendium uses a repeated wish for another person's wellbeing as an attention exercise. The reported positive-emotion findings do not establish that this exercise changes negative attentional bias.
 
 **Plain words**
-Most attention training points the mind at an object. This one points it at a person, with a wish for their good, and the person can be you. What is being trained is the aiming: the practice repeats the wish, person by person, the way breath practice repeats the return.
+Bring one person's wellbeing to mind and wish them well. You can include yourself. Notice whether attention stays with the wish or moves elsewhere, and return to it if you choose to continue.
 
-*For example:* A difficult colleague is included in the practice for two weeks. What gets observed is the aiming itself: what the wishing is like, and whether thoughts of the colleague arrive differently.
+*For example:* Imagine practising with a colleague in mind and noticing your response to repeating the goodwill wish.
 
 ## Sources
 
 - [Fredrickson et al. (2008), Open hearts build lives: positive emotions, induced through loving-kindness meditation, build consequential personal resources, Journal of Personality and Social Psychology 95(5):1045-1062](https://pubmed.ncbi.nlm.nih.gov/18954193/)
 ## Psychology parallels
 
-- **Loving-kindness meditation increases positive affect and reduces negative bias**, metta practice increases positive emotion and reduces negative attentional bias (Fredrickson et al., 2008; Zeng et al., 2015)
-- **LKM improves well-being and reduces depressive symptoms**, regular practice improves mood and life satisfaction (Fredrickson et al., 2008; Hofmann et al., 2011)
+- **Loving-kindness meditation and positive emotions**, a randomized field experiment reported increases over time in daily positive emotions among practitioners (Fredrickson et al., 2008)
+- **Positive-emotion pathway to personal resources**, the reported increases in positive emotions were associated with increases in personal resources and life satisfaction (Fredrickson et al., 2008)
 
 ## Philosophy parallels
 
