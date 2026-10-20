@@ -12,17 +12,17 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "X — Extra 
 ---
 > **Principle 13** — Practice self-sufficiency as a scale, not as isolation
 
-The Letter to Menoeceus makes independence of outward things a great good, defined by capacity: not so as in all cases to use little, but so as to be contented with little if we have not much, and they have the sweetest enjoyment of luxury who stand least in need of it. Vatican Saying 44 shows which way the capacity points: the wise man accustomed to the limits of necessity knows better how to share with others than how to take from them. Principal Doctrine 27 puts the pairing plainly: of all the means procured by wisdom to ensure happiness throughout life, by far the most important is the acquisition of friends. Self-sufficiency, on these texts, is a capacity to live simply if needed — the letter says habituation to simple and inexpensive diet renders us fearless of fortune — held alongside friendship, not instead of it.
+In the Letter to Menoeceus, Epicurus values being able to manage with little when circumstances require it. This ability leaves room for enjoying luxury. Vatican Saying 44 connects familiarity with basic needs to a readiness to share with others. Principal Doctrine 27 gives friendship a central place in a happy life. Taken together, these passages support practising modest living while continuing to share and maintain friendships.
 
-As a compendium exercise, once per season run a voluntary simplicity week (food, spending, entertainment at the floor) and note the freedom found.
+For a compendium exercise, try a week of simpler spending and record what was manageable, what you missed and what remained difficult.
 
-> "The wise man who has become accustomed to the limits of necessity knows better how to share with others than how to take from them, so great a treasure of self-sufficiency has he found." (Vatican Saying 44)
+> "The wise man who has become accustomed to the limits of necessity knows better how to share with others than how to take from them, so great a treasure of self-sufficiency has he found." (Vatican Saying 44, Anderson translation)
 
 **Plain words**
-Self-sufficiency is a capacity, not a cabin in the woods: the freedom to live simply if needed, tested now and then so it stays real. Once a season, run the floor (simple food, minimal spending) and write down what you find. Independence is not withdrawal; it is knowing the exit works, while friendship stays on the list of what matters most.
+Find out what you need to get through an ordinary week. Keep a record of spending and the comforts you miss. Include time with friends in the exercise.
 
 **For example**
-In an imagined application, someone between jobs runs a deliberately lean month and writes down what it actually costs to live; the written number, not the imagined one, is the point of the exercise.
+In an imagined exercise, someone between jobs plans an inexpensive week, records its actual costs, and keeps a regular visit with a friend.
 
 ## Psychology parallels
 

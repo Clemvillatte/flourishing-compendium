@@ -12,21 +12,21 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "X — Extra 
 ---
 > **Principle 9** — Listen to the flesh's limits, and let them end the pursuit
 
-Principal Doctrine 20 gives the psychology of the limit: the flesh assumes the limits of pleasure to be infinite, while the mind, grasping what the end and limit of the flesh is, has no further need of unlimited time. The Letter to Menoeceus gives the same limit in food: plain fare gives as much pleasure as a costly diet once the pain of want is removed, and bread and water confer the highest possible pleasure when brought to hungry lips. The letter adds the two working facts: whatever is natural is easily procured, and only the vain and worthless are hard to win. On this basis the flesh's limits are a short list — food, water, warmth, ease — and luxury varies the meal without moving the limit; the sense of "not enough" comes from the wanting, not from the plate.
+In Principal Doctrine 20, understanding bodily limits and dispelling fears about the future belong to Epicurus's account of a complete life that has no need of infinite time. The Letter to Menoeceus compares plain food with expensive food: once the pain of want is removed, an inexpensive meal can provide equal pleasure. Its example is bread and water received by someone hungry. The letter also values being content with little when little is available, while allowing for the enjoyment of luxury.
 
-As a compendium exercise, once per week take one simple meal after real hunger, and let it re-teach the limit.
+For a compendium exercise, try a simple meal when hungry and write down what you notice.
 
-> "The flesh assumes the limits of pleasure to be infinite, and only infinite time would satisfy it. But the mind, grasping in thought what the end and limit of the flesh is, and banishing the terrors of futurity, procures a complete and perfect life and has no longer any need of infinite time." (Principal Doctrine 20, Hicks)
+> "The flesh assumes the limits of pleasure to be infinite, and only infinite time would satisfy it. But the mind, grasping in thought what the end and limit of the flesh is, and banishing the terrors of futurity, procures a complete and perfect life and has no longer any need of infinite time. Nevertheless, it does not shun pleasure, and even in the hour of death, when ushered out of existence by circumstances, the mind does not fail to enjoy the best life." (Principal Doctrine 20, Hicks)
 
 **Plain words**
-Your body's real list of needs is short, and plain food answers it fully when you are hungry. Luxury varies the meal; it does not move the limit. The feeling of "not enough" comes from the wanting, not from the plate. Once a week, eat one simple meal genuinely hungry, and notice how complete it is.
+An expensive meal need not give more pleasure. Epicurus asks us to consider what simple food can provide when we are hungry. Try the comparison and describe your experience without assuming how it will feel.
 
 **For example**
-In an imagined application, after a day of real work and no snacking, someone has plain rice and vegetables, and the meal answers the hunger completely — no restaurant required.
+In an imagined exercise, someone serves rice and vegetables and records their hunger before and after the meal.
 
 ## Psychology parallels
 
-- **[[Hedonic adaptation|Hedonic adaptation and the reset value of simplicity]]**, the research on how consumption escalates and how deliberate simplicity can reset the baseline (Frederick and Loewenstein, 1999; the [[Savoring|savoring]] research)
+- **[[Hedonic adaptation|Hedonic adaptation and the reset value of simplicity]]** (Frederick and Loewenstein, 1999; the [[Savoring|savoring]] research)
 
 ## Philosophy parallels
 
