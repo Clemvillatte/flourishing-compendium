@@ -12,13 +12,13 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 108** — Transcend the strands while acting
 
-The Gita's account of the person beyond the three qualities is not a claim about superiority; it is a list of what such a person does not do. He does not hate the qualities when they show up, and does not chase them when they leave. He is described as seated, unmoved, knowing that the qualities themselves are doing the acting.
+The verse the page points at lists a series of equalities and then names a person who has moved past the qualities. The list does not include anything about performing tasks under a dominant quality; that part is the compendium's application, and verse 14.25 in the same passage names abandoning undertakings, which sits in tension with scheduling work around a state.
 
-> "When light, activity and delusion are present, he hates them not, nor does he long for them when they are absent. He who, seated like one unconcerned, is not moved by the qualities, and who, knowing that the qualities are active, is self-centred and moves not, Who is the same in pleasure and pain, who dwells in the Self, to whom a clod of earth, stone and gold are alike, who is the same to the dear and the unfriendly, who is firm, and to whom censure and praise are as one, Who is the same in honour and dishonour, the same to friend and foe, abandoning all undertakings-he is said to have transcended the qualities." (Bhagavad Gita 14.22-25, Sivananda translation)
+> "He who, seated like one unconcerned, is not moved by the qualities, and who, knowing that the qualities are active, is self-centred and moves not." (Bhagavad Gita 14.23, Sivananda translation)
 
-**Plain words** The verse describes a person who is not at war with their own states. When tiredness, drive, or clarity arrive, that person does not hate them, and when they leave, does not chase them. Practically, when you notice a state has arrived, name it and continue with the task rather than treating the state as the task.
+**Plain words** The verse's image is of someone watching qualities arrive and leave without being moved by either direction. What the page adds as an exercise is narrower: when you notice approval or disapproval arriving, consider whether the next act would look the same if obtaining the one or avoiding the other were not the aim.
 
-*For example:* (Imagined.) Someone has a week where tamas dominates: the work feels heavy and the start is hard. They do not fight the heaviness or add a second project to compensate. They do the two-minute entry on the task at hand, keep the same schedule, and let the week pass without treating it as a verdict on their character.
+*For example:* (Imagined.) Someone receives an email of praise for a piece of work. Before replying, they ask whether the reply would change if the praise had not arrived. That is the compendium's exercise, not the verse's instruction.
 ## Psychology parallels
 
 - **[[Metacognitive regulation of state|Metacognitive regulation of state]]**, the capacity to observe and shift one's own arousal and engagement (Flavell, 1979; state-matching interventions)
