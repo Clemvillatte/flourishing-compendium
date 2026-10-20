@@ -197,3 +197,11 @@
 - The definition's ellipsis: the source sentence begins "Building on earlier definitions of courage (e.g., Hannah, Avolio, et al., 2011; Kidder, 2005; Sekerka et al., 2009), we define moral courage as follows:" — the blockquote starts at "...we define", ellipsis-marked.
 - Reciprocals: 4 filed (Courage built gradually, Character strengths (Peterson & Seligman), Authentic courage without props, Authenticity — backlink absence rg-verified). No inline filed.
 - Validator on final: ok. Seed line, Sources bullets, both Cited-in lists preserved.
+
+## Moral foundations (done 2026-10-20; w1f item 7; no advisor QC due at this cadence)
+
+- Opened: Graham, Haidt, Koleva, Motyl, Iyer, Wojcik and Ditto 2013, "Moral Foundations Theory: The Pragmatic Validity of Moral Pluralism" (Advances in Experimental Social Psychology vol. 47, chapter PDF): https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/1/863/files/2020/06/Graham-et-al-2013.AESP_.pdf — five-foundations sentence, Liberty/oppression sixth-foundation sentence, pre-2012 renaming footnote, care-and-fairness political-spectrum sentence, moral-intuition definition, "Intuitions come first, strategic reasoning second" all verified verbatim via the fetched full text.
+- NOT opened: Haidt 2012 The Righteous Mind (book) — its claims appear only as the chapter's own report of them (sixth-foundation proposal, renaming), attributed as such.
+- Dashes fix: intuition-definition sentence moved to a standalone blockquote to stay under the prose em-dash budget.
+- Reciprocals: 4 filed (Cultural psychology, Cultural evolution theory, Corrective justice, Moral courage research — backlink absence rg-verified). No inline filed.
+- Validator on final: ok. Seed line, Sources bullets, both Cited-in lists preserved.
