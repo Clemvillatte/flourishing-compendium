@@ -12,11 +12,25 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BI — Biophysi
 ---
 > **Principle 26** — Learn that strength training is also effective for mental health
 
-Strength training (resistance exercise) is also effective for mental health. It improves mood, self-esteem, and cognitive function, and reduces depression and anxiety.
+> Resistance exercise training significantly reduced depressive symptoms among adults regardless of health status, total prescribed volume of RET, or significant improvements in strength.
 
-**Plain words** Strength training also works for mood — lifts, resistance, carries. Improves self-esteem, cognition, and depression scores. You don't need to become a gym person; you need to move something heavy twice a week.
+(Gordon, McDowell, Hallgren, Meyer, Lyons and Herring, "Association of Efficacy of Resistance Exercise Training With Depressive Symptoms," JAMA Psychiatry 75(6), 2018, abstract; [PubMed](https://pubmed.ncbi.nlm.nih.gov/29800984/). RET is resistance exercise training.)
 
-*For example:* The person who "doesn't do gyms" doing two weekly sessions with soup cans and a backpack — the mood benefits don't care about the equipment. Heavy is relative; the effect isn't.
+That meta-analysis pooled 33 randomized trials with 1,877 participants and reported a moderate mean effect of 0.66 (95% CI 0.48 to 0.83). The authors also noted that smaller reductions came from trials that blinded allocation or assessment, and called for better-quality trials that compare lifting with other treatments for depression.
+
+A second meta-analysis by the same group, covering 16 articles and 922 participants, found a smaller effect for anxiety: "RET significantly reduced anxiety symptoms (Δ = 0.31, 95% CI 0.17-0.44)." Its conclusion was that "RET significantly improves anxiety symptoms among both healthy participants and participants with a physical or mental illness" (Gordon, McDowell, Lyons and Herring, Sports Medicine 47(12), 2017, abstract; [PubMed](https://pubmed.ncbi.nlm.nih.gov/28819746/)).
+
+The entry's further claims that strength training raises self-esteem and cognitive function were not found in these two abstracts. The self-esteem parallel citing Gordon et al. (2018) does not match that paper, which is about depression. Neither claim is made here.
+
+**Plain words** Lifting weights, or anything similarly demanding, lowered depression and anxiety scores in trials. The effect on depression was moderate and the effect on anxiety smaller. Getting measurably stronger did not seem to be required for the mood benefit.
+
+*For example (imagined):* Someone who dislikes gyms does squats and rows with a loaded backpack twice a week at home. The research behind this entry looked at structured programmes, so a home version is a reasonable bet and has not been tested here.
+
+## Sources
+
+- [Gordon et al. (2018), JAMA Psychiatry 75(6), 566-576](https://pubmed.ncbi.nlm.nih.gov/29800984/) — PubMed abstract opened
+- [Gordon et al. (2017), Sports Med 47(12), 2521-2532](https://pubmed.ncbi.nlm.nih.gov/28819746/) — PubMed abstract opened
+
 ## Psychology parallels
 
 - **Strength training and depression**, resistance exercise reduces depressive symptoms (Gordon et al., 2018; Stathopoulou et al., 2006)

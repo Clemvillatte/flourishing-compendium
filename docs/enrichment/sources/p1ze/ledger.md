@@ -158,3 +158,8 @@ Per-item evidence notes (owner concise-bar items 6-7). Manifest: BE012..CO061, 3
 - Sources opened: PubMed abstracts for Chang et al. 2015 (PMID 25535358), Wright et al. 2013 (23910656), Hale & Guan 2015 (25193149). Quotes verified verbatim against abstracts.
 - Removed unsourced claims ("cheapest antidepressant", "sky is the real dose", "weak sauce"). Czeisler 1989 not opened; stated as such in the body.
 - QC: self-QC only; validator pass vs c2a3ee47.
+
+## BI026 — Strength training and mental health
+- Sources opened: PubMed abstracts Gordon et al. 2018 (29800984), Gordon et al. 2017 (28819746). Quotes verified verbatim.
+- Dropped unsupported self-esteem/cognition claims; flagged that the self-esteem parallel (Gordon 2018) does not match that paper. Stathopoulou 2006 and Tucker 2002 not opened.
+- QC: self-QC only; validator pass.
