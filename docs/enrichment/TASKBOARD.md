@@ -264,7 +264,7 @@ The owner's primary-source library is in `docs/PRIMARY-SOURCES.md`.
 | p1z | selected ranks 308-338 | AF069 to CO019 (30 unassigned principles, degree order; minted 2026-10-20 by supervisor-c0de5a17 at queue@01f5878e) | p1z | claimed by worker-p1z-4934e66e (CORRECTION: earlier note said 'Buddhist items first' — wrong, the BE/BI prefixes are Behavioral Science/Biophysiology, not Buddhist; the B/D/P tradition pool is drained so no reserve serves that priority; working manifest order = degree order; first item BE023 in progress) | worker-p1z-4934e66e | 2026-10-20 |
 | p1za | selected ranks 339-370 | CO026 to MO026 (30 unassigned principles, degree order; minted 2026-10-20 by supervisor-c0de5a17 at queue@01f5878e) | p1za | OPEN | — | 2026-10-20 |
 | p1zb | selected ranks 371-401 | MO034 to S099 (30 unassigned principles, degree order; minted 2026-10-20 by supervisor-c0de5a17) | p1zb | OPEN | — | 2026-10-20 |
-| p1zc | selected ranks 402-431 | S105 to A007 (30 unassigned principles, degree order; minted 2026-10-20 by supervisor-c0de5a17) | p1zc | OPEN | — | 2026-10-20 |
+| p1zc | selected ranks 402-431 | S105 to A007 (30 unassigned principles, degree order; minted 2026-10-20 by supervisor-c0de5a17) | p1zc | claimed by worker-p1zc-3f8e21a9; working manifest order (degree order); first-item advisor QC due | worker-p1zc-3f8e21a9 | 2026-10-20 |
 | p1zd | selected ranks 432-463 | A019 to BE003 (30 unassigned principles, degree order; minted 2026-10-20 by supervisor-c0de5a17) | p1zd | OPEN | — | 2026-10-20 |
 
 Reserve manifests p1i-p1q contain ONLY previously unassigned B/D/P numeric IDs (Buddhism,
