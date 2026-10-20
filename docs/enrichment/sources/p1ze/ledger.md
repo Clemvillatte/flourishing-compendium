@@ -195,3 +195,8 @@ Per-item evidence notes (owner concise-bar items 6-7). Manifest: BE012..CO061, 3
 - Counter-evidence added (imagery suppression not specific to worry; autonomic rigidity not supported). The entry's "reduces physiological arousal" is narrower in Borkovec & Hu: reduced heart-rate response, but greater subjective fear.
 - D'Zurilla & Nezu 2007, Borkovec 1983 (stimulus-control paper, title only) not used/opened.
 - QC: self-QC only; validator pass.
+
+## CO056 — Use memory deliberately
+- Sources opened: PubMed abstracts for Roediger & Karpicke 2006, Cepeda et al. 2006, Mawson & Kang 2025, quizzing meta-analysis (33683913), Rawson & Dunlosky 2011. Quotes verified verbatim.
+- Craik & Lockhart 1972 not opened; philosophy parallels (Cicero, Aristotle) not opened. Dropped the "I'm bad at names / method not capacity" claim (unsourced).
+- QC: self-QC only; validator pass.
