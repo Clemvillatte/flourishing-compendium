@@ -19,7 +19,8 @@
   "B111",
   "B121",
   "B136",
-  "B137"
+  "B137",
+  "B138"
  ],
  "in_progress": null,
  "flagged": {
@@ -30,7 +31,7 @@
   "B076": "Reopened for QC: QC round: remove unsupported contact-link equivalence"
  },
  "missing_concepts": [],
- "sources_checked": 30,
- "updated": "2026-10-20T02:02:29+00:00",
+ "sources_checked": 32,
+ "updated": "2026-10-20T02:03:06+00:00",
  "band_done": false
 }

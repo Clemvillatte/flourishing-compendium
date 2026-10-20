@@ -372,3 +372,18 @@ priority, then B items in manifest order (manifest lists bare IDs; no titles).
   own chain framing.
 - Limitations: inherited parallels (Goldstone 1998; Lutz et al. 2008; Hanson; Kuhn)
   NOT opened; flagged inherited parallels.
+
+## B138 — Empty the relations too (who bows to whom?)
+
+- Opened (direct download + local extraction): the Price and Wong Mou-Lam Diamond
+  Sutra PDF at https://ia802808.us.archive.org/18/items/the_diamond_sutra_english/the_diamond_sutra_english.pdf
+  — sections III and IV.
+- Verbatim quotes used: section III's "no being has been liberated... no Bodhisattva
+  who is a real Bodhisattva cherishes the idea of an ego-entity, a personality, a
+  being, or a separated individuality"; section IV's charity-without-regard
+  instruction. The bowing image is the compendium's framing (the sutra sections
+  used do not mention bowing); labelled as reading in the second paragraph.
+- "Love the verb, not the frozen nouns" quip removed; the roles/costumes exercise
+  re-derived; the anxious/avoidant couple kept in the example (imagined, labelled).
+- Limitations: inherited parallels (Cross et al. 2000; Buber; Levinas) NOT opened;
+  flagged inherited parallels.
