@@ -192,6 +192,25 @@ a principle reserve from the active supervisor.
 - Saturation: fast-track exemption; no new link or reciprocal.
 - QC: literal source match, retained subheading and preservation validator before done.
 
+## Stress cycle completion (Nagorski, Sapolsky)
+
+- Track: fast-track, current degree 8 (all principles).
+- Opened 2026-10-20:
+  https://www.penguin.co.uk/discover/articles/complete-stress-cycle-emotional-exhaustion-burnout ,
+  Emily and Amelia Nagoski, 2019 publisher excerpt from Burnout.
+  Search: Nagoski complete stress response cycle Burnout.
+- Primary author exposition confirms the named practical framework. Not an
+  academic validation paper or direct evidence for every therapeutic claim in
+  the excerpt. Page reports the authors' framework, with attribution throughout.
+- Quote: exact sentence beginning “You can notice that something in your body.”
+- Removed unsupported direct movement/recovery assertion. No cortisol
+  discharge, stored trauma, guaranteed nervous-system reset or fixed hugging
+  duration claim. Inherited Sapolsky reference not certified.
+- Attribution issue: title says Nagorski; actual source authors are Nagoski.
+  Supervisor proposal in w1i-proposals.md; no protected identifier changed.
+- Saturation: fast-track exemption. Existing links preserved, no reciprocal.
+- QC: literal quote match, retained subheading and preservation validator before done.
+
 ## Social support theory Cohen Wills
 
 - Track: fast-track, current degree 8 (all principles).

@@ -7,13 +7,22 @@ file: "Stress cycle completion (Nagorski, Sapolsky)"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-S"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-completing the stress response through movement helps the body recover (Nagorski, 2019; Sapolsky, 2004).
+In Burnout, Emily Nagoski and Amelia Nagoski describe completing the stress cycle as a shift from stress toward relief ([publisher excerpt, 2019](https://www.penguin.co.uk/discover/articles/complete-stress-cycle-emotional-exhaustion-burnout)). They distinguish dealing with the stress response from changing the situation that caused it, and discuss movement, breathing, affection and creative expression among their strategies ([excerpt](https://www.penguin.co.uk/discover/articles/complete-stress-cycle-emotional-exhaustion-burnout)).
+
+> You can notice that something in your body has changed, shifted in the direction of peace.
+>
+> Emily Nagoski and Amelia Nagoski, Burnout, [publisher excerpt, “How do you know you've completed the cycle?”](https://www.penguin.co.uk/discover/articles/complete-stress-cycle-emotional-exhaustion-burnout).
+
+### Recognizing a change
+
+The authors describe noticing changes in mood, mental state or physical tension as signs of this shift ([“How do you know”](https://www.penguin.co.uk/discover/articles/complete-stress-cycle-emotional-exhaustion-burnout)). They also describe partial relief without the full relaxation they associate with completion ([same section](https://www.penguin.co.uk/discover/articles/complete-stress-cycle-emotional-exhaustion-burnout)).
 
 ## Sources
 
 - Nagorski, 2019
 
 - Sapolsky, 2004
+- [Emily Nagoski and Amelia Nagoski, excerpt from Burnout, published by Penguin, March 14, 2019](https://www.penguin.co.uk/discover/articles/complete-stress-cycle-emotional-exhaustion-burnout): the authors' practical framework and description of subjective relief.
 
 ## Cited in psychology parallels
 
