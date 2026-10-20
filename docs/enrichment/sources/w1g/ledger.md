@@ -527,3 +527,21 @@
   noted in the replacement Sources entry.
 - Validation: --fast-track ok (concept <15 connections; prose minimum waived; all other
   checks pass). Build ok (5718 entries, fcAuthored 976).
+
+## Art as experience (2026-10-20, fast-track; degree 9 — eligible)
+
+- OPENED: John Dewey, Art as Experience (1934, Perigee 1980 printing), full text on
+  the Internet Archive (https://archive.org/details/deweyjohnartasanexperience) —
+  PDF downloaded and read directly. Chapter 1 thesis sentence quoted verbatim
+  (verified in the raw extracted text: "This task is to restore continuity between
+  the refined and intensified forms of experience that are works of art and the
+  everyday events, doings, and sufferings that are universally recognized to
+  constitute experience."; the source PDF's OCR line-break hyphenation "con
+  tinuity"/"suffer ings" de-hyphenated, no other changes). The closing paraphrases
+  the immediately following sentence ("Mountain peaks do not float unsupported"),
+  verified in the raw text. One verbatim blockquote used.
+- IS-IT-A-CONCEPT check: no flag needed — "Art as Experience" is the book's own
+  title, and the page's title is that title. Grep at this round: no entry in
+  concept-namespace-audit.md for this concept (clean).
+- Validation: --fast-track ok (concept <15 connections; prose minimum waived; all other
+  checks pass). Build ok (5718 entries, fcAuthored 976).

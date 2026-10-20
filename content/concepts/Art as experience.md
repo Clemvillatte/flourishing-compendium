@@ -7,15 +7,15 @@ file: "Art as experience"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-A"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter A", "parent": ""}
 ---
-“Art as experience” — Dewey, Art as Experience.
+Dewey's 1934 book on aesthetics opens by naming the task that governs everything after it: to restore continuity between art and the ordinary experience from which it arises. ([Dewey, Art as Experience, 1934](https://archive.org/details/deweyjohnartasanexperience))
 
-## Facets
+> "This task is to restore continuity between the refined and intensified forms of experience that are works of art and the everyday events, doings, and sufferings that are universally recognized to constitute experience." (Dewey, Art as Experience, ch. 1, [Internet Archive](https://archive.org/details/deweyjohnartasanexperience))
 
-- **research** — Dewey, Art as Experience
+The book's next sentence makes the point in an image: mountain peaks do not float unsupported. Works of art are the refined and intensified forms of what everyday life already contains, so the aesthetic is not a separate realm but the consummation of ordinary experience. ([Dewey, Art as Experience, 1934](https://archive.org/details/deweyjohnartasanexperience))
 
 ## Sources
 
-- Dewey, Art as Experience
+- John Dewey, Art as Experience (1934), chapter 1 ("The Live Creature"), full text at [Internet Archive](https://archive.org/details/deweyjohnartasanexperience)
 
 ## Cited in philosophy parallels
 
