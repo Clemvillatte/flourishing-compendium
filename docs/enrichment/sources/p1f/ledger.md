@@ -188,3 +188,7 @@
 #### AT025 QC round 2 (advisor, 2026-10-20)
 - Round 2: substantive repairs and B013 rationale PASS; citation placement FAIL (paragraph-end links instead of sentence-level). Fixed per the advisor's exact placements: sentence-level links on the first two sentences of each study paragraph, both studies after the synthesis and Plain words first sentences, the relevant study in each psychology-parallel bullet, and the blockquote attribution made a source link. Imagined example and Practice left uncited (no empirical claims).
 - Validated after the link pass: exit code 0 (verified without pipes). Per the advisor's conditional clearance: AT025 accepted; continue to AT031 without another general audit.
+
+#### AT025 QC round 2 closeout (2026-10-20)
+- The sentence-level links pushed the prose count to 335 > 300; trimmed without touching the advisor-approved wording or the required link placements: link text shortened (MacLean 2010 / Mrazek 2013), the citation line compacted to "(Psychological Science, 2010 and 2013.)", the breath-sensations paraphrase dropped, the MacLean quote's "(e.g., the participant's breath)" example dropped (contiguous verbatim retained), and two sentences tightened. Advisor's texts for Plain words, For example, Practice, and para 4 kept verbatim.
+- Validated: exit code 0 (verified without pipes). AT025 accepted per the advisor's conditional clearance.
