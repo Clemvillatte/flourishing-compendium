@@ -12,18 +12,23 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 63** — Hold one practice to steady the mind
 
-The immediate remedy given for the obstacles is singular: the mind is steadied by one principle, one practice, held. The instruction targets the collector's vice, the habit of abandoning a practice at the first plateau for a new one. Practically, choose one steadying practice for a season and let everything else orbit it.
+Patanjali's list of what scatters a mind comes first: "The barriers to interior consciousness, which drive the psychic nature this way and that, are these: sickness, inertia, doubt, lightmindedness, laziness, intemperance, false notions, inability to reach a stage of meditation, or to hold it when reached." ([Yoga Sutras 1.30, Johnston translation](https://www.gutenberg.org/ebooks/2526)) Then the single remedy:
 
-(YS 1.32.)
+> "Steady application to a principle is the way to put a stop to these." ([YS 1.32](https://www.gutenberg.org/ebooks/2526))
 
-**Plain words** The immediate remedy for the obstacles is singular: the mind is steadied by one principle, one practice, held. The instruction targets the collector's vice — abandoning a practice at the first plateau for a new one. Choose one steadying practice and hold it.
+Johnston's comment on the verse: "The remedy is a return to the pristine state of the will, by vigorous, positive effort; or, as we are here told, by steady application to a principle." ([commentary on YS 1.32](https://www.gutenberg.org/ebooks/2526))
 
-*For example:* Someone with a shelf of meditation apps, each used for three weeks — versus the one who's done the same unglamorous ten minutes for four years. Only one of them has a practice; the other has a collection.
+The compendium's application: choose one steadying practice for a season and let everything else orbit it.
+
+**Plain words** A scattered mind has a long list of causes and one remedy on the list: pick a single practice and keep at it. The failure mode the remedy targets is the collection, a shelf of practices each dropped when the novelty wears off.
+
+*For example:* Someone with a shelf of meditation apps, each used for three weeks, next to the person who has done the same unglamorous ten minutes for four years.
 ## Psychology parallels
 
-- **Consistency over variety in habit formation**, the central role of repetition context (Lally et al., 2010)
+- **Consistency over variety in habit formation** (Lally et al., 2010)
 
 ## Philosophy parallels
 
 - **[[One thing necessary|One thing necessary]]** (Gospel of Luke 10.42, as cultural parallel)
-- **[[One koan|One koan]]** (Zen tradition, The Gateless Gate)- **[[Abhyasa|Abhyasa]]** (Yoga-Vedanta)
+- **[[One koan|One koan]]** (Zen tradition, The Gateless Gate)
+- **[[Abhyasa|Abhyasa]]** (Yoga-Vedanta)
