@@ -1,7 +1,7 @@
 # Clinical thresholds — evidence (w1c)
 
-- Fast-track item (graph degree 10 at selection: 10 principle connections, no
-  concept/kernel/story edges). Seed
+- Fast-track item (graph degree 10, unchanged by enrichment: 10 principle
+  connections, no concept/kernel/story edges; no Related links added). Seed
   body was one line. Front-matter, Sources lines and Cited-in sections preserved;
   no Related-concepts section existed and none added (no existing concept
   neighbour jumped out; validator warning non-blocking).

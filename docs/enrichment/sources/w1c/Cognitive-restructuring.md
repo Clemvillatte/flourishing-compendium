@@ -1,7 +1,8 @@
 # Cognitive restructuring — evidence (w1c)
 
-- Fast-track item (graph degree 14 at selection: 4 concept + 2 kernel + 8
-  principle connections). Seed body was a
+- Fast-track item (selection-time graph degree 11: 1 concept + 2 kernel + 8
+  principle connections, verified at item start; current observed degree after
+  enrichment is 14 — my three bare Related links added concept edges). Seed body was a
   sentence fragment; Facets labels and Related-concepts line were inherited and
   preserved. Facet clauses and In-the-compendium lines added.
 - Opened 2026-10-20 (all verbatim quotes verified from the opened pages;

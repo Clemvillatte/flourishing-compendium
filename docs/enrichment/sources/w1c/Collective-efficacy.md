@@ -1,7 +1,8 @@
 # Collective efficacy — evidence (w1c)
 
-- Fast-track item (graph degree 14 at selection: 4 concept + 10 principle
-  connections). Seed body was a
+- Fast-track item (selection-time graph degree 11: 1 concept + 10 principle
+  connections, verified at item start; current observed degree after
+  enrichment is 14 — my three bare Related links added concept edges). Seed body was a
   citation fragment; Related-concepts line inherited and preserved.
 - Opened 2026-10-20: Bandura, "Exercise of Human Agency Through Collective
   Efficacy", Current Directions in Psychological Science 9(3), 2000 — full-text

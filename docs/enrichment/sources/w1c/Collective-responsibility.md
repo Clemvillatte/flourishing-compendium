@@ -1,7 +1,9 @@
 # Collective responsibility — evidence (w1c)
 
-- Fast-track item (graph degree 12 at selection: 2 concept + 5 kernel + 3
-  principle + 2 story connections). Seed body was a citation fragment; no Related-concepts section
+- Fast-track item (current observed graph degree after enrichment: 12 = 2
+  concept + 5 kernel + 3 principle + 2 story connections; selection-time
+  count not separately verified — my two bare Related links may account for
+  the concept edges). Seed body was a citation fragment; no Related-concepts section
   existed; inherited kernel/principle citation lines below Sources preserved
   as-is.
 - Opened 2026-10-20: Young, "Responsibility and Global Justice: A Social
