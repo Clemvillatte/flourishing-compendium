@@ -12,11 +12,19 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 ---
 > **Principle 12** — Know that thinking is both individual and collective: schemas are shared
 
-Your mental schemas — the frameworks through which you interpret the world — are not purely personal. They are shaped by culture, language, education, and social group. What feels like "obvious" interpretation is often culturally specific.
+A Psychological Review paper comparing East Asian and Western cognition reports systematic differences in how the two groups attend and explain: East Asians holistic, attending to the entire field and assigning causality to it, making relatively little use of categories and formal logic, and Westerners more analytic, paying attention primarily to the object and the categories to which it belongs and using rules, including formal logic ([Nisbett, Peng, Choi & Norenzayan 2001](https://pubmed.ncbi.nlm.nih.gov/11381831/)). The same paper speculates that the origin of these differences is traceable to markedly different social systems, which is the collective half of this principle: the frameworks come from somewhere social, not straight from the world.
 
-**Plain words** Your mental schemas — the frameworks you interpret the world through — are shaped by culture, language, education, and social group. What feels like "obvious" is often just "local." Knowing this is the beginning of actually thinking, rather than being thought.
+> "The authors speculate that the origin of these differences is traceable to markedly different social systems." (Nisbett et al. 2001, [Psychological Review](https://pubmed.ncbi.nlm.nih.gov/11381831/))
 
-*For example:* The "obvious" career path that turns out to be a 1960s middle-class schema running a 2020s life — and the person who finally sees the schema as a setting, not a truth, can change it. The obviousness was never evidence.
+**Plain words**
+The frameworks you think with, what counts as a good job, a fair argument, a normal life, were mostly absorbed from the people around you. The tell is that people raised elsewhere find different things obvious. When an interpretation feels like just the way things are, that feeling is evidence about where it came from, not about whether it is true.
+
+*For example:* An imagined case: someone who took a mid-century middle-class script as the shape of a normal life finds that its rungs, one profession, one employer, one sequence, fit the world less and less. Seeing the script as a setting, not a truth, is the moment it becomes editable.
+
+## Sources
+
+- [Nisbett, Peng, Choi & Norenzayan, "Culture and systems of thought: holistic versus analytic cognition," Psychological Review 108(2) (2001)](https://pubmed.ncbi.nlm.nih.gov/11381831/) — abstract
+
 ## Psychology parallels
 
 - **Schemas are culturally transmitted**, interpretation frameworks differ across cultures (Nisbett & Miyamoto, 2005; Markus & Kitayama, 1991)
