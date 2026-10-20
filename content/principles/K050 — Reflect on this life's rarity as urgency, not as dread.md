@@ -12,14 +12,30 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 50** — Reflect on this life's rarity as urgency, not as dread
 
-The lamrim's "precious human birth" reflection: the capacities you currently have (health, freedom, literacy, time) are rare in the human record, and the reflection's function is to convert them from background assumptions into foreground fuel. The tradition pairs it deliberately with impermanence so that urgency does not curdle into anxiety: the point is not that time is short, it is that the capacity is now. Practically, once a week, inventory the capacities you are currently treating as permanent and pick one to use before its window narrows.
+The Pali canon gives the rarity image its most famous form in a sutta on the four truths. The Buddha sets up a simile: the great earth covered with water, a yoke with a single hole drifting on the winds, and a blind sea turtle surfacing once every hundred years. The monks answer:
 
-(Tsongkhapa's lamrim, the precious human life chapter; the lojong preliminaries.)
+> It would be a sheer coincidence, lord, that the blind sea turtle, coming to the surface once every one hundred years, would stick his neck into the yoke with a single hole.
 
-**Plain words** The capacities you have now, health, freedom, literacy, time, are rare across human history. The reflection turns them from background assumptions into fuel. It's paired with impermanence so urgency doesn't turn into anxiety. The point is to use them, not to panic.
+And the Buddha replies:
 
-*For example:* Reading a book on a quiet afternoon and remembering that for most people in history that would have been impossible. You read it differently.
+> It's likewise a sheer coincidence that one obtains the human state. It's likewise a sheer coincidence that a Tathāgata, worthy & rightly self-awakened, arises in the world. It's likewise a sheer coincidence that a Dhamma & Vinaya expounded by a Tathāgata appears in the world. Now, this human state has been obtained. A Tathāgata, worthy & rightly self-awakened, has arisen in the world. A Dhamma & Vinaya expounded by a Tathāgata appears in the world.
 
+The sutta then turns the rarity into a duty, not a dread:
+
+> "Therefore your duty is the contemplation, 'This is stress … This is the origination of stress … This is the cessation of stress.' Your duty is the contemplation, 'This is the path of practice leading to the cessation of stress.'"
+
+The compendium's exercise keeps the sutta's move: rarity noticed, then used as a prompt for what to do now.
+
+(Saṃyutta Nikāya 56.48, Chiggaḷa Sutta, trans. Ṭhānissaro Bhikkhu.)
+
+**Plain words**
+The image is about odds: a blind turtle surfacing once a century, a single-hole yoke drifting somewhere on the sea. A human life is that kind of coincidence. The sutta does not stop at the odds; it says the state has been obtained and names a duty. The compendium's exercise: when you catch yourself taking the capacities of this life as background, pick one and use it today.
+
+*For example:* Someone with a free Saturday, working eyes, and an unread library book does the reflection in one line: for most of the human record that combination did not exist. The exercise is to read the book.
+
+## Sources
+
+- [Chiggaḷa Sutta (SN 56.48), trans. Ṭhānissaro Bhikkhu (dhammatalks.org)](https://www.dhammatalks.org/suttas/SN/SN56_48.html) — blind sea turtle simile; "sheer coincidence" passages; "Now, this human state has been obtained"; "Therefore your duty is the contemplation..."
 ## Psychology parallels
 
 - **[[Gratitude|Gratitude and presence effects of scarcity framing]]**, the research on how perceived finitude increases [[Savoring|savoring]] and appreciation (Cozzolino, 2006; the mortality-salience literature's constructive branch)

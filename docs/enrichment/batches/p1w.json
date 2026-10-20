@@ -15,7 +15,8 @@
   "E039",
   "E079",
   "E088",
-  "E091"
+  "E091",
+  "K050"
  ],
  "in_progress": null,
  "flagged": {
@@ -33,6 +34,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T08:13:20+00:00",
+ "updated": "2026-10-20T08:16:24+00:00",
  "band_done": false
 }
