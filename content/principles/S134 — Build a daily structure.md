@@ -12,13 +12,21 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 256** — Build a daily structure
 
-The Stoic life has a structure: morning premeditation, daily practice, evening review. This structure is the container for the philosophy. Without structure, the practices drift away. Build a simple daily structure that holds your Stoic practice.
+Marcus opens Meditations II.1 by anticipating the day's difficult encounters and reminding himself that people are made for co-operation:
 
-(Med. II.1, V.1; Seneca, Letters 16, 83, 101; Disc. I.1, I.4, III.12, III.23; Ench. 1-3, 29, 40, 51; Musonius Rufus, Lectures.)
+> Begin the morning by saying to thyself, I shall meet with the busy-body, the ungrateful, arrogant, deceitful, envious, unsocial. (Med. II.1, [Long](https://classics.mit.edu/Antoninus/meditations.2.two.html))
 
-**Plain words** Morning rehearsal, daily practice, evening review — a simple frame that holds the whole philosophy upright. Without structure, practice evaporates into good intentions. Build the smallest container that survives your worst week.
+In On Anger III.36, Seneca describes Sextius questioning his spirit on retiring to rest, then his own nightly review of words and deeds:
 
-*For example:* The shift worker whose practice survives everything because it's bolted to fixed points: two minutes with coffee, a note on the locker at shift's end.
+> The spirit ought to be brought up for examination daily. (Seneca, On Anger 3.36, [Stewart](https://en.wikisource.org/wiki/Of_Anger/Book_III))
+
+The compendium combines these passages into a suggested routine: prepare for a difficult encounter, then return to it afterwards to examine your conduct. Give each step a regular place in the day.
+
+(Med. II.1; Seneca, On Anger 3.36.)
+
+**Plain words** Give the practice a place in your day. Before work, choose one interaction you want to handle thoughtfully. Afterwards, recall what you said and consider what you would change. Those two steps, at the same two points each day, are the routine.
+
+*For example:* (imagined) Before a shift, a nurse considers how she wants to respond to interruptions. Afterwards, she reviews an impatient reply and notes how she would handle a similar interruption next time.
 ## Psychology parallels
 
 - **[[Habit formation|Habit formation]]** (Lally et al., 2010; Wood and Neal, 2007)
@@ -28,3 +36,8 @@ The Stoic life has a structure: morning premeditation, daily practice, evening r
 
 - **[[Daily architecture|Daily architecture]]** (Buddhist tradition)
 - **[[Education as growth|Education as growth]]** (Dewey, Democracy and Education)
+
+## Sources
+
+- [Marcus Aurelius, Meditations II.1 (George Long), Internet Classics Archive](https://classics.mit.edu/Antoninus/meditations.2.two.html) — the morning rehearsal
+- [Seneca, On Anger III.36 (Aubrey Stewart), Wikisource](https://en.wikisource.org/wiki/Of_Anger/Book_III) — the nightly examination custom

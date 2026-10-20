@@ -24,9 +24,10 @@
   "S096",
   "S112",
   "S128",
-  "S131"
+  "S131",
+  "S134"
  ],
- "in_progress": "S134",
+ "in_progress": null,
  "flagged": {
   "R091": "Buber quoted second-hand via Wilde 2021 (pp.112,115); 'shared reality'/'tools or weapons' are compendium glosses; Hardin&Higgins 1996 not opened",
   "R094": "Levinas quoted from UT dossier of Lingis trans. (pp.114,118); Batson 2011 not opened; 'ground your selfhood' is compendium gloss",
@@ -55,5 +56,5 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:09:23+00:00"
+ "updated": "2026-10-20T11:13:50+00:00"
 }

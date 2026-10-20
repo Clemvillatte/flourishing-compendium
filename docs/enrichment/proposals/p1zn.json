@@ -1,0 +1,25 @@
+{
+ "batch": "p1zn",
+ "revision": 2,
+ "reciprocal": [
+  {
+   "into": "Daily architecture",
+   "link": "S134",
+   "why": "the principle that gives the morning intention and evening review described here a fixed daily container",
+   "notes": "Evidence in sources/p1zn/ledger.md S134 (Marcus Med. II.1 Long; Seneca On Anger 3.36, both opened)."
+  },
+  {
+   "into": "Morning intention",
+   "link": "S134",
+   "why": "the morning half of the routine; S134 supplies the daily container and the evening half",
+   "notes": "Evidence in sources/p1zn/ledger.md S134."
+  },
+  {
+   "into": "The evening review",
+   "link": "S134",
+   "why": "the evening half of the routine; S134 supplies the daily container and the morning half",
+   "notes": "Evidence in sources/p1zn/ledger.md S134 (Seneca On Anger 3.36 opened)."
+  }
+ ],
+ "inline": []
+}
