@@ -12,13 +12,19 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 86** — Recognise that pain is not always bad
 
-Some pain is necessary for growth. The person who avoids all pain becomes incapable of courage, endurance, or achievement. Do not flee all discomfort. Distinguish necessary pain from unnecessary suffering, and accept the former.
+Book II of the Ethics argues that moral excellence is concerned with pleasures and pains: it is on account of pleasure that we do bad things, and on account of pain that we abstain from noble ones, so the right education trains us "both to delight in and to be pained by the things that we ought" (II.3). Pain in the right place belongs to the good life. Book VII sorts the badness: "some pain is without qualification bad, and other pain is bad because it is in some respect an impediment to us" (VII.13). The principle's work is the sorting: pain is not one thing, and the practical question about any given pain is which kind it is.
 
-(NE VII.13, VII.14, II.3, II.9; EE II.8.)
+(NE II.3, VII.13; EE II.8 not opened.)
 
-**Plain words** Some pain is the price of growing. If you dodge all of it, you can't be brave, patient, or achieve much. Aristotle's advice: tell necessary pain from pointless suffering, and accept the necessary kind.
+> For moral excellence is concerned with pleasures and pains; it is on account of the pleasure that we do bad things, and on account of the pain that we abstain from noble ones. Hence we ought to have been brought up in a particular way from our very youth, as Plato says, so as both to delight in and to be pained by the things that we ought; for this is the right education.
+>
+> Aristotle, Nicomachean Ethics II.3, translated by W. D. Ross, [full text](https://people.bu.edu/wwildman/courses/wphil/readings/wphil_rdg09_nichomacheanethics_entire.htm).
 
-*For example:* Sore muscles after a first week of training are the price of getting fitter. A badly fitting shoe that rubs a blister isn't.
+**Plain words**
+Two truths at once: some pain is simply bad and worth avoiding, and some pain is what doing the right thing feels like from inside. Aristotle's test is not how much it hurts but what the pain is attached to: pain at the right thing is part of a trained character, pain that only impedes you is just a cost.
+
+**For example**
+Sore muscles after a first week of training are what getting fitter feels like. A badly fitting shoe that rubs a blister is a cost with nothing attached to it.
 
 ## Psychology parallels
 
@@ -29,6 +35,10 @@ Some pain is necessary for growth. The person who avoids all pain becomes incapa
 
 - **The obstacle is the way** (Marcus Aurelius, Meditations V.20)
 - **Let obstruction do its work** (Dewey, Experience and Nature)
+
+## Sources
+
+- [Nicomachean Ethics, Ross translation, full text (people.bu.edu mirror)](https://people.bu.edu/wwildman/courses/wphil/readings/wphil_rdg09_nichomacheanethics_entire.htm) — II.3, VII.13
 
 <!-- fc: reflections
 What discomfort are you avoiding that would help you grow? And what pain are you putting up with that serves nothing?
