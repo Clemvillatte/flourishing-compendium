@@ -621,3 +621,17 @@
   P095 precedent for unopened seed locators). Reciprocal proposal
   P096 <-> P153 recorded in proposals/p1o.json (P096 is p1t,
   released).
+
+### P153 advisor QC round 2 (2026-10-20, worker-p1o-72a54432)
+- Round-2 narrow repairs applied: 'Because the situation is never
+  complete, what you do becomes part of what it turns out to be'
+  inference deleted (source says nature is never complete, not every
+  situation); Plain-words closer deleted (humanizer redundant-closer
+  pattern); proposal why-clause rewritten to the advisor's reader-facing
+  clause and recorded as a single P096 -> P153 direction (one record does
+  not establish a two-way link). Fetch attempt on the PDF URL recorded:
+  fetch_url crawler fails with bad_robots_code (same crawler limit as
+  the Peirce folder in PRIMARY-SOURCES); the curl download + local
+  pdftotext extraction remains the source evidence. Validator re-run ok
+  after repairs; build ok. Item recorded QC-pending acceptance until
+  this verification was pushed (pushed with this commit).

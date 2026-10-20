@@ -22,10 +22,10 @@ Whitehead describes entities as passing from multiplicity into unity, and he des
 >
 > (Part IV, "The Theory of Extension", Ch. I, "Coordinate Division")
 
-The compendium borrows these two descriptions as an invitation to consider what an action contributes to an unfolding situation. Because the situation is never complete, what you do becomes part of what it turns out to be. The principle's call for gratitude and seriousness belongs to that practical reading; the descriptions above carry no such instruction on their own.
+The compendium borrows these two descriptions as an invitation to consider what an action contributes to an unfolding situation. The principle's call for gratitude and seriousness belongs to that practical reading; the descriptions above carry no such instruction on their own.
 
 **Plain words**
-Think about a conversation you are about to have. What are you responding to, and what will your words leave the other person to respond to? You can take care with your contribution while recognising that their reply is theirs to make. That is what participating in the world's becoming looks like from inside a life.
+Think about a conversation you are about to have. What are you responding to, and what will your words leave the other person to respond to? You can take care with your contribution while recognising that their reply is theirs to make.
 
 *For example:*
 Imagined: a new colleague joins her first team meeting. Before the meeting breaks up, you offer to stay behind if she has questions.
