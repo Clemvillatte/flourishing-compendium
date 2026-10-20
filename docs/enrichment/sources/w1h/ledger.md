@@ -307,3 +307,9 @@
   without a pipeline; crash-protection saves remain independent.
 - Baseline check for Adler: front-matter byte-identical and zero lost links vs
   c2a3ee47 (the file's true pre-edit state), verified via --base.
+
+## QC acceptance (advisor PASS, items 11-15)
+- PASS after 3 rounds (7ec11b41 verified on origin). Scoped acceptance preserved:
+  focus theory attribution unresolved (zoom lens as related model); abstract-level
+  evidence for Hanley 2003, Eriksen 1986, Strecher 1995, Swann 2021; Baer 1968
+  citation-only; Adler via archive.org full text (OCR caveat noted).
