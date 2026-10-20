@@ -3,3 +3,7 @@
 ## MO064
 - PubMed abstracts via eutils (all opened, quotes verified verbatim): Sonnentag 2003 (PMID 12814299), Sonnentag/Binnewies/Mojza 2008 (18457495), Sonnentag & Fritz 2007 (17638488).
 - Limits: full texts and Meijman & Mulder 1998 (book chapter) not opened. Statement's claims "sustained effort without recovery leads to burnout" and "rest, sleep, play, nature" are not supported by opened sources; body says so. Self-reported employee samples. Example hypothetical.
+
+## MO068
+- Berridge & Robinson (2016) Am Psychol 71(8):670-679, PMC5171207 full text opened (7 quotations grep-verified); Koob & Le Moal (2008) abstract via PubMed (18154498).
+- Limits: statement's 'This is a clinical condition requiring treatment' not supported by an opened source (no clinical/treatment source opened), body says so. Berridge & Robinson mostly animal-derived mechanism, authors' own theory; Koob & Le Moal presented as a competing account. Example hypothetical.
