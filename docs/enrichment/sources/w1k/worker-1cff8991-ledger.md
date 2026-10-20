@@ -75,3 +75,10 @@ Worker `worker-w1k-1cff8991`, 2026-10-20. Took stale band at 20/70 after complet
 - Opened full [Dewey Art as Experience chapter III course excerpt](https://people.wou.edu/~girodm/middle/having_an_experience.pdf); exact breathing quotation and connected doing/undergoing/intervals verified at the chapter's end.
 - Dewey explicitly discusses rhythm, so the seed identifies a substantive theme rather than requiring a fabricated named unit. Did not infer physiology, treatment efficacy or support for K163's clinical mechanism from the metaphor.
 - Original frontmatter, bibliography, kernel and principle links preserved. Fast-track saturation skipped; no reciprocal proposal.
+
+## Vocabularies as tools
+
+- Fast-track degree 6; pragmatist priority. Read the five linked principles and ST104 before scoping.
+- Opened [Ramberg/Dieleman SEP Rorty](https://plato.stanford.edu/entries/rorty/), exact passages in 2.2, 3.1 and 3.5. The entry explicitly uses the seed phrase and gives its purpose-relative content; unlike the perception headings, an authoritative account directly defines this Rortian position.
+- Standalone excerpt attributed to the actual encyclopedia authors, not passed off as a direct Rorty quotation. Original CIS volume not directly read; preserved citation does not assert otherwise.
+- Avoids “anything is true/useful” and language-causes-world misunderstandings. No new story/fact inferred from ST104. Original frontmatter and all linked nodes preserved. Fast-track saturation skipped; no new reciprocal.
