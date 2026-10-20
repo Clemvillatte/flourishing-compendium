@@ -14,11 +14,11 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 
 Spinoza's definitions of the affects give anger and revenge side by side:
 
-> "Anger is the desire, whereby through hatred we are induced to injure one whom we hate" (Ethics III, Definitions of the Affects, XXXVI, [Elwes](https://www.gutenberg.org/ebooks/3800); the source continues with its cross-reference "III. xxxix.")
+> "Anger is the desire, whereby through hatred we are induced to injure one whom we hate" (Ethics III, Definitions of the Affects, XXXVI, [Elwes](https://www.gutenberg.org/ebooks/3800))
 
 > "Revenge is the desire whereby we are induced, through mutual hatred, to injure one who, with similar feelings, has injured us." (Ethics III, Definitions of the Affects, XXXVII, [Elwes](https://www.gutenberg.org/ebooks/3800))
 
-Underneath the definitions, hatred is pain with the idea of an external cause, and the note to III, P39 says what evil is for a striving being: "By evil, I mean every kind of pain, especially that which frustrates our longings". The same note's gallery shows desires shaping judgments of good and evil, among them: "an ambitious man desires nothing so much as glory, and fears nothing so much as shame". The compendium uses that example to ask whether a particular grievance involves disappointed ambition or threatened standing, and it is a compendium reading, assembled from these pieces, that anger sits over a blocked striving.
+Underneath the definitions, hatred is pain with the idea of an external cause, and the note to III, P39 says what evil is for a striving being: "By evil, I mean every kind of pain, especially that which frustrates our longings". The same note's gallery shows desires shaping judgments of good and evil, among them: "an ambitious man desires nothing so much as glory, and fears nothing so much as shame". The compendium uses that example to ask whether a particular grievance involves disappointed ambition or threatened standing.
 
 **Plain words**
 If you want to hurt someone in return, identify what you believe they did to you. Did they obstruct something you wanted, or damage your standing? Naming the grievance gives you something specific to examine before deciding how to respond.
@@ -30,7 +30,7 @@ If you want to hurt someone in return, identify what you believe they did to you
 - [Spinoza, Ethics, Elwes translation, Project Gutenberg](https://www.gutenberg.org/ebooks/3800) — III, Definitions of the Affects XXXVI and XXXVII; III, P39 with note; III, P40 with note; IV, P7 (via SP026)
 ## Psychology parallels
 
-- **Frustration-aggression and blocked-goal accounts of anger**, the reformulated model in which anger tracks goal obstruction (Berkowitz's reformulation; Novaco's anger treatment research)
+- **Frustration-aggression and blocked-goal accounts of anger** (Berkowitz; Novaco)
 
 ## Philosophy parallels
 

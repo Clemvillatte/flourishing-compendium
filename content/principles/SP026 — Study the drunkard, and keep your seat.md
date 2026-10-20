@@ -20,19 +20,19 @@ The diagnosis is general: "men believe themselves to be free, simply because the
 
 > "An emotion can only be controlled or destroyed by another emotion contrary thereto, and with more power for controlling emotion." (Ethics IV, P7, [Elwes](https://www.gutenberg.org/ebooks/3800))
 
-The compendium's application of these two passages: feeling certain that you chose your words does not tell you everything that led you to say them, and at the moment of appetite, knowledge of the good can be the weaker force. As an exercise, leave yourself an opportunity to reconsider before sending a message or making a commitment while intoxicated.
+The compendium's application of these two passages: feeling certain that you chose your words does not tell you everything that led you to say them. As an exercise, leave yourself an opportunity to reconsider before sending a message or making a commitment while intoxicated.
 
 **Plain words**
-Consciousness is not self-knowledge. You feel the wanting and you miss the causes. Spinoza's drinker later wishes he had kept quiet; the certainty of free utterance did not make it so. The remedy runs through a stronger contrary feeling or a reconsideration point secured before the moment: save the draft, sleep on the message, re-read it sober.
+Feeling certain that you chose your words does not tell you everything that led you to say them. Spinoza's drinker later wishes he had kept quiet. As a practical exercise, leave yourself an opportunity to reconsider before sending a message or making a commitment while intoxicated.
 
-*For example:* After drinking, you draft an angry message. Save the draft and reconsider it when sober. The second read is where the causes get a chance to show.
+*For example:* After drinking, you draft an angry message. Save the draft and reconsider it when sober.
 
 ## Sources
 
 - [Spinoza, Ethics, Elwes translation, Project Gutenberg](https://www.gutenberg.org/ebooks/3800) — III, P2 scholium (drunkard passage); IV, P7
 ## Psychology parallels
 
-- **[[The intention-behavior gap|The intention-behavior gap]]**, the robust finding that insight and intention are weak predictors of in-the-moment behavior (Sheeran, 2002; Gollwitzer, 1999, on planning as the bridge)
+- **[[The intention-behavior gap|The intention-behavior gap]]** (Sheeran, 2002; Gollwitzer, 1999)
 
 ## Philosophy parallels
 

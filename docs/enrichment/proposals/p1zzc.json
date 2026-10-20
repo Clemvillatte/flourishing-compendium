@@ -1,6 +1,6 @@
 {
  "batch": "p1zzc",
- "revision": 9,
+ "revision": 10,
  "reciprocal": [
   {
    "into": "Benign versus malicious envy",
@@ -24,12 +24,12 @@
    "into": "Akrasia",
    "link": "SP026",
    "why": "Spinoza's drunkard, who believes the words he would withhold when sober are spoken from free decision",
-   "notes": "SP026 (worker-p1zzc-de9b53): hub inspected, 0 SP026 occurrences; grounded in the opened Elwes Ethics II P35 scholium."
+   "notes": "SP026 (worker-p1zzc-de9b53): hub inspected, 0 SP026 occurrences; grounded in the opened Elwes Ethics III, P2 scholium."
   },
   {
    "into": "Anger",
    "link": "SP031",
-   "why": "Spinoza's definitions of anger and revenge, with the reading of anger as pain over frustrated longing",
+   "why": "Spinoza's definitions of anger and revenge, with evil defined in the P39 note as pain that frustrates our longings",
    "notes": "SP031 (worker-p1zzc-de9b53): hub inspected, 0 SP031 occurrences; grounded in the opened Elwes Ethics (III, Def. XXXVI/XXXVII; III P39 note)."
   },
   {
