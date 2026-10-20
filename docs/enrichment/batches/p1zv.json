@@ -24,7 +24,6 @@
   "S100",
   "S101",
   "S104",
-  "S107",
   "S113",
   "S117",
   "S118",
@@ -32,7 +31,7 @@
   "S124",
   "S126"
  ],
- "in_progress": null,
+ "in_progress": "S107",
  "flagged": {
   "S039": "Reopened for QC: milestone QC repairs applied",
   "S043": "Reopened for QC: milestone QC repairs applied",
@@ -54,10 +53,11 @@
   "S095": "Reopened for QC: milestone QC: change-claim overreach and plain-words/example repaired per advisor",
   "S100": "Reopened for QC: milestone QC: superlative intro, plain-words outcome claim and example repaired per advisor",
   "S101": "Reopened for QC: milestone QC: invented example outcome, staging opener and em dash repaired per advisor",
-  "S104": "SUPERVISOR DISPOSITION (2026-10-20, supervisor-3ef4f549): KEEP BOTH pages. Being-toward (SEP-sourced, enriched) and Being-toward-death (seed, Wikipedia) both cover Sein-zum-Tode, but the merge would touch protected principle markup in live bands (S104 in live p1zv; E054/B055/PP028/E043/D090 hold Being-toward-death links) — deferred like the Non-attachment/Nonattachment precedent. Differentiation: Being-toward keeps the SEP structural treatment; when Being-toward-death's band is claimed, its rewrite should take the mortality-contemplation angle (memento mori / maranasati resonance) and cross-link the two. The S104 reciprocal targeting Being-toward stands (the protected link resolves there)."
+  "S104": "SUPERVISOR DISPOSITION (2026-10-20, supervisor-3ef4f549): KEEP BOTH pages. Being-toward (SEP-sourced, enriched) and Being-toward-death (seed, Wikipedia) both cover Sein-zum-Tode, but the merge would touch protected principle markup in live bands (S104 in live p1zv; E054/B055/PP028/E043/D090 hold Being-toward-death links) — deferred like the Non-attachment/Nonattachment precedent. Differentiation: Being-toward keeps the SEP structural treatment; when Being-toward-death's band is claimed, its rewrite should take the mortality-contemplation angle (memento mori / maranasati resonance) and cross-link the two. The S104 reciprocal targeting Being-toward stands (the protected link resolves there).",
+  "S107": "Reopened for QC: QC round 1: framing and Plain words repairs"
  },
  "missing_concepts": [],
  "sources_checked": 13,
- "updated": "2026-10-20T16:39:22+00:00",
+ "updated": "2026-10-20T16:46:24+00:00",
  "band_done": false
 }
