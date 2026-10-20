@@ -78,3 +78,11 @@
   four targets (Achievement goal theory line 29 prose; Autonomy-threat
   research line 10 prose; D063 line 41 bullet; D096 line 47 bullet) — each
   first occurrence is the intended unlinked text.
+
+## Round-4 addendum (2026-10-20, advisor QC)
+
+- The "locus of causality" fragment paraphrased per the advisor's wording (no
+  printed-page locator on the paraphrase; the verified p. 59 kept on the
+  rewards quotation). The blockquote's generic [PDF] anchor replaced with a
+  descriptive author/title label. Baseline validation re-run: ok, 1 checked,
+  0 failed. Item accepted.
