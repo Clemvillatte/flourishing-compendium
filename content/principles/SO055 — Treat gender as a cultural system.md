@@ -12,11 +12,25 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SO — Sociocul
 ---
 > **Principle 55** — Treat gender as a cultural system
 
-Treat gender — the social meanings and roles attached to sex — as a cultural system, not a biological destiny. Gender shapes health, behavior, and well-being through norms, expectations, and structures (Ridgeway, 2011; Connell, 2002). The adaptive stance is to see gender as a system and to navigate it deliberately.
+> Gender refers to the characteristics of women, men, girls and boys that are socially constructed. This includes norms, behaviours and roles associated with being a woman, man, girl or boy, as well as relationships with each other. As a social construct, gender varies from society to society and can change over time.
 
-**Plain words** Gender is a cultural system layered on biology — norms, expectations, structures. Not a biological destiny, and not imaginary either: real effects on health, behaviour, and opportunity. The system can be examined and reformed, by you, in your own house.
+(World Health Organization, [Gender and health](https://www.who.int/health-topics/gender). The same page defines sex separately, as "the different biological and physiological characteristics of females, males and intersex persons, such as chromosomes, hormones and reproductive organs.")
 
-*For example:* "Boys don't cry" and "girls aren't good at maths" — instructions, delivered early, billed as observations. The system runs on people repeating it. Examining it at your own kitchen table is how it stops.
+The WHO adds that "Gender influences people's experience of and access to healthcare," and that how services are organized "can either limit or enable a person's access to healthcare information, support and services." This is the health side of the claim that gender works through norms and structures.
+
+On the philosophical side, Beauvoir's sentence is given in the [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/beauvoir/) as "One is not born but becomes a woman" (1953 translation, p. 267). The SEP notes that whether Beauvoir was launching the sex-gender distinction is debated, and it reads her as analysing how the meanings of "woman" are socially made and then taken up in lived, bodily experience.
+
+Ridgeway (2011), Connell (2002) and Butler (1990), named in this entry, were not opened. The phrase "not a biological destiny" is the entry's wording, and the WHO text stops at saying that sex and gender are different things.
+
+**Plain words** Sex and gender are not the same thing. The roles and expectations attached to gender are learned from society, they differ between societies and they change. They also have real effects on health and opportunity, so they can be examined and, where useful, reshaped.
+
+*For example:* "Boys don't cry" is passed on as a fact about boys. Hearing it as a rule makes it something a family can choose to keep or drop.
+
+## Sources
+
+- [World Health Organization, Gender and health](https://www.who.int/health-topics/gender) — opened; definitions of gender and sex; effects on health care
+- [Stanford Encyclopedia of Philosophy, Simone de Beauvoir, section 7](https://plato.stanford.edu/entries/beauvoir/) — opened; the 1953-translation sentence and the SEP's gloss
+
 ## Psychology parallels
 
 - [[Ridgeway|Ridgeway]] (2011) on gender as a system of social relations; Connell (2002) on gender; the gender-and-health literature (Bird and Rieker, 2008); gender norms and well-being (Heilman et al., 2017); the role-congruence literature (Eagly and Karau, 2002).

@@ -53,3 +53,6 @@ No advisor tool available; QC is self-QC only.
 
 ## SO047 Use intergroup contact as a prejudice-reduction tool
 - Opened: Pettigrew & Tropp 2006 PubMed abstract (via search result excerpt of the PubMed page); quotes verbatim. Original 'most reliable tool we have' removed (unsupported); 'conditions matter' qualified by the abstract's 'not essential'. Dixon 2010, Saguy 2011, Wright 1997 not opened.
+
+## SO055 Treat gender as a cultural system
+- Opened: WHO Gender and health page (definitions verbatim), SEP Beauvoir (curl-confirmed the sentence and 1953 p. 267 locator). Ridgeway 2011, Connell 2002, Butler 1990, Bird & Rieker, Heilman, Eagly & Karau not opened. 'Not a biological destiny' kept only as the entry's wording.
