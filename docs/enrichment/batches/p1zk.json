@@ -49,10 +49,14 @@
   "BI061": "Reopened for QC: Milestone QC round 3 repairs",
   "BI068": "Reopened for QC: Milestone QC round 3 repairs",
   "BI069": "Milestone QC round 2: scoped PASS per advisor (referral/CBT-I/apnea passages acceptable); circadian access limitation stays in ledger",
-  "BI070": "Reopened for QC: First-item advisor QC: repairs needed (equivalence claim, ECT detour, hierarchy, example benefit assertion, process commentary)"
+  "BI070": "Reopened for QC: First-item advisor QC: repairs needed (equivalence claim, ECT detour, hierarchy, example benefit assertion, process commentary)",
+  "BI071": "Reopened for QC: Milestone QC items 21-25 repairs",
+  "CO012": "Reopened for QC: Milestone QC items 21-25 repairs",
+  "CO013": "Reopened for QC: Milestone QC items 21-25 repairs",
+  "CO018": "Reopened for QC: Milestone QC items 21-25 repairs"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:34:00+00:00",
+ "updated": "2026-10-20T11:37:13+00:00",
  "band_done": false
 }

@@ -12,14 +12,14 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 ---
 > **Principle 12** — Know that thinking is both individual and collective: schemas are shared
 
-A Psychological Review paper comparing East Asian and Western cognition reports systematic differences in how the two groups attend and explain: East Asians holistic, attending to the entire field and assigning causality to it, making relatively little use of categories and formal logic, and Westerners more analytic, paying attention primarily to the object and the categories to which it belongs and using rules, including formal logic ([Nisbett, Peng, Choi & Norenzayan 2001](https://pubmed.ncbi.nlm.nih.gov/11381831/)). The same paper speculates that the origin of these differences is traceable to markedly different social systems, which is the collective half of this principle: the frameworks come from somewhere social, not straight from the world.
+A Psychological Review paper comparing East Asian and Western cognition reports systematic differences in how the two groups attend and explain: East Asians holistic, attending to the entire field and assigning causality to it, making relatively little use of categories and formal logic, and Westerners more analytic, paying attention primarily to the object and the categories to which it belongs and using rules, including formal logic ([Nisbett, Peng, Choi & Norenzayan 2001](https://pubmed.ncbi.nlm.nih.gov/11381831/)). The same paper speculates that the origin of these differences is traceable to markedly different social systems.
 
 > "The authors speculate that the origin of these differences is traceable to markedly different social systems." (Nisbett et al. 2001, [Psychological Review](https://pubmed.ncbi.nlm.nih.gov/11381831/))
 
 **Plain words**
-The frameworks you think with, what counts as a good job, a fair argument, a normal life, were mostly absorbed from the people around you. The tell is that people raised elsewhere find different things obvious. When an interpretation feels like just the way things are, that feeling is evidence about where it came from, not about whether it is true.
+People can approach the same question with different assumptions about what matters. Ask someone with a different background how they understand a familiar problem, then compare what each of you took for granted.
 
-*For example:* An imagined case: someone who took a mid-century middle-class script as the shape of a normal life finds that its rungs, one profession, one employer, one sequence, fit the world less and less. Seeing the script as a setting, not a truth, is the moment it becomes editable.
+*For example:* An imagined case: two colleagues discuss a missed deadline. One begins with workload and team coordination; the other begins with the person's planning. They compare their assumptions before deciding what happened.
 
 ## Sources
 

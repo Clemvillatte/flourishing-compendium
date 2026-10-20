@@ -12,20 +12,20 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 ---
 > **Principle 18** — Understand anchoring: initial values distort subsequent judgments
 
-The paper that named the effect defines it: in many situations, people make estimates by starting from an initial value that is adjusted to yield the final answer, and the adjustments are typically insufficient, so different starting points yield different estimates biased toward the initial values ([Tversky & Kahneman 1974](https://stanford.edu/~jlmcc/Presentations/tversky_kahneman_1974.pdf)). The demonstration used a wheel of fortune: a number between 0 and 100 was determined by spinning it in the subjects' presence, the subjects first said whether a quantity, for example the percentage of African countries in the United Nations, was higher or lower than that number, then estimated the quantity by moving upward or downward from it. The arbitrary numbers had a marked effect on estimates: the median estimates were 25 and 45 for groups that received 10 and 65 respectively as starting points.
+In their 1974 paper, Tversky and Kahneman describe the effect: in many situations, people make estimates by starting from an initial value that is adjusted to yield the final answer, and the adjustments are typically insufficient, so different starting points yield different estimates biased toward the initial values ([Tversky & Kahneman 1974](https://stanford.edu/~jlmcc/Presentations/tversky_kahneman_1974.pdf)). The demonstration used a wheel of fortune: a number between 0 and 100 was determined by spinning it in the subjects' presence, the subjects first said whether a quantity, for example the percentage of African countries in the United Nations, was higher or lower than that number, then estimated the quantity by moving upward or downward from it. The arbitrary numbers had a marked effect on estimates: the median estimates were 25 and 45 for groups that received 10 and 65 respectively as starting points.
 
 The paper adds that anchoring occurs when the starting point is given to the subject and also when the estimate builds on an incomplete computation: high school students estimating 8x7x6x5x4x3x2x1 within five seconds gave a median of 2,250, and those estimating the same product written ascending, 1x2x3x4x5x6x7x8, gave 512; the correct answer is 40,320.
 
-> "In many situations, people make estimates by starting from an initial value that is adjusted to yield the final answer. ... In either case, adjustments are typically insufficient. That is, different starting points yield different estimates, which are biased toward the initial values. We call this phenomenon anchoring." (Tversky & Kahneman 1974, [Science 185: 1124-1131](https://stanford.edu/~jlmcc/Presentations/tversky_kahneman_1974.pdf))
+> "In many situations, people make estimates by starting from an initial value that is adjusted to yield the final answer. ... In either case, adjustments are typically insufficient. That is, different starting points yield different estimates, which are biased toward the initial values. We call this phenomenon anchoring." (Tversky & Kahneman 1974, [Science 185: 1124-1131, p. 1128](https://stanford.edu/~jlmcc/Presentations/tversky_kahneman_1974.pdf))
 
 **Plain words**
-The first number on the table does a job on the second number you form. It is not that you take the anchor as the answer; you move away from it, and you do not move far enough. The wheel-of-fortune case makes the mechanism visible: the anchor was random and everyone watched the wheel spin, and the estimates still tracked it.
+The first number on the table does a job on the second number you form. It is not that you take the anchor as the answer; in this account, people often adjust too little. The wheel-of-fortune case makes the mechanism visible: the anchor was random and everyone watched the wheel spin, and the estimates still tracked it.
 
 *For example:* An imagined case: a shirt marked was $200, now $80 feels like a find, and the felt bargain is an estimate made by adjusting down from a number the seller chose.
 
 ## Sources
 
-- [Tversky & Kahneman, "Judgment under uncertainty: heuristics and biases," Science 185(4157): 1124-1131 (1974)](https://stanford.edu/~jlmcc/Presentations/tversky_kahneman_1974.pdf) — Adjustment and Anchoring section (full text PDF opened; ellipsis in blockquote marks a skipped definitional sentence)
+- [Tversky & Kahneman, "Judgment under uncertainty: heuristics and biases," Science 185(4157): 1124-1131 (1974)](https://stanford.edu/~jlmcc/Presentations/tversky_kahneman_1974.pdf) — Adjustment and Anchoring section, printed p. 1128 (page image checked; ellipsis in blockquote marks the skipped definitional sentence, "The initial value, or starting point, may be suggested by the formulation of the problem, or it may be the result of a partial computation.")
 
 ## Psychology parallels
 
