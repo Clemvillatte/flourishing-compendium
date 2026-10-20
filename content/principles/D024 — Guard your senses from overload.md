@@ -32,6 +32,10 @@ If you enjoy an activity, you can still decide how much attention to give it. As
 
 *For example:* Imagine opening your phone to check a train time. Once you have the answer, put the phone away rather than continuing through unrelated posts.
 
+## Related concepts
+
+- [[AT060]] — D024's psychology parallels cite the same Ward et al. brain drain study AT060 quotes; AT060 carries the smartphone-specific findings.
+
 ## Sources
 
 - [The Tao Teh King, Legge translation (Project Gutenberg)](https://www.gutenberg.org/cache/epub/216/pg216.txt) — chapter 12

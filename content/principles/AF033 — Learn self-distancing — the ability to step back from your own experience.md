@@ -35,3 +35,7 @@ Viewing your own emotional experience from an observer's perspective (third-pers
 ## Practice kernels
 
 - [[K389 — Look through the lens of time]]
+
+## Related concepts
+
+- [[SE016]] — AF033 defines self-distancing as stepping back from one’s own experience; SE016 reports the experimental study of the third-person self-talk mechanism for doing so.

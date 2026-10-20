@@ -32,3 +32,7 @@ Identity is not just a set of traits; it is a narrative. The story you tell abou
 ## Practice
 
 - Notice the narrative arc of your life story. Is it a story of growth, redemption, contamination, or stagnation? The facts may not change, but the arc can. Consider how you tell the story of difficult experiences.
+
+## Related concepts
+
+- [[SE001]] — CO061 holds that the life story shapes the person; SE001 presents the narrative-identity model (McAdams) behind that claim.

@@ -31,3 +31,7 @@ Attention is focused; awareness is broad. You can have broad, open awareness (as
 ## Practice
 
 - Practise both modes. Focused attention (on breath, object, task) builds concentration. Open monitoring (noticing whatever arises) builds awareness and flexibility. Each has different benefits.
+
+## Related concepts
+
+- [[AT034]] — AT005 distinguishes focused attention from broad awareness; AT034 reports the meta-awareness process that periodically notes what the mind is doing.

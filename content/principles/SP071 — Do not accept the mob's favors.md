@@ -27,3 +27,7 @@ The free person avoids the favors of the many, because a favor from a crowd is a
 
 - **[[I fear the Greeks even bearing gifts|I fear the Greeks even bearing gifts]]** (Virgil, Aeneid II, Laocoon's warning)
 - **Give without remembering** (Gospel of Matthew 6.3)
+
+## Related concepts
+
+- [[SP037]] — SP071 and SP037 both draw on Spinoza’s Ethics IV P70; SP071 carries the refusal side, SP037 the estimation mechanics and the careful-decline qualifications.

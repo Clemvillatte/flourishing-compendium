@@ -24,6 +24,10 @@ The reasoning comes just before it: "That which is at rest is easily kept hold o
 
 *For example:* The ten minutes spent backing up files tonight, against the weekend lost to a dead drive six months from now.
 
+## Related concepts
+
+- [[D162]] — companion Daoist principles from the same DDJ 64 root: D061 the act, D162 the attention that times it
+
 ## Sources
 
 - [The Tao Teh King, James Legge translation, Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt) — ch. 64

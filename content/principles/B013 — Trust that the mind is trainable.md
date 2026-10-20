@@ -26,6 +26,10 @@ Modern evidence needs a different description. Hölzel and colleagues compared 1
 
 *For example:* Imagine setting aside a few minutes to attend to breathing. When you notice that you have started planning dinner, you return to the exercise. You can record that you practised without claiming your brain or temperament has changed.
 
+## Related concepts
+
+- [[AT025]] — B013 discusses staged Buddhist training including concentration; AT025 reports attention-related outcomes from specific meditation programmes.
+
 ## Sources
 
 - [Dhammapada 103, Buddharakkhita](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.08.budd.html).

@@ -31,3 +31,7 @@ Ultimately, the self is a construction — useful, necessary, but not an absolut
 ## Practice
 
 - Practise holding self lightly: use identity, narrative, and self-concept as tools, not as truths. "I am a [identity], and I am also the awareness in which this identity appears." This is not self-denial; it is self-freedom.
+
+## Related concepts
+
+- [[SE001]] — SE080 holds the self-construction at the ultimate level, useful but not an absolute truth; SE001 presents the self as an evolving life story in McAdams’s narrative-identity model.

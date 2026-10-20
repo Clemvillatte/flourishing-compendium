@@ -1,0 +1,146 @@
+{
+ "inline": [],
+ "reciprocal": [
+  {
+   "into": "D061 — Act before things arise",
+   "link": "D162 — Attend to the not-yet-manifest",
+   "why": "companion Daoist principles from the same DDJ 64 root: D061 the act, D162 the attention that times it"
+  },
+  {
+   "into": "A042 — Recognise that virtue is a hexis, not a feeling",
+   "link": "D004 — Cultivate de — your embodied character-power",
+   "why": "cross-tradition mirror: de and hexis are both built capacity rather than passing feeling"
+  },
+  {
+   "into": "B048 — Keep beginner's mind (shoshin)",
+   "link": "D013 — Keep the valley-mind — low, open, receptive",
+   "why": "cross-tradition pair: the valley-mind and shoshin are both receptive postures that trade status for information"
+  },
+  {
+   "into": "S090 — See that life is short and do not waste it",
+   "link": "S089",
+   "why": "S090 draws the shortness-of-life lesson from Seneca's On the Shortness of Life; S089 presents Marcus Aurelius's version of the same reminder."
+  },
+  {
+   "into": "S104 — Practise the contemplation of mortality",
+   "link": "S089",
+   "why": "S104 treats death contemplation as a clarifying Stoic practice; S089 supplies the Meditations passages that state the reminder."
+  },
+  {
+   "into": "S102 — Remember that everyone you know will die",
+   "link": "S089",
+   "why": "S102 turns the mortality reminder toward the people in your life; S089 states the first-person form of the same reminder."
+  },
+  {
+   "into": "B055 — Contemplate mortality (maranasati)",
+   "link": "S089",
+   "why": "B055 presents Buddhist maranasati; S089 presents mortality reminders from Marcus Aurelius."
+  },
+  {
+   "into": "M037 — Number your days; we only borrow our time",
+   "link": "S089",
+   "why": "M037 carries the memento mori reminder in the song tradition; S089 presents Marcus Aurelius's version of the same reminder."
+  },
+  {
+   "into": "B192 — Begin the day with intention; end it with review",
+   "link": "S120",
+   "why": "B192 pairs morning intention with evening review; S120 adapts Seneca's daily-review practice for the evening."
+  },
+  {
+   "into": "S065 — Practise self-examination daily",
+   "link": "S120",
+   "why": "S065 names the daily self-examination habit; S120 gives Seneca's description of reviewing each day and its evening adaptation."
+  },
+  {
+   "into": "SP093 — Practice the daily emendation",
+   "link": "S120",
+   "why": "SP093 ends each day by naming one affect and converting it to action; S120 carries the Senecan review that finds what needs correcting."
+  },
+  {
+   "into": "SE080 — Recognise the ultimate nature of self — a useful construction",
+   "link": "SE001",
+   "why": "SE080 holds the self-construction at the ultimate level, useful but not an absolute truth; SE001 presents the self as an evolving life story in McAdams’s narrative-identity model."
+  },
+  {
+   "into": "PP024 — Build narrative coherence",
+   "link": "SE001",
+   "why": "PP024 works on coherence in the McAdams life story; SE001 supplies the narrative-identity account behind it."
+  },
+  {
+   "into": "S124 — Practise the view from above",
+   "link": "SE016",
+   "why": "S124 carries the Stoic cosmic-perspective exercise; SE016 reports the experimental study of third-person self-talk; both aim at viewing one’s situation from outside one’s own eyes."
+  },
+  {
+   "into": "CO065 — Cultivate wise reasoning — wisdom is a trainable skill, not a fixed trait",
+   "link": "SE016",
+   "why": "CO065’s page discusses the Grossmann and Kross finding that self-distancing eliminated the wisdom asymmetry; SE016 reports the third-person self-talk method for creating that distance under social stress."
+  },
+  {
+   "into": "Y089 — Separate the seer from the seen daily",
+   "link": "SE016",
+   "why": "Y089 practices separating observer from observed; SE016 reports the experimental study of third-person self-talk as a language-based way of creating that separation."
+  },
+  {
+   "into": "D062 — Let go of what exceeds your grasp",
+   "link": "SE068",
+   "why": "SE068 asks how to choose between attempted change and accommodation, while explicitly warning that rank-order correlations cannot identify fixed traits."
+  },
+  {
+   "into": "K038 — If there is a remedy, why be angry; if there is none, what use is anger",
+   "link": "SE068",
+   "why": "SE068 asks how to choose between attempted change and accommodation, while explicitly warning that rank-order correlations cannot identify fixed traits."
+  },
+  {
+   "into": "SE011 — Recognise the narrative structure of self — you are a story",
+   "link": "SE001 — Understand that the self is constructed, not discovered",
+   "why": "SE011 treats the self as story-structured; SE001 supplies McAdams’s narrative-identity account, the evolving life story a person tells."
+  },
+  {
+   "into": "CO061 — Recognise the role of narrative in identity — your life story shapes who you are",
+   "link": "SE001 — Understand that the self is constructed, not discovered",
+   "why": "CO061 holds that the life story shapes the person; SE001 presents the narrative-identity model (McAdams) behind that claim."
+  },
+  {
+   "into": "P063 — Treat your self-concept as revisable",
+   "link": "SE001 — Understand that the self is constructed, not discovered",
+   "why": "P063 treats the self-concept as revisable; SE001 supplies the construction account — the self as a life story that is written and rewritten rather than found."
+  },
+  {
+   "into": "SE042 — Recognise the role of narrative in identity revision — change the story, change the self",
+   "link": "SE001 — Understand that the self is constructed, not discovered",
+   "why": "SE042 works on revising identity by revising the story; SE001 presents the narrative-identity model the revision works on."
+  },
+  {
+   "into": "AF033 — Learn self-distancing — the ability to step back from your own experience",
+   "link": "SE016 — Learn self-distancing — view yourself from the outside",
+   "why": "AF033 defines self-distancing as stepping back from one’s own experience; SE016 reports the experimental study of the third-person self-talk mechanism for doing so."
+  },
+  {
+   "into": "CO066 — Learn to take the third-person perspective — distanced self-talk improves reasoning",
+   "link": "SE016 — Learn self-distancing — view yourself from the outside",
+   "why": "CO066 carries the third-person-perspective principle and cites the Kross et al. question; SE016 reports that experiment’s findings."
+  },
+  {
+   "into": "SP071 — Do not accept the mob's favors",
+   "link": "SP037 — Beware the mob's favors and its fear",
+   "why": "SP071 and SP037 both draw on Spinoza’s Ethics IV P70; SP071 carries the refusal side, SP037 the estimation mechanics and the careful-decline qualifications."
+  },
+  {
+   "into": "E083 — Practise narrative identity",
+   "link": "SE001 — Understand that the self is constructed, not discovered",
+   "why": "E083 grounds narrative identity in Ricoeur’s Oneself as Another and MacIntyre’s After Virtue — identity as a story lived and told; SE001 supplies the psychological account of the same constructed self (McAdams’s narrative identity)."
+  },
+  {
+   "into": "R105 — Practise narrative identity",
+   "link": "SE001 — Understand that the self is constructed, not discovered",
+   "why": "R105 grounds narrative identity in MacIntyre and Ricoeur — identity as a developing story; SE001 supplies the psychological account of that construction (McAdams’s narrative identity)."
+  },
+  {
+   "into": "P016 — Treat identity as a verb",
+   "link": "SE001 — Understand that the self is constructed, not discovered",
+   "why": "P016 treats identity as something one becomes rather than is (Nietzsche’s “become who you are”); SE001 presents the narrative account of that construction (McAdams’s narrative identity)."
+  }
+ ],
+ "notes": "p1g proposals (genuineflourishing34), from D086 enrichment. Reciprocals only; both targets verified to lack the cross-link (grep: 0 mentions each way). D162 proposals added: D162<->D061 (same DDJ 64 root, verified 0 links each way). D041 proposals added: D041<->D021 (verified 0 links each way). D048 proposals added: D048<->B095, D048<->D071 (all verified 0 links each way). D035 proposals added: D035<->D034 (verified 0 links each way). D004 proposals added: D004<->A042, D004<->A004 (all verified 0 links each way). D013 proposals added: D013<->B048 (verified 0 links each way). D030 proposals added: D030<->D019 (verified 0 links each way). D099 proposals added: D099<->D055 (verified 0 links each way). D148 proposals added: D148<->D041 (verified 0 links each way). D148/D041 proposal whys narrowed to thematic (advisor, milestone QC round 3). BI009 proposals added: BI009<->D148 (verified 0 links each way). P055 proposals added: P055<->P092 (both p1g, verified 0 links each way). P027 proposals added: P027<->P028 (verified 0 links each way). P143 proposals added: P143<->BI009 (verified 0 links each way). P157 proposals added: P157<->S020 (verified 0 links each way). Milestone QC round 4 (advisor): all recent proposal whys narrowed to thematic comparisons; P027 record name fixed to file stem. sources_checked reconciled to 9 opened works. P179 proposals added: P179<->A079 (verified 0 links each way). P190 proposals added: P190<->D005 (verified 0 links each way). P092 proposals added: P092<->P093 (verified 0 links each way). Milestone QC round 5: P179<->A079 and P190<->D005 whys rewritten after reading both bodies (A079 is Aristotle-based, not savoring research). sources_checked reconciled to 13 opened works. P172 proposals added: P172<->P179 (verified 0 links each way). Y015 proposals added: Y015<->AF004 (verified 0 links each way). QC round 10 (advisor): CO052/CO066/E026/E031/E080 corrections applied; 4 backlink-gap proposals recorded (Yin and yang, The witness, Self-determination, Openness) after saturation check found no CO052/CO066/E031/E080 mention on those concept pages. QC round 14 (advisor): connection-saturation discovery checks performed (enrich_find.py mention for each principle's core terms). D015<->CO052 and E009<->E026 proposals added (verified 0 links each way). Remaining [NEW] mention hits assessed as already connected via concept hubs (Dialectical thinking, Self-distancing, Fusion of horizons, Being-with (Mitsein)) — no additional proposal warranted.\n2026-10-20 supervisor: audit-tail phrasing (grep counts, \"already cites/ties\", \"new body\") removed from why clauses before integration; it was internal verification commentary, not reader-facing prose. Substance unchanged. | deferred at this run (target band busy): 36 recip, 0 inline | deferred at this run (target band busy): 3 recip, 0 inline | deferred at this run (target band busy): 3 recip, 0 inline Milestone QC (advisor, 2026-10-20): all eight p1g why-clauses re-grounded against the target pages' bodies (B055 and B192 clauses narrowed per advisor); 'verified against the page text' removed from the public Sources entries of S089 and S120 (verification stays in the research records)."
+}

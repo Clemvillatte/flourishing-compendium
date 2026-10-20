@@ -32,6 +32,10 @@ These studies tested specific training programmes, not whether any short daily r
 *For example:*
 Imagined: Before reading, someone chooses a short section to work through. When attention wanders, they return to the paragraph. Afterwards, they note the interruptions and decide how to arrange the next session.
 
+## Related concepts
+
+- [[AT034]] — AT025 trains the concentration capacity; AT034 reports the noticing process that detects the lapses and re-engages the task that capacity serves.
+
 ## Sources
 
 - [MacLean et al., "Intensive meditation training improves perceptual discrimination and sustained attention", Psychological Science 21(6), 2010 (PubMed Central full text)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3132583/) — abstract (the vigilance decrement and training-outcome quotations)

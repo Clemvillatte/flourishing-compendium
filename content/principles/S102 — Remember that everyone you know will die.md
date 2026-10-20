@@ -34,6 +34,11 @@ The people you love, the people you hate, the people you fear: all will die. The
 - **[[Memento mori|Memento mori]]** (Seneca, On the Shortness of Life)
 - **[[Finitude|Finitude as frame]]** (Heidegger, Being and Time)
 
+## Related concepts
+
+- [[S089]] — S102 turns the mortality reminder toward the people in your life; S089 states the first-person form of the same reminder.
+
+
 <!-- fc: reflections
 Which grudge would you drop if you took this seriously? What stops you?
 %%

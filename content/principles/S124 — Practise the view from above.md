@@ -28,3 +28,8 @@ Marcus regularly shifts perspective to the cosmic: looking down on the earth fro
 
 - **The One and henosis** (Plotinus, Enneads)
 - **[[The specious present|The specious present]]** (James, The Principles of Psychology)- **[[The view from above|View from above]]** (Stoicism)
+
+
+## Related concepts
+
+- [[SE016]] — S124 carries the Stoic cosmic-perspective exercise; SE016 reports the experimental study of third-person self-talk; both aim at viewing one’s situation from outside one’s own eyes.

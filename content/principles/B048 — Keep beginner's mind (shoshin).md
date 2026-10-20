@@ -24,6 +24,10 @@ The excerpt ties shoshin to not-attaining: "In the beginner's mind there is no t
 
 *For example:* The twenty-year marriage that stays warm does it by occasionally meeting a stranger at breakfast: same person, beginner's eyes.
 
+## Related concepts
+
+- [[D013]] — cross-tradition pair: the valley-mind and shoshin are both receptive postures that trade status for information
+
 ## Sources
 
 - [Shunryu Suzuki, Zen Mind, Beginner's Mind, book excerpt, Spirituality & Practice](https://www.spiritualityandpractice.com/book-reviews/excerpts/view/13806)

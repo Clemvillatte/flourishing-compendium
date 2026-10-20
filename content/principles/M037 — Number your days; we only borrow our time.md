@@ -27,3 +27,7 @@ The songs state it flatly: we rise and fall, we borrow our days, nothing is fore
 
 - **[[Memento mori|Memento mori]]** (Seneca, Letters 101)
 - **[[Teach us to number our days|Teach us to number our days]]** (Psalm 90.12)
+
+## Related concepts
+
+- [[S089]] — M037 carries the memento mori reminder in the song tradition; S089 presents Marcus Aurelius's version of the same reminder.

@@ -30,6 +30,11 @@ The Stoic does not avoid thoughts of death but welcomes them as clarifying. Marc
 - **[[Memento mori|Memento mori]]** (Seneca, On the Shortness of Life)
 - **[[Being-toward|Being-toward-death]]** (Heidegger, Being and Time)
 
+## Related concepts
+
+- [[S089]] — S104 treats death contemplation as a clarifying Stoic practice; S089 supplies the Meditations passages that state the reminder.
+
+
 <!-- fc: reflections
 Write your own obituary, as you would want it truthfully. What gap do you see between it and your current life?
 %%

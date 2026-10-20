@@ -30,6 +30,10 @@ Pick one behaviour to watch today. In the evening, recall a specific instance an
 *For example:*
 Before a difficult conversation, set an intention to let the other person finish. That evening, review one moment when you did or did not interrupt, its effect, and what you will do next time.
 
+## Related concepts
+
+- [[S120]] — B192 pairs morning intention with evening review; S120 adapts Seneca's daily-review practice for the evening.
+
 ## Sources
 
 - [MN 61, Ambalatthika-rahulovada Sutta, Thanissaro Bhikkhu translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.061.than.html) — training formula quoted verbatim; before/during/after reflection paraphrased

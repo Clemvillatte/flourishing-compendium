@@ -37,6 +37,11 @@ Nietzsche makes the same move structurally in §335: the goal is to become "huma
 - **Becoming** (Nietzsche, The Gay Science)
 - **[[Individuation|Individuation as ongoing process]]** (Simondon, L'individuation)
 
+## Related concepts
+
+- [[SE001]] — P016 treats identity as something one becomes rather than is (Nietzsche’s “become who you are”); SE001 presents the narrative account of that construction (McAdams’s narrative identity).
+
+
 <!-- fc: reflections
 What fixed nature are you currently treating yourself as having? What would becoming rather than being actually look like?
 %%

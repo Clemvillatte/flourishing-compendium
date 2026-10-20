@@ -38,3 +38,8 @@ Seven studies examined these questions (total N = 585). Studies 1a and 1b found 
 ## Practice
 
 - When emotionally activated, describe the situation in the third person ("[Name] is feeling anxious about this meeting"). The Kross studies found that this grammar is associated with less distress under social stress.
+
+
+## Related concepts
+
+- [[SE016]] — CO066 carries the third-person-perspective principle and cites the Kross et al. question; SE016 reports that experiment’s findings.

@@ -29,6 +29,11 @@ Shantideva's most quoted couplet, and the entire chapter in miniature: suffering
 - **[[The dichotomy of control|The dichotomy of control]]** (Epictetus, Enchiridion 1)
 - **Serenity to accept, courage to change** (Reinhold Niebuhr, the Serenity Prayer, as modern formulation)
 
+## Related concepts
+
+- [[SE068]] — SE068 asks how to choose between attempted change and accommodation, while explicitly warning that rank-order correlations cannot identify fixed traits.
+
+
 <!-- fc: reflections
 Think of your last strong anger. Was there something to be done, and did anger help or hinder it?
 %%

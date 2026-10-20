@@ -22,6 +22,10 @@ They frame the paradox itself as "a common habit of mind: People reason more wis
 
 *For example:* After the layoff, instead of the bitter monologue, the advice-to-a-friend move: what don't I know here, how would this look from the CEO's desk, what is true in both stories? It is the same event either way; the perspective is what differs.
 
+## Related concepts
+
+- [[SE016]] — CO065’s page discusses the Grossmann and Kross finding that self-distancing eliminated the wisdom asymmetry; SE016 reports the third-person self-talk method for creating that distance under social stress.
+
 ## Sources
 
 - [Grossmann and Kross, "Exploring Solomon's Paradox" (2014), Psychological Science 25(8), 1571-1580](https://sites.lsa.umich.edu/emotion-selfcontrol-psych/wp-content/uploads/sites/1322/2024/07/grossman.pdf) — abstract and framing quoted verbatim; self-distancing and wise reasoning

@@ -31,6 +31,11 @@ Seneca's On the Shortness of Life argues that life is long enough for those who 
 - **Spend attention like money** (James, The Principles of Psychology)- **[[Memento mori|Memento mori]]** (Stoicism)
 
 
+## Related concepts
+
+- [[S089]] — S090 draws the shortness-of-life lesson from Seneca's On the Shortness of Life; S089 presents Marcus Aurelius's version of the same reminder.
+
+
 <!-- fc: reflections
 Audit last week. What are the three biggest absorbers of your time? Would you choose them?
 %%

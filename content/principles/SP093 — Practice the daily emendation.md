@@ -27,3 +27,7 @@ The Ethics' method condensed into a daily discipline: one affect per day, named,
 
 - **[[Daily self-examination|Daily self-examination]]** (Zengzi, Analects 1.4)
 - **[[The evening review|The evening review]]** (Seneca, De Ira, Book III, the nightly audit)
+
+## Related concepts
+
+- [[S120]] — SP093 ends each day by naming one affect and converting it to action; S120 carries the Senecan review that finds what needs correcting.

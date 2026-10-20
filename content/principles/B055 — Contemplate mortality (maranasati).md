@@ -26,6 +26,10 @@ Most days you act as if you had unlimited time, and the inbox behaves as if you 
 **For example**
 After attending a funeral, review your current priorities: name one standing argument you are carrying, and decide whether to keep carrying it.
 
+## Related concepts
+
+- [[S089]] — B055 presents Buddhist maranasati; S089 presents mortality reminders from Marcus Aurelius.
+
 ## Sources
 
 - [Upajjhatthana Sutta (AN 5.57), Thanissaro Bhikkhu translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/an/an05/an05.057.than.html) — death recollection verified verbatim

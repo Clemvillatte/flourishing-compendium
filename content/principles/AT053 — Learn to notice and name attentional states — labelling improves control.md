@@ -32,6 +32,10 @@ The finding: naming an emotional state in words attenuates the experience, and t
 *For example:*
 Imagined: While scrolling, a reader says to herself, "I'm doomscrolling." She then decides whether to continue or close the app.
 
+## Related concepts
+
+- [[AT034]] — AT053 works on noticing and labelling attentional states; AT034 reports the account in which noticing mind-wandering lapses enables re-engagement of the primary task.
+
 ## Sources
 
 - [Torre and Lieberman, "Putting Feelings Into Words: Affect Labeling as Implicit Emotion Regulation", Emotion Review 10(2), 2018 (open PDF)](https://static1.squarespace.com/static/651b09f505bc433349d85ab7/t/651d2f2843e6d165beeccb23/1696411432954/Torre(2018)ER.pdf) — the implicit-regulation account and the neural findings

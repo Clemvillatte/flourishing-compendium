@@ -32,6 +32,10 @@ Read for ordinary life rather than statecraft, the chapter's point is about grip
 
 *For example:* Imagine leading a volunteer group. You propose a change and ask for objections before deciding how to proceed. When someone disagrees, discuss their concern instead of demanding a show of loyalty.
 
+## Related concepts
+
+- [[SE068]] — SE068 asks how to choose between attempted change and accommodation, while explicitly warning that rank-order correlations cannot identify fixed traits.
+
 ## Sources
 
 - [The Tao Teh King, Legge trans., Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt) — chapter 29

@@ -31,3 +31,7 @@ Because identity is narrative, revising the story revises the self. This is the 
 ## Practice
 
 - Notice the story you are telling about a difficult experience. Is it a story of victimhood, growth, redemption, or stuckness? The facts may not change, but the arc can. Consider re-authoring.
+
+## Related concepts
+
+- [[SE001]] — SE042 works on revising identity by revising the story; SE001 presents the narrative-identity model the revision works on.

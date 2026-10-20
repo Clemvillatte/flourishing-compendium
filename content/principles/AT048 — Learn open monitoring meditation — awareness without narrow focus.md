@@ -31,3 +31,7 @@ Open monitoring (OM) meditation involves observing whatever arises in awareness 
 ## Practice
 
 - Practise open monitoring: 10-20 minutes, sitting with open awareness. Notice whatever arises (thought, sensation, sound, emotion) without following or judging. Let it pass. Notice the noticing.
+
+## Related concepts
+
+- [[AT034]] — AT048 presents open monitoring as training meta-awareness; AT034 supplies the theoretical account of what meta-awareness is and does (Schooler et al. 2011).

@@ -30,6 +30,10 @@ Take a familiar description of yourself and compare it with recent events. Which
 *For example:*
 Suppose you think, "I never ask for help", but you have sought advice on several recent projects. Ask when you do ask and when you hesitate, then revise the description to include both.
 
+## Related concepts
+
+- [[SE001]] — P063 treats the self-concept as revisable; SE001 supplies the construction account — the self as a life story that is written and rewritten rather than found.
+
 ## Sources
 
 - [Rogers, On Becoming a Person (1961), passages hosted at Panarchy](https://www.panarchy.org/rogers/person.html) — "The Good Life and the Fully Functioning Person" (1953), existential-living passage quoted verbatim

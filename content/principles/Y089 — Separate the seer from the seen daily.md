@@ -27,3 +27,8 @@ The Drig-Drisya-Viveka procedure, attributed to Shankara's circle: take any expe
 
 - **[[The transcendental reduction|The transcendental reduction]]** (Husserl, Cartesian Meditations)- **[[Atman|Atman]]** (Yoga-Vedanta)
 - **[[Non-dual awareness|Non-dual awareness]]** (Yoga-Vedanta)
+
+
+## Related concepts
+
+- [[SE016]] — Y089 practices separating observer from observed; SE016 reports the experimental study of third-person self-talk as a language-based way of creating that separation.

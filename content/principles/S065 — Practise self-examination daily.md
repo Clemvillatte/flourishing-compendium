@@ -31,6 +31,11 @@ Marcus's Meditations is a self-examination journal. Each entry is a practice of 
 - **[[The evening review|The evening review]]** (Buddhist tradition)- **[[Self-examination|Self-examination]]** (Stoicism)
 
 
+## Related concepts
+
+- [[S120]] — S065 names the daily self-examination habit; S120 gives Seneca's description of reviewing each day and its evening adaptation.
+
+
 <!-- fc: reflections
 What would you find if you reviewed today honestly? What would you do differently?
 %%

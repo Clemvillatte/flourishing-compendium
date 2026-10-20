@@ -28,3 +28,7 @@ Understand your life as a narrative, a story that you are both living and tellin
 
 - **[[Narrative identity|Narrative identity]]** (MacIntyre, After Virtue; Ricoeur, Oneself as Another)
 - **The self as story** (Taylor, Sources of the Self)
+
+## Related concepts
+
+- [[SE001]] — R105 grounds narrative identity in MacIntyre and Ricoeur — identity as a developing story; SE001 supplies the psychological account of that construction (McAdams’s narrative identity).

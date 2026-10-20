@@ -36,6 +36,12 @@ For example (imagined): tipping well only when in a good mood is not generosity,
 - **[[De|De — virtue as stable capacity (hexis)]]** (Daoism, Daodejing 51)
 
 
+
+## Related concepts
+
+- [[D004]] — cross-tradition mirror: de and hexis are both built capacity rather than passing feeling
+
+
 <!-- fc: reflections
 Which of your good qualities only appears when you're in a good mood? What would make it dependable?
 %%

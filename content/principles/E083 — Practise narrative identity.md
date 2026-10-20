@@ -27,3 +27,7 @@ Understand yourself as a narrative being. Your identity is not a substance but a
 
 - **[[Narrative identity|Narrative identity]]** (Ricoeur, Oneself as Another)
 - **[[The narrative self|The narrative self]]** (MacIntyre, After Virtue; Taylor, Sources of the Self)
+
+## Related concepts
+
+- [[SE001]] — E083 grounds narrative identity in Ricoeur’s Oneself as Another and MacIntyre’s After Virtue — identity as a story lived and told; SE001 supplies the psychological account of the same constructed self (McAdams’s narrative identity).

@@ -23,6 +23,10 @@ The opened studies are about redemption sequences and their associations with we
 
 *For example:* Imagine someone writing about a divorce. She describes moving house, a new childcare schedule and a decision she has not yet made.
 
+## Related concepts
+
+- [[SE001]] — PP024 works on coherence in the McAdams life story; SE001 supplies the narrative-identity account behind it.
+
 ## Sources
 
 - [McAdams and McLean, Narrative Identity, Current Directions in Psychological Science 2013 (author copy PDF)](https://is.muni.cz/el/1421/podzim2013/PSB_443/um/5__Oct_29__Narrative_Identity.pdf) — 22(3), 233-238
