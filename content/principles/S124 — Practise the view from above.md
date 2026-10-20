@@ -12,13 +12,22 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 246** — Practise the view from above
 
-Marcus regularly shifts perspective to the cosmic: looking down on the earth from above, seeing human affairs as tiny, seeing his own life as a moment. The view from above restores proportion and reduces anxiety. Practise it daily.
+Marcus cites Plato for the exercise:
 
-(Med. IV.1, VII.48, IX.30, XII.24; Seneca, Letters 91; Disc. I.14, III.24.)
+> "This is a fine saying of Plato: That he who is discoursing about men should look also at earthly things as if he viewed them from some higher place; should look at them in their assemblies, armies, agricultural labors, marriages, treaties, births, deaths, noise of the courts of justice, desert places, various nations of barbarians, feasts, lamentations, markets, a mixture of all things and an orderly combination of contraries." (Marcus Aurelius, Meditations, Book VII, section 48, [George Long translation](https://www.gutenberg.org/cache/epub/15877/pg15877.txt))
 
-**Plain words** Zoom out. Imagine looking down on the earth from far enough away that your city is a speck and your deadline is invisible. Marcus did this constantly — not to feel small, but to get proportion back. Most anxieties can't survive the change of scale.
+His own version is the sudden lift: "if thou shouldst suddenly be raised up above the earth, and shouldst look down on human things, and observe the variety of them how great it is" (Meditations XII.24). The inventory version: "Look down from above on the countless herds of men, and their countless solemnities, and the different voyages animated by storms, and the vicissitudes of things as they mingle together" (Meditations IX.30).
 
-*For example:* The founder pacing over a failed pitch who pictures the earth from orbit for ten seconds — the pitch shrinks to what it is, one meeting, and the next step becomes obvious.
+(Med. VII.48, IX.30, XII.24.)
+
+**Plain words**
+As a practical exercise, take your current worry and describe it from two heights: first as the city would see it, then as the earth would. Marcus's list — assemblies, armies, marriages, births, deaths, markets — is the template: place your item on the list.
+
+*For example (imagined):* The founder pacing over a failed pitch pictures the earth from orbit for ten seconds — one meeting, one speck of a city.
+
+## Sources
+
+- [Marcus Aurelius, Meditations (George Long translation, Project Gutenberg)](https://www.gutenberg.org/cache/epub/15877/pg15877.txt) — Book VII, section 48; Book IX, section 30; Book XII, section 24
 ## Psychology parallels
 
 - **[[Self-distancing|Self-distancing]]** (Kross and Ayduk, 2017)

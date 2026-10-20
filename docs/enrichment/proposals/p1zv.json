@@ -1,6 +1,6 @@
 {
  "batch": "p1zv",
- "revision": 11,
+ "revision": 12,
  "reciprocal": [
   {
    "into": "Truthfulness",
@@ -73,6 +73,12 @@
    "link": "S118",
    "why": "A Stoic principle on accepting what was given back",
    "notes": "S118 (2026-10-21, worker-p1zv-95f93b33): hub inspected via occurrence search (content/concepts/Acceptance.md has no S118 occurrence); grounded in S118's Ench. 11 quote verified against the extracted Long text."
+  },
+  {
+   "into": "Awe",
+   "link": "S124",
+   "why": "A Stoic principle on the cosmic-perspective exercise behind the small-self effect",
+   "notes": "S124 (2026-10-21, worker-p1zv-95f93b33): hub inspected via occurrence search (content/concepts/Awe.md has no S124 occurrence); grounded in S124's Med. IX.30 look-down-from-above quote verified against the opened Long text. Note: this page retains an inherited Related concepts section (SE016), preserved."
   }
  ]
 }
