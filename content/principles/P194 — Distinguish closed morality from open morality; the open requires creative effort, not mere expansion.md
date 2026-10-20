@@ -12,34 +12,38 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 194** — Distinguish closed morality from open morality; the open requires creative effort, not mere expansion
 
-Bergson distinguishes two kinds of morality. *Closed* morality is the morality of the group: it binds members together, excludes others, and is sustained by obligation and pressure. *Open* morality is the morality that, in principle, would embrace all of humanity. He argues you do not pass from one to the other by gradual expansion — they are not the same essence. Each time the circle is genuinely opened, it is a *creative* act, not a bigger version of the closed circle.
+In The Two Sources of Morality and Religion, Bergson distinguishes love of family and country from love of humanity. The former feelings "imply a choice, therefore an exclusion"; he describes the distinction from the latter as "a difference of kind" ([Bergson, chapter 1, p. 27](https://archive.org/details/twosourcesofmora033499mbp)).
 
-This is a structural distinction. Bergson does evaluate the open as requiring a creative act the closed does not require; do not neutralize this evaluation.
+> "Once again, it is not by a process of expansion of the self that we can pass from the first state to the second." ([Bergson, chapter 1, p. 27](https://archive.org/details/twosourcesofmora033499mbp))
 
-**Plain words** Closed morality is the morality of the group: it binds members together, excludes others, and is sustained by obligation and pressure. Open morality would embrace all of humanity — and you don't get there by gradual expansion; they're not the same essence. Each time the circle genuinely opens, it's a creative act, not a bigger version of the closed circle.
+His account gives dynamic morality a creative significance: he describes it as "inspiration, intuition, emotion" and "a contribution of man's genius" ([Bergson, chapter 1, p. 50](https://archive.org/details/twosourcesofmora033499mbp)). The compendium proposes examining the reasons for extending concern beyond a group. This exercise offers an application of the distinction, without establishing a test for an open soul.
 
-*For example:* The team that 'welcomes everyone' — as long as they cheer for the team. That's a closed circle, marketing itself as open. The actual opening is rarer and stranger: someone genuinely stepping outside the group's logic. Creative act, not expansion.
+### Plain words
+
+Ask whom your concern is for and why. Would you offer help if the person could never join your group or return the favor? Consider what response you could offer beyond the group's existing loyalties.
+
+### For example
+
+Imagine a team considering assistance for a former rival. Write down the reasons offered for and against helping. Then propose one way to help that does not require the recipient to endorse the team. Treat this as a possible application; a single decision does not establish either kind of soul.
 
 ## Philosophy parallels
 
-- **(Buddhism)** Universal compassion (metta/karuna) is not a bigger version of tribal loyalty; it is a different kind of act.
-- **(Daoism)** The Daoist critique of rigid identity and fixed 'us vs them' categories.
+- (Buddhism) Universal compassion (metta/karuna)
 - **Contribution identity and group belonging**
 - **[[Creative identity|Creative identity]]**
 - **[[Deny yourself, take up the daily practice|Deny yourself, take up the daily practice]]**
 - **[[Effortless action through long effort|Effortless action through long effort]]**
 - **[[Long obedience in the same direction|Long obedience in the same direction]]**
 - **[[Moral circle expansion research|Moral circle expansion research]]**
-- **Nietzsche's critique of herd morality**
 - **[[Plain words over beautiful|Plain words over beautiful]]**
 
 ## Practice
 
-- When you notice yourself expanding your circle of concern, ask: is this a genuine opening, or a bigger version of the same closed circle? Bergson's test: the open requires a *creative* act, not just a wider application of the same rule.
+- For one decision involving an outsider, examine whether your reasons depend on group membership. Consider another response and explain what would justify it.
 
 ## Limits
 
-- Not a claim that closed-morality obligations are invalid or should be abandoned. Bergson does evaluate the open differently from the closed; do not present this as a mere neutral taxonomy.
+- The proposed exercise does not require abandoning responsibilities to a group. Bergson's distinction retains its evaluative force: he describes the first attachments as possible incentives to strife, while the other love "is all love" ([Bergson, chapter 1, p. 27](https://archive.org/details/twosourcesofmora033499mbp)).
 
 <!-- fc: reflections
 Where is your current morality actually closed — group-binding, excluding, sustained by habit — rather than open — creative effort? What's the opening?
