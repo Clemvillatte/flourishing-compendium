@@ -1,6 +1,6 @@
 {
  "batch": "p1zv",
- "revision": 9,
+ "revision": 10,
  "reciprocal": [
   {
    "into": "Truthfulness",
@@ -55,6 +55,12 @@
    "link": "S113",
    "why": "A Stoic principle on holding power as a friend of justice",
    "notes": "S113 (2026-10-21, worker-p1zv-95f93b33): hub inspected via occurrence search (no S113 occurrence in content/concepts/Justice.md); grounded in S113's Med. VI.30 'friend of justice' quote verified against the opened Long text."
+  },
+  {
+   "into": "Resilience",
+   "link": "S117",
+   "why": "A Stoic principle on turning setbacks into material for the next attempt",
+   "notes": "S117 (2026-10-21, worker-p1zv-95f93b33): hub inspected via occurrence search (no S117 occurrence in content/concepts/Resilience.md; the S107 proposal is a separate record); grounded in S117's Med. V.20 obstacle quote verified against the opened Long text."
   }
  ]
 }
