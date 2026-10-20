@@ -12,15 +12,15 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 95** — Let knowledge purify action
 
-The Gita sets knowledge above every other purifier and compares it to fire: a well-kindled blaze leaves no fragment of its fuel unburned, and the fire of knowledge, Krishna says, does the same to action. The verse says what it says without further mechanism. On the page's own practical reading, what is verified rather than merely believed is what deserves the label knowledge, and what is acted on is what can be checked.
+The Gita's claim, stated plainly in the verse, is that knowledge purifies action the way fire purifies fuel: completely, without residue. The verse does not supply a mechanism beyond the comparison. What the page adds as a practical reading is the discipline of preferring what is verified over what is merely believed when acting.
 
 > "Verily, there is no purifier in this world like knowledge. He who is perfected in Yoga finds it in the Self in time." (Bhagavad Gita 4.38, Sivananda translation)
 
 > "As the blazing fire reduces fuel to ashes, O Arjuna, so does the fire of knowledge reduce all actions to ashes." (Bhagavad Gita 4.37, Sivananda translation)
 
-**Plain words** The Gita's claim is that understanding something accurately does something to the way you act on it. Not that you stop acting. That what you act on changes. Practically, before acting on something you believe, check whether you have actually opened the thing itself — the reading, the conversation, the number — or only the conclusion you already preferred.
+**Plain words** The verse says fire does something specific to fuel: leaves nothing behind. The claim is that real understanding does the same thing to action. Not that you stop doing things. That what is left over after you understand — the residue of wanting, the part that kept the act tied to its payoff — is what goes.
 
-*For example:* (Imagined.) Someone has read a claim that a colleague's sniping tracks their own insecurity. The next morning they still snap back. The belief was held; the verification had not yet been done. They look again at what the colleague actually said, notice the part that matched and the part that did not, and pause longer before answering the next week.
+*For example:* (Imagined.) Someone holds a belief about a colleague's behaviour and keeps acting from it for a year without ever looking again at what the colleague actually does. When they finally re-read what was said, part of the belief does not survive the contact. What is left is what remains after the fire.
 ## Psychology parallels
 
 - **Implementation of knowledge as behavior change**, the intention-behavior gap and its bridges (Sheeran, 2002)
