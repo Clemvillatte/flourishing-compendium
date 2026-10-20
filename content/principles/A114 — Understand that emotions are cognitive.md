@@ -12,13 +12,19 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 114** — Understand that emotions are cognitive
 
-Aristotle's theory of emotions is not that they are mere feelings but that they involve judgments about situations. Anger is a judgment of injustice; fear is a judgment of danger; pity is a judgment of undeserved suffering. Understand your emotions as judgments, not as raw sensations.
+The Rhetoric opens its account of the emotions with a working definition: the emotions are "all those feelings that so change men as to affect their judgements, and that are also attended by pain or pleasure". Each is then defined by what it takes to be the case. Anger is "an impulse, accompanied by pain, to a conspicuous revenge for a conspicuous slight"; fear is "a pain or disturbance due to a mental picture of some destructive or painful evil in the future"; pity is pain at "some evil, destructive or painful, which befalls one who does not deserve it". The pattern is the principle: an emotion includes a view of the situation, which is why the rhetorician argues for and against emotions, and why a person can examine their own. The compendium's exercise: when an emotion arrives, ask what it is taking to be the case.
 
-(Rhetoric II.1-11; NE II.5.)
+(Rhetoric II.1, II.2, II.5, II.8.)
 
-**Plain words** Emotions aren't just raw feelings. They carry judgements. Anger judges injustice, fear judges danger, pity judges undeserved suffering. So read your emotions as judgements you can examine.
+> The Emotions are all those feelings that so change men as to affect their judgements, and that are also attended by pain or pleasure.
+>
+> Aristotle, Rhetoric II.1, translated by W. Rhys Roberts, [full text](https://classics.mit.edu/Aristotle/rhetoric.mb.txt).
 
-*For example:* Feeling furious at a colleague contains a judgement that you were treated unfairly. You can ask whether that's true.
+**Plain words**
+A feeling that does not just happen to you but takes a position: fear says there is danger coming, anger says you were slighted, pity says someone undeserving got hurt. Because the position is inside the feeling, you can interrogate the feeling like an argument: what would have to be true for this fear to be the right response? Sometimes the answer vindicates the emotion, sometimes it dissolves it.
+
+**For example**
+Feeling furious at a colleague contains a judgement that you were treated unfairly. You can ask whether that is true.
 
 ## Stories
 
@@ -33,6 +39,10 @@ Aristotle's theory of emotions is not that they are mere feelings but that they 
 
 - **[[Emotions as judgments|Emotions as judgments]]** (Stoic tradition; Nussbaum, Upheavals of Thought)
 - **Where phronesis and emotions connect** (Aristotle, NE VI)
+
+## Sources
+
+- [Rhetoric, Rhys Roberts translation, full text (Internet Classics Archive)](https://classics.mit.edu/Aristotle/rhetoric.mb.txt) — II.1, II.2, II.5, II.8
 
 <!-- fc: reflections
 What judgement sits inside your strongest recent emotion? Is it accurate?
