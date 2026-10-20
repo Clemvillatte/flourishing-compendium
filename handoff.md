@@ -68,8 +68,8 @@
   De Brevitate overlap. Carrier note repeated: Gutenberg #2680 is CASAUBON, use #15877
   for Long. Batons: p1zv baton RELEASED by this worker at band completion; band is
   available for QC/supervisor disposition.
-- WORKER CHECKPOINT p1zv (2026-10-21 ~17:15Z, worker-p1zv-95f93b33, QC MILESTONE ROUND IN PROGRESS):
-  The skipped item-15 milestone is being COMPLETED in this session (baton reclaimed). Advisor QC round 1
+- WORKER CHECKPOINT p1zv (2026-10-21 16:51Z clock reading, worker-p1zv-95f93b33, QC MILESTONE CLOSED — SCOPED PASS):
+  The skipped item-15 milestone is COMPLETED in this session (baton reclaimed). Advisor QC round 1
   FAILED 6 of 7 items; all repairs applied and pushed: S107 (framing + Plain words), S113 (adoption fact
   grounded in Long's introduction; quotes re-verified; no page change), S117 (framing + Plain words),
   S122 (quotation punctuation defect repaired — blockquote had changed the source colon to a period;
@@ -77,9 +77,17 @@
   raw text and was published without valid verbatim verification; the origin of the erroneous wording
   has not been established — replaced with the verbatim
   "infinitely varied voyagings in storms and calms" sentence), S126 (I.9 splice split, example repaired,
-  false precedent claim removed). S118 scoped PASS. All five remaining hubs read substantively
+  false precedent claim retracted by an addendum). S118 scoped PASS. All five remaining hubs read substantively
   (Resilience, Justice, Cosmopolitanism, Acceptance, Impermanence; Awe read for S124); proposals rev 14
-  with hub-read notes. WORKFLOW CORRECTION: the earlier "no advisor QC due per the speed directive"
+  with hub-read notes. ROUND 2: scoped content PASS for all seven items; three closeout blockers
+  then fixed — (a) IX.30 provenance claim corrected (mismatch demonstrated, origin NOT established),
+  (b) SE016 body read in full (Kross et al. 2014 self-talk studies; entry itself cites Med. IX.30;
+  S124's inherited description fits; no edit made), (c) baseline-aware validation vs a9f337e run on
+  all seven pages (all ok) with protected-element diff inspection: front matter, principle statements
+  and wikilinks all intact. Final verdict: MILESTONE CLOSED, scoped PASS for the S107-S126 batch.
+  Reception-time note: no exact user-message timestamp is available in session history; first clock
+  reading after reception was 16:45:53Z, used only as a conservative report-not-before checkpoint
+  (17:45:53Z), not as a verified T+60. WORKFLOW CORRECTION: the earlier "no advisor QC due per the speed directive"
   framing was wrong — the worker omitted the milestone under the user's time-box without QC
   authorization; the user's time-box did not waive QC. ACCOUNTING CORRECTION: S075 was a QC repair of
   an already-done item, not an additional completion; the earlier "26/30" checkpoints counted it in
