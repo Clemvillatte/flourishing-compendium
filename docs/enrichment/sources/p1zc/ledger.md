@@ -48,3 +48,11 @@ Short, item-keyed evidence notes (owner decision 2026-10-20, PROTOCOL-PRINCIPLES
   ellipsis-marked food fragment "Food does no good... as soon as it is eaten;" (§3 opening).
 - Saturation already reciprocal (7 concept pages cite S123); not on replicates list;
   no new proposals. Validator ok. DONE (no advisor QC due: item 3).
+
+## S127 — Practise the discipline of not wanting
+- Skip-ahead light check: body and Plain words at the bar; missing verbatim quote added.
+- Source opened: same MIT Classics Carter Enchiridion (see S105) — chapter 2 text
+  extracted and verified character-for-character.
+- Quotation: Ench. 2 "For the present, totally suppress desire... any less proper means."
+- Saturation reciprocal (4 concept pages cite S127); not on replicates list; no new
+  proposals. Validator ok. DONE (no advisor QC due: item 4).
