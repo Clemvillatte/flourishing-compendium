@@ -12,13 +12,25 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 181** — Don't grieve over the past or chase the future
 
-Flow with what is arriving; don't mourn what has passed. The present is the only address the Dao delivers to.
+In the Zhuangzi, the madman of Chu passes Confucius's door and calls out the whole stance in one line. The Daodejing's chapter 64 carries the same caution as a grasp: "he who takes hold of a thing (in the same way) loses his hold", and so "the sage... does not lay hold (so), and therefore does not lose his hold".
 
-(Zhuangzi 20; DDJ 64.)
+> The future is not to be waited for; the past is not to be sought again!
+>
+> (Zhuangzi 4, Legge)
 
-**Plain words** Grief for the past is a real, present experience — feel it fully. The trap is camping there: paying today's hours for losses that already happened. The present is the only address the Dao delivers to.
+The madman's context is an age of disorder, where the sage's task shrinks to preserving his life and the present; the speech goes on "Give over! give over approaching men with the lessons of your virtue!" The principle takes the line as a discipline of attention: the past cannot be retrieved and the future cannot be occupied, so conduct happens where conduct is possible.
 
-*For example:* The retiree who still misses the title some mornings and is also, by afternoon, in the garden — the missing and the gardening coexist. The present is where both happen.
+(Zhuangzi 4; DDJ 64.)
+
+**Plain words**
+Grief for the past is itself a present event, so feeling it is not the error. The error is treating the feeling as a place to live. The chapter's line says the future cannot be waited for and the past cannot be sought again; both leave you with what is in front of you.
+
+*For example:* The retiree who still misses the title some mornings and is also, by afternoon, in the garden — the missing and the gardening coexist.
+
+## Sources
+
+- [Zhuangzi, Legge translation (ETH Zurich PDF)](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — ch. 4, the madman of Chu
+- [The Tao Teh King, Legge translation (Project Gutenberg)](https://www.gutenberg.org/cache/epub/216/pg216.txt) — chapter 64
 
 ## Psychology parallels
 
