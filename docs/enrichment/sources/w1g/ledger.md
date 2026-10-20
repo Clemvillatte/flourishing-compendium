@@ -1444,3 +1444,25 @@ Advisor QC found batch-level and per-item issues; all repaired. Findings and rep
   Mathews program); no namespace-audit entry. Saturation: skipped per
   fast-track §1a (degree 10 < 15); no cross-link proposals filed.
 - Advisor QC: not due (item 8; next at item 10).
+
+## Autistic cognition: detail-focused processing (2026-10-20, worker-p1zs-7a4e2c91, fast-track; degree 8 — eligible)
+
+- OPENED: the PubMed record for Happé & Frith 2006 (PMID 16450045,
+  https://pubmed.ncbi.nlm.nih.gov/16450045/) — full abstract verified verbatim
+  on the opened record; blockquote is the review-of-50-studies sentence; the
+  definition sentence, the three challenges to the deficit reading, and the
+  executive-dysfunction/theory-of-mind independence claims grounded in the same
+  opened text. Frith 1989 deficit formulation cited as it appears in the opened
+  abstract ("The original suggestion of a core deficit..."); the 1989 book
+  itself NOT opened — the Frith 1989 line in Sources describes the cited
+  formulation, and the page attributes it via the abstract's phrasing.
+- Boundary: AT074's principle page already quotes the definition sentence from
+  the same PubMed record; this page's blockquote uses the review-finding
+  sentence instead to avoid duplicate blockquotes.
+- In-the-compendium clauses grounded in the principle pages' own quoted
+  material (CO080 Dwyer PMC9261839, AT074 Happé-Frith, AF081, BE076, MO071,
+  P103, SP002, CO001 via enrich_find context).
+- IS-IT-A-CONCEPT check: named cognitive-style construct with primary
+  literature; no namespace-audit entry. Saturation: skipped per fast-track §1a
+  (degree 8 < 15); no cross-link proposals filed.
+- Advisor QC: not due (item 9; the band's unblocked queue is now exhausted).

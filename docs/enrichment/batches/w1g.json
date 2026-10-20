@@ -64,7 +64,8 @@
   "Anger reappraisal",
   "Attachment security",
   "Attention management",
-  "Attentional bias theory MacLeod"
+  "Attentional bias theory MacLeod",
+  "Autistic cognition: detail-focused processing"
  ],
  "in_progress": null,
  "flagged": {
@@ -120,6 +121,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 24,
- "updated": "2026-10-20T11:53:33+00:00",
+ "updated": "2026-10-20T11:55:32+00:00",
  "band_done": false
 }
