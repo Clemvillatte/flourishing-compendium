@@ -164,3 +164,11 @@
 - Related concepts: Context effects in perception (deg 12, the seed's own edge). No reciprocal proposed.
 - Saturation: fast-track skip.
 - No advisor QC required (item 22).
+
+## Granovetter
+
+- Fast-track degree 1 (sole edge: SO030 psychology-parallels entry; SO030 is "Use weak ties as a bridge").
+- Opened sources: the cs.umd.edu JSTOR-scan PDF (abstract and mobility sentence verified verbatim via fetch). The UPenn mirror PDF was downloaded but its OCR text layer is fragmentary (scan) — not used for verification. The bridge/diffusion sentences in the body are paraphrases grounded in the paper's argument as summarized in the verified abstract plus the abstract-level claims; no unverified sentence quoted.
+- Related concepts: Actor-networks (deg 1), descriptive clause. No reciprocal proposed.
+- Saturation: fast-track skip.
+- No advisor QC required (item 23).
