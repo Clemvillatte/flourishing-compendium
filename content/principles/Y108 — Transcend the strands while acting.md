@@ -21,11 +21,13 @@ Bhagavad Gita 14.24 describes a person who is the same in pleasure and pain, to 
 *For example:* (Imagined application.) Someone receives an email of praise for a piece of work. Before replying, they consider whether the reply would have looked the same had the praise not arrived.
 ## Psychology parallels
 
-- **[[Metacognitive regulation of state|Metacognitive regulation of state]]**, the capacity to observe and shift one's own arousal and engagement (Flavell, 1979; state-matching interventions)
+- [[Metacognitive regulation of state|Metacognitive regulation of state]] (Flavell, 1979).
 
 ## Philosophy parallels
 
-- **[[Above the battle of the elements|Above the battle of the elements]]** (Emerson's "Brahma," Transcendentalist echo)
-- **[[Pu (the uncarved block)|The uncarved block]]** (Laozi, Daodejing 15)## Sources
+- [[Above the battle of the elements|Above the battle of the elements]] (Emerson, "Brahma")
+- [[Pu (the uncarved block)|The uncarved block]] (Laozi, Daodejing 15)
+
+## Sources
 
 - [Bhagavad Gita 14.24 (bhagavadgita.com)](https://bhagavadgita.com/chapter/14/verse/24)
