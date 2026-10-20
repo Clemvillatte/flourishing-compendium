@@ -76,3 +76,23 @@ reserve from the active supervisor (see TASKBOARD claim note).
   later pass wants it.
 - Saturation: fast-track exemption; no reciprocal proposed.
 - QC: validator ok.
+
+## Right association
+
+- Track: fast-track, current degree 5 (all principle neighbors).
+- Opened: https://accesstoinsight.org/tipitaka/dn/dn.31.0.ksw0 (Sigalovada
+  Sutta DN 31, Kelly/Sawyer/Yareham), fetched 2026-10-20.
+- Quotations, copied from the fetched page: the four good-hearted friends
+  sentence (blockquote); fragments "by restraining you from wrongdoing,
+  guiding you towards good actions", "not rejoicing in your misfortune,
+  delighting in your good fortune", "the taker, the talker, the flatterer,
+  and the reckless companion", "not friends, but enemies", "keep them at a
+  distance / As they would a dangerous path."
+- Compendium clause for AT009 grounded in its body ("attention is
+  contagious... pick your attentional company deliberately"). BE039's
+  floating seed link preserved in place (no relationship clause invented).
+- Social support theory Cohen Wills verified to exist (deg 8).
+- Limits: the ksw0 translation is one rendering of DN 31; the Thanissaro
+  DN 31 URL 404'd in this session, noted rather than retried.
+- Saturation: fast-track exemption; no reciprocal proposed.
+- QC: validator ok (1 warning: 1 Related-concepts line).
