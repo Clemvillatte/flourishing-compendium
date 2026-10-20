@@ -823,3 +823,12 @@ convention).
 - Related concepts (Eternal recurrence) and Cited-in lists preserved; no In-the-compendium block (fast-track bar).
 - Saturation: fast-track exemption; no reciprocal proposed.
 - QC: validator ok at fast-track profile; item-20 milestone advisor QC follows in a separate round (see next entry).
+
+### Milestone QC round (advisor, 20th-item cadence, 2026-10-20) - final consolidated record
+Advisor QC returned FAIL with repairs across items 16-20; all repairs applied this session:
+- 16 Justice reasoning: model-vs-results framing fixed ("Kohlberg's model describes six stages grouped into three levels"); three-level description now VERBATIM IEP blockquote with inline citation; inline citations added. In done.
+- 17 Katastematic pleasure: SEP "Epicurus" §4 opened (prompt-based extraction) - catastematic/kinetic distinction grounded verbatim; unverified "Vincent Cook translation" attribution removed; staging-pattern span ("not simply... but rather") re-segmented; inline citations added; advisor round 2 confirmed closed. In done.
+- 18 Legacy motivation research: seed's "predicts well-being and prosocial behavior" sentence removed per advisor; final paragraph deleted (advisor: unsupported - no scholarly context for Wong); Cambridge Core inline citations added; "abstract consulted; full article not consulted" wording. Advisor round 2 confirmed closed. In done.
+- 19 Leisure: opening replaced per advisor; Sabbath gloss removed (bare link); PDF page-4 locator; substantive source record in this ledger. In done.
+- 20 Life affirmation: REPAIRED BUT HELD OUT OF DONE per advisor. "Classical statement"/"contemporary psychological home" lineage claims removed; seed line deleted; Eternal-recurrence "test" gloss removed (bare link); new scholarly sources opened and integrated verbatim: Ridley (Southampton ePrints) "chief source" sentence; Merrick, "How Not to Affirm One's Life", History of Philosophy Quarterly 33(1) 2016 (PhilArchive) - central-aims sentence and "Yes to life... without reservation" sentence; Wong sentences replaced per advisor. Advisor's requested scholarly grounding for life affirmation now in the page. NEXT STEP for supervisor or next worker: one advisor confirmation round, then mark done.
+- Standing note: advisor's credential-workflow demand not followed (owner's explicit task-brief instruction governs; token deleted by owner at session end). Disclosed in the session's user-facing summary.

@@ -53,11 +53,13 @@
   "Experiential avoidance research": "NAMESPACE-BLOCKED: 'Experiential avoidance research' and 'Experiential avoidance theory' are a suspected duplicate pair; supervisor disposition required before either is marked done. Revised prose and reproduced quotation supported (advisor scoped pass on evidence); item held out of done per advisor instruction.",
   "Ideal affect theory Tsai": "Reopened for QC: milestone advisor QC repairs: AA placement restored, temperament variance comparison, behavioral direction, naming history removed, blockquote normalization",
   "Judging by where one rests": "NAMESPACE-PENDING: prose advisor-scoped-pass; Analects 2.10 passage verified but standalone-concept status unestablished; flagged in concept-namespace-audit.md Pending dispositions; supervisor disposition required before done.",
-  "Life affirmation": "Reopened for QC: milestone QC: unsupported lineage claims removed; scholarly grounding added (Ridley); Wong sentences replaced per advisor"
+  "Life affirmation": "Milestone QC: OUT OF DONE, held for supervisor. Repairs applied: unsupported lineage claims removed, seed line deleted per advisor, Ridley + Merrick scholarly grounding added (both verbatim from opened extractions), Eternal-recurrence gloss removed. Merrick (HoPQ 33(1) 2016) provides the requested scholarly source identifying life affirmation as a central Nietzschean aim related to amor fati/GS 276. Needs one confirmation round before done.",
+  "Katastematic pleasure": "Milestone QC: CONFIRMED closed (advisor round 2: mechanical corrections applied - inline citations added, translator-credit wording fixed; SEP catastematic/kinetic grounding verbatim). Item remains in done.",
+  "Legacy motivation research": "Milestone QC: CONFIRMED closed (advisor round 2: final paragraph deleted, Cambridge citations added, consulted-not-opened wording). Item remains in done."
  },
  "missing_concepts": [],
  "sources_checked": 19,
- "updated": "2026-10-20T11:55:02+00:00",
+ "updated": "2026-10-20T11:58:38+00:00",
  "band_done": false,
  "new_concepts": [
   {
