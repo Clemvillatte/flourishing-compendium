@@ -44,14 +44,17 @@ Bands are defined by committed manifests in `docs/enrichment/bands/<band>-manife
 
 FAST-BANDS IMPLEMENTATION (owner directive 2026-10-20, implemented by supervisor-36b57e93,
 advisor-reviewed): the FAST-TRACK bar is recorded as PROTOCOL.md §1a — eligibility is per
-ITEM (empty/very thin page, no unresolved findings, inside the worker's owned manifest,
-not under another live baton; already-adequate pages get the light check). Validate fast-track
-items with `enrich_validate.py --fast-track` (waives the prose minimum only; all other checks
-unchanged). Structure note: the ENTIRE weak-concept queue (2,189 items) is assigned across
-w1a-w1af, so minting new wf1/wf2 manifests would double-assign — instead the 27 never-claimed
-tail bands (w1f-w1z, w1aa-w1af; 1,839 items) hold most of the pool: claiming one and working
-its thin items at the §1a bar is the fast-band pipeline. AVAILABLE tail bands: w1g-w1z and
-w1aa-w1af (w1f is claimed). Daoist/Buddhist concepts first within a band where identifiable.
+ITEM BY CONNECTIONS (owner rule 2026-10-20): a concept with FEWER THAN 15 connections is
+fast-track eligible; a concept with 15+ connections follows the NORMAL track even when thin.
+Check the current degree with `enrich_find.py neighbors`, plus no unresolved findings, inside
+the worker's owned manifest, not under another live baton; already-adequate pages get the
+light check. Validate fast-track items with `enrich_validate.py --fast-track` (waives the
+prose minimum for CONCEPTS only; principles and all other checks unchanged). Structure note:
+the ENTIRE weak-concept queue (2,189 items) is assigned across w1a-w1af, so minting new
+wf1/wf2 manifests would double-assign — instead the 27 never-claimed tail bands (w1f-w1z,
+w1aa-w1af; 1,879 items) hold most of the pool: claiming one and working its <15-connection
+items at the §1a bar is the fast-band pipeline. AVAILABLE tail bands: w1g-w1z and w1aa-w1af
+(w1f is claimed). Daoist/Buddhist concepts first within a band where identifiable.
 
 ## Principles pass (owner priority, 2026-10-19)
 

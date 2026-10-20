@@ -13,12 +13,12 @@ The discipline of action taught in the Bhagavad Gita: act fully, give up attachm
 > Of doing right in right! Let right deeds be
 > Thy motive, not the fruit which comes from them.
 
-(Bhagavad Gita, Book II, [Arnold, The Song Celestial](https://www.gutenberg.org/files/2388/2388-h/2388-h.htm))
+(Bhagavad Gita, Chapter II, [Arnold, The Song Celestial](https://www.gutenberg.org/files/2388/2388-h/2388-h.htm))
 
-Karma yoga does not ask the actor to withdraw from work; the same poem calls doing one's allotted task more excellent than idleness. The discipline concerns the motive. Work because the act is right, and let the results arrive or fail to arrive without changing the effort. Detachment here is not indifference to outcomes: it is the refusal to make the fruit the reason for the work.
+Chapter III of Arnold's translation urges the reader to perform the allotted task and describes work as preferable to idleness. In this reading, giving up attachment to reward accompanies continuing to do the work.
 
 ## Sources
-- [The Song Celestial (Bhagavad Gita), Arnold translation, Project Gutenberg](https://www.gutenberg.org/files/2388/2388-h/2388-h.htm) — Book II
+- [The Song Celestial (Bhagavad Gita), Arnold translation, Project Gutenberg](https://www.gutenberg.org/files/2388/2388-h/2388-h.htm) — Chapters II and III
 - Wikipedia Karma yoga: https://en.wikipedia.org/wiki/Karma_yoga
 
 ## Cited in philosophy parallels

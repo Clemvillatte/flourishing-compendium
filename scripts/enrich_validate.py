@@ -79,7 +79,8 @@ def validate(path, byfile, byid, base='HEAD', fast_track=False):
     bad = sorted(t for t in ln if t not in byfile and t not in byid)
     if bad: errs.append(f'UNRESOLVED links: {bad[:6]}')
     pt = prose_text(body_n); pw = len(pt.split())
-    if pw < minw and not fast_track: errs.append(f'prose too short: {pw} < {minw}')
+    waive_minimum = fast_track and typ == 'concept'  # §1a fast-track: concepts only
+    if pw < minw and not waive_minimum: errs.append(f'prose too short: {pw} < {minw}')
     if pw > maxw: errs.append(f'prose too long: {pw} > {maxw}')
     low = pt.lower()
     for w in BANNED:
@@ -108,8 +109,8 @@ if __name__ == '__main__':
     ap.add_argument('--base', default='HEAD', help='committed comparison baseline (default HEAD)')
     ap.add_argument('--fast-track', action='store_true',
                     help='fast-track profile (PROTOCOL.md §1a): waive the prose word MINIMUM '
-                         'for concept pages completed to the fast-track bar; maximum, source-URL, '
-                         'metadata, link, protected-section and humanizer checks unchanged')
+                         'for CONCEPT pages (<15 connections) completed to the fast-track bar; '
+                         'principles and all other checks unchanged')
     ap.add_argument('paths', nargs='*')
     args = ap.parse_args()
     paths = args.paths

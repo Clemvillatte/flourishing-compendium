@@ -32,12 +32,13 @@ Voice = `HUMANIZER-SKILL.md` (read it; its rules are binding). Facts = verified,
 
 ## 1a. Fast-track bar for empty or very poor concepts (owner directive, 2026-10-20)
 
-**Eligibility is per item, not per band.** A fast-track item is a concept page that is
-(currently) empty or very thin, sits inside the worker's OWNED band manifest, has no
-unresolved QC or correction findings, and is not under another live baton. Before starting:
-check the current page (not just the stale queue), the completion records, and the remote
-baton state. An already-adequate page gets the light check (skip-ahead rule, §1) — do not
-re-enrich it down to the bar. A page under live QC corrections remains a normal item.
+**Eligibility is per item, by connections (owner rule, 2026-10-20): a concept page with
+FEWER THAN 15 connections (graph degree < 15) is fast-track eligible; a concept with 15 or
+more connections follows the NORMAL track even when its page is thin.** Check the current
+degree (`python3 scripts/enrich_find.py neighbors "<id>"`), not just the stale queue. The
+item must sit inside the worker's OWNED band manifest, have no unresolved QC or correction
+findings, and not be under another live baton. An already-adequate page gets the light check
+(skip-ahead rule, §1). A page under live QC corrections remains a normal item.
 
 **The bar.** Accurate minimal content, enough for a writer to understand what the concept
 is and get the gist:
@@ -66,11 +67,11 @@ Calibration example: `content/concepts/Working memory capacity limits.md` (Cowan
 
 **Where the fast-track items live.** The entire weak-concept queue (2,189 items) is already
 assigned across manifests w1a-w1af, so no new wf-bands can be minted without double
-assignment. The 27 never-claimed tail bands (w1f-w1z, w1aa-w1af — 1,839 items, no state
-files or batons) hold most of the pool: claiming one and working its thin items at this bar
-is the fast-band pipeline. Daoist and Buddhist concepts are worked first within a band
-where identifiable (many tail items are tradition-neutral psychology concepts). Available
-tail bands are published on the TASKBOARD.
+assignment. The 27 never-claimed tail bands (w1f-w1z, w1aa-w1af — 1,879 items; w1f is now
+claimed) hold most of the pool: claiming one and working its <15-connection items at this bar
+is the fast-band pipeline. Their ≥15-connection items follow the normal track. Daoist and
+Buddhist concepts are worked first within a band where identifiable (many tail items are
+tradition-neutral psychology concepts). Available tail bands are published on the TASKBOARD.
 
 ## 2. Page template (after unchanged front-matter)
 
