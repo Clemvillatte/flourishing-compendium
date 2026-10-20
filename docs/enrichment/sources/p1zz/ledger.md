@@ -55,3 +55,12 @@
 - Woods HOS 17: 1.31 on p. 65 with Vyasa/Vacaspati; 4.27 p. 339, 4.28 p. 340. Quotes verified (benign OCR hyphen breaks in "mind- stuff", quote glyph spacing).
 - Y060: old "the body carries the score before the mind admits it" is not in the text (Vyasa: they occur when the mind is distracted); relabelled the page's gloss. Breath meant is involuntary breathing. Plain words and example replaced; example imagined. Old "first hour of practice" corrected (page: start of a sitting).
 - Y068: sutras concern lapses in an advanced practitioner near discrimination, not everyday habit relapse; page says so. Relapse card labelled the page's own. Plain words and example replaced; imagined.
+
+## Y044 (YS 2.46-2.48), Y052 (YS 1.38), Y057 (BG 2.59), Y071 (BG 13.8-12, 12.13-14, YS 1.33), Y072 (YS 2.28-2.29, 2.49, 3.1-3.3)
+- Woods HOS 17: 2.46 pp. 191-192 with Vyasa/Vacaspati; 1.38 p. 76; 2.49 p. 193; analysis pp. xxxvi-xxxvii; 3.1-3.3 pp. 203-205. Mukundananda 2.59 and 13.8-12 and 12.13-14. Quotes verified (benign OCR hyphen/space noise only).
+- Y044: old "defined by exactly two qualities" supported by Vyasa; constant maintenance rule tied to 2.47 commentary "when efforts cease the posture is completed". Plain words and example replaced (old plain-words omitted example); imagined.
+- Y052: SIGNIFICANT CORRECTION. Sutra 1.38 is about a dream or sleep perception as an object of concentration (Vacaspati: adoring an image seen in a dream, then reflecting on it on waking), not about learning from dream content. Page rewritten; recurring-theme exercise labelled the page's own. Title kept for now ("Learn from dream and sleep"); supervisor may want to retitle.
+- Y057: old "appetite may outlast the behavior... neither timing nor disappearance guaranteed": the verse says the taste ceases for those who realize the Supreme; commentary reads it as sublimation. Page says the timetable is not given. Plain words and example replaced; imagined.
+- Y071: no single verse sets the balance; pairing of three passages; avoid/diffuse warning labelled the page's own. Plain words and example replaced; imagined.
+- Y072: the page's limb names (absorption, integration) differ from Woods (fixed-attention, contemplation, concentration); noted on page. "Dependency map / faults upstream" labelled the page's use; 2.53 not used (Woods's analysis lists it under withdrawal). Plain words and example replaced; imagined.
+- Dashes: no em dashes in new prose; "Related concepts" absent as in originals (warn only).

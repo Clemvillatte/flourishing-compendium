@@ -12,13 +12,24 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 52** — Learn from dream and sleep
 
-The support named next: knowledge derived from dream and from dreamless sleep, the tradition's acknowledgment that the mind continues processing below awareness and that its products carry information. The bounded formulation is modest: treat dreams and first-waking material as data about what the mind is working on, without building a doctrine on them. Practically, note recurring dream themes once a month as a self-study exercise.
+Sutra 1.38 is one of the supports on which the mind can rest:
 
-(YS 1.38.)
+> Or [the mind-stuff reaches the stable state] by having as the supporting-object a perception in dream or in sleep.
 
-**Plain words** The support named next: knowledge from dream and dreamless sleep — the mind keeps processing below awareness, and its products carry information. The bounded formulation is modest: treat dreams and first-waking material as data, not as scripture or noise.
+(Yoga Sutras 1.38, trans. James Haughton Woods, *The Yoga-System of Patanjali*, Harvard Oriental Series 17, 1914, p. 76, [Internet Archive](https://archive.org/details/yogasystemofpata00wooduoft).)
 
-*For example:* Someone keeps waking with the same uneasy image all week — doesn't consult an oracle, just writes it down and notices it arrived exactly during the week they were avoiding the conversation. Data.
+The sutra is about concentration, not about interpreting dreams. In Vacaspati's gloss a practitioner adores an image in a dream, "awakens with mind in undisturbed calm", and then reflects on the same image until "his mind-stuff reaches a stable state". For sleep the gloss says the sleep in question is of a particular quality: on waking one has "the connecting-memory 'I slept well'", because in that sleep the mind had become "single-in-intent".
+
+So the sutra's point is that a dream or a calm sleep can serve as an object of steadiness. It says nothing about dreams carrying information on what the mind is working through. That, along with a monthly list of recurring themes, is this page's own bounded use of dream material, offered as self-study and not as a claim of the tradition.
+
+**Plain words**
+
+Some people wake with a vivid image or a good feeling. The sutra says that can be used: hold the image or the feeling in mind and let it steady you. The text does not say dreams explain you. Keep a note of what recurs if you like, and treat it as a record to look at later.
+
+**For example**
+
+A woman wakes with the image of a lit window in a dark wood. She sits with it for ten minutes, finds her mind quiet, and a month later notices the window has come up three times.
+
 ## Psychology parallels
 
 - **Sleep-dependent emotional processing**, the finding that REM sleep modulates emotional memory (Walker, 2017)
@@ -26,3 +37,7 @@ The support named next: knowledge derived from dream and from dreamless sleep, t
 ## Philosophy parallels
 
 - **Dreams as the mind's other work** (Freud, The Interpretation of Dreams, as modern echo)
+
+## Sources
+
+- [Woods, The Yoga-System of Patanjali (1914), Yoga Sutras 1.38 with Vacaspati, p. 76, Internet Archive](https://archive.org/details/yogasystemofpata00wooduoft)
