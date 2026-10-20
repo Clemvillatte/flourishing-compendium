@@ -16,9 +16,15 @@ The chapter's causal analysis: harm does not arise from a free, unconditioned wi
 
 (Shantideva, Bodhicharyavatara, ch. 6; the Buddhist doctrine of dependent origination.)
 
+> As I don't get enraged with great sources of suffering, for instance with bile, then why get enraged with those having limited minds? All of them, as well, are provoked by conditions. (Shantideva, Bodhicharyavatara VI.22, Alexander Berzin translation, 2004)
+
 **Plain words** Harm doesn't come from a free, unconditioned will that simply chose evil. It comes from conditions: a person's history, state, ignorance and situation, just as your own harms come from yours. That's dependent origination applied to forgiveness. Hatred aims at a villain, and the villain isn't quite there.
 
 *For example:* A driver who cuts you off was perhaps up all night with a sick child. Not an excuse, but a different object for your anger.
+
+## Sources
+
+- [Shantideva, Engaging in Bodhisattva Behavior, ch. 6 "Showing Patience" (Berzin translation)](https://studybuddhism.com/en/tibetan-buddhism/original-texts/sutra-texts/engaging-in-bodhisattva-behavior/showing-patience)
 
 ## Psychology parallels
 
