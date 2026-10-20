@@ -32,7 +32,7 @@ Imagined: Someone who describes herself as unreliable lists recent commitments s
 
 - [McAdams, "'First we invented stories, then they changed us': The Evolution of Narrative Identity", Evolutionary Studies in Imaginative Culture (2019, open PDF)](https://web.ics.purdue.edu/~drkelly/McAdamsFirstWeStoriesThenTheyChangedUs2019.pdf) — introduction
 - [Wikipedia, "Anattalakkhaṇa Sutta"](https://en.wikipedia.org/wiki/Anattalakkha%E1%B9%87a_Sutta) — the not-self discourse (second discourse of the Buddha)
-- [Stanford Encyclopedia of Philosophy, "Paul Ricoeur"](https://plato.stanford.edu/entries/ricoeur/) — Time and Narrative among his works
+- [Stanford Encyclopedia of Philosophy, "Paul Ricoeur"](https://plato.stanford.edu/entries/ricoeur/) — the narrative-identity discussion: Time and Narrative led Ricoeur to the claim that personal identity can be considered as a narrative identity
 
 ## Psychology parallels
 

@@ -33,6 +33,8 @@ Imagined: A parent asks two teenagers why they keep a curfew. One mentions the p
 ## Sources
 
 - [Spinoza, Theological-Political Treatise, Curley translation (Archive.org full text)](https://archive.org/details/spinoza-theological-political-treatise-curley) — ch. IV (the Adam passage), ch. V (the fear analysis), ch. XVI (obedience freely or from fear)
+- [James 1:25 (Biblehub)](https://biblehub.com/james/1-25.htm) — "the perfect law, the law of liberty"
+- [Jeremiah 31:33 (Biblehub)](https://biblehub.com/jeremiah/31-33.htm) — "I will give My law in their inward parts, and I will write it upon their hearts"
 
 ## Psychology parallels
 

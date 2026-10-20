@@ -32,7 +32,7 @@ Imagined: After repeated attempts to become a morning person, a man decides to a
 
 - [Roberts & DelVecchio, "The rank-order consistency of personality traits from childhood to old age", Psych Bull 126(1), 2000 (PubMed record)](https://pubmed.ncbi.nlm.nih.gov/10668348/) — abstract, opened via the NCBI record
 - [Wikipedia, "Serenity prayer"](https://en.wikipedia.org/wiki/Serenity_Prayer) — the prayer's wording
-- [Wikipedia, "Apology (Plato)"](https://en.wikipedia.org/wiki/Apology_(Plato)) — the dialogue containing Socrates' defence, including its discussion of the wisest man
+- [Wikipedia, "Apology (Plato)"](https://en.wikipedia.org/wiki/Apology_(Plato)) — the wisest-man passage of Socrates' defence (21d): "neither of us knows anything worthwhile, but he thinks he knows something when he does not"
 - [Wikipedia, "Wu wei"](https://en.wikipedia.org/wiki/Wu_wei) — wu wei as a Daoist concept
 
 ## Psychology parallels

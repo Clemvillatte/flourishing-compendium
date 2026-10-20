@@ -29,6 +29,8 @@ Imagined: Before preparing a presentation, Sarah writes "Sarah feels anxious abo
 ## Sources
 
 - [Kross et al., "Self-talk as a regulatory mechanism: how you do it matters", JPSP 106(2), 2014 (PubMed record)](https://pubmed.ncbi.nlm.nih.gov/24467424/) — abstract, opened via the NCBI record
+- [Wikipedia, "Arthur J. Deikman"](https://en.wikipedia.org/wiki/Arthur_Deikman) — The Observing Self (1983) among his published works
+- [Marcus Aurelius, Meditations IX.30, George Long translation (Wikisource)](https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_IX) — "Look down from above on the countless herds of men" (the view-from-above exercise)
 
 ## Psychology parallels
 

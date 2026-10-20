@@ -55,12 +55,12 @@
   "S073",
   "S089",
   "S120",
-  "SE016",
-  "SP076",
   "SO043",
   "SP037",
   "SE001",
-  "SE068"
+  "SE068",
+  "SE016",
+  "SP076"
  ],
  "in_progress": null,
  "flagged": {
@@ -93,15 +93,15 @@
   "R037": "RESOLVED: item-15 checkpoint passed (advisor scoped approval after two repair rounds; concept bodies re-read from YAML fence to end with no substantive mismatches; approval covers displayed passages and documented checks, not a blanket audit)",
   "R051": "RESOLVED: item-15 checkpoint passed (advisor scoped approval after two repair rounds; concept bodies re-read from YAML fence to end with no substantive mismatches; approval covers displayed passages and documented checks, not a blanket audit)",
   "SE001": "Reopened for QC: QC correction: evidence round",
-  "SE016": "Reopened for QC: QC correction: milestone QC repairs",
+  "SE016": "Reopened for QC: QC correction: evidence round sources",
   "SE068": "Reopened for QC: QC correction: evidence round",
   "SO043": "Reopened for QC: QC correction: final round",
   "SP037": "Reopened for QC: QC correction: final round",
-  "SP076": "Reopened for QC: QC correction: milestone QC repairs"
+  "SP076": "Reopened for QC: QC correction: evidence round sources"
  },
  "missing_concepts": [],
  "sources_checked": 15,
- "updated": "2026-10-20T05:09:36+00:00",
+ "updated": "2026-10-20T05:13:11+00:00",
  "band_done": false,
  "takeover": {
   "by": "genuineflourishing35",
