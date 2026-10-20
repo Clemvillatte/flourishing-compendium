@@ -31,7 +31,6 @@ A response can come to mind automatically; you can also work through a problem d
 
 - **[[Dual-process theory|Dual-process theory]]**, two systems with distinct properties; System 1 is associative and fast, System 2 is rule-based and slow (Kahneman, 2011; Evans & Stanovich, 2013)
 - **Autonomy, not speed, defines the types**, Type 1's defining characteristic is autonomy; rapid execution and associativity are correlated but not defining features (Evans & Stanovich, 2013)
-- **System 1 is not inherently biased; it is often adaptive**, heuristics can be fast and frugal and outperform complex reasoning in uncertain environments (Gigerenzer, 2007)
 
 ## Philosophy parallels
 
