@@ -12,11 +12,23 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 23** — Know that affect changes memory; do not trust emotional memory as a record
 
-Your current mood changes which memories you retrieve and how you interpret them. Feeling sad biases recall toward sad memories; feeling anxious biases interpretation toward threat. This is mood-congruent memory, and it is one of the mechanisms that maintains depression and anxiety.
+Bower's article describes experiments in which happy or sad moods were induced in subjects by hypnotic suggestion to investigate the influence of emotions on memory and thinking ([Bower, 1981](https://scispace.com/papers/mood-and-memory-2hpv5hktzq)). One result: people "recalled a greater percentage of those experiences that were affectively congruent with the mood they were in" during recall ([Bower, 1981](https://scispace.com/papers/mood-and-memory-2hpv5hktzq)). Sad readers "attended more to sad material, identified with a sad character from a story, and recalled more about that character" ([Bower, 1981](https://scispace.com/papers/mood-and-memory-2hpv5hktzq)). The proposed theory links each emotion to the events it coincided with, so that activating the emotion helps retrieve those events ([Bower, 1981](https://scispace.com/papers/mood-and-memory-2hpv5hktzq)). The exercise below checks a recalled event against a different mood's reading of it.
 
-**Plain words** Your current mood changes which memories you retrieve and how you interpret them. Feeling sad biases recall toward sad memories; feeling anxious biases interpretation toward threat. Mood-congruent memory: do not trust the emotional archive as a record.
+> Thus, sad readers attended more to sad material, identified with a sad character from a story, and recalled more about that character.
+>
+> Gordon H. Bower, "Mood and memory," American Psychologist 36(2), 129-148, [paper record](https://scispace.com/papers/mood-and-memory-2hpv5hktzq).
 
-*For example:* The 3 a.m. conviction that the whole life has been a failure — and the fact-check that only becomes possible at 10 a.m., when the archive returns different files. The memories weren't lying exactly; the librarian was in a mood.
+> ...people recalled a greater percentage of those experiences that were affectively congruent with the mood they were in...
+>
+> Bower (1981), same paper, [paper record](https://scispace.com/papers/mood-and-memory-2hpv5hktzq).
+
+(Bower, 1981, American Psychologist 36(2): 129-148.)
+
+### Plain words
+
+Mood and recall are linked: people remembered more of what matched the mood they were in during recall, and sad readers dwelt on sad material. The paper's theory treats an emotion as a memory unit connected to the events it coincided with. For an exercise, take one memory that reads differently depending on mood, and write both readings.
+
+For example: a memory of a conversation that reads as proof of failure at 3 a.m. and as an ordinary disagreement at 10 a.m. Write both readings and note which mood each belongs to. (An invented illustration.)
 ## Psychology parallels
 
 - **[[Mood-congruent memory|Mood-congruent memory]]**, current affect biases recall toward affectively congruent material (Bower, 1981)
