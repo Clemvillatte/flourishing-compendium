@@ -16,15 +16,15 @@ Mead's distinction is compressed into one sentence: "The 'I' is the response of 
 
 > "The 'I' both calls out the 'me' and responds to it. Taken together they constitute a personality as it appears in social experience. The self is essentially a social process going on with these two distinguishable phases." (Mead, Mind, Self and Society, p. 178, [text](https://archive.org/download/mead-1934/mead%201934.pdf))
 
-Mead is describing the social genesis of the self, and his timing claim is retrospective: the act is known only after it is done. The compendium's exercise is a proposed application he does not make: treat the self-verdict as a report on acts already finished, and treat the next act as outside that report's jurisdiction.
+Mead is describing the social genesis of the self, and his timing claim is retrospective: the response becomes available to experience only after it has taken place. The compendium's exercise is a proposed application he does not make: before an act, notice what the "me" expects of you; after it, compare what was actually said and done.
 
 ### Plain words
 
-Two of you are present in every moment, and only one of them can be quoted. The "me" is the file, habits and reputation and the story so far. The "I" is whatever you do next, and it does not exist until it is being done. The résumé is a photo of the river, not the river.
+The self has two phases, and only one can be quoted. The "me" is the organized set of attitudes taken over from others, the part that can be inspected and narrated. The "I" is your response to all that, and it enters experience only afterward, in memory. The résumé is a photo of the river, not the river.
 
 ### For example
 
-Take the panic of "I'm someone who always quits." That sentence is the "me" speaking, a summary of acts already completed, and it cannot contain an act that has not happened. The exercise is to notice the sentence, then close the laptop and start anyway, and let the record be corrected by what just got done. The exercise does not promise the attempt succeeds; it promises the narrator is not the agent.
+Take the panic of "I'm someone who always quits." That sentence comes from the "me," a record of acts already finished. The exercise is to note what the record predicts, then act and review what was actually done: the prediction is one input, and the review is where the response becomes visible. The exercise does not promise the next attempt succeeds; it sets up a comparison between expected and actual response.
 
 ## Psychology parallels
 
