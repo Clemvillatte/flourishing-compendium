@@ -14,7 +14,9 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 
 The Buddha introduces the simile directly: "Monks, I will teach you the Dhamma compared to a raft, for the purpose of crossing over, not for the purpose of holding onto." The man who has crossed should leave the raft behind: "Why don't I, having dragged it on dry land or sinking it in the water, go wherever I like?"
 
-> In the same way, monks, I have taught the Dhamma compared to a raft, for the purpose of crossing over, not for the purpose of holding onto. Understanding the Dhamma as taught compared to a raft, you should let go even of Dhammas, to say nothing of non-Dhammas.
+> In the same way, monks, I have taught the Dhamma compared to a raft, for the purpose of crossing over, not for the purpose of holding onto.
+>
+> Understanding the Dhamma as taught compared to a raft, you should let go even of Dhammas, to say nothing of non-Dhammas.
 >
 > (Alagaddupama Sutta, MN 22, Thanissaro)
 
@@ -23,9 +25,9 @@ The closing instruction is the principle: even the teachings themselves are to b
 (Alagaddupama Sutta, MN 22.)
 
 **Plain words**
-The test of a view is what it is for. Ask of any framework you hold: what river was it built to cross, and have you crossed? A view kept past its crossing is not more true, just heavier. The exercise: name one belief that once helped and now mainly organizes your identity.
+As a compendium exercise, choose a view you rely on and describe what it helps you do. Ask why you continue to use it and what would give you reason to reconsider it. Its past usefulness need not settle whether you should keep using it.
 
-*For example:* The therapy framework that saved you in your twenties can become the cage of your thirties — time to leave the raft on the bank.
+*For example:* Imagine defending a familiar meditation instruction in a discussion. Before arguing for it, describe how you use it and what you understand it to be for.
 
 ## Sources
 
@@ -35,11 +37,7 @@ The test of a view is what it is for. Ask of any framework you hold: what river 
 
 - **[[Cognitive defusion|Cognitive defusion]]**
 - **[[Epistemic humility|Epistemic humility]]**
-
-## Philosophy parallels
-
-- **The ladder to be thrown away**
-- **Maps versus territory** (Korzybski, Science and Sanity)
+- **Maps versus territory**
 
 <!-- fc: reflections
 Which teaching, framework, or view have you turned into furniture you're carrying on your head rather than a raft you used and set down?

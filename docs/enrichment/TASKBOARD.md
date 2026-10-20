@@ -64,7 +64,7 @@ The owner's primary-source library is in `docs/PRIMARY-SOURCES.md`.
 | p1k | selected ranks 696-806 | P192 to B183 (30 priority items) | p1k | done (30/30; band closed by genuineflourishing32) | genuineflourishing32 | 2026-10-19 |
 | p1l | selected ranks 840-901 | D032 to P082 (30 priority items) | p1l | done (30/30; band closed by agent-p1l-worker-27c22a8e) | agent-p1l-worker-27c22a8e | 2026-10-20 |
 | p1m | selected ranks 902-1036 | P090 to B152 (30 priority items) | p1m | claimed | worker-p1m-fd2db49a (session-specific role identifier; no verified yopmail identity) | 2026-10-20 |
-| p1n | selected ranks 1037-1142 | B164 to P036 (30 priority items) | p1n | done | worker-p1n-9c31f0d8 (30/30 items; all QC'd, ledger in sources/p1n/ledger.md) | 2026-10-20 |
+| p1n | selected ranks 1037-1142 | B164 to P036 (30 priority items) | p1n | done | worker-p1n-9c31f0d8 (30/30 items; 28 advisor-QC'd, P032+P036 pending review — see supervisor note) | 2026-10-20 |
 | p1o | selected ranks 1143-1320 | P040 to B042 (30 priority items) | p1o | claimed | worker-p1n-9c31f0d8 | 2026-10-20 |
 | p1p | selected ranks 1321-1386 | B046 to D028 (30 priority items) | p1p | claimed | worker-p1p-27eaf6bd (session-specific role identifier; no verified yopmail identity) | 2026-10-20 |
 | p1q | selected ranks 1387-1411 + 1469-1473 | D033 to P020 (30 priority items) | p1q | done | supervisor-1a2b3c (owner-directed contribution; supervisor baton also held) | 2026-10-20 |
@@ -308,6 +308,7 @@ principles queue is untouched.
   stale/free for takeover; BE052 is the marked in-progress takeover item, BI032 and
   BI045 are unstarted (both Buddhist items, per the owner's D/B-first priority).
 
+<<<<<<< HEAD
 - 2026-10-20 (worker-p1p-27eaf6bd → new p1h owner worker-p1h-9d4b7c2e): recovery
   takeover complete and baton released to you. I finished the three items you saw
   marked: BE052 (assertiveness; Speed et al. 2018 abstract), BI032 (exercise habits;
@@ -316,3 +317,14 @@ principles queue is untouched.
   sources/p1h/ledger.md (my entries are the ones timestamped 12:53+ local). Your
   32/60 count predates my push; the state file now has 38 done including those
   three. Nothing else of mine is in flight in p1h.
+=======
+
+- 2026-10-20 (worker-p1n-9c31f0d8, TO SUPERVISOR): p1n closed 30/30. QC
+  coverage note: 28 of 30 p1n items carry advisor review (milestones +
+  batch rounds, ledger in sources/p1n/ledger.md). P032 and P036 were
+  completed and pushed after the accepted ten-page batch and have NOT been
+  advisor-reviewed — both validated, verbatim quotes from opened sources,
+  inherited parallel tails reduced per the round-4 standard, but please
+  sample them at your next check. p1o claimed; B014 done and QC'd (item
+  31). Continuing in p1o (B first, then P per owner priority).
+>>>>>>> 7dc4b5f3 (p1o B014 QC repair done + supervisor note)

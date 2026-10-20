@@ -11,5 +11,16 @@
   Wittgenstein Tractatus 6.54 ladder citation reduced (Tractatus not
   fetched; Gutenberg ebook 5720 is A Shropshire Lad, not the Tractatus —
   recorded here).
-- Saturation: cited by [[Cognitive defusion]] etc. (concept links
-  retained). Validator: ok vs 71fd7049.
+- Saturation (actual, via rg -l 'B014' content/concepts/): 4 concept
+  pages cite B014 — Epistemic humility, Throwing away the ladder, Partial
+  truths in every opinion, Cognitive defusion.
+- Advisor milestone QC (item 31 overall: 30 p1n items + B014): round 1
+  FAIL -> repairs applied per exact edits (aphorism and therapy-framework
+  example replaced with the compendium exercise and the meditation
+  instruction example; Wittgenstein ladder parallel line deleted —
+  source-specific formulation, not verifiable from an opened source;
+  Korzybski Science and Sanity attribution reduced to the bare topical
+  name; MN 22 blockquote paragraph break preserved). Validated vs 0d7b1aee
+  (B014 pre-edit commit); reopen->done recorded.
+- Count correction: this session's milestone item is 31 (30 p1n + 1 p1o),
+  not 30 as first reported here.
