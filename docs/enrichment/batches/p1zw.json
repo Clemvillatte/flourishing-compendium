@@ -6,19 +6,22 @@
   "K020",
   "K027",
   "K028",
-  "K032",
   "K037",
   "K046",
   "K054",
-  "K055"
+  "K055",
+  "K032"
  ],
  "in_progress": null,
  "flagged": {
   "K069": "inherited psychology bullet (Linville 1987; Bernstein 2015): 'rigid self-definition predicts poor stress response' — constructs not verified for this precise claim (Linville's construct is self-complexity; Bernstein 2015 is a decentering constructs review); needs supervisor verification or narrowing; wikilink preserved",
   "K027": "inherited psychology bullet (mindfulness transfer to daily activity): 'informal practice moments add to formal sitting' — not verified from opened sources this session; needs verification or scope narrowing",
-  "K028": "inherited psychology bullet (Fredrickson et al. 2008; Klimecki et al. 2013): loving-kindness/compassion findings cited as parallels — tonglen-specific evidence and precise claim scope not verified this session; needs supervisor verification or narrowing"
+  "K028": "inherited psychology bullet (Fredrickson et al. 2008; Klimecki et al. 2013): loving-kindness/compassion findings cited as parallels — tonglen-specific evidence and precise claim scope not verified this session; needs supervisor verification or narrowing",
+  "K032": "Reopened for QC: QC correction: milestone round 2 repairs (overreach removal, quote fidelity)",
+  "K054": "inherited psychology bullet (Yeager et al. 2014): 'purpose-framed goals outperform ego-framed ones' — precise claim not verified from the opened study this session; needs supervisor verification or narrowing"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T12:37:36+00:00"
+ "updated": "2026-10-20T12:41:29+00:00",
+ "band_done": false
 }
