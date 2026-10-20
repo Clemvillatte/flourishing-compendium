@@ -7,32 +7,37 @@ file: "Radical empiricism"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-R"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter R", "parent": ""}
 ---
-Radical empiricism is William James's name for his own worldview, set out in essays collected after his death as Essays in Radical Empiricism (1912). The epithet "radical" marks his break with the empiricism of Hume and his descendants. Theirs was a mosaic philosophy of plural facts, and his differs in one particular, which he states in the essay "A World of Pure Experience":
+Radical empiricism is William James's name for his own worldview, set out in essays collected after his death as Essays in Radical Empiricism (1912). The adjective "radical" marks his break with the empiricism of Hume and his descendants. James calls his version radical because experienced relations must count as real alongside the things they connect, and he states the demand in the essay "A World of Pure Experience":
 
-> "To be radical, an empiricism must neither admit into its constructions any element that is not directly experienced, nor exclude from them any element that is directly experienced. For such a philosophy, the relations that connect experiences must themselves be experienced relations, and any kind of relation experienced must be accounted as 'real' as anything else in the system." (James, "A World of Pure Experience", in [Essays in Radical Empiricism, full text](https://archive.org/stream/essaysinradicale00jameuoft/essaysinradicale00jameuoft_djvu.txt))
+> "To be radical, an empiricism must neither admit into its constructions any element that is not directly experienced, nor exclude from them any element that is directly experienced. For such a philosophy, the relations that connect experiences must themselves be experienced relations, and any kind of relation experienced must be accounted as 'real' as anything else in the system." (James, "A World of Pure Experience", in Essays in Radical Empiricism (1912), [full text, Internet Archive](https://archive.org/stream/essaysinradicale00jameuoft/essaysinradicale00jameuoft_djvu.txt))
 
-### Postulate, fact, conclusion
+### Postulate, statement of fact, generalized conclusion
 
-The volume's preface compresses the doctrine into three parts that the passage above does not carry. The postulate: the only things debatable among philosophers shall be things definable in terms drawn from experience. The statement of fact: relations between things, conjunctive as well as disjunctive, are just as much matters of direct particular experience as the things themselves. The generalized conclusion: the parts of experience hold together from next to next by relations that are themselves parts of experience, so the directly apprehended universe needs no extraneous trans-empirical connective support. The compendium files the doctrine under its principles on pure experience and experience-grounded views, among them P066, P004 and M021.
+The preface to the 1912 collection summarizes the doctrine in three parts, in James's words:
+
+"The postulate is that the only things that shall be debatable among philosophers shall be things definable in terms drawn from experience."
+
+"The statement of fact is that the relations between things, conjunctive as well as disjunctive, are just as much matters of direct particular experience, neither more so nor less so, than the things themselves."
+
+"The generalized conclusion is that therefore the parts of experience hold together from next to next by relations that are themselves parts of experience. The directly apprehended universe needs, in short, no extraneous trans-empirical connective support, but possesses in its own right a concatenated or continuous structure."
+
+The compendium files the doctrine under its principles on pure experience and experience-grounded views, among them P066, P004 and M021.
 
 ## Related concepts
 
-- [[Pure experience]] — the concept at the centre of the collection's central essay, "A World of Pure Experience"
+- [[Pure experience]] — discussed in James's essay "A World of Pure Experience"
 
 ## Sources
 
-- [James, Essays in Radical Empiricism (1912), full text, Internet Archive](https://archive.org/stream/essaysinradicale00jameuoft/essaysinradicale00jameuoft_djvu.txt) — the blockquote is from "A World of Pure Experience"; the three-part summary (postulate, statement of fact, generalized conclusion) is paraphrased from the preface to this text.
+- [James, Essays in Radical Empiricism (1912), full text, Internet Archive](https://archive.org/stream/essaysinradicale00jameuoft/essaysinradicale00jameuoft_djvu.txt) — the blockquote is from "A World of Pure Experience"; the three-part summary is quoted as it appears in the preface to this text.
 
-## Cited in psychology parallels
+## Cited in philosophy parallels
 
 - [[P066 — Rest in pure experience before the splits]]
 - [[P121 — Enrich experience — add layers of relation and meaning]]
 - [[M021 — Treat truth as something you stand in, not only something you hold]]
 - [[SP084 — Seek the third kind of knowledge directly]]
 - [[A089 — Practise contemplation (theoria)]]
-
-## Cited in philosophy parallels
-
 - [[P004 — Start from experience, not from theory]]
 - [[P060 — Admit there is no spectator self]]
 - [[P065 — Experience comes whole — relations are experienced]]

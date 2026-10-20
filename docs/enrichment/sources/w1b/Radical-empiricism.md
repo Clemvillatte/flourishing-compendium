@@ -39,3 +39,25 @@
   "## Cited in psychology parallels" header; the philosophy-parallels list unchanged.
 - Validator: fast-track profile, ok, 0 fails, 1 warning (fewer than 3 Related lines,
   expected on a fast-track item).
+
+## Advisor QC repairs (2026-10-20)
+
+- Mosaic contrast replaced with the bounded formulation: "James calls his version
+  radical because experienced relations must count as real alongside the things they
+  connect." The "mosaic philosophy" claim is carried only by the source's own words
+  ("a mosaic philosophy, a philosophy of plural facts, like that of Hume and his
+  descendants"), which stay in the extraction record.
+- Three-part summary: the paraphrase was replaced with the three sentences quoted
+  exactly as they appear in the preface, split into short paragraphs, attributed to
+  the preface of the 1912 collection ("in James's words", per the extraction's
+  framing of the preface).
+- Related line rewritten: "[[Pure experience]] — discussed in James's essay 'A World
+  of Pure Experience'".
+- Floating-link classification corrected: the five seed links (P066, P121, M021,
+  SP084, A089) were placed under "## Cited in philosophy parallels" after checking
+  each citing principle's own page; all five cite the concept under their Philosophy
+  parallels sections (P066: "[[Radical empiricism]] (Pragmatism)"; P121: "Conjunctive
+  relations (James, Essays in Radical Empiricism)"; M021: "Knowing by acquaintance
+  (William James, Radical Empiricism)"; SP084: "Knowledge by acquaintance (William
+  James, Radical Empiricism)"; A089: "The specious present and pure experience (James,
+  Essays in Radical Empiricism)").
