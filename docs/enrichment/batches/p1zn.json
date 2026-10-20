@@ -3,15 +3,17 @@
  "done": [
   "R091",
   "R094",
-  "R099"
+  "R099",
+  "R100"
  ],
  "in_progress": null,
  "flagged": {
   "R091": "Buber quoted second-hand via Wilde 2021 (pp.112,115); 'shared reality'/'tools or weapons' are compendium glosses; Hardin&Higgins 1996 not opened",
   "R094": "Levinas quoted from UT dossier of Lingis trans. (pp.114,118); Batson 2011 not opened; 'ground your selfhood' is compendium gloss",
-  "R099": "I and Thou quoted from archive.org scan excerpt; Friedman summary second-hand; Gergen 2009 and Marcel not opened"
+  "R099": "I and Thou quoted from archive.org scan excerpt; Friedman summary second-hand; Gergen 2009 and Marcel not opened",
+  "R100": "Levinas excerpt page unconfirmed; greeting not discussed by Levinas; Pratt 2002/Verduyn 2019 not opened; Wesselmann 2012 via secondary summary"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T10:41:02+00:00"
+ "updated": "2026-10-20T10:41:28+00:00"
 }
