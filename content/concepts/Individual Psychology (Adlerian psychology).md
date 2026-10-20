@@ -16,7 +16,7 @@ Alfred Adler founded Individual Psychology after his break with Freud's circle. 
 
 ### The social direction
 
-The same passage carries the theory's social edge, which is what makes it matter for flourishing: the individuals who can really meet and master the problems of life are those whose striving enriches all others, who go ahead in such a way that others benefit also ([Adler, ch. III](https://archive.org/stream/in.ernet.dli.2015.234444/2015.234444.What-Life_djvu.txt)). Striving turns healthy or unhealthy by its direction. The book opens with the human setting: "Human beings live in the realm of meanings" ([Adler, ch. I](https://archive.org/stream/in.ernet.dli.2015.234444/2015.234444.What-Life_djvu.txt)), and the meanings are worked out with other people.
+The same passage carries the theory's social edge, which is what makes it matter for flourishing: the individuals who can really meet and master the problems of life are those whose striving enriches all others, who go ahead in such a way that others benefit also ([Adler, ch. III](https://archive.org/stream/in.ernet.dli.2015.234444/2015.234444.What-Life_djvu.txt)). Striving turns healthy or unhealthy by its direction. The book's opening chapter holds that human beings live within meanings, and that the meanings are worked out with other people ([Adler, ch. I](https://archive.org/stream/in.ernet.dli.2015.234444/2015.234444.What-Life_djvu.txt)).
 
 ### In the compendium
 

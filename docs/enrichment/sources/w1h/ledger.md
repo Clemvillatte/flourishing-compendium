@@ -269,3 +269,7 @@
   snippet, abstract content used for the learning-goals boundary).
 - Commitment/ability/feedback moderator sentence removed pre-validation (2002
   abstract names moderators generically, not those specifics).
+- Post-done repair: validator caught banned phrase 'in the realm of' inside the
+  verbatim Adler ch. I sentence; the sentence is now paraphrased (no quote).
+  NOTE: enrich_validate.py exits 0 even on FAIL — the gate now greps the output
+  text for "0 failed" rather than trusting exit codes.
