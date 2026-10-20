@@ -69,6 +69,21 @@
       "into": "Behavioural chaining (applied behaviour analysis)",
       "link": "Habit formation",
       "why": "Everyday routines as habit chains are the applied-behaviour-analysis view of the same acquisition process."
+    },
+    {
+      "into": "Negative visualisation",
+      "link": "Premeditatio malorum",
+      "why": "Negative visualisation is the modern cognitive name for the Stoic premeditation of evils."
+    },
+    {
+      "into": "Amor fati",
+      "link": "Premeditatio malorum",
+      "why": "Rehearsing misfortune and loving what comes are the two halves of the Stoic acceptance pair."
+    },
+    {
+      "into": "The reserve clause",
+      "link": "Premeditatio malorum",
+      "why": "The reserve clause (\"fate permitting\") is the planning habit the premeditation trains."
     }
   ],
   "inline": [
