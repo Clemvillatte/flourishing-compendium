@@ -12,16 +12,20 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 ---
 > **Principle 61** — Learn to cultivate meaning: purpose sustains motivation
 
-Frankl's logotherapy opens with a claim about what moves people: "Man's search for meaning is the primary motivation in his life and not a 'secondary rationalization' of instinctual drives" (Man's Search for Meaning, Part II, "The Will to Meaning"). On this account effort is pulled from ahead by what a task is for, and the pull holds where rewards and novelty quit. Frankl staked the claim at the limit: "There is nothing in the world, I venture to say, that would so effectively help one to survive even the worst conditions as the knowledge that there is a meaning in one's life."
+Frankl makes the search for meaning central to his account of motivation:
+
+> Man's search for meaning is the primary motivation in his life and not a "secondary rationalization" of instinctual drives.
+
+(Frankl, Man's Search for Meaning, Part II, "The Will to Meaning"; [Internet Archive full text](https://dn720006.ca.archive.org/0/items/english-collections-k-z/Man's%20Search%20for%20Meaning%20-%20Frankl,%20Viktor.pdf))
 
 **Plain words**
-Rewards, novelty and mood each fade on their own schedule. A reason does not fade with them. When a task is connected to someone it serves, the task draws effort instead of taxing willpower, and the connection can be made deliberately: name who or what the work is for before starting, and reconnect it whenever the work starts to feel like motion only.
+A practical reading of Frankl is to ask what makes a particular task worth doing to you. Consider the person it serves or the project it helps complete. Use that answer to examine your reasons for continuing, without assuming that finding a purpose will make the work easier.
 
-*For example:* Imagine two people doing identical hospital data entry, one who knows the records feed discharge planning and one who does not. Same keystrokes, but the second is spending willpower the first does not need.
+*For example:* Imagine a clerk learning that a hospital record is needed for a patient's discharge. Beside the task, the clerk writes a specific reason for completing it: getting the care team the information it needs.
 
 ## Sources
 
-- [Frankl, Man's Search for Meaning, full text (Internet Archive)](https://dn720006.ca.archive.org/0/items/english-collections-k-z/Man's%20Search%20for%20Meaning%20-%20Frankl,%20Viktor.pdf) — Part II, "Logotherapy in a Nutshell"; both quotes verified verbatim against this opened text
+- Frankl, Man's Search for Meaning, Part II ("Logotherapy in a Nutshell"), "The Will to Meaning" — [full text, Internet Archive](https://dn720006.ca.archive.org/0/items/english-collections-k-z/Man's%20Search%20for%20Meaning%20-%20Frankl,%20Viktor.pdf)
 
 ## Psychology parallels
 
@@ -36,4 +40,4 @@ Rewards, novelty and mood each fade on their own schedule. A reason does not fad
 
 ## Practice
 
-Before starting a task you keep postponing, write one sentence naming who benefits from it or what it completes. Repeat at the level of the week: ask what this week's work serves.
+Choose one goal for the coming week. Write down what makes it worth pursuing and what would make you reconsider it.
