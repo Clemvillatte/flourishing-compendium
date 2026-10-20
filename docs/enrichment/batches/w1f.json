@@ -10,7 +10,9 @@
   "Self-compassion"
  ],
  "in_progress": null,
- "flagged": {},
+ "flagged": {
+  "Self-compassion": "QC: dash budget 18/3 — pre-existing; rewording pass needed"
+ },
  "missing_concepts": [],
  "sources_checked": 0,
  "updated": "2026-10-20T04:28:15+00:00",
@@ -20,6 +22,6 @@
   "Small steps, large vision": "fast-track done 2026-10-20; title kept as a descriptive label for a REAL pattern (Weick small wins / subgoaling) — concept exists, no rename; seed's Aristotle attribution was unverified and removed (body now grounded in Weick 1984 via the opened Springer article); Weick quote verified verbatim against the opened page.",
   "Nature as teacher": "fast-track done 2026-10-20; Zhuangzi ch. 22 Watson passage (great beauties / sage masters the principles) quoted verbatim from the opened 26reads page; concept real, title kept (descriptive label); unverified neighboring ch. 22 lines deliberately not quoted (only the great-beauties passage was verified on the opened page).",
   "Simplicity as practice": "fast-track done 2026-10-20; Legge DDJ 19 closing couplet quoted verbatim from the opened Sacred Texts page; NOTE: Legge renders the chapter ending as a rhymed couplet (\"simple views, and courses plain and true...\") rather than the \"uncarved block\" wording — the uncarved block was NOT mentioned (unverified in the opened chapter).",
-  "Self-compassion": "fast-track pass 2026-10-20: page ALREADY ADEQUATE (full Neff construct definition with URL, facets, related concepts, citations) — light check only per the skip-ahead rule; validator ok; NOT re-enriched down to the bar."
+  "Self-compassion": "fast-track pass 2026-10-20: page ALREADY ADEQUATE — light check per skip-ahead rule. REPAIRED: Sources URL (opened Neff handout, already cited in body). ROUTED: dash budget 18/3 (pre-existing writing condition, page predates the budget; validator confirmed present in the pre-edit HEAD version) — needs a dedicated rewording pass, NOT a fast-track item; queued for supervisor QC routing (w1a band, released)."
  }
 }
