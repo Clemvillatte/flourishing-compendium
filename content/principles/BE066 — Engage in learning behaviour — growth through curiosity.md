@@ -12,15 +12,21 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BE — Overt Be
 ---
 > **Principle 66** — Engage in learning behaviour: growth through curiosity
 
-Learning behaviour — reading, studying, taking courses, learning new skills — is associated with growth, mastery, meaning, and cognitive health. It is a specific behavioural practice.
+Learning behaviour is a specific practice: reading, studying, taking courses, learning new skills. The research framing behind it holds that adult cognitive plasticity is driven by a prolonged mismatch between what a person can currently do and what the environment asks of them (Lövdén et al., 2010) — new demands are what engage the system. The link to cognitive health is epidemiological and suggestive rather than experimentally established:
 
-**Plain words** Learning behaviour — courses, books, new skills — is growth made physical. It predicts engagement, self-efficacy, and the sense of a life still expanding. The day you stop learning isn't neutral; it's a slow closing.
+> "Epidemiologic evidence indicates that a set of life exposures including higher educational and occupational attainment, and engaging in leisure activities is associated with a lower risk of incident dementia, suggesting that these life exposures may enhance cognitive reserve." (Stern, 2012, [Cognitive Reserve: Implications for Assessment and Intervention, PMC full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC3970779/))
 
-*For example:* The 60-year-old in the beginner's Spanish class, the worst and the happiest student there — the point was never fluency. It was being someone who is still becoming.
+The compendium's claim stays at the principle's title: growth through curiosity, the value of being someone still learning.
+
+**Plain words**
+Curiosity needs somewhere to go. Give one thing you do not know a regular slot: a book by the bed, a class one evening a week, an app on the commute. Finishing is not the measure; staying comfortable with not-knowing-yet is.
+
+*For example (imagined):* A 60-year-old joins a beginner's Spanish class and is the worst student in the room. Fluency was never the aim. Being someone still learning was.
+
 ## Psychology parallels
 
-- **Learning and well-being**, learning activities predict well-being and cognitive health (Lövdén et al., 2010; Stern, 2002)
-- **Cognitive engagement**, sustained learning builds cognitive reserve (Stern, 2002; Lövdén et al., 2010)
+- **Adult cognitive plasticity** (Lövdén et al., 2010)
+- **Cognitive reserve** (Stern, 2002; Stern, 2012)
 
 ## Philosophy parallels
 
@@ -30,4 +36,15 @@ Learning behaviour — reading, studying, taking courses, learning new skills �
 
 ## Practice
 
-- Engage in learning: read regularly, take courses, learn new skills, follow curiosity. Learning is both a growth and a cognitive-health behaviour.
+- Read regularly, take a course, learn a new skill, follow one curiosity at a time.
+
+## Related concepts
+
+- [[The examined life]] — the philosophical root of the practice
+- [[Beginner's mind]] — listed for comparison
+- [[Curiosity]] — the affect the behaviour rides on
+
+## Sources
+
+- [Lövdén, M., Bäckman, L., Lindenberger, U., Schaefer, S., & Schmiedek, F. (2010). A theoretical framework for the study of adult cognitive plasticity. Psychological Bulletin, 136(4), 659-676 (PubMed record, PMID 20565172).](https://pubmed.ncbi.nlm.nih.gov/20565172/)
+- [Stern, Y. (2012). Cognitive Reserve: Implications for Assessment and Intervention (PMC full text).](https://pmc.ncbi.nlm.nih.gov/articles/PMC3970779/)
