@@ -244,3 +244,9 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 - Quotes verified: the full list quoted verbatim; matched fetched page.
 - Seed repairs: locator corrected from 13.7-13.11 to 13.8-12 (13.7 is the field). Text calls the list "knowledge", includes solitude and self-directed items, so "explicitly social" and "most clauses relational" were over-claims; relational-curriculum reading and weekly practice labelled as the page's own. Weekly-review and Zengzi parallels not opened.
 - Saturation: low; other translations enumerate the items differently (20 items in some).
+
+## Y124 (2026-10-21, worker-p1zz-b81e3f52)
+- Sources opened: BG 3.3 (Mukundananda); Vivekananda Raja Yoga preface (swamivivekananda.guru, search excerpt, plus archive.org full-text snippet agreeing); vedanta.org page quoting Complete Works vol 1, ch 8 (fetched).
+- Quotes verified: BG 3.3 and the preface line matched. The Karma Yoga line is as shown on vedanta.org; the Complete Works text itself not opened.
+- Seed repairs: Gita names two paths, not four; the four-fold scheme and "one, or more, or all" are Vivekananda's; lead/support sequencing and "four doors" image labelled as the page's own. Person-activity fit and Rig Veda 1.164.46 not opened.
+- Saturation: low; recommend opening the Complete Works volume 1 text.
