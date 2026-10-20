@@ -25,7 +25,8 @@
   "Pleasant activities scheduling (Lewinsohn)",
   "Predictive processing",
   "The body schema",
-  "Stage theories of development"
+  "Stage theories of development",
+  "The bundle theory"
  ],
  "in_progress": null,
  "flagged": {
@@ -39,6 +40,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:27:43+00:00",
+ "updated": "2026-10-20T11:28:17+00:00",
  "band_done": false
 }
