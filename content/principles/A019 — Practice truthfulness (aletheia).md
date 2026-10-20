@@ -12,13 +12,23 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 19** — Practice truthfulness (aletheia)
 
-Truthfulness is the mean between boastfulness and self-deprecation. Represent yourself accurately, neither claiming more nor less than you are. Honesty about yourself is not confession; it is calibration.
+Aristotle's truthfulness covers one narrow thing: how accurately you describe yourself, your abilities and your standing. He sets it apart from keeping faith in agreements, which belongs to justice. The boastful person claims credit he has not got, or more than he has. The mock-modest person disclaims what he has or belittles it. Between them is the one who ([NE IV.7, Ross, MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html)):
+
+> calls a thing by its own name, being truthful both in life and in word, owning to what he has, and neither more nor less.
+>
+> — Nicomachean Ethics IV.7 (trans. W. D. Ross)
+
+He does not rate the two errors equally. The boaster is "the worse character". Mock-modest people "seem more attractive in character", and Aristotle names Socrates as an example, though those who disclaim trifling and obvious qualities "are called humbugs and are more contemptible". The truthful person "inclines rather to understate the truth; for this seems in better taste because exaggerations are wearisome."
+
+**Plain words** This is about how you describe your own part in things. Overstating it hands people a false picture, and so does shrinking it, because they will plan around whichever picture you gave them. Aristotle leans toward the modest side, since inflated claims wear people out, but he is hard on people who downplay what everyone can see.
+
+For example (imagined): you wrote the report and a colleague built its charts. Saying "I wrote the report and Sam built the charts" is the mean. "I produced the whole thing" overreaches, and "I just helped out" belittles your actual work.
 
 (NE IV.7.)
 
-**Plain words** Truthfulness about yourself means claiming what's accurate, no more and no less. Boasting is one way to miss. Running yourself down is another. Aristotle treats this as calibration, not confession: you're telling people the actual size of the thing.
+## Sources
 
-*For example:* Describing your role as "I ran the project" if you did, and "I helped with the budget" if that was your part, is truthfulness. Inflating or shrinking either one isn't.
+- [Aristotle, Nicomachean Ethics IV.7, trans. W. D. Ross, MIT Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html)
 
 ## Practice kernels
 
