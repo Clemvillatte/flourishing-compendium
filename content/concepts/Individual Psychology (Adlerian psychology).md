@@ -6,6 +6,7 @@ title: "Individual Psychology (Adlerian psychology)"
 file: "Individual Psychology (Adlerian psychology)"
 tags: ["theory", "psych/self"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-SELF"], "alternatePaths": []}
+legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter I", "parent": ""}
 ---
 **Individual Psychology (Adlerian psychology)** — Adler — behaviour is goal-directed and socially embedded; striving for significance compensates for felt inferiority.
 
