@@ -7,7 +7,7 @@ file: "Identity statuses (Marcia)"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-I"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter I", "parent": ""}
 ---
-James Marcia built on Erikson's account of the adolescent identity crisis and gave it a measurable structure. In his 1966 study, 86 college men were interviewed, and each was placed in one of four statuses along two dimensions, crisis and commitment:
+James Marcia built on Erikson's account of the adolescent identity crisis and gave it a measurable structure ([Marcia, 1966](https://archive.org/download/marcia1966/marcia1966.pdf)). In his 1966 study, 86 college men were interviewed, and each was placed in one of four statuses along two dimensions, crisis and commitment ([Marcia, 1966](https://archive.org/download/marcia1966/marcia1966.pdf)):
 
 > "Criteria for inclusion in 1 of 4 identity statuses were the presence of crisis and commitment in the areas of occupation and ideology." (Marcia, [Development and Validation of Ego-Identity Status](https://archive.org/download/marcia1966/marcia1966.pdf), Journal of Personality and Social Psychology 3(5), 1966, abstract)
 

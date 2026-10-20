@@ -7,7 +7,7 @@ file: "Homo faber — man the maker"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-H"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter H", "parent": ""}
 ---
-Homo faber, Latin for man the maker, is Hannah Arendt's name for the human being in the mode of work: fabricating an artificial world of durable things. In The Human Condition she sets this figure against the animal laborans, the laboring animal whose activity keeps the life process running. In The Human Condition, Arendt describes homo faber as the toolmaker who erects a world ([Arendt excerpt in reading notes](https://kortina.nyc/notes/the-human-condition/)):
+In The Human Condition, Arendt describes homo faber, Latin for man the maker, as the toolmaker who erects a world ([Arendt excerpt in reading notes](https://kortina.nyc/notes/the-human-condition/)):
 
 > "In other words, homo faber, the toolmaker, invented tools and implements in order to erect a world, not—at least, not primarily—to help the human life process." (Arendt, [The Human Condition](https://kortina.nyc/notes/the-human-condition/), text excerpt)
 

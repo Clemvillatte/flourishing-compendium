@@ -7,7 +7,7 @@ file: "Halo effect"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-H"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter H", "parent": ""}
 ---
-The halo effect is the finding that a general evaluation of a person colours the judgments of their separate qualities. Edward Thorndike named the error in 1920, from ratings of army officers by their superiors and of the employees of two large industrial corporations:
+The halo effect is the finding that a general evaluation of a person colours the judgments of their separate qualities ([Thorndike, 1920](https://people.ict.usc.edu/~gratch/CSCI534/Readings/Thordike1920.pdf)). Edward Thorndike named the error in 1920, from ratings of army officers by their superiors and of the employees of two large industrial corporations ([Thorndike, 1920](https://people.ict.usc.edu/~gratch/CSCI534/Readings/Thordike1920.pdf)):
 
 > "Their ratings were apparently affected by a marked tendency to think of the person in general as rather good or rather inferior and to color the judgments of the qualities by this general feeling" (Thorndike, [A Constant Error in Psychological Ratings](https://people.ict.usc.edu/~gratch/CSCI534/Readings/Thordike1920.pdf), Journal of Applied Psychology 4(1), 1920, p. 25)
 
