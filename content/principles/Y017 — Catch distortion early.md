@@ -22,7 +22,7 @@ The compendium's counsel: treat strong conviction as a flag, not a proof. Its ch
 
 **Plain words** A convincing explanation may depend on a mistaken observation. Check what was actually observed and what would count against your account.
 
-*For example:* The team that was certain the feature was what users wanted. One week of user interviews broke the conviction in five places.
+*For example (imagined):* A team expects users to want a feature. Before building it, they identify feedback that would challenge that assumption, then interview users about the problem it is intended to solve.
 ## Psychology parallels
 
 - **Confirmation bias mitigation and consider-the-opposite technique** (Lord et al., 1984; Mussweiler et al., 2000)

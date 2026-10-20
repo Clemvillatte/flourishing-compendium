@@ -20,7 +20,7 @@ And of the seer:
 
 > "The Seer is pure vision. Though pure, he looks out through the vesture of the mind." ([YS 2.20](https://www.gutenberg.org/ebooks/2526))
 
-The practice is to rest attention in the seeing rather than only in the seen. Whether the witness is an enduring entity is left open here; the Buddhist anatman is the standing counter-position. The compendium's cue, several times a day: what in this moment is content, and what is the noticing of it?
+The compendium uses these passages for an attention exercise without deciding what the seer ultimately is. Its cue, several times a day: what in this moment is content, and what is the noticing of it?
 
 **Plain words** Distinguish an experience, such as anger, from noticing that experience. Try naming what you notice without using the exercise to settle what the seer ultimately is.
 

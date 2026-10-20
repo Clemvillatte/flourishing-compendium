@@ -20,7 +20,9 @@ Later, he renders II.45:
 
 > "Soul-vision is perfected through perfect obedience to the Master." ([Yoga Sutras II.45, Johnston translation](https://www.gutenberg.org/ebooks/2526))
 
-Johnston's comment on the verse names the obstacle: "The sorrow and darkness of life come of the erring personal will which sets itself against the will of the Soul, the one great Life." ([commentary on II.45](https://www.gutenberg.org/ebooks/2526))
+Johnston's comment on the verse names the obstacle:
+
+> "The sorrow and darkness of life come of the erring personal will which sets itself against the will of the Soul, the one great Life." ([commentary on II.45](https://www.gutenberg.org/ebooks/2526))
 
 The compendium offers a secular adaptation: name a person or purpose your work is intended to serve, and end a session with one sentence of dedication.
 
