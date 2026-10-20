@@ -11,7 +11,7 @@ Self-distancing is the finding that small shifts in the language people use to r
 
 The same abstract concludes: "Together, these findings demonstrate that small shifts in the language people use to refer to the self during introspection consequentially influence their ability to regulate their thoughts, feelings, and behavior under social stress, even for vulnerable individuals" ([Kross et al. 2014](https://pubmed.ncbi.nlm.nih.gov/24467424/)).
 
-The mechanism is cheap: you do not suppress the emotion or argue with it; you shift the camera angle, and the third-person voice does the work.
+The finding is that the shift in pronoun does the regulatory work.
 
 ### In the compendium
 

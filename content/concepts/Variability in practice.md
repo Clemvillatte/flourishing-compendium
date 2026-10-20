@@ -14,7 +14,7 @@ The study ran with 126 seventh-grade students over three months. Every student r
 > "Students tested 30 days after the review showed a large benefit of interleaving, 74% (SD = 39%) vs. 42% (SD = 43%), t(62) = 4.54, p < .001, Cohen's d = 0.79, 95% CI [0.43, 1.15]."
 > — [Rohrer, Dedrick & Stershic 2015, Journal of Educational Psychology 107(3), 900-908](http://uweb.cas.usf.edu/~drohrer/pdfs/Rohrer_et_al_2015JEdPsych.pdf)
 
-The delay matters most. The one-day gap gave a moderate benefit; the thirty-day gap gave a large one. Learning that feels harder while it happens keeps better after time passes.
+The one-day gap gave a moderate benefit (d = 0.42); the thirty-day gap gave a large one (d = 0.79) ([Rohrer et al. 2015](http://uweb.cas.usf.edu/~drohrer/pdfs/Rohrer_et_al_2015JEdPsych.pdf)).
 
 ### In the compendium
 

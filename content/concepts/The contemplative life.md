@@ -12,7 +12,7 @@ The contemplative life, in Aristotle's account in Nicomachean Ethics Book X, is 
 > "But we must not follow those who advise us, being men, to think of human things, and, being mortal, of mortal things, but must, so far as we can, make ourselves immortal, and strain every nerve to live in accordance with the best thing in us; for even if it be small in bulk, much more does it in power and worth surpass everything."
 > — [Aristotle, Nicomachean Ethics X.7, trans. W. D. Ross](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html)
 
-The argument that follows is the one the chapter is remembered for: if you take away action and production from a living being, what is left but contemplation? Therefore the activity of God must be contemplative, and the human activity most akin to it is most of the nature of happiness ([Aristotle, NE X.8, trans. W. D. Ross](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html)).
+Book X chapter 8 continues: "Now if you take away from a living being action, and still more production, what is left but contemplation? Therefore the activity of God, which surpasses all others in blessedness, must be contemplative; and of human activities, therefore, that which is most akin to this must be most of the nature of happiness" ([Aristotle, NE X.8, trans. W. D. Ross](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html)).
 
 ### In the compendium
 

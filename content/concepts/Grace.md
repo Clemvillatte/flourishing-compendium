@@ -12,7 +12,7 @@ Grace, in the Christian tradition Augustine gives the Confessions, is what the c
 > "Thou awakest us to delight in Thy praise; for Thou madest us for Thyself, and our heart is restless, until it repose in Thee."
 > — [Augustine, Confessions I.1, trans. E. B. Pusey (Project Gutenberg)](https://www.gutenberg.org/ebooks/3296)
 
-The line makes the structure of grace visible. The awakening comes first, and the repose is what follows from it. What Augustine calls grace is the engine that does the waking, the part of the story that is not the creature's own doing.
+The passage puts the awakening before the repose.
 
 ### In the compendium
 
