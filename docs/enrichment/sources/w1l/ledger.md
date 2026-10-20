@@ -801,3 +801,12 @@ convention).
 - No In-the-compendium block (fast-track bar; Cited-in lists preserved).
 - Saturation: fast-track exemption; no reciprocal proposed.
 - QC: validator ok at fast-track profile; no advisor QC (item 17; next at item 20).
+
+## Legacy motivation research (fast-track, genuineflourishing01, 2026-10-20)
+- Degree 5 at selection (principles A014/S097/ST311/V1K-S01/V1K-S01.10) — fast-track eligible per §1a.
+- Source opened: Cambridge Core record for Fox, Tost & Wade-Benzoni (2010), Business Ethics Quarterly 20(2), 153–185, DOI 10.5840/beq201020214 — full abstract quoted verbatim (prompt-based fetch). Article body paywalled, NOT opened; the page therefore quotes only the abstract and discloses this in the Sources line.
+- Blockquote verified verbatim against the opened abstract ("We discuss the ways in which legacies can provide a link between life-meaning and pro-social motivation..."). The three-streams sentence ("intergenerational decision making, generativity, and terror management theory") also verbatim from the abstract. The "relationships to organizations" and closing-implications sentences paraphrase abstract sentences with quoted fragments.
+- The seed line's "predicts well-being and prosocial behavior" kept as inherited owner text; my prose does not extend the abstract's "life-meaning and pro-social motivation" to well-being.
+- No In-the-compendium block (fast-track bar; Cited-in lists preserved).
+- Saturation: fast-track exemption; no reciprocal proposed.
+- QC: validator ok at fast-track profile; no advisor QC (item 18; next at item 20).
