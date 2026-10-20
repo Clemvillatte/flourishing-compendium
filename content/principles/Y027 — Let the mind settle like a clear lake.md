@@ -12,13 +12,19 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 27** — Let the mind settle like a clear lake
 
-The tradition's image for the trained mind is a crystal that takes the color of whatever is near it without becoming it, or a lake settled so that both bank and bottom are visible. The settled mind is not empty; it is transparent to what is actually there. Practically, the test of a good sitting is not vacancy but accurate seeing afterward.
+Yoga Sūtra I.41 compares the settled mind to a precious gem that takes on the color of what it rests upon ([Woods translation](https://www.theessentialway.org/yoga-sutras/)). The verse relates this balanced state to the knower, the process of knowing, or the object known ([I.41](https://www.theessentialway.org/yoga-sutras/)).
+
+> [The mind-stuff] from which, as from a precious gem, fluctuations have dwindled away
+>
+> Patañjali, Yoga Sūtra I.41, opening phrase in James Haughton Woods's translation (1914), [reprinted text](https://www.theessentialway.org/yoga-sutras/).
 
 (YS 1.41; BG 6.19, the lamp in a windless place.)
 
-**Plain words** The trained mind is a crystal that takes the color of what's near without becoming it, or a lake settled so that both bank and bottom are visible. Not empty — transparent to what is actually there. Settle the lake and see what's in it.
+### Plain words
 
-*For example:* Two people hear the same criticism: one hears only the attack (mud stirred), one hears the content — and can also see the critic's bad day and their own thin skin, both, clearly. Same words; one lake is settled.
+Before trying to understand something difficult, give it your attention. Notice what you keep bringing to it, such as an old grievance or a wish to be finished.
+
+For example: Before answering a colleague's complaint, let them finish describing it. Then check whether your reply addresses what they said or the argument you expected.
 ## Psychology parallels
 
 - **[[Mindfulness's clarity mechanism|Mindfulness's clarity mechanism]]**, seeing mental events accurately rather than dimly (Bishop et al., 2004, operational definition)
