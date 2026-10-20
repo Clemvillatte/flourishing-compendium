@@ -12,13 +12,13 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 180** — Accept the final principle: you never arrive: and that is the good news
 
-Rogers describes the good life as an ongoing movement involving greater openness to experience and a willingness to meet situations without imposing a rigid picture of oneself. He explicitly distinguishes it from contentment, happiness or adjustment understood as settled states ([On Becoming a Person excerpt, “A Negative Observation” and “A Positive Observation”](https://www.panarchy.org/rogers/person.html)).
+Rogers describes the good life as an ongoing movement involving greater openness to experience and a willingness to meet situations without imposing a rigid picture of oneself. He explicitly distinguishes it from contentment, happiness or adjustment understood as settled states ([On Becoming a Person excerpt, “The Good Life and the Fully Functioning Person”](https://www.panarchy.org/rogers/person.html)).
 
-> "The good life is a process, not a state of being. It is a direction, not a destination." (Rogers, “A Positive Observation,” in the opened excerpt.)
+> "The good life is a process, not a state of being. It is a direction not a destination." (Rogers, “The Good Life and the Fully Functioning Person,” in the opened excerpt.)
 
 ### Direction does not cancel needs
 
-Rogers presents this as his perspective from therapeutic work, not a universal measurement of flourishing. The compendium takes it as an invitation to examine how one is living alongside what one hopes to achieve. That does not make housing, safety, relationships or completed projects irrelevant; nor does it require feeling good about an unfinished situation.
+Rogers writes from his experience and suggests that the qualities he describes appear to have a certain universality. The compendium takes his account as an invitation to examine how one is living, rather than as a measurement of flourishing. That does not make housing, safety, relationships or completed projects irrelevant; nor does it require feeling good about an unfinished situation.
 
 (Rogers, On Becoming a Person, 1961; Dewey, Human Nature and Conduct, 1922.)
 
@@ -32,7 +32,7 @@ Imagine working toward a qualification. As a proposed reflection, distinguish th
 
 ## Sources
 
-- [Carl R. Rogers, On Becoming a Person (1961), excerpts reproduced by Panarchy](https://www.panarchy.org/rogers/person.html): “A Negative Observation,” “A Positive Observation” and “The Characteristics of the Process.” The transcription supplies no book pagination.
+- [Carl R. Rogers, On Becoming a Person (1961), excerpts reproduced by Panarchy](https://www.panarchy.org/rogers/person.html): “The Good Life and the Fully Functioning Person” (1953) and “The Characteristics of the Process.” The transcription supplies no book pagination.
 
 ## Practice kernels
 

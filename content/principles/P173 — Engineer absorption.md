@@ -14,7 +14,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 
 Nakamura and Csikszentmihalyi identify conditions associated with entering flow: perceived challenges that stretch existing skills, clear nearby goals, and immediate feedback about progress. They distinguish these conditions from the experience itself, which includes intense concentration and an activity experienced as rewarding ([“The Concept of Flow,” 2002, pp. 89-90](https://nuovoeutile.it/wp-content/uploads/2015/12/2002-Flow.pdf)).
 
-> "It is the subjective challenges and subjective skills, not objective ones, that influence the quality of a person's experience." (Nakamura and Csikszentmihalyi, p. 90.)
+> "It is the subjective challenges and subjective skills, not objective ones, that influence the quality of a person's experience." (Nakamura and Csikszentmihalyi, p. 91.)
 
 ### Arrange, then observe
 
