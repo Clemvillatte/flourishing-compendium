@@ -16,12 +16,12 @@ The songs state it flatly: we rise and fall, we borrow our days, nothing is fore
 
 > "Is it nelli [rooted, true, authentic] one really lives on the earth? Not forever on earth, only a little while here. Though it be jade it falls apart, though it be gold it wears away, though it be quetzal plumage it is torn asunder. Not forever on this earth, only a little while here." (Cantares mexicanos, fol. 17r, trans. León-Portilla 1992:80, as quoted in Maffie's IEP article "Aztec Philosophy")
 
-This page's optional reflection practice: once per month, consider the count of days remaining to you at current actuarial rates, and let the arithmetic weigh on the month's postponements. The tradition offers the poem as a lens, not a forecast of your death.
+This page's optional reflection practice: choose something you keep postponing and decide whether it deserves time this month. The poem works as a lens, not a forecast.
 
 **Plain words**
 The old songs do arithmetic with your life: jade breaks, gold wears out, feathers tear. The practical fact inside the poem is that postponement has a cost; every later is being paid for out of a shrinking balance. The monthly question the song implies is not how long you have, but what this month's time deserves to go to.
 
-*For example:* A spreadsheet of estimated remaining Sundays is not macabre, just arithmetic; what it does to the next Sunday is up to the person keeping it.
+*For example:* A calendar review at the start of a month: pick the thing most often postponed and decide whether it gets a slot.
 
 ## Sources
 
