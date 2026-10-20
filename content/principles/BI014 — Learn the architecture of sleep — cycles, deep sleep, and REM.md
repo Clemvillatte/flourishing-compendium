@@ -12,16 +12,16 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BI — Biophysi
 ---
 > **Principle 14** — Learn the architecture of sleep: cycles, deep sleep, and REM
 
-Sleep has a structure worth knowing. There are two basic types of sleep, REM and non-REM, and non-REM has three stages; you cycle through them several times a night, with increasingly longer, deeper REM periods later in the session. REM first occurs about 90 minutes after falling asleep, and memory consolidation, in the National Institute of Neurological Disorders and Stroke's wording, most likely requires both non-REM and REM sleep.
+Sleep has a structure worth knowing. There are two basic types of sleep, REM and non-REM, and non-REM has three stages; you cycle through them several times a night, with increasingly longer, deeper REM periods later in the session ([NINDS, Brain Basics](https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-understanding-sleep)). REM first occurs about 90 minutes after falling asleep, and memory consolidation, in the National Institute of Neurological Disorders and Stroke's wording, most likely requires both non-REM and REM sleep.
 
-The memory research adds the mechanism. In the review literature, consolidation begins with the reactivation of recently encoded memory representations during slow-wave sleep, transforming them for integration into long-term memory, and the ensuing REM sleep may stabilize the transformed memories. The division of labour is one reason short nights cost: the REM-rich hours are the later ones.
+The memory research adds the mechanism. In the review literature, consolidation begins with the reactivation of recently encoded memory representations during slow-wave sleep, transforming them for integration into long-term memory, and the ensuing REM sleep may stabilize the transformed memories ([Rasch & Born 2013](https://pubmed.ncbi.nlm.nih.gov/23589831/)). The division of labour is one reason short nights cost: the REM-rich hours are the later ones.
 
 > "You cycle through non-REM and REM sleep several times during a typical night, with increasingly longer, deeper REM periods occurring later in the sleep session." (NINDS, [Brain Basics: Understanding Sleep](https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-understanding-sleep), Sleep Stages)
 
 **Plain words**
-A night is not one block of unconsciousness but a repeating pattern, and the pattern is lopsided: deep non-REM sleep dominates the first cycles, and REM gets longer toward morning. That lopsidedness is why the last two hours of a night are not padding: cut them and what you cut is weighted toward REM, the stage the memory research ties, with hedged language, to stabilising what the night has consolidated.
+A night is not one block of unconsciousness but a repeating pattern, and the pattern is weighted toward the end: the page describes increasingly longer, deeper REM periods occurring later in the sleep session. Ending sleep early may therefore cut into those later REM periods — the stage the memory research ties, with hedged language, to stabilising what the night has consolidated.
 
-*For example:* An imagined case: someone who sleeps from midnight to six sets an early alarm for a flight and loses the 5-to-6 hour. On the primer's description, that hour is REM-rich territory; the lost hour was weighted toward the stage that runs long late in the night.
+*For example:* An imagined case: someone who sleeps from midnight to six sets an early alarm for a flight and cuts the night shorter still. On the primer's description, what gets cut is weighted toward the later REM periods rather than spread evenly across the night.
 
 ## Sources
 

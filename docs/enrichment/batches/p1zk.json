@@ -29,12 +29,14 @@
   "BE065": "milestone QC outcome: scoped PASS (advisor round 3)",
   "BE071": "milestone QC outcome: scoped PASS (advisor round 3)",
   "BE075": "milestone QC outcome: scoped PASS (advisor round 3)",
-  "BI022": "Reopened for QC: item-15 advisor repairs",
-  "BI028": "Reopened for QC: item-15 advisor repairs",
-  "BI033": "Reopened for QC: item-15 advisor repairs"
+  "BI022": "Reopened for QC: item-15 advisor repair round 2",
+  "BI028": "Reopened for QC: item-15 advisor repair round 2",
+  "BI033": "Reopened for QC: item-15 advisor repair round 2",
+  "BI014": "Reopened for QC: item-15 advisor repair round 2",
+  "BI015": "Reopened for QC: item-15 advisor repair round 2"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T10:21:04+00:00",
+ "updated": "2026-10-20T10:25:12+00:00",
  "band_done": false
 }
