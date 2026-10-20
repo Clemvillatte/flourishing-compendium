@@ -1,6 +1,6 @@
 {
  "batch": "p1zk",
- "revision": 18,
+ "revision": 19,
  "reciprocal": [
   {
    "into": "Sleep deprivation",
@@ -115,6 +115,12 @@
    "link": "BI034",
    "why": "the fermented-foods trial and plant-diversity finding are the diet side of microbiome theory",
    "notes": "Evidence in sources/p1zk/BI034.md (Stanford/Wastyk 2021, McDonald 2018, Cryan 2019, all opened). Concept already cites BI034."
+  },
+  {
+   "into": "The laying on of hands",
+   "link": "BI051",
+   "why": "the vagal and autonomic evidence for touch as soothing",
+   "notes": "Evidence in sources/p1zk/BI051.md (Field 2010, Della Longa 2025, Candia-Rivera 2024, all opened). Concept already cites BI051."
   }
  ],
  "inline": []
