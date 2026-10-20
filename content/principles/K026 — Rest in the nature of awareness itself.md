@@ -16,13 +16,19 @@ The slogan that directs the practitioner to the awareness register: rest in the 
 
 (Seven-Point Mind Training, Point Two, the alaya slogans.)
 
+> Ponder that phenomena are like a dream. Discern the basic nature of awareness that has no arising. The opponent itself liberates itself in its own place. The essential nature of the path is to settle within a state of the all-encompassing basis. (Geshe Chekawa, Seven-Point Mind Training, Point Two, Alexander Berzin translation; "all-encompassing basis" renders the Tibetan kun-gzhi, alaya)
+
 **Plain words** The slogan says to rest in the nature of awareness itself, the plain knowing before any content. Lojong includes a wordless resting practice alongside the slogans, and the two feed each other. End a sitting with a minute of that, without doing anything.
 
-*For example:* After twenty minutes working with slogans, you drop them for sixty seconds and just sit, aware, with nothing to fix.
+*For example:* A compendium exercise: after twenty minutes working with slogans, drop them for sixty seconds and just sit, aware, with nothing to fix.
+
+## Sources
+
+- [Geshe Chekawa, "Seven Point Mind Training" (Berzin translation)](https://studybuddhism.com/en/tibetan-buddhism/original-texts/sutra-texts/seven-point-mind-training)
 
 ## Psychology parallels
 
-- **Open-monitoring practice**, the distinct mechanism from focused attention, with distinct attentional signatures (Lutz et al., 2008)
+- Open-monitoring practice (Lutz et al., 2008)
 
 ## Philosophy parallels
 

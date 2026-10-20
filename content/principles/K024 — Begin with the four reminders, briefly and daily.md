@@ -12,17 +12,23 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 24** — Begin with the four reminders, briefly and daily
 
-The lojong preliminaries are the "four thoughts that turn the mind": the rarity and value of this human life with its freedom and capacities; its impermanence; the reality that actions have consequences; and the cost of drifting. The tradition's instruction is deliberately brief: minutes, not hours, daily. Practically, open your practice with thirty seconds on each: what is working in my life, what is finite, what did yesterday's choices create, what happens if I drift?
+The root text of the Seven-Point Mind Training opens with one line, "Train first in the preliminaries," which the Togme Zangpo edition's annotation names as the four thoughts: precious human rebirth, death and impermanence, behavioral cause and effect, and the disadvantages of samsara. The compendium's reading takes them as a brief daily beginning rather than an extended study.
 
 (The Seven-Point Mind Training, Point One; Tsongkhapa's graduated reflections on the precious human life.)
 
-**Plain words** Four thoughts turn the mind: this human life is rare and valuable; it ends; actions have consequences; drifting costs you. The instruction is to spend minutes, not hours, on them every day. Start by noticing what's working, what's finite, what you're doing, and what you're wasting.
+> Train first in the preliminaries [precious human rebirth, death and impermanence, behavioral cause and effect, the disadvantages of samsara]. (Geshe Chekawa, Seven-Point Mind Training, Point One, Togme Zangpo edition, Alexander Berzin translation)
 
-*For example:* Thirty seconds at the kitchen table before the day starts: I'm healthy enough to be here, this won't last, what I do today matters, and I'm wasting an hour on my phone each night.
+**Plain words** The root text's one line carries four thoughts: this human life is rare and valuable, it ends, actions have consequences, and drifting has disadvantages. The compendium's exercise is to take them briefly each day, at the start of practice, rather than studying them at length.
+
+*For example:* A compendium exercise: thirty seconds at the kitchen table before the day starts, one thought each: I'm healthy enough to be here, this won't last, what I do today has consequences, and there are costs to drifting.
+
+## Sources
+
+- [Geshe Chekawa, "Seven Point Mind Training", Togme Zangpo edition (Berzin translation)](https://studybuddhism.com/en/tibetan-buddhism/original-texts/sutra-texts/seven-point-mind-training)
 
 ## Psychology parallels
 
-- **[[Gratitude]]**, the research on brief reminders of finitude increasing presence and appreciation when handled constructively (Cozzolino, 2006, death-reflection studies; Emmons's gratitude research)
+- **[[Gratitude]]** (Cozzolino, 2006, death-reflection studies; Emmons's gratitude research)
 
 ## Philosophy parallels
 

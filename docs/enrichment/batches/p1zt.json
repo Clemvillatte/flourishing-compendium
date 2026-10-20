@@ -7,7 +7,9 @@
   "K044",
   "K005",
   "K045",
-  "K047"
+  "K047",
+  "K024",
+  "K026"
  ],
  "in_progress": null,
  "flagged": {
@@ -19,6 +21,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T12:02:52+00:00",
+ "updated": "2026-10-20T12:03:43+00:00",
  "band_done": false
 }
