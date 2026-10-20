@@ -40,4 +40,11 @@ No historical draft for this item was present under drafts/w1c.
 
 ## Advisor QC
 
-Pending first-item independent review before the done transition.
+Independent advisor first_item_source_and_prose_qc_mvg8y4wl: PASS, no must-fix
+issues. Independently fetched Nyanaponika and the Wiley abstract (advisor used
+the same DOI's /abs/ route after /full/ redirected). Confirmed exact quotation,
+all claims, intact front matter and all 13 original links in order.
+Applied both optional prose suggestions: a direct statement that verbal naming
+is compatible with the practice and removal of “This page uses” framing.
+Local validation: `enrich_validate.py --base a7415ff8 --fast-track` passes;
+warning for fewer than three Related lines is expected for this fast-track item.
