@@ -12,13 +12,21 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "M — Mesoam
 ---
 > **Principle 11** — Treat beauty as a mode of truth
 
-The Nahua metaphor-pair in xochitl in cuicatl (flower and song) names poetry, art, and music, and the tradition uses it as its term for truth-telling: the poem is how the real is reached when ordinary speech cannot carry it. The tlamatinime ask, in the songs, whether one's words are "true," "jade and quetzal feathers" or only "wilted flowers." This is not aestheticism; it is an epistemology: some truths require making, not only stating. Practically, when something true in your life exceeds your prose (grief, love, conviction), let it be made: write it, sing it, draw it, build it.
+The Nahua metaphor-pair in xochitl in cuicatl (flower and song) names poetry, art, and music, and the tradition uses it as its term for truth-telling. Maffie's summary of the doctrine:
 
-(The Cantares Mexicanos; Maffie's and Leon-Portilla's presentation of in xochitl in cuicatl.)
+> "Composing-and-performing song-poems in particular are the highest form of human artistry and the finest way for humans to present teotl since this activity most closely imitates and participates in teotl's own cosmic, creative artistry." (Maffie, "Aztec Philosophy", Internet Encyclopedia of Philosophy)
 
-**Plain words** Flower and song — in xochitl in cuicatl — is the Nahua term for poetry, art, music, and also for truth-telling: the poem is how the real is reached when ordinary speech can't carry it. Not aestheticism: the claim that some truths only arrive in the art.
+The same article closes the point: "Hence song-poems rather than discursive arguments are the appropriate medium of sagely expression, and sages are perforce singer-songwriter-poets." This is not aestheticism; it is an epistemology: some truths require making, not only stating. Practically, when something true in your life exceeds your prose (grief, love, conviction), let it be made: write it, sing it, draw it, build it.
 
-*For example:* The family that couldn't say "we're sorry" in a decade of conversation — and the daughter writes the one song that does it in three verses, and everyone finally breathes.
+**Plain words**
+Some things you know but cannot say straight. Said straight, they come out flat, the way a joke explained stops being funny. The Nahua answer was to make something: a song, a painted poem, a metaphor that carries what the plain statement drops. If a truth in your life keeps defeating your sentences, that is not a failure of the truth; it is a sign it wants a different form.
+
+*For example:* A family that could not say "we're sorry" in a decade of conversation; the daughter writes one song, three verses, and the room finally breathes.
+
+## Sources
+
+- James Maffie, ["Aztec Philosophy", Internet Encyclopedia of Philosophy](https://iep.utm.edu/aztec-philosophy/) — both blockquoted sentences; the article cites Cantares mexicanos translations by León-Portilla (1992)
+
 ## Psychology parallels
 
 - **Expressive writing's and art-making's effects**, the evidence that structured making of experience improves outcomes where mere talking does not (Pennebaker and Beall, 1986; the creative-arts intervention literature, as framework)
