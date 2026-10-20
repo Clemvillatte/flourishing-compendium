@@ -19,10 +19,9 @@
   "P094",
   "P119",
   "P120",
-  "P125",
-  "P132"
+  "P125"
  ],
- "in_progress": null,
+ "in_progress": "P132",
  "flagged": {
   "P058": "Reopened for QC: QC round-3 touch-ups",
   "P054": "Reopened for QC: QC round-3 touch-ups",
@@ -31,10 +30,11 @@
   "P094": "Reopened for QC: QC round 3: opening quote citation",
   "P119": "Reopened for QC: QC round 3: ledger made locator-based",
   "P120": "Reopened for QC: QC round 2: narrower Serafina wording, ledger fragments removed, counts fixed",
-  "P125": "Reopened for QC: QC round 3: ledger quotation accounting"
+  "P125": "Reopened for QC: QC round 3: ledger quotation accounting",
+  "P132": "Reopened for QC: QC round 1 (advisor): prose narrowed, ledger records corrected"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T04:51:46+00:00",
+ "updated": "2026-10-20T04:53:24+00:00",
  "band_done": false
 }
