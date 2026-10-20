@@ -1,5 +1,16 @@
 # Handoff (start here)
 
+- CURRENT SUPERVISOR (2026-10-21 ~14:0xZ, supervisor-d1c4f2a9, same session as worker-p1zq-d1c4f2a9;
+  takeover from stale storyteller-6cf9c268): pass 1 logged in the OPERATIONS.md QC log — health
+  check (window 6e73e5da4..HEAD, 8 files: p1zx E058/E067, p1zw milestone-2 repairs, p1zr BE074;
+  build ok 5,737/fcAuthored 976); samples E058 (p1zx: 9/10 verbatim vs the Ted K Archive Rebel
+  text; comma-turned-period defect ROUTED to the live owner) and BE074 (p1zr: NICE words
+  verified vs the PDF, bullet-list rendering ROUTED); integration of 8 free-band proposal files
+  (34 recip + 1 inline, 33 files, 26 post-apply FAILs all pre-existing seed conditions,
+  line-membership ok); reserves p1zy/p1zz (Yoga-Vedanta, maintenance track) + p1zza minted
+  (degree order) — three OPEN reserves. p1zq closed 30/30 this session (wrap-up note below;
+  items-26-30 scoped PASS after two advisor QC rounds; dispositions pending: AF037 title
+  scope, AF057 alias change). Bounded monitoring continues.
 - OWNER UPDATE (2026-10-19): work continuously, not in self-terminating passes. Read
   `docs/enrichment/OWNER-UPDATE-2026-10-19.md` before proceeding. Workers move to the next
   available priority band; the supervisor keeps monitoring even when no new commits arrive.
