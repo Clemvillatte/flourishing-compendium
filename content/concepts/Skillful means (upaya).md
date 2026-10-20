@@ -9,22 +9,22 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Skillful means (upaya)” — Buddhism, Lotus Sutra.
 
-Skillful means (upāya) is the Lotus Sutra's term for the Buddha's way of teaching in forms fitted to what hearers can receive. The sutra's second chapter, titled "Skilfulness" in H. Kern's 1884 translation, has the Buddha say he elucidates the law through many varied skilful means, and that the Tathāgatas skillfully designate the one Buddha-vehicle as a threefold vehicle ([Lotus Sutra, ch. 2, Kern translation](https://sacred-texts.com/bud/lotus/lot02.htm)).
+Skillful means is the Buddha's way of teaching in forms fitted to what hearers can receive. The Lotus of the True Law (Saddharma-Pundarika) devotes its second chapter to it, titled "Skilfulness" in the Sacred Texts edition: the Buddha says he elucidates the law through many varied skilful means, and the chapter says the Tathāgatas skillfully designate the one Buddha-vehicle as a threefold vehicle ([Lotus of the True Law, ch. 2](https://sacred-texts.com/bud/lotus/lot02.htm)).
 
-> "It is difficult to understand the exposition of the mystery of the Tathâgata, Sâriputra; for in elucidating the law, Sâriputra, I use hundred thousands of various skilful means, such as different interpretations, indications, explanations, illustrations." (Lotus Sutra, ch. 2, [Kern translation, Sacred Texts](https://sacred-texts.com/bud/lotus/lot02.htm))
+> "It is difficult to understand the exposition of the mystery of the Tathâgata, Sâriputra; for in elucidating the law, Sâriputra, I use hundred thousands of various skilful means, such as different interpretations, indications, explanations, illustrations." (Lotus of the True Law, ch. 2, [Sacred Texts](https://sacred-texts.com/bud/lotus/lot02.htm))
 
-### The burning house
+### Teaching different hearers
 
-Chapter 3 illustrates the device with a parable: an old, wealthy householder's large and decayed house catches fire while his many children play inside; he has come out safely himself and must find a way to draw them out ([Lotus Sutra, ch. 3](https://sacred-texts.com/bud/lotus/lot03.htm)). The chapter states the principle just before telling it:
+Chapter 3 states the principle the parables then illustrate:
 
-> "Have I not told thee before, Sâriputra, that the Tathâgata, &c., preaches the law by able devices, varying directions and indications, fundamental ideas, interpretations, with due regard to the different dispositions and inclinations of creatures whose temperaments are so various?" (Lotus Sutra, ch. 3, [Kern translation, Sacred Texts](https://sacred-texts.com/bud/lotus/lot03.htm))
+> "Have I not told thee before, Sâriputra, that the Tathâgata, &c., preaches the law by able devices, varying directions and indications, fundamental ideas, interpretations, with due regard to the different dispositions and inclinations of creatures whose temperaments are so various?" (Lotus of the True Law, ch. 3, [Sacred Texts](https://sacred-texts.com/bud/lotus/lot03.htm))
 
 ### In the compendium
 
-- [[D003 — Act through wu wei — non-forcing]] — the Daoist parallel of action fitted to the situation
+- [[D003 — Act through wu wei — non-forcing]] — a comparison drawn by the compendium: the Daoist mode of non-forcing action
 - [[MO054 — Learn to use self-regulation strategies — manage impulses]] — choosing or changing situations as one strategy among several
-- [[MO029 — Learn to use temptation bundling — pair unpleasant tasks with pleasures]] — a technique shaped to how motivation works
-- [[MO042 — Learn to replace habits — substitute, do not just eliminate]] — substitution designed around how habits work
+- [[MO029 — Learn to use temptation bundling — pair unpleasant tasks with pleasures]] — pairs an unpleasant task with a pleasure
+- [[MO042 — Learn to replace habits — substitute, do not just eliminate]] — proposes replacing a habit
 - [[BE021 — Learn to use behavioural rehearsal — practise before performing]] — practice arranged to fit the performance to come
 - [[D057 — Enter flow]] — skillful action in the Cook Ding story the principle draws on
 
@@ -41,8 +41,8 @@ Chapter 3 illustrates the device with a parable: an old, wealthy householder's l
 - [[The raft]]
 ## Sources
 
-- [Lotus Sutra, ch. 2 (Kern translation, Sacred Texts)](https://sacred-texts.com/bud/lotus/lot02.htm) — the blockquote on skilful means and the one-vehicle passage
-- [Lotus Sutra, ch. 3 (Kern translation, Sacred Texts)](https://sacred-texts.com/bud/lotus/lot03.htm) — the burning-house parable and the able-devices blockquote
+- [Lotus of the True Law, ch. 2 (Sacred Texts)](https://sacred-texts.com/bud/lotus/lot02.htm) — the blockquote on skilful means and the one-vehicle passage
+- [Lotus of the True Law, ch. 3 (Sacred Texts)](https://sacred-texts.com/bud/lotus/lot03.htm) — the able-devices blockquote
 - Buddhism, Lotus Sutra
 - Buddhism, upaya
 
