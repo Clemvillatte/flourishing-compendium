@@ -262,3 +262,9 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 - Quotes verified: the 3.4 sutra and Vyasa span matched woods text; BG spans matched fetched pages.
 - Seed repairs: neither text states the fractal / same-operation-at-two-scales idea; labelled as the page's own synthesis along with the monthly exercise. Barnett & Ceci and Emerald Tablet not opened (Emerald Tablet parallel looks weak).
 - Saturation: low.
+
+## Y007 (2026-10-21, worker-p1zz-b81e3f52)
+- Sources opened: Woods YS 1.21 and 1.22 with Vyasa and the Tika (pp. 47-48).
+- Quotes verified: matched woods text (one span differs only by OCR spacing before a semicolon).
+- Seed repairs: the scale in the text is gentle/moderate/vehement intensity of method, with speed of result tied to it and cause placed partly in past conditioning; "ardent" and "accurate self-assessment as practice" and matching intensity to difficulty of mind labelled as the page's own. Bjork and Aristotle not opened.
+- Saturation: low.
