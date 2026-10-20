@@ -274,3 +274,9 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 - Quotes verified: matched woods text (one span broken by a page break "men- tioned").
 - Seed repairs: the text gives a check only for testimony (did the speaker see or infer it; "wavers"). "Each channel has its own failure mode" and the see/infer/absorb question labelled as the page's own. Source monitoring, Aristotle, Hume not opened.
 - Saturation: low.
+
+## Y028 (2026-10-21, worker-p1zz-b81e3f52)
+- Sources opened: Woods YS 2.30 with Vyasa (pp. 178-179), 2.35.
+- Quotes verified: matched woods text (differences only OCR spacing and footnote marker).
+- Seed repairs: "others rooted in it" and truthfulness bounded by non-injury are in the commentary; "when values collide the harm-reducing one wins" and including own long-term welfare labelled as the page's own. BG 13.7-11 locator is really 13.8-12 (see Y123). Klimecki, Hippocrates, Mill not opened.
+- Saturation: low.
