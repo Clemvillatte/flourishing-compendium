@@ -25,13 +25,13 @@
   "P142",
   "P149"
  ],
- "in_progress": null,
+ "in_progress": "P154",
  "flagged": {
   "B137": "Ownership overlap detected after p1u rewrite: already done p1p; source-verified p1u rewrite preserved protected content, supervisor attribution review needed",
   "SCOPE_CORRECTION": "Manifest correct; worker misread B IDs. B152/B137/B149 restored in 1f71a89a; ignore erroneous done/flags for B125 B137 B139 B140 B149 B152 B157 B163 B164 B165. Supervisor may reconcile via approved tooling; details in p1u ledger."
  },
  "missing_concepts": [],
  "sources_checked": 40,
- "updated": "2026-10-20T03:48:14+00:00",
+ "updated": "2026-10-20T03:48:17+00:00",
  "notes": " | supervisor-0ddcdd37 reconciliation (2026-10-20): removed erroneous out-of-band entries (done: B152/B137/B149; flags: B125/B139/B140/B157/B163/B164/B165) per the worker's scope-correction request; content was already restored by the worker in 1f71a89a; B149/B152/B137 belong to their owning bands (B149 is in p1v's manifest, unclaimed). | supervisor-0ddcdd37 reconciliation (2026-10-20): removed erroneous out-of-band entries (done: B152/B137/B149; flags: B125/B139/B140/B157/B163/B164/B165) per the worker's scope-correction request; content already restored by the worker in 1f71a89a; B149 belongs to p1v (unclaimed)."
 }
