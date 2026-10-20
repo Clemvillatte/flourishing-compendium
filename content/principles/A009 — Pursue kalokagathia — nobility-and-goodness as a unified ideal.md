@@ -12,15 +12,15 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 9** — Pursue kalokagathia: nobility-and-goodness as a unified ideal
 
-Aristotle's definition is structural. Kalokagathia is not a virtue someone can hold on its own; it is what happens when the separate virtues are held together, the way health is not a body part but a condition that every important part shares. And the person who has it differs from the merely good person by holding noble things for their own sake rather than for what they buy. The [[Virtue|moral virtue (agathon)]] of the kaloskagathos is not one part held in isolation; it is what the whole compound condition looks like from the inside.
+Aristotle distinguishes goodness from nobility-and-goodness. The good man is one for whom the natural goods are good; the man who is noble and good possesses those goods which are noble for themselves, and practises the noble for its own sake, the noble being the virtues and the acts that proceed from virtue. He must have the separate [[Virtue|moral virtue (agathon)]]s, as health requires the important parts of the body to be in the same condition as the whole.
 
-> "That he who truly deserves this denomination must have the separate virtues is clear; it cannot be otherwise with other things either, for no one is healthy in his entire body and yet healthy in no part of it, but the most numerous and important parts, if not all, must be in the same condition as the whole." (Eudemian Ethics VIII.3, 1248b8; Solomon, 1915)
+> "That he who truly deserves this denomination must have the separate virtues is clear; it cannot be otherwise with other things either, for no one is healthy in his entire body and yet healthy in no part of it, but the most numerous and important parts, if not all, must be in the same condition as the whole." ([Eudemian Ethics VIII.3, 1248b8-15](https://johnhboyer-sys.github.io/aristotle-reader/EE/book/5), Solomon 1915)
 
-> "A man is noble and good because those goods which are noble are possessed by him for themselves, and because he practises the noble and for its own sake, the noble being the virtues and the acts that proceed from virtue." (Eudemian Ethics VIII.3, 1248b34; Solomon, 1915)
+> "A man is noble and good because those goods which are noble are possessed by him for themselves, and because he practises the noble and for its own sake, the noble being the virtues and the acts that proceed from virtue." ([Eudemian Ethics VIII.3, 1248b30-35](https://johnhboyer-sys.github.io/aristotle-reader/EE/book/5), Solomon 1915)
 
-**Plain words** Aristotle's picture is of a person whose several virtues are not kept in separate compartments but arrive in the same act. The verse does not say that this person is better than someone with one virtue; it says the word names the compound case.
+**Plain words** Choose noble action for its own sake, not for what it buys or avoids. Aristotle's picture of the noble-and-good person is someone whose possession of the virtues is itself the point, not a means to something else.
 
-*For example:* (Imagined.) Returning a lost wallet is good. Doing it warmly, without a lecture or a reward-hint, is the version people remember.
+*For example:* (Imagined application.) A finder returns a lost wallet without seeking a reward.
 
 ## Psychology parallels
 
@@ -39,4 +39,7 @@ Recall an act that was right but ugly, perhaps a necessary truth delivered cruel
 Is there something wrong with valuing grace in ethics, since it favours people who are polished? How might the ideal of kalokagathia be used to exclude those who do good awkwardly?
 %%
 What is the relationship between beauty and compassion in the way you treat people in pain? Can tenderness be a form of precision?
--->
+-->## Sources
+
+- [Eudemian Ethics VIII.3, 1248b8-15 (Solomon 1915, Aristotle Reader)](https://johnhboyer-sys.github.io/aristotle-reader/EE/book/5)
+- [Eudemian Ethics VIII.3, 1248b30-35 (Solomon 1915, Aristotle Reader)](https://johnhboyer-sys.github.io/aristotle-reader/EE/book/5)

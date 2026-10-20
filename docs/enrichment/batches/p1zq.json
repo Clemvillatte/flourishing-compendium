@@ -16,7 +16,8 @@
   "Y095_supervisor": "route to supervisor: inherited claim-bearing parallels need verification (Sheeran 2002 intent-behavior gap; Socrates Protagoras Virtue-is-knowledge)",
   "Y097_supervisor": "route to supervisor: inherited Dugas 1998 intolerance-of-uncertainty clinical claim is unverified",
   "Y108_supervisor": "route to supervisor: inherited Flavell 1979 metacognitive-regulation clinical claim is unverified",
-  "Y115_supervisor": "route to supervisor: inherited Aron et al. 1992 self-other-overlap claim is unverified"
+  "Y115_supervisor": "route to supervisor: inherited Aron et al. 1992 self-other-overlap claim is unverified",
+  "A009_supervisor": "route to supervisor: inherited Huta/Ryan 2010 + Conner 2018 eudaimonic-well-being and Dewey Art-as-experience claims are unverified; gloss-vs-source distinction (kalokagathia as compound of moral+intellectual virtue) is a supervisor-level review question"
  },
  "missing_concepts": [],
  "sources_checked": 0,
