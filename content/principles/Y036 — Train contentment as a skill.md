@@ -12,17 +12,19 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 36** — Train contentment as a skill
 
-Yoga Sūtra 2.32 lists the observances, with contentment (santosha) second among them: "Cleanliness and contentment and self-castigation and study and devotion to the Iśvara are the observances" (Woods). Sūtra 2.42 states its result: "As a result of contentment there is an acquisition of superlative pleasure." The sutras place contentment among the observances, the things practiced, rather than among conditions that circumstances supply. The compendium exercise follows: practice contentment at set times, before meals and at day's end, rather than only when circumstances oblige it.
+Yoga Sūtra 2.32 includes contentment among the observances, alongside cleanliness, self-castigation, study and devotion to Iśvara. Sūtra 2.42 describes superlative pleasure as its result.
+
+For a compendium exercise, pause at the end of each day and record what you find satisfying in your present circumstances and what you still want to change.
 
 > As a result of contentment there is an acquisition of superlative pleasure.
 >
 > Patañjali, Yoga Sūtra 2.42, translated by James Haughton Woods (1914), [reprinted text](https://www.theessentialway.org/yoga-sutras/).
 
 **Plain words**
-The sutras list contentment among the observances, the practices, and state its result as superlative pleasure. Practice it at set times: before meals, at day's end. Treat it as something done, not something waited for.
+At day's end, describe one part of your life you appreciate. Also name something difficult or unfinished. Keep both in the record.
 
 **For example**
-In an imagined exercise, two people in the same apartment and job each keep a log at day's end: one records what they are waiting for before life gets good; the other writes three things they have decided to want today.
+In an imagined exercise, someone writes down what they appreciate about their current home and one source of discontent at the end of each day.
 
 ## Psychology parallels
 

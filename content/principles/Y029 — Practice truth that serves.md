@@ -12,15 +12,17 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 29** — Practice truth that serves
 
-Yoga Sūtra 2.36 (Woods) grounds the practice: "as soon as he is grounded in abstinence from falsehood, actions and consequences depend upon him." The Bhagavad Gita defines the austerity of speech: "Speaking words that cause no agitation and that are truthful, pleasing and beneficial, as well as reciting the Vedas, are all said to be austerities of speech" (17.15). The verse's conditions apply together: no agitation, truthful, pleasing, beneficial. Truthfulness on these texts is not indiscriminate accuracy; the sentence itself is examined before it is spoken. The compendium exercise follows: before speaking, write the sentence down and mark each of the verse's conditions it meets.
+Yoga Sūtra 2.36 concerns being established in abstinence from falsehood. Bhagavad Gita 17.15 describes austerities of speech through non-agitating, truthful, pleasing and beneficial words, alongside Vedic recitation.
+
+For a compendium exercise, draft one piece of difficult feedback. Ask what is accurate, what may cause agitation, and what could help the recipient. Revise the draft, then consider whether and when to speak.
 
 > "Speaking words that cause no agitation and that are truthful, pleasing and beneficial, as well as reciting the Vedas, are all said to be austerities of speech." (Bhagavad Gita 17.15)
 
 **Plain words**
-The Gita's rule for speech has four parts: no agitation, truthful, pleasing, beneficial. Before you say the hard thing, write the sentence down and mark which of the four it meets. A sentence can be true and still fail the others.
+Think about something difficult you need to tell someone. Put the factual point in one sentence. Then ask why the listener needs it, how you could phrase it, and whether this is the moment to speak.
 
 **For example**
-In an imagined exercise, someone about to give their verdict on a friend's novel writes the sentence down, marks each of the four conditions, and rewrites until all four are met.
+In an imagined exercise, someone drafts two comments on a friend's novel, checks their accuracy and purpose, and decides whether to offer the feedback.
 
 ## Psychology parallels
 

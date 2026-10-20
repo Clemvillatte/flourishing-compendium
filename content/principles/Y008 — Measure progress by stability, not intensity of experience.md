@@ -12,17 +12,19 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 8** — Measure progress by stability, not intensity of experience
 
-Yoga Sūtra 1.3 states the promise that follows the restriction: "Then the Seer [that is, the Self,] abides in himself" (Woods). Sūtra 1.47 describes what follows the balanced state's clearness: internal undisturbed calm. Sūtra 1.48 adds that in this calm the insight is truth-bearing. Nothing in these sutras promises vividness or intensity; the terms are abiding, calm, and truth-bearing. The compendium exercise takes its scoreboard from the sutras' own vocabulary: track stability, meaning how often and how long you are swept away, rather than how vivid any experience was.
+Yoga Sūtra 1.3 describes the seer abiding in himself after the restriction named in 1.2. Sūtras 1.47 and 1.48 describe clarity in the super-reflective balanced state, internal undisturbed calm, and truth-bearing insight.
+
+For a compendium exercise, keep two kinds of notes after sitting: occasions when attention wandered and returned, and any unusually vivid experiences. Review the notes across several sessions.
 
 > Then the Seer [that is, the Self,] abides in himself.
 >
 > Patañjali, Yoga Sūtra 1.3, translated by James Haughton Woods (1914), [reprinted text](https://www.theessentialway.org/yoga-sutras/).
 
 **Plain words**
-The sutra's promise is that the seer abides in himself. The words used are abiding, calm, truth-bearing; none of them means intensity. Track your practice by stability: how often you get swept away, and how long it lasts. Write that down instead of how vivid things felt.
+After a sitting, note when attention wandered and when you returned to your chosen focus. If an experience stood out, describe that separately.
 
 **For example**
-In an imagined exercise, two meditators compare logs: one records peak vividness ratings, the other records episodes of being swept away and their durations.
+In an imagined exercise, a meditator dates a page, records an interruption and how they resumed, and gives a separate line to a vivid image.
 
 ## Psychology parallels
 

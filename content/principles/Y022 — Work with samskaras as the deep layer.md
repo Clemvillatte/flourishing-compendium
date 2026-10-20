@@ -12,17 +12,19 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 22** — Work with samskaras as the deep layer
 
-Yoga Sūtra 1.18 describes a concentration consisting of subliminal-impressions only, following upon practice that effects the cessation of fluctuations (Woods). Book III sets the impressions to work: sūtra 3.9 describes the subliminal-impression of emergence becoming invisible while the subliminal-impression of restriction becomes visible, with the mutation of restriction connected to mind-stuff in its period of restriction; sūtra 3.10 adds that the mind-stuff flows peacefully by reason of the subliminal-impression. On this model, practice works on a layer beneath visible thought: the impressions themselves, which the sutras show alternating and directing the flow. The compendium exercise treats an unwanted automatic pattern accordingly: aim at the layer of repetition rather than at winning arguments in the moment.
+Yoga Sūtra 1.18 describes concentration in which only subliminal impressions remain. Sūtra 3.9 discusses impressions of emergence and restriction during restraint, and 3.10 attributes the mind-stuff's peaceful flow to an impression. The discussion concerns changes during concentration.
+
+For an everyday compendium exercise, record one recurring reaction, what preceded it, and a different response you would like to rehearse next time.
 
 > The other [concentration which is not conscious of objects] consists of subliminal-impressions only [after objects have merged], and follows upon that practice which effects the cessation [of fluctuations].
 >
 > Patañjali, Yoga Sūtra 1.18, translated by James Haughton Woods (1914), [reprinted text](https://www.theessentialway.org/yoga-sutras/).
 
 **Plain words**
-The sutras speak of subliminal impressions beneath the visible thoughts. Practice, repeated, works on that layer: one impression fades, another of restriction becomes visible, and the mind-stuff flows peacefully by reason of the new impression. Aim the effort at the repetitions, not at the arguments.
+Pick one reaction you keep repeating. Describe the situation, what you did, and one different response you can practise. Review the record after a week.
 
 **For example**
-In an imagined exercise, someone who wants to stop snapping during one stretch of the evening writes that twenty-minute slot into the family routine and re-runs it daily, recording each run in a log.
+In an imagined exercise, a parent records an evening interruption and plans to pause before answering at the next interruption.
 
 ## Psychology parallels
 
@@ -36,4 +38,4 @@ In an imagined exercise, someone who wants to stop snapping during one stretch o
 
 ## Sources
 
-- [The Yoga Sūtras of Patañjali, Woods translation (1914), reprinted](https://www.theessentialway.org/yoga-sutras/) — 1.18, 3.9, 3.10, 3.15, 3.18
+- [The Yoga Sūtras of Patañjali, Woods translation (1914), reprinted](https://www.theessentialway.org/yoga-sutras/) — 1.18, 3.9, 3.10
