@@ -26,9 +26,9 @@ Aristotle ranks the lives without dismissing the second. "In a secondary degree 
 
 ### Plain words
 
-The ranking says the second life is still happy: secondary, not second-rate in the sneer's sense ([NE X.8](http://classics.mit.edu/Aristotle/nicomachaen.10.x.html)). Its acts are the ones done with and for each other, and Aristotle calls them typically human ([NE X.8](http://classics.mit.edu/Aristotle/nicomachaen.10.x.html)). For an exercise, consider a particular just act you might do this week, and consider an hour given to understanding something.
+The ranking says the second life is still happy: secondary, not second-rate in the sneer's sense ([NE X.8](http://classics.mit.edu/Aristotle/nicomachaen.10.x.html)). Its acts are the ones done with and for each other, and Aristotle calls them typically human ([NE X.8](http://classics.mit.edu/Aristotle/nicomachaen.10.x.html)). For reflection, consider a particular just act you might do this week.
 
-For example: imagine a supplier paid on the day the contract requires, and an hour that evening spent on a chapter of something demanding. Both are offered as particular acts, not as certificates of a happy life. (An invented illustration.)
+For example: imagine a supplier paid on the day the contract requires. The act is offered as a particular one, not as a certificate of a happy life. (An invented illustration.)
 
 ## Stories
 
