@@ -23,7 +23,7 @@ Kastner and Ungerleider's complementary account frames attention as a competitio
 
 ## Related concepts
 
-- [[Attentional control training and the role of repeated redirection]] — practising the return of attention works between intentional selection and stimulus-driven capture ([Corbetta & Shulman, 2002](https://www.semanticscholar.org/paper/Control-of-goal-directed-and-stimulus-driven-in-the-Corbetta-Shulman/53e66b6934516a9859573f4866f81f04bce977ae))
+- [[Attentional control training and the role of repeated redirection]]
 
 ## Sources
 
