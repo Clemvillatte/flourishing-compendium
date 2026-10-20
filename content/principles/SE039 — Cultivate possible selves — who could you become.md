@@ -12,21 +12,33 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 39** — Cultivate possible selves: who could you become?
 
-Possible selves are future self-representations — hopes, fears, and expectations. They are motivational: having clear, positive possible selves predicts effort, persistence, and achievement. Feared possible selves (who I do not want to become) are also motivational.
+The construct behind this principle is possible selves, introduced by Hazel Markus and Paula Nurius in 1986.
 
-**Plain words** Possible selves: future self-representations — hopes, fears, expectations. Motivational: clear, positive possible selves predict effort and persistence; feared possible selves can drive avoidance. Design your possible selves on purpose; they're the propulsion.
+> "Possible selves represent individuals' ideas of what they might become, what they would like to become, and what they are afraid of becoming, and thus provide a conceptual link between cognition and motivation." (Markus & Nurius, "Possible Selves", American Psychologist 41, 1986, abstract, p. 954)
 
-*For example:* The person whose future self is a vague cloud ("successful, probably?") — versus the one with a specific image: the clinic, the mornings, the published papers. The vague self can't be moved toward; the specific one exerts pull every Monday.
+The same paper proposes that possible selves "function as incentives for future behavior (i.e., they are selves to be approached or avoided)". A later research programme adds a boundary the page needs: articulating a possible self "is not enough to produce sustained effort and behavior change"; possible selves need to be linked with specific strategies, and in one school-year study "students with strategies attained better grades than those without them" (Lee & Oyserman's review of Oyserman et al., 2004). The compendium's application: design the specific image, then attach concrete behaviours to it.
+
+**Plain words**
+Possible selves are the futures you hold of yourself: the one you hope for, the one you fear, the one you expect. The researchers who coined the term say they work as incentives, approach or avoid. The catch from the later school studies: a vivid future self alone moves nothing until it is hitched to concrete behaviours, and it was the students with strategies, not just with images, who got the grades.
+
+*For example:* Imagine the person whose future self is a vague cloud ("successful, probably?"), versus the one with a specific image: the clinic, the mornings, the published papers, and the alarm set for each of them.
+## Sources
+
+- [Markus, H., & Nurius, P. (1986), Possible Selves, American Psychologist 41(9), 954-969 (full text PDF)](https://cmapspublic2.ihmc.us/rid=1LQJK1Z9J-16LFNTG-39MK/Possible%20Selves%20ARTICLE.pdf) — definition and incentive function, p. 954
+- [Lee, S. J., & Oyserman, D., Possible Selves Theory (education chapter, USC Dornsife)](https://dornsife.usc.edu/daphna-oyserman/wp-content/uploads/sites/232/2023/11/lee_and_oyserman_possible_selves_theory___education.pdf) — strategies finding as described above
+
 ## Psychology parallels
 
-- **[[Possible selves|Possible selves (Markus & Nurius)]]**, future self-representations motivate behaviour (Markus & Nurius, 1986; Oyserman et al., 2004)
-- **Possible selves and academic achievement**, having clear possible selves predicts academic effort and achievement (Oyserman et al., 2004; Destin & Oyserman, 2010)
+- **[[Possible selves|Possible selves (Markus & Nurius)]]**, future self-representations that function as incentives, selves to be approached or avoided (Markus & Nurius, 1986, full text)
+- **Possible selves and academic achievement**, school-focused possible selves alone, without strategies, are not associated with improved grades; students whose possible selves included detailed strategies attained better grades (Oyserman et al., 2004, as described in Lee & Oyserman's chapter)
 
 ## Philosophy parallels
 
-- **[[Self-overcoming|Self-overcoming]]** (Nietzsche, Thus Spoke Zarathustra)
-- **[[The ideal self|The ideal self]]** (Kant, Critique of Practical Reason)
-- **[[Hope|Hope and vision]]** (Ernest Bloch, The Principle of Hope)
+Suggested connections for further reading, not verified textual parallels.
+
+- **[[Self-overcoming|Self-overcoming]]**
+- **[[The ideal self|The ideal self]]**
+- **[[Hope|Hope and vision]]**
 
 ## Practice
 

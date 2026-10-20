@@ -173,3 +173,9 @@ Core prose (body per QC round-1 replacement text, VI.9 blockquote + IV.21 inline
 **Assertions dropped:** none in body; the Erikson lifelong-psychosocial-task claim (unopened) removed from psychology parallels; philosophy parallels reframed as suggested connections (SE028 milestone standard).
 **Reciprocal candidates:** CO010 (thinking-is-narrative sibling page; public body). Pending supervisor.
 **QC:** standard checks; SE028 milestone lessons applied proactively (full-page claim audit, philosophy framing).
+### SE039 — Cultivate possible selves — who could you become
+**Done:** SE039.
+**Sources opened:** Markus & Nurius 1986, full text, https://cmapspublic2.ihmc.us/rid=1LQJK1Z9J-16LFNTG-39MK/Possible%20Selves%20ARTICLE.pdf (definition, p. 954; incentive function; string-verified). Lee & Oyserman chapter, https://dornsife.usc.edu/daphna-oyserman/wp-content/uploads/sites/232/2023/11/lee_and_oyserman_possible_selves_theory___education.pdf (strategies finding; string-verified).
+**Assertions corrected:** the page's "clear, positive possible selves predict effort, persistence, and achievement" claim narrowed per the Oyserman strategies boundary (possible selves alone are not associated with improved grades; with strategies, better grades). Destin & Oyserman 2010 not opened, dropped from bullet text.
+**Reciprocal candidates:** none new; Possible selves concept page already links SE039.
+**QC:** standard checks; SE028 milestone standard applied (full-page audit, philosophy framing).
