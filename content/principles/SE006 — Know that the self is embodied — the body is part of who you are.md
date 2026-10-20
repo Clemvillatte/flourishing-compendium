@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 6** — Know that the self is embodied: the body is part of who you are
 
-William James calls the body "the innermost part of the material Self." The compendium uses this description as a starting point for thinking about bodily care as care for oneself.
+William James calls the body "the innermost part of the material Self." ([The Principles of Psychology, Vol. I, ch. X](https://www.gutenberg.org/files/57628/57628-h/57628-h.htm)) The compendium uses this description as a starting point for thinking about bodily care as care for oneself.
 
 (William James, "The Principles of Psychology," Vol. I, 1890, ch. X; Barrett et al., 2019; Craig, 2009.)
 
