@@ -76,3 +76,7 @@ No separate advisor tool available to this session; quotes are checked programma
 ## E107
 - Nietzsche GS (Common, Gutenberg #52881) §301 §335; Zarathustra Part I 'The Thousand and One Goals' (Common, #1998); BGE §211 (Zimmern, #4363): 9 quotations grep-verified. Public-domain translations, not Kaufmann/Hollingdale (cited in the inherited citation); wording differs from those. §301's 'Illusion of the Contemplative' is Common's title.
 - Limits: 'not relativism' framing of the statement supported only through §335 (physics/honesty) and §211 (preparation), not directly stated by Nietzsche as 'not relativism'.
+
+## E099
+- Being and Time M&R OCR full text: §1 passage and §36 curiosity passage grep-verified (M&R p. 217 marker mid-passage -> pp. 216-217). 'What Is Metaphysics?' (Krell, Basic Writings; archive.org scan): 'In the clear night...' on p. 103 and the closing question verified; page numbers from running heads of that scan (the 1993 edition paginates differently).
+- Limits: the statement's 'mystery to be inhabited, not a puzzle' (Marcel's distinction) is not found in any text I opened; the body does not assert it. Introduction to Metaphysics not opened.
