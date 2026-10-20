@@ -9,11 +9,11 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Judging by where one rests” — Confucius, Analects 2.10.
 
-Analects 2.10 gives Confucius's method for seeing through a person. The Master said:
+Analects 2.10 concerns assessing a person's character. In Legge's translation, Confucius says:
 
 > See what a man does. Mark his motives. Examine in what things he rests. How can a man conceal his character? How can a man conceal his character? (Analects 2.10, Legge translation, [Chinese Text Project](https://ctext.org/analects/wei-zheng/zh))
 
-The verse stacks three observations: what a person does, the motives they follow, and where they come to rest. The last is this page's title. An action can be performed and a reason rehearsed; the place a person settles into when nothing is demanded is the observation the closing question leans on. Read a person there, the verse argues, and concealment runs out: how can a man conceal his character?
+A practical reading is to consider the three observations together when assessing character: conduct, motives and the things in which the person rests.
 
 ## Sources
 

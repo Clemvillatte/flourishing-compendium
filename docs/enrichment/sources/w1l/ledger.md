@@ -776,3 +776,8 @@ convention).
 - No In-the-compendium block (fast-track bar; the four principle links and the story link preserved in their inherited sections).
 - Saturation: fast-track exemption; no reciprocal proposed.
 - QC: validator ok at fast-track profile. ADVISOR QC due (15th item of session) — running next.
+
+### Milestone QC correction round (advisor, 15th-item cadence, applied same day)
+- Advisor QC: FAIL with repairs. All applied: the interpretation paragraph (rehearsed reasons / nothing-demanded / concealment-runs-out gloss) deleted; "Confucius's method for seeing through a person" narrowed to "concerns assessing a person's character"; "The last is this page's title" editorial line and the dramatic closer removed; replaced with the advisor's concise practical-reading sentence. "The Master said" moved into the introducing line as in the source; quotation and citation unchanged.
+- Quotation verification described accurately: match against the supplied ctext extraction (prompt-based fetch), not an independent raw-text verification.
+- NAMESPACE CHECK: the exact title has no entry in concept-namespace-audit.md. The owner's 2026-10-19 audit scanned ALL 2,261 concept titles and produced the Category A (principle-style) list; 'Judging by where one rests' is NOT on it, so the page passed the owner's namespace bar as a concept. Evidence recorded here; item held for advisor confirmation before re-marking done.
