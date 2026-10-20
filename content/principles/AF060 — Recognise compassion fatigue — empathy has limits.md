@@ -12,11 +12,23 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 60** — Recognise compassion fatigue: empathy has limits
 
-Sustained empathic engagement with others' suffering, particularly in caregiving roles, can lead to emotional exhaustion, detachment, and reduced capacity for empathy. This is not a moral failure; it is a predictable response to sustained empathic demand without adequate recovery.
+The training study asks about the cost of sharing others' feelings, noting that "excessive sharing of others' negative emotions may be maladaptive and constitute a source of burnout" ([Klimecki et al., 2014](https://ccare.stanford.edu/wp-content/uploads/2022/11/Differential-pattern-of-functional-brain-plasticity-after-compassion-and-empathy-training-Klimecki-Leiberg-Ricard-and-Singer.pdf)). In the experiment, "empathy training, but not memory training (control group), increased negative affect and brain activations in anterior insula and anterior midcingulate cortex" in response to videos depicting human suffering ([Klimecki et al., 2014](https://ccare.stanford.edu/wp-content/uploads/2022/11/Differential-pattern-of-functional-brain-plasticity-after-compassion-and-empathy-training-Klimecki-Leiberg-Ricard-and-Singer.pdf)). Then "subsequent compassion training could reverse the increase in negative affect and, in contrast, augment self-reports of positive affect" ([Klimecki et al., 2014](https://ccare.stanford.edu/wp-content/uploads/2022/11/Differential-pattern-of-functional-brain-plasticity-after-compassion-and-empathy-training-Klimecki-Leiberg-Ricard-and-Singer.pdf)). The authors' conclusion: "training compassion may reflect a new coping strategy to overcome empathic distress and strengthen resilience" ([Klimecki et al., 2014](https://ccare.stanford.edu/wp-content/uploads/2022/11/Differential-pattern-of-functional-brain-plasticity-after-compassion-and-empathy-training-Klimecki-Leiberg-Ricard-and-Singer.pdf)). The exercise below distinguishes the two stances.
 
-**Plain words** Compassion fatigue: sustained empathic engagement with suffering — especially in caregiving roles — leads to emotional exhaustion, detachment, reduced empathy. Not a moral failure; a predictable response to overload. Prevention is structural: rest, boundaries, rotation, support.
+> In response to videos depicting human suffering, empathy training, but not memory training (control group), increased negative affect and brain activations in anterior insula and anterior midcingulate cortex—brain regions previously associated with empathy for pain.
+>
+> Klimecki, Leiberg, Ricard and Singer (2014), "Differential pattern of functional brain plasticity after compassion and empathy training," Social Cognitive and Affective Neuroscience 9, 873-879, [paper PDF](https://ccare.stanford.edu/wp-content/uploads/2022/11/Differential-pattern-of-functional-brain-plasticity-after-compassion-and-empathy-training-Klimecki-Leiberg-Ricard-and-Singer.pdf).
 
-*For example:* The nurse who cries in the car park every day and calls herself weak — versus the one whose unit rotates the hardest cases, enforces actual breaks, and has a debrief culture. Same empathy; one system is designed to keep it alive.
+> Compassion may, therefore, represent a very potent strategy for preventing burnout.
+>
+> Klimecki et al. (2014), same paper, [paper PDF](https://ccare.stanford.edu/wp-content/uploads/2022/11/Differential-pattern-of-functional-brain-plasticity-after-compassion-and-empathy-training-Klimecki-Leiberg-Ricard-and-Singer.pdf).
+
+(Klimecki et al., 2014, SCAN 9: 873-879.)
+
+### Plain words
+
+The study trained one group in empathic resonance and then compassion. Empathy training alone raised negative affect in response to suffering; compassion training reversed that increase and raised positive affect ([Klimecki et al., 2014](https://ccare.stanford.edu/wp-content/uploads/2022/11/Differential-pattern-of-functional-brain-plasticity-after-compassion-and-empathy-training-Klimecki-Leiberg-Ricard-and-Singer.pdf)). For an exercise, take one situation of facing someone's pain and write two descriptions: what the feeling is like when shared, and what concern for the person is like alongside it.
+
+For example: after a hard shift, a nurse writes two sentences, one describing the shared feeling and one describing the concern for the patient; the exercise is writing both. (An invented illustration.)
 ## Psychology parallels
 
 - **[[Empathic distress|Compassion fatigue / empathic distress]]**, empathic over-arousal leads to withdrawal and burnout (Klimecki & Singer, 2012)
