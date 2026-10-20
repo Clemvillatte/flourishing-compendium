@@ -6,11 +6,11 @@
   "Avidya",
   "The raft",
   "Abhyasa",
-  "Love",
   "Svadharma, one's own duty",
   "Intuition as method",
   "Ironic process",
-  "Lifespan development"
+  "Lifespan development",
+  "Love"
  ],
  "in_progress": null,
  "flagged": {
@@ -22,10 +22,11 @@
   "Svadharma, one's own duty": "QC REPAIR (advisor, milestone items 6-10): unverified opening prose removed ('one's own nature and station', Krishna/Arjuna narrative — not established by the fetched page); replaced with the advisor-specified lead-in grounded in the Wisdom Library rendering ('one's prescribed duties'); varṇāśrama italics removed from the blockquote (formatting only); blockquote, source lines, principle links and Cited-in preserved. Validated vs seed baseline c2a3ee47: ok.",
   "Intuition as method": "QC REPAIR (advisor, milestone items 6-10): second blockquote removed — the fetched OCR text returned a corrupted version of the intellectual-sympathy definition, and I had normalized the OCR artifacts without checking the printed page, so the quote could not stand as verbatim; its lead-in removed too. First blockquote (the relative/absolute passage) retained — returned clean by the fetch. Sources note updated to singular. Validated vs seed baseline c2a3ee47: ok.",
   "Ironic process": "QC REPAIR (advisor, milestone items 6-10): (1) ATTRIBUTION CORRECTED — the DASH document is Najmi and Wegner 2009, 'Hidden complications of thought suppression', International Journal of Cognitive Therapy 2(3): 210-223 (metadata verified via DASH); my earlier 'Wegner and Zanakos' byline was inferred from adjacent references and was wrong; both blockquote citations and the Sources line now carry the correct authors and citation. (2) Opening qualified per advisor (suppression 'can backfire', two-process description, no unconditional claim). (3) The three inherited 'finding...' bullets under Other formulations deleted per advisor (inherited wording is not evidence; no [[links]] affected). Six psychology-parallel links, inherited source lines and empty philosophy header preserved. Validated vs seed baseline c2a3ee47: ok.",
-  "Lifespan development": "QC REPAIR (advisor, milestone items 6-10): field-defining opening removed (one finding is not the field); replaced with the advisor-specified lead-in scoped to longitudinal personality research and average trait levels; quotes now explicitly framed as Bleidorn et al.'s summary of Roberts et al.'s meta-analysis (I opened the 2022 review, not the 2006 paper); average-trajectory scoping kept. Facets, psychology-parallel links and inherited source lines preserved. Validated vs seed baseline c2a3ee47: ok."
+  "Lifespan development": "QC REPAIR (advisor, milestone items 6-10): field-defining opening removed (one finding is not the field); replaced with the advisor-specified lead-in scoped to longitudinal personality research and average trait levels; quotes now explicitly framed as Bleidorn et al.'s summary of Roberts et al.'s meta-analysis (I opened the 2022 review, not the 2006 paper); average-trajectory scoping kept. Facets, psychology-parallel links and inherited source lines preserved. Validated vs seed baseline c2a3ee47: ok.",
+  "Love": "QC REPAIR (advisor, milestone items 6-10): philia gloss and Book IX coverage claim removed (not established by the fetched pages); lead-ins replaced with the advisor-specified wording; malformed seed locator 'VIII-VIX' corrected to 'VIII-IX' after verifying against the edition's contents that Book IX continues the friendship discussion (classics.mit.edu Book IX fetched; opens with friendships between dissimilars); Nussbaum attribution preserved in the seed line; all inherited source lines and the Cited-in link preserved; both blockquotes retained, verified verbatim from the fetched Ross translation. Validated vs seed baseline c2a3ee47: ok."
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T07:18:47+00:00",
+ "updated": "2026-10-20T07:19:03+00:00",
  "band_done": false
 }
