@@ -48,6 +48,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "", 
     - [[ST029 — Phil Connors Stops Fighting the Day]]
     - [[ST030 — Federer's Effortlessness]]
     - [[ST339 — Jigoro Kano Turns the Push]]
+    - [[ST340 — Fukuoka Learns to Do Nothing]]
   - [[ST-S01.05 — I.5 Psychological Freedom — Identity, Emotion, Death, Meaning]]
     - [[ST031 — Zhuangzi Drums on a Basin]]
     - [[ST032 — The Skull by the Road]]

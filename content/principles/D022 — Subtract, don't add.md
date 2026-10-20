@@ -28,6 +28,7 @@ Adding a solution gives you one more thing to run. When something isn't working,
 - [The Tao Teh King, trans. James Legge (Project Gutenberg)](https://www.gutenberg.org/ebooks/216) — ch. 48
 
 ## Stories
+- [[ST340 — Fukuoka Learns to Do Nothing|340. Fukuoka Learns to Do Nothing]]
 
 - [[ST010 — The Frog in the Well|10. The Frog in the Well]]
 - [[ST012 — The Fish on Dry Land|12. The Fish on Dry Land]]

@@ -28,6 +28,10 @@ The cook contrasts his blade with the ones that wear out: the good cook's knife 
 
 - [Zhuangzi, trans. James Legge, ETH Zurich](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — Book III, section 2, Cook Ding (PDF pp. 14-15)
 
+## Stories
+
+- [[ST340 — Fukuoka Learns to Do Nothing|340. Fukuoka Learns to Do Nothing]]
+
 ## Psychology parallels
 
 - **[[Affordances|Affordances]]**, skilled perception of action possibilities in the environment (Gibson, 1979)

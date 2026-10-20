@@ -39,6 +39,10 @@ You can send the application; you cannot send the acceptance letter. Water the s
 
 - [Tao Te Ching, trans. James Legge (Project Gutenberg)](https://www.gutenberg.org/cache/epub/216/pg216.txt) — ch. 37 (§1-2 blockquote, §3 verse fragment)
 
+## Stories
+
+- [[ST340 — Fukuoka Learns to Do Nothing|340. Fukuoka Learns to Do Nothing]]
+
 ## Psychology parallels
 
 - **[[Acceptance|Acceptance versus experiential avoidance]]** (Hayes et al., 2011), avoidance amplifies distress; acceptance reduces it
