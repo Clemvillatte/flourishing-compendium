@@ -346,3 +346,25 @@ to the supervisor (content passed review).
   fetched text.
 - Saturation: fast-track exemption; no reciprocal proposed.
 - QC: validator ok.
+
+## Digital well-being
+
+- Track: fast-track, current degree 5 (1 kernel + 4 principles). Start
+  transition recorded before research.
+- Opened: https://pmc.ncbi.nlm.nih.gov/articles/PMC13341170/ (Calvin, Chen &
+  Selkie 2025, Computers in Human Behavior Reports), fetched 2026-10-20.
+- Quotations, copied from the fetched page: the Verduyn et al. (2017, p. 281)
+  passive-use definition fragment ("refers to the monitoring of other
+  people's lives without engaging in direct exchanges with others"); the
+  active/passive model summary sentence (blockquote).
+- The Verduyn et al. 2017 original (Social Issues and Policy Review, Wiley)
+  and Halfmann & Rieger 2019 (JCMC 24(4):165-181, "Permanently on call") were
+  NOT opened; both kept as inherited seed citations without new claims. The
+  fetched article identifies Halfmann & Rieger's strand only via citation
+  lists elsewhere; no claim about its findings was added to the page.
+- Related concepts verified to exist: Social comparison (deg 17), Benign
+  versus malicious envy (deg 9).
+- Limits: the model is stated as the article's summary of the hypothesis,
+  not as settled fact (the fetched article itself reports mixed evidence).
+- Saturation: fast-track exemption; no reciprocal proposed.
+- QC: validator ok.

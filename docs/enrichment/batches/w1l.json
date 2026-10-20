@@ -13,7 +13,8 @@
   "Right association",
   "Death acceptance",
   "Delay plus reappraisal",
-  "Deliberation as rehearsal"
+  "Deliberation as rehearsal",
+  "Digital well-being"
  ],
  "in_progress": null,
  "flagged": {
@@ -25,6 +26,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 12,
- "updated": "2026-10-20T07:16:08+00:00",
+ "updated": "2026-10-20T07:17:35+00:00",
  "band_done": false
 }
