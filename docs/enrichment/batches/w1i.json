@@ -3,20 +3,20 @@
  "done": [
   "Shikantaza, just sitting",
   "Engaged Buddhism",
-  "Open-monitoring meditation",
   "Self-regulation",
   "Self-transcendent experiences",
   "Sense of community",
   "Non-dual awareness",
   "Focused-attention meditation"
  ],
- "in_progress": null,
+ "in_progress": "Open-monitoring meditation",
  "flagged": {
   "Non-dual awareness": "RESOLVED milestone-five QC: exact definition blockquote added, NDA expanded; source and preservation checks pass",
-  "Focused-attention meditation": "RESOLVED milestone-five QC: sentence-case subheading added; source and preservation pass"
+  "Focused-attention meditation": "RESOLVED milestone-five QC: sentence-case subheading added; source and preservation pass",
+  "Open-monitoring meditation": "Reopened for QC: Milestone advisor requests retained sentence-case subheading"
  },
  "missing_concepts": [],
  "sources_checked": 9,
- "updated": "2026-10-20T06:30:20+00:00",
+ "updated": "2026-10-20T06:30:23+00:00",
  "band_done": false
 }
