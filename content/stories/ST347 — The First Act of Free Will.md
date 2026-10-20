@@ -7,7 +7,7 @@ file: "ST347 — The First Act of Free Will"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
 legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S03.04 — III.4 Self and Mind as Process", "parent": ""}
 ---
-*Cambridge, Massachusetts, 1870 · William James's diary*
+Cambridge, Massachusetts, 1870 · William James's diary
 
 William James spent years in a state of physical suffering and depression that was to last nearly six years. A sense of moral impotence plagued him; while suicide seldom seemed like a live option, thoughts of taking his life never wholly departed from his mind ([The Harvard Crimson](https://www.thecrimson.com/article/1963/5/8/cosmopolite-cosmologist-the-life-of-william/)). One night, walking into a darkened room, he had a sudden hallucinatory vision: a young man he had once seen, a patient at a mental hospital, black-haired, with "greenish" skin, sitting on a bench against the wall, his legs pressed up against his chest, moving only his eyes. "That shape am I," James wrote. After it, "the universe changed entirely," and he woke each morning with dread in his stomach ([The Atlantic](https://www.theatlantic.com/magazine/archive/1996/05/the-nitrous-oxide-philosopher/376581/)).
 

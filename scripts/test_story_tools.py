@@ -133,6 +133,11 @@ def main():
     errs, _ = run_checker(star_prov, context='published')
     check('star-emphasis provenance accepted (published)',
           not [e for e in errs if 'provenance' in e], str(errs))
+    plain_prov = PUBLISHED_OK.replace('_A parable, test tradition · ', 'A parable, test tradition · ').replace(
+        '](https://example.org/test)_', '](https://example.org/test)')
+    errs, _ = run_checker(plain_prov, context='published')
+    check('plain-text provenance accepted (published)',
+          not [e for e in errs if 'provenance' in e], str(errs))
     errs, _ = run_checker(PUBLISHED_OK + '\n## QC notes\n- x\n', context='published')
     check('published-context QC-notes leak caught', any('QC notes' in e for e in errs), str(errs))
     errs, _ = run_checker(PUBLISHED_OK.replace('_A parable, test tradition · ', 'Plain first line. '), context='published')

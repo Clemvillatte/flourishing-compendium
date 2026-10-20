@@ -46,11 +46,17 @@ def check(path, context='published'):
         if status and status.group(1) not in ('researching', 'drafting', 'qc_pending', 'ready', 'returned'):
             errs.append(f'unknown draft status: {status.group(1)!r}')
 
-    # --- provenance line (italic first line of the body) --------------------
+    # --- provenance line (first line of the body; emphasis optional) --------
     # accept both emphasis forms used in the repo: _..._ and *...*
     first = next((l for l in body.split('\n') if l.strip()), '')
-    if context == 'published' and not re.match(r'^(_[^_]+_|\*[^*]+\*)\s*$', first.strip()):
-        errs.append('first body line must be the italic provenance line (_genre, era, source_)')
+    if context == 'published':
+        fs = first.strip()
+        # emphasis (_..._ / *...*) OR plain text carrying the era · source
+        # pattern; the line itself remains required (supervisor amendment
+        # 2026-10-20: active no-italics instruction makes emphasis optional)
+        ok = re.match(r'^(_[^_]+_|\*[^*]+\*)\s*$', fs) or re.match(r'^[^·\n]{2,120}·\s*\S', fs)
+        if not ok:
+            errs.append('first body line must be the provenance line (era · source; emphasis optional)')
 
     # --- prose bar (shared with the enrichment validator) ------------------
     pt = prose_text(body)

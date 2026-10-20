@@ -429,11 +429,16 @@ previously pushed only by ad-hoc git add) — KEPT, verified on origin/main.
   Varieties lectures VI-VIII): all three blockquotes matched complete
   (including the rope-and-gun blockquote end-to-end), all inline
   quotations matched complete, both ellipsis boundaries were opened and
-  checked (BQ2 omits the fairy-tongue sentence of the same passage; BQ3
-  omits the labouring people's stated meaning — both honest bridges), and
-  the fable details (dragon, mice, honey on the leaves) and the four-ways
-  list were verified against Part 4 / Part 7. Result: complete audit
-  clean; the earlier "20/20" claim is superseded by this record.
+  checked (BQ2's full omitted interval is a four-sentence passage on
+  wishes and desires — including a fairy-offer sentence, NOT the fable's
+  honey/tongue as first recorded; BQ3's full omitted interval is the
+  labouring people's stated meaning of life in their own terms — both
+  honest bridges within the same passages), the James recovery span was
+  verified complete including its opening ("was nothing new. It was my
+  ancient juvenile force of faith..."), and the fable details (dragon,
+  mice, honey on the leaves) and the four-ways list were verified
+  against Part 4 / Part 7. Result: complete audit clean; the earlier
+  "20/20" and "fairy-tongue" claims are superseded by this record.
 - story_check --context published: 0 errors. Structural validation:
   ST348 flags only the known new-file no-baseline condition (real check
   post-commit); structure file shows the two documented false positives;
