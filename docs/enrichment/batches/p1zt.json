@@ -54,8 +54,14 @@
   "M004": "New body and quotation source-checked, validator-clean and advisor-reviewed; inherited psychology/philosophy parallel attributions not independently certified by takeover. See sources/p1zt/M004.md and drafts/p1zt/TAKEOVER-728a1014.md. Scope flag, not a new-body failure.",
   "M005": "New body and quotation source-checked, validator-clean and advisor-reviewed; inherited psychology/philosophy parallel attributions not independently certified by takeover. See sources/p1zt/M005.md and drafts/p1zt/TAKEOVER-728a1014.md. Scope flag, not a new-body failure."
  },
- "missing_concepts": [],
+ "missing_concepts": [
+  {
+   "title": "Maya daykeeping",
+   "seed": "Maya Daykeeping ch.1, https://upcolorado.com/excerpts/9780870819969.pdf, pp.2,7-10",
+   "why": "Distinct cultural calendar/divinatory practice central to M005; not equivalent to secular situational awareness. Existing concept lookup found no page."
+  }
+ ],
  "sources_checked": 17,
- "updated": "2026-10-20T13:11:43+00:00",
+ "updated": "2026-10-20T13:11:46+00:00",
  "band_done": false
 }
