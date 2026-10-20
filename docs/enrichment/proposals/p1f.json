@@ -1,47 +1,52 @@
 {
-  "inline": [],
-  "reciprocal": [
-    {
-      "into": "Buddhist emptiness of inherent nature",
-      "link": "B122 — Use two truths (conventional and ultimate)",
-      "why": "the page quotes the MMK 24.8 verse that B122 reads",
-      "notes": "the concept page quotes the MMK 24.8 two-truths verse (B122's source) but cites no B122; B122 is the compendium's principle on that verse"
-    },
-    {
-      "into": "B013 — Trust that the mind is trainable",
-      "link": "AT025",
-      "why": "B013 discusses staged Buddhist training including concentration; AT025 reports attention-related outcomes from specific meditation programmes."
-    },
-    {
-      "into": "AT073 — Recognise attentional changes with ageing — some decline, some stability",
-      "link": "AT031",
-      "why": "AT073 notes that attentional stamina and processing speed change with age; AT031 reports how sustained full-attention practice duration is built up and limited (Ericsson et al. 1993)."
-    },
-    {
-      "into": "AT005 — Know that attention and awareness are not the same — you can be aware without attending",
-      "link": "AT034",
-      "why": "AT005 distinguishes focused attention from broad awareness; AT034 reports the meta-awareness process that periodically notes what the mind is doing."
-    },
-    {
-      "into": "AT048 — Learn open monitoring meditation — awareness without narrow focus",
-      "link": "AT034",
-      "why": "AT048 presents open monitoring as training meta-awareness; AT034 supplies the theoretical account of what meta-awareness is and does (Schooler et al. 2011)."
-    },
-    {
-      "into": "AT053 — Learn to notice and name attentional states — labelling improves control",
-      "link": "AT034",
-      "why": "AT053 works on noticing and labelling attentional states; AT034 reports the account in which noticing mind-wandering lapses enables re-engagement of the primary task."
-    },
-    {
-      "into": "B056 — Note lightly (noting)",
-      "link": "AT034",
-      "why": "B056 presents the Mahasi noting practice (\"wandering, wandering\") with its return to the primary object; AT034 reports the theoretical account of that noticing-and-returning function."
-    },
-    {
-      "into": "AT025 — Build concentration capacity through practice — attention is like a muscle",
-      "link": "AT034",
-      "why": "AT025 trains the concentration capacity; AT034 reports the noticing process that detects the lapses and re-engages the task that capacity serves."
-    }
-  ],
-  "notes": "p1f proposals (genuineflourishing33). Reciprocals only; targets verified by reading the pages. Two truths->B122 removed after explicit check (the concept already cites B122). All are editorial proposals for supervisor review; stub targets do not develop arguments. Buddhist emptiness of inherent nature->B122 added after focused mention search (page quotes the MMK 24.8 verse, no B122 link). Meaning->P183 added after Pragmatism milestone saturation check (candidate read: page's philosophy parallels empty). Everyday creative activities inspected and no proposal warranted (its subject is creative activity and well-being; creative hopelessness appears only via a kernel list). | deferred at this run (target band busy): 1 recip, 0 inline | deferred at this run (target band busy): 1 recip, 0 inline"
+ "inline": [],
+ "reciprocal": [
+  {
+   "into": "Buddhist emptiness of inherent nature",
+   "link": "B122 — Use two truths (conventional and ultimate)",
+   "why": "the page quotes the MMK 24.8 verse that B122 reads",
+   "notes": "the concept page quotes the MMK 24.8 two-truths verse (B122's source) but cites no B122; B122 is the compendium's principle on that verse"
+  },
+  {
+   "into": "B013 — Trust that the mind is trainable",
+   "link": "AT025",
+   "why": "B013 discusses staged Buddhist training including concentration; AT025 reports attention-related outcomes from specific meditation programmes."
+  },
+  {
+   "into": "AT073 — Recognise attentional changes with ageing — some decline, some stability",
+   "link": "AT031",
+   "why": "AT073 notes that attentional stamina and processing speed change with age; AT031 reports how sustained full-attention practice duration is built up and limited (Ericsson et al. 1993)."
+  },
+  {
+   "into": "AT005 — Know that attention and awareness are not the same — you can be aware without attending",
+   "link": "AT034",
+   "why": "AT005 distinguishes focused attention from broad awareness; AT034 reports the meta-awareness process that periodically notes what the mind is doing."
+  },
+  {
+   "into": "AT048 — Learn open monitoring meditation — awareness without narrow focus",
+   "link": "AT034",
+   "why": "AT048 presents open monitoring as training meta-awareness; AT034 supplies the theoretical account of what meta-awareness is and does (Schooler et al. 2011)."
+  },
+  {
+   "into": "AT053 — Learn to notice and name attentional states — labelling improves control",
+   "link": "AT034",
+   "why": "AT053 works on noticing and labelling attentional states; AT034 reports the account in which noticing mind-wandering lapses enables re-engagement of the primary task."
+  },
+  {
+   "into": "B056 — Note lightly (noting)",
+   "link": "AT034",
+   "why": "B056 presents the Mahasi noting practice (\"wandering, wandering\") with its return to the primary object; AT034 reports the theoretical account of that noticing-and-returning function."
+  },
+  {
+   "into": "AT025 — Build concentration capacity through practice — attention is like a muscle",
+   "link": "AT034",
+   "why": "AT025 trains the concentration capacity; AT034 reports the noticing process that detects the lapses and re-engages the task that capacity serves."
+  },
+  {
+   "into": "D024 — Guard your senses from overload",
+   "link": "AT060",
+   "why": "D024's psychology parallels cite the same Ward et al. brain drain study AT060 quotes; AT060 carries the smartphone-specific findings."
+  }
+ ],
+ "notes": "p1f proposals (genuineflourishing33). Reciprocals only; targets verified by reading the pages. Two truths->B122 removed after explicit check (the concept already cites B122). All are editorial proposals for supervisor review; stub targets do not develop arguments. Buddhist emptiness of inherent nature->B122 added after focused mention search (page quotes the MMK 24.8 verse, no B122 link). Meaning->P183 added after Pragmatism milestone saturation check (candidate read: page's philosophy parallels empty). Everyday creative activities inspected and no proposal warranted (its subject is creative activity and well-being; creative hopelessness appears only via a kernel list). | deferred at this run (target band busy): 1 recip, 0 inline | deferred at this run (target band busy): 1 recip, 0 inline"
 }

@@ -12,11 +12,25 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AT — Attentio
 ---
 > **Principle 60** — Learn to manage smartphone attention: the device is designed to capture you
 
-Smartphones are specifically engineered to capture attention. The mere presence of a smartphone, even when off and face-down, reduces available cognitive capacity (the "brain drain" effect, contested). Managing smartphone attention is a core modern attentional skill.
+The evidence base is Ward and colleagues' 2017 "brain drain" experiments:
 
-**Plain words** The phone isn't neutral furniture — it's engineered to capture you, and it works even when off. Its mere presence splits attention. The move that works isn't discipline; it's distance.
+> In this research, we test the "brain drain" hypothesis that the mere presence of one's own smartphone may occupy limited-capacity cognitive resources, thereby leaving fewer resources available for other tasks and undercutting cognitive performance.
+>
+> (Ward, Duke, Gneezy and Bos, "Brain Drain: The Mere Presence of One's Own Smartphone Reduces Available Cognitive Capacity", Journal of the Association for Consumer Research 2(2), 2017)
 
-*For example:* The phone face-down on the desk still taxes focus — studies show it — but the phone in another room doesn't. Distance is the only notification setting that works.
+In their two experiments, "participants in the 'other room' condition performed better than those in the 'desk' condition", and the costs fell hardest on heavy users: "those who depend most on their devices suffer the most from their salience, and benefit the most from their absence" (Ward et al. 2017). A 2023 meta-analysis of 22 studies reports "a significant overall negative effect of smartphone use and presence": "The pooled effect across all studies was *g* = −0.14, with a 95% confidence interval (CI) of −0.24 to −0.03, at *p* < 0.05"; its conclusion is that there is "a distracting effect of smartphones, even if they are not actively used" (Böttger, Poschik and Zierer, Behavioral Sciences, 2023).
+
+**Plain words**
+The phone does not need to ring or light up to cost you. In these experiments the phone sitting face-down on the desk left measurably less capacity for the task in front of you, and a phone in the bag was no better than one on the desk. The variable that moved the result was the door: another room, another level of performance.
+
+*For example:*
+Imagined: a writing session with the phone face-down beside the keyboard, then the same session with the phone left in the kitchen. The draft is the check on which session went better.
+
+## Sources
+
+- [Ward, Duke, Gneezy and Bos, "Brain Drain: The Mere Presence of One's Own Smartphone Reduces Available Cognitive Capacity", Journal of the Association for Consumer Research 2(2), 2017 (open full text)](https://www.journals.uchicago.edu/doi/full/10.1086/691462) — the brain drain hypothesis and the location-condition results
+- [Böttger, Poschik and Zierer, "Does the Brain Drain Effect Really Exist? A Meta-Analysis", Behavioral Sciences, 2023 (PMC10525686)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10525686/) — pooled effect size and meta-analytic conclusion
+
 ## Psychology parallels
 
 - **Brain drain effect (Ward et al., 2017)**, the mere presence of one's smartphone reduces available cognitive capacity (Ward et al., 2017; Journal of the Association for Consumer Research)
