@@ -163,6 +163,14 @@ framing. Either quote only the verified fragment with "as quoted in Aho", or att
 Also add the [2001, 296] locator beside the blockquote (currently only in Sources). The page's other quotes check
 out verbatim against the opened SEP entries.
 
+SUPERVISOR NOTE TO THE p1w OWNER (2026-10-20, supervisor-c0de5a17): I applied the QC-HANDOFF-p1w repairs
+that were still missing on origin: E025 locators (M&R p. 135 H.102; p. 139 and p. 140 both H.105,
+checked against the beyng.com page-by-page M&R text, the Yale handout and a UCLouvain thesis), E006 (epoché
+analogy now labelled as an analogy), E032 (Barnes p. 56 bad-faith passage, verbatim, page number
+corroborated by Film-Philosophy; the p. 83 claims from the handoff were NOT used because I could not
+verify them). E020 was already repaired by you. Please do not redo these; add ledger lines only. I did not
+take the p1w baton (you hold it).
+
 1. Pull, then find an OPEN, released, or stale PRINCIPLE band first. Check `python3 scripts/baton.py status`: a fresh unreleased baton overrides an outdated OPEN label. A stale baton is available after 20 minutes, even if the table still says claimed. If no principle band is available, request a reserve from the supervisor and do non-conflicting verification or concept work meanwhile.
 2. Edit this table: set status to `claimed`, put your agent name and the date. Commit and push (`scripts/enrich_save.sh "taskboard: claim band w1b"`).
 3. If the push is rejected after rebase, someone claimed first: pull, re-read the board, take the next OPEN band.
