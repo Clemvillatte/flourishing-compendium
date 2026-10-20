@@ -16,10 +16,10 @@ Motivation is not an end in itself; it is a capacity that serves a life. Aristot
 
 > "Now such a thing happiness, above all else, is held to be; for this we choose always for self and never for the sake of something else, but honour, pleasure, reason, and every virtue we choose indeed for themselves... but we choose them also for the sake of happiness, judging that by means of them we shall be happy." (Aristotle, Nicomachean Ethics I.7, trans. W. D. Ross)
 
-The modern version of the point: the goal is not maximal motivation for its own sake but motivation that supports meaning, connection, engagement, and flourishing. This page's application: when motivation becomes compulsive striving or burnout, the question is not how to restore the engine's output but what it is being asked to serve.
+The modern version of the point: the goal is not maximal motivation for its own sake but motivation that supports meaning, connection, engagement, and flourishing. Applied to motivation, this distinction suggests asking what your effort serves, rather than simply how to increase it.
 
 **Plain words**
-Every tool in the kit — drive, discipline, ambition — is chosen for what it gets you, and Aristotle's test is whether anything on the list is being treated as the destination. The tell is the empty calendar under a perfect system: all transmission, no errand. Ask what the engine is for before tuning it further.
+Aristotle's list — honour, pleasure, reason, every virtue — is chosen also for the sake of happiness; the page's application asks the same question of your motivational toolkit. The tell is the empty calendar under a perfect system: all transmission, no errand. Ask what the engine is for before tuning it further.
 
 *For example:* The person optimising every habit, ritual, and routine, while the calendar underneath is empty of things they actually care about.
 
@@ -29,7 +29,6 @@ Every tool in the kit — drive, discipline, ambition — is chosen for what it 
 
 ## Psychology parallels
 
-- **Motivation and well-being**, motivation serves well-being, not the reverse (Ryan & Deci, 2017; Seligman, 2011)
 - **[[Eudaimonia|Eudaimonia as the end]]** (Aristotle, Nicomachean Ethics)
 
 ## Philosophy parallels

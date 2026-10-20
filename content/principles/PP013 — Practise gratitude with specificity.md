@@ -12,14 +12,14 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 ---
 > **Principle 13** — Practise gratitude with specificity
 
-Gratitude, when expressed specifically and sincerely, produces modest but reliable increases in well-being. The original experiments, which used listing tasks (weekly or daily records), reported the effect with its limits stated plainly:
+Emmons and McCullough tested gratitude-listing exercises against comparison writing tasks (hassles, neutral events) in three studies, and reported the results with their limits stated plainly:
 
 > "The gratitude-outlook groups exhibited heightened well-being across several, though not all, of the outcome measures across the 3 studies, relative to the comparison groups. The effect on positive affect appeared to be the most robust finding. Results suggest that a conscious focus on blessings may have emotional and interpersonal benefits." (Emmons & McCullough, "Counting blessings versus burdens", JPSP, 2003, abstract)
 
-The specificity advice is the practical core: not "I am grateful for my friend" but "I am grateful that my friend listened without advising when I was upset." Gratitude that is vague or coerced gives the listing task nothing to work with. The page's suggestion, going beyond what the listing studies show: tell the person directly, and see what that does.
+This page's suggested practice, going beyond what the listing studies tested: write down what happened, who helped, and why it mattered to you; and if you choose to thank the person directly, use that concrete detail.
 
 **Plain words**
-The studies asked people to write down things they were thankful for, next to people writing hassles or neutral events; the thankful groups came out somewhat better on well-being, most reliably on positive mood. The trick the practice runs on is specificity: naming the exact thing someone did lands differently than a general warm glow, both on you and on them. Vague or forced gratitude gives the exercise nothing to hold.
+The studies asked people to write down things they were thankful for, next to people writing hassles or neutral events; the thankful groups came out somewhat better on well-being, most reliably on positive mood. The suggested practice is to make the entries concrete — what happened, who helped, why it mattered — and, if you tell the person, to use that detail.
 
 *For example:* Telling your brother exactly what his phone call meant on the night you were struggling.
 

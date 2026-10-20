@@ -16,12 +16,12 @@ Relatedness is the experience of connection, belonging, and care for and from ot
 
 > "the need for relatedness concerns feeling connected to, and cared about by, important others." (Niemiec, Ryan & Deci, "The Path Taken", Journal of Research in Personality, 2009, author manuscript p. 3)
 
-It is not about the quantity of relationships but about quality: the sense that one matters to others and that others matter to oneself. In the aspirations research, close relationships and community involvement are among the intrinsic goals whose attainment related positively to need satisfaction and psychological health (the same manuscript, p. 17). Relatedness satisfaction predicts well-being; its thwarting predicts loneliness, depression, and physical illness.
+In the aspirations research, close relationships and community involvement are among the intrinsic goals whose attainment related positively to need satisfaction and psychological health (the same manuscript, p. 17). For this page's exercise, the question is not how many relationships you count but whether you feel connected to and cared about by someone.
 
 **Plain words**
-One friend who truly knows you can outweigh a hundred acquaintances, because relatedness is about being connected and cared about by particular people, not about the size of the list. The question the need asks is not "do I know enough people?" but "does someone know how it is actually going for me?"
+The need is about feeling connected to and cared about by particular others. The question it asks is not "do I know enough people?" but "does someone know how it is actually going for me?" — and if the answer is no, that is the gap the practice works on.
 
-*For example:* One friend who truly knows you can feel more connecting than a hundred acquaintances.
+*For example:* Imagine telling a friend about a hard week and having them ask, before anything else, how you are actually doing — that exchange, not the number of people in the room, is what the need is about.
 
 ## Sources
 
@@ -34,7 +34,6 @@ One friend who truly knows you can outweigh a hundred acquaintances, because rel
 ## Psychology parallels
 
 - [[The need to belong|The need to belong]] (Baumeister and Leary, 1995)
--  (Holt-Lunstad et al., 2010)
 
 ## Philosophy parallels
 

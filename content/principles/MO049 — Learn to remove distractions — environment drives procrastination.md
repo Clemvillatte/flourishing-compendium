@@ -30,9 +30,6 @@ The phone on the desk is not neutral. Ignoring it is work: the ignoring runs in 
 
 ## Psychology parallels
 
-- **Distraction and procrastination**, environmental distractions trigger procrastination (Pychyl, 2013; Steel, 2007)
-- **Choice architecture**, designing environment to reduce distraction (Thaler & Sunstein, 2008; Milkman et al., 2011)
-
 ## Philosophy parallels
 
 - **[[Guarding the senses|Guarding the senses]]** (Buddhism, Dhammapada)
