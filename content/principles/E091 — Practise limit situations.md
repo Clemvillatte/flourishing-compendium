@@ -12,13 +12,26 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 483** — Practise limit situations
 
-Recognise the limit situations (Grenzsituationen) of human existence: death, suffering, guilt, struggle, and chance. These are not problems to be solved but boundaries that define what it means to be human. When you encounter a limit situation, do not flee from it. Let it reveal to you the depth of your existence.
+Jaspers' term is Grenzsituationen, usually translated "boundary situations" or "limit situations." A scholarly study of the concept (Gutschmidt 2025) summarises his list: the boundary situations of life and action are death, suffering, struggle, and guilt. Jaspers' own sentence for what makes a situation one of these:
 
-(Jaspers, 1919/1971, Psychology of Worldviews; Jaspers, 1932/1971, Philosophy, vol. 2; Jaspers, 1948/1971, "On the Concept of the Axial Age," in The Origin and Goal of History.)
+> A situation turns into a boundary situation when it awakens the subject to existence by radically shattering its being. (Jaspers, Philosophy, vol. 1, p. 56)
 
-**Plain words** Limit situations — death, suffering, guilt, struggle, chance — are not problems to be solved but boundaries that define the human. When you encounter one, don't flee it. Let it reveal what you are: the wall is the instrument.
+His image for the encounter:
 
-*For example:* The family at the graveside — nothing about the loss is solvable, and everyone who tried to "fix" it left empty-handed. The ones who stayed present at the wall, without tools, came away knowing something they couldn't have learned elsewhere.
+> a wall that we bump up against, against which we founder. (Jaspers, Philosophy, vol. 2, p. 203)
+
+Both quotations are quoted secondhand, from the study just named, which gives the volume and page of each; the Philosophy translation is available in the open archives only as a library loan.
+
+(Jaspers, 1932/1970, Philosophy, vols. 1-2, trans. E.B. Ashton; quotations via Gutschmidt 2025.)
+
+**Plain words**
+Some situations do not respond to effort. Jaspers' examples are death, suffering, struggle, and guilt. His image is a wall: you come up against it and cannot get through or around. The compendium's exercise is to notice when you are treating one of these as a fixable problem, and to ask what the situation shows about existence.
+
+*For example:* Someone caring for a dying parent keeps trying solutions: new doctors, new schedules, new arrangements. At some point the situation stops responding to solutions and becomes a wall. The exercise is to notice when that shift happens.
+
+## Sources
+
+- [Gutschmidt, "Existential boundaries: Jaspers on the interminable struggle with our finitude," in Existential Elucidation: Jaspers, Boundary Situations, and Spiritual Care (De Gruyter 2025), open access via Konstanz repository](https://kops.uni-konstanz.de/server/api/core/bitstreams/b720b8a9-3306-4118-901f-87ba7d5c0056/content) — quotes Jaspers' Philosophy vols. 1-2 with page locators: "radically shattering its being" (PhI: 56); "a wall that we bump up against, against which we founder" (PhII: 203)
 ## Stories
 
 - [[ST289 — Jaspers's Shipwreck|289. Jaspers's Shipwreck]]
