@@ -24,6 +24,7 @@ Contemporary virtue ethics has two instigating documents: Anscombe's "Modern Mor
 ## Related concepts
 
 
+
 - [[Arete]] — the Greek root: excellence of any thing at its work
 - [[Habituation]] — the acquisition route: become just by doing just acts
 - [[Ren]] — the Confucian counterpart: humaneness grown in relation
@@ -34,6 +35,7 @@ Contemporary virtue ethics has two instigating documents: Anscombe's "Modern Mor
 - [[Situationism]] — the empirical challenge that situations trump traits
 - [[Eudaimonia]] — the flourishing virtue is the road to
 - [[Moral identity]] — the traits the moral identity organizes around
+- [[Temperance]] — one of the four cardinal virtues: the right ordering of pleasure and appetite
 ## Sources
 
 - [IEP, Aristotle's Ethics](https://iep.utm.edu/aris-eth/) — hexis, mean (1107a), habituation (1103a-b), phronēsis (1144a), eudaimonia; original seed citation

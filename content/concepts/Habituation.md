@@ -28,10 +28,11 @@ The two senses are different things that share a name. Aristotle's habituation i
 
 ## Related concepts
 
+
 - [[Virtue]] — the acquisition route: become just by doing just acts
 - [[Graded exposure / systematic desensitisation (Wolpe)]] — inherited comparison, not verified here: the seed links the two
 - [[Boulesis (rational desire)]] — A007's route for training desire to follow reason
-
+- [[Temperance]] — one of the four cardinal virtues: the right ordering of pleasure and appetite
 ## Sources
 
 - [Aristotle, Nicomachean Ethics Book II (W. D. Ross translation), Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html) — the habituation passage, verbatim.

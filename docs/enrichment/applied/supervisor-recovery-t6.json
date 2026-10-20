@@ -1,0 +1,42 @@
+{
+ "batch": "supervisor-recovery-t6",
+ "revision": 1,
+ "reciprocal": [
+  {
+   "into": "content/concepts/Akrasia.md",
+   "link": "Temperance",
+   "why": "one of the four cardinal virtues: the right ordering of pleasure and appetite"
+  },
+  {
+   "into": "content/concepts/Virtue.md",
+   "link": "Temperance",
+   "why": "one of the four cardinal virtues: the right ordering of pleasure and appetite"
+  },
+  {
+   "into": "content/concepts/The dichotomy of control.md",
+   "link": "Temperance",
+   "why": "one of the four cardinal virtues: the right ordering of pleasure and appetite"
+  },
+  {
+   "into": "content/concepts/Habituation.md",
+   "link": "Temperance",
+   "why": "one of the four cardinal virtues: the right ordering of pleasure and appetite"
+  },
+  {
+   "into": "content/concepts/Habit.md",
+   "link": "Temperance",
+   "why": "one of the four cardinal virtues: the right ordering of pleasure and appetite"
+  },
+  {
+   "into": "content/concepts/Ego depletion.md",
+   "link": "Temperance",
+   "why": "one of the four cardinal virtues: the right ordering of pleasure and appetite"
+  },
+  {
+   "into": "content/concepts/Wu wei.md",
+   "link": "Temperance",
+   "why": "one of the four cardinal virtues: the right ordering of pleasure and appetite"
+  }
+ ],
+ "notes": "w1b legacy recovery tranche 6 (Temperance family). Original claim-bearing clauses unevidenced in the w1b ledger; neutral clause grounded in the concept page's own sourced opening (Plato Republic IV.430e; Aristotle NE III.10-12). Desire already linked (skipped). - supervisor-3ef4f549, 2026-10-20"
+}
