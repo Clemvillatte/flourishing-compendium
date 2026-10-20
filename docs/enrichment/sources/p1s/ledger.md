@@ -233,3 +233,20 @@ source; anything not opened is recorded as inherited and unverified.
   TNH paraphrase made conditional and attributed to the excerpt; plain words
   replaced with the compendium exercise; aphoristic example replaced; TNH
   blockquote already cited to the opened excerpt reproduction.
+
+### B017 — Practice heedfulness (appamada) (2026-10-20)
+- Opened: DN 16 (Vajira and Story, accesstoinsight) and Dhammapada ch. 2
+  Appamadavagga verses 21-23 (Buddharakkhita, accesstoinsight dhp.02). Note:
+  the seed's "Dhammapada 21-23" is chapter 2 (Heedfulness), not chapter 1;
+  the Dhammapada 21 blockquote verified verbatim against the fetched page.
+  DN 16 final exhortation verified verbatim in the opened Vajira/Story text
+  ("So, bhikkhus, I exhort you: All compounded things are subject to vanish.
+  Strive with earnestness."); the seed's "strive on with diligence and care"
+  wording is a different translation's rendering, replaced by the opened one.
+- Seed's "What you do not attend to, you lose" removed as unsupported in the
+  opened texts; replaced with the compendium's labelled application grounded
+  in "compounded things are subject to vanish". Garden example kept in
+  imagined form. Roberts 2007 claim tail trimmed to a bare attribution;
+  Hadot/Foucault/Lally inherited entries left as found.
+- Saturation: no new reciprocals; Habit maintenance already the linked
+  target.

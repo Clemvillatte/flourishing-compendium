@@ -12,17 +12,25 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 17** — Practice heedfulness (appamada)
 
-The Buddha's final instruction was not a doctrine but an exhortation: practice with diligence and care: strive on. What you do not attend to, you lose.
+DN 16 records the Buddha's final exhortation to the monks: all compounded things are subject to vanish, so strive with earnestness. (DN 16.) The Dhammapada gives the same word, appamada, its standing: heedfulness is the path to the Deathless, heedlessness the path to death, and the heedless are as if dead already. (Dhammapada 21-22.)
 
-(Mahaparinibbana Sutta, DN 16; Dhammapada 21-23.)
+> "Heedfulness is the path to the Deathless. Heedlessness is the path to death. The heedful die not. The heedless are as if dead already." (Dhammapada 21, [Buddharakkhita](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.02.budd.html))
 
-**Plain words** The Buddha's final instruction wasn't a doctrine but an exhortation: strive on with diligence and care. What you do not attend to, you lose. Heedfulness isn't anxiety — it's the opposite: caring about your one life enough to show up for it.
+The compendium applies the exhortation to what you are building: because compounded things come apart on their own, what you leave unattended goes, and the practice is the visiting.
 
-*For example:* The garden that thrives is the one visited daily — nothing dramatic happens on any visit, and everything happens because of them.
+**Plain words**
+Heedfulness is not vigilance or anxiety. The word points at showing up for what you care about on ordinary days, when nothing dramatic is happening. Ask what in your life is currently coming apart from simple absence of visits.
+
+*For example:* Imagine tending a garden in short daily visits rather than one heroic afternoon a month. No single visit does much, and everything depends on them.
+
+## Sources
+
+- [DN 16, Mahaparinibbana Sutta, Vajira and Story translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html) — the final exhortation
+- [Dhammapada, Buddharakkhita translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.02.budd.html) — verses 21-23, the Heedfulness chapter
 
 ## Psychology parallels
 
-- **Conscientiousness as the strongest personality predictor of long-term outcomes** (Roberts et al., 2007)
+- **Conscientiousness** (Roberts et al., 2007)
 - **[[Habit maintenance|Habit maintenance]]** (Lally et al., 2010)
 
 ## Philosophy parallels
