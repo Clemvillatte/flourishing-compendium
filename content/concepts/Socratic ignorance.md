@@ -7,20 +7,35 @@ file: "Socratic ignorance"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-S"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-“Socratic ignorance” — Plato, Apology; Socrates, in Plato, Apology.
+Socratic ignorance is the profession Socrates makes at his trial: he does not know the things that matter most, and unlike others he does not think he does. The claim comes with a story. His friend Chaerephon asked the Delphic oracle whether anyone was wiser than Socrates, and the Pythian prophetess answered that there was no man wiser. Socrates, expecting nothing of the sort, set out to test the god by questioning those with a reputation for wisdom, and the testing became his life's work.
+
+His conclusion from the first examination, in Jowett's translation:
+
+> "Well, although I do not suppose that either of us knows anything really beautiful and good, I am better off than he is - for he knows nothing, and thinks that he knows. I neither know nor think that I know. In this latter particular, then, I seem to have slightly the advantage of him." (Plato, Apology 21d, [Jowett translation, MIT Classics](https://classics.mit.edu/Plato/apology.html))
+
+### What the testing found
+
+The pattern held across the city. The politicians thought themselves wise and were not, and each examination ended the same way, with an enemy made. The poets wrote fine things but could not explain their own lines, and concluded they must be wise in everything else. The artisans did know their trades, and that was the trouble: "because they were good workmen they thought that they also knew all sorts of high matters". Socrates read the oracle's meaning in all this: God only is wise, the wisdom of men is little or nothing, and the wisest is he who knows his wisdom is in truth worth nothing. The questioning gave him enemies of the worst and most dangerous kind, and by his own account the calumnies that reached court began there.
+
+### In the compendium
+
+The compendium reads the state across its traditions: the Buddhist don't-know mind and beginner's mind (B140, B048), the Pyrrhonian withholding of assent (S048), the Daoist empty cup and rest in unknowing (D045, D100), the psychological value of "I don't know" (CO071), and the finding that incompetence is invisible to itself (CO025). Its principles treat expertise as real but fallible (SO041) and humility as accurate self-assessment (PP043).
 
 ## Related concepts
 
 - [[Docta ignorantia]] — the Renaissance Christian reception that named the state a form of knowledge
+- [[Beginner's mind]] — the shoshin counterpart, both cited from B048
 
 ## Sources
 
-- Plato, Apology
+- [Plato, Apology, Jowett translation, MIT Classics](https://classics.mit.edu/Plato/apology.html) — the blockquote and the politicians, poets, artisans and enemies passages.
+- Plato, Apology — the seed's citation; the Greek text was not opened this round.
 
-- Socrates, in Plato, Apology
+## Cited in psychology parallels
 
-[[SO022 — Use cultural humility as a practice]]
-[[SO041 — Treat expertise as real but fallible]]
+- [[SO022 — Use cultural humility as a practice]]
+- [[SO041 — Treat expertise as real but fallible]]
+
 ## Cited in philosophy parallels
 
 - [[D023 — Unlearn daily]]
