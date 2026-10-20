@@ -11,7 +11,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 ## The command
 
-In the preface to the first edition of Leaves of Grass, Whitman gives the reader one long instruction, and it ends with a command to re-examine everything received.
+In the preface to the first edition of Leaves of Grass, Whitman gives the reader one long instruction, and it includes a command to re-examine everything received.
 
 > “This is what you shall do: Love the earth and sun and the animals, despise riches, give alms to every one that asks, stand up for the stupid and crazy, devote your income and labor to others, hate tyrants, argue not concerning God, have patience and indulgence toward the people, take off your hat to nothing known or unknown or to any man or number of men, go freely with powerful uneducated persons and with the young and with the mothers of families, read these leaves in the open air every season of every year of your life, re examine all you have been told at school or church or in any book, dismiss whatever insults your own soul, and your very flesh shall be a great poem and have the richest fluency not only in its words but in the silent lines of its lips and face and between the lashes of your eyes and in every motion and joint of your body.”
 >
@@ -23,7 +23,7 @@ Whitman tells readers to reconsider what they have learned at school, at church,
 
 ## Sources
 
-- Walt Whitman, Preface to Leaves of Grass, 1855 first edition, opened at [Poets.org](https://poets.org/text/preface-leaves-grass); the Walt Whitman Archive's [1855 variorum](https://whitmanarchive.org/published-writings/leaves-of-grass/1855-variorum/main.html) is the scholarly edition of the same text (the 1855 printing has "re examine" without a hyphen)
+- Walt Whitman, Preface to Leaves of Grass, 1855 first edition, opened at [Poets.org](https://poets.org/text/preface-leaves-grass) (the 1855 text prints "re examine" without a hyphen)
 
 
 [[Y131 — Practice the same principle at every scale]]
