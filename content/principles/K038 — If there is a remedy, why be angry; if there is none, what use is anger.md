@@ -12,13 +12,26 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 38** — If there is a remedy, why be angry; if there is none, what use is anger?
 
-Shantideva's most quoted couplet, and the entire chapter in miniature: suffering divides into two classes, the actionable and the unactionable, and anger belongs to neither. Against the actionable, anger wastes the energy the action needs; against the unactionable, anger adds a second suffering to the first. The instruction is a sorting discipline. Practically, at the next flare of anger, ask only one question: "is there an action here, yes or no?" and route the energy accordingly.
+> If there's a remedy when trouble strikes,
+> What reason is there for dejection?
+> And if there is no help for it,
+> What use is there in being glum?
 
-(Shantideva, Bodhicharyavatara, ch. 6.)
+(Shantideva, Bodhicharyavatara 6.10, trans. Padmakara Translation Group, The Way of the Bodhisattva, Shambhala 2006, p. 78, as given on [Bodhicitta, Tsadra Foundation](https://bodhicitta.tsadra.org/index.php/Explore/Cultivating_Patience). In Stephen Batchelor's 1979 translation: "Why be unhappy about something / If it can be remedied? / And what is the use of being unhappy about something / If it cannot be remedied?" ([Tricycle](https://tricycle.org/magazine/shantideva-patience/)).)
 
-**Plain words** If there's a remedy, why be angry? If there's none, what use is anger? Suffering is either actionable or not, and anger belongs to neither: in the first case it wastes the energy the fix needs; in the second it adds a second pain to the first. At the next flare, ask just that.
+The verses just before it set the context. Anger finds "its fuel" in discontent, and of dejection the Padmakara version says: "Dejection never brings me what I want; / My virtue will be warped and marred by it" (6.9, quoted in [Tibetan Buddhism Center for World Peace](https://www.tbcwp.org/uploads/1/2/8/2/12826485/5-wotb_chap-6.pdf)).
 
-*For example:* Stuck in traffic with nothing to do, anger only adds to the hour. Stuck in a billing dispute, anger loses you the call.
+The verse is about dejection, and the commentaries extend it to anger because the chapter is about patience. The two-way sorting below is a reading of the verse, and Shantideva's own words are the ones quoted above.
+
+**Plain words** Sort the trouble into two bins. If you can do something, do it, because being upset adds nothing to the doing. If you cannot, being upset still changes nothing. Ask at the next flare of anger whether there is an action here.
+
+*For example:* Stuck in traffic with nothing to be done, the anger only lengthens the hour. In a billing dispute, the useful move is the next phone call.
+
+## Sources
+
+- [Bodhicitta (Tsadra Foundation), "Cultivating Patience", verse 6.10 in the Padmakara translation, p. 78](https://bodhicitta.tsadra.org/index.php/Explore/Cultivating_Patience) — the verse as quoted
+- [Shantideva, "Patience", trans. S. Batchelor (1979), in Tricycle](https://tricycle.org/magazine/shantideva-patience/) — the second translation
+- [Tibetan Buddhism Center for World Peace, Chapter 6 "Patience" (Padmakara translation, verses 7-10)](https://www.tbcwp.org/uploads/1/2/8/2/12826485/5-wotb_chap-6.pdf) — verses 6.7 and 6.9
 
 ## Psychology parallels
 
