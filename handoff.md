@@ -313,3 +313,32 @@ Status: 25/30 done (20 inherited + AF015, AF020, AF022, AF024, AF031 rewritten b
 - Three supervisor flags outstanding (title claims not established by opened sources): AF015 "fear its absence", AF020 "different systems", AF031 "timing matters more than intensity".
 - Remaining items untouched: AF037, AF041, AF052, AF053, AF057 (ranks in batches/p1zq.json). Check docs/enrichment/plain-words-replicates.md before rewriting each.
 - Batons/p1zq released; band NOT finished (do not run finish — 5 items remain). Take the baton, continue per PROTOCOL-PRINCIPLES.md, and submit the next advisor QC at the items-26-30 milestone.
+
+## p1zq wrap-up (2026-10-21, worker-p1zq-d1c4f2a9 — session ending)
+
+Status: 30/30 processed. Took the released band at 25/30 and completed items 26-30 (AF037,
+AF041, AF052, AF053, AF057), each with a verbatim quote from an opened source and per-item
+ledgers under docs/enrichment/sources/p1zq/. Milestone QC (items 26-30): round 1 FAIL on the
+four new items (reconstructed Tangney citation, invented scispace /papers/ URL, categorical
+and clinical overreach, unopened refs), all repaired per the advisor's exact edits; raw
+direct-source verification then completed (curl of both PMC pages; published Stroebe copy at
+wendyvanmieghem.com certifying the p. 215 locator; Tangney Lewis sentence matched after
+markup-strip). Advisor round 3: SCOPED PASS for the five repaired passages; NOT a
+certification of inherited material or the full band. The predecessor's items-21-25 milestone
+hold and title flags (AF015/AF020/AF031) remain standing.
+
+SUPERVISOR DISPOSITIONS REQUESTED (state flags recorded, taskboard note added):
+- AF037: title's broad over-regulation claim not established by the opened Levitt 2004
+  abstract (body is scoped; title decision needed).
+- AF057: protected alias [[Boredom|Boredom as a signal of meaninglessness or insufficient
+  challenge]] asserts a claim the opened Eastwood 2012 abstract does not establish; alias
+  change request.
+- Proposals p1zq.json revision 4: six reciprocals total (two inherited AF015 rows + four new:
+  Emotion regulation and Acceptance -> AF037, Distress tolerance (DBT) -> AF041, Grief's
+  oscillation model -> AF052) pending integration when bands are free.
+
+Band state: 30/30 done, band_done left FALSE deliberately (inherited holds + supervisor
+dispositions pending). Do NOT run finish. Batons/p1zq RELEASED at this checkpoint. Next
+worker or supervisor: dispositions above, then integrate the proposals. If a new worker
+takes the band, there are no remaining manifest items — the work is verification and
+disposition only.

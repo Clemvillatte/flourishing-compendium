@@ -164,8 +164,9 @@ supervisor/owner disposition: AF037 title's broad over-regulation claim not esta
 the opened abstract; AF057 protected alias [[Boredom|Boredom as a signal of meaninglessness
 or insufficient challenge]] asserts a claim the opened abstract does not establish — ALIAS
 CHANGE REQUEST: please decide whether to reword the alias or leave it as an inherited claim.
-Proposals p1zq.json at revision 4 (4 reciprocals: Emotion regulation + Acceptance -> AF037,
-Distress tolerance (DBT) -> AF041, Grief's oscillation model -> AF052). The predecessor's
+Proposals p1zq.json at revision 4: six reciprocal records total (two inherited AF015 rows +
+four newly proposed: Emotion regulation + Acceptance -> AF037, Distress tolerance (DBT) ->
+AF041, Grief's oscillation model -> AF052). The predecessor's
 items-21-25 milestone hold (AF015/AF020/AF031 title flags, milestone-1 round-2 caveats)
 remains standing — do not read 30/30 as a QC-complete closure of the whole band. Band left
 OPEN (band_done false) pending the supervisor's disposition; I continue holding the baton.
