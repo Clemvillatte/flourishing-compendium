@@ -7,9 +7,18 @@ file: "Karma yoga"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-K"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter K", "parent": ""}
 ---
-The discipline of action taught in the Bhagavad Gītā: act fully, renounce the fruits. It converts work into practice by detaching outcome from effort — "you have a right to action, never to its fruits" (BG 2.47) ([Wikipedia Karma yoga](https://en.wikipedia.org/wiki/Karma_yoga)).
+The discipline of action taught in the Bhagavad Gita: act fully, give up attachment to what the act returns. The verse traditionally numbered 2.47 carries the core teaching ([Wikipedia, Karma yoga](https://en.wikipedia.org/wiki/Karma_yoga)).
+
+> Find full reward
+> Of doing right in right! Let right deeds be
+> Thy motive, not the fruit which comes from them.
+
+(Bhagavad Gita, Book II, [Arnold, The Song Celestial](https://www.gutenberg.org/files/2388/2388-h/2388-h.htm))
+
+Karma yoga does not ask the actor to withdraw from work; the same poem calls doing one's allotted task more excellent than idleness. The discipline concerns the motive. Work because the act is right, and let the results arrive or fail to arrive without changing the effort. Detachment here is not indifference to outcomes: it is the refusal to make the fruit the reason for the work.
 
 ## Sources
+- [The Song Celestial (Bhagavad Gita), Arnold translation, Project Gutenberg](https://www.gutenberg.org/files/2388/2388-h/2388-h.htm) — Book II
 - Wikipedia Karma yoga: https://en.wikipedia.org/wiki/Karma_yoga
 
 ## Cited in philosophy parallels
