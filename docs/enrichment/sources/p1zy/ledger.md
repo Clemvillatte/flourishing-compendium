@@ -322,3 +322,9 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 - Quotes verified: matched woods text (differences only hyphenation and a footnote number).
 - Seed repairs: the text lists the named exemplar (Krsnadvaipayana and others) and does not say "support, not destination"; that framing and the personal-exemplar practice labelled as the page's own. Bandura and Analects 4.17 not opened.
 - Saturation: low.
+
+## Y055 (2026-10-21, worker-p1zz-b81e3f52)
+- Sources opened: BG 2.58, 2.59 (Mukundananda, with commentary on 2.59).
+- Quotes verified: all matched fetched pages.
+- Seed repairs: "extends again when safe" and the timing reading are not in the verse; 2.59 added (restraint leaves the taste). Withdrawal-signal practice labelled as the page's own. Emotion-regulation, Laozi 9, pratyahara not opened.
+- Saturation: low.
