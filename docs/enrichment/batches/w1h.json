@@ -15,7 +15,8 @@
   "Collective intelligence",
   "Common flourishing",
   "Community",
-  "Community psychology theory"
+  "Community psychology theory",
+  "Competence motivation"
  ],
  "in_progress": null,
  "flagged": {
@@ -33,10 +34,11 @@
   "Collective intelligence": "fast-track; evidence: Woolley et al. 2010 Science author-hosted PDF (cs.cmu.edu link); definition p. 686, results and turn-taking sentences p. 687 (locators re-verified); speaking-turn result identified as badge-recorded subset; inherited 'conversation quality' formulation replaced with supported association; Surowiecki citation line kept unverified (not opened)",
   "Common flourishing": "fast-track; evidence: Aristotle Politics Ellis translation, Project Gutenberg eBook 6762; Book I Ch II and Book III Ch IX passages verbatim (locators: chapter numbers); 'common flourishing' framed as summary label, not Aristotle's terminology; Perseus crawler-blocked and MIT Classics URLs failed (edition route recorded here, removed from public Sources); Eudaimonic well-being gloss removed",
   "Community": "fast-track; evidence: SEP Communitarianism by Daniel Bell (plato.stanford.edu, revision 7 June 2024), section 1 locator on both quotes; MacIntyre passage quoted as Bell's description of After Virtue; After Virtue not consulted (noted in Sources); Peirce Collected Papers inherited citation moved into Sources, unverified; document-meta closer and unsupported glosses removed",
-  "Community psychology theory": "fast-track; evidence: APA Community Psychology 4th ed. open sample chapter (apa.org link); definition and person-in-context p. 3, sense of community and Exhibit 1.1 p. 24, empowerment p. 27 (locators re-verified); sense of community and empowerment framed as two of eight core values; Scarpa/Orford inherited seed citation kept in Sources as not opened; advisor QC round 1 repairs complete"
+  "Community psychology theory": "fast-track; evidence: APA Community Psychology 4th ed. open sample chapter (apa.org link); definition and person-in-context p. 3, sense of community and Exhibit 1.1 p. 24, empowerment p. 27 (locators re-verified); sense of community and empowerment framed as two of eight core values; Scarpa/Orford inherited seed citation kept in Sources as not opened; advisor QC round 1 repairs complete",
+  "Competence motivation": "fast-track; evidence: White 1959 Psychological Review open PDF (greatquestion.com.au link), two fetches this session; competence definition p. 297, effectance naming p. 320, deficit-motive p. 321, difference-in-sameness p. 322, selective/directed/persistent p. 323, efficacy passages p. 329, all verbatim with page locators; no advisor QC due (item 16; next QC at item 20)"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T07:00:19+00:00",
+ "updated": "2026-10-20T07:02:41+00:00",
  "band_done": false
 }
