@@ -135,3 +135,18 @@ source; anything not opened is recorded as inherited and unverified.
   Question conventional measures of success"); Burnout and D105 why clauses
   grounded in the opened pages (Burnout defines itself via effort-reward
   imbalance, Siegrist 1996; D105 discusses the wren and mole).
+
+### B009 — Walk the Middle Way (2026-10-20)
+- Opened: SN 56.11 (Thanissaro, accesstoinsight), AN 6.55 Sona Sutta
+  (Thanissaro, accesstoinsight), Dhammapada 273 (Buddharakkhita, accesstoinsight
+  dhp.20). Main blockquote (SN 56.11) verified verbatim against the fetched
+  HTML; the Sona fragment quoted mid-sentence was matched to the source's
+  lowercase start ("In the same way, Sona, over-aroused persistence...");
+  Dhammapada 273 paraphrased in prose ("the best of paths") with the full verse
+  line verified in the fetched chapter.
+- The seed's instrument-tuning image is grounded in the opened Sona Sutta (the
+  vina strings), so it was kept rather than replaced, with the sutta cited.
+- Inherited parallels (Yerkes-Dodson, McEwen, Aristotle, Nagarjuna): unopened;
+  the Yerkes-Dodson claim tail trimmed to a bare attribution.
+- Saturation: no new reciprocals; The doctrine of the mean and The middle path
+  concepts are already the linked targets.

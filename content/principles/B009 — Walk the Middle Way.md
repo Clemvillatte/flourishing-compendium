@@ -12,17 +12,26 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 9** — Walk the Middle Way
 
-Neither indulgence nor self-punishment: the path runs between numbing yourself and warring with yourself. When practice becomes harsh, soften; when it becomes complacent, rouse.
+The first sermon gives the rule: two extremes are not to be indulged in by one who has gone forth, devotion to sensual pleasure and devotion to self-affliction; the Buddha calls both ignoble and unprofitable. (SN 56.11.) The Dhammapada names the eightfold path the best of paths. (Dhammapada 273.)
 
-(SN 56.11; Dhammapada 273.)
+> "Avoiding both of these extremes, the middle way realized by the Tathagata — producing vision, producing knowledge — leads to calm, to direct knowledge, to self-awakening, to Unbinding." (SN 56.11, [Thanissaro](https://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html))
 
-**Plain words** Neither indulgence nor self-punishment — the path runs between numbing yourself and warring with yourself. When practice becomes harsh, soften; when it becomes complacent, rouse. You're tuning an instrument, not whipping a horse.
+The compendium's application to practice borrows the Sona Sutta's image. Speaking to a monk whose persistence had been over-aroused, the Buddha uses the monk's former trade, playing the vina: a string too taut is not in tune, and neither is a string too loose. "over-aroused persistence leads to restlessness, overly slack persistence leads to laziness" (AN 6.55.)
 
-*For example:* The diet that swings between strict restriction and 'whatever' fails; the one built around a reasonable middle quietly works.
+**Plain words**
+Treat your effort like tuning a string. Too tight, the practice becomes a fight you will lose; too loose, it becomes nothing you can hear. Check which direction your week has drifted, and turn the peg a little the other way.
+
+*For example:* Imagine a diet that keeps swinging between strict restriction and "whatever". A middle version is a plan you could still follow in a bad week, and it does not need the bad week to go away.
+
+## Sources
+
+- [SN 56.11, Dhammacakkappavattana Sutta, Thanissaro translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html) — the two extremes and the middle way
+- [AN 6.55, Sona Sutta, Thanissaro translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/an/an06/an06.055.than.html) — the vina strings
+- [Dhammapada, Buddharakkhita translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.20.budd.html) — verse 273
 
 ## Psychology parallels
 
-- **[[Optimal arousal|The inverted-U]]**, performance and well-being peak at moderate arousal (Yerkes-Dodson)
+- **[[Optimal arousal|The inverted-U]]** (Yerkes-Dodson)
 - **Overtraining collapse past recovery thresholds** (McEwen, 1998)
 
 ## Philosophy parallels
