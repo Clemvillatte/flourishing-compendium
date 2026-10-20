@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 176** — Desire to be without desires
 
-Chapter 64 of the Daodejing ends with the sage's difference from other men: he desires what other men do not desire, and does not prize things difficult to get; he learns what other men do not learn, and turns back to what the multitude of men have passed by; thus he helps the natural development of all things, and does not dare to act with an ulterior purpose of his own. Earlier in the chapter, the same rule at the scale of affairs: action should be taken before a thing has made its appearance, order secured before disorder has begun; and people in their conduct of affairs are constantly ruining them when they are on the eve of success — if they were careful at the end as at the beginning, they would not so ruin them.
+Chapter 64 of the Daodejing ends with the sage's difference from other men: he desires what other men do not desire, and does not prize things difficult to get; he learns what other men do not learn, and turns back to what the multitude of men have passed by; thus he helps the natural development of all things, and does not dare to act with an ulterior purpose of his own. Earlier in the chapter, it also says that action should be taken before a thing has made its appearance, order secured before disorder has begun; and that people in their conduct of affairs are constantly ruining them when they are on the eve of success — if they were careful at the end as at the beginning, they would not so ruin them.
 
 (DDJ 64.)
 
@@ -35,7 +35,7 @@ The chapter's sage wants what others do not want, and does not prize what is har
 
 ## Philosophy parallels
 
-- **[[Non-attachment|Non-attachment]]** (Buddhist psychology; the construct is operationalized by Sahdra et al.)
+- **[[Non-attachment|Non-attachment]]** (Buddhist psychology)
 - **[[Preferred indifferents|Preferred indifferents]]** (Epictetus, Enchiridion)
 
 <!-- fc: reflections

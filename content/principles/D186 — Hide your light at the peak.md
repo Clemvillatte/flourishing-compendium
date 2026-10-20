@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 186** — Hide your light at the peak
 
-Chapter 9 of the Daodejing gives the instruction at the top of one's powers: it is better to leave a vessel unfilled than to attempt to carry it when it is full; if you keep feeling a point that has been sharpened, the point cannot long preserve its sharpness; when gold and jade fill the hall, their possessor cannot keep them safe; and when wealth and honours lead to arrogancy, this brings its evil on itself. The chapter's closing rule is the peak itself: when the work is done and one's name is becoming distinguished, to withdraw into obscurity is the way of Heaven. Chapter 4 gives the dimming image: we should blunt our sharp points, attemper our brightness, and bring ourselves into agreement with the obscurity of others. Chapter 36 names the strategist's version, hiding the light of his procedure.
+Chapter 9 of the Daodejing gives the instruction at the top of one's powers: it is better to leave a vessel unfilled than to attempt to carry it when it is full; if you keep feeling a point that has been sharpened, the point cannot long preserve its sharpness; when gold and jade fill the hall, their possessor cannot keep them safe; and when wealth and honours lead to arrogancy, this brings its evil on itself. The chapter's closing rule concerns completed work: when the work is done and one's name is becoming distinguished, to withdraw into obscurity is the way of Heaven. Chapter 4 gives the dimming image: we should blunt our sharp points, attemper our brightness, and bring ourselves into agreement with the obscurity of others. Chapter 36 names the strategist's version, hiding the light of his procedure.
 
 (DDJ 4, 9, 36.)
 
@@ -21,7 +21,7 @@ Chapter 9 of the Daodejing gives the instruction at the top of one's powers: it 
 The compendium's reading: the chapters' withdrawal is from fullness — the filled vessel, the filled hall, the name becoming distinguished. The reading takes the principle's peak to be the vessel's fullness: the chapter's rule is to leave it unfilled, and the withdrawal is the way of Heaven.
 
 **Plain words**
-Chapter 9's images all price fullness: the filled vessel that cannot be carried, the sharpened point that loses its edge under handling, the hall of gold and jade its possessor cannot keep safe. The compendium's exercise: name the project or role currently at its peak, and ask what leaving it unfilled would mean.
+The compendium's exercise: before adding another round to a successful project, ask whether the work is finished and what the extra round is for. Consider stopping rather than assuming that more is better.
 
 *For example:* The compendium's hypothetical: a comedian ends the set early with the room wanting more — the exercise is to ask what the next encore would cost, not to assume the answer.
 
@@ -32,7 +32,7 @@ Chapter 9's images all price fullness: the filled vessel that cannot be carried,
 ## Psychology parallels
 
 - **[[Goal disengagement|Goal disengagement]]** (Wrosch et al., 2003)
-- **[[Peak-end rule|Peak-end research]]**
+- **[[Peak-end rule|Peak-end research]]** (Kahneman)
 
 ## Philosophy parallels
 

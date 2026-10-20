@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 179** — Soften your edges
 
-Chapter 15 of the Daodejing describes the skilful masters of the Tao in old times: with a subtle and exquisite penetration they comprehended its mysteries, and were deep so as to elude men's knowledge. The chapter's effort to describe what they appeared to be is a list of likenesses: shrinking like those who wade through a stream in winter; irresolute like those who are afraid of all around them; grave like a guest in awe of his host; evanescent like ice that is melting away; unpretentious like wood that has not been fashioned into anything; vacant like a valley, and dull like muddy water. Chapter 20 adds the social edge: the speaker alone seems listless and still, like an infant which has not yet smiled; dull and confused while ordinary men look bright and intelligent; alone different from other men, because he values the nursing-mother, the Tao.
+Chapter 15 of the Daodejing describes the skilful masters of the Tao in old times: with a subtle and exquisite penetration they comprehended its mysteries, and were deep so as to elude men's knowledge. The chapter's effort to describe what they appeared to be is a list of likenesses: shrinking like those who wade through a stream in winter; irresolute like those who are afraid of all around them; grave like a guest in awe of his host; evanescent like ice that is melting away; unpretentious like wood that has not been fashioned into anything; vacant like a valley, and dull like muddy water. Chapter 20 adds the social edge: the speaker alone seems listless and still, like an infant which has not yet smiled; dull and confused while ordinary men look bright and intelligent; alone different from other men, but he values the nursing-mother, the Tao.
 
 (DDJ 15, 20.)
 
@@ -21,9 +21,9 @@ Chapter 15 of the Daodejing describes the skilful masters of the Tao in old time
 The compendium's reading: the chapter's likenesses are all of indistinctness, shrinking, evanescent, unfashioned, vacant, dull. The principle's softened edge is the reading's name for what others see in such a person: not a hardened outline but a surface still in movement.
 
 **Plain words**
-Chapter 15's masters are described only by likenesses, and every likeness is indistinct: wading in winter, melting ice, unfashioned wood, a valley, muddy water. The compendium's exercise: pick your hardest current position and describe it to yourself in one of these likenesses rather than in the language of the standoff.
+The compendium's exercise: state your position without pretending it is complete. In a disagreement, distinguish what you are sure of from what remains open.
 
-*For example:* The compendium's hypothetical: the colleague who never argues but also never hardens — ask what their yes is doing in the meantime.
+*For example:* The compendium's hypothetical: a colleague acknowledges another interpretation without withdrawing their objection.
 
 ## Sources
 
