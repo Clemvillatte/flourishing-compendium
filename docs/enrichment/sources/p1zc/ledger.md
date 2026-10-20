@@ -189,3 +189,16 @@ Short, item-keyed evidence notes (owner decision 2026-10-20, PROTOCOL-PRINCIPLES
   kept. Saturation: 5 concept pages already cite SE032 (incl. Distanced self-talk
   (Kross)); mention hunt for "self-talk" surfaced no uncited natural targets; no
   additional links warranted. Validator ok. DONE (no advisor QC due: item 8).
+
+## SE040 — Recognise identity and culture (item 9)
+- Source opened: Markus & Kitayama 1991, Psychological Review 98(2) 224-253, MIT-hosted
+  PDF — downloaded, pdftotext extraction; abstract quote (p. 224) and Geertz inner
+  fragment (p. 226) verified by substring checks (True). Locator for the abstract:
+  p. 224 (first page).
+- Body: added the abstract blockquote + Geertz-quoted construal fragment + a practical
+  consequence sentence. Plain words re-derived (was a replicate of the body's opening).
+- Inherited psychology parallels (Oyserman et al. 2002; Benet-Martínez & Haritatos 2005;
+  Huynh et al. 2011) NOT source-checked this item — flagged, not certified. Practice,
+  For example, parallels kept. Saturation: 6 concept pages already cite SE040; mention
+  hunt "cultural limits" surfaced no uncited natural targets; no additional links
+  warranted. Validator ok. DONE (no advisor QC due: item 9).
