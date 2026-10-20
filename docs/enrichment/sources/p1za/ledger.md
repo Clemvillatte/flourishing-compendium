@@ -96,3 +96,7 @@ No separate advisor tool available to this session; quotes are checked programma
 ## E059
 - Camus, The Rebel (Bower trans., Knopf 1954; Bard College Library scan): pdftotext OCR + page images of pp. 27-28 viewed and read directly (quotations confirmed visually). p. 23 for 'identifies himself with other men' from OCR page-header position (not visually confirmed).
 - Limits: The Myth of Sisyphus (inherited citation) not opened. Statement's 'recognition of the absurd' framing is Camus's absurdist-experience-to-rebellion passage (p. 28). Example hypothetical.
+
+## K009
+- Sheng Yen, Hoofprint of the Ox (owner's Drive PDF; printed p.118) and Davis, Zen Pathways (Drive PDF; printed pp.296-297): 9 quotations grep-verified against pdftotext of the opened files.
+- Limits: The statement attributes 'ball of doubt' to Nishitani (Religion and Nothingness). Not found in the Buddha Eye anthology (0 hits for 'great doubt'; no Nishitani 'ball of doubt'), so body omits attribution and says so; statement untouched, supervisor may want to correct it. Gateless Gate and Dugas 1998 (inherited) not opened. Example hypothetical.
