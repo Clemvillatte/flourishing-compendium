@@ -34,7 +34,7 @@ Suppose a beginner learning to bake bread chooses shaping as the skill to practi
 
 ## Sources
 
-- [Bandura, "Exercise of Control Through Self-Belief", 1989 (Current Contents classic reprint), PDF](https://garfield.library.upenn.edu/classics1989/A1989U419500001.pdf) — guided mastery and mastery modeling treatment outcomes; efficacy beliefs generalizing beyond the treated dysfunction. Quotes read from the downloaded PDF.
+- [Bandura, "Exercise of Control Through Self-Belief" — 1989 "This Week's Citation Classic" retrospective commentary on his 1977 article, PDF](https://garfield.library.upenn.edu/classics1989/A1989U419500001.pdf) — retrospective report of mastery-modeling treatment observations; participants' reported broader confidence after treatment. Quotes verified by fetch_url and read from the downloaded PDF.
 - [Ericsson, Krampe & Tesch-Römer, "The Role of Deliberate Practice in the Acquisition of Expert Performance", Psychological Review 100(3), 363-406 (1993), PDF mirror](https://gwern.net/doc/psychology/writing/1993-ericsson.pdf) — abstract claims on deliberate practice and individual differences. Quotes read from the downloaded PDF. DOI [10.1037/0033-295X.100.3.363](https://doi.org/10.1037/0033-295X.100.3.363)
 
 ## Psychology parallels
