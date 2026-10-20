@@ -299,6 +299,26 @@
       "into": "Cognitive defusion",
       "link": "Psychological flexibility",
       "why": "Cognitive defusion is the looking-at-thoughts half of psychological flexibility."
+    },
+    {
+      "into": "Eightfold Path",
+      "link": "Right intention",
+      "why": "Right intention is the second factor of the Eightfold Path."
+    },
+    {
+      "into": "Metta (loving-kindness)",
+      "link": "Right intention",
+      "why": "Freedom from ill will, the resolve's second component, is the stance metta trains."
+    },
+    {
+      "into": "Implementation intentions",
+      "link": "Right intention",
+      "why": "If-then plans are the modern goal-structure parallel to setting intention in advance."
+    },
+    {
+      "into": "Self-concordance theory",
+      "link": "Right intention",
+      "why": "Self-concordant goals pursue alignment with values, the parallel the compendium's motivation principles draw."
     }
   ],
   "inline": [
@@ -431,6 +451,11 @@
       "into": "B125",
       "concept": "Psychological flexibility",
       "phrase": "psychological flexibility"
+    },
+    {
+      "into": "Eightfold Path",
+      "concept": "Right intention",
+      "phrase": "right intention"
     }
   ]
 }
