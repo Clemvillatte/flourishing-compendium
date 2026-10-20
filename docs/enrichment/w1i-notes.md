@@ -178,3 +178,12 @@ education-through-anxiety claim replaced by Marino-essay verbatim support
 Ledger note: the earlier milestone-five confirmation append had failed
 silently (broken && chain); re-appended and verified this round. Scoped
 confirmation submitted; pending.
+
+Item 11 (The expanding self): three opened sources (Taittiriya Upanishad
+Bṛhat translation, Whitman Song of Myself 45 at poets.org, Aron and
+Tomlinson 2026 PMC); all quotes verbatim from opened texts. The seed's
+prose line attributing the exact phrase "The expanding universe of self"
+to Song of Myself could not be verified against the poem and was removed
+per the Stress-mindset precedent; the verified Section 45 expansion lines
+are used instead and Whitman is cited in Sources via poets.org. Seed
+wikilinks all preserved (validator 0 failed).
