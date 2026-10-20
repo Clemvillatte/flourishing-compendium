@@ -39,7 +39,6 @@ The old speeches treat how you talk as part of who you are becoming. Speaking sl
 ## Related concepts
 
 - [[Beneficial speech]] — listed for comparison
-- [[Quick to hear, slow to speak]] — listed for comparison
 - [[Right speech]] — listed for comparison
 
 ## Sources

@@ -35,7 +35,6 @@ One old Nahua way of seeing it: there is no stuff sitting still anywhere — one
 
 ## Related concepts
 
-- [[Panta rhei]] — listed for comparison
 - [[Deus sive natura]] — listed for comparison
 - [[Teotl]] — the concept this principle trains
 
