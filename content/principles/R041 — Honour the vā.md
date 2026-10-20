@@ -12,15 +12,15 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 303** — Honour the vā
 
-Wendt's essay gives the vā its best-known statement:
+Wendt writes:
 
 > "Va is the space between, the betweenness, not empty space, not space that separates but space that relates, that holds separate entities and things together in the Unity-that-is-All, the space that is context, giving meaning to things. The meanings change as the relationships/the contexts change." (Wendt, "Tatauing the Post-Colonial Body", Span 42-43, 1996, pp. 15-29; NZEPC archived edition)
 
-The essay adds the practice in one line: the Samoan expression 'Ia teu le va' — cherish, nurse, care for the vā, the relationships. In communal cultures, Wendt writes, the individual is perceived in terms of the group, in terms of vā. What that means practically: meaning does not live in the two people separately and then get exchanged; it lives in the between, and the between has to be kept in good order for the meanings to hold.
+Wendt glosses 'Ia teu le va' as "Cherish/nurse/care for the va, the relationships." This page's suggested exercise is to identify an expectation or misunderstanding between two people and discuss it directly — the thing discussed is the relation, not only each person's state of mind.
 
 (Samoan philosophy; Tuhiwai Smith, 1999, Decolonizing Methodologies; Wendt, 1996, "Tatauing the Post-Colonial Body," Span, 42-43, 15-29.)
 
-**Plain words** In Samoan thinking, a relation is a thing in its own right, not a by-product of the two people. What that means on the ground: when something goes wrong between two people, the repair is addressed to the relation — the standing arrangement between you — and not only to each person's private state of mind. 'Ia teu le va' is the instruction: care for the relation itself, the way you would care for a garden rather than for two separate plants.
+**Plain words** Treat the relation itself as something you maintain. Two people in a disagreement each have a private state of mind, and there is also the standing arrangement between them — who expects what of whom. This concept names that arrangement and says work can be done on it directly: name the expectation that got missed, say it out loud to the other person, and let the arrangement be the thing you repair rather than each of you privately resolving to do better.
 
 *For example:* Imagine flatmates where one stops saying good morning after a noise complaint. A vā-reading of the situation: the relation itself was bruised, so the repair is a sentence about the relation — 'that got between us; can we reset?' — rather than two private resolutions to be politer.
 ## Stories
