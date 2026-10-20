@@ -237,7 +237,7 @@
    ]
   },
   "s1a-011": {
-   "status": "qc_pending",
+   "status": "ready",
    "angle": "P136: Addams and the Devil Baby; an unsettling failed bedside visit changes how she understands old women and their stories",
    "history": [
     {
@@ -263,11 +263,16 @@
      "t": "2026-10-20T13:57:22+00:00",
      "to": "qc_pending",
      "note": "Both exact advisor return edits applied; final confirmation requested"
+    },
+    {
+     "t": "2026-10-20T14:00:09+00:00",
+     "to": "ready",
+     "note": "Independent final advisor READY; exact return fixes confirmed, primary chapter verified"
     }
    ]
   },
   "s1a-012": {
-   "status": "qc_pending",
+   "status": "ready",
    "angle": "D039: Poincare alternates deliberate work, periods away and verification; apparent rest, not a promise of breakthrough or physical recovery",
    "history": [
     {
@@ -283,11 +288,16 @@
      "t": "2026-10-20T13:57:22+00:00",
      "to": "qc_pending",
      "note": "Complete primary and scholar opened; checker zero; milestone advisor requested"
+    },
+    {
+     "t": "2026-10-20T14:00:09+00:00",
+     "to": "ready",
+     "note": "Independent milestone advisor READY; full investigation sequence and limits verified"
     }
    ]
   },
   "s1a-013": {
-   "status": "drafting",
+   "status": "qc_pending",
    "angle": "D156: Muir rides a storm in a supple treetop; elasticity, anchorage and neighbouring trees, with no universal survival claim",
    "history": [
     {
@@ -298,9 +308,14 @@
      "t": "2026-10-20T13:59:40+00:00",
      "to": "drafting",
      "note": "Full primary chapter opened; complete tree-ride arc, contradictory rigid-survivor details and safe attribution retained"
+    },
+    {
+     "t": "2026-10-20T14:00:09+00:00",
+     "to": "qc_pending",
+     "note": "Full primary and secondary archive opened; checker green; independent review requested"
     }
    ]
   }
  },
- "updated": "2026-10-20T13:59:40+00:00"
+ "updated": "2026-10-20T14:00:09+00:00"
 }
