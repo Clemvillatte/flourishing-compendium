@@ -12,13 +12,21 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 20** — Practice wit (eutrapelia)
 
-Wit is the mean between boorishness and buffoonery. Those who joke well are serious about the right things and light about the rest. Humour, when fitting, is a virtue: it eases tension, builds bonds, and signals perspective. Do not take yourself so seriously that you lose the capacity to laugh.
+Aristotle treats humour as a matter of character, in the part of the Ethics concerned with pleasantness in social intercourse. The mean here is ready wit; the excess and deficiency are the buffoon and the boor:
 
-(NE IV.8.)
+> "Those who carry humour to excess are thought to be vulgar buffoons, striving after humour at all costs, and aiming rather at raising a laugh than at saying what is becoming and at avoiding pain to the object of their fun; while those who can neither make a joke themselves nor put up with those who do are thought to be boorish and unpolished." ([Nicomachean Ethics IV.8, Ross translation, MIT Classics](http://classics.mit.edu/Aristotle/nicomachaen.4.iv.html))
 
-**Plain words** Between the boor who can't joke and the clown who can't stop, there's wit. Aristotle thinks good humour is a virtue: it eases tension and shows perspective. You're serious about the right things and light about the rest. Don't take yourself so seriously that laughing becomes impossible.
+The mean is named and described:
 
-*For example:* Laughing at your own burnt dinner in front of guests puts everyone at ease. Joking about a guest's divorce doesn't.
+> "But those who joke in a tasteful way are called ready-witted, which implies a sort of readiness to turn this way and that; for such sallies are thought to be movements of the character, and as bodies are discriminated by their movements, so too are characters."
+
+The buffoon "is the slave of his sense of humour, and spares neither himself nor others if he can raise a laugh"; the boor of the passage "contributes nothing and finds fault with everything." The discussion closes with the note that "relaxation and amusement are thought to be a necessary element in life", so the question is not whether to jest but how: Aristotle adds that the jest is "a sort of abuse", and that while lawgivers forbid some things to be abused, "they should, perhaps, have forbidden us even to make a jest of such."
+
+The compendium's exercise: over a week, note jokes that raised a laugh and jokes that gave pain, and compare the notes with the buffoon and boor descriptions.
+
+**Plain words** Aristotle says good humour is a virtue of character. The buffoon jokes at any cost to get a laugh. The boor can neither make nor take a joke. The witty person considers what suits the company and which jokes to leave unsaid.
+
+*For example (imagined):* A host leaves a joke about a guest's recent loss unsaid and joins the banter about the overcooked dinner instead.
 
 ## Practice kernels
 
@@ -27,8 +35,8 @@ Wit is the mean between boorishness and buffoonery. Those who joke well are seri
 - [[K253 — The mean calibration|K253 The mean calibration]]
 ## Psychology parallels
 
-- **Humour and well-being research**, humour as a coping strategy predicts resilience and well-being (Martin, 2007; Kuiper, 2012)
-- **[[Play research|Play research]]**, play predicts emotional vitality in adults (Brown, 2008)
+- **Humour and well-being research** (Martin, 2007; Kuiper, 2012)
+- **[[Play research|Play research]]** (Brown, 2008)
 
 ## Philosophy parallels
 

@@ -19,19 +19,19 @@
   "Y090",
   "Y098",
   "Y105",
-  "Y110",
-  "A020"
+  "Y110"
  ],
- "in_progress": null,
+ "in_progress": "A020",
  "flagged": {
   "SP079": "Reopened for QC: QC round 1: quote terminal punctuation (design: not design.), majority-vs-all overreach, participation guarantee, humanizer, PT sentence reader-facing, parallels claim clauses",
   "SP089": "Reopened for QC: QC milestone: circumstances-revoke overreach + rereading mechanism",
   "SP091": "Reopened for QC: QC milestone: sharing-as-requirement overreach",
   "SP096": "Reopened for QC: QC milestone: eternity-as-technique + smaller-measure claim",
-  "Y105": "Reopened for QC: QC re-review round 3: strand search full inspection and ledger corrections"
+  "Y105": "Reopened for QC: QC re-review round 3: strand search full inspection and ledger corrections",
+  "A020": "Reopened for QC: QC re-review: file-path fix, action-only example, Plain words, raw verification"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T10:23:47+00:00",
+ "updated": "2026-10-20T10:25:39+00:00",
  "band_done": false
 }
