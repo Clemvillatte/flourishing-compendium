@@ -27,7 +27,7 @@ The abstract describes reappraisal as "often more effective than suppression" (p
 
 ## Psychology parallels
 
-- **Reappraisal vs suppression meta-analysis** (Webb et al., 2012; Aldao et al., 2010)
+- Webb et al. (2012); Aldao et al. (2010)
 - Butler & Gross (2009)
 
 ## Philosophy parallels
