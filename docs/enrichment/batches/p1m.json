@@ -28,9 +28,10 @@
   "B123",
   "B139",
   "B142",
-  "B151"
+  "B151",
+  "B125"
  ],
- "in_progress": "B125",
+ "in_progress": null,
  "flagged": {
   "B034": "Research-selection error: B034 is outside p1m and already complete in p1i. No B034 content or source-ledger edits were made; clear mistaken in_progress and continue with manifest B037.",
   "B091": "Reopened for QC: QC correction round 2: plain-words replicate replaced (advisor text)",
@@ -45,7 +46,7 @@
   }
  ],
  "sources_checked": 79,
- "updated": "2026-10-20T02:30:04+00:00",
+ "updated": "2026-10-20T02:30:22+00:00",
  "notes": {
   "cross_band_incident_2026_10_20": "8 items done outside p1m manifest by the dead worker (B079->p1p, B081/B140->p1h, B102/B143->p1i, B095/B115/B117 unassigned); markers moved to owning bands/queue; B146 in_progress cleared (p1c's, already done there). Content validator-clean; owning-band workers re-verify quotes at next milestone."
  },

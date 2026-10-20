@@ -12,19 +12,19 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 125** — Dwell nowhere (non-abiding)
 
-The Diamond Sutra grounds the term in Subhuti's own epithet. The reason he is called Joyful Abider-in-Peace, Dweller-in-Seclusion-in-the-Forest is not that he abides in peace; the text says he abides nowhere (Diamond Sutra, Section IX, Price/Wong translation, [text](https://ia802808.us.archive.org/18/items/the_diamond_sutra_english/the_diamond_sutra_english.pdf)). Huineng's Platform Sutra makes non-abiding one of three foundations of the teaching, alongside no-thought and no-form, and defines it in two lines: "non-abiding is people's original nature" and "Upon all Dharmas, without dwelling on the thoughts as they follow each other, then there will be no bondage" (Platform Sutra of the Sixth Patriarch, trans. Tony Chen, [Terebess edition](https://terebess.hu/zen/platf.pdf)).
+Section IX of the Diamond Sutra explains Subhuti's description as an abider in peace with the words "This is because Subhuti abides nowhere" ([Diamond Sutra, Section IX](https://ia802808.us.archive.org/18/items/the_diamond_sutra_english/the_diamond_sutra_english.pdf)). Section X, which the seed's chapter citation points to, carries the instruction in practice: "A Bodhisattva should develop a mind which alights upon no thing whatsoever; and so should he establish it" ([Diamond Sutra, Section X](https://ia802808.us.archive.org/18/items/the_diamond_sutra_english/the_diamond_sutra_english.pdf)). The English Platform Sutra text opened for this page describes non-abiding in relation to successive thoughts:
 
-> "This is because Subhuti abides nowhere: therefore he is called, 'Subhuti, Joyful Abider-in-Peace, Dweller-in-Seclusion-in-the-Forest.'" (Diamond Sutra, Section IX, Price/Wong translation, [text](https://ia802808.us.archive.org/18/items/the_diamond_sutra_english/the_diamond_sutra_english.pdf))
+> "Upon all Dharmas, without dwelling on the thoughts as they follow each other, then there will be no bondage. That is what is meant by non-abiding as the foundation." (Platform Sutra of the Sixth Patriarch, [Terebess edition](https://terebess.hu/zen/platf.pdf), PDF p. 36)
 
-The two texts agree on the direction: thoughts continue, and the practice concerns where the mind dwells on them, not whether they occur. Neither passage instructs you to leave your house or your roles. The exercise the compendium takes is narrower: when a thought, an opinion or a mood keeps getting rebuilt as a residence, notice the rebuilding and let the next thought pass without becoming its tenant.
+The compendium proposes one everyday application: examine whether you are prepared to reconsider a position when your reasons for holding it change. This application should be distinguished from the texts' claims about liberation.
 
 ### Plain words
 
-A defended opinion works like a residence: you keep the lights on, you patrol the edges. Non-abiding is the alternative Huineng describes: thoughts still succeed each other, and you do not dwell on them as they pass. You can state a view, hear the counterargument, and change if the case changes. The next thought does not have to inherit the argument.
+Take a position without making it untouchable. Say what supports it and consider an objection on its merits. If your reasons change, allow yourself to change your view without pretending you always held the new one.
 
 ### For example
 
-Imagine believing a colleague's idea will fail, and saying so in a meeting. The test of non-abiding is not whether you defend the prediction; it is whether you can drop it the moment the project succeeds, without re-arguing the past.
+Imagine predicting that a colleague's proposal will fail. A trial then produces results you did not expect. For this exercise, acknowledge what the trial showed and revise the prediction where warranted, without inventing a new reason why you were right all along.
 
 ## Stories
 
@@ -33,6 +33,7 @@ Imagine believing a colleague's idea will fail, and saying so in a meeting. The 
 ## Psychology parallels
 
 - **[[Cognitive flexibility|Cognitive flexibility as a core of mental health]]** (Kashdan and Rottenberg, 2010)
+  The linked review addresses psychological flexibility, including shifts in mindsets and behavior; its title and abstract do not make the claim specifically for cognitive flexibility alone. ([Kashdan and Rottenberg abstract](https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:21151705&resultType=core&format=json))
 
 ## Philosophy parallels
 
