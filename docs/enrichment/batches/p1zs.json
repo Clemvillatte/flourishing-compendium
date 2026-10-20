@@ -24,9 +24,10 @@
   "CO038",
   "CO062",
   "CO068",
-  "CO076"
+  "CO076",
+  "E044"
  ],
- "in_progress": "E044",
+ "in_progress": null,
  "flagged": {
   "BI020": "Reopened for QC: round-4 citation closure",
   "BI037": "Reopened for QC: round-5 mechanical fixes",
@@ -46,10 +47,11 @@
   "CO038": "Body/quote verified with replication, median/mean conflation corrected; inherited cross-cultural and philosophy parallels not certified. See sources/p1zs/CO038.md.",
   "CO062": "New body/clinical boundaries and training limitations checked; inherited Socratic/Dewey parallels not certified. See sources/p1zs/CO062.md.",
   "CO068": "New body/quote and psychology parallels checked, association not intervention causality; inherited Plato/Peirce/Aquinas attributions not certified. See sources/p1zs/CO068.md.",
-  "CO076": "New body/quote checked against early primary and 2024 replication; inherited effort-justification and philosophy parallels not certified. See sources/p1zs/CO076.md."
+  "CO076": "New body/quote checked against early primary and 2024 replication; inherited effort-justification and philosophy parallels not certified. See sources/p1zs/CO076.md.",
+  "E044": "Unsafe inherited anti-medication guidance removed and clinical boundary sourced. New body/quote checked; inherited Freud/Yalom/Tillich/Kierkegaard parallels not certified. See sources/p1zs/E044.md."
  },
  "missing_concepts": [],
- "sources_checked": 17,
- "updated": "2026-10-20T13:24:05+00:00",
+ "sources_checked": 20,
+ "updated": "2026-10-20T13:25:08+00:00",
  "band_done": false
 }

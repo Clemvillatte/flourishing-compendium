@@ -12,13 +12,21 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 436** — Practise anxiety (Angst)
 
-Recognise anxiety — not as a psychological symptom to be eliminated, but as a fundamental mood (Grundstimmung) that reveals the groundlessness of your existence. Anxiety is not fear of something; it is the experience of the uncanny (Unheimlich), the dissolution of the familiar. Let anxiety reveal to you the question of being.
+Heidegger describes anxiety as different from fear directed toward a particular threatening thing ([Being and Time, §40, p. 231, Macquarrie and Robinson translation](https://www.beyng.com/pages/en/BeingandTimeMR/BeingandTimeMR.231.html)). In this account, familiar things lose their usual significance, bringing one's relation to the world itself into view ([same passage](https://www.beyng.com/pages/en/BeingandTimeMR/BeingandTimeMR.231.html)).
 
-(Heidegger, 1927/2008, Being and Time, §40; Heidegger, 1929/1995, "What Is Metaphysics?"; Kierkegaard, 1844/1981, The Concept of Anxiety.)
+> That in the face of which one is anxious is completely indefinite.
 
-**Plain words** Anxiety (Angst) is not a symptom to eliminate but a fundamental mood that reveals the groundlessness of existence — the uncanny dissolution of the familiar. Anxiety isn't fear of something; it's the world's familiar furniture briefly floating. Don't medicate the disclosure; read it.
+(Heidegger, Being and Time, §40, p. 231; [opened text](https://www.beyng.com/pages/en/BeingandTimeMR/BeingandTimeMR.231.html).)
 
-*For example:* The 3 a.m. waking where the job, the name, and the routine all look arbitrary — the anxious reading is "something's wrong with me"; the existential reading is "the structure is showing." The mood passes; the information remains.
+### Plain words
+
+You may reflect on what an unsettled moment raises about your commitments. You do not need to treat distress as a privileged truth or choose philosophy instead of help.
+
+This philosophical account is not a clinical assessment: persistent anxiety that interferes with daily life warrants professional attention, and treatment can include psychotherapy, medication or both ([NIMH, “Generalized Anxiety Disorder”](https://www.nimh.nih.gov/health/publications/generalized-anxiety-disorder-gad)). Do not stop prescribed medication without a healthcare provider's help ([NIMH, “Mental Health Medications”](https://www.nimh.nih.gov/health/topics/mental-health-medications)).
+
+### For example
+
+Suppose a change of job leaves your familiar ambitions feeling uncertain. You could discuss what matters to you with someone you trust, while seeking clinical support if anxiety is disrupting sleep or everyday life.
 ## Psychology parallels
 
 - **[[Angst|Existential anxiety]]** (Yalom, 1980; Tillich, 1952)
@@ -27,4 +35,5 @@ Recognise anxiety — not as a psychological symptom to be eliminated, but as a 
 ## Philosophy parallels
 
 - **[[Angst|Anxiety (Angst)]]** (Heidegger, Being and Time; Kierkegaard, The Concept of Anxiety)
-- **[[The uncanny|The uncanny (das Unheimliche)]]** (Heidegger, Being and Time)- **[[Angst|Angst]]** (Existentialism & Phenomenology)
+- **[[The uncanny|The uncanny (das Unheimliche)]]** (Heidegger, Being and Time)
+- **[[Angst|Angst]]** (Existentialism & Phenomenology)
