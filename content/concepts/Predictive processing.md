@@ -8,7 +8,12 @@ tags: ["psych/biophys", "psych/cognition", "theory"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-COGNITION"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter P", "parent": ""}
 ---
-the current framework in which mind and world are modeled as one loop of prediction and correction (Clark, 2013, "Whatever next?").
+Predictive processing is the framework in which mind and world are modeled as one loop of prediction and correction. Andy Clark's 2013 target article, the paper the seed names, states the claim in its abstract:
+
+> "Brains, it has recently been argued, are essentially prediction machines. They are bundles of cells that support perception and action by constantly attempting to match incoming sensory inputs with top-down expectations or predictions. This is achieved using a hierarchical generative model that aims to minimize prediction error within a bidirectional cascade of cortical processing."
+> — [Clark 2013, "Whatever next? Predictive brains, situated agents, and the future of cognitive science", Behavioral and Brain Sciences 36(3):181-204 (PubMed record)](https://pubmed.ncbi.nlm.nih.gov/23663408/)
+
+The framework's reach is perception and action together: such accounts "offer a unifying model of perception and action, illuminate the functional role of attention, and may neatly capture the special contribution of cortical processing to adaptive success" (Clark 2013 abstract). Clark presents the approach as an argument under examination rather than a settled result: the article "critically examines this 'hierarchical prediction machine' approach, concluding that it offers the best clue yet to the shape of a unified science of mind and action" (Clark 2013 abstract).
 
 ## Facets
 
@@ -23,11 +28,12 @@ the current framework in which mind and world are modeled as one loop of predict
 
 ## Sources
 
-- Seth, 2013
-- Clark, 2013
-- Clark, 2013, "Whatever next?"
-- Clark, 2013, 2016
-- Friston, 2010
+- Seth, 2013 (original seed line, kept)
+- Clark, 2013 (original seed line, kept)
+- Clark, 2013, "Whatever next?" (original seed line, kept)
+- Clark, 2013, 2016 (original seed line, kept)
+- Friston, 2010 (original seed line, kept)
+- [Clark 2013, "Whatever next? Predictive brains, situated agents, and the future of cognitive science", Behavioral and Brain Sciences 36(3):181-204 (PubMed record)](https://pubmed.ncbi.nlm.nih.gov/23663408/) — the abstract's prediction-machine passage, the unifying-model sentence and the critical-examination sentence, quoted verbatim
 
 ## Cited in psychology parallels
 
