@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BE — Overt Be
 ---
 > **Principle 46** — Learn to use the body to regulate emotion: posture, breath, movement
 
-Behavioural emotion regulation works on the body's inputs: how fast you breathe, how you sit, whether you move. The evidence is uneven across techniques, and it holds up best for slow breathing and posture.
+Behavioural emotion regulation works on the body's inputs: how fast you breathe, how you sit.
 
 A systematic review of slow-breathing studies found the practice promotes autonomic changes that increase heart rate variability and respiratory sinus arrhythmia (Zaccaro et al., 2018). Heart-rate-variability biofeedback trains the same loop deliberately: participants breathe slowly and try to maximise respiratory sinus arrhythmia, and most studies find the largest effects around six breaths per minute, with the best-supported mechanism a strengthening of homeostasis in the baroreceptors (Lehrer & Gevirtz, 2014).
 
@@ -20,11 +20,11 @@ A systematic review of slow-breathing studies found the practice promotes autono
 
 Posture carries the same direction under stress. In a randomised trial, participants assigned to sit upright through a stressor speech task reported "higher self-esteem, more arousal, better mood, and lower fear, compared to slumped participants" (Nair et al., 2015, Health Psychology 34(6):632-641, [PubMed record](https://pubmed.ncbi.nlm.nih.gov/25222091/)).
 
-Not every embodied effect survives testing. A conceptual replication with a substantially larger sample "found no significant effect of power posing on hormonal levels or in any of the three behavioral tasks", only on self-reported feelings of power (Ranehill et al., 2015, Psychological Science 26(5):653-656, [full-text PDF](https://www.zne.uzh.ch/dam/jcr:e5fc4c3c-d50e-4aa9-96ab-4389e426d20d/%20Psychological%20Science-2015-Ranehill-0956797614553946.pdf)). Across 17 direct replications of the original facial-feedback study, the rating difference came out at "0.03 units with a 95% confidence interval ranging from −0.11 to 0.16", against the original 0.82 units (Wagenmakers et al., 2016, Perspectives on Psychological Science 11(6):917-928, [journal PDF](https://journals.sagepub.com/doi/pdf/10.1177/1745691616674458)).
+The replication record for related ideas is mixed. In Ranehill et al.'s conceptual replication with a substantially larger sample, the authors "found no significant effect of power posing on hormonal levels or in any of the three behavioral tasks", only on self-reported feelings of power (Ranehill et al., 2015, Psychological Science 26(5):653-656, [full-text PDF](https://www.zne.uzh.ch/dam/jcr:e5fc4c3c-d50e-4aa9-96ab-4389e426d20d/%20Psychological%20Science-2015-Ranehill-0956797614553946.pdf)). Across 17 direct replications of the original facial-feedback study, the rating difference came out at "0.03 units with a 95% confidence interval ranging from −0.11 to 0.16", against the original 0.82 units (Wagenmakers et al., 2016, Perspectives on Psychological Science 11(6):917-928, [journal PDF](https://journals.sagepub.com/doi/pdf/10.1177/1745691616674458)).
 
-**Plain words** Fear and calm have engine speeds, and breath is the throttle. Breathe at about six breaths a minute and the heart and lungs settle toward the rhythm they keep on their own when nothing is wrong; the feeling follows partway. Posture works from the outside: under pressure the slump arrives with the mood, and holding the spine up is one of the levers on it. Two cautions come from the same literature: a confident pose does not move hormones, and a pen held in the teeth does not reliably make cartoons funnier.
+**Plain words** Slow breathing has the strongest evidence of the body-based tools: breathe at about six breaths a minute and the review's listed outputs include comfort, relaxation, and reduced arousal and anxiety. Posture has one randomised trial behind it: upright sitters under stress reported better mood and lower fear than slumped sitters. Two cautions from the same literature: in Ranehill et al.'s test, power posing showed no significant effect on hormones or the behavioural tasks; and across 17 direct replications of the pen-in-teeth study, the funniness-rating difference came out at 0.03 units against the original 0.82.
 
-**For example:** Before a difficult phone call, sit upright and take about ten slow breaths over two minutes, then dial. Check in on how wound up you feel before and after, so you learn the size of your own response instead of trusting the general claim.
+**For example:** Before a difficult phone call, sit upright and take about ten slow breaths over two minutes, then make the call.
 
 ## Psychology parallels
 
@@ -40,7 +40,7 @@ Not every embodied effect survives testing. A conceptual replication with a subs
 
 ## Practice
 
-- Use the body to regulate: slow breathing at about six breaths per minute, upright seated posture, gentle movement (walking, stretching) when distressed.
+- Use the body to regulate: slow breathing at about six breaths per minute, upright seated posture.
 
 ## Sources
 

@@ -14,7 +14,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BE — Overt Be
 
 Support runs in two directions, and both are behaviour: giving it (helping, listening, being present) and receiving it (asking, accepting, allowing).
 
-The mortality evidence is the largest single finding in this literature. A meta-analysis of 148 studies covering 308,849 participants found a "50% increased likelihood of survival for participants with stronger social relationships" (Holt-Lunstad et al., 2010, PLoS Medicine 7(7):e1000316, [full text](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000316)).
+The mortality evidence comes from a meta-analysis: 148 studies covering 308,849 participants found a "50% increased likelihood of survival for participants with stronger social relationships" (Holt-Lunstad et al., 2010, PLoS Medicine 7(7):e1000316, [full text](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000316)).
 
 Two classic models explain how support does its work, and the review that compared them found "evidence consistent with both models" (Cohen & Wills, 1985, Psychological Bulletin 98(2):310-357, [abstract record](https://oamonitor.ireland.openaire.eu/rfo/health-research-board3/search/publication?pid=10.1037/0033-2909.98.2.310)).
 
@@ -22,9 +22,9 @@ Two classic models explain how support does its work, and the review that compar
 
 A later review adds a caution about measurement: perceived and received support are separable, with different links to health outcomes (Uchino, 2009, Perspectives on Psychological Science 4(3):236-255, [PubMed record](https://pubmed.ncbi.nlm.nih.gov/26158961/)).
 
-**Plain words** Support is an exchange with two seats, and most people over-occupy one. The friend who helps everyone and asks for nothing is not stronger, only harder to reach; refusing the soup denies the other person the role of mattering to you. Receiving is its own skill: naming what you need, tolerating being seen needing it, letting help arrive. One more thing the research noticed: what predicts health is less the help on paper and more the belief that someone would come if called.
+**Plain words** Support has a giving side and a receiving side, and the research measures them separately. On the receiving side, the studies distinguish the support you perceive as available from the support you actually get, and the two measures track different links to health. Practically: receiving is a behaviour of its own, not a lesser version of giving. Naming what you need, and letting someone meet it, is the move this page points at.
 
-**For example:** After surgery you let a neighbour handle the shopping for a week instead of managing alone with a backpack. Notice what it costs to say yes, and notice that she had to ask twice before you accepted; the asking is the behaviour under training.
+**For example:** Imagined: after a minor operation, a neighbour offers to take over the shopping for the week, and the person says yes instead of managing it alone. Accepting the offer is the behaviour under practice.
 
 ## Psychology parallels
 
