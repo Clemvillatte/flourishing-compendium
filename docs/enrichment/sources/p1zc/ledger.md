@@ -432,3 +432,23 @@ Short, item-keyed evidence notes (owner decision 2026-10-20, PROTOCOL-PRINCIPLES
   source-checked — flagged, not certified. Saturation: 5 concept pages already cite
   SP001 (incl. Affect labeling, Diagnosis before prescription); no additional links
   warranted. Validator ok. DONE (no advisor QC due: item 20; next at item 21).
+
+## SP030 advisor round-1 repairs (item 21)
+- Opening paragraph replaced with the advisor's version (philosophical reason to
+  examine retaliation, not assured outcome); the P46 note blockquote replaced with
+  the P46 proposition ("as far as possible" qualification, no semicolon
+  normalization); Plain words and For example replaced with the advisor's versions;
+  psychology parallel reduced to the wikilink + bare Worthington reference
+  ("reliably shift hostile spirals" and the Dunbar finding removed); philosophy
+  bullets separated (Paul/Affects were merged on one line); Confucius commentary
+  reduced to the wikilink + reference.
+- Locator corrected: IV P73 -> IV P46 (verified from the opened Part IV text).
+- Saturation ("hatred", "reciprocity"): Forgiveness (advisor-flagged) and Anger do
+  NOT cite SP030 — both proposed with bounded clauses; Karuna, Four immeasurables,
+  Benign versus malicious envy inspected, no proposals (they carry the Dhammapada
+  B162 line, the direct Buddhist counterpart; SP030 would duplicate that
+  relationship); "reciprocity" hits relate to other principles. Validator ok.
+- MILESTONE BLOCKERS flagged by advisor for items 17-20: SO012 (personal/cultural
+  level separation), SO046 (unsupported mechanisms), SO056 (hospital-outcome claim +
+  quote verification against unprompted content), SP001 (PT translator = A. H.
+  Gosset per the Elwes introduction). Repairs next.

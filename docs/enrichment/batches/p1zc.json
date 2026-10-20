@@ -22,12 +22,12 @@
   "SO056",
   "SP001"
  ],
- "in_progress": null,
+ "in_progress": "SP030",
  "flagged": {
   "SE071": "RESOLVED (2026-10-20, advisor round 4): repairs accepted; scoped PASS - the clinical-claim and attribution repairs stand; flag kept for supervisor visibility",
   "SE076": "RESOLVED (2026-10-20, advisor round 4): repairs accepted; scoped PASS - WHO-scope bounding and list-format quote stand; flag kept for supervisor visibility"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T08:33:11+00:00"
+ "updated": "2026-10-20T08:33:19+00:00"
 }
