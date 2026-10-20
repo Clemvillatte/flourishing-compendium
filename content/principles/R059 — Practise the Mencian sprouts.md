@@ -12,11 +12,11 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 321** — Practise the Mencian sprouts
 
-Nurture the four moral sentiments that are natural to human beings: the feeling of compassion (the sprout of ren), the feeling of shame and dislike (the sprout of yi), the feeling of deference and compliance (the sprout of li), and the feeling of right and wrong (the sprout of zhi). These are seeds; they must be cultivated to grow into full virtues.
+Nurture the four moral sentiments that are natural to human beings. Mencius names them and their virtues: "The feeling of commiseration is the principle of benevolence. The feeling of shame and dislike is the principle of righteousness. The feeling of modesty and complaisance is the principle of propriety. The feeling of approving and disapproving is the principle of knowledge. Men have these four principles just as they have their four limbs." (Mencius, The Mencius 2A6, tr. Legge, https://www.sacred-texts.com/book/mencius/chapter-6.) Their universality is argued from a thought experiment in the same passage: "if men suddenly see a child about to fall into a well, they will without exception experience a feeling of alarm and distress" — not to win the favour of the child's parents or the praise of neighbours.
 
-(Mencius, The Mencius 2A6, 6A6, 6A10.)
+These sentiments are beginnings rather than finished growth, and the work of the principle is cultivation: notice the feeling, act on it, and let practice turn a reaction into a character. (Mencius, The Mencius 2A6, 6A6, 6A10.)
 
-**Plain words** Mencius says you were issued four moral sprouts at birth: compassion (grows into ren), shame-and-dislike (yi), deference (li), right-and-wrong (zhi). Seeds, not finished trees — the whole work is cultivation. Water them or they stay sprouts.
+**Plain words** You already flinch when someone gets hurt; you wince at your own bad behaviour; you feel the pull to yield and the sense that something is just wrong. Mencius's claim is that these starts come standard in everyone — his instruction is to grow them. The flinch is raw material; acting on it, repeatedly, is what turns it into kindness.
 
 *For example:* Everyone at the scene of the accident feels the flinch toward the injured — that flinch is the sprout. The person who kneels down and helps is just the sprout, watered.
 ## Psychology parallels
@@ -28,3 +28,6 @@ Nurture the four moral sentiments that are natural to human beings: the feeling 
 
 - **[[Natural virtue|Natural virtue]]** (Aristotle, Nicomachean Ethics VI.13; Mencius, The Mencius)
 - **[[Moral sentiments|Moral sentiments]]** (Hume, A Treatise of Human Nature)
+
+## Sources
+- Mencius 2A6 (four feelings; child and the well), tr. James Legge — opened and verified verbatim: https://www.sacred-texts.com/book/mencius/chapter-6 (2A6 spans this file; ctext robots-blocked)

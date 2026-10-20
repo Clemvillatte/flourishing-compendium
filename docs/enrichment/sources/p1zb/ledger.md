@@ -242,3 +242,17 @@ never-band-assigned work; p1g state had them flagged-only, absent from p1g's man
   (all list PP065). No new proposals warranted (links already reciprocal).
 - Pre-compaction quotes (Hill & Turiano; Neff 2003; Chatterjee & Vartanian 2014) stand on the
   ledger records and per-item Sources sections from the opened sources.
+
+## R059 — Practise the Mencian sprouts
+- Full work: verbatim quotes added (Mencius 2A6, tr. Legge — the four feelings/principles
+  passage with the four limbs sentence, and the child-about-to-fall-into-a-well passage),
+  verified against the opened Legge text at sacred-texts.com/book/mencius/chapter-6 (chapter
+  file 6 = Book II.A; ctext robots-blocked; Wikipedia API rate-limited during terminology
+  check, so no duan-etymology claim was added). Cultivation framing kept as the principle's
+  recommendation ("beginnings rather than finished growth"). Plain words rewritten as
+  re-derivation through acting on the flinch. For-example kept (matches the well passage).
+  Sources section added.
+- Flags: 6A6/6A10 (inherited citation line) not separately opened — Legge file structure at
+  sacred-texts splits by chapter groups; left as inherited with this flag.
+- Saturation: reciprocal links confirmed in Natural goodness of the unformed human, Moral
+  emotions, Natural virtue, Moral cultivation (xiushen) (all list R059). No new proposal warranted.
