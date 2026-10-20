@@ -12,13 +12,20 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 81** — Give style to one's character
 
-To give style to one's character is a grand and rare art. Survey all that your nature presents in strength and weakness, then fashion it into an ingenious plan: conceal what cannot be taken away, reinterpret the ugly into the sublime, reserve the vague for perspectives that hint at the remote and immeasurable. The constraint of a single taste — good or bad matters less than that it is a taste — organizes the whole.
+The aphorism is titled "One Thing is Needful". Nietzsche writes: "To 'give style' to one's character—that is a grand and a rare art! He who surveys all that his nature presents in its strength and in its weakness, and then fashions it into an ingenious plan, until everything appears artistic and rational, and even the weaknesses enchant the eye—exercises that admirable art." The work takes time: "in both cases with long exercise and daily labour at the task." Three moves follow. "Here the ugly, which does not permit of being taken away, has been concealed, there it has been re-interpreted into the sublime", and "Much of the vague, which refuses to take form, has been reserved and utilised for the perspectives". The unity comes from one standard: "it was the constraint of the same taste that organised and fashioned it [...] whether the taste was good or bad is of less importance than one thinks,—it is sufficient that it was a taste!" (Nietzsche, The Gay Science, section 290, trans. Thomas Common, 1910, [Project Gutenberg](https://www.gutenberg.org/ebooks/52881)).
 
-(Nietzsche, The Gay Science 290.)
+The reason he gives is practical. "One thing is needful: namely, that man should attain to satisfaction with himself". Nietzsche adds that "he who is dissatisfied with himself is ever ready to avenge himself on that account: we others will be his victims".
 
-**Plain words** Take everything your nature hands you — strengths, flaws, oddities — and arrange it like a garden: plant what thrives, frame the flaws so they read as features, keep a little mystery at the edges. The point isn't good taste or bad; it's having a taste, one organising plan that makes the whole thing yours.
+**Plain words**
+Take stock of your strengths and flaws. Some flaws you can drop. Others you can only frame differently or give a place. Then choose one guiding taste, so the parts form a whole. Peace with yourself matters partly because other people carry the cost when you lack it.
 
-*For example:* The naturally anxious person who stops apologising for it and builds a career on it — the double-checking nobody else does — same trait, now composed.
+**For example**
+A naturally anxious person stops apologising for double-checking. She makes it her trade mark and becomes the one who catches errors before they ship.
+
+## Sources
+
+- [Friedrich Nietzsche, The Joyful Wisdom (La Gaya Scienza), trans. Thomas Common (1910), section 290, Project Gutenberg](https://www.gutenberg.org/ebooks/52881): opened and text-checked. This is an older translation, not Kaufmann's.
+
 ## Psychology parallels
 
 - **Narrative identity and meaning-making**, constructing a coherent self-story predicts well-being (conceptual parallel; McAdams, 2001; McAdams and McLean, 2013)

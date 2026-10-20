@@ -212,3 +212,7 @@ Core prose (body per QC round-1 replacement text, VI.9 blockquote + IV.21 inline
 ## SE065
 - Maslow (1943), Psychological Review 50, 370-396, Classics in the History of Psychology (fetched; 5 quotations grep-verified; passage pp. 382-383 from the page markers). Ryff (2014) Psychother Psychosom 83:10-28: abstract only via PubMed eutils (PMC full text blocked), two phrases verified.
 - Limits: Maslow 1968/1970 and Ryff 1989 (inherited citations) not opened. Statement says self-actualization 'is associated with well-being' and 'not selfishness': Maslow 1943 gives only 'ultimately happy'; no opened source addresses selfishness, so body says so. Nietzsche 'become who you are' and Aristotle parallels untouched. Example hypothetical.
+
+## SE081
+- Nietzsche, The Gay Science s.290, Thomas Common trans. (1910), Project Gutenberg #52881: 9 quotations grep-verified (italics stripped).
+- Limits: not Kaufmann's translation (copyrighted). McAdams / Campbell parallels untouched, not opened. Example hypothetical.
