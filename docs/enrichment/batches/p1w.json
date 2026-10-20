@@ -3,15 +3,16 @@
  "done": [
   "K008",
   "K029",
-  "AF026"
+  "AF026",
+  "SO041"
  ],
- "in_progress": "SO041",
+ "in_progress": null,
  "flagged": {
   "K001": "Reopened for QC: source-access-blocked: primary Yale 1990 translation not independently openable (Google Books TOC only, page-3 robots-blocked); body relies on opened secondary quotes (Shields, SEP, Mitsuhara); supervisor disposition requested",
   "SO041": "Reopened for QC: QC round 2: plumber second-opinion claim and practiced-domain contrast removed (not derived from displayed evidence)"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T06:01:18+00:00",
+ "updated": "2026-10-20T06:01:28+00:00",
  "band_done": false
 }
