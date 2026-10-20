@@ -12,13 +12,13 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 71** — Recognise self and trauma: trauma fragments self
 
-Trauma can fragment the self — producing dissociation, identity disturbance, and a self organised around avoidance and threat. This is a specific clinical pattern requiring trauma-specific treatment, not self-help alone.
+Trauma can fragment the self — producing dissociation, identity disturbance, and a self organised around avoidance and threat. The compendium's advice for this pattern is professional evaluation rather than self-help alone.
 
 The official ICD-11 formulation names the self-disturbance directly:
 
 > "In addition, Complex PTSD is characterized by severe and persistent 1) problems in affect regulation; 2) beliefs about oneself as diminished, defeated or worthless, accompanied by feelings of shame, guilt or failure related to the traumatic event; and 3) difficulties in sustaining relationships and in feeling close to others." (ICD-11 complex PTSD definition, quoted in [Cloitre et al., 2019, BJPsych Advances](https://www.cambridge.org/core/journals/bjpsych-advances/article/complex-posttraumatic-stress-disorder-a-new-diagnosis-in-icd11/2977140CBDAAF402610715BB609F688C))
 
-The fragmenting is not a metaphor. The diagnosis lists what trauma does to the self's organisation: regulation, self-concept, relationships.
+The diagnosis calls these disturbances in self-organisation. This page's "fragmented self" language is a description of that pattern, not a separate clinical fact.
 
 **Plain words** Trauma can shatter the self's continuity — memory that won't integrate, a self organised around threat, parts of you that feel like strangers. This is an injury, not a personality. It responds to treatment, slowly, the way broken things heal: deliberately and with help.
 

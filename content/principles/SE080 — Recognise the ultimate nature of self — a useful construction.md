@@ -12,25 +12,33 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 80** — Recognise the ultimate nature of self: a useful construction
 
-Ultimately, the self is a construction — useful, necessary, but not an absolute truth. Holding it lightly (using it without being trapped by it) is a foundation of wisdom and freedom.
+Hume's account offers one philosophical starting point for examining self-descriptions, rather than a settled finding about an ultimate self. He describes what he finds when looking inward:
 
-**Plain words** In the end, the self is a construction — a marvellous, necessary, useful construction, but a construction. The traditions that saw this clearly aren't asking you to destroy it. They're asking you to use it without being used by it. Hold it like a tool: firmly, and with the knowledge that you're the one holding.
+> "For my part, when I enter most intimately into what I call myself, I always stumble on some particular perception or other, of heat or cold, light or shade, love or hatred, pain or pleasure. I never can catch myself at any time without a perception, and never can observe any thing but the perception." (Hume, A Treatise of Human Nature, I.4.6, [Gutenberg](https://www.gutenberg.org/files/4705/4705-h/4705-h.htm))
 
-*For example:* The cellist doesn't smash the cello because it's "just wood." She plays it — and when the concert ends, she puts it in its case and goes home to a self that was never made of cello. That's the whole teaching: play beautifully, then put it down.
+His summary of the rest of mankind: "a bundle or collection of different perceptions, which succeed each other with an inconceivable rapidity, and are in a perpetual flux and movement" (Hume, I.4.6).
+
+**Plain words** Try looking for what you mean by "me". List what you actually notice: a sensation, a feeling, a memory. Then ask what, if anything, you mean beyond those experiences.
+
+*For example (imagined):* A cellist describes herself as confident, then notices anxiety before performing. For this exercise, she records both the self-description and the feeling, without treating either as a final answer about who she is.
 ## Psychology parallels
 
-- **Self as construction**, the self is a cognitive and social construction (Markus & Wurf, 1987; Baumeister, 1998)
-- **[[Self-as-context|Self-as-context (ACT)]]**, holding self as content rather than as the observing self enables flexibility (Hayes et al., 2011)
+- Self as construction — Markus & Wurf, 1987; Baumeister, 1998
+- **[[Self-as-context|Self-as-context (ACT)]]** — Hayes et al., 2011
 
 ## Philosophy parallels
 
 - **[[Anatta|Anatta (non-self)]]** (Buddhism, Anatta-lakkhana Sutta)
-- **The self as useful fiction** (Hume, Treatise)
+- **Personal identity** (Hume, Treatise, I.4.6)
 - **[[Neti neti|Neti neti (not this, not this)]]** (Vedanta, Upanishads)
+
+## Sources
+
+- [David Hume, A Treatise of Human Nature (1739), Book I, Part IV, Section VI, Project Gutenberg](https://www.gutenberg.org/files/4705/4705-h/4705-h.htm) — Of personal identity
 
 ## Practice
 
-- Practise holding self lightly: use identity, narrative, and self-concept as tools, not as truths. "I am a [identity], and I am also the awareness in which this identity appears." This is not self-denial; it is self-freedom.
+- As a compendium exercise, repeat this observation and record what you find. No particular metaphysical answer is required.
 
 ## Related concepts
 

@@ -16,7 +16,14 @@ Persistent, impairing self-problems — chronic feelings of worthlessness, ident
 
 The WHO's depression fact sheet puts low self-worth on the symptom list:
 
-> "During a depressive episode, a person experiences a depressed mood (feeling sad, irritable, empty). They may feel a loss of pleasure or interest in activities. ... Other symptoms are also present, which may include: poor concentration; feelings of excessive guilt or low self-worth; hopelessness about the future; thoughts about dying or suicide; disrupted sleep; changes in appetite or weight; feeling very tired or low in energy." ([WHO depression fact sheet](https://www.who.int/news-room/fact-sheets/detail/depression))
+> "During a depressive episode, a person experiences a depressed mood (feeling sad, irritable, empty). They may feel a loss of pleasure or interest in activities. ... Other symptoms are also present, which may include:
+> - poor concentration
+> - feelings of excessive guilt or low self-worth
+> - hopelessness about the future
+> - thoughts about dying or suicide
+> - disrupted sleep
+> - changes in appetite or weight
+> - feeling very tired or low in energy." ([WHO depression fact sheet](https://www.who.int/news-room/fact-sheets/detail/depression))
 
 When a self-problem is persistent and impairing, the first question to answer is clinical rather than philosophical.
 

@@ -282,3 +282,25 @@ Short, item-keyed evidence notes (owner decision 2026-10-20, PROTOCOL-PRINCIPLES
 - Inherited parallels (APA 2022; Linehan 1993; Young et al. 2003) NOT source-checked —
   flagged, not certified. Saturation: 5 concept pages already cite SE076; no additional
   links warranted. Validator ok. DONE (no advisor QC due: item 15; next at item 16).
+
+## SE080 + SE071/SE076 advisor round-1 repairs (item 16 QC)
+- SE080: body replaced with the advisor's bounded version (philosophical starting
+  point, not settled finding); "traffic" gloss deleted (the by-relation claim went
+  with it); Plain words, For example, Practice replaced with the advisor's versions;
+  psychology parallels reduced to bare references (ACT observing-self claim unverified);
+  "The self as useful fiction" replaced with "Personal identity (Hume, Treatise, I.4.6)";
+  the bundle sentence restored as a bounded second sentence (verbatim, substring-verified
+  against the opened Gutenberg text) after the validator flagged 27 < 40 prose words.
+- SE001 Related-concepts clause: SE001's body read; it does present McAdams's
+  life-story model as quoted ("we invent stories to make sense of our own lives"), so
+  the inherited clause's description is accurate; retained.
+- SE071: "This is a specific clinical pattern requiring trauma-specific treatment"
+  replaced with the compendium-advice framing; "The fragmenting is not a metaphor"
+  replaced with the pattern-description framing (the ICD-11 quote calls these
+  disturbances in self-organisation).
+- SE076: the WHO blockquote now preserves the source's bulleted list format instead
+  of semicolon prose (the earlier compression mislabelled the result verbatim).
+- Mention hunts: "personal identity" and "bundle of perceptions" — The bundle theory
+  (Hume concept page) does not cite SE080 (proposed, bounded); Identity, Skandha,
+  Narrative identity inspected, no proposals (they relate to SE001/Anatta more
+  directly). All three files validate; SE080 validates 0 failed. Round 2 pending.
