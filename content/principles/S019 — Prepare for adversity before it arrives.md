@@ -14,12 +14,20 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 
 Premeditation of evils (praemeditatio malorum) is the practice of rehearsing misfortune in advance: poverty, illness, loss, death. Not to induce anxiety but to reduce shock. The mind that has rehearsed is not overwhelmed when reality arrives. Practise this daily, briefly, calmly.
 
+> "If you would not have a man flinch when the crisis comes, train him before it comes." (Seneca, Letters 18.6, Gummere translation, [Wikisource](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_18))
+
+Seneca's instruction in the same letter is concrete: set aside a certain number of days content with the scantiest and cheapest fare and coarse, rough dress, saying to yourself the while, "Is this the condition that I feared?" The reasoning behind it: it is while Fortune is kind that the soul should fortify itself against her violence, the way a soldier in days of peace drills so that he will not flinch in the crisis. The rehearsal is done from a position of safety, on purpose, in small doses.
+
 (Seneca, Letters 18, 24, 107; Med. III.1, VI.34; Disc. I.14, III.26.)
 
-**Plain words** Premeditation of evils means rehearsing misfortune ahead of time: poverty, illness, loss, death. Not to create anxiety but to reduce shock. A mind that has rehearsed isn't flattened when reality arrives. Do it daily, briefly, calmly.
+**Plain words**
+Rehearsing a misfortune before it arrives is a way of finding out whether the fear attaches to the thing or to the surprise. Seneca's version is blunt: live a few days on the cheapest food and clothes and ask whether that is really the condition you feared. The point of the exercise is discovering that you would still be a person inside the loss. Keep it brief and calm, and stop if it turns into looping dread.
 
 *For example:* Before a long flight with your elderly parent, you quietly think through what you'd do if she fell ill, then board feeling steadier.
 
+## Sources
+
+- [Seneca, Moral Letters to Lucilius, Letter 18 (Gummere translation, full text)](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_18) — opened; the flinch line and the poverty-rehearsal passage quoted verbatim
 ## Stories
 
 - [[ST148 — Diogenes with the Lantern|148. Diogenes with the Lantern]]

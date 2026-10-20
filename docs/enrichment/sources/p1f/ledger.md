@@ -72,3 +72,9 @@
 - Source opened: owner's Drive Delphi Complete Works of Epictetus (epub, file 1EDkL63FuSpabjbB7amxNodYocj_q_vaH), George Long translation, Discourses III.21 ("Against those who hastily rush into the use of the philosophic dress"), read via zipfile extraction.
 - Verbatim quote: the Euphrates passage ("And what was the harm for me to be known to be a philosopher by my acts and not by outward marks? See how I eat...") copied exactly from the extracted text, including Long's parenthetical clarifications. The material/end paraphrase (reason, not the cloak) checked against the same chapter.
 - Repairs: the seed's plain words were a near-verbatim replicate of the body (the owner's flagged pattern); replaced with a re-derivation (quiz vs moment of provocation). Example kept (already concrete). Inherited citation line kept as locator; Seneca/Meditations/Musonius not opened this session.
+
+### S019 — Prepare for adversity before it arrives (2026-10-20, worker-p1f-b7894e46)
+- State: seed → done.
+- Source opened: https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_18 (Seneca, Letters 18.5-6, Gummere translation, full text).
+- Verbatim quotes: blockquote "If you would not have a man flinch when the crisis comes, train him before it comes." and the inline "Is this the condition that I feared?" fragment; the scantiest-and-cheapest-fare paraphrase checked against the same letter. Straight quotes substituted for the source's curly ones.
+- Repairs: the seed's plain words were a near-verbatim replicate of the body (the owner's flagged pattern); replaced with a re-derivation (fear of the thing vs fear of the surprise; the still-a-person-inside-the-loss point; rumination stop-rule). Example kept (already concrete). Inherited citation line kept; Meditations/Discourses locators not opened this session.
