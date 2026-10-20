@@ -29,9 +29,10 @@
   "R015",
   "R053",
   "R057",
-  "R063"
+  "R063",
+  "R109"
  ],
- "in_progress": "R109",
+ "in_progress": null,
  "flagged": {
   "K001": "RESOLVED per supervisor disposition 2026-10-20 (secondary-carrier ACCEPT per E016/E070 precedent; in-body audit sentence reworded to reader-facing quoted-from-Shields provenance; Mitsuhara caution kept)",
   "SO041": "Reopened for QC: QC round 2: plumber second-opinion claim and practiced-domain contrast removed (not derived from displayed evidence)",
@@ -55,6 +56,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T10:27:20+00:00",
+ "updated": "2026-10-20T10:29:28+00:00",
  "band_done": false
 }
