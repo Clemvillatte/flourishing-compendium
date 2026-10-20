@@ -49,10 +49,9 @@
   "The specious present",
   "Self-concordant goals",
   "Resilience",
-  "Spotlight effect (Gilovich)",
-  "The having mode"
+  "Spotlight effect (Gilovich)"
  ],
- "in_progress": null,
+ "in_progress": "The having mode",
  "flagged": {
   "ERG Theory": "cited-in list (270+ Daoist principles) appears to be an auto-generated mapping; no principle text references ERG directly",
   "PEN Model": "cited-in list (614+ Daoist principles) appears to be an auto-generated mapping; no principle text references the PEN model directly",
@@ -71,11 +70,11 @@
   "Self-concordant goals": "Reopened for QC: QC: bare links, excerpt punctuation",
   "Resilience": "Reopened for QC: QC: suggests, at-risk scope, remove unsupported glosses",
   "Spotlight effect (Gilovich)": "Reopened for QC: QC: excerpt punctuation, unverified attributed line removed, anchoring gloss",
-  "The having mode": "Reopened for QC: QC: Perlego primary verification for three passages; mediated attribution for the rest"
+  "The having mode": "Reopened for QC: QC2: preserve the tend-to-demonstrate hedge on the two-modes passage"
  },
  "missing_concepts": [],
  "sources_checked": 36,
- "updated": "2026-10-20T07:06:21+00:00",
+ "updated": "2026-10-20T07:09:27+00:00",
  "band_done": false,
  "new_concepts": [
   {
