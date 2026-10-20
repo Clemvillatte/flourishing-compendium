@@ -12,11 +12,26 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BE — Overt Be
 ---
 > **Principle 59** — Engage in creative behaviour: making is well-being
 
-Creative behaviour — making art, music, writing, crafts, cooking, building — is associated with increased positive affect, flow, meaning, and well-being. It is a specific behavioural practice.
+The core evidence is a daily diary study. For 13 days, 658 young adults reported how much time they spent on creative activities, their positive and negative affect, and their flourishing:
 
-**Plain words** Making things — art, music, dinner, shelves, bad first drafts — is well-being behaviour, not a hobby for the talented. The process regulates, the product satisfies. You don't need to be good; you need to be making.
+> "A large sample of young adults (n = 658) took part in a 13-day daily diary study. Each day, they reported how much time they spent on creative activities, daily positive and negative affect, and daily flourishing. Lagged multilevel models revealed that people felt higher activated PA and flourishing following days when they reported more creative activity than usual." (Conner, DeYoung & Silvia, "Everyday creative activity as a path to flourishing", The Journal of Positive Psychology 13(2), 181-189, published online 2016, [DOI](https://doi.org/10.1080/17439760.2016.1257049))
 
-*For example:* The adult who "can't draw" spending an evening on a terrible watercolour and sleeping better — the skill was never the point. The hands were busy; the mind got quiet.
+The direction matters, and the authors checked it both ways:
+
+> "The other direction - PA predicting next-day creative activity - was not supported, suggesting that the cross-day effect was specific to creative activity predicting wellbeing." (Conner et al., 2016, [DOI](https://doi.org/10.1080/17439760.2016.1257049))
+
+They read the pattern as an upward spiral: creative behaviour raises next-day well-being, and that well-being is likely to feed same-day creativity ([Conner et al., 2016, DOI](https://doi.org/10.1080/17439760.2016.1257049)). Their summary: "Overall, these findings support the emerging emphasis on everyday creativity as a means of cultivating positive psychological functioning." ([Conner et al., 2016, DOI](https://doi.org/10.1080/17439760.2016.1257049))
+
+**Plain words**
+In a two-week diary study, people felt more enthusiasm and flourishing the day after they spent more time than usual making something. The effect ran one way: feeling good did not predict making anything the next day. Making came first. The study measured time spent creating, not talent.
+
+**For example**
+The adult who "can't draw" spending an evening on a terrible watercolour and reporting a better-than-usual next day. The diary study counted hours of making, not quality.
+
+## Sources
+
+- [Conner, DeYoung & Silvia, "Everyday creative activity as a path to flourishing", The Journal of Positive Psychology 13(2), 181-189 (published online 2016), DOI 10.1080/17439760.2016.1257049](https://doi.org/10.1080/17439760.2016.1257049) — 13-day diary study, n = 658; lagged multilevel models; abstract result and direction-specificity quote. PDF obtained via the DeYoung Personality Lab publications page (Google Drive); quotes read from the downloaded PDF.
+
 ## Psychology parallels
 
 - **Everyday creativity and well-being**, creative activity predicts positive affect and flourishing (Conner et al., 2016; Silvia et al., 2014)
