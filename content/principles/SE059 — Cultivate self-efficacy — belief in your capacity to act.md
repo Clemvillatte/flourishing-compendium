@@ -14,9 +14,19 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 
 Self-efficacy — the belief that you can execute the actions needed to achieve goals — is a strong predictor of effort, persistence, and achievement. It is distinct from self-esteem (it is domain-specific) and is built through experience.
 
+Bandura's founding statement gives the construct its reach and its sources:
+
+> "It is hypothesized that expectations of personal efficacy determine whether coping behavior will be initiated, how much effort will be expended, and how long it will be sustained in the face of obstacles and aversive experiences. ... In the proposed model, expectations of personal efficacy are derived from four principal sources of information: performance accomplishments, vicarious experience, verbal persuasion, and physiological states." (Bandura, 1977, p. 191)
+
+The Practice line on this page is those four sources turned into a training plan: mastery first, models second, persuasion and arousal read as readiness.
+
 **Plain words** Self-efficacy is the belief that your actions matter — that if you do the thing, the thing has a chance of working. It's not confidence, not self-esteem, not positivity. It's narrower and more useful: "I can execute this." And unlike confidence, it's built, not born.
 
 *For example:* Two equally talented people face the same hard project. The one who says "I've handled worse" starts on Monday. The one who says "I'm probably not the right person" starts never. Same skills. The belief is the difference between them.
+## Sources
+
+- [Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. Psychological Review, 84(2), 191-215](https://susana.org/_resources/documents/default/3-4524-7-1640787326.pdf) — abstract, p. 191
+
 ## Psychology parallels
 
 - **[[Self-efficacy|Self-efficacy theory (Bandura)]]**, belief in one's capacity to organise and execute actions (Bandura, 1977, 1997)

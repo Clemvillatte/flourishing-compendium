@@ -235,3 +235,16 @@ Short, item-keyed evidence notes (owner decision 2026-10-20, PROTOCOL-PRINCIPLES
 - Round 2: scoped PASS. Closeout applied: audit narration removed from the public
   parallels bullet (kept here in the ledger); Socrates attribution reduced to the
   bare original reference. DONE.
+
+## SE059 — Cultivate self-efficacy (item 12)
+- Source opened: Bandura 1977, Psychological Review 84(2) 191-215, susana.org full copy —
+  downloaded, pdftotext; both quoted sentences verified by substring check (True),
+  p. 191 (abstract page, article first page).
+- Body: added the founding-statement blockquote (effort/persistence determination +
+  four sources, both from the opened abstract) + a sentence tying the four sources
+  to the page's Practice line. Plain words (already a genuine re-derivation) and
+  For example kept.
+- Inherited parallels (Bandura 1997; Stajkovic & Luthans 1998) NOT source-checked —
+  flagged, not certified. Saturation: 5 concept pages already cite SE059 (incl.
+  Mastery experiences, Social learning theory); no additional links warranted.
+  Validator ok. DONE (no advisor QC due: item 12).
