@@ -12,23 +12,27 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 60** — Forgive but do not excuse
 
-Aristotle holds us responsible for our character, but he also recognises that some acts are done in ignorance or under compulsion. The distinction matters: voluntary wrongs require correction; involuntary wrongs require understanding. Hold yourself accountable without self-flagellation.
+Aristotle distinguishes voluntary from involuntary acts by where the moving principle sits. Acts under compulsion or owing to ignorance are involuntary; the voluntary is that of which the moving principle is in the agent, he being aware of the particular circumstances.
 
-(NE III.1, V.8-9.)
+> "Since that which is done under compulsion or by reason of ignorance is involuntary, the voluntary would seem to be that of which the moving principle is in the agent himself, he being aware of the particular circumstances of the action." ([NicEth III.1, Ross](https://people.bu.edu/wwildman/courses/wphil/readings/wphil_rdg09_nichomacheanethics_entire.htm))
 
-**Plain words** Aristotle holds you responsible for your character, but he also sees acts done in ignorance or under compulsion. Voluntary wrongs call for correction. Involuntary ones call for understanding. Be accountable without beating yourself up.
+**Plain words** Aristotle asks where the moving principle of an act sits. A wrong done by someone who knew what they were doing and was not forced is a different thing from a wrong done in ignorance or under compulsion. A suggested application is to ask, before forgiving or blaming, which of the two the act actually was.
 
-*For example:* Forgetting a friend's birthday because of a hospital stay is different from deliberately ignoring it. One needs an apology and understanding, the other needs a change.
+*For example:* (Imagined application.) A person forgets a friend's birthday during a hospital stay, and asks whether the forgetting was owing to the circumstances or to a choice not to attend to the friendship.
 
 ## Psychology parallels
 
-- **[[Self-compassion|Self-compassion research]]**, accepting imperfection without self-attack predicts well-being (Neff, 2003; MacBeth and Gumley, 2012)
-- **[[Self-forgiveness|Self-forgiveness research]]** (Hall and Fincham, 2005)
+- [[Self-compassion|Self-compassion research]] (Neff, 2003; MacBeth and Gumley, 2012)
+- [[Self-forgiveness|Self-forgiveness research]] (Hall and Fincham, 2005)
 
 ## Philosophy parallels
 
-- **[[Proper self-love|Proper self-love]]** (Aristotle, NE IX.8)
-- **[[Unconditional positive regard|Unconditional regard]]** (Rogers, On Becoming a Person)
+- [[Proper self-love|Proper self-love]] (Aristotle, NE IX.8)
+- [[Unconditional positive regard|Unconditional regard]] (Rogers, On Becoming a Person)
+
+## Sources
+
+- [NicEth III.1, Ross translation (people.bu.edu mirror)](https://people.bu.edu/wwildman/courses/wphil/readings/wphil_rdg09_nichomacheanethics_entire.htm)
 
 <!-- fc: reflections
 What are you punishing yourself for that was largely outside your control? And what are you excusing that you chose?
