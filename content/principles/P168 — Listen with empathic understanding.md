@@ -16,13 +16,13 @@ In a 1975 article, Carl Rogers describes what he calls an unappreciated way of b
 
 > It means entering the private perceptual world of the other and becoming thoroughly at home in it. It involves being sensitive, moment to moment, to the changing felt meanings which flow in this other person, to the fear or rage or tenderness or confusion or whatever, that he/she is experiencing. It means temporarily living in his/her life, moving about in it delicately without making judgments ...
 
-(Abridged; the passage continues.)
+(Abridged; the passage continues. Rogers, "Empathic: An Unappreciated Way of Being," 1975; PDF p. 3 of 10.)
 
-Two further facets turn this into a skill a listener can practise. Rogers writes that empathy "means frequently checking with him/her as to the accuracy of your sensings, and being guided by the responses you receive," and that it "means that for the time being you lay aside the views and values you hold for yourself in order to enter another's world without prejudice." Checking and laying aside are actions the listener performs, hour by hour, inside a conversation. Rogers calls the whole way of being "a complex demanding, strong yet subtle and gentle way of being."
+Rogers also describes checking one's understanding and temporarily setting aside one's own views. He writes that empathy "means frequently checking with him/her as to the accuracy of your sensings, and being guided by the responses you receive," and that it "means that for the time being you lay aside the views and values you hold for yourself in order to enter another's world without prejudice." Rogers calls the whole way of being "a complex demanding, strong yet subtle and gentle way of being."
 
 **Plain words** Listening with empathic understanding is something you do together with the other person: describe their situation as they experience it, then ask whether you have it right and let their answer correct you.
 
-*For example:* A friend says the family holiday got cancelled again. You say: "So the one weekend everyone counts on fell through." Then you ask whether that is how it feels.
+*For example (imagined):* A friend says the family holiday got cancelled again. You say: "So the one weekend everyone counts on fell through." Then you ask whether that is how it feels.
 
 ## Psychology parallels
 
