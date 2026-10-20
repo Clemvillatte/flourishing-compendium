@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>FCPlayer — adaptive soundscape player</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300..700&family=Source+Serif+4:opsz,wght@8..60,300..600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/player/fc-player.css">
+  <style>
+    :root, [data-theme='dark'] {
+      --bg:#16150e; --panel:#1d1c13; --panel2:#232218; --panel3:#2a2919;
+      --text:#e8e3d1; --muted:#a49e89; --faint:#7c7762;
+      --line:#2c2b1d; --line2:#413f2b;
+      --gold:#d3ad4e; --gold-bright:#e5c66c;
+      --shadow:0 1px 2px rgba(0,0,0,.3), 0 6px 20px rgba(0,0,0,.3);
+      --shadow-lg:0 12px 48px rgba(0,0,0,.55);
+      --font-display:'Fraunces', Georgia, serif;
+      --font-read:'Source Serif 4', Georgia, serif;
+      --font-ui:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0; min-height: 100vh;
+      background: var(--bg); color: var(--text);
+      font-family: var(--font-read);
+    }
+    .wrap { max-width: 680px; margin: 0 auto; padding: 64px 24px 140px; }
+    h1 {
+      font-family: var(--font-display);
+      font-weight: 600; font-size: 34px; line-height: 1.2;
+      margin: 0 0 8px; letter-spacing: .01em;
+    }
+    h1 em { color: var(--gold); font-style: normal; }
+    .lede { color: var(--muted); font-size: 17px; line-height: 1.6; margin: 0 0 40px; }
+    section { margin-top: 44px; }
+    h2 {
+      font-family: var(--font-display); font-weight: 600; font-size: 21px;
+      margin: 0 0 12px;
+    }
+    p { line-height: 1.7; color: var(--text); font-size: 15.5px; }
+    p.muted, li { color: var(--muted); }
+    code {
+      font-family: ui-monospace, 'SF Mono', Menlo, monospace;
+      font-size: 13px; background: var(--panel2); color: var(--gold-bright);
+      padding: 1px 6px; border-radius: 5px;
+    }
+    .card {
+      background: var(--panel); border: 1px solid var(--line);
+      border-radius: 14px; padding: 22px 24px; box-shadow: var(--shadow);
+    }
+    .btn {
+      font-family: var(--font-ui); font-size: 14px; font-weight: 600;
+      background: var(--gold); color: #17160c; border: none;
+      border-radius: 999px; padding: 9px 18px; cursor: pointer;
+    }
+    .btn:hover { background: var(--gold-bright); }
+    .filehint { font-size: 13px; color: var(--faint); margin-top: 10px; }
+    ul li { line-height: 1.7; margin-bottom: 6px; }
+    .kbd {
+      font-family: var(--font-ui); font-size: 12px; background: var(--panel3);
+      border: 1px solid var(--line2); border-radius: 5px; padding: 1px 7px;
+      color: var(--text);
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>A soundscape player for <em>long study sessions</em></h1>
+    <p class="lede">
+      FCPlayer is an adaptive soundscape player built for The Flourishing
+      Compendium. It plays an ordered set of 60-second AAC segments back to
+      back, gaplessly, with a designed loop fade, track selection, random
+      jump, session timers and an optional circadian filter that warms and
+      dims the sound late at night.
+    </p>
+
+    <section>
+      <div class="card">
+        <h2 style="margin-top:0">Try it</h2>
+        <p class="muted" style="margin-top:0">
+          Use the round button in the bottom-right corner. The demo below plays a
+          procedurally synthesized ambient set (8 segments, 8 minutes).
+        </p>
+        <button class="btn" id="open-player" data-fcp-toggle>Open the player</button>
+        <p class="filehint">
+          Prefer your own audio? <label style="cursor:pointer;text-decoration:underline">Choose your segment files (.aac, ordered)<input id="local-files" type="file" accept=".aac,.m4a,.mp3,audio/*" multiple hidden></label>
+          — they stay on your device, nothing is uploaded.
+        </p>
+      </div>
+    </section>
+
+    <section>
+      <h2>How it works</h2>
+      <p class="muted" style="margin-top:0">The engineering design in brief — the full report lives in <code>docs/DESIGN.md</code>:</p>
+      <ul>
+        <li><strong>Segment-based playback.</strong> A soundscape is an ordered list of 60-second AAC segments. Each segment is fetched, decoded, and scheduled on the Web&nbsp;Audio timeline, so joins are sample-accurate.</li>
+        <li><strong>Lookahead scheduling.</strong> A small scheduler keeps the next segments decoded and queued ahead of the playhead; if loading falls behind, the timeline is rebased and playback resumes after a short buffering gap.</li>
+        <li><strong>Designed transitions.</strong> The final segment fades out before the set loops back to the first segment's natural intro. Track jumps and random picks use the same transition language.</li>
+        <li><strong>Time-of-day adaptation.</strong> An optional circadian filter applies a gentle low-pass and level trim that follows the hour of day — brighter mid-day, warmer at night.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Controls</h2>
+      <ul>
+        <li><strong>Select</strong> — pick any track from the list; playback jumps there.</li>
+        <li><strong>Random</strong> — jump to a random track.</li>
+        <li><strong>Play / Pause / Resume / Stop</strong> — full transport control; pause preserves the exact position.</li>
+        <li><strong>Timer</strong> — 15/25/45-minute study timers with a gentle fade-out at the end.</li>
+        <li><strong>Volume</strong> and the OS media keys (MediaSession) work as expected.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Integrate into the wiki</h2>
+      <p class="muted" style="margin-top:0">Two lines in <code>site/index.html</code>:</p>
+      <p><code><link rel="stylesheet" href="assets/player/fc-player.css"></code><br>
+         <code><script src="assets/player/fc-player.js" defer></script></code></p>
+      <p>Then mount it once:</p>
+      <p><code>FCPlayer.mount({ title:'Focus Soundscape', subtitle:'study set · 16 min', source:{ dir:'assets/audio/segments/', pattern:'segment_%04d.aac', count:16 } });</code></p>
+    </section>
+  </div>
+
+  <script src="assets/player/fc-player.js"></script>
+  <script>
+    var instance = FCPlayer.mount({
+      title: 'Ambient Study',
+      subtitle: 'procedural demo set · 8 min',
+      source: { dir: 'assets/audio/demo/', pattern: 'demo_%04d.aac', count: 8 }
+    });
+
+    document.getElementById('open-player').addEventListener('click', function () {
+      if (instance && instance.ui) instance.ui.togglePanel();
+    });
+
+    document.getElementById('local-files').addEventListener('change', function (e) {
+      var files = Array.prototype.slice.call(e.target.files).sort(function (a, b) { return a.name < b.name ? -1 : 1; });
+      if (!files.length) return;
+      instance = FCPlayer.mount({
+        title: 'Your segments',
+        subtitle: files.length + ' files · local',
+        files: files
+      });
+      instance.engine.play();
+    });
+  </script>
+</body>
+</html>

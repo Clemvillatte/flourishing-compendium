@@ -1,0 +1,246 @@
+/* FCPlayer — styles for The Flourishing Compendium.
+ * Uses the wiki's CSS variables when present (so it follows the light/dark
+ * theme), with self-contained fallbacks so the component also works standalone. */
+
+.fcplayer-scope, .fcp-btn, .fcp-panel {
+  --fcp-bg: var(--panel, #1d1c13);
+  --fcp-bg2: var(--panel2, #232218);
+  --fcp-text: var(--text, #e8e3d1);
+  --fcp-muted: var(--muted, #a49e89);
+  --fcp-line: var(--line, #2c2b1d);
+  --fcp-gold: var(--gold, #d3ad4e);
+  --fcp-font-display: var(--font-display, 'Fraunces', Georgia, serif);
+  --fcp-font-ui: var(--font-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif);
+}
+
+/* ---------- floating button ---------- */
+
+.fcp-btn {
+  position: fixed;
+  right: 22px;
+  bottom: 22px;
+  z-index: 9990;
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+  border: 1px solid var(--fcp-line);
+  background: var(--fcp-bg);
+  color: var(--fcp-gold);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  box-shadow: var(--shadow, 0 4px 16px rgba(0,0,0,.3));
+  transition: transform .25s ease, box-shadow .25s ease;
+  padding: 0;
+}
+.fcp-btn:hover { transform: translateY(-2px); box-shadow: var(--shadow-lg, 0 8px 32px rgba(0,0,0,.4)); }
+.fcp-btn .fcp-btn-icon { width: 22px; height: 22px; fill: currentColor; }
+
+/* breathing halo while playing */
+.fcp-btn::after {
+  content: "";
+  position: absolute;
+  inset: -6px;
+  border-radius: 50%;
+  border: 1px solid var(--fcp-gold);
+  opacity: 0;
+  pointer-events: none;
+}
+.fcp-btn.is-playing::after {
+  animation: fcp-breathe 4.6s ease-in-out infinite;
+}
+@keyframes fcp-breathe {
+  0%   { transform: scale(.92); opacity: 0; }
+  35%  { opacity: .75; }
+  50%  { transform: scale(1.08); opacity: .28; }
+  100% { transform: scale(.92); opacity: 0; }
+}
+
+/* ---------- panel ---------- */
+
+.fcp-panel {
+  position: fixed;
+  right: 22px;
+  bottom: 88px;
+  z-index: 9991;
+  width: 300px;
+  background: var(--fcp-bg);
+  border: 1px solid var(--fcp-line);
+  border-radius: 14px;
+  padding: 18px 18px 14px;
+  color: var(--fcp-text);
+  font-family: var(--fcp-font-ui);
+  box-shadow: var(--shadow-lg, 0 12px 48px rgba(0,0,0,.55));
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(8px) scale(.98);
+  transition: opacity .22s ease, transform .22s ease, visibility .22s;
+}
+.fcp-panel.open {
+  opacity: 1;
+  visibility: visible;
+  transform: none;
+}
+
+.fcp-head { margin-bottom: 14px; }
+.fcp-title {
+  font-family: var(--fcp-font-display);
+  font-size: 19px;
+  font-weight: 600;
+  letter-spacing: .01em;
+}
+.fcp-sub {
+  font-size: 12.5px;
+  color: var(--fcp-muted);
+  margin-top: 2px;
+}
+
+/* controls row: random, play/pause, stop + time */
+.fcp-controls { display: flex; align-items: center; gap: 10px; margin-bottom: 12px; }
+.fcp-play {
+  width: 46px; height: 46px;
+  flex: 0 0 auto;
+  border-radius: 50%;
+  border: 1px solid var(--fcp-gold);
+  background: transparent;
+  color: var(--fcp-gold);
+  display: flex; align-items: center; justify-content: center;
+  cursor: pointer;
+  transition: background .2s ease, color .2s ease, transform .15s ease;
+  padding: 0;
+}
+.fcp-play:hover { background: var(--fcp-gold); color: var(--fcp-accent-on-gold, #17160c); }
+.fcp-play:active { transform: scale(.95); }
+.fcp-play svg { width: 22px; height: 22px; fill: currentColor; }
+.fcp-panel .fcp-ic-pause { display: none; }
+.fcp-panel.is-playing .fcp-ic-pause { display: block; }
+.fcp-panel.is-playing .fcp-ic-play { display: none; }
+.fcp-ctl {
+  width: 34px; height: 34px;
+  flex: 0 0 auto;
+  border-radius: 50%;
+  border: 1px solid var(--fcp-line);
+  background: var(--fcp-bg2);
+  color: var(--fcp-muted);
+  display: flex; align-items: center; justify-content: center;
+  cursor: pointer;
+  padding: 0;
+  transition: all .18s ease;
+}
+.fcp-ctl svg { width: 15px; height: 15px; fill: none; stroke: currentColor; stroke-width: 2.2; stroke-linecap: round; stroke-linejoin: round; }
+.fcp-ctl:hover { border-color: var(--fcp-gold); color: var(--fcp-text); }
+.fcp-panel.is-playing .fcp-stop rect { fill: currentColor; stroke: none; }
+
+.fcp-time { font-variant-numeric: tabular-nums; font-size: 13px; color: var(--fcp-muted); }
+.fcp-panel.is-playing .fcp-pos { color: var(--fcp-text); }
+.fcp-sep { margin: 0 4px; opacity: .5; }
+
+/* volume */
+.fcp-vol {
+  width: 100%;
+  height: 3px;
+  -webkit-appearance: none; appearance: none;
+  background: var(--fcp-line);
+  border-radius: 2px;
+  outline: none;
+  margin: 2px 0 14px;
+  cursor: pointer;
+}
+.fcp-vol::-webkit-slider-thumb {
+  -webkit-appearance: none; appearance: none;
+  width: 13px; height: 13px; border-radius: 50%;
+  background: var(--fcp-gold);
+  border: none;
+  cursor: pointer;
+}
+.fcp-vol::-moz-range-thumb {
+  width: 13px; height: 13px; border-radius: 50%;
+  background: var(--fcp-gold); border: none; cursor: pointer;
+}
+
+/* timer chips */
+.fcp-timers { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; margin-bottom: 10px; }
+.fcp-tlabel { font-size: 11px; text-transform: uppercase; letter-spacing: .12em; color: var(--fcp-muted); margin-right: 2px; }
+.fcp-chip {
+  font-family: var(--fcp-font-ui);
+  font-size: 12px;
+  padding: 3px 10px;
+  border-radius: 999px;
+  border: 1px solid var(--fcp-line);
+  background: var(--fcp-bg2);
+  color: var(--fcp-muted);
+  cursor: pointer;
+  transition: all .18s ease;
+}
+.fcp-chip:hover { border-color: var(--fcp-gold); color: var(--fcp-text); }
+.fcp-chip.on { background: var(--fcp-gold); border-color: var(--fcp-gold); color: var(--fcp-accent-on-gold, #17160c); font-weight: 600; }
+
+/* circadian toggle */
+.fcp-circ {
+  display: flex; align-items: center; gap: 8px;
+  font-size: 12.5px; color: var(--fcp-muted);
+  cursor: pointer; user-select: none;
+}
+.fcp-circ input { accent-color: var(--fcp-gold); width: 14px; height: 14px; cursor: pointer; }
+.fcp-circ:hover { color: var(--fcp-text); }
+
+.fcp-timerdisplay {
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 1px solid var(--fcp-line);
+  font-size: 12px;
+  color: var(--fcp-gold);
+  font-variant-numeric: tabular-nums;
+}
+
+/* track list */
+.fcp-tracks-label {
+  margin-top: 12px;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: .12em;
+  color: var(--fcp-muted);
+  margin-bottom: 6px;
+}
+.fcp-tracks {
+  max-height: 168px;
+  overflow-y: auto;
+  border: 1px solid var(--fcp-line);
+  border-radius: 10px;
+  background: var(--fcp-bg2);
+  scrollbar-width: thin;
+  scrollbar-color: var(--fcp-line2) transparent;
+}
+.fcp-tracks::-webkit-scrollbar { width: 8px; }
+.fcp-tracks::-webkit-scrollbar-thumb { background: var(--fcp-line2); border-radius: 4px; }
+.fcp-track {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 7px 12px;
+  font-family: var(--fcp-font-ui);
+  font-size: 13px;
+  color: var(--fcp-muted);
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid var(--fcp-line);
+  cursor: pointer;
+  text-align: left;
+  transition: background .15s ease, color .15s ease;
+}
+.fcp-track:last-child { border-bottom: none; }
+.fcp-track:hover { background: var(--fcp-rowhover, rgba(255,255,255,.04)); color: var(--fcp-text); }
+.fcp-track.on { color: var(--fcp-gold); background: var(--fcp-sel, rgba(211,173,78,.08)); }
+.fcp-track.on .fcp-tk-num { font-weight: 600; }
+.fcp-tk-num { font-variant-numeric: tabular-nums; }
+.fcp-tk-dur { font-variant-numeric: tabular-nums; font-size: 12px; opacity: .75; }
+
+/* small screens */
+@media (max-width: 480px) {
+  .fcp-btn { right: 16px; bottom: 16px; }
+  .fcp-panel { right: 16px; left: 16px; width: auto; bottom: 80px; }
+  .fcp-tracks { max-height: 140px; }
+}
