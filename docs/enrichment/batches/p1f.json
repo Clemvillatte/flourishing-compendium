@@ -36,7 +36,7 @@
   "R081",
   "R101"
  ],
- "in_progress": null,
+ "in_progress": "S009",
  "flagged": {
   "D074": "Reopened for QC: milestone QC: inference-level corrections",
   "B006": "Reopened for QC: QC r2: traffic example",
@@ -54,6 +54,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 22,
- "updated": "2026-10-20T04:08:19+00:00",
+ "updated": "2026-10-20T04:08:58+00:00",
  "band_done": false
 }
