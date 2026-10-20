@@ -66,3 +66,28 @@ opened text at the recorded URL.
   the chapters address promising and endurance, not calendar practice. Inherited
   psychology parallels (Cialdini commitment-consistency; busyness-as-status)
   preserved untouched and NOT verified this session.
+
+## B032 — Balance the five faculties (2026-10-20)
+
+- OPENED: Edward Conze, "The Way of Wisdom: The Five Spiritual Faculties"
+  (Wheel Publication 65, adapted from Nanamoli's Visuddhimagga translation),
+  https://accesstoinsight.org/lib/authors/conze/wheel065.html — "5. The Balance
+  of the Faculties" section.
+- OPENED: Bhikkhu Bodhi, "The Five Spiritual Faculties" (BPS essay),
+  https://accesstoinsight.org/lib/authors/bodhi/bps-essay_22.html — five
+  faculties list, the two pairs, mindfulness standing over the pairs.
+- Verified verbatim: both blockquotes (faith-strong/vigor-cannot-exert;
+  concentration-indolence/vigor-agitation). The mindfulness sentence is a
+  paraphrase of the opened "Strong mindfulness, however, is needed in all
+  instances; for mindfulness protects the mind from lapsing into agitation
+  through faith, vigor and wisdom... and from lapsing into indolence through
+  concentration" — no quotation marks used on the page for it.
+- LOCATOR CORRECTION: the seed cited "(SN 48; Dhammapada 144.)". Dhp 144
+  (farmer/fletcher/carpenter passage) concerns discipline, not the balance of
+  faculties, and the balance teaching is commentarial (Visuddhimagga), not in
+  SN 48 itself; the body now cites what it actually uses. SN 48's membership
+  of the five in the requisites of awakening is taken from the opened Bodhi
+  essay, not from an opened SN 48 sutta text.
+- LIMITS: inherited psychology parallel (Sonnentag and Fritz 2007; inverted-U)
+  and philosophy parallel (Aristotle NE II mean) preserved untouched and NOT
+  verified this session.

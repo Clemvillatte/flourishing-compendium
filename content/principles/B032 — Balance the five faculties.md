@@ -12,13 +12,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 32** — Balance the five faculties
 
-Faith, energy, mindfulness, concentration, and wisdom must balance each other: too much faith without wisdom is credulity; too much energy without calm is agitation; too much calm without energy is torpor. Mindfulness watches the balance.
+The Buddha's requisites of awakening include five faculties: faith, energy, mindfulness, concentration and wisdom. The commentarial tradition pairs them: faith with wisdom, and energy with concentration, each pair holding the other's excess in check. The Visuddhimagga explains that any faculty grown too strong stops the rest from doing their work. (SN 48; Visuddhimagga, in Conze.)
 
-(SN 48; Dhammapada 144.)
+> "For if the faith faculty is strong and the others weak, then the vigor faculty cannot perform its function of exerting, the mindfulness faculty its function of attending to the object, the concentration faculty its function of excluding distraction, the wisdom faculty its function of seeing." (Visuddhimagga, in [Conze](https://accesstoinsight.org/lib/authors/conze/wheel065.html))
 
-**Plain words** Faith, energy, mindfulness, concentration, and wisdom must balance each other: too much faith without wisdom is credulity; too much energy without calm is agitation; too much calm without energy is torpor. Mindfulness watches the balance — it's the instrument checking the other gauges.
+> "If there is too much of concentration and too little of vigor, the mind will be overpowered by indolence to which concentration inclines. But if vigor is too strong and concentration too weak, the mind will be overpowered by agitation to which vigor inclines." (Visuddhimagga, in [Conze](https://accesstoinsight.org/lib/authors/conze/wheel065.html))
 
-*For example:* The new meditator sprinting on enthusiasm for three weeks then quitting — energy outran faith; the balance collapsed.
+Strong mindfulness, says the same text, is needed in all instances, because it protects the mind from lapsing into agitation through faith, vigor and wisdom, and into indolence through concentration.
+
+**Plain words**
+Take something you are working at and ask two questions. First, is your confidence outrunning your own checking of it, or are you checking so hard that nothing moves you? Second, are you straining without settling, or settled without any strain? Wherever you find the lopsidedness, lean on its pair: test the belief, or act on it; slow down, or wake up. Mindfulness is the habit of noticing which correction is needed.
+
+*For example:* A new meditator sprints on enthusiasm for three weeks and then quits. In the balance language, energy ran far ahead of concentration, and the compendium's correction would be a smaller, steadier sitting.
+
+## Sources
+
+- [The Way of Wisdom: The Five Spiritual Faculties, Edward Conze, Access to Insight](https://accesstoinsight.org/lib/authors/conze/wheel065.html) — the Balance of the Faculties section (adapted from Ñanamoli's translation of the Visuddhimagga, pp. 129-30)
+- [The Five Spiritual Faculties, Bhikkhu Bodhi, Access to Insight](https://accesstoinsight.org/lib/authors/bodhi/bps-essay_22.html) — the five faculties and the two pairs
 
 ## Psychology parallels
 
