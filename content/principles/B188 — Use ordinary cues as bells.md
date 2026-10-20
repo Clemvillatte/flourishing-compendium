@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 188** — Use ordinary cues as bells
 
-Thich Nhat Hanh's tradition treats bells as appointment reminders for the present moment, and the practice explicitly extends beyond temple bells to any recurring sound. His community uses the ringing telephone exactly as they use the bell, which turns the day's interruptions into the practice itself. (TNH, Peace Is Every Step; dharma talk, August 6, 1997.)
+Thich Nhat Hanh's tradition treats bells as appointment reminders for the present moment, and the practice explicitly extends beyond temple bells to other recurring sounds. His community uses the ringing telephone exactly as they use the bell; extending the substitution to further cues of one's own is an adaptation of the same move. (TNH, Peace Is Every Step; dharma talk, August 6, 1997.)
 
 > "In my tradition, we use the temple bells to remind us to come back to the present moment. Every time we hear the bell, we stop talking, stop our thinking, and return to ourselves, breathing in and out, and smiling. Whatever we are doing, we pause for a moment and just enjoy our breathing." (TNH, Peace Is Every Step, 1995, pp. 18-19)
 
@@ -21,7 +21,7 @@ Thich Nhat Hanh's tradition treats bells as appointment reminders for the presen
 The verse used with the breath is short enough to run internally at a traffic light: "Listen, listen. This wonderful sound brings me back to my true self." (TNH, Peace Is Every Step, pp. 18-19)
 
 **Plain words**
-Pick sounds your day already makes: the phone, a message chime, the kettle, a red light in view. Assign each one the same job: when you hear it, stop what you are saying in your head and take one breath. The cue does the remembering for you, so the practice does not depend on your mood.
+Pick cues your day already makes: sounds such as the phone, the kettle, or a message chime, and sights such as a red light. When the cue appears, stop what you are saying in your head and take one breath. The cue carries the reminder, so you do not have to remember it yourself.
 
 *For example:* Every red light on the commute: one conscious breath instead of one curse, twice daily.
 

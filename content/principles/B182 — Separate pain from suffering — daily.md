@@ -21,7 +21,7 @@ The Sallatha Sutta pictures pain arriving as two arrows: the first is the bodily
 The sutta leaves the first arrow alone; it works on the second.
 
 **Plain words**
-The headache is one event; your commentary on the headache is a second one. In daily life you can check: what is the actual sensation right now, and what am I adding to it? Rain is wet; the outrage about rain is a separate event. The sutta's trained disciple still feels the first arrow and treats it; the second arrow is the one you can decline to shoot.
+The headache is one event; your commentary on the headache is a second one. In daily life you can check: what is the actual sensation right now, and what am I adding to it? Rain is wet; the outrage about rain is a separate event. The sutta's trained disciple still feels the first arrow; the second arrow is the one you can decline to shoot.
 
 *For example:* The cold is real: put on a coat. The twenty-minute internal monologue about the cold is a second, colder weather system.
 

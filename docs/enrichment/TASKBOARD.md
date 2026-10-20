@@ -66,7 +66,7 @@ The owner's primary-source library is in `docs/PRIMARY-SOURCES.md`.
 | p1m | selected ranks 902-1036 | P090 to B152 (30 priority items) | p1m | done (30/30; band closed by worker-p1m-a4d81c92; 11 items this session with milestone QC rounds; Kashdan-Rottenberg B125 label flagged for supervisor correction) | worker-p1m-a4d81c92 | 2026-10-20 |
 | p1n | selected ranks 1037-1142 | B164 to P036 (30 priority items) | p1n | done | worker-p1n-9c31f0d8 (30/30 items; 28 advisor-QC'd, P032+P036 pending review — see supervisor note) | 2026-10-20 |
 | p1o | selected ranks 1143-1320 | P040 to B042 (30 priority items) | p1o | claimed (takeover at ~04:0xZ; stale 79 min; 5/30 done: B014-B036; B042 first per D/B priority, then P items) | worker-p1o-6ae3d782 | 2026-10-20 |
-| p1p | selected ranks 1321-1386 | B046 to D028 (30 priority items) | p1p | claimed | worker-p1p-c23eecde (takeover from stale worker-p1p-27eaf6bd; 21/30 done, 9 B items left: B161, B178, B180, B182, B185, B188, B189, B193, B194) | 2026-10-20 |
+| p1p | selected ranks 1321-1386 | B046 to D028 (30 priority items) | p1p | done | worker-p1p-c23eecde (30/30; takeover from stale worker-p1p-27eaf6bd at 21/30; final 9 B items done this session with advisor QC at items 1, 5 and at close; see notes + ledger) | 2026-10-20 |
 | p1q | selected ranks 1387-1411 + 1469-1473 | D033 to P020 (30 priority items) | p1q | done | supervisor-1a2b3c (owner-directed contribution; supervisor baton also held) | 2026-10-20 |
 | p1r | selected ranks 240-1137 | P194 to P167 (30 priority items) | p1r | claimed | worker-p1m-a4d81c92 (band p1m closed 30/30; claiming p1r) | 2026-10-20 |
 | p1s | selected ranks 1138-1349 | P168 to D106 (30 priority items) | p1s | CLAIMED (takeover at 03:19Z from worker-p1s-3f7c9a52, owner-reported offline; baton stale 21 min; no in-flight item lost; B169 was its last done). 23/30 done, 7 left: B172/B181/B190 first per D/B priority, then P168/P175/P176/P177; PLUS 14 QC-pending repairs in state flags: D094/D103/D106/B078/B080/B092/B096/B109/B049/B113/B114/B126/B141/B150; B038 cross-band incident awaiting supervisor disposition | worker-p1u-8a7ab96d (p1u released with checkpoint; p1s taken over at 03:19Z) | 2026-10-20 |
@@ -444,3 +444,33 @@ principles queue is untouched.
   capacity limits" with no live owner — orphaned WIP, needs takeover or
   reset by someone with w1d rights. No files outside p1v were edited;
   resuming p1v (P098 in progress).
+
+- 2026-10-20 (worker-p1p-c23eecde, band closed, TO SUPERVISOR): p1p complete
+  (30/30). Took over from stale worker-p1p-27eaf6bd at 21/30 and did the
+  remaining 9 (B161, B178, B180, B182, B185, B188, B189, B193, B194), all
+  Buddhist per the owner's D/B-first priority. Advisor QC at item 1 (B161),
+  milestone item 5 (B185, round covering B178/B180/B182), and a final
+  close-out round whose repairs are applied: B182 ("treats it" removed),
+  B188 (visual/auditory cues separated, mood-independence claim removed,
+  further-cue extension labeled an adaptation), B189 (grounding-outcome
+  promises removed, exercise framing), B193 (Dhp-21 pairing re-labeled as
+  this page's comparison, verse line breaks restored, inbox example replaced
+  with imagined framing, misquote "path of death" corrected against the
+  opened page), B194 (self-sufficiency emphasis narrowed to the Dhamma-
+  pairing the sutta states; mental objects restored to plain words; outcome
+  promise removed). All 9 files validate ok against the takeover commit
+  d1135667; state shows 30/30 with no in_progress; B185 long quote
+  re-verified character-for-character against the opened Archive.org PDF.
+  Source substitutions (quotes come from the opened works; original locators
+  inherited): B185 Understanding Our Mind -> Heart of the Buddha's Teaching;
+  B188 Miracle of Mindfulness -> Peace Is Every Step + Aug 6 1997 dharma talk;
+  B189 MN 10 only. INCIDENT, documented: B178's first write accidentally
+  replaced the original front-matter/wikilinks/reflections (validator
+  caught it); restored from commit 6e422445, re-applied edits, validated;
+  its state done-transition also initially failed silently behind the
+  failed validation (&& chain) and was re-run; see ledger. Inherited
+  protected wikilink labels still carrying unopened empirical claims
+  (B193 Cozzolino death reflection; B161 Bandura/Rotter; B178 Vallerand;
+  B182 McCracken/Vowles; B189 Linehan/Mehling/Seth; B194 Rotter/Bowlby)
+  preserved per the wikilink rule — evidence disposition is your call.
+  Releasing the p1p baton; proceeding to the next band per claim order.

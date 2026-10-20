@@ -12,20 +12,24 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 193** — Live with death lightly in view
 
-The Upajjhatthana Sutta lists five facts to reflect on often, whatever one's station: subject to aging, to illness, to death; bound to part with everything dear and appealing; owner of one's actions. The reflection is prescribed as a repeated practice rather than a mood, and the Dhammapada pairs it with the language of heedfulness, the path to the Deathless set against the path of death. (AN 5.57; Dhp 21.)
+The Upajjhatthana Sutta lists five facts to reflect on often, whatever one's station: subject to aging, to illness, to death; bound to part with everything dear and appealing; owner of one's actions. The reflection is prescribed as a repeated practice rather than a mood. This page sets it beside the Dhammapada's heedfulness verses, the path to the Deathless set against the path of death. (AN 5.57; Dhp 21.)
 
 > "There are these five facts that one should reflect on often, whether one is a woman or a man, lay or ordained." (AN 5.57, Thanissaro)
 
 > "'I am subject to death, have not gone beyond death.'" (AN 5.57, Thanissaro)
 
-> "Heedfulness: the path to the Deathless. / Heedlessness: the path to death. / The heedful do not die. / The heedless are as if already dead." (Dhp 21, Thanissaro)
+> "Heedfulness: the path to the Deathless.
+> Heedlessness: the path to death.
+> The heedful do not die.
+> The heedless are as if
+> already dead." (Dhp 21, Thanissaro)
 
-The sutta's remaining facts keep the reflection honest: aging and illness arrive on their own schedule, separation from what is dear comes regardless, and action is the one item on the list that is owned. Read this way, the fact of death works as a sorting mechanism rather than a dread.
+The sutta's remaining facts keep the reflection honest: aging and illness arrive on their own schedule, separation from what is dear comes regardless, and action is the one item on the list that is owned.
 
 **Plain words**
-Say the facts to yourself plainly: I am subject to aging, illness, and death; I will part with what is dear; my actions are my own. Then look at today's list with those facts in view. What "lightly in view" means is that the fact does the sorting, and most trivia shrinks on contact without any dread being required.
+Say the facts to yourself plainly: I am subject to aging, illness, and death; I will part with what is dear; my actions are my own. Then try the reflection on today's list: pick two items, one that seems urgent and one that seems small, and ask which of the two you would still choose with the five facts in view. That comparison, repeated, is the practice the sutta prescribes.
 
-*For example:* The inbox, viewed from a deathbed: about four of the 4,000 emails mattered. The lens, applied early, saves decades.
+*For example:* Imagine two free hours: answering backlog email, or calling the person you keep meaning to call. Run both through the five facts and notice which one survives.
 
 ## Sources
 

@@ -19,9 +19,9 @@ The Satipatthana Sutta makes the body the first frame of reference, and its inst
 > "He trains himself, 'I will breathe in sensitive to the entire body.' He trains himself, 'I will breathe out sensitive to the entire body.' He trains himself, 'I will breathe in calming bodily fabrication.' He trains himself, 'I will breathe out calming bodily fabrication.'" (MN 10, Thanissaro)
 
 **Plain words**
-When thoughts race, the body is the nearest thing that is not racing. Feel the feet on the floor, the weight in the chair, the breath moving. The sutta's version is deliberately physical: sit erect, know the breath as long or short, and let it calm the body. The mind time-travels; the feet stay where they are.
+When thoughts race, the body is a place attention can go. The sutta's instruction is physical: sit erect, know the breath as long or short, breathe sensitive to the whole body, calming it. A desk version runs: feel the feet, the chair, the breath, and note the breath's length before returning to the task.
 
-*For example:* The 3am worry spiral: five senses on the pillow, the weight of the blanket. Locating each one drags the mind back to now.
+*For example:* Imagine the 3am worry spiral. Instead of arguing with the thoughts, you locate the pillow, the blanket, the mattress, and follow one breath, noting whether it is long or short.
 
 ## Sources
 

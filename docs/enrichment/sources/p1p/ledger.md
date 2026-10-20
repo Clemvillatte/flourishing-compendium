@@ -443,7 +443,7 @@ priority, then B items in manifest order (manifest lists bare IDs; no titles).
 
 ### B185 — Water the good seeds (2026-10-20, worker-p1p-c23eecde)
 - State: seed → done. MILESTONE QC (item 5 of session): advisor review applied.
-- Sources opened: Archive.org PDF of The Heart of the Buddha's Teaching (TNH) — seeds passage (ch. 25, "The Six Paramitas") and "These seeds of happiness, love, loyalty, and reconciliation need watering every day" (ch. 14, "Right Diligence"); https://www.lionsroar.com/watering-the-seeds-of-happiness/ — seeds/bija, store consciousness, mindfulness meeting of anger.
+- Sources opened: https://ia902904.us.archive.org/view_archive.php?archive=/5/items/thichnhathanh/THICH%20NHAT%20HANH.rar&file=THICH%20NHAT%20HANH/EBOOK/ENG/the-heart-of-buddhas-teaching-hanh-thich-nhat.pdf (Archive.org PDF of The Heart of the Buddha's Teaching, TNH) — seeds passage (ch. 25, "The Six Paramitas") and "These seeds of happiness, love, loyalty, and reconciliation need watering every day" (ch. 14, "Right Diligence"); https://www.lionsroar.com/watering-the-seeds-of-happiness/ — seeds/bija, store consciousness, mindfulness meeting of anger. Long quote re-verified character-for-character against the PDF at close (2026-10-20).
 - Locator changed from Understanding Our Mind to The Heart of the Buddha's Teaching: the quotes come from the opened book. No page numbers invented (PDF showed none); chapter locators given instead.
 - QC repairs: removed invented one-hour meeting effect (example now imagined framing); removed "rehearsed resentment" mechanism claim (replaced by Hanh's own account); plain words replaced with the appreciate-and-tell exercise plus the mindfulness-meeting instruction (grounded in Lion's Roar).
 
@@ -455,7 +455,7 @@ priority, then B items in manifest order (manifest lists bare IDs; no titles).
 
 ### B188 — Use ordinary cues as bells (2026-10-20, worker-p1p-c23eecde)
 - State: seed → done.
-- Sources opened: https://tnhmeditation.org/inviting-the-bell/ (passage drawn from TNH, Peace Is Every Step, 1995, pp. 18-19) and https://www.abuddhistlibrary.com/.../Dharma Talk given by Thich Nhat Hanh on August 6.htm ("Walking into the Kingdom of God," August 6, 1997).
+- Sources opened: https://tnhmeditation.org/inviting-the-bell/ (passage drawn from TNH, Peace Is Every Step, 1995, pp. 18-19) and https://www.abuddhistlibrary.com/Buddhism/G%20-%20TNH/TNH/Walking%20into%20the%20Kingdom%20of%20God/Dharma%20Talk%20given%20by%20Thich%20Nhat%20Hanh%20on%20August%206.htm ("Walking into the Kingdom of God," August 6, 1997).
 - Verbatim quotes: Peace Is Every Step bell passage (pp. 18-19); dharma-talk telephone passage ("we listen to the telephone and we go back to ourselves by the transportation of our in-breath"); inline verse "Listen, listen. This wonderful sound brings me back to my true self."
 - Locator changed from The Miracle of Mindfulness to Peace Is Every Step + dharma talk (the books/talks actually quoted); noted for supervisor. Example ("twenty free sessions") trimmed to the original red-light breath framing without the invented count.
 
