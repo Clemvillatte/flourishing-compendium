@@ -44,11 +44,11 @@
   "AT016",
   "AT035",
   "AT039",
-  "AT049",
   "AT051",
   "AT063",
   "AT067",
-  "AT042"
+  "AT042",
+  "AT049"
  ],
  "in_progress": null,
  "flagged": {
@@ -83,10 +83,11 @@
   "AT016": "Reopened for QC: advisor milestone QC FAIL: everyday-multitasking generalization, universal 200ms price, kitchen-pause mislabel",
   "AT035": "Reopened for QC: advisor milestone QC FAIL: frequency overstatement, causal-direction suppression, invented provenance, established-benefits framing",
   "AT039": "Reopened for QC: advisor milestone QC FAIL: byline wrong (no Fox), 414/conditions misdescribed, prevalence claim, mechanism overreach",
-  "AT042": "Reopened for QC: advisor milestone QC FAIL: temporal-sequence claim, one-night narrowing, lapse interpretation, unverified efficacy, staging"
+  "AT042": "Reopened for QC: advisor milestone QC FAIL: temporal-sequence claim, one-night narrowing, lapse interpretation, unverified efficacy, staging",
+  "AT049": "Reopened for QC: advisor milestone QC FAIL: unverified quote sentence, anchor-vs-pacing conflation, unsupported rankings, storm metaphor"
  },
  "missing_concepts": [],
  "sources_checked": 15,
- "updated": "2026-10-20T03:41:57+00:00",
+ "updated": "2026-10-20T03:42:04+00:00",
  "band_done": false
 }
