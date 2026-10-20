@@ -23,3 +23,6 @@ No advisor tool available; QC is self-QC only.
 
 ## SE051 Recognise self-expansion
 - Opened: Aron et al. 2022 abstract (SAGE page, via search result), Aron et al. 2000 PubMed abstract (PMID 10707334). Quote verbatim from the 2022 abstract. Original "not comfort, but expansion"/"boredom is your self asking to be enlarged"/"marriage was an expansion problem" removed or labelled as interpretation. Aron & Aron 1986, Reissman 1993 not opened.
+
+## SE052 Cultivate the relational self
+- Opened: Markus & Kitayama 1991 (Stanford PDF text; quotes verbatim from pp. 224-225), Cross et al. 2011 PubMed abstract. Paper describes construal differences, does not rank them; 'not weakness/codependency' is the entry's stance, said so. Original 'lone self is the odd invention historically' removed (unsourced). Ubuntu/Tutu, Kitayama 2010, Church 2000 not opened.

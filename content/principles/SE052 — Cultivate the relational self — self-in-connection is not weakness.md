@@ -12,11 +12,23 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 52** — Cultivate the relational self: self-in-connection is not weakness
 
-The relational self — the self defined in part through relationships and connection — is not a weaker or less developed self. In many cultures, it is the norm. Valuing connection is not codependency; it is a legitimate way of being a self.
+> for many cultures of the world, the Western notion of the self as an entity containing significant dispositional attributes, and as detached from context, is simply not an adequate description of selfhood.
 
-**Plain words** Being defined partly through your relationships isn't a weakness or an unfinished self — it's how most humans are built, and in much of the world it's the healthy default. "I'm someone's daughter, someone's friend, part of this community" is not codependency. It's a self with roots.
+(Markus and Kitayama, "Culture and the Self: Implications for Cognition, Emotion, and Motivation," Psychological Review 98(2), 1991, p. 225; text read in the [Stanford-hosted PDF](https://web.stanford.edu/~hazelm/publications/1991%20Markus%20Kitayama%20Culture%20and%20the%20self.pdf) and the [APA abstract](https://psycnet.apa.org/doi/10.1037/0033-295X.98.2.224).)
 
-*For example:* The grandmother who says "I am the family's memory" — keeper of the recipes, the dates, the grievances and the reconciliations — isn't lacking an identity. She has a role, a history, and a place. The lone self that owes nothing to anyone is the odd invention, historically speaking.
+The authors describe an interdependent construal of the self, in which people are "motivated to find a way to fit in with relevant others, to fulfill and create obligation, and in general to become part of various interpersonal relationships." The independent construal, by contrast, "is most clearly exemplified in some sizable segment of American culture, as well as in many Western European cultures."
+
+The paper describes how construals of the self differ across cultures. It does not rank them, and it says nothing on codependency or on whether one construal is weaker. That a relational self is "not weakness" is this entry's position. Cross, Hardin and Gercek-Swing (2011) review how independent, relational and interdependent self-construal have been used since Markus and Kitayama ([PubMed](https://pubmed.ncbi.nlm.nih.gov/20716643/)), so the terms are related but not identical.
+
+**Plain words** Many people's sense of self is built partly from their ties to others. Research on culture describes this as one common way a self can be organized, and it does not treat it as a lesser one.
+
+*For example:* A grandmother who calls herself the family's memory, keeper of the recipes and the dates, has a clear role and place. Her identity is a different shape from the lone-individual model, with nothing missing.
+
+## Sources
+
+- [Markus, H. R., & Kitayama, S. (1991). Culture and the self. Psychological Review 98(2), 224-253 (Stanford-hosted PDF)](https://web.stanford.edu/~hazelm/publications/1991%20Markus%20Kitayama%20Culture%20and%20the%20self.pdf) — opening pages read; p. 225 quotations
+- [Cross, S. E., Hardin, E. E., & Gercek-Swing, B. (2011). The what, how, why, and where of self-construal. Pers Soc Psychol Rev 15(2), 142-179](https://pubmed.ncbi.nlm.nih.gov/20716643/) — PubMed abstract opened
+
 ## Psychology parallels
 
 - **[[Interdependent self-construal|Interdependent self-construal (Markus & Kitayama)]]**, the relational self is normal and adaptive, particularly in non-Western cultures (Markus & Kitayama, 1991; Cross et al., 2011)

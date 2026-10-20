@@ -14,11 +14,12 @@
   "SE029",
   "SE030",
   "SE046",
-  "SE051"
+  "SE051",
+  "SE052"
  ],
  "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T10:14:28+00:00"
+ "updated": "2026-10-20T10:14:58+00:00"
 }
