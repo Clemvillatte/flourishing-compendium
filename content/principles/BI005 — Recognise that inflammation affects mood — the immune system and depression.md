@@ -23,10 +23,10 @@ The review also marks the path from one to the other: when immune activation con
 > "Inflammation is therefore an important biological event that might increase the risk of major depressive episodes, much like the more traditional psychosocial factors." (Dantzer et al., 2008, [via PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC2919277/))
 
 **Plain words**
-When you are infected, immune cells release signalling proteins (cytokines) that act on the brain and produce a coordinated shutdown: fatigue, withdrawal, low mood, loss of appetite. That is sickness behaviour, and it overlaps heavily with depression. The review's authors keep a hedge: sustained inflammation may tip vulnerable people toward depression. A dark cloud is sometimes an immune event.
+When you are infected, immune cells release signalling proteins (cytokines) that act on the brain and produce a coordinated shutdown: fatigue, withdrawal, low mood, loss of appetite. That is sickness behaviour, and it overlaps heavily with depression. The review's authors keep a hedge: sustained inflammation may tip vulnerable people toward depression.
 
 **For example**
-The flu-week flatness that lifted when the fever did. Sickness behaviour is that programme working as designed. The review's caution concerns the chronic case: the same programme running for months in vulnerable people can look like, and develop into, depression.
+Suppose someone feels flat and withdrawn during a flu and notices the mood lift as the fever clears. The review's caution concerns persistent immune activation: the same signalling can lead to an exacerbation of sickness and the development of symptoms of depression in vulnerable individuals.
 
 ## Sources
 
