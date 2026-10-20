@@ -12,11 +12,15 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 2** — Distinguish the feeling from its interpretation
 
-A felt sensation (tight chest, warm face) is one thing; the sentence you attach to it is another. In Gross's process model, that gap is why reappraisal can work at all: reappraisal "consists of changing the way a situation is construed so as to decrease its emotional impact" ([Gross, 2002, Psychophysiology 39, abstract](https://onlinelibrary.wiley.com/doi/10.1017/S0048577201393198)). The labeling studies show the same gap from the other side. When people only chose the word that fit a face they were viewing, with no story attached, affect labeling "diminished the response of the amygdala and other limbic regions to negative emotional images" ([Lieberman et al., 2007, Psychological Science 18, full text](https://sanlab.psych.ucla.edu/wp-content/uploads/sites/31/2015/05/Lieberman_AL-2007.pdf)). The feeling arrives on its own; the interpretation is a separate act, and it can be examined and revised.
+A felt sensation (tight chest, warm face) is one thing; the sentence you attach to it is another. The principle's premise is that separating them is possible and useful. In Gross's process model, what reappraisal acts on is the construal of the situation, not the raw affect, and that is what the opening line of the abstract says it does:
 
-**Plain words** The body sends the signal first and explains it second. The explanation arrives so fast it feels like part of the feeling, which is why pulling them apart takes a deliberate step. The pounding heart is a report from the body. The claim that it means failure is a guess about the report, and a guess can be checked before you act on it.
+> "It consists of changing the way a situation is construed so as to decrease its emotional impact." ([Gross, 2002, Psychophysiology 39, abstract](https://onlinelibrary.wiley.com/doi/10.1017/S0048577201393198))
 
-*For example:* Before a presentation, write the signal on one line (heart pounding, hands warm) and the interpretation on another (I am about to fail). A runner feels the same pounding at the start line and calls it readiness. Nothing about the heart changed between the two readings.
+A labeling study points the same direction with other people's emotions: when viewers only chose the word that fit a face, affect labeling "diminished the response of the amygdala and other limbic regions to negative emotional images" ([Lieberman et al., 2007, Psychological Science 18, full text](https://sanlab.psych.ucla.edu/wp-content/uploads/sites/31/2015/05/Lieberman_AL-2007.pdf)). The study labeled faces, not bodily states, so it is offered as adjacent evidence: naming an affect, even someone else's, changes the response to it.
+
+**Plain words** You can take the discomfort seriously and still question your explanation of it. Write down what you feel, then write down what you think it means, and read the second line as a claim that might be wrong.
+
+*For example:* (Imagined case.) Before a presentation, you write heart pounding, hands warm on one line, and I will fail on the next. A runner feels the same pounding at the start line and calls it readiness. Nothing about the heart changed between the two readings.
 
 ## Sources
 
