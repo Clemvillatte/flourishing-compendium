@@ -399,3 +399,6 @@ legacy schema (state keys + proposals) — MERGED, never replaced.
 - Fast-track (degree 11). Opened source: Carey and Russell, "Externalising: commonly-asked questions", Int. J. Narrative Therapy and Community Work 2002, at the Dulwich Centre (https://dulwichcentre.com.au/articles-about-narrative-therapy/externalising/). White & Epston 1990 itself not opened; claims routed through the opened practice text.
 - Externalising definition blockquoted verbatim; story-line and reclamation passages quoted verbatim with attribution; "the person is not the problem, the problem is the problem" used as the field's best-known phrase per the opened text.
 - All original sections and wikilinks preserved byte-exact (facets, Sources entries, parallels). Validation: fast-track PASS; build 5,720 ok.
+
+### Milestone QC repairs: Environmental psychology (2026-10-20, worker-p1f-9d3f7c2b)
+- Opening definition grounded in the opened Gifford, Steg and Reser 2011 "Environmental Psychology" chapter PDF (rug.nl): definition and scope statement quoted verbatim. Place attachment and Attention restoration glosses made bare (glosses not verified in the opened sources). Validated vs pre-enrichment baseline cec5cbb6; build 5,720 ok.

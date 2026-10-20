@@ -7,7 +7,13 @@ file: "Environmental psychology"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-E"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter E", "parent": ""}
 ---
-Environmental psychology studies how physical settings shape behavior and well-being: how places are perceived and become objects of attachment, and what exposure to natural settings does for attention and mood. A sample of its experimental findings is Bratman and colleagues' PNAS study:
+Environmental psychology studies the transactions between people and their physical settings, built and natural. The field's overview chapter puts it this way:
+
+> Environmental psychology is the study of transactions between individuals and their physical settings (Gifford, 2007a). In these transactions, individuals change their environments, and their behavior and experiences are changed by their environments. It includes theory, research, and practice aimed at making the built environment more humane and improving human relations with the natural environment.
+>
+> (Gifford, Steg and Reser, "Environmental Psychology", 2011, [chapter PDF](https://www.rug.nl/staff/e.m.steg/giffordstegreser2011.pdf))
+
+A sample of its experimental findings is Bratman and colleagues' PNAS study:
 
 > We show in healthy participants that a brief nature experience, a 90-min walk in a natural setting, decreases both self-reported rumination and neural activity in the subgenual prefrontal cortex (sgPFC), whereas a 90-min walk in an urban setting has no such effects on self-reported rumination or neural activity.
 >
@@ -19,8 +25,8 @@ The study targeted rumination, which the abstract describes as "a maladaptive pa
 
 - [[Rumination]] — the self-referential pattern the study targeted
 - [[Nature exposure]] — the exposure variable the study manipulated
-- [[Place attachment]] — the attachment side of the field
-- [[Attention restoration]] — the attentional account of nature's effects
+- [[Place attachment]]
+- [[Attention restoration]]
 
 ## Sources
 
@@ -32,6 +38,7 @@ The study targeted rumination, which the abstract describes as "a maladaptive pa
 
 - Gifford, 2007
 
+- [Gifford, Steg and Reser, "Environmental Psychology", 2011 (chapter PDF)](https://www.rug.nl/staff/e.m.steg/giffordstegreser2011.pdf) — the field definition and scope statement
 - [Bratman, Hamilton, Hahn, Daily and Gross, "Nature experience reduces rumination and subgenual prefrontal cortex activation", PNAS 112(28), 2015 (pnas.org abstract)](https://www.pnas.org/doi/abs/10.1073/pnas.1510459112) — the rumination mechanism, the 90-minute walk experiment and the urban-natural-area resource conclusion
 
 ## Cited in psychology parallels
