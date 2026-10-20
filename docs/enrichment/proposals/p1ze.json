@@ -1,6 +1,6 @@
 {
  "batch": "p1ze",
- "revision": 8,
+ "revision": 9,
  "records": [
   {
    "action": "reciprocal",
@@ -85,6 +85,13 @@
    "link": "BE041",
    "why": "BE041 examines nature contact through an experiment measuring rumination after natural and urban walks.",
    "notes": "Proposed by worker-p1ze-e6d6f5ba during BE041 saturation; target body discusses nature contact among lifestyle interventions."
+  },
+  {
+   "action": "reciprocal",
+   "into": "TIPP skills (DBT)",
+   "link": "BE047",
+   "why": "TIPP's muscle-relaxation step is a clinical application of the tense-release technique BE047 describes.",
+   "notes": "Proposed by worker-p1ze-e6d6f5ba during BE047 saturation; target body verified to discuss muscle relaxation."
   }
  ]
 }

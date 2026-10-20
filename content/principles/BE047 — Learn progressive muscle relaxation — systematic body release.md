@@ -12,15 +12,25 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BE — Overt Be
 ---
 > **Principle 47** — Learn progressive muscle relaxation: systematic body release
 
-Progressive muscle relaxation (PMR) involves systematically tensing and releasing muscle groups. It reduces physiological arousal, anxiety, and tension. It is a specific relaxation behaviour.
+The technique itself is a two-step process:
 
-**Plain words** Progressive muscle relaxation: tense each muscle group hard for a few seconds, then let go — and notice the difference. It's teaching the body the difference between holding and releasing, which most bodies have forgotten. Systematic, boring, effective.
+> "It involves learning to relieve the tension in specific muscle groups by first tensing and then relaxing each muscle group. When the muscle tension is released, attention is directed towards the differences felt during tension and relaxation so that the patient learns to recognize the contrast between the states." (Wikipedia, Progressive muscle relaxation)
 
-*For example:* Feet to face, tense-release, ten minutes — and the shoulders you didn't know were up by your ears finally land somewhere lower. The body had been holding a meeting you weren't invited to.
+The evidence question was answered by a ten-year meta-analysis of 27 studies: "relaxation training showed a medium-large effect size in the treatment of anxiety" (Cohen's d .57 within groups, .51 between groups), and "applied relaxation, progressive relaxation and meditation showed greater effect sizes than other techniques." The authors' own summary keeps the caveat inside the claim: "Notwithstanding its limitations, the present meta-analytical study show consistent and significant efficacy of relaxation training in reducing anxiety."
+
+**Plain words** Progressive muscle relaxation: tense each muscle group hard for a few seconds, then let go, and notice the difference. It is teaching the body the difference between holding and releasing. Systematic, boring, effective.
+
+*For example* Imagined: feet to face, tense and release, ten minutes, attending to the contrast between the two states at each muscle group. The shoulders you didn't know were up by your ears get noticed.
+
+## Sources
+
+- [Wikipedia, "Progressive muscle relaxation"](https://en.wikipedia.org/wiki/Progressive_muscle_relaxation) — technique description checked against the opened article text
+- [Manzoni, Pagnini, Castelnuovo & Molinari, "Relaxation training for anxiety: a ten-years systematic review with meta-analysis", BMC Psychiatry 8:41, 2008 (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2427027/) — quotes checked against the opened article text
+
 ## Psychology parallels
 
-- **[[Progressive muscle relaxation (Jacobson)|Progressive muscle relaxation (Jacobson)]]**, systematic tense-release reduces arousal (Jacobson, 1938; Lehrer & Gevirtz, 2014)
-- **PMR is effective for anxiety and stress**, relaxation training reduces anxiety (Manzoni et al., 2008; Lehrer & Gevirtz, 2014)
+- **[[Progressive muscle relaxation (Jacobson)|Progressive muscle relaxation (Jacobson)]]**, Jacobson's technique, the most studied relaxation training in the meta-analysis (Jacobson, 1938; Manzoni et al., 2008)
+- **PMR is effective for anxiety**, relaxation training showed a medium-large effect size in the treatment of anxiety (Manzoni et al., 2008; Lehrer & Gevirtz, 2014)
 
 ## Philosophy parallels
 
@@ -30,4 +40,4 @@ Progressive muscle relaxation (PMR) involves systematically tensing and releasin
 
 ## Practice
 
-- Practise PMR: systematically tense and release muscle groups (feet → legs → abdomen → hands → shoulders → face). Hold tension 5 seconds, release for 15. Practise daily.
+- Work through the muscle groups from feet to face: tense each group for a few seconds, release, and rest in the difference before moving on.
