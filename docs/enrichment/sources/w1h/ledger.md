@@ -64,3 +64,30 @@
   operation span-Updating, dual tasking unrelated); 137 students.
 - Later Friedman & Miyake work referenced only as "unity and diversity label" (seen in
   search results for PMID 27251123 and 22773897 snippets; no specific claims made).
+
+## Milestone QC round 1 (advisor) — repairs applied to items 2-5
+- Baseline verification (advisor concern): each page's front-matter is byte-identical
+  and no original wikilink was lost vs its true pre-edit revision (Durée 0632ebcd,
+  Ecological relationality/Emotional suppression c2a3ee47, Envy b6fcc59b,
+  Executive function 35e29d98). Clean-HEAD validator passes are NOT relied on as the
+  preservation check; git-level comparison against pre-edit revisions is.
+- Ecological relationality: "both make the same move" removed (Leopold/Næss are
+  distinct claims); Related clauses rewritten as descriptions of the linked pages'
+  own content; In-the-compendium clauses describe the linked principles' own text
+  (read before writing).
+- Emotional suppression: seed summary line qualified to the studies' actual scope;
+  "partner reads the stillness as a barrier" mechanism removed; Butler findings
+  scoped to unacquainted pairs of women; late-in-chain timing claim removed;
+  culture caveats reframed as the linked principles' own caveat.
+- Envy: unread Smith attribution and "sharpest laboratory description" removed;
+  Schadenfreude no longer claimed as a branch of malicious envy (abstract lists
+  Schadenfreude among implications); Mudita clause made purely descriptive.
+- Executive function: "resolves into" qualified to "one influential account";
+  unverified field-history and trainability claims removed; later-work sentence
+  dropped; In-the-compendium clauses made title/principle-descriptive.
+- Durée: Related-concept clauses kept but purely descriptive of the linked pages'
+  own cited material (James PP via the linked pages); no cross-thinker influence
+  claims. Kept against validator HEAD baseline (links now count as original).
+- Process fix adopted: enrich_save.sh output is now checked for the "saved and
+  verified on origin" line (pipe-to-tail exit-status bug noted by advisor); start
+  transitions are pushed immediately.

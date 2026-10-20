@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Ecological relationality” — Deep ecology tradition; Leopold, A Sand County Almanac; Whitehead, Process and Reality.
 
-Ecological relationality names the view that a living thing's identity is made of its relations to other organisms, to place, and to the systems that keep it alive. The compendium's seed names two sources for it, Leopold's land ethic and the deep ecology of Arne Næss, and both make the same move: the unit of moral attention shifts from the isolated individual to the web.
+Ecological relationality names the view that a living thing's identity is made of its relations to other organisms, to place, and to the systems that keep it alive. The seed names two sources for it, Leopold's land ethic and the deep ecology of Arne Næss. Leopold widens the moral community to land; Næss rebuilds the self out of relations. In both, the isolated individual stops being the whole story.
 
 > "That land is a community is the basic concept of ecology, but that land is to be loved and respected is an extension of ethics." (Leopold, A Sand County Almanac, foreword, quoted in [Brennan and Lo, "Environmental Ethics", Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/ethics-environmental/))
 
@@ -49,7 +49,7 @@ Næss worked out the relational side in detail. He rejected atomistic individual
 
 ## Related concepts
 
-- [[Deep ecology]] — Næss's own position, of which the relational view is the core
-- [[Interbeing]] — Thich Nhat Hanh's Buddhist version: to be is always to inter-be
-- [[The relational self]] — the same constitutive-relations idea applied to persons
-- [[Ubuntu]] — personhood constituted through community, the African relational counterpart
+- [[Deep ecology]] — Næss's position on the ecological self and intrinsic value
+- [[Interbeing]] — Thich Nhat Hanh's word for the dependence of things on one another
+- [[The relational self]] — the idea that a person's self exists in and through relationships
+- [[Ubuntu]] — the maxim that a person is a person through other persons

@@ -7,25 +7,22 @@ file: "Emotional suppression theory Butler Gross"
 tags: ["theory", "psych/affect"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-AFFECT"], "alternatePaths": []}
 ---
-**Emotional suppression theory Butler Gross** — suppressing emotional expression raises physiological arousal in both the suppressor and their interaction partners.
+**Emotional suppression theory Butler Gross** — in the laboratory studies behind the theory, suppressing emotional expression raised stress responses in both the suppressor and, during discussion, her partner.
 
 The theory spans two papers. James Gross and Robert Levenson defined emotional suppression as the conscious inhibition of emotional expressive behavior while emotionally aroused, and measured it in the laboratory. Emily Butler and colleagues then tested what happens when people suppress in front of others. Together the two studies give the concept its claim: hiding what you feel is not free, for you or for the person across from you.
-
 > "Suppression alone disrupted communication and magnified blood pressure responses in the suppressors' partners. In Study 2, suppression had a negative impact on the regulators' emotional experience and increased blood pressure in both regulators and their partners. Suppression also reduced rapport and inhibited relationship formation." (Butler, Egloff, Wilhelm, Smith, Erickson and Gross, [The social consequences of expressive suppression, Emotion 3 (2003), pp. 48-67, abstract](https://pubmed.ncbi.nlm.nih.gov/12899316/))
 
 ### The physiology is mixed, not simply higher
 
-The 1993 experiment behind the theory found a more complicated bodily picture than the shorthand "raised arousal" suggests. Suppressors watching a disgust-eliciting film showed decreased heart rate and decreased somatic activity alongside increased blinking and signs of increased sympathetic nervous system activity, and suppression left their reported feelings untouched ([Gross and Levenson, 1993, abstract](https://pubmed.ncbi.nlm.nih.gov/8326473/)). What suppression reliably changes first is the expressive channel: the face and body go quiet while markers of internal activation climb. The 2003 study then showed the same pattern has a social cost, because the partner reads the stillness as a barrier.
+The 1993 experiment behind the theory found a more complicated bodily picture than the shorthand "raised arousal" suggests. Suppressors watching a disgust-eliciting film showed decreased heart rate and decreased somatic activity alongside increased blinking and signs of increased sympathetic nervous system activity, and suppression left their reported feelings untouched ([Gross and Levenson, 1993, abstract](https://pubmed.ncbi.nlm.nih.gov/8326473/)). The 2003 study then put the strategy in conversation: in unacquainted pairs of women discussing an upsetting topic, suppression increased blood pressure in both regulators and partners, and reduced rapport and relationship formation.
 
 ### In the compendium
 
-- [[AF031 — Regulate early, not late — timing matters more than intensity]] — suppression works late in the chain, after feeling is already running
-- [[AF026 — Prefer cognitive reappraisal over suppression when possible]] — the studies' reappraisal condition avoided the costs suppression carried
-- [[AF076 — Recognise expressive suppression in close relationships — it reduces intimacy]] — the rapport finding in practice
+- [[AF031 — Regulate early, not late — timing matters more than intensity]] — the timing question the two strategies raise
+- [[AF026 — Prefer cognitive reappraisal over suppression when possible]] — the reappraisal condition in the studies avoided the suppression costs
+- [[AF076 — Recognise expressive suppression in close relationships — it reduces intimacy]] — the rapport finding as a relationship practice
 - [[PP017 — Regulate negative emotion without suppressing it]] — the practical upshot for emotion regulation
-- [[AF032 — Recognise that suppression is not always maladaptive; it depends on context and culture]] — the results come from Western laboratory samples, and culture shapes what showing and hiding feelings means
-- [[AF012 — Recognise that affect is socially and culturally shaped; do not universalise it]] — same caveat
-- [[AF083 — Recognise affect's sociocultural interfaces — culture shapes what you feel and how]] — same caveat
+- [[AF032 — Recognise that suppression is not always maladaptive; it depends on context and culture]], [[AF012 — Recognise that affect is socially and culturally shaped; do not universalise it]] and [[AF083 — Recognise affect's sociocultural interfaces — culture shapes what you feel and how]] — the culture caveat the three principles carry: what showing and hiding feelings means depends on culture and context
 - [[D074 — Don't fight angry]] — anger suppression as the everyday case
 
 ## Field

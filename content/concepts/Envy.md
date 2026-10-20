@@ -9,13 +9,13 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Envy” — La Rochefoucauld, Reflections.
 
-Envy is pain at another person's good fortune. The research tradition running through R. H. Smith treats it as a social comparison emotion: it needs someone ahead of you on something you care about. Niels van de Ven and colleagues gave the feeling its sharpest laboratory description, and their abstract opens with the definition:
+Envy is pain at another person's good fortune. Niels van de Ven, Marcel Zeelenberg and Rik Pieters gave the feeling its working definition, and their abstract opens with it:
 
 > "Envy is the painful emotion caused by the good fortune of others." (van de Ven, Zeelenberg and Pieters, [Leveling up and down: the experiences of benign and malicious envy, Emotion 9 (2009), pp. 419-429, abstract](https://pubmed.ncbi.nlm.nih.gov/19485619/))
 
 ### Two motors
 
-The same paper splits the emotion in two. Benign envy comes with a moving-up motivation, aimed at improving your own position; malicious envy comes with a pulling-down motivation, aimed at damaging the position of the superior other. The distinction held in the Netherlands, where the language has separate words for the two, and in the United States and Spain, where one word covers both. Schadenfreude belongs to the second branch, which is why the malicious side of envy matters for any account of suffering.
+The same paper splits the emotion in two. Benign envy comes with a moving-up motivation, aimed at improving your own position; malicious envy comes with a pulling-down motivation, aimed at damaging the position of the superior other. The distinction held in the Netherlands, where the language has separate words for the two, and in the United States and Spain, where one word covers both. The authors discuss implications of the distinction for theories of cooperation, group performance and Schadenfreude.
 
 ### La Rochefoucauld and the Buddha
 
@@ -29,8 +29,8 @@ The French moralist saw the hiding. His maxim 27 reads: "People are often vain o
 ## Related concepts
 
 - [[Social comparison]] — the comparison theory behind this emotion's mechanics
-- [[Schadenfreude]] — the pleasure at another's fall that rides with malicious envy
-- [[Mudita (sympathetic joy)]] — the Buddhist counter-practice: joy in another's good fortune
+- [[Schadenfreude]] — pleasure at another's misfortune, named among the distinction's implications
+- [[Mudita (sympathetic joy)]] — joy in another's good fortune
 
 ## Sources
 
