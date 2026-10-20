@@ -62,6 +62,20 @@
       "phrase": "deliberate practice is the related idea",
       "why": "CO082's body (line 42) says 'deliberate practice is the related idea (Ericsson et al., 1993)' in plain text; the concept page is the compendium's page for the term and cites the same 1993 paper, and CO082 currently has no [[Deliberate practice]] wikilink (rg-verified).",
       "_audit_why": "CO082 file read via rg with line numbers; phrase verbatim at line 42; no existing Deliberate practice link"
+    },
+    {
+      "into": "AT015",
+      "concept": "Right speech",
+      "phrase": "Right speech includes right listening",
+      "why": "AT015's Philosophy parallels (line 27) has the plain-text bold line 'Right speech includes right listening (Buddhism, Eightfold Path)'; the Right speech concept page carries a 'right listening' facet and this is its natural target. AT015 currently has no [[Right speech]] wikilink (rg-verified).",
+      "_audit_why": "AT015 file read via rg with line numbers; phrase verbatim at line 27; no existing Right speech link"
+    },
+    {
+      "into": "Metta (loving-kindness)",
+      "concept": "Right speech",
+      "phrase": "the affective basis of right speech",
+      "why": "The Metta concept page's body (line 12) states metta 'is the antidote to ill will (hindrance 2, B080) and the affective basis of right speech (B148)' in plain text; the Right speech page now links Metta in Related with the same clause. The Metta page has no [[Right speech]] wikilink (rg-verified).",
+      "_audit_why": "Metta page read via rg with line numbers; phrase verbatim at line 12; no existing Right speech link"
     }
   ],
   "reciprocal": [
@@ -106,6 +120,24 @@
       "link": "Impermanence",
       "why": "The Fu (return) page's Sources cite Laozi, Daodejing 16 \u2014 the same chapter the Impermanence page quotes for its Daoist section \u2014 and its Cited-in lists include B002 (anicca). rg found no [[Impermanence]] link on the Fu page (exact:0).",
       "_audit_why": "Fu (return) page checked via rg for absence of the link and for its Sources/Cited-in lines; page not read in full this session"
+    },
+    {
+      "into": "Eightfold Path",
+      "link": "Right speech",
+      "why": "The Eightfold Path page lists 'right view, right intention, right speech, right action, right livelihood...' in its opening paragraph but has no [[Right speech]] wikilink (rg-verified); the Right speech page links Eightfold Path in Related as the training the factor belongs to.",
+      "_audit_why": "Eightfold Path page read via rg; absence of the link verified; page not read in full this session"
+    },
+    {
+      "into": "Beneficial speech",
+      "link": "Right speech",
+      "why": "The Beneficial speech page's seed line reads '\"Beneficial speech\" \u2014 BG 17.15; Buddhist right speech' and its Sources list 'Buddhist right speech' (plain text, rg-verified lines 10 and 19); the Right speech page links Beneficial speech in Related as the Gita cousin. No [[Right speech]] link exists on the page.",
+      "_audit_why": "Beneficial speech page read via rg; phrases verbatim at lines 10 and 19; no existing Right speech link"
+    },
+    {
+      "into": "The three gates of speech",
+      "link": "Right speech",
+      "why": "The three gates of speech is the Sufi three-gate test page; the Right speech page links it in Related as the Sufi cousin, and rg found no [[Right speech]] link on the page.",
+      "_audit_why": "page checked via rg for absence of the link; page not read in full this session"
     }
   ]
 }
