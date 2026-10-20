@@ -2,7 +2,8 @@
  "batch": "p1zt",
  "done": [
   "K002",
-  "K005"
+  "K005",
+  "K039"
  ],
  "in_progress": null,
  "flagged": {
@@ -10,6 +11,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:57:44+00:00",
+ "updated": "2026-10-20T11:58:10+00:00",
  "band_done": false
 }

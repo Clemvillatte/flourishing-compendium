@@ -1,6 +1,6 @@
 {
  "batch": "p1zt",
- "revision": 3,
+ "revision": 4,
  "reciprocal": [
   {
    "into": "Pure experience",
@@ -13,6 +13,12 @@
    "link": "K005",
    "why": "Shantideva's elephant-of-mind verses state the interpretation-first account this page collects under cognitive mediation",
    "notes": "Concept page covers Beck/CBT interpretation-carries-load findings; K005's psychology parallel already links to it. Evidence: Berzin ch. 5 V.2-3 opened 2026-10-20."
+  },
+  {
+   "into": "Forgiveness",
+   "link": "K039",
+   "why": "the patience-curriculum reframing of an offender as a source of growth, one of the moves this page covers",
+   "notes": "K039's psychology parallel cites Worthington 2001 / Calhoun-Tedeschi 2004 benefit-finding. Evidence: Berzin ch. 6 VI.107 opened 2026-10-20."
   }
  ]
 }

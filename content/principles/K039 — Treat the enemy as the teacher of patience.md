@@ -16,9 +16,15 @@ The chapter's most radical instruction: the enemy who injures you is, in the tra
 
 (Shantideva, Bodhicharyavatara, ch. 6.)
 
+> Therefore, I shall be delighted with an enemy who's popped up like a treasure in my house, without having had to be acquired with fatigue, since he becomes my aide for bodhisattva behavior. (Shantideva, Bodhicharyavatara VI.107, Alexander Berzin translation, 2004)
+
 **Plain words** The enemy who injures you does something your friends can't: gives you the raw material of patience. Nobody else supplies it. That's not gratitude for harm. It's recognising the role difficult people play in your training that no one else applied for. Hold one difficult person in mind in that light.
 
 *For example:* The relative who criticises you at every holiday is, by this view, your most reliable patience trainer.
+
+## Sources
+
+- [Shantideva, Engaging in Bodhisattva Behavior, ch. 6 "Showing Patience" (Berzin translation)](https://studybuddhism.com/en/tibetan-buddhism/original-texts/sutra-texts/engaging-in-bodhisattva-behavior/showing-patience)
 
 ## Psychology parallels
 
