@@ -12,11 +12,22 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AT — Attentio
 ---
 > **Principle 1** — Understand that attention is selective: you cannot attend to everything
 
-Attention is fundamentally a selection mechanism. At any moment, far more information is available than can be processed. Attention selects what enters awareness and what is filtered out. This means that what you attend to literally constitutes your experienced reality.
+Perception research treats attention as a gate rather than a floodlight. In the best-known demonstration, observers watched a video and counted basketball passes; across the experiment's 192 observers, 46% failed to notice a person in a gorilla suit walk through the players, pause, and thump its chest. The eyes register the gorilla well enough; what runs short is the processing budget. When attention is fully committed, whatever it does not select simply never reaches awareness.
 
-**Plain words** Attention is a bouncer, not a floodlight — it can only let in so much at once, and everything else waits outside. Your life is largely the shape of what got let in. Choose the door policy.
+> "Taken together, these findings suggest that we perceive and remember only those objects and details that receive focused attention." (Simons & Chabris, "Gorillas in our midst: sustained inattentional blindness for dynamic events", Perception 28, 1999, p. 1059, [author's full-text PDF](http://www.chabris.com/Simons1999.pdf))
 
-*For example:* The same commute can be traffic hell or a podcast you love — the road doesn't change, the bouncer does.
+The paper's conclusion generalises past gorilla suits: the direction of attention does more to set the contents of awareness than the scene itself does (Simons & Chabris, 1999, pp. 1059, 1068). The practical upshot for a life: since the door policy decides what gets in, the policy is worth setting deliberately.
+
+**Plain words**
+Your attention admits only a trickle at a time. At any moment, most of what is happening stays outside the door. A person counting basketball passes can miss a gorilla standing in plain view. What you let in ends up shaping what your day feels like, so the choosing is worth doing on purpose.
+
+**For example**
+On a crowded train you can follow the book in your hands or the argument two seats away. The ears take in both; the mind takes one. The same commute becomes the argument or the chapter.
+
+## Sources
+
+- [Simons & Chabris, "Gorillas in our midst: sustained inattentional blindness for dynamic events", Perception 28, 1059-1074 (1999), author's full-text PDF](http://www.chabris.com/Simons1999.pdf) — abstract claim at p. 1059, the 54%/46% result across 192 observers at p. 1068
+
 ## Psychology parallels
 
 - **[[Selective attention (Broadbent's filter model)|Selective attention (Broadbent's filter model)]]**, attention acts as a bottleneck that selects information for further processing (Broadbent, 1958; Treisman, 1964)
