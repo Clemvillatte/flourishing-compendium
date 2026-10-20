@@ -12,18 +12,36 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "M — Mesoam
 ---
 > **Principle 28** — Guard your speech; it is your face's edge
 
-The huehuetlatolli's speech discipline: speak slowly, do not babble, do not interrupt, do not mock the old, the sick, the deaf, or the poor; do not speak vainly or boast; when you speak, let it be measured. Speech, in this tradition, is the primary instrument by which the face (the developed self) is known, and its care is a character practice, not an etiquette. Practically, adopt the elders' specific: one conversation per day conducted with fully measured speech (no interruption, no mockery, no waste).
+The huehuetlatolli, the elders' words collected in Book VI of the Florentine Codex, carry a speech discipline: speak slowly, do not babble, do not interrupt, do not mock the old, the sick, the deaf, or the poor; do not speak vainly or boast; when you speak, let it be measured. Among the elders' surviving instructions, in the Codex's English rendering:
 
-(Florentine Codex, Book VI, the speeches on speech.)
+> "Do not mock the old or the crippled… Do not become haughty on account of your beauty, for that is like a flower, it withers and fades." (Florentine Codex, Book VI, [as quoted in the Cottonwood history of Mexico](https://cottonwood.world/histories/mexico/))
 
-**Plain words** Speech discipline from the words of the old ones: speak slowly, don't babble, don't interrupt, never mock the old, sick, deaf, or poor, don't boast — when you speak, let it be measured. Speech is the primary instrument by which your developed face is known. Guard it; it's your face's edge.
+Speech, in this tradition, is the primary instrument by which the face (the developed self) is known, and its care is a character practice, not an etiquette. Practically, adopt the elders' specific: one conversation per day conducted with fully measured speech (no interruption, no mockery, no waste).
 
-*For example:* The meeting where everyone performs — and the one person who speaks last, slowly, once, and it's the sentence that gets minuted. The discipline showed; the face was legible.
+**Plain words**
+The old speeches treat how you talk as part of who you are becoming. Speaking slowly, letting others finish, refusing to mock the weak: these are not manners but self-shaping. Try one conversation a day where you hold the line.
+
+*For example (imagined):* In a meeting where everyone performs, one person speaks last, slowly, once, and it is the sentence that gets minuted. The discipline showed; the face was legible.
+
 ## Psychology parallels
 
-- **Speech self-regulation and relationship outcomes**, the research on conversational turn-taking and contempt's costs (Gottman's conflict findings, as framework; the interruption research)
+- **Speech self-regulation and relationship outcomes** (Gottman's conflict findings, as framework; the interruption research)
 
 ## Philosophy parallels
 
 - **[[Beneficial speech|Beneficial speech]]** (BG 17.15)
 - **[[Quick to hear, slow to speak|Quick to hear, slow to speak]]** (Epistle of James 1.19)
+
+## Practice
+
+- Pick one conversation a day and hold the elders' line in it: no interruption, no mockery, no boasting, nothing wasted.
+
+## Related concepts
+
+- [[Beneficial speech]] — listed for comparison
+- [[Quick to hear, slow to speak]] — listed for comparison
+- [[Right speech]] — listed for comparison
+
+## Sources
+
+- [Florentine Codex, Book VI (as quoted in the Cottonwood history of Mexico)](https://cottonwood.world/histories/mexico/) — the "do not mock" instruction quoted above; the huehuetlatolli speech discipline is the tradition the Codex's Book VI records.
