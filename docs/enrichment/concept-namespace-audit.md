@@ -147,6 +147,10 @@ hallucinations.
 - The community of inquiry (enriched in w1g 2026-10-20) — the opened Peirce essay
   states the doctrine ("all who investigate") but does not use this phrase verbatim;
   the page title is a compendium heading. Pending supervisor verification/rename/merge.
+- Thinking for doing (enriched in w1g 2026-10-20; queue s0, 83w) — the page title
+  compresses James's own sentence (Principles of Psychology: "My thinking is first
+  and last and always for the sake of my doing"); the three-word form is not his
+  verbatim wording. Pending supervisor verification/rename/merge.
 - The criterion of experience (enriched in w1g 2026-10-20; queue s2, 51w) — the opened
   James essay discusses criteria for truth but the page title is the compendium's
   heading. Pending supervisor verification/rename/merge.

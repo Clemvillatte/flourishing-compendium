@@ -669,3 +669,24 @@
   cited entries rather than left literally unchanged.
 - The scholastic-contrast context sentence on The criterion of experience now
   carries its own Gutenberg citation (advisor mechanical fix).
+
+## Thinking for doing (2026-10-20, fast-track; degree 9 — eligible)
+
+- OPENED: William James, The Principles of Psychology, vol. 2 (1890), chapter XXII
+  ("Reasoning"), full text from Project Gutenberg #57634 — downloaded via curl and
+  read directly. The sentence quoted verbatim (verified in the raw text at the
+  Reasoning chapter: "My thinking is first and last and always for the sake of my
+  doing, and I can only do one thing at a time."); the closing paraphrases the
+  adjacent sentences ("My excuse is necessity--the necessity which my finite and
+  practical nature lays upon me"; "stare vacantly"), both verified in the raw
+  text. One verbatim blockquote used.
+- IS-IT-A-CONCEPT check: the page title compresses James's own sentence ("...
+  thinking ... for the sake of my doing"); the three-word form is not his verbatim
+  wording. Grep at this round: no entry in concept-namespace-audit.md; on the
+  concept-verification-queue (s0, 83w; verified by grep this round). Flagged for
+  supervisor disposition (added to the audit worker-flags section this round).
+- The page's inherited opening line (Gigerenzer 2007, descriptive/prescriptive) was
+  preserved as the seed body text; the inherited Sources entry "- Gigerenzer,
+  2007" kept and the opened James source added above it.
+- Validation: --fast-track ok (concept <15 connections; prose minimum waived; all other
+  checks pass). Build ok (5718 entries, fcAuthored 976).
