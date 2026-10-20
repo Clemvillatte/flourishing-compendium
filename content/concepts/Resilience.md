@@ -13,12 +13,12 @@ Resilience is positive adaptation in the context of adversity. In Ann Masten's r
 >
 > (Masten, "Ordinary Magic: Resilience Processes in Development", American Psychologist 56(3), 2001, [PDF](https://ocfcpacourts.us/wp-content/uploads/2020/06/Ordinary_Magic_Resilience_Process_000935.pdf))
 
-The abstract concludes that "resilience is common and that it usually arises from the normative functions of human adaptational systems, with the greatest threats to human development being those that compromise these protective systems." The practical question follows: Masten argues that efforts to promote resilience "should focus on strategies that protect or restore the efficacy of these basic systems." Its contemplative cousins in this library are equanimity and the Stoic art of turning obstacles into material.
+The abstract suggests that "resilience is common and that it usually arises from the normative functions of human adaptational systems, with the greatest threats to human development being those that compromise these protective systems." The practical question follows: for children at risk, Masten argues that efforts to promote resilience "should focus on strategies that protect or restore the efficacy of these basic systems."
 
 ## Related concepts
 
-- [[Equanimity]] — the contemplative cousin named in the original page
-- [[Post-traumatic growth]] — the growth-through-adversity outcome
+- [[Equanimity]]
+- [[Post-traumatic growth]]
 
 ## Sources
 - Wikipedia Psychological resilience: https://en.wikipedia.org/wiki/Psychological_resilience
