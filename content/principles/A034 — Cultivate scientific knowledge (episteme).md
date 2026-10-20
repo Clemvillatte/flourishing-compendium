@@ -18,9 +18,9 @@ Aristotle defines scientific knowledge as a state of capacity to demonstrate, co
 
 > "Scientific knowledge is judgement about things that are universal and necessary, and the conclusions of demonstration, and all scientific knowledge, follow from first principles (for scientific knowledge involves apprehension of a rational ground)." ([NicEth VI.6, Ross](https://people.bu.edu/wwildman/courses/wphil/readings/wphil_rdg09_nichomacheanethics_entire.htm))
 
-**Plain words** Aristotle's picture is of a kind of knowing that starts from first principles and demonstrates from them, and whose objects are things that could not have been otherwise. A suggested application is to work through one explanation from its first principles to its conclusion rather than accepting the conclusion on its own.
+**Plain words** Being able to repeat a conclusion is different from being able to show how it follows. A suggested exercise is to list the starting assumptions and explain each step connecting them to the result.
 
-*For example:* (Imagined application.) A reader works out on paper why a small difference in an interest rate produces a large gap after thirty years, tracing the calculation from its starting assumptions.
+*For example:* (Imagined application.) A student labels the premises and each step of a worked proof, marking any step they cannot justify.
 
 ## Psychology parallels
 
