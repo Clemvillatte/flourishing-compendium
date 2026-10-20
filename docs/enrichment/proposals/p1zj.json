@@ -1,349 +1,370 @@
 {
- "batch": "p1zj",
- "revision": 28,
- "records": [
-  {
-   "action": "reciprocal",
-   "into": "Affect labeling",
-   "link": "AF002",
-   "why": "listed for comparison with the principle's separation of signal and interpretation",
-   "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
-  },
-  {
-   "action": "reciprocal",
-   "into": "Affect as information",
-   "link": "AF002",
-   "why": "listed for comparison with the principle's separation of signal and interpretation",
-   "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
-  },
-  {
-   "action": "reciprocal",
-   "into": "Appraisal theory",
-   "link": "AF002",
-   "why": "listed for comparison with the principle's separation of signal and interpretation",
-   "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
-  },
-  {
-   "action": "reciprocal",
-   "into": "Emotional granularity",
-   "link": "AF002",
-   "why": "listed for comparison with the principle's separation of signal and interpretation",
-   "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
-  },
-  {
-   "action": "reciprocal",
-   "into": "Resilience",
-   "link": "AF013",
-   "why": "listed for comparison with the principle's return-to-baseline framing",
-   "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
-  },
-  {
-   "action": "reciprocal",
-   "into": "Emotional inertia theory",
-   "link": "AF013",
-   "why": "listed for comparison with the principle's return-to-baseline framing",
-   "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
-  },
-  {
-   "action": "reciprocal",
-   "into": "Stress cycle completion (Nagorski, Sapolsky)",
-   "link": "AF013",
-   "why": "listed for comparison with the principle's return-to-baseline framing",
-   "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
-  },
-  {
-   "action": "reciprocal",
-   "into": "Equanimity",
-   "link": "AF013",
-   "why": "listed for comparison with the principle's return-to-baseline framing",
-   "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
-  },
-  {
-   "action": "reciprocal",
-   "into": "Emotional inertia theory",
-   "link": "AF014",
-   "why": "listed for comparison with the principle's reading of the inertia finding",
-   "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
-  },
-  {
-   "action": "reciprocal",
-   "into": "Circumplex model of affect",
-   "link": "AF017",
-   "why": "listed for comparison with the principle's two-axis reading of affect structure",
-   "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
-  },
-  {
-   "action": "reciprocal",
-   "into": "Reward prediction error (Schultz)",
-   "link": "AF018",
-   "why": "listed for comparison with the principle's expectation-gap reading of affect",
-   "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
-  },
-  {
-   "action": "reciprocal",
-   "into": "Affective forecasting",
-   "link": "AF018",
-   "why": "listed for comparison with the principle's expectation-gap reading of affect",
-   "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
-  },
-  {
-   "action": "reciprocal",
-   "into": "Emotional contagion",
-   "link": "AF021",
-   "why": "listed for comparison with the principle's affective-presence pattern",
-   "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
-  },
-  {
-   "action": "reciprocal",
-   "into": "Ubuntu",
-   "link": "AF021",
-   "why": "listed for comparison with the principle's affective-presence pattern",
-   "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
-  },
-  {
-   "action": "reciprocal",
-   "into": "Cognitive reappraisal",
-   "link": "AF027",
-   "why": "listed for comparison with the principle's controllability check on reappraisal",
-   "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
-  },
-  {
-   "action": "reciprocal",
-   "into": "Cultural differences in suppression's costs",
-   "link": "AF032",
-   "why": "listed for comparison with the principle's context-and-culture reading of suppression",
-   "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
-  },
-  {
-   "action": "reciprocal",
-   "into": "Expressive suppression versus reappraisal",
-   "link": "AF032",
-   "why": "listed for comparison with the principle's context-and-culture reading of suppression",
-   "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
-  },
-  {
-   "action": "reciprocal",
-   "into": "Equanimity",
-   "link": "AF034",
-   "why": "listed for comparison with the principle's even-mindedness-and-return framing",
-   "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
-  },
-  {
-   "action": "reciprocal",
-   "into": "Apatheia",
-   "link": "AF034",
-   "why": "listed for comparison with the principle's even-mindedness-and-return framing",
-   "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
-  },
-  {
-   "action": "reciprocal",
-   "into": "Wu wei",
-   "link": "AF034",
-   "why": "listed for comparison with the principle's even-mindedness-and-return framing",
-   "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
-  },
-  {
-   "action": "reciprocal",
-   "into": "Acceptance",
-   "link": "AF040",
-   "why": "listed for comparison with the principle's feeling-versus-circumstance split",
-   "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
-  },
-  {
-   "action": "reciprocal",
-   "into": "The dichotomy of control",
-   "link": "AF040",
-   "why": "listed for comparison with the principle's feeling-versus-circumstance split",
-   "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
-  },
-  {
-   "action": "reciprocal",
-   "into": "Rumination",
-   "link": "AF045",
-   "why": "listed for comparison with the principle's duration-and-revisits framing",
-   "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
-  },
-  {
-   "action": "reciprocal",
-   "into": "Anicca",
-   "link": "AF045",
-   "why": "listed for comparison with the principle's duration-and-revisits framing",
-   "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
-  },
-  {
-   "action": "reciprocal",
-   "into": "Interoceptive exposure (Barlow)",
-   "link": "AF049",
-   "why": "listed for comparison with the principle's sensation-plus-interpretation reading of panic",
-   "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
-  },
-  {
-   "action": "reciprocal",
-   "into": "Benign versus malicious envy",
-   "link": "AF055",
-   "why": "listed for comparison with the principle's moving-up reading of envy",
-   "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
-  },
-  {
-   "action": "reciprocal",
-   "into": "Mudita (sympathetic joy)",
-   "link": "AF055",
-   "why": "listed for comparison with the principle's moving-up reading of envy",
-   "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
-  },
-  {
-   "action": "reciprocal",
-   "into": "Self-compassion",
-   "link": "AF066",
-   "why": "listed for comparison with the principle's friend-standard reading",
-   "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
-  },
-  {
-   "action": "reciprocal",
-   "into": "Metta (loving-kindness)",
-   "link": "AF066",
-   "why": "listed for comparison with the principle's friend-standard reading",
-   "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
-  },
-  {
-   "action": "reciprocal",
-   "into": "The golden rule",
-   "link": "AF066",
-   "why": "listed for comparison with the principle's friend-standard reading",
-   "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
-  },
-  {
-   "action": "reciprocal",
-   "into": "Clinical thresholds for depression, anxiety, PTSD, and bipolar disorder",
-   "link": "AF078",
-   "why": "listed for comparison with the principle's clinical-boundary reading",
-   "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
-  },
-  {
-   "action": "reciprocal",
-   "into": "Spotlight vs floodlight attention",
-   "link": "AT017",
-   "why": "listed for comparison with the principle's narrow-broad scope reading",
-   "notes": "target page lead reviewed during milestone-4 QC (after initial push); full body not read; connection checked against the lead; relationship grounded in the adjacent principle's opened source"
-  },
-  {
-   "action": "reciprocal",
-   "into": "Broaden-and-build",
-   "link": "AT017",
-   "why": "listed for comparison with the principle's narrow-broad scope reading",
-   "notes": "target page lead reviewed during milestone-4 QC (after initial push); full body not read; connection checked against the lead; relationship grounded in the adjacent principle's opened source"
-  },
-  {
-   "action": "reciprocal",
-   "into": "Mind wandering",
-   "link": "AT024",
-   "why": "listed for comparison with the principle's presence reading of the mind-wandering findings",
-   "notes": "target page lead reviewed during milestone-4 QC (after initial push); full body not read; connection checked against the lead; relationship grounded in the adjacent principle's opened source"
-  },
-  {
-   "action": "reciprocal",
-   "into": "Presence",
-   "link": "AT024",
-   "why": "listed for comparison with the principle's presence reading of the mind-wandering findings",
-   "notes": "target page lead reviewed during milestone-4 QC (after initial push); full body not read; connection checked against the lead; relationship grounded in the adjacent principle's opened source"
-  },
-  {
-   "action": "reciprocal",
-   "into": "Right mindfulness",
-   "link": "AT024",
-   "why": "listed for comparison with the principle's presence reading of the mind-wandering findings",
-   "notes": "target page lead reviewed during milestone-4 QC (after initial push); full body not read; connection checked against the lead; relationship grounded in the adjacent principle's opened source"
-  },
-  {
-   "action": "reciprocal",
-   "into": "Attention residue",
-   "link": "AT029",
-   "why": "listed for comparison with the principle's residue reading of the Leroy findings",
-   "notes": "target page lead reviewed during milestone-4 QC (after initial push); full body not read; connection checked against the lead; relationship grounded in the adjacent principle's opened source"
-  },
-  {
-   "action": "reciprocal",
-   "into": "ADHD: interest-based attention",
-   "link": "AT032",
-   "why": "listed for comparison with the principle's interest-scaffolds-attention reading",
-   "notes": "target page lead reviewed during milestone-4 QC (after initial push); full body not read; connection checked against the lead; relationship grounded in the adjacent principle's opened source"
-  },
-  {
-   "action": "reciprocal",
-   "into": "Flow",
-   "link": "AT032",
-   "why": "listed for comparison with the principle's interest-scaffolds-attention reading",
-   "notes": "target page lead reviewed during milestone-4 QC (after initial push); full body not read; connection checked against the lead; relationship grounded in the adjacent principle's opened source"
-  },
-  {
-   "action": "reciprocal",
-   "into": "I and Thou",
-   "link": "AT057",
-   "why": "listed for comparison with the principle's undivided-attention reading",
-   "notes": "target page lead reviewed this session (see ledger); full body not read; relationship grounded in the adjacent principle's opened source"
-  },
-  {
-   "action": "reciprocal",
-   "into": "Deep listening",
-   "link": "AT057",
-   "why": "listed for comparison with the principle's undivided-attention reading",
-   "notes": "target page lead reviewed this session (see ledger); full body not read; relationship grounded in the adjacent principle's opened source"
-  },
-  {
-   "action": "reciprocal",
-   "into": "Right speech",
-   "link": "AT061",
-   "why": "listed for comparison with the principle's design-over-interruption reading",
-   "notes": "target page lead reviewed this session; full body not read; relationship grounded in the adjacent principle's opened source"
-  },
-  {
-   "action": "reciprocal",
-   "into": "Environmental design",
-   "link": "AT061",
-   "why": "listed for comparison with the principle's design-over-interruption reading",
-   "notes": "target page lead reviewed this session; full body not read; relationship grounded in the adjacent principle's opened source"
-  },
-  {
-   "action": "reciprocal",
-   "into": "Simplicity",
-   "link": "AT061",
-   "why": "listed for comparison with the principle's design-over-interruption reading",
-   "notes": "target page lead reviewed this session; full body not read; relationship grounded in the adjacent principle's opened source"
-  },
-  {
-   "action": "reciprocal",
-   "into": "Neurodiversity paradigm",
-   "link": "AT074",
-   "why": "listed for comparison with the principle's variation-not-deficit reading",
-   "notes": "target page lead reviewed this session; full body not read; relationship grounded in the adjacent principle's opened source"
-  },
-  {
-   "action": "reciprocal",
-   "into": "Neurodiversity",
-   "link": "AT074",
-   "why": "listed for comparison with the principle's variation-not-deficit reading",
-   "notes": "target page lead reviewed this session; full body not read; relationship grounded in the adjacent principle's opened source"
-  },
-  {
-   "action": "reciprocal",
-   "into": "Transtheoretical model (Prochaska & DiClemente)",
-   "link": "BE007",
-   "why": "listed for comparison with the principle's stages-of-change reading",
-   "notes": "target page lead reviewed this session; full body not read; relationship grounded in the adjacent principle's opened source"
-  },
-  {
-   "action": "reciprocal",
-   "into": "Gradual training",
-   "link": "BE007",
-   "why": "listed for comparison with the principle's stages-of-change reading",
-   "notes": "target page lead reviewed this session; full body not read; relationship grounded in the adjacent principle's opened source"
-  },
-  {
-   "action": "reciprocal",
-   "into": "Right effort",
-   "link": "BE016",
-   "why": "listed for comparison with the principle's tiny-start reading of the Fogg model",
-   "notes": "target page lead reviewed this session; full body not read; relationship grounded in the adjacent principle's opened source"
-  }
- ]
+  "batch": "p1zj",
+  "revision": 29,
+  "records": [
+    {
+      "action": "reciprocal",
+      "into": "Affect labeling",
+      "link": "AF002",
+      "why": "listed for comparison with the principle's separation of signal and interpretation",
+      "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Affect as information",
+      "link": "AF002",
+      "why": "listed for comparison with the principle's separation of signal and interpretation",
+      "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Appraisal theory",
+      "link": "AF002",
+      "why": "listed for comparison with the principle's separation of signal and interpretation",
+      "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Emotional granularity",
+      "link": "AF002",
+      "why": "listed for comparison with the principle's separation of signal and interpretation",
+      "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Resilience",
+      "link": "AF013",
+      "why": "listed for comparison with the principle's return-to-baseline framing",
+      "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Emotional inertia theory",
+      "link": "AF013",
+      "why": "listed for comparison with the principle's return-to-baseline framing",
+      "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Stress cycle completion (Nagorski, Sapolsky)",
+      "link": "AF013",
+      "why": "listed for comparison with the principle's return-to-baseline framing",
+      "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Equanimity",
+      "link": "AF013",
+      "why": "listed for comparison with the principle's return-to-baseline framing",
+      "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Emotional inertia theory",
+      "link": "AF014",
+      "why": "listed for comparison with the principle's reading of the inertia finding",
+      "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Circumplex model of affect",
+      "link": "AF017",
+      "why": "listed for comparison with the principle's two-axis reading of affect structure",
+      "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Reward prediction error (Schultz)",
+      "link": "AF018",
+      "why": "listed for comparison with the principle's expectation-gap reading of affect",
+      "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Affective forecasting",
+      "link": "AF018",
+      "why": "listed for comparison with the principle's expectation-gap reading of affect",
+      "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Emotional contagion",
+      "link": "AF021",
+      "why": "listed for comparison with the principle's affective-presence pattern",
+      "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Ubuntu",
+      "link": "AF021",
+      "why": "listed for comparison with the principle's affective-presence pattern",
+      "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Cognitive reappraisal",
+      "link": "AF027",
+      "why": "listed for comparison with the principle's controllability check on reappraisal",
+      "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Cultural differences in suppression's costs",
+      "link": "AF032",
+      "why": "listed for comparison with the principle's context-and-culture reading of suppression",
+      "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Expressive suppression versus reappraisal",
+      "link": "AF032",
+      "why": "listed for comparison with the principle's context-and-culture reading of suppression",
+      "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Equanimity",
+      "link": "AF034",
+      "why": "listed for comparison with the principle's even-mindedness-and-return framing",
+      "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Apatheia",
+      "link": "AF034",
+      "why": "listed for comparison with the principle's even-mindedness-and-return framing",
+      "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Wu wei",
+      "link": "AF034",
+      "why": "listed for comparison with the principle's even-mindedness-and-return framing",
+      "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Acceptance",
+      "link": "AF040",
+      "why": "listed for comparison with the principle's feeling-versus-circumstance split",
+      "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
+    },
+    {
+      "action": "reciprocal",
+      "into": "The dichotomy of control",
+      "link": "AF040",
+      "why": "listed for comparison with the principle's feeling-versus-circumstance split",
+      "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Rumination",
+      "link": "AF045",
+      "why": "listed for comparison with the principle's duration-and-revisits framing",
+      "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Anicca",
+      "link": "AF045",
+      "why": "listed for comparison with the principle's duration-and-revisits framing",
+      "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Interoceptive exposure (Barlow)",
+      "link": "AF049",
+      "why": "listed for comparison with the principle's sensation-plus-interpretation reading of panic",
+      "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Benign versus malicious envy",
+      "link": "AF055",
+      "why": "listed for comparison with the principle's moving-up reading of envy",
+      "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Mudita (sympathetic joy)",
+      "link": "AF055",
+      "why": "listed for comparison with the principle's moving-up reading of envy",
+      "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Self-compassion",
+      "link": "AF066",
+      "why": "listed for comparison with the principle's friend-standard reading",
+      "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Metta (loving-kindness)",
+      "link": "AF066",
+      "why": "listed for comparison with the principle's friend-standard reading",
+      "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
+    },
+    {
+      "action": "reciprocal",
+      "into": "The golden rule",
+      "link": "AF066",
+      "why": "listed for comparison with the principle's friend-standard reading",
+      "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Clinical thresholds for depression, anxiety, PTSD, and bipolar disorder",
+      "link": "AF078",
+      "why": "listed for comparison with the principle's clinical-boundary reading",
+      "notes": "target page lead reviewed during milestone-3 QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Spotlight vs floodlight attention",
+      "link": "AT017",
+      "why": "listed for comparison with the principle's narrow-broad scope reading",
+      "notes": "target page lead reviewed during milestone-4 QC (after initial push); full body not read; connection checked against the lead; relationship grounded in the adjacent principle's opened source"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Broaden-and-build",
+      "link": "AT017",
+      "why": "listed for comparison with the principle's narrow-broad scope reading",
+      "notes": "target page lead reviewed during milestone-4 QC (after initial push); full body not read; connection checked against the lead; relationship grounded in the adjacent principle's opened source"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Mind wandering",
+      "link": "AT024",
+      "why": "listed for comparison with the principle's presence reading of the mind-wandering findings",
+      "notes": "target page lead reviewed during milestone-4 QC (after initial push); full body not read; connection checked against the lead; relationship grounded in the adjacent principle's opened source"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Presence",
+      "link": "AT024",
+      "why": "listed for comparison with the principle's presence reading of the mind-wandering findings",
+      "notes": "target page lead reviewed during milestone-4 QC (after initial push); full body not read; connection checked against the lead; relationship grounded in the adjacent principle's opened source"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Right mindfulness",
+      "link": "AT024",
+      "why": "listed for comparison with the principle's presence reading of the mind-wandering findings",
+      "notes": "target page lead reviewed during milestone-4 QC (after initial push); full body not read; connection checked against the lead; relationship grounded in the adjacent principle's opened source"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Attention residue",
+      "link": "AT029",
+      "why": "listed for comparison with the principle's residue reading of the Leroy findings",
+      "notes": "target page lead reviewed during milestone-4 QC (after initial push); full body not read; connection checked against the lead; relationship grounded in the adjacent principle's opened source"
+    },
+    {
+      "action": "reciprocal",
+      "into": "ADHD: interest-based attention",
+      "link": "AT032",
+      "why": "listed for comparison with the principle's interest-scaffolds-attention reading",
+      "notes": "target page lead reviewed during milestone-4 QC (after initial push); full body not read; connection checked against the lead; relationship grounded in the adjacent principle's opened source"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Flow",
+      "link": "AT032",
+      "why": "listed for comparison with the principle's interest-scaffolds-attention reading",
+      "notes": "target page lead reviewed during milestone-4 QC (after initial push); full body not read; connection checked against the lead; relationship grounded in the adjacent principle's opened source"
+    },
+    {
+      "action": "reciprocal",
+      "into": "I and Thou",
+      "link": "AT057",
+      "why": "listed for comparison with the principle's undivided-attention reading",
+      "notes": "target page lead reviewed this session (see ledger); full body not read; relationship grounded in the adjacent principle's opened source"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Deep listening",
+      "link": "AT057",
+      "why": "listed for comparison with the principle's undivided-attention reading",
+      "notes": "target page lead reviewed this session (see ledger); full body not read; relationship grounded in the adjacent principle's opened source"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Right speech",
+      "link": "AT061",
+      "why": "listed for comparison with the principle's design-over-interruption reading",
+      "notes": "target page lead reviewed this session; full body not read; relationship grounded in the adjacent principle's opened source"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Environmental design",
+      "link": "AT061",
+      "why": "listed for comparison with the principle's design-over-interruption reading",
+      "notes": "target page lead reviewed this session; full body not read; relationship grounded in the adjacent principle's opened source"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Simplicity",
+      "link": "AT061",
+      "why": "listed for comparison with the principle's design-over-interruption reading",
+      "notes": "target page lead reviewed this session; full body not read; relationship grounded in the adjacent principle's opened source"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Neurodiversity paradigm",
+      "link": "AT074",
+      "why": "listed for comparison with the principle's variation-not-deficit reading",
+      "notes": "target page lead reviewed this session; full body not read; relationship grounded in the adjacent principle's opened source"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Neurodiversity",
+      "link": "AT074",
+      "why": "listed for comparison with the principle's variation-not-deficit reading",
+      "notes": "target page lead reviewed this session; full body not read; relationship grounded in the adjacent principle's opened source"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Transtheoretical model (Prochaska & DiClemente)",
+      "link": "BE007",
+      "why": "listed for comparison with the principle's stages-of-change reading",
+      "notes": "target page lead reviewed this session; full body not read; relationship grounded in the adjacent principle's opened source"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Gradual training",
+      "link": "BE007",
+      "why": "listed for comparison with the principle's stages-of-change reading",
+      "notes": "target page lead reviewed this session; full body not read; relationship grounded in the adjacent principle's opened source"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Right effort",
+      "link": "BE016",
+      "why": "listed for comparison with the principle's tiny-start reading of the Fogg model",
+      "notes": "target page lead reviewed this session; full body not read; relationship grounded in the adjacent principle's opened source"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Self-efficacy",
+      "link": "BE018",
+      "why": "listed for comparison with performance accomplishments as the source of efficacy beliefs",
+      "notes": "target page read before proposing; relationship is Bandura's first source vs the scheduled mastery task"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Activity scheduling (BA)",
+      "link": "BE018",
+      "why": "listed for comparison with the mastery category of scheduled activities",
+      "notes": "target page read before proposing; the page's 2011 review quote already names pleasure or mastery"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Competence motivation",
+      "link": "BE018",
+      "why": "listed for comparison with the feeling of efficacy that mastery activities are scheduled to produce",
+      "notes": "target page read before proposing; White's effectance reading vs the BA scheduling practice"
+    }
+  ]
 }

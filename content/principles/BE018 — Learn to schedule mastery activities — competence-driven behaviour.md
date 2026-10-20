@@ -12,11 +12,20 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BE — Overt Be
 ---
 > **Principle 18** — Learn to schedule mastery activities: competence-driven behaviour
 
-Mastery activities — behaviours that build competence and accomplishment (learning a skill, completing a project) — are a specific type of [[Behavioral activation|behavioural activation]]. They provide a sense of efficacy and are antidepressant.
+Within [[Behavioral activation|behavioural activation]], activities go on a schedule for what they do, and this principle names the category that builds capability. A depression-treatment program at the University of Michigan defines it:
 
-**Plain words** Schedule things that make you competent — learning, building, finishing. Mastery activities pay a double dividend: the result and the growing sense of "I can." Depression and stagnation both hate a completed project.
+> "Mastery involves activities, such as work or sports, that involve the development of skills; we are able to accomplish things and feel a sense of mastery over our environment." (University of Michigan, CBT group program for depression, "Pleasure and Mastery")
 
-*For example:* The Saturday morning language class — exhausting after a work week, and yet the single most mood-stabilising hour of the week. Competence is a nutrient.
+The same handout gives the effect and its limits: mastery activities 'can increase positive emotions and improve how we feel about ourselves', but only 'when enjoyed in moderation and diversified well with other activities', and the program asks for a balance of goals centered on values, pleasure and mastery. So the skill-building task is one scheduled category among three, and it shares the week with enjoyment and meaning.
+
+**Plain words** A weekly plan can hold two kinds of tasks: ones that feel good while you do them, and ones that leave something behind. Mastery is the second kind. The practiced chord change, the finished chapter: each completion leaves you slightly more capable than you were last week. Low mood will not ask for these tasks, so they need a day and a time on the plan. Keep the enjoyable tasks there too; the point is a mix.
+
+*For example* Imagined: someone in a low stretch puts three 25-minute practice sessions on the week's plan, one each on Monday, Wednesday and Friday, and gives each a short mastery rating after doing it. The Friday rating shows what the Monday mood could not have predicted.
+
+## Sources
+
+- [University of Michigan, "Pleasure and Mastery: Behavioral Activation" (CBT group program for depression, handout PDF)](https://psych.med.umich.edu/anxiety-program/pdf/Behavioral-Activation-for-Depression.pdf) — mastery definition, effect and balance guidance; quotes checked against the opened PDF
+
 ## Psychology parallels
 
 - **Mastery activities in BA**, mastery-oriented activities are specifically antidepressant (Martell et al., 2001; Dimidjian et al., 2011)
