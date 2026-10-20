@@ -1162,3 +1162,6 @@ Advisor QC found batch-level and per-item issues; all repaired. Key findings and
 - Time perception: Flow gloss cited with the Interalia interview; Boredom gloss cited with Wittmann 2009, §1; bare [[Attention]] kept as internal navigation.
 - True self: opening attribution made explicit ("Schlegel et al. (2009), as described in the 2011 review"); Authenticity gloss cited with the review.
 - Coverage check for this pass included the lead lines, Facets, and Related sections, in addition to body prose, blockquote attributions, and Sources lines. Validators: 5 checked, 0 failed (--base 08bd09c4).
+
+### QC round 6 acceptance (advisor)
+- Advisor confirmed round 6 closed and items 11-15 accepted at the fast-track bar. No further rewrites of these five pages for round 6.
