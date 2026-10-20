@@ -16,3 +16,5 @@
 - Validator: ok (plain) after rewrite.
 
 - Milestone QC round 3 (advisor) repairs: the opening replaced with an attributed two-case definition grounded in the opened introduction's Effortless definition box ("attention or action experienced as effortless, as well as exertion accompanied by lower-than-normal subjective effort while effectiveness remains normal or elevated") — the prior "without the felt effort" wording had excluded Bruya's second case; the opening sentence now carries the introduction citation. QC-record correction (state order): the round-2 rewrite was edited and validated before the reopen transition; the deviation is recorded here truthfully. From this point the required order is followed.
+
+- Milestone QC round 4 (advisor) repairs, in the required order: the first effort quotation ("the higher the demands of a course of action...") now carries its introduction citation. Round-3 correction: the round-3 cycle was retrospective; recorded truthfully, not repeated.
