@@ -1,6 +1,6 @@
 {
   "batch": "p1zj",
-  "revision": 31,
+  "revision": 32,
   "records": [
     {
       "action": "reciprocal",
@@ -372,6 +372,20 @@
       "link": "BE021",
       "why": "listed for comparison with covert rehearsal as an imagined-practice format",
       "notes": "target page read before proposing; Dewey's dramatic rehearsal in imagination vs DBT's covert rehearsal fallback"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Exposure therapy (Foa, Craske)",
+      "link": "BE028",
+      "why": "listed for comparison with the interoceptive variant of exposure",
+      "notes": "target page read before proposing; feared cues are bodily sensations in this variant"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Interoceptive awareness",
+      "link": "BE028",
+      "why": "listed for comparison with deliberate induction of the feared sensations",
+      "notes": "target page read before proposing; awareness is noticing signals, IE is approaching the feared ones"
     }
   ]
 }
