@@ -12,16 +12,16 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 40** — See that anger destroys what you are trying to protect
 
-Shantideva devotes the sixth chapter of the Bodhicharyavatara to forbearance (kshanti) and its opposite, which he names hatred. The chapter opens with a ledger: worship of the Sugatas, generosity and good conduct amassed over thousands of aeons are what hatred destroys. The next verses itemise what a hateful person loses hold of: peace, sleep and joy, the loyalty of dependants, and friends who shrink from him even though he gives. Later in the chapter comes the simile this principle leans on: a house fire, with people dragging away everything that could carry the flames to the next house.
+Shantideva devotes the sixth chapter of the Bodhicharyavatara to forbearance (kshanti) and its opposite, translated here as hatred. The opening verse states the stakes: worship of the Sugatas, generosity and good conduct amassed over thousands of aeons are what hatred destroys. The next verses describe what a hateful person loses hold of: peace, sleep and joy, the loyalty of dependants, and friends who shrink from him even though he gives. Later in the chapter comes the simile this principle leans on: a house fire, with people dragging away everything that could carry the flames to the next house.
 
 > This worship of the Sugatas, generosity, and good conduct performed throughout thousands of aeons - hatred destroys it all.
 > (Bodhicharyavatara 6.1, trans. Crosby and Skilton)
 
-The compendium's reading: the things anger is meant to protect are the things it spends. Standing, fairness, a relationship, a family's welfare; each is drawn down to pay for the blast. Shantideva's instruction is a move anyone can make in the moment. When the mind catches alight, drag the fuel out of reach before deciding anything, because the "body of merit might go up in flames" (6.71).
+In verses 6.70-71, Shantideva compares hatred spreading in the mind with a fire spreading between houses. He urges removing what carries the fire onward, lest the "body of merit might go up in flames" (6.71). The compendium applies the image through an exercise: pause before sending an angry response and consider what you want to preserve.
 
-**Plain words** List what you are protecting when anger rises: respect, a relationship, a fair outcome, someone's safety. Anger looks like the defender of those things, and it pays for the defence out of the same account. The person who shouts to be taken seriously stops being taken seriously; the parent who rages to protect the family teaches the family to keep away. The practice is simple to describe: feel the fire catch, move the fuel, and decide later.
+**Plain words** You may want someone to acknowledge a mistake and still want a relationship with them afterward. Before answering, consider both aims. Keep your first draft unsent while you decide whether its wording expresses what you want to ask for.
 
-*For example:* Imagine a colleague misses a deadline that costs you a weekend. Every sentence of the furious email you draft may be accurate, and the working relationship still pays for it; the person you need reliable next month starts routing around you.
+*For example:* Imagine drafting an insulting email after a colleague misses a deadline. You leave it unsent and write another version explaining what the delay affected and asking when the work will be ready.
 
 ## Sources
 
@@ -30,7 +30,7 @@ The compendium's reading: the things anger is meant to protect are the things it
 
 ## Psychology parallels
 
-- **Anger's costs in health and relationship outcomes** (prospective meta-analysis associates anger and hostility with coronary heart disease events; couples research links contemptuous, physiologically flooded conflict to relationship breakdown)
+- **Anger's costs in health and relationship outcomes** (anger and hostility were associated with coronary heart disease outcomes in the prospective studies reviewed by [Chida and Steptoe, 2009](https://www.jacc.org/doi/10.1016/j.jacc.2008.11.044))
 
 ## Philosophy parallels
 
