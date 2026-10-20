@@ -12,13 +12,21 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 498** — Practise the revaluation of values
 
-Examine the values you have inherited. Are they life-affirming or life-denying? The revaluation of values (Umwertung aller Werte) is Nietzsche's project of calling all inherited values into question — not to destroy them but to test whether they serve life. Examine your own values: do they enhance your flourishing or diminish it?
+Nietzsche asks about the value of moral judgments themselves, including whether judgments of good and evil have supported or impoverished human life ([The Genealogy of Morals, Preface, §3, Horace B. Samuel translation](https://www.gutenberg.org/files/52319/52319-h/52319-h.htm)). Investigating their origins is part of that task: the critique needs knowledge of the conditions in which values developed and changed ([Preface, §6](https://www.gutenberg.org/files/52319/52319-h/52319-h.htm)).
 
-(Nietzsche, 1887/1969, On the Genealogy of Morals; Nietzsche, 1888/1992, Twilight of the Idols, "How the 'True World' Finally Became a Fable"; Nietzsche, 1886/2001, Beyond Good and Evil.)
+> Have they up to the present hindered or advanced human well-being?
 
-**Plain words** The revaluation of values: examine the values you've inherited — are they life-affirming or life-denying? Call all inherited values into question — not to destroy them but to test whether they serve life. Most of your "values" have never been audited. Audit them.
+(Nietzsche, The Genealogy of Morals, Preface, §3; [opened text](https://www.gutenberg.org/files/52319/52319-h/52319-h.htm); “they” refers to judgments of value.)
 
-*For example:* Someone inherits "hard work is virtuous" wholesale — and the audit reveals it's quietly life-denying at their dose: the missed children, the stress, the pride in exhaustion. The value survives the audit in modified form, or it doesn't survive. Either way, it's now theirs.
+### Plain words
+
+Choose a conviction you have mostly treated as obvious and investigate where you learned it. Then ask what reasons you have for keeping it, taking its effects into account rather than treating familiarity as proof.
+
+This is a starting exercise for readers, not a summary of Nietzsche's entire evaluative standard. His preface questions the assumed superiority of the conventionally good person itself ([Preface, §6](https://www.gutenberg.org/files/52319/52319-h/52319-h.htm)).
+
+### For example
+
+Suppose you believe that never asking for help proves strength. You could examine who taught you that rule, what it asks of you and others, and which cases might justify revising it.
 ## Psychology parallels
 
 - **[[Values clarification|Values clarification]]** (Hayes et al., 2006; Schwartz, 1992)
