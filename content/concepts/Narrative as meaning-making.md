@@ -7,9 +7,9 @@ file: "Narrative as meaning-making"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-N"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter N", "parent": ""}
 ---
-Narrative as meaning-making is Paul Ricoeur's claim, developed across the three volumes of Time and Narrative (1984-88), that stories are not decoration added to experience but the form in which human action and time become intelligible. The Stanford Encyclopedia entry on Ricoeur describes the underlying idea: narrative discourse "is a use of language that allows us to make practical sense of human action and time" (Pellauer and Dauenhauer, [Paul Ricoeur, SEP](https://plato.stanford.edu/entries/ricoeur/), section 4).
+Narrative as meaning-making is Paul Ricoeur's claim, developed across the three volumes of Time and Narrative (1984-88), that narrative explains how stories help make practical sense of human action and time. The entry's account starts from the concepts ordinary language already has for action, such as intentions, motives, reasons and agents, and for time, such as past, present and future, and describes what narrative discourse does with that material:
 
-> "Narrative discourse configures such heterogeneous concepts into a discourse that locates actions in a time where one thing happens not just after something else but because of something else in a followable story or history." (SEP, "Paul Ricoeur", section 4)
+> "Narrative discourse configures such heterogeneous concepts into a discourse that locates actions in a time where one thing happens not just after something else but because of something else in a followable story or history." (Pellauer and Dauenhauer, [Paul Ricoeur, SEP](https://plato.stanford.edu/entries/ricoeur/), section 4)
 
 ### From plot to identity
 
@@ -32,6 +32,6 @@ The entry's summary of the plot work: through their plots, narratives are "a syn
 
 ## Related concepts
 
-- [[Emplotment (mise en intrigue)]] — the plot concept the quoted passages describe
+- [[Emplotment (mise en intrigue)]]
 - [[Meaning-making]] — the broader process this is a form of
-- [[Life story model]] — the psychological research program on life stories
+- [[Life story model]]

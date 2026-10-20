@@ -94,10 +94,14 @@
   "Gentleness (praotes)": "QC ACCEPTED (advisor, items 11-15, 3 rounds): scoped PASS with preserved limitations (focus theory attribution unresolved - zoom lens as related model; abstract-level evidence; Adler via archive full text)",
   "Goal setting theory (Locke & Latham)": "QC ACCEPTED (advisor, items 11-15, 3 rounds): scoped PASS with preserved limitations (focus theory attribution unresolved - zoom lens as related model; abstract-level evidence; Adler via archive full text)",
   "Individual Psychology (Adlerian psychology)": "QC ACCEPTED (advisor, items 11-15, 3 rounds): scoped PASS with preserved limitations (focus theory attribution unresolved - zoom lens as related model; abstract-level evidence; Adler via archive full text)",
-  "Mastery learning theory": "Reopened for QC: advisor QC round 1: remove inferred compendium clauses, seed line, unsupported related-concept explanations; scope 2-sigma historically"
+  "Mastery learning theory": "Reopened for QC: advisor QC round 1: remove inferred compendium clauses, seed line, unsupported related-concept explanations; scope 2-sigma historically",
+  "Moral circle expansion research": "Reopened for QC: milestone QC: alpha attribution, Singer provenance, blockquote link, seed residue",
+  "Moral exemplar research": "Reopened for QC: milestone QC: comparator scope, narrative-traits claim, Bandura clause, blockquote link",
+  "Mortality salience": "Reopened for QC: milestone QC: paradigm-design sentence removed, 1986 origin scoped, dated-results label",
+  "Narrative as meaning-making": "Reopened for QC: milestone QC: opening rewritten, quote antecedent, related-clause removal"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:34:23+00:00",
+ "updated": "2026-10-20T11:37:58+00:00",
  "band_done": false
 }

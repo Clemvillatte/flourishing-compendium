@@ -364,7 +364,7 @@
   from the chapter's verbatim reproduction of Bloom 1984, p. 4 (p. 758); "too
   costly for most societies to bear on a large scale" fragment verbatim from the
   same reproduction (Bloom 1984, pp. 4-5). Bloom 1984 primary text NOT opened
-  (MIT PDF is the JSTOR cover only); all Bloom-1984 wording is carried by the
+  (no article-body text extracted from the MIT PDF); all Bloom-1984 wording is carried by the
   opened chapter with disclosed provenance.
 - MIT bloom-two-sigma.pdf: no article-body text extracted; Bloom's original
   was not independently checked. The MIT URL is not cited on the page.
@@ -427,3 +427,21 @@
   intrigue), Meaning-making, Life story model — descriptive clauses only.
   Original section layout preserved (bare links after Sources; philosophy
   parallels section as found).
+
+## Milestone QC (advisor, items 2-5, session worker-p1zs-7d3c8e91)
+- Round 1 FAIL on all four -> repairs applied -> scoped PASS for items 2, 3, 5.
+  Item 4 (Mortality salience) treated as provisional pending an opened
+  current status-of-evidence check (its only opened source is the dated
+  2010 meta-analysis; the page now labels its numbers as that review's
+  results, not a field status report).
+- Repairs: alpha = .92 scoped to Study 1; Singer quote provenance labeled
+  (the paper's summary of Singer); blockquote source links added on all
+  four pages; "distinguishes them from everyone else" -> "the sampled
+  exemplars from comparison participants"; unsupported "life narratives
+  rather than surface traits" framing removed; Bandura and Ricoeur
+  Related-clauses removed (bare links kept); Mortality-salience paradigm-
+  design sentence removed (not in the opened abstract); Greenberg 1986
+  origin assertion scoped to the seed's citation; Ricoeur opening
+  rewritten (no "not decoration" claim; quote given its antecedent).
+- Degrees confirmed complete: Moral circle 10, Moral exemplar 9, Mortality
+  salience 9, Narrative 11 (all < 15, fast-track eligible).
