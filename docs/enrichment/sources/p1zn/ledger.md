@@ -19,3 +19,8 @@
 - Sources opened: Levinas TI (Lingis) excerpt via course reader PDF (page not confirmed); Sandstrom & Dunn 2014 abstract; Wesselmann 2012 PubMed record (no abstract) with finding via PMC11602955 summary.
 - Flags: Levinas does not discuss everyday greetings in the passages found; Pratt 2002, Verduyn 2019, Honneth, Tutu not opened.
 - QC: self-QC only; validator pass.
+
+## R105 — Narrative identity (MacIntyre)
+- Sources opened: After Virtue p.216 via PDF copy excerpt (epistemh.pbworks); p.217 via d-nb.info article. Quote verified verbatim.
+- Substantive flag: the entry's Plain words said "you're the author as well as the character"; MacIntyre p.216 says the key question is "not about their own authorship". Rewritten. Taylor, Ricoeur, McAdams 1993/2008 not opened.
+- QC: self-QC only; validator pass.

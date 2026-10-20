@@ -12,13 +12,24 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 367** — Practise narrative identity
 
-Understand your life as a narrative, a story that you are both living and telling. Your identity is not a fixed substance but a developing story, shaped by the communities, traditions, and relationships that give it meaning. Reflect on the narrative arc of your life: where has it been, where is it going, what is its theme?
+> A central thesis then begins to emerge: man is in his actions and practice, as well as in his fictions, essentially a story-telling animal. He is not essentially, but becomes through his history, a teller of stories that aspire to truth. But the key question for men is not about their own authorship; I can only answer the question 'What am I to do?' if I can answer the prior question 'Of what story or stories do I find myself a part?'
 
-(MacIntyre, 1981, After Virtue; Taylor, 1989, Sources of the Self; Ricoeur, 1992, Oneself as Another.)
+(MacIntyre, After Virtue: A Study in Moral Theory, 2nd ed., University of Notre Dame Press, 1984, p. 216; text read in [a PDF copy of the chapter](https://epistemh.pbworks.com/f/4.+Macintyre.pdf), where page 216 is visible.)
 
-**Plain words** Your life is a narrative you're both living and telling — identity isn't a fixed substance but a developing story. So tend the story: where has it been, where is it going, what's its theme? You're the author as well as the character.
+MacIntyre continues on the same page: "We enter human society, that is, with one or more imputed characters – roles into which we have been drafted – and we have to learn what they are in order to be able to understand how others respond to us." A later page of the book, quoted by a scholarly article, adds: "I am what I may justifiably be taken by others to be in the course of living out a story that runs from my birth to my death" (p. 217, as cited in [this article on After Virtue](https://d-nb.info/1326479482/34)).
 
-*For example:* Someone in a slump who re-reads their own life as story — and notices the pattern that the slumps always preceded the pivots; the narrative shifts from "things keep going wrong" to "I keep growing through."
+This matters for how the entry is read. The compendium's Plain words say "you're the author as well as the character." MacIntyre's passage points the other way, since the key question for him is "not about their own authorship" but about which story one is already part of. On his account identity is received from communities and traditions and then lived forward. An invitation to retell one's own story fits the psychological work on narrative identity (see the principle CO061 and its sources), but it is not MacIntyre's claim.
+
+Taylor's Sources of the Self and Ricoeur's Oneself as Another were not opened, nor were McAdams (2008) and McAdams (1993) in this entry.
+
+**Plain words** MacIntyre says people are story-telling animals who find themselves already inside stories, such as a family, a community or a tradition, and who answer "what should I do?" by asking which story they belong to. The authorship of one's life is shared with those stories.
+
+*For example (imagined):* Someone asked to decide whether to take over the family business first asks what story their family tells about work, loyalty and leaving, and then decides which chapter they want to write.
+
+## Sources
+
+- MacIntyre, After Virtue, 2nd ed. (Notre Dame, 1984), pp. 216-217 — [PDF copy of the chapter](https://epistemh.pbworks.com/f/4.+Macintyre.pdf) (page 216 read via search excerpt); p. 217 quoted via [d-nb.info article](https://d-nb.info/1326479482/34)
+
 ## Psychology parallels
 
 - **[[Narrative identity|Narrative identity]]** (McAdams, 2008)
