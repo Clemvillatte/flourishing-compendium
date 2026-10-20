@@ -1187,3 +1187,33 @@ Advisor QC found batch-level and per-item issues; all repaired. Findings and rep
 - Audit-note corrections (round 6b/6d): my ledger claims that PubMed pages 9613027 and 22122245 were crawler-blocked were inaccurate — I attempted EuropePMC (9613027, failed), PubMed 10745005 and 11994752 (failed), and a Semantic Scholar search (blocked), but never the two PubMed record pages; the accurate status is "not directly opened", now recorded in both Sources lines. The "cross-checked" claims are corrected: the two secondary papers corroborate the model's existence and role, not the original statistics, which is why the statistics were removed rather than kept.
 - Validation-gate failure recorded: for item 17 the initial close proceeded despite a 1-failed validator run (banned phrases "pivotal", "plays a key role"); the banned phrases were repaired in a follow-up save. All close sequences now use set -o pipefail with tee, so a failed validation blocks done and save.
 - Preservation re-verified for all five files after repairs: front-matter blocks and wikilink sets identical to 08bd09c4 (no inherited links lost; trailing-fragment removal in item 18 preserved every wikilink).
+
+## Workability (2026-10-20, worker-p1zs-7a4e2c91, fast-track; degree 10 — eligible)
+
+- OPENED: contextualscience.org "Therapy & Theory" study pages
+  https://contextualscience.org/book/export/html/49325 (raw fetch, no prompt; content
+  compared directly). Verified character-for-character in the raw text: the blockquote
+  "ACT emphasizes workability as a truth criterion, and chosen values as the necessary
+  precursor to the assessment of workability because values specify the criteria for
+  the application of workability." (Steven Hayes, "Philosophical roots", Jan 11 2006).
+  Functional-contextualism grounding paraphrased (not quoted) from the same page
+  ("pragmatic philosophy of functional contextualism"; "pragmatic truth criterion of
+  contextualism" — no quotation marks used). Inherited citation lines (Hayes, A
+  Liberated Mind; Hayes et al., 2011; Hayes, 2019; James, Pragmatism) kept unopened and
+  distinct from the opened evidence; no claims rest on them.
+- Advisor QC (first item of this session): round 1 FAIL — repairs applied: opening
+  narrowed to the values-relation criterion (removed "in place of literal truth" and
+  "not by whether it is correct" blanket rejection); 2005 outline quote and Eric Fox
+  study-summary passages removed (provenance: separate authors on the same page; not
+  independently verifiable as Hayes's book text); "developer-history" sentence removed;
+  In-the-compendium bullets reduced to factual descriptions of what each repo page does
+  (James quote from P013 removed; Y014/SP008/P156 glosses reduced); audit-language gloss
+  on Holding as hypothesis replaced with a bare link; closer sentence removed; ten-dash
+  self-link line removed with the [[Workability]] token moved into the opening
+  paragraph; Cognitive defusion and Experiential avoidance theory links kept bare
+  (validator preservation vs the failed round-1 push). Raw-page quote verification done
+  per advisor instruction (prompt-extraction not trusted alone).
+- IS-IT-A-CONCEPT check: workability is ACT's named criterion, defined in opened
+  sources — a concept, not a principle or comparison. No namespace-audit entry (grep).
+- Saturation: skipped per fast-track §1a (degree 10 < 15); no cross-link proposals
+  filed; note in batch log.

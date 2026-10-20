@@ -56,9 +56,10 @@
   "Uncertainty tolerance",
   "Unconditional positive regard",
   "Weekly-review implementation intentions",
-  "Work engagement"
+  "Work engagement",
+  "Workability"
  ],
- "in_progress": "Workability",
+ "in_progress": null,
  "flagged": {
   "Spontaneous right action": "title pending supervisor disposition: compendium heading, not the tradition's term (zhixing heyi); flagged in concept-namespace-audit.md worker flags",
   "The natural rhythm of warmth and cool": "title pending supervisor disposition: compendium heading over a real Zhuangzi ch.6 image; flagged in audit worker flags",
@@ -111,6 +112,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 24,
- "updated": "2026-10-20T11:23:41+00:00",
+ "updated": "2026-10-20T11:29:57+00:00",
  "band_done": false
 }
