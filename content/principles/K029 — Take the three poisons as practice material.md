@@ -17,7 +17,7 @@ The slogan is from the Seven Points of Mind Training (Chekawa, point two, slogan
 > "Whenever any of the three poisons happens in your life, you should do the sending and taking practice."
 > (Chögyam Trungpa, Training the Mind and Cultivating Loving-Kindness, commentary on slogan 8; reproduced at [Spirituality and Practice](https://www.spiritualityandpractice.com/practices/practices/view/28555/three-objects-three-poisons-and-three-seeds-of-virtue).)
 
-Trungpa's commentary continues that this means looking at your passion, your aggression, and your delusion, without regarding them as a problem or as a promise, and then saying, while in a state of aggression, "May this aggression be a working base for me. May I learn to hold my aggression to myself, and may all sentient beings thereby attain freedom from aggression." The same is done for passion and for indifference.
+Trungpa explains this as taking others' passion, aggression and delusion upon oneself with the wish that they be free of them. His aggression example combines acknowledging one's own aggression with wishing all sentient beings freedom from aggression; he gives corresponding instructions for passion and indifference.
 
 (Seven-Point Mind Training, point two; Trungpa's commentary.)
 
@@ -28,9 +28,10 @@ Trungpa's commentary continues that this means looking at your passion, your agg
 ## Psychology parallels
 
 - **[[Cognitive restructuring|Cognitive restructuring at the trigger point]]** (Beck, 1976; Gross, 2015, for reappraisal)
-- **[[The three poisons|The three poisons]]** — the Buddhist tradition's name for the trio Trungpa glosses
 
 ## Philosophy parallels
+
+- **[[The three poisons|The three poisons]]** — the Buddhist tradition's name for the trio Trungpa glosses
 
 - **[[Antidotes to afflictions|The antidotes to the afflictions]]** (Buddhist tradition, Santideva's ch. 6)
 - **[[Countering states with their opposites|Countering states with their opposites]]** (YS 2.33-2.34)
