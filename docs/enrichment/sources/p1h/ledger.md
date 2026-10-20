@@ -395,3 +395,23 @@ done for BE052/BI032/BI045. Content items flagged for the new p1h owner (below).
   believe" and "smoke alarm conducts the audit" jokes removed; example now names the
   switch cost in the kitchen. Plain words re-derived (bounce/re-orientation).
 - Neighbors saturated (7 concepts + layer); no new proposals. Validator ok.
+
+### AT035 (2026-10-20, worker-p1h-7d3e9c4a)
+
+- Sources opened: Killingsworth & Gilbert 2010 BREVIA PDF (Science 330:932, university-
+  hosted copy) and Mooneyham & Schooler 2013 review PDF (Can J Exp Psychol 67(1):11-18,
+  UCSB metalab). Both blockquotes verbatim vs the opened PDFs; the 46.9% figure and the
+  time-lag direction claim from the opened K&G text ("time-lag analyses strongly
+  suggested that mind wandering in our sample was generally the cause, and not merely
+  the consequence, of unhappiness").
+- Seed-body claims scoped: "roughly 50%" replaced with the study's own 46.9% of samples;
+  "memory consolidation" benefit dropped from the body (not in the opened Mooneyham
+  abstract; the parallels bullet retains it as inherited); "1/3 during reading" (Kane)
+  dropped from the body (unopened). Em dashes removed; "That's the whole class" and
+  "That's the whole game" closers removed; plain words re-derived; example rewritten
+  (the student example asserted "the ones who do well just notice" — unsupported).
+- Note: an earlier draft edit in this session was drafted against misremembered file
+  text and correctly failed to match; the rewrite was applied against the file's real
+  body (untouched since initial import c2a3ee47).
+- Neighbors (Mind wandering, The monkey mind, Wu wei, AT-S03 layer) already dense;
+  no new proposals. Validator ok.
