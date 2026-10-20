@@ -366,7 +366,15 @@
   same reproduction (Bloom 1984, pp. 4-5). Bloom 1984 primary text NOT opened
   (MIT PDF is the JSTOR cover only); all Bloom-1984 wording is carried by the
   opened chapter with disclosed provenance.
-- MIT bloom-two-sigma.pdf opened: citation cover page only, no body text; cited
-  as the article record, not as evidence.
-- In-the-compendium clauses derived from principle titles; no principle bodies
-  opened for this item.
+- MIT bloom-two-sigma.pdf: no article-body text extracted; Bloom's original
+  was not independently checked. The MIT URL is not cited on the page.
+- QC round 1 (advisor, session worker-p1zs-7d3c8e91): FAIL -> repaired. The
+  first pushed version carried a bold seed sentence, title-derived
+  In-the-compendium clauses and four unsupported Related-concept explanations
+  (Deliberate practice / Growth mindset / Self-regulated learning / ZPD);
+  2-sigma paragraph scoped to the Anania/Burke account as reproduced. QC
+  round 2: cycle paragraph tightened (no 'before the class moves on' claim;
+  unit / formative / correctives / parallel-second-assessment steps per the
+  chapter, pp. 753-754, 758). Validated ok with --fast-track --base 886ced77
+  (pre-item baseline). Advisor scoped PASS on the revised passages; removed
+  links are recorded here as QC history, not current page content.
