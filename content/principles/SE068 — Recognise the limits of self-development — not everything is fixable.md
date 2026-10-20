@@ -36,7 +36,6 @@ Imagined: After repeated attempts to become a morning person, a man decides to a
 ## Psychology parallels
 
 - **Temperament and traits are partly stable**, personality traits show substantial stability across adulthood (Roberts & DelVecchio, 2000)
-- Traits can change, but slowly and modestly
 
 ## Philosophy parallels
 

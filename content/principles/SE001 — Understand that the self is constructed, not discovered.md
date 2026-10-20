@@ -30,7 +30,7 @@ Imagined: Someone who describes herself as unreliable lists recent commitments s
 
 ## Sources
 
-- [McAdams, "'First we invented stories, then they changed us': The Evolution of Narrative Identity", Evolutionary Studies in Imaginative Culture (2019, open PDF)](https://web.ics.purdue.edu/~drkelly/McAdamsFirstWeStoriesThenTheyChangedUs2019.pdf) — introduction (both quotations)
+- [McAdams, "'First we invented stories, then they changed us': The Evolution of Narrative Identity", Evolutionary Studies in Imaginative Culture (2019, open PDF)](https://web.ics.purdue.edu/~drkelly/McAdamsFirstWeStoriesThenTheyChangedUs2019.pdf) — introduction
 
 ## Psychology parallels
 
@@ -46,4 +46,4 @@ Imagined: Someone who describes herself as unreliable lists recent commitments s
 
 ## Practice
 
-- Recognise that "who I am" is a construction, not a discovery. When your sense of self feels fixed and limiting ("I am just an anxious person"), remember that this is a construction that can be revised.
+- Compare one familiar self-description with experiences that support or challenge it. Consider whether a more specific description would fit those experiences.

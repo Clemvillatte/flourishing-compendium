@@ -18,7 +18,7 @@ Spinoza's proposition, in Elwes's translation:
 >
 > (Spinoza, Ethics IV, Prop. LXX, Elwes translation)
 
-The proof gives the mechanism: "an ignorant man, who has conferred a benefit on another, puts his own estimate upon it, and, if it appears to be estimated less highly by the receiver, will feel pain". The favor comes bundled with an expected valuation, and the giver collects. The note adds the two qualifications: sometimes accepting is necessary ("in cases of necessity could afford us human aid, the most excellent of all things"), and declining itself needs care, "lest we should have the appearance of despising those who bestow them", because a clumsy refusal gives "ground for offence by the very fact of striving to avoid it".
+The proof gives the mechanism: "an ignorant man, who has conferred a benefit on another, puts his own estimate upon it, and, if it appears to be estimated less highly by the receiver, will feel pain". The proof describes the giver's response when the recipient values the benefit less highly. The note adds the two qualifications: sometimes accepting is necessary ("in cases of necessity could afford us human aid, the most excellent of all things"), and declining itself needs care, "lest we should have the appearance of despising those who bestow them", because a clumsy refusal gives "ground for offence by the very fact of striving to avoid it".
 
 The proposition concerns dealings with people Spinoza calls "ignorant". Its note allows for accepting help when necessary and advises care in refusing, since refusal can itself offend. The Treatise's Preface adds the background: the masses "are led to praise or blame by impulse rather than reason". The compendium applies this caution by asking what a benefit commits the recipient to before accepting it, and by taking a group's applause or hostility as data about the group rather than as verdicts on one's course.
 
@@ -34,6 +34,8 @@ Imagined: A local organiser is offered sponsorship by a prominent donor. Before 
 
 - [Spinoza, Ethics, Elwes translation (Gutenberg)](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm) — Part IV, Prop. LXX with proof and note
 - [Spinoza, A Theological-Political Treatise [Part I], Elwes translation (Gutenberg)](https://www.gutenberg.org/files/989/989-0.txt) — Preface (the masses passage)
+- [Laozi, Tao Te Ching ch. 20, Legge translation (taopage.org)](https://www.taopage.org/tao_te_20.html) — "What all men fear is indeed to be feared"
+- [Kierkegaard, "The Crowd is Untruth" (Christian Classics Ethereal Library)](https://www.ccel.org/ccel/kierkegaard/untruth/files/untruth.html) — written 1846, revised and enlarged, Copenhagen Spring 1847
 
 ## Psychology parallels
 
