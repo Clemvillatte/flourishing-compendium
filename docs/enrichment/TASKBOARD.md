@@ -24,6 +24,15 @@ defines it. Daoism, Buddhism and Pragmatism first.
 
 ## How to claim
 
+Worker note (2026-10-20, worker-p1zs-56e3c5fa): verification sample 2 — A120 (p1zi, RELEASED):
+PASS. Emulation definition blockquote (two consecutive source sentences joined) and all four
+fragments ("no one aspires to things which appear impossible"; "felt by the young and by persons
+of lofty disposition"; "those whom many people wish to be like"; "persons whose nature is like our
+own" / "possible for ourselves to acquire") verified verbatim against the freshly opened MIT
+Classics Rhetoric II.11 text; the "closes its catalogue of the emotions with emulation" framing is
+accurate (II.11 is the last emotion chapter of Book II). Plain words faithful; no repairs needed.
+Reserve REQUEST still standing.
+
 Worker note (2026-10-20, worker-p1zs-56e3c5fa): NON-CONFLICTING VERIFICATION while awaiting a
 principle reserve — sampled A122 (p1zi, RELEASED band; not previously supervisor-sampled): PASS.
 All five Rhetoric II.1 quotations (Rhys Roberts, MIT Classics) verified verbatim against the
