@@ -13,12 +13,11 @@
   "MO022",
   "MO025",
   "M014",
-  "MO049",
   "MO076",
   "PP008",
   "PP013"
  ],
- "in_progress": null,
+ "in_progress": "MO049",
  "flagged": {
   "K051": "Reopened for QC: QC: advisor round-1 FAIL — scope and quote-attribution repairs",
   "K065": "Reopened for QC: QC: advisor batch round-1 repairs",
@@ -30,10 +29,11 @@
   "MO014": "Reopened for QC: QC: advisor batch round-1 repairs (items 7-12)",
   "MO017": "Reopened for QC: QC: advisor batch round-1 repairs (items 7-12)",
   "MO022": "Reopened for QC: QC: advisor batch round-1 repairs (items 7-12)",
-  "MO025": "Reopened for QC: QC: advisor batch round-1 repairs (items 7-12)"
+  "MO025": "Reopened for QC: QC: advisor batch round-1 repairs (items 7-12)",
+  "MO049": "Reopened for QC: QC: advisor items 13-16 repairs"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T10:40:36+00:00",
+ "updated": "2026-10-20T10:42:46+00:00",
  "band_done": false
 }
