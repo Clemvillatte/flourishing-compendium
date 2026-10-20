@@ -484,3 +484,24 @@
   artifact, preserved per protection rules.
 - Validation: --fast-track ok (concept <15 connections; prose minimum waived; all other
   checks pass). Build ok (5718 entries, fcAuthored 976).
+
+## The criterion of experience (2026-10-20, fast-track; degree 9 — eligible)
+
+- OPENED: William James, "The Will to Believe" (1896), full text from Project
+  Gutenberg #26659 — downloaded via curl and read directly. Section III criterion
+  passage quoted verbatim (verified in the raw text: "No concrete test of what is
+  really true has ever been agreed upon..." through the Kant sentence; italics
+  markers removed, page marker {16} omitted before the later paraphrased clause).
+  The closing paraphrases the same essay's footnote ("belief is measured by
+  action") and the Grenzbegriff sentence, both verified in the raw text. One
+  verbatim blockquote used.
+- IS-IT-A-CONCEPT check: the page TITLE is the compendium's heading; the opened
+  essay discusses criteria for truth but does not use this phrase as a named term.
+  Grep at this round: no entry in concept-namespace-audit.md; on the
+  concept-verification-queue (verified by grep this round). Flagged for supervisor
+  disposition (added to the audit worker-flags section this round).
+- FLAG (inherited, protected): the preserved Sources line "James, The Will to
+  Believe" was the seed text, now expanded with the opened URL; seed wording kept
+  in the Sources entry.
+- Validation: --fast-track ok (concept <15 connections; prose minimum waived; all other
+  checks pass). Build ok (5718 entries, fcAuthored 976).
