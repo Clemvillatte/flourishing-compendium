@@ -49,3 +49,8 @@
 - Sources: Abram 1996 quoted second-hand (SCUP chapter with p. ix; reader's notes citing Vintage pp. 22, 56); Mayer & Frantz 2004 record via Crossref (no abstract); meta-analysis excerpt PMC7027494.
 - Flags: Abram, Plumwood, Naess not opened directly; Mayer & Frantz abstract unobtainable; evidence on nature connectedness is self-report/associational.
 - QC: self-QC only; validator pass.
+
+## S017 — Refuse to see externals as good or bad
+- Opened: Epictetus Enchiridion 1, 5, 32 (Carter, MIT Classics); SEP "Stoicism" (indifferents, preferred indifferents); Sahdra, Shaver & Brown 2010 abstract (PMID 20155561).
+- Not opened: Discourses I.30, II.19, III.3; Marcus Meditations III.6, VI.13; Hayes et al. 2011.
+- Note: entry's "externals are not good or bad" nuanced with Stoic preferred indifferents; Sahdra nonattachment is a Buddhist-derived parallel, not a Stoic finding.

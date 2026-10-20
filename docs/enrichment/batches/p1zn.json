@@ -10,7 +10,8 @@
   "R111",
   "R123",
   "R126",
-  "R130"
+  "R130",
+  "S017"
  ],
  "in_progress": null,
  "flagged": {
@@ -23,9 +24,10 @@
   "R111": "Taylor more qualified than entry; Phinney 1992 MEIM, Kymlicka, Honneth not opened; homogenizing quote second-hand",
   "R123": "Macy&Brown book not opened (web adaptation used); Hooker 2020 reference unverified; Barbaro&Pickett via review summary",
   "R126": "Entry diverges from Dobson (duties to humans via footprint; not rights toward more-than-human); Eckersley, Clayton&Opotow not opened; book read via OUP excerpts",
-  "R130": "Abram quoted second-hand (pages differ by edition); Mayer&Frantz 2004 abstract unobtainable; Plumwood/Naess not opened"
+  "R130": "Abram quoted second-hand (pages differ by edition); Mayer&Frantz 2004 abstract unobtainable; Plumwood/Naess not opened",
+  "S017": "Discourses I.30/II.19/III.3, Marcus III.6/VI.13, Hayes 2011 not opened; entry nuanced with preferred indifferents (SEP); Sahdra 2010 is a Buddhist-derived parallel"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T10:44:22+00:00"
+ "updated": "2026-10-20T10:45:32+00:00"
 }

@@ -12,13 +12,25 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 139** — Refuse to see externals as good or bad
 
-The judgement that wealth is good or poverty is bad is the source of endless disturbance. Externals are indifferent. The only good is virtue; the only bad is vice. Practise this distinction until it becomes habitual.
+> Men are disturbed, not by things, but by the principles and notions which they form concerning things. Death, for instance, is not terrible, else it would have appeared so to Socrates. But the terror consists in our notion of death that it is terrible.
 
-(Disc. I.30, II.19, III.3; Med. III.6, VI.13; Ench. 1.)
+(Epictetus, Enchiridion 5, trans. Elizabeth Carter, [Internet Classics Archive](https://classics.mit.edu/Epictetus/epicench.html), page opened.)
 
-**Plain words** Calling wealth good or poverty bad is the source of endless disturbance. Externals are indifferent. Only virtue is good and only vice is bad. Keep practising that distinction until it's automatic.
+Enchiridion 32 states the rule for externals: "if it is among the things not in our own control, it can by no means be either good or evil." Enchiridion 1 lists what is not in our control as "body, property, reputation, command." The words the entry uses, "externals are indifferent," belong to the school's wider doctrine. As the Stanford Encyclopedia puts it, the Stoics say health, wealth and reputation are neither good nor bad, "indifferent" to happiness, since "only virtue benefits a human being and makes our lives go well."
 
-*For example:* Losing a client feels like a disaster until you ask whether you acted honestly. If you did, the loss is only a loss of income.
+The same source adds a point the entry's last sentence needs. The mainstream Stoic view is that some indifferents, "such as health, wealth, and reputation," are "preferred," have "value," and are "according to nature," so that it is "appropriate or dutiful" to select them over their opposites in normal circumstances. A virtuous agent "is therefore not lackadaisical in her attitude toward indifferents" ([Stanford Encyclopedia of Philosophy, "Stoicism"](https://plato.stanford.edu/entries/stoicism/)). So the practice is to stop treating the outcome as the measure of one's goodness while still caring for health, money and clients.
+
+For the psychology, Sahdra, Shaver and Brown describe nonattachment as "based on insight into the constructed and impermanent nature of mental representations" and report evidence that it "is psychologically and socially adaptive" (Journal of Personality Assessment 92(2), 2010, abstract; [PubMed](https://pubmed.ncbi.nlm.nih.gov/20155561/)). That is a Buddhist-derived construct, so it is a parallel and not a Stoic finding. The Discourses and Marcus Aurelius passages cited in the entry, and Hayes et al. (2011), were not opened.
+
+**Plain words** Epictetus says it is our judgements about things, not the things, that disturb us. For the Stoics wealth and poverty do not make a life good or bad, and only virtue does. They still treated health and money as worth choosing, and what changes is how much weight the outcome gets.
+
+*For example (imagined):* A freelancer loses a client and first feels it as a verdict on their worth. They then ask whether they dealt honestly, and answer yes. The loss still stings and is no longer a disaster.
+
+## Sources
+
+- [Epictetus, Enchiridion (trans. E. Carter), sections 1, 5, 32](https://classics.mit.edu/Epictetus/epicench.html) — MIT Internet Classics Archive, page opened
+- [Stanford Encyclopedia of Philosophy, "Stoicism"](https://plato.stanford.edu/entries/stoicism/) — sections on value and indifferents opened
+- [Sahdra, Shaver & Brown (2010), J Pers Assess 92(2), 116-127](https://pubmed.ncbi.nlm.nih.gov/20155561/) — PubMed abstract opened
 
 ## Psychology parallels
 
