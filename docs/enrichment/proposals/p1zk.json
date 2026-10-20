@@ -1,27 +1,19 @@
 {
  "batch": "p1zk",
- "revision": 1,
- "records": [
+ "revision": 2,
+ "reciprocal": [
   {
-   "action": "reciprocal",
    "into": "Sleep deprivation",
    "link": "BE037",
    "why": "the lab mechanism behind this principle: a sleep-deprived brain overreacts to negative images",
-   "notes": "BE037's opened source (Goldstein & Walker 2014, reporting Yoo et al. 2007) gives the 60% amygdala amplification; Sleep deprivation is the concept page for that state."
+   "notes": "Evidence recorded in sources/p1zk/BE037.md (Goldstein & Walker 2014 reporting Yoo et al. 2007, opened)."
   },
   {
-   "action": "reciprocal",
-   "into": "Sleep hygiene (CBT-I)",
-   "link": "BE037",
-   "why": "the behavioural toolkit that protects the foundation this page prioritises",
-   "notes": "concept page already cites BE037 in its Cited in list; the apply inserts a BE037 line into the concept's Related concepts section (verified read-only in enrich_apply.py: reciprocal writes only the into-file)."
-  },
-  {
-   "action": "reciprocal",
    "into": "Affect labeling",
    "link": "BE037",
    "why": "listed for comparison",
-   "notes": "Neutralised per advisor QC round 2: local page records Lieberman's amygdala-reduction finding but page text alone does not verify the empirical claim; comparison held pending source review. Apply inserts a BE037 line into Affect labeling's Related concepts section (read-only check of enrich_apply.py)."
+   "notes": "Neutralised per advisor QC: the local page records Lieberman's amygdala-reduction finding; comparison held pending source review. Evidence notes in sources/p1zk/BE037.md."
   }
- ]
+ ],
+ "inline": []
 }

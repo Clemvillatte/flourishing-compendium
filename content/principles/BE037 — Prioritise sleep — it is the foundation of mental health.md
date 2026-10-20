@@ -43,4 +43,4 @@ Tell someone helping you with your mental health about nights spent awake as wel
 
 ## Practice
 
-- Prioritise sleep: the American Academy of Sleep Medicine and Sleep Research Society consensus recommends adults sleep 7 or more hours per night on a regular basis to promote optimal health ([AASM/SRS 2015](https://aasm.org/resources/pdf/pressroom/adult-sleep-duration-consensus.pdf)). Consistent schedule, dark and cool bedroom, no screens before bed are standard sleep-hygiene guidance ([[Sleep hygiene (CBT-I)]]). Sleep is the foundation, not a luxury.
+- Prioritise sleep: the American Academy of Sleep Medicine and Sleep Research Society consensus recommends adults sleep 7 or more hours per night on a regular basis to promote optimal health ([AASM/SRS 2015](https://aasm.org/resources/pdf/pressroom/adult-sleep-duration-consensus.pdf)). See [[Sleep hygiene (CBT-I)]].
