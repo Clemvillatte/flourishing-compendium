@@ -2,9 +2,10 @@
  "batch": "p1zq",
  "done": [
   "Y095",
-  "Y097"
+  "Y097",
+  "Y108"
  ],
- "in_progress": "Y108",
+ "in_progress": null,
  "flagged": {
   "Y095": "Reopened for QC: advisor QC round 2 fail: Y095 still substitutes fact-checking for the source's knowledge claim; ledger provenance inaccurate; needs actual enrichment_find mention check",
   "Y097": "advisor round-2 still rejected: razor-path verse does not establish revisable answers; Y097 needs fresh source attribution",
@@ -17,6 +18,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:45:10+00:00",
+ "updated": "2026-10-20T11:45:39+00:00",
  "band_done": false
 }
