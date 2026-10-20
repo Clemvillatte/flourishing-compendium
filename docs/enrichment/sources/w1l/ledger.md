@@ -56,3 +56,23 @@ reserve from the active supervisor (see TASKBOARD claim note).
 - Saturation: fast-track exemption; no reciprocal proposed (both Related targets
   are stubs or stable pages outside obvious reciprocal reach).
 - QC: validator ok (1 warning: 2 Related-concepts lines, within fast-track bar).
+
+## Detachment from outcomes
+
+- Track: fast-track, current degree 6 (1 concept + 5 principle neighbors).
+- Opened: https://www.bhagavad-gita.us/bhagavad-gita-2-47/ (BG 2.47 with
+  Ramanuja/Madhva/Shankara commentaries; same page used by the p1d AT023
+  item), fetched 2026-10-20.
+- Quotation: full verse 2.47 English translation copied from the fetched
+  page ("You have a right to perform your prescribed duty... never be
+  attached to not doing your duty.").
+- Compendium clauses grounded by reading S072, Y111, P104, AF059, D066
+  context records at HEAD. Karma yoga (deg 9), Psychological detachment
+  (deg 6, w1l manifest item), Non-attachment (deg 12) verified to exist.
+- Limits: the translation is the site's standalone rendering (not
+  attributed to a specific commentator); noted in the ledger. The
+  ACT/Sonnentag-Fritz lines are inherited seed claims kept as-is, not
+  newly certified. Sanskrit transliteration available on the page if a
+  later pass wants it.
+- Saturation: fast-track exemption; no reciprocal proposed.
+- QC: validator ok.
