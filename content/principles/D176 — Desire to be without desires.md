@@ -12,17 +12,26 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 176** — Desire to be without desires
 
-The sage desires to be without desire: don't even turn simplicity into a new craving. Hold goals: including spiritual ones — loosely.
+Chapter 64 of the Daodejing ends with the sage's difference from other men: he desires what other men do not desire, and does not prize things difficult to get; he learns what other men do not learn, and turns back to what the multitude of men have passed by; thus he helps the natural development of all things, and does not dare to act with an ulterior purpose of his own. Earlier in the chapter, the same rule at the scale of affairs: action should be taken before a thing has made its appearance, order secured before disorder has begun; and people in their conduct of affairs are constantly ruining them when they are on the eve of success — if they were careful at the end as at the beginning, they would not so ruin them.
 
 (DDJ 64.)
 
-**Plain words** The sage desires to be without desire — don't even turn simplicity into a new craving. Hold goals, including spiritual ones, loosely. The minimalist competing for the sparsest apartment has just invented a new scoreboard.
+> "Therefore the sage desires what (other men) do not desire, and does not prize things difficult to get; he learns what (other men) do not learn, and turns back to what the multitude of men have passed by." (DDJ 64, [Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
-*For example:* The person who turns meditation into another achievement app with streaks — the path became the new treadmill.
+The principle's title, "desire to be without desires", is the compendium's gloss on the sage's desiring what other men do not desire: the reading takes the difference to be about desire itself, in the sage's not prizing things difficult to get.
+
+**Plain words**
+The chapter's sage wants what others do not want, and does not prize what is hard to get. The compendium's exercise: name a goal, including a spiritual one, and ask what its loss would do to you — that is the test of whether it is held as a prize or as a direction.
+
+*For example:* The compendium's hypothetical: the person who turns meditation into another achievement app with streaks — the practice became the new prize.
+
+## Sources
+
+- [Tao Teh King, James Legge translation, Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm) — chapter 64
 
 ## Psychology parallels
 
-- **[[Nonattachment|Nonattachment]]**, a flexible, non-grasping relation to experience predicts well-being beyond mindfulness (Sahdra et al., 2010)
+- **[[Nonattachment|Nonattachment]]** (Sahdra et al., 2010)
 
 ## Philosophy parallels
 
