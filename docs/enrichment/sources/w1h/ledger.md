@@ -166,3 +166,11 @@
   four stages and their cyclic order. Grasping/transforming dimensions NOT included
   (seen only in unopened snippets).
 - Klein NDM kept as seed citation line only.
+
+## Expressive suppression versus reappraisal (fast-track)
+- Opened: PubMed 12916575 (Gross & John 2003, JPSP 85, 348-362) — Studies 3/4/5
+  findings quoted verbatim from the abstract.
+- Reused already-opened PubMed 8326473 (suppression definition) and 12899316
+  (Butler interpersonal costs).
+- Early/late timing mechanism NOT included (not stated in the opened abstracts);
+  editorial superlative removed before validation.
