@@ -12,13 +12,24 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 7** — Let reason (logos) guide desire (orexis)
 
-The soul has rational and non-rational parts, but they are not enemies. The well-ordered soul has desire trained to follow reason, not extinguished. Education and habituation align appetite with the good. Do not suppress desire; educate it.
+> the appetitive and in general the desiring element in a sense shares in [a rational principle], in so far as it listens to and obeys it
 
-(NE I.13, III.12; De Anima III.7-10.)
+(Aristotle, Nicomachean Ethics I.13, 1102b, trans. W. D. Ross, [MIT Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html). Bracketed words are added to complete the sense.)
 
-**Plain words** Desire isn't the enemy and reason isn't a jailer. Aristotle wants them working together, with appetite trained over time to want what's good for you. Crushing desire leaves it stronger underground. Teaching it, through habit and practice, works better.
+Aristotle compares this to how one "takes account" of a father or friends, and says that in the temperate and brave person the desiring element "speaks, on all matters, with the same voice as the rational principle." In the continent person it obeys, and there is also a part "naturally opposed to the rational principle, which fights against and resists that principle."
 
-*For example:* A person who has lived on a budget long enough stops feeling the pull toward the expensive coffee. Years of small choices changed the wanting itself.
+He closes his account of temperance in III.12 with the same picture: "as the child should live according to the direction of his tutor, so the appetitive element should live according to rational principle. Hence the appetitive element in a temperate man should harmonize with the rational principle; for the noble is the mark at which both aim" ([Book III, Ross](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html)). He adds that "the exercise of appetite increases its innate force," which is why appetites "should be moderate and few."
+
+The claim that crushing desire leaves it "stronger underground" is not in Aristotle and has been dropped. The De Anima reference and the Plato, Deci and Ryan and dual-process parallels were not opened. The budget-and-coffee example is the entry's own illustration.
+
+**Plain words** Aristotle does not treat reason and desire as enemies. Desire can listen to reason, and in a well-formed person it wants what reason recommends. That takes training over time, because desire is shaped by what you repeatedly do.
+
+*For example:* After years of living on a budget, someone no longer feels much pull toward the expensive coffee. The wanting itself has changed.
+
+## Sources
+
+- [Aristotle, Nicomachean Ethics (trans. W. D. Ross), Book I, MIT Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html) — chapter 13 read
+- [Aristotle, Nicomachean Ethics, Book III, MIT Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html) — chapter 12 read
 
 ## Practice kernels
 
