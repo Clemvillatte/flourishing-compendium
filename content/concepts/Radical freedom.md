@@ -7,22 +7,37 @@ file: "Radical freedom"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-R"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter R", "parent": ""}
 ---
-“Radical freedom” — Sartre, Being and Nothingness.
+Radical freedom, in Sartre's account, is the claim that a person's situation never determines their response to it. The Stanford Encyclopedia summarizes: no factual state, whatever it may be, can cause consciousness to respond to it in any one way ([Reynolds & Renaudie, SEP, Sartre](https://plato.stanford.edu/entries/sartre/)). The canonical formulation is in Existentialism Is a Humanism:
+
+> "We are, in this sense, condemned to be free because 'there are no excuses behind us nor justifications before us.'"
+> — [Sartre, Existentialism Is a Humanism (1946), trans. B. Frechtman, quoted in SEP entry on Existentialism](https://plato.stanford.edu/entries/existentialism/)
+
+The word radical is doing real work here. Sartre is not claiming freedom to do or achieve anything. The for-itself is always in a factical situation; the claim is that the significance of that situation for you is something you decide, usually before reflection notices ([Reynolds & Renaudie, SEP, Sartre](https://plato.stanford.edu/entries/sartre/)).
+
+### In the compendium
+
+- [[S007 — Accept what happens as the will of providence]]
+- [[E031 — Practise radical freedom]]
+- [[ST269 — The Waiter's Dance]]
+- [[ST270 — Kierkegaard's Abraham]]
+- [[ST271 — The Wheelers' Paris]]
+- [[ST310 — Walter Mitty Steps On]]
 
 ## Related concepts
 
+- [[Freedom]] — the broader concept this is one reading of
+- [[Escape from freedom]] — Fromm's account of why people flee this condition
+- [[Choice of self]] — the constructive side of the same claim
+- [[Bad faith]] — the flight from this freedom
 
-- [[Freedom]] — Sartre's face: responsibility for what one makes of one's situation
-- [[Escape from freedom]] — Sartre's opposite pole, freedom as inescapable (comparison)
 ## Sources
 
-- Sartre, Being and Nothingness
+- [Reynolds & Renaudie, "Jean-Paul Sartre", Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/sartre/) — the situated-freedom summary
+- [Kevin Aho, "Existentialism", Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/existentialism/) — the Sartre 1946 [2001, 296] quotation with translator attribution
+- Sartre, Being and Nothingness (original seed line, kept)
 
 [[S007 — Accept what happens as the will of providence]]
 [[ST270 — Kierkegaard's Abraham]]
 [[ST271 — The Wheelers' Paris]]
 [[ST269 — The Waiter's Dance]]
 [[ST310 — Walter Mitty Steps On]]
-## Cited in philosophy parallels
-
-- [[E031 — Practise radical freedom]]
