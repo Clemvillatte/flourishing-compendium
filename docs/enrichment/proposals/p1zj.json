@@ -1,6 +1,6 @@
 {
  "batch": "p1zj",
- "revision": 21,
+ "revision": 22,
  "records": [
   {
    "action": "reciprocal",
@@ -266,7 +266,7 @@
    "into": "ADHD: interest-based attention",
    "link": "AT032",
    "why": "listed for comparison with the principle's interest-scaffolds-attention reading",
-   "notes": "target page lead reviewed during milestone QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
+   "notes": "target page lead reviewed during milestone-4 QC (after initial push); full body not read; connection checked against the lead; relationship grounded in the adjacent principle's opened source"
   },
   {
    "action": "reciprocal",
