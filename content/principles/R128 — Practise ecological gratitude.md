@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 390** — Practise ecological gratitude
 
-Kimmerer's Potawatomi teaching, the Honorable Harvest, is gratitude turned into harvest rules. The restraint comes first: never take the first one, whether berries or firewood or basket plants, because that self-restraint means you are never the one who takes the last. Then the ceiling: never take more than half, leaving some for the thriving of the plant and for the other beings who want and need berries or medicines too. And then the thanks.
+In her interview, Kimmerer describes giving thanks as part of the Honorable Harvest: taking only what you need, and never taking more than half, because you always have to leave some for the thriving of the plant and for the other beings who want and need berries or medicines too.
 
 > And the Honorable Harvest begins with the fact that we never take the first one; whether it's berries or firewood or basket plants, you never take the first one. And this self-restraint means that you're never going to take the last one.
 > (Robin Wall Kimmerer, Practical Reverence interview)
@@ -20,13 +20,13 @@ Kimmerer's Potawatomi teaching, the Honorable Harvest, is gratitude turned into 
 > So you really pay gratitude, not just in that sort of flip thank you, but a real recognition that your life is inextricably tied to theirs.
 > (Kimmerer, Practical Reverence interview)
 
-The psychology side measures the connection rather than the rules. Mayer and Frantz's connectedness to nature scale was built through five studies, and their paper supports ecopsychologists' contention that connection to nature is an important predictor of ecological behavior and subjective wellbeing.
+Mayer and Frantz's five studies assessed the validity and reliability of the connectedness to nature scale, a measure of feeling emotionally connected to the natural world. Their paper supports ecopsychologists' contention that connection to nature is an important predictor of ecological behavior and subjective wellbeing. That research measures nature connectedness rather than ecological gratitude itself.
 
-The compendium's application: take the harvest rules to the grocery store. Use everything you take, waste less on purpose, and when you give thanks for a meal, name what it cost: the soil, the rain, the hands.
+The compendium's exercise: consider one way to put the commitments into practice, for example naming the plants, rain and people involved in a meal, or giving something back where you take.
 
-**Plain words** Ecological gratitude is thank-you notes to things that cannot read them, and the thanks is in the behaviour. Before you take, ask whether you need it; take less than half of what is there; use what you take; give something back, weeding, compost, money to the watershed. The alternative is treating air, water and food as background services, which is how they get used up.
+**Plain words** Let giving thanks include a decision about what you take, use or leave for others. Kimmerer connects gratitude with restraint and giving something back. For the compendium's exercise, consider one way to put those commitments into practice.
 
-*For example:* A family starts saying an actual grace again, naming aloud what the meal cost the soil, the rain and the hands.
+*For example:* Imagine a family naming the plants, rain and people involved in their meal, then discussing how much food to serve.
 
 ## Sources
 

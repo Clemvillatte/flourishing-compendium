@@ -17,13 +17,13 @@ Durie's 1985 paper opens with a premise the model carries: health is not a unive
 > Four cornerstones of health have been recognised: te taha wairua (a spiritual dimension), te taha hinengaro (a psychic dimension), te taha tinana (a bodily dimension), te taha whanau (a family dimension).
 > (Durie 1985, Social Science and Medicine 20(5), 483-486)
 
-Later presentations give the model its name and its picture. Te Ara records that Māori health expert Mason Durie developed the whare tapa whā model in 1982, with four dimensions, taha wairua, taha hinengaro, taha tinana and taha whānau, and different parts of a wharenui (meeting house) representing each dimension. The house is the argument: a wall is a load-bearing part rather than a checklist item, and the compendium's reading is that neglecting one is a structural matter for the others.
+Te Ara records that Māori health expert Mason Durie developed the whare tapa whā model in 1982, with four dimensions, taha wairua, taha hinengaro, taha tinana and taha whānau, and different parts of a wharenui (meeting house) representing each dimension.
 
-The compendium's exercise: take the four dimensions as four questions and ask them of your month. When did you last sit somewhere that holds you? How is the thinking? How is the body? Who have you actually eaten with? A month that answers three well and one badly is not a balanced month, and the model says which wall to mend.
+The compendium's exercise: take the four dimensions as four questions and ask them of your month. When did you last sit somewhere that holds you? How is the thinking? How is the body? Who have you actually eaten with?
 
-**Plain words** Check the four walls on purpose: sleep and food for the body, honesty about the thinking, something that touches the sacred for the spirit, and actual people for the family wall. People often mend the wrong wall because the broken one is embarrassing: burnout gets a gym programme because the gym is respectable and the loneliness is not. Ask which wall you have been avoiding mentioning, and start there.
+**Plain words** Think about the four dimensions in your own life: sleep and food, thinking, spirit, and family or community connections. Choose one to attend to this week, without scoring yourself.
 
-*For example:* Someone treating burnout with gym and diet for months adds one weekly dinner with the cousins and watches what changes.
+*For example:* Imagine someone with a good exercise routine and poor social connections choosing to schedule a regular meal with family or friends.
 
 ## Sources
 

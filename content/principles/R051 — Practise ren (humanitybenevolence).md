@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 313** — Practise ren (humanity/benevolence)
 
-Asked directly what ren is, the Master's answer is short: it is to love all men. The Analects give the working method in the same breath as the ambition: the man of perfect virtue, wishing to be established himself, seeks also to establish others; wishing to be enlarged himself, he seeks also to enlarge others. Mencius locates the raw material in everyone: if men suddenly see a child about to fall into a well, they will without exception experience a feeling of alarm and distress, and that feeling is the principle of benevolence.
+Asked directly what ren is, the Master's answer is short.
 
 > Fan Chi asked about benevolence. The Master said, "It is to love all men."
 > (Analects 12.22, trans. Legge)
@@ -20,14 +20,16 @@ Asked directly what ren is, the Master's answer is short: it is to love all men.
 > Now the man of perfect virtue, wishing to be established himself, seeks also to establish others; wishing to be enlarged himself, he seeks also to enlarge others.
 > (Analects 6.30, trans. Legge)
 
+Mencius argues from the alarm and distress of seeing a child approaching a well.
+
 > The feeling of commiseration is the principle of benevolence.
 > (Mencius 2A6, trans. Legge)
 
-The compendium's application: ren is trained in small establishments of others. Congratulate a rival properly, tell the student where the essay is genuinely good before where it is not, give the introduction you wish someone had given you. The Mencius picture matters for practice: the sprout is already in you, alarm at the falling child, and virtue is what you make of it. The compendium's [[The doctrine of the mean|The Doctrine of the Mean]] page follows the thread further.
+The compendium's application follows the passages: helping others do well is part of the practice. The compendium's [[The doctrine of the mean|The Doctrine of the Mean]] page follows the thread further.
 
-**Plain words** Ren is not niceness; it is wanting other people's lives to go well and doing something about it. Confucius's test is two-sided: wish yourself established, and wish the same for others enough to help. The natural version is already installed; you cannot watch a toddler near a well without alarm. The virtue is what happens next, and what happens next is trainable.
+**Plain words** Consider what Confucius says about wanting good things for other people. Ask whether you are willing to help others succeed, and whether you are willing to receive help yourself.
 
-*For example:* The colleague who hears about a rival's promotion and notices the pang, then congratulates them properly and means it.
+*For example:* Imagine congratulating a rival warmly on their promotion. Imagine helping someone establish a skill that you already have.
 
 ## Sources
 

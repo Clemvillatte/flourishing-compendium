@@ -40,7 +40,7 @@ Aristotle's discussion makes a philosophical comparison rather than an anticipat
 ## Psychology parallels
 
 - [[PERMA model|PERMA model]] (Seligman, 2011)
-- [[Flourishing scale|Flourishing scale]] (Huppert and So, 2013)
+- [[Flourishing scale|Flourishing scale]]
 
 ## Philosophy parallels
 

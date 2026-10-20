@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 276** — Practise connection to culture
 
-The social and emotional wellbeing (SEWB) framework places culture inside the definition of health rather than beside it. Gee, Dudgeon and colleagues define SEWB as a multidimensional concept of health that includes mental health but also encompasses connection to land or country, culture, spirituality, ancestry, family and community. The chapter's diagram shows individuals', families' and communities' SEWB shaped by connections to body, mind and emotions, family and kinship, community, culture, land and spirituality, and the connections run both ways: disrupted connections are associated with poorer SEWB, and restoring or strengthening them with increased SEWB.
+The social and emotional wellbeing (SEWB) framework, developed with and for Aboriginal and Torres Strait Islander peoples, places culture inside the definition of health rather than beside it. Gee, Dudgeon and colleagues define SEWB as a multidimensional concept of health that includes mental health but also encompasses connection to land or country, culture, spirituality, ancestry, family and community. The chapter's diagram shows individuals', families' and communities' SEWB shaped by connections to body, mind and emotions, family and kinship, community, culture, land and spirituality, and disrupted connections are associated with poorer SEWB.
 
 > Conversely, restoring or strengthening connections to these domains will be associated with increased SEWB.
 > (Gee, Dudgeon, Schultz, Hart and Kelly, in Working Together, 2014, p. 58)
@@ -24,9 +24,9 @@ The chapter's language for what practitioners should support is continuity: a se
 
 The compendium's application follows the chapter's emphasis on participation: keep the language in use, keep the ceremony dates, tell the stories. Continuity here is something people do, not something they have.
 
-**Plain words** Culture is not a museum you visit; it is a practice you keep or lose. The maintenance is deliberate because the erosion is automatic: dislocation and assimilation do not need your cooperation. Name the practices you are responsible for carrying, and give each one a place in the week.
+**Plain words** Think about a cultural connection you want to strengthen. Choose a language, story or practice you could share with family or community, and decide when to make time for it.
 
-*For example:* The grandmother's tongue is spoken at dinner even though the kids answer in English; the door stays open.
+*For example:* Imagine a household making time at dinner for a grandparent to share a familiar story in their language while younger relatives ask about unfamiliar words.
 
 ## Sources
 
