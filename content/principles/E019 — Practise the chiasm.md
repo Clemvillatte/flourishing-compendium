@@ -12,13 +12,18 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 411** — Practise the chiasm
 
-Merleau-Ponty's late word for the overlap is the chiasm. The Stanford Encyclopedia's expositor describes it as "a crisscrossing or a bi-directional becoming or exchange between the body and things" that lets one speak of a "flesh" of things, "a kinship between the sensing body and sensed things that makes their communication possible" (SEP, Merleau-Ponty, §6). The claim is structural rather than mystical: to touch, one must be tangible, and to see, visible. Merleau-Ponty's own formula for the artist makes the point: the artist changes the world into paintings by "lending his body to the world" (Eye and Mind, quoted SEP §4). The same structure holds between people: the SEP glosses that just as my two hands communicate across the lateral synergy of my body, I can touch the sensibility of another, and quotes Merleau-Ponty: "The handshake too is reversible" (V&I: 187/142, quoted SEP §6).
+Ted Toadvine describes chiasm as an exchange between the sensing body and sensed things (§6). The body that senses is itself available to be sensed. His account presents flesh as closest to an element in the classical sense and uses it to discuss the kinship between body and world. The entry also quotes Merleau-Ponty on contact between people:
 
-(SEP, "Maurice Merleau-Ponty" (Toadvine), §§4 and 6, opened 2026-10-21; V&I and Eye and Mind quotes as cited there.)
+> "The handshake too is reversible"
+> (The Visible and the Invisible, 187/142, as quoted by Toadvine, §6.)
 
-**Plain words** You are made of the same stuff as what you perceive. Your eyes are visible objects; your hands are touchable. When you reach out and touch something, the touching can turn around and be touched. Merleau-Ponty calls the shared stuff "flesh", and his account of why perception works runs through it: the world can show up for you because you are one of the things that show up.
+**Plain words** The person sensing the world is also present within it and can be perceived by others. Keep both sides of that encounter in view.
 
-*For example:* Imagined: a gardener's calluses, tan lines and early-morning instinct have all been shaped by the garden, and the garden's rows by her; by August you cannot fully sort which shaped which.
+*For example:* Suggested compendium reflection: during a handshake, consider your hand both as touching and as something the other person can feel.
+
+## Sources
+
+- [Ted Toadvine, "Maurice Merleau-Ponty," Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/merleau-ponty/) — §§4 and 6; Merleau-Ponty quotations reproduced there
 
 ## Psychology parallels
 
