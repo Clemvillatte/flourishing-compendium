@@ -25,7 +25,7 @@
   "A105",
   "AF008"
  ],
- "in_progress": null,
+ "in_progress": "AF016",
  "flagged": {
   "Y083": "Reopened for QC: QC correction round 2: add BG 6.10 citation to second sentence",
   "SO075": "Reopened for QC: QC correction round 2: remove clinical claims in example",
@@ -45,6 +45,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 3,
- "updated": "2026-10-20T08:31:10+00:00",
+ "updated": "2026-10-20T08:31:25+00:00",
  "band_done": false
 }
