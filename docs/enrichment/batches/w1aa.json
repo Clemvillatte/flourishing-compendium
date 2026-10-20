@@ -28,7 +28,8 @@
   "Group cohesion theory",
   "Groupthink theory",
   "HEXACO model of personality structure",
-  "HRV coherence research"
+  "HRV coherence research",
+  "Halo effect"
  ],
  "in_progress": null,
  "flagged": {
@@ -42,6 +43,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T17:00:36+00:00",
+ "updated": "2026-10-20T17:01:20+00:00",
  "band_done": false
 }
