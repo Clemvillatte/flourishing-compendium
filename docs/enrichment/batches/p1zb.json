@@ -4,8 +4,10 @@
   "MO034"
  ],
  "in_progress": null,
- "flagged": {},
+ "flagged": {
+  "MO034": "inherited psychology parallels (Neubach 2007; Wrosch 2007/2003; Wrosch & Miller 2009) not opened this session — flagged per precedent, not certified; quote-start lowercased to match source; advisor QC round-1 fixes applied"
+ },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T07:48:15+00:00"
+ "updated": "2026-10-20T07:49:37+00:00"
 }

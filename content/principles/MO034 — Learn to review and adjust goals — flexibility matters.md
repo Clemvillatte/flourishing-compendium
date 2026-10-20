@@ -17,7 +17,7 @@ Goals are not set-and-forget. They need regular review and adjustment. Circumsta
 
 The compendium places this practice beside a philosophical comparison. Socrates, at his trial, named daily examination as the greatest good:
 
-> And if I say again that the greatest good of man is daily to converse about virtue, and all that concerning which you hear me examining myself and others, and that the life which is unexamined is not worth living - that you are still less likely to believe. (Plato, Apology 38a, Jowett translation, [MIT Classics](https://classics.mit.edu/Plato/apology.html))
+> and if I say again that the greatest good of man is daily to converse about virtue, and all that concerning which you hear me examining myself and others, and that the life which is unexamined is not worth living - that you are still less likely to believe. (Plato, Apology 38a, Jowett translation, [MIT Classics](https://classics.mit.edu/Plato/apology.html))
 
 The passage is about the examination of virtue, not about goal-review schedules. What it offers is a comparison: Socrates' claim that a life should be examined regularly, applied to the narrower case of goals.
 
