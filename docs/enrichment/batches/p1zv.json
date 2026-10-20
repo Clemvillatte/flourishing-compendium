@@ -29,9 +29,10 @@
   "S107",
   "S113",
   "S117",
-  "S122"
+  "S122",
+  "S124"
  ],
- "in_progress": "S124",
+ "in_progress": null,
  "flagged": {
   "S039": "Reopened for QC: milestone QC repairs applied",
   "S043": "Reopened for QC: milestone QC repairs applied",
@@ -62,6 +63,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 13,
- "updated": "2026-10-20T16:47:17+00:00",
+ "updated": "2026-10-20T16:47:28+00:00",
  "band_done": false
 }

@@ -1,6 +1,6 @@
 {
  "batch": "p1zv",
- "revision": 12,
+ "revision": 13,
  "reciprocal": [
   {
    "into": "Truthfulness",
@@ -77,8 +77,8 @@
   {
    "into": "Awe",
    "link": "S124",
-   "why": "A Stoic principle on the cosmic-perspective exercise behind the small-self effect",
-   "notes": "S124 (2026-10-21, worker-p1zv-95f93b33): hub inspected via occurrence search (content/concepts/Awe.md has no S124 occurrence); grounded in S124's Med. IX.30 look-down-from-above quote verified against the opened Long text. Note: this page retains an inherited Related concepts section (SE016), preserved."
+   "why": "A Stoic exercise in viewing human affairs from above",
+   "notes": "S124 (2026-10-21, worker-p1zv-95f93b33): hub READ substantively this session (Keltner & Haidt vastness/accommodation definition; small-self effect; the hub already links S100 as its Stoic statement and does not cite S124); why clause neutralised per QC round 1 (the causal behind-the-small-self-effect wording removed)."
   }
  ]
 }

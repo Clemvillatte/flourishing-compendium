@@ -16,7 +16,7 @@ Marcus cites Plato for the exercise:
 
 > "This is a fine saying of Plato: That he who is discoursing about men should look also at earthly things as if he viewed them from some higher place; should look at them in their assemblies, armies, agricultural labors, marriages, treaties, births, deaths, noise of the courts of justice, desert places, various nations of barbarians, feasts, lamentations, markets, a mixture of all things and an orderly combination of contraries." (Marcus Aurelius, Meditations, Book VII, section 48, [George Long translation](https://www.gutenberg.org/cache/epub/15877/pg15877.txt))
 
-His own version is the sudden lift: "if thou shouldst suddenly be raised up above the earth, and shouldst look down on human things, and observe the variety of them how great it is" (Meditations XII.24). The inventory version: "Look down from above on the countless herds of men, and their countless solemnities, and the different voyages animated by storms, and the vicissitudes of things as they mingle together" (Meditations IX.30).
+His own version is the sudden lift: "if thou shouldst suddenly be raised up above the earth, and shouldst look down on human things, and observe the variety of them how great it is" (Meditations XII.24). The inventory version: "Look down from above on the countless herds of men and their countless solemnities, and the infinitely varied voyagings in storms and calms, and the differences among those who are born, who live together, and die" (Meditations IX.30).
 
 (Med. VII.48, IX.30, XII.24.)
 
