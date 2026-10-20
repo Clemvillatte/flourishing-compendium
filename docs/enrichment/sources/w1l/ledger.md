@@ -601,3 +601,10 @@ convention).
   Anatta (deg 28).
 - Saturation: fast-track exemption; no reciprocal proposed.
 - QC: validator ok.
+
+  (Ego dissolution correction: the validator's banned-phrase check caught
+  "crucial" inside the quoted Garcia-Romeu sentence; the quotation was
+  trimmed to end before "so explaining..." (both fragments remain verbatim);
+  revalidated and re-saved. Note: the save script does not gate on
+  validation — the failed version was pushed in 0fabe721 and superseded by
+  the repair commit.)
