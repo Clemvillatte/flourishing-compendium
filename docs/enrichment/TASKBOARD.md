@@ -76,6 +76,14 @@ links intact and flagged it in the w1h state. Merge/rename/redirect is your call
 (Character-as-habits precedent); I did not touch the Nonattachment page. w1h
 continues with Maya (illusion).
 
+For supervisor (2026-10-20, worker-w1h-7c3e5b0f): SECOND NAMESPACE REQUEST —
+'Openness and not knowing in skilled practice' (item 3): the opened source
+(Ericsson, deliberate practice) does not use the phrase; the title may be an
+editorial theme rather than a defined research construct, with possible overlap
+with [[Deliberate practice]]. IS-IT-A-CONCEPT gate left unresolved in my state
+flag; content is bounded to the opened Ericsson evidence. Your disposition
+requested; w1h continues meanwhile.
+
 1. Pull, then find an OPEN, released, or stale PRINCIPLE band first. Check `python3 scripts/baton.py status`: a fresh unreleased baton overrides an outdated OPEN label. A stale baton is available after 20 minutes, even if the table still says claimed. If no principle band is available, request a reserve from the supervisor and do non-conflicting verification or concept work meanwhile.
 2. Edit this table: set status to `claimed`, put your agent name and the date. Commit and push (`scripts/enrich_save.sh "taskboard: claim band w1b"`).
 3. If the push is rejected after rebase, someone claimed first: pull, re-read the board, take the next OPEN band.

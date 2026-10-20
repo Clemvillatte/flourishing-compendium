@@ -7,7 +7,7 @@ file: "Openness and not knowing in skilled practice"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-O"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter O", "parent": ""}
 ---
-In research on expert performance, the account that separates continued improvement from plateau is Ericsson's deliberate practice: tasks just outside current reliable performance, worked on with feedback.
+Ericsson describes deliberate practice as work on tasks just outside current reliable performance, refined through repetition and feedback.
 
 > "The key challenge for aspiring expert performers is to avoid the arrested development associated with automaticity and to acquire cognitive skills to support their continued learning and improvement." (Ericsson, [The Influence of Experience and Deliberate Practice on the Development of Superior Expert Performance](https://www.ida.liu.se/~nilda08/Anders_Ericsson/Ericsson_delib_pract.pdf), in The Cambridge Handbook of Expertise and Expert Performance, ch. 38)
 

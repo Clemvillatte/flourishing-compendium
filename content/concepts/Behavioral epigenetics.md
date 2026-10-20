@@ -7,7 +7,7 @@ file: "Behavioral epigenetics"
 tags: ["psych/biophys", "theory"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-BIOPHYS"], "alternatePaths": []}
 ---
-Behavioral epigenetics is the study of epigenetic modifications of genomic regions in response to variations in environmental conditions, as a source of variation in biological and behavioral phenotypes ([Weaver 2007, review abstract](https://pubmed.ncbi.nlm.nih.gov/17965624/)). In a 2004 study in rats, Weaver and colleagues reported differences in DNA methylation at a glucocorticoid receptor gene promoter in the offspring's hippocampus.
+Weaver's 2007 review examines how early-life experience can establish epigenetic states of genes and describes such states as potentially reversible in adulthood ([review abstract](https://pubmed.ncbi.nlm.nih.gov/17965624/)). In a 2004 study in rats, Weaver and colleagues reported differences in DNA methylation at a glucocorticoid receptor gene promoter in the offspring's hippocampus.
 
 > "Thus we show that an epigenomic state of a gene can be established through behavioral programming, and it is potentially reversible." (Weaver et al., [Epigenetic programming by maternal behavior](https://www.nature.com/articles/nn1276), Nature Neuroscience 7:847-854, 2004, abstract)
 
@@ -41,7 +41,7 @@ Biophysiological · Psychological science
 ## Sources
 
 - [Weaver et al., Epigenetic programming by maternal behavior (Nature Neuroscience 7:847-854, 2004), abstract](https://www.nature.com/articles/nn1276) — the blockquote and study findings above
-- [Weaver, Epigenetic programming by maternal behavior and pharmacological intervention. Nature versus nurture: let's call the whole thing off (Epigenetics 2:22-28, 2007), review abstract](https://pubmed.ncbi.nlm.nih.gov/17965624/) — the field-level framing in the opening
+- [Weaver, Epigenetic programming by maternal behavior and pharmacological intervention. Nature versus nurture: let's call the whole thing off (Epigenetics, 2007), review abstract](https://pubmed.ncbi.nlm.nih.gov/17965624/) — the early-life-experience framing in the opening
 
 ## Cited in philosophy parallels
 

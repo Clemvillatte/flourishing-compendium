@@ -18,7 +18,7 @@ In Advaita Vedanta, māyā is the creative power by which Brahman, the ultimate 
 
 ### What the term claims
 
-In the Advaita account, "Brahman appears as the manifold objects of experience because of its creative power, māyā," and "Māyā is that which appears to be real at the time of experience but which does not have ultimate existence" ([Menon, Advaita Vedanta, IEP](https://iep.utm.edu/adv-veda/)). The world is a vivarta, a superimposition on Brahman rather than a transformation of it. The same account distinguishes māyā's cosmic aspect, which belongs to īśvara, from avidya, the individual ignorance that belongs to each jīva ([IEP](https://iep.utm.edu/adv-veda/)).
+In the Advaita account, Brahman appears as the manifold objects of experience because of its creative power, māyā; māyā is that which appears to be real at the time of experience but does not have ultimate existence ([Menon, Advaita Vedanta, IEP](https://iep.utm.edu/adv-veda/)). The world is a vivarta, a superimposition on Brahman rather than a transformation of it. The same account distinguishes māyā's cosmic aspect, which belongs to īśvara, from avidya, the individual ignorance that belongs to each jīva ([IEP](https://iep.utm.edu/adv-veda/)).
 
 ### In the compendium
 
@@ -37,8 +37,8 @@ In the Advaita account, "Brahman appears as the manifold objects of experience b
 
 ## Sources
 
-- [Bhagavad Gita VII.14, Arnold, The Song Celestial (Project Gutenberg)](https://www.gutenberg.org/files/2388/2388-h/2388-h.htm) — the blockquote verse
-- [Menon, Advaita Vedanta, Internet Encyclopedia of Philosophy](https://iep.utm.edu/adv-veda/) — the māyā account quoted above
+- [Bhagavad Gita, Chapter VII, Arnold, The Song Celestial (Project Gutenberg)](https://www.gutenberg.org/files/2388/2388-h/2388-h.htm) — the blockquote verse
+- [Menon, Advaita Vedanta, Internet Encyclopedia of Philosophy](https://iep.utm.edu/adv-veda/) — the māyā account paraphrased above
 - Vedanta
 - Vedanta, Upanishads
 
