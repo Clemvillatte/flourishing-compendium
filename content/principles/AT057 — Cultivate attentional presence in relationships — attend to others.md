@@ -12,15 +12,29 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AT — Attentio
 ---
 > **Principle 57** — Cultivate attentional presence in relationships: attend to others
 
-Attention is not just for tasks; it is also for people. Full, undivided attention to another person is one of the most powerful forms of connection and is increasingly rare. Attentional presence in relationships is a foundation of intimacy.
+Roberts and David's study of partner phubbing is the opened source. Their definition:
 
-**Plain words** The rarest gift you can give a person is undivided attention — phone away, eyes up, actually there. It's also the cheapest. Most people can count on one hand the times they've received it. Be the one hand.
+> "Partner phubbing (Pphubbing) can be best understood as the extent to which an individual uses or is distracted by his/her cell phone while in the company of his/her relationship partner." ([Roberts & David, 2016, Computers in Human Behavior 54, abstract](https://www.studocu.com/en-us/document/university-of-alabama/english-composition/roberts-david-2016-got-100/107160974))
 
-*For example:* The teenager who tells their parent "everything" in the car — because the parent can't leave, can't scroll, and the eyes-on-the-road format makes honesty survivable. Attention did that.
+And the findings:
+
+> "Results suggest that Pphubbing's impact on relationship satisfaction is mediated by conflict over cell phone use." ([Roberts & David, 2016, same abstract](https://www.studocu.com/en-us/document/university-of-alabama/english-composition/roberts-david-2016-got-100/107160974))
+
+> "Importantly, Pphubbing was found to indirectly impact depression through relationship satisfaction and ultimately life satisfaction." ([Roberts & David, 2016, same abstract](https://www.studocu.com/en-us/document/university-of-alabama/english-composition/roberts-david-2016-got-100/107160974))
+
+The study covers the phone side of the principle: the costs of divided attention in a partner's company. It does not test the positive side — whether giving full attention improves connection. The compendium's practice inverts the negative result; that inversion is an inference, not a finding.
+
+**Plain words** The study says: when one partner attends to a phone instead of the other, conflict rises, relationship satisfaction falls, and life satisfaction and mood fall with it. What it measures is the damage of divided attention. The undivided version is the same mechanism read the other way — the compendium's inference, not the study's result.
+
+*For example:* (Imagined case.) The teenager who tells their parent everything in the car — the parent cannot scroll, cannot leave, and the eyes-on-the-road format makes honesty survivable. The structure removes the competition for attention.
+
+## Sources
+
+- [Roberts, J. A., & David, M. E. (2016). My life has become a major distraction from my cell phone: Partner phubbing and relationship satisfaction among romantic partners. Computers in Human Behavior 54, 134-141, abstract, full-text copy](https://www.studocu.com/en-us/document/university-of-alabama/english-composition/roberts-david-2016-got-100/107160974) — the definition and both findings quoted above
+
 ## Psychology parallels
 
-- **Attention and perceived responsiveness**, full attention to another increases perceived responsiveness and connection (Reis et al., 2017; Gable et al., 2004)
-- **Phubbing (phone snubbing) damages relationships**, attending to phone instead of partner reduces relationship satisfaction (Roberts & David, 2016; McDaniel & Coyne, 2016)
+- **Phubbing (phone snubbing) damages relationships**, the source quoted above (Roberts & David, 2016)
 
 ## Philosophy parallels
 

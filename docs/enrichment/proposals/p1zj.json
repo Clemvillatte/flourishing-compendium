@@ -1,6 +1,6 @@
 {
  "batch": "p1zj",
- "revision": 22,
+ "revision": 23,
  "records": [
   {
    "action": "reciprocal",
@@ -274,6 +274,20 @@
    "link": "AT032",
    "why": "listed for comparison with the principle's interest-scaffolds-attention reading",
    "notes": "target page lead reviewed during milestone-4 QC (after initial push); full body not read; connection checked against the lead; relationship grounded in the adjacent principle's opened source"
+  },
+  {
+   "action": "reciprocal",
+   "into": "I and Thou",
+   "link": "AT057",
+   "why": "listed for comparison with the principle's undivided-attention reading",
+   "notes": "target page lead reviewed this session (see ledger); full body not read; relationship grounded in the adjacent principle's opened source"
+  },
+  {
+   "action": "reciprocal",
+   "into": "Deep listening",
+   "link": "AT057",
+   "why": "listed for comparison with the principle's undivided-attention reading",
+   "notes": "target page lead reviewed this session (see ledger); full body not read; relationship grounded in the adjacent principle's opened source"
   }
  ]
 }

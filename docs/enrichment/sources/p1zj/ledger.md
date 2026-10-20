@@ -186,3 +186,9 @@ Band: AF002..BE033, 30 principles, degree order (queue 628-673). Advisor QC cade
 - Proposals: notes for the 8 records added in items 16-20 corrected to the actual sequence (target leads read during milestone-4 QC, after initial push; connection checked against each lead; full bodies not read). The 27 earlier records retain the milestone-3 lead-dump wording (dump preserved in the session transcript).
 - Validation: all five repaired pages validated ok against pre-enrichment baseline 9d181645 (parent of the first batch-16 commit); wikilinks and protected material intact.
 - Remote: credential-bearing remote URL replaced with the clean repository URL; token moved to ~/.git-credentials (mode 0600), no longer visible in git remote output. Pushes confirmed working.
+
+## AT057 — Cultivate attentional presence in relationships: attend to others
+- Evidence: Roberts & David 2016, Computers in Human Behavior 54, 134-141, abstract from a full-text copy of the paper (studocu.com/en-us/document/university-of-alabama/english-composition/roberts-david-2016-got-100/107160974), fetched this session. All three quoted sentences verified verbatim (Pphubbing definition; conflict mediation finding; indirect depression/life-satisfaction impact). ScienceDirect abstract blocked fetch (403) and the Semantic Scholar API returned null; the full-text copy was the opened carrier.
+- Scope: positive side (full attention improves connection) labelled as the compendium's inversion of the measured negative result, not a finding. Unresolved (removed from page, recorded here): Reis et al. 2017 / Gable et al. 2004 perceived-responsiveness parallels and McDaniel & Coyne 2016 technoference citation (none opened).
+- Plain words: replicate fixed; example relabelled as imagined case.
+- Proposals: reciprocals into I and Thou and Deep listening (leads to be read before record finalisation — see below).
