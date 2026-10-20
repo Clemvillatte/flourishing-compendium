@@ -22,7 +22,7 @@ Everyday Dasein is lived mostly as the "they" (das Man): the Self of everyday Da
 
 ### Plain words
 
-In Heidegger's picture, the everyday self is mostly borrowed from what one does. Authenticity is not escaping that; it is sometimes gripping the wheel yourself: choosing what you do because you have looked at the options, not because one does this.
+In Heidegger's picture, the everyday self is mostly borrowed from what one does. He describes authenticity as a change within that life: sometimes gripping the wheel yourself, choosing what you do because you have looked at the options, not because one does this.
 
 ### For example
 

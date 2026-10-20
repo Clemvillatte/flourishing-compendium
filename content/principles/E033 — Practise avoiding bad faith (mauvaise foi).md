@@ -26,7 +26,7 @@ Bad faith is a story that ends your choosing. The check to run: does this explan
 
 ### For example
 
-Suppose someone has said for years that they are not a math person. The sentence could name a real difficulty or could be doing bad-faith work; the difference shows in what they have actually tried, not in how settled the sentence feels. Naming a real limitation is not bad faith.
+Suppose someone has said for years that they are not a math person. They can ask whether the sentence describes a difficulty or is being used to rule out every possibility of learning. The sentence alone does not establish bad faith.
 
 ## Psychology parallels
 

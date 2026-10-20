@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 433** — Practise anguish (angoisse)
 
-Sartre distinguishes anguish (angoisse) from fear: fear concerns beings in the world, while anguish concerns oneself ([Being and Nothingness, Part I, ch. 1, Barnes translation; opened full text](https://archive.org/download/in.ernet.dli.2015.6651/2015.6651.Being-And-Nothingness_djvu.txt)). He connects anguish with becoming conscious of one's freedom. His examples are vertigo at a precipice and the gambler who, having resolved to quit, finds that nothing prevents him from gambling ([same opened text](https://archive.org/download/in.ernet.dli.2015.6651/2015.6651.Being-And-Nothingness_djvu.txt)).
+Sartre distinguishes anguish (angoisse) from fear: fear concerns beings in the world, while anguish concerns oneself ([Being and Nothingness, Part I, ch. 1, Barnes translation; opened full text](https://archive.org/download/in.ernet.dli.2015.6651/2015.6651.Being-And-Nothingness_djvu.txt)). He connects anguish with becoming conscious of one's freedom ([same opened text](https://archive.org/download/in.ernet.dli.2015.6651/2015.6651.Being-And-Nothingness_djvu.txt)). His examples are vertigo at a precipice and the gambler who, having resolved to quit, finds that nothing prevents him from gambling ([same opened text](https://archive.org/download/in.ernet.dli.2015.6651/2015.6651.Being-And-Nothingness_djvu.txt)).
 
 > Vertigo is anguish to the extent that I am afraid not of falling over the precipice, but of throwing myself over.
 
