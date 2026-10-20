@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 27** — Practice modesty in prosperity
 
-The magnanimous person, Aristotle writes, "will also bear himself with moderation towards wealth and power and all good or evil fortune, whatever may befall him, and will be neither over-joyed by good fortune nor over-pained by evil" ([NE IV.3](http://classics.mit.edu/Aristotle/nicomachaen.4.iv.html)). The same chapter treats honours, wealth and power as things people seek, and the magnanimous person as holding them lightly rather than as proofs of worth. The exercise below asks what changed when things went well.
+The magnanimous person, Aristotle writes, "will also bear himself with moderation towards wealth and power and all good or evil fortune, whatever may befall him, and will be neither over-joyed by good fortune nor over-pained by evil" ([NE IV.3](http://classics.mit.edu/Aristotle/nicomachaen.4.iv.html)). The chapter's proud man is concerned with honours, yet bears himself with moderation towards wealth, power and all fortune ([NE IV.3](http://classics.mit.edu/Aristotle/nicomachaen.4.iv.html)). The exercise below asks what changed when things went well.
 
 > In the first place, then, as has been said, the proud man is concerned with honours; yet he will also bear himself with moderation towards wealth and power and all good or evil fortune, whatever may befall him, and will be neither over-joyed by good fortune nor over-pained by evil.
 >
@@ -22,7 +22,7 @@ The magnanimous person, Aristotle writes, "will also bear himself with moderatio
 
 ### Plain words
 
-The sentence sets the same measure in both directions: not over-joyed by good fortune, not over-pained by bad. For an exercise, name one habit from a harder period — a review, a practice, a budget — and check whether it survived the easier one.
+The sentence sets the same measure in both directions: not over-joyed by good fortune, not over-pained by bad ([NE IV.3](http://classics.mit.edu/Aristotle/nicomachaen.4.iv.html)). For an exercise, name one habit from a harder period — a review, a practice, a budget — and check whether it survived the easier one.
 
 For example: a team that wins a big contract can keep or drop its careful weekly review. The example is invented; the question it stages is which habits survived the win.
 
