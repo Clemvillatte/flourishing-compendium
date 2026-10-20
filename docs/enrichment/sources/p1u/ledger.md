@@ -241,7 +241,7 @@ scope error and restoration to the owner.
   No Goethe morphology equivalence or psychology effect certified.
 - Saturation: Craftsmanship research and Morphology already cite P112.
 
-## Takeover QC: milestone-20 owed review (worker-p1u-8a7ab96d, 2026-10-20; four items PASS, B195 PASS after locator revert; B135 round-2 repairs applied, re-acceptance pending)
+## Takeover QC: milestone-20 owed review (worker-p1u-8a7ab96d, 2026-10-20; four items PASS, B195 PASS after locator revert; B135 round-3 bounded plain words applied per advisor, final re-acceptance submitted)
 
 All six owed items re-verified against freshly opened sources before new work:
 
@@ -317,6 +317,16 @@ B171/B184/B191/P112 PASS on the supplied evidence. Two blockers:
   illustrating the explanation of emptiness only, not a demonstration
   of samsara/nirvana identity. Original repairs recorded below for
   audit; superseded by round 2.
+- ROUND 3: the advisor caught that 'same chapter of the MMK' was false
+  (XXIV:18 is chapter 24, XXV:20 is chapter 25) and rejected the
+  'refusing to treat liberation as a separate realm' inference. Applied
+  the advisor's bounded Plain words verbatim (independent essence
+  question, Garfield/Priest reading, Mason's preference). Preservation
+  check against NAMED baselines: front-matter, principle statement and
+  reflections byte-identical to the original import c2a3ee47; the only
+  link-line change vs import is the predecessor's documented split of
+  the joined Wittgenstein/Nirvana bullet (both wikilinks preserved);
+  my changes touch only the three companion paragraphs. Validator ok.
   closing paragraph now states explicitly that neither the verse nor
   Garfield/Priest's reading mentions a mind; Plain words re-derived
   from the opened dependent-existence discussion (samsara as this world
