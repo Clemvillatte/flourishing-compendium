@@ -12,22 +12,22 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 132** — Make reform experimental
 
-Jane Addams described the settlement movement she helped found in the language of experiment rather than crusade. Hull-House, in her account, was:
+Addams describes the settlement as an experimental response to urban social and industrial problems. Hull-House, in her account, was:
 
 > "The Settlement then, is an experimental effort to aid in the solution of the social and industrial problems which are engendered by the modern conditions of life in a great city." (Addams, Twenty Years at Hull-House, ch. 6, [Gutenberg](https://www.gutenberg.org/ebooks/1325))
 
-The experimental attitude showed in the method, not just the name. Chapter thirteen records the house's working habit:
+Chapter thirteen shows the habit in operation:
 
 > "We continually conduct small but careful investigations at Hull-House, which may guide us in our immediate doings..." (Addams, Twenty Years at Hull-House, ch. 13, [Gutenberg](https://www.gutenberg.org/ebooks/1325))
 
-The record is honest about failure: "Some of the Hull-House investigations are purely negative in result" (ch. 13). And the failure she most feared for the settlement itself was rigidity, a house that stops changing its methods as its environment demands (ch. 6). Dewey gives the same idea its general form: the anticipation behind any plan of change, he writes, should be "a working hypothesis corrected and developed by events as action proceeds" (Dewey, Human Nature and Conduct, part 1, sec. 3, [Gutenberg](https://www.gutenberg.org/cache/epub/41386/pg41386.txt)).
+She also reports that some of these investigations came back negative in result (ch. 13). And the failure she most feared for the settlement itself was rigidity, a house that stops changing its methods as its environment demands (ch. 6). Dewey gives the same idea its general form: the anticipation behind any plan of change, he writes, should be "a working hypothesis corrected and developed by events as action proceeds" (Dewey, Human Nature and Conduct, part 1, sec. 3, [Gutenberg](https://www.gutenberg.org/cache/epub/41386/pg41386.txt)).
 
 The compendium's exercise: for the next change you want to make, household or larger, write down what you expect the change to produce and by when. Run it for a fixed period. Before revising or defending it, put the expectation beside what actually happened.
 
 **Plain words**
-A reform is a guess about what happens if things change. The guess can be checked: run the change long enough to produce results, look at the results without fudging, and be willing to conclude that the idea was wrong rather than that the people were difficult.
+A reform is a guess about what happens if things change. The guess can be checked: run the change long enough to produce results, then look at the results before deciding what to change next, whether the method, the timing, or the aim itself.
 
-*For example:* A household tries a new chore rotation for two weeks, then sits down with what actually happened: who did what, what friction appeared. The meeting can change the rotation. The New Order version of the same household has no meeting; it only has enforcement.
+*For example:* Imagine a household trying a new chore rotation for two weeks. At the end they sit down with what actually happened: who did what, what friction appeared. The meeting can change the rotation before the next two weeks start.
 
 ## Sources
 
