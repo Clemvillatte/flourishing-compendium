@@ -12,13 +12,25 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 9** — Treat identity as a working hypothesis
 
-The affliction called asmita is the mis-taking of the instrument (body, mind, roles) for the one who uses it. The practical instruction is not to destroy identity, which the tradition considers neither possible nor useful at the outset, but to hold it as one holds a tool: fully used, not mistaken for the hand. Practically, once a day, catch a self-description ("I am someone who...") and test whether it is instruction or cage.
+Patanjali defines the affliction in one line: "When the power of seeing and the power by which one sees have the appearance of being a single-self, [this is] the feeling-of-personality" (Yoga Sutra 2.6, trans. Woods; asmita). The commentary explains the terms: "The Self is the power of seeing; the thinking-substance is the power by which one sees" (Vyasa, in Woods, p. 115).
 
-(YS 2.6.)
+### What goes wrong
 
-**Plain words** Asmita is the mis-taking of the instrument — body, mind, roles — for the one who uses it. The instruction isn't to destroy identity, but to hold it as a working hypothesis: useful, load-bearing, not you. Hold the identity the way you'd hold a tool you're actively using.
+The error is a merge. The hindrance is "a change by which these two appear to become a single essence", and the commentary adds that the two are "as distinct as possible and as unconfused as possible" (p. 115). It quotes an older teacher: someone who fails to see that the Self is other than the thinking-substance "would make the mistake of putting his own thinking-substance in the place of that [Self]" (p. 115). Vacaspati Misra calls it the effect of ignorance, which has an "appearance" of being one thing but "in the strict sense, is not a single self" (p. 115).
 
-*For example:* The manager who loses the job and feels the self dissolve with it — versus the one who notes "the role was a hypothesis, and it's been falsified; the one who held it is still here."
+### What the principle adds
+
+Treating identity as a working hypothesis is a modern practical gloss. The text does not say identity is useful or should be kept for a while. It says the merge is a mistake and that recovery of each power's "own essence" is "Isolation" (p. 115). So the daily practice of catching "I am someone who..." is an exercise inspired by the sutra, not a direct instruction in it.
+
+**Plain words** The sutra says the part of you that sees is not the same as the tools it sees through, such as your body, mind and roles. We tend to run them together. The tradition wants you to notice the gap, and that is what the daily practice trains. You can use your roles fully and still not take them for the one using them.
+
+*For example:* Imagined example: someone loses a job and feels they have lost themselves. The practice is to say: the role was a tool I used, and the one who used it is still here to decide what comes next.
+
+(Patanjali, Yoga Sutra 2.6, with Vyasa's Bhasya and Vacaspati Misra's gloss, trans. James Haughton Woods, The Yoga-System of Patanjali (Harvard Oriental Series 17, 1914), pp. 115-116, Internet Archive, opened 2026-10-21.)
+
+## Sources
+
+- [Woods, The Yoga-System of Patanjali (1914), Internet Archive](https://archive.org/details/yogasystemofpata00wooduoft) — pp. 115-116
 ## Psychology parallels
 
 - **[[Self-complexity|Self-complexity and identity flexibility]]**, the finding that rigid self-concepts predict worse responses to failure (Linville, 1987); **quiet ego** as a growth-oriented, less-defensive identity (Wayment & Bauer, 2017)
