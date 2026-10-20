@@ -12,16 +12,25 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 463** — Practise avoiding the serious man
 
-Recognise the temptation of seriousness (le sérieux) — the flight from ambiguity into the identification with a value, a role, or a cause that is treated as absolute. The serious person denies their freedom by subordinating themselves to something they take to be unquestionable. Do not take your values, your role, or your identity so seriously that you lose the freedom to question them.
+Beauvoir describes the figure in The Ethics of Ambiguity, Part II ([marxists.org text](https://www.marxists.org/reference/subject/ethics/de-beauvoir/ambiguity/ch02.htm)):
 
-(de Beauvoir, 1947/2018, The Ethics of Ambiguity, Part II, ch. 1.)
+> The serious man gets rid of his freedom by claiming to subordinate it to values which would be unconditioned. [...] The serious is not defined by the nature of the ends pursued.
 
-**Plain words** The serious man (le sérieux): the flight from ambiguity into identification with a value, role, or cause treated as absolute — subordinating yourself to something you've decided outranks your own choosing. Deny your freedom by serving an idol. Recognise the temptation.
+She adds that it hinges on the stance, not the cause: "There is the serious from the moment that freedom denies itself to the advantage of ends which one claims are absolute." She also warns of the danger to others: "It is natural that he makes himself a tyrant."
 
-*For example:* The person who becomes "the company man," "the cause's soldier," "the church's pillar" — and the relief they feel is real: no more choosing. The price is also real: the self that was doing the choosing is now unemployed.
+(Beauvoir, 1947, Part II.)
+
+**Plain words** Seriousness means treating a value, role or cause as beyond question, so you no longer have to choose. Beauvoir says the problem is the stance, not the cause, and that it can end in disregard for other people's freedom.
+
+For example (imagined): someone who says "that is just what a good employee does" about every unpaid weekend has stopped asking whether they endorse it.
+
+## Sources
+
+- Simone de Beauvoir (1947), [The Ethics of Ambiguity](https://www.marxists.org/reference/subject/ethics/de-beauvoir/ambiguity/ch02.htm), Part II (marxists.org text)
+
 ## Psychology parallels
 
-- **Rigid identification and dogmatism** (Altemeyer, 2002; Rokeach, 1960)
+- **Rigid identification and dogmatism** (Altemeyer, 2002; Rokeach, 1960; not verified)
 
 ## Philosophy parallels
 

@@ -27,3 +27,10 @@
 ## E052 — Leap of faith
 - Sources opened: SEP Kierkegaard 3.3.1 (verbatim: "reject any attempt to base faith in the God-man on historical evidence"; "neither can be fully justified by reason"; "repeatedly tells us he cannot understand Abraham"); IEP Kierkegaard 2d (verbatim: "offense to reason, which can only be overcome by a leap of faith. But even a leap is under the control of the individual."; Climacus not Kierkegaard proclaims "truth is subjectivity").
 - No primary-source quote; page states this. SEP does not say whether Kierkegaard used the phrase "leap of faith". Old claim "commitments are prior to evidence, ground on which evidence stands" is not in sources; removed. Carleton/Hayes bullets inherited.
+
+## E062 / E063 — Frankl: creative work, love
+- Sources opened: edbatista.com/2010/04/life.html (reproduces Frankl, Man's Search for Meaning pp. 111-115; edition not stated; secondary reproduction, verbatim quotes taken from it: "three different ways" and love passages); Dik & Duffy 2009 (squarespace PDF of the article; verbatim definition fragments); Diener & Seligman 2002 (PMID 11894851, abstract).
+- Frankl book itself not opened. Buber I and Thou (cited in the old E063 line) not opened, dropped. Underwood 2008, Csikszentmihalyi 1990, Aristotle NE I.7 bullets inherited, unverified. Imagined retired-executive anecdote removed (presented as fact-like). Page states Diener & Seligman concern happiness/relationships not meaning, and are correlational with small student sample.
+
+## E071 — Avoiding the serious man
+- Source opened: Beauvoir, Ethics of Ambiguity ch. II, marxists.org (verbatim quotes). Altemeyer 2002 and Rokeach 1960 bullet inherited, marked "not verified". Translator not stated on page.

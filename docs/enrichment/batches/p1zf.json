@@ -7,11 +7,14 @@
   "E022",
   "E042",
   "E050",
-  "E052"
+  "E052",
+  "E062",
+  "E063",
+  "E071"
  ],
  "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T08:24:19+00:00"
+ "updated": "2026-10-20T08:25:30+00:00"
 }
