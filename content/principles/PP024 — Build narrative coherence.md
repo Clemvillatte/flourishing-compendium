@@ -17,11 +17,11 @@ Narrative identity, in McAdams and McLean's formulation, is a person's internali
 > Research into the relation between life stories and adaptation shows that narrators who find redemptive meanings in suffering and adversity, and who construct life stories that feature themes of personal agency and exploration, tend to enjoy higher levels of mental health, well-being, and maturity.
 > (McAdams and McLean 2013, Current Directions in Psychological Science 22(3))
 
-The principle's claim is about coherence, not cheerfulness. The story does not have to be positive; it has to hold together, with continuity and an arc the narrator can stand behind. The compendium's application: when a life feels shapeless, the working move is a better draft rather than a better mood, telling the story again with the turning points named. One caution travels with the research: a redemptive story can also mask a real wound, and forcing suffering into a growth arc for the sake of the form is not what the finding rewards.
+The opened studies are about redemption sequences and their associations with well-being; they do not show that any coherent story helps regardless of its content. The compendium's exercise is editorial guidance, not a finding from these studies: tell the story again with the turning points named, and do not force suffering into a growth arc for the form's sake.
 
-**Plain words** Two people can live the same events and only one of them has a story. The difference is not the events; it is whether the telling has shape: where it started, what changed, what the change cost, what the narrator did next. Sit down and write one paragraph of your life with a beginning, a middle and a turn in it. Most people find the paragraph wants revision, and the revision is where the coherence comes from.
+**Plain words** Describe a period of your life in a paragraph: where it started, what changed, what remains unresolved, and what you did next. The exercise is the describing; no particular ending is required.
 
-*For example:* Someone who says "the divorce taught me what I need" tells a story that helps her go on.
+*For example:* Someone describing a divorce says what changed, what remains unresolved, and what she did next, without a required ending.
 
 ## Sources
 

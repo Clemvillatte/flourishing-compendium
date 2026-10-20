@@ -12,25 +12,25 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 268** — Practise consensus-seeking
 
-Wiredu's reconstruction of the traditional Akan system makes the contrast with voting explicit: the Ashanti system was a consensual democracy, government by consent expressed through representatives, with that consent negotiated on the principle of consensus.
+Wiredu describes the Ashanti system as a consensual democracy: government by consent expressed through representatives, with that consent negotiated on the principle of consensus.
 
 > It was a democracy because government was by the consent, and subject to the control, of the people as expressed through the representatives. It was consensual because, at least, as a rule, that consent was negotiated on the principle of consensus. (By contrast, the majoritarian system might be said to be, in principle, based on consent without consensus.)
-> (Wiredu, quoted in the Internet Encyclopedia of Philosophy, pp. 58-59)
+> (Wiredu, quoted in the Internet Encyclopedia of Philosophy entry on Wiredu, section 3)
 
-The meeting itself has its own name and architecture. In the West African palaver, the term means, simply, a prolonged discussion, and villagers gathered in the hut to discuss an issue until it was resolved. In Akan states, rule ran on consultation, open discussion, consensus building and coalitions. The instrument is patience: the discussion is the decision procedure, and it ends when the disagreement is worked through rather than counted.
+Chereji and Wratto King describe the meeting itself in their Liberia and Ghana study: palaver means a prolonged discussion, and in Akan states, democratic rule is based on consultation, open discussion, consensus building and coalitions.
 
 > Traditionally, villagers gathered in the hut to discuss an issue until it was resolved.
 > (Chereji and Wratto King, West Africa: A Comparative Study of Traditional Conflict Resolution Methods in Liberia and Ghana)
 
-The compendium's application: when a decision belongs to a group, the vote is the instrument of last resort, not the first. Ask the quiet members directly, restate the objection that has no sponsor, and treat a decision that half the room lost as unfinished work rather than a result.
+The compendium's exercise: when a decision belongs to a group, before deciding, give each person a chance to name a remaining concern.
 
-**Plain words** A vote ends a conversation; consensus ends an argument. The difference matters when you have to live with the losers, which in a family, a team or a village is always. The palaver's rule is that the meeting does not adjourn on a count, it adjourns on a resolution, which is slower and lasts longer. If you are the one calling the shots, the discipline is to notice when you are counting heads instead of answering the last objection.
+**Plain words** Before deciding, give each person a chance to name a remaining concern. Ask what change, if any, would make the proposal acceptable to them. If disagreement remains, record it rather than describing the decision as everyone's agreement.
 
-*For example:* A team lead stops calling votes in the first ten minutes and starts asking the quiet members directly what would have to be true for them to back the plan.
+*For example:* A team lead asks each member to name a remaining concern and what change, if any, would make the proposal acceptable to them.
 
 ## Sources
 
-- [Wiredu's consensual-democracy passage, quoted in the Internet Encyclopedia of Philosophy entry on Wiredu](https://iep.utm.edu/wiredu/) — pp. 58-59
+- [Wiredu's consensual-democracy passage, quoted in the Internet Encyclopedia of Philosophy entry on Wiredu, section 3](https://iep.utm.edu/wiredu/) — the entry cites pp. 58-59
 - [Chereji and Wratto King, West Africa: A Comparative Study of Traditional Conflict Resolution Methods in Liberia and Ghana](http://csq.fspac.ubbcluj.ro/wp-content/uploads/CSQ-5.-Chereji-Wratto.pdf) — the palaver; Akan consultation and consensus
 
 ## Practice kernels

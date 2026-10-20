@@ -66,11 +66,16 @@
   "MO066": "QC-pending RESOLVED: supervisor-0ddcdd37 accepted (2026-10-20T01:5xZ) — round-17 corrections hold; quote verified verbatim vs freshly opened source (MIT Classics / Gutenberg Legge / Columbia AFE); body scopes the comparison and avoids overreach.",
   "MO035": "RESOLVED: item-5 checkpoint QC passed after three repair rounds (advisor scoped approval of displayed passages; linked concept pages read with no contradictions; approval is not an independent source audit of inherited parallels)",
   "MO046": "RESOLVED: item-5 checkpoint QC passed after three repair rounds (advisor scoped approval of displayed passages; linked concept pages read with no contradictions; approval is not an independent source audit of inherited parallels)",
-  "MO074": "RESOLVED: item-5 checkpoint QC passed after three repair rounds (advisor scoped approval of displayed passages; linked concept pages read with no contradictions; approval is not an independent source audit of inherited parallels)"
+  "MO074": "RESOLVED: item-5 checkpoint QC passed after three repair rounds (advisor scoped approval of displayed passages; linked concept pages read with no contradictions; approval is not an independent source audit of inherited parallels)",
+  "PP004": "QC-pending (item-10 milestone): advisor round-1 repairs in progress",
+  "PP012": "QC-pending (item-10 milestone): advisor round-1 repairs in progress",
+  "PP024": "QC-pending (item-10 milestone): advisor round-1 repairs in progress",
+  "PP034": "QC-pending (item-10 milestone): advisor round-1 repairs in progress",
+  "PP049": "QC-pending (item-10 milestone): advisor round-1 repairs in progress"
  },
  "missing_concepts": [],
  "sources_checked": 15,
- "updated": "2026-10-20T03:57:47+00:00",
+ "updated": "2026-10-20T04:02:27+00:00",
  "band_done": false,
  "takeover": {
   "by": "genuineflourishing35",
