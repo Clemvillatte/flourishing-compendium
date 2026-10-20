@@ -16,21 +16,21 @@ Sleep loss and attention travel together, and the size of the effect has been me
 
 > "Effect sizes ranged from small and nonsignificant (reasoning accuracy: g = -0.125, 95% CI [-0.27, 0.02]) to large (lapses in simple attention: g = -0.776, 95% CI [-0.96, -0.60], p < .001)." (Lim & Dinges, 2010, [Psychological Bulletin 136(3):375-389](https://pubmed.ncbi.nlm.nih.gov/20438143/))
 
-The pattern matters for this principle: the largest effect in the meta-analysis was on lapses in simple attention, the capacity the compendium's exercises train. The meta-analysis covers total deprivation of under 48 hours in laboratory conditions; the parallels below cite a separate literature on chronic partial restriction, which this page does not re-verify. What the compendium takes from the opened source is narrow and useful: before diagnosing your attention as broken, check the hours. (Lim & Dinges, 2010.)
+These findings concern short-term total sleep deprivation and vary across cognitive measures. They do not by themselves quantify the effect of sleeping four to six hours on a single night. The compendium suggests noting recent sleep when considering difficulties with attention. (Lim & Dinges, 2010.)
 
 **Plain words**
-Attention is one of the first things sleep loss takes. In the studies behind this page, the biggest measured effect of a night without sleep was lapses in simple attention: moments where the mind briefly stops responding. If your concentration feels broken, the first thing to check is how you slept.
+These studies found substantial effects on lapses in simple attention after extended wakefulness. Effects on other measures differed. For the compendium's exercise, record your recent sleep alongside occasions when following a task is difficult, without assigning a cause from one observation.
 
-*For example:* Imagine someone who sleeps five and a half hours and has three coffees before noon, and who has begun to say they are just bad at focusing. The compendium's exercise is to check the sleep first.
+*For example:* Imagine recording when you went to bed, when you woke, and how a reading session went.
 
 ## Sources
 
 - [Lim & Dinges (2010), A meta-analysis of the impact of short-term sleep deprivation on cognitive variables, Psychological Bulletin 136(3):375-389](https://pubmed.ncbi.nlm.nih.gov/20438143/)
 ## Psychology parallels
 
-- **Sleep deprivation impairs attention**, even one night of partial sleep loss degrades sustained attention (Lim & Dinges, 2010; Alhola & Polo-Kantola, 2007)
+- **Sleep deprivation impairs attention**, effects on attention measures were found after short-term total sleep deprivation (Lim & Dinges, 2010)
 - **Chronic sleep restriction produces cumulative deficits**, weeks of mild sleep restriction accumulate attentional impairment (Van Dongen et al., 2003; Belenky et al., 2003)
-- **Sleep restores attentional capacity**, good sleep is the single most important factor in next-day attentional performance (Lim & Dinges, 2010)
+- **Sleep and attention are linked in the research reviewed**, the meta-analysis found effects on attention measures after short-term total sleep deprivation (Lim & Dinges, 2010)
 
 ## Philosophy parallels
 
