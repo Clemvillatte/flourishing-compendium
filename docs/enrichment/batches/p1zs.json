@@ -6,13 +6,12 @@
   "BI020",
   "BI037",
   "BI023",
-  "BI048",
   "BI050",
   "BI038",
   "BI039",
   "BI044"
  ],
- "in_progress": null,
+ "in_progress": "BI048",
  "flagged": {
   "BI020": "Reopened for QC: round-4 citation closure",
   "BI037": "Reopened for QC: round-5 mechanical fixes",
@@ -22,11 +21,11 @@
   "BI038": "Reopened for QC: round-2b focused repairs",
   "BI039": "Reopened for QC: verification of already-landed QC edits; prior bulk reopening hit the one-in-progress restriction",
   "BI044": "Reopened for QC: verification of already-landed QC edits; prior bulk reopening hit the one-in-progress restriction",
-  "BI048": "Reopened for QC: milestone QC round-2 repairs",
+  "BI048": "Reopened for QC: verification of already-landed QC edits; prior bulk reopening hit the one-in-progress restriction",
   "BI050": "Reopened for QC: milestone QC round-2 repairs"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T12:09:53+00:00",
+ "updated": "2026-10-20T12:09:58+00:00",
  "band_done": false
 }
