@@ -20,7 +20,7 @@ Read together, the two passages treat effort as something to be tuned rather tha
 
 ### Plain words
 
-Notice how you are holding the work, not just how much of it you are doing. The sutta lists two failure modes, restlessness and laziness, and recommends finding the right pitch for persistence. As a proposed use of the simile, when effort starts turning into clenched force, check the demand first: restate it at a pitch you can hold, pick the piece that matters most, and start there. The sutta does not tell you to try less hard; it tells you to find the pitch where effort stays playable.
+Think of a task you are either rushing through or avoiding. Choose one adjustment to test: reduce today's workload, or take one small step on the task you have postponed. Afterwards, consider whether that change helped you keep working. Your next adjustment can depend on what happened.
 
 ### For example
 

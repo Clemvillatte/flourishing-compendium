@@ -16,13 +16,20 @@ Mudita is the third of the brahmaviharas. The tradition's definition is direct: 
 
 > "Mudita means appreciative joy at the success and good fortune of others." (Eileen Siriwardhana, [Mudita](https://accesstoinsight.org/lib/authors/siriwardhana/bl093.html))
 
-Śāntideva places rejoicing at the start of the bodhisattva path: "Joyfully I celebrate all the acts of virtue / That ease the pains of the lower realms, / And rejoice as well when those who suffer / Find themselves in states of happiness" (Bodhicaryāvatāra 3.1, trans. Adam Pearcey, [text](https://www.lotsawahouse.org/indian-masters/shantideva/bodhicharyavatara-3)). The verse makes rejoicing an explicit act of celebration.
+Śāntideva places rejoicing at the start of the bodhisattva path (Bodhicaryāvatāra 3.1, trans. Adam Pearcey, [text](https://www.lotsawahouse.org/indian-masters/shantideva/bodhicharyavatara-3)).
+
+> "Joyfully I celebrate all the acts of virtue
+> That ease the pains of the lower realms,
+> And rejoice as well when those who suffer
+> Find themselves in states of happiness." (Bodhicaryāvatāra 3.1, trans. Adam Pearcey, [text](https://www.lotsawahouse.org/indian-masters/shantideva/bodhicharyavatara-3))
+
+The verse makes rejoicing an explicit act of celebration.
 
 Neither source presents mudita as a technique for suppressing envy. The exercise the compendium takes from them is gradual: begin with people you already find it easy to be happy for, then extend the same response to the cases where envy gets there first.
 
 ### Plain words
 
-When someone shares good news, there is a moment before you answer where the choice happens. Envy turns the moment on yourself: why them and not me. The practice is to turn it on them: they got the job, the wedding, the house. Give the congratulation and then check whether you meant it. With a close friend it usually comes out true. The training happens where it does not: the colleague, the rival. Saying the words there is the exercise; the feeling can lag behind it.
+Choose someone whose good news you can welcome sincerely. Put into words what you are glad about for that person. Then consider someone whose success you find harder to welcome. What could you acknowledge honestly? You can examine your response without claiming to feel joy you do not feel.
 
 ### For example
 
