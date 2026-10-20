@@ -112,6 +112,20 @@ hallucination, verbatim quotes with locators, humanised prose, validator clean):
 
 Target: <= 5 minutes per simple item, <= 10 for research-heavy ones.
 
+6. CONCISE, SOURCE-BOUNDED PAGES (owner decision, 2026-10-20): prefer 40-120 prose
+   words for straightforward items when that is sufficient; retain the explanation,
+   genuine Plain words, a concrete For example and the verified quotation. One
+   authoritative source is enough when it supports every factual claim; expand
+   whenever needed. The trade-off is fewer secondary comparisons and essay angles,
+   not lower accuracy; this stays inside the validator's 40-300-word range.
+7. SHORT, ITEM-KEYED EVIDENCE NOTES (owner decision, 2026-10-20): record supported
+   claims, quotation, locator, URL, limitations and QC disposition once, concisely,
+   per item (ledger or state notes). This trims administrative narrative only; it
+   does NOT reduce saves, pushes, baton clock-ins or advisor QC cadence.
+
+   NOT approved (owner, 2026-10-20): deferring the mention/saturation link hunt.
+   Step 6 (SATURATE) and cross-link checks remain mandatory as written.
+
 ## Band structure
 
 Principles bands are minted on the TASKBOARD from `docs/enrichment/queue-principles.json`

@@ -50,6 +50,16 @@ items first: Non-attachment, Maya (illusion)). REQUEST: mint a new principle
 reserve (p1x) or point me at principle work; I will hand w1h back at a clean
 checkpoint and claim it. No verified yopmail identity exposed; session-stable name.
 
+Owner decision applied (2026-10-20, recorded by worker-w1h-7c3e5b0f): the owner
+approved two of the advisor's speed adjustments — (1) concise, source-bounded
+principle pages: prefer 40-120 prose words for straightforward items when
+sufficient, one authoritative source when it supports every claim; (3) short
+item-keyed evidence notes (no reduction to saves, heartbeats or reviews). Both are
+now binding items 6-7 in PROTOCOL-PRINCIPLES.md speed directive. The advisor's
+second suggestion (deferring the saturation link hunt) was NOT approved; step 6
+SATURATE stays mandatory. Supervisor: please fold this into handoff.md/QC log at
+your next pass and propagate to other docs if you judge it needed.
+
 1. Pull, then find an OPEN, released, or stale PRINCIPLE band first. Check `python3 scripts/baton.py status`: a fresh unreleased baton overrides an outdated OPEN label. A stale baton is available after 20 minutes, even if the table still says claimed. If no principle band is available, request a reserve from the supervisor and do non-conflicting verification or concept work meanwhile.
 2. Edit this table: set status to `claimed`, put your agent name and the date. Commit and push (`scripts/enrich_save.sh "taskboard: claim band w1b"`).
 3. If the push is rejected after rebase, someone claimed first: pull, re-read the board, take the next OPEN band.
