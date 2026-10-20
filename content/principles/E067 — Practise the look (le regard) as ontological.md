@@ -12,13 +12,26 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 459** — Practise the look (le regard) as ontological
 
-Recognise that the experience of being looked at by the Other is not merely psychological but ontological. Under the look of the Other, your world is reorganised: what was your centre becomes the periphery; what was your own becomes alienated. This is not a failure but a structure of being-for-others.
+Sartre insists that the look is not a feeling about other people. It is how another subject enters your world. When a man appears in a park, "an object has appeared which has stolen the world from me", and the appearance of the Other "corresponds therefore to a fixed sliding of the whole universe, to a decentralization of the world" (Being and Nothingness, Part III, ch. 1, p. 255, trans. Barnes). The things around you "turn toward the Other a face which on principle escapes me" (p. 261).
 
-(Sartre, 1943/2003, Being and Nothingness, Part III, ch. 1; Levinas, 1961/1969, Totality and Infinity.)
+### Why Sartre calls it ontological
 
-**Plain words** Being looked at by the Other is ontological, not merely psychological: under the look, your world is reorganised — your centre becomes the periphery, your own becomes alienated. The look is a structural event. Don't deny it; factor it.
+Under the look, your relation to yourself changes in kind, not only in degree: "the bond between my unreflective consciousness and my Ego, which is being looked at, is a bond not of knowing but of being. Beyond any knowledge which I can have, I am this self which another knows" (p. 261). He also names the loss of centre: "He is that object in the world which determines an internal flow of the universe, an internal hemorrhage" (p. 257). The look is therefore a structure of being-for-others, not an occasional mood.
 
-*For example:* The moment the police car pulls alongside at the traffic light — the entire interior world reorganises in one second: hands at ten-and-two, posture corrected. The look didn't add information; it reorganised the existing world.
+### Levinas answers differently
+
+Levinas, in Totality and Infinity, describes a different encounter. The way the Other presents himself, which Levinas names the face, "does not consist in figuring as a theme under my gaze" (p. 50, trans. Lingis). My gaze can lose its "avidity" only "by turning into generosity" (p. 50). In place of the look he puts the face: "The epiphany of the face is ethical" (p. 199). Where Sartre's look takes the world from you, Levinas's face addresses you.
+
+**Plain words** Being looked at by another person is not just a thought you have about them. For Sartre it is a basic fact of living among others: your world is no longer arranged around you alone. You cannot argue it away, because it is not an opinion. The point of the principle is to build that fact into how you act, instead of treating each embarrassment as a private failing.
+
+*For example:* Imagined example: you cross an empty office to take a call, then notice a colleague at the far desk. Your voice drops and your posture changes. Nothing in the call has changed, but the room has a new centre.
+
+(Sartre, Being and Nothingness, Part III, ch. 1, pp. 255-261, trans. Barnes; Levinas, Totality and Infinity, pp. 50-51, 198-199, trans. Lingis; both opened 2026-10-21.)
+
+## Sources
+
+- [Sartre, Being and Nothingness, trans. Barnes (Methuen, 1957), Internet Archive](https://archive.org/details/beingn-and-nothingness) — pp. 255-261
+- [Levinas, Totality and Infinity, trans. Lingis, selected pages (pp. 48-51, 197-201)](https://wuecampus.uni-wuerzburg.de/moodle/pluginfile.php/2896578/mod_folder/content/0/Levinas,%20Totality%20%20Infinity,%20S.%2048-51,110-114,117-119,197-201.pdf?forcedownload=1) — pp. 50-51, 198-199
 ## Psychology parallels
 
 - **Social anxiety and self-consciousness** (Schlenker and Leary, 1982)

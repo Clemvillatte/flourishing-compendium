@@ -1,6 +1,6 @@
 {
  "batch": "p1zx",
- "revision": 9,
+ "revision": 10,
  "reciprocal": [
   {
    "into": "Shame",
@@ -43,6 +43,18 @@
    "link": "E058",
    "why": "Camus ties measure to the limit that rebellion itself reveals",
    "notes": "Evidence: Rebel Part Five quotes verified vs opened Bower text 2026-10-21."
+  },
+  {
+   "into": "Being-for-others",
+   "link": "E067",
+   "why": "reports Sartre's claim that being looked at is a bond of being, not knowing",
+   "notes": "Evidence: BN p. 261 verified vs opened Barnes text 2026-10-21."
+  },
+  {
+   "into": "The face",
+   "link": "E067",
+   "why": "contrasts Levinas's face with the Sartrean look",
+   "notes": "Evidence: TI pp. 50-51, 199 verified vs opened Lingis selection 2026-10-21."
   }
  ]
 }

@@ -181,3 +181,9 @@ Round 3 (advisor, 2026-10-21): item-10 milestone closed with a scoped PASS for A
 - Source opened: Camus, The Rebel, trans. Bower, full text, Ted K Archive. Quotes verified word-for-word by script (Part One; Part Five 'Rebellion and Murder', 'Moderation and Excess', 'Thought at the Meridian').
 - Citation fixes: old cite 'Part Three' (Historical Rebellion) is wrong: measure is Part Five. The pairing with L'Etranger '1939/1940' and Lyrical and Critical Essays was unsupported (L'Etranger is 1942) and dropped. Plain words was a replicate; replaced. Example relabelled imagined.
 - Self-QC only.
+
+## E067 (worker-p1zx-9a2e4c71, 2026-10-21)
+
+- Sources opened: Sartre BN (Barnes, Methuen 1957, Internet Archive OCR): pp. 255 (decentralization), 257 (internal hemorrhage), 261 (bond not of knowing but of being; world made alien). Levinas, Totality and Infinity (Lingis), selected pages 48-51, 197-201 from a university course PDF (Wurzburg): pp. 50-51, 198-199 (page numbers from running heads). Quotes checked by script; OCR 'appcared' is a scan error for 'appeared'.
+- Old cite listed Levinas 1961/1969 without any quote. Now used as a contrast: Levinas's face is explicitly not a thematised gaze and the epiphany of the face is ethical (p. 199). Plain words was a replicate; replaced. Police-car example replaced by an imagined one. Overlap with E035 handled: E035 = shame/keyhole/responses; E067 = ontological claim + Levinas contrast.
+- Self-QC only.
