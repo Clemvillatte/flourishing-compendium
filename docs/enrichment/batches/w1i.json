@@ -28,7 +28,8 @@
   "The evidence base for community-level intervention",
   "The expanding self",
   "The social gradient of health",
-  "Wise reasoning"
+  "Wise reasoning",
+  "Working memory model Baddeley"
  ],
  "in_progress": null,
  "flagged": {
@@ -43,6 +44,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 20,
- "updated": "2026-10-20T12:10:18+00:00",
+ "updated": "2026-10-20T12:11:01+00:00",
  "band_done": false
 }
