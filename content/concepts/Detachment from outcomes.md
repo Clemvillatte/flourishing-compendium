@@ -13,9 +13,7 @@ Detachment from outcomes is the Bhagavad Gita's instruction to act from duty whi
 
 ### What the verse separates
 
-The closing line guards against the opposite error: detachment is not withdrawal from duty. The compendium's reading of the Gita's renunciation texts draws the same line between giving up the fruit and giving up the activity, keeping the work while releasing the lien on its results.
-
-The page's inherited psychology note pairs this with acceptance and commitment therapy's commitment to process with nonattachment to single outcomes, and with Sonnentag and Fritz's research on psychological detachment benefits.
+The closing line guards against the opposite error: detachment is not withdrawal from duty. The compendium's principle Y111 reads the Gita's renunciation texts the same way: give up the lien on the fruit, keep the activity.
 
 ### In the compendium
 
@@ -29,8 +27,8 @@ The page's inherited psychology note pairs this with acceptance and commitment t
 ## Related concepts
 
 - [[Non-attachment]] — the broader Buddhist rendering of release
-- [[Karma yoga]] — the Gita's discipline of acting without claim on the fruit
-- [[Psychological detachment]] — the recovery-research construct behind the Sonnentag and Fritz studies
+- [[Karma yoga]] — the Gita's discipline of action
+- [[Psychological detachment]]
 
 ## Sources
 

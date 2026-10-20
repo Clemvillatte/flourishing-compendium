@@ -7,7 +7,7 @@ file: "Contentment with sufficiency"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-C"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
-Contentment with sufficiency (zhizu, "knowing what is enough") is the Daoist bound on wanting: name how much is enough, and treat everything beyond that line as expense rather than gain. Chapter 44 of the Daodejing prices the question in life itself: keep life and lose fame and wealth, or keep them and lose your life.
+Contentment with sufficiency is the compendium's label for the Daodejing's teaching on contentment and sufficiency. Chapter 44 prices the question against life itself: keep life and lose fame and wealth, or keep them and lose your life.
 
 > "Who is content
 > Needs fear no shame.
@@ -18,7 +18,9 @@ Contentment with sufficiency (zhizu, "knowing what is enough") is the Daoist bou
 
 ### The claim behind the verse
 
-Chapter 46 states the reasoning directly: "There is no guilt greater than to sanction ambition; no calamity greater than to be discontented with one's lot; no fault greater than the wish to be getting. Therefore the sufficiency of contentment is an enduring and unchanging sufficiency." Contentment here is not the mood of having little. It is a standing decision about sufficiency, and the verse treats that decision as protection: wanting without bound is what exposes a person to shame, blame and danger.
+Chapter 46 states the reasoning directly: "There is no guilt greater than to sanction ambition; no calamity greater than to be discontented with one's lot; no fault greater than the wish to be getting. Therefore the sufficiency of contentment is an enduring and unchanging sufficiency." The chapter treats discontent with one's lot as a calamity and contentment's sufficiency as enduring.
+
+The compendium's exercise reading, which treats contentment as a bound set in advance before wanting escalates, is the compendium's application, not the chapters' wording.
 
 ### In the compendium
 

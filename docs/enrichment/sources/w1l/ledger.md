@@ -96,3 +96,31 @@ reserve from the active supervisor (see TASKBOARD claim note).
   DN 31 URL 404'd in this session, noted rather than retried.
 - Saturation: fast-track exemption; no reciprocal proposed.
 - QC: validator ok (1 warning: 1 Related-concepts line).
+
+## Milestone QC round (item 5, 2026-10-20)
+
+Advisor milestone QC on "Following nature's rhythms" plus a transcript review.
+Round 1 FAIL; repairs applied to three items:
+
+- Following nature's rhythms: DDJ 25 -> circadian bridge overreach removed
+  (opening reframed as the compendium's editorial label; the circadian connection
+  now labelled as the compendium's application); "chain of command" removed;
+  BI008 clause's borrowed "spine of the day" metaphor removed; Circadian science
+  and Ziran clauses reduced to bare links; BI066 duplication in the compendium
+  list removed. NAMESPACE FLAG: imperative-verb title, opened Legge ch. 25 does
+  not define the phrase; flagged Category A in concept-namespace-audit.md
+  (acceptance withheld pending supervisor disposition). Quote fidelity confirmed
+  (DDJ 25 verbatim, Legge, Gutenberg #216).
+- Contentment with sufficiency: "name how much is enough"/"standing decision"
+  practical-interpretation framing removed and replaced with the labelled
+  compendium-exercise sentence; unverified zhizu gloss removed.
+- Detachment from outcomes: ACT/Sonnentag-Fritz claim-bearing sentence removed
+  (citation line kept as a reference only); Psychological detachment related
+  clause reduced to a bare link (distinct construct from action-detachment);
+  Karma yoga clause narrowed to the definitional "the Gita's discipline of
+  action".
+- Process: item-5 start transition was recorded late (noticed by advisor);
+  future saves run without piping through tail (a failed push can otherwise
+  report exit 0).
+
+All three files revalidated (3 checked, 0 failed) after repairs.
