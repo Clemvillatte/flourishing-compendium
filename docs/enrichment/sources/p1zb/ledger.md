@@ -196,3 +196,15 @@ never-band-assigned work; p1g state had them flagged-only, absent from p1g's man
 - Plain words rewritten as re-derivation (old one replicated the body's first sentence).
 - Saturation: cited by the Neuroaesthetics, The sublime and Disinterested aesthetic pleasure
   concept space via the parallels sections.
+
+## PP065 — Build a portfolio, not a single practice
+- Full work: five-dimensions list grounded with a verbatim quote of Seligman's PERMA
+  definition as carried by Ascenso, Perkins & Williamon 2018 (Frontiers in Psychology 9,
+  PMC6232231, opened; sentence verified verbatim, disclosed secondary-carrier provenance).
+  Body restructured (why a portfolio follows from multidimensionality). Plain words rewritten
+  as re-derivation with a concrete example frame; For-example enriched. Sources section added.
+- Flags: Schueller 2014 and Parks et al. 2012 (inherited citation line + parallels labels)
+  not opened in this work — Schueller 2014 is likely the "Person-Activity Fit in Positive
+  Interventions" work; left as inherited with this flag.
+- Saturation: PP065 cited by concept space via Fredrickson's positivity portfolios and
+  Positive activity interventions parallels (rg: 0 concept pages list PP065 directly).
