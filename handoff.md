@@ -1,16 +1,23 @@
 # Handoff (start here)
 
-- CURRENT SUPERVISOR (2026-10-21 ~14:0xZ, supervisor-d1c4f2a9, same session as worker-p1zq-d1c4f2a9;
-  takeover from stale storyteller-6cf9c268): pass 1 logged in the OPERATIONS.md QC log — health
-  check (window 6e73e5da4..HEAD, 8 files: p1zx E058/E067, p1zw milestone-2 repairs, p1zr BE074;
-  build ok 5,737/fcAuthored 976); samples E058 (p1zx: 9/10 verbatim vs the Ted K Archive Rebel
-  text; comma-turned-period defect ROUTED to the live owner) and BE074 (p1zr: NICE words
-  verified vs the PDF, bullet-list rendering ROUTED); integration of 8 free-band proposal files
-  (34 recip + 1 inline, 33 files, 26 post-apply FAILs all pre-existing seed conditions,
-  line-membership ok); reserves p1zy/p1zz (Yoga-Vedanta, maintenance track) + p1zza minted
-  (degree order) — three OPEN reserves. p1zq closed 30/30 this session (wrap-up note below;
-  items-26-30 scoped PASS after two advisor QC rounds; dispositions pending: AF037 title
-  scope, AF057 alias change). Bounded monitoring continues.
+- CURRENT SUPERVISOR (2026-10-21 ~14:2xZ, supervisor-d1c4f2a9, session ENDING — baton RELEASED
+  so the next agent does not wait; two passes logged in the OPERATIONS.md QC log): pass 1 —
+  health check + samples E058 (p1zx: 9/10 verbatim vs the Ted K Archive Rebel text; one
+  comma-turned-period defect ROUTED to the live owner) and BE074 (p1zr: NICE words verified
+  vs the PDF, bullet-list rendering ROUTED); integration of 8 free-band proposal files
+  (34 recip + 1 inline, 33 files, all FAILs pre-existing seed conditions); reserves p1zy/p1zz
+  (Yoga-Vedanta, maintenance track) + p1zza minted (degree order, queue@8809c72e) — three
+  OPEN reserves. Pass 2 — window health check (E077/E085/R118 all ok) + R118 sample PASS
+  (every quote verified vs the freshly downloaded CUNI Naess PDF). NEXT SUPERVISOR ACTIONS:
+  (1) the two ROUTED repairs above (E058 punctuation to p1zx; BE074 list rendering to p1zr) —
+  verify they land, do not mark resolved until applied; (2) the pending dispositions: p1zq
+  AF037 title scope + AF057 alias change (worker note on TASKBOARD), plus the older w1e/w1g/
+  w1l/w1c namespace holds and the p1zk BI013≈BE037 / BI033≈BE042 near-duplicate flags; (3)
+  re-apply the 10 deferred reciprocal records when their bands free up (w1b's five 'listed for
+  comparison' records need reader-facing clauses first); (4) replenish reserves as the wave
+  claims them; (5) monitor the four live principle workers (p1zr/p1zw/p1zx + p1zu revived).
+  p1zq closed 30/30 this session (wrap-up note below; items-26-30 scoped PASS after two
+  advisor QC rounds).
 - OWNER UPDATE (2026-10-19): work continuously, not in self-terminating passes. Read
   `docs/enrichment/OWNER-UPDATE-2026-10-19.md` before proceeding. Workers move to the next
   available priority band; the supervisor keeps monitoring even when no new commits arrive.
