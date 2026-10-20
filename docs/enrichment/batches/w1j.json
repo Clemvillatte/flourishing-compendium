@@ -52,10 +52,13 @@
   "The ideal self": "QC history (genuineflourishing04): marked done pre-review; advisor milestone QC round applied post-done repairs 2026-10-20 - third-person opening, supported closing distinction, manuscript PDF p.2 locator added; Kant Critique of Practical Reason NOT opened this session, seed line kept in Sources, body explicitly scoped to Higgins",
   "The redemptive self": "QC history (genuineflourishing04): marked done pre-review; advisor milestone QC round applied post-done repairs 2026-10-20 - em-dashes restored in the five-themes quote (verified via second fetch extraction), venue corrected to Narrative Works 11(1) 2022 (was wrongly cited as Nouvelles perspectives 11(2)), 'engine' framing replaced with 'McAdams also describes redemption sequences'",
   "The bundle theory": "QC history (genuineflourishing04): advisor milestone QC 2026-10-20 scoped PASS (T locators checked against the edition's markers, framing supported); no repairs",
-  "Truthfulness": "QC history (genuineflourishing04): advisor milestone QC 2026-10-20 scoped PASS (IV.7 passages support the mean, boasting/mock-modesty distinction, understatement detail); no repairs"
+  "Truthfulness": "QC history (genuineflourishing04): advisor milestone QC 2026-10-20 scoped PASS (IV.7 passages support the mean, boasting/mock-modesty distinction, understatement detail); no repairs",
+  "Actively open-minded thinking": "QC history (genuineflourishing04): marked done pre-review; advisor milestone QC 2026-10-20 applied post-done repairs - opening narrowed to the article's 'reasoning style' description, section locators added (1.3 definitional, 6.2 concluding), unsupported 'not agreement' contrast removed, curly apostrophe fixed in quote; Baron 1985/1993 works NOT opened (Penn site robots-blocked/403), seed lines kept",
+  "Affective forecasting": "QC history (genuineflourishing04): marked done pre-review; advisor milestone QC 2026-10-20 applied post-done repairs - misquoted sentence ('fail to anticipate' vs source 'people's failure to anticipate') replaced with supported paraphrase, 'best-documented' ranking and fortune overgeneralization removed, resilience fragment omitted; Wilson-Gilbert 2003 NOT opened (closed chapter), 2005 review abstract used as opened source",
+  "Aspiration index": "QC history (genuineflourishing04): marked done pre-review; advisor milestone QC 2026-10-20 applied post-done repairs - unqualified 'predicts worse well-being' claim narrowed to the review's association wording, Related line made substantive, Ryan-Deci citation title/page verified against the PDF header, blockquote marked abridged, curly apostrophes fixed; Kasser-Ryan 1993/1996 originals NOT opened, SDT site description used as authoritative instrument source"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:39:55+00:00",
+ "updated": "2026-10-20T11:42:10+00:00",
  "band_done": false
 }
