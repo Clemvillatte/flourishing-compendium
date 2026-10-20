@@ -16,12 +16,12 @@ The remedies of Ethics Part V, read in sequence, are the method this principle t
 
 > "An emotion, which is a passion, ceases to be a passion, as soon as we form a clear and distinct idea thereof." (Spinoza, Ethics V, Prop. III, [Wikisource text](https://en.wikisource.org/wiki/Ethics_(Spinoza)/Part_5))
 
-A passion, for Spinoza, is a confused idea the mind suffers rather than thinks. Forming a clear and distinct idea of it is what ends the suffering, which is why the emendation is an intellectual act and not a mood shift. The surrounding propositions fill in the rest of the sequence: separating the emotion from the thought of its external cause destroys the love or hatred aimed at that cause (Prop. II); understanding things as necessary increases the mind's power over the emotions (Prop. VI); and a mind not assailed by contrary emotions can order its experience according to the intellect (Prop. X). The daily practice is the compendium's adaptation of that sequence: keep a one-line ledger of the day's strongest affect, its object, its cause, and one sentence of understanding gained. No special state is required, only the five minutes at day's end.
+The proof of Proposition III identifies a passion with a confused idea. Proposition II combines separating an emotion from the thought of its external cause with joining it to other thoughts ([Ethics, Part V](https://en.wikisource.org/wiki/Ethics_(Spinoza)/Part_5)). The compendium adapts these propositions into a daily notebook exercise: describe an emotion, examine your explanation of its cause, and note what remains uncertain.
 
 **Plain words**
-Pick the strongest feeling of the day and put it into words precise enough that a stranger would recognise it. Bad feelings run on vagueness: "everything is ruined" is harder to work with than "I am afraid the review will go badly". Stating it exactly is already half of what Spinoza prescribes. What remains is asking what actually caused it, what it was aimed at, and what follows from it.
+Try this with an upsetting exchange. Write down what happened separately from what you think the other person intended. Check which parts of your explanation you can support and which parts you are assuming.
 
-*For example (imagined):* The evening notebook: today's irritation named ("fear of the review, blocked striving"), its cause written down without the boss's face attached, one sentence on what it was actually about, and the piece of tomorrow's prep that answers it.
+*For example (imagined):* After a difficult review, someone notes their anger and their belief that the reviewer dislikes them. They separate the reviewer's actual comments from their guess about the motive.
 
 ## Psychology parallels
 

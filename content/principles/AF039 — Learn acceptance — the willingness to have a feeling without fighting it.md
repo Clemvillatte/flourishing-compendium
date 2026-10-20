@@ -12,16 +12,17 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 39** — Learn acceptance: the willingness to have a feeling without fighting it
 
-[[Acceptance|Acceptance is not approval]] or resignation. It is the willingness to have a feeling without trying to change, avoid, or suppress it. The Buddhist image names the cost of the fighting: the person who resists pain feels two arrows, the one who does not resist feels one.
+[[Acceptance|Acceptance is not approval]] or resignation. It is the willingness to have a feeling without trying to change, avoid, or suppress it. The Buddhist image the compendium reaches for is the Sallatha Sutta's description of the instructed disciple's response to physical pain:
 
-> "When touched with a feeling of pain, the uninstructed run-of-the-mill person sorrows, grieves, & laments, beats his breast, becomes distraught. So he feels two pains, physical & mental. ... When touched with a feeling of pain, the well-instructed disciple of the noble ones does not sorrow, grieve, or lament, does not beat his breast or become distraught. He feels one pain: physical, but not mental." (Sallatha Sutta, SN 36.6, [Thanissaro](https://www.accesstoinsight.org/tipitaka/sn/sn36/sn36.006.than.html))
+> "He feels one pain: physical, but not mental." (Sallatha Sutta, SN 36.6, [Thanissaro](https://www.accesstoinsight.org/tipitaka/sn/sn36/sn36.006.than.html))
 
-The experimental findings are narrower than the old paradox slogan. In one opened laboratory study, acceptance did not reduce reported sadness more than reappraisal did, and even went with increased sadness during the clips in one sample; what it did show was a physiological edge (skin conductance regulated more successfully) and much lower difficulty of deployment ([Troy et al., 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC6188704/)). What acceptance buys is the absence of the second arrow, and the second arrow was most of the problem.
+The sutta's application to emotional acceptance is the compendium's comparison, not an experimentally established mechanism: resistance to a feeling adds a layer of distress on top of it, and acceptance declines to add that layer. The experimental record cautions against stronger claims. In two samples using sad films, reappraisal produced larger decreases in negative emotion and larger increases in positive emotion than acceptance. Participants rated acceptance less difficult to use. These findings concern short-term responses to films, not the duration of panic attacks ([Troy et al., 2018, Emotion 18(1), 58-74](https://pubmed.ncbi.nlm.nih.gov/29154585/)).
 
 **Plain words**
-Most of the pain in a bad feeling is the second wave: the alarm about the alarm. Acceptance means dropping the second wave. You still feel the first arrow, the actual sensation, and it passes the way sensations pass. What you give up is the fleeing, bracing and arguing that kept the second wave up.
+Notice the feeling and your response to having it. Are you frightened, and also judging yourself for being frightened? The suggested practice is to let the feeling be present while you decide what to do next.
 
-*For example (imagined):* The panic attack the person finally stops fleeing ("fine, panic, do your worst") crests and breaks within minutes, instead of the usual two-hour chase.
+*For example (imagined):* Before a presentation, someone notices anxiety, names it, and begins speaking while the anxiety is still present.
+
 ## Psychology parallels
 
 - **Acceptance is a core ACT process**, willingness to experience internal states without avoidance predicts better outcomes across disorders (Hayes et al., 2011; Levin et al., 2015)
@@ -45,4 +46,4 @@ Most of the pain in a bad feeling is the second wave: the alarm about the alarm.
 ## Sources
 
 - [Sallatha Sutta, SN 36.6, Thanissaro translation (Access to Insight)](https://www.accesstoinsight.org/tipitaka/sn/sn36/sn36.006.than.html)
-- [Troy, A. S., Brunner, A., Shallcross, A. J., Friedman, R., & Jones, M. C. (2018). Cognitive Reappraisal and Acceptance: Effects on Emotion, Physiology, and Perceived Cognitive Costs. Emotion (PMC full text).](https://pmc.ncbi.nlm.nih.gov/articles/PMC6188704/)
+- [Troy, A. S., Shallcross, A. J., Brunner, A., Friedman, R., & Jones, M. C. (2018). Cognitive Reappraisal and Acceptance: Effects on Emotion, Physiology, and Perceived Cognitive Costs. Emotion, 18(1), 58-74 (PMC full text; citation verified on the PubMed record).](https://pmc.ncbi.nlm.nih.gov/articles/PMC6188704/)

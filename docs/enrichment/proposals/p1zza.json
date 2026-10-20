@@ -1,12 +1,18 @@
 {
  "batch": "p1zza",
- "revision": 2,
+ "revision": 3,
  "reciprocal": [
   {
    "into": "Narrative redemption sequences",
    "link": "SE042",
    "why": "A principle about revising life narratives",
    "notes": "SE042 body grounds the redemption/adaptation claim in McAdams & McLean 2013 (opened abstract, sagepub). Target page cites SE011/CO061/CO010/S058/CO060/P100 but not SE042. Checked 2026-10-21 by worker-p1zzb-7d2e9a41."
+  },
+  {
+   "into": "Acceptance",
+   "link": "AF039",
+   "why": "A principle about accepting feelings without fighting them",
+   "notes": "The Acceptance concept page lists ACT-grounded principles (E022, S001, B054, P156, PP081) but not AF039; checked 2026-10-21 by worker-p1zzb-7d2e9a41."
   }
  ]
 }
