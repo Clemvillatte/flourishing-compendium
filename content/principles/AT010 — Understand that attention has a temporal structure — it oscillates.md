@@ -12,9 +12,16 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AT — Attentio
 ---
 > **Principle 10** — Understand that attention has a temporal structure: it oscillates
 
-Attention is not a steady beam; it oscillates. There are natural fluctuations in alertness and focus (ultradian rhythms, attentional blinking, vigilance decrements). Understanding this structure allows you to work with, rather than against, your attention's natural rhythm.
+A review of the attentional blink literature describes the phenomenon as "a deficit in reporting the second of two targets when presented in close temporal succession," and notes that it "is informative about the rate at which stimuli can be encoded into consciously accessible representations." ([Martens and Wyble, 2010](http://wexler.free.fr/library/files/martens%20(2010)%20the%20attentional%20blink.%20past,%20present,%20and%20future%20of%20a%20blind%20spot%20in%20perceptual%20awareness.pdf)) In plain terms: after attention locks onto one thing, there is a window of several hundred milliseconds in which a second thing cannot be fully registered. ([Martens and Wyble, 2010](http://wexler.free.fr/library/files/martens%20(2010)%20the%20attentional%20blink.%20past,%20present,%20and%20future%20of%20a%20blind%20spot%20in%20perceptual%20awareness.pdf))
 
-**Plain words** Attention isn't a steady beam; it's a wave — alertness rises and falls in cycles over minutes and hours. Fighting the troughs is amateur; riding them is professional. Deep work in the crests, email in the dips.
+(Martens and Wyble, "The attentional blink: Past, present, and future of a blind spot in perceptual awareness," Neuroscience and Biobehavioral Reviews 34(6), 2010; Kleitman, 1963; Monk, 2005; Raymond et al., 1992; Mackworth, 1948.)
+
+> "Subjects often fail to report T2 when it is presented within 200–500 ms after T1, whereas when the interval is longer, both targets are usually reported in the order in which they were presented." (Martens and Wyble, [The attentional blink: Past, present, and future](http://wexler.free.fr/library/files/martens%20(2010)%20the%20attentional%20blink.%20past,%20present,%20and%20future%20of%20a%20blind%20spot%20in%20perceptual%20awareness.pdf), Neuroscience and Biobehavioral Reviews 34(6), 2010)
+
+The same review notes that "The AB lasts for several hundred milliseconds," and that the effect appears to arise from attending to the first target and consolidating it, rather than from a failure of the eyes. ([Martens and Wyble, 2010](http://wexler.free.fr/library/files/martens%20(2010)%20the%20attentional%20blink.%20past,%20present,%20and%20future%20of%20a%20blind%20spot%20in%20perceptual%20awareness.pdf))
+
+**Plain words**
+Attention has rhythm, not just direction. Over milliseconds it blinks — a second target arriving too soon after the first goes unreported; over hours, alertness rises and falls in longer cycles. Fighting the troughs is amateur; riding them is professional. Deep work in the crests, email in the dips.
 
 *For example:* The writer who drafts in the morning's high tide and answers messages in the afternoon's low — same hours, twenty times the output.
 ## Psychology parallels
