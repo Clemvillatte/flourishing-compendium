@@ -12,13 +12,22 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 235** — Handle power without tyranny
 
-Marcus was the most powerful person in the world and wrote the Meditations as a practice of self-restraint. Power does not corrupt the Stoic because the Stoic does not seek power for its own sake. Use power for the common good, not for self-aggrandisement.
+Marcus keeps the warning addressed to himself:
 
-(Med. I.1, I.6, I.9, I.16, I.17, II.1, IV.3, V.1, VI.7, VI.30, VII.5, IX.6; Seneca, Letters 14, 94, 108, 114; Disc. I.9, III.7, III.24; Musonius Rufus, Lectures.)
+> "Take care that thou art not made into a Caesar, that thou art not dyed with this dye; for such things happen. Keep thyself then simple, good, pure, serious, free from affectation, a friend of justice, a worshipper of the gods, kind, affectionate, strenuous in all proper acts." (Marcus Aurelius, Meditations, Book VI, section 30, [George Long translation](https://www.gutenberg.org/cache/epub/15877/pg15877.txt))
 
-**Plain words** Marcus held more power than anyone alive and wrote the Meditations as a practice of self-restraint. Power doesn't corrupt a Stoic because they don't want it for its own sake. Use it for the common good, not for self-glorification.
+The model was his adoptive father, of whom he records "no vain-glory in those things which men call honors" and that "he considered himself no more than any other citizen" (Meditations I.16). The work itself is directed outward: "For what-soever either by myself or with another I can do, ought to be directed to this only, to that which is useful and well suited to society" (Meditations VII.5).
 
-*For example:* A manager uses her authority to protect a junior colleague from unfair blame.
+(Med. I.16, VI.30, VII.5.)
+
+**Plain words**
+As a practical exercise, take one thing your position lets you decide for other people, and state who benefits from the current arrangement. Marcus's test for his own position is blunt: do not be made into a Caesar.
+
+*For example (imagined):* A manager uses her authority to protect a junior colleague from unfair blame.
+
+## Sources
+
+- [Marcus Aurelius, Meditations (George Long translation, Project Gutenberg)](https://www.gutenberg.org/cache/epub/15877/pg15877.txt) — Book I, section 16; Book VI, section 30; Book VII, section 5
 
 ## Psychology parallels
 

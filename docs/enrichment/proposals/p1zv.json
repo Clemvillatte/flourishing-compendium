@@ -1,6 +1,6 @@
 {
  "batch": "p1zv",
- "revision": 8,
+ "revision": 9,
  "reciprocal": [
   {
    "into": "Truthfulness",
@@ -49,6 +49,12 @@
    "link": "S107",
    "why": "A Stoic principle on keeping conduct intact through displacement",
    "notes": "S107 (2026-10-21, worker-p1zv-95f93b33): hub inspected via occurrence search (no S107 occurrence); grounded in S107's Lecture IX inventory quote verified against the opened StoicSource page."
+  },
+  {
+   "into": "Justice",
+   "link": "S113",
+   "why": "A Stoic principle on holding power as a friend of justice",
+   "notes": "S113 (2026-10-21, worker-p1zv-95f93b33): hub inspected via occurrence search (no S113 occurrence in content/concepts/Justice.md); grounded in S113's Med. VI.30 'friend of justice' quote verified against the opened Long text."
   }
  ]
 }
