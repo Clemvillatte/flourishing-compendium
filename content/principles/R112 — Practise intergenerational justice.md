@@ -12,13 +12,21 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 374** — Practise intergenerational justice
 
-Consider the impact of your actions on future generations. You inherit a world you did not create and will leave a world you will not inhabit. Act as a trustee for those who come after you. Do not consume what belongs to them.
+Jonas's observation is that traditional ethics was written for near-range relations, while technological action now reaches across generations ([Philosophical Essays, From Ancient Creed to Technological Man, 1980, quoted in the opened Lublin text](https://up.lublin.pl/files/biochemia/Etyka/ethics,_may,_28.pdf)). His imperative is addressed to that reach:
 
-(Jonas, 1979, The Imperative of Responsibility; Rawls, 1971, A Theory of Justice, §44.)
+> Act so that the effects of your action are compatible with the permanence of genuine human life; or expressed negatively: "Act so that the effects of your action are not destructive of the future possibility of such life".
 
-**Plain words** You inherit a world you didn't make and leave one you won't live in — so act as trustee, not owner. Consider the impact on the people who come after: don't consume what belongs to them.
+(Hans Jonas, quoted in [University of Life Sciences in Lublin course text, opened](https://up.lublin.pl/files/biochemia/Etyka/ethics,_may,_28.pdf); the imperative appears in The Imperative of Responsibility, 1979/1984, and in Philosophical Essays, 1980.)
 
-*For example:* The family farm deciding whether to sell the forest to the pulp mill — and instead asking what the fifth generation would want them to have done, which reframes the whole calculation.
+Jonas states an honest limitation himself: no rational contradiction is involved in violating the imperative; you can will the present good at the cost of the future one ([same opened source](https://up.lublin.pl/files/biochemia/Etyka/ethics,_may,_28.pdf)). It is a demand, not a proof. Acting as trustee means taking the demand as binding on decisions that outlive you.
+
+### Plain words
+
+You inherit a world you did not make and leave one you will not live in. Treat what you hold as held for others too. The question to ask of any decision that outlives you: does it use up something the people coming after will need?
+
+### For example
+
+Suppose a family is weighing whether to sell a forest to a pulp mill. They can ask what the fifth generation would want them to have done. The question does not settle the sale by itself; it changes what counts as a reason.
 ## Psychology parallels
 
 - **[[Future time perspective|Future time perspective]]** (Zimbardo and Boyd, 1999)

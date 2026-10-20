@@ -22,7 +22,8 @@
   "R085",
   "R088",
   "R102",
-  "R103"
+  "R103",
+  "R112"
  ],
  "in_progress": null,
  "flagged": {
@@ -36,6 +37,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T14:09:33+00:00",
+ "updated": "2026-10-20T14:10:04+00:00",
  "band_done": false
 }
