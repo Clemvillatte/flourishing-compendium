@@ -12,13 +12,20 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 ---
 > **Principle 19** — Protect absorption
 
-Flow requires sustained attention. Interruptions, multitasking, and self-referential thinking (worrying about performance while performing) break the state. Protect blocks of 45 to 90 minutes for deep work. Clear notifications. Set a clear goal and a feedback signal. The protection of absorption is not about productivity alone; it is about the quality of experience.
+Absorption — the state Csikszentmihalyi called flow — requires sustained attention, and the mind-wandering study measures what its absence goes with:
 
-(Csikszentmihalyi, 1990; Killingsworth and Gilbert, 2010.)
+> "In conclusion, a human mind is a wandering mind, and a wandering mind is an unhappy mind. The ability to think about what is not happening is a cognitive achievement that comes at an emotional cost." (Killingsworth & Gilbert, "A Wandering Mind Is an Unhappy Mind", Science, 2010)
 
-**Plain words** Flow needs sustained attention. Interruptions, multitasking and self-conscious worry break it. Guard blocks of 45 to 90 minutes. Clear notifications, set a goal, and arrange feedback. It's about more than productivity: absorption is a core part of a good life.
+In the study, people were less happy when their minds were wandering than when they were not, across all activities; what people were thinking predicted their happiness better than what they were doing. This page's suggested practice, which goes beyond what the study measured: guard blocks of 45 to 90 minutes for deep work, clear notifications, set a clear goal and a feedback signal. The protection of absorption is not about productivity alone; it is about the quality of experience.
+
+**Plain words**
+In nearly half the samples, people were thinking about something other than what they were doing, and it went with feeling worse. Absorption is the reverse of that: attention and action in the same place. The practical job is protecting the block — an hour with the phone in a drawer, one goal, something that shows progress. The stake is the quality of the experience, not just the output.
 
 *For example:* Putting your phone in a drawer and writing for an hour with no tabs open.
+
+## Sources
+
+- Killingsworth, M. A., & Gilbert, D. T., "A Wandering Mind Is an Unhappy Mind", Science 330(6006) (2010), p. 932 — [PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/21071660/) and [full text PDF, UC Berkeley Greater Good](https://greatergood.berkeley.edu/images/uploads/A_Wandering_Mind_Is_an_Unhappy_Mind.pdf)
 
 ## Stories
 
