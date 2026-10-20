@@ -12,18 +12,16 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 46** — See the particular
 
-Phronesis concerns particulars, and Aristotle says its knowledge of them is not reached by reasoning from universals but by a trained perception. ([Nicomachean Ethics VI.8, VI.11, trans. W. D. Ross](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6)) The compendium presents this as the discipline of noticing what is called for here, now, with these people, in this situation.
+Aristotle says prudence must take account of particular facts because action concerns particular things. ([Nicomachean Ethics VI.7, trans. H. Rackham](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6)) The compendium turns this into an exercise in noticing concrete features of a situation.
 
-(NE VI.8, VI.11.)
+(NE VI.7, VI.11.)
 
-> "Nor is Prudence a knowledge of general principles only: it must also take account of particular facts, since it is concerned with action, and action deals with particular things." (Aristotle, Nicomachean Ethics VI.8, trans. W. D. Ross, [Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6))
+> "Nor is Prudence a knowledge of general principles only: it must also take account of particular facts, since it is concerned with action, and action deals with particular things." (Aristotle, Nicomachean Ethics VI.7, trans. H. Rackham, [Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6))
 
-The discussion of practical reasoning ends in perception: "hence we must have perception of particulars, and this immediate perception is Intelligence." ([NE VI.11, Ross](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6)) Aristotle adds that "that eye of the soul of which we spoke cannot acquire the quality of Prudence without possessing Virtue." ([NE VI.12, Ross](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6))
-
-Universal rules are necessary but insufficient. The practically wise person sees what is called for in the concrete case; the compendium's exercise is training that seeing.
+The discussion of practical reasoning ends in perception: "hence we must have perception of particulars, and this immediate perception is Intelligence." ([NE VI.11, Rackham](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6)) Aristotle also writes that "that eye of the soul of which we spoke cannot acquire the quality of Prudence without possessing Virtue." ([NE VI.12, Rackham](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6))
 
 **Plain words**
-Rules help, but they stop short of the real case. The wise person sees what's called for here, now, with these people. ([NE VI.8, Ross](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6)) Aristotle says this perception is trained, an "eye of the soul" that develops with virtue. So practise noticing the concrete details, not just applying the general principle.
+Knowledge of general principles is not sufficient on its own in this account. ([NE VI.7, Rackham](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6)) For this exercise, list concrete details that a general rule might leave unspecified.
 
 *For example:* Telling a nervous new hire "great work" might be right. Noticing she needs a specific, honest correction instead is the trained eye at work.
 
