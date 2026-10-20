@@ -10,7 +10,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 “Courage built gradually” — Aristotle.
 
-Courage built gradually is Aristotle's own point about virtue: it is not a feeling one has but a state one builds, and the building is done by doing. The Nicomachean Ethics states the rule for the arts and the virtues alike:
+Aristotle describes courage as formed through habituation: actions in situations of danger can make people brave or cowardly. The Nicomachean Ethics states the rule for the arts and the virtues alike:
 
 > For the things we have to learn before we can do them, we learn by doing them, e.g. men become builders by building and lyreplayers by playing the lyre; so too we become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts. — Aristotle, Nicomachean Ethics II.1, Ross translation, [Internet Classics Archive (opened)](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html)
 
@@ -18,7 +18,7 @@ The chapter applies the rule to courage directly, through danger and habituation
 
 > by doing the acts that we do in the presence of danger, and being habituated to feel fear or confidence, we become brave or cowardly. — Aristotle, Nicomachean Ethics II.1, Ross translation, [Internet Classics Archive (opened)](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html)
 
-The same chapter notes that the virtues are got by first exercising them, as with the arts. The compendium's small-steps practices, from shaping to graded exposure, build on this ground.
+The same chapter notes that the virtues are got by first exercising them, as with the arts. The compendium compares this account with its own small-steps practices, from shaping to graded exposure.
 
 ### In the compendium
 
@@ -36,7 +36,7 @@ The same chapter notes that the virtues are got by first exercising them, as wit
 
 - [[Moral courage research]]
 - [[Growth mindset]]
-- [[Creative self-efficacy]]
+- [[Self-efficacy]]
 
 ## Sources
 
@@ -46,11 +46,3 @@ The same chapter notes that the virtues are got by first exercising them, as wit
 ## Cited in philosophy parallels
 
 - [[BE027 — Learn to use graded exposure — start small, build up]]
-- [[A004 — Become virtuous by doing virtuous acts]]
-- [[ST318 — The VIA Classification]]
-- [[SP065 — Act from strength, not from fear]]
-- [[ST111 — The Wrights Test Two Hundred Wings]]
-- [[PP037 — Cultivate courage]]
-- [[AT031 — Cultivate attentional endurance — build capacity gradually]]
-- [[BE009 — Know that behaviour is shaped gradually — small steps build large changes]]
-- [[BE023 — Learn to use shaping — build complex behaviours from small components]]

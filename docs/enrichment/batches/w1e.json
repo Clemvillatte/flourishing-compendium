@@ -23,11 +23,11 @@
   "Constitution of meaning",
   "Complete mental health model",
   "Confucian role ethics",
-  "Courage built gradually",
   "Context effects in perception",
   "Context-dependent repetition (Lally)",
   "Corrective justice",
-  "Cosmopolitanism"
+  "Cosmopolitanism",
+  "Courage built gradually"
  ],
  "in_progress": null,
  "flagged": {
@@ -47,11 +47,12 @@
   "Context effects in perception": "Reopened for QC: milestone QC round 3 (advisor): verify Key Points against page; replace bidirectional priming claim",
   "Context-dependent repetition (Lally)": "Reopened for QC: milestone QC round 3 (advisor): tighten synthesis; model-fit details; Gardner marked not-consulted",
   "Corrective justice": "Reopened for QC: milestone QC round 3 (advisor): restore Cited-in membership to A102 and S042; narrow the parties sentence",
-  "Cosmopolitanism": "Reopened for QC: milestone QC round 3 (advisor): definition modality; omit unverified section locators; restore Cited-in membership"
+  "Cosmopolitanism": "Reopened for QC: milestone QC round 3 (advisor): definition modality; omit unverified section locators; restore Cited-in membership",
+  "Courage built gradually": "Reopened for QC: milestone QC round 3 (advisor): opening reworded; compendium-comparison label; Cited-in restored; related-link fix"
  },
  "missing_concepts": [],
  "sources_checked": 34,
- "updated": "2026-10-20T06:56:13+00:00",
+ "updated": "2026-10-20T06:56:30+00:00",
  "takeover": {
   "by": "genuineflourishing36",
   "at": "2026-10-19T12:14:25+00:00"
