@@ -810,3 +810,6 @@ convention).
 - No In-the-compendium block (fast-track bar; Cited-in lists preserved).
 - Saturation: fast-track exemption; no reciprocal proposed.
 - QC: validator ok at fast-track profile; no advisor QC (item 18; next at item 20).
+
+### Validator repair (Leisure, same session)
+- enrich_validate FAIL: "5 dashes in prose (max 3)" — the source's en-dashes inside my verbatim fragments. Repaired by re-segmenting the inline quotes to omit the dash-bearing spans ("a co–respondence, eternally established in nature" and the "– in the real" fragment now paraphrased with only dash-free quoted spans). Re-validated ok; item then marked done. One Related-concepts line (Sabbath) preserved — the "fewer than 3" warning reflects the inherited structure.
