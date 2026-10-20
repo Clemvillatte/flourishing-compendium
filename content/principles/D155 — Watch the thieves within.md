@@ -12,17 +12,31 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 155** — Watch the thieves within
 
-The five thieves: the senses and desires grabbing outward — rob you of vitality day by day. Audit what quietly steals your energy.
+The Classic of the Hidden Accordance names them:
 
-(Yinfu Jing.)
+> "Heaven has five thieves; one who perceives them will flourish. The five thieves reside in the heart-mind, yet their workings extend through Heaven. The cosmos rests in the hand; the ten thousand things are born from the body." (Yinfu Jing, Upper Section, [Good Works Translation](https://tianmu.org/good-work-library/daoist/classical-daoist-texts/classic-of-the-hidden-accordance))
 
-**Plain words** The five thieves — the senses and desires grabbing outward — rob you of vitality day by day. Audit what quietly steals your energy. The thief isn't dramatic; it's the app you check 'for a second' forty times a day.
+> "The evils of the nine openings lie in the three essentials. They can be moved or stilled." (Yinfu Jing, Upper Section)
 
-*For example:* Screen-time reports: the two hours a day you didn't decide to spend — that's the thief's receipt.
+The Lower Section gives the mechanism and the watch point:
+
+> "The heart-mind is born from things and dies from things. The pivot is in the eyes." (Yinfu Jing, Lower Section)
+
+The text does not name the five thieves one by one. The compendium follows the traditional reading that identifies them with the senses and desires, each reaching outward through the body's openings for what it wants.
+
+(Yinfu Jing, Upper and Lower Sections.)
+
+**Plain words** The chapter's promise is conditional: the one who perceives the thieves flourishes. The practice it points to is perception itself, an audit of what reaches out through your eyes and the other openings and takes something with it each time. The "pivot is in the eyes" locates the watch point where attention goes out. A practical reading: rather than resolving to have more energy, notice what each habitual reach actually costs.
+
+*For example:* Imagine reviewing a week of the moments you reached for your phone without deciding to. You could keep a tally for a few days and read what it shows.
+
+## Sources
+
+- [Classic of the Hidden Accordance, Good Works Translation, tianmu.org](https://tianmu.org/good-work-library/daoist/classical-daoist-texts/classic-of-the-hidden-accordance) — Upper and Lower Sections
 
 ## Psychology parallels
 
-- **[[Desire experience-sampling|Desire experience-sampling]]**, people desire something roughly half their waking hours (Hofmann et al., 2012)
+- **[[Desire experience-sampling|Desire experience-sampling]]** (Hofmann et al., 2012)
 - **[[Notification and feed research on attention capture|Notification and feed research on attention capture]]**
 
 ## Philosophy parallels
