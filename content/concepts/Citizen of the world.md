@@ -10,11 +10,11 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 “Citizen of the world” — Diogenes of Sinope, in Diogenes Laertius VI.63.
 
-The phrase comes from an anecdote about Diogenes of Sinope. Asked where he came from, he did not name his city. He claimed the world. The compiler Diogenes Laertius records the exchange:
+The phrase comes from an anecdote about Diogenes of Sinope. Asked where he came from, he did not name his city. He claimed the world. Diogenes Laertius records the exchange:
 
 > Asked where he came from, he said, "I am a citizen of the world." — Diogenes Laertius VI.63, Hicks translation, [Wikisource (opened)](https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_VI)
 
-The word behind the reply, kosmopolitēs, is a coinage: a citizen not of this polis or that one but of the kosmos. The compiler's footnote adds that if the answer is authentic, the term "cosmopolitan" originated with Diogenes. The reply refuses the local identity as the whole of who one is, and a second anecdote gives the positive side:
+A note in the Hicks edition cautiously suggests that, if the answer is authentic, it apparently indicates that the term "cosmopolitan" originated with Diogenes. The compendium reads the reply as refusing the local identity as the whole of who one is, and a second anecdote gives the positive side:
 
 > The only true commonwealth was, he said, that which is as wide as the universe. — Diogenes Laertius VI.72, Hicks translation, [Wikisource (opened)](https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_VI)
 

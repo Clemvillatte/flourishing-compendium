@@ -9,17 +9,17 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
 
-learning and problem-solving degrade under high cognitive load (Sweller, 1988; Paas & Van Merriënboer, 1994).
+high cognitive load can impede learning and task performance (Sweller, 1988; Paas & Van Merriënboer, 1994).
 
-Cognitive load theory is John Sweller's account of why instruction and problem-solving fail. The theory was developed in the late 1980s out of a study of problem solving. Its starting point is the small capacity of working memory:
+Cognitive load theory is John Sweller's theory of working-memory demands in learning and instruction. The theory was developed in the late 1980s out of a study of problem solving. Its starting point is the small capacity of working memory:
 
 > In cognitive psychology, cognitive load is the effort being used in the working memory. — [Wikipedia, Cognitive load (opened)](https://en.wikipedia.org/wiki/Cognitive_load)
 
-The theory sorts the load into three kinds. Intrinsic load comes from the difficulty of the material itself. Extraneous load is added by the way the material is presented. Germane load is the work of building durable knowledge. When presentation is cluttered, the learner spends working memory on the clutter:
+As described in the opened overview, the theory distinguishes intrinsic load (the difficulty of the material itself), extraneous load (added by the way the material is presented), and germane load (the working-memory resources the learner dedicates to the essential information for learning). When presentation is cluttered, the learner spends working memory on the clutter:
 
 > A heavy cognitive load typically creates error or some kind of interference in the task at hand. — [Wikipedia, Cognitive load (opened)](https://en.wikipedia.org/wiki/Cognitive_load)
 
-The theory's practical lesson is to protect working memory: cut the extraneous, sequence the intrinsic, and let the germane work happen. The compendium reads the finding through its simplicity and rest principles.
+The compendium reads the finding through its simplicity and rest principles.
 
 ### In the compendium
 

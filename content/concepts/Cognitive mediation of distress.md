@@ -8,13 +8,13 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC",
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
 
-the CBT bedrock finding that interpretations, not events alone, carry emotional load (Beck, 1976).
+a cognitive-therapy assumption that interpretations influence emotional responses (Beck, 1976).
 
-Cognitive mediation of distress is the claim at the base of cognitive therapy. The event does not reach the emotion directly. What the person makes of the event does. Beck's first articles on the cognitive theory of depression appeared in the early 1960s, and the assumption is stated plainly in the therapy's basic premises:
+Cognitive mediation of distress names a cognitive-therapy assumption: interpretations influence emotional responses. The assumption is stated plainly in the therapy's basic premises:
 
 > Human emotions are primarily caused by people's thoughts and perceptions rather than events. — [Wikipedia, Cognitive behavioral therapy (opened)](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy)
 
-The claim is not that events do not matter. It is that the interpretation carries the emotional charge, which is why questioning a thought can change a feeling. The idea has older roots: the CBT literature itself notes the influence of Epictetus on Albert Ellis, and Beck's depression work grew out of the same turn from drives to thinking. The compendium pairs the finding with Stoic judgement principles and with exercises that separate evidence from interpretation.
+The same overview describes reciprocal influences among events, thoughts, emotions, behaviors, and physiological reactions, so the assumption is not a claim that events do not matter. It locates one place where change can be attempted: questioning a thought is one way to reach a feeling. The CBT literature itself notes the influence of Epictetus on Albert Ellis. The compendium pairs the assumption with Stoic judgement principles and with exercises that separate evidence from interpretation.
 
 ### In the compendium
 

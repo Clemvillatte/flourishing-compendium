@@ -8,17 +8,17 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC",
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
 
-pain acceptance and catastrophizing predict suffering beyond pain intensity (McCracken, 1998; Sullivan et al., 2001).
+pain acceptance and catastrophizing are studied as factors in chronic pain (McCracken, 1998; Sullivan et al., 2001).
 
-Chronic pain research studies why pain persists and disables, and what else beside the pain itself drives the disability. Two psychological factors carry much of the weight in this literature. One is acceptance: how far a person stops fighting the pain and gets on with valued activity. McCracken's 1998 study gave questionnaires to 160 adults with chronic pain:
+Chronic pain research studies pain that persists, and what beside the pain itself is associated with disability and distress. One line of work examines acceptance of pain. McCracken's 1998 questionnaire study involved 160 adults with chronic pain:
 
 > Correlational analyses showed that greater acceptance of pain was associated with reports of lower pain intensity, less pain-related anxiety and avoidance, less depression, less physical and psychosocial disability, more daily uptime, and better work status. — McCracken, 1998, *Pain* 74(1):21–27, [PubMed abstract (opened)](https://pubmed.ncbi.nlm.nih.gov/9514556/)
 
-The same study found a relatively low correlation between acceptance and pain intensity, so acceptance is not just what easier pain looks like. The other factor is catastrophizing, the mental set a person brings to the pain:
+The abstract reports that a relatively low correlation between acceptance and pain intensity showed that acceptance is not simply a function of having a low level of pain, and it describes the results as preliminary. A separate line of work concerns catastrophizing, the mental set a person brings to the pain:
 
 > an exaggerated negative mental set brought to bear during actual or anticipated painful experience — catastrophizing as defined in the Pain Catastrophizing Scale manual, citing Sullivan et al., 2001 ([PCS Manual, opened](https://aspecthealth.ca/wp-content/uploads/2017/03/PCSManual_English1.pdf))
 
-The scale asks about rumination, magnification, and helplessness, with items such as "I can't stop thinking about how much it hurts". In both lines of work, the intensity of the pain is not the whole story. What the person does with the pain counts too, and this is the finding the compendium builds on.
+The scale asks about rumination, magnification, and helplessness, with items such as "I can't stop thinking about how much it hurts". The compendium builds on these two lines of work in its pain principles.
 
 ### In the compendium
 
