@@ -148,6 +148,9 @@ def main():
                                       'docs/enrichment/batons/s1a.json'], 'storyteller', 's1a'))
     check('worker blocked from stories pipeline',
           bool(story_guard.violations(['content/stories/ST342 — X.md'], 'worker')))
+    check('worker blocked from story tools and lane batons',
+          bool(story_guard.violations(['scripts/story_check.py', 'scripts/test_story_tools.py',
+                                       'docs/enrichment/batons/s1a.json'], 'worker')))
     check('worker allowed on own band principle',
           not story_guard.violations(['content/principles/D005.md'], 'worker'))
     check('supervisor may integrate',
@@ -237,6 +240,14 @@ def main():
                         os.path.join(fx, 'draft.md'), '--root', fx, '--write',
                         '--chapter', 'ST-S01.01', '--id', '2'], capture_output=True, text=True)
     check('re-register refused', r.returncode == 1 and 'exists' in r.stdout, r.stdout + r.stderr)
+    # same ST number with a DIFFERENT title -> refused (duplicate-id collision)
+    dup = draft.replace('title: A Test Story', 'title: Another Story')
+    open(os.path.join(fx, 'dup.md'), 'w').write(dup)
+    r = subprocess.run([sys.executable, os.path.join(ROOT, 'scripts', 'story_register.py'),
+                        os.path.join(fx, 'dup.md'), '--root', fx, '--write',
+                        '--chapter', 'ST-S01.01', '--id', '2'], capture_output=True, text=True)
+    check('duplicate ST number refused (different title)',
+          r.returncode == 1 and 'already used' in r.stdout, r.stdout + r.stderr)
     # fresh baton -> live band deferral, nothing written
     shutil.rmtree(os.path.join(fx, 'content', 'stories'))
     os.makedirs(os.path.join(fx, 'content', 'stories'))

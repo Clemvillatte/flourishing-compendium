@@ -10,6 +10,15 @@ exec 9>/tmp/enrich_save.lock; flock 9
 git config user.name >/dev/null || git config user.name "Computer"
 git config user.email >/dev/null || git config user.email "genuineflourishing15@yopmail.com"
 git add -A content docs scripts sources handoff.md 2>/dev/null
+# Separation guard: set STORY_ROLE (and STORY_LANE for storytellers) to enforce the
+# two pipelines at save time. Workers: STORY_ROLE=worker; storytellers:
+# STORY_ROLE=storyteller STORY_LANE=s1a; supervisors: STORY_ROLE=supervisor.
+if [ -n "$STORY_ROLE" ]; then
+  if ! python3 scripts/story_guard.py --role "$STORY_ROLE" --lane "${STORY_LANE:-}" </dev/null; then
+    echo "ERROR: separation guard failed — fix the paths, or unset STORY_ROLE only for owner-directed infra work" >&2
+    exit 1
+  fi
+fi
 if ! git diff --cached --quiet; then
   git commit -qm "${1:-enrichment WIP}" || { echo "ERROR: commit failed" >&2; exit 1; }
 fi

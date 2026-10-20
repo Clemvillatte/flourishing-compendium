@@ -150,6 +150,12 @@ def main():
     fpath = os.path.join(env.stories, fname + '.md')
     if os.path.exists(fpath):
         errs.append(f'target file exists: {fpath}')
+    # the ST number itself must be free, whatever the title (duplicate-id collision)
+    if os.path.isdir(env.stories):
+        for existing in os.listdir(env.stories):
+            if re.match(rf'ST{n:03d} — ', existing):
+                errs.append(f'ST number {n:03d} already used by {existing}')
+                break
     order = json.load(open(env.order, encoding='utf-8'))
     entry = f'content/stories/{fname}.md'
     if entry in order:

@@ -31,7 +31,9 @@ STORY_PIPELINE = [
     r'^docs/enrichment/PROMPT-STORYTELLER\.md$',
     r'^docs/enrichment/PROTOCOL-STORIES\.md$',
     r'^docs/enrichment/drafts/s\d+[a-z]/',
-    r'^scripts/story_register\.py$',
+    r'^docs/enrichment/batons/s\d+[a-z]\.json$',
+    r'^scripts/story_(check|state|guard|register)\.py$',
+    r'^scripts/test_story_tools\.py$',
 ]
 
 
