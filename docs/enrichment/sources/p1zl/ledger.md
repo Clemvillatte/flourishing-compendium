@@ -22,3 +22,18 @@ No advisor tool available in this session: self-QC only, quotes checked by direc
 - Opened: Kellogg record of Mitchell et al. 1997 abstract. Quotes verbatim. Scope: trips/vacations of weeks, not decades.
 ## CO069
 - Opened: PubMed 24659192 (Mellers 2014 abstract), Sage abstract of Hauenstein et al. (reanalysis; year not stated on the page, left out). Emotional-impact claim flagged as untested here.
+
+## CO049
+- Opened: PubMed abstracts Wegner 1987 (3612492), Abramowitz 2001 (11434226), Fresco 2007 (17697849), Teasdale 2002 (11952186); quotes verbatim.
+## CO083
+- Opened: Gutenberg Ludovici (via search snippet of Twilight, Maxims 5), Dover/Common excerpt (B&N page), Hertwig & Engel 2016 abstract and chapter version at pure.mpg.de. Original body's news-cycle gloss labelled as compendium's.
+## E057
+- Opened: d.umn.edu Camus chapter text (O'Brien), pdftext-like extraction; SEP Camus for p.123 locator (Vintage).
+## E048
+- Opened: SEP Kierkegaard sec. 2 (quotes of CA 61 and CA 155 from the SEP page). Original (Either/Or) locator replaced; Either/Or not verified.
+## E096
+- Opened: 26 MB OCR scan of Jaspers 1953 (mercaba.org), grep-verified quotes; scan page numbers approximate (pp.1-3).
+## K038
+- Opened: tsadra.org Cultivating Patience (6.10 Padmakara, p.78), Tricycle (Batchelor 1979), TBCWP ch.6 PDF (6.7, 6.9).
+## K043
+- FLAG for supervisor/owner: the original entry cites "ch. 5, the mother-of-the-child simile". No such simile found in ch. 5 across tsadra.org overviews, Ringu Tulku ch.5 notes and tale pages; only the flood mother-and-daughter story (compassion, not vigilance). Body rewritten on 5.108, 5.33 and the injured-arm image (Tsadra study page); the mother comparison is marked as the compendium's reading. Title phrase "hundred cares" not found in sources opened.

@@ -12,13 +12,26 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 43** — Keep the mind's watch with a hundred cares
 
-The vigilance chapter's standing instruction, already met in principle 4, is here completed by its method: the repeated return of attention to the mind's state, moment by moment, with the tenderness of a mother watching her only child. The watch is not surveillance (which is anxious) but care (which is warm); the difference is the relationship to what is seen. Practically, when you notice you have been absent from your own state for hours, return without self-recrimination; the return is the practice, and the tone of the return is the practice too.
+> Examining again and yet again
+> The state and actions of your body and your mind—
+> This alone defines in brief
+> The maintenance of watchful introspection.
 
-(Shantideva, Bodhicharyavatara, ch. 5, the mother-of-the-child simile.)
+(Shantideva, Bodhicharyavatara 5.108, trans. Padmakara Translation Group, The Way of the Bodhisattva, Shambhala 2006, as given on [Bodhicitta, Tsadra Foundation](https://bodhicitta.tsadra.org/index.php/Explore/Chapter_5_-_Vigilant_Introspection).)
 
-**Plain words** The method of vigilance is to keep coming back to the state of your mind, moment by moment, tenderly, like a mother watching her only child. The difference between that and surveillance is warmth. Surveillance is anxious. Care is kind about what it sees.
+The same chapter describes the structure of the watch: "When mindfulness is stationed as a sentinel, / A guard upon the threshold of the mind, / Introspection will be likewise there, / Returning when forgotten or dispersed" (5.33). The word "returning" matters. The practice assumes the mind will wander and builds the return into the method.
 
-*For example:* Noticing you're tense in the afternoon and saying "ah, tense," as you would to a child who's tired, without a verdict.
+On tone, the Tsadra study page, summarising the chapter, says Shantideva asks us to guard the mind "with the same care with which we would protect a broken or wounded arm while moving through an unruly crowd" ([Tsadra study page](https://bodhicitta.tsadra.org/index.php/Study/%C5%9A%C4%81ntideva's_Bodhicary%C4%81vat%C4%81ra)). The mother-and-only-child image does not appear in the chapter 5 verses or commentaries consulted here. The mother who does appear there belongs to a flood story about compassion, so the comparison is this compendium's reading, not the text's.
+
+**Plain words** Keep checking in on what your mind is doing, and when you notice you drifted, come back. The verse treats the drifting as expected and the return as the work. The tone of the return is this compendium's emphasis. The only image of care the sources give is the injured arm carried through a crowd.
+
+*For example:* In the afternoon you notice a clenched jaw. You say "tense" and relax it, without a verdict on yourself.
+
+## Sources
+
+- [Bodhicitta (Tsadra Foundation), Chapter 5, "Vigilant Introspection", verses 5.1, 5.33, 5.108 (Padmakara translation)](https://bodhicitta.tsadra.org/index.php/Explore/Chapter_5_-_Vigilant_Introspection) — the verses as quoted
+- [Bodhicitta (Tsadra Foundation), "The Bodhisattva's Path and Training in Śāntideva's Bodhicaryāvatāra"](https://bodhicitta.tsadra.org/index.php/Study/%C5%9A%C4%81ntideva's_Bodhicary%C4%81vat%C4%81ra) — the wounded-arm image
+- [Bodhicitta (Tsadra Foundation), "Vigilant Introspection Overview"](https://bodhicitta.tsadra.org/index.php/Articles/Vigilant_Introspection_Overview) — the mother-and-daughter flood story in this chapter's commentary
 
 ## Psychology parallels
 
