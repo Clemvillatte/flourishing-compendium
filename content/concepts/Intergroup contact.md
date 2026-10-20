@@ -15,17 +15,16 @@ Pettigrew and Tropp's 2006 meta-analysis reports that intergroup contact typical
 
 Across 713 independent samples from 515 studies, the authors report that intergroup contact "typically reduces intergroup prejudice" and conclude that "there is little need to demonstrate further contact's general ability to lessen prejudice. Results from the meta-analysis conclusively show that intergroup contact can promote reductions in intergroup prejudice" (Pettigrew and Tropp 2006). Allport's four optimal conditions (equal status, common goals, intergroup cooperation, and the support of authorities, law, or custom) turn out to help without being required: the findings "indicate that these conditions are not essential for prejudice reduction."
 
-A follow-up meta-analysis tested how contact diminishes prejudice, reporting that "contact reduces prejudice by (1) enhancing knowledge about the outgroup, (2) reducing anxiety about intergroup contact, and (3) increasing empathy and perspective taking" and that the mediational value of increased knowledge is "less strong than anxiety reduction and empathy" (Pettigrew and Tropp 2008).
+A follow-up meta-analysis tested how contact diminishes prejudice, reporting that "contact reduces prejudice by (1) enhancing knowledge about the outgroup, (2) reducing anxiety about intergroup contact, and (3) increasing empathy and perspective taking" and that the mediational value of increased knowledge "appears less strong than anxiety reduction and empathy" (Pettigrew and Tropp 2008).
 
 ## Facets
 
-- **and empathy** — Pettigrew, 1998
+- **and empathy** — Pettigrew and Tropp, 2008
 
 ## Related concepts
 
 - [[Prejudice reduction]] — the outcome the theory predicts
-- [[Empathy]] — one of the three mediators the follow-up meta-analysis tested
-- [[Perspective-taking]] — the companion mediator
+- [[Empathy]] and [[Perspective-taking]] — together, the third mediator category the follow-up meta-analysis tested
 
 ## Sources
 

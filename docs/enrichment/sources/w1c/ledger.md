@@ -430,3 +430,9 @@ legacy schema (state keys + proposals) — MERGED, never replaced.
 ### Milestone QC round 2 repairs: Friendship (2026-10-20, worker-p1f-9d3f7c2b)
 - Translator name removed from both citations per advisor: no edition metadata explicitly credits a translator, so citations now read "Project Gutenberg #8438 edition; introduction by J. A. Smith". Earlier "J.A. Smith translation" attribution and the prior Welldon attribution were inferences, not verified credits; both withdrawn in the ledger.
 - Validated vs pre-enrichment baseline; build 5,720 ok.
+
+### Milestone QC round 2 repairs: Intergroup contact (2026-10-20, worker-p1f-9d3f7c2b)
+- Knowledge-weaker finding now preserves the abstract's "appears" qualification (quoted verbatim).
+- Mediator grouping preserved: Empathy and Perspective-taking glosses merged into one line, reflecting the abstract's third mediator category ("increasing empathy and perspective taking").
+- Empathy facet attribution changed from the unopened Pettigrew 1998 to the opened Pettigrew and Tropp 2008.
+- Validated vs pre-enrichment baseline; build 5,720 ok.
