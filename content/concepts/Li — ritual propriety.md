@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Li: ritual propriety” — Confucius, Analects.
 
+## Related concepts
+
+- [[Ren]] — Confucius's cardinal virtue: the humane disposition toward others
+
 ## Sources
 
 - Confucius, Analects

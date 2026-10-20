@@ -1,0 +1,37 @@
+{
+ "batch": "supervisor-recovery-t12",
+ "revision": 1,
+ "reciprocal": [
+  {
+   "into": "content/concepts/Li \u2014 ritual propriety.md",
+   "link": "Ren",
+   "why": "Confucius's cardinal virtue: the humane disposition toward others"
+  },
+  {
+   "into": "content/concepts/Filial piety.md",
+   "link": "Ren",
+   "why": "Confucius's cardinal virtue: the humane disposition toward others"
+  },
+  {
+   "into": "content/concepts/Care.md",
+   "link": "Ren",
+   "why": "Confucius's cardinal virtue: the humane disposition toward others"
+  },
+  {
+   "into": "content/concepts/The golden rule.md",
+   "link": "Ren",
+   "why": "Confucius's cardinal virtue: the humane disposition toward others"
+  },
+  {
+   "into": "content/concepts/Arete.md",
+   "link": "Ren",
+   "why": "Confucius's cardinal virtue: the humane disposition toward others"
+  },
+  {
+   "into": "content/concepts/Role ethics.md",
+   "link": "Ren",
+   "why": "Confucius's cardinal virtue: the humane disposition toward others"
+  }
+ ],
+ "notes": "w1b legacy recovery tranche 12 (Ren family). Original claim-bearing clauses unevidenced in the w1b ledger; neutral clause grounded in the concept page's own sourced opening (IEP Confucius; Analects 6.30 Legge). The legacy record's 'Li: ritual propriety' target RETARGETED to the actual file 'Li \u2014 ritual propriety.md' (the canonical entry identified by front-matter per OWNER-UPDATE-2026-10-19). Shu already linked (skipped). - supervisor-3ef4f549, 2026-10-20"
+}

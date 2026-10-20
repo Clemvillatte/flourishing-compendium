@@ -29,10 +29,11 @@ The principles listed (for example K284, S011 and SO027) use roles as a practica
 
 ## Related concepts
 
+
 - [[Confucian role ethics]] — listed for comparison
 - [[Role Theory]] — listed for comparison
 - [[Narrative self]] — listed for comparison
-
+- [[Ren]] — Confucius's cardinal virtue: the humane disposition toward others
 ## Sources
 
 - [Stanford Encyclopedia of Philosophy, "Chinese Ethics"](https://plato.stanford.edu/entries/ethics-chinese/) — relational ethic, role-ethic alternative

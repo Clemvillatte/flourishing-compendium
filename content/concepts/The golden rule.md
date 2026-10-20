@@ -13,6 +13,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 - **inverted** — Hillel the Elder, Talmud
 
+## Related concepts
+
+- [[Ren]] — Confucius's cardinal virtue: the humane disposition toward others
+
 ## Sources
 
 - Confucius, The Analects

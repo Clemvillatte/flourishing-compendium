@@ -11,8 +11,9 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 ## Related concepts
 
-- [[Family systems theory]] — the Confucian family ethic as a comparison tradition
 
+- [[Family systems theory]] — the Confucian family ethic as a comparison tradition
+- [[Ren]] — Confucius's cardinal virtue: the humane disposition toward others
 ## Sources
 
 - Confucius, The Analects
