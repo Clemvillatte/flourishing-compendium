@@ -27,7 +27,8 @@
   "The creative life",
   "The ethics of care",
   "The five pillars of practice",
-  "The free person loves all"
+  "The free person loves all",
+  "The great poem of the body"
  ],
  "in_progress": null,
  "flagged": {
@@ -50,10 +51,11 @@
   "The care of the self": "advisor QC item-5 milestone: round-1 repairs applied verbatim (false opposition, staged reversal, last-two-books generalization removed; blockquote carries direct SEP link per 1a; R060 gloss removed; vol.2 citation kept and marked inherited-not-opened); quote independently verified word-for-word against the directly fetched SEP 3.6 'Sex in the Ancient World' section text; scoped PASS after repair round 2",
   "The creative life": "fast-track enriched (item 6); degree 9; Gutenberg Common Zarathustra opened (Prologue 5 chaos passage + Three Metamorphoses verified verbatim); NOTE for supervisor: the heading 'The creative life' is a compendium heading for a mode of existence Zarathustra teaches rather than a term the book uses; flagged per the w1g pattern (rename candidate or keep as heading)",
   "The five pillars of practice": "fast-track enriched (item 8); degree 9; Johnston YS I.14 opened at sacred-texts (quote verified); FLAG: the heading 'The five pillars of practice' is a compendium expansion of YS 1.14's THREE conditions (seed says 'expanded here by the tradition') — rename candidate or keep as series heading",
-  "The free person loves all": "fast-track enriched (item 9); degree 9; Spinoza Ethics IV Elwes (Gutenberg 971) opened, Props. XXXVII/LXVII/LXXII verified verbatim; NOTE: title is a paraphrase heading for Ethics IV's free-man teachings, not a verbatim Spinoza phrase — supervisor disposition on keeping or renaming"
+  "The free person loves all": "fast-track enriched (item 9); degree 9; Spinoza Ethics IV Elwes (Gutenberg 971) opened, Props. XXXVII/LXVII/LXXII verified verbatim; NOTE: title is a paraphrase heading for Ethics IV's free-man teachings, not a verbatim Spinoza phrase — supervisor disposition on keeping or renaming",
+  "The great poem of the body": "fast-track enriched (item 10); degree 10; Leaves of Grass (Gutenberg 1322) opened, three body passages verified verbatim; FLAG: heading 'The great poem of the body' not found verbatim in this edition — seed says 'Whitman's own claim'; page anchors on Song of Myself 21 + I Sing the Body Electric; supervisor disposition"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T06:14:04+00:00",
+ "updated": "2026-10-20T06:14:30+00:00",
  "band_done": false
 }
