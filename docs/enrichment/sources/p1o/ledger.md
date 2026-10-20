@@ -295,3 +295,20 @@
   James's faculties-adjusting framing. Westgate & Wilson 2018 and Cacioppo
   & Petty 1982 parallel tails reduced to bare wikilinks (unopened); James
   VRE attribution kept (opened this session). Validator ok before done.
+
+### P104 — Perfect the process, not the product (2026-10-20, worker-p1o-6ae3d782)
+- Primary text NOT openable: Rescher, Process Metaphysics (1996) is
+  borrow-only on Internet Archive (no _djvu.txt). Protocol-sanctioned
+  fallback used: SEP 'Process Philosophy' entry (J. Seibt), Spring 2009
+  archive edition, fetched and quotes verified verbatim: 'all is in the
+  final analysis the product of processes. Process thus has priority over
+  product - both ontologically and epistemically' (on Rescher's position);
+  'For process philosophy, what a thing is consists in what it does.'
+- Seed statement + locator removed (precedent); 'trophy on the shelf is a
+  receipt' aphorism and 'the ones who only wanted the medal are gone by
+  year two' prediction dropped; Plain words re-derived; For example kept
+  on the seed's athlete scenario read through the SEP's is-consists-in-
+  does sentence. Vallerand 2010 tail reduced to bare wikilink (unopened);
+  Rescher attribution on Process over product kept (SEP-grounded);
+  merged philosophy-parallel line split (B028 precedent). Validator ok
+  before done.

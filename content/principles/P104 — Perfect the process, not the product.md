@@ -12,23 +12,33 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 104** — Perfect the process, not the product
 
-Process has priority over product: any achievement is a by-product of the process that made it, and dead once detached from it. Put your pride in how you do things, not only in what is done.
+The Stanford Encyclopedia's entry on process philosophy states the core of Rescher's position: for the process philosopher, the classical principle that functioning follows upon being is reversed, and "all is in the final analysis the product of processes. Process thus has priority over product — both ontologically and epistemically" ([SEP, "Process Philosophy"](https://plato.stanford.edu/archives/spr2009/entries/process-philosophy/), on Rescher, Process Metaphysics, 1996). Rescher's book itself is borrow-only on the Internet Archive; the entry serves here as the citable edition of the position.
 
-(Rescher, Process Metaphysics, 1996.)
+> For process philosophy, what a thing is consists in what it does.
+>
+> (Stanford Encyclopedia of Philosophy, "Process Philosophy")
 
-**Plain words** Process has priority over product — any achievement is a by-product of the process that made it, and dead once detached from it. Put your pride in how you do things, not only in what is done. The trophy on the shelf is a receipt; the game is the transaction.
+The compendium's application: a finished thing is the trace of what a process did, and what it is consists in that doing. Put the pride in the doing, since on this account the doing is what the done is made of.
 
-*For example:* The athlete who medals once and keeps training for a decade — the medal was a souvenir. The training was the life. The ones who only wanted the medal are gone by year two.
+**Plain words**
+A result is what a process left behind. If you value only the result, you hold something that stops producing the moment it exists; the process that made it is still running, and it is what can make another. When you finish something, ask what the process was, and whether you would want to run it again. The compendium's exercise: pick one finished thing you are proud of and write the process that produced it.
+
+*For example:*
+Consider the athlete who medals once and keeps training for a decade. On the process reading, the medal is a record of what the training did, and the decade is the training continuing to be what it is.
+
+## Sources
+
+- ["Process Philosophy" (J. Seibt), Stanford Encyclopedia of Philosophy, Spring 2009 archive](https://plato.stanford.edu/archives/spr2009/entries/process-philosophy/) — Rescher's position, Process Metaphysics (1996)
 
 ## Psychology parallels
 
-- **[[Process versus outcome focus|Process goals versus outcome goals]]**, process focus predicts persistence and enjoyment (Vallerand, 2010)
+- **[[Process versus outcome focus|Process goals versus outcome goals]]**
 
 ## Philosophy parallels
 
 - **Process over product** (Rescher, Process Metaphysics)
-- **[[Means-end continuity|Means-end continuity]]** (Dewey, Human Nature and Conduct)- **Process** (Pragmatism)
-
+- **[[Means-end continuity|Means-end continuity]]** (Dewey, Human Nature and Conduct)
+- **Process** (Pragmatism)
 
 <!-- fc: reflections
 Where are you currently perfecting the product rather than the process? What would the process-priority actually change?
