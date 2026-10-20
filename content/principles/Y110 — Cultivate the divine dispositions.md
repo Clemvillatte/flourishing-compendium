@@ -12,13 +12,34 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 110** — Cultivate the divine dispositions
 
-The Gita opens its sixteenth chapter with the list of the godlike: fearlessness, purity of heart, self-restraint, steadfastness in knowledge and concentration, charity, study, austerity, honesty, non-harm, truth, absence of anger, renunciation, tranquility, aversion to fault-finding, compassion, gentleness, modesty, and patience. The list functions as a character curriculum: read weekly, it works as an examination of conscience without the guilt. Practically, take one disposition per fortnight as a theme, and log moments of opportunity.
+The Gita's sixteenth chapter opens with Krishna's list of the marks of the heavenly nature. Arnold's rendering begins:
 
-(BG 16.1-16.3.)
+> "Fearlessness, singleness of soul, the will
+> Always to strive for wisdom; opened hand
+> And governed appetites; and piety,
+> And love of lonely study; humbleness,
+> Uprightness, heed to injure nought which lives,
+> Truthfulness, slowness unto wrath, a mind
+> That lightly letteth go what others prize;
+> And equanimity, and charity
+> Which spieth no man's faults; and tenderness
+> Towards all that suffer; a contented heart,
+> Fluttered by no desires; a bearing mild,
+> Modest, and grave, with manhood nobly mixed,
+> With patience, fortitude, and purity;
+> An unrevengeful spirit, never given
+> To rate itself too high;--such be the signs,
+> O Indian Prince! of him whose feet are set
+> On that fair path which leads to heavenly birth!" ([Bhagavad Gita, Chapter XVI, Arnold translation](https://www.gutenberg.org/ebooks/2388))
 
-**Plain words** The Gita's list of the godlike dispositions: fearlessness, purity of heart, self-restraint, steadfastness, charity, honesty, non-harm, absence of anger, tranquility — the portrait given as a curriculum, not a personality test. Take one disposition per season and practise it on purpose.
+The chapter pairs the list with its opposite ("Deceitfulness, and arrogance, and pride, / Quickness to anger, harsh and evil speech, / And ignorance, to its own darkness blind") and says the two natures are stamped on all living men. The list is a portrait, not a test: it reads as a set of signs of a nature one is cultivating, each name naming something a life can have more or less of.
 
-*For example:* Someone picks "absence of anger" for the season and treats every flare-up as the season's homework — not suppressing, studying. By spring, the disposition has a pulse.
+The compendium's exercise: read the list, pick one disposition, and practise it on purpose for a fixed period, logging moments of opportunity as they arise.
+
+**Plain words** The chapter gives a long list of good qualities, from fearlessness and self-restraint to patience and humility. It is a picture of a person, not a checklist to pass or fail. Pick one quality from the list and try to practise it deliberately for a while.
+
+*For example (imagined):* Someone picks "slowness unto wrath" and treats each flare-up during the month as material to study, noting what preceded it.
+
 ## Psychology parallels
 
 - **[[Character strengths (Peterson & Seligman)|Character strengths interventions]]**, the VIA framework's use of signature strengths (Niemiec, 2018)
