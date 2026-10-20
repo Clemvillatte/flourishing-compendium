@@ -12,7 +12,9 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 51** — Understand the affect to transform it
 
-Spinoza's remedy for the affects runs through understanding. An emotion that is a passion is a confused idea; form a clear and distinct idea of that same emotion and it ceases to be a passion. The corollary gives the direction of the effect: the emotion "becomes more under our control, and the mind is less passive in respect to it, in proportion as it is more known to us". The method is stated plainly: "we must chiefly direct our efforts to acquiring, as far as possible, a clear and distinct knowledge of every emotion" (note to V.4), separating the emotion from the thought of its external cause and associating it with true thoughts. As a compendium exercise, ask what you want, what you believe has happened, and which parts of that belief you can justify.
+Spinoza's remedy for the affects runs through understanding. An emotion that is a passion is a confused idea; form a clear and distinct idea of that same emotion and it ceases to be a passion. The corollary gives the direction of the effect: the emotion "becomes more under our control, and the mind is less passive in respect to it, in proportion as it is more known to us".
+
+The method is stated plainly: "we must chiefly direct our efforts to acquiring, as far as possible, a clear and distinct knowledge of every emotion" (note to V.4), separating the emotion from the thought of its external cause and associating it with true thoughts. As a compendium exercise, ask what you want, what you believe has happened, and which parts of that belief you can justify.
 
 > "An emotion, which is a passion, ceases to be a passion, as soon as we form a clear and distinct idea thereof." (Ethics V.3, Elwes)
 
