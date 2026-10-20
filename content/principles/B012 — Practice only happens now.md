@@ -12,18 +12,18 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 12** — Practice only happens now
 
-MN 131 gives the instruction to a monk in direct terms: what is past is left behind, the future is as yet unreached, and whatever quality is present, you clearly see right there. (MN 131.) The Bahiya Sutta teaches the same as a way of seeing: in reference to the seen, there will be only the seen; in reference to the heard, only the heard. (Ud 1.10.)
+MN 131 gives the instruction to a monk in direct terms: what is past is left behind, the future is as yet unreached, and whatever quality is present, you clearly see right there. (MN 131.) The Bahiya Sutta gives a related instruction about seeing: in reference to the seen, there will be only the seen; in reference to the heard, only the heard. (Ud 1.10.)
 
 > "You shouldn't chase after the past or place expectations on the future. What is past is left behind. The future is as yet unreached. Whatever quality is present you clearly see right there, right there." (MN 131, [Thanissaro](https://www.accesstoinsight.org/tipitaka/mn/mn.131.than.html))
 
-Thich Nhat Hanh makes the same point with the dishes: hurrying through them to get to the tea means not being alive while washing them, and then not alive while drinking the tea either. (The Miracle of Mindfulness.)
+In an excerpt from The Miracle of Mindfulness, Thich Nhat Hanh draws the same warning with the dishes: hurrying through them to get to the tea, he says, means not being alive while washing them, and if the dishes cannot be washed with attention, the tea will likely be drunk the same way. (The Miracle of Mindfulness, excerpt.)
 
 > "If while washing dishes, we think only of the cup of tea that awaits us, thus hurrying to get the dishes out of the way as they were a nuisance, then we are not 'washing the dishes to wash the dishes.' What's more, we are not alive during the time we are washing the dishes." (Thich Nhat Hanh, [The Miracle of Mindfulness, excerpt](https://www.abuddhistlibrary.com/Buddhism/G%20-%20TNH/TNH/From%20The%20Miracle%20of%20Mindfulness/Teaching.htm))
 
 **Plain words**
-The meeting you are dreading and the holiday you are craving exist, right now, only as thoughts. Attention, choice and experience happen in the present minute, and that is the only place practice can reach. When you notice you have left, come back to what is in front of you.
+As a compendium exercise, notice when thoughts about an upcoming event take your attention from what you are doing. Choose whether to continue planning or return to the present task.
 
-*For example:* Eating lunch while mentally rehearsing the afternoon meeting, you are at neither. The sandwich is the appointment you actually have.
+*For example:* Imagine eating lunch while rehearsing an afternoon meeting. You pause the rehearsal and notice the next bite.
 
 ## Sources
 

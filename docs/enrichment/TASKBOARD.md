@@ -374,3 +374,17 @@ principles queue is untouched.
   Legge edition — dropped, evidence and limits in sources/p1s/ledger.md. All
   five p1s items so far (D025, D094, D103, D106, B064 light-check) validate ok;
   B064 counts toward my 30 with rewrite credit to worker-p1p-27eaf6bd.
+
+- 2026-10-20 (worker-p1s-3f7c9a52, INCIDENT for supervisor): I misread a
+  queue-principles.json grep as my manifest and worked three items outside
+  p1s: B021 (p1i's) and B031 (p1k's) got light checks only, NO content edits;
+  B038 (p1c's) got two QC-level edits (plain words re-derivation, Balban/
+  Zaccaro claim-tail trim), both in my ledger with the advisor's further
+  round-3 B038/B021/B031 repair requests routed to you/the owning bands.
+  My state file's mistaken done markers are removed with cross-band notes;
+  content kept or revert is your call per the p1m precedent. My manifest is
+  confirmed read from bands/p1s-manifest.json (P168-P177, B009/B012/B017/
+  B030/B049/B064/B078/B080/B092/B096/B109/B113/B114/B126/B141/B150/B154/
+  B165/B169/B172/B181/B190, D025/D094/D103/D106; 7 done, 23 left). Also still
+  pending from my earlier note: D094/D106 protected-reflections conflicts and
+  the D106 Nietzsche parallels label.

@@ -191,3 +191,45 @@ source; anything not opened is recorded as inherited and unverified.
   refreshed & joyful" — acceptable as paraphrase, noted here. Validator ok.
 - Inherited parallels (Tangney and Dearing 2002, Flanagan, Dewey): unopened,
   kept as inherited; the Tangney claim tail is attribution-level, left as found.
+
+## CROSS-BAND INCIDENT (2026-10-20, item-10 QC): manifest misread
+- During the item-10 advisor QC the advisor flagged an ownership check. Against
+  the frozen p1s manifest (bands/p1s-manifest.json), my actual 30 items are:
+  P168, P175, P176, P177, B009, B012, B017, B030, B049, B064, B078, B080,
+  B092, B096, B109, B113, B114, B126, B141, B150, B154, B165, B169, B172,
+  B181, B190, D025, D094, D103, D106.
+- I had worked B021, B031 and B038 after mistaking a queue-principles.json
+  grep around ranks 1300-1349 for my manifest. B021 (p1i's) and B031 (p1k's)
+  received light checks only and NO content edits from me; B038 (p1c's)
+  received two QC-level edits (plain words re-derivation; Balban/Zaccaro
+  claim-tail trim). My state file's mistaken done markers for all three are
+  removed with cross-band notes; content kept or revert is the supervisor's
+  call per the p1m precedent. PROCESS FIX recorded: read the manifest file,
+  never infer the band from a queue listing.
+- Advisor round-3 B038 repairs (unapplied, routed to the supervisor/p1c owner):
+  "without controlling it" is the compendium's gloss presented as the sutta's
+  instruction; "the sutta counts that as enough" reduces the fuller training
+  to the opening observation; the example's "three conscious breaths" is a
+  contemporary exercise, not a prescribed dose; Sujato source verification
+  incomplete (suttacentral.com blocked both fetchers; the quote matches
+  SuttaCentral's indexed .net rendering and mirrors, but the suttacentral.net
+  URL itself was not fetched — that is the remaining check).
+- B021/B031 advisor round-3 notes (unapplied; not my files): B021's
+  purchasing application and "wrong address" outcome are not established by
+  the SN 12.15 quote; B031 needs a substantive review (claims "clearest
+  articulation in the Pali Canon", "no moral language at all", "No guilt
+  mechanism; a feedback loop", guaranteed two-manager outcomes; check MN 61's
+  treatment of lying/shame and its separate mental-action instructions before
+  extending the bodily-action excerpt into a uniform rule).
+
+## Item-10 QC repairs applied to my own items (B009, B012)
+- B009: "former trade" corrected to the monk's own experience skilled at
+  playing the vina (source: "were you skilled at playing the vina?"); Middle
+  Way identified with the Noble Eightfold Path per SN 56.11; "a fight you will
+  lose" guaranteed outcome replaced with the sutta's own restlessness/laziness;
+  diet example rewritten as a labelled imagined review; McEwen parallel claim
+  tail trimmed to a bare attribution.
+- B012: Bahiya Sutta now "a related instruction about seeing" (not "the same");
+  TNH paraphrase made conditional and attributed to the excerpt; plain words
+  replaced with the compendium exercise; aphoristic example replaced; TNH
+  blockquote already cited to the opened excerpt reproduction.
