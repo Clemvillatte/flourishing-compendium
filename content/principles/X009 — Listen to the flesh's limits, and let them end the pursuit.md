@@ -30,7 +30,7 @@ In an imagined exercise, someone serves rice and vegetables and records their hu
 
 ## Philosophy parallels
 
-- **Know what is enough** (Laozi, Daodejing 33 and 44, as cross-tradition echo)
+- **Know what is enough** (Laozi, as cross-tradition echo)
 - **[[The via negativa of appetite|The via negativa of appetite]]** (the tradition's subtraction method)
 
 ## Sources

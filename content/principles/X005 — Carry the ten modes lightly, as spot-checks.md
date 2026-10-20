@@ -35,5 +35,5 @@ In an imagined exercise, someone reading a colleague's email notes their own tir
 ## Philosophy parallels
 
 - **The man is the measure** (Protagoras, via Plato's Theaetetus)
-- **[[The tower looks bent in water|The tower looks bent in water]]** (the classic mode's example; the tradition's own)
-- **[[The ten modes|The ten modes]]** (Skeptic & Mesoamerican)
+- **[[The tower looks bent in water|The tower looks bent in water]]** (listed for comparison)
+- **[[The ten modes|The ten modes]]** (listed for comparison)
