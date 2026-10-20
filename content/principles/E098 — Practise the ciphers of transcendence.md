@@ -12,13 +12,22 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 490** — Practise the ciphers of transcendence
 
-Recognise the ciphers — the signs and symbols through which transcendence speaks. Ciphers are not proofs of transcendence but traces of it: in nature, in art, in love, in suffering, in the encounter with the Other. Attend to the ciphers of transcendence in your own life.
+> ... consciousness only acquires knowledge of its transcendence by contemplating the evanescent ciphers of transcendence, which signify the absolute limits of human consciousness.
 
-(Jaspers, 1932/1971, Philosophy, vol. 3; Jaspers, 1948/1971, Von der Wahrheit / On Truth.)
+([Stanford Encyclopedia of Philosophy, "Karl Jaspers"](https://plato.stanford.edu/entries/jaspers/), on Jaspers's Philosophy (1932). Quoted at second hand; the volumes themselves were not consulted.)
 
-**Plain words** The ciphers of transcendence: signs and symbols through which transcendence speaks — traces, not proofs: in nature, in art, in love, in suffering, in the encounter with the other. Attend to the ciphers in your own life. They don't prove anything; they point.
+The Encyclopedia says ciphers "might be encountered in nature, in art, in religious symbolism, or in metaphysical philosophy." Its key point is that they cannot be cashed in: "in alluding to transcendence, they also withhold transcendent knowledge from consciousness, and ... they can only act as indices of the impossibility of such knowledge." The fitting attitude is "foundering or failing (Scheitern)." Jaspers also treats religious figures as ciphers, "not as factual elements of deity, but as symbolic ciphers of human possibility."
 
-*For example:* The moment in the concert hall when the room goes silent of its own accord — nothing measurable happened, everyone knows something did. Cipher. The tradition's advice is simply: don't file those moments under "nothing."
+Love, suffering and the encounter with the other, named in the original entry, do not appear in the sources opened here.
+
+**Plain words** A cipher is a sign that points past itself to something you cannot hold. It does not prove anything, and Jaspers says that is part of its nature: the sign gives an intimation of the limit of what you can know, and never the knowledge itself. Take it seriously without turning it into a doctrine.
+
+*For example:* A mountain, a piece of music or a ritual moves you in a way you cannot fully explain. Jaspers's advice is to let it stay a pointer, and not to settle it with an explanation or a creed.
+
+## Sources
+
+- [Stanford Encyclopedia of Philosophy, "Karl Jaspers" (Thornhill & Miron)](https://plato.stanford.edu/entries/jaspers/) — ciphers of transcendence and foundering
+
 ## Psychology parallels
 
 - **[[Awe|Awe and the sacred]]** (Keltner and Haidt, 2003)

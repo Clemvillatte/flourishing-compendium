@@ -19,11 +19,12 @@
   "E029",
   "E023",
   "E084",
-  "E090"
+  "E090",
+  "E098"
  ],
- "in_progress": "E098",
+ "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T10:02:01+00:00"
+ "updated": "2026-10-20T10:02:24+00:00"
 }
