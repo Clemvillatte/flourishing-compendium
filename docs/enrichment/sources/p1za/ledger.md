@@ -16,3 +16,7 @@ No separate advisor tool available to this session; quotes are checked programma
 ## CO047
 - Wegner 2011, Nolen-Hoeksema et al. 2008, Watkins et al. 2011 BJPsych: PubMed abstracts only (opened via NCBI eutils), quoted exactly. Watkins 2008 Psychol Bull: PMC full text opened, three quotes grep-verified (rumination vs distraction; dysphoric-mood moderation; Ehring 2007 result as reported by Watkins).
 - Limits: principle statement's 'social' channel (talk to someone solution-focused) not supported by any source opened; body omits it. Possible flag for owner: co-rumination literature (Rose 2002) not opened.
+
+## CO051
+- Beck 1964 Arch Gen Psychiatry 10(6) (archive.org djvu text): 4 quotes grep-verified; pages from running heads (561, 569). Beck Institute 'Coping with Depression' (Judith Beck and Broder, 2024 ed. PDF): definitions and cardinal question verified.
+- Limits: Burns 1980 and Hofmann 2010 (inherited parallels) not opened; no claim about restructuring outcomes made. Example is an invented illustration.
