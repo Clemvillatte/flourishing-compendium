@@ -55,3 +55,17 @@
   matter only. Verse comparison taken from the opened e-Buddhism page instead.
 - SYNTHESIS FLAG: "nothing needs to be added to the mind, because nothing is missing from
   it" is the compendium's gloss, not a source claim.
+
+## Small steps, large vision (2026-10-20, fast-track; degree 9 — eligible)
+
+- VERIFICATION: concept REAL (the small-wins/subgoaling pattern; Weick 1984 is the
+  canonical research). Title kept: a descriptive compendium label, not a source-quote claim.
+- REMOVED: the seed's ""Small steps, large vision" — Aristotle" attribution — unverified;
+  no opened source supports Aristotle coining this phrase (removed per zero-hallucination;
+  the "we are what we repeatedly do" line often misattributed to Aristotle is Durant's
+  paraphrase and was NOT added).
+- OPENED: The Open Science Challenge (Springer, open access)
+  https://link.springer.com/article/10.1007/s10869-022-09806-2 — Weick (1984, p. 43)
+  passage quoted VERBATIM, punctuation matched to the opened page.
+- SYNTHESIS FLAG: "recast an overwhelming issue into outcomes of moderate size and people
+  act instead of freezing" is the compendium's gloss on Weick's framing.

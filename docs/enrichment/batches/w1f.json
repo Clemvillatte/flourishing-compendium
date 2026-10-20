@@ -3,7 +3,8 @@
  "done": [
   "Karma yoga",
   "Language spinning beyond the world",
-  "Original nature, nothing to add"
+  "Original nature, nothing to add",
+  "Small steps, large vision"
  ],
  "in_progress": null,
  "flagged": {},
@@ -12,6 +13,7 @@
  "updated": "2026-10-20T04:28:15+00:00",
  "notes": {
   "Language spinning beyond the world": "fast-track done 2026-10-20; RENAMED to \"Language on holiday\" — the seed title was a compendium coinage, not Wittgenstein wording (\"spins beyond the world\" does not appear in PI; verified in an opened PI selection). Real concept = language on holiday (PI 38) / engine idling (PI 132). File renamed, _order.json and the B070 backlink label migrated; fast-track body grounded in opened PI selection 132 + DBU overview quoting 38.",
-  "Original nature, nothing to add": "fast-track done 2026-10-20; title verified as a real concept (self-nature/benxing in the Platform Sutra — no rename needed); McRae passage + verse lines quoted verbatim from the opened e-Buddhism page (which compares McRae Zongbao vs Yampolsky Dunhuang renderings); Yampolsky PDF at terebess.hu is image-based, unusable for verbatim extraction (noted)."
+  "Original nature, nothing to add": "fast-track done 2026-10-20; title verified as a real concept (self-nature/benxing in the Platform Sutra — no rename needed); McRae passage + verse lines quoted verbatim from the opened e-Buddhism page (which compares McRae Zongbao vs Yampolsky Dunhuang renderings); Yampolsky PDF at terebess.hu is image-based, unusable for verbatim extraction (noted).",
+  "Small steps, large vision": "fast-track done 2026-10-20; title kept as a descriptive label for a REAL pattern (Weick small wins / subgoaling) — concept exists, no rename; seed's Aristotle attribution was unverified and removed (body now grounded in Weick 1984 via the opened Springer article); Weick quote verified verbatim against the opened page."
  }
 }

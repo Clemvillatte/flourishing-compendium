@@ -7,11 +7,17 @@ file: "Small steps, large vision"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-S"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-“Small steps, large vision” — Aristotle.
+The compendium's name for a pattern the motivation sciences keep rediscovering: large goals are reached through small, concrete, completable steps.
+
+> A small win is a concrete, complete, implemented outcome of moderate importance. By itself, one small win may seem unimportant. A series of wins at small but significant tasks, however, reveals a pattern that may attract allies, deter opponents, and lower resistance to subsequent proposals.
+
+(Karl Weick, "Small Wins: Redefining the Scale of Social Problems," American Psychologist, 1984, p. 43, quoted in [The Open Science Challenge (Springer)](https://link.springer.com/article/10.1007/s10869-022-09806-2))
+
+Weick's setting was social problems: recast an overwhelming issue into outcomes of moderate size and people act instead of freezing. The compendium's principles use the same lever closer to home. MO024 breaks goals into subgoals, MO039 starts habits tiny, and BE016 lowers the barrier to starting. The vision stays large; the unit of action stays small.
 
 ## Sources
 
-- Aristotle
+- [Weick (1984), "Small Wins," quoted in The Open Science Challenge (Springer)](https://link.springer.com/article/10.1007/s10869-022-09806-2)
 
 [[MO024 — Learn to break goals into subgoals — small wins sustain motivation]]
 [[MO048 — Learn to break tasks down — overwhelm causes avoidance]]
