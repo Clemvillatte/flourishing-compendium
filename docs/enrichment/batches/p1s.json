@@ -8,7 +8,6 @@
   "D106",
   "B009",
   "B012",
-  "B030",
   "B078",
   "B080",
   "B092",
@@ -30,7 +29,8 @@
   "P176",
   "P168",
   "P177",
-  "B017"
+  "B017",
+  "B030"
  ],
  "in_progress": null,
  "flagged": {
@@ -56,10 +56,11 @@
   "B190": "Reopened for QC: QC round-2 text fix: plain words replaced with advisor version",
   "P175": "Reopened for QC: QC correction: page locator 85 to 87 after direct PDF verification",
   "P168": "Reopened for QC: QC correction: remove unsupported inherited opener and unopened-source attribution",
-  "B017": "Reopened for QC: QC correction: remove unsupported maintenance claim and example generalization"
+  "B017": "Reopened for QC: QC correction: remove unsupported maintenance claim and example generalization",
+  "B030": "Reopened for QC: QC correction: remove commandment-contrast overreach and chess analogy"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T03:43:10+00:00",
+ "updated": "2026-10-20T03:43:17+00:00",
  "band_done": false
 }

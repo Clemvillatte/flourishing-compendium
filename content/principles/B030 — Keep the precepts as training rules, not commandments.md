@@ -12,16 +12,16 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 30** — Keep the precepts as training rules, not commandments
 
-The precepts are undertaken, not imposed. The layperson's formula is first-person: "I undertake the precept to refrain from destroying living creatures", and the tradition's study guides call them basic training rules. (Five Precepts, [Access to Insight](https://accesstoinsight.org/ptf/dhamma/sila/pancasila.html).) AN 8.41 structures the observance day the same way: the disciple recollects the practice of the Arahants and matches it for a day and a night. (AN 8.41.) The Dhammapada marks the difficulty of what is being trained: "evil things are difficult to control". (Dhammapada 248.)
+The Access to Insight Five Precepts study page presents the precepts as first-person undertakings. AN 8.41 describes a day-and-night observance modelled on the conduct of arahants. Dhammapada 248 acknowledges the difficulty of restraint.
 
 > "All Arahants, for as long as life lasts, have given up the intentional taking of life (panatipata). The club and sword have been laid down. They have shame (of doing evil) and are compassionate towards all beings." (AN 8.41, [Uposatha Sutta](https://cdn.britannica.com/primary_source/gutenberg/PGCC_classics/canon/anguttara/an08-041.html))
 
-The compendium's reading of the training-rule framing: a precept is a handle you pick up deliberately for a period of practice and renew by choice. AN 8.41's day-and-night observance makes that structure visible, because the undertaking explicitly lasts the observance.
+The compendium takes the undertaking formula as a prompt to choose a concrete restraint and practise it deliberately. AN 8.41 provides a particular example with an explicitly stated duration.
 
 **Plain words**
-The difference from a commandment is who does the work. A commandment says this is forbidden; a training rule says you are practising not doing this, starting now. When you break one, the next move is to take it up again, not to confess a crime. The precepts are first-person sentences for that reason.
+Name the restraint you are undertaking and a situation in which you intend to observe it. Afterward, review whether you kept the undertaking.
 
-*For example:* Imagine taking up a chess opening to practise for a season, playing it badly one evening, and taking it up again the next day. Nothing was violated; the practice continues.
+*For example (imagined):* Before a difficult conversation, you undertake to speak truthfully. Afterward, you consider whether anything you said needs correcting.
 
 ## Sources
 
