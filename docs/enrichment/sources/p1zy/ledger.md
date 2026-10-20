@@ -45,3 +45,7 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 ## Y048 (2026-10-21)
 - Woods HOS 17 p. 72 (1.34 and commentary, after the "[72" running head). Quotes verified; OCR "Betention" read as Retention. The checker's MISSING lines are quote-pairing noise from short quoted words, not absent text.
 - Old text said the sutra names "exhalation and the pause of breath"; Woods has expulsion and retention. "Extend the exhalation and count breaths" is the principle's gloss and is labelled; the "special kind of effort, described in books of Yoga" caveat added. Plain words replicate replaced; example imagined. Self-QC only.
+
+## Y049 (2026-10-21)
+- Woods HOS 17 pp. 72-73 (1.35 and commentary; "[72" and "73]" running heads). Quotes verified except OCR spacing/hyphens. "Higher sense-experience" is another translation's phrase, not reopened; page says so.
+- Old text implied the sutra supports settling on the breath at the nostril or weight on the seat; Woods' commentary describes supernormal sense-activity after sustained practice (nose tip, tongue, palate). Mismatch stated on the page; the adaptation is labelled as the principle's. Plain words replicate replaced; example imagined. Self-QC only.
