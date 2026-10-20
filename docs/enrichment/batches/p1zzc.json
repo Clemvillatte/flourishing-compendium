@@ -2,11 +2,12 @@
  "batch": "p1zzc",
  "done": [
   "SP016",
-  "SP020"
+  "SP020",
+  "SP026"
  ],
  "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T16:37:58+00:00"
+ "updated": "2026-10-20T16:38:40+00:00"
 }
