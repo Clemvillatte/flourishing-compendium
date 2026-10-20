@@ -250,3 +250,23 @@ source; anything not opened is recorded as inherited and unverified.
   Hadot/Foucault/Lally inherited entries left as found.
 - Saturation: no new reciprocals; Habit maintenance already the linked
   target.
+
+### B030 — Keep the precepts as training rules, not commandments (2026-10-20)
+- Opened: AN 8.41 Uposatha Sutta (Britannica primary-source mirror of the
+  Anguttara text; accesstoinsight's own AN 8.41 URL 404s for every translator
+  slug tried — noted), the Access to Insight Five Precepts study page
+  (ptf/dhamma/sila/pancasila.html), and Dhammapada 248 (Buddharakkhita,
+  dhp.18). All three quoted fragments verified verbatim against the fetched
+  pages ("All Arahants, for as long as life lasts..."; "I undertake the
+  precept to refrain from destroying living creatures"; "evil things are
+  difficult to control").
+- PROCESS NOTE: my first edit attempt used a body anchor that did not exist in
+  the file (I had misremembered the seed text); the replace silently did
+  nothing and the validator caught it (prose 25 words). Rewritten with asserted
+  anchors, per the standing process fix. No other agent touched this file
+  (git log confirms only the initial import).
+- Seed's "a thousand small nightly negotiations" and "forty micro-decisions"
+  removed as invented specifics; Gollwitzer claim tail trimmed to a bare
+  attribution. UBC/Haidt/Rousseau inherited entries left as found.
+- Saturation: no new reciprocals; Implementation intentions already the linked
+  target.
