@@ -7,7 +7,7 @@ file: "The human condition"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-Hannah Arendt's The Human Condition (1958) is a study of the active life — labor, work and action — under the conditions given to human life. The title term names the conditions under which life is given, which Arendt distinguishes sharply from a human nature.
+Hannah Arendt's The Human Condition (1958) is a study of the active life, the labor, work and action of the vita activa, under the conditions given to human life. The title term names the conditions under which life is given, which Arendt distinguishes sharply from a human nature.
 
 > "To avoid misunderstanding: the human condition is not the same as human nature, and the sum total of human activities and capabilities which correspond to the human condition does not constitute anything like human nature." (Arendt, The Human Condition, Prologue, [Internet Archive text of the Doubleday edition](https://archive.org/details/the-human-condition-hannah-arendt))
 
