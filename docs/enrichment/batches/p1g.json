@@ -46,7 +46,8 @@
   "PP049",
   "R006",
   "R014",
-  "R037"
+  "R037",
+  "R051"
  ],
  "in_progress": null,
  "flagged": {
@@ -78,7 +79,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 15,
- "updated": "2026-10-20T04:07:55+00:00",
+ "updated": "2026-10-20T04:09:09+00:00",
  "band_done": false,
  "takeover": {
   "by": "genuineflourishing35",
