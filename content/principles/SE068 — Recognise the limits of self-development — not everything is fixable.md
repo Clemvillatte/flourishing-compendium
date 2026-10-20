@@ -32,6 +32,8 @@ Imagined: After repeated attempts to become a morning person, a man decides to a
 
 - [Roberts & DelVecchio, "The rank-order consistency of personality traits from childhood to old age", Psych Bull 126(1), 2000 (PubMed record)](https://pubmed.ncbi.nlm.nih.gov/10668348/) — abstract, opened via the NCBI record
 - [Wikipedia, "Serenity prayer"](https://en.wikipedia.org/wiki/Serenity_Prayer) — the prayer's wording
+- [Wikipedia, "Apology (Plato)"](https://en.wikipedia.org/wiki/Apology_(Plato)) — the dialogue containing Socrates' defence, including its discussion of the wisest man
+- [Wikipedia, "Wu wei"](https://en.wikipedia.org/wiki/Wu_wei) — wu wei as a Daoist concept
 
 ## Psychology parallels
 
@@ -41,7 +43,7 @@ Imagined: After repeated attempts to become a morning person, a man decides to a
 
 - **The serenity prayer: change what you can, accept what you cannot** (Niebuhr)
 - **[[Wisdom|Wisdom as knowing limits]]** (Socrates, Apology)
-- **[[Wu wei]]** (Daoism, Daodejing 25)
+- **[[Wu wei]]** (Daoism)
 
 ## Practice
 
