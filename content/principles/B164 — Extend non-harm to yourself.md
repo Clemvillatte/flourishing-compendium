@@ -22,12 +22,12 @@ The Dhammapada's chapter on the self opens with the premise: "If one holds onese
 >
 > (Metta Sutta, Thanissaro)
 
-The compendium's reading is that "all beings" is not a set that excludes the being doing the cherishing. The chapter distinguishes watching from attacking: vigilance over yourself and harm to yourself are different acts. The exercise is to apply the precept of non-harm to your own case with the same seriousness as to anyone else's.
+The compendium's reading is that "all beings" is not a set that excludes the being doing the cherishing. The exercise is to apply the precept of non-harm to your own case with the same seriousness as to anyone else's.
 
 (Dhammapada 157; Metta Sutta.)
 
 **Plain words**
-Most people accept that cruel speech harms the person spoken to. The same voice, turned inward, works the same way. The test: play the recording to a friend. If you would not say it to them, it is not feedback.
+As a compendium exercise, notice how you address yourself after a mistake. Consider whether the same words would fit the precept of non-harm if they were directed at another person. The exercise is to choose words you could use toward someone you were protecting.
 
 *For example:* After sending an email with a typo, the internal voice that begins 'you always ruin things' is using words it would not open with on a colleague who made the same typo.
 

@@ -19,19 +19,21 @@
   "D160",
   "D181",
   "D192",
+  "B175",
   "B164"
  ],
- "in_progress": "B175",
+ "in_progress": null,
  "flagged": {
   "D024": "Reopened for QC: QC round 2: psychology-parallel tails replaced per advisor (Liu co-citation removed, Ward/Leroy scoped to fetched abstracts)",
   "D083": "Reopened for QC: advisor QC item-10 round: unsupported mechanisms/outcome claims repaired per exact edits; re-validated vs 71fd7049; accepted round 3",
   "D101": "Reopened for QC: advisor QC item-10 round: unsupported mechanisms/outcome claims repaired per exact edits; re-validated vs 71fd7049; accepted round 3",
   "D108": "Reopened for QC: advisor QC item-10 round: unsupported mechanisms/outcome claims repaired per exact edits; re-validated vs 71fd7049; accepted round 3",
   "D051": "Reopened for QC: advisor QC item-10 round: unsupported mechanisms/outcome claims repaired per exact edits; re-validated vs 71fd7049; accepted round 3",
-  "D140": "Reopened for QC: advisor QC item-15 round: retold-story plain words, aphorism, quote marks, unverified Assor tail repaired per exact edits; Assor/Roth/Deci 2004 abstract now fetched and scoped"
+  "D140": "Reopened for QC: advisor QC item-15 round: retold-story plain words, aphorism, quote marks, unverified Assor tail repaired per exact edits; Assor/Roth/Deci 2004 abstract now fetched and scoped",
+  "B164": "Reopened for QC: advisor QC item-20 follow-up: invented mechanisms removed (watching-vs-attacking; same-voice-same-way); re-validated vs 71fd7049"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T01:34:13+00:00",
+ "updated": "2026-10-20T01:36:23+00:00",
  "band_done": false
 }

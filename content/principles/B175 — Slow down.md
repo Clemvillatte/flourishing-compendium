@@ -12,17 +12,26 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 175** — Slow down
 
-Practice unhurriedness: walk slower, eat slower, speak slower. Rushing is the body's argument that now is not enough.
+In The Miracle of Being Awake, Thich Nhat Hanh describes doing ordinary tasks slowly and attentively. His dishwashing example concerns thinking ahead to tea while treating the washing as a nuisance.
 
-(Thích Nhất Hạnh, The Miracle of Mindfulness.)
+> Whatever the tasks, they must be done slowly and with ease, and in mindfulness. In any case, don't do these tasks in order to get them over with. Resolve to do them relaxingly, with all your attention focused on them.
+>
+> (Thich Nhat Hanh, The Miracle of Being Awake)
 
-**Plain words** Practice unhurriedness — walk slower, eat slower, speak slower. Rushing is the body's argument that now is not enough. Speed has its place; it just shouldn't be the resting heart rate of your soul.
+(Thich Nhat Hanh, The Miracle of Being Awake, BPS Wheel 234.)
 
-*For example:* The same walk to the station, ten minutes instead of seven — the day that follows is somehow a different day.
+**Plain words**
+Choose an ordinary task you have time to do without hurrying. Pay attention to its movements and sensations. When you notice yourself planning what comes afterward, return your attention to what you are doing.
+
+*For example:* Imagine washing a bowl after lunch. Notice the water and the movement of the cloth around the bowl before setting it aside.
+
+## Sources
+
+- [Thich Nhat Hanh, The Miracle of Being Awake (BPS Wheel 234)](https://www.bps.lk/olib/wh/wh234_Hanh_Miracle-of-Being-Awake.html) — the dishwashing passages
 
 ## Psychology parallels
 
-- **[[Time affluence|Time affluence]]**, perceived time scarcity undermines well-being (Kasser and Sheldon, 2009)
+- **[[Time affluence|Time affluence]]**
 - **Slow breathing and parasympathetic tone** (Balban et al., 2023)
 
 ## Philosophy parallels
