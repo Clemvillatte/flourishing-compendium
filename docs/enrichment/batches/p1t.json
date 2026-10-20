@@ -21,15 +21,17 @@
   "D179",
   "D186",
   "D187",
-  "D190",
   "P009",
   "P033",
   "P060",
   "P076"
  ],
- "in_progress": null,
- "flagged": {},
+ "in_progress": "D190",
+ "flagged": {
+  "D190": "Reopened for QC: QC correction: advisor round 1 — quote interpretation, source/interpretation separation, parallels, example"
+ },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T03:01:38+00:00"
+ "updated": "2026-10-20T03:05:07+00:00",
+ "band_done": false
 }
