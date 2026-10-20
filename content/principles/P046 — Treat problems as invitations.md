@@ -12,13 +12,25 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 46** — Treat problems as invitations
 
-A problematic situation is not an interruption of life but its growing edge: the felt unease that marks where inquiry begins. Approach problems with curiosity, not dread.
+Dewey's account of thinking begins where habit stops working. Reflection, he writes, is called for only when the smooth run breaks: "Difficulty or obstruction in the way of reaching a belief brings us, however, to a pause" ([How We Think, 1910](https://www.gutenberg.org/files/37423/37423-h/37423-h.htm), p. 11). The forked-road passage names the situation that starts inquiry.
 
-(Dewey, The Quest for Certainty, 1929; How We Think, 1910.)
+> Thinking begins in what may fairly enough be called a forked-road situation, a situation which is ambiguous, which presents a dilemma, which proposes alternatives.
+>
+> (Dewey, How We Think, 1910, p. 11)
 
-**Plain words** The itch is the location of the growth. A problematic situation isn't an interruption of life but its growing edge — approach it with curiosity, not dread, and scratching it well is the whole skill.
+In The Quest for Certainty the same structure appears with the feeling given its due. Emotions are not noise around the situation; they are its register: "Emotions are conditioned by the indeterminateness of present situations with respect to their issue" ([The Quest for Certainty, 1929](https://archive.org/details/questforcertaint032529mbp), p. 225). The move that turns trouble into inquiry is making the situation an object: "The first and most obvious effect of this change in the quality of action is that the dubious or problematic situation becomes a problem. The risky character that pervades a situation as a whole is translated into an object of inquiry that locates what the trouble is."
 
-*For example:* The Sunday-night dread about the job — not a malfunction, but a pointer. That unease is where the next five years of your life are being decided.
+His five steps of reflection start with "a felt difficulty" and its "location and definition". The compendium's reading follows from that order: the unease is the first datum of the inquiry, and the fork in the road is where the steering happens.
+
+**Plain words**
+Most of a life runs on habit, and habit is fine until the road forks: the job feels wrong, the conversation keeps going bad, the plan keeps missing. The stuck feeling is not a verdict; in Dewey's account it is step one of a process that needs it. The compendium's exercise: when something feels off, write one sentence locating the trouble, then one possible next move.
+
+*For example:* Imagine the Sunday-night dread about a job. Endured as noise, it is a bad night. Treated as a felt difficulty, it starts the sequence: locate what exactly the trouble is, then test what would resolve it.
+
+## Sources
+
+- [How We Think (Dewey, 1910), Project Gutenberg](https://www.gutenberg.org/files/37423/37423-h/37423-h.htm) — p. 11
+- [The Quest for Certainty (Dewey, 1929), Internet Archive](https://archive.org/details/questforcertaint032529mbp) — pp. 223, 225
 
 ## Stories
 
@@ -26,13 +38,13 @@ A problematic situation is not an interruption of life but its growing edge: the
 
 ## Psychology parallels
 
-- **[[Challenge appraisals|Challenge appraisals]]**, predict performance and growth (Crum et al., 2013)
-- **[[Stress-related growth|Stress-related growth]]** (Tedeschi and Calhoun, 2004)
+- **[[Challenge appraisals|Challenge appraisals]]**
+- **[[Stress-related growth|Stress-related growth]]**
 
 ## Philosophy parallels
 
 - **[[Problematic situations|Problematic situations]]** (Dewey, The Quest for Certainty)
-- **[[Inquiry|Problems as the motor of inquiry]]** (Dewey, Logic: The Theory of Inquiry)
+- **[[Inquiry|Problems as the motor of inquiry]]**
 
 <!-- fc: reflections
 What problematic situation — the felt unease — are you currently treating as interruption rather than growing edge? What's the invitation?

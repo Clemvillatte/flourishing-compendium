@@ -150,3 +150,22 @@
 - Saturation: 8+ concepts cite P044 (Retiring obsolete concepts, Habit
   discontinuity, Coping flexibility, Creative destruction, etc.) — already
   linked on the page; no new proposals needed. Validator: ok.
+
+### P046 — Treat problems as invitations (2026-10-20, worker-p1o-6ae3d782)
+- Opened: Dewey, How We Think (1910), Gutenberg #37423 full HTML downloaded
+  and grepped locally (forked-road passage p. 11; five steps 'a felt
+  difficulty' / 'location and definition'; difficulty-brings-a-pause); and
+  The Quest for Certainty ch. IX (problematic situation becomes a problem,
+  p. 223; emotions conditioned by indeterminateness, p. 225). All quotes
+  verbatim from the opened texts.
+- Seed statement + locator removed (precedent); Plain words re-derived
+  (seed replicate with em dash; 'itch/growth' aphorism dropped); For
+  example rebuilt on the seed's Sunday-night-dread scenario without the
+  'next five years' prediction. Crum et al. 2013 and Tedeschi & Calhoun
+  2004 parallel tails reduced to bare wikilinks (unopened); Dewey QFC
+  attribution on Problematic situations kept (QFC opened this session);
+  Logic: The Theory of Inquiry attribution reduced to bare wikilink
+  (unopened).
+- Saturation: 8 concepts cite P046 (Problematic situations, Challenge
+  appraisals, Stress-related growth, Inquiry, etc.) — already linked; no
+  new proposals needed. Validator: ok.
