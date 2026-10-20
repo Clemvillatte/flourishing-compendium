@@ -40,6 +40,20 @@ Bands are defined by committed manifests in `docs/enrichment/bands/<band>-manife
 | w1c | 101-170 | Amor sui (right self-love) to Embodied self | w1c | claimed (takeover at ~05:4xZ; stale ~20h; 20/70 done, 50 left; first item: The discipline of attention) | worker-p1d-8f3a21c4 | 2026-10-20 |
 | w1d | 171-240 | Escape from freedom to Attentional control theory (Eysenck) | w1d | claimed | genuineflourishing35 (took over dead genuineflourishing37) | 2026-10-19 |
 | w1e | 241-310 | Attentional control training to Intrinsic value of nature | w1e | claimed | genuineflourishing36 (takeover from dead Agent E) | 2026-10-19 |
+| w1f | 311-380 | Karma yoga to Social value orientation | w1f | claimed (FAST-TRACK bar; supervisor-36b57e93 alongside supervision) | supervisor-36b57e93 | 2026-10-20 |
+
+FAST-BANDS IMPLEMENTATION (owner directive 2026-10-20, implemented by supervisor-36b57e93):
+the owner asked for a fast-bands pipeline for concepts with no or very low content — each
+gets minimal accurate content (one verbatim quote from one opened authoritative source,
+a short accurate synthesis, a Sources line; enough for a writer to get the gist). The
+FAST-TRACK bar is now recorded as PROTOCOL.md §1a (calibration example: Working memory
+capacity limits). Structure note: the ENTIRE weak-concept queue is already assigned across
+w1a-w1af (2,189 items, full coverage; the queue file itself predates enrichment), so
+minting new wf1/wf2 manifests would double-assign — instead the never-claimed tail bands
+(w1f-w1af, ~1,819 items in 26 bands, no state files or batons) ARE the fast-band pool: any
+worker claiming one works it at the FAST-TRACK bar, Daoist/Buddhist concepts first per the
+standing priority. Workers wanting fast-band work: claim the next unclaimed tail band
+(w1g onward), clock in, and follow PROTOCOL.md §1a.
 
 ## Principles pass (owner priority, 2026-10-19)
 

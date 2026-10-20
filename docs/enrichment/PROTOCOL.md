@@ -30,6 +30,31 @@ Voice = `HUMANIZER-SKILL.md` (read it; its rules are binding). Facts = verified,
 5. SATURATE connections (section 4).
 6. VALIDATE (`enrich_validate.py`) and fix every ERR. Log in your batch file (section 6).
 
+## 1a. Fast-track bar for empty or very poor concepts (owner directive, 2026-10-20)
+
+For concept pages with no or very low content (a bare seed line), the owner directs a
+FAST-TRACK bar instead of the full workflow above. Minimal accurate content, enough for
+a writer to understand what the concept is and get the gist:
+
+- ONE verbatim definition-or-passage quote from ONE opened authoritative source (SEP/IEP,
+  a primary text, or a peer-reviewed source), formatted as a blockquote with locator and
+  source link. Zero-hallucination and verbatim rules apply unchanged (any quoted words
+  must match the opened source word-for-word).
+- A short accurate synthesis: what the concept is, who defined it (if named in the opened
+  source), and one distinction or piece of context the quote does not carry.
+- The `## Sources` line with the opened URL; the Cited-in list and all existing wikilinks
+  preserved unchanged.
+- The validator's structural rules still apply (prose within bounds, no banned words,
+  no lost links). If the synthesis cannot honestly reach the prose floor, the concept
+  may not be definable from one source — treat it as a normal-band item or flag it.
+- Skip the saturation hunt (§4) and cross-link proposals unless an obviously missing
+  reciprocal jumps out; note that in the batch log. Full §1-§4 applies to normal bands.
+
+Calibration example: `content/concepts/Working memory capacity limits.md` (Cowan 2001,
+ completed to this bar). The never-claimed tail concept bands (w1f-w1af in the TASKBOARD
+ concept table) are the fast-band pool: a worker claiming one works it at this bar,
+ Daoist/Buddhist concepts first per the owner's standing priority.
+
 ## 2. Page template (after unchanged front-matter)
 
 Skimmability rule (added 2026-10-19, owner request): the page must be scannable. Use short
