@@ -12,23 +12,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 167** — Practice congruence: align experience, awareness, and expression
 
-Carl Rogers built his theory of personality around a mismatch he called incongruence. His 1957 statement of the conditions of change defines it as a gap between what the organism experiences and what awareness admits.
+In his 1957 account of therapeutic personality change, Carl Rogers defines incongruence as a discrepancy between a person's experience and their self-picture.
 
-> "It refers to a discrepancy between the actual experience of the organism and the self picture of the individual insofar as it represents that experience." (Rogers, "The Necessary and Sufficient Conditions of Therapeutic Personality Change", 1957)
+> "It refers to a discrepancy between the actual experience of the organism and the self picture of the individual insofar as it represents that experience." (Rogers, "The Necessary and Sufficient Conditions of Therapeutic Personality Change", 1957, section "The State of the Client".)
 
-The gap is not peaceful. "If the individual dimly perceives such an incongruence in himself, then a tension state occurs which is known as anxiety." His example is a student whose fear of inadequacy surfaces in awareness as an unreasonable fear of climbing stairs, because admitting it would contradict the picture he holds of himself. The experience does not vanish when distorted; it is represented in a form the self-picture can tolerate.
+Within that theory, he describes dim awareness of incongruence as a source of the tension he calls anxiety. In On Becoming a Person, he describes a continuing direction toward congruence:
 
-The other direction he describes in On Becoming a Person: "It means taking continual steps toward being, in awareness and in expression, that which is congruent with one's total organismic reactions." The sentence names this principle's three levels: experience, awareness and expression.
+> "It means taking continual steps toward being, in awareness and in expression, that which is congruent with one's total organismic reactions." (Rogers, On Becoming a Person, ch. 8, Constable 1967 edition.)
 
-The compendium's application: when a persistent feeling keeps surfacing in distorted form, name the raw experience in one plain sentence and compare it with the sentence you give other people.
+The compendium adapts this into an exercise in examining self-descriptions and considering what to communicate.
 
 ### Plain words
 
-You can feel one thing, admit another and show a third. Rogers's point is that the arrangement is unstable: the unadmitted feeling does not go away, it finds a side door (his student's stair-fear, the vague illness), and holding the gap apart is felt as anxiety. The exercise: pick something you have felt for weeks. Write the plain sentence of what it is, then compare it with the sentence you give other people. Where they differ, that difference is the work.
+You might think of yourself as someone who is always happy to help, then notice resentment when another request arrives. Ask whether your description of yourself leaves room for what you actually feel. For this exercise, separate acknowledging the feeling from deciding whether and how to share it.
 
 ### For example
 
-Imagine an employee exhausted since spring who keeps telling the team they are fine. The replies get shorter and the temper gets quicker. The compendium's exercise: say the plain sentence, "I am burned out", to one person this week.
+Imagine being asked to take on another task while already feeling overwhelmed. You describe what you notice to yourself before deciding how to respond. You might ask to discuss your workload.
 
 ## Sources
 

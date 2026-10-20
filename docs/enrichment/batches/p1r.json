@@ -29,9 +29,10 @@
   "P145",
   "P146",
   "P148",
-  "P161"
+  "P161",
+  "P167"
  ],
- "in_progress": "P167",
+ "in_progress": null,
  "flagged": {
   "P058": "Reopened for QC: QC round-3 touch-ups",
   "P054": "Reopened for QC: QC round-3 touch-ups",
@@ -47,11 +48,12 @@
   "P136": "Reopened for QC: QC round 2: ligature restoration",
   "P137": "Reopened for QC: QC round 2: genuine paraphrase, Bernstein citation record split",
   "P144": "RESOLVED 2026-10-20: QC round-1 repairs applied and pushed at 253248a9 (advisor asks: proposal framing with reliable-coupling conditions, Bain attribution kept verbatim, skull-and-skin paraphrased, humanizer fixes, ledger rebuilt locator-only); P144 validates clean; supervisor death-recovery check confirmed nothing lost (done marker 88783d6b + repairs pushed; agent died after push, flag left open — closed by supervisor-36b57e93)",
-  "P145": "advisor QC first-item: round-1 FAIL repaired per exact advisor edits (unread Correspondences attribution removed from body; application labelled as compendium proposal; altered-capitalisation fragments removed; reciprocal deferred - Narrative identity target ambiguity, Ricoeur vs McAdams, flagged for supervisor); ledger docs/enrichment/sources/p1r/P145.md"
+  "P145": "advisor QC first-item: round-1 FAIL repaired per exact advisor edits (unread Correspondences attribution removed from body; application labelled as compendium proposal; altered-capitalisation fragments removed; reciprocal deferred - Narrative identity target ambiguity, Ricoeur vs McAdams, flagged for supervisor); ledger docs/enrichment/sources/p1r/P145.md",
+  "P167": "advisor QC item-5 milestone: round-1 FAIL (Rogers incongruence conflated with concealment; universal anxiety mechanism; humanizer tells) repaired per advisor exact edits; round-2 scoped PASS; Mindfulness reading-claim correction landed; ledger docs/enrichment/sources/p1r/P167.md"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T05:56:34+00:00",
+ "updated": "2026-10-20T05:58:32+00:00",
  "band_done": false,
  "notes": {
   "P144 death-recovery": "2026-10-20: owner reported the agent working on P144 died. Verified nothing lost: P144 done at 05:12:27Z (88783d6b) + QC round-1 repairs at 05:14:29Z (253248a9), both on origin; repairs spot-checked (Bain maxim verbatim with attribution, skull paraphrase unquoted); P144 validates clean; the reopen flag was left open by the death and is now RESOLVED. p1r at 25/30, in_progress None, remaining P145/P146/P148/P161/P167 — the baton (last clock-in ~05:12Z) goes stale ~05:32Z and is a clean takeover point."
