@@ -12,13 +12,18 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 29** — Take the three poisons as practice material
 
-The slogan "three objects, three poisons, three seeds of virtue": the three basic poisons (attachment, aversion, confusion) are each triggered by objects (pleasing, threatening, neutral things); the practice is to catch the poison at the moment of trigger and convert it, right there, into its corresponding virtue (contentment, clarity, and engaged compassion respectively). Practically, name your poison of the moment (wanting, hating, numbing), name its trigger object, and run the conversion deliberately.
+The slogan is from the Seven Points of Mind Training (Chekawa, point two, slogan 8). In Trungpa's rendering, the three objects are friends, enemies, and neutrals; the three poisons are passion, aggression, and ignorance or delusion; the three seeds of virtue are the absence of passion, aggression, and ignorance. Trungpa glosses the poisons in terms of what they want to do: passion is wanting to magnetize or possess, aggression is wanting to reject, attack, cast out, and ignorance or indifference is that you couldn't be bothered.
 
-(Seven-Point Mind Training, Point Two.)
+> "Whenever any of the three poisons happens in your life, you should do the sending and taking practice. You just look at your passion, your aggression, and your delusion — you do not regard them as a problem or as a promise."
+> (Chögyam Trungpa, Training the Mind and Cultivating Loving-Kindness, commentary on slogan 8; [Spirituality and Practice reproduction](https://www.spiritualityandpractice.com/practices/practices/view/28555/three-objects-three-poisons-and-three-seeds-of-virtue).)
 
-**Plain words** Three objects, three poisons, three seeds of virtue. Pleasing things trigger attachment, threatening ones aversion, neutral ones confusion. The practice is to catch the poison at the moment it fires and turn it into contentment, clarity or engaged compassion. Name today's poison as it happens.
+The reversal Trungpa describes is the working part of the practice. If you have no object of aggression, you cannot hold your own aggression purely by yourself; the same holds for passion and for ignorance. Holding your poison, you let go of the object of your poison. His formulation: you cut the root of the three poisons by dealing with others rather than by dealing with yourself.
 
-*For example:* In a meeting you feel a flash of irritation at a colleague and say to yourself "aversion," and the clarity arrives half a second later.
+(Seven-Point Mind Training, point two; Trungpa's commentary.)
+
+**Plain words** Three objects: people and things you want to pull toward you, people and things you want to push away, and people and things you don't think about at all. Passion, aggression and indifference get their grip by being aimed at something. The practice holds the poison instead of its object. Trungpa's example is aggression: "May this aggression be a working base for me. May I learn to hold my aggression to myself, and may all sentient beings thereby attain freedom from aggression."
+
+*For example:* Imagine you feel a flash of irritation at a colleague. Trungpa's version of the exercise is not to fix the irritation or to name its trigger; it is to say, internally, "May this aggression be a working base for me. May I learn to hold my aggression to myself, and may all sentient beings thereby attain freedom from aggression."
 
 ## Psychology parallels
 
