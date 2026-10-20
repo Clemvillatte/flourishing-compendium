@@ -7,29 +7,29 @@ file: "The great doubt"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-"The great doubt" is the Zen name for a fixed, all-in question: the one a kōan plants in a practitioner who cannot answer it and will not put it down. Hakuin Ekaku (1686-1769), the Rinzai master who rebuilt kōan training, counted it among the three essentials of Zen practice, alongside a great root of faith and a great tenacity of purpose.
+"The great doubt" is the Zen name for the concentrated questioning at the centre of kōan practice: a question the practitioner cannot answer and does not put down. Hakuin presents it as one of the three essentials of Zen practice, alongside a great root of faith and a great tenacity of purpose.
 
 ### The ball of doubt
 
-The image in the talk is physical. Doubt "crystallizes" as the practitioner tackles the difficult-to-pass kōans, until, in Waddell's translation, "you yourself become a great ball of doubt". The pressure is not an obstacle on the way to seeing; it is the mechanism that produces the seeing.
+In Hakuin's account the doubt builds as the practitioner tackles the difficult-to-pass kōans, until "you yourself become a great ball of doubt". A teacher of the past, cited by Hakuin, ties the pressure to the result:
 
-> "At the bottom of great doubt lies great enlightenment. . . From a full measure of doubt comes a full measure of enlightenment." (Hakuin, "Some Talks by Hakuin", trans. Norman Waddell, [thezensite](http://www.thezensite.com/ZenTeachings/Teishos/Talks_by_Hakuin.html))
+> "At the bottom of great doubt lies great enlightenment. . . From a full measure of doubt comes a full measure of enlightenment." (Hakuin, "Some Talks by Hakuin", trans. Norman Waddell, [thezensite](http://www.thezensite.com/ZenTeachings/Teishos/Talks_by_Hakuin.html), quoting a teacher of the past)
 
-The great doubt differs from ordinary doubt in direction. Ordinary doubt asks whether some claim is true; the great doubt turns the question back on the one asking it. That is why the compendium's principles treat it as an engine of practice rather than a crisis of belief.
+The compendium's [[B047 — Keep the great doubt alive]] distinguishes this doubt from corrosive scepticism: not a verdict that the practice is worthless, but the settled unease of a question that cannot be answered and stays.
 
 ### In the compendium
 
-- [[K009 — Let the doubt become great]] — grows the question instead of settling it, on Sheng Yen's account of dayiqing as questioning that admits no substitute answer
-- [[B047 — Keep the great doubt alive]] — holds the question open past any partial insight, with Hakuin's tripod as its frame
-- [[K012 — Do not make an identity out of the collapse]] — the doubt's resolution is a raft in the MN 22 sense: used for crossing, not owned
-- [[ST070 — Dōgen Just Sits]] — the story of a practice that sits with the question rather than answering it
-- [[M007 — Expect the in-between to be uncomfortable, and do not flee it prematurely]] — the Nepantla parallel: the between-state is part of the account, not a malfunction
+- [[K009 — Let the doubt become great]] — describes great doubt as a question about your life that you cannot put down, and works to grow it instead of settling it
+- [[B047 — Keep the great doubt alive]] — frames Hakuin's three essentials and treats the doubt as the mechanism by which the seeing is produced
+- [[K012 — Do not make an identity out of the collapse]] — extends the MN 22 raft simile to insights: the great doubt's resolution is for crossing over, not for holding onto
+- [[ST070 — Dōgen Just Sits]] — the story presents zazen as enlightenment itself rather than a means to it
+- [[M007 — Expect the in-between to be uncomfortable, and do not flee it prematurely]] — the Nepantla parallel: the discomfort of the between-state is part of the account
 
 ## Related concepts
 
 - [[Docta ignorantia]] — the rest-in-not-knowing doctrine, for comparison with the Zen engine
-- [[The question kept alive]] — the compendium's own name for holding a question open
-- [[Negative capability]] — Keats's version of resting in uncertainty without grasping for fact and reason
+- [[The question kept alive]] — a question carried as the practice itself, held open instead of answered
+- [[Negative capability]] — Keats's term for remaining in doubts without irritable reaching after fact and reason
 
 ## Sources
 
@@ -37,7 +37,7 @@ The great doubt differs from ordinary doubt in direction. Ordinary doubt asks wh
 
 - the series' Book III
 
-- Hakuin Ekaku, "Some Talks by Hakuin" (Sokko-roku kaien fusetsu), trans. Norman Waddell, [thezensite](http://www.thezensite.com/ZenTeachings/Teishos/Talks_by_Hakuin.html) — the three essentials, the crystallizing of doubt, and the "bottom of great doubt" saying
+- Hakuin Ekaku, "Some Talks by Hakuin" (Sokko-roku kaien fusetsu), trans. Norman Waddell, [thezensite](http://www.thezensite.com/ZenTeachings/Teishos/Talks_by_Hakuin.html) — the three essentials, the building of the ball of doubt, and the great-doubt saying Hakuin attributes to a teacher of the past
 
 [[K009 — Let the doubt become great]]
 [[K012 — Do not make an identity out of the collapse]]
