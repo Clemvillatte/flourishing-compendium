@@ -1248,3 +1248,25 @@ Advisor QC found batch-level and per-item issues; all repaired. Findings and rep
 - Saturation: skipped per fast-track §1a (degree < 15); no cross-link proposals
   filed; noted in batch log. Advisor QC: not due (item 2 of session; next at
   item 5 per speed directive).
+
+## Achievement motivation theory (2026-10-20, worker-p1zs-7a4e2c91, fast-track; degree 9 — eligible)
+
+- OPENED: Atkinson 1957 "Motivational determinants of risk-taking behavior",
+  Psychological Review 64(6), full text via
+  https://static1.squarespace.com/static/57309137ab48de6f423b3eec/t/588a1a9846c3c4746d0816d6/1485445785596/Atkinson1957.pdf
+  (raw fetch; blockquote = the paper's SUMMARY opening sentence, verified
+  character-for-character in the raw text). Body claims grounded in the opened
+  text: fear-of-failure extremes ("very easy and safe undertakings or extremely
+  difficult and speculative undertakings" — verified verbatim, paraphrased in
+  body), intermediate-risk prediction (In summary sentence, verified),
+  thematic-apperception measurement, moderate-risk/entrepreneurship correlates
+  (research tradition cited in the paper). The "Motivation = f (Motive X
+  Expectancy X Incentive)" formula NOT quoted in body (OCR damage in raw text:
+  "consequnece"); described without quotation marks.
+- In-the-compendium clauses verified against the principle pages' own quoted
+  material (SE039 Markus-Nurius, MO019 Elliot-McGregor, MO070 Carstensen, SE051
+  Aron, A058 NE VII, PP015 Snyder, SE017, MO075 via enrich_find context).
+- IS-IT-A-CONCEPT check: named theory with primary literature; not a principle
+  or comparison. No namespace-audit entry.
+- Saturation: skipped per fast-track §1a (degree 9 < 15); no cross-link proposals
+  filed. Advisor QC: not due (item 3; next at item 5).

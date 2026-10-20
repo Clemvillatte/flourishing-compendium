@@ -7,7 +7,24 @@ file: "Achievement motivation theory"
 tags: ["theory", "psych/affect"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-AFFECT"], "alternatePaths": []}
 ---
-**Achievement motivation theory** — McClelland, Atkinson — achievement behaviour results from the balance between the need to achieve and the fear of failure.
+Achievement motivation theory is the McClelland–Atkinson account of achievement behaviour: in situations with a standard of excellence, what a person does results from the joint action of the motive to achieve and the motive to avoid failure. Atkinson's 1957 Psychological Review paper, building on McClelland's work on the achievement motive, states the project in its summary.
+
+> A theoretical model is presented to explain how the motive to achieve and the motive to avoid failure influence behavior in any situation where performance is evaluated against some standard of excellence. — Atkinson, "Motivational determinants of risk-taking behavior" (1957), Psychological Review 64(6)
+
+### How the balance works
+
+The two motives do not simply add up. When fear of failure outweighs the achievement motive, the paper predicts, a person avoids the middle of the difficulty range, preferring either very easy and safe undertakings or extremely difficult and speculative undertakings; when the achievement motive is stronger, aspiration settles where risk is moderate. The research tradition measured these motives with thematic apperception (thoughts after a story cue) and found moderate-risk preferences and entrepreneurship among its correlates.
+
+### In the compendium
+
+- [[MO019 — Learn to set approach goals, not avoidance goals]] — the Elliot and McGregor valence distinction (success-construed versus failure-construed competence) is the modern descendant of Atkinson's approach/avoidance pairing.
+- [[SE039 — Cultivate possible selves — who could you become]] — Markus and Nurius's possible selves include what one is afraid of becoming, and such selves function as incentives.
+- [[PP015 — Cultivate hope as a process]] — Snyder's hope pairs pathways with the motivation to pursue them; the pursuit half sits where Atkinson put expectancy and incentive.
+- [[SE017 — Recognise and manage the inner critic — harsh self-talk is not motivation]] — the compendium's treatment of the inner critic separates fear-driven striving from productive motivation, the same distinction the theory turns into two motives.
+- [[MO070 — Recognise motivation and ageing — motivation changes across lifespan]] — Carstensen's socioemotional selectivity theory: knowledge-related goals like achievement lose priority as perceived time horizons shorten.
+- [[MO075 — Build motivational maintenance — ongoing practice and adaptation]] — goal adjustment, not only pursuit, is the compendium's maintenance answer to stuck motivation.
+- [[SE051 — Recognise self-expansion — relationships and experiences expand the self]] — a different growth motive: expanding the self rather than meeting a standard of excellence.
+- [[A058 — Distinguish continence from virtue]] — Aristotle's continent man abides by the result of his calculations; the principle carries the cross-tradition parallel.
 
 ## Field
 
@@ -20,9 +37,18 @@ Affect · Psychological science
 [[PP015 — Cultivate hope as a process]]
 [[MO070 — Recognise motivation and ageing — motivation changes across lifespan]]
 [[SE051 — Recognise self-expansion — relationships and experiences expand the self]]
-## Cited in philosophy parallels
-
 
 ## Related concepts
 
 - [[Achievement goal theory (Dweck, Elliot)]] — the framework distinguishing learning and performance goals within achievement motivation
+- [[Self-efficacy]] — the belief term of the expectancy component, developed later by Bandura
+- [[Hope]] — Snyder's pathways-plus-agency construct, a cognitivist descendant of the expectancy term
+- [[Flow]] — the challenge-skill match sits at the same intermediate difficulty the theory's strong-achievement prediction favours
+
+## Sources
+
+- [Atkinson, J. W., "Motivational determinants of risk-taking behavior" (1957), Psychological Review 64(6), 359-372](https://static1.squarespace.com/static/57309137ab48de6f423b3eec/t/588a1a9846c3c4746d0816d6/1485445785596/Atkinson1957.pdf) — the summary sentence, the fear-of-failure extremes, the intermediate-risk prediction and the entrepreneurship/achievement-motive research cited (all verified against the opened PDF text)
+
+## Cited in philosophy parallels
+
+
