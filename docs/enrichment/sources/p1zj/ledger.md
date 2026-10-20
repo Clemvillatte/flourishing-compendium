@@ -181,3 +181,8 @@ Band: AF002..BE033, 30 principles, degree order (queue 628-673). Advisor QC cade
 - New evidence: Pham & Sanocki 2024, "Human Attention Restoration, Flow, and Creativity: A Conceptual Integration", Journal of Imaging, via PMC11050943, fetched this session. Three sentences verified verbatim (directed attention suppresses distractors; constant use depletes resources, fatigue and decreased performance; soft fascination as effortless attention).
 - Removed: "nature the best-studied case" (unverifiable literature claim from the abstract alone); coffee comparison; depletion-signal list as substantiated claim (practice bullet now names no specific signals); "material is fine" diagnosis in the example (replaced with noticing-and-pausing without diagnosis); scrolling-break distinction (unverified).
 - Process note: a validator FAIL on the first repair pass stopped the state/ledger steps while the save ran; the follow-up pass completed the cycle (prose minimum met with grounded scope sentences).
+
+### Milestone-4 provenance and validation
+- Proposals: notes for the 8 records added in items 16-20 corrected to the actual sequence (target leads read during milestone-4 QC, after initial push; connection checked against each lead; full bodies not read). The 27 earlier records retain the milestone-3 lead-dump wording (dump preserved in the session transcript).
+- Validation: all five repaired pages validated ok against pre-enrichment baseline 9d181645 (parent of the first batch-16 commit); wikilinks and protected material intact.
+- Remote: credential-bearing remote URL replaced with the clean repository URL; token moved to ~/.git-credentials (mode 0600), no longer visible in git remote output. Pushes confirmed working.
