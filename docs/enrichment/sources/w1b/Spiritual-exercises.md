@@ -57,3 +57,15 @@
 - Y080 reclassified to "## Cited in philosophy parallels": the Y080 page cites
   "Discernment of spirits (Ignatius of Loyola, Spiritual Exercises)" under its
   Philosophy parallels section.
+
+## Advisor QC round 3 (2026-10-20)
+
+- Y080 referent mismatch annotated on the page: "inherited reference to Ignatius of
+  Loyola's work of the same title, not a citation of Hadot's account" (verified: the
+  Y080 page cites "Discernment of spirits (Ignatius of Loyola, Spiritual Exercises)"
+  under its Philosophy parallels). Wikilink preserved.
+- "Hadot sometimes prefers 'existential'" reworded to "Hadot also uses 'existential'
+  as the adjective" (the IEP text establishes use, not preference: "Hadot's use of the
+  adjective 'spiritual' (or sometimes 'existential')...").
+- IEP quotation locator supplied: section 5 "Spiritual Practices" (verified by reading
+  the entry's own section headings). Inline "(IEP)" replaced with a linked citation.
