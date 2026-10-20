@@ -3,15 +3,23 @@
 - OWNER UPDATE (2026-10-19): work continuously, not in self-terminating passes. Read
   `docs/enrichment/OWNER-UPDATE-2026-10-19.md` before proceeding. Workers move to the next
   available priority band; the supervisor keeps monitoring even when no new commits arrive.
-- CURRENT SUPERVISOR (2026-10-20 ~03:0xZ, supervisor-36b57e93): took the RELEASED supervisor
-  baton after supervisor-0ddcdd37 went offline per the owner stop directive. First pass: build ok
-  (5,718 entries), all 8 content files changed since 30d8fb2e validate ok vs that baseline; QC
-  round on D177 (PASS), P058 (FAIL, repairs routed to live p1r owner, who is applying them),
-  P032/P036 (FAIL, advisor repairs applied by supervisor at f10193a7/b59a1a3d); TASKBOARD
-  conflict markers removed; Book II Appendix B Brewer link fixed (PMC3434285). P054/P056 QC
-  repairs in flight at p1r. P033 (p1t) recovery in progress per owner direction: worker offline
-  mid-QC-repair, supervisor taking the baton at the 20-minute staleness mark. See QC log for
-  details. Live workers at this writing: p1r, p1s, p1t (offline mid-item), p1u, p1v.
+- CURRENT SUPERVISOR (2026-10-20 03:31Z, supervisor-36b57e93): took the RELEASED supervisor
+  baton after supervisor-0ddcdd37 went offline per the owner stop directive. Two passes logged
+  in the QC log: (1) health check + QC round (D177 PASS; P058 FAIL routed to live p1r owner,
+  who is applying repairs across P054/P056/P058; P032/P036 repaired by supervisor; TASKBOARD
+  conflict markers removed; Book II Appendix B Brewer link fixed); (2) 14 new files validate
+  ok, build ok, B042 sample PASS (quotes verified). P033 (p1t) owner-directed recovery DONE:
+  worker offline mid-QC-repair, supervisor took the stale baton, applied advisor repairs,
+  verified quotes, marked done, released p1t with checkpoint (new worker resumed at P077).
+  OPEN ITEMS for next supervisor pass: p1r's P054/P056/P058 QC rounds still flagged in
+  their state (P058 plain words kept the résumé aphorism at last check — re-sample when
+  their flags clear); p1s's D094/D106 protected-reflections conflicts and D106 Nietzsche
+  'become who you are' label still lack supervisor dispositions; B092 Kashdan label
+  disposition pending; B064/B038 cross-band edit dispositions pending (p1s credited B064,
+  B038 kept per p1m precedent); B071's flag now RESOLVED (Appendix B link fixed). PENDING
+  PROPOSALS: p1a 1 deferred, p1c 1, p1f 1, w1d 21 deferred records — review before integration.
+  Live workers at this writing: p1c, p1g, p1h, p1o, p1r, p1s, p1t (new owner at P077), p1u/p1v.
+  Bounded monitoring continues; clock-ins at every milestone.
 - FIRST read `docs/enrichment/OPERATIONS.md` and take a baton: `python3 scripts/baton.py status`, then claim the supervisor baton if free/stale, else a worker baton.
 - Content-enrichment programme: read `docs/ENRICHMENT-HANDOFF.md`, then claim a band on `docs/enrichment/TASKBOARD.md`.
 - Site/mobile work: see `docs/MOBILE-HANDOFF.md`.
