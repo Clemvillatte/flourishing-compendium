@@ -220,3 +220,7 @@ Core prose (body per QC round-1 replacement text, VI.9 blockquote + IV.21 inline
 ## SO013
 - Uchida et al. (2004) abstract (Springer page, search result text opened) and Markus & Kitayama (2010) PPS 5(4):420-430 (Stanford-hosted PDF, opened; abstract quoted): quotations matched against opened text.
 - Limits: Uchida 2004 full text not accessible; statement says 'high-arousal positive affect' but the abstract only says 'positive affect', so body omits 'high-arousal'. Diener & Suh, Kitayama & Markus 2000, Veenhoven, Andonian, Graham, Vergara not opened. Example hypothetical.
+
+## SO011
+- Markus & Kitayama 1991 (MIT-hosted PDF, 3 quotes grep-verified); Henrich et al. 2010 PubMed abstract (fetched via eutils); Te Whare Tapa Whā (health.govt.nz search excerpt, page itself not fetchable); IEP Hunhu/Ubuntu (search excerpt).
+- Limits: Kitayama 2007, Vergara 2023, Tutu 1999 (book), Durie 1985/1998 (original), Fernando 2014, Markus&Kitayama quotes beyond abstract not used; Medin 2017, Gurwitz 2023, Mutamba 2021, Diener&Suh 2000, Uchida 2004 full text not opened. 'Without collapsing into relativism' is not addressed by any opened source; body says so. Example hypothetical.
