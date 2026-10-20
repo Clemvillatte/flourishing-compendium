@@ -2,7 +2,8 @@
  "batch": "p1zu",
  "done": [
   "PP016",
-  "PP030"
+  "PP030",
+  "PP038"
  ],
  "in_progress": null,
  "flagged": {
@@ -10,6 +11,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T12:03:03+00:00",
+ "updated": "2026-10-20T12:08:32+00:00",
  "band_done": false
 }
