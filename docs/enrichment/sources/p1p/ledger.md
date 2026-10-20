@@ -452,3 +452,9 @@ priority, then B items in manifest order (manifest lists bare IDs; no titles).
   - B178: state transition re-run (see above); unsupported example outcome removed.
   - B180: Trungpa quote restored to exact fetched wording ("That is to say, whatever occurs..."); root verse line break preserved; intention-and-action attribution narrowed to Tokme Zangpo's commentary; tonglen sentence reworded to match the commentary; triads and the invented quiet-hour example removed (example now imagined framing).
   - B182: unopened McCracken/Vowles clinical claim removed from prose (remains only as inherited parallel); coat/aspirin trivializing language removed; second-arrow framing kept attributed to the sutta.
+
+### B188 — Use ordinary cues as bells (2026-10-20, worker-p1p-c23eecde)
+- State: seed → done.
+- Sources opened: https://tnhmeditation.org/inviting-the-bell/ (passage drawn from TNH, Peace Is Every Step, 1995, pp. 18-19) and https://www.abuddhistlibrary.com/.../Dharma Talk given by Thich Nhat Hanh on August 6.htm ("Walking into the Kingdom of God," August 6, 1997).
+- Verbatim quotes: Peace Is Every Step bell passage (pp. 18-19); dharma-talk telephone passage ("we listen to the telephone and we go back to ourselves by the transportation of our in-breath"); inline verse "Listen, listen. This wonderful sound brings me back to my true self."
+- Locator changed from The Miracle of Mindfulness to Peace Is Every Step + dharma talk (the books/talks actually quoted); noted for supervisor. Example ("twenty free sessions") trimmed to the original red-light breath framing without the invented count.
