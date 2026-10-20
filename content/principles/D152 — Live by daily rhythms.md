@@ -12,17 +12,29 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 152** — Live by daily rhythms
 
-Align activity and rest with the day's cycles: morning for action, evening for winding down. Fight your rhythms and pay interest.
+The Huainanzi divides the day the way it divides everything else, by the sun's course. Chapter 3, "Celestial Patterns," tracks the sun through its named stations and closes:
 
-(Huainanzi.)
+> "The divisions [of its journey] make dawn, daylight, dusk, and night." (Huainanzi 3.25, Major/Queen trans.)
 
-**Plain words** Morning for action, evening for winding down. Fight your rhythms and pay interest — chronically.
+Chapter 14, "Sayings Explained," turns the same regularity into instruction for the body:
 
-*For example:* The brilliant email written at 11pm that reads terribly at 8am — the rhythm was the co-author all along.
+> "To regulate your body and nourish your nature, moderate your sleep and rest, be appropriate in your food and drink, harmonize your happiness and anger, and make suitable your movement and stillness." (Huainanzi 14.39, Major/Queen trans.)
+
+The compendium reads these two passages together: the day has a shape, and the body's activity and rest are to be fitted to it.
+
+(Huainanzi 3, 14.)
+
+**Plain words** The Huainanzi's instruction is concrete: sleep and rest, food and drink, happiness and anger, movement and stillness are all things with measures, and the chapter says to make each suitable. The day's shape is given before you arrive at it. A practical reading: treat your schedule as something with a dawn and a dusk, and place demanding work and recovery where each belongs rather than wherever the day happens to leave room.
+
+*For example:* Imagine a demanding project with a hard deadline. You could decide that the hours after dinner are for winding down, and that anything not done by then waits for the morning.
+
+## Sources
+
+- [The Essential Huainanzi, Major, Queen, Meyer and Roth trans., Columbia University Press 2012, Internet Archive](https://archive.org/details/theessentialhuainanziliuan) — sections 3.25, 14.39
 
 ## Psychology parallels
 
-- **[[Circadian science|Circadian science]]**, week-long natural-light exposure resets the human circadian clock (Wright et al., 2013)
+- **[[Circadian science|Circadian science]]** (Wright et al., 2013)
 - **Chronotype-performance matching**
 
 ## Philosophy parallels
