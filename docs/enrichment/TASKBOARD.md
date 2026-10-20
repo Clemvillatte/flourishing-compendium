@@ -42,18 +42,16 @@ Bands are defined by committed manifests in `docs/enrichment/bands/<band>-manife
 | w1e | 241-310 | Attentional control training to Intrinsic value of nature | w1e | claimed | genuineflourishing36 (takeover from dead Agent E) | 2026-10-19 |
 | w1f | 311-380 | Karma yoga to Social value orientation | w1f | claimed (FAST-TRACK bar; supervisor-36b57e93 alongside supervision) | supervisor-36b57e93 | 2026-10-20 |
 
-FAST-BANDS IMPLEMENTATION (owner directive 2026-10-20, implemented by supervisor-36b57e93):
-the owner asked for a fast-bands pipeline for concepts with no or very low content — each
-gets minimal accurate content (one verbatim quote from one opened authoritative source,
-a short accurate synthesis, a Sources line; enough for a writer to get the gist). The
-FAST-TRACK bar is now recorded as PROTOCOL.md §1a (calibration example: Working memory
-capacity limits). Structure note: the ENTIRE weak-concept queue is already assigned across
-w1a-w1af (2,189 items, full coverage; the queue file itself predates enrichment), so
-minting new wf1/wf2 manifests would double-assign — instead the never-claimed tail bands
-(w1f-w1af, ~1,819 items in 26 bands, no state files or batons) ARE the fast-band pool: any
-worker claiming one works it at the FAST-TRACK bar, Daoist/Buddhist concepts first per the
-standing priority. Workers wanting fast-band work: claim the next unclaimed tail band
-(w1g onward), clock in, and follow PROTOCOL.md §1a.
+FAST-BANDS IMPLEMENTATION (owner directive 2026-10-20, implemented by supervisor-36b57e93,
+advisor-reviewed): the FAST-TRACK bar is recorded as PROTOCOL.md §1a — eligibility is per
+ITEM (empty/very thin page, no unresolved findings, inside the worker's owned manifest,
+not under another live baton; already-adequate pages get the light check). Validate fast-track
+items with `enrich_validate.py --fast-track` (waives the prose minimum only; all other checks
+unchanged). Structure note: the ENTIRE weak-concept queue (2,189 items) is assigned across
+w1a-w1af, so minting new wf1/wf2 manifests would double-assign — instead the 27 never-claimed
+tail bands (w1f-w1z, w1aa-w1af; 1,839 items) hold most of the pool: claiming one and working
+its thin items at the §1a bar is the fast-band pipeline. AVAILABLE tail bands: w1g-w1z and
+w1aa-w1af (w1f is claimed). Daoist/Buddhist concepts first within a band where identifiable.
 
 ## Principles pass (owner priority, 2026-10-19)
 

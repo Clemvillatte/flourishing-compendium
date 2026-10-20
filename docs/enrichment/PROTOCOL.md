@@ -32,28 +32,45 @@ Voice = `HUMANIZER-SKILL.md` (read it; its rules are binding). Facts = verified,
 
 ## 1a. Fast-track bar for empty or very poor concepts (owner directive, 2026-10-20)
 
-For concept pages with no or very low content (a bare seed line), the owner directs a
-FAST-TRACK bar instead of the full workflow above. Minimal accurate content, enough for
-a writer to understand what the concept is and get the gist:
+**Eligibility is per item, not per band.** A fast-track item is a concept page that is
+(currently) empty or very thin, sits inside the worker's OWNED band manifest, has no
+unresolved QC or correction findings, and is not under another live baton. Before starting:
+check the current page (not just the stale queue), the completion records, and the remote
+baton state. An already-adequate page gets the light check (skip-ahead rule, §1) — do not
+re-enrich it down to the bar. A page under live QC corrections remains a normal item.
+
+**The bar.** Accurate minimal content, enough for a writer to understand what the concept
+is and get the gist:
 
 - ONE verbatim definition-or-passage quote from ONE opened authoritative source (SEP/IEP,
   a primary text, or a peer-reviewed source), formatted as a blockquote with locator and
   source link. Zero-hallucination and verbatim rules apply unchanged (any quoted words
   must match the opened source word-for-word).
-- A short accurate synthesis: what the concept is, who defined it (if named in the opened
-  source), and one distinction or piece of context the quote does not carry.
-- The `## Sources` line with the opened URL; the Cited-in list and all existing wikilinks
-  preserved unchanged.
-- The validator's structural rules still apply (prose within bounds, no banned words,
-  no lost links). If the synthesis cannot honestly reach the prose floor, the concept
-  may not be definable from one source — treat it as a normal-band item or flag it.
+- A short accurate synthesis: what the concept is, who defined it (if the opened source
+  names them), and one distinction or piece of context the quote does not carry.
+- The `## Sources` line with the opened URL; the Cited-in list, front-matter and all
+  existing wikilinks preserved unchanged.
+- One source is the default scope, not an absolute prohibition: nothing prevents more where
+  useful, but keep every claim within the opened evidence and keep the ledger
+  (§1 step 3 evidence standard: no source-supported claim turned into an invention).
+- The IS IT A CONCEPT check (§1 step 0) comes first, unchanged. The advisor QC cadence
+  (first item, milestones) and the humanizer rules are unchanged.
 - Skip the saturation hunt (§4) and cross-link proposals unless an obviously missing
-  reciprocal jumps out; note that in the batch log. Full §1-§4 applies to normal bands.
+  reciprocal jumps out; note that in the batch log. Full §1-§4 applies to normal items.
+- Validate with `python3 scripts/enrich_validate.py --fast-track <file>`: the fast-track
+  profile waives the prose word MINIMUM for the item; the maximum and the source-URL,
+  metadata, link, protected-section and humanizer checks are unchanged. Mark the item done
+  with a note that it was fast-track enriched.
 
-Calibration example: `content/concepts/Working memory capacity limits.md` (Cowan 2001,
- completed to this bar). The never-claimed tail concept bands (w1f-w1af in the TASKBOARD
- concept table) are the fast-band pool: a worker claiming one works it at this bar,
- Daoist/Buddhist concepts first per the owner's standing priority.
+Calibration example: `content/concepts/Working memory capacity limits.md` (Cowan 2001).
+
+**Where the fast-track items live.** The entire weak-concept queue (2,189 items) is already
+assigned across manifests w1a-w1af, so no new wf-bands can be minted without double
+assignment. The 27 never-claimed tail bands (w1f-w1z, w1aa-w1af — 1,839 items, no state
+files or batons) hold most of the pool: claiming one and working its thin items at this bar
+is the fast-band pipeline. Daoist and Buddhist concepts are worked first within a band
+where identifiable (many tail items are tradition-neutral psychology concepts). Available
+tail bands are published on the TASKBOARD.
 
 ## 2. Page template (after unchanged front-matter)
 

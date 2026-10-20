@@ -61,7 +61,7 @@ def protected_errors(body_old, body_new, typ):
     return errors
 
 
-def validate(path, byfile, byid, base='HEAD'):
+def validate(path, byfile, byid, base='HEAD', fast_track=False):
     errs, warns = [], []
     new = open(os.path.join(ROOT, path), encoding='utf-8').read()
     old = git_show(path, base)
@@ -79,7 +79,7 @@ def validate(path, byfile, byid, base='HEAD'):
     bad = sorted(t for t in ln if t not in byfile and t not in byid)
     if bad: errs.append(f'UNRESOLVED links: {bad[:6]}')
     pt = prose_text(body_n); pw = len(pt.split())
-    if pw < minw: errs.append(f'prose too short: {pw} < {minw}')
+    if pw < minw and not fast_track: errs.append(f'prose too short: {pw} < {minw}')
     if pw > maxw: errs.append(f'prose too long: {pw} > {maxw}')
     low = pt.lower()
     for w in BANNED:
@@ -106,6 +106,10 @@ if __name__ == '__main__':
     byfile = {e['fm'].get('file'): i for i, e in E.items()}
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument('--base', default='HEAD', help='committed comparison baseline (default HEAD)')
+    ap.add_argument('--fast-track', action='store_true',
+                    help='fast-track profile (PROTOCOL.md §1a): waive the prose word MINIMUM '
+                         'for concept pages completed to the fast-track bar; maximum, source-URL, '
+                         'metadata, link, protected-section and humanizer checks unchanged')
     ap.add_argument('paths', nargs='*')
     args = ap.parse_args()
     paths = args.paths
@@ -115,7 +119,7 @@ if __name__ == '__main__':
         paths = [p for p in out.split('\0') if p.endswith('.md') and os.path.isfile(os.path.join(ROOT, p))]
     bad = 0
     for p in paths:
-        errs, warns = validate(p, byfile, E, args.base)
+        errs, warns = validate(p, byfile, E, args.base, fast_track=args.fast_track)
         status = 'FAIL' if errs else 'ok  '
         print(f'{status} {p}')
         for e in errs: print('     ERR ', e)
