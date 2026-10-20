@@ -1,6 +1,6 @@
 {
  "batch": "p1zj",
- "revision": 1,
+ "revision": 2,
  "records": [
   {
    "action": "reciprocal",
@@ -29,6 +29,34 @@
    "link": "AF002",
    "why": "listed for comparison with the principle's separation of signal and interpretation",
    "notes": "page read by worker-p1zj-6b93ad57 before proposal; ground: page covers naming feelings precisely, adjacent to the labeling evidence opened for AF002"
+  },
+  {
+   "action": "reciprocal",
+   "into": "Resilience",
+   "link": "AF013",
+   "why": "listed for comparison with the principle's return-to-baseline framing",
+   "notes": "page read by worker-p1zj-6b93ad57 before proposing; ground: page covers resilience/return-to-baseline/aid-to-recovery material adjacent to Bonanno 2004 opened for AF013"
+  },
+  {
+   "action": "reciprocal",
+   "into": "Emotional inertia theory",
+   "link": "AF013",
+   "why": "listed for comparison with the principle's return-to-baseline framing",
+   "notes": "page read by worker-p1zj-6b93ad57 before proposing; ground: page covers resilience/return-to-baseline/aid-to-recovery material adjacent to Bonanno 2004 opened for AF013"
+  },
+  {
+   "action": "reciprocal",
+   "into": "Stress cycle completion (Nagorski, Sapolsky)",
+   "link": "AF013",
+   "why": "listed for comparison with the principle's return-to-baseline framing",
+   "notes": "page read by worker-p1zj-6b93ad57 before proposing; ground: page covers resilience/return-to-baseline/aid-to-recovery material adjacent to Bonanno 2004 opened for AF013"
+  },
+  {
+   "action": "reciprocal",
+   "into": "Equanimity",
+   "link": "AF013",
+   "why": "listed for comparison with the principle's return-to-baseline framing",
+   "notes": "page read by worker-p1zj-6b93ad57 before proposing; ground: page covers resilience/return-to-baseline/aid-to-recovery material adjacent to Bonanno 2004 opened for AF013"
   }
  ]
 }
