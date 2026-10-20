@@ -1,13 +1,20 @@
 {
  "baton": "p1zo",
- "agent": "worker-p1zo-7d4a91e3",
- "clocked_in": "2026-10-20T11:49:55+00:00",
+ "agent": "worker-p1zo-3c8da4f1",
+ "clocked_in": "2026-10-20T12:36:32+00:00",
  "takeovers": [
   {
    "by": "worker-p1zo-7d4a91e3",
    "at": "2026-10-20T11:05:51+00:00",
    "from": null,
    "reason": "free"
+  },
+  {
+   "by": "worker-p1zo-3c8da4f1",
+   "at": "2026-10-20T12:36:32+00:00",
+   "from": "worker-p1zo-7d4a91e3",
+   "reason": "stale (47 min)"
   }
- ]
+ ],
+ "released": false
 }
