@@ -456,3 +456,45 @@
   example kept on the seed's talking-rule scenario, grounded in the
   wearer/expert arrangement. Woolley et al. 2010 and Weger et al. 2014
   tails reduced to bare wikilinks (unopened). Validator ok before done.
+
+### Item-20 milestone QC round (advisor, 2026-10-20) — repairs applied
+- P074 REPAIRED: the item-15 capitalization replacement had not matched
+  (old string mismatch); re-applied with assertion - 'Native human nature
+  supplies the raw materials, but custom furnishes the machinery and the
+  designs.' now complete with capital N and period.
+- P095 REPAIRED: second quote ('the application of this ultimate principle
+  of creativity to each novel situation which it originates') located
+  independently - corrected-edition printed p. 21 (running header 'THE
+  CATEGOREAL SCHEME 21', PDF page 48); locators now split (p. 28 becoming;
+  p. 21 application).
+- P103 REPAIRED per advisor's exact replacements: compendium paragraph
+  opener replaced; Plain words replaced with the advisor's exercise text.
+- P104 REPAIRED per advisor's exact replacement: Plain words replaced;
+  'fuller statement' claim removed; SEP cited as an essay authored by
+  Rescher, not an 'edition' of the book.
+- P109 REPAIRED: the How We Think sentence DELETED - direct grep of the
+  opened 1910 HWT text shows the full phrase 'a state of doubt,
+  hesitation, perplexity, mental difficulty' is NOT in the 1910 edition
+  (only 'state of doubt' appears; the full definition is from the 1933
+  revised edition). HWT Sources line removed accordingly. DE passage
+  alone supports the page.
+- P131 REPAIRED: bounded replacement body applied; 'Socialized
+  intelligence' parallel reduced to bare wikilink; outcome guarantees and
+  staging removed.
+- P110 REPAIRED: blockquote restored to its actual opening 'In contrast
+  with such experience, we have an experience...'; capital A restored in
+  'A piece of work...'.
+- P122 REPAIRED: 'maintenance is the largest category', 'ten thousand
+  more times', 'the difference is not talent' removed; Plain words
+  rebuilt around the mechanic passage as a proposed exercise.
+- P124 REPAIRED: 'Most either/or questions' frequency claim removed;
+  capital N restored in 'Naming the disjunction...'; application now
+  framed as checking whether both alternatives can hold in their
+  different respects.
+- P128 REPAIRED: shoe passage chapter verified independently - it is in
+  Ch. VI ('The Problem of Method'), not Ch. IV (the Great Community
+  passage is Ch. IV); locator corrected; 'the expert knows the remedy'
+  restored to Dewey's 'may be the best judge of the remedy'.
+- Validation: all ten repaired files validate ok against baseline
+  e7034fd8^ (0 failed). Confirmation round with the advisor follows
+  immediately per its instruction (no deferral to item 25).

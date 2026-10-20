@@ -12,22 +12,32 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 131** — Pool intelligence: solve problems together
 
-Social problems are solved by socialized intelligence: many minds, many experiences, disciplined by shared inquiry. Contribute your piece and let the collective verdict improve on yours.
+In The Public and Its Problems, Dewey argues for improving public discussion:
 
-(Dewey, The Public and Its Problems, 1927.)
+> The essential need, in other words, is the improvement of the methods and conditions of debate, discussion and persuasion. That is the problem of the public.
+>
+> (Dewey, The Public and Its Problems, 1927, Ch. VI)
 
-**Plain words** Social problems are solved by socialized intelligence — many minds, many experiences, disciplined by shared inquiry. Contribute your piece and let the collective verdict improve on yours. The lone genius narrative is flattering to lone geniuses and useless for sewers.
+He assigns experts the task of "discovering and making known the facts" and says the many need the ability to judge "the bearing of the knowledge supplied by others upon common concerns" ([The Public and Its Problems](https://archive.org/details/publicitsproblem0000dewe), Ch. VI).
 
-*For example:* The community that redesigns its own intersection — the engineer, the mom with the stroller, the delivery driver. Three kinds of knowledge, one better street. No genius required.
+**Plain words**
+For the compendium's exercise, choose a shared problem. Write down which facts need investigation and who lives with its consequences. Ask people with relevant expertise and affected people what they know, where they disagree, and what remains uncertain.
+
+*For example:*
+Imagine residents considering a redesigned intersection. An engineer brings traffic measurements; a parent and a delivery driver describe problems they encounter. Record the different concerns, propose a design, and decide what to observe in a trial.
+
+## Sources
+
+- [The Public and Its Problems (Dewey, 1927), Internet Archive](https://archive.org/details/publicitsproblem0000dewe) — Ch. VI, "The Problem of Method"
 
 ## Psychology parallels
 
-- **[[Collective intelligence|Collective intelligence and wisdom of crowds]]**, aggregated independent judgments outperform individuals (Surowiecki; Woolley et al., 2010)
+- **[[Collective intelligence|Collective intelligence and wisdom of crowds]]**
 
 ## Philosophy parallels
 
-- **[[Socialized intelligence|Socialized intelligence]]** (Dewey, The Public and Its Problems)
-- **[[Community|Community of inquiry]]** (Peirce, Collected Papers)
+- **[[Socialized intelligence|Socialized intelligence]]**
+- **[[Community|Community of inquiry]]**
 
 <!-- fc: reflections
 What problem in your life are you currently trying to solve alone that would actually be solved by socialized intelligence? What's the pooling?

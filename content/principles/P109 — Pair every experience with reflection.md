@@ -18,7 +18,7 @@ Dewey's Democracy and Education states the principle directly:
 >
 > (Dewey, Democracy and Education, 1916, Ch. 11, "Experience and Thinking")
 
-Without that connection, he writes, "everything is writ in water": "Blind and capricious impulses hurry us on heedlessly from one thing to another", and there is "no before or after to such experience; no retrospect nor outlook, and consequently no meaning". How We Think adds the working method: reflection proceeds through "a state of doubt, hesitation, perplexity, mental difficulty", a search that locates and defines the difficulty, and further observation that tests the conclusions reached ([How We Think, 1910](https://www.gutenberg.org/files/37423/37423-h/37423-h.htm)).
+Without that connection, he writes, "everything is writ in water": "Blind and capricious impulses hurry us on heedlessly from one thing to another", and there is "no before or after to such experience; no retrospect nor outlook, and consequently no meaning".
 
 **Plain words**
 Something happening to you is not yet learning it. The learning happens when you connect what you did with what came back: the action, the consequence, and the rule you can carry forward. The compendium's exercise: after one significant experience this week, write three lines: what happened, what I did, what follows.
@@ -29,7 +29,6 @@ For a proposed exercise, take one argument that keeps ending the same way. Write
 ## Sources
 
 - [Democracy and Education (Dewey, 1916), Project Gutenberg](https://www.gutenberg.org/ebooks/852) — Ch. 11, "Experience and Thinking"
-- [How We Think (Dewey, 1910), Project Gutenberg](https://www.gutenberg.org/files/37423/37423-h/37423-h.htm) — the reflective-thinking sequence
 
 ## Psychology parallels
 

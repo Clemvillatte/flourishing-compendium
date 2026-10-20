@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 122** — Turn maintenance into art
 
-Dewey's test case is a worker, not an artist: "The difference between such a worker and the inept and careless bungler is as great in the shop as it is in the studio" ([Art as Experience, 1934](https://archive.org/details/deweyjohnartasanexperience), p. 5). The worker he has in mind is the mechanic, and the difference is not talent but the relation to the work.
+Dewey's test case is a worker, not an artist: "The difference between such a worker and the inept and careless bungler is as great in the shop as it is in the studio" ([Art as Experience, 1934](https://archive.org/details/deweyjohnartasanexperience), p. 5). The worker he has in mind is the mechanic.
 
 > The intelligent mechanic engaged in his job, interested in doing well and finding satisfaction in his handiwork, caring for his materials and tools with genuine affection, is artistically engaged.
 >
@@ -20,10 +20,10 @@ Dewey's test case is a worker, not an artist: "The difference between such a wor
 
 His historical case is domestic: utensils, rugs, pots, and bows "were wrought with such delighted care that today we hunt them out and give them places of honor in our art museums. Yet in their own time and place, such things were enhancements of the processes of everyday life" (p. 6). The art museums hold the record of ordinary work done with care.
 
-The compendium's application: maintenance is the largest category of ordinary work, which makes it the largest field of the mechanic's kind of engagement. The dish washed well and the email written with grace are instances of the same distinction, one that belongs to the shop as much as the studio.
+The compendium's application: the mechanic's kind of engagement is available wherever work is. The dish washed well and the email written with grace are instances of the same distinction, one that belongs to the shop as much as the studio.
 
 **Plain words**
-You will do the dishes roughly ten thousand more times; the number is not the point, the attention is. Dewey's mechanic is not enjoying the job in spite of it; the satisfaction and the doing are one thing. Practically: pick one routine task and give it the mechanic's treatment, doing it well and caring for the tools, and see whether the task changes before the mood does.
+Dewey's mechanic finds satisfaction in the handiwork, and the mechanic's treatment of a task is something a person can simply give it: doing it well and caring for the tools and materials. For a proposed exercise, pick one routine task and give it that treatment, then note what changed in the doing.
 
 *For example:*
 Consider the barista who cleans the machine like it matters. On the compendium's reading, the difference between that closing shift and the one done as time is Dewey's difference between the mechanic and the bungler, and the machine is the same.

@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 104** — Perfect the process, not the product
 
-The Stanford Encyclopedia's entry on process philosophy is authored by Nicholas Rescher himself, and it states the position directly: for the process philosopher, the classical principle that functioning follows upon being is reversed, and "all is in the final analysis the product of processes. Process thus has priority over product — both ontologically and epistemically" ([Rescher, "Process Philosophy", SEP](https://plato.stanford.edu/archives/spr2009/entries/process-philosophy/); his Process Metaphysics, 1996, is the fuller statement).
+The Stanford Encyclopedia's entry on process philosophy is authored by Nicholas Rescher himself, and it states the position directly: for the process philosopher, the classical principle that functioning follows upon being is reversed, and "all is in the final analysis the product of processes. Process thus has priority over product — both ontologically and epistemically" ([Rescher, "Process Philosophy", Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/archives/spr2009/entries/process-philosophy/)).
 
 > For process philosophy, what a thing is consists in what it does.
 >
@@ -21,14 +21,14 @@ The Stanford Encyclopedia's entry on process philosophy is authored by Nicholas 
 The compendium's application: a finished thing is the trace of what a process did, and what it is consists in that doing. Put the pride in the doing, since on this account the doing is what the done is made of.
 
 **Plain words**
-A result is what a process left behind. If you value only the result, the value is stranded in a finished thing; the process that made it is what can make another. When you finish something, ask what the process was, and whether you would want to run it again. The compendium's exercise: pick one finished thing you are proud of and write the process that produced it.
+For the compendium's exercise, choose a finished project and list the actions that produced it. Note which you would repeat and which you would change on a second attempt. Use that list to plan the next project.
 
 *For example:*
 Consider the athlete who medals once and keeps training for a decade. On the process reading, the medal is a record of what the training did, and the decade is the training continuing to be what it is.
 
 ## Sources
 
-- [Rescher, "Process Philosophy", Stanford Encyclopedia of Philosophy, Spring 2009 archive](https://plato.stanford.edu/archives/spr2009/entries/process-philosophy/) — entry authored by Rescher; Process Metaphysics (1996) is borrow-only on Internet Archive, so the entry serves as the citable edition
+- [Rescher, "Process Philosophy", Stanford Encyclopedia of Philosophy, Spring 2009 archive](https://plato.stanford.edu/archives/spr2009/entries/process-philosophy/) — the archived SEP essay, authored by Rescher; his Process Metaphysics (1996) was not opened (borrow-only on Internet Archive)
 
 ## Psychology parallels
 

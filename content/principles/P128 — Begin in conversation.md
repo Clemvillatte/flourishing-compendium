@@ -16,9 +16,9 @@ Addams's practice at Hull-House made conversation a discipline: "I never address
 
 > The man who wears the shoe knows best that it pinches and where it pinches, even if the expert shoemaker is the best judge of how the trouble is to be remedied.
 >
-> (Dewey, The Public and Its Problems, 1927, Ch. IV)
+> (Dewey, The Public and Its Problems, 1927, Ch. VI)
 
-Dewey's version is the shoe that pinches: the wearer knows where, the expert knows the remedy, and democratic discussion is the arrangement that puts both knowledges in one conversation. His condition for the public is communication itself: "Till the Great Society is converted into a Great Community, the Public will remain in eclipse. Communication can alone create a great community" (Ch. IV).
+Dewey's version is the shoe that pinches: the wearer knows where, and the expert may be the best judge of the remedy, and democratic discussion is the arrangement that puts both knowledges in one conversation. His condition for the public is communication itself: "Till the Great Society is converted into a Great Community, the Public will remain in eclipse. Communication can alone create a great community" (Ch. IV).
 
 The compendium's application: the conditions of real talk are the machinery of growth. Turn-taking, listening, and honest disagreement are not etiquette; they are what lets the pinching get said in front of the shoemaker.
 
@@ -31,7 +31,7 @@ Consider the meeting with a talking rule: everyone speaks once before anyone spe
 ## Sources
 
 - [Twenty Years at Hull-House (Addams, 1910), Project Gutenberg](https://www.gutenberg.org/ebooks/1325)
-- [The Public and Its Problems (Dewey, 1927), Internet Archive](https://archive.org/details/publicitsproblem0000dewe) — Ch. IV
+- [The Public and Its Problems (Dewey, 1927), Internet Archive](https://archive.org/details/publicitsproblem0000dewe) — Chs. IV and VI
 
 ## Practice kernels
 

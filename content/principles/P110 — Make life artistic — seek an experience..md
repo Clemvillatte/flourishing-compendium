@@ -14,11 +14,11 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 
 Dewey's Art as Experience opens its third chapter with the everyday phenomenon the principle names. Most experience is loose: "We put our hands to the plow and turn back; we start and then we stop, not because the experience has reached the end for the sake of which it was initiated but because of extraneous interruptions or of inner lethargy" ([Art as Experience, 1934](https://archive.org/details/deweyjohnartasanexperience), Ch. III, "Having an Experience").
 
-> We have an experience when the material experienced runs its course to fulfillment. Then and then only is it integrated within and demarcated in the general stream of experience from other experiences.
+> In contrast with such experience, we have an experience when the material experienced runs its course to fulfillment. Then and then only is it integrated within and demarcated in the general stream of experience from other experiences.
 >
 > (Dewey, Art as Experience, 1934, Ch. III, "Having an Experience")
 
-His examples are pointedly ordinary: "a piece of work is finished in a way that is satisfactory; a problem receives its solution; a game is played through; a situation, whether that of eating a meal, playing a game of chess, carrying on a conversation, writing a book, or taking part in a political campaign, is so rounded out that its close is a consummation and not a cessation." Such an experience "is a whole and carries with it its own individualizing quality and self-sufficiency. It is an experience."
+His examples are pointedly ordinary: "A piece of work is finished in a way that is satisfactory; a problem receives its solution; a game is played through; a situation, whether that of eating a meal, playing a game of chess, carrying on a conversation, writing a book, or taking part in a political campaign, is so rounded out that its close is a consummation and not a cessation." Such an experience "is a whole and carries with it its own individualizing quality and self-sufficiency. It is an experience."
 
 The compendium's application: completion can be designed for. The shapes of a beginning that develops, a middle that turns, and an ending that lands are describable in advance.
 
