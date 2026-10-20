@@ -12,17 +12,25 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 121** — Make modest promises
 
-Easy promises make little trust; take on less, deliver it fully, and trust compounds.
+Chapter 63 of the Daodejing connects careless promising with a failure of faith. It also warns against treating every task as easy and advises attending to difficulties while they are still manageable ([Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm)).
 
-(DDJ 63.)
+> He who lightly promises is sure to keep but little faith; he who is continually thinking things easy is sure to find them difficult.
 
-**Plain words** Easy promises make little trust. Take on less, deliver it fully, and trust compounds — reliability is built from small completed circuits, not from impressive announcements. The overpromiser is a subscription to disappointment.
+(Daodejing 63, [Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm).)
 
-*For example:* The contractor who says 'two weeks, and I'll call you either way' — and does — gets every future job.
+For this principle, a modest promise means one made after considering the work involved. A small commitment deserves that consideration too. The passage does not tell you how often to say yes, or supply a formula for earning another person's trust.
+
+**Plain words** Before agreeing, ask what you are actually offering to do and when you can do it. Leave the part you cannot yet judge unpromised.
+
+*For example:* Imagine a friend asking you to review a long draft tonight. You can read the opening pages before bed, but not the whole thing. You offer to comment on those pages and ask whether that would help.
+
+## Sources
+
+- [Daodejing, chapter 63, translated by James Legge, Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm): light promises and the difficulty of things treated as easy.
 
 ## Psychology parallels
 
-- **[[Expectation-disconfirmation|Expectation-disconfirmation]]**, satisfaction tracks performance minus expectation (Oliver, 1980)
+- **[[Expectation-disconfirmation|Expectation-disconfirmation]]** (Oliver, 1980)
 - **[[Commitment-consistency dynamics|Commitment-consistency dynamics]]** (Cialdini, 2001)
 
 ## Philosophy parallels

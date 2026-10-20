@@ -29,3 +29,18 @@ Claim and state transitions are pushed separately for interruption safety.
 - Saturation: mention search for "Xu You" and "one branch"; Aspiration index
   already cites D105. Proposed the missing backlink from Self-sufficiency
   without editing that concept or applying any proposals.
+
+## D121: Make modest promises (2026-10-20)
+
+- Search: "Tao Te Ching Legge 63 promises difficulty". Opened full primary
+  translation: https://www.gutenberg.org/files/216/216-h/216-h.htm .
+  Daodejing 63.3 is the verbatim quotation; 63.2-4 support the surrounding
+  difficulty context.
+- Practical questions and draft-review example are editorial applications,
+  with the example explicitly imagined. No quantified trust or satisfaction
+  effect is claimed; the passage's scope is stated.
+- Re-derived Plain words from judging the work before promising, rather
+  than reusing the seed or predicting better compliance.
+- Removed the unverified satisfaction mechanism from the parallels tail.
+  Inherited Oliver, Cialdini and Kant associations remain unverified;
+  existing wikilinks are preserved, not certified.
