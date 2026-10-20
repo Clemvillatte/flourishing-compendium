@@ -12,9 +12,15 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 8** — Expect the collapse of meaning; do not waste it
 
-Nishitani's Religion and Nothingness begins with the modern condition: the field of meaning that once held religion, purpose, and selfhood can collapse (through grief, betrayal, illness, or simply the erosion of inherited certainties), leaving what he calls nihility, the sense that the ground under life is null. His first instruction is diagnostic: this collapse is not an aberration to be patched over but a passage to be walked through, and most people spend enormous energy fleeing it back into distraction. Practically, when meaning collapses, do not treat the first weeks as the emergency that must be ended at any cost; they are the passage's mouth.
+Nishitani's Religion and Nothingness opens with what he calls the nihility of modern life: the ground under meaning can give way, and the projects that made life feel worth living stop answering the question of what any of it is for. The book is not a consolation or a self-help text. It is a diagnosis of the condition in which most people now find themselves at some point, and a proposal for what to do once there.
 
-(Nishitani, Religion and Nothingness, the opening chapters.)
+What he refuses is the reflex to patch over it. In his account, the collapse of meaning is the moment when a person's own projects, taken on their own terms, show their floor to be empty, and that emptiness is not a malfunction in need of a fix.
+
+> "that abyss is always just underfoot," and that the nihility, "that which renders meaningless the meaning of life," always underlies the projects we create for ourselves (Religion and Nothingness, trans. Jan Van Bragt, University of California Press, 1982, pp. 3-4).
+
+Nishitani does not say to stay there indefinitely. He says the nihility is where religion's own question first opens up, and that the way through is to go into the emptiness rather than around it. The practice is a walking-through, not a walking-away.
+
+(Nishitani, Religion and Nothingness, ch. 1.)
 
 **Plain words** Nishitani says to expect a moment when the structure of meaning gives way, through grief, betrayal, illness, or just the slow erosion of what you used to believe. What opens is a sense that the ground is empty. Don't rush to patch it. It's a passage, and it may be the beginning of something.
 
