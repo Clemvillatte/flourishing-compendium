@@ -1360,3 +1360,11 @@ Advisor QC found batch-level and per-item issues; all repaired. Findings and rep
   McClelland adult-motive claim narrowed to "investigated whether a motive could
   be developed in adulthood". LESSON recorded: after a multi-edit failure, re-grep
   the intended anchor before claiming a repair landed.
+
+- ITEM-5 MILESTONE CLOSED (advisor scoped PASS): "listed milestone findings closed
+  after round-3 repairs and explicit-baseline validation." Verified: fea7ca8a is
+  an ancestor of origin/main; all four pages validate against the pre-takeover
+  baseline d58a741f (4/4 ok, --fast-track); the fea7ca8a diff inspected (6/8/2
+  line changes on the three pages + ledger). Scoped acceptance of the reviewed
+  passages and repairs, not independent certification of every claim across the
+  four pages.
