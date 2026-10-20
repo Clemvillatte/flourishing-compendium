@@ -12,13 +12,13 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 79** — Recognise the self is not the goal: self serves living well
 
-The Buddhist image for this principle is the raft. The Dhamma is taught "for the purpose of crossing over, not for the purpose of holding onto", and the man who, having crossed the flood, hoists the raft on his head and carries it wherever he goes is doing precisely the wrong thing with it (MN 22). The simile is about teachings; applied to the self it is exact. The self is equipment for crossing, for working, loving and contributing, and polishing it as an end in itself is the raft on the head. The compendium's framing: self-development serves a life of meaning, connection and engagement, not the reverse.
+The Buddhist image for this principle is the raft. The Dhamma is taught "for the purpose of crossing over, not for the purpose of holding onto", and the man who, having crossed the flood, hoists the raft on his head and carries it wherever he goes is doing precisely the wrong thing with it (MN 22). The simile is about teachings; applied to the self it fits the principle's point. The self is equipment for crossing, for working, loving and contributing, and polishing it as an end in itself is the raft on the head. The compendium's framing: self-development serves a life of meaning, connection and engagement, not the reverse.
 
 > "In the same way, monks, I have taught the Dhamma compared to a raft, for the purpose of crossing over, not for the purpose of holding onto. Understanding the Dhamma as taught compared to a raft, you should let go even of Dhammas, to say nothing of non-Dhammas." (MN 22, trans. Thanissaro Bhikkhu)
 
-**Plain words** The self is not the point. It's the instrument. People who make self-improvement the goal end up polishing the violin and never playing. The self exists to serve a life — work, love, contribution — and it develops best as a side-effect of going after those things directly.
+**Plain words** Work on yourself the way you'd work on a tool: so that you can do the things you care about. A life of work, love and contribution is the point; the self that can carry it out is the means.
 
-*For example:* The person who's read every self-help book and knows their attachment style, enneagram number, and love languages, but hasn't started the business, had the hard conversation, or taken the trip — is holding the map and never leaving the house. The self grows in use, not in polish.
+*For example:* Someone might read about their attachment style and still feel unable to raise a difficult issue at work. The learning has not helped the life yet; the difficult conversation is still waiting.
 ## Psychology parallels
 
 - **Self and well-being**, self-processes are in service of well-being, not identical to it (Ryan & Deci, 2001; Seligman, 2011)
