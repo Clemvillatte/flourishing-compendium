@@ -190,3 +190,8 @@
 - PMID 24091020 (2013 C&C) used via its PubMed abstract snippet (healthy coping,
   dysphoria relation); marked as abstract-level support.
 - Walker et al. 2003 kept as seed citation line; the seed's summary line preserved.
+
+## Flexibility in coping (fast-track)
+- Opened: PubMed 26173226 (Bonanno & Burton 2013, PPS 8, 591-612) — fallacy of
+  uniform efficacy and the three sequential components quoted verbatim; dynamic
+  person-situation interaction; no single-strategy claims beyond the abstract.
