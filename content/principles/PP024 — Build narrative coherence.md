@@ -12,13 +12,21 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 ---
 > **Principle 24** — Build narrative coherence
 
-The capacity to construct a coherent narrative of one's life, with a sense of continuity, purpose, and growth, predicts well-being. The narrative does not need to be positive; it needs to be coherent. Research on narrative identity (McAdams) shows that redemptive sequences, in which suffering leads to growth, predict well-being and generativity.
+Narrative identity, in McAdams and McLean's formulation, is a person's internalized and evolving life story, integrating the reconstructed past and imagined future to provide life with some degree of unity and purpose. The research programme codes the stories for sequence types. A redemption sequence marks a transition in a life narrative account from an emotionally negative scene to a positive outcome or attribution about the self; contamination runs the other way. In the 2001 study, midlife adults high in generativity showed significantly higher levels of redemption and lower levels of contamination sequences, and redemption sequences were positively associated with self-report measures of psychological well-being in both samples.
 
-(McAdams, 2013; McAdams et al., 2001.)
+> Research into the relation between life stories and adaptation shows that narrators who find redemptive meanings in suffering and adversity, and who construct life stories that feature themes of personal agency and exploration, tend to enjoy higher levels of mental health, well-being, and maturity.
+> (McAdams and McLean 2013, Current Directions in Psychological Science 22(3))
 
-**Plain words** Being able to tell a coherent story of your life, with continuity, purpose and growth, predicts well-being. The story needn't be positive, just coherent. Research on narrative identity finds that redemptive stories, where suffering leads to growth, go with better well-being, though they can also mask real wounds.
+The principle's claim is about coherence, not cheerfulness. The story does not have to be positive; it has to hold together, with continuity and an arc the narrator can stand behind. The compendium's application: when a life feels shapeless, the working move is a better draft rather than a better mood, telling the story again with the turning points named. One caution travels with the research: a redemptive story can also mask a real wound, and forcing suffering into a growth arc for the sake of the form is not what the finding rewards.
+
+**Plain words** Two people can live the same events and only one of them has a story. The difference is not the events; it is whether the telling has shape: where it started, what changed, what the change cost, what the narrator did next. Sit down and write one paragraph of your life with a beginning, a middle and a turn in it. Most people find the paragraph wants revision, and the revision is where the coherence comes from.
 
 *For example:* Someone who says "the divorce taught me what I need" tells a story that helps her go on.
+
+## Sources
+
+- [McAdams and McLean, Narrative Identity, Current Directions in Psychological Science 2013 (author copy PDF)](https://is.muni.cz/el/1421/podzim2013/PSB_443/um/5__Oct_29__Narrative_Identity.pdf) — 22(3), 233-238
+- [McAdams, Reynolds, Lewis, Patten and Bowman, When Bad Things Turn Good and Good Things Turn Bad, PSPB 2001](https://journals.sagepub.com/doi/10.1177/0146167201274008) — 27(4)
 
 ## Stories
 
@@ -31,7 +39,7 @@ The capacity to construct a coherent narrative of one's life, with a sense of co
 ## Psychology parallels
 
 - [[Narrative identity|Narrative identity]] (McAdams, 2013)
--  (McAdams et al., 2001)
+- [[Narrative redemption sequences|Narrative redemption sequences]] (McAdams et al., 2001)
 
 ## Philosophy parallels
 
