@@ -12,19 +12,30 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 494** — Practise Gelassenheit (releasement)
 
-Cultivate the capacity for releasement — the letting-be of things. Gelassenheit is not passivity but the active practice of releasing the grip of willing, controlling, and possessing. It is the openness that lets things appear as they are, not as resources to be used. Practise releasement in your relationship with the world.
+Heidegger's 1955 Memorial Address, printed in Discourse on Thinking (trans. John M. Anderson and E. Hans Freund, Harper and Row, 1966, p. 54), applies the word to our dealings with technology ([full text on the Internet Archive](https://archive.org/stream/heidegger-discourse-on-thinking/Heidegger%20-%20Discourse%20on%20Thinking_djvu.txt)):
 
-(Heidegger, 1959/1966, Discourse on Thinking; Heidegger, 1954/1971, "Building Dwelling Thinking," in Poetry, Language, Thought.)
+> We let technical devices enter our daily life, and at the same time leave them outside, that is, let them alone, as things which are nothing absolute but remain dependent upon something higher. I would call this comportment toward technology which expresses "yes" and at the same time "no," by an old word, releasement toward things.
 
-**Plain words** Gelassenheit (releasement): the letting-be of things — not passivity but the active practice of releasing the grip of willing, controlling, possessing. The openness that lets things appear as they are, not as resources. Practise the release of the grip.
+He adds that this takes effort, which fits the page's insistence that releasement is not passivity (p. 55-56):
 
-*For example:* The gardener who stops engineering the garden and lets it show what it wants to be — same tools, same knowledge, opposite grip. The release isn't neglect; it's a different, harder skill than the controlling ever was.
+> Yet releasement toward things and openness to the mystery never happen of themselves. They do not befall us accidentally. Both flourish only through persistent, courageous thinking.
+
+(Heidegger, Discourse on Thinking, Memorial Address.)
+
+**Plain words** In this text releasement means using things without treating them as the last word, and staying open to what they mean. Heidegger says it takes steady thinking. The wider reading of it as a general loosening of will and control comes from the Conversation that follows in the book, which was not opened for this page.
+
+For example (imagined): someone uses a phone for work, then leaves it in another room for dinner. They neither refuse it nor obey it.
+
+## Sources
+
+- Martin Heidegger, [Discourse on Thinking](https://archive.org/stream/heidegger-discourse-on-thinking/Heidegger%20-%20Discourse%20on%20Thinking_djvu.txt), trans. Anderson and Freund (Harper and Row, 1966), Memorial Address, pp. 54-56 (Internet Archive full text)
+
 ## Psychology parallels
 
-- **[[Acceptance|Acceptance and letting go]]** (Hayes et al., 2006; Kabat-Zinn, 1990)
+- **[[Acceptance|Acceptance and letting go]]** (Hayes et al., 2006; Kabat-Zinn, 1990; not verified)
 - **[[Non-attachment|Non-attachment]]** (Buddhist tradition; Volume I)
 
 ## Philosophy parallels
 
 - **[[Gelassenheit|Gelassenheit (releasement)]]** (Heidegger, Discourse on Thinking)
-- **[[Letting-be|Letting-be]]** (Heidegger, "The Question Concerning Technology")- **[[Gelassenheit|Gelassenheit]]** (Existentialism & Phenomenology)
+- **[[Letting-be|Letting-be]]** (Heidegger, Discourse on Thinking)- **[[Gelassenheit|Gelassenheit]]** (Existentialism & Phenomenology)

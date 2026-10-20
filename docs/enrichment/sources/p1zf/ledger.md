@@ -41,3 +41,7 @@
 ## E078 — Situated embodiment and gender
 - Source opened: SEP Beauvoir (Bergoffen & Burke) sections 7, 13 (verbatim). The Second Sex itself not opened (the marxists.org ch01 page opened did not contain the line). English wording of the famous line varies by translation (1953 "a woman", 2010 "woman"); the old page's wording "one is not born, but rather becomes, a woman" in the principle statement is left as is (protected), page notes the variants.
 - Merleau-Ponty Part II ch. 4 and Fanon, Black Skin White Masks not opened; dropped from body. Extension to race/class/ability flagged as compendium's. Bem/Butler/Cross bullets unverified. Runners example replaced with imagined hedge.
+
+## E102 — Gelassenheit
+- Source opened (curl, grep verified verbatim): Heidegger, Discourse on Thinking, trans. Anderson & Freund (Harper & Row 1966), Memorial Address, Internet Archive full text; quotes on releasement toward things (p. 54) and "never happen of themselves" (pp. 55-56; page numbers from Minerva article and archive excerpts).
+- The Conversation on a Country Path (source of "releasing the grip of willing") not read; page says so. "Building Dwelling Thinking" cited in the old line not opened, dropped. Philosophy bullet "Letting-be (The Question Concerning Technology)" re-pointed to Discourse on Thinking (the QCT attribution unverified). Hayes/Kabat-Zinn bullet marked unverified. Gardener example replaced with imagined phone example.
