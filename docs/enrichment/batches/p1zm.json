@@ -31,10 +31,11 @@
   "MO017": "Reopened for QC: QC: advisor batch round-1 repairs (items 7-12)",
   "MO022": "Reopened for QC: QC: advisor batch round-1 repairs (items 7-12)",
   "MO025": "Reopened for QC: QC: advisor batch round-1 repairs (items 7-12)",
-  "MO049": "Reopened for QC: QC: advisor items 13-16 repairs"
+  "MO049": "Reopened for QC: QC: advisor items 13-16 repairs",
+  "PP013": "protected wikilink label 'Gratitude and well-being meta-analysis' mislabels Wood et al. 2010 (a review, not a meta-analysis) — label changes are validator-protected; supervisor/owner decision needed"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T10:43:46+00:00",
+ "updated": "2026-10-20T10:45:33+00:00",
  "band_done": false
 }

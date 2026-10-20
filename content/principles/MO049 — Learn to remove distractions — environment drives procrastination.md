@@ -12,14 +12,14 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 ---
 > **Principle 49** — Learn to remove distractions: environment drives procrastination
 
-Procrastination is often driven by distraction, and the environment is the distraction's carrier. The smartphone studies found the cost works even against disciplined attention:
+Distraction usually has an address: the environment. The smartphone studies measured cognitive capacity with disciplined attention in view:
 
 > "Results from two experiments indicate that even when people are successful at maintaining sustained attention—as when avoiding the temptation to check their phones—the mere presence of these devices reduces available cognitive capacity." (Ward, Duke, Gneezy & Bos, "Brain Drain", Journal of the Association for Consumer Research, 2017, abstract)
 
-The practical edge of the finding: resisting is itself work, which is why "just ignore it" is worse advice than "other room". The replication record is honest to check too: a 2023 meta-analysis pooled a small significant negative effect (g = -0.14, 95% CI -0.24 to -0.03), with the original studies' individual effects uncertain. Treat the design as a cheap experiment rather than a settled law: try the workspace without the phone and observe what happens to the work.
+The replication record, checked honestly: a 2023 meta-analysis of the smartphone presence literature pooled a small significant negative effect (g = -0.14, 95% CI -0.24 to -0.03), and the pooled result covers smartphone use and presence together rather than a clean test of mere presence; the original studies' individual effects were uncertain. This page's suggested practice, which goes beyond what the capacity studies measured: treat the design as a cheap experiment — same task, two hours, phone in reach for one and in another room for the other — and see which hour's work goes better.
 
 **Plain words**
-The phone on the desk is not neutral. Ignoring it is work: the ignoring runs in the background and eats the same attention the task needs. That is the case for the other room, and it is arithmetic rather than moral. Move the distraction out of reach and you delete the ignoring job. Try it as an experiment on your own work: same task, two locations for the phone, and see which hour goes better.
+The studies measured cognitive capacity, not procrastination. The practice they suggest is a two-hour experiment on your own work: same task, two hours, phone in reach for one and in another room for the other, and see which hour's work goes better.
 
 *For example:* The writer who works with the router unplugged — not because they lack discipline, but because they would rather not spend that discipline on ignoring the internet.
 
