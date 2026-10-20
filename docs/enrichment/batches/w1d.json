@@ -69,8 +69,8 @@
   "Working memory capacity limits": "RESOLVED 2026-10-20: advisor closure round scoped prose PASS; Cowan 2001 PDF opened; validated vs seed baseline b20024da^ (1 ok); full record in docs/enrichment/sources/w1d/ledger.md"
  },
  "missing_concepts": [],
- "sources_checked": 132,
- "updated": "2026-10-20T04:26:44+00:00",
+ "sources_checked": 135,
+ "updated": "2026-10-20T04:30:20+00:00",
  "qc_log": {
   "Escape from freedom": "approved after 4 advisor QC rounds: quotes verified against opened sources (panarchy ch. V excerpt, Wikipedia, IEP Totalitarianism 2.d, SEP Critical Theory 1.4); Simondon Individuation and The having mode removed from Related; cross-tradition links labelled comparisons; sources_checked: 4",
   "Eternal recurrence": "milestone advisor QC applied: practical-reading attribution qualified; AF069 described as the compendium's separate comparison; Panta rhei, Corsi e ricorsi and Three thousand realms claims externally verified; 'Thou art a God' capitalisation matches primary text",

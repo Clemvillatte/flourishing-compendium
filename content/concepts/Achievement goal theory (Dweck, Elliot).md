@@ -16,21 +16,17 @@ Dweck's original distinction, in her words ([Dweck, 1986, p. 1040](https://gwern
 
 > "Achievement motivation involves a particular class of goals--those involving competence--and these goals appear to fall into two classes: (a) learning goals, in which individuals seek to increase their competence, to understand or master something new, and (b) performance goals, in which individuals seek to gain favorable judgments of their competence or avoid negative judgments of their competence"
 
-Dweck describes two patterns of behaviour alongside the two goals. Of the adaptive pattern she writes that it "is characterized by challenge seeking and high, effective persistence in the face of obstacles," while the maladaptive "helpless" pattern shows "challenge avoidance and low persistence in the face of difficulty" (p. 1040). In her summary, children who believe intelligence is a fixed trait tend to orient toward performance goals, while children who believe it is a malleable quality tend to orient toward learning goals (p. 1041). That link connects this theory to the compendium's pages on implicit theories of intelligence and growth mindset.
+Dweck describes two patterns of behaviour alongside the two goals. Of the adaptive pattern she writes that it "is characterized by challenge seeking and high, effective persistence in the face of obstacles," while the maladaptive "helpless" pattern shows "challenge avoidance and low persistence in the face of difficulty" ([Dweck, 1986, p. 1040](https://gwern.net/doc/psychology/personality/1986-dweck.pdf)). In her summary, children who believe intelligence is a fixed trait tend to orient toward performance goals, while children who believe it is a malleable quality tend to orient toward learning goals ([Dweck, 1986, p. 1041](https://gwern.net/doc/psychology/personality/1986-dweck.pdf)). That link connects this theory to the compendium's pages on implicit theories of intelligence and growth mindset.
 
 ### Approach and avoidance
 
-Elliot and Church kept the mastery goal and split the performance category in two, producing a trichotomous framework of mastery, performance-approach and performance-avoidance goals, embedded in a hierarchical model of approach and avoidance motivation. Elliot later defined the underlying distinction this way:
+Elliot and Church kept the mastery goal and split the performance category in two, producing a trichotomous framework of mastery, performance-approach and performance-avoidance goals, embedded in a hierarchical model of approach and avoidance motivation ([Elliot and Church, 1997](https://api.openalex.org/works/doi:10.1037/0022-3514.72.1.218)). Elliot later defined the underlying distinction this way:
 
 > "Approach motivation is the energization of behavior by, or the direction of behavior toward, positive stimuli (objects, events, possibilities), whereas avoidance motivation is the energization of behavior by, or the direction of behavior away from, negative stimuli (objects, events, possibilities)"
 
 ([Elliot, The Hierarchical Model of Approach-Avoidance Motivation, 2006, p. 111](https://link.springer.com/content/pdf/10.1007/s11031-006-9028-7.pdf))
 
-In the college-classroom study, the authors reported favorable results for mastery goals on intrinsic motivation and for performance-approach goals on graded performance, and unfavorable results for performance-avoidance goals on both outcomes ([Elliot and Church, 1997](https://api.openalex.org/works/doi:10.1037/0022-3514.72.1.218)).
-
-### Evidence and limits
-
-The findings come from a single college-classroom study, and they concern two outcomes there: intrinsic motivation and graded performance. Performance-approach goals were not uniformly harmful in that study, since they went with better grades. The theory's claim is narrower than "mastery is good and performance is bad": it concerns what each kind of goal does to how a person reads failure and effort.
+In the college-classroom study, the authors reported favorable results for mastery goals on intrinsic motivation and for performance-approach goals on graded performance, and unfavorable results for performance-avoidance goals on both outcomes ([Elliot and Church, 1997](https://api.openalex.org/works/doi:10.1037/0022-3514.72.1.218)). The abstract describes a college-classroom test; this page does not generalize those results to other settings.
 
 ### In the compendium
 
