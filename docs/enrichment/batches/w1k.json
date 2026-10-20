@@ -10,7 +10,8 @@
   "Svadharma, one's own duty",
   "Intuition as method",
   "Ironic process",
-  "Lifespan development"
+  "Lifespan development",
+  "Mattering"
  ],
  "in_progress": null,
  "flagged": {
@@ -23,10 +24,11 @@
   "Intuition as method": "QC3 citation-only pass: citation added to the 'Analysis moves round an object...' sentence. Validated vs seed baseline c2a3ee47: ok.",
   "Ironic process": "QC3 citation-only pass: citations added to 'It distinguishes an effortful operating process...' and 'The white bear experiments found the rebound effect...'. Validated vs seed baseline c2a3ee47: ok.",
   "Lifespan development": "QC3 citation-only pass: citations added to the seed-line assertion, the 'Bleidorn et al. (2022) summarize...' sentence, and the maturity-principle lead-in. Validated vs seed baseline c2a3ee47: ok.",
-  "Love": "QC2 REPAIR (advisor re-check): inline citations added to both factual lead-ins (citation-placement rule). Validated vs seed baseline c2a3ee47: ok."
+  "Love": "QC2 REPAIR (advisor re-check): inline citations added to both factual lead-ins (citation-placement rule). Validated vs seed baseline c2a3ee47: ok.",
+  "Mattering": "NOTE: the seed line's predictive assertion ('feeling that one's actions matter predicts well-being (Pratt et al., 2010; George and Park, 2016)') was not re-asserted — inherited wording is not evidence (Ironic-process precedent); Pratt et al. 2010 and the prediction claim were not verifiable from opened sources. Grounded instead in two opened peer-reviewed sources: Flett and Zangeneh 2020 (Journal of Concurrent Disorders commentary; fetched; Rosenberg-McCullough three-components blockquote verbatim) and Costin and Vignoles 2020 (Meaning Is About Mattering; fetched; existential-mattering definition blockquote verbatim, actions-make-a-difference sentence as attributed paraphrase grounded in the same paper). Both source lines for the inherited references (Pratt et al., George and Park, Rosenberg and McCullough) preserved in Sources; P153 Cited-in preserved; malformed seed bullet ('- ## Cited in philosophy parallels') regularized into proper empty section headers. All lead-in sentences carry inline citations. Validated vs seed baseline c2a3ee47: ok."
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T07:23:55+00:00",
+ "updated": "2026-10-20T07:26:24+00:00",
  "band_done": false
 }
