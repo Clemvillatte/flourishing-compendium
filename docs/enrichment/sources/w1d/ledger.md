@@ -135,3 +135,13 @@
 **Incidents.** ONE dash-limit validation failure on this item (4 dashes in prose, max 3), caught before any state change or push and fixed. (The Anchors dash failure is recorded under its own entry.) The Anchors done-marking cleared this item's in_progress marker; restored via the state tool before closing.
 
 **Scope notes.** The seed body line "postural and environmental interventions for low energy (Yerkes-Dodson)" was replaced — not supported by the opened sources. sources_checked +6 already applied (items 6-10 plus the Jones source); not repeated. Validator --fast-track: 1 ok.
+
+---
+
+## Attachment theory — completed 2026-10-20 (worker-w1d-4c8e1b3a, FAST-TRACK)
+
+**Eligibility.** Graph degree 12 (< 15); no unresolved QC findings; inside owned band w1d. Fast-track per PROTOCOL.md §1a.
+
+**Sources opened (1).** Shaver and Mikulincer 2005, "Attachment theory and research: Resurrection of the psychodynamic approach to personality," Journal of Research in Personality 39:22-45, full PDF at https://adultattachment.faculty.ucdavis.edu/wp-content/uploads/sites/66/2015/09/Shaver_2005_Attachment-theory-and-research.pdf (downloaded and read; 24 pages). Blockquote (the Bowlby 1982/1969 behavioral-system passage) and all inline fragments (core sense of security, two secondary strategies, working-models sentence) verified verbatim against the PDF text with Elsevier extraction artifacts normalized (W->fi ligature, broken spacing).
+
+**Scope notes.** The seed page contained hub-import fragments after "## Cited in philosophy parallels" (bold entries, a "## Field" header, orphan links); all nine seed wikilinks (S039, SP013 twice, SE048, E090, SP086, SE047, D104, PP034, SE029) are preserved in the Cited-in psychology list, with SP013 kept twice to match the seed's occurrences. The seed's non-wikilink fragment prose was replaced by the sourced body. Bowlby's own texts and Mikulincer & Shaver 2007 were NOT opened — kept as seed source lines only. Saturation hunt and cross-link proposals skipped per §1a. Validator --fast-track: 1 ok.
