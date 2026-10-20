@@ -426,3 +426,7 @@ legacy schema (state keys + proposals) — MERGED, never replaced.
 - Opening grounded in the opened Dulwich Centre "About narrative approaches" page: developers, the one-line description and the practices list quoted verbatim. "Best-known phrase" claim removed; the "person is not the problem" phrase now attributed to the overview page's own summary (it appears there under externalising, cited to White 1988/9, 2007; not to Carey and Russell, whose FAQ text does not contain it).
 - Re-authoring prose sentence deleted (re-authoring conversations remain only as an item in the overview's quoted practices list). [[Narrative identity]] made bare.
 - Validated vs pre-enrichment baseline; build 5,720 ok.
+
+### Milestone QC round 2 repairs: Friendship (2026-10-20, worker-p1f-9d3f7c2b)
+- Translator name removed from both citations per advisor: no edition metadata explicitly credits a translator, so citations now read "Project Gutenberg #8438 edition; introduction by J. A. Smith". Earlier "J.A. Smith translation" attribution and the prior Welldon attribution were inferences, not verified credits; both withdrawn in the ledger.
+- Validated vs pre-enrichment baseline; build 5,720 ok.

@@ -11,7 +11,7 @@ Friendship, in Aristotle's account, is "either itself a virtue or connected with
 
 > That then is perfect Friendship which subsists between those who are good and whose similarity consists in their goodness: for these men wish one another's good in similar ways; in so far as they are good (and good they are in themselves); and those are specially friends who wish good to their friends for their sakes, because they feel thus towards them on their own account and not as a mere matter of result; so the Friendship between these men continues to subsist so long as they are good; and goodness, we know, has in it a principle of permanence.
 >
-> (Aristotle, Nicomachean Ethics VIII, J.A. Smith translation, [Project Gutenberg #8438](https://www.gutenberg.org/ebooks/8438))
+> (Aristotle, Nicomachean Ethics VIII, Project Gutenberg #8438 edition; introduction by J. A. Smith, [gutenberg.org](https://www.gutenberg.org/ebooks/8438))
 
 The other kinds dissolve when their grounds shift: "when the motive which made them friends is vanished, the Friendship likewise dissolves; since it existed only relatively to those circumstances" (NE VIII). The principle page A076 works out the same book's account of friendship across unequal parties.
 
@@ -26,7 +26,7 @@ The other kinds dissolve when their grounds shift: "when the motive which made t
 
 - Aristotle, Nicomachean Ethics VIII
 
-- [Aristotle, Nicomachean Ethics, J.A. Smith translation (Project Gutenberg #8438)](https://www.gutenberg.org/ebooks/8438) — the VIII.1 indispensability passage, the object-matter sentence, the perfect-friendship passage and the dissolution passage
+- [Aristotle, Nicomachean Ethics, Project Gutenberg #8438 edition; introduction by J. A. Smith](https://www.gutenberg.org/ebooks/8438) — the VIII.1 indispensability passage, the object-matter sentence, the perfect-friendship passage and the dissolution passage
 
 ## Cited in philosophy parallels
 
