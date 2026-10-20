@@ -12,11 +12,20 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AT — Attentio
 ---
 > **Principle 42** — Recognise the role of sleep in attention: sleep deprivation destroys concentration
 
-Sleep is the foundation of attentional capacity. Even partial sleep deprivation (one night of 4-6 hours) significantly impairs sustained attention, executive control, and reaction time. Chronic sleep deprivation produces cumulative attentional deficits.
+Sleep loss and attention travel together, and the size of the effect has been measured. Lim and Dinges's meta-analysis gathered 70 articles containing 147 cognitive tests of short-term total sleep deprivation, under 48 hours, across six cognitive categories, and the effects ran from small and nonsignificant for reasoning accuracy to large for lapses in simple attention. (Lim & Dinges, 2010.)
 
-**Plain words** Sleep is attention's rent — skip it and you get evicted from your own focus. Even one bad night measurably wrecks concentration; a chronic shortage quietly becomes your "personality." The cheapest focus tool in existence is a bedtime.
+> "Effect sizes ranged from small and nonsignificant (reasoning accuracy: g = -0.125, 95% CI [-0.27, 0.02]) to large (lapses in simple attention: g = -0.776, 95% CI [-0.96, -0.60], p < .001)." (Lim & Dinges, 2010, [Psychological Bulletin 136(3):375-389](https://pubmed.ncbi.nlm.nih.gov/20438143/))
 
-*For example:* "I'm just bad at focusing" — said by the person who sleeps five and a half hours and has three coffees before noon. The focus isn't broken; it's tired.
+The pattern matters for this principle: the largest effect in the meta-analysis was on lapses in simple attention, the capacity the compendium's exercises train. The meta-analysis covers total deprivation of under 48 hours in laboratory conditions; the parallels below cite a separate literature on chronic partial restriction, which this page does not re-verify. What the compendium takes from the opened source is narrow and useful: before diagnosing your attention as broken, check the hours. (Lim & Dinges, 2010.)
+
+**Plain words**
+Attention is one of the first things sleep loss takes. In the studies behind this page, the biggest measured effect of a night without sleep was lapses in simple attention: moments where the mind briefly stops responding. If your concentration feels broken, the first thing to check is how you slept.
+
+*For example:* Imagine someone who sleeps five and a half hours and has three coffees before noon, and who has begun to say they are just bad at focusing. The compendium's exercise is to check the sleep first.
+
+## Sources
+
+- [Lim & Dinges (2010), A meta-analysis of the impact of short-term sleep deprivation on cognitive variables, Psychological Bulletin 136(3):375-389](https://pubmed.ncbi.nlm.nih.gov/20438143/)
 ## Psychology parallels
 
 - **Sleep deprivation impairs attention**, even one night of partial sleep loss degrades sustained attention (Lim & Dinges, 2010; Alhola & Polo-Kantola, 2007)

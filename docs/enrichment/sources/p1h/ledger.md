@@ -487,3 +487,19 @@ done for BE052/BI032/BI045. Content items flagged for the new p1h owner (below).
 - MILESTONE (items AT013/AT016/AT035/AT039) CLOSED: advisor approved the submitted
   passages; explicit-baseline validation 4/4 ok vs b3428a18; scope is the reviewed
   passages, not independent certification of every claim on the four pages.
+
+### AT042 (2026-10-20, worker-p1h-7d3e9c4a)
+
+- Source opened: Lim & Dinges 2010 meta-analysis abstract (Psychological Bulletin
+  136(3):375-389, PubMed 20438143). Blockquote verbatim (effect sizes sentence);
+  the 70 articles / 147 tests / six categories figures from the same opened abstract.
+- Seed-body claims scoped: "one night of 4-6 hours" (partial restriction) replaced
+  with the meta-analysis's own scope (total deprivation under 48 hours); the chronic-
+  restriction claim moved to an explicit note pointing at the inherited parallels;
+  "attention's rent"/"evicted" metaphors, "cheapest focus tool" closer, "quietly
+  becomes your personality" removed; plain words re-derived (lapses in simple
+  attention); example reframed as the compendium's check-the-sleep-first exercise.
+- Linked-concept reads: Sleep deprivation (seed; impairs attention; cites Lim &
+  Dinges — consistent), Yangsheng and Care cited in the philosophy parallels
+  (untouched). Mention scan (sleep deprivation) — AT042 already cited by 8 concepts
+  + layer; no justified new proposals. Validator ok.
