@@ -12,11 +12,16 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 179** — Recognise that your thoughts are not you
 
-You are not your thoughts. You are the one who observes them. The thought "I am a failure" is a mental event, not a fact about you. The Stoic practises identifying with the observer, not the observed.
+The thought "I am a failure" arrives like any appearance; something in you receives it and can approve or disapprove. Epictetus opens the Discourses with the question of which faculty judges: "What faculty then will tell you? That which contemplates both itself and all other things. And what is this faculty? The rational faculty; for this is the only faculty that we have received which examines itself" (Disc. I.1). The judgment is added by the contemplator, not the appearance.
 
-(Disc. I.1, I.14, III.3; Ench. 1; Med. VII.35, XII.8.)
+> "For what else is there which tells us that golden things are beautiful, for they do not say so themselves? Evidently it is the faculty which is capable of judging of appearances." (Epictetus, Discourses I.1, Long)
 
-**Plain words** You aren't your thoughts. You're the one who observes them. "I'm a failure" is a mental event, not a fact about you. Practise identifying with the observer rather than the observed.
+The Enchiridion draws the ownership line: "What then is your own? The use of appearances" (Ench. 6). A thought is not yours until you assent to it. The Stoic practises standing at that gap: watch the thought arrive, name it, decide.
+
+(Disc. I.1; Ench. 6.)
+
+**Plain words**
+A thought arrives the way a sound arrives: unasked. The Stoic claim is that between the arrival and your next action there is a gap, and in that gap stands the part of you that can look at the thought instead of from inside it. The exercise is small: when "I'm a failure" shows up, say the sentence back to yourself with "I'm noticing the thought that..." in front of it. The thought loses nothing by being watched; the watcher gains the freedom to decide whether to act on it.
 
 *For example:* Noticing "there's the 'I'm a failure' thought again" and seeing it as weather.
 
@@ -26,6 +31,10 @@ You are not your thoughts. You are the one who observes them. The thought "I am 
 - [[ST202 — The View from Above|202. The View from Above]]
 - [[ST203 — Socrates as the Stoic Before the Stoics|203. Socrates as the Stoic Before the Stoics]]
 - [[ST204 — Truman Tests the Water|204. Truman Tests the Water]]
+## Sources
+
+- [Epictetus, Discourses I.1 and Enchiridion 6 (George Long translation), Delphi Complete Works of Epictetus, owner's Drive library](https://drive.google.com/file/d/1EDkL63FuSpabjbB7amxNodYocj_q_vaH/view?usp=drive_link) — the self-examining rational faculty; "the use of appearances"
+
 ## Psychology parallels
 
 - **[[Self-as-context|Self-as-context in ACT]]** (Hayes et al., 2011)
