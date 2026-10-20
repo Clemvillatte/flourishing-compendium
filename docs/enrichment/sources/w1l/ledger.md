@@ -751,3 +751,12 @@ convention).
 - No In-the-compendium block (fast-track bar; five principle links preserved in Cited-in).
 - Saturation: fast-track exemption; no reciprocal proposed.
 - QC: validator ok at fast-track profile; no advisor QC (item 12; next at item 15).
+
+## Interoception (fast-track, genuineflourishing01, 2026-10-20)
+- Degree 10 at selection (5 concepts incl. Mindfulness 38, HRV theory 25, Body scan 21; 5 principles incl. P139) — fast-track eligible per §1a (<15).
+- Sources opened, both UNPROMPTED PubMed fetches: (1) Craig 2003, Curr Opin Neurobiol 13(4):500-505 (PMID 12965300) — blockquote verified character-for-character from the abstract; feelings enumeration grounded in the same abstract. (2) Seth 2013, Trends Cogn Sci 17(11):565-573 (PMID 24126130) — interoceptive-inference model sentences grounded in the abstract.
+- "the definition Craig's 2003 review carries in its title" — grounded in the fetched record's title. The 2002 Nat Rev Neurosci paper (PMID 12154366) noted as the original definition carrier in the similar-articles list; NOT separately opened or cited.
+- Inherited seed citation lines (Seth 2013; Craig 2009; Barrett et al. 2019; Khalsa et al. 2018) kept; my new prose asserts only what the two opened abstracts support. Craig 2009 (PMID 19096369) NOT opened — the right-anterior-insula sentence is grounded in the Craig 2003 abstract ("In humans, a meta-representation... right anterior insula... material self as a feeling (sentient) entity, that is, emotional awareness"), not in the 2009 paper.
+- No In-the-compendium block (fast-track bar; Related concepts and Cited-in preserved).
+- Saturation: fast-track exemption; no reciprocal proposed (both Related targets already link back per the neighbor census).
+- QC: validator ok at fast-track profile; no advisor QC (item 13; next at item 15).
