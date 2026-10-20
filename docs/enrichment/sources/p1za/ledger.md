@@ -1,0 +1,8 @@
+# p1za source ledger (worker-p1za-5e1b7a93)
+
+No separate advisor tool available to this session; quotes are checked programmatically against raw extracted text (pdftotext / fetched page) and recorded here. Inherited parallels not re-opened are not certified.
+
+## CO026
+- Rozenblit and Keil 2002, Yale PDF (opened, pdftotext): abstract sentence; p. 530 results/discussion sentence and "genuine surprise and new humility" verified verbatim; Study 1 = 16 Yale graduate students, 7-point scale, devices incl. zipper, cylinder lock, flush toilet.
+- Fernbach et al. 2013: abstract (PubMed, opened). Walker et al. 2024 Political Psychology 45(3): abstract (Wiley, opened; replication in Hong Kong, 5,139 citizens, opposite pattern).
+- Limits: only abstracts of Fernbach and Walker opened; no claim beyond abstracts. Inherited Boorstin/Wittgenstein/Plato parallels untouched, not certified.

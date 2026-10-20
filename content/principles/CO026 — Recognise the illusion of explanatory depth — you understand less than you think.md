@@ -12,11 +12,26 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 ---
 > **Principle 26** — Recognise the illusion of explanatory depth: you understand less than you think
 
-People believe they understand complex systems (how a zipper works, how a policy functions, how their own mind works) far better than they actually do. When asked to explain in detail, the illusion collapses. This has direct implications for confidence in opinions.
+Rozenblit and Keil open their 2002 paper with the claim behind this principle:
 
-**Plain words** The illusion of explanatory depth: you believe you understand complex systems far better than you do — until asked to explain them in detail, at which point the understanding evaporates. Test your understanding by explaining; it's the only audit that works.
+> "People feel they understand complex phenomena with far greater precision, coherence, and depth than they really do; they are subject to an illusion—an illusion of explanatory depth." (Rozenblit and Keil, 2002, abstract, [Cognitive Science 26(5), 521](https://cogdevlab.yale.edu/sites/default/files/files/rozenblit%20&%20keil%20%202002.pdf))
 
-*For example:* The person who "understands how the economy works" until their teenager asks them to explain inflation for two uninterrupted minutes — and the two minutes reveal the actual depth. The explanation test is free, humbling, and the best study method known.
+The illusion shows up when you try to explain. In their first study, sixteen Yale graduate students rated their understanding of everyday devices (a zipper, a cylinder lock, a flush toilet), wrote a step-by-step explanation of each, and rated again. The authors report: "Attempts to explain the various phenomena led to a decrease in self-rated understanding" (p. 530). Debriefing turned up "genuine surprise and new humility" (p. 530).
+
+Fernbach and colleagues carried the idea into politics. Asking people to explain a policy in detail "both undermined the illusion of explanatory depth and led to attitudes that were more moderate"; listing reasons for their preference did not do this (Fernbach et al., 2013, abstract, [PubMed](https://pubmed.ncbi.nlm.nih.gov/23620547/)). A 2024 replication with citizens of Hong Kong found the opposite pattern, with extremity higher when people articulated their understanding ([Walker et al., Political Psychology](https://onlinelibrary.wiley.com/doi/10.1111/pops.12938)). The depth illusion has strong support. Whether explaining softens political views is still in dispute.
+
+**Plain words**
+You can picture how something works and feel you know it, but a picture is not a mechanism. The gap only shows when you have to say what pushes what, one step after another. If you can't get through the steps, you don't yet understand it, however sure you felt. Explaining is the check, and it costs you only a few minutes.
+
+**For example**
+Rate from 1 to 7 how well you understand how a zipper works. Then write down, step by step, how its teeth lock together. Rate yourself again. The participants in Rozenblit and Keil's first study re-rated lower after this exercise.
+
+## Sources
+
+- [Rozenblit and Keil, The misunderstood limits of folk science: an illusion of explanatory depth, Cognitive Science 26 (2002), Yale PDF](https://cogdevlab.yale.edu/sites/default/files/files/rozenblit%20&%20keil%20%202002.pdf): abstract; pp. 526-530, Study 1 procedure, results and discussion
+- [Fernbach, Rogers, Fox and Sloman, Political extremism is supported by an illusion of understanding, Psychological Science 24(6) (2013), PubMed](https://pubmed.ncbi.nlm.nih.gov/23620547/): abstract
+- [Walker, Zhang and Cheng, Puncturing the knowledge illusion does not reduce policy and political extremism, Political Psychology 45(3) (2024), Wiley](https://onlinelibrary.wiley.com/doi/10.1111/pops.12938): abstract
+
 ## Psychology parallels
 
 - **[[Illusion of explanatory depth|Illusion of explanatory depth]]**, people's confidence in their understanding drops sharply when asked to explain mechanisms (Rozenblit & Keil, 2002; Fernbach et al., 2013)
