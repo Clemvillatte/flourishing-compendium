@@ -412,3 +412,23 @@ Short, item-keyed evidence notes (owner decision 2026-10-20, PROTOCOL-PRINCIPLES
   5 concept pages already cite SO056 (incl. Choice architecture, Nudge theory,
   Education as growth); no additional links warranted. Validator ok.
   DONE (no advisor QC due: item 19).
+
+## SP001 — Understand rather than condemn (item 20)
+- Sources opened: (1) Spinoza, Ethics Part III, Elwes translation, Gutenberg
+  (pg948.html — note the /files/948/948-h/ URL 404s; the cache URL works) — the
+  "lines, planes, and solids" sentence verified verbatim. NOTE: the Elwes wording is
+  "human actions and DESIRES ... lines, planes, and SOLIDS" (the body's paraphrase
+  says "appetites ... bodies", closer to Curley — kept as paraphrase, the blockquote
+  is the Elwes verbatim). (2) Spinoza, Political Treatise ch. I, Elwes (faculty.umb.edu)
+  — fetched; the maxim verified verbatim: "I have laboured carefully, not to mock,
+  lament, or execrate, but to understand human actions" (the page's paraphrase
+  "not to mock, not to lament, not to detest" reflects Curley's wording; the
+  blockquote carries the Elwes verbatim; the quote's source semicolon normalized to
+  a period).
+- Body: added both blockquotes after the method narration. Plain words re-derived
+  (was a semi-replicate: repeated the maxim and the weather metaphor from the body).
+  For example kept.
+- Inherited psychology parallels (Lieberman et al. 2007; Gross 2015) NOT
+  source-checked — flagged, not certified. Saturation: 5 concept pages already cite
+  SP001 (incl. Affect labeling, Diagnosis before prescription); no additional links
+  warranted. Validator ok. DONE (no advisor QC due: item 20; next at item 21).
