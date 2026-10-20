@@ -12,13 +12,19 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 453** — Practise tragic optimism
 
-Maintain hope in the face of tragedy. Frankl's concept of tragic optimism is the capacity to find meaning and purpose despite the inevitable tragedies of human existence: suffering, guilt, and death. It is not optimism (the belief that things will be fine) but the refusal to let suffering, guilt, or death rob life of meaning.
+Frankl calls pain, guilt and death the tragic triad, and asks how life can retain potential meaning in their presence ([Man's Search for Meaning, Postscript 1984, “The Case for a Tragic Optimism”](https://www.stgregoriosudaipur.ac.in/pdf/fiction/632ecf70b27a5-man-s-search-for-meaning.pdf)). His examples include learning from guilt and taking responsible action because life is temporary ([same section](https://www.stgregoriosudaipur.ac.in/pdf/fiction/632ecf70b27a5-man-s-search-for-meaning.pdf)).
 
-(Frankl, 1946/2006, Man's Search for Meaning; Lebowitz et al., 2022, "Tragic Optimism as a Predictor of Well-Being," Death Studies; Wong, 2016, "Self-Transcendence," Journal of Humanistic Psychology, 56(2), 152-167.)
+> optimism is not anything to be commanded or ordered.
 
-**Plain words** Tragic optimism: not optimism (things will be fine) but the refusal to be broken — the capacity to find meaning and purpose despite suffering, guilt, and death. Frankl's term for saying yes to life in spite of everything. Maintain the hope that's earned, not borrowed.
+(Frankl, Man's Search for Meaning, Postscript 1984; [opened text](https://www.stgregoriosudaipur.ac.in/pdf/fiction/632ecf70b27a5-man-s-search-for-meaning.pdf), sentence excerpt.)
 
-*For example:* The refugee family that has lost everything material — and builds again, in a new language, with the same recipes. Not denial of the tragedy; a stubborn "nevertheless" running through it.
+### Plain words
+
+You can ask whether something remains worth doing while admitting that what happened is terrible. There is no requirement here to feel cheerful or to make someone else's grief into an uplifting story.
+
+### For example
+
+Imagine someone who caused a serious breach of trust. They might acknowledge the harm, offer an apology without demanding forgiveness, and change their conduct; the possibility of repair need not erase the guilt or guarantee reconciliation.
 ## Psychology parallels
 
 - **[[Tragic optimism|Tragic optimism]]** (Wong, 2016; Lebowitz et al., 2022)
