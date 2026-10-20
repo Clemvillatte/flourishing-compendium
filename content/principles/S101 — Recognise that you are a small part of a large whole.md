@@ -12,13 +12,22 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 223** — Recognise that you are a small part of a large whole
 
-You are not the centre of the universe. You are a part of a whole that is vastly larger than you. The Stoic practises the awareness of this: not to diminish yourself but to see yourself in proportion.
+Marcus frames the thought as the first thing to establish: "Whether the universe is [a concourse of] atoms, or nature [is a system], let this first be established, that I am a part of the whole which is governed by nature" (Meditations X.6). The consequence, in the same section:
 
-(Med. II.3, II.9, IV.10, V.8, V.30, VI.42, VII.9, VII.19, VII.47, VIII.7, VIII.34, VIII.50, VIII.52, X.1, X.6, X.33, XI.1, XI.18, XII.36.)
+> "For remembering this, inasmuch as I am a part, I shall be discontented with none of the things which are assigned to me out of the whole; for nothing is injurious to the part if it is for the advantage of the whole." (Marcus Aurelius, Meditations, Book X, section 6, [George Long translation](https://www.gutenberg.org/cache/epub/15877/pg15877.txt))
 
-**Plain words** You aren't the centre of the universe. You're a small part of a vast whole. The point isn't to shrink yourself but to see yourself in proportion. That's usually a relief.
+The whole is not a loose heap: "All things are implicated with one another, and the bond is holy" (Meditations VII.9), and "We are all working together to one end, some with knowledge and design, and others without knowing what they do" (Meditations VI.42). The severed-hand image gives the negative case: "such does a man make himself, as far as he can, who is not content with what happens, and separates himself from others" (Meditations VIII.34) — and the same section adds that it is in your power to unite yourself again. The standing reminder is II.9's: what is the nature of the whole, and what is my nature, and what kind of a part it is of what kind of a whole.
+
+(Med. II.9, VI.42, VII.9, VIII.34, X.6.)
+
+**Plain words**
+As a practical exercise, describe your current complaint as an event in a system: what it is a part of, what else that system contains, and what your piece of it is. The exercise is not self-erasure; the part is real and has a function.
 
 *For example:* Realising your embarrassing moment at the party was forgotten by everyone within the hour.
+
+## Sources
+
+- [Marcus Aurelius, Meditations (George Long translation, Project Gutenberg)](https://www.gutenberg.org/cache/epub/15877/pg15877.txt) — Book II, section 9; Book VI, section 42; Book VII, section 9; Book VIII, section 34; Book X, section 6
 
 ## Psychology parallels
 
