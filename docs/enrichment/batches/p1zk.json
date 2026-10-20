@@ -14,9 +14,10 @@
   "BI014",
   "BI015",
   "BI022",
-  "BI028"
+  "BI028",
+  "BI033"
  ],
- "in_progress": "BI033",
+ "in_progress": null,
  "flagged": {
   "BE037": "scoped QC PASS (advisor round 3): rewrite accepted, trial numbers corrected, quote verbatim vs raw PMC text, AASM/SRS practice bullet narrowed, hygiene list + foundation closer removed; inherited Walker/Alhola/Morin/Yoo parallels flagged not certified",
   "BE042": "milestone QC (item-6 review) repairs applied: superlative removed, percentages from abstract, no invented denominators",
@@ -36,6 +37,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T10:29:53+00:00",
+ "updated": "2026-10-20T10:30:01+00:00",
  "band_done": false
 }

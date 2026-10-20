@@ -19,9 +19,9 @@ The wider evidence agrees in direction but is smaller. Across sixteen randomised
 > "this is the first RCT to explicitly seek to answer the question: If I improve my diet, will my mental health improve?" (Jacka et al. 2017, [BMC Medicine](https://pmc.ncbi.nlm.nih.gov/articles/PMC5282719/))
 
 **Plain words**
-SMILES tested a whole dietary pattern, not a single food: its design cannot identify which ingredients explain the improvement. The observational studies compare existing eating patterns, and they do not establish cause. The direction is consistent across trials and surveys, and the trial that tested it directly concerned depressive symptoms.
+SMILES tested a whole dietary pattern, not a single food: its design cannot identify which ingredients explain the improvement ([Jacka et al. 2017](https://pmc.ncbi.nlm.nih.gov/articles/PMC5282719/)). The observational studies compare existing eating patterns, and they do not establish cause ([Li et al. 2017](https://pubmed.ncbi.nlm.nih.gov/28431261/)). The direction is consistent across trials and surveys, and the trial that tested it directly concerned depressive symptoms.
 
-*For example:* An imagined case: someone with low mood who lives on takeaway asks their doctor whether diet could complement their current care. In the SMILES trial, that support was a few sessions with a dietitian on a whole pattern, alongside whatever depression treatment participants were already receiving — the trial required existing treatment to be stable, and it did not show diet replacing care.
+*For example:* An imagined case: someone receiving care for depression asks their clinician whether dietitian support could be added to their current care.
 
 ## Sources
 
@@ -43,4 +43,4 @@ SMILES tested a whole dietary pattern, not a single food: its design cannot iden
 
 ## Practice
 
-- Use nutrition for mental health: eat a Mediterranean-style diet (vegetables, fruits, fish, olive oil, whole grains), the whole-diet pattern tested in the SMILES trial.
+- Use nutrition for mental health: eat a Mediterranean-style diet (vegetables, fruits, fish, olive oil, whole grains), the whole-diet pattern tested in the SMILES trial ([Jacka et al. 2017](https://pmc.ncbi.nlm.nih.gov/articles/PMC5282719/)).
