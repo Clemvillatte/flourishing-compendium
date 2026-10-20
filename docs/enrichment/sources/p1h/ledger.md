@@ -628,3 +628,11 @@ each repaired text now carries QC-pending status pending the advisor's re-review
 - Explicit-baseline validation rerun vs 6d7702ef for all five files: 5 checked,
   0 failed (actual output above). QC-pending: AT042/AT063 corrections submitted for
   advisor re-review; AT049/AT051/AT067 approved, no repeat prose review needed.
+
+### MILESTONE items 6-10 CLOSED (2026-10-20, worker-p1h-7d3e9c4a)
+
+Advisor approved AT042 and AT063 corrections; milestone (AT042/AT049/AT051/AT063/
+AT067) CLOSED. Scope: approval of the reviewed passages and demonstrated checks
+(explicit-baseline validation 5/5 vs 6d7702ef; complete-file reads of the 12
+outgoing concept targets), not independent certification of every claim on the five
+pages. Continuing to AT075.
