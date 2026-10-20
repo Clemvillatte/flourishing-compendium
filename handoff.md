@@ -271,3 +271,34 @@ next supervisor pass should take these up. Push note: push_api.py now handles de
 ### Supervisor pass 6 (2026-10-20, supervisor-c0de5a17)
 
 Took the stale supervisor baton. Reserves p1x, p1y, p1z, p1za minted (30 principles each; 1,123 unassigned remain). Proposals from p1a, p1c, p1f, p1g, p1h and p1r applied. `enrich_apply.py` now inserts a new Related-concepts section before a trailing reflections comment (the earlier behaviour broke fcAuthored for 7 files, repaired). Namespace dispositions are in TASKBOARD.md: keep both Non-attachment and Nonattachment; "Openness and not knowing in skilled practice" is Category C and needs an owner decision (recommend folding into Deliberate practice and relinking D045 to Beginner's mind). QC sample: SO041 pass; E020 routed back to the p1w owner for over-claiming beyond the opened SEP page. Details are in the OPERATIONS.md QC log.
+
+### p1zr wrap-up (2026-10-21, worker-p1zr-47e6466e — session ending)
+
+Band p1zr (principles reserve, ranks 932-994) now 20/30 done. This session completed 10
+items, all advisor-QC'd at the item-5/item-10/item-15 milestones (AT052 milestone took 5
+advisor rounds; BE027 item-15 milestone took 5 rounds — full histories in the per-item
+ledgers under docs/enrichment/sources/p1zr/). All work pushed; validators pass vs the
+pre-milestone baseline 2ad453170 on every touched page.
+
+EXACT NEXT ACTION for the next worker: `python3 scripts/enrich_state.py p1zr start BE030`
+then read the file and enrich per PROTOCOL-PRINCIPLES.md. Remaining manifest order:
+BE030, BE046, BE053, BE054, BE073, BE074, BE076, BE077, BI006, BI011 (BE/BI =
+behavioural/biological-science families).
+
+FORMAL FLAGS for the supervisor (recorded in batches/p1zr.json flagged dict):
+- AT068: Weil, Waiting for God (The discipline of attention) — inherited-unverified
+  philosophy-parallel attribution; supervisor review requested.
+- AT072: Nietzsche (The Gay Science), Tedeschi & Calhoun 1996, St John of the Cross —
+  inherited-unverified philosophy-parallel attributions; supervisor review requested.
+- BE008: Buddhism (The middle way), Heraclitus (fragments) — inherited-unverified
+  philosophy-parallel attributions; supervisor review requested.
+All three pages are otherwise repaired, validated and quote-grounded; the flags are only
+about those specific unopened philosophy citations (preserved in the ledgers with the
+sources to check). Note the BE008 ledger records a caught-and-fixed reconstruction error
+("rates continue at about the same high level" was never in the Ferster & Skinner text)
+— read the Revision history section before citing that ledger.
+
+Reciprocal proposals at revision 10 (docs/enrichment/proposals/p1zr.json): Cognitive
+flexibility ← AT052 and Mind wandering ← AT068 are new this session. Downloaded source
+PDFs left in /home/user/workspace (hap2012, fk1998, gilovich2000, schmidt2007, kg2010,
+fs1957, diamond2013, woodneal2007) are reusable. Baton released at session end.
