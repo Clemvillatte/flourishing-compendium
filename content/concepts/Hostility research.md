@@ -11,7 +11,7 @@ Hostility research is the body of studies that asks whether chronic hostility an
 
 > "Anger and hostility were associated with increased CHD events in the healthy population studies (combined hazard ratio [HR]: 1.19; 95% confidence interval [CI]: 1.05 to 1.35, p = 0.008) and with poor prognosis in the CHD population studies (HR: 1.24; 95% CI: 1.08 to 1.42, p = 0.002)." (Chida and Steptoe, [The Association of Anger and Hostility With Future Coronary Heart Disease](https://www.jacc.org/doi/10.1016/j.jacc.2008.11.044), Journal of the American College of Cardiology 53(11), 2009, abstract)
 
-The authors' own summary of the field: "The current review suggests that anger and hostility are associated with CHD outcomes both in healthy and CHD populations."
+The authors' own summary of the field: "The current review suggests that anger and hostility are associated with CHD outcomes both in healthy and CHD populations." ([Chida and Steptoe, 2009](https://www.jacc.org/doi/10.1016/j.jacc.2008.11.044))
 
 ### What the evidence does and does not show
 

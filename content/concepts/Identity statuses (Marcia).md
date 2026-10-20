@@ -19,7 +19,7 @@ Marcia describes foreclosure as follows:
 
 > "A foreclosure subject is distinguished by not having experienced a crisis, yet expressing commitment. It is difficult to tell where his parents' goals for him leave off and where his begin. He is becoming what others have prepared or intended him to become as a child." (Marcia, [1966](https://archive.org/download/marcia1966/marcia1966.pdf), the foreclosure paragraph)
 
-On how the statuses behaved in the study, the results section reports: "It appears that foreclosure subjects tend to maintain high goals in spite of failure." The abstract adds that those in the status characterized by adherence to parental wishes "subscribed significantly more to authoritarian values" ([Marcia, 1966](https://archive.org/download/marcia1966/marcia1966.pdf)).
+On how the statuses behaved in the study, the results section reports ([Marcia, 1966](https://archive.org/download/marcia1966/marcia1966.pdf)): "It appears that foreclosure subjects tend to maintain high goals in spite of failure." The abstract adds that those in the status characterized by adherence to parental wishes "subscribed significantly more to authoritarian values" ([Marcia, 1966](https://archive.org/download/marcia1966/marcia1966.pdf)).
 
 The compendium's principle on identity foreclosure is SE037.
 

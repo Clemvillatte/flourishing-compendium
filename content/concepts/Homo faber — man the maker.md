@@ -7,15 +7,15 @@ file: "Homo faber — man the maker"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-H"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter H", "parent": ""}
 ---
-Homo faber, Latin for man the maker, is Hannah Arendt's name for the human being in the mode of work: fabricating an artificial world of durable things. In The Human Condition she sets this figure against the animal laborans, the laboring animal whose activity keeps the life process running. The maker, by contrast, builds a world:
+Homo faber, Latin for man the maker, is Hannah Arendt's name for the human being in the mode of work: fabricating an artificial world of durable things. In The Human Condition she sets this figure against the animal laborans, the laboring animal whose activity keeps the life process running. In The Human Condition, Arendt describes homo faber as the toolmaker who erects a world ([Arendt excerpt in reading notes](https://kortina.nyc/notes/the-human-condition/)):
 
 > "In other words, homo faber, the toolmaker, invented tools and implements in order to erect a world, not—at least, not primarily—to help the human life process." (Arendt, [The Human Condition](https://kortina.nyc/notes/the-human-condition/), text excerpt)
 
-Fabrication has a hard edge that labor lacks. The maker's materials are already torn from nature, and Arendt does not soften this:
+Arendt also stresses the violence involved in obtaining materials for fabrication ([The Human Condition excerpt, p. 139](https://onwork.edu.au/bibitem/2013-Arendt,Hannah-The+Human+Condition-excerpt+p.139/)):
 
 > "This element of violation and violence is present in all fabrication, and homo faber, the creator of the human artifice, has always been a destroyer of nature." (Arendt, [The Human Condition (2013), p. 139](https://onwork.edu.au/bibitem/2013-Arendt,Hannah-The+Human+Condition-excerpt+p.139/))
 
-The things homo faber makes have a use and an end. A table is finished, and its durability is what lets it house mortal lives that keep moving. The compendium's principle on creative behaviour is BE059.
+The compendium's principle on creative behaviour is BE059.
 
 ## Related concepts
 

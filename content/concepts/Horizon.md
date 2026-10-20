@@ -11,7 +11,7 @@ A horizon, in Husserl's phenomenology, is what is implicitly co-given with any p
 
 > "A horizon of determinable indeterminacy always remains in principle, regardless of how much progress we make experientially, regardless of how large the continua of current perceptions of the same thing that we have run through are." (Husserl, Ideas I § 44, p. 78, as quoted in [Moran, Husserl and Gurwitsch on Horizonal Intentionality](https://dermotmoran.com/wp-content/uploads/2020/05/A_2018_Husserl-and-Gurwitsch-on-Horizonal-Intentionality_-The-Gurwitch-Memorial-Lecture-.pdf), p. 32)
 
-The quote is taken from a published lecture that cites Ideas I section 44 directly; the same lecture records that the word horizon in Ideas I is used alongside the terms halo and background. The horizon is what makes perception more than a series of snapshots. Seeing the front of the house is already meaning the sides and the back, dimly and in outline.
+The quote is taken from a published lecture that cites Ideas I section 44 directly; the same lecture records that the word horizon in Ideas I is used alongside the terms halo and background ([Moran, 2019](https://dermotmoran.com/wp-content/uploads/2020/05/A_2018_Husserl-and-Gurwitsch-on-Horizonal-Intentionality_-The-Gurwitch-Memorial-Lecture-.pdf)). The horizon is what makes perception more than a series of snapshots: seeing the front of the house is already meaning the sides and the back, dimly and in outline ([Moran, 2019](https://dermotmoran.com/wp-content/uploads/2020/05/A_2018_Husserl-and-Gurwitsch-on-Horizonal-Intentionality_-The-Gurwitch-Memorial-Lecture-.pdf)).
 
 ## Related concepts
 

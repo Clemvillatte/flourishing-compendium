@@ -7,11 +7,11 @@ file: "Hermeneutic listening"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-H"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter H", "parent": ""}
 ---
-Hermeneutic listening is the kind of listening that Gadamer's philosophical hermeneutics makes central to understanding. In Truth and Method he gives the experience of understanding a discipline of its own:
+Hermeneutic listening is the kind of listening that Gadamer's philosophical hermeneutics makes central to understanding ([The Hermeneutic Priority of the Question](https://apcz.umk.pl/SPI/article/download/SPI.2015.003/8246/23946)). In Truth and Method he gives the experience of understanding a discipline of its own:
 
 > "has its own rigour: that of uninterrupted listening" (Gadamer, Truth and Method, 2nd revised edition, trans. Weinsheimer and Marshall, p. 461, as quoted in [The Hermeneutic Priority of the Question: Cultivating the Hermeneutic Ear](https://apcz.umk.pl/SPI/article/download/SPI.2015.003/8246/23946))
 
-The quote is taken from an open journal article whose footnote 12 cites that page of Truth and Method directly. The same article elaborates that to re-enact the question of a text, one must first learn to listen perceptively for what is said in it, or for what an interlocutor is speaking about ([SPI, 2015](https://apcz.umk.pl/SPI/article/download/SPI.2015.003/8246/23946)). The listening runs toward the matter itself, and it stays with what the text or the person keeps saying.
+The quote is taken from an open journal article whose footnote 12 cites that page of Truth and Method directly. The same article elaborates that to re-enact the question of a text, one must first learn to listen perceptively for what is said in it, or for what an interlocutor is speaking about ([SPI, 2015](https://apcz.umk.pl/SPI/article/download/SPI.2015.003/8246/23946)).
 
 The compendium's principle on deep listening is B147.
 
