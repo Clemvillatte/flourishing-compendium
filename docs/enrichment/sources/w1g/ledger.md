@@ -875,3 +875,26 @@
   [[Dasein]] (deg 2), [[The question kept alive]] added as Related with glosses bounded
   to the fetched material.
 - Validation: --fast-track ok. sources_checked +2.
+
+## The quiet craftsman's life (2026-10-20, worker-j9fpiyf; fast-track; degree 9 — eligible)
+
+- OPENED: Zhuangzi, James Legge translation, ETH Zurich PDF
+  https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf (the D book's
+  own cited source) — chapter 3 (Cook Ding) and chapter 19 (Worker Qing's bell-stand)
+  returned verbatim. Blockquote = Qing's fasting line, exactly as printed. Cook Ding's
+  knife (nineteen years, several thousand oxen, edge like new, interstices of the joints),
+  the ruler's closing lesson ("the nourishment of (our) life"), and Qing's forgetting of
+  self verified in the same fetch; paraphrased.
+- IDENTITY CHECK (fast-track rule 1): the seed's "the series' Book II, principle 94" could
+  not be resolved (Volume II = A book 1-122 and S book 123+; A094 and S094 do not match
+  the theme; no principle titled for the quiet craftsman exists; K064 cites it as
+  "(principle 94)" without a resolvable target). Worker flag filed in
+  concept-namespace-audit.md; item also on concept-verification-queue.md line 1445.
+  Researched body describes the compendium heading, grounded entirely in the opened
+  Zhuangzi passages; naming left with the supervisor. Item marked done with the flag
+  recorded (following the w1g predecessor pattern of keeping researched bodies pushed
+  while identity dispositions pend).
+- FAST-TRACK NOTE: saturation hunt skipped per §1a; [[Wu wei]] (deg 137), [[Flow]]
+  (deg 52), [[Craftsmanship research]] (deg 1) added as Related with glosses bounded to
+  the opened material (wu wei and flow are definitional for those pages' own subjects).
+- Validation: --fast-track ok. sources_checked +1.

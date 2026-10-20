@@ -113,6 +113,18 @@ mind, Premeditatio malorum). The concepts namespace must NOT contain:
 
 ## Worker flags (pending supervisor disposition)
 
+- The quiet craftsman's life (2026-10-20, worker-j9fpiyf, w1g, fast-track): the seed's internal
+  reference "the series' Book II, principle 94" could NOT be resolved. Volume II's books are
+  A (Aristotle, principles numbered 1-122) and S (Stoicism, principles numbered 123+; S094's
+  original number is 216), and neither A094 ("Recognise the divine in the human") nor S094
+  ("Accept pain as part of nature") matches the theme; no principle titled for the quiet
+  craftsman exists in the compendium (mention search: only K064's link note). The searches
+  performed did not establish the original referent. The researched body is grounded in the
+  D book's own opened source (Legge Zhuangzi ch. 3 Cook Ding, ch. 19 Qing, verbatim) and
+  describes the concept as the compendium's heading, per the w1g pattern; the identity
+  question (rename candidate or keep as heading, possible orphaned series reference) is
+  left with the supervisor. Item is on concept-verification-queue.md line 1445.
+
 - The right amount of effort (2026-10-20, worker-j9fpiyf, w1g, fast-track): the page title is the
   compendium's own heading; the opened source (Nicomachean Ethics II.5-6, Ross via MIT Classics)
   grounds the doctrine of the mean the heading points at, but no opened source uses "the right
