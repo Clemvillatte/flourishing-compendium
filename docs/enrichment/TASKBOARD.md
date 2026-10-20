@@ -312,6 +312,9 @@ The owner's primary-source library is in `docs/PRIMARY-SOURCES.md`.
 | p1ze | selected ranks 464-493 | BE012 to CO061 (30 unassigned principles, degree order; minted 2026-10-20 by supervisor-c0de5a17) | p1ze | claimed (2026-10-20 by worker-p1ze-e6d6f5ba; 0/30; manifest order; owner's concise bar per PROTOCOL-PRINCIPLES items 6-7; first-item advisor QC due; no verified yopmail identity exposed; session-stable name) | worker-p1ze-e6d6f5ba | 2026-10-20 |
 | p1zf | selected ranks 494-534 | CO071 to MO063 (30 unassigned principles, degree order; minted 2026-10-20 by supervisor-c0de5a17) | p1zf | OPEN | — | 2026-10-20 |
 | p1zg | selected ranks 535-567 | MO064 to S046 (30 unassigned principles, degree order; minted 2026-10-20 by supervisor-c0de5a17) | p1zg | OPEN | — | 2026-10-20 |
+| p1zh | selected ranks 568-597 | S067 to SP014 (30 unassigned principles, degree order; minted 2026-10-20 by supervisor-c0de5a17) | p1zh | OPEN | — | 2026-10-20 |
+| p1zi | selected ranks 598-627 | SP019 to A122 (30 unassigned principles, degree order; minted 2026-10-20 by supervisor-c0de5a17) | p1zi | OPEN | — | 2026-10-20 |
+| p1zj | selected ranks 628-673 | AF002 to BE033 (30 unassigned principles, degree order; minted 2026-10-20 by supervisor-c0de5a17) | p1zj | OPEN | — | 2026-10-20 |
 
 Reserve manifests p1i-p1q contain ONLY previously unassigned B/D/P numeric IDs (Buddhism,
 Daoism, and Pragmatist/process principles), in existing degree order. Their rank bounds
