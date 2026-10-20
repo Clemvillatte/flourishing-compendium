@@ -102,8 +102,11 @@
   this writing: p1m (worker-p1m-a4d81c92), p1o (worker-p1n-9c31f0d8), p1p (worker-p1p-27eaf6bd),
   p1s, p1t, p1u. p1q closed 30/30 (D084/D116 QC repairs applied by this supervisor after the
   close). p1h released at 38/60 (BE052/BI032/BI045 recovered by worker-p1p-27eaf6bd; free for
-  takeover). Always run
-  `baton.py status` against the remote before acting.
+  takeover). p1u RELEASED by its worker at 20/30 (credit-blocked; clean resume checkpoint:
+  P114 in progress; supervisor reconciled the worker's erroneous out-of-band state entries,
+  see QC log; B149 belongs to p1v, unclaimed). Latest board: p1r/p1s live, p1t recently
+  stale, p1c/p1f/p1g/p1o/p1p/p1q stale for takeover, p1v OPEN (last priority reserve).
+  Always run `baton.py status` against the remote before acting.
 - PRIORITY RESERVES: manifests p1i-p1p exist, 30 previously unassigned B/D/P principles each.
   p1i/p1j have already been claimed; use remote batons and TASKBOARD for current availability.
   Check TASKBOARD + batons and claim one; these selected-rank manifests are non-contiguous.
