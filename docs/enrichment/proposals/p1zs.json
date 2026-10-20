@@ -1,6 +1,6 @@
 {
  "batch": "p1zs",
- "revision": 4,
+ "revision": 5,
  "reciprocal": [
   {
    "into": "Sleep hygiene (CBT-I)",
@@ -31,6 +31,18 @@
    "link": "BI027",
    "why": "the movement half of the combination, grounded in the green-exercise pooled analysis",
    "notes": "Evidence in sources/p1zs/BI027.md (Barton & Pretty 2010 opened; Nature exposure page read, covers Bratman 2015 but does not cite BI027)."
+  },
+  {
+   "into": "Nutritional psychiatry",
+   "link": "BI035",
+   "why": "the diet-depression association this principle summarises is one of the field's core observational findings",
+   "notes": "Evidence in sources/p1zs/BI035.md (Akbaraly 2009 + Wang 2019 abstracts opened; target page read)."
+  },
+  {
+   "into": "Food as medicine",
+   "link": "BI035",
+   "why": "the observational evidence that eating patterns track depressive symptoms is part of the modern case for diet as a health input",
+   "notes": "Evidence in sources/p1zs/BI035.md (target page read)."
   }
  ]
 }

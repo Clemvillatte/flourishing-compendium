@@ -12,11 +12,23 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BI — Biophysi
 ---
 > **Principle 35** — Learn to reduce inflammatory foods: sugar, processed, trans fats
 
-Inflammatory foods (sugar, ultra-processed foods, trans fats, excess omega-6) promote inflammation, which affects mood. Reducing them supports both physical and mental health.
+The evidence is observational, and the researchers themselves are careful with it. In the Whitehall II cohort, 3486 middle-aged civil servants were split by dietary pattern: those eating the most processed food (sweetened desserts, fried food, processed meat, refined grains, high-fat dairy) had higher odds of depression five years later than those eating the least, while a whole-food pattern (vegetables, fruits, fish) went the other way ([Akbaraly et al., 2009](https://pubmed.ncbi.nlm.nih.gov/19880930/)). A meta-analysis of the dietary inflammatory index, which scores a diet by its inflammatory potential, found the most pro-inflammatory diets carried a 23% higher risk of depression than the least ([Wang et al., 2019](https://pubmed.ncbi.nlm.nih.gov/30319085/)).
 
-**Plain words** Some foods fan inflammation — sugar, ultra-processed, trans fats — and inflammation drags mood. Reducing them is a mental health move, not just a physical one. The fizzy drink is a mood transaction, and the exchange rate is terrible.
+> "In middle-aged participants, a processed food dietary pattern is a risk factor for CES-D depression 5 years later, whereas a whole food pattern is protective." (Abstract, Conclusions; Akbaraly et al., 2009, Br J Psychiatry 195(5): 408-13, [PubMed](https://pubmed.ncbi.nlm.nih.gov/19880930/))
 
-*For example:* The sugar-heavy afternoon that ends in the 4 p.m. crash and the 4:15 mood dip — the inflammation and the insulin did the afternoon's emotional weather. The snack was a forecast.
+> "Overall, individuals in the highest DII v. the lowest DII category had a 23 % higher risk of depression (risk ratio (RR)=1·23; 95 % CI 1·12, 1·35)." (Abstract, Results; Wang et al., 2019, Public Health Nutr 22(4): 654-60, [PubMed](https://pubmed.ncbi.nlm.nih.gov/30319085/))
+
+**Plain words**
+The studies compare groups of eaters over years, so they show risk shifting rather than a mechanism. People whose diets scored most inflammatory were about a quarter more likely to end up depressed than people whose diets scored least. The middle step, inflammation itself, is the theory the index is built around; what gets measured most often is the eating and the mood. What you can act on is the pattern: fewer desserts, fried food, processed meat and refined grains, more vegetables, fruit and fish.
+
+**For example**
+*(imagined)* Two shoppers fill similar trolleys, one with ready meals, sweetened desserts and processed meat, one with vegetables, fish and fruit. The studies cannot promise the second shopper a better mood; they can say that over years, that pattern belongs to the group reporting fewer depressive symptoms.
+
+## Sources
+
+- [Akbaraly et al., 2009, Br J Psychiatry 195(5): 408-13, PubMed](https://pubmed.ncbi.nlm.nih.gov/19880930/) — abstract: Whitehall II, processed-food pattern and CES-D depression
+- [Wang et al., 2019, Public Health Nutr 22(4): 654-60, PubMed](https://pubmed.ncbi.nlm.nih.gov/30319085/) — abstract: dietary inflammatory index and depression meta-analysis
+
 ## Psychology parallels
 
 - **Inflammatory diet and depression**, pro-inflammatory diets (high sugar, processed) are associated with depression (Akbaraly et al., 2009; Shivappa et al., 2014)
@@ -30,4 +42,4 @@ Inflammatory foods (sugar, ultra-processed foods, trans fats, excess omega-6) pr
 
 ## Practice
 
-- Reduce inflammatory foods: limit sugar, ultra-processed foods, trans fats. Replace with whole foods, vegetables, fish, olive oil. This reduces inflammation and supports mood.
+- Reduce inflammatory foods: limit sugar, ultra-processed foods, trans fats. Replace with whole foods, vegetables, fish, olive oil. In observational studies this pattern is associated with lower depression risk.

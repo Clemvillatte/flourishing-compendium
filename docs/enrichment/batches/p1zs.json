@@ -3,7 +3,8 @@
  "done": [
   "BI020",
   "BI023",
-  "BI027"
+  "BI027",
+  "BI035"
  ],
  "in_progress": null,
  "flagged": {
@@ -11,6 +12,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:31:44+00:00",
+ "updated": "2026-10-20T11:32:40+00:00",
  "band_done": false
 }
