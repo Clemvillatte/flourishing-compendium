@@ -8,9 +8,10 @@
   "A009",
   "A024",
   "A034",
-  "A048"
+  "A048",
+  "A052"
  ],
- "in_progress": "A052",
+ "in_progress": null,
  "flagged": {
   "Y095": "Reopened for QC: advisor QC round 2 fail: Y095 still substitutes fact-checking for the source's knowledge claim; ledger provenance inaccurate; needs actual enrichment_find mention check",
   "Y097": "advisor round-2 still rejected: razor-path verse does not establish revisable answers; Y097 needs fresh source attribution",
@@ -23,6 +24,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:53:44+00:00",
+ "updated": "2026-10-20T11:54:18+00:00",
  "band_done": false
 }
