@@ -308,3 +308,6 @@ legacy schema (state keys + proposals) — MERGED, never replaced.
 
 ### Dependent origination (2026-10-20, worker-p1f-9d3f7c2b, FAST-TRACK)
 - Degree 13 (<15, fast-track eligible). Source opened: SN 12.1 SuttaCentral (Sujato translation). Twelve-link chain quoted verbatim from the fetched page; cessation formula quoted verbatim. Nagarjuna/MMK connection kept via the seed's own facet/related lines, no MMK quote (not opened). Added Related lines for Right view and Shunyata (both existing neighbors; edges already present undirected). No saturation hunt per fast-track bar; no cross-link proposals.
+
+### Eudaimonic well-being (2026-10-20, worker-p1f-9d3f7c2b, FAST-TRACK)
+- Degree 12 (<15, fast-track eligible). Source opened: Ryan & Deci 2001 (selfdeterminationtheory.org open PDF). Abstract's two-perspectives sentence, the eudaimonism/Waterman passage and Ryff & Keyes's six aspects quoted verbatim from the opened PDF. Seed's leftover audit-note clause on the P014 link rewritten reader-facing; bare [[P014]] markup preserved (validator enforced). A001 clause grounded: A001's own body opens "Aristotle defines the human good in Book I". No saturation hunt; no proposals.
