@@ -7,13 +7,13 @@ file: "The great poem of the body"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-Walt Whitman's Leaves of Grass puts the body at the centre of poetry: the poet sings the body as equal to the soul. The heading paraphrases that claim rather than quoting it.
+Walt Whitman's 1855 Preface to Leaves of Grass promises the reader that a life lived rightly becomes poetry in the flesh. The compendium's heading condenses that promise.
 
-> "I am the poet of the Body and I am the poet of the Soul," (Whitman, "Song of Myself" §21, [Leaves of Grass, Project Gutenberg](https://www.gutenberg.org/files/1322/1322-0.txt))
+> "dismiss whatever insults your own soul, and your very flesh shall be a great poem and have the richest fluency not only in its words but in the silent lines of its lips and face and between the lashes of your eyes and in every motion and joint of your body" (Whitman, Preface to the 1855 Leaves of Grass, [Internet Archive scan of the first edition](https://archive.org/details/LeavesOfGrass1855Edition))
 
 ### What Whitman claims for the body
 
-In "I Sing the Body Electric" he presses the point with questions: "And if the body does not do fully as much as the soul? / And if the body were not the soul, what is the soul?" A later poem states it flatly: "If any thing is sacred the human body is sacred". The compendium's heading condenses these lines.
+The preface's instruction list opens with "Love the earth and sun and the animals" and closes with the great-poem promise. The poems make the same claim in verse: "I am the poet of the Body and I am the poet of the Soul" ("Song of Myself" §21), and "I Sing the Body Electric" asks "And if the body were not the soul, what is the soul?" before stating flatly, in its eighth section, "If any thing is sacred the human body is sacred".
 
 ### In the compendium
 
@@ -23,13 +23,14 @@ In "I Sing the Body Electric" he presses the point with questions: "And if the b
 
 ## Related concepts
 
-- [[Embodiment]] — the lived-body theme Whitman anticipates
+- [[Embodiment]]
 
 ## Sources
 
 - Whitman's own claim (inherited seed citation)
 
-- [Whitman, Leaves of Grass (Project Gutenberg)](https://www.gutenberg.org/files/1322/1322-0.txt) — "Song of Myself" §21, "I Sing the Body Electric", and the sacred-body line verified verbatim
+- [Whitman, Preface to the 1855 first edition of Leaves of Grass (Internet Archive)](https://archive.org/details/LeavesOfGrass1855Edition) — the "very flesh shall be a great poem" passage verified verbatim from the scan's text
+- [Whitman, Leaves of Grass (Project Gutenberg)](https://www.gutenberg.org/files/1322/1322-0.txt) — "Song of Myself" §21 and "I Sing the Body Electric" §§1, 8 verified verbatim
 
 [[D036 — Treasure your life and health as the vessel of everything]]
 [[K273 — The view from above]]
