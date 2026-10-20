@@ -9,9 +9,38 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Distrust names and labels” — Laozi, Daodejing 1.
 
+Distrust names and labels is the warning that opens the Daodejing: whatever can be named is not the enduring thing itself. The chapter's wording is about the Tao, and the compendium's principle page for this teaching marks the step from that wording to everyday labels as interpretation rather than something the chapter itself claims. The Stoic pages in the concept's Cited-in list run the same direction: impressions are to be seen as appearances rather than realities, and interpretations are to be distinguished from facts. The concept's practical core is not to drop names, which are handles and useful ones, but to hold them as pointers whose fit is always open to checking.
+
+### The textual basis (Daodejing 1)
+
+The opening lines of the Daodejing, in Legge's translation:
+
+> “The Tao that can be trodden is not the enduring and unchanging Tao. The name that can be named is not the enduring and unchanging name.” (Daodejing 1, Legge, [Project Gutenberg ebook](https://www.gutenberg.org/files/216/216-0.txt))
+
+Chapter 32 applies the point to the Tao itself:
+
+> “The Tao, considered as unchanging, has no name. As soon as it proceeds to action, it has a name.” (Daodejing 32, Legge, same text)
+
+Both passages concern naming the Tao. The extension to the labels put on people, situations and selves is the compendium's use of the warning, and the D016 page says so plainly: the intent is prudent, but honesty requires noting that the passage does not itself make the everyday claim. That page's practice is concrete: ask what a label leaves out, describe the occasions it fits and the ones it does not, notice what using the label does, and test it against outcomes.
+
+### In the compendium
+
+- [[D016 — Distrust names and labels]] — the principle home of this teaching, pairing the Daodejing 1 quote with Zhuangzi's critique of argumentative words
+- [[S047 — See impressions as what they are — appearances, not realities]] — the Stoic assent discipline this concept gathers under the Daoist warning
+- [[S054 — Distinguish between facts and interpretations]] — the Stoic practice of laying out facts before allowing interpretations
+- [[K001 — Return to experience before the labels]] — Nishida's pure experience: the labels are a layer on the original, and the return drops to the raw event
+- [[K126 — Cognitive defusion]] — the ACT kernel: reframing a thought as “I'm having the thought that...” creates distance without disputing content
+
+## Related concepts
+
+- [[Cognitive defusion]] — the ACT process that loosens the default fusion of word and experience
+- [[Affect labeling]] — the label as the feeling's name, not its verdict
+- [[The limits of language]] — Wittgenstein's Tractatus limit-drawing: what cannot be said clearly must be passed over
+- [[Language on holiday]] — Wittgenstein's diagnosis of philosophical confusion as language idling rather than working
+
 ## Sources
 
-- Laozi, Daodejing 1
+- Laozi, Daodejing 1 — [Legge's translation, Tao Teh King, Project Gutenberg ebook #216](https://www.gutenberg.org/files/216/216-0.txt)
 
 [[ST104 — Rorty's Vocabularies as Tools]]
 [[K135 — Workability check]]

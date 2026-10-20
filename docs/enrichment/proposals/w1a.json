@@ -76,6 +76,13 @@
       "phrase": "self-as-context",
       "why": "PP081's body (line 19) lists the six trained processes including 'self-as-context' in plain text; the concept page is the compendium's page for that process. PP081 currently has no [[Self-as-context]] wikilink (rg-verified).",
       "_audit_why": "phrase occurrence re-verified with rg (all body matches enumerated); single-concept selector per advisor QC"
+    },
+    {
+      "concept": "Distrust names and labels",
+      "into": "Cognitive flexibility",
+      "phrase": "distrust of names and labels",
+      "source": "w1a worker-w1a-4c8e21d7",
+      "why": "body prose names the teaching without linking the concept page (links only the principle D016); unique occurrence at line 28, single-concept selector"
     }
   ],
   "reciprocal": [
@@ -138,6 +145,30 @@
       "link": "Right speech",
       "why": "The three gates of speech is the Sufi three-gate test page; the Right speech page links it in Related as the Sufi cousin, and rg found no [[Right speech]] link on the page.",
       "_audit_why": "page checked via rg for absence of the link; page not read in full this session"
+    },
+    {
+      "concept": "Distrust names and labels",
+      "target": "Cognitive defusion",
+      "source": "w1a worker-w1a-4c8e21d7",
+      "why": "the defusion page names the word-experience fusion this concept warns about; reciprocal of the Related entry"
+    },
+    {
+      "concept": "Distrust names and labels",
+      "target": "Affect labeling",
+      "source": "w1a worker-w1a-4c8e21d7",
+      "why": "the label-as-name-not-verdict distinction is the two pages' shared core; reciprocal of the Related entry"
+    },
+    {
+      "concept": "Distrust names and labels",
+      "target": "The limits of language",
+      "source": "w1a worker-w1a-4c8e21d7",
+      "why": "both pages treat names as less than what they point at; reciprocal of the Related entry"
+    },
+    {
+      "concept": "Distrust names and labels",
+      "target": "Language on holiday",
+      "source": "w1a worker-w1a-4c8e21d7",
+      "why": "language idling vs doing work is the Wittgenstein counterpart of the Daoist warning; reciprocal of the Related entry"
     }
   ]
 }
