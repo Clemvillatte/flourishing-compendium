@@ -12,11 +12,16 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 27** — But do not reappraise everything; reappraisal has limits
 
-Reappraisal is not always appropriate. When a situation is genuinely harmful, reappraising it as less bad can be a form of denial or self-deception. Reappraisal works best for ambiguity and uncertainty; it is inappropriate for clear harm that should be acted on.
+Troy, Shallcross and Mauss tested the title claim directly. Their abstract states the hypothesis plainly: "reappraisal may be adaptive when stressors are uncontrollable (when the person can regulate only the self) but maladaptive when stressors can be controlled (when the person can change the situation)" ([Troy et al., 2013, Psychological Science 24(12), abstract](https://journals.sagepub.com/doi/10.1177/0956797613496434)). In their sample of 170 participants, the result split by context: "For participants with uncontrollable stress, higher cognitive-reappraisal ability was associated with lower levels of depression. In contrast, for participants with controllable stress, higher cognitive-reappraisal ability was associated with greater levels of depression" ([Troy et al., 2013, same abstract](https://journals.sagepub.com/doi/10.1177/0956797613496434)). The study measured depression symptoms and self-reported stressor controllability; it did not test whether reframing a specific job or relationship is denial. The compendium's check follows from the finding: before reframing, ask whether the situation can be changed.
 
-**Plain words** Don't reappraise everything: when a situation is genuinely harmful, reinterpreting it as less bad is denial. Reappraisal works best for ambiguity and uncertainty; for real harm, the adaptive move is action, not reframing. Know the difference.
+**Plain words** The study's split is the lesson. When nothing can be done about a stressor, reframing it lined up with better mood. When something could be done, the same reframing skill lined up with worse mood. Before reframing, ask two things: is the thought the problem, or is the situation? The answer changes which tool helps.
 
-*For example:* The person who reframes the toxic job for the fifth year running — "it's not that bad, they're under pressure" — versus the one who reads the situation correctly and leaves. The tool was excellent; the job was not.
+*For example:* (Imagined case.) A recurring weekly task is misassigned, and you have told no one. Reframing it as fine keeps the week calm and the task misassigned. The opened finding does not say to skip reframing; it says check controllability first.
+
+## Sources
+
+- [Troy, A. S., Shallcross, A. J., & Mauss, I. B. (2013). A person-by-situation approach to emotion regulation: Cognitive reappraisal can either help or hurt, depending on the context. Psychological Science 24(12), 2505-2514, abstract](https://journals.sagepub.com/doi/10.1177/0956797613496434) — the hypothesis and the controllable-stress result quoted above
+
 ## Psychology parallels
 
 - **[[Reappraisal's effectiveness depends on controllability|Reappraisal's effectiveness depends on controllability]]**, for situations that can be changed, problem-solving outperforms reappraisal; for uncontrollable situations, reappraisal is more effective (Troy et al., 2013)

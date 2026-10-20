@@ -51,3 +51,9 @@ Band: AF002..BE033, 30 principles, degree order (queue 628-673). Advisor QC cade
 - Scope: contagion/automatic-transfer framing limited to the study's controls; the finding's limits stated in the body (48 work groups, pattern existence). "Over time you develop" claim replaced with the study's pattern framing. The month-long detail from secondary descriptions NOT used (not in the opened abstract). Inherited parallels (Anderson 2003 convergence; Hatfield 2014 contagion) kept as unopened flagged parallels.
 - Plain words: replicate fixed ("You are weather for others" aphorism removed); example replaced with labelled imagined case.
 - Proposals: reciprocals into Emotional contagion and Ubuntu (listed for comparison; both pages read before proposing).
+
+## AF027 — But do not reappraise everything; reappraisal has limits
+- Evidence: Troy, Shallcross & Mauss 2013, Psychological Science 24(12) 2505-2514, abstract via journals.sagepub.com/doi/10.1177/0956797613496434, fetched this session. Both quoted fragments verified verbatim (the hypothesis sentence; the uncontrollable/controllable depression-split sentences, N=170).
+- Scope: the page's old "denial/self-deception" framing was an assertion about specific reframings, which the study does not test; body now states the study's limits explicitly. "Reappraisal works best for ambiguity" removed (not in opened source). Ford & Troy 2019 kept as an unopened flagged parallel.
+- Plain words: replicate fixed; example replaced with labelled imagined case grounded in the controllability check.
+- Proposals: reciprocals into Cognitive reappraisal and Reappraisal's effectiveness depends on separating the feeling from the appraisal (both exist; read before proposing).
