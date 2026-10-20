@@ -25,10 +25,11 @@
 
 ## Decisions
 
-- Chapter 1's closing "you will not gain even the latter... you will absolutely
-  fail of the former, by which alone happiness and freedom are achieved"
-  dropped from the page: my paraphrase overstated ("gain neither") and the quote
-  fragment lost its antecedent; the advisor ruled the sentence unnecessary.
+- Chapter 1's closing dropped from the page: the Carter text does support a
+  "gain neither" reading ("you will not gain even the latter... you will
+  absolutely fail of the former"), so the paraphrase was not an overstatement;
+  the genuine defect was the quotation fragment's missing antecedent ("by which
+  alone..." with no referent for "the former"). Sentence removed as unnecessary.
 - Greek term eph' hēmin dropped (no opened source).
 - 5 reciprocal proposals withdrawn and deferred (see
   drafts/w1b/dichotomy-proposals-deferred.md): Ataraxia, The reserve clause,
