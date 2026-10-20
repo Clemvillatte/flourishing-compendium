@@ -1,6 +1,6 @@
 {
  "batch": "p1zj",
- "revision": 17,
+ "revision": 18,
  "records": [
   {
    "action": "reciprocal",
@@ -231,6 +231,27 @@
    "into": "Broaden-and-build",
    "link": "AT017",
    "why": "listed for comparison with the principle's narrow-broad scope reading",
+   "notes": "target page lead reviewed during milestone QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
+  },
+  {
+   "action": "reciprocal",
+   "into": "Mind wandering",
+   "link": "AT024",
+   "why": "listed for comparison with the principle's presence reading of the mind-wandering findings",
+   "notes": "target page lead reviewed during milestone QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
+  },
+  {
+   "action": "reciprocal",
+   "into": "Presence",
+   "link": "AT024",
+   "why": "listed for comparison with the principle's presence reading of the mind-wandering findings",
+   "notes": "target page lead reviewed during milestone QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
+  },
+  {
+   "action": "reciprocal",
+   "into": "Right mindfulness",
+   "link": "AT024",
+   "why": "listed for comparison with the principle's presence reading of the mind-wandering findings",
    "notes": "target page lead reviewed during milestone QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
   }
  ]

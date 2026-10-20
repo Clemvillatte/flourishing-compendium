@@ -12,15 +12,27 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AT — Attentio
 ---
 > **Principle 24** — Cultivate attentional presence: fully attend to what you are doing
 
-Much suffering comes from attending to something other than what you are doing — ruminating on the past, worrying about the future, or being distracted. Full attentional presence to the current activity is a foundation of well-being.
+Killingsworth and Gilbert sampled thoughts, feelings and actions as they happened, with a smartphone app prompting people at random moments. Three findings, in their words:
 
-**Plain words** A lot of suffering is just being somewhere else — body at the desk, mind rehearsing yesterday or previewing doom. Full attention on what you're doing is the cheapest exit from that suffering there is. Presence isn't mystical; it's just attendance.
+> "Mind wandering occurred in 46.9% of the samples and in at least 30% of the samples taken during every activity except making love." ([Killingsworth & Gilbert, 2010, Science 330, full text](https://pdodds.w3.uvm.edu/files/papers/others/2010/killingsworth2010a.pdf))
 
-*For example:* Washing the dishes while mentally drafting an angry email — the water's hot, the plates are done, and you got none of it. Stay with the sink; the email drafts better after.
+> "Second, multilevel regression revealed that people were less happy when their minds were wandering than when they were not [slope (b) = –8.79, P < 0.001], and this was true during all activities, including the least enjoyable." ([Killingsworth & Gilbert, 2010, same text](https://pdodds.w3.uvm.edu/files/papers/others/2010/killingsworth2010a.pdf))
+
+> "The ability to think about what is not happening is a cognitive achievement that comes at an emotional cost." ([Killingsworth & Gilbert, 2010, same text](https://pdodds.w3.uvm.edu/files/papers/others/2010/killingsworth2010a.pdf))
+
+The study is correlational, with time-lag analyses the authors read as causal; it concerns average happiness ratings across activities, not any particular evening at the sink. The compendium's presence practice is its own application.
+
+**Plain words** In nearly half the sampled moments, people's minds were somewhere else, and those moments rated lower on happiness. The study does not say that being present will fix an evening, but it locates the question: where is the mind while the hands work?
+
+*For example:* (Imagined case.) Washing the dishes while mentally drafting an angry email: the water runs, the plates are done, and none of it registered. The practice is to notice where the mind is and put it back on the sink.
+
+## Sources
+
+- [Killingsworth, M. A., & Gilbert, D. T. (2010). A wandering mind is an unhappy mind. Science 330(6006), 932, full text](https://pdodds.w3.uvm.edu/files/papers/others/2010/killingsworth2010a.pdf) — the three findings quoted above
+
 ## Psychology parallels
 
-- **Mind-wandering and unhappiness**, people are less happy when mind-wandering than when engaged (Killingsworth & Gilbert, 2010; Killingsworth & Gilbert, 2019 replication)
-- **Present-moment awareness improves well-being**, attending to the present rather than past or future is associated with higher well-being (Brown & Ryan, 2003; Mrazek et al., 2013)
+- **Mind-wandering and unhappiness**, the source quoted above (Killingsworth & Gilbert, 2010)
 
 ## Philosophy parallels
 

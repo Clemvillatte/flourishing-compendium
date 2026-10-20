@@ -138,3 +138,9 @@ Band: AF002..BE033, 30 principles, degree order (queue 628-673). Advisor QC cade
 - Scope: "deliberate zoom skill" reading labelled as the compendium's application (the study concerns emotional states, not voluntary control); Navon/Förster Higgins parallels reduced to listed-for-comparison (not opened); Rowe et al. 2007 citation dropped.
 - Plain words: replicate fixed; example replaced with labelled imagined case.
 - Proposals: reciprocals into Spotlight vs floodlight attention and Broaden-and-build (leads read during milestone QC; full bodies not read).
+
+## AT024 — Cultivate attentional presence: fully attend to what you are doing
+- Evidence: Killingsworth & Gilbert 2010, Science 330(6006) 932, full text (author-hosted PDF at pdodds.w3.uvm.edu/files/papers/others/2010/killingsworth2010a.pdf), fetched this session. All three quoted sentences verified verbatim (46.9% finding; multilevel-regression unhappiness finding with slope and P; the cognitive-achievement/emotional-cost conclusion). The published abstract sentence was also verified via the science.org page.
+- Scope: "suffering comes from attending elsewhere" framing replaced with the study's own correlational account (time-lag analyses read by the authors as causal); presence practice labelled as the compendium's application. Unresolved (removed from page, recorded here): Brown & Ryan 2003 / Mrazek et al. 2013 present-moment-well-being parallels and the Killingsworth & Gilbert 2019 replication reference (none opened).
+- Plain words: replicate fixed; example replaced with labelled imagined case.
+- Proposals: reciprocals into Mind wandering, Presence, Right mindfulness (leads read during milestone QC; full bodies not read).
