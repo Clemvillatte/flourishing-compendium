@@ -278,3 +278,26 @@ certification of every claim across all ten done pages. Following nature's
 rhythms remains UNACCEPTED pending supervisor namespace disposition (Category A
 flag in concept-namespace-audit.md); the Hofstede title rename remains routed
 to the supervisor (content passed review).
+
+## Death acceptance
+
+- Track: fast-track, current degree 5 (1 kernel + 4 principles). Start
+  transition recorded before research per the advisor's process rule.
+- Opened: https://pmc.ncbi.nlm.nih.gov/articles/PMC6740004/ (Jansen et al.
+  2019, BMC Psychology 7:61, DAP-GR validation), fetched 2026-10-20. The
+  drpaulwong.com article pages (robots-blocked to this session's fetcher)
+  were NOT opened; the three-types taxonomy is grounded in the PMC article's
+  own wording instead.
+- Quotations, copied from the fetched page: the three-types sentence
+  (blockquote, "Wong et al. developed the Death Attitude Profile-Revised...
+  present sufferings.") and the five-dimension list ("Fear of Death, Death
+  Avoidance, Neutral Acceptance, Approach Acceptance, Escape Acceptance").
+- Compendium clauses grounded by reading E054 (finitude as the condition of
+  meaning, "gift, not as a curse") and B001 (first sermon lists death among
+  the facts) contexts. Related concepts verified to exist: Memento mori
+  (deg 35), Terror management (deg 13), Death anxiety research (deg 8).
+- Limits: the seed's "Wong, 2009" locator kept as inherited (the cited 2009
+  work was not opened); the page grounds the taxonomy in the opened 2019
+  validation article's description of the DAP-R.
+- Saturation: fast-track exemption; no reciprocal proposed.
+- QC: validator ok.

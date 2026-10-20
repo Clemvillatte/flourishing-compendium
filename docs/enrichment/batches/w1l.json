@@ -10,7 +10,8 @@
   "Cultural dimensions theory Hofstede",
   "Compassion-focused therapy",
   "Creative values",
-  "Right association"
+  "Right association",
+  "Death acceptance"
  ],
  "in_progress": null,
  "flagged": {
@@ -22,6 +23,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 12,
- "updated": "2026-10-20T07:11:57+00:00",
+ "updated": "2026-10-20T07:13:40+00:00",
  "band_done": false
 }
