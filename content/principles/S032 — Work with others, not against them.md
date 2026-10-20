@@ -12,13 +12,21 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 154** — Work with others, not against them
 
-Marcus reminds himself that no one acts wrongly on purpose. People err because they do not know what is good. Approach wrongdoers with patience and instruction, not anger. The Stoic cooperates even with the difficult.
+Marcus Aurelius wrote his morning reminder for exactly this: he will meet the ungrateful, the arrogant, the envious, and he reads their conduct as "ignorance of what is good and evil" rather than malice ([Meditations II.1, Long translation; opened full text](https://www.gutenberg.org/files/6920/6920-h/6920-h.htm)):
 
-(Med. II.1, II.13, IV.3, VII.22, IX.4, IX.11.)
+> For we are made for co-operation, like feet, like hands, like eyelids, like the rows of the upper and lower teeth. To act against one another, then, is contrary to nature; and it is acting against one another to be vexed and to turn away.
 
-**Plain words** Marcus reminds himself that no one does wrong on purpose. People err because they don't know what's good. Meet wrongdoers with patience and teaching, not anger. The Stoic works with the difficult.
+(Marcus Aurelius, Meditations II.1, trans. George Long; [opened full text, Project Gutenberg](https://www.gutenberg.org/files/6920/6920-h/6920-h.htm).)
 
-*For example:* A coworker steals credit, and you ask yourself what he's afraid of, then talk to him directly.
+The same passage names the wrongdoer as "akin to me", participating in the same intelligence and portion of the divinity ([same opened text](https://www.gutenberg.org/files/6920/6920-h/6920-h.htm)), which is why the instruction is patience and teaching rather than payback.
+
+### Plain words
+
+People mostly do not act badly on purpose; they act badly from a wrong picture of what is good. The move that works better than anger is curiosity about the picture: what does this person think they are protecting? Cooperation is not approval; it is declining to be vexed and to turn away.
+
+### For example
+
+A coworker takes credit for your work. Before the confrontation, you can run the Stoic question: what does he think he is protecting? The answer rarely excuses the theft; it changes the conversation from payback to correction.
 
 ## Psychology parallels
 
