@@ -19,10 +19,10 @@ Næss worked out the relational side in detail. He rejected atomistic individual
 
 ### In the compendium
 
-- [[R129 — Practise ecological relationality as spiritual practice]] — Thomas Berry's version: the world as thou rather than it
-- [[R013 — Practise connection to Country]] — Country as a living relationship that constitutes identity in Aboriginal and Torres Strait Islander traditions
-- [[R028 — Practise kaitiakitanga]] — guardianship as reciprocity with land, waters and living things
-- the linked stories (ST255-ST258) give the view narrative form, from the green fire to Næss on the mountain
+- [[R129 — Practise ecological relationality as spiritual practice]]
+- [[R013 — Practise connection to Country]]
+- [[R028 — Practise kaitiakitanga]]
+- the linked stories (ST255-ST258)
 
 ## Sources
 
@@ -49,7 +49,7 @@ Næss worked out the relational side in detail. He rejected atomistic individual
 
 ## Related concepts
 
-- [[Deep ecology]] — Næss's position on the ecological self and intrinsic value
-- [[Interbeing]] — Thich Nhat Hanh's word for the dependence of things on one another
-- [[The relational self]] — the idea that a person's self exists in and through relationships
-- [[Ubuntu]] — the maxim that a person is a person through other persons
+- [[Deep ecology]]
+- [[Interbeing]]
+- [[The relational self]]
+- [[Ubuntu]]

@@ -9,7 +9,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY
 ---
 **Executive function theory Miyake** — Miyake, Friedman — one influential account separates executive function into three correlated but separable functions: inhibition, shifting and updating.
 
-Executive functions are the control processes that regulate thought and behavior in the service of goals. Akira Miyake and colleagues tested whether three often postulated functions were separable, using latent variable analysis: 137 college students performed simple tasks chosen to tap each candidate function, alongside frequently used executive tasks such as the Wisconsin Card Sorting Test and the Tower of Hanoi.
+Executive functions are the control processes that regulate thought and behavior in the service of goals. The 2000 study by Akira Miyake and colleagues tested three selected executive functions and found them correlated yet separable, using latent variable analysis: 137 college students performed simple tasks chosen to tap each candidate function, alongside frequently used executive tasks such as the Wisconsin Card Sorting Test and the Tower of Hanoi.
 
 > "Confirmatory factor analysis indicated that the three target executive functions are moderately correlated with one another, but are clearly separable. Moreover, structural equation modeling suggested that the three functions contribute differentially to performance on complex executive tasks." (Miyake, Friedman, Emerson, Witzki, Howerter and Wager, [The unity and diversity of executive functions and their contributions to complex "Frontal Lobe" tasks: a latent variable analysis, Cognitive Psychology 41 (2000), pp. 49-100, abstract](https://pubmed.ncbi.nlm.nih.gov/10945922/))
 

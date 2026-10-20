@@ -29,8 +29,8 @@ The book ends by tying the whole account to freedom:
 
 ## Related concepts
 
-- [[Stream of consciousness]] — William James's account of consciousness as flowing rather than chopped into bits
-- [[The specious present]] — the experienced now as a short stretch of time rather than a knife-edge
+- [[Stream of consciousness]]
+- [[The specious present]]
 
 ## Sources
 

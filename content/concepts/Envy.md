@@ -15,7 +15,7 @@ Envy is pain at another person's good fortune. Niels van de Ven, Marcel Zeelenbe
 
 ### Two motors
 
-The same paper splits the emotion in two. Benign envy comes with a moving-up motivation, aimed at improving your own position; malicious envy comes with a pulling-down motivation, aimed at damaging the position of the superior other. The distinction held in the Netherlands, where the language has separate words for the two, and in the United States and Spain, where one word covers both. The authors discuss implications of the distinction for theories of cooperation, group performance and Schadenfreude.
+In its samples, the paper found distinct experiences of benign and malicious envy. Benign envy came with a moving-up motivation, aimed at improving your own position; malicious envy came with a pulling-down motivation, aimed at damaging the position of the superior other. The distinction held in the Netherlands, where the language has separate words for the two, and in the United States and Spain, where one word covers both. The authors discuss implications of the distinction for theories of cooperation, group performance and Schadenfreude.
 
 ### La Rochefoucauld and the Buddha
 

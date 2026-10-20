@@ -91,3 +91,26 @@
 - Process fix adopted: enrich_save.sh output is now checked for the "saved and
   verified on origin" line (pipe-to-tail exit-status bug noted by advisor); start
   transitions are pushed immediately.
+
+## Milestone QC round 2 — repairs applied
+- Added Related-concept annotations on Durée (Stream of consciousness, The specious
+  present) and Ecological relationality (Deep ecology, Interbeing, The relational
+  self, Ubuntu) reduced to BARE links: their external evidence was not opened, and
+  reading another compendium page does not certify outside facts. Links kept bare
+  per advisor guidance ("original navigation links can remain bare").
+- Ecological relationality In-the-compendium clauses reduced to title-restatements;
+  interpretive stories line removed.
+- Emotional suppression: seed line replaced with the directly supported finding
+  (instructed suppression increased blood pressure in suppressor and partner);
+  "hiding what you feel is not free" scoped to "in these experiments"; reappraisal
+  comparison limited to Butler Study 1; Process-model Related clause made
+  title-descriptive (no timing mechanism claim).
+- Envy: "splits the emotion in two" replaced with "in its samples, the paper found
+  distinct experiences of benign and malicious envy" (evidence-scoped).
+- Executive function: opening scoped to "the 2000 study tested three selected
+  executive functions and found them correlated yet separable".
+- BASELINE (corrected method): for each file, the pre-edit revision is the PARENT of
+  my first content edit commit (Durée 0632ebcd^, Eco 5f916f17^, Suppression bc28251d^,
+  Envy 28a99ddf^, EF e7595556^). Raw front-matter bytes identical; link occurrences
+  with multiplicity: none lost. This replaces the earlier second-history-entry
+  method and is the documented preservation check.
