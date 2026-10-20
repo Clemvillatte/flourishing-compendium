@@ -3,15 +3,17 @@
  "done": [
   "SE037",
   "SE045",
-  "SE053"
+  "SE053",
+  "SE058"
  ],
  "in_progress": null,
  "flagged": {
   "SE037": "inherited parallels not certified: Waterman 1993 outcome claim + Apology 38a parallels kept as found; see sources/p1zo/SE037.md",
   "SE045": "near-duplicate of D087 (Hold identity lightly, Daoist) — supervisor/owner disposition needed; see sources/p1zo/SE045.md",
-  "SE053": "inherited parallels not certified: La Guardia et al. 2000 claim kept as found; see sources/p1zo/SE053.md"
+  "SE053": "inherited parallels not certified: La Guardia et al. 2000 claim kept as found; see sources/p1zo/SE053.md",
+  "SE058": "inherited parallels not certified: Larson 1990 / Long & Averill 2003 solitude outcomes claim kept as found; see sources/p1zo/SE058.md"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:10:57+00:00"
+ "updated": "2026-10-20T11:12:01+00:00"
 }

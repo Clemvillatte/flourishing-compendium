@@ -1,6 +1,6 @@
 {
  "batch": "p1zo",
- "revision": 3,
+ "revision": 4,
  "reciprocal": [
   {
    "into": "Identity development",
@@ -25,6 +25,12 @@
    "link": "SE053",
    "why": "SDT's autonomy need is one half of this principle's pair",
    "notes": "Autonomy concept page discusses SDT needs without linking SE053. Evidence in sources/p1zo/SE053.md (Ryan & Deci 2000, opened)."
+  },
+  {
+   "into": "Solitude",
+   "link": "SE058",
+   "why": "the self-maintenance need behind chosen aloneness",
+   "notes": "Solitude concept links P134 and the Winnicott concept but not SE058. Evidence in sources/p1zo/SE058.md (Winnicott 1958, DDJ 16, both opened)."
   }
  ]
 }

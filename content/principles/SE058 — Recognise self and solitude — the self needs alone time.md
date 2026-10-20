@@ -12,7 +12,9 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 58** — Recognise self and solitude: the self needs alone time
 
-Solitude — time alone with yourself — is not isolation; it is a necessary condition for self-reflection, self-renewal, and authentic selfhood. The capacity to be alone (without distraction) is a foundation of self-knowledge.
+Winnicott made the capacity to be alone one of his markers of emotional maturity, and located its origin in a paradox: the capacity grows out of the repeated experience of being alone, as an infant and small child, in the presence of mother (Winnicott, 1958). Adult solitude keeps the same structure. It works when the internal company is friendly, so your own thoughts get a hearing without an actual listener in the room. The Daodejing's stillness chapter describes the same movement in nature's terms: all things "go through their processes of activity" and then return to their root, and "that stillness may be called a reporting that they have fulfilled their appointed end" (DDJ 16, Legge).
+
+> "The basis of the capacity to be alone is a paradox; it is the experience of being alone while someone else is present." (Winnicott, 1958)
 
 **Plain words** You need time alone with yourself — not as punishment, not as failure to have plans, but as the place where you hear your own thoughts instead of everyone else's. The capacity to sit alone without a screen is a skill, and it's the soil everything else grows in.
 
@@ -31,3 +33,8 @@ Solitude — time alone with yourself — is not isolation; it is a necessary co
 ## Practice
 
 - Schedule solitude: time alone without distraction (not screens, not productivity). Use it for reflection, renewal, and simply being with yourself. The capacity to be alone is a strength.
+
+## Sources
+
+- [Winnicott, D. W. (1958). The Capacity to be Alone. International Journal of Psycho-Analysis, 39, 416–420 — archive.org scan](https://dn720706.ca.archive.org/0/items/winnicott-capacity-to-be-alone/winnicott-capacity-to-be-alone_text.pdf) — opening, basic-experience and paradox passages
+- [Lao-tzu, Tao Te Ching (trans. James Legge), ch. 16 — Internet Sacred Text Archive](https://www.sacred-texts.com/tao/taote.htm)
