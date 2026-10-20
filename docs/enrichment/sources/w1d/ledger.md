@@ -101,3 +101,13 @@
 **Sources opened (1).** Diener, Lucas and Scollon 2006, "Beyond the hedonic treadmill: Revising the adaptation theory of well-being," American Psychologist 61(4):305-314 — read in full inside the collected-reprints volume "The Science of Well-Being" PDF at https://www.its.caltech.edu/~squartz/Dienerbook.pdf (the SMU repository direct-download link returned HTML; the Caltech book PDF contains the full article). Blockquote is the German-panel life-events passage, verified verbatim against the PDF text (extraction ligature artifacts normalized); locator given as the collected-reprints PDF's own printed pages (pp. 109-110) since the reprint's pagination differs from the journal's. The Brickman et al. reanalysis (0.75 SD) and the five revisions are also from the opened article text. The seed body's "reorganize goals and routines" phrasing was replaced: it is not supported by the opened source.
 
 **Scope notes.** Saturation hunt and cross-link proposals skipped per §1a. A stray front-matter line introduced during writing (duplicate file_path key) was caught and removed before validation. Validator --fast-track: 1 ok.
+
+---
+
+## Anger examined early — completed 2026-10-20 (worker-w1d-4c8e1b3a, FAST-TRACK)
+
+**Eligibility.** Graph degree 10 (< 15); no unresolved QC findings; inside owned band w1d. Fast-track per PROTOCOL.md §1a.
+
+**Sources opened (1).** Seneca, Of Anger (De Ira), Book II, Aubrey Stewart translation (1900), https://en.wikisource.org/wiki/Of_Anger/Book_II — opened twice with targeted extraction prompts; chapter I (anger requires the mind's approval), chapter XXII (the first-causes blockquote), and chapter XXIX (delay as the remedy) all verified verbatim from the opened page. Note: the well-known "first incitement / city gates" passage (from another translation circulating as a PDF) does NOT appear in the Stewart Wikisource text and was not used; only Stewart-verified wording appears on the page.
+
+**Scope notes.** The seed's bare psychology-parallel link block under Sources was given the standard "## Cited in psychology parallels" header (all original links preserved). Saturation hunt and cross-link proposals skipped per §1a. Validator --fast-track: 1 ok.
