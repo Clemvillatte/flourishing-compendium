@@ -65,3 +65,17 @@
   book citation (inherited, unopened). Study-example outcome claims removed.
 - Saturation (actual, rg -l 'B036' content/concepts/): checked and
   recorded below. Validator: ok.
+
+### B042 — Develop calm (samatha) (2026-10-20, worker-p1o-6ae3d782)
+- Opened: MN 118 Thanissaro (calming-bodily-fabrication steps; serenity
+  factor sequence: persistence -> rapture -> body/mind calm -> serenity ->
+  concentration) and Dhammapada Bhikkhuvagga 372 (Buddharakkhita), both
+  fetched this session. Blockquote verbatim; Dhp 372 inline quote verbatim.
+  Distinct from B028's quotes (steadying-the-mind step; Dhp 23).
+- Seed statement + locator lines kept; body rebuilt; Plain words was a 62%
+  replicate (plain-words-replicates.md line 176) — re-derived bodily-first;
+  seed For example em dash removed. No link sections or reflections touched.
+- Saturation (rg -l 'B042' content/concepts/): relaxation response,
+  parasympathetic activation, inner citadel already linked (kept); new
+  reciprocal proposal filed in proposals/p1o.json (Clarity of mind, which
+  already cites sibling B035). Validator: ok.
