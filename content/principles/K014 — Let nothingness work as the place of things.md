@@ -12,13 +12,21 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 14** — Let nothingness work as the place of things
 
-Absolute Nothingness (zettai mu), the Kyoto School's central term, is not a void where things used to be; it is the place that lets things be things. The working image is the sky: the sky's emptiness is not a defect but the condition of clouds appearing. Practically, when a structure of your life falls away (a role, a belief, a relationship), ask what is now able to appear that the structure was occupying.
+> ... the "field of emptiness" is not a vacuum of relative nothingness that assaults beings from without; it is an open clearing wherein beings are neither nullified nor reified but rather let be in the mutual freedom of their coming to be and passing away in unobstructed interrelation with one another.
 
-(Nishida's basho, the logic of place; Nishitani's shunyata as field.)
+([Stanford Encyclopedia of Philosophy, "Kyoto School", section 3.4](https://plato.stanford.edu/entries/kyoto-school/), on Nishitani Keiji, Religion and Nothingness. Quoted at second hand; the book was not consulted.)
 
-**Plain words** Absolute nothingness isn't an empty hole where things used to be. It's the place that lets things be things. The sky's emptiness is what makes clouds possible. When a structure in your life falls away, ask what can now appear that it was occupying.
+The Encyclopedia says that Nishitani follows Nishida in thinking of emptiness "as a 'place' or 'field' (ba) wherein beings can appear as they truly are in their proper basis or 'home-ground' (moto)." Nothingness here is not a thing that sits in the background. It is the opening in which things can show up as what they are.
 
-*For example:* After losing a role at work, a person who has no title gradually finds time and attention for a friendship that had been squeezed out.
+The sky image and the practical advice below belong to the compendium, not to these sources.
+
+**Plain words** Absolute nothingness, in this reading, is not an empty hole where things used to be. It is the open field in which things can appear as what they are. When a structure in your life falls away, such as a role, a belief or a relationship, ask what can now appear that the structure was occupying.
+
+*For example:* After losing a role at work, a person with no title gradually finds time and attention for a friendship that had been squeezed out.
+
+## Sources
+
+- [Stanford Encyclopedia of Philosophy, "Kyoto School" (Heisig, Kasulis, Maraldo, et al.), sections 3.2-3.4](https://plato.stanford.edu/entries/kyoto-school/) — field of emptiness and Nishitani's passage
 
 ## Psychology parallels
 

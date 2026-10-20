@@ -12,13 +12,21 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 16** — Practice the double negation
 
-Nishitani's structure, borrowed in spirit from Eckhart: first negate the self's claims (the self is not what it took itself to be), then negate the negation (the emptiness reached is not a new position to stand on either). One negation produces nihilism or detachment; the double negation returns you to the ordinary world, now transparent. Practically, when you have let go of an identity, complete the movement by returning to the ordinary tasks with nothing special added; stopping at the first negation is what makes people distant.
+> ... emptiness is truly emptiness "only when it empties itself even of the standpoint that represents it as some 'thing' that is emptiness. ... [True emptiness] is to be realized as something united to and self-identical with being."
 
-(Nishitani, Religion and Nothingness; Eckhart's breakthrough, Durchbruch.)
+([Stanford Encyclopedia of Philosophy, "Kyoto School", section 3.2](https://plato.stanford.edu/entries/kyoto-school/), quoting Nishitani, Nishitani Keiji chosakushū vol. 10, 109-10 / Religion and Nothingness, 1982, p. 97. Quoted at second hand.)
 
-**Plain words** First you negate the self's claims: I'm not what I thought I was. Then you negate that, too: the emptiness I reached isn't a new place to stand. One negation yields nihilism or coolness. The second brings you back to ordinary life, now transparent. After letting go of an identity, finish by going back to your life.
+The Encyclopedia describes two steps. First, to be freed from "egoistic obsessions and manipulative objectifications," Nishitani held that one must step back into the "field of nihility." Second, "the real breakthrough to a non-dualistic reaffirmation of self and world only occurs when the relative nothingness of nihility is in turn broken through to a genuine experience of absolute nothingness or true emptiness." His task is described as "overcoming nihilism by way of passing through nihilism."
 
-*For example:* After deciding "I'm not my career," you don't become a drifter or a monk. You go back to work, a bit more lightly, and notice the colleague you used to overlook.
+One reading of the two steps is that the first negation removes the world's fixed meaning and the second removes the stance of the person who found nothing there. That reading is the compendium's. What returns is the ordinary world, now "united to and self-identical with being."
+
+**Plain words** Doubting the old certainties is a first step. The second is not to cling to the doubt as a new certainty, so that the ordinary world can come back without needing to be defended. Nishitani calls the first stage, where everything seems to lose its meaning, the field of nihility.
+
+*For example:* After a loss of faith in a career, one person decides that nothing means anything. Another sits with that, then notices that the work, the people and the day are still there and still matter, and that the verdict "nothing matters" was itself one more position.
+
+## Sources
+
+- [Stanford Encyclopedia of Philosophy, "Kyoto School" (Heisig, Kasulis, Maraldo, et al.), sections 3.2-3.4](https://plato.stanford.edu/entries/kyoto-school/) — field of emptiness and Nishitani's passage
 
 ## Psychology parallels
 
