@@ -447,3 +447,32 @@ opened text at the recorded URL.
   two final evidence fixes (scan-scope claims corrected; The pragmatic
   maxim's tail read and the P079 record updated) are applied in this
   commit. Item 15 recorded as accepted; next advisor QC at item 20.
+
+## P028 — Expect truth to be what works in the long run (2026-10-20)
+
+- OPENED: C.S. Peirce, Chance, Love, and Logic, Project Gutenberg #65274,
+  https://www.gutenberg.org/cache/epub/65274/pg65274.txt — "How to Make
+  Our Ideas Clear" (raw text; the fated-opinion passage read in context,
+  including the surrounding investigation-convergence sentences). Note:
+  the book's introduction also quotes the same passage; the quote is
+  taken from the essay itself (line 2481 region), verified as the essay
+  text, with the source's footnote marker [33] between "fated" and "to"
+  not reproduced (footnote-marker elision noted).
+- OPENED: William James, Pragmatism, Project Gutenberg #5116,
+  https://www.gutenberg.org/cache/epub/5116/pg5116.txt — Lecture VI,
+  "Pragmatism's Conception of Truth" (raw text; the cash-value question,
+  the ASSIMILATE/VALIDATE/CORROBORATE/VERIFY passage and the
+  truth-happens passage read in context).
+- Verified verbatim: all three blockquotes. Transcription notes: James's
+  small-caps emphasis (TRUE IDEAS... / HAPPENS / BECOMES / MADE /
+  veri-FICATION) is reproduced as printed in the Gutenberg text; the
+  double hyphens in the source's "veri-FICATION" sentence are rendered as
+  printed. Neither Gutenberg edition carries usable printed-page
+  markers (peirce.txt has only 2 marker-like hits, prag.txt none);
+  locators use essay and lecture.
+- The seed's "(Peirce, Collected Papers; ...)" replaced with the opened
+  essay; Collected Papers not opened. The month-of-mornings exercise is
+  labelled as the compendium's. Inherited psychology parallel
+  (Duckworth et al. 2018) and philosophy parallels (Truth as long-run
+  verification; [[Cash value]]) preserved untouched and NOT verified
+  this session.

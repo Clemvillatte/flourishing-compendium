@@ -12,13 +12,25 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 28** — Expect truth to be what works in the long run
 
-Truth is the long-run verdict of inquiry and practice: ideas verified, corroborated, and assimilated over time. Short-term "works for me" is only the first checkpoint.
+Peirce defines truth as the opinion fated to be ultimately agreed to by all who investigate, reached by a process that carries even antagonistic views to one conclusion. James states the working version: true ideas are those we can assimilate, validate, corroborate and verify. (Peirce, How to Make Our Ideas Clear; James, Pragmatism, lecture 6.)
 
-(Peirce, Collected Papers; James, Pragmatism, 1907.)
+> "The opinion which is fated to be ultimately agreed to by all who investigate, is what we mean by the truth, and the object represented in this opinion is the real." (Peirce, "How to Make Our Ideas Clear," in Chance, Love, and Logic, [Gutenberg](https://www.gutenberg.org/cache/epub/65274/pg65274.txt))
 
-**Plain words** Truth is the long-run verdict of inquiry and practice — ideas verified, corroborated, and assimilated over time. Short-term 'works for me' is only the first checkpoint. The diet that works for a month and fails for a decade is telling you which checkpoint matters.
+> "TRUE IDEAS ARE THOSE THAT WE CAN ASSIMILATE, VALIDATE, CORROBORATE AND VERIFY. FALSE IDEAS ARE THOSE THAT WE CANNOT. That is the practical difference it makes to us to have true ideas; that, therefore, is the meaning of truth, for it is all that truth is known-as." (James, Pragmatism, lecture 6, [Gutenberg](https://www.gutenberg.org/cache/epub/5116/pg5116.txt))
 
-*For example:* The investment strategy that shines for one quarter — the long run is where the truth files its report. Checkpoints, not verdicts.
+> "The truth of an idea is not a stagnant property inherent in it. Truth HAPPENS to an idea. It BECOMES true, is MADE true by events. Its verity is in fact an event, a process: the process namely of its verifying itself, its veri-FICATION." (James, Pragmatism, lecture 6, [Gutenberg](https://www.gutenberg.org/cache/epub/5116/pg5116.txt))
+
+The compendium's exercise for a working belief: name what would count as corroboration over months, and what would count as failure, before trusting a short run.
+
+**Plain words**
+Give a new belief time to be checked. One good week is a checkpoint, and the verdict comes from what holds under longer testing.
+
+*For example:* Imagine you start a new sleep schedule that seems to work for a fortnight. You note what a month of mornings would have to look like before you call it true for you.
+
+## Sources
+
+- [Chance, Love, and Logic, C.S. Peirce, Project Gutenberg](https://www.gutenberg.org/cache/epub/65274/pg65274.txt) — "How to Make Our Ideas Clear"
+- [Pragmatism, William James, Project Gutenberg](https://www.gutenberg.org/cache/epub/5116/pg5116.txt) — Lecture VI, "Pragmatism's Conception of Truth"
 
 ## Psychology parallels
 
