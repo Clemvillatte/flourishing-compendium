@@ -34,10 +34,11 @@
   "E088": "Reopened for QC: advisor QC round 1 repairs (attribution narrowed; standalone blockquotes; application moved to labelled Plain words exercise)",
   "E091": "Reopened for QC: advisor QC round 1 repairs (edition attribution dropped; bounded application)",
   "K050": "Reopened for QC: advisor QC round 1 repairs (most-famous claim; duty-not-dread attribution; bounded application)",
-  "MO002": "Reopened for QC: advisor QC round 1 repairs (scoping; bounded prompts application)"
+  "MO002": "Reopened for QC: advisor QC round 1 repairs (scoping; bounded prompts application)",
+  "MO008": "Reopened for QC: advisor QC round 1 repairs (quantity/quality conflation; continuum-progression claim; identified-regulation vs interest distinction)"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T08:21:55+00:00",
+ "updated": "2026-10-20T08:23:09+00:00",
  "band_done": false
 }

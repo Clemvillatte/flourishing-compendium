@@ -20,14 +20,14 @@ The entry's summary of the supporting research:
 
 > An abundance of research has confirmed (1) that social contexts that are more supportive of satisfaction of the psychological needs for autonomy, competence, and relatedness will conduce toward deeper internalization and more autonomous regulation and (2) that the more autonomous types of extrinsic motivation are associated with more positive performance and wellness outcomes than are the less autonomous types. (Ryan & Deci, 2022)
 
-On this account motivation is not one fixed quantity: the same externally-regulated activity can be taken in, identified with, or integrated, and the contexts around it make a difference to which happens.
+The entry describes identified regulation as motivation based on personally endorsing an action's value. It distinguishes this from intrinsic motivation, which is based on interest in the activity itself.
 
 (Ryan & Deci, 2022, "Self-Determination Theory," in Encyclopedia of Quality of Life and Well-Being Research, Springer.)
 
 **Plain words**
-The theory holds that the regulation of an activity can change: what starts as something you do for a reward or to avoid guilt can become something you endorse as worthwhile. The compendium's exercise: take one activity you currently do only because it is required, and write down any part of it you already value. The theory describes this kind of endorsement as a step in the continuum, not a guarantee of change.
+Ryan and Deci describe how reasons for doing an activity can become more personally endorsed. The compendium uses this account to examine a required activity. Write down what feels externally required and whether you also consider the activity worthwhile. Leave open the possibility that you do not.
 
-*For example:* A student taking a required course only for the grade writes down one topic she would read about anyway. In the theory's terms, that is the kind of endorsement identified regulation is built from.
+*For example:* Suppose a course is required for your qualification, and you consider its methods relevant to work you want to do. Write down why learning those methods matters to you, separately from the requirement to pass.
 
 ## Sources
 
