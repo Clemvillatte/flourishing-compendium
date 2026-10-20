@@ -173,3 +173,8 @@ Per-item evidence notes (owner concise-bar items 6-7). Manifest: BE012..CO061, 3
 - Sources opened: Manzoni et al. 2008 (PMC2427027, abstract/results/conclusion); Khir et al. 2024 (PMC10844009) seen via search excerpt only, flagged as such.
 - Jacobson 1938, Lehrer & Gevirtz 2014 not opened; Practice timings (5 s/15 s) unverified.
 - QC: self-QC only; validator pass.
+
+## CO032 — Endowment effect
+- Sources opened: KKT 1990 (MIT-hosted PDF, abstract and mug-experiment excerpts as returned by search); Maddux et al. 2010 PubMed abstract. Quotes verified verbatim against those excerpts.
+- Thaler 1980 not opened; "weaker in cultures with less individual ownership norms" is a loose paraphrase of Maddux (East Asian vs Western, self-enhancement). House-pricing example replaced with an imagined one.
+- QC: self-QC only; validator pass.
