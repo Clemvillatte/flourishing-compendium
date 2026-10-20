@@ -636,3 +636,21 @@ AT067) CLOSED. Scope: approval of the reviewed passages and demonstrated checks
 (explicit-baseline validation 5/5 vs 6d7702ef; complete-file reads of the 12
 outgoing concept targets), not independent certification of every claim on the five
 pages. Continuing to AT075.
+
+### AT075 (2026-10-20, worker-p1h-7d3e9c4a)
+
+- Sources opened: NIMH "ADHD in adults: 4 things to know" page and Faraone et al. 2021
+  consensus statement (PMC8328933). Both blockquote-level sentences verified verbatim
+  (NIMH persistent-pattern definition; Faraone's licensed-clinician statement quoted
+  in prose, not quotation marks).
+- Seed-body differential list ("depression, anxiety, ADHD, sleep disorders, or medical
+  conditions") replaced with the opened sources' own framing (NIMH's two-areas/6-months
+  pattern; Faraone's clinician boundary); the page's clinical-advice stance kept and
+  grounded in the Faraone quote. "That's an appointment, not an app" and "isn't
+  scattered — they're due an evaluation" sarcasm removed; plain words re-derived
+  (bad week vs pattern); example now names persistence and impairment instead of
+  joking.
+- Linked-concept reads: Humility (Tangney 2000 via PMC quote — consistent with
+  recognising limits), The examined life (examination-not-rumination — consistent).
+  Mention scan (clinical): ADHD: interest-based attention concept already cites
+  AT075. Validator ok.
