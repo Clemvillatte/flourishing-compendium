@@ -17,9 +17,10 @@
   "Maximizing versus satisficing",
   "Metacognitive monitoring",
   "Metanoia (transformation)",
-  "Negative capability"
+  "Negative capability",
+  "Nepantla"
  ],
- "in_progress": "Nepantla",
+ "in_progress": null,
  "flagged": {
   "Koan practice": "QC round 3 RESOLVED: Showing versus saying / The limits of language glosses reduced to bare wikilinks (compendium-internal reading only); evidence-note correction: UNPROMPTED raw fetches = SEP section 2 and Mumonkan Case 1 (both retained blockquotes verified verbatim in raw text; two-methods sentence also confirmed); PROMPTED fetches = Wikipedia Koan and Case 29. Advisor round-3: everything else in the reviewed page passes.",
   "Abhyasa": "QC2 REPAIR: unverified seed opening paragraph removed per advisor (its YS 1.12-14 locator and counterpart claims were not verified from opened pages); all three edges preserved as bare Related links ([[Vairagya]], [[Habituation]], Attentional control training); all retained prose and quotes grounded in opened wisdomlib/Wikipedia pages. Validated vs baseline 9f08ef22: ok.",
@@ -37,10 +38,11 @@
   "Metacognitive monitoring": "MILESTONE QC REPAIR (advisor, items 11-15): unsupported priority claims removed ('coined to name', 'opened the field'); opening replaced with the advisor-specified narrowly-supported wording; the unverified Flavell-attributed formulation 'the separation of knowing from content' deleted from Other formulations; citation added to the conclusion lead-in; facets retained as inherited labels without claiming the excerpt establishes trainability or decentering. Validated vs seed baseline c2a3ee47: ok.",
   "Metanoia (transformation)": "MILESTONE QC REPAIR (advisor, items 11-15): citation added to 'Thayer's Lexicon gives the sense of the noun...'. Validated vs seed baseline c2a3ee47: ok.",
   "Moral sentiments": "Grounded in two opened primary sources: Hume, A Treatise of Human Nature 2.3.3 (fetched from Hume Texts Online; the reason-and-passions passage quoted verbatim) and Smith, The Theory of Moral Sentiments (fetched from Project Gutenberg; the sympathy opening quoted verbatim). Seed line preserved; both inherited source lines preserved; the four seed principle links (D017, B157, CO075, SP014) preserved as bullets under In the compendium; R059/R078 Cited-in preserved; both lead-in sentences carry inline citations. Validated vs seed baseline c2a3ee47: ok.",
-  "Negative capability": "Grounded in the opened primary source: Keats's December 1817 letter, from Letters of John Keats to His Family and Friends, ed. Sidney Colvin (fetched from Project Gutenberg; the full Negative Capability passage quoted verbatim, Keats's own spellings kept, the editor's footnote marker [34] removed, italics on 'Negative Capability' kept as in source). Seed line preserved; inherited source line preserved; all six principle links (D014, D049, D100, B047, B070, A020) preserved as bullets; both lead-in sentences carry inline citations; lead-in gloss closely tracks the letter's own words. Validated vs seed baseline c2a3ee47: ok."
+  "Negative capability": "Grounded in the opened primary source: Keats's December 1817 letter, from Letters of John Keats to His Family and Friends, ed. Sidney Colvin (fetched from Project Gutenberg; the full Negative Capability passage quoted verbatim, Keats's own spellings kept, the editor's footnote marker [34] removed, italics on 'Negative Capability' kept as in source). Seed line preserved; inherited source line preserved; all six principle links (D014, D049, D100, B047, B070, A020) preserved as bullets; both lead-in sentences carry inline citations; lead-in gloss closely tracks the letter's own words. Validated vs seed baseline c2a3ee47: ok.",
+  "Nepantla": "Grounded in the opened authoritative source: James Maffie, The Centrality of Nepantla in Conquest-Era Nahua Philosophy, Nahua Newsletter 44 (2007) — the actual PDF downloaded and read page-by-page (fetchers were blocked by robots; retrieved via curl from nahuanewsletter.org; the dead archive URL from the citation was resolved to the live wp-content URL); two verbatim blockquotes (the nepantla-process summary and the borderland sentence) plus the Duran gloss ('betwixt and between' (en medios) and 'neither one nor the other' (neutros)), all word-for-word from the PDF text. Seed repairs: the inherited Wikipedia-sourced body was replaced with grounded prose (inherited wording is not evidence); the unverified 'the tradition counsels staying in nepantla without prematurely resolving it' sentence dropped (not established by any opened source); the Anzaldúa borderlands sentence retained as inherited seed content under its own seed citation (Wikipedia was rate-limited during the rewrite, so it could not be re-opened; the claim is NOT asserted as verified — flagged for a future pass to ground Anzaldúa in an opened scholarly source). Seed source line preserved. Validated vs seed baseline c2a3ee47: ok."
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T07:36:15+00:00",
+ "updated": "2026-10-20T07:38:42+00:00",
  "band_done": false
 }
