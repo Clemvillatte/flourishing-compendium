@@ -458,3 +458,9 @@ priority, then B items in manifest order (manifest lists bare IDs; no titles).
 - Sources opened: https://tnhmeditation.org/inviting-the-bell/ (passage drawn from TNH, Peace Is Every Step, 1995, pp. 18-19) and https://www.abuddhistlibrary.com/.../Dharma Talk given by Thich Nhat Hanh on August 6.htm ("Walking into the Kingdom of God," August 6, 1997).
 - Verbatim quotes: Peace Is Every Step bell passage (pp. 18-19); dharma-talk telephone passage ("we listen to the telephone and we go back to ourselves by the transportation of our in-breath"); inline verse "Listen, listen. This wonderful sound brings me back to my true self."
 - Locator changed from The Miracle of Mindfulness to Peace Is Every Step + dharma talk (the books/talks actually quoted); noted for supervisor. Example ("twenty free sessions") trimmed to the original red-light breath framing without the invented count.
+
+### B189 — Ground in the body (2026-10-20, worker-p1p-c23eecde)
+- State: seed → done.
+- Source opened: https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html (Satipatthana Sutta MN 10, tr. Thanissaro Bhikkhu).
+- Verbatim quotes: sitting-posture/breathing passage ("holding his body erect and setting mindfulness to the fore") and the "sensitive to the entire body / calming bodily fabrication" training passage; body refrain paraphrased with quoted phrase "in & of itself".
+- Locator changed from (MN 10; Thích Nhất Hạnh) to (MN 10): no TNH body-grounding text was opened for this page; TNH references remain in B188 and B185 entries. Noted for supervisor.

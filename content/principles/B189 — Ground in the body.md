@@ -12,13 +12,20 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 189** — Ground in the body
 
-When the mind spins, drop into the body: feet on the floor, weight in the chair, breath in the belly. The body is always in the present; borrow its location.
+The Satipatthana Sutta makes the body the first frame of reference, and its instruction begins with posture and breath rather than with thinking. The monk sits with legs folded, body erect, mindfulness set to the fore, and knows each breath as it happens, long or short. The refrain that closes each body exercise asks for focus on the body "in & of itself," ardent, alert and mindful, with greed and distress put aside. (MN 10.)
 
-(MN 10; Thích Nhất Hạnh.)
+> "There is the case where a monk — having gone to the wilderness, to the shade of a tree, or to an empty building — sits down folding his legs crosswise, holding his body erect and setting mindfulness to the fore [lit: the front of the chest]. Always mindful, he breathes in; mindful he breathes out." (MN 10, Thanissaro)
 
-**Plain words** When the mind spins, drop into the body — feet on the floor, weight in the chair, breath in the belly. The body is always in the present; borrow its location. The mind time-travels; the feet never do.
+> "He trains himself, 'I will breathe in sensitive to the entire body.' He trains himself, 'I will breathe out sensitive to the entire body.' He trains himself, 'I will breathe in calming bodily fabrication.' He trains himself, 'I will breathe out calming bodily fabrication.'" (MN 10, Thanissaro)
 
-*For example:* The 3am worry spiral — five senses on the pillow, the weight of the blanket — the body drags the mind back to now.
+**Plain words**
+When thoughts race, the body is the nearest thing that is not racing. Feel the feet on the floor, the weight in the chair, the breath moving. The sutta's version is deliberately physical: sit erect, know the breath as long or short, and let it calm the body. The mind time-travels; the feet stay where they are.
+
+*For example:* The 3am worry spiral: five senses on the pillow, the weight of the blanket. Locating each one drags the mind back to now.
+
+## Sources
+
+- [Access to Insight: Satipatthana Sutta (MN 10), tr. Thanissaro Bhikkhu](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html) — sitting posture, breath instructions, and the body-focused refrain
 
 ## Psychology parallels
 
