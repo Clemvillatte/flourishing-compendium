@@ -17,14 +17,13 @@
   "AF003",
   "A027",
   "A031",
-  "A058",
   "A085",
   "A090",
   "A094",
   "A105",
   "A033"
  ],
- "in_progress": null,
+ "in_progress": "A058",
  "flagged": {
   "Y083": "Reopened for QC: QC correction round 2: add BG 6.10 citation to second sentence",
   "SO075": "Reopened for QC: QC correction round 2: remove clinical claims in example",
@@ -36,7 +35,7 @@
   "A027": "Reopened for QC: QC correction: remove proofs-of-worth gloss, cite Plain words",
   "A031": "Reopened for QC: QC correction: restore For, add citations",
   "A033": "Reopened for QC: QC correction: final plain-language repairs",
-  "A058": "Reopened for QC: QC correction: preserve conditional status, remove example",
+  "A058": "Reopened for QC: QC correction: final plain-language repairs",
   "A085": "Reopened for QC: QC correction: remove capacity mechanism, restore moderate-degree clause",
   "A090": "Reopened for QC: QC correction: remove hours division and clinic claim",
   "A094": "Reopened for QC: QC correction: remove creed and proof/music claims",
@@ -44,6 +43,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 3,
- "updated": "2026-10-20T08:27:00+00:00",
+ "updated": "2026-10-20T08:27:06+00:00",
  "band_done": false
 }
