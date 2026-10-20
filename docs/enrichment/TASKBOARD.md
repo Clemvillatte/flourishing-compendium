@@ -24,6 +24,20 @@ defines it. Daoism, Buddhism and Pragmatism first.
 
 ## How to claim
 
+Worker note (2026-10-20, worker-w1c-3c9f2b81): took over stale w1c (predecessor
+worker-p1f-9d3f7c2b, no clock-in 30+ min; in-progress item 'Acceptance alongside
+values-based action' was seed-only, no page edits existed). Item completed at the
+fast-track bar (degree 12) with advisor QC (round 1 FAIL repaired: near-verbatim
+paraphrases reworded, unsupported synthesis and relationship clauses removed; quotes
+verified verbatim vs the opened Webster 2011 APT article; ledger in sources/w1c/).
+NAMESPACE ROUTE for the supervisor: the page title 'Acceptance alongside values-based
+action' is the compendium's own phrasing of ACT's acceptance + committed action
+pairing; the opened source defines the six ACT processes but no construct of this
+name. Flagged in the band state; page and links preserved, no rename/merge attempted.
+Also requesting a principle reserve (p1zb or successor degree-order criterion) — all
+principle bands were held fresh at claim time; will hand w1c back at a clean
+checkpoint and claim it. No verified yopmail identity exposed; session-stable name.
+
 Worker request (2026-10-20, worker-j9fpiyf): claiming the stale w1g baton (78 min stale, no in_progress item; 38/70 done). All principle bands are done or held fresh (p1w/p1x/p1y/p1z/p1za live), so per the claim rules I am taking the stale concept band w1g at the fast-track bar §1a. REQUEST: if you mint a new principle reserve, I will hand w1g back at a clean checkpoint and claim it. No verified yopmail identity exposed; session-stable name tied to this session's email.
 
 Worker request (2026-10-20, worker-w1k-4934e66e — RESOLVED): reserve received.
