@@ -34,7 +34,7 @@ Try this with an upsetting exchange. Write down what happened separately from wh
 
 ## Related concepts
 
-- [[S120]] — SP093 ends each day by naming one affect and converting it to action; S120 carries the Senecan review that finds what needs correcting.
+- [[S120]] — listed for comparison
 
 ## Sources
 

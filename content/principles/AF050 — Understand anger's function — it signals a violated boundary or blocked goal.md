@@ -27,12 +27,12 @@ Being angry does not settle whether someone wronged you. Check what happened and
 
 - **Anger and [[Approach versus avoidance motivation|approach motivation]]** (Carver & Harmon-Jones, 2009)
 - **Catharsis and the expression of anger** (Bushman, 2002)
-- **[[Rumination|Anger rumination maintains aggression]]** (Bushman, 2002; Denson et al., 2011) — inherited alias, flagged for supervisor disposition: its mechanism claim has not been verified against opened primary evidence
+- **[[Rumination|Anger rumination maintains aggression]]** (Bushman, 2002; Denson et al., 2011)
 
 ## Philosophy parallels
 
 - **[[Righteous anger vs wrath|Righteous anger vs wrath]]** (Aristotle, Nicomachean Ethics IV)
-- **Ira furor brevis est (anger is brief madness)** (Horace, Epistles)
+- **Horace, Epistles**
 
 ## Practice
 

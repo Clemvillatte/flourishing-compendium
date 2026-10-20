@@ -34,7 +34,7 @@ Before sharing, consider what you want from the conversation: someone to listen,
 
 ## Practice
 
-- Write about a difficult experience for 15-20 minutes, 3-4 days in a row.
+- Try writing privately about a difficult experience you want to explore.
 
 ## Related concepts
 

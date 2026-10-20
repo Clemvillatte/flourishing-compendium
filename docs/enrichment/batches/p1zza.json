@@ -5,19 +5,19 @@
   "SE042",
   "SP093",
   "AF039",
-  "AF050",
-  "AF077"
+  "AF077",
+  "AF050"
  ],
  "in_progress": null,
  "flagged": {
   "SE042": "Reopened for QC: QC round 1 (advisor): traits-opposition misread, causal inference, unopened White & Epston gloss, plain-words duplication; repairing",
-  "SP093": "Reopened for QC: milestone QC round 2",
-  "AF039": "Reopened for QC: milestone QC round 2",
-  "AF050": "Reopened for QC: milestone QC round 2",
-  "AF077": "Reopened for QC: milestone QC round 2"
+  "SP093": "Reopened for QC: milestone QC round 3",
+  "AF039": "Reopened for QC: milestone QC round 3",
+  "AF050": "HOLD for supervisor: protected alias [[Rumination|Anger rumination maintains aggression]] asserts a mechanism (anger rumination maintains aggression) not verified against opened primary evidence; also the Rumination concept page's Related row leans on the same unopened Bushman claim. Prose itself passed round 3.",
+  "AF077": "Reopened for QC: milestone QC round 3"
  },
  "missing_concepts": [],
  "sources_checked": 9,
- "updated": "2026-10-20T16:17:38+00:00",
+ "updated": "2026-10-20T16:20:51+00:00",
  "band_done": false
 }
