@@ -63,7 +63,8 @@
   "Acquired Needs Theory (McClelland)",
   "Anger reappraisal",
   "Attachment security",
-  "Attention management"
+  "Attention management",
+  "Attentional bias theory MacLeod"
  ],
  "in_progress": null,
  "flagged": {
@@ -119,6 +120,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 24,
- "updated": "2026-10-20T11:52:32+00:00",
+ "updated": "2026-10-20T11:53:33+00:00",
  "band_done": false
 }

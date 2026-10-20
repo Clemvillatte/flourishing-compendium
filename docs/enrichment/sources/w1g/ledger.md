@@ -1422,3 +1422,25 @@ Advisor QC found batch-level and per-item issues; all repaired. Findings and rep
 - IS-IT-A-CONCEPT check: named practice construct; no namespace-audit entry.
 - Saturation: skipped per fast-track §1a (degree 12 < 15); no cross-link
   proposals filed. Advisor QC: not due (item 7; next at item 10).
+
+## Attentional bias theory MacLeod (2026-10-20, worker-p1zs-7a4e2c91, fast-track; degree 10 — eligible)
+
+- OPENED: the SciSpace record for MacLeod, Mathews & Tata 1986
+  (https://scispace.com/papers/attentional-bias-in-emotional-disorders-c9tlej18p2)
+  — blockquote (the threat-shift and control-away sentences) and the
+  maintenance-claim sentence verified verbatim on the opened record; the
+  dot-probe design sentences paraphrased without quotes (the record's abstract
+  rendering carries a "manipulted" typo in one design sentence, not quoted).
+- Boundary with the existing Attentional bias research page (covers the 2002
+  causal induction studies with its own blockquote): this page carries the
+  1986 founding paradigm and the theory's maintenance claim, and links
+  forward. The anxious-but-not-depressed contrast quoted from the 1986
+  abstract grounds the anxiety-specificity note.
+- In-the-compendium clauses grounded in the principle pages' own quoted
+  material (AT070/AT020/AT007 Bar-Haim d=0.45, AT071 Nolen-Hoeksema, AT072,
+  AT051 Fredrickson, P067 James POP, B079 MN 10 Thanissaro via enrich_find
+  context).
+- IS-IT-A-CONCEPT check: named theory with primary literature (MacLeod &
+  Mathews program); no namespace-audit entry. Saturation: skipped per
+  fast-track §1a (degree 10 < 15); no cross-link proposals filed.
+- Advisor QC: not due (item 8; next at item 10).
