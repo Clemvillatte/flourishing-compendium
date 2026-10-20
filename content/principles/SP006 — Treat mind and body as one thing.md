@@ -12,13 +12,13 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 6** — Treat mind and body as one thing
 
-Spinoza states the identity in the scholium to Part III, Proposition 2: mind and body are one and the same thing, conceived first under the attribute of thought and secondly under the attribute of extension. ([Ethics III, Prop. II, scholium, Elwes tr.](https://www.gutenberg.org/ebooks/3800)) Part II, Proposition 7 gives the same claim from the other side: the order and connection of ideas is the same as the order and connection of things. ([Ethics II, Prop. VII, Elwes tr.](https://www.gutenberg.org/ebooks/3800)) The compendium's application: when the mind is stuck, work with the body, and when the body is depleted, do not expect clean thinking. The dualist split is treated here as a diagnostic error rather than a neutral description.
+Spinoza states the identity in the scholium to Part III, Proposition 2: mind and body are one and the same thing, conceived first under the attribute of thought and secondly under the attribute of extension. ([Ethics III, Prop. II, scholium, Elwes tr.](https://www.gutenberg.org/ebooks/3800)) Part II, Proposition 7 gives the same claim from the other side: the order and connection of ideas is the same as the order and connection of things. ([Ethics II, Prop. VII, Elwes tr.](https://www.gutenberg.org/ebooks/3800)) As an interpretive exercise, the compendium invites readers to describe an experience in terms of both thought and bodily experience.
 
-> "the mind and the body are one and the same thing, conceived first under the attribute of thought, secondly, under the attribute of extension." (Ethics III, Prop. II, scholium, Elwes tr., [Gutenberg #3800](https://www.gutenberg.org/ebooks/3800))
+> "mind and body are one and the same thing, conceived first under the attribute of thought, secondly, under the attribute of extension." (Ethics III, Prop. II, scholium, Elwes tr., [Gutenberg #3800](https://www.gutenberg.org/ebooks/3800))
 
-**Plain words** The claim is not that the mind affects the body, or that the body affects the mind; both are one thing described twice. The pit in the stomach is not a logo of the worry; under Spinoza's description it is the worry, conceived under extension.
+**Plain words** Instead of asking which half of you caused an experience, try describing it twice: what you were thinking, and what you noticed in your body. This is an exercise in approaching the philosophical view, not a diagnosis.
 
-**For example (imagined):** A burned-out worker insists the problem is purely mental. A week of sleep logs, jaw-clenching and stomach trouble arrives as a second report on the same condition, and the two reports match.
+**For example (imagined):** Before speaking at a meeting, someone records their worry about forgetting a point and the tightness they notice in their stomach. They consider both descriptions when reflecting on the occasion.
 ## Psychology parallels
 
 - **[[Interoception|Interoception as the substrate of emotional regulation]]**, the evidence that bodily awareness supports affective control (Khalsa et al., 2018)
