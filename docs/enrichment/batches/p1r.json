@@ -15,19 +15,18 @@
   "P083",
   "P086",
   "P087",
-  "P088",
-  "P094"
+  "P088"
  ],
- "in_progress": null,
+ "in_progress": "P094",
  "flagged": {
   "P058": "Reopened for QC: QC round-3 touch-ups",
   "P054": "Reopened for QC: QC round-3 touch-ups",
   "P056": "Reopened for QC: QC round-3 touch-ups",
   "P088": "Reopened for QC: QC round 3: target-body reads completed, ledger/proposal record corrections",
-  "P094": "Reopened for QC: QC correction round 1 (advisor): complement framing narrowed to preparatory knowledge, novelist→literary composition, plain words re-derived from section VI, example rebuilt as writer scene, citation edition claim removed"
+  "P094": "Reopened for QC: QC round 2: citation anchor/locator fixes"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T04:26:37+00:00",
+ "updated": "2026-10-20T04:27:55+00:00",
  "band_done": false
 }
