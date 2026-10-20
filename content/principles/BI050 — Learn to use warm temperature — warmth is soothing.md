@@ -12,17 +12,19 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BI — Biophysi
 ---
 > **Principle 50** — Learn to use warm temperature: warmth is soothing
 
-Warmth carries two lines of evidence, one about safety and one about sleep. In a fear-conditioning experiment, a warm pack held in the hand resisted being associated with threat, and it inhibited an already-learned fear response with an inhibition that persisted after the pack was removed; the authors read physical warmth as a prepared safety stimulus, in the same category as social support ([Hornstein et al., 2022](https://pubmed.ncbi.nlm.nih.gov/34726432/)). For sleep, a meta-analysis of water-based passive body heating found that a warm shower or bath at 40-42.5°C, scheduled 1-2 hours before bedtime for as little as 10 minutes, was associated with improved self-rated sleep quality and sleep efficiency and a shorter sleep onset latency ([Haghayegh et al., 2019](https://pubmed.ncbi.nlm.nih.gov/31102877/)).
+Warmth has two studied effects, and both are narrow. The safety study first: in a fear-conditioning experiment, a warm pack held in the hand resisted being associated with threat, and it inhibited an already-learned fear response with an inhibition that persisted after the pack was removed; the authors read physical warmth as a prepared safety stimulus, in the same category as social support ([Hornstein et al., 2022](https://pubmed.ncbi.nlm.nih.gov/34726432/)).
+
+The sleep study: a meta-analysis of water-based passive body heating found that a warm shower or bath at 40-42.5°C, scheduled 1-2 hours before bedtime for as little as 10 minutes, was associated with improved self-rated sleep quality and sleep efficiency and a shorter sleep onset latency ([Haghayegh et al., 2019](https://pubmed.ncbi.nlm.nih.gov/31102877/)).
 
 > "Results showed that physical warmth resisted association with threat (Study 1) and not only inhibited the fear response but also led to lasting inhibition even after the warm stimulus was removed (Study 2)." (Abstract; Hornstein et al., 2022, Emotion 22(7): 1517-28, [PubMed](https://pubmed.ncbi.nlm.nih.gov/34726432/))
 
 > "PBHWB of 40-42.5 °C was associated with both improved self-rated sleep quality and SE, and when scheduled 1-2 h before bedtime for little as 10 min significant shortening of SOL." (Abstract, Results; Haghayegh et al., 2019, Sleep Med Rev 46: 124-35, [PubMed](https://pubmed.ncbi.nlm.nih.gov/31102877/))
 
 **Plain words**
-The cup of tea is not a cliché, and the reason it works is narrower than "warmth is soothing" suggests ([Hornstein et al., 2022](https://pubmed.ncbi.nlm.nih.gov/34726432/)). What the experiments show: a warm object in the hand acts on the fear system the way a supportive person's presence does, and a warm bath an hour or two before bed changes how sleep starts ([Haghayegh et al., 2019](https://pubmed.ncbi.nlm.nih.gov/31102877/)). Both effects are humble, physical, and available without thinking anything through.
+Physical warmth can act on the fear response like supportive presence, and warm baths or showers can improve sleep timing ([Hornstein et al., 2022](https://pubmed.ncbi.nlm.nih.gov/34726432/); [Haghayegh et al., 2019](https://pubmed.ncbi.nlm.nih.gov/31102877/)). These are two specific findings about two warm experiences; they do not show that every warm object reduces distress.
 
 **For example**
-(Imagined) After a bad day, someone runs a warm bath rather than arguing with their own thoughts at 11 p.m. The schedule comes from the meta-analysis (1-2 hours before bed, 10 minutes or more); the bad day is theirs.
+(Imagined) A person with disrupted sleep tries a warm bath in the evening and notices how they feel the next morning, without assuming the bath is the cause of any change.
 
 ## Sources
 
@@ -42,4 +44,4 @@ The cup of tea is not a cliché, and the reason it works is narrower than "warmt
 
 ## Practice
 
-- Use warmth for soothing: warm bath or shower 1-2 hours before bed, a warm drink (non-caffeinated), a warm pack in the hand, sunlight. Warmth is a physical input to the fear system and to sleep timing; it is not a treatment for what caused the bad day.
+- Try a warm bath or shower 1-2 hours before bedtime (40-42.5°C, at least 10 minutes) if you have difficulty falling asleep, and observe the result ([Haghayegh et al., 2019](https://pubmed.ncbi.nlm.nih.gov/31102877/)).

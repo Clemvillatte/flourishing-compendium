@@ -12,26 +12,26 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BI — Biophysi
 ---
 > **Principle 44** — Learn to recognise chronic stress: signs and symptoms
 
-Two sources carry this page: the physiology and the checklist. The physiology: Bruce McEwen's review names the chronic form of the stress burden "allostatic load", the wear and tear the body accumulates when daily life keeps the stress response running ([McEwen, 2007](https://pubmed.ncbi.nlm.nih.gov/17615391/)). The checklist: Mayo Clinic groups stress's common effects by where they show up ([Mayo Clinic](https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/stress-symptoms/art-20050987)):
+Chronic stress is the version of the stress response that stays switched on. Bruce McEwen's review names the chronic form of the burden "allostatic load", the wear and tear the body accumulates when daily life keeps the stress response running ([McEwen, 2007](https://pubmed.ncbi.nlm.nih.gov/17615391/)):
 
-> "Beyond the 'flight-or-fight' response to acute stress, there are events in daily life that produce a type of chronic stress and lead over time to wear and tear on the body ('allostatic load')." (Abstract; McEwen, 2007, Physiol Rev 87(3): 873-904, [PubMed](https://pubmed.ncbi.nlm.nih.gov/17615391/))
+> "Beyond the "flight-or-fight" response to acute stress, there are events in daily life that produce a type of chronic stress and lead over time to wear and tear on the body ("allostatic load")." (Abstract; McEwen, 2007, Physiol Rev 87(3): 873-904, [PubMed](https://pubmed.ncbi.nlm.nih.gov/17615391/))
 
-On the body, the Mayo list names headache, muscle tension or pain, fatigue, stomach upset, sleep problems and getting sick easier due to a weaker immune system. On the mood: anxiety, restlessness, lack of motivation or focus, memory problems, feeling overwhelmed, grumpiness or anger, sadness or depression. On behavior: overeating or undereating, angry outbursts, drug or alcohol misuse, tobacco use, avoiding friends and staying home, exercising less often.
+On the body, the Mayo Clinic list of possible effects of stress names headache, muscle tension or pain, fatigue, stomach upset, sleep problems and getting sick easier due to a weaker immune system ([Mayo Clinic](https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/stress-symptoms/art-20050987)). On the mood, the same list names anxiety, restlessness, lack of motivation or focus, memory problems, feeling overwhelmed, grumpiness or anger, and sadness or depression ([Mayo Clinic](https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/stress-symptoms/art-20050987)). On behavior, it names overeating or undereating, angry outbursts, drug or alcohol misuse, tobacco use, avoiding friends and staying home, and exercising less often ([Mayo Clinic](https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/stress-symptoms/art-20050987)).
 
 **Plain words**
-The stress response is easy to notice in a crisis and easy to miss when it never switches off. Chronic stress rarely announces itself as stress; it shows up as a run of headaches, poor sleep, a short temper, a head that will not hold a thought, and colds that keep finding you ([Mayo Clinic](https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/stress-symptoms/art-20050987)). Each item alone looks like its own small problem. Read together, the pattern is the message.
+The stress response is easy to notice in a crisis and easy to miss when it never switches off. The Mayo lists are possible effects of stress, not a diagnostic signature: each item has other causes, and a cluster of them is a reason to look at the whole load rather than treat five separate problems ([Mayo Clinic](https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/stress-symptoms/art-20050987)). What the page offers is the checklist, not the diagnosis.
 
 **For example**
-(Imagined) A quarter in which someone attributes three colds to the season, a jaw ache to the dentist, and tears at an advert to the advert. Read together against the checklist, they are one signature rather than five unrelated complaints.
+(Imagined) During a heavy month, someone notes more headaches, a shorter temper and worse sleep without deciding what is causing them, and takes the pattern to a doctor rather than to a self-diagnosis.
 
 ## Sources
 
-- [McEwen, 2007, Physiol Rev 87(3): 873-904, PubMed](https://pubmed.ncbi.nlm.nih.gov/17615391/) — abstract: allostatic load, brain as the key organ of the stress response
-- [Mayo Clinic, Stress symptoms](https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/stress-symptoms/art-20050987) — the common effects grouped by body, mood and behavior
+- [McEwen, 2007, Physiol Rev 87(3): 873-904, PubMed](https://pubmed.ncbi.nlm.nih.gov/17615391/) — abstract: allostatic load, wear and tear
+- [Mayo Clinic, Stress symptoms](https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/stress-symptoms/art-20050987) — possible effects of stress grouped by body, mood and behavior
 
 ## Psychology parallels
 
-- **Chronic stress symptoms**, Mayo Clinic groups common stress effects into body, mood and behavior changes ([Mayo Clinic](https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/stress-symptoms/art-20050987))
+- **Chronic stress symptoms**, Mayo Clinic lists possible effects of stress on body, mood and behavior ([Mayo Clinic](https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/stress-symptoms/art-20050987))
 - **Allostatic load**, chronic stress accumulates as wear and tear on the body in McEwen's framework ([McEwen, 2007](https://pubmed.ncbi.nlm.nih.gov/17615391/))
 
 ## Philosophy parallels
@@ -42,4 +42,4 @@ The stress response is easy to notice in a crisis and easy to miss when it never
 
 ## Practice
 
-- Recognise chronic stress: watch the checklist for the pattern, not one item at a time: sleep, temper, concentration, aches, illness. These are signs of a physiological state, not personal weakness. Address them.
+- Use the checklist as a pattern to notice, not one item at a time: sleep, temper, concentration, aches, illness. Stress is one possible explanation; these signs also have other causes, and a persistent cluster belongs in front of a clinician.

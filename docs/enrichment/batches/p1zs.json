@@ -18,10 +18,15 @@
   "BI037": "Reopened for QC: round-5 mechanical fixes",
   "BI023": "Reopened for QC: round-5 mechanical fixes",
   "BI027": "Reopened for QC: round-4 citation closure",
-  "BI035": "Reopened for QC: round-4 citation closure"
+  "BI035": "Reopened for QC: round-4 citation closure",
+  "BI038": "Reopened for QC: milestone QC round-2 repairs",
+  "BI039": "Reopened for QC: milestone QC round-2 repairs",
+  "BI044": "Reopened for QC: milestone QC round-2 repairs",
+  "BI048": "Reopened for QC: milestone QC round-2 repairs",
+  "BI050": "Reopened for QC: milestone QC round-2 repairs"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:55:45+00:00",
+ "updated": "2026-10-20T12:00:05+00:00",
  "band_done": false
 }
