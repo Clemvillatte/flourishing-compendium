@@ -175,3 +175,17 @@ Short, item-keyed evidence notes (owner decision 2026-10-20, PROTOCOL-PRINCIPLES
   kept (For example is concrete; the friend question matches the page's framing).
 - Saturation: 7 concept pages already cite SE025; "inner critic" hunt shows those
   pages relate to SE017, not SE025; no additional links warranted. Validator ok.
+
+## SE032 — Cultivate an inner ally (item 8)
+- Source opened: Kross et al. 2014, JPSP 106(2) 304-324, author-lab-hosted PDF —
+  downloaded, pdftotext extraction; abstract conclusion verified by substring check
+  (True). Locator: p. 304 (abstract page; article pages 304-324).
+- Body: added the Kross conclusion blockquote + a grounded address/distancing sentence
+  (self-distancing claim grounded in the opened abstract's "using non-first-person
+  pronouns and one's own name... enhances self-distancing"). Plain words re-derived
+  (was semi-replicate: re-quoted the critic/ally dichotomy).
+- Inherited psychology parallels (Morin 2005; Brinthaupt 2009; Dobson 2012) NOT
+  source-checked this item — flagged, not certified. Practice, For example, parallels
+  kept. Saturation: 5 concept pages already cite SE032 (incl. Distanced self-talk
+  (Kross)); mention hunt for "self-talk" surfaced no uncited natural targets; no
+  additional links warranted. Validator ok. DONE (no advisor QC due: item 8).
