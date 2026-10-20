@@ -29,7 +29,8 @@
   "P134",
   "P152",
   "P153",
-  "P166"
+  "P166",
+  "P171"
  ],
  "in_progress": null,
  "flagged": {
@@ -44,6 +45,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T04:39:27+00:00",
+ "updated": "2026-10-20T04:40:11+00:00",
  "band_done": false
 }

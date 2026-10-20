@@ -12,17 +12,27 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 171** — Watch your explanatory style
 
-How you explain events: permanently, pervasively, personally versus specifically and transiently — shapes what you do next. Explain setbacks in their specificity, not as verdicts on your being.
+Seligman's construct here is the explanatory style: the habitual way a person explains bad events (and good ones) to themselves. His own summary of the difference between the pessimistic and optimistic versions:
 
-(Seligman, Learned Optimism, 1990 — the secular core of his program.)
+> What matters is explanatory style. Pessimists explain bad events as permanent, pervasive, and personal. Optimists explain the same events as temporary, specific, and controllable.
+>
+> (Seligman, Beck Institute Q&A about his book Agency, 2026)
 
-**Plain words** How you explain events — permanently, pervasively, personally versus specifically and transiently — shapes what you do next. Explain setbacks in their specificity, not as verdicts on your being. 'I'm a failure' and 'that approach failed' produce wildly different next Tuesdays.
+The three words are the three dimensions. Permanent asks whether the cause lasts forever. Pervasive asks whether it ruins everything or only this. Personal asks whether it is about you or about circumstances. The practice the principle draws from them is not spin. Seligman adds in the same interview that "the pessimistic style and the excusing style are the same move: both put the cause beyond the reach of your action, one by calling it your permanent defect, the other by calling it someone else's fault." The point is to keep the cause within reach of your action, whichever direction the explanation leans.
 
-*For example:* The rejected manuscript — 'I'm a bad writer' (permanent, personal, pervasive) ends the career. 'That draft didn't fit that journal' (specific, transient) ends in the next submission. Same rejection, two futures.
+**Plain words**
+When something goes wrong, you explain it to yourself in a sentence or two. Listen to the sentence. "I always ruin everything" makes the cause permanent, pervasive and personal. "That approach did not fit that situation" makes it temporary, specific and partly circumstantial. The first sentence leaves you nothing to do. The second one leaves you a next move. You do not have to force yourself into the sunny version; you just have to notice when your explanation closes a door that a truer one would leave open.
+
+*For example:*
+A journal rejects the manuscript. "I'm a bad writer" is a verdict on your being, and verdicts have no next step. "That draft did not fit that journal" is a claim about one draft and one journal, and it leaves a revision and a next submission available.
+
+## Sources
+
+- [Seligman on explanatory style, Beck Institute Q&A about Agency (2026)](https://beckinstitute.org/blog/a-qa-with-dr-martin-seligman-on-how-agency-shapes-human-action-part-1/) — both quotations verbatim from the interview page
 
 ## Psychology parallels
 
-- **[[Optimistic explanatory style|Optimistic explanatory style]]**, predicts persistence and health (Seligman, 1990; optimistic attribution style research)
+- **[[Optimistic explanatory style|Optimistic explanatory style]]**
 
 ## Philosophy parallels
 

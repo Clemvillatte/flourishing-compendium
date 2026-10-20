@@ -668,3 +668,32 @@
   Reflections byte-identical (trailing newline added, missing in
   seed). Reciprocals A060/S066/D127 proposed; K015 (live p1f)
   noted only. Validator ok; build ok.
+
+### P171 — Watch your explanatory style (2026-10-20, worker-p1o-72a54432)
+- Opened: Beck Institute Q&A with Seligman about his book Agency
+  (2026, beckinstitute.org), fetched in full. Quotes verbatim from
+  the interview page: 'What matters is explanatory style. Pessimists
+  explain bad events as permanent, pervasive, and personal.
+  Optimists explain the same events as temporary, specific, and
+  controllable.' and 'the pessimistic style and the excusing style
+  are the same move: both put the cause beyond the reach of your
+  action, one by calling it your permanent defect, the other by
+  calling it someone else's fault.' Both are Seligman's own words as
+  published on the opened page.
+- Seed locator '(Seligman, Learned Optimism, 1990...)' dropped
+  (book not opened; the Beck interview is the opened source and both
+  quotes are dated to it). Wikipedia 'Explanatory style' fetch was
+  rate-limited this session; the body is grounded in the Seligman
+  quotes only, so nothing rests on the unopened article. Psychology-
+  parallel 'predicts persistence and health (Seligman, 1990;
+  optimistic attribution style research)' reduced to the bare
+  wikilink (unopened citations). Old body carried the 3 Ps in a
+  dash-heavy compound sentence; Plain words was a body replicate;
+  For example predicted outcomes ('ends the career' / 'ends in the
+  next submission') - rewritten to what each explanation leaves
+  available, no outcome guarantee. Reflections byte-identical
+  (trailing newline added, missing in seed). Saturation: no
+  principle discusses explanatory style without linking P171;
+  concept pages (Learned optimism, Optimistic explanatory style,
+  Redescription, Tragic optimism) already list P171 - no new
+  proposals. Validator ok; build ok.
