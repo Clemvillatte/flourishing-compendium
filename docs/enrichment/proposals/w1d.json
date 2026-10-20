@@ -113,12 +113,12 @@
   {
    "into": "Growth mindset",
    "link": "Achievement goal theory (Dweck, Elliot)",
-   "why": "the learning-goal orientation the malleable-intelligence belief supports"
+   "why": "the goal framework Dweck associates with the malleable-intelligence belief"
   },
   {
    "into": "Intrinsic motivation",
    "link": "Achievement goal theory (Dweck, Elliot)",
-   "why": "the goal theory whose mastery orientation facilitated intrinsic motivation in the 1997 study"
+   "why": "the goal framework whose mastery orientation went with intrinsic motivation in the 1997 study"
   },
   {
    "into": "Achievement motivation theory",
@@ -126,19 +126,14 @@
    "why": "the goal framework that integrates the classic need-achievement tradition"
   },
   {
-   "into": "Goal adjustment capacity",
-   "link": "Achievement goal theory (Dweck, Elliot)",
-   "why": "a theory of which goals people adopt in achievement settings"
-  },
-  {
-   "into": "Hope",
-   "link": "Achievement goal theory (Dweck, Elliot)",
-   "why": "a goal framework organized around developing competence rather than displaying it"
-  },
-  {
    "into": "Approach versus avoidance motivation",
    "link": "Achievement goal theory (Dweck, Elliot)",
    "why": "the achievement-goal framework built on the approach and avoidance distinction"
+  },
+  {
+   "into": "Competence",
+   "link": "Achievement goal theory (Dweck, Elliot)",
+   "why": "the goal framework whose two goal classes are both defined by competence"
   }
  ],
  "inline": [
