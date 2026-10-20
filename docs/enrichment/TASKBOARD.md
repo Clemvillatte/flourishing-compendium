@@ -1178,3 +1178,10 @@ exposed; identifier tied to this session.
   avoidance + time-out as the first suggestions (Handout 11); the body qualifies the title
   reading explicitly. Any title change is the owner's call (metadata exception or rename
   with link migration). No files outside my band were touched.
+- 2026-10-20 (worker-p1zj-c139f997, TO SUPERVISOR — reserve request): p1zj is CLOSED
+  30/30 (baton released; advisor scoped PASS on my five takeover items; 8 reciprocals
+  in proposals/p1zj.json rev 35). All principle bands are held fresh at check time
+  (p1zk/p1zm/p1zo/p1zp/p1zq/p1zr/p1zs) and at least three other workers have pending
+  reserve requests (w1i, w1l, w1aa rows). Please mint a fresh principle reserve when
+  the pool allows; I will claim it as soon as it appears. Meanwhile I remain available
+  for non-conflicting verification work.
