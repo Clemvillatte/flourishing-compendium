@@ -16,9 +16,15 @@ The vigilance chapter's speech discipline: words are to be relevant, gentle, and
 
 (Shantideva, Bodhicharyavatara, ch. 5, the speech verses.)
 
-**Plain words** Make speech relevant, gentle and well timed, and train in the pause between having something to say and saying it. Speech is the mind's most irreversible output, and most regret is shaped like a sentence. In your next charged conversation add two breaths.
+> When talking, I shall speak from my heart, coherently, with the meaning clear, pleasingly, rid of greed and aggression, gently, and just enough. (Shantideva, Bodhicharyavatara V.79, Alexander Berzin translation, 2004)
+
+**Plain words** Between the thought and the sentence there is a gap, and the gap can be widened. Most of what you regret saying was pushed out before it had finished forming; hold the reply for two breaths and a better-shaped one often arrives in the space. The skill is not silence. It is letting the delay choose which thoughts become words.
 
 *For example:* Someone says something unfair in a meeting. You wait two breaths, and what comes out is a question rather than a verdict.
+
+## Sources
+
+- [Shantideva, Engaging in Bodhisattva Behavior, ch. 5 "Safeguarding with Alertness" (Berzin translation)](https://studybuddhism.com/en/tibetan-buddhism/original-texts/sutra-texts/engaging-in-bodhisattva-behavior/safeguarding-with-alertness)
 
 ## Psychology parallels
 
