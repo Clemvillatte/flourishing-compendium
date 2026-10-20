@@ -13,7 +13,7 @@ The owner approved continuation after the three-target scope proposal and asked 
 | s1b-003 | [The Four Clock Strokes Bergson Had Not Counted](s1b-003.md), P196 | ready | Independent substantive PASS; decide separate story versus ST120 enrichment before registration. |
 | s1b-004 | [The Carpenter, the Corpse, and the Slowing Walker](s1b-004.md), B084 | ready | Independent substantive PASS after corrections; retain all five methods and their interpretive limits. |
 | s1b-005 | [Brekhunov Warms the Man He Underpaid](s1b-005.md), P194 | ready | Fifth-item milestone independent substantive/source PASS; preserve the full ending and the bounded cross-tradition analogy. |
-| s1b-006 | [The Gulls That Would Not Land](s1b-006.md), D133 | drafting | Source-grounded draft passes story_check; final independent attribution/outcome check is in progress. |
+| s1b-006 | [The Gulls That Would Not Land](s1b-006.md), D133 | qc_pending | Source-grounded draft passes story_check; final independent attribution/outcome check is in progress. |
 
 ## Integration cautions
 
