@@ -152,6 +152,25 @@ a principle reserve from the active supervisor.
 - Saturation: fast-track exemption. No links or frontmatter changed; no reciprocal.
 - QC: literal source comparison and validator before done; next milestone sample.
 
+## Social cognitive theory of morality
+
+- Track: fast-track, current degree 8 (6 principles, 1 layer, 1 section).
+- Opened 2026-10-20:
+  https://journals.sagepub.com/doi/10.1207/s15327957pspr0303_3 , Bandura (1999),
+  abstract; and
+  https://centrodocumentacion.psicosocial.net/wp-content/uploads/2003/01/bandura-selective-moral-disengagement-in-the-exercise-of-moral-agency.pdf ,
+  Bandura (2002), pp. 101–102.
+  Search: Bandura social cognitive theory moral agency disengagement 1999.
+- Quote: exact first sentence of the 1999 abstract, not the similar but different
+  2002 opening sentence. Model and disengagement description from 2002.
+- Limits: theory and the author's normative argument; no guaranteed effect of
+  moral education, developmental stage claim or crime-prediction claim.
+- Bookkeeping: in-progress label Social intuitionism was a mistaken next-item
+  label, with no page/content edits. Corrected via state start to the exact w1i
+  manifest member Social cognitive theory of morality before any authoring.
+- Saturation: fast-track exemption. All inherited links retained, no reciprocal.
+- QC: literal quote match, retained subheading and preservation validator before done.
+
 ## Non-dual awareness
 
 - Track: fast-track, current degree 7 (all principles).
