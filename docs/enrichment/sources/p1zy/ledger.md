@@ -214,3 +214,9 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 - Quotes verified: all quoted spans matched the fetched pages.
 - Seed repairs: "explicitly forbids" and "holding together" are not in this translation; replaced with what 3.4 and 3.8 say. Janaka kept as the exemplar king. One-role-as-service practice labelled as the page's own. Post 2005, Dewey, Diogenes not opened.
 - Saturation: low; a second translation (Radhakrishnan, Easwaran) would help with loka-sangraha.
+
+## Y103 (2026-10-21, worker-p1zz-b81e3f52)
+- Sources opened: holy-bhagavad-gita.org (Mukundananda) BG 3.4, 3.5, 3.6, 3.7, 3.8.
+- Quotes verified: all matched the fetched pages (3.6 and 3.7 checked directly).
+- Seed repairs: "abstention is also action, worse" and the necessity-before-desire test are labelled as the page's own; 3.6 (hypocrisy of outward restraint) added as the text's actual hard line. Martell 2010 and Aristotle not opened.
+- Saturation: low.
