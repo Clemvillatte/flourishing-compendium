@@ -163,3 +163,8 @@ Per-item evidence notes (owner concise-bar items 6-7). Manifest: BE012..CO061, 3
 - Sources opened: PubMed abstracts Gordon et al. 2018 (29800984), Gordon et al. 2017 (28819746). Quotes verified verbatim.
 - Dropped unsupported self-esteem/cognition claims; flagged that the self-esteem parallel (Gordon 2018) does not match that paper. Stathopoulou 2006 and Tucker 2002 not opened.
 - QC: self-QC only; validator pass.
+
+## BI046 — Physiological sigh
+- Sources opened: Balban et al. 2023 PubMed abstract + PMC full text (instructions, sample, limitations quoted verbatim).
+- Added caveats: exploratory, retrospective registration, 4 weeks, small groups; author COI (Huberman, WHOOP advisor). Trial's name for the practice is "cyclic sighing".
+- QC: self-QC only; validator pass.
