@@ -24,14 +24,12 @@ And on ordinary progress:
 
 > Even ordinary, incremental progress can increase people's engagement in the work and their happiness during the workday. (Amabile & Kramer, 2011)
 
-The compendium's exercise connects the finding to how goals are divided: if progress is what sustains motivation, divide the work so progress is visible often rather than rarely.
-
 (Amabile & Kramer, 2011, "The Power of Small Wins," Harvard Business Review, May 2011.)
 
 **Plain words**
-The diary study found that people's best days were days they moved something forward, and that the steps were usually small. The compendium's exercise: take a long pursuit, divide it into steps small enough that one can be finished today, and note each finished step as you go.
+Amabile and Kramer describe small steps in meaningful work as potentially important for how people experience a workday. The compendium uses this finding as a planning prompt: choose a project that matters to you and identify a manageable next step. Decide what would count as completing it.
 
-*For example:* A thesis looks like one enormous object until it is a list of sections. Finishing one subsection on a Tuesday is a minor step for the project; the diary research suggests it can still be a major event for how the day feels.
+*For example:* Suppose you are revising a thesis chapter. Set a subgoal of checking the citations in one paragraph. Afterward, note whether that step moved the chapter forward and how the work felt.
 
 ## Sources
 
