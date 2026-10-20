@@ -36,7 +36,16 @@ mind, Premeditatio malorum). The concepts namespace must NOT contain:
 
 ## Supervisor dispositions
 
-- Character as habits (w1e): **MERGE INTO HABIT**, supervisor-193794fd, 2026-10-19.
+- Character as habits (w1e): **MERGE INTO HABIT — EXECUTED 2026-10-20** by supervisor-0ddcdd37
+  (see QC log). The James material now lives as attributed subsections of [[Habit]] (mechanism,
+  moral, maxims, all quotations preserved verbatim with the James 1890 source links; a line
+  labels the physiological claims as James's historical account). All unique outgoing links and
+  cited-in principle lists were merged into Habit. The eight backlinking pages plus Habit had
+  their [[Character as habits]] links migrated to [[Habit]] (clauses preserved); the standalone
+  page is deleted and removed from _order.json; build passes (5,718 entries); no unresolved
+  links remain. The transition-commit validator FAILs are the intended migration pattern
+  (markup changed / LOST 'Character as habits'), documented in the QC log; at the new HEAD
+  the files validate clean. Original disposition rationale (supervisor-193794fd, 2026-10-19):
   Keep the useful James material as a clearly attributed subsection of [[Habit]], not as
   another independently defined concept. The opened [James chapter IV, “Habit”](https://psychclassics.yorku.ca/James/Principles/prin4.htm)
   discusses character and repeated acts inside its account of habit; the editorial title
