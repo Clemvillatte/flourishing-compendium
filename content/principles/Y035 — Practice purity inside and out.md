@@ -12,13 +12,25 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 35** — Practice purity inside and out
 
-The first observance (shaucha) covers body, environment, and, in the tradition's deeper reading, the purification of the mind's content. The practical instruction is unglamorous and effective: cleanliness of the practice environment is treated as part of the practice, because external order reliably steadies attention. Practically, clear and clean the space before each sitting.
+Cleanliness (shaucha) is the first of five observances in sutra 2.32: "Cleanliness and contentment and self-castigation and study and devotion to the Isvara are the observances" (trans. Woods). Vyasa divides it into two kinds: "cleanliness is produced by earth or by water or the like, and by the consumption and other [requirements] with regard to pure sacrificial food. This is outer. Inner [cleanliness] is the washing away of the blemishes of the mind-stuff" (Woods, p. 181).
 
-(YS 2.40-2.41.)
+### What it produces
 
-**Plain words** Purity, inside and out: body, environment, and — in the deeper reading — the purification of the mind's content. Unglamorous and effective: cleanliness of the practice environment is part of the practice, because the outer order steadies the inner attention.
+Sutra 2.41 lists inner results: "Purity of sattva and gentleness and singleness-of-intent and subjugation of the senses and fitness for the sight of the self". The commentary builds a chain: "When the defilements of mind-stuff are washed away, the mind-stuff comes-forth-to-sight undefiled", then "gentleness [or] transparency", "singleness-of-intent", control of the senses, and finally fitness for seeing the Self (Woods, pp. 188-189).
 
-*For example:* The person who "can't focus at home" — clears the desk, opens the window, puts the dishes away — and finds a third of the focus problem was environmental and fully solvable in nine minutes.
+### A harder note
+
+Sutra 2.40 says "As a result of cleanliness there is disgust at one's own body and no intercourse with others". Vyasa reads this ascetically: seeing "the offensiveness of the body" the yogin is "no longer attached to the body" (p. 188). The commentary does not say a tidy room steadies attention, and it names no rule to clear the space before a sitting. That advice is a reasonable modern practice, not a quote.
+
+**Plain words** In the text, cleanliness has an outer side (washing, clean food) and an inner side (clearing the mind of what clouds it). The inner one is what the tradition cares about, and it leads toward calm, gentleness and focus. Tidying a space can support that, though the commentary asks for much more than tidiness.
+
+*For example:* Imagined example: before sitting to write, you clear the desk and silence the phone. It is a small outer step that helps you notice what is crowding your head.
+
+(Yoga Sutras 2.32 and 2.40-2.41 with Vyasa's Bhasya and Vacaspati Misra's gloss, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), pp. 181, 188-189, Internet Archive, opened 2026-10-21.)
+
+## Sources
+
+- [Woods, The Yoga-System of Patanjali (1914), Internet Archive](https://archive.org/details/yogasystemofpata00wooduoft) — pp. 181, 188-189
 ## Psychology parallels
 
 - **[[Situation selection|Situation selection and environmental design as regulation]]** (Gross, 2015, extended process model)

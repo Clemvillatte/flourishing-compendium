@@ -29,3 +29,7 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 ## Y025 (2026-10-21)
 - Arnold, Song Celestial (Gutenberg 2388) ch. 6 (Arjuna's wind passage; Krishna's reply "restrained by habit... By wont of self-command"); Woods YS 1.12 (pp. 34-35) and 1.35 (p. 72). Quotes verified; Arnold's verse line breaks joined and line-initial capitals lowered.
 - Old text said the Gita's answer is "practice and dispassion" (BG 6.35); Arnold's rendering says habit and self-command; the practice-and-passionlessness pair is verified at YS 1.12. The old cite YS 1.35 is about steadying via a sense-activity linked to an object, not restlessness as such; page says so. "Weather" is the principle's image, labelled. Plain words replicate replaced; example imagined. Self-QC only.
+
+## Y035 (2026-10-21)
+- Woods HOS 17: 2.32 + Vyasa (p. 181), 2.40-2.41 + commentary (pp. 188-189, from the "[188" and "189]" running heads). OCR "Icvara" corrected to Isvara; a footnote intrudes mid-sentence in the 2.41 commentary and was skipped.
+- Old text said cleanliness "covers body, environment, and the purification of the mind's content" and that a clean practice space "reliably steadies attention"; the commentary names outer (earth, water, pure food) and inner (washing away mind-stuff blemishes) only, and 2.40 reads ascetically (disgust for the body). Space-clearing is a modern practice; page says so. Plain words replicate replaced; example imagined. Self-QC only.
