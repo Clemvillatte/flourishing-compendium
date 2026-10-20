@@ -12,11 +12,11 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 149** — Do not crave fame
 
-Fame is a preferred indifferent at best, a distraction at worst. The person who seeks fame is seeking the approval of people whose judgment may be worthless. The Stoic seeks the approval of their own reason, not the applause of the crowd.
-
 Marcus challenges the wish to be remembered by pointing out that our admirers will die too, along with the people who remember them ([Meditations IV.19](https://classics.mit.edu/Antoninus/meditations.4.four.html)). But his stronger question concerns the present: even if remembrance lasted, what would it add to the quality of your life or conduct ([Meditations IV.19](https://classics.mit.edu/Antoninus/meditations.4.four.html))?
 
-He tests praise against ordinary objects, from an emerald to a flower: "Neither worse then nor better is a thing made by being praised." ([Meditations IV.20, George Long translation](https://classics.mit.edu/Antoninus/meditations.4.four.html)) His point includes truth and benevolence, whose worth does not await a favourable audience ([Meditations IV.20](https://classics.mit.edu/Antoninus/meditations.4.four.html)).
+He tests praise against ordinary objects, from an emerald to a flower, and extends the point to truth and benevolence, whose worth does not await a favourable audience ([Meditations IV.20](https://classics.mit.edu/Antoninus/meditations.4.four.html)).
+
+> "Neither worse then nor better is a thing made by being praised." (Med. IV.20, [George Long translation](https://classics.mit.edu/Antoninus/meditations.4.four.html)).
 
 This need not become a refusal to publish, accept thanks or learn from criticism. Marcus allows praise a certain usefulness; what he challenges is treating it as the reason to live or act ([Meditations IV.19](https://classics.mit.edu/Antoninus/meditations.4.four.html)).
 

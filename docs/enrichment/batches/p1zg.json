@@ -29,15 +29,16 @@
   "S037",
   "S041",
   "S046",
-  "S015"
+  "S015",
+  "S027"
  ],
- "in_progress": "S027",
+ "in_progress": null,
  "flagged": {
   "S015": "QC repair verified: inherited generic prose removed; standalone exact quote; saturation completed; validator PASS.",
-  "S027": "Reopened for QC: Standalone source quote and saturation check; remove inherited unsourced generalisations."
+  "S027": "QC repair verified: inherited unsupported prose removed; source quote standalone; saturation complete; validator PASS."
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T10:15:13+00:00",
+ "updated": "2026-10-20T10:15:44+00:00",
  "band_done": false
 }
