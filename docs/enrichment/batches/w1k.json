@@ -16,7 +16,8 @@
   "Mattering",
   "Maximizing versus satisficing",
   "Metacognitive monitoring",
-  "Metanoia (transformation)"
+  "Metanoia (transformation)",
+  "Negative capability"
  ],
  "in_progress": null,
  "flagged": {
@@ -35,10 +36,11 @@
   "Media multitasking": "NOTE: the seed line's claim ('heavy multitaskers show poorer sustained attention') was not re-asserted — inherited wording is not evidence, and the opened abstract does not state poorer sustained attention; it states susceptibility to interference from irrelevant environmental stimuli and memory representations, and worse task-switching performance. Grounded in the opened primary source: Ophir, Nass and Wagner, Cognitive control in media multitaskers, PNAS 2009 (fetched; full abstract quoted verbatim). All six seed principle links (D071, AT016, AT055, AT063, B168, P174) preserved as bullets; inherited source line preserved; lead-in sentence carries inline citation. Validated vs seed baseline c2a3ee47: ok.",
   "Metacognitive monitoring": "MILESTONE QC REPAIR (advisor, items 11-15): unsupported priority claims removed ('coined to name', 'opened the field'); opening replaced with the advisor-specified narrowly-supported wording; the unverified Flavell-attributed formulation 'the separation of knowing from content' deleted from Other formulations; citation added to the conclusion lead-in; facets retained as inherited labels without claiming the excerpt establishes trainability or decentering. Validated vs seed baseline c2a3ee47: ok.",
   "Metanoia (transformation)": "MILESTONE QC REPAIR (advisor, items 11-15): citation added to 'Thayer's Lexicon gives the sense of the noun...'. Validated vs seed baseline c2a3ee47: ok.",
-  "Moral sentiments": "Grounded in two opened primary sources: Hume, A Treatise of Human Nature 2.3.3 (fetched from Hume Texts Online; the reason-and-passions passage quoted verbatim) and Smith, The Theory of Moral Sentiments (fetched from Project Gutenberg; the sympathy opening quoted verbatim). Seed line preserved; both inherited source lines preserved; the four seed principle links (D017, B157, CO075, SP014) preserved as bullets under In the compendium; R059/R078 Cited-in preserved; both lead-in sentences carry inline citations. Validated vs seed baseline c2a3ee47: ok."
+  "Moral sentiments": "Grounded in two opened primary sources: Hume, A Treatise of Human Nature 2.3.3 (fetched from Hume Texts Online; the reason-and-passions passage quoted verbatim) and Smith, The Theory of Moral Sentiments (fetched from Project Gutenberg; the sympathy opening quoted verbatim). Seed line preserved; both inherited source lines preserved; the four seed principle links (D017, B157, CO075, SP014) preserved as bullets under In the compendium; R059/R078 Cited-in preserved; both lead-in sentences carry inline citations. Validated vs seed baseline c2a3ee47: ok.",
+  "Negative capability": "Grounded in the opened primary source: Keats's December 1817 letter, from Letters of John Keats to His Family and Friends, ed. Sidney Colvin (fetched from Project Gutenberg; the full Negative Capability passage quoted verbatim, Keats's own spellings kept, the editor's footnote marker [34] removed, italics on 'Negative Capability' kept as in source). Seed line preserved; inherited source line preserved; all six principle links (D014, D049, D100, B047, B070, A020) preserved as bullets; both lead-in sentences carry inline citations; lead-in gloss closely tracks the letter's own words. Validated vs seed baseline c2a3ee47: ok."
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T07:34:38+00:00",
+ "updated": "2026-10-20T07:36:08+00:00",
  "band_done": false
 }
