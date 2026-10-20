@@ -12,11 +12,24 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 ---
 > **Principle 67** — Recognise the role of emotion in reasoning: feeling is information for thinking
 
-Emotions are not the enemy of reason; they are inputs to it. Fear, anger, sadness, and joy all carry information that can inform judgment. The problem is not emotion in reasoning but emotion that is unrecognised or unexamined.
+The best-known evidence that feelings work as information comes from a decision task. In Bechara and colleagues' gambling experiment, healthy participants "began to generate anticipatory skin conductance responses (SCRs) whenever they pondered a choice that turned out to be risky, before they knew explicitly that it was a risky choice". They also "began to choose advantageously before they realized which strategy worked best". The authors conclude: "nonconscious biases guide behavior before conscious knowledge does" (Bechara, Damasio, Tranel and Damasio, 1997, abstract, [Science 275](https://pubmed.ncbi.nlm.nih.gov/9036851/)).
 
-**Plain words** Emotions are not the enemy of reason — they're inputs to it. Fear, anger, sadness, joy all carry information for judgment. The problem isn't emotion in reasoning; it's emotion unexamined, doing the reasoning. Feel it, read it, then think.
+The same literature shows the risk. Schwarz and Clore's well-known study reported higher life satisfaction on sunny days than on rainy days, unless people were first asked about the weather. That finding has not held up well. In over a million Americans, "weather does not reliably affect judgments of life satisfaction" (Lucas and Lawless, 2013, [JPSP 104(5)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3695376/)), and nine larger replications of mood studies found that most gave nonsignificant effects, with the significant ones "substantially smaller" than in earlier research (Yap et al., 2017, abstract, [JPSP 113](https://pubmed.ncbi.nlm.nih.gov/27936835/)).
 
-*For example:* The buyer whose gut says "something's off" about the house — that's data (the damp smell the eyes missed) — versus the buyer who either ignores it (data discarded) or obeys it blindly (data promoted to verdict). The third option — feel it, investigate it — is the whole skill.
+A feeling is evidence about something, and the work is deciding what. A signal tied to the task can guide you. A mood caused by the weather is a signal about the weather.
+
+**Plain words**
+A feeling of unease, excitement or dread often reflects something you have noticed without putting it into words. It can also come from tiredness, hunger or a bad morning. Treat it as a lead to investigate, not a verdict. Ask what it is about, and whether it could come from somewhere else.
+
+**For example**
+You feel uneasy while viewing a house. Look for a cause: a damp smell, a crooked door frame, noisy pipes. If you find one, the feeling was telling you something. If you find nothing and have not eaten since breakfast, hold the decision until you have.
+
+## Sources
+
+- [Bechara, Damasio, Tranel and Damasio, Deciding advantageously before knowing the advantageous strategy, Science 275 (1997), 1293-1295, PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/9036851/): abstract only
+- [Lucas and Lawless, Does life seem better on a sunny day? Journal of Personality and Social Psychology 104(5) (2013), PMC full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC3695376/): abstract, and the description of Schwarz and Clore (1983) in the introduction. The 1983 paper itself was not opened.
+- [Yap et al., The effect of mood on judgments of subjective well-being: nine tests of the judgment model, JPSP 113 (2017), PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/27936835/): abstract only
+
 ## Psychology parallels
 
 - **[[Affect as information|Affect-as-information in reasoning]]**, feelings are used as evidence in judgment (Schwarz & Clore, 1983; Schwarz, 2012)

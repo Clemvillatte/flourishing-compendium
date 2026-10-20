@@ -28,3 +28,7 @@ No separate advisor tool available to this session; quotes are checked programma
 ## CO055
 - Murphy et al. 2023 (UCC CORA accepted manuscript, opened): abstract, 25% n=6, 35% (27% partial, 8% full), mock-juror quote verified; the Loftus & Pickrell p.723 quotation is TAKEN FROM Murphy et al. (primary 1995 paper not opened; attributed as 'as quoted in'). Wixted & Wells 2017: PubMed abstract.
 - Limits: original sample size (24) not verified, so omitted. Example hypothetical.
+
+## CO067
+- Bechara et al. 1997 Science, Yap et al. 2017 JPSP: PubMed abstracts, quotes exact. Lucas & Lawless 2013 JPSP 104(5): PMC full text (abstract quote and description of Schwarz & Clore 1983 as relayed there). Schwarz & Clore 1983 itself NOT opened; Schwarz 2012 (inherited parallel) not opened.
+- Limits: example hypothetical.
