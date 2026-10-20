@@ -1,6 +1,6 @@
 {
  "batch": "p1zo",
- "revision": 18,
+ "revision": 19,
  "reciprocal": [
   {
    "into": "Identity development",
@@ -55,6 +55,12 @@
    "link": "SO070",
    "why": "the sociocultural-stressor principle behind the climate emotions this concept maps",
    "notes": "Page distinguishes eco-anxiety from ecological grief but links no SO climate principle; evidence in sources/p1zo/SO070.md (Berry 2010 + Hickman 2021, both opened)."
+  },
+  {
+   "into": "Acculturation theory Berry",
+   "link": "SO074",
+   "why": "the strength-side counterpart of the acculturation strategies this concept maps: holding two identities as compatible rather than oppositional",
+   "notes": "Page's BII research sentence does not link SO074; evidence in sources/p1zo/SO074.md (Benet-Mart\u00ednez 2002 via ERIC + Chen 2015 + Saad 2013, all opened)."
   }
  ],
  "inline": [],
