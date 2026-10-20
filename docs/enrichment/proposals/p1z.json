@@ -27,6 +27,13 @@
       "phrase": "attention restoration theory",
       "why": "AT037 quotes the same Kaplan 1995 paper for the depletable-resource claim but never links AT038, which documents the soft-fascination recovery mechanism",
       "notes": "found by mention scan during AT038 saturation"
+    },
+    {
+      "into": "AT025",
+      "type": "principle",
+      "phrase": "When you notice your mind wandering, return to the breath",
+      "why": "the return-from-wandering practice AT025 describes is the FA skill AT047 documents from Lutz et al. 2008, with no link between them",
+      "notes": "found by mention scan during AT047 saturation"
     }
   ],
   "inline": [
