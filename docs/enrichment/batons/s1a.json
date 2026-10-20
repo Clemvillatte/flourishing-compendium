@@ -1,13 +1,20 @@
 {
  "baton": "s1a",
- "agent": "storyteller-dd542ab3",
- "clocked_in": "2026-10-20T13:18:10+00:00",
+ "agent": "storyteller-e40d7d3c",
+ "clocked_in": "2026-10-20T13:39:02+00:00",
  "takeovers": [
   {
    "by": "storyteller-dd542ab3",
    "at": "2026-10-20T12:51:54+00:00",
    "from": null,
    "reason": "free"
+  },
+  {
+   "by": "storyteller-e40d7d3c",
+   "at": "2026-10-20T13:39:02+00:00",
+   "from": "storyteller-dd542ab3",
+   "reason": "stale (21 min)"
   }
- ]
+ ],
+ "released": false
 }
