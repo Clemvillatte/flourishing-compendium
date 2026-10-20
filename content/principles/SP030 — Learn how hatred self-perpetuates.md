@@ -31,6 +31,8 @@ Spinoza argues that reciprocated hatred strengthens hatred and that love can des
 
 ## Psychology parallels
 
+- **[[Forgiveness|Forgiveness interventions and reciprocity dynamics]]** — Worthington, 2001
+
 - **[[Forgiveness|Forgiveness interventions and reciprocity dynamics]]**, the evidence that unilateral prosocial moves reliably shift hostile spirals (Worthington, 2001, Five Steps to Forgiveness; Dunbar's gossip-cooperation findings as background)
 
 ## Philosophy parallels

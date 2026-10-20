@@ -16,7 +16,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 
 (Spinoza, Ethics, Part II, Proposition 44, Corollary 2, trans. R. H. M. Elwes, [Project Gutenberg](https://www.gutenberg.org/ebooks/3800).)
 
-Spinoza's proof is that "It is in the nature of reason to regard things, not as contingent, but as necessary," and that this necessity "is the very necessity of the eternal nature of God." In Part V, Proposition 29, "Whatsoever the mind understands under the form of eternity, it does not understand by virtue of conceiving the present actual existence of the body, but by virtue of conceiving the essence of the body under the form of eternity." Proposition 30 adds that the mind so conceiving "has to that extent necessarily a knowledge of God."
+Spinoza's proof is that "It is in the nature of reason to regard things, not as contingent, but as necessary," and that this necessity "is the very necessity of the eternal nature of God." In Part V, Proposition 29, "Whatsoever the mind understands under the form of eternity, it does not understand by virtue of conceiving the present existence of the body, but by virtue of conceiving the essence of the body under the form of eternity." Proposition 30 adds that the mind so conceiving "has to that extent necessarily a knowledge of God."
 
 So for Spinoza, seeing things under the form of eternity means seeing them as following necessarily from the nature of things, with no reference to time. The entry's practice, holding a troubling event inside the widest frame you can honestly build (a lifetime, a civilisation, nature), is an adaptation of the phrase and is not what these propositions say.
 
