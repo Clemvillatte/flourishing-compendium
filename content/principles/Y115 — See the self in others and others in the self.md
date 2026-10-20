@@ -12,13 +12,15 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 115** — See the self in others and others in the self
 
-The Gita's relational yoga: the one who sees the self in all beings and all beings in the self, who regards the pleasure and pain of others as his own, is called the highest. The tradition's method for this is not sentiment but perspective-taking trained to the point of reflex. Practically, in one disagreement per day, spend the first minute arguing the other side to yourself before speaking.
+The Gita's account is not a claim about sentiment. The verse describes a trained perception: someone whose mind has been steadied by practice comes to see the same self standing in every being, and every being resting in that one self, and so reads every situation the same way rather than differently by convenience.
 
-(BG 6.29-6.32.)
+> "With the mind harmonised by Yoga he sees the Self abiding in all beings and all beings in the Self; he sees the same everywhere." (Bhagavad Gita 6.29, Sivananda translation)
 
-**Plain words** The relational yoga: see the self in all beings and all beings in the self — the pleasure and pain of others regarded as your own. Not sentiment; perspective-taking trained to the point of reflex. The method is practice, not feeling.
+> "He who, through the likeness of the Self, O Arjuna sees equality everywhere, be it pleasure or pain, he is regarded as the highest Yogi." (Bhagavad Gita 6.32, Sivananda translation)
 
-*For example:* The commuter who spends the year deliberately taking the other passengers' eyes — tired nurse, scared student, proud father — and finds the crowd slowly stops being an obstacle course and starts being a room of relatives.
+**Plain words** This is a claim about perception, not about niceness. Someone who practises looking at others the way they look at themselves comes to read situations without the double standard that ordinary convenience applies — one rule for me, a harder one for you. Practically, when you notice you are holding two versions of the same event, one for you and one for the other person, look again at what you would actually say about yourself in their place.
+
+*For example:* (Imagined.) A commuter spends a year deliberately noticing the other passengers' eyes — tired nurse, scared student, proud father — and finds the crowd stops reading as an obstacle and starts reading as a room of people with the same stakes.
 ## Psychology parallels
 
 - **Self-other overlap and perspective-taking**, the measured inclusion of other in the self (Aron et al., 1992)
