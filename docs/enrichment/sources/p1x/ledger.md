@@ -224,3 +224,7 @@ Core prose (body per QC round-1 replacement text, VI.9 blockquote + IV.21 inline
 ## SO011
 - Markus & Kitayama 1991 (MIT-hosted PDF, 3 quotes grep-verified); Henrich et al. 2010 PubMed abstract (fetched via eutils); Te Whare Tapa Whā (health.govt.nz search excerpt, page itself not fetchable); IEP Hunhu/Ubuntu (search excerpt).
 - Limits: Kitayama 2007, Vergara 2023, Tutu 1999 (book), Durie 1985/1998 (original), Fernando 2014, Markus&Kitayama quotes beyond abstract not used; Medin 2017, Gurwitz 2023, Mutamba 2021, Diener&Suh 2000, Uchida 2004 full text not opened. 'Without collapsing into relativism' is not addressed by any opened source; body says so. Example hypothetical.
+
+## SO051
+- Haslam et al. 2009 (DHI-hosted PDF; only intro pages extracted, 6 quotations verified), Wiley EJSP special-issue editorial abstract (search excerpt/fetched), Cruwys et al. 2013 SSM abstract via PubMed eutils (verified numbers 24%/63%).
+- Limits: Jetten et al. 2012 (book), Cruwys 2014 (abstract read, not quoted), Sampson 1997 (abstract read: collective efficacy linked to reduced violence, not health, so not used as health evidence). Statement's 'well-documented finding' is supported mainly by correlational/observational work; body notes a caution quote about group norms. EJSP editorial authors not confirmed, so not named. Example hypothetical.

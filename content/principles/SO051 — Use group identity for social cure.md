@@ -12,11 +12,22 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SO — Sociocul
 ---
 > **Principle 51** — Use group identity for social cure
 
-Use group identity for social cure — the well-documented finding that strong, positive group identification predicts better health, well-being, and resilience (Haslam et al., 2009; Jetten et al., 2012). The mechanism is social support, meaning, and collective efficacy. The adaptive stance is to build and use group identities deliberately, alongside the debiasing of principle 46.
+Haslam and colleagues write that the social environment is "not simply an external feature of the world", and that "groups that provide us with a sense of place, purpose, and belonging tend to be good for us psychologically". They "give us a sense of grounding and imbue our lives with meaning", and they "enhance our self-esteem and sense of worth". The authors add a caution: "at other times group membership can compromise health because the content of social identity is inconsistent with health-enhancing activity" (Haslam, Jetten, Postmes & Haslam, 2009, Applied Psychology 58(1), 1-23, editorial introduction, [DHI-hosted copy](https://www.dhi.ac.uk/san/waysofbeing/data/communities-murphy-haslam-2009.pdf)). A later editorial states the mechanism briefly: to the extent that group memberships provide "meaning, support, and agency", health is positively affected, which is the "social cure". When a group is devalued or stigmatised, "social identities may become a curse" ([special-issue editorial, European Journal of Social Psychology, abstract](https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.2333)).
 
-**Plain words** Group identity is medicine — strong, positive group identification predicts better health and resilience. The mechanism is support, meaning, and collective self-esteem. The group you belong to can literally be a health intervention. Choose good groups; join them properly.
+For depression, one population study found that "the number of groups that a person belongs to is a strong predictor of subsequent depression"; depressed people with no groups who joined one reduced relapse risk by 24%, and by 63% if they joined three (Cruwys et al., 2013, Social Science & Medicine, [PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/24331897/)).
 
-*For example:* The footy club, the choir, the veterans' group — the members who show up weekly have measurably better decades than the isolated with identical diagnoses. The group is doing pharmacology.
+**Plain words**
+Belonging to groups that matter to you seems to protect health, especially when they give you support, meaning and a sense of agency. Join them properly and ask whether each group's norms help you.
+
+**For example**
+A man retires and loses his work circle. He joins a weekly choir and goes every week, so the choir becomes part of how he sees himself.
+
+## Sources
+
+- [Haslam, Jetten, Postmes & Haslam (2009), Social identity, health and well-being, Applied Psychology 58(1), 1-23](https://www.dhi.ac.uk/san/waysofbeing/data/communities-murphy-haslam-2009.pdf): opened (introductory pages only)
+- [Special-issue editorial, European Journal of Social Psychology, abstract](https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.2333): opened
+- [Cruwys et al. (2013), Social group memberships protect against future depression, Social Science & Medicine, PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/24331897/): opened
+
 ## Psychology parallels
 
 - [[Haslam et al|Haslam et al.]] (2009) on the social cure; Jetten et al. (2012) on group identity and health; the group-identification and depression literature (Cruwys et al., 2014); collective efficacy and health (Sampson et al., 1997).
