@@ -12,13 +12,21 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 464** — Practise avoiding the nihilist
 
-Recognise the temptation of nihilism — the denial of all values, the refusal of meaning, the surrender to the absurd. Nihilism, de Beauvoir warns, is the other extreme of seriousness: where the serious person takes values too seriously, the nihilist takes them not seriously enough. Practise meaning without absolutism.
+Beauvoir's serious person treats values as ready-made authorities; her nihilist responds to their collapse by rejecting existence and its projects ([The Ethics of Ambiguity, Part II, “Personal Freedom and Others”](https://www.marxists.org/reference/subject/ethics/de-beauvoir/ambiguity/ch02.htm)). The rejection remains tied to the expectation that values must come with an external guarantee ([Part II, discussion of nihilism](https://www.marxists.org/reference/subject/ethics/de-beauvoir/ambiguity/ch02.htm)).
 
-(de Beauvoir, 1947/2018, The Ethics of Ambiguity, Part II, ch. 2; Nietzsche, 1883/1961, Thus Spoke Zarathustra.)
+> Nihilism is disappointed seriousness which has turned back upon itself.
 
-**Plain words** Nihilism is the other extreme of seriousness: where the serious person takes values too absolutely, the nihilist takes them not seriously enough — denying all values, refusing meaning, surrendering to the absurd. Both are flights from the ambiguity. Both dodge the work.
+(Beauvoir, The Ethics of Ambiguity, Part II; [opened text](https://www.marxists.org/reference/subject/ethics/de-beauvoir/ambiguity/ch02.htm).)
 
-*For example:* The ex-believer who swings from devout to "nothing matters" — the same flight from ambiguity in the opposite direction. The harder position — some things matter, provisionally, chosen — is the one both extremes are avoiding.
+### Plain words
+
+Finding a fault in something you believed need not settle every question about what is worth doing. Ask which commitments you can still defend, including how they affect other people's freedom.
+
+The title concerns an attitude to examine in oneself; it is no reason to shun someone or diagnose their despair. Beauvoir's alternative requires willing freedom for others as well as oneself ([Part II, closing paragraphs](https://www.marxists.org/reference/subject/ethics/de-beauvoir/ambiguity/ch02.htm)).
+
+### For example
+
+Suppose an organisation you trusted mistreats its members. You could reject its authority while still helping those harmed and considering which of your earlier commitments deserve to survive.
 ## Psychology parallels
 
 - **[[Nihilism|Nihilism and well-being]]** (Wong, 2016)

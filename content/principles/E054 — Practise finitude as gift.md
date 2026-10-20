@@ -22,7 +22,7 @@ Heidegger treats death as a limit that belongs to one's own existence, rather th
 
 You need not be grateful for loss to ask how you want to spend the time available to you. Treat the title's invitation as a practical question about your priorities, not a demand to welcome death.
 
-Heidegger explicitly leaves survival after death and immortality undecided here; this passage does not establish that an endless life would have no meaning or beauty ([§49](https://dhspriory.org/kenny/PhilTexts/Heidegger/BeingTime07.doc)).
+Heidegger leaves open what may follow death; this passage does not establish that an endless life would have no meaning or beauty ([§49](https://dhspriory.org/kenny/PhilTexts/Heidegger/BeingTime07.doc)).
 
 ### For example
 
