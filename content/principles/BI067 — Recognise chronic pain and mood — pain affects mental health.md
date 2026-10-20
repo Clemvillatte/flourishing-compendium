@@ -12,11 +12,21 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BI — Biophysi
 ---
 > **Principle 67** — Recognise chronic pain and mood: pain affects mental health
 
-Chronic pain is associated with depression, anxiety, and reduced quality of life. Pain and mood share neural circuitry. Addressing pain is a mental health intervention.
+Chronic pain commonly co-occurs with depression and anxiety; pain and mood can influence each other, partly through overlapping brain systems ([NINDS, “Pain,” “Emotions, mood, and mental health”](https://www.ninds.nih.gov/health-information/disorders/pain)). Bair and colleagues' review links co-occurring depression and pain with greater impairment and argues for assessing both ([2003 review, abstract](https://pubmed.ncbi.nlm.nih.gov/14609780/)).
 
-**Plain words** Chronic pain and mood share circuitry — pain drags depression, depression amplifies pain. Treating the pain IS a mental health intervention; treating the mood eases the pain. Two doors, same room.
+> The presence of pain negatively affects the recognition and treatment of depression.
 
-*For example:* The "just a bad back" that costs a year of mood — the pain and the depression were running the same loop. The pain clinic was also, functionally, a mental health clinic.
+(Bair, Robinson, Katon and Kroenke, “Depression and pain comorbidity,” 2003, abstract; [opened record](https://pubmed.ncbi.nlm.nih.gov/14609780/).)
+
+### Plain words
+
+If pain is wearing you down, make room to discuss that part of the experience as well as where it hurts. Asking for help with low mood need not mean abandoning medical assessment of the pain.
+
+Treatment choices should be worked out with a healthcare team: no current treatment is proven effective for every person or every kind of pain ([NINDS, “Treating pain”](https://www.ninds.nih.gov/health-information/disorders/pain)). This is a reason to consider both concerns, not a promise that treating either one will resolve the other.
+
+### For example
+
+Suppose persistent back pain is keeping you awake and you have stopped enjoying time with friends. You could describe all three changes at an appointment and ask how the care plan will address them.
 ## Psychology parallels
 
 - **Chronic pain and depression**, chronic pain is strongly associated with depression (Bair et al., 2003; Dersh et al., 2002)
