@@ -12,13 +12,21 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 452** — Practise self-transcendence
 
-Recognise that meaning is found not in self-absorption but in self-transcendence — the movement beyond the self toward something larger. Frankl described self-transcendence as the most fundamental human motivation: the search for meaning beyond the self. Practise self-transcendence through creative work, loving encounter, and courageous suffering.
+Frankl uses self-transcendence for a person's orientation toward a meaning to fulfil or another person to encounter, rather than toward the self as a closed system ([Man's Search for Meaning, Part II, “The Essence of Existence”](https://www.stgregoriosudaipur.ac.in/pdf/fiction/632ecf70b27a5-man-s-search-for-meaning.pdf)). His account includes work, love and experience, as well as one's response to unavoidable suffering ([same section](https://www.stgregoriosudaipur.ac.in/pdf/fiction/632ecf70b27a5-man-s-search-for-meaning.pdf)).
 
-(Frankl, 1969, The Will to Meaning; Frankl, 1946/2006, Man's Search for Meaning; Frankl, 1969/1978, The Unheard Cry for Meaning.)
+> self-actualization is possible only as a side-effect of self-transcendence.
 
-**Plain words** Meaning is found not in self-absorption but in self-transcendence — the movement beyond the self toward something larger. Frankl called it the most fundamental human motivation. The paradox: the self is served best by aiming past it.
+(Frankl, Man's Search for Meaning, Part II, “The Essence of Existence”; [opened text](https://www.stgregoriosudaipur.ac.in/pdf/fiction/632ecf70b27a5-man-s-search-for-meaning.pdf), sentence excerpt.)
 
-*For example:* The depressed person tries self-focus for a decade — journaling, analysing, optimising — and the year they take on the responsibility for something outside themselves (the dog, the class, the cause), the fog lifts faster than the previous ten combined.
+### Plain words
+
+Try asking whom you want to care for, or what work deserves your attention. You can choose to give that attention without making your own fulfilment the test of whether the effort counts.
+
+Frankl expressly says suffering is unnecessary for meaning, and that removing its cause is meaningful when possible ([Part II, “The Meaning of Suffering”](https://www.stgregoriosudaipur.ac.in/pdf/fiction/632ecf70b27a5-man-s-search-for-meaning.pdf)).
+
+### For example
+
+Suppose you agree to help a friend prepare a job application. You could concentrate on what they need from you, without treating the evening as an experiment in fixing your own mood.
 ## Psychology parallels
 
 - **[[Self-transcendence|Self-transcendence and well-being]]** (Wong, 2016; Koltko-Rivera, 2006; Vaillant, 2012)
