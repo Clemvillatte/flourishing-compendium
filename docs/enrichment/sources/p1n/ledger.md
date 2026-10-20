@@ -245,3 +245,28 @@ D024 D027 D029 D051 D076 D083 D101 D104 D108 D123 D124 D126 D127 D138 D140
 D160 D181 D192 all done, validated, pushed. Advisor QC at items 1, 5, 10, 15
 (D024, D076, D123, D140) with repairs accepted. Remaining: 5 B (Buddhist)
 + 7 P (Pragmatist) items.
+
+### B164 — Extend non-harm to yourself (2026-10-20)
+- Opened: Dhammapada 157 (Buddharakkhita, Access to Insight Attavagga page)
+  and the Karaniya Metta Sutta (Thanissaro, Access to Insight). Both
+  blockquotes verbatim.
+- Advisor QC (item-20 follow-up): invented mechanisms removed ("the chapter
+  distinguishes watching from attacking"; "the same voice, turned inward,
+  works the same way"). Plain words replaced with the compendium exercise.
+- Saturation: cited by The inner friend, Harsh self-criticism,
+  Self-compassion. Validator: ok vs 71fd7049.
+
+### B175 — Slow down (2026-10-20)
+- Opened: Thich Nhat Hanh, The Miracle of Being Awake, BPS Wheel 234
+  (https://www.bps.lk/olib/wh/wh234_Hanh_Miracle-of-Being-Awake.html),
+  fetched. Blockquote = the "tasks must be done slowly" passage verbatim.
+- Advisor QC (item 20 milestone): round 1 FAIL (invented rushed-day
+  explanation; "the fix is not more time"; hanging citation to The Miracle
+  of Mindfulness not verified against the opened edition). Repaired per
+  exact edits: opening replaced, diagnosis paragraph removed (redundant
+  re-quotation), citation changed to the opened BPS Wheel 234, plain
+  words/example replaced with the bowl-washing exercise. Time-affluence
+  descriptive tail removed (Kasser and Sheldon 2009 not opened); bare
+  wikilink retained, unverified status recorded here.
+- Saturation: cited by Time affluence, Slow-paced breathing, Heart rate
+  variability theory. Validator: ok vs 71fd7049.
