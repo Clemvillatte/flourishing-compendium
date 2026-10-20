@@ -99,3 +99,26 @@ Claim and state transitions are pushed separately for interruption safety.
   Protected reflections retain the eyesight/phone-first seed language.
 - Plain words and letter/chat example are explicitly modern analogy,
   not equivalence of shen and experimentally measured attention.
+- Saturation: The attention economy already cites D147. Read Attention and
+  Yangsheng; queued only the latter's missing reciprocal for the Neiye
+  cultivation context, not for a modern cognitive-effect claim.
+
+## D159: Treat your body as a loan, not a possession (2026-10-20)
+
+- Search "Zhuangzi Shun Cheng body delegated heaven earth"; opened
+  https://ctext.org/zhuangzi/knowledge-rambling-in-the-north ,
+  chapter 22 paragraph 4, Legge. The bodily-form quotation is one complete,
+  exact sentence. Dialogue is about obtaining/holding the Dao, not advice
+  about home rental or a measured body-image intervention.
+- Care/control distinction is explicitly editorial application. Example is
+  imagined and makes no claim of improved health or mood.
+- Detected wrong inherited Epictetus locator. Search "Marcus Meditations
+  4.41 little soul corpse Epictetus"; opened
+  https://classics.mit.edu/Antoninus/meditations.4.four.html .
+  Replaced the paraphrase presented as quotation with Long's exact wording,
+  and corrected attribution to Marcus Aurelius Meditations 4.41 reporting
+  Epictetus, rather than "Discourses IV, 41".
+- Body-neutrality, narrative-identity and Satipatthana comparisons remain
+  unverified. Existing wikilinks and protected comments are unchanged.
+- Saturation: Self as process already links D159 in body and cited-in list;
+  no redundant proposal added.
