@@ -45,3 +45,9 @@ Per-item evidence notes (owner concise-bar items 6-7). Manifest: BE012..CO061, 3
 - Inherited parallels: Foa et al. 2007 / Abramowitz et al. 2019 kept as references; claims re-grounded in the opened review (first-line status from the article's own abstract).
 - Saturation: ERP and Response prevention (OCD treatment) concepts already link BE029; The criterion of experience mention is a Cited-in list only (K119), no reciprocal proposed.
 - QC: not a milestone item (item 6 of 30); validator pass vs pre-item baseline c7089e1d.
+
+## BE032 — approach behaviours for depression
+- Source opened (same session): Jacobson, Martell & Dimidjian (2001), Clinical Psychology: Science and Practice 8(3): 255-270 (open PDF, https://i-cbt.org.ua/wp-content/uploads/2017/11/Jacobson-BA-for-depression-2001.pdf). Quotes matched the raw local PDF extraction: "BA attempts to help depressed people reengage in their lives through focused activation strategies. These strategies counter patterns of avoidance, withdrawal, and inactivity that may exacerbate depressive episodes by generating additional secondary problems in individuals' lives." (opening paragraphs); fragment "is designed to help individuals approach and access sources of positive reinforcement in their lives, which can serve a natural antidepressant function."
+- Inherited parallels: Martell et al. 2001 / Jacobson et al. 1996 / Dimidjian et al. 2011 assertions re-grounded in the opened source or kept as references.
+- Saturation: no depression-discussing concept mentioning withdrawal lacks the BE032 link; no new proposals.
+- QC: not a milestone item (item 7 of 30); validator pass vs pre-item baseline c9079142.
