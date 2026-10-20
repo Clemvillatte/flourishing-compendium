@@ -12,13 +12,24 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 34** — Be grateful to everyone
 
-The most famous of the slogans: everyone, including the difficult, is treated as practice material, and gratitude is the stance that keeps the heart from closing while the work is done. The instruction is structural: the people who trigger you are the ones who reveal your remaining work, which makes them, in the tradition's unsentimental accounting, your teachers by another name. Practically, at day's end, include the day's difficult people in the gratitude review, for the lesson if not yet for the person.
+The thirteenth slogan of the Seven-Point Mind Training:
 
-(Seven-Point Mind Training, Point Three.)
+> "Be grateful to everyone." (Chekawa Yeshe Dorje, Seven Points of Mind Training, Point Three, slogan 13)
 
-**Plain words** Be grateful to everyone. Even the difficult people are practice material, and gratitude keeps the heart from closing while you do the work. The ones who trigger you show you what's left to learn, which makes them teachers, unsentimentally. At day's end, include the hardest person on your list.
+Chögyam Trungpa's commentary grounds the gratitude in necessity:
 
-*For example:* Thanking, in your head, the colleague whose interruptions showed you how much you crave being heard.
+> "So the idea here is to feel grateful that others are presenting us with tremendous obstacles—even threats or challenges. The point is to appreciate that. Without them, we could not follow the path at all." (Chögyam Trungpa, Training the Mind, in The Collected Works, vol. 2)
+
+Trungpa's examples are sensory: "if there is no noise outside during our sitting meditation, we cannot develop mindfulness", and "if everything were lovey-dovey and jellyfish-like, there would be nothing to work with"; "because of all these textures around us, we are enriched". The gratitude is not approval, and he is explicit that the companion sayings are not guilt: "we are not talking about guilt or that we did something terribly wrong. It is seeing things as they are." The difficult people, in his words, "are actually the ones who are pushing us onto the path of dharma". ([Collected Works vol. 2 PDF](https://terebess.hu/english/coll2.pdf))
+
+**Plain words**
+Your practice has no raw material without other people. The one who interrupts, the one who criticizes, the one who is late: each is a live test of what you actually do under pressure. The gratitude is not approval of them; it is noticing that without them you would have nothing to practice on.
+
+For example: Thanking, in your head, the colleague whose interruptions showed you how much you crave being heard.
+
+## Sources
+
+- [Chögyam Trungpa, The Collected Works, vol. 2 (includes Training the Mind)](https://terebess.hu/english/coll2.pdf) — slogan 13 commentary; root slogan "Be grateful to everyone" is Point Three, slogan 13 of the Seven Points of Mind Training
 
 ## Psychology parallels
 

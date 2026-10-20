@@ -1,6 +1,6 @@
 {
  "batch": "p1zw",
- "revision": 8,
+ "revision": 9,
  "reciprocal": [
   {
    "into": "Anatta",
@@ -49,6 +49,12 @@
    "link": "K033",
    "why": "listed for comparison: the psychology of blaming persons over situations beside the lojong instruction to look for one's own part first.",
    "notes": "Saturation scan 2026-10-21 (K033 item): CO037 documents the blame-the-person habit (Jones & Harris classic study quoted on its page) but does not link K033; K033 is the practice-side counterpart from the lojong tradition. Locus of control already links K033."
+  },
+  {
+   "into": "B113 — Be grateful to everyone (lojong)",
+   "link": "K034",
+   "why": "listed for comparison: the same thirteenth lojong slogan, treated through Shantideva's patience argument on B113 and through Trungpa's obstacles-as-material commentary on K034.",
+   "notes": "Saturation scan 2026-10-21 (K034 item): B113 and K034 cover the same slogan in different disciplines and neither links the other; B113's page quotes Shantideva Guide ch.6 v.111 (Batchelor) so the comparison is grounded on the target page's own sourced content."
   }
  ]
 }
