@@ -27,7 +27,7 @@ Mencius argues from the alarm and distress of seeing a child approaching a well.
 
 The compendium's application follows the passages: helping others do well is part of the practice. The compendium's [[The doctrine of the mean|The Doctrine of the Mean]] page follows the thread further.
 
-**Plain words** Consider what Confucius says about wanting good things for other people. Ask whether you are willing to help others succeed, and whether you are willing to receive help yourself.
+**Plain words** If you want to become established yourself, Confucius asks you to help others become established too. Your hopes for your own life give you a starting point for considering what someone else needs.
 
 *For example:* Imagine congratulating a rival warmly on their promotion. Imagine helping someone establish a skill that you already have.
 

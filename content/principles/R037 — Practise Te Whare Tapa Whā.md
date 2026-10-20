@@ -21,7 +21,7 @@ Te Ara records that Māori health expert Mason Durie developed the whare tapa wh
 
 The compendium's exercise: take the four dimensions as four questions and ask them of your month. When did you last sit somewhere that holds you? How is the thinking? How is the body? Who have you actually eaten with?
 
-**Plain words** Think about the four dimensions in your own life: sleep and food, thinking, spirit, and family or community connections. Choose one to attend to this week, without scoring yourself.
+**Plain words** Looking only at physical health leaves out three dimensions of Durie's model. The model also asks about mental health, spiritual life and family relationships.
 
 *For example:* Imagine someone with a good exercise routine and poor social connections choosing to schedule a regular meal with family or friends.
 

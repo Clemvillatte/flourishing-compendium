@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 276** — Practise connection to culture
 
-The social and emotional wellbeing (SEWB) framework, developed with and for Aboriginal and Torres Strait Islander peoples, places culture inside the definition of health rather than beside it. Gee, Dudgeon and colleagues define SEWB as a multidimensional concept of health that includes mental health but also encompasses connection to land or country, culture, spirituality, ancestry, family and community. The chapter's diagram shows individuals', families' and communities' SEWB shaped by connections to body, mind and emotions, family and kinship, community, culture, land and spirituality, and disrupted connections are associated with poorer SEWB.
+The Aboriginal and Torres Strait Islander social and emotional wellbeing (SEWB) framework places culture inside the definition of health rather than beside it. Gee, Dudgeon and colleagues define SEWB as a multidimensional concept of health that includes mental health but also encompasses connection to land or country, culture, spirituality, ancestry, family and community. The chapter's diagram shows individuals', families' and communities' SEWB shaped by connections to body, mind and emotions, family and kinship, community, culture, land and spirituality, and disrupted connections are associated with poorer SEWB.
 
 > Conversely, restoring or strengthening connections to these domains will be associated with increased SEWB.
 > (Gee, Dudgeon, Schultz, Hart and Kelly, in Working Together, 2014, p. 58)
@@ -22,9 +22,9 @@ The chapter's language for what practitioners should support is continuity: a se
 > ...the extent to which a cultural group is able to resist assimilation, maintain cultural continuity, and retain the right of self-determination and sovereignty—will all significantly influence a community's capacity to retain their cultural values, principals, practices, and traditions. This, in turn, will differentially empower or impinge upon individual and family SEWB.
 > (Gee et al., Working Together, 2014, p. 62)
 
-The compendium's application follows the chapter's emphasis on participation: keep the language in use, keep the ceremony dates, tell the stories. Continuity here is something people do, not something they have.
+The compendium's application follows the chapter's emphasis on participation: keep the language in use, keep the ceremony dates, tell the stories.
 
-**Plain words** Think about a cultural connection you want to strengthen. Choose a language, story or practice you could share with family or community, and decide when to make time for it.
+**Plain words** In this framework, health includes a person's relationships and cultural life alongside their body and mind. Sharing a language, story or practice with family or community belongs within that picture of wellbeing.
 
 *For example:* Imagine a household making time at dinner for a grandparent to share a familiar story in their language while younger relatives ask about unfamiliar words.
 

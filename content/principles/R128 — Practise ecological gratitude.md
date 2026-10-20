@@ -22,9 +22,7 @@ In her interview, Kimmerer describes giving thanks as part of the Honorable Harv
 
 Mayer and Frantz's five studies assessed the validity and reliability of the connectedness to nature scale, a measure of feeling emotionally connected to the natural world. Their paper supports ecopsychologists' contention that connection to nature is an important predictor of ecological behavior and subjective wellbeing. That research measures nature connectedness rather than ecological gratitude itself.
 
-The compendium's exercise: consider one way to put the commitments into practice, for example naming the plants, rain and people involved in a meal, or giving something back where you take.
-
-**Plain words** Let giving thanks include a decision about what you take, use or leave for others. Kimmerer connects gratitude with restraint and giving something back. For the compendium's exercise, consider one way to put those commitments into practice.
+**Plain words** Giving thanks, as Kimmerer describes it, includes leaving enough for the plant and for other beings that need it. Gratitude is expressed in the harvesting decision as well as the words.
 
 *For example:* Imagine a family naming the plants, rain and people involved in their meal, then discussing how much food to serve.
 
