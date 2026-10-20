@@ -12,16 +12,31 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 1** — Understand that the self is constructed, not discovered
 
-The self — your sense of being a particular person with traits, values, and an identity — is not a fixed essence waiting to be found. It is a construction: built from memory, social feedback, cultural categories, and ongoing narrative. This is not a denial that you are real; it is a recognition that what you take to be "yourself" is a dynamic construction.
+McAdams's life-story model puts the construction claim in its plainest form:
 
-**Plain words** The self isn't a fixed essence waiting to be found — it's a construction: built from memory, social feedback, cultural categories, and stories. Which means "who I really am" was always a draft. Liberating: the draft is revisable. Demanding: nobody else is holding the pen.
+> In adolescence and young adulthood, we invent stories to make sense of our own lives. And then these stories change us.
+>
+> (McAdams, "The Evolution of Narrative Identity", 2019)
 
-*For example:* The person who waits a decade for their "true self" to emerge, like a photo developing — and the year they accept they're the author, not the film. The self didn't get discovered; it got written, and then rewritten better.
+A narrative identity, in his terms, is "a person's internalized and evolving story of how he or she has become the person he or she is becoming"; narrative identities "reconstruct the autobiographical past and anticipate the imagined future to provide the self with temporal coherence and some semblance of psychosocial unity and purpose". The self is built from memory, social feedback, cultural categories, and ongoing narrative, not excavated from a fixed essence.
+
+The compendium's reading of the principle: "who I really am" was always a draft. That is liberating, because the draft is revisable, and demanding, because nobody else is holding the pen.
+
+**Plain words**
+You did not find yourself the way you find a coin on the street. You wrote yourself, gradually, out of remembered events, other people's reactions, and the categories your culture hands you. That means "I am just an anxious person" is a sentence somebody wrote, not a fact somebody found. Sentences can be revised.
+
+*For example:*
+The person who waits a decade for their true self to emerge, as if it were a photograph developing, and the year they accept they are the author and not the film. The self did not get discovered; it got written, and then rewritten.
+
+## Sources
+
+- [McAdams, "The Evolution of Narrative Identity", Evolutionary Studies in Imaginative Culture (2019, open PDF)](https://web.ics.purdue.edu/~drkelly/McAdamsFirstWeStoriesThenTheyChangedUs2019.pdf) — abstract and development passages
+
 ## Psychology parallels
 
-- **[[Self as construction|Self as construction]]**, the self is a cognitive and social construction, not a fixed essence (Markus & Wurf, 1987; Baumeister, 1998)
-- **[[Narrative identity|Narrative identity]]**, the self takes narrative form; identity is a life story that is constructed and revised (McAdams, 2001; McAdams & McLean, 2013)
-- **The self is dynamic, not static**, self-concept changes across situations and over time (Markus & Wurf, 1987; Oyserman et al., 2012)
+- **[[Self as construction|Self as construction]]**
+- **[[Narrative identity|Narrative identity]]** (McAdams, 2019)
+- **The self is dynamic, not static**
 
 ## Philosophy parallels
 
