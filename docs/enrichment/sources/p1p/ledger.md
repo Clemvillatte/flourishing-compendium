@@ -126,3 +126,20 @@ priority, then B items in manifest order (manifest lists bare IDs; no titles).
 - Limitations: inherited parallels (Dugas et al. 1998; Hayes et al. 2011; Zhuangzi 2;
   Daodejing 25) NOT opened; flagged inherited parallels. Linked concepts (Intolerance
   of ambiguity, Acceptance processes, Ziran) skimmed as seeds only.
+
+## B073 — Hold experience loosely (non-attachment)
+
+- Opened: https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.16.budd.html (Dhammapada
+  Piyavagga, Buddharakkhita) — verses 211-214 verified; and
+  https://thuvienhoasen.org/images/file/EUaZhZ1G0QgQANVp/shantideva-bodhicaryavatara-wallace.pdf
+  (Shantideva, Bodhicharyavatara, Vesna A. Wallace and B. Alan Wallace translation) —
+  chapter 8, verses 18-19.
+- Verbatim quotes used: Dhp 212 ("From endearment springs grief..."); Shantideva 8.19
+  ("Thus, the wise do not become attached..."). The "four adjacent verses" claim checked
+  against the opened page (211 dear / 212 endearment / 213 affection / 214 attachment).
+  The bird image is in the protected principle statement; the body treats it as the
+  compendium's labelled reading, not as a sourced image.
+- Limitations: inherited parallels (Sahdra et al. 2010; Mikulincer and Shaver 2007;
+  Epictetus Enchiridion; Fromm) NOT opened; flagged inherited parallels. Linked
+  concepts (Nonattachment, Attachment security, Preferred indifferents) skimmed as
+  seeds only.
