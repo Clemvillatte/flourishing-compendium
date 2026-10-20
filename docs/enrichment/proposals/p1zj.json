@@ -1,6 +1,6 @@
 {
   "batch": "p1zj",
-  "revision": 32,
+  "revision": 33,
   "records": [
     {
       "action": "reciprocal",
@@ -386,6 +386,13 @@
       "link": "BE028",
       "why": "listed for comparison with deliberate induction of the feared sensations",
       "notes": "target page read before proposing; awareness is noticing signals, IE is approaching the feared ones"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Anger regulation research",
+      "link": "BE033",
+      "why": "listed for comparison with opposite action as a response-modulation approach for anger",
+      "notes": "target page read before proposing; the page organises regulation by Gross's five families, response modulation is where opposite action sits"
     }
   ]
 }

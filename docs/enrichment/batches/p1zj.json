@@ -29,7 +29,8 @@
   "BE018",
   "BE021",
   "BE028",
-  "BE031"
+  "BE031",
+  "BE033"
  ],
  "in_progress": null,
  "flagged": {
@@ -56,7 +57,7 @@
   "BE018": "Reopened for QC: QC round 1 (advisor, first item): drop but-only necessary-condition reading, drop two-kind/three-category taxonomy, remove guaranteed-outcome plain words/example, repair Practice efficacy claim, reduce antidepressant/Bandura parallels to bare references"
  },
  "missing_concepts": [],
- "sources_checked": 5,
- "updated": "2026-10-20T11:26:23+00:00",
+ "sources_checked": 6,
+ "updated": "2026-10-20T11:28:09+00:00",
  "band_done": false
 }
