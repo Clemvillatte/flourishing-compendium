@@ -14,17 +14,17 @@
   "P081",
   "P083",
   "P086",
-  "P087",
-  "P088"
+  "P087"
  ],
- "in_progress": null,
+ "in_progress": "P088",
  "flagged": {
   "P058": "Reopened for QC: QC round-3 touch-ups",
   "P054": "Reopened for QC: QC round-3 touch-ups",
-  "P056": "Reopened for QC: QC round-3 touch-ups"
+  "P056": "Reopened for QC: QC round-3 touch-ups",
+  "P088": "Reopened for QC: QC correction round 1 (advisor): overreach in body para 3, aphorism closers, plain-words replicate, example judgment; quotes re-verified against flat Gutenberg text"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T04:16:46+00:00",
+ "updated": "2026-10-20T04:19:27+00:00",
  "band_done": false
 }

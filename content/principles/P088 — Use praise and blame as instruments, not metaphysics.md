@@ -16,20 +16,20 @@ Dewey's argument in Human Nature and Conduct is that praise and blame are workin
 
 > "The moral problem is that of modifying the factors which now influence future results. To change the working character or will of another we have to alter objective conditions which enter into his habits. Our own schemes of judgment, of assigning blame and praise, of awarding punishment and honor, are part of these conditions." (Dewey, Human Nature and Conduct, part 1, sec. 1, [Gutenberg](https://www.gutenberg.org/cache/epub/41386/pg41386.txt))
 
-A habit, on this account, is not the kind of thing that answers to scolding.
+Habit, for him, is changed through its conditions:
 
 > "We cannot change habit directly: that notion is magic. But we can change it indirectly by modifying conditions, by an intelligent selecting and weighting of the objects which engage attention and which influence the fulfilment of desires." (Dewey, Human Nature and Conduct, part 1, sec. 1, [Gutenberg](https://www.gutenberg.org/cache/epub/41386/pg41386.txt))
 
-Dewey does not propose doing away with blame and approval. He grants that few people get by without occasional expressions of either, and that judgment of this kind "is certainly not one which could profitably be dispensed with" (part 4, sec. 4). The failure mode is treating it as the whole of moral judgment, because it aims at the person instead of the conditions.
+Dewey does not propose doing away with blame and approval. "There are few who do not need to be braced by occasional expressions of approval," he writes, and judgment of this kind "is certainly not one which could profitably be dispensed with" (part 4, sec. 4). But "these influences are immensely overdone in comparison with" judgments that operate without praise and blame, and the overdone kind does damage he names directly:
 
-> "Judgment in which the emphasis falls upon blame and approbation has more heat than light." (Dewey, Human Nature and Conduct, part 4, sec. 4, [Gutenberg](https://www.gutenberg.org/cache/epub/41386/pg41386.txt))
+> "Fault-finding creates resentment in the one blamed, and approval, complacency, rather than a habit of scrutinizing conduct objectively." (Dewey, Human Nature and Conduct, part 4, sec. 4, [Gutenberg](https://www.gutenberg.org/cache/epub/41386/pg41386.txt))
 
-The compendium's exercise: when you catch yourself blaming, yourself included, write one sentence naming the specific behavior and one sentence naming what should happen next time. If you cannot fill either, the blame is metaphysics.
+The compendium's exercise: when you catch yourself blaming, yourself included, write one sentence naming the specific behavior and one sentence naming what should happen next time. The judgment is finished when both sentences exist.
 
 **Plain words**
-Blame feels like a verdict on who someone is; it works like a signal about what to do next. That is why vague blame misfires: "careless" tells nobody what to repeat or stop. Name the exact behavior you want more or less of, then stop. The same applies to the voice in your own head: guilt that names a behavior can change it; guilt that only punishes you is just punishment.
+Before praising or blaming anyone, yourself included, ask what the person could use on the next attempt. If you can name the behavior to repeat or drop, the judgment has a job. If all you have is a feeling about the person, the judgment has no job. The question works the same way for the voice in your own head.
 
-*For example:* Two managers watch the same mishandled customer call. One says "the way you acknowledged her frustration and offered the refund, do that every time." The other says "careless!" Only the first manager is managing anything; the second is just venting.
+*For example:* Two managers respond to the same missed deadline. One says: "The way you flagged the schedule risk early, keep doing that; the estimate is the part to fix." The other says: "Sloppy." One of them has said something usable next time.
 
 ## Sources
 
