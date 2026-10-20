@@ -81,3 +81,13 @@
 **Milestone QC outcome.** Advisor round FAIL with repairs, all applied: opening rewritten to distinguish the weekly UW protocol from activity scheduling generally, with immediate citations on both sentences; Dimidjian BA definition moved to a blockquote with its source link; "the treatment's developers" characterization removed; "tools for the first of those aims" replaced with the review's own listing sentence; "before becoming depressed" restored to the source's "before experiencing depressive symptoms"; "plans and ratings are reviewed" corrected to plans reviewed (the opened passage does not establish ratings review); the two inherited Related-concept glosses removed as unsupported (links kept, per the seed-preservation rule); "full text" corrected to "available text excerpt" here and in Sources.
 
 **Milestone record corrections.** sources_checked reconciled across items 2-5 (state tool `sources 7` added: 1 + 2 + 2 + 2). The Achievement goal theory entry's "four works" enumeration corrected to three distinct works plus one record (Semantic Scholar and OpenAlex records of the same 1997 paper are one work); the asserted rebase-loss explanation for the missing earlier ledger notes was removed. The advisor noted this review does not certify the three intervening fast-track pages (Action commitment, Action over intention, Active listening); they were worked to the same §1a bar and remain subject to later spot checks. Validator --fast-track: 1 ok.
+
+---
+
+## Acts of kindness (Lyubomirsky) — completed 2026-10-20 (worker-w1d-4c8e1b3a, FAST-TRACK)
+
+**Eligibility.** Graph degree 10 (< 15); no unresolved QC findings; inside owned band w1d. Fast-track per PROTOCOL.md §1a.
+
+**Sources opened (1).** Curry, Rowland, Van Lissa, Zlotowitz, McAlaney and Whitehouse 2018, "Happy to help? A systematic review and meta-analysis of the effects of performing acts of kindness on the well-being of the actor," Journal of Experimental Social Psychology 76:320-329, open-access PDF at https://research-portal.uu.nl/ws/files/247379826/1-s2.0-S0022103117303451-main.pdf (downloaded and read in full). Blockquote is the abstract's result sentences, verified against the PDF text with PDF-extraction ligature/spacing artifacts normalized (ﬀ ect -> effect, "( δ = 0.28)" -> "(δ = 0.28)"); the limits paragraph follows the review's discussion section (under-powered studies, WEIRD samples, motive not manipulated).
+
+**Scope notes.** Lyubomirsky et al. 2005 was NOT opened — kept as a seed source line only; the seed body claim "performing kind acts increases well-being" was rewritten to the meta-analytic finding with its small-to-medium qualifier and the review's own limits. Saturation hunt and cross-link proposals skipped per §1a. Validator --fast-track: 1 ok.
