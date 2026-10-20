@@ -4,11 +4,12 @@
   "D105",
   "D121",
   "D130",
-  "D139"
+  "D139",
+  "D147"
  ],
- "in_progress": "D147",
+ "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 6,
- "updated": "2026-10-20T02:16:32+00:00"
+ "updated": "2026-10-20T02:16:34+00:00"
 }
