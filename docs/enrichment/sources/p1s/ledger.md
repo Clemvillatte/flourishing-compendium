@@ -330,3 +330,19 @@ source; anything not opened is recorded as inherited and unverified.
   attributions already).
 - Saturation: no new reciprocals; Equanimity and the mean are already the
   linked targets.
+
+### B109 — Examine fear (2026-10-20)
+- Opened: MN 18 Madhupindika Sutta (Thanissaro, accesstoinsight), MN 20
+  Vitakkasanthana Sutta (Thanissaro, accesstoinsight), Dhammapada verse 212
+  (Buddharakkhita, dhp.16 — note: verse 212 is in chapter 16, not 15). MN 18
+  blockquote (three contiguous sentences of the objectification sequence)
+  verified verbatim; MN 20 scrutiny instruction verified verbatim in the
+  fetched text; Dhp 212 verified verbatim.
+- Thanissaro renders papanna as "objectification" in MN 18; the page's
+  papanca claim is grounded in that rendering and the seed's Pali term is
+  retained in the Sources line. Seed's "The monster in the basement is almost
+  always a coat rack" and "Fear examined becomes information" are the
+  compendium's gloss; replaced with the labelled split-into-present-and-built
+  exercise. Schiller claim tail trimmed to a bare attribution.
+- Saturation: no new reciprocals; Intolerance of uncertainty and the
+  examination-of-fear entries are already the linked targets.
