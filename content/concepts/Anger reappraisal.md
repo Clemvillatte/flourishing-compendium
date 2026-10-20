@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Anger reappraisal is the application of cognitive reappraisal to situations that elicit anger. Gross describes reappraisal as a form of cognitive change directed at a situation's meaning or its relevance to oneself.
 
-> Cognitive change refers to modifying one's appraisal of a situation in order to alter its emotional impact. — Gross, "Emotion regulation: Current status and future prospects" (2015), Psychological Inquiry 26(1), Cognitive Change subsection, p. 8
+> Cognitive change refers to modifying one's appraisal of a situation in order to alter its emotional impact. — Gross, ["Emotion regulation: Current status and future prospects" (2015), Psychological Inquiry 26(1), Cognitive Change subsection](http://www.johnnietfeld.com/uploads/2/2/6/0/22606800/gross_2015.pdf)
 
 ### Why venting fails the test
 

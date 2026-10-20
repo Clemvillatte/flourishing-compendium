@@ -9,7 +9,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY
 ---
 Achievement motivation theory is the McClelland–Atkinson account of achievement behaviour: in situations with a standard of excellence, what a person does results from the joint action of the motive to achieve and the motive to avoid failure. Atkinson's 1957 Psychological Review paper, building on McClelland's work on the achievement motive, states the project in its summary.
 
-> A theoretical model is presented to explain how the motive to achieve and the motive to avoid failure influence behavior in any situation where performance is evaluated against some standard of excellence. — Atkinson, "Motivational determinants of risk-taking behavior" (1957), Psychological Review 64(6)
+> A theoretical model is presented to explain how the motive to achieve and the motive to avoid failure influence behavior in any situation where performance is evaluated against some standard of excellence. — Atkinson, ["Motivational determinants of risk-taking behavior" (1957), Psychological Review 64(6), 359-372](https://static1.squarespace.com/static/57309137ab48de6f423b3eec/t/588a1a9846c3c4746d0816d6/1485445785596/Atkinson1957.pdf)
 
 ### How the balance works
 
@@ -20,8 +20,8 @@ The two motives do not simply add up. When fear of failure outweighs the achieve
 - [[MO019 — Learn to set approach goals, not avoidance goals]] — Elliot and McGregor's valence distinction: competence construed in terms of success or of failure.
 - [[SE039 — Cultivate possible selves — who could you become]] — Markus and Nurius's possible selves include what one is afraid of becoming, and such selves function as incentives.
 - [[PP015 — Cultivate hope as a process]] — Snyder's hope pairs pathways with the motivation to pursue them.
-- [[SE017 — Recognise and manage the inner critic — harsh self-talk is not motivation]] — the compendium's treatment of the inner critic separates fear-driven striving from productive motivation, the same distinction the theory turns into two motives.
-- [[MO070 — Recognise motivation and ageing — motivation changes across lifespan]] — Carstensen's socioemotional selectivity theory: knowledge-related goals like achievement lose priority as perceived time horizons shorten.
+- [[SE017 — Recognise and manage the inner critic — harsh self-talk is not motivation]] — the principle distinguishes harsh self-criticism, which predicts worse outcomes, from supportive self-talk.
+- [[MO070 — Recognise motivation and ageing — motivation changes across lifespan]] — Carstensen's socioemotional selectivity theory: the perception of time shapes the selection and pursuit of social goals.
 - [[MO075 — Build motivational maintenance — ongoing practice and adaptation]] — goal adjustment, not only pursuit, is the compendium's maintenance answer to stuck motivation.
 - [[SE051 — Recognise self-expansion — relationships and experiences expand the self]] — a different growth motive: expanding the self rather than meeting a standard of excellence.
 - [[A058 — Distinguish continence from virtue]] — Aristotle's continent man abides by the result of his calculations; the principle carries the cross-tradition parallel.

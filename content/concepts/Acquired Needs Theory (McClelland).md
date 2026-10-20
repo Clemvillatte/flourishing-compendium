@@ -9,9 +9,9 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY
 ---
 Acquired Needs Theory is David McClelland's account of three motives that are learned rather than inborn: the need for achievement (nAch), the need for affiliation (nAff) and the need for power (nPow). People carry all three in some strength; which one dominates comes from life experience, and the dominant need shapes vocational choice and job fit. The entry also circulates under the name Learned Needs Theory, with the same three motives driving vocational choices.
 
-The "acquired" half of the name is the theory's signature claim: motives can be developed in adulthood, against both behaviour theory and psychoanalysis, which held that stable motives are laid down in childhood. McClelland's 1965 American Psychologist paper reports a research program built on exactly that claim.
+The "acquired" half of the name is the theory's signature claim: McClelland's work investigated whether a motive could be developed in adulthood, against both behaviour theory and psychoanalysis, which held that stable motives are laid down in childhood. His 1965 American Psychologist paper reports that investigation.
 
-> A program of research has been under way for some time which is attempting to develop the achievement motive in adults in an attempt to fill some of the gaps in knowledge about personality change or the acquisition of complex human characteristics. — McClelland, "Toward a theory of motive acquisition" (1965), American Psychologist 20(5), 321-333
+> Despite these difficulties a program of research has been under way for some time which is attempting to develop the achievement motive in adults. It was undertaken in an attempt to fill some of the gaps in our knowledge about personality change or the acquisition of complex human characteristics. — McClelland, ["Toward a theory of motive acquisition" (1965), American Psychologist 20(5), 321-333, as reproduced in the Semantic Scholar record](https://www.semanticscholar.org/paper/TOWARD-A-THEORY-OF-MOTIVE-ACQUISITION.-Mcclelland/5c0b6494564e4487eef171c4b8282fc91fffdeec)
 
 ### What each need predicts
 
@@ -24,7 +24,7 @@ On the theory's usual summary, McClelland stated that every person has these thr
 - [[E504 — Spare a person shame]] — correction that targets the act rather than the person pairs with the affiliation need's sensitivity to rejection.
 - [[AF047 — Understand fear's function — it prepares you for threat]] — LeDoux's survival circuits process innate and learned threats; the acquisition question, what experience lays down, is shared.
 - [[PP071 — Practise retrieval, not just exposure]] — retrieval consolidates learning in a way passive exposure does not.
-- [[MO022 — Recognise the role of curiosity and interest — intrinsic motivation's engine]] — curiosity's pull is the compendium's account of motivation that does not run through needs.
+- [[MO022 — Recognise the role of curiosity and interest — intrinsic motivation's engine]] — discusses curiosity and interest in intrinsic motivation.
 - [[B158 — Everyone wants to be happy]] — the Dhammapada's shared condition, everyone trembles at violence, is the common ground under individual differences in need strength.
 - [[K013 — Let the questions you cannot answer do their work]] — the Mumonkan's doubt practice works with an unresolved question rather than resolving it.
 
@@ -36,7 +36,7 @@ Industrial Organizational · Psychological science
 
 - [[ERG Theory]] — the fixed-categories alternative to learned needs
 - [[Achievement motivation theory]] — the Atkinson model of how the achievement need balances against fear of failure
-- [[Self-actualization (Maslow)]] — the hierarchy-of-needs account the learned-needs tradition broke from
+- [[Self-actualization (Maslow)]] — the hierarchy-of-needs account
 - [[Self-determination]] — the autonomy-grounded account of motivation the compendium pairs here
 
 ## Sources

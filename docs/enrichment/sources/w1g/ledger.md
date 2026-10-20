@@ -1345,3 +1345,18 @@ Advisor QC found batch-level and per-item issues; all repaired. Findings and rep
   been the record's synopsis, not the paper text).
 - Saturation: skipped per fast-track §1a (degree 9 < 15); no cross-link
   proposals filed.
+
+- ROUND-3 CORRECTION (advisor round 2 caught a silent repair failure): the Acquired
+  Needs blockquote replacement had NOT landed (its two-edit call failed on the
+  companion year-edit, which rolled back BOTH edits; my Python follow-up touched
+  only the year strings). The earlier ledger entry's "ALL APPLIED" claim was
+  premature for this item. Fixed now: reproduced-paper-text blockquote applied and
+  confirmed present (grep), old synopsis confirmed absent. Also applied in round 3:
+  Anger blockquote attribution linked to the Gross PDF with the Cognitive Change
+  subsection locator (p. 8 dropped — the raw "8 GROSS" marker is a page boundary,
+  not proof the passage sits on p. 8); Atkinson blockquote attribution linked to
+  the PDF; SE017/MO070 equivalences removed (literal descriptions now); Maslow
+  "broke from" gloss and MO022 "does not run through needs" gloss removed;
+  McClelland adult-motive claim narrowed to "investigated whether a motive could
+  be developed in adulthood". LESSON recorded: after a multi-edit failure, re-grep
+  the intended anchor before claiming a repair landed.
