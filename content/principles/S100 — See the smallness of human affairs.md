@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 222** — See the smallness of human affairs
 
-Marcus measures in the largest units he has. The continents are corners, the sea a drop, the present a point:
+Marcus pictures the sea and continents on a cosmic scale:
 
 > "Asia, Europe, are corners of the universe; all the sea a drop in the universe; Athos a little clod of the universe: all the present time is a point in eternity. All things are little, changeable, perishable." (Marcus Aurelius, Meditations, Book VI, section 36, [George Long translation](https://www.gutenberg.org/cache/epub/15877/pg15877.txt))
 
@@ -21,9 +21,9 @@ The same scale is personal: "Think of the universal substance, of which thou has
 (Med. IV.32, V.24, VI.36, XII.32.)
 
 **Plain words**
-As a practical exercise, put the week's worry into the largest sentence you can honestly make: how much time it fills, how much space, how many people. The worry does not disappear; it takes its actual size.
+Marcus's smallness concerns scale; he still asks how to act. Set the worry against a wider setting, then decide what response is needed from you now.
 
-*For example:* Looking up at the night sky after a bad day at work and feeling the day shrink a little.
+*For example (imagined):* After a difficult day at work, you look at the night sky and reconsider what you need to do about tomorrow's meeting.
 
 ## Sources
 

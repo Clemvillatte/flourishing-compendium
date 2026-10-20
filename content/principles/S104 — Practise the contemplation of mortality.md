@@ -12,18 +12,18 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 226** — Practise the contemplation of mortality
 
-The practice has three instructions. Marcus's is the shortest:
+Marcus connects remembering death with present conduct:
 
 > "Do not act as if thou wert going to live ten thousand years. Death hangs over thee. While thou livest, while it is in thy power, be good." (Marcus Aurelius, Meditations, Book IV, section 17, [George Long translation](https://www.gutenberg.org/cache/epub/15877/pg15877.txt))
 
-The same register runs through the Meditations: "Since it is possible that thou mayest depart from life this very moment, regulate every act and thought accordingly" (Meditations II.11). Epictetus makes it a daily exercise: "Let death and exile and every other thing which appears dreadful be daily before your eyes; but most of all death: and you will never think of any thing mean nor will you desire any thing extravagantly" (Enchiridion 21). Seneca gives the reason it frees: "He who has learned to die has unlearned slavery; he is above any external power, or, at any rate, he is beyond it" (Letters 26).
+The same register runs through the Meditations: "Since it is possible that thou mayest depart from life this very moment, regulate every act and thought accordingly" (Meditations II.11). Epictetus makes it a daily exercise: "Let death and exile and every other thing which appears dreadful be daily before your eyes; but most of all death: and you will never think of any thing mean nor will you desire any thing extravagantly" (Enchiridion 21). Letter 26 connects learning to die with freedom from external power: "He who has learned to die has unlearned slavery; he is above any external power, or, at any rate, he is beyond it" (Letters 26).
 
 (Med. II.11, IV.17; Ench. 21; Seneca, Letters 26.)
 
 **Plain words**
-As a practical exercise, take one decision you are currently postponing and ask what you would choose if the deadline were the truth rather than an assumption. Marcus's instruction works as a priority-sort under uncertainty.
+Death limits the time available to act, although you do not know that limit. Think of one decision you are postponing and ask what you want to do with the time you have.
 
-*For example:* Writing your own simple farewell letter, and finding it changes what you do next week.
+*For example (imagined):* You draft a brief farewell letter, then review one commitment named in it.
 
 ## Sources
 

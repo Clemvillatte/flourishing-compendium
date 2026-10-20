@@ -16,14 +16,14 @@ Marcus frames the thought as the first thing to establish: "Whether the universe
 
 > "For remembering this, inasmuch as I am a part, I shall be discontented with none of the things which are assigned to me out of the whole; for nothing is injurious to the part if it is for the advantage of the whole." (Marcus Aurelius, Meditations, Book X, section 6, [George Long translation](https://www.gutenberg.org/cache/epub/15877/pg15877.txt))
 
-The whole is not a loose heap: "All things are implicated with one another, and the bond is holy" (Meditations VII.9), and "We are all working together to one end, some with knowledge and design, and others without knowing what they do" (Meditations VI.42). The severed-hand image gives the negative case: "such does a man make himself, as far as he can, who is not content with what happens, and separates himself from others" (Meditations VIII.34) — and the same section adds that it is in your power to unite yourself again. The standing reminder is II.9's: what is the nature of the whole, and what is my nature, and what kind of a part it is of what kind of a whole.
+Marcus describes mutual dependence: "All things are implicated with one another, and the bond is holy" (Meditations VII.9), and "We are all working together to one end, some with knowledge and design, and others without knowing what they do" (Meditations VI.42). The severed-hand image gives the negative case: "such does a man make himself, as far as he can, who is not content with what happens, and separates himself from others" (Meditations VIII.34). The same section adds that it is in your power to unite yourself again. The standing reminder is II.9's: what is the nature of the whole, and what is my nature, and what kind of a part it is of what kind of a whole.
 
 (Med. II.9, VI.42, VII.9, VIII.34, X.6.)
 
 **Plain words**
-As a practical exercise, describe your current complaint as an event in a system: what it is a part of, what else that system contains, and what your piece of it is. The exercise is not self-erasure; the part is real and has a function.
+Marcus pictures unsocial action as cutting yourself off from a body. He also says you can rejoin it. When a dispute leaves you wanting to withdraw, ask what part you can still take in a shared task.
 
-*For example:* Realising your embarrassing moment at the party was forgotten by everyone within the hour.
+*For example (imagined):* After a disagreement on a shared project, you resume your agreed part of the work.
 
 ## Sources
 

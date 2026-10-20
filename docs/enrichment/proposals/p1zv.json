@@ -1,6 +1,6 @@
 {
  "batch": "p1zv",
- "revision": 6,
+ "revision": 7,
  "reciprocal": [
   {
    "into": "Truthfulness",
@@ -33,10 +33,10 @@
    "notes": "S082 (2026-10-21, worker-p1zv-95f93b33): hub inspected, content/concepts/Envy.md has no S082 occurrence (its Cited in philosophy parallels section lists no S082); grounded in S082's Med. VI.13 stripping quote verified against the opened Long text. Milestone-QC revision: why clause neutralised per advisor; Envy.md read (La Rochefoucauld/Buddhist/Daodejing parallels; no S082 occurrence)."
   },
   {
-   "into": "Being-toward-death",
+   "into": "Being-toward",
    "link": "S104",
    "why": "A Stoic practice of holding death in mind as a guide to life",
-   "notes": "S104 (2026-10-21, worker-p1zv-95f93b33): hub inspected, content/concepts/Being-toward-death.md has no S104 occurrence (Cited in philosophy parallels section lists none); grounded in S104's Med. IV.17 and Ench. 21 quotes verified against the opened carriers."
+   "notes": "S104 (2026-10-21, worker-p1zv-95f93b33): milestone-QC revision per advisor. Both pages READ: content/concepts/Being-toward.md (the compendium's fuller label page for Heidegger's being-toward-death; no S104 occurrence; this is the page S104's protected link [[Being-toward|Being-toward-death]] resolves to) and content/concepts/Being-toward-death.md (shorter variant, no S104 occurrence). Proposal retargeted to Being-toward. The Being-toward / Being-toward-death near-duplicate namespace question is recorded for supervisor disposition in the S104 ledger and state flag."
   }
  ]
 }
