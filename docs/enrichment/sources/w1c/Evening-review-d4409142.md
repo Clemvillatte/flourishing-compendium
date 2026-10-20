@@ -35,4 +35,5 @@ No reciprocal hunt or saturation search under fast-track.
 
 ## Validation
 
-Pending local fast-track validation against f5e6f137.
+Local `enrich_validate.py --base f5e6f137 --fast-track` PASS; expected warning
+for absent Related heading. All original navigation retained. State done/pushed.
