@@ -414,3 +414,10 @@ legacy schema (state keys + proposals) — MERGED, never replaced.
 - "typically reduces intergroup prejudice," excerpt restructured to end before source punctuation (no invented comma); same for the 2008 three-mediator excerpt.
 - Mediators grounded: Pettigrew and Tropp 2008 (Wiley PDF opened; abstract quoted verbatim) added for empathy and perspective-taking support; Empathy/Perspective-taking glosses now reference the tested mediators. The original empathy facet line kept as the page's own record, now supported by the opened 2008 text.
 - Validated vs pre-enrichment baseline; build 5,720 ok.
+
+### Milestone QC repairs: Intolerance of uncertainty (2026-10-20, worker-p1f-9d3f7c2b)
+- "Central process behind chronic worry" replaced with the model-statement phrasing (key role in development and maintenance of worry); "A later review" replaced with "A 2016 article describing the model".
+- Transdiagnostic facet re-attributed to Bottesi et al. 2016 (the opened article's report of growing interest); "scale — Carleton, 2012" attribution removed (unverified in the opened source).
+- Vulnerability-factor excerpt restructured to the article's exact wording without the invented comma.
+- Rumination and Anxiety-about-the-future links made bare (glosses reintroduced unverified rumination/processing claims).
+- Validated vs pre-enrichment baseline; build 5,720 ok.
