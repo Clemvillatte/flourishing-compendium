@@ -328,3 +328,57 @@ previously pushed only by ad-hoc git add) — KEPT, verified on origin/main.
   ("no ## Related concepts" warnings only, standard for stories); principle
   files 0 errors; structure file shows only the two documented false
   positives ("prose too short: 0", "## Sources has no http(s) URL").
+
+## Pragmatism batch 1, QC round 1 (advisor-directed bounded repairs)
+
+- **ST345**: "pacifist scold"/"granted its premise in full" replaced with the
+  essay's own narrower claim (war-party "assuredly right... absolute and
+  permanent human goods"); Democracy citation added beside the 1906 Stanford
+  chronology; essay citation added beside the draftees sentence; FDR
+  chronology reworded to match the article (report "on his desk in the
+  Oval Office", "during his first days in office"); "unmarried and
+  unemployed" restored to the 275,000 description; segregation fact added
+  ("open only to men... segregated camps"); "By the time Congress ended
+  the program" replaced with the article's wording (by 1942, when most of
+  the men "graduated into military service"); "nearest thing his spark got
+  to a trial run" and "tree lines still standing" deleted, replaced with
+  the article's documented claim ("first turned into reality").
+- **ST346**: SEP's "centrality of action" phrase re-attributed to the SEP
+  authors' summary; UCLA loyalty lines de-quoted and attributed to the UCLA
+  account; "at half pay" corrected to "half of James's salary"; "three
+  thousand miles", "bet everything" and "What he made of the crossing
+  became his philosophy" removed; 1884 permanence replaced with UCLA's
+  "From 1882 until his death in 1916, Royce taught at Harvard"; closing
+  reframed as the compendium's editorial reading.
+- **ST347**: onset synthesis removed ("In his late twenties" + six-year
+  duration no longer combined); "students of James learn by heart" deleted;
+  "He abstained" corrected to a programme/resolve ("His programme for the
+  remainder of the year was to abstain"); closing overclaim replaced with
+  the labelled-comparison paragraph ("A resolve in a diary is not a
+  cure...").
+- **INTENTIONAL LINK REMOVALS (advisor-directed, FAIL-by-design in the
+  meaningful check)**: P134 removed from ST346 (loneliness is not
+  cultivated solitude); P038 removed from ST347 (a resolve to read and
+  act is not demonstrated habit formation). Reciprocal links removed from
+  the P134 and P038 pages. Meaningful check vs pre-repair HEAD: ST345
+  clean; ST346/ST347/P134/P038 show only the four documented intentional
+  removals.
+- **Verification-class correction**: the round-1 fetches used extraction
+  prompts, so "opened in full" overstated the check. All retained
+  quotations were re-verified against unprompted full-page text (curl
+  tag-stripped for Wikisource, Democracy, Crimson, UCLA, SEP; Atlantic
+  bot-walled to curl, verified via an unprompted full fetch). Results:
+  every retained quote confirmed. Carrier typos noted and handled: the
+  Crimson prints "instantancous" (paraphrased, never quoted); the
+  Atlantic prints "choose towhen" (Apr 30 entry quoted via Wikipedia's
+  clean rendering instead); Wikisource's "till" in the spark quote
+  confirmed (Democracy's "until" is that magazine's rendering).
+- **Ownership check (post-linking)**: P134, P069, P038, P183, P185, P188
+  checked against all live band manifests (p1zq–p1zx) — none owned.
+- **Primary-library consultation (recorded per user's standing
+  instruction)**: docs/PRIMARY-SOURCES.md consulted before this batch.
+  Owner's library holds William James (Delphi Complete Works, Varieties,
+  Pragmatism, A Pluralistic Universe), Dewey Complete Works, and the
+  Essential Peirce vols 1–2 (owner upload 2026-10-19). This batch's James
+  texts are carried by the opened web sources above; no Peirce-attributed
+  claims are made, so the Peirce verification rule is not triggered.

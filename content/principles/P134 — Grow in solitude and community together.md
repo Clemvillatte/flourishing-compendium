@@ -37,7 +37,6 @@ Consider the introvert who takes the lunch walk alone and joins the evening dinn
 
 ## Stories
 
-- [[ST346 — The Boy from Grass Valley|346. The Boy from Grass Valley]]
 
 ## Psychology parallels
 

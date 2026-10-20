@@ -21,7 +21,6 @@ James's own image is the flywheel: "Habit is thus the enormous fly-wheel of soci
 *For example:* A user fixes breakfast in advance and keeps the morning's deciding for the unfamiliar problem that arrives at work.
 
 ## Stories
-- [[ST347 — The First Act of Free Will|347. The First Act of Free Will]]
 
 - [[ST024 — Wheelwright Pian Chides the Duke|24. Wheelwright Pian Chides the Duke]]
 - [[ST027 — Mr. Miyagi's Chores|27. Mr. Miyagi's Chores]]
