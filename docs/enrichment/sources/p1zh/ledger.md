@@ -14,3 +14,6 @@ No advisor tool available; QC is self-QC only.
 
 ## SE029 Learn to comfort yourself
 - Opened: Gilbert 2020 (Front Psychol, PMC7762265) full text; quotes verbatim. Mikulincer & Shaver / Schore / Gillath parallels not opened (inherited, uncertified). Page notes it is one clinical model.
+
+## SE030 Recognise and work with shame
+- Opened: Tangney, Stuewig & Mashek 2007 (PMC3083636) full text; all quotes verbatim. Tangney & Dearing 2002, Gilbert 2009, Neff 2011 parallels not opened (inherited). Original "more toxic" claim reframed as correlational (shame-proneness vs symptoms). Convert-shame-to-guilt practice labelled as the entry's exercise.

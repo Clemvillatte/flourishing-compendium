@@ -12,11 +12,22 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 30** — Recognise and work with shame: shame is about the self, not the act
 
-Shame ("I am bad") is distinct from guilt ("I did something bad"). Shame is a global self-evaluation that motivates hiding and avoidance. It is more toxic than guilt and is a core target of [[Self-compassion|self-compassion]] work.
+> According to Lewis (1971), shame involves a negative evaluation of the global self; guilt involves a negative evaluation of a specific behavior.
 
-**Plain words** Shame ("I am bad") is distinct from guilt ("I did something bad") — shame is a global self-evaluation that motivates hiding and avoidance. More toxic than guilt, and a core target of therapy. Convert shame to guilt: shrink it from self to act.
+(Tangney, Stuewig and Mashek, "Moral Emotions and Moral Behavior," Annual Review of Psychology 58, 2007, [PMC3083636](https://pmc.ncbi.nlm.nih.gov/articles/PMC3083636/).)
 
-*For example:* The relapse that produces "I'm a worthless addict" (shame — hide, use again) versus "I broke my commitment last night" (guilt — call the sponsor, return to the plan). The same event; only one of them has a next step in it.
+The review reports that shame "corresponds with attempts to deny, hide, or escape the shame-inducing situation," while guilt "corresponds with reparative actions including confessions, apologies, and undoing the consequences of the behavior." It also states that "proneness to shame is related to a wide variety of psychological symptoms," from low self-esteem, depression and anxiety to suicidal ideation. These are correlations with proneness to shame, and the review does not describe a cure.
+
+On guilt, the authors note that its advantages "are lost when a person's guilt experience ('Oh, look at what a horrible thing I have done') is magnified and generalized to the self ('... and aren't I a horrible person')." That is the move the practice below tries to reverse. The practice itself, translating shame into a specific guilt, is this entry's exercise and not a tested treatment in this paper. The review does not examine [[Self-compassion|self-compassion]] work, which this entry names as a main way of addressing shame.
+
+**Plain words** Guilt says "I did something wrong." Shame says "I am wrong." Guilt points to something you can repair. Shame points to hiding. Asking what exactly you did, and whether it can be put right, brings the feeling back to something workable.
+
+*For example:* After a relapse, "I'm a worthless addict" leaves nothing to do but hide. "I broke my commitment last night" leaves a next step, such as calling the sponsor.
+
+## Sources
+
+- [Tangney, J. P., Stuewig, J., & Mashek, D. J. (2007). Moral Emotions and Moral Behavior. Annual Review of Psychology 58](https://pmc.ncbi.nlm.nih.gov/articles/PMC3083636/) — author manuscript full text read; the Lewis definition, action tendencies, symptom findings and the guilt-generalization passage
+
 ## Psychology parallels
 
 - **[[Shame|Shame vs guilt (Tangney)]]**, shame is about the global self; guilt is about a specific behaviour (Tangney & Dearing, 2002; Tangney et al., 2007)
