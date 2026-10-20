@@ -58,7 +58,7 @@ The same scans showed stronger coupling in the meditators between control-relate
 - Killingsworth and Gilbert, 2010 — full text PDF: https://greatergood.berkeley.edu/images/uploads/A_Wandering_Mind_Is_an_Unhappy_Mind.pdf
 - Mooneyham & Schooler, 2013 — full text PDF: https://metalab.psych.ucsb.edu/sites/default/files/publications/2013/2013-The-costs-and-benefits-of-mind-wandering-a-review.pdf
 - Baird et al., 2012 — original NOT opened; the tedious-task insulation result above is cited to the Mooneyham and Schooler review, which dates that study 2010
-- Brewer et al., 2011 — for the practice effect: https://www.pnas.org/doi/10.1073/pnas.1112029108
+- Brewer et al., 2011 — meditation findings: https://www.pnas.org/doi/10.1073/pnas.1112029108
 
 ## Related concepts
 
