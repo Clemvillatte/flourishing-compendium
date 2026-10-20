@@ -170,3 +170,25 @@ All three files revalidated (3 checked, 0 failed) after repairs.
   claims added (the article's model is presented as the article's model).
 - Saturation: fast-track exemption; no reciprocal proposed.
 - QC: validator ok.
+
+## Congruence
+
+- Track: fast-track, current degree 5 (all principle neighbors).
+- Opened: Rogers 1957 reprint PDF (same URL the p1r P167 item verified),
+  downloaded and pdftotext-extracted 2026-10-20.
+- Quotations, copied from the extracted text: condition-3 passage ("The third
+  condition is that the therapist should be... either knowingly or
+  unknowingly.") as blockquote; incongruence definition fragment
+  ("discrepancy between the actual experience of the organism and the self
+  picture of the individual insofar as it represents that experience");
+  "a paragon" / "accurately himself in this hour of this relationship"
+  fragments.
+- Related concepts verified to exist: Unconditional positive regard (deg 10),
+  Authenticity (deg 29), Person-Centered Theory (deg 4).
+- Limits: the 1957 paper is the opened source; the seed's On Becoming a Person
+  locator line kept in Sources as inherited (the p1r ledger separately
+  verified its ch. 8 PDF). Rogers's exact condition numbering (3) is from the
+  paper's own list.
+- Saturation: fast-track exemption; no reciprocal proposed (P167's reciprocal
+  proposals already cover the Rogers linkage per the p1r ledger).
+- QC: validator ok.
