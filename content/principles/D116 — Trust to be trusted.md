@@ -12,18 +12,30 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 116** — Trust to be trusted
 
-Distrust breeds untrustworthiness; the ruler who trusts insufficiently loses the people's trust. Extend trust first: it's the only thing that makes it.
+Two Daodejing chapters supply the mechanism. Chapter 17 grades rulers by how their people relate to them, from those whose people "did not know that there were (their rulers)" down through love, fear and contempt, and gives the causal line:
+
+> "Thus it was that when faith (in the Tao) was deficient (in the rulers) a want of faith in them ensued (in the people)." (DDJ 17, Legge trans., [Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt))
+
+Chapter 49 supplies the policy that runs on trust first:
+
+> "To those who are good (to me), I am good; and to those who are not good (to me), I am also good;--and thus (all) get to be good. To those who are sincere (with me), I am sincere; and to those who are not sincere (with me), I am also sincere;--and thus (all) get to be sincere." (DDJ 49)
+
+The sage's goodness and sincerity are set in advance rather than matched to the other party's, and the chapter's claim is that the fixed terms pull the interaction toward them.
 
 (DDJ 17, 49.)
 
-**Plain words** Distrust breeds untrustworthiness, and the distrustful ruler loses the people's trust. Extend trust first — it's the rare currency that grows by spending it and dies by hoarding it.
+**Plain words** Most trust is conditional: I will be trustworthy once you seem trustworthy first. DDJ 49 refuses the sequencing. Its policy is to be good and sincere whether or not the other party is, on the wager that the fixed term pulls the other party toward it. The practical test: name one relationship where you are waiting for the other person to go first, and consider that they may be running the same calculation.
 
-*For example:* The boss who micromanants trains employees to wait for instructions; the one who delegates trains them to own outcomes.
+*For example:* The boss who micromanages trains employees to wait for instructions; the one who delegates trains them to own outcomes.
+
+## Sources
+
+- [The Tao Teh King, Legge trans., Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt) — chapters 17, 49
 
 ## Psychology parallels
 
-- **[[Pygmalion effects|Pygmalion effects]]**, high expectations elicit better performance (Rosenthal and Jacobson, 1968)
-- **[[Generalized trust|Generalized trust]]** (Putnam, 2000), predicts individual well-being
+- **[[Pygmalion effects|Pygmalion effects]]** (Rosenthal and Jacobson, 1968)
+- **[[Generalized trust|Generalized trust]]** (Putnam, 2000)
 
 ## Philosophy parallels
 
