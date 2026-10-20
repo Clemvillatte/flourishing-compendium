@@ -10,15 +10,15 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 habits form when behaviour is repeated in consistent context (Lally et al., 2010; Gardner, 2015).
 
-Context-dependent repetition is the practice at the centre of the best-known habit-formation study. Lally and colleagues asked 96 volunteers to choose an eating, drinking or activity behaviour to carry out daily in the same context, for example after breakfast, for 12 weeks, and tracked automaticity day by day. The abstract's conclusion:
+Context-dependent repetition is the practice at the centre of Lally and colleagues' 2010 habit-formation study. The researchers asked 96 volunteers to choose an eating, drinking or activity behaviour to carry out daily in the same context, for example after breakfast, over a 12-week observation period, and tracked automaticity day by day. The abstract's conclusion:
 
 > With repetition of a behaviour in a consistent context, automaticity increases following an asymptotic curve which can be modelled at the individual level. — Lally et al., 2010, *Eur J Soc Psychol* 40(6):998–1009, [Wiley abstract (opened)](https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674)
 
-The curve's shape matters for practice. Gains come fast at first and then slow toward a plateau, and the time to reach it varies widely:
+The curve's shape matters for practice. Gains come fast at first and then slow toward a plateau. The study reports that the nonlinear regressions fitted an asymptotic curve for 62 of the 82 participants with sufficient data, with good fits for 39, and the modelled time to reach 95% of the asymptote varied widely:
 
 > The time it took participants to reach 95% of their asymptote of automaticity ranged from 18 to 254 days; indicating considerable variation in how long it takes people to reach their limit of automaticity and highlighting that it can take a very long time. — Lally et al., 2010, [Wiley abstract (opened)](https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674)
 
-One miss is not fatal: the same abstract reports that missing one opportunity to perform the behaviour did not materially affect the habit formation process. The compendium builds its habit practices on this ground.
+The abstract also reports that missing one opportunity did not materially affect habit formation in this study. The compendium builds its habit practices on this ground.
 
 ### In the compendium
 
@@ -42,7 +42,7 @@ One miss is not fatal: the same abstract reports that missing one opportunity to
 
 - [Lally et al., 2010, How are habits formed — Wiley abstract (opened)](https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674)
 - Lally et al., 2010
-- Gardner, 2015
+- Gardner, 2015 (original seed reference; not consulted)
 
 ## Cited in psychology parallels
 
