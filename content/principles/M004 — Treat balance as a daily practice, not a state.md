@@ -12,13 +12,21 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "M — Mesoam
 ---
 > **Principle 4** — Treat balance as a daily practice, not a state
 
-In the Mesoamerican medical and moral vocabulary, health is balance (of hot and cold, wet and dry, in the body and in the life) and illness is imbalance; the healer's work is re-balancing. The moral generalization is the tradition's own: excess in either direction is the root pathology, and the middle is not mediocrity but the actual location of vitality. Practically, audit your days for one-sidedness (all work, all stimulation, all withdrawal) and practice the correction that the pairing requires.
+James Maffie's account of historical Nahua philosophy describes wisdom as practical know-how for maintaining one's balance on a slippery earth ([“Aztec Philosophy,” §3b](https://iep.utm.edu/aztec-philosophy/)). Moderation concerns ordinary activities such as eating and sleeping, alongside relationships within homes and communities ([§§3b, 6](https://iep.utm.edu/aztec-philosophy/)).
 
-(The Mesoamerican balance model as presented in the ethnomedical literature; the huehuetlatolli's moderation counsels.)
+> the middle good is necessary
 
-**Plain words** Health is balance (of hot and cold, wet and dry, in the body and in the life); illness is imbalance; the healer's work is re-balancing. Excess in either direction is the root pathology, and the middle isn't mediocrity — it's where the vitality actually lives. Balance as something you do daily, not a state you achieve once.
+(Nahuatl tlacoqualli in monequi, Sahagún, Book VI, p. 231, Burkhart's translation, p. 134, as reproduced in [Maffie, §6](https://iep.utm.edu/aztec-philosophy/); quotation accessed through this scholarly account.)
 
-*For example:* Someone who swings between crunch-time and collapse — and starts treating balance like hygiene: daily sleep, daily food, daily movement — small corrections before the imbalance becomes the illness.
+This is a historically attributed conception of well-being, not clinical evidence that illness results from moral imbalance or that hot-and-cold adjustments treat it ([Maffie, §§3b, 6](https://iep.utm.edu/aztec-philosophy/)). The practical invitation below is an adaptation for readers.
+
+### Plain words
+
+Look for something important that your present routine keeps crowding out. Ask what adjustment is possible today, given your responsibilities and the help available, rather than aiming for a permanently perfect schedule.
+
+### For example
+
+Suppose extra work has displaced every visit with a close friend. You could discuss a smaller commitment you can actually keep, while examining which demands at work you can renegotiate.
 ## Psychology parallels
 
 - **Work-recovery balance and circadian regularity**, the evidence that sustained one-sidedness depletes and oscillation restores (the recovery literature; Sonnentag's work, as framework)
