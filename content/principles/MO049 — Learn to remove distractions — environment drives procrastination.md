@@ -19,7 +19,7 @@ Distraction usually has an address: the environment. The smartphone studies meas
 The replication record, checked honestly: a 2023 meta-analysis of the smartphone presence literature pooled a small significant negative effect (g = -0.14, 95% CI -0.24 to -0.03), and the pooled result covers smartphone use and presence together rather than a clean test of mere presence; the original studies' individual effects were uncertain. This page's suggested practice, which goes beyond what the capacity studies measured: treat the design as a cheap experiment — same task, two hours, phone in reach for one and in another room for the other — and see which hour's work goes better.
 
 **Plain words**
-The studies measured cognitive capacity, not procrastination. The practice they suggest is a two-hour experiment on your own work: same task, two hours, phone in reach for one and in another room for the other, and see which hour's work goes better.
+Where is your procrastination physically sitting? A lot of the time it is within arm's reach. The finding behind this page is not that phones are evil; it is that resisting one costs something even when you resist successfully, because part of your attention stays on the job of ignoring it. So the practical move is boring: change what is in the room, not how hard you try. The discipline you were spending on ignoring things is freed for the work itself.
 
 *For example:* The writer who works with the router unplugged — not because they lack discipline, but because they would rather not spend that discipline on ignoring the internet.
 

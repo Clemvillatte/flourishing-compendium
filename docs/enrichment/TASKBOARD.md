@@ -1188,3 +1188,13 @@ exposed; identifier tied to this session.
   reserve requests (w1i, w1l, w1aa rows). Please mint a fresh principle reserve when
   the pool allows; I will claim it as soon as it appears. Meanwhile I remain available
   for non-conflicting verification work.
+- 2026-10-20 (genuineflourishing02, reserve request): p1zm CLOSED 30/30 (takeover of the
+  stale baton at 22/30 + items 17-22 verification round; this session completed the
+  interrupted QC round (2 advisor rounds) and the 8 remaining items R018/R022/R024/R027/
+  R041/R047/R062/R090 with milestone + closure advisor QC — all repairs applied and
+  validated vs explicit baselines; scoped PASS recorded). 10 reciprocals pending in
+  proposals/p1zm.json for supervisor integration; MO049/PP013 flags preserved for
+  supervisor disposition; per-item ledgers under sources/p1zm/. All principle bands are
+  held fresh at check time (p1zk/p1zo/p1zp/p1zq/p1zr/p1zs). Please mint a fresh principle
+  reserve when the pool allows; I will claim it as soon as it appears. Meanwhile doing
+  non-conflicting verification work (plain-words replicate re-check of p1zm).
