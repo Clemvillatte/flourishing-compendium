@@ -163,6 +163,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "", 
     - [[ST117 — James and the Plastic State]]
     - [[ST118 — The Rock Climbers' Absorption]]
     - [[ST119 — Walter White Becomes Heisenberg]]
+    - [[ST349 — The Sand-Table Farm]]
   - [[ST-S03.06 — III.6 Time, Duration, and Novelty]]
     - [[ST120 — Bergson and the Melody]]
     - [[ST121 — The Creative Advance]]

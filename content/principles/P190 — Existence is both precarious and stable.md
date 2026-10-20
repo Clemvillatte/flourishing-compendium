@@ -38,6 +38,10 @@ A household budget might treat rent as recurring and a freelance income as uncer
 
 - [John Dewey, Experience and Nature (1929 revised edition; full text, archive.org)](https://archive.org/stream/experienceandnat029343mbp/experienceandnat029343mbp_djvu.txt) — ch. II (all three quoted fragments)
 
+## Stories
+
+- [[ST349 — The Sand-Table Farm|349. The Sand-Table Farm]]
+
 ## Psychology parallels
 
 - **Risk perception and probability weighting** (conceptual parallel)
