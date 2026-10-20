@@ -1,6 +1,6 @@
 {
  "batch": "p1zr",
- "revision": 10,
+ "revision": 11,
  "reciprocal": [
   {
    "into": "Capacity to be alone (Winnicott)",
@@ -49,6 +49,12 @@
    "link": "AT068",
    "why": "The principle protecting attentional time, grounded in the same Killingsworth and Gilbert study the concept page cites",
    "notes": "AT068 body grounds in K&G 2010 (opened Greater Good full-text PDF); Mind wandering concept page cites K&G and links AT035/AT034 but not AT068."
+  },
+  {
+   "into": "Exposure therapy (Foa, Craske)",
+   "link": "BE030",
+   "why": "A principle examining safety behaviours during exposure",
+   "notes": "Advisor round 1: neutral descriptive clause; Experiential avoidance theory proposal withdrawn (relationship to the Hayes construct not established by opened sources)."
   }
  ],
  "inline": [],

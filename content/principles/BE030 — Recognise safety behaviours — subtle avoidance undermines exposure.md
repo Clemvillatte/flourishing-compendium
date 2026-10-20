@@ -12,15 +12,20 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BE — Overt Be
 ---
 > **Principle 30** — Recognise safety behaviours: subtle avoidance undermines exposure
 
-Safety behaviours — subtle actions that reduce anxiety but prevent full exposure (holding a rail, always having a phone, sitting near an exit) — undermine exposure. They prevent full learning that the feared outcome does not occur.
+Salkovskis describes safety-seeking behaviour as a response to perceived serious threat. In his cognitive account, these behaviours may maintain anxiety by leaving threat beliefs untested. A person may attribute the absence of catastrophe to the precaution.
 
-**Plain words** Safety behaviours — gripping the rail, rehearsing every sentence, sitting near the exit — feel like help, but they're avoidance in a trench coat. They tell the brain the danger was real and the rescue worked. Drop them, and the real learning starts.
+> "By preventing disconfirmation of threat-related cognitions, safety seeking behaviour may be a crucial factor in the maintenance of anxiety disorders." (Salkovskis, 1991, Behavioural Psychotherapy 19(1):6-19, Abstract, [Oxford departmental abstract page](https://www.psy.ox.ac.uk/publication/1028118))
 
-*For example:* The panicking flyer gripping the armrest "survives" the flight and credits the grip — so the fear stands. Dropping the safety behaviour, hands in the lap, is when the real learning begins — ideally with support, and not all at once.
+Sloan and Telch's experiment compared what participants did during exposure. Markedly claustrophobic participants encouraged to use safety behaviours in a 30-minute session "showed significantly more fear at post-treatment and follow-up" than participants taught to focus on and re-evaluate their core threats (Sloan & Telch, 2002, Behaviour Research and Therapy 40:235-251, Abstract, [full-text PDF](https://www.personal.kent.edu/~dfresco/CBT_Readings/BRAT_Sloan_&_Telch_2002.pdf)).
+
+**Plain words** Ask what you expect the precaution to prevent. If the feared event does not happen, would you take that as evidence against your prediction, or conclude that the precaution saved you? Crediting the precaution alone can leave the original prediction unchanged.
+
+**For example:** Imagined: before a planned exposure exercise, someone tells their therapist, "If I stop rehearsing, I expect everyone to laugh." They discuss how to test that prediction and what observation would count against it.
+
 ## Psychology parallels
 
-- **Safety behaviours undermine exposure (Salkovskis)**, subtle avoidance prevents full extinction (Salkovskis, 1991; Sloan & Telch, 2002)
-- **Dropping safety behaviours enhances exposure**, removing them improves outcomes (Salkovskis, 1991; Sloan & Telch, 2002; Hood et al., 2010)
+- **Salkovskis's proposed mechanism (1991)**: safety-seeking behaviours may maintain anxiety by leaving threat beliefs untested
+- **Safety-behaviour use during exposure (Sloan & Telch, 2002)**, the safety-behaviour condition showed more fear after treatment and at follow-up than the guided-threat-reappraisal condition
 
 ## Philosophy parallels
 
@@ -30,4 +35,9 @@ Safety behaviours — subtle actions that reduce anxiety but prevent full exposu
 
 ## Practice
 
-- Identify safety behaviours: what subtle things do you do to feel safe (carry water, sit near exit, rehearse what to say)? During exposure, drop them. Full exposure without safety behaviours produces full learning.
+- If you are receiving exposure therapy, discuss suspected safety behaviours and the prediction being tested with your clinician before changing them.
+
+## Sources
+
+- Salkovskis, P. M. (1991). The importance of behaviour in the maintenance of anxiety and panic: A cognitive account. Behavioural Psychotherapy 19(1), 6-19. [Oxford departmental abstract page](https://www.psy.ox.ac.uk/publication/1028118)
+- Sloan, T., & Telch, M. J. (2002). The effects of safety-seeking behavior and guided threat reappraisal on fear reduction during exposure. Behaviour Research and Therapy 40(3), 235-251. [Full-text PDF](https://www.personal.kent.edu/~dfresco/CBT_Readings/BRAT_Sloan_&_Telch_2002.pdf)
