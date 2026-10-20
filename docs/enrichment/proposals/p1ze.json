@@ -1,6 +1,6 @@
 {
  "batch": "p1ze",
- "revision": 12,
+ "revision": 13,
  "records": [
   {
    "action": "reciprocal",
@@ -106,6 +106,20 @@
    "link": "BE069",
    "why": "BE069 names depression's withdrawal and inactivity as the behaviours behavioral activation targets; the concept page covers the treatment's account of those patterns.",
    "notes": "Proposed by worker-p1ze-e6d6f5ba during BE069 saturation rerun; grounded in the opened Jacobson et al. 2001 paper."
+  },
+  {
+   "action": "reciprocal",
+   "into": "Slow-paced breathing",
+   "link": "BI003",
+   "why": "Slow-paced breathing at the resonance rate is the method HRV biofeedback uses to maximise heart-rate oscillations; BI003 covers the marker and the training.",
+   "notes": "Proposed by worker-p1ze-e6d6f5ba during BI003 saturation; grounded in the opened Lehrer & Gevirtz 2014 paper."
+  },
+  {
+   "action": "reciprocal",
+   "into": "Parasympathetic activation",
+   "link": "BI003",
+   "why": "HRV reflects vagal activity and is the measure biofeedback training raises through slow breathing; BI003 gives the definition and the training protocol.",
+   "notes": "Proposed by worker-p1ze-e6d6f5ba during BI003 saturation; grounded in the opened Shaffer & Ginsberg 2017 and Lehrer & Gevirtz 2014 papers."
   }
  ]
 }
