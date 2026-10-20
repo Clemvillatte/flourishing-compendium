@@ -27,11 +27,12 @@
   "E059",
   "K009",
   "K004",
-  "K035"
+  "K035",
+  "K066"
  ],
  "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T08:15:50+00:00"
+ "updated": "2026-10-20T08:16:48+00:00"
 }

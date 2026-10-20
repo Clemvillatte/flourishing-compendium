@@ -108,3 +108,7 @@ No separate advisor tool available to this session; quotes are checked programma
 ## K035
 - Chekawa, Seven Points (Pearcey 2012) and Gyalse Tokme Zangpo commentary (Pearcey 2018), both Lotsawa House pages fetched and grep-verified (8 quotes).
 - Limits: statement says 'fifth point'; both texts give the five strengths in Point Four (Point Five is the measure of mind training); body states this, statement untouched (supervisor may correct). Statement's names (white seed, reproach of the ego, strong determination) are alternative translations (impetus, wholesome seeds, revulsion); 'there you are again' not in either text, flagged as modern gloss. Example hypothetical.
+
+## K066
+- Davis, 'The Kyoto School', SEP (fetched; secondary source quoting Tanabe 1986/2000; sections 3.4 & 4) and Kiyozawa 'The Great Path of Absolute Other-Power' (Heisig trans.) in Buddha Eye (owner's Drive PDF, grep-verified). Segall file had 0 mentions of Tanabe; Buddha Eye anthology contains no Tanabe chapter.
+- Limits: Tanabe's Philosophy as Metanoetics itself NOT opened (copyrighted; quotes are second-hand via SEP, flagged in Sources). Statement's 'recovery literature serenity' not supported by any source; body says the link is the wiki's own. Example hypothetical.

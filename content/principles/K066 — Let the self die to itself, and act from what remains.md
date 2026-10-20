@@ -12,13 +12,20 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 66** — Let the self die to itself, and act from what remains
 
-Tanabe's structure of death-and-resurrection, kept as psychology: the self that planned and controlled is deliberately allowed to fail, and what acts afterward is not a new ego claiming the victory but a self that knows it is carried by factors it did not create (Tanabe's "other-power," tariki, borrowed from Pure Land and stated philosophically). The translation is the recovery literature's serenity: after you have done your part, the outcome is held by a wider system. Practically, in your most important current effort, do your part fully, then state aloud that the result is not solely yours, and notice the energy released by the release.
+Tanabe Hajime first delivered parts of Philosophy as Metanoetics as lectures in 1944. In Bret Davis's account, the book's central idea is that "human reason is inevitably driven to antinomies through which it must repeatedly die to its own self-power in order to be reborn again through the workings of an Other-power" (Davis, "The Kyoto School," Stanford Encyclopedia of Philosophy, [sections 3.4 and 4](https://plato.stanford.edu/entries/kyoto-school/)). Tanabe calls this "absolute critique", and he uses the Shin Buddhist term tariki (other-power) for what raises the self again. Davis quotes him: "only that which entails the absolute existential mediation of the death and resurrection of the self can be called absolute nothingness" (Tanabe 2000, 13, as quoted there). The self is not simply replaced by a stronger one. It must pass through its own failure, and what acts afterwards does so by other-power.
 
-(Tanabe, Philosophy as Metanoetics; the tariki-jiriki dialectic.)
+For the attitude behind this, the Shin teacher Kiyozawa Manshi is clearer. "Everything you have received is an apparition of the Infinite Other-Power. Honor it. Treasure it." He adds that the self "is not within the power of our will to sway" (Kiyozawa, "The Great Path of Absolute Other-Power," trans. James W. Heisig, in Franck, ed., The Buddha Eye). Neither source mentions the recovery movement, so any link to it is the wiki's own.
 
-**Plain words** In psychological terms, Tanabe's death and resurrection means letting the self that planned and controlled fail, and what acts afterwards isn't a new ego claiming victory but a self that knows it is carried by factors it didn't create. That's his "other-power," borrowed from Pure Land and stated philosophically.
+**Plain words**
+Do your part as well as you can. When your plan fails, don't rush to rebuild the same controlling self. Admit its limits and let the support you already have, from people, circumstances and things you didn't make, do some of the carrying.
 
-*For example:* After a long illness you stop managing recovery and let others help, and find that you are held more than you thought.
+**For example**
+After months of micromanaging a project that stalls, you stop forcing it, ask the team for help, and accept that the outcome is not yours alone.
+
+## Sources
+
+- [Bret W. Davis, "The Kyoto School," Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/kyoto-school/): opened; quotes Tanabe, Philosophy as Metanoetics (trans. Takeuchi Yoshinori, University of California Press, 1986). I did not open Tanabe's book itself.
+- [Frederick Franck, ed., The Buddha Eye: An Anthology of the Kyoto School and Its Contemporaries](https://drive.google.com/file/d/1_zv7Yry2uiUDh1LLAL6EBVyql8jEWgLZ/view): owner's library, opened; Kiyozawa chapter 17
 
 ## Psychology parallels
 
