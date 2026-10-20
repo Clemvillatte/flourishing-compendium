@@ -12,13 +12,23 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 316** — Practise zhi (wisdom)
 
-Cultivate the practical wisdom to distinguish right from wrong, beneficial from harmful, true from false. Zhi is not merely intellectual knowledge but moral discernment. It is the wisdom to see the right course of action and the courage to pursue it.
+In Legge's Analects, zhi is translated as "knowledge" or "wisdom", and Confucius gives it three plain tests. It starts with honest accounting: "When you know a thing, to hold that you know it; and when you do not know a thing, to allow that you do not know it; this is knowledge" (2.17). It concerns people: asked about knowledge, he answers "It is to know all men" (12.22). And it is practical: "To give one's self earnestly to the duties due to men, and, while respecting spiritual beings, to keep aloof from them, may be called wisdom" (6.22) (Confucius, Analects, trans. James Legge, [Project Gutenberg](https://www.gutenberg.org/cache/epub/3330/pg3330.html)).
 
-(Confucius, The Analects 6.22, 15.3; Mencius, The Mencius 2A6.)
+Mencius roots zhi in a feeling that can be developed. "The feeling of approving and disapproving is the principle of knowledge." He adds that "Men have these four principles just as they have their four limbs", and he warns that those who say they cannot develop them "play the thief with themselves" (Mencius 2A6, trans. Legge, [Wikisource](https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_2/The_Works_of_Mencius/chapter03)).
 
-**Plain words** Zhi is moral discernment: seeing right from wrong, true from false, and then having the spine to pursue it. Not intellectual horsepower — the eye that spots the right course plus the legs to walk it.
+These passages tie wisdom to discernment, to honesty about the limits of what you know, and to the development of a moral sense. The principle also pairs wisdom with "the courage to pursue it", and the nearest line I found speaks of righteousness: "To see what is right and not to do it is want of courage" (2.24).
 
-*For example:* The engineer who can't un-see the corner being cut on safety — everyone sees it, she's the one whose knowledge turns into a raised hand at the meeting.
+**Plain words**
+Wisdom is partly honesty about what you know and don't know, partly understanding people, and partly a trained sense of right and wrong. Check which you are using in a hard decision.
+
+**For example**
+Before advising a friend on a dispute, you admit you have only heard one side, and you ask for the other before you say what you think.
+
+## Sources
+
+- [Confucius, The Analects, trans. James Legge, Project Gutenberg #3330](https://www.gutenberg.org/cache/epub/3330/pg3330.html): opened and text-checked. Legge's chapter numbers are Book II ch. XVII (2.17), Book XII ch. XXII (12.22), Book VI ch. XX (6.22) and Book II ch. XXIV (2.24).
+- [Mencius, Book II Part A ch. 6, trans. Legge, Wikisource](https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_2/The_Works_of_Mencius/chapter03): excerpt opened via search result
+
 ## Psychology parallels
 
 - **[[Wisdom|Wisdom]]** (Baltes and Staudinger, 2000; Grossmann et al., 2010)
