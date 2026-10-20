@@ -29,7 +29,20 @@ from it:
   scheduled on the Web Audio clock at an exact time. Adjacent buffers start
   back-to-back, so joins carry no gap and no overlap.
 - **Any duration, any count.** The engine reads each buffer's real duration;
-  nothing assumes 60-second files. The set loops with a designed transition.
+  nothing assumes 60-second files.
+- **Infinite playback, varied by rotation.** The set loops forever. Each pass
+  through the set begins at a randomly rotated track (never the same start
+  twice in a row, order preserved so every join stays intact), so consecutive
+  passes never repeat identically. The pass-final segment fades out; the new
+  pass fades in over ~1.2 s. Track jumps and random picks anchor a new pass
+  at the target track. The position display is per-pass (time since the
+  current pass began).
+- **Layering is a source-material concern.** This player plays files; it does
+  not synthesize or mix stems. If the set is supplied as multiple layers
+  (e.g. a drone bed, a pad layer, an arpeggio layer — each its own ordered
+  segments), the engine can be extended to schedule the layers independently
+  so their loop points drift against each other and the combination evolves
+  — see the roadmap (`docs/ROADMAP.md`, "Layered sets").
 
 ## 3. Architecture
 
@@ -61,10 +74,9 @@ from it:
   `play()` and `dispose()` invalidate. A pending decode can never revive a
   stopped or disposed engine, and repeated clicks during a decode produce
   exactly one playback chain.
-- **Designed transitions.** The final segment of a set fades out over ~3 s;
-  the first segment's own intro provides the fade back in. Track jumps and
-  random picks use the same transition language (stop sources, schedule the
-  selected segment immediately).
+- **Designed transitions.** The final segment of a pass fades out over ~3 s;
+  the next pass (starting at a rotated track) fades back in. Track jumps use
+  a ~0.8 s fade-in; random picks are jumps. Pause/resume is seamless.
 - **Timer envelope.** The session timer fades out on a **dedicated gain
   stage** (`timerGain`), separate from user volume and the circadian trim.
   Changing or cancelling the timer clears the pending fade and restores the
@@ -141,6 +153,10 @@ Rules that hold in every mode:
 - Zero console/page errors during normal use.
 - Gapless joins when segments decode in time; rebase (never overlap) on underrun.
 - Pause/resume preserves exact position; stop resets to idle.
+- Loop wraps are infinite: the pass-final segment fades out, the next pass
+  starts at a rotated track with a fade-in, the track-list highlight and the
+  pause capture follow the rotation, and no two consecutive passes start at
+  the same track.
 - Repeated rapid clicks produce one playback chain; stop/dispose during a
   pending decode leaves the engine idle with no sources.
 - Timer replace/cancel never stops a restarted session; the fade uses its

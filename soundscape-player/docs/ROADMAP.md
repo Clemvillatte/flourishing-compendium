@@ -13,7 +13,10 @@ Delivered in the initial implementation:
       ordered joins, 3-segment prefetch, underrun rebase (never overlap)
 - [x] Transport: play / pause (exact position) / resume / stop
 - [x] Track selection (list with live highlight) and random jump
-- [x] Designed loop transition (final-segment fade-out)
+- [x] Designed loop transition (pass-final fade-out) — and **varied loops**:
+      each pass starts at a randomly rotated track (order preserved, joins
+      intact, no identical consecutive passes), with fade-ins on wraps and
+      track jumps; per-pass position display
 - [x] Session timer (15/25/45/off) with dedicated fade gain stage;
       replace/cancel never kills a restarted session
 - [x] Circadian filter (low-pass + trim by hour), toggleable
@@ -25,8 +28,17 @@ Delivered in the initial implementation:
 - [x] Track-loading workflow + `scripts/prepare-tracks.sh`
 - [x] QA harness pattern (short synthesized segments for fast testing)
 
-## Phase 2 — Multiple sets and playback modes
+## Phase 2 — Multiple sets, playback modes, and layering
 
+- [ ] **Layered sets (stems)** — the biggest lever for loops that "feel
+      layered": mount accepts several layers (drone bed, pads, arpeggio —
+      each an ordered segment list), scheduled on independent timelines so
+      their loop points drift against each other and the combination evolves
+      continuously. Requires per-layer gain, optional per-layer rotation,
+      and a mixing rule (sum with normalization or fixed layer levels).
+      Acceptance: with two layers whose durations are relatively prime, the
+      combined output never audibly repeats within an hour; soloing a layer
+      mid-playback crossfades cleanly.
 - [ ] Set switching: mount several sets and switch at runtime without
       page reload (dispose + re-mount is the current workaround; make it a
       first-class `loadSet(config)` API with a designed crossfade).

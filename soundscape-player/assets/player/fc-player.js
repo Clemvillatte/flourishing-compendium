@@ -97,6 +97,12 @@
     this._timerTO = null;
     this._disposed = false;    // set on dispose(); async callbacks must not revive the engine
     this._playGen = 0;         // playback generation token: stop()/dispose() invalidate pending starts
+    this._loopStart = 0;       // first track index of the current pass
+    this._passOrigin = 0;      // ctx time when the current pass began (position is per-pass)
+    this._pausedPos = 0;       // position within the pass, captured at pause
+    this._pendingPassStart = false; // next scheduled segment begins a new pass
+    this._pendingPassFade = 0.05;   // fade-in length for that pass-start segment
+    this._resumeFade = 0.05;        // fade-in length for the next resume (jumps use a longer one)
   }
 
   Engine.prototype.totalDuration = function () {
@@ -115,12 +121,16 @@
       return this._elapsedBefore(this.fallbackIndex) + (this.fallbackAudio.currentTime || 0);
     }
     if (!this.ctx || !this.buffers.length) return 0;
+    // position is per-pass: time since the current pass through the set began.
+    // the next pass is scheduled slightly ahead of the clock, so while the
+    // outgoing pass is still audible, position continues on the previous pass.
     if (this.state === 'playing') {
-      var fi = this._frontIdx;
-      if (!this.buffers[fi]) return 0;
-      return this._elapsedBefore(fi) + Math.min(Math.max(this.ctx.currentTime - this.timelineStart, 0), this.buffers[fi].duration);
+      var now = this.ctx.currentTime;
+      if (now >= this._passOrigin) return now - this._passOrigin;
+      if (this._prevPassOrigin != null) return Math.min(now - this._prevPassOrigin, this.totalDuration());
+      return 0;
     }
-    return this._elapsedBefore(this.segIndex) + this.segOffset;
+    return this._pausedPos || 0;
   };
 
   Engine.prototype._elapsedBefore = function (i) {
@@ -229,13 +239,39 @@
       // underrun guard: if the timeline fell behind the clock (a later segment
       // decoded late), rebase before scheduling instead of stacking sources
       if (this.nextTime < this.ctx.currentTime - 0.05) {
-        this.nextTime = this.ctx.currentTime + 0.06;
+        var newStart = this.ctx.currentTime + 0.06;
+        this._passOrigin += newStart - this.nextTime; // keep position continuous
+        this.nextTime = newStart;
         this._frontIdx = idx;
         this.timelineStart = this.nextTime;
       }
-      this._scheduleSegment(idx, buf, this.nextTime, 0);
+      var when = this.nextTime;
+      if (this._pendingPassStart) {
+        // this segment begins a new pass through the set
+        this._prevPassOrigin = this._passOrigin; // outgoing pass (may still be audible)
+        this._passOrigin = when;
+        this._pendingPassStart = false;
+      }
+      var scheduled = this._scheduleSegment(idx, buf, when, 0, this._pendingPassFade);
+      this._pendingPassFade = 0.05;
       this.nextTime += buf.duration;
-      this.segIndex = (idx + 1) % this._segmentCount();
+      // wrap: after the pass-final segment, rotate to a NEW random starting
+      // track so consecutive passes never repeat identically (order within
+      // the pass is preserved, so all joins stay intact)
+      var n = this._segmentCount();
+      var nextIdx;
+      if (idx === (this._loopStart + n - 1) % n) {
+        var k = Math.floor(Math.random() * n);
+        if (n > 1 && k === this._loopStart) k = (k + 1 + Math.floor(Math.random() * (n - 1))) % n;
+        this._loopStart = k;
+        this._pendingPassStart = true;
+        this._pendingPassFade = 1.2; // gentle fade-in on the new pass
+        nextIdx = k;
+      } else {
+        nextIdx = (idx + 1) % n;
+      }
+      this.segIndex = nextIdx;
+      if (scheduled) scheduled._fcpNext = nextIdx; // successor may be rotated
       this._prefetch();
     }
     this.ui.updatePosition();
@@ -245,18 +281,25 @@
     });
   };
 
-  Engine.prototype._scheduleSegment = function (idx, buf, when, offset) {
+  Engine.prototype._scheduleSegment = function (idx, buf, when, offset, fadeIn) {
     var self = this;
     var src = this.ctx.createBufferSource();
     src.buffer = buf;
 
-    var isLast = idx === this._segmentCount() - 1;
+    if (fadeIn == null) fadeIn = 0.05;
+    var n = this._segmentCount();
+    var isPassFinal = idx === (this._loopStart + n - 1) % n;
     var dur = buf.duration - offset;
 
     var g = this.ctx.createGain();
-    if (isLast) {
-      // designed loop transition: fade the final segment's tail out; the first
-      // segment's own intro provides the fade back in
+    if (fadeIn > 0.06) {
+      // gentle fade-in (new pass after a wrap, or a track jump)
+      g.gain.setValueAtTime(0.0001, when);
+      g.gain.linearRampToValueAtTime(1, when + fadeIn);
+    }
+    if (isPassFinal) {
+      // designed loop transition: fade the pass-final segment's tail out; the
+      // next pass fades back in over its own fade-in
       g.gain.setValueAtTime(1, when + dur - this.opts.loopFadeOut);
       g.gain.linearRampToValueAtTime(0.0001, when + dur - 0.05);
     }
@@ -267,9 +310,10 @@
     src.onended = function () {
       var at = self.sources.indexOf(src);
       if (at >= 0) self.sources.splice(at, 1);
-      // advance the "current segment" marker if this was the front-most source
+      // advance the "current segment" marker if this was the front-most source;
+      // the successor may be a rotated pass start, not idx+1
       if (self.state === 'playing' && self.sources.length && self._frontIdx === idx) {
-        self._frontIdx = (idx + 1) % self._segmentCount();
+        self._frontIdx = (this._fcpNext != null) ? this._fcpNext : (idx + 1) % self._segmentCount();
         self.timelineStart += buf.duration;
       }
     };
@@ -294,9 +338,13 @@
       if (!buf) { this.loadBuffer(idx).then(function () { if (!self._disposed) self.play(); }); return; }
       // virtual start of the segment in the timeline, so position() stays exact
       this.timelineStart = resumeWhen - this.segOffset;
-      this._scheduleSegment(idx, buf, resumeWhen, this.segOffset);
+      this._passOrigin = resumeWhen - (this._pausedPos || 0);
+      this._prevPassOrigin = null; // the resumed pass is the only live pass
+      var resumed = this._scheduleSegment(idx, buf, resumeWhen, this.segOffset, this._resumeFade);
+      this._resumeFade = 0.05; // consumed; next resume is a normal one
       this.nextTime = resumeWhen + (buf.duration - this.segOffset);
       this.segIndex = (idx + 1) % this._segmentCount();
+      if (resumed) resumed._fcpNext = this.segIndex;
       this.segOffset = 0;
       this._frontIdx = idx;
       this.state = 'playing';
@@ -313,6 +361,10 @@
     this._frontIdx = 0;
     this.segIndex = 0;
     this.segOffset = 0;
+    this._loopStart = 0;
+    this._pausedPos = 0;
+    this._pendingPassStart = true;  // first segment begins the first pass
+    this._pendingPassFade = 0.05;
     this.loadBuffer(0).then(function () {
       if (self._disposed || gen !== self._playGen) return; // superseded or stopped
       self.nextTime = self.ctx.currentTime + 0.06;
@@ -349,6 +401,9 @@
     this.segIndex = idx;
     this.segOffset = 0;
     this._frontIdx = idx;
+    this._loopStart = idx;   // the jumped-to track anchors a new pass
+    this._pausedPos = 0;     // position display restarts for the new pass
+    this._resumeFade = 0.8;  // gentle fade-in on the jump
     this.state = 'paused'; // resume path will schedule this segment from its start
     this.play();
   };
@@ -376,19 +431,17 @@
   Engine.prototype.pause = function () {
     if (this.decodeFailed) { if (this.fallbackAudio) this.fallbackAudio.pause(); this.state = 'paused'; this.ui.update(); return; }
     if (this.state !== 'playing') return;
-    // capture position of the front source
-    var pos = this.position();
+    // capture the front source's segment and offset directly, plus the
+    // position within the current pass (position() handles the scheduled-ahead
+    // next pass correctly)
+    this._pausedPos = this.position();
+    var fi = this._frontIdx;
+    var buf = this.buffers[fi];
     this._stopSources();
     this.state = 'paused';
-    if (this.buffers.length) {
-      var idx = 0, acc = 0, n = this._segmentCount();
-      for (var i = 0; i < n; i++) {
-        var d = this._segmentDuration(i);
-        if (pos < acc + d) { idx = i; break; }
-        acc += d;
-      }
-      this.segIndex = Math.min(idx, n - 1);
-      this.segOffset = Math.max(0, pos - acc);
+    if (buf) {
+      this.segIndex = fi;
+      this.segOffset = Math.min(Math.max(this.ctx.currentTime - this.timelineStart, 0), buf.duration);
     }
     this.ui.update();
   };
@@ -399,6 +452,10 @@
     if (this.fallbackAudio) { try { this.fallbackAudio.pause(); } catch (e) {} }
     this.state = 'idle';
     this.segIndex = 0; this.segOffset = 0;
+    this._pausedPos = 0;
+    this._pendingPassStart = false;
+    this._prevPassOrigin = null;
+    this._resumeFade = 0.05;
     this.timerEnd = null;
     if (this._timerTO) { clearTimeout(this._timerTO); this._timerTO = null; }
     if (this.timerGain && this.ctx) { this.timerGain.gain.cancelScheduledValues(this.ctx.currentTime); this.timerGain.gain.setTargetAtTime(1, this.ctx.currentTime, 0.05); }
