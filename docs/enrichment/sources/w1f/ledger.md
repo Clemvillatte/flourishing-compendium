@@ -40,3 +40,18 @@
   B070 backlink label migrated (released band; supervisor edit per verification rules).
   Validator at the transition commit: front-matter-changed / lost-wikilink exceptions are
   intended rename deltas; validated clean at the new HEAD.
+
+## Original nature, nothing to add (2026-10-20, fast-track; degree 10 — eligible)
+
+- VERIFICATION: concept is REAL (self-nature/benxing in the Platform Sutra; the title's
+  "nothing to add" is carried by the sutra's "use this mind [that you already have]").
+  No rename needed.
+- OPENED: e-Buddhism, The Platform Sutra of the Sixth Patriarch
+  https://e-buddhism.com/platform-sutra/ — McRae (BDK, Zongbao) passage "Good friends, bodhi
+  is fundamentally pure in its self-nature..." quoted VERBATIM (punctuation matched to the
+  opened page, including the verse lines "Fundamentally there is not a single thing—" and
+  "Buddha nature is always clean and pure;").
+- NOT USABLE: Yampolsky PDF at terebess.hu — body is image-based; pdftotext yields front
+  matter only. Verse comparison taken from the opened e-Buddhism page instead.
+- SYNTHESIS FLAG: "nothing needs to be added to the mind, because nothing is missing from
+  it" is the compendium's gloss, not a source claim.
