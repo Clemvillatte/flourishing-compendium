@@ -29,9 +29,10 @@
   "P085",
   "P096",
   "P097",
-  "P102"
+  "P102",
+  "D190"
  ],
- "in_progress": "D190",
+ "in_progress": null,
  "flagged": {
   "D190": "RESOLVED 2026-10-20: removed mode-of-access inference; shortened prose; exact Legge quotation independently fetched; awaiting closure QC",
   "P009": "Reopened for QC: QC correction: advisor round 1 — extension labels, plain words, example, parallel gloss",
@@ -39,6 +40,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 8,
- "updated": "2026-10-20T03:39:33+00:00",
+ "updated": "2026-10-20T03:39:36+00:00",
  "band_done": false
 }
