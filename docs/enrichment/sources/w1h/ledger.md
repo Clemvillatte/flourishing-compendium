@@ -30,3 +30,17 @@
 - Whitehead named in seed only; no Whitehead source opened, no Whitehead claims made.
 - Related concepts grounded in their own pages (Deep ecology, Interbeing, The relational
   self, Ubuntu). R116 link restored after validator caught it.
+
+## Emotional suppression theory Butler Gross (fast-track)
+- Opened: PubMed 12899316 (Butler et al. 2003, Emotion 3, 48-67) — abstract quoted
+  verbatim (partners' blood pressure, regulators' experience, rapport, relationship
+  formation).
+- Opened: PubMed 8326473 (Gross & Levenson 1993, JPSP 64, 970-986) — definition of
+  suppression; mixed physiological profile (decreased heart rate and somatic activity,
+  increased blinking and sympathetic activation); no impact on subjective experience.
+- Seed's "raises arousal" shorthand narrowed in body: the 1993 profile is mixed; the
+  reliable social finding is Butler 2003 blood pressure in both parties.
+- Culture caveat clauses tied to the linked principles' own content (Western samples).
+- Unresolved invented links removed after validator catch ("Expressive suppression
+  research", "The process model of emotion regulation" replaced by existing
+  "Process model of emotion regulation Gross").
