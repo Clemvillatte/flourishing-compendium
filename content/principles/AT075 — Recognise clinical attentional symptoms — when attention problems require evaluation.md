@@ -29,8 +29,7 @@ If trouble concentrating keeps disrupting daily tasks, bring concrete examples t
 - [Faraone et al. (2021), The World Federation of ADHD International Consensus Statement: 208 evidence-based conclusions about the disorder, Neuroscience & Biobehavioral Reviews 128:789-818](https://pmc.ncbi.nlm.nih.gov/articles/PMC8328933/)
 ## Psychology parallels
 
-- **Attentional symptoms as clinical indicators**, concentration problems are symptoms of depression, anxiety, ADHD, sleep disorders, thyroid conditions, and other medical conditions (APA, 2022)
-- **Evidence-based treatments for attentional disorders**, ADHD medication, CBT for anxiety/depression, sleep treatment all improve attention (Faraone et al., 2021; Hofmann et al., 2010)
+- **ADHD as one clinical consideration**, this page points persistent attention difficulties that interfere with daily life toward discussion with a health professional; the differential diagnosis of concentration problems is a clinical matter outside this page's opened sources (NIMH; Faraone et al., 2021)
 
 ## Philosophy parallels
 

@@ -49,11 +49,11 @@
   "AT051",
   "AT063",
   "AT067",
-  "AT075",
   "BE072",
   "BI004",
   "BI010",
-  "CO002"
+  "CO002",
+  "AT075"
  ],
  "in_progress": null,
  "flagged": {
@@ -93,7 +93,7 @@
   "AT051": "Reopened for QC: advisor milestone QC FAIL: allocation description, bias-training overreach, unsupported generalization, two-week exercise not verified",
   "AT063": "Reopened for QC: advisor milestone QC FAIL: audit narration, overstated group distinction, self-test framing, unopened replication evidence",
   "AT067": "Reopened for QC: advisor milestone QC FAIL: moderation-to-pattern bridge, audit narration, blanket law framing",
-  "AT075": "Reopened for QC: advisor QC FAIL: ADHD-specific descriptions used as general threshold; staging; Faraone copy-paraphrase",
+  "AT075": "Reopened for QC: QC consistency pass: unopened APA differential bullet",
   "BE072": "Reopened for QC: advisor QC FAIL: intention-gap diagnostic rule, exhaustive-science framing, rhetorical scaffolding",
   "BI004": "Reopened for QC: advisor QC FAIL: quote-order error, HPA/cortisol/adrenaline pathway verification required",
   "BI010": "Reopened for QC: advisor QC FAIL: posture/temperature/touch attributions, 4-6 breaths prescription, rhetorical scaffolding",
@@ -101,6 +101,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 15,
- "updated": "2026-10-20T03:54:21+00:00",
+ "updated": "2026-10-20T03:54:58+00:00",
  "band_done": false
 }
