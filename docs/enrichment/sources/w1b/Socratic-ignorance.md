@@ -79,3 +79,7 @@
   replaced with a genuine paraphrase: "Socrates interprets the oracle as showing the
   limits of human wisdom: his advantage lies in recognising those limits." The
   verbatim Jowett sentences remain in the preserved extraction record.
+
+## Advisor QC round 5 (2026-10-20): opening-sentence citation
+
+- MIT Classics link added to the opening definition sentence.

@@ -7,7 +7,7 @@ file: "Socratic ignorance"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-S"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-Socratic ignorance is the profession Socrates makes at his trial: he does not know the things that matter most, and unlike others he does not think he does. The claim comes with a story. His friend Chaerephon asked the Delphic oracle whether anyone was wiser than Socrates, and the Pythian prophetess answered that there was no man wiser ([Apology, Jowett translation](https://classics.mit.edu/Plato/apology.html)). Socrates then set out to test the god by questioning those with a reputation for wisdom, and the testing became his life's work ([Apology, Jowett translation](https://classics.mit.edu/Plato/apology.html)).
+Socratic ignorance is the profession Socrates makes at his trial: he does not know the things that matter most, and unlike others he does not think he does ([Apology, Jowett translation](https://classics.mit.edu/Plato/apology.html)). The claim comes with a story. His friend Chaerephon asked the Delphic oracle whether anyone was wiser than Socrates, and the Pythian prophetess answered that there was no man wiser ([Apology, Jowett translation](https://classics.mit.edu/Plato/apology.html)). Socrates then set out to test the god by questioning those with a reputation for wisdom, and the testing became his life's work ([Apology, Jowett translation](https://classics.mit.edu/Plato/apology.html)).
 
 His conclusion from the first examination, in Jowett's translation:
 
