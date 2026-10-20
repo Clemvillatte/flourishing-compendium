@@ -17,3 +17,10 @@ Worker `worker-w1k-1cff8991`, 2026-10-20. Took stale band at 20/70 after complet
 - Opened full [Tsadra Cultivating Patience](https://bodhicitta.tsadra.org/index.php/Explore/Cultivating_Patience): named kṣānti, Jinpa's three aspects and actual Padmakara verses. Buddhist perfection distinguished from modern operational trait.
 - Inherited Kierkegaard and Schnitker/Emmons 2007 bibliography lines retained, not silently treated as read. Original unsupported predictive seed replaced; original cited-in links preserved.
 - Fast-track saturation skipped as permitted; no new reciprocal proposal.
+
+## Prohairesis (deliberate choice)
+
+- Fast-track degree 7, checked through neighbours. Read all six linked principle contexts, especially A054; philosophical origin and modern planning comparisons kept separate.
+- Opened full [Ross NE III](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html), sections 2–3; exact short blockquote is an explicitly labelled excerpt. The health example and stopping point of deliberation are in the actual text.
+- Opened [Kahn, Discovering Will, pp. 239–240](https://pub-ucpec2-prd.cdlib.org/ucpressebooks/view?docId=ft029002rv&doc.view=content&chunk.id=d0e12594&toc.depth=1&anchor.id=0&brand=eschol), to verify the Greek term rather than pretend Ross's English text printed it. No broad historical invention of “will” claim.
+- Original frontmatter, source citation and all original wikilink markup preserved. Existing Boulesis gloss retained with actual source URL. Fast-track saturation skipped; no new reciprocal proposed.
