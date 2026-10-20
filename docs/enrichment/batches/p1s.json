@@ -27,9 +27,9 @@
   "B172",
   "B181",
   "B190",
-  "P168",
   "P175",
-  "P176"
+  "P176",
+  "P168"
  ],
  "in_progress": null,
  "flagged": {
@@ -53,10 +53,11 @@
   "B172": "Reopened for QC: QC round-2 text fix: contrast opener removed",
   "B181": "Reopened for QC: QC round-2 text fix: unverified day-without-plans detail removed",
   "B190": "Reopened for QC: QC round-2 text fix: plain words replaced with advisor version",
-  "P175": "Reopened for QC: QC correction: page locator 85 to 87 after direct PDF verification"
+  "P175": "Reopened for QC: QC correction: page locator 85 to 87 after direct PDF verification",
+  "P168": "Reopened for QC: QC correction: remove unsupported inherited opener and unopened-source attribution"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T03:37:03+00:00",
+ "updated": "2026-10-20T03:37:09+00:00",
  "band_done": false
 }

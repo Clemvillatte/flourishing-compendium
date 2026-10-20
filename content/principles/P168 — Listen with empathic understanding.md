@@ -12,11 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 168** — Listen with empathic understanding
 
-To understand another, enter their private world and look out through their eyes: and check what you see. Empathy is a skill of inquiry, not a mood.
-
-(Rogers, On Becoming a Person, 1961; Addams's sympathetic understanding.)
-
-Carl Rogers spent a 1975 article on what he called an unappreciated way of being. He describes the empathic way of being as having several facets, and the first is a move into the other person's world ([Rogers, "Empathic: An Unappreciated Way of Being," 1975](https://clinica.ispa.pt/sites/default/files/83._carl_rogers_empathic.pdf)):
+In a 1975 article, Carl Rogers describes what he calls an unappreciated way of being with another person. The empathic way of being has several facets, and the first is a move into the other person's world ([Rogers, "Empathic: An Unappreciated Way of Being," 1975](https://clinica.ispa.pt/sites/default/files/83._carl_rogers_empathic.pdf)):
 
 > It means entering the private perceptual world of the other and becoming thoroughly at home in it. It involves being sensitive, moment to moment, to the changing felt meanings which flow in this other person, to the fear or rage or tenderness or confusion or whatever, that he/she is experiencing. It means temporarily living in his/her life, moving about in it delicately without making judgments ...
 
@@ -26,7 +22,7 @@ Two further facets turn this into a skill a listener can practise. Rogers writes
 
 **Plain words** Listening with empathic understanding is something you do together with the other person: describe their situation as they experience it, then ask whether you have it right and let their answer correct you.
 
-*For example:* A friend says the family holiday got cancelled again. You say: "So the one weekend everyone counts on fell through." Then you ask whether that is how it feels. The question is where the skill shows up.
+*For example:* A friend says the family holiday got cancelled again. You say: "So the one weekend everyone counts on fell through." Then you ask whether that is how it feels.
 
 ## Psychology parallels
 
