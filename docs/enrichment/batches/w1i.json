@@ -16,7 +16,7 @@
   "Social support theory Cohen Wills",
   "Stimulus control theory"
  ],
- "in_progress": null,
+ "in_progress": "Stress cycle completion (Nagorski, Sapolsky)",
  "flagged": {
   "Non-dual awareness": "RESOLVED milestone-five QC: exact definition blockquote added, NDA expanded; source and preservation checks pass",
   "Focused-attention meditation": "RESOLVED milestone-five QC: sentence-case subheading added; source and preservation pass",
@@ -26,6 +26,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 19,
- "updated": "2026-10-20T06:43:18+00:00",
+ "updated": "2026-10-20T06:43:21+00:00",
  "band_done": false
 }
