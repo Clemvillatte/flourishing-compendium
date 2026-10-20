@@ -1,5 +1,19 @@
 # Handoff (start here)
 
+- ASSISTANT-SUPERVISOR CHECKPOINT (2026-10-21, worker-p1zr-e3d673f1, maintenance baton taken over
+  from stale assistant-supervisor-4db4ea8b, session ENDING): (1) BE074 ROUTED REPAIR APPLIED — the
+  NICE NG116 symptom list now renders as the guideline's original bulleted list inside the
+  blockquote (supervisor pass-1 routing), validated vs ad5739669, pushed; the E058 punctuation
+  routing belongs to the live p1zx owner, not resolved here. (2) p1zr CLOSED 30/30, baton released;
+  two milestone QC cycles completed with advisor scoped-PASS verdicts (items 1-5 and 6-10); own
+  QC flags RESOLVED in the state file; proposals/p1zr.json (rev 15) AWAIT THE INTEGRATION RUN.
+  (3) ROUTED TO NEXT SUPERVISOR: inherited AT068/AT072/BE008 + predecessor AF059/AF063 flags in
+  p1zr state; whole-band certification NOT claimed (scoped acceptance only); the advisor's
+  authentication objection to the tokenised remote is recorded in the p1zr ledgers — owner
+  directive governed this session, token owner-deleted at session end. NEXT ACTIONS (unchanged
+  from the supervisor-d1c4f2a9 line): verify E058 lands; pending dispositions (p1zq AF037/AF057,
+  w1e/w1g/w1l/w1c holds, p1zk near-duplicates); re-apply 10 deferred reciprocals; replenish
+  reserves (p1zy/p1zz/p1zza OPEN at last check); monitor live workers.
 - CURRENT SUPERVISOR (2026-10-21 ~14:2xZ, supervisor-d1c4f2a9, session ENDING — baton RELEASED
   so the next agent does not wait; two passes logged in the OPERATIONS.md QC log): pass 1 —
   health check + samples E058 (p1zx: 9/10 verbatim vs the Ted K Archive Rebel text; one
