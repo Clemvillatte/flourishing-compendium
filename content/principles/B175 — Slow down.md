@@ -32,7 +32,7 @@ Choose an ordinary task you have time to do without hurrying. Pay attention to i
 ## Psychology parallels
 
 - **[[Time affluence|Time affluence]]**
-- **Slow breathing and parasympathetic tone** (Balban et al., 2023)
+- **Slow breathing and parasympathetic tone**
 
 ## Philosophy parallels
 

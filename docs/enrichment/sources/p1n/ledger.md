@@ -292,7 +292,8 @@ D160 D181 D192 all done, validated, pushed. Advisor QC at items 1, 5, 10, 15
 
 ### B198 — Freedom is now: nothing to wait for (2026-10-20)
 - Opened: Dhammapada 239-240 (Buddharakkhita, Access to Insight Malavagga)
-  and the Platform Sutra Prajna chapter (Terebess, BTTS translation).
+  and the Platform Sutra Prajna chapter (Terebess web edition; the page
+  does not identify a translator, so no translation attribution is made).
   Blockquote and inline fragments verbatim. Seed's Batchelor citation
   dropped from locator (not opened).
 - Batch QC: "Both texts refuse the schedule" overstatement removed; plain
@@ -317,9 +318,10 @@ D160 D181 D192 all done, validated, pushed. Advisor QC at items 1, 5, 10, 15
   ok vs 71fd7049.
 
 ### P018 — Practice practical wisdom: judgment over rules (2026-10-20)
-- Opened: Aristotle, NE Book VI (Ross translation, Internet Classics
-  Archive). Grossmann et al. 2013 verified via PubMed abstract; parallel
-  tail scoped to the abstract's own wording.
+- Opened: Aristotle, NE Book VI (Internet Classics Archive). Grossmann
+  et al. 2013 fetched (PubMed record, abstract read); parallel tail scoped
+  to the abstract's own wording. MIT page does not credit a translator;
+  'Ross translation' attribution removed from the page and Sources line.
 - Batch QC: invented mechanism "A rule cannot see the situation it lands
   in" removed; sepsis/nurse example replaced with a hypothetical protocol
   exception (no invented clinical outcome). Validator: ok vs 71fd7049.
@@ -353,3 +355,20 @@ D160 D181 D192 all done, validated, pushed. Advisor QC at items 1, 5, 10, 15
   removed), P018 (invented mechanism and clinical outcome removed), P022
   (scope and outcome fixed). All repairs applied; revised text sent for
   re-review.
+
+### Batch QC round 2 (advisor, 2026-10-20): PENDING re-review
+- Round 2 verdicts: B164 PASS, P024 PASS. B186, B196, B198, P004, P013,
+  P018, P022 FAIL -> exact replacement text applied verbatim (obligation
+  claims removed; B196 interpretation now labeled as compendium's reading
+  with Trieu-attributed rendering; B198 "nothing to wait for" softened,
+  locator narrowed to Dhammapada 239; P013 quotation collage removed; P018
+  blockquote reduced to the single complete definition; P022 mechanism vs
+  evidence distinction drawn, locator precise).
+- Evidence blockers resolved: Grossmann et al. 2013 PubMed record FETCHED
+  (previously search-only; ledger corrected). Terebess translator
+  attribution removed (page does not name one). Ross attribution removed
+  from P018 (MIT page does not credit a translator). Unverified parallel
+  tails reduced to bare wikilinks: B175 Balban 2023, P004
+  Killingsworth-Gilbert 2010, P013 Hayes Strosahl Wilson 2011, P022
+  Bennett-Levy 2004 (all recorded here as inherited, unopened).
+- Review recorded as PENDING; revised pages pushed for round-3 review.

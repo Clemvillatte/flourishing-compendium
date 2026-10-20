@@ -18,14 +18,14 @@ James built the method for disputes that never end: "The pragmatic method is pri
 >
 > (William James, Pragmatism, Lecture II)
 
-His rule of consequence runs both ways: "There can be no difference anywhere that doesn't make a difference elsewhere - no difference in abstract truth that doesn't express itself in a difference in concrete fact and in conduct consequent upon that fact, imposed on somebody, somehow, somewhere and somewhen." The test is not a dismissal of truth; it is truth's inquiry procedure: "To attain perfect clearness in our thoughts of an object, then, we need only consider what conceivable effects of a practical kind the object may involve - what sensations we are to expect from it, and what reactions we must prepare."
+His rule of consequence runs both ways: "There can be no difference anywhere that doesn't make a difference elsewhere - no difference in abstract truth that doesn't express itself in a difference in concrete fact and in conduct consequent upon that fact, imposed on somebody, somehow, somewhere and somewhen."
 
 (James, Pragmatism, 1907.)
 
 **Plain words**
-For any thought, rule, or story you are carrying, trace what holding it changes in practice: what it makes easier, what it forecloses. That trace, over time, is the workability test. It is not a dismissal of truth; it is the procedure for finding out what the belief amounts to.
+The compendium uses James's question to examine what a belief would imply in practice. State what you would expect if the belief were true, and what would differ if an alternative were true. Keep those expectations separate from which wording feels more encouraging.
 
-*For example:* The runner who believes 'my legs are heavy today' — factually questionable, functionally fatal. 'My legs are warming up' — same legs, a more workable story.
+*For example:* Imagine two colleagues disagreeing about a rule intended to save meeting time. Ask what each expects to observe in meeting length, preparation or missed work.
 
 ## Sources
 
@@ -33,7 +33,7 @@ For any thought, rule, or story you are carrying, trace what holding it changes 
 
 ## Psychology parallels
 
-- **[[Functional contextualism|Functional contextualism and ACT]]**, workability as the criterion of cognition (Hayes, Strosahl and Wilson, 2011)
+- **[[Functional contextualism|Functional contextualism and ACT]]**
 
 ## Philosophy parallels
 

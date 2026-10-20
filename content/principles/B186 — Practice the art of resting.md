@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 186** — Practice the art of resting
 
-Thich Nhat Hanh makes resting a practice with its own knowing: "Knowing when to rest is a deep practice." The tired practitioner is not excused from practice; the tired practitioner is told to change what practice is: "when we recognize that we are tired, we should find every means possible to rest."
+In Happiness, Thich Nhat Hanh recommends resting when tired and includes mindful breathing while sitting or lying down among the ways to rest.
 
 > Practicing with a tired body and mind doesn't help; it can cause more problems. ... Mindful breathing, whether in the sitting or in the lying position, is the practice of resting. Let us learn the art of resting and allow our body and our mind to restore themselves. Not thinking and not doing anything is part of the art of resting and healing.
 >
@@ -23,9 +23,9 @@ His image for the posture of rest is the sick forest animal: "When a forest anim
 (Thich Nhat Hanh, Happiness.)
 
 **Plain words**
-The instruction is direct: when you recognize you are tired, find a way to rest rather than push through. Let the lying down be what you are doing rather than what you are recovering from.
+For the compendium's exercise, notice whether you are tired and what you can pause. If you choose to lie down, allow that period to be for resting.
 
-*For example:* The Sunday afternoon doing absolutely nothing, on purpose, without apology.
+*For example:* Imagine feeling tired after a busy morning. Set aside part of the afternoon to rest.
 
 ## Sources
 

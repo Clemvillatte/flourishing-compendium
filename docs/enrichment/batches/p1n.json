@@ -21,14 +21,14 @@
   "D192",
   "B175",
   "B164",
+  "P024",
   "B186",
   "B196",
   "B198",
   "P004",
   "P013",
   "P018",
-  "P022",
-  "P024"
+  "P022"
  ],
  "in_progress": null,
  "flagged": {
@@ -38,10 +38,17 @@
   "D108": "Reopened for QC: advisor QC item-10 round: unsupported mechanisms/outcome claims repaired per exact edits; re-validated vs 71fd7049; accepted round 3",
   "D051": "Reopened for QC: advisor QC item-10 round: unsupported mechanisms/outcome claims repaired per exact edits; re-validated vs 71fd7049; accepted round 3",
   "D140": "Reopened for QC: advisor QC item-15 round: retold-story plain words, aphorism, quote marks, unverified Assor tail repaired per exact edits; Assor/Roth/Deci 2004 abstract now fetched and scoped",
-  "B164": "Reopened for QC: advisor QC item-20 follow-up: invented mechanisms removed (watching-vs-attacking; same-voice-same-way); re-validated vs 71fd7049"
+  "B164": "Reopened for QC: advisor QC item-20 follow-up: invented mechanisms removed (watching-vs-attacking; same-voice-same-way); re-validated vs 71fd7049",
+  "B186": "Reopened for QC: advisor round 2 repairs applied",
+  "B196": "Reopened for QC: advisor round 2 repairs applied",
+  "B198": "Reopened for QC: advisor round 2 repairs applied",
+  "P004": "Reopened for QC: advisor round 2 repairs applied",
+  "P013": "Reopened for QC: advisor round 2 repairs applied",
+  "P018": "Reopened for QC: advisor round 2 repairs applied",
+  "P022": "Reopened for QC: advisor round 2 repairs applied"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T01:44:46+00:00",
+ "updated": "2026-10-20T01:49:57+00:00",
  "band_done": false
 }
