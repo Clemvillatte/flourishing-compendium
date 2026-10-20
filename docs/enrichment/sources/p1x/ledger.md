@@ -216,3 +216,7 @@ Core prose (body per QC round-1 replacement text, VI.9 blockquote + IV.21 inline
 ## SE081
 - Nietzsche, The Gay Science s.290, Thomas Common trans. (1910), Project Gutenberg #52881: 9 quotations grep-verified (italics stripped).
 - Limits: not Kaufmann's translation (copyrighted). McAdams / Campbell parallels untouched, not opened. Example hypothetical.
+
+## SO013
+- Uchida et al. (2004) abstract (Springer page, search result text opened) and Markus & Kitayama (2010) PPS 5(4):420-430 (Stanford-hosted PDF, opened; abstract quoted): quotations matched against opened text.
+- Limits: Uchida 2004 full text not accessible; statement says 'high-arousal positive affect' but the abstract only says 'positive affect', so body omits 'high-arousal'. Diener & Suh, Kitayama & Markus 2000, Veenhoven, Andonian, Graham, Vergara not opened. Example hypothetical.

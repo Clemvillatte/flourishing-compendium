@@ -12,11 +12,21 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SO — Sociocul
 ---
 > **Principle 13** — Treat cultural meaning as constructed, not given
 
-Treat cultural meaning — what counts as a good life, a good death, a good family, a good career — as socially constructed, not given. The meaning of "happiness" itself varies across cultures: in North American contexts, happiness is defined in terms of personal achievement and high-arousal positive affect; in East Asian contexts, in terms of interpersonal connectedness and a balance between positive and negative affect (Uchida et al., 2004). The adaptive stance is to see your own cultural meanings as one construction among many.
+Uchida, Norasakkunkit and Kitayama reviewed cross-cultural work on happiness and found "substantial cultural variations in (1) cultural meanings of happiness, (2) motivations underlying happiness, and (3) predictors of happiness". In North American contexts, "happiness tends to be defined in terms of personal achievement", people are "motivated to maximize the experience of positive affect", and happiness "is best predicted by self-esteem". In East Asian contexts it "tends to be defined in terms of interpersonal connectedness", people "are motivated to maintain a balance between positive and negative affects", and it "is best predicted by perceived embeddedness of the self in a social relationship" (Uchida et al., 2004, Journal of Happiness Studies 5, 223-239, abstract).
 
-**Plain words** What counts as a good life, death, family, or career is constructed — built by people, inherited by you. "Happiness" itself means different things in different cultures. The constructions are real in their effects and negotiable in their hold.
+Markus and Kitayama explain why such differences arise. Cultures and selves "define and build upon each other in an ongoing cycle of mutual constitution", so a person's sense of a good life is shaped by the ideas, practices and institutions around them, and in turn helps to keep those in place (Markus & Kitayama, 2010, Perspectives on Psychological Science 5(4), 420-430, abstract). The abstracts I read describe averages across contexts, not every individual, and they do not say the meanings are arbitrary.
 
-*For example:* The definition of success absorbed at fifteen from a culture that measures it in square metres — at forty, you get to notice it was a definition, not a fact. Definitions can be rewritten.
+**Plain words**
+Your picture of a good life, a good family or a good career was shaped by the people around you. That does not make it false, but it does mean it can be questioned. Ask which of your standards you chose and which you absorbed.
+
+**For example**
+At forty, someone who absorbed at fifteen that success means a bigger house asks whether that standard still serves them, and rewrites it.
+
+## Sources
+
+- [Yukiko Uchida, Vinai Norasakkunkit and Shinobu Kitayama, "Cultural constructions of happiness: theory and empirical evidence," Journal of Happiness Studies 5, 2004, 223-239 (abstract, Springer)](http://link.springer.com/10.1007/s10902-004-8785-9): abstract opened; full text not accessible
+- [Hazel Rose Markus and Shinobu Kitayama, "Cultures and Selves: A Cycle of Mutual Constitution," Perspectives on Psychological Science 5(4), 2010, 420-430](https://web.stanford.edu/~hazelm/cgi-bin/wordpress/wp-content/uploads/2011/02/2010-Markus-Kitayama_Culture-and-Self-A-cycle-of-mutual-constitution.pdf): opened; abstract and introduction
+
 ## Psychology parallels
 
 - [[Uchida et al|Uchida et al.]] (2004) on cultural constructions of happiness; Diener and Suh (2000) on culture and subjective well-being; Kitayama and Markus (2000) on culture and self; the cross-cultural well-being literature (Veenhoven, 2010; Andonian, 2017; Graham, 2017; Vergara, 2023).
