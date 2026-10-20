@@ -35,6 +35,10 @@ Consider the introvert who takes the lunch walk alone and joins the evening dinn
 - [Democracy and Education (Dewey, 1916), Project Gutenberg](https://www.gutenberg.org/ebooks/852) — Chs. 4 and 20
 - [The Varieties of Religious Experience (James, 1902), Project Gutenberg](https://www.gutenberg.org/cache/epub/621/pg621.txt) — Lecture II
 
+## Stories
+
+- [[ST346 — The Boy from Grass Valley|346. The Boy from Grass Valley]]
+
 ## Psychology parallels
 
 - **[[Beneficial solitude research|Beneficial solitude research]]**

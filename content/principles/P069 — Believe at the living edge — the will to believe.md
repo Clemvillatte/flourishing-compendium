@@ -23,6 +23,10 @@ The rule applies only where evidence has genuinely run out; where evidence can d
 
 *For example:* Nobody could prove the startup would work, and founders who believed it did the thousand unprovable tasks that made it true. The belief was a tool, not a conclusion.
 
+## Stories
+
+- [[ST347 — The First Act of Free Will|347. The First Act of Free Will]]
+
 ## Psychology parallels
 
 - **[[Self-efficacy|Self-efficacy]]**, belief in capability predicts initiation and persistence (Bandura, 1977)

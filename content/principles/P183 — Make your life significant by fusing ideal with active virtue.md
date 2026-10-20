@@ -23,6 +23,11 @@ He closes the essay with the same marriage: "The solid meaning of life is always
 
 *For example:* Take an aspiration, say a neighborhood composting scheme, and join it to the unglamorous commitments it asks for, say two years of labor. The marriage, not the aspiration alone, is what the formula marks as significant.
 
+## Stories
+- [[ST346 — The Boy from Grass Valley|346. The Boy from Grass Valley]]
+
+- [[ST345 — The Army Enlisted Against Nature|345. The Army Enlisted Against Nature]]
+
 ## Psychology parallels
 
 - **Purpose in life and well-being**, having a direction predicts flourishing (conceptual parallel; Ryff, 1989; Steger et al., 2006)

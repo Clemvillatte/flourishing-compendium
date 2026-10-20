@@ -27,6 +27,10 @@ James describes worry as a mind stuck in a narrow loop, reiterating one item and
 
 - [Talks to Teachers on Psychology, William James, Project Gutenberg](https://www.gutenberg.org/files/16287/16287-h/16287-h.htm) — "The Gospel of Relaxation"
 
+## Stories
+
+- [[ST347 — The First Act of Free Will|347. The First Act of Free Will]]
+
 ## Psychology parallels
 
 - **[[Awe]]**, vast experiences can reduce rumination (conceptual parallel; Piff et al., 2015; Stellar et al., 2018)

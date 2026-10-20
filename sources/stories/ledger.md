@@ -276,3 +276,55 @@ previously pushed only by ad-hoc git add) — KEPT, verified on origin/main.
   no content/quotation errors, no structure-file changes.
 - BATCH CLOSED AS SCOPED ACCEPTANCE per advisor round 6 ("close this batch
   as scoped acceptance and proceed to Pragmatism").
+
+## Pragmatism batch 1 — ST345–ST347 (claim-to-passage evidence)
+
+- **ST345 — The Army Enlisted Against Nature** (P188, P183; ch. ST-S03.10)
+  - James 1906 Stanford address + 1910 publication: Democracy Journal (opened
+    in full) — "his 1910 essay 'The Moral Equivalent of War'", "his address
+    at Stanford University in 1906". Essay full text: Wikisource (opened in
+    full) — all quoted lines verified against that text ("History is a bath
+    of blood", the martial-virtues sentence, "If now—and this is my idea—",
+    "It is only a question of blowing on the spark...").
+  - CCC chronology and totals: Democracy Journal (opened) — half a million
+    young men out of school and out of work; first days of office; the
+    secretaries of Labor, Agriculture, Interior and the Army; up to 275,000
+    young men aged 18 to 25; bill signed March 31 [1933]; Army built the
+    camps; by 1942 three million men, three billion trees, 125,000 miles of
+    trails, 800 state parks.
+  - Compendium stance preserved: James's own word was "conscription"; the
+    principle body reads the equivalent as voluntary service — the story
+    states this plainly rather than smoothing it over.
+- **ST346 — The Boy from Grass Valley** (P183, P134; ch. ST-S03.08)
+  - Royce life facts: SEP entry (opened) — Grass Valley birth, mother
+    headed a primary school, sisters directed early education, age 11 to
+    San Francisco, the 1882 half-of-James's-salary gamble ("accepted the
+    offer of half of James's salary, resigned his California appointment
+    altogether, and moved his wife and newborn son across the continent
+    in the summer of 1882"), "centrality of action intended to realize a
+    sound ideal that one has freely embraced".
+  - Grass Valley color and loyalty quotes: UCLA Newsroom (opened) —
+    Forty-Niners who never found gold; "the sad state wherein I had the
+    odd fortune to be born … a philosophically barren area"; poor, stocky
+    and lonely; first major American philosopher born west of the
+    Mississippi; "Loyalty... gives life meaning and cures hesitancy";
+    "tightly binding oneself to others to benefit a noble cause".
+  - Position made permanent 1884, taught until death 1916: SEP (opened).
+- **ST347 — The First Act of Free Will** (P185, P069, P038; ch. ST-S03.04)
+  - Depression facts + both diary entries: Harvard Crimson 1963 (opened) —
+    nearly six years, moral impotence, Feb 1 1870 "touched bottom" entry,
+    Apr 30 1870 entry, "the cure was by no means instantaneous", teaching
+    at Harvard as stabilizing vocation, marriage to Alice Howe Gibbens.
+  - The asylum vision + acting program + mountain climber: The Atlantic
+    1996 (opened) — "greenish" skin, "That shape am I", "the universe
+    changed entirely", "For the remainder of the year, I will abstain from
+    the mere speculation & contemplative [meditation]... as well as by
+    acting", "believe what is in the line of your needs".
+  - Apr 30 entry clean carrier: Wikipedia William James (opened) — used
+    for the quoted diary text (Crimson/Atlantic renderings contain
+    typographic errors).
+- Registration: register_story.py × 3 (order, structure contents, principle
+  links). MEANINGFUL CHECK (working tree vs HEAD): story files 0 errors
+  ("no ## Related concepts" warnings only, standard for stories); principle
+  files 0 errors; structure file shows only the two documented false
+  positives ("prose too short: 0", "## Sources has no http(s) URL").

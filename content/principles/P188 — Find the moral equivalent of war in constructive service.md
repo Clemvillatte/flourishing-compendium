@@ -31,6 +31,10 @@ James wants civilian work to carry some of the discipline he associates with mil
 
 - [Memories and Studies, William James, Project Gutenberg](https://www.gutenberg.org/cache/epub/20768/pg20768.txt) — essay XI, "The Moral Equivalent of War"
 
+## Stories
+
+- [[ST345 — The Army Enlisted Against Nature|345. The Army Enlisted Against Nature]]
+
 ## Psychology parallels
 
 - **Volunteering and well-being**, prosocial action is associated with well-being (conceptual parallel; Piliavin and Siegl, 2007)
