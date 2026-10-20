@@ -12,11 +12,22 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 ---
 > **Principle 80** — Recognise neurodivergent cognition: different, not disordered
 
-Autistic, ADHD, dyslexic, and other neurodivergent cognitive patterns differ from neurotypical patterns in attention, processing, memory, and learning. These are variations, not deficits. Treating them as disordered creates unnecessary suffering.
+> The neurodiversity approaches are an alternative to the medical model.
 
-**Plain words** Autistic, ADHD, dyslexic, and other neurodivergent cognitive patterns differ in attention, processing, memory, and learning — variations, not deficits. Treating them as disorders does harm. Recognise the pattern; work with the architecture.
+([Dwyer, 2022, Human Development 66(2), 73-92](https://pmc.ncbi.nlm.nih.gov/articles/PMC9261839/).)
 
-*For example:* The dyslexic analyst whose "poor writing" hides extraordinary spatial reasoning — and the team that stops grading the fish on tree-climbing and starts routing the spatial problems to them. Same person; before the re-routing was a liability, after it, an asset.
+Dwyer separates three meanings of the word. In its factual sense, "neurodiversity" is "the reality that diverse minds and brains exist, just as 'biodiversity' refers to the factual reality of biological diversity." The "neurodiversity paradigm", a term he attributes to Walker (2014), is a perspective on that fact. The approaches are "action-oriented and prescriptive", and they "offer themselves to today's developmental researchers as an alternative model of atypical development."
+
+The strong form of this entry, "variations, not deficits", is not what Dwyer endorses. He acknowledges "the contributions of both individual and society to disability" and proposes that "the optimal neurodiversity approach should take a middle ground between the social and medical models." The practical guidance he gives researchers is to study "both individual neurodivergent people and the contexts around them", to "consider both strengths and weaknesses," and to "listen to and learn from neurodivergent people."
+
+**Plain words** Autistic, ADHD, dyslexic and other minds work differently, and the difference is part of ordinary human variation. That does not mean there are no difficulties. A person can face real challenges, and some of the difficulty comes from an environment built for one kind of mind. Look at the person and the setting together, and ask the person.
+
+*For example:* A team member struggles with open-plan noise and writes poorly under time pressure but reasons well about spatial problems. Rather than judge them on the first two, the team asks what setting and task format suit them, and routes the spatial work their way.
+
+## Sources
+
+- [Dwyer, P. (2022). The neurodiversity approach(es): What are they and what do they mean for researchers? Human Development 66(2), 73-92, open-access full text (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9261839/) — definitions, the middle-ground position and the research recommendations
+
 ## Psychology parallels
 
 - **[[Neurodiversity paradigm|Neurodiversity paradigm]]**, cognitive variation is normal and valuable (Singer, 1998; Kapp et al., 2013)
