@@ -220,6 +220,15 @@ Also flagged (story namespace, not edited by the worker): ST075 cites DN 22 for 
 simile, but the opened DN 22 page (Thanissaro, accesstoinsight.org) contains no monkey
 passage; the canonical simile is at SN 12:61/12:62 (see w1g ledger).
 
+Possible near-duplicate pair (flagged by worker-w1b-2f8d4c1a, 2026-10-20, while enriching
+Tolerance of uncertainty): "Tolerance of uncertainty" and "Uncertainty tolerance" both
+exist as separate concept pages in the same construct family, alongside "Intolerance of
+uncertainty" (rich, clinical-literature side) and "Intolerance of ambiguity". At selection
+both uncertainty-tolerance pages were thin seeds; "Tolerance of uncertainty" is now
+enriched (2026-10-20). Pending supervisor disposition: keep both,
+merge, or differentiate by field (the clinical IU literature vs the medical-education
+uncertainty-tolerance literature); no merge attempted by the worker.
+
 ## Owner-cited good examples (the standard)
 
 The having mode; Beginner's mind; Premeditatio malorum; Awe; Flow.
