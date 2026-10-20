@@ -18,7 +18,7 @@ In a 1975 article, Carl Rogers describes what he calls an unappreciated way of b
 
 (Abridged; the passage continues. Rogers, "Empathic: An Unappreciated Way of Being," 1975; PDF p. 3 of 10.)
 
-Rogers also describes checking one's understanding and temporarily setting aside one's own views. He writes that empathy "means frequently checking with him/her as to the accuracy of your sensings, and being guided by the responses you receive," and that it "means that for the time being you lay aside the views and values you hold for yourself in order to enter another's world without prejudice." Rogers calls the whole way of being "a complex demanding, strong yet subtle and gentle way of being."
+Rogers also describes checking one's understanding and temporarily setting aside one's own views. He writes that empathy "means frequently checking with him/her as to the accuracy of your sensings, and being guided by the responses you receive." He adds that it "means that for the time being you lay aside the views and values you hold for yourself in order to enter another's world without prejudice." Rogers calls the whole way of being "a complex demanding, strong yet subtle and gentle way of being."
 
 **Plain words** Listening with empathic understanding is something you do together with the other person: describe their situation as they experience it, then ask whether you have it right and let their answer correct you.
 

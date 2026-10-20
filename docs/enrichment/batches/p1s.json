@@ -28,9 +28,9 @@
   "B154",
   "B165",
   "B169",
-  "P168",
   "P176",
-  "P177"
+  "P177",
+  "P168"
  ],
  "in_progress": null,
  "flagged": {
@@ -55,7 +55,7 @@
   "B181": "Reopened for QC: QC round-2 text fix: unverified day-without-plans detail removed",
   "B190": "Reopened for QC: QC round-2 text fix: plain words replaced with advisor version",
   "P175": "Reopened for QC: QC correction: page locator 85 to 87 after direct PDF verification",
-  "P168": "Reopened for QC: QC correction: remove invented duration; add verified PDF locator; label example",
+  "P168": "Reopened for QC: QC correction: retain source period in inline quotation",
   "B017": "Reopened for QC: QC correction: remove unsupported maintenance claim and example generalization",
   "B030": "Reopened for QC: QC correction: remove commandment-contrast overreach and chess analogy",
   "B154": "Reopened for QC: QC correction: remove world's-edge overreach and example causal lesson",
@@ -66,6 +66,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T03:43:59+00:00",
+ "updated": "2026-10-20T03:47:00+00:00",
  "band_done": false
 }
