@@ -42,3 +42,14 @@
 
 - enrich_validate.py content/concepts/The dichotomy of control.md — ok
   (validated against the pre-enrichment baseline 45b63b16^).
+
+## Round-3 addendum (2026-10-20)
+
+- P157's page read this round (ACT/Hayes grounding: "contacting the present
+  moment... fully and without defense... persisting or changing in behavior in
+  the service of chosen values") — the serenity-prayer attribution was removed
+  from the page; P157 appears as an editorial comparison via the advisor's
+  exact section text.
+- Opening sentences combined into a single cited sentence; "compendium's
+  refinement" section replaced by the advisor's "compendium's comparisons"
+  text; S053/P157 navigation glosses updated per the advisor's instruction.
