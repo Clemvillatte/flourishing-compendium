@@ -7,7 +7,7 @@ file: "Socratic ignorance"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-S"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-Socratic ignorance is the profession Socrates makes at his trial: he does not know the things that matter most, and unlike others he does not think he does. The claim comes with a story. His friend Chaerephon asked the Delphic oracle whether anyone was wiser than Socrates, and the Pythian prophetess answered that there was no man wiser. Socrates, expecting nothing of the sort, set out to test the god by questioning those with a reputation for wisdom, and the testing became his life's work.
+Socratic ignorance is the profession Socrates makes at his trial: he does not know the things that matter most, and unlike others he does not think he does. The claim comes with a story. His friend Chaerephon asked the Delphic oracle whether anyone was wiser than Socrates, and the Pythian prophetess answered that there was no man wiser. Socrates then set out to test the god by questioning those with a reputation for wisdom, and the testing became his life's work.
 
 His conclusion from the first examination, in Jowett's translation:
 
@@ -15,29 +15,28 @@ His conclusion from the first examination, in Jowett's translation:
 
 ### What the testing found
 
-The pattern held across the city. The politicians thought themselves wise and were not, and each examination ended the same way, with an enemy made. The poets wrote fine things but could not explain their own lines, and concluded they must be wise in everything else. The artisans did know their trades, and that was the trouble: "because they were good workmen they thought that they also knew all sorts of high matters". Socrates read the oracle's meaning in all this: God only is wise, the wisdom of men is little or nothing, and the wisest is he who knows his wisdom is in truth worth nothing. The questioning gave him enemies of the worst and most dangerous kind, and by his own account the calumnies that reached court began there.
+The testing had a shape. Socrates examined the politicians with a reputation for wisdom and found them not wise; with each examination he made an enemy, and the same conclusion followed with the ones he went to next. The poets wrote fine things but could not explain their own lines, and concluded they must be wise in other matters in which they were not wise. The artisans did know their trades, and that was the trouble: "because they were good workmen they thought that they also knew all sorts of high matters".
+
+Socrates read the oracle's meaning in all this: God only is wise, the wisdom of men is little or nothing, and the wisest is he who knows his wisdom is in truth worth nothing. The questioning gave him enemies of the worst and most dangerous kind, and by his own account the calumnies that reached court began there.
 
 ### In the compendium
 
-The compendium reads the state across its traditions: the Buddhist don't-know mind and beginner's mind (B140, B048), the Pyrrhonian withholding of assent (S048), the Daoist empty cup and rest in unknowing (D045, D100), the psychological value of "I don't know" (CO071), and the finding that incompetence is invisible to itself (CO025). Its principles treat expertise as real but fallible (SO041) and humility as accurate self-assessment (PP043).
+The compendium reads the state across its traditions: the Buddhist don't-know mind and beginner's mind (B140, B048), the withholding of assent when an impression is uncertain (S048), the Daoist empty cup and rest in unknowing (D045, D100), the psychological value of "I don't know" (CO071), and the compendium's principle on the Dunning-Kruger effect (CO025). Its principles treat expertise as real but fallible (SO041) and humility as accurate self-assessment (PP043).
 
 ## Related concepts
 
-- [[Docta ignorantia]] — the Renaissance Christian reception that named the state a form of knowledge
-- [[Beginner's mind]] — the shoshin counterpart, both cited from B048
+- [[Docta ignorantia]] — the Renaissance Christian reception that named the state a form of knowledge (inherited description, unverified here)
+- [[Beginner's mind]] — the shoshin counterpart, both cited from B048 (inherited description, unverified here)
 
 ## Sources
 
 - [Plato, Apology, Jowett translation, MIT Classics](https://classics.mit.edu/Plato/apology.html) — the blockquote and the politicians, poets, artisans and enemies passages.
 - Plato, Apology — the seed's citation; the Greek text was not opened this round.
 
-## Cited in psychology parallels
+## Cited in philosophy parallels
 
 - [[SO022 — Use cultural humility as a practice]]
 - [[SO041 — Treat expertise as real but fallible]]
-
-## Cited in philosophy parallels
-
 - [[D023 — Unlearn daily]]
 - [[D045 — Keep the empty cup]]
 - [[D052 — Know the white, keep to the black]]

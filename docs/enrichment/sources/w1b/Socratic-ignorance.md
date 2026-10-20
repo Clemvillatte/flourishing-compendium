@@ -38,3 +38,22 @@
   existing graph edge via B048); seed's Docta ignorantia line preserved as inherited.
 - Validator: normal profile, ok, 0 fails, 1 warning (fewer than 3 Related lines; the
   item has only two concept neighbours in the graph).
+
+## Advisor QC repairs (2026-10-20)
+
+- "expecting nothing of the sort" removed (narrative inference, not in source).
+- Testing paragraph: "the pattern held across the city" and "wise in everything else"
+  replaced with scoped claims ("the same conclusion followed with the ones he went to
+  next"; "wise in other matters in which they were not wise", matching the extracted
+  sentence "upon the strength of their poetry they believed themselves to be the
+  wisest of men in other things in which they were not wise"); paragraph split in two.
+- "Pyrrhonian" removed (not in the opened source); the S048 line now restates the
+  principle's own wording.
+- "the finding that incompetence is invisible to itself" reworded to "the
+  compendium's principle on the Dunning-Kruger effect" (no psychological claim).
+- Related lines for Docta ignorantia and Beginner's mind labelled "(inherited
+  description, unverified here)".
+- SO022/SO041 reclassified to "## Cited in philosophy parallels": both citing
+  principles (SO022, SO041) list Socratic ignorance under their Philosophy parallels
+  sections (SO022: "Socrates — Socratic ignorance — ... Plato, Apology, 21d";
+  SO041: "Socrates — Socratic ignorance — ... Plato, Apology, 21d").
