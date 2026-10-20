@@ -37,3 +37,22 @@ reserve from the active supervisor (see TASKBOARD claim note).
   ch.16 fragment paraphrased with attribution, doctrine claims scoped to Nhat Hanh's
   chapters, compendium clauses narrowed to the principle files' own statements,
   publisher/year verified from the copyright page. Validator ok after repairs.
+
+## Contentment with sufficiency
+
+- Track: fast-track, current degree 5 (1 kernel + 4 principle neighbors).
+- Opened: https://www.gutenberg.org/files/216/216-h/216-h.htm (Legge, Tao Teh
+  King, Gutenberg #216), chapters 44 and 46, fetched 2026-10-20.
+- Quotations, copied from the fetched page: ch. 44 third stanza ("Who is
+  content / Needs fear no shame... Long live shall he.") as blockquote;
+  ch. 46 second stanza ("There is no guilt greater than to sanction ambition;
+  ... the sufficiency of contentment is an enduring and unchanging sufficiency.")
+  as a prose fragment.
+- Compendium clauses grounded by reading D019, D020, S026, B111, K155 context
+  records at HEAD. "The insatiability of desire" verified to exist as a concept
+  page. Simplicity exists (deg 38).
+- Limits: zhizu gloss as "knowing what is enough" follows D019's title wording;
+  no claim about the Chinese text beyond the opened Legge translation.
+- Saturation: fast-track exemption; no reciprocal proposed (both Related targets
+  are stubs or stable pages outside obvious reciprocal reach).
+- QC: validator ok (1 warning: 2 Related-concepts lines, within fast-track bar).

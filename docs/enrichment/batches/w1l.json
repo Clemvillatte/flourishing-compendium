@@ -1,11 +1,12 @@
 {
  "batch": "w1l",
  "done": [
-  "Interbeing"
+  "Interbeing",
+  "Contentment with sufficiency"
  ],
- "in_progress": "Contentment with sufficiency",
+ "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T06:49:32+00:00"
+ "updated": "2026-10-20T06:50:27+00:00"
 }
