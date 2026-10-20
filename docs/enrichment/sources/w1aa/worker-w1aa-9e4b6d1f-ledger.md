@@ -156,3 +156,11 @@
 - Related concepts: Fallibilism (deg 29), Anti-authoritarian inquiry (deg 2). No reciprocal proposed.
 - Saturation: fast-track skip.
 - No advisor QC required (item 21).
+
+## Gestalt perception
+
+- Fast-track degree 2 (concept edge: Context effects in perception, deg 12; principle edge: P065).
+- Opened source: Wertheimer 1923, "Laws of Organization in Perceptual Forms", Ellis translation (psychclassics.yorku.ca full text). Verified verbatim: the window/327 opening (blockquote); the larger-wholes passage; the proximity and similarity factor sentences (paraphrased with the papers' own terms). Framed as Ellis's translation, not Wertheimer's German (disclosed via source label).
+- Related concepts: Context effects in perception (deg 12, the seed's own edge). No reciprocal proposed.
+- Saturation: fast-track skip.
+- No advisor QC required (item 22).
