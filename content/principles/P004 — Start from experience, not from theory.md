@@ -12,13 +12,24 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 4** — Start from experience, not from theory
 
-Everything worth knowing must answer to lived experience: the immediately felt, concrete "what it is like" of living. When theory and experience conflict, go back to experience.
+William James set the rule for his whole philosophy in one sentence: "To be radical, an empiricism must neither admit into its constructions any element that is not directly experienced, nor exclude from them any element that is directly experienced." The two halves point in both directions: no theory element that experience never supplies, and nothing experienced may be dismissed because the theory has no slot for it.
+
+> To be radical, an empiricism must neither admit into its constructions any element that is not directly experienced, nor exclude from them any element that is directly experienced. For such a philosophy, the relations that connect experiences must themselves be experienced relations, and any kind of relation experienced must be accounted as "real" as anything else in the system. Elements may indeed be redistributed, the original placing of things getting corrected, but a real place must be found for every kind of thing experienced, whether term or relation, in the final philosophic arrangement.
+>
+> (William James, Essays in Radical Empiricism)
+
+The correction clause matters for practice: James allows "the original placing of things getting corrected", but the correction must keep "a real place... for every kind of thing experienced". When theory and experience conflict, the conflict is a routing instruction, not a verdict for the theory.
 
 (James, Essays in Radical Empiricism, 1912; Dewey, Experience and Nature, 1925.)
 
-**Plain words** Everything worth knowing must answer to lived experience — the immediately felt, concrete 'what it is like' of living. When theory and experience conflict, go back to experience. The map is negotiable; the territory gets a vote.
+**Plain words**
+The theory is a draft; the experience is the document it drafts from. When the two disagree, the disagreement is information about the draft. When a framework you use keeps explaining away something you keep noticing, write the noticed thing down in its own words before deciding what to do about the framework.
 
 *For example:* The parenting book says the method works; your kid screams for a week. The book loses. Experience is the court of final appeal.
+
+## Sources
+
+- [William James, "A World of Pure Experience" in Essays in Radical Empiricism (Brock University Mead Project)](https://brocku.ca/MeadProject/James/James_1912/James_1912_02.html)
 
 ## Psychology parallels
 
