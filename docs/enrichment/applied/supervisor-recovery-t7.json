@@ -1,0 +1,22 @@
+{
+ "batch": "supervisor-recovery-t7",
+ "revision": 1,
+ "reciprocal": [
+  {
+   "into": "content/concepts/Curse of knowledge.md",
+   "link": "Beginner's mind",
+   "why": "the Zen practice of meeting experience as if for the first time"
+  },
+  {
+   "into": "content/concepts/Curiosity.md",
+   "link": "Beginner's mind",
+   "why": "the Zen practice of meeting experience as if for the first time"
+  },
+  {
+   "into": "content/concepts/Openness.md",
+   "link": "Beginner's mind",
+   "why": "the Zen practice of meeting experience as if for the first time"
+  }
+ ],
+ "notes": "w1b legacy recovery tranche 7 (Beginner's mind family). Original claim-bearing clauses unevidenced in the w1b ledger; neutral clause grounded in the concept page's own sourced opening (Suzuki 1970). Five targets already linked (skipped). - supervisor-3ef4f549, 2026-10-20"
+}

@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 experts overestimate what novices know (Camerer et al., 1989; Keysar et al., 2003).
 
+## Related concepts
+
+- [[Beginner's mind]] — the Zen practice of meeting experience as if for the first time
+
 ## Sources
 
 - Camerer et al., 1989

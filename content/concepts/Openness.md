@@ -21,10 +21,11 @@ P114 (Create as growth) is the principle linked below. Whether creating is evide
 
 ## Related concepts
 
+
 - [[E080]] — examines Gadamer's account of understanding across different horizons.
 - [[Intellectual humility]] — listed for comparison
 - [[Openness and not knowing in skilled practice]] — a compendium page with a similar name, listed for comparison; it is not drawn from Kaufman et al.
-
+- [[Beginner's mind]] — the Zen practice of meeting experience as if for the first time
 ## Sources
 
 - [Kaufman, Quilty, Grazioplene, Hirsh, Gray, Peterson & DeYoung (2016), "Openness to Experience and Intellect Differentially Predict Creative Achievement in the Arts and Sciences", Journal of Personality (Wiley)](https://onlinelibrary.wiley.com/doi/10.1111/jopy.12156) — the two aspects, the sample, and the findings quoted above
