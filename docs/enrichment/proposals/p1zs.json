@@ -1,6 +1,6 @@
 {
  "batch": "p1zs",
- "revision": 8,
+ "revision": 9,
  "reciprocal": [
   {
    "into": "Food as medicine",
@@ -49,6 +49,18 @@
    "link": "BI039",
    "why": "the not-before-bed alcohol rule this principle teaches is one of the practices the insomnia guideline on that page lists",
    "notes": "Evidence in sources/p1zs/BI039.md (Ebrahim 2013 opened; target page read: Schutte-Rodin guideline quoted there includes avoiding alcohol before bedtime)."
+  },
+  {
+   "into": "Stress response (Lupien, McEwen)",
+   "link": "BI044",
+   "why": "the chronic-stress checklist this principle teaches is the readable face of the stress physiology that page describes",
+   "notes": "Evidence in sources/p1zs/BI044.md (McEwen 2007 opened; target page read, quotes the same McEwen abstract, does not yet cite BI044)."
+  },
+  {
+   "into": "HPA axis theory stress",
+   "link": "BI044",
+   "why": "the symptom checklist for recognising when chronic stress is running",
+   "notes": "Evidence in sources/p1zs/BI044.md (Mayo Clinic + McEwen 2007 opened; target page read)."
   }
  ],
  "inline": []
