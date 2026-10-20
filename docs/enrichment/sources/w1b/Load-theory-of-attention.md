@@ -21,10 +21,12 @@
   (core-prediction passage of the 2005 review)
 
 ## Claims and their support
-- Author and dating (Lavie, from the mid-1990s): the review's reference list names
-  Lavie 1995 (JEP: HPP) as the founding paper.
-- Early/late selection resolution: abstract ("resolution to the long-standing early and
-  late selection debate").
+- Early/late selection resolution: the 2005 abstract ("provide a resolution to the
+  long-standing early and late selection debate" and "reconcile evidence for early and
+  late selection"), with the abstract's "high perceptual load can eliminate distractor
+  processing, high load on 'frontal' cognitive control processes increases distractor
+  processing" behind the body's two-load sentence. No claim is made about the 1995
+  paper's content beyond its being cited by the seed and referenced by the review.
 - Opposite effect of cognitive-control load: abstract ("high load on 'frontal' cognitive
   control processes increases distractor processing") and the cognitive-control passage
   quoted in the extraction.
@@ -37,8 +39,14 @@
   proposals. The only concept neighbour (Dual-process theory) already exists in the
   graph, so the Related line marks an existing edge, not a new one.
 - Seed's opening line ("higher cognitive load reduces the ability to filter
-  distractors") was replaced by the accurate two-load statement; the seed's
-  formulation conflates cognitive load with perceptual load, and the opened source
-  supports the corrected version.
+  distractors") was replaced by the two-load statement. Rationale, per the QC round:
+  the seed's line was an unverified inherited formulation and the opened source's
+  abstract supports the two-load version directly; the correction is bounded to what
+  the opened source states.
+- QC round (advisor, 2026-10-20): "fills the senses", "priorities are lost", "a
+  demanding task is not the same thing as a busy mind" removed as unsupported
+  elaboration; "founding paper" and "mid-1990s" dating removed; the seed's "## Field"
+  heading restored in the philosophy-parallels section; quote locator expanded to
+  journal and doi.
 - Validator: fast-track profile, ok, 0 fails, 1 warning (fewer than 3 Related lines,
   expected on a fast-track item with one existing concept neighbour).
