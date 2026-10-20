@@ -44,12 +44,14 @@ The compendium treats the model as the psychology of self-authorship. R105 pract
 ## Related concepts
 
 
+
 - [[Narrative identity]] — the construct the model introduced
 - [[Narrative redemption sequences]] — the compendium's page for the model's key finding
 - [[Self as process]] — the self as ongoing construction rather than fixed thing
 - [[The search for meaning]] — the existential project the story serves
 - [[Fixed views of self]] — the frozen story, the model's diagnostic contrast
 - [[CO010]] — listed for comparison
+- [[The seasons of life]] — the ancient image that human life has a temporal shape: stages that ask different things
 ## Cited in psychology parallels
 
 - [[R105 — Practise narrative identity]]

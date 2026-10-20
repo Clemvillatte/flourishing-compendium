@@ -29,10 +29,11 @@ The modern anchor reconstructs justice for institutions. Rawls's two principles,
 
 ## Related concepts
 
+
 - [[The veil of ignorance]] — Rawls's device for choosing the principles
 - [[Care ethics]] — the relational tradition the page's Held citation marks
 - [[Restorative justice]] — the corrective branch in its modern form
-
+- [[Forgiveness]] — the release of a debt: ending resentment and the claim to repayment without excusing the wrong
 ## Sources
 
 - [Aristotle, Nicomachean Ethics V (D.P. Chase translation), Project Gutenberg](https://www.gutenberg.org/cache/epub/8438/pg8438.html) — the another's-good passage, the definition, the two branches.

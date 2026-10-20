@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Reconciliation” — Laozi, Daodejing 79.
 
+## Related concepts
+
+- [[Forgiveness]] — the release of a debt: ending resentment and the claim to repayment without excusing the wrong
+
 ## Sources
 
 - Laozi, Daodejing 79

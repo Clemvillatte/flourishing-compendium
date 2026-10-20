@@ -14,3 +14,8 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 [[B084 — Use antidotes skillfully]]
 [[B031 — Judge by skillful and unskillful, not by good and evil]]
 [[D098 — Accept what destiny brings (li ming)]]
+
+
+## Related concepts
+
+- [[Forgiveness]] — the release of a debt: ending resentment and the claim to repayment without excusing the wrong

@@ -55,6 +55,7 @@ A related line of research asks whether groups have their own intelligence. Wool
 
 ## Related concepts
 
+
 - [[Wise reasoning]] — Grossmann's construct for the metacognitive capacities this page defines
 - [[Phronesis]] — the Aristotelian practical wisdom that A043 develops
 - [[Wisdom theory Berlin paradigm]] — the compendium's page for the Baltes research program
@@ -63,7 +64,7 @@ A related line of research asks whether groups have their own intelligence. Wool
 - [[The wisdom of crowds]] — aggregation of many judgments; a different mechanism from individual wise reasoning
 - [[Klesha transmuted into wisdom]] — the Vajrayana parallel: afflictions ripened into wisdom
 - [[Socioemotional wisdom]] — the emotional side of the construct family
-
+- [[The seasons of life]] — the ancient image that human life has a temporal shape: stages that ask different things
 ## Sources
 
 - Baltes and Staudinger, 2000

@@ -1,0 +1,52 @@
+{
+ "batch": "supervisor-recovery-t19",
+ "revision": 1,
+ "reciprocal": [
+  {
+   "into": "content/concepts/Reconciliation.md",
+   "link": "Forgiveness",
+   "why": "the release of a debt: ending resentment and the claim to repayment without excusing the wrong"
+  },
+  {
+   "into": "content/concepts/Compassion.md",
+   "link": "Forgiveness",
+   "why": "the release of a debt: ending resentment and the claim to repayment without excusing the wrong"
+  },
+  {
+   "into": "content/concepts/Justice.md",
+   "link": "Forgiveness",
+   "why": "the release of a debt: ending resentment and the claim to repayment without excusing the wrong"
+  },
+  {
+   "into": "content/concepts/Guilt.md",
+   "link": "Forgiveness",
+   "why": "the release of a debt: ending resentment and the claim to repayment without excusing the wrong"
+  },
+  {
+   "into": "content/concepts/Shame.md",
+   "link": "Forgiveness",
+   "why": "the release of a debt: ending resentment and the claim to repayment without excusing the wrong"
+  },
+  {
+   "into": "content/concepts/Narrative identity.md",
+   "link": "The seasons of life",
+   "why": "the ancient image that human life has a temporal shape: stages that ask different things"
+  },
+  {
+   "into": "content/concepts/Life story model.md",
+   "link": "The seasons of life",
+   "why": "the ancient image that human life has a temporal shape: stages that ask different things"
+  },
+  {
+   "into": "content/concepts/Meaning-making.md",
+   "link": "The seasons of life",
+   "why": "the ancient image that human life has a temporal shape: stages that ask different things"
+  },
+  {
+   "into": "content/concepts/Wisdom.md",
+   "link": "The seasons of life",
+   "why": "the ancient image that human life has a temporal shape: stages that ask different things"
+  }
+ ],
+ "notes": "w1b legacy recovery tranche 19 (Forgiveness + The seasons of life families; Narrative identity family fully satisfied already - all 6 targets linked). Original claim-bearing clauses unevidenced in the w1b ledger; neutral clauses grounded in each concept page's own sourced opening (Arendt/Derrida landmarks; Ecclesiastes 3). Restorative justice + Impermanence + Death reflection already linked (skipped). - supervisor-3ef4f549, 2026-10-20"
+}

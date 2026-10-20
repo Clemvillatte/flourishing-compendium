@@ -28,6 +28,7 @@ Several principles treat shame, and they come from different traditions. SE030 (
 
 
 
+
 - [[Guilt]] — the contrast emotion in the review, listed for comparison
 - [[Guilt motivates reparative behaviour]] — listed for comparison
 - [[Opposite action (Linehan)]] — a skill that Rizvi and Linehan tested on maladaptive shame in a pilot study
@@ -35,6 +36,7 @@ Several principles treat shame, and they come from different traditions. SE030 (
 - [[SE082]] — offers Nietzsche's aphorism on no longer being ashamed of oneself
 - [[E035]] — gives Sartre's account of shame as recognition by the Other
 - [[Courage]] — one of the four cardinal virtues: acting well in the face of fear
+- [[Forgiveness]] — the release of a debt: ending resentment and the claim to repayment without excusing the wrong
 ## Sources
 
 - [Tangney, Stuewig & Mashek (2007), "Moral emotions and moral behavior", Annual Review of Psychology 58, 345-372 (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3083636/) — definitions, action tendencies, qualifications
