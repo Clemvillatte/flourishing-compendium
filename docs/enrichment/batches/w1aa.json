@@ -35,12 +35,12 @@
   "Generative model theory": "skip-ahead quote verification: Clark 2013 blockquote re-verified character-for-character in the opened fil.ion.ucl.ac.uk PDF (ligature/line-break normalization only); degree 1",
   "Festinger": "Reopened for QC: advisor QC round 1: identity disposition pending supervisor (person-titled page on verification queue s2; keep as author-hub vs rename/merge into Social comparison); repairs applied (seed-line sentence removed, reader-addressing removed, Hyp IV standalone blockquote, 'most often' dropped, Wikipedia citation inline); item NOT done pending disposition",
   "Grit": "QC round 2: blockquote reduced to the Hou-verified fragment (p. 1087); master-trait contrast removed; abstract blockquote retained (fully verified)",
-  "Group cohesion theory": "QC round 2: FSU carrier fully identified (Medeiros Filho 2012, PhD dissertation, Florida State University; quotes Carron, Brawley and Widmeyer 1998 p. 213 with disclosed provenance per the secondary-carrier precedent); published Filho et al. 2015 article checked and does NOT carry the quote; bold seed line removed",
+  "Group cohesion theory": "QC round 3: definition blockquote replaced with the opened peer-reviewed IJSP article's own wording (Glavas et al. 2021, IJSP 52(2)); FSU dissertation carrier dropped; task/social + four-dimension descriptions now grounded in the same IJSP text; Grit degree verified = 2 (title search, second match)",
   "Groupthink theory": "QC round 2: bold seed line removed",
   "HEXACO model of personality structure": "QC round 2: bold seed line removed; H-factor quote locator corrected to the 'Theoretical Interpretation' section (quote precedes the table heading the earlier locator named); degrees verified via title search: Festinger 8, Grit 1, Generative 1, Group cohesion 5, Groupthink 7, HEXACO 5 (all fast-track eligible)"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T16:57:04+00:00",
+ "updated": "2026-10-20T16:58:25+00:00",
  "band_done": false
 }

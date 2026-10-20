@@ -7,13 +7,15 @@ file: "Group cohesion theory"
 tags: ["theory", "psych/social"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-SOCIAL"], "alternatePaths": []}
 ---
-Group cohesion theory is the study of what holds a group together. Its working definition in the sport-psychology tradition associated with Albert Carron reads:
+Group cohesion theory is the study of what holds a group together. The construct is usually traced to the sport-psychology tradition associated with Albert Carron, and a validation study of its standard instrument states the received definition:
 
-> "a dynamic process that is reflected in the tendency of a group to stick together and remain united in the pursuit of its instrumental objectives and/or for the satisfaction of member affective needs" (Carron, Brawley and Widmeyer 1998, p. 213, quoted in [Medeiros Filho, E. S. (2012). Cohesion, team mental models and collective efficacy: towards an integrated nomological network of team sports. PhD dissertation, Florida State University](https://repository.lib.fsu.edu/islandora/object/fsu:183009/datastream/PDF/download))
+> "One of the most widely accepted definitions depicts the group cohesion as a dynamic process that is reflected in the tendency of the group to (1) maintain unity and uniqueness in the achieving goals and (2) satisfy members' emotional needs (Carron, Brawley, & Widmeyer, 1998)." (Glavaš et al., [Validation of the Group Environment Questionnaire in Croatian](https://www.ijsp-online.com/download/52/int.j.sport.psychol.2021.52.172-188.pdf), International Journal of Sport Psychology 52(2), 2021)
 
 ### Task and social cohesion
 
-The theory's central distinction splits cohesion into two strands. Task cohesion is the shared commitment to a goal that needs the whole group's effort; social cohesion, in the words of one review, "pertains to the degree to which members of a team interact with each other." A team can have one without the other: colleagues who work well together but socialise nowhere, or friends whose project never ships. The Group Environment Questionnaire (Carron, Widmeyer and Brawley, 1985) measures both strands at two levels, individual attraction to the group and perceived group integration, in an 18-item instrument.
+The model behind that definition gathers members' beliefs about their group around two main dimensions, Group Integration (the perceived closeness, similarity and unity of the group) and Individual Attraction to the Group (the personal motivation to be part of it). Within both dimensions, togetherness in pursuing goals and objectives counts as task cohesion, and members' enjoyment of being with teammates counts as social cohesion. A team can have one without the other: colleagues who work well together but socialise nowhere, or friends whose project never ships.
+
+The Group Environment Questionnaire (Carron, Widmeyer and Brawley, 1985) measures the resulting four dimensions, Group Integration-Social, Group Integration-Task, Individual Attraction to the Group-Social and Individual Attraction to the Group-Task, in an 18-item instrument.
 
 Cohesion is not straightforwardly good for thinking. The groupthink literature grew from the observation that the desire for cohesiveness in a group may produce a tendency among its members to agree at all costs, minimizing conflict and reaching a consensus decision without critical evaluation ([Wikipedia, "Groupthink"](https://en.wikipedia.org/wiki/Groupthink)).
 
@@ -34,7 +36,7 @@ Sociocultural · Psychological science
 
 ## Sources
 
-- [Cohesion, team mental models and collective efficacy: towards an integrated nomological network of team sports (Florida State University repository)](https://repository.lib.fsu.edu/islandora/object/fsu:183009/datastream/PDF/download) — supports the Carron 1998 definition quotation and the task/social and GEQ descriptions
+- [Glavaš, D. et al. (2021). Validation of the Group Environment Questionnaire in Croatian. International Journal of Sport Psychology, 52(2), 172-188](https://www.ijsp-online.com/download/52/int.j.sport.psychol.2021.52.172-188.pdf) — supports the definition quotation and the two-dimension, task/social and four-dimension descriptions
 - [Wikipedia, "Groupthink"](https://en.wikipedia.org/wiki/Groupthink) — supports the cohesiveness-can-suppress-critical-evaluation sentence
 
 ## Cited in parallels
