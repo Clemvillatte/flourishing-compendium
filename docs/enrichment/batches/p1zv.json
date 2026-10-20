@@ -43,7 +43,7 @@
   "S078": "Reopened for QC: milestone QC: plain-words generalisations and example repaired per advisor",
   "S081": "Reopened for QC: milestone QC repairs applied",
   "S082": "Reopened for QC: milestone QC repairs applied",
-  "S090": "Reopened for QC: milestone QC: poet-attribution merge, body intro, plain-words outcome claim and example repaired per advisor",
+  "S090": "supervisor disposition requested: S087 (Do not waste time on trivialities, outside p1zv manifest) already blockquotes the same De Brevitate ch.1 line S090 quotes; S087/S090 overlap flagged, no cross-band edit made",
   "S095": "Reopened for QC: milestone QC: change-claim overreach and plain-words/example repaired per advisor",
   "S100": "Reopened for QC: milestone QC: superlative intro, plain-words outcome claim and example repaired per advisor",
   "S101": "Reopened for QC: milestone QC: invented example outcome, staging opener and em dash repaired per advisor",
@@ -51,6 +51,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 13,
- "updated": "2026-10-20T16:27:26+00:00",
+ "updated": "2026-10-20T16:29:23+00:00",
  "band_done": false
 }
