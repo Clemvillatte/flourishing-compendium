@@ -38,3 +38,10 @@ Per-item evidence notes (owner concise-bar items 6-7). Manifest: BE012..CO061, 3
 - BE014 repair: lowercased mid-quote "days..." replaced with a paraphrase of the caution.
 - Saturation redone with correct title extraction: BE015 missing links found in Activity scheduling (BA), Behavioral activation, Ends-in-view, Habit formation, Learning by doing, Self-efficacy -> 2 grounded reciprocals proposed (Activity scheduling (BA), Behavioral activation); BE024 missing links found in Behavior analysis, Behavioral activation, Habit formation, Habit maintenance, Operant conditioning (Skinner), Shaping (Skinner) -> 2 grounded reciprocals proposed (Behavior analysis, Habit formation). Earlier "all 10 concepts already link BE015" claim was based on a broken pipeline and is retracted.
 - Credential handling: secure form opened for the owner-provided GitHub PAT (prefilled); work continues under the owner's explicit direct-token authorization until the form is completed.
+
+## BE029 — response prevention
+- Source opened: Law C & Boisseau CL (2019), "Exposure and Response Prevention in the Treatment of Obsessive-Compulsive Disorder: Current Perspectives", Psychology Research and Behavior Management 12: 1167-1174 (https://pmc.ncbi.nlm.nih.gov/articles/PMC6935308/). NOTE: a search result mis-attributed this paper to Hezel & Simpson; the opened article's authors are Law and Boisseau.
+- Quotes used (Introduction and Exposure and Response Prevention sections): the ERP definition sentence; "Response prevention would have the purpose of enhancing these non-threatening associations to ensure extinction."; "to challenge how a patient responds to distress and to eventually learn that feared stimuli are safe".
+- Inherited parallels: Foa et al. 2007 / Abramowitz et al. 2019 kept as references; claims re-grounded in the opened review (first-line status from the article's own abstract).
+- Saturation: ERP and Response prevention (OCD treatment) concepts already link BE029; The criterion of experience mention is a Cited-in list only (K119), no reciprocal proposed.
+- QC: not a milestone item (item 6 of 30); validator pass vs pre-item baseline c7089e1d.

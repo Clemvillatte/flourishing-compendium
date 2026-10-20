@@ -12,15 +12,24 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BE — Overt Be
 ---
 > **Principle 29** — Learn to use response prevention: block the compulsive behaviour
 
-Response prevention involves blocking the compulsive or safety behaviour that follows a fear or obsession. This is the core treatment for OCD and is essential for exposure to work.
+Exposure and response prevention (ERP) is the first-line treatment for obsessive-compulsive disorder. The response-prevention half is what this principle names: when an obsession fires, the person resists the compulsion that would neutralize it.
 
-**Plain words** Block the ritual that follows the fear — the checking, the washing, the reassurance-seeking. The ritual feels like safety but it's the fear's maintenance contract. Response prevention is refusing to renew it. For OCD, this is specialist work — ideally with a clinician.
+> "ERP is a form of cognitive behavioral therapy (CBT) that involves providing psychoeducation to the patient, helping the patient confront fears or discomfort related to their obsessional thoughts (exposure), and having the patient resist performing compulsions (response prevention)." (Law & Boisseau, 2019)
 
-*For example:* The lock-checker who checks seven times — the practice is checking once and walking to the car with the discomfort, with a therapist's help for OCD. The discomfort spikes; with repetition it tends to lose some of its charge. The contract is broken.
+The review frames the purpose in terms of extinction: "Response prevention would have the purpose of enhancing these non-threatening associations to ensure extinction." The goal of the treatment is "to challenge how a patient responds to distress and to eventually learn that feared stimuli are safe", and the compulsion is what keeps that learning from happening, because it removes the experience that could disconfirm the fear.
+
+**Plain words** Block the ritual that follows the fear: the checking, the washing, the reassurance-seeking. The ritual feels like safety, but it is the fear's maintenance contract, and response prevention is refusing to renew it. For OCD this is specialist work, ideally with a clinician.
+
+*For example* Imagined: the lock-checker who checks seven times checks once and walks to the car with the discomfort. The discomfort spikes, and with repetition it tends to lose some of its charge.
+
+## Sources
+
+- [Law & Boisseau, "Exposure and Response Prevention in the Treatment of Obsessive-Compulsive Disorder: Current Perspectives", Psychology Research and Behavior Management 12: 1167-1174, 2019 (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6935308/) — quotes checked against the opened article text
+
 ## Psychology parallels
 
-- **[[Response prevention (OCD treatment)|Response prevention (OCD treatment)]]**, blocking compulsions is essential for exposure to work (Foa et al., 2007; Abramowitz et al., 2019)
-- **[[ERP (exposure and response prevention)|ERP (exposure and response prevention)]]**, the gold standard for OCD (Foa et al., 2007; Abramowitz et al., 2019)
+- **[[Response prevention (OCD treatment)|Response prevention (OCD treatment)]]**, having the patient resist performing compulsions is one of the two components of ERP (Law & Boisseau, 2019; Foa et al., 2007; Abramowitz et al., 2019)
+- **[[ERP (exposure and response prevention)|ERP (exposure and response prevention)]]**, a first-line, evidence-based treatment for OCD (Law & Boisseau, 2019)
 
 ## Philosophy parallels
 
