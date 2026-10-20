@@ -27,7 +27,7 @@
    ]
   },
   "s1b-002": {
-   "status": "drafting",
+   "status": "qc_pending",
    "angle": "B088: repeated pursuit becomes inclination; two seasonal cowherds; votes are qualitative analogy, not measured increments",
    "history": [
     {
@@ -38,9 +38,14 @@
      "t": "2026-10-20T14:31:20+00:00",
      "to": "drafting",
      "note": "Reviewed full MN19 arc retained; source quotations and B088 limits independently verified"
+    },
+    {
+     "t": "2026-10-20T14:32:26+00:00",
+     "to": "qc_pending",
+     "note": "Independent first-candidate review and re-review substantive PASS; full canonical outcome and votes-limit revisions applied"
     }
    ]
   }
  },
- "updated": "2026-10-20T14:31:20+00:00"
+ "updated": "2026-10-20T14:32:26+00:00"
 }
