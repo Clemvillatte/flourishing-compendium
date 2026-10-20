@@ -12,20 +12,20 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 471** — Practise the hermeneutic circle
 
-Heidegger gives the hermeneutic circle its working instructions in §32 of Being and Time. Understanding, he argues there, always proceeds from fore-having, fore-sight, and fore-conception; interpretation moves between the whole and the parts and cannot do otherwise. The question is not how to escape:
+In §32 of Being and Time, Heidegger describes the circle of understanding as an expression of Dasein's fore-structure:
 
 > What is decisive is not to get out of the circle but to come into it in the right way. This circle of understanding is not an orbit in which any random kind of knowledge may move; it is the expression of the existential fore-structure of Dasein itself. It is not to be reduced to the level of a vicious circle, or even of a circle which is merely tolerated. In the circle is hidden a positive possibility of the most primordial kind of knowing. (Heidegger, Being and Time, §32, M&R p. 195, H.153)
 
-He then names the task that keeps the circle honest: never to allow "our fore-having, fore-sight, and fore-conception to be presented to us by fancies and popular conceptions, but rather to make the scientific theme secure by working out these fore-structures in terms of the things themselves."
+He explains how interpretation can take up this possibility:
 
-The compendium applies this to self-understanding: the general story you read your life by is a fore-structure, not a verdict. The exercise is to test that story against particulars — single days, single conversations — and let the story and the particulars revise each other.
+> To be sure, we genuinely take hold of this possibility only when, in our interpretation, we have understood that our first, last, and constant task is never to allow our fore-having, fore-sight, and fore-conception to be presented to us by fancies and popular conceptions, but rather to make the scientific theme secure by working out these fore-structures in terms of the things themselves.
 
 (Heidegger, 1927/1962, Being and Time, §32, M&R p. 195.)
 
 **Plain words**
-You read anything (a book, a person, your own life) with some picture of the whole already in hand, and the picture only gets corrected by the pieces. The circle is not a defect to escape but the way understanding works. The practice is to notice the picture you brought, check it against the pieces, and carry the corrected picture back to the next piece.
+The compendium uses this passage as an exercise in checking a first reading. Write down what you expected before revisiting an event. Look for details your account leaves unexplained, and consider whether they require a different reading. Keep any uncertainty visible.
 
-*For example:* Take a belief about someone close to you, such as "he never listens." Pick one conversation from this week and read it against the belief. Then ask what the same conversation would look like if the belief were wrong. Note which reading the conversation supports better; if it is not the belief, carry that back into the next conversation.
+*For example:* Suppose you enter a meeting expecting a colleague to dismiss your proposal. Afterward, compare that expectation with their actual words. If they raised an objection and also asked how the proposal could be improved, include both in your account before deciding what the exchange meant.
 
 ## Sources
 
