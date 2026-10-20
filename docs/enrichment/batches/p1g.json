@@ -58,7 +58,8 @@
   "SE001",
   "SE016",
   "SE068",
-  "SO043"
+  "SO043",
+  "SP037"
  ],
  "in_progress": null,
  "flagged": {
@@ -93,7 +94,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 15,
- "updated": "2026-10-20T04:53:17+00:00",
+ "updated": "2026-10-20T04:54:10+00:00",
  "band_done": false,
  "takeover": {
   "by": "genuineflourishing35",
