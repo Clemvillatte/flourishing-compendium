@@ -19,7 +19,7 @@ Both findings come from laboratory settings: cueing with a drawn face, and pairs
 > "A moment's introspection reveals that in everyday life, gaze shifts can provide a rich and complex source of social information." (Friesen & Kingstone, 1998 — [The eyes have it!](http://wexler.free.fr/library/files/friesen%20(1998)%20the%20eyes%20have%20it!%20reflexive%20orienting%20is%20triggered%20by%20nonpredictive%20gaze.pdf) — Psychon Bull Rev 5(3), p. 490)
 
 **Plain words**
-When someone looks somewhere, your attention tends to follow, at least briefly, even when the look carries no information. Two people talking about something in front of them tend to look at the same things at the same time, more so when they share background knowledge.
+When someone looks somewhere, your attention tends to follow, at least briefly, even when the look carries no information. During conversation about a shared display, the two people's looking patterns were related over several seconds, with stronger coupling after shared background information.
 
 **For example**
 In the experiment itself, a face drawing glances left and a letter appears; the viewer is faster to find it when the glance points at it. An imagined everyday version: at a table, someone glances at the door and your attention goes there too.

@@ -12,11 +12,11 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AT — Attentio
 ---
 > **Principle 19** — Learn to redirect attention after distraction: the return, not the absence of distraction, is the skill
 
-In Hasenkamp and colleagues' study of focused-attention meditation, fourteen experienced practitioners meditated on the breath in an fMRI scanner; whenever they noticed their mind had wandered, they pressed a button and returned their focus to the breath. The study modelled the practice as a cycle of four intervals: mind wandering, awareness of mind wandering, shifting of attention, and sustained attention. The study also found that activation in these phases was modulated by lifetime meditation experience.
+In Hasenkamp and colleagues' study of focused-attention meditation, fourteen meditation practitioners meditated on the breath in an fMRI scanner; whenever they noticed their mind had wandered, they pressed a button and returned their focus to the breath. The study's model of the practice is a cycle of four intervals: mind wandering, awareness of mind wandering, shifting of attention, and sustained attention. The study also found that activation in these phases was modulated by lifetime meditation experience.
 
 > "This model proposes four intervals in a cognitive cycle: mind wandering, awareness of mind wandering, shifting of attention, and sustained attention." (Hasenkamp et al., 2012 — [PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/21782031/) — Neuroimage 59(1):750-760)
 
-The compendium's principle reads the cycle as showing where the work of the practice lies: in the noticing and the shift, not in an unwavering focus. That reading is the compendium's application of the model; the study demonstrates the cycle and the experience-related brain differences, not that return speed is the criterion of skill or that each return strengthens anything.
+The compendium uses this model to frame noticing a drift and returning to the chosen focus as parts of practice.
 
 **Plain words**
 A session of focused attention is, on this model, a cycle: focus drifts, you notice, you shift back. The drift is expected; the notice and the shift are parts of the practice, not interruptions to it.

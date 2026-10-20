@@ -41,4 +41,4 @@ As an imagined illustration, a novelist writes from 6 to 8 a.m. with the router 
 
 ## Practice
 
-- Before demanding work, decide what can wait: protect a block of time (the often-suggested 60 to 120 minutes is an optional convention, not an established duration), set distractions aside, and match your most demanding work to your most alert hours.
+- Before demanding work, decide which other tasks can wait, choose a workable time window and set avoidable distractions aside.
