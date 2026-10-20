@@ -124,3 +124,12 @@
 - Related concepts: Autarky (deg 3), Ataraxia (deg 16), descriptive clauses. No reciprocal proposed.
 - Saturation: fast-track skip.
 - No advisor QC required (item 17).
+
+## Frugality
+
+- Fast-track degree 1 (sole edge: D032 psychology-parallels entry).
+- Opened source: Todd, "Towards an Understanding of Frugal Consumers" (UNSW open PDF). Verified verbatim: the Lastovicka et al. 1999 definition (blockquote; secondary carrier via the opened scholarly paper, provenance disclosed on the page — Lastovicka's own JCR paper is paywalled and was NOT opened); the values-profile findings (low-frugality values: social power, authority, public image, pleasure, enjoying life, exciting life, varied life, detachment, social recognition, true friendship; high-frugality: responsibility, social order, unity with nature, protecting the environment, inner harmony); the power/stimulation/hedonism tension sentence; the lifestyle-construct conclusion.
+- SEED CORRECTION: the seed's "stable disposition linked to lower debt and higher life satisfaction" is NOT supported by the opened source (which explicitly reports no debt or life-satisfaction findings); the page presents the definition and values profile instead. The debt/satisfaction claims are recorded here as unverified seed content.
+- Related concepts: Voluntary simplicity (deg 5), Frugal plenty, Autarky. No reciprocal proposed.
+- Saturation: fast-track skip.
+- No advisor QC required (item 18).
