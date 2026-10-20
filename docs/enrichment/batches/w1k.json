@@ -31,10 +31,10 @@
   "Rhythm in experience",
   "Vocabularies as tools",
   "Aristotelian friendship",
-  "Reinforcement schedules (Ferster & Skinner)",
   "Relational Developmental Systems Theory",
   "Revaluation of all values",
-  "Redemption sequences"
+  "Redemption sequences",
+  "Reinforcement schedules (Ferster & Skinner)"
  ],
  "in_progress": null,
  "flagged": {
@@ -61,10 +61,11 @@
   "Perception as interpretation": "namespace-audit: Kant primary and SEP McLear opened; no definition of exact thesis-like heading located; named conceptualism debate is contested. File unchanged; supervisor classification/rename/route needed.",
   "Perception precedes thought": "namespace-audit: opened DeAnimaII/III, dependencies/faculties/images do not define heading as named unit; distinguish chronological thesis from universal rule. File unchanged; supervisor route needed.",
   "Reading the moment": "DEFERRED: namespace classification requested (compendium label for the Zhouyi timing tradition; no authoritative use of the exact heading found; seed restored; see sources/w1k worker-4d7a91c2 ledger)",
-  "Redemption sequences": "Reopened for QC: QC 5-item milestone: verify introduction claims, scope coding sentence, attribute associations to opened carrier"
+  "Redemption sequences": "Reopened for QC: QC 5-item milestone: verify introduction claims, scope coding sentence, attribute associations to opened carrier",
+  "Reinforcement schedules (Ferster & Skinner)": "Reopened for QC: QC 5-item milestone repairs: acquisition claims removed, self-contained quote, BE008 clause simplified"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:42:46+00:00",
+ "updated": "2026-10-20T11:43:22+00:00",
  "band_done": false
 }

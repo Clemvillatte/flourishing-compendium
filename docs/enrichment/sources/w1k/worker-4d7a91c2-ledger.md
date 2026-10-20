@@ -39,3 +39,7 @@
 ### Redemption sequences — QC round 2 repairs (5-item milestone)
 
 - Removed the unsupported historical claims (construct "introduced in McAdams et al. 2001", "developed in The Redemptive Self"): the opened article credits neither; it cites McAdams et al. 2001 for definitions and McAdams 1998/1999 for coding. Re-fetched the article with a claim-verification prompt; all repaired sentences verbatim-grounded (section 2 definitions and associations, section 9 study coding). The seed "McAdams, The Redemptive Self" Sources line retained as bibliography only. Association claims now attributed to the opened carrier with its citations.
+
+### Reinforcement schedules — QC round 2 repairs (5-item milestone)
+
+- Removed the unsupported acquisition-speed claims (the opened sources state extinction and steady-state differences, no acquisition claims; confirmed absent in a claim-verification re-fetch of Baum 2025). Blockquote replaced with the self-contained "Broadly speaking" paragraph (defines both schedule ways before the ratio/interval labels; inducer contextualised by the PIE sentence retained in the source). Ratio-strain and rate sentences verbatim-grounded; added Baum's hunting/gambling/email examples (verbatim-grounded). BE008 clause simplified to a description of the repo's use without endorsing its unverified empirical claims.
