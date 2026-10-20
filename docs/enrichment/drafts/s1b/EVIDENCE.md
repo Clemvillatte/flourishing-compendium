@@ -2,7 +2,7 @@
 
 ## Status
 
-The owner explicitly instructed this session to keep going in response to the proposed D107/B088/P196 s1b assignment. The lane baton is now held by storyteller-caa860fe; candidates are being activated sequentially through story_state.py and validated before readiness. The shared registry remains supervisor-owned, and only the supervisor can publish stories or write principle backlinks.
+The owner explicitly instructed this session to keep going in response to the proposed D107/B088/P196 s1b assignment and requested further qualitative stories. The s1b baton is held by storyteller-caa860fe; the work now includes six narrative objects across the three traditions. See the [current integration manifest and QC status](HANDOFF.md); the shared registry remains supervisor-owned, and only the supervisor can publish stories or write principle backlinks.
 
 ## Candidate dossiers
 
@@ -10,17 +10,22 @@ The owner explicitly instructed this session to keep going in response to the pr
 - **Buddhism, B088:** [The Cowherd After the Harvest](s1b-002.md), a canonical retrospective account linking repeated mental pursuit with inclination and contrasting two forms of watchfulness.
 - **Pragmatism/process, P196:** [The Four Clock Strokes Bergson Had Not Counted](s1b-003.md), a philosophical illustration of an initially uncounted impression guiding numerical reconstruction.
 - **Buddhism, B084:** [The Carpenter, the Corpse, and the Slowing Walker](s1b-004.md), the complete five-simile repertoire from MN 20, including its severe final method and the limits of interpreting it as nonjudgmental treatment.
+- **Pragmatism/process, P194:** [Brekhunov Warms the Man He Underpaid](s1b-005.md), a Tolstoy narrative whose moral opening is interpreted without equating one rescue with universal care.
+- **Daoism, D133:** [The Gulls That Would Not Land](s1b-006.md), a Liezi parable whose narrative and attached commentary remain distinct.
 - **Coordination:** [Scope request, save checkpoints and questions for the supervisor](ROUTE.md).
 
-All three files contain a principle/angle, evidence metadata, a coverage matrix, a sourced retelling, an exact quotation, interpretation limits and QC notes. The lane state records each actual activation and readiness transition; no ST number is assigned by the storyteller.
+All six files contain a principle/angle, evidence metadata, a coverage matrix, a sourced retelling, an exact quotation, interpretation limits and QC notes. The lane state records each actual activation and readiness transition; no ST number is assigned by the storyteller.
 
 ## Validation checkpoint
 
-All three candidates pass `story_check.py --context draft`. The isolated stories-tool suite reports 47 passed and 0 failed; no content files, registry entries, batons, queues or shared tools were changed.
+All six current drafts pass `story_check.py --context draft`. The isolated stories-tool suite was re-run at this milestone: 47 passed, 0 failed. Only lane s1b draft/state/handoff files and its own baton have been changed; no content files, registry entries, global queues or shared tools were changed.
 
-Independent first-candidate review and re-review returned substantive PASS for B088 after clarifications. Milestone review returned substantive PASS for D107; P196 also received substantive PASS on re-review after its reconstruction wording and unclear scan-year corrections. The owner subsequently approved continuation and lane activation. The known MD032/template-checker incompatibility is documented in ROUTE.md; no full Markdown-lint pass is claimed.
+Independent first-candidate review and re-review returned substantive PASS for B088 after clarifications. Milestone review returned substantive PASS for D107, P196 after corrections, B084 after corrections and P194 at the fifth-item checkpoint. Final source/attribution review of D133 is in progress. The known MD032/template-checker incompatibility is documented in ROUTE.md; no full Markdown-lint pass is claimed.
 
 ## Access events
+
+- **P194, Tolstoy:** searched for the Brekhunov/Nikita episode and opened the complete [Maude translation of Master and Man](https://www.gutenberg.org/files/986/986-h/986-h.htm) on 2026-10-21. Read the opening underpayment/benefactor passages and the final sections through both deaths, Nikita's injury and later life. Verified the exact Nikita-is-alive quotation and the non-voluntary, horse-directed return. Opened [Bergson's primary full-text carrier](https://archive.org/stream/twosourcesofmora033499mbp/twosourcesofmora033499mbp_djvu.txt), reading chapter I pp. 27 and 48–50, plus [the Stanford Encyclopedia of Philosophy Bergson entry](https://plato.stanford.edu/entries/bergson/) as a scholarly cross-check. The analogy is explicitly limited to an opening of orientation, not certification of universal love.
+- **D133, Liezi:** searched the sailor/sea-gulls tale and opened the [original Lionel Giles 1912 scan](https://upload.wikimedia.org/wikipedia/commons/1/11/Taoist_teachings_from_the_book_of_Lieh_Tzu;_(IA_taoistteachingsf00liezrich).pdf) on 2026-10-21. Read title-page imprint, printed p. 16 commentary attribution and complete pp. 49–50. The narrative ends with gulls refusing to land; it does not supply a capture or repaired relationship. Chang Chan's attached explanation is distinguished from the narrative rather than promoted to verified animal cognition. A prompt-based extraction was unavailable, so the successful plain full-text fetch and direct reading were used instead.
 
 - **B084 selected replacement:** searched MN 20's five-method images and opened the complete [Thanissaro translation of MN 20](https://www.accesstoinsight.org/tipitaka/mn/mn.020.than.html) on 2026-10-21. Verified all five methods and images, their conditional ordering, repeated concentration result, full concluding mastery/liberation claim, exact slowing-walker quotation and source moral vocabulary. No clinical efficacy claim is added. Duplicate search found only a future-toolbox suggestion in returned s1a-005, not a matching narrative; the proposed story targets B084 rather than s1a's B074.
 

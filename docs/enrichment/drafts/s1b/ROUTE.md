@@ -10,6 +10,8 @@ The owner explicitly approved continuation in response to the proposed D107/B088
 - Buddhism: B088, the Buddha's retrospective training account with two seasonal cowherds; repeated pursuit inclines the mind, without quantifying each thought as a vote.
 - Pragmatism/process: P196, Bergson's four clock strokes recovered by qualitative recognition. This is a different episode from ST120's melody, but the supervisor should judge whether it warrants a new story or enrichment of ST120.
 - Additional story under the owner's continuation instruction: B084, MN 20's complete five-simile repertoire. No matching story found; returned s1a-005 mentions a possible future MN 20 toolbox for B074 but tells the insult episode. Please coordinate reuse of this story rather than commissioning an identical five-simile narrative.
+- Additional Pragmatism/process angle: P194, Tolstoy's Master and Man, interpreted as an opening rather than proof of universal concern; fifth-item independent substantive/source QC PASS.
+- Additional Daoist angle: D133, the Liezi gulls parable, with Chang Chan's commentary distinguished from the story; no corpus duplicate found, final attribution QC in progress.
 
 No principle pages, shared queues, progress files, published stories or another lane's files will be edited. The three previously unqueued candidates are being activated sequentially under lane-local IDs after owner approval, retaining their independent source-fidelity reviews. Readiness does not authorize storyteller registration.
 
@@ -18,6 +20,8 @@ No principle pages, shared queues, progress files, published stories or another 
 Reconcile the owner-approved scope on STORIES-TASKBOARD.md. Ready lane drafts will be submitted here for supervisor-only registration and backlinks; the P196 near-overlap with ST120 remains an integration decision rather than permission to create redundant published content.
 
 ## Review packet and milestone record
+
+The [integration manifest](HANDOFF.md) is the authoritative lane handoff for readiness and supervisor cautions.
 
 - `s1b-004.md` (B084): new complete five-simile narrative in drafting, source opened in full; includes forceful final method, moral vocabulary and explicit limits. Additional independent QC requested. Meghiya was rejected as a duplicate of the newly written s1a-014.
 
