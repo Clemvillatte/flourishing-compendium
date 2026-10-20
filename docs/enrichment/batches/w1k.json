@@ -6,13 +6,13 @@
   "The raft",
   "Abhyasa"
  ],
- "in_progress": null,
+ "in_progress": "Avidya",
  "flagged": {
   "Koan practice": "QC round 3 RESOLVED: Showing versus saying / The limits of language glosses reduced to bare wikilinks (compendium-internal reading only); evidence-note correction: UNPROMPTED raw fetches = SEP section 2 and Mumonkan Case 1 (both retained blockquotes verified verbatim in raw text; two-methods sentence also confirmed); PROMPTED fetches = Wikipedia Koan and Case 29. Advisor round-3: everything else in the reviewed page passes.",
   "Abhyasa": "SEED-LINK DEFECT (supervisor disposition): the seed's links [[P076 — Cultivate craft mastery — skill as embodied knowing]] and [[Y043 — Master one craft, keep growing it]] do not resolve to any principle file; the actual files are 'P076 — When habits conflict, let deliberation do its work' and 'Y043 — Let ethics stabilize the mind' (different principles). Both seed links were garbled/wrong targets. Repair: retargeted both links to the actual files (edge preserved, titles corrected). Transition-commit validation vs the garbled baseline FAILs by design (LOST 2 original links + markup changed); current HEAD validates ok vs 65382ab0. Same defect class repaired on 'The raft' (B128/BI070). Not counted as unresolved; flagged for the supervisor."
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T06:58:35+00:00",
+ "updated": "2026-10-20T06:58:46+00:00",
  "band_done": false
 }
