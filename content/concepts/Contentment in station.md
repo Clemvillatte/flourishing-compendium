@@ -12,8 +12,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ## Related concepts
 
 
+
 - [[Gratitude]] — Stoic satisfaction with what one has
 - [[Broaden-and-build]] — Fredrickson's theory of what positive emotions are for
+- [[Delight in the ordinary]] — finding sufficiency and freshness in plain, repeated things
 ## Sources
 
 - Epictetus, the role-playing counsels of the Discourses

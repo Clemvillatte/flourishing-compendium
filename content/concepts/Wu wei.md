@@ -207,6 +207,7 @@ The philosophical analysis matters because it identifies the structure of the pr
 
 
 
+
 - [[Effortless action through long effort]] — the training-story side of effortless action: Cook Ding and the nineteen-year blade
 - [[Goal adjustment capacity]] — the Daoist non-forcing that knows when to stop
 - [[Movement as life]] — the non-forcing action that movement requires
@@ -214,6 +215,7 @@ The philosophical analysis matters because it identifies the structure of the pr
 - [[The ten thousand things]] — the Tao's non-managing manner toward them
 - [[D012]] — the Daodejing's chapter 8 water image, occupying the low place without striving, is one of the text's own expressions of non-forcing.
 - [[Gelassenheit]] — listed for comparison
+- [[Delight in the ordinary]] — finding sufficiency and freshness in plain, repeated things
 ## Sources
 
 - [Wikipedia, Wu wei](https://en.wikipedia.org/wiki/Wu_wei) — definition, Daodejing chapter references including the chapter 37 formula in Chan and Lau translations, Confucian uses, and Slingerland's dating of the idea.

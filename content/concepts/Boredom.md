@@ -17,3 +17,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 Affect · Psychological science
 [[AF057 — Work with boredom — it is a signal, not a void to fill]]
 [[B181 — Stay with boredom]]
+
+## Related concepts
+
+- [[Delight in the ordinary]] — finding sufficiency and freshness in plain, repeated things

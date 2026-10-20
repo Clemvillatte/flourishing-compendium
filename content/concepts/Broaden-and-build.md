@@ -34,6 +34,7 @@ AF061 "Cultivate positive affect deliberately — it broadens and builds" carrie
 
 
 
+
 - [[Mudita (sympathetic joy)]] — joy taken in others' joy, a broaden-type emotion
 - [[Gratitude]] — a savouring positive emotion in the same family
 - [[Hope]] — the future-oriented member of the family
@@ -44,6 +45,7 @@ AF061 "Cultivate positive affect deliberately — it broadens and builds" carrie
 - [[Eudaimonia]] — the flourishing the built resources serve
 - [[Appraisal theory]] — listed for comparison
 - [[CO013]] — the principle carries the attention-side evidence for the theory's broadening half and pairs it with the stress-narrowing finding
+- [[Delight in the ordinary]] — finding sufficiency and freshness in plain, repeated things
 ## Sources
 
 - [Barbara Fredrickson, "The role of positive emotions in positive psychology: The broaden-and-build theory of positive emotions," American Psychologist 56(3), 2001, pp. 218-226](https://www.prospectivepsych.org/sites/default/files/pictures/Frederickson_Broaden-and-build-2001.pdf) — the theory, the emotion urges, Isen evidence, the undo studies, upward spiral, stated limits

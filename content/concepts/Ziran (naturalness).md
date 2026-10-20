@@ -24,8 +24,10 @@ Two habits follow. First, notice when an action is being forced by external comm
 ## Related concepts
 
 
+
 - [[The ten thousand things]] — what each of the ten thousand is allowed to be
 - [[D151]] — D151's philosophy parallels list links Ziran; the Ziran concept page's citation lists do not include D151 — the reciprocal edge is missing
+- [[Delight in the ordinary]] — finding sufficiency and freshness in plain, repeated things
 ## Sources
 
 

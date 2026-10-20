@@ -1,0 +1,47 @@
+{
+ "batch": "supervisor-recovery-t2",
+ "revision": 1,
+ "reciprocal": [
+  {
+   "into": "content/concepts/Broaden-and-build.md",
+   "link": "Delight in the ordinary",
+   "why": "finding sufficiency and freshness in plain, repeated things"
+  },
+  {
+   "into": "content/concepts/Wu wei.md",
+   "link": "Delight in the ordinary",
+   "why": "finding sufficiency and freshness in plain, repeated things"
+  },
+  {
+   "into": "content/concepts/Ziran (naturalness).md",
+   "link": "Delight in the ordinary",
+   "why": "finding sufficiency and freshness in plain, repeated things"
+  },
+  {
+   "into": "content/concepts/Pu (the uncarved block).md",
+   "link": "Delight in the ordinary",
+   "why": "finding sufficiency and freshness in plain, repeated things"
+  },
+  {
+   "into": "content/concepts/Simplicity.md",
+   "link": "Delight in the ordinary",
+   "why": "finding sufficiency and freshness in plain, repeated things"
+  },
+  {
+   "into": "content/concepts/Contentment in station.md",
+   "link": "Delight in the ordinary",
+   "why": "finding sufficiency and freshness in plain, repeated things"
+  },
+  {
+   "into": "content/concepts/Boredom.md",
+   "link": "Delight in the ordinary",
+   "why": "finding sufficiency and freshness in plain, repeated things"
+  },
+  {
+   "into": "content/concepts/Sati.md",
+   "link": "Delight in the ordinary",
+   "why": "finding sufficiency and freshness in plain, repeated things"
+  }
+ ],
+ "notes": "w1b legacy recovery tranche 2 (Delight in the ordinary family). Original claim-bearing clauses had no recorded evidence in the w1b ledger; replaced with the neutral clause grounded in the concept page's own sourced opening (DDJ 80). Beginner's mind already linked (skipped by reconciliation). Original clauses preserved in drafts/supervisor/w1b-recovery.json. - supervisor-3ef4f549, 2026-10-20"
+}

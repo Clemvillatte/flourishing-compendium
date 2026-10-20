@@ -15,13 +15,14 @@ Sati's cross-tradition family is the attention-traditions: Weil's attention as t
 
 ## Related concepts
 
+
 - [[Mindfulness]] — the secularized descendant
 - [[Right mindfulness]] — sammā sati as the path factor
 - [[Flow]] — absorption without self-consciousness
 - [[Epoché]] — Husserl: the suspension of judgment
 - [[Attention]] — Weil
 - [[Anapanasati (mindfulness of breathing)]] — the flagship practice
-
+- [[Delight in the ordinary]] — finding sufficiency and freshness in plain, repeated things
 ## Sources
 
 - Buddha, Satipaṭṭhāna Sutta (MN 10)

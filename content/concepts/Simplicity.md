@@ -19,8 +19,10 @@ Its aesthetic form is [[Wabi-sabi]], its method [[Via negativa]] (subtraction as
 ## Related concepts
 
 
+
 - [[Natural and necessary]] — the life the necessary desires point to
 - [[D022]] — D022 states the subtract-first method behind the Simplicity page's via negativa and Daoist strand.
+- [[Delight in the ordinary]] — finding sufficiency and freshness in plain, repeated things
 ## Sources
 
 - Daoism
