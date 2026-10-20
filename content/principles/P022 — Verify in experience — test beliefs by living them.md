@@ -38,7 +38,8 @@ Choose a specific, ordinary action you doubt you can perform. Decide what would 
 ## Philosophy parallels
 
 - **[[Verification in experience|Verification in experience]]** (James, Pragmatism)
-- **Experiment as the method of fixing belief** (Peirce, "The Fixation of Belief")- **[[Verificationism|Verificationism]]** (Pragmatism)
+- **Experiment as the method of fixing belief** (Peirce, "The Fixation of Belief")
+- **[[Verificationism|Verificationism]]** (Pragmatism)
 
 
 <!-- fc: reflections

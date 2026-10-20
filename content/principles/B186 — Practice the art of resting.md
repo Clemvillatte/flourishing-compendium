@@ -37,7 +37,7 @@ For the compendium's exercise, notice whether you are tired and what you can pau
 
 ## Psychology parallels
 
-- **[[Recovery experiences|Recovery experiences]]**, psychological detachment and mastery (Sonnentag and Fritz, 2007)
+- **[[Recovery experiences|Recovery experiences]]**
 
 ## Philosophy parallels
 

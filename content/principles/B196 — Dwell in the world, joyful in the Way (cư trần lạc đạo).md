@@ -37,7 +37,7 @@ Choose one routine task and give it your attention. When you find yourself waiti
 
 ## Psychology parallels
 
-- **[[Meaning|Meaning across multiple life roles]]** (Steger, 2012)
+- **[[Meaning|Meaning across multiple life roles]]**
 
 ## Philosophy parallels
 

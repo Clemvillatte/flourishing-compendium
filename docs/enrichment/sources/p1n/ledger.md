@@ -372,3 +372,15 @@ D160 D181 D192 all done, validated, pushed. Advisor QC at items 1, 5, 10, 15
   Killingsworth-Gilbert 2010, P013 Hayes Strosahl Wilson 2011, P022
   Bennett-Levy 2004 (all recorded here as inherited, unopened).
 - Review recorded as PENDING; revised pages pushed for round-3 review.
+
+### Batch QC round 3 (advisor, 2026-10-20)
+- All seven revised bodies PASS (B186, B196, B198, P004, P013, P018, P022);
+  B164 and P024 retain body passes. Full-page inspection round:
+- Reduced to bare wikilinks (inherited empirical tails, unopened): B175
+  Balban 2023 unlinked bullet deleted; B196 Steger 2012; B198 Bryant-Veroff
+  2007 and Kahn 1990; B164 Gilbert 2009 ("predicts psychopathology");
+  B186 Sonnentag-Fritz 2007. Kept: P018 Grossmann tail (PubMed record
+  fetched and read); concept-citation-only entries such as "(Neff, 2003)"
+  and book citations in philosophy parallels, per the established pattern.
+- Fixed inherited formatting: four merged parallel bullets split across
+  B198, P013, P022, P024. Validator: ok vs 71fd7049 for all changed pages.

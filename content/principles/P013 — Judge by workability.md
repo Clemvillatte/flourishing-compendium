@@ -38,7 +38,8 @@ The compendium uses James's question to examine what a belief would imply in pra
 ## Philosophy parallels
 
 - **[[Cash value|Cash value]]** (James, Pragmatism)
-- **Truth as what works** (Schiller, Studies in Humanism)- **[[Pragmatism|Pragmatism]]** (Pragmatism)
+- **Truth as what works** (Schiller, Studies in Humanism)
+- **[[Pragmatism|Pragmatism]]** (Pragmatism)
 - **[[Workability|Workability]]** (Pragmatism)
 
 

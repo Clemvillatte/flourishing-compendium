@@ -37,13 +37,14 @@ Name one condition you have been waiting for before beginning a practice. Identi
 
 ## Psychology parallels
 
-- **[[Savoring|Savoring the present]]** (Bryant and Veroff, 2007)
-- **[[Personal engagement|Personal engagement]]**, presence while performing a role (Kahn, 1990)
+- **[[Savoring|Savoring the present]]**
+- **[[Personal engagement|Personal engagement]]**
 
 ## Philosophy parallels
 
 - **[[Pure experience|Pure experience]]** (Nishida, An Inquiry into the Good)
-- **The present as the only address** (Augustine, Confessions XI)- **[[Nirvana|Nirvana]]** (Buddhism, SN 56.11)
+- **The present as the only address** (Augustine, Confessions XI)
+- **[[Nirvana|Nirvana]]** (Buddhism, SN 56.11)
 
 
 <!-- fc: reflections

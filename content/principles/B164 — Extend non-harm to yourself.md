@@ -39,7 +39,7 @@ As a compendium exercise, notice how you address yourself after a mistake. Consi
 ## Psychology parallels
 
 - **[[Self-compassion|Self-compassion]]** (Neff, 2003)
-- **[[Harsh self-criticism|Harsh self-criticism]]**, predicts psychopathology (Gilbert, 2009)
+- **[[Harsh self-criticism|Harsh self-criticism]]**
 
 ## Philosophy parallels
 
