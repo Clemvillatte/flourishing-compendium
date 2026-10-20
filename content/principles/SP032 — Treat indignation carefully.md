@@ -12,7 +12,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 32** — Treat indignation carefully
 
-Spinoza defines indignation as "hatred towards one who has done evil to another" ([Ethics III, Definitions of the Emotions, XX](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm)). The definition classifies the emotion as hatred and identifies its object: evil done to someone else. The exercise below is a practical question about possible responses.
+Spinoza defines indignation as "hatred towards one who has done evil to another" ([Ethics III, Definitions of the Emotions, XX](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm)). The exercise below is a practical question about possible responses.
 
 > Indignation is hatred towards one who has done evil to another.
 >
@@ -22,7 +22,7 @@ Spinoza defines indignation as "hatred towards one who has done evil to another"
 
 ### Plain words
 
-The definition is short: hatred aimed at someone who wronged another person. Beyond the definition, the opened text does not say how the feeling operates. For an exercise, take one indignation you are carrying and ask what response the situation calls for.
+For an exercise, recall a wrong done to someone else. Who is your hostility directed at? What response does the situation call for?
 
 For example: Indignant at a policy change, a person might write to the official, join a group already working on the issue, or argue about it online. The exercise asks which of these the situation calls for. (An invented illustration.)
 ## Psychology parallels
