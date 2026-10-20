@@ -29,8 +29,8 @@ The whip theory says the whipping is what keeps standards up. The experiment did
 
 ## Psychology parallels
 
-- **Self-kindness vs self-judgment**, self-kindness is associated with better motivation and outcomes; self-judgment is associated with avoidance and depression (Neff, 2003; Neff et al., 2005)
-- **Self-compassion improves motivation after failure**, self-compassionate people are more motivated to improve after failure, not less (Breines & Chen, 2012; Neff et al., 2005)
+- **Self-judgment's negative consequences**, the construct is proposed to protect against the negative consequences of self-judgment, isolation, and rumination (such as depression) (Neff, 2003, abstract, proposal)
+- **Self-compassion and motivation after failure**, participants induced to be self-compassionate after failure showed greater self-improvement motivation, including more time studying after a failed test (Breines & Chen, 2012, abstract)
 
 ## Philosophy parallels
 

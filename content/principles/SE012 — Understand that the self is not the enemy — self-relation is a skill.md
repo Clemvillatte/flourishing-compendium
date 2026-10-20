@@ -28,8 +28,8 @@ The harsh inner voice feels like a fact of your mental furniture, but Neff's com
 
 ## Psychology parallels
 
-- **[[Self-compassion|Self-compassion as trainable skill]]**, the capacity to treat oneself with kindness is learnable and improves well-being (Neff, 2003, 2011; Zessin et al., 2015)
-- **Self-criticism is associated with worse mental health**, harsh self-criticism predicts depression, anxiety, and poor outcomes (Gilbert et al., 2004; Shahar et al., 2012)
+- **[[Self-compassion|Self-compassion as trainable skill]]** — the construct's three components are defined in the literature; the cited abstract does not test trainability (Neff, 2003, abstract)
+- **Self-judgment's negative consequences**, the construct is proposed to protect against the negative consequences of self-judgment, isolation, and rumination (such as depression) (Neff, 2003, abstract, proposal)
 
 ## Philosophy parallels
 
@@ -39,7 +39,7 @@ The harsh inner voice feels like a fact of your mental furniture, but Neff's com
 
 ## Practice
 
-- Notice how you talk to yourself. Is it how you would talk to a friend? If not, practise changing the tone. Self-relation is a skill that can be trained.
+- Notice how you talk to yourself. Is it how you would talk to a friend? If not, practise changing the tone.
 
 ## Practice kernels
 

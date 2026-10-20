@@ -26,6 +26,8 @@ Try describing a painful feeling without making it a verdict about your identity
 
 - [Neff, K. (2003), Self-Compassion: An Alternative Conceptualization of a Healthy Attitude Toward Oneself, Self and Identity 2(2), 85-101 (publisher abstract page)](https://www.tandfonline.com/doi/abs/10.1080/15298860309032) — mindfulness component definition and rumination proposal, abstract
 - [Daodejing 16, James Legge translation (Terebess Asia Online)](http://www.terebess.hu/english/tao/legge.html) — "The (state of) vacancy should be brought to the utmost degree, and that of stillness guarded with unwearying vigour. All things alike go through their processes of activity, and (then) we see them return (to their original state)."
+- [Satipatthana Sutta (MN 10), Thanissaro Bhikkhu translation (Access to Insight)](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html) — "the four frames of reference... ardent, alert, & mindful"
+- [Dhammacakkappavattana Sutta (SN 56.11), Thanissaro Bhikkhu translation (Access to Insight)](https://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html) — "Precisely this Noble Eightfold Path... This is the middle way"
 
 ## Psychology parallels
 
@@ -34,9 +36,9 @@ Try describing a painful feeling without making it a verdict about your identity
 
 ## Philosophy parallels
 
-- **[[Right mindfulness|Right mindfulness]]** (Buddhism, Satipatthana Sutta)
-- **[[The middle path|The middle way between suppression and indulgence]]** (Buddhism)
-- **[[Wu wei|Wu wei as balanced awareness]]** (Daoism, Daodejing 16)
+- **[[Right mindfulness|Right mindfulness]]**, the four frames of reference: body, feelings, mind, mental qualities, observed ardent, alert and mindful (Buddhism, Satipatthana Sutta, MN 10)
+- **[[The middle path|The middle way between suppression and indulgence]]** — a compendium comparison; the Dhammacakkappavattana Sutta defines the middle way as the Noble Eightfold Path (Buddhism, SN 56.11)
+- **[[Wu wei|Wu wei as balanced awareness]]** — a suggested compendium comparison; the cited chapter describes stillness and observing return, it does not define wu wei as Neff's balanced awareness (Daoism, Daodejing 16, Legge)
 
 ## Practice
 

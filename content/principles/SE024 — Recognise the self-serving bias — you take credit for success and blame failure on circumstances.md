@@ -30,7 +30,6 @@ The mind keeps the score with a thumb on the scale: my wins were skill, my losse
 ## Psychology parallels
 
 - **[[Self-serving attribution bias|Self-serving attribution bias]]**, people attribute success to themselves and failure to external factors (Miller & Ross, 1975; Mezulis et al., 2004)
-- **Attributions shape subsequent behaviour**, a review of attribution research in industrial and organizational psychology documents that attributions play a significant role in behaviours central to the field, including training and performance appraisal (Martinko et al., 2006)
 
 ## Philosophy parallels
 
