@@ -12,13 +12,23 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 449** — Practise Sisyphus happy
 
-Imagine Sisyphus at the bottom of the hill, about to begin again. Camus says: "One must imagine Sisyphus happy." The happiness of Sisyphus is not the absence of suffering but the fullness of engagement, the dignity of the struggle itself. Find your Sisyphean task and embrace it.
+> The struggle itself toward the heights is enough to fill a man's heart. One must imagine Sisyphus happy.
 
-(Camus, 1942/1955, The Myth of Sisyphus, concluding chapter.)
+(Camus, The Myth of Sisyphus, final chapter, trans. O'Brien; [text of the chapter](https://www.d.umn.edu/~tbacig/cst1010/chs/camus.html), p. 123 in the Vintage edition per the [Stanford Encyclopedia](https://plato.stanford.edu/entries/camus/).)
 
-**Plain words** "One must imagine Sisyphus happy." The happiness isn't the absence of suffering — it's the fullness of engagement, the dignity of the struggle itself. Find your Sisyphean task and embrace it: the hill, the boulder, the eternal return of both.
+The happiness Camus describes starts from clear sight. Sisyphus walks back down to the rock and "that hour like a breathing-space which returns as surely as his suffering, that is the hour of consciousness." Camus asks what his torture would be if hope of succeeding upheld him at every step, and says that at those moments Sisyphus is "superior to his fate." Camus adds that "his fate belongs to him. His rock is his thing."
 
-*For example:* The parent of the disabled child, the teacher of the hard class, the writer of the unread series — the ones who keep pushing not because the summit is reachable but because the pushing has become theirs. Camus's wager is that this is a real happiness.
+This does not say suffering is secretly pleasant. The sentence is an instruction to the reader: "one must imagine" him happy. The task does not become light, but it becomes yours when you stop waiting for it to end.
+
+**Plain words** Some work comes back every day and never finishes. Camus does not tell you to pretend it will end. He asks you to see the task plainly, with no hope of a finish line, and to treat it as yours. His claim is that the effort can then be enough.
+
+*For example:* A teacher with a hard class knows next year's class will arrive too. She can spend the year waiting for the work to be over, or she can treat the daily teaching as the thing itself.
+
+## Sources
+
+- [Camus, A. The Myth of Sisyphus, "The Myth of Sisyphus" (trans. J. O'Brien), chapter text](https://www.d.umn.edu/~tbacig/cst1010/chs/camus.html) — all quotations above
+- [Stanford Encyclopedia of Philosophy, Albert Camus, section 3.4](https://plato.stanford.edu/entries/camus/) — page locator for the closing lines (MS, 123)
+
 ## Psychology parallels
 
 - **[[Engagement|Engagement and flow]]** (Csikszentmihalyi, 1990)
