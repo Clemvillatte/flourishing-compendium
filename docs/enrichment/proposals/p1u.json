@@ -2,6 +2,12 @@
  "inline": [],
  "reciprocal": [
   {
+   "into": "Creativity",
+   "link": "P114",
+   "why": "Maslow's account distinguishes everyday creativeness from artistic achievement and considers openness in ordinary activities.",
+   "_audit_why": "Creativity read and lacks P114; P114 links it in original psychology and philosophy parallels. Hansen commentary opened and transparently quoted."
+  },
+  {
    "into": "Self-sufficiency",
    "link": "D105",
    "why": "D105 reads Xu You's refusal of the throne as a test of whether an acquisition serves a need.",
