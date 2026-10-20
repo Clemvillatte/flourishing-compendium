@@ -111,6 +111,20 @@
       "phrase": "a morning intention",
       "source": "w1a worker-w1a-4c8e21d7",
       "why": "Daily architecture's opening prose names the morning intention without linking the concept page; rg-verified unique occurrence"
+    },
+    {
+      "concept": "Nature exposure",
+      "into": "Environmental psychology",
+      "phrase": "nature exposure effects",
+      "source": "w1a worker-w1a-4c8e21d7",
+      "why": "prose names the concept with its own anchor citations without linking the concept page; rg-verified unique occurrence"
+    },
+    {
+      "concept": "Nature exposure",
+      "into": "Recovery science",
+      "phrase": "nature exposure",
+      "source": "w1a worker-w1a-4c8e21d7",
+      "why": "prose names the concept among recovery modes without linking the concept page; rg-verified unique occurrence"
     }
   ],
   "reciprocal": [
@@ -243,6 +257,30 @@
     {
       "concept": "Morning intention",
       "target": "Right intention",
+      "source": "w1a worker-w1a-4c8e21d7",
+      "why": "new Related entry; reciprocal of the concept's Related extension"
+    },
+    {
+      "concept": "Nature exposure",
+      "target": "Rumination",
+      "source": "w1a worker-w1a-4c8e21d7",
+      "why": "new Related entry; reciprocal of the concept's Related extension"
+    },
+    {
+      "concept": "Nature exposure",
+      "target": "Attention restoration",
+      "source": "w1a worker-w1a-4c8e21d7",
+      "why": "new Related entry; reciprocal of the concept's Related extension"
+    },
+    {
+      "concept": "Nature exposure",
+      "target": "Restorative environments",
+      "source": "w1a worker-w1a-4c8e21d7",
+      "why": "new Related entry; reciprocal of the concept's Related extension"
+    },
+    {
+      "concept": "Nature exposure",
+      "target": "Green exercise (Barton, Pretty)",
       "source": "w1a worker-w1a-4c8e21d7",
       "why": "new Related entry; reciprocal of the concept's Related extension"
     }
