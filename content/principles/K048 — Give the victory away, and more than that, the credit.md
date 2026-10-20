@@ -12,13 +12,20 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 48** — Give the victory away, and more than that, the credit
 
-The practice of the defeated self-image: in disputes, train in letting the other person be right, or at least be heard, and in ceding the credit for joint work to others, deliberately, as training rather than as loss. The tradition's reasoning is mechanical rather than saintly: the credit-hoarding self is a heavy apparatus to carry, and most of its weight is carried by you. Practically, in the next dispute you could win, run the experiment of conceding gracefully, and log what actually happens to your standing and your peace.
+The verse is from the Eight Verses of Training the Mind by the Kadampa master Geshe Langri Thangpa (1054-1123):
 
-(Shantideva, Bodhicharyavatara, ch. 8, the defeat-verses; the lojong slogan of taking the loss upon yourself.)
+> "Whenever someone out of envy / Does me wrong by attacking or belittling me, / I will take defeat upon myself, / And give the victory to others." (Geshe Langri Thangpa, Eight Verses of Training the Mind, verse 5, [Rigpa Translations, Lotsawa House](https://www.lotsawahouse.org/tibetan-masters/geshe-langri-thangpa/eight-verses-training-mind))
 
-**Plain words** In disputes, let the other person be right, or at least heard, and give credit for joint work to others deliberately, as training, not as loss. The reasoning isn't saintly. The credit-hoarding self is a heavy thing to carry, and most of its weight is upkeep.
+The verse sits in a text that trains the same stance from the other side: "Whenever I'm in the company of others, / I will regard myself as the lowest among all, / And from the depths of my heart / Cherish others as supreme" (verse 2). The defeat-taking is not directed at self-hatred; it is aimed at the moment of attack or belittling, where the ordinary move is to answer and win. ([Eight Verses](https://www.lotsawahouse.org/tibetan-masters/geshe-langri-thangpa/eight-verses-training-mind))
 
-*For example:* After a successful project, you name your colleague's contribution in the meeting before she has to, and feel lighter on the walk home.
+**Plain words**
+The verse trains a specific move: when someone belittles you, take the loss on yourself and hand them the win. The compendium's extension to credit is an application of the same move: name your colleague's contribution before she has to. As training rather than loss, run the experiment once in a dispute you could win, and concede gracefully.
+
+For example: After a successful project, you name your colleague's contribution in the meeting before she has to.
+
+## Sources
+
+- [Geshe Langri Thangpa, Eight Verses of Training the Mind (Lotsawa House)](https://www.lotsawahouse.org/tibetan-masters/geshe-langri-thangpa/eight-verses-training-mind) — Rigpa Translations, revised 2012; verses 2 and 5
 
 ## Psychology parallels
 
