@@ -7,7 +7,15 @@ file: "The dark night"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-“The dark night” — John of the Cross, Dark Night of the Soul.
+The dark night is John of the Cross's name for the stretch of the contemplative road in which God is experienced as darkness and purgation ([Dark Night of the Soul, CCEL](https://ccel.org/ccel/john_cross/dark_night.all.html)). The phrase comes from his poem on a soul going out at night to meet its beloved; the prose commentary that follows reads the night as the soul's purgation, treated in two stages, the night of sense and the night of spirit ([CCEL](https://ccel.org/ccel/john_cross/dark_night.all.html)).
+
+John's definition of the second night:
+
+> "THIS dark night is an inflowing of God into the soul, which purges it from its ignorances and imperfections, habitual natural and spiritual, and which is called by contemplatives infused contemplation, or mystical theology." (John of the Cross, Dark Night of the Soul, Book II, [CCEL full text](https://ccel.org/ccel/john_cross/dark_night.all.html))
+
+The darkness is not abandonment but treatment: "although this happy night brings darkness to the spirit, it does so only to give it light in everything; and, although it humbles it and makes it miserable, it does so only to exalt it and to raise it up" ([CCEL](https://ccel.org/ccel/john_cross/dark_night.all.html)). The poem's fifth stanza gives the paradox its shape: "Oh, night that guided me, Oh, night more lovely than the dawn, Oh, night that joined Beloved with lover, Lover transformed in the Beloved!" ([CCEL](https://ccel.org/ccel/john_cross/dark_night.all.html)).
+
+The compendium files the night under its principles on expecting the collapse of meaning (K008), on engaging rather than withdrawing in depression (BE032), and on depression's and trauma's effects on attention and self-view (AT071, AT072, SE071, SE072).
 
 ## Facets
 
@@ -20,7 +28,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 ## Sources
 
-- John of the Cross, Dark Night of the Soul
+- [John of the Cross, Dark Night of the Soul, CCEL full text](https://ccel.org/ccel/john_cross/dark_night.all.html) — the blockquote (Book II definition), the illumination passage, and the poem stanzas.
 - St John of the Cross
 
 [[BI013 — Prioritise sleep as the foundation of mental health]]
@@ -34,4 +42,3 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 - [[AT072 — Recognise trauma's effect on attention — hypervigilance]]
 - [[SE071 — Recognise self and trauma — trauma fragments self]]
 - [[SE072 — Recognise self and depression — depression distorts self-view]]
-- - - - 
