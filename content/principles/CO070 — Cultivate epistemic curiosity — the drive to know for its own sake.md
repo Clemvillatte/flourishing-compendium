@@ -12,11 +12,23 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 ---
 > **Principle 70** — Cultivate epistemic curiosity: the drive to know for its own sake
 
-Curiosity — the desire to know, understand, and explore — is a core cognitive motivation. It is associated with better learning, more accurate beliefs, and higher well-being. Curiosity about how things work (including your own mind) is a foundation of wisdom.
+The evidence for this principle is mostly about learning, and it is consistent. Kang and colleagues scanned people while they read trivia questions. Curiosity was "correlated with activity in caudate regions previously suggested to be involved in anticipated reward", and "higher curiosity in an initial session was correlated with better recall of surprising answers 1 to 2 weeks later" (Kang et al., 2009, abstract, [Psychological Science 20](https://pubmed.ncbi.nlm.nih.gov/19619181/)). People also "spent more scarce resources (either limited tokens or waiting time) to find out answers when they were more curious".
 
-**Plain words** Epistemic curiosity: the drive to know and understand for its own sake — associated with better learning, more accurate beliefs, higher wellbeing. Curiosity is the engine of the entire update loop. Feed it; protect it from the content feed.
+Gruber, Gelman and Ranganath found in two memory tests, one immediate and one a day later, that "participants showed improved memory for information that they were curious about and for incidental material learned during states of high curiosity". Midbrain and nucleus accumbens activity rose in high-curiosity states, and the authors suggest "a link between the mechanisms supporting extrinsic reward motivation and intrinsic curiosity" (Gruber et al., 2014, abstract, [Neuron 84](https://pubmed.ncbi.nlm.nih.gov/25284006/)).
 
-*For example:* The person whose curiosity has been captured by the outrage machine — curiosity's form without its function — versus the one who still asks real questions and goes three sources deep. Same drive; one of them is learning, the other is being farmed.
+These are laboratory studies, and their abstracts report effects on memory. They do not show that curiosity makes you wiser or happier, and I found no source I could open that does.
+
+**Plain words**
+Wanting to know something makes you better at learning it, and also at picking up whatever comes along while you are wondering. So it helps to ask a real question before you read or listen.
+
+**For example**
+Before opening a long article, write one question you want it to answer. You are more likely to remember the answer, and the odd facts you pick up along the way.
+
+## Sources
+
+- [Kang et al., The wick in the candle of learning: epistemic curiosity activates reward circuitry and enhances memory, Psychological Science 20(8) (2009), 963-973, PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/19619181/): abstract only
+- [Gruber, Gelman and Ranganath, States of curiosity modulate hippocampus-dependent learning via the dopaminergic circuit, Neuron 84(2) (2014), 486-496, PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/25284006/): abstract only
+
 ## Psychology parallels
 
 - **[[Curiosity|Curiosity and learning]]**, curiosity enhances memory and learning (Kang et al., 2009; Gruber et al., 2014)

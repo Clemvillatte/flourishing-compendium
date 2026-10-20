@@ -32,3 +32,7 @@ No separate advisor tool available to this session; quotes are checked programma
 ## CO067
 - Bechara et al. 1997 Science, Yap et al. 2017 JPSP: PubMed abstracts, quotes exact. Lucas & Lawless 2013 JPSP 104(5): PMC full text (abstract quote and description of Schwarz & Clore 1983 as relayed there). Schwarz & Clore 1983 itself NOT opened; Schwarz 2012 (inherited parallel) not opened.
 - Limits: example hypothetical.
+
+## CO070
+- Kang et al. 2009, Gruber et al. 2014: PubMed abstracts, quotes exact (authors confirmed). 
+- Limits: statement's claims about 'more accurate beliefs' and 'higher well-being' not supported by any source I could open (Loewenstein 1994 PDF has no text layer; Kashdan/Steger not in PubMed). Body states this openly rather than asserting it. Candidate for owner: add Kashdan & Steger 2007 or Kashdan et al. 2018 if PDF supplied.
