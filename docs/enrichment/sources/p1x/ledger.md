@@ -158,7 +158,7 @@ Core prose (body per QC round-1 replacement text, VI.9 blockquote + IV.21 inline
 **Reciprocal candidates:** SE017 (evidence page for the same study; public body). Pending supervisor.
 **QC:** standard checks; validator caught a lost wikilink ([[Self-compassion|self-compassion]]) and it was restored in exact original form.
 ### SE028 — Learn mindful self-awareness (milestone QC)
-**Pending milestone acceptance.**
+**ACCEPT (milestone QC, round 5, four-page scope: SE012, SE024, SE027, SE028).**
 **Sources opened:** Neff 2003, publisher abstract page (opened for SE012, same session), https://www.tandfonline.com/doi/abs/10.1080/15298860309032 — mindfulness component definition and rumination proposal, abstract. Fresco et al. 2007 and Neff 2011 NOT opened; the over-identification-amplifies bullet was narrowed to the abstract's proposal instead.
 **Milestone advisor QC:** CONDITIONAL verdict at first pass; all requested revisions applied to SE028 and regression fixes to SE012, SE024, SE027 (see notes in proposals file). Resubmitted.
 **Assertions dropped:** "Both poles lose the information the feeling carries" (unsupported mechanism); grief-trajectory example; "study time predicted performance" (SE027); trainability/"most adjustable relationship" claims (SE012); "nearly universal" (SE024); p. 85 locators replaced with "abstract" (SE012, SE028).
