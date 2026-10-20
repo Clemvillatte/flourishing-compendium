@@ -58,3 +58,11 @@ Opened: Aristotle, Nicomachean Ethics Book III (W. D. Ross trans.), MIT Classics
 - Rewrite: body re-centred on the III.2 reveal line (old body was the build-your-character reading with the non-Aristotelian "character becomes destiny" formula, removed); Plain words re-derived (harder-to-fake framing); For example (walking) kept, it matches III.5. Front-matter, reflections, both psychology wikilinks and the Sartre wikilink preserved. Validator ok, 157 prose words, 0 dashes.
 - SATURATE: mention hunt run; Existence preceds essence concept and the A-S05 layer already link A062 structurally; no underlinked targets found; no new reciprocals proposed.
 - Advisor QC: not due (item 3; next milestone at item 5).
+
+## A082 — Distinguish good pleasures from bad pleasures
+
+Opened: Aristotle, Nicomachean Ethics Book X (W. D. Ross trans.), MIT Classics https://classics.mit.edu/Aristotle/nicomachaen.10.x.html, X.5 fetched and quoted from the fetched page text.
+- Verbatim fragments: "so, too, are the pleasures; for to each activity there is a proper pleasure"; "The pleasure proper to a worthy activity is good and that proper to an unworthy activity bad"; "bound up with the activity it completes"; "is intensified by its proper pleasure"; "injured by alien pleasures"; "pleasures seem, too, to differ in kind".
+- Rewrite: body re-centred on the completing-activity test; Plain words re-derived (what-is-this-the-pleasure-of question); For example kept (matches). Front-matter, reflections, both wikilinks preserved. Validator ok, 137 prose words, 0 dashes.
+- SATURATE: mention hunt run; A082 sits in the pleasure-family (A081/A088/A093) with layer links; no Pleasure concept page exists; no underlinked targets found; no new reciprocals proposed.
+- Advisor QC: not due (item 4; next milestone at item 5).

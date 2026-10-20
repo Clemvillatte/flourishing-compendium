@@ -12,13 +12,19 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 82** — Distinguish good pleasures from bad pleasures
 
-The same activity can produce pleasure in a good person and a bad person, but the pleasure is different. The pleasure of the virtuous person completes a worthy activity; the pleasure of the vicious person completes a base one. Be mindful of what your pleasures are completing.
+Aristotle's test is what the pleasure finishes. Activities differ in worth, "so, too, are the pleasures; for to each activity there is a proper pleasure" (NE X.5). His rule follows directly: "The pleasure proper to a worthy activity is good and that proper to an unworthy activity bad". Pleasure is not a separate good added on top; it is "bound up with the activity it completes", and an activity "is intensified by its proper pleasure" and "injured by alien pleasures" (X.5).
 
-(NE X.5.)
+That is why two enjoyments that feel alike can differ in kind: "pleasures seem, too, to differ in kind" because the activities they complete differ. Winning against a rival you respect completes an activity of excelling; enjoying that rival's failure completes something else, and each pleasure carries its activity's worth.
 
-**Plain words** Two people can enjoy the same thing, but the pleasure differs. The good person's pleasure completes something worthwhile. The bad person's completes something low. So notice what your pleasures are finishing.
+(NE X.5, W. D. Ross translation.)
+
+**Plain words** A pleasure is never just a feeling; it comes attached to the thing you are doing. Ask of any enjoyment: what is this the pleasure of? Winning a fair contest and gloating over someone's defeat can feel similar from the inside, but they finish different activities, and on Aristotle's account the pleasure takes its worth from the one it finishes.
 
 *For example:* Enjoying a competition with a rival you respect is not the same as enjoying their failure, though both feel like "winning."
+
+## Sources
+
+- [Aristotle, Nicomachean Ethics Book X, W. D. Ross translation, MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html) — X.5
 
 ## Psychology parallels
 
