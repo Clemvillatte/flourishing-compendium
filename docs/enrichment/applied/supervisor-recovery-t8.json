@@ -1,0 +1,37 @@
+{
+ "batch": "supervisor-recovery-t8",
+ "revision": 1,
+ "reciprocal": [
+  {
+   "into": "content/concepts/Temperance.md",
+   "link": "Courage",
+   "why": "one of the four cardinal virtues: acting well in the face of fear"
+  },
+  {
+   "into": "content/concepts/Virtue.md",
+   "link": "Courage",
+   "why": "one of the four cardinal virtues: acting well in the face of fear"
+  },
+  {
+   "into": "content/concepts/Habituation.md",
+   "link": "Courage",
+   "why": "one of the four cardinal virtues: acting well in the face of fear"
+  },
+  {
+   "into": "content/concepts/Vulnerability.md",
+   "link": "Courage",
+   "why": "one of the four cardinal virtues: acting well in the face of fear"
+  },
+  {
+   "into": "content/concepts/Hope.md",
+   "link": "Courage",
+   "why": "one of the four cardinal virtues: acting well in the face of fear"
+  },
+  {
+   "into": "content/concepts/Shame.md",
+   "link": "Courage",
+   "why": "one of the four cardinal virtues: acting well in the face of fear"
+  }
+ ],
+ "notes": "w1b legacy recovery tranche 8 (Courage family). Original claim-bearing clauses unevidenced in the w1b ledger; neutral clause grounded in the concept page's own sourced opening (Aristotle NE III.6-9). Fear + Graded exposure already linked (skipped). - supervisor-3ef4f549, 2026-10-20"
+}
