@@ -29,6 +29,6 @@
   "SCOPE_CORRECTION": "Manifest correct; worker misread B IDs. B152/B137/B149 restored in 1f71a89a; ignore erroneous done/flags for B125 B137 B139 B140 B149 B152 B157 B163 B164 B165. Supervisor may reconcile via approved tooling; details in p1u ledger."
  },
  "missing_concepts": [],
- "sources_checked": 21,
- "updated": "2026-10-20T02:31:17+00:00"
+ "sources_checked": 23,
+ "updated": "2026-10-20T02:32:12+00:00"
 }

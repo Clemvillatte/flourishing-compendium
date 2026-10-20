@@ -12,13 +12,25 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 104** — Practice patience (kshanti)
 
-Patience is not gritted endurance but an open capacity to stay with difficulty without resentment: the opposite of anger, and its cure.
+Shantideva's chapter on patience challenges the reasons for becoming angry. Verse 6.10 asks what dejection contributes, whether the difficulty can be remedied or not ([Padmakara translation, Tsadra](https://bodhicitta.tsadra.org/index.php/Explore/Cultivating_Patience)):
 
-(Shantideva, Bodhicaryavatara 6; Dhammapada 184.)
+> If there’s a remedy when trouble strikes,
+> What reason is there for dejection?
+> And if there is no help for it,
+> What use is there in being glum?
 
-**Plain words** Patience isn't gritted endurance — it's an open capacity to stay with difficulty without resentment. It's the opposite of anger, and its cure. Gritted teeth are just anger in a waiting room.
+(Bodhicaryavatara 6.10, Padmakara Translation Group, [Tsadra](https://bodhicitta.tsadra.org/index.php/Explore/Cultivating_Patience).)
 
-*For example:* The parent who stays warm through the fourth toddler meltdown of the day — not clenched, just spacious. That's the real thing.
+Dhammapada 184 calls enduring patience the highest austerity and rejects harming or oppressing others as the conduct of a true renunciate ([Buddharakkhita](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.14.budd.html)). Read together here, these passages invite examining a response before acting on anger. They do not make a distressed person's inability to feel cheerful a moral failure.
+
+**Plain words** When something goes wrong, first ask what can be done about it. You may still feel angry or disappointed. Can you address the problem without choosing words or actions intended to hurt someone?
+
+*For example:* Imagine arriving for an appointment and learning that it has been cancelled. You ask what happened and arrange another time, rather than insulting the receptionist. Patience here does not require pretending the wasted journey was welcome.
+
+## Sources
+
+- [Shantideva, Bodhicaryavatara 6.10, Padmakara Translation Group, quoted by Tsadra](https://bodhicitta.tsadra.org/index.php/Explore/Cultivating_Patience).
+- [Dhammapada 184, translated by Buddharakkhita](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.14.budd.html).
 
 ## Psychology parallels
 

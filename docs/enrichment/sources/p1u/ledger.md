@@ -67,6 +67,24 @@ scope error and restoration to the owner.
 - Saturation: Gradual training already cites B059. Leisure's missing
   backlink was not proposed on the strength of unverified Pieper claims.
 
+## B104: Practice patience (2026-10-20)
+
+- Membership verified. Search "Shantideva patience 6.10 remedy unhappy".
+  Lotsawa chapter-6 fetch failed; not used. Opened Tsadra's curated primary
+  excerpts: https://bodhicitta.tsadra.org/index.php/Explore/Cultivating_Patience .
+  Verse 6.10 is an exact four-line Padmakara quotation, including curly
+  apostrophe; source supplies translators and 2006 edition.
+- Opened https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.14.budd.html ,
+  verse 184, Buddharakkhita. Patience/harm/renunciate summary is supported.
+- Replaced seed's guaranteed cure and perfectly-warm-parent standard.
+  Distress boundary is editorial; appointment example is imagined, with no
+  predicted emotion-regulation or well-being effect.
+- Inherited Patience alias containing "predicting well-being" preserved as
+  protected wikilink markup, not independently verified. Schnitker/Emmons,
+  Kierkegaard and La Rochefoucauld comparisons unverified.
+- Saturation: Patience already cites B104. Meekness lacks it but no new
+  reciprocal proposed based on the unverified cross-tradition comparison.
+
 ## D105: Need little (2026-10-20)
 
 - Opened using web search followed by fetch: James Legge, Zhuangzi chapter 1,
