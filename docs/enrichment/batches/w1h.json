@@ -24,7 +24,8 @@
   "Coping flexibility",
   "Critique of the unencumbered self",
   "Cross-cultural variations in conceptions of happiness",
-  "Curiosity"
+  "Curiosity",
+  "Drive-reduction theory"
  ],
  "in_progress": null,
  "flagged": {
@@ -51,10 +52,11 @@
   "Coping flexibility": "fast-track; evidence: Cheng, Lau & Chan 2014 Psychological Bulletin meta-analysis, PubMed abstract (25222637) opened this session; conceptualizations list, effect size r=.23 and moderation findings verbatim from the abstract; no advisor QC due (item 21; next QC at item 25)",
   "Critique of the unencumbered self": "fast-track; evidence: Sandel interview (sourcesjournal.org, Spring 2021) opened this session — Sandel's own definition of the unencumbered self verbatim; SEP Communitarianism section 2 passage verbatim (same opened source as item 14); Democracy's Discontent citation kept inherited/unverified in Sources; no advisor QC due (item 22; next QC at item 25)",
   "Cross-cultural variations in conceptions of happiness": "fast-track; evidence: Joshanloo 2014 J Happiness Stud SpringerLink abstract opened this session, quoted verbatim in full; full text paywalled, six differences identified but not enumerated in the abstract (scope noted in Sources); inherited SO044 related line kept as-is; no advisor QC due (item 23; next QC at item 25)",
-  "Curiosity": "fast-track; evidence: Aristotle Metaphysics I.2 982b Ross translation (ELLOPOS full text) opened this session, wonder passage verbatim; Golman & Loewenstein author-hosted paper (cmu.edu) opened this session, information-gap statement verbatim; seed's 'shadow: restless novelty-seeking' claim dropped (no opened source supports it); Wikipedia seed citation line kept inherited/unverified; no seed wikilinks existed, compendium links added (B092, BE066, CO070); no advisor QC due (item 24; next QC at item 25)"
+  "Curiosity": "fast-track; evidence: Aristotle Metaphysics I.2 982b Ross translation (ELLOPOS full text) opened this session, wonder passage verbatim; Golman & Loewenstein author-hosted paper (cmu.edu) opened this session, information-gap statement verbatim; seed's 'shadow: restless novelty-seeking' claim dropped (no opened source supports it); Wikipedia seed citation line kept inherited/unverified; no seed wikilinks existed, compendium links added (B092, BE066, CO070); no advisor QC due (item 24; next QC at item 25)",
+  "Drive-reduction theory": "fast-track; evidence: EBSCO Research Starters 'Drive theory' opened this session, all quotes verbatim (Hull two functions, HD formula, need-drive distinction, Freud id parallel); Freud block preserved with scoped EBSCO-supported content (seed gloss replaced), all 8 seed links preserved (AF082, AF036, E014, MO010, SE009, CO077, SP076, SE007), dash-placeholder junk removed; no inherited Sources lines in seed, EBSCO line added; advisor QC due (item 25, covering 21-25) — calling now"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T07:15:21+00:00",
+ "updated": "2026-10-20T07:16:28+00:00",
  "band_done": false
 }
