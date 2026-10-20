@@ -321,3 +321,10 @@
   treatment-target sentence from the same abstracts.
 - Vulnerability qualifier kept (Dantzer's "in vulnerable individuals"); no
   unconditional causal claim; abstract-level scope.
+
+## Kohlberg's theory of moral development (fast-track)
+- Opened: PubMed 37226125 (Jean-Tron et al. 2023, BMC Med Educ 23, 380) — the
+  three levels quoted verbatim; PMID 12668541 (Haidet et al. 2003, CMAJ 168,
+  840-4) — fixed-sequence claim and stage-scoring rule from the abstract.
+- Gilligan critique clause grounded in the linked compendium page's own summary
+  (care and relationship, not only justice); no external Gilligan claims.
