@@ -29,9 +29,10 @@
   "BE074",
   "BE076",
   "BE077",
-  "BI006"
+  "BI006",
+  "BI011"
  ],
- "in_progress": "BI011",
+ "in_progress": null,
  "flagged": {
   "AF059": "Reopened for QC: takeover QC round 3 (advisor): Practice outcome promise replaced with source-bounded guidance",
   "AF063": "Reopened for QC: takeover QC round 4 (advisor): Plain-words staging + attention-training mechanism overstatement + For example construction + introduction framing accuracy",
@@ -49,6 +50,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 5,
- "updated": "2026-10-20T14:17:55+00:00",
+ "updated": "2026-10-20T14:17:58+00:00",
  "band_done": false
 }
