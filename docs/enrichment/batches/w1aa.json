@@ -30,7 +30,9 @@
   "HEXACO model of personality structure",
   "HRV coherence research",
   "Halo effect",
-  "Hermeneutic circle"
+  "Hermeneutic circle",
+  "Homo faber: man the maker",
+  "Horizon"
  ],
  "in_progress": null,
  "flagged": {
@@ -44,6 +46,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T17:02:00+00:00",
+ "updated": "2026-10-20T17:02:54+00:00",
  "band_done": false
 }
