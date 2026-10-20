@@ -9,9 +9,15 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST 
 ---
 *Literary narrative, cross-cultural · Germany, 1922 · [Hermann Hesse, Siddhartha](https://en.wikipedia.org/wiki/Siddhartha_(novel))*
 
-Having tried asceticism, sensual pleasure, and worldly success, Siddhartha ends up living beside a river with the ferryman Vasudeva. He learns from the river what no teacher could tell him: that the water at the source and the water at the mouth are the same water, that the river is everywhere at once, and that his own life is no different.
+Having tried asceticism, sensual pleasure, and worldly success, Siddhartha ends up living beside a river with the ferryman Vasudeva. The lesson he learns there is not a doctrine but a way of hearing the river.
 
-Hesse's point is carefully anti-doctrinal. Siddhartha's friend Govinda stays with teachings; Siddhartha must learn directly from the thing itself. The river is the Dao by another name, and Vasudeva's role is not to instruct but to listen alongside him.
+> "Isn't it so, oh friend, the river has many voices, very many voices? Hasn't it the voice of a king, and of a warrior, and of a bull, and of a bird of the night, and of a woman giving birth, and of a sighing man, and a thousand other voices more?" ([Hesse, Siddhartha, Gutenberg 2500](https://www.gutenberg.org/files/2500/2500-h/2500-h.htm))
+
+> "So it is," Vasudeva nodded, "all voices of the creatures are in its voice." ([Hesse, Siddhartha, Gutenberg 2500](https://www.gutenberg.org/files/2500/2500-h/2500-h.htm))
+
+> "It is this what you mean, isn't it: that the river is everywhere at once, at the source and at the mouth, at the waterfall, at the ferry, at the rapids, in the sea, in the mountains, everywhere at once, and that there is only the present time for it, not the shadow of the past, not the shadow of the future?" ([Hesse, Siddhartha, Gutenberg 2500](https://www.gutenberg.org/files/2500/2500-h/2500-h.htm))
+
+Hesse's point is that the teaching is anti-doctrinal. Govinda stays with doctrines; Siddhartha learns from the thing itself, and Vasudeva's role is to listen alongside him rather than to instruct.
 
 
 ---
