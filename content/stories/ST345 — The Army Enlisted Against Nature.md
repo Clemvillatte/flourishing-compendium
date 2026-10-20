@@ -7,7 +7,7 @@ file: "ST345 — The Army Enlisted Against Nature"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
 legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S03.10 — III.10 Applied Flourishing — The Operational Core", "parent": ""}
 ---
-*United States, 1910–1942 · William James's "The Moral Equivalent of War" and the Civilian Conservation Corps*
+United States, 1910–1942 · William James's "The Moral Equivalent of War" and the Civilian Conservation Corps
 
 In 1906 William James gave an address at Stanford University, and four years later, in the last year of his life, the argument appeared as the essay "The Moral Equivalent of War" ([Democracy: A Journal of Ideas](https://democracyjournal.org/magazine/33/can-national-service-become-integral-to-our-culture/)). James did not argue as if the war party were simply wrong. The war-party is assuredly right, he wrote, "in affirming and reaffirming that the martial virtues, although originally gained by the race through war, are absolute and permanent human goods" ([James 1910, Wikisource](https://en.wikisource.org/wiki/The_Moral_Equivalent_of_War)). His evidence was blunt: "History is a bath of blood," and the martial virtues "must still remain the rock upon which states are built" ([James 1910, Wikisource](https://en.wikisource.org/wiki/The_Moral_Equivalent_of_War)).
 

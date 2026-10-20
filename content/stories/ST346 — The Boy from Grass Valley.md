@@ -7,7 +7,7 @@ file: "ST346 — The Boy from Grass Valley"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
 legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S03.08 — III.8 Pluralism, Values, and Democracy", "parent": ""}
 ---
-*California and Massachusetts, 1855–1916 · Josiah Royce*
+California and Massachusetts, 1855–1916 · Josiah Royce
 
 Josiah Royce was born in 1855 in Grass Valley, a remote mining town in California. His parents were English emigrants who had come west as Forty-Niners and never found gold ([UCLA Newsroom](https://newsroom.ucla.edu/magazine/josiah-royce-hall-philosopher-building-university)). Royce would look back on his home state as "the sad state wherein I had the odd fortune to be born … a philosophically barren area." He grew up poor, stocky and lonely, and still became the first major American philosopher born west of the Mississippi ([UCLA Newsroom](https://newsroom.ucla.edu/magazine/josiah-royce-hall-philosopher-building-university)). His mother, a devout Christian who headed a primary school, directed his early education with his older sisters; at eleven he was sent to school in San Francisco ([Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/royce/)).
 

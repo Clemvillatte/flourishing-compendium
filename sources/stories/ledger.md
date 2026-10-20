@@ -405,3 +405,12 @@ previously pushed only by ad-hoc git add) — KEPT, verified on origin/main.
 - MEANINGFUL CHECK (working tree vs pre-round-2 HEAD): all three story
   files clean — no errors, standard warnings only; no link changes this
   round.
+
+## Pragmatism batch 1 — closeout
+
+- Italics removed from ST345–ST347 (scene-setting lines, *Frankly* —
+  capitalization retained per the carrier, emphasis not reproduced).
+- SCOPED CONTENT ACCEPTANCE per advisor QC round 2. The acceptance does
+  not retrospectively certify the missed before-research catalogue
+  consultation; the corrective action (catalogue consultation before
+  research, save after each story) applies from the next batch onward.
