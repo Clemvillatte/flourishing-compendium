@@ -109,3 +109,7 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 ## Y132 (2026-10-21)
 - Woods HOS 17: 1.3 and commentary (p. 13, "13]" head); 4.34 (sutra p. 347, commentary into p. 348 per the "[348" head); Arnold Gita ch. 6 (lamp sheltered from the wind; "call that state peace"). All quotes verified by script.
 - Old text's "the lake settled" image, "striving is a means that can be set down" and the closing one-minute non-doing practice are not in the opened passages; page flags them as the principle's. "Isolation" is Woods' rendering of kaivalya. Old cite BG 6.19 not checked against a numbered edition. Plain words replicate replaced; example imagined. Self-QC only.
+
+## Y012 (2026-10-21)
+- Woods HOS 17 pp. 132-133 (2.15 and Vyasa on the three pains; "[132" and "133]" heads). Quotes verified except footnote digit ("opposition1") and OCR hyphen breaks.
+- Old text's "tremor of unsatisfactoriness because pleasant states are structurally unstable" is replaced by the commentary's mechanism (craving, satiation, rising passion, latent deposit). The diagnostic question about where stability was placed is the principle's, labelled. Plain words replicate replaced; example imagined. Self-QC only.

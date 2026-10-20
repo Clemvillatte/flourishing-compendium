@@ -12,13 +12,29 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 12** — Read the fragility of chasing as signal
 
-The tradition makes an uncomfortable claim: for the discriminating mind, the whole round of getting-and-losing, even at its pleasantest, carries a tremor of unsatisfactoriness, because pleasant states are structurally unstable. This is not pessimism to adopt as a mood; it is a diagnostic to run. Practically, when a pleasure collapses faster than expected, do not ask "what is wrong with me," ask "what does this show about where I placed stability?"
+Sutra 2.15 gives the tradition's claim in one line: "As being the pains which are mutations and anxieties and subliminal-impressions, and by reason of the opposition of the fluctuations of the aspects (guna), to the discriminating all is nothing but pain" (trans. Woods, p. 132). The subject is how the world looks to the "discriminating" person, who sees more than the ordinary one does.
 
-(YS 2.15.)
+### Pain of mutation
 
-**Plain words** The tradition's uncomfortable claim: for the discriminating mind, the whole round of getting-and-losing carries a tremor of unsatisfactoriness — because pleasant states are structurally unstable. Not pessimism as a mood; a signal-read. The fragility of the chase is data about what it's made of.
+Vyasa names three kinds of pain. The first, "the painfulness of mutation", is that pleasure itself depends on craving and on instruments: "That which is the subsidence of the organs because of their satiation with enjoyments is pleasure; after there has been a craving, the failure to subside is pain." The commentary adds that "application to the enjoyment of pleasure is not a way of approach [to freedom from thirst for objects]", because "passions increase" with it. One aiming at pleasure "is sunk in the deep bog of pain". The painfulness of mutation "is counteractive; even in a condition of pleasure it hinders the yogin himself" (pp. 132-133).
 
-*For example:* Someone notices the promotion high lasted eleven days before the new anxiety set in — and reads the tremor correctly: not "I need the next promotion," but "this structure doesn't hold weight."
+### The other two
+
+The second, "anxiousness", comes from yearning for pleasant things and aversion to painful ones, and the third, of "subliminal-impressions", is the accumulation of residue from both pleasant and painful experience (p. 133).
+
+### What the principle adds
+
+The text says the instability is in the cycle of craving, satisfaction and fresh craving, not that pleasure is a "tremor". The diagnostic question about "where I placed stability" and the advice to run it when a pleasure collapses are the principle's practical adaptation. They do not appear in Woods.
+
+**Plain words** Patanjali says that for a discerning person even pleasure carries a cost: it feeds craving and leaves residue. The point is to see how the cycle works. Using a pleasure's sudden collapse as a cue to ask where you placed stability is a modern application.
+
+*For example:* Imagined example: a good review lifts your mood, and a day later the mood is gone. You ask what you were counting on the review to do for you.
+
+(Yoga Sutra 2.15 with Vyasa's Bhasya, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), pp. 132-133, Internet Archive, opened 2026-10-21.)
+
+## Sources
+
+- [Woods, The Yoga-System of Patanjali (1914), Internet Archive](https://archive.org/details/yogasystemofpata00wooduoft) — pp. 132-133
 ## Psychology parallels
 
 - **[[Hedonic adaptation|Hedonic adaptation]]**, the robust finding that the hedonic impact of gains decays (Frederick & Loewenstein, 1999; Lyubomirsky, 2011)
