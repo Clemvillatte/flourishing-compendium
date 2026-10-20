@@ -1,125 +1,150 @@
 {
-  "reciprocal": [
-    {
-      "into": "Attention",
-      "type": "concept",
-      "phrase": "In the invisible-gorilla experiment, observers counting basketball passes failed to report a person in a gorilla suit",
-      "why": "the concept page describes the gorilla experiment but never links the principle that states attention's selectivity",
-      "notes": "found by mention scan during AT001 saturation; AT001's parallels already link Inattentional blindness, so this completes the loop at the hub concept"
-    },
-    {
-      "into": "AT048",
-      "type": "principle",
-      "phrase": "Open monitoring (OM) meditation involves observing",
-      "why": "the open-monitoring principle never links AT005, which states the attention/awareness distinction it depends on",
-      "notes": "found by mention scan during AT005 saturation"
-    },
-    {
-      "into": "AT007",
-      "type": "principle",
-      "phrase": "what you attend to grows",
-      "why": "the attention-shapes-experience principle restates James's selection claim that AT012 documents, without linking it",
-      "notes": "found by mention scan during AT012 saturation"
-    },
-    {
-      "into": "AT037",
-      "type": "principle",
-      "phrase": "attention restoration theory",
-      "why": "AT037 quotes the same Kaplan 1995 paper for the depletable-resource claim but never links AT038, which documents the soft-fascination recovery mechanism",
-      "notes": "found by mention scan during AT038 saturation"
-    },
-    {
-      "into": "AT025",
-      "type": "principle",
-      "phrase": "When you notice your mind wandering, return to the breath",
-      "why": "the return-from-wandering practice AT025 describes is the FA skill AT047 documents from Lutz et al. 2008, with no link between them",
-      "notes": "found by mention scan during AT047 saturation"
-    },
-    {
-      "into": "AT063",
-      "type": "principle",
-      "phrase": "attentional costs of media multitasking",
-      "why": "AT063 covers the multitasking-costs evidence (Ophir et al. 2009) without linking AT055, which frames the same study as conditioning/default-setting",
-      "notes": "found by mention scan during AT055 saturation"
-    },
-    {
-      "into": "AF081",
-      "type": "principle",
-      "phrase": "Autistic, ADHD, and other neurodivergent affective patterns",
-      "why": "the neurodivergent-affect principle covers ADHD without linking AT069, which documents the interest-based attention evidence",
-      "notes": "found by mention scan during AT069 saturation"
-    },
-    {
-      "into": "A011",
-      "type": "principle",
-      "phrase": "Graded exposure therapy",
-      "why": "the graded-exposure principle covers the approach treatment without linking BE025, which documents why avoidance maintains the fear the treatment targets",
-      "notes": "found by mention scan during BE025 saturation"
-    },
-    {
-      "into": "B092",
-      "type": "principle",
-      "phrase": "insomnia approached with curiosity",
-      "why": "B092 uses insomnia as its worked example for approaching discomfort with curiosity; BE039 documents the structured treatment (CBT-I) whose cognitive component does exactly that reframe",
-      "notes": "found by mention scan during BE039 saturation"
-    },
-    {
-      "into": "AF075",
-      "type": "principle",
-      "phrase": "Empathic understanding (Rogers)",
-      "why": "AF075's parallels already cite Rogers for empathic understanding and Right listening; BE050 documents the Rogers & Farson active-listening method those parallels point at",
-      "notes": "found by mention scan during BE050 saturation"
-    },
-    {
-      "into": "A044",
-      "type": "principle",
-      "phrase": "Experiential learning cycle (Kolb)",
-      "why": "A044's parallels already cite Ericsson et al. 1993 for deliberate practice; BE060 documents that same Ericsson evidence plus Bandura's mastery-experience findings",
-      "notes": "found by mention scan during BE060 saturation"
-    },
-    {
-      "into": "A014",
-      "type": "principle",
-      "phrase": "Mattering and generativity (Pratt et al.)",
-      "why": "A014's parallels cite mattering and generativity research; BE068 documents the generativity evidence base (Erikson definition, seven-region and MIDUS findings) those parallels point at",
-      "notes": "found by mention scan during BE068 saturation"
-    },
-    {
-      "into": "AF084",
-      "type": "principle",
-      "phrase": "affect-maintenance system (learn, adapt, retain)",
-      "why": "AF084 frames emotion-regulation maintenance in Gross's process-model terms; BE078 documents the general behaviour-change maintenance literature (Kwasnicka 2016 five themes) that underlies the learn-adapt-retain framing",
-      "notes": "found by mention scan during BE078 saturation"
-    },
-    {
-      "into": "AT049",
-      "type": "principle",
-      "phrase": "Breath as life force (pranayama)",
-      "why": "AT049's parallels cover breath practices across traditions; the Wang 2010 tai chi trial documents breathing techniques and relaxation as components of the tai chi classes it tested",
-      "notes": "found by mention scan during BI029 saturation"
-    },
-    {
-      "into": "BI036",
-      "type": "principle",
-      "phrase": "omega-3 fatty acids for the brain",
-      "why": "BI036 covers omega-3 nutrition; BI041 documents the trial evidence (Grosso 2014) and formulation detail (EPA-majority) plus the regulation caution that qualifies every supplement claim",
-      "notes": "found by mention scan during BI041 saturation"
-    }
-  ],
-  "inline": [
-    {
-      "into": "BE009",
-      "concept": "Shaping (Skinner)",
-      "phrase": "The tradition's method for building a complex behaviour is shaping",
-      "why": "names the shaping procedure the linked concept defines, with the same Skinner chapter",
-      "notes": "advisor round 1: link the existing concept, not the whole sentence to BE023; BE009 body names shaping without linking it; checked against the opened BFSkinner PDF this session"
-    },
-    {
-      "into": "Dukkha",
-      "concept": "Hedonic adaptation",
-      "phrase": "the hedonic treadmill of psychology",
-      "why": "the comparison names the psychological process this concept defines",
-      "notes": "mention scan during AF069; phrase verified in the Dukkha file; concept page exists"
-    }
-  ]
+ "reciprocal": [
+  {
+   "into": "Attention",
+   "type": "concept",
+   "phrase": "In the invisible-gorilla experiment, observers counting basketball passes failed to report a person in a gorilla suit",
+   "why": "the concept page describes the gorilla experiment but never links the principle that states attention's selectivity",
+   "notes": "found by mention scan during AT001 saturation; AT001's parallels already link Inattentional blindness, so this completes the loop at the hub concept",
+   "link": "AT001"
+  },
+  {
+   "into": "AT048",
+   "type": "principle",
+   "phrase": "Open monitoring (OM) meditation involves observing",
+   "why": "the open-monitoring principle never links AT005, which states the attention/awareness distinction it depends on",
+   "notes": "found by mention scan during AT005 saturation",
+   "link": "AT005"
+  },
+  {
+   "into": "AT007",
+   "type": "principle",
+   "phrase": "what you attend to grows",
+   "why": "the attention-shapes-experience principle restates James's selection claim that AT012 documents, without linking it",
+   "notes": "found by mention scan during AT012 saturation",
+   "link": "AT012"
+  },
+  {
+   "into": "AT037",
+   "type": "principle",
+   "phrase": "attention restoration theory",
+   "why": "AT037 quotes the same Kaplan 1995 paper for the depletable-resource claim but never links AT038, which documents the soft-fascination recovery mechanism",
+   "notes": "found by mention scan during AT038 saturation",
+   "link": "AT038"
+  },
+  {
+   "into": "AT025",
+   "type": "principle",
+   "phrase": "When you notice your mind wandering, return to the breath",
+   "why": "the return-from-wandering practice AT025 describes is the FA skill AT047 documents from Lutz et al. 2008, with no link between them",
+   "notes": "found by mention scan during AT047 saturation",
+   "link": "AT047"
+  },
+  {
+   "into": "AT063",
+   "type": "principle",
+   "phrase": "attentional costs of media multitasking",
+   "why": "AT063 covers the multitasking-costs evidence (Ophir et al. 2009) without linking AT055, which frames the same study as conditioning/default-setting",
+   "notes": "found by mention scan during AT055 saturation",
+   "link": "AT055"
+  },
+  {
+   "into": "AF081",
+   "type": "principle",
+   "phrase": "Autistic, ADHD, and other neurodivergent affective patterns",
+   "why": "the neurodivergent-affect principle covers ADHD without linking AT069, which documents the interest-based attention evidence",
+   "notes": "found by mention scan during AT069 saturation",
+   "link": "AT069"
+  },
+  {
+   "into": "A011",
+   "type": "principle",
+   "phrase": "Graded exposure therapy",
+   "why": "the graded-exposure principle covers the approach treatment without linking BE025, which documents why avoidance maintains the fear the treatment targets",
+   "notes": "found by mention scan during BE025 saturation",
+   "link": "BE025"
+  },
+  {
+   "into": "B092",
+   "type": "principle",
+   "phrase": "insomnia approached with curiosity",
+   "why": "B092 uses insomnia as its worked example for approaching discomfort with curiosity; BE039 documents the structured treatment (CBT-I) whose cognitive component does exactly that reframe",
+   "notes": "found by mention scan during BE039 saturation",
+   "link": "BE039"
+  },
+  {
+   "into": "AF075",
+   "type": "principle",
+   "phrase": "Empathic understanding (Rogers)",
+   "why": "AF075's parallels already cite Rogers for empathic understanding and Right listening; BE050 documents the Rogers & Farson active-listening method those parallels point at",
+   "notes": "found by mention scan during BE050 saturation",
+   "link": "BE050"
+  },
+  {
+   "into": "A044",
+   "type": "principle",
+   "phrase": "Experiential learning cycle (Kolb)",
+   "why": "A044's parallels already cite Ericsson et al. 1993 for deliberate practice; BE060 documents that same Ericsson evidence plus Bandura's mastery-experience findings",
+   "notes": "found by mention scan during BE060 saturation",
+   "link": "BE060"
+  },
+  {
+   "into": "A014",
+   "type": "principle",
+   "phrase": "Mattering and generativity (Pratt et al.)",
+   "why": "A014's parallels cite mattering and generativity research; BE068 documents the generativity evidence base (Erikson definition, seven-region and MIDUS findings) those parallels point at",
+   "notes": "found by mention scan during BE068 saturation",
+   "link": "BE068"
+  },
+  {
+   "into": "AF084",
+   "type": "principle",
+   "phrase": "affect-maintenance system (learn, adapt, retain)",
+   "why": "AF084 frames emotion-regulation maintenance in Gross's process-model terms; BE078 documents the general behaviour-change maintenance literature (Kwasnicka 2016 five themes) that underlies the learn-adapt-retain framing",
+   "notes": "found by mention scan during BE078 saturation",
+   "link": "BE078"
+  },
+  {
+   "into": "AT049",
+   "type": "principle",
+   "phrase": "Breath as life force (pranayama)",
+   "why": "AT049's parallels cover breath practices across traditions; the Wang 2010 tai chi trial documents breathing techniques and relaxation as components of the tai chi classes it tested",
+   "notes": "found by mention scan during BI029 saturation",
+   "link": "BI029"
+  },
+  {
+   "into": "BI036",
+   "type": "principle",
+   "phrase": "omega-3 fatty acids for the brain",
+   "why": "BI036 covers omega-3 nutrition; BI041 documents the trial evidence (Grosso 2014) and formulation detail (EPA-majority) plus the regulation caution that qualifies every supplement claim",
+   "notes": "found by mention scan during BI041 saturation",
+   "link": "BI041"
+  },
+  {
+   "into": "Narrative identity",
+   "link": "CO010",
+   "why": "states the narrative form of thinking that the who-question and emplotment account presuppose"
+  },
+  {
+   "into": "Life story model",
+   "link": "CO010",
+   "why": "the everyday-cognition face of the model: experience held in story form"
+  }
+ ],
+ "inline": [
+  {
+   "into": "BE009",
+   "concept": "Shaping (Skinner)",
+   "phrase": "The tradition's method for building a complex behaviour is shaping",
+   "why": "names the shaping procedure the linked concept defines, with the same Skinner chapter",
+   "notes": "advisor round 1: link the existing concept, not the whole sentence to BE023; BE009 body names shaping without linking it; checked against the opened BFSkinner PDF this session"
+  },
+  {
+   "into": "Dukkha",
+   "concept": "Hedonic adaptation",
+   "phrase": "the hedonic treadmill of psychology",
+   "why": "the comparison names the psychological process this concept defines",
+   "notes": "mention scan during AF069; phrase verified in the Dukkha file; concept page exists"
+  }
+ ]
 }
