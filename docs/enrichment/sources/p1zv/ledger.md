@@ -124,3 +124,18 @@ Band: p1zv (Stoic principles S039–S126, ranks 1172–1201). Worker: worker-p1z
 **Saturation:** Apatheia, The discipline of assent and Urge surfing concept pages already cite S061; The doctrine of the mean (read) does not.
 
 **Proposals:** 1 reciprocal — The doctrine of the mean.
+
+## S063 — Do not fear what you cannot control (Principle 185)
+
+**Source opened and raw-verified:**
+1. Seneca, Moral Letters to Lucilius, Letter 13, "On groundless fears", Richard Mott Gummere translation, Wikisource — https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_13 — raw HTML downloaded to qc/seneca13.html; translator credit verified on the page ("Moral letters to Lucilius by Seneca, translated by Richard Mott Gummere").
+   - "There are more things, Lucilius, likely to frighten us than there are to crush us; we suffer more often in imagination than in reality." (opening) — FULL MATCH in raw HTML.
+   - "What I advise you to do is, not to be unhappy before the crisis comes; since it may be that the dangers before which you paled as if they were threatening you, will never come upon you; they certainly have not yet come." (§4) — FULL MATCH in raw HTML.
+
+**Validator:** first run FAILED ("front-matter changed") — my typo introduced an em dash into the legacy chapter field ("Layer V — Emotions" instead of "Layer V - Emotions"); corrected and ok on the second run.
+
+**Saturation:** Courage and Self-efficacy concept pages already cite S063; Graded exposure systematic desensitisation (Wolpe) (read) does not, and its Cited in philosophy parallels section lists no Stoic principles.
+
+**Proposals:** 1 reciprocal — Graded exposure systematic desensitisation (Wolpe).
+
+**Note:** the seed body's strong claim ("the second is always false, because your capacity for virtue is always intact") was not carried forward verbatim; the rewrite grounds the fear/control distinction in the two verified Letter 13 passages (imagination vs reality; do not pre-suffer).
