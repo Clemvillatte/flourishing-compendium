@@ -12,13 +12,19 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 438** — Practise resoluteness (Entschlossenheit)
 
-Choose to be resolute — to decide, to act, to commit. Resoluteness is not stubbornness; it is the authentic response to the call of conscience. It is the moment when you break free from the diffusion of the "they" and take up your ownmost possibility. Practise resoluteness in your daily decisions, large and small.
+For Heidegger, resoluteness answers the call of conscience by taking responsibility for one's possibilities. It keeps a person involved in practical concerns and relationships: choosing happens within an existing situation, with the possibilities it actually offers ([Being and Time, §60, pp. 343–346, Macquarrie and Robinson translation](https://dhspriory.org/kenny/PhilTexts/Heidegger/BeingTime08.doc)).
 
-(Heidegger, 1927/2008, Being and Time, §§54-60, 62-63.)
+> Resolution does not withdraw itself from 'actuality', but discovers first what is factically possible;
 
-**Plain words** Resoluteness (Entschlossenheit): decide, act, commit — the authentic response to the call of conscience. Not stubbornness; the moment you break free from the diffusion of the "they" and take up your ownmost possibility. Practise deciding as a skill.
+(Heidegger, Being and Time, §60, p. 346; [opened text](https://dhspriory.org/kenny/PhilTexts/Heidegger/BeingTime08.doc), excerpt from a longer sentence.)
 
-*For example:* The person who's been "exploring options" for six years — and one Tuesday, resolves: this, now, with what I have. The decision isn't magically right; it's owned, which turns out to be the active ingredient.
+### Plain words
+
+Ask what you can take responsibility for in the circumstances you have. Other people's expectations belong to those circumstances, but you still have to choose how to live among them.
+
+### For example
+
+Suppose you are considering a career change while supporting a family. As a practical illustration, you might commit to a part-time course after checking its cost and discussing the commitment at home.
 ## Psychology parallels
 
 - **[[Self-determination|Self-determination]]** (Deci and Ryan, 2000)
