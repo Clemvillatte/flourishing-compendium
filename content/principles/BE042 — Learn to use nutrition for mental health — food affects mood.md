@@ -19,7 +19,7 @@ The wider evidence agrees in direction but is smaller. Across sixteen randomised
 > "this is the first RCT to explicitly seek to answer the question: If I improve my diet, will my mental health improve?" (Jacka et al. 2017, [BMC Medicine](https://pmc.ncbi.nlm.nih.gov/articles/PMC5282719/))
 
 **Plain words**
-Two kinds of study sit behind the principle. Trials where people improved their diet found somewhat fewer symptoms of depression afterwards; in the largest, ten of the thirty-three depressed participants who worked with a dietitian met the remission criteria, against two of thirty-four who received only social visits. Surveys of what people eat find the same direction: more vegetables, fish and olive oil with less depression, more processed food and sweets with more.
+Two kinds of study sit behind the principle. Trials where people improved their diet found somewhat fewer symptoms of depression afterwards; in the SMILES trial, about a third of the dietitian group met remission criteria, against under a tenth of the control group. Surveys of what people eat find the same direction: more vegetables, fish and olive oil with less depression, more processed food and sweets with more.
 
 *For example:* An imagined case: someone with low mood who lives on takeaway and sweets asks their doctor whether diet matters. The evidence-backed referral is a few sessions with a dietitian on a whole dietary pattern, not a supplement shelf; the trials concern whole diets, and the meta-analysts state the effective components are still unknown.
 

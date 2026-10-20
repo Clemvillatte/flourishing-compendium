@@ -21,7 +21,7 @@ Bright light also has trial evidence as an antidepressant. In an eight-week rand
 **Plain words**
 The body sets its clock mainly by light. Indoor life cuts the daytime signal and adds a false one at night, so the clock runs late and sleep follows. The two fixes point in opposite directions: more daylight, especially in the morning, and less glow in the last hours before bed.
 
-*For example:* An imagined case: a night owl who reads a tablet in bed until 1 a.m. and cannot wake before 9 swaps the tablet for a paper book and takes a 20-minute morning walk. The trials behind the two changes point the same way: the evening glow was delaying the clock; the daylight advances it.
+*For example:* An imagined case: a night owl who reads a tablet in bed until 1 a.m. and cannot wake before 9 considers two changes: a paper book at night, daylight in the morning. The trials behind the changes suggest the direction of each; whether they help this person is what the experiment would test.
 
 ## Sources
 

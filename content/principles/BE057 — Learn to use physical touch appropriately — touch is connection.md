@@ -19,9 +19,9 @@ The stress-physiology evidence comes from the laboratory. Sixty-seven women face
 > "these findings imply a direct protective effect of touch on stress-related neurobiological systems as a possible underlying mechanism of health beneficial effects of positive couple interaction" (Ditzen et al. 2007, [Psychoneuroendocrinology](https://pubmed.ncbi.nlm.nih.gov/17499441/))
 
 **Plain words**
-Touch does two measurable things in the studies above: it takes some of the sting out of a bad day with people, and it calms the body's stress response before a stressful event. What the studies do not show is magic: the hug finding is correlational, and the massage trial covered women with male partners. The principle's word "appropriately" does the heavy lifting; consent and context decide when touch connects rather than intrudes.
+Two findings sit behind the principle. In the diary study, people who received a hug on conflict days showed smaller mood changes than those who did not; in the laboratory, the massage group's stress responses were lower. The hug finding is an association, and the massage trial covered women with male partners. The principle's word "appropriately" does the heavy lifting; consent and context decide when touch connects rather than intrudes.
 
-*For example:* An imagined case: after a tense phone call with a sibling, someone accepts their partner's offered hug rather than waving it off. The hug does not remove the conflict; in the study's pattern it softens the mood impact.
+*For example:* An imagined case: after a tense phone call with a sibling, someone accepts their partner's offered hug rather than waving it off. The hug does not remove the conflict; the diary study's association is with smaller mood changes on days like that.
 
 ## Sources
 

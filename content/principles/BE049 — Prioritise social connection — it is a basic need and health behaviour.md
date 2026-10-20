@@ -12,12 +12,12 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BE — Overt Be
 ---
 > **Principle 49** — Prioritise social connection: it is a basic need and health behaviour
 
-The mortality numbers are what make this a health behaviour rather than a temperament. Across 148 studies and 308,849 participants, stronger social relationships carried a 50% increased likelihood of survival, an effect that held across age, sex, initial health status and length of follow-up. A second meta-analysis separated the components: loneliness raised mortality risk by 26%, social isolation by 29%, and living alone by 32%, effects the authors compare with well-established mortality risk factors.
+The mortality numbers are what make this a health behaviour rather than a temperament. Across 148 studies and 308,849 participants, stronger social relationships carried a 50% increased likelihood of survival, an effect that held across age, sex, initial health status and length of follow-up. A second meta-analysis separated the components: loneliness (odds ratio 1.26), social isolation (odds ratio 1.29) and living alone (risk ratio 1.32), effects the authors compare with other well-established risk factors for mortality.
 
 > "Across 148 studies (308,849 participants), the random effects weighted average effect size was OR = 1.50 (95% CI 1.42 to 1.59), indicating a 50% increased likelihood of survival for participants with stronger social relationships." (Holt-Lunstad, Smith & Layton 2010, [PLoS Medicine](https://pubmed.ncbi.nlm.nih.gov/20668659/))
 
 **Plain words**
-The evidence treats connection like a health behaviour: it changes how long people live, on a par with better-known risk factors. So a standing weekly dinner belongs in the same category as sleep and exercise, not in the leftovers of a schedule. Busy months usually cancel connection first; this evidence is the argument for protecting it like sleep.
+The evidence treats connection like a health behaviour: people with stronger relationships were more likely to be alive at follow-up, with an effect the reviewers compare to well-known risk factors. A weekly dinner belongs in the same category as sleep and exercise, and is worth protecting when the calendar fills.
 
 *For example:* An imagined case: a freelancer who has dropped every social commitment to hit a deadline keeps the deadline, then books two evenings with friends in the following week and treats them as fixed appointments rather than as rewards to be dropped if work appears.
 

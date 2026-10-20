@@ -12,11 +12,19 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BE — Overt Be
 ---
 > **Principle 61** — Engage in helping behaviour: contribute to others
 
-Helping behaviour — volunteering, mentoring, contributing to community, acts of service — is associated with meaning, purpose, connection, and well-being. It is a specific meaningful behaviour.
+A 2013 systematic review of 40 papers on formal volunteering carries the principle. The cohort studies found favourable effects on depression, life satisfaction and wellbeing, and a meta-analysis of five of them put volunteers at lower risk of mortality (risk ratio 0.78). The review's authors are careful about causation: observational evidence suggested volunteering may benefit mental health and survival, but the causal mechanisms remain unclear, and the experimental studies did not confirm the cohort findings.
 
-**Plain words** Contributing — volunteering, mentoring, showing up for the community — is one of the most reliable well-being behaviours known. It's the anti-rumination: hard to spiral inward while actively useful outward.
+> "Cohort studies showed volunteering had favourable effects on depression, life satisfaction, wellbeing but not on physical health." (Jenkinson et al. 2013, [BMC Public Health](https://pmc.ncbi.nlm.nih.gov/articles/PMC3766013/), Abstract, Results)
 
-*For example:* The retiree who "had nothing to do" until the school reading program — now Wednesdays have a face, a purpose, and a small boy who can suddenly read "asteroid." The depression didn't stand a chance.
+**Plain words**
+Finding that volunteers fare better does not tell someone what will happen if they sign up tomorrow. The experimental studies in this review did not confirm the benefits seen in cohort studies. You can choose a manageable way to contribute without expecting it to relieve depression.
+
+*For example:* In an imagined example, a retired teacher asks a local school about one weekly reading session and checks whether the commitment fits their available time.
+
+## Sources
+
+- [Jenkinson et al., "Is volunteering a public health intervention? A systematic review and meta-analysis of the health and survival of volunteers," BMC Public Health (2013)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3766013/) — abstract
+
 ## Psychology parallels
 
 - **Volunteering and well-being**, volunteering is associated with better health and well-being (Post, 2005; Jenkinson et al., 2013)

@@ -1,6 +1,6 @@
 {
  "batch": "p1zk",
- "revision": 6,
+ "revision": 7,
  "reciprocal": [
   {
    "into": "Sleep deprivation",
@@ -49,6 +49,12 @@
    "link": "BE057",
    "why": "the hug and partner-touch studies give this principle's evidence base",
    "notes": "Evidence in sources/p1zk/BE057.md (Murphy 2018, Ditzen 2007, both opened). Concept already links BE057 in its parallels."
+  },
+  {
+   "into": "Helper's high",
+   "link": "BE061",
+   "why": "the volunteering review behind this principle is the evidence for the helper's-high claim's context",
+   "notes": "Neutral clause per advisor QC convention; the helper's-high construct itself is inherited (Post 2005/Luks 1991, not opened). Evidence in sources/p1zk/BE061.md (Jenkinson 2013, opened)."
   }
  ],
  "inline": []
