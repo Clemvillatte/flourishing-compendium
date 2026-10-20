@@ -12,17 +12,33 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 185** — Prefer being to seeming
 
-Great virtue seems deficient; the highest virtue is not virtuous-looking. Optimize for reality over reputation in everything.
+Daodejing 38 opens with the contrast this principle is named from:
+
+> "(Those who) possessed in highest degree the attributes (of the Tao) did not (seek) to show them, and therefore they possessed them (in fullest measure). (Those who) possessed in a lower degree those attributes (sought how) not to lose them, and therefore they did not possess them (in fullest measure)." (DDJ 38, Legge trans., [Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt))
+
+The chapter ends with the Great man's choice:
+
+> "Thus it is that the Great man abides by what is solid, and eschews what is flimsy; dwells with the fruit and not with the flower. It is thus that he puts away the one and makes choice of the other." (DDJ 38)
+
+And chapter 41's sentence-makers give the same reversal in rhyme:
+
+> "Its highest virtue from the vale doth rise; / Its greatest beauty seems to offend the eyes; / And he has most whose lot the least supplies. / Its firmest virtue seems but poor and low; / Its solid truth seems change to undergo." (DDJ 41)
+
+The compendium reads these passages as a consistent preference: the chapter's advice is to dwell with the fruit and not with the flower, in conduct as much as in judgement of others.
 
 (DDJ 38, 41.)
 
-**Plain words** Reputation is a lagging indicator of the real thing — and chasing the indicator is how the real thing dies. Optimize for reality over reputation.
+**Plain words** Chapter 38's opening lines separate two ways of having a quality. The lower degree holds it by displaying it; the highest degree does not seek to show it at all. The chapter's own image for the choice is fruit and flower: the flower is what shows, the fruit is what the showing is for. A practical reading: when you act, notice which one you are dwelling with, and when you judge others, notice that the chapter warns you the highest degree may not look like much.
 
-*For example:* The parent who never talks about their parenting but whose kids turn out wonderful — the metric nobody captured.
+*For example:* Imagine doing a piece of work whose quality will be visible only to the people who use it. You could choose the version that works better over the version that demonstrates more, and let the demonstrating go.
+
+## Sources
+
+- [The Tao Teh King, Legge trans., Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt) — chapters 38, 41
 
 ## Psychology parallels
 
-- **[[Authenticity|Authenticity]]**, congruence between inner experience and outer expression predicts well-being (Kernis and Goldman, 2006)
+- **[[Authenticity|Authenticity]]** (Kernis and Goldman, 2006)
 - **[[Impostor-phenomenon research|Impostor-phenomenon research]]**
 
 ## Philosophy parallels
