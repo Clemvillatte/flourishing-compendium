@@ -49,6 +49,26 @@
       "into": "Learned optimism",
       "link": "Growth mindset",
       "why": "Both are belief constructs built on attribution research: what failure and setbacks are taken to mean."
+    },
+    {
+      "into": "Habit maintenance",
+      "link": "Habit formation",
+      "why": "Maintenance begins where formation ends: keeping a habit going once automaticity has plateaued."
+    },
+    {
+      "into": "Habit stacking",
+      "link": "Habit formation",
+      "why": "Stacking is context-cue design for formation: anchoring the new behaviour to an existing routine."
+    },
+    {
+      "into": "Context-dependent behaviour (Wood & Neal)",
+      "link": "Habit formation",
+      "why": "Habit formation is the process the Wood-Neal context-cue model describes."
+    },
+    {
+      "into": "Behavioural chaining (applied behaviour analysis)",
+      "link": "Habit formation",
+      "why": "Everyday routines as habit chains are the applied-behaviour-analysis view of the same acquisition process."
     }
   ],
   "inline": [
