@@ -68,3 +68,6 @@ No advisor tool available; QC is self-QC only.
 
 ## SP013 Love and hate as attached affects
 - Opened: Spinoza Ethics (Elwes) full text; Def. of Emotions VI, VII and V P2 + proof, verbatim. Original locator 'III P13 and P14' not matching Elwes (definitions are at end of Part III); Elwes uses pleasure/pain where the entry says joy/sadness (translation difference noted on page; other translations not opened). Remedy in V P2 is to link the emotion to other thoughts, noted as slightly different from 'examine the attribution'.
+
+## SP014 Expect to imagine others as like yourself
+- Opened: Spinoza Ethics (Elwes) III P27 + proof + Note I, verbatim. FLAG: III P27 is the imitation of affects (we feel a like emotion on picturing a similar person feel one), not projection of our states onto others; the entry's projection reading is labelled as its extension. Holmes 1968, Hume, Smith not opened.

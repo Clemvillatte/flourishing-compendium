@@ -12,13 +12,24 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 14** — Expect to imagine others as like yourself
 
-From the similarity of natures, Spinoza derives that we imagine others to be affected as we are: we picture their inner states by copying our own onto them. This is projection stated as physics, three centuries before the term. Its practical warning is double: your map of other people is mostly autobiography, and their map of you is mostly their autobiography. Practically, before acting on a strong reading of someone's motives, ask which of your own states you are copying onto them.
+> By the very fact that we conceive a thing, which is like ourselves, and which we have not regarded with any emotion, to be affected with any emotion, we are ourselves affected with a like emotion (affectus).
 
-(Ethics III, P27.)
+(Spinoza, Ethics, Part III, Proposition 27, trans. R. H. M. Elwes, [Project Gutenberg](https://www.gutenberg.org/ebooks/3800).)
 
-**Plain words** From the similarity of natures, we imagine others to be affected as we are — projection stated as physics, three centuries before the term. Expect the projection in yourself and in others: your picture of their inner state is a copy of your own, pasted on.
+Spinoza's proof is that images of things are modifications of our own body. If the external body is similar to ours, the idea of it "will involve a modification of our own body similar to the modification of the external body." The Note names the result: "This imitation of emotions, when it is referred to pain, is called compassion."
 
-*For example:* The manager assumes everyone wants the promotion — because they do — and the quiet ones keep leaving. Their inner states were never surveyed; they were copied. The retention problem was a projection problem.
+This proposition does not say that we assign our own states to other people. It says that picturing a similar person in an emotion makes us feel a like emotion. Reading it as projection, with the warning that "your map of other people is mostly autobiography," is the entry's extension. The same mechanism does explain why a reading of someone else can be coloured by one's own state. Spinoza adds a limit: "If, however, we hate the said thing like ourselves, we shall, to that extent, be affected by a contrary, and not similar, emotion."
+
+The psychology parallel on egocentric projection (Holmes, 1968) and the Hume and Smith parallels were not opened.
+
+**Plain words** Spinoza says that when we picture someone like us feeling something, we start to feel something like it ourselves. That is why other people's moods can spread to us, and it also means our picture of their inner life is built partly from our own feelings.
+
+*For example:* A manager who wants the promotion assumes that everyone does. Their view of what the quiet ones feel is made from their own wants.
+
+## Sources
+
+- [Spinoza, Ethics (trans. R. H. M. Elwes), Project Gutenberg #3800](https://www.gutenberg.org/ebooks/3800) — full text read; Part III Prop. 27, proof and Note I
+
 ## Psychology parallels
 
 - **[[Egocentric projection in social inference|Egocentric projection in social inference]]**, the anchoring of other-mind estimates on one's own states (classic projection research, Holmes, 1968; modern anchoring accounts)

@@ -29,15 +29,17 @@
   "SO057",
   "SO076",
   "SP002",
-  "SP013"
+  "SP013",
+  "SP014"
  ],
  "in_progress": null,
  "flagged": {
   "SO003": "Psychology parallels first bullet is broken (citation names stripped); needs repair",
   "SO015": "Psychology parallels first bullet is broken (names stripped); needs repair",
-  "SO019": "Chida et al. is 2009 not 2008 (Psychology parallels bullet still says 2008)"
+  "SO019": "Chida et al. is 2009 not 2008 (Psychology parallels bullet still says 2008)",
+  "SP014": "III P27 is imitation of affects, not projection; page labels projection as the entry's extension"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T10:23:18+00:00"
+ "updated": "2026-10-20T10:23:44+00:00"
 }
