@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 186** — Hide your light at the peak
 
-Chapter 9 of the Daodejing gives the instruction at the top of one's powers: it is better to leave a vessel unfilled than to attempt to carry it when it is full; if you keep feeling a point that has been sharpened, the point cannot long preserve its sharpness; when gold and jade fill the hall, their possessor cannot keep them safe; and when wealth and honours lead to arrogancy, this brings its evil on itself. The chapter's closing rule concerns completed work: when the work is done and one's name is becoming distinguished, to withdraw into obscurity is the way of Heaven. Chapter 4 gives the dimming image: we should blunt our sharp points, attemper our brightness, and bring ourselves into agreement with the obscurity of others. Chapter 36 names the strategist's version, hiding the light of his procedure.
+Chapter 9 of the Daodejing says it is better to leave a vessel unfilled than to attempt to carry it when it is full; if you keep feeling a point that has been sharpened, the point cannot long preserve its sharpness; when gold and jade fill the hall, their possessor cannot keep them safe; and when wealth and honours lead to arrogancy, this brings its evil on itself. The chapter's closing rule concerns completed work: when the work is done and one's name is becoming distinguished, to withdraw into obscurity is the way of Heaven. Chapter 4 gives the dimming image: we should blunt our sharp points, attemper our brightness, and bring ourselves into agreement with the obscurity of others. Chapter 36 names the strategist's version, hiding the light of his procedure.
 
 (DDJ 4, 9, 36.)
 
