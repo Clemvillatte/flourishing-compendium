@@ -316,3 +316,9 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 - Quotes verified: matched woods text (OCR hyphenation only) and the BG page.
 - Seed repairs: Vyasa's practice is a heart-lotus meditation, not a generic light image; BG 6.19 lamp is a simile for steadiness, not an instruction; "imagery is a genuine attentional channel" and the ten-minute exercise labelled as the page's own. Holmes & Mathews and Plotinus not opened.
 - Saturation: low.
+
+## Y051 (2026-10-21, worker-p1zz-b81e3f52)
+- Sources opened: Woods YS 1.37 and 1.38 with the Tika. ctext.org Analects 4.17 was unavailable from the sandbox.
+- Quotes verified: matched woods text (differences only hyphenation and a footnote number).
+- Seed repairs: the text lists the named exemplar (Krsnadvaipayana and others) and does not say "support, not destination"; that framing and the personal-exemplar practice labelled as the page's own. Bandura and Analects 4.17 not opened.
+- Saturation: low.
