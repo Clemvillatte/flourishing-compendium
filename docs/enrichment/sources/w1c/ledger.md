@@ -145,6 +145,10 @@ legacy schema (state keys + proposals) — MERGED, never replaced.
   4. Ledger summary line corrected from 5 to 7 reciprocals.
   Round 5: submitted with the actual scoped diff of page, proposals and
   ledger for verification.
+- Advisor QC round 5: PASS ("The actual diff confirms all round-4 repairs
+  ... No further research or review round is needed for this item.").
+  QC cycle: 4 FAILs (rounds 1-4) with repairs at each round, PASS at
+  round 5. Item done.
 - Proposals: 7 reciprocals (one per Related line: Attention, Bare
   attention in mindfulness practice, Empathy, Flow, Attentional control
   theory (Eysenck), Attentional control training and the role of repeated
