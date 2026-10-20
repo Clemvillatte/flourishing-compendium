@@ -67,7 +67,7 @@
       "into": "P160",
       "concept": "Self-as-context",
       "phrase": "That second position is self-as-context",
-      "why": "P160's Plain words (line 31) explains the two positions and names the second 'self-as-context' in plain text; the Self-as-context concept page is the compendium's page for the term. P160 currently has no [[Self-as-context]] wikilink (rg-verified).",
+      "why": "P160's Plain words (line 31) explains the two positions and names the second 'self-as-context' in plain text; the Self-as-context concept page is the compendium's page for the term. P160 currently has no [[Self-as-context]] wikilink (rg-verified). CAVEAT (QC round 7): the phrase sits inside the page's Plain words section, which the owner has flagged as often-broken replicates \u2014 supervisor to confirm before applying.",
       "_audit_why": "P160 file read via rg with line numbers; phrase verbatim at line 31; no existing Self-as-context link"
     },
     {
