@@ -617,3 +617,16 @@ convention).
 - Related concepts verified to exist: James-Lange theory of emotion (deg 5), Embodied cognition (22), Somatic marker hypothesis (Damasio) (3), Interoception (9).
 - Saturation: fast-track exemption; no reciprocal proposed (no existing Related section on the seed; nothing obviously missing jumped out).
 - QC: validator ok at fast-track profile (1 checked, 0 failed).
+
+### QC correction round (advisor first-item QC, applied same day)
+- Advisor QC round 1 on the fast-track item: FAIL. Repairs applied:
+  - "founding version"/"independently echoed" removed; now "One early bodily account is William James's 1884 proposal... Carl Lange offered a similar account in 1885" (within the opened SEP wording).
+  - The re-enactment/simulation mechanism was previously grounded only in my own background phrasing; now grounded by OPENING the Scientific Reports paper (https://www.nature.com/articles/s41598-017-18761-5, L. Barca) and quoting its introduction's definition of embodied theories verbatim; the "changes in body state can produce emotional states" central claim recorded as paraphrase from that opening.
+  - Opening narrowed (removed "inseparable from what the body is doing" overgeneralization).
+  - "In the compendium" bullet block removed (linked entries not read this session; intervention claim on BE046 and worldview claims unsupported).
+  - Related-concept captions removed (bare navigation links kept).
+  - Cannon/research-status sentence split in two.
+  - Bold removed from the seed line.
+- James 1884: 190 quotation re-verified against the RAW (unprompted) SEP page text: "we feel sorry because we cry, angry because we strike, afraid because we tremble, and not that we cry, strike, or tremble, because we are sorry, angry, or fearful." — character-for-character match confirmed in the raw fetched text.
+- Nature quotation verified verbatim against the fetched introduction text.
+- Revalidated at fast-track profile after repairs.

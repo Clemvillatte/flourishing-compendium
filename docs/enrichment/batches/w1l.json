@@ -20,10 +20,9 @@
   "Ecological ethics",
   "Ecological grief",
   "Ecological self",
-  "Ego dissolution",
-  "Embodied emotion theory"
+  "Ego dissolution"
  ],
- "in_progress": null,
+ "in_progress": "Embodied emotion theory",
  "flagged": {
   "Following nature's rhythms": "namespace: imperative-verb title, opened Legge DDJ 25 does not define the phrase; flagged Category A in concept-namespace-audit.md at item-5 advisor QC; body left as labelled interim material; supervisor disposition requested",
   "Cultural dimensions theory Hofstede": "title: garbled author-suffix title per the concept-verification queue; concept verified (Hofstede 6D model, geerthofstede.com URL added); rename to 'Cultural dimensions theory' is a metadata action routed to the supervisor",
@@ -32,10 +31,11 @@
   "Right association": "Reopened for QC: milestone-10 advisor QC: verse line breaks + mechanism claim",
   "Delay plus reappraisal": "namespace: label not a named construct in opened literature (advisor milestone-15); body reduced to supported interim material (extended process model + Gross p.15 tactics passage); supervisor disposition requested",
   "Digital well-being": "Reopened for QC: milestone-15 advisor QC: central definition now grounded (Burr/Taddeo/Floridi 2020); most-cited claim and Halfmann-Rieger characterization removed; related links bare",
-  "Divergent and convergent thinking": "Reopened for QC: milestone-15 advisor QC: central distinction now grounded (Jaarsveld/Lachmann definitions + SOI 1967 passage); 1950 quote kept as background with locator; unsupported history removed"
+  "Divergent and convergent thinking": "Reopened for QC: milestone-15 advisor QC: central distinction now grounded (Jaarsveld/Lachmann definitions + SOI 1967 passage); 1950 quote kept as background with locator; unsupported history removed",
+  "Embodied emotion theory": "Reopened for QC: advisor first-item QC: unsupported claims (independence/priority, re-enactment mechanism, compendium descriptions); repairs applied"
  },
  "missing_concepts": [],
  "sources_checked": 19,
- "updated": "2026-10-20T11:14:39+00:00",
+ "updated": "2026-10-20T11:18:34+00:00",
  "band_done": false
 }
