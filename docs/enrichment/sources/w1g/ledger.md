@@ -988,3 +988,18 @@
   [[The natural attitude]] (deg 18), [[Perspectivism]] (deg 9) added with glosses
   bounded to the fetched material.
 - Validation: --fast-track ok. sources_checked +1.
+
+## The stream of life (2026-10-20, worker-j9fpiyf; fast-track; degree 9 — eligible)
+
+- OPENED: William James, The Principles of Psychology (1890), ch. IX, Classics in the
+  History of Psychology, York University https://psychclassics.yorku.ca/James/Principles/prin9.htm
+  — the "chopped up in bits... river or a stream" passage, the "river of life, of the
+  river of elementary feeling... never descend twice into the same stream" passage, and
+  the "dissolving views... one protracted consciousness" passage each returned verbatim.
+  Blockquote exact. The Buddhist-impermanence closing sentence is framed as the
+  compendium's cross-tradition note (the linked principles B002/P001 carry it).
+- FAST-TRACK NOTE: saturation hunt skipped per §1a; [[Stream of consciousness]] (deg 12),
+  [[Impermanence]] (deg 32), [[Pursue becoming, not arrival]] (deg 18) added with
+  definitional glosses. A duplicated "file:" line introduced during the write was fixed
+  before saving; front-matter now matches the original byte-for-byte.
+- Validation: --fast-track ok. sources_checked +1.
