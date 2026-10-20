@@ -12,7 +12,11 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 303** — Honour the vā
 
-Attend to the relational space between yourself and others. In Pacific (Samoan, Tongan, Fijian) philosophy, the vā is the space between people that must be carefully maintained. It is not empty; it is the living ground of relationship. Tend the vā by being present, respectful, and attentive in your interactions.
+Wendt's essay gives the vā its canonical statement:
+
+> "Va is the space between, the betweenness, not empty space, not space that separates but space that relates, that holds separate entities and things together in the Unity-that-is-All, the space that is context, giving meaning to things. The meanings change as the relationships/the contexts change." (Wendt, "Tatauing the Post-Colonial Body", Span 42-43, 1996, pp. 15-29; text verified against the NZEPC online edition of the essay)
+
+The essay adds the practice in one line: the Samoan expression 'Ia teu le va' — cherish, nurse, care for the vā, the relationships. In communal cultures, Wendt writes, the individual is perceived in terms of the group, in terms of vā; the space between people is not dead air to cross but the thing itself that needs care. That is the principle's whole content: tend the between — presence, respect, attention — the way you would tend anything alive.
 
 (Samoan philosophy; Tuhiwai Smith, 1999, Decolonizing Methodologies; Wendt, 1996, "Tatauing the Post-Colonial Body," Span, 42-43, 15-29.)
 
@@ -31,3 +35,7 @@ Attend to the relational space between yourself and others. In Pacific (Samoan, 
 
 - **[[The Between|The Between]]** (Buber, I and Thou)
 - **[[Vā|Vā]]** (Wendt, "Tatauing the Post-Colonial Body")
+
+## Sources
+
+- [Albert Wendt, "Tatauing the Post-Colonial Body", Span 42-43 (1996), pp. 15-29 — NZEPC online edition](https://www.nzepc.auckland.ac.nz/authors/wendt/tatauing.asp) — the Va passage and 'Ia teu le va' verified character-for-character against the archived capture of this page (the live page blocks automated reading; the Wayback Machine capture of the same URL was used)
