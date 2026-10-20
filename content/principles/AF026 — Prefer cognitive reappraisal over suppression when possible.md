@@ -33,7 +33,7 @@ The abstract describes reappraisal as "often more effective than suppression" (p
 ## Philosophy parallels
 
 - **[[The discipline of assent|Reinterpretation of impressions]]** (Stoics, Epictetus, Enchiridion)
-- **Cognitive reframing as a Stoic technique** (Marcus Aurelius, Meditations)
+- (Marcus Aurelius, Meditations)
 
 ## Practice
 
