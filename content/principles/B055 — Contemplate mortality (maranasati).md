@@ -42,6 +42,10 @@ After attending a funeral, review your current priorities: name one standing arg
 - [[K226 — The deathbed test|K226 The deathbed test]]
 - [[K230 — Memento mori|K230 Memento mori]]
 - [[K232 — Life review|K232 Life review]]
+## Stories
+
+- [[ST343 — The Buddha's Last Words|343. The Buddha's Last Words]]
+
 ## Psychology parallels
 
 - **[[Death reflection|Death reflection]]**, increases gratitude and prosocial behavior (Cozzolino, 2006)

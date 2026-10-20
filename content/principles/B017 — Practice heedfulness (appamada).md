@@ -29,6 +29,7 @@ Choose something you care about sustaining. What would attending to it look like
 - [Dhammapada, Buddharakkhita translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.02.budd.html) — verses 21-23, the Heedfulness chapter
 
 ## Stories
+- [[ST343 — The Buddha's Last Words|343. The Buddha's Last Words]]
 
 - [[ST342 — The Wild Boars Sit Still|342. The Wild Boars Sit Still]]
 

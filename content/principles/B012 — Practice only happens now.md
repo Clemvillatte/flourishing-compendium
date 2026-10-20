@@ -31,6 +31,10 @@ As a compendium exercise, notice when thoughts about an upcoming event take your
 - [Ud 1.10, Bāhiya Sutta, Thanissaro translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/ud/ud.1.10.than.html) — in reference to the seen, only the seen
 - [The Miracle of Mindfulness excerpt, Thich Nhat Hanh, A Buddhist Library](https://www.abuddhistlibrary.com/Buddhism/G%20-%20TNH/TNH/From%20The%20Miracle%20of%20Mindfulness/Teaching.htm) — washing the dishes
 
+## Stories
+
+- [[ST343 — The Buddha's Last Words|343. The Buddha's Last Words]]
+
 ## Psychology parallels
 
 - **[[Mind wandering|Mind-wandering]]** (Killingsworth and Gilbert, 2010)
